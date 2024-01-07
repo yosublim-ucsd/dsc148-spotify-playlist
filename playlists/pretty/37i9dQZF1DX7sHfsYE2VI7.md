@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 
 > Chilled out dance classics to set the mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,866 likes - 70 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,915 likes - 70 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 19 | [Sing It Back \(Boris Musical Mix\) \(Edit\)](https://open.spotify.com/track/4O0LwyuV3U18Hg5AxILDlI) | [Moloko](https://open.spotify.com/artist/4aaBjq7VqqQvpSF69GglvO), [Boris Dlugosch](https://open.spotify.com/artist/5mrwZhvK7J8K34cWeFG3ru), [Michael Lange](https://open.spotify.com/artist/0r3oYkStfoV3sVeoQ1vmtw) | [Sing It Back](https://open.spotify.com/album/50fBSeZBLewhHEoYgw3C3U) | 4:38 |
 | 20 | [All I Need \(feat\. Beth Hirsch\)](https://open.spotify.com/track/6T10XPeC9X5xEaD6tMcK6M) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Beth Hirsch](https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 4:28 |
 | 21 | [Touch Me \(Radio Edit\) \[feat\. Cassandra\]](https://open.spotify.com/track/6j8nh1kHwezw8pkC2eU87F) | [Rui Da Silva](https://open.spotify.com/artist/1kx78nQhmITF7OFvivyN4v), [Cassandra](https://open.spotify.com/artist/2y8183jDSJ0E4jQSrRqMli) | [Kismet Records Presents Touch Me \(feat\. Cassandra\)](https://open.spotify.com/album/2Frul2fiPFYTGneYeqJOCi) | 3:33 |
-| 22 | [Manila](https://open.spotify.com/track/6V2QgOIMT94HhsfeIVbbZm) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Portraits Outtakes](https://open.spotify.com/album/49I1SKAgPZiPQ02ySZ5aUd) | 3:12 |
-| 23 | [Crave You](https://open.spotify.com/track/5mdzg7ZwebXNb90LPRusAs) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Down To Earth](https://open.spotify.com/album/1FQyS2AHgEQB6F5Jh1ymGb) | 3:54 |
+| 22 | [Crave You](https://open.spotify.com/track/5mdzg7ZwebXNb90LPRusAs) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Down To Earth](https://open.spotify.com/album/1FQyS2AHgEQB6F5Jh1ymGb) | 3:54 |
+| 23 | [Manila](https://open.spotify.com/track/6V2QgOIMT94HhsfeIVbbZm) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Portraits Outtakes](https://open.spotify.com/album/49I1SKAgPZiPQ02ySZ5aUd) | 3:12 |
 | 24 | [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 |
 | 25 | [Golden Light](https://open.spotify.com/track/1rPYEWQfIRo5A4fvLgFbBe) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Miracle Mile](https://open.spotify.com/album/1bvGSdxElbk5CTTPIrWO2L) | 4:43 |
 | 26 | [Starlight \- Radio Edit](https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY) | [The Supermen Lovers](https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA), [Mani Hoffman](https://open.spotify.com/artist/4h5uH2PyDzfpfZresu96cw) | [Starlight](https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX) | 3:54 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 67 | [Feather](https://open.spotify.com/track/6WDAtzaXY7d31CkuoxYFcb) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Machine Dreams](https://open.spotify.com/album/1223HNo18fRbvEKxMgiSa7) | 4:53 |
 | 68 | [Dance](https://open.spotify.com/track/0iD94fatV4gLMmOQhNTQx6) | [ESG](https://open.spotify.com/artist/4EF5vIcCYKMM61oYOG2Tqa) | [Come Away with ESG](https://open.spotify.com/album/4DX4hNQbCQnrDMlmKq3eid) | 4:34 |
 | 69 | [8 Ball](https://open.spotify.com/track/1tnhrn0zNTQGbo77wNwy44) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 8:58 |
-| 70 | [With You Forever](https://open.spotify.com/track/3wRSZvxk09S0Tvuwg1L69N) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [PNAU](https://open.spotify.com/album/6BtdVFxMhcOb0gkD53KogE) | 3:34 |
+| 70 | [Sunchyme \(Radio Edit\) \[Instrumental\] \- 2023 Remaster](https://open.spotify.com/track/1YnXX2CraK8O3G5V9KiWNY) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [Sunmachine \(25th Anniversary Edition\)](https://open.spotify.com/album/0anIASKjSOCbsX901aIJPU) | 3:55 |
 
-Snapshot ID: `MCwwZDIyM2UxNTllM2E2N2Y4MWM2YmIwNjEyMzcyNmE5YTg4YjZjMzk2`
+Snapshot ID: `MCwzN2Y4MjAzNGRlOWE4YzUwYWQ3NzlmODBkMzA1ZmFhYTBiMTI3ZmQ2`

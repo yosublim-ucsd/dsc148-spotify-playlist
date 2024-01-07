@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 67553,
+  "num_followers": 67641,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmUyYTJlYzUwZGRjODc2NmQyYjY0YTBjYzc3OTA5YzVjYWZmMWU4",
+  "snapshot_id": "MCwxZmNiZjkwNTQxMzY0M2UwMDM2Zjc0MWVkMGRmNDRjNGEzNzYyNGQ1",
   "tracks": [
     {
       "added_at": "2023-12-20 10:48:06",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-12-20 10:48:06",
       "album": {
-        "name": "Jazz Impressions Of Japan",
-        "url": "https://open.spotify.com/album/7tOQ0wZyrxr2fqWTO6n8M7"
+        "name": "Jazz Moments",
+        "url": "https://open.spotify.com/album/2yRs4Ul96CMhmL09Th20BK"
       },
       "artists": [
         {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+          "name": "George Shearing Trio",
+          "url": "https://open.spotify.com/artist/6o67W9DYNT2hhkJDB97YsT"
         }
       ],
-      "duration_ms": 279893,
-      "name": "Rising Sun",
-      "url": "https://open.spotify.com/track/12zJXMDfo0J2XRgU7HbyNU"
+      "duration_ms": 240133,
+      "name": "Makin' Whoopee",
+      "url": "https://open.spotify.com/track/4HNb3OWOv70aNdKbfDi8BY"
     },
     {
       "added_at": "2023-12-20 10:48:06",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-12-20 10:48:06",
       "album": {
+        "name": "Jazz Impressions Of Japan",
+        "url": "https://open.spotify.com/album/7tOQ0wZyrxr2fqWTO6n8M7"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 279893,
+      "name": "Rising Sun",
+      "url": "https://open.spotify.com/track/12zJXMDfo0J2XRgU7HbyNU"
+    },
+    {
+      "added_at": "2023-12-20 10:48:06",
+      "album": {
         "name": "Art Pepper + Eleven: Modern Jazz Classics",
         "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 210533,
       "name": "Walkin' Shoes",
       "url": "https://open.spotify.com/track/3wqWq1ZOBIO0NQo98kmIFC"
-    },
-    {
-      "added_at": "2023-12-20 10:48:06",
-      "album": {
-        "name": "Jazz Moments",
-        "url": "https://open.spotify.com/album/2yRs4Ul96CMhmL09Th20BK"
-      },
-      "artists": [
-        {
-          "name": "George Shearing Trio",
-          "url": "https://open.spotify.com/artist/6o67W9DYNT2hhkJDB97YsT"
-        }
-      ],
-      "duration_ms": 240133,
-      "name": "Makin' Whoopee",
-      "url": "https://open.spotify.com/track/4HNb3OWOv70aNdKbfDi8BY"
     },
     {
       "added_at": "2023-12-20 10:48:06",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-12-20 10:48:06",
       "album": {
-        "name": "New Faces - New Sounds",
-        "url": "https://open.spotify.com/album/1QSjIFszDmlznqk7Zs28Tw"
-      },
-      "artists": [
-        {
-          "name": "Gil Melle",
-          "url": "https://open.spotify.com/artist/7zaZzk9UMSUyFMX1zxUraX"
-        }
-      ],
-      "duration_ms": 181674,
-      "name": "Under Capricorn",
-      "url": "https://open.spotify.com/track/5Sv0wvyx7b2u7O4oj0iNJx"
-    },
-    {
-      "added_at": "2023-12-20 10:48:06",
-      "album": {
         "name": "Presenting The Gerry Mulligan Sextet",
         "url": "https://open.spotify.com/album/52A8U2TeGb5u9NeXNSTs4Y"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 323373,
       "name": "Everything Happens To Me",
       "url": "https://open.spotify.com/track/2m8vNmDGz5GCGLxJfWIsJI"
+    },
+    {
+      "added_at": "2023-12-20 10:48:06",
+      "album": {
+        "name": "New Faces - New Sounds",
+        "url": "https://open.spotify.com/album/1QSjIFszDmlznqk7Zs28Tw"
+      },
+      "artists": [
+        {
+          "name": "Gil Melle",
+          "url": "https://open.spotify.com/artist/7zaZzk9UMSUyFMX1zxUraX"
+        }
+      ],
+      "duration_ms": 181674,
+      "name": "Under Capricorn",
+      "url": "https://open.spotify.com/track/5Sv0wvyx7b2u7O4oj0iNJx"
     },
     {
       "added_at": "2023-12-20 10:48:06",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-12-20 10:48:06",
       "album": {
-        "name": "A Night At The Vanguard",
-        "url": "https://open.spotify.com/album/6do9DeTC2oWB6Zj9yci6ra"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell Trio",
-          "url": "https://open.spotify.com/artist/1W2Oyg9ATMWvuc3cuf31BU"
-        }
-      ],
-      "duration_ms": 260973,
-      "name": "Just A-Sittin' And A-Rockin' - Live At The Village Vanguard, New York / 1959",
-      "url": "https://open.spotify.com/track/7FtbDCBvrIY3slG5Dj9bl1"
-    },
-    {
-      "added_at": "2023-12-20 10:48:06",
-      "album": {
         "name": "My Fair Lady",
         "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 221693,
       "name": "Show Me - Instrumental",
       "url": "https://open.spotify.com/track/3ExXFwzM0E3PZr9Lmiu88E"
+    },
+    {
+      "added_at": "2023-12-20 10:48:06",
+      "album": {
+        "name": "A Night At The Vanguard",
+        "url": "https://open.spotify.com/album/6do9DeTC2oWB6Zj9yci6ra"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell Trio",
+          "url": "https://open.spotify.com/artist/1W2Oyg9ATMWvuc3cuf31BU"
+        }
+      ],
+      "duration_ms": 260973,
+      "name": "Just A-Sittin' And A-Rockin' - Live At The Village Vanguard, New York / 1959",
+      "url": "https://open.spotify.com/track/7FtbDCBvrIY3slG5Dj9bl1"
     },
     {
       "added_at": "2023-12-20 10:48:06",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-12-20 10:48:06",
       "album": {
+        "name": "4 to Go!",
+        "url": "https://open.spotify.com/album/5Za3xlEz6bE0ELBf1EjdAQ"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        }
+      ],
+      "duration_ms": 331266,
+      "name": "Life Is a Ball",
+      "url": "https://open.spotify.com/track/5knIQIYX3uLKECQH6n9DJg"
+    },
+    {
+      "added_at": "2023-12-20 10:48:06",
+      "album": {
         "name": "Beware",
         "url": "https://open.spotify.com/album/5we3xfwBU5w4uDbUiAG1mw"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 269666,
       "name": "It Ain't Necessarily So",
       "url": "https://open.spotify.com/track/6AoFqf8vkBgDSMvOw8bnZD"
-    },
-    {
-      "added_at": "2023-12-20 10:48:06",
-      "album": {
-        "name": "4 to Go!",
-        "url": "https://open.spotify.com/album/5Za3xlEz6bE0ELBf1EjdAQ"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Previn",
-          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
-        }
-      ],
-      "duration_ms": 331266,
-      "name": "Life Is a Ball",
-      "url": "https://open.spotify.com/track/5knIQIYX3uLKECQH6n9DJg"
     },
     {
       "added_at": "2023-12-20 10:48:06",

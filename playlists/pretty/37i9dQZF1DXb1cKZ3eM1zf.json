@@ -1,12 +1,12 @@
 {
   "description": "Het beste van Pinkpop en een greep uit de line-up van 2023",
-  "num_followers": 49854,
+  "num_followers": 49858,
   "original_name": "Pinkpop Best of - 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmE5NDg3N2JkZjg1ZjczZGIzMWI1NTU4MzI5YjU5YzdkZjQ0MTVk",
+  "snapshot_id": "MCw1OTQ2NDQ4Zjk0MjJjOWM2ODc5MTg4MDgyOTg5YjMzNjBlOTcwNDVj",
   "tracks": [
     {
       "added_at": "2023-06-14 10:23:31",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-06-14 10:23:31",
       "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 225983,
-      "name": "24K Magic",
-      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
-    },
-    {
-      "added_at": "2023-06-14 10:23:31",
-      "album": {
         "name": "The Better Life",
         "url": "https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 357266,
       "name": "Bitter Sweet Symphony - Remastered 2016",
       "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
+    },
+    {
+      "added_at": "2023-06-14 10:23:31",
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
     },
     {
       "added_at": "2023-06-14 10:23:31",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-06-14 10:23:31",
       "album": {
-        "name": "August And Everything After",
-        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "Mr. Jones",
-      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
-    },
-    {
-      "added_at": "2023-06-14 10:23:31",
-      "album": {
         "name": "Onka's Big Moka",
         "url": "https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 232693,
       "name": "Dancing in the Moonlight",
       "url": "https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od"
+    },
+    {
+      "added_at": "2023-06-14 10:23:31",
+      "album": {
+        "name": "August And Everything After",
+        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "Mr. Jones",
+      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
     },
     {
       "added_at": "2023-06-14 10:23:31",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2023-06-14 10:23:31",
       "album": {
+        "name": "Ace of Spades (Expanded Edition)",
+        "url": "https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "Ace of Spades",
+      "url": "https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO"
+    },
+    {
+      "added_at": "2023-06-14 10:23:31",
+      "album": {
         "name": "Antichrist Superstar",
         "url": "https://open.spotify.com/album/7APnZJwayR3lH9aUDPDYQB"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 197986,
       "name": "Stacy's Mom",
       "url": "https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW"
-    },
-    {
-      "added_at": "2023-06-14 10:23:31",
-      "album": {
-        "name": "Ace of Spades (Expanded Edition)",
-        "url": "https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 168320,
-      "name": "Ace of Spades",
-      "url": "https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO"
     },
     {
       "added_at": "2023-06-14 10:23:31",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2023-06-14 10:23:31",
       "album": {
-        "name": "Everything All The Time",
-        "url": "https://open.spotify.com/album/7ik4rjxOnmwnAWWzjj5ni3"
-      },
-      "artists": [
-        {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
-        }
-      ],
-      "duration_ms": 322173,
-      "name": "The Funeral",
-      "url": "https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K"
-    },
-    {
-      "added_at": "2023-06-14 10:23:31",
-      "album": {
         "name": "Kinks (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 313026,
       "name": "Band On The Run - 2010 Remaster",
       "url": "https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY"
+    },
+    {
+      "added_at": "2023-06-14 10:23:31",
+      "album": {
+        "name": "Everything All The Time",
+        "url": "https://open.spotify.com/album/7ik4rjxOnmwnAWWzjj5ni3"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 322173,
+      "name": "The Funeral",
+      "url": "https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K"
     },
     {
       "added_at": "2023-06-14 10:23:31",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2023-06-14 10:23:31",
       "album": {
-        "name": "Mutter",
-        "url": "https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 272440,
-      "name": "Sonne",
-      "url": "https://open.spotify.com/track/4w3R0GZ2rScJMKlgPJzHRq"
-    },
-    {
-      "added_at": "2023-06-14 10:23:31",
-      "album": {
         "name": "Freeze Frame",
         "url": "https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 216533,
       "name": "Centerfold",
       "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
+    },
+    {
+      "added_at": "2023-06-14 10:23:31",
+      "album": {
+        "name": "Mutter",
+        "url": "https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 272440,
+      "name": "Sonne",
+      "url": "https://open.spotify.com/track/4w3R0GZ2rScJMKlgPJzHRq"
     },
     {
       "added_at": "2023-06-14 10:23:31",
@@ -2203,22 +2203,18 @@
     {
       "added_at": "2023-06-14 10:23:31",
       "album": {
-        "name": "Berlin Calling (The Soundtrack by Paul Kalkbrenner)",
-        "url": "https://open.spotify.com/album/1PjYHybPrB6rU3qABrNldm"
+        "name": "The Young and The Hopeless",
+        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
       },
       "artists": [
         {
-          "name": "Paul Kalkbrenner",
-          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
-        },
-        {
-          "name": "Fritz Kalkbrenner",
-          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
         }
       ],
-      "duration_ms": 230500,
-      "name": "Sky and Sand",
-      "url": "https://open.spotify.com/track/3ZSqMer9RLSglvi18bWXYV"
+      "duration_ms": 190173,
+      "name": "Lifestyles of the Rich & Famous",
+      "url": "https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6"
     },
     {
       "added_at": "2023-06-14 10:23:31",
@@ -2239,18 +2235,22 @@
     {
       "added_at": "2023-06-14 10:23:31",
       "album": {
-        "name": "The Young and The Hopeless",
-        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
+        "name": "Berlin Calling (The Soundtrack by Paul Kalkbrenner)",
+        "url": "https://open.spotify.com/album/1PjYHybPrB6rU3qABrNldm"
       },
       "artists": [
         {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+          "name": "Paul Kalkbrenner",
+          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
+        },
+        {
+          "name": "Fritz Kalkbrenner",
+          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
         }
       ],
-      "duration_ms": 190173,
-      "name": "Lifestyles of the Rich & Famous",
-      "url": "https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6"
+      "duration_ms": 230500,
+      "name": "Sky and Sand",
+      "url": "https://open.spotify.com/track/3ZSqMer9RLSglvi18bWXYV"
     },
     {
       "added_at": "2023-06-14 10:23:31",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2023-06-14 10:23:31",
       "album": {
-        "name": "One Day Remains",
-        "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
-      },
-      "artists": [
-        {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
-        }
-      ],
-      "duration_ms": 259959,
-      "name": "Metalingus",
-      "url": "https://open.spotify.com/track/3UULkHdmLDqBDPmBYltoRE"
-    },
-    {
-      "added_at": "2023-06-14 10:23:31",
-      "album": {
         "name": "It Ain't Me",
         "url": "https://open.spotify.com/album/4VNy5ifZtW3E9SgffbGEti"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 220780,
       "name": "It Ain\u2019t Me (with Selena Gomez)",
       "url": "https://open.spotify.com/track/12GEpg2XOPyqk03JZEZnJs"
+    },
+    {
+      "added_at": "2023-06-14 10:23:31",
+      "album": {
+        "name": "One Day Remains",
+        "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "duration_ms": 259959,
+      "name": "Metalingus",
+      "url": "https://open.spotify.com/track/3UULkHdmLDqBDPmBYltoRE"
     },
     {
       "added_at": "2023-06-14 10:23:31",

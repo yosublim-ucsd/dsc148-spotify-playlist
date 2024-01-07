@@ -1,12 +1,12 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 66716,
+  "num_followers": 66736,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTA4Mzg3NWQxYTQxZTJlZDI4OTczNDgzNDE2ZDlhNjAyMDM2Y2Y0",
+  "snapshot_id": "MCxiZGMyYTc3NDViOGJlOTFlZDVmNDVkNzQ2NGE4ZjhhNzVjY2JjZDA1",
   "tracks": [
     {
       "added_at": "2023-11-24 18:47:41",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-11-24 18:47:41",
       "album": {
-        "name": "Levitate",
-        "url": "https://open.spotify.com/album/52V9mKrjrDameJBbXroPua"
-      },
-      "artists": [
-        {
-          "name": "Nimbus Skies",
-          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Levitate",
-      "url": "https://open.spotify.com/track/052r4hUKC2njavG6fRdX5M"
-    },
-    {
-      "added_at": "2023-11-24 18:47:41",
-      "album": {
         "name": "Oh so Quiet",
         "url": "https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2023-11-24 18:47:41",
       "album": {
-        "name": "Peace Of Mind",
-        "url": "https://open.spotify.com/album/4C7Qoi3ymc44BakzPS07OJ"
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/52V9mKrjrDameJBbXroPua"
       },
       "artists": [
         {
-          "name": "Xiaoming Chu",
-          "url": "https://open.spotify.com/artist/3wWsMDO6XVcTyV9IvVhss9"
+          "name": "Nimbus Skies",
+          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
         }
       ],
-      "duration_ms": 178500,
-      "name": "Peace Of Mind",
-      "url": "https://open.spotify.com/track/4v8uzYnHfHI4ppZLTqouhp"
+      "duration_ms": 160000,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/052r4hUKC2njavG6fRdX5M"
     },
     {
       "added_at": "2023-11-24 18:47:41",
@@ -1127,6 +1111,22 @@
       "duration_ms": 166250,
       "name": "Calm Waves",
       "url": "https://open.spotify.com/track/6FijL2NDb6UOqQrs1873ck"
+    },
+    {
+      "added_at": "2023-11-24 18:47:41",
+      "album": {
+        "name": "Peace Of Mind",
+        "url": "https://open.spotify.com/album/4C7Qoi3ymc44BakzPS07OJ"
+      },
+      "artists": [
+        {
+          "name": "Xiaoming Chu",
+          "url": "https://open.spotify.com/artist/3wWsMDO6XVcTyV9IvVhss9"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/4v8uzYnHfHI4ppZLTqouhp"
     },
     {
       "added_at": "2023-11-24 18:47:41",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-11-24 18:47:41",
       "album": {
-        "name": "One Sense",
-        "url": "https://open.spotify.com/album/466ShS1EJQJcwI63omgHJT"
-      },
-      "artists": [
-        {
-          "name": "Collected Dreams",
-          "url": "https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "My Horizon",
-      "url": "https://open.spotify.com/track/0IeAKzoK78YpLGWn8wCQV8"
-    },
-    {
-      "added_at": "2023-11-24 18:47:41",
-      "album": {
         "name": "Prieks",
         "url": "https://open.spotify.com/album/0ci5ILaulRbEQGxFMCHBrs"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 145524,
       "name": "Prieks",
       "url": "https://open.spotify.com/track/7pDVh7xNFhIBhF6tVSVDBB"
+    },
+    {
+      "added_at": "2023-11-24 18:47:41",
+      "album": {
+        "name": "One Sense",
+        "url": "https://open.spotify.com/album/466ShS1EJQJcwI63omgHJT"
+      },
+      "artists": [
+        {
+          "name": "Collected Dreams",
+          "url": "https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "My Horizon",
+      "url": "https://open.spotify.com/track/0IeAKzoK78YpLGWn8wCQV8"
     },
     {
       "added_at": "2023-11-24 18:47:41",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-11-24 18:47:41",
       "album": {
+        "name": "Pegasus",
+        "url": "https://open.spotify.com/album/45XW5GtxG6TdPEEgvA7Jul"
+      },
+      "artists": [
+        {
+          "name": "Fleurs de Son",
+          "url": "https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3"
+        }
+      ],
+      "duration_ms": 211443,
+      "name": "Pegasus",
+      "url": "https://open.spotify.com/track/0N08dxkNnilnHjjRhCL9V1"
+    },
+    {
+      "added_at": "2023-11-24 18:47:41",
+      "album": {
         "name": "Ambient Sleep Bliss",
         "url": "https://open.spotify.com/album/6N4hsBasKsW1LAuv2bPKNp"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 252765,
       "name": "Nature's Embrace",
       "url": "https://open.spotify.com/track/7iASF4SyBJIHg7PM3rEpTR"
-    },
-    {
-      "added_at": "2023-11-24 18:47:41",
-      "album": {
-        "name": "Pegasus",
-        "url": "https://open.spotify.com/album/45XW5GtxG6TdPEEgvA7Jul"
-      },
-      "artists": [
-        {
-          "name": "Fleurs de Son",
-          "url": "https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3"
-        }
-      ],
-      "duration_ms": 211443,
-      "name": "Pegasus",
-      "url": "https://open.spotify.com/track/0N08dxkNnilnHjjRhCL9V1"
     },
     {
       "added_at": "2023-11-24 18:47:41",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-11-24 18:47:41",
       "album": {
-        "name": "Dogma of Sleep",
-        "url": "https://open.spotify.com/album/7E9G74qdVBpjKwFoJMAv1d"
-      },
-      "artists": [
-        {
-          "name": "Joseph Beg",
-          "url": "https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px"
-        }
-      ],
-      "duration_ms": 378250,
-      "name": "The Sleep",
-      "url": "https://open.spotify.com/track/7nwY6NWAgKc5ugYWLMZtc4"
-    },
-    {
-      "added_at": "2023-11-24 18:47:41",
-      "album": {
         "name": "Dream Away",
         "url": "https://open.spotify.com/album/4mDtIUHurk4JseJecvovSx"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 124615,
       "name": "Dream Away",
       "url": "https://open.spotify.com/track/7G9mgszDgcXRn8BlShb2kE"
+    },
+    {
+      "added_at": "2023-11-24 18:47:41",
+      "album": {
+        "name": "Dogma of Sleep",
+        "url": "https://open.spotify.com/album/7E9G74qdVBpjKwFoJMAv1d"
+      },
+      "artists": [
+        {
+          "name": "Joseph Beg",
+          "url": "https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px"
+        }
+      ],
+      "duration_ms": 378250,
+      "name": "The Sleep",
+      "url": "https://open.spotify.com/track/7nwY6NWAgKc5ugYWLMZtc4"
     },
     {
       "added_at": "2023-11-24 18:47:41",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-11-24 18:47:41",
       "album": {
-        "name": "Capella",
-        "url": "https://open.spotify.com/album/1eSGsRf3dno1OZPsqwl4SE"
-      },
-      "artists": [
-        {
-          "name": "Aerial Love",
-          "url": "https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK"
-        }
-      ],
-      "duration_ms": 157402,
-      "name": "Capella",
-      "url": "https://open.spotify.com/track/5RPMibWUfF3LzQ6kjb7prZ"
-    },
-    {
-      "added_at": "2023-11-24 18:47:41",
-      "album": {
         "name": "A Space Within a Space",
         "url": "https://open.spotify.com/album/7p6Ea9bHvmGuf5YD9WKMMp"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 191111,
       "name": "A Space Within a Space",
       "url": "https://open.spotify.com/track/5SDQFvu8ltjkYlsZOxAOxM"
+    },
+    {
+      "added_at": "2023-11-24 18:47:41",
+      "album": {
+        "name": "Capella",
+        "url": "https://open.spotify.com/album/1eSGsRf3dno1OZPsqwl4SE"
+      },
+      "artists": [
+        {
+          "name": "Aerial Love",
+          "url": "https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK"
+        }
+      ],
+      "duration_ms": 157402,
+      "name": "Capella",
+      "url": "https://open.spotify.com/track/5RPMibWUfF3LzQ6kjb7prZ"
     },
     {
       "added_at": "2023-11-24 18:47:41",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-11-24 18:47:41",
       "album": {
+        "name": "Blissful",
+        "url": "https://open.spotify.com/album/7GCBYS9ubuzTUDiXu0ioWN"
+      },
+      "artists": [
+        {
+          "name": "Studio Tranquilo",
+          "url": "https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "Blissful",
+      "url": "https://open.spotify.com/track/2b5wdM050xUWmFDGygyqe8"
+    },
+    {
+      "added_at": "2023-11-24 18:47:41",
+      "album": {
         "name": "Evening Calm",
         "url": "https://open.spotify.com/album/1lYuL6PrtYfCWlk26xn0Kj"
       },
@@ -1551,18 +1567,18 @@
     {
       "added_at": "2023-11-24 18:47:41",
       "album": {
-        "name": "Blissful",
-        "url": "https://open.spotify.com/album/7GCBYS9ubuzTUDiXu0ioWN"
+        "name": "Calming Water",
+        "url": "https://open.spotify.com/album/1VEaqcUXRbwLFUkmmied70"
       },
       "artists": [
         {
-          "name": "Studio Tranquilo",
-          "url": "https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP"
+          "name": "Divine Retreat",
+          "url": "https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG"
         }
       ],
-      "duration_ms": 164210,
-      "name": "Blissful",
-      "url": "https://open.spotify.com/track/2b5wdM050xUWmFDGygyqe8"
+      "duration_ms": 239353,
+      "name": "Cleansing Raindrops",
+      "url": "https://open.spotify.com/track/1EcOqsCldm9OArlEuiAm6e"
     },
     {
       "added_at": "2023-11-24 18:47:41",
@@ -1579,22 +1595,6 @@
       "duration_ms": 179366,
       "name": "Soft Meadow",
       "url": "https://open.spotify.com/track/0Y4S0WFDJQdIV8VveeRdKF"
-    },
-    {
-      "added_at": "2023-11-24 18:47:41",
-      "album": {
-        "name": "Calming Water",
-        "url": "https://open.spotify.com/album/1VEaqcUXRbwLFUkmmied70"
-      },
-      "artists": [
-        {
-          "name": "Divine Retreat",
-          "url": "https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG"
-        }
-      ],
-      "duration_ms": 239353,
-      "name": "Cleansing Raindrops",
-      "url": "https://open.spotify.com/track/1EcOqsCldm9OArlEuiAm6e"
     },
     {
       "added_at": "2023-11-24 18:47:41",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2023-11-24 18:47:41",
       "album": {
+        "name": "Among the Clouds",
+        "url": "https://open.spotify.com/album/1TFakvYLpxWVYHXCAJb0Mh"
+      },
+      "artists": [
+        {
+          "name": "Nimbus Skies",
+          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Among the Clouds",
+      "url": "https://open.spotify.com/track/42qLkry21o8EbfaplIw0rR"
+    },
+    {
+      "added_at": "2023-11-24 18:47:41",
+      "album": {
         "name": "Waves of Harmony",
         "url": "https://open.spotify.com/album/55DECemDNrUt9gvi7zCwpn"
       },
@@ -1663,22 +1679,6 @@
     {
       "added_at": "2023-11-24 18:47:41",
       "album": {
-        "name": "Among the Clouds",
-        "url": "https://open.spotify.com/album/1TFakvYLpxWVYHXCAJb0Mh"
-      },
-      "artists": [
-        {
-          "name": "Nimbus Skies",
-          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Among the Clouds",
-      "url": "https://open.spotify.com/track/42qLkry21o8EbfaplIw0rR"
-    },
-    {
-      "added_at": "2023-11-24 18:47:41",
-      "album": {
         "name": "Dreamstate",
         "url": "https://open.spotify.com/album/37DwKVq9tG6vzYVhORPRmL"
       },
@@ -1691,22 +1691,6 @@
       "duration_ms": 163200,
       "name": "Dreamstate",
       "url": "https://open.spotify.com/track/61HSo5TNO6zcd1zjsjO4o5"
-    },
-    {
-      "added_at": "2023-11-24 18:47:41",
-      "album": {
-        "name": "Dreamcatcher",
-        "url": "https://open.spotify.com/album/1ZKBIUYB7bGLNntOUNFDH4"
-      },
-      "artists": [
-        {
-          "name": "Silent Movement",
-          "url": "https://open.spotify.com/artist/3yxduktXtII7eDtETkqjkw"
-        }
-      ],
-      "duration_ms": 184545,
-      "name": "Dreamcatcher",
-      "url": "https://open.spotify.com/track/5GbKfGHRwy7EBmf9c1RRGF"
     },
     {
       "added_at": "2023-11-24 18:47:41",
@@ -1727,6 +1711,22 @@
     {
       "added_at": "2023-11-24 18:47:41",
       "album": {
+        "name": "Dreamcatcher",
+        "url": "https://open.spotify.com/album/1ZKBIUYB7bGLNntOUNFDH4"
+      },
+      "artists": [
+        {
+          "name": "Silent Movement",
+          "url": "https://open.spotify.com/artist/3yxduktXtII7eDtETkqjkw"
+        }
+      ],
+      "duration_ms": 184545,
+      "name": "Dreamcatcher",
+      "url": "https://open.spotify.com/track/5GbKfGHRwy7EBmf9c1RRGF"
+    },
+    {
+      "added_at": "2023-11-24 18:47:41",
+      "album": {
         "name": "Somnolent",
         "url": "https://open.spotify.com/album/0g7Ole1o31s5RhWYCIZqoy"
       },
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-11-24 18:47:41",
       "album": {
-        "name": "Quiet Stars",
-        "url": "https://open.spotify.com/album/4kY0CmaPvEq48UR8W8NTt6"
-      },
-      "artists": [
-        {
-          "name": "Language of Lyrics",
-          "url": "https://open.spotify.com/artist/7l76D4b9qcmJjIO5Me5tlC"
-        }
-      ],
-      "duration_ms": 190147,
-      "name": "Quiet Stars",
-      "url": "https://open.spotify.com/track/2NcRLIAKxwFPCdI8NoffL5"
-    },
-    {
-      "added_at": "2023-11-24 18:47:41",
-      "album": {
         "name": "Loveliness",
         "url": "https://open.spotify.com/album/4SYjccDi2Vcm3XMUk65cNP"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 160188,
       "name": "Loveliness",
       "url": "https://open.spotify.com/track/3dKprU1S9gkO3AlCKnjNyt"
+    },
+    {
+      "added_at": "2023-11-24 18:47:41",
+      "album": {
+        "name": "Quiet Stars",
+        "url": "https://open.spotify.com/album/4kY0CmaPvEq48UR8W8NTt6"
+      },
+      "artists": [
+        {
+          "name": "Language of Lyrics",
+          "url": "https://open.spotify.com/artist/7l76D4b9qcmJjIO5Me5tlC"
+        }
+      ],
+      "duration_ms": 190147,
+      "name": "Quiet Stars",
+      "url": "https://open.spotify.com/track/2NcRLIAKxwFPCdI8NoffL5"
     },
     {
       "added_at": "2023-11-24 18:47:41",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2023-11-24 18:47:41",
       "album": {
-        "name": "Tensions",
-        "url": "https://open.spotify.com/album/5NzWFvAmbcYhwOLwsXJ7nh"
-      },
-      "artists": [
-        {
-          "name": "Spheres",
-          "url": "https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "Tensions",
-      "url": "https://open.spotify.com/track/75u1CPntzCwYTaenr5nlWA"
-    },
-    {
-      "added_at": "2023-11-24 18:47:41",
-      "album": {
         "name": "Parallels",
         "url": "https://open.spotify.com/album/7eIHdP6NVAIu5bpjVo0vgq"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 216015,
       "name": "Parallels",
       "url": "https://open.spotify.com/track/19qZQVD9loyDJHtjuMmfg5"
+    },
+    {
+      "added_at": "2023-11-24 18:47:41",
+      "album": {
+        "name": "Tensions",
+        "url": "https://open.spotify.com/album/5NzWFvAmbcYhwOLwsXJ7nh"
+      },
+      "artists": [
+        {
+          "name": "Spheres",
+          "url": "https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "Tensions",
+      "url": "https://open.spotify.com/track/75u1CPntzCwYTaenr5nlWA"
     },
     {
       "added_at": "2023-11-24 18:47:41",

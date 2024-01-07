@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 
 > This is Patoranking\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,405 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,408 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 42 | [Miracle Baby](https://open.spotify.com/track/4SiIa6dMiUzC9X1gz0OSYq) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 3:23 |
 | 43 | [In My Head](https://open.spotify.com/track/5ooiTZRRjdOlMcNw5hsKlT) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [In My Head](https://open.spotify.com/album/0GJWhWInQgWTI9iA7Pi2v1) | 3:14 |
 | 44 | [Kom Kom](https://open.spotify.com/track/2KA51yRovba1V4rtRfOEqj) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Kom Kom](https://open.spotify.com/album/43OG5eoAN9ERfSMTjPvq1c) | 3:08 |
-| 45 | [Twerk Nam](https://open.spotify.com/track/2DGqBPqO06GpfBWhu8LEVv) | [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi), [Tony X](https://open.spotify.com/artist/5JCtawfBeAUB4UKzxRE8sR), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Stamina](https://open.spotify.com/album/0Ka05Dg15vP2Sc4VbRstVo) | 3:11 |
-| 46 | [Wilmer \(feat\. Bera\)](https://open.spotify.com/track/4BSYq4DF84PXs9i7P8comh) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Bera](https://open.spotify.com/artist/280SVkMc8Ij2T4n6EMhWuB) | [Wilmer](https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc) | 3:44 |
+| 45 | [Wilmer \(feat\. Bera\)](https://open.spotify.com/track/4BSYq4DF84PXs9i7P8comh) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Bera](https://open.spotify.com/artist/280SVkMc8Ij2T4n6EMhWuB) | [Wilmer](https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc) | 3:44 |
+| 46 | [Twerk Nam](https://open.spotify.com/track/2DGqBPqO06GpfBWhu8LEVv) | [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi), [Tony X](https://open.spotify.com/artist/5JCtawfBeAUB4UKzxRE8sR), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Stamina](https://open.spotify.com/album/0Ka05Dg15vP2Sc4VbRstVo) | 3:11 |
 | 47 | [Whine It \(feat\. Sauti Sol\)](https://open.spotify.com/track/5mFGk1g417gDhAvrafXjEK) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Three](https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K) | 3:37 |
-| 48 | [Roll On Me](https://open.spotify.com/track/7dwgWc4n7rp7ruK9c21cyo) | [evrYwhr](https://open.spotify.com/artist/11xAvdpLHrDd9f2VIG8QB3), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Roll On Me](https://open.spotify.com/album/5fNWSpENYMGAqIYehytNyU) | 2:49 |
-| 49 | [Life](https://open.spotify.com/track/1N0GdFeRwgEeiDqkX0m4HB) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Highlife Konnect](https://open.spotify.com/album/72NulXFtskbFG6htwcte2C) | 3:32 |
+| 48 | [Life](https://open.spotify.com/track/1N0GdFeRwgEeiDqkX0m4HB) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Highlife Konnect](https://open.spotify.com/album/72NulXFtskbFG6htwcte2C) | 3:32 |
+| 49 | [Roll On Me](https://open.spotify.com/track/7dwgWc4n7rp7ruK9c21cyo) | [evrYwhr](https://open.spotify.com/artist/11xAvdpLHrDd9f2VIG8QB3), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Roll On Me](https://open.spotify.com/album/5fNWSpENYMGAqIYehytNyU) | 2:49 |
 | 50 | [Clean and Pure](https://open.spotify.com/track/4FfweIA6z8WoNKGMv6G2S0) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Madina to the Universe](https://open.spotify.com/album/4q2dTArxnUt4hiWxXK0xPW) | 3:10 |
 
-Snapshot ID: `Mjg0MDc3MDMsMDAwMDAwMDA5NDdjY2MyY2Q2ZGIzYzg1OTYwOTgzOTQ3ZTY4YWYzZA==`
+Snapshot ID: `Mjg0MDkwNTYsMDAwMDAwMDBlZjdlOGQ1ZjczNzYxOTk2OTI5OTRjZWVkMTA0YzhkNw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbX3zSzB4MO0.md) - [plain]
 
 > Club vibes wherever you are!
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,927 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,998 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbX3zSzB4MO0.md) - [plain]
 | 69 | [Blur](https://open.spotify.com/track/73iwLiAtgpNMu5DeRD7Jph) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Marlo Rex](https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS) | [Blur](https://open.spotify.com/album/4t4GnmNhwlpHCDWshyg1Xr) | 2:58 |
 | 70 | [Cocoon \- Martin Garrix & Space Ducks Remix](https://open.spotify.com/track/6IqVq76K6UuJdYwZFgXosQ) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Space Ducks](https://open.spotify.com/artist/0KWooIVFqa6Gt0BtpdudK6) | [Cocoon \(Martin Garrix & Space Ducks Remix\)](https://open.spotify.com/album/11X8fP4LGagH6xsQI2aqaY) | 3:22 |
 | 71 | [Ray Of Solar \- Mau P Remix](https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Ray Of Solar \(Mau P Remix\)](https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh) | 4:11 |
-| 72 | [Legacy](https://open.spotify.com/track/52jCFwQBAf04Bi8xrE8DJu) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA) | [Legacy](https://open.spotify.com/album/1yC5yJEeMRUSeeQgkho7Ai) | 3:50 |
-| 73 | [Traffic](https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Traffic](https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM) | 2:21 |
+| 72 | [Traffic](https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Traffic](https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM) | 2:21 |
+| 73 | [Legacy](https://open.spotify.com/track/52jCFwQBAf04Bi8xrE8DJu) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA) | [Legacy](https://open.spotify.com/album/1yC5yJEeMRUSeeQgkho7Ai) | 3:50 |
 | 74 | [Blue Monday \(feat\. JD Davis\)](https://open.spotify.com/track/65jASlroO8NYkHNyE1KGFt) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [JD Davis](https://open.spotify.com/artist/4S1P19bTfbDVjEA8Hxs4Cj) | [Blue Monday \(feat\. JD Davis\)](https://open.spotify.com/album/61mqIm6BImQCijUTwJg05t) | 3:16 |
 | 75 | [Won't Forget You \(Felix Jaehn Remix Edit\)](https://open.spotify.com/track/7yyYtLNqpXY8zY3TQbc9AK) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Won't Forget You \(Remixes\)](https://open.spotify.com/album/1nxh4FIw055vgnjMrbMryD) | 3:04 |
 
-Snapshot ID: `MCw0MDliMzE1MTQ0YjUyOWZkZTZmZTVjMzU1YjE5N2EwZjE4YmJjMjU5`
+Snapshot ID: `MCxmNWQ2NWJkZTI1OTRhYmQ3N2VhNjAwMGFlMWIxNTk5ZDg2YTljZDBk`

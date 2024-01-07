@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 
 > Anthems from the early days of recorded rap music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,326 likes - 70 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,411 likes - 70 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,26 +49,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 39 | [Rapper's Delight](https://open.spotify.com/track/3aSZe61cG5tU7BzdJxKBvz) | [The Sugarhill Gang](https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX) | [NOW Hip\-Hop At 50](https://open.spotify.com/album/21dSLsquSIRfQqACMgITXH) | 3:52 |
 | 40 | [King of Rock](https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [King Of Rock \(Expanded Edition\)](https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6) | 5:14 |
 | 41 | [Talkin' All That Jazz](https://open.spotify.com/track/6ZF3dNXVuA6E8rOL4FX2EY) | [Stetsasonic](https://open.spotify.com/artist/6gl67jXbrwnMYZNZv88MKk) | [In Full Gear](https://open.spotify.com/album/5MGulPuRADl4COIrbMfvmw) | 4:48 |
-| 42 | [The Bridge Is Over](https://open.spotify.com/track/5jkjpSsMOfsxgdGScPZVq2) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [Criminal Minded \(Deluxe\)](https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55) | 3:24 |
+| 42 | [Freaks Come Out at Night](https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5) | 4:42 |
 | 43 | [I Know You Got Soul](https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full](https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz) | 4:44 |
 | 44 | [Looking for the Perfect Beat \- Original 12" Version](https://open.spotify.com/track/3grljpi1aYIRA6TuXvGigL) | [Afrika Bambaataa](https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p), [The Soulsonic Force](https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP) | [Planet Rock: The Album](https://open.spotify.com/album/3qX0GugLujpIodkT6r06hf) | 7:02 |
-| 45 | [Freaks Come Out at Night](https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5) | 4:42 |
+| 45 | [The Bridge Is Over](https://open.spotify.com/track/5jkjpSsMOfsxgdGScPZVq2) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [Criminal Minded \(Deluxe\)](https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55) | 3:24 |
 | 46 | [I Need Love](https://open.spotify.com/track/3UP7dzy4ISy8S3HOReCd1q) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [All World](https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M) | 5:21 |
 | 47 | [Hey DJ](https://open.spotify.com/track/7tW7kmX6o8avIUxN8yBUEo) | [Worlds Famous Supreme Team](https://open.spotify.com/artist/01VXEpueAsBp3I5CAFUnti) | [Hey DJ](https://open.spotify.com/album/06c1nSdZa3jT2UCn024dV2) | 3:26 |
 | 48 | [So Wat Cha Sayin'](https://open.spotify.com/track/01CuCSqlNItevX7F1GcopF) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Unfinished Business](https://open.spotify.com/album/4dxBNRPePGqky6mIKGAVsr) | 4:57 |
 | 49 | [Paid In Full \- Seven Minutes Of Madness \- The Coldcut Remix](https://open.spotify.com/track/5XQPpKiBjXUI4bIenLBxci) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full \(Deluxe Edition\)](https://open.spotify.com/album/0SHeOTuKXo4cM1CWyAwDcj) | 7:09 |
 | 50 | [I Got It Made](https://open.spotify.com/track/68DGiGtJrVcGBeOf5UNpVz) | [Special Ed](https://open.spotify.com/artist/3vIFTM70CYTYr122vTVpzx) | [Youngest in Charge](https://open.spotify.com/album/3R6qOZ2QsPj6yWism4b7vk) | 3:41 |
-| 51 | [My Philosophy](https://open.spotify.com/track/2P8KBF5BtraQiGpxDXrCnF) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [By All Means Necessary \(Expanded Edition\)](https://open.spotify.com/album/1ucCcn3bSPePeI67kUapwB) | 5:40 |
-| 52 | [Vapors](https://open.spotify.com/track/73lzOeqHJSH8ddRls5GonC) | [Biz Markie](https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4) | [Biz's Baddest Beats: The Best of Biz Markie](https://open.spotify.com/album/2OKf5WlgqFgszrDsxMq07t) | 6:02 |
-| 53 | [Colors \- 2014 Remaster](https://open.spotify.com/track/7CMww2nlc2THVjJeLOYBrk) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Greatest Hits](https://open.spotify.com/album/13AED1HGzWlkxETo6aquK1) | 4:26 |
+| 51 | [Vapors](https://open.spotify.com/track/73lzOeqHJSH8ddRls5GonC) | [Biz Markie](https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4) | [Biz's Baddest Beats: The Best of Biz Markie](https://open.spotify.com/album/2OKf5WlgqFgszrDsxMq07t) | 6:02 |
+| 52 | [Colors \- 2014 Remaster](https://open.spotify.com/track/7CMww2nlc2THVjJeLOYBrk) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Greatest Hits](https://open.spotify.com/album/13AED1HGzWlkxETo6aquK1) | 4:26 |
+| 53 | [My Philosophy](https://open.spotify.com/track/2P8KBF5BtraQiGpxDXrCnF) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [By All Means Necessary \(Expanded Edition\)](https://open.spotify.com/album/1ucCcn3bSPePeI67kUapwB) | 5:40 |
 | 54 | [Wild Wild West](https://open.spotify.com/track/0fmjCC6ItD4vixqwLTNGfg) | [Kool Moe Dee](https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP) | [How Ya Like Me Now \(Expanded Edition\)](https://open.spotify.com/album/0V3b2bczRgZ4qrGq1L5BVI) | 4:40 |
 | 55 | [Top Billin \- Acapella](https://open.spotify.com/track/59vYYvb9JS5IQAp8xpf0CY) | [Audio Two](https://open.spotify.com/artist/10toSzLMkc2zIYiiAemHt1) | [What More Can I Say](https://open.spotify.com/album/4ULe1bx6XkffNvsbB9DHr6) | 2:55 |
 | 56 | [I'm Bad](https://open.spotify.com/track/77nTnRGCyI8NNZUcgjShjg) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [All World](https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M) | 4:39 |
 | 57 | [Buffalo Gals](https://open.spotify.com/track/4gCo2r1gCEw70OAq9cF1uW) | [Malcolm McLaren](https://open.spotify.com/artist/4ihCM8I0fpWodgjo0mTlhZ) | [Duck Rock](https://open.spotify.com/album/6S4f7yDtJlS0iQMEuCtIF0) | 4:19 |
 | 58 | [Cha Cha Cha](https://open.spotify.com/track/1McWPMA7NVuHh0bTm7ljRA) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w) | [The Very Best Of MC Lyte](https://open.spotify.com/album/7jH3YOFDeqA9kN4P4kHtx4) | 3:00 |
 | 59 | [Friends](https://open.spotify.com/track/72tgSpiP5XkgxT8rEbDJXN) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5) | 4:39 |
-| 60 | [South Bronx](https://open.spotify.com/track/6JMIaVMbh5emijDiBODgit) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [Criminal Minded \(Deluxe\)](https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55) | 5:08 |
-| 61 | [Ego Trippin'](https://open.spotify.com/track/0WVqFNhP455QxcS1VhIWmo) | [Ultramagnetic MC's](https://open.spotify.com/artist/52ik8mwcuZ4ISphAkejj2Z) | [Critical Beatdown \(Re\-Issue\)](https://open.spotify.com/album/2nyDfMhGBwxbpfpyYtnBSJ) | 5:26 |
+| 60 | [Ego Trippin'](https://open.spotify.com/track/0WVqFNhP455QxcS1VhIWmo) | [Ultramagnetic MC's](https://open.spotify.com/artist/52ik8mwcuZ4ISphAkejj2Z) | [Critical Beatdown \(Re\-Issue\)](https://open.spotify.com/album/2nyDfMhGBwxbpfpyYtnBSJ) | 5:26 |
+| 61 | [South Bronx](https://open.spotify.com/track/6JMIaVMbh5emijDiBODgit) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [Criminal Minded \(Deluxe\)](https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55) | 5:08 |
 | 62 | [Al\-Naafyish \- Time](https://open.spotify.com/track/6nDk4QT1fDe0S86PxijTUE) | [Hashim](https://open.spotify.com/artist/6AWyFSk8mBekuHeotBV1Jx) | [Al\-Naafyish](https://open.spotify.com/album/7uOndksGzmAduRTenxvVIt) | 6:14 |
 | 63 | [Mona Lisa](https://open.spotify.com/track/5xc1DBXmB7MTajxDJ9cJcq) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick](https://open.spotify.com/album/71mmTJdWvpkzQNmVfFbRdN) | 4:08 |
 | 64 | [Girls Ain't Nothing But Trouble \- 1988 Extended Remix](https://open.spotify.com/track/2hdORQrsFcE0nm3rzLcfg9) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Greatest Hits](https://open.spotify.com/album/36F8dqIQunGUWbsOPWQSjz) | 4:49 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 69 | [P.S.K\. 'What Does It Mean'?](https://open.spotify.com/track/3StKzbpR9dRZB8epDx4KDW) | [Schoolly D](https://open.spotify.com/artist/63NXL9k1RkJYcQ5MkUETLL) | [Schoolly D](https://open.spotify.com/album/57LWYtFS2xn5pIDHLqjatU) | 6:28 |
 | 70 | [Genius Rap \- 7" Single Version](https://open.spotify.com/track/71V59P1ap285AB9TNJdmbH) | [Dr\. Jeckyll & Mr\. Hyde](https://open.spotify.com/artist/7rxyGNqJCod2DVTBubSTyt) | [Giant Single: Profile Records Rap Anthology](https://open.spotify.com/album/13JxcY9hKf4t6BGkrNbSwr) | 4:40 |
 
-Snapshot ID: `MCxjYWEyYTAzMDc3YWMxNjc0ZTM2ZTNhMjVjYzgyMGE2YzgwNjhjMTRh`
+Snapshot ID: `MCwwNTgyMzJlOGYxM2FmZmNiMmM4YmVlYzRlNDJlNGI5OGQ1MzE0Y2E3`

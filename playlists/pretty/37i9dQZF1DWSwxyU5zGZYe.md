@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 
 > Best acoustic melodies from Bollywood
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,646 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,716 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 11 | [Tujhko Jo Paaya](https://open.spotify.com/track/62kyw2ux2p0CZ7pKWtM6QO) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Crook \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/298NO23hfv1nhAE0gQ5vLN) | 3:04 |
 | 12 | [Pani Da Rang \- Male Vocals](https://open.spotify.com/track/4kaLkst9lT3sQ5Crgxs3ic) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [Vicky Donor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/71DVhsBjMZWwTk18SeQhip) | 4:00 |
 | 13 | [Ek Taara Reprise](https://open.spotify.com/track/1c0FE1ZloNTZpLS8CRwl6X) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Keshav Tyohar](https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS), [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Vijay Maurya](https://open.spotify.com/artist/0DPMEDEtRZYhlbWSAtbpNX) | [Mast Mein Rehne Ka](https://open.spotify.com/album/57Mp5CEnRAXsuDHeltvyKf) | 3:23 |
-| 14 | [Jeena Jeena](https://open.spotify.com/track/2GXXZFUxYg2LvG8SR0byOE) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Badlapur \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ahg47diWPOQ6d6C8e6PHI) | 3:48 |
+| 14 | [Jeena Jeena](https://open.spotify.com/track/66ezsSqTUU35e0ZSeyZ5CP) | [lusttqwe](https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR), [bexter](https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n) | [Jeena Jeena](https://open.spotify.com/album/2kpqCkreyltfHnhXI89RM2) | 3:55 |
 | 15 | [Rozana](https://open.spotify.com/track/1mYcukuz7uow0wc7DmPXHU) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe) | [Rozana \(From "Naam Shabana"\)](https://open.spotify.com/album/6QsWVJu3QawRgoAgUH9QX5) | 4:34 |
 | 16 | [Sunoh \- Reprise](https://open.spotify.com/track/3iRKf1eAQk6I7ncGH98UN7) | [Shillong Chamber Choir](https://open.spotify.com/artist/7gkmvNNfD8KJXAwePUNpDU), [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014), [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4), [The Islanders](https://open.spotify.com/artist/13S9FAokOhD3RZeAz6ti4i) | [The Archies \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qHdnDIIyffdF46dwQ4V8i) | 3:07 |
 | 17 | [Phir Le Aya Dil \- Reprise](https://open.spotify.com/track/7fpWJr5shT90KiCHXKHxch) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Barfi! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2KZs4INik6X4KeZEsEWEm4) | 5:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 49 | [Buniyaad 2.0](https://open.spotify.com/track/45vZrnB268uU9nYHIpk2Wf) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Maja Ma \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6UyrHiVW3kVm5YgDNlF8q9) | 4:11 |
 | 50 | [Tere Vaaste \(From "Zara Hatke Zara Bachke"\) \- Unplugged](https://open.spotify.com/track/3UPesdwW261UnhOg03Coy7) | [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tere Vaaste \(From "Zara Hatke Zara Bachke"\) \[Unplugged\]](https://open.spotify.com/album/3p6PTmeOHxfxNaqSFpMAVJ) | 0:55 |
 
-Snapshot ID: `MCxlZTMwZGZjOTFiOGY4ZGUwMDZjNzlkMDgzMjVjYjU2ZGY1Njc2YmJh`
+Snapshot ID: `MCwyNDQ2MGUzMTIwOGFmYTc4M2NlZmRhZjdmZGIwYmFmNGY3MmQ5N2I2`

@@ -3998,7 +3998,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 228857,
       "name": "Tripod",
       "url": "https://open.spotify.com/track/1MLqccNxmrlLeG2R5cBAeH"
@@ -4020,6 +4020,24 @@
       "duration_ms": 228857,
       "name": "Tripod",
       "url": "https://open.spotify.com/track/2zdeJ6HoDILFngbzHuWq8W"
+    },
+    {
+      "album": {
+        "name": "Placebo",
+        "url": "https://open.spotify.com/album/5T113asZkXnBZ3820ie2fa"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228857,
+      "name": "Tripod",
+      "url": "https://open.spotify.com/track/4nydbqIi7U7DMM3ZGQEjtE"
     },
     {
       "album": {

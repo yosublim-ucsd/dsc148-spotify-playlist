@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,321 likes - 130 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,471 likes - 130 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 129 | [HOLD TIGHT](https://open.spotify.com/track/1TOBYH7YalbblKJ7M8ufRx) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0) | [HOLD TIGHT](https://open.spotify.com/album/4obNCFuwOgF4C6en6QXSAe) | 3:19 |
 | 130 | [On My Mind](https://open.spotify.com/track/3Z8pXlydvG00cjalDZgiUq) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [JIM](https://open.spotify.com/artist/5ahYpnzCN3IMzBCFqwnKfr) | [On My Mind](https://open.spotify.com/album/3Tc4RzAWum7OKbNkTGgkAX) | 2:20 |
 
-Snapshot ID: `MCwwMzRiY2FmMjg1Y2QwNWNkY2NmYzY5ZDI2ZWY3YTEyOTE3YzJjMDI5`
+Snapshot ID: `MCw2NzcwZDRmZmIxZWE4N2Y0ZTYzNzEyYjRkMGQzMDIwODUyNTExNTkx`

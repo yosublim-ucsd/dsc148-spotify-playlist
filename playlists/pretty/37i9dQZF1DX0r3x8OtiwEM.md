@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 923,408 likes - 60 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 923,626 likes - 60 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 31 | [Kaleidoscope Colours](https://open.spotify.com/track/2FqOpyYhgo3ZMgtkY55PVz) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Maybemahri](https://open.spotify.com/artist/4Lo9uin42ZRpz8pqItU4gL) | [Kaleidoscope Colours](https://open.spotify.com/album/3kzL5SQAckdGoe8pZHtrm9) | 4:15 |
 | 32 | [On My Knees \- Adriatique Remix](https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [On My Knees \(Adriatique Remix\)](https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr) | 7:32 |
 | 33 | [Electric](https://open.spotify.com/track/62piGIpUTsY8HA7tdjfLS8) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [ASHER SWISSA](https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM), [SANDHAUS](https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta) | [Electric](https://open.spotify.com/album/6aAEMDfaoCNQu1d3EgszPX) | 4:21 |
-| 34 | [FAST LAND](https://open.spotify.com/track/7g6zG8DhkZoqhbTk5j0lbB) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz) | 3:39 |
-| 35 | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o) | 4:12 |
+| 34 | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o) | 4:12 |
+| 35 | [FAST LAND](https://open.spotify.com/track/7g6zG8DhkZoqhbTk5j0lbB) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz) | 3:39 |
 | 36 | [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 |
 | 37 | [Keep Going](https://open.spotify.com/track/0JDSAbpZjlSMP2fpFjtiuN) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Keep Going](https://open.spotify.com/album/6QehqXj90f0dAm6IqMPtRo) | 3:44 |
 | 38 | [Afterglow](https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Afterglow](https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm) | 4:29 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 59 | [Trust](https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Trust](https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB) | 4:55 |
 | 60 | [Wild Heart](https://open.spotify.com/track/0jN80BUFLFsTY9W7OeWqu8) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe), [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [Equal](https://open.spotify.com/album/4PzxGlfoKM04nEQwscARba) | 3:30 |
 
-Snapshot ID: `MCxjMTkzNzJjOTBlODcwNTMyYWI4OTQyM2FjZDVjNTg3MDIzMjc0NzIx`
+Snapshot ID: `MCw5MGJhYzU4ZTZmMDA1OTAzODRkZDNhZWRiNWZmMTc2MmRlNGRlYTI0`

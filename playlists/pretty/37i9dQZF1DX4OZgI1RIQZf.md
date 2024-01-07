@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 
 > The best indie songs from all decades for your Halloween party
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,625 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,673 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 8 | [Goo Goo Muck](https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Psychedelic Jungle](https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn) | 3:06 |
 | 9 | [Halloween](https://open.spotify.com/track/7AkPusgKsrTqbOcTTbRnFr) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 2:34 |
 | 10 | [haunt me \(x 3\)](https://open.spotify.com/track/1QUMpZT7HG6sO3RiBu1LAJ) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [dc snuff film / waste yrself](https://open.spotify.com/album/1QMZJabCAFTaiuq4toibdt) | 2:45 |
-| 11 | [Season Of The Witch](https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Season Of The Witch \(From The Motion Picture "Scary Stories To Tell In The Dark"\)](https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq) | 4:07 |
-| 12 | [Evil](https://open.spotify.com/track/4absiGHMelB8eH976ytjBj) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Antics](https://open.spotify.com/album/2OFkUKYNNFQ74kJOSc9gzz) | 3:35 |
+| 11 | [Evil](https://open.spotify.com/track/4absiGHMelB8eH976ytjBj) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Antics](https://open.spotify.com/album/2OFkUKYNNFQ74kJOSc9gzz) | 3:35 |
+| 12 | [Season Of The Witch](https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Season Of The Witch \(From The Motion Picture "Scary Stories To Tell In The Dark"\)](https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq) | 4:07 |
 | 13 | [Limerence](https://open.spotify.com/track/2wiV5iKq5F5A0KUee4OrlK) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Mono No Aware](https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk) | 5:29 |
 | 14 | [Wolf Like Me](https://open.spotify.com/track/6Zgd7SomLTZkL1WPh4CUnV) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Return To Cookie Mountain](https://open.spotify.com/album/4sD8WQQ8f1x3L4YFa9qFIO) | 4:37 |
 | 15 | [Spellbound](https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:17 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 44 | [Blood Red Moon](https://open.spotify.com/track/6LOBCrIpUtcw54KXHWCY70) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Blood Red Moon](https://open.spotify.com/album/7x67tt2IeXCju0IjT3jCCJ) | 4:31 |
 | 45 | [Dead Man's Bones](https://open.spotify.com/track/6vLgqz7K77h0kRraU31R5x) | [Dead Man's Bones](https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk) | [Dead Man's Bones](https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr) | 3:00 |
 | 46 | [Halloween](https://open.spotify.com/track/4QL6epCx6rlUbDG4TF3sj9) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Plastic Surgery Disasters/In God We Trust, Inc.](https://open.spotify.com/album/7vtq4mlZSC1HC4a6UdcVug) | 3:35 |
-| 47 | [Right On, Frankenstein!](https://open.spotify.com/track/32XH0vxdpKpcJ80NSpRbbz) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [The Physical World](https://open.spotify.com/album/22sYnou2SavBZHHFVUTmWs) | 3:05 |
-| 48 | [Black Magic](https://open.spotify.com/track/6qWbdBTcF2u7zvSXLxKRZx) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [By Default](https://open.spotify.com/album/7uIZLgnTNZEJ1d0iO0qvEo) | 2:48 |
+| 47 | [Black Magic](https://open.spotify.com/track/6qWbdBTcF2u7zvSXLxKRZx) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [By Default](https://open.spotify.com/album/7uIZLgnTNZEJ1d0iO0qvEo) | 2:48 |
+| 48 | [Right On, Frankenstein!](https://open.spotify.com/track/32XH0vxdpKpcJ80NSpRbbz) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [The Physical World](https://open.spotify.com/album/22sYnou2SavBZHHFVUTmWs) | 3:05 |
 | 49 | [Valley Ghoul](https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Valley Ghoul](https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW) | 3:02 |
 | 50 | [Halloween Blues](https://open.spotify.com/track/3vJXnhcUZLWRiQWYpFSTpW) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [We Need Medicine](https://open.spotify.com/album/7otPYa5dSxdo2WLgQKnaM7) | 3:16 |
 | 51 | [MORBID FASCINATION](https://open.spotify.com/track/2Jp4ipY7AfFJGFUxGtT92M) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR) | [GHOSTS ON TAPE](https://open.spotify.com/album/6sQQwUqr31xeKtBq9mht08) | 3:46 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 63 | [Suck the Blood from My Wound](https://open.spotify.com/track/08udle8t4dGZzQ67AEs8X4) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Transangelic Exodus](https://open.spotify.com/album/0qH9x299SJCF03WuVXgXAN) | 4:49 |
 | 64 | [Trick or Treatz](https://open.spotify.com/track/3JjiOYtQlAl7AHh2sXBgC6) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Pip Paine \(Pay The £5000 You Owe\)](https://open.spotify.com/album/3PWeJGk1ybkkO5lF9eXVUt) | 4:41 |
 | 65 | [Little Bit 'O Soul \[From The Amazon Original Movie “Totally Killer”\]](https://open.spotify.com/track/01d3ikcS8fpRKTBgOLcwqO) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Little Bit 'O Soul \[From The Amazon Original Movie “Totally Killer”\]](https://open.spotify.com/album/3CiQoxlWPtdMJwLIVQyAPM) | 2:40 |
-| 66 | [River Styx](https://open.spotify.com/track/4X5BZo70kQoOcDN2KlbrPC) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Beat the Devil's Tattoo](https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII) | 3:55 |
-| 67 | [A Girl Like You](https://open.spotify.com/track/3KrIoPBs9kptUnczFNg9tW) | [Anna B Savage](https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi) | [A Girl Like You](https://open.spotify.com/album/6vtVr80gX551QRmXU6QZJ4) | 3:12 |
+| 66 | [A Girl Like You](https://open.spotify.com/track/3KrIoPBs9kptUnczFNg9tW) | [Anna B Savage](https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi) | [A Girl Like You](https://open.spotify.com/album/6vtVr80gX551QRmXU6QZJ4) | 3:12 |
+| 67 | [River Styx](https://open.spotify.com/track/4X5BZo70kQoOcDN2KlbrPC) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Beat the Devil's Tattoo](https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII) | 3:55 |
 | 68 | [So Haunted](https://open.spotify.com/track/08fNM1EU6GnebBtv3Btl4d) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [In Ghost Colours \(UK Version Delux\)](https://open.spotify.com/album/5IlfTdX8ifs6qbQYgk7AoS) | 4:28 |
 | 69 | [Halloween](https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Bad Moon Rising](https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6) | 5:11 |
 | 70 | [Zombie Prom](https://open.spotify.com/track/7yMbT5HHdk8NpuchXIL18b) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Zombie Prom \(Hallowe'en At Home Edition\)](https://open.spotify.com/album/6PQJubA12Yap1KhrUruMfW) | 3:38 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 79 | [Skeleton Dance](https://open.spotify.com/track/4NRa0k3kkCuL0cZDFCBRer) | [Teleman](https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV) | [Breakfast](https://open.spotify.com/album/7w4b556eeov0CXCQYYYkls) | 3:37 |
 | 80 | [Pumpkin](https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl) | [Starlight Mints](https://open.spotify.com/artist/1PUcFRu2DyznyQS1nVIcEE) | [Drowaton](https://open.spotify.com/album/2juHcXKlRhdcmu0BrM2eBw) | 2:42 |
 
-Snapshot ID: `MCw0OWEyMzVhZWVhZmY1NzljMGM2ZGY2MTA0NWRlZGFhNWEwYTEzYzEw`
+Snapshot ID: `MCwwYjYzN2VmNzlmMzI3YjNlN2FmMTYzMDhmODA2NmJmMjk0YWM1ODMw`

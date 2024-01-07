@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 
 > Classic songs from the Blues songbook\. Cover: Muddy Waters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,461 likes - 58 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,626 likes - 58 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 | 19 | [Dust My Broom](https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:55 |
 | 20 | [Stormy Monday](https://open.spotify.com/track/1lK8K3i4ooFEcCoCNHAmvl) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [My Feeling For the Blues](https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz) | 4:24 |
 | 21 | [How Long Blues](https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 5:17 |
-| 22 | [Baby, What You Want Me To Do \- Live At The New Era Club,1963](https://open.spotify.com/track/6SoZkdugPfXghVpEEqSHCn) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Rocks The House](https://open.spotify.com/album/4XmKdBEndE6UnnbrSUN5Dk) | 4:14 |
-| 23 | [Little Red Rooster](https://open.spotify.com/track/1msykqPE0qoZig4nb9khI0) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Night Beat](https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk) | 2:51 |
+| 22 | [Little Red Rooster](https://open.spotify.com/track/1msykqPE0qoZig4nb9khI0) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Night Beat](https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk) | 2:51 |
+| 23 | [Baby, What You Want Me To Do \- Live At The New Era Club,1963](https://open.spotify.com/track/6SoZkdugPfXghVpEEqSHCn) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Rocks The House](https://open.spotify.com/album/4XmKdBEndE6UnnbrSUN5Dk) | 4:14 |
 | 24 | [Sweet Little Angel](https://open.spotify.com/track/0pgpmYkOwFnNLsyyIETixm) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 5:30 |
 | 25 | [I'm Ready](https://open.spotify.com/track/6MK4Omudz4gPzLCgvTXOXs) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 3:04 |
 | 26 | [It Hurts Me Too](https://open.spotify.com/track/5lgfWxatYUKXvQEE1oTGDE) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Nicky Hopkins](https://open.spotify.com/artist/4oFSDUi4VgAWAn7t5RNaan), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Jamming With Edward](https://open.spotify.com/album/4flw1L8widdDehQ4BYHQvO) | 5:14 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 | 37 | [Caldonia](https://open.spotify.com/track/5E5j6R646UhSlyahYReXwU) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Messing With The Blues](https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp) | 2:54 |
 | 38 | [Forty Four](https://open.spotify.com/track/02Ub2Xv4Vs3UEthDciGPvq) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 2:50 |
 | 39 | [I Pity The Fool](https://open.spotify.com/track/5sNhJi3tY90NDSXvnRyElL) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [I Pity The Fool: The Duke Recordings, Vol\. One](https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6) | 2:40 |
-| 40 | [Blues With A Feeling](https://open.spotify.com/track/0jonK6wMWVKsG1UutRmfpX) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 3:07 |
-| 41 | [Worried Life Blues](https://open.spotify.com/track/7HIBn41u0vLwDlJKjp8Nmk) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Getting Ready..\. \(World\)](https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI) | 2:52 |
+| 40 | [Worried Life Blues](https://open.spotify.com/track/7HIBn41u0vLwDlJKjp8Nmk) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Getting Ready..\. \(World\)](https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI) | 2:52 |
+| 41 | [Blues With A Feeling](https://open.spotify.com/track/0jonK6wMWVKsG1UutRmfpX) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 3:07 |
 | 42 | [I'm a Man](https://open.spotify.com/track/2Bi0JWdxDMaKPanNofJSdL) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX) | [The Yardbirds Story \- Pt\. 3 \- 1965/66 \- Big Hits & America Calling](https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K) | 2:39 |
 | 43 | [Dirt Road Blues \- 2022 Remix](https://open.spotify.com/track/6QEmvsAYHNRZ5D7lyq6Nvf) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Fragments \- Time Out of Mind Sessions \(1996\-1997\): The Bootleg Series, Vol\. 17](https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ) | 3:34 |
 | 44 | [Crosscut Saw](https://open.spotify.com/track/1uu03dv8HEchMBXcR08uke) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [The Very Best Of Albert King](https://open.spotify.com/album/4OlzrLmYCCqAXdEGS2UkJx) | 2:34 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 | 57 | [Ain't Nobody's Business](https://open.spotify.com/track/4aD3d9kzxY8MXAssMQ3c6v) | [Jimmy Whiterspoon](https://open.spotify.com/artist/6Jsv53pu1yK3Q9ZuHcfhsH) | [Presenting Jimmy Whitherspoon](https://open.spotify.com/album/6NVixVUSc6EtmvWzJM8vZf) | 3:38 |
 | 58 | [See See Rider Blues](https://open.spotify.com/track/71foFS0nD6tAZC9BdsVc9G) | [Bea Booze](https://open.spotify.com/artist/47PKMyeVDaFasSwGibmoSk) | [Country Blues 101](https://open.spotify.com/album/0A2ttGOhKCGIVzLXtSgajJ) | 3:09 |
 
-Snapshot ID: `MCwxMmZkZDgxOTJkNTIwODU3NWUyZGU5NTI4MjgyYTAwMjEyNzZhOGQ5`
+Snapshot ID: `MCwyMzM5M2VmMzMzYjVjYjFiM2Y5NGQzM2JkMmUxMTQyYjU5ZjI5NjM5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: The Game & Big Hit\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,568 likes - 98 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,596 likes - 98 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 97 | [Mr\. Put That Shit On](https://open.spotify.com/track/4r2pxdCocBEyQ93xbsaYof) | [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Mr\. Put That Shit On](https://open.spotify.com/album/0iB4O5HImR5jopE1vf7WYr) | 5:48 |
 | 98 | [NO FINSTA](https://open.spotify.com/track/59GEWDzQgCXM55aGZDWSrQ) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [LET'S DO IT](https://open.spotify.com/album/4I49kBApc9FV9oeAcIj9tK) | 1:58 |
 
-Snapshot ID: `MCxmYWZkNmNjY2NjZDUxNGRmZDcyYzM0ZjQzNGM5NGZhM2YyNmRmNDgz`
+Snapshot ID: `MCwyZDU0NmNjYjgzMTNkZTA1N2FiMTA1OGJmYzA5MTUzYjI3ZTNiMmRi`

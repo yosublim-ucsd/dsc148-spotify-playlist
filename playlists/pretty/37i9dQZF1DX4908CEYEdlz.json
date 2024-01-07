@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: The Killers",
-  "num_followers": 694887,
+  "num_followers": 694876,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTA0ZmI0NDAxYmRkMWJmYzM1ZTM4NDc0MTM3YTA3MjMxNWEzMDY5",
+  "snapshot_id": "MCwxNjRhYWYxNjM3ODZkMWQ2ZjMzNjRiZTQ0NmY1NDdjMjI0MTVmZjdh",
   "tracks": [
     {
       "added_at": "2024-01-05 03:01:00",
@@ -163,6 +163,22 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
+        "name": "One Eyed Bastard",
+        "url": "https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 172899,
+      "name": "One Eyed Bastard",
+      "url": "https://open.spotify.com/track/1uCkz8Cg3ZlJ871iuFL8Ok"
+    },
+    {
+      "added_at": "2024-01-05 03:01:00",
+      "album": {
         "name": "Lighting Up The Sky",
         "url": "https://open.spotify.com/album/178SPEdKkCkZI05AGiZXad"
       },
@@ -211,22 +227,6 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
-        "name": "Artificial",
-        "url": "https://open.spotify.com/album/3dYWUL9aUiAtc9OKGotTfV"
-      },
-      "artists": [
-        {
-          "name": "Daughtry",
-          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
-        }
-      ],
-      "duration_ms": 219468,
-      "name": "Artificial",
-      "url": "https://open.spotify.com/track/2EU5LeESSJgbYKCc5l4rms"
-    },
-    {
-      "added_at": "2024-01-05 03:01:00",
-      "album": {
         "name": "The Fear of Fear",
         "url": "https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk"
       },
@@ -239,6 +239,22 @@
       "duration_ms": 281052,
       "name": "Too Close / Too Late",
       "url": "https://open.spotify.com/track/4hvCxgioUiT85MCgfIhDP3"
+    },
+    {
+      "added_at": "2024-01-05 03:01:00",
+      "album": {
+        "name": "Artificial",
+        "url": "https://open.spotify.com/album/3dYWUL9aUiAtc9OKGotTfV"
+      },
+      "artists": [
+        {
+          "name": "Daughtry",
+          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
+        }
+      ],
+      "duration_ms": 219468,
+      "name": "Artificial",
+      "url": "https://open.spotify.com/track/2EU5LeESSJgbYKCc5l4rms"
     },
     {
       "added_at": "2024-01-05 03:01:00",
@@ -259,22 +275,6 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
-        "name": "Trial By Fire",
-        "url": "https://open.spotify.com/album/0Tfz5EVaNE6oeAn4vttNEi"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 261014,
-      "name": "Trial By Fire",
-      "url": "https://open.spotify.com/track/6oIGM95s3TIyPqhHIH2AQ6"
-    },
-    {
-      "added_at": "2024-01-05 03:01:00",
-      "album": {
         "name": "Starcatcher",
         "url": "https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE"
       },
@@ -287,6 +287,22 @@
       "duration_ms": 244216,
       "name": "The Indigo Streak",
       "url": "https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk"
+    },
+    {
+      "added_at": "2024-01-05 03:01:00",
+      "album": {
+        "name": "Trial By Fire",
+        "url": "https://open.spotify.com/album/0Tfz5EVaNE6oeAn4vttNEi"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 261014,
+      "name": "Trial By Fire",
+      "url": "https://open.spotify.com/track/6oIGM95s3TIyPqhHIH2AQ6"
     },
     {
       "added_at": "2024-01-05 03:01:00",
@@ -507,22 +523,6 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
-        "name": "CRAWLER",
-        "url": "https://open.spotify.com/album/27ygqCfb4dXQ3jyXnC58FU"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 260519,
-      "name": "Crawl!",
-      "url": "https://open.spotify.com/track/2zHbgdtai9PfsWnIIN8qzR"
-    },
-    {
-      "added_at": "2024-01-05 03:01:00",
-      "album": {
         "name": "Hotel Kalifornia (Deluxe Version)",
         "url": "https://open.spotify.com/album/2QmovINf6cQMuNTTZYNBWi"
       },
@@ -535,6 +535,22 @@
       "duration_ms": 215643,
       "name": "Salvation",
       "url": "https://open.spotify.com/track/7lLjB1RVkIG3CangYngvtJ"
+    },
+    {
+      "added_at": "2024-01-05 03:01:00",
+      "album": {
+        "name": "CRAWLER",
+        "url": "https://open.spotify.com/album/27ygqCfb4dXQ3jyXnC58FU"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 260519,
+      "name": "Crawl!",
+      "url": "https://open.spotify.com/track/2zHbgdtai9PfsWnIIN8qzR"
     },
     {
       "added_at": "2024-01-05 03:01:00",
@@ -763,22 +779,6 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
-        "name": "Hotel Kalifornia",
-        "url": "https://open.spotify.com/album/7dbiEbvBNNt9S4tjV3hIgj"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        }
-      ],
-      "duration_ms": 163752,
-      "name": "Hourglass",
-      "url": "https://open.spotify.com/track/0FIfPxra2V11mDnQmzXtPD"
-    },
-    {
-      "added_at": "2024-01-05 03:01:00",
-      "album": {
         "name": "Six Feet Under",
         "url": "https://open.spotify.com/album/2XRu7mpPmhIIrqDnRs6R1u"
       },
@@ -791,6 +791,22 @@
       "duration_ms": 256397,
       "name": "Six Feet Under",
       "url": "https://open.spotify.com/track/21AGI7qmZgPRn21Fl9dUqZ"
+    },
+    {
+      "added_at": "2024-01-05 03:01:00",
+      "album": {
+        "name": "Hotel Kalifornia",
+        "url": "https://open.spotify.com/album/7dbiEbvBNNt9S4tjV3hIgj"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "duration_ms": 163752,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/0FIfPxra2V11mDnQmzXtPD"
     },
     {
       "added_at": "2024-01-05 03:01:00",
@@ -823,6 +839,22 @@
       "duration_ms": 189579,
       "name": "Still There",
       "url": "https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E"
+    },
+    {
+      "added_at": "2024-01-05 03:01:00",
+      "album": {
+        "name": "The Art Of Survival",
+        "url": "https://open.spotify.com/album/7Eopsh1TbXAKPSxhqOprDg"
+      },
+      "artists": [
+        {
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+        }
+      ],
+      "duration_ms": 228119,
+      "name": "Slow Me",
+      "url": "https://open.spotify.com/track/31aVGAyU43vQYxYyCmfaQI"
     },
     {
       "added_at": "2024-01-05 03:01:00",
@@ -875,22 +907,6 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
-        "name": "The Art Of Survival",
-        "url": "https://open.spotify.com/album/7Eopsh1TbXAKPSxhqOprDg"
-      },
-      "artists": [
-        {
-          "name": "Bush",
-          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
-        }
-      ],
-      "duration_ms": 228119,
-      "name": "Slow Me",
-      "url": "https://open.spotify.com/track/31aVGAyU43vQYxYyCmfaQI"
-    },
-    {
-      "added_at": "2024-01-05 03:01:00",
-      "album": {
         "name": "TAKE THIS CROWN (feat. Good Charlotte)",
         "url": "https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 173600,
       "name": "Ultraviolet",
       "url": "https://open.spotify.com/track/33x3Y8oLC0rpAIwACzdyyN"
-    },
-    {
-      "added_at": "2024-01-05 03:01:00",
-      "album": {
-        "name": "One Eyed Bastard",
-        "url": "https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 172899,
-      "name": "One Eyed Bastard",
-      "url": "https://open.spotify.com/track/1uCkz8Cg3ZlJ871iuFL8Ok"
     },
     {
       "added_at": "2024-01-05 03:01:00",
@@ -1027,6 +1027,22 @@
       "duration_ms": 183693,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/0KgSpr6WwXmNIkgd0ud7yK"
+    },
+    {
+      "added_at": "2024-01-05 03:01:00",
+      "album": {
+        "name": "DUALIDADE #LIVREPARATODOS",
+        "url": "https://open.spotify.com/album/5cYJymh4Af0dTazxomJdpg"
+      },
+      "artists": [
+        {
+          "name": "Bayside Kings",
+          "url": "https://open.spotify.com/artist/1ixRGSR7pOSWqLTtbjL62p"
+        }
+      ],
+      "duration_ms": 114218,
+      "name": "PARE(SER)",
+      "url": "https://open.spotify.com/track/2x8iWbXOkSS3iOavdOa4M0"
     },
     {
       "added_at": "2024-01-05 03:01:00",
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
-        "name": "DUALIDADE #LIVREPARATODOS",
-        "url": "https://open.spotify.com/album/5cYJymh4Af0dTazxomJdpg"
-      },
-      "artists": [
-        {
-          "name": "Bayside Kings",
-          "url": "https://open.spotify.com/artist/1ixRGSR7pOSWqLTtbjL62p"
-        }
-      ],
-      "duration_ms": 114218,
-      "name": "PARE(SER)",
-      "url": "https://open.spotify.com/track/2x8iWbXOkSS3iOavdOa4M0"
-    },
-    {
-      "added_at": "2024-01-05 03:01:00",
-      "album": {
         "name": "Carnivore",
         "url": "https://open.spotify.com/album/34nv0cMOhc5T2QvS8i1crM"
       },
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
+        "name": "Dreadpool",
+        "url": "https://open.spotify.com/album/3vF3bDExugJaSubn8KgPwQ"
+      },
+      "artists": [
+        {
+          "name": "Black Pantera",
+          "url": "https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t"
+        }
+      ],
+      "duration_ms": 179564,
+      "name": "Dreadpool",
+      "url": "https://open.spotify.com/track/3Xj5buo2mNxOyxPgT8Xkzy"
+    },
+    {
+      "added_at": "2024-01-05 03:01:00",
+      "album": {
         "name": "Golden State (20th Anniversary Expanded Version)",
         "url": "https://open.spotify.com/album/43TsRvNOblRitRDfdgu4VS"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 342306,
       "name": "The People That We Love - Golden Dub Remix",
       "url": "https://open.spotify.com/track/1QJpxlH4M7DmSFdIyE7Ekq"
-    },
-    {
-      "added_at": "2024-01-05 03:01:00",
-      "album": {
-        "name": "Dreadpool",
-        "url": "https://open.spotify.com/album/3vF3bDExugJaSubn8KgPwQ"
-      },
-      "artists": [
-        {
-          "name": "Black Pantera",
-          "url": "https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t"
-        }
-      ],
-      "duration_ms": 179564,
-      "name": "Dreadpool",
-      "url": "https://open.spotify.com/track/3Xj5buo2mNxOyxPgT8Xkzy"
     }
   ],
   "unique_name": "Volume M\u00e1ximo",

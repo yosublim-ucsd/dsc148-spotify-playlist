@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 52044,
+  "num_followers": 52052,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWIzNjE1YzFjMWNjMjVmMWRiZTIxMjgzMDBiM2I1MWE4MWE2YjBj",
+  "snapshot_id": "MCw4NTQ1MGM3ODY4MTU5MzM0YzdlNDFjYjIxZDY1NTA5YmVmZWQ3OTU0",
   "tracks": [
     {
       "added_at": "2024-01-04 15:00:00",
@@ -1047,38 +1047,6 @@
     {
       "added_at": "2024-01-04 15:00:00",
       "album": {
-        "name": "Two Hearts",
-        "url": "https://open.spotify.com/album/4FM62Z8aXRnYi3Z6mCLgnE"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 246796,
-      "name": "Two Hearts",
-      "url": "https://open.spotify.com/track/5Y65gREADmqP7wGn4rOPCJ"
-    },
-    {
-      "added_at": "2024-01-04 15:00:00",
-      "album": {
-        "name": "all my luv",
-        "url": "https://open.spotify.com/album/2zWYE2eOqWnnPQiKRCsvMC"
-      },
-      "artists": [
-        {
-          "name": "luvis",
-          "url": "https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M"
-        }
-      ],
-      "duration_ms": 263225,
-      "name": "all my luv",
-      "url": "https://open.spotify.com/track/0hUySpxkxqBnfLV1nazJGA"
-    },
-    {
-      "added_at": "2024-01-04 15:00:00",
-      "album": {
         "name": "Lost At Sea",
         "url": "https://open.spotify.com/album/5z82RVDMCeczopEXA5JghQ"
       },
@@ -1099,18 +1067,18 @@
     {
       "added_at": "2024-01-04 15:00:00",
       "album": {
-        "name": "street",
-        "url": "https://open.spotify.com/album/24quXWc5HLrGwGMqACGW4z"
+        "name": "all my luv",
+        "url": "https://open.spotify.com/album/2zWYE2eOqWnnPQiKRCsvMC"
       },
       "artists": [
         {
-          "name": "invisible design",
-          "url": "https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM"
+          "name": "luvis",
+          "url": "https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M"
         }
       ],
-      "duration_ms": 168000,
-      "name": "street",
-      "url": "https://open.spotify.com/track/437OQ6BiZQKGUdzKg1zMh4"
+      "duration_ms": 263225,
+      "name": "all my luv",
+      "url": "https://open.spotify.com/track/0hUySpxkxqBnfLV1nazJGA"
     },
     {
       "added_at": "2024-01-04 15:00:00",
@@ -1131,6 +1099,38 @@
     {
       "added_at": "2024-01-04 15:00:00",
       "album": {
+        "name": "street",
+        "url": "https://open.spotify.com/album/24quXWc5HLrGwGMqACGW4z"
+      },
+      "artists": [
+        {
+          "name": "invisible design",
+          "url": "https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "street",
+      "url": "https://open.spotify.com/track/437OQ6BiZQKGUdzKg1zMh4"
+    },
+    {
+      "added_at": "2024-01-04 15:00:00",
+      "album": {
+        "name": "Two Hearts",
+        "url": "https://open.spotify.com/album/4FM62Z8aXRnYi3Z6mCLgnE"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 246796,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/5Y65gREADmqP7wGn4rOPCJ"
+    },
+    {
+      "added_at": "2024-01-04 15:00:00",
+      "album": {
         "name": "RETRO MODERN DANDY",
         "url": "https://open.spotify.com/album/6uFdwPikkIIXX4dtC7BXuS"
       },
@@ -1147,18 +1147,22 @@
     {
       "added_at": "2024-01-04 15:00:00",
       "album": {
-        "name": "The Fight",
-        "url": "https://open.spotify.com/album/0vm1RScuRpoQy6OwltHDLd"
+        "name": "Gershwin: Piano Works",
+        "url": "https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU"
       },
       "artists": [
         {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Frank Braley",
+          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
         }
       ],
-      "duration_ms": 267400,
-      "name": "The Fight",
-      "url": "https://open.spotify.com/track/5dO7az8K6NveAArJRAGWm0"
+      "duration_ms": 145200,
+      "name": "Song Book: The Man I Love. Slow and in singing style",
+      "url": "https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc"
     },
     {
       "added_at": "2024-01-04 15:00:00",
@@ -1191,22 +1195,18 @@
     {
       "added_at": "2024-01-04 15:00:00",
       "album": {
-        "name": "Gershwin: Piano Works",
-        "url": "https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU"
+        "name": "The Fight",
+        "url": "https://open.spotify.com/album/0vm1RScuRpoQy6OwltHDLd"
       },
       "artists": [
         {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Frank Braley",
-          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
         }
       ],
-      "duration_ms": 145200,
-      "name": "Song Book: The Man I Love. Slow and in singing style",
-      "url": "https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc"
+      "duration_ms": 267400,
+      "name": "The Fight",
+      "url": "https://open.spotify.com/track/5dO7az8K6NveAArJRAGWm0"
     },
     {
       "added_at": "2024-01-04 15:00:00",
@@ -1299,18 +1299,26 @@
     {
       "added_at": "2024-01-04 15:00:00",
       "album": {
-        "name": "How I Got Home",
-        "url": "https://open.spotify.com/album/1HHfYrWLKvMyT6HkYRL5t3"
+        "name": "Flute and Harp",
+        "url": "https://open.spotify.com/album/33MNfDsswl60MN5B526hI2"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+          "name": "Nora Mercz",
+          "url": "https://open.spotify.com/artist/4VmX4klHDDn0mIyG7pQ8tb"
+        },
+        {
+          "name": "Nikolai Rimsky-Korsakov",
+          "url": "https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs"
+        },
+        {
+          "name": "Janos Balint",
+          "url": "https://open.spotify.com/artist/7BLZsD2sdXgqkg7K3Natw6"
         }
       ],
-      "duration_ms": 219247,
-      "name": "How I Got Home",
-      "url": "https://open.spotify.com/track/7bZhj7qv9OpG1R5pPCxnyQ"
+      "duration_ms": 212000,
+      "name": "Sadko: Hindu Song (arr. N. Mercz): Hindu Song from the Opera 'Sadko'",
+      "url": "https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC"
     },
     {
       "added_at": "2024-01-04 15:00:00",
@@ -1335,26 +1343,18 @@
     {
       "added_at": "2024-01-04 15:00:00",
       "album": {
-        "name": "Flute and Harp",
-        "url": "https://open.spotify.com/album/33MNfDsswl60MN5B526hI2"
+        "name": "How I Got Home",
+        "url": "https://open.spotify.com/album/1HHfYrWLKvMyT6HkYRL5t3"
       },
       "artists": [
         {
-          "name": "Nora Mercz",
-          "url": "https://open.spotify.com/artist/4VmX4klHDDn0mIyG7pQ8tb"
-        },
-        {
-          "name": "Nikolai Rimsky-Korsakov",
-          "url": "https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs"
-        },
-        {
-          "name": "Janos Balint",
-          "url": "https://open.spotify.com/artist/7BLZsD2sdXgqkg7K3Natw6"
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Sadko: Hindu Song (arr. N. Mercz): Hindu Song from the Opera 'Sadko'",
-      "url": "https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC"
+      "duration_ms": 219247,
+      "name": "How I Got Home",
+      "url": "https://open.spotify.com/track/7bZhj7qv9OpG1R5pPCxnyQ"
     },
     {
       "added_at": "2024-01-04 15:00:00",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2024-01-04 15:00:00",
       "album": {
-        "name": "Shroud of Night",
-        "url": "https://open.spotify.com/album/5jIsBJGqv1y994K54N1QTp"
+        "name": "Streets Of Heaven",
+        "url": "https://open.spotify.com/album/6mDhDu6IcH3irMtTu3ExXD"
       },
       "artists": [
         {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 199136,
-      "name": "Shroud of Night",
-      "url": "https://open.spotify.com/track/55gJzsjaRb0nSv8ZyuUBqC"
+      "duration_ms": 188854,
+      "name": "Streets Of Heaven",
+      "url": "https://open.spotify.com/track/1cnmxp3Na8HxQFLArjTwRI"
     },
     {
       "added_at": "2024-01-04 15:00:00",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2024-01-04 15:00:00",
       "album": {
-        "name": "Streets Of Heaven",
-        "url": "https://open.spotify.com/album/6mDhDu6IcH3irMtTu3ExXD"
+        "name": "Shroud of Night",
+        "url": "https://open.spotify.com/album/5jIsBJGqv1y994K54N1QTp"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
         }
       ],
-      "duration_ms": 188854,
-      "name": "Streets Of Heaven",
-      "url": "https://open.spotify.com/track/1cnmxp3Na8HxQFLArjTwRI"
+      "duration_ms": 199136,
+      "name": "Shroud of Night",
+      "url": "https://open.spotify.com/track/55gJzsjaRb0nSv8ZyuUBqC"
     },
     {
       "added_at": "2024-01-04 15:00:00",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2024-01-04 15:00:00",
       "album": {
-        "name": "Nature undisclosed",
-        "url": "https://open.spotify.com/album/4MncWHjrU2jTWsDUaJjpo6"
+        "name": "ITEIAD Sessions",
+        "url": "https://open.spotify.com/album/49FYWXZPpRXP2wewK6PRhu"
       },
       "artists": [
         {
-          "name": "Keiko Ishida",
-          "url": "https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW"
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
         }
       ],
-      "duration_ms": 147661,
-      "name": "Nature undisclosed",
-      "url": "https://open.spotify.com/track/48aOlsvnC4e8cdMsrw59Qd"
+      "duration_ms": 179091,
+      "name": "Super Trouper",
+      "url": "https://open.spotify.com/track/6NDRkX3h4iiyKcJOngaVZ8"
     },
     {
       "added_at": "2024-01-04 15:00:00",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2024-01-04 15:00:00",
       "album": {
-        "name": "ITEIAD Sessions",
-        "url": "https://open.spotify.com/album/49FYWXZPpRXP2wewK6PRhu"
+        "name": "Nature undisclosed",
+        "url": "https://open.spotify.com/album/4MncWHjrU2jTWsDUaJjpo6"
       },
       "artists": [
         {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+          "name": "Keiko Ishida",
+          "url": "https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW"
         }
       ],
-      "duration_ms": 179091,
-      "name": "Super Trouper",
-      "url": "https://open.spotify.com/track/6NDRkX3h4iiyKcJOngaVZ8"
+      "duration_ms": 147661,
+      "name": "Nature undisclosed",
+      "url": "https://open.spotify.com/track/48aOlsvnC4e8cdMsrw59Qd"
     },
     {
       "added_at": "2024-01-04 15:00:00",

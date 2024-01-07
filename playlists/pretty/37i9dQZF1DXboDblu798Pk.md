@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 
 > Pop hits in the making! Cover: Nicki Minaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,942 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,948 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 | 37 | [girl in new york](https://open.spotify.com/track/3eGIiMTMZduPDb4MN0NTqD) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [girl in new york](https://open.spotify.com/album/3nIb1RiW1bVXHPE1XthHcC) | 2:57 |
 | 38 | [Luxury](https://open.spotify.com/track/7AJn6nHmWouUAdd7bJAheL) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Upside](https://open.spotify.com/album/3DJIsKB1vlhdn0hDAwqiTH) | 3:17 |
 | 39 | [Hard to Love](https://open.spotify.com/track/6QV6miSjUtqppivpjwDZgI) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Hard To Love](https://open.spotify.com/album/0jXxDV0TkGE6f5MezsGFrU) | 2:47 |
-| 40 | [Redline \- InHer Room](https://open.spotify.com/track/1fduKAIbqiCeIQjdInGwOz) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Redline \(InHer Room\)](https://open.spotify.com/album/5cF0sx3gtWtvWQj01eOHen) | 3:22 |
+| 40 | [Redline \- InHer Room](https://open.spotify.com/track/1w4iW3Bv2BmowTKzE7tORe) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [InHer Room](https://open.spotify.com/album/4yuCd5c4U8IWNPgL671vlx) | 3:22 |
 | 41 | [Into Your Room \(with MUNA\)](https://open.spotify.com/track/3RaG1pAMRHFiCAqcE9KKNo) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Into Your Room \(with MUNA\)](https://open.spotify.com/album/5xoc8PmIs7xsuxaA7t4Oun) | 3:31 |
 | 42 | [Got Me Started](https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:18 |
 | 43 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 | 79 | [I'll Be There](https://open.spotify.com/track/0JwXH0xA7o7HUfVfyFh1H6) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [I'll Be There](https://open.spotify.com/album/0fO4oE2tNqegemqaq8byqQ) | 2:46 |
 | 80 | ["Slut!" \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:00 |
 
-Snapshot ID: `MCxmOTlkMGJkM2QzNjdjNDY1NTRjODM2OTFmMWM3ODA1M2NlNTM4MzBk`
+Snapshot ID: `MCw5NGY1MjI1MjBkNTZlZDA2NTAwYzI1MWRkMzczY2NiN2MyOTg1Mzdh`

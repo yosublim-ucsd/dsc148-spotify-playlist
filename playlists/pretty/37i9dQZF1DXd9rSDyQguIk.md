@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9rSDyQguIk.md) - [plain]
 
 > Nothing but classic blues tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,205,185 likes - 70 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,205,830 likes - 70 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9rSDyQguIk.md) - [plain]
 | 69 | [Texas Flood](https://open.spotify.com/track/7BbQQzr1suaBHpJDXDXIj9) | [Larry Davis](https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A) | [The Best Of Duke\-Peacock Blues](https://open.spotify.com/album/5h1La90cicQpR7bSjnbq3Q) | 2:43 |
 | 70 | [Give Me Back My Wig](https://open.spotify.com/track/65dalI2zUxJy2ITurZAaUb) | [Hound Dog Taylor & The HouseRockers](https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a) | [Hound Dog Taylor and The Houserockers](https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV) | 3:35 |
 
-Snapshot ID: `MCw3MTFlNDRhOGY3Zjk1NWNjYjBkNDVmOTMxMzEwODNiZDhjMGJmMjU2`
+Snapshot ID: `MCw0ZDI1ZjdkNzYxN2U4MGJmNTA5Y2NiNWVlODBmMjZiZWIzZDFmYTZi`

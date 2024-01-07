@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- USA.
 
-3,095 songs - 7 day 3 hr 46 min
+3,096 songs - 7 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -858,8 +858,8 @@
 | [Fancy Like](https://open.spotify.com/track/3ZozFqJJlDBNIm4xqxn2ZD) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff](https://open.spotify.com/album/1Lcuv3HMgEG36SkibQIspv) | 2:41 | 2021-07-07 | 2021-09-12 |
 | [Far](https://open.spotify.com/track/74NI58MQexwZjNu1Gu6GjT) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2022-12-10 | 2022-12-21 |
 | [Fast](https://open.spotify.com/track/6MjNilJCVKJq0LfFvo5jWJ) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love](https://open.spotify.com/album/1GYVNOzwhx1nMcIJDogSNp) | 3:28 | 2019-12-11 | 2019-12-12 |
-| [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-03-25 | 2023-11-19 |
-| [Father Stretch My Hands Pt\. 1](https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 2:15 | 2024-01-02 |  |
+| [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-03-25 |  |
+| [Father Stretch My Hands Pt\. 1](https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 2:15 | 2024-01-02 | 2024-01-07 |
 | [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:42 | 2022-05-14 | 2022-05-29 |
 | [favorite crime](https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:32 | 2021-05-23 | 2021-08-31 |
 | [Favorite Song](https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Favorite Song](https://open.spotify.com/album/4XiUZULpVS6gTgKKU7KTX5) | 3:28 | 2023-03-17 | 2023-05-21 |
@@ -1821,6 +1821,7 @@
 | [Never Grow Up \(Taylor's Version\)](https://open.spotify.com/track/2EFZ9emtKWEglWUQGEQ3P9) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:52 | 2023-07-08 | 2023-07-13 |
 | [Never Hating \(feat\. Young Thug\)](https://open.spotify.com/track/1Py8c3dkLF0YczcAyBFBEM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:40 | 2022-10-15 | 2022-10-20 |
 | [NEVER LEFT](https://open.spotify.com/track/21UkXrc9kD48rNpTMI2ecz) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [NEVER LEFT](https://open.spotify.com/album/0PMJvFnZxXl9LToaZFHhxp) | 2:48 | 2021-05-08 | 2021-06-13 |
+| [Never Lose Me](https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Never Lose Me](https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL) | 2:05 | 2024-01-06 |  |
 | [Never Love Again](https://open.spotify.com/track/40YbWniIEmqy6s58fYXLUh) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Music To Be Murdered By](https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6) | 2:57 | 2020-01-19 | 2020-01-20 |
 | [Never Sleep \(with Lil Baby feat\. Travis Scott\)](https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Never Sleep](https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN) | 3:05 | 2022-07-30 | 2022-08-14 |
 | [Never Sleep \(with Lil Baby feat\. Travis Scott\)](https://open.spotify.com/track/5cx2X3RlGDk6g4DkPq4NYw) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Demons Protected By Angels](https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6) | 3:05 | 2022-09-10 | 2022-09-12 |
@@ -2342,7 +2343,7 @@
 | [Show Out \(with Skepta & Pop Smoke\)](https://open.spotify.com/track/5CFJRZRq6sdKKtRwNPWbYv) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 2:54 | 2020-12-13 | 2020-12-18 |
 | [Shut Down](https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:55 | 2022-09-17 | 2022-10-08 |
 | [shut up](https://open.spotify.com/track/3ko9jEHNt4O5fjKN65ULJp) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:37 | 2020-11-03 | 2020-11-07 |
-| [Shut up My Moms Calling](https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling](https://open.spotify.com/album/4qVzNqB4cskFInYfrC7P0S) | 2:44 | 2022-10-11 |  |
+| [Shut up My Moms Calling](https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling](https://open.spotify.com/album/4qVzNqB4cskFInYfrC7P0S) | 2:44 | 2022-10-11 | 2024-01-07 |
 | [Shy Away](https://open.spotify.com/track/2nG54Y4a3sH9YpfxMolOyi) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 2:55 | 2021-05-23 | 2021-05-24 |
 | [Shy Away](https://open.spotify.com/track/2z0IupRlVRlDN5r2IVqHyN) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Shy Away](https://open.spotify.com/album/4JFHfIYCtka66G0izGrJhz) | 2:55 | 2021-04-10 | 2021-04-17 |
 | [SI ELLA SALE](https://open.spotify.com/track/1zaDh3qaGSeSmulNyWlUxm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LAS QUE NO IBAN A SALIR](https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz) | 2:23 | 2020-05-13 | 2020-05-14 |

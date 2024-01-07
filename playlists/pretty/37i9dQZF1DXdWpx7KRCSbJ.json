@@ -1,12 +1,12 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 344359,
+  "num_followers": 344386,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDE3NDgyNzNhMjdmM2QyMjM2NWI3YzQ4NWFjZTE5ZTkwYWM1YmI3",
+  "snapshot_id": "MCwxYTI0MjJmNzEyOGJkMDgxZmVjMzBmYjA0NTMwNDc5OTIyOWEzNDc4",
   "tracks": [
     {
       "added_at": "2023-01-17 01:33:36",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Ao Vivo Em Campo Grande",
-        "url": "https://open.spotify.com/album/49Ld3XINIFTquvEMioXhBu"
-      },
-      "artists": [
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 151826,
-      "name": "Sorte Que C\u00ea Beija Bem - Ao Vivo",
-      "url": "https://open.spotify.com/track/4YV827A7aWVswtyt0eWoWM"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 192870,
       "name": "A boba fui eu - Recorded At Mosh Studios, S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Ao Vivo Em Campo Grande",
+        "url": "https://open.spotify.com/album/49Ld3XINIFTquvEMioXhBu"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 151826,
+      "name": "Sorte Que C\u00ea Beija Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/4YV827A7aWVswtyt0eWoWM"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "A\u00ed Eu Bebo (ao Vivo)",
+        "url": "https://open.spotify.com/album/6xWyByyXTcL2MUSi0mKewj"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 173891,
+      "name": "A\u00ed Eu Bebo - Ao Vivo",
+      "url": "https://open.spotify.com/track/6lK3nCiigk34SGqEjpQoqO"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Sim ou n\u00e3o (Participa\u00e7\u00e3o especial de Maluma)",
         "url": "https://open.spotify.com/album/79GzhuqPAz4gohzwmFDK6b"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 129654,
       "name": "TOMA",
       "url": "https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "A\u00ed Eu Bebo (ao Vivo)",
-        "url": "https://open.spotify.com/album/6xWyByyXTcL2MUSi0mKewj"
-      },
-      "artists": [
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 173891,
-      "name": "A\u00ed Eu Bebo - Ao Vivo",
-      "url": "https://open.spotify.com/track/6lK3nCiigk34SGqEjpQoqO"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -855,6 +855,26 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "S\u00f3 Quer Vrau",
+        "url": "https://open.spotify.com/album/3A3GhqfZV2xJ7qXOox8a1C"
+      },
+      "artists": [
+        {
+          "name": "MC MM",
+          "url": "https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK"
+        },
+        {
+          "name": "DJ RD",
+          "url": "https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb"
+        }
+      ],
+      "duration_ms": 160666,
+      "name": "S\u00f3 Quer Vrau",
+      "url": "https://open.spotify.com/track/0DbNuTBlJ5ixoDdHZ523DT"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Terremoto",
         "url": "https://open.spotify.com/album/7q0BEiH1SJeiPDW8xQ0v8i"
       },
@@ -875,22 +895,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "S\u00f3 Quer Vrau",
-        "url": "https://open.spotify.com/album/3A3GhqfZV2xJ7qXOox8a1C"
+        "name": "Live-M\u00f3vel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2"
       },
       "artists": [
         {
-          "name": "MC MM",
-          "url": "https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK"
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
         },
         {
-          "name": "DJ RD",
-          "url": "https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb"
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 160666,
-      "name": "S\u00f3 Quer Vrau",
-      "url": "https://open.spotify.com/track/0DbNuTBlJ5ixoDdHZ523DT"
+      "duration_ms": 187378,
+      "name": "Sofazinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/2PMLdLt5QeOuOgxfAvx1in"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -923,26 +943,6 @@
       "duration_ms": 194631,
       "name": "Vem - Ao Vivo",
       "url": "https://open.spotify.com/track/2xK5QiyUZufKPSvB7bLHxa"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Live-M\u00f3vel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        },
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 187378,
-      "name": "Sofazinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/2PMLdLt5QeOuOgxfAvx1in"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Finalidade Era Ficar em Casa",
-        "url": "https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP"
+        "name": "Jogo do Amor",
+        "url": "https://open.spotify.com/album/4njG3ASiYdSUc60uDTvDDS"
       },
       "artists": [
         {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+          "name": "MC Bruninho",
+          "url": "https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB"
         }
       ],
-      "duration_ms": 185652,
-      "name": "Finalidade Era Ficar em Casa",
-      "url": "https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE"
+      "duration_ms": 144039,
+      "name": "Jogo do Amor",
+      "url": "https://open.spotify.com/track/3MxbRHE1u74SoMNR9iURIZ"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Jogo do Amor",
-        "url": "https://open.spotify.com/album/4njG3ASiYdSUc60uDTvDDS"
+        "name": "Finalidade Era Ficar em Casa",
+        "url": "https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP"
       },
       "artists": [
         {
-          "name": "MC Bruninho",
-          "url": "https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB"
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
         }
       ],
-      "duration_ms": 144039,
-      "name": "Jogo do Amor",
-      "url": "https://open.spotify.com/track/3MxbRHE1u74SoMNR9iURIZ"
+      "duration_ms": 185652,
+      "name": "Finalidade Era Ficar em Casa",
+      "url": "https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE"
     },
     {
       "added_at": "2023-01-17 01:33:36",

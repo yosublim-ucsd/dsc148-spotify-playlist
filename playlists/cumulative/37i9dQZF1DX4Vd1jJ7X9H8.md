@@ -2,9 +2,9 @@
 
 ### [Soirée](https://open.spotify.com/playlist/37i9dQZF1DX4Vd1jJ7X9H8)
 
-> Groovy, dancy, funky stuff\. When in doubt, turn this on at the party.
+> Groovy, dancy, funky stuff\. When in doubt, turn this on\. Cover: Saltburn
 
-467 songs - 1 day 3 hr 43 min
+468 songs - 1 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Gimme Love \- Channel Tres Remix](https://open.spotify.com/track/45rFdiqdK7xjGb287C06bY) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Gimme Love \(Channel Tres Remix\)](https://open.spotify.com/album/7l2ZAKZIPZOhMQaNcPXbl3) | 3:16 | 2020-12-31 | 2022-07-24 |
 | [Girlfriend](https://open.spotify.com/track/7vfRSHJyOY8qUZ0XXSEbBr) | [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [Girlfriend](https://open.spotify.com/album/0q4Y4pXndd7NxFIwG5yInO) | 2:23 | 2023-11-09 | 2023-12-02 |
 | [Gloria !](https://open.spotify.com/track/4u8O5o5Fnmo0wJLFZW1bxH) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Gloria !](https://open.spotify.com/album/1UNeoUG4ozukEzItkg3MVO) | 2:04 | 2023-05-15 | 2023-08-19 |
-| [GLUE](https://open.spotify.com/track/09AcOUvW6W9queqjGJGZe4) | [Maasho](https://open.spotify.com/artist/1JREmglx633MGQB73njWtE) | [GLUE](https://open.spotify.com/album/1mrZs0Zgn0H5M5uDXT69fF) | 3:23 | 2023-12-27 |  |
+| [GLUE](https://open.spotify.com/track/09AcOUvW6W9queqjGJGZe4) | [Maasho](https://open.spotify.com/artist/1JREmglx633MGQB73njWtE) | [GLUE](https://open.spotify.com/album/1mrZs0Zgn0H5M5uDXT69fF) | 3:23 | 2023-12-27 | 2024-01-07 |
 | [Go To Town](https://open.spotify.com/track/6iOvnACn4ChlAw4lWUU4dd) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Amala](https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI) | 3:37 | 2020-12-31 | 2022-08-12 |
 | [go with u](https://open.spotify.com/track/4PdLup4OaCGktZG8cvbkBz) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Someone's EP II](https://open.spotify.com/album/5hb9aZmt8McCp8ktZh2dJZ) | 3:51 | 2022-05-31 |  |
 | [God's Plan](https://open.spotify.com/track/5HfUsHA6HCvIDDvtXJlUKb) | [George Moir](https://open.spotify.com/artist/6eNGoUHSDYfXSy5SvnN1Uu) | [God's Plan](https://open.spotify.com/album/2YP2BYZ4kgJ7W5vlOUs6B5) | 2:46 | 2022-08-11 | 2023-08-18 |
@@ -317,7 +317,7 @@
 | [Only You](https://open.spotify.com/track/3NcGNpeJ3rouV7fQ3dtv04) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/2kEqaFXOjqbwd6nKci9pEX) | 6:21 | 2020-12-31 | 2022-07-12 |
 | [Only You](https://open.spotify.com/track/3hYwZdd2dvngfePGMwkfbN) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K) | 6:21 | 2023-01-24 | 2023-04-29 |
 | [Only You](https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm) | 6:21 | 2023-03-31 | 2023-07-29 |
-| [Ordinary Love](https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Embrace](https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs) | 4:23 | 2023-09-29 |  |
+| [Ordinary Love](https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Embrace](https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs) | 4:23 | 2023-09-29 | 2024-01-07 |
 | [Ordinary Love](https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y) | 4:23 | 2023-06-23 | 2023-09-26 |
 | [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 4:35 | 2022-05-31 | 2023-08-19 |
 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 | 2022-07-22 | 2022-08-12 |
@@ -326,6 +326,7 @@
 | [Passion](https://open.spotify.com/track/3yydZof4pq6N4zeyTzLwQk) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [BOY](https://open.spotify.com/album/4ZpCZs3zu8tFnJL0vrQIh1) | 2:12 | 2022-08-11 | 2023-05-05 |
 | [Pays imaginaire](https://open.spotify.com/track/7i5I4h7r2vkI2r9tgKjy0x) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle](https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT) | 4:49 | 2021-11-12 | 2022-04-16 |
 | [Peaceful Life](https://open.spotify.com/track/1oqcT3rKnuyGf7gcQU8IXx) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS), [Lorine Chia](https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9) | [Eternal](https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9) | 4:06 | 2022-08-11 |  |
+| [Perfect \(Exceeder\)](https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\)](https://open.spotify.com/album/2KvtNjXWp2eq4oSUvf882U) | 2:41 | 2024-01-06 |  |
 | [Peur des filles \- Montmartre Remix](https://open.spotify.com/track/6xRK103p6gJYRMf1knKanW) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Peur des filles \(Montmartre Remix\)](https://open.spotify.com/album/1vzib5ra2r5t2laFnvgJfO) | 2:46 | 2023-05-04 | 2023-08-19 |
 | [Photo ID](https://open.spotify.com/track/0bhciG1J5Mn3aIfPjvHQIe) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I'm Allergic To Dogs!](https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2) | 4:25 | 2022-07-22 | 2022-08-05 |
 | [Photo ID](https://open.spotify.com/track/0fzE5LlGfQwJLvEiJ7UqUZ) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Photo ID](https://open.spotify.com/album/0KZ5EGfXX5w2T2HOIdOU5p) | 4:25 | 2020-12-31 | 2022-07-08 |
@@ -422,7 +423,7 @@
 | [Time](https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:19 | 2022-08-11 | 2023-08-19 |
 | [Time \(feat\. Rhye\)](https://open.spotify.com/track/0XQypgwTXf0LS7ZGx13XTA) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Time \(feat\. Rhye\)](https://open.spotify.com/album/6RHC0jz8QjvDWEEggbhwrq) | 4:19 | 2020-12-31 | 2022-07-29 |
 | [TIME + ENERGY](https://open.spotify.com/track/4SbosulGVDqJDmKd8BIsMJ) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [BABY BLUE](https://open.spotify.com/album/50ushkrGR4nNTCRNzxs8kb) | 2:58 | 2021-11-12 | 2022-04-16 |
-| [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 | 2020-12-31 | 2022-08-12 |
+| [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 | 2020-12-31 |  |
 | [Tomorrow](https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [Tomorrow](https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb) | 1:59 | 2023-07-18 |  |
 | [Tondoho Mba](https://open.spotify.com/track/7tv5IrZZxU6UcUfNEWd2GH) | [Eko Roosevelt](https://open.spotify.com/artist/7hs75D38FalYWr7BDO1WPh) | [Straight from the Decks \(Guts Finest Selection from His Famous DJ Sets\)](https://open.spotify.com/album/33ZIG2aSnfDw4PsjvINRAs) | 4:42 | 2022-08-11 | 2022-10-22 |
 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 | 2022-01-20 | 2022-08-12 |

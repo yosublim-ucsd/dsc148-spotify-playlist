@@ -1480,6 +1480,36 @@
     {
       "album": {
         "name": "After Party",
+        "url": "https://open.spotify.com/album/0gnzvn8NKEGdm6ubu3peso"
+      },
+      "artists": [
+        {
+          "name": "Amon Becker",
+          "url": "https://open.spotify.com/artist/4FzmRBPZwDrJA8b6ghegd6"
+        },
+        {
+          "name": "Tunechikidd",
+          "url": "https://open.spotify.com/artist/3ejN86NDukQv11FusBynxS"
+        },
+        {
+          "name": "CrisMj",
+          "url": "https://open.spotify.com/artist/6Pjt5Z4RDKyiBURwMXjevt"
+        },
+        {
+          "name": "Galee Galee",
+          "url": "https://open.spotify.com/artist/6zO8oUUC52XGWbE5kEg9Rf"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254845,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/5XFPpvNFkraYrxFOzXevz7"
+    },
+    {
+      "album": {
+        "name": "After Party",
         "url": "https://open.spotify.com/album/6eOXVgUKNuPDsIhlOcSijK"
       },
       "artists": [
@@ -4808,7 +4838,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 181224,
       "name": "bye bye",
       "url": "https://open.spotify.com/track/38RGH6JMSBNEV9BBRFv3pQ"
@@ -7220,7 +7250,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 481000,
       "name": "De la Vida Como Pelicula, Tragedia, Comedia y Ficcion",
       "url": "https://open.spotify.com/track/76YpLOgJcD2YInDHs5u69s"
@@ -8866,7 +8896,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 203232,
       "name": "El Gale\u00f3n Espa\u00f1ol",
       "url": "https://open.spotify.com/track/2H25vepTnERSydd1HRHFvu"
@@ -19431,6 +19461,24 @@
     },
     {
       "album": {
+        "name": "Read My Lips",
+        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230013,
+      "name": "Murder On The Dancefloor",
+      "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
+    },
+    {
+      "album": {
         "name": "Mu\u00f1eca",
         "url": "https://open.spotify.com/album/3cBboEvTyis7wuw6viGmaH"
       },
@@ -24638,7 +24686,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 163212,
       "name": "QUIENES SON",
       "url": "https://open.spotify.com/track/528T2xvgLJ1T8TWYX7blBy"

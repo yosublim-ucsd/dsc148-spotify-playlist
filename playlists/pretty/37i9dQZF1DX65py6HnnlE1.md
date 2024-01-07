@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 
 > Clásicos de la bachata\. Timeless bachata hits\. Cover: Aventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 674,613 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 674,834 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 51 | [Mi Niña \- Bachata Version](https://open.spotify.com/track/3Ed337L8k9XN4Cje0mr7p6) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Toromania](https://open.spotify.com/album/6W5cK4U5pzMMorZjI6pWgK) | 4:00 |
 | 52 | [Se Te Nota](https://open.spotify.com/track/2QesqG94HS8ONoB8yr0vec) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Con Mas Amor](https://open.spotify.com/album/7IXnhyZffZaa9QzAzazORB) | 3:58 |
 | 53 | [No Es una Novela](https://open.spotify.com/track/6u0YMyjnpSHi8EyHRkCCAP) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Éxitos](https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA) | 3:40 |
-| 54 | [Los Pobres Tambien LLoran](https://open.spotify.com/track/2PcQcYs9O2akTO3uCgRdGg) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Sentimiento](https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo) | 3:36 |
-| 55 | [El Profesor](https://open.spotify.com/track/4jUznRZO8FyJgkEAP6QDBx) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [La Soga](https://open.spotify.com/album/1gP8J1yTruazTsPOGozAG0) | 3:39 |
+| 54 | [El Profesor](https://open.spotify.com/track/4jUznRZO8FyJgkEAP6QDBx) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [La Soga](https://open.spotify.com/album/1gP8J1yTruazTsPOGozAG0) | 3:39 |
+| 55 | [Los Pobres Tambien LLoran](https://open.spotify.com/track/2PcQcYs9O2akTO3uCgRdGg) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Sentimiento](https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo) | 3:36 |
 | 56 | [Cuando El Amor Se Va](https://open.spotify.com/track/3hCzPmdh5AhxFYBZMfFOgP) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Recuentos De Éxitos](https://open.spotify.com/album/1XvALZGX2W9POnEoKmbEHq) | 3:55 |
 | 57 | [Antología De Caricias](https://open.spotify.com/track/2jEgfmOjkzmdI8FFqNHrrf) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [La Batalla](https://open.spotify.com/album/2SoC60zXrZBkx0Q8CP8hPb) | 3:57 |
 | 58 | [Que Vuelva](https://open.spotify.com/track/4NfwBgmzmzx8WpyIy9C6p7) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Medicina De Amor](https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz) | 6:31 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 67 | [No Tengo Suerte En El Amor](https://open.spotify.com/track/1dazXPzmgBB7sNxodglb1l) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [Éxitos De Yoskar Sarante](https://open.spotify.com/album/0nAAlwEXjpJwEkLJo7yvG0) | 4:00 |
 | 68 | [Ceniza fria](https://open.spotify.com/track/1EQf1pDlHfgWgt7H9UXXRc) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Loco De Amor](https://open.spotify.com/album/1BWMISug7N9OQX04aDp2wv) | 4:12 |
 | 69 | [Sentimiento de Amor](https://open.spotify.com/track/34FUq3P5k5vc49MfO9kYGP) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [El Triste](https://open.spotify.com/album/6dK8zx6goVQQp4ajR5Xe5a) | 3:24 |
-| 70 | [Pena Por Tí](https://open.spotify.com/track/7fRQxmZcNZEUZJx1dcxWBd) | [Luis Segura](https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp) | [Pena Por Tí](https://open.spotify.com/album/6u9Gf0TcIxJ4O6D7HzuXsl) | 2:58 |
-| 71 | [Mujer Infiel](https://open.spotify.com/track/4VIkwr0aHuvr5ETPaBt9oQ) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Medicina De Amor](https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz) | 6:11 |
+| 70 | [Mujer Infiel](https://open.spotify.com/track/4VIkwr0aHuvr5ETPaBt9oQ) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Medicina De Amor](https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz) | 6:11 |
+| 71 | [Pena Por Tí](https://open.spotify.com/track/7fRQxmZcNZEUZJx1dcxWBd) | [Luis Segura](https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp) | [Pena Por Tí](https://open.spotify.com/album/6u9Gf0TcIxJ4O6D7HzuXsl) | 2:58 |
 | 72 | [Solo Sin Ella](https://open.spotify.com/track/1SEUuVeY2PfXGmr2GKOYVH) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Para Toda La Vida](https://open.spotify.com/album/4LgZqa5JapYTlGjOv85FNa) | 5:13 |
 | 73 | [Con el Pecho y el Corazon](https://open.spotify.com/track/0TycDAQAhlrHloRKzaqQQD) | [Marino Perez](https://open.spotify.com/artist/4CUaw25QTAfWb6wA0yWPrN) | [12 Éxitos](https://open.spotify.com/album/6U9yfJLogNqXP2bce2IW2f) | 2:51 |
 | 74 | [Muchachita Loca](https://open.spotify.com/track/7fvktGeoeOLJH3IBG8Ewlg) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Bachata Con Sentimiento](https://open.spotify.com/album/0oqZ34A1hwi7DRdvckzBoY) | 4:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 99 | [Voy Pa 'lla](https://open.spotify.com/track/7ziYzhR5nL81mx1dEUmXEW) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [La Chupadera](https://open.spotify.com/album/3L8jghUhYnZX453oDWD0cW) | 3:41 |
 | 100 | [Si Tu Cariño No Esta](https://open.spotify.com/track/5xZPOd1s09Kr5VUXRwRKuI) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Corazón Bonito](https://open.spotify.com/album/6doczKOn9Ol9Yjum4U3kqK) | 4:12 |
 
-Snapshot ID: `MCxiMjRmZmRjM2FiODNiNzQxYWE4NmEyODIwNTQzNDA3MjViZDlmYmRj`
+Snapshot ID: `MCw4ODA3MjEwYTlhMWEzMGQzOTUwNDUyMWMzZmQ4ZjNhZjA0YzdjYzUx`

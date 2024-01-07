@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 104783,
+  "num_followers": 104907,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmViYmZiZmM4N2ZkNjkzOGQwNmVmNWQxMzU3YWJhM2EwZjBhODIx",
+  "snapshot_id": "MCwxMGE4YjQ0M2I0ZmZiOTE2OWNhMzViZTUyODQ4NjhiMThhNjQwZTQx",
   "tracks": [
     {
       "added_at": "2023-12-22 00:01:00",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Smooth Sensation",
+        "url": "https://open.spotify.com/album/12tng68mKohYzlVWT1QRna"
+      },
+      "artists": [
+        {
+          "name": "Ken Navarro",
+          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+        }
+      ],
+      "duration_ms": 276506,
+      "name": "Smooth Sensation",
+      "url": "https://open.spotify.com/track/1jKOG02lqHnwYXHpyLF3Nd"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Le Tour d'Amour",
         "url": "https://open.spotify.com/album/0bT3CNQPw1ZjiTbC4cWlo8"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 200640,
       "name": "Le Tour d'Amour",
       "url": "https://open.spotify.com/track/0tHzz8mldvPxA2lmw8dfnn"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Smooth Sensation",
-        "url": "https://open.spotify.com/album/12tng68mKohYzlVWT1QRna"
-      },
-      "artists": [
-        {
-          "name": "Ken Navarro",
-          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
-        }
-      ],
-      "duration_ms": 276506,
-      "name": "Smooth Sensation",
-      "url": "https://open.spotify.com/track/1jKOG02lqHnwYXHpyLF3Nd"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Pleasure Seeker",
-        "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
-      },
-      "artists": [
-        {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
-        }
-      ],
-      "duration_ms": 269893,
-      "name": "Pleasure Seeker",
-      "url": "https://open.spotify.com/track/5SvuXJKhqhw8jnQnqKegA5"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Day Into Night",
         "url": "https://open.spotify.com/album/2NKSBByE54uNLWgMosf0fB"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 238066,
       "name": "Greenstreet",
       "url": "https://open.spotify.com/track/7ChAL7efVJHKlm5Pl4oZqW"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Pleasure Seeker",
+        "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
+      },
+      "artists": [
+        {
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+        }
+      ],
+      "duration_ms": 269893,
+      "name": "Pleasure Seeker",
+      "url": "https://open.spotify.com/track/5SvuXJKhqhw8jnQnqKegA5"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "From The Heart",
-        "url": "https://open.spotify.com/album/4zruOfVUsfrvLZ9lkND7mW"
-      },
-      "artists": [
-        {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
-        }
-      ],
-      "duration_ms": 313066,
-      "name": "After Midnight",
-      "url": "https://open.spotify.com/track/3SLymEfGv5dc6gjCw3fMjL"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Lip Service",
         "url": "https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 275773,
       "name": "Lip Service",
       "url": "https://open.spotify.com/track/1zTSI03CU30W7w0b6Wxpx7"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "From The Heart",
+        "url": "https://open.spotify.com/album/4zruOfVUsfrvLZ9lkND7mW"
+      },
+      "artists": [
+        {
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+        }
+      ],
+      "duration_ms": 313066,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/3SLymEfGv5dc6gjCw3fMjL"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -347,6 +347,38 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 314312,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/0fOtanczwW8mMxg9tnIeDc"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Just Around The Corner",
+        "url": "https://open.spotify.com/album/5P3BwMI5e1pmoS5qLWPTe8"
+      },
+      "artists": [
+        {
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+        }
+      ],
+      "duration_ms": 254333,
+      "name": "Blue Water",
+      "url": "https://open.spotify.com/track/6QABTLX06XCH6aKBptDcf7"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
       },
@@ -379,38 +411,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Just Around The Corner",
-        "url": "https://open.spotify.com/album/5P3BwMI5e1pmoS5qLWPTe8"
-      },
-      "artists": [
-        {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
-        }
-      ],
-      "duration_ms": 254333,
-      "name": "Blue Water",
-      "url": "https://open.spotify.com/track/6QABTLX06XCH6aKBptDcf7"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 314312,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/0fOtanczwW8mMxg9tnIeDc"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Seduction",
         "url": "https://open.spotify.com/album/132qZxDylYwv3vvUA3AH7D"
       },
@@ -423,22 +423,6 @@
       "duration_ms": 238053,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/6gWHevH6rJOaLpRYIVQWll"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Love's Melody",
-        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
-      },
-      "artists": [
-        {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
-        }
-      ],
-      "duration_ms": 332293,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/4FfSbVMebj3ot6ZWheAsC2"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -475,6 +459,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Love's Melody",
+        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
+      },
+      "artists": [
+        {
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+        }
+      ],
+      "duration_ms": 332293,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/4FfSbVMebj3ot6ZWheAsC2"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Livin' Large",
         "url": "https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU"
       },
@@ -491,8 +491,8 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Najee's Theme",
-        "url": "https://open.spotify.com/album/2T1cuFZTdRwShl0ksdXT6a"
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/64WYFNY33qxTidADO4omGA"
       },
       "artists": [
         {
@@ -500,25 +500,9 @@
           "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
         }
       ],
-      "duration_ms": 284773,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/62wlS0ZgjMCdJrwz0rCfBF"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Stay Awhile",
-        "url": "https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn"
-      },
-      "artists": [
-        {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
-        }
-      ],
-      "duration_ms": 249133,
-      "name": "When I Think of You",
-      "url": "https://open.spotify.com/track/1l5lPGasBbuCpBH3l0qa1n"
+      "duration_ms": 304000,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/6wunt9r2WbTh0pacCFkSrK"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -535,6 +519,22 @@
       "duration_ms": 271800,
       "name": "Love's Serenade",
       "url": "https://open.spotify.com/track/0kuI1W0TxINXsHrrcHiMQS"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Stay Awhile",
+        "url": "https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn"
+      },
+      "artists": [
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "duration_ms": 249133,
+      "name": "When I Think of You",
+      "url": "https://open.spotify.com/track/1l5lPGasBbuCpBH3l0qa1n"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -619,26 +619,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Brazil Chill",
-        "url": "https://open.spotify.com/album/4T8thECArdoVMqYZpWxfHn"
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/253BTggCrxk5ULsiaYTZfF"
       },
       "artists": [
         {
-          "name": "Bob Baldwin",
-          "url": "https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP"
-        },
-        {
-          "name": "Dennis Johnson",
-          "url": "https://open.spotify.com/artist/4u2zMyt9wCVY1OipyXEB4y"
-        },
-        {
-          "name": "Armando Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/4TjS37y1cLMvQbEumiAZ7C"
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
         }
       ],
-      "duration_ms": 346266,
-      "name": "I Wanna Be Where You Are",
-      "url": "https://open.spotify.com/track/5vM8GpI04rVLp7m1gUHDRa"
+      "duration_ms": 238293,
+      "name": "Night Rider",
+      "url": "https://open.spotify.com/track/3mn4KmAcvj2mhpkO11EsGQ"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -659,8 +651,8 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Day By Day",
-        "url": "https://open.spotify.com/album/64WYFNY33qxTidADO4omGA"
+        "name": "Najee's Theme",
+        "url": "https://open.spotify.com/album/2T1cuFZTdRwShl0ksdXT6a"
       },
       "artists": [
         {
@@ -668,25 +660,33 @@
           "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
         }
       ],
-      "duration_ms": 304000,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/6wunt9r2WbTh0pacCFkSrK"
+      "duration_ms": 284773,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/62wlS0ZgjMCdJrwz0rCfBF"
     },
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Steppin' Out",
-        "url": "https://open.spotify.com/album/253BTggCrxk5ULsiaYTZfF"
+        "name": "Brazil Chill",
+        "url": "https://open.spotify.com/album/4T8thECArdoVMqYZpWxfHn"
       },
       "artists": [
         {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+          "name": "Bob Baldwin",
+          "url": "https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP"
+        },
+        {
+          "name": "Dennis Johnson",
+          "url": "https://open.spotify.com/artist/4u2zMyt9wCVY1OipyXEB4y"
+        },
+        {
+          "name": "Armando Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/4TjS37y1cLMvQbEumiAZ7C"
         }
       ],
-      "duration_ms": 238293,
-      "name": "Night Rider",
-      "url": "https://open.spotify.com/track/3mn4KmAcvj2mhpkO11EsGQ"
+      "duration_ms": 346266,
+      "name": "I Wanna Be Where You Are",
+      "url": "https://open.spotify.com/track/5vM8GpI04rVLp7m1gUHDRa"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Island Life",
+        "url": "https://open.spotify.com/album/1P3vDwvnFDlSJJrBwEI7qb"
+      },
+      "artists": [
+        {
+          "name": "Ken Navarro",
+          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+        }
+      ],
+      "duration_ms": 288666,
+      "name": "Island Life",
+      "url": "https://open.spotify.com/track/2nvhYu33Fyn0dxrHCoL8JI"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "In the Moment",
         "url": "https://open.spotify.com/album/1PA4zjWrIdycExmlDIxYHk"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 283866,
       "name": "Twice in a Lifetime",
       "url": "https://open.spotify.com/track/0DFNqX97HJYLNFtYRu2FpO"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Island Life",
-        "url": "https://open.spotify.com/album/1P3vDwvnFDlSJJrBwEI7qb"
-      },
-      "artists": [
-        {
-          "name": "Ken Navarro",
-          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
-        }
-      ],
-      "duration_ms": 288666,
-      "name": "Island Life",
-      "url": "https://open.spotify.com/track/2nvhYu33Fyn0dxrHCoL8JI"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Nice & Slow",
-        "url": "https://open.spotify.com/album/1ERiUM1WyCUWEu3gnEzKRM"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 288800,
-      "name": "Without Your Love",
-      "url": "https://open.spotify.com/track/0SZjsb1TGyEMOH3LfI5tAw"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Renaissance",
         "url": "https://open.spotify.com/album/1GJNf1s72ibGmeTC8TitLU"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 294733,
       "name": "Anything and Everything",
       "url": "https://open.spotify.com/track/67nk03tcRdD1QEt1nOp92g"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Nice & Slow",
+        "url": "https://open.spotify.com/album/1ERiUM1WyCUWEu3gnEzKRM"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 288800,
+      "name": "Without Your Love",
+      "url": "https://open.spotify.com/track/0SZjsb1TGyEMOH3LfI5tAw"
     },
     {
       "added_at": "2023-12-22 00:01:00",

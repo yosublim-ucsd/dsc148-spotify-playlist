@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 1049959,
+  "num_followers": 1050273,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjU3YTM2ZDQ2NTU5MTgwZTJjNjJmNzY0YzBiZGM4N2NhOTRhZTI4",
+  "snapshot_id": "MCxjYzIwNjUxOWVjOTEyNTZmNjgwZjdkMjFkZDA5NmI0NjA2MTY5OWIx",
   "tracks": [
     {
       "added_at": "2023-12-28 08:21:39",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-12-28 08:21:39",
       "album": {
-        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
-        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 186040,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/5hByDDVyr6pfRAutehCAYa"
-    },
-    {
-      "added_at": "2023-12-28 08:21:39",
-      "album": {
         "name": "The Complete Dinah Washington On Mercury Vol. 2 (1950-1952)",
         "url": "https://open.spotify.com/album/2ijZDafBX3xtZSGUkxccZ6"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 182573,
       "name": "Mad About The Boy",
       "url": "https://open.spotify.com/track/1c7ELD4W6VyoKTglc4zzUH"
+    },
+    {
+      "added_at": "2023-12-28 08:21:39",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 186040,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/5hByDDVyr6pfRAutehCAYa"
     },
     {
       "added_at": "2023-12-28 08:21:39",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-12-28 08:21:39",
       "album": {
+        "name": "Jump For Joy",
+        "url": "https://open.spotify.com/album/1FfJGpYVPvVx0OEPbMkVqz"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 133813,
+      "name": "Ain't We Got Fun",
+      "url": "https://open.spotify.com/track/1hqrv4RHtqRres6Szcibvv"
+    },
+    {
+      "added_at": "2023-12-28 08:21:39",
+      "album": {
         "name": "Johnny's Greatest Hits",
         "url": "https://open.spotify.com/album/5yIWAY0IA6ZTEGL3R6tPH1"
       },
@@ -707,6 +723,22 @@
     {
       "added_at": "2023-12-28 08:21:39",
       "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 194040,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW"
+    },
+    {
+      "added_at": "2023-12-28 08:21:39",
+      "album": {
         "name": "Someone To Watch Over Me",
         "url": "https://open.spotify.com/album/5UIPf7Q2gj2upbasQQaI5r"
       },
@@ -723,38 +755,6 @@
       "duration_ms": 215520,
       "name": "Let's Do It (Let's Fall In Love)",
       "url": "https://open.spotify.com/track/0YUsHYHiwi6drC1ATz47hm"
-    },
-    {
-      "added_at": "2023-12-28 08:21:39",
-      "album": {
-        "name": "Jump For Joy",
-        "url": "https://open.spotify.com/album/1FfJGpYVPvVx0OEPbMkVqz"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 133813,
-      "name": "Ain't We Got Fun",
-      "url": "https://open.spotify.com/track/1hqrv4RHtqRres6Szcibvv"
-    },
-    {
-      "added_at": "2023-12-28 08:21:39",
-      "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 194040,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW"
     },
     {
       "added_at": "2023-12-28 08:21:39",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-12-28 08:21:39",
       "album": {
-        "name": "This Guy's In Love",
-        "url": "https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy"
-      },
-      "artists": [
-        {
-          "name": "Steve Tyrell",
-          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
-        }
-      ],
-      "duration_ms": 223066,
-      "name": "This Guy's In Love With You",
-      "url": "https://open.spotify.com/track/3l91QxfQ9vyxq5AJU4D1FC"
-    },
-    {
-      "added_at": "2023-12-28 08:21:39",
-      "album": {
         "name": "Unforgettable: With Love",
         "url": "https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 181093,
       "name": "Route 66",
       "url": "https://open.spotify.com/track/6vn1eEGBbV1V4g2KKokQYW"
+    },
+    {
+      "added_at": "2023-12-28 08:21:39",
+      "album": {
+        "name": "This Guy's In Love",
+        "url": "https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy"
+      },
+      "artists": [
+        {
+          "name": "Steve Tyrell",
+          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
+        }
+      ],
+      "duration_ms": 223066,
+      "name": "This Guy's In Love With You",
+      "url": "https://open.spotify.com/track/3l91QxfQ9vyxq5AJU4D1FC"
     },
     {
       "added_at": "2023-12-28 08:21:39",
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-12-28 08:21:39",
       "album": {
-        "name": "Unforgettable: With Love",
-        "url": "https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0"
+        "name": "Something Cool (1955 Version)",
+        "url": "https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA"
       },
       "artists": [
         {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+          "name": "June Christy",
+          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
         }
       ],
-      "duration_ms": 256959,
-      "name": "The Very Thought Of You",
-      "url": "https://open.spotify.com/track/0yw2d5ySGl52fz5qm9IZD3"
+      "duration_ms": 258893,
+      "name": "Something Cool - Mono",
+      "url": "https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD"
     },
     {
       "added_at": "2023-12-28 08:21:39",
@@ -951,34 +951,18 @@
     {
       "added_at": "2023-12-28 08:21:39",
       "album": {
-        "name": "Something Cool (1955 Version)",
-        "url": "https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA"
+        "name": "Unforgettable: With Love",
+        "url": "https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0"
       },
       "artists": [
         {
-          "name": "June Christy",
-          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
         }
       ],
-      "duration_ms": 258893,
-      "name": "Something Cool - Mono",
-      "url": "https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD"
-    },
-    {
-      "added_at": "2023-12-28 08:21:39",
-      "album": {
-        "name": "The Reprise Years",
-        "url": "https://open.spotify.com/album/6anBFHbt3PaNwDKWbsVkzG"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 185186,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/3Pi8eMeDLEUMH729CyQMP9"
+      "duration_ms": 256959,
+      "name": "The Very Thought Of You",
+      "url": "https://open.spotify.com/track/0yw2d5ySGl52fz5qm9IZD3"
     },
     {
       "added_at": "2023-12-28 08:21:39",
@@ -999,18 +983,18 @@
     {
       "added_at": "2023-12-28 08:21:39",
       "album": {
-        "name": "Comin' Home Baby",
-        "url": "https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22"
+        "name": "The Reprise Years",
+        "url": "https://open.spotify.com/album/6anBFHbt3PaNwDKWbsVkzG"
       },
       "artists": [
         {
-          "name": "Mel Torm\u00e9",
-          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 144266,
-      "name": "Putting on the Ritz",
-      "url": "https://open.spotify.com/track/3XeLKdhrqMhozx8EDmyA0Y"
+      "duration_ms": 185186,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/3Pi8eMeDLEUMH729CyQMP9"
     },
     {
       "added_at": "2023-12-28 08:21:39",
@@ -1027,6 +1011,22 @@
       "duration_ms": 193386,
       "name": "Can't Take My Eyes Off You",
       "url": "https://open.spotify.com/track/1lLRi0LvCwKaKONxzoeJfj"
+    },
+    {
+      "added_at": "2023-12-28 08:21:39",
+      "album": {
+        "name": "Comin' Home Baby",
+        "url": "https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22"
+      },
+      "artists": [
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        }
+      ],
+      "duration_ms": 144266,
+      "name": "Putting on the Ritz",
+      "url": "https://open.spotify.com/track/3XeLKdhrqMhozx8EDmyA0Y"
     },
     {
       "added_at": "2023-12-28 08:21:39",

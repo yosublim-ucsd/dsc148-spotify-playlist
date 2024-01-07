@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 
 > The softer side of dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,734 likes - 119 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,995 likes - 119 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 42 | [The Best Part](https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV), [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A) | [The Best Part](https://open.spotify.com/album/71f51ihuW0oVdl2s4yFzSU) | 4:10 |
 | 43 | [Food for the Soul](https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC) | [Food for the Soul](https://open.spotify.com/album/3U20hCbqPM745vgo0PVcmw) | 3:30 |
 | 44 | [Wicked Games \(feat\. Anna Naklab\) \- Radio Edit](https://open.spotify.com/track/6JrAEmBFd61eYIGVOSPnT4) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Anna Naklab](https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA) | [Wicked Games \(feat\. Anna Naklab\) \[Radio Edit\]](https://open.spotify.com/album/5pqiHmyrsBIRTLUoIhT8oz) | 3:15 |
-| 45 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 |
+| 45 | [Magnets](https://open.spotify.com/track/7nRmfGNhHKEEu5o8yFXLXt) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Caracal \(Deluxe\)](https://open.spotify.com/album/08ipn1MH7xqgoqhUbtvCTy) | 3:19 |
 | 46 | [Stargazing](https://open.spotify.com/track/0Zbbxnx4SGGHoIow4PpISP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Stargazing \- EP](https://open.spotify.com/album/2sPYPyDFwgi1jrRTGhoxq2) | 3:56 |
-| 47 | [Magnets](https://open.spotify.com/track/7nRmfGNhHKEEu5o8yFXLXt) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Caracal \(Deluxe\)](https://open.spotify.com/album/08ipn1MH7xqgoqhUbtvCTy) | 3:19 |
+| 47 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 |
 | 48 | [Strongest \(Alan Walker Remix\)](https://open.spotify.com/track/2r9hCNjupNy2C2g3r6SNz6) | [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Strongest \(Alan Walker Remix\)](https://open.spotify.com/album/3d1YhgZvB8NLZLakA5l4rk) | 3:30 |
 | 49 | [Hope](https://open.spotify.com/track/4BiiOzZCrXEzHRLYcYFiD5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Sick Boy](https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG) | 3:00 |
 | 50 | [No Eyes \- Radio Edit](https://open.spotify.com/track/55bfXeq8wXtyKQtSZB3KYF) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [JAW](https://open.spotify.com/artist/05BpORreAobgNUA5feAsui) | [No Eyes](https://open.spotify.com/album/74FvKkpoMSA8IXT1AW70ZS) | 3:24 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 118 | [Here for You \(feat\. Ella Henderson\)](https://open.spotify.com/track/7vqUr6K2Js9Paq4kdNSOm6) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Here for You \(feat\. Ella Henderson\)](https://open.spotify.com/album/6HnspnDTGO0iGliX6OuCTd) | 4:04 |
 | 119 | [ID \- Ultra Music Festival Anthem](https://open.spotify.com/track/4SBqydJCEhcroni09XgT2c) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [ID \(Ultra Music Festival Anthem\)](https://open.spotify.com/album/08lvNATRudyG5K7eEjWk1t) | 4:49 |
 
-Snapshot ID: `MCwxNTY0Y2NkNWM3NzVjYjNjNTE3NWEzMjVhYjZhMWJmZTczZTIyNTYx`
+Snapshot ID: `MCwyMzJlOWUwN2UwY2E3NWFmYjVkOGYwMDhkNGM3ZmY1OWNlNTk4OTll`

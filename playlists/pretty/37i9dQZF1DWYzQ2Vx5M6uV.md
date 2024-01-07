@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Rawayana, Mr Eazi & Micro TDH
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,372 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,385 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 54 | [Like A Queen \- 2023 Remasterizado](https://open.spotify.com/track/7LqBm569RxBvwKwSsyc84u) | [SAID](https://open.spotify.com/artist/23L97OPEAL99fR1xI70qVf), [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Waremu](https://open.spotify.com/album/7axGk6fGopyn8YlvKFGVKm) | 2:39 |
 | 55 | [Dumebi \- Becky G Remix](https://open.spotify.com/track/6z2kfyTUOkZhxEj1cG5jps) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Dumebi \(Becky G Remix\)](https://open.spotify.com/album/6kSKLZKTG9l9oWJSqAWsEC) | 3:07 |
 | 56 | [Boom Bam \(with Afro B & Mariah Angeliq](https://open.spotify.com/track/3VmnJVSkgLIZujxut5yf73) | [Team Salut](https://open.spotify.com/artist/2QoOImOYDWU4i2DyQoLVAH), [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Boom Bam \(with Afro B & Mariah Angeliq](https://open.spotify.com/album/3SgiVymzgM0tF6U0Uua8hH) | 2:57 |
-| 57 | [Estrella](https://open.spotify.com/track/5sU7NsHPwHF991Gir4ovn5) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Ayo Jay](https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY) | [Estrella](https://open.spotify.com/album/2J0nrljwYK59zr9Fl3cRwb) | 3:25 |
-| 58 | [Parcerita](https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK) | [Dahili](https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE) | [Parcerita](https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9) | 2:46 |
+| 57 | [Parcerita](https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK) | [Dahili](https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE) | [Parcerita](https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9) | 2:46 |
+| 58 | [Estrella](https://open.spotify.com/track/5sU7NsHPwHF991Gir4ovn5) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Ayo Jay](https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY) | [Estrella](https://open.spotify.com/album/2J0nrljwYK59zr9Fl3cRwb) | 3:25 |
 | 59 | [Claramente](https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Claramente](https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH) | 3:02 |
 | 60 | [Yoyo](https://open.spotify.com/track/6a9e8biVcbRP8dcaolJQbQ) | [El Gerard](https://open.spotify.com/artist/6xGOuZE1ShpnIkO2JwHK0P) | [Yoyo](https://open.spotify.com/album/6kclTdKcY1qZxG0MiXEyZR) | 2:36 |
 | 61 | [Sabi na Sabura](https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sabi na Sabura](https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7) | 3:06 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 69 | [Cheza Kama Wewe](https://open.spotify.com/track/4NAhcKp6YtMDRAMH4UeUE5) | [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Exray](https://open.spotify.com/artist/0jEAvweUh4N7mXYMDkRTQo), [Nellythegoon](https://open.spotify.com/artist/33ypECIxCzdSYfzysHmrH7) | [Son of the City](https://open.spotify.com/album/7sQ6TFEEb8N88lvV6NE8OS) | 5:34 |
 | 70 | [MAMACITA](https://open.spotify.com/track/7oTYzZLBjl9krOfHNNrV7n) | [Natalia Paris](https://open.spotify.com/artist/2XRXFHC8h6orLpqNySkeo0), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [MAMACITA](https://open.spotify.com/album/79T2dvhr64LX3IQM29QQyP) | 4:17 |
 
-Snapshot ID: `MCxhNzhkYzhiNWMwYjdiZDlkNGJkOGFkZjQ0ZDNjZTc2ZGFkMWIyMWIw`
+Snapshot ID: `MCw2NGQ3ZWU3M2IwZWYyNjE0MmMxN2MwMGJjYjViYWU5MmZlZGI1NDI3`

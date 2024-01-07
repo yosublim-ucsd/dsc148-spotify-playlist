@@ -1,12 +1,12 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Fatima Campo en portada. ",
-  "num_followers": 132048,
+  "num_followers": 132068,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTY5ZTAzYzkzYjBlYjI4NWZjOGQ3MDQ3YTU4M2NkOTRlMzFhOWFi",
+  "snapshot_id": "MCw2ZWQwZjhhZDgyMjYwMTkyNjYxYTI3NzdhZjNiZWZlYmFjN2YwMDcw",
   "tracks": [
     {
       "added_at": "2023-12-08 07:58:31",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-12-08 07:58:31",
       "album": {
+        "name": "Y Lo Volv\u00ed a Hacer",
+        "url": "https://open.spotify.com/album/1mTNZKeVd4sbVAh6VhV2YB"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 165290,
+      "name": "Como Si No Se Hubiera Ido",
+      "url": "https://open.spotify.com/track/70PSXz2LwViugV9ZPBlZlZ"
+    },
+    {
+      "added_at": "2023-12-08 07:58:31",
+      "album": {
         "name": "Desarmada - Spotify Singles",
         "url": "https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 227605,
       "name": "Este Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2J1DaejaydbQARqL1sj3sr"
-    },
-    {
-      "added_at": "2023-12-08 07:58:31",
-      "album": {
-        "name": "Y Lo Volv\u00ed a Hacer",
-        "url": "https://open.spotify.com/album/1mTNZKeVd4sbVAh6VhV2YB"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 165290,
-      "name": "Como Si No Se Hubiera Ido",
-      "url": "https://open.spotify.com/track/70PSXz2LwViugV9ZPBlZlZ"
     },
     {
       "added_at": "2023-12-08 07:58:31",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-12-08 07:58:31",
       "album": {
-        "name": "Qu\u00edtame ese Hombre",
-        "url": "https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 196874,
-      "name": "Qu\u00edtame Ese Hombre",
-      "url": "https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM"
-    },
-    {
-      "added_at": "2023-12-08 07:58:31",
-      "album": {
         "name": "Amigos",
         "url": "https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 168866,
       "name": "Amigos",
       "url": "https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ"
+    },
+    {
+      "added_at": "2023-12-08 07:58:31",
+      "album": {
+        "name": "Uno De Cuarenta",
+        "url": "https://open.spotify.com/album/3RTG2z5r6pgDpkwFgTiUgu"
+      },
+      "artists": [
+        {
+          "name": "Pablo Montero",
+          "url": "https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3"
+        }
+      ],
+      "duration_ms": 157579,
+      "name": "Uno De Cuarenta",
+      "url": "https://open.spotify.com/track/0N0aOurZf0G4hTndgQ9E5Z"
     },
     {
       "added_at": "2023-12-08 07:58:31",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-12-08 07:58:31",
       "album": {
-        "name": "Uno De Cuarenta",
-        "url": "https://open.spotify.com/album/3RTG2z5r6pgDpkwFgTiUgu"
+        "name": "Qu\u00edtame ese Hombre",
+        "url": "https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg"
       },
       "artists": [
         {
-          "name": "Pablo Montero",
-          "url": "https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3"
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 157579,
-      "name": "Uno De Cuarenta",
-      "url": "https://open.spotify.com/track/0N0aOurZf0G4hTndgQ9E5Z"
+      "duration_ms": 196874,
+      "name": "Qu\u00edtame Ese Hombre",
+      "url": "https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM"
     },
     {
       "added_at": "2023-12-08 07:58:31",
@@ -1311,22 +1311,6 @@
       "duration_ms": 193826,
       "name": "\u00c9chame A M\u00ed La Culpa",
       "url": "https://open.spotify.com/track/4aWbiCasnpmIRn4LsQVKSD"
-    },
-    {
-      "added_at": "2023-12-08 07:58:31",
-      "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 186628,
-      "name": "La Loter\u00eda",
-      "url": "https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs"
     },
     {
       "added_at": "2023-12-08 07:58:31",
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2023-12-08 07:58:31",
       "album": {
-        "name": "Prohibido Llorar",
-        "url": "https://open.spotify.com/album/1ur46naiDRp05KohaDhfP1"
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
       },
       "artists": [
         {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 253733,
-      "name": "Prohibido Llorar",
-      "url": "https://open.spotify.com/track/2xLIsU38CfXVqtTSZHaTYY"
+      "duration_ms": 186628,
+      "name": "La Loter\u00eda",
+      "url": "https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs"
     },
     {
       "added_at": "2023-12-08 07:58:31",
@@ -1411,6 +1395,22 @@
       "duration_ms": 225133,
       "name": "Navajas En El Viento",
       "url": "https://open.spotify.com/track/70Hvhlm3IleKpNZyA6PdXx"
+    },
+    {
+      "added_at": "2023-12-08 07:58:31",
+      "album": {
+        "name": "Prohibido Llorar",
+        "url": "https://open.spotify.com/album/1ur46naiDRp05KohaDhfP1"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Prohibido Llorar",
+      "url": "https://open.spotify.com/track/2xLIsU38CfXVqtTSZHaTYY"
     },
     {
       "added_at": "2023-12-08 07:58:31",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2023-12-08 07:58:31",
       "album": {
+        "name": "Ya Lleg\u00f3 la Echeverr\u00eda...",
+        "url": "https://open.spotify.com/album/6ZNXIAbNoxtVkMuHUbXrfJ"
+      },
+      "artists": [
+        {
+          "name": "Sandra Echeverria",
+          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "Cosi\u00e9ndome el Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2QInqAwobGfKsrKbJnVf1y"
+    },
+    {
+      "added_at": "2023-12-08 07:58:31",
+      "album": {
         "name": "Por Ti Me Abrazar\u00e9",
         "url": "https://open.spotify.com/album/5qndP6JceszrhYHRcXwVBp"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 194604,
       "name": "Por Ti Me Abrazar\u00e9",
       "url": "https://open.spotify.com/track/6bvHqGVqf320Sn3bkQcOyp"
-    },
-    {
-      "added_at": "2023-12-08 07:58:31",
-      "album": {
-        "name": "Ya Lleg\u00f3 la Echeverr\u00eda...",
-        "url": "https://open.spotify.com/album/6ZNXIAbNoxtVkMuHUbXrfJ"
-      },
-      "artists": [
-        {
-          "name": "Sandra Echeverria",
-          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
-        }
-      ],
-      "duration_ms": 206666,
-      "name": "Cosi\u00e9ndome el Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2QInqAwobGfKsrKbJnVf1y"
     },
     {
       "added_at": "2023-12-08 07:58:31",

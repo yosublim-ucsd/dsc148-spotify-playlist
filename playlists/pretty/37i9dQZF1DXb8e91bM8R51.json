@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 49488,
+  "num_followers": 49510,
   "original_name": "No corre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmVjZDFjYWJkMDU3MGI3MDM4YmQ1NmY5MzQ5OGMzZDJmNDk1NTMx",
+  "snapshot_id": "MCxlODNhMzJiZDdhNzkyMzE0YTMyN2Q4NjRlNTFmNDg3ZTRiYzFkN2Y1",
   "tracks": [
     {
       "added_at": "2023-11-24 17:03:40",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2023-11-24 17:03:40",
       "album": {
-        "name": "Crypto (feat. Rich The Kid)",
-        "url": "https://open.spotify.com/album/5UKyIgRyqHXI08xf1HrQ7O"
-      },
-      "artists": [
-        {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
-        },
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        }
-      ],
-      "duration_ms": 160948,
-      "name": "Crypto (feat. Rich The Kid)",
-      "url": "https://open.spotify.com/track/6psP05MMEYxyJ54qdGEnOU"
-    },
-    {
-      "added_at": "2023-11-24 17:03:40",
-      "album": {
         "name": "The House Is Burning [homies begged]",
         "url": "https://open.spotify.com/album/33ichA2TzIOdW248hRlqpH"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 180000,
       "name": "RIP Young (feat. Project Pat & Juicy J) - Remix",
       "url": "https://open.spotify.com/track/6GUiCjtZGTvgUKKm1w9mwG"
+    },
+    {
+      "added_at": "2023-11-24 17:03:40",
+      "album": {
+        "name": "Crypto (feat. Rich The Kid)",
+        "url": "https://open.spotify.com/album/5UKyIgRyqHXI08xf1HrQ7O"
+      },
+      "artists": [
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "duration_ms": 160948,
+      "name": "Crypto (feat. Rich The Kid)",
+      "url": "https://open.spotify.com/track/6psP05MMEYxyJ54qdGEnOU"
     },
     {
       "added_at": "2023-11-24 17:03:40",
@@ -2027,26 +2027,22 @@
     {
       "added_at": "2023-11-24 17:03:40",
       "album": {
-        "name": "SOUTHEND LEGEND",
-        "url": "https://open.spotify.com/album/6Vgj49lQTXVfMCLaRiew7A"
+        "name": "Therapy pt. 2 [Feat. Mac Miller]",
+        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
       },
       "artists": [
         {
-          "name": "KingTrey",
-          "url": "https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv"
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
         },
         {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "femdot.",
-          "url": "https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS"
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 241582,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/5KSffXZ5exiUZabwpXwrj7"
+      "duration_ms": 202225,
+      "name": "Therapy pt. 2 [Feat. Mac Miller]",
+      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
     },
     {
       "added_at": "2023-11-24 17:03:40",
@@ -2067,22 +2063,26 @@
     {
       "added_at": "2023-11-24 17:03:40",
       "album": {
-        "name": "Therapy pt. 2 [Feat. Mac Miller]",
-        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
+        "name": "SOUTHEND LEGEND",
+        "url": "https://open.spotify.com/album/6Vgj49lQTXVfMCLaRiew7A"
       },
       "artists": [
         {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+          "name": "KingTrey",
+          "url": "https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv"
         },
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "femdot.",
+          "url": "https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS"
         }
       ],
-      "duration_ms": 202225,
-      "name": "Therapy pt. 2 [Feat. Mac Miller]",
-      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
+      "duration_ms": 241582,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/5KSffXZ5exiUZabwpXwrj7"
     },
     {
       "added_at": "2023-11-24 17:03:40",
@@ -2159,26 +2159,6 @@
     {
       "added_at": "2023-11-24 17:03:40",
       "album": {
-        "name": "No Distractions",
-        "url": "https://open.spotify.com/album/3axNoaSEpTM4Wr4TQt7Ut6"
-      },
-      "artists": [
-        {
-          "name": "Loui",
-          "url": "https://open.spotify.com/artist/053fl1QPQFGqSPPxSPcacT"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 179377,
-      "name": "No Distractions",
-      "url": "https://open.spotify.com/track/7tmlt7mrxRcss23czKZTMF"
-    },
-    {
-      "added_at": "2023-11-24 17:03:40",
-      "album": {
         "name": "Neck & Wrist",
         "url": "https://open.spotify.com/album/0MomByEXmXNIZEuN2cJkw3"
       },
@@ -2219,6 +2199,26 @@
       "duration_ms": 157777,
       "name": "[Admire Her] (with Gunna)",
       "url": "https://open.spotify.com/track/4wJKTG3bAleqUXmylh83Id"
+    },
+    {
+      "added_at": "2023-11-24 17:03:40",
+      "album": {
+        "name": "No Distractions",
+        "url": "https://open.spotify.com/album/3axNoaSEpTM4Wr4TQt7Ut6"
+      },
+      "artists": [
+        {
+          "name": "Loui",
+          "url": "https://open.spotify.com/artist/053fl1QPQFGqSPPxSPcacT"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 179377,
+      "name": "No Distractions",
+      "url": "https://open.spotify.com/track/7tmlt7mrxRcss23czKZTMF"
     },
     {
       "added_at": "2023-11-24 17:03:40",
@@ -2327,26 +2327,6 @@
     {
       "added_at": "2023-11-24 17:03:40",
       "album": {
-        "name": "Flowers (feat. MAVI)",
-        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        },
-        {
-          "name": "MAVI",
-          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
-        }
-      ],
-      "duration_ms": 182201,
-      "name": "Flowers (feat. MAVI)",
-      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
-    },
-    {
-      "added_at": "2023-11-24 17:03:40",
-      "album": {
         "name": "De La Soul is Dead",
         "url": "https://open.spotify.com/album/5F3GEttPPR58Gg15BKUsTd"
       },
@@ -2367,6 +2347,26 @@
       "duration_ms": 242006,
       "name": "A Roller Skating Jam Named \"Saturdays\"",
       "url": "https://open.spotify.com/track/1ihXWWbKNIrb7S7ERA6Qcb"
+    },
+    {
+      "added_at": "2023-11-24 17:03:40",
+      "album": {
+        "name": "Flowers (feat. MAVI)",
+        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        }
+      ],
+      "duration_ms": 182201,
+      "name": "Flowers (feat. MAVI)",
+      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
     }
   ],
   "unique_name": "No corre",

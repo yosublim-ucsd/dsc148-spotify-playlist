@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Puro perreo intenso en la comodidad de tu habitaci\u00f3n!",
-  "num_followers": 221093,
+  "num_followers": 221150,
   "original_name": "Perrea en tu Cuarto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDViNzBmYzg3M2FjNjdmNGEwZGY2ODJmZGU0OWEyNzRjNzVkYzYz",
+  "snapshot_id": "MCwwMWI4NTE2NWIyYmNjY2JiZTVlN2Y3YzgyMmVhODQwODVlYzI5ZWRj",
   "tracks": [
     {
       "added_at": "2023-12-22 06:00:00",
@@ -403,26 +403,6 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "Mami Chula",
-        "url": "https://open.spotify.com/album/7weNe4OIBROOCcMEOMeNlS"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 220600,
-      "name": "Mami Chula",
-      "url": "https://open.spotify.com/track/4aJzxp3gimtAdgJn3DL776"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
         "name": "Hecho En Medell\u00edn",
         "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 233453,
       "name": "Medallo",
       "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
+        "name": "Mami Chula",
+        "url": "https://open.spotify.com/album/7weNe4OIBROOCcMEOMeNlS"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 220600,
+      "name": "Mami Chula",
+      "url": "https://open.spotify.com/track/4aJzxp3gimtAdgJn3DL776"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -839,42 +839,6 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "Portales",
-        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Traductor",
-      "url": "https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
-        "name": "Gatita",
-        "url": "https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        }
-      ],
-      "duration_ms": 153062,
-      "name": "Gatita",
-      "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
         "name": "Lean",
         "url": "https://open.spotify.com/album/08MtJrm31CA8dV2txpLMXE"
       },
@@ -911,6 +875,42 @@
       "duration_ms": 260545,
       "name": "Lean",
       "url": "https://open.spotify.com/track/44BZWegR2TBYtgZdAHwaGH"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
+        "name": "Portales",
+        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Traductor",
+      "url": "https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
+        "name": "Gatita",
+        "url": "https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "duration_ms": 153062,
+      "name": "Gatita",
+      "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
+        "name": "La T\u00f3xica",
+        "url": "https://open.spotify.com/album/1R0ocprmeDu8ZkZn29xYFx"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 180520,
+      "name": "La T\u00f3xica",
+      "url": "https://open.spotify.com/track/15OjBeqNX3bShsGYQbteRv"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
         "name": "Tra Tra Tra Remix",
         "url": "https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 171000,
       "name": "Tra Tra Tra Remix - Remix",
       "url": "https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
-        "name": "La T\u00f3xica",
-        "url": "https://open.spotify.com/album/1R0ocprmeDu8ZkZn29xYFx"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 180520,
-      "name": "La T\u00f3xica",
-      "url": "https://open.spotify.com/track/15OjBeqNX3bShsGYQbteRv"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1487,22 +1487,22 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "Fan de Tus Fotos",
-        "url": "https://open.spotify.com/album/2AWg2kHOfuRPjJKYyttF9T"
+        "name": "1000CANCIONES",
+        "url": "https://open.spotify.com/album/5cPuXlesp3D0mV5SOKGkjl"
       },
       "artists": [
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
         },
         {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
         }
       ],
-      "duration_ms": 197647,
-      "name": "Fan de Tus Fotos",
-      "url": "https://open.spotify.com/track/1mauYRwbpoGQX6itP2FAJC"
+      "duration_ms": 246600,
+      "name": "1000CANCIONES",
+      "url": "https://open.spotify.com/track/2i1lLSfz4rmQiYyDBvOWkW"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1547,22 +1547,22 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "1000CANCIONES",
-        "url": "https://open.spotify.com/album/5cPuXlesp3D0mV5SOKGkjl"
+        "name": "Fan de Tus Fotos",
+        "url": "https://open.spotify.com/album/2AWg2kHOfuRPjJKYyttF9T"
       },
       "artists": [
         {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         },
         {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         }
       ],
-      "duration_ms": 246600,
-      "name": "1000CANCIONES",
-      "url": "https://open.spotify.com/track/2i1lLSfz4rmQiYyDBvOWkW"
+      "duration_ms": 197647,
+      "name": "Fan de Tus Fotos",
+      "url": "https://open.spotify.com/track/1mauYRwbpoGQX6itP2FAJC"
     },
     {
       "added_at": "2023-12-22 06:00:00",

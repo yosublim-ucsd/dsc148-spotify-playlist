@@ -4,7 +4,7 @@
 
 > Melodik Türkçe şarkılarla yaz boyu sahildesin 🏖️
 
-56 songs - 3 hr 23 min
+57 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,12 +25,13 @@
 | [Divane](https://open.spotify.com/track/3V9Cf4pENsRh02WTMJ726n) | [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Divane](https://open.spotify.com/album/07yiI9ScrZV7DXiObRz6Sp) | 3:52 | 2023-08-31 |  |
 | [Dün](https://open.spotify.com/track/4Cdv5EjQOoWFCEEfTvLexr) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd) | [POPSTAR](https://open.spotify.com/album/7sguONUlqWlrsWxRffF4K1) | 3:35 | 2023-08-31 |  |
 | [Düşler Sokağı](https://open.spotify.com/track/3CmtGSvMqCU0Phn6sEmclB) | [Ezginin Günlügü](https://open.spotify.com/artist/6WDnC2nx6hEPdtcU2LLGtE) | [Oyun](https://open.spotify.com/album/4w2leeeUh83bqtwhzrEMHk) | 4:37 | 2023-08-31 |  |
+| [Düşünme Hiç](https://open.spotify.com/track/6NBQtJawIW0RgszCkIqSr2) | [Ajda Pekkan](https://open.spotify.com/artist/27XMnTLvCO7t3qGlQyTMkF) | [Seksenlerin En Güzel 4 Albümü](https://open.spotify.com/album/1yJ3YjdPpY59Cm4kQbVMeC) | 4:09 | 2023-11-16 |  |
 | [Galiba Sevmiyorlar](https://open.spotify.com/track/3AtWz3xBxCLeJlt7CXuHEB) | [Son Feci Bisiklet](https://open.spotify.com/artist/4q2SZIdLq6YTc9cZLCclWc) | [Kötü Şeyler](https://open.spotify.com/album/6t2h7vZo0l0afyMHSALUR5) | 2:59 | 2023-08-31 |  |
 | [Gel Benimle](https://open.spotify.com/track/3uIIQaHIV0cOOmBtitN0BX) | [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Divane](https://open.spotify.com/album/07yiI9ScrZV7DXiObRz6Sp) | 4:23 | 2023-08-31 |  |
 | [Gidenlerden](https://open.spotify.com/track/55LECrJg4tLjhjSr6XDMg6) | [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [Gölgede Aynı](https://open.spotify.com/album/1S2WHpdUaRUbQmD8GVxcbT) | 3:56 | 2023-08-31 |  |
 | [Gül Döktüm Yollarına](https://open.spotify.com/track/2v57dbjigdKRh7MY6ME3WB) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Aacayipsin](https://open.spotify.com/album/06EBiLh3V0q2dOUdXnic7e) | 4:09 | 2023-08-31 |  |
 | [Güneşe Dokundum](https://open.spotify.com/track/1XSHAC96a1iNeOsq4bqe4o) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd) | [Tepeler](https://open.spotify.com/album/1uieUXynGKSwtAR2mBZX6Z) | 2:53 | 2023-08-31 |  |
-| [Güneşe Dokundum \- Deep Mix](https://open.spotify.com/track/72AXtr3qhn2LKrNURTzdAQ) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd), [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe) | [Güneşe Dokundum \(Deep Mix\)](https://open.spotify.com/album/7LMXsVF5q3oBE7Pw2uBk1o) | 2:30 | 2023-08-31 |  |
+| [Güneşe Dokundum \- Deep Mix](https://open.spotify.com/track/72AXtr3qhn2LKrNURTzdAQ) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd), [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe) | [Güneşe Dokundum \(Deep Mix\)](https://open.spotify.com/album/7LMXsVF5q3oBE7Pw2uBk1o) | 2:30 | 2023-08-31 | 2024-01-07 |
 | [Her Mevsim Yazım](https://open.spotify.com/track/4Jcw0xI8l65q0zegLKoSji) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Her Mevsim Yazım](https://open.spotify.com/album/1wG1N41gJDJ8wWVoQIBaxC) | 3:13 | 2023-08-31 |  |
 | [Her Yerde Sen](https://open.spotify.com/track/1L8breHwaAapLwp7tcIPF9) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Her Yerde Sen](https://open.spotify.com/album/2Ml6sEJFjQybCQ8Y4c3Gq0) | 3:39 | 2023-08-31 | 2024-01-04 |
 | [Hissettin mi](https://open.spotify.com/track/0L4002pXxWRyo6ir6GFxyR) | [Sufle](https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P) | [Hissettin mi](https://open.spotify.com/album/5P6RjBkDAW3VHh8tRi6Xe6) | 3:32 | 2023-08-31 |  |

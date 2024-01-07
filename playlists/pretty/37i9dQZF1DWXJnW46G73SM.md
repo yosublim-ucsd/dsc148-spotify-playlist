@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo?si=\_7dt1SNIR5WmWQxNj\-173w"> نوال </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,100 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,236 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [لسه شوفتوا حاجه](https://open.spotify.com/track/0V6UZDdkqatuBp96nyyUew) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [لسه شوفتوا حاجه](https://open.spotify.com/album/03XpqW1KW0zGsVovuosHNk) | 3:35 |
-| 2 | [مرجعليش](https://open.spotify.com/track/7JTf7bVijxgDdkmozrswvE) | [farid](https://open.spotify.com/artist/1gSaqK4ZkM1P44SeOi3ay9), [مسلم](https://open.spotify.com/artist/3T3MXGyT0JUhh8QiW7X2Ha) | [مرجعليش](https://open.spotify.com/album/7aKK7jGo8ONkv0HX0vrisi) | 5:04 |
+| 2 | [مرجعليش](https://open.spotify.com/track/7JTf7bVijxgDdkmozrswvE) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672), [مسلم](https://open.spotify.com/artist/3T3MXGyT0JUhh8QiW7X2Ha) | [مرجعليش](https://open.spotify.com/album/7aKK7jGo8ONkv0HX0vrisi) | 5:04 |
 | 3 | [النهايات اخلاق](https://open.spotify.com/track/1N7883qNidzmI1SVmdzfAE) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [النهايات اخلاق](https://open.spotify.com/album/2gCCgjKpxvkdWaXiDh9Kk7) | 4:08 |
 | 4 | [Kolo Falso](https://open.spotify.com/track/1il1wNIj3ful9IlWgxLRmX) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7), [Esaad Younis](https://open.spotify.com/artist/2VtjN9mCdwy6DBkms1ujiQ) | [Kolo Falso](https://open.spotify.com/album/7mbfcm8CXhfUEJVf2ioUwF) | 2:58 |
 | 5 | [Akhuya \- اخويا](https://open.spotify.com/track/5Xei35cn3yZQG0YwnlVDt5) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [Akhuya \- اخويا](https://open.spotify.com/album/3QQXegHz4Yeo6jG09jOYPc) | 2:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 74 | [Kol Youm](https://open.spotify.com/track/3IGIcmSEULycb9jwx6iUhX) | [ميمز](https://open.spotify.com/artist/1S1mn0Jg5ZaI2Kya26uE8K) | [Kol Youm](https://open.spotify.com/album/5F0Rcxjd3TOBcu059YbTS3) | 2:48 |
 | 75 | [Mnamel](https://open.spotify.com/track/1DKPneXBsDu5ea9W01LOZm) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU), [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1) | [L Nor \(2\-3\)](https://open.spotify.com/album/0SYxXFWltccqziLMvruS5E) | 2:27 |
 
-Snapshot ID: `MCxmODdlMGFiYjUxMGIzMjY3ZmYxOGQ4NDI1MGM3YWE4OGM0NWI4Y2Uy`
+Snapshot ID: `MCxkZDViMmE0YzM4YjZjOWM2MjBiMTZlNDdkZDZjZjU4ZDAxM2E1ZDIx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 
 > Ease out your mind with the rhythmic Tabla sounds, from Indian maestros & modern geniuses\. Cover : Ishaan Ghosh
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,966 likes - 47 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,976 likes - 47 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,11 +49,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 | 39 | [Blue Curry](https://open.spotify.com/track/1H9o3KJZSNhJURgywmZwkS) | [Bhangra Beats](https://open.spotify.com/artist/2BozhfzPEFME4tBKO8PSjv) | [Blue Curry](https://open.spotify.com/album/3KeLxy9vd1vB3N0IRvLqmt) | 2:32 |
 | 40 | [Khandam](https://open.spotify.com/track/4jdaOd9GLwuKlC7ssI9jqG) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [The Sound of Indian Tabla](https://open.spotify.com/album/35NMssJRLtZZ89CA2PQwrU) | 3:42 |
 | 41 | [Summing Up](https://open.spotify.com/track/4KRv0WDi7tK9mOjDH8TeNH) | [ARAJ](https://open.spotify.com/artist/0wAk8TZQcBKfo9QSfXr2eD), [Shikhar Naad Qureshi](https://open.spotify.com/artist/7brxpJAKhpBfEHmAzawb1J) | [CHAKRA](https://open.spotify.com/album/7c32y7QchS7ZGN23CIXL8p) | 15:52 |
-| 42 | [Tabla Music for Meditation](https://open.spotify.com/track/6GQeKCaqhezSIkRcURoVjN) | [Adho Vrikshasana](https://open.spotify.com/artist/3HEuFjuF3gbxD2pj6evcHx) | [Indian Instrumental Music: Indian Soft Music for Relaxation, Indian Yoga Music](https://open.spotify.com/album/2wMo20oHMXtq5yV9ymis44) | 6:20 |
+| 42 | [Uttam Tabla \- Original Mix](https://open.spotify.com/track/5ifvTEhKkH1Bksq2uHeCSD) | [Spiritual Sound Clubb](https://open.spotify.com/artist/6ujBnE0dEYfHXprlVK6JFg) | [Pacifying Morning \- Blissful Yoga Magic Rhythms](https://open.spotify.com/album/0fO9RULLW0MSeWuybERMlt) | 2:20 |
 | 43 | [Ecstasy](https://open.spotify.com/track/3cpUVxVvbZ42OhVC7MF07h) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Get Recharged!!!](https://open.spotify.com/album/7uAdx4T1tcIpMMSDFSiwdL) | 6:48 |
-| 44 | [Uttam Tabla \- Original Mix](https://open.spotify.com/track/5ifvTEhKkH1Bksq2uHeCSD) | [Spiritual Sound Clubb](https://open.spotify.com/artist/6ujBnE0dEYfHXprlVK6JFg) | [Pacifying Morning \- Blissful Yoga Magic Rhythms](https://open.spotify.com/album/0fO9RULLW0MSeWuybERMlt) | 2:20 |
+| 44 | [Tabla Music for Meditation](https://open.spotify.com/track/6GQeKCaqhezSIkRcURoVjN) | [Adho Vrikshasana](https://open.spotify.com/artist/3HEuFjuF3gbxD2pj6evcHx) | [Indian Instrumental Music: Indian Soft Music for Relaxation, Indian Yoga Music](https://open.spotify.com/album/2wMo20oHMXtq5yV9ymis44) | 6:20 |
 | 45 | [Tabla](https://open.spotify.com/track/3H5cOjtgzcmqibnmYxxuIU) | [Büdi Siebert](https://open.spotify.com/artist/6Wiy9Dr9ZTdgfoVoXwZ0da), [Suman Sarkar](https://open.spotify.com/artist/0YKkpqAbai806ElUCqVpc0), [Helmut Weber](https://open.spotify.com/artist/3OyyuzAEaz2ZXWEjlBxlXL) | [Heaven On Earth](https://open.spotify.com/album/3MmALvzReDtQbeX9EEE3rn) | 4:59 |
 | 46 | [Balinese Fantasy \(feat\. Dana Pandey, Mickey Hart, Syed Arshad, Vince Delgado, Aushim Chaudhuri & Anthony Hindson\)](https://open.spotify.com/track/4gX8zohTKh60fGL3jZgxHV) | [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [Dana Pandey](https://open.spotify.com/artist/6ZNiKkCIGJqrJIkcyWGyiB), [Mickey Hart](https://open.spotify.com/artist/4eh3NWjKDBI81nFl9uhWtU), [Syed Arshad](https://open.spotify.com/artist/5133gOOsLNGTDEdRBf8OvJ), [Vince Delgado](https://open.spotify.com/artist/30iufXAcbiAyoV3CgunYNg), [Aushim Chaudhuri](https://open.spotify.com/artist/6eHtMIbxdeGtNFVQuPVXk8), [Anthony Hindson](https://open.spotify.com/artist/4SxNRoFulwosvUXRmsBPQs) | [The Sound of Indian Tabla](https://open.spotify.com/album/35NMssJRLtZZ89CA2PQwrU) | 3:52 |
 | 47 | [Tabla](https://open.spotify.com/track/23YNrB4uagVVZICUBU3Jur) | [Jnan Prakash Ghosh](https://open.spotify.com/artist/6qFxz6UtYnStlnIiXbhJYg) | [Drums Of India \- Pt\. Jnan Prakash Ghosh](https://open.spotify.com/album/7zm1sLnuaWn5mEuuplPtrT) | 12:51 |
 
-Snapshot ID: `MCw5NjlkMjVmOTExZTcwOWQ1Y2I2NGQxM2RlZDU3ZjlhZWI5YzY2YmNk`
+Snapshot ID: `MCw4MmU1YmM5NmUyMzE2ZTIwZTdkMWI2ODQ4YzkyMWIwZTk1ZTkxYzMz`

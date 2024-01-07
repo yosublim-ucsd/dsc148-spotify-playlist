@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,144 likes - 50 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,296 likes - 50 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 11 | [Ngaphakathi](https://open.spotify.com/track/6VDV7qSg8oBsdiBkHnYoug) | [Sam Deep](https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM) | [Welcome To The Party](https://open.spotify.com/album/7CZsavnt6vFWPkk8KntzjO) | 6:22 |
 | 12 | [Lesedi](https://open.spotify.com/track/41OIxpy4toVR6sDhYwANB8) | [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS), [Fako](https://open.spotify.com/artist/4kRL8AsEKtSm09IPyM501J) | [Back To Front EP](https://open.spotify.com/album/1Lofpeh8jkquMGNs6xZyi0) | 8:14 |
 | 13 | [VOICES](https://open.spotify.com/track/74jHixTwsXLdIKDKA7PK6V) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz), [Simeon](https://open.spotify.com/artist/7nFPoOzmOGvKEiurWwNG6x) | [TARU](https://open.spotify.com/album/4klKbCQgeGUdp5ct3pwuFL) | 6:39 |
-| 14 | [Life](https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD) | [STI T's Soul](https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2) | [Revolver, Vol\. 3 \(Compiled\)](https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6) | 6:59 |
-| 15 | [Far Away](https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq) | [DJ Odyccy](https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf) | [Far Away](https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d) | 6:59 |
+| 14 | [Far Away](https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq) | [DJ Odyccy](https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf) | [Far Away](https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d) | 6:59 |
+| 15 | [Life](https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD) | [STI T's Soul](https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2) | [Revolver, Vol\. 3 \(Compiled\)](https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6) | 6:59 |
 | 16 | [Hold On](https://open.spotify.com/track/1Zse0zhlLgLKRKqfqnmZbl) | [The Groove Experience](https://open.spotify.com/artist/6xZszQP070cZ681YlrZnv2), [Aiyon](https://open.spotify.com/artist/2dRb1V0Dz4vAlL76m2Etwr) | [Hold On](https://open.spotify.com/album/47cX0hSa1wxE5f1GPEMTcP) | 6:57 |
 | 17 | [You've Been Missing Me](https://open.spotify.com/track/2N9IbUkTxHev4HWk5ERRWx) | [Nastic Groove](https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56) | [Good Vibes Only E.P](https://open.spotify.com/album/3zY0P7aQIX3TNFpVf8j4ZN) | 5:53 |
 | 18 | [Amplified Zone](https://open.spotify.com/track/4nfY8k8nVypCCVSVMnui86) | [SGVO](https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s) | [Amplified Zone](https://open.spotify.com/album/3rvIj2PfEKBmJEmfMikco8) | 7:48 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 41 | [Nelisiwe](https://open.spotify.com/track/3U6BBph9aD1YhekBl1dUZT) | [Craving Souls](https://open.spotify.com/artist/0wgFftBYgiVdPimTq4ZyEe), [Da Tee SA](https://open.spotify.com/artist/1bX7c5pw3qs3brjXzpJZu2), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5) | [Joyful Music, Vol\. 1 \(Compiled\)](https://open.spotify.com/album/4SfwaD4bORjDeWzgSsLZEV) | 6:53 |
 | 42 | [Ivar the Boneless](https://open.spotify.com/track/5jEL4pW79jdIz6VnqDaCjm) | [Gigg Cosco](https://open.spotify.com/artist/0DkJm7HViEwxS1zxHKY86o) | [Ivar the Boneless](https://open.spotify.com/album/00vV7Vovl8G5eu9B7f896I) | 6:44 |
 | 43 | [Myself & The Dark](https://open.spotify.com/track/5HXW3kNPv7l8KBE5duEVol) | [Supreme Rhythm](https://open.spotify.com/artist/5pGU7dm8MANpUSPptk8N8i) | [Sentimental Affair](https://open.spotify.com/album/5GlFRj4lCo1NJq370frGN1) | 7:11 |
-| 44 | [Dusty Streets](https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q) | [Eddvin](https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq) | [Dusty Streets](https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6) | 6:26 |
-| 45 | [Those Times](https://open.spotify.com/track/6CcZOTY6BcU0lrJu6Whhqn) | [C\-Moody](https://open.spotify.com/artist/54OOXOPVCHZ2wkppPBXaal) | [Those Times](https://open.spotify.com/album/5YblhSjbYeSAkY1JoWmkVY) | 7:45 |
+| 44 | [Those Times](https://open.spotify.com/track/6CcZOTY6BcU0lrJu6Whhqn) | [C\-Moody](https://open.spotify.com/artist/54OOXOPVCHZ2wkppPBXaal) | [Those Times](https://open.spotify.com/album/5YblhSjbYeSAkY1JoWmkVY) | 7:45 |
+| 45 | [Dusty Streets](https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q) | [Eddvin](https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq) | [Dusty Streets](https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6) | 6:26 |
 | 46 | [Gotsom](https://open.spotify.com/track/09bP5tNmOMja2JVmz9iNgY) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ) | [I Am Jazz](https://open.spotify.com/album/6qowtxa5c1s4tBk86CD2bK) | 6:42 |
 | 47 | [Electronic Deep House King](https://open.spotify.com/track/0GguOx9XILJ3MXuKwE435W) | [Seventhi DJ](https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7) | [Electronic Deep House King](https://open.spotify.com/album/00eLGRfYqp78QhwWp7i5Bx) | 5:36 |
 | 48 | [BAUHAUS](https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2) | [TimAdeep](https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq) | [BAUHAUS](https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07) | 8:02 |
 | 49 | [Seeking](https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4) | [Buder Prince](https://open.spotify.com/artist/6dCu16GhubjQSLVwwlZ94a), [Ruthes Ma](https://open.spotify.com/artist/3wxlWCszzxtXKVCU0UKZ7c) | [Seeking](https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe) | 6:37 |
 | 50 | [Gambiando Caras](https://open.spotify.com/track/4YNgFSOwvgYuiaDv15kiGL) | [Sir Vee The Great](https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI) | [Gambiando Caras](https://open.spotify.com/album/34Z2Yz8YHzjvFZGqxr5RzG) | 7:15 |
 
-Snapshot ID: `MCwzNmZmOTRkZmVjNzU3MGM1ZDRkOTk1MGQ2OTY4MTEzYjA4OTZmYmRl`
+Snapshot ID: `MCxmZjRjZjRjMzhjOGVhMmRmMGVlMzMwMTI5ZmY0NzBlZTNkZWU4MGMy`

@@ -3003,6 +3003,28 @@
     },
     {
       "album": {
+        "name": "No Regrets",
+        "url": "https://open.spotify.com/album/7nmxATrQKN8u04O0IASv0b"
+      },
+      "artists": [
+        {
+          "name": "Blackway",
+          "url": "https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145610,
+      "name": "No Regrets",
+      "url": "https://open.spotify.com/track/1Bi8XmQs9vNPPkMQ3wyOux"
+    },
+    {
+      "album": {
         "name": "Emeka Must Shine",
         "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
@@ -4118,7 +4140,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 299369,
       "name": "Suffer II",
       "url": "https://open.spotify.com/track/6nPPGnUpPwWT0wtNy159AV"

@@ -1,12 +1,12 @@
 {
   "description": "\u00e9xitos de regreso",
-  "num_followers": 134623,
+  "num_followers": 134708,
   "original_name": "virales viejitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2ZiNzQyMzkwYjJhNzc4NjVmN2ExYTYzZmU0YWZiZmQ3ODM3NWY2",
+  "snapshot_id": "MCw2YWFkNzVjOWQ2OThmNzdjOWVkMzQ4NGE4MmZlOTNjYzIwNTYzZjk4",
   "tracks": [
     {
       "added_at": "2022-07-26 18:00:55",
@@ -267,6 +267,22 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
+        "name": "Rumours (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 257800,
+      "name": "Dreams - 2004 Remaster",
+      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
+    },
+    {
+      "added_at": "2022-07-26 18:00:55",
+      "album": {
         "name": "Gangsta's Paradise",
         "url": "https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 240693,
       "name": "Gangsta's Paradise",
       "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
-    },
-    {
-      "added_at": "2022-07-26 18:00:55",
-      "album": {
-        "name": "Rumours (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 257800,
-      "name": "Dreams - 2004 Remaster",
-      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -747,26 +747,6 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
-        "name": "Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 192313,
-      "name": "M\u00f3naco",
-      "url": "https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd"
-    },
-    {
-      "added_at": "2022-07-26 18:00:55",
-      "album": {
         "name": "FutureSex/LoveSounds",
         "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 242733,
       "name": "SexyBack (feat. Timbaland)",
       "url": "https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR"
+    },
+    {
+      "added_at": "2022-07-26 18:00:55",
+      "album": {
+        "name": "Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 192313,
+      "name": "M\u00f3naco",
+      "url": "https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
+        "name": "M\u00e1s Negro Que Rojo",
+        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Hecha Pa' Mi",
+      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
+    },
+    {
+      "added_at": "2022-07-26 18:00:55",
+      "album": {
         "name": "THE ANXIETY",
         "url": "https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K"
       },
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
-        "name": "M\u00e1s Negro Que Rojo",
-        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Hecha Pa' Mi",
-      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
-    },
-    {
-      "added_at": "2022-07-26 18:00:55",
-      "album": {
         "name": "Prometo",
         "url": "https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD"
       },
@@ -1115,22 +1115,6 @@
       "duration_ms": 253760,
       "name": "Saturno",
       "url": "https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz"
-    },
-    {
-      "added_at": "2022-07-26 18:00:55",
-      "album": {
-        "name": "Serotonin Dreams",
-        "url": "https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73"
-      },
-      "artists": [
-        {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        }
-      ],
-      "duration_ms": 168066,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/3M214U0mwSm041GsQR3nrO"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -1151,6 +1135,22 @@
       "duration_ms": 244973,
       "name": "Somebody That I Used To Know",
       "url": "https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV"
+    },
+    {
+      "added_at": "2022-07-26 18:00:55",
+      "album": {
+        "name": "Serotonin Dreams",
+        "url": "https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        }
+      ],
+      "duration_ms": 168066,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/3M214U0mwSm041GsQR3nrO"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
-        "name": "DIVA- Platinum Edition",
-        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 186506,
-      "name": "Quiero Bailar",
-      "url": "https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn"
-    },
-    {
-      "added_at": "2022-07-26 18:00:55",
-      "album": {
         "name": "Por Las Damas",
         "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 183946,
       "name": "Belleza De Cantina",
       "url": "https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd"
+    },
+    {
+      "added_at": "2022-07-26 18:00:55",
+      "album": {
+        "name": "DIVA- Platinum Edition",
+        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 186506,
+      "name": "Quiero Bailar",
+      "url": "https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
+        "name": "Chandelier",
+        "url": "https://open.spotify.com/album/1VC4P7rm1o3aYlYVYFkpGF"
+      },
+      "artists": [
+        {
+          "name": "Will Paquin",
+          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
+        }
+      ],
+      "duration_ms": 127464,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/1cwqP7Tyxu5z8XDYoPkNte"
+    },
+    {
+      "added_at": "2022-07-26 18:00:55",
+      "album": {
         "name": "love nwantiti (feat. Dj Yo! & AX'EL) [Remix]",
         "url": "https://open.spotify.com/album/5NzoKSfocwLOb6o0lXfTM9"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 188368,
       "name": "love nwantiti (feat. Dj Yo! & AX'EL) - Remix",
       "url": "https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU"
-    },
-    {
-      "added_at": "2022-07-26 18:00:55",
-      "album": {
-        "name": "Chandelier",
-        "url": "https://open.spotify.com/album/1VC4P7rm1o3aYlYVYFkpGF"
-      },
-      "artists": [
-        {
-          "name": "Will Paquin",
-          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
-        }
-      ],
-      "duration_ms": 127464,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/1cwqP7Tyxu5z8XDYoPkNte"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
-        "name": "Build a Bitch",
-        "url": "https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o"
-      },
-      "artists": [
-        {
-          "name": "Bella Poarch",
-          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
-        }
-      ],
-      "duration_ms": 122772,
-      "name": "Build a Bitch",
-      "url": "https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q"
-    },
-    {
-      "added_at": "2022-07-26 18:00:55",
-      "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 234653,
       "name": "California Gurls",
       "url": "https://open.spotify.com/track/6KOEK6SeCEZOQkLj5M1PxH"
+    },
+    {
+      "added_at": "2022-07-26 18:00:55",
+      "album": {
+        "name": "Build a Bitch",
+        "url": "https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o"
+      },
+      "artists": [
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        }
+      ],
+      "duration_ms": 122772,
+      "name": "Build a Bitch",
+      "url": "https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
-        "name": "En El Radio Un Cochinero",
-        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        }
-      ],
-      "duration_ms": 223431,
-      "name": "En El Radio Un Cochinero",
-      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
-    },
-    {
-      "added_at": "2022-07-26 18:00:55",
-      "album": {
         "name": "Loving is Easy",
         "url": "https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 155720,
       "name": "Loving Is Easy",
       "url": "https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd"
+    },
+    {
+      "added_at": "2022-07-26 18:00:55",
+      "album": {
+        "name": "En El Radio Un Cochinero",
+        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "duration_ms": 223431,
+      "name": "En El Radio Un Cochinero",
+      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
     },
     {
       "added_at": "2022-07-26 18:00:55",

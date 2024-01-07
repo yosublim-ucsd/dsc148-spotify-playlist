@@ -1,12 +1,12 @@
 {
   "description": "Let your favorite pop guide you through your daily commute! Cover: Dua Lipa",
-  "num_followers": 418137,
+  "num_followers": 418144,
   "original_name": "Happy Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODY5ZmUzZmQ5YzZkNDc0ZGRmMDAyMzNmMDZkZGQwOGY5MmZhN2Nl",
+  "snapshot_id": "MCxjZDM3MGQ0OGIwYzVmOWUzY2QzMDhmNjc4MzM2ZGNhODgzZjFmMGFi",
   "tracks": [
     {
       "added_at": "2021-08-25 20:28:57",
@@ -427,6 +427,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "Save Me, San Francisco (Golden Gate Edition)",
+        "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "Hey, Soul Sister",
+      "url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "STAY (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Save Me, San Francisco (Golden Gate Edition)",
-        "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "Hey, Soul Sister",
-      "url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -889,6 +889,22 @@
       "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
     },
     {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
+    },
+    {
       "added_at": "2022-04-13 19:43:54",
       "album": {
         "name": "\u00f7 (Deluxe)",
@@ -907,22 +923,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "Sucker",
-      "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Drops Of Jupiter",
         "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
       },
@@ -935,6 +935,22 @@
       "duration_ms": 259933,
       "name": "Drops of Jupiter (Tell Me)",
       "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Oh, What A Life",
+        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -959,18 +975,18 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Oh, What A Life",
-        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
+        "name": "Walking On A Dream (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
       },
       "artists": [
         {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+          "name": "Empire of the Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
         }
       ],
-      "duration_ms": 194240,
-      "name": "Best Day Of My Life",
-      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
+      "duration_ms": 198440,
+      "name": "Walking On A Dream",
+      "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -987,22 +1003,6 @@
       "duration_ms": 202960,
       "name": "Raise Your Glass",
       "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Walking On A Dream (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
-      },
-      "artists": [
-        {
-          "name": "Empire of the Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 198440,
-      "name": "Walking On A Dream",
-      "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "Don't Start Now",
+        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "Higher Love",
         "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 219946,
       "name": "I Don't Care (with Justin Bieber)",
       "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Don't Start Now",
-        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1793,22 +1793,6 @@
       "url": "https://open.spotify.com/track/4r1CoAATVuxag55Ct3Y1aX"
     },
     {
-      "added_at": "2022-04-13 19:43:54",
-      "album": {
-        "name": "Cuz I Love You",
-        "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 195144,
-      "name": "Juice",
-      "url": "https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl"
-    },
-    {
       "added_at": "2021-08-25 20:28:57",
       "album": {
         "name": "Electricity (with Dua Lipa)",
@@ -1835,6 +1819,22 @@
       "duration_ms": 238173,
       "name": "Electricity (with Dua Lipa)",
       "url": "https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk"
+    },
+    {
+      "added_at": "2022-04-13 19:43:54",
+      "album": {
+        "name": "Cuz I Love You",
+        "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 195144,
+      "name": "Juice",
+      "url": "https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl"
     },
     {
       "added_at": "2021-10-22 04:02:00",
@@ -2039,6 +2039,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "finding it hard to smile",
+        "url": "https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4"
+      },
+      "artists": [
+        {
+          "name": "lovelytheband",
+          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
+        }
+      ],
+      "duration_ms": 204878,
+      "name": "broken",
+      "url": "https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "STELLA & STEVE",
         "url": "https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8"
       },
@@ -2055,22 +2071,6 @@
       "duration_ms": 223480,
       "name": "Supalonely",
       "url": "https://open.spotify.com/track/4nK5YrxbMGZstTLbvj6Gxw"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "finding it hard to smile",
-        "url": "https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4"
-      },
-      "artists": [
-        {
-          "name": "lovelytheband",
-          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
-        }
-      ],
-      "duration_ms": 204878,
-      "name": "broken",
-      "url": "https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "DNCE",
-        "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
-      },
-      "artists": [
-        {
-          "name": "DNCE",
-          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
-        }
-      ],
-      "duration_ms": 231813,
-      "name": "Toothbrush",
-      "url": "https://open.spotify.com/track/7ciLq0Cip0yxiz6KANrOUq"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Sonder (2023)",
         "url": "https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 198221,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/0B6hW0mGwtejHAWuJ0qMka"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "DNCE",
+        "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
+      },
+      "artists": [
+        {
+          "name": "DNCE",
+          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
+        }
+      ],
+      "duration_ms": 231813,
+      "name": "Toothbrush",
+      "url": "https://open.spotify.com/track/7ciLq0Cip0yxiz6KANrOUq"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2447,22 +2447,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Piece By Piece (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7oKtXc3FkeOZTCB88YugON"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 198733,
-      "name": "Heartbeat Song",
-      "url": "https://open.spotify.com/track/7FC9Lng8iXU081lbigu8m8"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "SUCKER",
         "url": "https://open.spotify.com/album/5Ws5ktkIUJFpaIImvH3tYU"
       },
@@ -2475,6 +2459,22 @@
       "duration_ms": 169866,
       "name": "Boom Clap",
       "url": "https://open.spotify.com/track/0Y1MWB026LYxGvhq4EcMiC"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Piece By Piece (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7oKtXc3FkeOZTCB88YugON"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 198733,
+      "name": "Heartbeat Song",
+      "url": "https://open.spotify.com/track/7FC9Lng8iXU081lbigu8m8"
     },
     {
       "added_at": "2021-09-20 19:34:04",
@@ -2587,22 +2587,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Phoenix (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Vn8F3hERVHYYz5RfKmsAN"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 215826,
-      "name": "Anywhere",
-      "url": "https://open.spotify.com/track/6Xy72HZ9nf2jx48dQuF1mA"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Pacifico (Deluxe)",
         "url": "https://open.spotify.com/album/70SO4lxUQN7Rt1bg3JCIaS"
       },
@@ -2619,6 +2603,22 @@
       "duration_ms": 148846,
       "name": "Sheesh!",
       "url": "https://open.spotify.com/track/77aXKTGNtAEmtDcPpqyXAG"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Phoenix (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Vn8F3hERVHYYz5RfKmsAN"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 215826,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/6Xy72HZ9nf2jx48dQuF1mA"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2717,6 +2717,42 @@
       "url": "https://open.spotify.com/track/1lHXlGlve5Zx8tXLhyjDwM"
     },
     {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "NOTED...EP",
+        "url": "https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "duration_ms": 167232,
+      "name": "Never A Good Time",
+      "url": "https://open.spotify.com/track/5l60Z7gXN9MhAyhdZdy3uA"
+    },
+    {
+      "added_at": "2021-09-20 19:34:04",
+      "album": {
+        "name": "Who's In Your Head",
+        "url": "https://open.spotify.com/album/3olWRKG2KFhJoWsSRpCpja"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 183536,
+      "name": "Who's In Your Head",
+      "url": "https://open.spotify.com/track/5nhW8I46uDE5sc5ouEbzao"
+    },
+    {
       "added_at": "2021-10-29 04:01:00",
       "album": {
         "name": "Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",
@@ -2743,42 +2779,6 @@
       "duration_ms": 158994,
       "name": "Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/0HLhptvI8NozbOHRLNniFz"
-    },
-    {
-      "added_at": "2021-09-20 19:34:04",
-      "album": {
-        "name": "Who's In Your Head",
-        "url": "https://open.spotify.com/album/3olWRKG2KFhJoWsSRpCpja"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 183536,
-      "name": "Who's In Your Head",
-      "url": "https://open.spotify.com/track/5nhW8I46uDE5sc5ouEbzao"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "NOTED...EP",
-        "url": "https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
-        }
-      ],
-      "duration_ms": 167232,
-      "name": "Never A Good Time",
-      "url": "https://open.spotify.com/track/5l60Z7gXN9MhAyhdZdy3uA"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -3195,22 +3195,6 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/1Mik9EmHCENXPMjHOgOwRB"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 184960,
-      "name": "Shoulda Known Better",
-      "url": "https://open.spotify.com/track/5JvVybj0AlJAyMptJZnbjq"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
         "name": "WE ARE (The Deluxe Edition)",
         "url": "https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy"
       },
@@ -3227,6 +3211,22 @@
       "duration_ms": 191208,
       "name": "SING",
       "url": "https://open.spotify.com/track/6x9CsGaWqqtaggNYelyWO5"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/1Mik9EmHCENXPMjHOgOwRB"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 184960,
+      "name": "Shoulda Known Better",
+      "url": "https://open.spotify.com/track/5JvVybj0AlJAyMptJZnbjq"
     },
     {
       "added_at": "2021-08-25 20:28:57",

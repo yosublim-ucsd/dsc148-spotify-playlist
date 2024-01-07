@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 172745,
+  "num_followers": 172827,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWNiMmZlOTExYjNiMzhhYjYzZDhiYjk3NjIwNjA0Y2EwYWQ3YjRh",
+  "snapshot_id": "MCw0YTliZTVmYWE4ZjE2MzEzNGE4YTRmNWY1ZmFiNGVhOGM4OWUwYzg1",
   "tracks": [
     {
       "added_at": "2022-11-25 16:56:36",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Vivi",
+        "url": "https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy"
+      },
+      "artists": [
+        {
+          "name": "Elevven",
+          "url": "https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Vivi",
+      "url": "https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "Hiding",
         "url": "https://open.spotify.com/album/2XAdRKNStUZKUDrZ1flBkH"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 431162,
       "name": "Hiding",
       "url": "https://open.spotify.com/track/6rAbSwrfReG9rpcmwIsgPH"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Vivi",
-        "url": "https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy"
-      },
-      "artists": [
-        {
-          "name": "Elevven",
-          "url": "https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Vivi",
-      "url": "https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1"
     },
     {
       "added_at": "2022-11-25 16:56:36",

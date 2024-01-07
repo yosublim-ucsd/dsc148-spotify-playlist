@@ -137,6 +137,36 @@
     },
     {
       "album": {
+        "name": "A Compton Story (Director's Cut)",
+        "url": "https://open.spotify.com/album/4Htph9ONzvIStrBb0aRj2t"
+      },
+      "artists": [
+        {
+          "name": "JasonMartin",
+          "url": "https://open.spotify.com/artist/3exvmJjpMVsuvzYN7HVGfZ"
+        },
+        {
+          "name": "Problem",
+          "url": "https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "The Melodiks",
+          "url": "https://open.spotify.com/artist/0BKSrGWkUwEUHaUdJGffUN"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "12 HUNNID (feat. Terrace Martin & The Melodiks)",
+      "url": "https://open.spotify.com/track/7mfLtXAhUiM8CspzksCaQM"
+    },
+    {
+      "album": {
         "name": "Stories From The Western Front",
         "url": "https://open.spotify.com/album/7x74AsZWhJloc6tKOF7Nty"
       },
@@ -218,6 +248,36 @@
       "duration_ms": 186120,
       "name": "2002",
       "url": "https://open.spotify.com/track/3Ea8cCWHFBWy8XaDRO7fK7"
+    },
+    {
+      "album": {
+        "name": "2024",
+        "url": "https://open.spotify.com/album/4j4zPzyMmt1F73snu49xvn"
+      },
+      "artists": [
+        {
+          "name": "Ayparia",
+          "url": "https://open.spotify.com/artist/0nTNWXnHMzSj7wRtd3ECos"
+        },
+        {
+          "name": "Armut",
+          "url": "https://open.spotify.com/artist/72Jq4Qx7m1XizJTU5jv9Wj"
+        },
+        {
+          "name": "Ratno",
+          "url": "https://open.spotify.com/artist/1oKl6VIOQMGsXfAUUlD2et"
+        },
+        {
+          "name": "KillTec",
+          "url": "https://open.spotify.com/artist/43H38nyu8vAFbgXJ2Rx1EK"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210951,
+      "name": "2024",
+      "url": "https://open.spotify.com/track/1SWRLrHykgDsPtGtezEf2F"
     },
     {
       "album": {
@@ -682,7 +742,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 184058,
       "name": "All Falls Down",
       "url": "https://open.spotify.com/track/3w9WnM30pp0TEby6LupUX8"
@@ -1656,7 +1716,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 185295,
       "name": "Baptism",
       "url": "https://open.spotify.com/track/4W83KRyGMfl9HeT4Hj9GkZ"
@@ -2030,7 +2090,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 341233,
       "name": "Beyond Spiritual (feat. Wiz Khalifa, Big K.R.I.T. & Curren$y)",
       "url": "https://open.spotify.com/track/2Fy4jOsRb58vn9bgJw1TxA"
@@ -2344,7 +2404,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 221092,
       "name": "Blades (ft. redveil)",
       "url": "https://open.spotify.com/track/5izzk4Ktt1YkwaqTirgfMA"
@@ -3117,6 +3177,24 @@
     },
     {
       "album": {
+        "name": "Cha Cha",
+        "url": "https://open.spotify.com/album/7CqC8dZ6sJrOL2796p3B5l"
+      },
+      "artists": [
+        {
+          "name": "ZEDDY WILL",
+          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155472,
+      "name": "Cha Cha",
+      "url": "https://open.spotify.com/track/516v2eji9NjkmsYc9PErx4"
+    },
+    {
+      "album": {
         "name": "Cha Cha Cha (Metal Version)",
         "url": "https://open.spotify.com/album/28QLIMLNDxMxYmXjlUbBfR"
       },
@@ -3266,6 +3344,40 @@
       "duration_ms": 255738,
       "name": "Charles Henry Turner",
       "url": "https://open.spotify.com/track/7pM1ZNwWAkVXmuWqBa1Vnl"
+    },
+    {
+      "album": {
+        "name": "WESTCOAST KILLA PROPHECY",
+        "url": "https://open.spotify.com/album/3oiZUeMewk9D7xhuj6bKQC"
+      },
+      "artists": [
+        {
+          "name": "Twan the Prophet",
+          "url": "https://open.spotify.com/artist/54PJCcEgCvyILsrgLEP8Zy"
+        },
+        {
+          "name": "Westcoast Mo",
+          "url": "https://open.spotify.com/artist/2tT7nQdRPSLspfAIJLsVyS"
+        },
+        {
+          "name": "Killa Kali",
+          "url": "https://open.spotify.com/artist/75eyGnvvRWP3hAvvNNag8W"
+        },
+        {
+          "name": "Mic Zoldiah",
+          "url": "https://open.spotify.com/artist/6ufNwbpcn8olcjpYl2I61f"
+        },
+        {
+          "name": "RZA",
+          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223004,
+      "name": "CHECK YA FASHION",
+      "url": "https://open.spotify.com/track/60AybeRltLiX4ZATUkoRDS"
     },
     {
       "album": {
@@ -3626,7 +3738,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 173560,
       "name": "COMPANY",
       "url": "https://open.spotify.com/track/2ZAZvQc16b4vDiwJ9L5wfs"
@@ -7516,7 +7628,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 194659,
       "name": "Goin' Fo'",
       "url": "https://open.spotify.com/track/0GArcxCCs4AFk7ul6OsJLH"
@@ -7955,6 +8067,28 @@
     },
     {
       "album": {
+        "name": "Head Down",
+        "url": "https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173888,
+      "name": "Head Down",
+      "url": "https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH"
+    },
+    {
+      "album": {
         "name": "Heidrun",
         "url": "https://open.spotify.com/album/46SLNuMmAJD0lYog885M8a"
       },
@@ -8082,7 +8216,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 191789,
       "name": "Hey wir woll'n die Eisb\u00e4rn sehn",
       "url": "https://open.spotify.com/track/6j7AWOj8StXqLedARcmoBG"
@@ -8530,6 +8664,24 @@
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
+    },
+    {
+      "album": {
+        "name": "I Sent My Therapist To Therapy (Acoustic)",
+        "url": "https://open.spotify.com/album/5Lwg53mX2B56t694xYZzuc"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "I Sent My Therapist To Therapy",
+      "url": "https://open.spotify.com/track/1xBLqmHANnPnMNLPWFCVDG"
     },
     {
       "album": {
@@ -9429,6 +9581,28 @@
     },
     {
       "album": {
+        "name": "Ken The EP",
+        "url": "https://open.spotify.com/album/7Dw87eUPMkF6tyjH1IYHsn"
+      },
+      "artists": [
+        {
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
+        },
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196422,
+      "name": "I\u2019m Just Ken - Merry Kristmas Barbie",
+      "url": "https://open.spotify.com/track/0xUZ46LRp05nuTksovv90G"
+    },
+    {
+      "album": {
         "name": "I\u2019m The President",
         "url": "https://open.spotify.com/album/46uDfYz1fwX99tMqmziZ7L"
       },
@@ -9772,7 +9946,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 195623,
       "name": "Kali Love (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/0D3Myb8AY4siH5migv1lDg"
@@ -10212,7 +10386,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 217500,
       "name": "Lace It (with Eminem & benny blanco)",
       "url": "https://open.spotify.com/track/0hitTdEb4YohfxjOhdcIMi"
@@ -11092,7 +11266,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 210857,
       "name": "Madness",
       "url": "https://open.spotify.com/track/28PMt9uzO7BGNp5bIaV3tq"
@@ -13319,6 +13493,28 @@
     },
     {
       "album": {
+        "name": "One (Slowed)",
+        "url": "https://open.spotify.com/album/33XSBPEiAaEeAG8MYvWSyN"
+      },
+      "artists": [
+        {
+          "name": "Trekt",
+          "url": "https://open.spotify.com/artist/51Qp81HqR3dreIiQmznIzp"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135418,
+      "name": "One (Slowed)",
+      "url": "https://open.spotify.com/track/3uKR1sGpR7FfmW2AWrqLMU"
+    },
+    {
+      "album": {
         "name": "One Eyed Bastard",
         "url": "https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd"
       },
@@ -13925,6 +14121,24 @@
     },
     {
       "album": {
+        "name": "PERCEPTION CHECK",
+        "url": "https://open.spotify.com/album/1oDeKWqb4qnYVUcIcFLkIk"
+      },
+      "artists": [
+        {
+          "name": "Tom Cardy",
+          "url": "https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109634,
+      "name": "PERCEPTION CHECK",
+      "url": "https://open.spotify.com/track/6o2nroFoqAxj7kSWLo6AGb"
+    },
+    {
+      "album": {
         "name": "Lost Not Forgotten Archives: The Making of Falling Into Infinity (1997)",
         "url": "https://open.spotify.com/album/6PSF6V0b6eMbuBI8lBMahX"
       },
@@ -14288,7 +14502,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 241066,
       "name": "Power of the Saber Blade",
       "url": "https://open.spotify.com/track/1rzLqwGDGEIaeLUCfTcYdi"
@@ -15179,6 +15393,32 @@
     },
     {
       "album": {
+        "name": "Rompe La Dompe",
+        "url": "https://open.spotify.com/album/3qmauw54W5zniG20b5q4iJ"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165634,
+      "name": "Rompe La Dompe",
+      "url": "https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2"
+    },
+    {
+      "album": {
         "name": "Blood Money Part Zer0",
         "url": "https://open.spotify.com/album/00IWlCz2v0BLL8td4oljJt"
       },
@@ -15212,7 +15452,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 268936,
       "name": "RUN - Damian \"Jr. Gong\" Marley Version",
       "url": "https://open.spotify.com/track/6OmaDOVCWQfy69DSayk9dZ"
@@ -15398,7 +15638,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 232613,
       "name": "Sans valeurs",
       "url": "https://open.spotify.com/track/0Gmd5KVTh5ZDkFswbvgajB"
@@ -17020,7 +17260,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 138171,
       "name": "Suite for Piano, Op. 25: VI. Gigue - Musical Moments",
       "url": "https://open.spotify.com/track/0wwReHfskijZp6CXo9PwAp"
@@ -20362,7 +20602,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 184842,
       "name": "What're We Doing Here",
       "url": "https://open.spotify.com/track/23r4WNoHCVaLypbxeHMu8p"

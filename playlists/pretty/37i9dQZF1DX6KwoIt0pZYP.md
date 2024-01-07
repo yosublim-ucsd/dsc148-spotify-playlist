@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 
 > soft, chewy & good for the soul\. uwu
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,588 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,788 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 56 | [love you twice](https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [love you twice](https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4) | 2:52 |
 | 57 | [Lose](https://open.spotify.com/track/5vPO5ouEv8iedKWxzmSv7b) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [MOONCHILD](https://open.spotify.com/album/59Y3t7Q4Vf8pw8STJ6fogW) | 4:16 |
 | 58 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 |
-| 59 | [Loneliness](https://open.spotify.com/track/3ILYKzQBhKPQ58FgibMt5N) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [Loneliness](https://open.spotify.com/album/5wYwKu8dqEcnrgoGonXAbc) | 3:01 |
-| 60 | [you won't be there for me](https://open.spotify.com/track/0jaHnvdrguukJipydAJWq2) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [you won't be there for me](https://open.spotify.com/album/46b5idgTzsGq3urqSkbkEa) | 3:02 |
+| 59 | [you won't be there for me](https://open.spotify.com/track/0jaHnvdrguukJipydAJWq2) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [you won't be there for me](https://open.spotify.com/album/46b5idgTzsGq3urqSkbkEa) | 3:02 |
+| 60 | [Loneliness](https://open.spotify.com/track/3ILYKzQBhKPQ58FgibMt5N) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [Loneliness](https://open.spotify.com/album/5wYwKu8dqEcnrgoGonXAbc) | 3:01 |
 | 61 | [ANGOSTURA](https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:51 |
 | 62 | [everything, everywhere \(feat\. eaJ\)](https://open.spotify.com/track/6ru2VMkOMkSBUKWqrTZYwe) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB), [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [everything, everywhere \(feat\. eaJ\)](https://open.spotify.com/album/61xocU79Y5kZiJSPg2KcuG) | 3:10 |
 | 63 | [The Ones We Once Loved](https://open.spotify.com/track/6YjKd9oPXKqjLUVPo4Y0oi) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [The Ones We Once Loved](https://open.spotify.com/album/0276LtRwBrOo2uoRlTOiPX) | 4:33 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 89 | [Better On My Own](https://open.spotify.com/track/1JBlPAvemeeld88PoPN69O) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Levronka](https://open.spotify.com/album/19iIS7jphCzsXZbTqgZiRG) | 2:59 |
 | 90 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 |
 | 91 | [Would You Mind](https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:22 |
-| 92 | [your love](https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [your love](https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk) | 2:35 |
-| 93 | [feelings are fatal](https://open.spotify.com/track/09NibQcboHT4aqZbkvRa2w) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom](https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe) | 2:04 |
+| 92 | [feelings are fatal](https://open.spotify.com/track/09NibQcboHT4aqZbkvRa2w) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom](https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe) | 2:04 |
+| 93 | [your love](https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [your love](https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk) | 2:35 |
 | 94 | [Wedding Dress](https://open.spotify.com/track/2NO4CA2TFvhGeg7XMz8PmT) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Solar](https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z) | 4:02 |
 | 95 | [Op Shop Lover](https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Op Shop Lover](https://open.spotify.com/album/6496vgr7i2H5ENZ7noLwFP) | 2:30 |
 | 96 | [24](https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [24](https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ) | 2:13 |
-| 97 | [Thinking Bout You](https://open.spotify.com/track/7HJbpVOycx32pDjWvpF9hp) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Xeno](https://open.spotify.com/album/54DKeR5680lyfCrx7Gpmfr) | 3:10 |
-| 98 | [Issa Goodbye](https://open.spotify.com/track/3YaA4d6ukGO85nWrukkFae) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Issa Goodbye](https://open.spotify.com/album/1nJyDbakUhIJnOfhbcg0jx) | 3:36 |
+| 97 | [Issa Goodbye](https://open.spotify.com/track/3YaA4d6ukGO85nWrukkFae) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Issa Goodbye](https://open.spotify.com/album/1nJyDbakUhIJnOfhbcg0jx) | 3:36 |
+| 98 | [Thinking Bout You](https://open.spotify.com/track/7HJbpVOycx32pDjWvpF9hp) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Xeno](https://open.spotify.com/album/54DKeR5680lyfCrx7Gpmfr) | 3:10 |
 | 99 | [Black Tie](https://open.spotify.com/track/5MeRUPtBTANorTH2kD7Cin) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Black Tie](https://open.spotify.com/album/7sg3qBl3rfjTLQePSn7HzY) | 2:47 |
 | 100 | [Good Care](https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Good Care](https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d) | 3:14 |
 
-Snapshot ID: `MCw2MjFlODdmNzc1ODM4OGE3NzEzNzFhM2E2NjAwMmMzOTE2YTI0ZDk5`
+Snapshot ID: `MCw1Y2ExY2E0ZDg3ZGRkMjRkMmYzNGFhN2VlMTEwNTM3OTUxMWI2NDMx`

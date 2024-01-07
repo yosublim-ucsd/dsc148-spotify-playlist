@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTE4ZTJjOWMyNDY1YTY4MGVjNzQwOTkyMGIyYmVmMTY5ODE3Mzc0",
+  "snapshot_id": "MCw1YTZiNzJmOGIzOWFkZmEzNGQwYjU1N2Q2YTZlZjI1MzlmMmVmYTE4",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -55,6 +55,42 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "HOLA PERDIDA",
+        "url": "https://open.spotify.com/album/1CoW3JLanCH9BjdttRNjIl"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 166536,
+      "name": "HOLA PERDIDA",
+      "url": "https://open.spotify.com/track/10eRgZUM59q2G5ogpztSeL"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Una m\u00e1s",
+        "url": "https://open.spotify.com/album/2lEaOHS4MmQfmIKDPKslPf"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Una m\u00e1s",
+      "url": "https://open.spotify.com/track/1jhQ4a7ehYtN0XzHQ0ZTIF"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Vas a Destrozarme (Versi\u00f3n Eden Mu\u00f1oz)",
         "url": "https://open.spotify.com/album/1Beic6eSv6o8vl2UxU0WZo"
       },
@@ -95,130 +131,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "GaD #24",
-        "url": "https://open.spotify.com/album/4WGALPSbZSZm9S2K7CDgil"
-      },
-      "artists": [
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "GaD #24",
-      "url": "https://open.spotify.com/track/3bYyFMBbSEKt1HdFmHtwA7"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "PAISA",
-        "url": "https://open.spotify.com/album/61YsrCQ5VKMrz3W6MFgZ5U"
-      },
-      "artists": [
-        {
-          "name": "KEVIN ROLDAN",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        },
-        {
-          "name": "Ch12",
-          "url": "https://open.spotify.com/artist/3gvFr8y3T5ctUErKSK5ivj"
-        }
-      ],
-      "duration_ms": 176853,
-      "name": "PAISA",
-      "url": "https://open.spotify.com/track/1BV8BIlbgRizmuUtTdjVhl"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Aun Te Pienso",
-        "url": "https://open.spotify.com/album/6Zl4NEfxxgozOEAGFZ6BGg"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "Aun Te Pienso",
-      "url": "https://open.spotify.com/track/2IYgiwTYm4YBVMIEqJw6hz"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Labios Prohibidos",
-        "url": "https://open.spotify.com/album/7ICJkLeqZ3hldbuXlGc6LC"
-      },
-      "artists": [
-        {
-          "name": "Super Yei",
-          "url": "https://open.spotify.com/artist/6HqgxkTt9KGyt27zYrwVan"
-        }
-      ],
-      "duration_ms": 182371,
-      "name": "Labios Prohibidos",
-      "url": "https://open.spotify.com/track/3C8FTVfadUJBOXs4rBDb8B"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "HOLA PERDIDA",
-        "url": "https://open.spotify.com/album/1CoW3JLanCH9BjdttRNjIl"
-      },
-      "artists": [
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 166536,
-      "name": "HOLA PERDIDA",
-      "url": "https://open.spotify.com/track/10eRgZUM59q2G5ogpztSeL"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Una m\u00e1s",
-        "url": "https://open.spotify.com/album/2lEaOHS4MmQfmIKDPKslPf"
-      },
-      "artists": [
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Una m\u00e1s",
-      "url": "https://open.spotify.com/track/1jhQ4a7ehYtN0XzHQ0ZTIF"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "DAHMER",
-        "url": "https://open.spotify.com/album/01zIMriiZc9E9CBGrb1akb"
-      },
-      "artists": [
-        {
-          "name": "Yo.Soy.Rey",
-          "url": "https://open.spotify.com/artist/2ggzy2QfRRuHt3Slc398e9"
-        },
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "DAHMER",
-      "url": "https://open.spotify.com/track/75TUPR3KiMFeOZOzbL3hmo"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Tienen Que Bregar",
         "url": "https://open.spotify.com/album/5IVotOkf9N91Wfx2gNDuip"
       },
@@ -235,22 +147,6 @@
       "duration_ms": 158181,
       "name": "Tienen Que Bregar",
       "url": "https://open.spotify.com/track/0M4xwdMil2xJj26zUrOhxA"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Ya Fue",
-        "url": "https://open.spotify.com/album/0X4z32fZIdYrvbvP6CbE78"
-      },
-      "artists": [
-        {
-          "name": "Peipper",
-          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
-        }
-      ],
-      "duration_ms": 164333,
-      "name": "Ya Fue",
-      "url": "https://open.spotify.com/track/5NBvvix3gt1hZNcKAMyy37"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -275,22 +171,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Apurale",
-        "url": "https://open.spotify.com/album/7LuDetAyvwOiDjbYq1KcRm"
+        "name": "Labios Prohibidos",
+        "url": "https://open.spotify.com/album/7ICJkLeqZ3hldbuXlGc6LC"
       },
       "artists": [
         {
-          "name": "Jhayseven",
-          "url": "https://open.spotify.com/artist/2G3bLEKN244jKnfbVUTzdd"
-        },
-        {
-          "name": "Angel Dior",
-          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+          "name": "Super Yei",
+          "url": "https://open.spotify.com/artist/6HqgxkTt9KGyt27zYrwVan"
         }
       ],
-      "duration_ms": 116826,
-      "name": "Apurale",
-      "url": "https://open.spotify.com/track/2lWYj5CpdWXU91Tq3pU8CI"
+      "duration_ms": 182371,
+      "name": "Labios Prohibidos",
+      "url": "https://open.spotify.com/track/3C8FTVfadUJBOXs4rBDb8B"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -315,22 +207,74 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Mil Vezes (Remix)",
-        "url": "https://open.spotify.com/album/28TohT0cuarLuUCyC7VGA1"
+        "name": "PAISA",
+        "url": "https://open.spotify.com/album/61YsrCQ5VKMrz3W6MFgZ5U"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
         },
         {
-          "name": "Melody",
-          "url": "https://open.spotify.com/artist/3cPXzpTSrOM1VJFm6Gwaym"
+          "name": "Ch12",
+          "url": "https://open.spotify.com/artist/3gvFr8y3T5ctUErKSK5ivj"
         }
       ],
-      "duration_ms": 127500,
-      "name": "Mil Vezes - Remix",
-      "url": "https://open.spotify.com/track/2azJDduVngaqpaUsxKXevt"
+      "duration_ms": 176853,
+      "name": "PAISA",
+      "url": "https://open.spotify.com/track/1BV8BIlbgRizmuUtTdjVhl"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Ya Fue",
+        "url": "https://open.spotify.com/album/0X4z32fZIdYrvbvP6CbE78"
+      },
+      "artists": [
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        }
+      ],
+      "duration_ms": 164333,
+      "name": "Ya Fue",
+      "url": "https://open.spotify.com/track/5NBvvix3gt1hZNcKAMyy37"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "DAHMER",
+        "url": "https://open.spotify.com/album/01zIMriiZc9E9CBGrb1akb"
+      },
+      "artists": [
+        {
+          "name": "Yo.Soy.Rey",
+          "url": "https://open.spotify.com/artist/2ggzy2QfRRuHt3Slc398e9"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "DAHMER",
+      "url": "https://open.spotify.com/track/75TUPR3KiMFeOZOzbL3hmo"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "BF",
+        "url": "https://open.spotify.com/album/7blDathKAvoJoCVZFTUQLg"
+      },
+      "artists": [
+        {
+          "name": "BCA",
+          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
+        }
+      ],
+      "duration_ms": 141030,
+      "name": "BF",
+      "url": "https://open.spotify.com/track/1IPEjtyzuk1K3U2QmpyIgw"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -355,50 +299,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "M\u00e1s Normal De L... N... (67%)",
-        "url": "https://open.spotify.com/album/6FUgY90LThOhYSrPTZHyqo"
+        "name": "COSMICO",
+        "url": "https://open.spotify.com/album/4LQbOuY9gA8FYhi81OA8nv"
       },
       "artists": [
         {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+          "name": "Bobby Moon",
+          "url": "https://open.spotify.com/artist/77uIY2BC0ZIRq0G59r0nqi"
         }
       ],
-      "duration_ms": 153904,
-      "name": "\u00bfQu\u00e9 Me Dices?",
-      "url": "https://open.spotify.com/track/62xluQXvbzXCypORfjTU3X"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Tal Vez",
-        "url": "https://open.spotify.com/album/2TYhUcY7yfCsKr9pUhQ1en"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        }
-      ],
-      "duration_ms": 173374,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/29FsuKnbCrHD9JChkrpK9W"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Bobo Apasionado",
-        "url": "https://open.spotify.com/album/5JOVoHq7GXS6YqBiZNg6Nq"
-      },
-      "artists": [
-        {
-          "name": "Charlie Zaa",
-          "url": "https://open.spotify.com/artist/1KfBKoozFugeT1PBkz33xl"
-        }
-      ],
-      "duration_ms": 240804,
-      "name": "Bobo Apasionado",
-      "url": "https://open.spotify.com/track/5C95pn5iad8Qm6A64fYSvu"
+      "duration_ms": 174000,
+      "name": "DESVELAU",
+      "url": "https://open.spotify.com/track/01wY0gXSs23N8BauArtdAp"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -419,6 +331,178 @@
       "duration_ms": 209175,
       "name": "Que no salga",
       "url": "https://open.spotify.com/track/0FaH9kJBi2j3AeRX2kBpaf"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Parchecito (Versi\u00f3n RKT)",
+        "url": "https://open.spotify.com/album/0HNz0IPJkliIYtF39YWtY4"
+      },
+      "artists": [
+        {
+          "name": "Makano",
+          "url": "https://open.spotify.com/artist/5F73ZVq8ivLhsYF2pGg4Fc"
+        }
+      ],
+      "duration_ms": 157894,
+      "name": "Parchecito - Versi\u00f3n RKT",
+      "url": "https://open.spotify.com/track/7my2XpObRUs1dxJpWz56rM"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Apurale",
+        "url": "https://open.spotify.com/album/7LuDetAyvwOiDjbYq1KcRm"
+      },
+      "artists": [
+        {
+          "name": "Jhayseven",
+          "url": "https://open.spotify.com/artist/2G3bLEKN244jKnfbVUTzdd"
+        },
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        }
+      ],
+      "duration_ms": 116826,
+      "name": "Apurale",
+      "url": "https://open.spotify.com/track/2lWYj5CpdWXU91Tq3pU8CI"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "GaD #24",
+        "url": "https://open.spotify.com/album/4WGALPSbZSZm9S2K7CDgil"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "GaD #24",
+      "url": "https://open.spotify.com/track/3bYyFMBbSEKt1HdFmHtwA7"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Mil Vezes (Remix)",
+        "url": "https://open.spotify.com/album/28TohT0cuarLuUCyC7VGA1"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/3cPXzpTSrOM1VJFm6Gwaym"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "Mil Vezes - Remix",
+      "url": "https://open.spotify.com/track/2azJDduVngaqpaUsxKXevt"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "M\u00e1s Normal De L... N... (67%)",
+        "url": "https://open.spotify.com/album/6FUgY90LThOhYSrPTZHyqo"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 153904,
+      "name": "\u00bfQu\u00e9 Me Dices?",
+      "url": "https://open.spotify.com/track/62xluQXvbzXCypORfjTU3X"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Aun Te Pienso",
+        "url": "https://open.spotify.com/album/6Zl4NEfxxgozOEAGFZ6BGg"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Aun Te Pienso",
+      "url": "https://open.spotify.com/track/2IYgiwTYm4YBVMIEqJw6hz"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Bobo Apasionado",
+        "url": "https://open.spotify.com/album/5JOVoHq7GXS6YqBiZNg6Nq"
+      },
+      "artists": [
+        {
+          "name": "Charlie Zaa",
+          "url": "https://open.spotify.com/artist/1KfBKoozFugeT1PBkz33xl"
+        }
+      ],
+      "duration_ms": 240804,
+      "name": "Bobo Apasionado",
+      "url": "https://open.spotify.com/track/5C95pn5iad8Qm6A64fYSvu"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Tal Vez",
+        "url": "https://open.spotify.com/album/2TYhUcY7yfCsKr9pUhQ1en"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "duration_ms": 173374,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/29FsuKnbCrHD9JChkrpK9W"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "2 Am",
+        "url": "https://open.spotify.com/album/3m7GKHjKmySQjnIvxupgXJ"
+      },
+      "artists": [
+        {
+          "name": "DEUXER",
+          "url": "https://open.spotify.com/artist/2mv4oA2PU10YE6FiKlfk5j"
+        },
+        {
+          "name": "SwaggGlock",
+          "url": "https://open.spotify.com/artist/0TQ494EpT0cwX3JWh87nOr"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "2 Am",
+      "url": "https://open.spotify.com/track/3vFaYpQJbxVSbouuSQvde7"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/1bCujSepuEVltttgBxRzCC"
+      },
+      "artists": [
+        {
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+        }
+      ],
+      "duration_ms": 192750,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/5hSfzCSdcRmhD0FKYkFUzb"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -467,38 +551,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Parchecito (Versi\u00f3n RKT)",
-        "url": "https://open.spotify.com/album/0HNz0IPJkliIYtF39YWtY4"
-      },
-      "artists": [
-        {
-          "name": "Makano",
-          "url": "https://open.spotify.com/artist/5F73ZVq8ivLhsYF2pGg4Fc"
-        }
-      ],
-      "duration_ms": 157894,
-      "name": "Parchecito - Versi\u00f3n RKT",
-      "url": "https://open.spotify.com/track/7my2XpObRUs1dxJpWz56rM"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/1bCujSepuEVltttgBxRzCC"
-      },
-      "artists": [
-        {
-          "name": "Esteban Rojas",
-          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
-        }
-      ],
-      "duration_ms": 192750,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/5hSfzCSdcRmhD0FKYkFUzb"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Suelo Iraki",
         "url": "https://open.spotify.com/album/0jUoys4m9uTNk5JhvBSb3X"
       },
@@ -515,26 +567,6 @@
       "duration_ms": 255481,
       "name": "Suelo Iraki",
       "url": "https://open.spotify.com/track/2e74DdYGIZLIJbrSLJRucr"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "2 Am",
-        "url": "https://open.spotify.com/album/3m7GKHjKmySQjnIvxupgXJ"
-      },
-      "artists": [
-        {
-          "name": "DEUXER",
-          "url": "https://open.spotify.com/artist/2mv4oA2PU10YE6FiKlfk5j"
-        },
-        {
-          "name": "SwaggGlock",
-          "url": "https://open.spotify.com/artist/0TQ494EpT0cwX3JWh87nOr"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "2 Am",
-      "url": "https://open.spotify.com/track/3vFaYpQJbxVSbouuSQvde7"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -567,22 +599,6 @@
       "duration_ms": 147489,
       "name": "Mango Season",
       "url": "https://open.spotify.com/track/6F42K33jC5A2brWORXT8nE"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "BF",
-        "url": "https://open.spotify.com/album/7blDathKAvoJoCVZFTUQLg"
-      },
-      "artists": [
-        {
-          "name": "BCA",
-          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
-        }
-      ],
-      "duration_ms": 141030,
-      "name": "BF",
-      "url": "https://open.spotify.com/track/1IPEjtyzuk1K3U2QmpyIgw"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -635,22 +651,6 @@
       "duration_ms": 228803,
       "name": "Masaryk",
       "url": "https://open.spotify.com/track/6aek9ZxmCBrlxamKTuu4aE"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "COSMICO",
-        "url": "https://open.spotify.com/album/4LQbOuY9gA8FYhi81OA8nv"
-      },
-      "artists": [
-        {
-          "name": "Bobby Moon",
-          "url": "https://open.spotify.com/artist/77uIY2BC0ZIRq0G59r0nqi"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "DESVELAU",
-      "url": "https://open.spotify.com/track/01wY0gXSs23N8BauArtdAp"
     },
     {
       "added_at": "2023-12-29 05:00:00",

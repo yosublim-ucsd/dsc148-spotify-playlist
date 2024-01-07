@@ -1866,6 +1866,32 @@
     {
       "album": {
         "name": "No Love",
+        "url": "https://open.spotify.com/album/07SG5x4D5BLlrPcg0xBSZf"
+      },
+      "artists": [
+        {
+          "name": "lusttqwe",
+          "url": "https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR"
+        },
+        {
+          "name": "bexter",
+          "url": "https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n"
+        },
+        {
+          "name": "lorche",
+          "url": "https://open.spotify.com/artist/644qnZiBHVcjcMCHsiV0PL"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169039,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/1ejy8AVI7k1SAlWeeKaZ60"
+    },
+    {
+      "album": {
+        "name": "No Love",
         "url": "https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU"
       },
       "artists": [
@@ -1876,7 +1902,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 170387,
       "name": "No Love",
       "url": "https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp"

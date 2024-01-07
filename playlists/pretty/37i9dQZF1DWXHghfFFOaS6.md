@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,012 likes - 90 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,137 likes - 90 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 34 | [TIBBE](https://open.spotify.com/track/604GSvawPBPTa36Bw2pifE) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [GISEKE](https://open.spotify.com/album/3EVhMsdzVzTUe1I67viGDv) | 2:25 |
 | 35 | [Web of Deception](https://open.spotify.com/track/3n6SFPAFoF0YyBcMEk1zYc) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Culture Of Fear](https://open.spotify.com/album/06CDsx2HDFn57Y66uNI7Iz) | 4:32 |
 | 36 | [Jazzie's Groove](https://open.spotify.com/track/0HGxuuv3WdVpIFZeIepoUq) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf) | [Keep On Movin'](https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni) | 2:37 |
-| 37 | [Friends And Strangers](https://open.spotify.com/track/6vkvSBJIrpdbwwrmBrER8V) | [Ronnie Laws](https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC) | [Friends & Strangers](https://open.spotify.com/album/6kTEtsawfwnyzPhaEGVu4a) | 4:49 |
-| 38 | [Bridge Through Time](https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK) | [Love Is The Answer \(Expanded\)](https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8) | 4:01 |
+| 37 | [Bridge Through Time](https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK) | [Love Is The Answer \(Expanded\)](https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8) | 4:01 |
+| 38 | [Friends And Strangers](https://open.spotify.com/track/6vkvSBJIrpdbwwrmBrER8V) | [Ronnie Laws](https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC) | [Friends & Strangers](https://open.spotify.com/album/6kTEtsawfwnyzPhaEGVu4a) | 4:49 |
 | 39 | [Let It Flow \(For "DR\. J"\)](https://open.spotify.com/track/6jY7UcNWda03nyJ5XiqlYt) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1) | [Winelight](https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU) | 5:50 |
 | 40 | [Prince Of Peace](https://open.spotify.com/track/0bzncFV24esz0QZOo4r1ss) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [A Joyful Noise Unto The Creator](https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j) | 5:55 |
 | 41 | [Lord Jazz Hit Me One Time \(Make It Funky\)](https://open.spotify.com/track/2vWaZmzwxRDNYySRGUdq3N) | [Lords Of The Underground](https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4) | [Here Come The Lords](https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI) | 2:46 |
@@ -72,10 +72,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 62 | [Mama Said](https://open.spotify.com/track/7MITu04P3bpWgI1IBdmhYf) | [Carleen Anderson](https://open.spotify.com/artist/6thyqrW8SkVY11NUqTyCI6) | [True Spirit](https://open.spotify.com/album/6GxnHqovqi1yRhCpLQ9LPp) | 4:07 |
 | 63 | [I'll Be With You](https://open.spotify.com/track/7a0i3hGEInHBswOYD5KaH4) | [Apartment Upstairs](https://open.spotify.com/artist/7CKdT4kxf0aMTFtSYx8Kmk), [Doc Awes](https://open.spotify.com/artist/5Dxx4NwFilcIbafokwfnes), [Abhay Sharma](https://open.spotify.com/artist/3MoObXWEFyxfYPWGCsViX3), [Fakeer](https://open.spotify.com/artist/6noaoyjtcjbs6C8REcYhxf) | [I'll Be With You](https://open.spotify.com/album/7GVaEnwt87gGsw0RxM9F3q) | 3:42 |
 | 64 | [Tokisan](https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ) | [YUNIKōN](https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR) | 3:25 |
-| 65 | [Hargrove](https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Sounds from the Ancestors](https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd) | 5:13 |
+| 65 | [Theme from Riot on 103rd Street](https://open.spotify.com/track/38bCAubLkKJjbzZwKegxfn) | [Mother Earth](https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw) | [Stoned Woman](https://open.spotify.com/album/1iMNmX3jxoENVoUv1nJmwe) | 2:45 |
 | 66 | [It's A Vanity](https://open.spotify.com/track/0MiEkTtkvhohBIG2C7NdPh) | [T\. P\. Orchestre Poly\-Rythmo](https://open.spotify.com/artist/0eJnyYv95cVqWkoujUq7kb), [Gabo Brown](https://open.spotify.com/artist/4611pTtcuyslFogumDsWzP) | [Afro\-Funk](https://open.spotify.com/album/2Qrd99xe9fSKbErdIeYE8k) | 4:22 |
-| 67 | [Theme from Riot on 103rd Street](https://open.spotify.com/track/38bCAubLkKJjbzZwKegxfn) | [Mother Earth](https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw) | [Stoned Woman](https://open.spotify.com/album/1iMNmX3jxoENVoUv1nJmwe) | 2:45 |
-| 68 | [Girl Overboard](https://open.spotify.com/track/2DEtevLNfY859UWgk9TVqG) | [Snowboy](https://open.spotify.com/artist/6e6FiOOuM4VotvYcIdAtXn), [Anna Ross](https://open.spotify.com/artist/0mC0yKMC54Vo9HUuGouIE2) | [Girl Overboard](https://open.spotify.com/album/0NdSb6t3YqkSvWpuvMeGan) | 7:24 |
+| 67 | [Girl Overboard](https://open.spotify.com/track/2DEtevLNfY859UWgk9TVqG) | [Snowboy](https://open.spotify.com/artist/6e6FiOOuM4VotvYcIdAtXn), [Anna Ross](https://open.spotify.com/artist/0mC0yKMC54Vo9HUuGouIE2) | [Girl Overboard](https://open.spotify.com/album/0NdSb6t3YqkSvWpuvMeGan) | 7:24 |
+| 68 | [Hargrove](https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Sounds from the Ancestors](https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd) | 5:13 |
 | 69 | [Datskat](https://open.spotify.com/track/0aadxOTgyCZL2ayA3GheH0) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Do You Want More?!!!??!](https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz) | 3:40 |
 | 70 | [Block Episode](https://open.spotify.com/track/1axCLL1W1NiOVz32Dnf2Ie) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Punch&Words](https://open.spotify.com/artist/61FbYXEKKxS7MHKzXM9Ej7) | [Disposable Arts](https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN) | 3:48 |
 | 71 | [Good Luck Shore](https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9) | [United Future Organization](https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh) | [Bon Voyage](https://open.spotify.com/album/5NFauXmMJwlk20UOtkUWJh) | 5:27 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 89 | [Ring of Saturn](https://open.spotify.com/track/36rhJ2LhrKRdwjBzfZ5lLy) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [Ring of Saturn](https://open.spotify.com/album/2VTLDohCGomGkyOOvKi96p) | 4:00 |
 | 90 | [Holy Sun](https://open.spotify.com/track/2prsNcywu7raXhGJ8KkwKp) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA) | [Holy Sun](https://open.spotify.com/album/3TcPxmWiTbjDWutVvkW2TO) | 4:23 |
 
-Snapshot ID: `MCwwMDQ0ZGMwNzJiYjg1NTA0MGIxMjg3ZjY0ZGNjYzhiYzAwZmFjMzYy`
+Snapshot ID: `MCw2MzA2OGIxZWMwYTY4NDZkZWVlYmFjYTJjZGIwMmEwZmJiODk5Yzk2`

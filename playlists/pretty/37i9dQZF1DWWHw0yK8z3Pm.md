@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Fearless sounds at the crossroads of Country and Folk\. Cover: Sam Barber
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,855 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,904 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 41 | [The Otter](https://open.spotify.com/track/0zesU7Cq6UM582kMYC6J3E) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Days](https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW) | 2:58 |
 | 42 | [In Dreams](https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Long Time Coming](https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB) | 2:41 |
 | 43 | [Life Lessons](https://open.spotify.com/track/0VFwBPIBEuveQTxrm5OerM) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Life Lessons](https://open.spotify.com/album/7pvSshGK1UHAQEQAC1o7yv) | 3:15 |
-| 44 | [Damn Darlin'](https://open.spotify.com/track/6QAxm6mkOsTaFldlg6Iken) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw) | 3:19 |
+| 44 | [In the Morning](https://open.spotify.com/track/4CAdFDe8JiL6P992pHAGwy) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Clouds](https://open.spotify.com/album/3pg8vVz9dDzYdfQxgT9MCP) | 2:26 |
 | 45 | [Burn, Burn, Burn](https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Burn, Burn, Burn](https://open.spotify.com/album/4popczz4SYRg2NPcgwKHsR) | 4:28 |
-| 46 | [In the Morning](https://open.spotify.com/track/4CAdFDe8JiL6P992pHAGwy) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Clouds](https://open.spotify.com/album/3pg8vVz9dDzYdfQxgT9MCP) | 2:26 |
+| 46 | [Damn Darlin'](https://open.spotify.com/track/6QAxm6mkOsTaFldlg6Iken) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw) | 3:19 |
 | 47 | [All Again](https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Family Ties \(Sampler\)](https://open.spotify.com/album/7dHj0WLfCcsqzo82GSnPCz) | 3:48 |
 | 48 | [Cocaine Country Dancing](https://open.spotify.com/track/4B9v2AXBpnA5tBhGTaQG0G) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Room 41](https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a) | 4:16 |
 | 49 | [Born For Loving You](https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire / Born For Loving You](https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf) | 3:34 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 93 | [River of Tears](https://open.spotify.com/track/2GLkz5Z49Y0nkYNNKaUQNn) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j), [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [River of Tears](https://open.spotify.com/album/3ktr2vipK7vsd0BUUB6QIx) | 3:03 |
 | 94 | [Change Of Heart](https://open.spotify.com/track/7xagVKfjYQTAdzvtJHPdVc) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Strays](https://open.spotify.com/album/5ahtNEdaVlgHdt75PZwbtj) | 4:03 |
 | 95 | [Maritime](https://open.spotify.com/track/558Ak8Q3GxOKDUFcxmvlKA) | [Pretty Archie](https://open.spotify.com/artist/0ZbBrJxdLuqoUmssWYFnKW) | [Pretty Archie](https://open.spotify.com/album/1O0GiiSyJcqIXlKDziGdfI) | 4:38 |
-| 96 | [This Distance](https://open.spotify.com/track/2BqSw3roc6RFuwoVAw9aud) | [John Muirhead](https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0) | [Traveller](https://open.spotify.com/album/2wIEh2fmEXXcpHoW0MeOpn) | 4:02 |
-| 97 | [Baby, You're a Gun](https://open.spotify.com/track/2t75rwAHmPqCvb1B86NiGN) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [Kingmaker](https://open.spotify.com/album/5fuIzeNg4rYracgepUeZWa) | 3:29 |
+| 96 | [Baby, You're a Gun](https://open.spotify.com/track/2t75rwAHmPqCvb1B86NiGN) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [Kingmaker](https://open.spotify.com/album/5fuIzeNg4rYracgepUeZWa) | 3:29 |
+| 97 | [This Distance](https://open.spotify.com/track/2BqSw3roc6RFuwoVAw9aud) | [John Muirhead](https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0) | [Traveller](https://open.spotify.com/album/2wIEh2fmEXXcpHoW0MeOpn) | 4:02 |
 | 98 | [First Light](https://open.spotify.com/track/7MwtFy3hEW9ru5lF2vNHOL) | [Dom Louis](https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph) | [Dom Louis](https://open.spotify.com/album/0gxSPjAI7bRL1qhMzQyQT6) | 2:55 |
 | 99 | [Fighting Like Hell to Be Free](https://open.spotify.com/track/6Mg4YqzbhRu0HeoWFSrCNQ) | [Lost Dog Street Band](https://open.spotify.com/artist/6tkrcmVfWoHC4WOhE7IDyq) | [Glory](https://open.spotify.com/album/0flu8soCpwi7nj3U21kizB) | 3:04 |
 | 100 | [Better Off High](https://open.spotify.com/track/08iVl7NDnT63Xf1zqokboz) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:30 |
 
-Snapshot ID: `MCxmMDI4NTNmNjc5ZThlNWRiMjIwNjYxNmNkZDE5ZjgxYTY4NDBiNWYx`
+Snapshot ID: `MCwyNWFlZGJlNTE5M2YzOThmM2IzZmEwMjM2OTVkYTY2MThhNTMxMmEz`

@@ -4,7 +4,7 @@
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films\. 代表作「進撃の巨人」シリーズ劇伴をはじめ、数々の名曲を世界に送り出している音楽家。SawanoHiroyuki\[nZk\]名義でも精力的に活動中。
 
-145 songs - 9 hr 52 min
+146 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [kIng](https://open.spotify.com/track/11lbUUMW8T5MFpHTYLulmg) | [Emiko Suzuki](https://open.spotify.com/artist/76epfImetf9M3joFnNTrlJ) | [kIng](https://open.spotify.com/album/05KfSFZpuYmktTahDYnjbZ) | 3:50 | 2022-06-07 |  |
 | [KINGDOM \- DUE](https://open.spotify.com/track/5qjXGfAvkOag8kJ6dVdofc) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「キングダム」 \-合従軍編\- Original Sound Track](https://open.spotify.com/album/4pikDrig4sbyY3av3PNGmY) | 4:20 | 2022-06-07 |  |
 | [LEMONADE](https://open.spotify.com/track/5q6dJYjSfbG3hWjB2r5bTa) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [XAI](https://open.spotify.com/artist/2r3DAIz6afSzxVnM1Rzj3N) | [LEMONADE](https://open.spotify.com/album/0pNEUlmHs3A3xvBY99kStQ) | 2:48 | 2022-12-20 |  |
+| [LEveL](https://open.spotify.com/track/0Zp9WOkXX8xZS8QOhtdQ5k) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [LEveL](https://open.spotify.com/album/5ZEZ8rAsHVUoPqA5a5ZZcL) | 3:00 | 2024-01-06 |  |
 | [ME & CREED <nZkv>](https://open.spotify.com/track/4TUMn1MyfbGKEH3SOQis4T) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [R∃/MEMBER](https://open.spotify.com/album/34UE0ATLRzLTX2hytQnzu0) | 3:26 | 2022-06-21 |  |
 | [ME & CREED <nZkv>](https://open.spotify.com/track/6MXCJwgxBt991xQt2kC9Dw) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [R∃/MEMBER](https://open.spotify.com/album/77GtJJcdtbg254QMEvQfNr) | 3:26 | 2022-06-07 | 2022-07-29 |
 | [Möbius](https://open.spotify.com/track/2Zamj985QrDpk6kRmG6qKt) | [mpi](https://open.spotify.com/artist/0udboBeiQhCskhYBLMbx9K), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd), [Benjamin](https://open.spotify.com/artist/6NpRVuWkG3A8POwwyWlxkx), [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [機動戦士ガンダム 閃光のハサウェイ オリジナル・サウンドトラック](https://open.spotify.com/album/5bVzjURZmf52VarMPyFF43) | 3:53 | 2022-06-07 | 2022-07-29 |

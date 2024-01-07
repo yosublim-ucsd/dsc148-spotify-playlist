@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 
 > Drift away with enthralling instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 636,383 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 636,407 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,14 +31,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 21 | [Our Powers](https://open.spotify.com/track/1CbxWhH2cl3PXf0Re0TkZD) | [Ramel Alloy](https://open.spotify.com/artist/6cpOQo8qfc2RKZRRvZ5Hkc) | [Our Powers](https://open.spotify.com/album/436sBZ537kyua9vyTdZMQ6) | 2:36 |
 | 22 | [Gleam](https://open.spotify.com/track/7oA6HCPv6DK944HwoKB7fN) | [Aiden Gaarder](https://open.spotify.com/artist/5Ke2xVrUo5hNYxTp5fx5XS) | [Reflections](https://open.spotify.com/album/25SUYXz9bAwVFt4BZ5my5B) | 3:46 |
 | 23 | [Chapters](https://open.spotify.com/track/0vXj9LXojFSwXXKkSjzuNB) | [Zen Wuan](https://open.spotify.com/artist/214ZCbh6xfCOu7LunRBdBY) | [Yoga Meditation](https://open.spotify.com/album/3Ef1x3Iy3qS8fAXFTGBDdo) | 2:43 |
-| 24 | [A brand new day](https://open.spotify.com/track/5ixqBWnkYkXr6VDWq3fxM0) | [Rainbow Rise](https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd) | [A brand new day](https://open.spotify.com/album/13KQj6JkW1CD8uvUeiIfU6) | 2:55 |
-| 25 | [Even Silence](https://open.spotify.com/track/13UDiSFsM5AmnAvMZqK61r) | [Sadia Leys](https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK) | [Even Silence](https://open.spotify.com/album/5AOSpri4QnbpLT0aTVvBcj) | 2:20 |
+| 24 | [Even Silence](https://open.spotify.com/track/13UDiSFsM5AmnAvMZqK61r) | [Sadia Leys](https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK) | [Even Silence](https://open.spotify.com/album/5AOSpri4QnbpLT0aTVvBcj) | 2:20 |
+| 25 | [A brand new day](https://open.spotify.com/track/5ixqBWnkYkXr6VDWq3fxM0) | [Rainbow Rise](https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd) | [A brand new day](https://open.spotify.com/album/13KQj6JkW1CD8uvUeiIfU6) | 2:55 |
 | 26 | [Morgongåva](https://open.spotify.com/track/0A5sKduEa9fPbluRBWMwNb) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Morgongåva](https://open.spotify.com/album/4y1mxc7piaWoZ6aSLmcRRP) | 2:46 |
 | 27 | [Intrinsic Silence](https://open.spotify.com/track/1io6Gt0Vb9cpmRcNwoA4eE) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Intrinsic Silence](https://open.spotify.com/album/2mEo8AqAkefEdUT5G4VP03) | 2:44 |
 | 28 | [You're Filled With Courage](https://open.spotify.com/track/1yXCViJlRh40uDDaA3xOl0) | [Geneviève Corin](https://open.spotify.com/artist/2OZcj5SwwY93YZWnNdzD38) | [You're Filled With Courage](https://open.spotify.com/album/3lkh1bioKa9l6mBFgqm2Y2) | 2:37 |
 | 29 | [Upwards](https://open.spotify.com/track/044ltj4MTVLeCHXQZX1lFO) | [Aiyden](https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD) | [Upwards](https://open.spotify.com/album/4XWS0IIopEkOgR6O7mO9Xw) | 3:10 |
-| 30 | [Jubran's Lake \(432hz\) \- No Ambience](https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Jubran's Lake \(432hz\)](https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb) | 4:00 |
-| 31 | [We Are Forever](https://open.spotify.com/track/1cywl9rjzChQpwqbYi26Pp) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI) | 2:14 |
+| 30 | [We Are Forever](https://open.spotify.com/track/1cywl9rjzChQpwqbYi26Pp) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI) | 2:14 |
+| 31 | [Jubran's Lake \(432hz\) \- No Ambience](https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Jubran's Lake \(432hz\)](https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb) | 4:00 |
 | 32 | [Nebulae](https://open.spotify.com/track/7nbFzKcMFQETEjOYWiAOhc) | [Bayesian](https://open.spotify.com/artist/5ebRLrbXM24DFqfrCuBjB8) | [Nebulae](https://open.spotify.com/album/2Z7IBmw0mk0FQQGauqCXbz) | 2:42 |
 | 33 | [Unendlich](https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V) | [Nils Schreiber](https://open.spotify.com/artist/5zHYiEFPo9FOLO2tRvXNxl) | [Ich Wünsche](https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA) | 2:59 |
 | 34 | [Sphere](https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK) | [Osterous](https://open.spotify.com/artist/5hWATAqtCxxnFEVmU268YR) | [Sphere](https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m) | 3:15 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 39 | [Such Owls As You](https://open.spotify.com/track/3EIrbAYM18GhcimENnuO91) | [Brambles](https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX) | [Charcoal](https://open.spotify.com/album/6wIw0on4JGm2gdtfSs0h9f) | 5:29 |
 | 40 | [Sweven](https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Sweven](https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS) | 3:13 |
 | 41 | [Eventide](https://open.spotify.com/track/7szRAnIxz9i8lV83LdrDAm) | [Michael Hoppé](https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK) | [The Unforgetting Heart](https://open.spotify.com/album/2VJzpfkWxjCDkBEaoALdEG) | 4:31 |
-| 42 | [Prism](https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Amor Omnia](https://open.spotify.com/artist/3xZqDWMopPwRTofjFUWBqu) | [Prism](https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL) | 2:52 |
-| 43 | [Long Time Gone](https://open.spotify.com/track/2ttiWUOOJeaPDsKrQlHnhJ) | [Viro Marix](https://open.spotify.com/artist/0dSIbheAKaFJ9K2TxRJ3vv) | [Long Time Gone](https://open.spotify.com/album/66cbRBo9HSrZJjIzTGWYOM) | 2:33 |
+| 42 | [Long Time Gone](https://open.spotify.com/track/2ttiWUOOJeaPDsKrQlHnhJ) | [Viro Marix](https://open.spotify.com/artist/0dSIbheAKaFJ9K2TxRJ3vv) | [Long Time Gone](https://open.spotify.com/album/66cbRBo9HSrZJjIzTGWYOM) | 2:33 |
+| 43 | [Prism](https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Amor Omnia](https://open.spotify.com/artist/3xZqDWMopPwRTofjFUWBqu) | [Prism](https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL) | 2:52 |
 | 44 | [Takamatsu](https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS) | [Fahda Mohamed](https://open.spotify.com/artist/4VfWZbve2pnVwUYQ11EdU4) | [Arrivals](https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz) | 3:08 |
 | 45 | [Deep Thoughts](https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH) | [Danny Shamoun](https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F) | [Deep Thoughts](https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI) | 3:12 |
 | 46 | [Lumiere](https://open.spotify.com/track/3hwdOeUfiDpXZi7hNzM1Ho) | [Deep Vibrations](https://open.spotify.com/artist/3qtgkLExW6jtJ0UeGTevy3) | [Lumiere](https://open.spotify.com/album/1EHS63JLrpttlvWRdSvQE3) | 2:48 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 70 | [Headroom](https://open.spotify.com/track/0ZyO8ieWV63JiMAguidMHs) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [The Acoustic Mind \- Vol\. 1](https://open.spotify.com/album/6xfqxYJsi4o5tShTm2u466) | 2:52 |
 | 71 | [Backwaters](https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Inch Of You](https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ) | 2:27 |
 | 72 | [Behind Your Eyes](https://open.spotify.com/track/20zqqXhSfIHp8mMrjmzDUX) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Behind Your Eyes](https://open.spotify.com/album/3LDJc1oFquIFUg7Q8v2aWh) | 3:17 |
-| 73 | [Dreams of Mercury](https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o) | [Chim Suri](https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg) | [Dreams of Mercury](https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL) | 3:12 |
-| 74 | [Time Capsule](https://open.spotify.com/track/3vYoj6aREguuAjgWJFfT0W) | [Moments Of Divinity](https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V) | [Time Capsule](https://open.spotify.com/album/4JvMEILGisttB0x54aXoSZ) | 2:09 |
+| 73 | [Time Capsule](https://open.spotify.com/track/3vYoj6aREguuAjgWJFfT0W) | [Moments Of Divinity](https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V) | [Time Capsule](https://open.spotify.com/album/4JvMEILGisttB0x54aXoSZ) | 2:09 |
+| 74 | [Dreams of Mercury](https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o) | [Chim Suri](https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg) | [Dreams of Mercury](https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL) | 3:12 |
 | 75 | [Lumineux](https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz) | [Alice Rolande](https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC) | [Lumineux](https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt) | 3:37 |
 | 76 | [Sunny & Cloudy](https://open.spotify.com/track/26lZ3W0igUyTsLdXVFPcf0) | [Hans Wolfgang Ziegler](https://open.spotify.com/artist/66wCtsoRnWiSmoHSvXPK5m) | [The Seasons](https://open.spotify.com/album/5N9ne8TG9Zi6tTn861vTgF) | 2:17 |
 | 77 | [Raising Life](https://open.spotify.com/track/3G0zjnMRZjcjdrlK1dADUz) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA), [Max Schrammel](https://open.spotify.com/artist/02urVxAvr1s1zcKdVaGjpg) | [Elementaries](https://open.spotify.com/album/2g6zhcNijAdGtozLJlYpAI) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 99 | [Affinity](https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a) | [FANAR](https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE) | [Affinity](https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt) | 2:52 |
 | 100 | [Morning Air](https://open.spotify.com/track/0Y6FUMPHer4pRCELNSLFx3) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Morning Air](https://open.spotify.com/album/02yUGBp8deAAU2DPXYs2yZ) | 2:38 |
 
-Snapshot ID: `MCwzMGU4NzZiNTcxZGY0Yjg3NTE3YjJiZTMzOWIxZTU0MzlkNWU2YjE0`
+Snapshot ID: `MCw2NzUyM2M1N2MxZTk0YjA5YmYwYzg2NmQ0NDVjYjJlOThlZmU4OTBh`

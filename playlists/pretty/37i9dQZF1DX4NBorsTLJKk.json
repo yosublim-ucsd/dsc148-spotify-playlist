@@ -1,12 +1,12 @@
 {
   "description": "\u5929\u7a7a\u7070\u7070\u7684\u3001\u5230\u8655\u6ebc\u6dcb\u6dcb\u7684\uff0c\u6211\u5011\u807d\u6b4c\u5c31\u597d\uff0c\u5148\u4e0d\u8981\u53bb\u611f\u89ba\u90a3\u4e9b\u4e8b\u3002",
-  "num_followers": 33290,
+  "num_followers": 33299,
   "original_name": "\u96e8\u4e2d\u65cb\u5f8b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzFhMDQwNTZkNGI5NzJhNGVlYzYzMTJjNzdjMWUxZGI1YjQ0Mjhk",
+  "snapshot_id": "MCxkN2EwYzNmMjRiNzk4NDI3ZjI5MDM0YTA1ZWUyMmQwMzI4YTA3MGMz",
   "tracks": [
     {
       "added_at": "2023-09-20 01:51:29",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "\u611b\u4e45\u898b\u4eba\u5fc3",
-        "url": "https://open.spotify.com/album/3nGoGGL3rO8nrrghIo3I0F"
-      },
-      "artists": [
-        {
-          "name": "Fish Leong",
-          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
-        }
-      ],
-      "duration_ms": 266106,
-      "name": "\u5076\u9663\u96e8",
-      "url": "https://open.spotify.com/track/7CGqTLkREqWW3ipRFbUvbB"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "\u4e00\u842c\u5c0f\u6642",
         "url": "https://open.spotify.com/album/571Mh6oowokeW1RIfqCmaz"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 286440,
       "name": "\u5169\u4eba\u96e8\u5929",
       "url": "https://open.spotify.com/track/3Y7mPzWHKsEKZNdqe4wjtu"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "\u611b\u4e45\u898b\u4eba\u5fc3",
+        "url": "https://open.spotify.com/album/3nGoGGL3rO8nrrghIo3I0F"
+      },
+      "artists": [
+        {
+          "name": "Fish Leong",
+          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
+        }
+      ],
+      "duration_ms": 266106,
+      "name": "\u5076\u9663\u96e8",
+      "url": "https://open.spotify.com/track/7CGqTLkREqWW3ipRFbUvbB"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "\u4e0b\u96e8\u7684\u665a\u4e0a",
-        "url": "https://open.spotify.com/album/4zHBCvRy2ZJRmT25RCXAeS"
-      },
-      "artists": [
-        {
-          "name": "Dadado Huang",
-          "url": "https://open.spotify.com/artist/3C8yUWotyLh2Kjkood3xYN"
-        }
-      ],
-      "duration_ms": 294729,
-      "name": "\u4e0b\u96e8\u7684\u665a\u4e0a",
-      "url": "https://open.spotify.com/track/65o7zOY79D5vqOJJNm1l3T"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "\u6642\u9593\u7684\u6b4c",
         "url": "https://open.spotify.com/album/1PwlSiulaL511Us6sayLeO"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 289524,
       "name": "\u96e8\u6c34\u4e00\u76d2",
       "url": "https://open.spotify.com/track/3AQfK1Kx03oPmFoKoVMJJE"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "\u4e0b\u96e8\u7684\u665a\u4e0a",
+        "url": "https://open.spotify.com/album/4zHBCvRy2ZJRmT25RCXAeS"
+      },
+      "artists": [
+        {
+          "name": "Dadado Huang",
+          "url": "https://open.spotify.com/artist/3C8yUWotyLh2Kjkood3xYN"
+        }
+      ],
+      "duration_ms": 294729,
+      "name": "\u4e0b\u96e8\u7684\u665a\u4e0a",
+      "url": "https://open.spotify.com/track/65o7zOY79D5vqOJJNm1l3T"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
+        "name": "\u91d1\u667a\u5a1f\u7d93\u5178\u91cd\u751f\u8f2f",
+        "url": "https://open.spotify.com/album/1HaU6ost9P8XkC9D6wXNBC"
+      },
+      "artists": [
+        {
+          "name": "\u5a03\u5a03",
+          "url": "https://open.spotify.com/artist/6S8MrxRafKB4y6qUz8xKCg"
+        }
+      ],
+      "duration_ms": 289226,
+      "name": "\u5927\u96e8",
+      "url": "https://open.spotify.com/track/2U2wahaZnYyExiJkpgHmU1"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
         "name": "\u4eba\u5728\u98a8\u96e8\u4e2d",
         "url": "https://open.spotify.com/album/0K3iozUW87nXOIRQAxOSHU"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 247164,
       "name": "\u5927\u96e8\u904e\u5f8c",
       "url": "https://open.spotify.com/track/6x0lsSLEaMb3LhoLBEK97h"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
-        "name": "\u91d1\u667a\u5a1f\u7d93\u5178\u91cd\u751f\u8f2f",
-        "url": "https://open.spotify.com/album/1HaU6ost9P8XkC9D6wXNBC"
-      },
-      "artists": [
-        {
-          "name": "\u5a03\u5a03",
-          "url": "https://open.spotify.com/artist/6S8MrxRafKB4y6qUz8xKCg"
-        }
-      ],
-      "duration_ms": 289226,
-      "name": "\u5927\u96e8",
-      "url": "https://open.spotify.com/track/2U2wahaZnYyExiJkpgHmU1"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "\u5c0f\u4e11/\u82f1\u96c4",
-        "url": "https://open.spotify.com/album/5aAAO9mFJV5Y9BWhquOcHY"
-      },
-      "artists": [
-        {
-          "name": "\u5f35\u5091",
-          "url": "https://open.spotify.com/artist/1HqyRvEnqddArUHn00V1db"
-        }
-      ],
-      "duration_ms": 275880,
-      "name": "\u4e0b\u96e8\u5929",
-      "url": "https://open.spotify.com/track/5iHMbxkuqPnd9iT0LNqP8V"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "\u96e2\u5fc3\u529b",
         "url": "https://open.spotify.com/album/2vRlV60YuFsgnMuvwrwyco"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 179990,
       "name": "\u6fd5\u4e86\uff0c\u5c31\u4e0d\u6015\u6703\u4e0b\u96e8",
       "url": "https://open.spotify.com/track/4raq39Uzg89n9zPEVlmqjx"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "\u5c0f\u4e11/\u82f1\u96c4",
+        "url": "https://open.spotify.com/album/5aAAO9mFJV5Y9BWhquOcHY"
+      },
+      "artists": [
+        {
+          "name": "\u5f35\u5091",
+          "url": "https://open.spotify.com/artist/1HqyRvEnqddArUHn00V1db"
+        }
+      ],
+      "duration_ms": 275880,
+      "name": "\u4e0b\u96e8\u5929",
+      "url": "https://open.spotify.com/track/5iHMbxkuqPnd9iT0LNqP8V"
     },
     {
       "added_at": "2023-09-20 01:51:29",

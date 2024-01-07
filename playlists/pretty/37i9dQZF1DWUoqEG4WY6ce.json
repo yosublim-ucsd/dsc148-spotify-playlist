@@ -1,12 +1,12 @@
 {
   "description": "Hop in.",
-  "num_followers": 1062745,
+  "num_followers": 1062884,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmU3ZDAyYjkxNWFmMGUzNjVhMTEyZWJhZDFlOTk5ZmRiMDllNzlk",
+  "snapshot_id": "MCxmY2MyMTY5NmJhMTE0ZGQxNTc5ZTQ5ZmY0MDUwNjVhZGM5YTgwYjg1",
   "tracks": [
     {
       "added_at": "2023-12-18 19:12:30",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
-        "name": "Tourist History",
-        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 191706,
-      "name": "What You Know",
-      "url": "https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
         "name": "Oracular Spectacular",
         "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 261000,
       "name": "Time to Pretend",
       "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
+        "name": "Tourist History",
+        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 191706,
+      "name": "What You Know",
+      "url": "https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA"
     },
     {
       "added_at": "2023-12-18 19:12:30",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
-        "name": "Fever To Tell (Deluxe Remastered)",
-        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
       "artists": [
         {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 219986,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
+      "duration_ms": 191800,
+      "name": "Howlin' for You",
+      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
     },
     {
       "added_at": "2023-12-18 19:12:30",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
       },
       "artists": [
         {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 191800,
-      "name": "Howlin' for You",
-      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
+      "duration_ms": 219986,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
     },
     {
       "added_at": "2023-12-18 19:12:30",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/6ppF24fU5pqbPrPuK5zVnS"
-      },
-      "artists": [
-        {
-          "name": "Franz Ferdinand",
-          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
-        }
-      ],
-      "duration_ms": 223786,
-      "name": "No You Girls",
-      "url": "https://open.spotify.com/track/4VP8QiCeaZq8BeTIUrMQOG"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
         "name": "And The War Came",
         "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 212800,
       "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
       "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6ppF24fU5pqbPrPuK5zVnS"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 223786,
+      "name": "No You Girls",
+      "url": "https://open.spotify.com/track/4VP8QiCeaZq8BeTIUrMQOG"
     },
     {
       "added_at": "2023-12-18 19:12:30",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
-        "name": "Nighttiming",
-        "url": "https://open.spotify.com/album/4FeD2BdcaGX75b5X1gvvsg"
-      },
-      "artists": [
-        {
-          "name": "Coconut Records",
-          "url": "https://open.spotify.com/artist/2YKp8Odp8GGbAkVU60Yk2Y"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "West Coast",
-      "url": "https://open.spotify.com/track/2nvZv4qatgsDIbEqqbQLUT"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
         "name": "Heza",
         "url": "https://open.spotify.com/album/0LLfUIR0CcQX2YqlqiyJ1V"
       },
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
+        "name": "Nighttiming",
+        "url": "https://open.spotify.com/album/4FeD2BdcaGX75b5X1gvvsg"
+      },
+      "artists": [
+        {
+          "name": "Coconut Records",
+          "url": "https://open.spotify.com/artist/2YKp8Odp8GGbAkVU60Yk2Y"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "West Coast",
+      "url": "https://open.spotify.com/track/2nvZv4qatgsDIbEqqbQLUT"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
         "name": "Broken Bells",
         "url": "https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx"
       },
@@ -1211,70 +1211,6 @@
       "duration_ms": 198040,
       "name": "The Ghost Inside",
       "url": "https://open.spotify.com/track/32fmQsWSAaDas2MJRyMSGG"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
-        "name": "Light Upon the Lake",
-        "url": "https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 237973,
-      "name": "No Woman",
-      "url": "https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/7KMiuupbbjzq7tzwCC0rhc"
-      },
-      "artists": [
-        {
-          "name": "Rogue Wave",
-          "url": "https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG"
-        }
-      ],
-      "duration_ms": 148866,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/1a9czdo8IX5InOiSOg6xpv"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
-        "name": "Landmark",
-        "url": "https://open.spotify.com/album/0vb1g018puu47StlIi9wxC"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 245456,
-      "name": "Way It Goes",
-      "url": "https://open.spotify.com/track/6CES1554HcWMIVroJfmmBm"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
-        "name": "Sylvan Esso",
-        "url": "https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL"
-      },
-      "artists": [
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 268213,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/30GGIrrJdSNtecPiFcVP5O"
     },
     {
       "added_at": "2023-12-18 19:12:30",
@@ -1307,6 +1243,70 @@
       "duration_ms": 183894,
       "name": "Paul - 2023 Remaster",
       "url": "https://open.spotify.com/track/5CBqLg9XdeEHcknJX0fZIJ"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/7KMiuupbbjzq7tzwCC0rhc"
+      },
+      "artists": [
+        {
+          "name": "Rogue Wave",
+          "url": "https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG"
+        }
+      ],
+      "duration_ms": 148866,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/1a9czdo8IX5InOiSOg6xpv"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
+        "name": "Light Upon the Lake",
+        "url": "https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 237973,
+      "name": "No Woman",
+      "url": "https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
+        "name": "Landmark",
+        "url": "https://open.spotify.com/album/0vb1g018puu47StlIi9wxC"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 245456,
+      "name": "Way It Goes",
+      "url": "https://open.spotify.com/track/6CES1554HcWMIVroJfmmBm"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
+        "name": "Sylvan Esso",
+        "url": "https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL"
+      },
+      "artists": [
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "duration_ms": 268213,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/30GGIrrJdSNtecPiFcVP5O"
     },
     {
       "added_at": "2023-12-18 19:12:30",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 196317,
+      "name": "Sofa King",
+      "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
         "name": "Days Are Gone",
         "url": "https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 179973,
       "name": "Salute Your Solution",
       "url": "https://open.spotify.com/track/4I3573QbRpER4HPzyFSFJa"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
-        "name": "Sofa Kings",
-        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 196317,
-      "name": "Sofa King",
-      "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
     },
     {
       "added_at": "2023-12-18 19:12:30",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
-        "name": "Nathaniel Rateliff & The Night Sweats",
-        "url": "https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "I Need Never Get Old",
-      "url": "https://open.spotify.com/track/6YfEvtwpQwGAWZBWzNmoIw"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
         "name": "Crushing",
         "url": "https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 182306,
       "name": "Pressure To Party",
       "url": "https://open.spotify.com/track/480rD34KfGbMaT0L6zjeIu"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
+        "name": "Nathaniel Rateliff & The Night Sweats",
+        "url": "https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "I Need Never Get Old",
+      "url": "https://open.spotify.com/track/6YfEvtwpQwGAWZBWzNmoIw"
     },
     {
       "added_at": "2023-12-18 19:12:30",

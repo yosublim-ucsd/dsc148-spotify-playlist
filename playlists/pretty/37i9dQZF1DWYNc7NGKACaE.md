@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,637 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,680 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 13 | [Deixa Escondido \(Speed\) \- Remix](https://open.spotify.com/track/3yH9JvETN22IB1KDEMBv7Y) | [Vitux](https://open.spotify.com/artist/53uZ1yBIdMXGoGIJlVab5t) | [Deixa Escondido \(Speed\) \[Remix\]](https://open.spotify.com/album/1205QRpQV4bEJw6YsShzkh) | 2:31 |
 | 14 | [SIMPLESMENTE ELA, NÃO CONSIGO VIVER LONGE](https://open.spotify.com/track/4vZ0z3T7VLK0cAmytlaL7j) | [Funk SÉRIE GOLD](https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n) | [SIMPLESMENTE ELA, NÃO CONSIGO VIVER LONGE](https://open.spotify.com/album/3usDkrN06OZGhSRPB3bwnG) | 2:33 |
 | 15 | [Brotei No Baile Da Matinha \- Tiktok](https://open.spotify.com/track/5kMfOzYm4xE5zdt2cH2rFy) | [BR DA TIJUCA](https://open.spotify.com/artist/7KEk6kxe9YqyuVg9QeMVNQ), [Dj Cabelão Do Turano](https://open.spotify.com/artist/06E0qNGr33u2Dlxy21C3Rb), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Brotei No Baile Da Matinha \(Tiktok\)](https://open.spotify.com/album/4K63K2sdjaW6ySiaynrEGo) | 1:46 |
-| 16 | [HOJE ELA PEDE PANDORA \- Speed UP](https://open.spotify.com/track/2c7sA8ePcA4AvoBdWBoSyE) | [Sujiro Kimimami](https://open.spotify.com/artist/2nqx2yufaBmTkQyQJtNBrR), [SUPER XANDÃO](https://open.spotify.com/artist/3uhZu06g8d2N7gMIHDGgSP) | [HOJE ELA PEDE PANDORA \(Speed UP\)](https://open.spotify.com/album/7GRLhqWvMLlGeI504mVAmF) | 3:22 |
-| 17 | [Subzero \(Speed Plug\)](https://open.spotify.com/track/7nRkeXa1Kn63CV1WmVxttB) | [Caeljugz](https://open.spotify.com/artist/70QYj3IRKyvbr7xZcpzkZw) | [Subzero \(Speed Plug\)](https://open.spotify.com/album/44mblZRV7Zfkd4NJXO58dI) | 2:05 |
+| 16 | [Subzero \(Speed Plug\)](https://open.spotify.com/track/7nRkeXa1Kn63CV1WmVxttB) | [Caeljugz](https://open.spotify.com/artist/70QYj3IRKyvbr7xZcpzkZw) | [Subzero \(Speed Plug\)](https://open.spotify.com/album/44mblZRV7Zfkd4NJXO58dI) | 2:05 |
+| 17 | [HOJE ELA PEDE PANDORA \- Speed UP](https://open.spotify.com/track/2c7sA8ePcA4AvoBdWBoSyE) | [Sujiro Kimimami](https://open.spotify.com/artist/2nqx2yufaBmTkQyQJtNBrR), [SUPER XANDÃO](https://open.spotify.com/artist/3uhZu06g8d2N7gMIHDGgSP) | [HOJE ELA PEDE PANDORA \(Speed UP\)](https://open.spotify.com/album/7GRLhqWvMLlGeI504mVAmF) | 3:22 |
 | 18 | [Put0 & Cheiroso \(Speed Plug\)](https://open.spotify.com/track/4A8qiMlkmXJDo9D8G3coYr) | [Jvcriaa](https://open.spotify.com/artist/0vu0cYjf77leIXg2xaj6uG), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx), [ProdbySnow](https://open.spotify.com/artist/2u1iQQ4ZbVvPEwhpWVExUe), [Denzelthreal](https://open.spotify.com/artist/1CZmKC8jyRLzsDmYuCw850), [Oficialtalim](https://open.spotify.com/artist/48NAhXDturv64ONhQZpkAM) | [Put0 & Cheiroso \(Speed Plug\)](https://open.spotify.com/album/2ybG6TaxLTpdxlD3iKSE1D) | 2:39 |
 | 19 | [Plug! \(Speed Plug\)](https://open.spotify.com/track/3LZIqLS8BfUZp9T1k39IZb) | [Muzzi](https://open.spotify.com/artist/6J9B0QuNm4QTuyjsHveigy), [Edubeatz](https://open.spotify.com/artist/1uAxRk8YHpAKbwCG2xNlf8) | [Plug! \(Speed Plug\)](https://open.spotify.com/album/16zg9fzXtFEqb0q0367yxd) | 1:42 |
 | 20 | [Karma \- Speed](https://open.spotify.com/track/1cX47FI8Fasq3pY6p6kXV4) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [fallkee](https://open.spotify.com/artist/6Hchz4vXMjAxlkpjiwQC4o), [Dougb](https://open.spotify.com/artist/74FaA4BR2SefBgRTPa8jJh) | [Karma](https://open.spotify.com/album/28Ie3Vq0wTIfjnrfrHsFS6) | 2:00 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 65 | [Peça \- Speed](https://open.spotify.com/track/5IpBsqWPLu7PEeT2nwc8gV) | [soiff](https://open.spotify.com/artist/1WDWki77tJepD82NpS4xIk), [uhENZX](https://open.spotify.com/artist/52fAfxMuT0da9zgXHlixmz) | [Peça](https://open.spotify.com/album/7E3g8qsgfOfCeLkipm0PSt) | 2:15 |
 | 66 | [Tipo Naldo \- Speed Up](https://open.spotify.com/track/2qtBBIFce6oCciYrb84Mgh) | [tiaresz](https://open.spotify.com/artist/4v6LpdfGfBSAdeVdBgUasP), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Tipo Naldo](https://open.spotify.com/album/02ZI31XkyjAi7w9zANAUMQ) | 2:18 |
 
-Snapshot ID: `MCxlN2JjYTIxYjJjNjU2MGRlMmFkN2RhMjZjN2M0ODI4NzkzMDUyYzc2`
+Snapshot ID: `MCwyMTYxMGNlMDk5ZjFkYjJhYjg4M2QyZDhlNzcxMzk3OTg5YTk5OTk0`

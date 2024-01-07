@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 
 > Late night cool and the sound of smooth blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,220 likes - 80 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,331 likes - 80 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 15 | [Lenny](https://open.spotify.com/track/1MIDCw2NTW3Dtn9c6ohSC8) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 4:57 |
 | 16 | [As The Years Go Passing By](https://open.spotify.com/track/2NdRldi1OaTHDdTOnTS1Z8) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [I Hear Some Blues Downstairs](https://open.spotify.com/album/7CkWl64PEkQmkzr04Nnda3) | 4:48 |
 | 17 | [Ghetto Woman](https://open.spotify.com/track/3XEQc61AX64t3X4dQvtU2s) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [In London](https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78) | 5:13 |
-| 18 | [Help Me Through The Day](https://open.spotify.com/track/70b5CmxmkftPHqnnzy7H9G) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Woman Across The River](https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs) | 4:30 |
-| 19 | [Blues Prisoner](https://open.spotify.com/track/45i73H5FvrR0jbwvG8mVSS) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165) | [Tommy Castro Presents A Bluesman Came To Town](https://open.spotify.com/album/5GDDpef4syUsjIiZ03Byj8) | 5:16 |
+| 18 | [Blues Prisoner](https://open.spotify.com/track/45i73H5FvrR0jbwvG8mVSS) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165) | [Tommy Castro Presents A Bluesman Came To Town](https://open.spotify.com/album/5GDDpef4syUsjIiZ03Byj8) | 5:16 |
+| 19 | [Help Me Through The Day](https://open.spotify.com/track/70b5CmxmkftPHqnnzy7H9G) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Woman Across The River](https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs) | 4:30 |
 | 20 | [How Long Blues](https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 5:17 |
 | 21 | [That's Why I Play the Blues](https://open.spotify.com/track/3wOblrCpqJoMd38NW9qF8i) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Power of the Blues](https://open.spotify.com/album/6IDAk9jqeYwhL1mYEjcRnr) | 4:04 |
 | 22 | [Struggle for Grace](https://open.spotify.com/track/4HmUiFK5bCcKR188c63FIJ) | [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [My Blues Pathway](https://open.spotify.com/album/0zCpvm0o4ZWiBPDDW9Laxz) | 5:13 |
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 45 | [Love Letter To The Blues \- Bonus Track](https://open.spotify.com/track/3i7fHXcG7apdpiemYYPP1J) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [Connor Selby \(Deluxe Edition\)](https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU) | 4:53 |
 | 46 | [Teardrops](https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Good Luck Man](https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs) | 7:08 |
 | 47 | [One Room Country Shack](https://open.spotify.com/track/1oG6p5Ue73whPJODUWTuCe) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [As Good As It Gets](https://open.spotify.com/album/49L5Gul5usm0h5SqS39ovJ) | 5:38 |
-| 48 | [Don't Worry](https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C) | [James Cooke](https://open.spotify.com/artist/3VokpYFCjGr97pLl2RVd9U) | [Put In a Little Time](https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt) | 4:40 |
-| 49 | [That Evening Train \- Remastered 2022](https://open.spotify.com/track/59gxXjmfLDjSgNuauNmIVl) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Stormy Monday Blues \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC) | 3:06 |
-| 50 | [Black Angel Blues](https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD) | [Robert Nighthawk](https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG) | [Presenting Robert Nighthawk](https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS) | 3:04 |
-| 51 | [Luther's Blues](https://open.spotify.com/track/0GvTuG8uhF45s8yT3aYPH4) | [Luther Allison](https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv) | [The Motown Years 1972\-1976](https://open.spotify.com/album/5b1RrcADU8Ziwyz6ViTGpW) | 6:20 |
+| 48 | [Black Angel Blues](https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD) | [Robert Nighthawk](https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG) | [Presenting Robert Nighthawk](https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS) | 3:04 |
+| 49 | [Don't Worry](https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C) | [James Cooke](https://open.spotify.com/artist/3VokpYFCjGr97pLl2RVd9U) | [Put In a Little Time](https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt) | 4:40 |
+| 50 | [Luther's Blues](https://open.spotify.com/track/0GvTuG8uhF45s8yT3aYPH4) | [Luther Allison](https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv) | [The Motown Years 1972\-1976](https://open.spotify.com/album/5b1RrcADU8Ziwyz6ViTGpW) | 6:20 |
+| 51 | [That Evening Train \- Remastered 2022](https://open.spotify.com/track/59gxXjmfLDjSgNuauNmIVl) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Stormy Monday Blues \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC) | 3:06 |
 | 52 | [Heartbreak Hotel](https://open.spotify.com/track/04pD7a7jfQjpQDsP3VgYDy) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Bad Mouthin'](https://open.spotify.com/album/3ZChLxUW5NBs5h4c49OMUF) | 3:43 |
 | 53 | [Blue Midnight](https://open.spotify.com/track/7rDrwxr6IZNpBtsVoUToEd) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:24 |
 | 54 | [Mama Roux](https://open.spotify.com/track/2J9x0DWR1kDyRZBPWKKT0Q) | [Matthis Pascaud](https://open.spotify.com/artist/1qn5qnZBihsurzBW3YrMTp), [Hugh Coltman](https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ) | [Mama Roux](https://open.spotify.com/album/4mVyWlC7YuwWmHeUUSj9s5) | 4:40 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 59 | [The Dream \- Remastered](https://open.spotify.com/track/0yBzzceMXi6VMMXGJDqY9A) | [Albert Collins, Robert Cray and Johnny Copeland](https://open.spotify.com/artist/6yIudV1nOQDnw69bKR0QMG) | [Alligator Records 50 Years Of Genuine Houserockin' Music](https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0) | 5:31 |
 | 60 | [Hoodoo Man](https://open.spotify.com/track/5S06MjT5dOy7nLDmHqnqic) | [Errol Linton](https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW) | [Packing My Bags](https://open.spotify.com/album/6os5LkCeAmF2N1XalMURcb) | 4:54 |
 | 61 | [Wednesday Evenin' Blues](https://open.spotify.com/track/3tXhd4rrp98AeFXsChONXB) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [That's My Story](https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE) | 3:34 |
-| 62 | [Sweet Little Angel](https://open.spotify.com/track/14DtWZA10VU7PZLxM5vO6g) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz) | 5:30 |
-| 63 | [Here in the Delta](https://open.spotify.com/track/22NkmcMj57GSMBmi6eh7mi) | [Jose Ramirez](https://open.spotify.com/artist/5yuQYWL6LV6EazqVr04jIm) | [Major League Blues](https://open.spotify.com/album/4yFvyxpUgLYqCrheI0HxxN) | 5:20 |
+| 62 | [Here in the Delta](https://open.spotify.com/track/22NkmcMj57GSMBmi6eh7mi) | [Jose Ramirez](https://open.spotify.com/artist/5yuQYWL6LV6EazqVr04jIm) | [Major League Blues](https://open.spotify.com/album/4yFvyxpUgLYqCrheI0HxxN) | 5:20 |
+| 63 | [Sweet Little Angel](https://open.spotify.com/track/14DtWZA10VU7PZLxM5vO6g) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz) | 5:30 |
 | 64 | [Black Night](https://open.spotify.com/track/62x4lrYu1t1D9SpbzuTvEF) | [Savoy Brown Blues Band](https://open.spotify.com/artist/0UGx1mwAGKLhE3yTFez6YP) | [Shake Down](https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb) | 4:52 |
 | 65 | [Another Night to Cry](https://open.spotify.com/track/49awu7g0tzOjAL2dygxYbC) | [Blue Moon Marquee](https://open.spotify.com/artist/6bVy3C1kw2FPWgpLcoBWk1), [Duke Robillard](https://open.spotify.com/artist/3SQa9cVuiUaZfao2KZiElA) | [Scream, Holler & Howl](https://open.spotify.com/album/2O4UtUWk424YdTbJbf4TmJ) | 5:53 |
 | 66 | [Wish Her Well](https://open.spotify.com/track/5vfgPEOY5GGJfZ7AnWAheB) | [Emma Wilson](https://open.spotify.com/artist/4BNyTaev3qfEqB2nyQrnm2) | [Wish Her Well](https://open.spotify.com/album/3omllPlq6CTSlr2DVzDW5c) | 4:23 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 79 | [Blues For Lonnie Johnson](https://open.spotify.com/track/16GxUULZcIsEiXGd3mOGaF) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Pure](https://open.spotify.com/album/7dVoh9G6j2gPTr3uLUJnFB) | 4:53 |
 | 80 | [Twenty\-Four Hours \- Digitally Remastered Version](https://open.spotify.com/track/1zdnfGx2EBPs6WBIAOqGjY) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Reflection \(Digitally Remastered Version\)](https://open.spotify.com/album/63rMIZKgABeXOmbnA7aSTR) | 7:27 |
 
-Snapshot ID: `MCw3ZGIyMGZlY2MxMjkwYTRjZGNkZmE5ODVmZDM4ZDExYjg4ODRlNTU5`
+Snapshot ID: `MCxhNmRlNjNkMjI2ZWQyZDllNTlhOTQyZGQ4Y2ViNWEwZTExZGUzNmJl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 당신을 위로하는 가사와 따뜻한 비트.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,381 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,378 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 33 | [If I Die Tomorrow](https://open.spotify.com/track/0XAjKGJBKFVfiG3XvGwIcH) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [2 4 : 2 6](https://open.spotify.com/album/7eaR08LzRS8EOKXBWMzaqV) | 4:17 |
 | 34 | [See you ! \(Feat\. SOLE\) \(Prod\. R.Tee\)](https://open.spotify.com/track/0XVzQQ8m7CHmc58TDMJuRj) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:45 |
 | 35 | [Lonely Night \(feat.GAEKO\)](https://open.spotify.com/track/7ftv3uigGigYVND065syjM) | [GARY](https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Lonely Night](https://open.spotify.com/album/1pLKSCkBrzd8Cwh2vK0DTf) | 3:37 |
-| 36 | [Future Boy](https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Future Boy](https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0) | 2:04 |
+| 36 | [Black Happiness](https://open.spotify.com/track/3gpwEXhh8o08MWQukS9bVz) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [t 3 YOONMIRAE](https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L) | 4:04 |
 | 37 | [Champagne](https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:06 |
-| 38 | [Black Happiness](https://open.spotify.com/track/3gpwEXhh8o08MWQukS9bVz) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [t 3 YOONMIRAE](https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L) | 4:04 |
+| 38 | [Future Boy](https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Future Boy](https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0) | 2:04 |
 | 39 | [Home Sh\*t Home \(Feat\. JINBO\)](https://open.spotify.com/track/2pdIj0UkQBu0eB0BMIoJcT) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [JINBO the SuperFreak](https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb) | [DARKROOM](https://open.spotify.com/album/3mbp7RgskfhBo8GO7FNyi6) | 3:29 |
 | 40 | [Sleepless \(feat\. Heize\)](https://open.spotify.com/track/3JsiJGVbCJM7cIb1YnlG96) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 3:05 |
 | 41 | [Pat Pat](https://open.spotify.com/track/6lejhkABV4Hns2v1ZJjPwJ) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [P.O](https://open.spotify.com/artist/6mTcXVXmCixpsVnYDUpCnY), [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Kang's Kitchen3](https://open.spotify.com/album/6I5jZ0dOJLoyyiPvYEtbst) | 3:02 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 46 | [iii \(Feat\. Basick, Kid Milli & Paloalto\) \(Prod\. CODE KUNST\)](https://open.spotify.com/track/6edZem9rKwPzzGe2IAmIiP) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Show Me The Money 9 Semi Final](https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V) | 3:55 |
 | 47 | [HELLP](https://open.spotify.com/track/2D3rC3VmUhf3fVZeRbAwcC) | [RYNO](https://open.spotify.com/artist/5rIOZ6g7qSlq60wITUUle2), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg) | [HELLP](https://open.spotify.com/album/1XV4Tae3eibi8dM3igtbgM) | 3:26 |
 | 48 | [Til I Die](https://open.spotify.com/track/0hAkJkaTMKEK5KEKAm0719) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [HALO](https://open.spotify.com/album/557aGJNY6gixheNKVOs8Mi) | 3:53 |
-| 49 | [HERE \(Prod\. by CODE KUNST\)](https://open.spotify.com/track/0CLJv5Pc0DZbuo78MqLyrG) | [Young Kay](https://open.spotify.com/artist/72F43xdiBUC3JmJ4kZbQye), [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [School Rapper3 Final](https://open.spotify.com/album/2BJzRehqZMKrajV0uRHzeU) | 3:49 |
-| 50 | [Stay Cool](https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Simon Dominic Presents \`SNL LEAGUE BEGINS\`](https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5) | 4:34 |
+| 49 | [Stay Cool](https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Simon Dominic Presents \`SNL LEAGUE BEGINS\`](https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5) | 4:34 |
+| 50 | [HERE \(Prod\. by CODE KUNST\)](https://open.spotify.com/track/0CLJv5Pc0DZbuo78MqLyrG) | [Young Kay](https://open.spotify.com/artist/72F43xdiBUC3JmJ4kZbQye), [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [School Rapper3 Final](https://open.spotify.com/album/2BJzRehqZMKrajV0uRHzeU) | 3:49 |
 
-Snapshot ID: `MCw1YzM4N2VjMjQ0ZTFhYzdlODlhMzY3ZTc1ZTBlZmRhZjg2Zjg0YzIw`
+Snapshot ID: `MCxkZjg0NWQxZTY5MTQyNmE0MTY2OWQ4NjYwNmUzMmU4MGZkYzUxNzA1`

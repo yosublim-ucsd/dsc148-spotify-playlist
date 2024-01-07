@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgtZZKiQlS2.md) - [plain]
 
 > The best of Detroit Blues
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,154 likes - 40 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,156 likes - 40 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgtZZKiQlS2.md) - [plain]
 | 39 | [It's Hard Going Up \(But Twice As Hard Coming Down\)](https://open.spotify.com/track/6DnKM8x0Ai0AyV7M2MOtwN) | [Little Sonny](https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX) | [Hard Goin' Up](https://open.spotify.com/album/6aLaVUMRalvPJ6bk1jj9Jo) | 3:54 |
 | 40 | [Orange Driver](https://open.spotify.com/track/0tFcLqJMik9ZhWne94mSYg) | [Eddie Burns](https://open.spotify.com/artist/02xaLTHeUgXhM3THo3y7BO), [Eddie Burns Blues Band](https://open.spotify.com/artist/0BZejzzjFxsvyPDyj3ItWF), [Eddie Burns, guitar, harmonica, vocal](https://open.spotify.com/artist/3pqSveCVLoTn3E03BYRW8i), [Joe Hunter, piano](https://open.spotify.com/artist/3ujZt3R1bUyY23qlV8UO2a), [Frank Bryant, bass](https://open.spotify.com/artist/5rEhGoeGEepz5Rn3NXzUB3), [Bobby Welch, drums](https://open.spotify.com/artist/5ipBht0WuuX2JRZRlNrTLp) | [Detroit](https://open.spotify.com/album/3Hh5V9WtEeHXIXeAoo2deI) | 4:26 |
 
-Snapshot ID: `MCwwY2ExYmE1ZDNiNGM5NjMzMTkzZTU0NDdkMGVhMDY4NWRjOWRjMGZh`
+Snapshot ID: `MCxiYjI0YjI3NjNiNTQ3NTdjNmFlZGZkYTRiZWEwMWY2OTA1M2QwYTQ4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 
 > Tu táta tu tatá..\. el beat de Brasil para el mundo\. Baile bonitoooo Foto: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,730 likes - 60 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,857 likes - 60 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 | 5 | [24/7 6.5](https://open.spotify.com/track/2wjzgkfw4MqYOtPAnREHoL) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [ONIRIA](https://open.spotify.com/artist/6mkRgafSHF30Dr2wEch4YU) | [EL AFTER DEL AFTER](https://open.spotify.com/album/4XDH5D7YsE7B8xuhIBDyht) | 2:17 |
 | 6 | [Rara Vez](https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR) | [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Rara Vez](https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF) | 2:08 |
 | 7 | [Eléctrica](https://open.spotify.com/track/63vtmiipQfllmqykpm6PyY) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Portales \(Deluxe Edition\)](https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU) | 3:12 |
-| 8 | [Joga Pra Lua](https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Joga Pra Lua](https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1) | 2:05 |
+| 8 | [Joga Pra Lua](https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [Joga Pra Lua](https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1) | 2:05 |
 | 9 | [Brinca](https://open.spotify.com/track/2T9GW5NdmBnz5ZlDkmMZZS) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Brinca](https://open.spotify.com/album/4jLqHMNoB6G1idIYYwrtgH) | 2:26 |
 | 10 | [Vida Bakana](https://open.spotify.com/track/1fGCLVsdnv9kuUrpBAj7Vg) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [Vida Bakana](https://open.spotify.com/album/3gWUdDpVvaLH1Bmof6Xdgo) | 2:51 |
 | 11 | [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 | 59 | [Nunca Estoy](https://open.spotify.com/track/5XPOltQwrzK8BNkdFA7msN) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Bien:\(](https://open.spotify.com/album/3Sat3hmUbXJdivRd9PIhrX) | 2:42 |
 | 60 | [MÁS](https://open.spotify.com/track/5iLWDsr5fABDTIQZT3Ts5g) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK) | [G LOVE 2](https://open.spotify.com/album/7euUENdmFe3U1pw8p6q38g) | 3:38 |
 
-Snapshot ID: `MCxkYmE0MWY3Y2VhNmJkYTYzMzVmOWFlMDg3NmRiZmQyZGU1NGQ0NGQ1`
+Snapshot ID: `MCwyNWI3MDBjZjA2ZTk1Y2JmMDE5NGRmNDU2MzBkZDIyZWI1YjRhZGQx`

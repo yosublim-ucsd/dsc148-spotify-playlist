@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: Sofía Reyes & Beéle
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,909,059 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,909,182 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 65 | [Amor Sincero](https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 3:34 |
 | 66 | [MI HOGAR \(with maye\)](https://open.spotify.com/track/19MC63Kwcy5eETHclYnXhe) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 2:55 |
 | 67 | [LA FALTA QUE ME HACES \- Bachata Version](https://open.spotify.com/track/2L7Fd4XIh0uxgqYoFt1pT3) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [LA FALTA QUE ME HACES \(Bachata Version\)](https://open.spotify.com/album/0bBc5FTXAPIWwKWzX0oy6x) | 2:51 |
-| 68 | [Volvio el dolor](https://open.spotify.com/track/0NnwEPjfSBJ9lHnck0g1Up) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Volvio el Dolor](https://open.spotify.com/album/33deX4or4XvWtR7TDsz1mi) | 3:33 |
-| 69 | [Niña De Mi Corazón](https://open.spotify.com/track/1fwtJ5PoXp02amYo4gFHpP) | [Karlos Rosé](https://open.spotify.com/artist/6FQPrGwEepUrGKbzD3Zeib) | [Géminis](https://open.spotify.com/album/53kMwPKLEyqcmp8Vh1QwYt) | 3:05 |
+| 68 | [Niña De Mi Corazón](https://open.spotify.com/track/1fwtJ5PoXp02amYo4gFHpP) | [Karlos Rosé](https://open.spotify.com/artist/6FQPrGwEepUrGKbzD3Zeib) | [Géminis](https://open.spotify.com/album/53kMwPKLEyqcmp8Vh1QwYt) | 3:05 |
+| 69 | [Volvio el dolor](https://open.spotify.com/track/0NnwEPjfSBJ9lHnck0g1Up) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Volvio el Dolor](https://open.spotify.com/album/33deX4or4XvWtR7TDsz1mi) | 3:33 |
 | 70 | [Me Puedo Matar](https://open.spotify.com/track/5nHpjvTs9EQoK755qThyHt) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn), [Bachat Heightz](https://open.spotify.com/artist/2K2jez7AWc6Eb7w74DSWVg) | [La Historia…Mis Éxitos](https://open.spotify.com/album/3DY0cXNsokz4CCESixvI8w) | 4:24 |
 | 71 | [Fronteo](https://open.spotify.com/track/3OUAwkS8ZabaD8k8gSG7YP) | [Pinto Picasso](https://open.spotify.com/artist/40DtWCtcmCd6GH8vKrDaJs), [sP Polanco](https://open.spotify.com/artist/3ZK68DhfWiJTIUZySAywPS) | [Fronteo](https://open.spotify.com/album/2P3hVbpOt0li6W0rolPeZC) | 2:32 |
 | 72 | [Otra Oportunidad](https://open.spotify.com/track/14P7QoGuWWFe7xxzmyQA4o) | [Tutto Durán](https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ) | [Otra Oportunidad](https://open.spotify.com/album/0dBnPH1ZzYfB6gOUfRUJOZ) | 3:28 |
@@ -85,17 +85,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 75 | [Hablame De Ti](https://open.spotify.com/track/7MrYqXLMquDTSC8CfvGJVF) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Hablame De Ti](https://open.spotify.com/album/5uAejFtlnv9SC42nXpN6Tn) | 4:27 |
 | 76 | [Mi Secreto](https://open.spotify.com/track/0EL8nDCstXlfIUONRc8JTj) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Mi Secreto](https://open.spotify.com/album/78zqrmLSjeNYaebSKuYzA8) | 2:59 |
 | 77 | [AMNESIA](https://open.spotify.com/track/6KjbyUdtrLdlBJx6883aO0) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [KITSUNE](https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8) | 2:49 |
-| 78 | [La Bachata](https://open.spotify.com/track/6hcK1eyxzMGoYbdO8predv) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [La Bachata](https://open.spotify.com/album/51sUzxktVYZSJdt34KR2e9) | 3:04 |
-| 79 | [Llorar Lloviendo](https://open.spotify.com/track/3QeU2rcc5buv0B9VA0gRKH) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [Love Is Back](https://open.spotify.com/album/3eXHJa6USSY7U3jYFBXamf) | 3:45 |
+| 78 | [Llorar Lloviendo](https://open.spotify.com/track/3QeU2rcc5buv0B9VA0gRKH) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [Love Is Back](https://open.spotify.com/album/3eXHJa6USSY7U3jYFBXamf) | 3:45 |
+| 79 | [La Bachata](https://open.spotify.com/track/6hcK1eyxzMGoYbdO8predv) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [La Bachata](https://open.spotify.com/album/51sUzxktVYZSJdt34KR2e9) | 3:04 |
 | 80 | [Sin Tu Amor](https://open.spotify.com/track/3fWAe3mBB6PfCMGocEiwbl) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Sin Tu Amor](https://open.spotify.com/album/6yjjKUSBZeIOfJCuSHmPla) | 2:41 |
 | 81 | [Noche Primavera](https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Noche Primavera](https://open.spotify.com/album/6lI8JL80iNP4A8qzlGNqTG) | 3:19 |
 | 82 | [Vocales de amor](https://open.spotify.com/track/3jy0VPEpbkIrNWf0HHEyDa) | [Joan Soriano](https://open.spotify.com/artist/6lNQpovRbGoGOWjRHkP8ry) | [El Duque de la Bachata](https://open.spotify.com/album/6p9TGoJ6zqTBqtxJ0xuFSx) | 5:10 |
 | 83 | [Solo Quise Quererte](https://open.spotify.com/track/1LVgUFUPg5M8uz6RGCovfp) | [Kewin Cosmos](https://open.spotify.com/artist/1nf6gLEC45OmoJFIxU7aUT) | [Episodes](https://open.spotify.com/album/3vqTjdJXz04qS8yhmd84E6) | 3:37 |
 | 84 | [Bachatica](https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Bachatica](https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8) | 3:16 |
-| 85 | [Cuándo](https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Cuándo](https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp) | 3:26 |
-| 86 | [Te Parece Poco](https://open.spotify.com/track/2uSSzhpzGhLxAsArQH8DVW) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [La Voz de La Juventud](https://open.spotify.com/album/5fVuQ17Py7H1s5LAboQRGO) | 4:10 |
-| 87 | [Un Millón de Lunas](https://open.spotify.com/track/34pO51jqhxDyzGcvJbPj8i) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [bellodrama](https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb) | 3:01 |
-| 88 | [El Verde de Tus Ojos](https://open.spotify.com/track/4P1JzdUkyVzw27tiahNLJY) | [Kiko Rodriguez](https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV) | [Y Los Claveles Mios](https://open.spotify.com/album/4BWwsPAtWQClj4WvrQOL68) | 3:56 |
+| 85 | [Te Parece Poco](https://open.spotify.com/track/2uSSzhpzGhLxAsArQH8DVW) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [La Voz de La Juventud](https://open.spotify.com/album/5fVuQ17Py7H1s5LAboQRGO) | 4:10 |
+| 86 | [Un Millón de Lunas](https://open.spotify.com/track/34pO51jqhxDyzGcvJbPj8i) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [bellodrama](https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb) | 3:01 |
+| 87 | [El Verde de Tus Ojos](https://open.spotify.com/track/4P1JzdUkyVzw27tiahNLJY) | [Kiko Rodriguez](https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV) | [Y Los Claveles Mios](https://open.spotify.com/album/4BWwsPAtWQClj4WvrQOL68) | 3:56 |
+| 88 | [Cuándo](https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Cuándo](https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp) | 3:26 |
 | 89 | [7 Pecados](https://open.spotify.com/track/6xl0OFFGmvDd0MnmOT4zuj) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [7 Pecados](https://open.spotify.com/album/176s0aCeKMzCKl51vXul3X) | 3:24 |
 | 90 | [En Todo Fuiste la Mejor](https://open.spotify.com/track/3nGuOrT9PqwVYQWamSryIA) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Johnny Sky](https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi) | 3:49 |
 | 91 | [Cuento Breve](https://open.spotify.com/track/28BXqWI9e4hPMyJizqOQLT) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [NATTIVIDAD](https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 99 | [Soy Yo](https://open.spotify.com/track/3K2UhwxyWdtnukemG2yiP0) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [Soy Yo](https://open.spotify.com/album/6WtVPPM7gYHQtH3rTo7MXU) | 3:49 |
 | 100 | [With or Without You](https://open.spotify.com/track/4oByhbsmy68c2V7GUEMr22) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Johnny Sky](https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi) | 3:57 |
 
-Snapshot ID: `MCxlZTU3YWZlNTUwYjY2ZDFiNmRhYTFiODMxMjE2MzgzOTgzYWU3ZGMx`
+Snapshot ID: `MCw5YTVjMjI2Zjk2ZjJjOTU0N2QxNGY0NmE0NTZmYTJiNmU2YjdlODYx`

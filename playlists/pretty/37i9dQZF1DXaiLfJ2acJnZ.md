@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 
 > Lovely, pop\-filled, fun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,715 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,748 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 64 | [Look Mom I Made It](https://open.spotify.com/track/7wcPHCnA9lyB8vL9ylZ7Tk) | [Annika Kilkenny](https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx) | [Look Mom I Made It](https://open.spotify.com/album/2UHt6YFQJLuHmfCIOMFyns) | 2:59 |
 | 65 | [Dear Body](https://open.spotify.com/track/2wXaoOfQlEFmq4p1HwSvBB) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Dear Body](https://open.spotify.com/album/6WgcGtcQKVgo8zpEDmHiTh) | 3:09 |
 | 66 | [Amelia](https://open.spotify.com/track/2Di10SMcYqTKahN7lJazFe) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:11 |
-| 67 | [Room Service](https://open.spotify.com/track/6ocOUCoXsFtuFtLEXNHc5H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Antichrist / Room Service](https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5) | 3:46 |
-| 68 | [Love You](https://open.spotify.com/track/7lTWrTbrL3BFcc2UZRMSzy) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Love You](https://open.spotify.com/album/52WW7hHCH0hlS77PVWplta) | 2:56 |
+| 67 | [Love You](https://open.spotify.com/track/7lTWrTbrL3BFcc2UZRMSzy) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Love You](https://open.spotify.com/album/52WW7hHCH0hlS77PVWplta) | 2:56 |
+| 68 | [Room Service](https://open.spotify.com/track/6ocOUCoXsFtuFtLEXNHc5H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Antichrist / Room Service](https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5) | 3:46 |
 | 69 | [wish you would](https://open.spotify.com/track/1LFrlYjezwFadKoL6UESMd) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [wish you would](https://open.spotify.com/album/0M1Oz5d6jsNjAGcAATbWNk) | 3:14 |
 | 70 | [Balance](https://open.spotify.com/track/7BgNOCMi4rACAAFwy7o9mu) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Balance](https://open.spotify.com/album/2GKhkvJTatWhOmgpCCJ8Hn) | 3:34 |
 | 71 | [More to me](https://open.spotify.com/track/0J1qkBgPKmgAY3M3BPe1QR) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [More to me](https://open.spotify.com/album/5feSG8uVsqlDWrMrzIrInL) | 2:15 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 76 | [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 |
 | 77 | [Hope](https://open.spotify.com/track/2Yu76lZYP18wgBw7hmlW9U) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [A Little Lost, A Little Found](https://open.spotify.com/album/7yxmuuj0a8Ha2yhjA6Ovq2) | 3:02 |
 | 78 | [One Foot in Front of the Other](https://open.spotify.com/track/032DRv0baStN644jRO2lMV) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot in Front of the Other](https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw) | 3:12 |
-| 79 | [Crash](https://open.spotify.com/track/5zZ0Nn7XsH0lxmGMxLsagd) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [Crash](https://open.spotify.com/album/0g0SrJn8HSEyvMSH9HKcwt) | 2:39 |
-| 80 | [if you called me today, i would come back tomorrow](https://open.spotify.com/track/0ZhcTOA3jY10bgme6qpptW) | [Áine Deane](https://open.spotify.com/artist/3iXWRV73XvTRhpfoT6SPLU) | [if you called me today, i would come back tomorrow](https://open.spotify.com/album/7860oA85u1By2IkqmpXiAi) | 4:02 |
+| 79 | [if you called me today, i would come back tomorrow](https://open.spotify.com/track/0ZhcTOA3jY10bgme6qpptW) | [Áine Deane](https://open.spotify.com/artist/3iXWRV73XvTRhpfoT6SPLU) | [if you called me today, i would come back tomorrow](https://open.spotify.com/album/7860oA85u1By2IkqmpXiAi) | 4:02 |
+| 80 | [Crash](https://open.spotify.com/track/5zZ0Nn7XsH0lxmGMxLsagd) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [Crash](https://open.spotify.com/album/0g0SrJn8HSEyvMSH9HKcwt) | 2:39 |
 
-Snapshot ID: `MCxhNWM0MjBkYWViMTc3MTkzYWE4NzgwYWVjY2EzZWFhMDEyNWZhYTcx`
+Snapshot ID: `MCwxMzYxYWUwZjUzMDA0YzAyMGFhZjQ3OTFlMjI3YjczN2JkZmQzNWFi`

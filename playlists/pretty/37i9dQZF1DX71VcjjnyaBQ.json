@@ -1,12 +1,12 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 394191,
+  "num_followers": 394285,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWMyZWY1N2FhMzVjNmE5Y2I5NmJiNmVmMjBkOTQ1Yzk4NmVlN2Uw",
+  "snapshot_id": "MCwxZTI3MTBkMjU0ODg5ZGRiNDIyNzNmODc0NTAzOTExYjNjZWNhNjM2",
   "tracks": [
     {
       "added_at": "2023-12-19 12:28:24",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-12-19 12:28:24",
       "album": {
+        "name": "Blue Hour",
+        "url": "https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX"
+      },
+      "artists": [
+        {
+          "name": "Emil Brandqvist Trio",
+          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
+        }
+      ],
+      "duration_ms": 319706,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4"
+    },
+    {
+      "added_at": "2023-12-19 12:28:24",
+      "album": {
         "name": "Cloud 10",
         "url": "https://open.spotify.com/album/5LF1imfGu2b4OXKIZRXiun"
       },
@@ -647,42 +663,6 @@
       "duration_ms": 329000,
       "name": "Winter",
       "url": "https://open.spotify.com/track/1FRaCnYzTKNG1ncxwL9bgJ"
-    },
-    {
-      "added_at": "2023-12-19 12:28:24",
-      "album": {
-        "name": "In This Moment",
-        "url": "https://open.spotify.com/album/0UFAX4kDWFNLpXWAjrBq4G"
-      },
-      "artists": [
-        {
-          "name": "Emil Brandqvist Trio",
-          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
-        }
-      ],
-      "duration_ms": 223706,
-      "name": "In This Moment",
-      "url": "https://open.spotify.com/track/5ntssQtDHWUdKBYiQDQP5I"
-    },
-    {
-      "added_at": "2023-12-19 12:28:24",
-      "album": {
-        "name": "Migrating Songs",
-        "url": "https://open.spotify.com/album/2lyItKoOOi0zMy7PNviiqF"
-      },
-      "artists": [
-        {
-          "name": "Niclas Knudsen Trio",
-          "url": "https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn"
-        },
-        {
-          "name": "Niclas Knudsen",
-          "url": "https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5"
-        }
-      ],
-      "duration_ms": 322434,
-      "name": "Little Bird of Passage",
-      "url": "https://open.spotify.com/track/5rIX9VD7y3GQW84rAzKyNI"
     },
     {
       "added_at": "2023-12-19 12:28:24",
@@ -711,6 +691,26 @@
     {
       "added_at": "2023-12-19 12:28:24",
       "album": {
+        "name": "Migrating Songs",
+        "url": "https://open.spotify.com/album/2lyItKoOOi0zMy7PNviiqF"
+      },
+      "artists": [
+        {
+          "name": "Niclas Knudsen Trio",
+          "url": "https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn"
+        },
+        {
+          "name": "Niclas Knudsen",
+          "url": "https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5"
+        }
+      ],
+      "duration_ms": 322434,
+      "name": "Little Bird of Passage",
+      "url": "https://open.spotify.com/track/5rIX9VD7y3GQW84rAzKyNI"
+    },
+    {
+      "added_at": "2023-12-19 12:28:24",
+      "album": {
         "name": "Jacob Karlzon Trio: Today",
         "url": "https://open.spotify.com/album/10ZG1HoTjvzHzq7kvATtMm"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 306826,
       "name": "Bubbles",
       "url": "https://open.spotify.com/track/3GGslX17J2F3IzVE5yIiRJ"
+    },
+    {
+      "added_at": "2023-12-19 12:28:24",
+      "album": {
+        "name": "In This Moment",
+        "url": "https://open.spotify.com/album/0UFAX4kDWFNLpXWAjrBq4G"
+      },
+      "artists": [
+        {
+          "name": "Emil Brandqvist Trio",
+          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
+        }
+      ],
+      "duration_ms": 223706,
+      "name": "In This Moment",
+      "url": "https://open.spotify.com/track/5ntssQtDHWUdKBYiQDQP5I"
     },
     {
       "added_at": "2023-12-19 12:28:24",
@@ -807,22 +823,6 @@
       "duration_ms": 334925,
       "name": "Hopeful Morning",
       "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
-    },
-    {
-      "added_at": "2023-12-19 12:28:24",
-      "album": {
-        "name": "Blue Hour",
-        "url": "https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX"
-      },
-      "artists": [
-        {
-          "name": "Emil Brandqvist Trio",
-          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
-        }
-      ],
-      "duration_ms": 319706,
-      "name": "Blue Hour",
-      "url": "https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4"
     },
     {
       "added_at": "2023-12-19 12:28:24",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-12-19 12:28:24",
       "album": {
-        "name": "On the Second Day",
-        "url": "https://open.spotify.com/album/3fhhihPsKUiDQ1USgJMXff"
-      },
-      "artists": [
-        {
-          "name": "J\u00f8rgen Emborg",
-          "url": "https://open.spotify.com/artist/33HADTIIVWw1K8x6ykb9xS"
-        }
-      ],
-      "duration_ms": 272794,
-      "name": "On The Second Day",
-      "url": "https://open.spotify.com/track/7xM0zRlSfbnHHq16CoN9ye"
-    },
-    {
-      "added_at": "2023-12-19 12:28:24",
-      "album": {
         "name": "Pure Imagination",
         "url": "https://open.spotify.com/album/1a2ltY23XnBtmf47BRtKVK"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 358853,
       "name": "Pure Imagination",
       "url": "https://open.spotify.com/track/1EcSvZ9Kq0EAohVfPcHToh"
+    },
+    {
+      "added_at": "2023-12-19 12:28:24",
+      "album": {
+        "name": "On the Second Day",
+        "url": "https://open.spotify.com/album/3fhhihPsKUiDQ1USgJMXff"
+      },
+      "artists": [
+        {
+          "name": "J\u00f8rgen Emborg",
+          "url": "https://open.spotify.com/artist/33HADTIIVWw1K8x6ykb9xS"
+        }
+      ],
+      "duration_ms": 272794,
+      "name": "On The Second Day",
+      "url": "https://open.spotify.com/track/7xM0zRlSfbnHHq16CoN9ye"
     },
     {
       "added_at": "2023-12-19 12:28:24",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-12-19 12:28:24",
       "album": {
-        "name": "The Jazz Seekers",
-        "url": "https://open.spotify.com/album/4Vsb19WKYRPRGmpx83EQEH"
-      },
-      "artists": [
-        {
-          "name": "The Jazz Seekers",
-          "url": "https://open.spotify.com/artist/1K6IcbnI4HSwAjecks1vG1"
-        }
-      ],
-      "duration_ms": 287676,
-      "name": "Night Creatures",
-      "url": "https://open.spotify.com/track/06wDTcGK2FxVvH45bak69Z"
-    },
-    {
-      "added_at": "2023-12-19 12:28:24",
-      "album": {
         "name": "Kelly Blue (Keepnews Collection)",
         "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 393000,
       "name": "Softly As In A Morning Sunrise",
       "url": "https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq"
+    },
+    {
+      "added_at": "2023-12-19 12:28:24",
+      "album": {
+        "name": "The Jazz Seekers",
+        "url": "https://open.spotify.com/album/4Vsb19WKYRPRGmpx83EQEH"
+      },
+      "artists": [
+        {
+          "name": "The Jazz Seekers",
+          "url": "https://open.spotify.com/artist/1K6IcbnI4HSwAjecks1vG1"
+        }
+      ],
+      "duration_ms": 287676,
+      "name": "Night Creatures",
+      "url": "https://open.spotify.com/track/06wDTcGK2FxVvH45bak69Z"
     },
     {
       "added_at": "2023-12-19 12:28:24",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-12-19 12:28:24",
       "album": {
-        "name": "Waltz for Hal Willner",
-        "url": "https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK"
-      },
-      "artists": [
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 167906,
-      "name": "Waltz for Hal Willner",
-      "url": "https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1"
-    },
-    {
-      "added_at": "2023-12-19 12:28:24",
-      "album": {
         "name": "A Ballad Moment",
         "url": "https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl"
       },
@@ -1079,18 +1063,18 @@
     {
       "added_at": "2023-12-19 12:28:24",
       "album": {
-        "name": "Relations",
-        "url": "https://open.spotify.com/album/2xPsEm0HdpplREKC57yYfd"
+        "name": "Waltz for Hal Willner",
+        "url": "https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK"
       },
       "artists": [
         {
-          "name": "Martin Brandqvist Quartet",
-          "url": "https://open.spotify.com/artist/15MKkheDyZCAhrbfY6ywJ7"
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
         }
       ],
-      "duration_ms": 298423,
-      "name": "Ginge",
-      "url": "https://open.spotify.com/track/6Ul6eEs8cUsugmbdDmEi6h"
+      "duration_ms": 167906,
+      "name": "Waltz for Hal Willner",
+      "url": "https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1"
     },
     {
       "added_at": "2023-12-19 12:28:24",
@@ -1111,6 +1095,22 @@
       "duration_ms": 496933,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/49GkEXzeU30nUaEussqtUi"
+    },
+    {
+      "added_at": "2023-12-19 12:28:24",
+      "album": {
+        "name": "Relations",
+        "url": "https://open.spotify.com/album/2xPsEm0HdpplREKC57yYfd"
+      },
+      "artists": [
+        {
+          "name": "Martin Brandqvist Quartet",
+          "url": "https://open.spotify.com/artist/15MKkheDyZCAhrbfY6ywJ7"
+        }
+      ],
+      "duration_ms": 298423,
+      "name": "Ginge",
+      "url": "https://open.spotify.com/track/6Ul6eEs8cUsugmbdDmEi6h"
     },
     {
       "added_at": "2023-12-19 12:28:24",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-12-19 12:28:24",
       "album": {
-        "name": "Gamla all\u00e9n",
-        "url": "https://open.spotify.com/album/7vrG8yc19WFP9OxwEaNcwG"
-      },
-      "artists": [
-        {
-          "name": "Axel M\u00e5rdsj\u00f6",
-          "url": "https://open.spotify.com/artist/64XDUz4HUQosed6FHDnzwD"
-        }
-      ],
-      "duration_ms": 230786,
-      "name": "Gamla all\u00e9n",
-      "url": "https://open.spotify.com/track/76NqmUek8rNrhrroQrBpUN"
-    },
-    {
-      "added_at": "2023-12-19 12:28:24",
-      "album": {
         "name": "These Foolish Things",
         "url": "https://open.spotify.com/album/2tXtAN2qOrJcfglYkTLYqQ"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 341695,
       "name": "These Foolish Things",
       "url": "https://open.spotify.com/track/5HKgNwcH9JrDyBiJ6jCc49"
+    },
+    {
+      "added_at": "2023-12-19 12:28:24",
+      "album": {
+        "name": "Gamla all\u00e9n",
+        "url": "https://open.spotify.com/album/7vrG8yc19WFP9OxwEaNcwG"
+      },
+      "artists": [
+        {
+          "name": "Axel M\u00e5rdsj\u00f6",
+          "url": "https://open.spotify.com/artist/64XDUz4HUQosed6FHDnzwD"
+        }
+      ],
+      "duration_ms": 230786,
+      "name": "Gamla all\u00e9n",
+      "url": "https://open.spotify.com/track/76NqmUek8rNrhrroQrBpUN"
     },
     {
       "added_at": "2023-12-19 12:28:24",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2023-12-19 12:28:24",
       "album": {
-        "name": "Going Up",
-        "url": "https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV"
-      },
-      "artists": [
-        {
-          "name": "Snorre Kirk",
-          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
-        },
-        {
-          "name": "Stephen Riley",
-          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
-        }
-      ],
-      "duration_ms": 280011,
-      "name": "Blues Arabesque",
-      "url": "https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC"
-    },
-    {
-      "added_at": "2023-12-19 12:28:24",
-      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b"
       },
@@ -1371,18 +1351,22 @@
     {
       "added_at": "2023-12-19 12:28:24",
       "album": {
-        "name": "Have a Day",
-        "url": "https://open.spotify.com/album/0SBtKGwM2gnuKoZFaHIf9k"
+        "name": "Going Up",
+        "url": "https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV"
       },
       "artists": [
         {
-          "name": "Musicmusicmusic",
-          "url": "https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8"
+          "name": "Snorre Kirk",
+          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
+        },
+        {
+          "name": "Stephen Riley",
+          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
         }
       ],
-      "duration_ms": 383626,
-      "name": "Have a Day",
-      "url": "https://open.spotify.com/track/0TAQObwgBL0r6wuINDs0cY"
+      "duration_ms": 280011,
+      "name": "Blues Arabesque",
+      "url": "https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC"
     },
     {
       "added_at": "2023-12-19 12:28:24",
@@ -1411,18 +1395,34 @@
     {
       "added_at": "2023-12-19 12:28:24",
       "album": {
-        "name": "Happy Hours",
-        "url": "https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r"
+        "name": "Have a Day",
+        "url": "https://open.spotify.com/album/0SBtKGwM2gnuKoZFaHIf9k"
       },
       "artists": [
         {
-          "name": "Christophe Marguet",
-          "url": "https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ"
+          "name": "Musicmusicmusic",
+          "url": "https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8"
         }
       ],
-      "duration_ms": 397306,
-      "name": "Dear Don",
-      "url": "https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4"
+      "duration_ms": 383626,
+      "name": "Have a Day",
+      "url": "https://open.spotify.com/track/0TAQObwgBL0r6wuINDs0cY"
+    },
+    {
+      "added_at": "2023-12-19 12:28:24",
+      "album": {
+        "name": "Jazz Lullaby",
+        "url": "https://open.spotify.com/album/0wDnMx1ZIjpH2TJSm6PCR7"
+      },
+      "artists": [
+        {
+          "name": "Ben Paterson",
+          "url": "https://open.spotify.com/artist/0MHewfujqaxL7anJWkbnJG"
+        }
+      ],
+      "duration_ms": 189929,
+      "name": "Frere Jacques",
+      "url": "https://open.spotify.com/track/4SwwjgzWcTeCw1xT9VTP6D"
     },
     {
       "added_at": "2023-12-19 12:28:24",
@@ -1463,18 +1463,34 @@
     {
       "added_at": "2023-12-19 12:28:24",
       "album": {
-        "name": "Jazz Lullaby",
-        "url": "https://open.spotify.com/album/0wDnMx1ZIjpH2TJSm6PCR7"
+        "name": "Happy Hours",
+        "url": "https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r"
       },
       "artists": [
         {
-          "name": "Ben Paterson",
-          "url": "https://open.spotify.com/artist/0MHewfujqaxL7anJWkbnJG"
+          "name": "Christophe Marguet",
+          "url": "https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ"
         }
       ],
-      "duration_ms": 189929,
-      "name": "Frere Jacques",
-      "url": "https://open.spotify.com/track/4SwwjgzWcTeCw1xT9VTP6D"
+      "duration_ms": 397306,
+      "name": "Dear Don",
+      "url": "https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4"
+    },
+    {
+      "added_at": "2023-12-19 12:28:24",
+      "album": {
+        "name": "Let Love Be Genuine",
+        "url": "https://open.spotify.com/album/13yjw0qb0yqrU1s7xkOPRi"
+      },
+      "artists": [
+        {
+          "name": "Nuvole",
+          "url": "https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1"
+        }
+      ],
+      "duration_ms": 318620,
+      "name": "Let Love Be Genuine",
+      "url": "https://open.spotify.com/track/4VQAmkNpIfBNQCTrz5yEA0"
     },
     {
       "added_at": "2023-12-19 12:28:24",
@@ -1503,18 +1519,18 @@
     {
       "added_at": "2023-12-19 12:28:24",
       "album": {
-        "name": "Let Love Be Genuine",
-        "url": "https://open.spotify.com/album/13yjw0qb0yqrU1s7xkOPRi"
+        "name": "In a Sentimental Mood",
+        "url": "https://open.spotify.com/album/56K1pQYA5ZTmpCGjQbJV0l"
       },
       "artists": [
         {
-          "name": "Nuvole",
-          "url": "https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1"
+          "name": "Hans Ulrik",
+          "url": "https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF"
         }
       ],
-      "duration_ms": 318620,
-      "name": "Let Love Be Genuine",
-      "url": "https://open.spotify.com/track/4VQAmkNpIfBNQCTrz5yEA0"
+      "duration_ms": 228181,
+      "name": "Loose Caboose",
+      "url": "https://open.spotify.com/track/2K9ntrYpyBdgpUhzR4w1H6"
     },
     {
       "added_at": "2023-12-19 12:28:24",
@@ -1535,22 +1551,6 @@
       "duration_ms": 275200,
       "name": "Going Up",
       "url": "https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP"
-    },
-    {
-      "added_at": "2023-12-19 12:28:24",
-      "album": {
-        "name": "In a Sentimental Mood",
-        "url": "https://open.spotify.com/album/56K1pQYA5ZTmpCGjQbJV0l"
-      },
-      "artists": [
-        {
-          "name": "Hans Ulrik",
-          "url": "https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF"
-        }
-      ],
-      "duration_ms": 228181,
-      "name": "Loose Caboose",
-      "url": "https://open.spotify.com/track/2K9ntrYpyBdgpUhzR4w1H6"
     },
     {
       "added_at": "2023-12-19 12:28:24",
@@ -1819,6 +1819,38 @@
     {
       "added_at": "2023-12-19 12:28:24",
       "album": {
+        "name": "The Starter",
+        "url": "https://open.spotify.com/album/6XCgl8rWBRZlpsWVQBWTrI"
+      },
+      "artists": [
+        {
+          "name": "Per Thornberg",
+          "url": "https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv"
+        }
+      ],
+      "duration_ms": 375267,
+      "name": "The Starter",
+      "url": "https://open.spotify.com/track/75LUX2oADzPgkEQdRhIr9c"
+    },
+    {
+      "added_at": "2023-12-19 12:28:24",
+      "album": {
+        "name": "Best of 1965-76",
+        "url": "https://open.spotify.com/album/4cskpXjr6Ai90fLNPYX8Vv"
+      },
+      "artists": [
+        {
+          "name": "Nathan Davis",
+          "url": "https://open.spotify.com/artist/3iF9mUqkeDgHbydOvDYqjO"
+        }
+      ],
+      "duration_ms": 208880,
+      "name": "Sconsolato",
+      "url": "https://open.spotify.com/track/5kUE6uXelwvtA6qYKyfMWM"
+    },
+    {
+      "added_at": "2023-12-19 12:28:24",
+      "album": {
         "name": "First Quartet",
         "url": "https://open.spotify.com/album/0KpteW5dC4xgy87G1VnZLZ"
       },
@@ -1843,38 +1875,6 @@
       "duration_ms": 290506,
       "name": "First Day",
       "url": "https://open.spotify.com/track/4PeEDqQxyNQQDE5Zs7DC2s"
-    },
-    {
-      "added_at": "2023-12-19 12:28:24",
-      "album": {
-        "name": "Best of 1965-76",
-        "url": "https://open.spotify.com/album/4cskpXjr6Ai90fLNPYX8Vv"
-      },
-      "artists": [
-        {
-          "name": "Nathan Davis",
-          "url": "https://open.spotify.com/artist/3iF9mUqkeDgHbydOvDYqjO"
-        }
-      ],
-      "duration_ms": 208880,
-      "name": "Sconsolato",
-      "url": "https://open.spotify.com/track/5kUE6uXelwvtA6qYKyfMWM"
-    },
-    {
-      "added_at": "2023-12-19 12:28:24",
-      "album": {
-        "name": "The Starter",
-        "url": "https://open.spotify.com/album/6XCgl8rWBRZlpsWVQBWTrI"
-      },
-      "artists": [
-        {
-          "name": "Per Thornberg",
-          "url": "https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv"
-        }
-      ],
-      "duration_ms": 375267,
-      "name": "The Starter",
-      "url": "https://open.spotify.com/track/75LUX2oADzPgkEQdRhIr9c"
     },
     {
       "added_at": "2023-12-19 12:28:24",

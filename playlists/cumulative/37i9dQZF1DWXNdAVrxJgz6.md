@@ -4,7 +4,7 @@
 
 > El cantautor del Pueblo: canciones que duelen, del rancho para el Mundo.
 
-134 songs - 7 hr 44 min
+136 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,11 +125,13 @@
 | [Te La Pasas feat\. EP](https://open.spotify.com/track/3bT9fp9mM5HDWE2BEI0yhP) | [Tito Y Su Torbellino](https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7) | [No Eres Tu Ahora Soy Yo](https://open.spotify.com/album/6dkhRkJFqd5PFVRiDEYIck) | 2:50 | 2023-10-06 |  |
 | [Tiene Razón La Lógica](https://open.spotify.com/track/24EmEWZb7PM3AtHtvOIcFu) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Calidad Y Cantidad](https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl) | 3:26 | 2023-10-06 |  |
 | [Todas Son Iguales](https://open.spotify.com/track/1z9MHvR7w6VQMjLepUWFwm) | [El Dasa](https://open.spotify.com/artist/1neZPoVY3mCc2mNMVXslA7), [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Alegre Y Enamorado](https://open.spotify.com/album/0WajbKSeGZ1YQDoZydroCJ) | 2:53 | 2023-10-06 |  |
-| [Tomando Ando](https://open.spotify.com/track/0bvEUn5ATgxrfrwLd2ppyN) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [La Joya](https://open.spotify.com/album/0Su53HgEKsJ2q9CchXKoYD) | 3:18 | 2023-10-06 |  |
+| [Tomando Ando](https://open.spotify.com/track/00cPZxfcPWW97LKhn8YYU7) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [La Joya](https://open.spotify.com/album/5KaX3YeFoTSpnAsJpBrLW1) | 3:18 | 2023-10-06 |  |
+| [Tomando Ando](https://open.spotify.com/track/0bvEUn5ATgxrfrwLd2ppyN) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [La Joya](https://open.spotify.com/album/0Su53HgEKsJ2q9CchXKoYD) | 3:18 | 2023-10-06 | 2024-01-07 |
 | [Tomando Ando](https://open.spotify.com/track/3cx4KfxfE4BKIaz4wL72ln) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Tomando Ando](https://open.spotify.com/album/7hY5xMTxLVWpQGBJo2qOSP) | 3:18 | 2023-10-06 | 2024-01-06 |
 | [Un Amor Normal](https://open.spotify.com/track/7eR2l5lTHhpT9qjDWje5Mw) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Un Amor Normal](https://open.spotify.com/album/5Ly7pDuKJ8oaRXrdYiPbzw) | 4:33 | 2023-10-06 |  |
 | [Un Fin en Culiacán](https://open.spotify.com/track/37vF7elYtlTkViAUGFY078) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/6gifhpOt5g6LTcdQuhxX6s) | 2:34 | 2023-10-06 |  |
-| [Un Hombre Normal](https://open.spotify.com/track/2RRAFGKUzEKQnKnTwdUsLy) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Un Hombre Normal](https://open.spotify.com/album/7745vTDBPHucOrTZ8OOhh6) | 4:15 | 2023-10-06 |  |
+| [Un Hombre Normal](https://open.spotify.com/track/2RRAFGKUzEKQnKnTwdUsLy) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Un Hombre Normal](https://open.spotify.com/album/7745vTDBPHucOrTZ8OOhh6) | 4:15 | 2023-10-06 | 2024-01-07 |
+| [Un Hombre Normal](https://open.spotify.com/track/7tUgcu6nBx2MxlFaiDh7nY) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Un Hombre Normal](https://open.spotify.com/album/0JrrexttdAK01fNFZOulo1) | 4:15 | 2023-10-06 |  |
 | [Vanidosa](https://open.spotify.com/track/0QzVpoHJpKeKJYMbfJxpLQ) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [La Joya](https://open.spotify.com/album/5KaX3YeFoTSpnAsJpBrLW1) | 3:07 | 2023-10-06 |  |
 | [Vanidosa](https://open.spotify.com/track/3oBDuPNhVzThioEdaKltoY) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [La Joya](https://open.spotify.com/album/0Su53HgEKsJ2q9CchXKoYD) | 3:07 | 2023-10-06 | 2024-01-06 |
 | [Vanidosa](https://open.spotify.com/track/767Lvz98OdXrwJmR37w8ge) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Vanidosa](https://open.spotify.com/album/6C4fwzvUKYzmm9jRzd0KpH) | 3:07 | 2023-10-06 | 2024-01-05 |

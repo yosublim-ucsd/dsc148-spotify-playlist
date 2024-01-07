@@ -4,7 +4,7 @@
 
 > Mood: Turnt
 
-724 songs - 1 day 11 hr 0 min
+725 songs - 1 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,8 @@
 | [Fly Sh!t](https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Fly Sh!t](https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj) | 2:15 | 2022-09-09 | 2022-12-10 |
 | [Flyest in The City \(feat\. A Boogie Wit da Hoodie & Jeremih\)](https://open.spotify.com/track/3LzcF35kaoR15JSBJflDZ7) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [C3](https://open.spotify.com/album/3IyUsMKChk9h8J9NeZYWl0) | 3:51 | 2023-07-14 | 2023-09-02 |
 | [FOR A NUT \(feat\. Gunna & Young Thug\)](https://open.spotify.com/track/7HCX1Ch3mklJyEdpwPZBFW) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:27 | 2022-05-06 | 2022-07-02 |
-| [Freak Junt \(Ext\)](https://open.spotify.com/track/5eVPo9th097MkEwAhINEOV) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Renegade](https://open.spotify.com/album/1oLihKPBT36E4csJUGlLP7) | 3:54 | 2023-12-08 |  |
+| [Freak Junt \(Ext\)](https://open.spotify.com/track/0jxiqqVUgOOkhuRcEbGkB0) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Renegade](https://open.spotify.com/album/7cCqSijm31dZdQ1v3BaFAZ) | 3:54 | 2023-12-29 |  |
+| [Freak Junt \(Ext\)](https://open.spotify.com/track/5eVPo9th097MkEwAhINEOV) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Renegade](https://open.spotify.com/album/1oLihKPBT36E4csJUGlLP7) | 3:54 | 2023-12-08 | 2024-01-07 |
 | [FREAKY \(feat\. Cardi B\)](https://open.spotify.com/track/5YoRDtZRUMiPX9cZDyOFVk) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:19 | 2023-10-13 | 2023-10-21 |
 | [FreakyT](https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [I Can't Wait](https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7) | 2:14 | 2022-12-09 | 2023-04-22 |
 | [FreakyT \(feat\. Latto\) \- Remix](https://open.spotify.com/track/451acSEXA7pfbMKXoC6vJX) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [FreakyT \(feat\. Latto\) \[Remix\]](https://open.spotify.com/album/4itQ4SmVRwjURluBAHnxFx) | 2:29 | 2023-04-21 |  |

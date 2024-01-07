@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 
 > Pas mal "tes tounes de karaoké préférées".
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,216 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,224 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 27 | [Parlez\-moi de lui](https://open.spotify.com/track/6dlwC1DhqGXRzTzJj2sEnW) | [Nicole Croisille](https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV) | [Parlez\-moi de lui \- Single](https://open.spotify.com/album/7wATrm3WRKT271Q2afBwqq) | 3:20 |
 | 28 | [Le temps des cathédrales](https://open.spotify.com/track/6KoolqHOo79c4lTmAko7NQ) | [Bruno Pelletier](https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2) | [Notre Dame de Paris \- Version intégrale, acte 1](https://open.spotify.com/album/0rfs8rhKsVsnKnwscx9cdY) | 3:22 |
 | 29 | [Les yeux du coeur](https://open.spotify.com/track/2T9wXXxMx8IKfGdK2FrHPa) | [Gerry Boulet](https://open.spotify.com/artist/1byKIdu4GbAYNkwsrfN6mv), [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Rendez\-vous doux](https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu) | 4:16 |
-| 30 | [On ne change pas](https://open.spotify.com/track/5CHVLIj3iRl2vAh1INEw0H) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [On ne change pas](https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO) | 4:07 |
-| 31 | [Mon mec à moi](https://open.spotify.com/track/69cjFYQg0lE0e48bgOPhfy) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Rien ne s'arrête \(1987 \- 2001\)](https://open.spotify.com/album/6sklF5x3mauqDdLFPgIqJw) | 4:13 |
+| 30 | [Mon mec à moi](https://open.spotify.com/track/69cjFYQg0lE0e48bgOPhfy) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Rien ne s'arrête \(1987 \- 2001\)](https://open.spotify.com/album/6sklF5x3mauqDdLFPgIqJw) | 4:13 |
+| 31 | [On ne change pas](https://open.spotify.com/track/5CHVLIj3iRl2vAh1INEw0H) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [On ne change pas](https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO) | 4:07 |
 | 32 | [J't'aime comme un fou](https://open.spotify.com/track/17vt4SGpyI9ONYIuxDbWm7) | [Robert Charlebois](https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO) | [1ère période](https://open.spotify.com/album/7AukTabhSosvxYl4LvG62v) | 3:50 |
 | 33 | [Tue\-moi](https://open.spotify.com/track/7quS8uRNMPWff5JhxnXPYs) | [Dan Bigras](https://open.spotify.com/artist/2QDARvkBIhaQQYcNMgQkyb) | [1992\-2002 tout...](https://open.spotify.com/album/2rhTxraeZq3zndPHogXMtC) | 3:25 |
 | 34 | [Soirs de Scotch](https://open.spotify.com/track/38PausDDlmKd6jwriKyiyF) | [Luce Dufault](https://open.spotify.com/artist/5FXcHIUubTQhOvzOFT8k7v) | [Luce Dufault](https://open.spotify.com/album/0CSO0Cq6hGT5KbqNKhZZP5) | 3:33 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 67 | [Perdue L'envie D'aimer](https://open.spotify.com/track/1pSIgqNyR8tF8w6PABKlVm) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz) | [Pelchat](https://open.spotify.com/album/4miX4q7EY2QNryx8j7H8bS) | 3:32 |
 | 68 | [Lavez, lavez](https://open.spotify.com/track/3AgSdVZqt0IC6p8MvkV88z) | [Martine St Clair](https://open.spotify.com/artist/7mj0ykOd4nU43TFvJobbyq) | [Caribou](https://open.spotify.com/album/43hrsuXAxYjK61wHmnS9KE) | 3:26 |
 | 69 | [Les bras de satan](https://open.spotify.com/track/3LQqPNWVEQt1NOJs5zJanY) | [Nelson Minville](https://open.spotify.com/artist/7wNJ6MuaOCubifvO9o7coR) | [Premières nuits](https://open.spotify.com/album/3xn5BcOySaPQDUzHweLI6y) | 4:15 |
-| 70 | [Pied De Poule](https://open.spotify.com/track/3stGdvzWseLYJllraGNwg2) | [Geneviève Lapointe](https://open.spotify.com/artist/0tTy0BCNGPog9pkYZuqpey) | [Pied De Poule](https://open.spotify.com/album/0lcQiR9XjcrzXQGRCYQnha) | 4:05 |
-| 71 | [Bye Bye Mon Cowboy \- Original Version](https://open.spotify.com/track/1J9by690rO1VvQGrliaR0J) | [Mitsou](https://open.spotify.com/artist/2uaGBnwCVIftDwC3dcbS80) | [La Collection](https://open.spotify.com/album/2pq3KQJYOgxpyQo27Bg0rX) | 3:46 |
+| 70 | [Bye Bye Mon Cowboy \- Original Version](https://open.spotify.com/track/1J9by690rO1VvQGrliaR0J) | [Mitsou](https://open.spotify.com/artist/2uaGBnwCVIftDwC3dcbS80) | [La Collection](https://open.spotify.com/album/2pq3KQJYOgxpyQo27Bg0rX) | 3:46 |
+| 71 | [Pied De Poule](https://open.spotify.com/track/3stGdvzWseLYJllraGNwg2) | [Geneviève Lapointe](https://open.spotify.com/artist/0tTy0BCNGPog9pkYZuqpey) | [Pied De Poule](https://open.spotify.com/album/0lcQiR9XjcrzXQGRCYQnha) | 4:05 |
 | 72 | [Entre l'ombre et la lumière](https://open.spotify.com/track/4uv1DUeE3qQWDaj0HC9V6b) | [Marie Carmen](https://open.spotify.com/artist/0CB3KcKlqF1EtCu1HHqIZu) | [Les grands succès de Marie Carmen](https://open.spotify.com/album/3Jc4kN9R3qYadp7QSxNc8j) | 4:29 |
 | 73 | [Incognito](https://open.spotify.com/track/6Jfd5c2iOPkphlCX9nt0GJ) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Incognito](https://open.spotify.com/album/3Gc6kXiuACCXzuozrbA1C4) | 4:39 |
 | 74 | [Repartir à zéro](https://open.spotify.com/track/2ztfB558UQpT91wYiC6zCV) | [Joe Bocan](https://open.spotify.com/artist/1fJvKwUjP79m8uMA8kBOfW) | [Joe Bocan](https://open.spotify.com/album/6DkLs7Xzj8Be9HojhiwQUb) | 3:21 |
 | 75 | [Tu t'en vas](https://open.spotify.com/track/5SVzFoP3aaTXEW4NkhvWbc) | [Aucun Regret](https://open.spotify.com/artist/7uPhAd69hpKEPkQ72IVCQ6) | [Mixmania](https://open.spotify.com/album/5A7aFa2NYD5V6l0wzY7fpl) | 3:26 |
 
-Snapshot ID: `MCxiMTAxMTY1Y2I5NWNmYTQxYzNmZmI4NWEyMmUzZDQ4YzA3ODJhNDc2`
+Snapshot ID: `MCxlODU5MGVlMWI3NDY3NTgwODE0MzYyOTg4NmQyYTNlYjI3YTE1ZTIx`

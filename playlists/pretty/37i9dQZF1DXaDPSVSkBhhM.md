@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 
 > ¡Pop\-punk por siempre!
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,651 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,670 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 17 | [Confesión](https://open.spotify.com/track/5EaIqvYLnqFM4EQJdzR2WL) | [Sputnik](https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG) | [Gran Blanco](https://open.spotify.com/album/4gTPdbEREPu8h4mrfZUpBf) | 3:23 |
 | 18 | [Apariencia](https://open.spotify.com/track/2v4oBaRnTe2YuaQovidduL) | [GUFI](https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN) | [Corazón D' Roto](https://open.spotify.com/album/12FNuCmrZPqCFiu5mL09EC) | 3:37 |
 | 19 | [Cállate La Boca](https://open.spotify.com/track/4ck93bVIVf9yMwjs8CjSve) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d), [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Cállate La Boca](https://open.spotify.com/album/3s9LUzvbeqfQWeNKZ3TTut) | 3:37 |
-| 20 | [Mientras quede aliento](https://open.spotify.com/track/5luYUiCm5cKiYeFyntShb5) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw) | [Mientras quede aliento](https://open.spotify.com/album/0dbOXHbcNBNEq5LpmJGGrG) | 3:13 |
-| 21 | [Vamos Otra Vez](https://open.spotify.com/track/2hMFkTRHfUn9QShgYLsTWb) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [120 Km/Hr.](https://open.spotify.com/album/1SgPUGiM2u18nbgcutSHxM) | 3:41 |
+| 20 | [Vamos Otra Vez](https://open.spotify.com/track/2hMFkTRHfUn9QShgYLsTWb) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [120 Km/Hr.](https://open.spotify.com/album/1SgPUGiM2u18nbgcutSHxM) | 3:41 |
+| 21 | [Mientras quede aliento](https://open.spotify.com/track/5luYUiCm5cKiYeFyntShb5) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw) | [Mientras quede aliento](https://open.spotify.com/album/0dbOXHbcNBNEq5LpmJGGrG) | 3:13 |
 | 22 | [Para Ti](https://open.spotify.com/track/0IZc78H7Ep677OS5Lns3oh) | [Masappan](https://open.spotify.com/artist/2GMWjBQeVApcZ9to2NP1QC) | [Masappan](https://open.spotify.com/album/2VuK8VnMfILaKRNqDoMR0e) | 2:44 |
 | 23 | [Ay Equis, Nada Que Ver..\. \(Pinche Raza Igualada\)](https://open.spotify.com/track/4gXv8ukCY5oIpzVMMfSFAi) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL), [Barney Gombo](https://open.spotify.com/artist/2I5AFH9BrfRnnNTg8VAeBc) | [Ay Equis, Nada Que Ver..\. \(Pinche Raza Igualada\)](https://open.spotify.com/album/09sex9lgVpZBDbkaQCp2ot) | 3:33 |
 | 24 | [Dicen Que Estoy Muerto](https://open.spotify.com/track/69HhWybZbE4RgR6Cfhilfh) | [Tungas](https://open.spotify.com/artist/6Mloe6pXBtaTQxMBQauVmM) | [Vamos Perdiendo el Corazón](https://open.spotify.com/album/23pMm6NC32mogG6H6KkfTn) | 4:01 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 33 | [Fantasmas](https://open.spotify.com/track/4p1fdScUiB1t9idEW5r3sW) | [Aurum](https://open.spotify.com/artist/4c0Bp0wMrzxY4LbvrBQnHB) | [Fantasmas](https://open.spotify.com/album/6DXXRDiKXGvJ69FRjVykHZ) | 3:36 |
 | 34 | [UNODOCE](https://open.spotify.com/track/70xUEwLN1ueqTebmEEth50) | [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [UNODOCE](https://open.spotify.com/album/2FXkHYPtMxXJXSzVvBYCbd) | 1:13 |
 | 35 | [Espero Nadie Ocupe Mi Lugar](https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9) | [Camiches](https://open.spotify.com/artist/3DZM1ODnTL003kSGHSd7dA) | [El Bálsamo para los Sabios y los Buenos Perdedores](https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A) | 3:34 |
-| 36 | [No olvides de enfocarte siempre en lo importante](https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK) | [Da Skate](https://open.spotify.com/artist/3j5RvqYJKTwcBFebeRNrxW) | [La teoría de los septenios](https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo) | 2:31 |
-| 37 | [Disparos](https://open.spotify.com/track/5EdTbndNiVuaiw8Qkl0bWA) | [INSITE](https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX) | [Disparos](https://open.spotify.com/album/6p3dbZ4NrwqbN809vTNG68) | 3:49 |
+| 36 | [Disparos](https://open.spotify.com/track/5EdTbndNiVuaiw8Qkl0bWA) | [INSITE](https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX) | [Disparos](https://open.spotify.com/album/6p3dbZ4NrwqbN809vTNG68) | 3:49 |
+| 37 | [No olvides de enfocarte siempre en lo importante](https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK) | [Da Skate](https://open.spotify.com/artist/3j5RvqYJKTwcBFebeRNrxW) | [La teoría de los septenios](https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo) | 2:31 |
 | 38 | [Nadie Me Entiende](https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Nadie Me Entiende](https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY) | 3:00 |
 | 39 | [Fantasma](https://open.spotify.com/track/5lHTn6FuRalBBQZMUJt1xH) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [CARIBE 4 LIFE](https://open.spotify.com/album/30kNCcBRLO4ju5EOx41OJK) | 3:26 |
 | 40 | [Bacardí](https://open.spotify.com/track/4PZ0I8gxiq4NUK43UOrWUu) | [Pet Friendly](https://open.spotify.com/artist/10cs4jDg6ozMG8A80e5aoW) | [Bacardí](https://open.spotify.com/album/3tNAKRAt8mpmVJih2RCW7G) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 49 | [Rompe Mi Mente](https://open.spotify.com/track/3bPletoHVcZWG1wiudSU9H) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz) | [Rompe Mi Mente](https://open.spotify.com/album/1PFTujkH7IQLyGtX9ZeFii) | 3:29 |
 | 50 | [Cereal](https://open.spotify.com/track/1jEyfhLrKrtbpm0DGbnS7H) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Cereal](https://open.spotify.com/album/4RFAbUoR8Wjr4800cYcZEL) | 2:41 |
 
-Snapshot ID: `MCw5ZmY3M2JhYzhkMDQ4MGIyMjc1NzhjYzE3ZDM0NzkyYjUxOWU1NzQ5`
+Snapshot ID: `MCwxNGNiY2U5NmMzNTQ4NmM5ZDQwNzViMmQwZmM4ZThhNjI5YjM5M2Vk`

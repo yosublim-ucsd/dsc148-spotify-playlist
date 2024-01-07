@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: bohemianvoodoo
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,434 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,440 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 42 | [Red Ocean](https://open.spotify.com/track/3fIy6Di6WTYZQqOy5SjcHk) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [NEW](https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB) | 5:00 |
 | 43 | [赤いスイートピー \- English Jazz Ver.](https://open.spotify.com/track/7sZvxchusFfJalUdKXxxsU) | [Seiko Matsuda](https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h) | [赤いスイートピー \(English Jazz Ver.\)](https://open.spotify.com/album/3yDsynLI0UyD2U8tVp5A2Q) | 4:25 |
 | 44 | [Blood is thicker than water](https://open.spotify.com/track/75EKP06FTKQt0lzKQrRf1z) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Living Message](https://open.spotify.com/album/1JDnILGoI2TFSWeAOqyeA2) | 3:31 |
-| 45 | [枯葉 \~Autumn Leaves\~ \(jazz standard\)](https://open.spotify.com/track/6qeCyQdxowFD746sApGBYx) | [SANOVA](https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt) | [BLISS](https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi) | 3:05 |
-| 46 | [Love Lights](https://open.spotify.com/track/4kQbWhGdyt1OHTutPHlcjm) | [Pyramid](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy) | [PYRAMID4](https://open.spotify.com/album/1YeWcKq1F4VLvGescahAG7) | 5:06 |
+| 45 | [Love Lights](https://open.spotify.com/track/4kQbWhGdyt1OHTutPHlcjm) | [Pyramid](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy) | [PYRAMID4](https://open.spotify.com/album/1YeWcKq1F4VLvGescahAG7) | 5:06 |
+| 46 | [枯葉 \~Autumn Leaves\~ \(jazz standard\)](https://open.spotify.com/track/6qeCyQdxowFD746sApGBYx) | [SANOVA](https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt) | [BLISS](https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi) | 3:05 |
 | 47 | [Breeze and You \(Live Version\)](https://open.spotify.com/track/6yoOrydjbkvRv6XtnjnNC7) | [THE SQUARE](https://open.spotify.com/artist/1qLh5Luiu5DBNU3SeHcDwq) | [THE SQUARE YEAR END Live 20151226](https://open.spotify.com/album/5pEJNi4ADnyf9FnQccBwGU) | 5:10 |
 | 48 | [N°9](https://open.spotify.com/track/1MaU3Y6P7j95oINCv6cmmR) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [NEWTOWN](https://open.spotify.com/album/2lveEbqQBRgGNrik6K2ZwS) | 4:58 |
 | 49 | [Ready?](https://open.spotify.com/track/1Nz4KHTLNnnc2Wl6teppUR) | [MIDORINOMARU](https://open.spotify.com/artist/4ZBnxeDmHTLJZPQWmbINhu) | [Ready?](https://open.spotify.com/album/1gnPX2apuEEOkRwsDQOdtw) | 4:35 |
 | 50 | [The bell tolls](https://open.spotify.com/track/0cwy8I1xQFXDZ0bMR5BHLp) | [a picture of her](https://open.spotify.com/artist/6vUn7EgNei8hY7jZSV0lsT) | [C](https://open.spotify.com/album/4rQJ0xVXD7OKZmV5hXL4tW) | 5:27 |
 
-Snapshot ID: `MCw5MGNkYzQ5ZjcwZGJiYjA3ODc1OTMxN2ZkNzFjODUxYzc0ZTRmYmIx`
+Snapshot ID: `MCwzY2QxMTkxZDM0YjJlMmJiM2E4NTAwYTc2ODRhZWIwYzVmMDE5Nzkx`

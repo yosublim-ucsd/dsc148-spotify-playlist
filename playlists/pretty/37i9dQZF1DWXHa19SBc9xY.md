@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,147 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,280 likes - 85 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 45 | [Nós Dois Aqui](https://open.spotify.com/track/3vt4GCCBVD9jIULux6DyRV) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [Nós Dois Aqui](https://open.spotify.com/album/4DddAUiTd1aqnc99kF2g3q) | 4:01 |
 | 46 | [Maior Que Nós](https://open.spotify.com/track/3oiTGo0oNxtT1kQvZHMyCe) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Maior Que Nós](https://open.spotify.com/album/1mRbqQtEQ4NvHOgPK9MA51) | 2:52 |
 | 47 | [Rua Três](https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Rua Três](https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C) | 2:34 |
-| 48 | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM) | 4:31 |
-| 49 | [Amanheceu \- Acústico](https://open.spotify.com/track/3XQkfQ7Qsacd6Xbpj1ZLvt) | [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg) | [Amanheceu \(Acústico\)](https://open.spotify.com/album/113z8oUYAMr59RfzyKHvTM) | 3:16 |
-| 50 | [Somos Instantes \- Acústico](https://open.spotify.com/track/2QC2lDWjCrFRVpRNrYhF87) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Somos Instantes \(Acústico\)](https://open.spotify.com/album/4xgYuwgqMHm72Lm2FQ2YBd) | 3:44 |
-| 51 | [O amor te dá](https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [O amor te dá](https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW) | 4:07 |
+| 48 | [Amanheceu \- Acústico](https://open.spotify.com/track/3XQkfQ7Qsacd6Xbpj1ZLvt) | [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg) | [Amanheceu \(Acústico\)](https://open.spotify.com/album/113z8oUYAMr59RfzyKHvTM) | 3:16 |
+| 49 | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM) | 4:31 |
+| 50 | [O amor te dá](https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [O amor te dá](https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW) | 4:07 |
+| 51 | [Somos Instantes \- Acústico](https://open.spotify.com/track/2QC2lDWjCrFRVpRNrYhF87) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Somos Instantes \(Acústico\)](https://open.spotify.com/album/4xgYuwgqMHm72Lm2FQ2YBd) | 3:44 |
 | 52 | [Que Sorte](https://open.spotify.com/track/1FQ3cnx1IURASKIdNsAV7z) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG) | [Gente](https://open.spotify.com/album/3CDZRUJC4rCsKWuDsJli6Z) | 3:16 |
 | 53 | [Lua Nova](https://open.spotify.com/track/5uZDrsNXW8qUuP9pli1CO3) | [PH Moraes](https://open.spotify.com/artist/71p4sNYcu8jEUqJ69tfrVU), [Marina Peralta](https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O) | [Lua Nova](https://open.spotify.com/album/14AZf0JZKJgmls9y59eA2c) | 2:41 |
 | 54 | [Conto as Horas](https://open.spotify.com/track/6IHBJfVaRtSqmjIVwWLsJb) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Início](https://open.spotify.com/album/7ER1Dk5IUHB3KOrEgBBDVr) | 3:12 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 73 | [Moradia](https://open.spotify.com/track/3q7Vt3TLkekBj4YhzIbjcD) | [A Banca 021](https://open.spotify.com/artist/13FuSigLoOp1jf1YKTNzC9) | [Lírios São Deusas](https://open.spotify.com/album/4c8ud8o7JRoiKEgEHRctss) | 3:08 |
 | 74 | [PREAMAR](https://open.spotify.com/track/5vXucjlEods0fafmWCudxU) | [Luê](https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj), [Felipe Cordeiro](https://open.spotify.com/artist/5Udg8m6Rj2wefjeKJZRvk4), [Júnior Soares](https://open.spotify.com/artist/4d4yeFgcaOZvMcCWWY0pON) | [PREAMAR](https://open.spotify.com/album/46P8ssX2MolOO2NNGcGoeA) | 4:21 |
 | 75 | [borboletas](https://open.spotify.com/track/3ix7wwdLi4h36YJh45Ishf) | [VELINO](https://open.spotify.com/artist/734KHvgPkNca48JLXvidB3) | [borboletas](https://open.spotify.com/album/3AAl60MR90VjS70y5UvjOi) | 2:55 |
-| 76 | [De Toda Mãe](https://open.spotify.com/track/2BHoY4Q7w2CHBfXj9z58Fo) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [ARREPIADA](https://open.spotify.com/album/7CEH5SQ6yP5MUlunhS8kH0) | 3:45 |
-| 77 | [Estrelas](https://open.spotify.com/track/6okZQfNorLbQlOamnbuCjB) | [Jonathan Luiz](https://open.spotify.com/artist/3Gj7twC88ahnNZktJhMGb2) | [Estrelas](https://open.spotify.com/album/3KWa6AHiQLSIvlWeoEPSkj) | 3:33 |
+| 76 | [Estrelas](https://open.spotify.com/track/6okZQfNorLbQlOamnbuCjB) | [Jonathan Luiz](https://open.spotify.com/artist/3Gj7twC88ahnNZktJhMGb2) | [Estrelas](https://open.spotify.com/album/3KWa6AHiQLSIvlWeoEPSkj) | 3:33 |
+| 77 | [De Toda Mãe](https://open.spotify.com/track/2BHoY4Q7w2CHBfXj9z58Fo) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [ARREPIADA](https://open.spotify.com/album/7CEH5SQ6yP5MUlunhS8kH0) | 3:45 |
 | 78 | [Sou Daqui](https://open.spotify.com/track/3eUTsCeVdnA68g6PJ9kXQd) | [Lucas Felix](https://open.spotify.com/artist/4bdlQqQxa0NVjqHWkr5meV) | [Sou Daqui](https://open.spotify.com/album/6dlqVfrdENu9wZsrj38w0O) | 3:28 |
 | 79 | [Praia do Flamengo](https://open.spotify.com/track/42Buyq4Ae5XDO7LHv8IHGV) | [Rafael Pondé](https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc) | [Praia do Flamengo](https://open.spotify.com/album/3oZNokSA98ACGWJkOhZnb9) | 4:31 |
 | 80 | [Dendê](https://open.spotify.com/track/6GHnfVzr6EV7kiT9VK4imY) | [Matheus de Bezerra](https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm), [Tiné](https://open.spotify.com/artist/5JrbMsFnbJZdlS07y7p4Yz) | [Dendê](https://open.spotify.com/album/3U8bBYe8mDobP6FKeSyERH) | 4:46 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 84 | [Vem de Lá](https://open.spotify.com/track/1V8IphB2YwtdE0lDKoRO6J) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Pra Gente Acordar](https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI) | 3:00 |
 | 85 | [Sorriso De Agogô](https://open.spotify.com/track/5GjXV8tRa3E75x2yT7hyHO) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Sorriso De Agogô](https://open.spotify.com/album/7p22uztBa6bw19hV7Jcqz9) | 3:16 |
 
-Snapshot ID: `MCwwZDY1ZWFmNjBlY2MxOTc0ZTJkN2VmOTEyMzQ3MzQyYTczYjhlZDUz`
+Snapshot ID: `MCw3YWUzZTIyYmQ1Y2IzZmZhOGJjZTE4YjE1NWI4ODU2NDM4NDc4ZTIw`

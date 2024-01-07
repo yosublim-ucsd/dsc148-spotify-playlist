@@ -2269,6 +2269,24 @@
     },
     {
       "album": {
+        "name": "GIZMO",
+        "url": "https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1"
+      },
+      "artists": [
+        {
+          "name": "Tanukichan",
+          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139093,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/5WG6oimqjMZHIUsbXvKVxI"
+    },
+    {
+      "album": {
         "name": "Diamonds & Gasoline",
         "url": "https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p"
       },
@@ -2518,6 +2536,24 @@
       "duration_ms": 283752,
       "name": "Five Years - 2012 Remaster",
       "url": "https://open.spotify.com/track/1JIzFhI9Lt5FyslawmHCBi"
+    },
+    {
+      "album": {
+        "name": "Space Heavy",
+        "url": "https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5"
+      },
+      "artists": [
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239910,
+      "name": "Flimsier",
+      "url": "https://open.spotify.com/track/1tzww8WyoZheUB7wmZpTyW"
     },
     {
       "album": {
@@ -2867,6 +2903,24 @@
     },
     {
       "album": {
+        "name": "Boat Songs",
+        "url": "https://open.spotify.com/album/22gbAfr4V10JH93bV7dKW0"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136124,
+      "name": "Hangover Game",
+      "url": "https://open.spotify.com/track/5I2qACyvSTaasSNaWiT90G"
+    },
+    {
+      "album": {
         "name": "Beloved! Paradise! Jazz!?",
         "url": "https://open.spotify.com/album/79cZfoRuFR4M6y8Fcn58E3"
       },
@@ -3199,6 +3253,24 @@
     },
     {
       "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196106,
+      "name": "I Still Do",
+      "url": "https://open.spotify.com/track/7EJvwHjf9NKCmYBBGOuwQS"
+    },
+    {
+      "album": {
         "name": "New Blue Sun",
         "url": "https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD"
       },
@@ -3394,6 +3466,24 @@
       "duration_ms": 181965,
       "name": "Into the Deep Time (One Sun)",
       "url": "https://open.spotify.com/track/0lw2mLzNcwftfTvDojdySG"
+    },
+    {
+      "album": {
+        "name": "Desire Lines",
+        "url": "https://open.spotify.com/album/6mbmCt3Dh4vypVwGBNckYi"
+      },
+      "artists": [
+        {
+          "name": "Camera Obscura",
+          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29768,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/7wubsLdzG0uK4XYqdbWqgR"
     },
     {
       "album": {
@@ -3876,7 +3966,7 @@
       ],
       "date_added": "2023-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 121974,
       "name": "Leather & Lace",
       "url": "https://open.spotify.com/track/33Z5vF0bF0OyZWabDcXgbB"
@@ -6022,7 +6112,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 275317,
       "name": "Sleeping Ute",
       "url": "https://open.spotify.com/track/2PoqnzWrZku3y90o50wVNi"
@@ -6436,7 +6526,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 226226,
       "name": "Suspended From Class",
       "url": "https://open.spotify.com/track/2YDmCSVs46QrhD2sqYGGqx"

@@ -1,12 +1,12 @@
 {
   "description": "Grandes m\u00fasicas pra voc\u00ea curtir com seu amorzinho (ou pensando nele) ",
-  "num_followers": 790030,
+  "num_followers": 790077,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMWJhMGE4YzA3YmY5OTIzYzc3Y2U2YjJjNGM1NDUxOGQyM2ZmZjY5",
+  "snapshot_id": "MCw3ZjU4NTc3OTgxNzk2MWIzZjRmMGFhODhiZWMxZGVmZDdhOWIzNWE2",
   "tracks": [
     {
       "added_at": "2023-12-11 13:23:48",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
+        "name": "ANAVIT\u00d3RIA",
+        "url": "https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 206108,
+      "name": "Singular",
+      "url": "https://open.spotify.com/track/2bwNhYxgQlkokiEn94eAYT"
+    },
+    {
+      "added_at": "2023-12-11 13:23:48",
+      "album": {
         "name": "Ana E Jorge",
         "url": "https://open.spotify.com/album/3EVU0AnPTXK1scTVMrG8Sm"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 318026,
       "name": "\u00c9 Isso A\u00ed (The Blower'S Daughter)",
       "url": "https://open.spotify.com/track/6tvnj77OJD0DJTgSIi6fQ3"
-    },
-    {
-      "added_at": "2023-12-11 13:23:48",
-      "album": {
-        "name": "ANAVIT\u00d3RIA",
-        "url": "https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 206108,
-      "name": "Singular",
-      "url": "https://open.spotify.com/track/2bwNhYxgQlkokiEn94eAYT"
     },
     {
       "added_at": "2023-12-11 13:23:48",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
-        "name": "A Bolha",
-        "url": "https://open.spotify.com/album/26Tbxt6xagipSQItYUBCeE"
+        "name": "Agridoce",
+        "url": "https://open.spotify.com/album/5OLjJ3js2XpdaDGBAk5X5x"
       },
       "artists": [
         {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+          "name": "Agridoce",
+          "url": "https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI"
         }
       ],
-      "duration_ms": 183542,
-      "name": "O Amor \u00e9 o Segredo",
-      "url": "https://open.spotify.com/track/7tOXo8dzQYKgWHWB9nxBVg"
+      "duration_ms": 349573,
+      "name": "Dan\u00e7ando",
+      "url": "https://open.spotify.com/track/0QDXiLDkxOPlqwAsCCSggx"
     },
     {
       "added_at": "2023-12-11 13:23:48",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
-        "name": "Agridoce",
-        "url": "https://open.spotify.com/album/5OLjJ3js2XpdaDGBAk5X5x"
+        "name": "A Bolha",
+        "url": "https://open.spotify.com/album/26Tbxt6xagipSQItYUBCeE"
       },
       "artists": [
         {
-          "name": "Agridoce",
-          "url": "https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI"
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
-      "duration_ms": 349573,
-      "name": "Dan\u00e7ando",
-      "url": "https://open.spotify.com/track/0QDXiLDkxOPlqwAsCCSggx"
+      "duration_ms": 183542,
+      "name": "O Amor \u00e9 o Segredo",
+      "url": "https://open.spotify.com/track/7tOXo8dzQYKgWHWB9nxBVg"
     },
     {
       "added_at": "2023-12-11 13:23:48",

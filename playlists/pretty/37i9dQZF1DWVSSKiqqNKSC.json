@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 233906,
+  "num_followers": 234005,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzA5ZThiODY0NjA0NzlmYmUwOGZmMGQ5MmU0MTJjNjk0YTMzZjdk",
+  "snapshot_id": "MCxmY2IyNzQxZDI0OWI2MTU1OGNlYzhjYmMwZGQ5OWQwOWZlZTE2ODhi",
   "tracks": [
     {
       "added_at": "2022-12-30 18:20:45",
@@ -739,22 +739,18 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "La Vuelta al Mundo",
-        "url": "https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG"
+        "name": "Reina de la Canci\u00f3n Latina",
+        "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
       },
       "artists": [
         {
-          "name": "Alexander Abreu",
-          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
-        },
-        {
-          "name": "Havana D\u2019Primera",
-          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
+          "name": "La Lupe",
+          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
         }
       ],
-      "duration_ms": 247226,
-      "name": "Venenosa",
-      "url": "https://open.spotify.com/track/0BAQ2NB5guuQs5fr1L2elE"
+      "duration_ms": 165213,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -775,18 +771,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Reina de la Canci\u00f3n Latina",
-        "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
+        "name": "La Vuelta al Mundo",
+        "url": "https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG"
       },
       "artists": [
         {
-          "name": "La Lupe",
-          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
+          "name": "Alexander Abreu",
+          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
+        },
+        {
+          "name": "Havana D\u2019Primera",
+          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
         }
       ],
-      "duration_ms": 165213,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG"
+      "duration_ms": 247226,
+      "name": "Venenosa",
+      "url": "https://open.spotify.com/track/0BAQ2NB5guuQs5fr1L2elE"
     },
     {
       "added_at": "2022-12-30 18:20:45",

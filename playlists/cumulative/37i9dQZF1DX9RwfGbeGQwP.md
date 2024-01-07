@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,366 songs - 2 day 3 hr 29 min
+1,367 songs - 2 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [crimeage](https://open.spotify.com/track/0tFutaV60AviDnHLPWoViG) | [Meringuemanic](https://open.spotify.com/artist/1erELVAyuBVTCgtSx6Yfjn) | [crimeage](https://open.spotify.com/album/1l2lkRiQHM1qvb43BEsMdp) | 2:04 | 2023-01-20 |  |
 | [Crispiness](https://open.spotify.com/track/67TiB4FlJItKnZFtlXg51R) | [Dee Dee Kidd](https://open.spotify.com/artist/0FiYOjX2fWu29n1P8sud2s) | [Crispiness](https://open.spotify.com/album/4yyRZwLzJcPm8J7OW9zjqf) | 2:38 | 2023-11-17 |  |
 | [Crispy](https://open.spotify.com/track/5jMGBHLA0scjcWYNbPpAg7) | [Rivizion](https://open.spotify.com/artist/1esGPYEd8HVgZnwtDicKoJ), [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi) | [Crispy](https://open.spotify.com/album/7wPqOEwUuxvDedWMVeP3fl) | 2:09 | 2022-11-25 | 2023-09-05 |
+| [Crispy Sage](https://open.spotify.com/track/08zvdKdFjourd8elx88P5U) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Crispy Sage](https://open.spotify.com/album/0QqBBwU6LApICEEeVIgaVo) | 2:16 | 2024-01-05 |  |
 | [crunchy leaves](https://open.spotify.com/track/508p8oMRzPqbJIziK3thrv) | [Jfab](https://open.spotify.com/artist/7jqOx7roPoSzHGnNWBFVqW), [Adam Meckler](https://open.spotify.com/artist/3vvgv6M5R6ZdQ0kgDubGRl) | [crunchy leaves](https://open.spotify.com/album/2dh7ZzxwrzQ8s2i60v07iG) | 1:59 | 2022-12-09 | 2023-10-06 |
 | [crush on me](https://open.spotify.com/track/1NNJD3rlNeipFPSpEKXp8P) | [dirtybirdie](https://open.spotify.com/artist/757oyVLql8wYqYzOEz7BIT) | [for you](https://open.spotify.com/album/2Ee66lYmpcXnbSW5cZbJxw) | 1:52 | 2022-07-08 |  |
 | [Cryon](https://open.spotify.com/track/5HGbCqPkdjQMuzA4FuHZ2F) | [Rhode Chain](https://open.spotify.com/artist/7bNOMStsWlhQ05wzIu8vIW) | [Rhode Chain](https://open.spotify.com/album/4hNCIHb12UGIyHcGItCD3m) | 2:37 | 2022-01-27 | 2023-04-21 |
@@ -1111,7 +1112,7 @@
 | [starry night](https://open.spotify.com/track/4CvWJJdqIkE03l4P6PcXLc) | [Angry Apple](https://open.spotify.com/artist/3rcNqFlMCnywhkqxW6e0vW) | [Honeycrisp](https://open.spotify.com/album/25exJu8A2PIVrDg2kXRwov) | 1:41 | 2022-07-01 | 2022-12-10 |
 | [starwish](https://open.spotify.com/track/0DRManbKs2yPnpLuuvfcZn) | [Hector Mazza](https://open.spotify.com/artist/3ceaS5uC2QpuBHUwmfZ5wX) | [starwish](https://open.spotify.com/album/29kjxua5Rhr7rQ2iVxpPm5) | 2:01 | 2022-09-30 |  |
 | [Steady](https://open.spotify.com/track/2eRAIYu9VmN2JaoTBciv5O) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Steady](https://open.spotify.com/album/6mNT3HUDIwel5R9r4H8DEc) | 2:20 | 2023-01-13 |  |
-| [stellar](https://open.spotify.com/track/03opga5exSy6dVnqj4aGsa) | [Chillide](https://open.spotify.com/artist/6k0mhNZbwZiBIXcihGHwn9) | [stellar](https://open.spotify.com/album/4NPCR8XYYNtqiA635xz9Yl) | 2:16 | 2023-11-17 |  |
+| [stellar](https://open.spotify.com/track/03opga5exSy6dVnqj4aGsa) | [Chillide](https://open.spotify.com/artist/6k0mhNZbwZiBIXcihGHwn9) | [stellar](https://open.spotify.com/album/4NPCR8XYYNtqiA635xz9Yl) | 2:16 | 2023-11-17 | 2024-01-07 |
 | [Step](https://open.spotify.com/track/51pGm8SzomGrEjBKzGQnYQ) | [Stereo Pack](https://open.spotify.com/artist/7En99WrIYmOSMXYJK3A16w) | [Sunrise Citi](https://open.spotify.com/album/3ZV8TP7HHfTQN5JnpRrTUM) | 2:00 | 2022-01-27 | 2022-10-29 |
 | [Stewart brunch](https://open.spotify.com/track/73O4hg0NPZUAShQOmzb1aT) | [Euphoric](https://open.spotify.com/artist/1bwMazAmHtSVXFislONO1i) | [Stewart Brunch](https://open.spotify.com/album/6GxYAimSYBqW9wzWA4BF1f) | 1:44 | 2022-09-02 |  |
 | [Stickwithit](https://open.spotify.com/track/4oHP5Y5kJXrnNPh6M7iMsn) | [Recaps](https://open.spotify.com/artist/10AsJvn27mBPRP1G05gQs1) | [Stickwithit](https://open.spotify.com/album/5HfJlErhpKw5scselQANe3) | 2:48 | 2022-01-27 | 2022-11-12 |

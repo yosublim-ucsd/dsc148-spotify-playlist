@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,824 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,815 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 49 | [lust](https://open.spotify.com/track/6l2XwFCDccPyfvrAvZ97hC) | [Rei Harakami](https://open.spotify.com/artist/1orPVlRmIYWQ2KkJcMjjnB) | [\[lust\]](https://open.spotify.com/album/5iTBKfzPNHpzZHHWyvXa05) | 5:00 |
 | 50 | [a beautiful day](https://open.spotify.com/track/3noxajjedyBfsd5eXjBwxC) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [heavenly tone](https://open.spotify.com/album/3gobeqbi2tgEkElXQ77c9k) | 4:56 |
 
-Snapshot ID: `MCw1YjJlYTFmZDYwMWMzNjRkOTY0YWFhZmVhODhjMWY3MWE1NDYyZTg3`
+Snapshot ID: `MCxiY2VlODEzNTBmMTllM2IyMGIwYWY1ODgyMzMzMDk4MjM3NTcxYzc4`

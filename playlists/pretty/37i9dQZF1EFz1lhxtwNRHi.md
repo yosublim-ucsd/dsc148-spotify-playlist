@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5tDsz1WqJv1ZFSXeC453wy">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,376 likes - 159 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,376 likes - 159 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Treat You Better](https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate](https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd) | 3:07 |
 | 2 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/2nADG9vt8bnjIgdDP3ayhG) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [There's Nothing Holdin' Me Back](https://open.spotify.com/album/4PyktVwHNVPcfmcWas0ABR) | 3:58 |
-| 3 | [Stitches](https://open.spotify.com/track/3zkWCteF82vJwv0hRLba76) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/0CnQ0JQajNswRjPkNYVG8m) | 3:26 |
+| 3 | [Stitches](https://open.spotify.com/track/2Cm7fX9OtLd5r9wJgA6N3V) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Stitches \(Official Video\)](https://open.spotify.com/album/3BHbgMpMlaFukTSSTgddiD) | 4:00 |
 | 4 | [Mercy](https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:28 |
 | 5 | [If I Can't Have You](https://open.spotify.com/track/2bT1PH7Cw3J9p3t7nlXCdh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes \(Deluxe\)](https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w) | 3:11 |
 | 6 | [In My Blood](https://open.spotify.com/track/2QZ7WLBE8h2y1Y5Fb8RYbH) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 3:31 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 25 | [O.D.D.](https://open.spotify.com/track/1HuIahUPUXCx7Kz4rgMXFU) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 3:42 |
 | 26 | [Fitness](https://open.spotify.com/track/0FhBANnxcQBgD3tQ75WFAn) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Fitness](https://open.spotify.com/album/3JtDo6OmIf78RSc94KdWMR) | 2:36 |
 | 27 | [DANCE](https://open.spotify.com/track/7BfSU2ya7PZtqrl48urKqG) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DANCE](https://open.spotify.com/album/1qjwOXdWtnPCoBftY4XKux) | 2:59 |
-| 28 | [If It Feels Good \(Then It Must Be\)](https://open.spotify.com/track/72Dd7GCaepMi8ktuXxmSZF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 3:14 |
+| 28 | [If It Feels Good \(Then It Must Be\)](https://open.spotify.com/track/5mjFhGj9vCSQWu14TcujUD) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [If It Feels Good \(Then It Must Be\) \[Official Video\]](https://open.spotify.com/album/2m7vT2cosVTxqUhZItj9V8) | 3:43 |
 | 29 | [Summer Nights](https://open.spotify.com/track/6Mq704d8DJi7r8zEsONOKI) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Town Called Paradise \(Japan Special Edition\)](https://open.spotify.com/album/473olrWTIYqylqGEVlS9t7) | 3:10 |
 | 30 | [Spaceship \(feat\. Uffie\) \- MOTi Remix](https://open.spotify.com/track/592JiALLj5xL5Z6LuMmaOV) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Spaceship \(feat\. Uffie\) \[Remixes\]](https://open.spotify.com/album/0RekAKOcexNf6alzxOOzzv) | 3:09 |
 | 31 | [Low Key \(feat\. Tyga\)](https://open.spotify.com/track/7xhvCzIguRfyfQyGrnWuVn) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Low Key \(feat\. Tyga\)](https://open.spotify.com/album/5Wba3IvT61Jz2kZDVKbrxH) | 3:21 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 158 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 159 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `Mjg0MDg0NTAsMDAwMDAwMDAxMGJjNDI5ZjBjMTM2NzZjZTBkYmI0NmFlMWUyNjI3Yw==`
+Snapshot ID: `Mjg0MDk4OTAsMDAwMDAwMDA4OTNlNTNjZDI5OGZlN2M2YmU1ZmY1OTMxMWI0YTgwYg==`

@@ -1,12 +1,12 @@
 {
   "description": "Rap per darti la carica che stavi cercando \ud83d\udcaa\ud83c\udfcb\ufe0f\ud83c\udfc3\u200d\u2640",
-  "num_followers": 337512,
+  "num_followers": 337576,
   "original_name": "Rap Motivazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWM2YzZlZDU0Yjk4ZGY0ZmQ3OTgyZTJiNWEwYWYzNDk4YjhkNmI1",
+  "snapshot_id": "MCwyNzg1Y2EyOGZlNWRiZmM1ZWQxOTA5N2Y4ZTM3MzA4MDg3MzFkYTRj",
   "tracks": [
     {
       "added_at": "2024-01-03 09:30:00",
@@ -543,26 +543,6 @@
     {
       "added_at": "2024-01-03 09:30:00",
       "album": {
-        "name": "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course",
-        "url": "https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 205733,
-      "name": "Numb / Encore",
-      "url": "https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn"
-    },
-    {
-      "added_at": "2024-01-03 09:30:00",
-      "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 161506,
       "name": "The Next Episode",
       "url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
+    },
+    {
+      "added_at": "2024-01-03 09:30:00",
+      "album": {
+        "name": "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course",
+        "url": "https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 205733,
+      "name": "Numb / Encore",
+      "url": "https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn"
     },
     {
       "added_at": "2024-01-03 09:30:00",
@@ -1327,22 +1327,26 @@
     {
       "added_at": "2024-01-03 09:30:00",
       "album": {
-        "name": "FATHER OF 4",
-        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
       "artists": [
         {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         },
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 205803,
-      "name": "Clout (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/59ywHNwwchG4nZJMLyxSzd"
+      "duration_ms": 200186,
+      "name": "The London (feat. J. Cole & Travis Scott)",
+      "url": "https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n"
     }
   ],
   "unique_name": "Rap Motivazionale",

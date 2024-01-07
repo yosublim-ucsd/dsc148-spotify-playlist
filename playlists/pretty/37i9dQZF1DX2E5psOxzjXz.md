@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Mooroo
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,344 likes - 90 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,368 likes - 90 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 89 | [Choro](https://open.spotify.com/track/13GkX2Jop4q9FxtGvwb3MH) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285) | [Choro](https://open.spotify.com/album/47LlbY7qhYsG5aPXflzG69) | 3:52 |
 | 90 | [Peanut Butter](https://open.spotify.com/track/6DULqMlVA3TBjhl5gxnTp1) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Nautanki](https://open.spotify.com/album/4cWRqa8lbidF3vyUdX4H9D) | 3:49 |
 
-Snapshot ID: `MCw5ZjdkZjU2NjA4OGVhMjg5YmQ3ZWQ0ZDZiY2NlNTExYzZhY2RlMDdl`
+Snapshot ID: `MCxhNTgwNTZjYjgxNzc1NGI0NGM3NzEyZWM4MmI4NzYxZDUzNDU3MGEx`

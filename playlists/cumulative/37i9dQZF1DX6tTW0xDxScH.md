@@ -4,7 +4,7 @@
 
 > Where everything is lovely and snuggly <3
 
-282 songs - 17 hr 45 min
+283 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,8 @@
 | [Like a Ship](https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Keite Young](https://open.spotify.com/artist/2euNKUC2iR9HRDVjLbhNdn) | [Like a Ship](https://open.spotify.com/album/3FEpG0GuwgCz8wNBkmQY7I) | 5:53 | 2021-10-18 | 2023-01-07 |
 | [Line Of Fire](https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:08 | 2022-04-27 |  |
 | [Line of Fire](https://open.spotify.com/track/3C3ArxTzVCYVzHpzq6AO9G) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/7x9Q6tQyDcS6EhWsmTgujm) | 3:08 | 2021-10-18 | 2022-07-29 |
-| [Little Life](https://open.spotify.com/track/3MBWR1rqc72QGiFIaOpKv6) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Caramel](https://open.spotify.com/album/0GgcxG8Xq5qN3rcYvjqzF0) | 4:30 | 2023-12-12 |  |
+| [Little Life](https://open.spotify.com/track/3MBWR1rqc72QGiFIaOpKv6) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Caramel](https://open.spotify.com/album/0GgcxG8Xq5qN3rcYvjqzF0) | 4:30 | 2023-12-12 | 2024-01-07 |
+| [Little Life](https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Caramel](https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o) | 4:30 | 2023-12-15 |  |
 | [Little Sparrow](https://open.spotify.com/track/4j4ixOYgzBK0uueLSWHIPs) | [Alan Dunham](https://open.spotify.com/artist/0HyRfadsaqVv6kLRUMrBOY) | [Little Sparrow b/w A Little Bit Longer](https://open.spotify.com/album/6LPrpZalYdzT3oG0YGspGK) | 2:42 | 2021-10-29 | 2021-12-28 |
 | [Lost](https://open.spotify.com/track/25JOOXgL3bVkBzjzGvcLoE) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Sour Lemon](https://open.spotify.com/album/2gl1YvNVNAd1DdV3r7rOQ0) | 3:56 | 2021-10-18 | 2022-11-13 |
 | [Lotta Love](https://open.spotify.com/track/4ICpTkGZ8khDEgk1edstz0) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Lotta Love](https://open.spotify.com/album/6ocfxxkgWCkw3jvjI0eWR7) | 3:17 | 2021-10-18 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Bercez vos petits bouts avec ces quelques notes de piano
 
-400 songs - 11 hr 43 min
+402 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Daydreaming](https://open.spotify.com/track/1VlnAbsdShC6D0Gnp6glBn) | [Nicola Casalino](https://open.spotify.com/artist/3yfPBQP1jcsBr5LNlbipBR) | [Man In The Moon](https://open.spotify.com/album/2qvSAdDXgr3sk7gKy6m0cy) | 3:33 | 2023-09-22 |  |
 | [Dear friend](https://open.spotify.com/track/6OlAeouZ2LpqWm0xfIuIla) | [Stacy Gaffer](https://open.spotify.com/artist/32pd92japrh3yC0QI2AnQt) | [Dear friend](https://open.spotify.com/album/3xLQqYtb1EzWLigJTIjpI7) | 1:39 | 2023-09-22 |  |
 | [Deerling](https://open.spotify.com/track/31UeN68d7ptFRmYkiuMGPc) | [Angela Simone](https://open.spotify.com/artist/57tm8rfEJMqvodKLqeoJpW) | [Wonderous](https://open.spotify.com/album/3mOYLczPc895azDE6q21AB) | 2:26 | 2023-09-22 |  |
-| [Den Visslande Valen](https://open.spotify.com/track/5NPZY6q7EffxPGX8VMjJC4) | [Isa Gillis](https://open.spotify.com/artist/3rU2YqShYRVpdKKMHcJtJZ) | [Den Visslande Valen](https://open.spotify.com/album/7hBxYd5Zzos67NPhTbXJAu) | 2:13 | 2023-10-06 |  |
+| [Den Visslande Valen](https://open.spotify.com/track/5NPZY6q7EffxPGX8VMjJC4) | [Isa Gillis](https://open.spotify.com/artist/3rU2YqShYRVpdKKMHcJtJZ) | [Den Visslande Valen](https://open.spotify.com/album/7hBxYd5Zzos67NPhTbXJAu) | 2:13 | 2023-10-06 | 2024-01-07 |
 | [Ding dong](https://open.spotify.com/track/7aytpVhnbyhSk2SMYJyJ8F) | [Charlton Mynatt](https://open.spotify.com/artist/0BhoCPIZlDHUMMC8mXpCqU) | [Ding dong](https://open.spotify.com/album/6cckM8YGNmoqkleN5X6H4Z) | 1:25 | 2023-09-22 |  |
 | [Don't Wake the Baby](https://open.spotify.com/track/32ibtpTcLgQ40XUytiXkt0) | [Judy Bartley](https://open.spotify.com/artist/3LviZuoIAm8vDjxT4otaY7) | [Don't Wake the Baby](https://open.spotify.com/album/4nrLf0JMoHsMhWo5cdIIrc) | 1:46 | 2023-09-22 |  |
 | [Down the river](https://open.spotify.com/track/0Z9TV8m2DwsrNoCN1dKBcj) | [Hallam Akerman](https://open.spotify.com/artist/5LlVEV1vJSvZsTRtyXBtFI) | [Down the river](https://open.spotify.com/album/2lyBACzbruwkPiwTD5QDbo) | 1:08 | 2023-09-22 |  |
@@ -91,6 +91,7 @@
 | [Dreamer's Haven](https://open.spotify.com/track/2N0RwdlQ5HnnAPFcLcfHVY) | [Blossom Fischer](https://open.spotify.com/artist/54aAZVUQRxUU4thvslyFjz) | [Starlit Dreams](https://open.spotify.com/album/0ABckNHR2AX30O3Ul9xkl7) | 1:21 | 2023-09-22 |  |
 | [Dreamland Serenade](https://open.spotify.com/track/6Uj1Q4hlJkzYj2ecO7Z84i) | [Paul Ellier](https://open.spotify.com/artist/2ffr4kDekHfqOgMV0fhlSu) | [The Sweetest Of Dreams](https://open.spotify.com/album/1RqpjIoEAKSjA4yZ4traEo) | 2:13 | 2023-09-22 |  |
 | [Dreams](https://open.spotify.com/track/7LvNWRoBkIO5neAEEMCHTV) | [Elna Wood](https://open.spotify.com/artist/4OQq1goOaeVyJ5NwObkaEf) | [Dreams](https://open.spotify.com/album/5wGQM4bdUEwVEQgfnxnYO2) | 1:30 | 2023-09-22 |  |
+| [Dreamswing](https://open.spotify.com/track/44xSmkzDCWN8oJxrCB8pCM) | [Vincent Lundborg](https://open.spotify.com/artist/30nuHxknx89pxWn3jaKp5A) | [Dreamswing](https://open.spotify.com/album/7BDShI8oQkJ6J8Sdq266qp) | 1:58 | 2024-01-05 |  |
 | [Drømmer](https://open.spotify.com/track/0cbW73Xcxx91aTx3G7XPy3) | [Ritchie Wardrobe](https://open.spotify.com/artist/04xa2EjEIy886FSZiizhPy) | [Drømmer](https://open.spotify.com/album/5Rx4eiIdreClTqOBczjJhI) | 1:16 | 2023-10-06 |  |
 | [Edelweiss](https://open.spotify.com/track/5VqYIR8jiqFaMkXmXMvY2P) | [Sasha Gardner](https://open.spotify.com/artist/1v6vfNoFtjrE3iAgvJKMa7) | [Edelweiss](https://open.spotify.com/album/3XmoG1qMCD7ma5bAMPmU5a) | 1:32 | 2023-09-22 |  |
 | [Eden's Grass](https://open.spotify.com/track/0DBFljDvAjeIStakv8HASX) | [The Piano Hive](https://open.spotify.com/artist/0Mo0e0qwgpS4x9Il9FU3T7) | [Eden's Grass](https://open.spotify.com/album/2ZRy5reecRQg9hfQCFJNmJ) | 1:32 | 2023-09-22 |  |
@@ -148,7 +149,7 @@
 | [Humpty Dumpty](https://open.spotify.com/track/4MQtNTRVapyWkyKmL8Uy1M) | [Scarlet Sutton](https://open.spotify.com/artist/3uBIlLw3btitlfBAH34Hif) | [Humpty Dumpty](https://open.spotify.com/album/17Fo4tx58tyz7khFwtsk45) | 1:19 | 2023-09-22 |  |
 | [Hush Hush](https://open.spotify.com/track/4QOY64QuYpwPdWq3443dSM) | [Elma Korn](https://open.spotify.com/artist/1ibEA5Sl56QTy8j7Tssu9Q) | [Hush Hush](https://open.spotify.com/album/3kgKC0ucg4dd5QufW7LQmq) | 2:13 | 2023-12-08 |  |
 | [Hush Little Baby](https://open.spotify.com/track/3dZsGdzWYHCOXiikBixgmI) | [Steinar Lugn](https://open.spotify.com/artist/4t0C7gwYJn7VTcCU5os2m1) | [Hush Little Baby](https://open.spotify.com/album/7zitQ3fdy1ixpuX7c4W5Ze) | 1:44 | 2024-01-05 |  |
-| [Hush My Darling](https://open.spotify.com/track/7D9LtIHBOcAbaLSz7T6jFY) | [Yi Nantiro](https://open.spotify.com/artist/05aWuDQP5PwWhJEEsGNqYp) | [Hush My Darling](https://open.spotify.com/album/76JzQNot8OtPJoQzacDL8F) | 3:07 | 2023-10-06 |  |
+| [Hush My Darling](https://open.spotify.com/track/7D9LtIHBOcAbaLSz7T6jFY) | [Yi Nantiro](https://open.spotify.com/artist/05aWuDQP5PwWhJEEsGNqYp) | [Hush My Darling](https://open.spotify.com/album/76JzQNot8OtPJoQzacDL8F) | 3:07 | 2023-10-06 | 2024-01-07 |
 | [Hush Now Little Baby](https://open.spotify.com/track/4zP8XMQnw6QGJZKVS0Wes3) | [Rosalie Andersdotter](https://open.spotify.com/artist/4s5tfHvAPebz3Ue4DP6KTb) | [Hush Now Little Baby](https://open.spotify.com/album/3qp71hKEcuiDaiwVjtAICq) | 2:11 | 2023-09-22 |  |
 | [Hymn For Tilda](https://open.spotify.com/track/7mZVmuLQFNnEBcExA6tOAi) | [The Stories We Tell](https://open.spotify.com/artist/0KZ1jg7xT2z2zrMCY2iAlB) | [Hymn For Tilda](https://open.spotify.com/album/4nF5p7Ilgk8g6TCTkyQ9oI) | 2:19 | 2023-09-22 |  |
 | [I Believe In Magic](https://open.spotify.com/track/04nJrprLfKlFCjBLGZ9URD) | [Nettie Vincent](https://open.spotify.com/artist/45l3luMqRH9aEYSBGtoDjf) | [I Believe In Magic](https://open.spotify.com/album/1p1lfNNmpKyYZngelTy1cy) | 1:35 | 2023-09-22 |  |
@@ -270,6 +271,7 @@
 | [Peppa pig theme](https://open.spotify.com/track/4Lp6k5QJ93u0f7xLyGESWT) | [Amélie Blumenthal](https://open.spotify.com/artist/5DkA7CcQDIGJjwvA6Amkpo) | [Peppa pig theme](https://open.spotify.com/album/31HygwzcDqvPQfBOj6LNIv) | 1:28 | 2023-11-17 |  |
 | [Pilutta\-Song](https://open.spotify.com/track/572prYPujydKqPwRejvXYq) | [Ophélia Dormi](https://open.spotify.com/artist/0Ju4B3OTi9o3FOpYyTEJuT) | [Pilutta\-Song](https://open.spotify.com/album/5Rcx3DId60933AT6IEGZGb) | 1:52 | 2023-09-22 |  |
 | [Pop Goes the Weasel](https://open.spotify.com/track/1pzGYBHQi2CKbQCVk17AJx) | [Lilah Cooke](https://open.spotify.com/artist/1UjSlpMf1i1ay4X7HhT2dR) | [Pop Goes the Weasel](https://open.spotify.com/album/7IvwovVFxkDrkqpG8EloBT) | 1:30 | 2023-09-22 |  |
+| [Poppy Puppy](https://open.spotify.com/track/5rpkYHBqreIuzSVrYWcNa1) | [Kim Akvileja](https://open.spotify.com/artist/7hSks32NbjUq855ksjMlMg) | [Poppy Puppy](https://open.spotify.com/album/69FfsvVstJkFev5cAgRhFs) | 1:29 | 2024-01-05 |  |
 | [Precious Dreamer](https://open.spotify.com/track/2SKo6awCXFRPIZD9cdahJr) | [Iris Avory](https://open.spotify.com/artist/20V4zCnXKfYPn2rzNQaRMF) | [Precious Dreamer](https://open.spotify.com/album/0hc26eDSgvRlEAOYmSEzma) | 2:02 | 2023-12-08 |  |
 | [Pretty Clouds](https://open.spotify.com/track/2PSeJbyLckCBqRtu4e7PGH) | [Sophie Ronstadt](https://open.spotify.com/artist/3vXkoxi4Fo3dhKEy1Wxa8V) | [Pretty Clouds](https://open.spotify.com/album/4RES8ZuWM8LS1Djl7YPnFd) | 1:24 | 2023-09-22 |  |
 | [Pumpkin Pie](https://open.spotify.com/track/7LWMmfNT45q9Y36HcFDgE0) | [Baby Queenie](https://open.spotify.com/artist/6AwIskMLg31uvFciCCWxjR) | [Pumpkin Pie](https://open.spotify.com/album/1JJsniJr177zM12sDXOSJQ) | 3:19 | 2023-09-22 |  |

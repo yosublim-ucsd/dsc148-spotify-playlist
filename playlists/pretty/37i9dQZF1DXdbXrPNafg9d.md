@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Youth Lagoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,282,944 likes - 175 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,282,993 likes - 175 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 91 | [distance](https://open.spotify.com/track/5gBzMkmAtyn1WhZcCz7mk3) | [miicah](https://open.spotify.com/artist/2aB4Le4Kw8PHghlMJ2T2oi) | [distance](https://open.spotify.com/album/0PM03cPbWRSe0rTTY9sqXm) | 3:19 |
 | 92 | [newrules](https://open.spotify.com/track/5R6MXypO60PCViBX5NBq9V) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [newrules](https://open.spotify.com/album/2blDLfji74IFcz24chuzCU) | 3:18 |
 | 93 | [Water Underground](https://open.spotify.com/track/56UnwWtjPqJA2gQthNALiR) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Water Underground](https://open.spotify.com/album/4qpSwHfArylYxrXD9BK7lI) | 3:26 |
-| 94 | [Never Fucked Up Twice \[Feat\. Bully\]](https://open.spotify.com/track/7h3qZvtmI5QfBjV7ETdFOY) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Very High / Never Fucked Up Twice](https://open.spotify.com/album/4tib35VzWbmYxb9SOAqUrV) | 2:33 |
+| 94 | [Never Fucked Up Twice](https://open.spotify.com/track/7h3qZvtmI5QfBjV7ETdFOY) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Very High / Never Fucked Up Twice](https://open.spotify.com/album/4tib35VzWbmYxb9SOAqUrV) | 2:33 |
 | 95 | [Alright, OK](https://open.spotify.com/track/7hj2XcjFRk7CG1aL0GqTQP) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [SUNSTRIKES](https://open.spotify.com/album/116qceKwaUUDLL7qh1tJsO) | 3:30 |
 | 96 | [Armatron](https://open.spotify.com/track/05x6pBQelgwQJs3ZeVfdEC) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Armatron](https://open.spotify.com/album/7pYfAkU5CwZFOgIzQncD3r) | 4:12 |
 | 97 | [Into Your Room \(with MUNA\)](https://open.spotify.com/track/3RaG1pAMRHFiCAqcE9KKNo) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Into Your Room \(with MUNA\)](https://open.spotify.com/album/5xoc8PmIs7xsuxaA7t4Oun) | 3:31 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 174 | [Nothing Lasts](https://open.spotify.com/track/67e8iug4iZ5MostXypvN8Z) | [Emily Yacina](https://open.spotify.com/artist/50oMAfElZgbElx2ktukv47) | [Nothing Lasts](https://open.spotify.com/album/6M1nzngMNVdFEd5G4vaCGo) | 2:54 |
 | 175 | [Crashing Through](https://open.spotify.com/track/3KO92UFKrYFiPxC7Je8vop) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Crashing Through](https://open.spotify.com/album/0M64PelFgrQAN5hnkB3vMi) | 3:43 |
 
-Snapshot ID: `MCw1ZThmMzY1ZTcwNGJlYTRiZjdlNjMwYzNmZDY2YzdiODBmZjQ2Nzgy`
+Snapshot ID: `MCxhNGMyYmMxZDVkODgwOTk5YTk2NWI1NDMxYWVkNmRkZjU5MDk2YzYw`

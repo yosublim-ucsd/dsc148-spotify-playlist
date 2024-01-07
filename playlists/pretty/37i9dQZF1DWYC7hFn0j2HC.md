@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 
 > ¡Lo mejor de los charros cantores! Vicente Fernández en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,235 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,376 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,15 +56,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 | 46 | [Pa' Todo el Año](https://open.spotify.com/track/3O8QuZZrZF9aDYlmmClMO6) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 2](https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG) | 3:07 |
 | 47 | [Cuando Sale la Luna](https://open.spotify.com/track/2vDaSr8NzCzG2rFtqup2Kq) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Que Te Vaya Bonito](https://open.spotify.com/album/3RUeLZqvyBYGvqk8qROre6) | 3:05 |
 | 48 | [Mi cariñito](https://open.spotify.com/track/4VCXBuzshKoXGqCu5C12tz) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [15 Inmortales de Pedro Infante](https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba) | 2:41 |
-| 49 | [Un Mundo Raro](https://open.spotify.com/track/6l13zG1kziZAn5LnaIqFjv) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Ella...La Que Se Fue](https://open.spotify.com/album/6nXy5pKpv1JY4WLqZczzcH) | 3:48 |
-| 50 | [No Volveré](https://open.spotify.com/track/4Ny3BGfhqH2XOkOMuR2A4Y) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Mexico Gran Colección Ranchera: Pedro Infante](https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC) | 4:27 |
+| 49 | [No Volveré](https://open.spotify.com/track/4Ny3BGfhqH2XOkOMuR2A4Y) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Mexico Gran Colección Ranchera: Pedro Infante](https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC) | 4:27 |
+| 50 | [Un Mundo Raro](https://open.spotify.com/track/6l13zG1kziZAn5LnaIqFjv) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Ella...La Que Se Fue](https://open.spotify.com/album/6nXy5pKpv1JY4WLqZczzcH) | 3:48 |
 | 51 | [El Adolorido](https://open.spotify.com/track/48GVUFn3gtM9taw5aZYlge) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancheras de Relajo](https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N) | 2:58 |
 | 52 | [La Ley del Monte](https://open.spotify.com/track/5DUU1yPitGPugNXB1YjNnu) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Hijo Del Pueblo](https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn) | 3:23 |
 | 53 | [Nadie Es Eterno](https://open.spotify.com/track/5Po7xN56zj0XD9ZiHNaUOY) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Un Hombre Derecho](https://open.spotify.com/album/6CYInvelVYl6zh4H0Acitl) | 3:08 |
 | 54 | [El Aventurero \(Yo El Aventurero\)](https://open.spotify.com/track/4v0CTkZMtlTrFSjNaD4Y27) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [El Charro de México](https://open.spotify.com/album/4O87qGykYzHA5dk9PjLJnm) | 3:14 |
 | 55 | [Camino de Guanajuato](https://open.spotify.com/track/4Llj18Ki0h1YLFTCZbpSp8) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Corridos Y Rancheras](https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf) | 3:13 |
-| 56 | [Tu enamorado](https://open.spotify.com/track/0s9KS4SRdpSuDBulhroP9V) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [15 Inmortales de Pedro Infante](https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba) | 3:09 |
-| 57 | [Un Puño De Tierra](https://open.spotify.com/track/7EGYbyTTEmmdqUu4MV6eHD) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Un Puño de Tierra](https://open.spotify.com/album/65VUOaoJRlzDEwFSIJdWS3) | 3:08 |
+| 56 | [Un Puño De Tierra](https://open.spotify.com/track/7EGYbyTTEmmdqUu4MV6eHD) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Un Puño de Tierra](https://open.spotify.com/album/65VUOaoJRlzDEwFSIJdWS3) | 3:08 |
+| 57 | [Tu enamorado](https://open.spotify.com/track/0s9KS4SRdpSuDBulhroP9V) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [15 Inmortales de Pedro Infante](https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba) | 3:09 |
 | 58 | [Payaso](https://open.spotify.com/track/4bvgQHmxuwOt251YF0FrUa) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Payaso](https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN) | 3:01 |
 | 59 | [Qué de Raro Tiene](https://open.spotify.com/track/3S1ksI8qYpwxFy8yPcSlte) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Qué De Raro Tiene](https://open.spotify.com/album/5N1xXRWtsVFU5exJhdYZdd) | 3:21 |
 | 60 | [Acá Entre Nos](https://open.spotify.com/track/7jGzWIfDZLVyLYEWaX3oTR) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Qué De Raro Tiene](https://open.spotify.com/album/5N1xXRWtsVFU5exJhdYZdd) | 3:15 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 | 69 | [Juan Charrasqueado](https://open.spotify.com/track/6N4N27KYUdgz7Ku1ZRTF4p) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Yo Soy Mexicano](https://open.spotify.com/album/5VZBNCZlegrwEBbmgWryRE) | 3:28 |
 | 70 | [Retirada](https://open.spotify.com/track/6kYxWFXzSkvwYBcdrHSFSD) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Sombras](https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B) | 2:52 |
 
-Snapshot ID: `MCwzM2M3ZDBlMzQzNzk1YWVmOGZlNGE3OWQzMjA4OGE2NWFkZWY2YWFj`
+Snapshot ID: `MCxjZTFmNjQ0YTkwZWFlZTA0YzE4OTY2NTJkNzQyMmJmN2VjN2IxMzdi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5h2VnNTubsH.md) - [plain]
 
 > Out of office ✅
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,432 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,408 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5h2VnNTubsH.md) - [plain]
 | 35 | [Never Gonna Stop](https://open.spotify.com/track/216LOkWfwFC0oI2ffMApMc) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Must Be Nice](https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L) | 3:59 |
 | 36 | [DNA \(Loving You\) \[feat\. Hannah Boleyn\]](https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [DNA \(Loving You\) \[feat\. Hannah Boleyn\]](https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R) | 2:44 |
 | 37 | [Keep Driving](https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:20 |
-| 38 | [HEATED](https://open.spotify.com/track/1w7cgGZR86yWz1pA2puVJD) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:20 |
-| 39 | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj) | 3:01 |
+| 38 | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj) | 3:01 |
+| 39 | [HEATED](https://open.spotify.com/track/1w7cgGZR86yWz1pA2puVJD) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:20 |
 | 40 | [DÓNDE ESTÁ](https://open.spotify.com/track/35syZ8HVLl1YBS0bY6nzaj) | [YOURS](https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7) | [DÓNDE ESTÁ](https://open.spotify.com/album/7u8SXWRQiR1aCmyjHCzwWJ) | 3:48 |
 | 41 | [Padam Padam](https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 2:46 |
 | 42 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5h2VnNTubsH.md) - [plain]
 | 53 | [VIRGO'S GROOVE](https://open.spotify.com/track/0Fl4eWzVaMUOdXcOrj6F1q) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 6:08 |
 | 54 | [Closer](https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Closer](https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA) | 2:15 |
 | 55 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW) | 4:10 |
-| 56 | [The Weekend](https://open.spotify.com/track/1r16zpUZ2nH44uOXlBGrbm) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [The Weekend](https://open.spotify.com/album/1NDf6Vtl4F6HJ3mziFQpZx) | 3:26 |
+| 56 | [Green Green Grass](https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 2:47 |
 | 57 | [COULD BE WRONG](https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu) | [LOSTBOYJAY](https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL) | [COULD BE WRONG](https://open.spotify.com/album/2aJE1EikJGFwNq0NdGHcZP) | 3:06 |
-| 58 | [Dancing is Healing](https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Dancing is Healing](https://open.spotify.com/album/5g3JRPJKgjcc20lORFpaqp) | 2:57 |
-| 59 | [Green Green Grass](https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 2:47 |
+| 58 | [The Weekend](https://open.spotify.com/track/1r16zpUZ2nH44uOXlBGrbm) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [The Weekend](https://open.spotify.com/album/1NDf6Vtl4F6HJ3mziFQpZx) | 3:26 |
+| 59 | [Dancing is Healing](https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Dancing is Healing](https://open.spotify.com/album/5g3JRPJKgjcc20lORFpaqp) | 2:57 |
 | 60 | [Rumble](https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Rumble](https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi) | 2:26 |
 | 61 | [Flip A Switch.](https://open.spotify.com/track/252ZECHopILLs10pMfE76N) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:21 |
 | 62 | [people pleaser](https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [people pleaser / sleep at night](https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C) | 2:26 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5h2VnNTubsH.md) - [plain]
 | 79 | [The Cure & The Cause \- Radio Edit](https://open.spotify.com/track/2aYryJEl86lIZWCS6X1CUm) | [Fish Go Deep](https://open.spotify.com/artist/0fOlkKkWVb6gOtwUXL2i0y), [Tracey K](https://open.spotify.com/artist/2RG9WXLhvCaeGE3gFaAAZg) | [The Cure & The Cause \(Radio Edit\)](https://open.spotify.com/album/4O082xEh8tgidqkcNKrVEN) | 2:37 |
 | 80 | [Sunshine](https://open.spotify.com/track/3Yr0vIcfXq5MWdSDmZzKgk) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 3:05 |
 
-Snapshot ID: `MCw3MGE4ZTFkZTI0ZTIzMDc4ODRhMjE1ZjQ5MWM2NGM1NWM4Njg5ZGQz`
+Snapshot ID: `MCxjMTkzZTZkMjI4YWM2YWFiNTc0ZjI3MWU0ODhlZDQzYWJiNjUxYzg4`

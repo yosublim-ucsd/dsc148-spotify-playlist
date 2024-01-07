@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 
 > A look back at this fruitful era comprising trip\-hop heavyweights, electronica's vanguard and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,316 likes - 100 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,415 likes - 100 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 33 | [Until The Morning](https://open.spotify.com/track/7nNUSD1jkWC71zIOUWY03E) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3), [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [The Richest Man In Babylon](https://open.spotify.com/album/22Y3wMfU6Bm0rtnjaljDSn) | 3:56 |
 | 34 | [Flip Ya Lid](https://open.spotify.com/track/6qb76Rj7bFYI4ZafAYlH96) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [In A Space Outta Sound](https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg) | 5:24 |
 | 35 | [2 Wicky](https://open.spotify.com/track/4NyKEVldCvokxpmeFBNNXI) | [Hooverphonic](https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX) | [A New Stereophonic Sound Spectacular](https://open.spotify.com/album/6FFKUYyfC9S8fDy725qLAq) | 4:44 |
-| 36 | [Soon It Will Be Cold Enough to Build Fires](https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Soon It Will Be Cold Enough](https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU) | 3:00 |
+| 36 | [Building Steam With A Grain Of Salt](https://open.spotify.com/track/4Ms0GKHCtr5Lpg4dKOhO2I) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Endtroducing.....](https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN) | 6:39 |
 | 37 | [Numb](https://open.spotify.com/track/7lR743VxfubUw5m9dpnR9x) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 3:55 |
-| 38 | [Building Steam With A Grain Of Salt](https://open.spotify.com/track/4Ms0GKHCtr5Lpg4dKOhO2I) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Endtroducing.....](https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN) | 6:39 |
+| 38 | [Soon It Will Be Cold Enough to Build Fires](https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Soon It Will Be Cold Enough](https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU) | 3:00 |
 | 39 | [Just Chillin'](https://open.spotify.com/track/41YJJAO78aMWy1puye2sUH) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [SB1](https://open.spotify.com/album/1p1w828sU7QewePqhfZKwh) | 2:14 |
 | 40 | [Aftermath](https://open.spotify.com/track/4wcWI3GEtaGm38dbdDFbyI) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Martina Topley\-Bird](https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6) | [Maxinquaye](https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8) | 7:38 |
 | 41 | [Lonely Soul](https://open.spotify.com/track/2LmFeLBe39IfY0XfqJ0vOi) | [UNKLE](https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC), [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Psyence Fiction](https://open.spotify.com/album/0LFPjvWEaHP7WKQD6F5pVS) | 8:53 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 54 | [Hey Now](https://open.spotify.com/track/51ZPtAuqT0V5lNONYZTrxy) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 3:27 |
 | 55 | [Magic Love \- Radio Edit](https://open.spotify.com/track/01K42inuuCqOB731ugiQAd) | [Bent](https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa) | [Magic Love \(Remixes\)](https://open.spotify.com/album/21KrsFEPYoXmJRIj0UNtnq) | 3:22 |
 | 56 | [Utopia](https://open.spotify.com/track/1dToJK56u2pOVA3S66OgPB) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Felt Mountain](https://open.spotify.com/album/1SVCM1f5fGypJbIixT1Eed) | 4:18 |
-| 57 | [Riders On the Storm](https://open.spotify.com/track/3uI0EptPACbrdR1Dq20oWu) | [Yonderboi](https://open.spotify.com/artist/4hi7BCJEn3xCR3VRZU1Ek7) | [Shallow and Profound](https://open.spotify.com/album/59h727IciPDdyh4bdd0WWT) | 4:19 |
-| 58 | [Breathe In](https://open.spotify.com/track/03kZca43rgVgphYctcopJU) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:37 |
+| 57 | [Breathe In](https://open.spotify.com/track/03kZca43rgVgphYctcopJU) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:37 |
+| 58 | [Riders On the Storm](https://open.spotify.com/track/3uI0EptPACbrdR1Dq20oWu) | [Yonderboi](https://open.spotify.com/artist/4hi7BCJEn3xCR3VRZU1Ek7) | [Shallow and Profound](https://open.spotify.com/album/59h727IciPDdyh4bdd0WWT) | 4:19 |
 | 59 | [High Noon](https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [G\-Stoned](https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN) | 6:26 |
 | 60 | [No jive](https://open.spotify.com/track/222Ag8me5qQFQ5oDxigDiu) | [De\-Phazz](https://open.spotify.com/artist/0WLS16S6MJvMgWXrUezleN) | [Hôtel Costes](https://open.spotify.com/album/7lp6VEaf4BefnCWv6Qfnf8) | 4:24 |
 | 61 | [DUST](https://open.spotify.com/track/7AHaKrKuhzpl4xK0r2Jd9g) | [HÆLOS](https://open.spotify.com/artist/132sZpCaM8ie6byAEcOcRs) | [Full Circle](https://open.spotify.com/album/71wCH1CJ7wh3kmPC3cQH71) | 4:38 |
@@ -82,10 +82,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 72 | [Don't Look Back](https://open.spotify.com/track/6T1DyqY15fNj7F5FK4r5VR) | [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF), [Angela McCluskey](https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x) | [Angel Milk](https://open.spotify.com/album/4YjO6XT3uuRvY9PGWPli7E) | 3:50 |
 | 73 | [Insomniac Olympics](https://open.spotify.com/track/7IuxuJBP6kwOOu1ShFzmR1) | [Blockhead](https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b) | [Music By Cavelight](https://open.spotify.com/album/5kEQ9AhNjGvjvplVU3dEkj) | 5:06 |
 | 74 | [In The Bath](https://open.spotify.com/track/5FccwnVjJbLIF2azQjCwyP) | [Lemon Jelly](https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc) | [LemonJelly.ky](https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk) | 6:41 |
-| 75 | [All Is Full of Love](https://open.spotify.com/track/3rrtbnOBDzKQfyYKTezEFe) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Greatest Hits](https://open.spotify.com/album/7AUW3zs7IECZjVVks1tfb2) | 4:47 |
-| 76 | [Slowly](https://open.spotify.com/track/15J6PrzKaLtvw0dBr9sq72) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Supermodified](https://open.spotify.com/album/54zaC0AviuCfkDwHsUJIra) | 5:37 |
+| 75 | [Slowly](https://open.spotify.com/track/15J6PrzKaLtvw0dBr9sq72) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Supermodified](https://open.spotify.com/album/54zaC0AviuCfkDwHsUJIra) | 5:37 |
+| 76 | [Nothing Can Stop Us](https://open.spotify.com/track/3izKffzHXSwXdhtJ9DasZU) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Foxbase Alpha](https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3) | 4:21 |
 | 77 | [Recurring](https://open.spotify.com/track/0tXU2cpXxXysj6jg4vSUbv) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Days To Come](https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn) | 4:52 |
-| 78 | [Nothing Can Stop Us](https://open.spotify.com/track/3izKffzHXSwXdhtJ9DasZU) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Foxbase Alpha](https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3) | 4:21 |
+| 78 | [All Is Full of Love](https://open.spotify.com/track/3rrtbnOBDzKQfyYKTezEFe) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Greatest Hits](https://open.spotify.com/album/7AUW3zs7IECZjVVks1tfb2) | 4:47 |
 | 79 | [Bittersweet Faith](https://open.spotify.com/track/3mjQWntZaTIysjKdQZWlgG) | [Bitter:Sweet](https://open.spotify.com/artist/28bLlI81wfpcHUSUPgktlx) | [The Mating Game](https://open.spotify.com/album/17FDgwgmO3tD7X7qX6m7Sy) | 4:19 |
 | 80 | [The Cosmic Game](https://open.spotify.com/track/6x8yvtqzNmzyzLbqy1BDIs) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [The Cosmic Game](https://open.spotify.com/album/5TXP9f2NLMzYoVOfyhAjFO) | 2:19 |
 | 81 | [Melt \- Remastered](https://open.spotify.com/track/5XoUmYzWa8YTaxxV9DWEU3) | [Leftfield](https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L) | [Leftism](https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp) | 5:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 99 | [Transatlantic](https://open.spotify.com/track/0uY3duWVyW02qcq9QhoQZY) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Apricot Morning](https://open.spotify.com/album/4RQOGfXsV5TVo5hJXNQ5ql) | 4:44 |
 | 100 | [End of Our Days](https://open.spotify.com/track/33u4LsVXzotyxM37912gNr) | [Archive](https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk) | [Restriction](https://open.spotify.com/album/4grzyr8RWop3h1MLoo74ZP) | 4:52 |
 
-Snapshot ID: `MCw5ZjM0YzMxNGVhMDYwOWYxMjU1YzIwZjg2NWUzZmQxZTExNjhiYTg1`
+Snapshot ID: `MCw0YjZmN2Q0ZjE5ZTBjOTFjZDNlZWI5NTVhMWMzOTBmZTk3NDkxNzAx`

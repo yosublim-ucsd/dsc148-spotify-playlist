@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Medikal
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,436 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,459 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 46 | [CORLEONE \(feat\. ODUMODUBLVCK & Steel Banglez\)](https://open.spotify.com/track/1XKbhxFEvUnk5B6WCOSa9H) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Steel Banglez](https://open.spotify.com/artist/12KTYt5AkiDP3GL7QSXd6W), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 3:49 |
 | 47 | [Vigilante Bop](https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u) | [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Vigilante Bop](https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG) | 3:00 |
 | 48 | [ROAD RUNNERS \(feat\. Black Sherif\)](https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:26 |
-| 49 | [No Joke](https://open.spotify.com/track/2HvW7GzIbiRQGAGytSBQz6) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [No Joke](https://open.spotify.com/album/6N9L2cPBhx54BGLIQBZzvj) | 2:42 |
+| 49 | [Longevity Flow](https://open.spotify.com/track/4xftWzEdtv72VcDlVvA5t0) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Longevity Flow](https://open.spotify.com/album/0UV7EM6NwjbyINDUwEpQUg) | 3:03 |
 | 50 | [PICANTO](https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ECko Miles](https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD) | [PICANTO](https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc) | 3:04 |
-| 51 | [Longevity Flow](https://open.spotify.com/track/4xftWzEdtv72VcDlVvA5t0) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Longevity Flow](https://open.spotify.com/album/0UV7EM6NwjbyINDUwEpQUg) | 3:03 |
+| 51 | [No Joke](https://open.spotify.com/track/2HvW7GzIbiRQGAGytSBQz6) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [No Joke](https://open.spotify.com/album/6N9L2cPBhx54BGLIQBZzvj) | 2:42 |
 | 52 | [All Eyes on Me \(feat\. Burna Boy, Da L.E.S\. & JR\)](https://open.spotify.com/track/6oAWlzrEbXFis7Z0kyeX0h) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Da Les](https://open.spotify.com/artist/4on53ORBym2GEnRhIptZwy), [JR](https://open.spotify.com/artist/1a0Wc4pzPAFe5ZFiL1glrr) | [Levels \(Explicit\)](https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe) | 4:18 |
 | 53 | [No More](https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No More](https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk) | 3:02 |
 | 54 | [Hustle](https://open.spotify.com/track/4cL6ewTK0FjZKtbajym8zp) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Hustle](https://open.spotify.com/album/76r9uFJKQoU35DH0uVaxoH) | 3:09 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 59 | [In Da Car](https://open.spotify.com/track/3UOg91DTKgZuWsYsV1Zn13) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [In Da Car](https://open.spotify.com/album/1DvFMj5C6pMKt0pebSlWhv) | 4:18 |
 | 60 | [BACK IN UNI](https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [BACK IN UNI](https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I) | 2:30 |
 
-Snapshot ID: `MCw2OWMxYTllYzdiY2I3ZGRlNjM3N2I4MGYyY2IxNjU0YWZhMmU3YzM3`
+Snapshot ID: `MCwxOTM1NGMzYzUxN2RlM2Q5ZTQxMTM1ZGNjYTg5NTg2NWRkZTQwOTcw`

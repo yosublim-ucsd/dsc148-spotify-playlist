@@ -2901,7 +2901,7 @@
     },
     {
       "album": {
-        "name": "Down With The King",
+        "name": "Down With the King",
         "url": "https://open.spotify.com/album/5Ui7Y42rwbwgnCmmtDdB8X"
       },
       "artists": [
@@ -6292,6 +6292,10 @@
         {
           "name": "Iman Europe",
           "url": "https://open.spotify.com/artist/6adkmtXg0Qlmahg9SxNVl0"
+        },
+        {
+          "name": "Kaelin Ellis",
+          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
         }
       ],
       "date_added": "2024-01-05",

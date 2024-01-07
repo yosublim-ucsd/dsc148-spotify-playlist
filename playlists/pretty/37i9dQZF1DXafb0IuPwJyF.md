@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: Number\_i
 
-[Spotify](https://open.spotify.com/user/spotify) - 864,074 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 864,433 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [旅をゆけ](https://open.spotify.com/track/3imZFhmB9bYSJYCKOnWTWm) | [奥田民生はっとり](https://open.spotify.com/artist/3oWHbGV27C3W2ZZz3rfGVs) | [旅をゆけ](https://open.spotify.com/album/6ZQsDrKZtuOoXC90iy0za3) | 3:51 |
 | 50 | [しょうもない夜](https://open.spotify.com/track/1mSDhkET9Qecp1EuPWX7Er) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [しょうもない夜](https://open.spotify.com/album/31zPEVkCWiYlzMKJF2FvGc) | 3:32 |
 
-Snapshot ID: `MCw5NzhlNDYwMDg1ZjAwZjY2YjMzYzRiYTYzZjEzYjBjNmJiNmY3NThl`
+Snapshot ID: `MCw3ODJhMDhhNzc3YjViMDE4ODNjZGE0OWE0MWYxNjBjMjA4M2MyZDg1`

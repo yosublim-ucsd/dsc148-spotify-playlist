@@ -1,12 +1,12 @@
 {
   "description": "sorry ik kan niet... moet studeren",
-  "num_followers": 28403,
+  "num_followers": 28412,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDgzMTBmODBlNTJkNmQ1YWIwNjcxY2ViZDIyNzJjOGQzMWI5ZTFm",
+  "snapshot_id": "MCw4ZmUyZDMwZDVjNTRmNWM4NGQ1OGIzZGIzOTc2ZTJkM2ZiZDdlNDA0",
   "tracks": [
     {
       "added_at": "2023-12-28 09:12:25",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-12-28 09:12:25",
       "album": {
-        "name": "One Day",
-        "url": "https://open.spotify.com/album/5dcblm6CNsl9cCiQ6CsKjr"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 202340,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/4Ey0LK1HzksUqm9JLzzKuD"
-    },
-    {
-      "added_at": "2023-12-28 09:12:25",
-      "album": {
         "name": "The Element Of Freedom",
         "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 216480,
       "name": "Empire State of Mind (Part II) Broken Down",
       "url": "https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI"
+    },
+    {
+      "added_at": "2023-12-28 09:12:25",
+      "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/5dcblm6CNsl9cCiQ6CsKjr"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 202340,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/4Ey0LK1HzksUqm9JLzzKuD"
     },
     {
       "added_at": "2023-12-28 09:12:25",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-12-28 09:12:25",
       "album": {
-        "name": "Teenage Mind",
-        "url": "https://open.spotify.com/album/7uxkPJEel1MLzreQUmvra0"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 155205,
-      "name": "Teenage Mind",
-      "url": "https://open.spotify.com/track/1vdjJ55uw3WOuu7ZSyABFP"
-    },
-    {
-      "added_at": "2023-12-28 09:12:25",
-      "album": {
         "name": "Chaos And The Calm",
         "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
       },
@@ -1619,22 +1603,6 @@
     {
       "added_at": "2023-12-28 09:12:25",
       "album": {
-        "name": "Birdy",
-        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 256236,
-      "name": "People Help the People",
-      "url": "https://open.spotify.com/track/0YywjDvFudcaHG74NuWISy"
-    },
-    {
-      "added_at": "2023-12-28 09:12:25",
-      "album": {
         "name": "Lonely (with benny blanco)",
         "url": "https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk"
       },
@@ -1651,6 +1619,38 @@
       "duration_ms": 149297,
       "name": "Lonely (with benny blanco)",
       "url": "https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q"
+    },
+    {
+      "added_at": "2023-12-28 09:12:25",
+      "album": {
+        "name": "Birdy",
+        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 256236,
+      "name": "People Help the People",
+      "url": "https://open.spotify.com/track/0YywjDvFudcaHG74NuWISy"
+    },
+    {
+      "added_at": "2023-12-28 09:12:25",
+      "album": {
+        "name": "Teenage Mind",
+        "url": "https://open.spotify.com/album/7uxkPJEel1MLzreQUmvra0"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 155205,
+      "name": "Teenage Mind",
+      "url": "https://open.spotify.com/track/1vdjJ55uw3WOuu7ZSyABFP"
     },
     {
       "added_at": "2023-12-28 09:12:25",

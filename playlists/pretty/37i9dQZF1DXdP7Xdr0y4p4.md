@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 
 > An essential list of recent hits of SoGo\.  Cover:  <a href="https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA">The Browns</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,350 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,368 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,15 +36,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 26 | [When God Ran](https://open.spotify.com/track/78bkWzaZ616DTt9HdkM0MN) | [Kingsmen](https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX) | [When God Ran](https://open.spotify.com/album/49A6zoKKgvWWT8HGHPzXR9) | 5:12 |
 | 27 | [God, Do it Again](https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o) | [The Taylors](https://open.spotify.com/artist/7cWAsRKW1DL0pRUXWyCDsX) | [Love Is the Voice](https://open.spotify.com/album/2CHhug02gOUxNAlahCkdMR) | 2:45 |
 | 28 | [Steppin' out in Faith](https://open.spotify.com/track/3oD8RRGLXHwk4vEMkbBo9k) | [Jim Brady Trio](https://open.spotify.com/artist/370fla8RwoHgAhGzUy56OB) | [A New Chapter](https://open.spotify.com/album/5uAhKPfP2Iy5lCgxLUQEpN) | 3:18 |
-| 29 | [Scars In Heaven](https://open.spotify.com/track/0FjQGUbhPf6xxHEHnPians) | [The Nelons](https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn) | [Scars In Heaven](https://open.spotify.com/album/1mbbSaw8XRvdqO4o8T8ZNg) | 4:29 |
-| 30 | [Best Thing](https://open.spotify.com/track/2LqfoPg1e7dud9HJSnaVsn) | [Triumphant Quartet](https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC) | [Bigger Than Sunday](https://open.spotify.com/album/0RgdcpTzlEU9m0WnfgsU19) | 3:17 |
+| 29 | [Best Thing](https://open.spotify.com/track/2LqfoPg1e7dud9HJSnaVsn) | [Triumphant Quartet](https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC) | [Bigger Than Sunday](https://open.spotify.com/album/0RgdcpTzlEU9m0WnfgsU19) | 3:17 |
+| 30 | [Scars In Heaven](https://open.spotify.com/track/0FjQGUbhPf6xxHEHnPians) | [The Nelons](https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn) | [Scars In Heaven](https://open.spotify.com/album/1mbbSaw8XRvdqO4o8T8ZNg) | 4:29 |
 | 31 | [Brighten The Corner Where You Are \- Radio Edit](https://open.spotify.com/track/0rnHhaqD3Rpu7P7sIktSji) | [The Browns](https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb) | [Brighten The Corner Where You Are \(Radio Edit\)](https://open.spotify.com/album/7tpVNdsEnSWj30uRodyS4y) | 2:29 |
 | 32 | [Plenty Good Room](https://open.spotify.com/track/06aouHeZQx45YdKPCnxgt6) | [Lynda Randle](https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI) | [Plenty Good Room](https://open.spotify.com/album/5YRDhVX5npZe6l8s8NcKyA) | 3:57 |
 | 33 | [Ten Thousand Angels / He Looked Beyond My Fault And Saw My Need](https://open.spotify.com/track/3ZMacOVRytVPDW8PtXQv2x) | [The Collingsworth Family](https://open.spotify.com/artist/4B43yyRlfQgDEhDPq35wUc), [Kim Collingsworth](https://open.spotify.com/artist/5Pyrtb7bDbSxoaB5ajdqts), [Phil Collingsworth, Jr.](https://open.spotify.com/artist/7hG3nweoWdpxkntjJSQwEN) | [Just Sing!](https://open.spotify.com/album/3HEPflkMDvnyoTXpnarPQz) | 7:37 |
 | 34 | [Peace in Trusting](https://open.spotify.com/track/0bRCxiCy7DKlaaa0cfZqc4) | [The Isaacs](https://open.spotify.com/artist/7Gr7Uulfyw9J9F74eQfBOp) | [Songs for the Times](https://open.spotify.com/album/37dXrupCMdsgBbOWlOy55U) | 3:44 |
 | 35 | [Pray Now](https://open.spotify.com/track/6BT4eCTe1MiGwAGgf5ezpJ) | [Karen Peck & New River](https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5) | [Pray Now](https://open.spotify.com/album/12uzTrOLpxr3j6zr0PLbC3) | 4:27 |
-| 36 | [How Great Thou Art](https://open.spotify.com/track/51SwrmMlPDLYWsBD62rXb6) | [John Berry](https://open.spotify.com/artist/0l5OmkXhNcXtfa1W9dTon6) | [How Great Thou Art](https://open.spotify.com/album/6MzRNdhppIWTDn8DvZZLwU) | 3:30 |
-| 37 | [Good in the Good Times](https://open.spotify.com/track/6m6CBaVU3KKztFkmz28m1I) | [Down East Boys](https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln) | [The Stories We Tell](https://open.spotify.com/album/4GJxoLRAleQBeEb6CSR2oI) | 3:01 |
+| 36 | [Good in the Good Times](https://open.spotify.com/track/6m6CBaVU3KKztFkmz28m1I) | [Down East Boys](https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln) | [The Stories We Tell](https://open.spotify.com/album/4GJxoLRAleQBeEb6CSR2oI) | 3:01 |
+| 37 | [How Great Thou Art](https://open.spotify.com/track/51SwrmMlPDLYWsBD62rXb6) | [John Berry](https://open.spotify.com/artist/0l5OmkXhNcXtfa1W9dTon6) | [How Great Thou Art](https://open.spotify.com/album/6MzRNdhppIWTDn8DvZZLwU) | 3:30 |
 | 38 | [Wake Up](https://open.spotify.com/track/1psN7GabVAeaBo0lTaDNUM) | [Ernie Haase & Signature Sound](https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0) | [Wake Up](https://open.spotify.com/album/2YUHflr83aTEzmqzpAWH57) | 3:38 |
 | 39 | [Everyday](https://open.spotify.com/track/3q0HpebwPnwOXkBJ17n0Fy) | [Triumphant Quartet](https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC) | [Everyday](https://open.spotify.com/album/5rI5TQVg0ZKN3bm2yDx2tA) | 3:45 |
 | 40 | [Lift up His Name](https://open.spotify.com/track/23a025gnBl8S0b7Cb9Bz0S) | [The Browders](https://open.spotify.com/artist/4Ug1lA45bfmGwUx76BWWfW) | [Time Machine](https://open.spotify.com/album/0Sl1oCoNsDtCkSLTaTZzpP) | 3:25 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 59 | [Something Bigger Than Me](https://open.spotify.com/track/59G9uFtqPCrqiZ9rfETjM8) | [John Berry](https://open.spotify.com/artist/0l5OmkXhNcXtfa1W9dTon6) | [Find My Joy](https://open.spotify.com/album/0dM55Mul4BUtsZ6zDBEhWN) | 4:09 |
 | 60 | [Glorious Appearing](https://open.spotify.com/track/2CGX7JVKELwjNgs4FppLEU) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Glorious Appearing](https://open.spotify.com/album/3kPtp2JB1FsCW7ntRNt99W) | 3:48 |
 | 61 | [Welcome to Your Life](https://open.spotify.com/track/5NiZESfwDHW1gRgrZr1wGY) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [Something New](https://open.spotify.com/album/60vvK9ecxcFAaHEr0yqI24) | 3:19 |
-| 62 | [God is Still Good](https://open.spotify.com/track/7M5ZQSYwPKpzlreNgzcyF7) | [McKamey Legacy](https://open.spotify.com/artist/4Zq7rp8K2P5ubqBF0mQZPI) | [McKamey Legacy](https://open.spotify.com/album/6N5d9pij1C406vQ91GptiS) | 2:37 |
-| 63 | [The Lighthouse \- 50 Year Celebration](https://open.spotify.com/track/2ZGDPgfa0rOiRezBCY56qk) | [Ronny Hinson](https://open.spotify.com/artist/6b5TbMekdEbb75ItLBOoRs) | [The Lighthouse \(50 Year Celebration\)](https://open.spotify.com/album/7DTKYFvwOP0q9jBz6OtclE) | 4:22 |
+| 62 | [The Lighthouse \- 50 Year Celebration](https://open.spotify.com/track/2ZGDPgfa0rOiRezBCY56qk) | [Ronny Hinson](https://open.spotify.com/artist/6b5TbMekdEbb75ItLBOoRs) | [The Lighthouse \(50 Year Celebration\)](https://open.spotify.com/album/7DTKYFvwOP0q9jBz6OtclE) | 4:22 |
+| 63 | [God is Still Good](https://open.spotify.com/track/7M5ZQSYwPKpzlreNgzcyF7) | [McKamey Legacy](https://open.spotify.com/artist/4Zq7rp8K2P5ubqBF0mQZPI) | [McKamey Legacy](https://open.spotify.com/album/6N5d9pij1C406vQ91GptiS) | 2:37 |
 | 64 | [Rock My Soul](https://open.spotify.com/track/6bb7yezS8C4RwLbWKDtiAN) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Front Porch Singin'](https://open.spotify.com/album/41ueL4w9hoGodvfWHjLfCY) | 1:48 |
 | 65 | [Give Me Jesus](https://open.spotify.com/track/41fDllXABcR51KZivo6uTx) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [Give Me Jesus](https://open.spotify.com/album/4FAKPSnfJM5NuV5MzfyLpB) | 3:40 |
 | 66 | [Cast My Care](https://open.spotify.com/track/5DFuyhTAYErvppuImjKHvo) | [The Guardians](https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo) | [Come On In](https://open.spotify.com/album/6fomyXP5lxMAmm1yKXmIHV) | 3:51 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 79 | [Every Story Whispers His Name](https://open.spotify.com/track/2ZvOh0YUXRj2eSt2cyy88m) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG), [Anthem Edition](https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5) | [Every Story Whispers His Name](https://open.spotify.com/album/7sasgGYqy8DeKcIAgWpOsl) | 3:55 |
 | 80 | [How Good the Good News Feels](https://open.spotify.com/track/0k8agTGVV7FE3Pr8UfZTUY) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG), [Anthem Edition](https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5) | [How Good the Good News Feels](https://open.spotify.com/album/1g7XmVw8AnXQJs8ReQcFNq) | 3:22 |
 
-Snapshot ID: `MCw4YWQzYTYzYmM5ODZhZjNlODI3NTkxNmViNmU5OGZjMjE3YjdjMmM0`
+Snapshot ID: `MCxmNDNjNGY4N2VmMzZjOWY2ZDk5ZWUxZjY4ZTBjYmU2MTA4NjM5MDMx`

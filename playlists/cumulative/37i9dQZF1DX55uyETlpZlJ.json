@@ -90,7 +90,7 @@
     {
       "album": {
         "name": "ALAG HAI",
-        "url": "https://open.spotify.com/album/5gqrIFh0OfRGTwNqrV52rz"
+        "url": "https://open.spotify.com/album/7A7jELEKRiRVMIQMZGlGyN"
       },
       "artists": [
         {
@@ -101,6 +101,24 @@
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 83076,
+      "name": "ALAG HAI",
+      "url": "https://open.spotify.com/track/3ptmb4toZVGAs73tbERceP"
+    },
+    {
+      "album": {
+        "name": "ALAG HAI",
+        "url": "https://open.spotify.com/album/5gqrIFh0OfRGTwNqrV52rz"
+      },
+      "artists": [
+        {
+          "name": "D shabdha",
+          "url": "https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
       "duration_ms": 83076,
       "name": "ALAG HAI",
       "url": "https://open.spotify.com/track/5E11KdVG38ylpaI736pJ9I"
@@ -304,10 +322,28 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 238416,
       "name": "Arere",
       "url": "https://open.spotify.com/track/4wO1kzkn6gmKAFOt48EaPh"
+    },
+    {
+      "album": {
+        "name": "Arere",
+        "url": "https://open.spotify.com/album/6s8OIlhZixQ2D9IsZUBrRm"
+      },
+      "artists": [
+        {
+          "name": "Kishan D'Souza",
+          "url": "https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238416,
+      "name": "Arere",
+      "url": "https://open.spotify.com/track/5e7ESBZeOLQCbqtvWaS7Y2"
     },
     {
       "album": {
@@ -618,10 +654,36 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 217068,
       "name": "By2Love",
       "url": "https://open.spotify.com/track/2FLf8XNpQKxBEUbwPZocHn"
+    },
+    {
+      "album": {
+        "name": "By2Love",
+        "url": "https://open.spotify.com/album/6DcqRwXzVwgT7MAcJH5vE5"
+      },
+      "artists": [
+        {
+          "name": "Dolwin Kolalagiri",
+          "url": "https://open.spotify.com/artist/7DDPhsid60HBOEoTP3bQOk"
+        },
+        {
+          "name": "Prashanth Kankanady",
+          "url": "https://open.spotify.com/artist/0TG2p7nnb1iIbddC4YFyx5"
+        },
+        {
+          "name": "Ranjitha Yellur",
+          "url": "https://open.spotify.com/artist/6tkM6pYWcSp6mai0rg8OLI"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217068,
+      "name": "By2Love",
+      "url": "https://open.spotify.com/track/5c67FvlkSg8LdX1asdzxR2"
     },
     {
       "album": {
@@ -2812,7 +2874,7 @@
     {
       "album": {
         "name": "Na Ninne Preetisuve",
-        "url": "https://open.spotify.com/album/6lV86HmyPdaunD5CCpEuB8"
+        "url": "https://open.spotify.com/album/552c1JPywGTBqa2l2xTysZ"
       },
       "artists": [
         {
@@ -2823,6 +2885,24 @@
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 220053,
+      "name": "Na Ninne Preetisuve",
+      "url": "https://open.spotify.com/track/2jZEAPVKRtj6w2dVFOktNL"
+    },
+    {
+      "album": {
+        "name": "Na Ninne Preetisuve",
+        "url": "https://open.spotify.com/album/6lV86HmyPdaunD5CCpEuB8"
+      },
+      "artists": [
+        {
+          "name": "Anita Iyer",
+          "url": "https://open.spotify.com/artist/5PeZkX7HUpSAYNso5kCoZM"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
       "duration_ms": 220053,
       "name": "Na Ninne Preetisuve",
       "url": "https://open.spotify.com/track/3QneWObcFZcEvpMNhAxxJZ"
@@ -3046,7 +3126,7 @@
     {
       "album": {
         "name": "Nanna Jeevana",
-        "url": "https://open.spotify.com/album/56T8Ejzjwc4fD8stpVnofS"
+        "url": "https://open.spotify.com/album/2sWSghuM3hzWwRFYdK0naK"
       },
       "artists": [
         {
@@ -3061,6 +3141,28 @@
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 136605,
+      "name": "Nanna Jeevana",
+      "url": "https://open.spotify.com/track/4YZEX2H5wzXWjlCRiRMk5E"
+    },
+    {
+      "album": {
+        "name": "Nanna Jeevana",
+        "url": "https://open.spotify.com/album/56T8Ejzjwc4fD8stpVnofS"
+      },
+      "artists": [
+        {
+          "name": "SK Parth",
+          "url": "https://open.spotify.com/artist/1vgT333wFWG7yn99UqFMJl"
+        },
+        {
+          "name": "Prasanna Bhojashettar",
+          "url": "https://open.spotify.com/artist/6d913SnOMtIZnOxh9IiURJ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
       "duration_ms": 136605,
       "name": "Nanna Jeevana",
       "url": "https://open.spotify.com/track/6QkP19yo5LfvFCCzWsCuHK"
@@ -4282,7 +4384,7 @@
     {
       "album": {
         "name": "Sahavaasa",
-        "url": "https://open.spotify.com/album/33AjV8NCgBekha704N5DC8"
+        "url": "https://open.spotify.com/album/6vv7b64iLvqEAe86sRuez3"
       },
       "artists": [
         {
@@ -4293,6 +4395,24 @@
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 91984,
+      "name": "Sahavaasa",
+      "url": "https://open.spotify.com/track/2gX6sGTkDcqcGi5VdE49br"
+    },
+    {
+      "album": {
+        "name": "Sahavaasa",
+        "url": "https://open.spotify.com/album/33AjV8NCgBekha704N5DC8"
+      },
+      "artists": [
+        {
+          "name": "Kishan D'Souza",
+          "url": "https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
       "duration_ms": 91984,
       "name": "Sahavaasa",
       "url": "https://open.spotify.com/track/3rv2dzhrrimcWrEAqb6yMc"
@@ -4800,10 +4920,28 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 87012,
       "name": "Usira Olage",
       "url": "https://open.spotify.com/track/7wYCvC8zWp3rcCoj0seOQY"
+    },
+    {
+      "album": {
+        "name": "Usira Olage",
+        "url": "https://open.spotify.com/album/7MzS8W7gL0OROf7Gqw4j6N"
+      },
+      "artists": [
+        {
+          "name": "SK Parth",
+          "url": "https://open.spotify.com/artist/1vgT333wFWG7yn99UqFMJl"
+        }
+      ],
+      "date_added": "2023-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87012,
+      "name": "Usira Olage",
+      "url": "https://open.spotify.com/track/5sgu4p23JIf0GGubV1SF5h"
     },
     {
       "album": {

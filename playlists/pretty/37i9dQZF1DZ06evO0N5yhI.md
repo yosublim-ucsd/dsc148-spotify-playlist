@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0N5yhI.md) - [plain]
 
 > This is Phoebe Bridgers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,677 likes - 41 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,751 likes - 41 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0N5yhI.md) - [plain]
 | 40 | [Dylan Thomas](https://open.spotify.com/track/1AEiKr56njftNDp67QCnHH) | [Better Oblivion Community Center](https://open.spotify.com/artist/3NBmfDV6Yh3hjuQUBVvYgO), [Conor Oberst](https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Better Oblivion Community Center](https://open.spotify.com/album/0uJIxkI8D0rR4shEIKeiDs) | 3:36 |
 | 41 | [Your Mind Is Not Your Friend \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/0hMqlU7TLbX2HaYmwHPquP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:24 |
 
-Snapshot ID: `Mjg0MDc3MDMsMDAwMDAwMDBiZTJlMDkxOGNhN2QxMTRjZDNiZTlmYzY1NDU4NDQ4MQ==`
+Snapshot ID: `Mjg0MDkwNTYsMDAwMDAwMDBkMzdmMGIwNDRiOGNhMzZkYzEyYTAwMmU4ZDUyYWJhZA==`

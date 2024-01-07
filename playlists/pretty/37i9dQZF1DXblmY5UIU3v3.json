@@ -1,12 +1,12 @@
 {
   "description": "The bass you need for riding low and high.",
-  "num_followers": 355651,
+  "num_followers": 356038,
   "original_name": "DOWN LOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjNmNzJiZGQ0MTgxYTVlMzIwNGI0OGMwMmExYTcwOTZhZjUxMGFl",
+  "snapshot_id": "MCw0OTMwNmJkZjA4YjVlMjNlZmY5NmU0YzdlNzVmMjNjOTA0Y2ZhZjk2",
   "tracks": [
     {
       "added_at": "2023-10-27 04:01:00",
@@ -811,22 +811,18 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Night Tales",
-        "url": "https://open.spotify.com/album/0ByvoTP8BJwZG3P09gaKMO"
+        "name": "Combo",
+        "url": "https://open.spotify.com/album/3CxZRCqXlPnYjF84w77ogX"
       },
       "artists": [
         {
-          "name": "TBT Prod.",
-          "url": "https://open.spotify.com/artist/4WihjWGIXdbrdtcIhCcQuM"
-        },
-        {
-          "name": "WONGA",
-          "url": "https://open.spotify.com/artist/4xq4vuvsEgo8UzaAn8HlIY"
+          "name": "Butch U",
+          "url": "https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o"
         }
       ],
-      "duration_ms": 154440,
-      "name": "Night Tales",
-      "url": "https://open.spotify.com/track/2Xc6xRbyiBpVCgShumtXpV"
+      "duration_ms": 202285,
+      "name": "Combo",
+      "url": "https://open.spotify.com/track/1QxvF7sykEILCrINRMovoM"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -847,18 +843,22 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Combo",
-        "url": "https://open.spotify.com/album/3CxZRCqXlPnYjF84w77ogX"
+        "name": "Night Tales",
+        "url": "https://open.spotify.com/album/0ByvoTP8BJwZG3P09gaKMO"
       },
       "artists": [
         {
-          "name": "Butch U",
-          "url": "https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o"
+          "name": "TBT Prod.",
+          "url": "https://open.spotify.com/artist/4WihjWGIXdbrdtcIhCcQuM"
+        },
+        {
+          "name": "WONGA",
+          "url": "https://open.spotify.com/artist/4xq4vuvsEgo8UzaAn8HlIY"
         }
       ],
-      "duration_ms": 202285,
-      "name": "Combo",
-      "url": "https://open.spotify.com/track/1QxvF7sykEILCrINRMovoM"
+      "duration_ms": 154440,
+      "name": "Night Tales",
+      "url": "https://open.spotify.com/track/2Xc6xRbyiBpVCgShumtXpV"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -979,22 +979,22 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Fighters",
-        "url": "https://open.spotify.com/album/4VIp4Tc0UF3HpKMEl1loGz"
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/5HgyUvnPlzOyyPLR2gpufN"
       },
       "artists": [
         {
-          "name": "TBT Prod.",
-          "url": "https://open.spotify.com/artist/4WihjWGIXdbrdtcIhCcQuM"
+          "name": "7vvch",
+          "url": "https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu"
         },
         {
-          "name": "ALan",
-          "url": "https://open.spotify.com/artist/4nDKlmTjgg1o8PriTk0Wma"
+          "name": "Bladdy-T",
+          "url": "https://open.spotify.com/artist/0mEHevXltYfEtqBh5LHssc"
         }
       ],
-      "duration_ms": 149333,
-      "name": "Fighters",
-      "url": "https://open.spotify.com/track/1kyGkFDLQcO5umN5HlDsEy"
+      "duration_ms": 136800,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/09rtoOBDXlydwVQ90ITHnW"
     }
   ],
   "unique_name": "DOWN LOW",

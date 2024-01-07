@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,527 likes - 131 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,528 likes - 131 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 2 | [LUST.](https://open.spotify.com/track/06FCvd7rrRcF3DdvWH5Isp) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 5:07 |
 | 3 | [YOU'RE THE ONE \(feat\. Syd\)](https://open.spotify.com/track/2kYf8lZWXI4Ajd7ZhVhKhu) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [99.9%](https://open.spotify.com/album/3XmoA9zwTpg4VZJCcOGkNZ) | 3:47 |
 | 4 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:55 |
-| 5 | [10%](https://open.spotify.com/track/7m0GLNroVLwS55FviKS0h7) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [10% \(Official Video\)](https://open.spotify.com/album/58OuhrmqsKVdO5vC7tAzjT) | 3:11 |
+| 5 | [10%](https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:06 |
 | 6 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/1jBKtzlwTVtCrScpiiHiKT) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/1tbB05wnLmxMl8WPbcnV0y) | 3:27 |
 | 7 | [CHANCES](https://open.spotify.com/track/0XEhhANHRAqXM9c3JSvLfX) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [NOTHIN LIKE U / CHANCES](https://open.spotify.com/album/59Vw8BjAmvGYUsPlesp54V) | 3:38 |
 | 8 | [GLOWED UP](https://open.spotify.com/track/4v20N4W83XDJORt7WCedII) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 4:58 |
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 100 | [HIGH GRADE](https://open.spotify.com/track/0baHaeu6MrW4GriFSsF9XK) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [LIFE IN HELL](https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM) | 2:46 |
 | 101 | [2 O'Clock](https://open.spotify.com/track/2J6jie0GZHJ9wZ7AzpMrig) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/4a1RnC5ioi77nDnOJXvTKs) | 3:50 |
 | 102 | [Best Rapper in the Fuckin World](https://open.spotify.com/track/2higrBnP8m4gSBBKs5VKZZ) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Best Rapper in the Fuckin World](https://open.spotify.com/album/3sPNnS9LL1YXzKPPLHDUit) | 2:28 |
-| 103 | [My Crew \(Woooo\)](https://open.spotify.com/track/5h3oR26R9644bteoUeOl46) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS) | [Cadence Weapon](https://open.spotify.com/album/09mEEnenyhutFTC8ivx1s7) | 3:13 |
-| 104 | [I Know It](https://open.spotify.com/track/4TD1gwKRuP4HOWuijLapui) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [Interblaktic](https://open.spotify.com/album/3ZrhMXlyekQsEDYQ45QVO8) | 2:32 |
+| 103 | [I Know It](https://open.spotify.com/track/4TD1gwKRuP4HOWuijLapui) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [Interblaktic](https://open.spotify.com/album/3ZrhMXlyekQsEDYQ45QVO8) | 2:32 |
+| 104 | [My Crew \(Woooo\)](https://open.spotify.com/track/5h3oR26R9644bteoUeOl46) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS) | [Cadence Weapon](https://open.spotify.com/album/09mEEnenyhutFTC8ivx1s7) | 3:13 |
 | 105 | [Thinkin Bout You](https://open.spotify.com/track/2OGES71yUPyUcaMf3ZM6nR) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [ArtScience](https://open.spotify.com/album/3Bn4x1v0uRbt2JwkxVg7Wu) | 3:12 |
 | 106 | [Love Or Something](https://open.spotify.com/track/7oARln7vvm7pxWXvJmiVxH) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Ocean & Montana](https://open.spotify.com/album/6wQHjKlxXujDKgkUXJ4NIv) | 2:57 |
 | 107 | [LIES WILL SET YOU FREE](https://open.spotify.com/track/1ntp9QhwKYmikKLiOKrARR) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [LIFE IN HELL](https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM) | 4:44 |
@@ -135,9 +135,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 125 | [NEW FRIENDS](https://open.spotify.com/track/2K2HS7k6TikCQ0ErmZK4BM) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 3:06 |
 | 126 | [Unfamiliar](https://open.spotify.com/track/4qIWpGpSRXtK5hJOR8MF5k) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 3:05 |
 | 127 | [FIRE](https://open.spotify.com/track/5h7V109OsJIa9zsfU8vEey) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 3:13 |
-| 128 | [Sunday Love Fever](https://open.spotify.com/track/4FYtw1HuOcEfXQFkVcPGGf) | [Myth Syzer](https://open.spotify.com/artist/61y0Qj5xUcKnbHYxuaqSRP) | [POISON](https://open.spotify.com/album/0t1RR8RU3XUBZJGIlS0fSu) | 2:57 |
-| 129 | [Our Way](https://open.spotify.com/track/2xvzIWvYXMwe3ao5k5wB3f) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Sweet Justice](https://open.spotify.com/album/27lT3u386mVfOWF2wwwP1i) | 3:57 |
+| 128 | [Our Way](https://open.spotify.com/track/2xvzIWvYXMwe3ao5k5wB3f) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Sweet Justice](https://open.spotify.com/album/27lT3u386mVfOWF2wwwP1i) | 3:57 |
+| 129 | [Sunday Love Fever](https://open.spotify.com/track/4FYtw1HuOcEfXQFkVcPGGf) | [Myth Syzer](https://open.spotify.com/artist/61y0Qj5xUcKnbHYxuaqSRP) | [POISON](https://open.spotify.com/album/0t1RR8RU3XUBZJGIlS0fSu) | 2:57 |
 | 130 | [Hold Tight](https://open.spotify.com/track/0pne7H1f67nyV7uPasAatn) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 3:28 |
 | 131 | [Undercover](https://open.spotify.com/track/5dUW0FWt3OO052bu7oczo9) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 4:07 |
 
-Snapshot ID: `Mjg0MDg0NDAsMDAwMDAwMDBkODUyZWI2YmM5MmUzMDUwNmRlZDIxYTkxYTg4NTc4ZA==`
+Snapshot ID: `Mjg0MDk4ODAsMDAwMDAwMDBlMmYxYmM3MTE3MTU4ZGFmNzA2OTE1MGU4Yjc5NDk1MA==`

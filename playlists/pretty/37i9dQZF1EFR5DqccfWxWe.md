@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 67 | [Tu](https://open.spotify.com/track/0i7OAQ584l2Gmp29a7Mj0z) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Como Ama Una Mujer](https://open.spotify.com/album/07ztulX4jyOAR5nUUYc2K6) | 4:09 |
 | 68 | [En Las Manos De Dios](https://open.spotify.com/track/0oOnIriN6B7BoQXgAR5n1c) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose \(Expanded Edition\)](https://open.spotify.com/album/3Ca2ChPMHogU1scVKSEprg) | 4:13 |
 | 69 | [Mariposas](https://open.spotify.com/track/6raThMtY1Y6jkk8lS6bALB) | [Daniela Brooker](https://open.spotify.com/artist/4s6Xb7H01zAKW5xMMEIB0z) | [Nostalgia](https://open.spotify.com/album/2ogTJOxRHovXjSpqwq12fY) | 3:21 |
-| 70 | [Bailar Contigo](https://open.spotify.com/track/1VeJWYnGSbHVhQyhSVq4ge) | [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7) | [Jen](https://open.spotify.com/album/5MFFnpG6N8RIIdC5GSQ5w4) | 4:28 |
-| 71 | [Vueltas en Tu Mente](https://open.spotify.com/track/1O21qdm5tVS3j7fM4DCTys) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 2:55 |
+| 70 | [Vueltas en Tu Mente](https://open.spotify.com/track/1O21qdm5tVS3j7fM4DCTys) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 2:55 |
+| 71 | [Bailar Contigo](https://open.spotify.com/track/1VeJWYnGSbHVhQyhSVq4ge) | [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7) | [Jen](https://open.spotify.com/album/5MFFnpG6N8RIIdC5GSQ5w4) | 4:28 |
 | 72 | [Amor en Stereo](https://open.spotify.com/track/3WYqZJn6mZP0ACZl2wbpZV) | [Gemeliers](https://open.spotify.com/artist/3W50twtHMESiHoOf2wHgfw) | [Stereo](https://open.spotify.com/album/5G4X3SZkDl63ggFtOdQVuW) | 2:54 |
 | 73 | [Las Cuentas](https://open.spotify.com/track/5R0QMYI3PJzXsDaSOyWtJO) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Index](https://open.spotify.com/album/0a70673Gb7q0uqWyoCRy4J) | 3:06 |
 | 74 | [El Camino \(feat\. Ángela Torres\)](https://open.spotify.com/track/0BEIXJ00DmdrERdf1WwhI4) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Buena Vida](https://open.spotify.com/album/1awXzHG1Y8xFuJQ75tnnO2) | 3:26 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 151 | [Remembering](https://open.spotify.com/track/2rMyOaFPZVqdHEsyUc8kB0) | [Claudia Albuquerque](https://open.spotify.com/artist/1hqcycgAMdUaZtAVpHwGVT) | [Music Freedom](https://open.spotify.com/album/6LZG3zFRBnR3tLom1WdMsU) | 3:37 |
 | 152 | [Talk](https://open.spotify.com/track/4wYJf3FB9m6XS2DjSZRbfk) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Talk](https://open.spotify.com/album/1ejesDMKJZle7bQDkScpeP) | 3:51 |
 
-Snapshot ID: `Mjg0MDg0NTAsMDAwMDAwMDBiZGE4NzQ4NmNhNTg3ODcyYjMzYWQxYjM1ZTJmMmNlNw==`
+Snapshot ID: `Mjg0MDk4OTAsMDAwMDAwMDAzYWFhNDc4YjQ5OGZjZTYzYzUyOGQ3MzUzNWU5MzljMA==`

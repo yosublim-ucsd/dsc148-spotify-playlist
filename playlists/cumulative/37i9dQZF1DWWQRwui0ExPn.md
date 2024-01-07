@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,406 songs - 10 day 2 hr 46 min
+6,407 songs - 10 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -979,7 +979,7 @@
 | [Cheap Motel](https://open.spotify.com/track/3mi6jfYzvW5cy7Fsgn2bAL) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Cheap Motel](https://open.spotify.com/album/0WBvkg0rMwz5eAROSFN546) | 2:08 | 2022-07-08 | 2022-10-21 |
 | [Check Check](https://open.spotify.com/track/4MCdrBtirCinBjGA5XMm7D) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton) | [Check Check](https://open.spotify.com/album/2RY2CmoZWtdFiRHfc7HJCN) | 2:02 | 2022-09-30 | 2023-01-13 |
 | [Checkerboard](https://open.spotify.com/track/6UFJpwhc4KMLUCawLuckeL) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6) | [Checkerboard](https://open.spotify.com/album/154HpMrM9cb4Valot9bfKK) | 2:30 | 2023-06-20 | 2023-09-29 |
-| [checkerboard floor](https://open.spotify.com/track/1dlAqOioxENQZ0cO4LKaSU) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [checkerboard floor](https://open.spotify.com/album/7GX0Du2j0aP3m6MCa3Q3YW) | 2:32 | 2024-01-05 |  |
+| [checkerboard floor](https://open.spotify.com/track/1dlAqOioxENQZ0cO4LKaSU) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [checkerboard floor](https://open.spotify.com/album/7GX0Du2j0aP3m6MCa3Q3YW) | 2:32 | 2024-01-05 | 2024-01-07 |
 | [Checkmate](https://open.spotify.com/track/53n8qtPXMUauNSQCVfOAeK) | [Flo Badabum](https://open.spotify.com/artist/4dMQdNx2YofJBiOfxRLcD0) | [Backyard](https://open.spotify.com/album/25UPRJuNvK0YpgwpYnQvYL) | 2:48 | 2023-05-31 | 2023-10-06 |
 | [Cheers Frank](https://open.spotify.com/track/2kYjiwLO8zAsdK4vTtqKTd) | [Mr.Goodvibe](https://open.spotify.com/artist/31jkkhXZ4nPrp00nLjznqx), [Fırat Ağacık](https://open.spotify.com/artist/0jvlsSg7s79GNOp79a7CUb) | [Cheers Frank](https://open.spotify.com/album/2mMODbMw9zOTZuZ6QP2EZe) | 2:10 | 2021-11-05 | 2022-05-27 |
 | [Cheese](https://open.spotify.com/track/2kaBoFFpL7y1y9SEIXzD65) | [Delicious Chrischuzz](https://open.spotify.com/artist/7mg4oIXqpd9Y8qHSGlZ0M2) | [KEATS 12](https://open.spotify.com/album/7429nyLHqxDCBptiyKPuEt) | 2:23 | 2023-01-20 | 2023-04-06 |
@@ -5261,6 +5261,7 @@
 | [Stroll](https://open.spotify.com/track/0kQRC3bmqnu6sw1ElX9jmE) | [strøget](https://open.spotify.com/artist/7JtjqVMOUr4hbaYRVQevHq) | [Stroll](https://open.spotify.com/album/3A76JubhsoUjQoJM21Fy7f) | 2:53 | 2023-07-06 |  |
 | [Structure](https://open.spotify.com/track/1bBFxXwsiAgbT5WAa55vua) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Structure](https://open.spotify.com/album/6CUQLKU7QNbw49Huf701fv) | 1:37 | 2023-11-24 |  |
 | [structures](https://open.spotify.com/track/6B9DAQWbldDxbEQ6IhabvF) | [yudaii](https://open.spotify.com/artist/0Z0ac99LvWHSYfGtxO8Ovv) | [structures](https://open.spotify.com/album/4xwwce3n8nmpfAEVmg7xQe) | 2:01 | 2022-09-02 | 2023-01-13 |
+| [Struggling With Potential](https://open.spotify.com/track/4UmxUGBDyV2l4XK0cnuAga) | [Vrouzli](https://open.spotify.com/artist/5UdyPviMkdOWjnawTiCFch) | [Struggling With Potential](https://open.spotify.com/album/09PAe79tahB3JQvLP3JHKx) | 2:02 | 2024-01-05 |  |
 | [Strummer Boy](https://open.spotify.com/track/6iEEf0a4KOHbOsbJ4TslLY) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [RPM](https://open.spotify.com/album/5hjHCgWQ6ETLC2W97a9iDk) | 2:09 | 2022-08-19 | 2023-01-07 |
 | [Stubborn](https://open.spotify.com/track/5V5k7bWujvUqxF1lTp9hS1) | [Jamilo](https://open.spotify.com/artist/6MHLsxM1Y6Krx9bDhYYnxY) | [Never Listen To You](https://open.spotify.com/album/4lM3kHt35vpCOWjN99WuJa) | 1:51 | 2020-10-16 | 2021-10-20 |
 | [Stuck](https://open.spotify.com/track/507EkgcRPnExKke7B8bu8X) | [Chamon](https://open.spotify.com/artist/5ZXTpRkYKYsDA2wXfIXSYH) | [Stuck](https://open.spotify.com/album/2Q2BvlrbiGzt5oXH3iD1GO) | 2:40 | 2022-10-14 | 2023-02-11 |

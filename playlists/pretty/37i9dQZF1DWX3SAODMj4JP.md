@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,458 likes - 69 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,500 likes - 69 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,14 +55,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 45 | [Abençoada](https://open.spotify.com/track/0aVX67dzetn3Wz5OQ0G7o2) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Abençoada](https://open.spotify.com/album/2Px3s6xmp09u79C7JHfWYW) | 3:09 |
 | 46 | [Raridade \(Releitura\)](https://open.spotify.com/track/7ChILVLENXtNdAGyavc9th) | [Bea Rodrigues](https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i) | [Raridade \(Releitura\)](https://open.spotify.com/album/2iVGtuWpmNtP5Az2SUXAcj) | 4:16 |
 | 47 | [Sonhadora \(Versão Alternativa\) \- Acústico](https://open.spotify.com/track/3cvGAENB5FNMcdl2bYk2VS) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Sonhadora \(Acústico\)](https://open.spotify.com/album/02nJW6oejJzhPeTqOf0oP7) | 3:56 |
-| 48 | [Qual É O Pensamento](https://open.spotify.com/track/4wh1XOO2e38YuTxex4NOGi) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD) | [Qual É O Pensamento](https://open.spotify.com/album/48SFRBOf9TKjeNy8Penrj2) | 2:21 |
-| 49 | [Simples Oração](https://open.spotify.com/track/0H0lcJhH4r7XcBDm33ygaF) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [Simples Oração](https://open.spotify.com/album/5aVCOOT4mtOb7vurfxiQJC) | 4:02 |
+| 48 | [Simples Oração](https://open.spotify.com/track/0H0lcJhH4r7XcBDm33ygaF) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [Simples Oração](https://open.spotify.com/album/5aVCOOT4mtOb7vurfxiQJC) | 4:02 |
+| 49 | [Qual É O Pensamento](https://open.spotify.com/track/4wh1XOO2e38YuTxex4NOGi) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD) | [Qual É O Pensamento](https://open.spotify.com/album/48SFRBOf9TKjeNy8Penrj2) | 2:21 |
 | 50 | [Sobre Viver](https://open.spotify.com/track/4Eso7tnV2l0RinzqhZS5uU) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF) | [Do Meu Interior](https://open.spotify.com/album/7fOBtpFDjcVMxXjOCYA60I) | 2:39 |
 | 51 | [Eu Quero Voltar](https://open.spotify.com/track/2RF5COhGA2at2zoJvlEbKB) | [Lancellote](https://open.spotify.com/artist/4LsKHWRuD6TlQPJrvVLD8K) | [Eu Quero Voltar](https://open.spotify.com/album/2BmAe3tRit49ajh1gHWMoW) | 3:33 |
 | 52 | [Clarear](https://open.spotify.com/track/07TRn8v9uGu3bxUdrotOPa) | [Nós em Um](https://open.spotify.com/artist/42xizszi345HS5i21AR5MT) | [Clarear](https://open.spotify.com/album/77Y7MbdwW4jZrUiWqHLnxD) | 5:18 |
-| 53 | [Descansar em Ti](https://open.spotify.com/track/1lU9L6lPZkp4UAgdxbaJBQ) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Descansar em Ti](https://open.spotify.com/album/0IDeeWZrrYFZUXtSZergef) | 3:45 |
-| 54 | [Louvor IV](https://open.spotify.com/track/6MMr4Yqk7Oa8NsoksmxACf) | [O Bairro Novo](https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD), [Joyce Carnassale](https://open.spotify.com/artist/54IDWdM8TrNpxWiQAL1U3z) | [Louvor IV](https://open.spotify.com/album/4B961hpeGLK1YHTqP0PJp9) | 4:52 |
-| 55 | [Estou Com Você \- Ao Vivo](https://open.spotify.com/track/3TFQbNmMPAFNHiNhHNuclS) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7) | [Estou Com Você \(Ao Vivo\)](https://open.spotify.com/album/49jQMSEkQCZzFtvTAzXHKB) | 4:31 |
+| 53 | [Estou Com Você \- Ao Vivo](https://open.spotify.com/track/3TFQbNmMPAFNHiNhHNuclS) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7) | [Estou Com Você \(Ao Vivo\)](https://open.spotify.com/album/49jQMSEkQCZzFtvTAzXHKB) | 4:31 |
+| 54 | [Descansar em Ti](https://open.spotify.com/track/1lU9L6lPZkp4UAgdxbaJBQ) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Descansar em Ti](https://open.spotify.com/album/0IDeeWZrrYFZUXtSZergef) | 3:45 |
+| 55 | [Louvor IV](https://open.spotify.com/track/6MMr4Yqk7Oa8NsoksmxACf) | [O Bairro Novo](https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD), [Joyce Carnassale](https://open.spotify.com/artist/54IDWdM8TrNpxWiQAL1U3z) | [Louvor IV](https://open.spotify.com/album/4B961hpeGLK1YHTqP0PJp9) | 4:52 |
 | 56 | [Asas](https://open.spotify.com/track/0K7p1zxjcAHPGz4w1hTxeb) | [Itagon](https://open.spotify.com/artist/1nRBkENa3rDetRoPakipOh), [Renata Calheiros](https://open.spotify.com/artist/3L3jIoTWT58r8Jrc2X8svJ) | [Primeiro](https://open.spotify.com/album/1uXUyEphU2AxCaWzEgocl6) | 4:42 |
 | 57 | [Filho \- Acústico](https://open.spotify.com/track/4hH9lDQMqXwD7k8fcimLiS) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Leidy Murilho Acústico](https://open.spotify.com/album/2MS6GGTpTl5CcgqkvU0CGu) | 3:47 |
 | 58 | [Tributo A Iehovah \- Ao Vivo](https://open.spotify.com/track/5cLo2Ovt9oCWq8mucuHfDi) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Tributo A Iehovah \(Ao Vivo\)](https://open.spotify.com/album/4d6pzEk3gFbP4tJJFKrS62) | 6:07 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 63 | [Pra Viver \- Acústico](https://open.spotify.com/track/42OJeiOtGughIhTJO9yHHa) | [Praviver Worship](https://open.spotify.com/artist/5mhPlTKr7pRsSnjK1nocL4) | [Pra Viver Project](https://open.spotify.com/album/2riFr9I8oh3ZDUwQHO7GdS) | 3:15 |
 | 64 | [Corpo I](https://open.spotify.com/track/7tU7sxEqyLoguEGbjiiiRl) | [O Bairro Novo](https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD) | [O Banquete](https://open.spotify.com/album/3S5w5Tta9oQ6LN2PNoWJ5l) | 4:40 |
 | 65 | [Então Vem](https://open.spotify.com/track/0tBJj2vwsjpGgEWgKd35nD) | [Caio Veríssimo](https://open.spotify.com/artist/3M1QiN5TINHyqdV1vpjTOb) | [Então Vem](https://open.spotify.com/album/2G8WdVOQFvvVwyLWeH7z2d) | 5:41 |
-| 66 | [Meu Grande Amor \- Versão Cordas](https://open.spotify.com/track/5Qtirs1grBbL6IlqlBa97i) | [Giselle Knevitz](https://open.spotify.com/artist/2vJtvgrtI4T6edVZcC29SM), [Brasa Church Music](https://open.spotify.com/artist/3dkGpbI5k8lDZ4Sk1ykv4A) | [Meu Grande Amor \(Versão Cordas\)](https://open.spotify.com/album/2B1yYnuXCiZQ5GCDUHEdIe) | 7:22 |
-| 67 | [Visita](https://open.spotify.com/track/657aCgepX1HRKoCNbFHWh6) | [Ana Tristão](https://open.spotify.com/artist/04sHHdilT7bBAzYRTtKLKC) | [Visita](https://open.spotify.com/album/78wHMwGlGTHNL70AxQYZGr) | 4:47 |
+| 66 | [Visita](https://open.spotify.com/track/657aCgepX1HRKoCNbFHWh6) | [Ana Tristão](https://open.spotify.com/artist/04sHHdilT7bBAzYRTtKLKC) | [Visita](https://open.spotify.com/album/78wHMwGlGTHNL70AxQYZGr) | 4:47 |
+| 67 | [Meu Grande Amor \- Versão Cordas](https://open.spotify.com/track/5Qtirs1grBbL6IlqlBa97i) | [Giselle Knevitz](https://open.spotify.com/artist/2vJtvgrtI4T6edVZcC29SM), [Brasa Church Music](https://open.spotify.com/artist/3dkGpbI5k8lDZ4Sk1ykv4A) | [Meu Grande Amor \(Versão Cordas\)](https://open.spotify.com/album/2B1yYnuXCiZQ5GCDUHEdIe) | 7:22 |
 | 68 | [Coração de Aprendiz](https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy) | [Gabro](https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw) | [Coração de Aprendiz](https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz) | 5:03 |
 | 69 | [Upper Room \- Acoustic/Live](https://open.spotify.com/track/2JzhTp2M56LLuatw7jQGV5) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Awake \(Deluxe\)](https://open.spotify.com/album/1OrZpETlp9ZUT1qbLvYMu0) | 3:54 |
 
-Snapshot ID: `MCxmNzQzMTlkOTM5ZjZkOGY2NjQ4YTIzNjljZTRlMmVlYTAzMDNkNDNi`
+Snapshot ID: `MCxlMDU3MTk2YjEzYWVmM2Y0YzAyZjA0ZmRjNGMzZjFjMDY0OTZhNDYx`

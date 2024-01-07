@@ -4,7 +4,7 @@
 
 > This is Jhené Aiko\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 34 min
+55 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Stars in The Sky \(feat\. Jhené Aiko\)](https://open.spotify.com/track/5ziNnhZ1hK100fIUvkDZUH) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [With Love 2](https://open.spotify.com/album/0Y7r7Lb6skivwT5LL284AR) | 4:14 | 2023-05-02 | 2023-12-30 |
 | [Stay Ready \(What A Life\)](https://open.spotify.com/track/5nkUIVKqOqdpB6ApKgEMkv) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 6:22 | 2023-05-02 |  |
 | [stranger](https://open.spotify.com/track/7eZXAeqqdLDrAp2MvrPzWn) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 3:34 | 2023-05-02 |  |
+| [Sun/Son](https://open.spotify.com/track/1WD5d42tRqdLyfaoTtUlHB) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sun/Son](https://open.spotify.com/album/7yFCk6DfTK0AqZRVkwYZ24) | 2:56 | 2024-01-06 |  |
 | [Sunshine](https://open.spotify.com/track/54NBD72JXFXzrodbQBSzWh) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Sunshine](https://open.spotify.com/album/3dkw0XggNMPs4koj5PtL6r) | 3:08 | 2023-05-02 |  |
 | [The Worst](https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 4:14 | 2023-05-02 |  |
 | [Trigger Protection Mantra](https://open.spotify.com/track/10OJeHia1lrq7OCY2lSJiP) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Trigger Protection Mantra](https://open.spotify.com/album/2NGGOdyDlyb4bu3vqQqF83) | 6:54 | 2023-09-15 |  |

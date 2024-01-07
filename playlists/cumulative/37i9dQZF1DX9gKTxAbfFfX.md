@@ -4,7 +4,7 @@
 
 > Tu banda sonora de este verano\. Foto: Myke Towers
 
-148 songs - 8 hr 21 min
+149 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Esta Vida](https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Esta Vida](https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL) | 3:29 | 2023-05-12 |  |
 | [Eva Longoria](https://open.spotify.com/track/0nfnCp3NNcUjksmxd5xqEG) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Afro](https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA) | 3:19 | 2023-08-07 |  |
 | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/3kUq4sBcmxhnOtNysZ9yrp) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/album/5tWcOAhihL1zYpaIktpoxu) | 2:36 | 2023-05-12 | 2023-06-07 |
-| [Formentera](https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Formentera](https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH) | 3:27 | 2023-05-12 |  |
+| [Formentera](https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Formentera](https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH) | 3:27 | 2023-05-12 | 2024-01-07 |
 | [Gasolina](https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:12 | 2023-05-12 | 2023-07-11 |
 | [Hasta el Amanecer](https://open.spotify.com/track/5Fim1gaXBgsiFfsQAfQSDS) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:18 | 2023-05-12 |  |
 | [Hasta Que Se Seque el Malecón \(feat\. Farruko\) \- Remix](https://open.spotify.com/track/6sMPwcpYtxm1mlgYbp1B0t) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Invicto](https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh) | 3:35 | 2023-06-26 | 2023-07-04 |
@@ -103,6 +103,7 @@
 | [Miami Beach](https://open.spotify.com/track/4NHHipNDZ7drpgykr6W09d) | [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [Miami Beach](https://open.spotify.com/album/3eMcXYzlOOtbazCsrZE7b9) | 3:57 | 2023-06-06 | 2023-06-13 |
 | [MIENTRAS ME CURO DEL CORA](https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:44 | 2023-05-12 |  |
 | [Mil Laberintos](https://open.spotify.com/track/3PeaoxxHW9L5OVVnkWDg6S) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Mil Laberintos](https://open.spotify.com/album/6YKiRmNf2cuIRfuWmaaqMX) | 2:38 | 2023-06-06 | 2023-06-11 |
+| [MOJABI GHOST](https://open.spotify.com/track/46YjJXVXWHlQ21odKktg5e) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:52 | 2023-08-21 |  |
 | [MOJABI GHOST](https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:52 | 2023-06-30 | 2024-01-04 |
 | [Mon Amour \- Remix](https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Mon Amour \(Remix\)](https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5) | 2:59 | 2023-05-12 |  |
 | [Neverita](https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:53 | 2023-05-12 | 2023-06-07 |

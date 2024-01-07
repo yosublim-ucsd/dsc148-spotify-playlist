@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd1XhoKS5S57.md) - [plain]
 
 > Retour en arrière avec les meilleurs titres de l'année 2004\. Photo : Usher
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,038 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,052 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd1XhoKS5S57.md) - [plain]
 | 41 | [What You Waiting For?](https://open.spotify.com/track/7bZsx7Zif6FIhrcZrh0LVm) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love Angel Music Baby \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 3:41 |
 | 42 | [Lose My Breath](https://open.spotify.com/track/4dvQg9sD8k9y4qiEURuj8v) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Destiny Fulfilled](https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO) | 4:02 |
 | 43 | [Me, Myself and I](https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 5:01 |
-| 44 | [Amazing](https://open.spotify.com/track/0hsrqeudoR9Kymm7RNiVoq) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Patience](https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI) | 4:25 |
-| 45 | [It's My Life](https://open.spotify.com/track/2fOxxLz9JVe53itq6pfBak) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Singles Collection](https://open.spotify.com/album/5fSlrmZPalwAAQDwu6shK2) | 3:45 |
+| 44 | [It's My Life](https://open.spotify.com/track/2fOxxLz9JVe53itq6pfBak) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Singles Collection](https://open.spotify.com/album/5fSlrmZPalwAAQDwu6shK2) | 3:45 |
+| 45 | [Amazing](https://open.spotify.com/track/0hsrqeudoR9Kymm7RNiVoq) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Patience](https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI) | 4:25 |
 | 46 | [Left Outside Alone](https://open.spotify.com/track/2uNq2hKb4X1S30hBgoywOF) | [Anastacia](https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH) | [Pieces of A Dream](https://open.spotify.com/album/1wuzyMw7UrEv65yXblge8w) | 4:18 |
 | 47 | [My Place](https://open.spotify.com/track/1NAyvpW70a9lxY0YlLWFV4) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Suit](https://open.spotify.com/album/7xt2MWlSFHNP2NcHWE4W3b) | 5:36 |
 | 48 | [On My Way \- From "Brother Bear"/Soundtrack Version](https://open.spotify.com/track/7wjiMdiSgsL9Vkrwb10Num) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Brother Bear](https://open.spotify.com/album/0aJ2SqX6w8pJsaFaTiBUgJ) | 3:40 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd1XhoKS5S57.md) - [plain]
 | 59 | [Sexy pour moi! \- Mix 2](https://open.spotify.com/track/5H0ZfIuXw3qEXn2E1EasWX) | [Tragédie](https://open.spotify.com/artist/6EysjvvcafloXNdLkwuGLm) | [Tragédie \(Édition Deluxe\)](https://open.spotify.com/album/3Wy1uWOyhabx91yqV18GzH) | 3:36 |
 | 60 | [Flamme \- Radio Edit](https://open.spotify.com/track/2UtoiQC20KmUEEyW4gg5eo) | [Slaï](https://open.spotify.com/artist/7y4UMLXo4Gz5NQbXE7v2Kt) | [Florilège](https://open.spotify.com/album/2lopM9cqpqzJoG1gpYOlQf) | 3:37 |
 
-Snapshot ID: `MCwwNjZjMDk1YmFjODNhZGZiNTlkNzJmYTJhYmQwNDE2ZDhiN2RjZWJh`
+Snapshot ID: `MCw2YzUyZDJhYWU0ZjQ2YjY3MDM1M2ZjZjdmMTZmOTM3OTRhNjNhYmJm`

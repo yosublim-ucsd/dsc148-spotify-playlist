@@ -1,12 +1,12 @@
 {
   "description": "Los mejores nuevos y viejos temas para cantar y perrear detr\u00e1s del volante.",
-  "num_followers": 130501,
+  "num_followers": 130520,
   "original_name": "Maneja con Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzI0MTdlZDZjNzVlZmRiYjRlYWM4YzBlMDRkMjhiMTI1N2Y0MjIz",
+  "snapshot_id": "MCw1NjBkYzJhNGEyNWMwMDk2MTY5Yjc5YTZjOTUwODlmMTMxYzU4NGQw",
   "tracks": [
     {
       "added_at": "2023-11-07 17:27:55",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-11-07 17:27:55",
       "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 256971,
-      "name": "Adan y Eva",
-      "url": "https://open.spotify.com/track/132ALUzVLmqYB4UsBj5qD6"
-    },
-    {
-      "added_at": "2023-11-07 17:27:55",
-      "album": {
         "name": "Criminal",
         "url": "https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 232549,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C"
+    },
+    {
+      "added_at": "2023-11-07 17:27:55",
+      "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 256971,
+      "name": "Adan y Eva",
+      "url": "https://open.spotify.com/track/132ALUzVLmqYB4UsBj5qD6"
     },
     {
       "added_at": "2023-11-07 17:27:55",
@@ -711,26 +711,6 @@
     {
       "added_at": "2023-11-07 17:27:55",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/7gnUxSrGT4npGYuFXwQTO4"
-      },
-      "artists": [
-        {
-          "name": "Amenazzy",
-          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
-        },
-        {
-          "name": "Lary Over",
-          "url": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
-        }
-      ],
-      "duration_ms": 231909,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/6kTMnty169llVx9sGHb6LD"
-    },
-    {
-      "added_at": "2023-11-07 17:27:55",
-      "album": {
         "name": "MAMIII",
         "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 226088,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
+    },
+    {
+      "added_at": "2023-11-07 17:27:55",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/7gnUxSrGT4npGYuFXwQTO4"
+      },
+      "artists": [
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        },
+        {
+          "name": "Lary Over",
+          "url": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
+        }
+      ],
+      "duration_ms": 231909,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/6kTMnty169llVx9sGHb6LD"
     },
     {
       "added_at": "2023-11-07 17:27:55",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-11-07 17:27:55",
       "album": {
-        "name": "El Amor En Los Tiempos Del Perreo",
-        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 211998,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
-    },
-    {
-      "added_at": "2023-11-07 17:27:55",
-      "album": {
         "name": "Con Altura",
         "url": "https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 161626,
       "name": "Con Altura",
       "url": "https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM"
+    },
+    {
+      "added_at": "2023-11-07 17:27:55",
+      "album": {
+        "name": "El Amor En Los Tiempos Del Perreo",
+        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 211998,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
     },
     {
       "added_at": "2023-11-07 17:27:55",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2023-11-07 17:27:55",
       "album": {
-        "name": "Pareja Del A\u00f1o",
-        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 195053,
-      "name": "Pareja Del A\u00f1o",
-      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
-    },
-    {
-      "added_at": "2023-11-07 17:27:55",
-      "album": {
         "name": "Yo x Ti, Tu x Mi",
         "url": "https://open.spotify.com/album/3844bY26oeSkqd06th4EYp"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 201040,
       "name": "Yo x Ti, Tu x Mi",
       "url": "https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk"
+    },
+    {
+      "added_at": "2023-11-07 17:27:55",
+      "album": {
+        "name": "Pareja Del A\u00f1o",
+        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 195053,
+      "name": "Pareja Del A\u00f1o",
+      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
     },
     {
       "added_at": "2023-11-07 17:27:55",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-11-07 17:27:55",
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 184435,
+      "name": "HP",
+      "url": "https://open.spotify.com/track/1LIqNVhaIgxXUt2eVoIQJ3"
+    },
+    {
+      "added_at": "2023-11-07 17:27:55",
+      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 267500,
       "name": "Verte Ir",
       "url": "https://open.spotify.com/track/4lzxJ4jCuFDXXGkE1LmpKR"
-    },
-    {
-      "added_at": "2023-11-07 17:27:55",
-      "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 184435,
-      "name": "HP",
-      "url": "https://open.spotify.com/track/1LIqNVhaIgxXUt2eVoIQJ3"
     },
     {
       "added_at": "2023-11-07 17:27:55",

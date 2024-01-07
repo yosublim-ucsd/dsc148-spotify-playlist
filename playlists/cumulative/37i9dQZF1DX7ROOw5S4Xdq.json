@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Wedding Songs",
+        "url": "https://open.spotify.com/album/6idu1dWtpDqDgRMqe2duxu"
+      },
+      "artists": [
+        {
+          "name": "Musical Songsdei",
+          "url": "https://open.spotify.com/artist/5O1bWmXcQoWFeW4QhmEMIb"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250731,
+      "name": "A Ben\u00e7\u00e3o - The Blessing",
+      "url": "https://open.spotify.com/track/7ni7ZHhG5wLh2x4DeQnzI8"
+    },
+    {
+      "album": {
         "name": "A Boa Parte (Ao Vivo)",
         "url": "https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC"
       },

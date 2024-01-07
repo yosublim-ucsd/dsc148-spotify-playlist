@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 
 > This is CHiCO with HoneyWorks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,553 likes - 49 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,564 likes - 49 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,18 +34,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 | 24 | [恋色に咲け](https://open.spotify.com/track/2oXh1HaGwNCZaT6usnTif0) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Watashiwo Someru Aino Uta](https://open.spotify.com/album/1yY3wlXZTzgqRVsxo06yuv) | 4:06 |
 | 25 | [雪のワルツ](https://open.spotify.com/track/3AmrLrSDrLFJ6wwZcpCPUJ) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Sekai Ha i Ni Michiteiru](https://open.spotify.com/album/4NVH83ZZPdQpneveSpEIfb) | 5:35 |
 | 26 | [ヒカリ証明論 \-instrumental\-](https://open.spotify.com/track/64W7D99GOSoZIvbBKgHO5B) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Hikari Shoumeiron](https://open.spotify.com/album/52aBTjeaLXHx4yjsKbeRV8) | 4:34 |
-| 27 | [プライド革命 Instrumental](https://open.spotify.com/track/6YzN95dgCbvaprFcvVT6ht) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Pride Kakumei](https://open.spotify.com/album/7yEjBXz8ELSQWvLDMkYkpi) | 3:55 |
+| 27 | [ミスター・ダーリン \-instrumental\-](https://open.spotify.com/track/4g91mKBes0fvwogkEuPOx0) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Mr\. Darling / Gimme Gimme Call](https://open.spotify.com/album/1aJREXm4uAyH7tXE0BYkCe) | 4:05 |
 | 28 | [可愛くなりたい](https://open.spotify.com/track/1XA0rFBVY3VouEigL2a5b1) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Watashiwo Someru Aino Uta](https://open.spotify.com/album/1yY3wlXZTzgqRVsxo06yuv) | 4:15 |
 | 29 | [恋のコード](https://open.spotify.com/track/2L3z8aBjWz4Diuf1grb9YL) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はiに満ちている](https://open.spotify.com/album/6eyndpBwWu0k0W3NBhSPfZ) | 4:42 |
-| 30 | [ミスター・ダーリン \-instrumental\-](https://open.spotify.com/track/4g91mKBes0fvwogkEuPOx0) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Mr\. Darling / Gimme Gimme Call](https://open.spotify.com/album/1aJREXm4uAyH7tXE0BYkCe) | 4:05 |
+| 30 | [プライド革命 Instrumental](https://open.spotify.com/track/6YzN95dgCbvaprFcvVT6ht) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Pride Kakumei](https://open.spotify.com/album/7yEjBXz8ELSQWvLDMkYkpi) | 3:55 |
 | 31 | [アイのシナリオ Instrumental](https://open.spotify.com/track/4fAeZBUhzzUdxVmGAH6f0y) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Aino Scenario](https://open.spotify.com/album/0O1W5C0R3TMbYOnrNRY01E) | 4:18 |
-| 32 | [世界は恋に落ちている Instrumental](https://open.spotify.com/track/4CuU0Uh2snNXQSmrnC1IPv) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Sekaiwa Koi Ni Ochiteiru](https://open.spotify.com/album/1PF9h1FZKKZpFZaKxD3HBh) | 5:11 |
+| 32 | [ギミギミコール \-instrumental\-](https://open.spotify.com/track/5P3KSs41DJmlXUxBeqE1ql) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Mr\. Darling / Gimme Gimme Call](https://open.spotify.com/album/1aJREXm4uAyH7tXE0BYkCe) | 4:04 |
 | 33 | [ウルフ \-instrumental\-](https://open.spotify.com/track/4FeujcOuckire7sQ5vgnvb) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Canele & Wolf](https://open.spotify.com/album/4ww27FAZJciiuIBlTou7R2) | 3:49 |
-| 34 | [ギミギミコール \-instrumental\-](https://open.spotify.com/track/5P3KSs41DJmlXUxBeqE1ql) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Mr\. Darling / Gimme Gimme Call](https://open.spotify.com/album/1aJREXm4uAyH7tXE0BYkCe) | 4:04 |
+| 34 | [世界は恋に落ちている Instrumental](https://open.spotify.com/track/4CuU0Uh2snNXQSmrnC1IPv) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Sekaiwa Koi Ni Ochiteiru](https://open.spotify.com/album/1PF9h1FZKKZpFZaKxD3HBh) | 5:11 |
 | 35 | [サイダー \-instrumental\-](https://open.spotify.com/track/1tW7dvuATQY7PiZ5qnydih) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Hikari Shoumeiron](https://open.spotify.com/album/52aBTjeaLXHx4yjsKbeRV8) | 4:47 |
-| 36 | [color Instrumental](https://open.spotify.com/track/380WYm2ZgtDbO8FIGlWu9E) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Sekaiwa Koi Ni Ochiteiru](https://open.spotify.com/album/1PF9h1FZKKZpFZaKxD3HBh) | 3:58 |
+| 36 | [アイのシナリオ TV size \-1分30秒\-](https://open.spotify.com/track/6ELxmJqF8Wfuo6SVYiMwYl) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [アイのシナリオ TV size \-1分30秒\-](https://open.spotify.com/album/7FLAOIxxjeXZ9WtLqO7O44) | 1:30 |
 | 37 | [カヌレ \-instrumental\-](https://open.spotify.com/track/3mGodRpESvLTpOMgnG6Pv7) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Canele & Wolf](https://open.spotify.com/album/4ww27FAZJciiuIBlTou7R2) | 4:09 |
-| 38 | [アイのシナリオ TV size \-1分30秒\-](https://open.spotify.com/track/6ELxmJqF8Wfuo6SVYiMwYl) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [アイのシナリオ TV size \-1分30秒\-](https://open.spotify.com/album/7FLAOIxxjeXZ9WtLqO7O44) | 1:30 |
+| 38 | [color Instrumental](https://open.spotify.com/track/380WYm2ZgtDbO8FIGlWu9E) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Sekaiwa Koi Ni Ochiteiru](https://open.spotify.com/album/1PF9h1FZKKZpFZaKxD3HBh) | 3:58 |
 | 39 | [恋色に咲け instrumental](https://open.spotify.com/track/4oz0grcNFiZt3Ish4LtrWy) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Koiironi Sake](https://open.spotify.com/album/7AwTHl1TQxJOssGwRiTmqI) | 4:05 |
 | 40 | [ヒストリア Instrumental](https://open.spotify.com/track/5dv666S8oaPeeeJQrKk7EZ) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Pride Kakumei](https://open.spotify.com/album/7yEjBXz8ELSQWvLDMkYkpi) | 3:25 |
 | 41 | [決戦スピリット\-Instrumental\-](https://open.spotify.com/track/6EvDB9bKxddCjaTQ7kRtDP) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/4qriecwv26eu0kkzSAaObD) | 4:32 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 | 48 | [BGM](https://open.spotify.com/track/6sGx2nUtdDfQcUJBHc53x5) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/4qriecwv26eu0kkzSAaObD) | 5:02 |
 | 49 | [胸キュンライト](https://open.spotify.com/track/3GFlv5161WZ6F2h8yf9tNU) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/4qriecwv26eu0kkzSAaObD) | 4:55 |
 
-Snapshot ID: `Mjg0MDc3MDMsMDAwMDAwMDBkOTViZDM5NjU3NjExZTMxMTI3ZjcxNTg0NTRkOGVlMg==`
+Snapshot ID: `Mjg0MDkwNTYsMDAwMDAwMDAyMDU4NjMxZGM2NDlhYjAyZjRkZGU2YWI2ZWI5MWUyZg==`

@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 72981,
+  "num_followers": 73650,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzgyYzQyNWFkZWI1ZGY1MGVlNjc4Mjk0NGZjMzBjOThiMmFhZThj",
+  "snapshot_id": "MCw0YzYyMjM4MTI4OTY3YTVlNmU4MDExZTY4OGYxNzllZGJjOWU3MWMx",
   "tracks": [
     {
       "added_at": "2023-10-06 09:12:51",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
+        "name": "Let My People Go",
+        "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
+      },
+      "artists": [
+        {
+          "name": "Darondo",
+          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
+        }
+      ],
+      "duration_ms": 238480,
+      "name": "Let My People Go",
+      "url": "https://open.spotify.com/track/260FtPzhpH7A0473nrMZ8R"
+    },
+    {
+      "added_at": "2023-10-06 09:12:51",
+      "album": {
         "name": "Pieces Of Me",
         "url": "https://open.spotify.com/album/73XPHadCmH3QpfhlMnte0C"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 236546,
       "name": "Stay Together",
       "url": "https://open.spotify.com/track/0Gs5zsjp7Rp2i41yMgNxCf"
-    },
-    {
-      "added_at": "2023-10-06 09:12:51",
-      "album": {
-        "name": "Let My People Go",
-        "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
-      },
-      "artists": [
-        {
-          "name": "Darondo",
-          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
-        }
-      ],
-      "duration_ms": 238480,
-      "name": "Let My People Go",
-      "url": "https://open.spotify.com/track/260FtPzhpH7A0473nrMZ8R"
     },
     {
       "added_at": "2023-10-06 09:12:51",
@@ -891,6 +891,26 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
+        "name": "Take You There",
+        "url": "https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR"
+      },
+      "artists": [
+        {
+          "name": "Wantigga",
+          "url": "https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF"
+        },
+        {
+          "name": "JAEL",
+          "url": "https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO"
+        }
+      ],
+      "duration_ms": 212116,
+      "name": "Take You There",
+      "url": "https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa"
+    },
+    {
+      "added_at": "2023-10-06 09:12:51",
+      "album": {
         "name": "A Weird Kinda Wonderful",
         "url": "https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa"
       },
@@ -903,22 +923,6 @@
       "duration_ms": 311453,
       "name": "Can't Change Me",
       "url": "https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9"
-    },
-    {
-      "added_at": "2023-10-06 09:12:51",
-      "album": {
-        "name": "The Way I Feel",
-        "url": "https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2"
-      },
-      "artists": [
-        {
-          "name": "Remy Shand",
-          "url": "https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt"
-        }
-      ],
-      "duration_ms": 301960,
-      "name": "The Way I Feel",
-      "url": "https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh"
     },
     {
       "added_at": "2023-10-06 09:12:51",
@@ -939,22 +943,18 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
-        "name": "Take You There",
-        "url": "https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR"
+        "name": "The Way I Feel",
+        "url": "https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2"
       },
       "artists": [
         {
-          "name": "Wantigga",
-          "url": "https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF"
-        },
-        {
-          "name": "JAEL",
-          "url": "https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO"
+          "name": "Remy Shand",
+          "url": "https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt"
         }
       ],
-      "duration_ms": 212116,
-      "name": "Take You There",
-      "url": "https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa"
+      "duration_ms": 301960,
+      "name": "The Way I Feel",
+      "url": "https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh"
     },
     {
       "added_at": "2023-10-06 09:12:51",
@@ -1207,18 +1207,22 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
-        "name": "Covered in Soul",
-        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
+        "name": "Take from Me",
+        "url": "https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3"
       },
       "artists": [
         {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        },
+        {
+          "name": "Roxie Ray",
+          "url": "https://open.spotify.com/artist/6ZbBl2PqUW7wMAU2DnsDCG"
         }
       ],
-      "duration_ms": 185333,
-      "name": "O-O-H Child",
-      "url": "https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl"
+      "duration_ms": 269706,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/1uyj6ycPIp7i907LsGbUmA"
     },
     {
       "added_at": "2023-10-06 09:12:51",
@@ -1239,22 +1243,18 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
-        "name": "Take from Me",
-        "url": "https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3"
+        "name": "Covered in Soul",
+        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
       },
       "artists": [
         {
-          "name": "Dojo Cuts",
-          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
-        },
-        {
-          "name": "Roxie Ray",
-          "url": "https://open.spotify.com/artist/6ZbBl2PqUW7wMAU2DnsDCG"
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 269706,
-      "name": "Lift Me Up",
-      "url": "https://open.spotify.com/track/1uyj6ycPIp7i907LsGbUmA"
+      "duration_ms": 185333,
+      "name": "O-O-H Child",
+      "url": "https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl"
     },
     {
       "added_at": "2023-10-06 09:12:51",

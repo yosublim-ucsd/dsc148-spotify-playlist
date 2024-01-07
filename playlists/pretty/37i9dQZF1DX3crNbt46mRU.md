@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: MERO, AYLIVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,031 likes - 59 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,043 likes - 59 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 3 | [All My Life](https://open.spotify.com/track/3qCCQas6tIP15Yjgu3gl9S) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [All My Life](https://open.spotify.com/album/2AhoXwTvHcGjBwNMDOwEZp) | 2:26 |
 | 4 | [Strangers](https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent \(Extended Edition\)](https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q) | 3:34 |
 | 5 | [LA NOTTE \(feat\. thasup\)](https://open.spotify.com/track/2Rgnz1zbNus9eaTYd3DcEe) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [LA NOTTE \(feat\. thasup\)](https://open.spotify.com/album/7KPWHITXB44PYMY7ZdzRDN) | 2:41 |
-| 6 | [If We Don't](https://open.spotify.com/track/4N0qdwqHaqH3r8dgWiSTbg) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [If We Don't](https://open.spotify.com/album/4YsfWUo7uUkMv3SmwzIggC) | 2:12 |
+| 6 | [If We Don’t](https://open.spotify.com/track/0Zp0v6Fd47tdjHdhynPcjr) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [If We Don’t](https://open.spotify.com/album/2vDvJRluMiScDpNGgZEZjJ) | 2:12 |
 | 7 | [TAUSEND GESICHTER](https://open.spotify.com/track/3dZ8GlHvpyWmoD1gyDXE1o) | [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337), [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [TAUSEND GESICHTER](https://open.spotify.com/album/7vTjpuVbwXp0BiQZUFXjuG) | 2:10 |
 | 8 | [Loreley \- feat\. Horst Wegener](https://open.spotify.com/track/4ElmSAcvChWXh4BC5owZnL) | [Dodo](https://open.spotify.com/artist/5x0wy0trcqYLvwUG5PFmQL), [Horst Wegener](https://open.spotify.com/artist/2lcYNWRmkANAlCq6RFEonQ) | [Yopougon \- Way Back Home](https://open.spotify.com/album/3DhTH9TZ0BWtqExo3DG7pf) | 2:40 |
 | 9 | [2006 \- Opps qui court](https://open.spotify.com/track/5cJHbMiyHr3oj9M8ZqIxho) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [2006 \(Opps qui court\)](https://open.spotify.com/album/5ncE4u6zAIl1O7a4x3zy2Q) | 2:58 |
@@ -61,11 +61,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 51 | [For Anybody \(with TOBi\)](https://open.spotify.com/track/0QPUZlehGYYulpIDeKbGSX) | [XV](https://open.spotify.com/artist/4GKRKf0FAK4nLtmL3u3JQ9), [MIKE SUMMERS](https://open.spotify.com/artist/3zZSB45PLm0xRMHSOQ59V8), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [For Anybody](https://open.spotify.com/album/74PyecgpMmiMkuiHOEp9Hs) | 4:06 |
 | 52 | [Vergiss' mich nicht](https://open.spotify.com/track/3dJkXSoeINFFsIrjE87yyo) | [CILLIAN](https://open.spotify.com/artist/1z5Tt9oipM105ZOdGToYsY) | [Vergiss' mich nicht](https://open.spotify.com/album/0Vytl4iGAX3CZSYc0DUqsv) | 3:40 |
 | 53 | [Stuck](https://open.spotify.com/track/0fRsHnjvgP9YEy13nQYZGN) | [I Shiver](https://open.spotify.com/artist/46vvSCXHa9SAZ71xmgneoa) | [Stuck](https://open.spotify.com/album/2iUmhWsLVUtMmZ7qTh3NOD) | 2:16 |
-| 54 | [Wide Awake](https://open.spotify.com/track/7hf83baRWCK6wgJ0tLYtGZ) | [DamienDamien](https://open.spotify.com/artist/6BUa6aGM0MgtORsUU4cxie), [Emily](https://open.spotify.com/artist/20WLCUM5Q8NkBQ4unYfeW1), [Omeno](https://open.spotify.com/artist/2QTTZ9hCsHReDYLG0pzina) | [Wide Awake](https://open.spotify.com/album/1We81VgpK8b1GforFoAfdt) | 2:59 |
+| 54 | [Wide Awake](https://open.spotify.com/track/7hf83baRWCK6wgJ0tLYtGZ) | [DamienDamien](https://open.spotify.com/artist/6BUa6aGM0MgtORsUU4cxie), [Emily Rose](https://open.spotify.com/artist/711pDSxamsBPM9KvX3Wrqh), [Omeno](https://open.spotify.com/artist/2QTTZ9hCsHReDYLG0pzina) | [Wide Awake](https://open.spotify.com/album/1We81VgpK8b1GforFoAfdt) | 2:59 |
 | 55 | [18](https://open.spotify.com/track/1lOy61QLyt7sqmzkRM2RVl) | [Cosmo Lautaro](https://open.spotify.com/artist/1KkOEEp4YjvWIWH7NjOu2M) | [18](https://open.spotify.com/album/7KpCf4KjYhmlecZeyjfi7h) | 3:03 |
 | 56 | [Mein Weg](https://open.spotify.com/track/5MI89Y4wlEgCU1j3naxYzz) | [Leona Shijaku](https://open.spotify.com/artist/2SPGwFrMaYqLLe3sMorkAj) | [Mein Weg](https://open.spotify.com/album/62srVpV9MN0dsQPuhjb3uU) | 3:29 |
 | 57 | [Lonely Heart](https://open.spotify.com/track/2kWkT2fLKyXaQBQX3pCrF0) | [RIKU RAJAMAA](https://open.spotify.com/artist/4hsmFru7NH14y1rtw59tsX) | [Lonely Heart](https://open.spotify.com/album/7JyTw3DZBohnIbw4gTUuY8) | 2:40 |
 | 58 | [Verschwende Dich](https://open.spotify.com/track/3VyhKnsWF9sJmZpR3ex1fH) | [Max Prosa](https://open.spotify.com/artist/0UU6joGwY7wUWWDyaPNKSF), [Stiehler](https://open.spotify.com/artist/3t6PFvpjhve61oCENXXrh9), [Hannah Herzsprung](https://open.spotify.com/artist/5WqubPXBuDFvWO8WMUq1JW) | [Verschwende Dich](https://open.spotify.com/album/1hzhtWLXn50NMy1FqEM0h4) | 3:15 |
 | 59 | [American Dream](https://open.spotify.com/track/2XmkX75czcI3KwZfvuvkPx) | [Oda Loves You](https://open.spotify.com/artist/1SPo0Gb7MLOZRbrpnj4ybr) | [American Dream](https://open.spotify.com/album/2byLuldZbRlXBHQyAVR3AZ) | 3:33 |
 
-Snapshot ID: `MCwwN2Y4ZTg2ZWI3ZTI4MDQ3MjJkZWUyMWJlN2E3YjRkMjk4YWU5NWVj`
+Snapshot ID: `MCxlZmM5ZDc5YTczM2U4ODU3Yjk0OGIxNzdmMWY4NGU5OTczMzFjYjA0`

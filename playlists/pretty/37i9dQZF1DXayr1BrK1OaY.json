@@ -1,12 +1,12 @@
 {
   "description": "let the dj set u free",
-  "num_followers": 203927,
+  "num_followers": 204104,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTI0Mzg2OWRjMzI5MmMzZTViN2VlZjUxZmJiYWZmNWZlYzE1ZjVl",
+  "snapshot_id": "MCxjMTk3MjVjNzFiZTA5YjQzOTg5NDc4NWYzMDUyNTVjNmZhNjViYmJj",
   "tracks": [
     {
       "added_at": "2023-12-29 05:00:00",
@@ -651,22 +651,26 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Rhythm (Of The Night)",
-        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
+        "name": "Better (feat. Teddy Swims)",
+        "url": "https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI"
       },
       "artists": [
         {
-          "name": "Something Good",
-          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
         },
         {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+          "name": "BURNS",
+          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 201621,
-      "name": "Rhythm (Of The Night)",
-      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
+      "duration_ms": 182462,
+      "name": "Better (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -711,26 +715,22 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Better (feat. Teddy Swims)",
-        "url": "https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI"
+        "name": "Rhythm (Of The Night)",
+        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
       },
       "artists": [
         {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+          "name": "Something Good",
+          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
         },
         {
-          "name": "BURNS",
-          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
         }
       ],
-      "duration_ms": 182462,
-      "name": "Better (feat. Teddy Swims)",
-      "url": "https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna"
+      "duration_ms": 201621,
+      "name": "Rhythm (Of The Night)",
+      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Growth",
-        "url": "https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv"
-      },
-      "artists": [
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 174344,
-      "name": "Just Over",
-      "url": "https://open.spotify.com/track/3U4wxiV8A190qwogybOHC9"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
         "name": "Everywhere",
         "url": "https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 166153,
       "name": "Everywhere",
       "url": "https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Growth",
+        "url": "https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 174344,
+      "name": "Just Over",
+      "url": "https://open.spotify.com/track/3U4wxiV8A190qwogybOHC9"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -1027,22 +1027,22 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Fade Out (with MKLA)",
-        "url": "https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE"
+        "name": "Euphoric Sad Songs",
+        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         },
         {
-          "name": "MKLA",
-          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
         }
       ],
-      "duration_ms": 230909,
-      "name": "Fade Out (with MKLA)",
-      "url": "https://open.spotify.com/track/6gs5VDiNpbBfXHsAj2c9SB"
+      "duration_ms": 197573,
+      "name": "Regardless",
+      "url": "https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -1063,22 +1063,22 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Euphoric Sad Songs",
-        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
+        "name": "Fade Out (with MKLA)",
+        "url": "https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+          "name": "MKLA",
+          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
         }
       ],
-      "duration_ms": 197573,
-      "name": "Regardless",
-      "url": "https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4"
+      "duration_ms": 230909,
+      "name": "Fade Out (with MKLA)",
+      "url": "https://open.spotify.com/track/6gs5VDiNpbBfXHsAj2c9SB"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Safe In My Arms / YourLove",
-        "url": "https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        }
-      ],
-      "duration_ms": 172129,
-      "name": "YourLove",
-      "url": "https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
         "name": "Maze",
         "url": "https://open.spotify.com/album/3IoThqpjyqj8cjbz5RCTrj"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 183536,
       "name": "Maze",
       "url": "https://open.spotify.com/track/1sFIeryYtYTqcRqZiEuIxh"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Safe In My Arms / YourLove",
+        "url": "https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "duration_ms": 172129,
+      "name": "YourLove",
+      "url": "https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Where did you go",
-        "url": "https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        },
-        {
-          "name": "MAGNUS",
-          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Where did you go",
-      "url": "https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 204567,
       "name": "Be Someone",
       "url": "https://open.spotify.com/track/3OCFPScaJuLwmHJkqtVWoL"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Where did you go",
+        "url": "https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        },
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Where did you go",
+      "url": "https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV"
     },
     {
       "added_at": "2023-12-29 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 
 > Los temas legendarios de la escena de rap nacional: Control Machete en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,781 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,864 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 19 | [Si Señor](https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v) | 4:13 |
 | 20 | [Vato Sencillo](https://open.spotify.com/track/1QkDbaPjLHycyBsJzOHexj) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Vol\. 4](https://open.spotify.com/album/7LP8ofOXYH2AGzc8ZCt0Oe) | 3:03 |
 | 21 | [Sirve Mi Café Temprano](https://open.spotify.com/track/7j4P6of6eyZDe49HUYSU2h) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Sirve Mi Café Temprano](https://open.spotify.com/album/0I7niYRGKf1mfAjVdrkogE) | 3:59 |
-| 22 | [Mr\. P\-Mosh](https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Aquamosh](https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk) | 4:22 |
-| 23 | [Tres Delinquentes \- Radio Version](https://open.spotify.com/track/1dstLlsgEFPsaiccsUz2SP) | [Delinquent Habits](https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U) | [Hip Hop 100 Hits \- Urban rap & R n B anthems inc\. Jay Z, A$ap Rocky, Wu\-Tang Clan & Nas](https://open.spotify.com/album/1tIioq32KjWlt5vvk5rhqX) | 4:15 |
+| 22 | [Tres Delinquentes \- Radio Version](https://open.spotify.com/track/1dstLlsgEFPsaiccsUz2SP) | [Delinquent Habits](https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U) | [Hip Hop 100 Hits \- Urban rap & R n B anthems inc\. Jay Z, A$ap Rocky, Wu\-Tang Clan & Nas](https://open.spotify.com/album/1tIioq32KjWlt5vvk5rhqX) | 4:15 |
+| 23 | [Mr\. P\-Mosh](https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Aquamosh](https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk) | 4:22 |
 | 24 | [Mextasis](https://open.spotify.com/track/7hUGy5dnyRVXzHOv9LoZB9) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [El Morroeste](https://open.spotify.com/album/1FaFnc7lRcUSy2fk8DSHNe) | 3:16 |
 | 25 | [Pues Que Pues](https://open.spotify.com/track/4pWMXmEgwEMBoBMyw8BCG4) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Rolemos Otro](https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3) | 4:56 |
 | 26 | [Solo Como Amigos](https://open.spotify.com/track/0LC8PbKuTyhCpsrdLtL3jz) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Luces Fantasma](https://open.spotify.com/album/0gzZ8kGuKfDlVtBVmDLNJj) | 4:33 |
-| 27 | [Gimme Tha Power](https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Donde Jugaran Las Niñas](https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ) | 4:10 |
-| 28 | [Cómo, Cuándo Y Dónde](https://open.spotify.com/track/7HqibgWgNi1e6nWNjeFiXD) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [KOMP 104.9 Radio Compa](https://open.spotify.com/album/1vg1nn8RYZMLG3B3DdLWRj) | 4:18 |
+| 27 | [Cómo, Cuándo Y Dónde](https://open.spotify.com/track/7HqibgWgNi1e6nWNjeFiXD) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [KOMP 104.9 Radio Compa](https://open.spotify.com/album/1vg1nn8RYZMLG3B3DdLWRj) | 4:18 |
+| 28 | [Gimme Tha Power](https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Donde Jugaran Las Niñas](https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ) | 4:10 |
 | 29 | [Mañanero](https://open.spotify.com/track/5CFTbLlcyy5ITkMXgE9qLZ) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [High Con Class XIII](https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh) | 3:29 |
 | 30 | [Hey Si Me Ven](https://open.spotify.com/track/1dndIoArEd9c27oqi4Wqmd) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Volumen Prohibido](https://open.spotify.com/album/1s6Kp6CZX6bvDSfXHxhrMW) | 3:43 |
 | 31 | [Siempre Peligroso \(feat\. Fermin IV Caballero\)](https://open.spotify.com/track/1hSJnfkEqbGF5afz5aqKqi) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [Fermin IV Caballero](https://open.spotify.com/artist/2ADe1weFY6flwz9LoSDcy3) | [Los Grandes Éxitos En Español \(Spanish Greatest Hits\)](https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 49 | [Tú](https://open.spotify.com/track/03TF8mEvi22ZyKyGz5AyOe) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr) | [Frenesi](https://open.spotify.com/album/3SOlnaLITi023iBbIxf0td) | 7:32 |
 | 50 | [La Durango](https://open.spotify.com/track/5n4KcRRFgaucREe1bjQkHB) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [La Durango](https://open.spotify.com/album/4TWwOoEHNzAKtOW2BHH5cT) | 4:10 |
 
-Snapshot ID: `MCxhNTVjNjE1MGRlZjM5ZjEzYTQ5NWI3OTI2YzBlNTc1M2M4ZDY1MTZk`
+Snapshot ID: `MCxhNDIwYTNjMzRjN2FkNWRkYzQzNjU2ZGUzODMwNTI4NTE3MTcwM2M5`

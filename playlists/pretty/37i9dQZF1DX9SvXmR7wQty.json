@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: No\u00e9 Preszow",
-  "num_followers": 39527,
+  "num_followers": 39528,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjJjNWQ0ZjI0NTdkYzA2OTU2NjMzNWE0NGI0ZGZkNzE2MDAwMTFi",
+  "snapshot_id": "MCwxOWI4OWUzNDM2MTZjNmRhOTM5ODMyODEzMjJhODUxY2YwMWMxMzgy",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -303,22 +303,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Il y a",
-        "url": "https://open.spotify.com/album/55RuSf55f21hk6VLj55JYs"
+        "name": "AMBITION",
+        "url": "https://open.spotify.com/album/48JSJ6nOB4SegSt9Gs2cZY"
       },
       "artists": [
         {
-          "name": "Amir",
-          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
         },
         {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
         }
       ],
-      "duration_ms": 205365,
-      "name": "Il y a",
-      "url": "https://open.spotify.com/track/5H3s6pH2SQsp6a0n8k0BrW"
+      "duration_ms": 175946,
+      "name": "DIS-MOI (feat. SDM)",
+      "url": "https://open.spotify.com/track/72EzFi8h1H2MImmS2ZoSTr"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -339,22 +339,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "AMBITION",
-        "url": "https://open.spotify.com/album/48JSJ6nOB4SegSt9Gs2cZY"
+        "name": "Il y a",
+        "url": "https://open.spotify.com/album/55RuSf55f21hk6VLj55JYs"
       },
       "artists": [
         {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
         },
         {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
         }
       ],
-      "duration_ms": 175946,
-      "name": "DIS-MOI (feat. SDM)",
-      "url": "https://open.spotify.com/track/72EzFi8h1H2MImmS2ZoSTr"
+      "duration_ms": 205365,
+      "name": "Il y a",
+      "url": "https://open.spotify.com/track/5H3s6pH2SQsp6a0n8k0BrW"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -415,26 +415,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "\u00c7a c'est bien",
-        "url": "https://open.spotify.com/album/6laF6aVjTtWwMZvwYdLOES"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        },
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        }
-      ],
-      "duration_ms": 159299,
-      "name": "\u00c7a c'est bien",
-      "url": "https://open.spotify.com/track/1CFcahfucbIGHRzLOP3qYX"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "\u00e0 2 \u00e0 3",
         "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 226726,
       "name": "Je suis fou",
       "url": "https://open.spotify.com/track/2u6z1c1TruNQeNVv0xw1HT"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "\u00c7a c'est bien",
+        "url": "https://open.spotify.com/album/6laF6aVjTtWwMZvwYdLOES"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "duration_ms": 159299,
+      "name": "\u00c7a c'est bien",
+      "url": "https://open.spotify.com/track/1CFcahfucbIGHRzLOP3qYX"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Lova",
-        "url": "https://open.spotify.com/album/6kFn3QbTXiRr6ZTkVdIoGa"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 173810,
-      "name": "Lova",
-      "url": "https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Le chemin - 20 ans",
         "url": "https://open.spotify.com/album/1YK3ZdEdUsSgRTwEG9yZVz"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 170026,
       "name": "Je cours (feat. Nuit Incolore)",
       "url": "https://open.spotify.com/track/3SIwPysPwGNDZmNyyf1dwG"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Lova",
+        "url": "https://open.spotify.com/album/6kFn3QbTXiRr6ZTkVdIoGa"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 173810,
+      "name": "Lova",
+      "url": "https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "SALE \u00c9POQUE",
-        "url": "https://open.spotify.com/album/5156pxycfavNl9oMoDNWL2"
-      },
-      "artists": [
-        {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
-        }
-      ],
-      "duration_ms": 183106,
-      "name": "MAIN MOITE",
-      "url": "https://open.spotify.com/track/2b8wnmu5nhWbolp1RVWA86"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/1HXZARN2w0GDcZ4QHwNo9N"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 183981,
       "name": "XOXO",
       "url": "https://open.spotify.com/track/2S9p5lu7tZvYMob6q7mmBe"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "SALE \u00c9POQUE",
+        "url": "https://open.spotify.com/album/5156pxycfavNl9oMoDNWL2"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        }
+      ],
+      "duration_ms": 183106,
+      "name": "MAIN MOITE",
+      "url": "https://open.spotify.com/track/2b8wnmu5nhWbolp1RVWA86"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Yemma",
+        "url": "https://open.spotify.com/album/1kPducajpmz3HQOF9e8BoA"
+      },
+      "artists": [
+        {
+          "name": "Niro",
+          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
+        }
+      ],
+      "duration_ms": 157625,
+      "name": "Yemma",
+      "url": "https://open.spotify.com/track/3i9rNpToR25Cx5XdkStxn2"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Yoski 2",
         "url": "https://open.spotify.com/album/5KdkD8T6GXikv2YgM2ssqd"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 176906,
       "name": "Bectance",
       "url": "https://open.spotify.com/track/6ZELMmjtFzkqNHdY8VIQBc"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Yemma",
-        "url": "https://open.spotify.com/album/1kPducajpmz3HQOF9e8BoA"
-      },
-      "artists": [
-        {
-          "name": "Niro",
-          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
-        }
-      ],
-      "duration_ms": 157625,
-      "name": "Yemma",
-      "url": "https://open.spotify.com/track/3i9rNpToR25Cx5XdkStxn2"
     },
     {
       "added_at": "2024-01-05 05:00:00",

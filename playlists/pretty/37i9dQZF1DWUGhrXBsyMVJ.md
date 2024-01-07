@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUGhrXBsyMVJ.md) - [plain]
 
 > Unforgettable love songs from the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,513 likes - 54 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,637 likes - 54 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUGhrXBsyMVJ.md) - [plain]
 | 33 | [Devoted to You](https://open.spotify.com/track/4FrMb1ckGBrhARbHySQKx5) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:21 |
 | 34 | [To Be Loved](https://open.spotify.com/track/0CAzT38ct3vgDW3p6yIzUe) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [He's So Fine](https://open.spotify.com/album/4u4SJFMnkubwHu8VmNQJ9w) | 2:34 |
 | 35 | [Don't](https://open.spotify.com/track/4HVSaFbEwvptCAzLlOr2UZ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:48 |
-| 36 | [Why Do I Love You So](https://open.spotify.com/track/6e63bXWJcCMu8tunixbFa9) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Johnny Tillotson's Best](https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb) | 2:07 |
-| 37 | [Words Of Love](https://open.spotify.com/track/3U9Kkv90QElks0pzIgfAxw) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [Buddy Holly](https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP) | 1:57 |
+| 36 | [Words Of Love](https://open.spotify.com/track/3U9Kkv90QElks0pzIgfAxw) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [Buddy Holly](https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP) | 1:57 |
+| 37 | [Why Do I Love You So](https://open.spotify.com/track/6e63bXWJcCMu8tunixbFa9) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Johnny Tillotson's Best](https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb) | 2:07 |
 | 38 | [All The Way \- 2006 Digital Remaster/24 Bit Mastering](https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Romance: Songs From The Heart](https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp) | 2:52 |
 | 39 | [You Belong To Me](https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Ultimate](https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl) | 3:13 |
 | 40 | [Too Young](https://open.spotify.com/track/0zII0Soax7wbm3Avw7iVAd) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:24 |
-| 41 | [We Belong Together](https://open.spotify.com/track/7wO1SGOue1lTuTzmXsp6vm) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [The Best of Ritchie Valens](https://open.spotify.com/album/0TyByC1U6mPoii8aeQ4L2i) | 1:56 |
-| 42 | [Heartbeat](https://open.spotify.com/track/3ZiinX20GNikz3F849xTIO) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D), [The Crickets](https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR) | [The Definitive Collection](https://open.spotify.com/album/1tTTDe47X0rTO4q7RidIan) | 2:08 |
+| 41 | [Heartbeat](https://open.spotify.com/track/3ZiinX20GNikz3F849xTIO) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D), [The Crickets](https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR) | [The Definitive Collection](https://open.spotify.com/album/1tTTDe47X0rTO4q7RidIan) | 2:08 |
+| 42 | [We Belong Together](https://open.spotify.com/track/7wO1SGOue1lTuTzmXsp6vm) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [The Best of Ritchie Valens](https://open.spotify.com/album/0TyByC1U6mPoii8aeQ4L2i) | 1:56 |
 | 43 | [Never Be Anyone Else But You \- Remastered](https://open.spotify.com/track/0snHlyyyUp2hKYEz7ffmkx) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Ricky Sings Again \(Expanded Edition / Remastered\)](https://open.spotify.com/album/30csxUzrzcgwuOT5QVmFmg) | 2:16 |
 | 44 | [Loving You](https://open.spotify.com/track/036VdTP0ggdePwbvbFuT8w) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Loving You](https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2) | 2:13 |
 | 45 | [Side By Side](https://open.spotify.com/track/3cuOpppX5ZNOQ843dPeFB4) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [The Fabulous Favorites](https://open.spotify.com/album/4wiQVM9GmQ6scMImtHxqmv) | 2:52 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUGhrXBsyMVJ.md) - [plain]
 | 53 | [No One But You](https://open.spotify.com/track/4MjPbzry4T4JjJsNaNIe58) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [The Best Of](https://open.spotify.com/album/5Iv3gyBXFrdiXzrV7zHmdq) | 3:07 |
 | 54 | [Witchcraft](https://open.spotify.com/track/3BTsv0FthgmDwyKlYShwJF) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Frank Sinatra: The Complete Capitol Singles Collection](https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB) | 2:53 |
 
-Snapshot ID: `MCw1YjE3NjZhZmQ4NGExYWQ0YTIzZDU1OWVkYTI1ZDZhNjAyMTczYzdi`
+Snapshot ID: `MCwxYTIzN2U2MTdlN2ZmYzZjM2E1NTFhNWQwMzU2NWY0ODRiYWQyNWEz`

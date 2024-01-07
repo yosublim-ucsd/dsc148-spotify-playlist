@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 
 > feel it all\. Cover: Something Corporate
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,649,165 likes - 125 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,649,621 likes - 125 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,9 +129,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 119 | [Pachuca Sunrise](https://open.spotify.com/track/1flWFiusGKhIaewrTnCYGO) | [Minus the Bear](https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT) | [Menos El Oso](https://open.spotify.com/album/13nMzRLvgjY6boXNkN426H) | 3:35 |
 | 120 | [Letters To You](https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 3:19 |
 | 121 | [Tiny Raindrop](https://open.spotify.com/track/4EvzBvvreh74hcVAsUvfjD) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [The Things We Think We're Missing](https://open.spotify.com/album/3ZCQXNkbMzAH7WDIQ8EN3O) | 3:33 |
-| 122 | [The Medic](https://open.spotify.com/track/5KzuAU7zxcP0bq0CPdRRyr) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [The Albatross](https://open.spotify.com/album/7AiC8x8GIRbQK2ZROLox5f) | 3:22 |
-| 123 | [Warm Me Up](https://open.spotify.com/track/0tkJnDYPIxF1xqxKe8x8YU) | [The Audition](https://open.spotify.com/artist/7EE9Xq8yiJyO5FIVho6ibI) | [Champion](https://open.spotify.com/album/5ZnjqMxBLvjg7cKSvDYsgA) | 3:32 |
+| 122 | [Warm Me Up](https://open.spotify.com/track/0tkJnDYPIxF1xqxKe8x8YU) | [The Audition](https://open.spotify.com/artist/7EE9Xq8yiJyO5FIVho6ibI) | [Champion](https://open.spotify.com/album/5ZnjqMxBLvjg7cKSvDYsgA) | 3:32 |
+| 123 | [The Medic](https://open.spotify.com/track/5KzuAU7zxcP0bq0CPdRRyr) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [The Albatross](https://open.spotify.com/album/7AiC8x8GIRbQK2ZROLox5f) | 3:22 |
 | 124 | [Bruised and Scarred](https://open.spotify.com/track/7EbUzSDb2R7EgyO3uGN1Oz) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Anywhere but Here](https://open.spotify.com/album/0JK09CS7SdFERmAiBNjawF) | 3:23 |
 | 125 | [At Your Funeral](https://open.spotify.com/track/3UBDdFbJw8h0zLMaXGftE6) | [Saves The Day](https://open.spotify.com/artist/5gWhlJBlLQGLOgYWO8lwCU) | [Stay What You Are](https://open.spotify.com/album/2fbbEdME7raxGzuPztDFxE) | 3:09 |
 
-Snapshot ID: `MCxlYjMzZDRlY2JlM2M1YjNmMWQzMGI1ZjgzM2Y2NjUxYWQ5NmQyZDRl`
+Snapshot ID: `MCxmOWEwOTZiNzdmMWFhMDRkNTI0OWFmZTJhYTk2MjE3NDcyMDQ1ZWQx`

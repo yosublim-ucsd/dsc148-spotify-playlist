@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 
 > Throwbacks you can catch a wine to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,098 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,420 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 17 | [Bruk Off Yuh Back](https://open.spotify.com/track/30mNHDOw7qD5SF8tBeuPpu) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Bruk Off Yuh Back](https://open.spotify.com/album/46SMy1MXYZq5qnIpHKAd1U) | 2:53 |
 | 18 | [I'm Still in Love with You \(feat\. Sasha\)](https://open.spotify.com/track/5lJx5eiSahFfsqkMJVlkDN) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sasha](https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY), [Jeremy Harding](https://open.spotify.com/artist/4RPAm27zZnyxkEEpdWmrd0), [Murray Elias](https://open.spotify.com/artist/110deyrdzDK0DIuHPeQgKL) | [Dutty Rock \(20th Anniversary\)](https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV) | 4:33 |
 | 19 | [Nobody Has to Know](https://open.spotify.com/track/5nLmO6pp71pmiVZwyTPfq9) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Rumors](https://open.spotify.com/album/1MZfu40bPBKw1HzXGyGoMX) | 3:42 |
-| 20 | [Cant Satisfy Her](https://open.spotify.com/track/3u25dhBZ80h0TFewO29Wqb) | [I Wayne](https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL) | [Lava Ground](https://open.spotify.com/album/7uReTXgsiJdTHdn42KO2Qp) | 3:41 |
-| 21 | [Nuttin Nuh Go So](https://open.spotify.com/track/5bfrLQFw6AB3Be3fzvY5ER) | [Notch](https://open.spotify.com/artist/5djTjSYAitkfuLplSN60gZ) | [Buy out Riddim](https://open.spotify.com/album/3fUkJjlmkgOwtBZ7a7nPIy) | 4:02 |
+| 20 | [Nuttin Nuh Go So](https://open.spotify.com/track/5bfrLQFw6AB3Be3fzvY5ER) | [Notch](https://open.spotify.com/artist/5djTjSYAitkfuLplSN60gZ) | [Buy out Riddim](https://open.spotify.com/album/3fUkJjlmkgOwtBZ7a7nPIy) | 4:02 |
+| 21 | [Cant Satisfy Her](https://open.spotify.com/track/3u25dhBZ80h0TFewO29Wqb) | [I Wayne](https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL) | [Lava Ground](https://open.spotify.com/album/7uReTXgsiJdTHdn42KO2Qp) | 3:41 |
 | 22 | [Pull up to Mi Bumper](https://open.spotify.com/track/2c3e6W36veH8GSBkoMKX24) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [J Capri](https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20) | [Pull up to Mi Bumper](https://open.spotify.com/album/72AxGSjTTU7SWGxcXEjXRS) | 2:30 |
 | 23 | [She's Royal](https://open.spotify.com/track/6dFOwtd9iBMERardJvsIxY) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Parables](https://open.spotify.com/album/4xliwWMj72GCy9Edq1v985) | 4:11 |
 | 24 | [Who Am I](https://open.spotify.com/track/4PaV16f3DUo9QxbQMUzMKH) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Many Moods Of Moses](https://open.spotify.com/album/5BppAD3eDsFuDPolMdcqt2) | 3:16 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 79 | [Hot Fuk / Hot Wuk](https://open.spotify.com/track/1aoq8ZJBdrqdM1FSzciy4G) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Mr Vegas: The Hits](https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg) | 2:47 |
 | 80 | [Punanny Medley](https://open.spotify.com/track/5GEid99RgStd0cQIhAlGHQ) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on), [Ward 21](https://open.spotify.com/artist/0iRwqSYn7fG3WkEBYQpcqJ), [Harry Toddler](https://open.spotify.com/artist/4ytwWK7bEj7noRfvIVDsgj), [Lexxus](https://open.spotify.com/artist/6LCFuJlEO46XKJlT3ZguIa), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE), [Shabba Ranks](https://open.spotify.com/artist/3j7Sw80qzL2FJlryUhI3wG), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Baby G](https://open.spotify.com/artist/5s2H4Qminkygl0u2u8fTbk), [Wayne Marshall](https://open.spotify.com/artist/1L9hOwgmwVUkUftkPH0JU1), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Mad Cobra](https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT), [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s), [Admiral Bailey](https://open.spotify.com/artist/1zYGgHaZVz4Q2NrPngXiCx) | [Strictly The Best Vol\. 25](https://open.spotify.com/album/3dY688fGsIBNj7AcgKOU7d) | 3:51 |
 
-Snapshot ID: `MCxiN2QwZjVhNDE0MDNmOWFhNDA3MmY0Y2Q3OTFjNWIwNjZlNWE5OTY0`
+Snapshot ID: `MCxiZmRiYzljY2E3ODQ1YzZmMTgwMGE5NGZmYzRiMGVkOThmMzVmMmM5`

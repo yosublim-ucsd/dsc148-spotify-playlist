@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,069 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,025 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 74 | [Hallelujah](https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Christmas After Midnight](https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2) | 4:23 |
 | 75 | [The Christmas Song](https://open.spotify.com/track/4NZPiKXUHl6Iu5yslgAH2q) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Christmas With Brandy](https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk) | 3:10 |
 
-Snapshot ID: `MCw4ODZjYjNkOWVkMGNkOWUxMmUxZTdiMzEzMGNhOGI0MWVmMzg0ZGYx`
+Snapshot ID: `MCwyN2I0ZjhiYzM1ODU4NWE0ZTJhOTY1ZjcyNzZlNGI5MDE4MGM1Yzhl`

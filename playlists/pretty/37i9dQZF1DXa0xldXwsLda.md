@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 
 > ¡Buen provecho!
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,958 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,973 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 |
 | 2 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 |
-| 3 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 |
+| 3 | [No Se Va](https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:36 |
 | 4 | [Un Viaje a Todas Partes](https://open.spotify.com/track/1IyyGyeI0FK3zfrDbDb0QF) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [Un Viaje a Todas Partes](https://open.spotify.com/album/4Zvth8uetJ0XyKfaLVN7n0) | 3:23 |
-| 5 | [No Se Va](https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:36 |
+| 5 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 |
 | 6 | [El lugar correcto](https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 3:51 |
 | 7 | [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 |
 | 8 | [Dos Gardenias](https://open.spotify.com/track/7gxVugPbp7jMLmPjzhy1lt) | [Isaac et Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Dos Gardenias](https://open.spotify.com/album/1IoeRaaVfgwOkwH6dSPAZS) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 | 99 | [Es Por Ti](https://open.spotify.com/track/1fPBBcBon7d2EuOcye2rsT) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [Es Por Ti](https://open.spotify.com/album/4OiWC358icDw3f18lxFYjT) | 3:13 |
 | 100 | [Rayando El Sol](https://open.spotify.com/track/0eh9gAGvtaLI8cIzKsdCgn) | [Jenny Beaujean y Benjamin Garcia](https://open.spotify.com/artist/06izVjPOksdkMjJ3NUDfky) | [Rayando El Sol](https://open.spotify.com/album/7Hbcex3ZqA8hk0kcTq4PLe) | 3:59 |
 
-Snapshot ID: `MCwxMGRjMDQ2MjFiYWY2Y2I5ODJmZjM3MGJkN2ViNzJmYTA1NzA2Zjhj`
+Snapshot ID: `MCw2ZjQ2YTAwZmEyODE5NzBmYWY1YmUyMGVjNWE0NTRmZGM2MDFkZDQx`

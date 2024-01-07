@@ -60,7 +60,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 199880,
       "name": "(sic)",
       "url": "https://open.spotify.com/track/5u2qiqQGUBy8fvXTvs9i2X"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 314680,
       "name": "1st of Tha Month",
       "url": "https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr"
@@ -274,7 +274,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 347440,
       "name": "5 Minutes Alone",
       "url": "https://open.spotify.com/track/5SAEMjVQbmin3g7b0RG6me"
@@ -364,7 +364,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 237466,
       "name": "A New Level",
       "url": "https://open.spotify.com/track/5Tdx85q8KQIcIZJ9XoHblt"
@@ -400,7 +400,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 153600,
       "name": "A.D.I.D.A.S.",
       "url": "https://open.spotify.com/track/0xgsyoVvRFSYvV5cdtYhX1"
@@ -742,7 +742,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 278386,
       "name": "Ambitionz Az A Ridah",
       "url": "https://open.spotify.com/track/20fBuVybkHgjF6vNhSMROD"
@@ -778,7 +778,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 227973,
       "name": "Angry Again",
       "url": "https://open.spotify.com/track/3CI1JP2ooMBSFjIy1u6Yrc"
@@ -1132,7 +1132,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 238400,
       "name": "Beautiful Disaster",
       "url": "https://open.spotify.com/track/0LtsuNRz3IMRrHCYO9fKRk"
@@ -1197,6 +1197,28 @@
     },
     {
       "album": {
+        "name": "Vol. 3... Life And Times Of S. Carter",
+        "url": "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "UGK",
+          "url": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283066,
+      "name": "Big Pimpin'",
+      "url": "https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD"
+    },
+    {
+      "album": {
         "name": "Ready to Die (The Remaster)",
         "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
       },
@@ -1248,7 +1270,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 288560,
       "name": "Bitches Ain't Shit",
       "url": "https://open.spotify.com/track/0JSCZdPOPR7d8Mfi09tIxU"
@@ -1686,7 +1708,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 251266,
       "name": "Bring Da Ruckus (feat. RZA, Ghostface Killah, Raekwon & Inspectah Deck)",
       "url": "https://open.spotify.com/track/1v5cgIyffYtfEx0swttdoE"
@@ -1726,7 +1748,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 189760,
       "name": "Bring The Pain",
       "url": "https://open.spotify.com/track/3F3R4uyTMkX9jRCEVVmdz6"
@@ -1874,7 +1896,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 229466,
       "name": "Bulls On Parade",
       "url": "https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x"
@@ -1918,7 +1940,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 290106,
       "name": "Burden In My Hand",
       "url": "https://open.spotify.com/track/1iArQTuOzxvrtniGmkyy92"
@@ -2058,7 +2080,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 330760,
       "name": "Can't C Me",
       "url": "https://open.spotify.com/track/6POE7KXN1KzMGeAWlFeCB3"
@@ -2080,7 +2102,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 317800,
       "name": "Can't Knock The Hustle",
       "url": "https://open.spotify.com/track/05Iawel3maRW3mSHYmXxMZ"
@@ -2542,7 +2564,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 257866,
       "name": "Cowboy",
       "url": "https://open.spotify.com/track/19LT4ZUEeoUdimKE04WJJg"
@@ -2632,7 +2654,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 332626,
       "name": "Creep",
       "url": "https://open.spotify.com/track/0elH6ukMGLyCHJavHutEza"
@@ -2668,7 +2690,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 309866,
       "name": "Crumblin' Erb",
       "url": "https://open.spotify.com/track/3T790QTg0ebUUk5tCRbtbN"
@@ -2740,7 +2762,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 236973,
       "name": "Cumbersome",
       "url": "https://open.spotify.com/track/6u1yKoh00WaoSpNp46RzKF"
@@ -2898,7 +2920,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 296626,
       "name": "Davidian",
       "url": "https://open.spotify.com/track/3qHlBxD3acw5nrl7Padt0v"
@@ -2974,7 +2996,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 297426,
       "name": "Dead Wrong (feat. Eminem) - 2005 Remaster",
       "url": "https://open.spotify.com/track/6s4kWgzQwsueo3mfllY1s6"
@@ -3028,7 +3050,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 257266,
       "name": "Denial",
       "url": "https://open.spotify.com/track/25LbeGnYJuqbkxqc8VyhTs"
@@ -3100,7 +3122,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 181493,
       "name": "Dig Up Her Bones",
       "url": "https://open.spotify.com/track/5gHeUcDVjnDda7TABO9RYv"
@@ -3216,7 +3238,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 305293,
       "name": "Domination",
       "url": "https://open.spotify.com/track/769cLRTw2y6KRdkFWFkxtu"
@@ -3340,7 +3362,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 338226,
       "name": "Down In A Hole (2022 Remaster)",
       "url": "https://open.spotify.com/track/7FRfYOql61DGDp9VPPe2qA"
@@ -3518,7 +3540,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 243266,
       "name": "DWYCK",
       "url": "https://open.spotify.com/track/7vcepKD1pjulQvPOkiQmUe"
@@ -3860,7 +3882,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 270920,
       "name": "Falling Away from Me",
       "url": "https://open.spotify.com/track/2F6FfZ4w8z3eJpSxPotVO5"
@@ -3990,7 +4012,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 227360,
       "name": "Feelin' It",
       "url": "https://open.spotify.com/track/2ey8VvW7LS4G0q9xtgEtBA"
@@ -4180,7 +4202,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 222293,
       "name": "Forgot About Dre",
       "url": "https://open.spotify.com/track/7iXF2W9vKmDoGAhlHdpyIa"
@@ -4336,7 +4358,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 292186,
       "name": "Fuck Wit Dre Day (And Everybody's Celebratin')",
       "url": "https://open.spotify.com/track/04fX3oTJm5Zucg3Uf9aix0"
@@ -4416,7 +4438,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 217440,
       "name": "Full Clip",
       "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
@@ -4434,7 +4456,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 275893,
       "name": "G'z And Hustlaz",
       "url": "https://open.spotify.com/track/2rIqgWl4riTsgSeyYYM2cl"
@@ -4554,7 +4576,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 341426,
       "name": "Gettin' It (feat. Parliament Funkadelic)",
       "url": "https://open.spotify.com/track/5K5dQsYdSdo2LKdepxbYAd"
@@ -4590,7 +4612,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 285946,
       "name": "Gimme the Loot - 2005 Remaster",
       "url": "https://open.spotify.com/track/1xIxMz1sNQ4b6svH1GuTtF"
@@ -4968,7 +4990,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 260799,
       "name": "Halftime",
       "url": "https://open.spotify.com/track/33BkKAyogx7YXVWdrUlr76"
@@ -5062,7 +5084,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 284000,
       "name": "Hate Me Now (feat. Diddy)",
       "url": "https://open.spotify.com/track/158DIbrVt4YbqNnWyRCS3P"
@@ -5109,7 +5131,7 @@
     },
     {
       "album": {
-        "name": "In Utero - 20th Anniversary - Deluxe Edition",
+        "name": "In Utero (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6"
       },
       "artists": [
@@ -5120,7 +5142,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 281160,
       "name": "Heart-Shaped Box",
       "url": "https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa"
@@ -5282,7 +5304,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 314440,
       "name": "Hey Man Nice Shot",
       "url": "https://open.spotify.com/track/5pQEExRHWM9XnghO6bhdLJ"
@@ -5300,7 +5322,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 202053,
       "name": "Higher Ground - Remastered 2003",
       "url": "https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl"
@@ -5448,7 +5470,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 287760,
       "name": "How Do U Want It",
       "url": "https://open.spotify.com/track/1ZB2zIoc8AjSuyqKRcJgbO"
@@ -5488,7 +5510,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 252240,
       "name": "How I Could Just Kill a Man",
       "url": "https://open.spotify.com/track/6l4wMAXzI8RxIysQMYZY0w"
@@ -6166,7 +6188,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 259040,
       "name": "Int'l Players Anthem (I Choose You)",
       "url": "https://open.spotify.com/track/0DgY053iwPDydoRymeGVZX"
@@ -6456,7 +6478,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-06",
+      "date_removed": null,
       "duration_ms": 318226,
       "name": "Jeremy",
       "url": "https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o"
@@ -6744,7 +6766,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 329760,
       "name": "King Nothing",
       "url": "https://open.spotify.com/track/30RKGpKHqr7ytcTljw436k"
@@ -6906,7 +6928,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 252800,
       "name": "Let Me Fly",
       "url": "https://open.spotify.com/track/3iZKQU7zgHw2tFuqD7mdqL"
@@ -7008,7 +7030,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 210840,
       "name": "Life's a Bitch (feat. AZ & Olu Dara)",
       "url": "https://open.spotify.com/track/3kgy6gz61XtWzgGw4Xh8CJ"
@@ -7152,7 +7174,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-18",
+      "date_removed": null,
       "duration_ms": 201400,
       "name": "Living Dead Girl",
       "url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET"
@@ -7170,7 +7192,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 254693,
       "name": "Loco",
       "url": "https://open.spotify.com/track/34SVUs66rBnOqsCJl45Ek8"
@@ -7282,7 +7304,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 333906,
       "name": "Lost Ones",
       "url": "https://open.spotify.com/track/71XhXay6rKPZCVAaDtFlSR"
@@ -7514,7 +7536,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 285200,
       "name": "Man in the Box",
       "url": "https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F"
@@ -7608,7 +7630,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 308266,
       "name": "Me And My Girlfriend",
       "url": "https://open.spotify.com/track/4lKCEA3JCKern2HNh5uX9I"
@@ -7630,6 +7652,24 @@
       "duration_ms": 276466,
       "name": "Me So Horny",
       "url": "https://open.spotify.com/track/3EgvmOhP3NQUHY7d6PDOUg"
+    },
+    {
+      "album": {
+        "name": "Illmatic XX",
+        "url": "https://open.spotify.com/album/6oSHgr3TZJPCFshYUfBDqE"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248213,
+      "name": "Memory Lane (Sittin' in da Park)",
+      "url": "https://open.spotify.com/track/1B5BfvGVQ5fPtDN2K8tUdy"
     },
     {
       "album": {
@@ -7718,7 +7758,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 308733,
       "name": "Mind Playing Tricks on Me",
       "url": "https://open.spotify.com/track/63BokRfXSQhEU6Qi2dSJpZ"
@@ -7914,7 +7954,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 237346,
       "name": "Mouth for War",
       "url": "https://open.spotify.com/track/6rkeaQRCWZxwkjhyqgxjXi"
@@ -8080,7 +8120,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 286933,
       "name": "My Name Is Mud",
       "url": "https://open.spotify.com/track/5c6gkexa2eWCCBmEb0zXCZ"
@@ -8156,7 +8196,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 289866,
       "name": "N 2 Gether Now",
       "url": "https://open.spotify.com/track/5SEBSAio1N77Vbrj1cAEGb"
@@ -8466,7 +8506,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 243760,
       "name": "No Shelter",
       "url": "https://open.spotify.com/track/2qTZMq2MUC20HFGQghNpVF"
@@ -8738,7 +8778,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 447440,
       "name": "One",
       "url": "https://open.spotify.com/track/5IX4TbIR5mMHGE4wiWwKW0"
@@ -8792,7 +8832,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 268666,
       "name": "One Mic",
       "url": "https://open.spotify.com/track/6MMuI4k4Vs5ghtDH5i2hBg"
@@ -9042,7 +9082,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 185466,
       "name": "Pass Me Da Green",
       "url": "https://open.spotify.com/track/4U3JMDnjnUKggATEp7NryT"
@@ -9210,7 +9250,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 254093,
       "name": "Pimp Of The Year",
       "url": "https://open.spotify.com/track/5f8KgDZ8aQKQii0U1qdRbC"
@@ -9300,7 +9340,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 310346,
       "name": "Plush",
       "url": "https://open.spotify.com/track/3jJZVeExYzVYiV6Y9Fl3DX"
@@ -9642,7 +9682,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 265493,
       "name": "Quiet Storm",
       "url": "https://open.spotify.com/track/6nwAubYnLGl7F7cDuOoVLp"
@@ -9700,7 +9740,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 354733,
       "name": "Re-Arranged",
       "url": "https://open.spotify.com/track/6IPJ7LeWIOhxPW8Sq3nIGc"
@@ -9850,7 +9890,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 321733,
       "name": "Reunited (feat. GZA, Ol' Dirty Bastard, RZA & Method Man)",
       "url": "https://open.spotify.com/track/2CxOJwC4jqWfPQdahEX9oH"
@@ -9958,7 +9998,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 212253,
       "name": "Roots Bloody Roots",
       "url": "https://open.spotify.com/track/6ursmCnbc9oDRGa2yHKkoZ"
@@ -10048,7 +10088,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 296266,
       "name": "Runnin'",
       "url": "https://open.spotify.com/track/0XgpiStoxq1IJncYlPrvZ5"
@@ -10156,7 +10196,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 191506,
       "name": "Santa Monica",
       "url": "https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI"
@@ -10442,7 +10482,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 177226,
       "name": "Shame On a Nigga (feat. Raekwon, Ol' Dirty Bastard & Method Man)",
       "url": "https://open.spotify.com/track/7IwURvEfVcdxUCjLKUu6sv"
@@ -10496,7 +10536,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 161400,
       "name": "Shimmy Shimmy Ya",
       "url": "https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi"
@@ -10514,7 +10554,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 306040,
       "name": "Shine",
       "url": "https://open.spotify.com/track/6emdJW80SbDBMuHci8PJJn"
@@ -10568,7 +10608,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 231653,
       "name": "Shorty Wanna Be A Thug",
       "url": "https://open.spotify.com/track/6O6jYPwFgoAtNg2LvZ6fNt"
@@ -10822,7 +10862,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 306853,
       "name": "Sober",
       "url": "https://open.spotify.com/track/6DyywdbmTzlmXBzG9ym7Rt"
@@ -10916,7 +10956,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 298533,
       "name": "South Of Heaven",
       "url": "https://open.spotify.com/track/1f2nJKg780VxYIveVq6Xej"
@@ -10934,7 +10974,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 317506,
       "name": "Southernplayalisticadillacmuzik",
       "url": "https://open.spotify.com/track/2pMAmZdHfQHyqJCXJbfhK3"
@@ -11140,7 +11180,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 282506,
       "name": "Stone the Crow",
       "url": "https://open.spotify.com/track/7DuRbuweGD2cpGN74cpPAF"
@@ -11230,7 +11270,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 279933,
       "name": "Street Dreams",
       "url": "https://open.spotify.com/track/0QnGI4OgY8ReggLWvEXdgD"
@@ -11576,7 +11616,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 246733,
       "name": "Symphony Of Destruction",
       "url": "https://open.spotify.com/track/51TG9W3y9qyO8BY5RXKgnZ"
@@ -11758,7 +11798,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 218826,
       "name": "The Beautiful People",
       "url": "https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR"
@@ -11830,7 +11870,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 179653,
       "name": "The Distance",
       "url": "https://open.spotify.com/track/0xMEF2WiqKWTIG7Krjungw"
@@ -11884,7 +11924,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 251066,
       "name": "The Gangsta, The Killa And The Dope Dealer",
       "url": "https://open.spotify.com/track/3p1oRfbN2RrDdSyG8S7itI"
@@ -12156,7 +12196,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 290573,
       "name": "The World Is Yours",
       "url": "https://open.spotify.com/track/5FHXxdJeq1iAE9PjDTEgyd"
@@ -12192,7 +12232,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 286693,
       "name": "They Reminisce Over You (T.R.O.Y.)",
       "url": "https://open.spotify.com/track/2Mb3zpobD0CvJGWv6NpsPy"
@@ -12294,6 +12334,24 @@
       "duration_ms": 393706,
       "name": "This Love",
       "url": "https://open.spotify.com/track/0Yfpc5zHc9pElVCQ1bPlF4"
+    },
+    {
+      "album": {
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242906,
+      "name": "Through The Never",
+      "url": "https://open.spotify.com/track/2VAQuXC01B2eJAEnkjIj7z"
     },
     {
       "album": {
@@ -12824,7 +12882,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 322016,
       "name": "Undertow",
       "url": "https://open.spotify.com/track/4Wvnm0J3Zz9cmMdEMMghGA"
@@ -12878,7 +12936,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 236400,
       "name": "Unsung",
       "url": "https://open.spotify.com/track/0z25tUQgEI4cIyNZ1TgWig"
@@ -12940,7 +12998,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 296266,
       "name": "Victory (feat. The Notorious B.I.G. & Busta Rhymes)",
       "url": "https://open.spotify.com/track/2B9aYvlGefTIgKLhM6ia8t"
@@ -13318,7 +13376,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 318093,
       "name": "What If",
       "url": "https://open.spotify.com/track/22bX2FwXSvG49G0bPWm5nc"
@@ -13492,7 +13550,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 243266,
       "name": "Wheelz of Steel",
       "url": "https://open.spotify.com/track/5qKqRkWnRTXNVWbEOOmGxk"
@@ -13546,7 +13604,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 177960,
       "name": "When Worlds Collide",
       "url": "https://open.spotify.com/track/6aF5JtQSrh7wNrkDE9B0My"
@@ -14228,7 +14286,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 160173,
       "name": "Zero - Remastered 2012",
       "url": "https://open.spotify.com/track/4YFcGTdgmEuw8xTO4XrxbB"

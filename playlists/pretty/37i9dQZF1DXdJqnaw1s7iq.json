@@ -1,12 +1,12 @@
 {
   "description": "electronic nostalgia \u26a1\ufe0f Cover: The xx",
-  "num_followers": 32118,
+  "num_followers": 32214,
   "original_name": "voltage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGFhYmQzZjFkYWVmZDg0YjQ0YmRkOTY3OTk3ZGY0NzgyYjIxNzBj",
+  "snapshot_id": "MCxjY2EzMWZmOGE3MGU2YjNmYWMxYTI2NGYxYmFmYTliMGI2ZDQ5MmQ1",
   "tracks": [
     {
       "added_at": "2023-12-08 21:38:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "shrines",
-        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
-      },
-      "artists": [
-        {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "fineshrine",
-      "url": "https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Merriweather Post Pavilion",
         "url": "https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 340786,
       "name": "My Girls",
       "url": "https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "shrines",
+        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "fineshrine",
+      "url": "https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "TAPE TWO",
-        "url": "https://open.spotify.com/album/7ACFIbsrhepZRIbKnRzxjy"
-      },
-      "artists": [
-        {
-          "name": "Young Fathers",
-          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
-        }
-      ],
-      "duration_ms": 222792,
-      "name": "I Heard",
-      "url": "https://open.spotify.com/track/3zgptmNsfqy1JscBOebsYJ"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Tremors",
         "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+        "name": "TAPE TWO",
+        "url": "https://open.spotify.com/album/7ACFIbsrhepZRIbKnRzxjy"
       },
       "artists": [
         {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+          "name": "Young Fathers",
+          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
         }
       ],
-      "duration_ms": 224973,
-      "name": "Fences",
-      "url": "https://open.spotify.com/track/3f4AG90lRsmrpY3D0GsXat"
+      "duration_ms": 222792,
+      "name": "I Heard",
+      "url": "https://open.spotify.com/track/3zgptmNsfqy1JscBOebsYJ"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -867,6 +851,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 224973,
+      "name": "Fences",
+      "url": "https://open.spotify.com/track/3f4AG90lRsmrpY3D0GsXat"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Black Sands",
         "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
       },
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "New Energy",
-        "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 311893,
-      "name": "Lush",
-      "url": "https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Sparks",
         "url": "https://open.spotify.com/album/2zJc8xRHUCfMQwIlVe0NG9"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 181149,
       "name": "Marijuana",
       "url": "https://open.spotify.com/track/4MPyyq69wHFvmjCKSpN4Ri"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "New Energy",
+        "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 311893,
+      "name": "Lush",
+      "url": "https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Love Songs: Part Two",
-        "url": "https://open.spotify.com/album/324LXtvXAeKBeDIN1NkGuG"
-      },
-      "artists": [
-        {
-          "name": "Romare",
-          "url": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
-        }
-      ],
-      "duration_ms": 294211,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/04jqhpf3oV06HtlmthfcZZ"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Yore",
         "url": "https://open.spotify.com/album/1zgJsOkVoyqKQx9dNdyDdB"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 172252,
       "name": "Babe",
       "url": "https://open.spotify.com/track/7nfGqsJl4A3lXApUI0YIFA"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Love Songs: Part Two",
+        "url": "https://open.spotify.com/album/324LXtvXAeKBeDIN1NkGuG"
+      },
+      "artists": [
+        {
+          "name": "Romare",
+          "url": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
+        }
+      ],
+      "duration_ms": 294211,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/04jqhpf3oV06HtlmthfcZZ"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Begin",
+        "url": "https://open.spotify.com/album/6R4ePhJDTDNwX6xVmmYuwn"
+      },
+      "artists": [
+        {
+          "name": "LION BABE",
+          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
+        }
+      ],
+      "duration_ms": 250706,
+      "name": "Treat Me Like Fire",
+      "url": "https://open.spotify.com/track/3XRosKfSgFSDIb6YVpApIl"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Warm Water (Snakehips Remix)",
         "url": "https://open.spotify.com/album/41xJklJV7uqDzg9teggeR6"
       },
@@ -1067,22 +1083,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Begin",
-        "url": "https://open.spotify.com/album/6R4ePhJDTDNwX6xVmmYuwn"
-      },
-      "artists": [
-        {
-          "name": "LION BABE",
-          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
-        }
-      ],
-      "duration_ms": 250706,
-      "name": "Treat Me Like Fire",
-      "url": "https://open.spotify.com/track/3XRosKfSgFSDIb6YVpApIl"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig"
       },
@@ -1095,6 +1095,26 @@
       "duration_ms": 345560,
       "name": "Blind - Radio Edit",
       "url": "https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Free The Universe (Extended Version)",
+        "url": "https://open.spotify.com/album/5QhUiW8r836IZ7avv9A5L8"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Amber Coffman",
+          "url": "https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn"
+        }
+      ],
+      "duration_ms": 289973,
+      "name": "Get Free",
+      "url": "https://open.spotify.com/track/56hYeuutlZO5Pkm99FzLCW"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1127,26 +1147,6 @@
       "duration_ms": 206746,
       "name": "Last Dance",
       "url": "https://open.spotify.com/track/4b0RAiqz6oEZvvpbiFuIAp"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Free The Universe (Extended Version)",
-        "url": "https://open.spotify.com/album/5QhUiW8r836IZ7avv9A5L8"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Amber Coffman",
-          "url": "https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn"
-        }
-      ],
-      "duration_ms": 289973,
-      "name": "Get Free",
-      "url": "https://open.spotify.com/track/56hYeuutlZO5Pkm99FzLCW"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 245654,
+      "name": "It All Feels Right",
+      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Sunlight (feat. Years & Years) [Remixes]",
         "url": "https://open.spotify.com/album/08jeLY28AzZc8yEQ9jcUBO"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 244202,
       "name": "Sunlight (feat. Years and Years) - Darius Remix",
       "url": "https://open.spotify.com/track/2FsGvAxjBVUCaFrm3uDmHV"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Paracosm",
-        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 245654,
-      "name": "It All Feels Right",
-      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1339,6 +1339,22 @@
       "duration_ms": 300266,
       "name": "Body Language - Interpretation",
       "url": "https://open.spotify.com/track/1ABwlOhYanbuafWx1yvx0T"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Pizza Guy / Show Me",
+        "url": "https://open.spotify.com/album/7JnjKZH4ztUn2MtYhrCFWz"
+      },
+      "artists": [
+        {
+          "name": "Touch Sensitive",
+          "url": "https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z"
+        }
+      ],
+      "duration_ms": 349413,
+      "name": "Pizza Guy",
+      "url": "https://open.spotify.com/track/434qlyPFJd5FWpJ72eB3VL"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Pizza Guy / Show Me",
-        "url": "https://open.spotify.com/album/7JnjKZH4ztUn2MtYhrCFWz"
-      },
-      "artists": [
-        {
-          "name": "Touch Sensitive",
-          "url": "https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z"
-        }
-      ],
-      "duration_ms": 349413,
-      "name": "Pizza Guy",
-      "url": "https://open.spotify.com/track/434qlyPFJd5FWpJ72eB3VL"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Nothing Is Still",
         "url": "https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr"
       },
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "California Girls",
-        "url": "https://open.spotify.com/album/4U5EFFFsaynpAmTG6DS2MQ"
-      },
-      "artists": [
-        {
-          "name": "NoMBe",
-          "url": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
-        }
-      ],
-      "duration_ms": 216923,
-      "name": "California Girls",
-      "url": "https://open.spotify.com/track/4m2ZICy5YEx76B5BVFCDsg"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Escapism",
         "url": "https://open.spotify.com/album/7GoQwmBYFCOPSdOOp8OUds"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 219474,
       "name": "LONG DISTANCE",
       "url": "https://open.spotify.com/track/6ih6vYggeYPomAbJupA4hA"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "California Girls",
+        "url": "https://open.spotify.com/album/4U5EFFFsaynpAmTG6DS2MQ"
+      },
+      "artists": [
+        {
+          "name": "NoMBe",
+          "url": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
+        }
+      ],
+      "duration_ms": 216923,
+      "name": "California Girls",
+      "url": "https://open.spotify.com/track/4m2ZICy5YEx76B5BVFCDsg"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1539,22 +1539,6 @@
       "duration_ms": 205464,
       "name": "Lover Chanting - Edit",
       "url": "https://open.spotify.com/track/3ceihRUljV1eSM1plIjsB6"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Psychic Chasms",
-        "url": "https://open.spotify.com/album/3dQDaXtGZdiCU8M0l85KZF"
-      },
-      "artists": [
-        {
-          "name": "Neon Indian",
-          "url": "https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er"
-        }
-      ],
-      "duration_ms": 242706,
-      "name": "Deadbeat Summer",
-      "url": "https://open.spotify.com/track/6wSLEvYkwVsVJqB9WkxYKs"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1639,6 +1623,22 @@
       "duration_ms": 433388,
       "name": "H\u00e9misph\u00e8re",
       "url": "https://open.spotify.com/track/7fDvGoJhLSeJPF4cVlEsVs"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Psychic Chasms",
+        "url": "https://open.spotify.com/album/3dQDaXtGZdiCU8M0l85KZF"
+      },
+      "artists": [
+        {
+          "name": "Neon Indian",
+          "url": "https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er"
+        }
+      ],
+      "duration_ms": 242706,
+      "name": "Deadbeat Summer",
+      "url": "https://open.spotify.com/track/6wSLEvYkwVsVJqB9WkxYKs"
     },
     {
       "added_at": "2023-12-08 21:38:00",

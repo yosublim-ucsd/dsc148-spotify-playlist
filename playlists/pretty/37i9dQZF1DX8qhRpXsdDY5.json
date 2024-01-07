@@ -1,12 +1,12 @@
 {
   "description": "Latin classics to get you in the Christmas spirit. Cover: Luis Miguel",
-  "num_followers": 211448,
+  "num_followers": 211405,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTU5YzYwZDY2ODM2NDNmZmI0N2Y3NmUwM2FkOWMyNWQzYWI2MzA5",
+  "snapshot_id": "MCxmY2JhNWZjNGM1OTBhOWNkNjkxYzJkZTE4OTdkNTJjNWRlN2MxMmVj",
   "tracks": [
     {
       "added_at": "2023-12-20 18:10:37",
@@ -639,18 +639,22 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
-        "name": "Los 3 Reyes Magos",
-        "url": "https://open.spotify.com/album/3giDYIPFNlfwNFIi6Z8ZUq"
+        "name": "Tarjeta De Navidad, VOL. II",
+        "url": "https://open.spotify.com/album/6quAUDl5w1TszBZCC6Qj75"
       },
       "artists": [
         {
-          "name": "Yuri",
-          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        },
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
         }
       ],
-      "duration_ms": 158866,
-      "name": "Campana Sobre Campana",
-      "url": "https://open.spotify.com/track/0LjIptp63zmCOz6O1V7QQB"
+      "duration_ms": 300506,
+      "name": "El Cuerpo Me Pide",
+      "url": "https://open.spotify.com/track/3SMJ6uEe3DbBZ4xsRtXg5R"
     },
     {
       "added_at": "2023-12-20 18:10:37",
@@ -671,22 +675,18 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
-        "name": "Tarjeta De Navidad, VOL. II",
-        "url": "https://open.spotify.com/album/6quAUDl5w1TszBZCC6Qj75"
+        "name": "Los 3 Reyes Magos",
+        "url": "https://open.spotify.com/album/3giDYIPFNlfwNFIi6Z8ZUq"
       },
       "artists": [
         {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        },
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
         }
       ],
-      "duration_ms": 300506,
-      "name": "El Cuerpo Me Pide",
-      "url": "https://open.spotify.com/track/3SMJ6uEe3DbBZ4xsRtXg5R"
+      "duration_ms": 158866,
+      "name": "Campana Sobre Campana",
+      "url": "https://open.spotify.com/track/0LjIptp63zmCOz6O1V7QQB"
     },
     {
       "added_at": "2023-12-20 18:10:37",

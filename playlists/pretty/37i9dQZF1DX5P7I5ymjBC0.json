@@ -1,12 +1,12 @@
 {
   "description": "Where Sitar meets Guitar. Cover - Shakti",
-  "num_followers": 67615,
+  "num_followers": 67632,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWZjNDk4ODk1YTI5ODA0NTliZWVkY2NkMGQ4MDM3NWNiNDY2MDcx",
+  "snapshot_id": "MCw1NjE1MTg4ZWFlMDE2YTAyMWZkYjY4ZmZjYWNjYjFlZjk1YWFjMThl",
   "tracks": [
     {
       "added_at": "2023-10-18 08:13:47",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
+        "name": "Grounded in Space",
+        "url": "https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw"
+      },
+      "artists": [
+        {
+          "name": "Advaita",
+          "url": "https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp"
+        }
+      ],
+      "duration_ms": 305613,
+      "name": "Ghir Ghir",
+      "url": "https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
         "name": "Yariyaan - Single",
         "url": "https://open.spotify.com/album/2EksT9ocgAiLmT4TIO15xV"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 311186,
       "name": "Yariyaan",
       "url": "https://open.spotify.com/track/5DSFsWFoGi37SivNJAoTi4"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
-        "name": "Grounded in Space",
-        "url": "https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw"
-      },
-      "artists": [
-        {
-          "name": "Advaita",
-          "url": "https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp"
-        }
-      ],
-      "duration_ms": 305613,
-      "name": "Ghir Ghir",
-      "url": "https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -615,6 +615,26 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/02tgCcfhK6499d0CtWPQgR"
+      },
+      "artists": [
+        {
+          "name": "Ricky Kej",
+          "url": "https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl"
+        },
+        {
+          "name": "Charanraj MR",
+          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
+        }
+      ],
+      "duration_ms": 141459,
+      "name": "The Awakening",
+      "url": "https://open.spotify.com/track/2pvslHf4vcFm5PVW6wtMwo"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
         "name": "Rang",
         "url": "https://open.spotify.com/album/0jaYy040TXxZ0dKZ0Ys4fV"
       },
@@ -635,22 +655,18 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
-        "name": "The Awakening",
-        "url": "https://open.spotify.com/album/02tgCcfhK6499d0CtWPQgR"
+        "name": "Making Music",
+        "url": "https://open.spotify.com/album/6Z5RRaRtxckdDY9W9711lB"
       },
       "artists": [
         {
-          "name": "Ricky Kej",
-          "url": "https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl"
-        },
-        {
-          "name": "Charanraj MR",
-          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
+          "name": "Zakir Hussain",
+          "url": "https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6"
         }
       ],
-      "duration_ms": 141459,
-      "name": "The Awakening",
-      "url": "https://open.spotify.com/track/2pvslHf4vcFm5PVW6wtMwo"
+      "duration_ms": 749466,
+      "name": "Making Music",
+      "url": "https://open.spotify.com/track/6qqF3A8jjiS9k0Vpi8zcSa"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -679,22 +695,6 @@
       "duration_ms": 141224,
       "name": "Sargam Surge",
       "url": "https://open.spotify.com/track/0G9GqTdIsZTs3yQnmuQDeg"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
-        "name": "Making Music",
-        "url": "https://open.spotify.com/album/6Z5RRaRtxckdDY9W9711lB"
-      },
-      "artists": [
-        {
-          "name": "Zakir Hussain",
-          "url": "https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6"
-        }
-      ],
-      "duration_ms": 749466,
-      "name": "Making Music",
-      "url": "https://open.spotify.com/track/6qqF3A8jjiS9k0Vpi8zcSa"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
-        "name": "Coke Studio Season 7",
-        "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
+        "name": "Barsan Lagi",
+        "url": "https://open.spotify.com/album/24Ro5vvqnf9ElJX9ZgdhL4"
       },
       "artists": [
         {
-          "name": "Ustad Raees Khan",
-          "url": "https://open.spotify.com/artist/5Obutzzc5UZP1l6t6jmjwh"
+          "name": "Abhay Jodhpurkar",
+          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
         }
       ],
-      "duration_ms": 239220,
-      "name": "Hans Dhuni",
-      "url": "https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T"
+      "duration_ms": 219456,
+      "name": "Barsan Lagi",
+      "url": "https://open.spotify.com/track/2DolnMsowdoeGwD9f1P9iJ"
     }
   ],
   "unique_name": "Fusion Finds",

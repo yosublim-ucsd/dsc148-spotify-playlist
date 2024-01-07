@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Classic tunes for the open road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,350 likes - 75 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,361 likes - 75 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,16 +61,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 51 | [Electric Pow Wow Drum](https://open.spotify.com/track/5e8v4ibmsMHxHLALe5KaiZ) | [The Halluci Nation](https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z) | [A Tribe Called Red](https://open.spotify.com/album/1FYVy6b5R41tMIAhWS6fXJ) | 3:39 |
 | 52 | [New Orleans Is Sinking](https://open.spotify.com/track/6v4pemwpkW7msCbBtSJf15) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Up To Here](https://open.spotify.com/album/4gmKiB0dtmPWjzbDM5N7Jv) | 4:17 |
 | 53 | [Insensitive](https://open.spotify.com/track/0yx00RNuvZY5Vn8nlpUnMk) | [Jann Arden](https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F) | [Living Under June](https://open.spotify.com/album/4459ANZzMiQV2nvpH8lc6O) | 4:15 |
-| 54 | [That Song](https://open.spotify.com/track/2hiMLnZ2iItT3WIMxY3hAB) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [In Loving Memory Of \- 20th Anniversary Special Edition](https://open.spotify.com/album/6Agfrk7oe0H7WsXauqMPR6) | 5:04 |
-| 55 | [The Old Apartment](https://open.spotify.com/track/5HjviQMuDBIvcyNXJtka23) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Born on a Pirate Ship \(Enhanced Edition\)](https://open.spotify.com/album/0ZhGG0DUBuvVNyICBnHlpZ) | 3:29 |
+| 54 | [The Old Apartment](https://open.spotify.com/track/5HjviQMuDBIvcyNXJtka23) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Born on a Pirate Ship \(Enhanced Edition\)](https://open.spotify.com/album/0ZhGG0DUBuvVNyICBnHlpZ) | 3:29 |
+| 55 | [That Song](https://open.spotify.com/track/2hiMLnZ2iItT3WIMxY3hAB) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [In Loving Memory Of \- 20th Anniversary Special Edition](https://open.spotify.com/album/6Agfrk7oe0H7WsXauqMPR6) | 5:04 |
 | 56 | [I Hear You Calling](https://open.spotify.com/track/7KsLCoGgjP1tsGPJuvi2SX) | [Gob](https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf) | [The World According To Gob](https://open.spotify.com/album/5W9KaweYXnOVDlG7UjIbCb) | 3:11 |
 | 57 | [Ahead By A Century](https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Trouble At The Henhouse](https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn) | 3:43 |
 | 58 | [No Time](https://open.spotify.com/track/29HbvYjzl95cYA4wGIhFCd) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [American Woman](https://open.spotify.com/album/4Z3eBMaRmWCbTguaeiYUjV) | 3:49 |
 | 59 | [Anthems For A Seventeen Year\-Old Girl](https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot It In People](https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ) | 4:35 |
 | 60 | [Leaving On A Jet Plane](https://open.spotify.com/track/2tFYV2RZGwRLCmfDqfI3OT) | [Chantal Kreviazuk](https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk) | [Since We Met: The Best of 1996\-2006](https://open.spotify.com/album/67QWVDS41ddKIKYhlsJjJt) | 4:40 |
 | 61 | [Wondering Where The Lions Are](https://open.spotify.com/track/0v1lnGbN08YjocXp3SvJXP) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Waiting For A Miracle](https://open.spotify.com/album/5LY3NOVnOe2H5jcZ3FFIG2) | 3:43 |
-| 62 | [Driving](https://open.spotify.com/track/2Q3LZMVppaxai3TTHVxozT) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Driving](https://open.spotify.com/album/0lzkAvzMvBddebjkEqsn3e) | 3:00 |
-| 63 | [Starseed](https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Naveed](https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS) | 4:04 |
+| 62 | [Starseed](https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Naveed](https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS) | 4:04 |
+| 63 | [Driving](https://open.spotify.com/track/2Q3LZMVppaxai3TTHVxozT) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Driving](https://open.spotify.com/album/0lzkAvzMvBddebjkEqsn3e) | 3:00 |
 | 64 | [99 Nights](https://open.spotify.com/track/7w3vaoMGxdzfkiN25jmDDE) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 2:56 |
 | 65 | [Feeling Good](https://open.spotify.com/track/1BWNpziDWyAMfGdKC2ydS6) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [The Sheepdogs \(Deluxe\)](https://open.spotify.com/album/6HIGCaguAPnwApqjRmYBUw) | 3:10 |
 | 66 | [Fly At Night \(In The Morning We Land\)](https://open.spotify.com/track/65P1kWWq2FOig9q2POBD4K) | [Chilliwack](https://open.spotify.com/artist/3TkWygOTDBZXAdFDh9HOkG) | [Dreams, Dreams, Dreams](https://open.spotify.com/album/0HFcnY7LMUaE0PsCg9W1KI) | 4:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 74 | [I Don't Know \- EP Version](https://open.spotify.com/track/4A4DPAyhXSTzehnBstdAnt) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Five Easy Pieces](https://open.spotify.com/album/7nTSvte842Pv7j5x5pyyqr) | 3:10 |
 | 75 | [Bon Voyage](https://open.spotify.com/track/4Okyax7cvVoNfoBKYr2RA0) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 2:47 |
 
-Snapshot ID: `MCw0OTg0NGNkODE1NzVkNGI5ZjlhMWVkODM5YzQ3ZDNkZWFjNmVjMmYw`
+Snapshot ID: `MCxiNTAzNTUyNDc3ZGI1NGMwMTAwNDAyMTI2MDZhOWMwOWExY2MwNTcy`

@@ -1,12 +1,12 @@
 {
   "description": "when you decide societal constructs just aren\u2019t the vibe anymore. \n",
-  "num_followers": 428457,
+  "num_followers": 428536,
   "original_name": "wanderlust",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGEzNmEzZDZlN2JjY2RjMzBiYjM4Nzc1NTNiZDViYmJmNWM1ZmI5",
+  "snapshot_id": "MCxmMmQzMjY0MmM2YmY0ZTA2MDkyMDEyNzM3M2YzODA2ZDBlNDkwMjUy",
   "tracks": [
     {
       "added_at": "2023-12-27 16:59:40",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-12-27 16:59:40",
       "album": {
-        "name": "Birthplace",
-        "url": "https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 234080,
-      "name": "Repeat Until Death",
-      "url": "https://open.spotify.com/track/5PzWVmfzu7rePAuFkxPQf0"
-    },
-    {
-      "added_at": "2023-12-27 16:59:40",
-      "album": {
         "name": "When I Woke",
         "url": "https://open.spotify.com/album/2LjYjQN5yVZYiZNDIVIKDf"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 263360,
       "name": "Send Me On My Way",
       "url": "https://open.spotify.com/track/6XK6Zw6JkFsHXzAcMWNiIr"
+    },
+    {
+      "added_at": "2023-12-27 16:59:40",
+      "album": {
+        "name": "Birthplace",
+        "url": "https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 234080,
+      "name": "Repeat Until Death",
+      "url": "https://open.spotify.com/track/5PzWVmfzu7rePAuFkxPQf0"
     },
     {
       "added_at": "2023-12-27 16:59:40",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-12-27 16:59:40",
       "album": {
-        "name": "Caramel",
-        "url": "https://open.spotify.com/album/0GgcxG8Xq5qN3rcYvjqzF0"
+        "name": "songs",
+        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
       },
       "artists": [
         {
-          "name": "Cordelia",
-          "url": "https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4"
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 270315,
-      "name": "Little Life",
-      "url": "https://open.spotify.com/track/3MBWR1rqc72QGiFIaOpKv6"
+      "duration_ms": 202047,
+      "name": "anything",
+      "url": "https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS"
     },
     {
       "added_at": "2023-12-27 16:59:40",
@@ -871,22 +871,6 @@
       "duration_ms": 328506,
       "name": "Old Pine",
       "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
-    },
-    {
-      "added_at": "2023-12-27 16:59:40",
-      "album": {
-        "name": "songs",
-        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 202047,
-      "name": "anything",
-      "url": "https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS"
     },
     {
       "added_at": "2023-12-27 16:59:40",
@@ -1135,22 +1119,6 @@
     {
       "added_at": "2023-12-27 16:59:40",
       "album": {
-        "name": "Resin",
-        "url": "https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 203939,
-      "name": "Resin",
-      "url": "https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH"
-    },
-    {
-      "added_at": "2023-12-27 16:59:40",
-      "album": {
         "name": "Our Endless Numbered Days (Deluxe Edition)",
         "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
       },
@@ -1163,6 +1131,22 @@
       "duration_ms": 152613,
       "name": "Naked as We Came",
       "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
+    },
+    {
+      "added_at": "2023-12-27 16:59:40",
+      "album": {
+        "name": "Resin",
+        "url": "https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 203939,
+      "name": "Resin",
+      "url": "https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH"
     },
     {
       "added_at": "2023-12-27 16:59:40",
@@ -1247,18 +1231,18 @@
     {
       "added_at": "2023-12-27 16:59:40",
       "album": {
-        "name": "The King",
-        "url": "https://open.spotify.com/album/27UVPGKePLLUlHX7xDQb7m"
+        "name": "London's Song",
+        "url": "https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr"
       },
       "artists": [
         {
-          "name": "Sarah Kinsley",
-          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+          "name": "Matt Hartke",
+          "url": "https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz"
         }
       ],
-      "duration_ms": 206373,
-      "name": "The King",
-      "url": "https://open.spotify.com/track/3qs1ozCx271UQqmzC7oNuj"
+      "duration_ms": 178573,
+      "name": "London's Song",
+      "url": "https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO"
     },
     {
       "added_at": "2023-12-27 16:59:40",
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2023-12-27 16:59:40",
       "album": {
-        "name": "London's Song",
-        "url": "https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr"
+        "name": "The King",
+        "url": "https://open.spotify.com/album/27UVPGKePLLUlHX7xDQb7m"
       },
       "artists": [
         {
-          "name": "Matt Hartke",
-          "url": "https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz"
+          "name": "Sarah Kinsley",
+          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
         }
       ],
-      "duration_ms": 178573,
-      "name": "London's Song",
-      "url": "https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO"
+      "duration_ms": 206373,
+      "name": "The King",
+      "url": "https://open.spotify.com/track/3qs1ozCx271UQqmzC7oNuj"
     },
     {
       "added_at": "2023-12-27 16:59:40",
@@ -1703,26 +1687,6 @@
     {
       "added_at": "2023-12-27 16:59:40",
       "album": {
-        "name": "2030",
-        "url": "https://open.spotify.com/album/2dzvQbx6X5atdFDWYIRuMw"
-      },
-      "artists": [
-        {
-          "name": "Gone Gone Beyond",
-          "url": "https://open.spotify.com/artist/6r1h2CZVoKSTyKANP5Ptu5"
-        },
-        {
-          "name": "Moontricks",
-          "url": "https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg"
-        }
-      ],
-      "duration_ms": 209711,
-      "name": "Coast",
-      "url": "https://open.spotify.com/track/53l8hswqklbWd7XXqDEMtq"
-    },
-    {
-      "added_at": "2023-12-27 16:59:40",
-      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -1743,6 +1707,26 @@
       "duration_ms": 255533,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk"
+    },
+    {
+      "added_at": "2023-12-27 16:59:40",
+      "album": {
+        "name": "2030",
+        "url": "https://open.spotify.com/album/2dzvQbx6X5atdFDWYIRuMw"
+      },
+      "artists": [
+        {
+          "name": "Gone Gone Beyond",
+          "url": "https://open.spotify.com/artist/6r1h2CZVoKSTyKANP5Ptu5"
+        },
+        {
+          "name": "Moontricks",
+          "url": "https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg"
+        }
+      ],
+      "duration_ms": 209711,
+      "name": "Coast",
+      "url": "https://open.spotify.com/track/53l8hswqklbWd7XXqDEMtq"
     },
     {
       "added_at": "2023-12-27 16:59:40",
@@ -1887,22 +1871,6 @@
     {
       "added_at": "2023-12-27 16:59:40",
       "album": {
-        "name": "The Weatherman",
-        "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 256600,
-      "name": "The Universe",
-      "url": "https://open.spotify.com/track/5SOV1dyQQJx98X4yY17bCI"
-    },
-    {
-      "added_at": "2023-12-27 16:59:40",
-      "album": {
         "name": "True North",
         "url": "https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2"
       },
@@ -1915,6 +1883,22 @@
       "duration_ms": 137293,
       "name": "True North",
       "url": "https://open.spotify.com/track/5vvuajXbTuucQDpcwvKKye"
+    },
+    {
+      "added_at": "2023-12-27 16:59:40",
+      "album": {
+        "name": "The Weatherman",
+        "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 256600,
+      "name": "The Universe",
+      "url": "https://open.spotify.com/track/5SOV1dyQQJx98X4yY17bCI"
     },
     {
       "added_at": "2023-12-27 16:59:40",
@@ -2079,6 +2063,22 @@
       "duration_ms": 221142,
       "name": "Roadtripsong",
       "url": "https://open.spotify.com/track/6OMnH9uEKd7W3YK3ncuUF7"
+    },
+    {
+      "added_at": "2023-12-27 16:59:40",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
     }
   ],
   "unique_name": "wanderlust",

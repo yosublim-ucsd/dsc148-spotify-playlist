@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,046 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,096 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 33 | [Tudo Vai Ficar Bem](https://open.spotify.com/track/6cLpvpPXoQQItT3UXzXQLP) | [DJ Marcos Andre](https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61), [Higor Rosa](https://open.spotify.com/artist/7AmdDFEhE8vyECdzm8fkFP) | [Tudo Vai Ficar Bem](https://open.spotify.com/album/2rtnrWiiIWjlVoFk4U66FN) | 3:29 |
 | 34 | [Azul](https://open.spotify.com/track/7zn8W0S4iA5awUPz4N0Kxp) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Ok!](https://open.spotify.com/album/6n3cBUrNtcIL852TX2N3qz) | 2:30 |
 | 35 | [Não Sou Merecedor](https://open.spotify.com/track/5GLTe6ncigoJa27GvOzV4F) | [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH) | [Não Sou Merecedor](https://open.spotify.com/album/0sG4KwG7HjTesGVUru3e89) | 2:27 |
-| 36 | [Onde Eu Quero Habitar](https://open.spotify.com/track/6W4DedZJXKRSR9zlpvL2cY) | [DJ Roger Vale](https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo), [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al), [Guilherme Galdino](https://open.spotify.com/artist/7bHkQ6LugcJxdpLCPn9LRA) | [Onde Eu Quero Habitar](https://open.spotify.com/album/0MfpVRkb3k8zJTFw8NfPmR) | 4:02 |
-| 37 | [Uma Vida É Pouco pra Te Amar \- Remix](https://open.spotify.com/track/0QkcBA3DzmzsHAspxqcvZ2) | [Dj Mello](https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2), [Felson](https://open.spotify.com/artist/2DDzAI8sGdcVE4MYs8VuU2), [Izaac Santos](https://open.spotify.com/artist/4c4uHPrgt65LhZts6QoNip) | [Uma Vida É Pouco pra Te Amar \(Remix\)](https://open.spotify.com/album/25tMLrsvNjbljb3BwGShD0) | 2:41 |
+| 36 | [Uma Vida É Pouco pra Te Amar \- Remix](https://open.spotify.com/track/0QkcBA3DzmzsHAspxqcvZ2) | [Dj Mello](https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2), [Felson](https://open.spotify.com/artist/2DDzAI8sGdcVE4MYs8VuU2), [Izaac Santos](https://open.spotify.com/artist/4c4uHPrgt65LhZts6QoNip) | [Uma Vida É Pouco pra Te Amar \(Remix\)](https://open.spotify.com/album/25tMLrsvNjbljb3BwGShD0) | 2:41 |
+| 37 | [Onde Eu Quero Habitar](https://open.spotify.com/track/6W4DedZJXKRSR9zlpvL2cY) | [DJ Roger Vale](https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo), [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al), [Guilherme Galdino](https://open.spotify.com/artist/7bHkQ6LugcJxdpLCPn9LRA) | [Onde Eu Quero Habitar](https://open.spotify.com/album/0MfpVRkb3k8zJTFw8NfPmR) | 4:02 |
 | 38 | [A Sua Chance](https://open.spotify.com/track/328Xjnw4Oqehh3kHCfPrm1) | [Dj Roony Moura](https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL), [Diego Tiguez](https://open.spotify.com/artist/1ghipBHakOKPGsliNK7ZPP) | [A Sua Chance](https://open.spotify.com/album/3Mx7c1qi99FGGlTjEFW2dY) | 4:01 |
 | 39 | [Tomado](https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Tomado](https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j) | 3:56 |
 | 40 | [Festa de Crente](https://open.spotify.com/track/50YI1QSHPwJAcuO25icep1) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [Bruninho Music](https://open.spotify.com/artist/0IoG0i1kOAShWTr534OXoH) | [Festa de Crente](https://open.spotify.com/album/66c8LxbePEhv4iMeCAtGgZ) | 2:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 74 | [Direção](https://open.spotify.com/track/18iieT0WuYbFskBwZ3FLyx) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Patrick Felix](https://open.spotify.com/artist/0eCHrizrfyIEVK6wiyUYWf), [BR7](https://open.spotify.com/artist/1p80BrxoS9dat7F4S6UlWv) | [Direção](https://open.spotify.com/album/1zIQAyYF6GXKQnrCYy1U25) | 2:32 |
 | 75 | [Praise](https://open.spotify.com/track/6j0DDG232N0ZJfGcD32bE3) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr) | [Praise](https://open.spotify.com/album/5YgyARkjEkGMzz96G4qVBA) | 2:46 |
 
-Snapshot ID: `MCxjYWUwNTFjZTIyZGE5YzZhNmE5ZTFjMTI0NDk4NzcwMzE2M2IzODFj`
+Snapshot ID: `MCxkY2NmOWQzNTM2NzA1NGNhZGEzMTlkNWI1NjdmMmYxZGYwOTNhNjEy`

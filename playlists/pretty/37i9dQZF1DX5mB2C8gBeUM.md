@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Niko Moon
 
-[Spotify](https://open.spotify.com/user/spotify) - 948,492 likes - 151 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 948,500 likes - 151 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 150 | [Sad in the Summer \(feat\. Lily Rose\)](https://open.spotify.com/track/29Zod043iIX27WBv0duEDn) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg) | 3:21 |
 | 151 | [No Tellin'](https://open.spotify.com/track/2AA15YjJYN07vp0avGn4oG) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [No Tellin'](https://open.spotify.com/album/1bQCdmYrKD0XOVmvM2RMFR) | 3:07 |
 
-Snapshot ID: `MCw4OGJhMTRmNWZkOGQ0NzkwNTVlMGEzNjdjYzlhNmU1MjEzYmI5MzIy`
+Snapshot ID: `MCw4YzYzYzZhNTcwODE0NGI4Y2Y0OGZkODlkNzg5MjdmZjMzMGM0MTg0`

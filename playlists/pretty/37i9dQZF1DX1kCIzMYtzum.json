@@ -1,12 +1,12 @@
 {
   "description": "Home is where the main stage is. \ud83d\udc97",
-  "num_followers": 210034,
+  "num_followers": 210292,
   "original_name": "EDM 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDM1ZGZjYmU1ZGNiMzZlY2VjMDlmZTA3MzEzNWY2MzExMjRhYWFh",
+  "snapshot_id": "MCxkM2EyZGUyODQ2MzcyYWQyYzM3MmZlOTRmYzI5OTI5NTI0YmI1OTNh",
   "tracks": [
     {
       "added_at": "2024-01-05 18:52:29",
@@ -111,17 +111,17 @@
     {
       "added_at": "2024-01-05 18:52:29",
       "album": {
-        "name": "Smells Like Teen Spirit (feat. Nito-Onna)",
+        "name": "Smells Like Teen Spirit",
         "url": "https://open.spotify.com/album/2aCAmbrwRnlGVviMuAvTvY"
       },
       "artists": [
         {
-          "name": "Coopex",
-          "url": "https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO"
-        },
-        {
           "name": "Naeleck",
           "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "Coopex",
+          "url": "https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO"
         },
         {
           "name": "Dunc\u00e1n",
@@ -133,7 +133,7 @@
         }
       ],
       "duration_ms": 160758,
-      "name": "Smells Like Teen Spirit (feat. Nito-Onna)",
+      "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/1h54366McXSNcici2LAiZP"
     },
     {
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2024-01-05 18:52:29",
       "album": {
+        "name": "Young & Foolish",
+        "url": "https://open.spotify.com/album/3t7ewN9SVxMCeXTZBvJoNR"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "duration_ms": 156093,
+      "name": "Young & Foolish",
+      "url": "https://open.spotify.com/track/3KtqBwqDbjxjXmJQ2gmtzW"
+    },
+    {
+      "added_at": "2024-01-05 18:52:29",
+      "album": {
         "name": "Sacrifice",
         "url": "https://open.spotify.com/album/4D3QP0SVFo1iRWWACAhmQi"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 279692,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/76YXmewvHFse7tBeOTtSx3"
-    },
-    {
-      "added_at": "2024-01-05 18:52:29",
-      "album": {
-        "name": "Young & Foolish",
-        "url": "https://open.spotify.com/album/3t7ewN9SVxMCeXTZBvJoNR"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "charlieonnafriday",
-          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
-        }
-      ],
-      "duration_ms": 156093,
-      "name": "Young & Foolish",
-      "url": "https://open.spotify.com/track/3KtqBwqDbjxjXmJQ2gmtzW"
     },
     {
       "added_at": "2024-01-05 18:52:29",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-01-05 18:52:29",
       "album": {
-        "name": "Beyond the Fire",
-        "url": "https://open.spotify.com/album/6lqBwXMLtXK7HGAaG4AnZ1"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 228620,
-      "name": "Beyond the Fire",
-      "url": "https://open.spotify.com/track/45Q6hkvGtzW0VUybDnQ4n8"
-    },
-    {
-      "added_at": "2024-01-05 18:52:29",
-      "album": {
         "name": "VACANCY",
         "url": "https://open.spotify.com/album/4kCboiPS30I9IL5cCgCmjz"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 191805,
       "name": "VACANCY",
       "url": "https://open.spotify.com/track/3fcVS6VEBwtD9Qo3polMCf"
+    },
+    {
+      "added_at": "2024-01-05 18:52:29",
+      "album": {
+        "name": "Beyond the Fire",
+        "url": "https://open.spotify.com/album/6lqBwXMLtXK7HGAaG4AnZ1"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 228620,
+      "name": "Beyond the Fire",
+      "url": "https://open.spotify.com/track/45Q6hkvGtzW0VUybDnQ4n8"
     },
     {
       "added_at": "2024-01-05 18:52:29",
@@ -2015,6 +2015,22 @@
     {
       "added_at": "2024-01-05 18:52:29",
       "album": {
+        "name": "Braveheart",
+        "url": "https://open.spotify.com/album/4TIgzjrtDj1vwmMj0QmtqI"
+      },
+      "artists": [
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        }
+      ],
+      "duration_ms": 154137,
+      "name": "Braveheart",
+      "url": "https://open.spotify.com/track/7KuVXr3k0iG9cSSjPiYFnd"
+    },
+    {
+      "added_at": "2024-01-05 18:52:29",
+      "album": {
         "name": "Shockwave (with Afrojack)",
         "url": "https://open.spotify.com/album/7opy4llJFLXtwbqcPfpDZZ"
       },
@@ -2075,22 +2091,6 @@
       "duration_ms": 205479,
       "name": "Don\u2019t Let Me Let Go (with ILLENIUM & EVAN GIIA)",
       "url": "https://open.spotify.com/track/1Yqe3VYgjOhhJLtqkla2zc"
-    },
-    {
-      "added_at": "2024-01-05 18:52:29",
-      "album": {
-        "name": "Braveheart",
-        "url": "https://open.spotify.com/album/4TIgzjrtDj1vwmMj0QmtqI"
-      },
-      "artists": [
-        {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
-        }
-      ],
-      "duration_ms": 154137,
-      "name": "Braveheart",
-      "url": "https://open.spotify.com/track/7KuVXr3k0iG9cSSjPiYFnd"
     },
     {
       "added_at": "2024-01-05 18:52:29",

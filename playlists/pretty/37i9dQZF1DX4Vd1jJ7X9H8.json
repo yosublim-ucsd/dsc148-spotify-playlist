@@ -1,12 +1,12 @@
 {
-  "description": "Groovy, dancy, funky stuff. When in doubt, turn this on at the party. ",
-  "num_followers": 301327,
+  "description": "Groovy, dancy, funky stuff. When in doubt, turn this on. Cover: Saltburn",
+  "num_followers": 301512,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTJkM2NlOTFkODU5OTM4Mzk2NzVkNDU0NWNiODZhMjhkYjI0YjU4",
+  "snapshot_id": "MCwzYzFjMDVmNDQ3Y2I5MTJhODgyMzU0ODNmZGEyOWRlNjEzYmMyZmQ2",
   "tracks": [
     {
       "added_at": "2023-12-27 20:39:24",
@@ -81,6 +81,26 @@
       "url": "https://open.spotify.com/track/22NJL6tmHY3doX9E6sZqQi"
     },
     {
+      "added_at": "2024-01-06 18:53:27",
+      "album": {
+        "name": "Perfect (Exceeder)",
+        "url": "https://open.spotify.com/album/2KvtNjXWp2eq4oSUvf882U"
+      },
+      "artists": [
+        {
+          "name": "Mason",
+          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
+        },
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Perfect (Exceeder)",
+      "url": "https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT"
+    },
+    {
       "added_at": "2023-09-29 19:53:20",
       "album": {
         "name": "Metamodernity",
@@ -95,26 +115,6 @@
       "duration_ms": 162663,
       "name": "Metamodernity",
       "url": "https://open.spotify.com/track/4RGWHfQeJftd5XrP8JUgFj"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
-        "name": "Intimidated",
-        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 207840,
-      "name": "Intimidated (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
     },
     {
       "added_at": "2023-12-27 20:39:24",
@@ -137,6 +137,42 @@
       "url": "https://open.spotify.com/track/7DFYfdzWJAQK59YrQ4CftD"
     },
     {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
+        "name": "Intimidated",
+        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 207840,
+      "name": "Intimidated (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
+    },
+    {
+      "added_at": "2024-01-06 18:53:27",
+      "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "Time to Pretend",
+      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
+    },
+    {
       "added_at": "2023-11-29 23:24:21",
       "album": {
         "name": "I Follow Rivers (The Magician Remix)",
@@ -155,6 +191,30 @@
       "duration_ms": 280069,
       "name": "I Follow Rivers - The Magician Remix",
       "url": "https://open.spotify.com/track/4Jv7lweGIUOFQ7Oq2AtAh9"
+    },
+    {
+      "added_at": "2023-12-27 20:39:24",
+      "album": {
+        "name": "Dance Floor",
+        "url": "https://open.spotify.com/album/7JjNSDeQnodNGFSIHAjnVO"
+      },
+      "artists": [
+        {
+          "name": "jungle bobby",
+          "url": "https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl"
+        },
+        {
+          "name": "ceo@business.net",
+          "url": "https://open.spotify.com/artist/62AQgmEbWNT2jh8uL4PfRR"
+        },
+        {
+          "name": "lentra",
+          "url": "https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Dance Floor",
+      "url": "https://open.spotify.com/track/1VVZnehBdIRMyiGlQMeYRJ"
     },
     {
       "added_at": "2023-09-29 19:53:20",
@@ -191,26 +251,22 @@
     {
       "added_at": "2023-12-27 20:39:24",
       "album": {
-        "name": "Dance Floor",
-        "url": "https://open.spotify.com/album/7JjNSDeQnodNGFSIHAjnVO"
+        "name": "Talk About It",
+        "url": "https://open.spotify.com/album/0613BKqiUlP8d603TbT1mn"
       },
       "artists": [
         {
-          "name": "jungle bobby",
-          "url": "https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl"
+          "name": "Post Sex Nachos",
+          "url": "https://open.spotify.com/artist/3BRSFkEbxBXsZASWPOMOuP"
         },
         {
-          "name": "ceo@business.net",
-          "url": "https://open.spotify.com/artist/62AQgmEbWNT2jh8uL4PfRR"
-        },
-        {
-          "name": "lentra",
-          "url": "https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT"
+          "name": "The Greeting Committee",
+          "url": "https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Dance Floor",
-      "url": "https://open.spotify.com/track/1VVZnehBdIRMyiGlQMeYRJ"
+      "duration_ms": 231125,
+      "name": "Talk About It",
+      "url": "https://open.spotify.com/track/4S06Jl2tZJMOZVXRs3i5jU"
     },
     {
       "added_at": "2023-09-29 19:53:20",
@@ -253,26 +309,6 @@
       "url": "https://open.spotify.com/track/5n9DJWUiwuKuPE9sCVbQ0n"
     },
     {
-      "added_at": "2023-12-27 20:39:24",
-      "album": {
-        "name": "Talk About It",
-        "url": "https://open.spotify.com/album/0613BKqiUlP8d603TbT1mn"
-      },
-      "artists": [
-        {
-          "name": "Post Sex Nachos",
-          "url": "https://open.spotify.com/artist/3BRSFkEbxBXsZASWPOMOuP"
-        },
-        {
-          "name": "The Greeting Committee",
-          "url": "https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm"
-        }
-      ],
-      "duration_ms": 231125,
-      "name": "Talk About It",
-      "url": "https://open.spotify.com/track/4S06Jl2tZJMOZVXRs3i5jU"
-    },
-    {
       "added_at": "2023-09-29 19:53:20",
       "album": {
         "name": "Geography",
@@ -313,22 +349,6 @@
       "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
     },
     {
-      "added_at": "2023-12-27 20:39:24",
-      "album": {
-        "name": "GLUE",
-        "url": "https://open.spotify.com/album/1mrZs0Zgn0H5M5uDXT69fF"
-      },
-      "artists": [
-        {
-          "name": "Maasho",
-          "url": "https://open.spotify.com/artist/1JREmglx633MGQB73njWtE"
-        }
-      ],
-      "duration_ms": 203069,
-      "name": "GLUE",
-      "url": "https://open.spotify.com/track/09AcOUvW6W9queqjGJGZe4"
-    },
-    {
       "added_at": "2023-09-29 19:53:20",
       "album": {
         "name": "Pang",
@@ -361,22 +381,6 @@
       "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
     },
     {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
-        "name": "Dumb Love",
-        "url": "https://open.spotify.com/album/6cJ55YHXdJ5RHeRQNjXFLO"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 282728,
-      "name": "Dumb Love",
-      "url": "https://open.spotify.com/track/2Al2n6ziP5XjIMZEL4laQj"
-    },
-    {
       "added_at": "2023-12-27 17:01:56",
       "album": {
         "name": "What Love Is",
@@ -391,6 +395,22 @@
       "duration_ms": 220245,
       "name": "What Love Is",
       "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
+        "name": "Dumb Love",
+        "url": "https://open.spotify.com/album/6cJ55YHXdJ5RHeRQNjXFLO"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 282728,
+      "name": "Dumb Love",
+      "url": "https://open.spotify.com/track/2Al2n6ziP5XjIMZEL4laQj"
     },
     {
       "added_at": "2023-09-29 19:53:20",
@@ -539,6 +559,22 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
+        "name": "Keeping Me Under",
+        "url": "https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        }
+      ],
+      "duration_ms": 218926,
+      "name": "Keeping Me Under",
+      "url": "https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
         "name": "Down To Earth",
         "url": "https://open.spotify.com/album/1FQyS2AHgEQB6F5Jh1ymGb"
       },
@@ -559,22 +595,6 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
-        "name": "Keeping Me Under",
-        "url": "https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu"
-      },
-      "artists": [
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        }
-      ],
-      "duration_ms": 218926,
-      "name": "Keeping Me Under",
-      "url": "https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
         "name": "Happy Music",
         "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
       },
@@ -587,6 +607,22 @@
       "duration_ms": 232625,
       "name": "Happy Music",
       "url": "https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb"
+      },
+      "artists": [
+        {
+          "name": "okaywill",
+          "url": "https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L"
+        }
+      ],
+      "duration_ms": 119016,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA"
     },
     {
       "added_at": "2023-09-29 19:53:20",
@@ -607,22 +643,6 @@
       "duration_ms": 257301,
       "name": "Lose My Cool - Franc Moody Remix",
       "url": "https://open.spotify.com/track/4gdQamULpFs7WeyFGfmTCZ"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb"
-      },
-      "artists": [
-        {
-          "name": "okaywill",
-          "url": "https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L"
-        }
-      ],
-      "duration_ms": 119016,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA"
     },
     {
       "added_at": "2023-09-29 19:53:20",
@@ -851,22 +871,6 @@
       "duration_ms": 166000,
       "name": "Rocky",
       "url": "https://open.spotify.com/track/3E73eFyGL6v10qlK3jiLyR"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 263349,
-      "name": "Ordinary Love",
-      "url": "https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp"
     },
     {
       "added_at": "2023-09-29 19:53:20",

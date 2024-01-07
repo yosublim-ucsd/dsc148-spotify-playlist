@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMXPT7ghdqO.md) - [plain]
 
 > 祝・結成5周年！6人組エンタメユニット、すとぷりの音楽をプレイリストで！ Music from Japanese entertainment group, Strawberry prince! ©STPR Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,642 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,633 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMXPT7ghdqO.md) - [plain]
 | 43 | [Stars and Prayers](https://open.spotify.com/track/0YcHZUzdfdUxRrdD0K6UsG) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 3:56 |
 | 44 | [Jumper!](https://open.spotify.com/track/2z6oPwJBy21o6cDyEewRZ4) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 3:00 |
 | 45 | [千本桜](https://open.spotify.com/track/5w25VJ2bjvDBtKoKMR9ZYH) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [千本桜](https://open.spotify.com/album/6bS7VaPu5juDVoagjPOJts) | 4:03 |
-| 46 | [パレードはここさ](https://open.spotify.com/track/7kxQOvJyKpJ5qxJA47ns0y) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [パレードはここさ](https://open.spotify.com/album/7sXmjRoJ0CC9Hl84kAIi3q) | 3:42 |
-| 47 | [はりーはりーらぶ](https://open.spotify.com/track/1TxIOOB16wgtqlZCzAHgpC) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [すとろべりーすたーと](https://open.spotify.com/album/2SMrkC9bhd3o19ULQcTvGA) | 4:32 |
+| 46 | [はりーはりーらぶ](https://open.spotify.com/track/1TxIOOB16wgtqlZCzAHgpC) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [すとろべりーすたーと](https://open.spotify.com/album/2SMrkC9bhd3o19ULQcTvGA) | 4:32 |
+| 47 | [パレードはここさ](https://open.spotify.com/track/7kxQOvJyKpJ5qxJA47ns0y) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [パレードはここさ](https://open.spotify.com/album/7sXmjRoJ0CC9Hl84kAIi3q) | 3:42 |
 | 48 | [Next Stage!!](https://open.spotify.com/track/4CTuceahOjQhaEYFtCIciE) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [すとろべりーねくすとっ！](https://open.spotify.com/album/6VnZ4k6Lr9ZySRqcMZ48GJ) | 4:49 |
 | 49 | [ストロベリー☆プラネット！](https://open.spotify.com/track/1E2vRsKtIXRIsNQNaZF53e) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [すとろべりーねくすとっ！](https://open.spotify.com/album/6VnZ4k6Lr9ZySRqcMZ48GJ) | 3:45 |
 | 50 | [クリスマスラブ](https://open.spotify.com/track/3J9g4S55hRXSHs4ZgmnvY7) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 3:30 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMXPT7ghdqO.md) - [plain]
 | 67 | [苺色夏花火](https://open.spotify.com/track/2GI5FvnyRNTjqUE1y1YrRA) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [苺色夏花火](https://open.spotify.com/album/4wZ7hVTUwdUtVaIYI9gIW3) | 3:48 |
 | 68 | [気分上々↑↑](https://open.spotify.com/track/1Ymiw5yfFzwSkbrAN3iAKm) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [気分上々↑↑](https://open.spotify.com/album/3AQbaaW4tZGqnX5tIgwd0n) | 3:47 |
 | 69 | [Ready Go!!](https://open.spotify.com/track/6tegIQ47QKtO7ihE5ypMyN) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 4:12 |
-| 70 | [青春チョコレート \- Christmas Version](https://open.spotify.com/track/1XEATRA9P0Eb2RuBARo0P7) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 3:21 |
-| 71 | [ホワイトプロミス](https://open.spotify.com/track/16be9wt3YbM1vRsGmVlVbV) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [ホワイトプロミス](https://open.spotify.com/album/79sfFfHLmClkYm65e6trBv) | 3:15 |
+| 70 | [ホワイトプロミス](https://open.spotify.com/track/16be9wt3YbM1vRsGmVlVbV) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [ホワイトプロミス](https://open.spotify.com/album/79sfFfHLmClkYm65e6trBv) | 3:15 |
+| 71 | [青春チョコレート \- Christmas Version](https://open.spotify.com/track/1XEATRA9P0Eb2RuBARo0P7) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 3:21 |
 | 72 | [新春らびゅっと！](https://open.spotify.com/track/20xDe22UsxCHWZLtbQzOop) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 3:06 |
 | 73 | [No Perfect](https://open.spotify.com/track/2mF6hgwBbQOkMBzZ9MaCiO) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [すとろべりーらぶっ！](https://open.spotify.com/album/6JRx2reXbLsdIyupLh88Ms) | 4:19 |
 | 74 | [ないしょのプレゼントフォーユー！](https://open.spotify.com/track/0y67B3CnfhwtaaqoqxpGBX) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 2:26 |
 | 75 | [ヨアケイロ](https://open.spotify.com/track/03QMOcvxXRRQuk4glPBBij) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 3:14 |
 
-Snapshot ID: `MCwxMTQzZmJkZjY4MGYyNzc0YmI5YjQ3OTJiMTNhZDFkMzI0Y2VhYjdm`
+Snapshot ID: `MCwzMTQyYmM0YmUxYTQ3MDI0Y2YxNmQzMzEyMzFkMjVjN2M0ZmQ1M2Jm`

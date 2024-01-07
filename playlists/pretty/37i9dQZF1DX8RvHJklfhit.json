@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie classics.",
-  "num_followers": 174077,
+  "num_followers": 174140,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODdmZTk5NmM2MTEzZmM4MGFiYzM1Mjg5YmJiYTc5ZWVlZTQ0MTc4",
+  "snapshot_id": "MCw3OWYyMzUzNWM1MTA5YzQ5MTA3NWUzYzcyOTFlYjJkNjJkZjVjN2E5",
   "tracks": [
     {
       "added_at": "2023-10-12 20:02:07",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Algo Es Mejor",
-        "url": "https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Algo Es Mejor",
-      "url": "https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Destellos",
         "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 237786,
       "name": "Popscuro",
       "url": "https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Algo Es Mejor",
+        "url": "https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Algo Es Mejor",
+      "url": "https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Reflexi\u00f3n del Pasto",
-        "url": "https://open.spotify.com/album/28GYUNMKd575GwnofewUEI"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 106921,
-      "name": "Reflexi\u00f3n del Pasto",
-      "url": "https://open.spotify.com/track/1tzTiU8wtxHvZ3YtU0cjEM"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Nubes",
         "url": "https://open.spotify.com/album/3woQ2AxMJRfEJaEV9BIDR1"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 174053,
       "name": "Nubes",
       "url": "https://open.spotify.com/track/4bKKVfhH3pmMEWCMTViBVf"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Reflexi\u00f3n del Pasto",
+        "url": "https://open.spotify.com/album/28GYUNMKd575GwnofewUEI"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 106921,
+      "name": "Reflexi\u00f3n del Pasto",
+      "url": "https://open.spotify.com/track/1tzTiU8wtxHvZ3YtU0cjEM"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "O Marineros",
-        "url": "https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I"
-      },
-      "artists": [
-        {
-          "name": "Marineros",
-          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
-        }
-      ],
-      "duration_ms": 266925,
-      "name": "Espero",
-      "url": "https://open.spotify.com/track/05fzteOLEheflpw2UEb6LY"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "HU HU HU",
         "url": "https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 267840,
       "name": "Cursis Melod\u00edas",
       "url": "https://open.spotify.com/track/76CdSwtagY9xOJ86tF8z7q"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "O Marineros",
+        "url": "https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I"
+      },
+      "artists": [
+        {
+          "name": "Marineros",
+          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
+        }
+      ],
+      "duration_ms": 266925,
+      "name": "Espero",
+      "url": "https://open.spotify.com/track/05fzteOLEheflpw2UEb6LY"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
+        "name": "jard\u00edn de flores",
+        "url": "https://open.spotify.com/album/2idEQxQV3mza8cCtCZQbW2"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 199523,
+      "name": "jard\u00edn de flores",
+      "url": "https://open.spotify.com/track/4ZxcEHFfXkcC2KS29OVJKv"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/4gULoExlmk3JJFZgijqHNk"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 202360,
       "name": "Te Guardo",
       "url": "https://open.spotify.com/track/7c0Au5lLOgO8HmeCRNHoOb"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
-        "name": "jard\u00edn de flores",
-        "url": "https://open.spotify.com/album/2idEQxQV3mza8cCtCZQbW2"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 199523,
-      "name": "jard\u00edn de flores",
-      "url": "https://open.spotify.com/track/4ZxcEHFfXkcC2KS29OVJKv"
     },
     {
       "added_at": "2023-10-12 20:02:07",

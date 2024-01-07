@@ -1,12 +1,12 @@
 {
   "description": "The greatest Alternative Rock songs through the decades. Cover: The Killers",
-  "num_followers": 701709,
+  "num_followers": 701848,
   "original_name": "Essential Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTM0ZTI4NzRmYjRiODZhOThjNTNlYjg5ZTQyNjE0NTcyNGVkNzM1",
+  "snapshot_id": "MCw4ODk4NzljNjViYWQ5ZTBiMGNjN2U1M2E0YzE4MDE0YzZhYmQ2ZjA3",
   "tracks": [
     {
       "added_at": "2022-11-23 20:10:22",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Superunknown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
-      },
-      "artists": [
-        {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
-        }
-      ],
-      "duration_ms": 318586,
-      "name": "Black Hole Sun",
-      "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Sam's Town",
         "url": "https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 220426,
       "name": "When You Were Young",
       "url": "https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Superunknown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "duration_ms": 318586,
+      "name": "Black Hole Sun",
+      "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "Time to Pretend",
+      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
       },
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Time to Pretend",
-      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Megalithic Symphony",
         "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
       },
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "Just",
-      "url": "https://open.spotify.com/track/1dyTcli07c77mtQK3ahUZR"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Black Holes and Revelations",
         "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 240213,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "Just",
+      "url": "https://open.spotify.com/track/1dyTcli07c77mtQK3ahUZR"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "A Fever You Can't Sweat Out",
-        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
+        "name": "Oh, Inverted World (20th Anniversary Remaster)",
+        "url": "https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE"
       },
       "artists": [
         {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
         }
       ],
-      "duration_ms": 186634,
-      "name": "I Write Sins Not Tragedies",
-      "url": "https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du"
+      "duration_ms": 230866,
+      "name": "New Slang - 2021 Remaster",
+      "url": "https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Oh, Inverted World (20th Anniversary Remaster)",
-        "url": "https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE"
+        "name": "A Fever You Can't Sweat Out",
+        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
       },
       "artists": [
         {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 230866,
-      "name": "New Slang - 2021 Remaster",
-      "url": "https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV"
+      "duration_ms": 186634,
+      "name": "I Write Sins Not Tragedies",
+      "url": "https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Fever To Tell (Deluxe Remastered)",
-        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 219986,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 191800,
       "name": "Howlin' for You",
       "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 219986,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -2415,18 +2415,18 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Nothing's Shocking",
-        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
+        "name": "Fitz and The Tantrums (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC"
       },
       "artists": [
         {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
         }
       ],
-      "duration_ms": 287000,
-      "name": "Jane Says",
-      "url": "https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t"
+      "duration_ms": 193253,
+      "name": "HandClap",
+      "url": "https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -2447,18 +2447,18 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Fitz and The Tantrums (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC"
+        "name": "Nothing's Shocking",
+        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
       },
       "artists": [
         {
-          "name": "Fitz and The Tantrums",
-          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 193253,
-      "name": "HandClap",
-      "url": "https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0"
+      "duration_ms": 287000,
+      "name": "Jane Says",
+      "url": "https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -2575,6 +2575,22 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
+        "name": "Yoshimi Battles the Pink Robots",
+        "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
+      },
+      "artists": [
+        {
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+        }
+      ],
+      "duration_ms": 213173,
+      "name": "Do You Realize??",
+      "url": "https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
         "name": "Speak & Spell (2006 Remaster)",
         "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
       },
@@ -2607,22 +2623,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Yoshimi Battles the Pink Robots",
-        "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
-      },
-      "artists": [
-        {
-          "name": "The Flaming Lips",
-          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
-        }
-      ],
-      "duration_ms": 213173,
-      "name": "Do You Realize??",
-      "url": "https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Vs.",
         "url": "https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV"
       },
@@ -2639,22 +2639,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Achtung Baby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 243586,
-      "name": "Mysterious Ways",
-      "url": "https://open.spotify.com/track/50JK22El2PTIzZBU2liLDI"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Funeral",
         "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
       },
@@ -2667,6 +2651,22 @@
       "duration_ms": 310893,
       "name": "Rebellion (Lies)",
       "url": "https://open.spotify.com/track/0xOeB16JDbBJBJKSdHbElT"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 243586,
+      "name": "Mysterious Ways",
+      "url": "https://open.spotify.com/track/50JK22El2PTIzZBU2liLDI"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -2911,22 +2911,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Kasabian",
-        "url": "https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc"
-      },
-      "artists": [
-        {
-          "name": "Kasabian",
-          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
-        }
-      ],
-      "duration_ms": 214373,
-      "name": "Club Foot",
-      "url": "https://open.spotify.com/track/6C0xucNj75wRdlejwWIEW1"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Veni Vidi Vicious",
         "url": "https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li"
       },
@@ -2943,18 +2927,18 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "Royal Blood",
-        "url": "https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG"
+        "name": "Kasabian",
+        "url": "https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc"
       },
       "artists": [
         {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
         }
       ],
-      "duration_ms": 183602,
-      "name": "Figure It Out",
-      "url": "https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd"
+      "duration_ms": 214373,
+      "name": "Club Foot",
+      "url": "https://open.spotify.com/track/6C0xucNj75wRdlejwWIEW1"
     },
     {
       "added_at": "2022-11-23 20:10:22",
@@ -2975,6 +2959,22 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
+        "name": "Royal Blood",
+        "url": "https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 183602,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
         "name": "Wolfmother",
         "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
       },
@@ -2991,22 +2991,6 @@
     {
       "added_at": "2022-11-23 20:10:22",
       "album": {
-        "name": "The Reminder",
-        "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "1234",
-      "url": "https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW"
-    },
-    {
-      "added_at": "2022-11-23 20:10:22",
-      "album": {
         "name": "Ga Ga Ga Ga Ga (2017 Remaster)",
         "url": "https://open.spotify.com/album/3tSpLdSd2zhM0N0aYZd13E"
       },
@@ -3019,6 +3003,22 @@
       "duration_ms": 222106,
       "name": "The Underdog",
       "url": "https://open.spotify.com/track/2ZLL9Blx7Tq4tBrhE9YvXE"
+    },
+    {
+      "added_at": "2022-11-23 20:10:22",
+      "album": {
+        "name": "The Reminder",
+        "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "1234",
+      "url": "https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW"
     },
     {
       "added_at": "2022-11-23 20:10:22",

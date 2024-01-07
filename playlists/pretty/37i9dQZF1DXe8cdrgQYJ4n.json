@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 18032,
+  "num_followers": 18028,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGM2YWY3YzFlZWZhNWU4NTM5NjQ0NzhmY2UyYjY2MTUyNThlOGI1",
+  "snapshot_id": "MCxhNjE1ODMyZjVjMTQwNjQwYmU5Mzg1NWFjNjJhYjJmZmI4OTIzMGE0",
   "tracks": [
     {
       "added_at": "2023-07-17 06:17:40",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-07-17 06:17:40",
       "album": {
+        "name": "MONOCHROME",
+        "url": "https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK"
+      },
+      "artists": [
+        {
+          "name": "Lee Hyori",
+          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
+        }
+      ],
+      "duration_ms": 235624,
+      "name": "Miss Korea",
+      "url": "https://open.spotify.com/track/7v4T4qeHh2Y8Rg7HQWaFSS"
+    },
+    {
+      "added_at": "2023-07-17 06:17:40",
+      "album": {
         "name": "Street Woman Fighter(SWF) Special",
         "url": "https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 139093,
       "name": "NO BREAK (Prod. GooseBumps & Simon Dominic)",
       "url": "https://open.spotify.com/track/7p5iFapJ56W9Swmu9NT00L"
-    },
-    {
-      "added_at": "2023-07-17 06:17:40",
-      "album": {
-        "name": "MONOCHROME",
-        "url": "https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK"
-      },
-      "artists": [
-        {
-          "name": "Lee Hyori",
-          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
-        }
-      ],
-      "duration_ms": 235624,
-      "name": "Miss Korea",
-      "url": "https://open.spotify.com/track/7v4T4qeHh2Y8Rg7HQWaFSS"
     },
     {
       "added_at": "2023-07-17 06:17:40",

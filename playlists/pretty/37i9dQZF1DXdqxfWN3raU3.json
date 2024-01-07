@@ -1,12 +1,12 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Latin Mafia y Humbe en portada.",
-  "num_followers": 108364,
+  "num_followers": 108408,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmZjOWRkMzRmYTI0NmExZjlkNDBlMjM2OWRjYTMzZjIyZjdiNWRm",
+  "snapshot_id": "MCw3YzllNjcwNWU2ZWMyOWZlOWNhZTVhYjdhNmIyYTk4M2ViZTM0MDVm",
   "tracks": [
     {
       "added_at": "2023-12-15 06:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "La Baby",
-        "url": "https://open.spotify.com/album/6sowfPq2DeL2VDArb7pUlj"
-      },
-      "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        }
-      ],
-      "duration_ms": 161333,
-      "name": "La Baby",
-      "url": "https://open.spotify.com/track/460Zx6PCNYFHaA1A9rjiNL"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
         "name": "PARA AMARTE A TI",
         "url": "https://open.spotify.com/album/1tEOuO5jMejA2FyFr4lSlT"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 215156,
       "name": "PARA AMARTE A TI",
       "url": "https://open.spotify.com/track/5ZMucBMCG8iq0KuEZHLwYy"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
+        "name": "La Baby",
+        "url": "https://open.spotify.com/album/6sowfPq2DeL2VDArb7pUlj"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "duration_ms": 161333,
+      "name": "La Baby",
+      "url": "https://open.spotify.com/track/460Zx6PCNYFHaA1A9rjiNL"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "Dopamina",
-        "url": "https://open.spotify.com/album/0dEUjKmUXbLnRZUPfpnvVA"
-      },
-      "artists": [
-        {
-          "name": "Joonti",
-          "url": "https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Dopamina",
-      "url": "https://open.spotify.com/track/4Y9SjgJOMppiqp7GwmW7LS"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
         "name": "Labios de Vainilla",
         "url": "https://open.spotify.com/album/46VuvNSBHEzy3fbIIAapKl"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 186500,
       "name": "Parece un Sue\u00f1o",
       "url": "https://open.spotify.com/track/1DXAuCkxL3hdcLjBkvUxgN"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
+        "name": "Dopamina",
+        "url": "https://open.spotify.com/album/0dEUjKmUXbLnRZUPfpnvVA"
+      },
+      "artists": [
+        {
+          "name": "Joonti",
+          "url": "https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Dopamina",
+      "url": "https://open.spotify.com/track/4Y9SjgJOMppiqp7GwmW7LS"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
+        "name": "Un Koala En Una Palmera",
+        "url": "https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Curarte",
+      "url": "https://open.spotify.com/track/0Xrzd6jUgpqfyjWjMBwZ7Q"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
         "name": "1UNAMORSUPREMO",
         "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 186285,
       "name": "Fin De Semana",
       "url": "https://open.spotify.com/track/4JtB5gVuzcbnMhWr37SdX4"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
-        "name": "Un Koala En Una Palmera",
-        "url": "https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Curarte",
-      "url": "https://open.spotify.com/track/0Xrzd6jUgpqfyjWjMBwZ7Q"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -991,26 +991,6 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "VIL\u00c3",
-        "url": "https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 192853,
-      "name": "Vem Por Cima",
-      "url": "https://open.spotify.com/track/1VeGot9OEjti5tUbd7VuLi"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
         "name": "Ketamina",
         "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
       },
@@ -1023,34 +1003,6 @@
       "duration_ms": 171063,
       "name": "Ketamina",
       "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
-        "name": "Invierno",
-        "url": "https://open.spotify.com/album/36akjquegYLPv8C90n0Hqu"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        },
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        },
-        {
-          "name": "Fer Casillas",
-          "url": "https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R"
-        },
-        {
-          "name": "Ferraz",
-          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Invierno",
-      "url": "https://open.spotify.com/track/2tuEMMVAIRWjOTCTHgI7d8"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -1071,34 +1023,22 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "A Trav\u00e9s Del Espejo (feat. Kendall Pe\u00f1a & Melanie Espinosa)",
-        "url": "https://open.spotify.com/album/2qZv4vmdDS6VnNinS6VgPo"
+        "name": "VIL\u00c3",
+        "url": "https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh"
       },
       "artists": [
         {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         },
         {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        },
-        {
-          "name": "Lucauy",
-          "url": "https://open.spotify.com/artist/5bm3h7dBIpjofczY1v8jD4"
-        },
-        {
-          "name": "Kendall Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
-        },
-        {
-          "name": "Melanie Espinosa",
-          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         }
       ],
-      "duration_ms": 206000,
-      "name": "A Trav\u00e9s Del Espejo (feat. Kendall Pe\u00f1a & Melanie Espinosa)",
-      "url": "https://open.spotify.com/track/1gCvHsRHayoF9pjScWnbcO"
+      "duration_ms": 192853,
+      "name": "Vem Por Cima",
+      "url": "https://open.spotify.com/track/1VeGot9OEjti5tUbd7VuLi"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -1139,6 +1079,66 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
+        "name": "Invierno",
+        "url": "https://open.spotify.com/album/36akjquegYLPv8C90n0Hqu"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
+        {
+          "name": "Fer Casillas",
+          "url": "https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R"
+        },
+        {
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Invierno",
+      "url": "https://open.spotify.com/track/2tuEMMVAIRWjOTCTHgI7d8"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
+        "name": "A Trav\u00e9s Del Espejo (feat. Kendall Pe\u00f1a & Melanie Espinosa)",
+        "url": "https://open.spotify.com/album/2qZv4vmdDS6VnNinS6VgPo"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Lucauy",
+          "url": "https://open.spotify.com/artist/5bm3h7dBIpjofczY1v8jD4"
+        },
+        {
+          "name": "Kendall Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
+        },
+        {
+          "name": "Melanie Espinosa",
+          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "A Trav\u00e9s Del Espejo (feat. Kendall Pe\u00f1a & Melanie Espinosa)",
+      "url": "https://open.spotify.com/track/1gCvHsRHayoF9pjScWnbcO"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
         "name": "A la Carta",
         "url": "https://open.spotify.com/album/7MOj5xWZV82U7TvBTW5kqH"
       },
@@ -1171,6 +1171,22 @@
       "duration_ms": 145413,
       "name": "Fr\u00edo",
       "url": "https://open.spotify.com/track/2fw6liEffYRav3ORECpqvQ"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
+        "name": "9:15",
+        "url": "https://open.spotify.com/album/0aHNuxs4GlcjYkoENqm6en"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "9:15",
+      "url": "https://open.spotify.com/track/505e4QYrsvZHOuojWxpOLK"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -1219,22 +1235,6 @@
       "duration_ms": 206116,
       "name": "Numb The Pain",
       "url": "https://open.spotify.com/track/79Chy1FyRUT1GXvPS22OPe"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
-        "name": "9:15",
-        "url": "https://open.spotify.com/album/0aHNuxs4GlcjYkoENqm6en"
-      },
-      "artists": [
-        {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
-        }
-      ],
-      "duration_ms": 124800,
-      "name": "9:15",
-      "url": "https://open.spotify.com/track/505e4QYrsvZHOuojWxpOLK"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "Los Dos",
-        "url": "https://open.spotify.com/album/5J0ozKBrpKY05AoClZx56R"
-      },
-      "artists": [
-        {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "Los Dos",
-      "url": "https://open.spotify.com/track/6kn5oUW8uoVIcGjpjbnBlw"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
         "name": "Tus Ojos Me Hablaron",
         "url": "https://open.spotify.com/album/1DB93h9fw0dyrn9LOoYHeM"
       },
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "Roxanne",
-        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
+        "name": "Los Dos",
+        "url": "https://open.spotify.com/album/5J0ozKBrpKY05AoClZx56R"
       },
       "artists": [
         {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
         }
       ],
-      "duration_ms": 213993,
-      "name": "A la Mitad (Suceso 1)",
-      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
+      "duration_ms": 172235,
+      "name": "Los Dos",
+      "url": "https://open.spotify.com/track/6kn5oUW8uoVIcGjpjbnBlw"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -1579,6 +1563,22 @@
       "duration_ms": 138485,
       "name": "Al Rev\u00e9s",
       "url": "https://open.spotify.com/track/56q9dVA6Fo4s0BAhUJRip8"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
+        "name": "Roxanne",
+        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        }
+      ],
+      "duration_ms": 213993,
+      "name": "A la Mitad (Suceso 1)",
+      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "Mi\u00e9nteme",
-        "url": "https://open.spotify.com/album/1LVpA6huMFTyjyplx8tQgD"
-      },
-      "artists": [
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        }
-      ],
-      "duration_ms": 158643,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/2Ach6TMHHih48PYNszSQzP"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
         "name": "Vibras",
         "url": "https://open.spotify.com/album/5pkran0HD0TArY7OqRGvsk"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 153132,
       "name": "Vibras",
       "url": "https://open.spotify.com/track/2lavVNtQyc5hbMgaAmnQGU"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/1LVpA6huMFTyjyplx8tQgD"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "duration_ms": 158643,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/2Ach6TMHHih48PYNszSQzP"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
+        "name": "Ten Cuidao'",
+        "url": "https://open.spotify.com/album/13ixtSvxnOOCjcsA19x28i"
+      },
+      "artists": [
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        }
+      ],
+      "duration_ms": 174757,
+      "name": "Ten Cuidao'",
+      "url": "https://open.spotify.com/track/0FPMwL6lPQP5dYZr4fVKvp"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
         "name": "Cada Quien",
         "url": "https://open.spotify.com/album/4QS3kIW0YTZAMZMkaJ1mLH"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 184780,
       "name": "Cada Quien",
       "url": "https://open.spotify.com/track/4ayJaxA5MjPEopjWYNMAbr"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
-        "name": "Ten Cuidao'",
-        "url": "https://open.spotify.com/album/13ixtSvxnOOCjcsA19x28i"
-      },
-      "artists": [
-        {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
-        }
-      ],
-      "duration_ms": 174757,
-      "name": "Ten Cuidao'",
-      "url": "https://open.spotify.com/track/0FPMwL6lPQP5dYZr4fVKvp"
     },
     {
       "added_at": "2023-12-15 06:00:00",

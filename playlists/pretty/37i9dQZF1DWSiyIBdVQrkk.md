@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in old & new Reggae\. Cover: Bob Marley.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,131,765 likes - 110 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,132,095 likes - 110 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,11 +88,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 78 | [Kingston Town](https://open.spotify.com/track/3e7yziCpnpx2ujgvXqSLzp) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Labour Of Love II](https://open.spotify.com/album/2jfea3275Ef5g1nUwnf1fg) | 3:48 |
 | 79 | [Mellow Mood](https://open.spotify.com/track/6r9KZ2g5dXZXXLF6vOHnet) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Bunny Wailer Sings The Wailers](https://open.spotify.com/album/3D6W8G8ZtbZoeQeyBUUAhu) | 3:51 |
 | 80 | [King Without a Crown \- Live at Stubb's, Austin, TX \- February 2005](https://open.spotify.com/track/6yalDzJGNoUQ2qSDlAdqU8) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Live at Stubb's](https://open.spotify.com/album/6kfMhZYXTwm9HGMJuLl7HO) | 4:48 |
-| 81 | [I Am That I Am](https://open.spotify.com/track/2PyDqCtFcXsucZqTF4rE3i) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Equal Rights \(Legacy Edition\)](https://open.spotify.com/album/4fUOOBGNI8k9cb4vD2hZ65) | 4:29 |
-| 82 | [Don't Give Up](https://open.spotify.com/track/4VC6Ihh1epJiQPiiMpJXDE) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/05JkJkbziKzfr0wOFA4iFJ) | 3:18 |
+| 81 | [Don't Give Up](https://open.spotify.com/track/4VC6Ihh1epJiQPiiMpJXDE) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/05JkJkbziKzfr0wOFA4iFJ) | 3:18 |
+| 82 | [I Am That I Am](https://open.spotify.com/track/2PyDqCtFcXsucZqTF4rE3i) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Equal Rights \(Legacy Edition\)](https://open.spotify.com/album/4fUOOBGNI8k9cb4vD2hZ65) | 4:29 |
 | 83 | [Hail H.I.M \- 2002 Remastered Version](https://open.spotify.com/track/155vJ1VsYZ87Gldi1gNss8) | [Burning Spear](https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU) | [Hail H.I.M](https://open.spotify.com/album/1bSUHJjoGnNvkDUjlD79Bg) | 4:15 |
-| 84 | [Old Sunrise](https://open.spotify.com/track/3IZVcI4XBomuSZTF6CBd28) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 5:23 |
-| 85 | [Rebel Time](https://open.spotify.com/track/7tnoa5R79Bl3qa39yQSW5Q) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Rebel Time](https://open.spotify.com/album/0rrzx2Xg5leF42e0I7oCu7) | 4:01 |
+| 84 | [Rebel Time](https://open.spotify.com/track/7tnoa5R79Bl3qa39yQSW5Q) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Rebel Time](https://open.spotify.com/album/0rrzx2Xg5leF42e0I7oCu7) | 4:01 |
+| 85 | [Old Sunrise](https://open.spotify.com/track/3IZVcI4XBomuSZTF6CBd28) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 5:23 |
 | 86 | [Missing You](https://open.spotify.com/track/5BkEtAa7LHwm5qs2vLegX3) | [Sanchez](https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf) | [Missing You](https://open.spotify.com/album/3688VgiRVASa05x5FHEmc9) | 3:22 |
 | 87 | [Spanish Town Rockin'](https://open.spotify.com/track/4Qup2zholspnhLpgkO77C2) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 3:24 |
 | 88 | [Everything I Own \(7'' Mix\)](https://open.spotify.com/track/4PfDS6wcDp7YvikkmbySak) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Everything I Own](https://open.spotify.com/album/1yQvIiS4aFxcPhzyN7Gw2W) | 3:44 |
@@ -108,9 +108,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 98 | [Jah Army](https://open.spotify.com/track/4MAadSz8azCoDgBNX27f0Z) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Revelation Part 1: The Root Of Life](https://open.spotify.com/album/3tRUM2HJcrvRzwQCDRUS73) | 4:43 |
 | 99 | [The Tide Is High](https://open.spotify.com/track/1GUcIBgJB2AX0Ex6J6SKXM) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [Original Paragons At Treasure Isle](https://open.spotify.com/album/2LekDlww2q2hr2HuKJeww1) | 2:45 |
 | 100 | [\(You Gotta Walk\) Don't Look Back \- 2002 Remaster](https://open.spotify.com/track/2vDUqLZsaEEYmREcRo9gnn) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Bush Doctor](https://open.spotify.com/album/0K9oJKr8cOfWfdT33y3L9b) | 5:20 |
-| 101 | [Can't Breathe \(Genius T Remix\)](https://open.spotify.com/track/1MmSKeGyQtsw01TZ4P2AaQ) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Can't Breathe \(Genius T Remix\)](https://open.spotify.com/album/6Z1RymNPBPYeamjtuAergh) | 3:22 |
+| 101 | [Chill Out](https://open.spotify.com/track/4bLXcbMmmM4aAuhALEfyD7) | [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Chill Out](https://open.spotify.com/album/4Lv1cH9BHvIpCzaP5LNusL) | 4:02 |
 | 102 | [Kingston Be Wise](https://open.spotify.com/track/0qbouIdcN4lrj49jem7TEz) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [The 8 Year Affair](https://open.spotify.com/album/1pKiBXWp9b8nhnBzEh91nA) | 4:11 |
-| 103 | [Chill Out](https://open.spotify.com/track/4bLXcbMmmM4aAuhALEfyD7) | [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Chill Out](https://open.spotify.com/album/4Lv1cH9BHvIpCzaP5LNusL) | 4:02 |
+| 103 | [Can't Breathe \(Genius T Remix\)](https://open.spotify.com/track/1MmSKeGyQtsw01TZ4P2AaQ) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Can't Breathe \(Genius T Remix\)](https://open.spotify.com/album/6Z1RymNPBPYeamjtuAergh) | 3:22 |
 | 104 | [One Draw](https://open.spotify.com/track/0Og4hTQytc9vv4CCxZ2wpy) | [Rita Marley](https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3) | [Who Feels It Knows It](https://open.spotify.com/album/5BhC8RTEdWPiHF0HrzWE9F) | 4:25 |
 | 105 | [Where I'm Coming From](https://open.spotify.com/track/2jQENRPVxXb8TcTAXW6wpQ) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [The ExPerience](https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK) | 4:03 |
 | 106 | [Train to Skaville](https://open.spotify.com/track/21XbXjK5xKhEJnH9xFuoq9) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA) | [Engine 54](https://open.spotify.com/album/7kApPBGR83HP2zyzG4WPmG) | 2:57 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 109 | [Murderer](https://open.spotify.com/track/3H9VcVDIdfgjZRj8Surw6s) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | ['Til Shiloh \(25th Anniversary Edition\)](https://open.spotify.com/album/44TzM9HNKi898wWhkH8FNu) | 3:57 |
 | 110 | [Cool Runnings](https://open.spotify.com/track/70A4fwnfHIok2WsdKY7X0P) | [Duane Stephenson](https://open.spotify.com/artist/4jdHfc4ZIDd7RYn1reuDg2) | [Dangerously Roots \- Journey From August Town](https://open.spotify.com/album/49dwhhUPqqjIbfPfVoRIc2) | 3:54 |
 
-Snapshot ID: `MCw0MmMxYmQ4ODFjZWNmNjU5MTlkNzYyZDcyMzNhNGJmMTZhZDBkZWI2`
+Snapshot ID: `MCw1N2UxNmEzMDc4Nzc3MWViZTI3OTgwNzA3ODgwYWRmNmMwMWJmNmM2`

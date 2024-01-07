@@ -1,12 +1,12 @@
 {
   "description": "Club vibes wherever you are!",
-  "num_followers": 822927,
+  "num_followers": 822998,
   "original_name": "Club Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDliMzE1MTQ0YjUyOWZkZTZmZTVjMzU1YjE5N2EwZjE4YmJjMjU5",
+  "snapshot_id": "MCxmNWQ2NWJkZTI1OTRhYmQ3N2VhNjAwMGFlMWIxNTk5ZDg2YTljZDBk",
   "tracks": [
     {
       "added_at": "2023-12-22 16:30:00",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-12-22 16:30:00",
       "album": {
+        "name": "Traffic",
+        "url": "https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "duration_ms": 141333,
+      "name": "Traffic",
+      "url": "https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz"
+    },
+    {
+      "added_at": "2023-12-22 16:30:00",
+      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/1yC5yJEeMRUSeeQgkho7Ai"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 230645,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/52jCFwQBAf04Bi8xrE8DJu"
-    },
-    {
-      "added_at": "2023-12-22 16:30:00",
-      "album": {
-        "name": "Traffic",
-        "url": "https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM"
-      },
-      "artists": [
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        }
-      ],
-      "duration_ms": 141333,
-      "name": "Traffic",
-      "url": "https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz"
     },
     {
       "added_at": "2023-12-22 16:30:00",

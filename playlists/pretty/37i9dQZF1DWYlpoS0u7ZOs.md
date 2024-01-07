@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > The new wave of rock from the UK & Ireland\. Cover: UNIVERSITY
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,332 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,341 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 79 | [You Don't Exist](https://open.spotify.com/track/5abW9yOsPu6zM5KSRseT9p) | [Less Than Hollow](https://open.spotify.com/artist/6YKUQqeyWshUssuIyayCpD) | [You Don't Exist](https://open.spotify.com/album/00Je4CHXNglMBntZyzIUgD) | 3:27 |
 | 80 | [Boys in the Band](https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [You're Welcome](https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9) | 2:35 |
 
-Snapshot ID: `MCwyNTdmMTUxOGFiNGNkOGU0MTVhNzdjYTVhMmM4MGY2NDcyMWFjNmQx`
+Snapshot ID: `MCwzNmMxMWI1NTRmZjY4OTM1N2JlNGIzM2IyNTYwNTJjNjQ5OWVmNDgz`

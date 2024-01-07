@@ -778,7 +778,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 152238,
       "name": "Mr. Navigator",
       "url": "https://open.spotify.com/track/6MUZSRiBO5mpq5qQkFgAgz"
@@ -1132,6 +1132,24 @@
       "duration_ms": 176867,
       "name": "Roses - Imanbek Remix",
       "url": "https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb"
+    },
+    {
+      "album": {
+        "name": "Showing Signs",
+        "url": "https://open.spotify.com/album/7AbEIGTOubOlHGFF7L8iZS"
+      },
+      "artists": [
+        {
+          "name": "PRINSH",
+          "url": "https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Showing Signs",
+      "url": "https://open.spotify.com/track/2uG6wCBGkH01QiBAVMOaut"
     },
     {
       "album": {

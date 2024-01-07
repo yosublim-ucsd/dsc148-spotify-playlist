@@ -1,12 +1,12 @@
 {
   "description": "Still in rotation. Cover: Bryson Tiller",
-  "num_followers": 2151770,
+  "num_followers": 2151925,
   "original_name": "Gold Edition",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjc4YTY0OGI3YTJhNjZlN2ZkOWVhMDdmYjU5NDE5MDY2YTE3MmVi",
+  "snapshot_id": "MCwyNWQyMTQ4MDI5ZmI0MTdiZWZlNTE3YThlMzhjZWJjNGQxYzQzZmJj",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1005,38 +1005,6 @@
       "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
     },
     {
-      "added_at": "2022-09-24 17:12:30",
-      "album": {
-        "name": "For Broken Ears",
-        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 196204,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc"
-    },
-    {
-      "added_at": "2022-03-14 17:48:22",
-      "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 272186,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
-    },
-    {
       "added_at": "2022-03-14 17:48:22",
       "album": {
         "name": "Ella Mai",
@@ -1055,22 +1023,34 @@
     {
       "added_at": "2022-03-14 17:48:22",
       "album": {
-        "name": "East Atlanta Love Letter",
-        "url": "https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2"
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
       "artists": [
         {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 240341,
-      "name": "Pretty Little Fears (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
+      "duration_ms": 272186,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
+    },
+    {
+      "added_at": "2022-09-24 17:12:30",
+      "album": {
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 196204,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc"
     },
     {
       "added_at": "2022-07-30 03:46:43",
@@ -1091,6 +1071,26 @@
       "duration_ms": 295920,
       "name": "All I Want Is You (feat. J. Cole)",
       "url": "https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av"
+    },
+    {
+      "added_at": "2022-03-14 17:48:22",
+      "album": {
+        "name": "East Atlanta Love Letter",
+        "url": "https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 240341,
+      "name": "Pretty Little Fears (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
     },
     {
       "added_at": "2022-07-30 03:34:52",
@@ -1261,28 +1261,24 @@
       "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr"
     },
     {
-      "added_at": "2023-09-29 00:53:25",
+      "added_at": "2023-08-11 02:37:59",
       "album": {
-        "name": "People (Remixes)",
-        "url": "https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G"
+        "name": "We Might Even Be Falling In Love (Duet) - Spotify Singles",
+        "url": "https://open.spotify.com/album/05gJU1eQhBHXYUXrGSFBWG"
       },
       "artists": [
         {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         },
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 184633,
-      "name": "People (feat. Ayra Starr & Omah Lay)",
-      "url": "https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG"
+      "duration_ms": 90110,
+      "name": "We Might Even Be Falling In Love (Duet) - Spotify Singles",
+      "url": "https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN"
     },
     {
       "added_at": "2022-03-14 17:48:22",

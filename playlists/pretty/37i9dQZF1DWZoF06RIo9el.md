@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de diciembre 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,539,471 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,539,512 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,18 +20,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 10 | [TE FUI A SEGUIR](https://open.spotify.com/track/2vRmz7wDDxRY4zPSzwEmIT) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 2:33 |
 | 11 | [ALAKRAN](https://open.spotify.com/track/2Yc3MHpZ9R5UCIz78E20AQ) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 1:30 |
 | 12 | [LA CHAMBA](https://open.spotify.com/track/1gjAVqB8sPT5i96wXUWcJR) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [LA CHAMBA](https://open.spotify.com/album/3ZXdnHFjtmYBMSMogYTvVK) | 2:53 |
-| 13 | [me va a costar](https://open.spotify.com/track/0Y7NqQ9RNoHZHDTeDS4UnO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [me va a costar](https://open.spotify.com/album/7MgPJ608fJvGMf7xCJlPq9) | 3:48 |
-| 14 | [CORLEONE](https://open.spotify.com/track/4XCIp44SX79A7spTo4O40y) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Saliendo del Planeta](https://open.spotify.com/album/0ct1nMrWBi5B93RKXAZJEf) | 3:12 |
+| 13 | [CORLEONE](https://open.spotify.com/track/4XCIp44SX79A7spTo4O40y) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Saliendo del Planeta](https://open.spotify.com/album/0ct1nMrWBi5B93RKXAZJEf) | 3:12 |
+| 14 | [me va a costar](https://open.spotify.com/track/0Y7NqQ9RNoHZHDTeDS4UnO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [me va a costar](https://open.spotify.com/album/7MgPJ608fJvGMf7xCJlPq9) | 3:48 |
 | 15 | [Amigos](https://open.spotify.com/track/40jgBnBitjAwrWszYMLrvR) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Amigos](https://open.spotify.com/album/3DkbgLj1xLcDI5aCDnajVQ) | 3:15 |
 | 16 | [Sobreviviste](https://open.spotify.com/track/3CGPWcU0S3tnb1hSvtyBmj) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sobreviviste](https://open.spotify.com/album/1TpmuLGyFw9tVtuBIt7t6u) | 3:06 |
-| 17 | [Love Like This \- En Vivo](https://open.spotify.com/track/3tVSavUm2ytulh0CWlknlH) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche Live Sessions \(En Vivo\)](https://open.spotify.com/album/4lAoWJAGBqKpgCBMGGVTWz) | 3:38 |
-| 18 | [Salitre](https://open.spotify.com/track/6NXPhNtKgDn7OJaLaELuSH) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Salitre](https://open.spotify.com/album/4gFK3UVU00iqHcMQdHocv8) | 3:40 |
+| 17 | [Salitre](https://open.spotify.com/track/6NXPhNtKgDn7OJaLaELuSH) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Salitre](https://open.spotify.com/album/4gFK3UVU00iqHcMQdHocv8) | 3:40 |
+| 18 | [Love Like This \- En Vivo](https://open.spotify.com/track/3tVSavUm2ytulh0CWlknlH) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche Live Sessions \(En Vivo\)](https://open.spotify.com/album/4lAoWJAGBqKpgCBMGGVTWz) | 3:38 |
 | 19 | [Give Me](https://open.spotify.com/track/7apHeqaF1HGOJT7usKHKQJ) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Give Me](https://open.spotify.com/album/2HWlrn5BF5QknrGcJVBp1Z) | 2:45 |
 | 20 | [MILAMORES](https://open.spotify.com/track/38K7p7vJm8rOGUBAZrEyW3) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 3:31 |
-| 21 | [Estrellita](https://open.spotify.com/track/7wv09FSKH9ZBqXkNRKBony) | [Zhamira Zambrano](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3) | [Estrellita](https://open.spotify.com/album/0dSbNOBz88REk7f8SBGXDW) | 2:37 |
-| 22 | [Alcohol](https://open.spotify.com/track/3xBvu2UF8431mbmwsSWkRq) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Sugar Papi](https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH) | 2:51 |
-| 23 | [X'CLUSIVO](https://open.spotify.com/track/0T0Oo2aVRt5a39D3ObeWwm) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [X'CLUSIVO](https://open.spotify.com/album/5RmwLVvsb2oS4K97abdqcy) | 2:55 |
-| 24 | [Bandidona](https://open.spotify.com/track/5V7Gy8FkCKGsVNgvaVssJi) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Bandidona](https://open.spotify.com/album/3FRUYA30mgEKxyHR634UHx) | 2:40 |
+| 21 | [Bandidona](https://open.spotify.com/track/5V7Gy8FkCKGsVNgvaVssJi) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Bandidona](https://open.spotify.com/album/3FRUYA30mgEKxyHR634UHx) | 2:40 |
+| 22 | [Estrellita](https://open.spotify.com/track/7wv09FSKH9ZBqXkNRKBony) | [Zhamira Zambrano](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3) | [Estrellita](https://open.spotify.com/album/0dSbNOBz88REk7f8SBGXDW) | 2:37 |
+| 23 | [Alcohol](https://open.spotify.com/track/3xBvu2UF8431mbmwsSWkRq) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Sugar Papi](https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH) | 2:51 |
+| 24 | [X'CLUSIVO](https://open.spotify.com/track/0T0Oo2aVRt5a39D3ObeWwm) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [X'CLUSIVO](https://open.spotify.com/album/5RmwLVvsb2oS4K97abdqcy) | 2:55 |
 | 25 | [Olvídala](https://open.spotify.com/track/1btqNfmvNJb24aWwmQCYZB) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D), [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Lluvia: Rain City Vol.2](https://open.spotify.com/album/1d3pKhYKoQ2d32Exs3wTyr) | 2:59 |
 | 26 | [Vas a Destrozarme](https://open.spotify.com/track/0T58JhPBoafZ05W1rIYSKP) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Vas a Destrozarme](https://open.spotify.com/album/62SCTCXiiOVJWw7oxCoa4E) | 2:54 |
 | 27 | [La Depre](https://open.spotify.com/track/0YUH9q1hmcW9QbTYWElH6t) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Depre](https://open.spotify.com/album/4LjAsqNOhbLgWRmwbEYrA4) | 2:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 49 | [Riley](https://open.spotify.com/track/3tQpd0YrAwWK8YGP3aRj8D) | [I AM](https://open.spotify.com/artist/67g2E0HwTkrMj3nPvw46mR) | [Riley \(S\)](https://open.spotify.com/album/3qiAqPoSj9fpCiDLwgENe0) | 2:58 |
 | 50 | [Gira](https://open.spotify.com/track/7hDpEwR09FbmMtp5cYyeoN) | [Alvarezmejia](https://open.spotify.com/artist/5EwgF5JefyGGnsUn6cKuo7), [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Elefante](https://open.spotify.com/album/3xIKLVK61GlkdHojlOxzK3) | 2:58 |
 
-Snapshot ID: `MCwxYWFkYWFkMTRmNzMxNDcwYWE4NzdiMDBlOTAyZWQ0YmRlMzE3OTg0`
+Snapshot ID: `MCwyNjE1MjE1OGJmZTc0N2QwNDc0YjgwNzg2ZTJmZTFlNWM4YzMwMjE4`

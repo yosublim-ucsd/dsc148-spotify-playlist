@@ -1,12 +1,12 @@
 {
   "description": "Flow sudamericano con mhtresuno & Dillom.",
-  "num_followers": 320110,
+  "num_followers": 320139,
   "original_name": "Flow al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWUxMjc3ZmM1ZmMyYzMyNDNiM2M3ZWJlNzZlMWZhMmI1YTc3MmQ5",
+  "snapshot_id": "MCwwYTE5MTlhNGNlYTY2MTZmMTRkYjUyMmY2Yjc1OThlZmI1YWI2MWVk",
   "tracks": [
     {
       "added_at": "2024-01-05 03:00:00",
@@ -391,54 +391,6 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "P\u00e9gate",
-        "url": "https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g"
-      },
-      "artists": [
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        }
-      ],
-      "duration_ms": 186096,
-      "name": "P\u00e9gate",
-      "url": "https://open.spotify.com/track/3E8xyYdIPpiH2wNEozE68I"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
-        "name": "511",
-        "url": "https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 148321,
-      "name": "AL BORDE",
-      "url": "https://open.spotify.com/track/3eOkhJYDaTELGhWHBNbf4A"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
-        "name": "PEINE DE ETE LAO",
-        "url": "https://open.spotify.com/album/5BmYb2XtFh53Jmae9x8j6B"
-      },
-      "artists": [
-        {
-          "name": "Dilon Baby",
-          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
-        }
-      ],
-      "duration_ms": 155144,
-      "name": "PEINE DE ETE LAO",
-      "url": "https://open.spotify.com/track/3qPmdcPp5yVnNjZ2hIlUE4"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
         "name": "EL AFTER DEL AFTER",
         "url": "https://open.spotify.com/album/4XDH5D7YsE7B8xuhIBDyht"
       },
@@ -459,6 +411,54 @@
       "duration_ms": 137559,
       "name": "24/7 6.5",
       "url": "https://open.spotify.com/track/2wjzgkfw4MqYOtPAnREHoL"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        }
+      ],
+      "duration_ms": 186096,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/3E8xyYdIPpiH2wNEozE68I"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
+        "name": "PEINE DE ETE LAO",
+        "url": "https://open.spotify.com/album/5BmYb2XtFh53Jmae9x8j6B"
+      },
+      "artists": [
+        {
+          "name": "Dilon Baby",
+          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
+        }
+      ],
+      "duration_ms": 155144,
+      "name": "PEINE DE ETE LAO",
+      "url": "https://open.spotify.com/track/3qPmdcPp5yVnNjZ2hIlUE4"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
+        "name": "511",
+        "url": "https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 148321,
+      "name": "AL BORDE",
+      "url": "https://open.spotify.com/track/3eOkhJYDaTELGhWHBNbf4A"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "MORNING",
-        "url": "https://open.spotify.com/album/4BTbG5SHgE030stLkqx48q"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 123525,
-      "name": "MORNING",
-      "url": "https://open.spotify.com/track/1dJhW3HRdLnySFEUhf6VRh"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
         "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
         "url": "https://open.spotify.com/album/1RXzQq8DhpkYvvbXE9CqLm"
       },
@@ -619,26 +603,6 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "ALMA",
-        "url": "https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 147603,
-      "name": "8 AM",
-      "url": "https://open.spotify.com/track/5UcWUgWfR2Ir0EXSb1EpoM"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
         "name": "Sauce Boyz 2",
         "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
       },
@@ -659,6 +623,42 @@
       "duration_ms": 211394,
       "name": "Sin Frenos",
       "url": "https://open.spotify.com/track/1b62AO1IzcVr5SOgoguc9o"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
+        "name": "ALMA",
+        "url": "https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 147603,
+      "name": "8 AM",
+      "url": "https://open.spotify.com/track/5UcWUgWfR2Ir0EXSb1EpoM"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
+        "name": "MORNING",
+        "url": "https://open.spotify.com/album/4BTbG5SHgE030stLkqx48q"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 123525,
+      "name": "MORNING",
+      "url": "https://open.spotify.com/track/1dJhW3HRdLnySFEUhf6VRh"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -739,38 +739,6 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "Si Me Sobrara el Tiempo",
-        "url": "https://open.spotify.com/album/7EmOzGGWYSu5sH9CfnItkB"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Si Me Sobrara el Tiempo",
-      "url": "https://open.spotify.com/track/2ypbIXW3a7fsLdLtLpZWDZ"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
-        "name": "Rinc\u00f3n",
-        "url": "https://open.spotify.com/album/1Kq2pzsoVXEtoXaZf0x2RY"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 164810,
-      "name": "Rinc\u00f3n",
-      "url": "https://open.spotify.com/track/4PMi46eDFyLmHKKtVTrDGb"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
         "name": "Mayor Que Yo",
         "url": "https://open.spotify.com/album/3IYDWHpVnmeM5t5Me43iQm"
       },
@@ -783,6 +751,22 @@
       "duration_ms": 160937,
       "name": "Mayor Que Yo",
       "url": "https://open.spotify.com/track/1v3PvIWxBzOCILSy0Kpweu"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
+        "name": "Si Me Sobrara el Tiempo",
+        "url": "https://open.spotify.com/album/7EmOzGGWYSu5sH9CfnItkB"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Si Me Sobrara el Tiempo",
+      "url": "https://open.spotify.com/track/2ypbIXW3a7fsLdLtLpZWDZ"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -803,6 +787,22 @@
       "duration_ms": 197663,
       "name": "Mini Mini",
       "url": "https://open.spotify.com/track/3KI4rfS7kRC58Dd4ToY7P3"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
+        "name": "Rinc\u00f3n",
+        "url": "https://open.spotify.com/album/1Kq2pzsoVXEtoXaZf0x2RY"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 164810,
+      "name": "Rinc\u00f3n",
+      "url": "https://open.spotify.com/track/4PMi46eDFyLmHKKtVTrDGb"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -875,6 +875,26 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
+        "name": "DE LA P*TA",
+        "url": "https://open.spotify.com/album/4EQQS0BePhv05UCnGivIFt"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "duration_ms": 188572,
+      "name": "DE LA P*TA",
+      "url": "https://open.spotify.com/track/6hcCUm6ZQSVtKhpMBT3CNm"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
         "name": "SHERATON",
         "url": "https://open.spotify.com/album/0kfpaS0fOMNNohtRbY7ZxI"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 159482,
       "name": "Nota",
       "url": "https://open.spotify.com/track/2rm9Jixn9sLzTM6PF8u8AH"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
-        "name": "DE LA P*TA",
-        "url": "https://open.spotify.com/album/4EQQS0BePhv05UCnGivIFt"
-      },
-      "artists": [
-        {
-          "name": "Gino Mella",
-          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
-        },
-        {
-          "name": "Jairo Vera",
-          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
-        }
-      ],
-      "duration_ms": 188572,
-      "name": "DE LA P*TA",
-      "url": "https://open.spotify.com/track/6hcCUm6ZQSVtKhpMBT3CNm"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
+        "name": "Baila para Mi",
+        "url": "https://open.spotify.com/album/6YfDEmXLmPFRlz4iScphbu"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        }
+      ],
+      "duration_ms": 164322,
+      "name": "Baila para Mi",
+      "url": "https://open.spotify.com/track/2KxfFzjyd5mpJu66s66w2S"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
         "name": "Mu\u00f1eca",
         "url": "https://open.spotify.com/album/3cBboEvTyis7wuw6viGmaH"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 182603,
       "name": "Mu\u00f1eca",
       "url": "https://open.spotify.com/track/5MxnvIBS4UMUpbZUKQsuNA"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
-        "name": "Baila para Mi",
-        "url": "https://open.spotify.com/album/6YfDEmXLmPFRlz4iScphbu"
-      },
-      "artists": [
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        }
-      ],
-      "duration_ms": 164322,
-      "name": "Baila para Mi",
-      "url": "https://open.spotify.com/track/2KxfFzjyd5mpJu66s66w2S"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -1567,22 +1567,6 @@
       "duration_ms": 113000,
       "name": "No Estoy",
       "url": "https://open.spotify.com/track/4AOxMjHyzzcbjFnHOmd1l7"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
-        "name": "TITAN",
-        "url": "https://open.spotify.com/album/6rR0AsjAGzV4osTjzz4r2i"
-      },
-      "artists": [
-        {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
-        }
-      ],
-      "duration_ms": 122136,
-      "name": "TITAN",
-      "url": "https://open.spotify.com/track/2cR9cH9ta7MStHBKs0aOcz"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -1623,6 +1607,22 @@
       "duration_ms": 177857,
       "name": "Salimo de Noche",
       "url": "https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
+        "name": "TITAN",
+        "url": "https://open.spotify.com/album/6rR0AsjAGzV4osTjzz4r2i"
+      },
+      "artists": [
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        }
+      ],
+      "duration_ms": 122136,
+      "name": "TITAN",
+      "url": "https://open.spotify.com/track/2cR9cH9ta7MStHBKs0aOcz"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -1711,22 +1711,22 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "Nos Comemos (feat. Ozuna)",
-        "url": "https://open.spotify.com/album/1iBXwOCBoWC1LdSxdD0ZlC"
+        "name": "Hood (Remix)",
+        "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
       },
       "artists": [
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         },
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         }
       ],
-      "duration_ms": 191086,
-      "name": "Nos Comemos (feat. Ozuna)",
-      "url": "https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj"
+      "duration_ms": 176372,
+      "name": "Hood - Remix",
+      "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -1747,26 +1747,6 @@
       "duration_ms": 191020,
       "name": "Fashion Girl - Remix",
       "url": "https://open.spotify.com/track/6ECqgyhDZcf6fqlJhSTRhP"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
-        "name": "Hood (Remix)",
-        "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 176372,
-      "name": "Hood - Remix",
-      "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -1811,6 +1791,26 @@
       "duration_ms": 150613,
       "name": "Vengo De La Brea",
       "url": "https://open.spotify.com/track/6ECKufSE72CsQUb3PRNYmq"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
+        "name": "Nos Comemos (feat. Ozuna)",
+        "url": "https://open.spotify.com/album/1iBXwOCBoWC1LdSxdD0ZlC"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 191086,
+      "name": "Nos Comemos (feat. Ozuna)",
+      "url": "https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj"
     },
     {
       "added_at": "2024-01-05 03:00:00",

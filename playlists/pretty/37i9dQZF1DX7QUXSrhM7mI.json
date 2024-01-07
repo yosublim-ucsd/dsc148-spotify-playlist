@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 66348,
+  "num_followers": 66452,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTIzMTEyNzBlMzM5ZTkzNzJkMWI1NjE3N2Y0NDc4ZmZlYTljZDU5",
+  "snapshot_id": "MCxlZjFhMzdmMmY3ZTEyOWQ2OGI3NWZjMDUyNGRkY2QxZWEwOWNjYzQz",
   "tracks": [
     {
       "added_at": "2024-01-03 18:45:59",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-01-03 18:45:59",
       "album": {
-        "name": "The Way I Love You",
-        "url": "https://open.spotify.com/album/5NW9Naf2BWbZFNVMY4mz3B"
-      },
-      "artists": [
-        {
-          "name": "Michal Leah",
-          "url": "https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb"
-        }
-      ],
-      "duration_ms": 152703,
-      "name": "The Way I Love You",
-      "url": "https://open.spotify.com/track/1lzvc17qKf2CyIOSWUEH4p"
-    },
-    {
-      "added_at": "2024-01-03 18:45:59",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 198453,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
+    },
+    {
+      "added_at": "2024-01-03 18:45:59",
+      "album": {
+        "name": "The Way I Love You",
+        "url": "https://open.spotify.com/album/5NW9Naf2BWbZFNVMY4mz3B"
+      },
+      "artists": [
+        {
+          "name": "Michal Leah",
+          "url": "https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb"
+        }
+      ],
+      "duration_ms": 152703,
+      "name": "The Way I Love You",
+      "url": "https://open.spotify.com/track/1lzvc17qKf2CyIOSWUEH4p"
     },
     {
       "added_at": "2024-01-03 18:45:59",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-01-03 18:45:59",
       "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 259592,
+      "name": "Amelie",
+      "url": "https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun"
+    },
+    {
+      "added_at": "2024-01-03 18:45:59",
+      "album": {
         "name": "summer camp",
         "url": "https://open.spotify.com/album/4mO5hcuCZYh8TyVgUjkIvi"
       },
@@ -979,18 +995,18 @@
     {
       "added_at": "2024-01-03 18:45:59",
       "album": {
-        "name": "Good Riddance (Deluxe)",
-        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+        "name": "Girls And Boys",
+        "url": "https://open.spotify.com/album/2115eAMeQ8neIN5PHWwz9Z"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Ingrid Michaelson",
+          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
         }
       ],
-      "duration_ms": 259592,
-      "name": "Amelie",
-      "url": "https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun"
+      "duration_ms": 135386,
+      "name": "The Way I Am",
+      "url": "https://open.spotify.com/track/2E9KlM0BvKZKcZAQRu3OWV"
     },
     {
       "added_at": "2024-01-03 18:45:59",
@@ -1011,22 +1027,6 @@
       "duration_ms": 211567,
       "name": "The Few Things (With Charlotte Lawrence)",
       "url": "https://open.spotify.com/track/7BdXiDH2bPhBuPP2jTwRZB"
-    },
-    {
-      "added_at": "2024-01-03 18:45:59",
-      "album": {
-        "name": "Girls And Boys",
-        "url": "https://open.spotify.com/album/2115eAMeQ8neIN5PHWwz9Z"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Michaelson",
-          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
-        }
-      ],
-      "duration_ms": 135386,
-      "name": "The Way I Am",
-      "url": "https://open.spotify.com/track/2E9KlM0BvKZKcZAQRu3OWV"
     },
     {
       "added_at": "2024-01-03 18:45:59",

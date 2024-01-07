@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x0KLud2Zf0.md) - [plain]
 
 > La pluma sensible detrás de tus favoritas de regional mexicano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,317 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,375 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x0KLud2Zf0.md) - [plain]
 | 14 | [Mi Segunda Vida](https://open.spotify.com/track/6Z7f0BXDLI8k4CHR9KJdAD) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Gracias Por Creer](https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz) | 3:07 |
 | 15 | [Sigue](https://open.spotify.com/track/3xFlC7hbHZdXEIVDjpCbTR) | [Banda Sinaloense MS de Sergio Lizárraga](https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP) | [Mi Razón De Ser](https://open.spotify.com/album/3OoJLeyo9pK8V2zov6Hkgw) | 2:17 |
 | 16 | [A Través del Vaso](https://open.spotify.com/track/1x5Fqllow3ngr5euK3hXSw) | [Grupo Arranke](https://open.spotify.com/artist/1A773r2lVYAnmt8uwb5BOu) | [A Través del Vaso](https://open.spotify.com/album/7vT5aK4tV66WR8OH16gKjn) | 3:08 |
-| 17 | [El Antes Y El Después](https://open.spotify.com/track/6P89ndGzxFpxtdbzhRoVdn) | [La Poderosa Banda San Juan](https://open.spotify.com/artist/3U1u6ytK0DaM89dqiVxB0u) | [El Antes Y El Después](https://open.spotify.com/album/4JPGULe879NrRFAQi1YSJ0) | 3:03 |
-| 18 | [Me Cambiaste la Vida](https://open.spotify.com/track/1OCre5vxYq2Vk1wfFsTWE1) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Al Fin Te Encontré](https://open.spotify.com/album/1JfMi4WASZMLUUgcMxHhb6) | 3:54 |
+| 17 | [Me Cambiaste la Vida](https://open.spotify.com/track/1OCre5vxYq2Vk1wfFsTWE1) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Al Fin Te Encontré](https://open.spotify.com/album/1JfMi4WASZMLUUgcMxHhb6) | 3:54 |
+| 18 | [El Antes Y El Después](https://open.spotify.com/track/6P89ndGzxFpxtdbzhRoVdn) | [La Poderosa Banda San Juan](https://open.spotify.com/artist/3U1u6ytK0DaM89dqiVxB0u) | [El Antes Y El Después](https://open.spotify.com/album/4JPGULe879NrRFAQi1YSJ0) | 3:03 |
 | 19 | [Mi Meta Contigo](https://open.spotify.com/track/5DSreXbE3u1VUtVeSiqlnn) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [En Vida](https://open.spotify.com/album/4ERCLcA2hl98lbwkOeqcYz) | 3:08 |
 | 20 | [Todo Porque Te Amo](https://open.spotify.com/track/2W2mcZJZ250M9fSk0S1hKA) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ) | [Sinaloense Hasta Las Cachas](https://open.spotify.com/album/6ywfmakEc2cj9eAJFfLEzf) | 3:34 |
 | 21 | [Hermosa Experiencia](https://open.spotify.com/track/6GTX6TGcHEWHoxHXPSVbJ2) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [10º Aniversario](https://open.spotify.com/album/2i6q4YYCAdOgdODbbhyKdk) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x0KLud2Zf0.md) - [plain]
 | 99 | [De Ti Exclusivo](https://open.spotify.com/track/5jTONxXzG2oRzc6gveGELN) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Singles](https://open.spotify.com/album/3XiBZ63yqMHNklPLIiIAMx) | 3:17 |
 | 100 | [Te Prometo](https://open.spotify.com/track/0xdbp4HOKeuVkuTu1WfI41) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Irreversible..\. 2012](https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF) | 3:42 |
 
-Snapshot ID: `MCxlYzc3NGEzM2UxYWNlMmZhYzRmNmIwN2EwNTQ3OWE0MTYwMzkyZDhm`
+Snapshot ID: `MCxiZmZhMzM1ZDYyOTBlZGNhYjAxODI0MWU0ZDMzZTkxMDhlNWJlNDQ4`

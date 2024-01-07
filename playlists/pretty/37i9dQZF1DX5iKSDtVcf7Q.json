@@ -1,12 +1,12 @@
 {
   "description": "Music paying tribute to the Heartland of America.",
-  "num_followers": 255602,
+  "num_followers": 255743,
   "original_name": "Heartland Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjIzYmZlMzU1NzQ4ODY4YmIzMjRjYmZjZGVmYjVkNDJjY2VlNWRh",
+  "snapshot_id": "MCw1MTM0NzVkZjU5ZGM0MDMzMTQzZjZiNTliYjM2MTE0ZjUxNjkzM2Q1",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Halfway To Heaven (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p"
+        "name": "Pure Country",
+        "url": "https://open.spotify.com/album/5K0Ic5xrsWbWzlDFse0KCX"
       },
       "artists": [
         {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 225746,
-      "name": "Kick It In The Sticks",
-      "url": "https://open.spotify.com/track/01ZepwW5W3Z4fwl4bzaHyY"
+      "duration_ms": 138160,
+      "name": "Heartland - Pure Country/Soundtrack Version",
+      "url": "https://open.spotify.com/track/0U4R6UqrJo43TmImPku9H8"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Pure Country",
-        "url": "https://open.spotify.com/album/5K0Ic5xrsWbWzlDFse0KCX"
+        "name": "Halfway To Heaven (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
         }
       ],
-      "duration_ms": 138160,
-      "name": "Heartland - Pure Country/Soundtrack Version",
-      "url": "https://open.spotify.com/track/0U4R6UqrJo43TmImPku9H8"
+      "duration_ms": 225746,
+      "name": "Kick It In The Sticks",
+      "url": "https://open.spotify.com/track/01ZepwW5W3Z4fwl4bzaHyY"
     },
     {
       "added_at": "2023-10-06 04:00:00",

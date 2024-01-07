@@ -4,7 +4,7 @@
 
 > wru? OTW! Cover: Charlie Lim
 
-739 songs - 1 day 20 hr 24 min
+739 songs - 1 day 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Cukup](https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Cukup](https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr) | 3:40 | 2023-09-15 |  |
 | [Cukuplah](https://open.spotify.com/track/67Waz67okfBOlMVpg1UitI) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [A.R](https://open.spotify.com/album/5Jearm6TNWQC1QF2pu7ojR) | 3:34 | 2023-11-24 | 2023-12-02 |
 | [Cyber Ritual](https://open.spotify.com/track/0HWDVGsXnDgrZvLuMQjF8t) | [Jasmine Sokko](https://open.spotify.com/artist/3risOBDAx6GGVaCcBuhswz) | [Cyber Ritual](https://open.spotify.com/album/0kkyz2SNUP7xK0srH2Tl8S) | 2:40 | 2023-12-08 | 2023-12-15 |
-| [Dag Dig Dug](https://open.spotify.com/track/1VbdFxbe3Bt41FGVe4gI8x) | [Alessa](https://open.spotify.com/artist/6KPOKd7taNna1xLsfpalli) | [Alessa](https://open.spotify.com/album/0HH8oiW48EN0Q3z42GKLcS) | 3:20 | 2023-12-21 |  |
+| [Dag Dig Dug](https://open.spotify.com/track/1VbdFxbe3Bt41FGVe4gI8x) | [Alessa](https://open.spotify.com/artist/6KPOKd7taNna1xLsfpalli) | [Alessa](https://open.spotify.com/album/0HH8oiW48EN0Q3z42GKLcS) | 3:52 | 2023-12-21 |  |
 | [Dah Bagi](https://open.spotify.com/track/0M5s6bACgTh9nTRO6hR9oE) | [Zynakal](https://open.spotify.com/artist/3Cs5QQYz6pMhbEKaBNCtfi) | [INI AKU](https://open.spotify.com/album/429fzbnYOVktk7X0sOLxiU) | 2:39 | 2023-10-19 | 2023-10-28 |
 | [Dalam Kegelapan](https://open.spotify.com/track/2xOYIEwmoFznsAg3VLrsXW) | [Adira](https://open.spotify.com/artist/0yCt8bNxkVdXFtCjTA5TLh) | [25 Rasul](https://open.spotify.com/album/4SzU250wIW1mWoWp7qMU3p) | 4:09 | 2023-03-24 | 2023-05-05 |
 | [damai](https://open.spotify.com/track/105xhd7hg95C3DlEczChRU) | [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [damai](https://open.spotify.com/album/33HANwlr58QfWVi771AUSk) | 3:20 | 2023-05-11 | 2023-05-19 |

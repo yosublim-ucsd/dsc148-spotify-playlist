@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Jessica Mauboy
 
-2,514 songs - 5 day 15 hr 39 min
+2,515 songs - 5 day 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1788,7 +1788,8 @@
 | [Recognise](https://open.spotify.com/track/3pSWQ24fg2vpztNWDnmmEd) | [A.GIRL](https://open.spotify.com/artist/3oy9LLKC0pjYsIVAi7GHVW) | [Recognise](https://open.spotify.com/album/3IBOaTaigBQHkd4utBPVel) | 3:37 | 2023-12-07 | 2023-12-15 |
 | [Recognise](https://open.spotify.com/track/6mCKVjxyqC5O0GKtqtosxf) | [Big Skeez](https://open.spotify.com/artist/0N4XZEiYb7RIeIN0lsmVMu) | [Work Don't Stop](https://open.spotify.com/album/26n8k9MuAovnfJ5AXRJ69R) | 4:11 | 2023-11-09 | 2023-11-17 |
 | [Red Line](https://open.spotify.com/track/29krnrIKOJb3WhTnbAbVrH) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Red Line](https://open.spotify.com/album/19E2SGlAcEG2dpCPwH5DLy) | 3:48 | 2023-08-10 | 2023-08-18 |
-| [Redline \- InHer Room](https://open.spotify.com/track/1fduKAIbqiCeIQjdInGwOz) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Redline \(InHer Room\)](https://open.spotify.com/album/5cF0sx3gtWtvWQj01eOHen) | 3:22 | 2023-12-21 |  |
+| [Redline \- InHer Room](https://open.spotify.com/track/1fduKAIbqiCeIQjdInGwOz) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Redline \(InHer Room\)](https://open.spotify.com/album/5cF0sx3gtWtvWQj01eOHen) | 3:22 | 2023-12-21 | 2024-01-07 |
+| [Redline \- InHer Room](https://open.spotify.com/track/1w4iW3Bv2BmowTKzE7tORe) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [InHer Room](https://open.spotify.com/album/4yuCd5c4U8IWNPgL671vlx) | 3:22 | 2023-12-21 |  |
 | [REDO @ LUV](https://open.spotify.com/track/5yLlpDxwLnmF93KjTksOxX) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [REDO @ LUV](https://open.spotify.com/album/7L3VBLVIEpqLYP2eZb1eCK) | 2:26 | 2023-07-13 | 2023-07-21 |
 | [Reeling](https://open.spotify.com/track/5ZedcMLQyupqFo6dvs1nPE) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov) | [Reeling](https://open.spotify.com/album/0eoFJG4xSmNzGeJLn52W7e) | 3:27 | 2023-10-12 | 2023-10-20 |
 | [Reflex \- from Le Palace, Paris](https://open.spotify.com/track/0TzACnLtCopbsE7A8cSq3O) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Reflex \- from Le Palace, Paris](https://open.spotify.com/album/4OLmlFr1RLVRDWBVB9hu4H) | 5:34 | 2023-09-07 | 2023-09-15 |

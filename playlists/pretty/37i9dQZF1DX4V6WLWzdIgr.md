@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 
 > Sedihe koyo ngene, nggak bahaya ta? 😢
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,534 likes - 59 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,875 likes - 59 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 | 58 | [Tetep Neng Ati](https://open.spotify.com/track/6U4LPOlk6I3c6WGnyV5ZPq) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Om Wawes](https://open.spotify.com/album/4sgIDlQTDTvuMBvC1dicp1) | 5:08 |
 | 59 | [Lilakno Lungaku](https://open.spotify.com/track/6eQL36g0j3GlofcGauLJH7) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/1sf4AWv0GiLGTzRrfAhgDA) | 5:35 |
 
-Snapshot ID: `MCxhMzgyYThiMDJiNTMyMGM4MWI1YjU3NDU4YTY3ZWVhZjJlODIzMTUz`
+Snapshot ID: `MCxhNDUzYWNjNDA0YTJhZmI0ZWY3N2Q1M2YxNWIyZmNiN2U2NWIzMTA5`

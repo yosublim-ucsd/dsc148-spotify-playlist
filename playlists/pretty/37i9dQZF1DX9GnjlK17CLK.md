@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 
 > Plugged in and cranked up; the hottest Blues records from an amplified era\. Cover: B.B\. King.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,595 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,749 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 | 59 | [My Love Strikes Like Lightning](https://open.spotify.com/track/2axI8LbwG6EoLn57lofGQv) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Electric Blues: 1970s](https://open.spotify.com/album/23BKgXWnm0VUcPGugv7Rue) | 4:10 |
 | 60 | [4:59am](https://open.spotify.com/track/4mKYXnWs3NLCK8VSSqJdv3) | [Little Milton](https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan) | [Blues 100](https://open.spotify.com/album/3jU0cukuViSuOm3EqTaOQe) | 4:43 |
 
-Snapshot ID: `MCw1YWQ2NDgwZGUyOGIxY2Q3NmU0ZmE2MjRhYjk5ZDlhN2M0YzZmOWZk`
+Snapshot ID: `MCwzNzQ2Y2UyOTAxOTRmOTI2ZDQxMGEzZmMyMDcwYmYyMzc2YzAwYjA1`

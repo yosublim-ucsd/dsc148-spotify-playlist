@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDRmNDRhMmQyNDg3NGFjZWYzNjY2NTIwOWVjMzk1NDVjOTIxYzFh",
+  "snapshot_id": "MCw1MDUwYzdiZDMyNTlhZjNhOTVmYTZiOWE3NGY1NzU2ODQ5ZjQ5ZGY0",
   "tracks": [
     {
       "added_at": "2023-12-15 09:57:03",
@@ -379,26 +379,6 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
-        "name": "Noche De Halloween",
-        "url": "https://open.spotify.com/album/6PT21KgYvTicvn4vgAWwpr"
-      },
-      "artists": [
-        {
-          "name": "KYOTTO",
-          "url": "https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd"
-        },
-        {
-          "name": "mauvetrip",
-          "url": "https://open.spotify.com/artist/5tGSRe3Dn91WESmIuRssIR"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Noche De Halloween",
-      "url": "https://open.spotify.com/track/5wNaN0pQR09RT9qJrI5hJS"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
         "name": "Myspace",
         "url": "https://open.spotify.com/album/4e7FjD0RXSRgRsPYdcc0Sl"
       },
@@ -411,22 +391,6 @@
       "duration_ms": 204000,
       "name": "Myspace",
       "url": "https://open.spotify.com/track/51iKD7bo0AT1o8kF5qFEuT"
-    },
-    {
-      "added_at": "2023-12-22 16:09:17",
-      "album": {
-        "name": "La boca aigua",
-        "url": "https://open.spotify.com/album/4O89ZOWZTSBnHErFVYGWPI"
-      },
-      "artists": [
-        {
-          "name": "Renaldo & Clara",
-          "url": "https://open.spotify.com/artist/29eGrPvxOuFDGOyOUi3RLq"
-        }
-      ],
-      "duration_ms": 119200,
-      "name": "Encaix",
-      "url": "https://open.spotify.com/track/7jkZx2Ye8l2zONmWv9RQw6"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -447,6 +411,42 @@
       "duration_ms": 169750,
       "name": "debo dejar de fumar",
       "url": "https://open.spotify.com/track/23ALSFU0TSYIf4Hp2IZdpG"
+    },
+    {
+      "added_at": "2023-12-22 16:09:17",
+      "album": {
+        "name": "La boca aigua",
+        "url": "https://open.spotify.com/album/4O89ZOWZTSBnHErFVYGWPI"
+      },
+      "artists": [
+        {
+          "name": "Renaldo & Clara",
+          "url": "https://open.spotify.com/artist/29eGrPvxOuFDGOyOUi3RLq"
+        }
+      ],
+      "duration_ms": 119200,
+      "name": "Encaix",
+      "url": "https://open.spotify.com/track/7jkZx2Ye8l2zONmWv9RQw6"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
+        "name": "Noche De Halloween",
+        "url": "https://open.spotify.com/album/6PT21KgYvTicvn4vgAWwpr"
+      },
+      "artists": [
+        {
+          "name": "KYOTTO",
+          "url": "https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd"
+        },
+        {
+          "name": "mauvetrip",
+          "url": "https://open.spotify.com/artist/5tGSRe3Dn91WESmIuRssIR"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Noche De Halloween",
+      "url": "https://open.spotify.com/track/5wNaN0pQR09RT9qJrI5hJS"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
-        "name": "Cuando Te Veo Pasar",
-        "url": "https://open.spotify.com/album/3ZHBsywOrpe87mkmrlUEwm"
-      },
-      "artists": [
-        {
-          "name": "Vanity Vercetti",
-          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
-        }
-      ],
-      "duration_ms": 134697,
-      "name": "Cuando Te Veo Pasar",
-      "url": "https://open.spotify.com/track/0zRtCkIs4ktQucQnwlAnv0"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
         "name": "PAPARAZZI",
         "url": "https://open.spotify.com/album/7uU3gcOvJ5uOx8HNdqwAkc"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 134574,
       "name": "PAPARAZZI",
       "url": "https://open.spotify.com/track/5xB4Rq7ZviNQ1gXTnJQhif"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
+        "name": "Cuando Te Veo Pasar",
+        "url": "https://open.spotify.com/album/3ZHBsywOrpe87mkmrlUEwm"
+      },
+      "artists": [
+        {
+          "name": "Vanity Vercetti",
+          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
+        }
+      ],
+      "duration_ms": 134697,
+      "name": "Cuando Te Veo Pasar",
+      "url": "https://open.spotify.com/track/0zRtCkIs4ktQucQnwlAnv0"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -771,22 +771,22 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
-        "name": "LA ESKINA DEL ESTANKE",
-        "url": "https://open.spotify.com/album/2VukIjOu9AXoe66SxCFJTF"
+        "name": "Palante",
+        "url": "https://open.spotify.com/album/0sBRsyQk7EbELxvb4nTcrr"
       },
       "artists": [
         {
-          "name": "alequi",
-          "url": "https://open.spotify.com/artist/4Rg6w1AZFPOeY8SurpUTPH"
+          "name": "El Virtual",
+          "url": "https://open.spotify.com/artist/1M6Haz9vxliXQXeVO49CSY"
         },
         {
-          "name": "cyber666",
-          "url": "https://open.spotify.com/artist/7GXNxwLHUMNNNuu11UiFs6"
+          "name": "Valley Fresh On Sauce",
+          "url": "https://open.spotify.com/artist/1yij0rXHCHACWoIJVBjULZ"
         }
       ],
-      "duration_ms": 190158,
-      "name": "SONRISAS & L\u00c1GRIMAS",
-      "url": "https://open.spotify.com/track/5iov0X5z1uz67GVrbQswaL"
+      "duration_ms": 111552,
+      "name": "Palante",
+      "url": "https://open.spotify.com/track/2IsaQLwwY53fruOUKyhlw9"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -815,22 +815,22 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
-        "name": "Palante",
-        "url": "https://open.spotify.com/album/0sBRsyQk7EbELxvb4nTcrr"
+        "name": "LA ESKINA DEL ESTANKE",
+        "url": "https://open.spotify.com/album/2VukIjOu9AXoe66SxCFJTF"
       },
       "artists": [
         {
-          "name": "El Virtual",
-          "url": "https://open.spotify.com/artist/1M6Haz9vxliXQXeVO49CSY"
+          "name": "alequi",
+          "url": "https://open.spotify.com/artist/4Rg6w1AZFPOeY8SurpUTPH"
         },
         {
-          "name": "Valley Fresh On Sauce",
-          "url": "https://open.spotify.com/artist/1yij0rXHCHACWoIJVBjULZ"
+          "name": "cyber666",
+          "url": "https://open.spotify.com/artist/7GXNxwLHUMNNNuu11UiFs6"
         }
       ],
-      "duration_ms": 111552,
-      "name": "Palante",
-      "url": "https://open.spotify.com/track/2IsaQLwwY53fruOUKyhlw9"
+      "duration_ms": 190158,
+      "name": "SONRISAS & L\u00c1GRIMAS",
+      "url": "https://open.spotify.com/track/5iov0X5z1uz67GVrbQswaL"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
-        "name": "ALAS Y GARRAS",
-        "url": "https://open.spotify.com/album/1jGCunUecbzbpPS0vyJdbt"
-      },
-      "artists": [
-        {
-          "name": "Andrea Mir",
-          "url": "https://open.spotify.com/artist/6i4kEOvhG0iB0JhqY2r4vf"
-        }
-      ],
-      "duration_ms": 194560,
-      "name": "TE MISSEO",
-      "url": "https://open.spotify.com/track/3bi8iYbc7r3cfiAJWc4INV"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
         "name": "L\u00aa N\u00aave",
         "url": "https://open.spotify.com/album/2krXsG88F9yuWO0lrw80ar"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 144544,
       "name": "L\u00aa N\u00aave",
       "url": "https://open.spotify.com/track/2Qn5ZSdjOunwUFEaifjWhU"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
+        "name": "ALAS Y GARRAS",
+        "url": "https://open.spotify.com/album/1jGCunUecbzbpPS0vyJdbt"
+      },
+      "artists": [
+        {
+          "name": "Andrea Mir",
+          "url": "https://open.spotify.com/artist/6i4kEOvhG0iB0JhqY2r4vf"
+        }
+      ],
+      "duration_ms": 194560,
+      "name": "TE MISSEO",
+      "url": "https://open.spotify.com/track/3bi8iYbc7r3cfiAJWc4INV"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
+        "name": "Lun\u00e1tico",
+        "url": "https://open.spotify.com/album/71icODq6GLIj9NQpU5XJWx"
+      },
+      "artists": [
+        {
+          "name": "New Boix",
+          "url": "https://open.spotify.com/artist/4IACNJzFCAIe9W5lVBUsvI"
+        }
+      ],
+      "duration_ms": 154701,
+      "name": "Otra Noche de Verano",
+      "url": "https://open.spotify.com/track/2NYc4s8dBf5nBhlXRaydlq"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
         "name": "Antipanico",
         "url": "https://open.spotify.com/album/0qx9VjT1iZaz7NGLNbqQ9W"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 186075,
       "name": "Antipanico",
       "url": "https://open.spotify.com/track/70zOMyUetEcZus2MknoWMI"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
-        "name": "Lun\u00e1tico",
-        "url": "https://open.spotify.com/album/71icODq6GLIj9NQpU5XJWx"
-      },
-      "artists": [
-        {
-          "name": "New Boix",
-          "url": "https://open.spotify.com/artist/4IACNJzFCAIe9W5lVBUsvI"
-        }
-      ],
-      "duration_ms": 154701,
-      "name": "Otra Noche de Verano",
-      "url": "https://open.spotify.com/track/2NYc4s8dBf5nBhlXRaydlq"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -1463,18 +1463,26 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
-        "name": "PURGATORIO",
-        "url": "https://open.spotify.com/album/6VIEndH3EFAVPvCUhlZWtl"
+        "name": "#Killaocore 2",
+        "url": "https://open.spotify.com/album/4CtwI2YxtVF5Lb318YpdND"
       },
       "artists": [
         {
-          "name": "Espineli",
-          "url": "https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f"
+          "name": "Los Killaos",
+          "url": "https://open.spotify.com/artist/0aZJT7L4XMdYIlEMs7WEFs"
+        },
+        {
+          "name": "Mart\u00edn Ma\u00f1as",
+          "url": "https://open.spotify.com/artist/7bvDLoSwAlwOA0ZmuPrqpq"
+        },
+        {
+          "name": "lichi",
+          "url": "https://open.spotify.com/artist/0Rqma40PbiNVJ3vkpGLpOF"
         }
       ],
-      "duration_ms": 118904,
-      "name": "MICPAPALOTL",
-      "url": "https://open.spotify.com/track/13PBhn5XdUPYty1ErFsru3"
+      "duration_ms": 144000,
+      "name": "YNKHM (feat. Martin Ma\u00f1as & lichi)",
+      "url": "https://open.spotify.com/track/5x3Dw81qHc2qADmwkrbWPc"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -1503,26 +1511,18 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
-        "name": "#Killaocore 2",
-        "url": "https://open.spotify.com/album/4CtwI2YxtVF5Lb318YpdND"
+        "name": "PURGATORIO",
+        "url": "https://open.spotify.com/album/6VIEndH3EFAVPvCUhlZWtl"
       },
       "artists": [
         {
-          "name": "Los Killaos",
-          "url": "https://open.spotify.com/artist/0aZJT7L4XMdYIlEMs7WEFs"
-        },
-        {
-          "name": "Mart\u00edn Ma\u00f1as",
-          "url": "https://open.spotify.com/artist/7bvDLoSwAlwOA0ZmuPrqpq"
-        },
-        {
-          "name": "lichi",
-          "url": "https://open.spotify.com/artist/0Rqma40PbiNVJ3vkpGLpOF"
+          "name": "Espineli",
+          "url": "https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f"
         }
       ],
-      "duration_ms": 144000,
-      "name": "YNKHM (feat. Martin Ma\u00f1as & lichi)",
-      "url": "https://open.spotify.com/track/5x3Dw81qHc2qADmwkrbWPc"
+      "duration_ms": 118904,
+      "name": "MICPAPALOTL",
+      "url": "https://open.spotify.com/track/13PBhn5XdUPYty1ErFsru3"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
-        "name": "Psicomaniatico",
-        "url": "https://open.spotify.com/album/6ajDjodbTeLPz06fT5m2yr"
-      },
-      "artists": [
-        {
-          "name": "MYKKA",
-          "url": "https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa"
-        }
-      ],
-      "duration_ms": 137865,
-      "name": "Psicomaniatico",
-      "url": "https://open.spotify.com/track/7IcdOMAiDvntNktQzLyv6M"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
         "name": "Es Un Placer Conocerte",
         "url": "https://open.spotify.com/album/1AwLP3aCyVDW7WT770AVqz"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 160075,
       "name": "Es Un Placer Conocerte",
       "url": "https://open.spotify.com/track/2M1bRGK3o1VKEFXqQLHceM"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
+        "name": "Psicomaniatico",
+        "url": "https://open.spotify.com/album/6ajDjodbTeLPz06fT5m2yr"
+      },
+      "artists": [
+        {
+          "name": "MYKKA",
+          "url": "https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa"
+        }
+      ],
+      "duration_ms": 137865,
+      "name": "Psicomaniatico",
+      "url": "https://open.spotify.com/track/7IcdOMAiDvntNktQzLyv6M"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
+        "name": "HYPER PUC",
+        "url": "https://open.spotify.com/album/3VkmZxyLYOuSeBqhKYwJBP"
+      },
+      "artists": [
+        {
+          "name": "Eva Puc",
+          "url": "https://open.spotify.com/artist/2zA0HW4T836wu7h3atnUiO"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "Un Techno",
+      "url": "https://open.spotify.com/track/48zjy7vkY1ODmJZTTb463A"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
         "name": "no lo volver\u00e9 a hacer",
         "url": "https://open.spotify.com/album/6PSAYNmG1mMnHK4R9erHwl"
       },
@@ -1679,18 +1695,18 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
-        "name": "HYPER PUC",
-        "url": "https://open.spotify.com/album/3VkmZxyLYOuSeBqhKYwJBP"
+        "name": "EP4 \u00b7 (\u30ce^_^)\u30ce\"",
+        "url": "https://open.spotify.com/album/0tIGN2hTEIjaAnxM4qfZ1f"
       },
       "artists": [
         {
-          "name": "Eva Puc",
-          "url": "https://open.spotify.com/artist/2zA0HW4T836wu7h3atnUiO"
+          "name": "Guayaba",
+          "url": "https://open.spotify.com/artist/5MOE8DFWAHa51a5gKzz78m"
         }
       ],
-      "duration_ms": 130285,
-      "name": "Un Techno",
-      "url": "https://open.spotify.com/track/48zjy7vkY1ODmJZTTb463A"
+      "duration_ms": 200000,
+      "name": "mis amigos! \u30fd(\u00b4\u25bd\uff40)\u30ce\"",
+      "url": "https://open.spotify.com/track/6UH3GhaBcPyQ4Gs2T66VeS"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -1711,22 +1727,6 @@
       "duration_ms": 171428,
       "name": "X Siempre",
       "url": "https://open.spotify.com/track/7bMcgJ2lc3h0nuByItkANE"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
-        "name": "EP4 \u00b7 (\u30ce^_^)\u30ce\"",
-        "url": "https://open.spotify.com/album/0tIGN2hTEIjaAnxM4qfZ1f"
-      },
-      "artists": [
-        {
-          "name": "Guayaba",
-          "url": "https://open.spotify.com/artist/5MOE8DFWAHa51a5gKzz78m"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "mis amigos! \u30fd(\u00b4\u25bd\uff40)\u30ce\"",
-      "url": "https://open.spotify.com/track/6UH3GhaBcPyQ4Gs2T66VeS"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
+        "name": "tamagotchi",
+        "url": "https://open.spotify.com/album/5tBPoDajcUY3wf4pnBJfMV"
+      },
+      "artists": [
+        {
+          "name": "Lil Zhark",
+          "url": "https://open.spotify.com/artist/3FI7NS91eeSjBP3V0znDuB"
+        }
+      ],
+      "duration_ms": 105100,
+      "name": "tamagotchi",
+      "url": "https://open.spotify.com/track/72QyKS10NvfMYszzFMYWzj"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
         "name": "Nunca Volver\u00e9",
         "url": "https://open.spotify.com/album/3vxvkDcg2URhGDXisMLlte"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 143816,
       "name": "Nunca Volver\u00e9",
       "url": "https://open.spotify.com/track/2PMY1TcOrXGITmbKgwUeoK"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
-        "name": "tamagotchi",
-        "url": "https://open.spotify.com/album/5tBPoDajcUY3wf4pnBJfMV"
-      },
-      "artists": [
-        {
-          "name": "Lil Zhark",
-          "url": "https://open.spotify.com/artist/3FI7NS91eeSjBP3V0znDuB"
-        }
-      ],
-      "duration_ms": 105100,
-      "name": "tamagotchi",
-      "url": "https://open.spotify.com/track/72QyKS10NvfMYszzFMYWzj"
     },
     {
       "added_at": "2023-12-15 09:57:03",

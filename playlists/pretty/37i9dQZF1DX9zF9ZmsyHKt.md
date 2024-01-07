@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > Grandes vozes da música brasileira de hoje e de ontem reunidas em uma única playlist\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,813 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,877 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Quando Você Olha Pra Ela](https://open.spotify.com/track/50c0knPGjaJAuE4hRg28Qq) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Estratosférica](https://open.spotify.com/album/5NnAoeNFYhB4ypfoEX8e6H) | 4:27 |
 | 2 | [Equalize](https://open.spotify.com/track/2iUxWUv5TovjBmayOcWohB) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [Admirável Chip Novo](https://open.spotify.com/album/6t9HEcqxPe5dsIlHyYwATK) | 3:52 |
 | 3 | [Infiel \- Ao Vivo](https://open.spotify.com/track/38MpAndIjGAyVdcC6npX95) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Marília Mendonça \- Ao Vivo](https://open.spotify.com/album/0qy6yZjgoZ2cGGk9joy8E4) | 3:21 |
-| 4 | [Medo Bobo \- Ao Vivo](https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha) | 2:54 |
-| 5 | [menina solta](https://open.spotify.com/track/2MOq63fxuFLYQM3CsDcFs1) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [menina solta](https://open.spotify.com/album/5FRPzvOEvmhNvIHMwBp6nR) | 2:30 |
+| 4 | [menina solta](https://open.spotify.com/track/2MOq63fxuFLYQM3CsDcFs1) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [menina solta](https://open.spotify.com/album/5FRPzvOEvmhNvIHMwBp6nR) | 2:30 |
+| 5 | [Medo Bobo \- Ao Vivo](https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha) | 2:54 |
 | 6 | [Água de Beber](https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:18 |
 | 7 | [Viva Voz \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/track/1jomN1tLiPE5eGd9siFJYE) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Livre \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf) | 2:44 |
 | 8 | [Ai, Amor](https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [O Tempo É Agora](https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj) | 3:40 |
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 13 | [Cabide](https://open.spotify.com/track/6Uhnj8W9qflWLavYUfHkPJ) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Menino do Rio](https://open.spotify.com/album/48katkMd5Hkb14rUEgo0YO) | 2:33 |
 | 14 | [Mania De Você](https://open.spotify.com/track/6owwZC8gUvrBuygvOHaYXb) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Lee](https://open.spotify.com/album/1WN3eZOVfULIjZfxdsfoMO) | 4:55 |
 | 15 | [Dona Cila](https://open.spotify.com/track/4eGOBCZyjEQ6WckqOVz0ES) | [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Maria Gadú](https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF) | 3:31 |
-| 16 | [Trem\-Bala](https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Trem\-Bala](https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF) | 3:00 |
-| 17 | [Minha Felicidade](https://open.spotify.com/track/6vARbzVXg90V8fYmgks5u3) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Todo Caminho É Sorte \(álbum Comentado\)](https://open.spotify.com/album/1M3RZvnxDHr86aXG0eXIZS) | 3:49 |
+| 16 | [Minha Felicidade](https://open.spotify.com/track/6vARbzVXg90V8fYmgks5u3) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Todo Caminho É Sorte \(álbum Comentado\)](https://open.spotify.com/album/1M3RZvnxDHr86aXG0eXIZS) | 3:49 |
+| 17 | [Trem\-Bala](https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Trem\-Bala](https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF) | 3:00 |
 | 18 | [Devolva\-Me \(Ao Vivo\)](https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:11 |
 | 19 | [Bixinho](https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 3:25 |
 | 20 | [50 Reais](https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [50 Reais](https://open.spotify.com/album/6h6dMRdrULxgTAcDUPoQa6) | 3:27 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 88 | [Baldin de Gelo](https://open.spotify.com/track/2sv7wfMG7h8EJl3j2KxTGZ) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Baldin de Gelo](https://open.spotify.com/album/2u554H05WIo4j2nMB7IRc9) | 2:47 |
 | 89 | [Você Pra Mim](https://open.spotify.com/track/2vqdtqRq1EY4cMwX9FkDCz) | [Fernanda Abreu](https://open.spotify.com/artist/23T5kuXiRZWsH5w1lxowMh) | [Sla Radical Dance Disco Club](https://open.spotify.com/album/0HHFfVAOIzKegm7pCAjHAh) | 4:27 |
 | 90 | [nós 2](https://open.spotify.com/track/7vuxXAyqByxkVdM2jqu0Jh) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Mais Que os Olhos Podem Ver](https://open.spotify.com/album/5T9bHYvkePyb0WkBA6Wduz) | 3:06 |
-| 91 | [Suave Veneno](https://open.spotify.com/track/2k2BtYRni9BvDHXAMUFABR) | [Nana Caymmi](https://open.spotify.com/artist/1hQT9TlJXMBP6Dy4lExSKn) | [Os Maiores Sucessos De Novela De Nana Caymmi](https://open.spotify.com/album/5nvNEdnPjIRY2feHGlpYU8) | 2:58 |
-| 92 | [Frank Ocean](https://open.spotify.com/track/1YfAhV5hYhxhVdi0sTVh9b) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Beijo De Judas](https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd) | 2:33 |
+| 91 | [Frank Ocean](https://open.spotify.com/track/1YfAhV5hYhxhVdi0sTVh9b) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Beijo De Judas](https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd) | 2:33 |
+| 92 | [Suave Veneno](https://open.spotify.com/track/2k2BtYRni9BvDHXAMUFABR) | [Nana Caymmi](https://open.spotify.com/artist/1hQT9TlJXMBP6Dy4lExSKn) | [Os Maiores Sucessos De Novela De Nana Caymmi](https://open.spotify.com/album/5nvNEdnPjIRY2feHGlpYU8) | 2:58 |
 | 93 | [Louca](https://open.spotify.com/track/40taoSSjzKnymwcc5NJVOj) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp) | [Louca](https://open.spotify.com/album/5nistd67S4SRwZ84CD8BwH) | 2:39 |
 | 94 | [Eu Amo Você](https://open.spotify.com/track/0NhJfWTezhboBET4DCXNO5) | [Ana Cañas](https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz) | [TODXS](https://open.spotify.com/album/4lfWlZdnEh4RDZk8qxmK8b) | 4:29 |
 | 95 | [Preta de Quebrada](https://open.spotify.com/track/0s0BuLqPzqSH1rrXB04bQf) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Eletrocardiograma](https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 99 | [Quem Vai Quem Vem](https://open.spotify.com/track/5Jkl4ADkfDH5mHgx3sM0m1) | [Cátia de França](https://open.spotify.com/artist/0Pn49e9KBqcekfXpSAGgAM) | [Vinte Palavras ao Redor do Sol](https://open.spotify.com/album/1ZBQq9OK0WC1Ti35wLNhgi) | 3:03 |
 | 100 | [Delírio](https://open.spotify.com/track/6xljIkWM1sM84RPw4coZWZ) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Delírio](https://open.spotify.com/album/6xOlwAGA7rxAzBfOzkWLhU) | 2:54 |
 
-Snapshot ID: `MCw3NzZiMTJhYTBmYTE4NDliZmUyMzgyM2VmYjliZmE1MDQ0Mzc1YzA5`
+Snapshot ID: `MCxhZDRjZjAzMjdlYWIyODI1Njg4OGZhZDYyZmQwZGZjN2NmMzFkOGEz`

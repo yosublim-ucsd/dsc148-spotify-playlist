@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 
 > Las nuevas vibras del rock en español\. Cover: Walls & Bruses
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,725 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,743 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 23 | [La Petite Mort](https://open.spotify.com/track/7iMayPLY1pzjCNMfq6lDfd) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [La Petite Mort](https://open.spotify.com/album/6urO9ecFFR0oQV39kicYRd) | 4:51 |
 | 24 | [Jaula de Oro](https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Jaula de Oro](https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv) | 3:58 |
 | 25 | [Si En Tu Mente Estuve](https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 3:11 |
-| 26 | [Alaska](https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Alaska](https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr) | 4:18 |
-| 27 | [Perdido](https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 4:07 |
+| 26 | [Perdido](https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 4:07 |
+| 27 | [Alaska](https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Alaska](https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr) | 4:18 |
 | 28 | [RAMONA FLOWERS](https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [RAMONA FLOWERS](https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am) | 3:01 |
 | 29 | [Mi Mejor Versión](https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Mi Mejor Versión](https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3) | 3:21 |
 | 30 | [Lo Siento](https://open.spotify.com/track/7j0k11HlS0Xemv5tAQw4GV) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Lo Siento](https://open.spotify.com/album/4IuGpxnXOixlrvvA8Q3ruQ) | 3:33 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 33 | [EL PEOR](https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [EL PEOR](https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv) | 1:54 |
 | 34 | [Nublado \(feat\. Travis Barker\)](https://open.spotify.com/track/5p5CzJAFaStkaqrQhkYpBT) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 2:57 |
 | 35 | [Domingo](https://open.spotify.com/track/2v1Oi3AGWynVMJJLqUYte8) | [Los Flakos](https://open.spotify.com/artist/5Spl3u7hKTO5Osv8XNs4Ah) | [Los Flakos](https://open.spotify.com/album/7HKY2rqTIBUBZAuFfDWcUv) | 3:32 |
-| 36 | [Nuestros mundos no obedecen a tus mapas](https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Greta Garbo](https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn) | 3:35 |
-| 37 | [La Tormenta](https://open.spotify.com/track/09j88EP4RqMgLMYfjN7gRn) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [La Tormenta](https://open.spotify.com/album/3uaWfKbZZf88LBucb3Wxi2) | 3:00 |
+| 36 | [La Tormenta](https://open.spotify.com/track/09j88EP4RqMgLMYfjN7gRn) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [La Tormenta](https://open.spotify.com/album/3uaWfKbZZf88LBucb3Wxi2) | 3:00 |
+| 37 | [Nuestros mundos no obedecen a tus mapas](https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Greta Garbo](https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn) | 3:35 |
 | 38 | [novio del año](https://open.spotify.com/track/40lKiE4aIosLiD5NmMeZm1) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [novio del año](https://open.spotify.com/album/63x4EQFAEBFAPvmfkklkrn) | 2:34 |
 | 39 | [Echao’ a perder](https://open.spotify.com/track/0UqHiphvidOqxY3IxKSejM) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Echao’ a perder](https://open.spotify.com/album/37vSNbeXR46dfgii1nAWRx) | 2:48 |
 | 40 | [Algo Me Dice](https://open.spotify.com/track/78q1JXZIlanqIhzvBotVfM) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Algo Me Dice](https://open.spotify.com/album/4jQdqasrV1LvDcTs2Nln6v) | 4:17 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 48 | [Vuelta en U](https://open.spotify.com/track/2uSQpyjWJpSaoxjc27VAZ3) | [Señor Kino](https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [Vuelta en U](https://open.spotify.com/album/2XQUbze1bkSR86N8XbAOEy) | 3:02 |
 | 49 | [Dos](https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Dos](https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ) | 2:57 |
 | 50 | [Cuesta Arriba](https://open.spotify.com/track/2sSKTls9xVXRnVUe0g8v6O) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Cuesta Arriba](https://open.spotify.com/album/3jcbZuDgzNIyoFllQhpmIU) | 2:44 |
-| 51 | [Suéltate el pelo](https://open.spotify.com/track/3MGZVhOFo5ihrcUjFkE8mb) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Suéltate el pelo](https://open.spotify.com/album/3Qz4Fa379ez2RFvMp4sXWz) | 2:51 |
-| 52 | [Lo Que Nadie Supo Dar](https://open.spotify.com/track/2vjbQMwQNPqkqqtjFRRiVA) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Instinto Felino](https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV) | 3:08 |
+| 51 | [Lo Que Nadie Supo Dar](https://open.spotify.com/track/2vjbQMwQNPqkqqtjFRRiVA) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Instinto Felino](https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV) | 3:08 |
+| 52 | [Suéltate el pelo](https://open.spotify.com/track/3MGZVhOFo5ihrcUjFkE8mb) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Suéltate el pelo](https://open.spotify.com/album/3Qz4Fa379ez2RFvMp4sXWz) | 2:51 |
 | 53 | [Lo Que Hay Dentro de Mí](https://open.spotify.com/track/7A06ah5X99giuAenkTYEmB) | [Malmö 040](https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP) | [Lo Que Hay Dentro de Mí](https://open.spotify.com/album/316NI8b87YKjLzhbThMcjX) | 3:10 |
 | 54 | [Prometimos](https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Narvarte](https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI) | 3:13 |
 | 55 | [Sólo Eres Tú](https://open.spotify.com/track/0EqWWA2CnRwcJIt7czGB5Z) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Sólo Eres Tú](https://open.spotify.com/album/2Pa9kp6NPUH9H2Af0TTbVg) | 3:53 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 67 | [Despídete Bien](https://open.spotify.com/track/01VQjDzfxV3E7YeBVZ9hdI) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Despídete Bien](https://open.spotify.com/album/31P64T0u8ksncgTZwPZ1Np) | 3:12 |
 | 68 | [Cansado de estar triste](https://open.spotify.com/track/0KhvJklV4bqAuXwFLEEX3x) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Cansado de estar triste](https://open.spotify.com/album/65JzMj5NQD539KQ0FzGBU2) | 2:55 |
 | 69 | [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 |
-| 70 | [Celosa](https://open.spotify.com/track/5A20apPrPKV8sNfUzrIQV7) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj) | [Celosa](https://open.spotify.com/album/7GAcSbOAokzBKUrW6ORmSB) | 4:22 |
-| 71 | [Mechero](https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Mechero](https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK) | 2:35 |
+| 70 | [Mechero](https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Mechero](https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK) | 2:35 |
+| 71 | [Celosa](https://open.spotify.com/track/5A20apPrPKV8sNfUzrIQV7) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj) | [Celosa](https://open.spotify.com/album/7GAcSbOAokzBKUrW6ORmSB) | 4:22 |
 | 72 | [Toda Mi Fe](https://open.spotify.com/track/4xv8YtHeOHydpg3Y6OYkUQ) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Ocho](https://open.spotify.com/album/4jie4ait51UVZs4khjF1CP) | 3:19 |
-| 73 | [LÁ LÁ](https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [LÁ LÁ](https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x) | 2:44 |
-| 74 | [FLASHBACKS](https://open.spotify.com/track/26Frme7h8IxAkzfFp7rUSS) | [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [FLASHBACKS](https://open.spotify.com/album/2eX3VTEufyr7HyraJAJh3p) | 2:53 |
+| 73 | [FLASHBACKS](https://open.spotify.com/track/26Frme7h8IxAkzfFp7rUSS) | [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [FLASHBACKS](https://open.spotify.com/album/2eX3VTEufyr7HyraJAJh3p) | 2:53 |
+| 74 | [LÁ LÁ](https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [LÁ LÁ](https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x) | 2:44 |
 | 75 | [Gris](https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Gris](https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG) | 3:09 |
 
-Snapshot ID: `MCwxYjNlMzVlNzZhNDUzMzRlZGViOWVjYmM4MmJjMTRkYTYyMDZiMWI0`
+Snapshot ID: `MCxmZmJjYjFkMWVhZjc2MjBkNzE1MDVlNTY0MGRmM2IwNTRlNmM5ZWJl`

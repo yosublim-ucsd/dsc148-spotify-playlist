@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Lệ Quyên
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,592 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,619 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 28 | [Lk: Đêm Tâm Sự \- Hai Lối Mộng](https://open.spotify.com/track/7691UfR9dcTLMJIh3MUz7D) | [Thanh Thúy](https://open.spotify.com/artist/6oO3gusjsenDOQn8RDr5JS) | [Tiếng Ca U Hoài](https://open.spotify.com/album/4JsHbGogTL0bKygS0bhRPi) | 4:25 |
 | 29 | [Chiều Tây Đô](https://open.spotify.com/track/4AI14CynUc9CGne8oRbdCi) | [Hoàng Oanh](https://open.spotify.com/artist/2ztKQFCq6NdVbjWLq33H7o) | [Ai Nhớ Chăng Ai](https://open.spotify.com/album/6ejaYB328yZGYlnvJzdM9B) | 4:55 |
 | 30 | [Hoa Lòng Anh Vẫn Tím](https://open.spotify.com/track/1Oza0WjJTZarmRU1nfpyQ1) | [Mạnh Quỳnh](https://open.spotify.com/artist/3KTUDQL8OV9Sv6mvLJpS5W) | [Hoa Lòng Anh Vẫn Tím](https://open.spotify.com/album/01FKRYpfJ2QQKu8bQFe9f9) | 5:39 |
-| 31 | [Thành Phố Buồn](https://open.spotify.com/track/3mAckDAkkd1U21obGu0zA9) | [Chế Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Thói Đời](https://open.spotify.com/album/2P4uN9x0YGoB5upe2QzH42) | 5:04 |
+| 31 | [Con Đường Xưa Em Đi](https://open.spotify.com/track/1SqPuyurBgZXwhIj2oP2lU) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw) | [Rừng Lá Thay Chưa](https://open.spotify.com/album/6KJ9jm4HTPwsW3ydfDHGJ6) | 4:52 |
 | 32 | [Tôi Vẫn Nhớ](https://open.spotify.com/track/4cTNZLlfPUIbcyuX6al1KV) | [Mạnh Quỳnh](https://open.spotify.com/artist/3KTUDQL8OV9Sv6mvLJpS5W), [Khả Tú](https://open.spotify.com/artist/4icTNm7NAspqaHEg3sOQ92) | [Tôi Vẫn Nhớ](https://open.spotify.com/album/3VaWEO92yk388ukseURs0s) | 5:10 |
 | 33 | [Tạ từ trong đêm](https://open.spotify.com/track/5zCjoKAQHtJa2ptwGuxj6Y) | [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn), [Hà Thanh Xuân](https://open.spotify.com/artist/5dJC6sFNciDahBR0AeaGvH) | [Nhớ Người Yêu \(Valentine Tình Yêu\)](https://open.spotify.com/album/6G6BT8WT2ObEJJ9QTZ5Vh6) | 4:37 |
-| 34 | [Con Đường Xưa Em Đi](https://open.spotify.com/track/1SqPuyurBgZXwhIj2oP2lU) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw) | [Rừng Lá Thay Chưa](https://open.spotify.com/album/6KJ9jm4HTPwsW3ydfDHGJ6) | 4:52 |
+| 34 | [Thành Phố Buồn](https://open.spotify.com/track/3mAckDAkkd1U21obGu0zA9) | [Chế Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Thói Đời](https://open.spotify.com/album/2P4uN9x0YGoB5upe2QzH42) | 5:04 |
 | 35 | [Nếu Anh Đừng Hẹn](https://open.spotify.com/track/41YNKpjBJX2gLnOmpechl9) | [Thiên Quang](https://open.spotify.com/artist/58mUjJjKQywcSmunX8z30H), [Quỳnh Trang](https://open.spotify.com/artist/76p6SuLTYuJutQQYcXMgbw) | [Liên Khúc Tình Ngăn Đôi Bờ \- Làm Dâu Xứ Lạ](https://open.spotify.com/album/70nnkUM4u5qqcNuH1xCaUF) | 5:30 |
 | 36 | [Hoa Trinh Nữ](https://open.spotify.com/track/1e3XVECaKioH2FdzNM83Fk) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Bolero Edition](https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL) | 5:59 |
 | 37 | [Vùng Lá Me Bay](https://open.spotify.com/track/5xG5J77DVCO4Kln8UCllJD) | [Dương Hồng Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI) | [Tuyển Tập Các Ca Khúc Trữ Tình Dương Hồng Loan](https://open.spotify.com/album/1geEbghr8ji6MxvCgQdSaL) | 4:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 49 | [Mùa Xuân Đó Có Em](https://open.spotify.com/track/5upOJADeXfN0FDRQcIbYfm) | [Chế Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Xuân Tha Hương Xuân Lạc Xứ](https://open.spotify.com/album/3E7RCcMsmi8kTbTj9n1RS4) | 4:12 |
 | 50 | [Nối Lại Tình Xưa](https://open.spotify.com/track/1ujKrLvdQiLhgq2rUb3koa) | [Hoài Lâm](https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW) | [Cô Bé Ngày Xưa](https://open.spotify.com/album/43xJtGh0nNxV7ICzdRtAHS) | 4:15 |
 
-Snapshot ID: `MCw5Y2E1NTI2ZGUwZThmZTM2OTJjMDJhMGI0OWZiN2U2M2Y5M2Y4ZTEy`
+Snapshot ID: `MCxkOTdhZTQ4NjgwNDFmYzZkYzUwNTE3Nzc1ZmJkOGRkNDIxOTE1YzNm`

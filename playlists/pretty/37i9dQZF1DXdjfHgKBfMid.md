@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjfHgKBfMid.md) - [plain]
 
 > 💃🏽🕺🏼🪇🎺🪘
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,166 likes - 45 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,281 likes - 45 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [TULUM](https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:29 |
 | 2 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 |
-| 3 | [Un Finde \| CROSSOVER \#2](https://open.spotify.com/track/3tiJUOfAEqIrLFRQgGgdoY) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Un Finde \| CROSSOVER \#2](https://open.spotify.com/album/7cAfD0HludcAifXAbcIR80) | 2:42 |
-| 4 | [La Bachata](https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 2:42 |
+| 3 | [La Bachata](https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 2:42 |
+| 4 | [Un Finde \| CROSSOVER \#2](https://open.spotify.com/track/3tiJUOfAEqIrLFRQgGgdoY) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Un Finde \| CROSSOVER \#2](https://open.spotify.com/album/7cAfD0HludcAifXAbcIR80) | 2:42 |
 | 5 | [La Morocha](https://open.spotify.com/track/7aPsseax6rNFyipHn9A5CR) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [La Morocha](https://open.spotify.com/album/1cNasYwHwTr9U5QFNNXd61) | 2:14 |
 | 6 | [Linda \- Remix](https://open.spotify.com/track/7HrgGbnNKZKhBL70aFKpXk) | [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [Linda \(Remix\)](https://open.spotify.com/album/31O1cXWZUf4yRC28MwJ1wb) | 3:54 |
 | 7 | [Ni Una Ni Dos](https://open.spotify.com/track/0H9WU0OIXPpbOVgzzOanXb) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Ni Una Ni Dos](https://open.spotify.com/album/2BrbrEMfRYAMmNPprw4Jey) | 2:38 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjfHgKBfMid.md) - [plain]
 | 44 | [Muchacha Sola](https://open.spotify.com/track/2aJTAFg1QZ4o7ftICW3Zcu) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8) | 3:27 |
 | 45 | [Noche De Estrellas](https://open.spotify.com/track/5Cbwmcp3bFIM9u5QDlrviR) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Un Fenómeno Natural](https://open.spotify.com/album/1kGqRwzx7Z0519BTQigZxy) | 3:34 |
 
-Snapshot ID: `MCwxYWM5YWQ5NjU2ZGUwODYzNTM4M2NiYWM2ZDFkZGU2NDM0NWY0NmUw`
+Snapshot ID: `MCw5MTdmNjI3ODdkYTk3NTRmYTY1MjA5MDA5MWU2OTM2NTQzZGJlNDlj`

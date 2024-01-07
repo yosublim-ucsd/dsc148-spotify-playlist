@@ -1,12 +1,12 @@
 {
   "description": "2019\u5e74\u306b\u5e55\u3092\u958b\u3051\u305f\u4ee4\u548c\u3002\u30b9\u30c8\u30ea\u30fc\u30df\u30f3\u30b0\u3084\u52d5\u753b\u30b5\u30a4\u30c8\u3067\u306e\u30d0\u30a4\u30e9\u30eb\u304c\u5f71\u97ff\u529b\u3092\u5897\u3057\u3001\u793e\u4f1a\u60c5\u52e2\u3084\u4fa1\u5024\u89b3\u304c\u6fc0\u52d5\u3057\u3066\u3044\u308b\"\u30cb\u30e5\u30fc\u30ce\u30fc\u30de\u30eb\"\u306a\u6642\u4ee3\u306e\u30dd\u30c3\u30d7\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3002",
-  "num_followers": 272382,
+  "num_followers": 272579,
   "original_name": "\u4ee4\u548c\u30dd\u30c3\u30d7\u30b9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDA5YjgyYmMzYWI3NTNjNzAwNzgyNmEzYjEwOThhZjdlNzU4Yzgx",
+  "snapshot_id": "MCwyNWU4MmQxZjMzMTBiZTE4ODhhZjIwNDcxYzViZWMxOTAwYjc2N2Nj",
   "tracks": [
     {
       "added_at": "2024-01-04 15:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-01-04 15:00:00",
       "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 164952,
-      "name": "Butter",
-      "url": "https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS"
-    },
-    {
-      "added_at": "2024-01-04 15:00:00",
-      "album": {
         "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
         "url": "https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 199333,
       "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
       "url": "https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg"
+    },
+    {
+      "added_at": "2024-01-04 15:00:00",
+      "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 164952,
+      "name": "Butter",
+      "url": "https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS"
     },
     {
       "added_at": "2024-01-04 15:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-01-04 15:00:00",
       "album": {
-        "name": "NIGHT DANCER",
-        "url": "https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 210948,
-      "name": "NIGHT DANCER",
-      "url": "https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro"
-    },
-    {
-      "added_at": "2024-01-04 15:00:00",
-      "album": {
         "name": "Formula of Love: O+T=<3",
         "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 198053,
       "name": "The Feels",
       "url": "https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe"
+    },
+    {
+      "added_at": "2024-01-04 15:00:00",
+      "album": {
+        "name": "NIGHT DANCER",
+        "url": "https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 210948,
+      "name": "NIGHT DANCER",
+      "url": "https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro"
     },
     {
       "added_at": "2024-01-04 15:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-01-04 15:00:00",
       "album": {
+        "name": "BETWEEN 1&2",
+        "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 177466,
+      "name": "Talk that Talk",
+      "url": "https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq"
+    },
+    {
+      "added_at": "2024-01-04 15:00:00",
+      "album": {
         "name": "ZONE",
         "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
       },
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2024-01-04 15:00:00",
       "album": {
-        "name": "Better Things",
-        "url": "https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 203216,
-      "name": "Better Things",
-      "url": "https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl"
-    },
-    {
-      "added_at": "2024-01-04 15:00:00",
-      "album": {
         "name": "Show",
         "url": "https://open.spotify.com/album/0cVYRAqfYmIquJbmgUMTXH"
       },
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2024-01-04 15:00:00",
       "album": {
-        "name": "BETWEEN 1&2",
-        "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
+        "name": "Better Things",
+        "url": "https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 177466,
-      "name": "Talk that Talk",
-      "url": "https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq"
+      "duration_ms": 203216,
+      "name": "Better Things",
+      "url": "https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl"
     },
     {
       "added_at": "2024-01-04 15:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-01-04 15:00:00",
       "album": {
+        "name": "FANCY YOU",
+        "url": "https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 213880,
+      "name": "FANCY",
+      "url": "https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt"
+    },
+    {
+      "added_at": "2024-01-04 15:00:00",
+      "album": {
         "name": "Proof",
         "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
       },
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2024-01-04 15:00:00",
       "album": {
-        "name": "Mainstream",
-        "url": "https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j"
-      },
-      "artists": [
-        {
-          "name": "BE:FIRST",
-          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
-        }
-      ],
-      "duration_ms": 207053,
-      "name": "Mainstream",
-      "url": "https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA"
-    },
-    {
-      "added_at": "2024-01-04 15:00:00",
-      "album": {
         "name": "Biri-Biri",
         "url": "https://open.spotify.com/album/1hxB0L2PCz5d5jQl2s39Sz"
       },
@@ -1303,22 +1303,6 @@
       "duration_ms": 187325,
       "name": "Biri-Biri",
       "url": "https://open.spotify.com/track/3X9N36jB8FtTkzTCkIFi4u"
-    },
-    {
-      "added_at": "2024-01-04 15:00:00",
-      "album": {
-        "name": "FANCY YOU",
-        "url": "https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 213880,
-      "name": "FANCY",
-      "url": "https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt"
     },
     {
       "added_at": "2024-01-04 15:00:00",
@@ -1339,6 +1323,22 @@
     {
       "added_at": "2024-01-04 15:00:00",
       "album": {
+        "name": "Mainstream",
+        "url": "https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "duration_ms": 207053,
+      "name": "Mainstream",
+      "url": "https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA"
+    },
+    {
+      "added_at": "2024-01-04 15:00:00",
+      "album": {
         "name": "SEVENTEEN 4th Album Repackage 'SECTOR 17'",
         "url": "https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750"
       },
@@ -1351,6 +1351,22 @@
       "duration_ms": 178453,
       "name": "_WORLD",
       "url": "https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC"
+    },
+    {
+      "added_at": "2024-01-04 15:00:00",
+      "album": {
+        "name": "READY TO BE",
+        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "SET ME FREE",
+      "url": "https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1"
     },
     {
       "added_at": "2024-01-04 15:00:00",
@@ -1387,6 +1403,22 @@
     {
       "added_at": "2024-01-04 15:00:00",
       "album": {
+        "name": "WINTER WITHOUT YOU",
+        "url": "https://open.spotify.com/album/19mxFJfGlthz0Gmg9AiguM"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 243520,
+      "name": "WINTER WITHOUT YOU",
+      "url": "https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L"
+    },
+    {
+      "added_at": "2024-01-04 15:00:00",
+      "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
       },
@@ -1403,22 +1435,6 @@
     {
       "added_at": "2024-01-04 15:00:00",
       "album": {
-        "name": "READY TO BE",
-        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "SET ME FREE",
-      "url": "https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1"
-    },
-    {
-      "added_at": "2024-01-04 15:00:00",
-      "album": {
         "name": "GAME PLAN",
         "url": "https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 160578,
       "name": "Fast Forward",
       "url": "https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d"
-    },
-    {
-      "added_at": "2024-01-04 15:00:00",
-      "album": {
-        "name": "WINTER WITHOUT YOU",
-        "url": "https://open.spotify.com/album/19mxFJfGlthz0Gmg9AiguM"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 243520,
-      "name": "WINTER WITHOUT YOU",
-      "url": "https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L"
     },
     {
       "added_at": "2024-01-04 15:00:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2024-01-04 15:00:00",
       "album": {
+        "name": "READY TO BE",
+        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "MOONLIGHT SUNRISE",
+      "url": "https://open.spotify.com/track/5IN9W6eUfk3014My9awagX"
+    },
+    {
+      "added_at": "2024-01-04 15:00:00",
+      "album": {
         "name": "THE SECOND STEP : CHAPTER ONE",
         "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 213995,
       "name": "People Pt.2 (feat. IU)",
       "url": "https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF"
-    },
-    {
-      "added_at": "2024-01-04 15:00:00",
-      "album": {
-        "name": "READY TO BE",
-        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "MOONLIGHT SUNRISE",
-      "url": "https://open.spotify.com/track/5IN9W6eUfk3014My9awagX"
     },
     {
       "added_at": "2024-01-04 15:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-01-04 15:00:00",
       "album": {
-        "name": "NEW DANCE",
-        "url": "https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 198520,
-      "name": "NEW DANCE",
-      "url": "https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh"
-    },
-    {
-      "added_at": "2024-01-04 15:00:00",
-      "album": {
         "name": "\u6b8b\u97ff\u6563\u6b4c",
         "url": "https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 184893,
       "name": "\u6b8b\u97ff\u6563\u6b4c",
       "url": "https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO"
+    },
+    {
+      "added_at": "2024-01-04 15:00:00",
+      "album": {
+        "name": "NEW DANCE",
+        "url": "https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "NEW DANCE",
+      "url": "https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh"
     }
   ],
   "unique_name": "\u4ee4\u548c\u30dd\u30c3\u30d7\u30b9",

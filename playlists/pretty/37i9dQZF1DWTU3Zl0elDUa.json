@@ -1,12 +1,12 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Kenny Dope and Little Louie Vega",
-  "num_followers": 329967,
+  "num_followers": 330228,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzFmNzlkZGMxMWE1NGZlY2NmMWNhNjUwZjkyMTQyMzM1ZTNjMDYw",
+  "snapshot_id": "MCxmYmIwMWExYjE4NWU0Nzg5YzUzZDdiODEyZjEwMjRhODVlOGFmZWUw",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -647,26 +647,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Pasilda (Extended Versions)",
-        "url": "https://open.spotify.com/album/7qCEf8CrHVD4C5uyPsTFT2"
-      },
-      "artists": [
-        {
-          "name": "Afro Medusa",
-          "url": "https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI"
-        },
-        {
-          "name": "Knee Deep",
-          "url": "https://open.spotify.com/artist/51iQEVj0SBCQZJVrNli23R"
-        }
-      ],
-      "duration_ms": 426000,
-      "name": "Pasilda - Knee Deep Club Mix",
-      "url": "https://open.spotify.com/track/2vhLsN2p6FHPPm4LfEBB3N"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "You Don't Know Me (feat. Duane Harden)",
         "url": "https://open.spotify.com/album/62vJ3t4nZ50SigVCT6TUwb"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 493560,
       "name": "You Don't Know Me (feat. Duane Harden)",
       "url": "https://open.spotify.com/track/6j7Fdvi61J0qwjqh1OPeFM"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Pasilda (Extended Versions)",
+        "url": "https://open.spotify.com/album/7qCEf8CrHVD4C5uyPsTFT2"
+      },
+      "artists": [
+        {
+          "name": "Afro Medusa",
+          "url": "https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI"
+        },
+        {
+          "name": "Knee Deep",
+          "url": "https://open.spotify.com/artist/51iQEVj0SBCQZJVrNli23R"
+        }
+      ],
+      "duration_ms": 426000,
+      "name": "Pasilda - Knee Deep Club Mix",
+      "url": "https://open.spotify.com/track/2vhLsN2p6FHPPm4LfEBB3N"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Hideaway / That Look - Single",
-        "url": "https://open.spotify.com/album/3bOj4oy7pdxaVlNYUIfHdk"
-      },
-      "artists": [
-        {
-          "name": "De'Lacy",
-          "url": "https://open.spotify.com/artist/3PAtCGZK9u5tIBERu4y5ho"
-        }
-      ],
-      "duration_ms": 211960,
-      "name": "Hideaway - Deep Dish Radio Edit",
-      "url": "https://open.spotify.com/track/2bpmisazTQ49QpLMGZGp1X"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Rich in Paradise (Going Back to My Roots)",
         "url": "https://open.spotify.com/album/4XTPgyDIA0ve6BUPAH03A8"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 351373,
       "name": "Rich in Paradise (Going Back to My Roots) - Vocal Remix",
       "url": "https://open.spotify.com/track/7aetPME2AVagb4pKlIVbHM"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Hideaway / That Look - Single",
+        "url": "https://open.spotify.com/album/3bOj4oy7pdxaVlNYUIfHdk"
+      },
+      "artists": [
+        {
+          "name": "De'Lacy",
+          "url": "https://open.spotify.com/artist/3PAtCGZK9u5tIBERu4y5ho"
+        }
+      ],
+      "duration_ms": 211960,
+      "name": "Hideaway - Deep Dish Radio Edit",
+      "url": "https://open.spotify.com/track/2bpmisazTQ49QpLMGZGp1X"
     },
     {
       "added_at": "2023-08-18 04:00:00",

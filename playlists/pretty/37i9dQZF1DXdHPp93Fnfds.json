@@ -1,12 +1,12 @@
 {
   "description": "Son j\u00f3venes, guerreras y cool. Foto: Kirnbauer, Joaquina Mertz, Mar\u00eda Centeno & Noa Sainz.",
-  "num_followers": 147109,
+  "num_followers": 147111,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2ZiY2JjMDBiOTgxYWRjMjkzNjdjM2VhZTE2YzZhYWZkNzk5ZjJh",
+  "snapshot_id": "MCwyOGM1ZjQ5MzdiMjUxOWUxZDJmN2IzNGVmMmE0ODRhZGE4NDNlNWM1",
   "tracks": [
     {
       "added_at": "2023-12-15 03:00:00",
@@ -71,22 +71,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Esta podr\u00eda ser la se\u00f1al",
-        "url": "https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE"
-      },
-      "artists": [
-        {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
-        }
-      ],
-      "duration_ms": 77890,
-      "name": "Timba",
-      "url": "https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Camino Que Pasa",
         "url": "https://open.spotify.com/album/2A8gutTW0ZnIgz4mX7P1Zl"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 180157,
       "name": "Camino Que Pasa",
       "url": "https://open.spotify.com/track/5qrVNXz5lCpjPnjAagWl6U"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Esta podr\u00eda ser la se\u00f1al",
+        "url": "https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE"
+      },
+      "artists": [
+        {
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
+        }
+      ],
+      "duration_ms": 77890,
+      "name": "Timba",
+      "url": "https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "He comprado \u2741",
-        "url": "https://open.spotify.com/album/4g8gmnPaXz8l59vmKLGPML"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "He comprado \u2741",
-      "url": "https://open.spotify.com/track/6z1PKqF3jdLP24olrQnCbE"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Lo Que Fue",
         "url": "https://open.spotify.com/album/4FVSZPUptXmNGninasYFhT"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 220953,
       "name": "Luna Blanca",
       "url": "https://open.spotify.com/track/57GkmWpXWgfKZQda8LjdXj"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "He comprado \u2741",
+        "url": "https://open.spotify.com/album/4g8gmnPaXz8l59vmKLGPML"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "He comprado \u2741",
+      "url": "https://open.spotify.com/track/6z1PKqF3jdLP24olrQnCbE"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 209746,
-      "name": "Clandestina - Spotify Singles",
-      "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "llorando en la luna",
         "url": "https://open.spotify.com/album/4HMsUrIj0suIB94rokDgcj"
       },
@@ -979,18 +963,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Peque\u00f1as Esperanzas",
-        "url": "https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
       },
       "artists": [
         {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 200238,
-      "name": "Peque\u00f1as Esperanzas",
-      "url": "https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr"
+      "duration_ms": 209746,
+      "name": "Clandestina - Spotify Singles",
+      "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1015,18 +999,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Como Antes",
-        "url": "https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT"
+        "name": "Peque\u00f1as Esperanzas",
+        "url": "https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K"
       },
       "artists": [
         {
-          "name": "Lara91k",
-          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
         }
       ],
-      "duration_ms": 147808,
-      "name": "Fuckgurl",
-      "url": "https://open.spotify.com/track/4ju0wieDNcKjTdPMYCnye2"
+      "duration_ms": 200238,
+      "name": "Peque\u00f1as Esperanzas",
+      "url": "https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1059,6 +1043,22 @@
       "duration_ms": 229531,
       "name": "Toda la Noche",
       "url": "https://open.spotify.com/track/4JqzimmrHYg2yOXY37SfwV"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT"
+      },
+      "artists": [
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        }
+      ],
+      "duration_ms": 147808,
+      "name": "Fuckgurl",
+      "url": "https://open.spotify.com/track/4ju0wieDNcKjTdPMYCnye2"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Running Up That Hill - Spotify Singles",
-        "url": "https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v"
-      },
-      "artists": [
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
-        }
-      ],
-      "duration_ms": 220005,
-      "name": "Running Up That Hill - Spotify Singles",
-      "url": "https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Como Bailan los Dem\u00e1s",
         "url": "https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF"
       },
@@ -1175,8 +1159,24 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Nuestros Besos",
-        "url": "https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J"
+        "name": "Running Up That Hill - Spotify Singles",
+        "url": "https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v"
+      },
+      "artists": [
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+        }
+      ],
+      "duration_ms": 220005,
+      "name": "Running Up That Hill - Spotify Singles",
+      "url": "https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "UN N\u00daMERO",
+        "url": "https://open.spotify.com/album/2zh0d8IFJfVvUTWnGlW1up"
       },
       "artists": [
         {
@@ -1184,25 +1184,9 @@
           "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
         }
       ],
-      "duration_ms": 247500,
-      "name": "Nuestros Besos",
-      "url": "https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Suspiros",
-        "url": "https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg"
-      },
-      "artists": [
-        {
-          "name": "Valeria Jasso",
-          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
-        }
-      ],
-      "duration_ms": 155744,
-      "name": "Suspiros",
-      "url": "https://open.spotify.com/track/1CejnNpFZ8TSYrIZxEOzgu"
+      "duration_ms": 103656,
+      "name": "DNI",
+      "url": "https://open.spotify.com/track/6XbgaRsf6hnl4dQJOtktrU"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1223,6 +1207,22 @@
       "duration_ms": 184256,
       "name": "Con Mi Amiga",
       "url": "https://open.spotify.com/track/4BKlOSA4wnaqaqcGDrHucE"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Suspiros",
+        "url": "https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg"
+      },
+      "artists": [
+        {
+          "name": "Valeria Jasso",
+          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
+        }
+      ],
+      "duration_ms": 155744,
+      "name": "Suspiros",
+      "url": "https://open.spotify.com/track/1CejnNpFZ8TSYrIZxEOzgu"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Formas",
-        "url": "https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF"
-      },
-      "artists": [
-        {
-          "name": "Entr\u00f3pica",
-          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "Formas",
-      "url": "https://open.spotify.com/track/7vAw49sXkEZJzrbd5gqfrd"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Y vos dec\u00eds que me gust\u00e1s",
         "url": "https://open.spotify.com/album/56CQFLi5i54v0mgfbzrV4q"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 153320,
       "name": "Y vos dec\u00eds que me gust\u00e1s",
       "url": "https://open.spotify.com/track/39Zdm7as5HOcbIkvIQBqLD"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Formas",
+        "url": "https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF"
+      },
+      "artists": [
+        {
+          "name": "Entr\u00f3pica",
+          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Formas",
+      "url": "https://open.spotify.com/track/7vAw49sXkEZJzrbd5gqfrd"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1315,8 +1315,8 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "UN N\u00daMERO",
-        "url": "https://open.spotify.com/album/2zh0d8IFJfVvUTWnGlW1up"
+        "name": "Nuestros Besos",
+        "url": "https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J"
       },
       "artists": [
         {
@@ -1324,9 +1324,9 @@
           "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
         }
       ],
-      "duration_ms": 103656,
-      "name": "DNI",
-      "url": "https://open.spotify.com/track/6XbgaRsf6hnl4dQJOtktrU"
+      "duration_ms": 247500,
+      "name": "Nuestros Besos",
+      "url": "https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ"
     },
     {
       "added_at": "2023-12-15 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Hanifah, Doug O.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,395 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,426 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 51 | [Conexão](https://open.spotify.com/track/162nE0evxH5RWNWIBPALmk) | [Coimbra](https://open.spotify.com/artist/5LdNCH2d2i6B3wb7jSPEAy), [Cibelle Aguiar](https://open.spotify.com/artist/3H3sS2mT49ihOlKR4EiEpu) | [Conexão](https://open.spotify.com/album/2rN91P7qGJ70V5cFO3Hl43) | 2:36 |
 | 52 | [Uma Chance](https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO) | [Crod](https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j) | [Uma Chance Pra Ficar Tudo bem](https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3) | 2:34 |
 | 53 | [Sobrenome](https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW) | [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT), [Dodoin](https://open.spotify.com/artist/4I0iZ0003sCk7k5eHKzKh1) | [Sobrenome](https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7) | 2:14 |
-| 54 | [Lingerie Branca](https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS) | [MOTICO MONEY](https://open.spotify.com/artist/0ZYRu4jdS871PkQvvt5MFe) | [Lingerie Branca](https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z) | 3:59 |
+| 54 | [Redial](https://open.spotify.com/track/5n4Htpe8iRavkKE0ntKIyC) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp) | [Redial](https://open.spotify.com/album/251bKunrjJVU3Ndmh8AxHt) | 4:04 |
 | 55 | [O Que Eu Soul \- Acústico](https://open.spotify.com/track/5nde5dfB24TXkLSrIHor51) | [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA), [UGOTZ](https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625) | [O Que Eu Soul \(Acústico\)](https://open.spotify.com/album/5DCyIxkkD7LSErRyBS26oC) | 3:19 |
-| 56 | [Redial](https://open.spotify.com/track/5n4Htpe8iRavkKE0ntKIyC) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp) | [Redial](https://open.spotify.com/album/251bKunrjJVU3Ndmh8AxHt) | 4:04 |
+| 56 | [Lingerie Branca](https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS) | [MOTICO MONEY](https://open.spotify.com/artist/0ZYRu4jdS871PkQvvt5MFe) | [Lingerie Branca](https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z) | 3:59 |
 | 57 | [Delírio](https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG) | [INAHUGO](https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR) | [Estou Aqui](https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr) | 3:47 |
-| 58 | [Ventilador](https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM) | [Nagy](https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv) | [Ventilador](https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs) | 2:59 |
-| 59 | [GUAPA](https://open.spotify.com/track/5eERv0kAdLr608xgqawoHm) | [Matheus Queiroz](https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Douglas Moda](https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK) | [GUAPA](https://open.spotify.com/album/3VLLaHdj4pobnOxrWFcsdO) | 2:19 |
+| 58 | [GUAPA](https://open.spotify.com/track/5eERv0kAdLr608xgqawoHm) | [Matheus Queiroz](https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Douglas Moda](https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK) | [GUAPA](https://open.spotify.com/album/3VLLaHdj4pobnOxrWFcsdO) | 2:19 |
+| 59 | [Ventilador](https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM) | [Nagy](https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv) | [Ventilador](https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs) | 2:59 |
 | 60 | [Seu Bem](https://open.spotify.com/track/4WIHw5omFiZSVUl52GsVUG) | [LEXY](https://open.spotify.com/artist/1jsbcRHlNmr4AATn3bVhOd), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp), [RZ](https://open.spotify.com/artist/5OWjhQcHTvSP9fCGeiDSaf) | [Seu Bem](https://open.spotify.com/album/50ZHYvn0wbeJoKHt65kU5l) | 3:27 |
 | 61 | [Respostas](https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW) | [Rudney Martins](https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL) | [Respostas](https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5) | 3:14 |
 | 62 | [That's Why I Love You](https://open.spotify.com/track/48cZ0Fo1zfYjBUPw5m8xjv) | [idontcare](https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e), [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN) | [That's Why I Love You](https://open.spotify.com/album/0ClBTyGt24uEfusn603KEV) | 3:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 74 | [Santa Melanina](https://open.spotify.com/track/3ztQ8cprZjCh4UhtAKY5Be) | [Binho Salles](https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB) | [Santa Melanina](https://open.spotify.com/album/0sqwjwOQEBlX0qs2oQizgT) | 2:21 |
 | 75 | [Proposta](https://open.spotify.com/track/6GDEzb8YsJRBFGRt8Uu1ua) | [Matheus Caettano](https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1), [Pedro Stone](https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM), [DJ Cash](https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ) | [Proposta](https://open.spotify.com/album/1J4ITzL4iz9SLRwKGlEpaJ) | 2:51 |
 
-Snapshot ID: `MCxhZTQ5N2M3ZmNkYWFiYjA4NzYyNWZlZmViYzgwOWYzOWRlY2Q3ZGVl`
+Snapshot ID: `MCxiOTM2NjMwZDk5Y2Y1NWRiYmY4MTUzNjZjZDkxNDUxNGRmZGRlYWZi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Mata
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,796 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,871 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 10 | [CEO](https://open.spotify.com/track/4ltVdPcmgfSlsicK4ZIQGT) | [Asster](https://open.spotify.com/artist/5PJKbcbs3gm5tdePNo2eZX), [Kabe](https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt), [Worek](https://open.spotify.com/artist/00o5eWNk5MqreQLbngsikb), [clearmind](https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq) | [CEO](https://open.spotify.com/album/3qlVzxQDjvapwFS3IJ9YE4) | 2:50 |
 | 11 | [Rockstar](https://open.spotify.com/track/6jkv6KmJE7UES9ohRonubH) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E) | [Rockstar](https://open.spotify.com/album/7sLSvYKAzt6HAHYecid92B) | 2:12 |
 | 12 | [TYLE SŁOŃCA](https://open.spotify.com/track/2oILgeSykGjl0N9m0VvAjO) | [White Widow](https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0), [BAHsick](https://open.spotify.com/artist/0TuA7E5H4nlEtWvpXSr7uv) | [TYLE SŁOŃCA](https://open.spotify.com/album/34pnuaLEiWt0Cs4JQv2MM2) | 2:22 |
-| 13 | [Bunt](https://open.spotify.com/track/5fM9DVKjOZahXsMLeFb9Zd) | [Janusz Walczuk](https://open.spotify.com/artist/44FnIf8PhG6EQRIoENsXu3), [Olszakumpel](https://open.spotify.com/artist/3a1dEAwuUq0r3u1Np9ILJ1) | [Bunt](https://open.spotify.com/album/5jdfVMF4YBUEh2FzH52pql) | 3:03 |
+| 13 | [Bunt \(Piep\*zyć Mickiewicza Soundtrack\)](https://open.spotify.com/track/5fM9DVKjOZahXsMLeFb9Zd) | [Janusz Walczuk](https://open.spotify.com/artist/44FnIf8PhG6EQRIoENsXu3), [Olszakumpel](https://open.spotify.com/artist/3a1dEAwuUq0r3u1Np9ILJ1) | [Bunt \(Piep\*zyć Mickiewicza Soundtrack\)](https://open.spotify.com/album/5jdfVMF4YBUEh2FzH52pql) | 3:03 |
 | 14 | [Skippers](https://open.spotify.com/track/4uayCD0blZhblTiQqKLYiC) | [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Janusz Walczuk](https://open.spotify.com/artist/44FnIf8PhG6EQRIoENsXu3), [Waima](https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt), [Mjonszu](https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8), [Phatrax](https://open.spotify.com/artist/1EWSmJHrwXmAaXOxD4uHg7) | [Skippers](https://open.spotify.com/album/55BlPQmFYM4ynhO05xKi9C) | 2:30 |
 | 15 | [Zawsze chciałem](https://open.spotify.com/track/3AmVHFyIPCDYkqzYTfizOt) | [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [Zawsze chciałem](https://open.spotify.com/album/5d3qRgHcgMg3VIsK6WsW8r) | 3:04 |
 | 16 | [eXplosion](https://open.spotify.com/track/21YWx0gmPFS6mjc1W8zahk) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7) | [eXplosion](https://open.spotify.com/album/2txxFv6idkGnpzT95ExrCl) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [noWy baTmAN](https://open.spotify.com/track/0YLPs2DX0TUhLZBlWtV6oQ) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [noWy baTmAN](https://open.spotify.com/album/5IjxyKPttlngllJPFmfSeE) | 2:49 |
 | 50 | [Sextape](https://open.spotify.com/track/77zPD9o9tBR5hhsxdDZJeV) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt), [Magiera](https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [Sextape / MTW](https://open.spotify.com/album/3CAUyLZPYc4wP4xOGeSoR2) | 3:13 |
 
-Snapshot ID: `MCw0OTJhYzVmNTkyNzY4MWVhNjZkOTBmZGI2MzQ3NmQ4NDkwNzA1NGEy`
+Snapshot ID: `MCxkZGE4MDVhOTNlMGRjY2RmNDgyYjdkYzIxODY5MWVmMjdhN2QxOTc0`

@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Ashwin Vinayagamoorthy
 
-486 songs - 1 day 4 hr 49 min
+487 songs - 1 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,8 @@
 | [Lovendra Cassandra \- From "Think Indie"](https://open.spotify.com/track/41An84CexsUMCeV6KkDVyy) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [Shilvi Sharon](https://open.spotify.com/artist/0CF2xFxAubE3okREUvLY1g) | [Lovendra Cassandra \(From "Think Indie"\)](https://open.spotify.com/album/1hDXMmW7mVHrsGkcHWDRDY) | 3:56 | 2023-12-26 |  |
 | [Luck illa Maamey](https://open.spotify.com/track/10G6bC2d6Cxopk4Gkfm2se) | [Anivee](https://open.spotify.com/artist/4geIqmrfQoa4HDIF68vgiy), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Luck illa Maamey](https://open.spotify.com/album/2KAWe8ogQmKbbtVjhS7OYm) | 3:08 | 2022-04-18 | 2022-07-08 |
 | [Lyca Kovai Kings Anthem](https://open.spotify.com/track/2pXdzH8V45MMVx44SULGbE) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Lyca Kovai Kings Anthem](https://open.spotify.com/album/4fST1elFH54IFmpl0xD6kw) | 1:45 | 2022-06-28 | 2022-07-16 |
-| [Maagamaaga Nee](https://open.spotify.com/track/1vUCR2FQtjamDlMBWJoega) | [Sikkil Gurucharan](https://open.spotify.com/artist/2n5XFSvKch0WL1A066NLFt), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Maagamaaga Nee](https://open.spotify.com/album/4Cmg3GLikIhVfX84rzKD4g) | 4:25 | 2023-10-10 |  |
+| [Maagamaaga Nee](https://open.spotify.com/track/1vUCR2FQtjamDlMBWJoega) | [Sikkil Gurucharan](https://open.spotify.com/artist/2n5XFSvKch0WL1A066NLFt), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Maagamaaga Nee](https://open.spotify.com/album/4Cmg3GLikIhVfX84rzKD4g) | 4:25 | 2023-10-10 | 2024-01-07 |
+| [Maagamaaga Nee](https://open.spotify.com/track/31RulhRU3qYzKdYUja9JHj) | [Sikkil Gurucharan](https://open.spotify.com/artist/2n5XFSvKch0WL1A066NLFt), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Maagamaaga Nee](https://open.spotify.com/album/1fVDFKq7iKsghZKx9tK6CT) | 4:25 | 2023-10-10 |  |
 | [Maaran Ambu](https://open.spotify.com/track/2A5JPLInzNA6jr8ITGzWlN) | [Aathi](https://open.spotify.com/artist/2Yi3hZ5XdMAYxPQKZVOEvp), [Sindhuja Ganapathy](https://open.spotify.com/artist/05bCSt2cfm7afEvkoWKqdM), [Yanchan](https://open.spotify.com/artist/2oCMtxRHVtTsqHbnnRWRWQ) | [Maaran Ambu](https://open.spotify.com/album/3PfyF79cW79EclIsyQ2Xf4) | 2:54 | 2022-05-06 | 2022-08-12 |
 | [Maaratha](https://open.spotify.com/track/4P925v6rzm2z44dvO3PfFA) | [Joseph Selvam Jabin](https://open.spotify.com/artist/6py2Rlpssqme51MNtCe0LY) | [Maaratha](https://open.spotify.com/album/5k9uhn6PZjW02bnYfUZhrb) | 3:47 | 2022-08-23 | 2022-11-17 |
 | [Maaya Arivai \- Remix](https://open.spotify.com/track/1AXcnHTuFnoanimGHrSroC) | [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [NGM](https://open.spotify.com/artist/2SAvDnhjvSzEBz0XGKed01) | [Maaya Arivai \(Remix\)](https://open.spotify.com/album/3R0rrxE7ZltdYSiBhprJv8) | 1:37 | 2022-08-05 | 2023-02-07 |

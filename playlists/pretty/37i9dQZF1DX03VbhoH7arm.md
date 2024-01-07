@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VbhoH7arm.md) - [plain]
 
 > Os grandes hits do momento estão aqui! Foto: Ivete Sangalo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,503,718 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,505,045 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VbhoH7arm.md) - [plain]
 | 4 | [POCPOC](https://open.spotify.com/track/0oQCRjrWGvkqkdf82UlXI3) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [POCPOC](https://open.spotify.com/album/3nwyZyralFOdRGEyNMjSJX) | 2:07 |
 | 5 | [Cama Repetida](https://open.spotify.com/track/0wuj2T6IZtotux1Jjluo7m) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Sofrência Ou Fuleragem? \(Ao Vivo / Parte 2\)](https://open.spotify.com/album/54W7v0wwVhbrc4HfwtsutS) | 2:51 |
 | 6 | [Maria Mariah](https://open.spotify.com/track/00rxTS5TKv3oXpDA6nWfBi) | [JC NO BEAT](https://open.spotify.com/artist/1xglv0oUbyJaycWFhyec8U), [DJ F7](https://open.spotify.com/artist/1L5QOwu01wcDbozwIL1XXd), [MC Meno Dani](https://open.spotify.com/artist/3LqcLDGw41dRZKsM51H9GI), [Silva Mc](https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3) | [Maria Mariah](https://open.spotify.com/album/4F1j6L2ncVLyIiAaG8jgo1) | 1:58 |
-| 7 | [Joga Pra Lua](https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Joga Pra Lua](https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1) | 2:05 |
+| 7 | [Joga Pra Lua](https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [Joga Pra Lua](https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1) | 2:05 |
 | 8 | [Dano Sarrada \- Remix](https://open.spotify.com/track/0Kl8AuDEnnEA7UtCKov4Op) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Japãozin](https://open.spotify.com/artist/7bDY7ck0pXuKESZtEt1X5d) | [Dano Sarrada \(Remix\)](https://open.spotify.com/album/4C1KWXgdTmom6eWiu0x45k) | 2:46 |
 | 9 | [Tem Café](https://open.spotify.com/track/6XvFnICxXsVc8OK4eh1E9b) | [Hits Forró](https://open.spotify.com/artist/4xyZi8RUfi2Dh5UAHA8Ylq), [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM) | [Tem Café](https://open.spotify.com/album/6gD7TtJDcrWlAVD3j8nPj5) | 2:38 |
 | 10 | [Dia de Fluxo](https://open.spotify.com/track/6GmyQws2xpUFIN5dXBNTrl) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Dia de Fluxo](https://open.spotify.com/album/58jzd3ALDliyTUI5Ke8jmS) | 2:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VbhoH7arm.md) - [plain]
 | 49 | [Ai Papai](https://open.spotify.com/track/4PQ5AInr4YoBauth9YPduL) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Ai Papai](https://open.spotify.com/album/1TjWJ7uLNCTytSKEPLyMsa) | 2:28 |
 | 50 | [Sereia](https://open.spotify.com/track/77UrDaIQq6JZIJWeLgJaRf) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Sereia](https://open.spotify.com/album/56nuoKYRrbcBq73wUuSEyI) | 4:54 |
 
-Snapshot ID: `MCxiMjUyOWIzYmE0OGUyZThiZDMzODMxMDllNmExNzBhM2Y4YzZiYjkx`
+Snapshot ID: `MCw5NWIxNTQ3MDcxODIwZjQxN2IzYmVmMjFiNWQyYTI3MDIzYzcyZTMw`

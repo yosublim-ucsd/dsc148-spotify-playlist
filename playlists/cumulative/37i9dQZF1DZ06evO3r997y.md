@@ -4,7 +4,7 @@
 
 > This is Akari Kito\. The essential tracks, all in one playlist.
 
-66 songs - 4 hr 25 min
+67 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Dive to World](https://open.spotify.com/track/7wbBMQzj1i5ATT60X4OYvC) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kimi no Tonaride](https://open.spotify.com/album/3Xu8RDPELgeBO6qZQuHvpn) | 3:35 | 2022-07-14 | 2022-08-04 |
 | [Drawing a Wish](https://open.spotify.com/track/59uBrvjez0jjtCGiKequ7H) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Style](https://open.spotify.com/album/4qiC4VYeLzUiRS06HUH47P) | 3:15 | 2022-07-28 | 2022-09-05 |
 | [Drawing a Wish](https://open.spotify.com/track/70dkA9hhBrGKVIY8pKBqDB) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [STYLE](https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL) | 3:15 | 2022-06-09 |  |
+| [Dream Thread](https://open.spotify.com/track/7gftYIVFAeewcn8hhqjme2) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Dream Thread](https://open.spotify.com/album/3rGSecU761CP81l0L1jYUL) | 3:30 | 2024-01-06 |  |
 | [Esquisse](https://open.spotify.com/track/3ntiFciUGTZcTzheQz56h9) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Esquisse](https://open.spotify.com/album/4pVpioTvYdQ01Dt9u4INXw) | 5:08 | 2022-09-16 | 2023-05-01 |
 | [Esquisse](https://open.spotify.com/track/7aWBulbCFKjBPmY9AOJmhc) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Esquisse](https://open.spotify.com/album/49EXGjFz7XT2UeSqyb2W7H) | 5:08 | 2022-09-15 | 2022-09-17 |
 | [Esquisse](https://open.spotify.com/track/2igZxJ4EC0jze98OazqKg3) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SfXj9tQ7sEH4uQNltc9Aa) | 5:08 | 2023-04-30 | 2023-09-26 |
@@ -60,8 +61,8 @@
 | [The One](https://open.spotify.com/track/0XEDEl9QWJhr0dSyp0frlF) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kaleidoscope](https://open.spotify.com/album/7sUJB7RcSlzbww6NLR3TyU) | 4:55 | 2022-06-09 |  |
 | [The One](https://open.spotify.com/track/70jcGzxIEA6f6q5Q8VJ4BZ) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kaleidoscope](https://open.spotify.com/album/3TyoqTtXHujGQBJ9LAA32n) | 4:55 | 2022-08-29 | 2023-02-25 |
 | [Tiny Light](https://open.spotify.com/track/3nMWM6o4pD6lAkDRPdcqvh) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Desire Again](https://open.spotify.com/album/1TNoCgbem1kKPGUgZRH2AK) | 4:50 | 2022-06-09 |  |
-| [Tiny Light Live at Nagoyashikokaido 2020/10/3](https://open.spotify.com/track/5zpU1HBbzRG6SEEcDV110T) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Tiny Light Live at Nagoyashikokaido 2020/10/3](https://open.spotify.com/album/1lagESEbbM09Kw25B5DEgY) | 4:55 | 2022-06-16 | 2022-08-10 |
-| [Tiny Light Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/2EEE2AZhr7DvQ8GgFTH8Bi) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Tiny Light Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/album/1rocMcQTcgdGA8tJTRP7zl) | 4:55 | 2022-08-09 |  |
+| [Tiny Light Live at Nagoyashikokaido 2020/10/3](https://open.spotify.com/track/5zpU1HBbzRG6SEEcDV110T) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Tiny Light Live at Nagoyashikokaido 2020/10/3](https://open.spotify.com/album/1lagESEbbM09Kw25B5DEgY) | 4:55 | 2022-06-16 |  |
+| [Tiny Light Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/2EEE2AZhr7DvQ8GgFTH8Bi) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Tiny Light Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/album/1rocMcQTcgdGA8tJTRP7zl) | 4:55 | 2022-08-09 | 2024-01-07 |
 | [Tiny Light Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/5Zx58ghtsWvEdp2SIiYeCp) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 4:55 | 2022-06-09 | 2022-06-17 |
 | [Toumei na Yume](https://open.spotify.com/track/1GvD0dRM2WpuR605OEFvNO) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kimi no Tonaride](https://open.spotify.com/album/3Xu8RDPELgeBO6qZQuHvpn) | 4:18 | 2022-07-26 | 2022-07-28 |
 | [V!vace](https://open.spotify.com/track/5YPWxhL7wOVsm6hP9XClnm) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kaleidoscope](https://open.spotify.com/album/7sUJB7RcSlzbww6NLR3TyU) | 4:11 | 2022-06-09 |  |

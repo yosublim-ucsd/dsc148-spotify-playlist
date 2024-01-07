@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 
 > Les plus belles ballades de la chanson française.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,677 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,811 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 22 | [La liste](https://open.spotify.com/track/0GIRUl3YJAGBauaqe10oWm) | [Rose](https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd) | [Rose](https://open.spotify.com/album/3ACdkFZ2IR9cXqeqWMz2V7) | 3:11 |
 | 23 | [Fais\-moi signe](https://open.spotify.com/track/7mSzjc45pJeC1UyX7ry3co) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Sommeil levant](https://open.spotify.com/album/0NzIv6MIwJiG1FfqxGky7H) | 3:51 |
 | 24 | [Love Me, Please Love Me](https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Love Me Please Love Me](https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH) | 4:20 |
-| 25 | [Lucie](https://open.spotify.com/track/5lgjlZSujTErTw7FUoCxj9) | [Pascal Obispo](https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS) | [Superflu](https://open.spotify.com/album/5bkQ6M2RXukXeF9NEHwgUY) | 4:15 |
-| 26 | [À la faveur de l'automne](https://open.spotify.com/track/5XCeCprrLZHLHHmKxYOXq1) | [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [À la faveur de l'automne](https://open.spotify.com/album/0EOK4Nqc012P7YPnIE1xot) | 3:43 |
-| 27 | [Et dans 150 ans](https://open.spotify.com/track/7vlLFUFZKochwQGnoRnWcM) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [caravane](https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6) | 2:33 |
+| 25 | [Et dans 150 ans](https://open.spotify.com/track/7vlLFUFZKochwQGnoRnWcM) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [caravane](https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6) | 2:33 |
+| 26 | [Lucie](https://open.spotify.com/track/5lgjlZSujTErTw7FUoCxj9) | [Pascal Obispo](https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS) | [Superflu](https://open.spotify.com/album/5bkQ6M2RXukXeF9NEHwgUY) | 4:15 |
+| 27 | [À la faveur de l'automne](https://open.spotify.com/track/5XCeCprrLZHLHHmKxYOXq1) | [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [À la faveur de l'automne](https://open.spotify.com/album/0EOK4Nqc012P7YPnIE1xot) | 3:43 |
 | 28 | [Diego libre dans sa tête \- Remasterisé en 2002](https://open.spotify.com/track/4ZgDTZjxNJxrpoaWYnaa3N) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Voyou \(Remasterisé en 2002\)](https://open.spotify.com/album/7AJeglSaPAvjLOrai3qVka) | 2:41 |
 | 29 | [Ta main](https://open.spotify.com/track/7vPyLb2HzPaZxv1egWvWMo) | [Grégoire](https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E) | [Toi + Moi](https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc) | 3:33 |
 | 30 | [Comme des enfants](https://open.spotify.com/track/5H3ChVfItCaDpj1vPbigyX) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Cœur de pirate](https://open.spotify.com/album/7yuOxsQ525jlzWdKl05DJp) | 2:49 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 65 | [On fait comme si](https://open.spotify.com/track/0QaVAoRnez6qMlLPqbB4fd) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4) | [On fait comme si](https://open.spotify.com/album/0UpDT5u1kYDZV21UBQctll) | 4:11 |
 | 66 | [Pour une seconde](https://open.spotify.com/track/4uiR0HGXDcqsR4E1P2EzLW) | [Les Frangines](https://open.spotify.com/artist/2sYOUJa6fNc4ke4Zo6EkZ4) | [Les Frangines \(Nouvelle édition\)](https://open.spotify.com/album/1AnZKsSHpXjV4d4zyUDGu5) | 3:12 |
 | 67 | [Si t'étais là](https://open.spotify.com/track/1iQ9W74bGFDAbiRIKn0PuH) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Louane](https://open.spotify.com/album/1f1C1CjidKcWQyiIYcMvP2) | 2:33 |
-| 68 | [Histoire vraie](https://open.spotify.com/track/7FX0CUpcPXEQYp4tdeod4g) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Histoires vraies](https://open.spotify.com/album/3WI5EDJiOFRxy29CfzPZbp) | 3:33 |
-| 69 | [À toutes les filles](https://open.spotify.com/track/6VR1rolPThMeYmWqFTbdLo) | [Didier Barbelivien](https://open.spotify.com/artist/0t85REHE5k1LBHLDongFNq) | [The Collection](https://open.spotify.com/album/11XeNgRYiVl3yeHIarvLzt) | 4:14 |
+| 68 | [À toutes les filles](https://open.spotify.com/track/6VR1rolPThMeYmWqFTbdLo) | [Didier Barbelivien](https://open.spotify.com/artist/0t85REHE5k1LBHLDongFNq) | [The Collection](https://open.spotify.com/album/11XeNgRYiVl3yeHIarvLzt) | 4:14 |
+| 69 | [Histoire vraie](https://open.spotify.com/track/7FX0CUpcPXEQYp4tdeod4g) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Histoires vraies](https://open.spotify.com/album/3WI5EDJiOFRxy29CfzPZbp) | 3:33 |
 | 70 | [Nous deux contre le reste du monde \- Version Acoustique](https://open.spotify.com/track/7hwdkcVXdn0NjMJHWFtVl8) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Les femmes idéales](https://open.spotify.com/album/2cpyU2HuvpC3LyCHJn12XO) | 2:51 |
 | 71 | [Dommage](https://open.spotify.com/track/0TdHMmYqHucjNryME4bfKe) | [Erza Muqoli](https://open.spotify.com/artist/2LaNU9yZUvApYGMs7lw9bt) | [Erza Muqoli](https://open.spotify.com/album/4MYZ8sm7algdZmjef4Bp4g) | 4:47 |
 | 72 | [Parce Qu'On Vient De Loin \(Version Acoustique\)](https://open.spotify.com/track/66BL8LOHoqwGgPzMOraqtW) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Parce qu'on vient de loin](https://open.spotify.com/album/5VMa7BgPzwjGfEPiGaJSPv) | 4:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 74 | [Ton visage \- Acoustic](https://open.spotify.com/track/5DAG0y0LtmvZCcc2uHNwUR) | [Fréro Delavega](https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT), [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [Des ombres et des lumières \- Live à l'Olympia / 2016](https://open.spotify.com/album/29AWK7mk7bfJ6QR2CX1fUX) | 2:54 |
 | 75 | [Les p'tites jolies choses](https://open.spotify.com/track/79X8l247aT8r4cKON18nMX) | [Joyce Jonathan](https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE) | [Les p'tites jolies choses](https://open.spotify.com/album/4bQJbVYzrX2HuPdmvcYg7S) | 3:27 |
 
-Snapshot ID: `MCw3YzNkN2RhNDc1MzBiYmNhNTgxNmNjZWU3YmZmN2YwYjI3ZjBlNGYx`
+Snapshot ID: `MCw3MTM4OTY5M2NmMDA2NGViNTFiZDkxMzZmZjMyOGNhZDYzYzdkNzY5`

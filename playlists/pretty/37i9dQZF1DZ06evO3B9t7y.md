@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 
 > This is Carin Leon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 801,247 likes - 51 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 802,042 likes - 51 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 |
 | 2 | [Según Quién](https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 2:22 |
 | 3 | [No Es Por Acá](https://open.spotify.com/track/6tEl8GwFJEFyxZAO1ibTRF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 2:47 |
-| 4 | [Que Vuelvas](https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Que Vuelvas](https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j) | 2:49 |
+| 4 | [QUE VUELVAS](https://open.spotify.com/track/5HR7yfhSCeoOHRQN05XnZQ) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:49 |
 | 5 | [Te Lo Agradezco](https://open.spotify.com/track/0NnbCdowqhKtgtNEQ9oeBX) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Te Lo Agradezco](https://open.spotify.com/album/4b54nXTn2X4aRFgUnCaMGE) | 3:03 |
 | 6 | [Ojos Cerrados](https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ojos Cerrados](https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0) | 3:00 |
 | 7 | [Ni Me Debes Ni Te Debo](https://open.spotify.com/track/3Zin1vaMx7PjFWIOBTE4FM) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 2:49 |
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 | 45 | [Una Noche Cualquiera](https://open.spotify.com/track/1d2ziGaMKHlNjuFY1oL8If) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Una Noche Cualquiera](https://open.spotify.com/album/6uhcErVRHBbBaslDcvzDlD) | 3:35 |
 | 46 | [Que Triste](https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Que Triste](https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF) | 3:46 |
 | 47 | [Me Aceptaste \- En Vivo](https://open.spotify.com/track/1I24KOlgCNqaLUlYO2Biav) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [JJ Araujo](https://open.spotify.com/artist/0DupYCzJV3DYvyPKpDzNAU) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 2:08 |
-| 48 | [Por La Familia](https://open.spotify.com/track/03uEJDEIXtm3FAV4iXcs68) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [BorderKid](https://open.spotify.com/artist/7ygIMSIwRfGk8Ro6AOEuu3) | [Por La Familia](https://open.spotify.com/album/7D7a4qJmKNXAdDnHvHNJ2T) | 2:33 |
-| 49 | [Nos Extraño \- En Vivo](https://open.spotify.com/track/7CVYguEu1LDPnYIQexs5xS) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [UVV Vol\. 8 \(En Vivo\)](https://open.spotify.com/album/1heJabKbVYHVQCQEBrcSp3) | 3:00 |
+| 48 | [Nos Extraño \- En Vivo](https://open.spotify.com/track/7CVYguEu1LDPnYIQexs5xS) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [UVV Vol\. 8 \(En Vivo\)](https://open.spotify.com/album/1heJabKbVYHVQCQEBrcSp3) | 3:00 |
+| 49 | [Por La Familia](https://open.spotify.com/track/03uEJDEIXtm3FAV4iXcs68) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [BorderKid](https://open.spotify.com/artist/7ygIMSIwRfGk8Ro6AOEuu3) | [Por La Familia](https://open.spotify.com/album/7D7a4qJmKNXAdDnHvHNJ2T) | 2:33 |
 | 50 | [La Justiciera](https://open.spotify.com/track/37SX2Yxw00H1e40B5wOE7d) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak) | [La Justiciera](https://open.spotify.com/album/5iE2MGncS5bQyfbVkndK0O) | 3:00 |
 | 51 | [Alguien Me Espera en Madrid](https://open.spotify.com/track/4EffpCSd0574GIKF9eKOUl) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Sincerándome](https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7) | 2:55 |
 
-Snapshot ID: `Mjg0MDc3MDMsMDAwMDAwMDBlNTRhN2NiNDA3ZTJiMDJhZjM0YzMzZjY1ODIwZDIzOQ==`
+Snapshot ID: `Mjg0MDkwNTUsMDAwMDAwMDAxNmE1MDYwMTYxYmJiNWQ2YmY0NjM4ZjY4MTUyYjg5NQ==`

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/keithpowers/\">Keith Powers</a>",
-  "num_followers": 89744,
+  "num_followers": 89866,
   "original_name": "Keith Power's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWFiM2M1ZTJjYWMyZjgyMDcwMTEwZDFhMDBmYjM3NmE0N2E0OGZj",
+  "snapshot_id": "MCwzNDNhYmVhNGE3ZWI1YTA4NjcwNzFkNGRjYjU1ODEyMjQ5ZTdkZTQz",
   "tracks": [
     {
       "added_at": "2022-10-03 04:00:00",
@@ -719,22 +719,18 @@
     {
       "added_at": "2022-10-03 04:00:00",
       "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU"
+        "name": "King Of The Fall",
+        "url": "https://open.spotify.com/album/5ELWxtRpadxkLUUvbzpiZO"
       },
       "artists": [
         {
-          "name": "River Tiber",
-          "url": "https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0"
-        },
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 152250,
-      "name": "West",
-      "url": "https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY"
+      "duration_ms": 301594,
+      "name": "King Of The Fall",
+      "url": "https://open.spotify.com/track/7o3Mcis1uKcYDuuJD1W0Rm"
     },
     {
       "added_at": "2022-10-03 04:00:00",
@@ -755,22 +751,6 @@
     {
       "added_at": "2022-10-03 04:00:00",
       "album": {
-        "name": "King Of The Fall",
-        "url": "https://open.spotify.com/album/5ELWxtRpadxkLUUvbzpiZO"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 301594,
-      "name": "King Of The Fall",
-      "url": "https://open.spotify.com/track/7o3Mcis1uKcYDuuJD1W0Rm"
-    },
-    {
-      "added_at": "2022-10-03 04:00:00",
-      "album": {
         "name": "Lessons in Love",
         "url": "https://open.spotify.com/album/3t5VFTO58tnYpZVeJYGQhD"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 232490,
       "name": "If You Let Me",
       "url": "https://open.spotify.com/track/5T5b5ZLAUPjtGUTdaH8KLd"
+    },
+    {
+      "added_at": "2022-10-03 04:00:00",
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU"
+      },
+      "artists": [
+        {
+          "name": "River Tiber",
+          "url": "https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 152250,
+      "name": "West",
+      "url": "https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY"
     },
     {
       "added_at": "2022-10-03 04:00:00",

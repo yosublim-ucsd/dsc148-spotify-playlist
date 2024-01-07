@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXe9UYa8hql9y.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXe9UYa8hql9y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXe9UYa8hql9y)
 
-### [Guadalupe\-Reyes ](https://open.spotify.com/playlist/37i9dQZF1DXe9UYa8hql9y)
+### [HASTA QUE SALGA EL SOL ](https://open.spotify.com/playlist/37i9dQZF1DXe9UYa8hql9y)
 
-> ¡Prende tus fiestas con la mejor música para aguantar el Guadalupe\-Reyes!
+> ¡Aferrafters del mundo yo los invoco!
 
 436 songs - 1 day 0 hr 9 min
 

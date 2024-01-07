@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 
 > The biggest Christmas songs of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,730,686 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,728,470 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 | 36 | [Deck The Hall](https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 1:08 |
 | 37 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3PIDciSFdrQxSQSihim3hN) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 2:33 |
 | 38 | [Christmas Tree Farm](https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Christmas Tree Farm](https://open.spotify.com/album/5JnnrTE35MQagEnEkFthiF) | 3:48 |
-| 39 | [Like It's Christmas](https://open.spotify.com/track/1OjmlSFuzYflWjSMTCyTJv) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Like It's Christmas](https://open.spotify.com/album/2SOQX9qSOQhxc0PsI5LNnu) | 3:20 |
-| 40 | [Santa's Coming for Us](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:26 |
+| 39 | [Santa's Coming for Us](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:26 |
+| 40 | [Like It's Christmas](https://open.spotify.com/track/1OjmlSFuzYflWjSMTCyTJv) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Like It's Christmas](https://open.spotify.com/album/2SOQX9qSOQhxc0PsI5LNnu) | 3:20 |
 | 41 | [Christmas Lights](https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Lights](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) | 4:02 |
 | 42 | [Joy To The World](https://open.spotify.com/track/1VuAamHM7P3VQQEXYGG3Uu) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 1:24 |
 | 43 | [Here Comes Santa Claus \(Right Down Santa Claus Lane\)](https://open.spotify.com/track/7n7VsX3sv66znBwA8b5uhp) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 1:55 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 | 70 | [Winter Wonderland \- Remastered 2006](https://open.spotify.com/track/2IuUMx3uxxJAHcH41aYtn0) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Crosby \- Christmas Classics](https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A) | 2:24 |
 | 71 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/2ohR9Qj4TgZafZCptO9cly) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 4:14 |
 | 72 | [Santa Claus Is Coming to Town](https://open.spotify.com/track/1RMDXedcRno6rDBCbNHDJf) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 2:51 |
-| 73 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/4v9WbaxW8HdjqfUiWYWsII) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Home For Christmas](https://open.spotify.com/album/6uIB97CqMcssTss9WrtX8c) | 4:15 |
-| 74 | [Hallelujah](https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 4:28 |
+| 73 | [Hallelujah](https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 4:28 |
+| 74 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/4v9WbaxW8HdjqfUiWYWsII) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Home For Christmas](https://open.spotify.com/album/6uIB97CqMcssTss9WrtX8c) | 4:15 |
 | 75 | [Make It To Christmas](https://open.spotify.com/track/6RS6rcjnWrdfVuu2U2W2dj) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Make It To Christmas](https://open.spotify.com/album/78M2SymJDiLORvKBQHgmKl) | 3:31 |
 | 76 | [Mistletoe and Wine](https://open.spotify.com/track/3AgiRs3oxc2dFh0CPUHXJs) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [Together With Cliff Richard](https://open.spotify.com/album/5yaUrYOylXyPC7jEV0o2YZ) | 4:05 |
 | 77 | [Santa Baby](https://open.spotify.com/track/6YJdPrH3i2POzu7hdHIRrb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Liz Gillies](https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB) | [Christmas Kisses](https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 | 99 | [Christmas Love](https://open.spotify.com/track/3RH9idbxUAMcUldet2ormp) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:26 |
 | 100 | [Mary, Did You Know?](https://open.spotify.com/track/4aCqRYHavLWbUCuoBjh7Xs) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [The Greatest Christmas Hits](https://open.spotify.com/album/4tRcSRjaE98LsBVOm6cSJT) | 3:21 |
 
-Snapshot ID: `MCw0ZDEyYmEzOTE5YTE4YzU1ZjMzYTZlNjg2NGY2OWNmYTYzMTg0YWI5`
+Snapshot ID: `MCw1OWYxZDVkNzNiZTdlNGY1OTE3MmViNjRjYjQwYjMzODQwZDk3ZDU2`

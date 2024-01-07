@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Jessica Mauboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,272 likes - 46 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,297 likes - 46 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 26 | [Twin Sisters \(feat\. Skrapz\) \- Edit](https://open.spotify.com/track/1DZjlDnEKkKRIYEIFXQ5EN) | [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6), [Skrapz](https://open.spotify.com/artist/67R8l2OLqGwA9V4BKllYQY) | [Twin Sisters \(feat\. Skrapz\) \[Edit\]](https://open.spotify.com/album/0lT9O0O6cx7ftjEn3dPNY1) | 3:50 |
 | 27 | [You & Me](https://open.spotify.com/track/7ouJOwsTo9wpmV4bDdOH8M) | [Merlin](https://open.spotify.com/artist/2MaEWDHjb1owUg3SGhS1vp), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [You & Me](https://open.spotify.com/album/2cTcV37tJ1qVXTH1iRf2Mz) | 2:34 |
 | 28 | [Unconditional](https://open.spotify.com/track/3s2MpAsYP7td9alGNB6Fk1) | [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA), [Aaradhna](https://open.spotify.com/artist/4CeW2xghttvllIwy4AqNSg) | [Unconditional](https://open.spotify.com/album/4utMvi2ApprCzAJoj317um) | 3:28 |
-| 29 | [Redline \- InHer Room](https://open.spotify.com/track/1fduKAIbqiCeIQjdInGwOz) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Redline \(InHer Room\)](https://open.spotify.com/album/5cF0sx3gtWtvWQj01eOHen) | 3:22 |
+| 29 | [Redline \- InHer Room](https://open.spotify.com/track/1w4iW3Bv2BmowTKzE7tORe) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [InHer Room](https://open.spotify.com/album/4yuCd5c4U8IWNPgL671vlx) | 3:22 |
 | 30 | [42](https://open.spotify.com/track/4K9xMdKPxDeRMmxGybVlpy) | [Maya Hirasedo](https://open.spotify.com/artist/79fiC2Vlgb2Q8u30JVcOm8), [Lil Jaye](https://open.spotify.com/artist/2lEJRLLPBCtAUdxVFl3qyl) | [42](https://open.spotify.com/album/7kNZo6GwS4daijRrKFKgbq) | 2:46 |
 | 31 | [Little Blue \- Mahogany Sessions](https://open.spotify.com/track/4dkxQNsQUboUQ2I4wXkE0d) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Little Blue – Mahogany Session](https://open.spotify.com/album/5xyxuwmqYBy2a2tM4AOLhJ) | 7:33 |
 | 32 | [DND](https://open.spotify.com/track/6mhQS3O0BmpNYsOhpr1Lkx) | [SLADE](https://open.spotify.com/artist/0OS8kzWgVPtW5sPSu7EaYR), [Dmonzz](https://open.spotify.com/artist/3HKTA5uswZWJScJqB4hiCn), [Zinny](https://open.spotify.com/artist/5wkPuXov9Nm659KXPi8Wr0), [MANDEM](https://open.spotify.com/artist/3uXbU6pVxmSY7ROYqa4MCy) | [DND](https://open.spotify.com/album/7KtI8qwhPB5Pq8JUE61XtJ) | 3:01 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 45 | [Love Is So Fine](https://open.spotify.com/track/3ums5zDZEc8mklLnQTX7dx) | [Joee Vayda](https://open.spotify.com/artist/3h7mvV5r0DmD3uzYP8HvVL) | [Love Is So Fine](https://open.spotify.com/album/6P9Mcq3Ajv7ZRQFZOOIlU7) | 1:44 |
 | 46 | [JOY \(Push The Button\)](https://open.spotify.com/track/38k9ZI2scBdNV11KM3pTNB) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [JOY \(Push The Button\)](https://open.spotify.com/album/1jkNntbUEEHM1TDNrestb2) | 3:55 |
 
-Snapshot ID: `MCxhZDliNmQ5YjBlMzU4Y2Q5OTNlMTQ2YWMzMDg4NTQyYWZiN2Q3Y2Vh`
+Snapshot ID: `MCxlOWQwNTk5ZDUzODI5YzNlYmRhMzU0MWMzMGM3YzlkMWNlN2QwOWYy`

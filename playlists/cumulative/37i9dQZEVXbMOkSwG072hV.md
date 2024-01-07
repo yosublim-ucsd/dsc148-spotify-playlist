@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-1,960 songs - 4 day 5 hr 18 min
+1,961 songs - 4 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -682,7 +682,7 @@
 | [Fazendinha Sessions \#2: Vai Ser Bão Pra lá](https://open.spotify.com/track/6C1zL1nBK9fVF40mD9fvNd) | [Fazendinha Sessions](https://open.spotify.com/artist/10fWVVVG2zx5VMJPL4N8wC), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [US Agroboy](https://open.spotify.com/artist/7gXnv2nAoF9X0XJQ3AMp7d), [Loubet](https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Lucca e Mateus](https://open.spotify.com/artist/0410LsuDnINVvVPRBE7pOo), [Lucas Reis & Thácio](https://open.spotify.com/artist/1b3ausgCrK4oN5Apv1GAhB) | [Fazendinha Sessions \#2: Vai Ser Bão Pra lá](https://open.spotify.com/album/5qVaSgNivBuyXuvWBXyWbA) | 8:01 | 2022-10-18 | 2022-10-25 |
 | [Faça Dinheiro, Se Mantenha Vivo](https://open.spotify.com/track/6XGN9afKuLwmXEipg53yqz) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [KOPO](https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA) | [Faça Dinheiro, Se Mantenha Vivo](https://open.spotify.com/album/67FpK5RVgcIG9LexjpWHv4) | 2:18 | 2022-01-17 | 2022-02-23 |
 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 | 2022-05-24 | 2022-06-20 |
-| [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 | 2023-11-06 |  |
+| [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 | 2023-11-06 | 2024-01-07 |
 | [Feed the Machine](https://open.spotify.com/track/40wmXUgVB0N5eLK8CuOhm3) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Feed the Machine](https://open.spotify.com/album/0lKGADKI9s71jBqJe5xYhn) | 3:03 | 2023-10-10 | 2023-10-23 |
 | [Feel My Rhythm](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:30 | 2022-04-12 | 2022-04-14 |
 | [Feet Don't Fail Me Now](https://open.spotify.com/track/5goqVeMYUQecvpcjNxpadU) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:18 | 2023-01-21 | 2023-02-05 |
@@ -1951,6 +1951,7 @@
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-05-10 | 2022-05-14 |
 | [È sério](https://open.spotify.com/track/2zruWeqPLaeb9RFBHvFH3F) | [Banda Encantu's](https://open.spotify.com/artist/1f1sZAhZSx4WDTruYgzyJU) | [Vol.3](https://open.spotify.com/album/2VruOJc7GNDH3k4FhCy5Fx) | 3:34 | 2023-10-17 | 2023-10-28 |
 | [È sério](https://open.spotify.com/track/4RfARBkhxR0t6GyfYkPHFM) | [Banda Encantu's](https://open.spotify.com/artist/1f1sZAhZSx4WDTruYgzyJU) | [Vol.3](https://open.spotify.com/album/0vb48OGmPCoDdf5paqwNuS) | 3:35 | 2023-10-27 | 2023-11-16 |
+| [É Ela Que Eu Amo](https://open.spotify.com/track/17ieIAUAo4DNcmGncb3kir) | [racine neto](https://open.spotify.com/artist/3OVuZhlGMASlYTZUDr6VxW) | [2022](https://open.spotify.com/album/5lqXwX5w6BHH4TUVxBboCL) | 2:46 | 2024-01-06 |  |
 | [É o Mito](https://open.spotify.com/track/72A8rHS99kqVlOg2nwI7q7) | [DJ Reaça](https://open.spotify.com/artist/5FAyiWRD1bTtw1bu881k7T) | [É o Mito](https://open.spotify.com/album/6ZVm8tcezQqV8Ta4nzH2sf) | 3:03 | 2022-09-08 | 2022-11-07 |
 | [É o Pombo, É o Neymar, Vinicius Jr, Paqueta](https://open.spotify.com/track/5SB1u37HPJPub4xLzdreXz) | [NK DA V](https://open.spotify.com/artist/5ikpz68A4OrtUEn2gNrPY6), [MC Pânico](https://open.spotify.com/artist/21Pr1Vuj2NjgXiwKpuecrr) | [É o Pombo, É o Neymar, Vinicius Jr, Paqueta](https://open.spotify.com/album/3VcC0bOuSbyw7LcgVpL8H0) | 2:06 | 2023-01-03 | 2023-01-07 |
 | [É o Rei do Sexo](https://open.spotify.com/track/11r84ikn6SC5N8NZWqWnoT) | [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [DJ Sammer](https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs) | [É o Rei do Sexo](https://open.spotify.com/album/5FwxLnfXPv1nIEFZDiVHs1) | 2:20 | 2023-06-13 | 2023-06-27 |

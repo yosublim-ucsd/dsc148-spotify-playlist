@@ -4,7 +4,7 @@
 
 > Soft instrumental jazz for working or studying.
 
-719 songs - 1 day 21 hr 49 min
+720 songs - 1 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Days Of Wine And Roses](https://open.spotify.com/track/2mO0AFhyUJmNh7RlTDuxL9) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Nights Of Ballads & Blues](https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba) | 3:21 | 2022-01-26 |  |
 | [Days of Wine and Roses](https://open.spotify.com/track/2b2yKDFxgIVVGsgd8Pgneb) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [The Quota](https://open.spotify.com/album/5G2XZf9MkRLtABZoEJGRbT) | 7:43 | 2022-05-18 | 2022-11-11 |
 | [Dear Sir](https://open.spotify.com/track/3HHAG4smOvTfKfkDqpBe7X) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Procrastinator](https://open.spotify.com/album/4HyzR2bsFvS4GqJMYtHjvq) | 6:55 | 2021-12-16 | 2022-11-01 |
+| [Decor\-free](https://open.spotify.com/track/4iACpgxgxLkWkd4kypNNwx) | [Sarah Troedsson](https://open.spotify.com/artist/5KFUCJQThUzmtIFTtsHdfh) | [Decor\-free](https://open.spotify.com/album/1cry6SmclW8CYxmloksuVf) | 3:59 | 2024-01-05 |  |
 | [Deep In A Dream](https://open.spotify.com/track/18hwNCTbIso4xsWBUo0XlT) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv), [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Curtain Call](https://open.spotify.com/album/1BoPscUZWGRFtPeUdrXI1c) | 5:58 | 2021-12-16 |  |
 | [Delighted Mood](https://open.spotify.com/track/1zVWKtpnw1OBHOCW3nJDfg) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Delighted Mood](https://open.spotify.com/album/3oZ5V8i4Bo5ScBe0YAyAjI) | 3:49 | 2023-06-01 |  |
 | [Desire](https://open.spotify.com/track/4XrTlrbPQF6kkrNZ7X1Nyk) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Desire](https://open.spotify.com/album/7Iw3lbOiYLqhgPbr7tl8xR) | 4:00 | 2023-06-01 |  |
@@ -585,7 +586,7 @@
 | [That Ole Devil Called Love](https://open.spotify.com/track/4gOLhCjZJdhmCrrkkd9jSG) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 3:17 | 2022-01-26 |  |
 | [That's Nothing](https://open.spotify.com/track/211NFPThPEPKCoScvCAelb) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [That's Nothing](https://open.spotify.com/album/42d23WhadUq9ckCGfXMFaD) | 4:26 | 2023-06-01 |  |
 | [That’s gotta be it](https://open.spotify.com/track/0FazSNhRZ6WLccyfjtKFZB) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [That’s gotta be it](https://open.spotify.com/album/3PeEeMedpzBi6ab7lCqCJG) | 3:18 | 2023-03-23 |  |
-| [The Ansible](https://open.spotify.com/track/31MCSGCZylxFfi9iWLtM0l) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [The Ansible](https://open.spotify.com/album/5eabCRB9zmiOQyxtmy7Pbd) | 3:34 | 2023-06-01 |  |
+| [The Ansible](https://open.spotify.com/track/31MCSGCZylxFfi9iWLtM0l) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [The Ansible](https://open.spotify.com/album/5eabCRB9zmiOQyxtmy7Pbd) | 3:34 | 2023-06-01 | 2024-01-07 |
 | [The Apostate](https://open.spotify.com/track/6Ntc0OMq9jqZlAdhnf4UMz) | [Kevin Waters Group](https://open.spotify.com/artist/57U22BNH5ClRbVtpNjVAoG) | [The Apostate](https://open.spotify.com/album/1pR0FZ1Ob5uyGGif7CSKGX) | 3:44 | 2023-12-22 |  |
 | [The April Skies](https://open.spotify.com/track/7MTAzNGDR2oen6dmPKxI3C) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [The April Skies](https://open.spotify.com/album/4g98w5zi81287g6iuPt3bJ) | 3:33 | 2023-01-12 |  |
 | [The bag with cash](https://open.spotify.com/track/2UIP33RxIEfUCEFxY0gySi) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [The bag with cash](https://open.spotify.com/album/5nGxB4RGvlB9KdI5A09fFv) | 3:32 | 2023-08-10 |  |

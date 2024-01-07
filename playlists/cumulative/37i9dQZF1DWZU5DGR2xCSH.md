@@ -4,7 +4,7 @@
 
 > Los abanderados del rock argentino y sus himnos con Fito Paez.
 
-144 songs - 9 hr 47 min
+145 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,12 +86,13 @@
 | [Mi enfermedad](https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Algo mejor](https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ) | 3:21 | 2022-05-20 |  |
 | [Mil Horas](https://open.spotify.com/track/7kQJ1TMrgIY4r7QYJfOTNo) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Almuerzo Chill](https://open.spotify.com/album/48lTKsXMulZCORFdrSJGPH) | 2:45 | 2022-08-12 | 2022-11-13 |
 | [Mil Horas](https://open.spotify.com/track/7JEnT0uFWcwZqNZWv7hC9N) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [1982\-1987 \- Himnos Del Corazón](https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w) | 2:48 | 2022-06-07 | 2024-01-05 |
+| [Mil Horas \- 1994 Remastered Version](https://open.spotify.com/track/4pHdHimCLvD4nx8lh6uQyx) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Los Abuelos De La Nada 1 \(1994 Remastered Version\)](https://open.spotify.com/album/6IwPxvK4pVWKt6HBCmXh8h) | 2:47 | 2023-05-03 |  |
 | [Milonga del marinero y el capitán](https://open.spotify.com/track/4Ha3yYGXzyBSC7LdxWXDY0) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:26 | 2022-06-07 |  |
 | [Muchacha \(Ojos de Papel\)](https://open.spotify.com/track/1SXzI5Rnid2ApgNQPmROLm) | [Almendra](https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo) | [El 1er Álbum Más los Singles](https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp) | 3:07 | 2022-05-20 | 2022-07-29 |
 | [Mujer Amante \- Vivo](https://open.spotify.com/track/5O5PY5HJNPxD7KyqU0SEhH) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [XX Aniversario En Vivo \- Magos, Espadas Y Rosas](https://open.spotify.com/album/7dbk5SnWgnt485vlCizXBE) | 6:17 | 2022-05-20 |  |
 | [Muévelo](https://open.spotify.com/track/2RzNpQEcatMIym0AFLJUsF) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/1ZUWRmH8qVKhcps3MjlLo5) | 4:21 | 2022-06-07 | 2022-07-28 |
 | [Mírenla \(Acústico\)](https://open.spotify.com/track/1dchYWXJndSz6iQbyYvk4R) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/34cb3MKF8i4X0kDEPjtf4S) | 4:25 | 2022-06-07 | 2022-07-20 |
-| [Nada es para siempre](https://open.spotify.com/track/73J1IrrirnxKM6wk5JfIcV) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x), [Eduardo Bergallo](https://open.spotify.com/artist/0iO7GoHspdzqLANoFLZz78) | [Sol en Cinco](https://open.spotify.com/album/3PRvVLAu5xKxYa9o4lK04S) | 5:28 | 2023-05-03 |  |
+| [Nada es para siempre](https://open.spotify.com/track/73J1IrrirnxKM6wk5JfIcV) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x), [Eduardo Bergallo](https://open.spotify.com/artist/0iO7GoHspdzqLANoFLZz78) | [Sol en Cinco](https://open.spotify.com/album/3PRvVLAu5xKxYa9o4lK04S) | 5:28 | 2023-05-03 | 2024-01-07 |
 | [Necesito](https://open.spotify.com/track/7H62s62eUQqYXTA3WsrTK7) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Vida](https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM) | 2:13 | 2022-05-20 |  |
 | [Nene de Antes](https://open.spotify.com/track/0VZpqCugL1y5mBGPkw0foP) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Gol De Mujer](https://open.spotify.com/album/5qNbbDBwCJn5haKSWxsBJS) | 4:10 | 2022-05-20 |  |
 | [No Tan Distintos](https://open.spotify.com/track/4dG3znpT3NJjfRRvPc77xe) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Obras Cumbres](https://open.spotify.com/album/4PJLMwI0oUtDRTT8auZoaP) | 2:39 | 2022-05-20 | 2022-07-28 |

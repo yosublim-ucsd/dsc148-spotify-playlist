@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 
 > Taking you back to your favourite hall party classics from the Afrobeat scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,863 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,027 likes - 80 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,16 +18,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 8 | [Johnny](https://open.spotify.com/track/0Cw5y3wboBz8VTWkMkmIDo) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [King of Queens](https://open.spotify.com/album/474pSDiz0qTrfF1rlTpDxy) | 3:56 |
 | 9 | [Skin Tight](https://open.spotify.com/track/43C8ga8Z7MkOc1TmEzXcJ3) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Skin Tight](https://open.spotify.com/album/0xkIlDRadF78PKqsAS2DSo) | 4:08 |
 | 10 | [The Matter \(feat\. Wizkid\)](https://open.spotify.com/track/2cWdhA4ZDBvYuHRKKIPT3k) | [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [The Matter \(feat\. Wizkid\)](https://open.spotify.com/album/1nu7MqRnwUFG26Zk90kWyV) | 3:18 |
-| 11 | [Nwa Baby \(Ashawo Remix\)](https://open.spotify.com/track/4olaI6mBL2Ct0TxnxgPvQC) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Nwa Baby \(Ashawo Remix\)](https://open.spotify.com/album/2IKsllyLOYmA6xWBgQLLH0) | 4:17 |
-| 12 | [Slow Down \(feat\. Wiz Kid\)](https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Refuse to Be Broke: Da Revolution 2](https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7) | 4:21 |
+| 11 | [Million Pound Girl \(Badder Than Bad\)](https://open.spotify.com/track/3h7pI8oM2CpXiNSZbQuEtV) | [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ) | [T.I.N.A.](https://open.spotify.com/album/3v9NqDh72DLPjhPVBo4oh1) | 4:06 |
+| 12 | [Nwa Baby \(Ashawo Remix\)](https://open.spotify.com/track/4olaI6mBL2Ct0TxnxgPvQC) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Nwa Baby \(Ashawo Remix\)](https://open.spotify.com/album/2IKsllyLOYmA6xWBgQLLH0) | 4:17 |
 | 13 | [E No Easy](https://open.spotify.com/track/2eBFbJrTEIWVnqsVRWOgVN) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk), [J\. Martins](https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm) | [Danger](https://open.spotify.com/album/13yKq0XTkdxftNDr4vsi7e) | 4:24 |
-| 14 | [Million Pound Girl \(Badder Than Bad\)](https://open.spotify.com/track/3h7pI8oM2CpXiNSZbQuEtV) | [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ) | [T.I.N.A.](https://open.spotify.com/album/3v9NqDh72DLPjhPVBo4oh1) | 4:06 |
+| 14 | [Slow Down \(feat\. Wiz Kid\)](https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Refuse to Be Broke: Da Revolution 2](https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7) | 4:21 |
 | 15 | [Adonai \(Remix\) \[feat\. Castro\]](https://open.spotify.com/track/6y4nqlHb6WXmHkv3Pa7n3P) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Castro](https://open.spotify.com/artist/030V4chwvYtlwnEfrA3oh3) | [Adonai \(Remix\) \[feat\. Castro\]](https://open.spotify.com/album/4xXYqG9l4l7XmuxrNebCyY) | 4:48 |
 | 16 | [Yori Yori](https://open.spotify.com/track/1zPbuWCj1bx0MyDUdFnTF8) | [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA) | [Least Expected](https://open.spotify.com/album/0CHBnB0nEDMhjNe1izWpoc) | 3:38 |
 | 17 | [Soke](https://open.spotify.com/track/4bzS0aUqNJIKiXk86k4tol) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [On A Spaceship](https://open.spotify.com/album/6NW4thIIMVcb6Wedxqu6ev) | 3:38 |
-| 18 | [Oliver Twist](https://open.spotify.com/track/6EOowyeP4iO02gXv7Em9j5) | [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [D'kings Men](https://open.spotify.com/album/0em9q0dIvlSje53jYnL054) | 3:57 |
-| 19 | [Romantic \(feat\. Tiwa Savage\)](https://open.spotify.com/track/5NOH1b1GanDHuc4pwhoPR1) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Romantic \(feat\. Tiwa Savage\)](https://open.spotify.com/album/6lKawQDT6e3OXoLAYKNJqr) | 3:45 |
-| 20 | [Azonto](https://open.spotify.com/track/1TeIFb2AIbExCZjInMxGha) | [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ), [Tiffany Owusu](https://open.spotify.com/artist/37hnVT1tp5qMyIwgbmLsvO) | [T.I.N.A.](https://open.spotify.com/album/3v9NqDh72DLPjhPVBo4oh1) | 3:52 |
+| 18 | [Azonto](https://open.spotify.com/track/1TeIFb2AIbExCZjInMxGha) | [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ), [Tiffany Owusu](https://open.spotify.com/artist/37hnVT1tp5qMyIwgbmLsvO) | [T.I.N.A.](https://open.spotify.com/album/3v9NqDh72DLPjhPVBo4oh1) | 3:52 |
+| 19 | [Oliver Twist](https://open.spotify.com/track/6EOowyeP4iO02gXv7Em9j5) | [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [D'kings Men](https://open.spotify.com/album/0em9q0dIvlSje53jYnL054) | 3:57 |
+| 20 | [Romantic \(feat\. Tiwa Savage\)](https://open.spotify.com/track/5NOH1b1GanDHuc4pwhoPR1) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Romantic \(feat\. Tiwa Savage\)](https://open.spotify.com/album/6lKawQDT6e3OXoLAYKNJqr) | 3:45 |
 | 21 | [Do Me \- Deluxe](https://open.spotify.com/track/0amjxUztXizZbRwGer8o34) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Gameover \(Deluxe\)](https://open.spotify.com/album/6D9DjuzGIPpFrRSMlXxbD2) | 4:41 |
 | 22 | [Skelewu](https://open.spotify.com/track/0C63WNrSJOlu62O6lrxRMU) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Best Of Davido](https://open.spotify.com/album/1cG2CR1M2KMv2dupmm3rFI) | 3:10 |
 | 23 | [Final \(Baba Nla\)](https://open.spotify.com/track/5bPpNuK3qgt1UbI18QEUYx) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Final \(Baba Nla\) \- Single](https://open.spotify.com/album/3PhMIu5CI6S79XdmXzou4t) | 2:40 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 63 | [Hol' It](https://open.spotify.com/track/1BQHtfaLM0aLBYChMtDGTv) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [After the Storm](https://open.spotify.com/album/6ZFfg3kkBnOK1JKFrVsBm6) | 3:49 |
 | 64 | [Yahooze](https://open.spotify.com/track/5uQdQMW0TshEPngJC0pPSg) | [Olu Maintain](https://open.spotify.com/artist/0MhOwPj45dpyuqe8pxKXoc) | [Olu Maintain](https://open.spotify.com/album/0D4NaOH0ucprHJAA870boc) | 4:15 |
 | 65 | [Bundelele](https://open.spotify.com/track/6VtdRYA62JdfnYFlsAqjpT) | [Awilo Longomba](https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT) | [Bundelele](https://open.spotify.com/album/6cwfMBhOiJaTsJGKk3x0X5) | 3:25 |
-| 66 | [Kolom](https://open.spotify.com/track/2oiMs23DJaCEj0KSj6ZOjv) | [BukBak](https://open.spotify.com/artist/1E0CW7edfYKv66MrCVSnmV) | [Kolom](https://open.spotify.com/album/1DQxZQNQLJbL4Pd6XhL9aj) | 4:40 |
-| 67 | [Sorkode](https://open.spotify.com/track/4jPxPF4jj0liUxoDI2bIBy) | [Keche](https://open.spotify.com/artist/7I8VnUISFUDhcyfzdFk19E) | [Sorkode \- Single](https://open.spotify.com/album/111KYIWPCaBCdwN711Xy3g) | 3:40 |
+| 66 | [Sorkode](https://open.spotify.com/track/4jPxPF4jj0liUxoDI2bIBy) | [Keche](https://open.spotify.com/artist/7I8VnUISFUDhcyfzdFk19E) | [Sorkode \- Single](https://open.spotify.com/album/111KYIWPCaBCdwN711Xy3g) | 3:40 |
+| 67 | [Kolom](https://open.spotify.com/track/2oiMs23DJaCEj0KSj6ZOjv) | [BukBak](https://open.spotify.com/artist/1E0CW7edfYKv66MrCVSnmV) | [Kolom](https://open.spotify.com/album/1DQxZQNQLJbL4Pd6XhL9aj) | 4:40 |
 | 68 | [Chingam \(feat\. Bisa Kdei\)](https://open.spotify.com/track/4Ql8dfmVkKEVz0ZMnvw8xi) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Chingam \(feat\. Bisa Kdei\)](https://open.spotify.com/album/3STRd9O0d5Q2zs10bEoyJs) | 3:34 |
 | 69 | [Wo Onane No](https://open.spotify.com/track/2dguh4zWtrZK6VIJsEsXhe) | [Kwamz & Flava](https://open.spotify.com/artist/3RdldZQW8cYFLEDEH7haJe) | [DeYaaa](https://open.spotify.com/album/5sJDwsKEbIfoNwIT3sJ9bp) | 3:29 |
 | 70 | [Baby \(Chop Kiss\)](https://open.spotify.com/track/28GS7SZV0MOQxX7iafzAyK) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Baby \(Chop Kiss\)](https://open.spotify.com/album/3vC6WJatACMOOusT2ZjPGW) | 3:18 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 79 | [Amorawa \- Bonus Track](https://open.spotify.com/track/1XD2smsByGKUCgHhyZyVtF) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Wanted](https://open.spotify.com/album/6fSgSpssVi7fMqMXhxGcbL) | 4:02 |
 | 80 | [The Thing](https://open.spotify.com/track/405XbnXle3IZ5Aj2bZT3Nu) | [Drumz](https://open.spotify.com/artist/4fGcqONONvUtBpp8G84u7s) | [The Thing](https://open.spotify.com/album/06nSQsDNTe1NNBeJvsC28n) | 4:52 |
 
-Snapshot ID: `MCw1ZjkzN2FmOTZkNTYzZDE5Yjk1N2NlNTUzYTUzN2RhNWMwYmQ5ZmU4`
+Snapshot ID: `MCw0ZTlhMzE5ZGEwMjVhZWI5OWY0MzdlNjk5YmIyZGY4MzAwOGFlOTdj`

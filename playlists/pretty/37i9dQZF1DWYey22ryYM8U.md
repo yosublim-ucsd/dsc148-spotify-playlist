@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 
 > Hits con sabor\. Cover: Juan Luis Guerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 605,021 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,023 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 71 | [Imaginarme Sin Ti](https://open.spotify.com/track/6wLAOahVdeEJxhEOH8byCL) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA) | [Imaginarme Sin Ti](https://open.spotify.com/album/63dvLQWbmgbT9tpmpSumb8) | 3:56 |
 | 72 | [El Negrito](https://open.spotify.com/track/3OymSyNaXj5AQI6veTh9f2) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [De Menor a Mayor](https://open.spotify.com/album/2e2SQ7KNvfX4B5MinwH4Cs) | 2:56 |
 | 73 | [Bachatica](https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Bachatica](https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8) | 3:16 |
-| 74 | [Cuándo](https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Cuándo](https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp) | 3:26 |
-| 75 | [Víctimas las Dos](https://open.spotify.com/track/455JfVvyPOZpoeX99X6ZGH) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Víctimas las Dos](https://open.spotify.com/album/3oO87sMk03zYPpdHTUAonH) | 4:17 |
+| 74 | [Víctimas las Dos](https://open.spotify.com/track/455JfVvyPOZpoeX99X6ZGH) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Víctimas las Dos](https://open.spotify.com/album/3oO87sMk03zYPpdHTUAonH) | 4:17 |
+| 75 | [Cuándo](https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Cuándo](https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp) | 3:26 |
 | 76 | [Tuki Tuki](https://open.spotify.com/track/0jtuFuZNhMV142OIXPonEO) | [Pucho Y Tucutu](https://open.spotify.com/artist/6q6sntFmzW5GgUFzAagcrh), [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Tuki Tuki](https://open.spotify.com/album/0dU3EdsJVImaGc9kYRQF9p) | 3:12 |
 | 77 | [La Bendición](https://open.spotify.com/track/4ZxjpNp7yCTxcbnkeyj0i6) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 3:14 |
 | 78 | [Vallenato Apretao](https://open.spotify.com/track/35iMl0FlgdxgOycezlyrPz) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Vallenato Apretao](https://open.spotify.com/album/5bNX7w96OZ2J8cZUaA33jo) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 99 | [Llego El Real Remix](https://open.spotify.com/track/0vwDHIuKLryWpMjh1XsOsF) | [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Llego El Real Remix](https://open.spotify.com/album/0Fmk6OWP7ZPgLQNHXWSJV8) | 3:41 |
 | 100 | [Los Recuerdos](https://open.spotify.com/track/2huEu8faRAhs0OAtTa5hpH) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Los Recuerdos](https://open.spotify.com/album/0xGbVhKSRFIzUFLDWsmJYV) | 2:41 |
 
-Snapshot ID: `MCxjNmExMTZmZDA2M2FkNWY3MjMwZWQxZTM0ZDM4NTM4Y2NiNGRlZWZk`
+Snapshot ID: `MCwzMTlhMDAxMzlmMTMwZjViZjk3MzBkZGY4YmM3NjQ5NzVlOTllMTUz`

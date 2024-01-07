@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 592552,
+  "num_followers": 592689,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjI3YTM4Y2EwZGNjYTVjOGY2YzY1Yjc1YzMxNWU2ZjVkNWFjODA4",
+  "snapshot_id": "MCw0OWQ2YWE5ZjEzMTY3ZTYxMGI5NDM5NTI5MzM2NTdlODY3N2QxN2Fj",
   "tracks": [
     {
       "added_at": "2023-12-12 21:56:13",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-12-12 21:56:13",
       "album": {
-        "name": "Shaken By A Low Sound",
-        "url": "https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp"
-      },
-      "artists": [
-        {
-          "name": "Crooked Still",
-          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
-        }
-      ],
-      "duration_ms": 201506,
-      "name": "Ain't No Grave",
-      "url": "https://open.spotify.com/track/0ymhUnNSuTEdKCRYEVpWOS"
-    },
-    {
-      "added_at": "2023-12-12 21:56:13",
-      "album": {
         "name": "The Very Last Day",
         "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 156106,
       "name": "Hades Pleads",
       "url": "https://open.spotify.com/track/2Yf3wwS48rkAoBRXNJ34kz"
+    },
+    {
+      "added_at": "2023-12-12 21:56:13",
+      "album": {
+        "name": "Shaken By A Low Sound",
+        "url": "https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp"
+      },
+      "artists": [
+        {
+          "name": "Crooked Still",
+          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+        }
+      ],
+      "duration_ms": 201506,
+      "name": "Ain't No Grave",
+      "url": "https://open.spotify.com/track/0ymhUnNSuTEdKCRYEVpWOS"
     },
     {
       "added_at": "2023-12-12 21:56:13",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-12-12 21:56:13",
       "album": {
-        "name": "Heatstroke/The Wind and the War",
-        "url": "https://open.spotify.com/album/4bU9I5NtFLbmChbhAqGKwJ"
-      },
-      "artists": [
-        {
-          "name": "KaiL Baxley",
-          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
-        }
-      ],
-      "duration_ms": 158533,
-      "name": "Boy Got It Bad",
-      "url": "https://open.spotify.com/track/3k6QU7zzhlJ8ODb24uuLP9"
-    },
-    {
-      "added_at": "2023-12-12 21:56:13",
-      "album": {
         "name": "Look Homeward",
         "url": "https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt"
       },
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2023-12-12 21:56:13",
       "album": {
-        "name": "Filthy Dirty South",
-        "url": "https://open.spotify.com/album/5o4cfFDhtA8GMYGMsHXLiZ"
+        "name": "Heatstroke/The Wind and the War",
+        "url": "https://open.spotify.com/album/4bU9I5NtFLbmChbhAqGKwJ"
       },
       "artists": [
         {
-          "name": "Rising Appalachia",
-          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+          "name": "KaiL Baxley",
+          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
         }
       ],
-      "duration_ms": 346333,
-      "name": "Filthy Dirty South",
-      "url": "https://open.spotify.com/track/2VifjGJJ8d0yGUk1LHn81y"
+      "duration_ms": 158533,
+      "name": "Boy Got It Bad",
+      "url": "https://open.spotify.com/track/3k6QU7zzhlJ8ODb24uuLP9"
     },
     {
       "added_at": "2023-12-12 21:56:13",
@@ -1503,6 +1487,22 @@
       "duration_ms": 242153,
       "name": "Pull the Moon",
       "url": "https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd"
+    },
+    {
+      "added_at": "2023-12-12 21:56:13",
+      "album": {
+        "name": "Filthy Dirty South",
+        "url": "https://open.spotify.com/album/5o4cfFDhtA8GMYGMsHXLiZ"
+      },
+      "artists": [
+        {
+          "name": "Rising Appalachia",
+          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+        }
+      ],
+      "duration_ms": 346333,
+      "name": "Filthy Dirty South",
+      "url": "https://open.spotify.com/track/2VifjGJJ8d0yGUk1LHn81y"
     },
     {
       "added_at": "2023-12-12 21:56:13",

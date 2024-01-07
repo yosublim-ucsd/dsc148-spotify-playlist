@@ -1,12 +1,12 @@
 {
   "description": "100 canciones de la \u00e9poca nost\u00e1lgica m\u00e1s reciente.",
-  "num_followers": 363970,
+  "num_followers": 364084,
   "original_name": "Los 2000 Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2RiMTg0ZDYyZTBhYTIzODc1NmJjNGEzOThjYjhjOWZmNWJiYzBj",
+  "snapshot_id": "MCw2YjM1YWIwMWE3MGE5MmE0MDUwZTNjY2IxOWYzNGZiZDgxOGJkMTcy",
   "tracks": [
     {
       "added_at": "2022-07-06 19:59:10",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "Lo Mejor de Lo Mejor",
-        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 161239,
-      "name": "Yo Tomo Licor",
-      "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "Otro D\u00eda en el Planeta Tierra",
         "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 260371,
       "name": "Nunca quise",
       "url": "https://open.spotify.com/track/0ZAJ660VP57lLK4U7NlGOy"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "Lo Mejor de Lo Mejor",
+        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 161239,
+      "name": "Yo Tomo Licor",
+      "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "Separece A Ti",
-        "url": "https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw"
-      },
-      "artists": [
-        {
-          "name": "Jambao",
-          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
-        }
-      ],
-      "duration_ms": 248786,
-      "name": "Se Parece M\u00e1s A Ti",
-      "url": "https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "Se\u00f1ales",
         "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 281386,
       "name": "Cae el Sol",
       "url": "https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "Separece A Ti",
+        "url": "https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw"
+      },
+      "artists": [
+        {
+          "name": "Jambao",
+          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
+        }
+      ],
+      "duration_ms": 248786,
+      "name": "Se Parece M\u00e1s A Ti",
+      "url": "https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "Raro",
-        "url": "https://open.spotify.com/album/6evTdl2CjuBbkiCaXOKUKW"
-      },
-      "artists": [
-        {
-          "name": "El Cuarteto De Nos",
-          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
-        }
-      ],
-      "duration_ms": 254106,
-      "name": "Yendo a la Casa de Dami\u00e1n",
-      "url": "https://open.spotify.com/track/3tUk2PzTp8KCIU4cxstJq1"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "GUAU!",
         "url": "https://open.spotify.com/album/1b0s5a9iIWIH5nEpzWSjHG"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 237800,
       "name": "El Fantasma",
       "url": "https://open.spotify.com/track/0N361WhEqVunVl5ZBkfd70"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "Raro",
+        "url": "https://open.spotify.com/album/6evTdl2CjuBbkiCaXOKUKW"
+      },
+      "artists": [
+        {
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+        }
+      ],
+      "duration_ms": 254106,
+      "name": "Yendo a la Casa de Dami\u00e1n",
+      "url": "https://open.spotify.com/track/3tUk2PzTp8KCIU4cxstJq1"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "Un Homenaje al Cielo",
-        "url": "https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Despu\u00e9s de Ti",
-      "url": "https://open.spotify.com/track/2nhrH1UoaHJWLFMrt1NB5w"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "Blanco y Negro",
         "url": "https://open.spotify.com/album/6MXrSUvZmjNuSCqOmRRkDw"
       },
@@ -803,22 +787,34 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "Otro D\u00eda en el Planeta Tierra",
-        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
+        "name": "Un Homenaje al Cielo",
+        "url": "https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL"
       },
       "artists": [
         {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        },
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 261545,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/6q41qt2R9K8BXEzmzImEGO"
+      "duration_ms": 201666,
+      "name": "Despu\u00e9s de Ti",
+      "url": "https://open.spotify.com/track/2nhrH1UoaHJWLFMrt1NB5w"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "Esp\u00edritu",
+        "url": "https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm"
+      },
+      "artists": [
+        {
+          "name": "Mancha De Rolando",
+          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
+        }
+      ],
+      "duration_ms": 202360,
+      "name": "Chino",
+      "url": "https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -839,18 +835,22 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "Esp\u00edritu",
-        "url": "https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm"
+        "name": "Otro D\u00eda en el Planeta Tierra",
+        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
       },
       "artists": [
         {
-          "name": "Mancha De Rolando",
-          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 202360,
-      "name": "Chino",
-      "url": "https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3"
+      "duration_ms": 261545,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/6q41qt2R9K8BXEzmzImEGO"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "El regreso",
-        "url": "https://open.spotify.com/album/3hIwt5XJuGCaTgSO6DqL7N"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 182680,
-      "name": "Tuyo siempre - En directo 2005",
-      "url": "https://open.spotify.com/track/5cBdKHSiooNsZ3FIWlYdDh"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "Turfshow",
         "url": "https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7"
       },
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "El Bonaerense",
-        "url": "https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x"
+        "name": "El regreso",
+        "url": "https://open.spotify.com/album/3hIwt5XJuGCaTgSO6DqL7N"
       },
       "artists": [
         {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 263315,
-      "name": "Se Te Ve la Tanga",
-      "url": "https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS"
+      "duration_ms": 182680,
+      "name": "Tuyo siempre - En directo 2005",
+      "url": "https://open.spotify.com/track/5cBdKHSiooNsZ3FIWlYdDh"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -1187,6 +1171,22 @@
       "duration_ms": 188720,
       "name": "No voy a llorar",
       "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "El Bonaerense",
+        "url": "https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 263315,
+      "name": "Se Te Ve la Tanga",
+      "url": "https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -1219,6 +1219,22 @@
       "duration_ms": 209893,
       "name": "Mi Caramelo - Live In Buenos Aires / 2001",
       "url": "https://open.spotify.com/track/2pC6LUWFEf2S6BIuBjrWWF"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "Turfshow",
+        "url": "https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "Yo No Me Quiero Casar, Y Ud?",
+      "url": "https://open.spotify.com/track/6BaMKZw3o4r0OQwDcPNI12"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -1291,38 +1307,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "El cantante",
-        "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 217973,
-      "name": "Estadio Azteca",
-      "url": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
-        "name": "Turfshow",
-        "url": "https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7"
-      },
-      "artists": [
-        {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Yo No Me Quiero Casar, Y Ud?",
-      "url": "https://open.spotify.com/track/6BaMKZw3o4r0OQwDcPNI12"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "Testosterona",
         "url": "https://open.spotify.com/album/4b9r4ceZWynWCxOtJGp6VC"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 307306,
       "name": "Sencillamente",
       "url": "https://open.spotify.com/track/3tPGzLQOB9GnSisO0l4tGW"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "El cantante",
+        "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 217973,
+      "name": "Estadio Azteca",
+      "url": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "Inconsciente Colectivo",
-        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Amanece en la Ruta",
-      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "Influencia",
         "url": "https://open.spotify.com/album/5Rgudh1IKSXYyKDVZuyyQu"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 330840,
       "name": "Influencia",
       "url": "https://open.spotify.com/track/7B8W8kfQwcVubGo2EGosID"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "Inconsciente Colectivo",
+        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Amanece en la Ruta",
+      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
-        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 308337,
-      "name": "Duraznito",
-      "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "Sin Remedio",
         "url": "https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 299426,
       "name": "Mir\u00e1 Como Est\u00e1 La Vagancia",
       "url": "https://open.spotify.com/track/5CmYHW6tHT8tPbLef7mjBP"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
+        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 308337,
+      "name": "Duraznito",
+      "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
+        "name": "Pibes Chorros - Criando Cuervos",
+        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 193080,
+      "name": "La colorada",
+      "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
         "name": "Cuentos Decapitados",
         "url": "https://open.spotify.com/album/4agUniovdijNcGf3blcYQM"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 305400,
       "name": "Que No Me Pierda",
       "url": "https://open.spotify.com/track/1hddbV736FaAFxMho50n75"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
-        "name": "Pibes Chorros - Criando Cuervos",
-        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "La colorada",
-      "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
     },
     {
       "added_at": "2022-07-06 19:59:10",

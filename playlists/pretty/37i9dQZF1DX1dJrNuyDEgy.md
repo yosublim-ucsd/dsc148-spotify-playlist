@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 
 > Ay ay ay ay..\. Canta y no llores, porque cantando se alegran, cielito lindo, los corazones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,806 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,829 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 | 13 | [Camino de Guanajuato](https://open.spotify.com/track/4Llj18Ki0h1YLFTCZbpSp8) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Corridos Y Rancheras](https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf) | 3:13 |
 | 14 | [México Lindo Y Querido](https://open.spotify.com/track/2r5HpO5yuhGHR0xDw7FTBr) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez La Leyenda Viviente \(Digi\-Pack\)](https://open.spotify.com/album/4N6NKru01oIgqTQ3MovJXW) | 3:32 |
 | 15 | [El Taconazo](https://open.spotify.com/track/1k8LMNtT8hsd4cPVwYchyX) | [El Piporro](https://open.spotify.com/artist/2RDCFdmJvNbGQBILkTvF5q) | [Lo Mejor De El Piporro](https://open.spotify.com/album/7Fk73SIehkIrO2uoo1L643) | 2:15 |
-| 16 | [Somos Mas Americanos](https://open.spotify.com/track/1grsm6TpzFbgxXEVa2PmmS) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Uniendo Fronteras](https://open.spotify.com/album/4dxX1ds6pw2Rqf2NIFPT4C) | 3:25 |
-| 17 | [La Malagueña](https://open.spotify.com/track/4ArF0aaOlk4K7VAjOVaQgq) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 5:24 |
+| 16 | [La Malagueña](https://open.spotify.com/track/4ArF0aaOlk4K7VAjOVaQgq) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 5:24 |
+| 17 | [Somos Mas Americanos](https://open.spotify.com/track/1grsm6TpzFbgxXEVa2PmmS) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Uniendo Fronteras](https://open.spotify.com/album/4dxX1ds6pw2Rqf2NIFPT4C) | 3:25 |
 | 18 | [La fiesta del mariachi](https://open.spotify.com/track/6tiY3rQJZ8m1SYDm2h6bJJ) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 2:44 |
 | 19 | [Ay Jalisco No Te Rajes](https://open.spotify.com/track/4euwnQbnoDNtXQ5LKNb07t) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Jorge Negrete, Trio Calaveras y Silvestre Vargas](https://open.spotify.com/album/2QV8SOTtZ3APYWXwBjpNy8) | 2:25 |
 | 20 | [Huapango de Moncayo](https://open.spotify.com/track/6sRcmTzalGYAERH18Nkqo6) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Sinfónico 3](https://open.spotify.com/album/5r6kbcr9qtGnpUo9uBqWwq) | 8:32 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 | 28 | [Mi Ciudad](https://open.spotify.com/track/2YQrtNY04DOuzYWvcu39gq) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [La Reina de la Canción Mexicana](https://open.spotify.com/album/5Vr2JTbPM5X0OC2k2O3ocd) | 3:05 |
 | 29 | [Pelea De Gallos](https://open.spotify.com/track/0KwhNYri6THMAYVpTBhOCj) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Fiesta Mexicana‚ Puro Mariachi](https://open.spotify.com/album/7bM47G8J24pQah2NMDmXFo) | 2:59 |
 | 30 | [Torito Serrano](https://open.spotify.com/track/4BFHo7sWvDEoPErm3aVS9C) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con El Mariachi Vargas](https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX) | 2:55 |
-| 31 | [El Mariachi Loco](https://open.spotify.com/track/2InG1WrLizDf1KUKYLnmIw) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [No Que No](https://open.spotify.com/album/0GuwpNGXt3Kfl0H8lI5wQP) | 2:42 |
-| 32 | [Cielito Lindo](https://open.spotify.com/track/2r2tcGKIrwmwnAGI6ey1P4) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [PRIMERO SOY MEXICANA](https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB) | 4:31 |
+| 31 | [Cielito Lindo](https://open.spotify.com/track/2r2tcGKIrwmwnAGI6ey1P4) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [PRIMERO SOY MEXICANA](https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB) | 4:31 |
+| 32 | [El Mariachi Loco](https://open.spotify.com/track/2InG1WrLizDf1KUKYLnmIw) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [No Que No](https://open.spotify.com/album/0GuwpNGXt3Kfl0H8lI5wQP) | 2:42 |
 | 33 | [La Bartola](https://open.spotify.com/track/0WSgW14LNEGidRni1Qsmr5) | [Chava Flores Con Mariachi Azteca Y Grupo La Miel](https://open.spotify.com/artist/5CCYSxsSV6BmX7Twe0P0PS) | [Exitos De Chava Flores](https://open.spotify.com/album/0PJ1sZj98PPca3SBScQegW) | 1:55 |
 | 34 | [El Barrilito](https://open.spotify.com/track/5iraK9LBoyh99QrC0zAbK4) | [Los Montanes Del Alamo](https://open.spotify.com/artist/40KlHX5lSdrxJNQUfpRGVS) | [Antologia Musical 30 Exitos](https://open.spotify.com/album/3go0mP3PiKN06OCMAcryJ7) | 2:28 |
 | 35 | [El Tilingo Lingo](https://open.spotify.com/track/1wuWRVyQmOMocqvdKkB2J1) | [Conjunto Jarocho Lindo Veracruz](https://open.spotify.com/artist/1G2qHYmNah4PuOrAAWpwUU) | [El Tilingo Lingo](https://open.spotify.com/album/2CI0buQUSqmtm4a5SccEaD) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 | 49 | [Los machetes](https://open.spotify.com/track/1xSDPL5ae24cnZFDwaIO6z) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Memorias Musicales del Mariachi](https://open.spotify.com/album/6DsXaAZwKKpOP1Lex4jDig) | 2:38 |
 | 50 | [La Cucaracha](https://open.spotify.com/track/4b0FVK3GdHI75vdUm8QrHV) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Aires de Mexico](https://open.spotify.com/album/5fMXK7VoIGri38AtHiTzwi) | 2:28 |
 
-Snapshot ID: `MCxkNmQ1MzA0NWVjMDZmNTA2MGViODI3YTA3ZDNlYmIwZTY4NTJkYzNh`
+Snapshot ID: `MCxkZWE4ZDZiNmYyNzhjMmU2ZDc4NzBjMjRiZTgxZjliNTA4ZTlmYjY1`

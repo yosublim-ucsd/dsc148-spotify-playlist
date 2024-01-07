@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6w9umnoLA0o.md) - [plain]
 
 > Enjoy TV theme songs of “SHOWA KAMEN RIDER series”! /<br/>「昭和仮面ライダーシリーズ」のテレビ主題歌をプレイリストで！ ©I・T
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,283 likes - 26 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,282 likes - 26 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6w9umnoLA0o.md) - [plain]
 | 25 | [仮面ライダーBLACK RX](https://open.spotify.com/track/1i6RFBmLejZA2AylUrJm7c) | [Takayuki Miyauchi](https://open.spotify.com/artist/12sIh1TmRrY9dX59XA4D71) | [MASKED RIDER SERIES SONG COLLECTION 09 仮面ライダーBLACK RX](https://open.spotify.com/album/7htZpxhxMlud3SZpD0M2r7) | 3:14 |
 | 26 | [誰かが君を愛してる](https://open.spotify.com/track/6p6duCsr6a7xGY1PdlCWSV) | [Takayuki Miyauchi](https://open.spotify.com/artist/12sIh1TmRrY9dX59XA4D71) | [MASKED RIDER SERIES SONG COLLECTION 09 仮面ライダーBLACK RX](https://open.spotify.com/album/7htZpxhxMlud3SZpD0M2r7) | 3:51 |
 
-Snapshot ID: `MCwzM2VlMGQyZmIwYWFkZjI2N2E1YTM5YzIwZmRjNWQ5MDE5Y2I2ZTJk`
+Snapshot ID: `MCw2ZTJkMGE1ODQyMjI5OTEzOGMxYjk1NmZjMDFlYTdlY2Y5ZmQzNDI4`

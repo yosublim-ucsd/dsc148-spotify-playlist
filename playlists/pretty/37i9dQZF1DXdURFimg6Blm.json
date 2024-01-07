@@ -1,12 +1,12 @@
 {
   "description": "Dance tracks for a big workout.",
-  "num_followers": 558755,
+  "num_followers": 559215,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDE4ZjYzN2FkMDJlODc2OTVhMGM3NmY0M2NhNDM2YTVlZDNkZWU0",
+  "snapshot_id": "MCw2MWY5MDhmZmU0MWIxOGVlZjAzMWU0ZGE5MzRkZDM0MGM3N2ZiODJl",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -87,26 +87,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Desire (with Sam Smith)",
-        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 179161,
-      "name": "Desire (with Sam Smith)",
-      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Overdrive (feat. Norma Jean Martine)",
         "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
       },
@@ -123,6 +103,26 @@
       "duration_ms": 155905,
       "name": "Overdrive (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Desire (with Sam Smith)",
+        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 179161,
+      "name": "Desire (with Sam Smith)",
+      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -307,26 +307,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Call It Love",
-        "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Ray Dalton",
-          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
-        }
-      ],
-      "duration_ms": 154560,
-      "name": "Call It Love",
-      "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Thank You (Not So Bad)",
         "url": "https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 140000,
       "name": "Thank You (Not So Bad)",
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Call It Love",
+        "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "duration_ms": 154560,
+      "name": "Call It Love",
+      "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -535,30 +535,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Be My Lover (feat. La Bouche) [2023 Mix]",
-        "url": "https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX"
-      },
-      "artists": [
-        {
-          "name": "Hypaton",
-          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "La Bouche",
-          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
-        }
-      ],
-      "duration_ms": 169523,
-      "name": "Be My Lover (feat. La Bouche) - 2023 Mix",
-      "url": "https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Asking",
         "url": "https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ"
       },
@@ -579,6 +555,30 @@
       "duration_ms": 191590,
       "name": "Asking",
       "url": "https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Be My Lover (feat. La Bouche) [2023 Mix]",
+        "url": "https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX"
+      },
+      "artists": [
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+        }
+      ],
+      "duration_ms": 169523,
+      "name": "Be My Lover (feat. La Bouche) - 2023 Mix",
+      "url": "https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Heavy Metal Love",
+        "url": "https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Heavy Metal Love",
+      "url": "https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Phone",
         "url": "https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 155076,
       "name": "Phone",
       "url": "https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Heavy Metal Love",
-        "url": "https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Heavy Metal Love",
-      "url": "https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -995,6 +995,26 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/0lY3tmonYCBxbviBSKczIX"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "duration_ms": 164693,
+      "name": "Praising You (feat. Fatboy Slim)",
+      "url": "https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Drinkin'",
         "url": "https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 149545,
       "name": "Drinkin'",
       "url": "https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "You & I",
-        "url": "https://open.spotify.com/album/0lY3tmonYCBxbviBSKczIX"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        },
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        }
-      ],
-      "duration_ms": 164693,
-      "name": "Praising You (feat. Fatboy Slim)",
-      "url": "https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Hey DJ",
-        "url": "https://open.spotify.com/album/0HNme2CFQWHNAR1IIiwuZi"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        }
-      ],
-      "duration_ms": 157001,
-      "name": "Hey DJ",
-      "url": "https://open.spotify.com/track/35TuvgQOcLcZmGlZZ3cAGq"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "All For Love",
         "url": "https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 166666,
       "name": "All For Love",
       "url": "https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Hey DJ",
+        "url": "https://open.spotify.com/album/0HNme2CFQWHNAR1IIiwuZi"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "duration_ms": 157001,
+      "name": "Hey DJ",
+      "url": "https://open.spotify.com/track/35TuvgQOcLcZmGlZZ3cAGq"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1635,6 +1635,26 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Believe (feat. Goodboys)",
+        "url": "https://open.spotify.com/album/6OcqONrf7kWx0jE3yNI2Nx"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 188709,
+      "name": "Believe (feat. Goodboys)",
+      "url": "https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Stay High",
         "url": "https://open.spotify.com/album/3E3JRB0gGzHuc56GB3hUPJ"
       },
@@ -1655,26 +1675,6 @@
       "duration_ms": 188320,
       "name": "Stay High",
       "url": "https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Believe (feat. Goodboys)",
-        "url": "https://open.spotify.com/album/6OcqONrf7kWx0jE3yNI2Nx"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 188709,
-      "name": "Believe (feat. Goodboys)",
-      "url": "https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE"
     },
     {
       "added_at": "2023-12-15 05:00:00",

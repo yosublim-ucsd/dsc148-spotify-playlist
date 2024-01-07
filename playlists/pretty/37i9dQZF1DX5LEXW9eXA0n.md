@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover:Lim Jae Hyun\(임재현\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,999 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,120 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [Promise](https://open.spotify.com/track/1UC3IeSuLY5mkwfvYoOlXe) | [HYB \(Huh Gak,Shin Yong Jae,Onestar\)](https://open.spotify.com/artist/75LV0HV0cURCViNnAZ1SQt) | [HYB PROJECT \#1](https://open.spotify.com/album/5BQu0YXKxMeqG4MMU9QQjB) | 4:57 |
 | 100 | [Happy Me](https://open.spotify.com/track/5VC7zSNSIwLumbjuPuFt7C) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Happy Me](https://open.spotify.com/album/4zFfQBm5sBkKosycicJVAG) | 4:30 |
 
-Snapshot ID: `MCw4MDc0NWVmMTljY2NjZjk4OTI3ZTRmMGM0MWE1OGQ1MmJiOWNjZDQw`
+Snapshot ID: `MCwzMTI4ZjE0YjhkYjMwYzQyZjk3ZGE1NWIwODhiOTVjOGQwYjNiMDVm`

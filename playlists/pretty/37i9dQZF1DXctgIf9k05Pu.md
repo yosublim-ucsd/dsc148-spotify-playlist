@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 
 > Aesthetic vibes that just make sense.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,482 likes - 50 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,512 likes - 50 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 | 34 | [lovesick](https://open.spotify.com/track/6Ws38nb0R9kAHBn7HoGMTy) | [Strafend](https://open.spotify.com/artist/1kSOJRjwflnuMaLL7EqXNF) | [lovesick](https://open.spotify.com/album/1ZRikNtTTBJMiRQVEerTPG) | 2:30 |
 | 35 | [Her](https://open.spotify.com/track/2koESjC2WBc6qmfg0dmTRt) | [eery](https://open.spotify.com/artist/2nu6ZVLgiNcRcWgDKUjplH) | [Her](https://open.spotify.com/album/3fr8eTKmfc0cjaijl4lduW) | 2:03 |
 | 36 | [Redbone](https://open.spotify.com/track/2hYuPn9UXZCqkA3mMedCXe) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Redbone](https://open.spotify.com/album/7ifFCYOT1n2YGyYhSuU59g) | 1:42 |
-| 37 | [sincerely, yours](https://open.spotify.com/track/3gV0E3N4uOcoNsbxLkGWkp) | [Nohidea](https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO) | [osho](https://open.spotify.com/album/3IeZJRDlyJdbgF64pkMlqc) | 2:19 |
-| 38 | [waking up in the park](https://open.spotify.com/track/278zobyI14d3iaE39jGfHM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [waking up in the park](https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod) | 1:08 |
-| 39 | [the way that you see me \(feat\. Ayleen Valentine\)](https://open.spotify.com/track/0k2bhZ9oM3boyUWaV3MfWk) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [drinking under the streetlights](https://open.spotify.com/album/3hHe7soPaQsQqALZOgNIYe) | 3:02 |
-| 40 | [I'm Sorry](https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [Theres Still Us](https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ) | 2:37 |
-| 41 | [Getsomerest/sleepwell](https://open.spotify.com/track/2RycgtfFQZOPgEGrzBGE0j) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Quickly Quickly, Vol\. 1](https://open.spotify.com/album/2JhVhsYSe65vunncE4AYV1) | 5:32 |
-| 42 | [5:32pm](https://open.spotify.com/track/0Q2LHrREFF9rtX3PuMUoNL) | [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde) | [Vibes 2](https://open.spotify.com/album/1AKUaQMs0kRryyi18h31o0) | 2:16 |
+| 37 | [5:32pm](https://open.spotify.com/track/0Q2LHrREFF9rtX3PuMUoNL) | [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde) | [Vibes 2](https://open.spotify.com/album/1AKUaQMs0kRryyi18h31o0) | 2:16 |
+| 38 | [sincerely, yours](https://open.spotify.com/track/3gV0E3N4uOcoNsbxLkGWkp) | [Nohidea](https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO) | [osho](https://open.spotify.com/album/3IeZJRDlyJdbgF64pkMlqc) | 2:19 |
+| 39 | [waking up in the park](https://open.spotify.com/track/278zobyI14d3iaE39jGfHM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [waking up in the park](https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod) | 1:08 |
+| 40 | [the way that you see me \(feat\. Ayleen Valentine\)](https://open.spotify.com/track/0k2bhZ9oM3boyUWaV3MfWk) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [drinking under the streetlights](https://open.spotify.com/album/3hHe7soPaQsQqALZOgNIYe) | 3:02 |
+| 41 | [I'm Sorry](https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [Theres Still Us](https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ) | 2:37 |
+| 42 | [Getsomerest/sleepwell](https://open.spotify.com/track/2RycgtfFQZOPgEGrzBGE0j) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Quickly Quickly, Vol\. 1](https://open.spotify.com/album/2JhVhsYSe65vunncE4AYV1) | 5:32 |
 | 43 | [Who? \(feat\. Shiloh Dynasty\)](https://open.spotify.com/track/1F0a3Au8NIpoRP7PVdO1YR) | [TSUKI](https://open.spotify.com/artist/5JUQJ7KsNBUfvga48DbmAf), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Who? \(feat\. Shiloh Dynasty\)](https://open.spotify.com/album/6hS1GnERLOTXde2WYhUzCL) | 2:37 |
 | 44 | [change ur mind](https://open.spotify.com/track/58Mh6zmqSo9IvysPAXnG0h) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [change ur mind](https://open.spotify.com/album/5Sq4GMxxUnYNkcXZEORRQh) | 3:03 |
 | 45 | [Day in Paris](https://open.spotify.com/track/5uuD5CBnuAF6VoC57WLxol) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb) | [Day in Paris](https://open.spotify.com/album/71Xu2aatGYldckWmQHeYSF) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 | 49 | [Summer Picnic](https://open.spotify.com/track/5qLIUUbJUlb3aXEiDThZef) | [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh) | [Summer Picnic](https://open.spotify.com/album/6U05K7fOYSMkZ7qJuKCVND) | 1:55 |
 | 50 | [fountain](https://open.spotify.com/track/35D1qs5m12ATl5WhkiunHT) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [recreation](https://open.spotify.com/album/7is9hZHWtLUcsfKlOd7TJg) | 1:52 |
 
-Snapshot ID: `MCw2Nzk4ZGIwODg2OWRmY2Y4YTc2OTE4Y2NiYzY1ZDI2ZmRmMTQ4YjA2`
+Snapshot ID: `MCwxMDBkNzgxYmExYmJiMWY5OWIyYzUyNjdhZDdiOTBlMWYyODgxMTMy`

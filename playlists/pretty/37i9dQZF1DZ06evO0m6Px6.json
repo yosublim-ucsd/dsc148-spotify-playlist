@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0MDc3MDMsMDAwMDAwMDA5MjI5YmRiNjA1M2Y1YmJkMGU2ZTkyMzY2MzlmMWU2Yw==",
+  "snapshot_id": "Mjg0MDkwNTYsMDAwMDAwMDBhZDRlMDQ5NWMzMDdiNGJiNjA4NDE5NjM3ZjI2MDBjZg==",
   "tracks": [
     {
-      "added_at": "2024-01-05 13:43:27",
+      "added_at": "2024-01-06 12:16:36",
       "album": {
         "name": "Selfish High Heels",
         "url": "https://open.spotify.com/album/181GktSNgR8gA0ql8LLlEa"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/4jkQZNP7o8T7xuTs9EQu7Y"
     },
     {
-      "added_at": "2024-01-05 13:43:27",
+      "added_at": "2024-01-06 12:16:36",
       "album": {
         "name": "Birds, Bees, The Clouds & The Trees",
         "url": "https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/7d1Ky8fpocchNXJRbwTNEM"
     },
     {
-      "added_at": "2024-01-05 13:43:27",
+      "added_at": "2024-01-06 12:16:36",
       "album": {
         "name": "Head Above the Waters",
         "url": "https://open.spotify.com/album/7KhkoeMNagRr4PqRYudCet"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/7EV6sb1gDY337fBJNy3obX"
     },
     {
-      "added_at": "2024-01-05 13:43:27",
+      "added_at": "2024-01-06 12:16:36",
       "album": {
         "name": "United We Are",
         "url": "https://open.spotify.com/album/3QTVsIyjtbHhXGxwh7H6j3"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/6bf2hU0YYUwrVuAlQG757L"
     },
     {
-      "added_at": "2024-01-05 13:43:27",
+      "added_at": "2024-01-06 12:16:36",
       "album": {
         "name": "Beige",
         "url": "https://open.spotify.com/album/7JNh6e48gMbtw75GLOARSA"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/55kxuWtCLOZ9LD7paQylnO"
     },
     {
-      "added_at": "2024-01-05 13:43:27",
+      "added_at": "2024-01-06 12:16:36",
       "album": {
         "name": "Birds, Bees, The Clouds & The Trees",
         "url": "https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ"
@@ -129,23 +129,7 @@
       "url": "https://open.spotify.com/track/1dXG8xVXSiYmsfC5FqNPqk"
     },
     {
-      "added_at": "2024-01-05 13:43:27",
-      "album": {
-        "name": "Apricity",
-        "url": "https://open.spotify.com/album/3sjOEpRpJmfyXiIOs2pXX0"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 167215,
-      "name": "Celica Supra",
-      "url": "https://open.spotify.com/track/5H8KpFEURomwHFoNLErs8c"
-    },
-    {
-      "added_at": "2024-01-05 13:43:27",
+      "added_at": "2024-01-06 12:16:36",
       "album": {
         "name": "Head Above the Waters",
         "url": "https://open.spotify.com/album/7KhkoeMNagRr4PqRYudCet"
@@ -165,39 +149,7 @@
       "url": "https://open.spotify.com/track/0kakE3UT2nSghNRVqBIEWm"
     },
     {
-      "added_at": "2024-01-05 13:43:27",
-      "album": {
-        "name": "Checkpoint Titanium",
-        "url": "https://open.spotify.com/album/7bHg0AsXi33E9ZnxgdEoGS"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 61375,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/0MClMpvEwvVsDCUoyekryQ"
-    },
-    {
-      "added_at": "2024-01-05 13:43:27",
-      "album": {
-        "name": "Birds, Bees, The Clouds & The Trees",
-        "url": "https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 67107,
-      "name": "Daydreamin",
-      "url": "https://open.spotify.com/track/4f17qWEqIfpzq4mQLXxOgh"
-    },
-    {
-      "added_at": "2024-01-05 13:43:27",
+      "added_at": "2024-01-06 12:16:36",
       "album": {
         "name": "Apricity",
         "url": "https://open.spotify.com/album/3sjOEpRpJmfyXiIOs2pXX0"
@@ -206,18 +158,14 @@
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
         }
       ],
-      "duration_ms": 224593,
-      "name": "Better (feat. Daniela Andrade)",
-      "url": "https://open.spotify.com/track/4xBKFemiG4Dl7DQuB9xA0q"
+      "duration_ms": 167215,
+      "name": "Celica Supra",
+      "url": "https://open.spotify.com/track/5H8KpFEURomwHFoNLErs8c"
     },
     {
-      "added_at": "2024-01-05 13:43:27",
+      "added_at": "2024-01-06 12:16:36",
       "album": {
         "name": "Neon Future II",
         "url": "https://open.spotify.com/album/4Bx8NxZeTAC53GjxVxXp2W"
@@ -241,7 +189,23 @@
       "url": "https://open.spotify.com/track/5y8hl8FzwzRgtgRgAU9pu3"
     },
     {
-      "added_at": "2024-01-05 13:43:27",
+      "added_at": "2024-01-06 12:16:36",
+      "album": {
+        "name": "Birds, Bees, The Clouds & The Trees",
+        "url": "https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 67107,
+      "name": "Daydreamin",
+      "url": "https://open.spotify.com/track/4f17qWEqIfpzq4mQLXxOgh"
+    },
+    {
+      "added_at": "2024-01-06 12:16:36",
       "album": {
         "name": "Checkpoint Titanium",
         "url": "https://open.spotify.com/album/7bHg0AsXi33E9ZnxgdEoGS"
@@ -257,23 +221,7 @@
       "url": "https://open.spotify.com/track/0SDkZDclec5PO3zt6tYM31"
     },
     {
-      "added_at": "2024-01-05 13:43:27",
-      "album": {
-        "name": "Birds, Bees, The Clouds & The Trees",
-        "url": "https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 120745,
-      "name": "Like When We Were Kids",
-      "url": "https://open.spotify.com/track/5Y7SPPrxoeYkhQBK7s6SUR"
-    },
-    {
-      "added_at": "2024-01-05 13:43:27",
+      "added_at": "2024-01-06 12:16:36",
       "album": {
         "name": "Apricity",
         "url": "https://open.spotify.com/album/3sjOEpRpJmfyXiIOs2pXX0"
@@ -288,32 +236,12 @@
           "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
         }
       ],
-      "duration_ms": 175464,
-      "name": "Atmosphere (feat. Daniela Andrade)",
-      "url": "https://open.spotify.com/track/3lJ3Czd986QfmRxhjTOznY"
+      "duration_ms": 224593,
+      "name": "Better (feat. Daniela Andrade)",
+      "url": "https://open.spotify.com/track/4xBKFemiG4Dl7DQuB9xA0q"
     },
     {
-      "added_at": "2024-01-05 13:43:27",
-      "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/53qvLT66mawtKcUxbTPoVX"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Maddee",
-          "url": "https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "You're Light (feat. Maddee)",
-      "url": "https://open.spotify.com/track/2MUrSRxjtJuUTse6X4fMpl"
-    },
-    {
-      "added_at": "2024-01-05 13:43:27",
+      "added_at": "2024-01-06 12:16:36",
       "album": {
         "name": "Once Upon A Time",
         "url": "https://open.spotify.com/album/2OOe8tEaUQcdAW1CK80hLX"
@@ -333,7 +261,7 @@
       "url": "https://open.spotify.com/track/3uDG2oirP5VieBeTqXZGfR"
     },
     {
-      "added_at": "2024-01-05 13:43:27",
+      "added_at": "2024-01-06 12:16:36",
       "album": {
         "name": "Birds, Bees, The Clouds & The Trees",
         "url": "https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ"
@@ -344,196 +272,12 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 104650,
-      "name": "Cowboys",
-      "url": "https://open.spotify.com/track/7iIGTan9Z53pubqaMx8nc0"
+      "duration_ms": 120745,
+      "name": "Like When We Were Kids",
+      "url": "https://open.spotify.com/track/5Y7SPPrxoeYkhQBK7s6SUR"
     },
     {
-      "added_at": "2024-01-05 13:43:27",
-      "album": {
-        "name": "Apricity",
-        "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Ralph",
-          "url": "https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8"
-        }
-      ],
-      "duration_ms": 182907,
-      "name": "Your Girl",
-      "url": "https://open.spotify.com/track/4YXTXi7mcbTUsLIztAdiAt"
-    },
-    {
-      "added_at": "2024-01-05 13:43:27",
-      "album": {
-        "name": "Head Above the Waters",
-        "url": "https://open.spotify.com/album/7KhkoeMNagRr4PqRYudCet"
-      },
-      "artists": [
-        {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
-        },
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 103301,
-      "name": "Big Waves",
-      "url": "https://open.spotify.com/track/3uY6mJXOhvrjG4f5Q4Lj56"
-    },
-    {
-      "added_at": "2024-01-05 13:43:27",
-      "album": {
-        "name": "Checkpoint Titanium",
-        "url": "https://open.spotify.com/album/7bHg0AsXi33E9ZnxgdEoGS"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "a l l i e",
-          "url": "https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re"
-        }
-      ],
-      "duration_ms": 215741,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/6kIF2287nOxmSqvUBBGhzd"
-    },
-    {
-      "added_at": "2024-01-05 13:43:27",
-      "album": {
-        "name": "Birds, Bees, The Clouds & The Trees",
-        "url": "https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 114046,
-      "name": "Music Box",
-      "url": "https://open.spotify.com/track/4M3jcQRHrY9k90l2XIA5i6"
-    },
-    {
-      "added_at": "2024-01-05 13:43:27",
-      "album": {
-        "name": "Apricity",
-        "url": "https://open.spotify.com/album/3sjOEpRpJmfyXiIOs2pXX0"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 148177,
-      "name": "Pocket Dial",
-      "url": "https://open.spotify.com/track/5eGQIiiRDs93YBuar7teSH"
-    },
-    {
-      "added_at": "2024-01-05 13:43:27",
-      "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Maddee",
-          "url": "https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "She's Strong (feat. Maddee)",
-      "url": "https://open.spotify.com/track/7FNogqUqm8ow3FAu0HDQnw"
-    },
-    {
-      "added_at": "2024-01-05 13:43:27",
-      "album": {
-        "name": "Checkpoint Titanium",
-        "url": "https://open.spotify.com/album/7bHg0AsXi33E9ZnxgdEoGS"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 195431,
-      "name": "Right Hook",
-      "url": "https://open.spotify.com/track/4DkHrp86nb5a2BfXy6uBOf"
-    },
-    {
-      "added_at": "2024-01-05 13:43:27",
-      "album": {
-        "name": "Tasty Raps, Vol. 1",
-        "url": "https://open.spotify.com/album/3oCrDNEeYBryNGgQrSEYOn"
-      },
-      "artists": [
-        {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
-        },
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 152472,
-      "name": "New Harrison Again",
-      "url": "https://open.spotify.com/track/1NBLPRLVEjL2Euy35Rg5Mf"
-    },
-    {
-      "added_at": "2024-01-05 13:43:27",
-      "album": {
-        "name": "Apricity",
-        "url": "https://open.spotify.com/album/3sjOEpRpJmfyXiIOs2pXX0"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 188516,
-      "name": "Next Blue",
-      "url": "https://open.spotify.com/track/5mUFrgd163NycUffrvBzeY"
-    },
-    {
-      "added_at": "2024-01-05 13:43:27",
-      "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/0lmDyjMsjpGmPJ5a8ABjHM"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Maddee",
-          "url": "https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "How Can It Be",
-      "url": "https://open.spotify.com/track/6bhlt3X3iXMs3WqPpKFpEh"
-    },
-    {
-      "added_at": "2024-01-05 13:43:27",
+      "added_at": "2024-01-06 12:16:36",
       "album": {
         "name": "Checkpoint Titanium",
         "url": "https://open.spotify.com/album/7bHg0AsXi33E9ZnxgdEoGS"
@@ -553,27 +297,139 @@
       "url": "https://open.spotify.com/track/0wfmzCxATjYPl4GGOwSVZF"
     },
     {
-      "added_at": "2024-01-05 13:43:27",
+      "added_at": "2024-01-06 12:16:36",
       "album": {
-        "name": "Parallel World (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0PeRkG0U2RckOC9OOSwiAi"
+        "name": "Apricity",
+        "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
       },
       "artists": [
         {
-          "name": "Cadence Weapon",
-          "url": "https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS"
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 175464,
+      "name": "Atmosphere (feat. Daniela Andrade)",
+      "url": "https://open.spotify.com/track/1GzT6q5oy8NvPvLFyZnPss"
+    },
+    {
+      "added_at": "2024-01-06 12:16:36",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/53qvLT66mawtKcUxbTPoVX"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Maddee",
+          "url": "https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "You're Light (feat. Maddee)",
+      "url": "https://open.spotify.com/track/2MUrSRxjtJuUTse6X4fMpl"
+    },
+    {
+      "added_at": "2024-01-06 12:16:36",
+      "album": {
+        "name": "Birds, Bees, The Clouds & The Trees",
+        "url": "https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 104650,
+      "name": "Cowboys",
+      "url": "https://open.spotify.com/track/7iIGTan9Z53pubqaMx8nc0"
+    },
+    {
+      "added_at": "2024-01-06 12:16:36",
+      "album": {
+        "name": "Head Above the Waters",
+        "url": "https://open.spotify.com/album/7KhkoeMNagRr4PqRYudCet"
+      },
+      "artists": [
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
         },
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 145811,
-      "name": "Play No Games (Harrison Remix)",
-      "url": "https://open.spotify.com/track/77pFbX4IYXtmGNgImM6KjI"
+      "duration_ms": 103301,
+      "name": "Big Waves",
+      "url": "https://open.spotify.com/track/3uY6mJXOhvrjG4f5Q4Lj56"
     },
     {
-      "added_at": "2024-01-05 13:43:27",
+      "added_at": "2024-01-06 12:16:36",
+      "album": {
+        "name": "Apricity",
+        "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Ralph",
+          "url": "https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8"
+        }
+      ],
+      "duration_ms": 182907,
+      "name": "Your Girl",
+      "url": "https://open.spotify.com/track/4YXTXi7mcbTUsLIztAdiAt"
+    },
+    {
+      "added_at": "2024-01-06 12:16:36",
+      "album": {
+        "name": "Checkpoint Titanium",
+        "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "a l l i e",
+          "url": "https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re"
+        }
+      ],
+      "duration_ms": 215741,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/0NSzcdUZkO3yTxggLzMjzf"
+    },
+    {
+      "added_at": "2024-01-06 12:16:36",
+      "album": {
+        "name": "Birds, Bees, The Clouds & The Trees",
+        "url": "https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 114046,
+      "name": "Music Box",
+      "url": "https://open.spotify.com/track/4M3jcQRHrY9k90l2XIA5i6"
+    },
+    {
+      "added_at": "2024-01-06 12:16:36",
       "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
@@ -582,30 +438,38 @@
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Maddee",
+          "url": "https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A"
         }
       ],
-      "duration_ms": 123000,
-      "name": "Ashe Maree",
-      "url": "https://open.spotify.com/track/72Dfg8NS9WDyH9xUEsfXIn"
+      "duration_ms": 282000,
+      "name": "She's Strong (feat. Maddee)",
+      "url": "https://open.spotify.com/track/7FNogqUqm8ow3FAu0HDQnw"
     },
     {
-      "added_at": "2024-01-05 13:43:27",
+      "added_at": "2024-01-06 12:16:36",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/7DJbYEOGyUHR0uM4Voumgg"
+        "name": "Apricity",
+        "url": "https://open.spotify.com/album/3sjOEpRpJmfyXiIOs2pXX0"
       },
       "artists": [
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Talvi",
+          "url": "https://open.spotify.com/artist/3Qj5iycEZWCbcFrhiNgJAu"
         }
       ],
-      "duration_ms": 120502,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/4qiHApC3RIMlqpjidfcb20"
+      "duration_ms": 158799,
+      "name": "Mustang (feat. Talvi)",
+      "url": "https://open.spotify.com/track/1zkHMlAIiPTgzd8lVbN52r"
     },
     {
-      "added_at": "2024-01-05 13:43:27",
+      "added_at": "2024-01-06 12:16:36",
       "album": {
         "name": "Checkpoint Titanium",
         "url": "https://open.spotify.com/album/7bHg0AsXi33E9ZnxgdEoGS"
@@ -621,7 +485,111 @@
       "url": "https://open.spotify.com/track/1ArSn8ftfl1LScy4Z9OygM"
     },
     {
-      "added_at": "2024-01-05 13:43:27",
+      "added_at": "2024-01-06 12:16:36",
+      "album": {
+        "name": "Tasty Raps, Vol. 1",
+        "url": "https://open.spotify.com/album/3oCrDNEeYBryNGgQrSEYOn"
+      },
+      "artists": [
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+        },
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 152472,
+      "name": "New Harrison Again",
+      "url": "https://open.spotify.com/track/1NBLPRLVEjL2Euy35Rg5Mf"
+    },
+    {
+      "added_at": "2024-01-06 12:16:36",
+      "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/0lmDyjMsjpGmPJ5a8ABjHM"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Maddee",
+          "url": "https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "How Can It Be",
+      "url": "https://open.spotify.com/track/6bhlt3X3iXMs3WqPpKFpEh"
+    },
+    {
+      "added_at": "2024-01-06 12:16:36",
+      "album": {
+        "name": "Apricity",
+        "url": "https://open.spotify.com/album/3sjOEpRpJmfyXiIOs2pXX0"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 188516,
+      "name": "Next Blue",
+      "url": "https://open.spotify.com/track/5mUFrgd163NycUffrvBzeY"
+    },
+    {
+      "added_at": "2024-01-06 12:16:36",
+      "album": {
+        "name": "Checkpoint Titanium",
+        "url": "https://open.spotify.com/album/7bHg0AsXi33E9ZnxgdEoGS"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 61375,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/0MClMpvEwvVsDCUoyekryQ"
+    },
+    {
+      "added_at": "2024-01-06 12:16:36",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "Ashe Maree",
+      "url": "https://open.spotify.com/track/72Dfg8NS9WDyH9xUEsfXIn"
+    },
+    {
+      "added_at": "2024-01-06 12:16:36",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/6upY303oACCGOxgkI3Ndtg"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 120502,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/2zoNDCHS1jVpmoVU9z79Re"
+    },
+    {
+      "added_at": "2024-01-06 12:16:36",
       "album": {
         "name": "Mayday (feat. Harrison)",
         "url": "https://open.spotify.com/album/4x4wcNmMi0vJxQ9z4EOqUB"
@@ -643,6 +611,62 @@
       "duration_ms": 258750,
       "name": "Mayday (feat. Harrison)",
       "url": "https://open.spotify.com/track/2m5zbzKP9t1w9AQGmUtmZl"
+    },
+    {
+      "added_at": "2024-01-06 12:16:36",
+      "album": {
+        "name": "Checkpoint Titanium",
+        "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Clairmont The Second",
+          "url": "https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7"
+        }
+      ],
+      "duration_ms": 237037,
+      "name": "It's Okay, I Promise",
+      "url": "https://open.spotify.com/track/6zApq99qzcylaUENzFkSk8"
+    },
+    {
+      "added_at": "2024-01-06 12:16:36",
+      "album": {
+        "name": "Parallel World (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0PeRkG0U2RckOC9OOSwiAi"
+      },
+      "artists": [
+        {
+          "name": "Cadence Weapon",
+          "url": "https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS"
+        },
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 145811,
+      "name": "Play No Games (Harrison Remix)",
+      "url": "https://open.spotify.com/track/77pFbX4IYXtmGNgImM6KjI"
+    },
+    {
+      "added_at": "2024-01-06 12:16:36",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 222720,
+      "name": "Collage",
+      "url": "https://open.spotify.com/track/2mMxrXVTSkDeN5m8KK1Y4x"
     }
   ],
   "unique_name": "This Is Harrison",

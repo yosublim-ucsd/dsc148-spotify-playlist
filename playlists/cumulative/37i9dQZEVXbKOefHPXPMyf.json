@@ -4088,7 +4088,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 301276,
       "name": "Besitos",
       "url": "https://open.spotify.com/track/7yS5ru5Zte13ujlQZqVbtC"
@@ -8294,7 +8294,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 481000,
       "name": "De la Vida Como Pelicula, Tragedia, Comedia y Ficcion",
       "url": "https://open.spotify.com/track/76YpLOgJcD2YInDHs5u69s"
@@ -13476,7 +13476,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 147166,
       "name": "Good To Be",
       "url": "https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6"
@@ -22798,6 +22798,32 @@
       "duration_ms": 123651,
       "name": "No tienes motivacion",
       "url": "https://open.spotify.com/track/4ON0wg71I7dOCIunXi7sFd"
+    },
+    {
+      "album": {
+        "name": "No Voy a Llorar Por Ti",
+        "url": "https://open.spotify.com/album/0DAHo5LXe7Iflr0vfda7Tc"
+      },
+      "artists": [
+        {
+          "name": "Fede Vigevani",
+          "url": "https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr"
+        },
+        {
+          "name": "Ian Lucas",
+          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
+        },
+        {
+          "name": "Milthon",
+          "url": "https://open.spotify.com/artist/6gIF4fABYGdlhkCP8C22MK"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158125,
+      "name": "No Voy a Llorar Por Ti",
+      "url": "https://open.spotify.com/track/6XamCg6wYD7B9o38SB5SH3"
     },
     {
       "album": {
@@ -35488,7 +35514,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 150266,
       "name": "Watch Me Work",
       "url": "https://open.spotify.com/track/0ukPlkEhhWPQWKq5b2awnn"
@@ -36262,7 +36288,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 196363,
       "name": "WYA",
       "url": "https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF"

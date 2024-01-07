@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 
 > This is Lefty Sm\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,339 likes - 51 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,589 likes - 51 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 | 50 | [Pacas](https://open.spotify.com/track/7p79Gg3qf9kEjV6CzQrdzI) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Pacas](https://open.spotify.com/album/4B4NiS8veDy5MdUB0GmBn1) | 3:03 |
 | 51 | [Yo Solo Quiero](https://open.spotify.com/track/6DrfsMqDVq7eaSXfqQ3sGv) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR) | [Yo Solo Quiero](https://open.spotify.com/album/5dtVml8b6OkeQG1BAl3VbN) | 3:43 |
 
-Snapshot ID: `Mjg0MDc3MDMsMDAwMDAwMDBlMWMyZGRmZmJhZjRlN2NmMTVmNzZmMDcyZTc5YmM3Yg==`
+Snapshot ID: `Mjg0MDkwNTYsMDAwMDAwMDAwMTFmNWI1Mjg0MzhlM2FiM2Y4ODM2YWExNzgwOWY4MA==`

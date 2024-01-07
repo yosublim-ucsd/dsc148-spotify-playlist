@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 703340,
+  "num_followers": 703612,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjljOWY4Y2Q3Y2MwODk1M2RhNGIxMzk2YTQxY2NmNzY3ZjAzMTBl",
+  "snapshot_id": "MCxkYjRmNjY5OWZmZjNiMjUzZTVhODljMzNiYjM2NWI0OTdhY2U0MmFj",
   "tracks": [
     {
       "added_at": "2023-12-21 21:10:20",
@@ -303,6 +303,26 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
+        "name": "Summer's Over",
+        "url": "https://open.spotify.com/album/60EzsIzS77S9MWHT0Tm37s"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        },
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Summer's Over",
+      "url": "https://open.spotify.com/track/4E5N0mYyYFf0QZs3XDeSIj"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
         "name": "Silk Degrees (2023 Remaster)",
         "url": "https://open.spotify.com/album/1iIyo1JkpnNz83Mf4I9AiI"
       },
@@ -339,26 +359,6 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Summer's Over",
-        "url": "https://open.spotify.com/album/60EzsIzS77S9MWHT0Tm37s"
-      },
-      "artists": [
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        },
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Summer's Over",
-      "url": "https://open.spotify.com/track/4E5N0mYyYFf0QZs3XDeSIj"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
         "name": "Maggot Brain",
         "url": "https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm"
       },
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
+        "name": "From 2 to 3",
+        "url": "https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 257006,
+      "name": "Give Up Baby Go",
+      "url": "https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
         "name": "Talk It Out",
         "url": "https://open.spotify.com/album/2uPJPiD4i7nMZ91R3AvgQ5"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 190726,
       "name": "Talk It Out",
       "url": "https://open.spotify.com/track/6Ug0JMAhAVvytcnwBEMb5Z"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
-        "name": "From 2 to 3",
-        "url": "https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 257006,
-      "name": "Give Up Baby Go",
-      "url": "https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 214346,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
         "name": "Come Around and Love Me",
         "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 146813,
       "name": "If You Don't Want My Love",
       "url": "https://open.spotify.com/track/4A48ckONJNoXU5smWT9CeG"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
+        "name": "First Place",
+        "url": "https://open.spotify.com/album/5hNhX0yQcd76ThunCFcggK"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 283190,
+      "name": "Everything Is Just a Mess",
+      "url": "https://open.spotify.com/track/2OMlPoee6u5IJzWTXhS2jN"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
         "name": "Music",
         "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
       },
@@ -771,18 +787,18 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "First Place",
-        "url": "https://open.spotify.com/album/5hNhX0yQcd76ThunCFcggK"
+        "name": "Ga Ga Ga Ga Ga (2017 Remaster)",
+        "url": "https://open.spotify.com/album/3tSpLdSd2zhM0N0aYZd13E"
       },
       "artists": [
         {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
         }
       ],
-      "duration_ms": 283190,
-      "name": "Everything Is Just a Mess",
-      "url": "https://open.spotify.com/track/2OMlPoee6u5IJzWTXhS2jN"
+      "duration_ms": 216720,
+      "name": "Don't You Evah",
+      "url": "https://open.spotify.com/track/3UytFqZuZwJFsTPti5gcPB"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -819,22 +835,6 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "The SLAM! Years: 1983 - 1988 (Habibi Funk 018)",
-        "url": "https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS"
-      },
-      "artists": [
-        {
-          "name": "Hamid Al Shaeri",
-          "url": "https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT"
-        }
-      ],
-      "duration_ms": 219624,
-      "name": "Ayonha",
-      "url": "https://open.spotify.com/track/5HCTbcF18u5DcYNwEWWf3n"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
         "name": "Coney Island Baby",
         "url": "https://open.spotify.com/album/3Kawndiz86cIHkPsKtFiKx"
       },
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Ga Ga Ga Ga Ga (2017 Remaster)",
-        "url": "https://open.spotify.com/album/3tSpLdSd2zhM0N0aYZd13E"
+        "name": "The SLAM! Years: 1983 - 1988 (Habibi Funk 018)",
+        "url": "https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS"
       },
       "artists": [
         {
-          "name": "Spoon",
-          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+          "name": "Hamid Al Shaeri",
+          "url": "https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT"
         }
       ],
-      "duration_ms": 216720,
-      "name": "Don't You Evah",
-      "url": "https://open.spotify.com/track/3UytFqZuZwJFsTPti5gcPB"
+      "duration_ms": 219624,
+      "name": "Ayonha",
+      "url": "https://open.spotify.com/track/5HCTbcF18u5DcYNwEWWf3n"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Jaime",
-        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 191395,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
         "name": "The Dandelion",
         "url": "https://open.spotify.com/album/3fk6hBtA6FfDK79t0oWmqG"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 219884,
       "name": "The Dandelion",
       "url": "https://open.spotify.com/track/37nRhMFqggMLfWOpTL2vgZ"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 191395,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
+        "name": "Under The Blacklight (Standard Version)",
+        "url": "https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8"
+      },
+      "artists": [
+        {
+          "name": "Rilo Kiley",
+          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
+        }
+      ],
+      "duration_ms": 216973,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
         "name": "American Love Call",
         "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
       },
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Under The Blacklight (Standard Version)",
-        "url": "https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8"
-      },
-      "artists": [
-        {
-          "name": "Rilo Kiley",
-          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
-        }
-      ],
-      "duration_ms": 216973,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
         "name": "Wiggle Room",
         "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
       },
@@ -1287,6 +1287,22 @@
       "duration_ms": 147893,
       "name": "Handsome",
       "url": "https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
+        "name": "Mine Forever",
+        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 288283,
+      "name": "Mine Forever",
+      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1311,22 +1327,6 @@
       "duration_ms": 151500,
       "name": "wait outside",
       "url": "https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
-        "name": "Mine Forever",
-        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 288283,
-      "name": "Mine Forever",
-      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Bismillah",
-        "url": "https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd"
+        "name": "Big Crown Vaults Vol. 3 - Holy Hive",
+        "url": "https://open.spotify.com/album/2WJTqjkxctm9tTax0zAq46"
       },
       "artists": [
         {
-          "name": "Peter Cat Recording Co.",
-          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
+          "name": "Holy Hive",
+          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
         }
       ],
-      "duration_ms": 227293,
-      "name": "Soulless Friends",
-      "url": "https://open.spotify.com/track/4U5TPHqsmvVzc8CCZPLfzg"
+      "duration_ms": 132750,
+      "name": "This Is My Story",
+      "url": "https://open.spotify.com/track/44PXZKO9CfbWrHosfe9j3a"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Big Crown Vaults Vol. 3 - Holy Hive",
-        "url": "https://open.spotify.com/album/2WJTqjkxctm9tTax0zAq46"
+        "name": "Bismillah",
+        "url": "https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd"
       },
       "artists": [
         {
-          "name": "Holy Hive",
-          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
+          "name": "Peter Cat Recording Co.",
+          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
         }
       ],
-      "duration_ms": 132750,
-      "name": "This Is My Story",
-      "url": "https://open.spotify.com/track/44PXZKO9CfbWrHosfe9j3a"
+      "duration_ms": 227293,
+      "name": "Soulless Friends",
+      "url": "https://open.spotify.com/track/4U5TPHqsmvVzc8CCZPLfzg"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Dusk at Cubist Castle",
-        "url": "https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh"
-      },
-      "artists": [
-        {
-          "name": "The Olivia Tremor Control",
-          "url": "https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB"
-        }
-      ],
-      "duration_ms": 112066,
-      "name": "Jumping Fences",
-      "url": "https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
         "name": "Life and Life Only",
         "url": "https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 266106,
       "name": "Go Down River",
       "url": "https://open.spotify.com/track/4V4wsqkdFEQ4weme7FlnNC"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
+        "name": "Dusk at Cubist Castle",
+        "url": "https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh"
+      },
+      "artists": [
+        {
+          "name": "The Olivia Tremor Control",
+          "url": "https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB"
+        }
+      ],
+      "duration_ms": 112066,
+      "name": "Jumping Fences",
+      "url": "https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt"
     }
   ],
   "unique_name": "Feel Good Dinner",

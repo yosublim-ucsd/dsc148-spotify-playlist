@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-460 songs - 1 day 15 hr 48 min
+461 songs - 1 day 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [Karabali](https://open.spotify.com/track/48qDlvkTp9Qwi9upy4HbTw) | [Kiko Navarro](https://open.spotify.com/artist/1NZAlPHtdhiK1HzHrQClTj), [Isis "Apache" Montero](https://open.spotify.com/artist/6bYazLdY9FOXMKqiJpP8yA), [Roque Martinez](https://open.spotify.com/artist/6LcN8OnXsB9BD3j58iDKKT) | [Afroterraneo](https://open.spotify.com/album/39wGGsvN5SnqfjlrAe8l7l) | 7:05 | 2023-05-12 |  |
 | [Karizma](https://open.spotify.com/track/6oTrSmQUsvndDDQSMjqcyM) | [Moe Turk](https://open.spotify.com/artist/12rv3gD3SpWQRRkswqlwvF) | [Karizma](https://open.spotify.com/album/012jKWKp9G69I3jQXhvh4C) | 5:52 | 2022-10-28 | 2023-12-14 |
 | [Keep Going](https://open.spotify.com/track/0JDSAbpZjlSMP2fpFjtiuN) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Keep Going](https://open.spotify.com/album/6QehqXj90f0dAm6IqMPtRo) | 3:44 | 2023-02-03 |  |
-| [Keep On](https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Keep On](https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO) | 3:38 | 2022-05-03 |  |
+| [Keep On](https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Keep On](https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO) | 3:38 | 2022-05-03 | 2024-01-07 |
 | [Keep On Reachin \- Main Mix](https://open.spotify.com/track/56Dv87Nbnwx9TLMxUkYbLG) | [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [Keep on Reachin](https://open.spotify.com/album/2ZaDoH0PAeavRtIvmPKwq3) | 5:24 | 2021-12-08 | 2023-08-18 |
 | [Keramas](https://open.spotify.com/track/6QYthxincEvqQzGkfAOAiK) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy) | [Keramas / Harpanet](https://open.spotify.com/album/3d6TLlQimQZIXeQyhMFQq4) | 3:44 | 2021-12-08 | 2023-07-07 |
 | [Kunzite](https://open.spotify.com/track/4zEbnQ59YXDeCC8Cc81pjc) | [Hosini](https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF) | [8 Hours, Still No Rain EP](https://open.spotify.com/album/0BOaheOSk6cpvXPm3spOx0) | 4:27 | 2021-12-08 |  |
@@ -268,6 +268,7 @@
 | [No Stress in Cres](https://open.spotify.com/track/0gRVYjk3IFVQBUtfdoLc5W) | [Sound Nomaden](https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0) | [No Stress in Cres](https://open.spotify.com/album/4R3hOElsUNXGykwoXwdsef) | 4:51 | 2023-10-13 |  |
 | [Nobody But You](https://open.spotify.com/track/2CrlhJAUBfMc53CYt0v8ev) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Hudson Scott](https://open.spotify.com/artist/1ejaJ2V5Ea7O43Y32vAwEl) | [All That Must Be](https://open.spotify.com/album/52LJO0cNeBErBohaxNZ0t4) | 4:51 | 2022-05-03 |  |
 | [Nobody Knows](https://open.spotify.com/track/4hq1oUeJruAfgsEmfdtgLR) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18), [Dolly Rae](https://open.spotify.com/artist/0wB5diKi6MD5CqXoJ3h6lJ) | [Tarazed](https://open.spotify.com/album/03fHzOcSrqgaYKiKjs0Ldn) | 4:30 | 2023-02-14 |  |
+| [Nostalgia](https://open.spotify.com/track/4iS30UyxLu8IwZBIpMOsnw) | [XIXI](https://open.spotify.com/artist/6hkvnjLeIb4gSHy3GImvqw), [Julie Trouvé](https://open.spotify.com/artist/7roPpKRzos25nBru44u73U) | [Silhouettes](https://open.spotify.com/album/12ltZJAZrIczGXrbmwFwqg) | 3:17 | 2023-12-15 |  |
 | [Nostalgic](https://open.spotify.com/track/10LSigkAHxT3yBe1rQJpBv) | [Col Lawton](https://open.spotify.com/artist/1KoBr4hgTMG3lPR353sNqm) | [Nostalgic](https://open.spotify.com/album/2ZErGALHzhUPyxR9nOiZU4) | 6:29 | 2022-05-03 |  |
 | [Notte senza fine \- Kiasmos Remix](https://open.spotify.com/track/6HUnAzGo1zYfdX4ZW1yiZh) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc), [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Endless \(Remixes\)](https://open.spotify.com/album/2obZe0VX40C3BL9FNmDjP7) | 6:28 | 2022-02-21 | 2023-03-04 |
 | [Novo Dia](https://open.spotify.com/track/3rYiDPHMFnUseosoKq6YCC) | [Mezomo](https://open.spotify.com/artist/0U791oo0NOxRO3OlSiYXnX), [Dri Reigado](https://open.spotify.com/artist/4aaXdniBUwpXzZJ8OdyLUg) | [Novo Dia](https://open.spotify.com/album/1PInwb9Znwu00pCKUVtb2C) | 7:05 | 2021-12-08 | 2022-07-22 |

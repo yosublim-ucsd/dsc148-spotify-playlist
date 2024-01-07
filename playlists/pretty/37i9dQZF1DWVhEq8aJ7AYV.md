@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,527 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,547 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 36 | [Frenesick](https://open.spotify.com/track/2Nj3Nav85I3sBSnJG0ff8A) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Acapulco Golden](https://open.spotify.com/album/54nY5IKYlpgFYYXbA5Y3hr) | 2:25 |
 | 37 | [Wading Out](https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ) | [Favourite People](https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt) | [Wading Out / Shell Island](https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT) | 3:41 |
 | 38 | [Farewell to Monster Island](https://open.spotify.com/track/4L84ElkLcocqS6iuQjbL9m) | [Daikaiju](https://open.spotify.com/artist/1boMjUeqvfISOyhMtR89QC) | [Daikaiju](https://open.spotify.com/album/2JeW42eEkcpxw1UHvZFfVG) | 8:26 |
-| 39 | [The Godfather](https://open.spotify.com/track/4IbDm3FsKHrdbuAAWXZztu) | [Satan's Pilgrims](https://open.spotify.com/artist/7LQPLh6XX8uGuU8WKkHYIM) | [Plymouth Rock](https://open.spotify.com/album/3vBmJk8uUIqtH2wYPdVfq9) | 2:34 |
-| 40 | [¡Pum\-Pum! ¡Bang\-Bang!](https://open.spotify.com/track/0at4CKnxtYgZ7epJjomd30) | [Los Esquizitos](https://open.spotify.com/artist/2zYgJ6dbHzarjjnMCGeV2A) | [Los Esquizitos](https://open.spotify.com/album/72qcrTIMcqB0UxMnHDZ8R3) | 3:52 |
+| 39 | [¡Pum\-Pum! ¡Bang\-Bang!](https://open.spotify.com/track/0at4CKnxtYgZ7epJjomd30) | [Los Esquizitos](https://open.spotify.com/artist/2zYgJ6dbHzarjjnMCGeV2A) | [Los Esquizitos](https://open.spotify.com/album/72qcrTIMcqB0UxMnHDZ8R3) | 3:52 |
+| 40 | [The Godfather](https://open.spotify.com/track/4IbDm3FsKHrdbuAAWXZztu) | [Satan's Pilgrims](https://open.spotify.com/artist/7LQPLh6XX8uGuU8WKkHYIM) | [Plymouth Rock](https://open.spotify.com/album/3vBmJk8uUIqtH2wYPdVfq9) | 2:34 |
 | 41 | [Apache \- Stereo](https://open.spotify.com/track/0iZ7IbC5eHHeEVIadW61rT) | [The Ventures](https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35) | [Play Telstar, The Lonely Bull & Others](https://open.spotify.com/album/39ihYe9wjorVed79RQqZ0S) | 3:11 |
 | 42 | [Haulin' Hearse](https://open.spotify.com/track/4A9dMvwGlocF9gxVesArPR) | [The Ghastly Ones](https://open.spotify.com/artist/2dOGUGTTR0vKcexJaOOLMy) | [A\-Haunting We Will Go\-Go](https://open.spotify.com/album/6bXNFJ3G3oq73vWW7uHvtk) | 2:22 |
 | 43 | [Tiki Surf](https://open.spotify.com/track/1OAcBwfDqJXWOawfaSfark) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Surf Extremo](https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK) | 1:56 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 50 | [Santo Y Lunave](https://open.spotify.com/track/7LGPSSlvK98fMseE2I7Z83) | [Los Esquizitos](https://open.spotify.com/artist/2zYgJ6dbHzarjjnMCGeV2A) | [Los Esquizitos](https://open.spotify.com/album/72qcrTIMcqB0UxMnHDZ8R3) | 3:50 |
 | 51 | [Whirlpool](https://open.spotify.com/track/4uUyxCK28787qPada57VMI) | [The Volcanos](https://open.spotify.com/artist/4GCNnUFn0gHoQve1ENVr5i) | [Surf Quake!](https://open.spotify.com/album/1rCo9zhVtthN9GWsi6CBdz) | 2:06 |
 | 52 | [La Viuda Negra](https://open.spotify.com/track/0vlcfidir85v3y6ths4HWZ) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Sonido Bestia](https://open.spotify.com/album/3X31PsiKoR8dBnc9wrQCIc) | 3:06 |
-| 53 | [Antimatter Man](https://open.spotify.com/track/6pLfrcn8DfDLW0tV3UYFjE) | [Man Or Astro\-Man?](https://open.spotify.com/artist/3z3lEz2qH5h6qJa8DYukxY) | [Defcon 5...4...3...2...1](https://open.spotify.com/album/5b59CWlbRYqdAJkoj1gQKe) | 2:35 |
-| 54 | [Surfin Beer](https://open.spotify.com/track/230qkv2nzn62ejlAFo3flv) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Surf Extremo](https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK) | 2:06 |
+| 53 | [Surfin Beer](https://open.spotify.com/track/230qkv2nzn62ejlAFo3flv) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Surf Extremo](https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK) | 2:06 |
+| 54 | [Antimatter Man](https://open.spotify.com/track/6pLfrcn8DfDLW0tV3UYFjE) | [Man Or Astro\-Man?](https://open.spotify.com/artist/3z3lEz2qH5h6qJa8DYukxY) | [Defcon 5...4...3...2...1](https://open.spotify.com/album/5b59CWlbRYqdAJkoj1gQKe) | 2:35 |
 | 55 | [The Trouble With Those Mothra Girls](https://open.spotify.com/track/5DS76z4SSW8MWAyl9NVqMg) | [Daikaiju](https://open.spotify.com/artist/1boMjUeqvfISOyhMtR89QC) | [Daikaiju](https://open.spotify.com/album/2JeW42eEkcpxw1UHvZFfVG) | 3:29 |
 | 56 | [Mala Influencia](https://open.spotify.com/track/1yzoFk7CkO01YSC3GWi5Z1) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Marcela Viejo](https://open.spotify.com/artist/1j2sGZWC8B3TvIxsK7mVpx), [Mario Cobo](https://open.spotify.com/artist/4Wq5nHO913AYYjcuHr59ML), [Dani Nel\-lo](https://open.spotify.com/artist/4pYQYbMal0JjX4kwmGgGdd) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 3:27 |
 | 57 | [Hey Lupe](https://open.spotify.com/track/1oyb4zsThmXB92wdKWcqXv) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Rock en Espanol, Vol\. 1](https://open.spotify.com/album/7izW2Pzyz1qLA2Z6Pc79xS) | 3:19 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 70 | [Space Oddity](https://open.spotify.com/track/1aqKNWVSHrdJNxYTtl8kZU) | [The Neanderthals](https://open.spotify.com/artist/3IEkhYN4pmmS1XFtB2cAT8), [Eddie Angel \(Los Straitjackets\)](https://open.spotify.com/artist/1vo1sJls2CJ26A7VcvWEqC) | [The Neanderthals In Space](https://open.spotify.com/album/18Q5PGVJ162yrxJvZD6Uei) | 2:59 |
 | 71 | [Pirakor](https://open.spotify.com/track/28WuMTR0P01MYIlK11uUsE) | [Los Elasticos](https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z) | [Los Elásticos](https://open.spotify.com/album/4U6G03jSc18QPPxkx9ksBD) | 3:13 |
 | 72 | [It's Monster Surfing Time](https://open.spotify.com/track/1mq3yiM47o1mOXgGPhoTKM) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Mondo Zombie Boogaloo](https://open.spotify.com/album/0Cg66yZQ6YfeHjywgaIge2) | 2:11 |
-| 73 | [La Chica Rockabilly](https://open.spotify.com/track/4ioqGCkmubr8E86LaR80mv) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Abulon](https://open.spotify.com/artist/4rliI8lIAng1LA0hxWLjo6) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 1:55 |
-| 74 | [Shiralee](https://open.spotify.com/track/7dun0h25rFIwPJEKp3kheP) | [Arizona Baby](https://open.spotify.com/artist/1RzhOKsFwEhVZWR2OmCCqV) | [Second To None](https://open.spotify.com/album/7GjYH3xnMyVkdPomUQfzu9) | 3:03 |
-| 75 | [The Falcon Sleeps Tonight](https://open.spotify.com/track/4toFjXCMOTkZrw36kzixHy) | [Corizonas](https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP) | [The News Today](https://open.spotify.com/album/5RHDJFdQC90EIRn682wXXN) | 3:10 |
+| 73 | [The Falcon Sleeps Tonight](https://open.spotify.com/track/4toFjXCMOTkZrw36kzixHy) | [Corizonas](https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP) | [The News Today](https://open.spotify.com/album/5RHDJFdQC90EIRn682wXXN) | 3:10 |
+| 74 | [La Chica Rockabilly](https://open.spotify.com/track/4ioqGCkmubr8E86LaR80mv) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Abulon](https://open.spotify.com/artist/4rliI8lIAng1LA0hxWLjo6) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 1:55 |
+| 75 | [Shiralee](https://open.spotify.com/track/7dun0h25rFIwPJEKp3kheP) | [Arizona Baby](https://open.spotify.com/artist/1RzhOKsFwEhVZWR2OmCCqV) | [Second To None](https://open.spotify.com/album/7GjYH3xnMyVkdPomUQfzu9) | 3:03 |
 
-Snapshot ID: `MCw4MzkzNTNhMGU4NTVhZWZmY2Q3NGQxMWFlMDg3ZjhkNTYzZTdhMGU0`
+Snapshot ID: `MCxmZGZlN2MzMGUyNGExZTE4NDkzN2EyNjNkMDc0MGM4NGQ0MGU5ODU1`

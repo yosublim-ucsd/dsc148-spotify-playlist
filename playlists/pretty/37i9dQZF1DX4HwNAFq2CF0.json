@@ -1,12 +1,12 @@
 {
   "description": "The hits that keep on rocking your world. Cover: Avril Lavigne, YUNGBLUD",
-  "num_followers": 65419,
+  "num_followers": 65438,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDEwODM3ZWI0MjE5MDNkYzZjMmIzY2YyNGNhMzc5OTgwNTJiOWUx",
+  "snapshot_id": "MCwwNjllOGRhYTAzNzhkMGUwYzI0ODQ0ZmNhYzBmYWNjMjgyZGNkNTk5",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "LIVING THINGS",
-        "url": "https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 230253,
-      "name": "BURN IT DOWN",
-      "url": "https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Tourist History",
         "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 191706,
       "name": "What You Know",
       "url": "https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "LIVING THINGS",
+        "url": "https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 230253,
+      "name": "BURN IT DOWN",
+      "url": "https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "ATLAS",
-        "url": "https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz"
-      },
-      "artists": [
-        {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
-        }
-      ],
-      "duration_ms": 192106,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/6rrKbzJGGDlSZgLphopS49"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "sTraNgeRs",
         "url": "https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 195747,
       "name": "sTraNgeRs",
       "url": "https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "ATLAS",
+        "url": "https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "duration_ms": 192106,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/6rrKbzJGGDlSZgLphopS49"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "The Attractions Of Youth",
-        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
-      },
-      "artists": [
-        {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
-        }
-      ],
-      "duration_ms": 176093,
-      "name": "Glitter & Gold",
-      "url": "https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Wasting Light",
         "url": "https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 255960,
       "name": "Walk",
       "url": "https://open.spotify.com/track/76Je5Wklky23mVoxiRszcN"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "The Attractions Of Youth",
+        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "duration_ms": 176093,
+      "name": "Glitter & Gold",
+      "url": "https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "13 Voices",
-        "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 209666,
-      "name": "War",
-      "url": "https://open.spotify.com/track/23Vf9hNoBN8AacpUUHbiRy"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Crooked Teeth",
         "url": "https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 214797,
       "name": "Help",
       "url": "https://open.spotify.com/track/0IbiFpXPFpvCAIs9WMX5wC"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "13 Voices",
+        "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 209666,
+      "name": "War",
+      "url": "https://open.spotify.com/track/23Vf9hNoBN8AacpUUHbiRy"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Mechanical Bull (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Wait for Me",
-      "url": "https://open.spotify.com/track/2nO1DYEg1X5GHi8SSuNJQj"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Isolate And Medicate",
         "url": "https://open.spotify.com/album/4ZpfSlHwUXaL6kgFTL6hMk"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 197800,
       "name": "Nobody Praying For Me",
       "url": "https://open.spotify.com/track/3bq8WiQrEXMwPAibYs7tpu"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Mechanical Bull (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Wait for Me",
+      "url": "https://open.spotify.com/track/2nO1DYEg1X5GHi8SSuNJQj"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "What We Live For",
-        "url": "https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 206920,
-      "name": "I'm Born To Run",
-      "url": "https://open.spotify.com/track/6zDs6zI94L761vd0cVScTT"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 216120,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/5BkGp7FLUUpKgWl29jBK0J"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "What We Live For",
+        "url": "https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 206920,
+      "name": "I'm Born To Run",
+      "url": "https://open.spotify.com/track/6zDs6zI94L761vd0cVScTT"
     },
     {
       "added_at": "2024-01-05 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 
 > Iconic women from the history of the Blues\. Cover: Bessie Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,039 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,086 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 22 | [Gimme a Pigfoot \- Mono](https://open.spotify.com/track/0xhxIYLDAAKjaLN6X012bc) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Sings Bessie Smith](https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4) | 3:07 |
 | 23 | [My Daddy Rocks Me](https://open.spotify.com/track/4cputOB2WH8qeKRVafoopX) | [Trixie Smith](https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9) | [Trixie Smith Vol\. 2 1925\-1929](https://open.spotify.com/album/2qHLqftCshlkkR8ydCXPGI) | 2:54 |
 | 24 | [Evil Gal Blues](https://open.spotify.com/track/32Rewuvfprf0VC5PX3ax3P) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Best In Blues](https://open.spotify.com/album/0IzjqAWaM8TMApaEsHK3ap) | 2:54 |
-| 25 | [Didn't It Rain](https://open.spotify.com/track/41UXxCtdRFYQMVbMi40Fi8) | [Mahalia Jackson](https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB) | [Gospels, Spirituals, & Hymns](https://open.spotify.com/album/3HLro5JgcU0df3rnJ4FXlV) | 2:38 |
+| 25 | [Don't Mess With My Man](https://open.spotify.com/track/5fAWSK7rw20ilX3N1XmZjP) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [New Orleans Ladies: Rhythm And Blues From The Vaults Of Ric And Ron](https://open.spotify.com/album/2pbjXy9Oen6U5ZoeSrxcYM) | 2:19 |
 | 26 | [Billie's Blues \- Take 1](https://open.spotify.com/track/0ba6zT47oQ4ELmAxIN2YJ3) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Essential Billie Holiday](https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x) | 2:37 |
-| 27 | [Don't Mess With My Man](https://open.spotify.com/track/5fAWSK7rw20ilX3N1XmZjP) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [New Orleans Ladies: Rhythm And Blues From The Vaults Of Ric And Ron](https://open.spotify.com/album/2pbjXy9Oen6U5ZoeSrxcYM) | 2:19 |
+| 27 | [Didn't It Rain](https://open.spotify.com/track/41UXxCtdRFYQMVbMi40Fi8) | [Mahalia Jackson](https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB) | [Gospels, Spirituals, & Hymns](https://open.spotify.com/album/3HLro5JgcU0df3rnJ4FXlV) | 2:38 |
 | 28 | [When The Levee Breaks](https://open.spotify.com/track/4xBdBFqfdZAeCRLmQpXTYb) | [Memphis Minnie & Kansas Joe](https://open.spotify.com/artist/2Dp1cq7ozeGAHEPlFVDksl) | [Queen Of The Blues](https://open.spotify.com/album/6DgLR9u6il9EhtkKEx4AiY) | 3:08 |
 | 29 | [A Little Bird Told Me](https://open.spotify.com/track/3Glgih28u8fdw7cac5Kv2j) | [Blue Lu Barker](https://open.spotify.com/artist/3VkdiA1x4W2ISeJPWHswtQ) | [Capitol Records From The Vaults: "Vine Street Divas"](https://open.spotify.com/album/5zgbJkwtiJlKxBRkuRzIrw) | 2:14 |
 | 30 | [Haunted House Blues](https://open.spotify.com/track/0GHJuqABJchfWPdLHBnwII) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 1](https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7) | 3:28 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 59 | [Rock Me \- Remastered](https://open.spotify.com/track/7kjSEttzgU84VTgh6zI9s0) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Anthology: The Deluxe Collection \(Remastered\)](https://open.spotify.com/album/29YtW2554LjHMRYR8ZPTQp) | 2:36 |
 | 60 | [Butcher Shop Blues](https://open.spotify.com/track/3r4yrl1dkGdMFfd6xfXZqr) | [Bernice Edwards](https://open.spotify.com/artist/7cJROigYPhe94mk64bXOKA) | [Raunchy Business: Hot Nuts & Lollypops](https://open.spotify.com/album/3cROUoUhbx4nqE1dUyYadx) | 3:06 |
 | 61 | [I Crave Your Lovin' Every Day](https://open.spotify.com/track/2PyvydBuudmwj7BtCNY45U) | [Ora Alexander](https://open.spotify.com/artist/1PQwSb0u9VGGk4yqojZYgl) | [Female Blues Singers Vol\. 1 A/B \(1924\-1932\)](https://open.spotify.com/album/0taoz29EBZr4cz9UKTrbIB) | 3:03 |
-| 62 | [Tight in Chicago](https://open.spotify.com/track/4k67bWm6tosvIFUjuv9zpV) | [Mozelle Alderson](https://open.spotify.com/artist/7s0emFTwgBW7DQw7n3X4Yu) | [Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum](https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3) | 2:59 |
-| 63 | [Romance In The Dark](https://open.spotify.com/track/5eLdg6SFlue27XADwrAxzS) | [Lilgreen](https://open.spotify.com/artist/6vchx2WteYQ1SnTTHE0ib7) | [Lil's Big Hits](https://open.spotify.com/album/2bqHbihz5UMPJE5gdPHN08) | 3:22 |
+| 62 | [Romance In The Dark](https://open.spotify.com/track/5eLdg6SFlue27XADwrAxzS) | [Lilgreen](https://open.spotify.com/artist/6vchx2WteYQ1SnTTHE0ib7) | [Lil's Big Hits](https://open.spotify.com/album/2bqHbihz5UMPJE5gdPHN08) | 3:22 |
+| 63 | [Tight in Chicago](https://open.spotify.com/track/4k67bWm6tosvIFUjuv9zpV) | [Mozelle Alderson](https://open.spotify.com/artist/7s0emFTwgBW7DQw7n3X4Yu) | [Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum](https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3) | 2:59 |
 | 64 | [Crazy Blues \(Alternate Take\)](https://open.spotify.com/track/1ligDVAloDQL9v7vQzGN6p) | [Mamie Smith](https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk) | [Presenting Mamie Smith](https://open.spotify.com/album/5uHc3ZtdzPgRH4Jea9Yo7F) | 3:24 |
 | 65 | [My Castle's Rocking](https://open.spotify.com/track/4Yza9eguJ9gSLPK7HypTIF) | [Alberta Hunter](https://open.spotify.com/artist/4ZdfXQkef0hnTSqmhpGarA) | [Downhearted Blues](https://open.spotify.com/album/0uGxY4y7NJupIs7b5Keeep) | 2:31 |
 | 66 | [How Come You Do Me Like You Do?](https://open.spotify.com/track/0t0zHxsrim0OQv0dkqy9EL) | [Edith Wilson](https://open.spotify.com/artist/5elEUmHT71U4DXo5QV52pH) | [Stationary Mama](https://open.spotify.com/album/7r099iFTUtERJVckKP5O7E) | 2:48 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 68 | [East and West Blues](https://open.spotify.com/track/0dTUDvCC9x6a6UUPjOrOM2) | [Marie Grinter](https://open.spotify.com/artist/5xNjHH7UcOnDXIb6SnK1qr) | [East and West Blues](https://open.spotify.com/album/2CpcUaXSolfue1LCymEctZ) | 3:26 |
 | 69 | [Jack I'm Mellow \(Alternate Take 2\)](https://open.spotify.com/track/5d72jeEFlnQLM8crLgRPX3) | [Trixie Smith](https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9) | [Presenting Trixie Smith](https://open.spotify.com/album/0PA8ZMSJS3KJuwaogi90lu) | 2:45 |
 | 70 | [There's Good Blues Tonight](https://open.spotify.com/track/1VqlaUqWBQQPbiU3IKOlN5) | [Lucky Millinder Orchestra](https://open.spotify.com/artist/5VuUyxdHLvgIhVzCvC65xk), [Annisteen Allen](https://open.spotify.com/artist/1NL2N25zWc4cTacQTntwi4) | [Classics by Lucky Millinder Orchestra](https://open.spotify.com/album/2N9wYYSikvi6QIyNopvzaq) | 2:28 |
-| 71 | [The Bluest Blues](https://open.spotify.com/track/7LZa39RPiKZSTxBKq7sbDo) | [Annisteen Allen](https://open.spotify.com/artist/1NL2N25zWc4cTacQTntwi4) | [Fujiyama Mama](https://open.spotify.com/album/7FTc1eu8VZfYfKSybTquyA) | 2:51 |
-| 72 | [Any Woman's Blues](https://open.spotify.com/track/3FJtZTsF3e7gWmaWXjfkvZ) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 1](https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7) | 3:25 |
+| 71 | [Any Woman's Blues](https://open.spotify.com/track/3FJtZTsF3e7gWmaWXjfkvZ) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 1](https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7) | 3:25 |
+| 72 | [The Bluest Blues](https://open.spotify.com/track/7LZa39RPiKZSTxBKq7sbDo) | [Annisteen Allen](https://open.spotify.com/artist/1NL2N25zWc4cTacQTntwi4) | [Fujiyama Mama](https://open.spotify.com/album/7FTc1eu8VZfYfKSybTquyA) | 2:51 |
 | 73 | [I'm His And He's Mine](https://open.spotify.com/track/4ow8NW6mODvHBzeLlSiYXB) | [The Soul Satisfiers Of Philadelphia](https://open.spotify.com/artist/0WzaN470FTMx6xff6BbHwL) | [Powerhouse Gospel](https://open.spotify.com/album/2tT0KrE7bqEef6GnIeVfuZ) | 2:36 |
 | 74 | [A Jealous Woman Like Me](https://open.spotify.com/track/4OYyArfBsu30D1L1wDDj3z) | [Sippie Wallace](https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR) | [Presenting Sippie Wallace](https://open.spotify.com/album/3leclnVX5Yk1Rj9cvI1HYR) | 3:17 |
 | 75 | [Country Boy Blues](https://open.spotify.com/track/3aidj13SWwc9o63JMdFyva) | [Lilgreen](https://open.spotify.com/artist/6vchx2WteYQ1SnTTHE0ib7) | [Lil's Big Hits](https://open.spotify.com/album/2bqHbihz5UMPJE5gdPHN08) | 2:56 |
 
-Snapshot ID: `MCw0YWJiMzRmZTliNWE2ZDEzMzY0OGZmMjlkYWIyMGExMjA5ZjY4Y2Fh`
+Snapshot ID: `MCxmNGRjMzdhOWNkMTQ2YzQ0ZTYzOTU0ZWQ0YWFlOTA2M2VhZmY2NTMx`

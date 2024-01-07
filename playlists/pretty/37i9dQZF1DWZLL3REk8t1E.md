@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 
 > ¡A calentar garganta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,156,270 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,156,419 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 | 10 | [La Soledad \(feat\. Monica Saldivar\)](https://open.spotify.com/track/6vZcycMT3468uKoSbXVJc9) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [LP Norteño](https://open.spotify.com/artist/7k3P0gw7SZwWZ718CsDpy5), [Monica Saldivar](https://open.spotify.com/artist/6DsEG8AZVx2LpveCIwzkMw) | [La Soledad \(feat\. Monica Saldivar\)](https://open.spotify.com/album/1ZoVyyIvp3ZJwv3zW8wuHv) | 3:55 |
 | 11 | [No Es Por Acá](https://open.spotify.com/track/6tEl8GwFJEFyxZAO1ibTRF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 2:47 |
 | 12 | [El Color de Tus Ojos](https://open.spotify.com/track/1l77YWrGUp3qX3NS1rz7lq) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Mejor Versión De Mí](https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1) | 3:22 |
-| 13 | [AMOR PROPIO](https://open.spotify.com/track/01cN1DKc5HH7F9MOBBjSip) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [AMOR PROPIO](https://open.spotify.com/album/7z3Yk4R2PWF0jkQp4ZKX4y) | 2:52 |
+| 13 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 |
 | 14 | [Mentirme](https://open.spotify.com/track/0ObFC2XXTtE8k9sLVnV9LY) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mentirme](https://open.spotify.com/album/5SFNFxzjXy4C2RB5WHKT3Y) | 3:08 |
-| 15 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 |
+| 15 | [AMOR PROPIO](https://open.spotify.com/track/01cN1DKc5HH7F9MOBBjSip) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [AMOR PROPIO](https://open.spotify.com/album/7z3Yk4R2PWF0jkQp4ZKX4y) | 2:52 |
 | 16 | [Le Hace Falta Un Beso](https://open.spotify.com/track/1SwY9YgXVgRbZM6uzxS4vU) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 2:47 |
 | 17 | [Ya Supérame \(En Vivo\)](https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Ya Supérame \(En Vivo\)](https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml) | 3:09 |
 | 18 | [A La Antigüita](https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 2:36 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 | 65 | [Le Dije Al Corazón](https://open.spotify.com/track/23IJBnRVYyPd2GD0mAkZTp) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [En El Area De Sueños](https://open.spotify.com/album/6pHjYeVeqfrhY7urDyaand) | 2:33 |
 | 66 | [Seis Pies Abajo](https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 2:56 |
 | 67 | [Con Un Botecito A Pecho](https://open.spotify.com/track/1IqbC17XpPQ80i5gPAFnp1) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Con Un Botecito A Pecho](https://open.spotify.com/album/1Vm0rnopJSpZ7g5W41ca8k) | 2:56 |
-| 68 | [Me Vas A Extrañar](https://open.spotify.com/track/47UjuR24Bp3LgCTHNTynXu) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Lo Mejor De Nosotros](https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0) | 4:20 |
-| 69 | [Creo en Ti](https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Creo en Ti](https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd) | 2:57 |
+| 68 | [Creo en Ti](https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Creo en Ti](https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd) | 2:57 |
+| 69 | [Me Vas A Extrañar](https://open.spotify.com/track/47UjuR24Bp3LgCTHNTynXu) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Lo Mejor De Nosotros](https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0) | 4:20 |
 | 70 | [A Dónde Quiera Que Vaya](https://open.spotify.com/track/3SAuHX9P3o0MIu7PDxFVur) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Tu Amigo Nada Más](https://open.spotify.com/album/1eLe9veDFuCD9ZIQYhsaI2) | 3:55 |
 | 71 | [A Través Del Vaso](https://open.spotify.com/track/1uqjLVaSyTkdDvfGAmXrHo) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [A Través Del Vaso](https://open.spotify.com/album/27hMg5MlBaww37hBPzS0ot) | 3:00 |
 | 72 | [Y Llegaste Tú](https://open.spotify.com/track/3DqQhY5S4RIWIoFuowD7kX) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Contigo Por Siempre](https://open.spotify.com/album/10bfwCIfySATCoekmUjeab) | 3:16 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 | 89 | [Ahí Donde Me Ven](https://open.spotify.com/track/2HsN4JUcjkdVKyafNlu7pL) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 4:04 |
 | 90 | [¿Con Qué Se Pega un Corazón?](https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [¿Con Qué Se Pega un Corazón?](https://open.spotify.com/album/2lrBqFbFWoZddaOjUbD1DF) | 3:48 |
 | 91 | [No](https://open.spotify.com/track/5EIGTiQSk0WCwwBvvbciJT) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [De Noche \- Clasicos A Mi Manera](https://open.spotify.com/album/7A8jjPIYtiY0ZXhzmd9Oms) | 3:18 |
-| 92 | [Los Caminos de la Vida \- Spotify Singles](https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los Caminos de la Vida \(Spotify Singles\)](https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5) | 5:28 |
-| 93 | [Te Quiero Mucho](https://open.spotify.com/track/6PyD9wjBeQB2pFZJl14KsM) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2OU5N16ujMgsEehujn2eUe) | 3:23 |
+| 92 | [Te Quiero Mucho](https://open.spotify.com/track/6PyD9wjBeQB2pFZJl14KsM) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2OU5N16ujMgsEehujn2eUe) | 3:23 |
+| 93 | [Los Caminos de la Vida \- Spotify Singles](https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los Caminos de la Vida \(Spotify Singles\)](https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5) | 5:28 |
 | 94 | [Te Ofrezco Un Corazón](https://open.spotify.com/track/0Y7t0yxq86MFEWQ1rTTN89) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Lo Mejor De Mi Vida](https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe) | 2:29 |
 | 95 | [¿Y Todo Para Qué?](https://open.spotify.com/track/7EdSK9nLBY2RgbJ7g22s4z) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Lo Mejor De Intocable \- 12 Super Exitos](https://open.spotify.com/album/5oY5W4w4IC0vOD4jo7gahE) | 3:10 |
 | 96 | [Adiós Amor](https://open.spotify.com/track/3OQXAp3uGQvkPi4DAMaM5p) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Adiós Amor](https://open.spotify.com/album/2aiJgzv5olyXxIErbwY5lt) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 | 99 | [La Mesa Del Rincón](https://open.spotify.com/track/5ogkMWqY3zIPdR0KXngrfq) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Las Grandes Norteñas De Los Idolos Del Pueblo](https://open.spotify.com/album/7MLCcIOXHAC9HsgOWWEmvL) | 3:24 |
 | 100 | [Hasta la Miel Amarga](https://open.spotify.com/track/6xRMuq2bvsDZn3WSIcqK0p) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 3:36 |
 
-Snapshot ID: `MCxkY2FmYmU2ZDhjYmIxZjU0NDY2OTkyMDIxYzRlMTE4ZTg2ZDNiMGEx`
+Snapshot ID: `MCwzZGI0ODhhYWYzYTgyMTI2MzI1OGU1NzBhZGYwYWNhMjYxYTIxOTEw`

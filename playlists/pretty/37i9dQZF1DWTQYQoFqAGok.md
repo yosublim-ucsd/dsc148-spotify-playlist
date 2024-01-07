@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México en la curaduría de los expertos Mariana Pérez,  Juan Carlos Reyes, Erik Montenegro y José Enrique Fernández.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,886 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,898 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [El Fantasma Enamorado](https://open.spotify.com/track/02VciW1DGSHEyxt61nMElb) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [El Tren de la Alegría](https://open.spotify.com/album/5bdtr6jYC4Lqm8gkfebEG6) | 4:22 |
 | 2 | [Entrega Total](https://open.spotify.com/track/1zQ6VQQqjSree6Nvp9QWbC) | [Andrea Básef](https://open.spotify.com/artist/7Ekf6XS5tD24ZZf6slGP1A) | [Deseo del Tiempo](https://open.spotify.com/album/4XJBrYgnGUpkpIaj2HOLph) | 4:04 |
-| 3 | [Frenesí](https://open.spotify.com/track/4a9acDlfLVTQFe6jDlkVUi) | [Big Band Jazz de México](https://open.spotify.com/artist/4o5ePOzgsCeFTqN6Ypiu0c) | [Con Sabor a México](https://open.spotify.com/album/5z4hL561LGU1WGXyURy6V6) | 4:31 |
-| 4 | [Excusez\-Moi](https://open.spotify.com/track/2O13YCjbszhxzkVxEMn1Ht) | [Triciclo Circus Band](https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt) | [No Corro, No Grito, No Empujo](https://open.spotify.com/album/0Gl73ICTO0K3h8f1E9cdZy) | 2:36 |
+| 3 | [Excusez\-Moi](https://open.spotify.com/track/2O13YCjbszhxzkVxEMn1Ht) | [Triciclo Circus Band](https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt) | [No Corro, No Grito, No Empujo](https://open.spotify.com/album/0Gl73ICTO0K3h8f1E9cdZy) | 2:36 |
+| 4 | [Frenesí](https://open.spotify.com/track/4a9acDlfLVTQFe6jDlkVUi) | [Big Band Jazz de México](https://open.spotify.com/artist/4o5ePOzgsCeFTqN6Ypiu0c) | [Con Sabor a México](https://open.spotify.com/album/5z4hL561LGU1WGXyURy6V6) | 4:31 |
 | 5 | [Cumbiero](https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [El Patio](https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31) | 4:20 |
 | 6 | [Tu Luz](https://open.spotify.com/track/4g9iO9ga0CveiTQKOeR3W4) | [Calacas Jazz Band](https://open.spotify.com/artist/2ouD4oXicYc0AOFRjm2hIr) | [Nuevos Retros](https://open.spotify.com/album/2EWXBn0wNaSo8dS9sU7esL) | 4:08 |
 | 7 | [Voy a Apagar la Luz](https://open.spotify.com/track/2XZhpqpafZhpz03QnX8Gk8) | [Julia Vari](https://open.spotify.com/artist/6b4fj1wggxqKrKB0dkghky) | [Adoro](https://open.spotify.com/album/13jVO3IGrhb8lmqLeozNuf) | 5:27 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 45 | [Nada Es Para Siempre](https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8) | [Lalo Galván](https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc) | [KonFussion](https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu) | 5:04 |
 | 46 | [La Marcha De Sansón](https://open.spotify.com/track/5FUStaUjkr3KnEuMe5ISoR) | [Chilo Moran](https://open.spotify.com/artist/2hJUxhxA0lT9kBVHUjARsK) | [Días De Vino Y Rosas](https://open.spotify.com/album/7M5Z3QiHlZx5EVaklRqUi0) | 4:36 |
 | 47 | [Chorinho Blanco](https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil) | [Ingrid Beaujean](https://open.spotify.com/artist/4fFGOtELDbrT61dFyeESp1) | [Días Lentos](https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38) | 3:34 |
-| 48 | [Dana \(Cha\-Cha\-Shag\)](https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io) | [Gigio Romero](https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn) | [Electratoaster \- EP](https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS) | 4:17 |
-| 49 | [La vida tiene que seguir, amor](https://open.spotify.com/track/5oxORYdAYEhF8yqTCKHrQj) | [Freddy Marichal](https://open.spotify.com/artist/6ZBb42oo1ieaC08giXjJoA), [Nuevas Relaciones, Las](https://open.spotify.com/artist/2baRW1aGPtYJiA8hsTC61c) | [Nuevas Relaciones: Atardecer](https://open.spotify.com/album/6BGjiD39s1ZeHTOEraKnbl) | 6:10 |
+| 48 | [La vida tiene que seguir, amor](https://open.spotify.com/track/5oxORYdAYEhF8yqTCKHrQj) | [Freddy Marichal](https://open.spotify.com/artist/6ZBb42oo1ieaC08giXjJoA), [Nuevas Relaciones, Las](https://open.spotify.com/artist/2baRW1aGPtYJiA8hsTC61c) | [Nuevas Relaciones: Atardecer](https://open.spotify.com/album/6BGjiD39s1ZeHTOEraKnbl) | 6:10 |
+| 49 | [Dana \(Cha\-Cha\-Shag\)](https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io) | [Gigio Romero](https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn) | [Electratoaster \- EP](https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS) | 4:17 |
 | 50 | [Suite Yusef Lateef](https://open.spotify.com/track/0AkwnLhfQNazmhFaWQ9unK) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Guillaume Pouget](https://open.spotify.com/artist/68aVRNEtPd31Qmo77iGojE) | [Kumoi](https://open.spotify.com/album/2qLAtuAVOqy3KXRhLb7bsU) | 2:07 |
 
-Snapshot ID: `MCwxNTVkZjZmMGM1ZjkxOTNiZjVhZTJkNTMyZmE2MDkwNTZkZmYwZDM4`
+Snapshot ID: `MCwxMTlmODNiOTg0MGE4YzRmYTEwN2Y0MjU2ZDA3NjBlODEyODJjZDA0`

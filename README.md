@@ -59,7 +59,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists <a name="playlists"></a> \(7343\)
+## Playlists <a name="playlists"></a> \(7344\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -2411,7 +2411,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Groovin' R&B](/playlists/pretty/37i9dQZF1DX4CB6zI8FWXS.md)
 - [Grrrls To The Front](/playlists/pretty/37i9dQZF1DXbKBGX7pVGFC.md)
 - [Grunge Forever](/playlists/pretty/37i9dQZF1DX11ghcIxjcjE.md)
-- [Guadalupe\-Reyes](/playlists/pretty/37i9dQZF1DXe9UYa8hql9y.md)
 - [Guaracha](/playlists/pretty/37i9dQZF1DWVlpazNNfpRz.md)
 - [Guest List: Fito Paez](/playlists/pretty/37i9dQZF1DXap0h4PBqZpr.md)
 - [Guest List: Orb](/playlists/pretty/2O0Nf9Mi5tM17PM7Ns6Fgu.md)
@@ -2432,6 +2431,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Génération Rock Français](/playlists/pretty/37i9dQZF1DX2xKCIjknUoQ.md)
 - [Günlük Güneşlik](/playlists/pretty/37i9dQZF1DWVN3NeXpA0vD.md)
 - [HAIM](/playlists/pretty/5hINCaYWvVwzzLmhh4y11x.md)
+- [HASTA QUE SALGA EL SOL](/playlists/pretty/37i9dQZF1DXe9UYa8hql9y.md)
 - [HATSUNE MIKU/ 初音ミク Project DIVA series](/playlists/pretty/37i9dQZF1DXd8cPo2t5Hqf.md)
 - [HBE](/playlists/pretty/2mDafAbdGrYSTUKmKYbZiK.md)
 - [HBO Rap Sh!t's Taste](/playlists/pretty/37i9dQZF1DWYzh3WlsCZMx.md)
@@ -3940,6 +3940,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Palestine Sounds](/playlists/pretty/37i9dQZF1DX6qjeIoR93rs.md)
 - [Palmera](/playlists/pretty/37i9dQZF1DX8k32Enx2PeV.md)
 - [Panty & Stocking with Garterbelt  \-パンティ＆ストッキングwithガーターベルト\-](/playlists/pretty/37i9dQZF1DWZemQW6Onupx.md)
+- [Papuri](/playlists/pretty/37i9dQZF1DXb5DJuf8AOJO.md)
 - [Para Andar Agushto Papa](/playlists/pretty/37i9dQZF1DWT95n8rWIyjK.md)
 - [Para Enamorados](/playlists/pretty/37i9dQZF1DXa1S1d38suSz.md)
 - [Paradox Live \-パラライ\-](/playlists/pretty/37i9dQZF1DWY3izH056ADq.md)

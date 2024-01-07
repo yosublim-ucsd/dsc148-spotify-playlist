@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,008 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,074 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 49 | [No Step on Wing](https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Empty](https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI) | 4:46 |
 | 50 | [Melancholia VI](https://open.spotify.com/track/7HfZJvZMAG5TRecSfLwzZN) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr) | 2:15 |
 
-Snapshot ID: `MCw0NjM4YjdjMzhiNDRlMTczYWFmMTkwYTI5MWY1NjJlNTRhNTkwNzhl`
+Snapshot ID: `MCxlMTY3NTdiNzA5ZTllNWY1NjQ5ZTkyMzRmOTE3MzUwY2JlNGU5NzNl`

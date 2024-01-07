@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 
 > ¡Lo naco es chido, y que viva el rocanroool! Botellita de Jerez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,970 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,047 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 39 | [Viajero](https://open.spotify.com/track/4BcyzKRntkAaECtW1iZlcO) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:14 |
 | 40 | [Cristo Viejo](https://open.spotify.com/track/43IpgycykkiMC7Tm6Q6SS2) | [Fantasma De Canterville](https://open.spotify.com/artist/040rbCr9V95JeswXJeStGx) | [Cristo Viejo](https://open.spotify.com/album/71AJr8ywoxzLvKKssrPKBy) | 5:23 |
 | 41 | [Barata y Descontó](https://open.spotify.com/track/0TaVjqxCBLG7p2dnwTYfti) | [Trolebús](https://open.spotify.com/artist/4vQGniIPKVpBklxzuUX1M3) | [En Sentido Contrario](https://open.spotify.com/album/1eW1g24GLcMwUKFyQBX5vx) | 2:37 |
-| 42 | [Y Como Es Él](https://open.spotify.com/track/6ZRnVnjp57UMZPQqVLMZgS) | [California Blues](https://open.spotify.com/artist/6T2x1Mz4MTYr3R8evdSDxn) | [15 Éxitos](https://open.spotify.com/album/5MPP3YL3rZgYG5Bl6iJxha) | 3:06 |
-| 43 | [Vaquero Rockanrolero](https://open.spotify.com/track/2l1PEUGKaO5uD2nnf3eNV7) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 4:16 |
+| 42 | [Vaquero Rockanrolero](https://open.spotify.com/track/2l1PEUGKaO5uD2nnf3eNV7) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 4:16 |
+| 43 | [Y Como Es Él](https://open.spotify.com/track/6ZRnVnjp57UMZPQqVLMZgS) | [California Blues](https://open.spotify.com/artist/6T2x1Mz4MTYr3R8evdSDxn) | [15 Éxitos](https://open.spotify.com/album/5MPP3YL3rZgYG5Bl6iJxha) | 3:06 |
 | 44 | [Que Nos Paso](https://open.spotify.com/track/2qPOZWbIrwUAFRNvit6Py2) | [Leyenda Urbana](https://open.spotify.com/artist/4GKqFZiamcM57FMUVRhyCU) | [La Nueva Sangre del Rock, Vol\. 2](https://open.spotify.com/album/50sLvy8teAwjF2HyVMHKQk) | 6:08 |
 | 45 | [Quien Te Cantara](https://open.spotify.com/track/6h4YWETL6DAEKpeSr0CaGu) | [Interpuesto](https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB) | [15 Rolitas de Amor](https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21) | 3:20 |
 | 46 | [Un Toque Mágico](https://open.spotify.com/track/39bxZQn6wJ4TmO6ZoY9AhJ) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Lo Mejor de Tex Tex](https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X) | 4:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 74 | [Plegaria](https://open.spotify.com/track/2kiPiP9u7px9iYmdYxn24t) | [Trolebús](https://open.spotify.com/artist/4vQGniIPKVpBklxzuUX1M3) | [En Sentido Contrario](https://open.spotify.com/album/1eW1g24GLcMwUKFyQBX5vx) | 5:08 |
 | 75 | [Dios Salve a las Bandas](https://open.spotify.com/track/5pTIKSSckGFcPqsptMd6SA) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:08 |
 
-Snapshot ID: `MCxiOWU3ZDFlNmRhZjFlZmE0NTlhYmUxOTBjYzZmMjkzY2JlYzg1OTk4`
+Snapshot ID: `MCw0Y2YxNTU5NGUzZDEyNjMzZjNhMzhkZTAxNjIwMWFmZGNlZjg1MWEx`

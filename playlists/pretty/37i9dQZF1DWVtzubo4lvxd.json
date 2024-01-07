@@ -1,12 +1,12 @@
 {
   "description": "Chill lo-fi beats to enjoy a great afternoon.",
-  "num_followers": 111470,
+  "num_followers": 111473,
   "original_name": "Sunset Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGIwYWFkNmQwOGVlN2NjM2Q1ZGY4NDZlNDlmZWEyYjk3ODJlNDFh",
+  "snapshot_id": "MCwxOGQyYmY5NTVkZjM2NjY2NWRhMmIxYmVhN2NlOTZhNzgwZmU2YzZm",
   "tracks": [
     {
       "added_at": "2022-04-15 12:09:52",
@@ -159,18 +159,18 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Chillhop Essentials Winter 2016",
-        "url": "https://open.spotify.com/album/57bNPwHszlEe7xhSWG2qvJ"
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
       "artists": [
         {
-          "name": "Idealism",
-          "url": "https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 176500,
-      "name": "Snowfall",
-      "url": "https://open.spotify.com/track/5tn0g0j6ksRufhK0RI33r8"
+      "duration_ms": 86925,
+      "name": "Isn't She Lovely",
+      "url": "https://open.spotify.com/track/7zcRBXvRkTRlQYLDNu1JEN"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -191,18 +191,18 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+        "name": "lovesick",
+        "url": "https://open.spotify.com/album/1ZRikNtTTBJMiRQVEerTPG"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Strafend",
+          "url": "https://open.spotify.com/artist/1kSOJRjwflnuMaLL7EqXNF"
         }
       ],
-      "duration_ms": 86925,
-      "name": "Isn't She Lovely",
-      "url": "https://open.spotify.com/track/7zcRBXvRkTRlQYLDNu1JEN"
+      "duration_ms": 150221,
+      "name": "lovesick",
+      "url": "https://open.spotify.com/track/6Ws38nb0R9kAHBn7HoGMTy"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -223,18 +223,18 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "lovesick",
-        "url": "https://open.spotify.com/album/1ZRikNtTTBJMiRQVEerTPG"
+        "name": "Chillhop Essentials Winter 2016",
+        "url": "https://open.spotify.com/album/57bNPwHszlEe7xhSWG2qvJ"
       },
       "artists": [
         {
-          "name": "Strafend",
-          "url": "https://open.spotify.com/artist/1kSOJRjwflnuMaLL7EqXNF"
+          "name": "Idealism",
+          "url": "https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD"
         }
       ],
-      "duration_ms": 150221,
-      "name": "lovesick",
-      "url": "https://open.spotify.com/track/6Ws38nb0R9kAHBn7HoGMTy"
+      "duration_ms": 176500,
+      "name": "Snowfall",
+      "url": "https://open.spotify.com/track/5tn0g0j6ksRufhK0RI33r8"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -283,22 +283,6 @@
       "duration_ms": 220689,
       "name": "Soulful",
       "url": "https://open.spotify.com/track/6CKMbke67ujzy1R7xYdQz2"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "rainy evening",
-        "url": "https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ"
-      },
-      "artists": [
-        {
-          "name": "Idealism",
-          "url": "https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD"
-        }
-      ],
-      "duration_ms": 109948,
-      "name": "nagashi",
-      "url": "https://open.spotify.com/track/6vmPUsrVk873GWkJwygHKD"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -371,6 +355,22 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
+        "name": "rainy evening",
+        "url": "https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ"
+      },
+      "artists": [
+        {
+          "name": "Idealism",
+          "url": "https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD"
+        }
+      ],
+      "duration_ms": 109948,
+      "name": "nagashi",
+      "url": "https://open.spotify.com/track/6vmPUsrVk873GWkJwygHKD"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
         "name": "I Don't Love You Anymore",
         "url": "https://open.spotify.com/album/0n64xoWxg6GJpUzA1zOWnl"
       },
@@ -399,22 +399,6 @@
       "duration_ms": 71393,
       "name": "tequila",
       "url": "https://open.spotify.com/track/0diOcYSPXO1jhT1XxGKfS3"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "time off",
-        "url": "https://open.spotify.com/album/7aFxwormHMkxMn7gXzHvBs"
-      },
-      "artists": [
-        {
-          "name": "Elijah Who",
-          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
-        }
-      ],
-      "duration_ms": 122749,
-      "name": "we used to talk every night",
-      "url": "https://open.spotify.com/track/4FbOZNHWXvvCwuuqRVNkRS"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -467,6 +451,22 @@
       "duration_ms": 77844,
       "name": "Air",
       "url": "https://open.spotify.com/track/3gQSWGaCoaxONqXitmn7GX"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "time off",
+        "url": "https://open.spotify.com/album/7aFxwormHMkxMn7gXzHvBs"
+      },
+      "artists": [
+        {
+          "name": "Elijah Who",
+          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+        }
+      ],
+      "duration_ms": 122749,
+      "name": "we used to talk every night",
+      "url": "https://open.spotify.com/track/4FbOZNHWXvvCwuuqRVNkRS"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -647,54 +647,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Smooth",
-        "url": "https://open.spotify.com/album/0QdTwm7awdhqUMJ55IqY2N"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 122252,
-      "name": "Smooth",
-      "url": "https://open.spotify.com/track/1L6vtkHvjKWBIym93FmSPP"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "Sonatina",
-        "url": "https://open.spotify.com/album/28sxvPZfJSRNw0yOwZ3pPU"
-      },
-      "artists": [
-        {
-          "name": "Huey Daze",
-          "url": "https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y"
-        }
-      ],
-      "duration_ms": 165235,
-      "name": "Afternoon Calm",
-      "url": "https://open.spotify.com/track/48GxDUMiiTQ4e7EvsU5hRq"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "v i d r i o",
-        "url": "https://open.spotify.com/album/3hQgn6o9UbwOFtAnU6ADq6"
-      },
-      "artists": [
-        {
-          "name": "Jaeden Camstra",
-          "url": "https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH"
-        }
-      ],
-      "duration_ms": 110409,
-      "name": "P a z",
-      "url": "https://open.spotify.com/track/1iOui2AZhEphqH5Yk1ktNz"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "crush on you",
         "url": "https://open.spotify.com/album/1JTdnT0NeG7mRf64KXmIE0"
       },
@@ -715,6 +667,74 @@
       "duration_ms": 84030,
       "name": "crush on you",
       "url": "https://open.spotify.com/track/3Cc3LdR3jKVhd4QFg6giXD"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Smooth",
+        "url": "https://open.spotify.com/album/0QdTwm7awdhqUMJ55IqY2N"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 122252,
+      "name": "Smooth",
+      "url": "https://open.spotify.com/track/1L6vtkHvjKWBIym93FmSPP"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "v i d r i o",
+        "url": "https://open.spotify.com/album/3hQgn6o9UbwOFtAnU6ADq6"
+      },
+      "artists": [
+        {
+          "name": "Jaeden Camstra",
+          "url": "https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH"
+        }
+      ],
+      "duration_ms": 110409,
+      "name": "P a z",
+      "url": "https://open.spotify.com/track/1iOui2AZhEphqH5Yk1ktNz"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Sonatina",
+        "url": "https://open.spotify.com/album/28sxvPZfJSRNw0yOwZ3pPU"
+      },
+      "artists": [
+        {
+          "name": "Huey Daze",
+          "url": "https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y"
+        }
+      ],
+      "duration_ms": 165235,
+      "name": "Afternoon Calm",
+      "url": "https://open.spotify.com/track/48GxDUMiiTQ4e7EvsU5hRq"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Lost In Florence",
+        "url": "https://open.spotify.com/album/03cB1unsDPer56B2nSxwWB"
+      },
+      "artists": [
+        {
+          "name": "Kendall Miles",
+          "url": "https://open.spotify.com/artist/4Z5eM7HLu4b0LAKrywoWR2"
+        },
+        {
+          "name": "I Eat Plants for a Living",
+          "url": "https://open.spotify.com/artist/5EevHNEa1e2YvcJgksJpRK"
+        }
+      ],
+      "duration_ms": 92471,
+      "name": "Lost In Florence",
+      "url": "https://open.spotify.com/track/4WrlDl9oNqNrnZ10441ANu"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -747,26 +767,6 @@
       "duration_ms": 147692,
       "name": "Divine",
       "url": "https://open.spotify.com/track/0MKb6jtMMFY0FZNg6P3dAI"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "Lost In Florence",
-        "url": "https://open.spotify.com/album/03cB1unsDPer56B2nSxwWB"
-      },
-      "artists": [
-        {
-          "name": "Kendall Miles",
-          "url": "https://open.spotify.com/artist/4Z5eM7HLu4b0LAKrywoWR2"
-        },
-        {
-          "name": "I Eat Plants for a Living",
-          "url": "https://open.spotify.com/artist/5EevHNEa1e2YvcJgksJpRK"
-        }
-      ],
-      "duration_ms": 92471,
-      "name": "Lost In Florence",
-      "url": "https://open.spotify.com/track/4WrlDl9oNqNrnZ10441ANu"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Lucid Dreams",
-        "url": "https://open.spotify.com/album/273zbmoNYTJDuyeiaVahl0"
-      },
-      "artists": [
-        {
-          "name": "Slumberville",
-          "url": "https://open.spotify.com/artist/2c0SyAUT82Al3gJQ3uezBv"
-        }
-      ],
-      "duration_ms": 116417,
-      "name": "Ladybug",
-      "url": "https://open.spotify.com/track/0mPnvBoUK9kNDHufFrh9Vb"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Directions",
         "url": "https://open.spotify.com/album/1GNYINM8gupBbSdJSPuaud"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 156000,
       "name": "Murmuration",
       "url": "https://open.spotify.com/track/6fkAGXwhsnGecBd1z3dDob"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Lucid Dreams",
+        "url": "https://open.spotify.com/album/273zbmoNYTJDuyeiaVahl0"
+      },
+      "artists": [
+        {
+          "name": "Slumberville",
+          "url": "https://open.spotify.com/artist/2c0SyAUT82Al3gJQ3uezBv"
+        }
+      ],
+      "duration_ms": 116417,
+      "name": "Ladybug",
+      "url": "https://open.spotify.com/track/0mPnvBoUK9kNDHufFrh9Vb"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/4IJUsrhvtndTW8Ws1X4gRn"
-      },
-      "artists": [
-        {
-          "name": "emune",
-          "url": "https://open.spotify.com/artist/4gkhq1EjcLZjP60fbvOyJT"
-        }
-      ],
-      "duration_ms": 106666,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/2NV4b76phwLnxUxcdlOyim"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Yerba",
         "url": "https://open.spotify.com/album/31oMm25qyo4tG0l0Yzwz7Q"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 120000,
       "name": "Rolling Papers",
       "url": "https://open.spotify.com/track/7xMon6pxYKoVIgHdsTUGYr"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/4IJUsrhvtndTW8Ws1X4gRn"
+      },
+      "artists": [
+        {
+          "name": "emune",
+          "url": "https://open.spotify.com/artist/4gkhq1EjcLZjP60fbvOyJT"
+        }
+      ],
+      "duration_ms": 106666,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/2NV4b76phwLnxUxcdlOyim"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Kids' Menu",
-        "url": "https://open.spotify.com/album/5QZRe9oZyiwJG3LqYzLQc2"
-      },
-      "artists": [
-        {
-          "name": "Jaeden Camstra",
-          "url": "https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH"
-        }
-      ],
-      "duration_ms": 77501,
-      "name": "6 out of 600",
-      "url": "https://open.spotify.com/track/2bEshJ2C5fbZ81Q3Zlnb7m"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Runway",
         "url": "https://open.spotify.com/album/6ho9z5s9kqlWfh3R8QdY0s"
       },
@@ -1035,6 +1019,38 @@
       "duration_ms": 116756,
       "name": "Swishers",
       "url": "https://open.spotify.com/track/4IYHeSEVelitaI7mX116rb"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Kids' Menu",
+        "url": "https://open.spotify.com/album/5QZRe9oZyiwJG3LqYzLQc2"
+      },
+      "artists": [
+        {
+          "name": "Jaeden Camstra",
+          "url": "https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH"
+        }
+      ],
+      "duration_ms": 77501,
+      "name": "6 out of 600",
+      "url": "https://open.spotify.com/track/2bEshJ2C5fbZ81Q3Zlnb7m"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "longing for you",
+        "url": "https://open.spotify.com/album/66uBHTMoJVpedbTq7jyU2M"
+      },
+      "artists": [
+        {
+          "name": "Moody.",
+          "url": "https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb"
+        }
+      ],
+      "duration_ms": 73846,
+      "name": "jocelyn",
+      "url": "https://open.spotify.com/track/0piDIO7lJLc007jn2DqPcF"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "longing for you",
-        "url": "https://open.spotify.com/album/66uBHTMoJVpedbTq7jyU2M"
-      },
-      "artists": [
-        {
-          "name": "Moody.",
-          "url": "https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb"
-        }
-      ],
-      "duration_ms": 73846,
-      "name": "jocelyn",
-      "url": "https://open.spotify.com/track/0piDIO7lJLc007jn2DqPcF"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Silience",
         "url": "https://open.spotify.com/album/0Lma145HTquzDLS6tPTtoy"
       },
@@ -1099,6 +1099,22 @@
       "duration_ms": 196923,
       "name": "Silience",
       "url": "https://open.spotify.com/track/1pOPNG0hcHwJNes7sxjlLu"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Kids' Menu",
+        "url": "https://open.spotify.com/album/5QZRe9oZyiwJG3LqYzLQc2"
+      },
+      "artists": [
+        {
+          "name": "Jaeden Camstra",
+          "url": "https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH"
+        }
+      ],
+      "duration_ms": 148014,
+      "name": "Open Window",
+      "url": "https://open.spotify.com/track/703hSWNgehWT0F16awNLr1"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -1175,22 +1191,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Kids' Menu",
-        "url": "https://open.spotify.com/album/5QZRe9oZyiwJG3LqYzLQc2"
-      },
-      "artists": [
-        {
-          "name": "Jaeden Camstra",
-          "url": "https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH"
-        }
-      ],
-      "duration_ms": 148014,
-      "name": "Open Window",
-      "url": "https://open.spotify.com/track/703hSWNgehWT0F16awNLr1"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "The Blyat Tapes,Vol.1",
         "url": "https://open.spotify.com/album/4agOIT6l8bQA9cQ7pjTwMu"
       },
@@ -1255,22 +1255,18 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "no shame in my game.",
-        "url": "https://open.spotify.com/album/39G2UqpSLFmV6t1Uwvef0S"
+        "name": "Hills and Horizons",
+        "url": "https://open.spotify.com/album/7uVXp056ciEBVnddjf7lt5"
       },
       "artists": [
         {
-          "name": "halberd",
-          "url": "https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB"
-        },
-        {
-          "name": "Dingus.",
-          "url": "https://open.spotify.com/artist/5Csl0cWk9AUr3M6KzlOsTV"
+          "name": "Fujitsu",
+          "url": "https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT"
         }
       ],
-      "duration_ms": 88229,
-      "name": "no shame in my game.",
-      "url": "https://open.spotify.com/track/0xsA09gqvqDx5P9Ytw94Cs"
+      "duration_ms": 125217,
+      "name": "Hills and Horizons",
+      "url": "https://open.spotify.com/track/1MfeZZwkOZP5gpCfZCzKiJ"
     }
   ],
   "unique_name": "Sunset Chill",

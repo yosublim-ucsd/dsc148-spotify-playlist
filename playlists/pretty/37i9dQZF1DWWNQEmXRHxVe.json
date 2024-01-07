@@ -1,12 +1,12 @@
 {
   "description": "Music from the most memorable Super Bowl halftime shows. Cover: Rihanna",
-  "num_followers": 89643,
+  "num_followers": 89668,
   "original_name": "Halftime Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGVmMDc3OWI3NDUzZWM1ZjZkZTc0ZTRmNmUwMmE2NmQ3MzYyZTFh",
+  "snapshot_id": "MCxlNTYxZTgwY2E0ODlkMTYwNmNkNzgxNTkxNGI5MTBmYzc4MzkwYjZl",
   "tracks": [
     {
       "added_at": "2023-01-28 00:44:44",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
-        "name": "To Pimp A Butterfly",
-        "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs"
-    },
-    {
-      "added_at": "2023-01-28 00:44:44",
-      "album": {
         "name": "The Temptations Sing Smokey",
         "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 165000,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
+    },
+    {
+      "added_at": "2023-01-28 00:44:44",
+      "album": {
+        "name": "To Pimp A Butterfly",
+        "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
+        "name": "Tattoo You (2009 Re-Mastered)",
+        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Start Me Up - Remastered 2009",
+      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
+    },
+    {
+      "added_at": "2023-01-28 00:44:44",
+      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 236133,
       "name": "Crazy In Love (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
-    },
-    {
-      "added_at": "2023-01-28 00:44:44",
-      "album": {
-        "name": "Tattoo You (2009 Re-Mastered)",
-        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "Start Me Up - Remastered 2009",
-      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
+        "name": "Out Of Our Heads",
+        "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 222813,
+      "name": "(I Can't Get No) Satisfaction - Mono Version",
+      "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
+    },
+    {
+      "added_at": "2023-01-28 00:44:44",
+      "album": {
         "name": "Nellyville",
         "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
       },
@@ -591,34 +607,18 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
-        "name": "Out Of Our Heads",
-        "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
         }
       ],
-      "duration_ms": 222813,
-      "name": "(I Can't Get No) Satisfaction - Mono Version",
-      "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
-    },
-    {
-      "added_at": "2023-01-28 00:44:44",
-      "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 193466,
-      "name": "In Da Club",
-      "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
+      "duration_ms": 300400,
+      "name": "Baba O'Riley",
+      "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -643,18 +643,18 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
-        "name": "Who's Next (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
       },
       "artists": [
         {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
         }
       ],
-      "duration_ms": 300400,
-      "name": "Baba O'Riley",
-      "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
+      "duration_ms": 193466,
+      "name": "In Da Club",
+      "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -707,6 +707,26 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "Chantaje (feat. Maluma)",
+      "url": "https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg"
+    },
+    {
+      "added_at": "2023-01-28 00:44:44",
+      "album": {
         "name": "Celebration (double disc version)",
         "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
@@ -739,22 +759,18 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 195840,
-      "name": "Chantaje (feat. Maluma)",
-      "url": "https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg"
+      "duration_ms": 237546,
+      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -771,22 +787,6 @@
       "duration_ms": 209200,
       "name": "Just A Girl",
       "url": "https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7"
-    },
-    {
-      "added_at": "2023-01-28 00:44:44",
-      "album": {
-        "name": "TROLLS (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 237546,
-      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
     },
     {
       "added_at": "2023-01-28 00:44:44",

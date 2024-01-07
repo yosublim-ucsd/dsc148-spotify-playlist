@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it. Cover: Knox",
-  "num_followers": 131126,
+  "num_followers": 131196,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTJiMGIxNDhlOTAzYjg4ZWE3NTE4YzI2ODE1MzllNzM2ZjE0NTI4",
+  "snapshot_id": "MCw0Y2IxZDBmMWE0MzM2MTQwOTA1ZDAxMzQ4MjBkYzZmZDAwYzUxNzU5",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Stuck",
-        "url": "https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq"
-      },
-      "artists": [
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 182746,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Seventeen Going Under",
         "url": "https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 302360,
       "name": "Seventeen Going Under",
       "url": "https://open.spotify.com/track/1Dp7ASSZVVOPJ85VdLpjOX"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 182746,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Blood Bunny",
-        "url": "https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA"
+        "name": "Love and Other Lies",
+        "url": "https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi"
       },
       "artists": [
         {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
         }
       ],
-      "duration_ms": 179573,
-      "name": "I Want To Be With You",
-      "url": "https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq"
+      "duration_ms": 143500,
+      "name": "Dress",
+      "url": "https://open.spotify.com/track/2ptbBxMTCbFBefVMXwrdSC"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Love and Other Lies",
-        "url": "https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi"
+        "name": "Blood Bunny",
+        "url": "https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA"
       },
       "artists": [
         {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
         }
       ],
-      "duration_ms": 143500,
-      "name": "Dress",
-      "url": "https://open.spotify.com/track/2ptbBxMTCbFBefVMXwrdSC"
+      "duration_ms": 179573,
+      "name": "I Want To Be With You",
+      "url": "https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "How Do You Love Me",
+        "url": "https://open.spotify.com/album/5jKzirISr4V40vLUvN8gMI"
+      },
+      "artists": [
+        {
+          "name": "Nicotine Dolls",
+          "url": "https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM"
+        }
+      ],
+      "duration_ms": 236490,
+      "name": "How Do You Love Me",
+      "url": "https://open.spotify.com/track/44UXLRvq1ZrSLb32OVOteB"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "STRANGERS",
         "url": "https://open.spotify.com/album/5YiMAwQ6ecR1mDk4E9MNmF"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 223176,
       "name": "STRANGERS",
       "url": "https://open.spotify.com/track/2eeLM9CVHETMWIdDGtW39i"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "How Do You Love Me",
-        "url": "https://open.spotify.com/album/5jKzirISr4V40vLUvN8gMI"
-      },
-      "artists": [
-        {
-          "name": "Nicotine Dolls",
-          "url": "https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM"
-        }
-      ],
-      "duration_ms": 236490,
-      "name": "How Do You Love Me",
-      "url": "https://open.spotify.com/track/44UXLRvq1ZrSLb32OVOteB"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1911,6 +1911,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Don't Get Me Wrong",
+        "url": "https://open.spotify.com/album/4uPRhzjEpqcKAHCFMW3YSm"
+      },
+      "artists": [
+        {
+          "name": "Matchbox Twenty",
+          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
+        }
+      ],
+      "duration_ms": 173132,
+      "name": "Don't Get Me Wrong",
+      "url": "https://open.spotify.com/track/386DEQx94L5LVXKw4HtSdN"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Insanity",
         "url": "https://open.spotify.com/album/5uaMyd4eWrWSXVPX6hPgBm"
       },
@@ -1931,18 +1947,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Don't Get Me Wrong",
-        "url": "https://open.spotify.com/album/4uPRhzjEpqcKAHCFMW3YSm"
+        "name": "How Do You Love Me",
+        "url": "https://open.spotify.com/album/2fOuSjF8vzo5dptyMi8o5s"
       },
       "artists": [
         {
-          "name": "Matchbox Twenty",
-          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
+          "name": "Nicotine Dolls",
+          "url": "https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM"
         }
       ],
-      "duration_ms": 173132,
-      "name": "Don't Get Me Wrong",
-      "url": "https://open.spotify.com/track/386DEQx94L5LVXKw4HtSdN"
+      "duration_ms": 281644,
+      "name": "30 Somehow",
+      "url": "https://open.spotify.com/track/7kr4xACIU9qq0FXnOFVSTZ"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1979,18 +1995,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "How Do You Love Me",
-        "url": "https://open.spotify.com/album/2fOuSjF8vzo5dptyMi8o5s"
+        "name": "Red Lights / Ireland",
+        "url": "https://open.spotify.com/album/0ZdqmeEBsKCsHbOp6ovtBR"
       },
       "artists": [
         {
-          "name": "Nicotine Dolls",
-          "url": "https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM"
+          "name": "Picture This",
+          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
         }
       ],
-      "duration_ms": 281644,
-      "name": "30 Somehow",
-      "url": "https://open.spotify.com/track/7kr4xACIU9qq0FXnOFVSTZ"
+      "duration_ms": 147000,
+      "name": "Red Lights",
+      "url": "https://open.spotify.com/track/4AII0LddlsmuLEWBDRXurl"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2011,22 +2027,6 @@
       "duration_ms": 149142,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/59QtD84KONsWuBFL7bwQrP"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Red Lights / Ireland",
-        "url": "https://open.spotify.com/album/0ZdqmeEBsKCsHbOp6ovtBR"
-      },
-      "artists": [
-        {
-          "name": "Picture This",
-          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Red Lights",
-      "url": "https://open.spotify.com/track/4AII0LddlsmuLEWBDRXurl"
     },
     {
       "added_at": "2023-12-15 05:00:00",

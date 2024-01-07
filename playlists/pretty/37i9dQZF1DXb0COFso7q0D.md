@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > The playlist sin fronteras\. Cover: Luis R Conriquez
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,191,998 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,192,595 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 | 59 | [Mas Altas Que Bajadas](https://open.spotify.com/track/4Zx0yrZwW4uNpd1FhIrOV5) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 3:13 |
 | 60 | [XL](https://open.spotify.com/track/2WbciITogHwrgtxtkhmdPj) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [XL](https://open.spotify.com/album/42gWMcRX1GVhRvUAb1jUcw) | 2:27 |
 
-Snapshot ID: `MCwwNzI1ZmNmZmIyOTYyMzM3ZGMwNDA4MTUyZTM1NDVkMGE5MTEzMzQx`
+Snapshot ID: `MCwyMTY1YjUyYmIxOWVhZjg4ZDkwOTUxZmMxZTQ5YTJjZGE5YzkxODY0`

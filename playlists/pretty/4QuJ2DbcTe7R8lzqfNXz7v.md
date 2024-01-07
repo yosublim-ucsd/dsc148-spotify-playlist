@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4QuJ2DbcTe7R8lzqfNXz7v.md) - [plain]
 
 > The top 100 best love songs of this moment\. Dream away with the best love songs of right now\. ❤️
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 507,324 likes - 101 songs - 6 hr 3 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 507,300 likes - 101 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/4QuJ2DbcTe7R8lzqfNXz7v.md) - [plain]
 | 48 | [Thank You](https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4) | 3:38 |
 | 49 | [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 |
 | 50 | [Halfway](https://open.spotify.com/track/3dKMVCShHl7cT4IMoxj8x0) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Seven Shades of Heartbreak](https://open.spotify.com/album/7kYQPT7i8PrKsTG3dsXe4r) | 3:17 |
-| 51 | [double take](https://open.spotify.com/track/2CVChktEKBsM6v4IfdFU5k) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/1FBBji6E8EB4zBsTn6m8Ax) | 2:51 |
+| 51 | [double take](https://open.spotify.com/track/2CVChktEKBsM6v4IfdFU5k) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/1FBBji6E8EB4zBsTn6m8Ax) | 2:51 |
 | 52 | [Emily](https://open.spotify.com/track/7qGzlqZnl6j8qccvV70PhL) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Emily](https://open.spotify.com/album/4eUkjbFmGRPNuFZ8v4ytJo) | 3:21 |
 | 53 | [working](https://open.spotify.com/track/31sSFHIe4NaxltVFOEIcTa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [working](https://open.spotify.com/album/4iCcsBlzVQVZoJzxBvhuyS) | 3:30 |
 | 54 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 |

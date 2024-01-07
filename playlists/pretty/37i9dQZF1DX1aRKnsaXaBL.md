@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 
 > Chasing sunsets con buena música de fondo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,798 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,820 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 | 22 | [Despertar](https://open.spotify.com/track/4eYTJkjurpWAOvsEmG5W8A) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Despertar](https://open.spotify.com/album/7GMhyohcuBcKYnfR7FMM8L) | 3:15 |
 | 23 | [NO TE ALEJES](https://open.spotify.com/track/3x5uBmNaBtm8l843nO15P1) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [TE QUIERO](https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo) | 3:30 |
 | 24 | [Corolla 94](https://open.spotify.com/track/2n9rhvlYHPaMEFOmw5Y1QX) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Corolla 94](https://open.spotify.com/album/0ntx5OUeKXWlmEiXHh7jXN) | 3:21 |
-| 25 | [Mejor Que Nadie](https://open.spotify.com/track/6J1S8dFlnAcNgl7nHPB1XJ) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Mejor Que Nadie](https://open.spotify.com/album/0I2eLAIopLwwIUlUZx8muE) | 4:40 |
-| 26 | [Cámara Lenta](https://open.spotify.com/track/4brctVrw130rY1DS3j0mZC) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Cámara Lenta](https://open.spotify.com/album/02Dl37emVo6TB4mO7UOU2Z) | 3:24 |
-| 27 | [Si Tú No Vuelves](https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Flores Robadas](https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy) | 3:21 |
+| 25 | [Si Tú No Vuelves](https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Flores Robadas](https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy) | 3:21 |
+| 26 | [Mejor Que Nadie](https://open.spotify.com/track/6J1S8dFlnAcNgl7nHPB1XJ) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Mejor Que Nadie](https://open.spotify.com/album/0I2eLAIopLwwIUlUZx8muE) | 4:40 |
+| 27 | [Cámara Lenta](https://open.spotify.com/track/4brctVrw130rY1DS3j0mZC) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Cámara Lenta](https://open.spotify.com/album/02Dl37emVo6TB4mO7UOU2Z) | 3:24 |
 | 28 | [Me Duele Hasta Pensarte](https://open.spotify.com/track/5QA2TH7f7sjc33DU3OEJMI) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Me Duele Hasta Pensarte](https://open.spotify.com/album/1HWn7sgeNIfAC5tdB8k23X) | 3:48 |
 | 29 | [Billie Max](https://open.spotify.com/track/3K4K4XZPEGLU0fyASkFo17) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [¿Quién es Billie Max?](https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3) | 2:54 |
 | 30 | [La Verdad](https://open.spotify.com/track/2mhPZQ1vdMX6My3Nr3ICGU) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 | 49 | [Todo Va a Estar Bien](https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Todo Va a Estar Bien](https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw) | 3:15 |
 | 50 | [Dama](https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Dama](https://open.spotify.com/album/5YsBGBAtUA1GsQqaVXyyru) | 3:46 |
 
-Snapshot ID: `MCxjZDYxMDU5ODFhYjc4ZGRkNTljNWQ1NmJiYWM1YjUyOTczZjE1ZWI1`
+Snapshot ID: `MCwxNzZjNjRiNDdkYmJhNjUwYzZmNzNiNzE4YjAxNGMyZDdmNTgxYWIx`

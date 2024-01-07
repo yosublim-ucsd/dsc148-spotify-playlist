@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-203 songs - 8 hr 57 min
+205 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Lose You](https://open.spotify.com/track/3HoUOGfodbbRQsnfavrViW) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16), [Edward Snellen](https://open.spotify.com/artist/6NqXkBi75jInrB94Nzfv6G) | [Lose You](https://open.spotify.com/album/5fH93TUJvc5fEbptP0rSp4) | 2:17 | 2023-10-28 |  |
 | [Losing My Religion](https://open.spotify.com/track/4YM1Jcr8dPy1Ql0khFMt4L) | [Ian Storm](https://open.spotify.com/artist/6fllSzvyC7OruOFZisOELq), [John Laurant](https://open.spotify.com/artist/1YvKPTZCWaEen5NdFvR2p1), [Carl Clarks](https://open.spotify.com/artist/3OE3dz6RhP1rdri5pcQY0c), [Polina Vita](https://open.spotify.com/artist/66uT5tPq9g2tO0qD43xCYq) | [Losing My Religion](https://open.spotify.com/album/7wz2NDsuKkYPo2fYLFZFdz) | 3:45 | 2023-10-23 |  |
 | [Lost](https://open.spotify.com/track/6jqPjQiCmKwB2uaKhwXsuk) | [Emblè](https://open.spotify.com/artist/7BmOUNMC8ZJhZEBmdFiqMC), [Freddie George](https://open.spotify.com/artist/0tsLxQb8GcU6RJbz7diSzY) | [Lost](https://open.spotify.com/album/5hry8KbzIKihXrkK5vN7pJ) | 2:35 | 2023-09-22 |  |
+| [Lost In Space](https://open.spotify.com/track/6xUE9l0MaDYW4NrL8fuL40) | [Lost Coconut](https://open.spotify.com/artist/6tZYWVDKrYd9S0ez1L0vou) | [Lost In Space](https://open.spotify.com/album/5nxDCvzrUHYfqLPWZbPnYN) | 3:38 | 2024-01-06 |  |
 | [Lost In The Sky](https://open.spotify.com/track/5ZeGvfbXQC7WqEqnNoZMTQ) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Lost In The Sky](https://open.spotify.com/album/1Buz836gF1ikJN43NgQiNn) | 2:40 | 2023-09-22 |  |
 | [Lost Lovers](https://open.spotify.com/track/7bD8ZwzJJKYvdn5vufbN4q) | [TAPI](https://open.spotify.com/artist/2HdQ0WFcqm4PNhCKYPOP5X), [bayme](https://open.spotify.com/artist/4HKpzTZHxjzhpAJxEZu5Oc) | [Lost Lovers](https://open.spotify.com/album/0qt9rEUsUY4FswTf9pKxkG) | 2:36 | 2023-10-10 | 2023-12-31 |
 | [Love Burns Out](https://open.spotify.com/track/50CkqXnP2JV3SC8EYb7hzM) | [Curdz](https://open.spotify.com/artist/3zKKp7w1aPxxA93GCkVbO4), [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ), [Jakob Dreams](https://open.spotify.com/artist/3ChusCE5PNXmuRuqGzJKVz) | [Love Burns Out](https://open.spotify.com/album/0aMsyu8b6bxFYqGtAYH0Hf) | 2:42 | 2023-11-26 |  |
@@ -196,6 +197,7 @@
 | [Thinking About You](https://open.spotify.com/track/4RO1RrQ15cZuvqt44d0aw8) | [Gorgon Breath](https://open.spotify.com/artist/3NNV3EiqQ63gCWXGt5jMCO), [Eliina](https://open.spotify.com/artist/4ADWPR3fMKJw6tymbyz19H) | [Thinking About You](https://open.spotify.com/album/7K8pys1W6KbFnNSsBIZzSL) | 2:20 | 2023-09-22 |  |
 | [This Is What It Feels Like](https://open.spotify.com/track/38liEfyjKmLuCtUoKFY26l) | [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [masafi](https://open.spotify.com/artist/3vCicyLsjEgDLqhScIpRHe) | [This Is What It Feels Like](https://open.spotify.com/album/11cRL4RXQdAn0poFWcfDPX) | 2:59 | 2023-10-24 | 2023-12-15 |
 | [Those Eyes](https://open.spotify.com/track/4BnNu11SXAJKu4TaMoipUA) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Those Eyes](https://open.spotify.com/album/1K81avVRkJg8oy29gwN6LE) | 2:43 | 2023-10-19 |  |
+| [Until The End Of Time](https://open.spotify.com/track/0Zv5hSYT7LD7GFRO8Ip0oU) | [Lost Coconut](https://open.spotify.com/artist/6tZYWVDKrYd9S0ez1L0vou) | [Until The End Of Time](https://open.spotify.com/album/6ncZ16w9NoA8EXiTRAXAj1) | 3:14 | 2024-01-06 |  |
 | [Vision](https://open.spotify.com/track/1IW0NLlWr9y9UmwovDkusx) | [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc) | [Vision](https://open.spotify.com/album/3AYdlrrBvgLcdg60bxWaZl) | 2:16 | 2023-09-22 | 2023-12-18 |
 | [Wait For You](https://open.spotify.com/track/1zIIS0hBZbCNtxzf4DMVEX) | [Lost In Reveries](https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT), [Summer Vibes](https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm) | [Wait For You](https://open.spotify.com/album/14mj4pvvf0dfROmnUFy0zk) | 2:58 | 2023-12-17 | 2023-12-30 |
 | [Waiting For A Better Day](https://open.spotify.com/track/7FYeUV7zqjm7nFNC32g6BY) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Waiting For A Better Day](https://open.spotify.com/album/0ulaHvKhk79OWZ12gmZDtO) | 2:37 | 2023-09-22 |  |

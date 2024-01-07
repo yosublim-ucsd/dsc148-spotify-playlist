@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3708713,
+  "num_followers": 3709163,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2M0Y2U0MDNlNDA2MjcyOTVkODJlMzEzMmIzNTA0YjhmZGUwZTg3",
+  "snapshot_id": "MCwxM2U1M2E0NDhhZWU4MTFjMWQ2ZTk3YjRhNDVmOGFiMTc1MGMxYzM1",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Where I Find My Mind",
+        "url": "https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Where I Find My Mind",
+      "url": "https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "HOLD YOU",
         "url": "https://open.spotify.com/album/5KgTqGLDlJo6kL67PMbRdi"
       },
@@ -843,18 +859,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Where I Find My Mind",
-        "url": "https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM"
+        "name": "Colorize 2023 Spring Sampler",
+        "url": "https://open.spotify.com/album/2RQiB9SPWqSLQETVpLVacO"
       },
       "artists": [
         {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+          "name": "VisionV",
+          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
         }
       ],
-      "duration_ms": 212500,
-      "name": "Where I Find My Mind",
-      "url": "https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ"
+      "duration_ms": 240448,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -879,22 +895,6 @@
       "duration_ms": 287812,
       "name": "Lost",
       "url": "https://open.spotify.com/track/4HWadIQagwXOjf14aUD6qg"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Colorize 2023 Spring Sampler",
-        "url": "https://open.spotify.com/album/2RQiB9SPWqSLQETVpLVacO"
-      },
-      "artists": [
-        {
-          "name": "VisionV",
-          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
-        }
-      ],
-      "duration_ms": 240448,
-      "name": "Blossom",
-      "url": "https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/5hH8hyj1Jrhi2dYwv9nhDO"
+      },
+      "artists": [
+        {
+          "name": "Arinity",
+          "url": "https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy"
+        }
+      ],
+      "duration_ms": 153532,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/7IQgAVMaCu0ImfMnKV7Xik"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "I Talk To Water",
         "url": "https://open.spotify.com/album/07aZK8FsMUcJkrADgMWxsi"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 297191,
       "name": "I Talk To Water (with Perry Farrell)",
       "url": "https://open.spotify.com/track/3DfzinNKzTSYInk2FKOx1h"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/5hH8hyj1Jrhi2dYwv9nhDO"
-      },
-      "artists": [
-        {
-          "name": "Arinity",
-          "url": "https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy"
-        }
-      ],
-      "duration_ms": 153532,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/7IQgAVMaCu0ImfMnKV7Xik"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Assassin",
+        "url": "https://open.spotify.com/album/1K8RGioeHlH4DyaeSxnnrz"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        }
+      ],
+      "duration_ms": 326000,
+      "name": "Assassin",
+      "url": "https://open.spotify.com/track/1xjvIE3l0BACb24sF2TpPH"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Disappear",
         "url": "https://open.spotify.com/album/0mcqQhXPSSk8yudA1fiklh"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 235859,
       "name": "Disappear",
       "url": "https://open.spotify.com/track/1kEdYirmW9IZ4R4QFaPvpE"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Assassin",
-        "url": "https://open.spotify.com/album/1K8RGioeHlH4DyaeSxnnrz"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        }
-      ],
-      "duration_ms": 326000,
-      "name": "Assassin",
-      "url": "https://open.spotify.com/track/1xjvIE3l0BACb24sF2TpPH"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Hopeful",
-        "url": "https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        }
-      ],
-      "duration_ms": 248432,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Unfurl",
         "url": "https://open.spotify.com/album/7pBCXayVLX3fkIDWtMAwOp"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 298213,
       "name": "Bound",
       "url": "https://open.spotify.com/track/5iOD44ZsI7c921OorwdwUA"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        }
+      ],
+      "duration_ms": 248432,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1783,18 +1783,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "See You / Feel So Lonely",
-        "url": "https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q"
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/0kTUETKwjoj5x8iHJaOb4Y"
       },
       "artists": [
         {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+          "name": "Durante",
+          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+        },
+        {
+          "name": "Running Touch",
+          "url": "https://open.spotify.com/artist/5bdwzvp6eirvqh0TwOwjgE"
         }
       ],
-      "duration_ms": 283953,
-      "name": "See You",
-      "url": "https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD"
+      "duration_ms": 225922,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/11CnwxdRxrHNYDCVT6npaz"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1815,26 +1819,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Into The Sun (Chill Mix)",
-        "url": "https://open.spotify.com/album/7ix2yVIJHAdLNqIbTBeKil"
+        "name": "See You / Feel So Lonely",
+        "url": "https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q"
       },
       "artists": [
         {
-          "name": "Latroit",
-          "url": "https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK"
-        },
-        {
-          "name": "Pretty Garter",
-          "url": "https://open.spotify.com/artist/0ikHknT4cbqziewzUdqn3y"
-        },
-        {
-          "name": "Charlz",
-          "url": "https://open.spotify.com/artist/6HlbdrXWMFHgFdbIDX9Znv"
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
         }
       ],
-      "duration_ms": 164723,
-      "name": "Into The Sun - Chill Mix",
-      "url": "https://open.spotify.com/track/4bXeqbONCSECKqU3XpA5eT"
+      "duration_ms": 283953,
+      "name": "See You",
+      "url": "https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1859,22 +1855,26 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Remedy",
-        "url": "https://open.spotify.com/album/0kTUETKwjoj5x8iHJaOb4Y"
+        "name": "Into The Sun (Chill Mix)",
+        "url": "https://open.spotify.com/album/7ix2yVIJHAdLNqIbTBeKil"
       },
       "artists": [
         {
-          "name": "Durante",
-          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+          "name": "Latroit",
+          "url": "https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK"
         },
         {
-          "name": "Running Touch",
-          "url": "https://open.spotify.com/artist/5bdwzvp6eirvqh0TwOwjgE"
+          "name": "Pretty Garter",
+          "url": "https://open.spotify.com/artist/0ikHknT4cbqziewzUdqn3y"
+        },
+        {
+          "name": "Charlz",
+          "url": "https://open.spotify.com/artist/6HlbdrXWMFHgFdbIDX9Znv"
         }
       ],
-      "duration_ms": 225922,
-      "name": "Remedy",
-      "url": "https://open.spotify.com/track/11CnwxdRxrHNYDCVT6npaz"
+      "duration_ms": 164723,
+      "name": "Into The Sun - Chill Mix",
+      "url": "https://open.spotify.com/track/4bXeqbONCSECKqU3XpA5eT"
     },
     {
       "added_at": "2024-01-05 05:00:00",

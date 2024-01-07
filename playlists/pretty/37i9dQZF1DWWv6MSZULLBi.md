@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Leith Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,048 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,049 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 34 | [Hold Me](https://open.spotify.com/track/5P8ldnOsScd9aMlQMKucb6) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hold Me](https://open.spotify.com/album/4gVu2VoV5kV8g6ihNLWfFS) | 2:52 |
 | 35 | [Flowers on the Fire Escape](https://open.spotify.com/track/5Sx5LEwv1rkb3foo0WYYm0) | [MOONRIIVR](https://open.spotify.com/artist/7L0DI3wlt7yeY4Hi9I87h8) | [Vol\. 1](https://open.spotify.com/album/2QOpujXPtpuOIbieP3eSS9) | 3:56 |
 | 36 | [End Of The World](https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [End Of The World](https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz) | 3:54 |
-| 37 | [Never Fucked Up Twice \[Feat\. Bully\]](https://open.spotify.com/track/7h3qZvtmI5QfBjV7ETdFOY) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Very High / Never Fucked Up Twice](https://open.spotify.com/album/4tib35VzWbmYxb9SOAqUrV) | 2:33 |
+| 37 | [Never Fucked Up Twice](https://open.spotify.com/track/7h3qZvtmI5QfBjV7ETdFOY) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Very High / Never Fucked Up Twice](https://open.spotify.com/album/4tib35VzWbmYxb9SOAqUrV) | 2:33 |
 | 38 | [Hadsel](https://open.spotify.com/track/0qYdqIxjSTK9Wu7wuPZ2i4) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Hadsel](https://open.spotify.com/album/1jhgsccCbT1WXtmGUuZvIA) | 4:54 |
 | 39 | [Hollow](https://open.spotify.com/track/0Amqo9CK8mGpCcpAGnrbxP) | [Dweller](https://open.spotify.com/artist/0BXalrIb822OpYzlONODHU), [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz), [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4), [Kris Ulrich](https://open.spotify.com/artist/49MmzOKdISsus72tEIhJQN) | [Dweller](https://open.spotify.com/album/7tviOf20Ri2MUssHhwTx2l) | 3:56 |
 | 40 | [Saturn Returning](https://open.spotify.com/track/0y6DngD7Bw9BMnAHAksK3K) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Saturn Returning](https://open.spotify.com/album/5E9UzV7YXUl3q92jy2aEwA) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Carried…](https://open.spotify.com/track/7sI78BEZylcmCu5ts145ou) | [Lost Cousins](https://open.spotify.com/artist/2yZQbeFIRhUpRehbauidnq) | [Point No Point](https://open.spotify.com/album/37wJd9QmhlZysWdQl98c4i) | 5:22 |
 | 100 | [Beauty](https://open.spotify.com/track/3sDBhZNDrb9ngsOJRRDlkN) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Beauty](https://open.spotify.com/album/4RrkquiwoaXbAm4YXXzHSG) | 3:25 |
 
-Snapshot ID: `MCxjMTVkYzliYTMzNTgwNDA4MGM4MjI5OWI1NjBkZTdkM2ZjZTI0NjNk`
+Snapshot ID: `MCwxMGIxOTJjOWI4ZWM4MTVhNzBjMDZhMDU0NmVjY2UxZTJlNmM0NjFi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Verka Serduchka
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,826 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,829 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 68 | [Tick Tock](https://open.spotify.com/track/4kIheg2ykamUNNrSxL7t56) | [Mariya Yaremchuk](https://open.spotify.com/artist/2GcuaSJbRVxaoxtwlob8G5) | [Tick Tock](https://open.spotify.com/album/1a1Bd3Xql7hP7q2nubALBU) | 3:00 |
 | 69 | [This Is Our Night](https://open.spotify.com/track/3KcRTivsw7hbxSRMGDtsMS) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [This Is Our Night](https://open.spotify.com/album/71diCysWyJmFHsEv4ExMwD) | 2:57 |
 | 70 | [Walk On Water](https://open.spotify.com/track/6t9ECIs2ypkHQQ49VvhA3h) | [Ira Losco](https://open.spotify.com/artist/6JSaVx77J1mck0Oyv5D0rV) | [Walk On Water](https://open.spotify.com/album/2gdlErpWJdjuXOo4BJg0DV) | 3:05 |
-| 71 | [Runaway \- Bonus Track](https://open.spotify.com/track/7uSeUTnMWH7CgEyl2rNtMC) | [Anna Sahlene](https://open.spotify.com/artist/4dNOj2smSK7guw4JeUW1uW) | [It's Been a While](https://open.spotify.com/album/1MfUDsswH0G8RK0TDvWo71) | 2:52 |
-| 72 | [Requiem \- Eurovision Version](https://open.spotify.com/track/4Lhk5r1sm6MwH08JkwDZ0O) | [Alma](https://open.spotify.com/artist/6UUoOFrzfmGZ50AP9SY97H) | [Requiem \(Eurovision version\)](https://open.spotify.com/album/6ctJ0NtlKyUfFvBdWMDtII) | 3:00 |
+| 71 | [Requiem \- Eurovision Version](https://open.spotify.com/track/4Lhk5r1sm6MwH08JkwDZ0O) | [Alma](https://open.spotify.com/artist/6UUoOFrzfmGZ50AP9SY97H) | [Requiem \(Eurovision version\)](https://open.spotify.com/album/6ctJ0NtlKyUfFvBdWMDtII) | 3:00 |
+| 72 | [Runaway \- Bonus Track](https://open.spotify.com/track/7uSeUTnMWH7CgEyl2rNtMC) | [Anna Sahlene](https://open.spotify.com/artist/4dNOj2smSK7guw4JeUW1uW) | [It's Been a While](https://open.spotify.com/album/1MfUDsswH0G8RK0TDvWo71) | 2:52 |
 | 73 | [J'aime la vie \- Eurovision 1986](https://open.spotify.com/track/6UKeMVzQeeOsjITXfX1cm4) | [Sandra Kim](https://open.spotify.com/artist/4dhrlsu6mKvOwJWOrwnkuV) | [Au top des années 80, vol\. 1 \(30 titres + 5 maxis\)](https://open.spotify.com/album/76YvIXe5aWujtislm12yVk) | 3:04 |
 | 74 | [My Star](https://open.spotify.com/track/1qn0J3EnF4zqvwoHYHxhgD) | [Brainstorm](https://open.spotify.com/artist/5kj0186KjQyHiLMK2OFJ3z) | [Among The Suns](https://open.spotify.com/album/6aPBqnyWSiHwzR7H3OKXA3) | 3:03 |
 | 75 | [Waterline](https://open.spotify.com/track/0xCMGAf80y3dUevG2qXpvS) | [Jedward](https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT) | [Young Love](https://open.spotify.com/album/25yASEbY2Pz60pCnx7l3kx) | 3:03 |
 
-Snapshot ID: `MCwwZjViZWRjZDExNzI1YmQ4OGMzMTg2Y2NjYTRmNzNiZmUyYTU2MmZl`
+Snapshot ID: `MCw5ZmRlMDk1YTJjYTAxNTY3NGMxMjRkN2IzNzVhOGE5MzBjYzAzMmUx`

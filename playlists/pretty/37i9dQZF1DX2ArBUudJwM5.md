@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres que la rompieron en 2023\. Foto: Ivonne Guzmán
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,008 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,009 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 6 | [Glock](https://open.spotify.com/track/1N6VDChBSHkitVoaJlU42T) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Nena Trampa \(Deluxe Edition\)](https://open.spotify.com/album/7ntr88BWCrwZGySZQlHgBM) | 2:58 |
 | 7 | [Quiénes Son?](https://open.spotify.com/track/52zunI6NmQaPyvgMpakfga) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 2:42 |
 | 8 | [Tengo](https://open.spotify.com/track/5tABEw4BVt9ImybrG0bHYE) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [SUR](https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA) | 2:21 |
-| 9 | [NOCHE DE SATEO](https://open.spotify.com/track/0OkrRSwJYVXQi7EKtjVO5m) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [RAWR](https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6) | 2:53 |
-| 10 | [En Un Loop](https://open.spotify.com/track/2sYskpiXS8DD4tEsxoycpS) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [INTERMITENTE](https://open.spotify.com/album/30KCpzi4d2tMxyF5zsRU8j) | 2:49 |
+| 9 | [En Un Loop](https://open.spotify.com/track/2sYskpiXS8DD4tEsxoycpS) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [INTERMITENTE](https://open.spotify.com/album/30KCpzi4d2tMxyF5zsRU8j) | 2:49 |
+| 10 | [NOCHE DE SATEO](https://open.spotify.com/track/0OkrRSwJYVXQi7EKtjVO5m) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [RAWR](https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6) | 2:53 |
 | 11 | [Anochecemos](https://open.spotify.com/track/2ka5Ij6Nasvr5krBY93TgM) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [MAL APRENDIDA](https://open.spotify.com/album/2Zb3Aq1Z1eUkAEIvmaZknJ) | 3:24 |
 | 12 | [Qué Ironía](https://open.spotify.com/track/5FmJy09OizHiP0440KL1S7) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Qué Ironía](https://open.spotify.com/album/6q2RlNPqDohxAfpcc5cVno) | 4:27 |
 | 13 | [El Dolor De Tu Presencia / Hasta El Fin Del Mundo \- En Vivo](https://open.spotify.com/track/78ZxX0DfydlHw5XiwTNcQ2) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [El Dolor De Tu Presencia / Hasta El Fin Del Mundo \(En Vivo\)](https://open.spotify.com/album/3K4HK9Js6g2O4Hm4PD2m3s) | 4:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [Cream Hot](https://open.spotify.com/track/54n8e8ov3mn1WnuNlKUYiV) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW), [La Finesse](https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A) | [Beivip](https://open.spotify.com/album/1pxnHWYPK67qato4SYjNut) | 2:55 |
 | 50 | [Dime Si \- remix](https://open.spotify.com/track/0loFeCW1BOS6hclCR34I84) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl) | [Dime Si \(remix\)](https://open.spotify.com/album/6dhowGbbDriIPxZLZuisVO) | 4:14 |
 
-Snapshot ID: `MCxiYWI5ZGFiMWMxMDNmM2I1Yzk3MDI2MTFhNTUxODdjNWJkMDc2ZWEz`
+Snapshot ID: `MCw3ZmY0Y2NkNzRjYjE2NTg0OTBkODZiOGExMGMwYTk3NmM5NzdmZmFj`

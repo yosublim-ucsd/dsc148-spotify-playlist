@@ -1428,7 +1428,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 189287,
       "name": "The Drum",
       "url": "https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ"
@@ -1556,6 +1556,32 @@
       "duration_ms": 166650,
       "name": "Welcome to Walkerworld",
       "url": "https://open.spotify.com/track/2evs7Wv5Cwom9ziyyrrmC9"
+    },
+    {
+      "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/5j0uoFLuAcXYz2jTWPovHX"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Putri Ariani",
+          "url": "https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On"
+        },
+        {
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193776,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/1NMYbsFZyxwHRNaLGzFGWh"
     },
     {
       "album": {

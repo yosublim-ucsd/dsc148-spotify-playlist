@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 6691,
+  "num_followers": 6699,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWI3YTdjYTQ1YzJhODNlZmRlNDg3MTI2MDRlZGJiZGRiZTJjYjA5",
+  "snapshot_id": "MCwxNmIxNzllZmFlYjM2NjllN2ExZjY1MDhlODE0Zjc0ZDgzZGY1OTAy",
   "tracks": [
     {
       "added_at": "2023-12-01 08:47:54",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-12-01 08:47:54",
       "album": {
-        "name": "Bronco",
-        "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "C'mon Baby, Cry",
-      "url": "https://open.spotify.com/track/67swXHVknS142T5tIcNFkl"
-    },
-    {
-      "added_at": "2023-12-01 08:47:54",
-      "album": {
         "name": "Big Time",
         "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 276826,
       "name": "All The Good Times",
       "url": "https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq"
+    },
+    {
+      "added_at": "2023-12-01 08:47:54",
+      "album": {
+        "name": "Bronco",
+        "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "C'mon Baby, Cry",
+      "url": "https://open.spotify.com/track/67swXHVknS142T5tIcNFkl"
     },
     {
       "added_at": "2023-12-01 08:47:54",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-12-01 08:47:54",
       "album": {
+        "name": "Babe I'm Gonna Leave You (Extended Version)",
+        "url": "https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        }
+      ],
+      "duration_ms": 294945,
+      "name": "Babe I'm Gonna Leave You - Extended Version",
+      "url": "https://open.spotify.com/track/66DmPZHPwXz5VO2Mse5FAj"
+    },
+    {
+      "added_at": "2023-12-01 08:47:54",
+      "album": {
         "name": "Before The Storm",
         "url": "https://open.spotify.com/album/1ketSreRN3Qq5OTzgqPOcP"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 191760,
       "name": "Before The Storm",
       "url": "https://open.spotify.com/track/3Rul7xOVvLysGVak1Qu9N8"
-    },
-    {
-      "added_at": "2023-12-01 08:47:54",
-      "album": {
-        "name": "Babe I'm Gonna Leave You (Extended Version)",
-        "url": "https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        }
-      ],
-      "duration_ms": 294945,
-      "name": "Babe I'm Gonna Leave You - Extended Version",
-      "url": "https://open.spotify.com/track/66DmPZHPwXz5VO2Mse5FAj"
     },
     {
       "added_at": "2023-12-01 08:47:54",
@@ -667,6 +667,26 @@
     {
       "added_at": "2023-12-01 08:47:54",
       "album": {
+        "name": "Bluefinger",
+        "url": "https://open.spotify.com/album/7kyAYsfjmUrGMqPzWf84M1"
+      },
+      "artists": [
+        {
+          "name": "Bertolf",
+          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
+        },
+        {
+          "name": "Tim Knol",
+          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
+        }
+      ],
+      "duration_ms": 202906,
+      "name": "Even The Bad Ends Badly",
+      "url": "https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37"
+    },
+    {
+      "added_at": "2023-12-01 08:47:54",
+      "album": {
         "name": "Big Thing",
         "url": "https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 244060,
       "name": "Times",
       "url": "https://open.spotify.com/track/2SihsYSOGwYDHMfd0riW4Y"
-    },
-    {
-      "added_at": "2023-12-01 08:47:54",
-      "album": {
-        "name": "Bluefinger",
-        "url": "https://open.spotify.com/album/7kyAYsfjmUrGMqPzWf84M1"
-      },
-      "artists": [
-        {
-          "name": "Bertolf",
-          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
-        },
-        {
-          "name": "Tim Knol",
-          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
-        }
-      ],
-      "duration_ms": 202906,
-      "name": "Even The Bad Ends Badly",
-      "url": "https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37"
     },
     {
       "added_at": "2023-12-01 08:47:54",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-12-01 08:47:54",
       "album": {
-        "name": "Take A Ride",
-        "url": "https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q"
-      },
-      "artists": [
-        {
-          "name": "Sam Saxton",
-          "url": "https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04"
-        }
-      ],
-      "duration_ms": 213168,
-      "name": "Take A Ride",
-      "url": "https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN"
-    },
-    {
-      "added_at": "2023-12-01 08:47:54",
-      "album": {
         "name": "For The Better Of Me",
         "url": "https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 230431,
       "name": "For The Better Of Me",
       "url": "https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ"
+    },
+    {
+      "added_at": "2023-12-01 08:47:54",
+      "album": {
+        "name": "Take A Ride",
+        "url": "https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q"
+      },
+      "artists": [
+        {
+          "name": "Sam Saxton",
+          "url": "https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04"
+        }
+      ],
+      "duration_ms": 213168,
+      "name": "Take A Ride",
+      "url": "https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN"
     },
     {
       "added_at": "2023-12-01 08:47:54",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-12-01 08:47:54",
       "album": {
-        "name": "In The Morning, When We Rise",
-        "url": "https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM"
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/3l4OdclVUWDKoS3G3qT1Rb"
       },
       "artists": [
         {
-          "name": "Christof van der Ven",
-          "url": "https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F"
+          "name": "Rich McFeather",
+          "url": "https://open.spotify.com/artist/1DGm9DpMlUDYqSYAbvfpqm"
         }
       ],
-      "duration_ms": 232725,
-      "name": "Colours",
-      "url": "https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50"
+      "duration_ms": 215553,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/4gitlSJ8ksxAMhmHxNKjNl"
     }
   ],
   "unique_name": "Route Americana",

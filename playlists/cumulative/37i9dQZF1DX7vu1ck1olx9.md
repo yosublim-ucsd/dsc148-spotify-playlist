@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-262 songs - 10 hr 36 min
+263 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Night Like This](https://open.spotify.com/track/7fk9IaVqs4DKkHQvcswJuL) | [Secret Corner](https://open.spotify.com/artist/7a40ZaJBGkEnOqrZyBCwQU) | [A Night Like This](https://open.spotify.com/album/207792NZ8lPpaJdAxBQrTx) | 1:52 | 2023-10-27 |  |
 | [A World at Peace](https://open.spotify.com/track/7dStBhN0AbvcisUF2IePZg) | [Ibrahim](https://open.spotify.com/artist/38osEo6ebgNhOrlD5Xi4iZ) | [A World at Peace](https://open.spotify.com/album/3Z2Q8BNUFsZbUlUk2FhBbU) | 3:06 | 2020-11-12 | 2023-11-24 |
 | [About You](https://open.spotify.com/track/0hIoMybq3v9K2ByrFCwjRu) | [xxyyxx](https://open.spotify.com/artist/1iqXhsjGeWi2Gje5q0mFYb) | [XXYYXX](https://open.spotify.com/album/7Lws9Z41rUQ9pnLgbNvxW0) | 4:07 | 2020-11-12 | 2023-11-24 |
+| [Across The Universe](https://open.spotify.com/track/43tzeUUB5WRL4jPaXSjfgG) | [Salvador](https://open.spotify.com/artist/2wdEmmyhUHZQNXj8iRoXXY) | [Across The Universe](https://open.spotify.com/album/3H5XRl7AwZMjYp42N5G3QQ) | 2:13 | 2024-01-05 |  |
 | [Act I](https://open.spotify.com/track/56Q5Wdwc0zILGWfdBzPfao) | [Rebecca Mardal](https://open.spotify.com/artist/56PuDgywHPrbEFyujgPc9V), [Hush Child](https://open.spotify.com/artist/3r46iM1vaXubb5us8YCDPa) | [Act I](https://open.spotify.com/album/5Zkht2CtX4CWk2b1UCxKXO) | 2:28 | 2020-12-04 |  |
 | [adjustment](https://open.spotify.com/track/3a61DHhrJhe7jpgWrSW0ln) | [Ryder 003](https://open.spotify.com/artist/7FemKn5NierJh61aLlXsQz) | [adjustment](https://open.spotify.com/album/5P8KfJz3ZGTwTFUoR4J8Dz) | 2:13 | 2023-10-27 |  |
 | [after dark](https://open.spotify.com/track/0YmkDHPWe86vQDCtbubz14) | [takemefaraway](https://open.spotify.com/artist/500UKPrqhWmoLq70q6GleM), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [after dark](https://open.spotify.com/album/44AQfgMwZWXBuvRoXYCcuM) | 2:21 | 2023-10-27 |  |
@@ -98,7 +99,7 @@
 | [Goiaba](https://open.spotify.com/track/4KCGYOHGExcKUlFkNajeVO) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Goiaba](https://open.spotify.com/album/7HKTZkhWHbRZmWgCifVwfv) | 2:19 | 2022-09-16 | 2022-11-21 |
 | [Goiaba](https://open.spotify.com/track/6nE6Gdm1JlMSS3mFfW2158) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Goiaba](https://open.spotify.com/album/7AeffHlBxwhazA5z5WikxD) | 2:19 | 2022-09-16 | 2023-12-09 |
 | [golota](https://open.spotify.com/track/0cgDB0690FbtqSPV7eavS9) | [Delayde](https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h), [Hemond](https://open.spotify.com/artist/6hCQ4kHN2kICk36cN1FnJg) | [cordata spring](https://open.spotify.com/album/4zFGXMdAWcUuVFFyO10Hr7) | 2:08 | 2020-11-12 | 2022-07-29 |
-| [golota](https://open.spotify.com/track/1dmaAgL4fAmVdAouTVGThj) | [Delayde](https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h), [Hemond](https://open.spotify.com/artist/6hCQ4kHN2kICk36cN1FnJg) | [cordata spring](https://open.spotify.com/album/1anlhyFZ24KN1BjPNPuSXe) | 2:08 | 2023-11-24 |  |
+| [golota](https://open.spotify.com/track/1dmaAgL4fAmVdAouTVGThj) | [Delayde](https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h), [Hemond](https://open.spotify.com/artist/6hCQ4kHN2kICk36cN1FnJg) | [cordata spring](https://open.spotify.com/album/1anlhyFZ24KN1BjPNPuSXe) | 2:08 | 2023-11-24 | 2024-01-07 |
 | [Good Evening](https://open.spotify.com/track/3LDhrFGz0EJ7yt2gsqbB7R) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Boardwalk Bumps 3](https://open.spotify.com/album/5I1Rdf76k3dEbzhM6RxYim) | 2:01 | 2020-11-12 | 2022-07-29 |
 | [Good Evening](https://open.spotify.com/track/3xSCsPe98emSQSpxCtIkhv) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Good Evening](https://open.spotify.com/album/4lF7OpXCx2JnngN8zeCxMJ) | 2:01 | 2020-11-12 | 2022-07-17 |
 | [Good Evening](https://open.spotify.com/track/5bWvhoW0YfVHgi0IVUl0UG) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Boardwalk Bumps 3](https://open.spotify.com/album/5fRcJfizpJZfVhYr66e7ts) | 2:01 | 2020-11-12 | 2023-11-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Lewis Capaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,931 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,950 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Maybe In The Summer](https://open.spotify.com/track/7foJ5hOQ0i4oJbgtjdUa0w) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY), [Geoff Duncan](https://open.spotify.com/artist/1oXBhBpbEfp8p2mp5ipx2N) | [Maybe In The Summer](https://open.spotify.com/album/349cHC0kfEg2nf5ixElOed) | 2:29 |
 | 100 | [Hunger Games](https://open.spotify.com/track/5DNLtVGw0jGfHVDtuZHs3g) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Hunger Games](https://open.spotify.com/album/2dW75BMldIC4ObSSAeawgC) | 3:40 |
 
-Snapshot ID: `MCwxNTJhZmFkMGIxZTU2YmJiYzg2YWI2YmU3OWQwZTQ0MTNiMzk3ODJh`
+Snapshot ID: `MCwyN2ZjNGQxZTIzYmI3NzYxZDM1OWJiNmY2YTVhNTllZjA4Y2Q0MDQy`

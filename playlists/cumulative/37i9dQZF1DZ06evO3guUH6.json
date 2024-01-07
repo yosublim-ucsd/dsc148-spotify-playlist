@@ -481,6 +481,28 @@
     },
     {
       "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185973,
+      "name": "La Supuesta Cita",
+      "url": "https://open.spotify.com/track/6haNQCMAN9p6y8AWGQJ7fF"
+    },
+    {
+      "album": {
         "name": "Los Inadaptados",
         "url": "https://open.spotify.com/album/7Fz369S1erEQYmnrbZawsB"
       },

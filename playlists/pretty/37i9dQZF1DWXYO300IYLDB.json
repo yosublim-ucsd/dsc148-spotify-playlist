@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3068\u5171\u306b\u3001\u723d\u3084\u304b\u306a1\u65e5\u3092\u8fce\u3048\u307e\u305b\u3093\u304b\uff1f",
-  "num_followers": 100940,
+  "num_followers": 100943,
   "original_name": "Acoustic Melodies Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmE2OGI1M2Q5OTc4NGYxNDIwNzJmYzhjNWZhNDU5YjdhN2RiYmE5",
+  "snapshot_id": "MCxjZTMzODg5YTkyZmU0OWI2ZTM4ODY2NTkzZjAwNmYzZThlMTk2Y2Iw",
   "tracks": [
     {
       "added_at": "2024-01-04 15:00:00",
@@ -203,18 +203,18 @@
     {
       "added_at": "2024-01-04 15:00:00",
       "album": {
-        "name": "Black Friday",
-        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 221510,
-      "name": "Black Friday",
-      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
     },
     {
       "added_at": "2024-01-04 15:00:00",
@@ -271,18 +271,18 @@
     {
       "added_at": "2024-01-04 15:00:00",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+        "name": "Black Friday",
+        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
+      "duration_ms": 221510,
+      "name": "Black Friday",
+      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
     },
     {
       "added_at": "2024-01-04 15:00:00",
@@ -851,22 +851,18 @@
     {
       "added_at": "2024-01-04 15:00:00",
       "album": {
-        "name": "IT'S YOU (feat. keshi)",
-        "url": "https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF"
+        "name": "LOVE AGAIN",
+        "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
       },
       "artists": [
         {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 173427,
-      "name": "IT'S YOU (feat. keshi)",
-      "url": "https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N"
+      "duration_ms": 146640,
+      "name": "LOVE AGAIN",
+      "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
     },
     {
       "added_at": "2024-01-04 15:00:00",
@@ -887,18 +883,22 @@
     {
       "added_at": "2024-01-04 15:00:00",
       "album": {
-        "name": "LOVE AGAIN",
-        "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
+        "name": "IT'S YOU (feat. keshi)",
+        "url": "https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 146640,
-      "name": "LOVE AGAIN",
-      "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
+      "duration_ms": 173427,
+      "name": "IT'S YOU (feat. keshi)",
+      "url": "https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N"
     },
     {
       "added_at": "2024-01-04 15:00:00",

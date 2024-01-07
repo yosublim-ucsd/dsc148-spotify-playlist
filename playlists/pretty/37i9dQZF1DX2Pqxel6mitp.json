@@ -1,12 +1,12 @@
 {
   "description": "A cup of Joe and the raw Blues.",
-  "num_followers": 78481,
+  "num_followers": 78550,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDc3NzFjNDAxN2UzMjYyZThkZmM1OTM4OGY1OTBlYjQ2ZDI2MTA0",
+  "snapshot_id": "MCw1Y2Q0NzYwNjQ5OTZmMDU2ODNkMDU5NDJlZGE5ZmNkMTFlYmU5Nzk4",
   "tracks": [
     {
       "added_at": "2023-11-24 19:23:20",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Unplugged (Deluxe Edition) (Live)",
-        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 226373,
-      "name": "Hey Hey - Acoustic Live",
-      "url": "https://open.spotify.com/track/0qxtcJppuSsxsKmOIGbmpN"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "T-Bone Blues",
         "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 228626,
       "name": "T-Bone Blues",
       "url": "https://open.spotify.com/track/3DjwjAUPT4zvIu6ZzcgLGJ"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Unplugged (Deluxe Edition) (Live)",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Hey Hey - Acoustic Live",
+      "url": "https://open.spotify.com/track/0qxtcJppuSsxsKmOIGbmpN"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
+        "name": "Remastered from the Archives",
+        "url": "https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 145204,
+      "name": "This is Hip - Remastered",
+      "url": "https://open.spotify.com/track/4gUQvpeHV3Itf2WAX0CdjI"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
         "name": "Mississippi Son",
         "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 201506,
       "name": "The Easy Blues",
       "url": "https://open.spotify.com/track/7drMNe3YvNs3KhHIHc6KBk"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
-        "name": "Remastered from the Archives",
-        "url": "https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 145204,
-      "name": "This is Hip - Remastered",
-      "url": "https://open.spotify.com/track/4gUQvpeHV3Itf2WAX0CdjI"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
+        "name": "Presenting Robert Nighthawk",
+        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
+      },
+      "artists": [
+        {
+          "name": "Robert Nighthawk",
+          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
+        }
+      ],
+      "duration_ms": 184466,
+      "name": "Black Angel Blues",
+      "url": "https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
         "name": "Push The Blues Away",
         "url": "https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 218864,
       "name": "Low Down Dog",
       "url": "https://open.spotify.com/track/2EonQEVNpFj4DjrBqBghxe"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
-        "name": "Presenting Robert Nighthawk",
-        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
-      },
-      "artists": [
-        {
-          "name": "Robert Nighthawk",
-          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
-        }
-      ],
-      "duration_ms": 184466,
-      "name": "Black Angel Blues",
-      "url": "https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Neckbone Stew",
-        "url": "https://open.spotify.com/album/5WaGSIkfMgfuJ0Yd9FNyKb"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Wilson",
-          "url": "https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr"
-        }
-      ],
-      "duration_ms": 181040,
-      "name": "Cross Creek Road",
-      "url": "https://open.spotify.com/track/6sfZbIO4O4BtgE0mJ20zFg"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Blues & Gospel (Rare & Unreleased Recordings)",
         "url": "https://open.spotify.com/album/3tUUbZIkGhzmIGLVXP1Fqi"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 216186,
       "name": "Someday Baby Blues",
       "url": "https://open.spotify.com/track/6SH8e1k6ex1Odj6ukZap0L"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Neckbone Stew",
+        "url": "https://open.spotify.com/album/5WaGSIkfMgfuJ0Yd9FNyKb"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Wilson",
+          "url": "https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr"
+        }
+      ],
+      "duration_ms": 181040,
+      "name": "Cross Creek Road",
+      "url": "https://open.spotify.com/track/6sfZbIO4O4BtgE0mJ20zFg"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Heavy Load Blues",
-        "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
-      },
-      "artists": [
-        {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
-        }
-      ],
-      "duration_ms": 289786,
-      "name": "Black Horizon",
-      "url": "https://open.spotify.com/track/3E6epwRVuuksTZDlvc24VH"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "The \"Killer\" Rocks On",
         "url": "https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 351960,
       "name": "Death Letter",
       "url": "https://open.spotify.com/track/0tHs5XPwU1k43SICp9yOKv"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Heavy Load Blues",
+        "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 289786,
+      "name": "Black Horizon",
+      "url": "https://open.spotify.com/track/3E6epwRVuuksTZDlvc24VH"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "The Future Ain't What It Used to Be",
-        "url": "https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035"
-      },
-      "artists": [
-        {
-          "name": "Seth Walker",
-          "url": "https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9"
-        }
-      ],
-      "duration_ms": 200987,
-      "name": "The Future Ain't What It Used to Be",
-      "url": "https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Great God Almighty (Demo, Summer 2018)",
         "url": "https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4"
       },
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Buffalo Nichols",
-        "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
+        "name": "The Future Ain't What It Used to Be",
+        "url": "https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035"
       },
       "artists": [
         {
-          "name": "Buffalo Nichols",
-          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
+          "name": "Seth Walker",
+          "url": "https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9"
         }
       ],
-      "duration_ms": 205201,
-      "name": "Back on Top",
-      "url": "https://open.spotify.com/track/1Ps6uZFGUtM8VZlOTY6EnU"
+      "duration_ms": 200987,
+      "name": "The Future Ain't What It Used to Be",
+      "url": "https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Racing To A Red Light",
-        "url": "https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a"
+        "name": "Buffalo Nichols",
+        "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
       },
       "artists": [
         {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+          "name": "Buffalo Nichols",
+          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
         }
       ],
-      "duration_ms": 264066,
-      "name": "Racing To A Red Light",
-      "url": "https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY"
+      "duration_ms": 205201,
+      "name": "Back on Top",
+      "url": "https://open.spotify.com/track/1Ps6uZFGUtM8VZlOTY6EnU"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1363,6 +1347,22 @@
       "duration_ms": 156465,
       "name": "The Sun is Shining",
       "url": "https://open.spotify.com/track/0iY3krkgfmdqw6dOVVyuf3"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Racing To A Red Light",
+        "url": "https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a"
+      },
+      "artists": [
+        {
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+        }
+      ],
+      "duration_ms": 264066,
+      "name": "Racing To A Red Light",
+      "url": "https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Yellow Peril",
-        "url": "https://open.spotify.com/album/4OIXuFKd0N1hU41Gbfy0v9"
-      },
-      "artists": [
-        {
-          "name": "Nat Myers",
-          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
-        }
-      ],
-      "duration_ms": 204986,
-      "name": "Yellow Peril",
-      "url": "https://open.spotify.com/track/5lzSKx8sUNApxzrGU6POXw"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Misery Loves Company",
         "url": "https://open.spotify.com/album/1q5Y6DUXVUbAAKCYENUQSc"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 372440,
       "name": "Death Letter Blues",
       "url": "https://open.spotify.com/track/4qZRDyzwPafiskSh3YIIPr"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Yellow Peril",
+        "url": "https://open.spotify.com/album/4OIXuFKd0N1hU41Gbfy0v9"
+      },
+      "artists": [
+        {
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+        }
+      ],
+      "duration_ms": 204986,
+      "name": "Yellow Peril",
+      "url": "https://open.spotify.com/track/5lzSKx8sUNApxzrGU6POXw"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Shake Sugaree",
-        "url": "https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Edward Williams",
-          "url": "https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V"
-        }
-      ],
-      "duration_ms": 209400,
-      "name": "Shake Sugaree",
-      "url": "https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Wasted Time",
         "url": "https://open.spotify.com/album/268I3VN44lBjdb3zrkTVlc"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 138040,
       "name": "Wasted Time",
       "url": "https://open.spotify.com/track/5g2wWZNls6R0tIcEqvfY0h"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Shake Sugaree",
+        "url": "https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Edward Williams",
+          "url": "https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V"
+        }
+      ],
+      "duration_ms": 209400,
+      "name": "Shake Sugaree",
+      "url": "https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1955,6 +1955,22 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
+        "name": "Hair On Fire",
+        "url": "https://open.spotify.com/album/50eRb4S7gHNJpNIqQGfZYK"
+      },
+      "artists": [
+        {
+          "name": "Jake La Botz",
+          "url": "https://open.spotify.com/artist/7pHtidPDRlqg71cTcwjWQX"
+        }
+      ],
+      "duration_ms": 231133,
+      "name": "First McDonell's on the Moon",
+      "url": "https://open.spotify.com/track/2UGUwgFhyoNVGkO2Fnyome"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
         "name": "Dirtiest Little Darling / Railroad Bill",
         "url": "https://open.spotify.com/album/7vAzun3PS8V9f8ylWHIVW5"
       },
@@ -2007,22 +2023,6 @@
       "duration_ms": 222724,
       "name": "Smoke In Heaven",
       "url": "https://open.spotify.com/track/2qYV73ZzVbhgqGyhqP6myQ"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
-        "name": "Hair On Fire",
-        "url": "https://open.spotify.com/album/50eRb4S7gHNJpNIqQGfZYK"
-      },
-      "artists": [
-        {
-          "name": "Jake La Botz",
-          "url": "https://open.spotify.com/artist/7pHtidPDRlqg71cTcwjWQX"
-        }
-      ],
-      "duration_ms": 231133,
-      "name": "First McDonell's on the Moon",
-      "url": "https://open.spotify.com/track/2UGUwgFhyoNVGkO2Fnyome"
     }
   ],
   "unique_name": "Black Coffee Blues",

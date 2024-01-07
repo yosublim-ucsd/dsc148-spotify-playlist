@@ -1330,7 +1330,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 133786,
       "name": "Den Visslande Valen",
       "url": "https://open.spotify.com/track/5NPZY6q7EffxPGX8VMjJC4"
@@ -1496,6 +1496,24 @@
       "duration_ms": 90709,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/7LvNWRoBkIO5neAEEMCHTV"
+    },
+    {
+      "album": {
+        "name": "Dreamswing",
+        "url": "https://open.spotify.com/album/7BDShI8oQkJ6J8Sdq266qp"
+      },
+      "artists": [
+        {
+          "name": "Vincent Lundborg",
+          "url": "https://open.spotify.com/artist/30nuHxknx89pxWn3jaKp5A"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118854,
+      "name": "Dreamswing",
+      "url": "https://open.spotify.com/track/44xSmkzDCWN8oJxrCB8pCM"
     },
     {
       "album": {
@@ -2540,7 +2558,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 187196,
       "name": "Hush My Darling",
       "url": "https://open.spotify.com/track/7D9LtIHBOcAbaLSz7T6jFY"
@@ -4722,6 +4740,24 @@
       "duration_ms": 90142,
       "name": "Pop Goes the Weasel",
       "url": "https://open.spotify.com/track/1pzGYBHQi2CKbQCVk17AJx"
+    },
+    {
+      "album": {
+        "name": "Poppy Puppy",
+        "url": "https://open.spotify.com/album/69FfsvVstJkFev5cAgRhFs"
+      },
+      "artists": [
+        {
+          "name": "Kim Akvileja",
+          "url": "https://open.spotify.com/artist/7hSks32NbjUq855ksjMlMg"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89612,
+      "name": "Poppy Puppy",
+      "url": "https://open.spotify.com/track/5rpkYHBqreIuzSVrYWcNa1"
     },
     {
       "album": {

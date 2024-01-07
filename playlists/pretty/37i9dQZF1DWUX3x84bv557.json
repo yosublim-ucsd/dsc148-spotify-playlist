@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste Nederlandse pop! Cover: jet van der steen",
-  "num_followers": 160943,
+  "num_followers": 160973,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTVjMDcyYmNiMTlkYjA1NDhkZTkxOTFmMDk1M2U0YjRkOGZhMTY4",
+  "snapshot_id": "MCxlMDBjZWYwOTU1ZjE5OWE4MmUxN2UyM2M3NTJjYmY3MmQ3NTRlZjA2",
   "tracks": [
     {
       "added_at": "2024-01-04 23:00:00",
@@ -291,6 +291,26 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "2 Glazen Wijn",
+        "url": "https://open.spotify.com/album/4aIhJYYd20CqCfWeihADXg"
+      },
+      "artists": [
+        {
+          "name": "Juwls",
+          "url": "https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75"
+        },
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/1lMqPztKuO3DBB64uGJGr0"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "2 Glazen Wijn",
+      "url": "https://open.spotify.com/track/5qf38xrJmEv83TXan3UCul"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Maken of Breken",
         "url": "https://open.spotify.com/album/3DSkY5g59gmmWnezLp6880"
       },
@@ -323,6 +343,22 @@
       "duration_ms": 143520,
       "name": "Achterna",
       "url": "https://open.spotify.com/track/7uPCo7TJUYlMICfuCavnCf"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Iemand Anders",
+        "url": "https://open.spotify.com/album/0Du6lXqUfjPK0DJjqKzQIL"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "duration_ms": 171447,
+      "name": "Iemand Anders",
+      "url": "https://open.spotify.com/track/00Gy9pxJXHzCoRwXi5CUeJ"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -575,22 +611,6 @@
       "duration_ms": 187836,
       "name": "Kom Dansen",
       "url": "https://open.spotify.com/track/4GWSLrTdJoRSFMJRirlypJ"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "Iemand Anders",
-        "url": "https://open.spotify.com/album/0Du6lXqUfjPK0DJjqKzQIL"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Livay",
-          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
-        }
-      ],
-      "duration_ms": 171447,
-      "name": "Iemand Anders",
-      "url": "https://open.spotify.com/track/00Gy9pxJXHzCoRwXi5CUeJ"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -887,26 +907,6 @@
       "duration_ms": 146501,
       "name": "Opfok",
       "url": "https://open.spotify.com/track/0a7B1hi1BaLLkgXyZak3n7"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "2 Glazen Wijn",
-        "url": "https://open.spotify.com/album/4aIhJYYd20CqCfWeihADXg"
-      },
-      "artists": [
-        {
-          "name": "Juwls",
-          "url": "https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75"
-        },
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/1lMqPztKuO3DBB64uGJGr0"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "2 Glazen Wijn",
-      "url": "https://open.spotify.com/track/5qf38xrJmEv83TXan3UCul"
     },
     {
       "added_at": "2024-01-04 23:00:00",

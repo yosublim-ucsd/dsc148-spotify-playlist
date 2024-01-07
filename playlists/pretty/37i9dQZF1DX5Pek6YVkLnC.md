@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. Esto llega al choliiiii\. Cover: paopao
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,617 likes - 49 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,627 likes - 49 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 25 | [Single](https://open.spotify.com/track/7cBSPzz0kNgc1ghLddrDxZ) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Single](https://open.spotify.com/album/1lfjZUYySyfNnrpntQHVYW) | 2:58 |
 | 26 | [Kyoto](https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE) | [Kyoto](https://open.spotify.com/album/6YOCVR0kA8mO2nWE8LINKa) | 4:07 |
 | 27 | [Blancos & Rojos](https://open.spotify.com/track/4FRMNJTazpo6vhHnfnG2qy) | [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o), [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE) | [Blancos & Rojos](https://open.spotify.com/album/6dLcpS5nJkKsDy78PQakRP) | 2:42 |
-| 28 | [GANGSTA LUV](https://open.spotify.com/track/4ofO3RstzApodaEEPILupI) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB) | [TRAPPii](https://open.spotify.com/album/1EcwiKaYxKwOWsnju1rwHT) | 3:38 |
-| 29 | [Anfetamina](https://open.spotify.com/track/30gIEtWe6BawlVKlsgllKa) | [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Anfetamina](https://open.spotify.com/album/7J6peVThlSZeHce1YMyW9n) | 3:56 |
+| 28 | [Anfetamina](https://open.spotify.com/track/30gIEtWe6BawlVKlsgllKa) | [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Anfetamina](https://open.spotify.com/album/7J6peVThlSZeHce1YMyW9n) | 3:56 |
+| 29 | [GANGSTA LUV](https://open.spotify.com/track/4ofO3RstzApodaEEPILupI) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB) | [TRAPPii](https://open.spotify.com/album/1EcwiKaYxKwOWsnju1rwHT) | 3:38 |
 | 30 | [FREELANCE 2.0](https://open.spotify.com/track/49vODnnBxP9MrmlJ6PDe5v) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB), [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE) | [FREELANCE 2.0 ROA, Amarion, Ankhal \( FT\. CDobleta, Anubiis\)](https://open.spotify.com/album/5x5L7lXzNVon76iOsZKdPx) | 5:36 |
 | 31 | [en guerra](https://open.spotify.com/track/5pM0jZXU3EQPMCWHJayzbx) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [en guerra](https://open.spotify.com/album/5bhBAmEWQVdI4p9zbJtax1) | 3:11 |
 | 32 | [Madrid](https://open.spotify.com/track/49Br4XqYMOBlwM2YRGPQYy) | [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Madrid](https://open.spotify.com/album/6fp9VIOrvejpy2WKofJmL3) | 2:57 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 48 | [Hablando Para No Olvidarnos](https://open.spotify.com/track/2dnAMzrmzJUqiAL7CDG1OJ) | [Baby City Club](https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h) | [Hablando Para No Olvidarnos](https://open.spotify.com/album/6lUt3pvqtRtZwsGgwnoVQ9) | 2:43 |
 | 49 | [Charreando En La Disco](https://open.spotify.com/track/7Cyvb8cXv9uTY3r8479F3p) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu), [Cita](https://open.spotify.com/artist/0ePPxl04qm9B08uPnbBmpC) | [Charreando En La Disco](https://open.spotify.com/album/2PfLqGjgSyRRYFR0xxb47S) | 2:53 |
 
-Snapshot ID: `MCxiYjZlODNkY2RiNTBjODQzOGE3OTA3OTI0NWE5NjZjZGI2OWFlZDIx`
+Snapshot ID: `MCxiMTYzZGFiMWViOWQxYTMxMDg5ZjY1NDBhNGJmZmQ4Nzk3ZDNkNzU2`

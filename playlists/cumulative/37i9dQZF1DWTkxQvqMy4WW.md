@@ -4,7 +4,7 @@
 
 > Country music to get you back to the basics.
 
-397 songs - 22 hr 48 min
+398 songs - 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Honey Bee](https://open.spotify.com/track/0gY2iq0xJPRoIB1PScKSw4) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Red River Blue \(Deluxe Edition\)](https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ) | 3:30 | 2019-10-26 | 2022-04-15 |
 | [House Party](https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:10 | 2019-06-23 |  |
 | [How Country Feels](https://open.spotify.com/track/68A4qiCqD9y39N3WNEsJVD) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [How Country Feels](https://open.spotify.com/album/1Wcnyz2zYWLIPZ1K63RXdW) | 3:05 | 2019-06-23 | 2022-04-18 |
+| [How Country Feels](https://open.spotify.com/track/26t3KexbqzF3sRWgczYyja) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [How Country Feels](https://open.spotify.com/album/6p9LqWLWDOuW2WiUt9YKUZ) | 3:05 | 2023-12-15 |  |
 | [How Country Feels](https://open.spotify.com/track/6aUhfNWYnMThF3TGtuYUUu) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [How Country Feels](https://open.spotify.com/album/4BVzcXLDJ8pRtJttQiU3G6) | 3:05 | 2022-05-13 | 2023-11-05 |
 | [How Does It Sound](https://open.spotify.com/track/5tMViyamkwQmHjMm1OajDi) | [Dylan Schneider](https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY) | [How Does It Sound](https://open.spotify.com/album/7gdxWcWFR6l5IFEHkVn6ol) | 2:42 | 2019-05-25\* | 2022-04-21 |
 | [How I Learned To Pray \(feat\. Luke Combs\)](https://open.spotify.com/track/6DYtfjCJdFOXUlV3E9a9bI) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [How I Learned To Pray \(feat\. Luke Combs\)](https://open.spotify.com/album/0QikezpLsccyG7W7oNwQ8D) | 4:30 | 2023-12-15 | 2023-12-19 |
@@ -250,7 +251,7 @@
 | [One Number Away](https://open.spotify.com/track/4gB7HrYHbJVJ5RFOjxmoq4) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 3:41 | 2019-05-25\* | 2022-11-14 |
 | [One Of Them Girls](https://open.spotify.com/track/14GwnOeC9qYEKEA6uOZepa) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [One Of Them Girls](https://open.spotify.com/album/42Rl6aaMTG6EgYxzjP41qp) | 3:08 | 2021-06-13 |  |
 | [One Wing In The Fire](https://open.spotify.com/track/338arfXmD9XaESFjfcQLsg) | [Trent Tomlinson](https://open.spotify.com/artist/1Zn69emN3uZsF6YwCrkgYp) | [Country Is My Rock](https://open.spotify.com/album/1dMtfygDergsiS0sep6KDL) | 3:52 | 2019-06-26 | 2022-04-20 |
-| [Out Of That Truck](https://open.spotify.com/track/1xdsRkWxWWUkKhh9hRtfYp) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Out Of That Truck](https://open.spotify.com/album/7nglF1PaMAFKEzUq3reXiJ) | 2:57 | 2023-05-18 |  |
+| [Out Of That Truck](https://open.spotify.com/track/1xdsRkWxWWUkKhh9hRtfYp) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Out Of That Truck](https://open.spotify.com/album/7nglF1PaMAFKEzUq3reXiJ) | 2:57 | 2023-05-18 | 2024-01-07 |
 | [Outskirts](https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Outskirts](https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh) | 3:02 | 2023-04-21 |  |
 | [Outta Style](https://open.spotify.com/track/0kMV2fsqzJmhGnqQgvt7MK) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Vaquero](https://open.spotify.com/album/7I7JxhkAidGVxKWrWJ5mD6) | 3:42 | 2019-06-21 | 2022-04-20 |
 | [Over For You](https://open.spotify.com/track/09igKkkm150rRZIxu1gjh3) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Life Upside Down EP](https://open.spotify.com/album/21bX9HbO7Hp29Hb35xuOmr) | 3:05 | 2023-07-07 |  |

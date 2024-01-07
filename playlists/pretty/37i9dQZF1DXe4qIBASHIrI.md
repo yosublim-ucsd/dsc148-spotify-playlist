@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 
 > Los temas esenciales de la escena independiente nacional\. Furland en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,057 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,265 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 97 | [Lo Que Puedes Dar](https://open.spotify.com/track/6UKas8a0cOxZjptZi26GWV) | [Los Fascinantes](https://open.spotify.com/artist/5uOmmoQtUqCtXiTGv2qpFQ) | [Lo Que Puedes Dar](https://open.spotify.com/album/2vhtpNGqAkUnfz8Jwg6JkV) | 2:52 |
 | 98 | [Luces Sensacional](https://open.spotify.com/track/1PtNq4VXQvrkp8Gq11XryM) | [Los Látigos](https://open.spotify.com/artist/4gQjSrUccdskocfsE4L1MF) | [Hombre](https://open.spotify.com/album/2ymgXDddbq17fstiJMOqQC) | 4:23 |
 | 99 | [Azul Oscuro](https://open.spotify.com/track/2arKxdHBNpI1zwTJDNmjwn) | [Zurdok](https://open.spotify.com/artist/6aknH45IYM52OZgDiamuMF) | [Azul Oscuro](https://open.spotify.com/album/5iYmmcWr3mTo9xzQOXByPe) | 4:21 |
-| 100 | [El Ultimo](https://open.spotify.com/track/1LnHgQUu6IBqDLlXH4A3Vq) | [Los Odio!](https://open.spotify.com/artist/0tqpmKIKOBpH3PESt3W93v) | [Los Odio](https://open.spotify.com/album/4jnjFnZIJ7kHm2VIfQwQFC) | 3:35 |
+| 100 | [Sentado Aquí](https://open.spotify.com/track/7w6hhryYUd8U75m4whPw5w) | [Canseco](https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5) | [Sentado Aquí](https://open.spotify.com/album/07RCNt8nAEOaetIOiuLvNp) | 4:20 |
 
-Snapshot ID: `MCw5NDViZGQwMmU4MDc3ZjM1OWY2MzU2MzY0MGNmYzY0NWUyZjI0NDQ5`
+Snapshot ID: `MCwwOTU2NzkwMTU3NjBmNTNhODM4NjgyYzVkNDU1YjVlY2U2ZWIwYTIx`

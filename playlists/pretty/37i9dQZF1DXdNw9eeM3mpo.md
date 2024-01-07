@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100% ska en español\. Los Fabulosos Cadillacs en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,881 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,963 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 54 | [Nada Que Perder](https://open.spotify.com/track/2yZsGhvrL3dRlbMLhAcy0E) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Flores para los Muertos](https://open.spotify.com/album/4MG3GEmrAnhWtKOkyP5BjV) | 3:37 |
 | 55 | [Solo un Minuto](https://open.spotify.com/track/6rk1UifNJO2oKMajBOdETB) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [The Maskatonians All Stars And Friends](https://open.spotify.com/album/369qblMdVKisn6er3exhcw) | 4:59 |
 | 56 | [América](https://open.spotify.com/track/4xwUANiwIWZ2UkKxXzSSSJ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [ADN \(Capítulo N\)](https://open.spotify.com/album/5dsGcOBv9D6MNQWEBkFbxX) | 3:02 |
-| 57 | [Que me quemen tus ojos](https://open.spotify.com/track/6NhDCP3GmbwHcv6bJeKnVn) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [Macha Y El Bloque Depresivo](https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy) | [Que me quemen tus ojos](https://open.spotify.com/album/0uafJymFyfHtQOJn6r3EfJ) | 2:39 |
-| 58 | [El Ático](https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Ático](https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm) | 4:02 |
-| 59 | [TU ALMA MIA/ADELITA](https://open.spotify.com/track/24w6juIgwVkJQ3XmPH9C3Q) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS) | 3:49 |
+| 57 | [TU ALMA MIA/ADELITA](https://open.spotify.com/track/24w6juIgwVkJQ3XmPH9C3Q) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS) | 3:49 |
+| 58 | [Que me quemen tus ojos](https://open.spotify.com/track/6NhDCP3GmbwHcv6bJeKnVn) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [Macha Y El Bloque Depresivo](https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy) | [Que me quemen tus ojos](https://open.spotify.com/album/0uafJymFyfHtQOJn6r3EfJ) | 2:39 |
+| 59 | [El Ático](https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Ático](https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm) | 4:02 |
 | 60 | [Skalari Rude Klub \(SRK\)](https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ) | [Skalariak](https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ) | [En la Kalle](https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P) | 3:37 |
 | 61 | [La Zona del Terror](https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 4:03 |
 | 62 | [Pachuco \- En Vivo en el Foro Sol \- 17.11.17](https://open.spotify.com/track/3Osgqk5IT0FTUc9HehVjXP) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), ["Sax" Maldita Vecindad](https://open.spotify.com/artist/2eS8sUGABAZ6um3P2gfhBq) | [Pachuco \(feat\. "Sax" Maldita Vecindad \- en Vivo en el Foro Sol \- 17.11.17\)](https://open.spotify.com/album/6wmAbQ7sRCwzJsPr87EfoC) | 3:56 |
@@ -76,10 +76,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 66 | [Mala Vida](https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Frecuencia Extrema](https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA) | 3:18 |
 | 67 | [Ojos Cafés](https://open.spotify.com/track/7CfOeohPQbV2tLBafGGnnv) | [Skapital Sound](https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi) | [Flamingo](https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU) | 4:00 |
 | 68 | [Mi Vida sin tu Amor \(featuring Miño\)](https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V), [Miño](https://open.spotify.com/artist/4ceRa2fprkKr9byxABIyTf) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 5:28 |
-| 69 | [Señorita a Mi Me Gusta Su Style](https://open.spotify.com/track/3L7jB4xMYqApabyWPGlz0g) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Los Rabanes](https://open.spotify.com/album/0Zu3dRK5p8pqvCrNTo6AuU) | 3:25 |
-| 70 | [Rudi Not Dead](https://open.spotify.com/track/0kFMgiUew2gYgsNAB4NyTx) | [Juantxo Skalari & La Rude Band](https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb) | [Rudi Records](https://open.spotify.com/album/0RyS5RwxQ6R0dTnJCuc3Dx) | 4:26 |
+| 69 | [Contigo Me Encontré](https://open.spotify.com/track/2SN72e6qe7mpWILUt66RqO) | [Negros Vivos](https://open.spotify.com/artist/72QOOwPYcqNkXXG5XHo0cJ) | [Contigo Me Encontré](https://open.spotify.com/album/5J6JbwOc4Ro0FXWjRPXAG0) | 3:22 |
+| 70 | [Señorita a Mi Me Gusta Su Style](https://open.spotify.com/track/3L7jB4xMYqApabyWPGlz0g) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Los Rabanes](https://open.spotify.com/album/0Zu3dRK5p8pqvCrNTo6AuU) | 3:25 |
 | 71 | [Algo De Suerte](https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED) | [Sonora Skandalera](https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac) | [Sonora Skandalera](https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n) | 4:14 |
-| 72 | [Contigo Me Encontré](https://open.spotify.com/track/2SN72e6qe7mpWILUt66RqO) | [Negros Vivos](https://open.spotify.com/artist/72QOOwPYcqNkXXG5XHo0cJ) | [Contigo Me Encontré](https://open.spotify.com/album/5J6JbwOc4Ro0FXWjRPXAG0) | 3:22 |
+| 72 | [Rudi Not Dead](https://open.spotify.com/track/0kFMgiUew2gYgsNAB4NyTx) | [Juantxo Skalari & La Rude Band](https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb) | [Rudi Records](https://open.spotify.com/album/0RyS5RwxQ6R0dTnJCuc3Dx) | 4:26 |
 | 73 | [El Peor Momento](https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [2](https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp) | 3:10 |
 | 74 | [Envenenen a Mis Labios](https://open.spotify.com/track/0g6fuc3xiIsYVVkfqUNua6) | [La Parranda Magna](https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH) | [Nunca Nos Compusimos](https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up) | 3:50 |
 | 75 | [La Bolsa](https://open.spotify.com/track/2qSbz1afvswRV4g7fT3dgj) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx), [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [La Bolsa](https://open.spotify.com/album/6wbS0YyaDg2mbJDkZBk1el) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 99 | [Fuera de Ritmo](https://open.spotify.com/track/2wjG05ZMz3Cgy4opzpNNd7) | [Fuerza Dread](https://open.spotify.com/artist/4upmyJmsVYEetRhB4ko8iV), [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Fuera de Ritmo](https://open.spotify.com/album/0KtQlIksmdmm5FvxwpH5Av) | 4:24 |
 | 100 | [La Bacha](https://open.spotify.com/track/0uoCp44J9zDIp0YiU3Q9Gu) | [Adhesivo](https://open.spotify.com/artist/3G09ejwK6mqyGaWXDF1w6n) | [La Bacha](https://open.spotify.com/album/2g2F7xOQIfylKxoT2sA4Xw) | 3:16 |
 
-Snapshot ID: `MCw5OGI0OTFiYzQyNDE4ZTE0MTg5ZjZmNDRhZTQ2ODcwYjI1ZTNiZWZh`
+Snapshot ID: `MCwwNGE4NzIxODI2NzM2YTI1M2I1YzYxMDFmNDA4Y2QzMzFlMDI4Y2Zk`

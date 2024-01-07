@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Ric Hassani
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,622 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,706 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,19 +53,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 43 | [42](https://open.spotify.com/track/2Kui4WxXbqrxVO7q0H1XBA) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [Make E No Cause Fight 3](https://open.spotify.com/album/0KL40ckvFn3gRSiPWLZJ56) | 2:51 |
 | 44 | [All Over You](https://open.spotify.com/track/4p5x9gioMn5CYZCuRGo1Kz) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [All Over You / Mon Bébé](https://open.spotify.com/album/6jUDD4gmGow8JAj1rL9Wl0) | 2:20 |
 | 45 | [Therapy](https://open.spotify.com/track/6qIlzp4lZfTYJujSXw5o7r) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [5th Dimension](https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb) | 3:20 |
-| 46 | [Honest](https://open.spotify.com/track/2vnNYl3UDY9Grubs0VAK5m) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [TSB](https://open.spotify.com/artist/5TcyvDMRRaMjCBoXIUWofZ) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 3:02 |
-| 47 | [Don't Let Me Down](https://open.spotify.com/track/2mEnZ17oGA7nPcBTRG2jLG) | [Marvel](https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL) | [Don't Let Me Down](https://open.spotify.com/album/45ZnWV7qkh537T4XsAjGOh) | 3:04 |
+| 46 | [Don't Let Me Down](https://open.spotify.com/track/2mEnZ17oGA7nPcBTRG2jLG) | [Marvel](https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL) | [Don't Let Me Down](https://open.spotify.com/album/45ZnWV7qkh537T4XsAjGOh) | 3:04 |
+| 47 | [Honest](https://open.spotify.com/track/2vnNYl3UDY9Grubs0VAK5m) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [TSB](https://open.spotify.com/artist/5TcyvDMRRaMjCBoXIUWofZ) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 3:02 |
 | 48 | [Area Party](https://open.spotify.com/track/3HhFNwoskRIUdj8nadvmzp) | [Novemba](https://open.spotify.com/artist/2Eiiy3N1dxC8elC8kIkoHJ) | [Area Party](https://open.spotify.com/album/29FyZCVFynYTLUDkMFkEZL) | 2:02 |
 | 49 | [4LYFE](https://open.spotify.com/track/2TSyn5AUP4XKlx2DULEPvs) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [4LYFE](https://open.spotify.com/album/3UEA2UkF8k5Nf3o6X3UK4m) | 2:47 |
 | 50 | [All In](https://open.spotify.com/track/2VSX6yoH66zYjEbLieZMnl) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [All In](https://open.spotify.com/album/5tgwOWxriOGrApV0GEe32i) | 3:32 |
-| 51 | [Icon](https://open.spotify.com/track/7F1PAapg2rEEHl5SOkOxVZ) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf) | [Icon](https://open.spotify.com/album/4FK2UosgBV0LytX5ZPNbEp) | 2:20 |
-| 52 | [Summer Breeze](https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Summer Breeze](https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb) | 3:58 |
+| 51 | [Summer Breeze](https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Summer Breeze](https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb) | 3:58 |
+| 52 | [Icon](https://open.spotify.com/track/7F1PAapg2rEEHl5SOkOxVZ) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf) | [Icon](https://open.spotify.com/album/4FK2UosgBV0LytX5ZPNbEp) | 2:20 |
 | 53 | [Rora](https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [Rora](https://open.spotify.com/album/1uZCXiwB6JKI6Z9bSejdzC) | 2:23 |
 | 54 | [Lose Ya](https://open.spotify.com/track/0a2V2dT53tbO9SpyQMDvGo) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 2:00 |
 | 55 | [Eyes on You](https://open.spotify.com/track/2NnqSG568w506fvH0pSTzI) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Eyes on You](https://open.spotify.com/album/5YzJpnr4nVbCBwCvcY4Flr) | 3:02 |
 | 56 | [Alone](https://open.spotify.com/track/4qqXRH8qhmNA31oy1ADAN7) | [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Alone](https://open.spotify.com/album/3QNMOgAZ3fezFohWtYRMaw) | 2:37 |
-| 57 | [Everything](https://open.spotify.com/track/6iPyqbLdI5aXk4GftBma2B) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Don't Tell Anyone](https://open.spotify.com/album/7DWtbxvd2vX3mNwVAO44iY) | 2:57 |
-| 58 | [ALL MY LIFE](https://open.spotify.com/track/4WoPXUWnmeNlxLLbvfxhx9) | [Tomi Owó](https://open.spotify.com/artist/21EqvfrgEecTOZtKffQ82k) | [ALL MY LIFE](https://open.spotify.com/album/2bf2Ru2MkVeF8sFFBvrIvS) | 2:36 |
+| 57 | [ALL MY LIFE](https://open.spotify.com/track/4WoPXUWnmeNlxLLbvfxhx9) | [Tomi Owó](https://open.spotify.com/artist/21EqvfrgEecTOZtKffQ82k) | [ALL MY LIFE](https://open.spotify.com/album/2bf2Ru2MkVeF8sFFBvrIvS) | 2:36 |
+| 58 | [Everything](https://open.spotify.com/track/6iPyqbLdI5aXk4GftBma2B) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Don't Tell Anyone](https://open.spotify.com/album/7DWtbxvd2vX3mNwVAO44iY) | 2:57 |
 | 59 | [Enemy](https://open.spotify.com/track/2BpPchBu0QUEWESGox0EXq) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body, Soul & Spirit](https://open.spotify.com/album/1v9uFb7YRRXyex0XnASQOJ) | 2:38 |
 | 60 | [Troubling](https://open.spotify.com/track/2ES55pOmP7U7DnFueBuLwO) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Life Is Better Now](https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo) | 2:31 |
 | 61 | [RIDE N SING](https://open.spotify.com/track/6ysrsFj81F7QRSZpGvGt2t) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Point Of View](https://open.spotify.com/album/1z4Q2kTsQxiGMlJjKSPBfc) | 3:24 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 79 | [Break Up](https://open.spotify.com/track/2HC8oDukA9GvcWG5MuGYde) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [IN CASE I NEVER LOVE AGAIN \( ICINLA\)](https://open.spotify.com/album/0xJWHpLQZOiOKoDzqquHfY) | 3:02 |
 | 80 | [21](https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/4C4GoTj4U4QL9awtXxbFYv) | 2:25 |
 
-Snapshot ID: `MCwyOWFmODdlMDY2YmNkMmU0MmFiNzk3YjMxMDNiNTYyZTE3MWVkNjk4`
+Snapshot ID: `MCxiYTViNzdiNWQ2NTg5MDI5OTdmMjFkNWIyMTk3ZTBiODlhNThjNTU4`

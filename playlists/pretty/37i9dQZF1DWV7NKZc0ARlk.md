@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7NKZc0ARlk.md) - [plain]
 
 > Los éxitos del pop suenan mejor en vivo\. Foto: Thalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,812 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,124 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7NKZc0ARlk.md) - [plain]
 | 49 | [Serás el Aire \- Primera Fila](https://open.spotify.com/track/1s8i3KnevFv5h5BVfFotCl) | [Sasha, Benny y Erik](https://open.spotify.com/artist/03FiyT61gVIy08oxFm6xZC) | [Primera Fila Sasha Benny Erik](https://open.spotify.com/album/0DB9SvuVNpmScrd8InA3jv) | 4:19 |
 | 50 | [Mi Credo \(En Vivo\)](https://open.spotify.com/track/2K5XrnXHgV7r71gbQjxoUo) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [MTV Unplugged \(En Vivo\)](https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON) | 6:02 |
 
-Snapshot ID: `MCw4Y2JiYmZkYjU2MTQyMWM4NzFhNWU2OGU4MGY1ZTk0NTQzOTE4NjM4`
+Snapshot ID: `MCxlMGU4MzgwY2U0NWZjNDdjMDY3ZTc0ODJlYjMzNjRiNGE5ZmI3Yjc1`

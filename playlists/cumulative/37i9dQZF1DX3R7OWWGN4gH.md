@@ -4,7 +4,7 @@
 
 > Entering my reputation era...
 
-274 songs - 15 hr 1 min
+275 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Build a Bitch](https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Build a Bitch](https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o) | 2:02 | 2022-01-27 |  |
 | [Burned](https://open.spotify.com/track/4mz7WAJCJz7QbXsFA2WoXK) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Just The Beginning](https://open.spotify.com/album/55LUvkPPMUgwQVmypS3Wex) | 3:11 | 2022-01-27 | 2022-07-29 |
 | [Burning Pile](https://open.spotify.com/track/0zMAvsQmaQ4DGsmXtKixpn) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2) | 4:22 | 2022-01-27 | 2023-12-23 |
+| [Burning Pile](https://open.spotify.com/track/5ZpAU5f4jxj6i9XoKK0RaI) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/41U6Qbx5KxhHYIuwlK3lXA) | 4:22 | 2023-09-22 |  |
 | [bury a friend](https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:13 | 2022-01-27 |  |
 | [Call me Cruella](https://open.spotify.com/track/7lGfhlbpUkI1DOE51Vb2Mt) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Cruella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ibszTMHImI4rzhjrDRKMq) | 2:07 | 2022-01-27 | 2022-04-19 |
 | [Can't Be Tamed](https://open.spotify.com/track/2r6DdaSbkbwoPzuK6NjLPn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Can't Be Tamed](https://open.spotify.com/album/69Pf9ExxwjhVFyosKsKWQu) | 2:48 | 2022-01-27 | 2023-03-12 |
@@ -275,7 +276,7 @@
 | [Wicked Witch of the Westside](https://open.spotify.com/track/5sX3yE3JNVoMcXq9KIML6B) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [Letting the Wolf In](https://open.spotify.com/album/5u9wJmulvEFL4tamgsrcb6) | 2:48 | 2022-01-27 | 2022-07-29 |
 | [Wires](https://open.spotify.com/track/5v8aEcHcaJIGYpfVVPtJjI) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I'm Sorry...](https://open.spotify.com/album/4hRjuAxpm9X6h1H95QVgJ9) | 3:13 | 2022-01-27 | 2023-07-02 |
 | [Wish You the Worst](https://open.spotify.com/track/0JBtSBz5wwJYIYkGpRk4wS) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Wish You the Worst](https://open.spotify.com/album/3CJXPqgGd9igKie4C0YyiJ) | 2:23 | 2022-05-24 | 2022-07-29 |
-| [Wish You the Worst](https://open.spotify.com/track/0cOwPdK6FsqXz967daLc4k) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Wish You the Worst](https://open.spotify.com/album/4JsqUzG5orBKjf3LC0d6We) | 2:23 | 2022-11-27 |  |
+| [Wish You the Worst](https://open.spotify.com/track/0cOwPdK6FsqXz967daLc4k) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Wish You the Worst](https://open.spotify.com/album/4JsqUzG5orBKjf3LC0d6We) | 2:23 | 2022-11-27 | 2024-01-07 |
 | [World Burn](https://open.spotify.com/track/3iISGrl3JKqPQ4GLqPjVkt) | [Taylor Louderman](https://open.spotify.com/artist/1f0vGTFXE64SLuypBV8zB0), [Original Broadway Cast of Mean Girls](https://open.spotify.com/artist/6B1foTh2pK3K4MKQzYaKRu) | [Mean Girls \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf) | 3:23 | 2022-01-27 | 2022-07-28 |
 | [YES MOM](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 2:42 | 2022-07-18 | 2022-08-12 |
 | [You Don't Own Me](https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Lesley Gore Sings Of Mixed\-Up Hearts](https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ) | 2:30 | 2022-01-27 |  |

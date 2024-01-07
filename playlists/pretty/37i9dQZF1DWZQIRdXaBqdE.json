@@ -1,12 +1,12 @@
 {
   "description": "Get on down the road with these classic country tunes. Cover: Johnny Cash",
-  "num_followers": 391486,
+  "num_followers": 391583,
   "original_name": "Classic Country Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzRiOGEwZjgzNDM0YmExMmI3MzZkMzI5NDZmNTgyZDEzMWMwYjYz",
+  "snapshot_id": "MCw1NzA3MmJhYmY1ODZhMzhjMGY5ZDg3OGM3YmE5NDY4M2Y0MDA4Njg4",
   "tracks": [
     {
       "added_at": "2023-08-21 00:02:44",
@@ -807,18 +807,22 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Charley Pride's 10th Album",
-        "url": "https://open.spotify.com/album/6H1BgFwZCf70Aft8uirQMl"
+        "name": "Ultimate Dolly Parton",
+        "url": "https://open.spotify.com/album/03DTXxfU0UJ96lt1umUtts"
       },
       "artists": [
         {
-          "name": "Charley Pride",
-          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
         }
       ],
-      "duration_ms": 133880,
-      "name": "Is Anybody Goin' to San Antone",
-      "url": "https://open.spotify.com/track/4YoKrIafwopFW5OfjaRwty"
+      "duration_ms": 249293,
+      "name": "Islands In the Stream",
+      "url": "https://open.spotify.com/track/4dqEzdFAYkj1rjYLVDuTlN"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -843,22 +847,18 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Ultimate Dolly Parton",
-        "url": "https://open.spotify.com/album/03DTXxfU0UJ96lt1umUtts"
+        "name": "Charley Pride's 10th Album",
+        "url": "https://open.spotify.com/album/6H1BgFwZCf70Aft8uirQMl"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
         }
       ],
-      "duration_ms": 249293,
-      "name": "Islands In the Stream",
-      "url": "https://open.spotify.com/track/4dqEzdFAYkj1rjYLVDuTlN"
+      "duration_ms": 133880,
+      "name": "Is Anybody Goin' to San Antone",
+      "url": "https://open.spotify.com/track/4YoKrIafwopFW5OfjaRwty"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Who's Gonna Fill Their Shoes",
-      "url": "https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "The Very Best Of David Frizzell & Shelly West",
         "url": "https://open.spotify.com/album/2pVU6L8o7hWWLkRHyrTkbI"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 204386,
       "name": "You're The Reason God Made Oklahoma",
       "url": "https://open.spotify.com/track/6h2uiSGYI1oLzYg0MvBs6v"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Who's Gonna Fill Their Shoes",
+      "url": "https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ"
     },
     {
       "added_at": "2023-08-21 00:02:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 
 > Neem plaats in je eigen Pop Lounge, thuis, onderweg of op het werk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,222 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,224 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 | 19 | [The Way You Felt](https://open.spotify.com/track/5myjSxfvS8pzSMK3jJcfIL) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [\(Un\)Commentary](https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO) | 3:03 |
 | 20 | [Good Without](https://open.spotify.com/track/0xqHkO5570zlGpLpCnd4MG) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Seven Shades of Heartbreak](https://open.spotify.com/album/7kYQPT7i8PrKsTG3dsXe4r) | 3:02 |
 | 21 | [September](https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [September](https://open.spotify.com/album/1gHwbB7Db9yJ7kASKJFSnc) | 3:40 |
-| 22 | [Echo](https://open.spotify.com/track/1Gy9Ofi7nPnNf3kGWPjurm) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Echo](https://open.spotify.com/album/1uKVTPgvFZAUZ4Tb4j1P9F) | 3:17 |
+| 22 | [Dive](https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive](https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee) | 3:20 |
 | 23 | [Courage to Change](https://open.spotify.com/track/2MbgQKWhoii8bqsMBWWWgA) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Courage to Change](https://open.spotify.com/album/09bnoLaXqJi7naZtDXHIbh) | 4:52 |
 | 24 | [Paint My Bedroom Black](https://open.spotify.com/track/3gA9Y5RsXBUKkr1IP6v4g3) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/7xpV6gsna8TzskCRjmSxLE) | 3:49 |
 | 25 | [I'm So Happy \(with BENEE\)](https://open.spotify.com/track/16Fxe5DvEXRxQwcorFyaIO) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [I'm So Happy](https://open.spotify.com/album/2n9fao5PGUvIayJehrdHf7) | 2:53 |
 | 26 | [Down](https://open.spotify.com/track/3uHWdehoLyQZJECjiTI4a6) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Tomorrow EP](https://open.spotify.com/album/4uVBOgsiFX3qsvAvtgoW4X) | 3:04 |
 | 27 | [Best Days](https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:31 |
-| 28 | [Dive](https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive](https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee) | 3:20 |
+| 28 | [Echo](https://open.spotify.com/track/1Gy9Ofi7nPnNf3kGWPjurm) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Echo](https://open.spotify.com/album/1uKVTPgvFZAUZ4Tb4j1P9F) | 3:17 |
 | 29 | [Love is Pain](https://open.spotify.com/track/2tJUcBxiQEYSCzC3BdIOk8) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:44 |
 | 30 | [Holding on to Letting Go](https://open.spotify.com/track/3R8YZSqMrMEY2Axj8A8LZo) | [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [Holding on to Letting Go](https://open.spotify.com/album/4QzrKpnh58uBFIEqP91Q8U) | 2:45 |
 | 31 | [Liar Liar](https://open.spotify.com/track/7c0tqRk43Y0QXTOYZ5lnkA) | [Cris Cab](https://open.spotify.com/artist/7vWBZm3sQ8yQvfV4nXxHXK) | [Where I Belong](https://open.spotify.com/album/2drxntzHlsigavFiTWYRvF) | 3:33 |
@@ -56,15 +56,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 | 46 | [Wait for You](https://open.spotify.com/track/1prpauWvVGDE0xJAvaDRQt) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Wait for You](https://open.spotify.com/album/4IuaPrc3u8NLguZv7CfmJ2) | 2:52 |
 | 47 | [Spend The Night](https://open.spotify.com/track/1wqKQu5RECFt8Q3MMCqWdn) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Spend The Night](https://open.spotify.com/album/5wnhSl8Q7LMbtwYkFIYaEJ) | 3:13 |
 | 48 | [We Could Start a Thing](https://open.spotify.com/track/0EK4qiXLTDv0dq1tIJhUHh) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [We Could Start a Thing](https://open.spotify.com/album/55oBheqmFGiAYmFFY0Byyg) | 2:24 |
-| 49 | [half a world away](https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [half a world away](https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7) | 3:27 |
-| 50 | [How Do You Feel](https://open.spotify.com/track/5bpj0ZqFlll4Xir4BPmGZ2) | [Nick Klyne](https://open.spotify.com/artist/3kykBEXWnTbBOYRKv78GyU) | [How Do You Feel](https://open.spotify.com/album/0nC8SQ0DUCC5RoQ55GBqK7) | 2:48 |
+| 49 | [How Do You Feel](https://open.spotify.com/track/5bpj0ZqFlll4Xir4BPmGZ2) | [Nick Klyne](https://open.spotify.com/artist/3kykBEXWnTbBOYRKv78GyU) | [How Do You Feel](https://open.spotify.com/album/0nC8SQ0DUCC5RoQ55GBqK7) | 2:48 |
+| 50 | [half a world away](https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [half a world away](https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7) | 3:27 |
 | 51 | [In The Middle](https://open.spotify.com/track/7n2tqj3L3fflT1ApcOWWgw) | [Mad3 for M3](https://open.spotify.com/artist/6gkVmcX3QAvhKaS481fpzV), [Cris Cab](https://open.spotify.com/artist/7vWBZm3sQ8yQvfV4nXxHXK) | [In The Middle](https://open.spotify.com/album/3jJe1v9GSpDnow0L8Tw4ZW) | 3:41 |
 | 52 | [Me, Myself & I](https://open.spotify.com/track/5Up89wdeUunZgEqD8VqOTx) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Me, Myself & I](https://open.spotify.com/album/7kH8gHFaH8GMjaybGYAPC8) | 2:53 |
 | 53 | [Need You Tonight](https://open.spotify.com/track/4HLuopIC1sQIgTAcDwkkqR) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy), [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Need You Tonight](https://open.spotify.com/album/2vVY1FESWAdXJLyF7vd7w8) | 3:18 |
 | 54 | [I Don't Care](https://open.spotify.com/track/2PFhevKRsRROz9DjQWBcYV) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [James Droll](https://open.spotify.com/artist/3lPtB78D5puSWQ7ltAafQw) | [I Don't Care](https://open.spotify.com/album/7Fy6WDol97Dr74xDgZxqu1) | 3:45 |
 | 55 | [Long Run \(feat\. Nina Nesbitt\)](https://open.spotify.com/track/71xLha47XAePi0EbzHAbEW) | [Deacon](https://open.spotify.com/artist/4rK6HLvoZhLFUTcUhG9WfC), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Long Run \(feat\. Nina Nesbitt\)](https://open.spotify.com/album/5D3DPkdMjst8RNJi9LmWm7) | 2:54 |
-| 56 | [I'm Not Going Anywhere](https://open.spotify.com/track/7f59sM8HM55lTngAUMTfMU) | [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [I'm Not Going Anywhere](https://open.spotify.com/album/3Z7B2LaqVhGrl8Rzk1N2AC) | 2:59 |
-| 57 | [hunger](https://open.spotify.com/track/00FRYCC99BHS1ewIqteTwh) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [hunger](https://open.spotify.com/album/0POoxs5GMl3mqyOi7olevg) | 3:11 |
+| 56 | [hunger](https://open.spotify.com/track/00FRYCC99BHS1ewIqteTwh) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [hunger](https://open.spotify.com/album/0POoxs5GMl3mqyOi7olevg) | 3:11 |
+| 57 | [I'm Not Going Anywhere](https://open.spotify.com/track/7f59sM8HM55lTngAUMTfMU) | [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [I'm Not Going Anywhere](https://open.spotify.com/album/3Z7B2LaqVhGrl8Rzk1N2AC) | 2:59 |
 | 58 | [Trippin](https://open.spotify.com/track/2VTV2S3TThrY5fGjWHZ6yu) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Trippin](https://open.spotify.com/album/5czzOP2xMdJJybVvju91DF) | 3:10 |
 | 59 | [girls like me don't cry](https://open.spotify.com/track/4bSMUfnzyMd9z3SaFoMQfP) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry \(sped up\)](https://open.spotify.com/album/6oAHui1V8db4Ns78vWHJlN) | 3:33 |
 | 60 | [Loop](https://open.spotify.com/track/4gGbAcDvbr8iVVOxF78FEO) | [Mia Nicolai](https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ) | [Loop & Dream Go](https://open.spotify.com/album/6mqRQ2RqCs9UdlUPArUcXo) | 2:27 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 | 69 | [Learn to Love \- Stripped](https://open.spotify.com/track/3QuArt3TFanlz6XOUiphiE) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq), [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Learn to Love \(Stripped\)](https://open.spotify.com/album/5lluwVdUqKhjsby4RLMahS) | 3:32 |
 | 70 | [When You Say You Love Me](https://open.spotify.com/track/0A0pgeiFNdANI5po65sUrp) | [More Ease](https://open.spotify.com/artist/6MqGLWFP5nuu5q0Bv0sSsk) | [When You Say You Love Me](https://open.spotify.com/album/63TIdz31D1QJZn3zGzoAaX) | 2:18 |
 
-Snapshot ID: `MCw1YjNiNWFiODhjOWE1YmUwMWNhYTNlYzlkZTg0YTlhNWMwY2Q3YzJk`
+Snapshot ID: `MCw3YTQxYmQwNGNkYTRmZDMwM2E5ZDZhNDI5M2E4NmMzZWQ2NjZmZWE1`

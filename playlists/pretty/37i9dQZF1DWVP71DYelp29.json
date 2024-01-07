@@ -1,12 +1,12 @@
 {
   "description": "The hits you know like you\u2019ve never heard before. Cover: Madison Rose ",
-  "num_followers": 743286,
+  "num_followers": 743301,
   "original_name": "Spotify Singles: Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWMwNTdhYTA1MmQwYmI2MzNlM2MxMTM3YWQ4MjVmMzgzZmM3ZmMw",
+  "snapshot_id": "MCwxMDBjZWMxNzA4YWE1M2E3MGVlMTg0MzRiMTcwNjQxYmI0MjE4ZDcx",
   "tracks": [
     {
       "added_at": "2023-01-11 19:54:48",
@@ -568,22 +568,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 202482,
-      "name": "Stan - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6H98N10OCmld8m5XyyulO3"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
       },
       "artists": [
@@ -595,6 +579,22 @@
       "duration_ms": 173641,
       "name": "California Dreamin' - Spotify Singles",
       "url": "https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 202482,
+      "name": "Stan - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6H98N10OCmld8m5XyyulO3"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -716,22 +716,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7ll3Cf5KaoLl6toqeSlClH"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 262826,
-      "name": "I Wanna Dance With Somebody (Who Loves Me) - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3Nca5js9xKegX655YZ43Uq"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/67heSgreFffe8zNCXhTAII"
       },
       "artists": [
@@ -743,6 +727,22 @@
       "duration_ms": 178794,
       "name": "Location (Recorded at Spotify Studios NYC)",
       "url": "https://open.spotify.com/track/2mKvT6ktC8tQbaKOHUKU6X"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7ll3Cf5KaoLl6toqeSlClH"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 262826,
+      "name": "I Wanna Dance With Somebody (Who Loves Me) - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3Nca5js9xKegX655YZ43Uq"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -919,6 +919,26 @@
     {
       "added_at": "2023-01-11 19:54:48",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs"
+      },
+      "artists": [
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        },
+        {
+          "name": "Avenue Beat",
+          "url": "https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc"
+        }
+      ],
+      "duration_ms": 177261,
+      "name": "Watermelon Sugar (featuring Avenue Beat)",
+      "url": "https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
         "name": "Life is Like a Dice Game - Spotify Singles",
         "url": "https://open.spotify.com/album/07XItOn4L2uyxBeZBOAwVt"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 284093,
       "name": "Life is Like a Dice Game - Spotify Singles",
       "url": "https://open.spotify.com/track/5iBEUyRJL5fV0Hl5L5AqoR"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs"
-      },
-      "artists": [
-        {
-          "name": "Maddie & Tae",
-          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
-        },
-        {
-          "name": "Avenue Beat",
-          "url": "https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc"
-        }
-      ],
-      "duration_ms": 177261,
-      "name": "Watermelon Sugar (featuring Avenue Beat)",
-      "url": "https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1144,22 +1144,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 167907,
-      "name": "bad guy - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/66wi6NRfwsula1n68bJEod"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
       },
       "artists": [
@@ -1171,6 +1155,22 @@
       "duration_ms": 192146,
       "name": "2002 - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/5fTB64VM8euas4F0xOHY5S"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 167907,
+      "name": "bad guy - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/66wi6NRfwsula1n68bJEod"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1984,22 +1984,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7czziv0pFx9h7WbXdcVixR"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "No Ordinary Love \u2013 Recorded at RAK Studios, London",
-      "url": "https://open.spotify.com/track/1tuaLgIQPnPmwOiniFGNK9"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4ZXl1inxvsA1x3uKIIRomO"
       },
       "artists": [
@@ -2011,6 +1995,22 @@
       "duration_ms": 201552,
       "name": "Walking Away - Recorded At Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/6eXTECbiawTve7VP1vEDcs"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7czziv0pFx9h7WbXdcVixR"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "No Ordinary Love \u2013 Recorded at RAK Studios, London",
+      "url": "https://open.spotify.com/track/1tuaLgIQPnPmwOiniFGNK9"
     },
     {
       "added_at": "2023-01-11 19:54:48",

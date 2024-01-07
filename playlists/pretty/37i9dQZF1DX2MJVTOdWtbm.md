@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Nicole Horts
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,042 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,066 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 20 | [Tal Cual](https://open.spotify.com/track/6AYChTi731d2czSAVaMeWr) | [Lateral](https://open.spotify.com/artist/5DIenL3nznzWs5Xc7EaVA3) | [Tal Cual](https://open.spotify.com/album/1enQgUSzXY27aQGapslODn) | 2:33 |
 | 21 | [Me Olvidé De Los 2](https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [LA ISLA LP](https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6) | 2:59 |
 | 22 | [Mi Nena Remix](https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Mi Nena Remix](https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW) | 3:40 |
-| 23 | [ME TENGO QUE IR](https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 4:36 |
-| 24 | [Down With Me](https://open.spotify.com/track/4LLqqvlsks9SQ3exoqhk4h) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Emy Soul](https://open.spotify.com/artist/21sN4iJTG840LEqiRJ60Gh) | [Eclipse](https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3) | 3:11 |
+| 23 | [Down With Me](https://open.spotify.com/track/4LLqqvlsks9SQ3exoqhk4h) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Emy Soul](https://open.spotify.com/artist/21sN4iJTG840LEqiRJ60Gh) | [Eclipse](https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3) | 3:11 |
+| 24 | [ME TENGO QUE IR](https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 4:36 |
 | 25 | [Que Se Parezca A Ti](https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales \(Deluxe Edition\)](https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU) | 3:04 |
 | 26 | [Palabras Sobran](https://open.spotify.com/track/4wu7jIeJCUhQJaXsXVit0e) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Palabras Sobran](https://open.spotify.com/album/6B5dqaafC0ygHJ8dUW1FOs) | 3:36 |
 | 27 | [algo así \(remix\)](https://open.spotify.com/track/0z0IEbMRvIEjj9Iif4doxD) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [algo así \(remix\)](https://open.spotify.com/album/38q60hmzuFy1xa8Dexc2eX) | 3:43 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 60 | [Makin Money](https://open.spotify.com/track/0nMeCH0qe2CTdA6YDzyFRW) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Makin Money](https://open.spotify.com/album/5LFrClQQyURQWYOTIIA0vm) | 3:08 |
 | 61 | [Curvas](https://open.spotify.com/track/6TO05VYYHCkZpy0V1XVOdI) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Claruz](https://open.spotify.com/artist/5NtQw3vT27cspk8K7krlJv), [Floyd](https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2) | [Curvas](https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT) | 2:48 |
 | 62 | [Qué Maldición](https://open.spotify.com/track/4DNnkNigVl4Dc5Ja4BvKH9) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Qué Maldición](https://open.spotify.com/album/34b6Qme3ZOs6jrgx0BWV3O) | 3:09 |
-| 63 | [Ser Feliz](https://open.spotify.com/track/1BGtMvl4BIDAQ7ThRGiAda) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Liana Malva](https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt) | [Ser Feliz](https://open.spotify.com/album/2G2RGCle7gV0mmKvP3ohOS) | 3:32 |
-| 64 | [Curarte](https://open.spotify.com/track/0Xrzd6jUgpqfyjWjMBwZ7Q) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Un Koala En Una Palmera](https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM) | 3:03 |
+| 63 | [Curarte](https://open.spotify.com/track/0Xrzd6jUgpqfyjWjMBwZ7Q) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Un Koala En Una Palmera](https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM) | 3:03 |
+| 64 | [Ser Feliz](https://open.spotify.com/track/1BGtMvl4BIDAQ7ThRGiAda) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Liana Malva](https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt) | [Ser Feliz](https://open.spotify.com/album/2G2RGCle7gV0mmKvP3ohOS) | 3:32 |
 | 65 | [Garabatos](https://open.spotify.com/track/3nXitBuQU6JFccfQWH3oN1) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Garabatos](https://open.spotify.com/album/3RsEjiStHrHJFKktlr9AcO) | 3:22 |
 | 66 | [radar](https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [radar](https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei) | 2:40 |
 | 67 | [9:15](https://open.spotify.com/track/505e4QYrsvZHOuojWxpOLK) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [9:15](https://open.spotify.com/album/0aHNuxs4GlcjYkoENqm6en) | 2:04 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 75 | [Summer Nights](https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Summer Nights](https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ) | 2:31 |
 | 76 | [Ruido](https://open.spotify.com/track/0rQv29gK4jSBbU9pcmfODP) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Emociones](https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t) | 2:57 |
 | 77 | [Frío](https://open.spotify.com/track/2fw6liEffYRav3ORECpqvQ) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Frío](https://open.spotify.com/album/251ubhwCkD47ljB7FLK9DN) | 2:25 |
-| 78 | [ando chiple <\\3](https://open.spotify.com/track/2PEA0leKNjKdrFeJ5ES7Hw) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf), [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1) | [métodos.](https://open.spotify.com/album/5wEe3ltvgEO1fSZr1AjJ2Y) | 3:27 |
-| 79 | [B\-Day](https://open.spotify.com/track/2fLC7a1iIloVs8M95GNCPz) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [No Me Busques Donde Mismo](https://open.spotify.com/album/41NSpGcHqZPzrGqOOnxyHk) | 4:08 |
+| 78 | [B\-Day](https://open.spotify.com/track/2fLC7a1iIloVs8M95GNCPz) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [No Me Busques Donde Mismo](https://open.spotify.com/album/41NSpGcHqZPzrGqOOnxyHk) | 4:08 |
+| 79 | [ando chiple <\\3](https://open.spotify.com/track/2PEA0leKNjKdrFeJ5ES7Hw) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf), [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1) | [métodos.](https://open.spotify.com/album/5wEe3ltvgEO1fSZr1AjJ2Y) | 3:27 |
 | 80 | [Pleasure \(feat\. RINI\)](https://open.spotify.com/track/6vZVtJgg7G16h2XxSa2mKI) | [Abrina](https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Pleasure \(feat\. RINI\)](https://open.spotify.com/album/3FeCrMtnuv4FZiSc3EHeEz) | 2:41 |
 | 81 | [Chulita](https://open.spotify.com/track/1evtsHnfBKGvUO2pSDCTww) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [Chulita](https://open.spotify.com/album/41A7H4P1B9wHLK8KCJQO0I) | 2:54 |
 | 82 | [Mi Piscis](https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [ahora A.K.A NAO](https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 99 | [Tus Ojos Me Hablaron](https://open.spotify.com/track/2lwPsHNyohO98CZY0ag3YQ) | [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Slim Ans](https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA) | [Tus Ojos Me Hablaron](https://open.spotify.com/album/1DB93h9fw0dyrn9LOoYHeM) | 3:21 |
 | 100 | [Al Revés](https://open.spotify.com/track/56q9dVA6Fo4s0BAhUJRip8) | [FERCHO](https://open.spotify.com/artist/5MkJLgGk2KS4XihPHuEXOU) | [Al Revés](https://open.spotify.com/album/2CkrTRjWLytC0Ihmm6GBQR) | 2:18 |
 
-Snapshot ID: `MCxjZWZhMDliODhiN2M1MDQxYmQzNjE4OTU2MzJjZWU4MzM4NTdjMGE4`
+Snapshot ID: `MCwyMTVmZDZjZjU5MGQ5ZDA4NWJiNDY4YTk3M2E3MTU4MzQ5ZDE3Yjg1`

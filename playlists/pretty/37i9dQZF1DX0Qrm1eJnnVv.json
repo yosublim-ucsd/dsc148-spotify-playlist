@@ -1,12 +1,12 @@
 {
   "description": "Solo piano recordings of classic rags",
-  "num_followers": 4682,
+  "num_followers": 4693,
   "original_name": "Ragtime Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDg2MTI3MTk5YmQzNjFhYTQxZTZhNzkzYmRkY2I5NGYyYzQ2ZmIx",
+  "snapshot_id": "MCw5N2I0YTk1NGQyZGE0MzU4YmU2MTRkZmFiNmEwM2FmOThmNzMwYzdi",
   "tracks": [
     {
       "added_at": "2020-08-19 17:18:36",
@@ -563,8 +563,8 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Joseph F. Lamb: The Complete Stark Rags (1908-1919)",
-        "url": "https://open.spotify.com/album/0b5ts7qqK1ovw09OJFOUiv"
+        "name": "James Scott: The Complete Works (Rags, Waltzes & Songs)",
+        "url": "https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU"
         }
       ],
-      "duration_ms": 251906,
-      "name": "Ethiopia",
-      "url": "https://open.spotify.com/track/6vKrEa3NCMxkGstSrBI71I"
+      "duration_ms": 177000,
+      "name": "Great Scott Rag",
+      "url": "https://open.spotify.com/track/6PeVR3vNkWhXlPT7v0yed6"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -695,8 +695,8 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "James Scott: The Complete Works (Rags, Waltzes & Songs)",
-        "url": "https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4"
+        "name": "Joseph F. Lamb: The Complete Stark Rags (1908-1919)",
+        "url": "https://open.spotify.com/album/0b5ts7qqK1ovw09OJFOUiv"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Great Scott Rag",
-      "url": "https://open.spotify.com/track/6PeVR3vNkWhXlPT7v0yed6"
+      "duration_ms": 251906,
+      "name": "Ethiopia",
+      "url": "https://open.spotify.com/track/6vKrEa3NCMxkGstSrBI71I"
     },
     {
       "added_at": "2020-08-19 17:18:36",

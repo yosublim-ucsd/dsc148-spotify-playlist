@@ -1,12 +1,12 @@
 {
   "description": "Walk on sunshine or dance on the ceiling with some feel good 80s Pop!",
-  "num_followers": 240891,
+  "num_followers": 240904,
   "original_name": "80s Popped!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWNmY2RjMjZkMWI2ZGQ2NTYxZjk3YzU2YTFjZDUxNGQxN2ZkODFk",
+  "snapshot_id": "MCwwZjU5NGZjNjA1ZTlhOWRjMTIzZGY5ZGMwNTdjYzgxZDVlYjY4ZTEw",
   "tracks": [
     {
       "added_at": "2022-06-08 06:25:37",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-06-08 06:25:37",
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 277476,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
-    },
-    {
-      "added_at": "2022-06-08 06:25:37",
-      "album": {
         "name": "Whenever You Need Somebody",
         "url": "https://open.spotify.com/album/6eUW0wxWtzkFdaEFsTJto6"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 213573,
       "name": "Never Gonna Give You Up",
       "url": "https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8"
+    },
+    {
+      "added_at": "2022-06-08 06:25:37",
+      "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 277476,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
     },
     {
       "added_at": "2022-06-08 06:25:37",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-06-08 06:25:37",
       "album": {
-        "name": "The Final Countdown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
-      },
-      "artists": [
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 310333,
-      "name": "The Final Countdown",
-      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
-    },
-    {
-      "added_at": "2022-06-08 06:25:37",
-      "album": {
         "name": "Dare!",
         "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 236920,
       "name": "Don't You Want Me",
       "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
+    },
+    {
+      "added_at": "2022-06-08 06:25:37",
+      "album": {
+        "name": "The Final Countdown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 310333,
+      "name": "The Final Countdown",
+      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
     },
     {
       "added_at": "2022-06-08 06:25:37",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-06-08 06:25:37",
       "album": {
-        "name": "Knee Deep In The Hoopla",
-        "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
-      },
-      "artists": [
-        {
-          "name": "Starship",
-          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
-        }
-      ],
-      "duration_ms": 296080,
-      "name": "We Built This City",
-      "url": "https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ"
-    },
-    {
-      "added_at": "2022-06-08 06:25:37",
-      "album": {
         "name": "Sunshine on Leith",
         "url": "https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 219466,
       "name": "I'm Gonna Be (500 Miles)",
       "url": "https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs"
+    },
+    {
+      "added_at": "2022-06-08 06:25:37",
+      "album": {
+        "name": "Knee Deep In The Hoopla",
+        "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
+      },
+      "artists": [
+        {
+          "name": "Starship",
+          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
+        }
+      ],
+      "duration_ms": 296080,
+      "name": "We Built This City",
+      "url": "https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ"
     },
     {
       "added_at": "2022-06-08 06:25:37",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-06-08 06:25:37",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 240280,
-      "name": "Material Girl",
-      "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
-    },
-    {
-      "added_at": "2022-06-08 06:25:37",
-      "album": {
         "name": "Ghost In The Machine (Remastered 2003)",
         "url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h"
       },
@@ -643,18 +627,18 @@
     {
       "added_at": "2022-06-08 06:25:37",
       "album": {
-        "name": "...But Seriously (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
       "artists": [
         {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 322133,
-      "name": "Another Day in Paradise - 2016 Remaster",
-      "url": "https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD"
+      "duration_ms": 240280,
+      "name": "Material Girl",
+      "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
     },
     {
       "added_at": "2022-06-08 06:25:37",
@@ -671,6 +655,22 @@
       "duration_ms": 252773,
       "name": "Karma Chameleon - Remastered 2002",
       "url": "https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE"
+    },
+    {
+      "added_at": "2022-06-08 06:25:37",
+      "album": {
+        "name": "...But Seriously (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 322133,
+      "name": "Another Day in Paradise - 2016 Remaster",
+      "url": "https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD"
     },
     {
       "added_at": "2022-06-08 06:25:37",

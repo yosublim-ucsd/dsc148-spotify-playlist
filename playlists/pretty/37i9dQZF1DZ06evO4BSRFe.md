@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 
 > This is Banda Machos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,590 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,609 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 | 49 | [El mandilon](https://open.spotify.com/track/6jLka2PiSCyGNpSTLiVB1l) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Pura pasión](https://open.spotify.com/album/2o7KaI8uRQcQd8TXfcC2uG) | 3:10 |
 | 50 | [Un Indio Quiere Llorar](https://open.spotify.com/track/3v1h62mV72dBV16Jb5pcrc) | [Montez de Durango](https://open.spotify.com/artist/1i4xi4ramy5BPYr2Bhf6sc), [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Un Indio Quiere Llorar](https://open.spotify.com/album/19MliibgMaxQ07cPAUhkin) | 3:14 |
 
-Snapshot ID: `Mjg0MDc3MDMsMDAwMDAwMDBiMjI3YWZhZmU4Y2VjNGUxMmJlOTQ5ZjM3YWM1YjM0Mg==`
+Snapshot ID: `Mjg0MDkwNTYsMDAwMDAwMDBkZWQzZjcyOTE0ODYyY2M5NjU1NDdlYjk4ZTI5NjMzMA==`

@@ -4,7 +4,7 @@
 
 > This is Alkaline Trio\. The essential tracks, all in one playlist.
 
-94 songs - 4 hr 59 min
+95 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Time to Waste](https://open.spotify.com/track/0imHRp0dntswjXWQxkWhZP) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY) | 4:11 | 2022-09-16 | 2023-12-14 |
 | [Time to Waste](https://open.spotify.com/track/6q0058HsQQ7Ch3SrvcatAD) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F) | 4:11 | 2023-12-13 |  |
 | [Trouble Breathing](https://open.spotify.com/track/0qx04qNqo0YmBoqdISK9Be) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Goddamnit!](https://open.spotify.com/album/7MtJrKwP2h9eJMqnooR6iM) | 3:55 | 2022-09-16 | 2022-09-19 |
+| [Versions Of You](https://open.spotify.com/track/5552mB1SfLoZPP999vzyF4) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Versions Of You](https://open.spotify.com/album/3PgfExqEE8aHKGRilrmrAS) | 3:13 | 2024-01-06 |  |
 | [Warbrain](https://open.spotify.com/track/4UrkfJvLfSeWBzK4ag1aW8) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Remains](https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz) | 2:28 | 2023-12-13 |  |
 | [Warbrain](https://open.spotify.com/track/6M8UhCdVuWxKwVRhe3sWQa) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Remains](https://open.spotify.com/album/6UrR2pGs8FzRMrQZxQvI2H) | 2:28 | 2022-09-16 | 2023-12-14 |
 | [Wash Away](https://open.spotify.com/track/6SInb5FLqUK8NmlAtXUNaJ) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Tony Hawk's American Wasteland Soundtrack](https://open.spotify.com/album/1ttszNk2tbxuzeln1Ib7e0) | 3:27 | 2022-09-16 | 2023-09-26 |

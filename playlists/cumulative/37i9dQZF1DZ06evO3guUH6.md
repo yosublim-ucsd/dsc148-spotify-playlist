@@ -4,7 +4,7 @@
 
 > This is Alfredo Olivas\. The essential tracks, all in one playlist.
 
-48 songs - 2 hr 48 min
+49 songs - 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Hoy Te Pierdo](https://open.spotify.com/track/2PtH42TBhfgAu6jS4RMqEw) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Hoy Te Pierdo](https://open.spotify.com/album/2On6waVHo74Z7m8sLKGAUg) | 3:54 | 2023-08-08 | 2024-01-06 |
 | [La Danza Del Venado](https://open.spotify.com/track/468U6z141Dy1dVPikBwKfY) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:26 | 2023-08-08 |  |
 | [La Mejor De Las Historias](https://open.spotify.com/track/7B5W4cddzkBppgnbcu4syz) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:35 | 2023-08-08 |  |
+| [La Supuesta Cita](https://open.spotify.com/track/6haNQCMAN9p6y8AWGQJ7fF) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 3:05 | 2024-01-06 |  |
 | [Los Inadaptados](https://open.spotify.com/track/15v0ra246PDmiT5Vh9YzWO) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Los Inadaptados](https://open.spotify.com/album/7Fz369S1erEQYmnrbZawsB) | 2:55 | 2023-08-08 |  |
 | [Los Lujos Del R.](https://open.spotify.com/track/1QZrQnjIMS9yVFVYRoqnaX) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Que Siga La Fiesta](https://open.spotify.com/album/2bkgORd3gzIuLhrNlF1yRf) | 3:55 | 2023-08-08 |  |
 | [Me Tocó Morir](https://open.spotify.com/track/6k9zUQ7Gngrs8ULzQOyDDV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 2:24 | 2023-08-08 |  |

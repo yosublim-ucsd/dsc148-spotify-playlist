@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Fanny J x Nesly
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,148 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,218 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [BB Attends](https://open.spotify.com/track/6P7BE1eaTQItkv8EJ0ciGd) | [T\-Stone](https://open.spotify.com/artist/6PGPB8aKzvdmvrM7kAuNGs) | [BB Attends](https://open.spotify.com/album/3td3goCEmojjxjA7p45X6a) | 2:40 |
 | 40 | [VIN NON](https://open.spotify.com/track/2NvrOO70coQL5O9dvjoPzp) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [VIN NON](https://open.spotify.com/album/4yvD7JMgNk4JGlskjGsinD) | 3:13 |
 
-Snapshot ID: `MCxjMTg3Yzc2ODk0NmEwOGU0NDI2MWRkYTZlZGU5OTBlZGRlZTA2OTVm`
+Snapshot ID: `MCxiMjYxYWI4MDZhMWJiYjZiNGE4Yjg4NTA4ZDA3Y2U2NTljNzdiMGUz`

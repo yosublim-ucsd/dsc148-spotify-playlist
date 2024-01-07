@@ -1,12 +1,12 @@
 {
   "description": "La m\u00fasica que prende la fiesta!",
-  "num_followers": 641603,
+  "num_followers": 641967,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2I0NzMyYTcxMDBjYjllZTRhOGFmMWY1ZjVkZjBlYzAyNzliMzll",
+  "snapshot_id": "MCwwYjcwZjZhODA2NDFkNWQ2ZDE5NmM5NDE3N2UxODEyMjJjZDMxZmMz",
   "tracks": [
     {
       "added_at": "2024-01-05 03:00:00",
@@ -443,6 +443,26 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
+        "name": "Besos con Fernet",
+        "url": "https://open.spotify.com/album/1lfhuCJZVMmGQswHM5nW2g"
+      },
+      "artists": [
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "duration_ms": 147375,
+      "name": "Besos con Fernet",
+      "url": "https://open.spotify.com/track/1gAPIjqunPXRA4y1kYZi0q"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
         "name": "MERCHO",
         "url": "https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 161451,
       "name": "MERCHO",
       "url": "https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
-        "name": "Besos con Fernet",
-        "url": "https://open.spotify.com/album/1lfhuCJZVMmGQswHM5nW2g"
-      },
-      "artists": [
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        },
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        }
-      ],
-      "duration_ms": 147375,
-      "name": "Besos con Fernet",
-      "url": "https://open.spotify.com/track/1gAPIjqunPXRA4y1kYZi0q"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -931,22 +931,26 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "Controlando el Ki",
-        "url": "https://open.spotify.com/album/1wcO3kN9gjHVzrB2wRbK9I"
+        "name": "Quiero Creer",
+        "url": "https://open.spotify.com/album/5PzpQ3Wx1dU16rRdQHVSCx"
       },
       "artists": [
         {
-          "name": "Sayian Jimmy",
-          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
         },
         {
-          "name": "Nysix Music",
-          "url": "https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD"
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
         }
       ],
-      "duration_ms": 159101,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/6PMapQ7YSxkhAgNOvvoiWs"
+      "duration_ms": 145054,
+      "name": "Quiero Creer",
+      "url": "https://open.spotify.com/track/7HdEUquZzUzPjgSllvlJGl"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -983,26 +987,22 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "Quiero Creer",
-        "url": "https://open.spotify.com/album/5PzpQ3Wx1dU16rRdQHVSCx"
+        "name": "Controlando el Ki",
+        "url": "https://open.spotify.com/album/1wcO3kN9gjHVzrB2wRbK9I"
       },
       "artists": [
         {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+          "name": "Sayian Jimmy",
+          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
         },
         {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+          "name": "Nysix Music",
+          "url": "https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD"
         }
       ],
-      "duration_ms": 145054,
-      "name": "Quiero Creer",
-      "url": "https://open.spotify.com/track/7HdEUquZzUzPjgSllvlJGl"
+      "duration_ms": 159101,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/6PMapQ7YSxkhAgNOvvoiWs"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -1355,30 +1355,6 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "EL AFTER DEL AFTER",
-        "url": "https://open.spotify.com/album/4XDH5D7YsE7B8xuhIBDyht"
-      },
-      "artists": [
-        {
-          "name": "YSY A",
-          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "ONIRIA",
-          "url": "https://open.spotify.com/artist/6mkRgafSHF30Dr2wEch4YU"
-        }
-      ],
-      "duration_ms": 225920,
-      "name": "LUGARES QUE LLEGO",
-      "url": "https://open.spotify.com/track/79s2n0evTdub5GPj7noqfK"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
         "name": "KrING",
         "url": "https://open.spotify.com/album/0UEG3km1FB7nGZHwiSun8x"
       },
@@ -1399,6 +1375,30 @@
       "duration_ms": 229826,
       "name": "HASTA ABAJO",
       "url": "https://open.spotify.com/track/4PEfJZpVjdclfzZ9XO8uDw"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
+        "name": "EL AFTER DEL AFTER",
+        "url": "https://open.spotify.com/album/4XDH5D7YsE7B8xuhIBDyht"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "ONIRIA",
+          "url": "https://open.spotify.com/artist/6mkRgafSHF30Dr2wEch4YU"
+        }
+      ],
+      "duration_ms": 225920,
+      "name": "LUGARES QUE LLEGO",
+      "url": "https://open.spotify.com/track/79s2n0evTdub5GPj7noqfK"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "La Champions Liga",
-        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
-      },
-      "artists": [
-        {
-          "name": "La Champions Liga",
-          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
-        }
-      ],
-      "duration_ms": 127973,
-      "name": "Dime si eres feliz",
-      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
         "name": "Los Legendarios 001",
         "url": "https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 261665,
       "name": "Fiel",
       "url": "https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
+        "name": "La Champions Liga",
+        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
+      },
+      "artists": [
+        {
+          "name": "La Champions Liga",
+          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+        }
+      ],
+      "duration_ms": 127973,
+      "name": "Dime si eres feliz",
+      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -1891,6 +1891,26 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
+        "name": "Vibras",
+        "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 250840,
+      "name": "No Es Justo",
+      "url": "https://open.spotify.com/track/5qFeMRz4TvetPmzjre9Dq7"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
         "name": "ADI\u00d3S (Live Version)",
         "url": "https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282"
       },
@@ -1911,22 +1931,18 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "Vibras",
-        "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
+        "name": "Vida Gangster",
+        "url": "https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
         }
       ],
-      "duration_ms": 250840,
-      "name": "No Es Justo",
-      "url": "https://open.spotify.com/track/5qFeMRz4TvetPmzjre9Dq7"
+      "duration_ms": 170058,
+      "name": "Vida Gangster",
+      "url": "https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -1951,22 +1967,6 @@
       "duration_ms": 216107,
       "name": "La Nota",
       "url": "https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
-        "name": "Vida Gangster",
-        "url": "https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX"
-      },
-      "artists": [
-        {
-          "name": "Lauty Gram",
-          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
-        }
-      ],
-      "duration_ms": 170058,
-      "name": "Vida Gangster",
-      "url": "https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7"
     },
     {
       "added_at": "2024-01-05 03:00:00",

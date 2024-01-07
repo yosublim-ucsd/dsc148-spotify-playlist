@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mcByN.md) - [plain]
 
 > This is Kemilly Santos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,436 likes - 36 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,443 likes - 36 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mcByN.md) - [plain]
 | 20 | [Vai Valer a Pena](https://open.spotify.com/track/6g82UItVgM6KYKGyDTZ7wz) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Vai Valer a Pena](https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx) | 3:40 |
 | 21 | [O Desfecho](https://open.spotify.com/track/4wLdCnugMTuCRL3QnM0Nr4) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Plano Original](https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI) | 5:08 |
 | 22 | [Tem Horas](https://open.spotify.com/track/6d8O3NDJCEQIubyMn6nuCP) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Fica Tranquilo](https://open.spotify.com/album/5G5paqxJJFa4kygDLadlNy) | 5:03 |
-| 23 | [Ele Te Escolheu \(Essência Sessions\)](https://open.spotify.com/track/1VllRsyiavxu58wL4FGPv1) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Ele Te Escolheu \(Essência Sessions\)](https://open.spotify.com/album/7vdquHLDt7lLkyOa6CawVN) | 4:01 |
+| 23 | [Cuidando \(Ao Vivo\)](https://open.spotify.com/track/2IdmwJsfpDSGwteaPhTRNG) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 3:39 |
 | 24 | [360 Graus](https://open.spotify.com/track/5SU7gkuU0jQerzQL44Tz2K) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Vai Valer a Pena](https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx) | 5:01 |
-| 25 | [Cuidando \(Ao Vivo\)](https://open.spotify.com/track/2IdmwJsfpDSGwteaPhTRNG) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 3:39 |
+| 25 | [Ele Te Escolheu \(Essência Sessions\)](https://open.spotify.com/track/1VllRsyiavxu58wL4FGPv1) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Ele Te Escolheu \(Essência Sessions\)](https://open.spotify.com/album/7vdquHLDt7lLkyOa6CawVN) | 4:01 |
 | 26 | [Mais Que Vencedor](https://open.spotify.com/track/5QUYNKUZAVpkDUijbPnQLo) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Fica Tranquilo](https://open.spotify.com/album/5G5paqxJJFa4kygDLadlNy) | 3:58 |
 | 27 | [Vazio](https://open.spotify.com/track/4GcFLWd9UDa55Hy8TAU0FE) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Vazio](https://open.spotify.com/album/2zfFusFI8xDJRGdDY1pyYR) | 5:09 |
 | 28 | [Aguenta Firme](https://open.spotify.com/track/4bYp3OEj49U3GF71L4kJid) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Vai Valer a Pena](https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx) | 3:50 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mcByN.md) - [plain]
 | 35 | [Fogo e Glória / O Que Sua Glória Fez Comigo \(Ao Vivo\)](https://open.spotify.com/track/3UpoN13s3AYmC8UJlbrfNm) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 5:05 |
 | 36 | [A Resposta](https://open.spotify.com/track/4oNXwuFag2I7YMDLvlldtW) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Plano Original](https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI) | 4:33 |
 
-Snapshot ID: `Mjg0MDc3MDMsMDAwMDAwMDAzMWQ3Njk2Zjk0ZjE3MTNjMWZlMGI4OGJlZTBmZWYxMQ==`
+Snapshot ID: `Mjg0MDkwNTYsMDAwMDAwMDBmMTVkZDVlYTVlZGUxYjM0NDcwNzY5NjI1N2QxNDMyNw==`

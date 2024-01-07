@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 
 > All the vibes\. All the feels\. 🫠 🙄
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,726,648 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,726,884 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 99 | [Give Me Time](https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Give Me Time](https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J) | 2:34 |
 | 100 | [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [emil](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 |
 
-Snapshot ID: `MCw5OTMxZTAxYWVlZTQzM2QxYzIwMThhYTFlNjI5MjUwODJkODNlY2Jh`
+Snapshot ID: `MCxiN2MyYWJjNDBlNmMyNDBkNTY0NDYwOWEwNDRhMTljOTM3MzM2ZGUz`

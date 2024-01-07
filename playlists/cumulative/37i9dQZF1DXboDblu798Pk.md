@@ -4,7 +4,7 @@
 
 > Pop hits in the making! Cover: Nicki Minaj
 
-314 songs - 16 hr 36 min
+315 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,8 @@
 | [Problematic](https://open.spotify.com/track/0I2BCIvlzrb6Iix9hAbQFF) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Lucid Dreams](https://open.spotify.com/album/4KAtLRVIfB0bKnRY01dveY) | 2:44 | 2023-10-05 | 2023-11-11 |
 | [QUE CHIMBA DE VIDA](https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [QUE CHIMBA DE VIDA](https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW) | 2:03 | 2023-12-14 |  |
 | [Queen](https://open.spotify.com/track/3yEkUjJOqBIORKxOLK80jS) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Queen](https://open.spotify.com/album/4P86lJFzKu0krcnGlvoIuH) | 3:27 | 2023-06-15 | 2023-06-30 |
-| [Redline \- InHer Room](https://open.spotify.com/track/1fduKAIbqiCeIQjdInGwOz) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Redline \(InHer Room\)](https://open.spotify.com/album/5cF0sx3gtWtvWQj01eOHen) | 3:22 | 2023-12-21 |  |
+| [Redline \- InHer Room](https://open.spotify.com/track/1fduKAIbqiCeIQjdInGwOz) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Redline \(InHer Room\)](https://open.spotify.com/album/5cF0sx3gtWtvWQj01eOHen) | 3:22 | 2023-12-21 | 2024-01-07 |
+| [Redline \- InHer Room](https://open.spotify.com/track/1w4iW3Bv2BmowTKzE7tORe) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [InHer Room](https://open.spotify.com/album/4yuCd5c4U8IWNPgL671vlx) | 3:22 | 2023-12-21 |  |
 | [Regardless](https://open.spotify.com/track/5Y1i6vu3iME7T1Ru0UU68v) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Regardless](https://open.spotify.com/album/2vHTjdhLAAgn2Y0g3COy7j) | 3:25 | 2023-12-14 | 2023-12-22 |
 | [Regardless](https://open.spotify.com/track/6MsMJ2Dl9AlXbnBvqKJpfF) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Regardless](https://open.spotify.com/album/2tlzrTlgZl7DMbljhUkt4q) | 3:25 | 2023-10-13 | 2023-12-15 |
 | [Rest In Peace](https://open.spotify.com/track/0F634NqZ65Skv8aRDEsyex) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Rest In Peace](https://open.spotify.com/album/65kQ2jcrYIYAMNiE5Zi704) | 2:55 | 2023-08-24 | 2023-09-08 |

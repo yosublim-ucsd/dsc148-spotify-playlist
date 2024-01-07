@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-790 songs - 1 day 23 hr 30 min
+792 songs - 1 day 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Abisko](https://open.spotify.com/track/65zFbHuyUdai6WFwtPAkix) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Abisko](https://open.spotify.com/album/0Lkn1OWDVLcaxHR9hOmyBp) | 2:48 | 2022-06-28 |  |
 | [Above All](https://open.spotify.com/track/2K9iXW1SNMCRLhtG1CZKpV) | [Arthur Taylor Trio](https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n) | [Above All](https://open.spotify.com/album/4yHKNMO6qCHvJlj43fHGGQ) | 3:02 | 2023-11-24 |  |
 | [Absence](https://open.spotify.com/track/0q243837xX1qJmXuItLJHd) | [Neil Chapman Green](https://open.spotify.com/artist/5iyGZWUlM8wxizjjtBLGFZ) | [Absence](https://open.spotify.com/album/13zi4vABi2RGi71sfTMLll) | 3:11 | 2022-06-28 | 2022-10-08 |
+| [Accidently On Purpose](https://open.spotify.com/track/6Iph7VLWk26M9A1URCSSur) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [Accidently On Purpose](https://open.spotify.com/album/2QRYJ2dDOuVtmmq64TSHph) | 2:57 | 2024-01-05 |  |
 | [Across the Ocean](https://open.spotify.com/track/3uAk1bGnkgBOybte47PUm1) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Candles on the Moon](https://open.spotify.com/album/0KtqPp4quy5rDlMfWnRIjL) | 2:43 | 2023-09-22 |  |
 | [Adrift](https://open.spotify.com/track/1bMvqBFGPYsNVRCxYFUkRu) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Adrift](https://open.spotify.com/album/1xbQp1I63p3105CriGuV6n) | 3:46 | 2022-12-30 |  |
 | [Affection](https://open.spotify.com/track/62LIjQ7uet2hOT9577QYoq) | [Hunter Paige](https://open.spotify.com/artist/4JNwhTb4YN98anDrWn2kIZ) | [Affection](https://open.spotify.com/album/0xye9fPdkqLWvaW52XXpg5) | 3:26 | 2023-05-04 |  |
@@ -274,7 +275,7 @@
 | [Hoping](https://open.spotify.com/track/6RhZRRN9d78ef1Qhevnxkk) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Hoping](https://open.spotify.com/album/4fSuViLnkUt5fKf6w3SxtC) | 3:23 | 2022-06-28 |  |
 | [Hoppet](https://open.spotify.com/track/50QdRhmKuE8C2z1NGkiKxB) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Hoppet](https://open.spotify.com/album/6IOoncN42rM25gZJx0rp8J) | 2:35 | 2022-06-28 |  |
 | [How About You](https://open.spotify.com/track/4tVteS21UzbqesfNG7uT8D) | [Neo Fourths Trio](https://open.spotify.com/artist/5lWDE7rJapJvf0NUUHc6xe) | [How About You](https://open.spotify.com/album/5DUxax2EBK8DvoRMmiEi7m) | 3:22 | 2023-10-13 |  |
-| [How Long Has This Been Going On?](https://open.spotify.com/track/4C4nNem1wGqL8xXrE1Ak1e) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [How Long Has This Been Going On?](https://open.spotify.com/album/3W0jGlzSvEXMh9tL3d2x3P) | 4:57 | 2022-06-28 |  |
+| [How Long Has This Been Going On?](https://open.spotify.com/track/4C4nNem1wGqL8xXrE1Ak1e) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [How Long Has This Been Going On?](https://open.spotify.com/album/3W0jGlzSvEXMh9tL3d2x3P) | 4:57 | 2022-06-28 | 2024-01-07 |
 | [Hum Sweet Serenades](https://open.spotify.com/track/4HCsxaiFhQ5J6JZbsv9TUm) | [Motor City Trio](https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs) | [Hum Sweet Serenades](https://open.spotify.com/album/0XrvNpJzc7mLeoHBiuzbzF) | 3:03 | 2023-03-16 |  |
 | [I awake](https://open.spotify.com/track/6AianoPQwgFLarNY5s3ntc) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [I awake](https://open.spotify.com/album/1H478Tq3lKuqWtTdzhLa8q) | 4:05 | 2023-02-23 |  |
 | [I Can´t Get Started](https://open.spotify.com/track/4WnIvYavScSqhquPBhSEof) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [I Can´t Get Started](https://open.spotify.com/album/27ohKrlRWtHFV0Evzl2crp) | 3:28 | 2022-08-30 |  |
@@ -468,6 +469,7 @@
 | [Moonlight in Vermont](https://open.spotify.com/track/2EW5zfxI27hvTxeYr8I0J7) | [Leslie Rossiter Band](https://open.spotify.com/artist/2VSepNTGbjPy4jy4y5qfTA) | [Mack the Knife](https://open.spotify.com/album/4sQs9YGrgwux8mzefYVdVE) | 4:17 | 2022-06-28 |  |
 | [Moonlight In Vermont](https://open.spotify.com/track/0xQtmSn12S3L8agMrnEoYh) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [Moonlight In Vermont](https://open.spotify.com/album/3XYrxBccjXCVDiFwgfc4Dd) | 2:48 | 2023-08-17 | 2023-09-02 |
 | [Moonrays](https://open.spotify.com/track/6akhlCuFUh7zxQ1UnEjZaK) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Moonrays](https://open.spotify.com/album/32VVgwbc18tkYZj7XWBinw) | 2:48 | 2022-11-10 |  |
+| [More than one](https://open.spotify.com/track/6yhgAEinRQSnhdsvJ5L8t8) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [More than one](https://open.spotify.com/album/744iFVEPXCIBWs2MmaA2mX) | 2:32 | 2024-01-05 |  |
 | [More Than You Know](https://open.spotify.com/track/3AyHmUPu0wL0jKCxAkMALo) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [More Than You Know](https://open.spotify.com/album/3SFDdesj9oBxdrXZJMqHk5) | 4:21 | 2022-08-30 |  |
 | [Morii](https://open.spotify.com/track/25uH0QfCoOQ5Jw2c0rXGWf) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [Morii](https://open.spotify.com/album/1ESEXNpgchtK0kal3g1lyo) | 3:48 | 2023-03-23 |  |
 | [Mornin](https://open.spotify.com/track/5lKkgKB4yZ6BW0Aps1CKcL) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [Mornin](https://open.spotify.com/album/0A8eqNEbD3NkNb4ki7N2E0) | 2:33 | 2022-08-30 |  |
@@ -607,7 +609,7 @@
 | [Smooth Sailing](https://open.spotify.com/track/6yRs3JOb7GP0PYhlG6hVbe) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Smooth Sailing](https://open.spotify.com/album/1k28WBci9JPB2zCTplu2GJ) | 2:05 | 2023-08-10 |  |
 | [Sno Peas](https://open.spotify.com/track/0miIOTXulrs7IwTwsstbjG) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [On A Misty Night](https://open.spotify.com/album/4wOwSu9EKBoAywQp51RVV9) | 2:52 | 2022-06-28 |  |
 | [Snow Keeps Falling](https://open.spotify.com/track/2bNYgVK6yXzAuFD6uMWKsv) | [Ronald & the Fairies](https://open.spotify.com/artist/7EyQn2KSLStE6tXcdpDOXm) | [Snow Keeps Falling](https://open.spotify.com/album/1rKjHI0aRqFSIP6mUDAW38) | 2:31 | 2022-06-28 |  |
-| [Snø](https://open.spotify.com/track/1CgH8hDlSPvGBsSGKaXZAa) | [Hviid Larsen](https://open.spotify.com/artist/2a9veYX5T7WD5xz0ve9VDO) | [Snø](https://open.spotify.com/album/3jsq6OarWAvAcOvnBl0eg5) | 3:17 | 2022-09-07 |  |
+| [Snø](https://open.spotify.com/track/1CgH8hDlSPvGBsSGKaXZAa) | [Hviid Larsen](https://open.spotify.com/artist/2a9veYX5T7WD5xz0ve9VDO) | [Snø](https://open.spotify.com/album/3jsq6OarWAvAcOvnBl0eg5) | 3:17 | 2022-09-07 | 2024-01-07 |
 | [Socks And Sandals](https://open.spotify.com/track/33HRgQotoW6raDZVZs3Rxk) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [Socks And Sandals](https://open.spotify.com/album/1dWIVAbxe91cDNhrMJ5fFV) | 3:39 | 2022-06-28 |  |
 | [Soft Lad](https://open.spotify.com/track/2D5WUT4UAYqceSBUmwstDf) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [Soft Lad](https://open.spotify.com/album/4y9M38huG2kr1sOGZnqzYw) | 2:54 | 2023-09-01 |  |
 | [Soft Like Rain](https://open.spotify.com/track/1kA2atXO3zrz1L5uEZpVcB) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [Soft Like Rain](https://open.spotify.com/album/2et7XBXAiuqsxBX7MgwHiZ) | 2:48 | 2022-06-28 |  |

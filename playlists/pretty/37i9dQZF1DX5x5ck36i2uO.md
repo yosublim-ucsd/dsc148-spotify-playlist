@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,004 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,009 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 35 | [Bad](https://open.spotify.com/track/2T4rkceZUut5d5boEM1iEP) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [HAIFHAIF](https://open.spotify.com/artist/5r1cOycfowIRNcVOfRn0AR) | [Net,Trap,Launcher,Capture](https://open.spotify.com/album/6bjhvZBQx8gsVTIHolZGjn) | 2:27 |
 | 36 | [Bloo Story](https://open.spotify.com/track/2TkLBWRw5W05Sf1VdgJvTr) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [BLOO IN WONDERLAND 2](https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J) | 5:06 |
 | 37 | [Song For You Project, Vol\. 1: Mask Christmas \(with LOTTE DEPARTMENT STORE\)](https://open.spotify.com/track/7bLqf6p7h5FA1hq5pNa5hz) | [Hanhae](https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF), [YODAYOUNG](https://open.spotify.com/artist/3TE3mzbf7EouO9qVs7ja6w), [LOTTE DEPARTMENT STORE](https://open.spotify.com/artist/7FbR9D27sMAlG0D2e4By2h) | [Song For You Project, Vol\. 1: Mask Christmas \(with LOTTE DEPARTMENT STORE\)](https://open.spotify.com/album/3R2jSKyv1b7dk94GrCVTRO) | 3:29 |
-| 38 | [변하지 않아 \(Feat\. HAON, CHANGMO\)](https://open.spotify.com/track/02gmOrzbDgLmxo2gNlux6x) | [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1), [김하온\(HAON\)](https://open.spotify.com/artist/4LglziYr7z4b0eBuPqpOtu), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [NEVERLAND](https://open.spotify.com/album/6A5LxMYSz3SmP2FffRc2wB) | 4:03 |
-| 39 | [SOAP](https://open.spotify.com/track/1mI5Nfw6iStTmKyhnJVi6k) | [Jung Jin Woo](https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4) | [My Original Sound Track](https://open.spotify.com/album/4M7LxD3dkMj4O6NCddBQKm) | 3:11 |
-| 40 | [I Know](https://open.spotify.com/track/1jDHmJvfcfjbOMXRFR98zf) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Shininryu](https://open.spotify.com/album/3QvaB5HzfSEz5yqbNCHtT3) | 3:30 |
+| 38 | [SOAP](https://open.spotify.com/track/1mI5Nfw6iStTmKyhnJVi6k) | [Jung Jin Woo](https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4) | [My Original Sound Track](https://open.spotify.com/album/4M7LxD3dkMj4O6NCddBQKm) | 3:11 |
+| 39 | [변하지 않아 \(Feat\. HAON, CHANGMO\)](https://open.spotify.com/track/02gmOrzbDgLmxo2gNlux6x) | [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1), [김하온\(HAON\)](https://open.spotify.com/artist/4LglziYr7z4b0eBuPqpOtu), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [NEVERLAND](https://open.spotify.com/album/6A5LxMYSz3SmP2FffRc2wB) | 4:03 |
+| 40 | [SS \(Prod\. by KHYO\)](https://open.spotify.com/track/7GltFE6DxuGvPH0mQ9Snlj) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [SS](https://open.spotify.com/album/009trYzXkJyK7YSoXpHOyR) | 3:25 |
 | 41 | [I Get Lifted X Beenzino](https://open.spotify.com/track/0bf460G9gK1oku2Hsla0SB) | [PEEJAY](https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY) | [WALKIN', Vol\. 1](https://open.spotify.com/album/5Jg3IOAdcdFAnSekbum05E) | 4:17 |
-| 42 | [SS \(Prod\. by KHYO\)](https://open.spotify.com/track/7GltFE6DxuGvPH0mQ9Snlj) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [SS](https://open.spotify.com/album/009trYzXkJyK7YSoXpHOyR) | 3:25 |
+| 42 | [I Know](https://open.spotify.com/track/1jDHmJvfcfjbOMXRFR98zf) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Shininryu](https://open.spotify.com/album/3QvaB5HzfSEz5yqbNCHtT3) | 3:30 |
 | 43 | [0&4](https://open.spotify.com/track/3cxyod10j12ByJjRoWAAUo) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [ONE](https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA) | 3:30 |
 | 44 | [been](https://open.spotify.com/track/2MDyIYGyysalcAUI6hObMn) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [u n u, Pt\. 1](https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq) | 3:13 |
 | 45 | [Girl in New York \(jazz\)](https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 49 | [Money Serenade \(Feat\. Wonstein & Kim Seung Min\)](https://open.spotify.com/track/1rZAKzPkA1VfkakGSszBg7) | [Mommy Son](https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [GOOD GIRL Episode 3](https://open.spotify.com/album/2iY5eEAH23aCB9JGCNZO5k) | 3:40 |
 | 50 | [Good night night \(Feat\. pH\-1\)](https://open.spotify.com/track/5u0aDrolL0ZOElpoeizsdE) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 2:48 |
 
-Snapshot ID: `MCw4OWQyNmNmM2E2ODQxZDI3ZmJkMGFiZGFkODdmZWI0MTkwOTE4OGUx`
+Snapshot ID: `MCwwOWJiZjMyNTM0MjQxODUxNWJjNjE2YTdiNWZkZTJmNzMwODRmYzdh`

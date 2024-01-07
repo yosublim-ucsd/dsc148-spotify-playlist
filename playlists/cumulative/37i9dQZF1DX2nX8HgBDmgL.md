@@ -4,7 +4,7 @@
 
 > Catch the amazing South Asian artists with Raja Kumari.
 
-148 songs - 7 hr 46 min
+149 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Name on it](https://open.spotify.com/track/6lBTpWSk7BnMhxY9JEBrw4) | [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t) | [Name on it](https://open.spotify.com/album/7flKRtYhgE5NvFE6ylazVf) | 3:25 | 2021-11-11 | 2022-07-19 |
 | [Need Me](https://open.spotify.com/track/2UVAzRUlxxBA1N0AekKMJN) | [UpsideDown](https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu), [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1), [Happy Singh](https://open.spotify.com/artist/6fvSUKNxAmvtRJUjscMWeA) | [Need Me](https://open.spotify.com/album/5LkJZsmqcxX2fv9Xde6xv5) | 2:22 | 2021-11-11 | 2022-07-19 |
 | [Never Thought](https://open.spotify.com/track/6oVu7g0flDkXNTiYJXFD3B) | [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt), [Arjun](https://open.spotify.com/artist/5tvfyAT4aOIOkumo6vw1yL), [Ahmed Khan](https://open.spotify.com/artist/6S5gjIbHTmQ2uKljKjqLSp) | [Never Thought](https://open.spotify.com/album/5W0uE5Pk7nFGRivdYzBEY6) | 3:41 | 2021-11-11 | 2022-07-19 |
-| [No Love](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 | 2022-09-02 |  |
+| [No Love](https://open.spotify.com/track/1ejy8AVI7k1SAlWeeKaZ60) | [lusttqwe](https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR), [bexter](https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n), [lorche](https://open.spotify.com/artist/644qnZiBHVcjcMCHsiV0PL) | [No Love](https://open.spotify.com/album/07SG5x4D5BLlrPcg0xBSZf) | 2:49 | 2024-01-03 |  |
+| [No Love](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 | 2022-09-02 | 2024-01-07 |
 | [NO LOVE](https://open.spotify.com/track/5B4YQN1FCuADJ0o4phAtwC) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [NO LOVE](https://open.spotify.com/album/71z4Ni4FHsAUWpcy1oFmOT) | 2:50 | 2022-07-18 | 2022-09-04 |
 | [Not You](https://open.spotify.com/track/5m2NorFFdtQ2fJieypphTh) | [Jaz Dhami](https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr) | [Not You](https://open.spotify.com/album/09ezLt7cArrGiMNW5o2xsc) | 2:32 | 2024-01-03 |  |
 | [Oehnana ft\. TM Bax](https://open.spotify.com/track/5lUWDZXEFuQ6MjUYKx5guu) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [TM Bax](https://open.spotify.com/artist/0RN2n6EdV90CQmfhfxqv0f) | [The Blend](https://open.spotify.com/album/6C6VvGruQ0ezA6QewMUGPj) | 3:06 | 2022-02-25 | 2022-07-19 |

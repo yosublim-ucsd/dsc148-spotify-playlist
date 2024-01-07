@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bAity.md) - [plain]
 
 > This is DZ Deathrays\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,134 likes - 46 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,133 likes - 47 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,17 +42,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bAity.md) - [plain]
 | 32 | [Guillotine](https://open.spotify.com/track/6EOm9UHVPvCjPUz4UxA9Xk) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 2:11 |
 | 33 | [Hypercolour](https://open.spotify.com/track/1JpGubCuJfLzf9zRYrIJ8p) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 1](https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa) | 4:24 |
 | 34 | [Northern Lights](https://open.spotify.com/track/7rqT91xTSrCx2pzjBvBYZ7) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Black Rat](https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux) | 4:12 |
-| 35 | [Golden Retriever](https://open.spotify.com/track/1h0yzHM2tkKUG3sWwQgJGT) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 2](https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs) | 2:21 |
-| 36 | [No Sleep](https://open.spotify.com/track/7K2EiQPCwiaWjXiWXl8dzu) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/1PtUEGMscPJp6ZkFFoMWUX) | 2:51 |
+| 35 | [No Sleep](https://open.spotify.com/track/7K2EiQPCwiaWjXiWXl8dzu) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/1PtUEGMscPJp6ZkFFoMWUX) | 2:51 |
+| 36 | [Golden Retriever](https://open.spotify.com/track/1h0yzHM2tkKUG3sWwQgJGT) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 2](https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs) | 2:21 |
 | 37 | [The Mess Up](https://open.spotify.com/track/2l1DgrC0PobfxiFwtN8BEo) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Ruined My Life](https://open.spotify.com/album/6DmNm4kgQ8ImBla8OvEahZ) | 3:39 |
 | 38 | [Black Rat](https://open.spotify.com/track/5Q5IpqEc3N5dWeetxVFAhq) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Black Rat](https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux) | 3:31 |
-| 39 | [All Or Nothing](https://open.spotify.com/track/67iASH0fHqwSDx8oncwTRk) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [All Or Nothing](https://open.spotify.com/album/2ysCUWGrCt6kxvLfAEqKqG) | 3:23 |
-| 40 | [Gebbie Street](https://open.spotify.com/track/02v5ggYAHVdQYMzbfq5Y2Q) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 3:55 |
+| 39 | [Gebbie Street](https://open.spotify.com/track/02v5ggYAHVdQYMzbfq5Y2Q) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 3:55 |
+| 40 | [All Or Nothing](https://open.spotify.com/track/67iASH0fHqwSDx8oncwTRk) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [All Or Nothing](https://open.spotify.com/album/2ysCUWGrCt6kxvLfAEqKqG) | 3:23 |
 | 41 | [Year Of The Dog \(feat\. Matt Caughthran\)](https://open.spotify.com/track/0sUONUFb9ZgIoDXKVJgTZI) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu), [Matt Caughthran](https://open.spotify.com/artist/36eJW9b5iJvlz5p6rk8MgX) | [Positive Rising: Part 1](https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa) | 3:39 |
-| 42 | [Say It To My Face](https://open.spotify.com/track/5YbMlrI8fn74ySYCBsLQFy) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 2 \(Deluxe\)](https://open.spotify.com/album/2lVNWUXvBGvRCFgUnrAsH0) | 2:41 |
-| 43 | [Swept Up](https://open.spotify.com/track/6SCv4UuNG89w6ld4w5x82N) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 2](https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs) | 3:12 |
-| 44 | [Dollar Chills](https://open.spotify.com/track/7KdEhcj5B69l9sVBgnff0o) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 2:55 |
+| 42 | [Swept Up](https://open.spotify.com/track/6SCv4UuNG89w6ld4w5x82N) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 2](https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs) | 3:12 |
+| 43 | [Dollar Chills](https://open.spotify.com/track/7KdEhcj5B69l9sVBgnff0o) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 2:55 |
+| 44 | [Say It To My Face](https://open.spotify.com/track/5YbMlrI8fn74ySYCBsLQFy) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 2 \(Deluxe\)](https://open.spotify.com/album/2lVNWUXvBGvRCFgUnrAsH0) | 2:41 |
 | 45 | [Nightmare Wrecker](https://open.spotify.com/track/5yuaGKyNmZ4km7BaD5vB0I) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 1](https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa) | 2:39 |
 | 46 | [Cops / Capacity](https://open.spotify.com/track/1yqmcfHazwWohYFsI7pSnP) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 2:52 |
+| 47 | [Dumb It Down](https://open.spotify.com/track/3flaoSMm3t1rGv0JChT5pR) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 4:36 |
 
-Snapshot ID: `Mjg0MDc3MDMsMDAwMDAwMDA2NjVlZDU1Y2MzMDkzZDk0NDYzNjZkZGJlMDNiYjNkOA==`
+Snapshot ID: `Mjg0MDkwNTUsMDAwMDAwMDBiZGMwNDQ4NzhjNWZhZWZhOWZkZTQ2YzM1ODMzN2Y5Mg==`

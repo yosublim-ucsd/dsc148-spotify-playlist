@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 
 > Recordings from the tropical rainforest
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,224 likes - 87 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,267 likes - 87 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 | 22 | [Forest Therapy](https://open.spotify.com/track/1o5wI9xAk3n5SVXBbdAEf3) | [INDAYA](https://open.spotify.com/artist/3UzYsKmyzyiSLGVC7RXlvw) | [Nature Heritage](https://open.spotify.com/album/3i29jHWl0L3sa276ySSsos) | 3:16 |
 | 23 | [Relaxing Jungle Sounds](https://open.spotify.com/track/17kqaq39xg9nP1j6goQW5A) | [Lluvia del Bosque](https://open.spotify.com/artist/0qxiHjDHTVwI9Q1pcU5jxQ) | [Relaxing Nature Sounds](https://open.spotify.com/album/41gv4AWktiPAx0JL5nVqwY) | 3:23 |
 | 24 | [Bird Chatter In Rainforest](https://open.spotify.com/track/5ZDdbserCXlDm3CY0Yt1bF) | [Natural Awakening](https://open.spotify.com/artist/0c854X9smbUIbXTJLLdya3) | [Rain Awakening](https://open.spotify.com/album/3Fqifn6gJ1EMsUBWXefkIc) | 3:18 |
-| 25 | [Under a Waterfall \(Relaxing Sounds\)](https://open.spotify.com/track/4NlsctTVxrTknjeiOKAdsr) | [Sleep Sounds of Nature](https://open.spotify.com/artist/59FRAcMcsHQupc8lupy5uH) | [Sleep Sounds of Nature \(Sound Healing from Nature Music: How to Deal with Stress, How to Meditate: Help Yourself with Musik\)](https://open.spotify.com/album/1hnITnE98zsV3NUBb9umhi) | 3:57 |
-| 26 | [Evening Drizzle](https://open.spotify.com/track/6cT7dRMHzgURq44rPtFHUB) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Sounds of the Jungle](https://open.spotify.com/album/6KR8ekx3goy7PjLYhINlgQ) | 3:00 |
+| 25 | [Evening Drizzle](https://open.spotify.com/track/6cT7dRMHzgURq44rPtFHUB) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Sounds of the Jungle](https://open.spotify.com/album/6KR8ekx3goy7PjLYhINlgQ) | 3:00 |
+| 26 | [Under a Waterfall \(Relaxing Sounds\)](https://open.spotify.com/track/4NlsctTVxrTknjeiOKAdsr) | [Sleep Sounds of Nature](https://open.spotify.com/artist/59FRAcMcsHQupc8lupy5uH) | [Sleep Sounds of Nature \(Sound Healing from Nature Music: How to Deal with Stress, How to Meditate: Help Yourself with Musik\)](https://open.spotify.com/album/1hnITnE98zsV3NUBb9umhi) | 3:57 |
 | 27 | [Tropical Rainbirds](https://open.spotify.com/track/18TcUAVl6zWF81ns2ObwdJ) | [Eskil Hermes](https://open.spotify.com/artist/4RgayOFOiMm8j5DeeBpXby) | [Fresh Forest](https://open.spotify.com/album/2HvyUszsRZo8u0f1pca5fm) | 2:05 |
 | 28 | [Forest Stream and Ambience](https://open.spotify.com/track/7rl0hWyHYElIiRhIeSI9C9) | [The Forest Escape](https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4) | [Sounds of the Forest](https://open.spotify.com/album/0ErLNh7mCQang53en2wYVV) | 3:05 |
 | 29 | [Tropical Forest \- Rain and Birds](https://open.spotify.com/track/5MtCZdGKspLCFrnh0Gp2oB) | [Epic Nature Sounds](https://open.spotify.com/artist/3KCBnJE0Ww7kT7Z7CXlS7h) | [Rain Forest Birds](https://open.spotify.com/album/5JXFMCZS0auQFVWOrM1RIu) | 2:39 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 | 36 | [Fresh Forest](https://open.spotify.com/track/1EnpczqhePEswNjzfyirRV) | [Eskil Hermes](https://open.spotify.com/artist/4RgayOFOiMm8j5DeeBpXby) | [Fresh Forest](https://open.spotify.com/album/2HvyUszsRZo8u0f1pca5fm) | 2:37 |
 | 37 | [Warm Rain](https://open.spotify.com/track/4jFPb0mUf0fVaooBRAYqxg) | [Oerwoud](https://open.spotify.com/artist/5nQ9HpkiXvRUN30EJpkj29) | [Amazon Rain](https://open.spotify.com/album/3dWd2DplPM06y5XnUU8h9f) | 3:28 |
 | 38 | [Rainforest Rain](https://open.spotify.com/track/7G9By80TKqAtNRPdBiSTpg) | [Wp Sounds](https://open.spotify.com/artist/28wXAxbwofL7K6bsmHnD6k) | [Rain Sounds](https://open.spotify.com/album/71OA2dK48YdLK22Q2ZKrkL) | 2:41 |
-| 39 | [Forest Creek](https://open.spotify.com/track/1LoOR1wpNLSRaVsYwBvJrD) | [Gentle Outdoors](https://open.spotify.com/artist/5FDSxvW83nezwSZgrEdOLv) | [Relaxing Nature](https://open.spotify.com/album/7CHcLv7WKxu3l96kbJkIgT) | 3:00 |
-| 40 | [Refreshing Claps In Thunderstorm](https://open.spotify.com/track/4K5o0A7lQpHox49jSNc7Yk) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Thunderstorm](https://open.spotify.com/album/345w1De5Lt2L63DHc1kdYk) | 8:30 |
+| 39 | [Refreshing Claps In Thunderstorm](https://open.spotify.com/track/4K5o0A7lQpHox49jSNc7Yk) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Thunderstorm](https://open.spotify.com/album/345w1De5Lt2L63DHc1kdYk) | 8:30 |
+| 40 | [Forest Creek](https://open.spotify.com/track/1LoOR1wpNLSRaVsYwBvJrD) | [Gentle Outdoors](https://open.spotify.com/artist/5FDSxvW83nezwSZgrEdOLv) | [Relaxing Nature](https://open.spotify.com/album/7CHcLv7WKxu3l96kbJkIgT) | 3:00 |
 | 41 | [Sleepy Rainforest](https://open.spotify.com/track/2zwb8MgGoTTA6eDUQ563v1) | [Wildazon](https://open.spotify.com/artist/3MDGo9gMugtZGrB0oyQ69G) | [Waterfall Creek](https://open.spotify.com/album/1yKJFw1dDWFr7cwGBHz4jg) | 3:28 |
 | 42 | [Seal Cove Pond 10/30 8am](https://open.spotify.com/track/5sT358T58i5g3nbJHZ1U6F) | [Aaron Lewis](https://open.spotify.com/artist/2xmSfP65WLEwRyrQlpODuR) | [Sounds of Mount Desert Island](https://open.spotify.com/album/2pwkOeetQXNKjKrXIDu2JB) | 3:24 |
 | 43 | [Slow Day In The Woods](https://open.spotify.com/track/0lvURQCoBLWmVYbXlOu3Mh) | [mahogany](https://open.spotify.com/artist/4DUwhWpSYNXUbSbuvtrjeA) | [Nature Hideout](https://open.spotify.com/album/5Ad8mClENx1NQfnFkA4Mv6) | 3:12 |
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 | 48 | [Na Foresta](https://open.spotify.com/track/6z3iPlhweUAe8gWOeYWYX4) | [Precipitação](https://open.spotify.com/artist/46km264wFWt9vtPfr9kls2) | [Chove Chuva](https://open.spotify.com/album/3tFdVqYCmj14H7FTOn3bOq) | 2:46 |
 | 49 | [Sounds of Congo](https://open.spotify.com/track/55IAZKoY31CjxxGCgCMmo8) | [Wildazon](https://open.spotify.com/artist/3MDGo9gMugtZGrB0oyQ69G) | [Sounds of Congo](https://open.spotify.com/album/0Ul7eYB4hKLvKzODqRe8k0) | 3:28 |
 | 50 | [Distant Gentle Stream](https://open.spotify.com/track/3VtBYUFa9A3oqOrale3kO2) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Soothing Jungle Sounds](https://open.spotify.com/album/2aLi2tPsVgfae6M4gher7p) | 3:05 |
-| 51 | [Night Time Forest + Jungle Waterfall Soundscape](https://open.spotify.com/track/07mULeXBpE2Midfs1dM9Ni) | [Atmosphere Asmr](https://open.spotify.com/artist/3j1PxrhmexE5lPn5jBvBQv) | [Relaxing Nature Sounds \(Deluxe Edition\) \[Rain, Thunder, Crickets, Waves, Waterfalls, River and Spa Soundscapes\]](https://open.spotify.com/album/7o9X31puUg4szGY6eexPmZ) | 10:00 |
-| 52 | [Djungle Rain](https://open.spotify.com/track/6OYu0UZHuVYtJb9px1dKwi) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Humid Drops](https://open.spotify.com/album/0Rlwlp5Q0PkDgXnlcKGBad) | 3:28 |
-| 53 | [Nap In The Rainforest](https://open.spotify.com/track/3FIWPMCPiAri83CyY4KbXx) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Let the forest talk](https://open.spotify.com/album/5vemnKTIVMtdfZGDo1mcvk) | 3:32 |
+| 51 | [Nap In The Rainforest](https://open.spotify.com/track/3FIWPMCPiAri83CyY4KbXx) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Let the forest talk](https://open.spotify.com/album/5vemnKTIVMtdfZGDo1mcvk) | 3:32 |
+| 52 | [Night Time Forest + Jungle Waterfall Soundscape](https://open.spotify.com/track/07mULeXBpE2Midfs1dM9Ni) | [Atmosphere Asmr](https://open.spotify.com/artist/3j1PxrhmexE5lPn5jBvBQv) | [Relaxing Nature Sounds \(Deluxe Edition\) \[Rain, Thunder, Crickets, Waves, Waterfalls, River and Spa Soundscapes\]](https://open.spotify.com/album/7o9X31puUg4szGY6eexPmZ) | 10:00 |
+| 53 | [Djungle Rain](https://open.spotify.com/track/6OYu0UZHuVYtJb9px1dKwi) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Humid Drops](https://open.spotify.com/album/0Rlwlp5Q0PkDgXnlcKGBad) | 3:28 |
 | 54 | [A Night In The Jungle With Birds At River \(Fluss\)](https://open.spotify.com/track/5LVx4ofVD3DXNfkiDajr4a) | [Life Sounds Nature](https://open.spotify.com/artist/0SGJ24mW8PvCH3O8GeXSFg) | [The Very Best Sound Of Birds And Nature \(With Rain, Forest, Creek, River, Wind, Thunder\)](https://open.spotify.com/album/2rrNOxZ5jEL4KaJUGbyzuV) | 5:16 |
 | 55 | [Frogs and Rain near the River](https://open.spotify.com/track/6e5HVs8ctp5QxGShtMlEMY) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Frogs and Rain near the River](https://open.spotify.com/album/7DDVhkJ1acgUJlMFXPz73p) | 2:20 |
 | 56 | [Many Jungle Birds](https://open.spotify.com/track/0H35gcoQAOvPoFpSbO8Ylp) | [Dr\. Meditation](https://open.spotify.com/artist/3oZYKXyDVvu1P0wVIrCquY) | [200 Nature Sounds](https://open.spotify.com/album/5JojOrCQpS1pYJXAgOQkSV) | 3:12 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 | 86 | [Whispering Trees in the Wild](https://open.spotify.com/track/45TgpexaojOZb4zok0pJaD) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [Whispering Trees in the Wild](https://open.spotify.com/album/48ApjSa0knz7AVh9xKFPL5) | 2:05 |
 | 87 | [Safari Monkey Calls](https://open.spotify.com/track/1B3Xinpm6B2lr8aPar5fXv) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Wildlife and Nature Soundscapes](https://open.spotify.com/album/3lM9fS11Kki3uL6o65Ozea) | 3:20 |
 
-Snapshot ID: `MCxmZDk2NTdmNDRhNzM0M2I4M2QyMDUzOGRmNzk5ZmRmYzY4ODQ2YTVj`
+Snapshot ID: `MCw4ZmM3MzUxZjc3MDRkN2E0ZmM5YzA0N2QyZjhlNzIwMzEwZGRmZGE2`

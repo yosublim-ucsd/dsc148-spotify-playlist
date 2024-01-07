@@ -2,7 +2,7 @@
 
 ### [pov \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX01LszHBn1s8)
 
-> what i eat in a day on a carnivore diet
+> 🛁 bathtub scene? no, i keep thinking about the one at the graveyard 🪦
 
 1,330 songs - 2 day 22 hr 2 min
 

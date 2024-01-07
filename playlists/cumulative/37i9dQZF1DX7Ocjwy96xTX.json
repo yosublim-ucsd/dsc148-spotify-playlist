@@ -2974,10 +2974,28 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 286992,
       "name": "Never Wanna Let Go",
       "url": "https://open.spotify.com/track/1CB7zANKq4TYkOg7XCdw5v"
+    },
+    {
+      "album": {
+        "name": "Paradigm",
+        "url": "https://open.spotify.com/album/3yri9UWWeeMtgTHxAizMFj"
+      },
+      "artists": [
+        {
+          "name": "David Hale",
+          "url": "https://open.spotify.com/artist/3K5HJppYE9ASYWEZNyle9K"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286992,
+      "name": "Never Wanna let Go",
+      "url": "https://open.spotify.com/track/4yqptmbnL83yt8TP5SEpfz"
     },
     {
       "album": {

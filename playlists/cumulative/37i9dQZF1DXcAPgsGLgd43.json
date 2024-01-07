@@ -369,6 +369,40 @@
     },
     {
       "album": {
+        "name": "Bololo (Remixes)",
+        "url": "https://open.spotify.com/album/3bC1j0lxI66MJl2T3anvF2"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "MC Bin Laden",
+          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
+        },
+        {
+          "name": "MichaelBM",
+          "url": "https://open.spotify.com/artist/0DdbrsAMsJHh1EFRkrVmzb"
+        },
+        {
+          "name": "Francesco V",
+          "url": "https://open.spotify.com/artist/6MrtkunYTDdVAjtH4cHjLb"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143255,
+      "name": "Bololo - MichaelBM & Francesco V Remix",
+      "url": "https://open.spotify.com/track/6H0Jp0W6K5arH3w38rE8ZU"
+    },
+    {
+      "album": {
         "name": "Brisas Del Mar",
         "url": "https://open.spotify.com/album/55iEeiN1Sg4YhtWW72MiQY"
       },
@@ -420,7 +454,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 153750,
       "name": "Caliente",
       "url": "https://open.spotify.com/track/7GA5kAtcfu6ffdjrsDNCe3"

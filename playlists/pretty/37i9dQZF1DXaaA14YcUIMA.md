@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 
 > Anda pa'lante galopante con los grandes del género romántico\. Los Temerarios en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,046 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,339 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 2 | [Piensa En Mí](https://open.spotify.com/track/1xKP7GVLY33i5jmx1bB1Kk) | [Grupo Mojado](https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7) | [Sueño Y Realidad](https://open.spotify.com/album/3jVJ1fTyUxYdpzb8Pt9V6U) | 2:57 |
 | 3 | [Tu Cárcel](https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 3:32 |
 | 4 | [Como Una Novela](https://open.spotify.com/track/43Z6YxVTYyr5ewyo2uepdy) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Intimidades](https://open.spotify.com/album/40EJlz5pez7U5J6CwlUu39) | 3:46 |
-| 5 | [Cómo Estás Tú](https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Con La Fuerza Del Destino](https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY) | 2:57 |
-| 6 | [Supe Perder](https://open.spotify.com/track/6NUoNxL3tWnICLhFQ5obEW) | [Los Caminantes](https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut) | [Nuestras Canciones Romanticas Favoritas "20 Exitazos"](https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM) | 2:57 |
+| 5 | [Supe Perder](https://open.spotify.com/track/6NUoNxL3tWnICLhFQ5obEW) | [Los Caminantes](https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut) | [Nuestras Canciones Romanticas Favoritas "20 Exitazos"](https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM) | 2:57 |
+| 6 | [Cómo Estás Tú](https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Con La Fuerza Del Destino](https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY) | 2:57 |
 | 7 | [Amor Prohibido](https://open.spotify.com/track/4Hmuqk2w1fGqwpMP04aDUu) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [Por El Amor](https://open.spotify.com/album/5ZQ4AmRiuIGuHPf6MmWmxX) | 3:49 |
 | 8 | [El Taxista](https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku) | [Los Dinnosaurios](https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz) | [Inolvidables](https://open.spotify.com/album/6bMC920IXyDwMQVm6ZtCLU) | 3:44 |
 | 9 | [Ven Porque Te Necesito](https://open.spotify.com/track/4MNfkZ8dtva3cjJ2biqnDS) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Internacionales Y Románticos](https://open.spotify.com/album/5Ze16psciPmtUvLIOLE5D3) | 2:55 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 40 | [Como Fui A Enamorarme De Ti](https://open.spotify.com/track/6CxvpsqUxUD5xSrYCA8JHr) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Y Para Siempre ...](https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs) | 4:29 |
 | 41 | [Un Dolor](https://open.spotify.com/track/17CjK3UlTIKqklXjOf9mIc) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Los Yonic's](https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt) | 3:12 |
 | 42 | [Celoso](https://open.spotify.com/track/0NZtpFRzI4ZygqISV7fTtD) | [Grupo Toppaz De Reynaldo Flores](https://open.spotify.com/artist/4W9DRj47G1VNujHs8GqndY) | [Celoso](https://open.spotify.com/album/0IrCscdgJQiDQLQjYhKMdV) | 2:48 |
-| 43 | [Te Amo](https://open.spotify.com/track/2Y1qcW4b9aVRnX1fHaVvxY) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Mi Historia](https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS) | 2:55 |
-| 44 | [Voy a pintar un corazón](https://open.spotify.com/track/6ztkxjvne5bjzUUnoskShx) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Album de Oro](https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE) | 3:28 |
+| 43 | [Voy a pintar un corazón](https://open.spotify.com/track/6ztkxjvne5bjzUUnoskShx) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Album de Oro](https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE) | 3:28 |
+| 44 | [Te Amo](https://open.spotify.com/track/2Y1qcW4b9aVRnX1fHaVvxY) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Mi Historia](https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS) | 2:55 |
 | 45 | [Y Tú Con Él](https://open.spotify.com/track/1UcuiA4y04FqFZnWUBGIDS) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [Para Ti](https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM) | 3:37 |
 | 46 | [Y Me Dijo Eres Tu](https://open.spotify.com/track/1iTBq0Ux2qwvZKshWnXHyt) | [Los Rodarte](https://open.spotify.com/artist/5mCFkp1QcLQe7W67MudPoj) | [12 Super Exitos](https://open.spotify.com/album/3iUfFo7KFlu647f3PL6Jdc) | 3:11 |
 | 47 | [Oro](https://open.spotify.com/track/50QgKV8vabHHc7au535IqK) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje Y Tierno](https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K) | 3:10 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 54 | [Pídeme La Luna](https://open.spotify.com/track/09CI3BbRrcwkCoRU0ho2RR) | [Los Carlos](https://open.spotify.com/artist/1tVpZyBwLklWcc4BnEEveq) | [En La Luna](https://open.spotify.com/album/5WafO5nBowjxkbpA8c2ase) | 3:12 |
 | 55 | [Cuatro Palabras](https://open.spotify.com/track/0akL7hcVP5I27IlqVohxfV) | [Guardianes Del Amor](https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx) | [Corazón Romántico..\. Los Exitos](https://open.spotify.com/album/2LyD3u4jVvV63cjUsmWkZ3) | 3:42 |
 | 56 | [Perdón Por Tus Lágrimas](https://open.spotify.com/track/3YoLl2RHRhzKg3WhpaFRES) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Siempre Te Amaré](https://open.spotify.com/album/2vBkgzqbxptOQOnFqwJHos) | 3:57 |
-| 57 | [Disculpe Usted](https://open.spotify.com/track/3aumACX4YG7UB38T0q8hbN) | [Los Humildes](https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm) | [Solo Lo Nuestro](https://open.spotify.com/album/2yo3ruhpe7BJHf5NTECIjM) | 2:51 |
-| 58 | [Adoro \(with Armando Manzanero\)](https://open.spotify.com/track/0DIDL9wmrSRMViRqsmZfmB) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0), [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [Contigo Aprendí](https://open.spotify.com/album/0FBVWxpOmjm5TnmJRTflyb) | 3:33 |
-| 59 | [Contigo O Sin Ti](https://open.spotify.com/track/6DkYArFhupR3gX2v8yDLhK) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Contigo O Sin Ti](https://open.spotify.com/album/0ksx8DM2NPBg7EuRB2qUFZ) | 3:38 |
+| 57 | [Adoro \(with Armando Manzanero\)](https://open.spotify.com/track/0DIDL9wmrSRMViRqsmZfmB) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0), [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [Contigo Aprendí](https://open.spotify.com/album/0FBVWxpOmjm5TnmJRTflyb) | 3:33 |
+| 58 | [Contigo O Sin Ti](https://open.spotify.com/track/6DkYArFhupR3gX2v8yDLhK) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Contigo O Sin Ti](https://open.spotify.com/album/0ksx8DM2NPBg7EuRB2qUFZ) | 3:38 |
+| 59 | [Disculpe Usted](https://open.spotify.com/track/3aumACX4YG7UB38T0q8hbN) | [Los Humildes](https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm) | [Solo Lo Nuestro](https://open.spotify.com/album/2yo3ruhpe7BJHf5NTECIjM) | 2:51 |
 | 60 | [Quiéreme Más](https://open.spotify.com/track/3pFenid397ZiUWJKGW668V) | [Grupo Modelo](https://open.spotify.com/artist/1wJ2aDtLBcymSre3vQUBoG) | [Quieréme Más](https://open.spotify.com/album/2wsCHBk0u8GntU6sWCF14j) | 3:58 |
 | 61 | [Fuiste Mala](https://open.spotify.com/track/5LNYnwMBaqUkNmTiPbRsoY) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL), [Ricardo Muñoz](https://open.spotify.com/artist/4uIopkxtCr4XkXtDVSEBYq) | [A.B\. Quintanilla III & Kumbia Kumbia Kings Present The Duets](https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e) | 3:18 |
 | 62 | [Dulcemente Enamorada](https://open.spotify.com/track/2hWTlxqGczIVUC3tl6LaMJ) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Viva el Amor](https://open.spotify.com/album/6agj4FL2hImOYAV3WAGXBN) | 2:39 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 77 | [Es Que Te Amo](https://open.spotify.com/track/201DoWLysj5vR8va945CCW) | [Los Fugitivos](https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq) | [Vanidosa](https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs) | 3:04 |
 | 78 | [El Perro, el Gato y Yo](https://open.spotify.com/track/54TgeMeInoK6wgPWw58ri7) | [Guardianes Del Amor](https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx) | [Lo Mejor De Guardianes Del Amor](https://open.spotify.com/album/4Asr02QFyUUEcwtcnGCYhx) | 3:37 |
 | 79 | [Dulce Veneno](https://open.spotify.com/track/1rg9ILnB4n7cxlO9UdIXaG) | [Los Dueños Del Sol](https://open.spotify.com/artist/1RN7jx2p7hBFXKJ2HyYu8d) | [Dulce Veneno](https://open.spotify.com/album/0LKfjHqTJ4Gp6F0HPplz1D) | 3:20 |
-| 80 | [Se Fue Mi Paloma](https://open.spotify.com/track/6v4btqrnQRhliof9wGuB3I) | [Los Mismos](https://open.spotify.com/artist/7nkBA0CcBFVR78vPhgcTa7) | [Juntos Para Siempre](https://open.spotify.com/album/0hzBrUq9vGTTyb0TnAdAjU) | 3:08 |
-| 81 | [Palabras Tristes](https://open.spotify.com/track/16NRX2SptYhIDr0FdAqMxZ) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Solo Baladas](https://open.spotify.com/album/5wYtiVi5x6N9H7KRFhfIzq) | 3:23 |
+| 80 | [Palabras Tristes](https://open.spotify.com/track/16NRX2SptYhIDr0FdAqMxZ) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Solo Baladas](https://open.spotify.com/album/5wYtiVi5x6N9H7KRFhfIzq) | 3:23 |
+| 81 | [Se Fue Mi Paloma](https://open.spotify.com/track/6v4btqrnQRhliof9wGuB3I) | [Los Mismos](https://open.spotify.com/artist/7nkBA0CcBFVR78vPhgcTa7) | [Juntos Para Siempre](https://open.spotify.com/album/0hzBrUq9vGTTyb0TnAdAjU) | 3:08 |
 | 82 | [Muchacha Triste](https://open.spotify.com/track/5aJtDBC3y4jyK63Af8yFbX) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Caramelo](https://open.spotify.com/album/1WgwIZMerQkpGMTesIlBHX) | 4:04 |
 | 83 | [Melodia Desencadenada](https://open.spotify.com/track/4wpIWC2jNrGEcDjgXvsUsf) | [Grupo Pegasso](https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv) | [Soy El Mismo](https://open.spotify.com/album/3BvXrTvzMYqZNz4hnqXSvj) | 3:40 |
 | 84 | [Hay Otro Amor En Tu Lugar](https://open.spotify.com/track/4sGuUITG73yQwLliCuibQv) | [El Golpe](https://open.spotify.com/artist/3evCl0XUunm8x6MBd7MSnD) | [Morir Contigo](https://open.spotify.com/album/1o45pgbPbUoZsLltuRVUYR) | 2:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 99 | [Si Estuvieras Conmigo \- Dueto Con Grupo Bryndis](https://open.spotify.com/track/4JgxmSC0CvOZ4WOzNxS2S7) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5), [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [30 Aniversario Duetos](https://open.spotify.com/album/5BhAjPF7nbVtq2pvz7nbVm) | 2:40 |
 | 100 | [El Muñeco](https://open.spotify.com/track/19G8XMtHCX6y6eYTLDbaU3) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Pensando En Ella](https://open.spotify.com/album/7chUnyKUwq88xEWfyGEV7a) | 2:42 |
 
-Snapshot ID: `MCxmMjE4YzMwYmQ5MjE1YzAzMDk4MzJhZWQ2Yjk4NDk1MjVhYjhiZmFm`
+Snapshot ID: `MCw4ZDY4OGVhZWZiNDE5Zjk5MDU0NzBmZDdjZGEzNTliZjc2YTNiMmNh`

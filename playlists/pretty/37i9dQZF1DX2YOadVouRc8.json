@@ -1,12 +1,12 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 20602,
+  "num_followers": 20620,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTA1NDJjYjBkYzYyMzAwNmY4NDhmNDY5YzYzZTk0NjMzMWVlYTk3",
+  "snapshot_id": "MCw4OTlkNWZmNjY3OWRjNjgwZWVjOGFmMDViNjc0NTU5YzE2M2Q3ZjY5",
   "tracks": [
     {
       "added_at": "2024-01-05 00:01:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-01-05 00:01:00",
       "album": {
+        "name": "Quick Question",
+        "url": "https://open.spotify.com/album/2syIcbjNfLGDh7HV9jr7N5"
+      },
+      "artists": [
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Quick Question",
+      "url": "https://open.spotify.com/track/34iCDXDpWVR6ET2aBRiAqb"
+    },
+    {
+      "added_at": "2024-01-05 00:01:00",
+      "album": {
         "name": "Routine Lover",
         "url": "https://open.spotify.com/album/1WvNXlLpJ8G40axBVvicUj"
       },
@@ -663,18 +679,22 @@
     {
       "added_at": "2024-01-05 00:01:00",
       "album": {
-        "name": "Quick Question",
-        "url": "https://open.spotify.com/album/2syIcbjNfLGDh7HV9jr7N5"
+        "name": "SUPARO (Remix)",
+        "url": "https://open.spotify.com/album/4x7SoFdAMxFIX9YvuKVOjx"
       },
       "artists": [
+        {
+          "name": "WAYNE FLENORY",
+          "url": "https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV"
+        },
         {
           "name": "Babyboy AV",
           "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
         }
       ],
-      "duration_ms": 161632,
-      "name": "Quick Question",
-      "url": "https://open.spotify.com/track/34iCDXDpWVR6ET2aBRiAqb"
+      "duration_ms": 161226,
+      "name": "SUPARO - Remix",
+      "url": "https://open.spotify.com/track/4fh2nObIUqrZdp79yot7uS"
     },
     {
       "added_at": "2024-01-05 00:01:00",
@@ -695,26 +715,6 @@
       "duration_ms": 108823,
       "name": "NAIJA SHAWTY (feat. Victony)",
       "url": "https://open.spotify.com/track/2ZAlI005a5nE5ys5QGOiQr"
-    },
-    {
-      "added_at": "2024-01-05 00:01:00",
-      "album": {
-        "name": "SUPARO (Remix)",
-        "url": "https://open.spotify.com/album/4x7SoFdAMxFIX9YvuKVOjx"
-      },
-      "artists": [
-        {
-          "name": "WAYNE FLENORY",
-          "url": "https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV"
-        },
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 161226,
-      "name": "SUPARO - Remix",
-      "url": "https://open.spotify.com/track/4fh2nObIUqrZdp79yot7uS"
     },
     {
       "added_at": "2024-01-05 00:01:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-01-05 00:01:00",
       "album": {
-        "name": "Do What U Want",
-        "url": "https://open.spotify.com/album/5h5r3CJHQL2fPrg1oMqCib"
-      },
-      "artists": [
-        {
-          "name": "Yung D3mz",
-          "url": "https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf"
-        }
-      ],
-      "duration_ms": 112540,
-      "name": "Do What U Want",
-      "url": "https://open.spotify.com/track/7sSc9rQfa7YEhjRgKoMDPQ"
-    },
-    {
-      "added_at": "2024-01-05 00:01:00",
-      "album": {
         "name": "BIG TIME (Deluxe)",
         "url": "https://open.spotify.com/album/6od58yWAflemDXwGLtzUWd"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 152941,
       "name": "Whine",
       "url": "https://open.spotify.com/track/5p02f6vHykfCMMY6XRb21n"
+    },
+    {
+      "added_at": "2024-01-05 00:01:00",
+      "album": {
+        "name": "Do What U Want",
+        "url": "https://open.spotify.com/album/5h5r3CJHQL2fPrg1oMqCib"
+      },
+      "artists": [
+        {
+          "name": "Yung D3mz",
+          "url": "https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf"
+        }
+      ],
+      "duration_ms": 112540,
+      "name": "Do What U Want",
+      "url": "https://open.spotify.com/track/7sSc9rQfa7YEhjRgKoMDPQ"
     },
     {
       "added_at": "2024-01-05 00:01:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-01-05 00:01:00",
       "album": {
-        "name": "Peace Of Mind",
-        "url": "https://open.spotify.com/album/7uqB8voCddKMJcP2Qee1yP"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 208692,
-      "name": "Peace Of Mind",
-      "url": "https://open.spotify.com/track/5xZEUteaWi0jFAGAKPPWw0"
-    },
-    {
-      "added_at": "2024-01-05 00:01:00",
-      "album": {
         "name": "ULTRALIGHT",
         "url": "https://open.spotify.com/album/555u9I3MowqYOghGFSAR7U"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 237346,
       "name": "MEDITATE",
       "url": "https://open.spotify.com/track/3luCfdUPwws6omTEmIUKXX"
+    },
+    {
+      "added_at": "2024-01-05 00:01:00",
+      "album": {
+        "name": "Peace Of Mind",
+        "url": "https://open.spotify.com/album/7uqB8voCddKMJcP2Qee1yP"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 208692,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/5xZEUteaWi0jFAGAKPPWw0"
     },
     {
       "added_at": "2024-01-05 00:01:00",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2024-01-05 00:01:00",
       "album": {
-        "name": "Asylum",
-        "url": "https://open.spotify.com/album/4C4GoTj4U4QL9awtXxbFYv"
-      },
-      "artists": [
-        {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
-        },
-        {
-          "name": "LeriQ",
-          "url": "https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl"
-        }
-      ],
-      "duration_ms": 145892,
-      "name": "21",
-      "url": "https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS"
-    },
-    {
-      "added_at": "2024-01-05 00:01:00",
-      "album": {
         "name": "MINISKIRT",
         "url": "https://open.spotify.com/album/3OgE1xXu2rY3uXj3MWJxIo"
       },
@@ -1471,6 +1451,26 @@
     {
       "added_at": "2024-01-05 00:01:00",
       "album": {
+        "name": "Asylum",
+        "url": "https://open.spotify.com/album/4C4GoTj4U4QL9awtXxbFYv"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        },
+        {
+          "name": "LeriQ",
+          "url": "https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl"
+        }
+      ],
+      "duration_ms": 145892,
+      "name": "21",
+      "url": "https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS"
+    },
+    {
+      "added_at": "2024-01-05 00:01:00",
+      "album": {
         "name": "2 Bad",
         "url": "https://open.spotify.com/album/67MMNKNZHyB86skPewtMoZ"
       },
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-01-05 00:01:00",
       "album": {
-        "name": "Naked Wire",
-        "url": "https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG"
-      },
-      "artists": [
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Naked Wire",
-      "url": "https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN"
-    },
-    {
-      "added_at": "2024-01-05 00:01:00",
-      "album": {
         "name": "Wayyy Saucy",
         "url": "https://open.spotify.com/album/4ZG7gMykuBh6qo1uhpbxl6"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 138000,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/5ExWQrTxlHdfCssnKpIxu9"
+    },
+    {
+      "added_at": "2024-01-05 00:01:00",
+      "album": {
+        "name": "Naked Wire",
+        "url": "https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Naked Wire",
+      "url": "https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN"
     },
     {
       "added_at": "2024-01-05 00:01:00",

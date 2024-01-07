@@ -1,12 +1,12 @@
 {
   "description": "For whatever activity you do that may need a punch of intensity!",
-  "num_followers": 4262471,
+  "num_followers": 4262767,
   "original_name": "Power Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjM0Y2MzMTRhOTQ2MzM3ODk5YmZmMWQyMmQzYTk0ZjU1ZmVmNTdj",
+  "snapshot_id": "MCw4YzExMGQ3Y2Q3ODllY2ExNjliMDU5NTE4YWU3NDc2ZGE5ZTZjNzc5",
   "tracks": [
     {
       "added_at": "2023-11-24 01:39:50",
@@ -515,18 +515,18 @@
     {
       "added_at": "2023-11-24 01:39:50",
       "album": {
-        "name": "Curtain Call: The Hits (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ"
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 326466,
-      "name": "Lose Yourself",
-      "url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"
+      "duration_ms": 185946,
+      "name": "DNA.",
+      "url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
     },
     {
       "added_at": "2023-11-24 01:39:50",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-11-24 01:39:50",
       "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+        "name": "Curtain Call: The Hits (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 185946,
-      "name": "DNA.",
-      "url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
+      "duration_ms": 326466,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"
     },
     {
       "added_at": "2023-11-24 01:39:50",
@@ -747,30 +747,6 @@
     {
       "added_at": "2023-11-24 01:39:50",
       "album": {
-        "name": "Dying to Live",
-        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 228759,
-      "name": "ZEZE (feat. Travis Scott & Offset)",
-      "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z"
-    },
-    {
-      "added_at": "2023-11-24 01:39:50",
-      "album": {
         "name": "B4 The Storm",
         "url": "https://open.spotify.com/album/4Y5lQYgpDrkyru90jltD5a"
       },
@@ -795,6 +771,30 @@
       "duration_ms": 195428,
       "name": "Lemonade (feat. NAV)",
       "url": "https://open.spotify.com/track/1p0rEzrK7YtdRZVtiyV7RN"
+    },
+    {
+      "added_at": "2023-11-24 01:39:50",
+      "album": {
+        "name": "Dying to Live",
+        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 228759,
+      "name": "ZEZE (feat. Travis Scott & Offset)",
+      "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z"
     },
     {
       "added_at": "2023-11-24 01:39:50",

@@ -1,12 +1,12 @@
 {
   "description": "2017 highlights from the home of indie music.",
-  "num_followers": 144758,
+  "num_followers": 144794,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDNmOGU5ZTVjM2QwZDhiNWU2ODYwNDdlY2VkZDRmYWRiNGIwYjdj",
+  "snapshot_id": "MCxlNjE2MzgzZjYwMzZmZTczOTAzMTMxYzc5OWM3YjdkY2Q1NDAyOGJj",
   "tracks": [
     {
       "added_at": "2022-10-27 05:38:58",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Baby, It's Okay",
-        "url": "https://open.spotify.com/album/0C61FN9PR7AocB3A0E4Fvw"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 219013,
-      "name": "You're Somebody Else",
-      "url": "https://open.spotify.com/track/6iWEhoALoBFnQMNVhYY0Sc"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "Overnight",
         "url": "https://open.spotify.com/album/0cIynhird3mHUUs71R7zsj"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 219604,
       "name": "Overnight",
       "url": "https://open.spotify.com/track/0hhXziDUO0wNYPsstDQWN6"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Baby, It's Okay",
+        "url": "https://open.spotify.com/album/0C61FN9PR7AocB3A0E4Fvw"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 219013,
+      "name": "You're Somebody Else",
+      "url": "https://open.spotify.com/track/6iWEhoALoBFnQMNVhYY0Sc"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Roy Pablo",
-        "url": "https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Dance, Baby!",
-      "url": "https://open.spotify.com/track/5EV4bGHxVN0kHpcAFvgnTt"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "Superclean, Vol. I",
         "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 209403,
       "name": "I Don't Know You",
       "url": "https://open.spotify.com/track/06cqIVC8kRAT02qfHQT65v"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Roy Pablo",
+        "url": "https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Dance, Baby!",
+      "url": "https://open.spotify.com/track/5EV4bGHxVN0kHpcAFvgnTt"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "The Nashville Sound",
-        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 215563,
-      "name": "If We Were Vampires",
-      "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 357357,
       "name": "Movie",
       "url": "https://open.spotify.com/track/0kKrJbP4oATz98qQp2iXeC"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "The Nashville Sound",
+        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 215563,
+      "name": "If We Were Vampires",
+      "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Roy Pablo",
-        "url": "https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 172941,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/4zvHZWOGyL7WcmqHOgtGCW"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "EP2",
         "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 237231,
       "name": "Raingurl",
       "url": "https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Roy Pablo",
+        "url": "https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/4zvHZWOGyL7WcmqHOgtGCW"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 215493,
-      "name": "Lay It on Me",
-      "url": "https://open.spotify.com/track/7oekneJCJO74ycdLzdk16v"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "All Becomes Okay",
         "url": "https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 242859,
       "name": "Begin (feat. Wales)",
       "url": "https://open.spotify.com/track/1v5J1L8FbUQya4SUQFCstk"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 215493,
+      "name": "Lay It on Me",
+      "url": "https://open.spotify.com/track/7oekneJCJO74ycdLzdk16v"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Snow",
-        "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 273560,
-      "name": "Chateau",
-      "url": "https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "Nation of Two",
         "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 224400,
       "name": "Like Gold",
       "url": "https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 273560,
+      "name": "Chateau",
+      "url": "https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
+        "name": "Lovers",
+        "url": "https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 215773,
+      "name": "Lovers",
+      "url": "https://open.spotify.com/track/6q8onrzcka32nGVrnWYGBQ"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
         "name": "Process (Bonus Edition)",
         "url": "https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 228061,
       "name": "anemone",
       "url": "https://open.spotify.com/track/1MD2yGSeBRALkMui1fZ05P"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
-        "name": "Lovers",
-        "url": "https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 215773,
-      "name": "Lovers",
-      "url": "https://open.spotify.com/track/6q8onrzcka32nGVrnWYGBQ"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
+        "name": "Capacity",
+        "url": "https://open.spotify.com/album/3jXbdginoAtjcBqT7GcYRd"
       },
       "artists": [
         {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 314486,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/14zhqtMI5xHrfCFCLhFcsn"
+      "duration_ms": 306746,
+      "name": "Mythological Beauty",
+      "url": "https://open.spotify.com/track/1UGpePwP16ZRiGaVuTVo2O"
     }
   ],
   "unique_name": "Best of Indie 2017",

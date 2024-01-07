@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: Hozier
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,732 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,743 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 65 | [Broken Horses](https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 5:03 |
 | 66 | [Cannonballers](https://open.spotify.com/track/2f0uekb8fxtGo8eRGFVM2B) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4) | [The Cannonballers](https://open.spotify.com/album/12T59Aqwe8DMlcmZrOHpQW) | 2:52 |
 | 67 | [Spit Of You](https://open.spotify.com/track/2SGkIE5YRgm8znklaCArE4) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Spit Of You](https://open.spotify.com/album/75FuYiKpmPLtgruoGpEQWZ) | 4:33 |
-| 68 | [Virginia \(Wind In The Night\)](https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Virginia \(Wind In The Night\)](https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx) | 3:25 |
-| 69 | [The Woodpile](https://open.spotify.com/track/5Zt5q2j5OEdcR3HtwxivZQ) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [Pedestrian Verse](https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x) | 3:27 |
-| 70 | [More Than a Love Song](https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [More Than a Love Song](https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX) | 4:47 |
+| 68 | [More Than a Love Song](https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [More Than a Love Song](https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX) | 4:47 |
+| 69 | [Virginia \(Wind In The Night\)](https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Virginia \(Wind In The Night\)](https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx) | 3:25 |
+| 70 | [The Woodpile](https://open.spotify.com/track/5Zt5q2j5OEdcR3HtwxivZQ) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [Pedestrian Verse](https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x) | 3:27 |
 | 71 | [Crutch](https://open.spotify.com/track/1Ft5ivAGXYDmNoKmys13sX) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Things Are Great](https://open.spotify.com/album/6oDxFhDxCrSxiPgy6Xlact) | 3:43 |
 | 72 | [Pages](https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Asking For A Ride](https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK) | 2:34 |
 | 73 | [When We Were Close](https://open.spotify.com/track/4QsXlCYFMNpVUzSR9UwWup) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 3:57 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 88 | [Highlands](https://open.spotify.com/track/177wGtLGKq5S8FqcagPDj6) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Highlands](https://open.spotify.com/album/3Deu9Zi3rLBf0zhZmNUXTw) | 3:31 |
 | 89 | [Blood Runs Red](https://open.spotify.com/track/3KNa3a7r6bw3SGI27Syuxn) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Blood Runs Red](https://open.spotify.com/album/5H3bz4xuj3L3AKaWQrM0bw) | 3:38 |
 | 90 | [Maestro \(Tears Don't Lie\)](https://open.spotify.com/track/5BF1TNThRiA6fnfGkTxEfQ) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [FEVER / SKY](https://open.spotify.com/album/4zpGSBstdibPEMzdRH1iip) | 3:22 |
-| 91 | [Long Way](https://open.spotify.com/track/5lfBJMEglgfzK2cTMrHuSy) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Long Way](https://open.spotify.com/album/138D9C9ojnHr0p8zPTELvd) | 4:46 |
-| 92 | [I Am The Lightning](https://open.spotify.com/track/0Sm3zpAqwYVIMULTJIZSGx) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [I Am The Lightning](https://open.spotify.com/album/3YOjMrvWQbrTk9TodyU24C) | 3:58 |
+| 91 | [I Am The Lightning](https://open.spotify.com/track/0Sm3zpAqwYVIMULTJIZSGx) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [I Am The Lightning](https://open.spotify.com/album/3YOjMrvWQbrTk9TodyU24C) | 3:58 |
+| 92 | [Long Way](https://open.spotify.com/track/5lfBJMEglgfzK2cTMrHuSy) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Long Way](https://open.spotify.com/album/138D9C9ojnHr0p8zPTELvd) | 4:46 |
 | 93 | [It's Alright](https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK) | [Cecilia Castleman](https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH) | [It's Alright](https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI) | 4:08 |
 | 94 | [Hollow](https://open.spotify.com/track/38D7NvjAcztFI1FKetw08V) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [Hollow](https://open.spotify.com/album/5xR0eMPlArJWzoLcJzpTf7) | 3:38 |
 | 95 | [Monsters](https://open.spotify.com/track/09rfu2MDFDESVeAMlKMaCf) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Walk Around The Moon](https://open.spotify.com/album/2hCtza1F54WPNrX8MC1jRM) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 99 | [Hideaway](https://open.spotify.com/track/5pbvXAfrjtRwfwcKGPAZma) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Hideaway](https://open.spotify.com/album/0UNq2Rh80UIYuaXHwgMMQM) | 4:13 |
 | 100 | [Faithless](https://open.spotify.com/track/6Ehy2SxoGNmLoJQxGUr9fq) | [The Airborne Toxic Event](https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z) | [Faithless](https://open.spotify.com/album/02jRAhRPMCdjOGnp7vxFfh) | 4:10 |
 
-Snapshot ID: `MCw1N2M4ZTk2MGZhY2Q3NTE3ODAwOWYwNzA1N2ZiNmYxZWM1YTk3N2Jk`
+Snapshot ID: `MCxhZTI1NWFiNGRhYjFhYmRhZjgyYzJlNzJhZWQ1ZGFiZTViNzc4YzY4`

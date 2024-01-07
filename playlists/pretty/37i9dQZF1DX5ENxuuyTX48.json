@@ -1,12 +1,12 @@
 {
   "description": "wru? OTW! Cover: Charlie Lim",
-  "num_followers": 18391,
+  "num_followers": 18400,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjU3NjM4OWM4MThhMTFjZDM2ZmRhZjY3ZTdhYmVjZDBiMDJiYzBi",
+  "snapshot_id": "MCxjN2RiOGE0ODQ3OTczN2RkOGI3YWVlMGE5YTQyYmFjNGNkODQzYWIx",
   "tracks": [
     {
       "added_at": "2023-12-21 17:00:00",
@@ -216,7 +216,7 @@
           "url": "https://open.spotify.com/artist/6KPOKd7taNna1xLsfpalli"
         }
       ],
-      "duration_ms": 200166,
+      "duration_ms": 232166,
       "name": "Dag Dig Dug",
       "url": "https://open.spotify.com/track/1VbdFxbe3Bt41FGVe4gI8x"
     },
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-12-21 17:00:00",
       "album": {
+        "name": "Bunga Hati",
+        "url": "https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4"
+      },
+      "artists": [
+        {
+          "name": "Salma Salsabil",
+          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
+        }
+      ],
+      "duration_ms": 173720,
+      "name": "Bunga Hati",
+      "url": "https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd"
+    },
+    {
+      "added_at": "2023-12-21 17:00:00",
+      "album": {
         "name": "Mengudara",
         "url": "https://open.spotify.com/album/40Yp12B9KULY4j2xbhE1YY"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 268422,
       "name": "Sempurna",
       "url": "https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE"
-    },
-    {
-      "added_at": "2023-12-21 17:00:00",
-      "album": {
-        "name": "Bunga Hati",
-        "url": "https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4"
-      },
-      "artists": [
-        {
-          "name": "Salma Salsabil",
-          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
-        }
-      ],
-      "duration_ms": 173720,
-      "name": "Bunga Hati",
-      "url": "https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd"
     },
     {
       "added_at": "2023-12-21 17:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-12-21 17:00:00",
       "album": {
-        "name": "Jalan Pulang",
-        "url": "https://open.spotify.com/album/0LqqN2YAboL8vcXqJYpEme"
-      },
-      "artists": [
-        {
-          "name": "Yura Yunita",
-          "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
-        }
-      ],
-      "duration_ms": 216835,
-      "name": "Jalan Pulang",
-      "url": "https://open.spotify.com/track/1ado6H8nwj0izGVinobwuP"
-    },
-    {
-      "added_at": "2023-12-21 17:00:00",
-      "album": {
         "name": "Aku Memilihmu",
         "url": "https://open.spotify.com/album/4Eupz9BkITuFqlHttMeu9K"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 231700,
       "name": "Aku Memilihmu",
       "url": "https://open.spotify.com/track/7EKp3CMq9Eb0TF8TLsDne4"
+    },
+    {
+      "added_at": "2023-12-21 17:00:00",
+      "album": {
+        "name": "Jalan Pulang",
+        "url": "https://open.spotify.com/album/0LqqN2YAboL8vcXqJYpEme"
+      },
+      "artists": [
+        {
+          "name": "Yura Yunita",
+          "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
+        }
+      ],
+      "duration_ms": 216835,
+      "name": "Jalan Pulang",
+      "url": "https://open.spotify.com/track/1ado6H8nwj0izGVinobwuP"
     },
     {
       "added_at": "2023-12-21 17:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-12-21 17:00:00",
       "album": {
+        "name": "Tak Berharap Lagi",
+        "url": "https://open.spotify.com/album/4yCbbBKsNxrDLXUs1INARs"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "duration_ms": 237769,
+      "name": "Tak Berharap Lagi",
+      "url": "https://open.spotify.com/track/1UJn9fyMNelBMvWTWu6FDZ"
+    },
+    {
+      "added_at": "2023-12-21 17:00:00",
+      "album": {
         "name": "Berona",
         "url": "https://open.spotify.com/album/6sV7rZpvGIIQS1ccs61YXV"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 193000,
       "name": "Luka",
       "url": "https://open.spotify.com/track/3uAbxlHUC7hZkUMQ2NfIOp"
-    },
-    {
-      "added_at": "2023-12-21 17:00:00",
-      "album": {
-        "name": "Tak Berharap Lagi",
-        "url": "https://open.spotify.com/album/4yCbbBKsNxrDLXUs1INARs"
-      },
-      "artists": [
-        {
-          "name": "Raisa",
-          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
-        }
-      ],
-      "duration_ms": 237769,
-      "name": "Tak Berharap Lagi",
-      "url": "https://open.spotify.com/track/1UJn9fyMNelBMvWTWu6FDZ"
     },
     {
       "added_at": "2023-12-21 17:00:00",

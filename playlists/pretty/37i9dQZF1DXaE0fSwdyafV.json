@@ -1,12 +1,12 @@
 {
   "description": "It's the witching hours. ",
-  "num_followers": 131700,
+  "num_followers": 131727,
   "original_name": "Protect Your Energy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzU2M2NiODRlYmUzMTE3YThjZjgxYTVlOTQ5YWZkZDE1MGNiZTYz",
+  "snapshot_id": "MCw2M2E4MDdjNDc2MTZjOTAzM2Y0YmQ3MjhiMjc4MjUwNjM4YjllYjNm",
   "tracks": [
     {
       "added_at": "2023-07-11 23:25:54",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-07-11 23:25:54",
       "album": {
-        "name": "Ultraviolence (Deluxe)",
-        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 256760,
-      "name": "West Coast",
-      "url": "https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV"
-    },
-    {
-      "added_at": "2023-07-11 23:25:54",
-      "album": {
         "name": "Torches",
         "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 239600,
       "name": "Pumped Up Kicks",
       "url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
+    },
+    {
+      "added_at": "2023-07-11 23:25:54",
+      "album": {
+        "name": "Ultraviolence (Deluxe)",
+        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 256760,
+      "name": "West Coast",
+      "url": "https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV"
     },
     {
       "added_at": "2023-07-11 23:25:54",
@@ -187,18 +187,18 @@
     {
       "added_at": "2023-07-11 23:25:54",
       "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 300683,
-      "name": "Cinnamon Girl",
-      "url": "https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e"
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
     },
     {
       "added_at": "2023-07-11 23:25:54",
@@ -219,18 +219,18 @@
     {
       "added_at": "2023-07-11 23:25:54",
       "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
+        "name": "Good Looking",
+        "url": "https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz"
       },
       "artists": [
         {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
         }
       ],
-      "duration_ms": 298933,
-      "name": "Running Up That Hill (A Deal With God)",
-      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
+      "duration_ms": 214800,
+      "name": "Good Looking",
+      "url": "https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6"
     },
     {
       "added_at": "2023-07-11 23:25:54",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-07-11 23:25:54",
       "album": {
-        "name": "Good Looking",
-        "url": "https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz"
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
       },
       "artists": [
         {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 214800,
-      "name": "Good Looking",
-      "url": "https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6"
+      "duration_ms": 300683,
+      "name": "Cinnamon Girl",
+      "url": "https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e"
     },
     {
       "added_at": "2023-07-11 23:25:54",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-07-11 23:25:54",
       "album": {
-        "name": "Chemtrails Over The Country Club",
-        "url": "https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 271176,
-      "name": "Chemtrails Over The Country Club",
-      "url": "https://open.spotify.com/track/7bPWdJgx8vek7S5i5yAtvG"
-    },
-    {
-      "added_at": "2023-07-11 23:25:54",
-      "album": {
         "name": "Melophobia",
         "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 160097,
       "name": "Ophelia",
       "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
+    },
+    {
+      "added_at": "2023-07-11 23:25:54",
+      "album": {
+        "name": "Chemtrails Over The Country Club",
+        "url": "https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 271176,
+      "name": "Chemtrails Over The Country Club",
+      "url": "https://open.spotify.com/track/7bPWdJgx8vek7S5i5yAtvG"
     },
     {
       "added_at": "2023-07-11 23:25:54",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-07-11 23:25:54",
       "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 252773,
-      "name": "Rhiannon",
-      "url": "https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR"
-    },
-    {
-      "added_at": "2023-07-11 23:25:54",
-      "album": {
         "name": "I.",
         "url": "https://open.spotify.com/album/12UGkXT4z3ajgq6xheCGDk"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 286293,
       "name": "Nothing's Gonna Hurt You Baby",
       "url": "https://open.spotify.com/track/7cs7MLtAWvsdf3w5kBvfK2"
+    },
+    {
+      "added_at": "2023-07-11 23:25:54",
+      "album": {
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 252773,
+      "name": "Rhiannon",
+      "url": "https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR"
     },
     {
       "added_at": "2023-07-11 23:25:54",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-07-11 23:25:54",
       "album": {
-        "name": "I Put A Spell On You",
-        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 155026,
-      "name": "I Put A Spell On You",
-      "url": "https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq"
-    },
-    {
-      "added_at": "2023-07-11 23:25:54",
-      "album": {
         "name": "Down the Way",
         "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 239146,
       "name": "Big Jet Plane",
       "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
+    },
+    {
+      "added_at": "2023-07-11 23:25:54",
+      "album": {
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 155026,
+      "name": "I Put A Spell On You",
+      "url": "https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq"
     },
     {
       "added_at": "2023-07-11 23:25:54",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-07-11 23:25:54",
       "album": {
-        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
-        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
+        "name": "Shelly",
+        "url": "https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Shelly",
+          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
         }
       ],
-      "duration_ms": 247147,
-      "name": "Season Of The Witch",
-      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
+      "duration_ms": 170892,
+      "name": "Steeeam",
+      "url": "https://open.spotify.com/track/09RamrocZneYcLYLRIxYha"
     },
     {
       "added_at": "2023-07-11 23:25:54",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-07-11 23:25:54",
       "album": {
-        "name": "Shelly",
-        "url": "https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3"
+        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
+        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
       },
       "artists": [
         {
-          "name": "Shelly",
-          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 170892,
-      "name": "Steeeam",
-      "url": "https://open.spotify.com/track/09RamrocZneYcLYLRIxYha"
+      "duration_ms": 247147,
+      "name": "Season Of The Witch",
+      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
     },
     {
       "added_at": "2023-07-11 23:25:54",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-07-11 23:25:54",
       "album": {
-        "name": "Witches",
-        "url": "https://open.spotify.com/album/2tqLyWHOTHOGRvEYXUHoqM"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 195078,
-      "name": "Witches",
-      "url": "https://open.spotify.com/track/5BBK1WoaiD3b3sJ2UysLuM"
-    },
-    {
-      "added_at": "2023-07-11 23:25:54",
-      "album": {
         "name": "Sometimes I Might Be Introvert",
         "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 269413,
       "name": "Woman",
       "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
+    },
+    {
+      "added_at": "2023-07-11 23:25:54",
+      "album": {
+        "name": "Witches",
+        "url": "https://open.spotify.com/album/2tqLyWHOTHOGRvEYXUHoqM"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 195078,
+      "name": "Witches",
+      "url": "https://open.spotify.com/track/5BBK1WoaiD3b3sJ2UysLuM"
     },
     {
       "added_at": "2023-07-11 23:25:54",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-07-11 23:25:54",
       "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 264372,
-      "name": "Sidelines",
-      "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
-    },
-    {
-      "added_at": "2023-07-11 23:25:54",
-      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 256533,
       "name": "Dancing Barefoot",
       "url": "https://open.spotify.com/track/4kPSjEg8u1U4pg2dHHMmtf"
+    },
+    {
+      "added_at": "2023-07-11 23:25:54",
+      "album": {
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 264372,
+      "name": "Sidelines",
+      "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
     },
     {
       "added_at": "2023-07-11 23:25:54",

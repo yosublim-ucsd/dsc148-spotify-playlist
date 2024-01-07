@@ -1985,6 +1985,24 @@
     },
     {
       "album": {
+        "name": "Flowers in the Morning",
+        "url": "https://open.spotify.com/album/0tHJZJcfoSTqBZyec9bOOX"
+      },
+      "artists": [
+        {
+          "name": "Sinead Fisher",
+          "url": "https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191361,
+      "name": "Flowers in the Morning",
+      "url": "https://open.spotify.com/track/7ASptgkRQrTgsQ8jrtoovk"
+    },
+    {
+      "album": {
         "name": "Flowers In Your Hair",
         "url": "https://open.spotify.com/album/4QpiWdylsl910WJGVIBRku"
       },
@@ -6752,7 +6770,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 229000,
       "name": "Think Of Me",
       "url": "https://open.spotify.com/track/71XkgBBCKjktUfWl1SiQGg"

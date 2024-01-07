@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,066 likes - 138 songs - 7 hr 49 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,069 likes - 138 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 8 | [ORIGINAL STEPPA](https://open.spotify.com/track/55ucCWk6NNfQBDDEiVvBIQ) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [ORIGINAL STEPPA](https://open.spotify.com/album/4atLTvYvrVroGsB8qwiBrc) | 2:06 |
 | 9 | [Bringing Me Home \- OMNOM Remix](https://open.spotify.com/track/0MqW3v6dcZkbJ6ijxG5dTi) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Bringing Me Home \(OMNOM Remix\)](https://open.spotify.com/album/0gAVyF2Fl2xnwOx7iK29Xl) | 3:31 |
 | 10 | [Silver Thread Golden Needle](https://open.spotify.com/track/36j1SeSsw7OZsTO3ogFKEM) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Silver Thread Golden Needle](https://open.spotify.com/album/5tAtDEcbyj78RJ3q4SpYM1) | 9:56 |
-| 11 | [the joy you once felt](https://open.spotify.com/track/0bMqgujtRKIKlJm6sp8tcO) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [the joy you once felt](https://open.spotify.com/album/0XG14XEFRcbvoPIsuGQEa4) | 3:13 |
+| 11 | [the joy you once felt](https://open.spotify.com/track/0bMqgujtRKIKlJm6sp8tcO) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [the joy you once felt](https://open.spotify.com/album/0XG14XEFRcbvoPIsuGQEa4) | 2:59 |
 | 12 | [Wasted Youth](https://open.spotify.com/track/7i5tBVaBU5Z4Va6XK0L5mm) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Wasted Youth](https://open.spotify.com/album/7BXCwPeAm4m1KFabsvCTuy) | 2:27 |
 | 13 | [About You..](https://open.spotify.com/track/3hYAuwIHjVIziqOY0aDMbi) | [Slowpalace](https://open.spotify.com/artist/5OykEYbsyupQcKIoTH5Szu) | [b\-sides 2023](https://open.spotify.com/album/51G4SLxVEDM8gendgbsDre) | 2:55 |
 | 14 | [Mellow Man](https://open.spotify.com/track/2GYMEBJeoZxHqIXc6ymsg1) | [Distinct Motive](https://open.spotify.com/artist/5KfqHG8bhfI18ZuTzZSdSM) | [Mellow Man](https://open.spotify.com/album/7GuzEc0bwqnJVQGSavefCD) | 3:39 |

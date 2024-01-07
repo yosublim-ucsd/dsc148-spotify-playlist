@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 131694,
+  "num_followers": 131730,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzMyOTdkMTIwZjE2ZDU5ZDRmMzA2ZjhkNTVkODIwM2M1ZGU5OTA0",
+  "snapshot_id": "MCw0MDUxNTc1YTg0YjdiY2EwOTRmYTcwMmU3M2FkNzEyZGMwYjFhMjRm",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "SATIN",
-        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 173458,
-      "name": "ON 10",
-      "url": "https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Remember Your North Star",
         "url": "https://open.spotify.com/album/7BhMDGBQ6xtZl1LwOwueYO"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 125973,
       "name": "pour up",
       "url": "https://open.spotify.com/track/0NzTOeYLPLOGFL40dOX3ho"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "SATIN",
+        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 173458,
+      "name": "ON 10",
+      "url": "https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Talk To Me Nice",
-        "url": "https://open.spotify.com/album/47SFbNznLU50PNraq3mIdn"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 229844,
-      "name": "Talk To Me Nice",
-      "url": "https://open.spotify.com/track/0k4C2siRScZQAb7eIEQDI5"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Grudges",
         "url": "https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 213987,
       "name": "Gone (with Bryson Tiller)",
       "url": "https://open.spotify.com/track/3sQWzLuYeu8dOVTrYwkFlf"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Talk To Me Nice",
+        "url": "https://open.spotify.com/album/47SFbNznLU50PNraq3mIdn"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 229844,
+      "name": "Talk To Me Nice",
+      "url": "https://open.spotify.com/track/0k4C2siRScZQAb7eIEQDI5"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "BB/ANG3L",
-        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 182265,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/7Au4cKPo9CYhtP4fByzYeq"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Funk Wav Bounces Vol. 2",
         "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 233974,
       "name": "Nothing More To Say (with 6LACK & Donae\u2019o)",
       "url": "https://open.spotify.com/track/4hvWEdTLJxrZsDDjUEcHvy"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "BB/ANG3L",
+        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 182265,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/7Au4cKPo9CYhtP4fByzYeq"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "POP!",
+        "url": "https://open.spotify.com/album/79PrnehNRNhhcZp5NDBF4s"
+      },
+      "artists": [
+        {
+          "name": "Adanna Duru",
+          "url": "https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90"
+        }
+      ],
+      "duration_ms": 196063,
+      "name": "POP!",
+      "url": "https://open.spotify.com/track/1WOMvLTxNyayalobISQKPA"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Jersey",
         "url": "https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma"
       },
@@ -931,38 +947,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "BB/ANG3L",
-        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 186094,
-      "name": "Tightrope",
-      "url": "https://open.spotify.com/track/2ovaClouYyCligGAi5CzGX"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "POP!",
-        "url": "https://open.spotify.com/album/79PrnehNRNhhcZp5NDBF4s"
-      },
-      "artists": [
-        {
-          "name": "Adanna Duru",
-          "url": "https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90"
-        }
-      ],
-      "duration_ms": 196063,
-      "name": "POP!",
-      "url": "https://open.spotify.com/track/1WOMvLTxNyayalobISQKPA"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Breathless (with Alina Baraz)",
         "url": "https://open.spotify.com/album/2uESefirannUYEJxBVc9rQ"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 168000,
       "name": "Breathless (with Alina Baraz)",
       "url": "https://open.spotify.com/track/1BaNZOpKVM6OtBuMfpeGYX"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "BB/ANG3L",
+        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 186094,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/2ovaClouYyCligGAi5CzGX"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Breathwork",
-        "url": "https://open.spotify.com/album/72GuMt9GOvytS3yxco7qQ0"
-      },
-      "artists": [
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        },
-        {
-          "name": "Justine Skye",
-          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "On + On (with Justine Skye)",
-      "url": "https://open.spotify.com/track/157TL0eU2bppVrCKnll6zR"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Am\u00e9n (The Nomad\u2019s Dream)",
         "url": "https://open.spotify.com/album/0BBWvsze1fTh8HS6kKQjiD"
       },
@@ -1139,22 +1119,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Contact (Karen Nyame KG Remix)",
-        "url": "https://open.spotify.com/album/3zMv67VTQVoh9lmEax4giy"
+        "name": "Breathwork",
+        "url": "https://open.spotify.com/album/72GuMt9GOvytS3yxco7qQ0"
       },
       "artists": [
         {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
         },
         {
-          "name": "Karen Nyame KG",
-          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
+          "name": "Justine Skye",
+          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
         }
       ],
-      "duration_ms": 269500,
-      "name": "Contact - Karen Nyame KG Remix",
-      "url": "https://open.spotify.com/track/6iJnmbCDoNWdnDeEFudk1f"
+      "duration_ms": 169655,
+      "name": "On + On (with Justine Skye)",
+      "url": "https://open.spotify.com/track/157TL0eU2bppVrCKnll6zR"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1171,6 +1151,26 @@
       "duration_ms": 192518,
       "name": "i",
       "url": "https://open.spotify.com/track/3nOK7iHFsy16nsIflFhGnP"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Contact (Karen Nyame KG Remix)",
+        "url": "https://open.spotify.com/album/3zMv67VTQVoh9lmEax4giy"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "Karen Nyame KG",
+          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
+        }
+      ],
+      "duration_ms": 269500,
+      "name": "Contact - Karen Nyame KG Remix",
+      "url": "https://open.spotify.com/track/6iJnmbCDoNWdnDeEFudk1f"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Interstellar.",
+        "url": "https://open.spotify.com/album/09q6uMoetRAZ4ESnPaEM1F"
+      },
+      "artists": [
+        {
+          "name": "chromonicci",
+          "url": "https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 235339,
+      "name": "Interstellar.",
+      "url": "https://open.spotify.com/track/4k9BF0WyAx8l8GaB9oJzyV"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Freeway (with Estelle)",
         "url": "https://open.spotify.com/album/2o1dIZfifqYphPXxxsprwZ"
       },
@@ -1303,26 +1323,6 @@
       "duration_ms": 174092,
       "name": "Hourglass",
       "url": "https://open.spotify.com/track/7udNt8rbaYcuYKaAtkA8qn"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Interstellar.",
-        "url": "https://open.spotify.com/album/09q6uMoetRAZ4ESnPaEM1F"
-      },
-      "artists": [
-        {
-          "name": "chromonicci",
-          "url": "https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 235339,
-      "name": "Interstellar.",
-      "url": "https://open.spotify.com/track/4k9BF0WyAx8l8GaB9oJzyV"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "HYPNOS",
-        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 207906,
-      "name": "M.I.A.",
-      "url": "https://open.spotify.com/track/4uVDdOZMZZunYYKHVvm6WZ"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "D.W.Y.W. (Do What You Want)",
         "url": "https://open.spotify.com/album/4w9VuxCHKZ3tBTCvYgNgCL"
       },
@@ -1467,6 +1451,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "HYPNOS",
+        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 207906,
+      "name": "M.I.A.",
+      "url": "https://open.spotify.com/track/4uVDdOZMZZunYYKHVvm6WZ"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Three Dimensions Deep",
         "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
       },
@@ -1479,6 +1479,22 @@
       "duration_ms": 158373,
       "name": "Bubbles",
       "url": "https://open.spotify.com/track/2Z1hvUB3unIudQSRVGTBC2"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Forbidden Feelingz",
+        "url": "https://open.spotify.com/album/27l2BTUmETSHmFQwsZyzTa"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 129220,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/5Y8LjJ9Riiw8i5d6D06fYS"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1507,22 +1523,6 @@
       "duration_ms": 205330,
       "name": "90s - Remix",
       "url": "https://open.spotify.com/track/1NzjKlRWYEfH3UORKH0zyD"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Forbidden Feelingz",
-        "url": "https://open.spotify.com/album/27l2BTUmETSHmFQwsZyzTa"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 129220,
-      "name": "Part Of Me",
-      "url": "https://open.spotify.com/track/5Y8LjJ9Riiw8i5d6D06fYS"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Play With The Changes",
+        "url": "https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 237929,
+      "name": "Already",
+      "url": "https://open.spotify.com/track/0Bef4OMTKyY908qrX0O0cs"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Can't Shut Us Down",
         "url": "https://open.spotify.com/album/19VPME5BsYWcAkyxz17rj9"
       },
@@ -1603,22 +1619,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Play With The Changes",
-        "url": "https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 237929,
-      "name": "Already",
-      "url": "https://open.spotify.com/track/0Bef4OMTKyY908qrX0O0cs"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "HYPNOS",
         "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
       },
@@ -1631,6 +1631,22 @@
       "duration_ms": 178200,
       "name": "Xtasy",
       "url": "https://open.spotify.com/track/0jqJNqmrdryU1nnctIzu9n"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "So Badly",
+        "url": "https://open.spotify.com/album/3v3waqFybLYp6P4iKAmzg9"
+      },
+      "artists": [
+        {
+          "name": "Liv East",
+          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
+        }
+      ],
+      "duration_ms": 230002,
+      "name": "So Badly",
+      "url": "https://open.spotify.com/track/1kQf4Q7IdIAJYK80DAj6eR"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1651,22 +1667,6 @@
       "duration_ms": 233658,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/0gfZlbWWWd1VKvwQHOI0wS"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "So Badly",
-        "url": "https://open.spotify.com/album/3v3waqFybLYp6P4iKAmzg9"
-      },
-      "artists": [
-        {
-          "name": "Liv East",
-          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
-        }
-      ],
-      "duration_ms": 230002,
-      "name": "So Badly",
-      "url": "https://open.spotify.com/track/1kQf4Q7IdIAJYK80DAj6eR"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1719,6 +1719,26 @@
       "duration_ms": 108645,
       "name": "Desire",
       "url": "https://open.spotify.com/track/7k765bfiLdo2d3NIUxu4KQ"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "All Along (Kaytranada Remix)",
+        "url": "https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 284606,
+      "name": "All Along (Kaytranada Remix)",
+      "url": "https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1787,26 +1807,6 @@
       "duration_ms": 217791,
       "name": "Treat U Good",
       "url": "https://open.spotify.com/track/7tqs4OKzl896INyq5af4Qu"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "All Along (Kaytranada Remix)",
-        "url": "https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 284606,
-      "name": "All Along (Kaytranada Remix)",
-      "url": "https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6"
     },
     {
       "added_at": "2023-12-08 05:00:00",

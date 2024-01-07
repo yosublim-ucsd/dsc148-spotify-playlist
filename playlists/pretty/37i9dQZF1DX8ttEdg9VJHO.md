@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 
 > Für ein bisschen mehr Leichtigkeit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,689 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,707 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,15 +45,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 35 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 |
 | 36 | [Call You Home](https://open.spotify.com/track/13fKofkr63VqPpBCwv5D1j) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [Stop the Moment \(Deluxe\)](https://open.spotify.com/album/31up7nR5ex0xB1e3fFvmG4) | 2:54 |
 | 37 | [Schön genug](https://open.spotify.com/track/2S5FeDvQmmI9iLq8SdCsB2) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Kuss.](https://open.spotify.com/album/6o39VGaYw6CC8gJL3e0rGs) | 3:18 |
-| 38 | [Ghost of You](https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Ghost of You](https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI) | 2:38 |
-| 39 | [Ready To Be Loved](https://open.spotify.com/track/1DqxoM9tJrH8VElhileZ2v) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Ready To Be Loved](https://open.spotify.com/album/0n154sm1hveOmE5VKenM9n) | 3:00 |
+| 38 | [Ready To Be Loved](https://open.spotify.com/track/1DqxoM9tJrH8VElhileZ2v) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Ready To Be Loved](https://open.spotify.com/album/0n154sm1hveOmE5VKenM9n) | 3:00 |
+| 39 | [Ghost of You](https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Ghost of You](https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI) | 2:38 |
 | 40 | [miss me \(when you're gone\)](https://open.spotify.com/track/33eSunUHnta6mPW3EoTuRw) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [miss me \(when you're gone\) remixes](https://open.spotify.com/album/1pEipsUVstkQ8cbB1hSr8I) | 3:04 |
 | 41 | [Jim Carrey](https://open.spotify.com/track/6nTTiI03SJDXC9252gWGrN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:03 |
 | 42 | [Pretty Boys](https://open.spotify.com/track/698ehyxjqZ7i06vUJQFviN) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Thanks For Nothing, See You Never](https://open.spotify.com/album/3z0cezSSci6BbzON9y9LXc) | 2:20 |
 | 43 | [Mehr davon](https://open.spotify.com/track/7rwAzZpANJEN0vn0pzYONW) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [Mehr davon](https://open.spotify.com/album/7u16dLnOhtHtBXt9FAVImm) | 2:53 |
 | 44 | [The Hardest Part](https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Hardest Part](https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA) | 2:56 |
-| 45 | [Steht Mir](https://open.spotify.com/track/28z6EGq7hL41nBLCny3U1e) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Sie](https://open.spotify.com/album/1cX0czWPIRtDrC5kdMiNB1) | 2:45 |
-| 46 | [Butterflies \(feat\. FLETCHER\)](https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Butterflies \(feat\. FLETCHER\)](https://open.spotify.com/album/3Li6WQzAn1Jdf947DyHanb) | 3:11 |
+| 45 | [Butterflies \(feat\. FLETCHER\)](https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Butterflies \(feat\. FLETCHER\)](https://open.spotify.com/album/3Li6WQzAn1Jdf947DyHanb) | 3:11 |
+| 46 | [Steht Mir](https://open.spotify.com/track/28z6EGq7hL41nBLCny3U1e) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Sie](https://open.spotify.com/album/1cX0czWPIRtDrC5kdMiNB1) | 2:45 |
 | 47 | [Flugmodus](https://open.spotify.com/track/2iNzRQE0MlCaSHbHGzmbN2) | [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW) | [Flugmodus](https://open.spotify.com/album/3c5nMaXOVRSlECOQPB4TAy) | 2:58 |
 | 48 | [I Made It](https://open.spotify.com/track/4dkf6Qfmy7730BwwIqyb4Y) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Made It](https://open.spotify.com/album/6IEdMBcT6BR8cvNx8dneew) | 4:29 |
 | 49 | [iD \(feat\. Gentleman\)](https://open.spotify.com/track/1mKnXWjyN6MUYpz84F4u7A) | [Michael Patrick Kelly](https://open.spotify.com/artist/4OGiMt96TFUKkKWf7Imlno), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [iD \- Extended Version](https://open.spotify.com/album/7v515yhRxwupP2zrj5w7OH) | 3:18 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 62 | [Best You Ever Had](https://open.spotify.com/track/2NwttTTC9PXdnIOXggpzEk) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Best You Ever Had](https://open.spotify.com/album/0vL34mO5klplb791wYYGbK) | 2:47 |
 | 63 | [Last Call](https://open.spotify.com/track/4EXfwVdsRBBcyuSSy3CMlT) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Broken Memories](https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys) | 2:31 |
 | 64 | [Psycho](https://open.spotify.com/track/6YZwJSMNL7hB4ItxZtn7jx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Psycho](https://open.spotify.com/album/5UBAspHjoGNtNAvHAf5aSI) | 3:04 |
-| 65 | [Wild Stare](https://open.spotify.com/track/6NZUOG0R0uxIBkcQ6BIqfq) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [ROOKERY](https://open.spotify.com/album/28WPMClVfDtMHaNrrjbPcX) | 3:14 |
-| 66 | [Sweethoneylove](https://open.spotify.com/track/7b2POkPyH8bNtbb4I66Nrt) | [Baba Blakes](https://open.spotify.com/artist/55sIdXMuyRafLJo665SJlq) | [Sweethoneylove](https://open.spotify.com/album/79HdCrzbPStOTw648gYTuQ) | 2:30 |
+| 65 | [Sweethoneylove](https://open.spotify.com/track/7b2POkPyH8bNtbb4I66Nrt) | [Baba Blakes](https://open.spotify.com/artist/55sIdXMuyRafLJo665SJlq) | [Sweethoneylove](https://open.spotify.com/album/79HdCrzbPStOTw648gYTuQ) | 2:30 |
+| 66 | [Wild Stare](https://open.spotify.com/track/6NZUOG0R0uxIBkcQ6BIqfq) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [ROOKERY](https://open.spotify.com/album/28WPMClVfDtMHaNrrjbPcX) | 3:14 |
 | 67 | [How Many Moons](https://open.spotify.com/track/6iF73wEQMGzFeSh8hob5so) | [LUI HILL](https://open.spotify.com/artist/3fuo46vtxoWxN4jo0irBTS) | [How Many Moons](https://open.spotify.com/album/52UTuP81SsIORoHYbDjWc9) | 3:03 |
 | 68 | [Not Ready](https://open.spotify.com/track/2O9VKLv8pPmGM3PHTzQrKA) | [Myle](https://open.spotify.com/artist/1EhPRkK8hf1SzrDhzPlaMw) | [Not Ready](https://open.spotify.com/album/3ehwkHOVfqCDgizH3vGXLa) | 3:00 |
 | 69 | [Remember Me](https://open.spotify.com/track/78MATjjZr1LB5RNntxSCGY) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Remember Me](https://open.spotify.com/album/5eSlr42inu5AFjbZ2Wo6RZ) | 3:34 |
 | 70 | [Keep It Low](https://open.spotify.com/track/1lvLAlvWIuE6UinQffsWVb) | [Martis](https://open.spotify.com/artist/4IlwiL1INGzXlZLcXM5dRI) | [Keep It Low](https://open.spotify.com/album/44X8n4NJte0z53s6ENScsA) | 2:52 |
 
-Snapshot ID: `MCwyNTA4ZjJjNzAwZTg2MDdlNDRhYjI5MmRlY2VjN2Q2MTdjMzFiMzJj`
+Snapshot ID: `MCw2ZTlkNTUyMjJlZWMzYmY4Zjk3NGU0ZTk0MjMzMjUzMTI5MTAxN2Q5`

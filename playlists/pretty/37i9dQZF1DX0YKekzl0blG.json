@@ -1,12 +1,12 @@
 {
   "description": "All the indelible tunes from the other side of the 00s. Cover: Santigold",
-  "num_followers": 695174,
+  "num_followers": 695241,
   "original_name": "Alternative 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmE3MWRkOGZkM2YyYWJjMjg5MTA2NDI5YmVjNGJhMjIzYWM0MzM4",
+  "snapshot_id": "MCxiMDhhNGYzYzUxZjMxMGFiM2JkMmNlODI5YzI3YjQ3MDRlMzljZTU0",
   "tracks": [
     {
       "added_at": "2022-11-17 20:15:32",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
-        "name": "Kala",
-        "url": "https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu"
-      },
-      "artists": [
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Paper Planes",
-      "url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a"
-    },
-    {
-      "added_at": "2022-11-17 20:15:32",
-      "album": {
         "name": "Writer's Block",
         "url": "https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 276693,
       "name": "Young Folks",
       "url": "https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj"
+    },
+    {
+      "added_at": "2022-11-17 20:15:32",
+      "album": {
+        "name": "Kala",
+        "url": "https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "Paper Planes",
+      "url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a"
     },
     {
       "added_at": "2022-11-17 20:15:32",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
-        "name": "Thirteen Tales From Urban Bohemia",
-        "url": "https://open.spotify.com/album/3RFenjlpdmIfkYATMdkbak"
-      },
-      "artists": [
-        {
-          "name": "The Dandy Warhols",
-          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
-        }
-      ],
-      "duration_ms": 211706,
-      "name": "Bohemian Like You",
-      "url": "https://open.spotify.com/track/3APHT3KjbHi9OllkVQsuXF"
-    },
-    {
-      "added_at": "2022-11-17 20:15:32",
-      "album": {
         "name": "Walking On A Dream",
         "url": "https://open.spotify.com/album/3qFui1PcteHFky44CeUflG"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 198440,
       "name": "Walking On A Dream",
       "url": "https://open.spotify.com/track/3HfhB8sYqLlVmpBPb7cc2x"
+    },
+    {
+      "added_at": "2022-11-17 20:15:32",
+      "album": {
+        "name": "Thirteen Tales From Urban Bohemia",
+        "url": "https://open.spotify.com/album/3RFenjlpdmIfkYATMdkbak"
+      },
+      "artists": [
+        {
+          "name": "The Dandy Warhols",
+          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "Bohemian Like You",
+      "url": "https://open.spotify.com/track/3APHT3KjbHi9OllkVQsuXF"
     },
     {
       "added_at": "2022-11-17 20:15:32",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
-        "name": "Veneer",
-        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 161680,
-      "name": "Heartbeats",
-      "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
-    },
-    {
-      "added_at": "2022-11-17 20:15:32",
-      "album": {
         "name": "Give Up (Deluxe 10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 266506,
       "name": "Such Great Heights - Remastered",
       "url": "https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI"
+    },
+    {
+      "added_at": "2022-11-17 20:15:32",
+      "album": {
+        "name": "Veneer",
+        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 161680,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
     },
     {
       "added_at": "2022-11-17 20:15:32",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
-        "name": "Turn On The Bright Lights",
-        "url": "https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG"
-      },
-      "artists": [
-        {
-          "name": "Interpol",
-          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
-        }
-      ],
-      "duration_ms": 251293,
-      "name": "Obstacle 1",
-      "url": "https://open.spotify.com/track/1ZBqJilDGBVYktvlCEo9jC"
-    },
-    {
-      "added_at": "2022-11-17 20:15:32",
-      "album": {
         "name": "Yoshimi Battles the Pink Robots",
         "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 213173,
       "name": "Do You Realize??",
       "url": "https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ"
+    },
+    {
+      "added_at": "2022-11-17 20:15:32",
+      "album": {
+        "name": "Turn On The Bright Lights",
+        "url": "https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG"
+      },
+      "artists": [
+        {
+          "name": "Interpol",
+          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+        }
+      ],
+      "duration_ms": 251293,
+      "name": "Obstacle 1",
+      "url": "https://open.spotify.com/track/1ZBqJilDGBVYktvlCEo9jC"
     },
     {
       "added_at": "2022-11-17 20:15:32",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
+        "name": "This Is Happening",
+        "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 536471,
+      "name": "Dance Yrself Clean",
+      "url": "https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ"
+    },
+    {
+      "added_at": "2022-11-17 20:15:32",
+      "album": {
         "name": "Eyelid Movies",
         "url": "https://open.spotify.com/album/6smJTxDxrnxi6fPfFWYSQV"
       },
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
-        "name": "This Is Happening",
-        "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
+        "name": "Crystal Castles",
+        "url": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
       },
       "artists": [
         {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+          "name": "Crystal Castles",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         }
       ],
-      "duration_ms": 536471,
-      "name": "Dance Yrself Clean",
-      "url": "https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ"
+      "duration_ms": 258453,
+      "name": "Crimewave",
+      "url": "https://open.spotify.com/track/1xzsEmaU4IXjvxxwQlA8Lz"
     },
     {
       "added_at": "2022-11-17 20:15:32",
@@ -1207,22 +1223,6 @@
       "duration_ms": 364613,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh"
-    },
-    {
-      "added_at": "2022-11-17 20:15:32",
-      "album": {
-        "name": "Crystal Castles",
-        "url": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
-      },
-      "artists": [
-        {
-          "name": "Crystal Castles",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-        }
-      ],
-      "duration_ms": 258453,
-      "name": "Crimewave",
-      "url": "https://open.spotify.com/track/1xzsEmaU4IXjvxxwQlA8Lz"
     },
     {
       "added_at": "2022-11-17 20:15:32",

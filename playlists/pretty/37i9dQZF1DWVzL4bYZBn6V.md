@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 
 > 50 canciones que llenan tu rutina de pura energía.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,009 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,054 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 | 36 | [Won’t Give Up](https://open.spotify.com/track/1MWyASNuARY5NrHVPh81lx) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Won't Give Up](https://open.spotify.com/album/6cgX5pGfRM5YccxFeFKZr1) | 3:02 |
 | 37 | [Memories](https://open.spotify.com/track/56cy1gTx6GpTjKBIFGdfe9) | [Luis JR](https://open.spotify.com/artist/0z9vGUlGF7lS5px3Y77Mjj), [D'ALEX](https://open.spotify.com/artist/0FE798xrpeoQtmsv8TjvM4) | [Memories](https://open.spotify.com/album/0IZU361PqM4rU93o9LNoBR) | 3:36 |
 | 38 | [Hold My Hand](https://open.spotify.com/track/0Qi4Xlh524Bj3EPmhwyDux) | [Maciel](https://open.spotify.com/artist/18EPLdbAm32pw1FUJUFMN0), [Delove](https://open.spotify.com/artist/70UpusffkLbUh9zPyOgvZt) | [Hold My Hand](https://open.spotify.com/album/5DA84BeSN1TYtyk9poJ24C) | 2:51 |
-| 39 | [OOF \(Out Of Office Forever\)](https://open.spotify.com/track/3wZrmARwWF8g4XXu5yDT66) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH) | [OOF \(Out Of Office Forever\)](https://open.spotify.com/album/6FdN7rdTvgCtpodN0A4vsm) | 2:53 |
-| 40 | [Hey You \(Love Comes First\)](https://open.spotify.com/track/1S1HrkjxspECOxst4NJavc) | [Chemical Neon](https://open.spotify.com/artist/4mAq0LHObKTj1SaNZ9Nt8K), [Trosk](https://open.spotify.com/artist/63VhQFmCaLpDaNuPWftJCN), [LiMa](https://open.spotify.com/artist/5jbXNyTXpJYKeYsmweGIgH) | [Hey You \(Love Comes First\)](https://open.spotify.com/album/7yNA4WraWbiML4PlkxtI8I) | 3:07 |
+| 39 | [Hey You \(Love Comes First\)](https://open.spotify.com/track/1S1HrkjxspECOxst4NJavc) | [Chemical Neon](https://open.spotify.com/artist/4mAq0LHObKTj1SaNZ9Nt8K), [Trosk](https://open.spotify.com/artist/63VhQFmCaLpDaNuPWftJCN), [LiMa](https://open.spotify.com/artist/5jbXNyTXpJYKeYsmweGIgH) | [Hey You \(Love Comes First\)](https://open.spotify.com/album/7yNA4WraWbiML4PlkxtI8I) | 3:07 |
+| 40 | [OOF \(Out Of Office Forever\)](https://open.spotify.com/track/3wZrmARwWF8g4XXu5yDT66) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH) | [OOF \(Out Of Office Forever\)](https://open.spotify.com/album/6FdN7rdTvgCtpodN0A4vsm) | 2:53 |
 | 41 | [Fooling Me](https://open.spotify.com/track/1WoH0L7MJQphYNo0gyi4WD) | [Gaminow](https://open.spotify.com/artist/0JboxlhX1MrKdJAQyYZILH), [Gama](https://open.spotify.com/artist/4z5hE5cqCfTsCZ60IVAgRC), [Minow](https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen) | [Fooling Me](https://open.spotify.com/album/5CTsLfUjU2O5RnKwbK1dsw) | 3:11 |
 | 42 | [One A Day](https://open.spotify.com/track/09VGT0e2aYkoCVNRjOPKZa) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [One A Day](https://open.spotify.com/album/7a3CD5WnyDxWxpCaBQHYHx) | 3:12 |
 | 43 | [Nada](https://open.spotify.com/track/1mlm9a4lCSLazplVoS15Fn) | [Madhouse](https://open.spotify.com/artist/74YcnRxZTY5Nu1RIqS8ovS), [Angel Vergara](https://open.spotify.com/artist/5MPkxfxPIhOca5QfYPfP2x) | [Nada](https://open.spotify.com/album/5NTJKD9sSSUkWDBfTjp7E1) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 | 49 | [Push Me](https://open.spotify.com/track/6aaC97briYYZqVPMSjvJOm) | [Minow](https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen), [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD), [House Music Bro](https://open.spotify.com/artist/6CK6I6I7fKtcThateyQpVY) | [Push Me](https://open.spotify.com/album/3P5litolcBSrBCXCOijk0A) | 4:25 |
 | 50 | [Vampiro \(Pyura Remix\)](https://open.spotify.com/track/4XGyifnRty1FI3qQe8bhet) | [Lucas & The Woods](https://open.spotify.com/artist/4OIDWn0ASVx73rysnf6pqA), [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Vampiro \(Pyura Remix\)](https://open.spotify.com/album/2IcmfBYtzX45pZmlo8yV0q) | 3:40 |
 
-Snapshot ID: `MCw3MTY3Yjg3YjM5ODU1YzM0OGY4OTMxYWU3NTM1NDc0YmUyMjgwZTQz`
+Snapshot ID: `MCxmNzFiNmI0MWE5NzY5NGQzMjc3ZmUyYzljNjRlODZjMTdhYjFmNDk3`

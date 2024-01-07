@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 
 > Get up\. Stand up\. Be the revolution.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,464 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,511 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 | 18 | [This Is War](https://open.spotify.com/track/2D52zjCyqEIQa221lhw6uk) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [This Is War](https://open.spotify.com/album/6OlCoydaNFUU7v1Xo5ZJPx) | 5:26 |
 | 19 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 |
 | 20 | [Icky Thump](https://open.spotify.com/track/2LMq1O0NiqGhPOlXo3McYQ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC) | 4:14 |
-| 21 | [Fuck Authority](https://open.spotify.com/track/3Id64dLhfH7z0mmcylxuNp) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Land Of The Free?](https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly) | 3:16 |
-| 22 | [Go To War](https://open.spotify.com/track/0w9kjN3wZAO8dNk11kv2XE) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [The Stories We Tell Ourselves](https://open.spotify.com/album/0A3y56apHg0MRM83MLBwhM) | 4:05 |
+| 21 | [Go To War](https://open.spotify.com/track/0w9kjN3wZAO8dNk11kv2XE) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [The Stories We Tell Ourselves](https://open.spotify.com/album/0A3y56apHg0MRM83MLBwhM) | 4:05 |
+| 22 | [Fuck Authority](https://open.spotify.com/track/3Id64dLhfH7z0mmcylxuNp) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Land Of The Free?](https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly) | 3:16 |
 | 23 | [Blasphemy](https://open.spotify.com/track/6r7bDk4J0Okw4ezTBUQXo3) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 4:35 |
 | 24 | [Take The Power Back](https://open.spotify.com/track/25CbtOzU8Pn17SAaXFjIR3) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine \- XX \(20th Anniversary Special Edition\)](https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4) | 5:36 |
 | 25 | [Darkside](https://open.spotify.com/track/3JyvSSU0VnlMUsQckyEVfX) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 2](https://open.spotify.com/album/6puy3Q1mjuizTB4i91Xorq) | 3:49 |
@@ -45,16 +45,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 | 35 | [I Don't Wanna Be Blind](https://open.spotify.com/track/30gtuczW6s6jj2OUVj5rat) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 2:04 |
 | 36 | [The Doomed](https://open.spotify.com/track/4D07vsUEpOoMO1LmFknt3D) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Eat The Elephant](https://open.spotify.com/album/7nnNLD5cv828YSFxXaezRm) | 4:41 |
 | 37 | [Heroes](https://open.spotify.com/track/3mwLIWu6drN0n6t9e5bwjG) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Us and Them \(Deluxe Edition\)](https://open.spotify.com/album/311sQUy4H8IFHsY9j8kx5q) | 3:24 |
-| 38 | [Machine Gun \(F\*\*k The NRA\)](https://open.spotify.com/track/223Ng7eyUcCmFwX9lZdqjD) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [21st Century Liability](https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq) | 3:13 |
-| 39 | [Rise](https://open.spotify.com/track/66bz5iH5p8zBSbgvs84ygh) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [Prayers for the Damned](https://open.spotify.com/album/1BRJvLviuSqyFpInvec0lk) | 3:53 |
+| 38 | [Rise](https://open.spotify.com/track/66bz5iH5p8zBSbgvs84ygh) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [Prayers for the Damned](https://open.spotify.com/album/1BRJvLviuSqyFpInvec0lk) | 3:53 |
+| 39 | [Machine Gun \(F\*\*k The NRA\)](https://open.spotify.com/track/223Ng7eyUcCmFwX9lZdqjD) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [21st Century Liability](https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq) | 3:13 |
 | 40 | [Stick Up](https://open.spotify.com/track/5ZSKZ0wMdlMi4bQ3XZXXsp) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 1](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV) | 3:42 |
 | 41 | [Save Us](https://open.spotify.com/track/3fHpYJimyZ4Nzk3mHgRTBk) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Baptize](https://open.spotify.com/album/0onI0aisDxDHLmhgjD5tYF) | 2:21 |
 | 42 | [DOA \[Feat\. Joyner Lucas\]](https://open.spotify.com/track/78fUyqhfdpL5aaD12QSGCi) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [DOA \[Feat\. Joyner Lucas\]](https://open.spotify.com/album/4mcoqib00QAFwabXPGH9kY) | 3:38 |
 | 43 | [American Attraction](https://open.spotify.com/track/7p2xDNGlBBTQu2YEb6qLqG) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts) | 2:56 |
 | 44 | [Riot!](https://open.spotify.com/track/6dtEw6NRpYgHJ5PwnU5U1k) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [Fear](https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8) | 3:24 |
 | 45 | [Hail To The Victor](https://open.spotify.com/track/64gbzSMPloO2SNBTk3PG3h) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [AMERICA](https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39) | 3:21 |
-| 46 | [Prophets Of Rage](https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg) | [Prophets Of Rage](https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY) | [Prophets Of Rage](https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j) | 3:10 |
-| 47 | [JU$T \(feat\. Pharrell Williams & Zack de la Rocha\)](https://open.spotify.com/track/0YdjfAmUyxF4Dh0HNEhmoI) | [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [RTJ4](https://open.spotify.com/album/74LenWKjMdGa2qJiI1sxwT) | 3:25 |
+| 46 | [JU$T \(feat\. Pharrell Williams & Zack de la Rocha\)](https://open.spotify.com/track/0YdjfAmUyxF4Dh0HNEhmoI) | [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [RTJ4](https://open.spotify.com/album/74LenWKjMdGa2qJiI1sxwT) | 3:25 |
+| 47 | [Prophets Of Rage](https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg) | [Prophets Of Rage](https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY) | [Prophets Of Rage](https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j) | 3:10 |
 | 48 | [Made An America](https://open.spotify.com/track/0Q6AD7e7d9tpN1dXL4qh5P) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Made An America](https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G) | 2:53 |
 | 49 | [Mirrors](https://open.spotify.com/track/4esDZrFzW7QEYBgYyFkd6y) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [Fear](https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8) | 3:06 |
 | 50 | [Middle Fingers](https://open.spotify.com/track/1RgvTl4vQN4qECtnO1guEp) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Loner](https://open.spotify.com/album/08iSi4GIyoDt2zSvNyru7M) | 3:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 | 74 | [Power \(feat\. Frank Carter\)](https://open.spotify.com/track/1hoNvw0gHJTRYWuFRGuk8I) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU), [Frank Carter](https://open.spotify.com/artist/1DzJ1Edw9hfy8sVnkAnhCf) | [Foreign Language](https://open.spotify.com/album/60awL9wRAPqkETLzNgVGvi) | 1:52 |
 | 75 | [Forever](https://open.spotify.com/track/4KsMTsVpgVRQvPKhYkm0ff) | [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Forever](https://open.spotify.com/album/0aLxkTiBf1CQC726cDBA7m) | 2:51 |
 
-Snapshot ID: `MCxiZmQ3MTU1MjczNjJiNGFmZjg3MTk1YTc5NzBiZWRmYmExMmIxMjQ4`
+Snapshot ID: `MCxlMWExMmQ5YjMwMDk5MDFlOGIyZjdiZTlhZjZlY2Y5MGNkZTJkZWE4`

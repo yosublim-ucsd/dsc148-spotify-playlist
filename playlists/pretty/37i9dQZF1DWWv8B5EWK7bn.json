@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 173723,
+  "num_followers": 173845,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDY5YmZmODkzNjZhZGE4MDM0N2ZjOTNiY2QyNzQwZTJlMjg4MjRi",
+  "snapshot_id": "MCw3ZWFlNzM5MDQ1NDMxOTMyMTk0NTk3YmMyZjExZDZjNDNkNGYyOTQ4",
   "tracks": [
     {
       "added_at": "2023-11-23 03:01:01",
@@ -189,22 +189,6 @@
       "url": "https://open.spotify.com/track/6pcJGuExZqLqi5SY5CSULh"
     },
     {
-      "added_at": "2023-11-10 01:13:32",
-      "album": {
-        "name": "Sun Girl",
-        "url": "https://open.spotify.com/album/34cvl46Fs5VoDm7DzS5ZeR"
-      },
-      "artists": [
-        {
-          "name": "Julia Holter",
-          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
-        }
-      ],
-      "duration_ms": 352670,
-      "name": "Sun Girl",
-      "url": "https://open.spotify.com/track/0sMgwHapnEjJ7ixPHuvE8m"
-    },
-    {
       "added_at": "2023-12-20 03:20:48",
       "album": {
         "name": "Thumbtack",
@@ -219,6 +203,22 @@
       "duration_ms": 130399,
       "name": "Thumbtack",
       "url": "https://open.spotify.com/track/67WuAkWNUHZqV8FOgDrz7R"
+    },
+    {
+      "added_at": "2023-11-10 01:13:32",
+      "album": {
+        "name": "Sun Girl",
+        "url": "https://open.spotify.com/album/34cvl46Fs5VoDm7DzS5ZeR"
+      },
+      "artists": [
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "duration_ms": 352670,
+      "name": "Sun Girl",
+      "url": "https://open.spotify.com/track/0sMgwHapnEjJ7ixPHuvE8m"
     },
     {
       "added_at": "2023-10-13 15:35:55",
@@ -341,6 +341,22 @@
       "url": "https://open.spotify.com/track/5gpEgBBVfRQRJCC7qfC0bu"
     },
     {
+      "added_at": "2022-08-31 04:34:22",
+      "album": {
+        "name": "If I Were A Butterfly",
+        "url": "https://open.spotify.com/album/11R59ESDiW114ngszKUkyH"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 311948,
+      "name": "If I Were A Butterfly - Single Version",
+      "url": "https://open.spotify.com/track/0oUBTMblmGqB5fBibdslTw"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Hildegard",
@@ -365,20 +381,20 @@
       "url": "https://open.spotify.com/track/1RLMR4pVuuHEzn8mOe1U2s"
     },
     {
-      "added_at": "2022-08-31 04:34:22",
+      "added_at": "2021-10-15 03:46:13",
       "album": {
-        "name": "If I Were A Butterfly",
-        "url": "https://open.spotify.com/album/11R59ESDiW114ngszKUkyH"
+        "name": "Mouth Full of Glass",
+        "url": "https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq"
       },
       "artists": [
         {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+          "name": "Macie Stewart",
+          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
         }
       ],
-      "duration_ms": 311948,
-      "name": "If I Were A Butterfly - Single Version",
-      "url": "https://open.spotify.com/track/0oUBTMblmGqB5fBibdslTw"
+      "duration_ms": 215583,
+      "name": "Garter Snake",
+      "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
     },
     {
       "added_at": "2023-10-22 04:22:10",
@@ -407,22 +423,6 @@
       "duration_ms": 249798,
       "name": "Habadash",
       "url": "https://open.spotify.com/track/6yaL3ufWIdKC1HGJb4TQae"
-    },
-    {
-      "added_at": "2021-10-15 03:46:13",
-      "album": {
-        "name": "Mouth Full of Glass",
-        "url": "https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq"
-      },
-      "artists": [
-        {
-          "name": "Macie Stewart",
-          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
-        }
-      ],
-      "duration_ms": 215583,
-      "name": "Garter Snake",
-      "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
     },
     {
       "added_at": "2023-12-22 16:06:56",
@@ -521,22 +521,6 @@
       "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
     },
     {
-      "added_at": "2022-07-15 05:42:04",
-      "album": {
-        "name": "Arkhon",
-        "url": "https://open.spotify.com/album/4fAgGEM3LIMho5Brx5Gio9"
-      },
-      "artists": [
-        {
-          "name": "Zola Jesus",
-          "url": "https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P"
-        }
-      ],
-      "duration_ms": 204262,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5NIrChwN4QRg8sGrFalgMU"
-    },
-    {
       "added_at": "2022-02-25 03:06:43",
       "album": {
         "name": "You Belong There",
@@ -551,6 +535,22 @@
       "duration_ms": 369231,
       "name": "Unpeopled Space",
       "url": "https://open.spotify.com/track/1DrBZs238KS2V3SYfE0ShK"
+    },
+    {
+      "added_at": "2022-07-15 05:42:04",
+      "album": {
+        "name": "Arkhon",
+        "url": "https://open.spotify.com/album/4fAgGEM3LIMho5Brx5Gio9"
+      },
+      "artists": [
+        {
+          "name": "Zola Jesus",
+          "url": "https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P"
+        }
+      ],
+      "duration_ms": 204262,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5NIrChwN4QRg8sGrFalgMU"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -625,6 +625,58 @@
       "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "The Universe Is Always Right",
+        "url": "https://open.spotify.com/album/4rBLc32F42YkJevRUImfqJ"
+      },
+      "artists": [
+        {
+          "name": "Hayden Thorpe",
+          "url": "https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d"
+        }
+      ],
+      "duration_ms": 244390,
+      "name": "The Universe Is Always Right",
+      "url": "https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo"
+    },
+    {
+      "added_at": "2023-06-26 14:17:57",
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 425036,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
+    },
+    {
+      "added_at": "2023-08-15 18:36:31",
+      "album": {
+        "name": "Sus Dog",
+        "url": "https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f"
+      },
+      "artists": [
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        },
+        {
+          "name": "Anika",
+          "url": "https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5"
+        }
+      ],
+      "duration_ms": 276045,
+      "name": "Sus Dog",
+      "url": "https://open.spotify.com/track/4SIy0CT0thjNx55TAeBq6x"
+    },
+    {
       "added_at": "2022-09-29 00:57:24",
       "album": {
         "name": "Meditations on Crime",
@@ -649,58 +701,6 @@
       "url": "https://open.spotify.com/track/5vyoWTsI8hVl9fJHqW2ieb"
     },
     {
-      "added_at": "2023-06-26 14:17:57",
-      "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 425036,
-      "name": "attention",
-      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "The Universe Is Always Right",
-        "url": "https://open.spotify.com/album/4rBLc32F42YkJevRUImfqJ"
-      },
-      "artists": [
-        {
-          "name": "Hayden Thorpe",
-          "url": "https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d"
-        }
-      ],
-      "duration_ms": 244390,
-      "name": "The Universe Is Always Right",
-      "url": "https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo"
-    },
-    {
-      "added_at": "2023-08-15 18:36:31",
-      "album": {
-        "name": "Sus Dog",
-        "url": "https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f"
-      },
-      "artists": [
-        {
-          "name": "Clark",
-          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
-        },
-        {
-          "name": "Anika",
-          "url": "https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5"
-        }
-      ],
-      "duration_ms": 276045,
-      "name": "Sus Dog",
-      "url": "https://open.spotify.com/track/4SIy0CT0thjNx55TAeBq6x"
-    },
-    {
       "added_at": "2023-11-23 03:04:21",
       "album": {
         "name": "Chaos Magic",
@@ -719,6 +719,22 @@
       "duration_ms": 214575,
       "name": "Palace In My Head",
       "url": "https://open.spotify.com/track/0VjY5jJjnDruOnMhMqkAks"
+    },
+    {
+      "added_at": "2023-08-24 03:26:17",
+      "album": {
+        "name": "RPG",
+        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
+      },
+      "artists": [
+        {
+          "name": "Me Lost Me",
+          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
+        }
+      ],
+      "duration_ms": 227120,
+      "name": "Heat!",
+      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
     },
     {
       "added_at": "2022-07-19 04:00:00",
@@ -753,22 +769,6 @@
       "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
     },
     {
-      "added_at": "2023-08-24 03:26:17",
-      "album": {
-        "name": "RPG",
-        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
-      },
-      "artists": [
-        {
-          "name": "Me Lost Me",
-          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
-        }
-      ],
-      "duration_ms": 227120,
-      "name": "Heat!",
-      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
-    },
-    {
       "added_at": "2022-10-05 14:12:30",
       "album": {
         "name": "All Through The Day",
@@ -787,6 +787,22 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
+        "name": "Centre",
+        "url": "https://open.spotify.com/album/2JizQfhhkRRiyOFlwVikV7"
+      },
+      "artists": [
+        {
+          "name": "Mt. Mountain",
+          "url": "https://open.spotify.com/artist/0bnTW40PsAYmEgWwucEpS4"
+        }
+      ],
+      "duration_ms": 280404,
+      "name": "Aplomb",
+      "url": "https://open.spotify.com/track/2W0eN3BqaBz4WeInKnQmCR"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
         "name": "Moot!",
         "url": "https://open.spotify.com/album/6E2kC2kf3D5iXQDY3KQBgT"
       },
@@ -799,6 +815,22 @@
       "duration_ms": 297239,
       "name": "Right is Alright, Wrong is to Belong",
       "url": "https://open.spotify.com/track/2AkzUxAscto4cIeJSl2aBt"
+    },
+    {
+      "added_at": "2023-12-20 04:44:18",
+      "album": {
+        "name": "Agitprop Alterna",
+        "url": "https://open.spotify.com/album/56o75WZe4MrgNj1wL0769C"
+      },
+      "artists": [
+        {
+          "name": "Peel Dream Magazine",
+          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
+        }
+      ],
+      "duration_ms": 314059,
+      "name": "Up and Up",
+      "url": "https://open.spotify.com/track/5DICKyBTFX6rzXTRrZH6iz"
     },
     {
       "added_at": "2023-10-23 19:41:11",
@@ -817,22 +849,6 @@
       "url": "https://open.spotify.com/track/4iiHscmntHnZmeLs4U9hSr"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Centre",
-        "url": "https://open.spotify.com/album/2JizQfhhkRRiyOFlwVikV7"
-      },
-      "artists": [
-        {
-          "name": "Mt. Mountain",
-          "url": "https://open.spotify.com/artist/0bnTW40PsAYmEgWwucEpS4"
-        }
-      ],
-      "duration_ms": 280404,
-      "name": "Aplomb",
-      "url": "https://open.spotify.com/track/2W0eN3BqaBz4WeInKnQmCR"
-    },
-    {
       "added_at": "2023-03-23 20:08:51",
       "album": {
         "name": "Ready To Ball",
@@ -847,22 +863,6 @@
       "duration_ms": 207484,
       "name": "Ready To Ball",
       "url": "https://open.spotify.com/track/7AN04wyG4AnzJN3cR20CQT"
-    },
-    {
-      "added_at": "2023-12-20 04:44:18",
-      "album": {
-        "name": "Agitprop Alterna",
-        "url": "https://open.spotify.com/album/56o75WZe4MrgNj1wL0769C"
-      },
-      "artists": [
-        {
-          "name": "Peel Dream Magazine",
-          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
-        }
-      ],
-      "duration_ms": 314059,
-      "name": "Up and Up",
-      "url": "https://open.spotify.com/track/5DICKyBTFX6rzXTRrZH6iz"
     },
     {
       "added_at": "2023-01-20 04:21:17",
@@ -939,22 +939,6 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Life, and Another",
-        "url": "https://open.spotify.com/album/4xeTLqZJ2RHgawaBVDth5d"
-      },
-      "artists": [
-        {
-          "name": "Mega Bog",
-          "url": "https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO"
-        }
-      ],
-      "duration_ms": 265815,
-      "name": "Station to Station",
-      "url": "https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
         "name": "Ookii Gekkou",
         "url": "https://open.spotify.com/album/11MIPinn4hd7yrNsL7tOtG"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 290373,
       "name": "Big Moonlight (Ookii Gekkou)",
       "url": "https://open.spotify.com/track/343FRF9gbsQRFesy9H2V5M"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Life, and Another",
+        "url": "https://open.spotify.com/album/4xeTLqZJ2RHgawaBVDth5d"
+      },
+      "artists": [
+        {
+          "name": "Mega Bog",
+          "url": "https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO"
+        }
+      ],
+      "duration_ms": 265815,
+      "name": "Station to Station",
+      "url": "https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX"
     },
     {
       "added_at": "2023-10-25 14:03:48",
@@ -1033,20 +1033,20 @@
       "url": "https://open.spotify.com/track/6C47LOLFv234e3YO5HFj6D"
     },
     {
-      "added_at": "2023-08-08 03:45:10",
+      "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Highlight",
-        "url": "https://open.spotify.com/album/2MZZi4fuP7DkF5a59woyIU"
+        "name": "Room For The Moon",
+        "url": "https://open.spotify.com/album/5KduXFab1jkKushmutNYbq"
       },
       "artists": [
         {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+          "name": "Kate NV",
+          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
         }
       ],
-      "duration_ms": 197500,
-      "name": "Highlight",
-      "url": "https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa"
+      "duration_ms": 338371,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/7qCsvM2VP5cAbMFgBbS60B"
     },
     {
       "added_at": "2023-01-20 04:21:17",
@@ -1085,40 +1085,20 @@
       "url": "https://open.spotify.com/track/24IXYn8kl7J2E5pByVQHuj"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
+      "added_at": "2023-08-08 03:45:10",
       "album": {
-        "name": "Room For The Moon",
-        "url": "https://open.spotify.com/album/5KduXFab1jkKushmutNYbq"
+        "name": "Highlight",
+        "url": "https://open.spotify.com/album/2MZZi4fuP7DkF5a59woyIU"
       },
       "artists": [
         {
-          "name": "Kate NV",
-          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
         }
       ],
-      "duration_ms": 338371,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/7qCsvM2VP5cAbMFgBbS60B"
-    },
-    {
-      "added_at": "2023-10-27 23:56:32",
-      "album": {
-        "name": "There is only love and fear",
-        "url": "https://open.spotify.com/album/7BbJbTCSb20LE3uSXSA2Y0"
-      },
-      "artists": [
-        {
-          "name": "Bex Burch",
-          "url": "https://open.spotify.com/artist/1tdT4MNoOC6sagnhU2XEbQ"
-        },
-        {
-          "name": "Macie Stewart",
-          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
-        }
-      ],
-      "duration_ms": 290026,
-      "name": "Dawn blessings",
-      "url": "https://open.spotify.com/track/0Qxgm4flEqA09NPyvMaM12"
+      "duration_ms": 197500,
+      "name": "Highlight",
+      "url": "https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa"
     },
     {
       "added_at": "2022-09-09 13:45:31",
@@ -1139,6 +1119,26 @@
       "duration_ms": 207253,
       "name": "Jolene From Her Own Perspective",
       "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
+    },
+    {
+      "added_at": "2023-10-27 23:56:32",
+      "album": {
+        "name": "There is only love and fear",
+        "url": "https://open.spotify.com/album/7BbJbTCSb20LE3uSXSA2Y0"
+      },
+      "artists": [
+        {
+          "name": "Bex Burch",
+          "url": "https://open.spotify.com/artist/1tdT4MNoOC6sagnhU2XEbQ"
+        },
+        {
+          "name": "Macie Stewart",
+          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
+        }
+      ],
+      "duration_ms": 290026,
+      "name": "Dawn blessings",
+      "url": "https://open.spotify.com/track/0Qxgm4flEqA09NPyvMaM12"
     },
     {
       "added_at": "2023-11-13 17:30:13",
@@ -1189,6 +1189,22 @@
       "url": "https://open.spotify.com/track/4oxYyTVMHCt9PJkr92Wu4V"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Robber",
+        "url": "https://open.spotify.com/album/2qx7Ow0ojN6OPb64V5b5t5"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 320524,
+      "name": "Robber",
+      "url": "https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK"
+    },
+    {
       "added_at": "2023-10-28 00:52:25",
       "album": {
         "name": "Cielo Falso",
@@ -1211,22 +1227,6 @@
       "duration_ms": 456692,
       "name": "Cielo Falso",
       "url": "https://open.spotify.com/track/4zGWX3Jx6vCQ4EHVe6Gnn2"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Robber",
-        "url": "https://open.spotify.com/album/2qx7Ow0ojN6OPb64V5b5t5"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 320524,
-      "name": "Robber",
-      "url": "https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK"
     },
     {
       "added_at": "2023-03-31 19:12:14",
@@ -1621,22 +1621,6 @@
       "url": "https://open.spotify.com/track/7Jvh5sZpSvxs8qLw5bUIsM"
     },
     {
-      "added_at": "2022-08-31 04:56:45",
-      "album": {
-        "name": "Sunset Dreams",
-        "url": "https://open.spotify.com/album/6SSE8rmfK2n5D10pJYBaYX"
-      },
-      "artists": [
-        {
-          "name": "Jane Weaver",
-          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
-        }
-      ],
-      "duration_ms": 215831,
-      "name": "Don't Tell Me I'm Wrong",
-      "url": "https://open.spotify.com/track/4NUBJ6FdoxJWGaLD5IAw5p"
-    },
-    {
       "added_at": "2022-08-25 19:38:46",
       "album": {
         "name": "A Liberdade \u00e9 Cara",
@@ -1655,6 +1639,22 @@
       "duration_ms": 380973,
       "name": "A Liberdade \u00e9 Cara",
       "url": "https://open.spotify.com/track/5ZRDV496C5qfNwfrC5yUQb"
+    },
+    {
+      "added_at": "2022-08-31 04:56:45",
+      "album": {
+        "name": "Sunset Dreams",
+        "url": "https://open.spotify.com/album/6SSE8rmfK2n5D10pJYBaYX"
+      },
+      "artists": [
+        {
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
+        }
+      ],
+      "duration_ms": 215831,
+      "name": "Don't Tell Me I'm Wrong",
+      "url": "https://open.spotify.com/track/4NUBJ6FdoxJWGaLD5IAw5p"
     },
     {
       "added_at": "2022-02-09 04:03:27",

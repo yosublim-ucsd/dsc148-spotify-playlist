@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Bring Me The Horizon \(pictured\), Lewis Capaldi, The Last Dinner Party and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,521 likes - 99 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,582 likes - 99 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 29 | [Gud Times](https://open.spotify.com/track/6JGxpOIvC4eg135PZXNNgq) | [ESS\_WEST](https://open.spotify.com/artist/58iRq7azYuQYiNFoCmmVA2) | [Gud Times](https://open.spotify.com/album/0VOnYKNZ0EQnm13nNcTlvv) | 1:38 |
 | 30 | [Allstars Mic \(feat\. DnB Allstars\)](https://open.spotify.com/track/1rjKPOQxqTZLh9eYaCpiFW) | [P D X](https://open.spotify.com/artist/4ubF3RfKMHBfC1GCyeBp4q), [StillZ](https://open.spotify.com/artist/6Zw8mgfAFYRQdzjPDNLdf9), [DnB Allstars](https://open.spotify.com/artist/6BZteNwG1mxgEFJvBaAGLx) | [Allstars Mic \(feat\. DnB Allstars\)](https://open.spotify.com/album/2Ps67Asay6s4BlV0I90Tzf) | 2:45 |
 | 31 | [run away girl](https://open.spotify.com/track/1uMo2HFIfKc3NJVl73L1zj) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [run away girl](https://open.spotify.com/album/4xQRkjMaZOd86l11TKj1D2) | 3:50 |
-| 32 | [Popular](https://open.spotify.com/track/2mLdzWGyTKkrogQ8hGIWpO) | [Yung Fume](https://open.spotify.com/artist/1h5mZb0u9bcFGeViohj87o), [Sinclaire](https://open.spotify.com/artist/5QWWdroDmOS0wvzkjrypwv) | [Popular](https://open.spotify.com/album/2JEeqUS98gIdjcGkRj5lTw) | 2:13 |
+| 32 | [Popular](https://open.spotify.com/track/2mLdzWGyTKkrogQ8hGIWpO) | [Yung Fume](https://open.spotify.com/artist/1h5mZb0u9bcFGeViohj87o), [Sinclaire](https://open.spotify.com/artist/1UtUpATVQb47jSq0Tquigs) | [Popular](https://open.spotify.com/album/2JEeqUS98gIdjcGkRj5lTw) | 2:13 |
 | 33 | [Overpowered](https://open.spotify.com/track/7uK5JxAsY8gkZpe0WxF0Rt) | [Smokey Bubblin' B](https://open.spotify.com/artist/1iXq8vdKgJp43m1vhiAmUM), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Overpowered](https://open.spotify.com/album/51ewt5eIln1nQrlxfIO3hw) | 2:40 |
 | 34 | [Glorious](https://open.spotify.com/track/670fDWKpqkG8uwT0rKYwjp) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [Glorious](https://open.spotify.com/album/49BkCKiRXVi1Oreyafvnuy) | 3:15 |
 | 35 | [I Miss Your Laugh](https://open.spotify.com/track/4ysvwcb5hScA0Gkna4SyG1) | [Kamakaze](https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm) | [I Miss Your Laugh](https://open.spotify.com/album/5IXgLb5cy1voOaMdG2nSmy) | 3:05 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 98 | [Ain't Misbehavin'](https://open.spotify.com/track/1d0P00e6Esi37XOWiDlvG9) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Ain't Misbehavin'](https://open.spotify.com/album/5mWDJe2FHrLyGSNVux1nw0) | 2:26 |
 | 99 | [Always Be My Man](https://open.spotify.com/track/2p3EVCmbKI4O72S6kTRdXL) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4), [Luke Evans](https://open.spotify.com/artist/0MO42HJhUFrv078qALxpPQ) | [Always Be My Man](https://open.spotify.com/album/5hnOIy6Hw9dHsROVHUOQBJ) | 3:24 |
 
-Snapshot ID: `MCwxMDViYmMzNDU4ZjdhNTQ2ZjdiYzc3YWUwOTk4NjJiMThmZTE2Njk1`
+Snapshot ID: `MCxkZDM1MmE5NjEzNjY1YzNiNzU1YzgzMWFiZjQxZWE3NmUxNDg4NzA5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 
 > 2011 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,963 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,072 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 | 17 | [Featherstone](https://open.spotify.com/track/5KaN2M7seUV4uyNFp4twv6) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ) | 3:49 |
 | 18 | [Stuck on the puzzle](https://open.spotify.com/track/3cUxncrTWSA9lhlQbuIwUY) | [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S) | [Submarine \- Original Songs From The Film By Alex Turner](https://open.spotify.com/album/3OqRGywivnQ0IeClUeUa4n) | 3:31 |
 | 19 | [Junk Of The Heart \(Happy\)](https://open.spotify.com/track/2jZgzSxNSg1hTCq0ewWHGJ) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Junk Of The Heart](https://open.spotify.com/album/2HfdqVaLccOvzfsHej9A8g) | 3:07 |
-| 20 | [Helena Beat](https://open.spotify.com/track/4VbDJMkAX3dWNBdn3KH6Wx) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 4:36 |
-| 21 | [The Bay](https://open.spotify.com/track/2akjLHnHjDGsgqxuf48VYs) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 4:50 |
+| 20 | [The Bay](https://open.spotify.com/track/2akjLHnHjDGsgqxuf48VYs) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 4:50 |
+| 21 | [Helena Beat](https://open.spotify.com/track/4VbDJMkAX3dWNBdn3KH6Wx) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 4:36 |
 | 22 | [Shake It Out](https://open.spotify.com/track/4lY95OMGb9WxP6IYut64ir) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Deluxe Edition\)](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) | 4:37 |
 | 23 | [Love is a Laserquest](https://open.spotify.com/track/0S6CXA5LpRDX6b4akgrOot) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst) | 3:11 |
 | 24 | [Little Black Submarines](https://open.spotify.com/track/1PXsUXSM3LF2XNSkmIldPb) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 4:11 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 | 93 | [Bizness](https://open.spotify.com/track/08oSPuXfichvi5VRAaewbV) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi) | [W H O K I L L](https://open.spotify.com/album/3ZjiKy5Tb1MIFRyGBBzoos) | 4:23 |
 | 94 | [Landfill](https://open.spotify.com/track/271FGAt4bz1jAIN661Uq2c) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [His Young Heart](https://open.spotify.com/album/7sONOKbe7yLIfXeJPaSt3j) | 4:23 |
 | 95 | [Comeback Kid \(That's My Dog\)](https://open.spotify.com/track/4Jjr9IXCJVWIXOTuXDBNoq) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Loverboy](https://open.spotify.com/album/1tTnc3AhId4QUgGR69cCF8) | 3:25 |
-| 96 | [East Harlem](https://open.spotify.com/track/4i6O75iAptEnENjKLOLZ9Y) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [The Rip Tide](https://open.spotify.com/album/7HYptJX2aQJPWbxXviXLwQ) | 3:58 |
-| 97 | [Come Home](https://open.spotify.com/track/40DTE6OONWvsNlWNtsjZyj) | [CHAPPO](https://open.spotify.com/artist/0fdMBzQuX9TIF6t6N8fwg6) | [Moonwater \(Deluxe Edition\)](https://open.spotify.com/album/59kCQ8ak5Aarnoz80CPlpo) | 3:27 |
+| 96 | [Come Home](https://open.spotify.com/track/40DTE6OONWvsNlWNtsjZyj) | [CHAPPO](https://open.spotify.com/artist/0fdMBzQuX9TIF6t6N8fwg6) | [Moonwater \(Deluxe Edition\)](https://open.spotify.com/album/59kCQ8ak5Aarnoz80CPlpo) | 3:27 |
+| 97 | [East Harlem](https://open.spotify.com/track/4i6O75iAptEnENjKLOLZ9Y) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [The Rip Tide](https://open.spotify.com/album/7HYptJX2aQJPWbxXviXLwQ) | 3:58 |
 | 98 | [Hanging On](https://open.spotify.com/track/7kyubWDfd6Lv6ItXgENaM4) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU) | [You Are All I See](https://open.spotify.com/album/3ognTnle2G22rlIv9iU9JR) | 5:21 |
 | 99 | [Space Is Only Noise If You Can See](https://open.spotify.com/track/5zdXRoKLZ54VBdbdn7yhz4) | [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W) | [Space Is Only Noise](https://open.spotify.com/album/6h1AzRdT3rTjT5wRMgjYvh) | 5:42 |
 | 100 | [The Cascades](https://open.spotify.com/track/0doAllpYP3hnusnTwFqmdG) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Helplessness Blues](https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb) | 2:07 |
 
-Snapshot ID: `MCw2OTczOWU0MTk2NTU1ZWQ2NWE0YTczOTEyMGNjMmFhOGI2ZTAzYjRj`
+Snapshot ID: `MCxiNjQ4OGQzOGRhN2MwZGJhZjIzZWE5ZGQwNWFjYjY5MzVlMzZjNGU0`

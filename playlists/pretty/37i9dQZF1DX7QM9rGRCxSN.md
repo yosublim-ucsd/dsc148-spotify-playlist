@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > Belleza y distorsión imaginada por bandas iberoamericanas\. Estrella del Sol en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,001 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,024 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 6 | [lejos](https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:22 |
 | 7 | [Lo Bonito de la Muerte](https://open.spotify.com/track/2nAIfmQAygqNH6SV01bNsD) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Rizoma](https://open.spotify.com/album/51ABCq7no09mPcnuPY7kP2) | 6:22 |
 | 8 | [Viajar en Metro](https://open.spotify.com/track/7FDjq6dp6gUjsqsSWchDZ1) | [Patio Solar](https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax) | [Los Movimientos](https://open.spotify.com/album/5y42cHtbjVLQhuLWbcEwja) | 5:02 |
-| 9 | [Hazy Youth](https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD) | [Trementina](https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X) | [Almost Reach the Sun](https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS) | 3:02 |
-| 10 | [te odio](https://open.spotify.com/track/4UBuT5jRH2VG7BmrfWWpX7) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [te odio](https://open.spotify.com/album/3RkgXX6vMLvfQVJ9cocFVt) | 2:50 |
+| 9 | [te odio](https://open.spotify.com/track/4UBuT5jRH2VG7BmrfWWpX7) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [te odio](https://open.spotify.com/album/3RkgXX6vMLvfQVJ9cocFVt) | 2:50 |
+| 10 | [Hazy Youth](https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD) | [Trementina](https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X) | [Almost Reach the Sun](https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS) | 3:02 |
 | 11 | [Wow](https://open.spotify.com/track/5nO4n8RClXZg2ugsBU9hXy) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Margaritas Podridas](https://open.spotify.com/album/4dbNoziUmHyqx6CIPAic9t) | 5:19 |
 | 12 | [tdbn](https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:14 |
 | 13 | [Nubes](https://open.spotify.com/track/03DwGjU8lK4wiDdgSett0i) | [Policias y Ladrones](https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd) | [Nubes](https://open.spotify.com/album/7t0vBigNHXs9SuwH1AaJXd) | 3:14 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 27 | [Santos Que Yo Te Pinte](https://open.spotify.com/track/1L4irrN3TGmOHS65WM1g4W) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Unidad De Desplazamiento](https://open.spotify.com/album/3CALAHUrBmAtGjVj82x5tz) | 4:39 |
 | 28 | [Todo Va a Estar Bien](https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Todo Va a Estar Bien](https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw) | 3:15 |
 | 29 | [Duramos Más Cuando Menos Nos Conocemos](https://open.spotify.com/track/4bFLWgZkJuPoa1Js25VQU8) | [Coma Pony](https://open.spotify.com/artist/6CoQb7w1IH2ZGgJZV0HaC9) | [Duramos Más Cuando Menos Nos Conocemos](https://open.spotify.com/album/5RwW7blxdp4AtsWPKJ9Qk2) | 3:08 |
-| 30 | [Boni Naitó](https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Fuera de Lugar](https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO) | 4:43 |
-| 31 | [Mapas](https://open.spotify.com/track/4KBhtcvm7Rb91wTMIVtZKP) | [Rayo](https://open.spotify.com/artist/1r5mgN3pd36xjsZSZOvST9) | [Jungla](https://open.spotify.com/album/0s8OB2LMGu6l9NyfJgvsvC) | 3:03 |
+| 30 | [Mapas](https://open.spotify.com/track/4KBhtcvm7Rb91wTMIVtZKP) | [Rayo](https://open.spotify.com/artist/1r5mgN3pd36xjsZSZOvST9) | [Jungla](https://open.spotify.com/album/0s8OB2LMGu6l9NyfJgvsvC) | 3:03 |
+| 31 | [Boni Naitó](https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Fuera de Lugar](https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO) | 4:43 |
 | 32 | [Ceremonia](https://open.spotify.com/track/4E7o5iEkv5jl7NIvXfcUUV) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Margaritas Podridas](https://open.spotify.com/album/4dbNoziUmHyqx6CIPAic9t) | 4:59 |
 | 33 | [Especial](https://open.spotify.com/track/1nkXSpEZCAHEI7yTxm5ZZp) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Especial](https://open.spotify.com/album/5KeUNMEECvCWzmtJSmXprZ) | 4:02 |
 | 34 | [D'arcy](https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 6:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 49 | [paisaje](https://open.spotify.com/track/5IQen1GR2hsjtpXkEnvOmX) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT), [OM53](https://open.spotify.com/artist/2n2zrJvvOxdEIdumy0FrwA) | [paisaje](https://open.spotify.com/album/6GTbegYCgONoryeg5056Xx) | 3:41 |
 | 50 | [Como Rei Ayanami](https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n) | [Dan Dan Dero](https://open.spotify.com/artist/2auDyHZC2XT2E5kV6dyBPR) | [Como Rei Ayanami](https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW) | 2:57 |
 
-Snapshot ID: `MCxmODQ2NjY2ODU0YzRlMTdkNmRmOTk1MzYyNjA0NzNjNTljOThiOWUy`
+Snapshot ID: `MCw2ZmE5YmJhZTY1N2NiMWVjMzA5ZjgxYTlkNTM5ZjZiMzc3MmIxY2Zm`

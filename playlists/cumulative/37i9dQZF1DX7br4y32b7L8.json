@@ -278,7 +278,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 141334,
       "name": "ALL MY FELLAS",
       "url": "https://open.spotify.com/track/1ckhUtD8nBH2ShPlU8w2nU"
@@ -1252,7 +1252,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 126857,
       "name": "Deli",
       "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
@@ -1766,7 +1766,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 146086,
       "name": "Friesenjung",
       "url": "https://open.spotify.com/track/6tAKikIvnoWfUeZrfkopLL"
@@ -3978,7 +3978,7 @@
       ],
       "date_added": "2023-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 149538,
       "name": "Ongezien",
       "url": "https://open.spotify.com/track/2PJyGfXFYv6XzBvrO1szhQ"
@@ -4806,7 +4806,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 189800,
       "name": "Sar\u00e0 perch\u00e9 ti amo",
       "url": "https://open.spotify.com/track/6OMjtuz1sYVsHpdeZPUR1n"
@@ -4992,10 +4992,28 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 193234,
       "name": "Sky",
       "url": "https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ"
+    },
+    {
+      "album": {
+        "name": "Slaaptekort",
+        "url": "https://open.spotify.com/album/0ij3zgWFzKvI1qxTvg0F3b"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "Slaaptekort",
+      "url": "https://open.spotify.com/track/454sfR8RN4bdHG3yn1IlzC"
     },
     {
       "album": {
@@ -5658,7 +5676,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 137000,
       "name": "Trainingspak",
       "url": "https://open.spotify.com/track/62bNZie9JmywI2z8AAEHeL"
@@ -6138,7 +6156,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 224000,
       "name": "Wie Ben Jij - Sped Up",
       "url": "https://open.spotify.com/track/5Wgkd6dgFvjLadervYGJHH"

@@ -1,12 +1,12 @@
 {
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Mitski",
-  "num_followers": 807997,
+  "num_followers": 808094,
   "original_name": "Infinite Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmZmZjNmYjUwYjZiYjI0ZDQ0OTcxYjJlODQ4NzdhNWUyYmEzMDIw",
+  "snapshot_id": "MCwxYzcwODcxNGU5MGJmYTVlMGNkNzJiZTcyMGE0ZGRmNDdhZjU3MWYx",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Dragon New Warm Mountain I Believe In You",
-        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 187388,
-      "name": "Certainty",
-      "url": "https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Good Riddance (Deluxe)",
         "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 259592,
       "name": "Amelie",
       "url": "https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 187388,
+      "name": "Certainty",
+      "url": "https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Hadsel",
-        "url": "https://open.spotify.com/album/1jhgsccCbT1WXtmGUuZvIA"
-      },
-      "artists": [
-        {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
-        }
-      ],
-      "duration_ms": 294835,
-      "name": "Hadsel",
-      "url": "https://open.spotify.com/track/0qYdqIxjSTK9Wu7wuPZ2i4"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "I Lied",
         "url": "https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 234383,
       "name": "I Lied (with Allison Ponthier)",
       "url": "https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Hadsel",
+        "url": "https://open.spotify.com/album/1jhgsccCbT1WXtmGUuZvIA"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "duration_ms": 294835,
+      "name": "Hadsel",
+      "url": "https://open.spotify.com/track/0qYdqIxjSTK9Wu7wuPZ2i4"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Bright Green Vibrant Gray",
-        "url": "https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 219507,
-      "name": "Bright Green Vibrant Gray",
-      "url": "https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Little Oblivions",
         "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 174773,
       "name": "Faith Healer",
       "url": "https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Bright Green Vibrant Gray",
+        "url": "https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 219507,
+      "name": "Bright Green Vibrant Gray",
+      "url": "https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "A Running Start",
-        "url": "https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 261165,
-      "name": "A Running Start",
-      "url": "https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "I Know, I Know",
         "url": "https://open.spotify.com/album/4Igy7nnJ4KXVI0RShJHMNf"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 180619,
       "name": "I Know, I Know",
       "url": "https://open.spotify.com/track/6lROAnjIlzlaFPzUYjhygu"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "A Running Start",
+        "url": "https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 261165,
+      "name": "A Running Start",
+      "url": "https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "Victory",
+      "url": "https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Alabama Haint",
         "url": "https://open.spotify.com/album/11cZUoRDf5kWxxfCUjzKHg"
       },
@@ -1511,38 +1527,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "Victory",
-      "url": "https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Walking in the Air",
-        "url": "https://open.spotify.com/album/5HeEv4JIJTpJ4hgxnBIUcH"
-      },
-      "artists": [
-        {
-          "name": "Mimicking Birds",
-          "url": "https://open.spotify.com/artist/5PifaykkaJRJlWbUz3H0od"
-        }
-      ],
-      "duration_ms": 257842,
-      "name": "Walking in the Air",
-      "url": "https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Quietly Blowing It",
         "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 208142,
       "name": "Glory Strums (Loneliness of the Long-Distance Runner)",
       "url": "https://open.spotify.com/track/3BxIJ9VN7BdE7MuArlAhAv"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Rubber",
+        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Rubber",
+      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Rubber",
-        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
+        "name": "Walking in the Air",
+        "url": "https://open.spotify.com/album/5HeEv4JIJTpJ4hgxnBIUcH"
       },
       "artists": [
         {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+          "name": "Mimicking Birds",
+          "url": "https://open.spotify.com/artist/5PifaykkaJRJlWbUz3H0od"
         }
       ],
-      "duration_ms": 198373,
-      "name": "Rubber",
-      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
+      "duration_ms": 257842,
+      "name": "Walking in the Air",
+      "url": "https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Bedouine (Deluxe)",
+        "url": "https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "Nice and Quiet",
+      "url": "https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 210353,
       "name": "Kyoto - Spotify Singles",
       "url": "https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Bedouine (Deluxe)",
-        "url": "https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB"
-      },
-      "artists": [
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "Nice and Quiet",
-      "url": "https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Old Flowers",
-        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 298013,
-      "name": "If I Told",
-      "url": "https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Norm",
         "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 179280,
       "name": "Halloween Store",
       "url": "https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Old Flowers",
+        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 298013,
+      "name": "If I Told",
+      "url": "https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "The Weather Station",
-        "url": "https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "Thirty",
-      "url": "https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Cool Dry Place",
         "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
       },
@@ -1775,6 +1759,38 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "The Weather Station",
+        "url": "https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "Thirty",
+      "url": "https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "A River Running to Your Heart",
+        "url": "https://open.spotify.com/album/2n4dZnB3Iz7wWPdDQO3auX"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 226996,
+      "name": "Rushin' River Valley",
+      "url": "https://open.spotify.com/track/7axHflLoQmVH6K28TSnWuu"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Sundowner",
         "url": "https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk"
       },
@@ -1787,6 +1803,26 @@
       "duration_ms": 244573,
       "name": "Valley",
       "url": "https://open.spotify.com/track/4MoCLZnuRqgdEKaz0wL5h4"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Feel (with Kyson)",
+        "url": "https://open.spotify.com/album/7ag6US432XEiupeaKuQIcD"
+      },
+      "artists": [
+        {
+          "name": "YUUL",
+          "url": "https://open.spotify.com/artist/5JDHEnjHZtQdcSkMY6mWqN"
+        },
+        {
+          "name": "Kyson",
+          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Feel - with Kyson",
+      "url": "https://open.spotify.com/track/2OmxtFDC3E0AYNr3Rixnx4"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1819,42 +1855,6 @@
       "duration_ms": 246800,
       "name": "Bad Moves",
       "url": "https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "A River Running to Your Heart",
-        "url": "https://open.spotify.com/album/2n4dZnB3Iz7wWPdDQO3auX"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 226996,
-      "name": "Rushin' River Valley",
-      "url": "https://open.spotify.com/track/7axHflLoQmVH6K28TSnWuu"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Feel (with Kyson)",
-        "url": "https://open.spotify.com/album/7ag6US432XEiupeaKuQIcD"
-      },
-      "artists": [
-        {
-          "name": "YUUL",
-          "url": "https://open.spotify.com/artist/5JDHEnjHZtQdcSkMY6mWqN"
-        },
-        {
-          "name": "Kyson",
-          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Feel - with Kyson",
-      "url": "https://open.spotify.com/track/2OmxtFDC3E0AYNr3Rixnx4"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1995,6 +1995,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "The Years",
+        "url": "https://open.spotify.com/album/7zcCuIj4uZhrx1WfPfe9Gx"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 160822,
+      "name": "Witness Trees",
+      "url": "https://open.spotify.com/track/0TE3gM7LQPiiYsNFv7crzl"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Habit",
         "url": "https://open.spotify.com/album/55M9iNIkBo7cCYe17KcPD7"
       },
@@ -2027,22 +2043,6 @@
       "duration_ms": 219680,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "The Years",
-        "url": "https://open.spotify.com/album/7zcCuIj4uZhrx1WfPfe9Gx"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 160822,
-      "name": "Witness Trees",
-      "url": "https://open.spotify.com/track/0TE3gM7LQPiiYsNFv7crzl"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "The World We Built",
-        "url": "https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern"
-      },
-      "artists": [
-        {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
-        }
-      ],
-      "duration_ms": 328120,
-      "name": "Everything Looks Better (In Hindsight)",
-      "url": "https://open.spotify.com/track/4IL5B1c7iUHMA5Rr1ucNo6"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Moving Away",
         "url": "https://open.spotify.com/album/2dSPhyyjETTAF5hZMEZaHn"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 220671,
       "name": "Moving Away",
       "url": "https://open.spotify.com/track/4SQvFRCAM6FY9ljcyQ1IMO"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "The World We Built",
+        "url": "https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 328120,
+      "name": "Everything Looks Better (In Hindsight)",
+      "url": "https://open.spotify.com/track/4IL5B1c7iUHMA5Rr1ucNo6"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Satan / Jacob Rose",
-        "url": "https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I"
-      },
-      "artists": [
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        }
-      ],
-      "duration_ms": 196264,
-      "name": "Satan",
-      "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Pick Apart",
         "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 199146,
       "name": "Bloomsday",
       "url": "https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Satan / Jacob Rose",
+        "url": "https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 196264,
+      "name": "Satan",
+      "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "El Invento",
-        "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 153413,
-      "name": "El Invento",
-      "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 206950,
       "name": "Everything Everything",
       "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "El Invento",
+        "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 153413,
+      "name": "El Invento",
+      "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2467,22 +2467,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Big Picture",
-        "url": "https://open.spotify.com/album/08AEeRKieqKS9Z9tU8SnPr"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 165133,
-      "name": "Pick",
-      "url": "https://open.spotify.com/track/2opMGBCXLhtv94ffMd6vBf"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Every Day Like the Last",
         "url": "https://open.spotify.com/album/6C204NEUleEqcKH4igE8ZL"
       },
@@ -2495,6 +2479,22 @@
       "duration_ms": 182525,
       "name": "Every Day Like the Last",
       "url": "https://open.spotify.com/track/1iJxsYXQI3uTGlChp7UqMB"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Big Picture",
+        "url": "https://open.spotify.com/album/08AEeRKieqKS9Z9tU8SnPr"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 165133,
+      "name": "Pick",
+      "url": "https://open.spotify.com/track/2opMGBCXLhtv94ffMd6vBf"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2563,18 +2563,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Exploding",
-        "url": "https://open.spotify.com/album/72GQuGC9XNu3WnvOh45KbZ"
+        "name": "I Believe in Something More",
+        "url": "https://open.spotify.com/album/2rKIHcjKHe52kvPeAUZ5rO"
       },
       "artists": [
         {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+          "name": "Hayden Calnin",
+          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
         }
       ],
-      "duration_ms": 241712,
-      "name": "Exploding",
-      "url": "https://open.spotify.com/track/6yNYd418PyTvOM9WkHSUcf"
+      "duration_ms": 181111,
+      "name": "I Believe in Something More",
+      "url": "https://open.spotify.com/track/7eOYNPtD0tq3Q0JJ7JxwjQ"
     }
   ],
   "unique_name": "Infinite Indie Folk",

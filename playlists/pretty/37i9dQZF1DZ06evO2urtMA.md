@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2urtMA.md) - [plain]
 
 > This is Narrow Head\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,524 likes - 25 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,525 likes - 25 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2urtMA.md) - [plain]
 | 7 | [Make It Hurt](https://open.spotify.com/track/69jVsEla1GaZYEzinH4kDb) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Far Removed](https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a) | 4:02 |
 | 8 | [Sunday](https://open.spotify.com/track/3Xf7P2K1gXivN5KzULbNdU) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:18 |
 | 9 | [Stay](https://open.spotify.com/track/6Glr1Wc0TZ5Ta1BCbrvaHG) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Satisfaction](https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg) | 3:58 |
-| 10 | [12th House](https://open.spotify.com/track/1thpTj5LbAQbWTzPBbWRQX) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 1:28 |
+| 10 | [Night Tryst](https://open.spotify.com/track/6t7JhxmZXS0YrYgvQyRWZ1) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 3:23 |
 | 11 | [Nervous Habits](https://open.spotify.com/track/3iIOUEPbQDG2XQNeckP62n) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Far Removed](https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a) | 3:51 |
 | 12 | [The Real](https://open.spotify.com/track/6Ux3fUYIKunILT948gEFMM) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:30 |
 | 13 | [Necrosis](https://open.spotify.com/track/46FwqZts74DdH7mWvG1SpG) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Satisfaction](https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg) | 3:44 |
-| 14 | [Night Tryst](https://open.spotify.com/track/6t7JhxmZXS0YrYgvQyRWZ1) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 3:23 |
+| 14 | [12th House](https://open.spotify.com/track/1thpTj5LbAQbWTzPBbWRQX) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 1:28 |
 | 15 | [Far Removed](https://open.spotify.com/track/5NwYO5OtL5LBXAYCAkqSfe) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Far Removed](https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a) | 3:50 |
 | 16 | [Caroline](https://open.spotify.com/track/1QihdrOippsltEK1LqdbPI) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:32 |
 | 17 | [Feels Like Sand](https://open.spotify.com/track/5ok41XptV2v9yhm92Cp0RK) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Satisfaction](https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg) | 2:44 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2urtMA.md) - [plain]
 | 24 | [Trepanation](https://open.spotify.com/track/79Sx3cIdMZNYxIpJX27O4P) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:29 |
 | 25 | [Crankcase](https://open.spotify.com/track/0RjC1vmqEEWPHWdgS8g0B3) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 1:59 |
 
-Snapshot ID: `Mjg0MDc3MDMsMDAwMDAwMDA4NTlhOGRiMjljMDI4MDg0MDM2OGExZmY3NWFjYWE0Yw==`
+Snapshot ID: `Mjg0MDkwNTYsMDAwMDAwMDAzMjJhNjk5ZWMyNjg4NjQ1OWFiMjBkZjU0ZTViYTVkYw==`

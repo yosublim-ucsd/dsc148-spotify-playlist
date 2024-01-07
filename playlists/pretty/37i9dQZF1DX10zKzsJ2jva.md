@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 
 > Today's top Latin hits, elevando nuestra música\. Cover: Xavi
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,621,911 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,626,743 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 | 49 | [EL AMOR DE SU VIDA](https://open.spotify.com/track/0O3U5iwTbiXCREMkvotJuN) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:45 |
 | 50 | [El Correcto](https://open.spotify.com/track/4tYgQrGwhpvjfq4ryajgUo) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Correcto](https://open.spotify.com/album/1mM3IeOAt840NlJXVNWUWH) | 2:48 |
 
-Snapshot ID: `MCw4YTBmNmUwOTZmZWY5NWI4MGY4OWRlZjM1NzhjNTc3MGE3YjdjOTBm`
+Snapshot ID: `MCw4MjgwMzU2MWM1Y2NhODg2ZGYxYzhlNzE0MzcxZDE1MmZlYWFkNTkz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: ROYA\(로야\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,906 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,930 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 25 | [WINTER FLOWER\(Feat.RM\)](https://open.spotify.com/track/4Eefey3uN90Abhbr47zKmC) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [UNSTABLE MINDSET](https://open.spotify.com/album/7tY3mqjeJaMr6RFJYnjI2s) | 3:41 |
 | 26 | [She's In The Rain](https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Dawn](https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV) | 3:57 |
 | 27 | [BOCA](https://open.spotify.com/track/2u7p3Bzkv8h0Yx7w7R370n) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Lose Myself\]](https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz) | 3:09 |
-| 28 | [Freakin' Bad](https://open.spotify.com/track/1gZxcX80pR6xThd2waYjuq) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Deadlock](https://open.spotify.com/album/3jkLKeTkRsRehIUkPFHubG) | 3:03 |
-| 29 | [Traffic light](https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Traffic light](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) | 3:51 |
+| 28 | [Traffic light](https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Traffic light](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) | 3:51 |
+| 29 | [Freakin' Bad](https://open.spotify.com/track/1gZxcX80pR6xThd2waYjuq) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Deadlock](https://open.spotify.com/album/3jkLKeTkRsRehIUkPFHubG) | 3:03 |
 | 30 | [FAKE LOVE \- Rocking Vibe Mix](https://open.spotify.com/track/1WjGvMbHE23jEipydV80Mu) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 3:58 |
 | 31 | [pueblo](https://open.spotify.com/track/1U3LiGbnLaImLILPwefIRN) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [pueblo](https://open.spotify.com/album/2l2tymGSreBsAXvHywpTU1) | 3:48 |
 | 32 | [Zombie](https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 49 | [MAISON](https://open.spotify.com/track/2fyhv2ThM2PDqlc8HVs32e) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a) | 3:05 |
 | 50 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 |
 
-Snapshot ID: `MCwyNDI1ZTZkMzgzNTU1OThlYzhkMTE0OTIwNGVhY2E3NmExNzczYWQw`
+Snapshot ID: `MCwyZTBhM2E2NTU4NzkyZTk1YzJjYWMzNTM4ZjlhOTBjNTg3YjUxYzEw`

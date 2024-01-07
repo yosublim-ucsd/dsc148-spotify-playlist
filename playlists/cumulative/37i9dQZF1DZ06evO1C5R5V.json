@@ -338,7 +338,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 221826,
       "name": "Debe Haber un Lugar",
       "url": "https://open.spotify.com/track/5nPsoszhdGDXXx4CkuFhVv"
@@ -558,7 +558,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 243159,
       "name": "J.C. Del Barrio",
       "url": "https://open.spotify.com/track/3S6ijIIkgWjQFA80cH7Q02"
@@ -906,6 +906,24 @@
     {
       "album": {
         "name": "Volviendo a Casa",
+        "url": "https://open.spotify.com/album/716oCpYaFSnR7CUZWro5Tu"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189453,
+      "name": "Puedes Decir",
+      "url": "https://open.spotify.com/track/0KROw0m8ruvn7LaWA5uYhy"
+    },
+    {
+      "album": {
+        "name": "Volviendo a Casa",
         "url": "https://open.spotify.com/album/7HMKw1qzzztQ0LrOhAzDVf"
       },
       "artists": [
@@ -916,7 +934,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 189453,
       "name": "Puedes Decir",
       "url": "https://open.spotify.com/track/5vnDhoFEOXK3UKbyBn7PLK"

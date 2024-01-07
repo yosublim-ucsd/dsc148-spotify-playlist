@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 
 > Les meilleurs airs d'autoroute.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,248 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,326 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 11 | [Une belle histoire](https://open.spotify.com/track/5oxKrYimzs8AZp8lkoar6V) | [Michel Fugain & Le Big Bazar](https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY) | [Fais comme l'oiseau](https://open.spotify.com/album/3F2NC1OGndItyXyR6uJevP) | 3:15 |
 | 12 | [Je vous trouve un charme fou \- En duo avec Gaëtan Roussel](https://open.spotify.com/track/0C2yaSWVgCUiiqPyYxSOkd) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ), [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf) | [Il suffit d'y croire \(Version deluxe\)](https://open.spotify.com/album/6jQJaCZB3mCM73p7JE5XNJ) | 2:52 |
 | 13 | [Lady Mélody](https://open.spotify.com/track/4LWVPTpGzQjKtwYmmx7Hbd) | [Tom Frager](https://open.spotify.com/artist/1N9Xy6x2jTaxMU75aFshoq) | [Better Days](https://open.spotify.com/album/4YFkUluvUeyvsj20kYXeR1) | 3:11 |
-| 14 | [Encore et encore \- Remastered](https://open.spotify.com/track/2KzUa9x2TNzHVsx4sVuHsx) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Photos de voyages \(Remastered\)](https://open.spotify.com/album/6Mhp0Fb0RoraaLNZ0fFRwR) | 4:33 |
-| 15 | [Celui qui part](https://open.spotify.com/track/4ZeveNuwkv5cUrkDsx2eGQ) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Miroirs](https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu) | 2:36 |
-| 16 | [Dépassé](https://open.spotify.com/track/3kkLa7nOjDH3bYTAt54oYh) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [La loi du papillon](https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3) | 2:53 |
+| 14 | [Dépassé](https://open.spotify.com/track/3kkLa7nOjDH3bYTAt54oYh) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [La loi du papillon](https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3) | 2:53 |
+| 15 | [Encore et encore \- Remastered](https://open.spotify.com/track/2KzUa9x2TNzHVsx4sVuHsx) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Photos de voyages \(Remastered\)](https://open.spotify.com/album/6Mhp0Fb0RoraaLNZ0fFRwR) | 4:33 |
+| 16 | [Celui qui part](https://open.spotify.com/track/4ZeveNuwkv5cUrkDsx2eGQ) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Miroirs](https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu) | 2:36 |
 | 17 | [Laisse\-moi t'aimer](https://open.spotify.com/track/2boYIpJVzkugP7BwAaVzGw) | [Laurie Darmon](https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U) | [Femme Studio](https://open.spotify.com/album/0RSn60sXgnT1Fql7G87P0q) | 3:57 |
 | 18 | [Le chemin \(feat\. Sita\)](https://open.spotify.com/track/5T37zS90GkaMHRj5uNaJpb) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Sita](https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF) | [Le chemin](https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i) | 3:30 |
 | 19 | [Kid](https://open.spotify.com/track/1EIhcoMZ3See5L28kNvuFe) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [Cure](https://open.spotify.com/album/0B7trrXpu1IShSqzJfB2Tw) | 3:04 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 44 | [Call on me \- feat\. Ed Sheeran](https://open.spotify.com/track/2Hn8kSDjl8qAJ0BVgFYcnp) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [à 2 à 3](https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d) | 3:21 |
 | 45 | [À nos héros du quotidien](https://open.spotify.com/track/4zKqWCgGqwWlfJTNaj2R19) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Phoenix](https://open.spotify.com/album/0ejCopVV0wK3D6rrlVBOpu) | 3:53 |
 | 46 | [Tailler la route](https://open.spotify.com/track/3G6gPn5Ux19JYSXkrK34A3) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM), [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou), [Gaël Faye](https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg) | [Éphémère](https://open.spotify.com/album/3THI8m0WtBsYrdxKsRuS3w) | 3:45 |
-| 47 | [Amoureuse \- Remasterisé en 2008](https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Amoureuse \(Edition Deluxe\)](https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG) | 3:41 |
-| 48 | [Ulysse](https://open.spotify.com/track/6OPNvqvtQf9QT5zPh8wDk7) | [Ridan](https://open.spotify.com/artist/3SsER7gGsy3a9LlfQ62oxz) | [L'Ange De Mon Démon](https://open.spotify.com/album/37lOShWdQxr7gTVjKZm6v0) | 3:39 |
+| 47 | [Ulysse](https://open.spotify.com/track/6OPNvqvtQf9QT5zPh8wDk7) | [Ridan](https://open.spotify.com/artist/3SsER7gGsy3a9LlfQ62oxz) | [L'Ange De Mon Démon](https://open.spotify.com/album/37lOShWdQxr7gTVjKZm6v0) | 3:39 |
+| 48 | [Amoureuse \- Remasterisé en 2008](https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Amoureuse \(Edition Deluxe\)](https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG) | 3:41 |
 | 49 | [Bonne idée](https://open.spotify.com/track/4GP7DvuweWXuqTNAdUmnEa) | [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [En passant](https://open.spotify.com/album/3Z4uAMHKOdut4Cvx9NemEs) | 3:27 |
 | 50 | [Dernière danse](https://open.spotify.com/track/4AjFKHMK0aT5RH5bDarR0f) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Le chemin \- 20 ans](https://open.spotify.com/album/1YK3ZdEdUsSgRTwEG9yZVz) | 3:11 |
 | 51 | [Que Dieu me pardonne](https://open.spotify.com/track/0hHNjDAThUngWzegMB4YYU) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Amigo](https://open.spotify.com/album/29ct57rVIi3MIFyKJYUWrZ) | 3:31 |
@@ -69,11 +69,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 59 | [Sur la route](https://open.spotify.com/track/5NFbXrKAou3S8Jg0heGyW8) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM), [Jean\-Louis Aubert](https://open.spotify.com/artist/1NCrHXp9R3ogv8ezWWHFNs) | [La Réalité](https://open.spotify.com/album/6WY9BkvpRyeA5FYwpYrVp9) | 3:52 |
 | 60 | [Nous deux contre le reste du monde](https://open.spotify.com/track/0Uy2DEV9vQRFrCg4CLY6wY) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [La femme idéale](https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne) | 3:42 |
 | 61 | [Non non non \(Ecouter Barbara\)](https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Camelia Jordana](https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT) | 2:46 |
-| 62 | [Le lion est mort ce soir](https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM) | [Pow Wow](https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ) | [Regagner Les Plaines](https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN) | 2:58 |
-| 63 | [Mal barré](https://open.spotify.com/track/4c3sC3cX8RFwKz9KMUNxt9) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Je sais pas si ça va](https://open.spotify.com/album/1r5psC4qWm8sJvqDYCbY9X) | 2:46 |
-| 64 | [La vie ne vaut rien](https://open.spotify.com/track/2PQ06bEO6VKuiEsPAisJ1V) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [Collection](https://open.spotify.com/album/7CidHDoNltKs2NfPSIn3Ol) | 3:36 |
-| 65 | [Monde Nouveau](https://open.spotify.com/track/0s5gtv1tHwd89TdRYpzfDd) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Palais d'argile](https://open.spotify.com/album/5CeSn89NE60Az4dCtkqfWi) | 3:34 |
-| 66 | [Gabrielle](https://open.spotify.com/track/5Ti7ocP3fdlsYo47rCk80P) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Derrière l'amour](https://open.spotify.com/album/4zYFpEEJe1hH5a12DlgT6e) | 2:53 |
+| 62 | [Mal barré](https://open.spotify.com/track/4c3sC3cX8RFwKz9KMUNxt9) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Je sais pas si ça va](https://open.spotify.com/album/1r5psC4qWm8sJvqDYCbY9X) | 2:46 |
+| 63 | [Le lion est mort ce soir](https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM) | [Pow Wow](https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ) | [Regagner Les Plaines](https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN) | 2:58 |
+| 64 | [Monde Nouveau](https://open.spotify.com/track/0s5gtv1tHwd89TdRYpzfDd) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Palais d'argile](https://open.spotify.com/album/5CeSn89NE60Az4dCtkqfWi) | 3:34 |
+| 65 | [Gabrielle](https://open.spotify.com/track/5Ti7ocP3fdlsYo47rCk80P) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Derrière l'amour](https://open.spotify.com/album/4zYFpEEJe1hH5a12DlgT6e) | 2:53 |
+| 66 | [La vie ne vaut rien](https://open.spotify.com/track/2PQ06bEO6VKuiEsPAisJ1V) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [Collection](https://open.spotify.com/album/7CidHDoNltKs2NfPSIn3Ol) | 3:36 |
 | 67 | [Seul](https://open.spotify.com/track/7MRyru6giOwdtFYL5KQEVq) | [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn) | [Seul](https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP) | 4:41 |
 | 68 | [Gigi l'amoroso](https://open.spotify.com/track/4ArgA1vhM4y4qSd3DvYIhy) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 7:28 |
 | 69 | [Rockollection](https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Belle Ile En Mer](https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl) | 4:10 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 79 | [Je dis aime](https://open.spotify.com/track/5cwlOmStS0IdMEH0nAuXNO) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Je Dis Aime](https://open.spotify.com/album/0kTDINWpwSWZP2ohupAGav) | 3:56 |
 | 80 | [Serre\-moi](https://open.spotify.com/track/2uxTJ3a5PfQK4YuWOXPwFm) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Grain de sable](https://open.spotify.com/album/7GMBb8Rly9ZSCIBMlN8Jhw) | 3:49 |
 
-Snapshot ID: `MCwxZWY1ZTMxNTkzMjQ0OGE3YzkzMDNmOWY5NjBiNDkwNzJhMGNlZGNl`
+Snapshot ID: `MCxlNmE0NGUwZTMyODg3OWM1MDRiNzgxMDJmN2M3YzVmZjRkODA3YzQz`

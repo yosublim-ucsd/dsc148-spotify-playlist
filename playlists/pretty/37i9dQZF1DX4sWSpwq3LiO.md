@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,262,916 likes - 201 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,264,321 likes - 201 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 200 | [Meditabundus](https://open.spotify.com/track/5e5tJl04Fp74oHxpsrC7Tk) | [Kellen Chase](https://open.spotify.com/artist/3gDDFYy7iC2h6cr4wOSV5t) | [Meditabundus](https://open.spotify.com/album/0lvz7MO3PlK8QDxvvc35pN) | 2:30 |
 | 201 | [Le désir d'amour](https://open.spotify.com/track/1THlfYe3VM1P2V7oPIbWW1) | [Leandra Masi](https://open.spotify.com/artist/6fWhWlXrWSGvZMWrsL0lim) | [Le désir d'amour](https://open.spotify.com/album/7rHeMxL35i4fKJKQeQAOUJ) | 2:09 |
 
-Snapshot ID: `MCxmZDg5NWYxNmEwYWE2MTE0NTlmZjAzYTUwYjA1YzlmZDM3OWU2Yjg4`
+Snapshot ID: `MCxmMzQ4Y2MzMTU3NTIzZDFmMzFhMDhmNGE1MjU3MzJmMmMzOTFmM2Q4`

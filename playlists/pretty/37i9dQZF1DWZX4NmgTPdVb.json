@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1970s that will make you dance all summer long!",
-  "num_followers": 190661,
+  "num_followers": 190969,
   "original_name": "Summer Hits of the 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWMwODU2ODJmOTg5ZWQxZTBlMjUxZTM0ZmU4YmM4OTQxODYyNWE3",
+  "snapshot_id": "MCwzMjIwMzIxODVlM2RkZjZkNDc3M2I2NGM3NmVmY2Q1YTc2OWYwOTI3",
   "tracks": [
     {
       "added_at": "2022-04-18 23:11:58",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Commodores",
-        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 256426,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "Signed, Sealed And Delivered",
         "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 161160,
       "name": "Signed, Sealed, Delivered (I'm Yours)",
       "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Commodores",
+        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 256426,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Breakfast In America (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 251253,
-      "name": "The Logical Song - Remastered 2010",
-      "url": "https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 197146,
       "name": "December, 1963 (Oh What a Night!)",
       "url": "https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Breakfast In America (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 251253,
+      "name": "The Logical Song - Remastered 2010",
+      "url": "https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Cosmo's Factory",
-        "url": "https://open.spotify.com/album/5w2X5ZmdE4u0XGkOU7BiLG"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 159172,
-      "name": "Up Around The Bend",
-      "url": "https://open.spotify.com/track/56dtB7EzO7EneUgYwX8krC"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "Dancing in the Moonlight",
         "url": "https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 181133,
       "name": "Dancing in the Moonlight",
       "url": "https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Cosmo's Factory",
+        "url": "https://open.spotify.com/album/5w2X5ZmdE4u0XGkOU7BiLG"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 159172,
+      "name": "Up Around The Bend",
+      "url": "https://open.spotify.com/track/56dtB7EzO7EneUgYwX8krC"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Still Bill",
-        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 228326,
-      "name": "Use Me",
-      "url": "https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "Bellamy Brothers",
         "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 198760,
       "name": "Let Your Love Flow",
       "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 228326,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN"
     },
     {
       "added_at": "2022-04-18 23:11:58",

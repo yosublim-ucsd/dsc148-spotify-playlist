@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Karol G
 
-560 songs - 1 day 5 hr 5 min
+561 songs - 1 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,7 +408,8 @@
 | [QUE CHIMBA DE VIDA](https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [QUE CHIMBA DE VIDA](https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW) | 2:03 | 2023-12-14 |  |
 | [Queen](https://open.spotify.com/track/3yEkUjJOqBIORKxOLK80jS) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Queen](https://open.spotify.com/album/4P86lJFzKu0krcnGlvoIuH) | 3:27 | 2023-06-15 | 2023-06-30 |
 | [Rachel's Song \- Spotify Singles](https://open.spotify.com/track/0khFZaCEnXkBmBRA8M4g0d) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Rachel's Song \- Spotify Singles](https://open.spotify.com/album/5IgVZoSuJ9WShRKoqYIKgw) | 3:21 | 2023-09-21 | 2023-11-17 |
-| [Redline \- InHer Room](https://open.spotify.com/track/1fduKAIbqiCeIQjdInGwOz) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Redline \(InHer Room\)](https://open.spotify.com/album/5cF0sx3gtWtvWQj01eOHen) | 3:22 | 2023-12-21 |  |
+| [Redline \- InHer Room](https://open.spotify.com/track/1fduKAIbqiCeIQjdInGwOz) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Redline \(InHer Room\)](https://open.spotify.com/album/5cF0sx3gtWtvWQj01eOHen) | 3:22 | 2023-12-21 | 2024-01-07 |
+| [Redline \- InHer Room](https://open.spotify.com/track/1w4iW3Bv2BmowTKzE7tORe) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [InHer Room](https://open.spotify.com/album/4yuCd5c4U8IWNPgL671vlx) | 3:22 | 2023-12-21 |  |
 | [Regardless](https://open.spotify.com/track/6MsMJ2Dl9AlXbnBvqKJpfF) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Regardless](https://open.spotify.com/album/2tlzrTlgZl7DMbljhUkt4q) | 3:25 | 2023-10-12 | 2023-12-01 |
 | [Rest In Peace](https://open.spotify.com/track/0F634NqZ65Skv8aRDEsyex) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Rest In Peace](https://open.spotify.com/album/65kQ2jcrYIYAMNiE5Zi704) | 2:55 | 2023-08-24 | 2023-09-15 |
 | [Right Here, For Now](https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Right Here, For Now](https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi) | 3:00 | 2023-08-17 | 2023-09-22 |

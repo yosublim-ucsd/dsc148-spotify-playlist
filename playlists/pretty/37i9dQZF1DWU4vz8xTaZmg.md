@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4vz8xTaZmg.md) - [plain]
 
 > Hacele honor al domingo y terminalo bien arriba.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,105 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,130 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4vz8xTaZmg.md) - [plain]
 | 68 | [Estamos Bien](https://open.spotify.com/track/2OWVCFTolecLiGZPquvWvT) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:28 |
 | 69 | [THRU THE NIGHT \(feat\. Bryson Tiller\)](https://open.spotify.com/track/1AgSUWSzmza5jF6ER5R68v) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 2:08 |
 | 70 | [Intergalactic \- Remastered 2009](https://open.spotify.com/track/5fpizYGbi5IQoEraj6FP0R) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Hello Nasty \(Deluxe Edition/Remastered\)](https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB) | 3:51 |
-| 71 | [MELÓN VINO](https://open.spotify.com/track/5uHAzGa4d9j35DEbhUwGhi) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [CARAVANA](https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91) | 2:56 |
-| 72 | [El Loco](https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 3:05 |
+| 71 | [El Loco](https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 3:05 |
+| 72 | [MELÓN VINO](https://open.spotify.com/track/5uHAzGa4d9j35DEbhUwGhi) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [CARAVANA](https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91) | 2:56 |
 | 73 | [Bands \(feat\. OhGeesy, Fenix Flexin & Master Kato\)](https://open.spotify.com/track/1n8wr8tRHs5jmBxNWXedcn) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [Rob Vicious](https://open.spotify.com/artist/2gGtD7OGXbNZAY3oCZvZqA), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Master Kato](https://open.spotify.com/artist/6pb2Dl1FHK081UKW6aUqgF) | [Shoreline Mafia Presents Rob Vicious: Traplantic](https://open.spotify.com/album/2rSKi2QJ6v22f464Uq3ose) | 2:54 |
 | 74 | [Frijolero](https://open.spotify.com/track/5YyetAy34sgROhslaW3BZc) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Dance And Dense Denso](https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft) | 3:30 |
 | 75 | [NI BIEN NI MAL](https://open.spotify.com/track/278kSqsZIiYp8p3QjYAqa8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4vz8xTaZmg.md) - [plain]
 | 99 | [Bolero Falaz](https://open.spotify.com/track/5yMXpZhVnUAFT154F3MQ8G) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Originales \- 20 Exitos](https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf) | 3:45 |
 | 100 | [BIG](https://open.spotify.com/track/7cyeGclH71MayOuQ7qtLFl) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 3:45 |
 
-Snapshot ID: `MCxjMTQ2ZjFmYmM4ZGJjMWE5ZGYyMmJjZWIxMmUxZDMzYTljNTk0NzY2`
+Snapshot ID: `MCw2M2EyODA1NTQ0ZWMyNTJkN2VjN2NmNDllZjE2MzgxMDk0ODU5MWRj`

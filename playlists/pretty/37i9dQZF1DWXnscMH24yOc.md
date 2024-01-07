@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,514 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,612 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 33 | [What Would You Do](https://open.spotify.com/track/2WwzQJt4hG7YC6x16ZTYFM) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:03 |
 | 34 | [Wicked Game \- Live at Killkenny Arts Festival, Ireland/2011](https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat EP](https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy) | 4:31 |
 | 35 | [I Can't Make You Love Me \- Spotify Singles](https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Spotify Singles](https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY) | 3:16 |
-| 36 | [Everytime \- Spotify Singles](https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6) | 3:54 |
-| 37 | [Your Song](https://open.spotify.com/track/2mN9PvVZX0thvOclMwQAju) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Lights](https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri) | 3:11 |
+| 36 | [Your Song](https://open.spotify.com/track/2mN9PvVZX0thvOclMwQAju) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Lights](https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri) | 3:11 |
+| 37 | [Everytime \- Spotify Singles](https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6) | 3:54 |
 | 38 | [Addicted To Love](https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 3:19 |
 | 39 | [I'll Stand by You](https://open.spotify.com/track/7zdaLRVLJJSXjdQB1tFZRJ) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [I'll Stand by You](https://open.spotify.com/album/6CsQEUwnLOXJMlRW5uiGnE) | 3:24 |
-| 40 | [Nothing Else Matters](https://open.spotify.com/track/1guCON9841cQwAlbNplLsY) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41) | 4:34 |
-| 41 | [Diamonds](https://open.spotify.com/track/5qizUaJepbFJ5qGZyuyQim) | [Josef Salvat](https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz) | [In Your Prime \- EP](https://open.spotify.com/album/22XLHhWmIM8IuCFqpkpCHX) | 4:07 |
+| 40 | [Diamonds](https://open.spotify.com/track/5qizUaJepbFJ5qGZyuyQim) | [Josef Salvat](https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz) | [In Your Prime \- EP](https://open.spotify.com/album/22XLHhWmIM8IuCFqpkpCHX) | 4:07 |
+| 41 | [Nothing Else Matters](https://open.spotify.com/track/1guCON9841cQwAlbNplLsY) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41) | 4:34 |
 | 42 | [Dance Me to the End of Love \(Bonus\)](https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:05 |
 | 43 | [Creep](https://open.spotify.com/track/7fu3lFEf8dVfFuvKxhTPwP) | [Ember Island](https://open.spotify.com/artist/1I5eQkzyM8jCVZIM3k2bKL) | [Creep](https://open.spotify.com/album/3Gx0Yoem0yyteJnSZ9j77l) | 2:57 |
 | 44 | [Say My Name](https://open.spotify.com/track/0KPVOW1SAbaHZWaSzaJf5J) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Arnór Dan](https://open.spotify.com/artist/6LnEuWyi5kVOZ4aLqnD1Qo) | [Late Night Tales: Ólafur Arnalds](https://open.spotify.com/album/7tS1qpuzGoArfIPnmXkPad) | 5:41 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 51 | [Passionfruit](https://open.spotify.com/track/0q9VKvpCJhGEMKRJAdaV9w) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Passionfruit](https://open.spotify.com/album/5PHrxqS8w1HqoGut9zrW5A) | 3:32 |
 | 52 | [Champagne Supernova \(OurVinyl Sessions\)](https://open.spotify.com/track/0C0bw3UZM525pEFU6hYfVH) | [Jillette Johnson](https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [Jillette Johnson \| OurVinyl Sessions](https://open.spotify.com/album/3EWf23G2C83dLTXmh8Ynzj) | 4:14 |
 | 53 | [Landslide](https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Landslide](https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS) | 2:59 |
-| 54 | [Whatever You Like \- Single Version](https://open.spotify.com/track/5qX2ZJoLEyFCTAdaCqUo7s) | [Anya Marina](https://open.spotify.com/artist/6xYBLeSMu1AqPsnUzEvx5n) | [Whatever You Like \[Digital 45\]](https://open.spotify.com/album/16AnLWE6Js4hmXqumUFJjv) | 3:48 |
-| 55 | [Thank you for the happiest year of my life](https://open.spotify.com/track/3H1K7ZuDdWGqQYVKhDcSo6) | [if we were lakes](https://open.spotify.com/artist/06JENrckpSh4wgkXgAAm3z) | [Thank you for the happiest year of my life](https://open.spotify.com/album/6qEadJcKQ41QhPHHl19rMh) | 3:49 |
+| 54 | [Thank you for the happiest year of my life](https://open.spotify.com/track/3H1K7ZuDdWGqQYVKhDcSo6) | [if we were lakes](https://open.spotify.com/artist/06JENrckpSh4wgkXgAAm3z) | [Thank you for the happiest year of my life](https://open.spotify.com/album/6qEadJcKQ41QhPHHl19rMh) | 3:49 |
+| 55 | [Whatever You Like \- Single Version](https://open.spotify.com/track/5qX2ZJoLEyFCTAdaCqUo7s) | [Anya Marina](https://open.spotify.com/artist/6xYBLeSMu1AqPsnUzEvx5n) | [Whatever You Like \[Digital 45\]](https://open.spotify.com/album/16AnLWE6Js4hmXqumUFJjv) | 3:48 |
 | 56 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/09MdiypXlcb1kohV3cO03p) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/album/0b8KcBvQVOYGRQWGaWzyS0) | 3:32 |
 | 57 | [What I Am \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Spotify Singles](https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK) | 3:55 |
 | 58 | [Palace \- Cover](https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Palace \(Cover\) / Diane](https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS) | 3:49 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 65 | [My Girl](https://open.spotify.com/track/25TrYuBFlgMIaaQDYZNJoa) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [My Girl](https://open.spotify.com/album/48rv1iGnI8ggoWnKNalXRR) | 3:05 |
 | 66 | [What Is Love](https://open.spotify.com/track/2jrmSLNOdNPZvMyYaZt9bm) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Sound Of A Woman](https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr) | 3:08 |
 | 67 | [Bang Bang \(My Baby Shot Me Down\)](https://open.spotify.com/track/7nghYGsh54yEir2qzPxqyk) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Bang Bang \(My Baby Shot Me Down\)](https://open.spotify.com/album/2U3XfU54vAKKyJUgmnk2sf) | 2:33 |
-| 68 | [All Too Well](https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [All Too Well](https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3) | 5:15 |
-| 69 | [Let’s Dance](https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration of Vincent](https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS) | 5:00 |
+| 68 | [Let’s Dance](https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration of Vincent](https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS) | 5:00 |
+| 69 | [All Too Well](https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [All Too Well](https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3) | 5:15 |
 | 70 | [No Ordinary Love](https://open.spotify.com/track/3Vp1ShzJnzjtMbGucz0c16) | [You+Me](https://open.spotify.com/artist/0WO1Yn4pcC30HOKLD68JKm) | [rose ave.](https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ) | 4:09 |
 | 71 | [Lost](https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Lost](https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ) | 3:57 |
 | 72 | [Black Hole Sun](https://open.spotify.com/track/2NAI2RvsLSELvMnl2aiwsf) | [Nouela](https://open.spotify.com/artist/6ryz7xkL6o6AIAotVxUG30) | [Black Hole Sun](https://open.spotify.com/album/4q5TxZy6tL4rucsC8rONCm) | 4:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 99 | [Say You'll Be There](https://open.spotify.com/track/6OwDUCgzQOIVcjHA5PBb15) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Say You'll Be There](https://open.spotify.com/album/5AyQKsPpZ0WK6shtBDZGOw) | 3:53 |
 | 100 | [Avant Gardener](https://open.spotify.com/track/6JZH57Qi4g0DgdB8wTeDGS) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Avant Gardener](https://open.spotify.com/album/6pGyMnVTSLITj39L7zDqj4) | 4:19 |
 
-Snapshot ID: `MCw3NzdjZjA4NmM3YjBhMTM2NTljOTgwZjYzMGIzMTgxNjhmYTcyZGUz`
+Snapshot ID: `MCw0MTExMDlhMGI5YTEzOTYzOGE2YTdlMjZhN2JmNDQzOGMyY2E3N2Nl`

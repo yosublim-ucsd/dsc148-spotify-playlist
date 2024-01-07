@@ -1,12 +1,12 @@
 {
   "description": "That summer sound.",
-  "num_followers": 1736453,
+  "num_followers": 1736460,
   "original_name": "Summer Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTk2N2ZkYjYzMGVlNjYzYmIxZWJkNGQxZmRkOTFkNjVhMmY5MWI5",
+  "snapshot_id": "MCw3ZjBiZWMzZDU4NTQyOWFlZWYwOTg0MjBlNDZlNzMyYmUzZjAzOTQ4",
   "tracks": [
     {
       "added_at": "2023-09-05 15:46:11",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-09-05 15:46:11",
       "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 248133,
+      "name": "Good Feeling",
+      "url": "https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8"
+    },
+    {
+      "added_at": "2023-09-05 15:46:11",
+      "album": {
         "name": "BABY HELLO",
         "url": "https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 222461,
       "name": "BABY HELLO",
       "url": "https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP"
-    },
-    {
-      "added_at": "2023-09-05 15:46:11",
-      "album": {
-        "name": "Wild Ones",
-        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 248133,
-      "name": "Good Feeling",
-      "url": "https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8"
     },
     {
       "added_at": "2023-09-05 15:46:11",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2023-09-05 15:46:11",
       "album": {
+        "name": "Layers",
+        "url": "https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        }
+      ],
+      "duration_ms": 195546,
+      "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
+      "url": "https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"
+    },
+    {
+      "added_at": "2023-09-05 15:46:11",
+      "album": {
         "name": "Substitution (feat. Julian Perretta)",
         "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 181477,
       "name": "Substitution (feat. Julian Perretta)",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
-    },
-    {
-      "added_at": "2023-09-05 15:46:11",
-      "album": {
-        "name": "Layers",
-        "url": "https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        },
-        {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
-        }
-      ],
-      "duration_ms": 195546,
-      "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
-      "url": "https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"
     },
     {
       "added_at": "2023-09-05 15:46:11",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-09-05 15:46:11",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 172342,
-      "name": "Last Last",
-      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
-    },
-    {
-      "added_at": "2023-09-05 15:46:11",
-      "album": {
         "name": "Head & Heart (feat. MNEK)",
         "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 166028,
       "name": "Head & Heart (feat. MNEK)",
       "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
+    },
+    {
+      "added_at": "2023-09-05 15:46:11",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
     },
     {
       "added_at": "2023-09-05 15:46:11",
@@ -1355,6 +1355,26 @@
     {
       "added_at": "2023-09-05 15:46:11",
       "album": {
+        "name": "Where Did You Go (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 177689,
+      "name": "Where Did You Go? (feat. MNEK)",
+      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
+    },
+    {
+      "added_at": "2023-09-05 15:46:11",
+      "album": {
         "name": "Relax My Eyes",
         "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
       },
@@ -1391,26 +1411,6 @@
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
-    },
-    {
-      "added_at": "2023-09-05 15:46:11",
-      "album": {
-        "name": "Where Did You Go (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 177689,
-      "name": "Where Did You Go? (feat. MNEK)",
-      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
     },
     {
       "added_at": "2023-09-05 15:46:11",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-09-05 15:46:11",
       "album": {
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "Padam Padam",
+      "url": "https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5"
+    },
+    {
+      "added_at": "2023-09-05 15:46:11",
+      "album": {
         "name": "Higher Love",
         "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
-    },
-    {
-      "added_at": "2023-09-05 15:46:11",
-      "album": {
-        "name": "Tension (Deluxe)",
-        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "Padam Padam",
-      "url": "https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5"
     },
     {
       "added_at": "2023-09-05 15:46:11",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2023-09-05 15:46:11",
       "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        }
+      ],
+      "duration_ms": 191240,
+      "name": "The Sign",
+      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
+    },
+    {
+      "added_at": "2023-09-05 15:46:11",
+      "album": {
         "name": "Mami Chula",
         "url": "https://open.spotify.com/album/7weNe4OIBROOCcMEOMeNlS"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 220600,
       "name": "Mami Chula",
       "url": "https://open.spotify.com/track/4aJzxp3gimtAdgJn3DL776"
-    },
-    {
-      "added_at": "2023-09-05 15:46:11",
-      "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
-      },
-      "artists": [
-        {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
-        }
-      ],
-      "duration_ms": 191240,
-      "name": "The Sign",
-      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
     },
     {
       "added_at": "2023-09-05 15:46:11",

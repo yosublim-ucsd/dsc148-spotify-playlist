@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7unGnF3WQD3.md) - [plain]
 
 > tírate un paso y saca los prohibidos
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,568 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,617 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7unGnF3WQD3.md) - [plain]
 | 64 | [La Monjita Voladora \- Cumbia Sonidera](https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3) | [Grupo Toca Recio](https://open.spotify.com/artist/1j98coEFrGNwVfl7gGMO7u) | [La Monjita Voladora \- Cumbia Sonidera](https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V) | 4:09 |
 | 65 | [El Gato Volador](https://open.spotify.com/track/3K9h28l1trUlOMkiAh09Pb) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD), [Cracker Jack & Jr Crack](https://open.spotify.com/artist/0sAajIvpY4U0ATVq0n1DM8) | [Cuentos de la Cripta 3](https://open.spotify.com/album/6y07fZcNzVsvLgACeUuBli) | 1:53 |
 | 66 | [Se Te Ve la Tanga](https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:23 |
-| 67 | [El Cepillo](https://open.spotify.com/track/2EWZswsvSERfAWzXPE2trG) | [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [Greatest Hits](https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx) | 3:26 |
-| 68 | [Cumbia Lorana Wepa Sonido Pirata](https://open.spotify.com/track/1MlrJvn4XU6itpl3R9pcrY) | [Dj Yack](https://open.spotify.com/artist/5HOxMIImatFw3BT7K9UX0S) | [Cumbia Lorana Wepa Sonido Pirata](https://open.spotify.com/album/7JQKsSHzMunfkJTIm5mSNq) | 3:20 |
+| 67 | [Cumbia Lorana Wepa Sonido Pirata](https://open.spotify.com/track/1MlrJvn4XU6itpl3R9pcrY) | [Dj Yack](https://open.spotify.com/artist/5HOxMIImatFw3BT7K9UX0S) | [Cumbia Lorana Wepa Sonido Pirata](https://open.spotify.com/album/7JQKsSHzMunfkJTIm5mSNq) | 3:20 |
+| 68 | [El Cepillo](https://open.spotify.com/track/2EWZswsvSERfAWzXPE2trG) | [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [Greatest Hits](https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx) | 3:26 |
 | 69 | [Messirve Mix 3](https://open.spotify.com/track/09sFkBXLsu4D3emZhHEs6O) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Messirve Mix 3](https://open.spotify.com/album/2cPSe0xf6FkcG05j06RZdH) | 7:27 |
 | 70 | [Te Vas Con El O Te Vas Conmigo](https://open.spotify.com/track/1dPss1wm3YbdRMuYinPrqq) | [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [El Angel Del Amor](https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba) | 4:41 |
 | 71 | [Mi Mujer Me Gobierna](https://open.spotify.com/track/6O5K9nWwxg5gTijmedgWdc) | [La Banda Gorda](https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1) | [Exitos Durisimos](https://open.spotify.com/album/2bFmgUdT6BbTiqpDmsLakV) | 4:58 |
-| 72 | [Que calor](https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:45 |
-| 73 | [El Reo Ausente](https://open.spotify.com/track/3G1MeI4VeHNhDimzvY22V0) | [Nery Pedraza](https://open.spotify.com/artist/2auNLhntCTSNSUhsN0MCQ0), [Los Guraperos de la Cumbia](https://open.spotify.com/artist/2qzwx9X95HrGfehodiubOs) | [Que Te Vaya Bien](https://open.spotify.com/album/5k783HWe7on8tcK6W8jtyG) | 5:52 |
+| 72 | [El Reo Ausente](https://open.spotify.com/track/3G1MeI4VeHNhDimzvY22V0) | [Nery Pedraza](https://open.spotify.com/artist/2auNLhntCTSNSUhsN0MCQ0), [Los Guraperos de la Cumbia](https://open.spotify.com/artist/2qzwx9X95HrGfehodiubOs) | [Que Te Vaya Bien](https://open.spotify.com/album/5k783HWe7on8tcK6W8jtyG) | 5:52 |
+| 73 | [Que calor](https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:45 |
 | 74 | [Moviendo Las Caderas](https://open.spotify.com/track/4q6N9URYBLk9g1bUIWwnoR) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Merengues Con Gusto](https://open.spotify.com/album/3cnNKDOYcchZ5Jl9aPxvKL) | 4:51 |
 | 75 | [Tu Cariñito](https://open.spotify.com/track/2kBgJXGbVA6WcA40IFA9KF) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [2 Grandes de la Salsa Vol\. 4](https://open.spotify.com/album/0eoWrfcaxarOASMm50HE7s) | 4:11 |
 
-Snapshot ID: `MCxkNjIxMTJmNDU2ZThjZDY4MDc5YTMxY2U2NzFlZDkyZjVkMjVmODFj`
+Snapshot ID: `MCwwOGIzOTJmYmE4MDYyYTBkYWNkMmJjNjIwNGM2Nzk0ZjZlZjc0OWZj`

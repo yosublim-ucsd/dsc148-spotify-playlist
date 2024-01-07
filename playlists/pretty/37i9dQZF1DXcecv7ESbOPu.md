@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Här finns veckans bästa och mest intressanta nya låtar\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,189 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,233 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 34 | [MACABRE](https://open.spotify.com/track/7LiFZ14tgy3YhCtBNsBEf9) | [Azide](https://open.spotify.com/artist/0jZCd5FFBIaaiXlIJX6I9h), [M.I.M.E](https://open.spotify.com/artist/1RdQK73ZgvXjkaBJkibE6X), [J Swey](https://open.spotify.com/artist/7qF6NAMsPdmVz0o8n5v1Ht) | [MACABRE](https://open.spotify.com/album/7Bsl95BSu7Y6xlltwzAyel) | 2:52 |
 | 35 | [Just Another Rainbow](https://open.spotify.com/track/2xE7912IhBp4poxLjOS6WJ) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Just Another Rainbow](https://open.spotify.com/album/5LLmGei4KIOkZaO3FI2KzX) | 5:36 |
 | 36 | [Mi Amor](https://open.spotify.com/track/4QKaagyqLbP3GmkyeYPDbG) | [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc), [Sirena](https://open.spotify.com/artist/3ua4MYAHmkOM1hL7o0FqIw) | [Mi Amor](https://open.spotify.com/album/79JmuRPMIUxc0IVs6kTl5g) | 2:31 |
-| 37 | [If We Don't](https://open.spotify.com/track/4N0qdwqHaqH3r8dgWiSTbg) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [If We Don't](https://open.spotify.com/album/4YsfWUo7uUkMv3SmwzIggC) | 2:12 |
+| 37 | [If We Don’t](https://open.spotify.com/track/0Zp0v6Fd47tdjHdhynPcjr) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [If We Don’t](https://open.spotify.com/album/2vDvJRluMiScDpNGgZEZjJ) | 2:12 |
 | 38 | [Snowdrop \(From The Motion Picture “Den Grænseløse”\)](https://open.spotify.com/track/38IFUwOUrF0A8QhUtMZdVF) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [Snowdrop \(From The Motion Picture “Den Grænseløse”\)](https://open.spotify.com/album/04HPpShJKuQs1I44AfVEol) | 3:54 |
 | 39 | [Only God Knows](https://open.spotify.com/track/2DuCbz1WK7yZXyTSrOtMkc) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [ECHoBOY](https://open.spotify.com/artist/5tGSpRGRAJGaHguGRHz3gJ) | [Only God Knows](https://open.spotify.com/album/6B6o64fBRzC3IiIfJdzs8I) | 3:30 |
 | 40 | [Bring Back My Man](https://open.spotify.com/track/2yJ6cPq7EfFyNV6JFmjbnd) | [Dicte](https://open.spotify.com/artist/2M8siACtKsHdqRo2y5YE1Z) | [Bring Back My Man](https://open.spotify.com/album/3tjUwqtRbxdb5TZi4QFds3) | 4:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 99 | [Motel 6](https://open.spotify.com/track/1lMZo6S6kAZoalFtzfgf1b) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Motel 6](https://open.spotify.com/album/7JkYx5RrVdmdyWOZpAmXbX) | 2:40 |
 | 100 | [FEMTIÅRIG MAN](https://open.spotify.com/track/49KbOqBSO5JEZyhU8jFd6g) | [Mattias Alkberg](https://open.spotify.com/artist/5p8AjcGi5g19fWNvC2zhqE), [Joel Amrén](https://open.spotify.com/artist/06r9U8OJ4EHfhGT0kc31hn), [Rebecka Digervall](https://open.spotify.com/artist/3vHSNoHRWSvrQlbFnVR4Bw), [Olle Nyman](https://open.spotify.com/artist/7hNRlzzTVQGsXeSLllu2at) | [FEMTIÅRIG MAN](https://open.spotify.com/album/1UKiy6GVAqgHBtZtvKj6aC) | 3:14 |
 
-Snapshot ID: `MCwyZDdkMWJjNDAyYzAzOWI3OWViNWM1MGFlZTE4Zjk2NWI3YjNjZDAx`
+Snapshot ID: `MCwxMzUwYTI4MjJmMzY4OGZjOWU1MDgwY2VjMzE3M2I1NzhjYmVkOWQ4`

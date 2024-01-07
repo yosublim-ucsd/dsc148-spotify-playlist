@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,935 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,046 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 20 | [Like A Fool](https://open.spotify.com/track/5wTv501Kl9wLABLwHo11RJ) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [Walk Dance Talk Sing](https://open.spotify.com/album/2xHHmfzza35KfhlgOOc3y4) | 5:05 |
 | 21 | [Chemicals](https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:15 |
 | 22 | [Something On My Mind](https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Something On My Mind](https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8) | 3:36 |
-| 23 | [Techno Disco Tool \- Radio Edit](https://open.spotify.com/track/3qqEFTIFcZuWJYBtshrxca) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [Techno Disco Tool \(Radio Edit\)](https://open.spotify.com/album/5yadKU4m0Q0AIKxbN9qQIq) | 3:14 |
+| 23 | [Oh Honey](https://open.spotify.com/track/79MSWZup4Q1ShQ1kwsL4qo) | [Angelo Ferreri](https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ) | [Oh Honey](https://open.spotify.com/album/6hZAewOMwwk45SDM0Jcb8I) | 2:29 |
 | 24 | [Pearls](https://open.spotify.com/track/5EAbUR2kkfDOCWEcWcb7YG) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [That! Feels Good!](https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6) | 4:03 |
 | 25 | [Groovejet \(If This Ain't Love\) \[feat\. Sophie Ellis\-Bextor\]](https://open.spotify.com/track/1ftK0tLj4ZYKYxSzXk5Lpb) | [DJ Spiller](https://open.spotify.com/artist/6Ai7Oi56rJwoPAG8N2jsv6), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Groovejet \(If This Ain't Love\) \[feat\. Sophie Ellis\-Bextor\]](https://open.spotify.com/album/774f2ASob19UJBVIrxNzg7) | 3:47 |
-| 26 | [Oh Honey](https://open.spotify.com/track/79MSWZup4Q1ShQ1kwsL4qo) | [Angelo Ferreri](https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ) | [Oh Honey](https://open.spotify.com/album/6hZAewOMwwk45SDM0Jcb8I) | 2:29 |
+| 26 | [Techno Disco Tool \- Radio Edit](https://open.spotify.com/track/3qqEFTIFcZuWJYBtshrxca) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [Techno Disco Tool \(Radio Edit\)](https://open.spotify.com/album/5yadKU4m0Q0AIKxbN9qQIq) | 3:14 |
 | 27 | [Hipcats](https://open.spotify.com/track/38HvJkH21S2bRciZHohv68) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [Hipcats](https://open.spotify.com/album/3gwYl0xcZBA6UafqvuMRTZ) | 2:09 |
 | 28 | [Free Yourself](https://open.spotify.com/track/7axM6HbfUTu3dXEIWOYcH1) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [That! Feels Good!](https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6) | 3:54 |
 | 29 | [Thin Line](https://open.spotify.com/track/10bmUjdCwAcLNMaFs6BLNO) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Thin Line](https://open.spotify.com/album/2SNatJfvvM3VT444888Mgk) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 49 | [Be The One \(feat\. Yung Bae\)](https://open.spotify.com/track/4mpyalWKRgGgghWqr0DGRr) | [Disco Dom](https://open.spotify.com/artist/3q8DkzC4UfA5lKG1YG4004), [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Inferno \(No\. 1\)](https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG) | 4:56 |
 | 50 | [Seventies](https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/5X6J5NTJIWPCJzcRwIKXmb) | 3:16 |
 
-Snapshot ID: `MCxhMjU5MDU3ODgyMmZlNjgzMzJjMTYyZGRkNWE5YjYzOGIxMzkzMGI0`
+Snapshot ID: `MCxiNzFkZjAxZTYyODQ0MjUxMjE5NWFjMDAxMjgzNGYwMWYxNjRjODg2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > MC PH e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,164,947 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,168,219 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 24 | [DENTRO DA HILUX](https://open.spotify.com/track/3XIXklO3e0uWUAUkOR7NLI) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [DENTRO DA HILUX](https://open.spotify.com/album/0DkGMresNtgnwzmOWx9vqU) | 2:43 |
 | 25 | [Faz um Vuk Vuk \(Teto Espelhado\)](https://open.spotify.com/track/64CovjRwInpOJW4PiGMprY) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Dj Nk Da Serra](https://open.spotify.com/artist/3DIMAAaWSlVl1YQ9nsQmUN), [Mc Magrinho](https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI) | [Faz um Vuk Vuk \(Teto Espelhado\)](https://open.spotify.com/album/59qldBzRiQutEYO1hqxw7H) | 2:18 |
 | 26 | [Loucura](https://open.spotify.com/track/4QCwvUs4ob87Tq9VP07Uo3) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic) | [Amor e Ódio](https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt) | 2:59 |
-| 27 | [Joga Pra Lua](https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Joga Pra Lua](https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1) | 2:05 |
+| 27 | [Joga Pra Lua](https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [Joga Pra Lua](https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1) | 2:05 |
 | 28 | [Eu Não Dou Conta \- Ao Vivo](https://open.spotify.com/track/6rpUGV7bcWW9ro65Bf8uYY) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Eu Não Dou Conta \(Ao Vivo\)](https://open.spotify.com/album/6UBLAsfIQMtOdWaDgpgz2G) | 2:49 |
 | 29 | [Mala dos Porta\-Mala \- Ao Vivo](https://open.spotify.com/track/7GScY8oE12cqTiNBzVQpUB) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Mala dos Porta\-Mala \(Ao Vivo\)](https://open.spotify.com/album/3KbuCPion6RqgTCrLigEJq) | 2:33 |
 | 30 | [MEIO TERMO \- Ao Vivo](https://open.spotify.com/track/23IebZSNZ8VzwUr4rJNGRG) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY 2.0 \(Ao Vivo\)](https://open.spotify.com/album/6rzJP5MMqTNT0OHwOn9wUD) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 49 | [Um Mês E Pouco \- Ao Vivo](https://open.spotify.com/track/3PqU6gHWUaBTtIZi5oxEJ7) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Escolhas, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/3a6T0jJ6mF4KpBYvKH5o7Z) | 2:51 |
 | 50 | [Não Vitalício \(Nunca Mais\) \- Ao Vivo](https://open.spotify.com/track/4sqpSDnTrbS8v7RMNCUyqS) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Não Vitalício \(Nunca Mais\) \[Ao Vivo\]](https://open.spotify.com/album/32W4niZLdaaIWUMBf4yGmB) | 2:49 |
 
-Snapshot ID: `MCxmMWRhZDE4ZjNkOGIwNjFkOGViMWE5OTliNjgwMmE0ZGQyMWQ3ODYx`
+Snapshot ID: `MCxhZTQ3OGZlZTU5MTRkOGU0OWRkZjRkNDJjOTE1ODFlM2VjZjBhZTBm`

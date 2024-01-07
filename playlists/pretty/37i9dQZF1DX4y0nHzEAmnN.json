@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmI3NTJkNzM2M2U1ZGIxZjAzMTJkNTg2MDVmZTI0MmViOGMyMDMy",
+  "snapshot_id": "MCw5MTk0OTMzY2VhYTI4NTliNTcwZTExM2RjMWUxNTlkNGZkOWQwN2Mw",
   "tracks": [
     {
       "added_at": "2023-03-17 09:43:03",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "El Primer D\u00eda de Escuela",
+        "url": "https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        }
+      ],
+      "duration_ms": 158693,
+      "name": "El Primer D\u00eda de Escuela",
+      "url": "https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "Family Time",
         "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 260853,
       "name": "Family Time (feat. Judah Marley)",
       "url": "https://open.spotify.com/track/34OvVyZ6Vq0AcAnI6LMnjM"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "El Primer D\u00eda de Escuela",
-        "url": "https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX"
-      },
-      "artists": [
-        {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        }
-      ],
-      "duration_ms": 158693,
-      "name": "El Primer D\u00eda de Escuela",
-      "url": "https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "English Pitinglish",
-        "url": "https://open.spotify.com/album/5opZvBrL0N2jSFyGwvOvoZ"
-      },
-      "artists": [
-        {
-          "name": "Pica-Pica",
-          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
-        }
-      ],
-      "duration_ms": 174653,
-      "name": "Comida light",
-      "url": "https://open.spotify.com/track/16QKoDI5F9MxWUBYORKV3w"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Sesame Street: Getting Ready for School",
         "url": "https://open.spotify.com/album/1cTBGtVBDegjOQcR6Ou4NM"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "English Pitinglish",
+        "url": "https://open.spotify.com/album/5opZvBrL0N2jSFyGwvOvoZ"
+      },
+      "artists": [
+        {
+          "name": "Pica-Pica",
+          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
+        }
+      ],
+      "duration_ms": 174653,
+      "name": "Comida light",
+      "url": "https://open.spotify.com/track/16QKoDI5F9MxWUBYORKV3w"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "Moey's Music Party",
         "url": "https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU"
       },
@@ -787,22 +787,6 @@
       "duration_ms": 129560,
       "name": "I Always Sit When I Eat",
       "url": "https://open.spotify.com/track/7Gmhedp0ne4neq1BgNHClT"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "Las 4 Estaciones, vol. 11",
-        "url": "https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2"
-      },
-      "artists": [
-        {
-          "name": "Trepsi",
-          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
-        }
-      ],
-      "duration_ms": 58644,
-      "name": "Sonidos al Comer",
-      "url": "https://open.spotify.com/track/1KxnLbLVUYYdKlCF2uYezh"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -823,6 +807,22 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "Las 4 Estaciones, vol. 11",
+        "url": "https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2"
+      },
+      "artists": [
+        {
+          "name": "Trepsi",
+          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
+        }
+      ],
+      "duration_ms": 58644,
+      "name": "Sonidos al Comer",
+      "url": "https://open.spotify.com/track/1KxnLbLVUYYdKlCF2uYezh"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "Children's Songs for Family, Friends & Siblings from LittleBabyBum",
         "url": "https://open.spotify.com/album/65UY1CG353OTiv4JHrDKrV"
       },
@@ -839,22 +839,18 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Sesame Street: Getting Ready for School",
-        "url": "https://open.spotify.com/album/1cTBGtVBDegjOQcR6Ou4NM"
+        "name": "Papa Goose",
+        "url": "https://open.spotify.com/album/4zWFpydTMsliKYcyo28E5j"
       },
       "artists": [
         {
-          "name": "Big Bird",
-          "url": "https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE"
-        },
-        {
-          "name": "Sesame Street's Gordon",
-          "url": "https://open.spotify.com/artist/3gC3iIFCSULaG9w18MsSJe"
+          "name": "Nat Hussey",
+          "url": "https://open.spotify.com/artist/3oWcz5Uc7Nf1DsBGJ0HQQA"
         }
       ],
-      "duration_ms": 103147,
-      "name": "Exercise Time",
-      "url": "https://open.spotify.com/track/0qquzf6BNSWNIDPqj83c3Q"
+      "duration_ms": 89306,
+      "name": "Wash The Dishes",
+      "url": "https://open.spotify.com/track/4jnTmG0SuHvTZ70Ea1gVnZ"
     }
   ],
   "unique_name": "Daily Rutina",

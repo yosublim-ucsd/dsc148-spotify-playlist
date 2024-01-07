@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Muñecas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,873 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,900 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [De Cabeza](https://open.spotify.com/track/6g7J0GQZ0CEbJoLP6JDAug) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [De Cabeza](https://open.spotify.com/album/5sAfBwkvC5h66RxrWswRRY) | 2:54 |
 | 50 | [Qué Desastre](https://open.spotify.com/track/6eMzIJR4Ep1MP4PL3p8jT4) | [Malamute](https://open.spotify.com/artist/45XwF5VuCj7FqtlvjxWGaF) | [Qué Desastre](https://open.spotify.com/album/1idmfhe9Q9Z5XeKyTomYJG) | 3:16 |
 
-Snapshot ID: `MCxjNTE1NzkyZjg0ZWQ5OTI2ZTBlYTllY2M4MzBkMDljNmQxZjc5NmQ2`
+Snapshot ID: `MCwxNDY3NWE1ZGE4NzZhZTQ5ZjFhZTIxZGMwZWEwMTMwZDY5ZDQzMzU0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ZsXzq.md) - [plain]
 
 > This is Harry Styles\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,948 likes - 21 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,964 likes - 21 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ZsXzq.md) - [plain]
 | 20 | [Love Of My Life](https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 |
 | 21 | [Meet Me in the Hallway](https://open.spotify.com/track/4u9Y4Z9i9VaAbBK7rW1Rha) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:47 |
 
-Snapshot ID: `Mjg0MDc3MDMsMDAwMDAwMDBmYTk4NWQ0ZTE3NmY4ZTlmYTM2ZDc5ZmU0YjI4MDNkMQ==`
+Snapshot ID: `Mjg0MDkwNTYsMDAwMDAwMDBmMDhjMWE5ODlhOTYwZjZkNTk2ZTJjNzBiZTIzYWQ4Nw==`

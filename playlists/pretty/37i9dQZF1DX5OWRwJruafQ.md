@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: Sukha
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,079 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,117 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 11 | [Jamanta](https://open.spotify.com/track/6MDnTLjLmWzlav88TLyA1v) | [Lakhi Ghuman](https://open.spotify.com/artist/2PCivTfTiXqggCr9Folam6), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Jamanta](https://open.spotify.com/album/1vgvePwrcyUGI8iczJp3WZ) | 2:31 |
 | 12 | [WAR](https://open.spotify.com/track/4Tr9TEb18Jb6hQxeXXzZcX) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [WAR](https://open.spotify.com/album/5hIEc8FpmTpxkaCGc09IgN) | 2:56 |
 | 13 | [KILLSHOT](https://open.spotify.com/track/0kkipac2zXY3DO7UcajsAg) | [Bir](https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N), [Dhanju](https://open.spotify.com/artist/3SQVNBF31sOSgXeXzkGW9M), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [KILLSHOT](https://open.spotify.com/album/51xLM3es2JQBxvbeRcKDEs) | 2:37 |
-| 14 | [Bai Bai Bai De 22 Kille](https://open.spotify.com/track/2Hb0FPA15GxnAhnLIyDeuh) | [Nav Meet](https://open.spotify.com/artist/3B59MsCySivKuN3qRePPOb) | [Bai Bai Bai De 22 Kille](https://open.spotify.com/album/7b24LEvxmdWknkkzLN092i) | 2:49 |
+| 14 | [Bai Bai](https://open.spotify.com/track/2Hb0FPA15GxnAhnLIyDeuh) | [Nav Meet](https://open.spotify.com/artist/3B59MsCySivKuN3qRePPOb) | [Bai Bai](https://open.spotify.com/album/7b24LEvxmdWknkkzLN092i) | 2:49 |
 | 15 | [Munda Taye Da](https://open.spotify.com/track/3fPfacthr4EG3ZwwXkkHBu) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Let's Go](https://open.spotify.com/album/53ljSpMqlS6b8p5dZfL9Pf) | 2:45 |
 | 16 | [Unanswerable](https://open.spotify.com/track/0nestoDLiYS47RsEiET5fC) | [Prabh Bains](https://open.spotify.com/artist/1W3MZbE7esUbdnZ0Vdpb7y), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Unanswerable](https://open.spotify.com/album/3liOTxNCO9JIZnVB50hFUV) | 2:54 |
 | 17 | [Indeed](https://open.spotify.com/track/0FqWAlhKIE4u94zpDtlWjw) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Dripster](https://open.spotify.com/album/0ljkVjMHqSVyeNq8sLuCL5) | 2:08 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 23 | [Lalkara](https://open.spotify.com/track/2oenSXLDbWVaaL7QjSGYj5) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:40 |
 | 24 | [Mittran Di Tohr](https://open.spotify.com/track/3ZHt5EVUy4bIAWXjEJQKkf) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Haakam](https://open.spotify.com/artist/1gPdNRLkL8J1nZrck72moJ), [Preet Hundal](https://open.spotify.com/artist/3jbXizgjZpi8FZ9g28wb1c) | [Villain](https://open.spotify.com/album/5tS0ZaJl2qopJ4ghermqUS) | 2:43 |
 | 25 | [Note](https://open.spotify.com/track/0uwbqLpDeFQLnBTvDsMl8C) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Let's Go](https://open.spotify.com/album/53ljSpMqlS6b8p5dZfL9Pf) | 3:07 |
-| 26 | [Street Flow](https://open.spotify.com/track/6OrstIkLUMihQEgQv4txvy) | [Armaan Dhillon](https://open.spotify.com/artist/7tKbaCF35AFn9aXt22LFoC), [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [Legacy](https://open.spotify.com/album/0m8UoInWemJ0sdaS2GIqai) | 2:16 |
+| 26 | [STREET Flow](https://open.spotify.com/track/4pVizj13VbHI010vGoA3DR) | [Armaan Dhillon](https://open.spotify.com/artist/7tKbaCF35AFn9aXt22LFoC) | [STREET Flow](https://open.spotify.com/album/6DSw9P317UljN6m1SHnvdW) | 2:16 |
 | 27 | [Nobody Knows](https://open.spotify.com/track/4ymJPdUwuzdlOSZgEIpoWq) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Nobody Knows](https://open.spotify.com/album/3CqHboq7IB4Brebg1azznk) | 4:36 |
 | 28 | [Whatcha Doin'](https://open.spotify.com/track/3O4pPBep2Rzn6KS2iqdrin) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:17 |
 | 29 | [Jawani](https://open.spotify.com/track/6gxKi4gPXcvG52gsRogOIS) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Haakam](https://open.spotify.com/artist/1gPdNRLkL8J1nZrck72moJ) | [Villain](https://open.spotify.com/album/5tS0ZaJl2qopJ4ghermqUS) | 2:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 99 | [Nah They Can't](https://open.spotify.com/track/5RXc1cmSNl3DSRThl2Ii4W) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 3:24 |
 | 100 | [If I Die](https://open.spotify.com/track/6Hz3tNl55T31nuoX5NKybR) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [If I Die](https://open.spotify.com/album/78piK5s0g1fcELSLFzvDbI) | 3:06 |
 
-Snapshot ID: `MCwwN2U0YjMzMTdiMTI0MmE3N2NmYTVjZjU0YjA4OTI1YTUwYjUzNTg4`
+Snapshot ID: `MCwxNWYwZTRlMmJiODQxNzQyN2VmNGE4ZjVlYjZiYmE1ZjY0NTE5MTAx`

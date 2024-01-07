@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain]
 
 > Y que retumbe la bandona con puros corridos de 24k\. La Arrolladora Banda El Limón en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,456 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,554 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain]
 | 28 | [141](https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [141](https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z) | 2:55 |
 | 29 | [Manuel Juárez](https://open.spotify.com/track/1pVPh9e9gsgmxCmGljoWta) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian con Tambora](https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi) | 4:38 |
 | 30 | [En El Radio Un Cochinero \(Remix\)](https://open.spotify.com/track/78nK6LUy3FutFRJpRU9Guy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [En El Radio Un Cochinero \(Remix\)](https://open.spotify.com/album/5yZka2dPlS6Vgh6e0fL9v1) | 3:35 |
-| 31 | [La Cheyene del Año](https://open.spotify.com/track/1k1kg1xFTxodz5bhh1WIG3) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 3:00 |
+| 31 | [Mi Vicio Más Grande](https://open.spotify.com/track/3YrTZUat5cgeVhrxEZvG1d) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Mi Vicio Más Grande](https://open.spotify.com/album/4Tl5QOkNgX6INDWg6mMfZB) | 2:17 |
 | 32 | [Cuando los Necesité \- Banda](https://open.spotify.com/track/6Qx0b9ArGdO5LCnG9UBdkO) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Señalado por Costumbre](https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs) | 3:02 |
 | 33 | [Un Tabaco \(En Vivo\)](https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W) | [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Un Tabaco \(En Vivo\)](https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p) | 3:27 |
 | 34 | [Quiero Charlar Con La Muerte](https://open.spotify.com/track/7rkHACbUWdirRZ3lrHCxET) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Soy Así](https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk) | 3:04 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain]
 | 37 | [Está De Parranda El Jefe \- Corrido](https://open.spotify.com/track/6vjrC6SFwlhMDcXp19IBIL) | [Banda Sinaloense MS de Sergio Lizárraga](https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP) | [Corridos Famosos Al Estilo De...](https://open.spotify.com/album/5ZDjSIPKk4NCxbepk6Qvcm) | 2:45 |
 | 38 | [Ruleteando el Mezcal](https://open.spotify.com/track/38FE7ifcC6GF1IKUJkEVyh) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA) | [Caricias Vendidas](https://open.spotify.com/album/4UsRx3AQyi7zl0la69F0K7) | 3:11 |
 | 39 | [Pura Sombreriza](https://open.spotify.com/track/0obbAYSS1mu1DFat1eJvSX) | [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pura Sombreriza](https://open.spotify.com/album/2y5pAezJKZJOFKIxDyoOCQ) | 3:59 |
-| 40 | [Mi Vicio Más Grande](https://open.spotify.com/track/3YrTZUat5cgeVhrxEZvG1d) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Mi Vicio Más Grande](https://open.spotify.com/album/4Tl5QOkNgX6INDWg6mMfZB) | 2:17 |
+| 40 | [La Cheyene del Año](https://open.spotify.com/track/1k1kg1xFTxodz5bhh1WIG3) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 3:00 |
 | 41 | [En la Sierra y la Ciudad \(La China\)](https://open.spotify.com/track/4d87IagHd2tUKqPup408jJ) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr) | 3:24 |
 | 42 | [La Despedida](https://open.spotify.com/track/65KWKx5WQcjKTJ2gcki1i3) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [La Despedida](https://open.spotify.com/album/2FzJZvtg6raSxzQw21HQZ5) | 2:59 |
 | 43 | [El Selectivo](https://open.spotify.com/track/3XSEYfxNxAkTgmPSQeJgnA) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Selectivo](https://open.spotify.com/album/2ZNSAHSv7PttcfGTfooL7s) | 3:07 |
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain]
 | 62 | [El Sinvergüenza \(Con Banda Sinaloense\)](https://open.spotify.com/track/6mtpdwKaX6wQLqOgh6I6ys) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Imperio](https://open.spotify.com/album/4n0IYzVbxLFckUKpurk6kN) | 3:02 |
 | 63 | [Don Dinero](https://open.spotify.com/track/5C1fs86eZF8fC32nphXuD1) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Money](https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu) | 2:51 |
 | 64 | [Catarino y los Rurales](https://open.spotify.com/track/2I70vOEwCslFHPgubPRN67) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [30 Aniversario](https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf) | 2:15 |
-| 65 | [Botas Blancas](https://open.spotify.com/track/2FRquaTV3ifxdTVgqdHTPA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Edgardo Nuñez Con La Séptima Banda](https://open.spotify.com/album/23ZBJlR3UXpNAsYor1GzB4) | 2:48 |
+| 65 | [Ray02](https://open.spotify.com/track/6ghrwhaBnkhJaEM25wm3s4) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Cosas Del Diablo](https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo) | 2:25 |
 | 66 | [El M Grande](https://open.spotify.com/track/4DMuDJisndgBlDGsvx5yG8) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [El M Grande](https://open.spotify.com/album/3mtVCsqcqQ9N56rIeLbO5y) | 3:00 |
-| 67 | [Ray02](https://open.spotify.com/track/6ghrwhaBnkhJaEM25wm3s4) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Cosas Del Diablo](https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo) | 2:25 |
+| 67 | [Botas Blancas](https://open.spotify.com/track/2FRquaTV3ifxdTVgqdHTPA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Edgardo Nuñez Con La Séptima Banda](https://open.spotify.com/album/23ZBJlR3UXpNAsYor1GzB4) | 2:48 |
 | 68 | [Los Ninis](https://open.spotify.com/track/2nGg4W9aN3awoVL2Y5dmve) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [La Historia De Mis Manos](https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z) | 2:53 |
 | 69 | [El R\-R](https://open.spotify.com/track/0TptTiZJYohjInL5NFDbNX) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Money](https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu) | 3:44 |
 | 70 | [Hace Falta Alfredo](https://open.spotify.com/track/3AVWAizGEQ5z10Ac3Y1I4R) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ), [Fuera De Serie](https://open.spotify.com/artist/7cBeYyUmgHMHbDO2Zr7utS) | [Emilio Garra](https://open.spotify.com/album/7eXf8TK9XzmQHmaGDlW7pv) | 3:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain]
 | 74 | [RDSD \(En Vivo\)](https://open.spotify.com/track/71zZZw8sUwqL7EAS1CcwQS) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Banda La Fantastica](https://open.spotify.com/artist/0blK492eLddsqmXcwdBcye) | [RDSD \(En Vivo\)](https://open.spotify.com/album/5GnUydkVPaQHMBjVOcxnHH) | 3:05 |
 | 75 | [Entre Pancho y Pancho 2.0](https://open.spotify.com/track/2p35OtN25aGq8Brpp3GyiV) | [Arley Perez](https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ) | [Entre Pancho y Pancho 2.0](https://open.spotify.com/album/59JMwQSNIq5w6h7PaHiYYv) | 2:53 |
 
-Snapshot ID: `MCw2MDQ0YjA1NTJiNWQyNDE1NTg5NzYyMDhlY2UwZDA2OTlmYTQ4YThm`
+Snapshot ID: `MCxkOWI1YjllMGI1ZDU2ODk5Yzg2NGZkYTMwY2QxMzljYzQzNWQxN2U4`

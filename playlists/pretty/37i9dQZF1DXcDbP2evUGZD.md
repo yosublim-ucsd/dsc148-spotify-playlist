@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2023</a>! Meet them first at the MU:CON 2023 official playlist\. \(뮤콘 2023 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,190 likes - 123 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,194 likes - 123 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 43 | [Sounds Of The Universe](https://open.spotify.com/track/1BEMEYDse9pEV23MqIN2i6) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [THE SOLUTIONS](https://open.spotify.com/album/5IxlRunSlwhbUNyuEjp4ms) | 4:47 |
 | 44 | [In My City](https://open.spotify.com/track/3NpmqDtpJsnPrbLYKGS5rD) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [SIGNATURE](https://open.spotify.com/album/2OgkXsEmU9TsgOcsKCF86t) | 3:44 |
 | 45 | [Dance With Me](https://open.spotify.com/track/49K2o60MwtNQiXowEbLg9a) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [LOAD](https://open.spotify.com/album/6gx4lvSob7w5Kj2ZBqWSMa) | 3:17 |
-| 46 | [Braindead](https://open.spotify.com/track/10qiH1RJkexhTUuN562FsP) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Braindead](https://open.spotify.com/album/2dIATUDwagqAym02UKbfWV) | 2:43 |
+| 46 | [Braindead](https://open.spotify.com/track/0V1DMFiDjbkibUvgapzTPj) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Braindead](https://open.spotify.com/album/5Y2eg7LXKaXjcDcfaYVgwj) | 2:43 |
 | 47 | [cutlery collector](https://open.spotify.com/track/0ztNEk0IqFl3qK5dcFjuTE) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [love](https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS) | 3:06 |
 | 48 | [Flying Fish](https://open.spotify.com/track/5DGHfcMOCzfxiJnhybJHov) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Flying Fish](https://open.spotify.com/album/2Q5XpQhGIyRB5TUHTqkWQl) | 3:01 |
 | 49 | [날씨의 요정 Fairy Castor](https://open.spotify.com/track/3RbRTEloMZ6VNTJYhHNCZU) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [희망서 WE WISH.docx](https://open.spotify.com/album/6NNMjyxcMwPMfLd7ykF1qO) | 3:47 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 122 | [MY TIME](https://open.spotify.com/track/20qnGriaje2qZDJvMxUCwJ) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [MY TIME \- Single](https://open.spotify.com/album/2Rt768cOvDpDQKPmkS1v2X) | 3:08 |
 | 123 | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/track/0vWQo4lc4BhZGqKy2LayLC) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [TOUCHDOWN \(ใกล้ดาว\) \- Single](https://open.spotify.com/album/3Qurr0NOGDO1hBLZxa64Iy) | 3:27 |
 
-Snapshot ID: `MCw5NDQ5NWQ4YmFiMThhN2U0YWI1YjE0Yzc5MGI1YWE0NjUwMGE0MTNk`
+Snapshot ID: `MCwwNTYxMDZlMmYxNTc2YzA5NTVjM2Y4YTNjZWFmNDc1MmUzMmVlN2E5`

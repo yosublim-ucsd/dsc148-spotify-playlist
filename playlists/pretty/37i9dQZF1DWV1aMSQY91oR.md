@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: The Game, Big Hit
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,368 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,374 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 38 | [Feed Me Rappers Feed Me Beats](https://open.spotify.com/track/5eNlLqSj6xyxFFJzEohKha) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Feed Me Rappers Feed Me Beats](https://open.spotify.com/album/4gugGlTrw90MYB24ZZenBy) | 3:24 |
 | 39 | [Up The Ladder](https://open.spotify.com/track/2lKbzRMrPXxJJHuhPJv5kg) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Up The Ladder](https://open.spotify.com/album/1Xd3V1AD3Z3VhG1LRtWDuV) | 2:40 |
 | 40 | [Tonka Truck](https://open.spotify.com/track/2MFQGJmG9JH3A93AxSQGKW) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Tonka Truck](https://open.spotify.com/album/7jktwHuYoePFWWTeSrCaID) | 3:12 |
-| 41 | [Zone Nord \#2](https://open.spotify.com/track/42suMp29k5WNGEiiBnRvEi) | [Rimkhana](https://open.spotify.com/artist/1nTWQ8n1lHOC69qAA6EqxY), [Samitraille](https://open.spotify.com/artist/42xyFtWAoiDUVymR5knHrc), [Nyma](https://open.spotify.com/artist/4TDyAzlbqv49UiLPSXqWUC), [Quartier de France](https://open.spotify.com/artist/2dU0PU2IT44CstSn8ajr8P), [Gips](https://open.spotify.com/artist/59PFMyNd41PhFTlrSQjyZ1) | [Zone Nord \#2](https://open.spotify.com/album/2zwKF4aLUusQXqZIqWGzII) | 2:38 |
+| 41 | [Zone Nord \#2](https://open.spotify.com/track/42suMp29k5WNGEiiBnRvEi) | [Rimkhana](https://open.spotify.com/artist/1nTWQ8n1lHOC69qAA6EqxY), [Samitraille](https://open.spotify.com/artist/42xyFtWAoiDUVymR5knHrc), [Nyma](https://open.spotify.com/artist/2DdjUkxsFC67DqDiHKguqQ), [Quartier de France](https://open.spotify.com/artist/2dU0PU2IT44CstSn8ajr8P), [Gips](https://open.spotify.com/artist/59PFMyNd41PhFTlrSQjyZ1) | [Zone Nord \#2](https://open.spotify.com/album/2zwKF4aLUusQXqZIqWGzII) | 2:38 |
 | 42 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 |
 | 43 | [All I Want Is You \(feat\. NorthsideBenji\)](https://open.spotify.com/track/3C9YXCS9aS60nyGqL4X13l) | [Da Crook](https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g), [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [All I Want Is You \(feat\. NorthsideBenji\)](https://open.spotify.com/album/7cKlRpmFXEjClzmrtmsHck) | 3:00 |
 | 44 | [Said It Freestyle](https://open.spotify.com/track/7BoCBEhYkyVHIsehWRvyM3) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Said It Freestyle](https://open.spotify.com/album/4QS4ozuXb01Z1hCEWZBaGQ) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [BACK2ORBIT](https://open.spotify.com/track/67UwEESR9kfCdMuTNLeXaK) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW), [451](https://open.spotify.com/artist/0x2owJPJ7tQZaSSKJq6GXA) | [CAUSE AND EFFECT](https://open.spotify.com/album/0Wx9bpnH2kqj4TJ7mdW6dY) | 2:35 |
 | 50 | [Therapy](https://open.spotify.com/track/70lkOeQI0L3bSgj183ZPm5) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Therapy](https://open.spotify.com/album/7rROu8cbJwD6gr3DwcPx07) | 2:08 |
 
-Snapshot ID: `MCwyZTc2NmE1NzQ0MGM0MjU3Y2ExMjdmNmEzMmY3YTlkN2RlNjc4M2U5`
+Snapshot ID: `MCw2NDNjYzZlNjY1OWNkMWIwNjNiN2FkYmY1ZDliNmQxY2I0M2E2MTZm`

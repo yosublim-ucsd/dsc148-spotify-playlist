@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xEkN2.md) - [plain]
 
 > This is Panteon Rococo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,084 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,110 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xEkN2.md) - [plain]
 | 38 | [Un Derecho de Nacimiento](https://open.spotify.com/track/5iRyYvj7aDYImzxBTDeN3J) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Un Canto por México, Vol\. 1](https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE) | 5:21 |
 | 39 | [Borracho Drunk Steady Beer](https://open.spotify.com/track/2zl3Y1AorHtOI8KNbTT1DA) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 3:47 |
 | 40 | [Infiernos](https://open.spotify.com/track/1IeYD7s1s656dhU68VwS4e) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Infiernos](https://open.spotify.com/album/2VZbdgo7xM6fdY9PFlqnqm) | 4:53 |
-| 41 | [Seguir Bailando](https://open.spotify.com/track/2Qe2zYpOydMAWtiliU6Rep) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 3:57 |
-| 42 | [Lamento De Amor](https://open.spotify.com/track/2gNb1tTjQmPase1ZhrS83L) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Rigo Es Amor](https://open.spotify.com/album/4nbp0G88SZuGOUCgVYHw26) | 3:15 |
+| 41 | [Lamento De Amor](https://open.spotify.com/track/2gNb1tTjQmPase1ZhrS83L) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Rigo Es Amor](https://open.spotify.com/album/4nbp0G88SZuGOUCgVYHw26) | 3:15 |
+| 42 | [Seguir Bailando](https://open.spotify.com/track/2Qe2zYpOydMAWtiliU6Rep) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 3:57 |
 | 43 | [Abajo y a la Izquierda](https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Ejército de Paz](https://open.spotify.com/album/31M3drSiYALJMah8o3PGke) | 3:45 |
 | 44 | [Es Tan Poco el Tiempo](https://open.spotify.com/track/0vVub8zvVEpxRn3q1D7qaM) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 4:44 |
 | 45 | [Inocente Pobre Amigo](https://open.spotify.com/track/6KpWUri1N9k4yC80UKizLC) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Amor Eterno al Divo / Tributo de Rock](https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xEkN2.md) - [plain]
 | 49 | [No Me Vayas a Dejar](https://open.spotify.com/track/15WIt660rRzkOZxD6w5h8T) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:12 |
 | 50 | [Déjala Tranquila](https://open.spotify.com/track/4VZO5W0fsTU6jkurFkIkGT) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Ni Carne Ni Pescado](https://open.spotify.com/album/04HBP9fEv4mvhtBV0DPrm6) | 3:12 |
 
-Snapshot ID: `Mjg0MDc3MDMsMDAwMDAwMDBhNzZmOTgzMGRmMmZlNDk0Nzk3N2UyMGZjOTc5OTU1YQ==`
+Snapshot ID: `Mjg0MDkwNTYsMDAwMDAwMDAzMzFhZGRmZDM1MTZlNDhmODQ2ZDNiNjI4ODg4OGEzYQ==`

@@ -1,12 +1,12 @@
 {
   "description": "La banda de sonido de tu d\u00eda.",
-  "num_followers": 166154,
+  "num_followers": 166242,
   "original_name": "Rock del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTUzY2E5MzVmNmJkN2VmZmE2ZWVkMzQ4ZDM0ZGE3ZjYyMWMwODE1",
+  "snapshot_id": "MCwwMzRjNGQ4OWE1OTQzYzZkODAyMGFlZDZkMWMwNzM2NjY4MDFiZjJh",
   "tracks": [
     {
       "added_at": "2024-01-04 23:18:16",
@@ -555,8 +555,8 @@
     {
       "added_at": "2024-01-04 23:18:16",
       "album": {
-        "name": "Oktubre",
-        "url": "https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6"
+        "name": "Gulp!",
+        "url": "https://open.spotify.com/album/5UATn22oJa1cBrnbnZ88eA"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
         }
       ],
-      "duration_ms": 334600,
-      "name": "Ji Ji Ji",
-      "url": "https://open.spotify.com/track/1tW6LiJGXGlReuNP38wrKb"
+      "duration_ms": 247066,
+      "name": "La Bestia Pop",
+      "url": "https://open.spotify.com/track/5WeBnrDPyLhxruxVryHCkn"
     },
     {
       "added_at": "2024-01-04 23:18:16",
@@ -675,22 +675,18 @@
     {
       "added_at": "2024-01-04 23:18:16",
       "album": {
-        "name": "Otro D\u00eda en el Planeta Tierra",
-        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
+        "name": "Esp\u00edritu",
+        "url": "https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm"
       },
       "artists": [
         {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        },
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Mancha De Rolando",
+          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
         }
       ],
-      "duration_ms": 261545,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/6q41qt2R9K8BXEzmzImEGO"
+      "duration_ms": 202360,
+      "name": "Chino",
+      "url": "https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3"
     },
     {
       "added_at": "2024-01-04 23:18:16",
@@ -711,8 +707,8 @@
     {
       "added_at": "2024-01-04 23:18:16",
       "album": {
-        "name": "Gulp!",
-        "url": "https://open.spotify.com/album/5UATn22oJa1cBrnbnZ88eA"
+        "name": "Oktubre",
+        "url": "https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6"
       },
       "artists": [
         {
@@ -720,25 +716,29 @@
           "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
         }
       ],
-      "duration_ms": 247066,
-      "name": "La Bestia Pop",
-      "url": "https://open.spotify.com/track/5WeBnrDPyLhxruxVryHCkn"
+      "duration_ms": 334600,
+      "name": "Ji Ji Ji",
+      "url": "https://open.spotify.com/track/1tW6LiJGXGlReuNP38wrKb"
     },
     {
       "added_at": "2024-01-04 23:18:16",
       "album": {
-        "name": "Esp\u00edritu",
-        "url": "https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm"
+        "name": "Otro D\u00eda en el Planeta Tierra",
+        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
       },
       "artists": [
         {
-          "name": "Mancha De Rolando",
-          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 202360,
-      "name": "Chino",
-      "url": "https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3"
+      "duration_ms": 261545,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/6q41qt2R9K8BXEzmzImEGO"
     },
     {
       "added_at": "2024-01-04 23:18:16",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-01-04 23:18:16",
       "album": {
-        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 209893,
-      "name": "Mi Caramelo - Live In Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/2pC6LUWFEf2S6BIuBjrWWF"
-    },
-    {
-      "added_at": "2024-01-04 23:18:16",
-      "album": {
         "name": "Devorando Intensidad",
         "url": "https://open.spotify.com/album/16ycW7h7bErtyFt9CI5BN8"
       },
@@ -1079,18 +1063,18 @@
     {
       "added_at": "2024-01-04 23:18:16",
       "album": {
-        "name": "Divididos Por La Felicidad",
-        "url": "https://open.spotify.com/album/0iMPnRq7PL82Zrah0gTQBR"
+        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
       },
       "artists": [
         {
-          "name": "Sumo",
-          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
         }
       ],
-      "duration_ms": 222533,
-      "name": "La Rubia Tarada",
-      "url": "https://open.spotify.com/track/0RaRyvHA4z1VWq9BJhA65s"
+      "duration_ms": 209893,
+      "name": "Mi Caramelo - Live In Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/2pC6LUWFEf2S6BIuBjrWWF"
     },
     {
       "added_at": "2024-01-04 23:18:16",
@@ -1111,6 +1095,22 @@
       "duration_ms": 247419,
       "name": "Tan Distintos",
       "url": "https://open.spotify.com/track/5lVxdKsJkQClhBLK7lfurE"
+    },
+    {
+      "added_at": "2024-01-04 23:18:16",
+      "album": {
+        "name": "Divididos Por La Felicidad",
+        "url": "https://open.spotify.com/album/0iMPnRq7PL82Zrah0gTQBR"
+      },
+      "artists": [
+        {
+          "name": "Sumo",
+          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "La Rubia Tarada",
+      "url": "https://open.spotify.com/track/0RaRyvHA4z1VWq9BJhA65s"
     },
     {
       "added_at": "2024-01-04 23:18:16",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-01-04 23:18:16",
       "album": {
+        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 321640,
+      "name": "El Tiempo No Para - Live In Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/1PBFuWxDnAj0iRkPaePboA"
+    },
+    {
+      "added_at": "2024-01-04 23:18:16",
+      "album": {
         "name": "Devorador De Corazones",
         "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 214090,
       "name": "Las cosas que no se tocan",
       "url": "https://open.spotify.com/track/5Y3T9zncw2XDAcn9pFliKT"
-    },
-    {
-      "added_at": "2024-01-04 23:18:16",
-      "album": {
-        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 321640,
-      "name": "El Tiempo No Para - Live In Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/1PBFuWxDnAj0iRkPaePboA"
     },
     {
       "added_at": "2024-01-04 23:18:16",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-01-04 23:18:16",
       "album": {
-        "name": "Casi Justicia Social I",
-        "url": "https://open.spotify.com/album/0WFzTYmc4FzB7slxvTgLky"
-      },
-      "artists": [
-        {
-          "name": "Don Osvaldo",
-          "url": "https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8"
-        }
-      ],
-      "duration_ms": 339480,
-      "name": "Suerte",
-      "url": "https://open.spotify.com/track/7klCcHpOKNQlQMpPDYFhKH"
-    },
-    {
-      "added_at": "2024-01-04 23:18:16",
-      "album": {
         "name": "Chau",
         "url": "https://open.spotify.com/album/43JH3qZu6rXGBqegyUq9J4"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 320656,
       "name": "Chau",
       "url": "https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj"
+    },
+    {
+      "added_at": "2024-01-04 23:18:16",
+      "album": {
+        "name": "Casi Justicia Social I",
+        "url": "https://open.spotify.com/album/0WFzTYmc4FzB7slxvTgLky"
+      },
+      "artists": [
+        {
+          "name": "Don Osvaldo",
+          "url": "https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8"
+        }
+      ],
+      "duration_ms": 339480,
+      "name": "Suerte",
+      "url": "https://open.spotify.com/track/7klCcHpOKNQlQMpPDYFhKH"
     }
   ],
   "unique_name": "Rock del D\u00eda",

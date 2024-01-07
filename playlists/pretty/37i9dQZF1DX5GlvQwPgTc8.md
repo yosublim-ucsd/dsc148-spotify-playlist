@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GlvQwPgTc8.md) - [plain]
 
 > Your favourite party hits to kick off the weekend\. Can you taste it?
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,746 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,745 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GlvQwPgTc8.md) - [plain]
 | 40 | [SAD \- Imanbek xxx Remix](https://open.spotify.com/track/4x5ymi4akay9Fq5Xm1PW3E) | [Rasster](https://open.spotify.com/artist/3LVYHgfHgCTy3QSRt5kKQg), [Erin Bloomer](https://open.spotify.com/artist/5vPqlDBYNZiF5SrHGS6Cyt), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [SAD \(Imanbek xxx Remix\)](https://open.spotify.com/album/0MoT8k5F7qoeCcP2DfW8GF) | 2:54 |
 | 41 | [Best Be Believing \- Shadow Child Remix](https://open.spotify.com/track/4ZOuB9nVbvyeEIYKbm55O4) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38), [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9) | [Body Music \(Remixed\)](https://open.spotify.com/album/02ia0xYRyujnMk3AuCUqoR) | 5:51 |
 | 42 | [Hey Hey](https://open.spotify.com/track/0R8dsqbzcoHoqUN5MLWyOi) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi) | [Hey Hey](https://open.spotify.com/album/3hsd4yQ7Bk7k2OpRyGTtF1) | 3:10 |
-| 43 | [Home \(feat\. Bonn\)](https://open.spotify.com/track/4aTtHoSBB0CuQGA6vXBNyp) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Home \(feat\. Bonn\)](https://open.spotify.com/album/1cL51Zp86zgzMDTXRiq8w9) | 3:59 |
-| 44 | [Move All Night \(feat\. Kole\)](https://open.spotify.com/track/6kNx6oySNfaqH3P4CGiKVL) | [SNBRN](https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI), [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [KOLE](https://open.spotify.com/artist/7qie8FfXQTHp0azRKySWd8) | [Move All Night \(feat\. Kole\)](https://open.spotify.com/album/5U2Vw8rl0lLAV69R5Lf9en) | 3:17 |
+| 43 | [Move All Night \(feat\. Kole\)](https://open.spotify.com/track/6kNx6oySNfaqH3P4CGiKVL) | [SNBRN](https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI), [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [KOLE](https://open.spotify.com/artist/7qie8FfXQTHp0azRKySWd8) | [Move All Night \(feat\. Kole\)](https://open.spotify.com/album/5U2Vw8rl0lLAV69R5Lf9en) | 3:17 |
+| 44 | [Home \(feat\. Bonn\)](https://open.spotify.com/track/4aTtHoSBB0CuQGA6vXBNyp) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Home \(feat\. Bonn\)](https://open.spotify.com/album/1cL51Zp86zgzMDTXRiq8w9) | 3:59 |
 | 45 | [No Therapy](https://open.spotify.com/track/7tUTCcqkMCnC9qLqbQeI0T) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [No Therapy](https://open.spotify.com/album/0XTNNkLIXEGtOqevtADXgi) | 2:52 |
 | 46 | [Obsessed](https://open.spotify.com/track/7p4tetW3qNwSCz92PLGJg5) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Obsessed](https://open.spotify.com/album/6rlqFfCAuPnZUFmS8sCIWw) | 3:29 |
 | 47 | [Lullaby](https://open.spotify.com/track/5mPl0yWNZXXMQnsLM8aiiq) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [The Wave](https://open.spotify.com/album/23VMZHUVxRNXdx9ycAaiNd) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GlvQwPgTc8.md) - [plain]
 | 49 | [Particula](https://open.spotify.com/track/0YNt1BzzwTwkeIMDciq7u0) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [Major Lazer Essentials](https://open.spotify.com/album/2TVyGtVP8przbQk6f2oSXl) | 3:24 |
 | 50 | [SBCNCSLY](https://open.spotify.com/track/3CP1ehiVZEOl7IZ6dORXuS) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Subconsciously](https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS) | 6:24 |
 
-Snapshot ID: `MCw5ZjdhYmFiMDM5YjNkOTA5ZTQ2Y2RmYzM4ZjFkMDA1MDcwNGI5NmVk`
+Snapshot ID: `MCwwMmMwMjZkZDU3YTM3ODg2ZjYxMjU4MDM1OTdhYTFjYzE3YzA5MWY2`

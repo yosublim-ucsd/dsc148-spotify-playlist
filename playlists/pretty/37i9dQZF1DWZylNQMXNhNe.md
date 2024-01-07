@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Lia Clark
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,210 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,250 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 27 | [BONEKINHA](https://open.spotify.com/track/79Djb1E319BwnYZ8cEA1mQ) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [BONEKINHA](https://open.spotify.com/album/21YCUy1thmnxAbcIOsJy8y) | 2:48 |
 | 28 | [Calcinha](https://open.spotify.com/track/022FOWLBvvshrVNm6cma9l) | [Kika Boom](https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P), [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe) | [Calcinha](https://open.spotify.com/album/4FrEs97Q36QQ1JSr5uGRLW) | 2:58 |
 | 29 | [VIP \*\-\*](https://open.spotify.com/track/2upubCYkDvATo6ZZwHqrp9) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 2:56 |
-| 30 | [só sei me apaixonar](https://open.spotify.com/track/2t9aq7casApouXjzTlQUf1) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq) | [só sei me apaixonar](https://open.spotify.com/album/1dVHwfsxBLGjENRogLrIo7) | 2:27 |
-| 31 | [Difícil De Esquecer](https://open.spotify.com/track/59gPzC6zAatOA6Rdjnve5q) | [Romero Ferro](https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R), [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE) | [Difícil De Esquecer](https://open.spotify.com/album/4y85puLIpZ71bXlW5O7uKA) | 2:29 |
+| 30 | [Difícil De Esquecer](https://open.spotify.com/track/59gPzC6zAatOA6Rdjnve5q) | [Romero Ferro](https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R), [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE) | [Difícil De Esquecer](https://open.spotify.com/album/4y85puLIpZ71bXlW5O7uKA) | 2:29 |
+| 31 | [só sei me apaixonar](https://open.spotify.com/track/2t9aq7casApouXjzTlQUf1) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq) | [só sei me apaixonar](https://open.spotify.com/album/1dVHwfsxBLGjENRogLrIo7) | 2:27 |
 | 32 | [Pitbull Sem Coleira](https://open.spotify.com/track/01BOygx1zefZHjpmgkgqIA) | [Bixarte](https://open.spotify.com/artist/3Fpst9Ng2gdZjD0xfIla3o), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Traviarcado](https://open.spotify.com/album/29JRrndgwUbbGDjyEwre8y) | 2:22 |
 | 33 | [AMEIANOITE](https://open.spotify.com/track/0zQhdzUijGmorUhopvtoue) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Noitada](https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY) | 2:46 |
 | 34 | [Que Passa](https://open.spotify.com/track/77zAczEvVm3PYlltG4BbtN) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Que Passa](https://open.spotify.com/album/00VwF5TMBx29hiyHUFIuNR) | 3:13 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 44 | [RADAR \- AO VIVO](https://open.spotify.com/track/4g771Ik6PRt0poI1wXddXb) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE \(AO VIVO\)](https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d) | 3:04 |
 | 45 | [GRETA](https://open.spotify.com/track/6Li2optWeB4GobWGCzN4wf) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:32 |
 | 46 | [Triste com T](https://open.spotify.com/track/34mhUL0A8oPJbg1DWe1HMK) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/5kH6l7hx5ZJJHLiwt7LILj) | 2:12 |
-| 47 | [Penetra \- Pedro Sampaio Remix](https://open.spotify.com/track/7j3doxjvebuL0ESuTIHFlA) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [O Kannalha](https://open.spotify.com/artist/074zrnA9SL424EnrYgoKmq), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [After](https://open.spotify.com/album/3ihmqghhBO5ZVx01RpYp5R) | 2:30 |
-| 48 | [Cadeado](https://open.spotify.com/track/2rfTApJDFBGy96I3AgQh6I) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Noitada](https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY) | 2:48 |
+| 47 | [Cadeado](https://open.spotify.com/track/2rfTApJDFBGy96I3AgQh6I) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Noitada](https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY) | 2:48 |
+| 48 | [Penetra \- Pedro Sampaio Remix](https://open.spotify.com/track/7j3doxjvebuL0ESuTIHFlA) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [O Kannalha](https://open.spotify.com/artist/074zrnA9SL424EnrYgoKmq), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [After](https://open.spotify.com/album/3ihmqghhBO5ZVx01RpYp5R) | 2:30 |
 | 49 | [Bang Bang](https://open.spotify.com/track/165HsSYegdOoZO7jKMt9xb) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/5kH6l7hx5ZJJHLiwt7LILj) | 2:54 |
 | 50 | [Trago Seu Amor de Volta \- Ao Vivo](https://open.spotify.com/track/21AFVwyji9hdtWqlekS4Xx) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [I AM PABLLO \(Ao Vivo\)](https://open.spotify.com/album/4nRBYJ5BaPMk66wyQdeq9O) | 2:34 |
 
-Snapshot ID: `MCw0M2ZlOWVjOWIwMzc4YzE5MmIyMTNkYWZjZGRlNjllZjFlMWU2OWIx`
+Snapshot ID: `MCw4MjUwMmViNTUwZjNhY2QzYzc2YmI0OTg3ZTY0OWJhZDkyYWZjOTg1`

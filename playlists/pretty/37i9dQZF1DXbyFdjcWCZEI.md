@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyFdjcWCZEI.md) - [plain]
 
 > Viento en la cara, pies en el agua y canciones tranqui para disfrutar del paseo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,752 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,830 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyFdjcWCZEI.md) - [plain]
 | 35 | [Musikita del Cielo](https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J), [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Musikita del Cielo](https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz) | 3:00 |
 | 36 | [Amándote](https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 2:30 |
 | 37 | [El Viejo](https://open.spotify.com/track/3ugyzwRwTTIKGkfKPFbmD5) | [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb), [Sebastián Teysera](https://open.spotify.com/artist/4TidDyz02XtlA9d32j1ZYK) | [El Viejo](https://open.spotify.com/album/5p7kLopaRQvub9x68Tk8Bk) | 3:29 |
-| 38 | [Mujer Amante \(versión acústica\)](https://open.spotify.com/track/6D1Theo7lCIUYI8SPtwdN2) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [XX Aniversario En Vivo \- Magos, Espadas Y Rosas](https://open.spotify.com/album/7dbk5SnWgnt485vlCizXBE) | 6:52 |
-| 39 | [Parapente](https://open.spotify.com/track/5C2IVL4XcZmx4lozQybkBW) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Un Koala En Una Palmera](https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM) | 2:42 |
+| 38 | [Parapente](https://open.spotify.com/track/5C2IVL4XcZmx4lozQybkBW) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Un Koala En Una Palmera](https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM) | 2:42 |
+| 39 | [Mujer Amante \(versión acústica\)](https://open.spotify.com/track/6D1Theo7lCIUYI8SPtwdN2) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [XX Aniversario En Vivo \- Magos, Espadas Y Rosas](https://open.spotify.com/album/7dbk5SnWgnt485vlCizXBE) | 6:52 |
 | 40 | [yen3](https://open.spotify.com/track/4OjtJ3VuA51RYAFcr4O8vV) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [yen3](https://open.spotify.com/album/2V3ZN5QG0b5TLBaP9sBmBy) | 3:06 |
 | 41 | [Nunca Quise](https://open.spotify.com/track/4FcFl5vL9Sr5UiU0Qv39Kx) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Animal](https://open.spotify.com/album/5mpZvqI6GZFC38N266RXqg) | 3:16 |
 | 42 | [Mensajes en el Mar](https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Mensajes en el Mar](https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre) | 4:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyFdjcWCZEI.md) - [plain]
 | 49 | [Pequeños Sueños \(Feat\. Natalie Perez\)](https://open.spotify.com/track/2UivQh2IhQJ916OPqxptcz) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Pequeños Sueños \(Feat\. Natalie Perez\)](https://open.spotify.com/album/4vWpM1IlJRmmxtdKkKyU1d) | 3:50 |
 | 50 | [Por Amor al Arte](https://open.spotify.com/track/11J0d0cb0J4Xk4PcRyuJ3k) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [Reset](https://open.spotify.com/album/0DDUTF4YqIOsUpq9MOqWMo) | 2:02 |
 
-Snapshot ID: `MCwzYjA3NDJiM2RjZWE3MDhlYWE3OWJhMjAyMTZkZWI2MmVhOGRkYjM4`
+Snapshot ID: `MCw5ZGI5ZGFlZWUwYmExNjE4NTI3ZDcyMDI3YjM0OWQyNTgxMWY4ZTkz`

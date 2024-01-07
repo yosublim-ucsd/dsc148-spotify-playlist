@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: GHØSTKID
 
-[Spotify](https://open.spotify.com/user/spotify) - 713,301 likes - 30 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 713,339 likes - 30 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 29 | [Breathe](https://open.spotify.com/track/4u2ddKLiHSDxN0TCp8vncF) | [Antiphase](https://open.spotify.com/artist/1YjqeuIKWg7EFVICW6P6jf) | [Breathe](https://open.spotify.com/album/66LBqcGvS2bPsrGfMQ66c8) | 3:19 |
 | 30 | [Faith's Edge](https://open.spotify.com/track/4jUso4iBtSdZ5ZlI90LbMh) | [Red Keep](https://open.spotify.com/artist/1725duX98HxfXbWaJ1c4Gc) | [Faith's Edge](https://open.spotify.com/album/6ugOuYuXGFaNob7Sdv99h1) | 3:33 |
 
-Snapshot ID: `MCxiYTE1MjBkMmZlMjZmMjdiZThjYTZiYzMxMWJlYWZiZjg1MTc0YjFk`
+Snapshot ID: `MCxmYmFmMDhmNTRhOTJlZmMwMmZiY2YyMDEyNzRkNTllMzZlMDI5MzY0`

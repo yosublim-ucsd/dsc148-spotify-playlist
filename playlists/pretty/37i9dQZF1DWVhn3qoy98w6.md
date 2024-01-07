@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: NICO B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,291 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,299 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 73 | [No sé si estás tú](https://open.spotify.com/track/4vUhAUbVdvX2HAkpc4ve8b) | [dj Moderno](https://open.spotify.com/artist/4fsIVmcb0PG8Yv3pgVkEcD) | [No sé si estás tú](https://open.spotify.com/album/0laWshRJitusAA8KjwLQlZ) | 4:44 |
 | 74 | [@ policia](https://open.spotify.com/track/4tMnPgNsQVUCDFkv9TYOtq) | [Serchito trambotiko](https://open.spotify.com/artist/7yNV6fwF1pigvEZTsEaegm), [dn.aire](https://open.spotify.com/artist/7D77FeeK61lP9pa0MFLu1J) | [@ policia](https://open.spotify.com/album/2tlkeGURdObbTFybfp4RAv) | 2:45 |
 | 75 | [Cuando me miras así](https://open.spotify.com/track/51EBpydQ0TFydSNIt7ZsgL) | [bechamel](https://open.spotify.com/artist/0UUzdRb1ccjfETwrFs7uDj) | [Cuando me miras así](https://open.spotify.com/album/1PyCar5wWWjTOZGc0kULZp) | 2:51 |
-| 76 | [Tómbola](https://open.spotify.com/track/2wiJhoM5nkZlIX8OqqIHyM) | [Oreiana](https://open.spotify.com/artist/7b1hCTRzkTW2WqSHothS7y) | [Tómbola](https://open.spotify.com/album/7aFFvfxIxy1tAbRpMSNH7x) | 2:32 |
+| 76 | [Tómbola](https://open.spotify.com/track/2wiJhoM5nkZlIX8OqqIHyM) | [Oreiana](https://open.spotify.com/artist/7b1hCTRzkTW2WqSHothS7y) | [Tómbola](https://open.spotify.com/album/7aFFvfxIxy1tAbRpMSNH7x) | 2:00 |
 | 77 | [Dantzatu](https://open.spotify.com/track/4Ozz3TZEcJFloTqpiDFyR7) | [Yogurinha Borova](https://open.spotify.com/artist/3wI2ad0IMc8rms3cbGSFJA) | [Dantzatu](https://open.spotify.com/album/0ibiGn1MCmwVk0LPQHX1OQ) | 3:03 |
 | 78 | [Parecidos](https://open.spotify.com/track/5AqzxPI2OV0pfBgxV8Tw2n) | [Kiwi](https://open.spotify.com/artist/4hO72hF8DRvNbzdYbqvdg2), [Alazzar](https://open.spotify.com/artist/5sb5cWeOJQVnBE2nyHbEvb) | [Parecidos](https://open.spotify.com/album/1RdQ71jakQC5077LGia4Ab) | 3:30 |
 | 79 | [No tengo corazón](https://open.spotify.com/track/6U6ufgEeMdVI6jjr1lB1y4) | [Reys](https://open.spotify.com/artist/4BZRKAsWk5TcciULvNnY1L), [Asier Martí](https://open.spotify.com/artist/6XygHhOBfxs7pAk8TKpwqw), [MTHR](https://open.spotify.com/artist/3WGmqsuCrW18o0C1XGKpML) | [No tengo corazón](https://open.spotify.com/album/6WoMYoo5FTLUwiBL5pTJlC) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 99 | [Dejarte De Ver](https://open.spotify.com/track/1otG3gGSRMRYg5wzlfJXg1) | [Mr.ANSIA](https://open.spotify.com/artist/0COsuLgiqHRY6HTdZyg9bf) | [Dejarte De Ver](https://open.spotify.com/album/2QwY7xoVIqTRhZrCHAqpoC) | 3:51 |
 | 100 | [LO PUTO MÁS](https://open.spotify.com/track/5DdiCIi7yRv0E6Y5bmE77O) | [INSÚA](https://open.spotify.com/artist/79L3jrwQEA7hgzb6NYEPlO) | [LO PUTO MÁS](https://open.spotify.com/album/5W0qNgjVgvfGUeLWMgbXzH) | 3:40 |
 
-Snapshot ID: `MCwzMGNkMmJmMTUxYWE2N2ZlNTRkMWIxNmMyZjJmMzFlMmNmMzc5MGVh`
+Snapshot ID: `MCw3YzJjMDY5NzMwNGI4Yjc2YjY5NTNlMjVkMjcyYjZjODg5YjE5ZDk3`

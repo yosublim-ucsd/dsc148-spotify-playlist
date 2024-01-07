@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 581907,
+  "num_followers": 581998,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzc1N2JkYWNhNTc1NzdlZmI2OTZhZGQzNDNjZGM0MzU1NjA1ZDk5",
+  "snapshot_id": "MCw3MjAxNmRmZWNlN2VjZTgzZDJjZGY2OGE5YzliMjI5NTM4OTY0YjEz",
   "tracks": [
     {
       "added_at": "2023-10-19 09:54:20",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Seventeen Going Under (Deluxe)",
-        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 297933,
-      "name": "Seventeen Going Under",
-      "url": "https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "This Is All Yours",
         "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 173630,
       "name": "Left Hand Free",
       "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Seventeen Going Under (Deluxe)",
+        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 297933,
+      "name": "Seventeen Going Under",
+      "url": "https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "in my mind",
-        "url": "https://open.spotify.com/album/0BLXUt3TsQv6e4A3Mp6PZk"
-      },
-      "artists": [
-        {
-          "name": "Wallners",
-          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "in my mind",
-      "url": "https://open.spotify.com/track/6HEJavNON4wd0cy1Hp6KV2"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Only For A Moment",
         "url": "https://open.spotify.com/album/471pH6iOglOu5GlePOeUqV"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 167333,
       "name": "Only For A Moment",
       "url": "https://open.spotify.com/track/5M306C6g4kpkzDXGfzjUgC"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "in my mind",
+        "url": "https://open.spotify.com/album/0BLXUt3TsQv6e4A3Mp6PZk"
+      },
+      "artists": [
+        {
+          "name": "Wallners",
+          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "in my mind",
+      "url": "https://open.spotify.com/track/6HEJavNON4wd0cy1Hp6KV2"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -411,18 +411,18 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Little Paradise",
-        "url": "https://open.spotify.com/album/3Fv7seonPKOoSQqgY1WrVl"
+        "name": "golden hour",
+        "url": "https://open.spotify.com/album/1HmWZnKnecBlWqYcD7Zead"
       },
       "artists": [
         {
-          "name": "Henry And The Waiter",
-          "url": "https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn"
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
         }
       ],
-      "duration_ms": 175529,
-      "name": "Little Paradise",
-      "url": "https://open.spotify.com/track/0ULtZkQAnZEgGVRKFcMTe0"
+      "duration_ms": 161960,
+      "name": "ich mags",
+      "url": "https://open.spotify.com/track/5v41kP2xGYclmWX6bMhKzj"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "golden hour",
-        "url": "https://open.spotify.com/album/1HmWZnKnecBlWqYcD7Zead"
+        "name": "Little Paradise",
+        "url": "https://open.spotify.com/album/3Fv7seonPKOoSQqgY1WrVl"
       },
       "artists": [
         {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+          "name": "Henry And The Waiter",
+          "url": "https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn"
         }
       ],
-      "duration_ms": 161960,
-      "name": "ich mags",
-      "url": "https://open.spotify.com/track/5v41kP2xGYclmWX6bMhKzj"
+      "duration_ms": 175529,
+      "name": "Little Paradise",
+      "url": "https://open.spotify.com/track/0ULtZkQAnZEgGVRKFcMTe0"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Hotel Surrender",
-        "url": "https://open.spotify.com/album/1EvJl2nSEPBGnu0XqKAqbq"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 222936,
-      "name": "Get High",
-      "url": "https://open.spotify.com/track/3q8bVATKAOwjc8C0jY3DRd"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "minuit",
         "url": "https://open.spotify.com/album/71bHefIH4lQ3fjypk9Tv89"
       },
@@ -567,6 +551,38 @@
       "duration_ms": 225013,
       "name": "minuit",
       "url": "https://open.spotify.com/track/1DHXKDRugToFO7ak3nA06L"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Hotel Surrender",
+        "url": "https://open.spotify.com/album/1EvJl2nSEPBGnu0XqKAqbq"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 222936,
+      "name": "Get High",
+      "url": "https://open.spotify.com/track/3q8bVATKAOwjc8C0jY3DRd"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Mine Forever",
+        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 288283,
+      "name": "Mine Forever",
+      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -591,22 +607,6 @@
       "duration_ms": 151500,
       "name": "wait outside",
       "url": "https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
-        "name": "Mine Forever",
-        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 288283,
-      "name": "Mine Forever",
-      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/0x2WSKc0ZtfwBrPnGPMlPm"
       },
       "artists": [
         {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+          "name": "Mar Malade",
+          "url": "https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw"
         }
       ],
-      "duration_ms": 262798,
-      "name": "See You Again",
-      "url": "https://open.spotify.com/track/09RYDCoPd0hiw5RS1gEK8i"
+      "duration_ms": 236119,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/38rsZocqoP4YvSzEtL0kaE"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Mexico",
-        "url": "https://open.spotify.com/album/0x2WSKc0ZtfwBrPnGPMlPm"
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
       },
       "artists": [
         {
-          "name": "Mar Malade",
-          "url": "https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw"
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
         }
       ],
-      "duration_ms": 236119,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/38rsZocqoP4YvSzEtL0kaE"
+      "duration_ms": 262798,
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/09RYDCoPd0hiw5RS1gEK8i"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
+        "name": "Dancing in the City (Radio Edit)",
+        "url": "https://open.spotify.com/album/4y2vjGF1u3hhPdyLHiL70o"
+      },
+      "artists": [
+        {
+          "name": "Siamese Elephants",
+          "url": "https://open.spotify.com/artist/7bgOhFs7p8ZGBMIIORey80"
+        }
+      ],
+      "duration_ms": 201994,
+      "name": "Dancing in the City (Radio Edit)",
+      "url": "https://open.spotify.com/track/12pXH0mid48V0vN0ykfBG5"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
         "name": "Good Mmornin",
         "url": "https://open.spotify.com/album/3FoDNOhHqVS1c9mw6NJW3T"
       },
@@ -1115,18 +1131,18 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Dancing in the City (Radio Edit)",
-        "url": "https://open.spotify.com/album/4y2vjGF1u3hhPdyLHiL70o"
+        "name": "beautiful day",
+        "url": "https://open.spotify.com/album/01D0gXm8jCoJnVxxuayFCq"
       },
       "artists": [
         {
-          "name": "Siamese Elephants",
-          "url": "https://open.spotify.com/artist/7bgOhFs7p8ZGBMIIORey80"
+          "name": "Henri Purnell",
+          "url": "https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr"
         }
       ],
-      "duration_ms": 201994,
-      "name": "Dancing in the City (Radio Edit)",
-      "url": "https://open.spotify.com/track/12pXH0mid48V0vN0ykfBG5"
+      "duration_ms": 183836,
+      "name": "beautiful day",
+      "url": "https://open.spotify.com/track/0Bp4SOUzsTyk5PNEeu4GWJ"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1151,38 +1167,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "A-Train",
-        "url": "https://open.spotify.com/album/1b4ZTZJK7Ny6TxPkSUq3u1"
-      },
-      "artists": [
-        {
-          "name": "COMA",
-          "url": "https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52"
-        }
-      ],
-      "duration_ms": 215307,
-      "name": "A-Train - Edit",
-      "url": "https://open.spotify.com/track/0WeLpRHrzZcmpMrppqPnnp"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
-        "name": "beautiful day",
-        "url": "https://open.spotify.com/album/01D0gXm8jCoJnVxxuayFCq"
-      },
-      "artists": [
-        {
-          "name": "Henri Purnell",
-          "url": "https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr"
-        }
-      ],
-      "duration_ms": 183836,
-      "name": "beautiful day",
-      "url": "https://open.spotify.com/track/0Bp4SOUzsTyk5PNEeu4GWJ"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Waste My Life",
         "url": "https://open.spotify.com/album/5mvlXivNaikCN2SW6YhHSH"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 160853,
       "name": "Waste My Life",
       "url": "https://open.spotify.com/track/0UgHdbUdkHduoh7AYWmE6Z"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "A-Train",
+        "url": "https://open.spotify.com/album/1b4ZTZJK7Ny6TxPkSUq3u1"
+      },
+      "artists": [
+        {
+          "name": "COMA",
+          "url": "https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52"
+        }
+      ],
+      "duration_ms": 215307,
+      "name": "A-Train - Edit",
+      "url": "https://open.spotify.com/track/0WeLpRHrzZcmpMrppqPnnp"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Adult Movies",
-        "url": "https://open.spotify.com/album/7IWXZKQU9nUC3ae508E46p"
-      },
-      "artists": [
-        {
-          "name": "Litany",
-          "url": "https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc"
-        }
-      ],
-      "duration_ms": 195982,
-      "name": "Adult Movies",
-      "url": "https://open.spotify.com/track/1RPtMkfP5TfnlylnW6LIDd"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "More Than Happiness",
         "url": "https://open.spotify.com/album/0AEksbW3dMkEn4mjqmITM0"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 238186,
       "name": "More Than Happiness",
       "url": "https://open.spotify.com/track/3AosSVnv55KvhcpPaj5IO1"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Adult Movies",
+        "url": "https://open.spotify.com/album/7IWXZKQU9nUC3ae508E46p"
+      },
+      "artists": [
+        {
+          "name": "Litany",
+          "url": "https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc"
+        }
+      ],
+      "duration_ms": 195982,
+      "name": "Adult Movies",
+      "url": "https://open.spotify.com/track/1RPtMkfP5TfnlylnW6LIDd"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
+        "name": "Saltburn",
+        "url": "https://open.spotify.com/album/5siL9F6fBRgdI2UhHfr2aj"
+      },
+      "artists": [
+        {
+          "name": "Future Humans",
+          "url": "https://open.spotify.com/artist/4BXM7ghfjufutCDfJfXdIl"
+        }
+      ],
+      "duration_ms": 186704,
+      "name": "Saltburn",
+      "url": "https://open.spotify.com/track/1YlvVgYcPQWNYMt23udKuf"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/48v3ESTDn7dBxMMapg7wPX"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 191499,
       "name": "Majored In Broken Hearts",
       "url": "https://open.spotify.com/track/1zIqRF5cnIkUnrKwIbFxUc"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
-        "name": "Saltburn",
-        "url": "https://open.spotify.com/album/5siL9F6fBRgdI2UhHfr2aj"
-      },
-      "artists": [
-        {
-          "name": "Future Humans",
-          "url": "https://open.spotify.com/artist/4BXM7ghfjufutCDfJfXdIl"
-        }
-      ],
-      "duration_ms": 186704,
-      "name": "Saltburn",
-      "url": "https://open.spotify.com/track/1YlvVgYcPQWNYMt23udKuf"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Morning Dew",
-        "url": "https://open.spotify.com/album/5gBPWslCH79q5c6KTDTWyp"
-      },
-      "artists": [
-        {
-          "name": "Moglii",
-          "url": "https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS"
-        }
-      ],
-      "duration_ms": 159454,
-      "name": "Morning Dew",
-      "url": "https://open.spotify.com/track/4fBdT1O7ZjTdLmMwAB4rgg"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "hunger",
         "url": "https://open.spotify.com/album/0POoxs5GMl3mqyOi7olevg"
       },
@@ -1675,18 +1659,34 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Smiling Face",
-        "url": "https://open.spotify.com/album/75E23gvtdp9zPvRpKXWcIA"
+        "name": "Morning Dew",
+        "url": "https://open.spotify.com/album/5gBPWslCH79q5c6KTDTWyp"
       },
       "artists": [
         {
-          "name": "Cinemagraph",
-          "url": "https://open.spotify.com/artist/7zMxkD6FhVkm8hBRy7jyJP"
+          "name": "Moglii",
+          "url": "https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS"
         }
       ],
-      "duration_ms": 215610,
-      "name": "Smiling Face",
-      "url": "https://open.spotify.com/track/083YqmGxSLpgr8Hr6HeFNx"
+      "duration_ms": 159454,
+      "name": "Morning Dew",
+      "url": "https://open.spotify.com/track/4fBdT1O7ZjTdLmMwAB4rgg"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Highness",
+        "url": "https://open.spotify.com/album/4EHDGQCK8ziAccxlY8tCS5"
+      },
+      "artists": [
+        {
+          "name": "Nosoyo",
+          "url": "https://open.spotify.com/artist/4H5tKZTXuVPxynMaaaBbWs"
+        }
+      ],
+      "duration_ms": 193766,
+      "name": "Highness",
+      "url": "https://open.spotify.com/track/5StogjwnaLs9zO0fl6x7P3"
     }
   ],
   "unique_name": "Feelgood Indie",

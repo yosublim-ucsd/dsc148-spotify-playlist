@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: Mohammed Saeed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,484 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,486 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [7 PM](https://open.spotify.com/track/5lyUDM4Bsb0xMelClStJk7) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [7 PM](https://open.spotify.com/album/6X1pSxDd8HhPgB1li6YHXB) | 2:36 |
-| 2 | [Ountha](https://open.spotify.com/track/69UHeUvlSuDB6lBQfzWZe1) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Ountha](https://open.spotify.com/album/2olIPtmKbim1KmWV8pIxho) | 3:27 |
+| 2 | [Ountha](https://open.spotify.com/track/4M6QHCcum2OOvxF5sblvYN) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Ountha](https://open.spotify.com/album/3QfnsKo5JJ3mCJTyv47crg) | 3:27 |
 | 3 | [بخاف](https://open.spotify.com/track/2zU9EApSRrWQuCOGTsPBFj) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [بخاف](https://open.spotify.com/album/6HVGI0FKmqVz8RmOO7p39l) | 3:39 |
 | 4 | [AMANA](https://open.spotify.com/track/0DAnkEea6lZ0CFlZMHWop0) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [AMANA](https://open.spotify.com/album/2TkMBE1z1BwYwuir446P1r) | 2:46 |
 | 5 | [DRAILL](https://open.spotify.com/track/2UYZDBQ89KYUdU3CspLZJ2) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [DRAILL](https://open.spotify.com/album/4Sx9SrFQdcCD5pSY6bwU8M) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 49 | [Ghareeb Alay](https://open.spotify.com/track/7gJqw9Ogef35nMOzHY8E3v) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ghareeb Alay](https://open.spotify.com/album/5c7qiyYcpJO6niBfAyjZYl) | 2:55 |
 | 50 | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb) | 2:24 |
 
-Snapshot ID: `MCw0NTNmOGFkMDNiYWZmMDJjYzg5ZjA3MTdhZWFhZmI4NjgzZDE2ZGE1`
+Snapshot ID: `MCw5NTdmMzczZDY2MDUwMDFiYmM3ZDJmZTI4ZTZkNTAxMGYwN2VmZGMz`

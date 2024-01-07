@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,382 likes - 75 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,447 likes - 75 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 3 | [嚣张](https://open.spotify.com/track/1vfUASvUGt3gxQ1x3T3u1C) | [en](https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW) | [嚣张](https://open.spotify.com/album/09KIrKBU3kamLtHV5IkHSp) | 4:13 |
 | 4 | [剩下的烟火](https://open.spotify.com/track/0MV6HnT2gk6yYVsHYQ88FN) | [孫文琦](https://open.spotify.com/artist/5w8ia7ibggqMHx3EFvAnJo) | [剩下的烟火](https://open.spotify.com/album/1wiOcrwaK9JMh79Ukt3cP8) | 4:01 |
 | 5 | [眼淚記得你 \- 電影《想見你》主題曲](https://open.spotify.com/track/0USeB0Tykai3QZj5YAUclG) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [眼淚記得你](https://open.spotify.com/album/34b13gZHKmAMzg1uqviOxg) | 4:04 |
-| 6 | [年少有為](https://open.spotify.com/track/6XY80Ofqd8j0SGiEdRLwCp) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [耳朵](https://open.spotify.com/album/0EcIAelkxuOa5hc3XvxyXy) | 4:39 |
-| 7 | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/track/69zgyr5HVKdInjeKpq1qHa) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/album/44M14sRDzNZBtfaSH9Au3i) | 3:59 |
+| 6 | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/track/69zgyr5HVKdInjeKpq1qHa) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/album/44M14sRDzNZBtfaSH9Au3i) | 3:59 |
+| 7 | [年少有為](https://open.spotify.com/track/6XY80Ofqd8j0SGiEdRLwCp) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [耳朵](https://open.spotify.com/album/0EcIAelkxuOa5hc3XvxyXy) | 4:39 |
 | 8 | [慢冷](https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [我好嗎? \- 太陽如常升起](https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM) | 4:49 |
 | 9 | [勇气](https://open.spotify.com/track/5rY7xc2h5Imj6iFn97h8Qj) | [棉子](https://open.spotify.com/artist/6Y4Ur76H9vh8gw4QADaUKp) | [勇气](https://open.spotify.com/album/0CVoVI7UnycE7lcKcKqoeU) | 4:01 |
 | 10 | [就让这大雨全都落下](https://open.spotify.com/track/0J3GWS0Bv6I1reM1J69UBM) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [就让这大雨全都落下](https://open.spotify.com/album/3EXDubkvw4VIoIUJIWcO3v) | 4:14 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 61 | [错季](https://open.spotify.com/track/3bpmg6cjT1JSApgoXDQd04) | [秋原依](https://open.spotify.com/artist/1heJq6KCSMOGAhJg0iGsEd) | [错季](https://open.spotify.com/album/5VjqmtXynQDvQMXcOOmPkE) | 4:35 |
 | 62 | [諷刺的情書](https://open.spotify.com/track/77OJPbm053M9LA5Pqs2yOZ) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:18 |
 | 63 | [恰似你的溫柔](https://open.spotify.com/track/1a0qZKszfpB8tJRFLXMqpj) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [恰似你的溫柔](https://open.spotify.com/album/5T8kukxNxN2tEucny5xt66) | 5:17 |
-| 64 | [不是不想你](https://open.spotify.com/track/6a1CN3T7lK6kMOWaJAlp6i) | [en](https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW) | [不是不想你](https://open.spotify.com/album/3DaLWOh8VP7vIxRPEK5YKx) | 3:07 |
-| 65 | [黑暗的盡頭](https://open.spotify.com/track/0n6Cn6pByPTwBkMTw7KQkX) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw) | [黑暗的盡頭](https://open.spotify.com/album/4ZRMDljMgqg3ZtpL4KtfVP) | 4:50 |
+| 64 | [黑暗的盡頭](https://open.spotify.com/track/0n6Cn6pByPTwBkMTw7KQkX) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw) | [黑暗的盡頭](https://open.spotify.com/album/4ZRMDljMgqg3ZtpL4KtfVP) | 4:50 |
+| 65 | [不是不想你](https://open.spotify.com/track/6a1CN3T7lK6kMOWaJAlp6i) | [en](https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW) | [不是不想你](https://open.spotify.com/album/3DaLWOh8VP7vIxRPEK5YKx) | 3:07 |
 | 66 | [將故事寫成我們](https://open.spotify.com/track/3APYQVgmEDZ6sPbpLo7Hog) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [將故事寫成我們](https://open.spotify.com/album/3pL1szWrTXdQyudT0F3ET1) | 5:36 |
 | 67 | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/track/4PMakIBWXujbe2MIsuZtOc) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K), [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/album/5gFrWCYLmqUyxCSQz58WC2) | 5:27 |
 | 68 | [未发送](https://open.spotify.com/track/0IKt70sonEjlSzcMEjdFYo) | [阿冗](https://open.spotify.com/artist/3dTgjg7lzUGiD3NwcGCK1n) | [未发送](https://open.spotify.com/album/1Ez536BFu6IGYAe9HMKMoh) | 3:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 74 | [唯一 \(諾亞方舟 10週年進化\)](https://open.spotify.com/track/3cyscAaE8AjBqK1Va1hSWf) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY), [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [唯一](https://open.spotify.com/album/4mRNBDaMYSr9hvo5CqAn7v) | 4:41 |
 | 75 | [hard to let you go](https://open.spotify.com/track/5DNGbLPU0fQVWPWToqCodN) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [hard to let you go](https://open.spotify.com/album/4HOIWcEoOQG86JJR40y4Wu) | 4:40 |
 
-Snapshot ID: `MCw3ODI0ODZlZTlmN2Q1ODUzMWJhY2M1ZWY2MmI2MzJmOWE3NDg5NTcy`
+Snapshot ID: `MCxkYzA2ZDE1NDJjODQ5YWUzOWNlZDk0YzE3NGFiMWFkMDIyYWQwMzY3`

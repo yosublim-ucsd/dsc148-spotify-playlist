@@ -1,12 +1,12 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1799815,
+  "num_followers": 1799825,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTllMzA2Mjg3MGIyZjZmYzFjNzhjMGE3Nzc5Yzc2YjE5MDA3YWEw",
+  "snapshot_id": "MCw4YTYzNTNjODg4ZGQ0ZDM0ZmZkZTMwODY4NTFjMjE3MzA4MDA5OTZk",
   "tracks": [
     {
       "added_at": "2023-08-25 04:00:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 262960,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Ribbons",
         "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 213933,
       "name": "look up",
       "url": "https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 262960,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Projections",
+        "url": "https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS"
+      },
+      "artists": [
+        {
+          "name": "Tomberlin",
+          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
+        }
+      ],
+      "duration_ms": 149422,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 255533,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Projections",
-        "url": "https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS"
-      },
-      "artists": [
-        {
-          "name": "Tomberlin",
-          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
-        }
-      ],
-      "duration_ms": 149422,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "We've Been Going About This All Wrong",
-        "url": "https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 239146,
-      "name": "Mistakes",
-      "url": "https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Seasons of Change",
         "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 162106,
       "name": "Grow into Love",
       "url": "https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "We've Been Going About This All Wrong",
+        "url": "https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 239146,
+      "name": "Mistakes",
+      "url": "https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Lemon Tree",
-        "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 248560,
-      "name": "Lemon Tree",
-      "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Fall, Fall, Fall",
         "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 281180,
       "name": "Fall, Fall, Fall",
       "url": "https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Lemon Tree",
+        "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 248560,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "Horses",
-      "url": "https://open.spotify.com/track/1cncEDS6zwXOguyaMGp6vU"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Quietly Blowing It",
         "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
       },
@@ -1095,22 +1079,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "These Are The Days",
-        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 222297,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
       },
@@ -1123,6 +1091,38 @@
       "duration_ms": 195106,
       "name": "Believe",
       "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/1cncEDS6zwXOguyaMGp6vU"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 222297,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "To Enjoy is the Only Thing",
-        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
-      },
-      "artists": [
-        {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
-        }
-      ],
-      "duration_ms": 252454,
-      "name": "Good Thing",
-      "url": "https://open.spotify.com/track/1avgH7udg2X4mx82V1ChDC"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
       },
@@ -1203,22 +1187,6 @@
       "duration_ms": 219782,
       "name": "Slide Tackle",
       "url": "https://open.spotify.com/track/5ksM8r8u4AjMwvtqUif9W1"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 194053,
-      "name": "October Sky",
-      "url": "https://open.spotify.com/track/4YcZgvktXXqoI6WKtG7sl3"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1239,6 +1207,38 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "To Enjoy is the Only Thing",
+        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "duration_ms": 252454,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/1avgH7udg2X4mx82V1ChDC"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 194053,
+      "name": "October Sky",
+      "url": "https://open.spotify.com/track/4YcZgvktXXqoI6WKtG7sl3"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C"
       },
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Forever Turned Around",
-        "url": "https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 236453,
-      "name": "Valleys (My Love)",
-      "url": "https://open.spotify.com/track/7LYVDh003mW2jl5D1UBPhR"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Shore",
         "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 253613,
       "name": "Sunblind",
       "url": "https://open.spotify.com/track/308prODCCD0O660tIktbUi"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Forever Turned Around",
+        "url": "https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 236453,
+      "name": "Valleys (My Love)",
+      "url": "https://open.spotify.com/track/7LYVDh003mW2jl5D1UBPhR"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Saint Cloud",
+        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Lilacs",
+      "url": "https://open.spotify.com/track/69Akwuscu16hdYN637eTis"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/1xturx1xKAx7fXNEjUrXDG"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 213023,
       "name": "Detour",
       "url": "https://open.spotify.com/track/06ugHK7JxGHv8sjOR8lA1E"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Saint Cloud",
-        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Lilacs",
-      "url": "https://open.spotify.com/track/69Akwuscu16hdYN637eTis"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 266706,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 181706,
       "name": "Go In Light (feat. Monica Martin)",
       "url": "https://open.spotify.com/track/4gWSTEBZxAvH1cKq2u8jfQ"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 266706,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "GPS (w/ Felly)",
         "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 168316,
       "name": "GPS (w/ Felly)",
       "url": "https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Santa Barbara",
-        "url": "https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI"
-      },
-      "artists": [
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Santa Barbara",
-      "url": "https://open.spotify.com/track/4yuVmMynbF6qBDsT3w6aXy"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Watchhouse",
         "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 185728,
       "name": "New Star",
       "url": "https://open.spotify.com/track/5XCySQu79sw9DDCuAjdn2R"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Santa Barbara",
+        "url": "https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Santa Barbara",
+      "url": "https://open.spotify.com/track/4yuVmMynbF6qBDsT3w6aXy"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "C\u2019est La Vie",
-        "url": "https://open.spotify.com/album/2oqDbd9Hmbp6RinQQmZNWd"
-      },
-      "artists": [
-        {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
-        }
-      ],
-      "duration_ms": 205823,
-      "name": "C'est La Vie No.2",
-      "url": "https://open.spotify.com/track/3my5gLh7Ow54FerRCRInRC"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Gold Past Life",
         "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 205493,
       "name": "Cazadera",
       "url": "https://open.spotify.com/track/5gi3e0vVgX0Jpgnc7fhZCc"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "C\u2019est La Vie",
+        "url": "https://open.spotify.com/album/2oqDbd9Hmbp6RinQQmZNWd"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "duration_ms": 205823,
+      "name": "C'est La Vie No.2",
+      "url": "https://open.spotify.com/track/3my5gLh7Ow54FerRCRInRC"
     }
   ],
   "unique_name": "Hanging Out & Relaxing",

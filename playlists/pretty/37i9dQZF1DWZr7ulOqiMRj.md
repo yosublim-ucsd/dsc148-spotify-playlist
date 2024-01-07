@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZr7ulOqiMRj.md) - [plain]
 
 > <a href="spotify:artist:205i7E8fNVfojowcQSfK9m">Dom Dolla's </a> favourite tracks\. Updated regularly\. Curated by Dom Dolla\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,619 likes - 89 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,696 likes - 89 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZr7ulOqiMRj.md) - [plain]
 | 50 | [Hide U \- Tinlicker Remix](https://open.spotify.com/track/5r43Rwy2cBKF6HQYIS41Bw) | [Sian Evans](https://open.spotify.com/artist/2DTw633fgdoxrqv7uPdcCw), [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Hide U \(Tinlicker Remix\)](https://open.spotify.com/album/6Yn5w6xJpPZQho8VT7DRCH) | 3:41 |
 | 51 | [Renegade \- Adam Ten & Mita Gami Remix](https://open.spotify.com/track/1DdpxHPTsrivn3X0KumOQz) | [Parallelle](https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag), [Nicolas Masseyeff](https://open.spotify.com/artist/53I5TvFOdroD7UzOlZjtRv), [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Mita Gami](https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8) | [Renegade EP](https://open.spotify.com/album/6dgVJGpji0wnAeEt6xc9PA) | 5:33 |
 | 52 | [Sans Vetements](https://open.spotify.com/track/1fZqMv31t8xdthNONmQs7Z) | [Far&High](https://open.spotify.com/artist/7DEuf4iD1rRxpszUW1MDdP) | [Sans Vetements](https://open.spotify.com/album/2RXvzWE5KyVQkkjIlOe8HC) | 3:26 |
-| 53 | [PLAY SOME RECORDS](https://open.spotify.com/track/2GkY6fWVFsOi8AjZmnpQwa) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [Dances With White Girls](https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL) | [PLAY SOME RECORDS](https://open.spotify.com/album/5VxLMDVW8rjyP4mh8AyHVr) | 2:48 |
+| 53 | [PLAY SOME RECORDS](https://open.spotify.com/track/2GkY6fWVFsOi8AjZmnpQwa) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [Dances](https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL) | [PLAY SOME RECORDS](https://open.spotify.com/album/5VxLMDVW8rjyP4mh8AyHVr) | 2:48 |
 | 54 | [Forces](https://open.spotify.com/track/1DTFGyttuDtmixYMvcWZsS) | [David Aurel](https://open.spotify.com/artist/5ge8z61Jq4JIPgiMdAHDzu) | [Be Great](https://open.spotify.com/album/4qCxuFx0qXbwl9HCxYthES) | 6:31 |
 | 55 | [Insomnia \- Matt Sassari Remix](https://open.spotify.com/track/2vG4vPqF8gHtGSjoE0YckH) | [Andrew Meller](https://open.spotify.com/artist/0kDJVZD3Kwg7YbFXqDI1Gm), [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Insomnia](https://open.spotify.com/album/042dgI8wqRLRoXSwM8oBcU) | 2:20 |
 | 56 | [Candy](https://open.spotify.com/track/2aiy3gAjU8yynkrbpEVQm9) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4) | [Candy](https://open.spotify.com/album/6re4JcyBsSuYZNm6V3Jl1m) | 3:15 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZr7ulOqiMRj.md) - [plain]
 | 88 | [Define \- Cassian Remix](https://open.spotify.com/track/6uA724aKkiX68eVV9G3uGg) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Go Freek](https://open.spotify.com/artist/2aRd7rRSUjtZ6WPG5GsBO6) | [Define](https://open.spotify.com/album/60Ebp6R5FhD9oZvnc8YaZ9) | 5:33 |
 | 89 | [Swimming Places](https://open.spotify.com/track/77cTXHD1QjXpoMDBysPU0Y) | [Julien Jabre](https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM) | [Swimming Places](https://open.spotify.com/album/4k3c2mFtwycTt2ZbOYLu4W) | 10:44 |
 
-Snapshot ID: `MCw0NTQ3YTFkNDEzMTczYjc1NjNlYzMzN2YyNzBmNWY3Yjg2ZWRjOGQ2`
+Snapshot ID: `MCxjYjg1NjU0YTlhY2FlZDg5NGJlZGM0ODFhODkzM2E2OWIzMThjNDJj`

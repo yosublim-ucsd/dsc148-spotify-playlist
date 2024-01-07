@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 
 > Canciones directas y banderas al viento\. Foto: La 25.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,095 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,224 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,25 +79,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 69 | [Tus Ojos](https://open.spotify.com/track/6bVflf7QtkVdZH6ro5PKiX) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Solo Canciones](https://open.spotify.com/album/6t9YLarJhXBjGcmUCWyCIY) | 4:04 |
 | 70 | [Seremos](https://open.spotify.com/track/2PEiV0Dl5Z70afQEW2wxDg) | [Salta La Banca](https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC) | [Seremos](https://open.spotify.com/album/1FiHP8cmZtVmK74SqjEdop) | 3:28 |
 | 71 | [Fuera De Control \(En Vivo\)](https://open.spotify.com/track/6YNstobWK0Pio4NAumJkRH) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Tan \(En Vivo\)](https://open.spotify.com/album/1H5MsrfzzoiznKp4jj8WWz) | 3:32 |
-| 72 | [Montaña Rusa Emocional](https://open.spotify.com/track/6OrpYqotia6MQqlKZKsgZ1) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Montaña Rusa Emocional](https://open.spotify.com/album/0KOjxfn6PBm3ntF4NZnhjq) | 3:19 |
-| 73 | [Imposible](https://open.spotify.com/track/2Yl65F569JNarqLpr4oYNj) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Incompleto \- 20 Rocanroles 20](https://open.spotify.com/album/4wCc0oARR0CTG3plo4Zgnn) | 4:07 |
+| 72 | [Imposible](https://open.spotify.com/track/2Yl65F569JNarqLpr4oYNj) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Incompleto \- 20 Rocanroles 20](https://open.spotify.com/album/4wCc0oARR0CTG3plo4Zgnn) | 4:07 |
+| 73 | [Montaña Rusa Emocional](https://open.spotify.com/track/6OrpYqotia6MQqlKZKsgZ1) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Montaña Rusa Emocional](https://open.spotify.com/album/0KOjxfn6PBm3ntF4NZnhjq) | 3:19 |
 | 74 | [Silencio \- En Vivo](https://open.spotify.com/track/3QFehvGrS4MmrAWW5Hqw3f) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Tipitorex](https://open.spotify.com/album/64A2yWDQnsti67uCO44olg) | 5:02 |
 | 75 | [Caer](https://open.spotify.com/track/76imPO6e12fh4HTzsbqYVm) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Flor de ceibo](https://open.spotify.com/album/3bX8ps73c1Ps2lroSYD2rV) | 2:08 |
-| 76 | [Lobo](https://open.spotify.com/track/6ZV5I5GntRTLOSNvSHQ1ia) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Pánico](https://open.spotify.com/album/1T53gREvUUPSwN2dP1SZRy) | 2:42 |
-| 77 | [Solito](https://open.spotify.com/track/3GyVh0ptPs7ttfbpex6Bmn) | [Salamandra](https://open.spotify.com/artist/1sLot73qJ4Vbh4nPuwzvj9) | [Alma en Peña](https://open.spotify.com/album/4bkPnI5gKmETlDyZe5BKEH) | 3:56 |
-| 78 | [Buen Recuerdo](https://open.spotify.com/track/7akXU0fDGqQ1QRWooxo1Ug) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Buen Recuerdo](https://open.spotify.com/album/7HUBMKHKAZ7kVBfacExMhR) | 4:11 |
-| 79 | [Todo Sigue Igual](https://open.spotify.com/track/6ClmH50s8nc7fEcYNkk2kI) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Oro](https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m) | 3:35 |
-| 80 | [La Cañada](https://open.spotify.com/track/535yV2PsP1kwPji586uUK4) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [No Se Lo Cuentes a Nadie](https://open.spotify.com/album/6D8HxOLAJntQgxD0NLX49p) | 3:42 |
-| 81 | [Una Piba Con la Remera de Greenpeace](https://open.spotify.com/track/6xxyN0K6opVJWMdQykqXQ7) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Momo Sampler](https://open.spotify.com/album/0omWExUGprwvcvYwGh3Vr0) | 3:40 |
-| 82 | [Ruleta](https://open.spotify.com/track/2tWlLCwEN7slVfcPjemDYJ) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Verde Paisaje del Infierno](https://open.spotify.com/album/0i2Y8YNiC3oQDFIsgWI3cP) | 4:16 |
-| 83 | [Cuando Me Muera](https://open.spotify.com/track/3gvaShbCuEoL51efZWtpIs) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Probame \(Demo\)](https://open.spotify.com/album/2fs5He9XpcqbqLud8QSRyv) | 2:06 |
-| 84 | [Andrajoso](https://open.spotify.com/track/3ibB1bUbvgHheGYlnSa9b9) | [La 25](https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc) | [Mundo Imperfecto](https://open.spotify.com/album/1a8ZNsUD375wEwTdzE2F8F) | 4:06 |
+| 76 | [Una Piba Con la Remera de Greenpeace](https://open.spotify.com/track/6xxyN0K6opVJWMdQykqXQ7) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Momo Sampler](https://open.spotify.com/album/0omWExUGprwvcvYwGh3Vr0) | 3:40 |
+| 77 | [Ruleta](https://open.spotify.com/track/2tWlLCwEN7slVfcPjemDYJ) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Verde Paisaje del Infierno](https://open.spotify.com/album/0i2Y8YNiC3oQDFIsgWI3cP) | 4:16 |
+| 78 | [Lobo](https://open.spotify.com/track/6ZV5I5GntRTLOSNvSHQ1ia) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Pánico](https://open.spotify.com/album/1T53gREvUUPSwN2dP1SZRy) | 2:42 |
+| 79 | [Solito](https://open.spotify.com/track/3GyVh0ptPs7ttfbpex6Bmn) | [Salamandra](https://open.spotify.com/artist/1sLot73qJ4Vbh4nPuwzvj9) | [Alma en Peña](https://open.spotify.com/album/4bkPnI5gKmETlDyZe5BKEH) | 3:56 |
+| 80 | [Todo Sigue Igual](https://open.spotify.com/track/6ClmH50s8nc7fEcYNkk2kI) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Oro](https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m) | 3:35 |
+| 81 | [Buen Recuerdo](https://open.spotify.com/track/7akXU0fDGqQ1QRWooxo1Ug) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Buen Recuerdo](https://open.spotify.com/album/7HUBMKHKAZ7kVBfacExMhR) | 4:11 |
+| 82 | [La Cañada](https://open.spotify.com/track/535yV2PsP1kwPji586uUK4) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [No Se Lo Cuentes a Nadie](https://open.spotify.com/album/6D8HxOLAJntQgxD0NLX49p) | 3:42 |
+| 83 | [Andrajoso](https://open.spotify.com/track/3ibB1bUbvgHheGYlnSa9b9) | [La 25](https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc) | [Mundo Imperfecto](https://open.spotify.com/album/1a8ZNsUD375wEwTdzE2F8F) | 4:06 |
+| 84 | [Cuando Me Muera](https://open.spotify.com/track/3gvaShbCuEoL51efZWtpIs) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Probame \(Demo\)](https://open.spotify.com/album/2fs5He9XpcqbqLud8QSRyv) | 2:06 |
 | 85 | [Ojos Ventanal](https://open.spotify.com/track/6ydfaB0QZaE2CieflySqEO) | [Sueño de Pescado](https://open.spotify.com/artist/45Mh2xppphSbyZluabCCJ1) | [Sangre en Tus Luces](https://open.spotify.com/album/19A9YHtIzbhB9oZlvzKOKi) | 3:44 |
-| 86 | [Reflejo](https://open.spotify.com/track/1RaYc8dytOsWlmL2bEuG2I) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Reflejo](https://open.spotify.com/album/6FsAipsUvB2WP4o6ho5u2i) | 4:19 |
-| 87 | [Unos Versos](https://open.spotify.com/track/16d24IkLdwtqrSyjcRfR0i) | [Salta La Banca](https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC) | [¡Eureka!](https://open.spotify.com/album/2Y5ZXUgVYGYP5emNGUykwp) | 6:22 |
-| 88 | [Lo Que Nunca Te Dije](https://open.spotify.com/track/5gkNiqB4WzDX9pCHuCLgSa) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Como Evitar Que Sangremos](https://open.spotify.com/album/6Fj8T0XaCuwMkz0hUqX2Vd) | 5:13 |
-| 89 | [Homero](https://open.spotify.com/track/3Ld5CT9BdPUqTkd9dnxny4) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Oro](https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m) | 4:24 |
-| 90 | [Amor de Contramano](https://open.spotify.com/track/7JgwIV9KCu0CdpfBxPmjjV) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Gardeliando](https://open.spotify.com/album/4hCEfpe6nzek67R3G1ktt3) | 5:57 |
+| 86 | [Amor de Contramano](https://open.spotify.com/track/7JgwIV9KCu0CdpfBxPmjjV) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Gardeliando](https://open.spotify.com/album/4hCEfpe6nzek67R3G1ktt3) | 5:57 |
+| 87 | [Reflejo](https://open.spotify.com/track/1RaYc8dytOsWlmL2bEuG2I) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Reflejo](https://open.spotify.com/album/6FsAipsUvB2WP4o6ho5u2i) | 4:19 |
+| 88 | [Homero](https://open.spotify.com/track/3Ld5CT9BdPUqTkd9dnxny4) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Oro](https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m) | 4:24 |
+| 89 | [Unos Versos](https://open.spotify.com/track/16d24IkLdwtqrSyjcRfR0i) | [Salta La Banca](https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC) | [¡Eureka!](https://open.spotify.com/album/2Y5ZXUgVYGYP5emNGUykwp) | 6:22 |
+| 90 | [Lo Que Nunca Te Dije](https://open.spotify.com/track/5gkNiqB4WzDX9pCHuCLgSa) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Como Evitar Que Sangremos](https://open.spotify.com/album/6Fj8T0XaCuwMkz0hUqX2Vd) | 5:13 |
 | 91 | [Vine Hasta Aquí](https://open.spotify.com/track/7LOkbiMpnZYbybdWuv7S4U) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Verde Paisaje del Infierno](https://open.spotify.com/album/0i2Y8YNiC3oQDFIsgWI3cP) | 4:38 |
 | 92 | [La ilusión que me condena](https://open.spotify.com/track/1woygbhtsdzT0BJX7rs0ue) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Gladiadores del rock](https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp) | 5:06 |
 | 93 | [Rock del Pedazo](https://open.spotify.com/track/5MRelkZAqB0SrxUtZmexQo) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [X 16](https://open.spotify.com/album/45UGwtbbmTeqJAoFnhiLx7) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 99 | [El Final Es En Donde Partí](https://open.spotify.com/track/1GA9luNLvwHSdDQD5yC2IJ) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Todo el día MÚSICA](https://open.spotify.com/album/6h6cdHzP4xPvbnj5TKBwan) | 4:36 |
 | 100 | [Voy A Bailar A La Nave Del Olvido \- Live](https://open.spotify.com/track/3JHwgLLYViFdF1LvXAIHuu) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Locura de Tramites: ROCK](https://open.spotify.com/album/1dcK7m7LnJYfXN3rJIE0xf) | 5:06 |
 
-Snapshot ID: `MCwzMTA0YWEyMTQ3NWY2NWRkZjgxZDAyY2FmMGVmNGYxZmYxNTBkNzQz`
+Snapshot ID: `MCxmNWY4ZTkwYTAyM2QzZDQzYmZhMTQwODI1NzM5ZmMwMzliNWQ3ZTI5`

@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 249482,
+  "num_followers": 249512,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Nzk4ZGIwODg2OWRmY2Y4YTc2OTE4Y2NiYzY1ZDI2ZmRmMTQ4YjA2",
+  "snapshot_id": "MCwxMDBkNzgxYmExYmJiMWY5OWIyYzUyNjdhZDdiOTBlMWYyODgxMTMy",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
+        "name": "Vibes 2",
+        "url": "https://open.spotify.com/album/1AKUaQMs0kRryyi18h31o0"
+      },
+      "artists": [
+        {
+          "name": "The Deli",
+          "url": "https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde"
+        }
+      ],
+      "duration_ms": 136914,
+      "name": "5:32pm",
+      "url": "https://open.spotify.com/track/0Q2LHrREFF9rtX3PuMUoNL"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
         "name": "osho",
         "url": "https://open.spotify.com/album/3IeZJRDlyJdbgF64pkMlqc"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 332173,
       "name": "Getsomerest/sleepwell",
       "url": "https://open.spotify.com/track/2RycgtfFQZOPgEGrzBGE0j"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "Vibes 2",
-        "url": "https://open.spotify.com/album/1AKUaQMs0kRryyi18h31o0"
-      },
-      "artists": [
-        {
-          "name": "The Deli",
-          "url": "https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde"
-        }
-      ],
-      "duration_ms": 136914,
-      "name": "5:32pm",
-      "url": "https://open.spotify.com/track/0Q2LHrREFF9rtX3PuMUoNL"
     },
     {
       "added_at": "2022-02-02 00:21:48",

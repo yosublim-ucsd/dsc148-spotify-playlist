@@ -1,12 +1,12 @@
 {
   "description": "Cruzando cerros y arroyos mientras recordamos el legado campirano y rancher\u00f3n.",
-  "num_followers": 79033,
+  "num_followers": 79245,
   "original_name": "Sierre\u00f1as Viejitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmM1YzM4Mjg4YmU3MDQxZWU3OTIzNjMwMDNjYmExNjkwM2RiMDAz",
+  "snapshot_id": "MCxlNGZjMmMwZGQ3OWNhNzU3OTNmODFhZTE3ZmU3YjVmMTMwNDQ5MzBj",
   "tracks": [
     {
       "added_at": "2023-11-09 23:10:04",
@@ -811,22 +811,18 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
-        "name": "El Diablo y el Federal",
-        "url": "https://open.spotify.com/album/2rcwazegT8e3JlhPPtHJYk"
+        "name": "Puros Trancazos",
+        "url": "https://open.spotify.com/album/6f5ItheCRgKSsl3ADzmxmP"
       },
       "artists": [
         {
-          "name": "El Canelo De Sinaloa",
-          "url": "https://open.spotify.com/artist/5WyCFEWzY8eMcSOu0BFjhJ"
-        },
-        {
-          "name": "Los Dos Del Sitio",
-          "url": "https://open.spotify.com/artist/4fKzhjg1iCHqWvXBB1U6G2"
+          "name": "Los Sierre\u00f1os",
+          "url": "https://open.spotify.com/artist/5MXWcBs0RGTVN1bz9N7g3A"
         }
       ],
-      "duration_ms": 133722,
-      "name": "El Frijolito",
-      "url": "https://open.spotify.com/track/2DinJPTgjKjiBG8zEmUAq8"
+      "duration_ms": 200453,
+      "name": "Paz En Este Amor",
+      "url": "https://open.spotify.com/track/1viXoY1WcMZJaQJKd890Kr"
     },
     {
       "added_at": "2023-11-09 23:10:04",
@@ -847,18 +843,22 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
-        "name": "Puros Trancazos",
-        "url": "https://open.spotify.com/album/6f5ItheCRgKSsl3ADzmxmP"
+        "name": "El Diablo y el Federal",
+        "url": "https://open.spotify.com/album/2rcwazegT8e3JlhPPtHJYk"
       },
       "artists": [
         {
-          "name": "Los Sierre\u00f1os",
-          "url": "https://open.spotify.com/artist/5MXWcBs0RGTVN1bz9N7g3A"
+          "name": "El Canelo De Sinaloa",
+          "url": "https://open.spotify.com/artist/5WyCFEWzY8eMcSOu0BFjhJ"
+        },
+        {
+          "name": "Los Dos Del Sitio",
+          "url": "https://open.spotify.com/artist/4fKzhjg1iCHqWvXBB1U6G2"
         }
       ],
-      "duration_ms": 200453,
-      "name": "Paz En Este Amor",
-      "url": "https://open.spotify.com/track/1viXoY1WcMZJaQJKd890Kr"
+      "duration_ms": 133722,
+      "name": "El Frijolito",
+      "url": "https://open.spotify.com/track/2DinJPTgjKjiBG8zEmUAq8"
     },
     {
       "added_at": "2023-11-09 23:10:04",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
-        "name": "Valent\u00edn \"El Gallo\" Con Guitarras (En Vivo)",
-        "url": "https://open.spotify.com/album/3NO5ZbtH8zW3wqSF9p7SGs"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn \"El Gallo\"",
-          "url": "https://open.spotify.com/artist/0MJYPa8lsdyJ1Rhf3JTVn3"
-        },
-        {
-          "name": "Los Dukes De Sonora",
-          "url": "https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb"
-        }
-      ],
-      "duration_ms": 289802,
-      "name": "El Venadito",
-      "url": "https://open.spotify.com/track/5ZTb56u69iePiT3tzknR6k"
-    },
-    {
-      "added_at": "2023-11-09 23:10:04",
-      "album": {
         "name": "Los Cuen's De Sinaloa",
         "url": "https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 185040,
       "name": "Encendido Clavel",
       "url": "https://open.spotify.com/track/7b28hNlTMK0ChHBszSrSgN"
+    },
+    {
+      "added_at": "2023-11-09 23:10:04",
+      "album": {
+        "name": "Valent\u00edn \"El Gallo\" Con Guitarras (En Vivo)",
+        "url": "https://open.spotify.com/album/3NO5ZbtH8zW3wqSF9p7SGs"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn \"El Gallo\"",
+          "url": "https://open.spotify.com/artist/0MJYPa8lsdyJ1Rhf3JTVn3"
+        },
+        {
+          "name": "Los Dukes De Sonora",
+          "url": "https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb"
+        }
+      ],
+      "duration_ms": 289802,
+      "name": "El Venadito",
+      "url": "https://open.spotify.com/track/5ZTb56u69iePiT3tzknR6k"
     },
     {
       "added_at": "2023-11-09 23:10:04",

@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 160095,
+  "num_followers": 160224,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTA0YWEyMTQ3NWY2NWRkZjgxZDAyY2FmMGVmNGYxZmYxNTBkNzQz",
+  "snapshot_id": "MCxmNWY4ZTkwYTAyM2QzZDQzYmZhMTQwODI1NzM5ZmMwMzliNWQ3ZTI5",
   "tracks": [
     {
       "added_at": "2024-01-03 18:31:37",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Monta\u00f1a Rusa Emocional",
-        "url": "https://open.spotify.com/album/0KOjxfn6PBm3ntF4NZnhjq"
-      },
-      "artists": [
-        {
-          "name": "Cruzando El Charco",
-          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
-        }
-      ],
-      "duration_ms": 199881,
-      "name": "Monta\u00f1a Rusa Emocional",
-      "url": "https://open.spotify.com/track/6OrpYqotia6MQqlKZKsgZ1"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
         "name": "Incompleto - 20 Rocanroles 20",
         "url": "https://open.spotify.com/album/4wCc0oARR0CTG3plo4Zgnn"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 247973,
       "name": "Imposible",
       "url": "https://open.spotify.com/track/2Yl65F569JNarqLpr4oYNj"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "Monta\u00f1a Rusa Emocional",
+        "url": "https://open.spotify.com/album/0KOjxfn6PBm3ntF4NZnhjq"
+      },
+      "artists": [
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        }
+      ],
+      "duration_ms": 199881,
+      "name": "Monta\u00f1a Rusa Emocional",
+      "url": "https://open.spotify.com/track/6OrpYqotia6MQqlKZKsgZ1"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -1211,86 +1211,6 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "P\u00e1nico",
-        "url": "https://open.spotify.com/album/1T53gREvUUPSwN2dP1SZRy"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3venes Pordioseros",
-          "url": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4"
-        }
-      ],
-      "duration_ms": 162360,
-      "name": "Lobo",
-      "url": "https://open.spotify.com/track/6ZV5I5GntRTLOSNvSHQ1ia"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
-        "name": "Alma en Pe\u00f1a",
-        "url": "https://open.spotify.com/album/4bkPnI5gKmETlDyZe5BKEH"
-      },
-      "artists": [
-        {
-          "name": "Salamandra",
-          "url": "https://open.spotify.com/artist/1sLot73qJ4Vbh4nPuwzvj9"
-        }
-      ],
-      "duration_ms": 236605,
-      "name": "Solito",
-      "url": "https://open.spotify.com/track/3GyVh0ptPs7ttfbpex6Bmn"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
-        "name": "Buen Recuerdo",
-        "url": "https://open.spotify.com/album/7HUBMKHKAZ7kVBfacExMhR"
-      },
-      "artists": [
-        {
-          "name": "Pier",
-          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
-        }
-      ],
-      "duration_ms": 251843,
-      "name": "Buen Recuerdo",
-      "url": "https://open.spotify.com/track/7akXU0fDGqQ1QRWooxo1Ug"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
-        "name": "Oro",
-        "url": "https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m"
-      },
-      "artists": [
-        {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
-        }
-      ],
-      "duration_ms": 215440,
-      "name": "Todo Sigue Igual",
-      "url": "https://open.spotify.com/track/6ClmH50s8nc7fEcYNkk2kI"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
-        "name": "No Se Lo Cuentes a Nadie",
-        "url": "https://open.spotify.com/album/6D8HxOLAJntQgxD0NLX49p"
-      },
-      "artists": [
-        {
-          "name": "Los Perez Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3"
-        }
-      ],
-      "duration_ms": 222729,
-      "name": "La Ca\u00f1ada",
-      "url": "https://open.spotify.com/track/535yV2PsP1kwPji586uUK4"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
         "name": "Momo Sampler",
         "url": "https://open.spotify.com/album/0omWExUGprwvcvYwGh3Vr0"
       },
@@ -1323,8 +1243,8 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Probame (Demo)",
-        "url": "https://open.spotify.com/album/2fs5He9XpcqbqLud8QSRyv"
+        "name": "P\u00e1nico",
+        "url": "https://open.spotify.com/album/1T53gREvUUPSwN2dP1SZRy"
       },
       "artists": [
         {
@@ -1332,9 +1252,73 @@
           "url": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4"
         }
       ],
-      "duration_ms": 126426,
-      "name": "Cuando Me Muera",
-      "url": "https://open.spotify.com/track/3gvaShbCuEoL51efZWtpIs"
+      "duration_ms": 162360,
+      "name": "Lobo",
+      "url": "https://open.spotify.com/track/6ZV5I5GntRTLOSNvSHQ1ia"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "Alma en Pe\u00f1a",
+        "url": "https://open.spotify.com/album/4bkPnI5gKmETlDyZe5BKEH"
+      },
+      "artists": [
+        {
+          "name": "Salamandra",
+          "url": "https://open.spotify.com/artist/1sLot73qJ4Vbh4nPuwzvj9"
+        }
+      ],
+      "duration_ms": 236605,
+      "name": "Solito",
+      "url": "https://open.spotify.com/track/3GyVh0ptPs7ttfbpex6Bmn"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "Oro",
+        "url": "https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m"
+      },
+      "artists": [
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        }
+      ],
+      "duration_ms": 215440,
+      "name": "Todo Sigue Igual",
+      "url": "https://open.spotify.com/track/6ClmH50s8nc7fEcYNkk2kI"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "Buen Recuerdo",
+        "url": "https://open.spotify.com/album/7HUBMKHKAZ7kVBfacExMhR"
+      },
+      "artists": [
+        {
+          "name": "Pier",
+          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
+        }
+      ],
+      "duration_ms": 251843,
+      "name": "Buen Recuerdo",
+      "url": "https://open.spotify.com/track/7akXU0fDGqQ1QRWooxo1Ug"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "No Se Lo Cuentes a Nadie",
+        "url": "https://open.spotify.com/album/6D8HxOLAJntQgxD0NLX49p"
+      },
+      "artists": [
+        {
+          "name": "Los Perez Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3"
+        }
+      ],
+      "duration_ms": 222729,
+      "name": "La Ca\u00f1ada",
+      "url": "https://open.spotify.com/track/535yV2PsP1kwPji586uUK4"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -1355,6 +1339,22 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
+        "name": "Probame (Demo)",
+        "url": "https://open.spotify.com/album/2fs5He9XpcqbqLud8QSRyv"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3venes Pordioseros",
+          "url": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4"
+        }
+      ],
+      "duration_ms": 126426,
+      "name": "Cuando Me Muera",
+      "url": "https://open.spotify.com/track/3gvaShbCuEoL51efZWtpIs"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
         "name": "Sangre en Tus Luces",
         "url": "https://open.spotify.com/album/19A9YHtIzbhB9oZlvzKOKi"
       },
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
+        "name": "Gardeliando",
+        "url": "https://open.spotify.com/album/4hCEfpe6nzek67R3G1ktt3"
+      },
+      "artists": [
+        {
+          "name": "Los Gardelitos",
+          "url": "https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV"
+        }
+      ],
+      "duration_ms": 357586,
+      "name": "Amor de Contramano",
+      "url": "https://open.spotify.com/track/7JgwIV9KCu0CdpfBxPmjjV"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
         "name": "Reflejo",
         "url": "https://open.spotify.com/album/6FsAipsUvB2WP4o6ho5u2i"
       },
@@ -1383,6 +1399,22 @@
       "duration_ms": 259039,
       "name": "Reflejo",
       "url": "https://open.spotify.com/track/1RaYc8dytOsWlmL2bEuG2I"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "Oro",
+        "url": "https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m"
+      },
+      "artists": [
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        }
+      ],
+      "duration_ms": 264106,
+      "name": "Homero",
+      "url": "https://open.spotify.com/track/3Ld5CT9BdPUqTkd9dnxny4"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -1415,38 +1447,6 @@
       "duration_ms": 313520,
       "name": "Lo Que Nunca Te Dije",
       "url": "https://open.spotify.com/track/5gkNiqB4WzDX9pCHuCLgSa"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
-        "name": "Oro",
-        "url": "https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m"
-      },
-      "artists": [
-        {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
-        }
-      ],
-      "duration_ms": 264106,
-      "name": "Homero",
-      "url": "https://open.spotify.com/track/3Ld5CT9BdPUqTkd9dnxny4"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
-        "name": "Gardeliando",
-        "url": "https://open.spotify.com/album/4hCEfpe6nzek67R3G1ktt3"
-      },
-      "artists": [
-        {
-          "name": "Los Gardelitos",
-          "url": "https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV"
-        }
-      ],
-      "duration_ms": 357586,
-      "name": "Amor de Contramano",
-      "url": "https://open.spotify.com/track/7JgwIV9KCu0CdpfBxPmjjV"
     },
     {
       "added_at": "2024-01-03 18:31:37",

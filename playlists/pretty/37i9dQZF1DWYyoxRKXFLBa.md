@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 
 > Conoce a puras morras rifadas en La Marketa\. ¡Súbele al volumen, te esperamos el 6 de Agosto en Jardín Juárez! En portada: Now Girls Rule
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,799 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,801 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 38 | [Free Your Mind \- Spanish Version](https://open.spotify.com/track/1cBFq8ArDimc2lnz7bI2Va) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Free Your Mind \(Spanish Version\)](https://open.spotify.com/album/0nm8RYsOK1mCjJPn3yGH2i) | 2:57 |
 | 39 | [Break!](https://open.spotify.com/track/2PxLq9EhlNZyw08kZiqbq9) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/3E6nSXNMIVy4wofjSstjka) | 2:53 |
 | 40 | [Voy en Auto](https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Voy en Auto](https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu) | 2:58 |
-| 41 | [Demasiado](https://open.spotify.com/track/7w3MgTb99l7GvLJOBFTfB7) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Demasiado](https://open.spotify.com/album/741haSJmAHRq0wVVN2NdpV) | 2:57 |
-| 42 | [Máscara de Niña](https://open.spotify.com/track/14RubZ8E6S34PohWgJq21G) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Máscara de Niña](https://open.spotify.com/album/5oYBMmeTlPZcIqwqSL9iEw) | 3:14 |
+| 41 | [Máscara de Niña](https://open.spotify.com/track/14RubZ8E6S34PohWgJq21G) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Máscara de Niña](https://open.spotify.com/album/5oYBMmeTlPZcIqwqSL9iEw) | 3:14 |
+| 42 | [Demasiado](https://open.spotify.com/track/7w3MgTb99l7GvLJOBFTfB7) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Demasiado](https://open.spotify.com/album/741haSJmAHRq0wVVN2NdpV) | 2:57 |
 | 43 | [no me convengo](https://open.spotify.com/track/5v1NAG0fvXdrNAVbdz3wgW) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [no me convengo](https://open.spotify.com/album/2Uw0BxkMZqNIPI428lJNrw) | 3:20 |
 | 44 | [Desmotivada](https://open.spotify.com/track/5XXP7McoRRdfmplsrKGeBv) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [DESTRUYA!](https://open.spotify.com/album/1NXvepDJRwZ2zJNqMZNxdy) | 2:22 |
 | 45 | [Lloro](https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:24 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 61 | [P3da](https://open.spotify.com/track/4rxg8aTQOGGL7LV1yqqhHy) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ), [Roberta Pardo](https://open.spotify.com/artist/5SDCXW3v93K8R58xRLeV0b), [Isabela Costero](https://open.spotify.com/artist/3Jes9MS3tLqPDrCDxdUGQx), [Maria Villanueva](https://open.spotify.com/artist/10LgSuLJnpj2wkOxOQW1hF), [Valentina Reyes](https://open.spotify.com/artist/7gFOLjST0TuyozYrZUQWtw) | [P3da](https://open.spotify.com/album/5s7W0XNdHN2Sz3JviG3Rv8) | 1:21 |
 | 62 | [No Me Impulses a Ser Así](https://open.spotify.com/track/2QtUidiBF0jjlejAyNNDAm) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [No Me Impulses a Ser Así](https://open.spotify.com/album/5sQiPEkdWXYChUHdO6uos4) | 2:32 |
 | 63 | [San Juan](https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [San Juan](https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl) | 3:45 |
-| 64 | [Corrida al Arco](https://open.spotify.com/track/5QTBQvrTCudXdatBV3ycRF) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Corrida al Arco](https://open.spotify.com/album/6o0XLbTOCvzBz7rH0kYZUk) | 4:13 |
-| 65 | [Frente al Mar](https://open.spotify.com/track/5FfoOol6bSXoO1FnnkhjeI) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Frente al Mar](https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n) | 6:07 |
+| 64 | [Frente al Mar](https://open.spotify.com/track/5FfoOol6bSXoO1FnnkhjeI) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Frente al Mar](https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n) | 6:07 |
+| 65 | [Corrida al Arco](https://open.spotify.com/track/5QTBQvrTCudXdatBV3ycRF) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Corrida al Arco](https://open.spotify.com/album/6o0XLbTOCvzBz7rH0kYZUk) | 4:13 |
 | 66 | [Romantinski](https://open.spotify.com/track/3Wy7M9W8QqwyNQwovhHNw4) | [Aiko el grupo](https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1) | [Romantinski](https://open.spotify.com/album/2q6MDcpS342VSGIxCrOg6e) | 2:50 |
 | 67 | [Caer](https://open.spotify.com/track/4ISBnFzh1VdY0lybDzFQxK) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Las Distancias](https://open.spotify.com/album/6iw6U4obwRM38eN7JZ33Dm) | 5:11 |
 | 68 | [Flores Sobre las Piedras](https://open.spotify.com/track/4WzYFb4DuCsBdSxwuc5AnZ) | [Carla Rivarola](https://open.spotify.com/artist/2zx6gMuW2mPXl4WJx4lgGK) | [Flores Sobre las Piedras](https://open.spotify.com/album/2NDbkXbi16sS49LigcSd4n) | 5:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 79 | [Escapar](https://open.spotify.com/track/6eK3x5Q6m3ItwHGdmVEo1d) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Las Distancias](https://open.spotify.com/album/6iw6U4obwRM38eN7JZ33Dm) | 4:01 |
 | 80 | [Bellaco](https://open.spotify.com/track/3sVv6VG97Fxnfo93seAm8X) | [Pinpilinpussies](https://open.spotify.com/artist/4Mbv7MoBUcLBWCuGBCxRf1) | [HIPOCONDRÍA](https://open.spotify.com/album/1ZdhaaSnC5nWorkAg3Vuh0) | 4:55 |
 
-Snapshot ID: `MCw3NjljNTI0YzgxYjgzOTI5NTMxNjJkMDI2ZTRiOGNhODhlOWZlNWEw`
+Snapshot ID: `MCxmNjQxMjRlYWE1YWYyYTljOTI1N2Y0YjZjYWI4NTM4NWQ5MTdlMzA3`

@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 7612,
+  "num_followers": 7660,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODIzMWNkODI3ZmQ3YzA0Mjc2MjQ5MmIxZDNlOTc1N2Q2ODYwNjRk",
+  "snapshot_id": "MCwxNGFhZjAxNjE2NzQyN2MwNTQyN2UzZGJhYjQyZTIyMmU0NDdmMmM1",
   "tracks": [
     {
       "added_at": "2024-01-04 23:00:00",
@@ -83,22 +83,22 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Don't You Worry Child",
-        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
+        "name": "When We Were Young (The Logical Song)",
+        "url": "https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY"
       },
       "artists": [
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 212862,
-      "name": "Don't You Worry Child - Radio Edit",
-      "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
+      "duration_ms": 147432,
+      "name": "When We Were Young (The Logical Song)",
+      "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -127,22 +127,22 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "When We Were Young (The Logical Song)",
-        "url": "https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY"
+        "name": "Don't You Worry Child",
+        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         },
         {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
         }
       ],
-      "duration_ms": 147432,
-      "name": "When We Were Young (The Logical Song)",
-      "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq"
+      "duration_ms": 212862,
+      "name": "Don't You Worry Child - Radio Edit",
+      "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "EveryTime I Cry",
-        "url": "https://open.spotify.com/album/5W79aGcuoBYk0Mb2QL2Jcw"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 177855,
-      "name": "EveryTime I Cry",
-      "url": "https://open.spotify.com/track/0mV43B6pJWRjcM5TmzNe6d"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "The Other Side (from Trolls World Tour)",
         "url": "https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 188186,
       "name": "The Other Side (from Trolls World Tour)",
       "url": "https://open.spotify.com/track/463PQggkmk5tTw8ug0ahOX"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "EveryTime I Cry",
+        "url": "https://open.spotify.com/album/5W79aGcuoBYk0Mb2QL2Jcw"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 177855,
+      "name": "EveryTime I Cry",
+      "url": "https://open.spotify.com/track/0mV43B6pJWRjcM5TmzNe6d"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -895,6 +895,26 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "Weekend (feat. Emelie Cyr\u00e9us)",
+        "url": "https://open.spotify.com/album/3z7i4GvlZ92wwB06ZAGzqm"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "Emelie Cyr\u00e9us",
+          "url": "https://open.spotify.com/artist/0sbkGGlLYmgOzcxRqd257O"
+        }
+      ],
+      "duration_ms": 132775,
+      "name": "Weekend (feat. Emelie Cyr\u00e9us)",
+      "url": "https://open.spotify.com/track/4KPYXZUCKYLEEcGmKN4Exs"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Push It",
         "url": "https://open.spotify.com/album/4LcWzWIwMTNxDz4Baxo7qL"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 248571,
       "name": "Push It",
       "url": "https://open.spotify.com/track/2HAVzWKbG539XNDlWz3FX5"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "Weekend (feat. Emelie Cyr\u00e9us)",
-        "url": "https://open.spotify.com/album/3z7i4GvlZ92wwB06ZAGzqm"
-      },
-      "artists": [
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "Emelie Cyr\u00e9us",
-          "url": "https://open.spotify.com/artist/0sbkGGlLYmgOzcxRqd257O"
-        }
-      ],
-      "duration_ms": 132775,
-      "name": "Weekend (feat. Emelie Cyr\u00e9us)",
-      "url": "https://open.spotify.com/track/4KPYXZUCKYLEEcGmKN4Exs"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 179831,
-      "name": "OMG What's Happening",
-      "url": "https://open.spotify.com/track/11OPriDpmUrTMTji52ta17"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "I Found You",
         "url": "https://open.spotify.com/album/377h4vWvsEO8dcErH6z0DQ"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 167307,
       "name": "I Found You",
       "url": "https://open.spotify.com/track/3wYOGJYD31sLRmBgCvWxa4"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 179831,
+      "name": "OMG What's Happening",
+      "url": "https://open.spotify.com/track/11OPriDpmUrTMTji52ta17"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Dirt Femme (Extended Cut)",
-        "url": "https://open.spotify.com/album/4HqIEAaytAyzVPnnT0j9j3"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 190902,
-      "name": "I like u",
-      "url": "https://open.spotify.com/track/28XsFrUuLEcq9BnGlOHTyJ"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "22 (Deluxe)",
         "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 177213,
       "name": "DNA",
       "url": "https://open.spotify.com/track/41za80kTVaQpZwtPfPtPYB"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Dirt Femme (Extended Cut)",
+        "url": "https://open.spotify.com/album/4HqIEAaytAyzVPnnT0j9j3"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 190902,
+      "name": "I like u",
+      "url": "https://open.spotify.com/track/28XsFrUuLEcq9BnGlOHTyJ"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1391,8 +1391,8 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Thieves",
-        "url": "https://open.spotify.com/album/2jxT4u5M7wykbnYp46RYkd"
+        "name": "Told You So",
+        "url": "https://open.spotify.com/album/3vlP9QH45gN0GSbJYN7tCe"
       },
       "artists": [
         {
@@ -1400,13 +1400,13 @@
           "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
         },
         {
-          "name": "JXN",
-          "url": "https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU"
+          "name": "Orange Villa",
+          "url": "https://open.spotify.com/artist/1Zfvu3KDmISwHwOuU8eXH5"
         }
       ],
-      "duration_ms": 145652,
-      "name": "Thieves",
-      "url": "https://open.spotify.com/track/6Af3ncYlnMUubDYKcoHZIF"
+      "duration_ms": 146355,
+      "name": "Told You So",
+      "url": "https://open.spotify.com/track/1WMCwGfNf4ndXbsvHPVqlh"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1431,30 +1431,6 @@
       "duration_ms": 168480,
       "name": "So Close",
       "url": "https://open.spotify.com/track/3wNt4DRane7yasbJEfR0hX"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "La Isla Bonita",
-        "url": "https://open.spotify.com/album/4ZZaPROmldjEyG060tD0sS"
-      },
-      "artists": [
-        {
-          "name": "Braaheim",
-          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
-        },
-        {
-          "name": "ILYAA",
-          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
-        },
-        {
-          "name": "Dani Vidi",
-          "url": "https://open.spotify.com/artist/1273CkIB0lP8EWV7OoqiKc"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "La Isla Bonita",
-      "url": "https://open.spotify.com/track/6xXfYBNKBnJusUxemYMkKH"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1487,6 +1463,30 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "La Isla Bonita",
+        "url": "https://open.spotify.com/album/4ZZaPROmldjEyG060tD0sS"
+      },
+      "artists": [
+        {
+          "name": "Braaheim",
+          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
+        },
+        {
+          "name": "ILYAA",
+          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
+        },
+        {
+          "name": "Dani Vidi",
+          "url": "https://open.spotify.com/artist/1273CkIB0lP8EWV7OoqiKc"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "La Isla Bonita",
+      "url": "https://open.spotify.com/track/6xXfYBNKBnJusUxemYMkKH"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Damn (You\u2019ve Got Me Saying)",
         "url": "https://open.spotify.com/album/53i5TggV9rLa7XBaDbD8Hp"
       },
@@ -1511,8 +1511,8 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Told You So",
-        "url": "https://open.spotify.com/album/3vlP9QH45gN0GSbJYN7tCe"
+        "name": "Thieves",
+        "url": "https://open.spotify.com/album/2jxT4u5M7wykbnYp46RYkd"
       },
       "artists": [
         {
@@ -1520,13 +1520,13 @@
           "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
         },
         {
-          "name": "Orange Villa",
-          "url": "https://open.spotify.com/artist/1Zfvu3KDmISwHwOuU8eXH5"
+          "name": "JXN",
+          "url": "https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU"
         }
       ],
-      "duration_ms": 146355,
-      "name": "Told You So",
-      "url": "https://open.spotify.com/track/1WMCwGfNf4ndXbsvHPVqlh"
+      "duration_ms": 145652,
+      "name": "Thieves",
+      "url": "https://open.spotify.com/track/6Af3ncYlnMUubDYKcoHZIF"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "Let Them Know",
+        "url": "https://open.spotify.com/album/067DP3a9HwQJxvr5lelMbB"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 148693,
+      "name": "Let Them Know",
+      "url": "https://open.spotify.com/track/2lw3naleLuf81Si3tuFVak"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Never Love You Again",
         "url": "https://open.spotify.com/album/7eWg7UKU6LsRSvXthmlmZZ"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 191329,
       "name": "Never Love You Again",
       "url": "https://open.spotify.com/track/676tQQmFrilCR8L7kxRcGd"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "Let Them Know",
-        "url": "https://open.spotify.com/album/067DP3a9HwQJxvr5lelMbB"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 148693,
-      "name": "Let Them Know",
-      "url": "https://open.spotify.com/track/2lw3naleLuf81Si3tuFVak"
     }
   ],
   "unique_name": "Peppl\u00e5tar till tr\u00e4ningspasset",

@@ -1,12 +1,12 @@
 {
   "description": "Hity, kter\u00e9 t\u011b povzbud\u00ed a nalad\u00ed na vlnu dobr\u00e9 n\u00e1lady.",
-  "num_followers": 32991,
+  "num_followers": 32999,
   "original_name": "Vlna Radosti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2U0MzdjNTIxNDAwYzY5NjQwNzNjNzBjMWRkY2FhMTllY2JkNTY0",
+  "snapshot_id": "MCw3MGIyYWZmNzZiMDE1MjMxNGU5ZDU1ZTRjMjk3ZjI0NzQwMDU5NWVl",
   "tracks": [
     {
       "added_at": "2023-10-26 22:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
+        "name": "Staying at Tamara's",
+        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 201287,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
         "name": "Bam Bam (feat. Ed Sheeran)",
         "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Staying at Tamara's",
-        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 201287,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
     },
     {
       "added_at": "2023-10-26 22:00:00",

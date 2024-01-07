@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Hip\-Hop's hottest from Australia, New Zealand and beyond\. Cover: ONEFOUR
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,972 likes - 58 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,034 likes - 58 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 57 | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/track/141y1FjVBV5IY7Mlvw5poL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/album/30EK2qWGcPNfUAkQc2Ppyi) | 3:42 |
 | 58 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 |
 
-Snapshot ID: `MCw2NDU2NmU5YjhkNjY1MDIzZjU0NjI0Yjg0MzYyYmI1YjIxZTZmMWNh`
+Snapshot ID: `MCwzNTU2OThkMGI3MDIxODY1OGUxNDNiZTU3MTRhMjQ5YmY2NWE0OGVi`

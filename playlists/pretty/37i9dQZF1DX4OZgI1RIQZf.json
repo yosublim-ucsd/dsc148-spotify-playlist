@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 80625,
+  "num_followers": 80673,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWEyMzVhZWVhZmY1NzljMGM2ZGY2MTA0NWRlZGFhNWEwYTEzYzEw",
+  "snapshot_id": "MCwwYjYzN2VmNzlmMzI3YjNlN2FmMTYzMDhmODA2NmJmMjk0YWM1ODMw",
   "tracks": [
     {
       "added_at": "2023-10-27 07:45:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
-        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 247147,
-      "name": "Season Of The Witch",
-      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Antics",
         "url": "https://open.spotify.com/album/2OFkUKYNNFQ74kJOSc9gzz"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 215826,
       "name": "Evil",
       "url": "https://open.spotify.com/track/4absiGHMelB8eH976ytjBj"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
+        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 247147,
+      "name": "Season Of The Witch",
+      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "The Physical World",
-        "url": "https://open.spotify.com/album/22sYnou2SavBZHHFVUTmWs"
-      },
-      "artists": [
-        {
-          "name": "Death From Above 1979",
-          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
-        }
-      ],
-      "duration_ms": 185386,
-      "name": "Right On, Frankenstein!",
-      "url": "https://open.spotify.com/track/32XH0vxdpKpcJ80NSpRbbz"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "By Default",
         "url": "https://open.spotify.com/album/7uIZLgnTNZEJ1d0iO0qvEo"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 168936,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/6qWbdBTcF2u7zvSXLxKRZx"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "The Physical World",
+        "url": "https://open.spotify.com/album/22sYnou2SavBZHHFVUTmWs"
+      },
+      "artists": [
+        {
+          "name": "Death From Above 1979",
+          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
+        }
+      ],
+      "duration_ms": 185386,
+      "name": "Right On, Frankenstein!",
+      "url": "https://open.spotify.com/track/32XH0vxdpKpcJ80NSpRbbz"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Beat the Devil's Tattoo",
-        "url": "https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII"
-      },
-      "artists": [
-        {
-          "name": "Black Rebel Motorcycle Club",
-          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
-        }
-      ],
-      "duration_ms": 235746,
-      "name": "River Styx",
-      "url": "https://open.spotify.com/track/4X5BZo70kQoOcDN2KlbrPC"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "A Girl Like You",
         "url": "https://open.spotify.com/album/6vtVr80gX551QRmXU6QZJ4"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 192600,
       "name": "A Girl Like You",
       "url": "https://open.spotify.com/track/3KrIoPBs9kptUnczFNg9tW"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Beat the Devil's Tattoo",
+        "url": "https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII"
+      },
+      "artists": [
+        {
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+        }
+      ],
+      "duration_ms": 235746,
+      "name": "River Styx",
+      "url": "https://open.spotify.com/track/4X5BZo70kQoOcDN2KlbrPC"
     },
     {
       "added_at": "2023-10-27 07:45:00",

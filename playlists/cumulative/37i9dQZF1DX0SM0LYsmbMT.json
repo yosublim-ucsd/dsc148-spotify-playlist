@@ -15048,6 +15048,24 @@
     {
       "album": {
         "name": "cycles",
+        "url": "https://open.spotify.com/album/0wbo43jLQ902v4wSimCh1u"
+      },
+      "artists": [
+        {
+          "name": ".Eehou",
+          "url": "https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132107,
+      "name": "cycles",
+      "url": "https://open.spotify.com/track/55nIFLXoWJDzwbTyT3v6tu"
+    },
+    {
+      "album": {
+        "name": "cycles",
         "url": "https://open.spotify.com/album/4qhlNGAtRLJ0hbMheZ8BvR"
       },
       "artists": [
@@ -15156,6 +15174,28 @@
       "duration_ms": 139375,
       "name": "Da Wes Sht",
       "url": "https://open.spotify.com/track/2WOugRtzn1QKmCarSqavnM"
+    },
+    {
+      "album": {
+        "name": "Daffy",
+        "url": "https://open.spotify.com/album/3g3lT5v5Wl91UoY4kbVAAW"
+      },
+      "artists": [
+        {
+          "name": "Donkeychote",
+          "url": "https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU"
+        },
+        {
+          "name": "sloh rou",
+          "url": "https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127812,
+      "name": "Daffy",
+      "url": "https://open.spotify.com/track/180CmU4FVKS0f3zh72amRe"
     },
     {
       "album": {
@@ -26340,7 +26380,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 112499,
       "name": "Graduation",
       "url": "https://open.spotify.com/track/0bzdrIOBUx9lhJgVpvithi"
@@ -27022,6 +27062,24 @@
       "duration_ms": 162000,
       "name": "Gymnop\u00e9dies",
       "url": "https://open.spotify.com/track/6r0Jqgnd5i92R2cuE0Z1q6"
+    },
+    {
+      "album": {
+        "name": "Surfin on your Wave",
+        "url": "https://open.spotify.com/album/4sdVw3Blavcj9YK3VUoIAx"
+      },
+      "artists": [
+        {
+          "name": "Knowsum",
+          "url": "https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99966,
+      "name": "Ha Long",
+      "url": "https://open.spotify.com/track/1TDDBPg0JCXBdq6kpnbOG0"
     },
     {
       "album": {
@@ -34046,7 +34104,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 151520,
       "name": "Jumping Saxx",
       "url": "https://open.spotify.com/track/6gutPw9mIyl2U9YlNk0DgK"
@@ -49456,7 +49514,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 155294,
       "name": "Only",
       "url": "https://open.spotify.com/track/5qy2fUx0Qy6Cz3gEYWPX0I"

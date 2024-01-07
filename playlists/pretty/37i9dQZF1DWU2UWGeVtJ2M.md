@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,344 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,382 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 17 | [Love Me](https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Love Me](https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel) | 3:27 |
 | 18 | [R.I.P\. \(feat\. Trippie Redd\)](https://open.spotify.com/track/4wJ8dJKBAxdDe5cUx8K779) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 2:38 |
 | 19 | [fue mejor \(feat\. SZA\)](https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [fue mejor \(feat\. SZA\)](https://open.spotify.com/album/5h23sIlF1FvjdIdcJofXlI) | 3:50 |
-| 20 | [airplane thoughts](https://open.spotify.com/track/4t5joZkdlXlvzLXJbkgppJ) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 3:30 |
+| 20 | [airplane thoughts](https://open.spotify.com/track/4t5joZkdlXlvzLXJbkgppJ) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 3:30 |
 | 21 | [Feels](https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [While We Wait](https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW) | 3:01 |
 | 22 | [Wish I Was Better](https://open.spotify.com/track/1kAkUHFb7ryeVkVSRD6Nkj) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Wish I Was Better](https://open.spotify.com/album/0dbCEm3gL91TgF2Gihuexr) | 2:20 |
 | 23 | [Lost Cause](https://open.spotify.com/track/4191RXFPa7Ge9XkA4cWlna) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:32 |
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 85 | [Forever](https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Forever](https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S) | 4:13 |
 | 86 | [Holding the Gun](https://open.spotify.com/track/4Hs7FS8jNNReipDe6SDpwz) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Truth Is](https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU) | 3:08 |
 | 87 | [Time](https://open.spotify.com/track/3Ths3AX8KIMrVGXJRrkBDy) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [Time](https://open.spotify.com/album/769w0FnPuehiePv6Mve1Cz) | 3:20 |
-| 88 | [Can't Find](https://open.spotify.com/track/7KKuseiLhKfoP353BjJduf) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Me In Dat Blue](https://open.spotify.com/album/5nWNY2ELKVX8cfukWR0Rfx) | 4:19 |
-| 89 | [Built That Way](https://open.spotify.com/track/1KFRlrRRuvyrIwgjcSr1Qr) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. I](https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ) | 3:19 |
-| 90 | [Wavvy](https://open.spotify.com/track/7qHus80qoEHRDq8MYJjaNm) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Wavvy](https://open.spotify.com/album/7A3NVckB7uKzaRkoASyapo) | 3:07 |
+| 88 | [Wavvy](https://open.spotify.com/track/7qHus80qoEHRDq8MYJjaNm) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Wavvy](https://open.spotify.com/album/7A3NVckB7uKzaRkoASyapo) | 3:07 |
+| 89 | [Can't Find](https://open.spotify.com/track/7KKuseiLhKfoP353BjJduf) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Me In Dat Blue](https://open.spotify.com/album/5nWNY2ELKVX8cfukWR0Rfx) | 4:19 |
+| 90 | [Built That Way](https://open.spotify.com/track/1KFRlrRRuvyrIwgjcSr1Qr) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. I](https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ) | 3:19 |
 | 91 | [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 |
 | 92 | [Some Place Else](https://open.spotify.com/track/4gO4OomMLvV3l9KoyMpeft) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Some Place Else](https://open.spotify.com/album/5lGV6B08akg9VD5VhqHb5v) | 3:34 |
 | 93 | [Late \(Again\)](https://open.spotify.com/track/2hSjqnEeGoOQvCOnoMtXWE) | [vito.](https://open.spotify.com/artist/76qlBev2S8MtsJSHxEgoJ0) | [Late \(Again\)](https://open.spotify.com/album/1HG8JzEVxRXXl0MyYRjBLz) | 1:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 99 | [Remember](https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Remember](https://open.spotify.com/album/29YT1RXwT1qtQFAw5PMmjL) | 3:19 |
 | 100 | [TRAVELIN'](https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [TRAVELIN'](https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y) | 3:37 |
 
-Snapshot ID: `MCxmYWI1ZjBkZTQwOTYzNzgzNTRmOWRlMjQ0ZTdmZmNhYjg1MmY5ZWMy`
+Snapshot ID: `MCwzMjM0OWYyODNkMTUwNTI0NTgzNDNlNDc3ZWRiNTA5ZWI1NzkyNWZm`

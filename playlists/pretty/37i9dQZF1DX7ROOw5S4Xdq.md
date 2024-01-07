@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: fhop music, Nívea Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,728 likes - 29 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,790 likes - 30 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,5 +37,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 27 | [Sou Teu Deus \(Ao Vivo\)](https://open.spotify.com/track/3eV6yRdBsk4fEE3vWITlIi) | [Letícia Vitória](https://open.spotify.com/artist/5TiYZA0hvaVGzez5lg9WhR) | [Sou Teu Deus \(Ao Vivo\)](https://open.spotify.com/album/6CK5rKAzqiKpm9Q9JdFMOW) | 4:38 |
 | 28 | [Digno É o Cordeiro](https://open.spotify.com/track/6fDudxq0GyMi05MQFIu19Y) | [Higor Rosa](https://open.spotify.com/artist/2fqNvfLoAikmiTGR5WgOeA), [Davi Silva](https://open.spotify.com/artist/37MmnavknAY8Z2ICERRshR) | [Digno É o Cordeiro](https://open.spotify.com/album/3Yq1vi6EhN3CejrghaKQyE) | 10:19 |
 | 29 | [Salmo 23](https://open.spotify.com/track/0ZqtF3wEbBIwfItBjuqyy4) | [Dort](https://open.spotify.com/artist/55J6E4RG9NM379yUE7F9A0) | [Salmo 23](https://open.spotify.com/album/68M07CNpq6vftxAy3UYSB9) | 5:00 |
+| 30 | [A Benção \- The Blessing](https://open.spotify.com/track/7ni7ZHhG5wLh2x4DeQnzI8) | [Musical Songsdei](https://open.spotify.com/artist/5O1bWmXcQoWFeW4QhmEMIb) | [Wedding Songs](https://open.spotify.com/album/6idu1dWtpDqDgRMqe2duxu) | 4:10 |
 
-Snapshot ID: `MCw5NDgwMTQ5NjU3Nzg5YzY4NDY0ZjUyZGU2NmEyYTA4YThjODhjYTBi`
+Snapshot ID: `MCwzMzQ1ZDY0NjIzZTc0NjQ4NTljMzZjZmQ1NjAxODM1MzRjYWY0OGRi`

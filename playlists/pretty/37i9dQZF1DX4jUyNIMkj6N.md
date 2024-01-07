@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,356 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,448 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,18 +55,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 45 | [Sun, Moon, Stars](https://open.spotify.com/track/0xHgo8tccD2tz1JjTjBcBd) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Sun, Moon, Stars](https://open.spotify.com/album/5Zz3P4HvKnhar2gtvZrdL9) | 4:35 |
 | 46 | [Van Gogh](https://open.spotify.com/track/0skX0EhN0OlCbBFWH81Id0) | [Days of August](https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf) | [Postcards](https://open.spotify.com/album/13xRET2oKDFqxm2wGgThzH) | 2:54 |
 | 47 | [Rolling Thunder](https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Rolling Thunder](https://open.spotify.com/album/1OfUQjs3de9iU5C2bYbmYc) | 4:01 |
-| 48 | [Ei ny tid](https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann](https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP) | 2:26 |
-| 49 | [Svarteboka](https://open.spotify.com/track/5hssjRpOTbxPmWBPTV4KIK) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524), [Djerv](https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa) | [Svarteboka](https://open.spotify.com/album/34RiGqZ1AlGsAPtecMiclC) | 4:00 |
+| 48 | [Svarteboka](https://open.spotify.com/track/5hssjRpOTbxPmWBPTV4KIK) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524), [Djerv](https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa) | [Svarteboka](https://open.spotify.com/album/34RiGqZ1AlGsAPtecMiclC) | 4:00 |
+| 49 | [Ei ny tid](https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann](https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP) | 2:26 |
 | 50 | [Halsmandlar](https://open.spotify.com/track/22f4SB1GpL4PCqrwsxHNav) | [Benedikt](https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y), [Ævestaden](https://open.spotify.com/artist/7r8pTV56VazgkUAAUW4ucw) | [Jag är sen igen](https://open.spotify.com/album/0UiQGJXyPQz6ZEvl6I2Y5d) | 2:50 |
 | 51 | [Angel \- Acoustic String Version](https://open.spotify.com/track/2qtyj7TOmcHQ5liWb8vOaV) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Palomino Deluxe \(Child of Summer Edition\)](https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd) | 3:40 |
 | 52 | [Through The Eyes Of A Woman](https://open.spotify.com/track/2f5TJq8mnPoG03pHkIJamG) | [Lucky Lo](https://open.spotify.com/artist/5RJfw4mV4qlNjmve8u1Unz) | [Through The Eyes Of A Woman](https://open.spotify.com/album/5Fp6OQtwSjjNumqtryDIxO) | 4:38 |
 | 53 | [Chicago](https://open.spotify.com/track/4WGfbOXbDMj5ugvmJ38irE) | [The Northern Belle](https://open.spotify.com/artist/3SSBBFq7ACVCk7vapfDqIS), [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY), [Ida Jenshus](https://open.spotify.com/artist/15qMqM0HdFCZ6IKVNfLGNd), [Louien](https://open.spotify.com/artist/3ZwQaquUgrZdqoWDtVUUMY), [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm), [Signe Marie Rustad](https://open.spotify.com/artist/23JSMmZOW1mgd7UhYDk4iJ) | [The Women in Me](https://open.spotify.com/album/6iixNCrjwoAe2MfDuONaLu) | 4:39 |
 | 54 | [1989](https://open.spotify.com/track/2qOkpf7HmkRMwAkDDzDwcV) | [Days of August](https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf) | [1989](https://open.spotify.com/album/3HJQEeP94g2GypjB0YFUAq) | 4:27 |
-| 55 | [Norwegian Black Metal](https://open.spotify.com/track/4i7iWfR241IqLTpoHPDtLE) | [Simen Mitlid](https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A), [Ea Othilde](https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99) | [Norwegian Black Metal](https://open.spotify.com/album/0hA4KCp77KhfgtQImMp9Rb) | 3:05 |
-| 56 | [Tell Me About It](https://open.spotify.com/track/4NVTUHYCmMGtnnULELfZjy) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [Tell Me About It](https://open.spotify.com/album/10yraezHmuWHzLrJK5qEls) | 3:20 |
+| 55 | [Tell Me About It](https://open.spotify.com/track/4NVTUHYCmMGtnnULELfZjy) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [Tell Me About It](https://open.spotify.com/album/10yraezHmuWHzLrJK5qEls) | 3:20 |
+| 56 | [Norwegian Black Metal](https://open.spotify.com/track/4i7iWfR241IqLTpoHPDtLE) | [Simen Mitlid](https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A), [Ea Othilde](https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99) | [Norwegian Black Metal](https://open.spotify.com/album/0hA4KCp77KhfgtQImMp9Rb) | 3:05 |
 | 57 | [By the time you hear this](https://open.spotify.com/track/0aGBL8l3yHYXkRt1rd7mB6) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [By the time you hear this](https://open.spotify.com/album/3QDLru0GgwjIQL3xox7mL9) | 3:14 |
 | 58 | [In The Silence](https://open.spotify.com/track/4Pyg2i2ZSUriQh5QuuBs0y) | [Everything We're Not](https://open.spotify.com/artist/55aF2K7WSCptXLM1vmObKz), [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [In The Silence](https://open.spotify.com/album/2EnpffXCERRVc6ZkJgddmL) | 2:47 |
 | 59 | [Still Here](https://open.spotify.com/track/0KawFoaUEu2ICSJ0CawwCJ) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Still Here](https://open.spotify.com/album/4eLSzWcNiF99ezdryVRdKN) | 3:38 |
-| 60 | [Late December](https://open.spotify.com/track/2heuTbfTRKY1q9B6DgFxt9) | [Mathias Gundhus](https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7) | [Late December](https://open.spotify.com/album/5x1qkqIS9YjSizU3LAWyG8) | 2:59 |
+| 60 | [Tranøy fyr](https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Tranøy fyr](https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy) | 3:56 |
 
-Snapshot ID: `MCwyNGVhMDcyMjZiZmE1M2Y2ZmYyNDIxNzJlMDQ2M2ZiOTJjOGM0ZTc1`
+Snapshot ID: `MCw2NmY3ZmIxYmNmMmFjZTNkMDMzOTRiMjZkMDU0MWVlMzAzMDYzZGMz`

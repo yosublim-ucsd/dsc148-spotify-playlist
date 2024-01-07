@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,980 likes - 50 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,051 likes - 50 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 49 | [Worthy](https://open.spotify.com/track/6Xe3RfCgLzYCtJDft54wFt) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [How To Start A Housefire \(Pt\. III\)](https://open.spotify.com/album/43KFGs97OB7Mgyx0Gbmie8) | 6:55 |
 | 50 | [My Matter](https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [My Matter](https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF) | 2:53 |
 
-Snapshot ID: `MCxjZWY4ZjI4MjMwZjgwOWVmOWNmOWEyYjY0OWIwYmFlNDdlYTVlNjBj`
+Snapshot ID: `MCw0ZGU4N2Y3ZDEwMzU0MTFhYTkxYTJmODM0ZmMxYjNhMmVkOTIyNWI2`

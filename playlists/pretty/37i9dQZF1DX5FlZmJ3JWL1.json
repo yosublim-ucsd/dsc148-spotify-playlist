@@ -1,12 +1,12 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 732742,
+  "num_followers": 733308,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGFmZmYzNjliYTZkZmUyOTllZjA0MDk1ZGQ5N2RhNzg1YjU5ZDE5",
+  "snapshot_id": "MCw2NGQyZTM2MDY0NDczZTdjNjEyNGMxMzFjNjcxOTYwYmZmY2JiOGI3",
   "tracks": [
     {
       "added_at": "2023-12-22 16:30:00",
@@ -627,26 +627,6 @@
     {
       "added_at": "2023-12-22 16:30:00",
       "album": {
-        "name": "Disconnected",
-        "url": "https://open.spotify.com/album/6SGpVej56gEYCk3Z0u8ZSP"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Tita Lau",
-          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
-        }
-      ],
-      "duration_ms": 194523,
-      "name": "Disconnected",
-      "url": "https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb"
-    },
-    {
-      "added_at": "2023-12-22 16:30:00",
-      "album": {
         "name": "Go",
         "url": "https://open.spotify.com/album/3QrNqDVKugpNxGszGV4kHt"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 142349,
       "name": "Go",
       "url": "https://open.spotify.com/track/4m3ljlctmzWajEZPgxXOBb"
+    },
+    {
+      "added_at": "2023-12-22 16:30:00",
+      "album": {
+        "name": "Disconnected",
+        "url": "https://open.spotify.com/album/6SGpVej56gEYCk3Z0u8ZSP"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        }
+      ],
+      "duration_ms": 194523,
+      "name": "Disconnected",
+      "url": "https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb"
     },
     {
       "added_at": "2023-12-22 16:30:00",

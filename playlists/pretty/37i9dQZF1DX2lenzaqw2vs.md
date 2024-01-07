@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: Adrian Bello
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,371 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,390 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 26 | [Piña](https://open.spotify.com/track/6Fdho6pm3GhNyA4TZajC2X) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [To Anywhere](https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V) | 2:24 |
 | 27 | [EASY BOY](https://open.spotify.com/track/4f6bRqMzm8HEJIbZI2RkbB) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [EASY BOY](https://open.spotify.com/album/0HhtQpQQZE43qLFJ9TJ2pd) | 2:56 |
 | 28 | [Reina de la Selva](https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Reina de la Selva](https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6) | 2:56 |
-| 29 | [PERREO FURIOSO](https://open.spotify.com/track/2NAjBeyMUrba97IXdLVMqp) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 2:32 |
-| 30 | [Imagina](https://open.spotify.com/track/4Fe2oAGo6fmPVwBNkbEdw1) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Clichés](https://open.spotify.com/album/1HX7p55GnAwv6kPb9m0Qs9) | 3:44 |
+| 29 | [Imagina](https://open.spotify.com/track/4Fe2oAGo6fmPVwBNkbEdw1) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Clichés](https://open.spotify.com/album/1HX7p55GnAwv6kPb9m0Qs9) | 3:44 |
+| 30 | [PERREO FURIOSO](https://open.spotify.com/track/2NAjBeyMUrba97IXdLVMqp) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 2:32 |
 | 31 | [I Like 2 Be](https://open.spotify.com/track/7ilN3oN8goL5nJF6aA48zc) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Monstruos](https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe) | 2:54 |
 | 32 | [Pa Tanto](https://open.spotify.com/track/3WewvS7iUUyev8cka7Mgl0) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Pa Tanto](https://open.spotify.com/album/20ULysRftwowCX4GCySy6f) | 2:49 |
 | 33 | [La Respuesta](https://open.spotify.com/track/0O1l4OjHaOk2VYvSUL9Q7r) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [La Respuesta](https://open.spotify.com/album/3h19BjRM9GGdkgoZ769sZF) | 2:48 |
@@ -90,10 +90,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 80 | [Besos](https://open.spotify.com/track/0WIOsnOOJlIDN095VDlSOk) | [Macha Kiddo](https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv) | [Lesbihonest](https://open.spotify.com/album/5C5rCLBjwHPNF112Xuea9t) | 3:27 |
 | 81 | [Bailemos en la Sala](https://open.spotify.com/track/570Ct7gYSSC3bXiNkSFryX) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 4:04 |
 | 82 | [Paradise](https://open.spotify.com/track/4W8k1VqecfTy4nOaHPc4cY) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Paradise](https://open.spotify.com/album/3SYPjBFJeTW2sb4kMPQk6O) | 3:16 |
-| 83 | [Charreando En La Disco](https://open.spotify.com/track/7Cyvb8cXv9uTY3r8479F3p) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu), [Cita](https://open.spotify.com/artist/0ePPxl04qm9B08uPnbBmpC) | [Charreando En La Disco](https://open.spotify.com/album/2PfLqGjgSyRRYFR0xxb47S) | 2:53 |
-| 84 | [Nobody Got It](https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [Nobody Got It](https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue) | 2:48 |
-| 85 | [Fashion Victims](https://open.spotify.com/track/3pdonyyWeL5F7sWNVo519h) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [The Early Years](https://open.spotify.com/album/4dWM9PaeRtWEJBxIrGfyYD) | 3:20 |
-| 86 | [BESO](https://open.spotify.com/track/3732J2lFfcBc6otsp87aKA) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [BESO](https://open.spotify.com/album/7GEfZW09vl961ZITVYQxYW) | 2:45 |
+| 83 | [BESO](https://open.spotify.com/track/3732J2lFfcBc6otsp87aKA) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [BESO](https://open.spotify.com/album/7GEfZW09vl961ZITVYQxYW) | 2:45 |
+| 84 | [Charreando En La Disco](https://open.spotify.com/track/7Cyvb8cXv9uTY3r8479F3p) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu), [Cita](https://open.spotify.com/artist/0ePPxl04qm9B08uPnbBmpC) | [Charreando En La Disco](https://open.spotify.com/album/2PfLqGjgSyRRYFR0xxb47S) | 2:53 |
+| 85 | [Nobody Got It](https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [Nobody Got It](https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue) | 2:48 |
+| 86 | [Fashion Victims](https://open.spotify.com/track/3pdonyyWeL5F7sWNVo519h) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [The Early Years](https://open.spotify.com/album/4dWM9PaeRtWEJBxIrGfyYD) | 3:20 |
 | 87 | [Cielo de Colores](https://open.spotify.com/track/5yG41x0CERmmOXF5g1lgvX) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Cielo de Colores](https://open.spotify.com/album/0o6Cae0g5Wo8UwPnhguAGB) | 3:04 |
 | 88 | [PXRNX](https://open.spotify.com/track/2d5TRfD5tIAs6R2gqN0g2X) | [Macha Kiddo](https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv) | [Mala Crianza](https://open.spotify.com/album/2szxWyRwu1MyzrRaJsDehS) | 2:24 |
 | 89 | [kiss my friends](https://open.spotify.com/track/6mQUS3biDHooR3h4r4QLRR) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [kiss my friends](https://open.spotify.com/album/1PZDOwMAKdWHSpo9oIiRYA) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 99 | [Pollo Frito](https://open.spotify.com/track/4cIDGn1x13O1Zva3TUu4TM) | [Diamante Merybrown](https://open.spotify.com/artist/4LRatXcWgcxuM1fLsn0eF9), [Choriza May](https://open.spotify.com/artist/5QUIkNOKPjTmTHpvPHfR0j) | [Pollo Frito](https://open.spotify.com/album/4wBHZdKOUiy9QBck34QdL2) | 2:45 |
 | 100 | [Mujer Contra Mujer](https://open.spotify.com/track/2AFriDnr8KrU9d39Hd9UHV) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [quediostesalve](https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI) | [Mujer Contra Mujer](https://open.spotify.com/album/4mvqSipxmat1wzNTJzSEZy) | 3:26 |
 
-Snapshot ID: `MCw2MmE0ZGQwMTUwYTI4MmRkMTViOTE2ZDg5NmJmZmY1OTJkZTczN2Zm`
+Snapshot ID: `MCwzN2MwNWJlYTJiMTZjYmIwOWJjZjY3MDRlYzA5OTU4Y2IzMzkzYzA1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 
 > as novas de pop rock br / Foto: TINN
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,340 likes - 85 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,352 likes - 85 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 25 | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8) | 2:48 |
 | 26 | [Sleepwalking](https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Sleepwalking](https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl) | 3:07 |
 | 27 | [Canoa](https://open.spotify.com/track/2LneA7MOWuowIRaga0eO3t) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm), [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Canoa](https://open.spotify.com/album/3yVv0gmK4EdJNQBWt6au3D) | 2:57 |
-| 28 | [Eu Nunca Fui Embora](https://open.spotify.com/track/14CmAgvaO309e1erSWnRsJ) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Eu Nunca Fui Embora](https://open.spotify.com/album/3waAqG5OQMuzBRZgGYG82h) | 3:05 |
-| 29 | [tired of california](https://open.spotify.com/track/02xRKYZ1jY4B6utPa59qSf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [tired of california](https://open.spotify.com/album/3PQnyFFBb15Po24KfIDO8Q) | 3:10 |
+| 28 | [tired of california](https://open.spotify.com/track/02xRKYZ1jY4B6utPa59qSf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [tired of california](https://open.spotify.com/album/3PQnyFFBb15Po24KfIDO8Q) | 3:10 |
+| 29 | [Eu Nunca Fui Embora](https://open.spotify.com/track/14CmAgvaO309e1erSWnRsJ) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Eu Nunca Fui Embora](https://open.spotify.com/album/3waAqG5OQMuzBRZgGYG82h) | 3:05 |
 | 30 | [Tell Me You Love Me \- Rock Version](https://open.spotify.com/track/327h326DnJvW5suWlUG8yp) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [REVAMPED](https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo) | 3:47 |
 | 31 | [MALVADONA](https://open.spotify.com/track/3V1XdOJVcvtupbYLzOaulm) | [O Grilo](https://open.spotify.com/artist/22KEpOwThQ5q1DGochfayO), [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [MALVADONA](https://open.spotify.com/album/7BgO5sEJpQIjrrAwxqUKUM) | 3:24 |
 | 32 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 |
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 38 | [MÁSCARA \- AO VIVO](https://open.spotify.com/track/5pXQo3mH6JWxa3HXN4VwLX) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [LADY LESTE \(AO VIVO\)](https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d) | 3:38 |
 | 39 | [o maior otário da cidade](https://open.spotify.com/track/7cxlbR75XRyHr9PbjqBfSc) | [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq) | [o maior otário da cidade](https://open.spotify.com/album/7rcO22U358g8jL6dGkIEuj) | 2:48 |
 | 40 | [Exagerado](https://open.spotify.com/track/4KiAjV7djHETTGUDogKz6l) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU), [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Exagerados](https://open.spotify.com/album/68sIZYDlwj9xRy06ENDGuF) | 2:43 |
-| 41 | [Obscuro](https://open.spotify.com/track/2Rh1qXTvyZ6u00yVS1kzhS) | [Scalene](https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z) | [Obscuro](https://open.spotify.com/album/5Aj7XX2oSqwb5ZrxrntSb6) | 3:38 |
+| 41 | [O Amor Machuca Demais](https://open.spotify.com/track/1b6M0tk69Qrcz8lxHpU82U) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [O Amor Machuca Demais](https://open.spotify.com/album/2FVmfh4CBS9MnwDaXvBCwB) | 3:08 |
 | 42 | [Fiz 18](https://open.spotify.com/track/5n1AS1Oea32B0HyXrEGArz) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Fiz 18](https://open.spotify.com/album/3B803upCKgO5My70u4J7sK) | 3:14 |
-| 43 | [O Amor Machuca Demais](https://open.spotify.com/track/1b6M0tk69Qrcz8lxHpU82U) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [O Amor Machuca Demais](https://open.spotify.com/album/2FVmfh4CBS9MnwDaXvBCwB) | 3:08 |
+| 43 | [Obscuro](https://open.spotify.com/track/2Rh1qXTvyZ6u00yVS1kzhS) | [Scalene](https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z) | [Obscuro](https://open.spotify.com/album/5Aj7XX2oSqwb5ZrxrntSb6) | 3:38 |
 | 44 | [hover like a GODDESS](https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [hover like a GODDESS](https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf) | 2:23 |
 | 45 | [sempre estrago tudo](https://open.spotify.com/track/1We5W9pJwrKFmFfI0c0v2y) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [SEMPRE ESTRAGO TUDO + CARENTE PRA SEMPRE](https://open.spotify.com/album/3ZMnjFJjAodqKyzFzn55kK) | 3:08 |
 | 46 | [não me importo mais](https://open.spotify.com/track/2bYdCw0rlPBI404BQXTXUn) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [não me importo mais](https://open.spotify.com/album/741ZgcZ2POqxmqoHYAUxYG) | 2:36 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 84 | [A Cura](https://open.spotify.com/track/4xawu6VJn17igipPIGayeU) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [A Cura](https://open.spotify.com/album/2kpzLThPuJZYuZSLTX6w6c) | 3:27 |
 | 85 | [MINHA RELIGIÃO](https://open.spotify.com/track/4sYeYCVsVIphRn8F1C27s4) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [MINHA RELIGIÃO](https://open.spotify.com/album/2pIHcNnoZyzf0eLWIlT3u9) | 2:33 |
 
-Snapshot ID: `MCxmZWQzYThjNThjNDMyN2NmN2E3MDIxNjE4NzMzZTA4NGFiMGZkZDc2`
+Snapshot ID: `MCxmZjVjZmViODg5M2ZkNGI5NjkyYzI4NDU4YmQzZmM2NWRiMjk0ZDA4`

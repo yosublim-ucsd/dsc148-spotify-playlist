@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pa' toda la raza carnavalera!",
-  "num_followers": 29788,
+  "num_followers": 29870,
   "original_name": "Banda Carnavalera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjM1MTI4MzMwYTI2MWFhMTFiYmI2YjM5NDQ0NzhhZmY0ODVhNmY0",
+  "snapshot_id": "MCw4M2JkYTZhYjU1OTdhMjJmNThjYmRiOTMxNWUyMWQzYmJhYzk2NGY1",
   "tracks": [
     {
       "added_at": "2022-08-02 22:31:47",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Te Advierto",
-        "url": "https://open.spotify.com/album/4T5rNGbPphSO5cBNjDEkNc"
-      },
-      "artists": [
-        {
-          "name": "Banda RG. Rancho Grande",
-          "url": "https://open.spotify.com/artist/136OmZPTRgtELzB83WdW8g"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "El Condor Pasa",
-      "url": "https://open.spotify.com/track/5wmZVCE7vxFr6Gzl6H4fOg"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Puras Carnavaleras, Vol. 2",
         "url": "https://open.spotify.com/album/332rbeyvixuVxaVsNoS02G"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 226306,
       "name": "Chinelo Carnavalero",
       "url": "https://open.spotify.com/track/03RZNxQS4tgclnqCpRf3uv"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Te Advierto",
+        "url": "https://open.spotify.com/album/4T5rNGbPphSO5cBNjDEkNc"
+      },
+      "artists": [
+        {
+          "name": "Banda RG. Rancho Grande",
+          "url": "https://open.spotify.com/artist/136OmZPTRgtELzB83WdW8g"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "El Condor Pasa",
+      "url": "https://open.spotify.com/track/5wmZVCE7vxFr6Gzl6H4fOg"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Mudanzas A La Luna",
-        "url": "https://open.spotify.com/album/6xJfh54aAD89uBv0b8EYIb"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 181440,
-      "name": "Las G\u00fcilotas",
-      "url": "https://open.spotify.com/track/2bCsFEdKi0EXK8GWSkNClD"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Una Vez M\u00e1s",
         "url": "https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe"
       },
@@ -455,18 +439,18 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Contra Viento y Marea",
-        "url": "https://open.spotify.com/album/3UeYQORMpoP5hGyn0udUBo"
+        "name": "Mudanzas A La Luna",
+        "url": "https://open.spotify.com/album/6xJfh54aAD89uBv0b8EYIb"
       },
       "artists": [
         {
-          "name": "Banda Bucanera",
-          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
         }
       ],
-      "duration_ms": 261573,
-      "name": "Chineleando",
-      "url": "https://open.spotify.com/track/1VlgSW0BissXc660YW5Yi4"
+      "duration_ms": 181440,
+      "name": "Las G\u00fcilotas",
+      "url": "https://open.spotify.com/track/2bCsFEdKi0EXK8GWSkNClD"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -523,6 +507,22 @@
       "duration_ms": 145103,
       "name": "Arriba Pichataro (En Vivo)",
       "url": "https://open.spotify.com/track/7zB01FOcB5PzeuPKv8XPIb"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Contra Viento y Marea",
+        "url": "https://open.spotify.com/album/3UeYQORMpoP5hGyn0udUBo"
+      },
+      "artists": [
+        {
+          "name": "Banda Bucanera",
+          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
+        }
+      ],
+      "duration_ms": 261573,
+      "name": "Chineleando",
+      "url": "https://open.spotify.com/track/1VlgSW0BissXc660YW5Yi4"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Estabas T\u00fa",
-        "url": "https://open.spotify.com/album/7Hs7cWNemcy8goTydz5pW0"
-      },
-      "artists": [
-        {
-          "name": "Banda La Pi\u00f1era",
-          "url": "https://open.spotify.com/artist/4sT9x4j4hhwjHwfiOvL9je"
-        }
-      ],
-      "duration_ms": 153066,
-      "name": "El Cable",
-      "url": "https://open.spotify.com/track/5DTyBCIE6H6exUdve72eZh"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Arriba Mi Rancho",
         "url": "https://open.spotify.com/album/6N3CeUo9y7YMRBvAfscZmZ"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 225410,
       "name": "El Tecolotito",
       "url": "https://open.spotify.com/track/7KIVHjoV0mOBr73wmb4Nhx"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Estabas T\u00fa",
+        "url": "https://open.spotify.com/album/7Hs7cWNemcy8goTydz5pW0"
+      },
+      "artists": [
+        {
+          "name": "Banda La Pi\u00f1era",
+          "url": "https://open.spotify.com/artist/4sT9x4j4hhwjHwfiOvL9je"
+        }
+      ],
+      "duration_ms": 153066,
+      "name": "El Cable",
+      "url": "https://open.spotify.com/track/5DTyBCIE6H6exUdve72eZh"
     },
     {
       "added_at": "2022-08-02 22:31:47",

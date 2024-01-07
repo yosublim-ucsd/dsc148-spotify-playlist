@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0tszMuKj2r.md) - [plain]
 
 > ¡Cañonazos salseros para persignar la pista de baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,715 likes - 125 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,763 likes - 125 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0tszMuKj2r.md) - [plain]
 | 63 | [Ya No Te Puedo Amar](https://open.spotify.com/track/0SpeO0AlcVWQVcAZV3RUjZ) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [Sin Apariencias](https://open.spotify.com/album/5ZHCO172wRxkcOAx9RbHmO) | 5:05 |
 | 64 | [Maria Teresa y Danilo](https://open.spotify.com/track/5D1P4P7IxymGprWdbaq8N4) | [Hansel Y Raul](https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g) | [Siempre Charanga](https://open.spotify.com/album/5LRCh0vhclTfXIwnPaU7Az) | 4:47 |
 | 65 | [Que Bueno Baila Usted](https://open.spotify.com/track/1R8upiSmv7U1rRv0qqvIbS) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Llego La Salsa](https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI) | 3:36 |
-| 66 | [Si Supiera](https://open.spotify.com/track/6edMEekESIWsXZrs8GRoOb) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 4:12 |
-| 67 | [Sombra Loca](https://open.spotify.com/track/7hqI73OXybfZ6FV9O4WrNs) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Auténtico](https://open.spotify.com/album/7cOFsHGVbn6SwAQwHC49ov) | 4:49 |
+| 66 | [Sombra Loca](https://open.spotify.com/track/7hqI73OXybfZ6FV9O4WrNs) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Auténtico](https://open.spotify.com/album/7cOFsHGVbn6SwAQwHC49ov) | 4:49 |
+| 67 | [Si Supiera](https://open.spotify.com/track/6edMEekESIWsXZrs8GRoOb) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 4:12 |
 | 68 | [Mi Cuerpo No Esta Hecho de Metal](https://open.spotify.com/track/6wtEHJnbvFFfjoxachlbR6) | [Los Titanes de la Salsa](https://open.spotify.com/artist/3hoC2n2vPN7VcWloMOocBi) | [Mi Cuerpo No Esta Hecho de Metal](https://open.spotify.com/album/7BWj5xz4UjKFk2VL1MQVq0) | 4:39 |
 | 69 | [Caretas](https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Por el Buen Camino](https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3) | 5:11 |
 | 70 | [El Preso](https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:54 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0tszMuKj2r.md) - [plain]
 | 72 | [Vete Ya](https://open.spotify.com/track/0eYLUCx6MYnuc1DcmKT2kB) | [Danny Daniel](https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB), [Prix 06](https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX) | [Hechizando](https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq) | 4:53 |
 | 73 | [Por Las Buenas](https://open.spotify.com/track/3k2qOgZygd9YxrYGqkK6Dj) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Por Las Buenas](https://open.spotify.com/album/4uwZYTIdlBBRDb3M2nYrk1) | 2:35 |
 | 74 | [Por Qué Será?](https://open.spotify.com/track/0vGGu88Cicm2MpV1MfMh8Z) | [Alvaro Ricardo](https://open.spotify.com/artist/0fbbEqifegSE79DPPgeg8f) | [Mi Razón de Ser](https://open.spotify.com/album/0CdhFwicPfGBbNQx7qdCx7) | 4:21 |
-| 75 | [Día Tras Día](https://open.spotify.com/track/7q0BkDZKmszpgBUgIecmE9) | [Cheo Andujar](https://open.spotify.com/artist/6OuCYhqpODU9Df9qBszYXe) | [Poder Íntimo](https://open.spotify.com/album/3EmOFHCxHyiuCnXBUWVM9c) | 4:22 |
-| 76 | [De Punta a Punta](https://open.spotify.com/track/21SlXIY6FZw7RcMqLRm901) | [Grupo Caneo](https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z) | [Grandes Éxitos Grupo Caneo, Vol\. 1](https://open.spotify.com/album/3j4M5k6i3DA7fxfHXasvSp) | 4:21 |
+| 75 | [De Punta a Punta](https://open.spotify.com/track/21SlXIY6FZw7RcMqLRm901) | [Grupo Caneo](https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z) | [Grandes Éxitos Grupo Caneo, Vol\. 1](https://open.spotify.com/album/3j4M5k6i3DA7fxfHXasvSp) | 4:21 |
+| 76 | [Día Tras Día](https://open.spotify.com/track/7q0BkDZKmszpgBUgIecmE9) | [Cheo Andujar](https://open.spotify.com/artist/6OuCYhqpODU9Df9qBszYXe) | [Poder Íntimo](https://open.spotify.com/album/3EmOFHCxHyiuCnXBUWVM9c) | 4:22 |
 | 77 | [Pa Que Me Llamas \- Salsa](https://open.spotify.com/track/5lC7UYPXpj6uMkwh6qKPFl) | [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [Dispuesto a Todo](https://open.spotify.com/album/0YEU0pTqI6vcWHJ6EgBbaY) | 4:45 |
 | 78 | [Perdóname](https://open.spotify.com/track/4Qr4M2eMQCLmpMdnLjDKYB) | [Danny Daniel](https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB), [Prix 06](https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX) | [Hechizando](https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq) | 3:19 |
 | 79 | [El Nazareno](https://open.spotify.com/track/1DJ0vIXJ2hCZi1aZ9vv32v) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Maelo...El Único](https://open.spotify.com/album/1v14JDuh5QOUu1KVqfPwx7) | 5:39 |
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0tszMuKj2r.md) - [plain]
 | 100 | [Amor De Papel](https://open.spotify.com/track/2ccabU9T3oFwcM0NnBXxpf) | [Tito Gomez](https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2) | [Recogiendo Frutos](https://open.spotify.com/album/5GzoEi3bJsLWwLvEpK4fxm) | 4:56 |
 | 101 | [Conciencia](https://open.spotify.com/track/6Fxn2ZdlXbKesbhxHbHa9p) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Perspectiva](https://open.spotify.com/album/0pJibLMJonjwGRZDhDHawD) | 5:32 |
 | 102 | [Baila Contigo](https://open.spotify.com/track/0Iwydrdz8p2aGRmSIqaK3M) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [La Llave del Son](https://open.spotify.com/album/06uEnV3HMObiKgnRcA0f17) | 4:57 |
-| 103 | [Desnúdate Mujer](https://open.spotify.com/track/0NmiKXgu8oRjfL5B85RDrL) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Frankie Ruiz La Leyenda](https://open.spotify.com/album/1R8Tr9GPJZS6XGEvnOn8sJ) | 4:47 |
-| 104 | [Por Retenerte](https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:51 |
+| 103 | [Por Retenerte](https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:51 |
+| 104 | [Desnúdate Mujer](https://open.spotify.com/track/0NmiKXgu8oRjfL5B85RDrL) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Frankie Ruiz La Leyenda](https://open.spotify.com/album/1R8Tr9GPJZS6XGEvnOn8sJ) | 4:47 |
 | 105 | [Mi Ritmo Es Bueno](https://open.spotify.com/track/5hSGXZRFbpKLbxyBXRKoye) | [Bobby Valentin](https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss) | [Rey del Bajo](https://open.spotify.com/album/5I1FDwQtq5bG1QXcRJBsb6) | 5:46 |
 | 106 | [Todo Empezo](https://open.spotify.com/track/2vNtDhxxooQXb8YxPjUMCO) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad](https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7) | 4:55 |
 | 107 | [Tu Amigo o Tu Amante](https://open.spotify.com/track/2GgBL5RYZafPzqfHJjn4p6) | [La Sabrosura](https://open.spotify.com/artist/2W3ROz699xenrLLblfUq5i) | [The Best Of](https://open.spotify.com/album/6lkHxEey00QbomsLj9h0Q3) | 4:45 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0tszMuKj2r.md) - [plain]
 | 124 | [Cuenta Conmigo](https://open.spotify.com/track/7o47d8KqRqxbL7NloJvjwd) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Amores Como El Nuestro...Los Exitos](https://open.spotify.com/album/3AOCGCilv8dBhnxWqraZA9) | 3:50 |
 | 125 | [Mi Amante Niña, Mi Compañera](https://open.spotify.com/track/1N3ONvkxXejayq8djiahWd) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S), [Óscar Quesada](https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9) | [Sobredosis de Amor y Salsa](https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb) | 4:22 |
 
-Snapshot ID: `MCwwNWUzYTMyNjdmZTQwMWJkMDkwM2FhN2ExMzQyOTkwZTVkNjBiZjY1`
+Snapshot ID: `MCwxY2Y1MjdiYTU1MGJlYmNiYzBlODAzNjA4NWVkZTYyZWU4MTEwMTNi`

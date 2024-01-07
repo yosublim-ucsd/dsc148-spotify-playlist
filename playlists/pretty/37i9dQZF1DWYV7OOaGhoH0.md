@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from Hollow Coves
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,867,723 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,867,836 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 16 | [Nothing You Can Take From Me \(Boot\-Stompin' Version\) \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/4ck5SWSXlSUVHhYjq9Cb8L) | [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3), [The Covey Band](https://open.spotify.com/artist/4qH48Bc0oZ12M7TdGB7QVi) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:13 |
 | 17 | [Bluebird Singing](https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 4:00 |
 | 18 | [Blame The Moon](https://open.spotify.com/track/3p1kSUxsCux5Zf1CeKxpqh) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Blame The Moon](https://open.spotify.com/album/372YURpTeI9L6fkMNH6Nx2) | 3:43 |
-| 19 | [Little Life](https://open.spotify.com/track/3MBWR1rqc72QGiFIaOpKv6) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Caramel](https://open.spotify.com/album/0GgcxG8Xq5qN3rcYvjqzF0) | 4:30 |
+| 19 | [Little Life](https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Caramel](https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o) | 4:30 |
 | 20 | [Believer](https://open.spotify.com/track/0rwrb7euyHuIUMhrsQ7A1b) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 4:23 |
 | 21 | [Black Car](https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 2:51 |
 | 22 | [Wool \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/4hoqP9dIAu2Nk6u5LvxOR4) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 99 | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/track/6mfq2McYfeiVIBa1tPA2gU) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Crooked Tree](https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc) | 3:41 |
 | 100 | [This Is Going To Be The Year](https://open.spotify.com/track/4ijH0M7n6oM4ZARKcInAyv) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [This Is Going To Be The Year](https://open.spotify.com/album/5lcSCem101LKn2rIxoODBU) | 4:12 |
 
-Snapshot ID: `MCw3MjM1NDA1NjI4Mzg5ZWYzODI5ODc5ZGMxNzAyYzFkNDFlMzVkNjU1`
+Snapshot ID: `MCw4NGY5Yjk3MmQ4NWZmOGVlMmY5NWY0M2U3ODBkMjZkMmY2NjBmZDNi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 
 > O melhor do rock acústico nacional e internacional para curtir e relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,443 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,527 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 11 | [A Mais Pedida \- Ao Vivo \| Acústico](https://open.spotify.com/track/6kCGzPmsyJkzs0UnbXjply) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Acústico \- Ao Vivo](https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia) | 3:42 |
 | 12 | [Pescador de ilusões \- Ao vivo](https://open.spotify.com/track/5ytWdfs7iGpu42VQyAQyvY) | [O Rappa](https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f) | [O Rappa \- Acústico Oficina Francisco Brennand \(Deluxe\) \[Ao Vivo\]](https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR) | 6:09 |
 | 13 | [Black \- Live MTV Unplugged](https://open.spotify.com/track/3xIaUb1WsnrqbJo6CsJMLO) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [MTV Unplugged](https://open.spotify.com/album/1ghzhhlGuTLCD790oXWJwX) | 5:30 |
-| 14 | [Wonderwall \- Live from Spotify Sessions, Metropolis Studios, London](https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Spotify Singles](https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC) | 3:18 |
-| 15 | [Agora Só Falta Você \- Ao Vivo](https://open.spotify.com/track/7J0N1re4mmmCl40GrW1vnY) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Acustico \(Live\)](https://open.spotify.com/album/2bMTuolrlzBvZIXBzfxw1s) | 3:32 |
+| 14 | [Agora Só Falta Você \- Ao Vivo](https://open.spotify.com/track/7J0N1re4mmmCl40GrW1vnY) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Acustico \(Live\)](https://open.spotify.com/album/2bMTuolrlzBvZIXBzfxw1s) | 3:32 |
+| 15 | [Wonderwall \- Live from Spotify Sessions, Metropolis Studios, London](https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Spotify Singles](https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC) | 3:18 |
 | 16 | [Stand by Me \- Recorded at RAK Studios, London](https://open.spotify.com/track/4GhFz9YVbihQJlq5pFFPgD) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Spotify Singles](https://open.spotify.com/album/0VPhyqqDEary03vLt02DtZ) | 3:03 |
 | 17 | [Ironic \- Live / Unplugged](https://open.spotify.com/track/5WltiUcx5HdM6PPkOkZptu) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Live / Unplugged](https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv) | 3:53 |
 | 18 | [O Girassol \- Versão Acústica](https://open.spotify.com/track/6OwunUyuA5gtuJOdrE43vH) | [Ira!](https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7) | [Acústico Ira!](https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw) | 4:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 74 | [Shadow Of The Day \- Acoustic](https://open.spotify.com/track/0OjWAUdnGBzRFSELi5JW9m) | [Jota John](https://open.spotify.com/artist/0GlO3eVL8owXjOAIvUWoMm) | [Shadow Of The Day \(Acoustic\)](https://open.spotify.com/album/2aYZc0kNNdUmCZh0IKz9dA) | 3:18 |
 | 75 | [Proibida Pra Mim \(Grazon\) \- Ao Vivo](https://open.spotify.com/track/3la3tXndnn0xnlm8y1Z3Kv) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Rock Brasileiro](https://open.spotify.com/album/1RK1b09Jzt9c78iAU3o4lY) | 2:31 |
 
-Snapshot ID: `MCxlYTc3MTE2M2NmZjUxNzJmNjhhYzlkM2MzYWZkODEwYjc5ZmYyYWMy`
+Snapshot ID: `MCxkNzBjMDk3MDQyMTg2N2FkN2JlMThlMDE2N2ExNTNhODU2MzdjYWQ3`

@@ -1,12 +1,12 @@
 {
   "description": "Uptempo jazz classics. Cover: McCoy Tyner",
-  "num_followers": 24805,
+  "num_followers": 24896,
   "original_name": "Upbeat Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjcwZDc2NjFlMGNhZGU5ZjI4NTVhOGI2YTlkMzdlY2NiY2E2ODJh",
+  "snapshot_id": "MCw1MjE2ZjUyNDYxOTU1ZmRkMDcxYWNlYzdlYWFkYzUxNTEzNmI1MjEy",
   "tracks": [
     {
       "added_at": "2023-12-20 10:53:55",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-12-20 10:53:55",
       "album": {
-        "name": "Our Man In Paris (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
+        "name": "Art Blakey & The Jazz Messengers",
+        "url": "https://open.spotify.com/album/7n3N9COR04FrWRyl8eftZU"
       },
       "artists": [
         {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
         }
       ],
-      "duration_ms": 442173,
-      "name": "Scrapple From The Apple - Rudy Van Gelder Edition / 2003 Remaster",
-      "url": "https://open.spotify.com/track/5f4V1rtxYYbGnTbITkkIV7"
+      "duration_ms": 410866,
+      "name": "Alamode",
+      "url": "https://open.spotify.com/track/3Wglt4wIgeXIBp8nDTh7mQ"
     },
     {
       "added_at": "2023-12-20 10:53:55",
@@ -431,18 +431,18 @@
     {
       "added_at": "2023-12-20 10:53:55",
       "album": {
-        "name": "Art Blakey & The Jazz Messengers",
-        "url": "https://open.spotify.com/album/7n3N9COR04FrWRyl8eftZU"
+        "name": "Our Man In Paris (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
       },
       "artists": [
         {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
         }
       ],
-      "duration_ms": 410866,
-      "name": "Alamode",
-      "url": "https://open.spotify.com/track/3Wglt4wIgeXIBp8nDTh7mQ"
+      "duration_ms": 442173,
+      "name": "Scrapple From The Apple - Rudy Van Gelder Edition / 2003 Remaster",
+      "url": "https://open.spotify.com/track/5f4V1rtxYYbGnTbITkkIV7"
     },
     {
       "added_at": "2023-12-20 10:53:55",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-12-20 10:53:55",
       "album": {
-        "name": "Everybody Digs Bill Evans",
-        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 323773,
-      "name": "Minority",
-      "url": "https://open.spotify.com/track/3MXVqeLUIHXVU5xC96Ef5Y"
-    },
-    {
-      "added_at": "2023-12-20 10:53:55",
-      "album": {
         "name": "Ultimate Stan Getz",
         "url": "https://open.spotify.com/album/1TTbszowRjHjuvKsv2JVjm"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 507133,
       "name": "Wee (Allen's Alley)",
       "url": "https://open.spotify.com/track/66D8kuQSFshLhI6aVaef2D"
+    },
+    {
+      "added_at": "2023-12-20 10:53:55",
+      "album": {
+        "name": "Everybody Digs Bill Evans",
+        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 323773,
+      "name": "Minority",
+      "url": "https://open.spotify.com/track/3MXVqeLUIHXVU5xC96Ef5Y"
     },
     {
       "added_at": "2023-12-20 10:53:55",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-12-20 10:53:55",
       "album": {
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 359933,
+      "name": "The Bridge - Remastered",
+      "url": "https://open.spotify.com/track/3lW1WztiEqcqN7UFZxfUiQ"
+    },
+    {
+      "added_at": "2023-12-20 10:53:55",
+      "album": {
         "name": "Lee Konitz with Warne Marsh",
         "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 377039,
       "name": "Donna Lee",
       "url": "https://open.spotify.com/track/2N7LJO1uufnSeXIwxooTzg"
-    },
-    {
-      "added_at": "2023-12-20 10:53:55",
-      "album": {
-        "name": "The Bridge",
-        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 359933,
-      "name": "The Bridge - Remastered",
-      "url": "https://open.spotify.com/track/3lW1WztiEqcqN7UFZxfUiQ"
     },
     {
       "added_at": "2023-12-20 10:53:55",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-12-20 10:53:55",
       "album": {
-        "name": "Song For My Father",
-        "url": "https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        }
-      ],
-      "duration_ms": 370626,
-      "name": "The Natives Are Restless Tonight - Rudy Van Gelder Edition/1999 Digital Remaster",
-      "url": "https://open.spotify.com/track/76gFB8HutMskfRvOR2jcd9"
-    },
-    {
-      "added_at": "2023-12-20 10:53:55",
-      "album": {
         "name": "Nippon Soul",
         "url": "https://open.spotify.com/album/1REPOxK1OcOZtJHPAJgabn"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 226933,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/2HOw5nhsI0MQEBfFHGBqcx"
+    },
+    {
+      "added_at": "2023-12-20 10:53:55",
+      "album": {
+        "name": "Song For My Father",
+        "url": "https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "duration_ms": 370626,
+      "name": "The Natives Are Restless Tonight - Rudy Van Gelder Edition/1999 Digital Remaster",
+      "url": "https://open.spotify.com/track/76gFB8HutMskfRvOR2jcd9"
     },
     {
       "added_at": "2023-12-20 10:53:55",
@@ -883,30 +883,6 @@
     {
       "added_at": "2023-12-20 10:53:55",
       "album": {
-        "name": "Ken Burns Jazz: The Definitive Dizzy Gillespie",
-        "url": "https://open.spotify.com/album/5d5lbciRoWO4WdlSbJQVer"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        },
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        },
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        }
-      ],
-      "duration_ms": 853266,
-      "name": "The Eternal Triangle",
-      "url": "https://open.spotify.com/track/68cLT7rcwLt6dW3qBxJUlD"
-    },
-    {
-      "added_at": "2023-12-20 10:53:55",
-      "album": {
         "name": "Open Sesame (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
       },
@@ -939,6 +915,30 @@
       "duration_ms": 439013,
       "name": "Freight Trane",
       "url": "https://open.spotify.com/track/67lao4uXu1p8rdpn9ActTg"
+    },
+    {
+      "added_at": "2023-12-20 10:53:55",
+      "album": {
+        "name": "Ken Burns Jazz: The Definitive Dizzy Gillespie",
+        "url": "https://open.spotify.com/album/5d5lbciRoWO4WdlSbJQVer"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        },
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        },
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 853266,
+      "name": "The Eternal Triangle",
+      "url": "https://open.spotify.com/track/68cLT7rcwLt6dW3qBxJUlD"
     },
     {
       "added_at": "2023-12-20 10:53:55",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-12-20 10:53:55",
       "album": {
-        "name": "No Room For Squares (Remastered 2000 / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 469813,
-      "name": "Three Way Split - Remastered 2000 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/105krPHiFcjggw4XSN0M0b"
-    },
-    {
-      "added_at": "2023-12-20 10:53:55",
-      "album": {
         "name": "A Modern Symposium of Music and Poetry (Remastered 2013)",
         "url": "https://open.spotify.com/album/122JFn10LK4Mpzp8yqIdhO"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 208030,
       "name": "Slippers",
       "url": "https://open.spotify.com/track/2l9HtErDh1gZfnyjeBk9NT"
+    },
+    {
+      "added_at": "2023-12-20 10:53:55",
+      "album": {
+        "name": "No Room For Squares (Remastered 2000 / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 469813,
+      "name": "Three Way Split - Remastered 2000 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/105krPHiFcjggw4XSN0M0b"
     },
     {
       "added_at": "2023-12-20 10:53:55",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2023-12-20 10:53:55",
       "album": {
-        "name": "Drums Around The Corner",
-        "url": "https://open.spotify.com/album/5kpNDQ4B9GQd3GS4Z5o2GK"
+        "name": "Here To Stay",
+        "url": "https://open.spotify.com/album/7mtewQM5RycRtEtGYAlLH5"
       },
       "artists": [
         {
-          "name": "Art Blakey",
-          "url": "https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t"
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
         }
       ],
-      "duration_ms": 917400,
-      "name": "Moose The Mooche",
-      "url": "https://open.spotify.com/track/5gZR2gQcVsQYPZpbOBwtmk"
+      "duration_ms": 328186,
+      "name": "Philly Mignon - Rudy Van Gelder 24-Bit Remastering/2006",
+      "url": "https://open.spotify.com/track/7hebpNg0ujU0zFZhNvgCJz"
     }
   ],
   "unique_name": "Upbeat Jazz",

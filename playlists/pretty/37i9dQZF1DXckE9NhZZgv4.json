@@ -1,12 +1,12 @@
 {
   "description": "Let's make this a day and night to remember. ",
-  "num_followers": 37781,
+  "num_followers": 37795,
   "original_name": "Bachelorette Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjJjYzU3NDIyN2QwYWJlNGIyNjJiZGViMDI3NTcwNzYyMTU3NTE5",
+  "snapshot_id": "MCxmNWVmMGY3ZDViNWIwNzFkYjY4ZmE3NjgzYjgzM2M3MzIwZDdmYmZi",
   "tracks": [
     {
       "added_at": "2022-12-28 20:23:43",
@@ -219,6 +219,26 @@
     {
       "added_at": "2022-12-28 20:23:43",
       "album": {
+        "name": "Uptown Special",
+        "url": "https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 269666,
+      "name": "Uptown Funk (feat. Bruno Mars)",
+      "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
+    },
+    {
+      "added_at": "2022-12-28 20:23:43",
+      "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
@@ -239,26 +259,6 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
-    },
-    {
-      "added_at": "2022-12-28 20:23:43",
-      "album": {
-        "name": "Uptown Special",
-        "url": "https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1"
-      },
-      "artists": [
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 269666,
-      "name": "Uptown Funk (feat. Bruno Mars)",
-      "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
     },
     {
       "added_at": "2022-12-28 20:23:43",
@@ -619,26 +619,6 @@
     {
       "added_at": "2022-12-28 20:23:43",
       "album": {
-        "name": "Wild Ones",
-        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 232946,
-      "name": "Wild Ones (feat. Sia)",
-      "url": "https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3"
-    },
-    {
-      "added_at": "2022-12-28 20:23:43",
-      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 184732,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
+    },
+    {
+      "added_at": "2022-12-28 20:23:43",
+      "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 232946,
+      "name": "Wild Ones (feat. Sia)",
+      "url": "https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3"
     },
     {
       "added_at": "2022-12-28 20:23:43",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2022-12-28 20:23:43",
       "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
       },
       "artists": [
         {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 193466,
-      "name": "In Da Club",
-      "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
+      "duration_ms": 230733,
+      "name": "Last Friday Night (T.G.I.F.)",
+      "url": "https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ"
     },
     {
       "added_at": "2022-12-28 20:23:43",
@@ -1123,38 +1123,18 @@
     {
       "added_at": "2022-12-28 20:23:43",
       "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
       },
       "artists": [
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
         }
       ],
-      "duration_ms": 230733,
-      "name": "Last Friday Night (T.G.I.F.)",
-      "url": "https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ"
-    },
-    {
-      "added_at": "2022-12-28 20:23:43",
-      "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 228267,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
+      "duration_ms": 193466,
+      "name": "In Da Club",
+      "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
     },
     {
       "added_at": "2022-12-28 20:23:43",
@@ -1187,6 +1167,26 @@
       "duration_ms": 216600,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/45hOioMDJktr86iKDHC8gr"
+    },
+    {
+      "added_at": "2022-12-28 20:23:43",
+      "album": {
+        "name": "Higher Love",
+        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 228267,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
     },
     {
       "added_at": "2022-12-28 20:23:43",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-12-28 20:23:43",
       "album": {
-        "name": "R&B: From Doo-Wop To Hip-Hop",
-        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
-      },
-      "artists": [
-        {
-          "name": "Ginuwine",
-          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
-        }
-      ],
-      "duration_ms": 251733,
-      "name": "Pony",
-      "url": "https://open.spotify.com/track/6mz1fBdKATx6qP4oP1I65G"
-    },
-    {
-      "added_at": "2022-12-28 20:23:43",
-      "album": {
         "name": "One Of The Boys",
         "url": "https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 220226,
       "name": "Hot N Cold",
       "url": "https://open.spotify.com/track/1y4eb6hmAvsqlDOl3fx9kk"
+    },
+    {
+      "added_at": "2022-12-28 20:23:43",
+      "album": {
+        "name": "R&B: From Doo-Wop To Hip-Hop",
+        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
+      },
+      "artists": [
+        {
+          "name": "Ginuwine",
+          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
+        }
+      ],
+      "duration_ms": 251733,
+      "name": "Pony",
+      "url": "https://open.spotify.com/track/6mz1fBdKATx6qP4oP1I65G"
     },
     {
       "added_at": "2022-12-28 20:23:43",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2022-12-28 20:23:43",
       "album": {
+        "name": "One Of The Boys",
+        "url": "https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 179640,
+      "name": "I Kissed A Girl",
+      "url": "https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9"
+    },
+    {
+      "added_at": "2022-12-28 20:23:43",
+      "album": {
         "name": "Home State",
         "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
       },
@@ -1675,6 +1691,22 @@
     {
       "added_at": "2022-12-28 20:23:43",
       "album": {
+        "name": "Britney Jean (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 247960,
+      "name": "Work Bitch",
+      "url": "https://open.spotify.com/track/3KliPMvk1EvFZu9cvkj8p1"
+    },
+    {
+      "added_at": "2022-12-28 20:23:43",
+      "album": {
         "name": "The Dutchess",
         "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
       },
@@ -1695,22 +1727,6 @@
     {
       "added_at": "2022-12-28 20:23:43",
       "album": {
-        "name": "Britney Jean (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 247960,
-      "name": "Work Bitch",
-      "url": "https://open.spotify.com/track/3KliPMvk1EvFZu9cvkj8p1"
-    },
-    {
-      "added_at": "2022-12-28 20:23:43",
-      "album": {
         "name": "I Need You",
         "url": "https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 215506,
       "name": "Can't Fight The Moonlight",
       "url": "https://open.spotify.com/track/2AogRMqARWyUP7VQ3gmSoY"
-    },
-    {
-      "added_at": "2022-12-28 20:23:43",
-      "album": {
-        "name": "One Of The Boys",
-        "url": "https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 179640,
-      "name": "I Kissed A Girl",
-      "url": "https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9"
     },
     {
       "added_at": "2022-12-28 20:23:43",

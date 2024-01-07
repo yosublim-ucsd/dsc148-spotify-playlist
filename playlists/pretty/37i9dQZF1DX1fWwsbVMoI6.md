@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Grupo 5, Joey Montana
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,787 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,825 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 47 | [Dolor y Lagrimas](https://open.spotify.com/track/5iu23EuTrwZtZdJt7DWUlS) | [El Lobo Y La Sociedad Privada](https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh) | [Desierto](https://open.spotify.com/album/17kNwp6zAftLn7MzlqT8hz) | 4:48 |
 | 48 | [El Casorio](https://open.spotify.com/track/0Tpvw6qsSGxHuKqYlbAyC6) | [Orquesta Caña Brava](https://open.spotify.com/artist/3DLny21nx7cmXJ1NHSvwyM) | [VOL.1](https://open.spotify.com/album/6dIEZrlyaHc0KGhBVi7IBg) | 5:29 |
 | 49 | [Tres Cruces](https://open.spotify.com/track/5T2cJPNmezb8TYG4j5Wjnp) | [Los Ecos](https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS) | [Los Amos del Ritmo Caliente, Vol\. 2](https://open.spotify.com/album/1ZXiEqSLL7KZGDe7Men9md) | 3:51 |
-| 50 | [Me extrañarás](https://open.spotify.com/track/71Dj6EXOnAVJEPDoxHuSOf) | [Orquesta Caribeños de Guadalupe](https://open.spotify.com/artist/3TMIaKD9aqaLVRTK5DYg0C), [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs) | [Me extrañarás](https://open.spotify.com/album/3mLRImJ2z7aqjyyfkXCS0O) | 4:22 |
+| 50 | [Si Saben Como Me Pongo Pa Que Me Invitan](https://open.spotify.com/track/1FaXpzvwFxDhvvuIAW3nAA) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [El Tirulá](https://open.spotify.com/album/14sGuXKkPTy3BXhXKrFEXG) | 3:11 |
 
-Snapshot ID: `MCxlYzk5NWMzOWFhNjNkYjgxMGZkY2E2Y2U0NWE3NzU2MjA0ZWUzNjcy`
+Snapshot ID: `MCwzNjZjMDViYzkyZjljNjg4ODhiNmNlNTgyNjgxNGNmYjFkYTkzZjBi`

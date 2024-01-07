@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,189 songs - 6 day 3 hr 29 min
+2,190 songs - 6 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -786,9 +786,10 @@
 | [Fiebre](https://open.spotify.com/track/3MIz5VvaRf538xgbv0dVye) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [La Lupe Soy Yo](https://open.spotify.com/album/2CTzGYAakxkG1IpVpPZGtH) | 2:49 | 2022-07-27 |  |
 | [Fiebre \- Remastered](https://open.spotify.com/track/32kCISu7BlWRelpP5XhEFE) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [Con el Diablo en el Cuerpo \(Remastered\)](https://open.spotify.com/album/2KQp9OMs0HtCwYEyPe6Mwt) | 2:50 | 2022-06-09 | 2022-07-29 |
 | [Fiesta de Negritos](https://open.spotify.com/track/282cI4CSXLTHWo0pSja4Rk) | [Lucho Bermudez Y Su Orquesta](https://open.spotify.com/artist/61LaEbyQgx9ULU3VnH6YCo) | [Copperdollar, the Back of Beyond \(Compiled By DJ Marc Stylus\)](https://open.spotify.com/album/14lvwMp8YrMfZy7cxDw1od) | 2:34 | 2022-10-31 | 2022-11-13 |
-| [Fiesta de negritos](https://open.spotify.com/track/1fetWEwJbyD2V8t3ftrwsH) | [Lucho Bermudez Y Su Orquesta](https://open.spotify.com/artist/61LaEbyQgx9ULU3VnH6YCo) | [Lucho Bermúdez y Su Orquesta](https://open.spotify.com/album/2HBENhhnrO1W1CU75gDyoR) | 2:35 | 2023-03-17 |  |
+| [Fiesta de negritos](https://open.spotify.com/track/1fetWEwJbyD2V8t3ftrwsH) | [Lucho Bermudez Y Su Orquesta](https://open.spotify.com/artist/61LaEbyQgx9ULU3VnH6YCo) | [Lucho Bermúdez y Su Orquesta](https://open.spotify.com/album/2HBENhhnrO1W1CU75gDyoR) | 2:35 | 2023-03-17 | 2024-01-07 |
 | [Fiesta de negritos](https://open.spotify.com/track/2xSsbBBkewHIfvouZxdkUC) | [Lucho Bermudez Y Su Orquesta](https://open.spotify.com/artist/61LaEbyQgx9ULU3VnH6YCo) | [Lucho Bermúdez y Su Orquesta](https://open.spotify.com/album/1eoTHYfsK31NckfXjAjfGr) | 2:35 | 2022-07-27 | 2023-04-30 |
 | [Fiesta de negritos](https://open.spotify.com/track/69YSUk8oJhgmyDbhNpuQvE) | [Lucho Bermudez Y Su Orquesta](https://open.spotify.com/artist/61LaEbyQgx9ULU3VnH6YCo) | [Lucho Bermúdez y Su Orquesta \(Soundway Records\)](https://open.spotify.com/album/0fG8KaGrAiu98IbGQVzkNI) | 2:35 | 2022-07-12 | 2022-07-29 |
+| [Fiesta de negritos \- Remastered](https://open.spotify.com/track/2K0lDBjj2ENflX7zPRMLHc) | [Lucho Bermúdez](https://open.spotify.com/artist/5x1E6GVoNd2Haj7Jtvg3E0) | [Fiesta de negritos \(Remastered\)](https://open.spotify.com/album/14GgEmxWEPZxByGfVMFcyk) | 2:31 | 2023-11-29 |  |
 | [Fiesta y Velorio](https://open.spotify.com/track/3B1P4wkEP8E2fgQdeWzwQY) | [Dúo Los Ahijados](https://open.spotify.com/artist/1SiMsafy8gThgYaUHZapS6) | [La Resaca](https://open.spotify.com/album/2269PRcml5i6WbeOb34wkQ) | 3:01 | 2022-06-09 |  |
 | [Figa De Guiné](https://open.spotify.com/track/1oekqvXHit1f8Rirv9uSH7) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Sol de Verão 2021](https://open.spotify.com/album/19nZbz3qRHOvixEPSMR3WH) | 2:19 | 2023-05-17 |  |
 | [Filhos De Zambi](https://open.spotify.com/track/1YeaM0uY1W2cbmT8SPZQrU) | [Trio Ternura](https://open.spotify.com/artist/6J4hJ6O6WJmBTlIL3wJBcT) | [Filhos de Zambi / Meu Caso Com Você](https://open.spotify.com/album/2SJB6TGiolSOOOuRZBEIYN) | 3:02 | 2022-06-09 |  |

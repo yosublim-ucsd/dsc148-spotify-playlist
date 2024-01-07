@@ -1,12 +1,12 @@
 {
   "description": "Some of the most influential and innovative voices in hip-hop\u2014yesterday, today, tomorrow. Cover: Doja Cat",
-  "num_followers": 53062,
+  "num_followers": 53173,
   "original_name": "Women of Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGNiMGMzYTdhYmNmYzkxZmFmZTAzZWU2NWQxMDBkODY2ZDcwOTRj",
+  "snapshot_id": "MCxmNGM0ZTk4NzU3ZGRjYTE0NWQwMGI0NDE0YzM4M2VhNDkxZDRmNmE4",
   "tracks": [
     {
       "added_at": "2022-03-08 20:45:52",
@@ -503,18 +503,22 @@
     {
       "added_at": "2022-03-08 20:45:52",
       "album": {
-        "name": "Erica Banks",
-        "url": "https://open.spotify.com/album/5d0diKuXWPHNxon86lnjOJ"
+        "name": "After The Rain",
+        "url": "https://open.spotify.com/album/0ne4ND8fxiwMDH8OK0sAn6"
       },
       "artists": [
         {
-          "name": "Erica Banks",
-          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Buss It",
-      "url": "https://open.spotify.com/track/25j0Sape7qZbq6ZPLFefTT"
+      "duration_ms": 182464,
+      "name": "I Am (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/4E7ZbuJH3NddjnMWLstkRq"
     },
     {
       "added_at": "2022-03-08 20:45:52",
@@ -583,22 +587,18 @@
     {
       "added_at": "2022-03-08 20:45:52",
       "album": {
-        "name": "After The Rain",
-        "url": "https://open.spotify.com/album/0ne4ND8fxiwMDH8OK0sAn6"
+        "name": "Erica Banks",
+        "url": "https://open.spotify.com/album/5d0diKuXWPHNxon86lnjOJ"
       },
       "artists": [
         {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+          "name": "Erica Banks",
+          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
         }
       ],
-      "duration_ms": 182464,
-      "name": "I Am (feat. Flo Milli)",
-      "url": "https://open.spotify.com/track/4E7ZbuJH3NddjnMWLstkRq"
+      "duration_ms": 187000,
+      "name": "Buss It",
+      "url": "https://open.spotify.com/track/25j0Sape7qZbq6ZPLFefTT"
     },
     {
       "added_at": "2022-03-08 20:45:52",

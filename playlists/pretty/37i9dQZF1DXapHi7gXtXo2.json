@@ -1,12 +1,12 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 82839,
+  "num_followers": 82886,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2U1OWJkMTQ1MDViNjMyN2U2MDM2MWM5OGU3MDRiMDlkZjFiM2Q1",
+  "snapshot_id": "MCwxNThhYWQ3ODYxYjNhOGE3NjIzOGZjNWMwZDMxMDc5OTE2OGNhOWVh",
   "tracks": [
     {
       "added_at": "2023-12-22 23:48:28",
@@ -167,6 +167,22 @@
     {
       "added_at": "2023-12-22 23:48:28",
       "album": {
+        "name": "NAFTA II",
+        "url": "https://open.spotify.com/album/4B2sJdUM5lyuiGv7KYi8It"
+      },
+      "artists": [
+        {
+          "name": "NAFTA",
+          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
+        }
+      ],
+      "duration_ms": 178454,
+      "name": "Andate",
+      "url": "https://open.spotify.com/track/4c58twuNTtI4VBzH28I3EV"
+    },
+    {
+      "added_at": "2023-12-22 23:48:28",
+      "album": {
         "name": "Pelo Suelto",
         "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 204817,
       "name": "Pelo Suelto",
       "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
-    },
-    {
-      "added_at": "2023-12-22 23:48:28",
-      "album": {
-        "name": "NAFTA II",
-        "url": "https://open.spotify.com/album/4B2sJdUM5lyuiGv7KYi8It"
-      },
-      "artists": [
-        {
-          "name": "NAFTA",
-          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
-        }
-      ],
-      "duration_ms": 178454,
-      "name": "Andate",
-      "url": "https://open.spotify.com/track/4c58twuNTtI4VBzH28I3EV"
     },
     {
       "added_at": "2023-12-22 23:48:28",
@@ -991,26 +991,6 @@
     {
       "added_at": "2023-12-22 23:48:28",
       "album": {
-        "name": "EME",
-        "url": "https://open.spotify.com/album/2iLF9iKotpW9QVlX2hJo2T"
-      },
-      "artists": [
-        {
-          "name": "MIEL",
-          "url": "https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd"
-        },
-        {
-          "name": "Bardo Jos\u00e9",
-          "url": "https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT"
-        }
-      ],
-      "duration_ms": 191213,
-      "name": "EME",
-      "url": "https://open.spotify.com/track/5kksd5p7OOz8vF7NbDw7GE"
-    },
-    {
-      "added_at": "2023-12-22 23:48:28",
-      "album": {
         "name": "Te Pienso Todo el Tiempo",
         "url": "https://open.spotify.com/album/1z3DJNUHiZ47dMH0rNjEwz"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 213993,
       "name": "Te Pienso Todo el Tiempo",
       "url": "https://open.spotify.com/track/14CtkTc8EgxHM1fjfkiGXx"
+    },
+    {
+      "added_at": "2023-12-22 23:48:28",
+      "album": {
+        "name": "EME",
+        "url": "https://open.spotify.com/album/2iLF9iKotpW9QVlX2hJo2T"
+      },
+      "artists": [
+        {
+          "name": "MIEL",
+          "url": "https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd"
+        },
+        {
+          "name": "Bardo Jos\u00e9",
+          "url": "https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT"
+        }
+      ],
+      "duration_ms": 191213,
+      "name": "EME",
+      "url": "https://open.spotify.com/track/5kksd5p7OOz8vF7NbDw7GE"
     },
     {
       "added_at": "2023-12-22 23:48:28",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-12-22 23:48:28",
       "album": {
-        "name": "El Mundo Siempre Estuvo Dividido en Dos",
-        "url": "https://open.spotify.com/album/4DwDKGqyR2hp8roLeNrhYh"
-      },
-      "artists": [
-        {
-          "name": "Alan Sutton y las criaturitas de la ansiedad",
-          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
-        }
-      ],
-      "duration_ms": 125156,
-      "name": "El Mundo Siempre Estuvo Dividido en Dos",
-      "url": "https://open.spotify.com/track/2mdZOkJvBqGaPmuqLLMp88"
-    },
-    {
-      "added_at": "2023-12-22 23:48:28",
-      "album": {
         "name": "Paradisco",
         "url": "https://open.spotify.com/album/1qkLcWIHTqlAFFS9TsVt7h"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 233042,
       "name": "Paradisco",
       "url": "https://open.spotify.com/track/5I1D6tt50g9X57gpaKt8sH"
+    },
+    {
+      "added_at": "2023-12-22 23:48:28",
+      "album": {
+        "name": "El Mundo Siempre Estuvo Dividido en Dos",
+        "url": "https://open.spotify.com/album/4DwDKGqyR2hp8roLeNrhYh"
+      },
+      "artists": [
+        {
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+        }
+      ],
+      "duration_ms": 125156,
+      "name": "El Mundo Siempre Estuvo Dividido en Dos",
+      "url": "https://open.spotify.com/track/2mdZOkJvBqGaPmuqLLMp88"
     },
     {
       "added_at": "2023-12-22 23:48:28",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-12-22 23:48:28",
       "album": {
-        "name": "El Tiempo",
-        "url": "https://open.spotify.com/album/4x58tGZD6fe6qKQiQPacK7"
-      },
-      "artists": [
-        {
-          "name": "Perras on the beach",
-          "url": "https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "El Tiempo",
-      "url": "https://open.spotify.com/track/6vUWrdWq0oCNuSVuvkWSO0"
-    },
-    {
-      "added_at": "2023-12-22 23:48:28",
-      "album": {
         "name": "Historia de un Amor",
         "url": "https://open.spotify.com/album/7GNyEER5rbwEVpAWeep70c"
       },
@@ -1727,6 +1711,22 @@
     {
       "added_at": "2023-12-22 23:48:28",
       "album": {
+        "name": "El Tiempo",
+        "url": "https://open.spotify.com/album/4x58tGZD6fe6qKQiQPacK7"
+      },
+      "artists": [
+        {
+          "name": "Perras on the beach",
+          "url": "https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "El Tiempo",
+      "url": "https://open.spotify.com/track/6vUWrdWq0oCNuSVuvkWSO0"
+    },
+    {
+      "added_at": "2023-12-22 23:48:28",
+      "album": {
         "name": "Helado de Mango",
         "url": "https://open.spotify.com/album/0aWD6AMbVemB4o2jJhiBub"
       },
@@ -1743,18 +1743,22 @@
     {
       "added_at": "2023-12-22 23:48:28",
       "album": {
-        "name": "Ay, Amor",
-        "url": "https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk"
+        "name": "SUR",
+        "url": "https://open.spotify.com/album/1oTRpQm1ed2RqFq402ZaeO"
       },
       "artists": [
         {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+        },
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
         }
       ],
-      "duration_ms": 213041,
-      "name": "Ay, Amor \u2665\ufe0e",
-      "url": "https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS"
+      "duration_ms": 208908,
+      "name": "SUR",
+      "url": "https://open.spotify.com/track/2nw7A30Hk2QuCGjcyiWbxj"
     }
   ],
   "unique_name": "Radio Indie",

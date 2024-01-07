@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Lola Indigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 993,151 likes - 58 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 993,179 likes - 58 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 34 | [El Wey](https://open.spotify.com/track/4bFDvUCl0ZMQ6yHAUaSsF5) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [El Wey](https://open.spotify.com/album/52neKij6fmer1UfXcau0Dr) | 3:17 |
 | 35 | [Me Enamoro](https://open.spotify.com/track/7JTqqfnDlXxkhtQnf4bsKp) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [bellodrama](https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb) | 2:44 |
 | 36 | [Puerta del Sol](https://open.spotify.com/track/13Cpy3Cl5f1K0VlNw0xPaT) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Puerta del Sol](https://open.spotify.com/album/0Feep6LUA5614f0kBIgLtU) | 3:13 |
-| 37 | [ALICANTINA](https://open.spotify.com/track/13BMKkLZZj9wD7rCnrKHMn) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [ALICANTINA](https://open.spotify.com/album/2J18PEqkyz32M2ZzM6CS8p) | 2:38 |
+| 37 | [b.o.b.o.](https://open.spotify.com/track/0aHqflgjBiuNWvFJw2MhoQ) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [b.o.b.o.](https://open.spotify.com/album/2FdIPbrSPyPEL9jKup9KQC) | 2:22 |
 | 38 | [amor de verano](https://open.spotify.com/track/3ACVz5PwPN9P1PC6869Jn6) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [amor de verano](https://open.spotify.com/album/0fQ4D10TqLArXAxdPRq1RG) | 2:56 |
-| 39 | [b.o.b.o.](https://open.spotify.com/track/0aHqflgjBiuNWvFJw2MhoQ) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [b.o.b.o.](https://open.spotify.com/album/2FdIPbrSPyPEL9jKup9KQC) | 2:22 |
+| 39 | [ALICANTINA](https://open.spotify.com/track/13BMKkLZZj9wD7rCnrKHMn) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [ALICANTINA](https://open.spotify.com/album/2J18PEqkyz32M2ZzM6CS8p) | 2:38 |
 | 40 | [Derecho a No Declarar](https://open.spotify.com/track/6eKPg2gdhHlWUUFLucFgey) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [Derecho a No Declarar](https://open.spotify.com/album/6NapsEjZhrlNNN1txZrR2B) | 2:26 |
 | 41 | [cuando salto me duele](https://open.spotify.com/track/5Z7mpQCwr8Ydr5WNQgO8Dd) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [cuando salto me duele](https://open.spotify.com/album/2MTsy6zxZYxcmm1VYkYySR) | 3:09 |
 | 42 | [PORTARSE MAL](https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [PORTARSE MAL](https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe) | 3:12 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 47 | [COMO TE QUIERO YO](https://open.spotify.com/track/5ElBS8iZQYjScNJCtwLXKO) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [TE TRAJE FLORES](https://open.spotify.com/album/4TFyBwPFFulgy4cPKfeuxA) | 2:57 |
 | 48 | [RESPIRAR](https://open.spotify.com/track/4WSrc5DozzVTtZcGafsVvf) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Uri](https://open.spotify.com/artist/1Sdn8kqQIdeQBjwMiwyNNN), [Rodridi](https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv) | [RESPIRAR](https://open.spotify.com/album/2mdpPhNB6O4BDobUFxI7ai) | 2:25 |
 | 49 | [Como Ayer](https://open.spotify.com/track/3MWReEPNS9G3tFp8wN9aNY) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Como Ayer](https://open.spotify.com/album/2H7jkIiLaVmNeKYqMHyJYe) | 2:37 |
-| 50 | [GOOD DAY \(feat\. Camidoh\)](https://open.spotify.com/track/17EHmaus2XNoMdCIw4bZmf) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [GOOD DAY \(feat\. Camidoh\)](https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk) | 2:44 |
-| 51 | [Astronauta](https://open.spotify.com/track/1J59EJh3hbGZDJD7KfONLz) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [Astronauta](https://open.spotify.com/album/5gHA0EkrBT7yANOSd9AFL6) | 2:49 |
+| 50 | [Astronauta](https://open.spotify.com/track/1J59EJh3hbGZDJD7KfONLz) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [Astronauta](https://open.spotify.com/album/5gHA0EkrBT7yANOSd9AFL6) | 2:49 |
+| 51 | [GOOD DAY \(feat\. Camidoh\)](https://open.spotify.com/track/17EHmaus2XNoMdCIw4bZmf) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [GOOD DAY \(feat\. Camidoh\)](https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk) | 2:44 |
 | 52 | [Copita Champagne](https://open.spotify.com/track/3xvnCTCFA6Ntd5gKLfKnmW) | [Mireya Rivas](https://open.spotify.com/artist/2eYwxBc6FsGFC45eWrEgps), [Chema Rivas](https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ) | [Copita Champagne](https://open.spotify.com/album/6u333hTQgleC2pzoNvBKcU) | 2:43 |
 | 53 | [Te echo de \-](https://open.spotify.com/track/6bo5SaAuPbRA70oTA3MIRj) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM) | [Te echo de \-](https://open.spotify.com/album/2ZidbiN9jxUipofcnQohLN) | 2:56 |
 | 54 | [En el mismo bar](https://open.spotify.com/track/06LzzgytKKWpG9T7fRRyR9) | [De Rancho](https://open.spotify.com/artist/5CvFmofsJbfkYoGOFryI2k), [H Roto](https://open.spotify.com/artist/5Q7VQ40wSh0GOm1CaNOIHL), [GARZI](https://open.spotify.com/artist/0sAHZQtvqLdcBvIrEAYo4m) | [En el mismo bar](https://open.spotify.com/album/5mK99XckqcPxkOJDt25MPF) | 2:42 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 57 | [La Balada](https://open.spotify.com/track/2fEkjxvVZi37s7E80sOwfT) | [Chema Rivas](https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ) | [La Balada](https://open.spotify.com/album/3TDvcjRcNio7vXFUTVNgPZ) | 3:45 |
 | 58 | [El niño que fui ayer](https://open.spotify.com/track/37W4H6x5rcuVs8W4xQZkIJ) | [Andrés Koi](https://open.spotify.com/artist/52nf6FtXCWlUMJP1GVhiN2) | [El niño que fui ayer](https://open.spotify.com/album/0Y5eKeadU98iZagJLLkHma) | 2:46 |
 
-Snapshot ID: `MCxkNmZkMWM4MzBlOWIzNmIzNTM5MzUxN2RlYjljYWFhZmI1ZGY5NGQ0`
+Snapshot ID: `MCxjZjBlZTI0ODg4NzgzYmJhZjUxMmJjMWY4ZTVkMGU1NmU5MjcwY2Vk`

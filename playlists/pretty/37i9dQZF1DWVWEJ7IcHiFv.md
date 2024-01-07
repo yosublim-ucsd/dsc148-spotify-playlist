@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWEJ7IcHiFv.md) - [plain]
 
 > This is the Latin soundtrack of the 80s! Cover: Gloria Estefan
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,137 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,177 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWEJ7IcHiFv.md) - [plain]
 | 28 | [Bazar](https://open.spotify.com/track/7CLxH03q65I3aktL79k4vE) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Flans](https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A) | 3:29 |
 | 29 | [El Baile del Perrito](https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [The Reventon: 30 Pegaditas](https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD) | 4:23 |
 | 30 | [Cada Vez Que Digo Adiós](https://open.spotify.com/track/2WKWskcwqz0KKFRDkQleda) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Contrareloj](https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd) | 3:52 |
-| 31 | [Querida](https://open.spotify.com/track/3UHfhZ4MZfwfSJDw9DhspX) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 5:23 |
-| 32 | [Cuéntame](https://open.spotify.com/track/1T1nYfU115UL2LhwTMyWr6) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Cuéntame](https://open.spotify.com/album/7eGbFOJExPRkAsDQCeThFc) | 3:35 |
+| 31 | [Cuéntame](https://open.spotify.com/track/1T1nYfU115UL2LhwTMyWr6) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Cuéntame](https://open.spotify.com/album/7eGbFOJExPRkAsDQCeThFc) | 3:35 |
+| 32 | [Querida](https://open.spotify.com/track/3UHfhZ4MZfwfSJDw9DhspX) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 5:23 |
 | 33 | [No Controles](https://open.spotify.com/track/19guCNWcPMOzwRN44FmpDb) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Flans](https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A) | 3:28 |
 | 34 | [Fiesta En América](https://open.spotify.com/track/5x6K9Bz1StBFAWTNMRAwmn) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/5aabwyD2EqwA17390Og3Ff) | 3:44 |
 | 35 | [Cuando Pase el Temblor](https://open.spotify.com/track/2ExpCKBxiHbgzepERl1t4D) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWEJ7IcHiFv.md) - [plain]
 | 49 | [Come Into My Arms](https://open.spotify.com/track/6BD7CmcTMOGQTR2fN4Z8YX) | [Judy Torres](https://open.spotify.com/artist/4xuVMH8UgmZ557rJfWQ08n) | [Judy Torres \- The Greatest Hits](https://open.spotify.com/album/7aOCg1PtLFTnyPjMBRHyc4) | 4:24 |
 | 50 | [Dr\. Beat](https://open.spotify.com/track/21kwcsNL7YnianpVjXumHc) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Eyes Of Innocence](https://open.spotify.com/album/46Hw8UXhTzNrI1Yroh7oEf) | 4:22 |
 
-Snapshot ID: `MCwzYThmMWRlZjkwODc4OTkzNjlhMjA3NzNjNDQ0ZDcwNDhiNmU1OGJh`
+Snapshot ID: `MCwwOTVmYWUzYTFiNTMxZmJiMzQ1ZDJmOWNhMDBiMTU5NWY1MDU1OGE5`

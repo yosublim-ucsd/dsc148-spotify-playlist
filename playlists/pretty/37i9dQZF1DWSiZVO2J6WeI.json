@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic bliss.",
-  "num_followers": 777467,
+  "num_followers": 777466,
   "original_name": "Dreamy Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWEyZjc2ZGZjODYzZTI3YjlmMjg4MTVhNmFjODc3YjM2NWIwYzcz",
+  "snapshot_id": "MCwyMmI2NGVjOTA5NGNiODAzNTJiOTE5OTUwNTg0MjBjNjRlMzE4NTM5",
   "tracks": [
     {
       "added_at": "2023-12-01 18:09:04",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-12-01 18:09:04",
       "album": {
-        "name": "Cloudbed",
-        "url": "https://open.spotify.com/album/08x5iDmr1p2Zz1BsdS6riL"
-      },
-      "artists": [
-        {
-          "name": "Ceri Rocha",
-          "url": "https://open.spotify.com/artist/5clH6r1ZxRb7fYJ3StNDxP"
-        }
-      ],
-      "duration_ms": 163437,
-      "name": "Cloudbed",
-      "url": "https://open.spotify.com/track/70mSPwqD1Eomu03nAMA7v6"
-    },
-    {
-      "added_at": "2023-12-01 18:09:04",
-      "album": {
         "name": "Sobre las Nubes",
         "url": "https://open.spotify.com/album/56tWtRQgQUYB8gJmomGrZS"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 177600,
       "name": "Sobre las Nubes",
       "url": "https://open.spotify.com/track/6FJXxbDwCd0ufovPFEt5Gl"
+    },
+    {
+      "added_at": "2023-12-01 18:09:04",
+      "album": {
+        "name": "Cloudbed",
+        "url": "https://open.spotify.com/album/08x5iDmr1p2Zz1BsdS6riL"
+      },
+      "artists": [
+        {
+          "name": "Ceri Rocha",
+          "url": "https://open.spotify.com/artist/5clH6r1ZxRb7fYJ3StNDxP"
+        }
+      ],
+      "duration_ms": 163437,
+      "name": "Cloudbed",
+      "url": "https://open.spotify.com/track/70mSPwqD1Eomu03nAMA7v6"
     },
     {
       "added_at": "2023-12-01 18:09:04",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-12-01 18:09:04",
       "album": {
-        "name": "Pace tua",
-        "url": "https://open.spotify.com/album/3fsbprvyxIqOJeWX1QWiEA"
-      },
-      "artists": [
-        {
-          "name": "Celeste Soma",
-          "url": "https://open.spotify.com/artist/1b7j7QRse9XXdbZxK3wILz"
-        }
-      ],
-      "duration_ms": 144305,
-      "name": "Pace Tua",
-      "url": "https://open.spotify.com/track/63EDlt8qJBsmPrKq1nWNs1"
-    },
-    {
-      "added_at": "2023-12-01 18:09:04",
-      "album": {
         "name": "Djupet",
         "url": "https://open.spotify.com/album/7heZwQ3Yua1lr3XCYJzhbK"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 223010,
       "name": "Djupet",
       "url": "https://open.spotify.com/track/4G7eckq0cn40VWV05gTJia"
+    },
+    {
+      "added_at": "2023-12-01 18:09:04",
+      "album": {
+        "name": "Pace tua",
+        "url": "https://open.spotify.com/album/3fsbprvyxIqOJeWX1QWiEA"
+      },
+      "artists": [
+        {
+          "name": "Celeste Soma",
+          "url": "https://open.spotify.com/artist/1b7j7QRse9XXdbZxK3wILz"
+        }
+      ],
+      "duration_ms": 144305,
+      "name": "Pace Tua",
+      "url": "https://open.spotify.com/track/63EDlt8qJBsmPrKq1nWNs1"
     },
     {
       "added_at": "2023-12-01 18:09:04",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-12-01 18:09:04",
       "album": {
-        "name": "When We Touch",
-        "url": "https://open.spotify.com/album/0v889wJa7Wbyp9Q5NoLxQv"
-      },
-      "artists": [
-        {
-          "name": "Rain Wonder",
-          "url": "https://open.spotify.com/artist/4HLiKb2yZbSKwi3Uflpp36"
-        }
-      ],
-      "duration_ms": 125000,
-      "name": "When We Touch",
-      "url": "https://open.spotify.com/track/2JXnSuTOTh3uekrf4Kcq63"
-    },
-    {
-      "added_at": "2023-12-01 18:09:04",
-      "album": {
         "name": "Away",
         "url": "https://open.spotify.com/album/0GX2UY2tn4q5ms2g6NlGRy"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 166000,
       "name": "Away",
       "url": "https://open.spotify.com/track/1EVgWgzpE2PWs6BT3qxpKm"
+    },
+    {
+      "added_at": "2023-12-01 18:09:04",
+      "album": {
+        "name": "When We Touch",
+        "url": "https://open.spotify.com/album/0v889wJa7Wbyp9Q5NoLxQv"
+      },
+      "artists": [
+        {
+          "name": "Rain Wonder",
+          "url": "https://open.spotify.com/artist/4HLiKb2yZbSKwi3Uflpp36"
+        }
+      ],
+      "duration_ms": 125000,
+      "name": "When We Touch",
+      "url": "https://open.spotify.com/track/2JXnSuTOTh3uekrf4Kcq63"
     },
     {
       "added_at": "2023-12-01 18:09:04",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-12-01 18:09:04",
       "album": {
-        "name": "528 Hz Clarity Vibrations",
-        "url": "https://open.spotify.com/album/35K9cAhglhHKSiJfWNdgQC"
-      },
-      "artists": [
-        {
-          "name": "Pan Galactic Vibration",
-          "url": "https://open.spotify.com/artist/5LD5A8M950t4R7S2coaZER"
-        }
-      ],
-      "duration_ms": 132624,
-      "name": "528 Hz Clarity Vibrations",
-      "url": "https://open.spotify.com/track/60igFMbBK2OBW6QulmTDsS"
-    },
-    {
-      "added_at": "2023-12-01 18:09:04",
-      "album": {
         "name": "N\u00e4ra",
         "url": "https://open.spotify.com/album/7DHth5BUleoXVm7lBBwUWH"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 140829,
       "name": "N\u00e4ra",
       "url": "https://open.spotify.com/track/0cUjV0txDAMZ2g49rHdX80"
+    },
+    {
+      "added_at": "2023-12-01 18:09:04",
+      "album": {
+        "name": "528 Hz Clarity Vibrations",
+        "url": "https://open.spotify.com/album/35K9cAhglhHKSiJfWNdgQC"
+      },
+      "artists": [
+        {
+          "name": "Pan Galactic Vibration",
+          "url": "https://open.spotify.com/artist/5LD5A8M950t4R7S2coaZER"
+        }
+      ],
+      "duration_ms": 132624,
+      "name": "528 Hz Clarity Vibrations",
+      "url": "https://open.spotify.com/track/60igFMbBK2OBW6QulmTDsS"
     },
     {
       "added_at": "2023-12-01 18:09:04",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-12-01 18:09:04",
       "album": {
-        "name": "Nattljus",
-        "url": "https://open.spotify.com/album/7FBCdcXA2coK0EcsDSBN9B"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5nvarv",
-          "url": "https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI"
-        }
-      ],
-      "duration_ms": 199250,
-      "name": "Nattljus",
-      "url": "https://open.spotify.com/track/5pGG0eGQcA71HLo4jKQY90"
-    },
-    {
-      "added_at": "2023-12-01 18:09:04",
-      "album": {
         "name": "Zenith",
         "url": "https://open.spotify.com/album/63Jrpo23ArGvLOU0CnJykQ"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 181770,
       "name": "Zenith",
       "url": "https://open.spotify.com/track/5ewt0YJYj6aDSurpOEdc9i"
+    },
+    {
+      "added_at": "2023-12-01 18:09:04",
+      "album": {
+        "name": "Nattljus",
+        "url": "https://open.spotify.com/album/7FBCdcXA2coK0EcsDSBN9B"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5nvarv",
+          "url": "https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI"
+        }
+      ],
+      "duration_ms": 199250,
+      "name": "Nattljus",
+      "url": "https://open.spotify.com/track/5pGG0eGQcA71HLo4jKQY90"
     },
     {
       "added_at": "2023-12-01 18:09:04",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-12-01 18:09:04",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/4Sgl6em7yRdXxbnn3AVhOP"
-      },
-      "artists": [
-        {
-          "name": "The Destination",
-          "url": "https://open.spotify.com/artist/5LqmDSsJGx12mu0u8vmj1w"
-        }
-      ],
-      "duration_ms": 185769,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/0CwVkwUUCZPYZdj7SafQYL"
-    },
-    {
-      "added_at": "2023-12-01 18:09:04",
-      "album": {
         "name": "Binaural Emotions",
         "url": "https://open.spotify.com/album/38g1MiG5DyDOnjDxxzwm0c"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 206000,
       "name": "Binaural Emotions",
       "url": "https://open.spotify.com/track/03BMugsFnLx9uV5BKZA1WP"
+    },
+    {
+      "added_at": "2023-12-01 18:09:04",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/4Sgl6em7yRdXxbnn3AVhOP"
+      },
+      "artists": [
+        {
+          "name": "The Destination",
+          "url": "https://open.spotify.com/artist/5LqmDSsJGx12mu0u8vmj1w"
+        }
+      ],
+      "duration_ms": 185769,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/0CwVkwUUCZPYZdj7SafQYL"
     },
     {
       "added_at": "2023-12-01 18:09:04",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-12-01 18:09:04",
       "album": {
-        "name": "432 Hz Healing Frequencies",
-        "url": "https://open.spotify.com/album/7GqZl8TWFLlCtNgw2YowKy"
-      },
-      "artists": [
-        {
-          "name": "Solfeggio Wellness Frequencies",
-          "url": "https://open.spotify.com/artist/11ywmwLdtEdGBHTmFEs13x"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "432 Hz Peace",
-      "url": "https://open.spotify.com/track/75vwsXhRAWWAfNUMuHE1t3"
-    },
-    {
-      "added_at": "2023-12-01 18:09:04",
-      "album": {
         "name": "Ancient Analogue",
         "url": "https://open.spotify.com/album/7M37zkkLECmNsbpSh0gWHR"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 231428,
       "name": "Floating Forest",
       "url": "https://open.spotify.com/track/6VnjI1HG4vrnkqf8BdCwN1"
+    },
+    {
+      "added_at": "2023-12-01 18:09:04",
+      "album": {
+        "name": "432 Hz Healing Frequencies",
+        "url": "https://open.spotify.com/album/7GqZl8TWFLlCtNgw2YowKy"
+      },
+      "artists": [
+        {
+          "name": "Solfeggio Wellness Frequencies",
+          "url": "https://open.spotify.com/artist/11ywmwLdtEdGBHTmFEs13x"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "432 Hz Peace",
+      "url": "https://open.spotify.com/track/75vwsXhRAWWAfNUMuHE1t3"
     },
     {
       "added_at": "2023-12-01 18:09:04",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-12-01 18:09:04",
       "album": {
-        "name": "What If",
-        "url": "https://open.spotify.com/album/7iM2s8IjqntNzimnJ0bFgq"
-      },
-      "artists": [
-        {
-          "name": "Leon Browder",
-          "url": "https://open.spotify.com/artist/4BkBZBE6plYlbXWuxSLeWH"
-        }
-      ],
-      "duration_ms": 240527,
-      "name": "What If",
-      "url": "https://open.spotify.com/track/3Y1uYjKIPFZ4PBNOYkTFqR"
-    },
-    {
-      "added_at": "2023-12-01 18:09:04",
-      "album": {
         "name": "Noraezean",
         "url": "https://open.spotify.com/album/2cAQpN9wxcwyy63PQ1xQ61"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 212000,
       "name": "Noraezean",
       "url": "https://open.spotify.com/track/2vQ4scL1dp9w3jKBv99GVm"
+    },
+    {
+      "added_at": "2023-12-01 18:09:04",
+      "album": {
+        "name": "What If",
+        "url": "https://open.spotify.com/album/7iM2s8IjqntNzimnJ0bFgq"
+      },
+      "artists": [
+        {
+          "name": "Leon Browder",
+          "url": "https://open.spotify.com/artist/4BkBZBE6plYlbXWuxSLeWH"
+        }
+      ],
+      "duration_ms": 240527,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/3Y1uYjKIPFZ4PBNOYkTFqR"
     },
     {
       "added_at": "2023-12-01 18:09:04",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2023-12-01 18:09:04",
       "album": {
+        "name": "Collide",
+        "url": "https://open.spotify.com/album/1OeaLoXQqjva3gV0HcH9cx"
+      },
+      "artists": [
+        {
+          "name": "Lulu Helensworth",
+          "url": "https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j"
+        }
+      ],
+      "duration_ms": 193636,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/2QrdvFIYMJtrAOXYaQi4vZ"
+    },
+    {
+      "added_at": "2023-12-01 18:09:04",
+      "album": {
         "name": "Nuee",
         "url": "https://open.spotify.com/album/2A87JyHOupQKp7kbWllfdz"
       },
@@ -1759,22 +1775,6 @@
     {
       "added_at": "2023-12-01 18:09:04",
       "album": {
-        "name": "Collide",
-        "url": "https://open.spotify.com/album/1OeaLoXQqjva3gV0HcH9cx"
-      },
-      "artists": [
-        {
-          "name": "Lulu Helensworth",
-          "url": "https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j"
-        }
-      ],
-      "duration_ms": 193636,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/2QrdvFIYMJtrAOXYaQi4vZ"
-    },
-    {
-      "added_at": "2023-12-01 18:09:04",
-      "album": {
         "name": "Inevitably",
         "url": "https://open.spotify.com/album/3s0pyN2CIpxkLC7lMfQhy2"
       },
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2023-12-01 18:09:04",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6taDFAXweffThoQFq4Fqbh"
-      },
-      "artists": [
-        {
-          "name": "Alma Meris",
-          "url": "https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/4FYcbfaiOgOGgbFALqOjrK"
-    },
-    {
-      "added_at": "2023-12-01 18:09:04",
-      "album": {
         "name": "432 Hz Calm",
         "url": "https://open.spotify.com/album/3YOE3QpeQ1OrOxn1G1rqZp"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 176667,
       "name": "432 Hz Calm",
       "url": "https://open.spotify.com/track/2fKKLKOdbvoENYG2UG92vB"
+    },
+    {
+      "added_at": "2023-12-01 18:09:04",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6taDFAXweffThoQFq4Fqbh"
+      },
+      "artists": [
+        {
+          "name": "Alma Meris",
+          "url": "https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/4FYcbfaiOgOGgbFALqOjrK"
     },
     {
       "added_at": "2023-12-01 18:09:04",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2023-12-01 18:09:04",
       "album": {
-        "name": "Armonikos",
-        "url": "https://open.spotify.com/album/08bHsrL8XcgSoYRW8zZjZz"
-      },
-      "artists": [
-        {
-          "name": "Armonikos",
-          "url": "https://open.spotify.com/artist/7rL32YC1PUCMcocVKjrZ6R"
-        }
-      ],
-      "duration_ms": 155348,
-      "name": "Armonikos",
-      "url": "https://open.spotify.com/track/0vFeSaWXj9CnzzPT2M3QzZ"
-    },
-    {
-      "added_at": "2023-12-01 18:09:04",
-      "album": {
         "name": "Aphelion",
         "url": "https://open.spotify.com/album/15riorqGikS5bvTNsvYWIW"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 200555,
       "name": "Aphelion",
       "url": "https://open.spotify.com/track/0rczzvfB6QouQM8h6LCdI5"
+    },
+    {
+      "added_at": "2023-12-01 18:09:04",
+      "album": {
+        "name": "Armonikos",
+        "url": "https://open.spotify.com/album/08bHsrL8XcgSoYRW8zZjZz"
+      },
+      "artists": [
+        {
+          "name": "Armonikos",
+          "url": "https://open.spotify.com/artist/7rL32YC1PUCMcocVKjrZ6R"
+        }
+      ],
+      "duration_ms": 155348,
+      "name": "Armonikos",
+      "url": "https://open.spotify.com/track/0vFeSaWXj9CnzzPT2M3QzZ"
     },
     {
       "added_at": "2023-12-01 18:09:04",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2023-12-01 18:09:04",
       "album": {
-        "name": "Vincible",
-        "url": "https://open.spotify.com/album/2gElzA8obHtMwl3FlYLBQD"
-      },
-      "artists": [
-        {
-          "name": "Tech Guru",
-          "url": "https://open.spotify.com/artist/6HWoxr5odNX04juRVTyw1q"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Vincible",
-      "url": "https://open.spotify.com/track/4oeOk10qaT2s2jR04dyiPT"
-    },
-    {
-      "added_at": "2023-12-01 18:09:04",
-      "album": {
         "name": "Atmospheres For Yoga And Meditation",
         "url": "https://open.spotify.com/album/0UzCrJH14dmIujSR2uynv8"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 174000,
       "name": "Equilibrium - Loopable with No Fade",
       "url": "https://open.spotify.com/track/0xyrEAILLZmrkF2mHU1itT"
+    },
+    {
+      "added_at": "2023-12-01 18:09:04",
+      "album": {
+        "name": "Vincible",
+        "url": "https://open.spotify.com/album/2gElzA8obHtMwl3FlYLBQD"
+      },
+      "artists": [
+        {
+          "name": "Tech Guru",
+          "url": "https://open.spotify.com/artist/6HWoxr5odNX04juRVTyw1q"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Vincible",
+      "url": "https://open.spotify.com/track/4oeOk10qaT2s2jR04dyiPT"
     },
     {
       "added_at": "2023-12-01 18:09:04",
@@ -1999,18 +1999,18 @@
     {
       "added_at": "2023-12-01 18:09:04",
       "album": {
-        "name": "Vignette",
-        "url": "https://open.spotify.com/album/2O4tAZRw0PyCiZyXcaQh56"
+        "name": "In Dreams",
+        "url": "https://open.spotify.com/album/03N395vFQrSeex8iFMShkg"
       },
       "artists": [
         {
-          "name": "General Relativity",
-          "url": "https://open.spotify.com/artist/6HRIFfrVvgBZsdLPj2IVlc"
+          "name": "Matt Tondut",
+          "url": "https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX"
         }
       ],
-      "duration_ms": 160285,
-      "name": "Vignette",
-      "url": "https://open.spotify.com/track/2V5Gsfe6YrRWQRFKgCXevF"
+      "duration_ms": 142019,
+      "name": "In Dreams",
+      "url": "https://open.spotify.com/track/7am6G6bZs7DZSKhqpNmE0T"
     },
     {
       "added_at": "2023-12-01 18:09:04",
@@ -2027,6 +2027,22 @@
       "duration_ms": 236124,
       "name": "Alcyone",
       "url": "https://open.spotify.com/track/26DkvMBCB3RouU5R8psVXY"
+    },
+    {
+      "added_at": "2023-12-01 18:09:04",
+      "album": {
+        "name": "Vignette",
+        "url": "https://open.spotify.com/album/2O4tAZRw0PyCiZyXcaQh56"
+      },
+      "artists": [
+        {
+          "name": "General Relativity",
+          "url": "https://open.spotify.com/artist/6HRIFfrVvgBZsdLPj2IVlc"
+        }
+      ],
+      "duration_ms": 160285,
+      "name": "Vignette",
+      "url": "https://open.spotify.com/track/2V5Gsfe6YrRWQRFKgCXevF"
     },
     {
       "added_at": "2023-12-01 18:09:04",
@@ -2063,22 +2079,6 @@
     {
       "added_at": "2023-12-01 18:09:04",
       "album": {
-        "name": "In Dreams",
-        "url": "https://open.spotify.com/album/03N395vFQrSeex8iFMShkg"
-      },
-      "artists": [
-        {
-          "name": "Matt Tondut",
-          "url": "https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX"
-        }
-      ],
-      "duration_ms": 142019,
-      "name": "In Dreams",
-      "url": "https://open.spotify.com/track/7am6G6bZs7DZSKhqpNmE0T"
-    },
-    {
-      "added_at": "2023-12-01 18:09:04",
-      "album": {
         "name": "Majestic",
         "url": "https://open.spotify.com/album/624aXTR4dUoP9dVfUAoryG"
       },
@@ -2091,22 +2091,6 @@
       "duration_ms": 245700,
       "name": "Fantastical",
       "url": "https://open.spotify.com/track/1QX9Fz6OXoTjHxs3hkwNkw"
-    },
-    {
-      "added_at": "2023-12-01 18:09:04",
-      "album": {
-        "name": "inteira",
-        "url": "https://open.spotify.com/album/6aL6SraoK8X0ZmXQg1YBvp"
-      },
-      "artists": [
-        {
-          "name": "Gereo Luna",
-          "url": "https://open.spotify.com/artist/6K0fHaGkCN3DGCD3tRT5Ru"
-        }
-      ],
-      "duration_ms": 169424,
-      "name": "inteira",
-      "url": "https://open.spotify.com/track/6lkVud7wBdmLPYOKFisPB0"
     },
     {
       "added_at": "2023-12-01 18:09:04",
@@ -2139,6 +2123,22 @@
       "duration_ms": 165517,
       "name": "Well Spent",
       "url": "https://open.spotify.com/track/6AysOF8R6S2uivW3ksbkRS"
+    },
+    {
+      "added_at": "2023-12-01 18:09:04",
+      "album": {
+        "name": "inteira",
+        "url": "https://open.spotify.com/album/6aL6SraoK8X0ZmXQg1YBvp"
+      },
+      "artists": [
+        {
+          "name": "Gereo Luna",
+          "url": "https://open.spotify.com/artist/6K0fHaGkCN3DGCD3tRT5Ru"
+        }
+      ],
+      "duration_ms": 169424,
+      "name": "inteira",
+      "url": "https://open.spotify.com/track/6lkVud7wBdmLPYOKFisPB0"
     },
     {
       "added_at": "2023-12-01 18:09:04",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2023-12-01 18:09:04",
       "album": {
-        "name": "\u03a3\u03bf\u03c5\u0301\u03c1\u03bf\u03c5\u03c0\u03bf",
-        "url": "https://open.spotify.com/album/4eZeLgfdABfj3mjL5JMIQb"
-      },
-      "artists": [
-        {
-          "name": "Hana Maldonado",
-          "url": "https://open.spotify.com/artist/1ZjnbNm8j6NPmCH1Rdz0nK"
-        }
-      ],
-      "duration_ms": 217250,
-      "name": "\u03a3\u03bf\u03c5\u0301\u03c1\u03bf\u03c5\u03c0\u03bf",
-      "url": "https://open.spotify.com/track/6qhwG9cLtPHBJvqR2OQXVB"
-    },
-    {
-      "added_at": "2023-12-01 18:09:04",
-      "album": {
         "name": "Brise Apaisante",
         "url": "https://open.spotify.com/album/1rkE0SC2fJkBwNzEbPLPUp"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 201219,
       "name": "Brise Apaisante",
       "url": "https://open.spotify.com/track/3rgjUiX4rTOeAR2yNyIUjo"
+    },
+    {
+      "added_at": "2023-12-01 18:09:04",
+      "album": {
+        "name": "\u03a3\u03bf\u03c5\u0301\u03c1\u03bf\u03c5\u03c0\u03bf",
+        "url": "https://open.spotify.com/album/4eZeLgfdABfj3mjL5JMIQb"
+      },
+      "artists": [
+        {
+          "name": "Hana Maldonado",
+          "url": "https://open.spotify.com/artist/1ZjnbNm8j6NPmCH1Rdz0nK"
+        }
+      ],
+      "duration_ms": 217250,
+      "name": "\u03a3\u03bf\u03c5\u0301\u03c1\u03bf\u03c5\u03c0\u03bf",
+      "url": "https://open.spotify.com/track/6qhwG9cLtPHBJvqR2OQXVB"
     },
     {
       "added_at": "2023-12-01 18:09:04",

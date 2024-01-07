@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SiCzCxMDOH.md) - [plain]
 
 > Find your study focus with calm instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,980 likes - 529 songs - 1 day 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,220 likes - 529 songs - 1 day 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -538,4 +538,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SiCzCxMDOH.md) - [plain]
 | 528 | [Everytime We Say Goodbye](https://open.spotify.com/track/6xeEdMWJiNsQwxmCJ7fsQ6) | [Billy Charlotte](https://open.spotify.com/artist/5kwTfmxxihzQfDf7lavECv) | [How Long Has This Been Going On](https://open.spotify.com/album/1I3EDZzXo6MPpsOy0Bt2n7) | 4:05 |
 | 529 | [A Better Place](https://open.spotify.com/track/6ZDLHi8UtQeT203JjiQU6N) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/5kIBKvyTDfkVFeL3INbvBZ) | 2:13 |
 
-Snapshot ID: `MCw5OTAyZjk3ZTY2ZGY1ZTM5Yjc0ZmVjNjk3YjAwNmE3MGM2YzdkZTFi`
+Snapshot ID: `MCw1YzNmYjE2ZTY0MTc0OWQ4YWU2ZjcwZjM0YTIwZTNhMWJjYTNlOGE5`

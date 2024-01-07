@@ -4,7 +4,7 @@
 
 > Barack Obama&\#x27;s favorite songs of 2023 plus somo of his favorite summer songs\. Includes Summer 22, &amp; 21 editions + bonus tracks.
 
-2,826 songs - 6 day 17 hr 25 min
+2,827 songs - 6 day 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Ain't Like Me](https://open.spotify.com/track/7hwOvz2bw8Id4ymKBta2JJ) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [Ain't Like Me](https://open.spotify.com/album/2Hy47JrUhjOmezBIrpAXMF) | 3:32 | 2024-01-05 |  |
 | [Ain't No Harmin' Me](https://open.spotify.com/track/1LnTC50m1LHC36jtKo0UJk) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Ain't No Harmin' Me](https://open.spotify.com/album/0tk6hm3xKUefjBLDt4xkS9) | 3:50 | 2023-07-20 |  |
 | [Ain't Nobody Else \- Secondcity Remix](https://open.spotify.com/track/2um02GweX2Z5OBeyiN0BLU) | [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7), [George Mensah](https://open.spotify.com/artist/3iSq7kYQOAjugsv9RjCFue), [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq), [Charlotte](https://open.spotify.com/artist/3cnjtPSMjsj59e0CM08Iha) | [Ain't Nobody Else \(Secondcity Remix\)](https://open.spotify.com/album/4ghx0y4TpI6zuGiMcRNtDO) | 2:52 | 2021-04-24 | 2021-05-09 |
+| [Aire](https://open.spotify.com/track/0KnUoB4KNVYek1mfFEwwzN) | [Marlon Morato](https://open.spotify.com/artist/0nqFO43aXcg9YIs2a46TX6) | [Aire](https://open.spotify.com/album/4BhA4V1j8QZ2GwklIbm8qo) | 2:44 | 2024-01-06 |  |
 | [Al son de las balas](https://open.spotify.com/track/6oqnhrAWlGEvcFj8mLj8ut) | [Anna Ferrer](https://open.spotify.com/artist/3It8AsQKxFW3Fx0FrrpF1z), [Dani López](https://open.spotify.com/artist/12bYlNcUnyMzMUAEldwuRD) | [Al son de las balas](https://open.spotify.com/album/1IIjTWBOpUPY06sMQSjQ5r) | 4:02 | 2023-03-11 | 2023-04-03 |
 | [Alexa](https://open.spotify.com/track/6NfIAbSNGsDGC3eT75fxTX) | [Wreckless Strangers](https://open.spotify.com/artist/3niRRJFTVQEmQAVtrCHMu5) | [Alexa](https://open.spotify.com/album/5dLKI7w1n1QiimLQp6f6Bx) | 4:27 | 2022-05-13 | 2022-05-29 |
 | [Algo de Mi](https://open.spotify.com/track/7i0cPcwZxHkr48xW8R3UGe) | [Dandy](https://open.spotify.com/artist/2UTLp5oCUAH25hLq8yGZXN) | [Dandy](https://open.spotify.com/album/12ltn3SIfnfo3uU7NSUeRu) | 3:06 | 2023-08-01 | 2023-08-11 |

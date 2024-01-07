@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: feeble little horse",
-  "num_followers": 466750,
+  "num_followers": 466917,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTNiNDFmY2Q5MWEwMDI3NjgwMGY3YjUzN2IxZWUzNTU2NmMxN2Fm",
+  "snapshot_id": "MCw2NTFjYzQ3NGNiZTVlYzM4NGNmOWM1NzY4OWFjMjc3YjIwNjkyMWE1",
   "tracks": [
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "KPR",
-        "url": "https://open.spotify.com/album/4kAsnJ87kSwxe5KPJiydox"
+        "name": "That's What They Wanted",
+        "url": "https://open.spotify.com/album/6ixZ1mCoJtFwwSMqufEfZC"
       },
       "artists": [
         {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+          "name": "canless valley",
+          "url": "https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj"
         }
       ],
-      "duration_ms": 213002,
-      "name": "KPR",
-      "url": "https://open.spotify.com/track/0fcHWRLf2uRGk9GDamLkpA"
+      "duration_ms": 116832,
+      "name": "That's What They Wanted",
+      "url": "https://open.spotify.com/track/61hQMSDPEyMduIoZ6BwkO2"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "That's What They Wanted",
-        "url": "https://open.spotify.com/album/6ixZ1mCoJtFwwSMqufEfZC"
+        "name": "KPR",
+        "url": "https://open.spotify.com/album/4kAsnJ87kSwxe5KPJiydox"
       },
       "artists": [
         {
-          "name": "canless valley",
-          "url": "https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj"
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
         }
       ],
-      "duration_ms": 116832,
-      "name": "That's What They Wanted",
-      "url": "https://open.spotify.com/track/61hQMSDPEyMduIoZ6BwkO2"
+      "duration_ms": 213002,
+      "name": "KPR",
+      "url": "https://open.spotify.com/track/0fcHWRLf2uRGk9GDamLkpA"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0"
-      },
-      "artists": [
-        {
-          "name": "ADOY",
-          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
-        }
-      ],
-      "duration_ms": 237398,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Le feu",
         "url": "https://open.spotify.com/album/3yrKC3JOwOu5z9RkdByzbA"
       },
@@ -1615,18 +1599,34 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "i run like this",
-        "url": "https://open.spotify.com/album/5dTdx1hbSnJtbLnvGajIRc"
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0"
       },
       "artists": [
         {
-          "name": "Vanillaroma",
-          "url": "https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7"
+          "name": "ADOY",
+          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
         }
       ],
-      "duration_ms": 182250,
-      "name": "buzzkill bummer",
-      "url": "https://open.spotify.com/track/1wMBG8bzSjlupviNxOxsyX"
+      "duration_ms": 237398,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "Chopper",
+        "url": "https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1"
+      },
+      "artists": [
+        {
+          "name": "Kiwi jr.",
+          "url": "https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy"
+        }
+      ],
+      "duration_ms": 202626,
+      "name": "Night Vision",
+      "url": "https://open.spotify.com/track/54GSKI57uNYbwamZrjBGMz"
     }
   ],
   "unique_name": "Lofi Indie",

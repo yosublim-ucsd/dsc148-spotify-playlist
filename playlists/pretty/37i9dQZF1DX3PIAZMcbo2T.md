@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PIAZMcbo2T.md) - [plain]
 
 > Energetic tracks from the 2010s to boost your running session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,235 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,255 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PIAZMcbo2T.md) - [plain]
 | 49 | [Part Of Me](https://open.spotify.com/track/1nZzRJbFvCEct3uzu04ZoL) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:36 |
 | 50 | [Five More Hours](https://open.spotify.com/track/3MOECVkNshqHYTPt5DZcdN) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Good Evening](https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY) | 3:31 |
 
-Snapshot ID: `MCxlNGE5ZDIxYTBhZjAzNzZiNjhkMGE1ZjJiNzFmMjE0ZWZmZjYyMjAz`
+Snapshot ID: `MCxlNTYzY2E0NTY0YTRmZTE2N2E4ZDhmYjE4MTkzZGU0MGY0NTUzYjJj`

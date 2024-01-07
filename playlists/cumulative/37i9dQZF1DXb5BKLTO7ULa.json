@@ -5573,6 +5573,28 @@
     },
     {
       "album": {
+        "name": "ARCTIC",
+        "url": "https://open.spotify.com/album/4wTLrXAiTTtmfgknMUuAut"
+      },
+      "artists": [
+        {
+          "name": "Michael Ekow",
+          "url": "https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ"
+        },
+        {
+          "name": "May",
+          "url": "https://open.spotify.com/artist/1qUYX7PH6ubHnoCGWbjEW6"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162304,
+      "name": "ARCTIC",
+      "url": "https://open.spotify.com/track/2wnJ884DMYNVZWcxEiqYhW"
+    },
+    {
+      "album": {
         "name": "Arc\u00e1ngel: Bzrp Music Sessions, Vol. 54",
         "url": "https://open.spotify.com/album/3Bj4v1YmWsctoEsSkEPg63"
       },
@@ -5694,28 +5716,6 @@
       "duration_ms": 240000,
       "name": "Arpeggio",
       "url": "https://open.spotify.com/track/3yyUCi2aug4daXsYQa4x1L"
-    },
-    {
-      "album": {
-        "name": "ARTIC",
-        "url": "https://open.spotify.com/album/4wTLrXAiTTtmfgknMUuAut"
-      },
-      "artists": [
-        {
-          "name": "Michael Ekow",
-          "url": "https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ"
-        },
-        {
-          "name": "May",
-          "url": "https://open.spotify.com/artist/1qUYX7PH6ubHnoCGWbjEW6"
-        }
-      ],
-      "date_added": "2024-01-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 162304,
-      "name": "ARTIC",
-      "url": "https://open.spotify.com/track/2wnJ884DMYNVZWcxEiqYhW"
     },
     {
       "album": {
@@ -69708,12 +69708,12 @@
       },
       "artists": [
         {
-          "name": "KNALLER",
-          "url": "https://open.spotify.com/artist/2ovH0tGdgfnM3OwsuJykd0"
-        },
-        {
           "name": "Miggs De Bruin",
           "url": "https://open.spotify.com/artist/7oElmOrWzDyETHeUuqCsjp"
+        },
+        {
+          "name": "KNALLER",
+          "url": "https://open.spotify.com/artist/2ovH0tGdgfnM3OwsuJykd0"
         }
       ],
       "date_added": "2024-01-04",
@@ -80915,7 +80915,7 @@
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 147582,
+      "duration_ms": 147581,
       "name": "Wasted Youth",
       "url": "https://open.spotify.com/track/7i5tBVaBU5Z4Va6XK0L5mm"
     },

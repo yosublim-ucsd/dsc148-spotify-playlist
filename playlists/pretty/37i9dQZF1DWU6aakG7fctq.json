@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: Nsqk & legallyrxx",
-  "num_followers": 508558,
+  "num_followers": 508590,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGM1MmU5Mjc3NWI5MmU1YWZlYTEyNjhkMTc2NWMzZTAwODlhNTA2",
+  "snapshot_id": "MCw0ZTNlODg2MzhmOTkzYTYxZjA3ZjliMTc0MzUzYzJhNWNmYzMzY2Y5",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -511,38 +511,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "VOYCONTODO",
-        "url": "https://open.spotify.com/album/26hgcWKuQDN9SFca7Tekgy"
-      },
-      "artists": [
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        }
-      ],
-      "duration_ms": 137114,
-      "name": "VOYCONTODO",
-      "url": "https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "road 2 neverland",
-        "url": "https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8"
-      },
-      "artists": [
-        {
-          "name": "Pink Pablo",
-          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "falco",
-      "url": "https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "NOS SOLTAMOS chiliado",
         "url": "https://open.spotify.com/album/3Mmkzg9JwpsW5tMFXdR9TU"
       },
@@ -563,6 +531,38 @@
       "duration_ms": 222806,
       "name": "NOS SOLTAMOS chiliado",
       "url": "https://open.spotify.com/track/3TIpyCI4AWifaJdIlNmTdv"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117"
+      },
+      "artists": [
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "duration_ms": 208421,
+      "name": "TOTAL90NOSTALGIA",
+      "url": "https://open.spotify.com/track/5ffLdAti2Kb4XFZ2mPNrxp"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "road 2 neverland",
+        "url": "https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8"
+      },
+      "artists": [
+        {
+          "name": "Pink Pablo",
+          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "falco",
+      "url": "https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "SUPERNOVA",
-        "url": "https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117"
-      },
-      "artists": [
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        }
-      ],
-      "duration_ms": 208421,
-      "name": "TOTAL90NOSTALGIA",
-      "url": "https://open.spotify.com/track/5ffLdAti2Kb4XFZ2mPNrxp"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Mechero",
         "url": "https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 188013,
       "name": "Trampas",
       "url": "https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "VOYCONTODO",
+        "url": "https://open.spotify.com/album/26hgcWKuQDN9SFca7Tekgy"
+      },
+      "artists": [
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "duration_ms": 137114,
+      "name": "VOYCONTODO",
+      "url": "https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Flores Robadas",
-        "url": "https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 201920,
-      "name": "Si T\u00fa No Vuelves",
-      "url": "https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "En Tus Aguas",
         "url": "https://open.spotify.com/album/5gEcPV40FRmHGzrFKpUAMP"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 228250,
       "name": "Volando",
       "url": "https://open.spotify.com/track/0aTWyIrYm4QkGGR0m7INY7"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Flores Robadas",
+        "url": "https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "Si T\u00fa No Vuelves",
+      "url": "https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Mi Historia Entre Tus Dedos",
+        "url": "https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 250178,
+      "name": "Mi Historia Entre Tus Dedos",
+      "url": "https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Jugo de Guayaba",
         "url": "https://open.spotify.com/album/5wGmJjNKp3kuxlGwKN10Iw"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 222115,
       "name": "Otros Ritmos",
       "url": "https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Mi Historia Entre Tus Dedos",
-        "url": "https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 250178,
-      "name": "Mi Historia Entre Tus Dedos",
-      "url": "https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Discoman\u00eda",
+        "url": "https://open.spotify.com/album/24sgoyMdfp46v2N1gYcN2K"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "duration_ms": 188933,
+      "name": "Discoman\u00eda",
+      "url": "https://open.spotify.com/track/3UXcPbwfPgYQjr7tH72p0Q"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Migajas",
         "url": "https://open.spotify.com/album/6hyFTP9WF7wDN3fuUyE2X0"
       },
@@ -1047,18 +1063,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Discoman\u00eda",
-        "url": "https://open.spotify.com/album/24sgoyMdfp46v2N1gYcN2K"
+        "name": "Historia de un Amor",
+        "url": "https://open.spotify.com/album/7GNyEER5rbwEVpAWeep70c"
       },
       "artists": [
         {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        },
+        {
+          "name": "Denas & Miut",
+          "url": "https://open.spotify.com/artist/08YpjO7782fC1b4GpR0LsQ"
         }
       ],
-      "duration_ms": 188933,
-      "name": "Discoman\u00eda",
-      "url": "https://open.spotify.com/track/3UXcPbwfPgYQjr7tH72p0Q"
+      "duration_ms": 165000,
+      "name": "Historia de un Amor",
+      "url": "https://open.spotify.com/track/1ummXcPcrn21a5OFOjHlpT"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1075,6 +1095,22 @@
       "duration_ms": 214790,
       "name": "todo pasa",
       "url": "https://open.spotify.com/track/2z8zcvzuYWU5aFtUEwq2W4"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Gran Turismo",
+        "url": "https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 133693,
+      "name": "Insurgentes",
+      "url": "https://open.spotify.com/track/6ADCLS1XOCRC1ZK66TlXyH"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1111,38 +1147,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Gran Turismo",
-        "url": "https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn"
+        "name": "MIEL",
+        "url": "https://open.spotify.com/album/1OoKdq8qfZZSfANVp3cmGP"
       },
       "artists": [
         {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+          "name": "MIEL",
+          "url": "https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd"
         }
       ],
-      "duration_ms": 133693,
-      "name": "Insurgentes",
-      "url": "https://open.spotify.com/track/6ADCLS1XOCRC1ZK66TlXyH"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Historia de un Amor",
-        "url": "https://open.spotify.com/album/7GNyEER5rbwEVpAWeep70c"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 y el Toro",
-          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
-        },
-        {
-          "name": "Denas & Miut",
-          "url": "https://open.spotify.com/artist/08YpjO7782fC1b4GpR0LsQ"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Historia de un Amor",
-      "url": "https://open.spotify.com/track/1ummXcPcrn21a5OFOjHlpT"
+      "duration_ms": 135573,
+      "name": "LAS FURIAS // NOS MIRAN",
+      "url": "https://open.spotify.com/track/696gS5v3M9ikaR7hx88UNh"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1159,22 +1175,6 @@
       "duration_ms": 128618,
       "name": "oggy",
       "url": "https://open.spotify.com/track/0v9ujRJ4jHLOdENX8n4Jft"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "MIEL",
-        "url": "https://open.spotify.com/album/1OoKdq8qfZZSfANVp3cmGP"
-      },
-      "artists": [
-        {
-          "name": "MIEL",
-          "url": "https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd"
-        }
-      ],
-      "duration_ms": 135573,
-      "name": "LAS FURIAS // NOS MIRAN",
-      "url": "https://open.spotify.com/track/696gS5v3M9ikaR7hx88UNh"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Estos D\u00edas",
-        "url": "https://open.spotify.com/album/4qk7bAsrMLOgiyaPwWoMx0"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 202586,
-      "name": "Estos D\u00edas",
-      "url": "https://open.spotify.com/track/4lMENCVL77QTWBtEL5VBX6"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "me da miedo que escuches esto",
         "url": "https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 207529,
       "name": "te acuerdas de mi?",
       "url": "https://open.spotify.com/track/1eYAhTrgoJVF8hi1j4n1lq"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Estos D\u00edas",
+        "url": "https://open.spotify.com/album/4qk7bAsrMLOgiyaPwWoMx0"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 202586,
+      "name": "Estos D\u00edas",
+      "url": "https://open.spotify.com/track/4lMENCVL77QTWBtEL5VBX6"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Midnight Freak-Out",
-        "url": "https://open.spotify.com/album/4kNGBzJSl3GqjRUA82IM0X"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 200869,
-      "name": "Midnight Freak-Out",
-      "url": "https://open.spotify.com/track/2rIS9JrhI03Z2tsIvHVvxw"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Dicen",
         "url": "https://open.spotify.com/album/61GgJ9H3X3kdJCQhbrNYQ6"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 242000,
       "name": "Volv\u00e9s",
       "url": "https://open.spotify.com/track/2fsuYnBJXJBI8EDp1F68KW"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Midnight Freak-Out",
+        "url": "https://open.spotify.com/album/4kNGBzJSl3GqjRUA82IM0X"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 200869,
+      "name": "Midnight Freak-Out",
+      "url": "https://open.spotify.com/track/2rIS9JrhI03Z2tsIvHVvxw"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "No Hu\u00ed",
-        "url": "https://open.spotify.com/album/4x8mc2CIbdYmCBdq4hzMTm"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "El Individuo",
-          "url": "https://open.spotify.com/artist/6g5g4O5mwD2z9AZJLNgz8O"
-        }
-      ],
-      "duration_ms": 213829,
-      "name": "No Hu\u00ed",
-      "url": "https://open.spotify.com/track/313jYZDkgH8CSnnhu849cD"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Mi Droga Favorita",
         "url": "https://open.spotify.com/album/5gVIZXNXoXM9Z9AHDtnSqL"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 138509,
       "name": "A TI",
       "url": "https://open.spotify.com/track/7BvX8hQxTizTNxsZhx9VIs"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "No Hu\u00ed",
+        "url": "https://open.spotify.com/album/4x8mc2CIbdYmCBdq4hzMTm"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "El Individuo",
+          "url": "https://open.spotify.com/artist/6g5g4O5mwD2z9AZJLNgz8O"
+        }
+      ],
+      "duration_ms": 213829,
+      "name": "No Hu\u00ed",
+      "url": "https://open.spotify.com/track/313jYZDkgH8CSnnhu849cD"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Todo Lo Que Es Bueno",
-        "url": "https://open.spotify.com/album/06gKFFCsifj9HFausMxMyy"
+        "name": "Caf\u00e9 con Miel",
+        "url": "https://open.spotify.com/album/0ByY3EdpKPHzI5AaeUarUl"
       },
       "artists": [
         {
-          "name": "M\u00e9ne",
-          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
         }
       ],
-      "duration_ms": 180618,
-      "name": "Todo Lo Que Es Bueno",
-      "url": "https://open.spotify.com/track/127u69Ye76MtIbEMPhr1sh"
+      "duration_ms": 195437,
+      "name": "Caf\u00e9 con Miel",
+      "url": "https://open.spotify.com/track/5JeonPxXiD7yTHklwxNwiZ"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Caf\u00e9 con Miel",
-        "url": "https://open.spotify.com/album/0ByY3EdpKPHzI5AaeUarUl"
+        "name": "Todo Lo Que Es Bueno",
+        "url": "https://open.spotify.com/album/06gKFFCsifj9HFausMxMyy"
       },
       "artists": [
         {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
         }
       ],
-      "duration_ms": 195437,
-      "name": "Caf\u00e9 con Miel",
-      "url": "https://open.spotify.com/track/5JeonPxXiD7yTHklwxNwiZ"
+      "duration_ms": 180618,
+      "name": "Todo Lo Que Es Bueno",
+      "url": "https://open.spotify.com/track/127u69Ye76MtIbEMPhr1sh"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Agosto",
-        "url": "https://open.spotify.com/album/77jrfRbgvoHpwKxM02CAU5"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "Agosto",
-      "url": "https://open.spotify.com/track/52t0Du4DIIsA46MMayUf0x"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "odio esta casa (cuando te vas)",
         "url": "https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 194048,
       "name": "odio esta casa (cuando te vas)",
       "url": "https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "MAGIA",
+        "url": "https://open.spotify.com/album/6d8tgeQzie2e3zDJYxutjN"
+      },
+      "artists": [
+        {
+          "name": "Solo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
+        }
+      ],
+      "duration_ms": 180609,
+      "name": "MAGIA",
+      "url": "https://open.spotify.com/track/15yrXeh7mNrRSRyuCYyzH5"
     }
   ],
   "unique_name": "el nuevo indie",

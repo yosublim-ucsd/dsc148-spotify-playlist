@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2YyMDliYzg2MWU1MzBjYjVlNzE3MjU0ZWVkZWEzOThjYjRkZTJi",
+  "snapshot_id": "MCw1MmJiYzgwNmI4YjkyNjRmMjFkNzIzNjA4YzQ2ZWJhNjk5NDEyYmI4",
   "tracks": [
     {
       "added_at": "2020-04-27 15:43:16",
@@ -215,6 +215,22 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
+        "name": "Violetta",
+        "url": "https://open.spotify.com/album/6qc5VvjVyBNSMhUHzmG0uK"
+      },
+      "artists": [
+        {
+          "name": "Martina Stoessel",
+          "url": "https://open.spotify.com/artist/55TFMHRuyFaYFEKYnqKbSL"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "Te Creo",
+      "url": "https://open.spotify.com/track/7iMwrMRtauAM5EKh4J1Q4i"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
         "name": "Coco (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 50565,
       "name": "El Mundo es mi Familia",
       "url": "https://open.spotify.com/track/5tsiVaup3IdqXrqItieZLY"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
-        "name": "Violetta",
-        "url": "https://open.spotify.com/album/6qc5VvjVyBNSMhUHzmG0uK"
-      },
-      "artists": [
-        {
-          "name": "Martina Stoessel",
-          "url": "https://open.spotify.com/artist/55TFMHRuyFaYFEKYnqKbSL"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "Te Creo",
-      "url": "https://open.spotify.com/track/7iMwrMRtauAM5EKh4J1Q4i"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -355,6 +355,22 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
+        "name": "Violetta",
+        "url": "https://open.spotify.com/album/6qc5VvjVyBNSMhUHzmG0uK"
+      },
+      "artists": [
+        {
+          "name": "Martina Stoessel",
+          "url": "https://open.spotify.com/artist/55TFMHRuyFaYFEKYnqKbSL"
+        }
+      ],
+      "duration_ms": 212520,
+      "name": "En Mi Mundo - From \"Violetta\" Music from the TV Series",
+      "url": "https://open.spotify.com/track/3wfs0ssDxBBsUioKXQQTNc"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
         "name": "31 Minutos, Ratoncitos",
         "url": "https://open.spotify.com/album/6UMrfvpI3aFUaguTlF7fEH"
       },
@@ -391,34 +407,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Mejores Amigos",
-        "url": "https://open.spotify.com/album/0AAX2C7kc77hGW5RG7OWHl"
-      },
-      "artists": [
-        {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        },
-        {
-          "name": "Chabelo",
-          "url": "https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM"
-        },
-        {
-          "name": "Tatiana",
-          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
-        },
-        {
-          "name": "Cepillin",
-          "url": "https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ"
-        }
-      ],
-      "duration_ms": 160640,
-      "name": "Patos al Agua",
-      "url": "https://open.spotify.com/track/1FkJkFuhba5yth1ax8cQ07"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Rondas y Cl\u00e1sicos Infantiles 2",
         "url": "https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg"
       },
@@ -451,18 +439,30 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Violetta",
-        "url": "https://open.spotify.com/album/6qc5VvjVyBNSMhUHzmG0uK"
+        "name": "Mejores Amigos",
+        "url": "https://open.spotify.com/album/0AAX2C7kc77hGW5RG7OWHl"
       },
       "artists": [
         {
-          "name": "Martina Stoessel",
-          "url": "https://open.spotify.com/artist/55TFMHRuyFaYFEKYnqKbSL"
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        },
+        {
+          "name": "Chabelo",
+          "url": "https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM"
+        },
+        {
+          "name": "Tatiana",
+          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
+        },
+        {
+          "name": "Cepillin",
+          "url": "https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ"
         }
       ],
-      "duration_ms": 212520,
-      "name": "En Mi Mundo - From \"Violetta\" Music from the TV Series",
-      "url": "https://open.spotify.com/track/3wfs0ssDxBBsUioKXQQTNc"
+      "duration_ms": 160640,
+      "name": "Patos al Agua",
+      "url": "https://open.spotify.com/track/1FkJkFuhba5yth1ax8cQ07"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -483,6 +483,22 @@
       "duration_ms": 165733,
       "name": "Bichos",
       "url": "https://open.spotify.com/track/3peRufMxZi9baS60hEK4BN"
+    },
+    {
+      "added_at": "2022-07-11 22:00:28",
+      "album": {
+        "name": "Frozen: Una Aventura Congelada (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/5lTQwTqH8ItAw7zhuQiNvO"
+      },
+      "artists": [
+        {
+          "name": "Martina Stoessel",
+          "url": "https://open.spotify.com/artist/55TFMHRuyFaYFEKYnqKbSL"
+        }
+      ],
+      "duration_ms": 223653,
+      "name": "Libre Soy - Single Version",
+      "url": "https://open.spotify.com/track/0WXKTj2Lfa8zOgK4l7u32M"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -555,22 +571,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Las 100 Cl\u00e1sicas de Cri Cri Vol. 1",
-        "url": "https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13"
-      },
-      "artists": [
-        {
-          "name": "Cri-Cri",
-          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
-        }
-      ],
-      "duration_ms": 196120,
-      "name": "Canci\u00f3n de las Brujas - Remasterizado",
-      "url": "https://open.spotify.com/track/6ybGIJN1T8O7XtUMhG5r83"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "A cantar",
         "url": "https://open.spotify.com/album/1YkdGixY4sBJW3M3vBh0em"
       },
@@ -585,20 +585,20 @@
       "url": "https://open.spotify.com/track/5NVfQukFgB2NUo5kEmb328"
     },
     {
-      "added_at": "2022-07-11 22:00:28",
+      "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Frozen: Una Aventura Congelada (Banda Sonora Original)",
-        "url": "https://open.spotify.com/album/5lTQwTqH8ItAw7zhuQiNvO"
+        "name": "Las 100 Cl\u00e1sicas de Cri Cri Vol. 1",
+        "url": "https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13"
       },
       "artists": [
         {
-          "name": "Martina Stoessel",
-          "url": "https://open.spotify.com/artist/55TFMHRuyFaYFEKYnqKbSL"
+          "name": "Cri-Cri",
+          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
         }
       ],
-      "duration_ms": 223653,
-      "name": "Libre Soy - Single Version",
-      "url": "https://open.spotify.com/track/0WXKTj2Lfa8zOgK4l7u32M"
+      "duration_ms": 196120,
+      "name": "Canci\u00f3n de las Brujas - Remasterizado",
+      "url": "https://open.spotify.com/track/6ybGIJN1T8O7XtUMhG5r83"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -635,6 +635,22 @@
       "duration_ms": 185640,
       "name": "La Feria de Cepill\u00edn",
       "url": "https://open.spotify.com/track/6ixbJ6uzpbNdg8SmdMnczD"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Entre Ayer y Hoy",
+        "url": "https://open.spotify.com/album/69JFGFoQLfiVaQaPfduFet"
+      },
+      "artists": [
+        {
+          "name": "Payasitas Nifu Nifa",
+          "url": "https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T"
+        }
+      ],
+      "duration_ms": 147800,
+      "name": "Sana, Sana, Colita de Rana",
+      "url": "https://open.spotify.com/track/26cHBaPyFGH2lhtdaq4Dz1"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -691,6 +707,22 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
+        "name": "Viva Kids, Vol. 1",
+        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 175333,
+      "name": "Vamos a Jugar",
+      "url": "https://open.spotify.com/track/4qRrtwjr7wKWniPuFr2Cu9"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
         "name": "We Love Disney (Latino)",
         "url": "https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo"
       },
@@ -707,8 +739,8 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Entre Ayer y Hoy",
-        "url": "https://open.spotify.com/album/69JFGFoQLfiVaQaPfduFet"
+        "name": "Alibombo",
+        "url": "https://open.spotify.com/album/1jDS8IS5toJZ7g25gfqIHG"
       },
       "artists": [
         {
@@ -716,25 +748,9 @@
           "url": "https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T"
         }
       ],
-      "duration_ms": 147800,
-      "name": "Sana, Sana, Colita de Rana",
-      "url": "https://open.spotify.com/track/26cHBaPyFGH2lhtdaq4Dz1"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
-        "name": "Viva Kids, Vol. 1",
-        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 175333,
-      "name": "Vamos a Jugar",
-      "url": "https://open.spotify.com/track/4qRrtwjr7wKWniPuFr2Cu9"
+      "duration_ms": 176557,
+      "name": "Alibombo",
+      "url": "https://open.spotify.com/track/4B2Oac5PIY1aVJ83rCIgce"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -879,22 +895,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Alibombo",
-        "url": "https://open.spotify.com/album/1jDS8IS5toJZ7g25gfqIHG"
-      },
-      "artists": [
-        {
-          "name": "Payasitas Nifu Nifa",
-          "url": "https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T"
-        }
-      ],
-      "duration_ms": 176557,
-      "name": "Alibombo",
-      "url": "https://open.spotify.com/track/4B2Oac5PIY1aVJ83rCIgce"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Rondas y Cl\u00e1sicos Infantiles 2",
         "url": "https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg"
       },
@@ -927,22 +927,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Un Mundo De Canciones",
-        "url": "https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU"
-      },
-      "artists": [
-        {
-          "name": "CantaJuego",
-          "url": "https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe"
-        }
-      ],
-      "duration_ms": 103613,
-      "name": "El Zapatero",
-      "url": "https://open.spotify.com/track/77rZyXXSmwMw5GVpQHw4vd"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Miss Patylu Vol. 2",
         "url": "https://open.spotify.com/album/7EEXPQpy2rAwofhzj8FZ4U"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 152198,
       "name": "Sana Sana",
       "url": "https://open.spotify.com/track/3Lp1uOs9bgSDV4UtxSnqBF"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Un Mundo De Canciones",
+        "url": "https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU"
+      },
+      "artists": [
+        {
+          "name": "CantaJuego",
+          "url": "https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe"
+        }
+      ],
+      "duration_ms": 103613,
+      "name": "El Zapatero",
+      "url": "https://open.spotify.com/track/77rZyXXSmwMw5GVpQHw4vd"
     }
   ],
   "unique_name": "Cantando con tus Favoritos",

@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 54268,
+  "num_followers": 54290,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2U4MjJiNGE5NzcxZDk1NjBiYTIxYTQyY2RlNDQ5ZTM3ZDRmMTU4",
+  "snapshot_id": "MCw5N2E3NTcxYzczZjQ0YTU2Y2ZmOGZkMzFjY2U2M2ZjNjhjODVlYjlm",
   "tracks": [
     {
       "added_at": "2023-12-14 23:01:00",
@@ -63,22 +63,6 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
-        "name": "Cuando Te Duermas",
-        "url": "https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT"
-      },
-      "artists": [
-        {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
-        }
-      ],
-      "duration_ms": 162927,
-      "name": "Cuando Te Duermas",
-      "url": "https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA"
-    },
-    {
-      "added_at": "2023-12-14 23:01:00",
-      "album": {
         "name": "Toda Esta Gente",
         "url": "https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 151250,
       "name": "Toda Esta Gente",
       "url": "https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb"
+    },
+    {
+      "added_at": "2023-12-14 23:01:00",
+      "album": {
+        "name": "Cuando Te Duermas",
+        "url": "https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT"
+      },
+      "artists": [
+        {
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+        }
+      ],
+      "duration_ms": 162927,
+      "name": "Cuando Te Duermas",
+      "url": "https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA"
     },
     {
       "added_at": "2023-12-14 23:01:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
-        "name": "Bossa Nova Sounds EP",
-        "url": "https://open.spotify.com/album/6ROavccgDMsZS13Lx7NWYI"
-      },
-      "artists": [
-        {
-          "name": "Rio Mendes",
-          "url": "https://open.spotify.com/artist/0g5AouvHCjswMZiQheyRNK"
-        }
-      ],
-      "duration_ms": 180860,
-      "name": "The Girl From Ipanema",
-      "url": "https://open.spotify.com/track/4LFygoMviIwMfAlxBz821e"
-    },
-    {
-      "added_at": "2023-12-14 23:01:00",
-      "album": {
         "name": "Commitments",
         "url": "https://open.spotify.com/album/5Hzye9VDXOIUJviuOwR4st"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 194944,
       "name": "Commitments",
       "url": "https://open.spotify.com/track/1oIDF7ezAEtZbPaR9kaZ99"
+    },
+    {
+      "added_at": "2023-12-14 23:01:00",
+      "album": {
+        "name": "Goia\u0302nia",
+        "url": "https://open.spotify.com/album/559F8ws4FRpTbvaNc08VEE"
+      },
+      "artists": [
+        {
+          "name": "Joana Ema",
+          "url": "https://open.spotify.com/artist/2W1k5KydRQg7MsOSgGEm9u"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Goia\u0302nia",
+      "url": "https://open.spotify.com/track/4HiU3fxYZI6w2jNTTLhowT"
     },
     {
       "added_at": "2023-12-14 23:01:00",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
-        "name": "Goia\u0302nia",
-        "url": "https://open.spotify.com/album/559F8ws4FRpTbvaNc08VEE"
+        "name": "Bossa Nova Sounds EP",
+        "url": "https://open.spotify.com/album/6ROavccgDMsZS13Lx7NWYI"
       },
       "artists": [
         {
-          "name": "Joana Ema",
-          "url": "https://open.spotify.com/artist/2W1k5KydRQg7MsOSgGEm9u"
+          "name": "Rio Mendes",
+          "url": "https://open.spotify.com/artist/0g5AouvHCjswMZiQheyRNK"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Goia\u0302nia",
-      "url": "https://open.spotify.com/track/4HiU3fxYZI6w2jNTTLhowT"
+      "duration_ms": 180860,
+      "name": "The Girl From Ipanema",
+      "url": "https://open.spotify.com/track/4LFygoMviIwMfAlxBz821e"
     },
     {
       "added_at": "2023-12-14 23:01:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
-        "name": "Asi lo siento",
-        "url": "https://open.spotify.com/album/1xKRNJF9jq98hTZiqHVfpD"
-      },
-      "artists": [
-        {
-          "name": "Rafael Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/4RfGBxL6vEDgVbaYKmHHDY"
-        }
-      ],
-      "duration_ms": 197520,
-      "name": "Vivienne - Rumba",
-      "url": "https://open.spotify.com/track/5ShW5SmpX42BiE8VCyhkRv"
-    },
-    {
-      "added_at": "2023-12-14 23:01:00",
-      "album": {
         "name": "Meu cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/405dosv3ZeaoHAXrY5bbgq"
       },
@@ -823,18 +807,18 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
-        "name": "El Mito de la Caverna",
-        "url": "https://open.spotify.com/album/0SD94n8I6upvFQolNEblFl"
+        "name": "Asi lo siento",
+        "url": "https://open.spotify.com/album/1xKRNJF9jq98hTZiqHVfpD"
       },
       "artists": [
         {
-          "name": "Ca\u00f1izares",
-          "url": "https://open.spotify.com/artist/1PySKBegwK588WYnOnrsPP"
+          "name": "Rafael Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/4RfGBxL6vEDgVbaYKmHHDY"
         }
       ],
-      "duration_ms": 228469,
-      "name": "Isla de los Bienaventurados (Buler\u00edas)",
-      "url": "https://open.spotify.com/track/3CHxIC1JZewDlGqR039lrt"
+      "duration_ms": 197520,
+      "name": "Vivienne - Rumba",
+      "url": "https://open.spotify.com/track/5ShW5SmpX42BiE8VCyhkRv"
     },
     {
       "added_at": "2023-12-14 23:01:00",
@@ -851,6 +835,22 @@
       "duration_ms": 255529,
       "name": "Noches de Bohemia - Guitar Version",
       "url": "https://open.spotify.com/track/2rtScPfFTDz0yMhCA0kdge"
+    },
+    {
+      "added_at": "2023-12-14 23:01:00",
+      "album": {
+        "name": "El Mito de la Caverna",
+        "url": "https://open.spotify.com/album/0SD94n8I6upvFQolNEblFl"
+      },
+      "artists": [
+        {
+          "name": "Ca\u00f1izares",
+          "url": "https://open.spotify.com/artist/1PySKBegwK588WYnOnrsPP"
+        }
+      ],
+      "duration_ms": 228469,
+      "name": "Isla de los Bienaventurados (Buler\u00edas)",
+      "url": "https://open.spotify.com/track/3CHxIC1JZewDlGqR039lrt"
     },
     {
       "added_at": "2023-12-14 23:01:00",

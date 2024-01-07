@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock bands/artists in Japan right now!  Cover: ZAZEN BOYS",
-  "num_followers": 275680,
+  "num_followers": 275754,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmMwOThkMjNhOWY4MTdkNTYzZjk5ODkzNGY3MmU1NzQ1YjA3Mjkz",
+  "snapshot_id": "MCwxOTM0M2ViMjMwMmQ4YTQ0ZmMyMzdiMzg4OGVhY2VjMTE3NjJiNWQ0",
   "tracks": [
     {
       "added_at": "2024-01-04 15:00:00",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2024-01-04 15:00:00",
       "album": {
-        "name": "\u30b1\u30e2\u30ce\u30df\u30c1",
-        "url": "https://open.spotify.com/album/0klgJfPMllexvhss9c816Z"
+        "name": "10-FEET\u5165\u308a\u53e3\u306e10\u66f2 2",
+        "url": "https://open.spotify.com/album/3aTZAzTcYFO4fl35mqwdLw"
       },
       "artists": [
         {
-          "name": "Mr.Children",
-          "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
         }
       ],
-      "duration_ms": 238543,
-      "name": "\u30b1\u30e2\u30ce\u30df\u30c1",
-      "url": "https://open.spotify.com/track/4lpFErPc45W6HYnpoaxCdl"
+      "duration_ms": 203830,
+      "name": "\u30cf\u30ed\u30fc\u30d5\u30a3\u30af\u30b5\u30fc",
+      "url": "https://open.spotify.com/track/5Dv0DjR4PlyGgUZhnBEpkh"
     },
     {
       "added_at": "2024-01-04 15:00:00",
@@ -1255,18 +1255,34 @@
     {
       "added_at": "2024-01-04 15:00:00",
       "album": {
-        "name": "10-FEET\u5165\u308a\u53e3\u306e10\u66f2 2",
-        "url": "https://open.spotify.com/album/3aTZAzTcYFO4fl35mqwdLw"
+        "name": "\u30b1\u30e2\u30ce\u30df\u30c1",
+        "url": "https://open.spotify.com/album/0klgJfPMllexvhss9c816Z"
       },
       "artists": [
         {
-          "name": "10-FEET",
-          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+          "name": "Mr.Children",
+          "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
         }
       ],
-      "duration_ms": 203830,
-      "name": "\u30cf\u30ed\u30fc\u30d5\u30a3\u30af\u30b5\u30fc",
-      "url": "https://open.spotify.com/track/5Dv0DjR4PlyGgUZhnBEpkh"
+      "duration_ms": 238543,
+      "name": "\u30b1\u30e2\u30ce\u30df\u30c1",
+      "url": "https://open.spotify.com/track/4lpFErPc45W6HYnpoaxCdl"
+    },
+    {
+      "added_at": "2024-01-04 15:00:00",
+      "album": {
+        "name": "MAKING THE ROAD",
+        "url": "https://open.spotify.com/album/7GNdH1UwNo78P5gtB4ZJvD"
+      },
+      "artists": [
+        {
+          "name": "Hi-STANDARD",
+          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
+        }
+      ],
+      "duration_ms": 120200,
+      "name": "STAY GOLD",
+      "url": "https://open.spotify.com/track/6Q9bwEB5lN6m1DGkqz9XP6"
     },
     {
       "added_at": "2024-01-04 15:00:00",
@@ -1283,22 +1299,6 @@
       "duration_ms": 238586,
       "name": "\u30cf\u30eb\u30b8\u30aa\u30f3",
       "url": "https://open.spotify.com/track/71I3KFTKzYz1qi3SBctusp"
-    },
-    {
-      "added_at": "2024-01-04 15:00:00",
-      "album": {
-        "name": "miss you",
-        "url": "https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts"
-      },
-      "artists": [
-        {
-          "name": "Mr.Children",
-          "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
-        }
-      ],
-      "duration_ms": 223269,
-      "name": "LOST",
-      "url": "https://open.spotify.com/track/4MqmrcRFEFv2xkQLZWaCWf"
     }
   ],
   "unique_name": "Big in Japan",

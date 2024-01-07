@@ -799,6 +799,24 @@
     },
     {
       "album": {
+        "name": "Polvo y Nada",
+        "url": "https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176093,
+      "name": "La Misma",
+      "url": "https://open.spotify.com/track/0Mvx3TJjdU40Y0h08kwfKB"
+    },
+    {
+      "album": {
         "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
         "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
       },
@@ -1400,7 +1418,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 120200,
       "name": "Rumbo al Sur",
       "url": "https://open.spotify.com/track/1UobfNlX7O6d15idejLEBj"

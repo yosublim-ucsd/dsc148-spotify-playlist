@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 
 > Best of South Asian diaspora\. Cover: Danny Zee, Ali Zafar
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,707 likes - 43 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,718 likes - 43 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sushi // Woofer Paar De! \(feat\. Mykko Montana\)](https://open.spotify.com/track/2K82VcYXD0fzFfLhYadvCC) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ), [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP), [Mykko Montana](https://open.spotify.com/artist/0xOtJ5JY4Urje1oVlMd3aS) | [Sushi // Woofer Paar De! \(feat\. Mykko Montana\)](https://open.spotify.com/album/63aWGpSQIQrf4tV7yfQwHD) | 2:07 |
 | 2 | [Beautiful](https://open.spotify.com/track/6bkSlqDEou4Juvkz4vivQ6) | [Muza](https://open.spotify.com/artist/79jA5f2Sa3pgRT0ZTtYplo), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw) | [Beautiful](https://open.spotify.com/album/2QSnKAK5bBtLHtOqtmJbwC) | 4:01 |
-| 3 | [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:51 |
+| 3 | [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:51 |
 | 4 | [Jini](https://open.spotify.com/track/5PNZdDZE07oJOnTrE53p7x) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Jini](https://open.spotify.com/album/2rOM0s7rEyzdhGgnKUb81u) | 2:02 |
 | 5 | [Deal With It](https://open.spotify.com/track/48iyEjHqc399GIvhbWCDaz) | [Riz Ahmed](https://open.spotify.com/artist/5R8TntIOEwJcu4NnhGi8KW) | [The Long Goodbye](https://open.spotify.com/album/4hBcCJ6y6uLtVPJ4l2xpL5) | 2:32 |
 | 6 | [Good Love 2.0](https://open.spotify.com/track/5OAvraChe33vVCHMUBV38W) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [damnshestamil](https://open.spotify.com/album/5Uape09ZvhDOfCmSqQN8Wm) | 2:54 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 | 42 | [Honey Bee](https://open.spotify.com/track/1s2eSfchKBG6NIWpwL6x5B) | [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [Honey Bee](https://open.spotify.com/album/72HabOyINqSkT0YSQ1Pdtv) | 3:39 |
 | 43 | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/track/0NUsMgXjITsbxk5WC4aleu) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/album/1tBi2zMsVkQYk8VBkdCNnu) | 3:25 |
 
-Snapshot ID: `MCxkMjJlMDY3Zjk5NDIxNmQ1ODFhZjQ1ZWNmMTcxZjRmNGY3OTI0ZWUz`
+Snapshot ID: `MCxhMTc1NmNlMmJiNDg4ZWYzMzNkZTNiZWY1NTlhMjQ0OGY3ZDVlOTY1`

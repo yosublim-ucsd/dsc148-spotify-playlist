@@ -4,7 +4,7 @@
 
 > The dancefloor is the place to be 🪩
 
-337 songs - 1 day 6 hr 55 min
+338 songs - 1 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Moving On](https://open.spotify.com/track/44q90g5h6dBJAkWbKrCSuW) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [The Valley EP](https://open.spotify.com/album/2KVBSUUfklLKmQPSTbNQqQ) | 3:25 | 2022-06-17 | 2022-10-13 |
 | [My City's On Fire](https://open.spotify.com/track/74wq2mSE5UhoWzRTy1J93p) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [My City's On Fire](https://open.spotify.com/album/3euSt2OpPER3gjNEI0ATaz) | 3:07 | 2022-06-24 |  |
 | [Nefarius \- Original Short Edit](https://open.spotify.com/track/6LZ4x2csXmU81hcVCXuKk1) | [Alex Breitling](https://open.spotify.com/artist/4CBrawfeZ5WugRTqsXgwgI) | [Nefarius EP \(Short Edits\)](https://open.spotify.com/album/171UVAsDr4v5Qa4Y4a0M2L) | 4:18 | 2022-04-15 | 2022-04-21 |
-| [NEON RATS](https://open.spotify.com/track/5qhytiPIn0IXQKs9XE98YN) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz) | 7:30 | 2022-11-14 |  |
+| [NEON RATS](https://open.spotify.com/track/5qhytiPIn0IXQKs9XE98YN) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz) | 7:30 | 2022-11-14 | 2024-01-07 |
 | [NEON RATS](https://open.spotify.com/track/6frczIwQzRtoEgwAw8N3Cv) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/0jx9Lgujl1dys53cwHWwNT) | 7:30 | 2022-06-17 | 2022-11-20 |
 | [Night Shadows](https://open.spotify.com/track/1FTOQKWSOzAIX52lkTqXXm) | [Oma Nata](https://open.spotify.com/artist/2cqNGzW2l8dBChO4G2h8Oo) | [Night Shadows](https://open.spotify.com/album/4utOYP6QynCmhWYB6qTNr6) | 6:30 | 2022-05-20 | 2022-05-27 |
 | [Night Tales](https://open.spotify.com/track/4UDlJoKvIT97NqgzQ9FGpd) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Sorry For Not Trending](https://open.spotify.com/album/2K7tzCKO5Z3ZP0AZ09seao) | 4:00 | 2023-11-27 | 2023-12-23 |
@@ -231,6 +231,7 @@
 | [Picnic](https://open.spotify.com/track/1lfVngSLGVB7016sN7aT4P) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Diytalism EP](https://open.spotify.com/album/6YkBuXdyyWlsSTI1hmcXm3) | 5:38 | 2022-04-15 | 2022-11-20 |
 | [Picnic](https://open.spotify.com/track/4LV2WO47KmDcjOBii078Df) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Diytalism EP](https://open.spotify.com/album/72EwbbBns0GTQlyPQegDc6) | 5:38 | 2023-02-17 | 2023-04-05 |
 | [Plato](https://open.spotify.com/track/5eQhX9iv6jDuzaGi6N4z0V) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Cherry \(UA\)](https://open.spotify.com/artist/6xuIqCB0qedzXRYmj7fsGq) | [Plato](https://open.spotify.com/album/4fsQTws2mzQ0p6IemZb0oU) | 4:25 | 2022-09-30 | 2023-02-18 |
+| [Point Of No Return](https://open.spotify.com/track/2xsIBTddzLEnXCFsxPHBn0) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Point Of No Return](https://open.spotify.com/album/3rtikOpy9VLFHFv79b2ZzQ) | 4:43 | 2023-11-27 |  |
 | [Point Of No Return](https://open.spotify.com/track/6PzfuuQ95fRU9JRFSFFq77) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Point Of No Return](https://open.spotify.com/album/6YfeosMg7VMAnS9wXiMQID) | 4:43 | 2023-04-07 | 2024-01-05 |
 | [Pont de la Caille](https://open.spotify.com/track/3jAPlfftOtKBgrJ722luE3) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Pont de la Caille](https://open.spotify.com/album/64dSfNdAExAwPFtjPmXm4M) | 5:13 | 2022-04-15 |  |
 | [PSYCHODYSKO](https://open.spotify.com/track/6SUhqjKnzoD6NapngfSNEF) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI) | [PSYCHODYSKO](https://open.spotify.com/album/2lFstCwn0jCvKn0sR2TQ2c) | 5:24 | 2022-06-17 | 2022-07-29 |

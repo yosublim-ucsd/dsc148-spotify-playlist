@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 
 > اكتشفوا أفضل الاغاني الخليجية <br/>الغلاف: عايض
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,612 likes - 39 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,739 likes - 39 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 | 38 | [Akhathet Be Khtrek](https://open.spotify.com/track/4RyoGSA84YpvYm09iTR8P0) | [Moath Bugnah](https://open.spotify.com/artist/3I6QxuzNU6qhadzhuePFqF) | [Akhathet Be Khtrek](https://open.spotify.com/album/3k7N7Q8eetRAOQRtDrSImy) | 3:40 |
 | 39 | [قيام](https://open.spotify.com/track/1ej0zKc17Qpnrz3BjQzvXD) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [مرحبا](https://open.spotify.com/album/6F34uPWLURxhVHvOUzxNiQ) | 4:04 |
 
-Snapshot ID: `MCxkZWFkYWI2ODcwZjE0NzhmNDQ4NmM5NDExYWIzYTFiYWYwYzNmYjQz`
+Snapshot ID: `MCw2YWIxNzQ4NDU3Yzc0ZTE4NGIwZGU0ZTY3ZTQ1ZmRmNjQzMGM0ODQ4`

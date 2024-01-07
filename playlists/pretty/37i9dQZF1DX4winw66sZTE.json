@@ -1,12 +1,12 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 21896,
+  "num_followers": 21910,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjk3NWYxMTkwNWI2ZWMxMTgwMGFiMzU5Y2FiN2ZjMGU4NjRkMDhh",
+  "snapshot_id": "MCw0ZDA0NmYzMDQ2Mjk1NzUzZTEzMzJkMTExNzRhMjQxZWZlZmI2MDU1",
   "tracks": [
     {
       "added_at": "2021-03-01 03:07:22",
@@ -243,22 +243,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Guardian (Original Television Soundtrack), Pt. 9",
-        "url": "https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 229678,
-      "name": "I Will Go To You Like the First Snow",
-      "url": "https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "SUNMI SPECIAL EDITION [Gashina]",
         "url": "https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 180000,
       "name": "Gashina",
       "url": "https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Guardian (Original Television Soundtrack), Pt. 9",
+        "url": "https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 229678,
+      "name": "I Will Go To You Like the First Snow",
+      "url": "https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -707,6 +707,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "Sherlock - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "duration_ms": 239186,
+      "name": "Sherlock (Clue + Note)",
+      "url": "https://open.spotify.com/track/2sVtrcj32v3fR8mLjqWziv"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "AH YEAH",
         "url": "https://open.spotify.com/album/54r8xseUAz0c9ORidjAKmZ"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 213853,
       "name": "Galaxy",
       "url": "https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "Sherlock - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ"
-      },
-      "artists": [
-        {
-          "name": "SHINee",
-          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
-        }
-      ],
-      "duration_ms": 239186,
-      "name": "Sherlock (Clue + Note)",
-      "url": "https://open.spotify.com/track/2sVtrcj32v3fR8mLjqWziv"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -967,22 +967,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Mr. Simple - The 5th Album",
-        "url": "https://open.spotify.com/album/0eouyQPmljivHfUuG5nYBa"
-      },
-      "artists": [
-        {
-          "name": "SUPER JUNIOR",
-          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
-        }
-      ],
-      "duration_ms": 241826,
-      "name": "Mr. Simple",
-      "url": "https://open.spotify.com/track/6QTBYKLlV2PQniwAWrBV2z"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "My Love From the Star Part 7",
         "url": "https://open.spotify.com/album/76Ke9tCgKmlQTG2Nb810O0"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 243323,
       "name": "Every moment of you",
       "url": "https://open.spotify.com/track/2tY05I4MCH2eKnWTITUspC"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Mr. Simple - The 5th Album",
+        "url": "https://open.spotify.com/album/0eouyQPmljivHfUuG5nYBa"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+        }
+      ],
+      "duration_ms": 241826,
+      "name": "Mr. Simple",
+      "url": "https://open.spotify.com/track/6QTBYKLlV2PQniwAWrBV2z"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "CRUSH",
-        "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
-      },
-      "artists": [
-        {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
-        }
-      ],
-      "duration_ms": 229627,
-      "name": "COME BACK HOME",
-      "url": "https://open.spotify.com/track/63J1RStsmoVKXNTCHRNxii"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "THE THIRD SINGLE CATALLENA",
         "url": "https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 193153,
       "name": "Catallena",
       "url": "https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
+      },
+      "artists": [
+        {
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+        }
+      ],
+      "duration_ms": 229627,
+      "name": "COME BACK HOME",
+      "url": "https://open.spotify.com/track/63J1RStsmoVKXNTCHRNxii"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1352,9 +1352,9 @@
           "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
         }
       ],
-      "duration_ms": 234856,
-      "name": "Peter Pan",
-      "url": "https://open.spotify.com/track/0FF1qj8n4vZEzY54Kt5qh1"
+      "duration_ms": 186017,
+      "name": "XOXO",
+      "url": "https://open.spotify.com/track/3Fm1KdUH8FmJOdtFi8MBvx"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Secret Garden",
-        "url": "https://open.spotify.com/album/03GKVqpdr6Fi24DeAbgDRs"
-      },
-      "artists": [
-        {
-          "name": "Apink",
-          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
-        }
-      ],
-      "duration_ms": 220099,
-      "name": "NoNoNo",
-      "url": "https://open.spotify.com/track/5SusX17QvBBkH7WfMbTU0j"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Electric Shock - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 196946,
       "name": "Electric Shock",
       "url": "https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Secret Garden",
+        "url": "https://open.spotify.com/album/03GKVqpdr6Fi24DeAbgDRs"
+      },
+      "artists": [
+        {
+          "name": "Apink",
+          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
+        }
+      ],
+      "duration_ms": 220099,
+      "name": "NoNoNo",
+      "url": "https://open.spotify.com/track/5SusX17QvBBkH7WfMbTU0j"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "180\u02da",
-        "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 229187,
-      "name": "180 Degree",
-      "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "INSANE LOVE",
         "url": "https://open.spotify.com/album/4Yz1WY6PlJepdbnl4m72b8"
       },
@@ -1455,22 +1439,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "The 1st Album 'XOXO' (Repackage)",
-        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 186017,
-      "name": "XOXO",
-      "url": "https://open.spotify.com/track/3Fm1KdUH8FmJOdtFi8MBvx"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/66nsOtUGPFQzKxSmgCjk1c"
       },
@@ -1483,6 +1451,38 @@
       "duration_ms": 198008,
       "name": "Only You",
       "url": "https://open.spotify.com/track/1hGSF6kVDU8dWmXDLyfHBt"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 234856,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/0FF1qj8n4vZEzY54Kt5qh1"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "180\u02da",
+        "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 229187,
+      "name": "180 Degree",
+      "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "WINTER",
-        "url": "https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt"
-      },
-      "artists": [
-        {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
-        }
-      ],
-      "duration_ms": 283800,
-      "name": "Last Goodbye",
-      "url": "https://open.spotify.com/track/0x50cQ1pZeV4xl737GhKBk"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "KARA 3rd Album STEP",
         "url": "https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9"
       },
@@ -1583,6 +1567,38 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "WINTER",
+        "url": "https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "duration_ms": 283800,
+      "name": "Last Goodbye",
+      "url": "https://open.spotify.com/track/0x50cQ1pZeV4xl737GhKBk"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Hands Up",
+        "url": "https://open.spotify.com/album/1PPU2sGpyQVivVTBLyrjJx"
+      },
+      "artists": [
+        {
+          "name": "2PM",
+          "url": "https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS"
+        }
+      ],
+      "duration_ms": 198826,
+      "name": "Hands Up",
+      "url": "https://open.spotify.com/track/5RENkTP0he793Basw1Stto"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "BERMUDA TRIANGLE",
         "url": "https://open.spotify.com/album/7BUHltdya9h5Qv0qI2xvhX"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 207026,
       "name": "BERMUDA TRIANGLE",
       "url": "https://open.spotify.com/track/0hRVm06wtH5HsmPetg1W9t"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "Hands Up",
-        "url": "https://open.spotify.com/album/1PPU2sGpyQVivVTBLyrjJx"
-      },
-      "artists": [
-        {
-          "name": "2PM",
-          "url": "https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS"
-        }
-      ],
-      "duration_ms": 198826,
-      "name": "Hands Up",
-      "url": "https://open.spotify.com/track/5RENkTP0he793Basw1Stto"
     },
     {
       "added_at": "2021-03-01 03:07:22",

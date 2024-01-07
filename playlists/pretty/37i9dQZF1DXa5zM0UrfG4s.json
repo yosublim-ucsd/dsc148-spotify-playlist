@@ -1,12 +1,12 @@
 {
   "description": "b\u00f8gdebangers du kan spelle i kjerra! ",
-  "num_followers": 106960,
+  "num_followers": 106970,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2ZlNTg3NzkxYTc1MmQ5YjVjNzQ1YWU5NjBmMDJmMjNhZWI1YzJk",
+  "snapshot_id": "MCxiZTExNzIzMWVhZDZlOThhOTA0MjEzYmY2MjE1ZTUxNjExNWQ2NzVj",
   "tracks": [
     {
       "added_at": "2023-12-14 23:00:00",
@@ -211,18 +211,18 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Hjertel\u00f8s",
-        "url": "https://open.spotify.com/album/14EKNiLzDMZicYko6DBUFV"
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/0V54CqEaVc2NJe167KXdqe"
       },
       "artists": [
         {
-          "name": "El Papi",
-          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+          "name": "Oberg",
+          "url": "https://open.spotify.com/artist/1g9S6C1WRQYwddKiR3Kwcv"
         }
       ],
-      "duration_ms": 137942,
-      "name": "Hjertel\u00f8s",
-      "url": "https://open.spotify.com/track/5PzratDTUf07VyMKrGGxz3"
+      "duration_ms": 161104,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/5DcVJM3W2lkjogTromoy3D"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -259,18 +259,18 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Take My Hand",
-        "url": "https://open.spotify.com/album/0V54CqEaVc2NJe167KXdqe"
+        "name": "Hjertel\u00f8s",
+        "url": "https://open.spotify.com/album/14EKNiLzDMZicYko6DBUFV"
       },
       "artists": [
         {
-          "name": "Oberg",
-          "url": "https://open.spotify.com/artist/1g9S6C1WRQYwddKiR3Kwcv"
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
         }
       ],
-      "duration_ms": 161104,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/5DcVJM3W2lkjogTromoy3D"
+      "duration_ms": 137942,
+      "name": "Hjertel\u00f8s",
+      "url": "https://open.spotify.com/track/5PzratDTUf07VyMKrGGxz3"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -751,6 +751,26 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
+        "name": "Du kan inte f\u00e5 min \u00f6l",
+        "url": "https://open.spotify.com/album/7DPVUlgOqQlKS9DKaT9ATm"
+      },
+      "artists": [
+        {
+          "name": "Albatraoz",
+          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+        },
+        {
+          "name": "K\u00e5ren",
+          "url": "https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r"
+        }
+      ],
+      "duration_ms": 136100,
+      "name": "Du kan inte f\u00e5 min \u00f6l",
+      "url": "https://open.spotify.com/track/28g0C6ruCVWccDCYJy3G0c"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
         "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
         "url": "https://open.spotify.com/album/4wURA9nH08GrDdKEdw1pkw"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 166624,
       "name": "En j\u00e4vel p\u00e5 att ragga bil",
       "url": "https://open.spotify.com/track/1wzf0oO2OT51wljEGIprag"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Du kan inte f\u00e5 min \u00f6l",
-        "url": "https://open.spotify.com/album/7DPVUlgOqQlKS9DKaT9ATm"
-      },
-      "artists": [
-        {
-          "name": "Albatraoz",
-          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
-        },
-        {
-          "name": "K\u00e5ren",
-          "url": "https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r"
-        }
-      ],
-      "duration_ms": 136100,
-      "name": "Du kan inte f\u00e5 min \u00f6l",
-      "url": "https://open.spotify.com/track/28g0C6ruCVWccDCYJy3G0c"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Lyst p\u00e5 d\u00e6",
-        "url": "https://open.spotify.com/album/04zK7xAmi8Mx3A2OVUtT3i"
-      },
-      "artists": [
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        }
-      ],
-      "duration_ms": 161146,
-      "name": "Lyst p\u00e5 d\u00e6",
-      "url": "https://open.spotify.com/track/0pAaQWTrmbKEVPL0mlB9Sx"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "FREDAG",
         "url": "https://open.spotify.com/album/6zBuRXhywr33CSy1QXxd46"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 168398,
       "name": "FREDAG",
       "url": "https://open.spotify.com/track/7CrzOLGSbr4PFi9F9PNcJ4"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Lyst p\u00e5 d\u00e6",
+        "url": "https://open.spotify.com/album/04zK7xAmi8Mx3A2OVUtT3i"
+      },
+      "artists": [
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "duration_ms": 161146,
+      "name": "Lyst p\u00e5 d\u00e6",
+      "url": "https://open.spotify.com/track/0pAaQWTrmbKEVPL0mlB9Sx"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1003,6 +1003,30 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
+        "name": "Helt Sykt VOL2",
+        "url": "https://open.spotify.com/album/6JsrkSrKeMMpnUpq5tTLtA"
+      },
+      "artists": [
+        {
+          "name": "Staysman & Lazz",
+          "url": "https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 185884,
+      "name": "En Siste Gang",
+      "url": "https://open.spotify.com/track/6tt3Na8Vjw1H2fCUcUivi5"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
         "name": "Den Samme J\u00e6vla Sangen",
         "url": "https://open.spotify.com/album/3fXnuFvgiZvjCRef5uPmDt"
       },
@@ -1019,30 +1043,6 @@
       "duration_ms": 140000,
       "name": "Den Samme J\u00e6vla Sangen",
       "url": "https://open.spotify.com/track/5vkNNLnO28ZGA2QryYpXZU"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "FYRA SM\u00c5 RAGGERS",
-        "url": "https://open.spotify.com/album/7rIDWlpobZ7ocbtHVSYGJg"
-      },
-      "artists": [
-        {
-          "name": "Studavig\u00e5",
-          "url": "https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6"
-        },
-        {
-          "name": "Maximus",
-          "url": "https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C"
-        },
-        {
-          "name": "RIK1",
-          "url": "https://open.spotify.com/artist/0YnSx8xXces528yeQtNRuz"
-        }
-      ],
-      "duration_ms": 101304,
-      "name": "FYRA SM\u00c5 RAGGERS",
-      "url": "https://open.spotify.com/track/4Q88dvSHO9YPcWPEl8zT7G"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1083,6 +1083,30 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
+        "name": "FYRA SM\u00c5 RAGGERS",
+        "url": "https://open.spotify.com/album/7rIDWlpobZ7ocbtHVSYGJg"
+      },
+      "artists": [
+        {
+          "name": "Studavig\u00e5",
+          "url": "https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6"
+        },
+        {
+          "name": "Maximus",
+          "url": "https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C"
+        },
+        {
+          "name": "RIK1",
+          "url": "https://open.spotify.com/artist/0YnSx8xXces528yeQtNRuz"
+        }
+      ],
+      "duration_ms": 101304,
+      "name": "FYRA SM\u00c5 RAGGERS",
+      "url": "https://open.spotify.com/track/4Q88dvSHO9YPcWPEl8zT7G"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
         "name": "S\u00e5nn So Det Va F\u00f8r",
         "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
       },
@@ -1095,30 +1119,6 @@
       "duration_ms": 278457,
       "name": "S\u00e5nn So Det Va F\u00f8r",
       "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Helt Sykt VOL2",
-        "url": "https://open.spotify.com/album/6JsrkSrKeMMpnUpq5tTLtA"
-      },
-      "artists": [
-        {
-          "name": "Staysman & Lazz",
-          "url": "https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        },
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        }
-      ],
-      "duration_ms": 185884,
-      "name": "En Siste Gang",
-      "url": "https://open.spotify.com/track/6tt3Na8Vjw1H2fCUcUivi5"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Levva Livet!",
-        "url": "https://open.spotify.com/album/00m8339CymX4adXiATrT7e"
-      },
-      "artists": [
-        {
-          "name": "\u00c5ge Aleksandersen",
-          "url": "https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz"
-        }
-      ],
-      "duration_ms": 274053,
-      "name": "Levva Livet",
-      "url": "https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "Eventyr",
         "url": "https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 147600,
       "name": "Eventyr",
       "url": "https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Levva Livet!",
+        "url": "https://open.spotify.com/album/00m8339CymX4adXiATrT7e"
+      },
+      "artists": [
+        {
+          "name": "\u00c5ge Aleksandersen",
+          "url": "https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz"
+        }
+      ],
+      "duration_ms": 274053,
+      "name": "Levva Livet",
+      "url": "https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez"
     },
     {
       "added_at": "2023-12-14 23:00:00",

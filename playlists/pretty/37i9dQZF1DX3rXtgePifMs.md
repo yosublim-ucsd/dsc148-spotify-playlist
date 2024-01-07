@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,410 likes - 109 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,628 likes - 109 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 31 | [The Sea](https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [The Sea](https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo) | 3:10 |
 | 32 | [nice 2 me](https://open.spotify.com/track/3f5W7B3MxSartmmom92jGj) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [nice 2 me](https://open.spotify.com/album/50pA39m1Je0bgfqqJFBBlT) | 2:51 |
 | 33 | [CATALYST](https://open.spotify.com/track/3wPpMU6d8h9yxvBadDDr44) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [CATALYST](https://open.spotify.com/album/5Il5xcMQhzdH6YFKZH3VGU) | 3:26 |
-| 34 | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/track/5EAxubrBUiiNnbx6ygl8cI) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/album/2iajSKu8NgMAWhNNXDaIGz) | 2:44 |
-| 35 | [HOLD ON](https://open.spotify.com/track/3PspK6baTu8laBFO32ArQL) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [HOLD ON](https://open.spotify.com/album/44IVa7WdCY2II6a9AVnwpe) | 4:05 |
+| 34 | [HOLD ON](https://open.spotify.com/track/3PspK6baTu8laBFO32ArQL) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [HOLD ON](https://open.spotify.com/album/44IVa7WdCY2II6a9AVnwpe) | 4:05 |
+| 35 | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/track/5EAxubrBUiiNnbx6ygl8cI) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/album/2iajSKu8NgMAWhNNXDaIGz) | 2:44 |
 | 36 | [They Don't Love It](https://open.spotify.com/track/4YnazaBNYt86O9KhwjH9NA) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/0zKLHvP1TLKdDLSg4FOihB) | 1:53 |
 | 37 | [Protein v2](https://open.spotify.com/track/4BxywQGCn9qUTHPAarWGZZ) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Universal Credit \(Deluxe\)](https://open.spotify.com/album/4p0i4iUDBybIceENugG7gl) | 3:08 |
 | 38 | [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 55 | [Amnesia](https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:03 |
 | 56 | [Shut It Down](https://open.spotify.com/track/6k1JXdWW1ZGAcTUtjao9d6) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Shut It Down](https://open.spotify.com/album/50WI8N9WqWFJ13nfogGsQB) | 2:42 |
 | 57 | [Hostage](https://open.spotify.com/track/2HtXypOaDQhfWG1sKrjN0f) | [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [Hostage](https://open.spotify.com/album/4fAX7xHj1PJZfIMKtnri9G) | 3:28 |
-| 58 | [Gan Ainm](https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Paragon Songs](https://open.spotify.com/album/0ugiYjbKYVSvM8AIwnR3DA) | 4:07 |
-| 59 | [Stone](https://open.spotify.com/track/5C8ZVCqSWQluWHXsTdLCOW) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Stone](https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H) | 3:02 |
+| 58 | [Stone](https://open.spotify.com/track/5C8ZVCqSWQluWHXsTdLCOW) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Stone](https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H) | 3:02 |
+| 59 | [Gan Ainm](https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Paragon Songs](https://open.spotify.com/album/0ugiYjbKYVSvM8AIwnR3DA) | 4:07 |
 | 60 | [Assumptions \- Jengi Remix](https://open.spotify.com/track/3NaLD1DZ4U2VMf4WXci3Rt) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H), [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Assumptions \(Jengi Remix\)](https://open.spotify.com/album/2waZkaQGtcdGPWIkcUMxbQ) | 3:06 |
 | 61 | [denver luna \(acappella\)](https://open.spotify.com/track/4hGgIWJLCzQpEyWvdbsf8q) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [denver luna \(acappella\)](https://open.spotify.com/album/5jayItxgtL0rwZzJKwcr2G) | 2:27 |
 | 62 | [O Que Se Leva \(Dói\)](https://open.spotify.com/track/7AYctIsvlx9eNrOM2zhLiz) | [Rod 3030](https://open.spotify.com/artist/44C21oZdrybmbaepup96M2), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Tom Zé](https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27) | [O Que Se Leva \(Dói\)](https://open.spotify.com/album/27uX1i9485ofNAO9EHIWBE) | 2:50 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 108 | [Follow the Cyborg](https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Follow the Cyborg](https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO) | 4:45 |
 | 109 | [Sekkle In](https://open.spotify.com/track/7DzIYGJCzK1meLmAWK7DbZ) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW), [Sparkz](https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf) | [Earache / Sekkle In](https://open.spotify.com/album/4ZG7ya2WiZZVQErG4vUHgM) | 3:45 |
 
-Snapshot ID: `MCxiNjkyZTBmZjM1M2Q3ZmQ3NWUyYWVjMTAxMTk3ZjU4NGJhMDUwYmQ0`
+Snapshot ID: `MCwzZDc2Y2YyNDFmYTI1ZTUwNDhmZDczN2U1ZTA5N2RiOTIyZjliYjZj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,001 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,048 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 49 | [猿芝居](https://open.spotify.com/track/3LY9pxrkW6J3TTAL5ZwNuI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [猿芝居](https://open.spotify.com/album/70T4FWkth5x4r4cAfUSxR7) | 2:55 |
 | 50 | [Requiem](https://open.spotify.com/track/22EHB5z2GwYNPA1wZ3LtL4) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [Requiem](https://open.spotify.com/album/1PwHrnwnlvNg8stBetjmyE) | 2:37 |
 
-Snapshot ID: `MCw3Zjc3N2M2ZmQ2YmVkYTc2NmZlYWFjYjE4YmNhMjM3NmJkZjcwOGQz`
+Snapshot ID: `MCxkZTg3ZDQ2OWNhZjc3NTI4NjUzMmM0MTU2YzhhMzU2MDQ1NGM1ZmEy`

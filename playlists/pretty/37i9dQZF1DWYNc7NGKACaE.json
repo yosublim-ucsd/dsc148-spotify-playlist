@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 75637,
+  "num_followers": 75680,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2JjYTIxYjJjNjU2MGRlMmFkN2RhMjZjN2M0ODI4NzkzMDUyYzc2",
+  "snapshot_id": "MCwyMTYxMGNlMDk5ZjFkYjJhYjg4M2QyZDhlNzcxMzk3OTg5YTk5OTk0",
   "tracks": [
     {
       "added_at": "2023-12-27 14:18:14",
@@ -303,6 +303,22 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "Subzero (Speed Plug)",
+        "url": "https://open.spotify.com/album/44mblZRV7Zfkd4NJXO58dI"
+      },
+      "artists": [
+        {
+          "name": "Caeljugz",
+          "url": "https://open.spotify.com/artist/70QYj3IRKyvbr7xZcpzkZw"
+        }
+      ],
+      "duration_ms": 125156,
+      "name": "Subzero (Speed Plug)",
+      "url": "https://open.spotify.com/track/7nRkeXa1Kn63CV1WmVxttB"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "HOJE ELA PEDE PANDORA (Speed UP)",
         "url": "https://open.spotify.com/album/7GRLhqWvMLlGeI504mVAmF"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 202617,
       "name": "HOJE ELA PEDE PANDORA - Speed UP",
       "url": "https://open.spotify.com/track/2c7sA8ePcA4AvoBdWBoSyE"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "Subzero (Speed Plug)",
-        "url": "https://open.spotify.com/album/44mblZRV7Zfkd4NJXO58dI"
-      },
-      "artists": [
-        {
-          "name": "Caeljugz",
-          "url": "https://open.spotify.com/artist/70QYj3IRKyvbr7xZcpzkZw"
-        }
-      ],
-      "duration_ms": 125156,
-      "name": "Subzero (Speed Plug)",
-      "url": "https://open.spotify.com/track/7nRkeXa1Kn63CV1WmVxttB"
     },
     {
       "added_at": "2023-12-27 14:18:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 
 > הנשים שעשו את 2023\. האזינו להן בפול ווליום\. קאבר: יובל דיין
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,176 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,185 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 | 49 | [קראש](https://open.spotify.com/track/4IGf153raVXv99mz1xdmG4) | [Roni Duani](https://open.spotify.com/artist/3CHmL2qgsbMnGhBD2zYkTA), [Hype](https://open.spotify.com/artist/1OniqvtJdmEQPsvK85RSJV) | [קראש](https://open.spotify.com/album/3eFOvpYfoVjs7LLKveea2A) | 2:27 |
 | 50 | [ישך חברה](https://open.spotify.com/track/6hbANYkoOM0QYqBclsWYs9) | [נעה שאואט](https://open.spotify.com/artist/4T2L5OIEYtg9eOXg2ZphXu) | [ישך חברה](https://open.spotify.com/album/0tjJQUHU5fDWzin5gB6jEJ) | 3:00 |
 
-Snapshot ID: `MCw4ZmNmMDFiMjUzZDliMzI4MTdjMzdmOTI1NTY3ZDMxN2QxNjQzYTE1`
+Snapshot ID: `MCw3OTI3OTRhNmU1OTAxOTMwZTIwNjU4ZWQ5M2YxOTA2YTNlZjlmOWM4`

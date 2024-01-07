@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 
 > A lo cubano 🔥 Con El Chacal en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,649 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,670 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 | 43 | [Eso Es Bola](https://open.spotify.com/track/6w8gUMxJVV9IR56kgcd7Iu) | [Los Desiguales](https://open.spotify.com/artist/24HEuBZ2Iqcq7To1Vgi8qm) | [Eso Es Bola \(Deluxe Edition\) \[El Principe y Damian The Lion\]](https://open.spotify.com/album/3Ou24yQ2yf2ETvdcx8PMms) | 4:23 |
 | 44 | [Calentando la Habana](https://open.spotify.com/track/1AZQo01NYm6BUxhUaxB4lf) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Fiesta](https://open.spotify.com/album/42FfGtg64uJb5qUndVJ0bH) | 4:13 |
 | 45 | [Pobre Corazón \- with Lenier](https://open.spotify.com/track/29orueqF7k02TWw9CVHQh1) | [Divan](https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [\#Round2](https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr) | 2:58 |
-| 46 | [Te Quiero Pa' Mi](https://open.spotify.com/track/6f1iOMpbJFItdBug6CepDl) | [El Kimiko y Yordy](https://open.spotify.com/artist/0DjHJO4Ez3nSVfhv8x95cn) | [Te Quiero Pa' Mi](https://open.spotify.com/album/7HWJg3Yznnix51OBoq4BRP) | 3:21 |
-| 47 | [Un Beso](https://open.spotify.com/track/74CNQ4u45e0XNWrdqBhG3w) | [El Kamel](https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Un Beso](https://open.spotify.com/album/68d6YuPRSd9DkddCRQBl2R) | 3:13 |
+| 46 | [Un Beso](https://open.spotify.com/track/74CNQ4u45e0XNWrdqBhG3w) | [El Kamel](https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Un Beso](https://open.spotify.com/album/68d6YuPRSd9DkddCRQBl2R) | 3:13 |
+| 47 | [Te Quiero Pa' Mi](https://open.spotify.com/track/6f1iOMpbJFItdBug6CepDl) | [El Kimiko y Yordy](https://open.spotify.com/artist/0DjHJO4Ez3nSVfhv8x95cn) | [Te Quiero Pa' Mi](https://open.spotify.com/album/7HWJg3Yznnix51OBoq4BRP) | 3:21 |
 | 48 | [El Gavilan](https://open.spotify.com/track/7fQb0rLMdcqIpuedld1yVp) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [El Gavilan](https://open.spotify.com/album/0PIJm7nEq8hfMKp88XtR2E) | 3:27 |
 | 49 | [Descaradita](https://open.spotify.com/track/1gURkcy589Sa8Xl5r3EBAP) | [El Chulo](https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Yoani Star](https://open.spotify.com/artist/6fjsWobMoPEAgXjDItU93E) | [Descaradita](https://open.spotify.com/album/5MAsXFNE1EwY2bUqGwQFTk) | 4:18 |
 | 50 | [Dale Pa' Miami](https://open.spotify.com/track/6Z3g1JRk0PL2UWGtWW1PxI) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [Dale Pa' Miami](https://open.spotify.com/album/3pivUJGUg3vK0yqWFqsKer) | 3:14 |
 
-Snapshot ID: `MCwzZmZiNjYxMGRiNWE1MDZkMDczZTM2NjNhMzk2M2Y5NGRjNTU5NDJj`
+Snapshot ID: `MCxkZDQyYWUyNTYzMTI1ZmJlMjFiNWM4ZTA4ZjczODRmNDQ5MTA5ZjY2`

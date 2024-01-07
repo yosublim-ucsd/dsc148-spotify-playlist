@@ -3392,7 +3392,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 232813,
       "name": "I AM WOMAN",
       "url": "https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb"
@@ -8662,6 +8662,28 @@
       "duration_ms": 201040,
       "name": "Who's That Chick? (feat. Rihanna)",
       "url": "https://open.spotify.com/track/6qUSs4FDzZUdAhY6JDIJfa"
+    },
+    {
+      "album": {
+        "name": "One More Love",
+        "url": "https://open.spotify.com/album/7fHeCs5cgtXYqxBPG1iK1n"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201040,
+      "name": "Who's That Chick? (feat. Rihanna)",
+      "url": "https://open.spotify.com/track/7e1h7rqNB0BBC2fUuWEEFe"
     },
     {
       "album": {

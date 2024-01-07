@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 
 > La orilla donde el indie se fusiona con la electrónica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,215 likes - 69 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,225 likes - 69 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 34 | [EME](https://open.spotify.com/track/5kksd5p7OOz8vF7NbDw7GE) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd), [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT) | [EME](https://open.spotify.com/album/2iLF9iKotpW9QVlX2hJo2T) | 3:11 |
 | 35 | [Yesteryear](https://open.spotify.com/track/1sTLwB34FW4Yqvjsz5tset) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Yesteryear](https://open.spotify.com/album/2E6mONgH562P0nB7gmb86j) | 3:39 |
 | 36 | [In Her Eyes](https://open.spotify.com/track/4JtbUXLuBb8C7q1x7B54ZY) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [In Her Eyes](https://open.spotify.com/album/3R5YCyAaqLEI3UOT38l5ik) | 2:54 |
-| 37 | [Precipicio](https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Lavandina](https://open.spotify.com/album/60kgxaYtVgEZdMhY8lWarw) | 4:59 |
-| 38 | [Heavy](https://open.spotify.com/track/4rf6Lpnej26aSNdYSiPF2n) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [FOREVER](https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t) | 3:22 |
+| 37 | [Heavy](https://open.spotify.com/track/4rf6Lpnej26aSNdYSiPF2n) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [FOREVER](https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t) | 3:22 |
+| 38 | [Precipicio](https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Lavandina](https://open.spotify.com/album/60kgxaYtVgEZdMhY8lWarw) | 4:59 |
 | 39 | [Ciudades de Noche](https://open.spotify.com/track/01rgHbhlfioQ7Oy9ntemCa) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Ciudades de Noche](https://open.spotify.com/album/2XTsyhYLGwtCAfqqkfEUrd) | 3:32 |
 | 40 | [Daikiri](https://open.spotify.com/track/44HnCocL3nA1J795oIdNgu) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Bahía Margarita](https://open.spotify.com/album/0wAN9WxtYgJUdIEczdzF2l) | 3:57 |
 | 41 | [Young](https://open.spotify.com/track/45FLsvojU63HpbTKXSwTao) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Real](https://open.spotify.com/album/4my95sS2JXep8uUPOfe8zI) | 3:14 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 68 | [Los Buenos Tiempos](https://open.spotify.com/track/6mSzSTjVWDsXEsUuCEqKWF) | [Melov](https://open.spotify.com/artist/20gixjtBBVMyxYSnMRCV22), [Juan Astronauta](https://open.spotify.com/artist/4pcBzfDpLQElWkjEif8BI3), [Solo Valencia](https://open.spotify.com/artist/2ZDmVE82uDUSsXwPnjr2xH) | [Máquina Yin Yang](https://open.spotify.com/album/3to9oi39PyJrayxZ3MuY5x) | 4:34 |
 | 69 | [Vine Hasta Marte](https://open.spotify.com/track/2QESbnic0tiuE32iosLu6s) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Vine Hasta Marte](https://open.spotify.com/album/7KMhR1LUULSVFR4SRFkKMg) | 3:44 |
 
-Snapshot ID: `MCwwOGM0MjMyZjhkMjdhOTY5YzdkYzVhNGI5Nzg0ZmVmOGU1ZjRiMGEw`
+Snapshot ID: `MCwwNDE4OWM5NTQ2NTg5NjgwZTA2ZThiNzMxOGUwODE1NGNkMzA2MmUx`

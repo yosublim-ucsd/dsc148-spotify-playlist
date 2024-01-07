@@ -1,12 +1,12 @@
 {
   "description": "Explore a genre bending universe centered around jazz. Cover: Butcher Brown",
-  "num_followers": 91554,
+  "num_followers": 91591,
   "original_name": "Orbit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODEyOTJhZTdhNzc4NWE3ZmJhYzkyN2U1OWZiZTQ3YzhjYzgzZDMz",
+  "snapshot_id": "MCwyNzZhZjI5ODkxMzk3OWM3OTgwNzY5ZDFiYmY2MzZmNTE3OTRiZDI4",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -18,6 +18,10 @@
         {
           "name": "Iman Europe",
           "url": "https://open.spotify.com/artist/6adkmtXg0Qlmahg9SxNVl0"
+        },
+        {
+          "name": "Kaelin Ellis",
+          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
         }
       ],
       "duration_ms": 102000,
@@ -27,7 +31,7 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Down With The King",
+        "name": "Down With the King",
         "url": "https://open.spotify.com/album/5Ui7Y42rwbwgnCmmtDdB8X"
       },
       "artists": [

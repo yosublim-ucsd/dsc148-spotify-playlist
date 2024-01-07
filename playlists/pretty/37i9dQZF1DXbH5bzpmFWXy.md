@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > Dos estilos, dos sonidos, un mismo origen: El Barrio\. Milo J, Peso Pluma en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,367 likes - 85 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,477 likes - 85 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 84 | [Viviendo La Vida](https://open.spotify.com/track/3YtskysZfjttxlEc963bKf) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Concentrado](https://open.spotify.com/album/2wXPBkIk4rqRLbU70y4oEV) | 2:26 |
 | 85 | [En La Lumbre \- En Vivo, Sonora, México, 2023](https://open.spotify.com/track/2ZnQIKPgq3SptPgG4XTnYU) | [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61) | [En La Lumbre \(En Vivo, Sonora, México, 2023\)](https://open.spotify.com/album/0xroiBY5yESM9Rp7qh1dFM) | 2:42 |
 
-Snapshot ID: `MCwyZWFkZDYxM2EwOWFjOGMyZTg3ZTEzMTEyMDhkMTIwMzAyODNkM2Q3`
+Snapshot ID: `MCw1OTI1NmE0OTFmNTk1YzMwYThkN2RkMjRkNDRkMTQxYTYyM2UyODQ5`

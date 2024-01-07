@@ -4,7 +4,7 @@
 
 > The best in folk & acoustic today featuring music from Hollow Coves
 
-484 songs - 1 day 6 hr 4 min
+485 songs - 1 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,8 @@
 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 | 2023-09-22 |  |
 | [Letting Go](https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Letting Go](https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI) | 3:30 | 2023-07-21 |  |
 | [Life Is Suffering](https://open.spotify.com/track/43Rh4q9wWgIEETAt0F2zCu) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Time in the Sun](https://open.spotify.com/album/4zDxvE6VjZfELyXA13kLmn) | 3:04 | 2021-12-10 | 2022-03-26 |
-| [Little Life](https://open.spotify.com/track/3MBWR1rqc72QGiFIaOpKv6) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Caramel](https://open.spotify.com/album/0GgcxG8Xq5qN3rcYvjqzF0) | 4:30 | 2023-12-11 |  |
+| [Little Life](https://open.spotify.com/track/3MBWR1rqc72QGiFIaOpKv6) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Caramel](https://open.spotify.com/album/0GgcxG8Xq5qN3rcYvjqzF0) | 4:30 | 2023-12-11 | 2024-01-07 |
+| [Little Life](https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Caramel](https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o) | 4:30 | 2023-12-15 |  |
 | [London's Song](https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO) | [Matt Hartke](https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz) | [London's Song](https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr) | 2:58 | 2021-12-10 | 2022-05-20 |
 | [Lonesome & Mad](https://open.spotify.com/track/43cdY9ASMvp94qmVuLEoxd) | [Under The Rug](https://open.spotify.com/artist/4cTkErT8j7NvsTEmgPkGT2), [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Homesick for Another World](https://open.spotify.com/album/4rxbgmrhbG44B0DiOwa9g4) | 3:57 | 2023-03-03 |  |
 | [Long Journey Home](https://open.spotify.com/track/72c8xtBefXffG64Dymjti5) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Me / And / Dad](https://open.spotify.com/album/3sEnM8BV4F3dQno5rFzdW1) | 2:57 | 2022-12-02 | 2023-06-24 |

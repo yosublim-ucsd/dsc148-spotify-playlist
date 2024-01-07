@@ -1,12 +1,12 @@
 {
   "description": "For all of us dancing on our own.",
-  "num_followers": 587459,
+  "num_followers": 587573,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmNjNmMyMzI1MGM0NGJiY2ZlMDFjN2E2YmYwMDY5ZTZlMTg0YjYx",
+  "snapshot_id": "MCxiZGNhZGJjNTYxOWQ3Yjg4ZDQwZDZmZWNmZDJkOTAzZGEzY2UzNjAy",
   "tracks": [
     {
       "added_at": "2023-12-22 04:53:23",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-12-22 04:53:23",
       "album": {
-        "name": "Telepath",
-        "url": "https://open.spotify.com/album/6npBFQje5ZenFSLErcNflE"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 194973,
-      "name": "Telepath",
-      "url": "https://open.spotify.com/track/3Z39gbqdaGL3WJXBG0gcuE"
-    },
-    {
-      "added_at": "2023-12-22 04:53:23",
-      "album": {
         "name": "99 Nights",
         "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 183635,
       "name": "Confetti",
       "url": "https://open.spotify.com/track/73m3OYU7lG7irNbFjNipwF"
+    },
+    {
+      "added_at": "2023-12-22 04:53:23",
+      "album": {
+        "name": "Telepath",
+        "url": "https://open.spotify.com/album/6npBFQje5ZenFSLErcNflE"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 194973,
+      "name": "Telepath",
+      "url": "https://open.spotify.com/track/3Z39gbqdaGL3WJXBG0gcuE"
     },
     {
       "added_at": "2023-12-22 04:53:23",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-12-22 04:53:23",
       "album": {
-        "name": "Half Written Story",
-        "url": "https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR"
-      },
-      "artists": [
-        {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
-        }
-      ],
-      "duration_ms": 216083,
-      "name": "I Love You's",
-      "url": "https://open.spotify.com/track/60todhJq1ScRkVxFvXTuZF"
-    },
-    {
-      "added_at": "2023-12-22 04:53:23",
-      "album": {
         "name": "Looks Like Me",
         "url": "https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 190527,
       "name": "Looks Like Me",
       "url": "https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA"
+    },
+    {
+      "added_at": "2023-12-22 04:53:23",
+      "album": {
+        "name": "Half Written Story",
+        "url": "https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        }
+      ],
+      "duration_ms": 216083,
+      "name": "I Love You's",
+      "url": "https://open.spotify.com/track/60todhJq1ScRkVxFvXTuZF"
     },
     {
       "added_at": "2023-12-22 04:53:23",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-12-22 04:53:23",
       "album": {
-        "name": "Paint My Bedroom Black",
-        "url": "https://open.spotify.com/album/7xpV6gsna8TzskCRjmSxLE"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 229713,
-      "name": "Paint My Bedroom Black",
-      "url": "https://open.spotify.com/track/3gA9Y5RsXBUKkr1IP6v4g3"
-    },
-    {
-      "added_at": "2023-12-22 04:53:23",
-      "album": {
         "name": "The Loneliest Time",
         "url": "https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ"
       },
@@ -1127,6 +1111,38 @@
       "duration_ms": 274506,
       "name": "The Loneliest Time (feat. Rufus Wainwright)",
       "url": "https://open.spotify.com/track/6c6vULMrRuN4NECs2iB1xe"
+    },
+    {
+      "added_at": "2023-12-22 04:53:23",
+      "album": {
+        "name": "Paint My Bedroom Black",
+        "url": "https://open.spotify.com/album/7xpV6gsna8TzskCRjmSxLE"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 229713,
+      "name": "Paint My Bedroom Black",
+      "url": "https://open.spotify.com/track/3gA9Y5RsXBUKkr1IP6v4g3"
+    },
+    {
+      "added_at": "2023-12-22 04:53:23",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 243186,
+      "name": "Happy & Sad",
+      "url": "https://open.spotify.com/track/04MoJkJzCoU9ukeewv5Vzu"
     },
     {
       "added_at": "2023-12-22 04:53:23",
@@ -1159,22 +1175,6 @@
       "duration_ms": 200523,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq"
-    },
-    {
-      "added_at": "2023-12-22 04:53:23",
-      "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 243186,
-      "name": "Happy & Sad",
-      "url": "https://open.spotify.com/track/04MoJkJzCoU9ukeewv5Vzu"
     },
     {
       "added_at": "2023-12-22 04:53:23",

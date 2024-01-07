@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa con Papichamp, The la Planta, El negro tecla, Lolo OG & Locura Mix.",
-  "num_followers": 570846,
+  "num_followers": 571028,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDc4OWUzYWQ2ZGUyMTZlMjFlNzQ5Mjc2MjlhOGYyODMzZDBhMjY3",
+  "snapshot_id": "MCw0OTc0YjUxNzg1NmZiMGU3NjE0OGNiNjdhODVkMjk3Zjg3NDgwZTA3",
   "tracks": [
     {
       "added_at": "2023-12-22 12:02:16",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "M\u00e1s Negro Que la Noche",
-        "url": "https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4"
-      },
-      "artists": [
-        {
-          "name": "De La Calle",
-          "url": "https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3"
-        }
-      ],
-      "duration_ms": 155387,
-      "name": "Una Wacha Piola",
-      "url": "https://open.spotify.com/track/4alXoLhVbPKGMXoToEqdye"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
         "name": "YO SOY TU MAESTRO (Remix)",
         "url": "https://open.spotify.com/album/6wcl6zVgbk0jOyTcEURvjG"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 205000,
       "name": "YO SOY TU MAESTRO - Remix",
       "url": "https://open.spotify.com/track/1AH4jXw5DHJklLAe54kw6S"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
+        "name": "M\u00e1s Negro Que la Noche",
+        "url": "https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4"
+      },
+      "artists": [
+        {
+          "name": "De La Calle",
+          "url": "https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3"
+        }
+      ],
+      "duration_ms": 155387,
+      "name": "Una Wacha Piola",
+      "url": "https://open.spotify.com/track/4alXoLhVbPKGMXoToEqdye"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -935,6 +935,30 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
+        "name": "TRUCHO",
+        "url": "https://open.spotify.com/album/3xxoXer7UeWMVEMvV7wyuK"
+      },
+      "artists": [
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        },
+        {
+          "name": "EL NOBA",
+          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+        },
+        {
+          "name": "Al Records",
+          "url": "https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "TRUCHO",
+      "url": "https://open.spotify.com/track/4AKK4j6sYhOO1r6My2qqWO"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
         "name": "Barrio Prendido",
         "url": "https://open.spotify.com/album/1y2ar7cUSgVihUHXeCI21J"
       },
@@ -963,30 +987,6 @@
       "duration_ms": 240008,
       "name": "Barrio Prendido",
       "url": "https://open.spotify.com/track/2I3qA0KslRCxFTfZnPyDhf"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
-        "name": "TRUCHO",
-        "url": "https://open.spotify.com/album/3xxoXer7UeWMVEMvV7wyuK"
-      },
-      "artists": [
-        {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
-        },
-        {
-          "name": "EL NOBA",
-          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
-        },
-        {
-          "name": "Al Records",
-          "url": "https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "TRUCHO",
-      "url": "https://open.spotify.com/track/4AKK4j6sYhOO1r6My2qqWO"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "Mata",
-        "url": "https://open.spotify.com/album/3CGpmpfvOQT271L1avoGI3"
-      },
-      "artists": [
-        {
-          "name": "Marka Akme",
-          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
-        }
-      ],
-      "duration_ms": 157080,
-      "name": "Mata",
-      "url": "https://open.spotify.com/track/6h8rrNrOCdBbz37IhcvApT"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
         "name": "Cumbia Callejera",
         "url": "https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 243957,
       "name": "De Regreso Al Penal",
       "url": "https://open.spotify.com/track/2PpnjTOCtpBjAmEDu10Vr8"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
+        "name": "Mata",
+        "url": "https://open.spotify.com/album/3CGpmpfvOQT271L1avoGI3"
+      },
+      "artists": [
+        {
+          "name": "Marka Akme",
+          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
+        }
+      ],
+      "duration_ms": 157080,
+      "name": "Mata",
+      "url": "https://open.spotify.com/track/6h8rrNrOCdBbz37IhcvApT"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "\u00bfQu\u00e9 No Vale Nada?",
-        "url": "https://open.spotify.com/album/0dFEatxbKVO8fTRu8wghac"
-      },
-      "artists": [
-        {
-          "name": "Supermerk2",
-          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
-        }
-      ],
-      "duration_ms": 214120,
-      "name": "Resaka",
-      "url": "https://open.spotify.com/track/39p88dp2Ya9bHDowBaf8RE"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
         "name": "Es Corta la Bocha",
         "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 132840,
       "name": "Ritmo Sabroson",
       "url": "https://open.spotify.com/track/4NyLrceESCSUGDhIt8DhBk"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
+        "name": "\u00bfQu\u00e9 No Vale Nada?",
+        "url": "https://open.spotify.com/album/0dFEatxbKVO8fTRu8wghac"
+      },
+      "artists": [
+        {
+          "name": "Supermerk2",
+          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
+        }
+      ],
+      "duration_ms": 214120,
+      "name": "Resaka",
+      "url": "https://open.spotify.com/track/39p88dp2Ya9bHDowBaf8RE"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -2187,6 +2187,22 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
+        "name": "No Hay Mal Que Dure 100 A\u00f1os",
+        "url": "https://open.spotify.com/album/65MAxmxDPkdM3IZQY6ZOco"
+      },
+      "artists": [
+        {
+          "name": "El Aspirante",
+          "url": "https://open.spotify.com/artist/214I4pFYN6o8iAN4shhZHK"
+        }
+      ],
+      "duration_ms": 175933,
+      "name": "En la Cama T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/1iryRHcRPsAVeXBa94zeqx"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
         "name": "DALE DALE",
         "url": "https://open.spotify.com/album/55GZVprq5iYoWZOBu4Xwj9"
       },
@@ -2211,18 +2227,18 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "No Hay Mal Que Dure 100 A\u00f1os",
-        "url": "https://open.spotify.com/album/65MAxmxDPkdM3IZQY6ZOco"
+        "name": "Podran Imitarnos, Jam\u00e1s Igualarnos",
+        "url": "https://open.spotify.com/album/6219k00SRfp4PcsgTv2BCX"
       },
       "artists": [
         {
-          "name": "El Aspirante",
-          "url": "https://open.spotify.com/artist/214I4pFYN6o8iAN4shhZHK"
+          "name": "Supermerk2",
+          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
         }
       ],
-      "duration_ms": 175933,
-      "name": "En la Cama T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/1iryRHcRPsAVeXBa94zeqx"
+      "duration_ms": 170319,
+      "name": "El Fog\u00f3n",
+      "url": "https://open.spotify.com/track/3y8Pe96NSEaReDgrRYPSaO"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -2243,22 +2259,6 @@
       "duration_ms": 120520,
       "name": "Corte Caco",
       "url": "https://open.spotify.com/track/1bST5OPPEuBY8bSpgEQKx3"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
-        "name": "Podran Imitarnos, Jam\u00e1s Igualarnos",
-        "url": "https://open.spotify.com/album/6219k00SRfp4PcsgTv2BCX"
-      },
-      "artists": [
-        {
-          "name": "Supermerk2",
-          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
-        }
-      ],
-      "duration_ms": 170319,
-      "name": "El Fog\u00f3n",
-      "url": "https://open.spotify.com/track/3y8Pe96NSEaReDgrRYPSaO"
     },
     {
       "added_at": "2023-12-22 12:02:16",

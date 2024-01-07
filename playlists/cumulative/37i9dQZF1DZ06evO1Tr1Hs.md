@@ -4,7 +4,7 @@
 
 > This is Ken Carson\. The essential tracks, all in one playlist.
 
-44 songs - 1 hr 49 min
+45 songs - 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [On the Low](https://open.spotify.com/track/5dZOZ75mViIFTs3etMFq5d) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X : Relapsed](https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6) | 1:17 | 2023-11-10 |  |
 | [Paranoid \(feat\. Destroy Lonely\)](https://open.spotify.com/track/2l48XirhkqQ5qRqtwItNXn) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:07 | 2023-11-10 |  |
 | [Pissed Off](https://open.spotify.com/track/3oFiO1MyubceRw2OheuKwJ) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X](https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd) | 1:39 | 2023-11-10 |  |
+| [RICK OWENS \(feat\. Ken Carson\)](https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [SONY \(Mixtape\)](https://open.spotify.com/album/0zz2XwgWhbqgaFLVflgQHp) | 2:10 | 2024-01-06 |  |
 | [Rock N Roll](https://open.spotify.com/track/7sdHMJvhKib3ReVPsZFbrf) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Project X](https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS) | 2:28 | 2023-11-10 |  |
 | [Run + Ran](https://open.spotify.com/track/7dZ9oSkQlxo0kHEgyS8WSD) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Project X](https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS) | 4:04 | 2023-11-10 |  |
 | [She Want Some More \(Feat\. Ken Carson & Lil Tecca\)](https://open.spotify.com/track/1IzxkqDIsmiFxTjaNdsiqn) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [She Want Some More \(Feat\. Ken Carson & Lil Tecca\)](https://open.spotify.com/album/2nJN8TOJACDkgOlhs5RplJ) | 3:04 | 2023-11-10 | 2023-12-14 |

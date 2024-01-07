@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: Youth Lagoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,810 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,812 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 7 | [Anyone But You](https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Anyone But You](https://open.spotify.com/album/2viPAytIOe7TjMOITmmWav) | 2:56 |
 | 8 | [Name of God](https://open.spotify.com/track/6gOxexvj0mjwnRRrLXT1cB) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Name of God](https://open.spotify.com/album/1bKT0c0tDqVeHx3G4VPGai) | 3:28 |
 | 9 | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9) | 3:07 |
-| 10 | [Those Eyes \(with Zeph\)](https://open.spotify.com/track/6Cg8d5DzpKHGci9SPk8JeL) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn), [Zeph](https://open.spotify.com/artist/5yjP3l4wzZ2vYrMqA0Odj6) | [Those Eyes](https://open.spotify.com/album/5MBMrSqIg8czxWwqem7tMN) | 4:04 |
+| 10 | [Those Eyes \(feat\. Zeph\)](https://open.spotify.com/track/6Cg8d5DzpKHGci9SPk8JeL) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn), [Zeph](https://open.spotify.com/artist/5yjP3l4wzZ2vYrMqA0Odj6) | [Those Eyes](https://open.spotify.com/album/5MBMrSqIg8czxWwqem7tMN) | 4:04 |
 | 11 | [What Love Is](https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [What Love Is](https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS) | 3:40 |
 | 12 | [When The Devil Speaks…](https://open.spotify.com/track/2FKnNu9PmgcUSXXBgR2phR) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [When The Devil Speaks…](https://open.spotify.com/album/3sQh8PifUrBSJCg0x5YZLG) | 3:02 |
 | 13 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Pomawsuwinuwok Wonakiyawolotuwok](https://open.spotify.com/track/2xMXcyYMzhMTr75P8tPyy6) | [Jeremy Dutcher](https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f) | [Pomawsuwinuwok Wonakiyawolotuwok](https://open.spotify.com/album/62EtcLFwwSuxQoQbrYlN7m) | 3:42 |
 | 100 | [Jump The Fences](https://open.spotify.com/track/6ijYdp16OS5L6SIQ7D9hmO) | [Julyan](https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG) | [Jump The Fences](https://open.spotify.com/album/36Fr7LONw4pmUoalQen5Ua) | 3:29 |
 
-Snapshot ID: `MCwxYWIyNTczNTc2N2ZlZmQzZjk2MzA4NmViZTYwZGM0ODllYWM0Njcy`
+Snapshot ID: `MCwzOTkxZWU4ZmY3ZWI3NTg4ZTExYzEzOTRjY2VkOWVjYTU5YWI1ZWNm`

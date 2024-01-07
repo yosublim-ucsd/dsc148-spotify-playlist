@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,981 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,650 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 31 | [Snakes](https://open.spotify.com/track/0QgZ2k778hWtS5W1ohVKNF) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Return To The 37th Chamber](https://open.spotify.com/album/70OhGmsHTYRhPNmDmMMcwT) | 2:07 |
 | 32 | [Ain't No Use](https://open.spotify.com/track/1k8AAfl7Eylt2alxE2qWAN) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B](https://open.spotify.com/album/0bAw54Ih5LQ7SmC7uJ0IUv) | 4:40 |
 | 33 | [Find A Way](https://open.spotify.com/track/3TkNsftUBh8dwwLUHpmYNC) | [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Subject](https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy) | 4:09 |
-| 34 | [Stay Together](https://open.spotify.com/track/0Gs5zsjp7Rp2i41yMgNxCf) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Pieces Of Me](https://open.spotify.com/album/73XPHadCmH3QpfhlMnte0C) | 3:56 |
-| 35 | [Let My People Go](https://open.spotify.com/track/260FtPzhpH7A0473nrMZ8R) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Let My People Go](https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA) | 3:58 |
+| 34 | [Let My People Go](https://open.spotify.com/track/260FtPzhpH7A0473nrMZ8R) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Let My People Go](https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA) | 3:58 |
+| 35 | [Stay Together](https://open.spotify.com/track/0Gs5zsjp7Rp2i41yMgNxCf) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Pieces Of Me](https://open.spotify.com/album/73XPHadCmH3QpfhlMnte0C) | 3:56 |
 | 36 | [GotItBad](https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Young Sick Camellia](https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL) | 4:50 |
 | 37 | [...Til the Cops Come Knockin' \- Remastered 2021](https://open.spotify.com/track/2x28X8t6xaomkkn1ssHJ5E) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 6:55 |
 | 38 | [Honey Dove](https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World](https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc) | 4:06 |
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 50 | [Blue Magic \(Waikiki\)](https://open.spotify.com/track/3auSQjs9kylJwN0aU7S5Qc) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 |
 | 51 | [Honest Man](https://open.spotify.com/track/5xdEYxSLIF1b7WC9NAHdcX) | [Fat Night](https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi) | [Honest Man](https://open.spotify.com/album/2DFtAZAQAHY7GGDPgljPC2) | 5:25 |
 | 52 | [Home Improvement](https://open.spotify.com/track/17O5F0I7FZJ009c9aKtWRo) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Rothstein](https://open.spotify.com/artist/0Qta34kIeeonfyC692s5b8) | [Indigo](https://open.spotify.com/album/7hwvmVx9NHOAmRHFgWZpe4) | 1:57 |
-| 53 | [Can't Change Me](https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9) | [N'Dambi](https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX) | [A Weird Kinda Wonderful](https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa) | 5:11 |
-| 54 | [The Way I Feel](https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh) | [Remy Shand](https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt) | [The Way I Feel](https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2) | 5:01 |
+| 53 | [Take You There](https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa) | [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [Take You There](https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR) | 3:32 |
+| 54 | [Can't Change Me](https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9) | [N'Dambi](https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX) | [A Weird Kinda Wonderful](https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa) | 5:11 |
 | 55 | [Cards](https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Underneath the Surface](https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35) | 4:14 |
-| 56 | [Take You There](https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa) | [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [Take You There](https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR) | 3:32 |
+| 56 | [The Way I Feel](https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh) | [Remy Shand](https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt) | [The Way I Feel](https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2) | 5:01 |
 | 57 | [Positivity](https://open.spotify.com/track/0wo02vddAWnvU6nJAwv4Wz) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Soul Revolution](https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8) | 3:19 |
 | 58 | [Who Do You Think You Are](https://open.spotify.com/track/06PqCTjgqD5SLemzSmg5OT) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Land of Possibilities](https://open.spotify.com/album/4w8jFeXUxgHokYQKZwJGsc) | 3:44 |
 | 59 | [All I Need](https://open.spotify.com/track/2mGWmvIIvs7jKEXxyh7Wfb) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Emma Jean](https://open.spotify.com/album/3u38Zm1pGlCrGZSsUk2396) | 3:34 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 69 | [Precious Love](https://open.spotify.com/track/4LpFfd70HLdNIoVXZplfxH) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [Special Night](https://open.spotify.com/album/02j4VRhJ7MKK0Jf3FtBBsD) | 4:38 |
 | 70 | [Question](https://open.spotify.com/track/06mrnjvi4UhBLOTdSLo3Yj) | [Fat Night](https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi) | [Live for Each Other](https://open.spotify.com/album/3LEPfjcf5STf3EQj9jEfBU) | 4:22 |
 | 71 | [Wishful Thinking](https://open.spotify.com/track/0edULMXqdv4qV7CcJ6Obvd) | [Vivian Green](https://open.spotify.com/artist/3t83f2J04dRWOpNBe9GTfs) | [A Love Story](https://open.spotify.com/album/2M5NsF6DS8Uemk6WcMewV4) | 4:04 |
-| 72 | [O\-O\-H Child](https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:05 |
+| 72 | [Lift Me Up](https://open.spotify.com/track/1uyj6ycPIp7i907LsGbUmA) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Roxie Ray](https://open.spotify.com/artist/6ZbBl2PqUW7wMAU2DnsDCG) | [Take from Me](https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3) | 4:29 |
 | 73 | [Soulman \- New English Version](https://open.spotify.com/track/7uooKN0tSNN6t6Pw3IJT1V) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Ben L'Oncle Soul](https://open.spotify.com/album/0cf7toJ9xKuKgsaTDwxaCj) | 3:42 |
-| 74 | [Lift Me Up](https://open.spotify.com/track/1uyj6ycPIp7i907LsGbUmA) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Roxie Ray](https://open.spotify.com/artist/6ZbBl2PqUW7wMAU2DnsDCG) | [Take from Me](https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3) | 4:29 |
+| 74 | [O\-O\-H Child](https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:05 |
 | 75 | [Souvenir](https://open.spotify.com/track/0DIcHQUp4f9j4Gym2Kn8nm) | [Shawn Lee](https://open.spotify.com/artist/47tCcKYrErv1FGvFCgGX8E), [Angels Of Libra](https://open.spotify.com/artist/3u6psmBj8ZGKHKRTHUGBDL) | [Bless My Soul](https://open.spotify.com/album/1rI2tm2skLmDF8Gmj4vjoN) | 3:46 |
 | 76 | [All For Love](https://open.spotify.com/track/6vU8If1zpZDzYQdTa2Rvgp) | [Adriana Evans](https://open.spotify.com/artist/6sCf6HW9zBhLN64XC8tRdv) | [El Camino](https://open.spotify.com/album/6qS7HFeGOxWm7zplMU419G) | 4:25 |
 | 77 | [Oh No \(Man\)](https://open.spotify.com/track/4Sb5YjpeDNMzEMFNfZTZuj) | [Chico DeBarge](https://open.spotify.com/artist/67ISVBZzcCTTKM17Ps00sx) | [Addiction](https://open.spotify.com/album/0l3NCq2SpDb7JGBS92WRd5) | 4:07 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 79 | [Glimmer](https://open.spotify.com/track/5Ddhny03U9xVCanImqrwju) | [Velvet Bloom](https://open.spotify.com/artist/1HiDrUs73y9fUOt8DjBH55) | [Glimmer](https://open.spotify.com/album/3FawGubjyjO7TxDISCalRD) | 3:11 |
 | 80 | [I Want](https://open.spotify.com/track/5z5mgD0gIZ5KBCQgyIUR3j) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [The Woman I Am](https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz) | 5:52 |
 
-Snapshot ID: `MCxiMzgyYzQyNWFkZWI1ZGY1MGVlNjc4Mjk0NGZjMzBjOThiMmFhZThj`
+Snapshot ID: `MCw0YzYyMjM4MTI4OTY3YTVlNmU4MDExZTY4OGYxNzllZGJjOWU3MWMx`

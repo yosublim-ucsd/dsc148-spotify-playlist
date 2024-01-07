@@ -4,7 +4,7 @@
 
 > El Top 50 de canciones en Instagram Reels, actualizado cada semana.
 
-58 songs - 2 hr 48 min
+59 songs - 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [La Diabla](https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Diabla](https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v) | 2:52 | 2023-12-13 |  |
 | [La Víctima](https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Víctima](https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr) | 2:36 | 2023-12-13 |  |
 | [LADY GAGA](https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:32 | 2023-12-13 |  |
-| [Little Life](https://open.spotify.com/track/3MBWR1rqc72QGiFIaOpKv6) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Caramel](https://open.spotify.com/album/0GgcxG8Xq5qN3rcYvjqzF0) | 4:30 | 2023-12-13 |  |
+| [Little Life](https://open.spotify.com/track/3MBWR1rqc72QGiFIaOpKv6) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Caramel](https://open.spotify.com/album/0GgcxG8Xq5qN3rcYvjqzF0) | 4:30 | 2023-12-13 | 2024-01-07 |
+| [Little Life](https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Caramel](https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o) | 4:30 | 2023-12-20 |  |
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2023-12-13 |  |
 | [Luminary](https://open.spotify.com/track/66pWxtaxTV8CxcGOvivZeT) | [Joel Sunny](https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym) | [Luminary](https://open.spotify.com/album/1Rp6be6Sf31WO6tNZY3eR9) | 3:09 | 2023-12-13 |  |
 | [Magical Fantasy](https://open.spotify.com/track/7HJv3cUOGwU1I2EDWYUCdS) | [Dmitriy Sevostyanov](https://open.spotify.com/artist/2EjhIBhwDZiastNGvRR0iN) | [Magical Fantasy](https://open.spotify.com/album/2DuvGdw9GE5lL2cRul3Rk2) | 2:08 | 2023-12-13 |  |

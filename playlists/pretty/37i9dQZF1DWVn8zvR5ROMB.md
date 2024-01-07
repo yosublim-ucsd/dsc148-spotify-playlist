@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Gabby Barrett, Graham Barham, Tigirlily Gold and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,687 likes - 41 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,871 likes - 41 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 11 | [I Know It’ll Never End](https://open.spotify.com/track/7mJF8GrNWZl5TRrGzqf6je) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [I Know It’ll Never End](https://open.spotify.com/album/6FZBJXoiTOMGScOWc0uepS) | 2:35 |
 | 12 | [Night In](https://open.spotify.com/track/3Qt9dcvy6bNpbl6nmiioDd) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Night In](https://open.spotify.com/album/5qfu1icLSwAFmYoehJ3kYN) | 3:27 |
 | 13 | [She'll Always Be](https://open.spotify.com/track/4d5v4HxtGr4J3eaX7KpByN) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [She'll Always Be](https://open.spotify.com/album/3eouDqZk9yvyHiRTaUbl8c) | 3:14 |
-| 14 | [Thats What Makes The World Go Around](https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [That's What Makes the World Go Around](https://open.spotify.com/album/0WJUACzppmRQemrlwap45e) | 3:17 |
+| 14 | [That's What Makes The World Go Around](https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [That's What Makes the World Go Around](https://open.spotify.com/album/0WJUACzppmRQemrlwap45e) | 3:17 |
 | 15 | [Like My Whiskey \(with Gretchen Wilson\)](https://open.spotify.com/track/4UEED41GV1zYDvR9Mzw2jk) | [Jessie G](https://open.spotify.com/artist/1gwUQtBkIL11BmSrr9VFBb), [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Like My Whiskey \(with Gretchen Wilson\)](https://open.spotify.com/album/4SLylCJK4K8lDILR3C1igN) | 3:01 |
 | 16 | [Nashville Cat](https://open.spotify.com/track/2QBSuLS6HDALW3OhQFjScJ) | [Sawyer Brown](https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97) | [Nashville Cat](https://open.spotify.com/album/63rZTnOijVCE2vYD3gwYVn) | 3:06 |
 | 17 | [Damn Good Friends \(feat\. Cleto Cordero\)](https://open.spotify.com/track/4zTTPZ75hYzYpiPXnlEbnb) | [Keller Cox](https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u), [Cleto Cordero](https://open.spotify.com/artist/127jOwnWSHgNKlKY34KVh3) | [Damn Good Friends](https://open.spotify.com/album/0q06gvA8Vgy2yjCg3SHdOI) | 3:48 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 40 | [Whiskey In Colorado](https://open.spotify.com/track/0k8Y2eteuwJwwpwsltovPs) | [Tony Stevens](https://open.spotify.com/artist/0YwklV2iGY9kq03JYJMtKN) | [Whiskey In Colorado](https://open.spotify.com/album/59Sb1Bj4NXFueQE8s743nG) | 2:52 |
 | 41 | [Last Frontier](https://open.spotify.com/track/6MbptM6zw9l2O0Um8AeaF2) | [Will Jones](https://open.spotify.com/artist/3O3IXkuwqV4wkD6WuvN5ER) | [Last Frontier](https://open.spotify.com/album/5DsmJjiDUKAQocTFCtU2Dt) | 3:28 |
 
-Snapshot ID: `MCxkNGE4MTczZWJmNzZmZjZjNjI4YTg1MTdkY2JlZmU1YWYzMmZhYzVh`
+Snapshot ID: `MCw4ZWEzMGJiYmRjYmI2ZWYzMGNiNjI1MzM5NjExMGZiOWQzZDM4OWUz`

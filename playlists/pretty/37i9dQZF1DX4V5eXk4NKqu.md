@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > The best Latin Indie tracks of today, featuring Silvestre y La Naranja.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,178 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,214 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 32 | [La Dosis](https://open.spotify.com/track/1whTkcaiWWR8HqWpgiN7XD) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [La Dosis](https://open.spotify.com/album/6REG6XsOTiPC2c7h7LfWVq) | 2:55 |
 | 33 | [Fútbol Rock](https://open.spotify.com/track/1et2VDNG2yWvhM5hYmbUQP) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Fútbol Rock](https://open.spotify.com/album/4RrNTXqxiZkwT1qAJVrdrR) | 4:13 |
 | 34 | [Uh](https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Uh](https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt) | 3:31 |
-| 35 | [VOYCONTODO](https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [VOYCONTODO](https://open.spotify.com/album/26hgcWKuQDN9SFca7Tekgy) | 2:17 |
-| 36 | [falco](https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [road 2 neverland](https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8) | 3:29 |
-| 37 | [NOS SOLTAMOS chiliado](https://open.spotify.com/track/3TIpyCI4AWifaJdIlNmTdv) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6), [Pablo Sotelo](https://open.spotify.com/artist/7JTIskra5uVup9ZyODtm0u) | [NOS SOLTAMOS chiliado](https://open.spotify.com/album/3Mmkzg9JwpsW5tMFXdR9TU) | 3:42 |
-| 38 | [Milanoche](https://open.spotify.com/track/22wu7UZqhnHJbAvqqD0GUO) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Milanoche](https://open.spotify.com/album/6XkOMebYPG1wpdHNtnAqlp) | 2:48 |
+| 35 | [NOS SOLTAMOS chiliado](https://open.spotify.com/track/3TIpyCI4AWifaJdIlNmTdv) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6), [Pablo Sotelo](https://open.spotify.com/artist/7JTIskra5uVup9ZyODtm0u) | [NOS SOLTAMOS chiliado](https://open.spotify.com/album/3Mmkzg9JwpsW5tMFXdR9TU) | 3:42 |
+| 36 | [VOYCONTODO](https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [VOYCONTODO](https://open.spotify.com/album/26hgcWKuQDN9SFca7Tekgy) | 2:17 |
+| 37 | [Milanoche](https://open.spotify.com/track/22wu7UZqhnHJbAvqqD0GUO) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Milanoche](https://open.spotify.com/album/6XkOMebYPG1wpdHNtnAqlp) | 2:48 |
+| 38 | [falco](https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [road 2 neverland](https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8) | 3:29 |
 | 39 | [Kaleidoscope](https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Kaleidoscope](https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd) | 2:59 |
 | 40 | [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 |
 | 41 | [Trampas](https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 3:08 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 63 | [Maybe Baby](https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/4tnEnvRN4d6GE6JpKzZNZe) | 3:47 |
 | 64 | [El Rayo Vallecano](https://open.spotify.com/track/5vfZy8DtOxmwsozEwmbAcd) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [El Rayo Vallecano](https://open.spotify.com/album/2cwftCb3SwCpNu1WILU6r5) | 2:50 |
 | 65 | [Leche de Tigre](https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 3:25 |
-| 66 | [DARK CLOUDS](https://open.spotify.com/track/2DR4WqM6nPQu9WYZkfA3h4) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck), [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [DARK CLOUDS](https://open.spotify.com/album/24TvL2gRe3EGpHOQ36fjWz) | 3:08 |
-| 67 | [en la ciudad](https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [dóntia](https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx) | [en la ciudad](https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM) | 3:31 |
+| 66 | [en la ciudad](https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [dóntia](https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx) | [en la ciudad](https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM) | 3:31 |
+| 67 | [DARK CLOUDS](https://open.spotify.com/track/2DR4WqM6nPQu9WYZkfA3h4) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck), [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [DARK CLOUDS](https://open.spotify.com/album/24TvL2gRe3EGpHOQ36fjWz) | 3:08 |
 | 68 | [Muerta de Frío](https://open.spotify.com/track/4jXfJMb6rEDc86zMC115pc) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4), [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8) | [Muerta de Frío](https://open.spotify.com/album/1gbqdDkwfvEWirx6po0YtY) | 4:18 |
 | 69 | [Cortada En La Frente](https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Cortada En La Frente](https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy) | 3:20 |
 | 70 | [Brillas en la Pista](https://open.spotify.com/track/07VHlK0Hmov13F7b6cEKMt) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Dos Cordilleras](https://open.spotify.com/album/5sqTnSZ1d0SOyoWbR1YjKA) | 2:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 74 | [No Puedo Olvidarte](https://open.spotify.com/track/1n6HUdzct5wsH4xUvPgwnF) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G), [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [No Puedo Olvidarte](https://open.spotify.com/album/07zsPKA92ljSmL6X6jNE4Y) | 3:27 |
 | 75 | [Siempre Tendré Mi Voz](https://open.spotify.com/track/54wJFzt61TudRFI8y49xWu) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Siempre Tendré Mi Voz](https://open.spotify.com/album/2c8dGA6npi8KtLB8fJqFr4) | 2:45 |
 
-Snapshot ID: `MCwzNjhmNmM0YjYyNzNjMzNmYTM3OTc5NTYxMDgwNjVjOTZkY2UwYzJj`
+Snapshot ID: `MCw1N2ZmOWRlZTUyMTAzOTRkMGYxN2IxZWI4MDMxM2QxMjJiZjg2Njhm`

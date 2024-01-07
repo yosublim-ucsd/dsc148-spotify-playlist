@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjI4YzQ0Y2ZjMTIwNjAxZjMwMGJjZWUwNmFmOTYyNTExOTM3ZWE3",
+  "snapshot_id": "MCwxYWNiNDhhOTA3OTIzYWRmZjA3ZDJkOGE0ZTk1MjI4ZTY1OTUwZGQw",
   "tracks": [
     {
       "added_at": "2023-11-25 18:27:48",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-11-25 18:27:48",
       "album": {
-        "name": "Just As I Am",
-        "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 125093,
-      "name": "Ain't No Sunshine",
-      "url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt"
-    },
-    {
-      "added_at": "2023-11-25 18:27:48",
-      "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 215733,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
+    },
+    {
+      "added_at": "2023-11-25 18:27:48",
+      "album": {
+        "name": "Just As I Am",
+        "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 125093,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt"
     },
     {
       "added_at": "2023-11-25 18:27:48",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-11-25 18:27:48",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 179693,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
-    },
-    {
-      "added_at": "2023-11-25 18:27:48",
-      "album": {
         "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 199396,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
+    },
+    {
+      "added_at": "2023-11-25 18:27:48",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 179693,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
     },
     {
       "added_at": "2023-11-25 18:27:48",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-11-25 18:27:48",
       "album": {
-        "name": "All The Little Lights",
-        "url": "https://open.spotify.com/album/52ukyDfkPmF4X6EcSYVfVJ"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "Let Her Go",
-      "url": "https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT"
-    },
-    {
-      "added_at": "2023-11-25 18:27:48",
-      "album": {
         "name": "Camino Palmero",
         "url": "https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 208600,
       "name": "Wherever You Will Go",
       "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
+    },
+    {
+      "added_at": "2023-11-25 18:27:48",
+      "album": {
+        "name": "All The Little Lights",
+        "url": "https://open.spotify.com/album/52ukyDfkPmF4X6EcSYVfVJ"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 252733,
+      "name": "Let Her Go",
+      "url": "https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT"
     },
     {
       "added_at": "2023-11-25 18:27:48",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-11-25 18:27:48",
       "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 289160,
-      "name": "I Have Nothing",
-      "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
-    },
-    {
-      "added_at": "2023-11-25 18:27:48",
-      "album": {
         "name": "Back To Black (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 233733,
       "name": "Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",
       "url": "https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr"
+    },
+    {
+      "added_at": "2023-11-25 18:27:48",
+      "album": {
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 289160,
+      "name": "I Have Nothing",
+      "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
     },
     {
       "added_at": "2023-11-25 18:27:48",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-11-25 18:27:48",
       "album": {
+        "name": "Come On Over (Diamond Edition / Super Deluxe)",
+        "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 212224,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/3x2ksaXI6EZUWidE2BiLXy"
+    },
+    {
+      "added_at": "2023-11-25 18:27:48",
+      "album": {
         "name": "Armageddon - The Album",
         "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
       },
@@ -963,18 +979,18 @@
     {
       "added_at": "2023-11-25 18:27:48",
       "album": {
-        "name": "Come On Over (Diamond Edition / Super Deluxe)",
-        "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 212224,
-      "name": "You're Still The One",
-      "url": "https://open.spotify.com/track/3x2ksaXI6EZUWidE2BiLXy"
+      "duration_ms": 286920,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
     },
     {
       "added_at": "2023-11-25 18:27:48",
@@ -1007,22 +1023,6 @@
       "duration_ms": 154800,
       "name": "Turn Me On",
       "url": "https://open.spotify.com/track/1qzHqfvKrZWo6dVHM1dXrj"
-    },
-    {
-      "added_at": "2023-11-25 18:27:48",
-      "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 286920,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
     },
     {
       "added_at": "2023-11-25 18:27:48",

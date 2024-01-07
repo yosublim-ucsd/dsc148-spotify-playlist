@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 
 > Music from TV shows and films nominated for the 81st Golden Globe Awards\. Watch Jan 7, 2024 on CBS and Paramount+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,823 likes - 33 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,827 likes - 33 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 32 | [Confirming Hal's Story](https://open.spotify.com/track/1HDs5K0y7hXzoVs6Gm8Udg) | [Nathan Barr](https://open.spotify.com/artist/0e0qyGBSGh9YwvpQFbkRBC), [Dimitri Smith](https://open.spotify.com/artist/6ri2hXvqVTXbfCWzeIxAnP) | [The Diplomat \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/54ihllvNENcMnfXCpxV9BB) | 1:09 |
 | 33 | [Forbidden Joy](https://open.spotify.com/track/5oSKfEgB2UhxP0ZRowITA7) | [Paul Leonard\-Morgan](https://open.spotify.com/artist/0360rTDeUjEyBXaz2Ki00a) | [Fellow Travelers \(Original Series Soundtrack\)](https://open.spotify.com/album/6Q93LklTcvLAysA2IhxHmP) | 1:33 |
 
-Snapshot ID: `MCxhMDFiM2YzYzJiNGM2N2E5NmNiOGNjZjgxMTNlMjBmZDRlOTMyYjI1`
+Snapshot ID: `MCw1ZWIzYzE2NzVjMmU4ZDQxNzQ2NmYxMjc5MWIzMjJjYzEzYzc3NGRm`

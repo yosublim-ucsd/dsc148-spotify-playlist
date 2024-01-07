@@ -1,12 +1,12 @@
 {
   "description": "Get your creative juices flowing with these instrumental masterpieces.",
-  "num_followers": 186324,
+  "num_followers": 186459,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MThkMjBmNzE2NjIwNmFkMTllZjg1ZGEwOGY5YTFiY2JiNWEwYTg2",
+  "snapshot_id": "MCxlNjFkNGE4MzhkOGY3MDE0OWRjOThmZTQxYThkNzExNWE3NmY4YzM1",
   "tracks": [
     {
       "added_at": "2023-02-09 09:05:31",
@@ -231,22 +231,22 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Baroque Conversations",
-        "url": "https://open.spotify.com/album/1GeySkyBOkMq1yWbRZW1CV"
+        "name": "Songs from the Arc of Life",
+        "url": "https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD"
       },
       "artists": [
         {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
         },
         {
-          "name": "David Greilsammer",
-          "url": "https://open.spotify.com/artist/03DDDfXOjkqWelBJntrTpX"
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
         }
       ],
-      "duration_ms": 96293,
-      "name": "Suite in D Minor, HWV 447: Allemande",
-      "url": "https://open.spotify.com/track/6k0PPC5BDLBvkBcikB3BBv"
+      "duration_ms": 160226,
+      "name": "Apr\u00e8s un r\u00eave, Op. 7, No. 1",
+      "url": "https://open.spotify.com/track/05yzhEWkmVXiigqWfcNTQS"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -271,22 +271,22 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Songs from the Arc of Life",
-        "url": "https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD"
+        "name": "Baroque Conversations",
+        "url": "https://open.spotify.com/album/1GeySkyBOkMq1yWbRZW1CV"
       },
       "artists": [
         {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
         },
         {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+          "name": "David Greilsammer",
+          "url": "https://open.spotify.com/artist/03DDDfXOjkqWelBJntrTpX"
         }
       ],
-      "duration_ms": 160226,
-      "name": "Apr\u00e8s un r\u00eave, Op. 7, No. 1",
-      "url": "https://open.spotify.com/track/05yzhEWkmVXiigqWfcNTQS"
+      "duration_ms": 96293,
+      "name": "Suite in D Minor, HWV 447: Allemande",
+      "url": "https://open.spotify.com/track/6k0PPC5BDLBvkBcikB3BBv"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -951,6 +951,30 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
+        "name": "Early One Morning",
+        "url": "https://open.spotify.com/album/4fYC3U6IjW0DrxgR06hWqe"
+      },
+      "artists": [
+        {
+          "name": "Oskar Merikanto",
+          "url": "https://open.spotify.com/artist/79AE2ZiBtN7Qbcbr5dGIwd"
+        },
+        {
+          "name": "Jorma Panula",
+          "url": "https://open.spotify.com/artist/6F5qpnsKmlsYVbh8iB4TCi"
+        },
+        {
+          "name": "Camerata Finlandia",
+          "url": "https://open.spotify.com/artist/5d50sz80VdFchQOw37sZ5w"
+        }
+      ],
+      "duration_ms": 78066,
+      "name": "Kesaillan idylli (Summer Night's Idyll) , Op. 16, No. 2 (arr. J. Panula)",
+      "url": "https://open.spotify.com/track/2Y9DRm38cPNvXQn1sJ8Tnw"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
         "name": "Rodrigo: Concierto de Aranjuez; Fantas\u00eda para un gentilhombre etc.",
         "url": "https://open.spotify.com/album/2B6figtx2ZMK6vsLqdKvHZ"
       },
@@ -995,30 +1019,6 @@
       "duration_ms": 191853,
       "name": "Nocturne No. 2 in C Minor, H.25",
       "url": "https://open.spotify.com/track/0r4MwV7YMWcQQdWgWIn9c9"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
-        "name": "Early One Morning",
-        "url": "https://open.spotify.com/album/4fYC3U6IjW0DrxgR06hWqe"
-      },
-      "artists": [
-        {
-          "name": "Oskar Merikanto",
-          "url": "https://open.spotify.com/artist/79AE2ZiBtN7Qbcbr5dGIwd"
-        },
-        {
-          "name": "Jorma Panula",
-          "url": "https://open.spotify.com/artist/6F5qpnsKmlsYVbh8iB4TCi"
-        },
-        {
-          "name": "Camerata Finlandia",
-          "url": "https://open.spotify.com/artist/5d50sz80VdFchQOw37sZ5w"
-        }
-      ],
-      "duration_ms": 78066,
-      "name": "Kesaillan idylli (Summer Night's Idyll) , Op. 16, No. 2 (arr. J. Panula)",
-      "url": "https://open.spotify.com/track/2Y9DRm38cPNvXQn1sJ8Tnw"
     },
     {
       "added_at": "2023-02-09 09:05:31",

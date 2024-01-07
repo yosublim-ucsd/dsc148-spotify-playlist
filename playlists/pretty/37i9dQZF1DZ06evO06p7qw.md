@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 
 > This is Manuel Medrano\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,290 likes - 28 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,389 likes - 28 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 | 27 | [Te Lastimé](https://open.spotify.com/track/644e2A7OrjKecbT31eZ3dU) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Te Lastimé](https://open.spotify.com/album/3NiY4M0jMYZP9NkAziX41p) | 3:41 |
 | 28 | [Polvo De Estrellas](https://open.spotify.com/track/7kNIFgiurMWE3dB93hbEPE) | [Alberto Plaza](https://open.spotify.com/artist/0Up8AZmXDecXiMirZhRLmw), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Polvo De Estrellas](https://open.spotify.com/album/1yBh12xHy3FXpXvQvRwadu) | 3:47 |
 
-Snapshot ID: `Mjg0MDc3MDMsMDAwMDAwMDA1YmViODA5MzI3NGY1NjUyZDhhOTE4ZjM2ZTQ5NWQzNw==`
+Snapshot ID: `Mjg0MDkwNTUsMDAwMDAwMDBjNmRkOGQ2MThlZTRhZWU0N2RhYTA0NDAyMjMwMTM0ZA==`

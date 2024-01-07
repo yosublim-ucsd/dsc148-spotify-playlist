@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 119046,
+  "num_followers": 119096,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWUwNTFjZTIyZGE5YzZhNmE5ZTFjMTI0NDk4NzcwMzE2M2IzODFj",
+  "snapshot_id": "MCxkY2NmOWQzNTM2NzA1NGNhZGEzMTlkNWI1NjdmMmYxZGYwOTNhNjEy",
   "tracks": [
     {
       "added_at": "2024-01-05 13:32:37",
@@ -755,30 +755,6 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
-        "name": "Onde Eu Quero Habitar",
-        "url": "https://open.spotify.com/album/0MfpVRkb3k8zJTFw8NfPmR"
-      },
-      "artists": [
-        {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
-        },
-        {
-          "name": "Amanda Loyola",
-          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
-        },
-        {
-          "name": "Guilherme Galdino",
-          "url": "https://open.spotify.com/artist/7bHkQ6LugcJxdpLCPn9LRA"
-        }
-      ],
-      "duration_ms": 242990,
-      "name": "Onde Eu Quero Habitar",
-      "url": "https://open.spotify.com/track/6W4DedZJXKRSR9zlpvL2cY"
-    },
-    {
-      "added_at": "2024-01-05 13:32:37",
-      "album": {
         "name": "Uma Vida \u00c9 Pouco pra Te Amar (Remix)",
         "url": "https://open.spotify.com/album/25tMLrsvNjbljb3BwGShD0"
       },
@@ -799,6 +775,30 @@
       "duration_ms": 161169,
       "name": "Uma Vida \u00c9 Pouco pra Te Amar - Remix",
       "url": "https://open.spotify.com/track/0QkcBA3DzmzsHAspxqcvZ2"
+    },
+    {
+      "added_at": "2024-01-05 13:32:37",
+      "album": {
+        "name": "Onde Eu Quero Habitar",
+        "url": "https://open.spotify.com/album/0MfpVRkb3k8zJTFw8NfPmR"
+      },
+      "artists": [
+        {
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+        },
+        {
+          "name": "Amanda Loyola",
+          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
+        },
+        {
+          "name": "Guilherme Galdino",
+          "url": "https://open.spotify.com/artist/7bHkQ6LugcJxdpLCPn9LRA"
+        }
+      ],
+      "duration_ms": 242990,
+      "name": "Onde Eu Quero Habitar",
+      "url": "https://open.spotify.com/track/6W4DedZJXKRSR9zlpvL2cY"
     },
     {
       "added_at": "2024-01-05 13:32:37",

@@ -1,12 +1,12 @@
 {
   "description": "(Taylor's Version)",
-  "num_followers": 530864,
+  "num_followers": 530907,
   "original_name": "*hits different*",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWRlZWNlYzU0YzlhNGY2YWIxZjFlMGM3YjU0YTk1YWExOGU1ZmQ1",
+  "snapshot_id": "MCwyMzhmMWJmOGYzYTQ2ZTk0N2YxZTMwMWNjYmI0ZWFiNmZiYjZhYmZk",
   "tracks": [
     {
       "added_at": "2024-01-04 02:54:50",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-01-04 02:54:50",
       "album": {
+        "name": "emails i can\u2019t send fwd:",
+        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 185552,
+      "name": "Feather",
+      "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
+    },
+    {
+      "added_at": "2024-01-04 02:54:50",
+      "album": {
         "name": "Something in the Orange",
         "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
-    },
-    {
-      "added_at": "2024-01-04 02:54:50",
-      "album": {
-        "name": "emails i can\u2019t send fwd:",
-        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 185552,
-      "name": "Feather",
-      "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
     },
     {
       "added_at": "2024-01-04 02:54:50",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-01-04 02:54:50",
       "album": {
-        "name": "emails i can't send",
-        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 163648,
-      "name": "Nonsense",
-      "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
-    },
-    {
-      "added_at": "2024-01-04 02:54:50",
-      "album": {
         "name": "Say Yes To Heaven",
         "url": "https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 226600,
       "name": "Night Changes",
       "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
+    },
+    {
+      "added_at": "2024-01-04 02:54:50",
+      "album": {
+        "name": "emails i can't send",
+        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 163648,
+      "name": "Nonsense",
+      "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
     },
     {
       "added_at": "2024-01-04 02:54:50",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-01-04 02:54:50",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 211141,
-      "name": "get him back!",
-      "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
-    },
-    {
-      "added_at": "2024-01-04 02:54:50",
-      "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 180869,
       "name": "Everybody (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T"
+    },
+    {
+      "added_at": "2024-01-04 02:54:50",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 211141,
+      "name": "get him back!",
+      "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
     },
     {
       "added_at": "2024-01-04 02:54:50",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-01-04 02:54:50",
       "album": {
-        "name": "Tell Me It's Real (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
-      },
-      "artists": [
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 229173,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
-    },
-    {
-      "added_at": "2024-01-04 02:54:50",
-      "album": {
         "name": "THINK LATER",
         "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 143940,
       "name": "run for the hills",
       "url": "https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu"
+    },
+    {
+      "added_at": "2024-01-04 02:54:50",
+      "album": {
+        "name": "Tell Me It's Real (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "duration_ms": 229173,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
     },
     {
       "added_at": "2024-01-04 02:54:50",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-01-04 02:54:50",
       "album": {
-        "name": "melanchole",
-        "url": "https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx"
-      },
-      "artists": [
-        {
-          "name": "salvia palth",
-          "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
-        }
-      ],
-      "duration_ms": 161462,
-      "name": "i was all over her",
-      "url": "https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS"
-    },
-    {
-      "added_at": "2024-01-04 02:54:50",
-      "album": {
         "name": "reputation Stadium Tour Surprise Song Playlist",
         "url": "https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 247160,
       "name": "I Don\u2019t Wanna Live Forever (Fifty Shades Darker)",
       "url": "https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y"
+    },
+    {
+      "added_at": "2024-01-04 02:54:50",
+      "album": {
+        "name": "melanchole",
+        "url": "https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx"
+      },
+      "artists": [
+        {
+          "name": "salvia palth",
+          "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
+        }
+      ],
+      "duration_ms": 161462,
+      "name": "i was all over her",
+      "url": "https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS"
     },
     {
       "added_at": "2024-01-04 02:54:50",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-01-04 02:54:50",
       "album": {
-        "name": "Glimpse of Us",
-        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 233456,
-      "name": "Glimpse of Us",
-      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
-    },
-    {
-      "added_at": "2024-01-04 02:54:50",
-      "album": {
         "name": "Flicker (Deluxe)",
         "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 232852,
       "name": "This Town",
       "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
+    },
+    {
+      "added_at": "2024-01-04 02:54:50",
+      "album": {
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
       "added_at": "2024-01-04 02:54:50",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-01-04 02:54:50",
       "album": {
-        "name": "Somebody's Pleasure",
-        "url": "https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y"
-      },
-      "artists": [
-        {
-          "name": "Aziz Hedra",
-          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
-        }
-      ],
-      "duration_ms": 223957,
-      "name": "Somebody's Pleasure",
-      "url": "https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR"
-    },
-    {
-      "added_at": "2024-01-04 02:54:50",
-      "album": {
         "name": "Static",
         "url": "https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 223746,
       "name": "Always Forever",
       "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
+    },
+    {
+      "added_at": "2024-01-04 02:54:50",
+      "album": {
+        "name": "Somebody's Pleasure",
+        "url": "https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y"
+      },
+      "artists": [
+        {
+          "name": "Aziz Hedra",
+          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
+        }
+      ],
+      "duration_ms": 223957,
+      "name": "Somebody's Pleasure",
+      "url": "https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR"
     },
     {
       "added_at": "2024-01-04 02:54:50",

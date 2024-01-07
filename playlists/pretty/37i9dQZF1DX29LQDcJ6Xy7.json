@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 311840,
+  "num_followers": 311977,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDEwMDFlNTZlMTVhNDYzNTAyZWNhNWFlMTFjNTQ0NDM5OTYwZWYy",
+  "snapshot_id": "MCw3NmY0MTNmYTE5OWEwNThlN2Q4M2QzNjc5Njg4NmQzZDgzNjAzNmI3",
   "tracks": [
     {
       "added_at": "2023-11-14 16:28:50",
@@ -735,22 +735,18 @@
     {
       "added_at": "2023-11-14 16:28:50",
       "album": {
-        "name": "Merchant of the Void",
-        "url": "https://open.spotify.com/album/4DpUdsgqbQekAluRjffr08"
+        "name": "Angst",
+        "url": "https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY"
       },
       "artists": [
         {
-          "name": "3TEETH",
-          "url": "https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2"
-        },
-        {
-          "name": "Mick Gordon",
-          "url": "https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y"
+          "name": "KMFDM",
+          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
         }
       ],
-      "duration_ms": 212814,
-      "name": "Merchant of the Void",
-      "url": "https://open.spotify.com/track/3BIQ9Y3WCwRWZju6jHXHuA"
+      "duration_ms": 215000,
+      "name": "A Drug Against War",
+      "url": "https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7"
     },
     {
       "added_at": "2023-11-14 16:28:50",
@@ -771,18 +767,22 @@
     {
       "added_at": "2023-11-14 16:28:50",
       "album": {
-        "name": "Angst",
-        "url": "https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY"
+        "name": "Merchant of the Void",
+        "url": "https://open.spotify.com/album/4DpUdsgqbQekAluRjffr08"
       },
       "artists": [
         {
-          "name": "KMFDM",
-          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
+          "name": "3TEETH",
+          "url": "https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2"
+        },
+        {
+          "name": "Mick Gordon",
+          "url": "https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y"
         }
       ],
-      "duration_ms": 215000,
-      "name": "A Drug Against War",
-      "url": "https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7"
+      "duration_ms": 212814,
+      "name": "Merchant of the Void",
+      "url": "https://open.spotify.com/track/3BIQ9Y3WCwRWZju6jHXHuA"
     },
     {
       "added_at": "2023-11-14 16:28:50",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-11-14 16:28:50",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/0KNQf80HEtQ4EXQKg0MSD6"
-      },
-      "artists": [
-        {
-          "name": "Pain",
-          "url": "https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1"
-        }
-      ],
-      "duration_ms": 243400,
-      "name": "End Of The Line",
-      "url": "https://open.spotify.com/track/25gdaVFJL17lx7sysc8Pul"
-    },
-    {
-      "added_at": "2023-11-14 16:28:50",
-      "album": {
         "name": "Satellites",
         "url": "https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 316701,
       "name": "Into the Void",
       "url": "https://open.spotify.com/track/2zAAXQbzIB5e2VpBiGI8SI"
+    },
+    {
+      "added_at": "2023-11-14 16:28:50",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/0KNQf80HEtQ4EXQKg0MSD6"
+      },
+      "artists": [
+        {
+          "name": "Pain",
+          "url": "https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1"
+        }
+      ],
+      "duration_ms": 243400,
+      "name": "End Of The Line",
+      "url": "https://open.spotify.com/track/25gdaVFJL17lx7sysc8Pul"
     },
     {
       "added_at": "2023-11-14 16:28:50",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-11-14 16:28:50",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/5PQYQdOU14ivWxFlBrh5PN"
-      },
-      "artists": [
-        {
-          "name": "Prick",
-          "url": "https://open.spotify.com/artist/4hILJw5uchW1ZZJO10icIz"
-        }
-      ],
-      "duration_ms": 255111,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/0ppkIgN7FXvAtHD95pMvRH"
-    },
-    {
-      "added_at": "2023-11-14 16:28:50",
-      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/3Rl2iVccsforOkAyvahXa0"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 187422,
       "name": "Justice Way",
       "url": "https://open.spotify.com/track/6gshopMLlSl0KP4ZNHp7qw"
+    },
+    {
+      "added_at": "2023-11-14 16:28:50",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/5PQYQdOU14ivWxFlBrh5PN"
+      },
+      "artists": [
+        {
+          "name": "Prick",
+          "url": "https://open.spotify.com/artist/4hILJw5uchW1ZZJO10icIz"
+        }
+      ],
+      "duration_ms": 255111,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/0ppkIgN7FXvAtHD95pMvRH"
     },
     {
       "added_at": "2023-11-14 16:28:50",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-11-14 16:28:50",
       "album": {
-        "name": "Digital Gods",
-        "url": "https://open.spotify.com/album/2dhSJeHtfSCcpEwyQCikfc"
-      },
-      "artists": [
-        {
-          "name": "Oddko",
-          "url": "https://open.spotify.com/artist/1UVYxhc5UIS5VLvUXrSo81"
-        }
-      ],
-      "duration_ms": 206346,
-      "name": "D4TM",
-      "url": "https://open.spotify.com/track/6S4Q0HDqHDsdcmfFNvyc8y"
-    },
-    {
-      "added_at": "2023-11-14 16:28:50",
-      "album": {
         "name": "Eurotrash",
         "url": "https://open.spotify.com/album/63o4mkCR9nAyiAsKA1UlxI"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 198333,
       "name": "Doctor Online",
       "url": "https://open.spotify.com/track/0aZQyZyQ41fb12tJdYVa5H"
+    },
+    {
+      "added_at": "2023-11-14 16:28:50",
+      "album": {
+        "name": "Digital Gods",
+        "url": "https://open.spotify.com/album/2dhSJeHtfSCcpEwyQCikfc"
+      },
+      "artists": [
+        {
+          "name": "Oddko",
+          "url": "https://open.spotify.com/artist/1UVYxhc5UIS5VLvUXrSo81"
+        }
+      ],
+      "duration_ms": 206346,
+      "name": "D4TM",
+      "url": "https://open.spotify.com/track/6S4Q0HDqHDsdcmfFNvyc8y"
     },
     {
       "added_at": "2023-11-14 16:28:50",

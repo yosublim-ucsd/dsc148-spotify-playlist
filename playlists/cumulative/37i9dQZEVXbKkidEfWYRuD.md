@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,354 songs - 2 day 14 hr 33 min
+1,355 songs - 2 day 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Drug 2.0](https://open.spotify.com/track/5ByxpTTH6KSqkSlBvQhJXn) | [Boulevard Depo](https://open.spotify.com/artist/7dH8w9flSy9w81ilr0xXWe), [SP4K](https://open.spotify.com/artist/1ju3JsvJuNAMjxoIqaSP7R) | [QWERTY LANG](https://open.spotify.com/album/4nQp6yhjeUyc2KDg5I6z1R) | 2:06 | 2021-12-12 | 2021-12-13 |
 | [Dying 2 Live](https://open.spotify.com/track/1E9hNjQeyecspfUZVmM4ZK) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [Dying 2 Live](https://open.spotify.com/album/7yMQk27W7SKWEUgn30vglk) | 2:41 | 2023-09-16 | 2023-10-04 |
 | [Dying 2 Live](https://open.spotify.com/track/1NI1CZQnPqcjVdbFkQnfo4) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [VARSKVA](https://open.spotify.com/album/1Qk2lItE5KiD5DqKZpd31w) | 2:41 | 2023-11-25 | 2023-11-27 |
+| [Dym](https://open.spotify.com/track/7iKWfLpI28LDznDE5vTkoS) | [Clonnex](https://open.spotify.com/artist/3NOlXM7t15vx8M9hwmQc9L), [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ) | [Dym](https://open.spotify.com/album/39fGS3KLVq8dxL97olhQzk) | 2:05 | 2024-01-06 |  |
 | [Dynamite](https://open.spotify.com/track/4saklk6nie3yiGePpBwUoc) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:19 | 2021-05-23 | 2021-05-24 |
 | [Early Morning](https://open.spotify.com/track/5qYbi37td5wWj2MMoW7hrt) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [Gremlin](https://open.spotify.com/album/2uHdy4aBVNDcUzvZ2h8YFy) | 2:51 | 2023-07-29 | 2023-07-31 |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-10-17 | 2021-10-22 |
@@ -807,7 +808,7 @@
 | [Вечорниці \- Добрий день Everybody](https://open.spotify.com/track/64Qnw6jO2dnkjV9una5peq) | [100лиця](https://open.spotify.com/artist/5YgAXaiDXfn1JotXCdJg8W), [SKYLERR](https://open.spotify.com/artist/4yAxWAp7yFeQJu9la6eaCg) | [Вечорниці \(Добрий день Everybody\)](https://open.spotify.com/album/2xLIphVbPBm4XBeY90WVOW) | 2:53 | 2022-07-23 | 2023-01-20 |
 | [Вибач..](https://open.spotify.com/track/5VFiYRqGCvPyf6d5wl4ZAs) | [Orexov Mk](https://open.spotify.com/artist/5YnMlZGHOz72FJLuOreIGH) | [Вибач..](https://open.spotify.com/album/5uV23QvPXOLM1I52ssgd54) | 2:40 | 2023-07-10 | 2023-07-16 |
 | [Вина \(feat\. 17 SEVENTEEN\)](https://open.spotify.com/track/1Kp2TF4fFYjJPqEMf1U0RK) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C), [17 SEVENTEEN](https://open.spotify.com/artist/496nklFjflGjJOhhfhH2Nc) | [Вина \(feat\. 17 SEVENTEEN\)](https://open.spotify.com/album/48lVuuPvgKZlT9dTiDkl9D) | 2:46 | 2021-12-18 | 2022-02-13 |
-| [Витя](https://open.spotify.com/track/1oHTZnY1leFnTBruOq5kTU) | [5mewmet](https://open.spotify.com/artist/6M09SBwYD0F13PjIavxbih) | [Кетаминовая Яма 2](https://open.spotify.com/album/4HPtCceldRKrNLeJcBuSWk) | 1:57 | 2023-12-26 |  |
+| [Витя](https://open.spotify.com/track/1oHTZnY1leFnTBruOq5kTU) | [5mewmet](https://open.spotify.com/artist/6M09SBwYD0F13PjIavxbih) | [Кетаминовая Яма 2](https://open.spotify.com/album/4HPtCceldRKrNLeJcBuSWk) | 1:57 | 2023-12-26 | 2024-01-07 |
 | [Вишнi](https://open.spotify.com/track/1xHs6PLjlvqihewyitoP3A) | [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz) | [Вишнi](https://open.spotify.com/album/0npmuVcGDzW4y5CS5wnwBV) | 3:03 | 2022-05-02 | 2023-04-25 |
 | [Вище хмар](https://open.spotify.com/track/6ORlYPfvTXPZ4aHWVRp3Ey) | [SHUMEI](https://open.spotify.com/artist/1BtGSVQey2HyYbFiw8O1mz) | [Вище хмар](https://open.spotify.com/album/36WXcYSqADEarsZVVjUL6n) | 3:21 | 2023-09-12 | 2023-10-15 |
 | [ВЛЮБИЛАСЬ](https://open.spotify.com/track/3bbkkPpf8AdRU6DurnvoC4) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [Молодой Платон](https://open.spotify.com/artist/3yUI9YVLxfPiQHOv07gwAi) | [ВЛЮБИЛАСЬ](https://open.spotify.com/album/3dwpDc8PXNfohyFhYU1xzQ) | 3:36 | 2021-12-18 | 2022-04-03 |
@@ -957,7 +958,7 @@
 | [Капли](https://open.spotify.com/track/0LwPFTgtNaQrfyWHM42Z83) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [Дора](https://open.spotify.com/artist/2eiThpX5zH6LFmqP2HY1hL) | [Капли](https://open.spotify.com/album/2G5WhV5vAbitKizDrCX8ry) | 2:40 | 2022-04-16 | 2022-04-25 |
 | [Карманы](https://open.spotify.com/track/4VMD5B8Om6Oo7fFhMOcyGg) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Психи попадают в топ](https://open.spotify.com/album/1P6SeYoLzFyj0tBhSxK3t1) | 5:12 | 2021-12-18 | 2021-12-19 |
 | [Карусель](https://open.spotify.com/track/7hTEDmot0y3DilKQZid6Q9) | [Markul](https://open.spotify.com/artist/3Vfd5HJnhjnvdyuQYHtYa2) | [Sense Of Human](https://open.spotify.com/album/1cV2HrhbAAlW4F348o8Bxm) | 2:28 | 2021-10-17 | 2021-10-23 |
-| [Касета](https://open.spotify.com/track/4MQmxIxM5CXKjdq4IrCWhd) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Cassette](https://open.spotify.com/album/0Wn5sHYtC7vPPX0n2AVJmF) | 2:24 | 2022-04-20 |  |
+| [Касета](https://open.spotify.com/track/4MQmxIxM5CXKjdq4IrCWhd) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Cassette](https://open.spotify.com/album/0Wn5sHYtC7vPPX0n2AVJmF) | 2:24 | 2022-04-20 | 2024-01-07 |
 | [Квіти](https://open.spotify.com/track/1BBXxqH8gdhsic0GeKD11U) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Квіти](https://open.spotify.com/album/7oSD0T1aolSFWD1nYwM4YQ) | 2:01 | 2023-06-17 | 2023-06-19 |
 | [Киллер \(Prod\. by malenkiyyarche x kayyo\)](https://open.spotify.com/track/3d67iioYf1Hvt2b7ncDzZv) | [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C) | [ЗАПРАВКА КИД 2](https://open.spotify.com/album/2Fw2CNrwvmKKoEIgtnaara) | 1:08 | 2021-03-27 | 2021-03-29 |
 | [кискис](https://open.spotify.com/track/6yUw6FLB1g8DqZUv7S5TKA) | [zhanulka](https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv) | [кискис](https://open.spotify.com/album/6ursd41l2w1YvIgiYIVtDK) | 2:50 | 2021-04-03 | 2021-04-28 |
@@ -1081,7 +1082,7 @@
 | [ночь](https://open.spotify.com/track/0Mfjy6p9vZsfzbQReWdooZ) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01) | 2:29 | 2021-06-28 | 2022-03-03 |
 | [Ночь, Такси, Заметки](https://open.spotify.com/track/7cePdbh3eZF9thPis8xsnm) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [LAST ONE](https://open.spotify.com/album/3Mp2TOTZpTGvU1cExaHs7w) | 2:48 | 2022-10-22 | 2022-10-27 |
 | [НУЛЕВЫЕ \[prod\. by Heroinwater, Wex\]](https://open.spotify.com/track/6HIGMLDwzKoGnly5YhGEsf) | [SODA LUV](https://open.spotify.com/artist/3TikHXhctY4FUIMlkl0tzR), [PINQ](https://open.spotify.com/artist/3xYxH7G5JimR1F1thIZYAQ) | [КОТЬ! КОТЬ!](https://open.spotify.com/album/67llcOfrH7DmC5yMmRd4UB) | 1:28 | 2021-04-04 | 2021-04-05 |
-| [Ніченька](https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9) | [OKS](https://open.spotify.com/artist/6fBUVJW6cDrYluXjnnRdY4) | [Ніченька](https://open.spotify.com/album/1AgFkAlDnn0SyUWFbjILrT) | 3:09 | 2023-09-23 | 2023-10-27 |
+| [Ніченька](https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9) | [OKS](https://open.spotify.com/artist/6fBUVJW6cDrYluXjnnRdY4) | [Ніченька](https://open.spotify.com/album/1AgFkAlDnn0SyUWFbjILrT) | 3:09 | 2023-09-23 |  |
 | [Обиделись](https://open.spotify.com/track/0404hSejXWTLLu2CyCGH11) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [FREERIO 2](https://open.spotify.com/album/4Bxc3xz4eRLzZBfluYRfiP) | 1:14 | 2022-04-30 | 2022-05-02 |
 | [Обычный парень \(feat\. Ivanzolo2004\)](https://open.spotify.com/track/6wD86mo1HN24MDlK8JR5ou) | [Nekoglai](https://open.spotify.com/artist/2TaI860P5qyn702NYQy7AP), [ivanzolo2004](https://open.spotify.com/artist/3ofBMYovLV5vmKWNnYkie9) | [Обычный парень \(feat\. Ivanzolo2004\)](https://open.spotify.com/album/5wQ0hXUTgWePf3IjKi7pvO) | 1:46 | 2022-02-12 | 2022-02-14 |
 | [Обійми](https://open.spotify.com/track/5561HkcMU0A4i3D6Tlsxhe) | [Okean Elzy](https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS) | [Земля](https://open.spotify.com/album/0KS4481ykVKBbjIsxlvyyN) | 3:44 | 2022-02-25 | 2022-03-11 |

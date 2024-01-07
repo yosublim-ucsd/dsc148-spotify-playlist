@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 
 > This is Los Jaivas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,890 likes - 50 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,918 likes - 50 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 | 34 | [Indio Hermano \(Versión 1996\)](https://open.spotify.com/track/5L55AmtdsVfoik6jLkzkvV) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Trilogía el Rencuentro](https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV) | 6:01 |
 | 35 | [Cerro de la Virgen](https://open.spotify.com/track/1H3lfORDVEnJMCSedVLyP2) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Mamalluca: Obras Sinfónicas, Vol\. 1](https://open.spotify.com/album/7nRGejKBPqqNDa6luZvKnP) | 6:55 |
 | 36 | [Que o la Tumba Serás](https://open.spotify.com/track/6u3yREOoWqCRdydlHnPmFC) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [El Volantín](https://open.spotify.com/album/4XKY7trbYYQIDJPzTngfuz) | 3:22 |
-| 37 | [La Quebrá del Ají \(Remasterizado 2020\)](https://open.spotify.com/track/4kF8dikOtIXirzaj0RFAH8) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [La Ventana \(Remasterizado 2020\)](https://open.spotify.com/album/2UA6E9ixt1ukbgsiAB6Xs4) | 4:43 |
+| 37 | [Sueño Del Inca](https://open.spotify.com/track/3y0BB4Af1j5F4AcE5BNCN0) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Serie De Oro](https://open.spotify.com/album/7A7yT68R727jeKLxPOAiRj) | 3:43 |
 | 38 | [Cholito Pantalón Blanco](https://open.spotify.com/track/3OjqJR8bOY1yNiBGt5iJaV) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Trilogía el Rencuentro](https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV) | 5:02 |
-| 39 | [Sueño Del Inca](https://open.spotify.com/track/3y0BB4Af1j5F4AcE5BNCN0) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Serie De Oro](https://open.spotify.com/album/7A7yT68R727jeKLxPOAiRj) | 3:43 |
+| 39 | [La Quebrá del Ají \(Remasterizado 2020\)](https://open.spotify.com/track/4kF8dikOtIXirzaj0RFAH8) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [La Ventana \(Remasterizado 2020\)](https://open.spotify.com/album/2UA6E9ixt1ukbgsiAB6Xs4) | 4:43 |
 | 40 | [Foto de Primera Comunión](https://open.spotify.com/track/6QFtJ2309fzZS0ioRwzQYG) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [El Volantín](https://open.spotify.com/album/4XKY7trbYYQIDJPzTngfuz) | 6:34 |
 | 41 | [Arrebol](https://open.spotify.com/track/6jKbQFXeH2rzcR7t6wdOJ4) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Arrebol](https://open.spotify.com/album/6lGNFZFMOkuF1x7drMMaGW) | 6:48 |
 | 42 | [Niña Serrana \(En Vivo\)](https://open.spotify.com/track/1kqutTDOwYGSDilE2jfFdI) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Jaivas En Vivo: Gira Chile '88](https://open.spotify.com/album/2zqHuam4s6Fwf2iU7d6Ntp) | 4:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 | 49 | [El Tambo](https://open.spotify.com/track/3VlFOa5NaH3Mb8RtmSG6oj) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Mamalluca: Obras Sinfónicas, Vol\. 1](https://open.spotify.com/album/7nRGejKBPqqNDa6luZvKnP) | 4:50 |
 | 50 | [Vamos por Ancho Camino](https://open.spotify.com/track/0E9a6gOCbNZJuI9ZeaF8F1) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Arrebol](https://open.spotify.com/album/6lGNFZFMOkuF1x7drMMaGW) | 3:12 |
 
-Snapshot ID: `Mjg0MDc3MDMsMDAwMDAwMDA2MjI2MzY4YmM5YzIxMTgxMTdiZWJlNjg2Y2I1MDE3Yw==`
+Snapshot ID: `Mjg0MDkwNTYsMDAwMDAwMDBjZGUzZWNhZGVmZDE5NDE0YzQzYzQ3M2ZjNWI2OTQxMg==`

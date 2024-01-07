@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Silent Planet on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,473,854 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,474,158 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [SIRENS](https://open.spotify.com/track/4JPndG4JDXqXEm6gQRYDby) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [SIRENS](https://open.spotify.com/album/6fxrclXOlgVWkNXBnsScoU) | 3:36 |
 | 75 | [Revelation](https://open.spotify.com/track/0cWQy0wDjVJbuUDDZabWfu) | [Many Eyes](https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb) | [Revelation](https://open.spotify.com/album/3IZrMNBLyFuhJYlVRgPdhD) | 4:13 |
 
-Snapshot ID: `MCwwZjAzY2VjYjM4NGZjMzEzOTExNTZhNGRmODkxYTI5YmU0NTlmOWUx`
+Snapshot ID: `MCw4OTEzMjQwMWI3YzY4NjNhYzU2Y2YwOTY5YTFmMzcxMmZjY2UyOTMx`

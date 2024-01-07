@@ -4,7 +4,7 @@
 
 > n3xt l3v3l gaming beats.
 
-225 songs - 9 hr 6 min
+227 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Handprints](https://open.spotify.com/track/1gJrZGrE3RZ8HhS45OuqTq) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Handprints](https://open.spotify.com/album/5hAgnNl3k9ZxYsK1131fbd) | 1:14 | 2022-04-22 |  |
 | [Have a Nice Day](https://open.spotify.com/track/1aonf4JP5wqsJC6mKKeF2N) | [RAEDY](https://open.spotify.com/artist/4xeIXkA9fl2gegj9YIfJtQ) | [Have a Nice Day](https://open.spotify.com/album/56EBA098Divnw6538HnsJE) | 1:51 | 2023-09-29 |  |
 | [Herbstlich](https://open.spotify.com/track/0pN2sz6wJ4kjRlhqImZleX) | [gknister](https://open.spotify.com/artist/0fR068DfY5exvbuRLEV0t7) | [Herbstlich](https://open.spotify.com/album/4n4vKBDi58fD9lDpl7ATqs) | 1:58 | 2023-10-06 |  |
+| [hop skip and a jump](https://open.spotify.com/track/1ldyyMM61fKaSUiWnZNp03) | [drewbee](https://open.spotify.com/artist/0bRyibPzrRlfTwKe7oUXzR) | [hop skip and a jump](https://open.spotify.com/album/5sTmT31ZfaqAYldQrgrMza) | 2:31 | 2024-01-05 |  |
 | [Hush](https://open.spotify.com/track/4AAxteXXwBqVchz26932uB) | [Dip Lewis](https://open.spotify.com/artist/1WJVNwZkJiTU9YRr6vEGx0) | [Hush](https://open.spotify.com/album/4YcojIOuGGewmDv8jMKKay) | 2:24 | 2023-09-29 |  |
 | [I Won](https://open.spotify.com/track/0FwGhS0DqxoIztkWFeKHfq) | [Lukas Got Lucky](https://open.spotify.com/artist/1XlWDjMcmW7HVs9m5BjGDF) | [Lunchbox](https://open.spotify.com/album/0gyxp0W1gjg7AREo5rBrgO) | 3:14 | 2022-04-22 |  |
 | [immersive kaleidoscope](https://open.spotify.com/track/29PLMHXtuRpUgO2cNfsgWi) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [immersive kaleidoscope](https://open.spotify.com/album/5NFtnIgx3ikbkxzBHQyuKl) | 2:40 | 2023-09-29 |  |
@@ -104,7 +105,7 @@
 | [Lifetime](https://open.spotify.com/track/0jZMq6RF5LxnnadddPlCSi) | [Geórgia Neve](https://open.spotify.com/artist/7oR5FuTIzTDDGzh8c4bEsT) | [Lifetime](https://open.spotify.com/album/06TSIPLCbmb6MyRAaqNXlP) | 2:30 | 2022-04-22 |  |
 | [Lightways](https://open.spotify.com/track/2CPrRvxxnaiSgujFmCsS82) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Lightways](https://open.spotify.com/album/3a8JhY9MsBDSkPHb5oHAmz) | 2:47 | 2023-09-29 |  |
 | [Like You](https://open.spotify.com/track/0wycCZ0b3g2NoqZV9OtCaM) | [Lovers Hifi](https://open.spotify.com/artist/6N2rWeJGrU9be5JfLaaT6z), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Like You / Meant To Be](https://open.spotify.com/album/6itlc8l0JwpO0z4wvShTTt) | 3:00 | 2022-04-22 | 2023-12-09 |
-| [Lil XX](https://open.spotify.com/track/4mnFc26yXNij0kq4PmxWE5) | [Chip&Pinn](https://open.spotify.com/artist/4m5L8s0CeXq6t7L1s2YR5A) | [Green Thumbs](https://open.spotify.com/album/1uztEtocC4GYKSQhLky95u) | 3:28 | 2022-04-22 |  |
+| [Lil XX](https://open.spotify.com/track/4mnFc26yXNij0kq4PmxWE5) | [Chip&Pinn](https://open.spotify.com/artist/4m5L8s0CeXq6t7L1s2YR5A) | [Green Thumbs](https://open.spotify.com/album/1uztEtocC4GYKSQhLky95u) | 3:28 | 2022-04-22 | 2024-01-07 |
 | [Liquorice](https://open.spotify.com/track/34gmdxjVoCAQIDixBNhYda) | [Push & Play](https://open.spotify.com/artist/7zWFDTGDhv8Ftdxd6Y6Eng) | [Supreme](https://open.spotify.com/album/1aq0krXC5rXL0SoOPOBkIC) | 1:54 | 2022-04-22 |  |
 | [Lizards and Lattes](https://open.spotify.com/track/3WF6J4P4ozwQ1hbQMzGtID) | [Wruce Billis](https://open.spotify.com/artist/4EhDrnqEaFfNnjJkljUmRx) | [Lizards and Lattes](https://open.spotify.com/album/6MFXbVjc0gexy3Qvv3WuLb) | 1:59 | 2023-09-29 |  |
 | [Lofi on the Bass](https://open.spotify.com/track/2IhrewZbhBLNdTgxNKrIdE) | [Daniel Fridell](https://open.spotify.com/artist/4WG5037NDBAMyjzClxwmKK), [Sven Lindvall](https://open.spotify.com/artist/3TauislvTr1US5ZCbjnLUx) | [Lofi on the Bass](https://open.spotify.com/album/2ADzOtvCNQFQ2IQCrucOZP) | 3:37 | 2023-11-17 |  |
@@ -131,7 +132,7 @@
 | [Neptune](https://open.spotify.com/track/3ownsO3GPdMlFVa9BETht9) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra), [KOMOREBI](https://open.spotify.com/artist/6izk2AxfY5QGz8SULMzdLI) | [Neptune](https://open.spotify.com/album/0f1twoUCoERvlNM4yLxFPk) | 2:21 | 2022-04-22 |  |
 | [Never Wing](https://open.spotify.com/track/6Ex7cCiMaj2mML0BCOG26H) | [DHN Missile](https://open.spotify.com/artist/188QXbK4VlrMgI7jleq5XF) | [Never Wing](https://open.spotify.com/album/1eRT425XrXde5hqIgQgkZ9) | 2:16 | 2022-04-22 |  |
 | [New Canary in Town](https://open.spotify.com/track/0kDJu1vVdvQd8zgoGMTjNr) | [Zoozzy](https://open.spotify.com/artist/6KnbMTPGZkiurTMRHRFYSC) | [New Canary in Town](https://open.spotify.com/album/5krBS3qtNJngoj6GKJwmtq) | 3:17 | 2022-04-22 |  |
-| [New York Moonlight](https://open.spotify.com/track/1I3c85KVlj1VgjnVf6bQ20) | [Joe Lee Noire](https://open.spotify.com/artist/5c9fBAFhEu0crejR4zKumg) | [New York Moonlight](https://open.spotify.com/album/4wHaNXifn7ItMoWWXjp4d8) | 1:59 | 2022-04-22 |  |
+| [New York Moonlight](https://open.spotify.com/track/1I3c85KVlj1VgjnVf6bQ20) | [Joe Lee Noire](https://open.spotify.com/artist/5c9fBAFhEu0crejR4zKumg) | [New York Moonlight](https://open.spotify.com/album/4wHaNXifn7ItMoWWXjp4d8) | 1:59 | 2022-04-22 | 2024-01-07 |
 | [Night Ride](https://open.spotify.com/track/2iOoOLkA4AQSdNwxPJlBxH) | [Ganther](https://open.spotify.com/artist/2XP4QAz4wvP1pOO7NprFbJ) | [Night Ride](https://open.spotify.com/album/0NVIX55zaGhZV7GlpMQPQe) | 3:17 | 2022-04-22 |  |
 | [No New Friends](https://open.spotify.com/track/7DZdYHRUXHDfabjkHKoLpf) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [No New Friends](https://open.spotify.com/album/5mzHrv24KXDI1ZYuOm5kNg) | 2:52 | 2023-01-06 | 2023-09-09 |
 | [No Worries](https://open.spotify.com/track/1N3Itp1ooPiPNctk0MlkdA) | [AHOSHI](https://open.spotify.com/artist/3srMUKCuz2uyIDil2av4aU) | [No Worries](https://open.spotify.com/album/3IYlfKlLTilQXgerBfyZYk) | 2:15 | 2023-10-27 |  |
@@ -190,6 +191,7 @@
 | [Stargazing](https://open.spotify.com/track/4cIsmISX8R4S6NDvmqXUDR) | [Bungus](https://open.spotify.com/artist/6G5hyAD5WnCvkW9CeUMsJA) | [Stargazing](https://open.spotify.com/album/3dLYFdh6latSJWKJK0FBDH) | 2:59 | 2022-04-22 | 2022-07-29 |
 | [Stargazing](https://open.spotify.com/track/5BclAg4Nv1wlFmQLfjGpya) | [Goostavo](https://open.spotify.com/artist/4JIs62O43gVoQ4EfuXRRZn) | [Euphoria](https://open.spotify.com/album/2voW7HF6fe8GnUZZRhAOT5) | 2:59 | 2022-05-27 | 2023-10-27 |
 | [Stonecutter](https://open.spotify.com/track/6sA23FIxsg4TmejPXSaAXM) | [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym) | [Dissolve](https://open.spotify.com/album/1FMSLJ1NVRYzqu3LkIKlWS) | 2:41 | 2022-04-22 |  |
+| [Street 34](https://open.spotify.com/track/4hIalvhaz7MeO1J0kYKx3p) | [Benjiroe](https://open.spotify.com/artist/6Wn8G21OpyLGppBZazEhHp) | [Street 34](https://open.spotify.com/album/6jFTYjYvX678auOMIeYwVh) | 2:00 | 2024-01-05 |  |
 | [Street Of Gold](https://open.spotify.com/track/5z0o7Ep4MktEA00g804pC3) | [ShinE](https://open.spotify.com/artist/100EZpJ3gfxPHtKnIBnSHH) | [Street Of Gold](https://open.spotify.com/album/3kzQO9LsVqE2qcSRcOw1LH) | 3:03 | 2022-04-22 |  |
 | [Summer Nights](https://open.spotify.com/track/1TRQg2ZdYj8NjJkRL3oSfE) | [Priesemut](https://open.spotify.com/artist/4VFNwAe2jbnCiPi2OYKa6s) | [Summer Nights](https://open.spotify.com/album/152ULMOGfi947QazWQOu57) | 1:34 | 2022-04-22 |  |
 | [Summer rain](https://open.spotify.com/track/7HWM9W8rJ6Hj4sCGecvZCh) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Summer rain](https://open.spotify.com/album/0pI2S9DzvTZgdWgl2ZgRyZ) | 2:32 | 2023-09-08 |  |

@@ -4,7 +4,7 @@
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Tiee, Gustavo Lins
 
-78 songs - 6 hr 50 min
+78 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Climatizar/ O Que Tinha Que Dar/ Idem \- Ao vivo](https://open.spotify.com/track/6SnlW8RYmTSf0ONc1TL2Vr) | [Grupo Bom Astral](https://open.spotify.com/artist/7nqAVYCMjEMcKe1TP4nkJb) | [Climatizar/ O Que Tinha Que Dar/ Idem \(Ao vivo\)](https://open.spotify.com/album/75qLqfUtjDj2eVa0qn8TY0) | 3:25 | 2023-12-29 |  |
 | [Curto Circuito / Ponto Fraco / Amor De Manhã \- Ao Vivo](https://open.spotify.com/track/7dJp2ddguIzoNFAE2QWBUL) | [Akatu](https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8), [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Curto Circuito / Ponto Fraco / Amor De Manhã \(Ao Vivo\)](https://open.spotify.com/album/2pYHP2oOcMOaMm9suX34l6) | 4:53 | 2023-12-29 |  |
 | [Deixa Alagar / Só Depois / Já Virou Rotina \- Ao Vivo](https://open.spotify.com/track/0oqgG71mzT2yNA8FCSiKJJ) | [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8), [Paulinho](https://open.spotify.com/artist/66WmQFOJlgpllywrKRV2w1) | [Subúrbio, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3cN5jv2eOEBHco9aa50qEf) | 5:26 | 2023-12-29 |  |
-| [Dessa Vez / Ritmo Perfeito / Quero Te Encontrar \- Ao Vivo](https://open.spotify.com/track/2zyi1oJmfjwp8zbCcfJyCn) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Buchecha](https://open.spotify.com/artist/1tTxuCABSKH8wBmE2Y7Odb) | [Dessa Vez / Ritmo Perfeito / Quero Te Encontrar \(Ao Vivo\)](https://open.spotify.com/album/7F0W38PzM4Xr9z8X8rTkCx) | 2:51 | 2024-01-05 |  |
+| [Dessa Vez / Ritmo Perfeito / Quero Te Encontrar \- Ao Vivo](https://open.spotify.com/track/2zyi1oJmfjwp8zbCcfJyCn) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Buchecha](https://open.spotify.com/artist/1tTxuCABSKH8wBmE2Y7Odb) | [Dessa Vez / Ritmo Perfeito / Quero Te Encontrar \(Ao Vivo\)](https://open.spotify.com/album/7F0W38PzM4Xr9z8X8rTkCx) | 4:52 | 2024-01-05 |  |
 | [Dorme com Deus / Fica \- Ao Vivo](https://open.spotify.com/track/1Y7ShD0kGmHPwJTWOuBlHK) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Tá Na Mente](https://open.spotify.com/artist/1x7Y5zQOvhROVPgy73689r) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 3:51 | 2023-12-29 |  |
 | [Engano / Eu Tenho Muito Mais / Mina de Fé / Duas Paixões](https://open.spotify.com/track/6ETzTRYx8f44W3LJXTvli3) | [FM O Dia](https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ), [Robinho](https://open.spotify.com/artist/0FKMbv813ULLLmjFPZ19wp), [Chrigor](https://open.spotify.com/artist/6J2dPGeS2VqFZrpu7dhdZk), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Engano / Eu Tenho Muito Mais / Mina de Fé / Duas Paixões](https://open.spotify.com/album/4kiF7IMpJrG4rzMvrtKPbV) | 6:59 | 2023-12-29 |  |
 | [Erro Gostoso / Mal Acostumado / A Gente Se Entrega](https://open.spotify.com/track/2CU2o0jyWO8xq0TiJPXZ6y) | [Grupo Presença](https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9) | [De Férias Com Presença, Vol\. 1](https://open.spotify.com/album/4as0CzqdSkS5f6iuFEldZ4) | 5:26 | 2023-12-29 |  |

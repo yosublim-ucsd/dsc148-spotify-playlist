@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with OddKidOut, Hekler & Scruffizer",
-  "num_followers": 976942,
+  "num_followers": 976933,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjk3MmI0YzY5NzBlNTM1ZjNlMjc3NmNiYTA5NzAzMmM4ODlmMDA1",
+  "snapshot_id": "MCw5YmMzNDhlMGZjYThkNWZjODNlYmY2MjE0ZjhlNGQ0NjY1ZDBiZGIy",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -344,7 +344,7 @@
           "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
         }
       ],
-      "duration_ms": 147582,
+      "duration_ms": 147581,
       "name": "Wasted Youth",
       "url": "https://open.spotify.com/track/7i5tBVaBU5Z4Va6XK0L5mm"
     },
@@ -1821,26 +1821,6 @@
       "url": "https://open.spotify.com/track/1waYHmEXR5mFJCfEYfa2BL"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Overthrown (The Thrones of Blood Remix Album)",
-        "url": "https://open.spotify.com/album/0uX6vlfx2rgxUX5cCZ1eXE"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        }
-      ],
-      "duration_ms": 266482,
-      "name": "Someone Else - Blanke Remix",
-      "url": "https://open.spotify.com/track/4ht1wtZBmlyLAVDivgVYok"
-    },
-    {
       "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "ANGELS IN HELL",
@@ -1863,6 +1843,26 @@
       "duration_ms": 234350,
       "name": "ANGELS IN HELL",
       "url": "https://open.spotify.com/track/6g7dSKYqZTuaGSLsf4o0s5"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Overthrown (The Thrones of Blood Remix Album)",
+        "url": "https://open.spotify.com/album/0uX6vlfx2rgxUX5cCZ1eXE"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "duration_ms": 266482,
+      "name": "Someone Else - Blanke Remix",
+      "url": "https://open.spotify.com/track/4ht1wtZBmlyLAVDivgVYok"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -2005,26 +2005,6 @@
       "url": "https://open.spotify.com/track/4eX9IUbwqNJKyzFWDRExjc"
     },
     {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/1MyRd6S8tq6eG9nzsdStA6"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "Kill The Noise",
-          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/6sXg6Tv9mq5Qv0TWVdfcUE"
-    },
-    {
       "added_at": "2023-12-08 05:00:00",
       "album": {
         "name": "Casket Case",
@@ -2043,6 +2023,26 @@
       "duration_ms": 148965,
       "name": "Sky High",
       "url": "https://open.spotify.com/track/4nQk7L78PXHHgrUxUqr5WA"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1MyRd6S8tq6eG9nzsdStA6"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/6sXg6Tv9mq5Qv0TWVdfcUE"
     },
     {
       "added_at": "2023-11-10 05:00:00",

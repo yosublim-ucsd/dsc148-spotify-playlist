@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZMtnnlvJ9p.md) - [plain]
 
 > Mixing the decades: 1990s, 2000s, 2010s and 2020s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 840,584 likes - 141 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,395 likes - 141 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZMtnnlvJ9p.md) - [plain]
 | 140 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 |
 | 141 | [I'm Yours](https://open.spotify.com/track/3S0OXQeoh0w6AY8WQVckRW) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things\. \(Bonus Tracks Version\)](https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8) | 4:02 |
 
-Snapshot ID: `MCwxZjhiMWQ0MWY4YjNlYWUzMDE4ZmU2N2VkMzc0OGNiYTZlYWY2NzRh`
+Snapshot ID: `MCxmZjFhNjk5ZmMwNGY4NzU1YTYwODA2NDJkNGEwYTNhN2M4OWQzZTM3`

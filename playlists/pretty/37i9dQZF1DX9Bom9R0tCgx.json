@@ -1,12 +1,12 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 356946,
+  "num_followers": 357170,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDhkZTk2MjU1MTNhNWU2ODlhNzhiM2IzYzZlN2JhMmJlMDJlY2Vh",
+  "snapshot_id": "MCw4OWUxNzJjYTJkYWJiMWM5OTZhNjUxN2UyZTVlZTliNDc0NjE0NDQw",
   "tracks": [
     {
       "added_at": "2024-01-04 23:00:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
+      },
+      "artists": [
+        {
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+        }
+      ],
+      "duration_ms": 176914,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Somebody To Love (DANNY AVILA Remix)",
         "url": "https://open.spotify.com/album/2dTWqh0txRWty6UbXevrno"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 242686,
       "name": "Somebody To Love - DANNY AVILA Remix",
       "url": "https://open.spotify.com/track/6sVZ5ilWUNJBy8fBvjpzWh"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
-      },
-      "artists": [
-        {
-          "name": "MUZZ",
-          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
-        }
-      ],
-      "duration_ms": 176914,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "My Crew (feat. Flowdan)",
-        "url": "https://open.spotify.com/album/3wOiJZeH4xOCVejjMWk3Np"
-      },
-      "artists": [
-        {
-          "name": "DANNY AVILA",
-          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 205555,
-      "name": "My Crew (feat. Flowdan)",
-      "url": "https://open.spotify.com/track/0BX4SC4ZfRn2egJfxjcgKc"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Satisfaction (Hardwell & Maddix Remix)",
         "url": "https://open.spotify.com/album/3PAjzJeHTZw0OeG9miBhc0"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 204436,
       "name": "Satisfaction - Hardwell & Maddix Remix",
       "url": "https://open.spotify.com/track/0l6fM0B3KDdGRj7R8vo4hK"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "My Crew (feat. Flowdan)",
+        "url": "https://open.spotify.com/album/3wOiJZeH4xOCVejjMWk3Np"
+      },
+      "artists": [
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 205555,
+      "name": "My Crew (feat. Flowdan)",
+      "url": "https://open.spotify.com/track/0BX4SC4ZfRn2egJfxjcgKc"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1531,6 +1531,26 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "DJ Turn It Up (Ben Nicky Remix)",
+        "url": "https://open.spotify.com/album/2X5Q84NtVSBrSAKuyXrnGh"
+      },
+      "artists": [
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        },
+        {
+          "name": "Ben Nicky",
+          "url": "https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA"
+        }
+      ],
+      "duration_ms": 138088,
+      "name": "DJ Turn It Up - Ben Nicky Remix",
+      "url": "https://open.spotify.com/track/5nqW6RAWDBynvve3TDXH9r"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Ameno",
         "url": "https://open.spotify.com/album/1O6PuOIzcMjwsHjInZyBPz"
       },
@@ -1551,26 +1571,6 @@
       "duration_ms": 146482,
       "name": "Ameno",
       "url": "https://open.spotify.com/track/4KbP4nUAnyG85IzK1jjNhS"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "DJ Turn It Up (Ben Nicky Remix)",
-        "url": "https://open.spotify.com/album/2X5Q84NtVSBrSAKuyXrnGh"
-      },
-      "artists": [
-        {
-          "name": "Dimension",
-          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
-        },
-        {
-          "name": "Ben Nicky",
-          "url": "https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA"
-        }
-      ],
-      "duration_ms": 138088,
-      "name": "DJ Turn It Up - Ben Nicky Remix",
-      "url": "https://open.spotify.com/track/5nqW6RAWDBynvve3TDXH9r"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1683,26 +1683,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Tony Junior",
-          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
-        }
-      ],
-      "duration_ms": 248471,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "ALONE (HYPERTECHNO)",
         "url": "https://open.spotify.com/album/6oxP7oaH3KeE5lvZQuBgl9"
       },
@@ -1727,6 +1707,26 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+        }
+      ],
+      "duration_ms": 248471,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "O Fortuna",
         "url": "https://open.spotify.com/album/7tcS35RM3CLNsdAbKHfi2I"
       },
@@ -1747,6 +1747,26 @@
       "duration_ms": 156086,
       "name": "O Fortuna",
       "url": "https://open.spotify.com/track/6opBFQzVEGQPxaQFqGfjWI"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Fire to the Rain",
+        "url": "https://open.spotify.com/album/1KEIwpm2LiKp1bznzoV229"
+      },
+      "artists": [
+        {
+          "name": "TMW",
+          "url": "https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V"
+        },
+        {
+          "name": "Caro van Ee",
+          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
+        }
+      ],
+      "duration_ms": 144935,
+      "name": "Fire to the Rain",
+      "url": "https://open.spotify.com/track/1mlH24UmHdpICgiT2WwugR"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1827,26 +1847,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Fire to the Rain",
-        "url": "https://open.spotify.com/album/1KEIwpm2LiKp1bznzoV229"
-      },
-      "artists": [
-        {
-          "name": "TMW",
-          "url": "https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V"
-        },
-        {
-          "name": "Caro van Ee",
-          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
-        }
-      ],
-      "duration_ms": 144935,
-      "name": "Fire to the Rain",
-      "url": "https://open.spotify.com/track/1mlH24UmHdpICgiT2WwugR"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Smooth Operator (feat. HYPERTEKKNO) [Techno Remix]",
         "url": "https://open.spotify.com/album/3eqvSCsySNNJE0refJZJOD"
       },
@@ -1871,6 +1871,30 @@
       "duration_ms": 131400,
       "name": "Smooth Operator (feat. HYPERTEKKNO) - Techno Remix",
       "url": "https://open.spotify.com/track/5RBdfbnu4h8EzIabEJGYnn"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Jump Dance Move Bounce",
+        "url": "https://open.spotify.com/album/7uqDX4ot0zHwEAG4OpLjby"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        },
+        {
+          "name": "NOTMYTYPE",
+          "url": "https://open.spotify.com/artist/7hjdOgAfEdNYBGViGyy28U"
+        },
+        {
+          "name": "AENJAY",
+          "url": "https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ"
+        }
+      ],
+      "duration_ms": 149610,
+      "name": "Jump Dance Move Bounce",
+      "url": "https://open.spotify.com/track/4BSJd6jkmroYkGKIrrstUa"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1911,30 +1935,6 @@
       "duration_ms": 149788,
       "name": "It's A Hard Knock Life - Prezioso Remix",
       "url": "https://open.spotify.com/track/2ibx46fwgGe3u2pirSgjj7"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "Jump Dance Move Bounce",
-        "url": "https://open.spotify.com/album/7uqDX4ot0zHwEAG4OpLjby"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        },
-        {
-          "name": "NOTMYTYPE",
-          "url": "https://open.spotify.com/artist/7hjdOgAfEdNYBGViGyy28U"
-        },
-        {
-          "name": "AENJAY",
-          "url": "https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ"
-        }
-      ],
-      "duration_ms": 149610,
-      "name": "Jump Dance Move Bounce",
-      "url": "https://open.spotify.com/track/4BSJd6jkmroYkGKIrrstUa"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -2011,26 +2011,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Watch Me Break Free",
-        "url": "https://open.spotify.com/album/33ZxKF1zK5V3lsrvRaIiwW"
-      },
-      "artists": [
-        {
-          "name": "Jordiz",
-          "url": "https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV"
-        },
-        {
-          "name": "Lawstylez",
-          "url": "https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ"
-        }
-      ],
-      "duration_ms": 161377,
-      "name": "Watch Me Break Free",
-      "url": "https://open.spotify.com/track/7AfY7tbTfL5l74UOafmyZD"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Push To Start (T78 Remix)",
         "url": "https://open.spotify.com/album/3zetCN5xJJu1aLERzXieFF"
       },
@@ -2055,6 +2035,26 @@
       "duration_ms": 190222,
       "name": "Push To Start - T78 Remix",
       "url": "https://open.spotify.com/track/3RKCzGsThiB77vKvmNxUgG"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Watch Me Break Free",
+        "url": "https://open.spotify.com/album/33ZxKF1zK5V3lsrvRaIiwW"
+      },
+      "artists": [
+        {
+          "name": "Jordiz",
+          "url": "https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV"
+        },
+        {
+          "name": "Lawstylez",
+          "url": "https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ"
+        }
+      ],
+      "duration_ms": 161377,
+      "name": "Watch Me Break Free",
+      "url": "https://open.spotify.com/track/7AfY7tbTfL5l74UOafmyZD"
     }
   ],
   "unique_name": "Bass Explosion",

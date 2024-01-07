@@ -6018,7 +6018,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 207611,
       "name": "Children of the Sky (a Starfield song)",
       "url": "https://open.spotify.com/track/1W7ughJhjRaANaAUcxTfnC"
@@ -18233,6 +18233,24 @@
     },
     {
       "album": {
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138411,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+    },
+    {
+      "album": {
         "name": "Spleen",
         "url": "https://open.spotify.com/album/3guPLYZHkQEz8lJdhnWoTD"
       },
@@ -22156,7 +22174,7 @@
       ],
       "date_added": "2023-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 222911,
       "name": "On My Love",
       "url": "https://open.spotify.com/track/0K6iKgHPPhAb4Acmg9aD77"
@@ -27742,7 +27760,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 146440,
       "name": "Solitaire",
       "url": "https://open.spotify.com/track/3kzXT2poHInDISrXOgT1PR"
@@ -31010,7 +31028,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 147788,
       "name": "Urus",
       "url": "https://open.spotify.com/track/7A2DyRIqqelhZ4caPJMaFI"
@@ -31754,6 +31772,28 @@
       "duration_ms": 169645,
       "name": "When Love Sucks (feat. Dido)",
       "url": "https://open.spotify.com/track/59vMO9rkUuefwLMKzohNo5"
+    },
+    {
+      "album": {
+        "name": "When We Were Young (The Logical Song)",
+        "url": "https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147432,
+      "name": "When We Were Young (The Logical Song)",
+      "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq"
     },
     {
       "album": {

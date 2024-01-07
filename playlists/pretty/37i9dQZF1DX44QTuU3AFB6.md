@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 
 > ¡Rolas pa' sacar las chelas y el tequila!
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,558 likes - 150 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,821 likes - 150 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 | 47 | [Sobran Motivos](https://open.spotify.com/track/1uTHr7ij3eiDdUXvQfA5au) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3), [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Sobran Motivos](https://open.spotify.com/album/3UX8li2vzG8IcjtPQ11dGt) | 3:05 |
 | 48 | [Fuga Pa Cali 2](https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 3:16 |
 | 49 | [Calidad](https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Calidad](https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb) | 2:50 |
-| 50 | [Andamos Mejor](https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Andamos Mejor](https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf) | 2:17 |
-| 51 | [Eres Ese Algo](https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Al Derecho Y Al Reverso](https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN) | 2:53 |
+| 50 | [Eres Ese Algo](https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Al Derecho Y Al Reverso](https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN) | 2:53 |
+| 51 | [Andamos Mejor](https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Andamos Mejor](https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf) | 2:17 |
 | 52 | [Bebe Dame](https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Bebe Dame](https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC) | 4:31 |
 | 53 | [De Los Besos Que Te Di](https://open.spotify.com/track/1qfoq1qvZT7VwDVeekCJ97) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ahora](https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS) | 2:47 |
 | 54 | [El Rescate](https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Rescate](https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP) | 2:40 |
@@ -137,8 +137,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 | 127 | [Suena La Banda](https://open.spotify.com/track/5IsIBQ58FTGKxCHOkWOqio) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Perdoname Mi Amor](https://open.spotify.com/album/4KgOvpbyQyjBOovq69Hfs2) | 2:54 |
 | 128 | [Comandos Del M.P \(500 Balazos\)](https://open.spotify.com/track/2vtB7ASUDlJkTB7sn1yugu) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Con La Nueva Federación](https://open.spotify.com/album/1MsMQsAojpvdsE6wGtboSa) | 2:19 |
 | 129 | [No Me Beses](https://open.spotify.com/track/09XxwOPCRnN7A75z6Z0OqR) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [No Me Beses](https://open.spotify.com/album/5MjWs7elYagIL0FvQA21ic) | 2:54 |
-| 130 | [Hoy la Vi Con Él \- En Vivo](https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Hoy la Vi Con Él \(En Vivo\)](https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX) | 3:43 |
-| 131 | [ATM](https://open.spotify.com/track/1FQcgLy3FNrlXsMG0b3fmo) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [ATM](https://open.spotify.com/album/3XcTbOupQpwWm0p94s1Azf) | 2:54 |
+| 130 | [ATM](https://open.spotify.com/track/1FQcgLy3FNrlXsMG0b3fmo) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [ATM](https://open.spotify.com/album/3XcTbOupQpwWm0p94s1Azf) | 2:54 |
+| 131 | [Hoy la Vi Con Él \- En Vivo](https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Hoy la Vi Con Él \(En Vivo\)](https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX) | 3:43 |
 | 132 | [El Sillón](https://open.spotify.com/track/4ORwLXI423yg5dSq8bHBH2) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Sillón](https://open.spotify.com/album/4icpOgfnYMyrJTFRGYWif0) | 3:19 |
 | 133 | [Se Me Soltó El Hocico](https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Se Me Soltó El Hocico](https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc) | 2:55 |
 | 134 | [El Del Palenque](https://open.spotify.com/track/1xSNfnlL5T1sS4TExHjJv1) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [El Del Palenque](https://open.spotify.com/album/4KRYoYUVQeKVkQSSQBnN6u) | 3:12 |
@@ -155,8 +155,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 | 145 | [Por Que Te Vas De Mi](https://open.spotify.com/track/2sTtOh2i7bBe7ypfj3GUZ4) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:04 |
 | 146 | [El Precio De La Soledad](https://open.spotify.com/track/7pYfcq47xJDP98syaVhpuK) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Precio De La Soledad](https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I) | 2:46 |
 | 147 | [El Tiempo Que Me Quede](https://open.spotify.com/track/5pDkz9SvcPvFvC21EunbMQ) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [El Tiempo Que Me Quede](https://open.spotify.com/album/5un67SoPaoD1gsoMVyuzG4) | 3:36 |
-| 148 | [Se Va Muriendo Mi Alma](https://open.spotify.com/track/089JwgBFzPhW92N7RmUdNq) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Tirando Party](https://open.spotify.com/album/4Abo4Oityt7ycbQwoRmXvC) | 3:56 |
-| 149 | [En La Bola \(feat\. El De La Guitarra\)](https://open.spotify.com/track/1MKSWLFVyxgdLKE8YUby50) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:50 |
+| 148 | [En La Bola \(feat\. El De La Guitarra\)](https://open.spotify.com/track/1MKSWLFVyxgdLKE8YUby50) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:50 |
+| 149 | [Se Va Muriendo Mi Alma](https://open.spotify.com/track/089JwgBFzPhW92N7RmUdNq) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Tirando Party](https://open.spotify.com/album/4Abo4Oityt7ycbQwoRmXvC) | 3:56 |
 | 150 | [Oficialmente en Soltería](https://open.spotify.com/track/63BZhuQ6OZQmxy2RERMHko) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Oficialmente en Soltería](https://open.spotify.com/album/6PVL1eOWGgrULXTd6diUxe) | 2:02 |
 
-Snapshot ID: `MCwxMjQ3NzcwODYwMDQwYTJkZjE3MzgwZTQxN2I5NDFjNGUzMTcxNzk3`
+Snapshot ID: `MCw4MzdiOGM2ZGIxMTI3NWM1NDE3ODU1MTg1NDEyY2MzMWUyY2MwZmVl`

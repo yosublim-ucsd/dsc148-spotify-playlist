@@ -4,7 +4,7 @@
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-188 songs - 11 hr 33 min
+191 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Do You Still Love Me?](https://open.spotify.com/track/0iHR4R5G3eMY595B4IvXfA) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:59 | 2022-01-11 |  |
 | [Don't Give It Away](https://open.spotify.com/track/2WcIA4eZB8iiQqHdOaeRuW) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Devolver](https://open.spotify.com/album/1C5CVsW4oyntbxWjsd1e1h) | 2:54 | 2022-11-06 | 2023-04-26 |
 | [Don't Look Back In Anger](https://open.spotify.com/track/5BcH2X2rAn0D3WGTGEtYWO) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Morning Glory](https://open.spotify.com/album/7IlQpxt7VLEUVgh4eSRFAO) | 3:38 | 2023-04-15 | 2023-08-28 |
-| [Doomsday](https://open.spotify.com/track/70PPbwGrPBpQ1hRBuuSirh) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:01 | 2022-01-11 |  |
+| [Doomsday](https://open.spotify.com/track/70PPbwGrPBpQ1hRBuuSirh) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:01 | 2022-01-11 | 2024-01-07 |
+| [Doomsday \(Live\)](https://open.spotify.com/track/5ax3AFmg3WcSuSvcmDkym3) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoners \(Live\)](https://open.spotify.com/album/1EoOe8LmjUh7PB4M885Oqx) | 3:01 | 2024-01-06 |  |
 | [Doylestown Girl](https://open.spotify.com/track/6oRkeHUGlFoxcFLTpnsINh) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 2:54 | 2022-05-14 | 2024-01-04 |
 | [Dreaming You Backwards](https://open.spotify.com/track/3w0cpiarWDuGq9bIcTIdR0) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Wednesdays](https://open.spotify.com/album/1UiJFcBpvdq5uGXt363HGO) | 3:04 | 2023-12-18 | 2024-01-01 |
 | [Earthquake](https://open.spotify.com/track/7rhBzg6Lm93bXWcpQ4s0pA) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 4:06 | 2022-05-23 | 2022-08-21 |
@@ -79,7 +80,8 @@
 | [Hall of Shame](https://open.spotify.com/track/1BdDHMSD1LtJ9fGCMee0D8) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 3:33 | 2022-08-20 | 2022-11-01 |
 | [Hall of Shame](https://open.spotify.com/track/3jwnNTEjlyg6z1ctcxYWsV) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/7rNMFgROobX4kniUvoqQrI) | 3:33 | 2022-10-31 | 2022-12-16 |
 | [Hallelujah](https://open.spotify.com/track/35IXhsIR2ZgELZABz7iRVr) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 3:10 | 2022-01-11 | 2022-08-08 |
-| [Haunted House](https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 2:42 | 2022-01-11 |  |
+| [Haunted House](https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 2:42 | 2022-01-11 | 2024-01-07 |
+| [Haunted House \(Live\)](https://open.spotify.com/track/5wm5pRktQR2Vlvxh8WzDma) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoners \(Live\)](https://open.spotify.com/album/1EoOe8LmjUh7PB4M885Oqx) | 2:28 | 2024-01-06 |  |
 | [Hello](https://open.spotify.com/track/597K9htpDl8Daciz5PahvW) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Morning Glory](https://open.spotify.com/album/7IlQpxt7VLEUVgh4eSRFAO) | 4:08 | 2023-04-16 | 2023-08-20 |
 | [Hey Now](https://open.spotify.com/track/5aBwKfZ1DtfOj8eH9vMn59) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Morning Glory](https://open.spotify.com/album/7IlQpxt7VLEUVgh4eSRFAO) | 6:44 | 2023-04-18 | 2023-05-15 |
 | [Highway Patrolman](https://open.spotify.com/track/5ernvtf4gNNDjSjOjkEIHy) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Nebraska](https://open.spotify.com/album/4Rb3ltIWEi0OnVNNv03RHh) | 6:41 | 2023-01-08 | 2023-03-31 |
@@ -189,9 +191,10 @@
 | [When She Smiles](https://open.spotify.com/track/5FH7xahRUc3FmbEWkED0BR) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/7rNMFgROobX4kniUvoqQrI) | 2:41 | 2022-10-30 | 2023-01-09 |
 | [When She Smiles](https://open.spotify.com/track/5W7x9V7Jh2Wd4rXZfqvltN) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 2:41 | 2022-08-20 | 2022-10-29 |
 | [When The Stars Go Blue](https://open.spotify.com/track/04rMpRstoJt3uvqyNGKczX) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 3:31 | 2022-01-11 |  |
+| [Why](https://open.spotify.com/track/7A2Nu23pMnODXpUgjgnS58) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heatwave](https://open.spotify.com/album/7rHobpFFOUBekYAMIxbfsg) | 2:17 | 2024-01-06 |  |
 | [Why Do They Leave?](https://open.spotify.com/track/69ssbOW3LgQnLE62Z4FNrO) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:38 | 2022-01-23 | 2022-10-11 |
 | [Wild and Hopeless](https://open.spotify.com/track/6xlSShT4sz2vBzrYQ1lZR0) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 2:55 | 2022-08-21 | 2022-11-01 |
-| [Wildest Dreams](https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 5:21 | 2022-01-17 |  |
+| [Wildest Dreams](https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 5:21 | 2022-01-17 | 2024-01-07 |
 | [Wonderwall](https://open.spotify.com/track/4siFdX3QLfjtzg1HHgCPW7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 4:08 | 2022-01-11 |  |
 | [World War 24](https://open.spotify.com/track/19C1YdOULsmmOPvsIdoSTm) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 4:15 | 2022-01-31 | 2022-03-14 |
 | [You're a Big Girl Now](https://open.spotify.com/track/4xCWaQbJtLzUGNC2RlwNDW) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Blood on the Tracks](https://open.spotify.com/album/3ADN3qkgqDLCSdedSPYD1J) | 7:50 | 2023-02-14 | 2023-04-14 |

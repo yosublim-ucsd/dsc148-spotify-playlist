@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Australia.
 
-1,135 songs - 2 day 17 hr 23 min
+1,136 songs - 2 day 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -672,6 +672,7 @@
 | [Mr\. Morale](https://open.spotify.com/track/7zvfDihYiJ8RQ1nRcpKBF5) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:30 | 2022-05-14 | 2022-05-20 |
 | [Mr\. Perfectly Fine \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/2CYVETnhM9aytqrazYYwrK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:37 | 2021-04-11 | 2021-04-26 |
 | [Mr\. Perfectly Fine \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/7l2tmgUhV7Y2aJHjiszifg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Mr\. Perfectly Fine \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/album/2MbdQUj7tAaaBBhUwJE3KG) | 4:37 | 2021-04-10 | 2021-04-11 |
+| [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 | 2024-01-06 |  |
 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 | 2022-05-20 | 2023-03-16 |
 | [MY EYES](https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:11 | 2023-07-29 | 2023-08-07 |
 | [My Happiness](https://open.spotify.com/track/2pxxVkNhrRST8fpgA12ru8) | [Powderfinger](https://open.spotify.com/artist/6LBCQo20ri3tsvbsWWLmr6) | [Odyssey Number Five](https://open.spotify.com/album/1fgfp2op6DHKCrtWiMFiws) | 4:36 | 2022-01-27 | 2022-01-29 |
@@ -904,7 +905,7 @@
 | [Solar Power](https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd) | 3:12 | 2021-06-13 | 2021-07-04 |
 | [Solar Power](https://open.spotify.com/track/5VmpLtRycwbA54XsTffKq4) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/1lDMJQcBCttCroFPkNHtN7) | 3:12 | 2021-08-22 | 2021-08-26 |
 | [Someone Like You](https://open.spotify.com/track/5lkpeJwmQKgY3bX2zChjxX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H) | 4:45 | 2021-10-17 | 2021-11-25 |
-| [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2021-03-27\* |  |
+| [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2021-03-27\* | 2024-01-07 |
 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2022-09-08 |  |
 | [Something In The Way \- Remastered](https://open.spotify.com/track/2WL6GQzPuK9Nrpy9XwNEbz) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(30th Anniversary Super Deluxe\)](https://open.spotify.com/album/0ezJun7CKk7Hh70MPL0dcJ) | 3:52 | 2022-03-08 | 2022-04-03 |
 | [SOS](https://open.spotify.com/track/5xMw6qCcpd2gBXPGTegC4W) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 1:57 | 2022-12-10 | 2022-12-12 |

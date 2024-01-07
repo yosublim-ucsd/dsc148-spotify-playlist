@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 
 > Soothing, soft piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,263 likes - 80 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,298 likes - 80 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 33 | [Sound Of Mind](https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Sound Of Mind](https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk) | 2:02 |
 | 34 | [The Coming Day](https://open.spotify.com/track/7J9IGMMsPyzWh2trBv6OQT) | [Jack Pelayo](https://open.spotify.com/artist/3t11hg9zFYERlfzuO211YG) | [The Coming Day](https://open.spotify.com/album/6go0e0725Fm8wBzypakTMa) | 2:32 |
 | 35 | [When It´s Love](https://open.spotify.com/track/4BLjftEzGWk5hqVdcWbRPM) | [Junie Oakes](https://open.spotify.com/artist/1eZcI6Nskr85kkZFjl9LQS) | [When It´s Love](https://open.spotify.com/album/4PMQap6ziecCjsTx8y9zgz) | 2:42 |
-| 36 | [Sonnet 1](https://open.spotify.com/track/5VKVUectaKrr9Mq9m3fnWT) | [Frederico Morales](https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx) | [Sonnet 1](https://open.spotify.com/album/61quLSJezCtYqMsoy6pMAz) | 2:11 |
-| 37 | [Deja](https://open.spotify.com/track/5cm73dj9ydNYALjjUOVPhu) | [Taganema](https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d) | [Deja](https://open.spotify.com/album/2UkFNg59LzKPIrdlEWgZGq) | 2:25 |
+| 36 | [Deja](https://open.spotify.com/track/5cm73dj9ydNYALjjUOVPhu) | [Taganema](https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d) | [Deja](https://open.spotify.com/album/2UkFNg59LzKPIrdlEWgZGq) | 2:25 |
+| 37 | [Sonnet 1](https://open.spotify.com/track/5VKVUectaKrr9Mq9m3fnWT) | [Frederico Morales](https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx) | [Sonnet 1](https://open.spotify.com/album/61quLSJezCtYqMsoy6pMAz) | 2:11 |
 | 38 | [Les Soir](https://open.spotify.com/track/0WM2fu4FoREAkHiD25SAOj) | [Mes Croquis](https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW) | [Les Soir](https://open.spotify.com/album/2pRy5vvv9wU2guTJuw1X9m) | 2:24 |
 | 39 | [Languor](https://open.spotify.com/track/4k8N1HD7vWq4Hg02QfnesO) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Kalmte](https://open.spotify.com/album/4togAOBBwtO2gJ7zULCDYi) | 2:21 |
 | 40 | [A Midnight Sun](https://open.spotify.com/track/6FLe5vn84JPgAAiKz6ofkX) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [A Midnight Sun](https://open.spotify.com/album/5j5ZhmEGBX5jMDsRTXb8fh) | 2:34 |
@@ -52,16 +52,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 42 | [Missing You](https://open.spotify.com/track/5zj5thfMd7zGlgMGIBbLag) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Missing You](https://open.spotify.com/album/4ZzrBDTL49OisnhEp2DL5c) | 2:28 |
 | 43 | [Sun sinking at dusk](https://open.spotify.com/track/5Y223UTPJjOIDVS2vs73g0) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Sun sinking at dusk](https://open.spotify.com/album/0L7qsF3GOm7oJg68rmbWMI) | 2:33 |
 | 44 | [Natural Light](https://open.spotify.com/track/1kKbVnjBHvRSMJUsNOQp2h) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Underwater](https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO) | 5:35 |
-| 45 | [Wreszcie](https://open.spotify.com/track/535EYYpCRKqg0Z9H0v3u1x) | [Zuzana Kudová](https://open.spotify.com/artist/3g7vWifmj7qRmNwAR7K1Fc) | [Wreszcie](https://open.spotify.com/album/68AlPgfClESbRVI28gvegI) | 2:55 |
-| 46 | [The Meadows 草地](https://open.spotify.com/track/7hb7SEHUZXGA6O3ZZBoQGn) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [The Meadows 草地](https://open.spotify.com/album/5zPdjtWqbv8DUKFdXx2xAE) | 2:50 |
+| 45 | [The Meadows 草地](https://open.spotify.com/track/7hb7SEHUZXGA6O3ZZBoQGn) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [The Meadows 草地](https://open.spotify.com/album/5zPdjtWqbv8DUKFdXx2xAE) | 2:50 |
+| 46 | [Wreszcie](https://open.spotify.com/track/535EYYpCRKqg0Z9H0v3u1x) | [Zuzana Kudová](https://open.spotify.com/artist/3g7vWifmj7qRmNwAR7K1Fc) | [Wreszcie](https://open.spotify.com/album/68AlPgfClESbRVI28gvegI) | 2:55 |
 | 47 | [Nightfall](https://open.spotify.com/track/3hy3BLtI2pYAGZOjNvg8Hy) | [Michael Lavigne](https://open.spotify.com/artist/1WzXXEpMoYGcwJbHPCUeXH) | [Nightfall](https://open.spotify.com/album/5z98Le17wsSnniPu0n3a0P) | 2:22 |
 | 48 | [Schatze](https://open.spotify.com/track/21qsu8rj7gvICuv0P6ZzsW) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Schatze](https://open.spotify.com/album/4zXUVmO4tlStaTgMbtYPo4) | 2:35 |
 | 49 | [Tromsø](https://open.spotify.com/track/09jdC5o254s2seWBMMHco7) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Tromsø](https://open.spotify.com/album/64dPxiybtQ1P5vCGuqEYkX) | 2:11 |
 | 50 | [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 |
 | 51 | [Azul](https://open.spotify.com/track/1cTCSy4aSPecGDDx3wqUjD) | [Emilio Chiara](https://open.spotify.com/artist/5a48GWM8CpVJtzLvnFn1js) | [Azul](https://open.spotify.com/album/4P344vEqsQXiTwPa7YsFfc) | 2:00 |
 | 52 | [A Gentle Place](https://open.spotify.com/track/2kgwWNOn9IUCoQuJIReVUH) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [A Gentle Place](https://open.spotify.com/album/2m1Abw0Fac9M57oaStSyaw) | 2:13 |
-| 53 | [Kastepiisk](https://open.spotify.com/track/22fK1BNvptS8jrDqgMQ7Em) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Kastepiisk](https://open.spotify.com/album/47b0xjoL078opTjTxrQ5vm) | 3:21 |
-| 54 | [heart pieces](https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/5HrBAQJ2gvG43Ce8B9zPwj) | 2:29 |
+| 53 | [heart pieces](https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/5HrBAQJ2gvG43Ce8B9zPwj) | 2:29 |
+| 54 | [Kastepiisk](https://open.spotify.com/track/22fK1BNvptS8jrDqgMQ7Em) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Kastepiisk](https://open.spotify.com/album/47b0xjoL078opTjTxrQ5vm) | 3:21 |
 | 55 | [I Still Miss You](https://open.spotify.com/track/1mB4krpjjVkqfMcgHvivJZ) | [Boil The Ocean](https://open.spotify.com/artist/2I5UjNu4WPindIoyWAPnXI) | [I Still Miss You](https://open.spotify.com/album/3kHtcexla1h1I2wUnw7RqA) | 2:06 |
 | 56 | [Finding The Heavens](https://open.spotify.com/track/5iVgHr0hrCFOvem4Yc75Gc) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Finding The Heavens](https://open.spotify.com/album/4GUm4q0aC3WpHFhMc4YZBQ) | 2:47 |
 | 57 | [At Dawn](https://open.spotify.com/track/55H4GT7iLma7fJyBhS7o4R) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Venice \- Infinitely Avantgarde \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/45RJUxxh0wvVRUyd1sTjI9) | 3:00 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 75 | [Night Solace](https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Night Solace](https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF) | 2:41 |
 | 76 | [The New Life](https://open.spotify.com/track/4ngpD9qM5EinF3KKKoyZDB) | [Lemos](https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh) | [The New Life](https://open.spotify.com/album/4jKT4QSTMTuHh7LmMzUtNb) | 2:18 |
 | 77 | [Himlen](https://open.spotify.com/track/08athgGdqnRmET0kInHb8n) | [Andrea Azzola](https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx) | [Himlen](https://open.spotify.com/album/0k2082EFnzxqjaNeLQElgp) | 2:01 |
-| 78 | [pt\. 1 Owl Light](https://open.spotify.com/track/5YvY66JItF2jFFKeB27pmO) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [pt\. 1 Owl Light](https://open.spotify.com/album/0jVhFWlQ2N317ewAQZbCkY) | 3:09 |
-| 79 | [Open Window](https://open.spotify.com/track/2vRsp5AMbl1bex8OGuT1Ox) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Open Window](https://open.spotify.com/album/3Ihliq76Oc21o68PAURoES) | 2:06 |
+| 78 | [Open Window](https://open.spotify.com/track/2vRsp5AMbl1bex8OGuT1Ox) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Open Window](https://open.spotify.com/album/3Ihliq76Oc21o68PAURoES) | 2:06 |
+| 79 | [pt\. 1 Owl Light](https://open.spotify.com/track/5YvY66JItF2jFFKeB27pmO) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [pt\. 1 Owl Light](https://open.spotify.com/album/0jVhFWlQ2N317ewAQZbCkY) | 3:09 |
 | 80 | [Floating](https://open.spotify.com/track/1rtXR0fCnRVp27uFmckZJK) | [Gianluca Piacenza](https://open.spotify.com/artist/7qEuC0mCSgDPFzQQPp8RcS) | [Floating](https://open.spotify.com/album/4Zyls7QoH17wKZlR26b3gY) | 4:14 |
 
-Snapshot ID: `MCwzM2EyMjE5Y2MxNmZhYTM5ZGU1OWI1Mzg5NTQxOTMyNzc4OWJkYTU4`
+Snapshot ID: `MCwwMWU5Y2FhYjQ0ZWE3ZmFjY2IzYTU5NzI3OWI3MTgwNGZjMGNmOWNl`

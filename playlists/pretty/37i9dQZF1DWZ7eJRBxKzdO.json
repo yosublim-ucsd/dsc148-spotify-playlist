@@ -1,12 +1,12 @@
 {
   "description": "The summer needs dance hits \ud83d\ude0e\u2600\ufe0f",
-  "num_followers": 364861,
+  "num_followers": 365431,
   "original_name": "Summer Dance Hits 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjkwNmEyYzQzOTU0MGUyMmQ0YTlkYWEzY2U1YWM5YzZmNDVhNDg1",
+  "snapshot_id": "MCw2MzY0MzdhZjRjYmZmMDBjYjdiYjUxYjk0ZTdkOGQyZTdjZDA5Yzgy",
   "tracks": [
     {
       "added_at": "2023-12-15 10:07:36",
@@ -99,26 +99,6 @@
     {
       "added_at": "2023-12-15 10:07:36",
       "album": {
-        "name": "Desire (with Sam Smith)",
-        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 179161,
-      "name": "Desire (with Sam Smith)",
-      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
-    },
-    {
-      "added_at": "2023-12-15 10:07:36",
-      "album": {
         "name": "Overdrive (feat. Norma Jean Martine)",
         "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 155905,
       "name": "Overdrive (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
+    },
+    {
+      "added_at": "2023-12-15 10:07:36",
+      "album": {
+        "name": "Desire (with Sam Smith)",
+        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 179161,
+      "name": "Desire (with Sam Smith)",
+      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
     },
     {
       "added_at": "2023-12-15 10:07:36",
@@ -827,30 +827,6 @@
     {
       "added_at": "2023-12-15 10:07:36",
       "album": {
-        "name": "Be My Lover (feat. La Bouche) [2023 Mix]",
-        "url": "https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX"
-      },
-      "artists": [
-        {
-          "name": "Hypaton",
-          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "La Bouche",
-          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
-        }
-      ],
-      "duration_ms": 169523,
-      "name": "Be My Lover (feat. La Bouche) - 2023 Mix",
-      "url": "https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV"
-    },
-    {
-      "added_at": "2023-12-15 10:07:36",
-      "album": {
         "name": "Asking",
         "url": "https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ"
       },
@@ -875,22 +851,26 @@
     {
       "added_at": "2023-12-15 10:07:36",
       "album": {
-        "name": "Relax My Eyes",
-        "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
+        "name": "Be My Lover (feat. La Bouche) [2023 Mix]",
+        "url": "https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX"
       },
       "artists": [
         {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
         },
         {
-          "name": "Abel Balder",
-          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
         }
       ],
-      "duration_ms": 192150,
-      "name": "Relax My Eyes",
-      "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
+      "duration_ms": 169523,
+      "name": "Be My Lover (feat. La Bouche) - 2023 Mix",
+      "url": "https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV"
     },
     {
       "added_at": "2023-12-15 10:07:36",
@@ -911,6 +891,26 @@
       "duration_ms": 177689,
       "name": "Where Did You Go? (feat. MNEK)",
       "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
+    },
+    {
+      "added_at": "2023-12-15 10:07:36",
+      "album": {
+        "name": "Relax My Eyes",
+        "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Abel Balder",
+          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+        }
+      ],
+      "duration_ms": 192150,
+      "name": "Relax My Eyes",
+      "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
     },
     {
       "added_at": "2023-12-15 10:07:36",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2023-12-15 10:07:36",
       "album": {
+        "name": "Whistle (feat. Calum Scott)",
+        "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 181957,
+      "name": "Whistle (feat. Calum Scott)",
+      "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
+    },
+    {
+      "added_at": "2023-12-15 10:07:36",
+      "album": {
         "name": "Cynical",
         "url": "https://open.spotify.com/album/17LI3Izac2jjx89l1hqLST"
       },
@@ -1103,26 +1123,6 @@
       "duration_ms": 191365,
       "name": "Cynical",
       "url": "https://open.spotify.com/track/2kNhZ57JHXkZPZH2rknRyu"
-    },
-    {
-      "added_at": "2023-12-15 10:07:36",
-      "album": {
-        "name": "Whistle (feat. Calum Scott)",
-        "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 181957,
-      "name": "Whistle (feat. Calum Scott)",
-      "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
     },
     {
       "added_at": "2023-12-15 10:07:36",
@@ -2279,6 +2279,26 @@
     {
       "added_at": "2023-12-15 10:07:36",
       "album": {
+        "name": "Sun Will Shine",
+        "url": "https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 201700,
+      "name": "Sun Will Shine",
+      "url": "https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf"
+    },
+    {
+      "added_at": "2023-12-15 10:07:36",
+      "album": {
         "name": "Behind These Hazel Eyes",
         "url": "https://open.spotify.com/album/38t6RciouD0GiLWdGz30bq"
       },
@@ -2323,26 +2343,6 @@
     {
       "added_at": "2023-12-15 10:07:36",
       "album": {
-        "name": "Sun Will Shine",
-        "url": "https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 201700,
-      "name": "Sun Will Shine",
-      "url": "https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf"
-    },
-    {
-      "added_at": "2023-12-15 10:07:36",
-      "album": {
         "name": "Living In A Haze",
         "url": "https://open.spotify.com/album/0i97wLIXfWMDi3vyRDZBCn"
       },
@@ -2375,30 +2375,6 @@
     {
       "added_at": "2023-12-15 10:07:36",
       "album": {
-        "name": "Celular",
-        "url": "https://open.spotify.com/album/63lKEkj06RrCmAOKRURfnd"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        }
-      ],
-      "duration_ms": 176017,
-      "name": "Celular",
-      "url": "https://open.spotify.com/track/0LUG9jzDNXcIdIWeSx9g2C"
-    },
-    {
-      "added_at": "2023-12-15 10:07:36",
-      "album": {
         "name": "Summer Hits 2023",
         "url": "https://open.spotify.com/album/2yvOcQ8ZZvOKntENMFBrbI"
       },
@@ -2427,6 +2403,30 @@
       "duration_ms": 128500,
       "name": "Calabria (feat. Fallen Roses, Lujavo & Lunis)",
       "url": "https://open.spotify.com/track/1rENS47PLnO8c7WIjRCD46"
+    },
+    {
+      "added_at": "2023-12-15 10:07:36",
+      "album": {
+        "name": "Celular",
+        "url": "https://open.spotify.com/album/63lKEkj06RrCmAOKRURfnd"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "duration_ms": 176017,
+      "name": "Celular",
+      "url": "https://open.spotify.com/track/0LUG9jzDNXcIdIWeSx9g2C"
     },
     {
       "added_at": "2023-12-15 10:07:36",

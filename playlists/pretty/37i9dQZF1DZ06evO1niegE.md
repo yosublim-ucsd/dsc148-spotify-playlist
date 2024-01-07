@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 
 > This is RENEE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,356 likes - 42 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,355 likes - 42 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 |
 | 2 | [Quiero Quedarme para Siempre](https://open.spotify.com/track/78LESagKrWYm0P9E4cyRSj) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Blockbuster](https://open.spotify.com/album/5a159rNIxq78lGa4qnoZBL) | 3:09 |
-| 3 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 |
-| 4 | [Extraños de Nuevo](https://open.spotify.com/track/4vV6excnr7nrFInnJgh7Ta) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Extraños de Nuevo](https://open.spotify.com/album/5TW21m3j4vJJJkeVepCHYm) | 3:15 |
+| 3 | [Extraños de Nuevo](https://open.spotify.com/track/4vV6excnr7nrFInnJgh7Ta) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Extraños de Nuevo](https://open.spotify.com/album/5TW21m3j4vJJJkeVepCHYm) | 3:15 |
+| 4 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 |
 | 5 | [Intenciones](https://open.spotify.com/track/5S9qL73dCtClMT4yUsiO8u) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Intenciones](https://open.spotify.com/album/6UInVEPu90rc9kk8ijJux3) | 2:43 |
 | 6 | [Enferma Despedida](https://open.spotify.com/track/48WuFR4lmQPfSRpxvvHiGp) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Enferma Despedida](https://open.spotify.com/album/0ZlbvOSPxMkOHxAOEN0lZ2) | 2:32 |
-| 7 | [Rakata](https://open.spotify.com/track/14JaytPzvtwvCxCpsEVyYE) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Rakata](https://open.spotify.com/album/3NU2lWZGlLBk3ojxy0yE2E) | 3:02 |
-| 8 | [Mechero](https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Mechero](https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK) | 2:35 |
+| 7 | [Mechero](https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Mechero](https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK) | 2:35 |
+| 8 | [Rakata](https://open.spotify.com/track/14JaytPzvtwvCxCpsEVyYE) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Rakata](https://open.spotify.com/album/3NU2lWZGlLBk3ojxy0yE2E) | 3:02 |
 | 9 | [Algo Bien](https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 |
 | 10 | [Perfecto](https://open.spotify.com/track/13ONDA0L1dvjt4j8mPU6g8) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Perfecto](https://open.spotify.com/album/5k6QNIKLvjMn4nfu3OV7Na) | 2:32 |
 | 11 | [Alta Joya](https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Alta Joya](https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva) | 3:21 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 | 41 | [Día De Abril](https://open.spotify.com/track/3ZoSR2D2UCPQMbuZJIRKzJ) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Canto Tu Historia \(VOL\. 1\)](https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz) | 2:56 |
 | 42 | [fior](https://open.spotify.com/track/6GtWgDj1nK1TBahvOwYLvg) | [Efelante](https://open.spotify.com/artist/2RBUJpND98jnw4EwFCJiiX), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [fior](https://open.spotify.com/album/6zbSHO2tNXiuCTOIjhgZnD) | 5:11 |
 
-Snapshot ID: `Mjg0MDc3MDMsMDAwMDAwMDA0OWVlNTA0NTZhMTYxNDg5Njg5NTg3OTQxMjk4MjEyYw==`
+Snapshot ID: `Mjg0MDkwNTYsMDAwMDAwMDAyYjcxNmE0ZjA4ZWM0YTQ3ZTRmMWRjMGZhYjU0NWQ5ZA==`

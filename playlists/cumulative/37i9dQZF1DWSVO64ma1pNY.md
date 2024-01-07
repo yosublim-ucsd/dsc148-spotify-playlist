@@ -4,7 +4,7 @@
 
 > Life sucks...i need some rock!
 
-112 songs - 6 hr 43 min
+113 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Burn It to the Ground](https://open.spotify.com/track/1jq28NGw6wdtFKx8MBPy6C) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Dark Horse](https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC) | 3:32 | 2023-09-28 |  |
 | [But Here We Are](https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 4:43 | 2023-09-28 |  |
 | [Ce n'est Rien](https://open.spotify.com/track/6KeX6s6Q2FzInw2qvnqyOh) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Moral Panic \(The Complete Edition\)](https://open.spotify.com/album/3hDxbjNyiWDhOFBXSThxVF) | 3:00 | 2023-09-28 |  |
-| [Circling the Drain](https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Circling the Drain](https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g) | 3:49 | 2023-10-25 |  |
+| [Circling the Drain](https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Circling the Drain](https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g) | 3:49 | 2023-10-25 | 2024-01-07 |
 | [Control](https://open.spotify.com/track/575Sz3R4xOhueUstPObylF) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 3:50 | 2023-09-28 |  |
 | [Crazy](https://open.spotify.com/track/4e5GTUlVObWYB7WUkyKa7g) | [Makeout](https://open.spotify.com/artist/4RkIeqeY7seRZby4X73Ajk) | [The Good Life](https://open.spotify.com/album/5cxdVsmUNjq5w3D6Pgk4yJ) | 2:30 | 2023-10-25 |  |
 | [Crazy](https://open.spotify.com/track/4llPBbY2ytrSn5z4wX1UKO) | [Makeout](https://open.spotify.com/artist/4RkIeqeY7seRZby4X73Ajk) | [The Good Life](https://open.spotify.com/album/0EediFqDde4eULfWGkBoxN) | 2:30 | 2023-09-28 | 2023-11-05 |
@@ -95,6 +95,7 @@
 | [Room to Breathe](https://open.spotify.com/track/1aE29eShFo1ARRmaIarby0) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Cavalier Youth \(Bonus Track Version\)](https://open.spotify.com/album/5kbGUfQmvyAN2FXaLXf4Pd) | 3:59 | 2023-09-28 | 2023-11-04 |
 | [Savior Mode](https://open.spotify.com/track/0G6fFMKdbf7fI3S1gLHSRK) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [Too Quick to Forgive](https://open.spotify.com/album/7ECEe6gQMlJNjykkX7F7RY) | 4:21 | 2023-09-28 | 2023-12-31 |
 | [Shot In The Dark](https://open.spotify.com/track/6ZtrGCcn38kGImt2GPFbJB) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Shot In The Dark](https://open.spotify.com/album/1Rz3Q2PIhrCs21itNShUxB) | 3:05 | 2023-09-28 |  |
+| [Skeletons](https://open.spotify.com/track/3xxM2OEHAAYnpr2KiPdW4B) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Skeletons](https://open.spotify.com/album/53Qn747V1G16yJvN363RZA) | 3:29 | 2023-10-25 |  |
 | [Skeletons](https://open.spotify.com/track/7klR0a6pWaMiRanIkwg1vy) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Skeletons](https://open.spotify.com/album/42wOkbQaZa1jnpBpUmk5Zv) | 3:29 | 2023-09-28 | 2023-12-24 |
 | [Slither](https://open.spotify.com/track/7kF1iPJTj3VFJX9XokQ80F) | [Velvet Revolver](https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM) | [Contraband](https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB) | 4:08 | 2023-09-28 |  |
 | [snarky](https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [kenopsia](https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp) | 4:05 | 2023-09-28 |  |

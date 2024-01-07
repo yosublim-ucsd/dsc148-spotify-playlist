@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 水樹奈々
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,756 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,762 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [Follow You!](https://open.spotify.com/track/6Vz2wRCUC46AFLKcsOctWr) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [Follow You!](https://open.spotify.com/album/6TXA4m00EeLl10QlKW0PZP) | 3:40 |
 | 50 | [Angel Ladder](https://open.spotify.com/track/1ShMFZI6aHbNsX8gJ1nB8f) | [サンドリオン](https://open.spotify.com/artist/2qP4MQzvWRkgVVNpxRVdm6) | [Angel Ladder](https://open.spotify.com/album/0wOqYylqQDfR5WaatVSvN1) | 4:18 |
 
-Snapshot ID: `MCw0ODQ5NjQ1MTliODRjOTM4ZmY3ZWZmN2ExMzU4YTlkYjcwYmMxNDVm`
+Snapshot ID: `MCxjODdjY2NkZjJiMzVmYzI0NGVmNzY3NjdiMWU5N2U0NWI5MzIyZjY0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,089 likes - 115 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,301 likes - 115 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,10 +70,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 60 | [Somewhere In Time \- Main Theme](https://open.spotify.com/track/68L5TNgWMtHcH8Ut5QZk60) | [Roger Williams](https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u) | [Somewhere In Time \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/51Jc2jeLXHZR1EempMR59j) | 3:24 |
 | 61 | [Wheels](https://open.spotify.com/track/2RVrL0fZ7O0mwdyWlwjyLW) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [Orange Blossom Special And Wheels](https://open.spotify.com/album/2M9TCUQuMDdf1NSHbTMUh0) | 2:08 |
 | 62 | [Frenesí](https://open.spotify.com/track/5zjvGVW2c8RFklSHCYMN1e) | [Orquesta Romántica de La Habana](https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV) | [Boleros Bonitos](https://open.spotify.com/album/3oNeFcF6XfTajPE2GAEbEg) | 2:49 |
-| 63 | [Lady Milady](https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41) | [Pop Concerto Orchestra](https://open.spotify.com/artist/5RAZ2L3pXwmPmDx6OxKW30) | [Best of Pop Concerto Orchestra](https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ) | 2:36 |
+| 63 | [Corazón de Niño](https://open.spotify.com/track/56y7Xna4NmOjX8VNz4dlNk) | [Raul Di Blasio](https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u) | [Grandes Exitos](https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS) | 3:39 |
 | 64 | [Les Parapluies de Cherbourg](https://open.spotify.com/track/3bkNIeAr9FJXzCHUaF0ISU) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [100 All Time Greatest Hits](https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI) | 2:22 |
-| 65 | [Billy Jack's Theme](https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7) | [The Sidewalk Sounds](https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60) | [Born Losers](https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx) | 2:01 |
-| 66 | [Corazón de Niño](https://open.spotify.com/track/56y7Xna4NmOjX8VNz4dlNk) | [Raul Di Blasio](https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u) | [Grandes Exitos](https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS) | 3:39 |
+| 65 | [Lady Milady](https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41) | [Pop Concerto Orchestra](https://open.spotify.com/artist/5RAZ2L3pXwmPmDx6OxKW30) | [Best of Pop Concerto Orchestra](https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ) | 2:36 |
+| 66 | [Billy Jack's Theme](https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7) | [The Sidewalk Sounds](https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60) | [Born Losers](https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx) | 2:01 |
 | 67 | [Never On Sunday](https://open.spotify.com/track/5mz2sOKTkykheJlp88CTfd) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Tara's Theme from "Gone With The Wind" and Other Movie Themes](https://open.spotify.com/album/0dA8Iq9534j5yb7b4HA6Li) | 2:42 |
 | 68 | [Concierto para una sola voz](https://open.spotify.com/track/71Vj40n7wg7dMisyYoqnaR) | [Robson Miguel y grupo](https://open.spotify.com/artist/3QckOH5MxiJPtL4RzbcqmY) | [Sueño azul](https://open.spotify.com/album/2uozm6SnxlgkFxrtlq7WCU) | 2:22 |
 | 69 | [Caballo Negro](https://open.spotify.com/track/5ossFJafGKTdM8uc5p3vJ2) | [Manolo Sanlucar](https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi) | [Manolo Sanlucar](https://open.spotify.com/album/1POsubNNoXHoZPs0Po5Eyn) | 3:25 |
@@ -114,14 +114,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 104 | [Woodpecker Song](https://open.spotify.com/track/1b39F2Q4sNP8R9PwGK8G5D) | [Tony Mottola y Su Orquesta](https://open.spotify.com/artist/5qByAjccmQRznP524QB0wy) | [Tony Mottola y Su Orquesta](https://open.spotify.com/album/5XPpYqZJ3zdJv4qAI0NBYl) | 1:53 |
 | 105 | [Promise Of A Fisherman \(Promessa De Pescador\)](https://open.spotify.com/track/2nOAhdgtLa0o075vKRe9op) | [Sergio Mendes & Brasil '77](https://open.spotify.com/artist/67jdJKipXNstJJV9uPW1uk) | [Celebration: A Musical Journey](https://open.spotify.com/album/6U8hr5BSTpYqSMmih29HpO) | 3:33 |
 | 106 | [The Approaching Storm](https://open.spotify.com/track/3e0cRTxwmvm6odXYSqnvWg) | [Kristin Amarie](https://open.spotify.com/artist/0lhOm4jmoIIpcz37f8GTuK), [David Lanz](https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c) | [Norwegian Rain](https://open.spotify.com/album/4UFzXm7zEUzoVLRulDGR1B) | 4:53 |
-| 107 | [](https://open.spotify.com/track/2jA7IONZUcWrYxEMnwAPDZ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56) | 0:00 |
-| 108 | [Kiss of Fire](https://open.spotify.com/track/15P3eW9xG4WnfvVvHFYQS8) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Michel Legrand y Su Gran Orquesta](https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8) | 2:39 |
-| 109 | [Aria on Air](https://open.spotify.com/track/1UCSEeOXBxzcssGvMfusiz) | [DCO](https://open.spotify.com/artist/3m8kUt4fTVDHnafKhS66AZ) | [16 Joyas Del New Age](https://open.spotify.com/album/49Zu2qynr0zOPKHrM3qqto) | 3:48 |
+| 107 | [Kiss of Fire](https://open.spotify.com/track/15P3eW9xG4WnfvVvHFYQS8) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Michel Legrand y Su Gran Orquesta](https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8) | 2:39 |
+| 108 | [Aria on Air](https://open.spotify.com/track/1UCSEeOXBxzcssGvMfusiz) | [DCO](https://open.spotify.com/artist/3m8kUt4fTVDHnafKhS66AZ) | [16 Joyas Del New Age](https://open.spotify.com/album/49Zu2qynr0zOPKHrM3qqto) | 3:48 |
+| 109 | [](https://open.spotify.com/track/2jA7IONZUcWrYxEMnwAPDZ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56) | 0:00 |
 | 110 | [Saute\-Mouton](https://open.spotify.com/track/2NVfqbSEFDT6CmDA2DQMpZ) | [James Last](https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG) | [The Very Best Of](https://open.spotify.com/album/0T5JxyJdfCZAOMnX9uZehI) | 3:00 |
 | 111 | [Taboo Tu](https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Taboo 2: New Exotic Sounds of Arthur Lyman](https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T) | 2:08 |
 | 112 | [Amapola](https://open.spotify.com/track/3j0gx0OGf8G8gzc5H62Ux9) | [Joaquin Borges](https://open.spotify.com/artist/4s7HqUlMC8yjg7k2XgN99G), [National Philarmonic Orchestra](https://open.spotify.com/artist/2WOIwrP2heNknxVUWw56cS) | [Grandes Favoritas Instrumentales,Vol\. 4](https://open.spotify.com/album/4wbHEZf62R0M34a8EkuNlk) | 2:55 |
 | 113 | [Andalucia](https://open.spotify.com/track/61wVl3WPpGKHlCvChWkSXY) | [Mr\. Ho's Orchestrotica](https://open.spotify.com/artist/2pItGpy5dyOJoJWfEmCbmd) | [The Unforgettable Sounds of Esquivel](https://open.spotify.com/album/0SPXzu3ACPLUkupxHdU7Bp) | 2:41 |
-| 114 | [Boum](https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Michel Legrand y Su Gran Orquesta](https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8) | 2:15 |
-| 115 | [Beer Barrel Polka](https://open.spotify.com/track/7afv0isT1k1KXFtawmE6t3) | [André Popp](https://open.spotify.com/artist/5NmHYphEyVeNxopdYctRyJ) | [Presenting André Popp](https://open.spotify.com/album/0WhQteQEm7iV2DBiJXqoMJ) | 2:40 |
+| 114 | [Beer Barrel Polka](https://open.spotify.com/track/7afv0isT1k1KXFtawmE6t3) | [André Popp](https://open.spotify.com/artist/5NmHYphEyVeNxopdYctRyJ) | [Presenting André Popp](https://open.spotify.com/album/0WhQteQEm7iV2DBiJXqoMJ) | 2:40 |
+| 115 | [Ave Maria No Morro](https://open.spotify.com/track/1tZZ3VD2jbHBEr0KM2rHlG) | [Helmut Zacharias](https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH) | [The Incredible Helmut Zacharias](https://open.spotify.com/album/5ZfXPyyeUz8zS9YXTJLZ9A) | 2:46 |
 
-Snapshot ID: `MCw3MTMzMTliNTRmYTQzMTIwMTJkMTM1ZWFkODg0YzE3MGZlNTlkN2Fm`
+Snapshot ID: `MCw3Y2YxYjQyZjE2YzQxYmJmZjJjODgzN2M2ODcyMzk1MmM4YzgwMjBm`

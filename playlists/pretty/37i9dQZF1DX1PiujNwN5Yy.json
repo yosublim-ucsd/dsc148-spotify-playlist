@@ -1,12 +1,12 @@
 {
   "description": "Sad songs just 4 you para los d\u00edas tristes.",
-  "num_followers": 111156,
+  "num_followers": 111158,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmE3YmE3MTM4YTc2NjJjYzVkMDNjOGY3ZGViZWQyZTA2YTI2YTM0",
+  "snapshot_id": "MCw0ODViMTJhNjkyMzJhZjAxMWQ3ZjA2ZjMzOTY2NThlZmJkYzAxYTM3",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -779,18 +779,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Garden of Lucid",
-        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
+        "name": "Felicilandia",
+        "url": "https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN"
       },
       "artists": [
         {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 223465,
-      "name": "Fantasmas",
-      "url": "https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D"
+      "duration_ms": 222560,
+      "name": "Online ;(",
+      "url": "https://open.spotify.com/track/4ZL7RxR7Ce5sXDhaWkAaGa"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -811,22 +815,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Felicilandia",
-        "url": "https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN"
+        "name": "Garden of Lucid",
+        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
       },
       "artists": [
         {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
         }
       ],
-      "duration_ms": 222560,
-      "name": "Online ;(",
-      "url": "https://open.spotify.com/track/4ZL7RxR7Ce5sXDhaWkAaGa"
+      "duration_ms": 223465,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1119,18 +1119,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Mundo De Dos",
-        "url": "https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi"
+        "name": "olas",
+        "url": "https://open.spotify.com/album/2ie8MR4KjNLajmM9xYDzgP"
       },
       "artists": [
         {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+          "name": "mori",
+          "url": "https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
         }
       ],
-      "duration_ms": 197793,
-      "name": "Al Final",
-      "url": "https://open.spotify.com/track/64evbvaNb4twXgBPV42jlG"
+      "duration_ms": 164081,
+      "name": "olas",
+      "url": "https://open.spotify.com/track/4VVoiNTlsBaigg8fJOoR3w"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1151,22 +1155,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "olas",
-        "url": "https://open.spotify.com/album/2ie8MR4KjNLajmM9xYDzgP"
+        "name": "Mundo De Dos",
+        "url": "https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi"
       },
       "artists": [
         {
-          "name": "mori",
-          "url": "https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX"
-        },
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
         }
       ],
-      "duration_ms": 164081,
-      "name": "olas",
-      "url": "https://open.spotify.com/track/4VVoiNTlsBaigg8fJOoR3w"
+      "duration_ms": 197793,
+      "name": "Al Final",
+      "url": "https://open.spotify.com/track/64evbvaNb4twXgBPV42jlG"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Por Si Apareces",
+        "url": "https://open.spotify.com/album/4YSpXKlFVZdtWBLBA85ijU"
+      },
+      "artists": [
+        {
+          "name": "Alice Wonder",
+          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
+        }
+      ],
+      "duration_ms": 273506,
+      "name": "Por Si Apareces",
+      "url": "https://open.spotify.com/track/2Fqbq7cwUiGWIPqIQfiYt2"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Venecia (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3EBFHB0poFL63o1DrIMSkl"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 239692,
       "name": "Venecia - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2Q4iEmSiDVEenNSGk2rmoZ"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Por Si Apareces",
-        "url": "https://open.spotify.com/album/4YSpXKlFVZdtWBLBA85ijU"
-      },
-      "artists": [
-        {
-          "name": "Alice Wonder",
-          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
-        }
-      ],
-      "duration_ms": 273506,
-      "name": "Por Si Apareces",
-      "url": "https://open.spotify.com/track/2Fqbq7cwUiGWIPqIQfiYt2"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "La Negaci\u00f3n",
-        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 192070,
-      "name": "Sad Balada",
-      "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "No Te Voy a Ver",
         "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
       },
@@ -1555,18 +1539,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Ser tu depresi\u00f3n (ac\u00fastica)",
-        "url": "https://open.spotify.com/album/74qpyntfKwYKxV9xmKNOgz"
+        "name": "La Negaci\u00f3n",
+        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
       },
       "artists": [
         {
-          "name": "Super Especial",
-          "url": "https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1"
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
         }
       ],
-      "duration_ms": 196022,
-      "name": "Ser tu depresi\u00f3n - ac\u00fastica",
-      "url": "https://open.spotify.com/track/49Ca6orePlBwJpRmxt2Umy"
+      "duration_ms": 192070,
+      "name": "Sad Balada",
+      "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1587,6 +1571,22 @@
       "duration_ms": 188320,
       "name": "La Banqueta",
       "url": "https://open.spotify.com/track/3Rdor1XlobotIXKJOBmbO3"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Ser tu depresi\u00f3n (ac\u00fastica)",
+        "url": "https://open.spotify.com/album/74qpyntfKwYKxV9xmKNOgz"
+      },
+      "artists": [
+        {
+          "name": "Super Especial",
+          "url": "https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1"
+        }
+      ],
+      "duration_ms": 196022,
+      "name": "Ser tu depresi\u00f3n - ac\u00fastica",
+      "url": "https://open.spotify.com/track/49Ca6orePlBwJpRmxt2Umy"
     },
     {
       "added_at": "2023-12-15 05:00:00",

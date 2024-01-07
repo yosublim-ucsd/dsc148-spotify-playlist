@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 
 > This is Marcos Witt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,156 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,173 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 | 24 | [Acuérdate Oh Señor](https://open.spotify.com/track/72MDIg327QKuytMEGh1nCa) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Sana Nuestra Tierra](https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh) | 4:10 |
 | 25 | [Eres Rey](https://open.spotify.com/track/5fEOyBNgi2VQvlISgerFEf) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Eres Rey](https://open.spotify.com/album/5IElr9Pfprf2TElNtY5DNr) | 5:49 |
 | 26 | [Simplemente Gracias](https://open.spotify.com/track/1dFO3EzDl1bdNm258j2WNK) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Viviré](https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW) | 5:25 |
-| 27 | [Heme Aquí](https://open.spotify.com/track/6pcohutNG4zaMCw5UKM4Oh) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tu y Yo](https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx) | 4:00 |
-| 28 | [Al que es Digno](https://open.spotify.com/track/14ZqaxUjFW2Fhq5CcJ5mhm) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Venció](https://open.spotify.com/album/4rhVnJvuqXXEnaTbH3EaWw) | 4:08 |
+| 27 | [Al que es Digno](https://open.spotify.com/track/14ZqaxUjFW2Fhq5CcJ5mhm) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Venció](https://open.spotify.com/album/4rhVnJvuqXXEnaTbH3EaWw) | 4:08 |
+| 28 | [Heme Aquí](https://open.spotify.com/track/6pcohutNG4zaMCw5UKM4Oh) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tu y Yo](https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx) | 4:00 |
 | 29 | [Si puedes creer](https://open.spotify.com/track/46Z4MHyYfzHONL5Xc9I7da) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [En adoración](https://open.spotify.com/album/0kfCuoDxi46cnlurjvW5zD) | 6:11 |
 | 30 | [Jesús Eres Mi Buen Pastor](https://open.spotify.com/track/11bb5n9uOzwP1VX6u1iPel) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Enciende una Luz](https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO) | 6:50 |
 | 31 | [Coritos \(En Vivo\)](https://open.spotify.com/track/0t95oHRKMBi5wxaD8RSXC7) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Coritos \(En Vivo\)](https://open.spotify.com/album/4uQI1yz6vAfBTncWNqd48k) | 11:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 | 49 | [Perdonados](https://open.spotify.com/track/3L0pj40jXUDOX3p1OmZqvQ) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Homenaje a Jesús](https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J) | 2:58 |
 | 50 | [Jesús salva](https://open.spotify.com/track/2bTmFo7fvZ3zgxPTqTk1T1) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm) | [Jesús Salva](https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw) | 6:29 |
 
-Snapshot ID: `Mjg0MDc3MDMsMDAwMDAwMDA3ODRhYjgzMjU5YmE1NGQ1NTlkYTFjNDk4ZTAzNDIxOA==`
+Snapshot ID: `Mjg0MDkwNTYsMDAwMDAwMDAwZTQzODNiOWU5MGEwN2M2NGE3OTFhY2MzNjRkNWM0Yw==`

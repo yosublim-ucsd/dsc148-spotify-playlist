@@ -917,6 +917,32 @@
     },
     {
       "album": {
+        "name": "SHOTGUN (Remixed)",
+        "url": "https://open.spotify.com/album/2pkvS30fdBtvUDOmdhPlEG"
+      },
+      "artists": [
+        {
+          "name": "MixMason",
+          "url": "https://open.spotify.com/artist/5fIkkT8UZFZRKYGLdySPck"
+        },
+        {
+          "name": "Rogelio Douglas, Jr.",
+          "url": "https://open.spotify.com/artist/0ePXfiVMc8gLup2N453TiB"
+        },
+        {
+          "name": "Tyron Woods",
+          "url": "https://open.spotify.com/artist/4ESooQLvSkfCgHH19TCzmD"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190539,
+      "name": "SHOTGUN - Tyron Woods Remix",
+      "url": "https://open.spotify.com/track/6X4AeotC8BoeBtE4OUeOaF"
+    },
+    {
+      "album": {
         "name": "Shut It Down",
         "url": "https://open.spotify.com/album/15bu5n3pheWYEoc6YmEBLO"
       },

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzoMWoVzs9W.md) - [plain]
 
 > Listen to all of her hits right here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,091,912 likes - 73 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,092,077 likes - 73 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Joga Pra Lua](https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Joga Pra Lua](https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1) | 2:05 |
+| 1 | [Joga Pra Lua](https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [Joga Pra Lua](https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1) | 2:05 |
 | 2 | [BELLAKEO](https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [BELLAKEO](https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0) | 3:17 |
 | 3 | [Back for More \(with Anitta\)](https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Back for More \(with Anitta\)](https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV) | 2:11 |
 | 4 | [Mil Veces](https://open.spotify.com/track/307kaV2BoOC4pRRzwJUJxf) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Mil Veces](https://open.spotify.com/album/6BTWoZ4XMhTaLD547Mpc7S) | 2:34 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzoMWoVzs9W.md) - [plain]
 | 72 | [Turn It Up](https://open.spotify.com/track/3912zNANDuLatGYzGSobcE) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:39 |
 | 73 | [Un altro ballo \(feat\. Anitta\)](https://open.spotify.com/track/7cJ9H8e0xzC0EBdsUVIBRx) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Un altro ballo \(feat\. Anitta\)](https://open.spotify.com/album/4ntB7pGMbRx3mNMDbbT2Je) | 2:47 |
 
-Snapshot ID: `MCxkYzg1Zjg1YWVmMjdmZjA3N2ViMDc0ZjRlNzg2MzY3OGNhY2VjMmE1`
+Snapshot ID: `MCwwNzE0Y2NkNDE2ZWUwNGUyNmZlOTUzNDMzNTZiMDM2MzkxZjMyNDI0`

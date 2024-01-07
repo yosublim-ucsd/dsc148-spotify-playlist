@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 131701,
+  "num_followers": 131850,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTdhNDlmZDc4OTQ3Y2U2MmQ5N2JmZWVjN2ZjYzg5MTVlZjhjM2Qx",
+  "snapshot_id": "MCxlMzk2YjQzZTNiNDQ4N2RmNWY0NzMwY2Q4MTJjYWU5OTQxNGViMTBl",
   "tracks": [
     {
       "added_at": "2023-12-21 12:31:21",
@@ -775,26 +775,6 @@
     {
       "added_at": "2023-12-21 12:31:21",
       "album": {
-        "name": "Sisyphus",
-        "url": "https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp"
-      },
-      "artists": [
-        {
-          "name": "Golden Features",
-          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
-        },
-        {
-          "name": "Rromarin",
-          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/35va3avWAmS4HMKANASOEp"
-    },
-    {
-      "added_at": "2023-12-21 12:31:21",
-      "album": {
         "name": "LIFTED",
         "url": "https://open.spotify.com/album/6jR7uovSlToKvLXjTrPZSV"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 183460,
       "name": "Lights Go Down",
       "url": "https://open.spotify.com/track/6Q7fxyIXgrbk1bIySqbaij"
+    },
+    {
+      "added_at": "2023-12-21 12:31:21",
+      "album": {
+        "name": "Sisyphus",
+        "url": "https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp"
+      },
+      "artists": [
+        {
+          "name": "Golden Features",
+          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
+        },
+        {
+          "name": "Rromarin",
+          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/35va3avWAmS4HMKANASOEp"
     },
     {
       "added_at": "2023-12-21 12:31:21",
@@ -867,26 +867,6 @@
     {
       "added_at": "2023-12-21 12:31:21",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1"
-      },
-      "artists": [
-        {
-          "name": "Flansie",
-          "url": "https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI"
-        },
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        }
-      ],
-      "duration_ms": 246832,
-      "name": "You",
-      "url": "https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk"
-    },
-    {
-      "added_at": "2023-12-21 12:31:21",
-      "album": {
         "name": "Everything (Sonnee Remix)",
         "url": "https://open.spotify.com/album/0okrSkdtLDeof2Rgeuf6IR"
       },
@@ -907,6 +887,46 @@
       "duration_ms": 180382,
       "name": "Everything - Sonnee Remix",
       "url": "https://open.spotify.com/track/4d8znCPQ5ilRAVhkafU0EA"
+    },
+    {
+      "added_at": "2023-12-21 12:31:21",
+      "album": {
+        "name": "Do You Want Me",
+        "url": "https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 272523,
+      "name": "Do You Want Me",
+      "url": "https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6"
+    },
+    {
+      "added_at": "2023-12-21 12:31:21",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1"
+      },
+      "artists": [
+        {
+          "name": "Flansie",
+          "url": "https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "duration_ms": 246832,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk"
     },
     {
       "added_at": "2023-12-21 12:31:21",
@@ -967,26 +987,6 @@
     {
       "added_at": "2023-12-21 12:31:21",
       "album": {
-        "name": "Do You Want Me",
-        "url": "https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI"
-      },
-      "artists": [
-        {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        },
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 272523,
-      "name": "Do You Want Me",
-      "url": "https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6"
-    },
-    {
-      "added_at": "2023-12-21 12:31:21",
-      "album": {
         "name": "Function",
         "url": "https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV"
       },
@@ -1003,26 +1003,6 @@
       "duration_ms": 197639,
       "name": "Function",
       "url": "https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc"
-    },
-    {
-      "added_at": "2023-12-21 12:31:21",
-      "album": {
-        "name": "What Comes Next",
-        "url": "https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
-        }
-      ],
-      "duration_ms": 243599,
-      "name": "Get To Know (feat. Winston Surfshirt)",
-      "url": "https://open.spotify.com/track/1LvASuCm9gPr9684FFNKdt"
     },
     {
       "added_at": "2023-12-21 12:31:21",
@@ -1079,6 +1059,26 @@
     {
       "added_at": "2023-12-21 12:31:21",
       "album": {
+        "name": "LIFTED",
+        "url": "https://open.spotify.com/album/6jR7uovSlToKvLXjTrPZSV"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        }
+      ],
+      "duration_ms": 248169,
+      "name": "Waiting For Nothing",
+      "url": "https://open.spotify.com/track/2BSWidCfy0WZ7fkpwc7rAD"
+    },
+    {
+      "added_at": "2023-12-21 12:31:21",
+      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/4xG1xESLOJ8j2UGzrAFzaJ"
       },
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2023-12-21 12:31:21",
       "album": {
+        "name": "What Comes Next",
+        "url": "https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+        }
+      ],
+      "duration_ms": 243599,
+      "name": "Get To Know (feat. Winston Surfshirt)",
+      "url": "https://open.spotify.com/track/1LvASuCm9gPr9684FFNKdt"
+    },
+    {
+      "added_at": "2023-12-21 12:31:21",
+      "album": {
         "name": "Supersonic",
         "url": "https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 169658,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ"
-    },
-    {
-      "added_at": "2023-12-21 12:31:21",
-      "album": {
-        "name": "LIFTED",
-        "url": "https://open.spotify.com/album/6jR7uovSlToKvLXjTrPZSV"
-      },
-      "artists": [
-        {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        },
-        {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
-        }
-      ],
-      "duration_ms": 248169,
-      "name": "Waiting For Nothing",
-      "url": "https://open.spotify.com/track/2BSWidCfy0WZ7fkpwc7rAD"
     },
     {
       "added_at": "2023-12-21 12:31:21",

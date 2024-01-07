@@ -1,12 +1,12 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 151611,
+  "num_followers": 151707,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTVmMDQ5NGNkZjAzNTNkOTk4ZmM2ZDQwMmUzMWUzZWJmYTQ0OGI2",
+  "snapshot_id": "MCw5OTRjZWI5NjM4NjdkYmZhYTkzMjhmNzE2OTc1MzQxNzMxNGM2MGQ1",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -287,18 +287,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Um Pedido",
-        "url": "https://open.spotify.com/album/2gnoxLvqvZlneqneuT3QUE"
+        "name": "Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio",
+        "url": "https://open.spotify.com/album/34uPojzD7hB4Gq9wr0FRUP"
       },
       "artists": [
         {
-          "name": "Davi Sacer",
-          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
+          "name": "Sync 3",
+          "url": "https://open.spotify.com/artist/6eLyI9Oody0ryRmcaeiROJ"
+        },
+        {
+          "name": "Ericka Nascimento",
+          "url": "https://open.spotify.com/artist/3T7jWouy5g5iXOJH7uI0ia"
         }
       ],
-      "duration_ms": 255568,
-      "name": "Um Pedido",
-      "url": "https://open.spotify.com/track/3aATJedaQUNpGRqtYdDxJK"
+      "duration_ms": 243495,
+      "name": "Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio",
+      "url": "https://open.spotify.com/track/3GlzRz4Qwsv1Yyi5gK9wJu"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -319,22 +323,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio",
-        "url": "https://open.spotify.com/album/34uPojzD7hB4Gq9wr0FRUP"
+        "name": "Um Pedido",
+        "url": "https://open.spotify.com/album/2gnoxLvqvZlneqneuT3QUE"
       },
       "artists": [
         {
-          "name": "Sync 3",
-          "url": "https://open.spotify.com/artist/6eLyI9Oody0ryRmcaeiROJ"
-        },
-        {
-          "name": "Ericka Nascimento",
-          "url": "https://open.spotify.com/artist/3T7jWouy5g5iXOJH7uI0ia"
+          "name": "Davi Sacer",
+          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
         }
       ],
-      "duration_ms": 243495,
-      "name": "Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio",
-      "url": "https://open.spotify.com/track/3GlzRz4Qwsv1Yyi5gK9wJu"
+      "duration_ms": 255568,
+      "name": "Um Pedido",
+      "url": "https://open.spotify.com/track/3aATJedaQUNpGRqtYdDxJK"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Tudo Posso",
+        "url": "https://open.spotify.com/album/1Oi6eKip9Y6Y3I3fBk9TeJ"
+      },
+      "artists": [
+        {
+          "name": "ONE Service",
+          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
+        },
+        {
+          "name": "Lucas Augusto",
+          "url": "https://open.spotify.com/artist/7LSUgNEsBUVmqHBXeQQ2VR"
+        }
+      ],
+      "duration_ms": 397762,
+      "name": "Tudo Posso",
+      "url": "https://open.spotify.com/track/4UEfjgS7wC89PGIP2XFGzP"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Multiforme",
         "url": "https://open.spotify.com/album/2S1OyRDUOrbNBLCR6S1IOT"
       },
@@ -1131,26 +1151,6 @@
       "duration_ms": 288693,
       "name": "Gl\u00f3ria",
       "url": "https://open.spotify.com/track/5V00qGOkpLho3QRvWM8Gyh"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Tudo Posso",
-        "url": "https://open.spotify.com/album/1Oi6eKip9Y6Y3I3fBk9TeJ"
-      },
-      "artists": [
-        {
-          "name": "ONE Service",
-          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
-        },
-        {
-          "name": "Lucas Augusto",
-          "url": "https://open.spotify.com/artist/7lpdEXRFPfDzNQbkZi3SUP"
-        }
-      ],
-      "duration_ms": 397762,
-      "name": "Tudo Posso",
-      "url": "https://open.spotify.com/track/4UEfjgS7wC89PGIP2XFGzP"
     },
     {
       "added_at": "2023-12-22 03:00:00",

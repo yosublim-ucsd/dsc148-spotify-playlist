@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The biggest songs in today's Rock scene\. Cover: Palaye Royale
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,623 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,624 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 99 | [Lifetime](https://open.spotify.com/track/19dNZyDyw00aKgr6S0Os6e) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 2:56 |
 | 100 | [War](https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:54 |
 
-Snapshot ID: `MCw4MTg2YzZhMmI1NWVlZTVlMTA0Yjc0MjQ5YTBjZDY5NjQ2OGYzYjU5`
+Snapshot ID: `MCxlM2YyNGUxNTY2MzU4NTg0NGNiOWYxMzI3NzZkYzkxMWNhMjdkNDlm`

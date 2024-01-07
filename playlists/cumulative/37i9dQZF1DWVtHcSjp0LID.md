@@ -4,7 +4,7 @@
 
 > Deep beats to study to.
 
-176 songs - 16 hr 48 min
+177 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [The Ganga river unpolluted once more](https://open.spotify.com/track/4eFT4z7SXuDNzU9erIH9Ki) | [Aron Estocolmo](https://open.spotify.com/artist/2QU3bcawUYfHbcPmWPHtra) | [In search of Moksha..\. Or something of the kind](https://open.spotify.com/album/1ZYN9az0XRYYi3sGRt836S) | 6:37 | 2022-03-22 | 2023-04-26 |
 | [The Hymn Of Fallen Dreams](https://open.spotify.com/track/5o6XskFbO8jYabXJZIah8l) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [Hold Me To The Light](https://open.spotify.com/album/0Z9BaFHQjPMDOwAUXh32zI) | 7:54 | 2022-03-22 | 2023-06-10 |
 | [The Only Way Out Is Through](https://open.spotify.com/track/35bAjRIbS6LGuxCR9aP92T) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [The Only Way Out Is Through](https://open.spotify.com/album/7xHkCvvUUAN7vDz9CrtJb5) | 8:14 | 2023-06-09 |  |
-| [The Other Room](https://open.spotify.com/track/3BqEAXUXFoBLm2JXbEuG7o) | [Iron Curtis](https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH), [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt) | [Moon III](https://open.spotify.com/album/27iqJdbf0OjVwFyDdw4nq4) | 1:57 | 2023-06-09 |  |
+| [The Other Room](https://open.spotify.com/track/3BqEAXUXFoBLm2JXbEuG7o) | [Iron Curtis](https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH), [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt) | [Moon III](https://open.spotify.com/album/27iqJdbf0OjVwFyDdw4nq4) | 1:57 | 2023-06-09 | 2024-01-07 |
 | [The Right Place \(feat\. Teira\)](https://open.spotify.com/track/3BOoEOCwmEw0c7C9UXGkwH) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Teira](https://open.spotify.com/artist/3M6tK86Oc9mTbCH2kw3RWh) | [Mirrors](https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7) | 4:32 | 2023-06-09 |  |
 | [The Year After](https://open.spotify.com/track/3VZ3LogsGmVdGuDwOGZgqu) | [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e) | [The Year After](https://open.spotify.com/album/4q14VFOUqwQLNMQzVdJUBG) | 7:08 | 2022-03-22 | 2022-07-29 |
 | [The Year After](https://open.spotify.com/track/7eeu7aUoOaK7j3w7Cb2eiY) | [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e) | [The Year After](https://open.spotify.com/album/07h9aRI5hbIbaF0ltioU2M) | 7:08 | 2022-07-15 |  |
@@ -169,6 +169,7 @@
 | [Trinity \- Amelie Lens Remix](https://open.spotify.com/track/14K7vrt1x7axRIXvHP0e2r) | [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Trinity](https://open.spotify.com/album/1EqeS2WcAaUwzVGsDGiJBN) | 7:23 | 2023-06-09 |  |
 | [Trivia](https://open.spotify.com/track/3RdmKETgOJTBvNH8DBH5ND) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [The Two of Us](https://open.spotify.com/album/0TA4nUzkgQcOO6P6YyHP29) | 5:44 | 2022-07-15 | 2023-06-10 |
 | [Trivia](https://open.spotify.com/track/6bBOqKo9sNWLYo3Npi2Rgx) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [The Two of Us](https://open.spotify.com/album/5vVxRQ41pVMgMHIMUm80vh) | 5:44 | 2022-03-22 | 2022-07-29 |
+| [Truman Sleeps](https://open.spotify.com/track/0BXOKtZDCf9gLOMmqPZfAY) | [Third Son](https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc) | [Retrograde](https://open.spotify.com/album/7MZG3LSOOdw5tfFFN9OJUs) | 1:32 | 2023-06-09 |  |
 | [Truman Sleeps](https://open.spotify.com/track/3gNbDI069mCAClIz13MBgI) | [Third Son](https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc) | [Retrograde](https://open.spotify.com/album/0tllI5pQGWDzlIBGvmUnlm) | 1:32 | 2023-06-09 | 2023-11-05 |
 | [unbank](https://open.spotify.com/track/190GSTVWclTF80ksnXoxfy) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [scintilli](https://open.spotify.com/album/6u0491tdcL0GcQpNDWDiX5) | 3:55 | 2022-03-22 | 2022-04-21 |
 | [Vanilla](https://open.spotify.com/track/050gkqbA6Rl0SRZpzQKrAr) | [Gavinco](https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6) | [Vanilla](https://open.spotify.com/album/4Xs7MNZpiPaKnM4BqkdXTj) | 6:47 | 2022-03-22 | 2023-06-10 |

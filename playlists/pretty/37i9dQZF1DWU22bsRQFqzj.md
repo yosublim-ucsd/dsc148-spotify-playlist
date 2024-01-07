@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU22bsRQFqzj.md) - [plain]
 
 > La musica è la tua marcia in più! 🏃 Hit dance e pop per le tue sessioni di cardio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,084 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,125 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU22bsRQFqzj.md) - [plain]
 | 74 | [In Your Arms \(For An Angel\)](https://open.spotify.com/track/5WOnsi0Bug74LmhxcPfKvR) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [In Your Arms \(For An Angel\)](https://open.spotify.com/album/5wcSb6xtmgO4YvmVV1Xt7b) | 2:30 |
 | 75 | [Quédate \- Tiësto Remix](https://open.spotify.com/track/79wDq3jpGu0yew1ngQpAAi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Quédate \(Tiësto Remix\)](https://open.spotify.com/album/5IZcEkLkf0oQNFlgFGocxr) | 3:52 |
 
-Snapshot ID: `MCw4NjQ3YmRhNTBjNjljNjY3Njk5YTg1Y2VmMTUwNGIyMDAxYWNiNzA1`
+Snapshot ID: `MCw3MzgxNDY2MDFlNDcyMmE4Nzk4MmVkOWNlNGM0ODEwMzBjMjAyZmVm`

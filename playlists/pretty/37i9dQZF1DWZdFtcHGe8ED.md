@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Anthrax
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,585 likes - 120 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,763 likes - 120 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,12 +70,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 60 | [Slaves of Pain](https://open.spotify.com/track/7lD9KnYOyQyoYIBHOWKrdz) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Beneath the Remains](https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z) | 4:04 |
 | 61 | [Start the Fire](https://open.spotify.com/track/6EDh3fGDzhYlgzPiccnRKe) | [Metal Church](https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP) | [The Dark](https://open.spotify.com/album/32nLLpycunqmJfnF3EEfNJ) | 3:45 |
 | 62 | [Pleasure to Kill](https://open.spotify.com/track/3LFeYtxcstS7tezHLWuUY5) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [Pleasure to Kill](https://open.spotify.com/album/2eAK1pBzED09E9ooIAznXP) | 4:09 |
-| 63 | [Combat Mosh](https://open.spotify.com/track/04FfBJZBfU0UR5uqR4CJAD) | [Lich King](https://open.spotify.com/artist/4rlxS0LeVnHz6z1zp2iJbz) | [Born Of The Bomb](https://open.spotify.com/album/0zV6u0B6tozejS9ol4rfca) | 4:39 |
+| 63 | [Collapse in the Key of Fireworks](https://open.spotify.com/track/5IHuTwMWWGFof1sOk7dR7x) | [Johnny Booth](https://open.spotify.com/artist/2rEKSdoBVBEOjGYf4BfYgc) | [Moments Elsewhere](https://open.spotify.com/album/54jLv7qhitycZp9GiQ3t1C) | 2:54 |
 | 64 | [Divine Apprehension](https://open.spotify.com/track/430VZGvjBfWzjVf0vZkbb8) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Opening Fire: 2008\-2014](https://open.spotify.com/album/0rZIGEccKBNGf2oqFKzoD5) | 4:17 |
-| 65 | [I Sever](https://open.spotify.com/track/2mUGAyLahjCX5TQ9VB8vX2) | [Sylosis](https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl) | [Cycle of Suffering](https://open.spotify.com/album/667otcFavTltYttK0VqcVm) | 5:08 |
-| 66 | [Collapse in the Key of Fireworks](https://open.spotify.com/track/5IHuTwMWWGFof1sOk7dR7x) | [Johnny Booth](https://open.spotify.com/artist/2rEKSdoBVBEOjGYf4BfYgc) | [Moments Elsewhere](https://open.spotify.com/album/54jLv7qhitycZp9GiQ3t1C) | 2:54 |
-| 67 | [Nuke The Cross](https://open.spotify.com/track/41DPdRpN14Xv8khpafNZmg) | [Toxic Holocaust](https://open.spotify.com/artist/0WVXlaglIOtQueNbucPjZ0) | [An Overdose of Death...](https://open.spotify.com/album/5UfQpdGMJJ4dfhk7BnHiEU) | 2:47 |
-| 68 | [Cult](https://open.spotify.com/track/7jkdjLkhSQRcVA3lsnTClQ) | [Evile](https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo) | [Five Serpent's Teeth](https://open.spotify.com/album/3VL9IPd5pYeOXJJcRSUXpK) | 4:51 |
+| 65 | [Combat Mosh](https://open.spotify.com/track/04FfBJZBfU0UR5uqR4CJAD) | [Lich King](https://open.spotify.com/artist/4rlxS0LeVnHz6z1zp2iJbz) | [Born Of The Bomb](https://open.spotify.com/album/0zV6u0B6tozejS9ol4rfca) | 4:39 |
+| 66 | [I Sever](https://open.spotify.com/track/2mUGAyLahjCX5TQ9VB8vX2) | [Sylosis](https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl) | [Cycle of Suffering](https://open.spotify.com/album/667otcFavTltYttK0VqcVm) | 5:08 |
+| 67 | [Cult](https://open.spotify.com/track/7jkdjLkhSQRcVA3lsnTClQ) | [Evile](https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo) | [Five Serpent's Teeth](https://open.spotify.com/album/3VL9IPd5pYeOXJJcRSUXpK) | 4:51 |
+| 68 | [Nuke The Cross](https://open.spotify.com/track/41DPdRpN14Xv8khpafNZmg) | [Toxic Holocaust](https://open.spotify.com/artist/0WVXlaglIOtQueNbucPjZ0) | [An Overdose of Death...](https://open.spotify.com/album/5UfQpdGMJJ4dfhk7BnHiEU) | 2:47 |
 | 69 | [Strike of the Beast](https://open.spotify.com/track/3nBbTSjJpTHDyz3D1x1rDu) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Bonded by Blood](https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD) | 3:57 |
 | 70 | [666Teen](https://open.spotify.com/track/3FzPWVOfYBi646pFcei6f3) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN) | [Speed Between the Lines](https://open.spotify.com/album/3Ti0nXYU3jdrWkIV8gxpaA) | 2:56 |
 | 71 | [Beneath The Wheel](https://open.spotify.com/track/3JqTeGdODAcf9mWM9mKJOO) | [D.R.I.](https://open.spotify.com/artist/6eKzDvHhJgMtcaOrvEXCTv) | [Thrash Zone](https://open.spotify.com/album/6U2m5pMfP1WvVN7swAIsIC) | 5:36 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 119 | [Bestial Invasion](https://open.spotify.com/track/2TNiNhyFLXAjtBuVydgYfo) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [Infernal Overkill](https://open.spotify.com/album/6Alq1l8ezrAFtEK0tCWnZC) | 4:36 |
 | 120 | [Agents of Steel](https://open.spotify.com/track/7vhN8nkLJKIlQIfhp6gkuE) | [Agent Steel](https://open.spotify.com/artist/1FQv3rI4iJPitbZiTxBGut) | [Skeptics Apocalypse](https://open.spotify.com/album/33w5Y1NMYvaifunYJJtDCT) | 3:03 |
 
-Snapshot ID: `MCw2NGJjNjc1M2QzYjVlZjJjNGU2NDVlNTQyMmY5MWZiZmRhNGVhY2Nk`
+Snapshot ID: `MCxjYjU3N2QxNjVmOWM3NGZiNzEyZmQxZTc3NjUwMGMyYWQwMzZiZTM2`

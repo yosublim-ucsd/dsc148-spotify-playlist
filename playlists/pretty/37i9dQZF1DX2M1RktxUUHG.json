@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 2020s.",
-  "num_followers": 58185,
+  "num_followers": 58761,
   "original_name": "All Out 2020s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODA3YmIyNGE4MzM5NjlkMjAwN2IyYzNkNjZlN2Q2MzQ4M2E4ZWQw",
+  "snapshot_id": "MCw0MDMwYTFhOWFkYmZmZWM3ZjY0ZjVkYTY3ZThkMjlmMGFlYjE4OWZi",
   "tracks": [
     {
       "added_at": "2024-01-04 03:44:12",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-01-04 03:44:12",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
-    },
-    {
-      "added_at": "2024-01-04 03:44:12",
-      "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
+    },
+    {
+      "added_at": "2024-01-04 03:44:12",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
       "added_at": "2024-01-04 03:44:12",
@@ -247,6 +247,22 @@
     {
       "added_at": "2024-01-04 03:44:12",
       "album": {
+        "name": "Kid Krow",
+        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Heather",
+      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
+    },
+    {
+      "added_at": "2024-01-04 03:44:12",
+      "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
-    },
-    {
-      "added_at": "2024-01-04 03:44:12",
-      "album": {
-        "name": "Kid Krow",
-        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Heather",
-      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
     },
     {
       "added_at": "2024-01-04 03:44:12",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-01-04 03:44:12",
       "album": {
-        "name": "Petals to Thorns",
-        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 242484,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr"
-    },
-    {
-      "added_at": "2024-01-04 03:44:12",
-      "album": {
         "name": "Calm Down (with Selena Gomez)",
         "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
+    },
+    {
+      "added_at": "2024-01-04 03:44:12",
+      "album": {
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 242484,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr"
     },
     {
       "added_at": "2024-01-04 03:44:12",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-01-04 03:44:12",
       "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
+    },
+    {
+      "added_at": "2024-01-04 03:44:12",
+      "album": {
         "name": "My 21st Century Blues",
         "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
-    },
-    {
-      "added_at": "2024-01-04 03:44:12",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
     },
     {
       "added_at": "2024-01-04 03:44:12",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-01-04 03:44:12",
       "album": {
-        "name": "WHERE SHE GOES",
-        "url": "https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 231704,
-      "name": "WHERE SHE GOES",
-      "url": "https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1"
-    },
-    {
-      "added_at": "2024-01-04 03:44:12",
-      "album": {
         "name": "Miracle (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
       },
@@ -943,18 +927,34 @@
     {
       "added_at": "2024-01-04 03:44:12",
       "album": {
-        "name": "Por las Noches",
-        "url": "https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe"
+        "name": "WHERE SHE GOES",
+        "url": "https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB"
       },
       "artists": [
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 239845,
-      "name": "Por las Noches",
-      "url": "https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa"
+      "duration_ms": 231704,
+      "name": "WHERE SHE GOES",
+      "url": "https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1"
+    },
+    {
+      "added_at": "2024-01-04 03:44:12",
+      "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 134256,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
     },
     {
       "added_at": "2024-01-04 03:44:12",
@@ -979,18 +979,18 @@
     {
       "added_at": "2024-01-04 03:44:12",
       "album": {
-        "name": "Takin' It Back",
-        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+        "name": "Por las Noches",
+        "url": "https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe"
       },
       "artists": [
         {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 134256,
-      "name": "Made You Look",
-      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
+      "duration_ms": 239845,
+      "name": "Por las Noches",
+      "url": "https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa"
     },
     {
       "added_at": "2024-01-04 03:44:12",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-01-04 03:44:12",
       "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
-    },
-    {
-      "added_at": "2024-01-04 03:44:12",
-      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 177954,
       "name": "Late Night Talking",
       "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
+    },
+    {
+      "added_at": "2024-01-04 03:44:12",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
     },
     {
       "added_at": "2024-01-04 03:44:12",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-01-04 03:44:12",
       "album": {
-        "name": "- (Deluxe)",
-        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 194848,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg"
-    },
-    {
-      "added_at": "2024-01-04 03:44:12",
-      "album": {
         "name": "3:15 (Breathe)",
         "url": "https://open.spotify.com/album/6QYK9rRB1nJ1ZnhEiOKT1J"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 184000,
       "name": "3:15 (Breathe)",
       "url": "https://open.spotify.com/track/0dGqP4VickYjtIaB5VOt4H"
+    },
+    {
+      "added_at": "2024-01-04 03:44:12",
+      "album": {
+        "name": "- (Deluxe)",
+        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 194848,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg"
     },
     {
       "added_at": "2024-01-04 03:44:12",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2024-01-04 03:44:12",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 208666,
-      "name": "Kiss Me More (feat. SZA)",
-      "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
-    },
-    {
-      "added_at": "2024-01-04 03:44:12",
-      "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+    },
+    {
+      "added_at": "2024-01-04 03:44:12",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 208666,
+      "name": "Kiss Me More (feat. SZA)",
+      "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
     },
     {
       "added_at": "2024-01-04 03:44:12",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-01-04 03:44:12",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Need to Know",
-      "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi"
-    },
-    {
-      "added_at": "2024-01-04 03:44:12",
-      "album": {
         "name": "CKay The First",
         "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 145800,
       "name": "love nwantiti (ah ah ah)",
       "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
+    },
+    {
+      "added_at": "2024-01-04 03:44:12",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Need to Know",
+      "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi"
     },
     {
       "added_at": "2024-01-04 03:44:12",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-01-04 03:44:12",
       "album": {
-        "name": "Speed Drive (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 117809,
-      "name": "Speed Drive (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
-    },
-    {
-      "added_at": "2024-01-04 03:44:12",
-      "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 173710,
       "name": "34+35",
       "url": "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF"
+    },
+    {
+      "added_at": "2024-01-04 03:44:12",
+      "album": {
+        "name": "Speed Drive (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 117809,
+      "name": "Speed Drive (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
     },
     {
       "added_at": "2024-01-04 03:44:12",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2024-01-04 03:44:12",
       "album": {
-        "name": "WAP (feat. Megan Thee Stallion)",
-        "url": "https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 187541,
-      "name": "WAP (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"
-    },
-    {
-      "added_at": "2024-01-04 03:44:12",
-      "album": {
         "name": "Shoot For The Stars Aim For The Moon",
         "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },
@@ -1743,18 +1723,22 @@
     {
       "added_at": "2024-01-04 03:44:12",
       "album": {
-        "name": "all the things i never said",
-        "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
+        "name": "WAP (feat. Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 175026,
-      "name": "that way",
-      "url": "https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC"
+      "duration_ms": 187541,
+      "name": "WAP (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"
     },
     {
       "added_at": "2024-01-04 03:44:12",
@@ -1771,6 +1755,22 @@
       "duration_ms": 203666,
       "name": "Forget Me",
       "url": "https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA"
+    },
+    {
+      "added_at": "2024-01-04 03:44:12",
+      "album": {
+        "name": "all the things i never said",
+        "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 175026,
+      "name": "that way",
+      "url": "https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC"
     },
     {
       "added_at": "2024-01-04 03:44:12",
@@ -1843,6 +1843,26 @@
     {
       "added_at": "2024-01-04 03:44:12",
       "album": {
+        "name": "Head & Heart (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 166028,
+      "name": "Head & Heart (feat. MNEK)",
+      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
+    },
+    {
+      "added_at": "2024-01-04 03:44:12",
+      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
@@ -1871,26 +1891,6 @@
       "duration_ms": 182906,
       "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
       "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
-    },
-    {
-      "added_at": "2024-01-04 03:44:12",
-      "album": {
-        "name": "Head & Heart (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 166028,
-      "name": "Head & Heart (feat. MNEK)",
-      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
     },
     {
       "added_at": "2024-01-04 03:44:12",
@@ -1967,6 +1967,22 @@
     {
       "added_at": "2024-01-04 03:44:12",
       "album": {
+        "name": "Hot Pink",
+        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 237893,
+      "name": "Say So",
+      "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
+    },
+    {
+      "added_at": "2024-01-04 03:44:12",
+      "album": {
         "name": "everything means nothing",
         "url": "https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh"
       },
@@ -1995,22 +2011,6 @@
       "duration_ms": 139741,
       "name": "WHATS POPPIN",
       "url": "https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM"
-    },
-    {
-      "added_at": "2024-01-04 03:44:12",
-      "album": {
-        "name": "Hot Pink",
-        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 237893,
-      "name": "Say So",
-      "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
     },
     {
       "added_at": "2024-01-04 03:44:12",
@@ -2175,30 +2175,6 @@
     {
       "added_at": "2024-01-04 03:44:12",
       "album": {
-        "name": "THE ANXIETY",
-        "url": "https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K"
-      },
-      "artists": [
-        {
-          "name": "THE ANXIETY",
-          "url": "https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP"
-        },
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        },
-        {
-          "name": "Tyler Cole",
-          "url": "https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg"
-        }
-      ],
-      "duration_ms": 162680,
-      "name": "Meet Me At Our Spot",
-      "url": "https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG"
-    },
-    {
-      "added_at": "2024-01-04 03:44:12",
-      "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
       },
@@ -2223,6 +2199,30 @@
       "duration_ms": 162603,
       "name": "OUT OUT (feat. Charli XCX & Saweetie)",
       "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
+    },
+    {
+      "added_at": "2024-01-04 03:44:12",
+      "album": {
+        "name": "THE ANXIETY",
+        "url": "https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K"
+      },
+      "artists": [
+        {
+          "name": "THE ANXIETY",
+          "url": "https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP"
+        },
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        },
+        {
+          "name": "Tyler Cole",
+          "url": "https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg"
+        }
+      ],
+      "duration_ms": 162680,
+      "name": "Meet Me At Our Spot",
+      "url": "https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG"
     },
     {
       "added_at": "2024-01-04 03:44:12",
@@ -2443,22 +2443,6 @@
     {
       "added_at": "2024-01-04 03:44:12",
       "album": {
-        "name": "Positions",
-        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 201882,
-      "name": "pov",
-      "url": "https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33"
-    },
-    {
-      "added_at": "2024-01-04 03:44:12",
-      "album": {
         "name": "eat ya veggies",
         "url": "https://open.spotify.com/album/5uAILcUFqdFsH5K3Cip47a"
       },
@@ -2475,6 +2459,22 @@
       "duration_ms": 133706,
       "name": "edamame",
       "url": "https://open.spotify.com/track/1golLrmqyxDWedF7YUHCOD"
+    },
+    {
+      "added_at": "2024-01-04 03:44:12",
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 201882,
+      "name": "pov",
+      "url": "https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33"
     },
     {
       "added_at": "2024-01-04 03:44:12",
@@ -2570,11 +2570,15 @@
         {
           "name": "Ti\u00ebsto",
           "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 164000,
-      "name": "The Business",
-      "url": "https://open.spotify.com/track/57uNXnf4ciHYP4HktbIbzC"
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/3j11iDncb7ZeDMw7lFucqM"
     },
     {
       "added_at": "2024-01-04 03:44:12",
@@ -2595,22 +2599,6 @@
     {
       "added_at": "2024-01-04 03:44:12",
       "album": {
-        "name": "Toosie Slide",
-        "url": "https://open.spotify.com/album/3xIwVbGJuAcovYIhzbLO3J"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 247058,
-      "name": "Toosie Slide",
-      "url": "https://open.spotify.com/track/127QTOFJsJQp5LbJbu3A1y"
-    },
-    {
-      "added_at": "2024-01-04 03:44:12",
-      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
       },
@@ -2623,6 +2611,22 @@
       "duration_ms": 145440,
       "name": "Waffle House",
       "url": "https://open.spotify.com/track/4inPxqHrj9VmjLx5JCDCV4"
+    },
+    {
+      "added_at": "2024-01-04 03:44:12",
+      "album": {
+        "name": "Toosie Slide",
+        "url": "https://open.spotify.com/album/3xIwVbGJuAcovYIhzbLO3J"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 247058,
+      "name": "Toosie Slide",
+      "url": "https://open.spotify.com/track/127QTOFJsJQp5LbJbu3A1y"
     }
   ],
   "unique_name": "All Out 2020s",

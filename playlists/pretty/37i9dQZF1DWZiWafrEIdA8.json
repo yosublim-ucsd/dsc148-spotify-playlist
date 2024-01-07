@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 9381,
+  "num_followers": 9378,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzM4N2VjMjQ0ZTFhYzdlODlhMzY3ZTc1ZTBlZmRhZjg2Zjg0YzIw",
+  "snapshot_id": "MCxkZjg0NWQxZTY5MTQyNmE0MTY2OWQ4NjYwNmUzMmU4MGZkYzUxNzA1",
   "tracks": [
     {
       "added_at": "2023-11-15 14:49:16",
@@ -791,18 +791,18 @@
     {
       "added_at": "2023-11-15 14:49:16",
       "album": {
-        "name": "Future Boy",
-        "url": "https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0"
+        "name": "t 3 YOONMIRAE",
+        "url": "https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L"
       },
       "artists": [
         {
-          "name": "Juju B. Goode",
-          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
         }
       ],
-      "duration_ms": 124263,
-      "name": "Future Boy",
-      "url": "https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm"
+      "duration_ms": 244584,
+      "name": "Black Happiness",
+      "url": "https://open.spotify.com/track/3gpwEXhh8o08MWQukS9bVz"
     },
     {
       "added_at": "2023-11-15 14:49:16",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-11-15 14:49:16",
       "album": {
-        "name": "t 3 YOONMIRAE",
-        "url": "https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L"
+        "name": "Future Boy",
+        "url": "https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0"
       },
       "artists": [
         {
-          "name": "Yoon Mirae",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+          "name": "Juju B. Goode",
+          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
         }
       ],
-      "duration_ms": 244584,
-      "name": "Black Happiness",
-      "url": "https://open.spotify.com/track/3gpwEXhh8o08MWQukS9bVz"
+      "duration_ms": 124263,
+      "name": "Future Boy",
+      "url": "https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm"
     },
     {
       "added_at": "2023-11-15 14:49:16",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2023-11-15 14:49:16",
       "album": {
+        "name": "Simon Dominic Presents `SNL LEAGUE BEGINS`",
+        "url": "https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5"
+      },
+      "artists": [
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 274493,
+      "name": "Stay Cool",
+      "url": "https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS"
+    },
+    {
+      "added_at": "2023-11-15 14:49:16",
+      "album": {
         "name": "School Rapper3 Final",
         "url": "https://open.spotify.com/album/2BJzRehqZMKrajV0uRHzeU"
       },
@@ -1083,26 +1103,6 @@
       "duration_ms": 229467,
       "name": "HERE (Prod. by CODE KUNST)",
       "url": "https://open.spotify.com/track/0CLJv5Pc0DZbuo78MqLyrG"
-    },
-    {
-      "added_at": "2023-11-15 14:49:16",
-      "album": {
-        "name": "Simon Dominic Presents `SNL LEAGUE BEGINS`",
-        "url": "https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5"
-      },
-      "artists": [
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        },
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        }
-      ],
-      "duration_ms": 274493,
-      "name": "Stay Cool",
-      "url": "https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS"
     }
   ],
   "unique_name": "\ud790\ub9c1 \ud799\ud569",

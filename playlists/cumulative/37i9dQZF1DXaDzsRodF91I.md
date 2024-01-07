@@ -4,7 +4,7 @@
 
 > Songs from all genres get a punk rock makeover.
 
-201 songs - 11 hr 28 min
+202 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Gives You Hell](https://open.spotify.com/track/3pYLXMDIbYIVi2TSUkP6uY) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Give Yourself A Hell](https://open.spotify.com/album/3AHrrGDl9BTWbaJX69U2Ta) | 3:30 | 2021-03-19 | 2022-07-29 |
 | [God's Plan](https://open.spotify.com/track/3xoQ3tTYJffg1xnxq6DUeX) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [God's Plan](https://open.spotify.com/album/2XON3q0rxChJJmPFbxXchs) | 3:09 | 2021-03-19 |  |
 | [Golden](https://open.spotify.com/track/6alKqAc4Pcutwk0Lo9xVBu) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn), [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [Golden](https://open.spotify.com/album/6x10PN81FtVKbIXWm2ANUS) | 3:25 | 2021-09-02 | 2022-07-28 |
+| [Good As Hell](https://open.spotify.com/track/1yRb7nAKOAvA6tT3bHbTxP) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [Good As Hell](https://open.spotify.com/album/4BUKcpRVfxln4TO7XEw6sg) | 2:53 | 2021-03-19 |  |
 | [Good As Hell](https://open.spotify.com/track/6Pyqwi4DuNmOi6zUg7QypL) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [Good As Hell](https://open.spotify.com/album/3TbhUxXZVy5o5IWARpxptt) | 2:53 | 2021-03-19 | 2023-12-25 |
 | [Hammer](https://open.spotify.com/track/0j80OMNnPlSWUwLoJkB1JR) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Hammer](https://open.spotify.com/album/188UbikjlSQhiboWAhAk3U) | 3:40 | 2021-03-19 | 2022-07-29 |
 | [Hammer](https://open.spotify.com/track/5kqr6EkKEafBGKxzjdXOVP) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Hammer](https://open.spotify.com/album/1OjpWJvSUT8Svr3ZYWtCSD) | 3:40 | 2021-03-19 |  |
@@ -189,7 +190,7 @@
 | [When The Angels Sing](https://open.spotify.com/track/5vojzHNDiqeD4l1flkyZxG) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Don't Mind If We Do](https://open.spotify.com/album/1mqX6R90bvjvgOTlA3yoIQ) | 3:27 | 2021-03-19 | 2023-07-02 |
 | [When We Were Young](https://open.spotify.com/track/1yf3K4e74VM6egV7QDhXyz) | [Andy Black](https://open.spotify.com/artist/09NYzWfQlunWS3XBZFaDEC), [Juliet Simms](https://open.spotify.com/artist/1hlXIybvN1I8r3ooBEkYRh) | [Punk Goes Pop, Vol\. 7](https://open.spotify.com/album/3vpUxVKjm32bKN7c3LkNxU) | 4:45 | 2021-03-19 |  |
 | [When We Were Young](https://open.spotify.com/track/41kUupAzNt7hy1BEbPkp0P) | [Andy Black](https://open.spotify.com/artist/09NYzWfQlunWS3XBZFaDEC), [Juliet Simms](https://open.spotify.com/artist/1hlXIybvN1I8r3ooBEkYRh) | [Punk Goes Pop, Vol\. 7](https://open.spotify.com/album/0QnLGxrlc61tSudHIZr4Sz) | 4:45 | 2021-03-19 | 2022-07-29 |
-| [White Iverson](https://open.spotify.com/track/5tPGwhsq2EzPsPKZK5SjxO) | [Chin Up, Kid](https://open.spotify.com/artist/2gzDWd9J6ea1uq0ZfbtNjj) | [Chin Up, Kid, Pt\. 2](https://open.spotify.com/album/6lPU0c5vjHDSojLrQ4gJBR) | 4:17 | 2021-03-19 |  |
+| [White Iverson](https://open.spotify.com/track/5tPGwhsq2EzPsPKZK5SjxO) | [Chin Up, Kid](https://open.spotify.com/artist/2gzDWd9J6ea1uq0ZfbtNjj) | [Chin Up, Kid, Pt\. 2](https://open.spotify.com/album/6lPU0c5vjHDSojLrQ4gJBR) | 4:17 | 2021-03-19 | 2024-01-07 |
 | [White Woman’s Instagram](https://open.spotify.com/track/7rZWDPaEop6YlaCreDNb2T) | [Cat Damage](https://open.spotify.com/artist/3CCkBT8fjj6VcrgZrmY1cX), [Nathan LeVang](https://open.spotify.com/artist/5obZT7XOtMcNPZZvuFUzmr) | [White Woman’s Instagram](https://open.spotify.com/album/2ZMWKVOxZlFsY4gPTFU3Vr) | 4:27 | 2021-09-02 | 2022-07-28 |
 | [Wicked Game](https://open.spotify.com/track/1p0iZnrjAqEBRMLEeLjrC2) | [This Wild Life](https://open.spotify.com/artist/3eoazmwspxeKFenMP1PQva) | [Wicked Game](https://open.spotify.com/album/0oITQuYonVbUmz0wP8C0uC) | 4:47 | 2021-03-19 | 2022-11-12 |
 | [Wicked Game](https://open.spotify.com/track/3eTIIxKxzMmbZbQbYnJhVI) | [This Wild Life](https://open.spotify.com/artist/3eoazmwspxeKFenMP1PQva) | [Wicked Game](https://open.spotify.com/album/1UVpz43uIEzygCO2bwEvqa) | 4:47 | 2021-03-19 | 2022-07-25 |

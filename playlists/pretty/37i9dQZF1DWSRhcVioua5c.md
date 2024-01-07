@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Canciones de ayer y de hoy grabadas a fuego en el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,323 likes - 90 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,365 likes - 90 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 60 | [Tal Como Siento](https://open.spotify.com/track/1ubO0IhgfyLLsiLilCYryr) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Tal Como Siento](https://open.spotify.com/album/4RD7YJolJUp5VbNYGtawfn) | 4:00 |
 | 61 | [Quisiera](https://open.spotify.com/track/545Zvp4rHyPVKj7aSCbv2f) | [Los Puesteros](https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY) | [Repechando la Senda](https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW) | 4:09 |
 | 62 | [Mucho Más Que Piel](https://open.spotify.com/track/4NpOVJ3MRm2bn2SIBJU4aw) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Ven Por Mi](https://open.spotify.com/album/5iJ01M2dW7JSiUteLvn2D8) | 5:01 |
-| 63 | [Rubia Morena](https://open.spotify.com/track/0GSSBaK28YDe6Gq7Yo963f) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Retiro al Norte](https://open.spotify.com/album/0aPTD6OKAie96jT6q8qFYf) | 3:33 |
-| 64 | [Para Los Ojos Más Bellos](https://open.spotify.com/track/669cJlmstiDWCFDyef4pil) | [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT) | [Andando](https://open.spotify.com/album/4Ni4fgItgWOCP2mCyPce10) | 3:04 |
+| 63 | [Para Los Ojos Más Bellos](https://open.spotify.com/track/669cJlmstiDWCFDyef4pil) | [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT) | [Andando](https://open.spotify.com/album/4Ni4fgItgWOCP2mCyPce10) | 3:04 |
+| 64 | [Rubia Morena](https://open.spotify.com/track/0GSSBaK28YDe6Gq7Yo963f) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Retiro al Norte](https://open.spotify.com/album/0aPTD6OKAie96jT6q8qFYf) | 3:33 |
 | 65 | [Déjame Intentar](https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Déjame Intentar](https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO) | 2:42 |
 | 66 | [Nada](https://open.spotify.com/track/3MZj5HNiSCfcBE4fMRiSpX) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Nada](https://open.spotify.com/album/0vfHVUcxFuIesJnzwubbbB) | 3:33 |
 | 67 | [Zambita pa' Enamorar](https://open.spotify.com/track/6TVKi26ExwcSdv7NhAi8Iq) | [Franco Ramirez](https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a) | [De Barrio](https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7) | 3:12 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 89 | [Vivo](https://open.spotify.com/track/0Nvnd56uJQpOB104qIEcOM) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO), [Ruben Ehizaguirre](https://open.spotify.com/artist/3h6yxWTjzG3r3j7AePqz5Z) | [Vivo](https://open.spotify.com/album/6Pr25N5cC07hZZ2jHTEH1W) | 3:57 |
 | 90 | [Ansiado Encuentro](https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT) | [ALEJANDRO FARIAS](https://open.spotify.com/artist/5p5tYck12ZHCLPdbFp13rh), [La Eulogia Folk](https://open.spotify.com/artist/044zb14KOZosDnxI71XpGr) | [Ansiado Encuentro](https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR) | 4:35 |
 
-Snapshot ID: `MCxhNTgzMzI4NGY3ODFkMTY2OGU4MjE4YzIwOTVhNzJhMzc5OWJiNmVi`
+Snapshot ID: `MCw1ODgwZDMxODE4ZGQyMzk2NWI1YTVmYzYwZjkwODg1ZWQxYWEwYWFj`

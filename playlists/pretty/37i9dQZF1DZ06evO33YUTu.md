@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 
 > This is Greeicy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,994 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,035 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 2 | [Esta Noche](https://open.spotify.com/track/4vhkI8x68EaGQR3Kn7Pwhc) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 2:48 |
 | 3 | [Destino](https://open.spotify.com/track/041Kcvnw8nOdq8xiRibPTG) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:00 |
 | 4 | [Amantes](https://open.spotify.com/track/3IyPnNX142pvWx6D5CiimD) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Amantes](https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi) | 3:55 |
-| 5 | [Espejo](https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Espejo](https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW) | 2:38 |
-| 6 | [22](https://open.spotify.com/track/0AsWM30PAtdxvAph5aYXAW) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [TINI TINI TINI](https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI) | 2:39 |
+| 5 | [22](https://open.spotify.com/track/0AsWM30PAtdxvAph5aYXAW) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [TINI TINI TINI](https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI) | 2:39 |
+| 6 | [Espejo](https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Espejo](https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW) | 2:38 |
 | 7 | [Más Fuerte](https://open.spotify.com/track/6PLihys6LLwbCI9GRByWZ0) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:04 |
 | 8 | [Los Besos](https://open.spotify.com/track/50SFVefoyzWnJy1oQWfRtr) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 3:22 |
 | 9 | [2005](https://open.spotify.com/track/6hY6LMOTZOWUOZMk4wPW92) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [VIAJANTE](https://open.spotify.com/album/0gzWP8t8G8V09DBDzrDL8h) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 49 | [No Te Equivoques](https://open.spotify.com/track/4JXN8t3V1vdl75IczGJcpK) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [No Te Equivoques](https://open.spotify.com/album/5tGZBD6za4M23dbQbLExY0) | 3:34 |
 | 50 | [Sólo Mía](https://open.spotify.com/track/3eXD7hq9tUrQ5gmdKNaSKQ) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Sólo Mía](https://open.spotify.com/album/4JhTqi7hgyUVxDzw5nFANE) | 2:59 |
 
-Snapshot ID: `Mjg0MDc3MDMsMDAwMDAwMDAzNzg1NTEzYjA0NzdhOWQ3MTQ5N2VjN2YyZTNkZTM1Ng==`
+Snapshot ID: `Mjg0MDkwNTYsMDAwMDAwMDBkNGU3YTgzOTM4NjAyZDU4ZmNlMzNiYjc0ODc4Y2U1Mw==`

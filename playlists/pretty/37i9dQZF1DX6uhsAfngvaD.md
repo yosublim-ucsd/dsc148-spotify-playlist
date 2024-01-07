@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Blissful indie for dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,677 likes - 80 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,721 likes - 80 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,26 +67,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 57 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 |
 | 58 | [Stay And Rest For A While](https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2) | [Good Dog](https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1) | [Stay And Rest For A While](https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL) | 2:53 |
 | 59 | [De ma Tour](https://open.spotify.com/track/5mXgCx5JKyqsIapstWQ94b) | [Reymour](https://open.spotify.com/artist/6mlzYzLXQ7gQrMg3DydrAi) | [Leviosa](https://open.spotify.com/album/4dZlnblHaQxVDbUKkdVuL3) | 3:16 |
-| 60 | [Opportunity](https://open.spotify.com/track/2oxQ52yhbatXclzYyH75c7) | [Kevin Krauter](https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI) | [Full Hand](https://open.spotify.com/album/7ufXylXlduqkezq4Yu5XcK) | 3:33 |
-| 61 | [27 Club](https://open.spotify.com/track/3lLEyB09dGdmsTY8F7P0Kw) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [27 Club](https://open.spotify.com/album/2uWsbp1QOEZj9ofqSkKXQW) | 3:34 |
-| 62 | [Gloomy Girl](https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gloomy Girl](https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR) | 3:06 |
+| 60 | [27 Club](https://open.spotify.com/track/3lLEyB09dGdmsTY8F7P0Kw) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [27 Club](https://open.spotify.com/album/2uWsbp1QOEZj9ofqSkKXQW) | 3:34 |
+| 61 | [Gloomy Girl](https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gloomy Girl](https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR) | 3:06 |
+| 62 | [Opportunity](https://open.spotify.com/track/2oxQ52yhbatXclzYyH75c7) | [Kevin Krauter](https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI) | [Full Hand](https://open.spotify.com/album/7ufXylXlduqkezq4Yu5XcK) | 3:33 |
 | 63 | [Valentine](https://open.spotify.com/track/28xKoto01psP4QaoISW5HY) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Valentine](https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg) | 3:22 |
 | 64 | [number own](https://open.spotify.com/track/4RX4JxC2GZShiS8sqCRRuF) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [number own](https://open.spotify.com/album/5dgEKrKHdm5NzdjbjRSQ7c) | 2:39 |
 | 65 | [Drown](https://open.spotify.com/track/61eG7WlDZhRKJKMLPsCtWY) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX) | 3:10 |
 | 66 | [Picnic In The Rain](https://open.spotify.com/track/3tjTAQymCotMfHeoYqWjZh) | [atmos bloom](https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3) | [Flora](https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku) | 3:15 |
 | 67 | [I Feel It](https://open.spotify.com/track/2iaFl4QUYV75nGVb2Eic8o) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [I Feel It](https://open.spotify.com/album/379yDlK37waTY9OTYkixcR) | 3:05 |
-| 68 | [rest up](https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [rest up](https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue) | 3:24 |
-| 69 | [Seems Like Forever](https://open.spotify.com/track/0cjkj0qO9lIFy9VY8FZE47) | [Scarlet Rae](https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K) | [Seems Like Forever](https://open.spotify.com/album/0lXckcOqOJaSVpMXdhHcGU) | 5:18 |
-| 70 | [Near](https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE), [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Future Falling](https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj) | 5:40 |
+| 68 | [Near](https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE), [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Future Falling](https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj) | 5:40 |
+| 69 | [rest up](https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [rest up](https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue) | 3:24 |
+| 70 | [Seems Like Forever](https://open.spotify.com/track/0cjkj0qO9lIFy9VY8FZE47) | [Scarlet Rae](https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K) | [Seems Like Forever](https://open.spotify.com/album/0lXckcOqOJaSVpMXdhHcGU) | 5:18 |
 | 71 | [Detox](https://open.spotify.com/track/3noiIjMMoDd5mrjMrdcFUu) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Detox](https://open.spotify.com/album/35GawsI3gsZ0VzMxGzUaFI) | 4:33 |
 | 72 | [Deceiver](https://open.spotify.com/track/272VxhXNv8vFjtZi3FC9eJ) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 6:29 |
-| 73 | [Under the Sea](https://open.spotify.com/track/5YijNwa0Sl9cZjpJWiVqmE) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Pearl](https://open.spotify.com/album/6CLxliGUrHfAxCVrX9hfYE) | 3:59 |
-| 74 | [No More Kissing In The Rain](https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo) | [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS), [Lisbet Fritze](https://open.spotify.com/artist/6ImgDd6PSpdu3uOGoTaGod) | [Memoria](https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2) | 4:19 |
-| 75 | [Lights On](https://open.spotify.com/track/5pT185xOuSJkpUCsEQFi3n) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 3:56 |
+| 73 | [Lights On](https://open.spotify.com/track/5pT185xOuSJkpUCsEQFi3n) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 3:56 |
+| 74 | [Under the Sea](https://open.spotify.com/track/5YijNwa0Sl9cZjpJWiVqmE) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Pearl](https://open.spotify.com/album/6CLxliGUrHfAxCVrX9hfYE) | 3:59 |
+| 75 | [No More Kissing In The Rain](https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo) | [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS), [Lisbet Fritze](https://open.spotify.com/artist/6ImgDd6PSpdu3uOGoTaGod) | [Memoria](https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2) | 4:19 |
 | 76 | [Daisy](https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe) | [atmos bloom](https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3) | [Flora](https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku) | 2:15 |
 | 77 | [For You](https://open.spotify.com/track/2vmMoVSY98yTOpMZSDxMUf) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Twin Heavy](https://open.spotify.com/album/6LFY3DlCGt04t3LY9NjNIC) | 3:47 |
 | 78 | [Two Step](https://open.spotify.com/track/1lcL7ccfhuLC1MhmD5ikYG) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Mahjong Room](https://open.spotify.com/album/1NDsNOHUuoVEHUdPIYf46e) | 2:54 |
 | 79 | [summer bruises](https://open.spotify.com/track/5XvOSbgWIPOO47Eg6qvY6e) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [summer bruises](https://open.spotify.com/album/21OArPDhU4QZ3ztihGbsi5) | 2:54 |
 | 80 | [Make Me Wanna](https://open.spotify.com/track/4bDTwDYjVdTWMRvfoPGAla) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ), [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Make Me Wanna](https://open.spotify.com/album/5NjTqkwOPJByuwuZB9oxjs) | 3:22 |
 
-Snapshot ID: `MCwxZjAxYzQzNzFkMmY1YWRkN2RkMDJlYWFlZjAxNDI1ODVlOWFmYTU3`
+Snapshot ID: `MCw2Y2ZmNDNhNzY0NzcyNzIxYzc0NTJhZjkyYzdjYmNiNDYzZDE0ZDEw`

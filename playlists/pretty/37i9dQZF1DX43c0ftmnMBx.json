@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Romeo Santos",
-  "num_followers": 234495,
+  "num_followers": 234577,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTQwN2Q2MzljMmE3N2M0ODk4OWE3YjQ3MjllNzgwOTAyOGM5MDEw",
+  "snapshot_id": "MCw1ZjZlMzI5NDVkNDAxNWIzNzFkOTAwNjY1ZDk1ZjgxOTcwNmQzMjBi",
   "tracks": [
     {
       "added_at": "2023-04-27 23:54:49",
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Tres Palabras",
-        "url": "https://open.spotify.com/album/15V8Q5wvYKMVm1tagU4ms5"
+        "name": "De Rodillas Te Pido",
+        "url": "https://open.spotify.com/album/6nUMn31Sn9VsEMY01PZlyH"
       },
       "artists": [
         {
-          "name": "Elvis Martinez El Camar\u00f3n",
-          "url": "https://open.spotify.com/artist/0lk9ZWji6LAxpqlfcXMspP"
+          "name": "Luis Miguel Del Amargue",
+          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
         }
       ],
-      "duration_ms": 231191,
-      "name": "Maestra",
-      "url": "https://open.spotify.com/track/6NOgTDhJDbsxGzyseTXe0c"
+      "duration_ms": 233320,
+      "name": "De Rodillas Te Pido",
+      "url": "https://open.spotify.com/track/5RR49uwtf6kMHYRCU2b6A1"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -679,18 +679,18 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "De Rodillas Te Pido",
-        "url": "https://open.spotify.com/album/6nUMn31Sn9VsEMY01PZlyH"
+        "name": "Tres Palabras",
+        "url": "https://open.spotify.com/album/15V8Q5wvYKMVm1tagU4ms5"
       },
       "artists": [
         {
-          "name": "Luis Miguel Del Amargue",
-          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
+          "name": "Elvis Martinez El Camar\u00f3n",
+          "url": "https://open.spotify.com/artist/0lk9ZWji6LAxpqlfcXMspP"
         }
       ],
-      "duration_ms": 233320,
-      "name": "De Rodillas Te Pido",
-      "url": "https://open.spotify.com/track/5RR49uwtf6kMHYRCU2b6A1"
+      "duration_ms": 231191,
+      "name": "Maestra",
+      "url": "https://open.spotify.com/track/6NOgTDhJDbsxGzyseTXe0c"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "La Raiz",
-        "url": "https://open.spotify.com/album/6X78J9UxEWDy8vhEfAq7aL"
-      },
-      "artists": [
-        {
-          "name": "Luis Vargas",
-          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
-        }
-      ],
-      "duration_ms": 200437,
-      "name": "Borracho Y Loco",
-      "url": "https://open.spotify.com/track/4KtYHts2AdkhcV9x2MGbWt"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
         "name": "La Luz De Mis Ojos",
         "url": "https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 219666,
       "name": "Laudano",
       "url": "https://open.spotify.com/track/23Gn5VcVfaSSYy014b2AJ6"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
+        "name": "La Raiz",
+        "url": "https://open.spotify.com/album/6X78J9UxEWDy8vhEfAq7aL"
+      },
+      "artists": [
+        {
+          "name": "Luis Vargas",
+          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
+        }
+      ],
+      "duration_ms": 200437,
+      "name": "Borracho Y Loco",
+      "url": "https://open.spotify.com/track/4KtYHts2AdkhcV9x2MGbWt"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
+        "name": "La Luz De Mis Ojos",
+        "url": "https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7"
+      },
+      "artists": [
+        {
+          "name": "Elvis Martinez",
+          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
+        }
+      ],
+      "duration_ms": 229613,
+      "name": "La Luz De Mis Ojos",
+      "url": "https://open.spotify.com/track/31lScgOqA8PkbSHDTyLsfJ"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
         "name": "Pa' Que Te Duela",
         "url": "https://open.spotify.com/album/6TU8wHPVsx9a4byLoZllb7"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 251250,
       "name": "Besito en la Boca",
       "url": "https://open.spotify.com/track/4sXYZFBtkrLwGQdu9vFLsF"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
-        "name": "La Luz De Mis Ojos",
-        "url": "https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7"
-      },
-      "artists": [
-        {
-          "name": "Elvis Martinez",
-          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
-        }
-      ],
-      "duration_ms": 229613,
-      "name": "La Luz De Mis Ojos",
-      "url": "https://open.spotify.com/track/31lScgOqA8PkbSHDTyLsfJ"
     },
     {
       "added_at": "2023-04-27 23:54:49",

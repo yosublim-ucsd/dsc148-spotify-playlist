@@ -1,12 +1,12 @@
 {
   "description": "Dvorak was deeply passionate about his homeland, traditional folk music, pigeons and train spotting; immerse yourself in his extraordinary world with this essential playlist.",
-  "num_followers": 64574,
+  "num_followers": 64605,
   "original_name": "This Is Dvo\u0159\u00e1k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzQ0YTc3NDZhOTViOWYwODFkMTVjZWU3OWRlYTkxNzU0MzUyN2Vh",
+  "snapshot_id": "MCxlNDZjMGMyZjlkMGVmMjRiNzE2MWZkZTI3NTliZGFiMzBhYTkxYTdl",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -487,30 +487,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Dvorak: Hero's Song (A) / Czech Suite / Hussite Overture",
-        "url": "https://open.spotify.com/album/2eQogw6VNKBLM1SrXnDCGN"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Polish National Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
-        },
-        {
-          "name": "Antoni Wit",
-          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
-        }
-      ],
-      "duration_ms": 320866,
-      "name": "Czech Suite, Op. 39, B. 93: V. Finale (Furiant)",
-      "url": "https://open.spotify.com/track/5BkqVdRhcdE5bW9fM6BUCq"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Dvor\u00e1k: Slavonic Dances Opp. 46 & 72",
         "url": "https://open.spotify.com/album/5Yb3w5oRyYY5pO6DfPpDbu"
       },
@@ -531,6 +507,30 @@
       "duration_ms": 435506,
       "name": "8 Slavonic Dances, Op. 46, B.83: No. 4 in F Major (Tempo di minuetto)",
       "url": "https://open.spotify.com/track/4mHBcmw0ZYMWk1Fq5l20vn"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvorak: Hero's Song (A) / Czech Suite / Hussite Overture",
+        "url": "https://open.spotify.com/album/2eQogw6VNKBLM1SrXnDCGN"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "duration_ms": 320866,
+      "name": "Czech Suite, Op. 39, B. 93: V. Finale (Furiant)",
+      "url": "https://open.spotify.com/track/5BkqVdRhcdE5bW9fM6BUCq"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -579,26 +579,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Borodin, Dvorak & Shostakovich String Quartets",
-        "url": "https://open.spotify.com/album/57kXR3zqpL5ziZX64QYC6N"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Chilingirian Quartet",
-          "url": "https://open.spotify.com/artist/31Q9Bw9JjyG9ySC2d0aZa2"
-        }
-      ],
-      "duration_ms": 385000,
-      "name": "String Quartet No. 12 in F Major, \"American\", Op. 96: II. Lento",
-      "url": "https://open.spotify.com/track/2nv71TEiLpcoGdjc5TLVcv"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Glazunov / Dvorak: Violin Concertos in A Minor",
         "url": "https://open.spotify.com/album/1z8rgtizIxOh2flYQanLqb"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 767160,
       "name": "Romanze in f-Moll, Op. 11, B. 39: Romance for Violin and Orchestra in F Minor, Op. 1",
       "url": "https://open.spotify.com/track/4SOgqTo03KqdPPTW7xfbUy"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Borodin, Dvorak & Shostakovich String Quartets",
+        "url": "https://open.spotify.com/album/57kXR3zqpL5ziZX64QYC6N"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Chilingirian Quartet",
+          "url": "https://open.spotify.com/artist/31Q9Bw9JjyG9ySC2d0aZa2"
+        }
+      ],
+      "duration_ms": 385000,
+      "name": "String Quartet No. 12 in F Major, \"American\", Op. 96: II. Lento",
+      "url": "https://open.spotify.com/track/2nv71TEiLpcoGdjc5TLVcv"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -767,30 +767,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Tchaikovsky: Serenade For Strings / Dvor\u00e1k: Serenade For Strings",
-        "url": "https://open.spotify.com/album/2lf78D4V5E0khuU33D3qVZ"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Bavarian Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
-        },
-        {
-          "name": "Sir Colin Davis",
-          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "Serenade for Strings in E Major, Op. 22, B. 52: I. Moderato",
-      "url": "https://open.spotify.com/track/4Uk5HBXrc3bo5q0d2uqnhk"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Dvorak: American Suite / Silent Woods / Prague Waltzes",
         "url": "https://open.spotify.com/album/5Q24oT8LWAFYPhK7XoikEP"
       },
@@ -811,6 +787,30 @@
       "duration_ms": 365133,
       "name": "Klid, Op. 68, No. 5, B. 182, \"Silent Woods\": Klid (Silent Woods), Op. 68, No. 5, B. 182",
       "url": "https://open.spotify.com/track/3Kbn2oIFpOJwBt9zH9JUpE"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Tchaikovsky: Serenade For Strings / Dvor\u00e1k: Serenade For Strings",
+        "url": "https://open.spotify.com/album/2lf78D4V5E0khuU33D3qVZ"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Bavarian Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
+        },
+        {
+          "name": "Sir Colin Davis",
+          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "Serenade for Strings in E Major, Op. 22, B. 52: I. Moderato",
+      "url": "https://open.spotify.com/track/4Uk5HBXrc3bo5q0d2uqnhk"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Poetic Tone Pictures, Op.85/VIII. Goblins' Dance",
-        "url": "https://open.spotify.com/album/1c2mXEqwJQ0tjqoyEZD6Wb"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        }
-      ],
-      "duration_ms": 194541,
-      "name": "VIII. Goblins' Dance",
-      "url": "https://open.spotify.com/track/69cpBS0y62ZcS5HYraDqre"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Dvo\u0159\u00e1k: Mass in D Major, Op. 86, B. 153 & Te Deum, Op. 103, B. 176",
         "url": "https://open.spotify.com/album/7GVrTYsKJ1rtfb17Y3hvY2"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 377453,
       "name": "Te Deum laudamus",
       "url": "https://open.spotify.com/track/5BbmTTznHffuteqCzuxyDE"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Poetic Tone Pictures, Op.85/VIII. Goblins' Dance",
+        "url": "https://open.spotify.com/album/1c2mXEqwJQ0tjqoyEZD6Wb"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        }
+      ],
+      "duration_ms": 194541,
+      "name": "VIII. Goblins' Dance",
+      "url": "https://open.spotify.com/track/69cpBS0y62ZcS5HYraDqre"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Dvorak, A.: String Quartets, Vol. 5 (Vlach Quartet) - Cypresses / String Quartet Movement in F Major / 2 Waltzes / Gavotte",
-        "url": "https://open.spotify.com/album/4YPrPKSMgfiwKO8XFwCpHu"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Vlach Quartet Prague",
-          "url": "https://open.spotify.com/artist/0Apnbohc6st5hulSIdnJsQ"
-        }
-      ],
-      "duration_ms": 233933,
-      "name": "Ohlas pisni (Echo of Songs), B. 152 (arr. of Cypresses, B. 11 for string quartet): I Know That on My Love",
-      "url": "https://open.spotify.com/track/7garXyokwhgPasMAgOg8GG"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Dvor\u00e1k: Slavonic Dances Opp.46 & 72",
         "url": "https://open.spotify.com/album/7lln5rKUjXKtEUrnfemb8a"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 365866,
       "name": "8 Slavonic Dances, Op. 72, B. 147: No. 2 in E Minor (Allegretto grazioso)",
       "url": "https://open.spotify.com/track/1RfsU4P4zwK9f2QZAKOF62"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvorak, A.: String Quartets, Vol. 5 (Vlach Quartet) - Cypresses / String Quartet Movement in F Major / 2 Waltzes / Gavotte",
+        "url": "https://open.spotify.com/album/4YPrPKSMgfiwKO8XFwCpHu"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Vlach Quartet Prague",
+          "url": "https://open.spotify.com/artist/0Apnbohc6st5hulSIdnJsQ"
+        }
+      ],
+      "duration_ms": 233933,
+      "name": "Ohlas pisni (Echo of Songs), B. 152 (arr. of Cypresses, B. 11 for string quartet): I Know That on My Love",
+      "url": "https://open.spotify.com/track/7garXyokwhgPasMAgOg8GG"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Dvorak, A.: String Quartets, Vol. 3 (Vlach Quartet) - No. 9 / Terzetto",
+        "url": "https://open.spotify.com/album/36OotspMRX5eobr3gZoM20"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Vlach Quartet Prague",
+          "url": "https://open.spotify.com/artist/0Apnbohc6st5hulSIdnJsQ"
+        }
+      ],
+      "duration_ms": 293000,
+      "name": "Terzetto in C Major, Op. 74, B. 148: III. Scherzo: Vivace",
+      "url": "https://open.spotify.com/track/4bvNBlKqg8cJy9DjC1rBJN"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Dvorak: Stabat Mater / Psalm 149",
         "url": "https://open.spotify.com/album/3R2k6OYPKVE4SBgNTJiNv2"
       },
@@ -1447,26 +1467,6 @@
       "duration_ms": 361400,
       "name": "Stabat Mater, Op. 58, B. 71: Inflammatus et accensus",
       "url": "https://open.spotify.com/track/6Hkaz5ceCPFnCidvYbqmNl"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Dvorak, A.: String Quartets, Vol. 3 (Vlach Quartet) - No. 9 / Terzetto",
-        "url": "https://open.spotify.com/album/36OotspMRX5eobr3gZoM20"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Vlach Quartet Prague",
-          "url": "https://open.spotify.com/artist/0Apnbohc6st5hulSIdnJsQ"
-        }
-      ],
-      "duration_ms": 293000,
-      "name": "Terzetto in C Major, Op. 74, B. 148: III. Scherzo: Vivace",
-      "url": "https://open.spotify.com/track/4bvNBlKqg8cJy9DjC1rBJN"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1615,30 +1615,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Dvorak : Slavonic Dances",
-        "url": "https://open.spotify.com/album/03WlnckxEQxcM46jrd3mMZ"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Slovak Philharmonic",
-          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
-        },
-        {
-          "name": "Zden\u011bk Ko\u0161ler",
-          "url": "https://open.spotify.com/artist/2IpitDGspEKl8VaB3qd4ya"
-        }
-      ],
-      "duration_ms": 825240,
-      "name": "3 Slavonic Rhapsodies, Op. 45, B. 86: No. 3",
-      "url": "https://open.spotify.com/track/25fx6WswOqJVX4rpOZOSUr"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Dvorak: The 9 Symphonies",
         "url": "https://open.spotify.com/album/45AlGtE9Il2BmnisrbU1no"
       },
@@ -1659,6 +1635,30 @@
       "duration_ms": 668306,
       "name": "Symphony No. 1 in C Minor, Op. 3, B. 9 - \"The Bells of Zlonice\": II. Adagio di molto",
       "url": "https://open.spotify.com/track/6S5oOvLf2lTSjVq8Y0KVvD"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvorak : Slavonic Dances",
+        "url": "https://open.spotify.com/album/03WlnckxEQxcM46jrd3mMZ"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Slovak Philharmonic",
+          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
+        },
+        {
+          "name": "Zden\u011bk Ko\u0161ler",
+          "url": "https://open.spotify.com/artist/2IpitDGspEKl8VaB3qd4ya"
+        }
+      ],
+      "duration_ms": 825240,
+      "name": "3 Slavonic Rhapsodies, Op. 45, B. 86: No. 3",
+      "url": "https://open.spotify.com/track/25fx6WswOqJVX4rpOZOSUr"
     },
     {
       "added_at": "2022-09-30 04:01:00",

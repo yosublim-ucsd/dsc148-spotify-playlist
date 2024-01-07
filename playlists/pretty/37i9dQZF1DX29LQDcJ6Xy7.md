@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 
 > A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,840 likes - 100 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,977 likes - 100 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 43 | [My World](https://open.spotify.com/track/3GwzYHGrRn7wMfRtvbjg2U) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1) | [Emigrate](https://open.spotify.com/album/6F84H4YaytAQkJk6cvP0ri) | 4:17 |
 | 44 | [Guilty](https://open.spotify.com/track/4YhqUU66bIqBapat2XD1Cg) | [Gravity Kills](https://open.spotify.com/artist/3V3ChkwvlWDJtMFuOKfYiB) | [Gravity Kills](https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm) | 4:02 |
 | 45 | [Naitu](https://open.spotify.com/track/3bPM4JJvL7VwcnMh9Yl2Oz) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Global Warning](https://open.spotify.com/album/3DdWOQOpbWHrWKonpcbcUN) | 4:11 |
-| 46 | [Merchant of the Void](https://open.spotify.com/track/3BIQ9Y3WCwRWZju6jHXHuA) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [Merchant of the Void](https://open.spotify.com/album/4DpUdsgqbQekAluRjffr08) | 3:32 |
+| 46 | [A Drug Against War](https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7) | [KMFDM](https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa) | [Angst](https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY) | 3:35 |
 | 47 | [Thieves](https://open.spotify.com/track/6KCthSzW230fnf6IygPaI0) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [The Mind Is a Terrible Thing to Taste](https://open.spotify.com/album/2Z73HeYQNCf5T8dzzHaoz5) | 5:01 |
-| 48 | [A Drug Against War](https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7) | [KMFDM](https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa) | [Angst](https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY) | 3:35 |
+| 48 | [Merchant of the Void](https://open.spotify.com/track/3BIQ9Y3WCwRWZju6jHXHuA) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [Merchant of the Void](https://open.spotify.com/album/4DpUdsgqbQekAluRjffr08) | 3:32 |
 | 49 | [After the Flesh](https://open.spotify.com/track/2GGFfHz2laYuGNDtqJRvAK) | [My Life With The Thrill Kill Kult](https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 2:59 |
 | 50 | [Jim Jones](https://open.spotify.com/track/7voqYiZoYUyEJnZWWa7d6d) | [SKYND](https://open.spotify.com/artist/3Ca8UhvMDcgM1zyfAZGw3M) | [Chapter II](https://open.spotify.com/album/4HOffsoCDuHaWVjTmlf5jC) | 6:34 |
 | 51 | [Hate Like Me](https://open.spotify.com/track/51GIPw8fk0mEg63IEnVHcs) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [One Fire](https://open.spotify.com/album/7AxB5F98Vr647vnLNtbYrR) | 4:15 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 63 | [Verrückt \- Original Version](https://open.spotify.com/track/6gHB5QPToHSrbWA2Vy5LON) | [Eisbrecher](https://open.spotify.com/artist/6ul6vL8Hg5jTulDi0Ac8ao) | [Die Hölle muss warten](https://open.spotify.com/album/4bTAdNqWfpiCs2tdjxCK5r) | 3:21 |
 | 64 | [Royal Leash](https://open.spotify.com/track/0thtR0AknaM6k7WktFah7z) | [Processor](https://open.spotify.com/artist/3PsLxyLABzuf3dUMpS05Mp) | [Majesty](https://open.spotify.com/album/0S0OF6IQa0Tr0lWivkrUD2) | 3:43 |
 | 65 | [Modern Demon](https://open.spotify.com/track/2lsl155lDS6tSqGKJokOGL) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [Modern Demon](https://open.spotify.com/album/3lGhMyyUWccwG4CyllkmML) | 4:45 |
-| 66 | [End Of The Line](https://open.spotify.com/track/25gdaVFJL17lx7sysc8Pul) | [Pain](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [Rebirth](https://open.spotify.com/album/0KNQf80HEtQ4EXQKg0MSD6) | 4:03 |
-| 67 | [Into the Void](https://open.spotify.com/track/2zAAXQbzIB5e2VpBiGI8SI) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Satellites](https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0) | 5:16 |
+| 66 | [Into the Void](https://open.spotify.com/track/2zAAXQbzIB5e2VpBiGI8SI) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Satellites](https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0) | 5:16 |
+| 67 | [End Of The Line](https://open.spotify.com/track/25gdaVFJL17lx7sysc8Pul) | [Pain](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [Rebirth](https://open.spotify.com/album/0KNQf80HEtQ4EXQKg0MSD6) | 4:03 |
 | 68 | [Bring You Down \(Project Regeneration\)](https://open.spotify.com/track/1NGBpjIrZIe0RagRFmyXfg) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Project Regeneration, Vol\. 1](https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP) | 3:35 |
 | 69 | [Many Thanks](https://open.spotify.com/track/0VTDOr2TTKXeTAeXTfSLQH) | [Dope Stars Inc.](https://open.spotify.com/artist/0b3Ih1VYdJfBfCPulSWBoA) | [Terapunk](https://open.spotify.com/album/6YJolVxpGYWLOmjQ3e4Ma5) | 3:58 |
 | 70 | [The Thing I Hate](https://open.spotify.com/track/4ibsb2epoSHZzDCeoZEluQ) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [Darkest Days](https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg) | 3:36 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 83 | [Hengitä](https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Hengitä](https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7) | 3:10 |
 | 84 | [Hatred Will Prevail \- Monolith Remix](https://open.spotify.com/track/7cborWFwmCpfEL1Qwnvwt0) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX), [Rhys Fulber](https://open.spotify.com/artist/3aswb2tJV8Qys1Xufxn59P) | [Recoded](https://open.spotify.com/album/3vpzVxP7HSddMo2IOtgjLj) | 5:44 |
 | 85 | [Suffering You](https://open.spotify.com/track/0HzbDl381rdXtSOaJk20eH) | [16Volt](https://open.spotify.com/artist/4xhhi5wPHqN5vcYhUq1Jim) | [FullBlackHabit](https://open.spotify.com/album/4dy8WNRSh2TFjkHroqThz9) | 3:07 |
-| 86 | [Animal](https://open.spotify.com/track/0ppkIgN7FXvAtHD95pMvRH) | [Prick](https://open.spotify.com/artist/4hILJw5uchW1ZZJO10icIz) | [Animal](https://open.spotify.com/album/5PQYQdOU14ivWxFlBrh5PN) | 4:15 |
-| 87 | [Justice Way](https://open.spotify.com/track/6gshopMLlSl0KP4ZNHp7qw) | [Processor](https://open.spotify.com/artist/3PsLxyLABzuf3dUMpS05Mp) | [Justice](https://open.spotify.com/album/3Rl2iVccsforOkAyvahXa0) | 3:07 |
+| 86 | [Justice Way](https://open.spotify.com/track/6gshopMLlSl0KP4ZNHp7qw) | [Processor](https://open.spotify.com/artist/3PsLxyLABzuf3dUMpS05Mp) | [Justice](https://open.spotify.com/album/3Rl2iVccsforOkAyvahXa0) | 3:07 |
+| 87 | [Animal](https://open.spotify.com/track/0ppkIgN7FXvAtHD95pMvRH) | [Prick](https://open.spotify.com/artist/4hILJw5uchW1ZZJO10icIz) | [Animal](https://open.spotify.com/album/5PQYQdOU14ivWxFlBrh5PN) | 4:15 |
 | 88 | [Rabenherz](https://open.spotify.com/track/0ZGY8Yisqno96s7RDIs2GU) | [Erdling](https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK) | [Helheim \(Deluxe Edition\)](https://open.spotify.com/album/4CNkdDYpJS2lfg3kqf2mTY) | 3:12 |
 | 89 | [My Disintegration](https://open.spotify.com/track/3oCfEnZRME0pGNUyzzhkeM) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Satellites](https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0) | 6:20 |
 | 90 | [Don't Question Me](https://open.spotify.com/track/07wrYgD0lODxw5G39OQjce) | [Boom Kitty](https://open.spotify.com/artist/3h4xRI8zK3aZygXhxNFjoR), [Waylon Reavis](https://open.spotify.com/artist/6FZbPTKqSEYCRDuZfzn2ww) | [Don't Question Me](https://open.spotify.com/album/2XKsZtY379vsVCRi5lNxzq) | 3:21 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 93 | [Torpedoes](https://open.spotify.com/track/40Nz6mf4yuDeOW0sscIS63) | [MDFMK](https://open.spotify.com/artist/42rBYWqiCzxYUFQM0iKWwM) | [MDFMK](https://open.spotify.com/album/6kqX8YYU2vBjbzfGc03ya1) | 4:15 |
 | 94 | [Black Lipstick](https://open.spotify.com/track/0jXfVK691dITawcnze17h2) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Black Lipstick](https://open.spotify.com/album/4sZ7rJiz0mmGjVFK8cC7ql) | 3:23 |
 | 95 | [Prey & Obey](https://open.spotify.com/track/010zNby24HBoMyMZClgViJ) | [PIG](https://open.spotify.com/artist/5riS4sDqcjVAwvC37jxTP0) | [Prey & Obey](https://open.spotify.com/album/2ybC8wJprmJBBbZHJtzGJr) | 4:46 |
-| 96 | [D4TM](https://open.spotify.com/track/6S4Q0HDqHDsdcmfFNvyc8y) | [Oddko](https://open.spotify.com/artist/1UVYxhc5UIS5VLvUXrSo81) | [Digital Gods](https://open.spotify.com/album/2dhSJeHtfSCcpEwyQCikfc) | 3:26 |
-| 97 | [Doctor Online](https://open.spotify.com/track/0aZQyZyQ41fb12tJdYVa5H) | [Zeromancer](https://open.spotify.com/artist/0tQn2q1TIEenLgodtb8Nhx) | [Eurotrash](https://open.spotify.com/album/63o4mkCR9nAyiAsKA1UlxI) | 3:18 |
+| 96 | [Doctor Online](https://open.spotify.com/track/0aZQyZyQ41fb12tJdYVa5H) | [Zeromancer](https://open.spotify.com/artist/0tQn2q1TIEenLgodtb8Nhx) | [Eurotrash](https://open.spotify.com/album/63o4mkCR9nAyiAsKA1UlxI) | 3:18 |
+| 97 | [D4TM](https://open.spotify.com/track/6S4Q0HDqHDsdcmfFNvyc8y) | [Oddko](https://open.spotify.com/artist/1UVYxhc5UIS5VLvUXrSo81) | [Digital Gods](https://open.spotify.com/album/2dhSJeHtfSCcpEwyQCikfc) | 3:26 |
 | 98 | [Killer Quinn](https://open.spotify.com/track/0nuPTlaHKknCMqwkiIgqSf) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [Killer Quinn](https://open.spotify.com/album/3WRtHLiv4uw6pkxx0Bbddd) | 2:59 |
 | 99 | [A Matter of Time](https://open.spotify.com/track/524Hl6lEjcLUGbBYiRzh6q) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Satellites](https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0) | 6:02 |
 | 100 | [I Am Nothing](https://open.spotify.com/track/3AbsnquyVPrryreclU5fvx) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [Chasing Ghosts](https://open.spotify.com/album/0xUiYomjFBfg1qbOuSn37E) | 4:03 |
 
-Snapshot ID: `MCxkNDEwMDFlNTZlMTVhNDYzNTAyZWNhNWFlMTFjNTQ0NDM5OTYwZWYy`
+Snapshot ID: `MCw3NmY0MTNmYTE5OWEwNThlN2Q4M2QzNjc5Njg4NmQzZDgzNjAzNmI3`

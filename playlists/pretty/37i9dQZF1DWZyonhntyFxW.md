@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9?si=Pb48qvpcQXyihE4cOGp6Xg"> Lege\-Cy </a> : اجمد التراكات كلها على ملوك السين غلاف
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,956 likes - 39 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,181 likes - 39 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 7 | [7OB KHENA2](https://open.spotify.com/track/15lgnDg0wa4gXWpts60aOF) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [IMPORT//EXPORT](https://open.spotify.com/album/2MUyfrxcVoLhkPDI7hVDp9) | 3:44 |
 | 8 | [1](https://open.spotify.com/track/27cKUc5nNI6uI5dpGlB1UF) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [1](https://open.spotify.com/album/6ybWRd5mQpRno5JtrxMkcZ) | 2:13 |
 | 9 | [Salt El Zein \- صلاة الزين](https://open.spotify.com/track/5o7YSTsbNeo98lSacuNIi5) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Salt El Zein \- صلاة الزين](https://open.spotify.com/album/2FLoi19Rf5ejnlHfPYF4zp) | 2:36 |
-| 10 | [Tripod](https://open.spotify.com/track/1MLqccNxmrlLeG2R5cBAeH) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo](https://open.spotify.com/album/7imparG5dbIP5Nt0sgb9ol) | 3:48 |
+| 10 | [Tripod](https://open.spotify.com/track/4nydbqIi7U7DMM3ZGQEjtE) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo](https://open.spotify.com/album/5T113asZkXnBZ3820ie2fa) | 3:48 |
 | 11 | [Haaland](https://open.spotify.com/track/2ZP3tRbY6NrdVlTiaEgX8L) | [Dzel Uzi](https://open.spotify.com/artist/0LhJ7fTx1mMtE5qh5OSbFK) | [Haaland](https://open.spotify.com/album/7FymPbSAQXe9Pd4aumoHzy) | 3:51 |
 | 12 | [Nazlet Seman](https://open.spotify.com/track/3kvFynFheCVVecaJLKketl) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Awdet El Ebn El Dal](https://open.spotify.com/album/6LF5pyZ6adBuv0jdmgtBwb) | 2:48 |
 | 13 | [Matafetch](https://open.spotify.com/track/0ZGmHDAUSgGV5mCUbtYFe7) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [آخر قطعة فنية](https://open.spotify.com/album/5YxBzNI1LIAI86UHm1kTrS) | 2:36 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 38 | [Gezira](https://open.spotify.com/track/2ieg6nYrdrI4Em8nDV3Ddh) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Gezira](https://open.spotify.com/album/7mt8YfjiZViWN7hSqAOEMk) | 3:13 |
 | 39 | [STR3](https://open.spotify.com/track/7HUzfXz80MNyHvSs3JcJOP) | [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP), [Intomymind](https://open.spotify.com/artist/7zWFKl03Xg50gKryaEH0gu) | [STR3](https://open.spotify.com/album/6LSlkHgM2GkAtNNHJo16kx) | 3:28 |
 
-Snapshot ID: `MCxhMjI4YzlhYjM2ZTlmNWNjNmU4NjU3MTdlODM4MTVjYjJlNzUwOTM5`
+Snapshot ID: `MCwyMmE5YTY1YTYzZjgyMWQ5ZDZjNjhkNDQxMzJkNGYwMzE1OTJiYjkw`

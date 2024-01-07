@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Lola Indigo",
-  "num_followers": 993151,
+  "num_followers": 993179,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmZkMWM4MzBlOWIzNmIzNTM5MzUxN2RlYjljYWFhZmI1ZGY5NGQ0",
+  "snapshot_id": "MCxjZjBlZTI0ODg4NzgzYmJhZjUxMmJjMWY4ZTVkMGU1NmU5MjcwY2Vk",
   "tracks": [
     {
       "added_at": "2023-12-21 17:42:42",
@@ -679,18 +679,18 @@
     {
       "added_at": "2023-12-21 17:42:42",
       "album": {
-        "name": "ALICANTINA",
-        "url": "https://open.spotify.com/album/2J18PEqkyz32M2ZzM6CS8p"
+        "name": "b.o.b.o.",
+        "url": "https://open.spotify.com/album/2FdIPbrSPyPEL9jKup9KQC"
       },
       "artists": [
         {
-          "name": "Funzo & Baby Loud",
-          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
         }
       ],
-      "duration_ms": 158917,
-      "name": "ALICANTINA",
-      "url": "https://open.spotify.com/track/13BMKkLZZj9wD7rCnrKHMn"
+      "duration_ms": 142406,
+      "name": "b.o.b.o.",
+      "url": "https://open.spotify.com/track/0aHqflgjBiuNWvFJw2MhoQ"
     },
     {
       "added_at": "2023-12-21 17:42:42",
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-12-21 17:42:42",
       "album": {
-        "name": "b.o.b.o.",
-        "url": "https://open.spotify.com/album/2FdIPbrSPyPEL9jKup9KQC"
+        "name": "ALICANTINA",
+        "url": "https://open.spotify.com/album/2J18PEqkyz32M2ZzM6CS8p"
       },
       "artists": [
         {
-          "name": "Paula Koops",
-          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+          "name": "Funzo & Baby Loud",
+          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
         }
       ],
-      "duration_ms": 142406,
-      "name": "b.o.b.o.",
-      "url": "https://open.spotify.com/track/0aHqflgjBiuNWvFJw2MhoQ"
+      "duration_ms": 158917,
+      "name": "ALICANTINA",
+      "url": "https://open.spotify.com/track/13BMKkLZZj9wD7rCnrKHMn"
     },
     {
       "added_at": "2023-12-21 17:42:42",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-12-21 17:42:42",
       "album": {
+        "name": "Astronauta",
+        "url": "https://open.spotify.com/album/5gHA0EkrBT7yANOSd9AFL6"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9rica",
+          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+        }
+      ],
+      "duration_ms": 169894,
+      "name": "Astronauta",
+      "url": "https://open.spotify.com/track/1J59EJh3hbGZDJD7KfONLz"
+    },
+    {
+      "added_at": "2023-12-21 17:42:42",
+      "album": {
         "name": "GOOD DAY (feat. Camidoh)",
         "url": "https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 164765,
       "name": "GOOD DAY (feat. Camidoh)",
       "url": "https://open.spotify.com/track/17EHmaus2XNoMdCIw4bZmf"
-    },
-    {
-      "added_at": "2023-12-21 17:42:42",
-      "album": {
-        "name": "Astronauta",
-        "url": "https://open.spotify.com/album/5gHA0EkrBT7yANOSd9AFL6"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9rica",
-          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
-        }
-      ],
-      "duration_ms": 169894,
-      "name": "Astronauta",
-      "url": "https://open.spotify.com/track/1J59EJh3hbGZDJD7KfONLz"
     },
     {
       "added_at": "2023-12-21 17:42:42",

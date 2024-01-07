@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Eden Muños, Mau y Ricky
 
-[Spotify](https://open.spotify.com/user/spotify) - 648,863 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 648,975 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 8 | [El Niño Malandro](https://open.spotify.com/track/2clsmNHKnJpiJrKWoxMtxR) | [Beto Quintero](https://open.spotify.com/artist/6iTpBHV0DyWLKNLdA6Heo9) | [El Niño Malandro](https://open.spotify.com/album/1gwD47r587XoxBof9yEMv4) | 3:06 |
 | 9 | [Combinas Más Conmigo](https://open.spotify.com/track/2PaVriVaa2p569prcCgIyr) | [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [Combinas Más Conmigo](https://open.spotify.com/album/6kMGxLBJ2FVdsBocbIUZvP) | 3:20 |
 | 10 | [Body Shot](https://open.spotify.com/track/2NUgt2RiPZypizndsIIfXJ) | [Estilo Sencillo](https://open.spotify.com/artist/0PG3h5k6cYdVbyKgHGMHc5), [La Mala Pinta](https://open.spotify.com/artist/0zlFyCxFgmKdNnPJxEIrsY) | [Body Shot](https://open.spotify.com/album/1FlMxDweq034aRtce3Ql5A) | 2:56 |
-| 11 | [Pa' No Sentir \- Sierreño](https://open.spotify.com/track/7dF25WcmGa1W6hCsCf9BJx) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU) | [Pa' No Sentir \(Sierreño\)](https://open.spotify.com/album/0rgzvqKl0UHlmc5Rx3r68D) | 3:22 |
+| 11 | [Pa' No Sentir](https://open.spotify.com/track/7dF25WcmGa1W6hCsCf9BJx) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU) | [Pa' No Sentir](https://open.spotify.com/album/0rgzvqKl0UHlmc5Rx3r68D) | 3:22 |
 | 12 | [Secreto A Voces \- Versión Acústica](https://open.spotify.com/track/4mSCIGlYcQSTPt7eiPCC5R) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9), [Pablo Vamer](https://open.spotify.com/artist/6rasbovc25yVtFyNczlrHH) | [Secreto A Voces \(Versión Acústica\)](https://open.spotify.com/album/3KLeziZ6UbcqRqEYAAOAVv) | 3:18 |
 | 13 | [Olvidémoslo Los Dos](https://open.spotify.com/track/0YzLFrSbUvTqDSuMViVe75) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Saxy](https://open.spotify.com/album/0orwS1kaxssiFbR1kFdpBk) | 3:02 |
 | 14 | [Fuiste Tu](https://open.spotify.com/track/0NgCOceAefYVWdeGj2OUNy) | [Wiscas Vela](https://open.spotify.com/artist/4hBkyrbo31bVEA4aA4Jli2) | [Fuiste Tu](https://open.spotify.com/album/5fIkZ4VQtZUl91Mfrv9Elm) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Tres Vueltas](https://open.spotify.com/track/4onMxW09MJ3RZl7TEyMG7w) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG), [Escolta De Rancho](https://open.spotify.com/artist/4sVnHTEKDTqgT4EGDDvAgG) | [Tres Vueltas](https://open.spotify.com/album/5dgUjbChT1d4EPH3g4aWt8) | 2:34 |
 | 50 | [Escolta Personal \- En Vivo](https://open.spotify.com/track/5fVoYliFnvTx9KsB9oYOeP) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [ConBebio Culto \(En Vivo\)](https://open.spotify.com/album/674TPmkSQt1a1ZfbsmJv8d) | 3:07 |
 
-Snapshot ID: `MCw2N2YxOTI4NDdjMGJlM2VjMGE0MTRkNjBlZWM4N2U2Yjc2M2Y3NWNj`
+Snapshot ID: `MCxhM2I1ZTY1M2RhNzc1OGI2YTM0MDJkNzZlZTUzMWYxMWQyMTM4YzQ5`

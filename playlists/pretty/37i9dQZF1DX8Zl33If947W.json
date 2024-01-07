@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 153168,
+  "num_followers": 153245,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTQ0YWZkNjkwZThkZTBjZTc5ODY0ZGMyYTIyYjczY2VmM2QwNTll",
+  "snapshot_id": "MCxlOTc4MGY5NzhmNGY4Njg5Yjk4ODljZWRjNWU4NWI3OGNkMTM4OGQy",
   "tracks": [
     {
       "added_at": "2023-03-06 08:21:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Muttersprache (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3ZpOEFd7RgKIcdWOqrzOAc"
-      },
-      "artists": [
-        {
-          "name": "Sarah Connor",
-          "url": "https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch"
-        }
-      ],
-      "duration_ms": 218546,
-      "name": "Wie sch\u00f6n du bist",
-      "url": "https://open.spotify.com/track/2xtnnO9bHKXEmsfetO3ldK"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Kauf mich! (Deluxe-Edition mit Bonus-Tracks)",
         "url": "https://open.spotify.com/album/5s0tTtY5aoJt4hgWGwzXoc"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 272440,
       "name": "Alles aus Liebe",
       "url": "https://open.spotify.com/track/2WFZXkRsALv5kC6HFIAsuG"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Muttersprache (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3ZpOEFd7RgKIcdWOqrzOAc"
+      },
+      "artists": [
+        {
+          "name": "Sarah Connor",
+          "url": "https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch"
+        }
+      ],
+      "duration_ms": 218546,
+      "name": "Wie sch\u00f6n du bist",
+      "url": "https://open.spotify.com/track/2xtnnO9bHKXEmsfetO3ldK"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
+        "name": "Schwei\u00dfperlen",
+        "url": "https://open.spotify.com/album/6ON8j7fH7Sxr51rYpMb7cm"
+      },
+      "artists": [
+        {
+          "name": "Klaus Lage",
+          "url": "https://open.spotify.com/artist/2gMAioN7m2k5XulfNClMRB"
+        }
+      ],
+      "duration_ms": 200946,
+      "name": "1000 und 1 Nacht (Zoom!) - Remastered 2011",
+      "url": "https://open.spotify.com/track/50brQMN8OxkmYUb1LyOsnQ"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
         "name": "Laut Gedacht (Re-Edition)",
         "url": "https://open.spotify.com/album/2KFT1WSnztunN6NB65IKuo"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 155597,
       "name": "Du Fehlst",
       "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
-        "name": "Schwei\u00dfperlen",
-        "url": "https://open.spotify.com/album/6ON8j7fH7Sxr51rYpMb7cm"
-      },
-      "artists": [
-        {
-          "name": "Klaus Lage",
-          "url": "https://open.spotify.com/artist/2gMAioN7m2k5XulfNClMRB"
-        }
-      ],
-      "duration_ms": 200946,
-      "name": "1000 und 1 Nacht (Zoom!) - Remastered 2011",
-      "url": "https://open.spotify.com/track/50brQMN8OxkmYUb1LyOsnQ"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "F\u00fcr Immer",
-        "url": "https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf"
-      },
-      "artists": [
-        {
-          "name": "Tom Twers",
-          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "F\u00fcr Immer",
-      "url": "https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "MISS YOU",
         "url": "https://open.spotify.com/album/2OBL2m5NlhWqIPWwDZfdlB"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 129587,
       "name": "MISS YOU",
       "url": "https://open.spotify.com/track/7cfSjuVys2WX0rKLZcEwYS"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "F\u00fcr Immer",
+        "url": "https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf"
+      },
+      "artists": [
+        {
+          "name": "Tom Twers",
+          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "F\u00fcr Immer",
+      "url": "https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq"
     },
     {
       "added_at": "2023-03-06 08:21:00",

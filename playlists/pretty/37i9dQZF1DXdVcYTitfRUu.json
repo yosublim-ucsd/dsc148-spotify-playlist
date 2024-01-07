@@ -1,12 +1,12 @@
 {
   "description": "\uac10\uc131 \uac00\ub4dd\ud55c \ub178\ub798\uc640 \ud568\uaed8 \ubd80\ub4dc\ub7fd\uac8c \ud578\ub4e4\uc744 \ub3cc\ub824\ubcf4\uc138\uc694.",
-  "num_followers": 8719,
+  "num_followers": 8724,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2Y0YmY3MjE2MzBlYWEwZDY1Njk3YzYwYWVkODg1OTA5MjgwNzg1",
+  "snapshot_id": "MCw1ZjA3ZWMzMGYzMGExMjdkZmM0MmUyNTAyNDQwZTg4MWUzNDdlZTc0",
   "tracks": [
     {
       "added_at": "2023-12-06 09:09:38",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "Destined with You (Original Television Soundtrack), Pt.7",
-        "url": "https://open.spotify.com/album/43U9K5sEFosiXaS9scEhFr"
-      },
-      "artists": [
-        {
-          "name": "Lyn",
-          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "I'll Always Be With You",
-      "url": "https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7"
-    },
-    {
-      "added_at": "2023-12-06 09:09:38",
-      "album": {
         "name": "Love Sick",
         "url": "https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek"
       },
@@ -707,18 +691,18 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "Twinkling Watermelon (Original Television Soundtrack) Pt. 5",
-        "url": "https://open.spotify.com/album/5gtREUJxp66RTodUXHjQbq"
+        "name": "Destined with You (Original Television Soundtrack), Pt.7",
+        "url": "https://open.spotify.com/album/43U9K5sEFosiXaS9scEhFr"
       },
       "artists": [
         {
-          "name": "Aalia",
-          "url": "https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS"
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
         }
       ],
-      "duration_ms": 233317,
-      "name": "About loneliness",
-      "url": "https://open.spotify.com/track/5LetmN5BQqMazBjdgDrhcf"
+      "duration_ms": 216013,
+      "name": "I'll Always Be With You",
+      "url": "https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7"
     },
     {
       "added_at": "2023-12-06 09:09:38",
@@ -735,6 +719,22 @@
       "duration_ms": 244213,
       "name": "Hello",
       "url": "https://open.spotify.com/track/0RRJ2PHFSCyBaaydDHOv1u"
+    },
+    {
+      "added_at": "2023-12-06 09:09:38",
+      "album": {
+        "name": "Twinkling Watermelon (Original Television Soundtrack) Pt. 5",
+        "url": "https://open.spotify.com/album/5gtREUJxp66RTodUXHjQbq"
+      },
+      "artists": [
+        {
+          "name": "Aalia",
+          "url": "https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS"
+        }
+      ],
+      "duration_ms": 233317,
+      "name": "About loneliness",
+      "url": "https://open.spotify.com/track/5LetmN5BQqMazBjdgDrhcf"
     },
     {
       "added_at": "2023-12-06 09:09:38",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "Like Yesterday",
-        "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Like Yesterday",
-      "url": "https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33"
-    },
-    {
-      "added_at": "2023-12-06 09:09:38",
-      "album": {
         "name": "Hongdae R&B",
         "url": "https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 238454,
       "name": "Hangang Gongwon",
       "url": "https://open.spotify.com/track/58DPUgbOVwsLfAOs2oQBk9"
+    },
+    {
+      "added_at": "2023-12-06 09:09:38",
+      "album": {
+        "name": "Like Yesterday",
+        "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Like Yesterday",
+      "url": "https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33"
     },
     {
       "added_at": "2023-12-06 09:09:38",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7"
+      },
+      "artists": [
+        {
+          "name": "dosii",
+          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
+        }
+      ],
+      "duration_ms": 243321,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ"
+    },
+    {
+      "added_at": "2023-12-06 09:09:38",
+      "album": {
         "name": "Miracle - SM STATION",
         "url": "https://open.spotify.com/album/54O0kItm5ej0HThVMIv5hF"
       },
@@ -1331,34 +1347,18 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7"
+        "name": "Back In Time (The Moon during the Day X K.will)",
+        "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
       },
       "artists": [
         {
-          "name": "dosii",
-          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
         }
       ],
-      "duration_ms": 243321,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ"
-    },
-    {
-      "added_at": "2023-12-06 09:09:38",
-      "album": {
-        "name": "Don't be mad",
-        "url": "https://open.spotify.com/album/0sIbn4BGuc7oG21Fkl5x46"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 184093,
-      "name": "Don't be mad",
-      "url": "https://open.spotify.com/track/4lXl37xDrmVwoz4CuninfI"
+      "duration_ms": 225120,
+      "name": "Back In Time (The Moon during the Day X K.will)",
+      "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
     }
   ],
   "unique_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",

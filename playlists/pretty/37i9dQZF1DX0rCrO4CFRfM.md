@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 
 > Relax to acoustic versions of your favorite rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 965,579 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 965,737 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 21 | [Freak on a Leash \(feat\. Amy Lee\) \- Live At MTV Studio, NYC, 2006](https://open.spotify.com/track/0CMo36AWojJ04Gb3GKf604) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [MTV Unplugged \(Live\)](https://open.spotify.com/album/3IdmuALhor6bV32o4VVSFo) | 3:55 |
 | 22 | [Sorry \- Acoustic](https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 3:34 |
 | 23 | [Control \- Acoustic Version](https://open.spotify.com/track/325aNb4eh8HesYlrJmLSMX) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 4:07 |
-| 24 | [I Wanna Get Lost With You \(Acoustic 2015\)](https://open.spotify.com/track/1gLVsT8unGZfx1G6DGJyp2) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Keep the Village Alive \(Deluxe\)](https://open.spotify.com/album/5NKgyV3NPyX3ErJCgctHgW) | 4:17 |
-| 25 | [Vagabond \- Acoustic Version](https://open.spotify.com/track/6HzpmmaLVHC88XQY4e0YZL) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6TqFe1KFG3NdofscJrSPc4) | 2:40 |
+| 24 | [Vagabond \- Acoustic Version](https://open.spotify.com/track/6HzpmmaLVHC88XQY4e0YZL) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6TqFe1KFG3NdofscJrSPc4) | 2:40 |
+| 25 | [I Wanna Get Lost With You \(Acoustic 2015\)](https://open.spotify.com/track/1gLVsT8unGZfx1G6DGJyp2) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Keep the Village Alive \(Deluxe\)](https://open.spotify.com/album/5NKgyV3NPyX3ErJCgctHgW) | 4:17 |
 | 26 | [Boxes \- Acoustic](https://open.spotify.com/track/09gtDKL49tnLXMwN68D7JO) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Boxes \(Acoustic\)](https://open.spotify.com/album/7z93UaPhXkm2bMjoWltATK) | 4:22 |
 | 27 | [Talihina Sky \- Acoustic Version](https://open.spotify.com/track/1DNM1bkIEzqGrCcQndWl1C) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Talihina Sky](https://open.spotify.com/album/7f9i3ESobBA31kfdfqXQSG) | 3:26 |
 | 28 | [Radioactive \- Live London Sessions / 2013](https://open.spotify.com/track/3T09JC1tNKcHZPhisKKUm8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions \(Expanded Edition / Super Deluxe\)](https://open.spotify.com/album/0LLA5YL3g2UReWlP7nWqGh) | 4:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 49 | [Something Human \(Acoustic\)](https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:46 |
 | 50 | [Legendary \- Acoustic](https://open.spotify.com/track/5l4O7VzsZhKpAJO8w2jrC9) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Legendary \(Acoustic\)](https://open.spotify.com/album/1hj9cR7EcEIisOX3eeke2x) | 3:36 |
 
-Snapshot ID: `MCwyMGYzZjM4ODc0Yzc5YTFkMTkyMWViZTFhNmVkYzA5NDM1ZmQzYTVh`
+Snapshot ID: `MCxiOThkZjQyNjE3MGFkMjk3NWY0NTkwM2Q1MGZiOGQ0Yjk3ZGM3ZDUy`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,554 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,591 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [masterpiece.](https://open.spotify.com/track/3uWnUQyUzcUyt9mf1K6Wm2) | [Iman Europe](https://open.spotify.com/artist/6adkmtXg0Qlmahg9SxNVl0) | [masterpiece.](https://open.spotify.com/album/7xyGKmatwB778gxngyRfLu) | 1:42 |
-| 2 | [Down With the King](https://open.spotify.com/track/5odKJTIElEOAjL2R4d1Gax) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [Down With The King](https://open.spotify.com/album/5Ui7Y42rwbwgnCmmtDdB8X) | 4:26 |
+| 1 | [masterpiece.](https://open.spotify.com/track/3uWnUQyUzcUyt9mf1K6Wm2) | [Iman Europe](https://open.spotify.com/artist/6adkmtXg0Qlmahg9SxNVl0), [Kaelin Ellis](https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd) | [masterpiece.](https://open.spotify.com/album/7xyGKmatwB778gxngyRfLu) | 1:42 |
+| 2 | [Down With the King](https://open.spotify.com/track/5odKJTIElEOAjL2R4d1Gax) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [Down With the King](https://open.spotify.com/album/5Ui7Y42rwbwgnCmmtDdB8X) | 4:26 |
 | 3 | [Madness](https://open.spotify.com/track/28PMt9uzO7BGNp5bIaV3tq) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Madness](https://open.spotify.com/album/0JpMBQwlcVjDNPigw2bM7E) | 3:30 |
 | 4 | [Foreverland \[Feat\. Laura Mvula & Chris Dave\] \- Single Edit](https://open.spotify.com/track/1iYqpkxXgdhE38P3cIF79v) | [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA), [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT), [Chris Dave](https://open.spotify.com/artist/0ty2lxzPnKWRfQd18OuAvM) | [Foreverland \[Feat\. Laura Mvula & Chris Dave\]](https://open.spotify.com/album/4I6MUwu9LVlOccDCRzRbJ6) | 5:03 |
 | 5 | [how u feel](https://open.spotify.com/track/4iMNys9dTJ1DTAamO8IV53) | [Charlie Curtis\-Beard](https://open.spotify.com/artist/3PnZvNZGx7AuTLLeKhGTXb), [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [how u feel](https://open.spotify.com/album/6EmduoDGQ6FhaYfPmm0TQl) | 2:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 99 | [BETTER \(arr\. Emawk\)](https://open.spotify.com/track/5kZhsoeFVmoLWOkRNx8YmB) | [Malika Tirolien](https://open.spotify.com/artist/0ikYn0NEcQ8rC64TA3Rh4N), [emawk](https://open.spotify.com/artist/7gSZocK2o1aDYdXQcVZKJp) | [Better \(arr\. Emawk\)](https://open.spotify.com/album/1pTdZPhmgOd5rTJa7a1YtT) | 5:40 |
 | 100 | [you said...](https://open.spotify.com/track/2T8gjOM7DTgu7YtwLC0ddf) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [you said...](https://open.spotify.com/album/77L359klVW9v2ODUWvNPF5) | 2:14 |
 
-Snapshot ID: `MCw5ODEyOTJhZTdhNzc4NWE3ZmJhYzkyN2U1OWZiZTQ3YzhjYzgzZDMz`
+Snapshot ID: `MCwyNzZhZjI5ODkxMzk3OWM3OTgwNzY5ZDFiYmY2MzZmNTE3OTRiZDI4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,226 likes - 100 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,258 likes - 100 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 36 | [The Last Thing On My Mind](https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Porter Wagoner & Dolly Parton](https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850) | 2:36 |
 | 37 | [He'll Have to Go](https://open.spotify.com/track/7DH5dXVuQaqcKf9oTy9oUN) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [The Essential Jim Reeves](https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA) | 2:18 |
 | 38 | [Skip a Rope](https://open.spotify.com/track/2kzVFcp3kSU1Qld4dYBM7L) | [Henson Cargill](https://open.spotify.com/artist/6OUTtVUjAvUF0uZ3wudxtv) | [All\-American Cowboy](https://open.spotify.com/album/5tSfvArzn1TQdXx2UKJlv0) | 2:40 |
-| 39 | [Love's Gonna Live Here \- Mono Single Version](https://open.spotify.com/track/3ykinxbR3mQYkMHCA47GWr) | [Buck Owens & The Buckaroos](https://open.spotify.com/artist/41GBMTInlbb2bey1N6VAzV) | [The Complete Capitol Singles: 1957\-1966](https://open.spotify.com/album/1WllgaSsuf3emf53KiMKAy) | 2:01 |
+| 39 | [Once a Day](https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu) | [Connie Smith](https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo) | [Connie Smith](https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb) | 2:20 |
 | 40 | [Fist City](https://open.spotify.com/track/1YaPhbIo2oKWT5ejlMEL5Z) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Fist City](https://open.spotify.com/album/069layftQtjJZ6KqZWHk6q) | 2:13 |
-| 41 | [Once a Day](https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu) | [Connie Smith](https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo) | [Connie Smith](https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb) | 2:20 |
+| 41 | [Love's Gonna Live Here \- Mono Single Version](https://open.spotify.com/track/3ykinxbR3mQYkMHCA47GWr) | [Buck Owens & The Buckaroos](https://open.spotify.com/artist/41GBMTInlbb2bey1N6VAzV) | [The Complete Capitol Singles: 1957\-1966](https://open.spotify.com/album/1WllgaSsuf3emf53KiMKAy) | 2:01 |
 | 42 | [Ballad Of Forty Dollars](https://open.spotify.com/track/1phh5V7T5JAaiIww22ARZk) | [Tom T\. Hall](https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T) | [Country Classics: American Legends Tom T\. Hall \(Expanded Edition\)](https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5) | 3:01 |
 | 43 | [Phantom 309](https://open.spotify.com/track/2IVpJWwVPGlfSeZ4uXgGb3) | [Red Sovine](https://open.spotify.com/artist/7wVgfy012qNvQ607JM5Qsf) | [Phantom 309](https://open.spotify.com/album/6QZ4vYqDJzcbBf4HaBkMJV) | 3:29 |
 | 44 | [Almost Persuaded](https://open.spotify.com/track/2Krnm3qWdy4VG5vTkT0cDn) | [David Houston](https://open.spotify.com/artist/7tIs7rxqGuBvWMhIIigunf) | [Almost Persuaded](https://open.spotify.com/album/0zOZyQFw8zR4hFAMyM92tk) | 2:56 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 90 | [Last Date \- Instrumental](https://open.spotify.com/track/7rbvjRc6ZTVA3GUXDx3Xtr) | [Floyd Cramer](https://open.spotify.com/artist/6DQ6mdEhxCgHPqfX1niZZK) | [Super Hits](https://open.spotify.com/album/2xDSr0Si1QI2v4kkGnkW4G) | 2:26 |
 | 91 | [Green Green Grass Of Home](https://open.spotify.com/track/6Ss6vCdWHgCuiB3icgBAwY) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [Super Hits](https://open.spotify.com/album/2up4ZFkepH2jR7Ltnd2LiJ) | 2:59 |
 | 92 | [Timber I'm Falling](https://open.spotify.com/track/6tYRg3XkDpjlST4XBMcnjX) | [Ferlin Husky](https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB) | [Super Hits](https://open.spotify.com/album/0olpLTTyf5mFEpgNcdJzJ9) | 2:32 |
-| 93 | [\(That's What You Get\) For Lovin' Me](https://open.spotify.com/track/1FrG5yYxDbusk4dK3pQ9le) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [The Essential Waylon Jennings](https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox) | 2:26 |
-| 94 | [Send Me The Pillow You Dream On](https://open.spotify.com/track/3EeF3uTDVQLaEzoFLF3orm) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [It Keeps Right On A\-Hurtin'](https://open.spotify.com/album/59Q8d7s1dohWqRUMFusy2T) | 2:53 |
+| 93 | [Send Me The Pillow You Dream On](https://open.spotify.com/track/3EeF3uTDVQLaEzoFLF3orm) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [It Keeps Right On A\-Hurtin'](https://open.spotify.com/album/59Q8d7s1dohWqRUMFusy2T) | 2:53 |
+| 94 | [\(That's What You Get\) For Lovin' Me](https://open.spotify.com/track/1FrG5yYxDbusk4dK3pQ9le) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [The Essential Waylon Jennings](https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox) | 2:26 |
 | 95 | [I've Been Everywhere \- Remastered](https://open.spotify.com/track/1rFGwz7rswOuW2IdXPd0fv) | [Hank Snow](https://open.spotify.com/artist/3fq6r0bSIm4McymHKNMk4S) | [The Essential Hank Snow](https://open.spotify.com/album/0GcpueUt33P9XoObysUzFR) | 2:44 |
 | 96 | [Make the World Go Away](https://open.spotify.com/track/7GafJyGdVj7ahXo96LwFM4) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [The Essential Eddy Arnold](https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15) | 2:37 |
 | 97 | [Saginaw, Michigan](https://open.spotify.com/track/0ulPILleWfE1NBzUWIiNi9) | [Lefty Frizzell](https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU) | [Saginaw, Michigan](https://open.spotify.com/album/2ldbI4zj8GXoN8rJL5V6bX) | 3:02 |
 | 98 | [Don't Touch Me](https://open.spotify.com/track/1Y2G8nl3CGR3qMPDDBuDhb) | [Jeannie Seely](https://open.spotify.com/artist/0i9f82nIFjrLnnsf2YX3vY) | [The Seely Style](https://open.spotify.com/album/5dx7Vs0d283fuSeaYpvSsw) | 3:12 |
-| 99 | [A Six Pack To Go](https://open.spotify.com/track/3hCOH1pgpQmaTWgR58OFS2) | [Hank Thompson](https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0) | [Best Of The Best](https://open.spotify.com/album/6Xc0ABtnw2u9mtsdoNFIbQ) | 2:09 |
-| 100 | [Wine Me Up](https://open.spotify.com/track/2QS8C4T3H1hYpnADMpq8Uz) | [Faron Young](https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL) | [Hello Walls](https://open.spotify.com/album/1wkRC5qOr6uz5lbOZNcFfL) | 2:24 |
+| 99 | [Wine Me Up](https://open.spotify.com/track/2QS8C4T3H1hYpnADMpq8Uz) | [Faron Young](https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL) | [Hello Walls](https://open.spotify.com/album/1wkRC5qOr6uz5lbOZNcFfL) | 2:24 |
+| 100 | [A Six Pack To Go](https://open.spotify.com/track/3hCOH1pgpQmaTWgR58OFS2) | [Hank Thompson](https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0) | [Best Of The Best](https://open.spotify.com/album/6Xc0ABtnw2u9mtsdoNFIbQ) | 2:09 |
 
-Snapshot ID: `MCw2NjBhMmYyZjU0MWYxZmRiMGQ5OTA4MDlhMzMzNDA5MmVlYmNlOWVl`
+Snapshot ID: `MCxkOGNiMDU4MWE0MGY5ZTI4YzMwODA1OWRiYmQ1NTliOWUzNzU3NDA4`

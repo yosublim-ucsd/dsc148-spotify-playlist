@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 
 > Die schönsten deutschsprachigen Liebeslieder in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,168 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,245 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 19 | [Du](https://open.spotify.com/track/27iPwB996qUnv5oVq6QyjN) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Raop](https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV) | 2:54 |
 | 20 | [Liebe zu dritt](https://open.spotify.com/track/1CeL9v59rZeFX63hYI4eAO) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Liebe zu dritt](https://open.spotify.com/album/20HZQOmLW3XOSQKbZjw77F) | 3:26 |
 | 21 | [Ich lass für dich das Licht an](https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG) | [Revolverheld](https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0) | [Immer in Bewegung](https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0) | 3:32 |
-| 22 | [Wie schön du bist](https://open.spotify.com/track/2xtnnO9bHKXEmsfetO3ldK) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Muttersprache \(Deluxe Version\)](https://open.spotify.com/album/3ZpOEFd7RgKIcdWOqrzOAc) | 3:38 |
-| 23 | [Alles aus Liebe](https://open.spotify.com/track/2WFZXkRsALv5kC6HFIAsuG) | [Die Toten Hosen](https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ) | [Kauf mich! \(Deluxe\-Edition mit Bonus\-Tracks\)](https://open.spotify.com/album/5s0tTtY5aoJt4hgWGwzXoc) | 4:32 |
+| 22 | [Alles aus Liebe](https://open.spotify.com/track/2WFZXkRsALv5kC6HFIAsuG) | [Die Toten Hosen](https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ) | [Kauf mich! \(Deluxe\-Edition mit Bonus\-Tracks\)](https://open.spotify.com/album/5s0tTtY5aoJt4hgWGwzXoc) | 4:32 |
+| 23 | [Wie schön du bist](https://open.spotify.com/track/2xtnnO9bHKXEmsfetO3ldK) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Muttersprache \(Deluxe Version\)](https://open.spotify.com/album/3ZpOEFd7RgKIcdWOqrzOAc) | 3:38 |
 | 24 | [Nur geträumt](https://open.spotify.com/track/0ukySDr4uEzZE36s7t7X8E) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena](https://open.spotify.com/album/4uHwcjASOWAKw4P4wveKRb) | 3:42 |
 | 25 | [Dein ist mein ganzes Herz](https://open.spotify.com/track/030dULvYNT5n8vYpIak51w) | [Heinz Rudolf Kunze](https://open.spotify.com/artist/77DQHftPzPyCoqSDjdHDxJ) | [Dein ist mein ganzes Herz](https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy) | 3:33 |
 | 26 | [Katharina](https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Es ist Abend und wir sitzen bei mir](https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI) | 3:00 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 36 | [Nur wegen dir](https://open.spotify.com/track/0ui2kVwPZKHaZxGhdIzBrp) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [Nur wegen dir](https://open.spotify.com/album/6QoPwcohKlWQsotj6HZXDl) | 3:23 |
 | 37 | [So perfekt](https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [XOXO](https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv) | 3:40 |
 | 38 | [Er gehört zu mir](https://open.spotify.com/track/6COzABVCHQzyvc3rTMtrXn) | [Marianne Rosenberg](https://open.spotify.com/artist/4RVBHXd0cu2qrEyv8jVjQZ) | [Er gehört zu mir](https://open.spotify.com/album/6Gm59zyhmpW3mDvxZEZgth) | 3:00 |
-| 39 | [Das Beste](https://open.spotify.com/track/3FEhbAkm1Dy21UvhbYhFM3) | [Silbermond](https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA) | [Laut Gedacht \(Re\-Edition\)](https://open.spotify.com/album/2KFT1WSnztunN6NB65IKuo) | 4:44 |
-| 40 | [Du Fehlst](https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Du Fehlst](https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF) | 2:35 |
-| 41 | [1000 und 1 Nacht \(Zoom!\) \- Remastered 2011](https://open.spotify.com/track/50brQMN8OxkmYUb1LyOsnQ) | [Klaus Lage](https://open.spotify.com/artist/2gMAioN7m2k5XulfNClMRB) | [Schweißperlen](https://open.spotify.com/album/6ON8j7fH7Sxr51rYpMb7cm) | 3:20 |
+| 39 | [1000 und 1 Nacht \(Zoom!\) \- Remastered 2011](https://open.spotify.com/track/50brQMN8OxkmYUb1LyOsnQ) | [Klaus Lage](https://open.spotify.com/artist/2gMAioN7m2k5XulfNClMRB) | [Schweißperlen](https://open.spotify.com/album/6ON8j7fH7Sxr51rYpMb7cm) | 3:20 |
+| 40 | [Das Beste](https://open.spotify.com/track/3FEhbAkm1Dy21UvhbYhFM3) | [Silbermond](https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA) | [Laut Gedacht \(Re\-Edition\)](https://open.spotify.com/album/2KFT1WSnztunN6NB65IKuo) | 4:44 |
+| 41 | [Du Fehlst](https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Du Fehlst](https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF) | 2:35 |
 | 42 | [Blaue Augen](https://open.spotify.com/track/045Qp5DqFXTqUuMMBR81iS) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Blaue Augen](https://open.spotify.com/album/5YDM82AhvE4m0tppu7XQHc) | 2:47 |
 | 43 | [Zu dir](https://open.spotify.com/track/4ij2vmffYpMjCTDd38vvEV) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Zwischen meinen Zeilen \(Deluxe\)](https://open.spotify.com/album/3BRzzOrxdksgbL4Iw7dNHd) | 3:03 |
 | 44 | [Kaum Erwarten](https://open.spotify.com/track/6UR0WjQTWLgyVWxAaXfrH5) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Irgendwie anders](https://open.spotify.com/album/5tNgkRtA8Bx1cAYLLmxomw) | 3:13 |
 | 45 | [Normal zu lieben](https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Normal zu lieben](https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz) | 2:56 |
-| 46 | [Für Immer](https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Für Immer](https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf) | 2:08 |
-| 47 | [MISS YOU](https://open.spotify.com/track/7cfSjuVys2WX0rKLZcEwYS) | [Disarstar](https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5), [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK), [The Cratez](https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb) | [MISS YOU](https://open.spotify.com/album/2OBL2m5NlhWqIPWwDZfdlB) | 2:09 |
+| 46 | [MISS YOU](https://open.spotify.com/track/7cfSjuVys2WX0rKLZcEwYS) | [Disarstar](https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5), [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK), [The Cratez](https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb) | [MISS YOU](https://open.spotify.com/album/2OBL2m5NlhWqIPWwDZfdlB) | 2:09 |
+| 47 | [Für Immer](https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Für Immer](https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf) | 2:08 |
 | 48 | [Unique](https://open.spotify.com/track/76NbcSdF8lF5Ujd065C0wf) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Von Wind und Anonymität](https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK) | 2:42 |
 | 49 | [Home Again](https://open.spotify.com/track/0BhbRX5t6zRCLBUMtWOynf) | [JORIS](https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4), [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [Home Again](https://open.spotify.com/album/749kLg4Sk28HuuF9MSjF3I) | 3:27 |
 | 50 | [Hollywood \- Akustik Version](https://open.spotify.com/track/58B7uBTVteWmo0DOaouJXO) | [Benne](https://open.spotify.com/artist/0eS2ZGOnJi5Cp4ASTy4aBc), [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [Hollywood \(Akustik Version\)](https://open.spotify.com/album/5FyuGW8u3zdhTOdhNusU92) | 2:32 |
 
-Snapshot ID: `MCw3ZTQ0YWZkNjkwZThkZTBjZTc5ODY0ZGMyYTIyYjczY2VmM2QwNTll`
+Snapshot ID: `MCxlOTc4MGY5NzhmNGY4Njg5Yjk4ODljZWRjNWU4NWI3OGNkMTM4OGQy`

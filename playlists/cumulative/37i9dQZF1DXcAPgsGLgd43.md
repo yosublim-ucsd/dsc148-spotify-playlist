@@ -4,7 +4,7 @@
 
 > Introducing Alma — a soul born from Latin and house music.
 
-156 songs - 8 hr 40 min
+157 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,9 +26,10 @@
 | [Benjamín Carrión](https://open.spotify.com/track/4wxoAvFshEHA6JL1ymeFNf) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Alterego](https://open.spotify.com/album/4JypWzN41tSUvnRIzWt4f2) | 2:57 | 2023-11-10 |  |
 | [Beso \(Fruta Fresca\)](https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG) | [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Beso \(Fruta Fresca\)](https://open.spotify.com/album/6YoX9Sp63sr8NvOEjHk8uV) | 3:17 | 2023-12-15 |  |
 | [Bim Boom Bam](https://open.spotify.com/track/0hRRxfLwMUlO6Bvoz8iNbf) | [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7) | [Bim Boom Bam](https://open.spotify.com/album/5jIkBRxJrtk14bkHIGmf1k) | 2:24 | 2023-11-10 |  |
+| [Bololo \- MichaelBM & Francesco V Remix](https://open.spotify.com/track/6H0Jp0W6K5arH3w38rE8ZU) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0), [MichaelBM](https://open.spotify.com/artist/0DdbrsAMsJHh1EFRkrVmzb), [Francesco V](https://open.spotify.com/artist/6MrtkunYTDdVAjtH4cHjLb) | [Bololo \(Remixes\)](https://open.spotify.com/album/3bC1j0lxI66MJl2T3anvF2) | 2:23 | 2024-01-05 |  |
 | [Brisas Del Mar](https://open.spotify.com/track/3KYgsHPXp1pOywoYkUmh6k) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec) | [Brisas Del Mar](https://open.spotify.com/album/55iEeiN1Sg4YhtWW72MiQY) | 3:16 | 2021-10-08 | 2023-11-11 |
 | [Bueno](https://open.spotify.com/track/6vVPwFyG1i2cGbkooigqDM) | [Jora](https://open.spotify.com/artist/2AMvbDOcox78jmmgQN5UfX) | [Bueno](https://open.spotify.com/album/0CJtRHuxVxPmjvb6E3pau5) | 3:36 | 2023-12-08 |  |
-| [Caliente](https://open.spotify.com/track/7GA5kAtcfu6ffdjrsDNCe3) | [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz) | [Caliente](https://open.spotify.com/album/0k9fJtZqLDVJi56EbJ6hYE) | 2:33 | 2023-11-10 |  |
+| [Caliente](https://open.spotify.com/track/7GA5kAtcfu6ffdjrsDNCe3) | [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz) | [Caliente](https://open.spotify.com/album/0k9fJtZqLDVJi56EbJ6hYE) | 2:33 | 2023-11-10 | 2024-01-07 |
 | [Calle ft\. Villanueva](https://open.spotify.com/track/4eHlj1PuYqkjmHRlLBpCjU) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Villanueva](https://open.spotify.com/artist/2FOAXoBtjc7RYFwNy1cZ2j) | [Calle EP](https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3) | 3:33 | 2021-10-08 | 2023-11-11 |
 | [Can't Have It](https://open.spotify.com/track/1TwJ9U24E9WtfUngEpadMf) | [SWAYLÓ](https://open.spotify.com/artist/6UrFs6kJkQTO9k2rKzfqEv) | [Can't Have It](https://open.spotify.com/album/65EAWbqxyp9658YllENyER) | 3:50 | 2021-10-08 | 2022-11-13 |
 | [Candela \- Original Mix](https://open.spotify.com/track/6bBOQ5FirB6p9FuIfRKHss) | [Simon Miceli](https://open.spotify.com/artist/7b7l6CspiIMoXFKY8MRGgv) | [Candela](https://open.spotify.com/album/73mhxwF0L5xnccgIWImNJZ) | 3:32 | 2023-11-17 |  |

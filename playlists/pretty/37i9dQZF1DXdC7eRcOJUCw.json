@@ -1,12 +1,12 @@
 {
   "description": "Estas damas s\u00ed que tienen car\u00e1cter. Yuridia en portada.",
-  "num_followers": 129993,
+  "num_followers": 130038,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODBhZTkwZmFiODUwZGFhYzQyOGEyM2I5MDM1YzQ3YjlmYTUzYzM5",
+  "snapshot_id": "MCxmOWEyNDc3NjgxY2FiODZlNjJkNGFkZDI2NzlkMjE5YTBhZTBlODM5",
   "tracks": [
     {
       "added_at": "2023-12-15 15:33:16",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-12-15 15:33:16",
       "album": {
-        "name": "Las Que M\u00e1s Amo",
-        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 165610,
-      "name": "Fruta Prohibida",
-      "url": "https://open.spotify.com/track/0oZYQ8dIQh5EFQwErqDWl6"
-    },
-    {
-      "added_at": "2023-12-15 15:33:16",
-      "album": {
         "name": "\u00a1 Ora pues !",
         "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 143800,
       "name": "Las Margaritas",
       "url": "https://open.spotify.com/track/0CpDKuoEqUWou1jEVoZCeu"
+    },
+    {
+      "added_at": "2023-12-15 15:33:16",
+      "album": {
+        "name": "Las Que M\u00e1s Amo",
+        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 165610,
+      "name": "Fruta Prohibida",
+      "url": "https://open.spotify.com/track/0oZYQ8dIQh5EFQwErqDWl6"
     },
     {
       "added_at": "2023-12-15 15:33:16",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-12-15 15:33:16",
       "album": {
-        "name": "Los Exitos De Amalia Mendoza",
-        "url": "https://open.spotify.com/album/6nryFiduM55GeJxDc7dzNl"
-      },
-      "artists": [
-        {
-          "name": "Amalia Mendoza",
-          "url": "https://open.spotify.com/artist/3zH5WktZU1xXqBZMsgV0IC"
-        }
-      ],
-      "duration_ms": 191173,
-      "name": "\u00c9chame a M\u00ed la Culpa",
-      "url": "https://open.spotify.com/track/4QJsxMItrRbvn05gGuf0CZ"
-    },
-    {
-      "added_at": "2023-12-15 15:33:16",
-      "album": {
         "name": "La Reina de la Canci\u00f3n Mexicana",
         "url": "https://open.spotify.com/album/5Vr2JTbPM5X0OC2k2O3ocd"
       },
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2023-12-15 15:33:16",
       "album": {
-        "name": "Fue Tan Poco Tu Cari\u00f1o",
-        "url": "https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU"
+        "name": "Los Exitos De Amalia Mendoza",
+        "url": "https://open.spotify.com/album/6nryFiduM55GeJxDc7dzNl"
       },
       "artists": [
         {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+          "name": "Amalia Mendoza",
+          "url": "https://open.spotify.com/artist/3zH5WktZU1xXqBZMsgV0IC"
         }
       ],
-      "duration_ms": 195466,
-      "name": "Fue Tan Poco Tu Cari\u00f1o",
-      "url": "https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy"
+      "duration_ms": 191173,
+      "name": "\u00c9chame a M\u00ed la Culpa",
+      "url": "https://open.spotify.com/track/4QJsxMItrRbvn05gGuf0CZ"
     },
     {
       "added_at": "2023-12-15 15:33:16",
@@ -1279,6 +1263,22 @@
       "duration_ms": 197080,
       "name": "Y Volvere",
       "url": "https://open.spotify.com/track/5NQD1UTDqELITz9G9ehD6l"
+    },
+    {
+      "added_at": "2023-12-15 15:33:16",
+      "album": {
+        "name": "Fue Tan Poco Tu Cari\u00f1o",
+        "url": "https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "Fue Tan Poco Tu Cari\u00f1o",
+      "url": "https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy"
     },
     {
       "added_at": "2023-12-15 15:33:16",
@@ -1331,70 +1331,6 @@
     {
       "added_at": "2023-12-15 15:33:16",
       "album": {
-        "name": "...Y Lleg\u00f3 Para Quedarse",
-        "url": "https://open.spotify.com/album/1CYA2MjGmAUvoNG5rUMYxf"
-      },
-      "artists": [
-        {
-          "name": "Sandra Echeverria",
-          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/4Tq20RgZQXRAqekScOU4I7"
-    },
-    {
-      "added_at": "2023-12-15 15:33:16",
-      "album": {
-        "name": "Qu\u00edtame ese Hombre",
-        "url": "https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 196874,
-      "name": "Qu\u00edtame Ese Hombre",
-      "url": "https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM"
-    },
-    {
-      "added_at": "2023-12-15 15:33:16",
-      "album": {
-        "name": "La Tari\u00e1curi",
-        "url": "https://open.spotify.com/album/5p8WmAnz98OGqYig1OB9iU"
-      },
-      "artists": [
-        {
-          "name": "Amalia Mendoza",
-          "url": "https://open.spotify.com/artist/3zH5WktZU1xXqBZMsgV0IC"
-        }
-      ],
-      "duration_ms": 176013,
-      "name": "Paloma Sin Nido",
-      "url": "https://open.spotify.com/track/6u3NpKIbHU7MgFPTIeKGIZ"
-    },
-    {
-      "added_at": "2023-12-15 15:33:16",
-      "album": {
-        "name": "Lola Beltr\u00e1n en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris",
-        "url": "https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K"
-      },
-      "artists": [
-        {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Cielito Lindo",
-      "url": "https://open.spotify.com/track/7Fg1CbNLNXDflPrr0Byxhx"
-    },
-    {
-      "added_at": "2023-12-15 15:33:16",
-      "album": {
         "name": "La Caponera (M\u00fasica de la Serie Original \u201cEl Gallo de Oro\u201d)",
         "url": "https://open.spotify.com/album/4muQXYTMJaQtFMtzJJ9DFD"
       },
@@ -1415,6 +1351,70 @@
     {
       "added_at": "2023-12-15 15:33:16",
       "album": {
+        "name": "Qu\u00edtame ese Hombre",
+        "url": "https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 196874,
+      "name": "Qu\u00edtame Ese Hombre",
+      "url": "https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM"
+    },
+    {
+      "added_at": "2023-12-15 15:33:16",
+      "album": {
+        "name": "Lola Beltr\u00e1n en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris",
+        "url": "https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Cielito Lindo",
+      "url": "https://open.spotify.com/track/7Fg1CbNLNXDflPrr0Byxhx"
+    },
+    {
+      "added_at": "2023-12-15 15:33:16",
+      "album": {
+        "name": "...Y Lleg\u00f3 Para Quedarse",
+        "url": "https://open.spotify.com/album/1CYA2MjGmAUvoNG5rUMYxf"
+      },
+      "artists": [
+        {
+          "name": "Sandra Echeverria",
+          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/4Tq20RgZQXRAqekScOU4I7"
+    },
+    {
+      "added_at": "2023-12-15 15:33:16",
+      "album": {
+        "name": "La Tari\u00e1curi",
+        "url": "https://open.spotify.com/album/5p8WmAnz98OGqYig1OB9iU"
+      },
+      "artists": [
+        {
+          "name": "Amalia Mendoza",
+          "url": "https://open.spotify.com/artist/3zH5WktZU1xXqBZMsgV0IC"
+        }
+      ],
+      "duration_ms": 176013,
+      "name": "Paloma Sin Nido",
+      "url": "https://open.spotify.com/track/6u3NpKIbHU7MgFPTIeKGIZ"
+    },
+    {
+      "added_at": "2023-12-15 15:33:16",
+      "album": {
         "name": "No Me Amenaces",
         "url": "https://open.spotify.com/album/5PTXa366m9IeBC8bqo9HMh"
       },
@@ -1427,22 +1427,6 @@
       "duration_ms": 174671,
       "name": "No Me Amenaces",
       "url": "https://open.spotify.com/track/2F9QiR9xVc7HXJ6qPQQxNO"
-    },
-    {
-      "added_at": "2023-12-15 15:33:16",
-      "album": {
-        "name": "Mi Culpa",
-        "url": "https://open.spotify.com/album/2IiwnQJQpBcaZnkvycvvT9"
-      },
-      "artists": [
-        {
-          "name": "Sandra Echeverria",
-          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
-        }
-      ],
-      "duration_ms": 268733,
-      "name": "Mi Culpa",
-      "url": "https://open.spotify.com/track/35NsxRSqly73eUC9jOgATW"
     },
     {
       "added_at": "2023-12-15 15:33:16",
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2023-12-15 15:33:16",
       "album": {
+        "name": "No Me Rebajo",
+        "url": "https://open.spotify.com/album/5A7ZuC4mInd4SS88MUe3DU"
+      },
+      "artists": [
+        {
+          "name": "La Morra De La Vihuela",
+          "url": "https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi"
+        }
+      ],
+      "duration_ms": 203250,
+      "name": "No Me Rebajo",
+      "url": "https://open.spotify.com/track/67FAoDXB5Q1bxHLuFe7rIi"
+    },
+    {
+      "added_at": "2023-12-15 15:33:16",
+      "album": {
         "name": "Dej\u00e9moslo As\u00ed",
         "url": "https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1"
       },
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2023-12-15 15:33:16",
       "album": {
-        "name": "No Me Rebajo",
-        "url": "https://open.spotify.com/album/5A7ZuC4mInd4SS88MUe3DU"
+        "name": "Mi Culpa",
+        "url": "https://open.spotify.com/album/2IiwnQJQpBcaZnkvycvvT9"
       },
       "artists": [
         {
-          "name": "La Morra De La Vihuela",
-          "url": "https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi"
+          "name": "Sandra Echeverria",
+          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
         }
       ],
-      "duration_ms": 203250,
-      "name": "No Me Rebajo",
-      "url": "https://open.spotify.com/track/67FAoDXB5Q1bxHLuFe7rIi"
+      "duration_ms": 268733,
+      "name": "Mi Culpa",
+      "url": "https://open.spotify.com/track/35NsxRSqly73eUC9jOgATW"
     },
     {
       "added_at": "2023-12-15 15:33:16",

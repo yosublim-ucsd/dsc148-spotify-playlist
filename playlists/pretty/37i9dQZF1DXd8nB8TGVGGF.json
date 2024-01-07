@@ -1,12 +1,12 @@
 {
   "description": "The best Blues for a long trip behind the wheel. ",
-  "num_followers": 32809,
+  "num_followers": 32890,
   "original_name": "Blues Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2EyNDdjZDUyMzZmYWI4Y2MxMzE5N2ExOTE4MDk2MTU5YmVjZDlh",
+  "snapshot_id": "MCwyOTMyY2RjYzk2MzdhNmY4ZDAwMDRhNGU4ZjFiYTQ0M2JhYzcxY2E4",
   "tracks": [
     {
       "added_at": "2023-01-27 16:34:16",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Twice Removed from Yesterday",
-        "url": "https://open.spotify.com/album/15XZ5bvCoiEXEBprtGkpZu"
+        "name": "Blues & Trouble (Blues Reference 1983-1985)",
+        "url": "https://open.spotify.com/album/2k2MADUj4Fd3mhJWQbQoqt"
       },
       "artists": [
         {
-          "name": "Robin Trower",
-          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
+          "name": "Buster Benton",
+          "url": "https://open.spotify.com/artist/3eBGrFX7u2Py7eiwvwosc4"
         }
       ],
-      "duration_ms": 255893,
-      "name": "Rock Me Baby",
-      "url": "https://open.spotify.com/track/7jixAsWYi2j8kI8SCFO84j"
+      "duration_ms": 211040,
+      "name": "I Must Have A Hole In My Head",
+      "url": "https://open.spotify.com/track/2SG7ES67oTwTNSxsMe3lo1"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
+        "name": "Twice Removed from Yesterday",
+        "url": "https://open.spotify.com/album/15XZ5bvCoiEXEBprtGkpZu"
+      },
+      "artists": [
+        {
+          "name": "Robin Trower",
+          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
+        }
+      ],
+      "duration_ms": 255893,
+      "name": "Rock Me Baby",
+      "url": "https://open.spotify.com/track/7jixAsWYi2j8kI8SCFO84j"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
         "name": "Beck, Bogert, Appice",
         "url": "https://open.spotify.com/album/6FJqfog8O3e8gypdDlsCvz"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 226826,
       "name": "Black Cat Moan",
       "url": "https://open.spotify.com/track/6fagHyNeLIDG58qt0GQ8l2"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
-        "name": "Blues & Trouble (Blues Reference 1983-1985)",
-        "url": "https://open.spotify.com/album/2k2MADUj4Fd3mhJWQbQoqt"
-      },
-      "artists": [
-        {
-          "name": "Buster Benton",
-          "url": "https://open.spotify.com/artist/3eBGrFX7u2Py7eiwvwosc4"
-        }
-      ],
-      "duration_ms": 211040,
-      "name": "I Must Have A Hole In My Head",
-      "url": "https://open.spotify.com/track/2SG7ES67oTwTNSxsMe3lo1"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Blues For Greeny",
-        "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 126773,
-      "name": "Long Grey Mare",
-      "url": "https://open.spotify.com/track/2qVOcQMtxjrY8WHPkygyGc"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
         "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 152893,
       "name": "Shake Your Money Maker",
       "url": "https://open.spotify.com/track/2VxnY6jbl0SckkZp9wrNF7"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Blues For Greeny",
+        "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 126773,
+      "name": "Long Grey Mare",
+      "url": "https://open.spotify.com/track/2qVOcQMtxjrY8WHPkygyGc"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "duration_ms": 147293,
+      "name": "Stop Right Now - Stereo Version",
+      "url": "https://open.spotify.com/track/4Uo4RCirDyu9P9YaUAFFPV"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 236160,
       "name": "My Babe",
       "url": "https://open.spotify.com/track/0YCj5u72nxNMLdvDQcUdZr"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
-        "name": "More Real Folk Blues",
-        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
-        }
-      ],
-      "duration_ms": 147293,
-      "name": "Stop Right Now - Stereo Version",
-      "url": "https://open.spotify.com/track/4Uo4RCirDyu9P9YaUAFFPV"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1011,22 +1011,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
-        "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
       },
       "artists": [
         {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        },
-        {
-          "name": "Muddy Waters Blues Band",
-          "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 172720,
-      "name": "Black Rat - Take 4",
-      "url": "https://open.spotify.com/track/20OvWgveuLJbs6asSB8ncL"
+      "duration_ms": 200400,
+      "name": "I Can't Quit The Blues",
+      "url": "https://open.spotify.com/track/7odv5siIsQdOEUmsk7Mjsv"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1047,6 +1043,26 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
+        "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
+        "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Muddy Waters Blues Band",
+          "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
+        }
+      ],
+      "duration_ms": 172720,
+      "name": "Black Rat - Take 4",
+      "url": "https://open.spotify.com/track/20OvWgveuLJbs6asSB8ncL"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
         "name": "Men of the World: The Early Years",
         "url": "https://open.spotify.com/album/48gcTGds5MLWEURDjbpwYE"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 191266,
       "name": "Like It This Way",
       "url": "https://open.spotify.com/track/1lq2ADWqMMsEqfLeGAyKCf"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "I Can't Quit The Blues",
-      "url": "https://open.spotify.com/track/7odv5siIsQdOEUmsk7Mjsv"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Stronger Than Dirt",
-        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
+        "name": "I Was Walking Through The Woods (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
       },
       "artists": [
         {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Hound Dog",
-      "url": "https://open.spotify.com/track/7dnH4MKOS40E0h0WtWCkYh"
+      "duration_ms": 139626,
+      "name": "I Got My Eyes On You",
+      "url": "https://open.spotify.com/track/5Hm4G8TmOoaVdNWA7okYvn"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "I Was Walking Through The Woods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 139626,
-      "name": "I Got My Eyes On You",
-      "url": "https://open.spotify.com/track/5Hm4G8TmOoaVdNWA7okYvn"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Door To Door",
         "url": "https://open.spotify.com/album/5f25lxtzGj0mRtDpn50YBP"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 182666,
       "name": "Callin' For My Darlin'",
       "url": "https://open.spotify.com/track/1X6ZMDWmDRWmyyx94DrvxM"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Stronger Than Dirt",
+        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Hound Dog",
+      "url": "https://open.spotify.com/track/7dnH4MKOS40E0h0WtWCkYh"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Texas Oil - The Complete Federal Recordings",
-        "url": "https://open.spotify.com/album/0aUiSnttJkUwVycLAnXKdQ"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Wash Out",
-      "url": "https://open.spotify.com/track/7krwrfAipXYI2aChTzv3t0"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Men of the World: The Early Years",
         "url": "https://open.spotify.com/album/48gcTGds5MLWEURDjbpwYE"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 468800,
       "name": "Rattlesnake Shake (Live)",
       "url": "https://open.spotify.com/track/0BSbV2V2QYn7YYch4eT1Pt"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Texas Oil - The Complete Federal Recordings",
+        "url": "https://open.spotify.com/album/0aUiSnttJkUwVycLAnXKdQ"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Wash Out",
+      "url": "https://open.spotify.com/track/7krwrfAipXYI2aChTzv3t0"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Frijid Pink (Digitially Remastered)",
-        "url": "https://open.spotify.com/album/0iGAC7IoWSGGFXEDqtddNI"
-      },
-      "artists": [
-        {
-          "name": "Frijid Pink",
-          "url": "https://open.spotify.com/artist/0K24Tk5QTxx6tkcCdnY3Od"
-        }
-      ],
-      "duration_ms": 228626,
-      "name": "Drivin' Blues - Remastered",
-      "url": "https://open.spotify.com/track/5HvEnevlPtko7RRHFYfOrL"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Checkin' It Out",
         "url": "https://open.spotify.com/album/75cACdZc7bh9xgE402Tsmg"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 196666,
       "name": "Don't Stay Out All Night",
       "url": "https://open.spotify.com/track/2w5wOsTUOPRGekr3z65G2l"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Frijid Pink (Digitially Remastered)",
+        "url": "https://open.spotify.com/album/0iGAC7IoWSGGFXEDqtddNI"
+      },
+      "artists": [
+        {
+          "name": "Frijid Pink",
+          "url": "https://open.spotify.com/artist/0K24Tk5QTxx6tkcCdnY3Od"
+        }
+      ],
+      "duration_ms": 228626,
+      "name": "Drivin' Blues - Remastered",
+      "url": "https://open.spotify.com/track/5HvEnevlPtko7RRHFYfOrL"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "On The Waterfront",
-        "url": "https://open.spotify.com/album/1hxZ6gTtb5P91mZLwD3QvQ"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 144733,
-      "name": "Don\u2019t Want Nobody Else",
-      "url": "https://open.spotify.com/track/1QfqNHg7jHpbf6sE9YDNud"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "The Essential Little Walter",
         "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 195400,
       "name": "Don't Need No Horse",
       "url": "https://open.spotify.com/track/44f9KFtJb0tdnqJ7RFBqLN"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "On The Waterfront",
+        "url": "https://open.spotify.com/album/1hxZ6gTtb5P91mZLwD3QvQ"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 144733,
+      "name": "Don\u2019t Want Nobody Else",
+      "url": "https://open.spotify.com/track/1QfqNHg7jHpbf6sE9YDNud"
     },
     {
       "added_at": "2023-01-27 16:34:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 
 > A down to earth collection of new and classic folk tunes for kids.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,160 likes - 70 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,174 likes - 70 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 36 | [Kind Words](https://open.spotify.com/track/7wDBk2wRzyJsx97QVbeVCq) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Sing Through the Year \- A Little Wild Childhood](https://open.spotify.com/album/5o4FHVHGV736Qz4O9W7LUp) | 4:03 |
 | 37 | [The Crawdad Song](https://open.spotify.com/track/4iqH98UJzbmo9CnrjTxBSJ) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Songs for Little Pickers](https://open.spotify.com/album/0Eyu2WvgKzBzggj2PRumrc) | 2:31 |
 | 38 | [Jellyman Kelly](https://open.spotify.com/track/1njKyn7dVZiZ7vVU4IA6gA) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P), [The Sesame Street Kids](https://open.spotify.com/artist/6kGYHssc98t3PPOiwFlb4G) | [Sesame Street: Songs From The Street, Vol\. 2](https://open.spotify.com/album/1bIKI6ajT4EeP9249GhTI1) | 2:00 |
-| 39 | [Home on the Range](https://open.spotify.com/track/1MAXtir2OgyGQKfQAxDK6c) | [Roy Rogers](https://open.spotify.com/artist/7Fhopp9XWiqrS7oMw0BKjM) | [Presenting Roy Rogers](https://open.spotify.com/album/6Ev7K0Zabn9e8uzx33ALJm) | 2:35 |
-| 40 | [Free To Be...You And Me](https://open.spotify.com/track/2bPcvz0qVLImBAQQwJCEKb) | [The New Seekers](https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn) | [Free To Be...You And Me](https://open.spotify.com/album/4IKOXQvJjYwPZBYSQg8gKF) | 3:14 |
+| 39 | [Free To Be...You And Me](https://open.spotify.com/track/2bPcvz0qVLImBAQQwJCEKb) | [The New Seekers](https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn) | [Free To Be...You And Me](https://open.spotify.com/album/4IKOXQvJjYwPZBYSQg8gKF) | 3:14 |
+| 40 | [Home on the Range](https://open.spotify.com/track/1MAXtir2OgyGQKfQAxDK6c) | [Roy Rogers](https://open.spotify.com/artist/7Fhopp9XWiqrS7oMw0BKjM) | [Presenting Roy Rogers](https://open.spotify.com/album/6Ev7K0Zabn9e8uzx33ALJm) | 2:35 |
 | 41 | [Big Rock Candy Mountain](https://open.spotify.com/track/3xZ0xSnBXCCnhANkmbg4YT) | [Maggie Griffin](https://open.spotify.com/artist/5TWIJoMCdZwMwGfBu3itIi) | [Country for Kids Volume 1 : I Like Folk Songs](https://open.spotify.com/album/6DTys0pk985arZ3te1NsBM) | 1:25 |
 | 42 | [Bought Me a Cat](https://open.spotify.com/track/3SbOjVO4kaVgh3JxGaTMaB) | [Susie Tallman](https://open.spotify.com/artist/3Sz0QcctlhJ47VT4T6Jlm7) | [Animal Songs](https://open.spotify.com/album/0wjCa0rFSpQXadjEK2MIjs) | 2:36 |
 | 43 | [Hope Machine](https://open.spotify.com/track/6Z3N8VNcj4z6xIgMmdMZ0l) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Songs for Singin'](https://open.spotify.com/album/7x0JXg0yHlaPhLAyq87aLO) | 2:48 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 67 | [Good Day](https://open.spotify.com/track/4JKmixZkyW8l3Ua6dFzS51) | [The Zing Zangs](https://open.spotify.com/artist/2SWcpBbgCZbpKV3FtGafez) | [Good Day](https://open.spotify.com/album/6XDLhJRyyQN3ZLfmex2J7o) | 3:19 |
 | 68 | [Matter of Fact](https://open.spotify.com/track/24QRXHKVA6rWIxHZqU8rX9) | [Elliott Park](https://open.spotify.com/artist/6iz85IUQbVWxKzemxy4u16) | [The Mouth](https://open.spotify.com/album/4KZHTM0tObhCZPckxqb4hA) | 2:24 |
 | 69 | [Cloud Watching \(Sky's the Limit\)](https://open.spotify.com/track/66GZrUvch1MIDHrfQfIFSw) | [Tiptoe Giants](https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR) | [Colour the World](https://open.spotify.com/album/56M2NxnFNjYbFC5NTiHPmb) | 3:15 |
-| 70 | [Follow the Drinkin' Gourd](https://open.spotify.com/track/5qRrrhYkzHAjF5XRlmGGzT) | [Fox and Branch](https://open.spotify.com/artist/5FI0PNabN2h4i206dKqFRI) | [Did You Hear That?](https://open.spotify.com/album/0dIRGuMAPwJP9ZAXeLtvOG) | 4:28 |
+| 70 | [Chickadee](https://open.spotify.com/track/5mNprCau1UgykTPIZqVojF) | [Pete Moss](https://open.spotify.com/artist/6YvISV7SjqD7n57pJTEfqX) | [Chickadee](https://open.spotify.com/album/3cGyGZu63TQkWt9MXZetw1) | 1:57 |
 
-Snapshot ID: `MCwyZmFhY2U3MmM4NzRiODhjNDRkZDQ0ZmIwYmJiNTYyM2RlYTAxMGY0`
+Snapshot ID: `MCw3MmJmYTlkOTMwYjBhN2FkY2UxMjdiMjllMmZlZjVmZDVjY2U0NzMz`

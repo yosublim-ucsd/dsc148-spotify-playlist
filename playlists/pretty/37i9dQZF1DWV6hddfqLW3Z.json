@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 793324,
+  "num_followers": 793446,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTM1ZmZhMWFlMzgxODU1Mzc5ODhhMDAyOWUzMzI5OGUyNjFiNjU2",
+  "snapshot_id": "MCxjYjI2M2U1MjQ3YTZmZDFlNWUxNTRhMDc5NjcyYTMzMDkyYTkyMTEz",
   "tracks": [
     {
       "added_at": "2023-11-24 15:08:43",
@@ -711,26 +711,6 @@
     {
       "added_at": "2023-11-24 15:08:43",
       "album": {
-        "name": "Meus Caros Amigos",
-        "url": "https://open.spotify.com/album/2LxncTIR5lf2dzoZb3QNC6"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        },
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        }
-      ],
-      "duration_ms": 166573,
-      "name": "O Que Ser\u00e1 (A Flor Da Terra)",
-      "url": "https://open.spotify.com/track/0rfbvwLPBLBsEd4Bxz8IVb"
-    },
-    {
-      "added_at": "2023-11-24 15:08:43",
-      "album": {
         "name": "Apesar de Querer",
         "url": "https://open.spotify.com/album/0ErKcgeiea7yFFpyBvXIpb"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 244000,
       "name": "Apesar de Querer",
       "url": "https://open.spotify.com/track/6MbwzsouKfv44jkE6eA4j9"
+    },
+    {
+      "added_at": "2023-11-24 15:08:43",
+      "album": {
+        "name": "Meus Caros Amigos",
+        "url": "https://open.spotify.com/album/2LxncTIR5lf2dzoZb3QNC6"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        },
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        }
+      ],
+      "duration_ms": 166573,
+      "name": "O Que Ser\u00e1 (A Flor Da Terra)",
+      "url": "https://open.spotify.com/track/0rfbvwLPBLBsEd4Bxz8IVb"
     },
     {
       "added_at": "2023-11-24 15:08:43",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-11-24 15:08:43",
       "album": {
+        "name": "Ac\u00fastico - Ao Vivo",
+        "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
+      },
+      "artists": [
+        {
+          "name": "Raimundos",
+          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
+        }
+      ],
+      "duration_ms": 219728,
+      "name": "Lugar Ao Sol - Ao Vivo | Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4G7J6r92RH3aRlTEJQER8A"
+    },
+    {
+      "added_at": "2023-11-24 15:08:43",
+      "album": {
         "name": "Pra Melhorar",
         "url": "https://open.spotify.com/album/0QH2rS1adlxbwHBWxemfhv"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 256613,
       "name": "Pra Melhorar",
       "url": "https://open.spotify.com/track/4dpYvcQoSnOhQl1YZBA8ho"
-    },
-    {
-      "added_at": "2023-11-24 15:08:43",
-      "album": {
-        "name": "Ac\u00fastico - Ao Vivo",
-        "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
-      },
-      "artists": [
-        {
-          "name": "Raimundos",
-          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
-        }
-      ],
-      "duration_ms": 219728,
-      "name": "Lugar Ao Sol - Ao Vivo | Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4G7J6r92RH3aRlTEJQER8A"
     },
     {
       "added_at": "2023-11-24 15:08:43",
@@ -875,26 +875,6 @@
     {
       "added_at": "2023-11-24 15:08:43",
       "album": {
-        "name": "Preciso Dizer Que Te Amo",
-        "url": "https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 233990,
-      "name": "Preciso Dizer Que Te Amo",
-      "url": "https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa"
-    },
-    {
-      "added_at": "2023-11-24 15:08:43",
-      "album": {
         "name": "Rita Lee",
         "url": "https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 310760,
       "name": "Lan\u00e7a Perfume",
       "url": "https://open.spotify.com/track/3cijWAljXxxJDco4N2aLQl"
+    },
+    {
+      "added_at": "2023-11-24 15:08:43",
+      "album": {
+        "name": "Preciso Dizer Que Te Amo",
+        "url": "https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 233990,
+      "name": "Preciso Dizer Que Te Amo",
+      "url": "https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa"
     },
     {
       "added_at": "2023-11-24 15:08:43",

@@ -1,12 +1,12 @@
 {
   "description": "Faith without work[out]s is dead.  Get your beast mode on!",
-  "num_followers": 202192,
+  "num_followers": 202428,
   "original_name": "Beast Mode Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTY1NDUzN2ViZWRhZjg4MjU5N2VkYzM0YzQyZjQyNTk3ZjA4NzI4",
+  "snapshot_id": "MCxmYjJlMDRlZDY0NDRkZDI2YTY4ODNhZjUwNDUzMWE4ZjQ0NWU4ZTYz",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "STEPPIN in the LIGHT",
-        "url": "https://open.spotify.com/album/5PmSxoI4vbgq6hWz0EWV5I"
-      },
-      "artists": [
-        {
-          "name": "Wande",
-          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
-        }
-      ],
-      "duration_ms": 166200,
-      "name": "IN THE LIGHT",
-      "url": "https://open.spotify.com/track/5GRJci91Qsc14761s6f4Nv"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Heaven Bound",
         "url": "https://open.spotify.com/album/3tGembZgInQMBhCEROWTuj"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 130173,
       "name": "Heaven Bound",
       "url": "https://open.spotify.com/track/3GTeDNluIT844Wy0nP3UR2"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "STEPPIN in the LIGHT",
+        "url": "https://open.spotify.com/album/5PmSxoI4vbgq6hWz0EWV5I"
+      },
+      "artists": [
+        {
+          "name": "Wande",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "IN THE LIGHT",
+      "url": "https://open.spotify.com/track/5GRJci91Qsc14761s6f4Nv"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "JUDAS",
-        "url": "https://open.spotify.com/album/7CbMcteFecyHS9pclma7sE"
-      },
-      "artists": [
-        {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 100587,
-      "name": "ICE COLD",
-      "url": "https://open.spotify.com/track/6Msy1aF3AU9pBRTAoGT9vK"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "No Days Off",
         "url": "https://open.spotify.com/album/56R23o2t9HV9BwE6xE2NVj"
       },
@@ -939,18 +923,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "I: The Arrow",
-        "url": "https://open.spotify.com/album/4sKgdSpmHk1Tth5QnMlKLo"
+        "name": "JUDAS",
+        "url": "https://open.spotify.com/album/7CbMcteFecyHS9pclma7sE"
       },
       "artists": [
         {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
         }
       ],
-      "duration_ms": 215060,
-      "name": "I Ain't Done",
-      "url": "https://open.spotify.com/track/4mKyB23qqYwpatX1VAVCUz"
+      "duration_ms": 100587,
+      "name": "ICE COLD",
+      "url": "https://open.spotify.com/track/6Msy1aF3AU9pBRTAoGT9vK"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -971,6 +955,22 @@
       "duration_ms": 266255,
       "name": "Back Then",
       "url": "https://open.spotify.com/track/4vSOPcWRHOxoXHfHZTUVLi"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "I: The Arrow",
+        "url": "https://open.spotify.com/album/4sKgdSpmHk1Tth5QnMlKLo"
+      },
+      "artists": [
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        }
+      ],
+      "duration_ms": 215060,
+      "name": "I Ain't Done",
+      "url": "https://open.spotify.com/track/4mKyB23qqYwpatX1VAVCUz"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1227,30 +1227,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Light Work 3",
-        "url": "https://open.spotify.com/album/1GAKDN8I6VKl8NX7LoTyEw"
-      },
-      "artists": [
-        {
-          "name": "Bizzle",
-          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
-        },
-        {
-          "name": "Miles Minnick",
-          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
-        },
-        {
-          "name": "Fatman Scoop",
-          "url": "https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6"
-        }
-      ],
-      "duration_ms": 175841,
-      "name": "No L's",
-      "url": "https://open.spotify.com/track/2xdQYPj4o0aov4GWrK4fig"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Allegiance",
         "url": "https://open.spotify.com/album/2RYPVb167Pkejxj1HQustH"
       },
@@ -1271,6 +1247,30 @@
       "duration_ms": 183043,
       "name": "Allegiance",
       "url": "https://open.spotify.com/track/2qHMpLZhcLTvD9YqHHWGOV"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Light Work 3",
+        "url": "https://open.spotify.com/album/1GAKDN8I6VKl8NX7LoTyEw"
+      },
+      "artists": [
+        {
+          "name": "Bizzle",
+          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
+        },
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        },
+        {
+          "name": "Fatman Scoop",
+          "url": "https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6"
+        }
+      ],
+      "duration_ms": 175841,
+      "name": "No L's",
+      "url": "https://open.spotify.com/track/2xdQYPj4o0aov4GWrK4fig"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1335,38 +1335,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Club Eden",
-        "url": "https://open.spotify.com/album/2MEwAldfLhuqijyIDgSuy6"
-      },
-      "artists": [
-        {
-          "name": "Andrez Babii",
-          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
-        }
-      ],
-      "duration_ms": 145116,
-      "name": "Club Eden",
-      "url": "https://open.spotify.com/track/0Ql8JLIRWcwydT9zaGUSmZ"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Legendary",
-        "url": "https://open.spotify.com/album/3k3jLvON0A6tUcrwFYq7X8"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 129843,
-      "name": "Legendary",
-      "url": "https://open.spotify.com/track/7jBZrY5Em6uhlNIrS8tazh"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "L.H.U.Y (LET HIM USE YA)",
         "url": "https://open.spotify.com/album/6g6qBfEOlmHFEE2hVJgDfy"
       },
@@ -1379,6 +1347,22 @@
       "duration_ms": 201978,
       "name": "L.H.U.Y (LET HIM USE YA)",
       "url": "https://open.spotify.com/track/2LMXLQAQZcQehXHApaNrIW"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Club Eden",
+        "url": "https://open.spotify.com/album/2MEwAldfLhuqijyIDgSuy6"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "duration_ms": 145116,
+      "name": "Club Eden",
+      "url": "https://open.spotify.com/track/0Ql8JLIRWcwydT9zaGUSmZ"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1399,6 +1383,22 @@
       "duration_ms": 231600,
       "name": "Do It Anyway (feat. Kadence)",
       "url": "https://open.spotify.com/track/25L031n0unw4IKDjabQuwN"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Legendary",
+        "url": "https://open.spotify.com/album/3k3jLvON0A6tUcrwFYq7X8"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 129843,
+      "name": "Legendary",
+      "url": "https://open.spotify.com/track/7jBZrY5Em6uhlNIrS8tazh"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Play!",
+        "url": "https://open.spotify.com/album/376W7E1CjMqgBrYZK5GTuM"
+      },
+      "artists": [
+        {
+          "name": "PEABOD",
+          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
+        }
+      ],
+      "duration_ms": 195045,
+      "name": "Press Play",
+      "url": "https://open.spotify.com/track/3DNuA9Bm2EJCHjK2LbPcK2"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/4aOCSAYlQdAGDnvhOQTkjo"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 187648,
       "name": "Higher",
       "url": "https://open.spotify.com/track/10g3Hp8RheTQqJMrfyNgf1"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Play!",
-        "url": "https://open.spotify.com/album/376W7E1CjMqgBrYZK5GTuM"
-      },
-      "artists": [
-        {
-          "name": "PEABOD",
-          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
-        }
-      ],
-      "duration_ms": 195045,
-      "name": "Press Play",
-      "url": "https://open.spotify.com/track/3DNuA9Bm2EJCHjK2LbPcK2"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1711,26 +1711,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Hit On That Switch",
-        "url": "https://open.spotify.com/album/1nMs1PpWOxZzMlNfdXx6WS"
-      },
-      "artists": [
-        {
-          "name": "George.Rose",
-          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
-        },
-        {
-          "name": "350",
-          "url": "https://open.spotify.com/artist/5vMLy7gB9xJViLVo5HCmye"
-        }
-      ],
-      "duration_ms": 143963,
-      "name": "Hit On That Switch",
-      "url": "https://open.spotify.com/track/5LvtYS4qLebDl5kgv6m6SE"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/2hgLM7tz6g8wNk3I5SPj8U"
       },
@@ -1767,6 +1747,26 @@
       "duration_ms": 183000,
       "name": "Banner",
       "url": "https://open.spotify.com/track/5BsRhIu9ozSIzYcAcUL6gu"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Hit On That Switch",
+        "url": "https://open.spotify.com/album/1nMs1PpWOxZzMlNfdXx6WS"
+      },
+      "artists": [
+        {
+          "name": "George.Rose",
+          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
+        },
+        {
+          "name": "350",
+          "url": "https://open.spotify.com/artist/5vMLy7gB9xJViLVo5HCmye"
+        }
+      ],
+      "duration_ms": 143963,
+      "name": "Hit On That Switch",
+      "url": "https://open.spotify.com/track/5LvtYS4qLebDl5kgv6m6SE"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Ficky Ficky",
-        "url": "https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 104147,
-      "name": "Ficky Ficky",
-      "url": "https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Blessed Mode",
         "url": "https://open.spotify.com/album/15x3jykJeOXdE43DommQlB"
       },
@@ -1907,6 +1891,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Ficky Ficky",
+        "url": "https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 104147,
+      "name": "Ficky Ficky",
+      "url": "https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Cinematic Songs (Vol. 8)",
         "url": "https://open.spotify.com/album/2zl3L4ks7mWHd4J6MZRkeG"
       },
@@ -1927,6 +1927,22 @@
       "duration_ms": 159473,
       "name": "Little Fight Left",
       "url": "https://open.spotify.com/track/0VsNEfYvAYu9sOMSl8flFA"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "CLOSURE",
+        "url": "https://open.spotify.com/album/7aBAan5AABO6nYxPZW7bE8"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 112250,
+      "name": "CLOSURE",
+      "url": "https://open.spotify.com/track/4Uxe13LHaaqzRLglIccaSW"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1991,22 +2007,6 @@
       "duration_ms": 285531,
       "name": "Never Leave Me",
       "url": "https://open.spotify.com/track/750IEpoifcy2HeUbZdBtuM"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "CLOSURE",
-        "url": "https://open.spotify.com/album/7aBAan5AABO6nYxPZW7bE8"
-      },
-      "artists": [
-        {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 112250,
-      "name": "CLOSURE",
-      "url": "https://open.spotify.com/track/4Uxe13LHaaqzRLglIccaSW"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Durag Tech",
-        "url": "https://open.spotify.com/album/3t8yOw7akcDVXMa5LCRQaY"
-      },
-      "artists": [
-        {
-          "name": "MvkeyyJ",
-          "url": "https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB"
-        }
-      ],
-      "duration_ms": 140122,
-      "name": "Tough Love",
-      "url": "https://open.spotify.com/track/63N6oeVUu4RehqpPutwwcC"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "High Speed",
         "url": "https://open.spotify.com/album/4X7CoVsFNaEb8eBgPfWLCG"
       },
@@ -2243,6 +2227,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Durag Tech",
+        "url": "https://open.spotify.com/album/3t8yOw7akcDVXMa5LCRQaY"
+      },
+      "artists": [
+        {
+          "name": "MvkeyyJ",
+          "url": "https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB"
+        }
+      ],
+      "duration_ms": 140122,
+      "name": "Tough Love",
+      "url": "https://open.spotify.com/track/63N6oeVUu4RehqpPutwwcC"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/4jb9mnHKLY4YtTXPvT3ILL"
       },
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "ON THA SEAT",
-        "url": "https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk"
-      },
-      "artists": [
-        {
-          "name": "adriansings",
-          "url": "https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW"
-        }
-      ],
-      "duration_ms": 207068,
-      "name": "ON THA SEAT",
-      "url": "https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Second Wind",
         "url": "https://open.spotify.com/album/6PW0HnPuoe3xRde483kbAr"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 180501,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/5aYxzXhFNBdznGlzdEGg8z"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "ON THA SEAT",
+        "url": "https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk"
+      },
+      "artists": [
+        {
+          "name": "adriansings",
+          "url": "https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW"
+        }
+      ],
+      "duration_ms": 207068,
+      "name": "ON THA SEAT",
+      "url": "https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2547,26 +2547,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "bounce back.",
-        "url": "https://open.spotify.com/album/748L8OCoABosEZF41AzgtM"
-      },
-      "artists": [
-        {
-          "name": "Wes Harris",
-          "url": "https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2"
-        },
-        {
-          "name": "Sarah Nathali\u00e9",
-          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "bounce back.",
-      "url": "https://open.spotify.com/track/4tNgJIUHrkkHt6iFESuJRi"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Underdogs",
         "url": "https://open.spotify.com/album/79zwjuwYBzmNCb02pzfqU6"
       },
@@ -2583,6 +2563,26 @@
       "duration_ms": 197064,
       "name": "Underdogs",
       "url": "https://open.spotify.com/track/218cnoqyQzKOxxwG3H9XAO"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "bounce back.",
+        "url": "https://open.spotify.com/album/748L8OCoABosEZF41AzgtM"
+      },
+      "artists": [
+        {
+          "name": "Wes Harris",
+          "url": "https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2"
+        },
+        {
+          "name": "Sarah Nathali\u00e9",
+          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "bounce back.",
+      "url": "https://open.spotify.com/track/4tNgJIUHrkkHt6iFESuJRi"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2743,42 +2743,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "SIX THIRTY",
-        "url": "https://open.spotify.com/album/5k2sZKtwSVb27QYXRQDeEV"
-      },
-      "artists": [
-        {
-          "name": "Sean C. Johnson",
-          "url": "https://open.spotify.com/artist/6jwSgdzEmAv7K0c4G8kq1H"
-        }
-      ],
-      "duration_ms": 222375,
-      "name": "SIX THIRTY",
-      "url": "https://open.spotify.com/track/0LOVP9ay38uMVpyO0rSo3w"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "First Of Many",
-        "url": "https://open.spotify.com/album/06seLeQW3q3EqYArVAgTfn"
-      },
-      "artists": [
-        {
-          "name": "Shepherd",
-          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
-        },
-        {
-          "name": "George.Rose",
-          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
-        }
-      ],
-      "duration_ms": 139841,
-      "name": "First Of Many",
-      "url": "https://open.spotify.com/track/0mjP2ndK2r5JtQuE0PNOhd"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "His Side",
         "url": "https://open.spotify.com/album/36zM9eHQoog3Q6heEKS8oM"
       },
@@ -2819,18 +2783,38 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Bend The Whip",
-        "url": "https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB"
+        "name": "First Of Many",
+        "url": "https://open.spotify.com/album/06seLeQW3q3EqYArVAgTfn"
       },
       "artists": [
         {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+          "name": "Shepherd",
+          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
+        },
+        {
+          "name": "George.Rose",
+          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
         }
       ],
-      "duration_ms": 163902,
-      "name": "Bend The Whip",
-      "url": "https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh"
+      "duration_ms": 139841,
+      "name": "First Of Many",
+      "url": "https://open.spotify.com/track/0mjP2ndK2r5JtQuE0PNOhd"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "SIX THIRTY",
+        "url": "https://open.spotify.com/album/5k2sZKtwSVb27QYXRQDeEV"
+      },
+      "artists": [
+        {
+          "name": "Sean C. Johnson",
+          "url": "https://open.spotify.com/artist/6jwSgdzEmAv7K0c4G8kq1H"
+        }
+      ],
+      "duration_ms": 222375,
+      "name": "SIX THIRTY",
+      "url": "https://open.spotify.com/track/0LOVP9ay38uMVpyO0rSo3w"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2847,6 +2831,22 @@
       "duration_ms": 153750,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/3jdw64pKdS37TuckuxXUmX"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Bend The Whip",
+        "url": "https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB"
+      },
+      "artists": [
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "Bend The Whip",
+      "url": "https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh"
     },
     {
       "added_at": "2023-12-15 05:00:00",

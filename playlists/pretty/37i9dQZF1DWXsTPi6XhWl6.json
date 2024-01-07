@@ -1,12 +1,12 @@
 {
   "description": "Brighten your morning with these indie, folk and acoustic sounds.",
-  "num_followers": 33777,
+  "num_followers": 33774,
   "original_name": "Wide Awake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzhlMWMyMTk4ODA0M2QwN2M4ZGUwZDBlY2RiYzdlNzFjNGM4Y2Rm",
+  "snapshot_id": "MCwzNmJjZTIxYzViODg0NzZjMWJiYzUyMWNhZTA2YjlhNWJiYzllNzg0",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -255,6 +255,22 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
+        "name": "Up From Below - 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/2nqKKUI6G3YGYNyjqBxjmd"
+      },
+      "artists": [
+        {
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+        }
+      ],
+      "duration_ms": 232690,
+      "name": "40 Day Dream (2019 Remaster)",
+      "url": "https://open.spotify.com/track/6qSViwr8Z1ERkL2ZVun3VY"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
         "name": "Fleet Foxes",
         "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 173280,
       "name": "House Of My Soul (You Light The Rooms)",
       "url": "https://open.spotify.com/track/7JA24QmrS7YbSRuyU2E8LV"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Up From Below - 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/2nqKKUI6G3YGYNyjqBxjmd"
-      },
-      "artists": [
-        {
-          "name": "Edward Sharpe & The Magnetic Zeros",
-          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
-        }
-      ],
-      "duration_ms": 232690,
-      "name": "40 Day Dream (2019 Remaster)",
-      "url": "https://open.spotify.com/track/6qSViwr8Z1ERkL2ZVun3VY"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -431,6 +431,22 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
+        "name": "Tripper",
+        "url": "https://open.spotify.com/album/1T3Cs0BLSZbyk0G62lvPtD"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 226120,
+      "name": "You're Too Weird",
+      "url": "https://open.spotify.com/track/5UcAW3tygU6dN6YTGhVYvS"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
         "name": "The Way We Move",
         "url": "https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 168760,
       "name": "The Way We Move",
       "url": "https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Tripper",
-        "url": "https://open.spotify.com/album/1T3Cs0BLSZbyk0G62lvPtD"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 226120,
-      "name": "You're Too Weird",
-      "url": "https://open.spotify.com/track/5UcAW3tygU6dN6YTGhVYvS"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Cease To Begin",
-        "url": "https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ"
-      },
-      "artists": [
-        {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
-        }
-      ],
-      "duration_ms": 187053,
-      "name": "The General Specific",
-      "url": "https://open.spotify.com/track/7kDhGzc1hgkQQyzpvBmKcX"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "The Carpenter",
         "url": "https://open.spotify.com/album/4RclFqtNPoThUz7327xFbD"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 271186,
       "name": "Live And Die",
       "url": "https://open.spotify.com/track/19n9s9SfnLtwPEODqk8KCT"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Cease To Begin",
+        "url": "https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 187053,
+      "name": "The General Specific",
+      "url": "https://open.spotify.com/track/7kDhGzc1hgkQQyzpvBmKcX"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -807,18 +807,18 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Can't Wake Up",
-        "url": "https://open.spotify.com/album/2Wfr01LIuo5Uy5Es51Q8b5"
+        "name": "Junip",
+        "url": "https://open.spotify.com/album/4fsnz213jt84aF3obRP8jO"
       },
       "artists": [
         {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+          "name": "Junip",
+          "url": "https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW"
         }
       ],
-      "duration_ms": 270135,
-      "name": "Mansion Door",
-      "url": "https://open.spotify.com/track/0IREGCigdEmhoBup3ffrPb"
+      "duration_ms": 339293,
+      "name": "Line Of Fire",
+      "url": "https://open.spotify.com/track/1t6zwEOPQUz9QIjlwZ5UGF"
     }
   ],
   "unique_name": "Wide Awake",

@@ -1,12 +1,12 @@
 {
   "description": "Indie pop when ur crushing",
-  "num_followers": 522945,
+  "num_followers": 523064,
   "original_name": "text me back",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Mzc2MTExYjAyZmZiZDU1N2FiMzk1ZmNiMWU1N2E2YWRiNTgxNTMy",
+  "snapshot_id": "MCxjMTY2MTA4OThiOTMzZjM2ZTI4MWZiYjEzMjMxMWUzZjY4Yzk5NmI2",
   "tracks": [
     {
       "added_at": "2023-09-29 20:24:12",
@@ -228,7 +228,7 @@
       },
       "artists": [
         {
-          "name": "dhruv",
+          "name": "Dhruv",
           "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
         }
       ],
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-09-29 20:24:12",
       "album": {
+        "name": "Show Me How",
+        "url": "https://open.spotify.com/album/7mUYDBqNiddmKxuKrnBEKQ"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 215110,
+      "name": "Show Me How",
+      "url": "https://open.spotify.com/track/75IQVo8hqI1iwVZyvkN2VT"
+    },
+    {
+      "added_at": "2023-09-29 20:24:12",
+      "album": {
         "name": "Honeymoon",
         "url": "https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 210285,
       "name": "Chanel",
       "url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh"
-    },
-    {
-      "added_at": "2023-09-29 20:24:12",
-      "album": {
-        "name": "Show Me How",
-        "url": "https://open.spotify.com/album/7mUYDBqNiddmKxuKrnBEKQ"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 215110,
-      "name": "Show Me How",
-      "url": "https://open.spotify.com/track/75IQVo8hqI1iwVZyvkN2VT"
     },
     {
       "added_at": "2023-09-29 20:24:12",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-09-29 20:24:12",
       "album": {
-        "name": "Pleaser",
-        "url": "https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 187895,
-      "name": "Pleaser",
-      "url": "https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1"
-    },
-    {
-      "added_at": "2023-09-29 20:24:12",
-      "album": {
         "name": "Kid Krow",
         "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 174680,
       "name": "Comfort Crowd",
       "url": "https://open.spotify.com/track/6uaBrivDHCaV0uBTiwHTUi"
+    },
+    {
+      "added_at": "2023-09-29 20:24:12",
+      "album": {
+        "name": "Pleaser",
+        "url": "https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 187895,
+      "name": "Pleaser",
+      "url": "https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1"
     },
     {
       "added_at": "2023-09-29 20:24:12",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-09-29 20:24:12",
       "album": {
-        "name": "Chiquito",
-        "url": "https://open.spotify.com/album/4gjhrTin1WwrEHd8GslZ7O"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 207692,
-      "name": "Dontmakemefallinlove",
-      "url": "https://open.spotify.com/track/4Ooq4tmYpe3nZP1BnCtsWM"
-    },
-    {
-      "added_at": "2023-09-29 20:24:12",
-      "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 232796,
       "name": "Casual",
       "url": "https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX"
+    },
+    {
+      "added_at": "2023-09-29 20:24:12",
+      "album": {
+        "name": "Chiquito",
+        "url": "https://open.spotify.com/album/4gjhrTin1WwrEHd8GslZ7O"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 207692,
+      "name": "Dontmakemefallinlove",
+      "url": "https://open.spotify.com/track/4Ooq4tmYpe3nZP1BnCtsWM"
     },
     {
       "added_at": "2023-09-29 20:24:12",

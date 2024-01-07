@@ -1,12 +1,12 @@
 {
   "description": "your daily dose of dopamine ",
-  "num_followers": 1105145,
+  "num_followers": 1105523,
   "original_name": "DOPAMINE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2YxMGJiNmRiMGE4ZmY4YThkOWQ3YWYyNjdmZTAyNWQ5YzRkMjJm",
+  "snapshot_id": "MCxlMDg0NDE3MTdiZDZjNGVhNjJjMTQ1ZjlmNmRkYzc3Zjc1YzMxYzA3",
   "tracks": [
     {
       "added_at": "2023-10-27 04:01:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "Abbey Road (Remastered)",
         "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 185733,
       "name": "Here Comes The Sun - Remastered 2009",
       "url": "https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -547,22 +547,18 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Twelve Carat Toothache",
-        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
+        "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
         }
       ],
-      "duration_ms": 192840,
-      "name": "I Like You (A Happier Song) (with Doja Cat)",
-      "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
+      "duration_ms": 192789,
+      "name": "Safe And Sound",
+      "url": "https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -583,18 +579,22 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
+        "name": "Twelve Carat Toothache",
+        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
       },
       "artists": [
         {
-          "name": "Capital Cities",
-          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 192789,
-      "name": "Safe And Sound",
-      "url": "https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb"
+      "duration_ms": 192840,
+      "name": "I Like You (A Happier Song) (with Doja Cat)",
+      "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
-      },
-      "artists": [
-        {
-          "name": "B\u00d8RNS",
-          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
-        }
-      ],
-      "duration_ms": 218106,
-      "name": "Electric Love",
-      "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "MKTO",
         "url": "https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 175426,
       "name": "Classic",
       "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
+      },
+      "artists": [
+        {
+          "name": "B\u00d8RNS",
+          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
+        }
+      ],
+      "duration_ms": 218106,
+      "name": "Electric Love",
+      "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Offering",
-        "url": "https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG"
-      },
-      "artists": [
-        {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
-        }
-      ],
-      "duration_ms": 212736,
-      "name": "Gilded Lily",
-      "url": "https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "Corinne Bailey Rae",
         "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 234215,
       "name": "3005",
       "url": "https://open.spotify.com/track/5cc9Zbfp9u10sfJeKZ3h16"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Offering",
+        "url": "https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "duration_ms": 212736,
+      "name": "Gilded Lily",
+      "url": "https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "What Do You Think About the Car?",
-        "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
-      },
-      "artists": [
-        {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
-        }
-      ],
-      "duration_ms": 252306,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "Never Trust a Happy Song",
         "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 218013,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "What Do You Think About the Car?",
+        "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 252306,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Hell N Back",
-        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "Ocean Eyes",
         "url": "https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 228346,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     }
   ],
   "unique_name": "DOPAMINE",

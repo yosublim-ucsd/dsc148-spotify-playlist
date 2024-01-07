@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,662 likes - 60 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,680 likes - 60 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 21 | [Chapinero](https://open.spotify.com/track/0sdzZh61bpEFsBSDQ5G8GA) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP) | [Bennu](https://open.spotify.com/album/0BPzY1R6aYUNRZcE2xa1Xf) | 3:42 |
 | 22 | [Pájaro Cenzontle](https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 3:40 |
 | 23 | [Astral](https://open.spotify.com/track/1H6ul0f4lJyhON3QXzoWf4) | [Landikhan](https://open.spotify.com/artist/6kLrAuoxxTyDRY3k9Je0bp), [Niña indigo](https://open.spotify.com/artist/1EdZzDjs8Eur5LonUz59s9) | [Astral](https://open.spotify.com/album/11nP1vIstTbouhN9NoaTmh) | 5:48 |
-| 24 | [Serpiente Dorada](https://open.spotify.com/track/1lAwqRBdQOnGltiX0oNm9I) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Serpiente Dorada](https://open.spotify.com/album/4gmnDvOxEJDjGmGlILKZst) | 3:09 |
-| 25 | [1542](https://open.spotify.com/track/10glJ8ARN1G9ESFF9s00yk) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Xaxoeira](https://open.spotify.com/album/0T1MHuHlxRGyGqZT1KGubi) | 5:47 |
+| 24 | [1542](https://open.spotify.com/track/10glJ8ARN1G9ESFF9s00yk) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Xaxoeira](https://open.spotify.com/album/0T1MHuHlxRGyGqZT1KGubi) | 5:47 |
+| 25 | [Serpiente Dorada](https://open.spotify.com/track/1lAwqRBdQOnGltiX0oNm9I) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Serpiente Dorada](https://open.spotify.com/album/4gmnDvOxEJDjGmGlILKZst) | 3:09 |
 | 26 | [Mojanda \(feat\. Wabi Sabi\)](https://open.spotify.com/track/50oMN7gWP1tRaSSBq2LQCH) | [Joaquín Cornejo](https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx), [Wabi Sabi](https://open.spotify.com/artist/4kpCSlKMJJ2JGnzuqnc3HS) | [Tranquillitas](https://open.spotify.com/album/6yIXqkjfFAwNPEdaZAsO9o) | 6:13 |
 | 27 | [Sakoneta](https://open.spotify.com/track/3nUUBBkEqAYLkdhzCuEWmg) | [Yeahman](https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA) | [Ostriconi](https://open.spotify.com/album/3jLWAXJ3NdQOoagDdia99w) | 4:45 |
 | 28 | [Nevar](https://open.spotify.com/track/2GmDHnAPi9FwVqkC1MYWi6) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Didacte](https://open.spotify.com/artist/4gJkcE85yauN8vUrt8bIFT) | [Ramas](https://open.spotify.com/album/0v8v8HAtfJChO5sdRh5EAx) | 6:40 |
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 38 | [Siete](https://open.spotify.com/track/6H76nYgiuQ1BotX9hUKW6i) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Siku](https://open.spotify.com/album/3Ebykp28PuMSSQfqzkt8DO) | 5:47 |
 | 39 | [Sin Freno](https://open.spotify.com/track/24drvQN3WTdQE2wzR37GAb) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k), [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Astra](https://open.spotify.com/album/4OAUrKQYGBtbThIVRIAVQx) | 5:13 |
 | 40 | [El pavo real](https://open.spotify.com/track/7CscQhRVoHs50YioshIbuQ) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [La Estrella](https://open.spotify.com/album/7quHZhPNAMaxImHsjrOkSr) | 3:28 |
-| 41 | [Presagio](https://open.spotify.com/track/7hVwUppGpBWzfyEvejlYjz) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Shika Shika / Botanas, Vol\. 15](https://open.spotify.com/album/3j77K4QCAKPo65lXnbDBY6) | 4:33 |
-| 42 | [Otun \(feat\. Nidia Gongora\)](https://open.spotify.com/track/6ytRVXrJru5ft3EqQSYsnN) | [Montoya](https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Otun](https://open.spotify.com/album/04o8fTvz7ZcMYVnIx0HAgv) | 3:25 |
-| 43 | [Te Quiero Olvidar](https://open.spotify.com/track/2u1UkcNp5l0NgTGjfl7fmZ) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/360aJ4E4087KXU6ESyvjL3) | 3:22 |
+| 41 | [Te Quiero Olvidar](https://open.spotify.com/track/2u1UkcNp5l0NgTGjfl7fmZ) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/360aJ4E4087KXU6ESyvjL3) | 3:22 |
+| 42 | [Presagio](https://open.spotify.com/track/7hVwUppGpBWzfyEvejlYjz) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Shika Shika / Botanas, Vol\. 15](https://open.spotify.com/album/3j77K4QCAKPo65lXnbDBY6) | 4:33 |
+| 43 | [Otun \(feat\. Nidia Gongora\)](https://open.spotify.com/track/6ytRVXrJru5ft3EqQSYsnN) | [Montoya](https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Otun](https://open.spotify.com/album/04o8fTvz7ZcMYVnIx0HAgv) | 3:25 |
 | 44 | [Búho](https://open.spotify.com/track/15A389LUr9IMkztXv6oFbM) | [Mr\. Bleat](https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb) | [Búho](https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX) | 5:00 |
 | 45 | [Tarpuricusum Sarata \- Captain Planet Remix](https://open.spotify.com/track/2jEuZ0vQ5IVKMcr3KBxpSV) | [Luzmila Carpio](https://open.spotify.com/artist/5nerlXgmkkutK76kjPNjCr), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Luzmila Carpio Remixed \(Luzmila Carpio Meets ZZK\)](https://open.spotify.com/album/42yJe2iKdZ6Le083B0XuZj) | 4:20 |
 | 46 | [Bye Bye](https://open.spotify.com/track/4IfzEViG2rW1mhZrxN45D1) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Bye Bye](https://open.spotify.com/album/2wiDl7atqcgGip0yIZQf2g) | 4:31 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 59 | [Pua](https://open.spotify.com/track/4b3bYGxsCzLnPwQ5CyRlQX) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG), [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU) | [Semillero](https://open.spotify.com/album/4yjnNPa3bH1Vwrepclo6d4) | 5:48 |
 | 60 | [Desierto](https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM) | [Simah](https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L) | [Desierto](https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE) | 2:53 |
 
-Snapshot ID: `MCw5YmEyMDM0MmVjYTQ0ZDc2ZWI5Nzc2Mzc0NTE4NjBlYWY4M2Q2OWY2`
+Snapshot ID: `MCw3ZTQ1NTRjNzk3YTFhMzA4YjQ0Y2M3MTAxOTQ3MDVhZGM4ZmVkMWZh`

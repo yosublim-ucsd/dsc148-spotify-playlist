@@ -1,12 +1,12 @@
 {
   "description": "nothing but bangers to help you with the grind ",
-  "num_followers": 537021,
+  "num_followers": 537054,
   "original_name": "Homework motivation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTBjODVlNTJkNmY2NGY3ZTI0ZTQ0NGZiNGVkZmYxNGMzMDYwMWU5",
+  "snapshot_id": "MCxhYjM4YTM2NGY5MTc5YmMzMTc2MjBiZjE5MWMzMGNjN2YxOThjMjM1",
   "tracks": [
     {
       "added_at": "2024-01-04 03:38:43",
@@ -327,26 +327,6 @@
     {
       "added_at": "2024-01-04 03:38:43",
       "album": {
-        "name": "GODS",
-        "url": "https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 220878,
-      "name": "GODS",
-      "url": "https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g"
-    },
-    {
-      "added_at": "2024-01-04 03:38:43",
-      "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
+    },
+    {
+      "added_at": "2024-01-04 03:38:43",
+      "album": {
+        "name": "GODS",
+        "url": "https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 220878,
+      "name": "GODS",
+      "url": "https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g"
     },
     {
       "added_at": "2024-01-04 03:38:43",
@@ -655,6 +655,34 @@
     {
       "added_at": "2024-01-04 03:38:43",
       "album": {
+        "name": "Deep Down (feat. Never Dull)",
+        "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Ella Eyre",
+          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
+        },
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        },
+        {
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+        }
+      ],
+      "duration_ms": 165752,
+      "name": "Deep Down (feat. Never Dull)",
+      "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
+    },
+    {
+      "added_at": "2024-01-04 03:38:43",
+      "album": {
         "name": "PARANOIA",
         "url": "https://open.spotify.com/album/1RPJNNRo1WUciegpWfioAc"
       },
@@ -687,34 +715,6 @@
       "duration_ms": 198817,
       "name": "PARANOIA",
       "url": "https://open.spotify.com/track/29WxJqIfDRMo9isV07kbJP"
-    },
-    {
-      "added_at": "2024-01-04 03:38:43",
-      "album": {
-        "name": "Deep Down (feat. Never Dull)",
-        "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Ella Eyre",
-          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
-        },
-        {
-          "name": "Kenny Dope",
-          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
-        },
-        {
-          "name": "Never Dull",
-          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
-        }
-      ],
-      "duration_ms": 165752,
-      "name": "Deep Down (feat. Never Dull)",
-      "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
     },
     {
       "added_at": "2024-01-04 03:38:43",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2024-01-04 03:38:43",
       "album": {
-        "name": "The Midsummer Station",
-        "url": "https://open.spotify.com/album/7gTFf2EWBONpjKVjpWbs5p"
-      },
-      "artists": [
-        {
-          "name": "Owl City",
-          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
-        },
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/1kPpge9JDLpcj15qgrPbYX"
-    },
-    {
-      "added_at": "2024-01-04 03:38:43",
-      "album": {
         "name": "Plastic Hearts",
         "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 169333,
       "name": "Prisoner (feat. Dua Lipa)",
       "url": "https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B"
+    },
+    {
+      "added_at": "2024-01-04 03:38:43",
+      "album": {
+        "name": "The Midsummer Station",
+        "url": "https://open.spotify.com/album/7gTFf2EWBONpjKVjpWbs5p"
+      },
+      "artists": [
+        {
+          "name": "Owl City",
+          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
+        },
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/1kPpge9JDLpcj15qgrPbYX"
     },
     {
       "added_at": "2024-01-04 03:38:43",
@@ -1471,6 +1471,26 @@
     {
       "added_at": "2024-01-04 03:38:43",
       "album": {
+        "name": "Levitating (feat. DaBaby)",
+        "url": "https://open.spotify.com/album/04m06KhJUuwe1Q487puIud"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 203064,
+      "name": "Levitating (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
+    },
+    {
+      "added_at": "2024-01-04 03:38:43",
+      "album": {
         "name": "Heartbroken (feat. Jessie Murph & Polo G)",
         "url": "https://open.spotify.com/album/4cfA6cGpQSXr8jMMxfnNaS"
       },
@@ -1495,42 +1515,6 @@
     {
       "added_at": "2024-01-04 03:38:43",
       "album": {
-        "name": "Levitating (feat. DaBaby)",
-        "url": "https://open.spotify.com/album/04m06KhJUuwe1Q487puIud"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 203064,
-      "name": "Levitating (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
-    },
-    {
-      "added_at": "2024-01-04 03:38:43",
-      "album": {
-        "name": "SUPERMODEL",
-        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 148064,
-      "name": "SUPERMODEL",
-      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
-    },
-    {
-      "added_at": "2024-01-04 03:38:43",
-      "album": {
         "name": "BED",
         "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 178087,
       "name": "BED",
       "url": "https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"
+    },
+    {
+      "added_at": "2024-01-04 03:38:43",
+      "album": {
+        "name": "SUPERMODEL",
+        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
     },
     {
       "added_at": "2024-01-04 03:38:43",
@@ -1615,6 +1615,26 @@
     {
       "added_at": "2024-01-04 03:38:43",
       "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/0lY3tmonYCBxbviBSKczIX"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "duration_ms": 164693,
+      "name": "Praising You (feat. Fatboy Slim)",
+      "url": "https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD"
+    },
+    {
+      "added_at": "2024-01-04 03:38:43",
+      "album": {
         "name": "UN DIA (ONE DAY) (Feat. Tainy)",
         "url": "https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr"
       },
@@ -1639,26 +1659,6 @@
       "duration_ms": 232253,
       "name": "UN DIA (ONE DAY) (Feat. Tainy)",
       "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
-    },
-    {
-      "added_at": "2024-01-04 03:38:43",
-      "album": {
-        "name": "You & I",
-        "url": "https://open.spotify.com/album/0lY3tmonYCBxbviBSKczIX"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        },
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        }
-      ],
-      "duration_ms": 164693,
-      "name": "Praising You (feat. Fatboy Slim)",
-      "url": "https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD"
     },
     {
       "added_at": "2024-01-04 03:38:43",
@@ -1951,6 +1951,22 @@
     {
       "added_at": "2024-01-04 03:38:43",
       "album": {
+        "name": "Never Really Over",
+        "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 223523,
+      "name": "Never Really Over",
+      "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
+    },
+    {
+      "added_at": "2024-01-04 03:38:43",
+      "album": {
         "name": "Lottery (feat. LU KALA)",
         "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
       },
@@ -1967,22 +1983,6 @@
       "duration_ms": 186761,
       "name": "Lottery (feat. LU KALA)",
       "url": "https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir"
-    },
-    {
-      "added_at": "2024-01-04 03:38:43",
-      "album": {
-        "name": "Never Really Over",
-        "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 223523,
-      "name": "Never Really Over",
-      "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
     },
     {
       "added_at": "2024-01-04 03:38:43",
@@ -2507,6 +2507,22 @@
     {
       "added_at": "2024-01-04 03:38:43",
       "album": {
+        "name": "Dirt Femme",
+        "url": "https://open.spotify.com/album/0HO9NtwyP7ZqB1jZ70MJL6"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 185875,
+      "name": "2 Die 4",
+      "url": "https://open.spotify.com/track/1VYlIU9IpVa4MHUqzKHyOb"
+    },
+    {
+      "added_at": "2024-01-04 03:38:43",
+      "album": {
         "name": "Following the Sun",
         "url": "https://open.spotify.com/album/51SEsgwoNiKu8rcZxQTjo4"
       },
@@ -2539,22 +2555,6 @@
       "duration_ms": 143573,
       "name": "How Does It Feel",
       "url": "https://open.spotify.com/track/1KNYCbS2hGara6pzGCa2Ui"
-    },
-    {
-      "added_at": "2024-01-04 03:38:43",
-      "album": {
-        "name": "Dirt Femme",
-        "url": "https://open.spotify.com/album/0HO9NtwyP7ZqB1jZ70MJL6"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 185875,
-      "name": "2 Die 4",
-      "url": "https://open.spotify.com/track/1VYlIU9IpVa4MHUqzKHyOb"
     },
     {
       "added_at": "2024-01-04 03:38:43",
@@ -2675,6 +2675,22 @@
     {
       "added_at": "2024-01-04 03:38:43",
       "album": {
+        "name": "Dirt Femme",
+        "url": "https://open.spotify.com/album/0HO9NtwyP7ZqB1jZ70MJL6"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 186018,
+      "name": "No One Dies From Love",
+      "url": "https://open.spotify.com/track/51DXwluqCo7bx4QAFuGoEm"
+    },
+    {
+      "added_at": "2024-01-04 03:38:43",
+      "album": {
         "name": "Make You Say",
         "url": "https://open.spotify.com/album/650l6jxDJ5c8thTRY42QU2"
       },
@@ -2711,22 +2727,6 @@
       "duration_ms": 211842,
       "name": "Castles",
       "url": "https://open.spotify.com/track/5tZWtGT65sMrDVPB5H444n"
-    },
-    {
-      "added_at": "2024-01-04 03:38:43",
-      "album": {
-        "name": "Dirt Femme",
-        "url": "https://open.spotify.com/album/0HO9NtwyP7ZqB1jZ70MJL6"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 186018,
-      "name": "No One Dies From Love",
-      "url": "https://open.spotify.com/track/51DXwluqCo7bx4QAFuGoEm"
     },
     {
       "added_at": "2024-01-04 03:38:43",
@@ -2783,22 +2783,6 @@
     {
       "added_at": "2024-01-04 03:38:43",
       "album": {
-        "name": "Pretty Girl Era",
-        "url": "https://open.spotify.com/album/6G32ymoo3YjIUKVMGIKJUY"
-      },
-      "artists": [
-        {
-          "name": "LU KALA",
-          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
-        }
-      ],
-      "duration_ms": 155571,
-      "name": "Pretty Girl Era",
-      "url": "https://open.spotify.com/track/3w6JB9UckmYZBn4Tsq2kpM"
-    },
-    {
-      "added_at": "2024-01-04 03:38:43",
-      "album": {
         "name": "Lost Without You (with Dean Lewis)",
         "url": "https://open.spotify.com/album/3aWYlSAu7ES9Hc9ATloTXI"
       },
@@ -2815,6 +2799,22 @@
       "duration_ms": 203609,
       "name": "Lost Without You (with Dean Lewis)",
       "url": "https://open.spotify.com/track/1eGW1YBT17a5G1hKPWrpW7"
+    },
+    {
+      "added_at": "2024-01-04 03:38:43",
+      "album": {
+        "name": "Pretty Girl Era",
+        "url": "https://open.spotify.com/album/6G32ymoo3YjIUKVMGIKJUY"
+      },
+      "artists": [
+        {
+          "name": "LU KALA",
+          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
+        }
+      ],
+      "duration_ms": 155571,
+      "name": "Pretty Girl Era",
+      "url": "https://open.spotify.com/track/3w6JB9UckmYZBn4Tsq2kpM"
     },
     {
       "added_at": "2024-01-04 03:38:43",
@@ -2967,22 +2967,6 @@
     {
       "added_at": "2024-01-04 03:38:43",
       "album": {
-        "name": "Glad U Came",
-        "url": "https://open.spotify.com/album/2H37NHuufU0kkwLhMwhdLj"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 178080,
-      "name": "Glad U Came",
-      "url": "https://open.spotify.com/track/3g5OlVimHO0rK6qmRiwokX"
-    },
-    {
-      "added_at": "2024-01-04 03:38:43",
-      "album": {
         "name": "You Know What I Need",
         "url": "https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM"
       },
@@ -2999,6 +2983,22 @@
       "duration_ms": 170000,
       "name": "You Know What I Need",
       "url": "https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP"
+    },
+    {
+      "added_at": "2024-01-04 03:38:43",
+      "album": {
+        "name": "Glad U Came",
+        "url": "https://open.spotify.com/album/2H37NHuufU0kkwLhMwhdLj"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 178080,
+      "name": "Glad U Came",
+      "url": "https://open.spotify.com/track/3g5OlVimHO0rK6qmRiwokX"
     },
     {
       "added_at": "2024-01-04 03:38:43",
@@ -3199,22 +3199,6 @@
     {
       "added_at": "2024-01-04 03:38:43",
       "album": {
-        "name": "2ND FULL ALBUM 'REBOOT'",
-        "url": "https://open.spotify.com/album/4gQx8IC4zESV506dgNs0vR"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 212901,
-      "name": "BONA BONA",
-      "url": "https://open.spotify.com/track/0IkWksfw3Qxob96bjFKhyF"
-    },
-    {
-      "added_at": "2024-01-04 03:38:43",
-      "album": {
         "name": "Stupid Feelings",
         "url": "https://open.spotify.com/album/4VKGR1IZuTV7lJRh9oDJJa"
       },
@@ -3231,6 +3215,22 @@
       "duration_ms": 166924,
       "name": "Stupid Feelings",
       "url": "https://open.spotify.com/track/7iUB3byx9Rcks8zW10JVkP"
+    },
+    {
+      "added_at": "2024-01-04 03:38:43",
+      "album": {
+        "name": "2ND FULL ALBUM 'REBOOT'",
+        "url": "https://open.spotify.com/album/4gQx8IC4zESV506dgNs0vR"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 212901,
+      "name": "BONA BONA",
+      "url": "https://open.spotify.com/track/0IkWksfw3Qxob96bjFKhyF"
     },
     {
       "added_at": "2024-01-04 03:38:43",

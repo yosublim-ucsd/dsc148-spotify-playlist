@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,509 likes - 51 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,510 likes - 51 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 28 | [Dile Que Vuelva](https://open.spotify.com/track/2HDynkWGsEg1pGoTEZlN9S) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [1](https://open.spotify.com/album/5Q8p7lerPqauI6Hz9kSAN6) | 5:36 |
 | 29 | [El Refrán](https://open.spotify.com/track/5JMVZua23rOH7Wt1rFYeSH) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [From Santo Domingo: Live!](https://open.spotify.com/album/7j6mg2CE7wd6i3R5dRkr2Z) | 5:35 |
 | 30 | [La Torera](https://open.spotify.com/track/047vEHkucPrNMqcuB3NXcq) | [Maria Diaz](https://open.spotify.com/artist/5dYa0AAqG7tZT1vsX3j7Aj), [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Maria Diaz y Luis Vargas](https://open.spotify.com/album/5I3Rd9BvQr71HQu6KOXqlj) | 4:27 |
-| 31 | [El Doctorado](https://open.spotify.com/track/3pQvlDMVLB8MsQMFq8P1qW) | [Rikar2nes](https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt) | [A Otro Nivel](https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h) | 4:16 |
+| 31 | [Abrete](https://open.spotify.com/track/18uSijEt6xcpnRnd6mnzGd) | [Rikar2nes](https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt), [Martin Elias](https://open.spotify.com/artist/4w6suuqH0FKKYAwFK2GfkP) | [Abrete](https://open.spotify.com/album/5C3lLZkbzYvUOFj6LQl6O7) | 4:54 |
 | 32 | [Arriba Santo Domingo](https://open.spotify.com/track/0JZR9VYEsnkLAlMzXhZHGq) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [Tatico Henríquez](https://open.spotify.com/album/0JD61srO8ptHAXAghonKen) | 3:07 |
 | 33 | [Se Fue La Bola](https://open.spotify.com/track/1wC3DYbyjUdYWe3D6hs9UA) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Corazón Bonito](https://open.spotify.com/album/6doczKOn9Ol9Yjum4U3kqK) | 6:25 |
 | 34 | [La Querida Tipica](https://open.spotify.com/track/7oez5wsiPo24mYY0jzQIxN) | [Julian](https://open.spotify.com/artist/16WE6ZSzPgSVwzjpen71eI) | [La Cabaña](https://open.spotify.com/album/0RdcZm4JIUfIyTfN7exGIV) | 3:43 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 38 | [Que Se Vaya](https://open.spotify.com/track/0Xtj6e8Buf5iPqopUp74N3) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [Que Se Vaya](https://open.spotify.com/album/1zPVnHTB7zHAcfENR2zDIo) | 3:58 |
 | 39 | [Salón de Belleza](https://open.spotify.com/track/70SA4D9VxrH3RI1cDOSHAk) | [Blas Duran](https://open.spotify.com/artist/0N8kOoceUhHFL16Rhe5rvb) | [Éxitos de Oro](https://open.spotify.com/album/0hjzbRJGIAlvfWhoX3n2Oj) | 3:54 |
 | 40 | [Juanita Morel](https://open.spotify.com/track/2rrR9S2MVwsUpR3CvveaQH) | [Trio Reynoso](https://open.spotify.com/artist/5BvDnehJeowGzgoBbRQc3q), [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus), [Miguel Santana](https://open.spotify.com/artist/16bVKtB9DxvHGKSCgtdWnZ) | [Merengues Con el Alma](https://open.spotify.com/album/08GBA2MMo7W9p1ehpZdS7f) | 2:31 |
-| 41 | [Abrete](https://open.spotify.com/track/18uSijEt6xcpnRnd6mnzGd) | [Rikar2nes](https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt), [Martin Elias](https://open.spotify.com/artist/4w6suuqH0FKKYAwFK2GfkP) | [Abrete](https://open.spotify.com/album/5C3lLZkbzYvUOFj6LQl6O7) | 4:54 |
+| 41 | [El Doctorado](https://open.spotify.com/track/3pQvlDMVLB8MsQMFq8P1qW) | [Rikar2nes](https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt) | [A Otro Nivel](https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h) | 4:16 |
 | 42 | [Vamos Hablar Ingles](https://open.spotify.com/track/4VqDSFNWrn7vruGbV5JMiG) | [Tipico Dominicano](https://open.spotify.com/artist/5ubCENBruyHwHAFwLMgYJt) | [La Marapica](https://open.spotify.com/album/3piikVArI0ywpiQn3IDsBt) | 4:35 |
 | 43 | [Cumande](https://open.spotify.com/track/1bB1je89BTNN49hWBIUVAe) | [Maria Diaz](https://open.spotify.com/artist/5dYa0AAqG7tZT1vsX3j7Aj) | [Los Grandes Del Merengue Tipico](https://open.spotify.com/album/531oJdo6tJRay6eLKnHYge) | 4:45 |
 | 44 | [La Batata](https://open.spotify.com/track/4r2O4YsxfoclLn5AjPLdQa) | [Shino Aguakate](https://open.spotify.com/artist/6IgsDaIkGCmRK7VEpnjvKI) | [Out of Control](https://open.spotify.com/album/7MiIB4tUaj2jfu8pGOxX08) | 4:10 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 50 | [Ya No Creo en Ti](https://open.spotify.com/track/1ZE5wyZzjE25sEZ6nDXKbl) | [Rikar2nes](https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt) | [A Otro Nivel](https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h) | 4:39 |
 | 51 | [Por Esa Mujer](https://open.spotify.com/track/2YflEzGAkdbFQ87hevZ7Gy) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | ["El Cacique" \- Todo Exitos](https://open.spotify.com/album/55mfcO5DhWjPj2RxqPGyDB) | 4:28 |
 
-Snapshot ID: `MCwxOTQxYWY4MzRkNTNhOWZiMjhmNzJmMDhkZTE4Yzc5ZWZjOGNjMGQ5`
+Snapshot ID: `MCwyZmNjNTgzODVmODRhNjllM2EwZDUzYzdhZjgzMmVmYmI5ZjhmMDU4`

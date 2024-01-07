@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Nicaragua.
 
-769 songs - 1 day 19 hr 35 min
+770 songs - 1 day 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,6 +408,7 @@
 | [Los Sabanales](https://open.spotify.com/track/1CkC4DWgPvj4eEMgxcs0me) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4), [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Estrellas Corraleras \- Fundadores de la Cumbia Colombiana](https://open.spotify.com/album/5HthmfIydsx1AIrsdyjP99) | 2:42 | 2024-01-02 | 2024-01-04 |
 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2023-08-12 | 2023-09-11 |
 | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \- Remix](https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Dj Yo!](https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy), [AX'EL](https://open.spotify.com/artist/5fUXK5m3BNwoRgTyKq8tnz) | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \[Remix\]](https://open.spotify.com/album/5NzoKSfocwLOb6o0lXfTM9) | 3:08 | 2021-10-04 | 2021-11-28 |
+| [Luces Tenues](https://open.spotify.com/track/15GcuHNJMf7LqwpU3N4Puw) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Luces Tenues](https://open.spotify.com/album/59AjAiyN8bCOtcX7In93YM) | 3:10 | 2024-01-06 |  |
 | [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 | 2023-12-09 |  |
 | [Lágrimas](https://open.spotify.com/track/0LlVVLrWw0Ty0fjboxbGc6) | [Ardis](https://open.spotify.com/artist/1jRTA70q9Jj5SsaQdpwWMv) | [Lágrimas](https://open.spotify.com/album/49H1CDjHGNJ12xN7qLTfy2) | 3:11 | 2023-06-12 | 2023-06-14 |
 | [M3](https://open.spotify.com/track/4WDRKKpJiEZ6DK6FFM3pkZ) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:12 | 2023-03-18 | 2023-03-20 |
@@ -698,7 +699,7 @@
 | [Tu Eres Ajena](https://open.spotify.com/track/1jD48pmiHMSVHHPzKLi4P3) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Atrevido](https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt) | 4:53 | 2024-01-02 | 2024-01-04 |
 | [Tu No Vive Asi \(feat\. Mambo Kingz & DJ Luian\)](https://open.spotify.com/track/6NSMQFKgjpQb0KkjMDYIK0) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [Tu No Vive Asi \(feat\. Mambo Kingz & DJ Luian\)](https://open.spotify.com/album/12yPsAPzZ5584HxpItKBUn) | 4:24 | 2022-08-31 | 2023-10-15 |
 | [TU SABES DONDE VIVO](https://open.spotify.com/track/5RgSwK9Y13567fta5goKTz) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 2:50 | 2022-11-05 | 2022-11-07 |
-| [TULUM](https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:29 | 2023-07-14 |  |
+| [TULUM](https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:29 | 2023-07-14 | 2024-01-07 |
 | [TURUTUTU](https://open.spotify.com/track/07IFy4ePdD17xQAGLEgUY1) | [Sanchz](https://open.spotify.com/artist/0G35WrrhXWCv2Un6ImamhF), [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [TURUTUTU](https://open.spotify.com/album/4K9blemCe3qURv7JUBgJSl) | 3:20 | 2023-01-06 | 2023-01-09 |
 | [TURUTUTU](https://open.spotify.com/track/44NbaMYWDwxaAXbPYXVSIv) | [Sanchz](https://open.spotify.com/artist/0G35WrrhXWCv2Un6ImamhF), [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [TURUTUTU](https://open.spotify.com/album/5pWhstnKLBpI1zQXHKJ3TO) | 3:20 | 2022-12-17 | 2022-12-28 |
 | [TUS GAFITAS](https://open.spotify.com/track/3gOI5aQD4mOMLsP3aWrkon) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:47 | 2023-02-25 | 2023-03-03 |

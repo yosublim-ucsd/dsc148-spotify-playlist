@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 
 > The sounds of LGBTQ+ punk\. Cover: The Oozes
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,942 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,062 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 34 | [Full Metal Black](https://open.spotify.com/track/2MQsDtg1jb4qI5OcurHMI0) | [The Royal They](https://open.spotify.com/artist/6PScjU4Y5AJ8EZp2aW4TA2) | [The Royal They](https://open.spotify.com/album/4oJvLQk4aJ8feombYas5YH) | 3:03 |
 | 35 | [Word Salad](https://open.spotify.com/track/69j7HErLMwAtvPCtR74tKa) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Sorry, Mom](https://open.spotify.com/album/2S2SJWfVZ7KWjz8tfrYSvh) | 6:09 |
 | 36 | [Fuck the Cistem](https://open.spotify.com/track/6Qt0KafTAgxOBEi3XFo2eg) | [The Muslims](https://open.spotify.com/artist/0k4t6CgTa017VoLxokJn8t) | [Mayo Supreme](https://open.spotify.com/album/2T42kZHMEGCe6XkRmCWe8y) | 2:52 |
-| 37 | [Staplegun](https://open.spotify.com/track/4JRs49S2iWLrYKppB2Nmql) | [Baby Guts](https://open.spotify.com/artist/0n7Xc7tVMZdgrQgNoVyqIR) | [gasoline](https://open.spotify.com/album/5fpTeGoair7Yj69gyJfjUh) | 1:54 |
-| 38 | [So\-Called Str8 Grrrl](https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L) | [Gina Young](https://open.spotify.com/artist/0U64coxrK2Wm5s2PmApkBn) | [Intractable](https://open.spotify.com/album/4UH7wsiFLZ6yvw24HGzh1J) | 2:04 |
+| 37 | [So\-Called Str8 Grrrl](https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L) | [Gina Young](https://open.spotify.com/artist/0U64coxrK2Wm5s2PmApkBn) | [Intractable](https://open.spotify.com/album/4UH7wsiFLZ6yvw24HGzh1J) | 2:04 |
+| 38 | [Staplegun](https://open.spotify.com/track/4JRs49S2iWLrYKppB2Nmql) | [Baby Guts](https://open.spotify.com/artist/0n7Xc7tVMZdgrQgNoVyqIR) | [gasoline](https://open.spotify.com/album/5fpTeGoair7Yj69gyJfjUh) | 1:54 |
 | 39 | [Fem in a Black Leather Jacket](https://open.spotify.com/track/7Gjze5dPQjujzoHGOQReWT) | [Pansy Division](https://open.spotify.com/artist/5OyEfwMlXpCWU8dWVENGgm) | [Undressed](https://open.spotify.com/album/3FQM6XQYuV0CMKzs1jTTBF) | 2:04 |
 | 40 | [Nvr Pass](https://open.spotify.com/track/7yJLS5bbD1BbVVXaRktMxP) | [She/Her/hers](https://open.spotify.com/artist/4VfY7XPH7M1nahvlNluxTg) | [Grrrl Angst](https://open.spotify.com/album/1joEVEBQ4YuxikhoClLGBP) | 3:50 |
 | 41 | [Glitterspit](https://open.spotify.com/track/5tLlzGHopRtDv56PntKB8R) | [Sloppy Jane](https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv) | [Sure\-Tuff](https://open.spotify.com/album/1C1OTQGHE9NeWHEw2aG8bO) | 3:40 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 72 | [Thick Skin](https://open.spotify.com/track/1rm8VLzeC2exuOdNltcooA) | [Limp Wrist](https://open.spotify.com/artist/38SIMA9z2a7ATlRVenIcHc) | [Facades](https://open.spotify.com/album/2Aw4XGH7jkvd88jzbPSGjn) | 1:36 |
 | 73 | [Eden on Acid](https://open.spotify.com/track/5h8VuvFvYuQ0dzJhxPcqjZ) | [Tokky Horror](https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp) | [Home Recordings 2020 \- 2021](https://open.spotify.com/album/5gqmQpbigY2VUdn0vwdbGE) | 1:26 |
 | 74 | [It's Ok to Be Sick](https://open.spotify.com/track/2M2TubCJPMDJXj8OEJiV1L) | [The Hirs Collective](https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl) | [Friends\. Lovers\. Favorites](https://open.spotify.com/album/6GEy3owNRRCycgZVqNdwVv) | 1:03 |
-| 75 | [House Party](https://open.spotify.com/track/4LeuJ3WfqbEm0TiYOjdm89) | [La Luna](https://open.spotify.com/artist/61DB9tvIGdQwz1B4IxdP7g) | [Always Already](https://open.spotify.com/album/266CkD6b9yrFX60cDNAyKy) | 1:53 |
-| 76 | [Binary](https://open.spotify.com/track/310OmUKAvBV8hHZQxXZsIu) | [The Spook School](https://open.spotify.com/artist/1K9hZ7uYbiVLEYhV4SFrOA) | [Try to Be Hopeful](https://open.spotify.com/album/1RKrCP38UismUZ1NnC9sjc) | 3:15 |
-| 77 | [Divine Violence](https://open.spotify.com/track/20XjbnBPSXQCRPzNHUwcNl) | [itoldyouiwouldeatyou](https://open.spotify.com/artist/7625dNOd552CCLYVObfTxe) | [Divine Violence](https://open.spotify.com/album/5F3NCovJyL6jjJevjEp5Q4) | 3:22 |
-| 78 | [Girls With Glasses](https://open.spotify.com/track/1oJP3drbPbHRQAnsjrS9eq) | [Partyline](https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA) | [Girls With Glasses](https://open.spotify.com/album/5X2W0yH4IF60WJRVV4pMGY) | 2:09 |
+| 75 | [Binary](https://open.spotify.com/track/310OmUKAvBV8hHZQxXZsIu) | [The Spook School](https://open.spotify.com/artist/1K9hZ7uYbiVLEYhV4SFrOA) | [Try to Be Hopeful](https://open.spotify.com/album/1RKrCP38UismUZ1NnC9sjc) | 3:15 |
+| 76 | [House Party](https://open.spotify.com/track/4LeuJ3WfqbEm0TiYOjdm89) | [La Luna](https://open.spotify.com/artist/61DB9tvIGdQwz1B4IxdP7g) | [Always Already](https://open.spotify.com/album/266CkD6b9yrFX60cDNAyKy) | 1:53 |
+| 77 | [Girls With Glasses](https://open.spotify.com/track/1oJP3drbPbHRQAnsjrS9eq) | [Partyline](https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA) | [Girls With Glasses](https://open.spotify.com/album/5X2W0yH4IF60WJRVV4pMGY) | 2:09 |
+| 78 | [Divine Violence](https://open.spotify.com/track/20XjbnBPSXQCRPzNHUwcNl) | [itoldyouiwouldeatyou](https://open.spotify.com/artist/7625dNOd552CCLYVObfTxe) | [Divine Violence](https://open.spotify.com/album/5F3NCovJyL6jjJevjEp5Q4) | 3:22 |
 | 79 | [Sissy Fists](https://open.spotify.com/track/1KHFqFiuV5KNyHjtjTKBbJ) | [Queen Zee](https://open.spotify.com/artist/4Fu68byHFGEiID8pHyYxFL) | [Queen Zee](https://open.spotify.com/album/2wbap4Wf20Dbp2kLrZFkHk) | 2:23 |
 | 80 | [Woodchuck](https://open.spotify.com/track/6GUeUdO8AOZ52UcRFPn1eH) | [Crywank](https://open.spotify.com/artist/7gzXeFUDWz0aqhikdkOJxQ) | [Egg on Face\. Foot in Mouth\. Wriggling Wriggling Wriggling.](https://open.spotify.com/album/26WIpPiL8DGHgdZ0xQR4sC) | 2:33 |
 
-Snapshot ID: `MCw1YjcwYWQ3MjJmMjVmOTBjNzQ5NGNlNTdmYWQ2ZDMyN2UwOGM0ZDE5`
+Snapshot ID: `MCw2MzE3ZWQ2ZTdlNTg0YWQ3NzNmMWRkNzUzMzUwZTQ2NmJjZGJhZGE5`

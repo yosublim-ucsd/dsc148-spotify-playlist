@@ -1,12 +1,12 @@
 {
   "description": "Acoustic and roots music gems. Cover: Trousdale",
-  "num_followers": 2111590,
+  "num_followers": 2111554,
   "original_name": "Infinite Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDVhZmI5N2JlZjIzYjYwZDllNGRjMWFkMWRiNjYwZDM5NmZmN2Y1",
+  "snapshot_id": "MCxlNTVmYjg0YTY2MjBjZDcyMzA2NjE1NjBmMThiZGY1YThmZWVhZjE5",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Resin",
-        "url": "https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 203939,
-      "name": "Resin",
-      "url": "https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Our Endless Numbered Days (Deluxe Edition)",
         "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 152613,
       "name": "Naked as We Came",
       "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Resin",
+        "url": "https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 203939,
+      "name": "Resin",
+      "url": "https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "The Breach EP",
+        "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 253848,
+      "name": "The Breach",
+      "url": "https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Sleeping Operator",
         "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 241720,
       "name": "Tiger Striped Sky",
       "url": "https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "The Breach EP",
-        "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 253848,
-      "name": "The Breach",
-      "url": "https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Moments",
-        "url": "https://open.spotify.com/album/1AdV0dbxTNI6ihLCJYyE96"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 255099,
-      "name": "Ran Away",
-      "url": "https://open.spotify.com/track/2nQUwM55eYkY2bWtF3EzCm"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "You And I (Moon And Stars / Acoustic)",
         "url": "https://open.spotify.com/album/2U3hbvwpQPFlRexqPBNV1C"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 200000,
       "name": "You And I - Moon And Stars / Acoustic",
       "url": "https://open.spotify.com/track/5E87q3c0yZ5n5m2Fuq2RMZ"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/1AdV0dbxTNI6ihLCJYyE96"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 255099,
+      "name": "Ran Away",
+      "url": "https://open.spotify.com/track/2nQUwM55eYkY2bWtF3EzCm"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Unsung Passage",
-        "url": "https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW"
-      },
-      "artists": [
-        {
-          "name": "The Dead Tongues",
-          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
-        }
-      ],
-      "duration_ms": 230626,
-      "name": "Pale November Dew",
-      "url": "https://open.spotify.com/track/1mKLnhqWC5imlKFmmqLtvL"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "True North",
         "url": "https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 137293,
       "name": "True North",
       "url": "https://open.spotify.com/track/5vvuajXbTuucQDpcwvKKye"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "On The Road Again",
+        "url": "https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb"
+      },
+      "artists": [
+        {
+          "name": "The Brother Brothers",
+          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
+        }
+      ],
+      "duration_ms": 173969,
+      "name": "On The Road Again",
+      "url": "https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "On The Road Again",
-        "url": "https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb"
+        "name": "Unsung Passage",
+        "url": "https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW"
       },
       "artists": [
         {
-          "name": "The Brother Brothers",
-          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
+          "name": "The Dead Tongues",
+          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
         }
       ],
-      "duration_ms": 173969,
-      "name": "On The Road Again",
-      "url": "https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6"
+      "duration_ms": 230626,
+      "name": "Pale November Dew",
+      "url": "https://open.spotify.com/track/1mKLnhqWC5imlKFmmqLtvL"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Thinner",
-        "url": "https://open.spotify.com/album/0gyb0gR5HiR1kLDXdvGPpA"
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/5h1gfBiPonoeyws7ONqFIV"
       },
       "artists": [
         {
-          "name": "Elias Hix",
-          "url": "https://open.spotify.com/artist/7caEhKgBilB0MHIyWWWGsV"
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
         }
       ],
-      "duration_ms": 206755,
-      "name": "Mud-Stained Dress",
-      "url": "https://open.spotify.com/track/0uItDWscT3ytoQY5bPq9US"
+      "duration_ms": 232000,
+      "name": "High And Dry",
+      "url": "https://open.spotify.com/track/7yttZmULyoii3eQ8fVZSrB"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/5h1gfBiPonoeyws7ONqFIV"
+        "name": "Thinner",
+        "url": "https://open.spotify.com/album/0gyb0gR5HiR1kLDXdvGPpA"
       },
       "artists": [
         {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+          "name": "Elias Hix",
+          "url": "https://open.spotify.com/artist/7caEhKgBilB0MHIyWWWGsV"
         }
       ],
-      "duration_ms": 232000,
-      "name": "High And Dry",
-      "url": "https://open.spotify.com/track/7yttZmULyoii3eQ8fVZSrB"
+      "duration_ms": 206755,
+      "name": "Mud-Stained Dress",
+      "url": "https://open.spotify.com/track/0uItDWscT3ytoQY5bPq9US"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2083,18 +2083,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "The Stray Birds",
-        "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
+        "name": "World On The Ground",
+        "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
       },
       "artists": [
         {
-          "name": "The Stray Birds",
-          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 212026,
-      "name": "Dream in Blue",
-      "url": "https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR"
+      "duration_ms": 180240,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2119,18 +2119,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "World On The Ground",
-        "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
+        "name": "The Stray Birds",
+        "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
       },
       "artists": [
         {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+          "name": "The Stray Birds",
+          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
         }
       ],
-      "duration_ms": 180240,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1"
+      "duration_ms": 212026,
+      "name": "Dream in Blue",
+      "url": "https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2295,6 +2295,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Song for Nick Drake",
+        "url": "https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey"
+      },
+      "artists": [
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+        }
+      ],
+      "duration_ms": 177387,
+      "name": "Song for Nick Drake",
+      "url": "https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Seed of Joy",
         "url": "https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn"
       },
@@ -2311,22 +2327,6 @@
       "duration_ms": 210546,
       "name": "Seed of Joy",
       "url": "https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Song for Nick Drake",
-        "url": "https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey"
-      },
-      "artists": [
-        {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
-        }
-      ],
-      "duration_ms": 177387,
-      "name": "Song for Nick Drake",
-      "url": "https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "K.",
-        "url": "https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "K.",
-      "url": "https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Need You",
         "url": "https://open.spotify.com/album/5AmqUjMfw0VoXNaP5VgFQQ"
       },
@@ -2515,18 +2499,34 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "A Very Lonely Solstice",
-        "url": "https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h"
+        "name": "K.",
+        "url": "https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO"
       },
       "artists": [
         {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
         }
       ],
-      "duration_ms": 222133,
-      "name": "Silver Dagger - Solstice Version",
-      "url": "https://open.spotify.com/track/7u3LJNd9Iv7KecnKmB3gxa"
+      "duration_ms": 269000,
+      "name": "K.",
+      "url": "https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "On the Other Side",
+        "url": "https://open.spotify.com/album/51bsId3cKJ6paV9l6KKIkC"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 248160,
+      "name": "Olalla",
+      "url": "https://open.spotify.com/track/1z75CRovSzKUOpYbrV4Fuo"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2543,6 +2543,22 @@
       "duration_ms": 255191,
       "name": "Letter to Lady J",
       "url": "https://open.spotify.com/track/6iQylmI5wYJrvSrLeVWf3h"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "A Very Lonely Solstice",
+        "url": "https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 222133,
+      "name": "Silver Dagger - Solstice Version",
+      "url": "https://open.spotify.com/track/7u3LJNd9Iv7KecnKmB3gxa"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2639,22 +2655,6 @@
       "duration_ms": 199333,
       "name": "Glass",
       "url": "https://open.spotify.com/track/6S4FuoZrCc8ORTyb41Kyg2"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Waysides",
-        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
-      },
-      "artists": [
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 226258,
-      "name": "The Solitude",
-      "url": "https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM"
     }
   ],
   "unique_name": "Infinite Acoustic",

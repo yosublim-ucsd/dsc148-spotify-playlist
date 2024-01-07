@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Yoly Saa.",
-  "num_followers": 120161,
+  "num_followers": 120202,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWNiYzE4YTUxMmQ5ZWQ3ZTQxYzc2MDAwODc5ZmUyM2E1MjZiMzAy",
+  "snapshot_id": "MCwyMDk4ZDBjNmJhMzFmN2QyMjE4ODM1MjE2MmEwNTIxNDdkODBhMDFi",
   "tracks": [
     {
       "added_at": "2024-01-05 09:11:13",
@@ -771,18 +771,22 @@
     {
       "added_at": "2024-01-05 09:11:13",
       "album": {
-        "name": "Vals de la Luna",
-        "url": "https://open.spotify.com/album/3T43guJr3czyoPy0eEvjHh"
+        "name": "El Caminante",
+        "url": "https://open.spotify.com/album/68F9zJS0lss2CwsrcR8HZK"
       },
       "artists": [
         {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        },
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
         }
       ],
-      "duration_ms": 190416,
-      "name": "Vals de la Luna",
-      "url": "https://open.spotify.com/track/1aqAIRbnsmLY4scIFT9m1t"
+      "duration_ms": 188769,
+      "name": "La Aguja",
+      "url": "https://open.spotify.com/track/4SPsxVT36LRsAtk8QBlpWt"
     },
     {
       "added_at": "2024-01-05 09:11:13",
@@ -803,22 +807,38 @@
     {
       "added_at": "2024-01-05 09:11:13",
       "album": {
-        "name": "El Caminante",
-        "url": "https://open.spotify.com/album/68F9zJS0lss2CwsrcR8HZK"
+        "name": "Vals de la Luna",
+        "url": "https://open.spotify.com/album/3T43guJr3czyoPy0eEvjHh"
       },
       "artists": [
         {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        },
-        {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
         }
       ],
-      "duration_ms": 188769,
-      "name": "La Aguja",
-      "url": "https://open.spotify.com/track/4SPsxVT36LRsAtk8QBlpWt"
+      "duration_ms": 190416,
+      "name": "Vals de la Luna",
+      "url": "https://open.spotify.com/track/1aqAIRbnsmLY4scIFT9m1t"
+    },
+    {
+      "added_at": "2024-01-05 09:11:13",
+      "album": {
+        "name": "Todo Lo Que No Est\u00e1",
+        "url": "https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5"
+      },
+      "artists": [
+        {
+          "name": "Luisa Sobral",
+          "url": "https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT"
+        },
+        {
+          "name": "Zahara",
+          "url": "https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu"
+        }
+      ],
+      "duration_ms": 216661,
+      "name": "Todo Lo Que No Est\u00e1",
+      "url": "https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z"
     },
     {
       "added_at": "2024-01-05 09:11:13",
@@ -859,26 +879,6 @@
     {
       "added_at": "2024-01-05 09:11:13",
       "album": {
-        "name": "Todo Lo Que No Est\u00e1",
-        "url": "https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5"
-      },
-      "artists": [
-        {
-          "name": "Luisa Sobral",
-          "url": "https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT"
-        },
-        {
-          "name": "Zahara",
-          "url": "https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu"
-        }
-      ],
-      "duration_ms": 216661,
-      "name": "Todo Lo Que No Est\u00e1",
-      "url": "https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z"
-    },
-    {
-      "added_at": "2024-01-05 09:11:13",
-      "album": {
         "name": "C\u00f3smosis",
         "url": "https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx"
       },
@@ -907,22 +907,6 @@
       "duration_ms": 222428,
       "name": "Las Bestias Que Me Acompa\u00f1an",
       "url": "https://open.spotify.com/track/7u7dzBVfptwhsuNqKHMBXn"
-    },
-    {
-      "added_at": "2024-01-05 09:11:13",
-      "album": {
-        "name": "Algo Ritmos",
-        "url": "https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 236361,
-      "name": "Solo Le Dije",
-      "url": "https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH"
     },
     {
       "added_at": "2024-01-05 09:11:13",
@@ -967,18 +951,18 @@
     {
       "added_at": "2024-01-05 09:11:13",
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
+        "name": "Algo Ritmos",
+        "url": "https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc"
       },
       "artists": [
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
         }
       ],
-      "duration_ms": 198293,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
+      "duration_ms": 236361,
+      "name": "Solo Le Dije",
+      "url": "https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH"
     },
     {
       "added_at": "2024-01-05 09:11:13",
@@ -995,6 +979,22 @@
       "duration_ms": 185036,
       "name": "Chavela",
       "url": "https://open.spotify.com/track/0rZrzVHDc6k3EYnAnIhUel"
+    },
+    {
+      "added_at": "2024-01-05 09:11:13",
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
     },
     {
       "added_at": "2024-01-05 09:11:13",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-01-05 09:11:13",
       "album": {
-        "name": "Qu\u00e9 Problema",
-        "url": "https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 204735,
-      "name": "Qu\u00e9 Problema",
-      "url": "https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK"
-    },
-    {
-      "added_at": "2024-01-05 09:11:13",
-      "album": {
         "name": "Los versos s\u00e1ficos",
         "url": "https://open.spotify.com/album/6gOgdemsUT1qHDVMlEDmNi"
       },
@@ -1123,22 +1107,6 @@
     {
       "added_at": "2024-01-05 09:11:13",
       "album": {
-        "name": "tu recuerdo (verde oto\u00f1o)",
-        "url": "https://open.spotify.com/album/1Xd6GKEZU54VsBjlM6VrSx"
-      },
-      "artists": [
-        {
-          "name": "Luis Ferc\u00e1n",
-          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
-        }
-      ],
-      "duration_ms": 155213,
-      "name": "tu recuerdo (verde oto\u00f1o)",
-      "url": "https://open.spotify.com/track/7lm2Q0zldRU3caAqdeCpz4"
-    },
-    {
-      "added_at": "2024-01-05 09:11:13",
-      "album": {
         "name": "Tu Casa",
         "url": "https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH"
       },
@@ -1151,6 +1119,22 @@
       "duration_ms": 200213,
       "name": "Tu Casa",
       "url": "https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU"
+    },
+    {
+      "added_at": "2024-01-05 09:11:13",
+      "album": {
+        "name": "tu recuerdo (verde oto\u00f1o)",
+        "url": "https://open.spotify.com/album/1Xd6GKEZU54VsBjlM6VrSx"
+      },
+      "artists": [
+        {
+          "name": "Luis Ferc\u00e1n",
+          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
+        }
+      ],
+      "duration_ms": 155213,
+      "name": "tu recuerdo (verde oto\u00f1o)",
+      "url": "https://open.spotify.com/track/7lm2Q0zldRU3caAqdeCpz4"
     },
     {
       "added_at": "2024-01-05 09:11:13",
@@ -1171,6 +1155,22 @@
       "duration_ms": 169887,
       "name": "Condenada",
       "url": "https://open.spotify.com/track/4S3EogdoSuj7kFJYEsxWxq"
+    },
+    {
+      "added_at": "2024-01-05 09:11:13",
+      "album": {
+        "name": "Qu\u00e9 Problema",
+        "url": "https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 204735,
+      "name": "Qu\u00e9 Problema",
+      "url": "https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK"
     },
     {
       "added_at": "2024-01-05 09:11:13",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-01-05 09:11:13",
       "album": {
+        "name": "Carta Aberta",
+        "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
+        }
+      ],
+      "duration_ms": 322242,
+      "name": "Carta Aberta",
+      "url": "https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO"
+    },
+    {
+      "added_at": "2024-01-05 09:11:13",
+      "album": {
         "name": "1990",
         "url": "https://open.spotify.com/album/4oBEsetdltXNnOMT1t61QU"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 236756,
       "name": "Ahora",
       "url": "https://open.spotify.com/track/3o6rq0a3BsvoIgRvm0Fdcz"
-    },
-    {
-      "added_at": "2024-01-05 09:11:13",
-      "album": {
-        "name": "Carta Aberta",
-        "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00eda Mu\u00ed\u00f1o",
-          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
-        }
-      ],
-      "duration_ms": 322242,
-      "name": "Carta Aberta",
-      "url": "https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO"
     },
     {
       "added_at": "2024-01-05 09:11:13",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-01-05 09:11:13",
       "album": {
-        "name": "Tab\u00fa",
-        "url": "https://open.spotify.com/album/0vtS3RtK84fPO6U5GV59L5"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 244251,
-      "name": "Tab\u00fa",
-      "url": "https://open.spotify.com/track/6UJg0mVgXgQCDFOmi3lem6"
-    },
-    {
-      "added_at": "2024-01-05 09:11:13",
-      "album": {
         "name": "La Despedida (feat. Valeria Castro)",
         "url": "https://open.spotify.com/album/6WabxigChTEsXqQ8bZekYm"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 218028,
       "name": "La Despedida (feat. Valeria Castro)",
       "url": "https://open.spotify.com/track/2THnHHYUmXLKgI3AzLV053"
+    },
+    {
+      "added_at": "2024-01-05 09:11:13",
+      "album": {
+        "name": "Tab\u00fa",
+        "url": "https://open.spotify.com/album/0vtS3RtK84fPO6U5GV59L5"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 244251,
+      "name": "Tab\u00fa",
+      "url": "https://open.spotify.com/track/6UJg0mVgXgQCDFOmi3lem6"
     },
     {
       "added_at": "2024-01-05 09:11:13",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-01-05 09:11:13",
       "album": {
-        "name": "TANDA",
-        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 238946,
-      "name": "Una Fecha En El Calendario",
-      "url": "https://open.spotify.com/track/5OXMu7jOqr8f6R2JLYNncO"
-    },
-    {
-      "added_at": "2024-01-05 09:11:13",
-      "album": {
         "name": "Tabaibas",
         "url": "https://open.spotify.com/album/170tXRY7ZmWpbvpFyryLL3"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 270049,
       "name": "Claroscuro",
       "url": "https://open.spotify.com/track/4NsXyQdZ80dXlGwLMyzUEz"
+    },
+    {
+      "added_at": "2024-01-05 09:11:13",
+      "album": {
+        "name": "TANDA",
+        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 238946,
+      "name": "Una Fecha En El Calendario",
+      "url": "https://open.spotify.com/track/5OXMu7jOqr8f6R2JLYNncO"
     },
     {
       "added_at": "2024-01-05 09:11:13",

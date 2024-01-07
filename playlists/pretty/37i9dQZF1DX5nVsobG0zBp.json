@@ -1,29 +1,13 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Wet Bed Gang.  ",
-  "num_followers": 57142,
+  "num_followers": 57167,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTc5OGQ0ZDY0NzRmOTI3ZjBkZWUwMzcyY2Q1OTZlMmZmMTM3OWMy",
+  "snapshot_id": "MCxiN2Y2ZTQyYzQxYjJiZTM2NWJkMmY2OTZlNWU1MTdiNmJjMzAxODRj",
   "tracks": [
-    {
-      "added_at": "2023-12-14 11:29:01",
-      "album": {
-        "name": "Aulas e Cursos",
-        "url": "https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr"
-      },
-      "artists": [
-        {
-          "name": "DNASTY",
-          "url": "https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn"
-        }
-      ],
-      "duration_ms": 213634,
-      "name": "Aulas e Cursos",
-      "url": "https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY"
-    },
     {
       "added_at": "2023-12-14 11:29:01",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 192631,
       "name": "Lua",
       "url": "https://open.spotify.com/track/7BELSQR2lAJLELaKvVkct3"
+    },
+    {
+      "added_at": "2023-12-14 11:29:01",
+      "album": {
+        "name": "Aulas e Cursos",
+        "url": "https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr"
+      },
+      "artists": [
+        {
+          "name": "DNASTY",
+          "url": "https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn"
+        }
+      ],
+      "duration_ms": 213634,
+      "name": "Aulas e Cursos",
+      "url": "https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY"
     },
     {
       "added_at": "2023-12-14 11:29:01",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-12-14 11:29:01",
       "album": {
-        "name": "International Bizz",
-        "url": "https://open.spotify.com/album/7g3nF0SFu2SNbMnVjyGX4K"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "International Bizz",
-      "url": "https://open.spotify.com/track/1mmYrB8rIUWA73nsivDPu4"
-    },
-    {
-      "added_at": "2023-12-14 11:29:01",
-      "album": {
         "name": "Dama & Vagabundo",
         "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 313825,
       "name": "Dama & Vagabundo",
       "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
+    },
+    {
+      "added_at": "2023-12-14 11:29:01",
+      "album": {
+        "name": "International Bizz",
+        "url": "https://open.spotify.com/album/7g3nF0SFu2SNbMnVjyGX4K"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "International Bizz",
+      "url": "https://open.spotify.com/track/1mmYrB8rIUWA73nsivDPu4"
     },
     {
       "added_at": "2023-12-14 11:29:01",
@@ -991,6 +991,26 @@
     {
       "added_at": "2023-12-14 11:29:01",
       "album": {
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/5rRtrYZiRhOcj6WDD4BhuT"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        },
+        {
+          "name": "Los Cavakitos",
+          "url": "https://open.spotify.com/artist/3maUA3E2H0Yyugw8MsEeJi"
+        }
+      ],
+      "duration_ms": 260301,
+      "name": "Bolero",
+      "url": "https://open.spotify.com/track/7mdE30Ov4in9UOCUcQiIK0"
+    },
+    {
+      "added_at": "2023-12-14 11:29:01",
+      "album": {
         "name": "Tranquilo",
         "url": "https://open.spotify.com/album/1qhBvfD0i324wwBlU0QZxD"
       },
@@ -1043,26 +1063,6 @@
     {
       "added_at": "2023-12-14 11:29:01",
       "album": {
-        "name": "Bolero",
-        "url": "https://open.spotify.com/album/5rRtrYZiRhOcj6WDD4BhuT"
-      },
-      "artists": [
-        {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        },
-        {
-          "name": "Los Cavakitos",
-          "url": "https://open.spotify.com/artist/3maUA3E2H0Yyugw8MsEeJi"
-        }
-      ],
-      "duration_ms": 260301,
-      "name": "Bolero",
-      "url": "https://open.spotify.com/track/7mdE30Ov4in9UOCUcQiIK0"
-    },
-    {
-      "added_at": "2023-12-14 11:29:01",
-      "album": {
         "name": "Hoji N'ka ta Rola",
         "url": "https://open.spotify.com/album/3IaC88OL226GYBYBTn3KBR"
       },
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-12-14 11:29:01",
       "album": {
+        "name": "P de Pablito",
+        "url": "https://open.spotify.com/album/7BkBkdAwb0X7pbIBjP9zzF"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "P de Pablito",
+      "url": "https://open.spotify.com/track/5iZdN7FwGMBBaYsPP5DO8l"
+    },
+    {
+      "added_at": "2023-12-14 11:29:01",
+      "album": {
         "name": "Paz",
         "url": "https://open.spotify.com/album/2s1TkBbHp7JxsQGCG9cVKg"
       },
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2023-12-14 11:29:01",
       "album": {
-        "name": "GUUD",
-        "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 168631,
-      "name": "GUUD",
-      "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
-    },
-    {
-      "added_at": "2023-12-14 11:29:01",
-      "album": {
         "name": "Stunka",
         "url": "https://open.spotify.com/album/2obSOKa79b0NKNZyVccaIf"
       },
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-12-14 11:29:01",
       "album": {
+        "name": "GUUD",
+        "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 168631,
+      "name": "GUUD",
+      "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
+    },
+    {
+      "added_at": "2023-12-14 11:29:01",
+      "album": {
         "name": "Malandro",
         "url": "https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 210675,
       "name": "Malandro",
       "url": "https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB"
-    },
-    {
-      "added_at": "2023-12-14 11:29:01",
-      "album": {
-        "name": "P de Pablito",
-        "url": "https://open.spotify.com/album/7BkBkdAwb0X7pbIBjP9zzF"
-      },
-      "artists": [
-        {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "P de Pablito",
-      "url": "https://open.spotify.com/track/5iZdN7FwGMBBaYsPP5DO8l"
     },
     {
       "added_at": "2023-12-14 11:29:01",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2023-12-14 11:29:01",
       "album": {
+        "name": "O Re$To",
+        "url": "https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        },
+        {
+          "name": "DJ HYPE MYKE",
+          "url": "https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch"
+        }
+      ],
+      "duration_ms": 304600,
+      "name": "O Re$To",
+      "url": "https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R"
+    },
+    {
+      "added_at": "2023-12-14 11:29:01",
+      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/2uFgPZNyontItiQ5P2TZU6"
       },
@@ -1347,26 +1367,6 @@
       "duration_ms": 171063,
       "name": "Clima",
       "url": "https://open.spotify.com/track/1FTuNyIwUs3srXdMIS1Lql"
-    },
-    {
-      "added_at": "2023-12-14 11:29:01",
-      "album": {
-        "name": "O Re$To",
-        "url": "https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg"
-      },
-      "artists": [
-        {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        },
-        {
-          "name": "DJ HYPE MYKE",
-          "url": "https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch"
-        }
-      ],
-      "duration_ms": 304600,
-      "name": "O Re$To",
-      "url": "https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R"
     },
     {
       "added_at": "2023-12-14 11:29:01",

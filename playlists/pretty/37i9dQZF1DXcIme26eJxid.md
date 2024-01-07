@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 
 > The most known Afro\-pop classics, all in one place! Cover: <a href="spotify:artist:18RkLKfeoUgZflWv9os25W">Miriam Makeba</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,712 likes - 40 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,760 likes - 40 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 | 39 | [Alo Mi Alo \(Parts 1 & 2\)](https://open.spotify.com/track/4ZAjQaFzbW5IbJJsjfCJJ4) | [Orlando Julius](https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L), [The Afro Sounders](https://open.spotify.com/artist/6NJCN6KXFzP8YlfX4mFDx8) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0) | 8:03 |
 | 40 | [Happy Birthday](https://open.spotify.com/track/6GkCK4jJhwQDOnGKXxmvmN) | [Evi\-Edna Ogholi](https://open.spotify.com/artist/0anRNdIauPbIhAdygRLJVL) | [Happy Birthday](https://open.spotify.com/album/02FKQ2rc5f7XmB03EcFN4m) | 5:39 |
 
-Snapshot ID: `MCxiZTY2OWU3NjJkNjEzY2ViYWNmYmQ0Y2I3NzM2MTZmNmY5OTVmOTc5`
+Snapshot ID: `MCw3NzUzNjUyODczMDhkNzE0NTU4OWE2ZGQxZjY5OWRjYTQxMjU2ZTFk`

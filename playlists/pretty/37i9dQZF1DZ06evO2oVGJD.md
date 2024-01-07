@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oVGJD.md) - [plain]
 
 > This is Banda Pequeños Musical\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,033 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,105 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Y yo que te amo](https://open.spotify.com/track/5an6zLElxCiCAEbeInEqRY) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Con paso sensual](https://open.spotify.com/album/7GQTANMGR0SlhvqbP1yw4A) | 3:16 |
 | 2 | [Reencuentro](https://open.spotify.com/track/3jq17jcifw4s9ORbLxr4iJ) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Reencuentro](https://open.spotify.com/album/7AAMxkRhwiPTDzApQYJdns) | 3:46 |
-| 3 | [Recuerdos](https://open.spotify.com/track/2QE8R10kBgZkgosYsrChT7) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Recuerdos y algo más](https://open.spotify.com/album/5fh8Fm5Xja28dihBZj0Sxg) | 3:28 |
-| 4 | [Un loco solitario](https://open.spotify.com/track/0QQROQYcXIlFobzckwOdBx) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Tenis Mágicos](https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D) | 3:12 |
+| 3 | [Un loco solitario](https://open.spotify.com/track/0QQROQYcXIlFobzckwOdBx) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Tenis Mágicos](https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D) | 3:12 |
+| 4 | [Recuerdos](https://open.spotify.com/track/2QE8R10kBgZkgosYsrChT7) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Recuerdos y algo más](https://open.spotify.com/album/5fh8Fm5Xja28dihBZj0Sxg) | 3:28 |
 | 5 | [La nena](https://open.spotify.com/track/11nbpj3Am8EBgjdGw3dqjY) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Banda Pequeños Musical](https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY) | 2:54 |
 | 6 | [Ganas De Ti \- Balada Version](https://open.spotify.com/track/4wJ6H2bngItDzDR7voKSqA) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [15 Éxitos 2004\-2005](https://open.spotify.com/album/3xKyBeB8ovduhZwPtgPZBo) | 3:29 |
 | 7 | [Por Mis Defectos](https://open.spotify.com/track/2FT8RUWKtE7JYqZdfKorGE) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Una Poesía](https://open.spotify.com/album/2YJNuXQxw3KHCxLUPb7PXg) | 3:38 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oVGJD.md) - [plain]
 | 26 | [Tengo que regresar](https://open.spotify.com/track/7GV3ncNCPyywOjPGU0oVCw) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Trayectoria](https://open.spotify.com/album/4HEcnwhFZEvZrOZjJr4hFe) | 3:23 |
 | 27 | [Desnudos](https://open.spotify.com/track/3yFUto83tuhUqsNsmGS6s3) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Reencuentro](https://open.spotify.com/album/7AAMxkRhwiPTDzApQYJdns) | 3:17 |
 | 28 | [Maldita Suerte](https://open.spotify.com/track/4kcMWe9I1GY4aTu2wx1OiE) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hasta el Final](https://open.spotify.com/album/1du9JIb2Q5slXbYG4KbFPT) | 2:56 |
-| 29 | [Eso no, no, no](https://open.spotify.com/track/2qoGdSISEegf5cdtapA8om) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Banda Pequeños Musical](https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY) | 2:55 |
-| 30 | [2021 y Yo Que Te Amo / Me Encantaría](https://open.spotify.com/track/3vsdKoBJXbWpjvNjV3mVGP) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Serenata Digital](https://open.spotify.com/album/4HBtSCO4TUKg2gGxnMkpSP) | 3:43 |
+| 29 | [2021 y Yo Que Te Amo / Me Encantaría](https://open.spotify.com/track/3vsdKoBJXbWpjvNjV3mVGP) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Serenata Digital](https://open.spotify.com/album/4HBtSCO4TUKg2gGxnMkpSP) | 3:43 |
+| 30 | [Eso no, no, no](https://open.spotify.com/track/2qoGdSISEegf5cdtapA8om) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Banda Pequeños Musical](https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY) | 2:55 |
 | 31 | [Te extraño](https://open.spotify.com/track/7wv6p1I2GWuZ1eQ1Iok3u1) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Romantico incurable](https://open.spotify.com/album/3HsHoBwT4L04KIfkYAfWjO) | 2:57 |
 | 32 | [Tu Castigo](https://open.spotify.com/track/32csFAG5BL1HtQBm6Dypk1) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hasta el Final](https://open.spotify.com/album/1du9JIb2Q5slXbYG4KbFPT) | 2:52 |
 | 33 | [Regálame](https://open.spotify.com/track/2SEwhWIcGazGlCwNLKrfHQ) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oVGJD.md) - [plain]
 | 49 | [Mi Reporte Hasta Hoy](https://open.spotify.com/track/5K7pNfsRNU1VR0QGTvqM4f) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Mi Reporte Hasta Hoy](https://open.spotify.com/album/5eCpf7QleroJy4vEglXmAD) | 2:01 |
 | 50 | [Chiquilina](https://open.spotify.com/track/3DiBjgOxP26LVm9BcosS7P) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [En grande](https://open.spotify.com/album/5J6wDtwCGok12ta08ixCsA) | 2:22 |
 
-Snapshot ID: `Mjg0MDc3MDMsMDAwMDAwMDA0NTkzYTNhM2EwMDU1ZDQ0ZTAyOTg2YTRmNGU0ZGQ2Mw==`
+Snapshot ID: `Mjg0MDkwNTYsMDAwMDAwMDA0MTBlMzkxZjAxYzc2MDUzMTBjZDI5YWMwZWMyMzJhYg==`

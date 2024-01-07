@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 
 > The greatest female voices in blues today\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,675 likes - 55 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,705 likes - 55 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 51 | [Open Eyes](https://open.spotify.com/track/27Hps0EsBwR2ImKIiJfC95) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Moon Goes Missing](https://open.spotify.com/album/3HTWMRiLGpWPb0YYNAHprh) | 5:21 |
 | 52 | [Call on God](https://open.spotify.com/track/3dBH5NxeEfR7t2kh6jdcCC) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Soul of a Woman](https://open.spotify.com/album/6Y3Hr84DBJ7oV76c3BuInv) | 3:37 |
 | 53 | [Masters of War](https://open.spotify.com/track/4uEyWg6xjJ9uYoJYTuWg8U) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Masters of War](https://open.spotify.com/album/7lAF2ragTBGGpRfa8m1AzZ) | 4:56 |
-| 54 | [Nowhere Left to Go](https://open.spotify.com/track/66A4kKsaCLef6DM79ATTER) | [Layla Zoe](https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU) | [Nowhere Left to Go](https://open.spotify.com/album/7mgwnnkUtNugVDwFd2fWsd) | 3:47 |
-| 55 | [It Hurts Me Too](https://open.spotify.com/track/7EFUJYLscAMh62ZkSUhZyc) | [Erja Lyytinen](https://open.spotify.com/artist/73i095FtGSlyCoudRYl6MD) | [The Sky Is Crying](https://open.spotify.com/album/3mQMXVI0HCbJ6yamBHpcBU) | 5:06 |
+| 54 | [It Hurts Me Too](https://open.spotify.com/track/7EFUJYLscAMh62ZkSUhZyc) | [Erja Lyytinen](https://open.spotify.com/artist/73i095FtGSlyCoudRYl6MD) | [The Sky Is Crying](https://open.spotify.com/album/3mQMXVI0HCbJ6yamBHpcBU) | 5:06 |
+| 55 | [You Need Love](https://open.spotify.com/track/4I5G1RoD0LbJ8q5VG5YdIs) | [Candye Kane](https://open.spotify.com/artist/70svT4F0xhbyQ5lQx6UE4b), [Stephen Hodges](https://open.spotify.com/artist/1dEhcM1DuKdrIb3iudblIp) | [Superhero](https://open.spotify.com/album/3aEHMc4YNu1XKfFqboal8C) | 4:06 |
 
-Snapshot ID: `MCwzNmUyMzU5NWZjMDQwOWU5Zjg1NDEwMjA4ZDMwMjdmYjRkYjdkMTdl`
+Snapshot ID: `MCw4MmYzZmRmMDhhNzY2ZDE0YThlNTU0YjJhZDc4ZjliNjc5OWM4OTNl`

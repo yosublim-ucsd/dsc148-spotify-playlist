@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,960 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,020 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 28 | [Your Voice \- Adam Port Remix](https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Your Voice \(Adam Port Remix\)](https://open.spotify.com/album/7i97hHLFqXAVFIIsUGw2Da) | 4:20 |
 | 29 | [If You Wanna](https://open.spotify.com/track/3U8zXNz1x6QRo8N6KYv9ZR) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [If You Wanna](https://open.spotify.com/album/6xdH62cWsnkSNb1KrstnEA) | 2:39 |
 | 30 | [Pon De Replay](https://open.spotify.com/track/6G7r3yTCXVl1lXmFSkzEYB) | [Ed Marquis](https://open.spotify.com/artist/6NkWxTDLl0TnlaS0J9JQT5), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [Pon De Replay](https://open.spotify.com/album/6LHoxO71UelhuYt0ylPaw1) | 4:17 |
-| 31 | [I Want More](https://open.spotify.com/track/4ZWyj5whGZ3nNLwOtOLrMt) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [I Want More](https://open.spotify.com/album/5QbPK8Zabj8ynFuJ6IbK0r) | 2:09 |
-| 32 | [Baianá](https://open.spotify.com/track/17B9XlyyYDKkTmPay4z02V) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/30uB4Apy4yJgDSfE7xyA6n) | 3:00 |
+| 31 | [Baianá](https://open.spotify.com/track/17B9XlyyYDKkTmPay4z02V) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/30uB4Apy4yJgDSfE7xyA6n) | 3:00 |
+| 32 | [I Want More](https://open.spotify.com/track/4ZWyj5whGZ3nNLwOtOLrMt) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [I Want More](https://open.spotify.com/album/5QbPK8Zabj8ynFuJ6IbK0r) | 2:09 |
 | 33 | [Body on Fire](https://open.spotify.com/track/44ufS0CWp8uO4ILi3vpinQ) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33), [NOËP](https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp) | [Body on Fire](https://open.spotify.com/album/4sK64oC4oTFy2tCA18ktl9) | 2:39 |
 | 34 | [Tears In Ibiza \(feat\. AR/CO\)](https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Tears In Ibiza \(feat\. AR/CO\)](https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg) | 2:23 |
 | 35 | [Live Without Love](https://open.spotify.com/track/4V1SO4C2wG9bTq6Cp7yYyA) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Live Without Love](https://open.spotify.com/album/2Win77LZ47jEOcVu6HcMhX) | 3:10 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 42 | [Everywhere](https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Everywhere](https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq) | 2:46 |
 | 43 | [Adore](https://open.spotify.com/track/0oBUOlD8XPyRNmVOqkv7QA) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Adore](https://open.spotify.com/album/2YNKQr2HhFMF6qLUu3JQUJ) | 3:29 |
 | 44 | [Now or Never](https://open.spotify.com/track/6nNXTSvVO6ue9Ywshh4PZ4) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Now or Never](https://open.spotify.com/album/0wXhfqZywLaSc3EHaA5kWt) | 3:02 |
-| 45 | [Daydreamer](https://open.spotify.com/track/3660k2kZKOFOFS8Cv6DkJy) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Daydreamer](https://open.spotify.com/album/6B9sxNotNmncxGEPcFzjrF) | 2:40 |
-| 46 | [Saturday Morning](https://open.spotify.com/track/24IEGudSMPFjk1U7klc4zp) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Saturday Morning](https://open.spotify.com/album/4ATp8hoJal8KklLDp96Jcu) | 2:40 |
+| 45 | [Saturday Morning](https://open.spotify.com/track/24IEGudSMPFjk1U7klc4zp) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Saturday Morning](https://open.spotify.com/album/4ATp8hoJal8KklLDp96Jcu) | 2:40 |
+| 46 | [Daydreamer](https://open.spotify.com/track/3660k2kZKOFOFS8Cv6DkJy) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Daydreamer](https://open.spotify.com/album/6B9sxNotNmncxGEPcFzjrF) | 2:40 |
 | 47 | [I Go Dancing \(feat\. Ella Henderson\)](https://open.spotify.com/track/2mPyJgKE7vSpUoFXJps8z3) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [I Go Dancing \(feat\. Ella Henderson\)](https://open.spotify.com/album/2TSrZnrtY7zFQ5HFcKnpG6) | 2:42 |
 | 48 | [Time After Time](https://open.spotify.com/track/3hEPKX4FgfYPhBjSw1Nejq) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi) | [Time After Time](https://open.spotify.com/album/5UIrl1EOp7KzqxtfAiwxmZ) | 2:41 |
 | 49 | [Take Me Back](https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Take Me Back](https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI) | 2:09 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 59 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 |
 | 60 | [Moonlight](https://open.spotify.com/track/3BXXFBcWJW3su1sodrywxL) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [Moonlight](https://open.spotify.com/album/68u0ZhWzY2lw8Jj1rerGxY) | 2:07 |
 
-Snapshot ID: `MCwwZGI3MTc5YTdhNjEzYmQ0YzJiNDFmMDNjMzRlMjk5MTY5ZjM4MDQ4`
+Snapshot ID: `MCxkMTM5ZDBiZDVmNzY1YjAxZWIwZDMwMjRlODVjMThhYzVhNDQyMWRm`

@@ -547,6 +547,24 @@
     },
     {
       "album": {
+        "name": "Adikts",
+        "url": "https://open.spotify.com/album/29pEqr9x4I74wLGUPDq68i"
+      },
+      "artists": [
+        {
+          "name": "STEIN27",
+          "url": "https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162206,
+      "name": "Adikts",
+      "url": "https://open.spotify.com/track/6o4cDECLikccxhiW4401fN"
+    },
+    {
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ"
       },
@@ -6902,7 +6920,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
@@ -21840,7 +21858,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -21966,7 +21984,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 174666,
       "name": "S\u00edla Starejch V\u00edn",
       "url": "https://open.spotify.com/track/6qgMr9LacgnihY9IdYriMP"

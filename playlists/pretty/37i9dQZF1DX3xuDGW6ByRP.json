@@ -1,12 +1,12 @@
 {
   "description": "as novas de pop rock br / Foto: TINN",
-  "num_followers": 47340,
+  "num_followers": 47352,
   "original_name": "rockers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWQzYThjNThjNDMyN2NmN2E3MDIxNjE4NzMzZTA4NGFiMGZkZDc2",
+  "snapshot_id": "MCxmZjVjZmViODg5M2ZkNGI5NjkyYzI4NDU4YmQzZmM2NWRiMjk0ZDA4",
   "tracks": [
     {
       "added_at": "2024-01-05 14:33:05",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-01-05 14:33:05",
       "album": {
-        "name": "Eu Nunca Fui Embora",
-        "url": "https://open.spotify.com/album/3waAqG5OQMuzBRZgGYG82h"
-      },
-      "artists": [
-        {
-          "name": "Fresno",
-          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
-        }
-      ],
-      "duration_ms": 185337,
-      "name": "Eu Nunca Fui Embora",
-      "url": "https://open.spotify.com/track/14CmAgvaO309e1erSWnRsJ"
-    },
-    {
-      "added_at": "2024-01-05 14:33:05",
-      "album": {
         "name": "tired of california",
         "url": "https://open.spotify.com/album/3PQnyFFBb15Po24KfIDO8Q"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 190800,
       "name": "tired of california",
       "url": "https://open.spotify.com/track/02xRKYZ1jY4B6utPa59qSf"
+    },
+    {
+      "added_at": "2024-01-05 14:33:05",
+      "album": {
+        "name": "Eu Nunca Fui Embora",
+        "url": "https://open.spotify.com/album/3waAqG5OQMuzBRZgGYG82h"
+      },
+      "artists": [
+        {
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+        }
+      ],
+      "duration_ms": 185337,
+      "name": "Eu Nunca Fui Embora",
+      "url": "https://open.spotify.com/track/14CmAgvaO309e1erSWnRsJ"
     },
     {
       "added_at": "2024-01-05 14:33:05",
@@ -703,18 +703,18 @@
     {
       "added_at": "2024-01-05 14:33:05",
       "album": {
-        "name": "Obscuro",
-        "url": "https://open.spotify.com/album/5Aj7XX2oSqwb5ZrxrntSb6"
+        "name": "O Amor Machuca Demais",
+        "url": "https://open.spotify.com/album/2FVmfh4CBS9MnwDaXvBCwB"
       },
       "artists": [
         {
-          "name": "Scalene",
-          "url": "https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z"
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
-      "duration_ms": 218161,
-      "name": "Obscuro",
-      "url": "https://open.spotify.com/track/2Rh1qXTvyZ6u00yVS1kzhS"
+      "duration_ms": 188638,
+      "name": "O Amor Machuca Demais",
+      "url": "https://open.spotify.com/track/1b6M0tk69Qrcz8lxHpU82U"
     },
     {
       "added_at": "2024-01-05 14:33:05",
@@ -735,18 +735,18 @@
     {
       "added_at": "2024-01-05 14:33:05",
       "album": {
-        "name": "O Amor Machuca Demais",
-        "url": "https://open.spotify.com/album/2FVmfh4CBS9MnwDaXvBCwB"
+        "name": "Obscuro",
+        "url": "https://open.spotify.com/album/5Aj7XX2oSqwb5ZrxrntSb6"
       },
       "artists": [
         {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+          "name": "Scalene",
+          "url": "https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z"
         }
       ],
-      "duration_ms": 188638,
-      "name": "O Amor Machuca Demais",
-      "url": "https://open.spotify.com/track/1b6M0tk69Qrcz8lxHpU82U"
+      "duration_ms": 218161,
+      "name": "Obscuro",
+      "url": "https://open.spotify.com/track/2Rh1qXTvyZ6u00yVS1kzhS"
     },
     {
       "added_at": "2024-01-05 14:33:05",

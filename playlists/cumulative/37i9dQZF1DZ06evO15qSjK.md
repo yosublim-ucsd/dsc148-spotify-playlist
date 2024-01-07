@@ -4,7 +4,7 @@
 
 > This is Kidz Bop Kids\. The essential tracks, all in one playlist.
 
-87 songs - 4 hr 18 min
+88 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,15 +15,16 @@
 | [Avenir](https://open.spotify.com/track/68fAJJmNwY2wKnCkIgxaa0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Avenir](https://open.spotify.com/album/0TlmXtDrdGgkynRQeRtwHO) | 3:03 | 2023-12-13 |  |
 | [Bam Bam](https://open.spotify.com/track/1kqu1lWNTNmwrRt8amTRSW) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Super POP!](https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK) | 3:15 | 2023-02-16 | 2023-11-11 |
 | [Bang!](https://open.spotify.com/track/3lbzNC9c0ZAqwaZ4Yo5B6c) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 2:52 | 2023-02-16 |  |
+| [Barbie World](https://open.spotify.com/track/3tO8Tj8dbfpd401DzL4HT9) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Barbie World](https://open.spotify.com/album/2MSzOTzLqtYz0gWpWmCSty) | 1:50 | 2024-01-06 |  |
 | [Blinding Lights](https://open.spotify.com/track/02nMYbIiYIzaFA3D3Bkn6W) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:59 | 2023-02-16 |  |
 | [Boy’s a liar](https://open.spotify.com/track/77dqc8jtCbVyyxiEX5yzY2) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Boy’s a liar](https://open.spotify.com/album/6qLtJJ9Al14QF9xzsWZX7d) | 1:58 | 2023-05-13 | 2023-07-01 |
-| [Breaking your heart](https://open.spotify.com/track/4ABq3xc8c9sItkz3JAMm3j) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Breaking your heart](https://open.spotify.com/album/080NLw2dGXAC27N7czuzoP) | 2:51 | 2023-12-13 |  |
+| [Breaking your heart](https://open.spotify.com/track/4ABq3xc8c9sItkz3JAMm3j) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Breaking your heart](https://open.spotify.com/album/080NLw2dGXAC27N7czuzoP) | 2:51 | 2023-12-13 | 2024-01-07 |
 | [Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/6kvCKoOvicKyHQcMHfQ8QR) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/13n3AxGkZNijBNPegBW75F) | 3:36 | 2023-04-29 | 2023-06-21 |
 | [Cake By The Ocean](https://open.spotify.com/track/1MbhZs4ycL1imDEq0Y0iJJ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 32](https://open.spotify.com/album/0qGfgCfiUYTLhrkF1iDR50) | 3:24 | 2023-02-16 | 2023-07-22 |
 | [Calm Down](https://open.spotify.com/track/5nKEawTv65Yi7G9EAZogoN) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Calm Down](https://open.spotify.com/album/25t7e9EsGtXiX2Q6Xp7KgP) | 3:39 | 2023-12-23 |  |
 | [Celestial](https://open.spotify.com/track/35vySABUNPY1XydF1PTAXp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Celestial](https://open.spotify.com/album/3rWTQxjBSROK4CmqSINoXb) | 3:30 | 2023-05-06 | 2023-10-02 |
 | [Cheerleader](https://open.spotify.com/track/3GBrT6nOYfVwjz5NfR5EPW) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 30](https://open.spotify.com/album/3eWdhUgp0xkZ9oAAHr4fvs) | 2:37 | 2023-02-16 | 2023-07-16 |
-| [Cold Heart](https://open.spotify.com/track/4MuYqqmUdc2i21E0hCLFvg) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Super POP!](https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK) | 3:24 | 2023-02-16 |  |
+| [Cold Heart](https://open.spotify.com/track/4MuYqqmUdc2i21E0hCLFvg) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Super POP!](https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK) | 3:24 | 2023-02-16 | 2024-01-07 |
 | [Cruel Summer](https://open.spotify.com/track/3OzTpTqr9pu1DCrH0vcmoF) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Cruel Summer](https://open.spotify.com/album/1f7vGoiV8q3dL7m5bvHOep) | 2:58 | 2023-08-13 |  |
 | [Cupid](https://open.spotify.com/track/4I88Qa7TIAUyaSqzyYeMNT) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Cupid](https://open.spotify.com/album/2Axtzhd5r3gMzLBC1rLMwv) | 2:44 | 2023-08-19 |  |
 | [Dance Monkey](https://open.spotify.com/track/6iCX17mrswsT0QgOclgqy3) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Party Playlist!](https://open.spotify.com/album/16RDmf5uQgqZ7GgEA1nyK9) | 3:20 | 2023-02-16 |  |
@@ -71,7 +72,7 @@
 | [Rain On Me](https://open.spotify.com/track/2GcdfWGil49CTVzkOuvoNa) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Rain On Me](https://open.spotify.com/album/3o7jSgGFBcmCDAB9Fh5UfV) | 3:04 | 2023-02-16 |  |
 | [River](https://open.spotify.com/track/1m0vPnAzNz0gd6MiLOjLVG) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [River](https://open.spotify.com/album/7JV46o6s51WCsRann6S6MR) | 2:43 | 2023-06-17 | 2023-11-11 |
 | [Running Up That Hill](https://open.spotify.com/track/0hjkyfTOQQFxyRwaG3iyaU) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 3:36 | 2023-02-16 |  |
-| [Savage Love](https://open.spotify.com/track/5NZcKD2lKDVZiCFADvAyfh) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:50 | 2023-02-16 | 2024-01-06 |
+| [Savage Love](https://open.spotify.com/track/5NZcKD2lKDVZiCFADvAyfh) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:50 | 2023-02-16 |  |
 | [Say So](https://open.spotify.com/track/3g3hE3WICIm03TSO4AUxfZ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Say So](https://open.spotify.com/album/2SMukJD6ePiMxdKTe6ZoPf) | 3:07 | 2023-02-16 | 2023-09-06 |
 | [Señorita](https://open.spotify.com/track/0rzOBbw7Zg4yyN22wwJzvJ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 40](https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ) | 2:49 | 2023-02-16 |  |
 | [Shake It Off](https://open.spotify.com/track/3NODaFePbYJpp5VAY1ipYp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 27](https://open.spotify.com/album/0hOfYUluBZkHPmTGkcLJuO) | 3:28 | 2023-02-16 |  |

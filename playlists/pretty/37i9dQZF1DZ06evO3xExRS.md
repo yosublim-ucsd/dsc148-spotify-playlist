@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xExRS.md) - [plain]
 
 > This is Hombres G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,596 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,653 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xExRS.md) - [plain]
 | 23 | [Tu Cárcel \(En Vivo\)](https://open.spotify.com/track/2JrRZqY5NoEVvkRgwz3TRO) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 4:18 |
 | 24 | [Devuélveme a mi chica \- 2015 Remaster](https://open.spotify.com/track/1fAnXKGZR1iRAS9GAfkbIs) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [30 años y un día](https://open.spotify.com/album/2gCKmsAG21Prjee7ooKE4p) | 3:13 |
 | 25 | [En mi coche](https://open.spotify.com/track/2J4GESip4F72CDrrGQksJp) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Estamos Locos..\. O Que?](https://open.spotify.com/album/3NFqaD3XmQPjEPJUdXR1re) | 4:02 |
-| 26 | [Vuelve a mí](https://open.spotify.com/track/7Lsl2OfRZGXUNMtLn5aXgT) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 3:19 |
-| 27 | [En la playa](https://open.spotify.com/track/1wOsSDOOXIx01XstsQXxp2) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 4:09 |
+| 26 | [En la playa](https://open.spotify.com/track/1wOsSDOOXIx01XstsQXxp2) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 4:09 |
+| 27 | [Vuelve a mí](https://open.spotify.com/track/7Lsl2OfRZGXUNMtLn5aXgT) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 3:19 |
 | 28 | [Mariposas \(En Vivo\)](https://open.spotify.com/track/7vDsHQklTOmEgDyMb1C81K) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 3:45 |
 | 29 | [Te necesito](https://open.spotify.com/track/57HCT9SJ58ZK3JpeQMrdvn) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 4:06 |
-| 30 | [Hace un año](https://open.spotify.com/track/1IGF8i4TR7VsVFsvcTZUB2) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 4:03 |
-| 31 | [¿Qué te he hecho yo?](https://open.spotify.com/track/1ZKYyqCoI6NnQ6bfr3ydKQ) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Estamos Locos..\. O Que?](https://open.spotify.com/album/3NFqaD3XmQPjEPJUdXR1re) | 2:31 |
+| 30 | [¿Qué te he hecho yo?](https://open.spotify.com/track/1ZKYyqCoI6NnQ6bfr3ydKQ) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Estamos Locos..\. O Que?](https://open.spotify.com/album/3NFqaD3XmQPjEPJUdXR1re) | 2:31 |
+| 31 | [Hace un año](https://open.spotify.com/track/1IGF8i4TR7VsVFsvcTZUB2) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 4:03 |
 | 32 | [La Muralla Verde \(En Vivo\)](https://open.spotify.com/track/20M5B3RNyJlmI7zOhb5iv4) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 3:56 |
 | 33 | [Por que no ser amigos \(feat\. Dani Martín\)](https://open.spotify.com/track/49bjeL6wU0pqGUUXMJpDQP) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Todo esto es muy extraño](https://open.spotify.com/album/0Gmyt4UXxwIgselvhsT3n5) | 3:18 |
 | 34 | [Tengo una chica](https://open.spotify.com/track/2ryq4M0wF5EqpGbxLTbHYM) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Agitar Antes De Usar](https://open.spotify.com/album/7BL0aE8DBJvu0D3u4LUBJR) | 3:52 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xExRS.md) - [plain]
 | 42 | [Sin ti](https://open.spotify.com/track/6NBtgQb9zeJZYoGXmEYLtc) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 4:43 |
 | 43 | [Se Me Sale El Corazón \(feat\. Carlos Rivera\)](https://open.spotify.com/track/09CJ7Ce51uMqYhAbNibJuo) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [La Esquina de Rowland](https://open.spotify.com/album/1FE8pGBD3kW5jRGspwmCku) | 3:44 |
 | 44 | [Te Vi \(with Albert Hammond\)](https://open.spotify.com/track/1CnYkECrVRHHfguk01Zn07) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [En La Playa](https://open.spotify.com/album/0oGCqVHaevPFm5mzgTsUsL) | 3:45 |
-| 45 | [Será esta noche](https://open.spotify.com/track/6iN3XJ7aUUlAlukIH8ymR5) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Agitar Antes De Usar](https://open.spotify.com/album/7BL0aE8DBJvu0D3u4LUBJR) | 4:07 |
-| 46 | [Mis amigos](https://open.spotify.com/track/4wR6BFCeMHtQUlVh7gshuR) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Estamos Locos..\. O Que?](https://open.spotify.com/album/3NFqaD3XmQPjEPJUdXR1re) | 4:30 |
+| 45 | [Mis amigos](https://open.spotify.com/track/4wR6BFCeMHtQUlVh7gshuR) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Estamos Locos..\. O Que?](https://open.spotify.com/album/3NFqaD3XmQPjEPJUdXR1re) | 4:30 |
+| 46 | [Será esta noche](https://open.spotify.com/track/6iN3XJ7aUUlAlukIH8ymR5) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Agitar Antes De Usar](https://open.spotify.com/album/7BL0aE8DBJvu0D3u4LUBJR) | 4:07 |
 | 47 | [No te escaparás \- Remaster 2015](https://open.spotify.com/track/6NWuX9wdArxoTN2xE7nhUt) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [30 años y un día](https://open.spotify.com/album/2gCKmsAG21Prjee7ooKE4p) | 3:13 |
 | 48 | [La esquina de Rowland](https://open.spotify.com/track/6MEtlpTuzFJQfa8DvZ6N4V) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Esquina de Rowland](https://open.spotify.com/album/1FE8pGBD3kW5jRGspwmCku) | 3:45 |
 | 49 | [Amos del Piano Bar \(feat\. Hombres G\)](https://open.spotify.com/track/68xGtXidF9kdGOoKc5R4yd) | [Taburete](https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT), [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Tres Tequilas & Un Mezcal](https://open.spotify.com/album/1UmFGyH0WblA5bxEn9A92E) | 3:16 |
 | 50 | [Y cayó la bomba \- Fetida](https://open.spotify.com/track/4VAjay4fzvm5usaLLHhmSD) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Estamos Locos..\. O Que?](https://open.spotify.com/album/3NFqaD3XmQPjEPJUdXR1re) | 3:54 |
 
-Snapshot ID: `Mjg0MDc3MDMsMDAwMDAwMDBiM2JkMTk1MTZhN2FiNTRjNGQ1OTg5MmRmYThlMjA4ZQ==`
+Snapshot ID: `Mjg0MDkwNTYsMDAwMDAwMDBmZmI3MDQwMjNkMWFhZjI2MzEzODFkYjc5MTEzNTQ1Yw==`

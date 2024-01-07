@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,708 likes - 65 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,805 likes - 65 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 6 | [Feelin' Alright](https://open.spotify.com/track/0Jl5bIEve3A4axcjY3EgDZ) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [With A Little Help From My Friends](https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw) | 4:10 |
 | 7 | [House Of The Rising Sun](https://open.spotify.com/track/61Q9oJNd9hJQFhSDh6Qlap) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The Best Of The Animals](https://open.spotify.com/album/0h5qS8o0dAoPfj6bLg3z3Y) | 4:29 |
 | 8 | [Black Magic Woman \- 2018 Master](https://open.spotify.com/track/6y5eBHh57iYViDkK4Hn6R7) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Pious Bird of Good Omen](https://open.spotify.com/album/2KOI69X6VG66offffHQvjg) | 2:52 |
-| 9 | [Strange Brew](https://open.spotify.com/track/3ET8TZWF5sP4SPfJK1lKun) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears](https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY) | 2:46 |
-| 10 | [All Your Love](https://open.spotify.com/track/1tPZlhOHo1GOZRrJR3hGOx) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [Blues Breakers](https://open.spotify.com/album/3W45Tazulh4zb48uL1RV8H) | 3:36 |
+| 9 | [All Your Love](https://open.spotify.com/track/1tPZlhOHo1GOZRrJR3hGOx) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [Blues Breakers](https://open.spotify.com/album/3W45Tazulh4zb48uL1RV8H) | 3:36 |
+| 10 | [Strange Brew](https://open.spotify.com/track/3ET8TZWF5sP4SPfJK1lKun) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears](https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY) | 2:46 |
 | 11 | [I'm A Mover](https://open.spotify.com/track/00m7k9KGQMFNrc07N4Xtzx) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Tons Of Sobs](https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9) | 2:58 |
 | 12 | [Who's That](https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:40 |
 | 13 | [A Fool No More](https://open.spotify.com/track/4h5r5YL1QXFiblkRUtTXCb) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [In the Skies](https://open.spotify.com/album/6t9AXiAHR0S6BFKzVYNTQB) | 7:44 |
@@ -67,11 +67,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 57 | [Don't Ask Me What I Say](https://open.spotify.com/track/1e2XkpfWp7u0QCCoh5doUo) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Down the Road Apiece \- the Recordings 1963\-1966](https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT) | 3:01 |
 | 58 | [Shapes of Things](https://open.spotify.com/track/1nzeJt0HBGX3SjLXVDGc0o) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Truth](https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE) | 3:17 |
 | 59 | [What's It Gonna Be](https://open.spotify.com/track/0VG3aWRkTce1pcPLkjoFRd) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [What's It Gonna Be](https://open.spotify.com/album/3Kli0Sl1FQROgD5ZRV3eFv) | 4:16 |
-| 60 | [Days Like This](https://open.spotify.com/track/3mMtsmooHmJo6Ciiwo6oPv) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [02:10 The Early Years](https://open.spotify.com/album/1PWmGi9UjaHpHi2p8TBQh9) | 8:15 |
-| 61 | [My Heart Beat Like a Hammer \- Take 2](https://open.spotify.com/track/6miLmB0XTcmTqGFoz3gWAA) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 3:32 |
-| 62 | [Desperation \(Stereo Version\)](https://open.spotify.com/track/1wgPsruWiUSxgeFel6L7t5) | [Humble Pie](https://open.spotify.com/artist/2CxLP749mup3ncPrXgCnvU) | [As Safe As Yesterday Is](https://open.spotify.com/album/43KR0GXJQQ7uBwTdga0QLw) | 6:27 |
+| 60 | [Desperation \(Stereo Version\)](https://open.spotify.com/track/1wgPsruWiUSxgeFel6L7t5) | [Humble Pie](https://open.spotify.com/artist/2CxLP749mup3ncPrXgCnvU) | [As Safe As Yesterday Is](https://open.spotify.com/album/43KR0GXJQQ7uBwTdga0QLw) | 6:27 |
+| 61 | [Days Like This](https://open.spotify.com/track/3mMtsmooHmJo6Ciiwo6oPv) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [02:10 The Early Years](https://open.spotify.com/album/1PWmGi9UjaHpHi2p8TBQh9) | 8:15 |
+| 62 | [My Heart Beat Like a Hammer \- Take 2](https://open.spotify.com/track/6miLmB0XTcmTqGFoz3gWAA) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 3:32 |
 | 63 | [Highway \(Killing Me\) \- 2016 Remaster](https://open.spotify.com/track/26lMoZvdVmBdAribSN7RLL) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Foghat \(2016 Remaster\)](https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ) | 3:50 |
 | 64 | [Jo Ann](https://open.spotify.com/track/2fsmlot7lUJuNMt3AIcSys) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA) | [Them](https://open.spotify.com/album/5woWYPtFL1yreRRqKEGUyQ) | 2:55 |
 | 65 | [If You See Him](https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3) | [Kyla Brox](https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42) | [Throw Away Your Blues](https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe) | 4:58 |
 
-Snapshot ID: `MCxmNDUwYzgxNGU0OTk2M2QzODdkYmE2ZDQyMWNkNWJlYWVkNmIxNDA0`
+Snapshot ID: `MCwwNTJlZmQ5ZWQ5YmEyYTA1YjRiNzlhYjVhNGQwZTMzOTI3ODgzZWI2`

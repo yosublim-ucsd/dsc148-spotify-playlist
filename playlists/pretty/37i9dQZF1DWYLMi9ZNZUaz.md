@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy của rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,498 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,593 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Đánh Đổi \(ft\. RPT MCK\)](https://open.spotify.com/track/2doGmsaPLdot51o80juiYU) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [Đánh Đổi](https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI) | 3:46 |
 | 2 | [Anh Đã Ổn Hơn](https://open.spotify.com/track/3YctJXK6kznnWl68TnYobN) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 3:14 |
-| 3 | [Don't Côi](https://open.spotify.com/track/3ukrFH17Zl6iEZ2QJ1Zwiy) | [RPT Orijinn](https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l), [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Don't Côi](https://open.spotify.com/album/2gaxwzgOYY6DxVicv6EGkC) | 2:28 |
-| 4 | [Buồn Hay Vui](https://open.spotify.com/track/1khMN4Adfi3LrZvxOq4YM5) | [Boyzed](https://open.spotify.com/artist/1JPTuJJ7KzpwcDCOWkEjUb), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [VSOUL](https://open.spotify.com/artist/22MX8BG5870DGzpNricY7q), [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Buồn Hay Vui](https://open.spotify.com/album/5G6By1MBIwE0P4ixJ06x1M) | 4:51 |
+| 3 | [Buồn Hay Vui \(feat\. RPT MCK, Obito, Ronboogz & Boyzed\)](https://open.spotify.com/track/1khMN4Adfi3LrZvxOq4YM5) | [VSOUL](https://open.spotify.com/artist/22MX8BG5870DGzpNricY7q), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e), [Boyzed](https://open.spotify.com/artist/1JPTuJJ7KzpwcDCOWkEjUb) | [Buồn Hay Vui \(feat\. RPT MCK, Obito, Ronboogz & Boyzed\)](https://open.spotify.com/album/5G6By1MBIwE0P4ixJ06x1M) | 4:51 |
+| 4 | [Don't Côi](https://open.spotify.com/track/3ukrFH17Zl6iEZ2QJ1Zwiy) | [RPT Orijinn](https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l), [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Don't Côi](https://open.spotify.com/album/2gaxwzgOYY6DxVicv6EGkC) | 2:28 |
 | 5 | [Chịu Cách Mình Nói Thua](https://open.spotify.com/track/3ZbZtdEw9U0uZW4tZItIwq) | [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi), [BAN](https://open.spotify.com/artist/0CO1IZAPmgTbkfXvcRCLsL) | [Chịu Cách Mình Nói Thua](https://open.spotify.com/album/6H01GjpEb6taXvwiqEzpFy) | 3:01 |
 | 6 | [Nụ hôn Bisou](https://open.spotify.com/track/4TMdpMJNQdcawl8JjZEwLk) | [Mikelodic](https://open.spotify.com/artist/39HlpQmjGAer2XWNh0Ro83) | [Nụ hôn Bisou](https://open.spotify.com/album/1oMX4OfwGJgQj7KCBETcll) | 2:36 |
 | 7 | [Anh Luôn Như Vậy](https://open.spotify.com/track/3CyGK8BeJ5iCunpzvHyINs) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9) | [Anh Luôn Như Vậy](https://open.spotify.com/album/7ev0TaSrDUDTgSeEVmYi2F) | 3:32 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 46 | [Blue Tequila](https://open.spotify.com/track/4MRXbWH2BzuUZcoabj6HRh) | [Táo](https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S) | [Blue Tequila](https://open.spotify.com/album/5ULNoQyv8SWz0qA8zz0AKU) | 3:22 |
 | 47 | [Nhạc Trap Căng Nhất 2023](https://open.spotify.com/track/2aRg0cOGQ5k0rs3AK5nJPD) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [RPT JasonDilla](https://open.spotify.com/artist/2UHHfc0InrWSmUkiuss6f4), [24k.Right](https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0) | [420ent.](https://open.spotify.com/album/7IP9ElXmlMp3U8fbFUpkKV) | 3:33 |
 | 48 | [Anh Chưa Biết Em](https://open.spotify.com/track/0U9TFIiCYcOqULZ2dYJcmu) | [Liu Grace](https://open.spotify.com/artist/5DTQVDm1qjLUoAGC8v85c3) | [Anh Chưa Biết Em](https://open.spotify.com/album/3AtUCcrqH1LnCRjkixPcKQ) | 2:58 |
-| 49 | [Đầu Đường Xó Chợ \(ft\. Lăng LD\)](https://open.spotify.com/track/2nFXaYb2fWOoUJXMPb6y4C) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [Lăng LD](https://open.spotify.com/artist/0EOMdQwzUG6CKh9oWvcANr) | [Đánh Đổi](https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI) | 3:04 |
-| 50 | [Nấu ăn cho em](https://open.spotify.com/track/7td8DTWoGC9u9db37mGHX6) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [PiaLinh](https://open.spotify.com/artist/5Xn0cJrrcslCWCzPXNTy54) | [Nấu ăn cho em](https://open.spotify.com/album/60IOXhvNwkVcXPs25OKv5t) | 4:01 |
+| 49 | [Nấu ăn cho em](https://open.spotify.com/track/7td8DTWoGC9u9db37mGHX6) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [PiaLinh](https://open.spotify.com/artist/5Xn0cJrrcslCWCzPXNTy54) | [Nấu ăn cho em](https://open.spotify.com/album/60IOXhvNwkVcXPs25OKv5t) | 4:01 |
+| 50 | [Đầu Đường Xó Chợ \(ft\. Lăng LD\)](https://open.spotify.com/track/2nFXaYb2fWOoUJXMPb6y4C) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [Lăng LD](https://open.spotify.com/artist/0EOMdQwzUG6CKh9oWvcANr) | [Đánh Đổi](https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI) | 3:04 |
 
-Snapshot ID: `MCxjZTcwZDc0ZGFhMWFlNTEwZWY5NTJjODVkZjJlODhhNjQyMDQ4YjBi`
+Snapshot ID: `MCwyY2E4ZTExZjQwNDY5ZjFhM2ZjYTJkYWM1N2Q0ZTNkNTIzNTllN2E5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 
 > Para subir la temperatura\. Foto: Lebrón Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,319 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,408 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 | 40 | [Señora Ley](https://open.spotify.com/track/5DtgZDktHvgUPW6tfOWXm8) | [Conjunto Clásico](https://open.spotify.com/artist/2T1yhT2K3iSI8vwAdOS9O0), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Ray Castro Presenta...Lo Mejor De Conjunto Clasico Con Tito Nieves](https://open.spotify.com/album/778A8QJMXVPaCnGwOlAK3y) | 4:12 |
 | 41 | [Tu Loco Loco Y Yo Tranquilo](https://open.spotify.com/track/41mW3afagMuz7pn3IkpWdm) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/album/3Y3cbnD9PJnWOWodxnxENU) | 3:19 |
 | 42 | [Lejos De Ti](https://open.spotify.com/track/2F13ZZuJ1EQnWhdvBpsvpD) | [Angel Canales](https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB) | [Sabor](https://open.spotify.com/album/4sJYlpxdpG1nnResKUbAKD) | 4:15 |
-| 43 | [Sonido Bestial](https://open.spotify.com/track/3ouNYFFQeYMJXjqGK0S1hM) | [Richie Ray & Bobby Cruz](https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq) | [A Lifetime of Hits..\. \(Live At Centro de Bellas Artes, San Juan, Puerto Rico.\)](https://open.spotify.com/album/0u75f0pYJy2cGHNiikXGlz) | 9:58 |
-| 44 | [Acuyuye](https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Pacheco Y Su Charanga Vol\. 3: Que Suene La Flauta](https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy) | 2:33 |
+| 43 | [Acuyuye](https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Pacheco Y Su Charanga Vol\. 3: Que Suene La Flauta](https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy) | 2:33 |
+| 44 | [Sonido Bestial](https://open.spotify.com/track/3ouNYFFQeYMJXjqGK0S1hM) | [Richie Ray & Bobby Cruz](https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq) | [A Lifetime of Hits..\. \(Live At Centro de Bellas Artes, San Juan, Puerto Rico.\)](https://open.spotify.com/album/0u75f0pYJy2cGHNiikXGlz) | 9:58 |
 | 45 | [Ligia Elena](https://open.spotify.com/track/38UKG3bIB4gT3EzQqE3eEm) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Canciones Del Solar De Los Aburridos](https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs) | 6:04 |
 | 46 | [Acid](https://open.spotify.com/track/4J4S8Fm2BJt59zPWygsbpr) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Acid](https://open.spotify.com/album/0RpE6Nz3Cyb7gx2CpC5dJn) | 5:07 |
 | 47 | [Soy El Rey](https://open.spotify.com/track/0TGLRGD4ZRp6sM5jy8EOjR) | [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [I Like It Like That](https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 | 49 | [Salsa Y Control](https://open.spotify.com/track/4y6QWwI8lqYYemjYK1PCPc) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Salsa Y Control](https://open.spotify.com/album/539af69eELgsPBWn4ZwK8I) | 3:47 |
 | 50 | [Guaguancó Del Adios](https://open.spotify.com/track/0KPajt76dlg67yRg1RlDvC) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [El Progreso](https://open.spotify.com/album/1aWWLbbcL2NK8V3sqWtAZn) | 6:07 |
 
-Snapshot ID: `MCw5OTM2ZDc3NTYxZTA2NjhjMWRmYmRiMDc2ODUyMzU2OTcxNzQ1MzYy`
+Snapshot ID: `MCxiMTc1NDI1ZTdiMmY0ZTEyZTJiMzU2ZDhjYzlhYjg5MjE2MTE5NTE3`

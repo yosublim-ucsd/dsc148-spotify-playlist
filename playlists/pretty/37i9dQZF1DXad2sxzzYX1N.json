@@ -1,12 +1,12 @@
 {
   "description": "The indie viral hits you couldn\u2019t escape in 2023. Cover: Lana Del Rey ",
-  "num_followers": 97419,
+  "num_followers": 98591,
   "original_name": "Indie that hit different in 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDg2ODVjMzIxMzJkOTVhZDNkOGU2ZTVjNDc3ZWIzNDkwYTY1Zjhk",
+  "snapshot_id": "MCw0NjE5YjVkNjQxNzRkNWY4ZDMxOTg0ZDIzNjQ5NmZjOTY1YWI0NTk2",
   "tracks": [
     {
       "added_at": "2023-11-29 12:16:00",
@@ -517,6 +517,22 @@
       "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
     },
     {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
+    },
+    {
       "added_at": "2023-12-14 14:53:49",
       "album": {
         "name": "Treehouse",
@@ -535,22 +551,6 @@
       "duration_ms": 158801,
       "name": "Treehouse",
       "url": "https://open.spotify.com/track/7fyG2MquxykO3Ufiku1Dj2"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
-        "name": "Hell N Back",
-        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -705,6 +705,22 @@
       "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh"
     },
     {
+      "added_at": "2023-12-11 18:34:48",
+      "album": {
+        "name": "playpen",
+        "url": "https://open.spotify.com/album/7faCvxgZwemTlxkh8EORQD"
+      },
+      "artists": [
+        {
+          "name": "Juliet Ivy",
+          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
+        }
+      ],
+      "duration_ms": 151142,
+      "name": "we're all eating each other",
+      "url": "https://open.spotify.com/track/6BrfgV35h3NfTtIdMqhmFQ"
+    },
+    {
       "added_at": "2023-11-29 12:16:00",
       "album": {
         "name": "Trick",
@@ -735,22 +751,6 @@
       "duration_ms": 227426,
       "name": "Your face",
       "url": "https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH"
-    },
-    {
-      "added_at": "2023-12-11 18:34:48",
-      "album": {
-        "name": "playpen",
-        "url": "https://open.spotify.com/album/7faCvxgZwemTlxkh8EORQD"
-      },
-      "artists": [
-        {
-          "name": "Juliet Ivy",
-          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
-        }
-      ],
-      "duration_ms": 151142,
-      "name": "we're all eating each other",
-      "url": "https://open.spotify.com/track/6BrfgV35h3NfTtIdMqhmFQ"
     },
     {
       "added_at": "2023-11-29 12:16:00",

@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 326303,
+  "num_followers": 326438,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTIzYmE3OTkzNTY0OGQ3Y2ZiMjY5NjlhMWZmNmY2M2M3ZTJlMGRi",
+  "snapshot_id": "MCxiMDY0ZTk5MjI2OWI0NGI5NDkyMGMyYTViMGM5MTk3Njc5NGY0MDk1",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -27,22 +27,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Will You Be My Yellow?",
-        "url": "https://open.spotify.com/album/12nH1R4NqEtaOQ5M7RA63p"
+        "name": "Kosmos",
+        "url": "https://open.spotify.com/album/7wTZWtC5Rbu7YgNLn1GdUP"
       },
       "artists": [
         {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+          "name": "J Lloyd",
+          "url": "https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1"
         }
       ],
-      "duration_ms": 173349,
-      "name": "Stop Selling Her Drugs (feat. Dominic Fike)",
-      "url": "https://open.spotify.com/track/4uBQDAzZ881KYZvW7ZInUn"
+      "duration_ms": 61280,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/283hwD1gWItqQGJ4e2ImE8"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -67,22 +63,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Kosmos",
-        "url": "https://open.spotify.com/album/7wTZWtC5Rbu7YgNLn1GdUP"
-      },
-      "artists": [
-        {
-          "name": "J Lloyd",
-          "url": "https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1"
-        }
-      ],
-      "duration_ms": 61280,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/283hwD1gWItqQGJ4e2ImE8"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Be Your Girl (Kaytranada Edition)",
         "url": "https://open.spotify.com/album/77jeUjXkwa8D5WQYIs8eBu"
       },
@@ -99,6 +79,26 @@
       "duration_ms": 268087,
       "name": "Be Your Girl (Kaytranada Edition)",
       "url": "https://open.spotify.com/track/0NdKnpfDtqT4ejsW4H58x4"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Will You Be My Yellow?",
+        "url": "https://open.spotify.com/album/12nH1R4NqEtaOQ5M7RA63p"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 173349,
+      "name": "Stop Selling Her Drugs (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/4uBQDAzZ881KYZvW7ZInUn"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Hot In Herre",
+        "url": "https://open.spotify.com/album/3nh64W0WwLqiG8eCHBJWXW"
+      },
+      "artists": [
+        {
+          "name": "LION BABE",
+          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
+        }
+      ],
+      "duration_ms": 185786,
+      "name": "Hot In Herre",
+      "url": "https://open.spotify.com/track/6YjRsyEcSOLKYIT5MIkKYT"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Beato Classico",
         "url": "https://open.spotify.com/album/0dZhnLbdVByf9r4vAdMALB"
       },
@@ -1171,18 +1187,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Hot In Herre",
-        "url": "https://open.spotify.com/album/3nh64W0WwLqiG8eCHBJWXW"
+        "name": "Super Good Times",
+        "url": "https://open.spotify.com/album/68cDaUqXV1gBfUTikzcpwj"
       },
       "artists": [
         {
-          "name": "LION BABE",
-          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
+          "name": "Suray Sertin",
+          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
         }
       ],
-      "duration_ms": 185786,
-      "name": "Hot In Herre",
-      "url": "https://open.spotify.com/track/6YjRsyEcSOLKYIT5MIkKYT"
+      "duration_ms": 221217,
+      "name": "Super Good Times",
+      "url": "https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1203,22 +1219,6 @@
       "duration_ms": 229090,
       "name": "Big Bad Mood (feat. Miraa May)",
       "url": "https://open.spotify.com/track/3GdWGAtxFU9184mRdqfB0T"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Super Good Times",
-        "url": "https://open.spotify.com/album/68cDaUqXV1gBfUTikzcpwj"
-      },
-      "artists": [
-        {
-          "name": "Suray Sertin",
-          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
-        }
-      ],
-      "duration_ms": 221217,
-      "name": "Super Good Times",
-      "url": "https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge"
     },
     {
       "added_at": "2023-12-01 00:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,684 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,272 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 99 | [lucy & les chanteurs pour dames](https://open.spotify.com/track/1vHyrtMZ71kLl8cdUVSk5k) | [Krisy](https://open.spotify.com/artist/6RwBaA9wZC0BPWZfmGeWMo), [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [lucy & les chanteurs pour dames](https://open.spotify.com/album/7K8tMuEQrHoL1vG0bZfYYV) | 4:00 |
 | 100 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 
-Snapshot ID: `MCw5NWFhYTM4YTlmMTM4ZGIwYWJmNGVhM2RlYzlhZDJlNTlmODAzYWYx`
+Snapshot ID: `MCxmMTVkZTAzMWI4ZDQ2MzI2NzFlZjc1N2RkMDQ5M2E2NWI1ZDU0NmMz`

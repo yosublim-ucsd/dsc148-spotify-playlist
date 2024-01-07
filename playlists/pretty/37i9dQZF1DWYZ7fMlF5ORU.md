@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Eli Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,611 likes - 80 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,707 likes - 80 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 15 | [Betel \- Ao Vivo](https://open.spotify.com/track/7eFlDGti9RtnzJ9OaWybjo) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [Betel \(Ao Vivo\)](https://open.spotify.com/album/13DnNshXTWvEXoXpAeC9IE) | 4:24 |
 | 16 | [Graça](https://open.spotify.com/track/5jyS18VeWeqtF7glIT7RTy) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq) | [Sarah](https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H) | 5:33 |
 | 17 | [O Amor de Deus](https://open.spotify.com/track/5J8MT6suqzNoHktOWIor4A) | [Julio Cesar](https://open.spotify.com/artist/30KgyZbMwuRzznOnbkb8sr) | [Cuida de Mim](https://open.spotify.com/album/4HoqgnIu2CtdA9BaRLyIyY) | 5:01 |
-| 18 | [Um Pedido](https://open.spotify.com/track/3aATJedaQUNpGRqtYdDxJK) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [Um Pedido](https://open.spotify.com/album/2gnoxLvqvZlneqneuT3QUE) | 4:15 |
+| 18 | [Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio](https://open.spotify.com/track/3GlzRz4Qwsv1Yyi5gK9wJu) | [Sync 3](https://open.spotify.com/artist/6eLyI9Oody0ryRmcaeiROJ), [Ericka Nascimento](https://open.spotify.com/artist/3T7jWouy5g5iXOJH7uI0ia) | [Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio](https://open.spotify.com/album/34uPojzD7hB4Gq9wr0FRUP) | 4:03 |
 | 19 | [Dele, Com Ele](https://open.spotify.com/track/6cytlMsScIOGrHiqWSeaPX) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Dele, Com Ele](https://open.spotify.com/album/0gV7RyIBPe0RIMo5qjdqHQ) | 2:53 |
-| 20 | [Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio](https://open.spotify.com/track/3GlzRz4Qwsv1Yyi5gK9wJu) | [Sync 3](https://open.spotify.com/artist/6eLyI9Oody0ryRmcaeiROJ), [Ericka Nascimento](https://open.spotify.com/artist/3T7jWouy5g5iXOJH7uI0ia) | [Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio](https://open.spotify.com/album/34uPojzD7hB4Gq9wr0FRUP) | 4:03 |
+| 20 | [Um Pedido](https://open.spotify.com/track/3aATJedaQUNpGRqtYdDxJK) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [Um Pedido](https://open.spotify.com/album/2gnoxLvqvZlneqneuT3QUE) | 4:15 |
 | 21 | [Jeova é o Teu Cavaleiro](https://open.spotify.com/track/5VttU3A8K4TUjuyIBWUaqu) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Deus Cuida de Mim](https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae) | 3:23 |
 | 22 | [Emaús](https://open.spotify.com/track/3jeyIcmHyOYPXefSgDJSsw) | [Templo Soul](https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9) | [Emaús](https://open.spotify.com/album/4fRNHUgTEG8ptziVNewp6c) | 7:15 |
 | 23 | [Deus da Minha Vida](https://open.spotify.com/track/0JpSWEkjpNEfnmlPTYw60F) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Saudade, Vol\. 2](https://open.spotify.com/album/2Zg8Q0hCbXr56S86f1C918) | 4:45 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 63 | [Glória, Honra e Poder](https://open.spotify.com/track/3GuuK1PM4v64VFyV3LX8LH) | [Robson Nascimento](https://open.spotify.com/artist/3rd7BCaAWyKxJFKiSjlxdd) | [Falando Dele](https://open.spotify.com/album/3IxKIQIkiMvfBTQ0zzdFBq) | 5:09 |
 | 64 | [Rei das Nações](https://open.spotify.com/track/73YXZQaoyLTSUtq4IpGn6s) | [Luiz Arcanjo](https://open.spotify.com/artist/3jhaArlXRtYY9R7GJrvcZ2) | [Rei das Nações](https://open.spotify.com/album/46eO3dzrbGtGhr2HPWRCvf) | 3:41 |
 | 65 | [Celebre a Vida](https://open.spotify.com/track/0coa50eJz3TfUKpxAFtZGr) | [Bira Santos](https://open.spotify.com/artist/4ZjwX114IpBLzt2veAIZDM) | [Celebre a Vida](https://open.spotify.com/album/1x2gRCT6IBNYvW3kZF4lSf) | 4:04 |
-| 66 | [Glória](https://open.spotify.com/track/5V00qGOkpLho3QRvWM8Gyh) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Multiforme](https://open.spotify.com/album/2S1OyRDUOrbNBLCR6S1IOT) | 4:48 |
-| 67 | [Tudo Posso](https://open.spotify.com/track/4UEfjgS7wC89PGIP2XFGzP) | [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP), [Lucas Augusto](https://open.spotify.com/artist/7lpdEXRFPfDzNQbkZi3SUP) | [Tudo Posso](https://open.spotify.com/album/1Oi6eKip9Y6Y3I3fBk9TeJ) | 6:37 |
+| 66 | [Tudo Posso](https://open.spotify.com/track/4UEfjgS7wC89PGIP2XFGzP) | [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP), [Lucas Augusto](https://open.spotify.com/artist/7LSUgNEsBUVmqHBXeQQ2VR) | [Tudo Posso](https://open.spotify.com/album/1Oi6eKip9Y6Y3I3fBk9TeJ) | 6:37 |
+| 67 | [Glória](https://open.spotify.com/track/5V00qGOkpLho3QRvWM8Gyh) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Multiforme](https://open.spotify.com/album/2S1OyRDUOrbNBLCR6S1IOT) | 4:48 |
 | 68 | [Eis\-me Aqui \- Ao Vivo](https://open.spotify.com/track/3oPiwYIKTRWa0EHaqTRcQb) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH), [Cleber Ao Cubo](https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk) | [Eis\-me Aqui \(Ao Vivo\)](https://open.spotify.com/album/00q9ks8TGjmFo9ZCLygt6l) | 5:31 |
 | 69 | [Um Mover](https://open.spotify.com/track/4CPSxZXYSURvwqOvwchHNH) | [Oseas Silva](https://open.spotify.com/artist/4TgTsq9dm2YdErrB8AJHMh) | [Um Mover](https://open.spotify.com/album/6VPPd5S0byGY4056iwRVMx) | 4:40 |
 | 70 | [Profeta](https://open.spotify.com/track/3XDlh3qWr9on7q4kLRRf05) | [Robson Nascimento](https://open.spotify.com/artist/3rd7BCaAWyKxJFKiSjlxdd) | [Fortaleza Minha](https://open.spotify.com/album/0fmDzUwpVkfVmOK97YdEhC) | 4:46 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 79 | [Viver O Amor \- Ao Vivo](https://open.spotify.com/track/1jKezE2CPZGiaywCIDFlpD) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [Viver O Amor \(Ao Vivo\)](https://open.spotify.com/album/10DzETP5qOEaaDf98uuB39) | 3:50 |
 | 80 | [Todos São Iguais \- Ao Vivo](https://open.spotify.com/track/1nvQzQaL7lEOtyGz3W3jgi) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [João Alexandre](https://open.spotify.com/artist/5kgQN9xPuWYGxVzsJb86Hx) | [Todos São Iguais \(Ao Vivo\)](https://open.spotify.com/album/7ejMECw1J8l2h7vv08H1JA) | 4:16 |
 
-Snapshot ID: `MCxlYTVmMDQ5NGNkZjAzNTNkOTk4ZmM2ZDQwMmUzMWUzZWJmYTQ0OGI2`
+Snapshot ID: `MCw5OTRjZWI5NjM4NjdkYmZhYTkzMjhmNzE2OTc1MzQxNzMxNGM2MGQ1`

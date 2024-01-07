@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Judas Priest
 
-779 songs - 2 day 9 hr 43 min
+780 songs - 2 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Duality](https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:12 | 2023-10-27 |  |
 | [Dying Of The Light](https://open.spotify.com/track/3kBsOgVKo2Xy4HtgznGO0U) | [Frozen Land](https://open.spotify.com/artist/3D5YAQD9yRu8ohjM9SW948) | [Out Of The Dark](https://open.spotify.com/album/76bXuxiCtxCW0OIsGOtW2U) | 3:46 | 2023-10-06 | 2023-10-30 |
 | [Dying to Live](https://open.spotify.com/track/0W6SPZVgUEtM34xR0Ap4LI) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Blood & Stone](https://open.spotify.com/album/1IIqfOuXvkV4idBpMQPQQx) | 3:09 | 2022-07-13 | 2023-11-05 |
+| [Dying to Live](https://open.spotify.com/track/6IjwZM7myeMpb8CcZUGEv5) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Blood & Stone](https://open.spotify.com/album/12PgC7GyO8zgKeFh5PqLbH) | 3:09 | 2023-12-06 |  |
 | [Eidolon](https://open.spotify.com/track/0bCVKJmPEOP28h41Qrp77w) | [Once Human](https://open.spotify.com/artist/1VhMNOBmLqZr7E7jsVrZLQ) | [Scar Weaver](https://open.spotify.com/album/2drAFA1ZzlXkTZBg4llIb1) | 3:53 | 2022-02-11 | 2022-04-19 |
 | [Embers Fire](https://open.spotify.com/track/2FCPbojm4fFPWRZ9WWQ89x) | [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp) | [Embers Fire](https://open.spotify.com/album/6mOZFO7g6QBtBr5R8fzZZD) | 4:51 | 2023-12-06 | 2023-12-11 |
 | [Embrace The Night](https://open.spotify.com/track/4URwHwvDeDZobzIQvfV3Bb) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Winterbane \(Japan Edition\)](https://open.spotify.com/album/7959qrdIZlcH6ETwW0N5u3) | 5:04 | 2021-12-17 | 2022-07-15 |
@@ -597,7 +598,7 @@
 | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/track/720C8mWrqRdh1zYBGqLj9p) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D), [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Joe Elliott](https://open.spotify.com/artist/5Nbg0g30EwMpYD6jQ2xcfX) | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/album/1aMqVnl2zFenUsGrlYMc91) | 3:19 | 2023-01-27 |  |
 | [Spirit of Daedalus](https://open.spotify.com/track/1vTplXWSRXH8MiyLim4KVd) | [Freedom Call](https://open.spotify.com/artist/55RDuy7cQW2Dqrcz3Jjl6F) | [Spirit of Daedalus](https://open.spotify.com/album/0znEdeMc1Lg16T8ayMqb4d) | 3:49 | 2022-03-22 | 2022-05-01 |
 | [Spotlight](https://open.spotify.com/track/3e9nuswzE0ZLoihvTGuXDk) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [Spotlight](https://open.spotify.com/album/3ri2HhfbONcFi8tyZMiUMW) | 4:23 | 2023-10-27 |  |
-| [Stained in Red](https://open.spotify.com/track/5Ypnghtx7Ezzf5x16PDpDC) | [Insomnium](https://open.spotify.com/artist/3uIgLG971oRM5fe6v8lvQS) | [Songs Of The Dusk \- EP](https://open.spotify.com/album/56gvAlr6FY7iXFmF3Lx2pN) | 6:50 | 2023-12-06 |  |
+| [Stained in Red](https://open.spotify.com/track/5Ypnghtx7Ezzf5x16PDpDC) | [Insomnium](https://open.spotify.com/artist/3uIgLG971oRM5fe6v8lvQS) | [Songs Of The Dusk \- EP](https://open.spotify.com/album/56gvAlr6FY7iXFmF3Lx2pN) | 6:50 | 2023-12-06 | 2024-01-07 |
 | [Stand Up And Fight](https://open.spotify.com/track/2NupQZzmVNeDtI3aNTykH8) | [Iron Savior](https://open.spotify.com/artist/6COmyouHXwCeIGS1IFd1PA) | [Kill Or Get Killed](https://open.spotify.com/album/6pFMMYR5B72Jx3vy5qyLy1) | 4:23 | 2021-12-17 | 2022-07-17 |
 | [Stand Your Ground](https://open.spotify.com/track/1Skm0WEfM0BYgqNX75W0kA) | [Jaded Heart](https://open.spotify.com/artist/2T5aannIdmhbbNMF0Eap4u) | [Stand Your Ground](https://open.spotify.com/album/1GKUalSegMpVKpw6Ri49XU) | 4:38 | 2021-12-29 | 2022-04-14 |
 | [Starlight](https://open.spotify.com/track/63fBEvbvxbSwVOOPS9Ik4l) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa), [Ronnie Atkins](https://open.spotify.com/artist/6P9001LmAdPIqvcdDhYduM) | [Moonglow](https://open.spotify.com/album/5YjtryDPR0CWnBNRowJCiC) | 3:38 | 2022-03-22 | 2022-04-20 |

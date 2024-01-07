@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,319 likes - 68 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,322 likes - 68 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 17 | [Split in De Middle](https://open.spotify.com/track/5jorKk3TjGkG4gX44l8I4i) | [Freezy](https://open.spotify.com/artist/4suXYeRdmqURfBOpvTwViF) | [Split in De Middle](https://open.spotify.com/album/7ewwmtn3lhROcG8wvT5Zh4) | 2:19 |
 | 18 | [Monster Winer](https://open.spotify.com/track/3bZaDC1VEb1YpIpWu8ks5H) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA), [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [King Bubba Mashup Volume 1](https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2) | 2:39 |
 | 19 | [Tic It & Tac It](https://open.spotify.com/track/1Cy2yw8wrzHpi1UMK8nnL2) | [BoBo](https://open.spotify.com/artist/2ReU09e8cwWdv544qEDTDK) | [Tic It & Tac It](https://open.spotify.com/album/4ZYGqtyawJ66Dsp9C2VR3W) | 2:03 |
-| 20 | [Heaven Passport](https://open.spotify.com/track/3MEO3XzuF79wbokXOnWEJg) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Heaven Passport](https://open.spotify.com/album/2isP74vOyY08TNii3xoeaZ) | 3:07 |
-| 21 | [Dear Promoter](https://open.spotify.com/track/74F3DNzHUSrJ6sNz4YkFWe) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Dear Promoter](https://open.spotify.com/album/3fiMNWUuR76Xj38ugSEIHe) | 4:04 |
+| 20 | [Dear Promoter](https://open.spotify.com/track/74F3DNzHUSrJ6sNz4YkFWe) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Dear Promoter](https://open.spotify.com/album/3fiMNWUuR76Xj38ugSEIHe) | 4:04 |
+| 21 | [Heaven Passport](https://open.spotify.com/track/3MEO3XzuF79wbokXOnWEJg) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Heaven Passport](https://open.spotify.com/album/2isP74vOyY08TNii3xoeaZ) | 3:07 |
 | 22 | [Boss Lady \(Sign Me Up\)](https://open.spotify.com/track/6PR1VSJ3fAnZpRrgIAYgXJ) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Baila Riddim](https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS) | 2:13 |
 | 23 | [Demon Girl](https://open.spotify.com/track/6msQvyBUYXUGCTANfYFjer) | [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh) | [Demon Girl](https://open.spotify.com/album/6hpa86C5a60B5CDjAAXixD) | 3:22 |
 | 24 | [Up Top Boss](https://open.spotify.com/track/1BgnrgG2lxAdkgwei4KiF7) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Progress Riddim](https://open.spotify.com/album/085tctZjqajfyGHgkO3Y07) | 3:30 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 29 | [Fattt](https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Caution Riddim](https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte) | 3:13 |
 | 30 | [Wileside Government](https://open.spotify.com/track/0SAx46pqnF5tEzmazHw7Id) | [Jahvillani](https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK) | [Wileside Government](https://open.spotify.com/album/32atiLrIa1jY1bKgZCWTi9) | 3:22 |
 | 31 | [Stage Gone Bad](https://open.spotify.com/track/0W8TTEoiyHqvp0ENoTjfRy) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Iwer George](https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw) | [Stage Gone Bad](https://open.spotify.com/album/7u4TbngsJ9JaETb6M6wKEe) | 3:13 |
-| 32 | [Carry On](https://open.spotify.com/track/54tMRvXvmbLSeX4h33d56U) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Pop's Guitar Riddim](https://open.spotify.com/album/6uXnKJxCwFGt9oGtT4fBX2) | 3:57 |
-| 33 | [Play Harder](https://open.spotify.com/track/6Cn3zyojCFk7QsVoQrU0xe) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [The Wedding Album](https://open.spotify.com/album/2K8mWL2Bph4tETpm54zOUQ) | 3:39 |
+| 32 | [Play Harder](https://open.spotify.com/track/6Cn3zyojCFk7QsVoQrU0xe) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [The Wedding Album](https://open.spotify.com/album/2K8mWL2Bph4tETpm54zOUQ) | 3:39 |
+| 33 | [Carry On](https://open.spotify.com/track/54tMRvXvmbLSeX4h33d56U) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Pop's Guitar Riddim](https://open.spotify.com/album/6uXnKJxCwFGt9oGtT4fBX2) | 3:57 |
 | 34 | [Tick Pon Cock](https://open.spotify.com/track/0hi53rAi8089F1DnwsRroK) | [SUPA NYTRO](https://open.spotify.com/artist/63UiEB8udvGCvXX1D7VSLF), [Natz B](https://open.spotify.com/artist/6g19CjWx79OK8qiL8aceQn) | [Tick Pon Cock](https://open.spotify.com/album/3uh9i9joEPOB15yQJWNZRf) | 3:12 |
 | 35 | [Up & Up](https://open.spotify.com/track/6Lm3yZ7ZHNyHJmNlxuCrge) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x) | [Caution Riddim](https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte) | 3:09 |
 | 36 | [Nasty Up](https://open.spotify.com/track/1ZTihlaGPnfLrOXbOFyj15) | [Problem Child](https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU) | [Darkseid Riddim](https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX) | 3:34 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 67 | [The People Man \(T.P.M.\)](https://open.spotify.com/track/2xsCpoyTKtvaejdEQkLo7T) | [Kisha](https://open.spotify.com/artist/6vK1HRsfeYa8m5ejJD4RTc), [Mata](https://open.spotify.com/artist/1jo7mWxIHJtOm0TAoKL1jJ) | [Sick Jab Riddim \(Deluxe Edition\)](https://open.spotify.com/album/1T6GuTqK1HDTYmW8J8d3Nj) | 2:15 |
 | 68 | [Feeling It](https://open.spotify.com/track/62pvKYjeztdIXbOoucJQfZ) | [Swappi](https://open.spotify.com/artist/1FXS9zsrivPmCwagsuhPdJ), [Ultimate Rejects](https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA) | [Feeling It](https://open.spotify.com/album/40IyjtthaOItYrK8mcASuu) | 4:07 |
 
-Snapshot ID: `MCxjZGMyMjU1ZGE5YjdmZTQ2Y2FmZjYxNTBiZjE1MTU5MGEzZmQ4MTll`
+Snapshot ID: `MCwyYTZmYzQwZWMwNmVjMDg4MjIxYTVhNTUwMzY4Y2ZiODBlZDZiZjJk`

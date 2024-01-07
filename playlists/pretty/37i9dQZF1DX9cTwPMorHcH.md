@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 
 > Blues \- new and old \- to accompany your drive\. Cover: B.B\. King
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,217 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,260 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,21 +70,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 | 60 | [Bright Lights](https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Blak and Blu \(Deluxe Edition\)](https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv) | 5:24 |
 | 61 | [Bad Woman Blues](https://open.spotify.com/track/0rOzFVPfQiJShjum8zpfu9) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [War In My Mind](https://open.spotify.com/album/2Eo7sjkI3fKanrJY4rtena) | 3:35 |
 | 62 | [Take It All](https://open.spotify.com/track/2H0s28N3rendfnepsj48C6) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Wolf Den](https://open.spotify.com/album/72iUWLyrZgp7WUAIaqX0Np) | 2:57 |
-| 63 | [An Honest Man](https://open.spotify.com/track/01Cr7MlISmoh8gMlZBjpko) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [An Honest Man](https://open.spotify.com/album/6YqoghPHyDIIgSsAp7QFdj) | 4:06 |
-| 64 | [I'm Glad Trouble Don't Last Always](https://open.spotify.com/track/3vV8nrwMDQQl5KIEQeEq9O) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [I'm Glad Trouble Don't Last Always](https://open.spotify.com/album/3Aa82CRCPN2MqLm0mMb41T) | 4:17 |
+| 63 | [I'm Glad Trouble Don't Last Always](https://open.spotify.com/track/3vV8nrwMDQQl5KIEQeEq9O) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [I'm Glad Trouble Don't Last Always](https://open.spotify.com/album/3Aa82CRCPN2MqLm0mMb41T) | 4:17 |
+| 64 | [An Honest Man](https://open.spotify.com/track/01Cr7MlISmoh8gMlZBjpko) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [An Honest Man](https://open.spotify.com/album/6YqoghPHyDIIgSsAp7QFdj) | 4:06 |
 | 65 | [We Get By](https://open.spotify.com/track/5PqC3OJ24NIO5pP7me68dn) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [We Get By](https://open.spotify.com/album/162ZDwMcg8NGzp6BPKy58G) | 3:35 |
 | 66 | [Albert's Shuffle](https://open.spotify.com/track/1ekio2Gk6WycLArAUJZfxM) | [Mike Bloomfield](https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH) | [Bloomfield\-A Retrospective](https://open.spotify.com/album/5ZkaY6CcFUidEuWc41o9b2) | 6:54 |
 | 67 | [Ain't Got Nobody](https://open.spotify.com/track/4lbqUtqgX3dITgYJMBjCDS) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Genuine Houserocking Music](https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe) | 3:30 |
 | 68 | [What's the Matter with You](https://open.spotify.com/track/0XTGjWG3NIxeJZ2tXzPfpT) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Road I Call Home](https://open.spotify.com/album/2VqfWu26T66FcGvifgLqJ8) | 3:52 |
-| 69 | [Up and Rolling](https://open.spotify.com/track/1Wg6dLYXgqxs0YtQS6ifco) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Up and Rolling](https://open.spotify.com/album/5jEiXH4G09AiHqBkEm2ZMM) | 5:03 |
-| 70 | [Honey, Hush aka Talking Woman Blues](https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 4:28 |
+| 69 | [Honey, Hush aka Talking Woman Blues](https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 4:28 |
+| 70 | [Up and Rolling](https://open.spotify.com/track/1Wg6dLYXgqxs0YtQS6ifco) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Up and Rolling](https://open.spotify.com/album/5jEiXH4G09AiHqBkEm2ZMM) | 5:03 |
 | 71 | [Queen Bee](https://open.spotify.com/track/6kqXaZrIDOmA177KL9LHHf) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Señor Blues](https://open.spotify.com/album/1J4901NnEbPx0sTbfQlahA) | 4:40 |
 | 72 | [Going Down South](https://open.spotify.com/track/3PeDt4Q8YIFDRph5UhxAaA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 3:48 |
 | 73 | [Been Here Before](https://open.spotify.com/track/1R95piP4AI1kIzq9PRJfyF) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 5:54 |
 | 74 | [Mean Mistreater](https://open.spotify.com/track/0tYJ6uY0ETQOtOM8KySMSp) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Johnny Winter](https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch) | 3:52 |
 | 75 | [Move It On Over](https://open.spotify.com/track/2bgsFbiStgVqxOtQ4UK3Uf) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [The Baddest Of George Thorogood And The Destroyers](https://open.spotify.com/album/5vliZHMdEeEHpTOZC2XcBw) | 4:18 |
-| 76 | [How High](https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Play Loud](https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk) | 3:12 |
-| 77 | [Little Angel Child](https://open.spotify.com/track/512gC8sU5PxZAFrskHEfzk) | [Jimmy Dawkins](https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc) | [Fast Fingers](https://open.spotify.com/album/6lcVXsUyWa9WvgBMTuLz5l) | 3:59 |
+| 76 | [Little Angel Child](https://open.spotify.com/track/512gC8sU5PxZAFrskHEfzk) | [Jimmy Dawkins](https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc) | [Fast Fingers](https://open.spotify.com/album/6lcVXsUyWa9WvgBMTuLz5l) | 3:59 |
+| 77 | [How High](https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Play Loud](https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk) | 3:12 |
 | 78 | [Flesh & Bone \(Dedicated to B.B\. King\) \(with Van Morrison\)](https://open.spotify.com/track/37mWDk2nTyx0eon0AkdOKQ) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Born To Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W) | 4:00 |
 | 79 | [Plastic Hamburgers](https://open.spotify.com/track/3lWwsRSWeSTXUBTJeuRPPg) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Please Don't Be Dead](https://open.spotify.com/album/4EdNTjVzjIxYqEUGPiyiZS) | 3:37 |
 | 80 | [Your Heart Is As Black As Night](https://open.spotify.com/track/5pjQtnAoVLWChCwIZEL2C1) | [Beth Hart, Joe Bonamassa](https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5) | [Don't Explain](https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT) | 5:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 | 99 | [This Man](https://open.spotify.com/track/06s7QRpHfeiKL3YCIRTKxg) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 5:06 |
 | 100 | [Somehow, Somewhere, Someway](https://open.spotify.com/track/3N8YmS2jHNmziUhqTR7Wk4) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Trouble Is...](https://open.spotify.com/album/1ODpJWe2bymqj4DyJfuBE9) | 5:34 |
 
-Snapshot ID: `MCw1NzUzOTJhNGI3ODVmNzUwNTdhNmE1MmNjNzczZTdmODZkZjFhM2Yz`
+Snapshot ID: `MCwxM2UwZTBlOGNiZmI3ODNhYmQ3ZDdiZTcxYzU4NTRhMmM4NGE5MTNh`

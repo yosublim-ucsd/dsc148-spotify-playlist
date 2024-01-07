@@ -1164,7 +1164,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 136216,
       "name": "Buena Vista",
       "url": "https://open.spotify.com/track/3s3cLWqJtfAUgCZQOtpFLw"
@@ -2929,6 +2929,24 @@
     },
     {
       "album": {
+        "name": "Escalator Blues",
+        "url": "https://open.spotify.com/album/5fRq0kVouIFs3fWi0aQ2uK"
+      },
+      "artists": [
+        {
+          "name": "HEH",
+          "url": "https://open.spotify.com/artist/0TPeimMKCuW9cVVu4DUOz0"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111873,
+      "name": "Escalator Blues",
+      "url": "https://open.spotify.com/track/3ljIaptLZlaDk3cSGB7T7V"
+    },
+    {
+      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/32du4LBKI5WrU6VImj5kIB"
       },
@@ -3866,7 +3884,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 122830,
       "name": "Gary",
       "url": "https://open.spotify.com/track/1q1UZUT8oCqhuoaUtOQyk7"
@@ -4881,6 +4899,24 @@
     },
     {
       "album": {
+        "name": "Ink of Dawn",
+        "url": "https://open.spotify.com/album/0Ka0O1ax4qdfJ9FJnsfiLg"
+      },
+      "artists": [
+        {
+          "name": "Basicboy",
+          "url": "https://open.spotify.com/artist/6NhNVWuAGFt7hfq9M4kj9U"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115598,
+      "name": "Ink of Dawn",
+      "url": "https://open.spotify.com/track/58hRwiMXGNrQD9hUYbMCBq"
+    },
+    {
+      "album": {
         "name": "Inner Peace",
         "url": "https://open.spotify.com/album/72rdiIaTtw02OfQiCXQPGf"
       },
@@ -5294,7 +5330,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 153409,
       "name": "Lakeview Hotel",
       "url": "https://open.spotify.com/track/64KLZ6ghwEzRH6yAoNfEj2"
@@ -8017,6 +8053,24 @@
     },
     {
       "album": {
+        "name": "Pink Soda",
+        "url": "https://open.spotify.com/album/4H09JXtQEzll5guGsSP2Vt"
+      },
+      "artists": [
+        {
+          "name": "Keylo Parks",
+          "url": "https://open.spotify.com/artist/7DDfnMy4LQyQLFMCgQLULn"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "Pink Soda",
+      "url": "https://open.spotify.com/track/5MSeGUnLLWatEBCxViIcGC"
+    },
+    {
+      "album": {
         "name": "Plant Based",
         "url": "https://open.spotify.com/album/2Ep5JJmZhnzaWMK1K33QX2"
       },
@@ -9602,6 +9656,24 @@
       "duration_ms": 199111,
       "name": "SMOKE BREAK",
       "url": "https://open.spotify.com/track/3CPtS5vGos6uIlYf0Nqc4L"
+    },
+    {
+      "album": {
+        "name": "Snowful Peace",
+        "url": "https://open.spotify.com/album/6E3leoVqHuimOOQcN1ZngY"
+      },
+      "artists": [
+        {
+          "name": "Bluerosie",
+          "url": "https://open.spotify.com/artist/4csk2WW11IvLN5qTmHe1L3"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125142,
+      "name": "Snowful Peace",
+      "url": "https://open.spotify.com/track/1u2SXLe9KHUX2uIqHG47JL"
     },
     {
       "album": {
@@ -11644,7 +11716,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 96023,
       "name": "Unexpected World",
       "url": "https://open.spotify.com/track/63kQCkG3LYRD90O2QZbhnh"

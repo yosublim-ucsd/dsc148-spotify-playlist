@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise rock & alt world\. Cover: SPRINTS
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,425 likes - 125 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,513 likes - 125 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 72 | [rot in love](https://open.spotify.com/track/7oj0HfhX4PY8zmUR4kBxfe) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [why aren't you laughing?](https://open.spotify.com/album/2cx46nqqjNyqDzu1teQGUh) | 4:13 |
 | 73 | [u come near](https://open.spotify.com/track/4C5JVzRg7ca8TtVfwJBnXN) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [u come near](https://open.spotify.com/album/5RAgbzI7Aa6fwrC3Vtyrl7) | 3:12 |
 | 74 | [999](https://open.spotify.com/track/3X6kv6zO5IP2rSTYuUOFJi) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [999](https://open.spotify.com/album/0JcxakFKSDNIlNcqjEbPVj) | 3:21 |
-| 75 | [Never Fucked Up Twice \[Feat\. Bully\]](https://open.spotify.com/track/7h3qZvtmI5QfBjV7ETdFOY) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Very High / Never Fucked Up Twice](https://open.spotify.com/album/4tib35VzWbmYxb9SOAqUrV) | 2:33 |
+| 75 | [Never Fucked Up Twice](https://open.spotify.com/track/7h3qZvtmI5QfBjV7ETdFOY) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Very High / Never Fucked Up Twice](https://open.spotify.com/album/4tib35VzWbmYxb9SOAqUrV) | 2:33 |
 | 76 | [High Tea](https://open.spotify.com/track/2jpkUfj8a8G32DzsIYXxHM) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Invite me, kindly](https://open.spotify.com/album/77D1XYQxm5bRFsiWUNTXal) | 2:56 |
 | 77 | [Lemonade](https://open.spotify.com/track/7yrYMaKFnsQlTvCUrxeLmQ) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Lemonade](https://open.spotify.com/album/2x24KNzED4B4Js3uXY8ZKE) | 3:26 |
 | 78 | [Haunt You Still](https://open.spotify.com/track/2Kgnj7OQEdaiFIayFmplKC) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Haunt You Still](https://open.spotify.com/album/4hoy0xTJAWSrD0R7t0t46H) | 4:02 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 124 | [Big Air](https://open.spotify.com/track/4Lg9g0vN4guToh7068wPtT) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Big Air](https://open.spotify.com/album/0cB3kmKZuRiz1UvvNb7r7B) | 3:26 |
 | 125 | [Lip](https://open.spotify.com/track/49KU7hgM1KD3py8fNAAkPG) | [Mama Zu](https://open.spotify.com/artist/6OG25jh0gJ5FaFhw39eX2y) | [Lip](https://open.spotify.com/album/5PvUkKp9ifL4RpUcKjtHoQ) | 3:04 |
 
-Snapshot ID: `MCwzMDA1Y2M4NTBiMTcwZGZlMjRhZTVjM2ZkODM5NDhlYzYwNzk1YmMx`
+Snapshot ID: `MCwzOTI1NTk2NjZjOWY2ZDgxNzI2NzU5NGY5Y2JkNTJkMzRmNjM4MTM2`

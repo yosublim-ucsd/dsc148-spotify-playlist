@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 728 songs - 1 day 13 hr 5 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 731 songs - 1 day 13 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -736,5 +736,8 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 726 | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/track/2IHdMccpnU0PGHGltqM2Sq) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 3:50 |
 | 727 | [Tundra](https://open.spotify.com/track/2bg8vi6s9LPsEA0JRACCYS) | [993s](https://open.spotify.com/artist/3cZCsW5bKmKBi0vDBauyeB) | [Tundra](https://open.spotify.com/album/3HJN5UpxAICbtevmKzy40G) | 3:32 |
 | 728 | [Purge On Em](https://open.spotify.com/track/1Ax2ZZQHAMkhKOB3W1oHgy) | [DJ BOOKER](https://open.spotify.com/artist/54SxSRhf51T8cliiljWBcD), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Purge On Em](https://open.spotify.com/album/60WkfKVrfVc0xUh0MFbseE) | 3:10 |
+| 729 | [Van Gogh \(feat\. Lil Yachty\)](https://open.spotify.com/track/2tcI5EedPVjrxwewRQs62W) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [BlakkBoyz present Half Doin Dope/Van Gogh](https://open.spotify.com/album/19BajLbOujVKO4BPCTIzoc) | 2:06 |
+| 730 | [151 Rum](https://open.spotify.com/track/22WV03i2lBbwNVCE1g671p) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [DiCaprio 2](https://open.spotify.com/album/2oI6gtIXrvNiL2VEMmj5kY) | 2:36 |
+| 731 | [i n t e r l u d e](https://open.spotify.com/track/08LwMWf5Tcfsd752EPzFV0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:13 |
 
-Snapshot ID: `ODkzLDE5NTQ0MTRlOTllNTU5ZDFhZmFhYjkzZTA0NWE4NDk5YTZiYjcxMTk=`
+Snapshot ID: `ODk2LDNlNTdmMzRkOTgzNjIyOTk5OWRhYzk0Y2ZlYjlmNTliY2U2MzQ1NzA=`

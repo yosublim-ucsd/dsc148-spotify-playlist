@@ -4,7 +4,7 @@
 
 > Houseium&\#x27;s BANGIN HOUSE is a playlist full of high energy house music! 📲 TikTok &amp; IG: @houseium
 
-60 songs - 3 hr 14 min
+61 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Save Me](https://open.spotify.com/track/7MD0m1CkFZqFZnPBXIBxPe) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Save Me](https://open.spotify.com/album/0d4DHBW1784ap3EhId52ii) | 2:52 | 2023-12-31 |  |
 | [Seismic](https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Fly With Us](https://open.spotify.com/artist/5bCPEdvvv1s0CBBiuYc5eL) | [Seismic](https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ) | 3:28 | 2023-12-31 |  |
 | [Selecta](https://open.spotify.com/track/1MTPO4CMGIhHBocGVwVckD) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Selecta](https://open.spotify.com/album/7AjlfAc7u6QAGM9d7XQ2Be) | 2:46 | 2023-12-31 |  |
+| [SHOTGUN \- Tyron Woods Remix](https://open.spotify.com/track/6X4AeotC8BoeBtE4OUeOaF) | [MixMason](https://open.spotify.com/artist/5fIkkT8UZFZRKYGLdySPck), [Rogelio Douglas, Jr.](https://open.spotify.com/artist/0ePXfiVMc8gLup2N453TiB), [Tyron Woods](https://open.spotify.com/artist/4ESooQLvSkfCgHH19TCzmD) | [SHOTGUN \(Remixed\)](https://open.spotify.com/album/2pkvS30fdBtvUDOmdhPlEG) | 3:10 | 2024-01-06 |  |
 | [Shut It Down](https://open.spotify.com/track/7qwLBBmnYAIzygxRKgtIBM) | [Jay Dunham](https://open.spotify.com/artist/4JWZwoacJTvnATTK9BUE34) | [Shut It Down](https://open.spotify.com/album/15bu5n3pheWYEoc6YmEBLO) | 3:47 | 2023-12-22 |  |
 | [Sometimes I Get](https://open.spotify.com/track/5Igv1jW8dj9i9LGNhD6ZCm) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Sometimes I Get](https://open.spotify.com/album/70ym3lVvCDlytS2fsOpeLD) | 3:11 | 2023-12-31 |  |
 | [Stone Cold Flow](https://open.spotify.com/track/5xXUBORZ5QBD85zQorR75J) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [Set It Off](https://open.spotify.com/album/4rQeYTGaD8WWfbl6FcSsyf) | 3:33 | 2023-11-20 |  |

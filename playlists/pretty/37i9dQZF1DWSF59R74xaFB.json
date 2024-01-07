@@ -1,12 +1,12 @@
 {
   "description": "El amor no se escucha, se siente...",
-  "num_followers": 527908,
+  "num_followers": 527960,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzU1MDAxNDliMzUyMjgzMDkxYjQ1Njg5M2ExNjI2MWZiMzJkMzI2",
+  "snapshot_id": "MCwxYjRhZjQyZTNmMWRmMmQ3ZGEzYmQyZDIwY2FiZmE2Yzc1NTRiNGM0",
   "tracks": [
     {
       "added_at": "2023-12-08 06:46:59",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-12-08 06:46:59",
       "album": {
+        "name": "Aire (Versi\u00f3n D\u00eda)",
+        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Te Esper\u00e9",
+      "url": "https://open.spotify.com/track/6W8Rl6LMWjCL17EvLlkyxc"
+    },
+    {
+      "added_at": "2023-12-08 06:46:59",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
-    },
-    {
-      "added_at": "2023-12-08 06:46:59",
-      "album": {
-        "name": "Aire (Versi\u00f3n D\u00eda)",
-        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Te Esper\u00e9",
-      "url": "https://open.spotify.com/track/6W8Rl6LMWjCL17EvLlkyxc"
     },
     {
       "added_at": "2023-12-08 06:46:59",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-12-08 06:46:59",
       "album": {
+        "name": "Amapolas",
+        "url": "https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 205716,
+      "name": "Amapolas",
+      "url": "https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH"
+    },
+    {
+      "added_at": "2023-12-08 06:46:59",
+      "album": {
         "name": "El Mismo Aire (con Pablo Albor\u00e1n)",
         "url": "https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 188213,
       "name": "El Mismo Aire - con Pablo Albor\u00e1n",
       "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
-    },
-    {
-      "added_at": "2023-12-08 06:46:59",
-      "album": {
-        "name": "Amapolas",
-        "url": "https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 205716,
-      "name": "Amapolas",
-      "url": "https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH"
     },
     {
       "added_at": "2023-12-08 06:46:59",
@@ -1583,62 +1583,6 @@
     {
       "added_at": "2023-12-08 06:46:59",
       "album": {
-        "name": "Contra el Viento",
-        "url": "https://open.spotify.com/album/16nUcmZoEneQGzyvqpXrGr"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "Aunque Sea Un Momento",
-      "url": "https://open.spotify.com/track/7nfvfmJsbzoEFciY8w7ajA"
-    },
-    {
-      "added_at": "2023-12-08 06:46:59",
-      "album": {
-        "name": "Que Triste",
-        "url": "https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 226339,
-      "name": "Que Triste",
-      "url": "https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt"
-    },
-    {
-      "added_at": "2023-12-08 06:46:59",
-      "album": {
-        "name": "Bajo La Mesa",
-        "url": "https://open.spotify.com/album/7skwkKwi2c3AZF5oBQDUY0"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 157080,
-      "name": "Bajo La Mesa",
-      "url": "https://open.spotify.com/track/7BEPdOI0neT6p7PnLViqmH"
-    },
-    {
-      "added_at": "2023-12-08 06:46:59",
-      "album": {
         "name": "MTV Unplugged (En Vivo)",
         "url": "https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON"
       },
@@ -1663,6 +1607,62 @@
       "duration_ms": 305120,
       "name": "Prometiste (En Vivo)",
       "url": "https://open.spotify.com/track/1VHkHdFww8aXRTqj4VVSwC"
+    },
+    {
+      "added_at": "2023-12-08 06:46:59",
+      "album": {
+        "name": "Contra el Viento",
+        "url": "https://open.spotify.com/album/16nUcmZoEneQGzyvqpXrGr"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Aunque Sea Un Momento",
+      "url": "https://open.spotify.com/track/7nfvfmJsbzoEFciY8w7ajA"
+    },
+    {
+      "added_at": "2023-12-08 06:46:59",
+      "album": {
+        "name": "Bajo La Mesa",
+        "url": "https://open.spotify.com/album/7skwkKwi2c3AZF5oBQDUY0"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 157080,
+      "name": "Bajo La Mesa",
+      "url": "https://open.spotify.com/track/7BEPdOI0neT6p7PnLViqmH"
+    },
+    {
+      "added_at": "2023-12-08 06:46:59",
+      "album": {
+        "name": "Que Triste",
+        "url": "https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 226339,
+      "name": "Que Triste",
+      "url": "https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt"
     },
     {
       "added_at": "2023-12-08 06:46:59",
@@ -1751,22 +1751,18 @@
     {
       "added_at": "2023-12-08 06:46:59",
       "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/6U2Ncrmi1EeBQQz2NNgh1M"
+        "name": "Sincer\u00e1ndome",
+        "url": "https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
         }
       ],
-      "duration_ms": 209268,
-      "name": "Felices Perdidos",
-      "url": "https://open.spotify.com/track/5XJWVLhYE2tsa5vXlcgT3N"
+      "duration_ms": 219672,
+      "name": "Sincer\u00e1ndome",
+      "url": "https://open.spotify.com/track/6d920UMBw9naD9ggKvIiMT"
     }
   ],
   "unique_name": "Radio Coraz\u00f3n",

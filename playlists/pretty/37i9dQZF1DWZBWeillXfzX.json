@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 21504,
+  "num_followers": 21513,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTljMzkxODJlYmFhNGI0NDE2NWY3YTA3NDM2ZTVlNGI0Y2YzMTQ1",
+  "snapshot_id": "MCxhNDc0YjJjMTM4MjFiZGQyYTM0OGVhN2M1NDg1N2YyMDdiY2E1ZmFk",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -781,38 +781,6 @@
       "url": "https://open.spotify.com/track/0Nef20YaUTC9xS2zrvtZCO"
     },
     {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Signs",
-        "url": "https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H"
-      },
-      "artists": [
-        {
-          "name": "Jonny Lang",
-          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
-        }
-      ],
-      "duration_ms": 258426,
-      "name": "What You\u2019re Made Of",
-      "url": "https://open.spotify.com/track/1RxSQxCQKSInGZREvUPjWn"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Unrepentant",
-        "url": "https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1"
-      },
-      "artists": [
-        {
-          "name": "Greg Koch",
-          "url": "https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC"
-        }
-      ],
-      "duration_ms": 599678,
-      "name": "Sweet Tea",
-      "url": "https://open.spotify.com/track/6JojEmIb1NMNEGpAlDDKhj"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Bottleneck Stomp",
@@ -831,6 +799,38 @@
       "duration_ms": 201859,
       "name": "Bottleneck Stomp",
       "url": "https://open.spotify.com/track/31tYuBrDa4HN45hxSp4Bc6"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Unrepentant",
+        "url": "https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1"
+      },
+      "artists": [
+        {
+          "name": "Greg Koch",
+          "url": "https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC"
+        }
+      ],
+      "duration_ms": 599678,
+      "name": "Sweet Tea",
+      "url": "https://open.spotify.com/track/6JojEmIb1NMNEGpAlDDKhj"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H"
+      },
+      "artists": [
+        {
+          "name": "Jonny Lang",
+          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
+        }
+      ],
+      "duration_ms": 258426,
+      "name": "What You\u2019re Made Of",
+      "url": "https://open.spotify.com/track/1RxSQxCQKSInGZREvUPjWn"
     },
     {
       "added_at": "2020-10-21 17:37:12",

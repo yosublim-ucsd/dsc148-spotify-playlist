@@ -1,12 +1,12 @@
 {
   "description": "Skifoan und H\u00fcttenabriss.",
-  "num_followers": 388449,
+  "num_followers": 388692,
   "original_name": "Apr\u00e8s Ski Party 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTgyZjRkYTEzNjZmZDAxNWJjYjZjODYxZjBhNzE2YTk3OWZmNzg3",
+  "snapshot_id": "MCw5ZGNlZWJjZDMxZTJkZDg0NGM4M2Y2MmRhMzE0ZWMwMjYzNDA4NTA3",
   "tracks": [
     {
       "added_at": "2023-12-19 17:30:28",
@@ -231,6 +231,26 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
+        "name": "Olivia",
+        "url": "https://open.spotify.com/album/1X3UgwybikhCJJYEZQrQJx"
+      },
+      "artists": [
+        {
+          "name": "Die Zipfelbuben",
+          "url": "https://open.spotify.com/artist/2V63XSO1pn1xopgeRMP06U"
+        },
+        {
+          "name": "DJ Cashi",
+          "url": "https://open.spotify.com/artist/3maDQKNIwvbtAglSmYGhCo"
+        }
+      ],
+      "duration_ms": 180157,
+      "name": "Olivia",
+      "url": "https://open.spotify.com/track/6weT0OACEb3e4KLQJInf4I"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
         "name": "Fliesentisch Romantik 2",
         "url": "https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM"
       },
@@ -251,26 +271,6 @@
       "duration_ms": 150413,
       "name": "Easy Peasy",
       "url": "https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
-        "name": "Olivia",
-        "url": "https://open.spotify.com/album/1X3UgwybikhCJJYEZQrQJx"
-      },
-      "artists": [
-        {
-          "name": "Die Zipfelbuben",
-          "url": "https://open.spotify.com/artist/2V63XSO1pn1xopgeRMP06U"
-        },
-        {
-          "name": "DJ Cashi",
-          "url": "https://open.spotify.com/artist/3maDQKNIwvbtAglSmYGhCo"
-        }
-      ],
-      "duration_ms": 180157,
-      "name": "Olivia",
-      "url": "https://open.spotify.com/track/6weT0OACEb3e4KLQJInf4I"
     },
     {
       "added_at": "2023-12-19 17:30:28",
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
+        "name": "Atzen Musik Vol.1, 2 & 3",
+        "url": "https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh"
+      },
+      "artists": [
+        {
+          "name": "Die Atzen",
+          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
+        }
+      ],
+      "duration_ms": 209240,
+      "name": "Das geht ab - Wir feiern die ganze Nacht",
+      "url": "https://open.spotify.com/track/0TvcLuXOCVXQZwspgXPOZb"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
         "name": "Dorflove",
         "url": "https://open.spotify.com/album/5Zc70IF65u7YKRkIS88MnR"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 161046,
       "name": "Dorflove",
       "url": "https://open.spotify.com/track/77yRw8X35yyFdpXmziekb7"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
-        "name": "Atzen Musik Vol.1, 2 & 3",
-        "url": "https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh"
-      },
-      "artists": [
-        {
-          "name": "Die Atzen",
-          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
-        }
-      ],
-      "duration_ms": 209240,
-      "name": "Das geht ab - Wir feiern die ganze Nacht",
-      "url": "https://open.spotify.com/track/0TvcLuXOCVXQZwspgXPOZb"
     },
     {
       "added_at": "2023-12-19 17:30:28",
@@ -739,8 +739,8 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
-        "name": "Filmriss",
-        "url": "https://open.spotify.com/album/3wulBgGVUtbWHJRNvhBtAP"
+        "name": "Nummer Eins",
+        "url": "https://open.spotify.com/album/4LsbC8kqRWTfexA75JsX6J"
       },
       "artists": [
         {
@@ -748,13 +748,17 @@
           "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
         },
         {
-          "name": "Isi Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+          "name": "Sch\u00fcrze",
+          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
+        },
+        {
+          "name": "DJ Robin",
+          "url": "https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz"
         }
       ],
-      "duration_ms": 134125,
-      "name": "Filmriss",
-      "url": "https://open.spotify.com/track/3wPFB1azIiqIeydG9q9cYW"
+      "duration_ms": 150857,
+      "name": "Bumsbar",
+      "url": "https://open.spotify.com/track/4Q0B9Rb7PK8tbmQBWB7KDN"
     },
     {
       "added_at": "2023-12-19 17:30:28",
@@ -935,8 +939,8 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
-        "name": "Nummer Eins",
-        "url": "https://open.spotify.com/album/4LsbC8kqRWTfexA75JsX6J"
+        "name": "Filmriss",
+        "url": "https://open.spotify.com/album/3wulBgGVUtbWHJRNvhBtAP"
       },
       "artists": [
         {
@@ -944,17 +948,13 @@
           "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
         },
         {
-          "name": "Sch\u00fcrze",
-          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
-        },
-        {
-          "name": "DJ Robin",
-          "url": "https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz"
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
         }
       ],
-      "duration_ms": 150857,
-      "name": "Bumsbar",
-      "url": "https://open.spotify.com/track/4Q0B9Rb7PK8tbmQBWB7KDN"
+      "duration_ms": 134125,
+      "name": "Filmriss",
+      "url": "https://open.spotify.com/track/3wPFB1azIiqIeydG9q9cYW"
     },
     {
       "added_at": "2023-12-19 17:30:28",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
-        "name": "Partysau",
-        "url": "https://open.spotify.com/album/7os2XcLO5jiSftCstEWzAI"
-      },
-      "artists": [
-        {
-          "name": "Malle Kalle",
-          "url": "https://open.spotify.com/artist/18LfR2nMtsEBVRcjOmpUgP"
-        },
-        {
-          "name": "Danergy",
-          "url": "https://open.spotify.com/artist/0lcOO2pXTNgXWPcOgFQnMf"
-        }
-      ],
-      "duration_ms": 115680,
-      "name": "Partysau",
-      "url": "https://open.spotify.com/track/0tEr9vAe483LIkxQOEk55R"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
         "name": "Zum Greifen nah",
         "url": "https://open.spotify.com/album/5s9Tgn9nGXXo3RgUpWwkTf"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 167142,
       "name": "Zum Greifen nah",
       "url": "https://open.spotify.com/track/5LEBEcAsQTL2ZoRQEvsE1D"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
+        "name": "Partysau",
+        "url": "https://open.spotify.com/album/7os2XcLO5jiSftCstEWzAI"
+      },
+      "artists": [
+        {
+          "name": "Malle Kalle",
+          "url": "https://open.spotify.com/artist/18LfR2nMtsEBVRcjOmpUgP"
+        },
+        {
+          "name": "Danergy",
+          "url": "https://open.spotify.com/artist/0lcOO2pXTNgXWPcOgFQnMf"
+        }
+      ],
+      "duration_ms": 115680,
+      "name": "Partysau",
+      "url": "https://open.spotify.com/track/0tEr9vAe483LIkxQOEk55R"
     },
     {
       "added_at": "2023-12-19 17:30:28",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
-        "name": "Bring mich nach Hause",
-        "url": "https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4"
-      },
-      "artists": [
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "Bring mich nach Hause",
-      "url": "https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
         "name": "Felicit\u00e0 (Stereoact Remix)",
         "url": "https://open.spotify.com/album/2FWtL7RNtw2bPUo5MM5XBG"
       },
@@ -1131,6 +1115,66 @@
       "duration_ms": 148447,
       "name": "Felicit\u00e0 - Stereoact Remix",
       "url": "https://open.spotify.com/track/0e78YaDsbQxnfbQWofzBrH"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
+        "name": "Mallelelele",
+        "url": "https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb"
+      },
+      "artists": [
+        {
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 133898,
+      "name": "Mallelelele",
+      "url": "https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
+        "name": "Bring mich nach Hause",
+        "url": "https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4"
+      },
+      "artists": [
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "Bring mich nach Hause",
+      "url": "https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
+        "name": "Hoch die H\u00e4nde Wochenende",
+        "url": "https://open.spotify.com/album/4L7ct8MkMn8XeNKdmQKetZ"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        },
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "F\u00e4aschtb\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "duration_ms": 174719,
+      "name": "Hoch die H\u00e4nde Wochenende",
+      "url": "https://open.spotify.com/track/3ndmKMdYgiU8TbNjOx1weG"
     },
     {
       "added_at": "2023-12-19 17:30:28",
@@ -1163,30 +1207,6 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
-        "name": "Hoch die H\u00e4nde Wochenende",
-        "url": "https://open.spotify.com/album/4L7ct8MkMn8XeNKdmQKetZ"
-      },
-      "artists": [
-        {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
-        },
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        },
-        {
-          "name": "F\u00e4aschtb\u00e4nkler",
-          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
-        }
-      ],
-      "duration_ms": 174719,
-      "name": "Hoch die H\u00e4nde Wochenende",
-      "url": "https://open.spotify.com/track/3ndmKMdYgiU8TbNjOx1weG"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
         "name": "Schnelle Brille",
         "url": "https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5"
       },
@@ -1203,22 +1223,22 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
-        "name": "Mallelelele",
-        "url": "https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb"
+        "name": "Nimm mich mit ins Paradies",
+        "url": "https://open.spotify.com/album/3ol2K9AiuZqrl0Yar8CEHm"
       },
       "artists": [
         {
-          "name": "Rumbombe",
-          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+          "name": "Julian Benz",
+          "url": "https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp"
         },
         {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
         }
       ],
-      "duration_ms": 133898,
-      "name": "Mallelelele",
-      "url": "https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT"
+      "duration_ms": 164078,
+      "name": "Nimm mich mit ins Paradies",
+      "url": "https://open.spotify.com/track/6nOWw1hXnr3FB5F8VKDqzu"
     },
     {
       "added_at": "2023-12-19 17:30:28",
@@ -1247,42 +1267,6 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
-        "name": "Nimm mich mit ins Paradies",
-        "url": "https://open.spotify.com/album/3ol2K9AiuZqrl0Yar8CEHm"
-      },
-      "artists": [
-        {
-          "name": "Julian Benz",
-          "url": "https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp"
-        },
-        {
-          "name": "Isi Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
-        }
-      ],
-      "duration_ms": 164078,
-      "name": "Nimm mich mit ins Paradies",
-      "url": "https://open.spotify.com/track/6nOWw1hXnr3FB5F8VKDqzu"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
-        "name": "Heute nicht!",
-        "url": "https://open.spotify.com/album/1FdsZbNb6kwDtcWpuikGhm"
-      },
-      "artists": [
-        {
-          "name": "Ben Zucker",
-          "url": "https://open.spotify.com/artist/1ZHJdXXtKnmUh2qRN4LmbS"
-        }
-      ],
-      "duration_ms": 194271,
-      "name": "Heute nicht!",
-      "url": "https://open.spotify.com/track/3edAKB1WUrzlgxhXJ2Vnar"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
         "name": "Das Album",
         "url": "https://open.spotify.com/album/3cOWgbuDqtPClEburOYqS1"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 229733,
       "name": "Anton aus Tirol",
       "url": "https://open.spotify.com/track/2YuKyP77pidQlkxm8PuyJj"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
+        "name": "Heute nicht!",
+        "url": "https://open.spotify.com/album/1FdsZbNb6kwDtcWpuikGhm"
+      },
+      "artists": [
+        {
+          "name": "Ben Zucker",
+          "url": "https://open.spotify.com/artist/1ZHJdXXtKnmUh2qRN4LmbS"
+        }
+      ],
+      "duration_ms": 194271,
+      "name": "Heute nicht!",
+      "url": "https://open.spotify.com/track/3edAKB1WUrzlgxhXJ2Vnar"
     },
     {
       "added_at": "2023-12-19 17:30:28",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2023-12-19 17:30:28",
       "album": {
-        "name": "Anna-Lena",
-        "url": "https://open.spotify.com/album/2NQEW9DajvxCNWSyj0eS5d"
-      },
-      "artists": [
-        {
-          "name": "Honk!",
-          "url": "https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig"
-        },
-        {
-          "name": "Deejay Matze",
-          "url": "https://open.spotify.com/artist/0H6wOLvnEYsQ0ajR7QaBA4"
-        }
-      ],
-      "duration_ms": 180741,
-      "name": "Anna-Lena",
-      "url": "https://open.spotify.com/track/5NTiHVwhx2FpUsuSbgkDGE"
-    },
-    {
-      "added_at": "2023-12-19 17:30:28",
-      "album": {
         "name": "Klempner Klaus",
         "url": "https://open.spotify.com/album/4ZUCnOcTeLaz8XAKhl1zTL"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 155820,
       "name": "Klempner Klaus",
       "url": "https://open.spotify.com/track/0LStK5S9hM7tmi8X7TItkY"
+    },
+    {
+      "added_at": "2023-12-19 17:30:28",
+      "album": {
+        "name": "Anna-Lena",
+        "url": "https://open.spotify.com/album/2NQEW9DajvxCNWSyj0eS5d"
+      },
+      "artists": [
+        {
+          "name": "Honk!",
+          "url": "https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig"
+        },
+        {
+          "name": "Deejay Matze",
+          "url": "https://open.spotify.com/artist/0H6wOLvnEYsQ0ajR7QaBA4"
+        }
+      ],
+      "duration_ms": 180741,
+      "name": "Anna-Lena",
+      "url": "https://open.spotify.com/track/5NTiHVwhx2FpUsuSbgkDGE"
     },
     {
       "added_at": "2023-12-19 17:30:28",

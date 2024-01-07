@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: HYBS \(Thailand\), GANGGA \(Indonesia\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,072 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,087 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,11 +85,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 75 | [暗流](https://open.spotify.com/track/2k3JtZNj3VZkHdefEssZmO) | [deca joins](https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77) | [暗流](https://open.spotify.com/album/35WbOyVHUlWYO4sTlc5DVW) | 4:22 |
 | 76 | [Grape Soda](https://open.spotify.com/track/5KJAvewEPVPOU3OnL6bhwH) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [Grape Soda](https://open.spotify.com/album/6skFJuskZ23J7NXBNfFR8z) | 3:35 |
 | 77 | [While It Lasts](https://open.spotify.com/track/3pZzVu3r5XMWXhwkoRhgka) | [Moongazing And Her](https://open.spotify.com/artist/6Zo43jiGrri1Pq8tQNKodP) | [Best Prom Ever](https://open.spotify.com/album/4a2bPEqy88F8l3oB7DcsHO) | 2:15 |
-| 78 | [Strangers In The Night](https://open.spotify.com/track/3GoiPlWtQO9m1iqxKorcrr) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Strangers In The Night](https://open.spotify.com/album/55CO6FPOjzSeWBHdVz1wTv) | 3:55 |
-| 79 | [Birdy](https://open.spotify.com/track/1A2prTQuLOKxZ7ztWmORm4) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Birdy](https://open.spotify.com/album/7ptKY3QeYYiOsbwqnJFU0E) | 4:33 |
+| 78 | [Birdy](https://open.spotify.com/track/1A2prTQuLOKxZ7ztWmORm4) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Birdy](https://open.spotify.com/album/7ptKY3QeYYiOsbwqnJFU0E) | 4:33 |
+| 79 | [Strangers In The Night](https://open.spotify.com/track/3GoiPlWtQO9m1iqxKorcrr) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Strangers In The Night](https://open.spotify.com/album/55CO6FPOjzSeWBHdVz1wTv) | 3:55 |
 | 80 | [Around the Corner](https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 3:46 |
-| 81 | [ฟ้ามืดทีไร](https://open.spotify.com/track/6gAbZjrEKkngnPKVB3E1fy) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ฟ้ามืดทีไร](https://open.spotify.com/album/4gCQHXHg56d7U5iP96rKss) | 4:38 |
-| 82 | [22 of Me](https://open.spotify.com/track/5UT5EWSLr9zAPLRBuVrbj3) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [22 of Me](https://open.spotify.com/album/1DdHN7p3iJJzz4mRiFANgU) | 3:30 |
+| 81 | [22 of Me](https://open.spotify.com/track/5UT5EWSLr9zAPLRBuVrbj3) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [22 of Me](https://open.spotify.com/album/1DdHN7p3iJJzz4mRiFANgU) | 3:30 |
+| 82 | [ฟ้ามืดทีไร](https://open.spotify.com/track/6gAbZjrEKkngnPKVB3E1fy) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ฟ้ามืดทีไร](https://open.spotify.com/album/4gCQHXHg56d7U5iP96rKss) | 4:38 |
 | 83 | [sharp knife](https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [sharp knife](https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI) | 2:50 |
 | 84 | [love is growing](https://open.spotify.com/track/1xzKJE6Q1fOhXLzYOCXXQg) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [love is growing](https://open.spotify.com/album/422FUc3Fc4UG1Cn9CeeOAQ) | 2:58 |
 | 85 | [All My Friends Are Fallin' In Love](https://open.spotify.com/track/0tIWk4w1AfinVnGxiaSz5d) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [All My Friends Are Fallin' In Love](https://open.spotify.com/album/75G2tuAvS5Uugrb0TLNTT3) | 3:17 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 96 | [Highteen](https://open.spotify.com/track/4HcnOrtYTFOLyZrfC7BQ9U) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Highteen](https://open.spotify.com/album/0KOiVCCpmrK72XwMIL4ieW) | 3:01 |
 | 97 | [Vast \- ANNA Remix](https://open.spotify.com/track/3rES34MzcM8hnKW9y2EzpH) | [Sandrayati](https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Vast \(ANNA Remix\)](https://open.spotify.com/album/0m4Z3Ku62Qd4NkQCvSeRiD) | 3:26 |
 | 98 | [Em Trang Trí](https://open.spotify.com/track/2LX16d9LWQxmlUiOfxHKYO) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI) | [Em Trang Trí](https://open.spotify.com/album/22PMYyHfKd4bvFis6eVaS3) | 2:45 |
-| 99 | [The Great Escape Of Our Time](https://open.spotify.com/track/3mrheKW3UCynKimx0O7rEd) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [The Great Escape Of Our Time](https://open.spotify.com/album/74K79LQUF1axz9ZXbBTojZ) | 3:12 |
-| 100 | [Space Orphans](https://open.spotify.com/track/0aCZDVvoYRJURBk4lzdA1b) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Space Orphans](https://open.spotify.com/album/2AsKnr2Popc5l1Sbj1rext) | 4:35 |
+| 99 | [Space Orphans](https://open.spotify.com/track/0aCZDVvoYRJURBk4lzdA1b) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Space Orphans](https://open.spotify.com/album/2AsKnr2Popc5l1Sbj1rext) | 4:35 |
+| 100 | [The Great Escape Of Our Time](https://open.spotify.com/track/3mrheKW3UCynKimx0O7rEd) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [The Great Escape Of Our Time](https://open.spotify.com/album/74K79LQUF1axz9ZXbBTojZ) | 3:12 |
 
-Snapshot ID: `MCxlZmQ5ZDMwN2FiZjM4MDc5MjZiZjAzMjRmM2QyMjY0MWUzNDljZDQy`
+Snapshot ID: `MCw0NmFkZDJiYzQ3MTUzYmQ0NWYzNzAwMDdkNTc3NWE2NmEwZThlMmFl`

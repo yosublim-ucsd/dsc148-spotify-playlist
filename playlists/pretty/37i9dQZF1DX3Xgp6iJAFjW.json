@@ -1,12 +1,12 @@
 {
   "description": "Celebra con saz\u00f3n. A holiday playlist with tropical flavor. ",
-  "num_followers": 34225,
+  "num_followers": 34221,
   "original_name": "Navidad Con Sabor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjljYjYzZTY4NWMyNzc0ZjZmY2JjMGI5YWQ5NjE0MmQ4YjU4OGRk",
+  "snapshot_id": "MCw3MTM5YTc3MDliZDIyNzRmZjdjMTZhMzI1ZTU2OGE5YjdhYjg0ODQ1",
   "tracks": [
     {
       "added_at": "2023-12-19 14:35:20",
@@ -99,22 +99,6 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg"
-      },
-      "artists": [
-        {
-          "name": "Tony Camargo",
-          "url": "https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi"
-        }
-      ],
-      "duration_ms": 182720,
-      "name": "El A\u00f1o Viejo",
-      "url": "https://open.spotify.com/track/6NjhADkaWwGYO0R7eZXyI4"
-    },
-    {
-      "added_at": "2023-12-19 14:35:20",
-      "album": {
         "name": "32 Ca\u00f1onazos",
         "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 312480,
       "name": "En Barranquilla Me Quedo",
       "url": "https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR"
+    },
+    {
+      "added_at": "2023-12-19 14:35:20",
+      "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg"
+      },
+      "artists": [
+        {
+          "name": "Tony Camargo",
+          "url": "https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi"
+        }
+      ],
+      "duration_ms": 182720,
+      "name": "El A\u00f1o Viejo",
+      "url": "https://open.spotify.com/track/6NjhADkaWwGYO0R7eZXyI4"
     },
     {
       "added_at": "2023-12-19 14:35:20",
@@ -235,6 +235,26 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
+        "name": "Milenario, Vol. 3",
+        "url": "https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2"
+      },
+      "artists": [
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        },
+        {
+          "name": "La Verdad",
+          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
+        }
+      ],
+      "duration_ms": 265026,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1"
+    },
+    {
+      "added_at": "2023-12-19 14:35:20",
+      "album": {
         "name": "Asalto Navide\u00f1o: Vol. 1 & 2",
         "url": "https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw"
       },
@@ -271,26 +291,6 @@
       "duration_ms": 279280,
       "name": "Fin de Semana - Version Navide\u00f1a",
       "url": "https://open.spotify.com/track/4he2N9NCRkMdzCcFyADnp7"
-    },
-    {
-      "added_at": "2023-12-19 14:35:20",
-      "album": {
-        "name": "Milenario, Vol. 3",
-        "url": "https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2"
-      },
-      "artists": [
-        {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        },
-        {
-          "name": "La Verdad",
-          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
-        }
-      ],
-      "duration_ms": 265026,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1"
     },
     {
       "added_at": "2023-12-19 14:35:20",
@@ -339,30 +339,6 @@
       "duration_ms": 285200,
       "name": "Ta Encendio",
       "url": "https://open.spotify.com/track/2FI5ftUcHYCXv1NfCed6g6"
-    },
-    {
-      "added_at": "2023-12-19 14:35:20",
-      "album": {
-        "name": "Asalto Navide\u00f1o: Vol. 1 & 2",
-        "url": "https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "Yomo Toro",
-          "url": "https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E"
-        }
-      ],
-      "duration_ms": 269520,
-      "name": "Canto A Bor\u00ednquen",
-      "url": "https://open.spotify.com/track/1uohFd173KrmJiDjiOooLw"
     },
     {
       "added_at": "2023-12-19 14:35:20",
@@ -459,6 +435,30 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
+        "name": "Asalto Navide\u00f1o: Vol. 1 & 2",
+        "url": "https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Yomo Toro",
+          "url": "https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E"
+        }
+      ],
+      "duration_ms": 269520,
+      "name": "Canto A Bor\u00ednquen",
+      "url": "https://open.spotify.com/track/1uohFd173KrmJiDjiOooLw"
+    },
+    {
+      "added_at": "2023-12-19 14:35:20",
+      "album": {
         "name": "El Gran Mayimbe",
         "url": "https://open.spotify.com/album/3YcXVczErplYfnXgiNNCjg"
       },
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
-        "name": "Navidad Sin Ti",
-        "url": "https://open.spotify.com/album/6mwWKwdIg3twKIw8B5Ob73"
-      },
-      "artists": [
-        {
-          "name": "Johnny Ventura y su Combo",
-          "url": "https://open.spotify.com/artist/0q0lEulQZYw4EexzUVDiJR"
-        }
-      ],
-      "duration_ms": 253400,
-      "name": "Esta Navidad",
-      "url": "https://open.spotify.com/track/6Gau5rKadNtM3eQPN4Nyku"
-    },
-    {
-      "added_at": "2023-12-19 14:35:20",
-      "album": {
         "name": "17 \u00c9xitos",
         "url": "https://open.spotify.com/album/3TWu5whCfUMJbbzaNXqved"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 286693,
       "name": "Baracunatana",
       "url": "https://open.spotify.com/track/54Mmo8YOqrr6A53QVO14il"
+    },
+    {
+      "added_at": "2023-12-19 14:35:20",
+      "album": {
+        "name": "Navidad Sin Ti",
+        "url": "https://open.spotify.com/album/6mwWKwdIg3twKIw8B5Ob73"
+      },
+      "artists": [
+        {
+          "name": "Johnny Ventura y su Combo",
+          "url": "https://open.spotify.com/artist/0q0lEulQZYw4EexzUVDiJR"
+        }
+      ],
+      "duration_ms": 253400,
+      "name": "Esta Navidad",
+      "url": "https://open.spotify.com/track/6Gau5rKadNtM3eQPN4Nyku"
     },
     {
       "added_at": "2023-12-19 14:35:20",
@@ -575,30 +575,6 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
-        "name": "Asalto Navide\u00f1o, Vol. II",
-        "url": "https://open.spotify.com/album/4zGcM2kO7IlHxqukxgCvgm"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "Yomo Toro",
-          "url": "https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E"
-        }
-      ],
-      "duration_ms": 369013,
-      "name": "Cantemos",
-      "url": "https://open.spotify.com/track/79T28RdVifGfHSaU5k4QBP"
-    },
-    {
-      "added_at": "2023-12-19 14:35:20",
-      "album": {
         "name": "It's Christmas Time! (Original Recordings)",
         "url": "https://open.spotify.com/album/5WlU0sbzRWMlYWwSJobc7I"
       },
@@ -627,6 +603,30 @@
       "duration_ms": 318706,
       "name": "Tiempos Navide\u00f1os",
       "url": "https://open.spotify.com/track/1KHz4fqCfibSd5IRaEMCN6"
+    },
+    {
+      "added_at": "2023-12-19 14:35:20",
+      "album": {
+        "name": "Asalto Navide\u00f1o, Vol. II",
+        "url": "https://open.spotify.com/album/4zGcM2kO7IlHxqukxgCvgm"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Yomo Toro",
+          "url": "https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E"
+        }
+      ],
+      "duration_ms": 369013,
+      "name": "Cantemos",
+      "url": "https://open.spotify.com/track/79T28RdVifGfHSaU5k4QBP"
     },
     {
       "added_at": "2023-12-19 14:35:20",
@@ -687,26 +687,6 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
-        "name": "En Navidad",
-        "url": "https://open.spotify.com/album/27wDLLPOvc1D2uAv4AifKp"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        },
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 128173,
-      "name": "Ya Viene la Nochebuena",
-      "url": "https://open.spotify.com/track/3CMPwyij6yTOIIL5qK5SR0"
-    },
-    {
-      "added_at": "2023-12-19 14:35:20",
-      "album": {
         "name": "Navidad Sin Ti",
         "url": "https://open.spotify.com/album/6mwWKwdIg3twKIw8B5Ob73"
       },
@@ -739,6 +719,58 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
+        "name": "Lleg\u00f3 Navidad",
+        "url": "https://open.spotify.com/album/05kqsPlBNW5akr8pLOZvBD"
+      },
+      "artists": [
+        {
+          "name": "Jossie Esteban",
+          "url": "https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H"
+        }
+      ],
+      "duration_ms": 285545,
+      "name": "Lleg\u00f3 Navidad",
+      "url": "https://open.spotify.com/track/3bW372vE2kZOX7eV8DgCMU"
+    },
+    {
+      "added_at": "2023-12-19 14:35:20",
+      "album": {
+        "name": "En Navidad",
+        "url": "https://open.spotify.com/album/27wDLLPOvc1D2uAv4AifKp"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 128173,
+      "name": "Ya Viene la Nochebuena",
+      "url": "https://open.spotify.com/track/3CMPwyij6yTOIIL5qK5SR0"
+    },
+    {
+      "added_at": "2023-12-19 14:35:20",
+      "album": {
+        "name": "Fiesta en Navidad 35 Exitos",
+        "url": "https://open.spotify.com/album/4czT2iX93Cox7I0HdEYzUU"
+      },
+      "artists": [
+        {
+          "name": "July Mateo Rasputin",
+          "url": "https://open.spotify.com/artist/56zfXx0Uk6du1iFkewDvPi"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "Viejo A\u00f1o",
+      "url": "https://open.spotify.com/track/6gOklqkrjzHcBPSw0oFL9P"
+    },
+    {
+      "added_at": "2023-12-19 14:35:20",
+      "album": {
         "name": "Asalto Navide\u00f1o, Vol. II",
         "url": "https://open.spotify.com/album/4zGcM2kO7IlHxqukxgCvgm"
       },
@@ -763,38 +795,6 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
-        "name": "Lleg\u00f3 Navidad",
-        "url": "https://open.spotify.com/album/05kqsPlBNW5akr8pLOZvBD"
-      },
-      "artists": [
-        {
-          "name": "Jossie Esteban",
-          "url": "https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H"
-        }
-      ],
-      "duration_ms": 285545,
-      "name": "Lleg\u00f3 Navidad",
-      "url": "https://open.spotify.com/track/3bW372vE2kZOX7eV8DgCMU"
-    },
-    {
-      "added_at": "2023-12-19 14:35:20",
-      "album": {
-        "name": "Fiesta en Navidad 35 Exitos",
-        "url": "https://open.spotify.com/album/4czT2iX93Cox7I0HdEYzUU"
-      },
-      "artists": [
-        {
-          "name": "July Mateo Rasputin",
-          "url": "https://open.spotify.com/artist/56zfXx0Uk6du1iFkewDvPi"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "Viejo A\u00f1o",
-      "url": "https://open.spotify.com/track/6gOklqkrjzHcBPSw0oFL9P"
-    },
-    {
-      "added_at": "2023-12-19 14:35:20",
-      "album": {
         "name": "Memorias de Navidad",
         "url": "https://open.spotify.com/album/1zTDuNOo7R4b1u3fjSL5w5"
       },
@@ -807,26 +807,6 @@
       "duration_ms": 238013,
       "name": "Quiero Parranda",
       "url": "https://open.spotify.com/track/2xstbSuSPHX0VbJrznFV32"
-    },
-    {
-      "added_at": "2023-12-19 14:35:20",
-      "album": {
-        "name": "En Navidad",
-        "url": "https://open.spotify.com/album/27wDLLPOvc1D2uAv4AifKp"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        },
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 138853,
-      "name": "El Santo Nombre de Jesus",
-      "url": "https://open.spotify.com/track/5R3ZA98XR11HeuZFDLR59S"
     },
     {
       "added_at": "2023-12-19 14:35:20",
@@ -895,6 +875,74 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
+        "name": "Navidad - Canta Gallo, Canta",
+        "url": "https://open.spotify.com/album/5Pe9YcjXSiF0bNwwDeKDdS"
+      },
+      "artists": [
+        {
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+        }
+      ],
+      "duration_ms": 257693,
+      "name": "Cantemos Todos Cantemos",
+      "url": "https://open.spotify.com/track/3KGHYyFa4TpYYxDEiKAKeu"
+    },
+    {
+      "added_at": "2023-12-19 14:35:20",
+      "album": {
+        "name": "En Navidad",
+        "url": "https://open.spotify.com/album/27wDLLPOvc1D2uAv4AifKp"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 138853,
+      "name": "El Santo Nombre de Jesus",
+      "url": "https://open.spotify.com/track/5R3ZA98XR11HeuZFDLR59S"
+    },
+    {
+      "added_at": "2023-12-19 14:35:20",
+      "album": {
+        "name": "Navidad a Mi Estilo",
+        "url": "https://open.spotify.com/album/4ieRHjOfukQ0LNk7NNtzeE"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 318440,
+      "name": "Navidad en Mi Barrio",
+      "url": "https://open.spotify.com/track/2p4NQR05RqzwHsUVXRTNeB"
+    },
+    {
+      "added_at": "2023-12-19 14:35:20",
+      "album": {
+        "name": "Al Ni\u00f1o Dios",
+        "url": "https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo"
+      },
+      "artists": [
+        {
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        }
+      ],
+      "duration_ms": 153182,
+      "name": "Al Ni\u00f1o Dios",
+      "url": "https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ"
+    },
+    {
+      "added_at": "2023-12-19 14:35:20",
+      "album": {
         "name": "Asalto Navide\u00f1o: Vol. 1 & 2",
         "url": "https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw"
       },
@@ -919,38 +967,6 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
-        "name": "Navidad a Mi Estilo",
-        "url": "https://open.spotify.com/album/4ieRHjOfukQ0LNk7NNtzeE"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 318440,
-      "name": "Navidad en Mi Barrio",
-      "url": "https://open.spotify.com/track/2p4NQR05RqzwHsUVXRTNeB"
-    },
-    {
-      "added_at": "2023-12-19 14:35:20",
-      "album": {
-        "name": "Navidad - Canta Gallo, Canta",
-        "url": "https://open.spotify.com/album/5Pe9YcjXSiF0bNwwDeKDdS"
-      },
-      "artists": [
-        {
-          "name": "Tito Rojas",
-          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
-        }
-      ],
-      "duration_ms": 257693,
-      "name": "Cantemos Todos Cantemos",
-      "url": "https://open.spotify.com/track/3KGHYyFa4TpYYxDEiKAKeu"
-    },
-    {
-      "added_at": "2023-12-19 14:35:20",
-      "album": {
         "name": "Jerry Christmas",
         "url": "https://open.spotify.com/album/3rUqGxUgnf7MPugBN4oQa9"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 224826,
       "name": "El Mejor D\u00eda Del A\u00f1o",
       "url": "https://open.spotify.com/track/1O4oJxeeu5alzp2MLBDn65"
-    },
-    {
-      "added_at": "2023-12-19 14:35:20",
-      "album": {
-        "name": "Al Ni\u00f1o Dios",
-        "url": "https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo"
-      },
-      "artists": [
-        {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
-        }
-      ],
-      "duration_ms": 153182,
-      "name": "Al Ni\u00f1o Dios",
-      "url": "https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ"
     },
     {
       "added_at": "2023-12-19 14:35:20",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
-        "name": "Cumbi\u00f3n Navide\u00f1o",
-        "url": "https://open.spotify.com/album/0Bnjodya04yeqd3wCQyz3q"
+        "name": "El Lechon Se Coge",
+        "url": "https://open.spotify.com/album/7KFONzS15RNWQGoPtr9hih"
       },
       "artists": [
         {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+          "name": "Ismael Quiles",
+          "url": "https://open.spotify.com/artist/7c1VoHAdMXX4eww8lPfcTu"
         }
       ],
-      "duration_ms": 205653,
-      "name": "Cumbi\u00f3n Navide\u00f1o",
-      "url": "https://open.spotify.com/track/38DjBRQvyzMheIL0XoLiOb"
+      "duration_ms": 144353,
+      "name": "El Lechon Se Coge",
+      "url": "https://open.spotify.com/track/3GM1LSfCOvBEv91v1V9t7h"
     },
     {
       "added_at": "2023-12-19 14:35:20",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
-        "name": "El Lechon Se Coge",
-        "url": "https://open.spotify.com/album/7KFONzS15RNWQGoPtr9hih"
+        "name": "Cumbi\u00f3n Navide\u00f1o",
+        "url": "https://open.spotify.com/album/0Bnjodya04yeqd3wCQyz3q"
       },
       "artists": [
         {
-          "name": "Ismael Quiles",
-          "url": "https://open.spotify.com/artist/7c1VoHAdMXX4eww8lPfcTu"
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
         }
       ],
-      "duration_ms": 144353,
-      "name": "El Lechon Se Coge",
-      "url": "https://open.spotify.com/track/3GM1LSfCOvBEv91v1V9t7h"
+      "duration_ms": 205653,
+      "name": "Cumbi\u00f3n Navide\u00f1o",
+      "url": "https://open.spotify.com/track/38DjBRQvyzMheIL0XoLiOb"
     },
     {
       "added_at": "2023-12-19 14:35:20",
@@ -1399,26 +1399,6 @@
       "duration_ms": 202906,
       "name": "Lo Que Ped\u00ed En Mi Carta",
       "url": "https://open.spotify.com/track/5YUe4SfZKtltdUcaoKbeLv"
-    },
-    {
-      "added_at": "2023-12-19 14:35:20",
-      "album": {
-        "name": "Diciembre Colombiano",
-        "url": "https://open.spotify.com/album/1k4QeqeqrihPty4qrv9Kqa"
-      },
-      "artists": [
-        {
-          "name": "Bobby Cruz",
-          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
-        },
-        {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
-        }
-      ],
-      "duration_ms": 306760,
-      "name": "Bomba en Navidad",
-      "url": "https://open.spotify.com/track/1mqTAwIQFWR6JCrAMFiE8Y"
     },
     {
       "added_at": "2023-12-19 14:35:20",
@@ -1479,6 +1459,26 @@
       "duration_ms": 513613,
       "name": "Tarjeta de Navidad",
       "url": "https://open.spotify.com/track/2ROX1dn85u8PTvmdbwy4qL"
+    },
+    {
+      "added_at": "2023-12-19 14:35:20",
+      "album": {
+        "name": "Diciembre Colombiano",
+        "url": "https://open.spotify.com/album/1k4QeqeqrihPty4qrv9Kqa"
+      },
+      "artists": [
+        {
+          "name": "Bobby Cruz",
+          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
+        },
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+        }
+      ],
+      "duration_ms": 306760,
+      "name": "Bomba en Navidad",
+      "url": "https://open.spotify.com/track/1mqTAwIQFWR6JCrAMFiE8Y"
     },
     {
       "added_at": "2023-12-19 14:35:20",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
+        "name": "Tarjeta de Navidad III",
+        "url": "https://open.spotify.com/album/3dRrWUIYklvUAByzs1mMvo"
+      },
+      "artists": [
+        {
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+        }
+      ],
+      "duration_ms": 286226,
+      "name": "Tan Pronto Llegan los Reyes",
+      "url": "https://open.spotify.com/track/1DK8HS1wnJjMI4wLykcxfZ"
+    },
+    {
+      "added_at": "2023-12-19 14:35:20",
+      "album": {
         "name": "Parranda All-Stars: Navidad - Edici\u00f3n Especial",
         "url": "https://open.spotify.com/album/4WW0UpmKHjrjzC6nklfUM9"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 288536,
       "name": "Mapeye 2022",
       "url": "https://open.spotify.com/track/2nY6sEywqui9MCg6cCNcWT"
-    },
-    {
-      "added_at": "2023-12-19 14:35:20",
-      "album": {
-        "name": "Tarjeta de Navidad III",
-        "url": "https://open.spotify.com/album/3dRrWUIYklvUAByzs1mMvo"
-      },
-      "artists": [
-        {
-          "name": "Ismael Miranda",
-          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
-        }
-      ],
-      "duration_ms": 286226,
-      "name": "Tan Pronto Llegan los Reyes",
-      "url": "https://open.spotify.com/track/1DK8HS1wnJjMI4wLykcxfZ"
     },
     {
       "added_at": "2023-12-19 14:35:20",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2023-12-19 14:35:20",
       "album": {
+        "name": "De Parranda con Don Luis",
+        "url": "https://open.spotify.com/album/6Wd576TdlOYVGVVOpEszgp"
+      },
+      "artists": [
+        {
+          "name": "Luis Miranda",
+          "url": "https://open.spotify.com/artist/197zNqqJ78Awm1Y45O4zkv"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "Eso Es Navidad - Aguinaldo Cayeyano",
+      "url": "https://open.spotify.com/track/24jcp1EzuQG2esEJxBnrc3"
+    },
+    {
+      "added_at": "2023-12-19 14:35:20",
+      "album": {
         "name": "Diciembre Colombiano",
         "url": "https://open.spotify.com/album/1k4QeqeqrihPty4qrv9Kqa"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 253506,
       "name": "Aguinaldo Navide\u00f1o",
       "url": "https://open.spotify.com/track/3rFwtBGwM0kxJKGfh5TmXt"
-    },
-    {
-      "added_at": "2023-12-19 14:35:20",
-      "album": {
-        "name": "De Parranda con Don Luis",
-        "url": "https://open.spotify.com/album/6Wd576TdlOYVGVVOpEszgp"
-      },
-      "artists": [
-        {
-          "name": "Luis Miranda",
-          "url": "https://open.spotify.com/artist/197zNqqJ78Awm1Y45O4zkv"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "Eso Es Navidad - Aguinaldo Cayeyano",
-      "url": "https://open.spotify.com/track/24jcp1EzuQG2esEJxBnrc3"
     }
   ],
   "unique_name": "Navidad Con Sabor",

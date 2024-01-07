@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 
 > Blues guitar heroes of today\. Cover: Kirk Fletcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,504 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,513 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 | 43 | [Clawhammer](https://open.spotify.com/track/193RPPANAhUa4KZmq35hUc) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Mile End](https://open.spotify.com/album/3dwV0EOUKOhwKWz4KZCgvx) | 4:30 |
 | 44 | [Shufflin' West Coast](https://open.spotify.com/track/35znJMAm3GhjLwY9o3KiSG) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Albert Lee](https://open.spotify.com/artist/3YMlcBYj21DcMALlALTO7m), [Tim Pierce](https://open.spotify.com/artist/5ViJHAJBhLL7J9WNR1uPDN), [James Harrah](https://open.spotify.com/artist/4XonxCeLqWlDlpztAyCZb4), [Johnny Lee Schell](https://open.spotify.com/artist/5LAFSMKY4RMw192jHeaBRi), [Toshi Yanagi](https://open.spotify.com/artist/0H2cYrALxabRKcAJdF6EKj), [Michael Thompson](https://open.spotify.com/artist/3s4aVgqEf5mdv6ubR7nwfE), [Brent Mason](https://open.spotify.com/artist/1oO9xG0YRXpZdXseGgNlFk), [Paul Franklin](https://open.spotify.com/artist/2d5aRKZTJgcuetYRNzKDrA) | [Shufflin' West Coast](https://open.spotify.com/album/0xU6562s9LeTyv9dvqFUw0) | 4:22 |
 | 45 | [Found out the Hard Way](https://open.spotify.com/track/0Nef20YaUTC9xS2zrvtZCO) | [Ben Poole](https://open.spotify.com/artist/3MQuQtVNJG9SchM1l2CTm3) | [Anytime You Need Me](https://open.spotify.com/album/7utRyQ51kDmzNU24doZANL) | 5:52 |
-| 46 | [What You’re Made Of](https://open.spotify.com/track/1RxSQxCQKSInGZREvUPjWn) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Signs](https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H) | 4:18 |
+| 46 | [Bottleneck Stomp](https://open.spotify.com/track/31tYuBrDa4HN45hxSp4Bc6) | [Funkwrench Blues](https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs), [Johnny Stachela](https://open.spotify.com/artist/0S1BmerVaINiJar88KgNzi) | [Bottleneck Stomp](https://open.spotify.com/album/4FQBBIdc4T0fsxHAdnavFC) | 3:21 |
 | 47 | [Sweet Tea](https://open.spotify.com/track/6JojEmIb1NMNEGpAlDDKhj) | [Greg Koch](https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC) | [Unrepentant](https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1) | 9:59 |
-| 48 | [Bottleneck Stomp](https://open.spotify.com/track/31tYuBrDa4HN45hxSp4Bc6) | [Funkwrench Blues](https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs), [Johnny Stachela](https://open.spotify.com/artist/0S1BmerVaINiJar88KgNzi) | [Bottleneck Stomp](https://open.spotify.com/album/4FQBBIdc4T0fsxHAdnavFC) | 3:21 |
+| 48 | [What You’re Made Of](https://open.spotify.com/track/1RxSQxCQKSInGZREvUPjWn) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Signs](https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H) | 4:18 |
 | 49 | [Royal Tea](https://open.spotify.com/track/503MGoC5sPfTvL3cbJsg7P) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Royal Tea](https://open.spotify.com/album/6FsaAloD9oGRXjRKIriR9i) | 4:28 |
 | 50 | [Backbone](https://open.spotify.com/track/4qx9q7xl37ijJrayYyOkRq) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Pressure](https://open.spotify.com/album/6U5r2stVlrkxLZT7dUH4Vg) | 2:48 |
 
-Snapshot ID: `MCwzZTljMzkxODJlYmFhNGI0NDE2NWY3YTA3NDM2ZTVlNGI0Y2YzMTQ1`
+Snapshot ID: `MCxhNDc0YjJjMTM4MjFiZGQyYTM0OGVhN2M1NDg1N2YyMDdiY2E1ZmFk`

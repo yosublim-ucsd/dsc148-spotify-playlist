@@ -4,12 +4,13 @@
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: fhop music, Nívea Soares
 
-888 songs - 3 day 0 hr 1 min
+889 songs - 3 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Alegria Virá](https://open.spotify.com/track/6hlAIjtKuAPFYstOfPenmx) | [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb) | [A Alegria Virá](https://open.spotify.com/album/01v4oN0AZax53lX0mINtTn) | 4:00 | 2023-08-04 | 2023-08-19 |
 | [A Benção](https://open.spotify.com/track/5Ncqy6XkE1Q82zqWTJ9Ni1) | [Matheus Rizzo](https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP), [Coral e Banda de Curitiba](https://open.spotify.com/artist/6tKZHKPBqYZ80PB1sgyyZM) | [A Benção](https://open.spotify.com/album/6SZ4lPzzgASSiBQQI1E65u) | 7:28 | 2023-09-01 | 2023-09-09 |
+| [A Benção \- The Blessing](https://open.spotify.com/track/7ni7ZHhG5wLh2x4DeQnzI8) | [Musical Songsdei](https://open.spotify.com/artist/5O1bWmXcQoWFeW4QhmEMIb) | [Wedding Songs](https://open.spotify.com/album/6idu1dWtpDqDgRMqe2duxu) | 4:10 | 2024-01-05 |  |
 | [A Boa Parte \- Ao Vivo](https://open.spotify.com/track/137KTFlEw4ynSLGhJ1JStl) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [A Boa Parte \(Ao Vivo\)](https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC) | 5:50 | 2024-01-05 |  |
 | [A Casa Caiu](https://open.spotify.com/track/5TSHa3hQd3YOvBHNKSuc5C) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Ele e Nóiz](https://open.spotify.com/album/65iNHR49BjxlK6nuOrKqrv) | 2:52 | 2023-12-22 | 2024-01-06 |
 | [A Casa Está Cheia](https://open.spotify.com/track/7bs7YpUi9VWClwAf2hHsxm) | [Higor Rosa](https://open.spotify.com/artist/2fqNvfLoAikmiTGR5WgOeA) | [A Casa Está Cheia](https://open.spotify.com/album/1Ljo1yPSGkUVWeONT41dpl) | 3:43 | 2023-10-06 | 2023-10-14 |

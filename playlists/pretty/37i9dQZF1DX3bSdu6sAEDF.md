@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 
 > Let this smooth mix carry you home in style.
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,266 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,362 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 47 | [Waffle House](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Waffle House](https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99) | 2:25 |
 | 48 | [Smokin Out The Window](https://open.spotify.com/track/3xVZYkcuWalGudeKl861wb) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:17 |
 | 49 | [Feel Good Too](https://open.spotify.com/track/5bTWUSy1Xwm8bNwbc419wP) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/4HCUsZGlWSq1GrpgA9167A) | 3:59 |
-| 50 | [Blur](https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Blur](https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8) | 3:40 |
+| 50 | [Blur](https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Blur](https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8) | 3:40 |
 | 51 | [Wild Dogs \(Running in a Slow Dream\)](https://open.spotify.com/track/3jK53bWJDGzbTbqaBayfBB) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Wild Dogs \(Running in a Slow Dream\)](https://open.spotify.com/album/6AxPMn4e6dETGN7PNvH3xM) | 3:30 |
 | 52 | [Love Like That](https://open.spotify.com/track/34WHC9NYUAc4IjMvt56qNq) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [Drift Back](https://open.spotify.com/album/2Y5gD74jkosItJIdpWrhHl) | 3:14 |
 | 53 | [Afterglow](https://open.spotify.com/track/2Jh44UZ8vuwjxtQlbxJJki) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Afterglow](https://open.spotify.com/album/1TwYZEHm1MRXmtGAgmCyHc) | 3:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 74 | [Dizzy](https://open.spotify.com/track/1nosxRR4SgRdgqjDdKXYH5) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Dizzy](https://open.spotify.com/album/4MFH523922WoxgMJl5E5Qv) | 3:04 |
 | 75 | [Don't Stop the Car](https://open.spotify.com/track/72OrO3uJtMEGRlPyKLogvk) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [You'll Get It When You're Older](https://open.spotify.com/album/3Cyholll5qarrrlnIlxiCu) | 2:39 |
 
-Snapshot ID: `MCxhZTIyOTM3OTUzMjVlMmI3NmFjY2U3Y2IyNTdjY2U5Mjg5NDM1MmNi`
+Snapshot ID: `MCwyMWIzY2Q2ZDA5YWYwYWZlYzFhYTFhOGUxM2IzMDIzYTNhMzAzYWIw`

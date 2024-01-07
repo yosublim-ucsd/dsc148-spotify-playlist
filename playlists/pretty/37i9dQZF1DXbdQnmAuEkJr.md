@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdQnmAuEkJr.md) - [plain]
 
 > Un viaje al país del amor a través de sus canciones más hermosas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,270 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,279 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdQnmAuEkJr.md) - [plain]
 | 9 | [Avant que je m'ennuie](https://open.spotify.com/track/0bTVrDHZ8ddqq8qdrdHiQz) | [Mathieu Boogaerts](https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ) | [Mathieu Boogaerts](https://open.spotify.com/album/29BTL0fngaaQ4fKIQXO1Lj) | 3:32 |
 | 10 | [Bahia](https://open.spotify.com/track/18HYNYZAY4Ev0A41zU7g2B) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Bahia](https://open.spotify.com/album/3twysRacM3Fm3hUCWedE9h) | 3:20 |
 | 11 | [Rien que l’extase](https://open.spotify.com/track/1Cx1DQg6r4nj52EeQMNOBw) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Carla Bruni \(Deluxe\)](https://open.spotify.com/album/4MSaeFSXAUFD7x4OmVhuhN) | 3:22 |
-| 12 | [T'es beau](https://open.spotify.com/track/5yeE2zpSDyWMVB6DyPFZJr) | [Pauline Croze](https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1) | [Pauline Croze](https://open.spotify.com/album/2KfEcJpTsSl8a8kxrXuZPf) | 2:43 |
+| 12 | [T'es beau](https://open.spotify.com/track/52IOzi84P1GTbNsByXmaSc) | [Pauline Croze](https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1) | [Pauline Croze](https://open.spotify.com/album/0KUymSDjNL7ZaJrKcFNoNQ) | 2:43 |
 | 13 | [Caravane](https://open.spotify.com/track/2UXjdnCvgGGIXLrAwCVVQT) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [caravane](https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6) | 3:26 |
 | 14 | [La couleur \(feat\. Renan Luce\)](https://open.spotify.com/track/6fXMkI2629SclgyDwoL2kj) | [Le Soldat Rose](https://open.spotify.com/artist/2rOCPPNRJnQMkNa5D18Ef2), [Renan Luce](https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J) | [Le Soldat Rose 2](https://open.spotify.com/album/6fZCT61LQYLgNuwQkR8JCD) | 2:33 |
 | 15 | [Les Secrets Chuchotés](https://open.spotify.com/track/3DnoHIA9BPsMBNVnMYbYIL) | [Renan Luce](https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J) | [D’Une Tonne A Un Tout Petit Poids](https://open.spotify.com/album/3IZYKZL2tUqYKUL9EAbPpt) | 4:13 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdQnmAuEkJr.md) - [plain]
 | 69 | [à quoi tu penses quand tu m'adores ?](https://open.spotify.com/track/6zI9QsktCCl9NLJ5Vdop7k) | [Mélodie Lauret](https://open.spotify.com/artist/4gceoi6b3eqGyx9dLQU1S4) | [à quoi tu penses quand tu m'adores ?](https://open.spotify.com/album/6on8d8g4VHiUM3AkT7ElJn) | 3:13 |
 | 70 | [Les eaux de mars](https://open.spotify.com/track/32FfL5hpFQdweMkxg8Z55o) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [Graham Harvey](https://open.spotify.com/artist/1x7a6AcM8lS9mfpkzfIgAt), [Matt Skelton](https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA), [John Parricelli](https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri), [Jeremy Brown](https://open.spotify.com/artist/2GryQVS8rv0VqHUGN4Ua3v) | [Raconte\-moi..\. \(Bonus Edition\)](https://open.spotify.com/album/3afGgL2rBWMuLYEWXScDFb) | 3:38 |
 
-Snapshot ID: `MCw1ODU4MWIzNDZjMjVlNWJiNDAzN2Y1ZTAwYTAyNzZkNTM3ZWQwMGM1`
+Snapshot ID: `MCw3NmIzMTcwZTVlOWNjOWVjYTA3M2E0ZjkwMWUwZTI4ZGE3MDMyM2Fl`

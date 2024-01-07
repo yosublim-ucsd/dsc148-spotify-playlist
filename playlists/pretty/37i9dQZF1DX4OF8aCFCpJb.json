@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 68737,
+  "num_followers": 68735,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGFkMjRiNjc3MGIwNjAwNWQwYTdkYWE1Y2IxMTkxZjMzMmVhOGQ1",
+  "snapshot_id": "MCw5MzMzYmQxN2ViOWEzYjU1ZDljZGU1NzcxZTBmOTQ5YmRiMjJhOTVh",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Du som snodde min cykel",
-        "url": "https://open.spotify.com/album/3rUFIWV0Ttk9Gt1UDW7WfA"
-      },
-      "artists": [
-        {
-          "name": "Kronofogden",
-          "url": "https://open.spotify.com/artist/7jVFpY4BgMLcoOHrHbxKHQ"
-        }
-      ],
-      "duration_ms": 223515,
-      "name": "Du som snodde min cykel",
-      "url": "https://open.spotify.com/track/34xfqylPr6bjehLAtxJSJF"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "SELFMADE",
         "url": "https://open.spotify.com/album/7bDdwOEcIAfemtJecLkP5g"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 240062,
       "name": "Onda \u00f6gat",
       "url": "https://open.spotify.com/track/2308zhPgcLzR1xKMhI5naC"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Du som snodde min cykel",
+        "url": "https://open.spotify.com/album/3rUFIWV0Ttk9Gt1UDW7WfA"
+      },
+      "artists": [
+        {
+          "name": "Kronofogden",
+          "url": "https://open.spotify.com/artist/7jVFpY4BgMLcoOHrHbxKHQ"
+        }
+      ],
+      "duration_ms": 223515,
+      "name": "Du som snodde min cykel",
+      "url": "https://open.spotify.com/track/34xfqylPr6bjehLAtxJSJF"
     }
   ],
   "unique_name": "Svensk Reggae",

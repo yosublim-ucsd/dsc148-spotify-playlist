@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 
 > Découvrez les meilleures nouveautés pop\. Photo : Lewis Capaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,078 likes - 49 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,086 likes - 49 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 | 48 | [BITTERSWEET](https://open.spotify.com/track/4Ap4XPfDknSxcqBTVbyEqp) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [BITTERSWEET](https://open.spotify.com/album/5aVRKxppPPFxvPYGXNerNX) | 2:38 |
 | 49 | [Lava Lamp](https://open.spotify.com/track/1MQvmrKpUj7mARu12pkbSV) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Crying in the Carwash](https://open.spotify.com/album/3NLGtBlKz64dChSLbLQqzV) | 3:00 |
 
-Snapshot ID: `MCw4ZjU4YzU5NzAxYjA0ZWVlMjhlNjI5N2NlNDljYjBkZGI3ZTg3OTc5`
+Snapshot ID: `MCw3OWZjZDk4M2E0Y2M5MzJkMDhhOTYxMjA2ZDI2ZjdhMTk5MzkwOGI3`

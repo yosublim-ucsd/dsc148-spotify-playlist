@@ -1,12 +1,12 @@
 {
   "description": "Come on, man. Just smile!",
-  "num_followers": 486520,
+  "num_followers": 486581,
   "original_name": "Just Smile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTU4MzkzMDBkMjhhM2M4NjdlYTI2NTNiMDUxNmJjMWI2N2I1Y2Mx",
+  "snapshot_id": "MCwzMTliNjBlZWNmMWE1OWI3ZWFiNzI4Mjk4ZjEzZGVkODFhMTA3MDIy",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -875,22 +875,18 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Grateful",
-        "url": "https://open.spotify.com/album/5tU3ADncFHfdDScnuzWTXa"
+        "name": "Fix It",
+        "url": "https://open.spotify.com/album/0UIcpuZ7MGsGOSzv5RFB2p"
       },
       "artists": [
         {
-          "name": "Agent Sasco (Assassin)",
-          "url": "https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy"
-        },
-        {
-          "name": "Stephen Marley",
-          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+          "name": "Clinton Fearon",
+          "url": "https://open.spotify.com/artist/2mSiPzmzBCGS7p6tEuRuTd"
         }
       ],
-      "duration_ms": 273792,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/1wslSV8ppr83jS3fWHHYQT"
+      "duration_ms": 182533,
+      "name": "Fix It",
+      "url": "https://open.spotify.com/track/2FmD1oi2Wna2jcQcYEEYn5"
     }
   ],
   "unique_name": "Just Smile",

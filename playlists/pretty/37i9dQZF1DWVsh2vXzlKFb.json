@@ -1,12 +1,12 @@
 {
   "description": "The t-shirt weather essentials.",
-  "num_followers": 476686,
+  "num_followers": 476899,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzZiZDQ5ZjEwYzc4YjE4MTE0NTZhYTNhNzRhYmMyNGU0ZWQzMjI1",
+  "snapshot_id": "MCxkNjZmZDJmZWYyODE1M2VkN2VjNDE1ZTgzYjlmN2VjZWI2OWJiZjJk",
   "tracks": [
     {
       "added_at": "2023-11-24 02:03:10",
@@ -275,18 +275,18 @@
     {
       "added_at": "2023-11-24 02:03:10",
       "album": {
-        "name": "What Do You Think About the Car?",
-        "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
+        "name": "Never Trust a Happy Song",
+        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
       },
       "artists": [
         {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
         }
       ],
-      "duration_ms": 252306,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ"
+      "duration_ms": 218013,
+      "name": "Tongue Tied",
+      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
     },
     {
       "added_at": "2023-11-24 02:03:10",
@@ -307,18 +307,18 @@
     {
       "added_at": "2023-11-24 02:03:10",
       "album": {
-        "name": "Never Trust a Happy Song",
-        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
+        "name": "What Do You Think About the Car?",
+        "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
       },
       "artists": [
         {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
         }
       ],
-      "duration_ms": 218013,
-      "name": "Tongue Tied",
-      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
+      "duration_ms": 252306,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ"
     },
     {
       "added_at": "2023-11-24 02:03:10",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-11-24 02:03:10",
       "album": {
-        "name": "Tourist History",
-        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 191706,
-      "name": "What You Know",
-      "url": "https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA"
-    },
-    {
-      "added_at": "2023-11-24 02:03:10",
-      "album": {
         "name": "Oracular Spectacular",
         "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 261000,
       "name": "Time to Pretend",
       "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
+    },
+    {
+      "added_at": "2023-11-24 02:03:10",
+      "album": {
+        "name": "Tourist History",
+        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 191706,
+      "name": "What You Know",
+      "url": "https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA"
     },
     {
       "added_at": "2023-11-24 02:03:10",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-11-24 02:03:10",
       "album": {
-        "name": "WHO CARES?",
-        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "AMAZING",
-      "url": "https://open.spotify.com/track/3OM6qQmdFV6uy61GIqpRtf"
-    },
-    {
-      "added_at": "2023-11-24 02:03:10",
-      "album": {
         "name": "Tip Toe",
         "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 224725,
       "name": "Tip Toe",
       "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
+    },
+    {
+      "added_at": "2023-11-24 02:03:10",
+      "album": {
+        "name": "WHO CARES?",
+        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "AMAZING",
+      "url": "https://open.spotify.com/track/3OM6qQmdFV6uy61GIqpRtf"
     },
     {
       "added_at": "2023-11-24 02:03:10",
@@ -979,26 +979,6 @@
     {
       "added_at": "2023-11-24 02:03:10",
       "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 206586,
-      "name": "Silk Chiffon",
-      "url": "https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f"
-    },
-    {
-      "added_at": "2023-11-24 02:03:10",
-      "album": {
         "name": "The Difference",
         "url": "https://open.spotify.com/album/4iwKDIUE0hLZcdadHE87kl"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 139662,
       "name": "The Difference",
       "url": "https://open.spotify.com/track/5kJ4BWZ9Y1qFIwwTbMIxYX"
+    },
+    {
+      "added_at": "2023-11-24 02:03:10",
+      "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "Silk Chiffon",
+      "url": "https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f"
     },
     {
       "added_at": "2023-11-24 02:03:10",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-11-24 02:03:10",
       "album": {
-        "name": "Gossamer",
-        "url": "https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv"
-      },
-      "artists": [
-        {
-          "name": "Passion Pit",
-          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
-        }
-      ],
-      "duration_ms": 264493,
-      "name": "Take a Walk",
-      "url": "https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F"
-    },
-    {
-      "added_at": "2023-11-24 02:03:10",
-      "album": {
         "name": "Rose Pink Cadillac",
         "url": "https://open.spotify.com/album/2VaOn32haUapQOYnerK32W"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 261911,
       "name": "Rose Pink Cadillac",
       "url": "https://open.spotify.com/track/5J59tqY0Ad4r27tJJajzyB"
+    },
+    {
+      "added_at": "2023-11-24 02:03:10",
+      "album": {
+        "name": "Gossamer",
+        "url": "https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv"
+      },
+      "artists": [
+        {
+          "name": "Passion Pit",
+          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
+        }
+      ],
+      "duration_ms": 264493,
+      "name": "Take a Walk",
+      "url": "https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F"
     },
     {
       "added_at": "2023-11-24 02:03:10",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-11-24 02:03:10",
       "album": {
-        "name": "Miss Summer",
-        "url": "https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco"
-      },
-      "artists": [
-        {
-          "name": "ODIE",
-          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
-        }
-      ],
-      "duration_ms": 162376,
-      "name": "Miss Summer",
-      "url": "https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc"
-    },
-    {
-      "added_at": "2023-11-24 02:03:10",
-      "album": {
         "name": "if i could make it go quiet",
         "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 182426,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu"
+    },
+    {
+      "added_at": "2023-11-24 02:03:10",
+      "album": {
+        "name": "Miss Summer",
+        "url": "https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco"
+      },
+      "artists": [
+        {
+          "name": "ODIE",
+          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
+        }
+      ],
+      "duration_ms": 162376,
+      "name": "Miss Summer",
+      "url": "https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc"
     },
     {
       "added_at": "2023-11-24 02:03:10",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2023-11-24 02:03:10",
       "album": {
-        "name": "Ms. Poli Sci",
-        "url": "https://open.spotify.com/album/7qypqH6zU0ZowehywC9395"
-      },
-      "artists": [
-        {
-          "name": "Paul Russell",
-          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
-        },
-        {
-          "name": "Khary",
-          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
-        }
-      ],
-      "duration_ms": 128703,
-      "name": "Ms. Poli Sci",
-      "url": "https://open.spotify.com/track/3imYkN34og7muZbkSZWLUW"
-    },
-    {
-      "added_at": "2023-11-24 02:03:10",
-      "album": {
         "name": "New Gold (feat. Tame Impala and Bootie Brown)",
         "url": "https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 215149,
       "name": "New Gold (feat. Tame Impala and Bootie Brown)",
       "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
+    },
+    {
+      "added_at": "2023-11-24 02:03:10",
+      "album": {
+        "name": "Ms. Poli Sci",
+        "url": "https://open.spotify.com/album/7qypqH6zU0ZowehywC9395"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        },
+        {
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+        }
+      ],
+      "duration_ms": 128703,
+      "name": "Ms. Poli Sci",
+      "url": "https://open.spotify.com/track/3imYkN34og7muZbkSZWLUW"
     },
     {
       "added_at": "2023-11-24 02:03:10",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-11-24 02:03:10",
       "album": {
-        "name": "Twenty Twenty",
-        "url": "https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 252987,
-      "name": "Roddy",
-      "url": "https://open.spotify.com/track/5hS8s1Vf4CeSRBT1bTWa39"
-    },
-    {
-      "added_at": "2023-11-24 02:03:10",
-      "album": {
         "name": "Untourable Album",
         "url": "https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP"
       },
@@ -1495,18 +1479,18 @@
     {
       "added_at": "2023-11-24 02:03:10",
       "album": {
-        "name": "Feels Right",
-        "url": "https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn"
+        "name": "Twenty Twenty",
+        "url": "https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0"
       },
       "artists": [
         {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
         }
       ],
-      "duration_ms": 199006,
-      "name": "Feels Right",
-      "url": "https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D"
+      "duration_ms": 252987,
+      "name": "Roddy",
+      "url": "https://open.spotify.com/track/5hS8s1Vf4CeSRBT1bTWa39"
     },
     {
       "added_at": "2023-11-24 02:03:10",
@@ -1523,6 +1507,22 @@
       "duration_ms": 215546,
       "name": "Don't Take The Money",
       "url": "https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ"
+    },
+    {
+      "added_at": "2023-11-24 02:03:10",
+      "album": {
+        "name": "Feels Right",
+        "url": "https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 199006,
+      "name": "Feels Right",
+      "url": "https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D"
     },
     {
       "added_at": "2023-11-24 02:03:10",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-11-24 02:03:10",
       "album": {
-        "name": "Young Chasers (Deluxe)",
-        "url": "https://open.spotify.com/album/4a5Kj8QND91bSnXTsLUetM"
-      },
-      "artists": [
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 192120,
-      "name": "T-Shirt Weather",
-      "url": "https://open.spotify.com/track/7MfNoHB8JRNbSQ8P3eAfMQ"
-    },
-    {
-      "added_at": "2023-11-24 02:03:10",
-      "album": {
         "name": "Seventeen Going Under (Deluxe)",
         "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 189360,
       "name": "Getting Started",
       "url": "https://open.spotify.com/track/4jzK6Ey84SAexMK5C2JWKx"
+    },
+    {
+      "added_at": "2023-11-24 02:03:10",
+      "album": {
+        "name": "Young Chasers (Deluxe)",
+        "url": "https://open.spotify.com/album/4a5Kj8QND91bSnXTsLUetM"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 192120,
+      "name": "T-Shirt Weather",
+      "url": "https://open.spotify.com/track/7MfNoHB8JRNbSQ8P3eAfMQ"
     },
     {
       "added_at": "2023-11-24 02:03:10",

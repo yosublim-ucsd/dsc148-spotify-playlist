@@ -1,12 +1,12 @@
 {
   "description": "Bonitas, orgullosas y empoderadas, as\u00ed somos las se\u00f1oras.",
-  "num_followers": 281879,
+  "num_followers": 282007,
   "original_name": "Modo Se\u00f1ora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTM0NDRmNzQxYmM4NjY4YWU4NDk0YjQ1N2MzYzE3ZGRjM2Q1MDNm",
+  "snapshot_id": "MCw5ZWFmOTJkODU4OTczYmUwMWNmYjQ2OWIxMDA5OTRhMGI2OTI4Y2Y1",
   "tracks": [
     {
       "added_at": "2022-05-10 02:03:57",
@@ -837,6 +837,22 @@
       "url": "https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2"
     },
     {
+      "added_at": "2022-05-10 02:03:57",
+      "album": {
+        "name": "Deseo Carnal",
+        "url": "https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF"
+      },
+      "artists": [
+        {
+          "name": "Alaska Y Dinarama",
+          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Ni t\u00fa ni nadie",
+      "url": "https://open.spotify.com/track/7LpS82vPDLgZAHWRtWBBRj"
+    },
+    {
       "added_at": "2021-05-21 05:04:59",
       "album": {
         "name": "Canto Por Ti",
@@ -871,22 +887,6 @@
       "duration_ms": 212560,
       "name": "Aunque no sea conmigo",
       "url": "https://open.spotify.com/track/0dRY4OrSY53yUjVgfgne1W"
-    },
-    {
-      "added_at": "2022-05-10 02:03:57",
-      "album": {
-        "name": "Deseo Carnal",
-        "url": "https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF"
-      },
-      "artists": [
-        {
-          "name": "Alaska Y Dinarama",
-          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Ni t\u00fa ni nadie",
-      "url": "https://open.spotify.com/track/7LpS82vPDLgZAHWRtWBBRj"
     },
     {
       "added_at": "2021-05-21 05:04:59",
@@ -987,22 +987,6 @@
     {
       "added_at": "2021-05-21 05:04:59",
       "album": {
-        "name": "21 Black Jack",
-        "url": "https://open.spotify.com/album/4jiWswx18F7x1dRMKmC9YR"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "duration_ms": 206706,
-      "name": "Para Amarnos M\u00e1s",
-      "url": "https://open.spotify.com/track/3VDJrFMOFyYFGPtIocqkeP"
-    },
-    {
-      "added_at": "2021-05-21 05:04:59",
-      "album": {
         "name": "Tierra De Nadie",
         "url": "https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 227600,
       "name": "Simplemente Amigos",
       "url": "https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G"
+    },
+    {
+      "added_at": "2021-05-21 05:04:59",
+      "album": {
+        "name": "21 Black Jack",
+        "url": "https://open.spotify.com/album/4jiWswx18F7x1dRMKmC9YR"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "duration_ms": 206706,
+      "name": "Para Amarnos M\u00e1s",
+      "url": "https://open.spotify.com/track/3VDJrFMOFyYFGPtIocqkeP"
     },
     {
       "added_at": "2022-05-10 02:03:57",
@@ -1217,20 +1217,20 @@
       "url": "https://open.spotify.com/track/4Ft4AbNwk1acKagaBOmvHb"
     },
     {
-      "added_at": "2021-05-21 05:04:59",
+      "added_at": "2022-05-10 02:03:57",
       "album": {
-        "name": "Orgullo De Mujer",
-        "url": "https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3"
+        "name": "No Es Pecado -Remasters",
+        "url": "https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh"
       },
       "artists": [
         {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+          "name": "Alaska Y Dinarama",
+          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
         }
       ],
-      "duration_ms": 243933,
-      "name": "Insensible A Ti (Me Pone A Mil)",
-      "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
+      "duration_ms": 205306,
+      "name": "A qui\u00e9n le importa",
+      "url": "https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh"
     }
   ],
   "unique_name": "Modo Se\u00f1ora",

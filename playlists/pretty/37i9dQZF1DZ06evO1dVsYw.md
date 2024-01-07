@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dVsYw.md) - [plain]
 
 > This is Racionais MC's\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,291 likes - 33 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,337 likes - 33 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dVsYw.md) - [plain]
 | 32 | [Mano na Porta do Bar \- Ao Vivo](https://open.spotify.com/track/5GYBM7QhacNgVzzZNUXfEr) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 4:11 |
 | 33 | [Mil Faces de um Homem Leal \(Marighella\)](https://open.spotify.com/track/5MYKqp6J8rstffAQBCE2nl) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Mil Faces de um Homem Leal \(Marighella\)](https://open.spotify.com/album/1hqniVJju4Nj9qGJR2ZeIR) | 9:58 |
 
-Snapshot ID: `Mjg0MDc3MDMsMDAwMDAwMDA1YzBkZWM5YjJjNjljMmVmM2VmNDljMGE1ZTUyYjhhNA==`
+Snapshot ID: `Mjg0MDkwNTYsMDAwMDAwMDAzODQ5OGVkMDA0YWRlNjBhYjgzOGU2Y2JkNzRiOTUxOQ==`

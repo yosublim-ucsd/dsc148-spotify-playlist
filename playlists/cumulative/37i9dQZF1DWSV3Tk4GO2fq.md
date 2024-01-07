@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1950s.
 
-319 songs - 14 hr 43 min
+320 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Bye Bye Love](https://open.spotify.com/track/6OPMgzdjWaxR0P8mCql03S) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [All I Have to Do Is Dream](https://open.spotify.com/album/7Dzfcj8tp9CUmkD6kXAqcb) | 2:22 | 2022-06-09 | 2023-12-04 |
 | [Bye Bye Love](https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:22 | 2022-06-09 | 2023-09-15 |
 | [Bye Bye Love](https://open.spotify.com/track/1j7HyD3cxyYw9bMFevxWyR) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | ["All I Do Is Dream" Everly Brothers](https://open.spotify.com/album/6c6lTSg4kIOMQ52CkTTUEx) | 2:24 | 2021-04-28 | 2022-07-29 |
+| [Bye Bye Love](https://open.spotify.com/track/2gPdx3Yugv715fTJeCS9Mf) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Cadence Years, Vol\. 1](https://open.spotify.com/album/22LRrDUzfy8sPMb9HiUWrx) | 2:24 | 2022-06-09 |  |
 | [Calendar Girl](https://open.spotify.com/track/7Gpx2fNJiilvrf9Ss8qbit) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Rock with Sedaka \(Expanded Edition\)](https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO) | 2:39 | 2021-04-28 |  |
 | [Can't We Be Friends?](https://open.spotify.com/track/7nOlpGbbxIBBIQyCGMtPyy) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella & Louis \(Classics International Version\)](https://open.spotify.com/album/2gL5uUab5439mDFvHnBtVb) | 3:45 | 2021-04-28 | 2022-02-20 |
 | [Can't We Be Friends?](https://open.spotify.com/track/22MsyWQ5WFGv8GXP7qmzDP) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella and Louis](https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE) | 3:47 | 2022-06-09 |  |
@@ -170,7 +171,7 @@
 | [Love Is Here To Stay \- Remastered 1998](https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Swingin' Lovers! \(Remastered\)](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) | 2:42 | 2021-04-28 | 2024-01-06 |
 | [Love Is Strange](https://open.spotify.com/track/3FL0L1AhHjFfhxQPGWjKkn) | [Mickey & Sylvia](https://open.spotify.com/artist/4Ej7Oks6loB2oJQ3O7Rujs) | [Love Is Strange \- The Best Of](https://open.spotify.com/album/1zgEV6JJtPb8GWRUzIUKTv) | 2:54 | 2021-04-28 | 2022-07-29 |
 | [Love Is Strange](https://open.spotify.com/track/3Bh370SaZZ0BPHKKOqvAgy) | [Mickey Baker](https://open.spotify.com/artist/2PnyEnxPA8H95IhFEBu5u7) | [Presenting Mickey Baker](https://open.spotify.com/album/4c0VimEddLBQamrcfimtQG) | 2:52 | 2022-06-09 |  |
-| [Love Letters In The Sand \- Single Version](https://open.spotify.com/track/1eqGYJJr2z2GXK1i0hD3BC) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [Pat Boone's Greatest Hits \(Reissue\)](https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ) | 2:14 | 2021-04-28 |  |
+| [Love Letters In The Sand \- Single Version](https://open.spotify.com/track/1eqGYJJr2z2GXK1i0hD3BC) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [Pat Boone's Greatest Hits \(Reissue\)](https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ) | 2:14 | 2021-04-28 | 2024-01-07 |
 | [Love Me Tender \- From the 20th Century\-Fox CinemaScope Production, "Love Me Tender"](https://open.spotify.com/track/4GAhAw0RCzNVP976NRMOqO) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:41 | 2021-04-28 | 2022-07-29 |
 | [Love Potion No\. 9 \- Remastered / Single Version](https://open.spotify.com/track/5ytPMYb6dkoli8sNSEsdmZ) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [The Best Of The Clovers \(Love Potion No\. 9\)](https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y) | 1:53 | 2022-06-09 |  |
 | [Love Potion No.9](https://open.spotify.com/track/5WAPUAldIHRM28j5fUl1ak) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [Love Potion No\. 9](https://open.spotify.com/album/5HbF1nApfbDTgm6Xhmon3Q) | 1:52 | 2021-04-28 | 2022-07-29 |

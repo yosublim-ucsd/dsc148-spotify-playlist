@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > La nueva generación del pop que definió el 2023 con RENEE en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,122 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,124 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 44 | [Hospital Sentimental](https://open.spotify.com/track/3RBVoUW2d2sLchpeqr1o4Y) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Hospital Sentimental](https://open.spotify.com/album/2TI5EI92Ji5MrzH9GcglFO) | 3:19 |
 | 45 | [Levitando en la Ciudad](https://open.spotify.com/track/1tENiVcTTaM6xmhDO2HR9Z) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [Levitando en la Ciudad](https://open.spotify.com/album/156lO3PeIUpcTVwZocak40) | 3:34 |
 | 46 | [Ya nada es igual](https://open.spotify.com/track/3yqZj4Uap9uhX9Ps1zveRF) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [lo haría todo de nuevo](https://open.spotify.com/album/5rQLajIuxAciQpm4gpLwJ3) | 3:33 |
-| 47 | [Viral](https://open.spotify.com/track/2mvJIj7K8000broZTq6eks) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Me gusto de noche](https://open.spotify.com/album/1EM2CEGR5bz4yrgDj5VoxC) | 2:32 |
-| 48 | [SKB](https://open.spotify.com/track/6gXpd9hQ2nBKlfCFBDQHsF) | [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [SKB](https://open.spotify.com/album/45Y4FneTtW9gZYhd98Sunp) | 3:38 |
+| 47 | [SKB](https://open.spotify.com/track/6gXpd9hQ2nBKlfCFBDQHsF) | [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [SKB](https://open.spotify.com/album/45Y4FneTtW9gZYhd98Sunp) | 3:38 |
+| 48 | [Viral](https://open.spotify.com/track/2mvJIj7K8000broZTq6eks) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Me gusto de noche](https://open.spotify.com/album/1EM2CEGR5bz4yrgDj5VoxC) | 2:32 |
 | 49 | [Ultraviolento](https://open.spotify.com/track/5HoUmqqOMk4yMb7jtuJBIi) | [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0) | [Ultraviolento](https://open.spotify.com/album/5xYGmWHzqxlTppRQjOytVQ) | 2:40 |
 | 50 | [Victoria](https://open.spotify.com/track/5pFhpiXdm55l9tbjo1cIP9) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Victoria](https://open.spotify.com/album/7mf8M3rvY415MLnakBrboi) | 3:05 |
 
-Snapshot ID: `MCw0ODgyMDIxZWU3NzU1NmVmM2IzYzNjOTA0MGRmY2FiMmYxNmQ4MmNk`
+Snapshot ID: `MCw4NzU5ZDI5MmM1MDI4Yjc0Yjk0YWFiYzhlNzQxNzYzNTk4ZmE3MDZj`

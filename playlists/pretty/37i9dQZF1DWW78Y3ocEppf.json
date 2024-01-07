@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: VEDO",
-  "num_followers": 43221,
+  "num_followers": 43212,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjQwOWZkMDdjOTVkZDY1NGUzZjU4NGM1ZTllZjc1MjJlYjMyN2I0",
+  "snapshot_id": "MCxiMjA2OWZhZTg4NGNmOTEzY2Y2NmI2ZjIxYzYzNTdjZmVjMGE5Y2U2",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -709,22 +709,6 @@
       "url": "https://open.spotify.com/track/6Dp3TqrwcYRs3KChuVlPMx"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Nuclear Reactor",
-        "url": "https://open.spotify.com/album/0PIMYn5bA5pRN6vNfpezm6"
-      },
-      "artists": [
-        {
-          "name": "OSA",
-          "url": "https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW"
-        }
-      ],
-      "duration_ms": 195498,
-      "name": "Nuclear Reactor",
-      "url": "https://open.spotify.com/track/12P1Scb3vywGXUU5LdJIxi"
-    },
-    {
       "added_at": "2023-05-19 04:00:00",
       "album": {
         "name": "CLEAR 2: SOFT LIFE EP",
@@ -739,6 +723,22 @@
       "duration_ms": 162506,
       "name": "How Does It Feel",
       "url": "https://open.spotify.com/track/1LADKWKeq6I21w6j9wDSad"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Nuclear Reactor",
+        "url": "https://open.spotify.com/album/0PIMYn5bA5pRN6vNfpezm6"
+      },
+      "artists": [
+        {
+          "name": "OSA",
+          "url": "https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW"
+        }
+      ],
+      "duration_ms": 195498,
+      "name": "Nuclear Reactor",
+      "url": "https://open.spotify.com/track/12P1Scb3vywGXUU5LdJIxi"
     },
     {
       "added_at": "2023-06-16 05:24:07",
@@ -985,6 +985,22 @@
       "url": "https://open.spotify.com/track/6KkeXDWP0gvoJkouKmF6De"
     },
     {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Meet Me Upstrz",
+        "url": "https://open.spotify.com/album/3g0MhX3p1UViH1m3H660LY"
+      },
+      "artists": [
+        {
+          "name": "Upstrz",
+          "url": "https://open.spotify.com/artist/36Jhnuvj1ZVWty7io450Fi"
+        }
+      ],
+      "duration_ms": 156107,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/4w1tInexl8p2Tc13q2T1NI"
+    },
+    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "Still Work (feat. Ty Dolla $ign & Muni Long)",
@@ -1007,22 +1023,6 @@
       "duration_ms": 154552,
       "name": "Still Work (feat. Ty Dolla $ign & Muni Long)",
       "url": "https://open.spotify.com/track/0teFeL0RvDeDbpmi1YZlFt"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Meet Me Upstrz",
-        "url": "https://open.spotify.com/album/3g0MhX3p1UViH1m3H660LY"
-      },
-      "artists": [
-        {
-          "name": "Upstrz",
-          "url": "https://open.spotify.com/artist/36Jhnuvj1ZVWty7io450Fi"
-        }
-      ],
-      "duration_ms": 156107,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/4w1tInexl8p2Tc13q2T1NI"
     },
     {
       "added_at": "2022-10-14 05:33:57",
@@ -1061,26 +1061,6 @@
       "url": "https://open.spotify.com/track/7ewblRqDhpyWHdZd0taBB1"
     },
     {
-      "added_at": "2022-09-30 04:04:59",
-      "album": {
-        "name": "Smoke, Drink, Break Up (feat. Wale)",
-        "url": "https://open.spotify.com/album/4w1pNr7PpV3zq6VgaqPHcx"
-      },
-      "artists": [
-        {
-          "name": "Nelccia",
-          "url": "https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 131542,
-      "name": "Smoke, Drink, Break Up (feat. Wale)",
-      "url": "https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3"
-    },
-    {
       "added_at": "2023-03-03 05:16:10",
       "album": {
         "name": "Swerve",
@@ -1099,6 +1079,26 @@
       "duration_ms": 199563,
       "name": "Swerve",
       "url": "https://open.spotify.com/track/73Vj0bDzuk77zsgxA0ujKG"
+    },
+    {
+      "added_at": "2022-09-30 04:04:59",
+      "album": {
+        "name": "Smoke, Drink, Break Up (feat. Wale)",
+        "url": "https://open.spotify.com/album/4w1pNr7PpV3zq6VgaqPHcx"
+      },
+      "artists": [
+        {
+          "name": "Nelccia",
+          "url": "https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 131542,
+      "name": "Smoke, Drink, Break Up (feat. Wale)",
+      "url": "https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1173,22 +1173,6 @@
       "url": "https://open.spotify.com/track/4xs4pD7Piz2HyQgdMcobKd"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Pray for a Beautiful Sky",
-        "url": "https://open.spotify.com/album/59FSCIole7NgODXaYCJN1M"
-      },
-      "artists": [
-        {
-          "name": "K. Forest",
-          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
-        }
-      ],
-      "duration_ms": 229090,
-      "name": "Thug Passion",
-      "url": "https://open.spotify.com/track/0p2Rhf58T7JgvwYqF0DXl1"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "SATIN",
@@ -1203,6 +1187,22 @@
       "duration_ms": 141428,
       "name": "DOWN BAD",
       "url": "https://open.spotify.com/track/48pi6NxVvt4npqDnLBi0iK"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Pray for a Beautiful Sky",
+        "url": "https://open.spotify.com/album/59FSCIole7NgODXaYCJN1M"
+      },
+      "artists": [
+        {
+          "name": "K. Forest",
+          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
+        }
+      ],
+      "duration_ms": 229090,
+      "name": "Thug Passion",
+      "url": "https://open.spotify.com/track/0p2Rhf58T7JgvwYqF0DXl1"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1361,22 +1361,6 @@
       "url": "https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS"
     },
     {
-      "added_at": "2023-06-16 05:24:07",
-      "album": {
-        "name": "who's loving you?",
-        "url": "https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 219662,
-      "name": "PT. II (DRAKE & DRIVE)",
-      "url": "https://open.spotify.com/track/56QSbiHEHJ55wewvQ3JXMZ"
-    },
-    {
       "added_at": "2023-08-18 04:00:00",
       "album": {
         "name": "Somebody",
@@ -1391,6 +1375,22 @@
       "duration_ms": 218000,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/1HWiS9m9JP4WrVycahNud7"
+    },
+    {
+      "added_at": "2023-06-16 05:24:07",
+      "album": {
+        "name": "who's loving you?",
+        "url": "https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 219662,
+      "name": "PT. II (DRAKE & DRIVE)",
+      "url": "https://open.spotify.com/track/56QSbiHEHJ55wewvQ3JXMZ"
     },
     {
       "added_at": "2023-05-05 04:18:58",
@@ -1429,22 +1429,6 @@
       "url": "https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN"
     },
     {
-      "added_at": "2022-09-30 04:04:59",
-      "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON"
-      },
-      "artists": [
-        {
-          "name": "Chxrry22",
-          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
-        }
-      ],
-      "duration_ms": 147792,
-      "name": "Wasteland",
-      "url": "https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC"
-    },
-    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Thanks 4 Nothing",
@@ -1459,6 +1443,22 @@
       "duration_ms": 149020,
       "name": "New Nigga",
       "url": "https://open.spotify.com/track/03sBdwtbA0t5mGOcqHxBXB"
+    },
+    {
+      "added_at": "2022-09-30 04:04:59",
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON"
+      },
+      "artists": [
+        {
+          "name": "Chxrry22",
+          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
+        }
+      ],
+      "duration_ms": 147792,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1645,6 +1645,26 @@
       "url": "https://open.spotify.com/track/3QfAjgURz2FywuZFyTM8z5"
     },
     {
+      "added_at": "2023-07-28 08:00:10",
+      "album": {
+        "name": "Just Like Me",
+        "url": "https://open.spotify.com/album/4GwFV6yUGdX5sJBJILATNZ"
+      },
+      "artists": [
+        {
+          "name": "Ivory Scott",
+          "url": "https://open.spotify.com/artist/3fpp6yYqQevscivKbtpgPF"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 150361,
+      "name": "Just Like Me",
+      "url": "https://open.spotify.com/track/43dG0O6NZ3NAcAupkxpQn3"
+    },
+    {
       "added_at": "2023-09-08 05:11:32",
       "album": {
         "name": "No Rules (Slut Me Out) (Single)",
@@ -1717,24 +1737,20 @@
       "url": "https://open.spotify.com/track/3RS5YuY2AD0Fbz9VxLd9zj"
     },
     {
-      "added_at": "2023-07-28 08:00:10",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Just Like Me",
-        "url": "https://open.spotify.com/album/4GwFV6yUGdX5sJBJILATNZ"
+        "name": "LOVERS WAVE VOL. 1",
+        "url": "https://open.spotify.com/album/7sxvlwZt8v20dIbwxBVj1B"
       },
       "artists": [
         {
-          "name": "Ivory Scott",
-          "url": "https://open.spotify.com/artist/3fpp6yYqQevscivKbtpgPF"
-        },
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+          "name": "Lehla Samia",
+          "url": "https://open.spotify.com/artist/2zccufvTKHx7wnPhVxxweb"
         }
       ],
-      "duration_ms": 150361,
-      "name": "Just Like Me",
-      "url": "https://open.spotify.com/track/43dG0O6NZ3NAcAupkxpQn3"
+      "duration_ms": 108588,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/1SGEUpFPiZJZLGPrEkxD0R"
     },
     {
       "added_at": "2022-11-04 06:34:53",
@@ -1751,22 +1767,6 @@
       "duration_ms": 138157,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/4pBA16KT5vSpGiML9JC6wK"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "LOVERS WAVE VOL. 1",
-        "url": "https://open.spotify.com/album/7sxvlwZt8v20dIbwxBVj1B"
-      },
-      "artists": [
-        {
-          "name": "Lehla Samia",
-          "url": "https://open.spotify.com/artist/2zccufvTKHx7wnPhVxxweb"
-        }
-      ],
-      "duration_ms": 108588,
-      "name": "Care",
-      "url": "https://open.spotify.com/track/1SGEUpFPiZJZLGPrEkxD0R"
     }
   ],
   "unique_name": "Some Kinda Way",

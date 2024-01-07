@@ -1471,6 +1471,24 @@
     },
     {
       "album": {
+        "name": "Sunmachine (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0anIASKjSOCbsX901aIJPU"
+      },
+      "artists": [
+        {
+          "name": "Dario G",
+          "url": "https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235430,
+      "name": "Sunchyme (Radio Edit) [Instrumental] - 2023 Remaster",
+      "url": "https://open.spotify.com/track/1YnXX2CraK8O3G5V9KiWNY"
+    },
+    {
+      "album": {
         "name": "Goodbye Country (Hello Nightclub)",
         "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
       },
@@ -1704,7 +1722,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 214053,
       "name": "With You Forever",
       "url": "https://open.spotify.com/track/3wRSZvxk09S0Tvuwg1L69N"

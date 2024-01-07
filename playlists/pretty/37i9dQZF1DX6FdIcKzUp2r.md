@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 
 > Work or rest with these gems from the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,626 likes - 80 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,705 likes - 80 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 18 | [A Real Hero](https://open.spotify.com/track/1aJrVsHwcQMZ8TZ6mlvT5J) | [College & Electric Youth](https://open.spotify.com/artist/3moPFBjUsSSJAC92afLgOH) | [A Real Hero EP](https://open.spotify.com/album/1fpoZQUSFwlfSve4rkFjCI) | 4:27 |
 | 19 | [All Out of Love](https://open.spotify.com/track/6Nq8YtPAHuL1outooeiFde) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Ultimate Air Supply](https://open.spotify.com/album/5PXeBHFjvr8EykHfFxJMje) | 4:01 |
 | 20 | [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 |
-| 21 | [Everybody's Got To Learn Sometime](https://open.spotify.com/track/1bP8oWk4crQOlwlG5DKeGY) | [The Korgis](https://open.spotify.com/artist/69zRcOlNdSZ17VfIZe4VU3) | [...By Appointment](https://open.spotify.com/album/7on9pbqcvWOX46FjzuaumM) | 4:11 |
-| 22 | [Old and Wise](https://open.spotify.com/track/5Jt2AQv1c3RUF5ENtAYF1i) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [Eye In The Sky \(Expanded Edition\)](https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr) | 4:55 |
+| 21 | [Old and Wise](https://open.spotify.com/track/5Jt2AQv1c3RUF5ENtAYF1i) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [Eye In The Sky \(Expanded Edition\)](https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr) | 4:55 |
+| 22 | [Everybody's Got To Learn Sometime](https://open.spotify.com/track/1bP8oWk4crQOlwlG5DKeGY) | [The Korgis](https://open.spotify.com/artist/69zRcOlNdSZ17VfIZe4VU3) | [...By Appointment](https://open.spotify.com/album/7on9pbqcvWOX46FjzuaumM) | 4:11 |
 | 23 | [Careless Whisper](https://open.spotify.com/track/2R7858bg0GHuBBxjTyOL7N) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Final](https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd) | 5:02 |
 | 24 | [The One You Love](https://open.spotify.com/track/4uvARnZIajUDXWXPifhK3B) | [Glenn Frey](https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ) | [No Fun Aloud](https://open.spotify.com/album/1vgK8Yq0G3E3MO4MzI4BJJ) | 4:34 |
 | 25 | [Through the Barricades \- Remastered](https://open.spotify.com/track/5ALQSecfsZLsWip5CZK9aN) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Through the Barricades \(Remastered\)](https://open.spotify.com/album/5O1G1WHUO1IVRbl5VUUIdH) | 5:59 |
@@ -76,17 +76,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 66 | [Renee \- 1997 Remaster](https://open.spotify.com/track/5UUk3itO5nvah4Ngd9CW5X) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 6:22 |
 | 67 | [For a Friend](https://open.spotify.com/track/6Cfvxx7v5MxCzGQOXjxo35) | [The Communards](https://open.spotify.com/artist/17U2ImH5IyYMvjkCfPhMHT) | [Red](https://open.spotify.com/album/2Av2EXgkvzZbq3sJqQAUaE) | 5:03 |
 | 68 | [If Leaving Me Is Easy \- 2015 Remaster](https://open.spotify.com/track/3PuwTAbtjZDgeCqb7OAdzd) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [The Singles \(Expanded\)](https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah) | 4:56 |
-| 69 | [It's A Mystery](https://open.spotify.com/track/6n9NhulTHVIbf7EIxr5a3s) | [Toyah](https://open.spotify.com/artist/17xleTMStusKOyQrNuK3sQ) | [Anthem](https://open.spotify.com/album/06mr4v7HULh34HDsYbBner) | 4:08 |
-| 70 | [Two Faces](https://open.spotify.com/track/0ZeQYobHf2kr2fkZOjhfWH) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 3:00 |
+| 69 | [Two Faces](https://open.spotify.com/track/0ZeQYobHf2kr2fkZOjhfWH) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 3:00 |
+| 70 | [It's A Mystery](https://open.spotify.com/track/6n9NhulTHVIbf7EIxr5a3s) | [Toyah](https://open.spotify.com/artist/17xleTMStusKOyQrNuK3sQ) | [Anthem](https://open.spotify.com/album/06mr4v7HULh34HDsYbBner) | 4:08 |
 | 71 | [White Eagle \- 1995 Remaster](https://open.spotify.com/track/5NNSddZXHgTFSbH2cUaH3Y) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [White Eagle](https://open.spotify.com/album/2A0SJoM4mCeUrnnahHLNOw) | 4:34 |
-| 72 | [A Change Is Gonna Come](https://open.spotify.com/track/1Aw8AzGtFssawCsiCxxyAr) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Yellow Moon](https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF) | 3:43 |
-| 73 | [MLK \- Remastered 2009](https://open.spotify.com/track/7i9bu8l7zFppFNxPZVpsQ6) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Remastered\)](https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3) | 2:34 |
+| 72 | [MLK \- Remastered 2009](https://open.spotify.com/track/7i9bu8l7zFppFNxPZVpsQ6) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Remastered\)](https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3) | 2:34 |
+| 73 | [A Change Is Gonna Come](https://open.spotify.com/track/1Aw8AzGtFssawCsiCxxyAr) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Yellow Moon](https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF) | 3:43 |
 | 74 | [Sweetest Smile \- Extended Version](https://open.spotify.com/track/5tew2YDhxcjh6RAdgxVt4Q) | [Black](https://open.spotify.com/artist/0eu0y7eJ5NMo07NEQEIq1V) | [Wonderful Life](https://open.spotify.com/album/6xdiJ1Fexr0r7A9Wb1FHdJ) | 5:19 |
 | 75 | [Otterley](https://open.spotify.com/track/5GO0qzKdvndy7g9r0iKEDz) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 4:04 |
-| 76 | [Almost Blue](https://open.spotify.com/track/4xRnzruHzWObdNdjAOW4vL) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Imperial Bedroom](https://open.spotify.com/album/1pK8MLyjgvt8pNVkQCBnSg) | 2:47 |
-| 77 | [Storybook Love](https://open.spotify.com/track/2qd9sd9JjKFe4OTqaaHTkc) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [The Princess Bride](https://open.spotify.com/album/0SVtLk3aXj2bGGckuynp00) | 4:24 |
+| 76 | [Storybook Love](https://open.spotify.com/track/2qd9sd9JjKFe4OTqaaHTkc) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [The Princess Bride](https://open.spotify.com/album/0SVtLk3aXj2bGGckuynp00) | 4:24 |
+| 77 | [Almost Blue](https://open.spotify.com/track/4xRnzruHzWObdNdjAOW4vL) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Imperial Bedroom](https://open.spotify.com/album/1pK8MLyjgvt8pNVkQCBnSg) | 2:47 |
 | 78 | [Private Investigations](https://open.spotify.com/track/0SqUwlygrVkMWkplNvvld1) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Love Over Gold](https://open.spotify.com/album/3Iz3o8owPasr8PKUSZPqD5) | 6:46 |
 | 79 | [I'll Find My Way Home \- Remastered](https://open.spotify.com/track/2UUPd83rV19BPDbjlp0RU6) | [Jon & Vangelis](https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae) | [The Friends Of Mister Cairo \(Remastered\)](https://open.spotify.com/album/5xqDwdauo7dizP38KurfOB) | 4:30 |
 | 80 | [4th Of July \- Remastered 2009](https://open.spotify.com/track/2c343Y5TmH6jCs3ES9kxjp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Remastered\)](https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3) | 2:15 |
 
-Snapshot ID: `MCwxNWI4ZTUwM2M1NzRiY2RlOTY3MDdhYWExMDBlZWMwY2I3ZDk0NDU2`
+Snapshot ID: `MCw1ZTAwZmQ2Yjg5ZWQ2ZGYwNDhhZDY2ODRhMDlhYjdhZjgyYWEwN2Uy`

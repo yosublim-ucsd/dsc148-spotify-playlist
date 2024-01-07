@@ -1,12 +1,12 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 67387,
+  "num_followers": 67397,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2E2ZDYxZmI1ZTExM2E5OTc3NDVjMmIxNjIwMTYzNDg1NTRjYTgz",
+  "snapshot_id": "MCw1MWZiZjQwZmY4YmMzYzI3ODhiYWQwNDI3MDJiOWMwYWY2NTkxMTAy",
   "tracks": [
     {
       "added_at": "2022-04-18 02:03:22",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Down the Way",
-        "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 239146,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 234909,
       "name": "Never Be Like You (feat. Kai)",
       "url": "https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Down the Way",
+        "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 239146,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
+        "name": "Reprisal",
+        "url": "https://open.spotify.com/album/1BJ0H6MrMADSdqHm3aadbM"
+      },
+      "artists": [
+        {
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        }
+      ],
+      "duration_ms": 226350,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/3BZkEOJwKUYRlkLWZB1izC"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
         "name": "In The Summertime",
         "url": "https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 228560,
       "name": "In the Summertime - Single Version",
       "url": "https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
-        "name": "Better in Blak",
-        "url": "https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34"
-      },
-      "artists": [
-        {
-          "name": "Thelma Plum",
-          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "Better in Blak",
-      "url": "https://open.spotify.com/track/1c5iUY7Zg1SxtROg1yr5ad"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -1011,34 +1011,18 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Reprisal",
-        "url": "https://open.spotify.com/album/1BJ0H6MrMADSdqHm3aadbM"
+        "name": "Better in Blak",
+        "url": "https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34"
       },
       "artists": [
         {
-          "name": "Peking Duk",
-          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+          "name": "Thelma Plum",
+          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
         }
       ],
-      "duration_ms": 226350,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/3BZkEOJwKUYRlkLWZB1izC"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
-        "name": "Two Shoes",
-        "url": "https://open.spotify.com/album/0avvtRnA6yIEIFMbqHgSVd"
-      },
-      "artists": [
-        {
-          "name": "The Cat Empire",
-          "url": "https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC"
-        }
-      ],
-      "duration_ms": 313053,
-      "name": "Two Shoes",
-      "url": "https://open.spotify.com/track/57LP4yVIIBkRLWbq0ETF4K"
+      "duration_ms": 192466,
+      "name": "Better in Blak",
+      "url": "https://open.spotify.com/track/1c5iUY7Zg1SxtROg1yr5ad"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -1055,6 +1039,22 @@
       "duration_ms": 239120,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/3tFECpGckFpp0HpQje78gi"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Two Shoes",
+        "url": "https://open.spotify.com/album/0avvtRnA6yIEIFMbqHgSVd"
+      },
+      "artists": [
+        {
+          "name": "The Cat Empire",
+          "url": "https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC"
+        }
+      ],
+      "duration_ms": 313053,
+      "name": "Two Shoes",
+      "url": "https://open.spotify.com/track/57LP4yVIIBkRLWbq0ETF4K"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Slideshows",
-        "url": "https://open.spotify.com/album/72ofNtyCnr54WRoZa6K289"
-      },
-      "artists": [
-        {
-          "name": "Thirsty Merc",
-          "url": "https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no"
-        }
-      ],
-      "duration_ms": 229120,
-      "name": "20 Good Reasons",
-      "url": "https://open.spotify.com/track/7uCQb1MoL0kC4nw6WsGk38"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Xanadu",
         "url": "https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 208506,
       "name": "Xanadu",
       "url": "https://open.spotify.com/track/4zdspHPxpExPiU8RolxBUH"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Slideshows",
+        "url": "https://open.spotify.com/album/72ofNtyCnr54WRoZa6K289"
+      },
+      "artists": [
+        {
+          "name": "Thirsty Merc",
+          "url": "https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no"
+        }
+      ],
+      "duration_ms": 229120,
+      "name": "20 Good Reasons",
+      "url": "https://open.spotify.com/track/7uCQb1MoL0kC4nw6WsGk38"
     },
     {
       "added_at": "2022-04-18 02:03:22",

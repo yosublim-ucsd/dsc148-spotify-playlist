@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 
 > This is Rob Zombie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,899 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,924 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 | 49 | [Everybody Scream \- From "House Of 1000 Corpses" Soundtrack](https://open.spotify.com/track/60J3svXDePAmdfbXOOUaSJ) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [House Of 1000 Corpses](https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF) | 2:36 |
 | 50 | [Let It All Bleed Out](https://open.spotify.com/track/2pdD9sxt4WuYADKACM2JYN) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Educated Horses](https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY) | 4:09 |
 
-Snapshot ID: `Mjg0MDc3MDIsMDAwMDAwMDA4NTEyZjVkM2E1YjM4MDE4OTAxZmM4OTIxMGU2YzcxYg==`
+Snapshot ID: `Mjg0MDkwNTYsMDAwMDAwMDBjMjE5ZjliZTI0MWQwYTAyNDkxYWFlNjZhOWRiMGVhZA==`

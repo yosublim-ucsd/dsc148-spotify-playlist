@@ -1,12 +1,12 @@
 {
   "description": "Warm tunes to get you in the snuggle spirit, la fogata y el chocolate caliente son opcionales.",
-  "num_followers": 3525,
+  "num_followers": 3540,
   "original_name": "cozied up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTM2ZmRhYWI5NjYzYzVhODRiMWUzNzczNzc0Mjg2ZmQwYjEyODZm",
+  "snapshot_id": "MCwzOWY3OGI1MjliZWNmYzk3YjhmN2M3ZGQyNzgzMTE1ZWJhNjE2NTdi",
   "tracks": [
     {
       "added_at": "2023-12-15 19:29:49",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-12-15 19:29:49",
       "album": {
-        "name": "Music Box",
-        "url": "https://open.spotify.com/album/3l3xNSj9nQGYJ4ZPXBWVmf"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 265772,
-      "name": "Music Box",
-      "url": "https://open.spotify.com/track/2h89x1ycsTH904Poc5COS4"
-    },
-    {
-      "added_at": "2023-12-15 19:29:49",
-      "album": {
         "name": "NAFTA II",
         "url": "https://open.spotify.com/album/4B2sJdUM5lyuiGv7KYi8It"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 175333,
       "name": "Monumento",
       "url": "https://open.spotify.com/track/3BUOQHWgnm8l5KDkzujs26"
+    },
+    {
+      "added_at": "2023-12-15 19:29:49",
+      "album": {
+        "name": "Music Box",
+        "url": "https://open.spotify.com/album/3l3xNSj9nQGYJ4ZPXBWVmf"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 265772,
+      "name": "Music Box",
+      "url": "https://open.spotify.com/track/2h89x1ycsTH904Poc5COS4"
     },
     {
       "added_at": "2023-12-15 19:29:49",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-12-15 19:29:49",
       "album": {
-        "name": "Sweet Christmas Ukulele & Jazz",
-        "url": "https://open.spotify.com/album/0GKnPhTHDcxSmIsnAC5wzi"
-      },
-      "artists": [
-        {
-          "name": "Vazquez Sounds",
-          "url": "https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e"
-        }
-      ],
-      "duration_ms": 164787,
-      "name": "Blanca Navidad",
-      "url": "https://open.spotify.com/track/1nobDMo2NzOyNXgCeyD8f7"
-    },
-    {
-      "added_at": "2023-12-15 19:29:49",
-      "album": {
         "name": "Romancera",
         "url": "https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 232493,
       "name": "Romancera",
       "url": "https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE"
+    },
+    {
+      "added_at": "2023-12-15 19:29:49",
+      "album": {
+        "name": "Sweet Christmas Ukulele & Jazz",
+        "url": "https://open.spotify.com/album/0GKnPhTHDcxSmIsnAC5wzi"
+      },
+      "artists": [
+        {
+          "name": "Vazquez Sounds",
+          "url": "https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e"
+        }
+      ],
+      "duration_ms": 164787,
+      "name": "Blanca Navidad",
+      "url": "https://open.spotify.com/track/1nobDMo2NzOyNXgCeyD8f7"
     },
     {
       "added_at": "2023-12-15 19:29:49",

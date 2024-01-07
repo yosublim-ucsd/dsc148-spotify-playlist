@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,742 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,308 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 29 | [Whistle \(feat\. Bertie Scott\)](https://open.spotify.com/track/6hEJvWfNOvTUhLuV1Or1of) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Whistle \(feat\. Bertie Scott\)](https://open.spotify.com/album/2tlaSaJ2IdkVS7agsPP8uJ) | 2:20 |
 | 30 | [Let Me Think About It Again](https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Ida Corr](https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh) | [Let Me Think About It Again](https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz) | 3:15 |
 | 31 | [Left & Right](https://open.spotify.com/track/0rxEsBxxil046ZqipaCXle) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Left & Right](https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS) | 2:34 |
-| 32 | [Disconnected](https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Disconnected](https://open.spotify.com/album/6SGpVej56gEYCk3Z0u8ZSP) | 3:14 |
-| 33 | [Go](https://open.spotify.com/track/4m3ljlctmzWajEZPgxXOBb) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Maroox](https://open.spotify.com/artist/5gMP6mQ9eKRREGd2ofMvfU) | [Go](https://open.spotify.com/album/3QrNqDVKugpNxGszGV4kHt) | 2:22 |
+| 32 | [Go](https://open.spotify.com/track/4m3ljlctmzWajEZPgxXOBb) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Maroox](https://open.spotify.com/artist/5gMP6mQ9eKRREGd2ofMvfU) | [Go](https://open.spotify.com/album/3QrNqDVKugpNxGszGV4kHt) | 2:22 |
+| 33 | [Disconnected](https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Disconnected](https://open.spotify.com/album/6SGpVej56gEYCk3Z0u8ZSP) | 3:14 |
 | 34 | [Love Vibration](https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Love Vibration](https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL) | 3:00 |
 | 35 | [Pump Up The Jam](https://open.spotify.com/track/2bazIDcL2XOCZE5rh58R7r) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [HOSANNA](https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7) | [Pump Up The Jam](https://open.spotify.com/album/5VehHhrEHz67LAT5hLFq8x) | 2:36 |
 | 36 | [I Like To Move It](https://open.spotify.com/track/11mihFv2UTOzdDD9DrStYu) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u), [LePrince](https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO) | [I Like To Move It](https://open.spotify.com/album/5S4jmxHYCgA6hqaONRvzqV) | 2:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 49 | [What's Up](https://open.spotify.com/track/12yj178KaJo8PrddT0StaL) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [What's Up](https://open.spotify.com/album/5FRUHD0aFh5GvSo3WGbKDd) | 2:27 |
 | 50 | [Incoming!](https://open.spotify.com/track/0hXOEgK4IYWFKfNGFA6471) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Kevu](https://open.spotify.com/artist/1hSKIb96KuZ2SScNbnHCqU) | [Incoming!](https://open.spotify.com/album/1YzrmUjG3wpXd2bH0TvYIO) | 2:23 |
 
-Snapshot ID: `MCxhMGFmZmYzNjliYTZkZmUyOTllZjA0MDk1ZGQ5N2RhNzg1YjU5ZDE5`
+Snapshot ID: `MCw2NGQyZTM2MDY0NDczZTdjNjEyNGMxMzFjNjcxOTYwYmZmY2JiOGI3`

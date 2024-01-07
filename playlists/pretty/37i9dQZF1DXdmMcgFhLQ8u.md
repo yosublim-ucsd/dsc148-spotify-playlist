@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 
 > These country songs know exactly how you feel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,386 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,387 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 | 30 | [You Don’t Want That Smoke](https://open.spotify.com/track/5uPQjirx9C6MS47V556x46) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:20 |
 | 31 | [It Don't Hurt Like It Used To](https://open.spotify.com/track/0iA1unTbTbDOWUSlbwJ1pS) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Summer Forever](https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW) | 3:04 |
 | 32 | [Whiskey And You](https://open.spotify.com/track/5aDK0TurEtiedVdT0a6k9a) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 3:56 |
-| 33 | [Grew Apart](https://open.spotify.com/track/73aofsDvxQznhWLfgQ5gBz) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Still That Kid](https://open.spotify.com/album/6f2fSCVZvFScRgppc1MTVv) | 2:49 |
-| 34 | [Whiskey Lullaby \(feat\. Alison Krauss\)](https://open.spotify.com/track/6iblnklMzUKIXAtjk5lzIy) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Mud On The Tires](https://open.spotify.com/album/7jdM09zOoPpNn59UzAeryS) | 4:19 |
+| 33 | [Whiskey Lullaby \(feat\. Alison Krauss\)](https://open.spotify.com/track/6iblnklMzUKIXAtjk5lzIy) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Mud On The Tires](https://open.spotify.com/album/7jdM09zOoPpNn59UzAeryS) | 4:19 |
+| 34 | [Grew Apart](https://open.spotify.com/track/73aofsDvxQznhWLfgQ5gBz) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Still That Kid](https://open.spotify.com/album/6f2fSCVZvFScRgppc1MTVv) | 2:49 |
 | 35 | [One More Song](https://open.spotify.com/track/52nkvkrza5vaThmigwExZq) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Mr\. Sun](https://open.spotify.com/album/1zb7kVc7JA7ew7OIdj0wOB) | 3:38 |
 | 36 | [Drunk Me](https://open.spotify.com/track/1G4cdOtF36ZCs6i2dZoC87) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Telling All My Secrets](https://open.spotify.com/album/4ZRa15xusMfr3hLWUNGBG0) | 3:31 |
 | 37 | [Outrunnin' Your Memory](https://open.spotify.com/track/79gv58G6usuURwl6TlmBTu) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 4:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 | 74 | [You Were Mine](https://open.spotify.com/track/2qdVHdkLxKntNjPh3Ssz7s) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Wide Open Spaces](https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj) | 3:37 |
 | 75 | [Gone](https://open.spotify.com/track/7IhfjcaXuXCq20ZiAA7igK) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Gone](https://open.spotify.com/album/7zEA1JpBgLz8Zj6cGcIvIV) | 3:25 |
 
-Snapshot ID: `MCw5Y2VhNjU0NTcxMTE3YmJjNzI2MjJkOGY3NTFjMDdmYjhhZWI0MTNi`
+Snapshot ID: `MCwzODMwMWE3NTViOTZhNWNhYTJkZmIxODAwOTUxZTNlMzUzYTE3N2Q5`

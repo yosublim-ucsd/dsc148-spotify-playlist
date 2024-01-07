@@ -4,7 +4,7 @@
 
 > This is Slipknot\. The essential tracks, all in one playlist.
 
-55 songs - 4 hr 6 min
+56 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Duality](https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:12 | 2022-05-30 |  |
 | [Everything Ends](https://open.spotify.com/track/11SQnfm9cxgIjRREQWgbsP) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:14 | 2022-05-30 |  |
 | [Eyeless](https://open.spotify.com/track/7MEHTWzEi3z7P2jEWAcdHZ) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 3:56 | 2022-05-30 |  |
+| [Gently](https://open.spotify.com/track/00WbLoO3bSlUdAy8al106S) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:54 | 2024-01-06 |  |
 | [H377](https://open.spotify.com/track/38YxfCfUuQJU4r4pe3jeYb) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 4:23 | 2022-10-02 | 2022-10-22 |
 | [Heirloom](https://open.spotify.com/track/7d0XwaQbPLT8tPX81uRYMv) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 3:31 | 2022-10-12 | 2023-11-11 |
 | [Hive Mind](https://open.spotify.com/track/60knpe02nSLudHQYX2FZBI) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 5:15 | 2022-10-01 |  |
@@ -35,7 +36,7 @@
 | [Medicine for the Dead](https://open.spotify.com/track/0qFBuG34m8V4LMgYUMYPV7) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 6:16 | 2022-10-01 | 2022-10-31 |
 | [My Plague](https://open.spotify.com/track/74WIE2htPZwxx4HgGhpf8i) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 3:40 | 2022-05-30 |  |
 | [Nero Forte](https://open.spotify.com/track/56fiFTRrSiHHH3gBeaTg2P) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [We Are Not Your Kind](https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju) | 5:15 | 2022-05-30 |  |
-| [People = Shit](https://open.spotify.com/track/0Y2i84QWPFiFHQfEQDgHya) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 3:35 | 2022-05-30 |  |
+| [People = Shit](https://open.spotify.com/track/0Y2i84QWPFiFHQfEQDgHya) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 3:35 | 2022-05-30 | 2024-01-07 |
 | [Psychosocial](https://open.spotify.com/track/3RAFcUBrCNaboRXoP3S5t1) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone \(10th Anniversary\)](https://open.spotify.com/album/2ISXjEm0D4chvU2IDNvUqk) | 4:44 | 2022-05-30 |  |
 | [Pulse of the Maggots](https://open.spotify.com/track/0at89DgpVeImkVrQ0htbVm) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:19 | 2022-05-30 |  |
 | [Purity](https://open.spotify.com/track/3Lkm8fyUksuC8hr9I35nio) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 4:25 | 2022-05-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,882,695 likes - 100 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,883,436 likes - 100 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 99 | [In The Stars \- Sped Up](https://open.spotify.com/track/7B9gPx18Tbm8dgaB14jwKm) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars \(Sped Up\)](https://open.spotify.com/album/5OmxavyXrqVdtH22o99mCu) | 2:50 |
 | 100 | [I'm Not The Only One \- Sped Up](https://open.spotify.com/track/4gL8fyRJwOsRIwWi7TXR0n) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [I’m Not The Only One \(Sped Up\)](https://open.spotify.com/album/43lXCtIm8O4DcxgWUJPJQM) | 3:27 |
 
-Snapshot ID: `MCwyY2I4YjY0M2E3ZGVlZDA4YTA0ZjY0N2IzOTJlZWJhMjNmMGEzNDkw`
+Snapshot ID: `MCw4MWJkZWM1Zjk3ZGNkYjUxMTNkMzJiMTAzZThhMjk2M2JkNGY1YjEw`

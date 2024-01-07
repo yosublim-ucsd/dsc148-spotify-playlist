@@ -4,7 +4,7 @@
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: NICO B.
 
-3,290 songs - 7 day 3 hr 49 min
+3,290 songs - 7 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3029,7 +3029,7 @@
 | [TXORIA TXORI](https://open.spotify.com/track/4spH64QYcaHz1vRYiVfC0M) | [BRAVA](https://open.spotify.com/artist/3O2c7Rx1wcqMVkq9pZn4WZ) | [TXORIA TXORI](https://open.spotify.com/album/6xI0mPPppgDAECk83Sw84Y) | 3:54 | 2023-02-21 | 2023-03-01 |
 | [Têt](https://open.spotify.com/track/55xMl4f5IHD8ldskqttiYl) | [Linària](https://open.spotify.com/artist/1Kli5I57si259EIlre3UoL) | [Têt](https://open.spotify.com/album/1QHfeERI2jGzDu88rcAig8) | 3:04 | 2022-09-20 | 2022-09-28 |
 | [Tíos Imbéciles](https://open.spotify.com/track/4JxYZf9qPtCw5CdKwp1l4l) | [Axelot](https://open.spotify.com/artist/4TkvgFHKOA96O5Ddvd5dIA) | [Tíos Imbéciles](https://open.spotify.com/album/4NCnCGaNRzaOiuPeJfAugE) | 1:27 | 2023-07-05 | 2023-07-19 |
-| [Tómbola](https://open.spotify.com/track/2wiJhoM5nkZlIX8OqqIHyM) | [Oreiana](https://open.spotify.com/artist/7b1hCTRzkTW2WqSHothS7y) | [Tómbola](https://open.spotify.com/album/7aFFvfxIxy1tAbRpMSNH7x) | 2:32 | 2024-01-02 |  |
+| [Tómbola](https://open.spotify.com/track/2wiJhoM5nkZlIX8OqqIHyM) | [Oreiana](https://open.spotify.com/artist/7b1hCTRzkTW2WqSHothS7y) | [Tómbola](https://open.spotify.com/album/7aFFvfxIxy1tAbRpMSNH7x) | 2:00 | 2024-01-02 |  |
 | [Tóxica](https://open.spotify.com/track/10jvhX3PwVHeLFW6nV1o19) | [Pandemi Moore](https://open.spotify.com/artist/1xQD8hUXwAo9J1eyvM518h) | [Tóxica](https://open.spotify.com/album/2HauxpLTIjyaQQYJDYBspm) | 3:33 | 2022-08-24 | 2022-09-07 |
 | [Tú me jodiste](https://open.spotify.com/track/0sQsn7M7i0STKVCdzjGk6H) | [AGGAPPÉ](https://open.spotify.com/artist/3JZdWCgc2FzcbBqpn16tQy) | [Des\-amor](https://open.spotify.com/album/4RrlDtVvFMmOr701kwSmo6) | 2:51 | 2023-11-07 | 2023-11-16 |
 | [Tú y Yo](https://open.spotify.com/track/7a9EDd2RBAShW6euEQEn2E) | [Mentaguay](https://open.spotify.com/artist/3zLvahtWhs82T6FLAjsX7n) | [Tú y Yo](https://open.spotify.com/album/7jsHyrBuX28AsUbKzp7kCu) | 3:10 | 2022-05-03 | 2022-05-18 |

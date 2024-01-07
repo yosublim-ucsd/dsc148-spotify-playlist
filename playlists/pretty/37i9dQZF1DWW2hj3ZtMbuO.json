@@ -1,12 +1,12 @@
 {
   "description": "Sapphic songs that defined your music taste as \"yearning.\"\n",
-  "num_followers": 1460032,
+  "num_followers": 1460358,
   "original_name": "sad girl starter pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWM1MDUxMDVmNjczZGJjNzE2NzMyNDZjNGJiYzJiOGMzNDZiYzk1",
+  "snapshot_id": "MCxmZjE1ZDE4YzA3OGI3ODdlNWZjMjk5MWVlNjVkY2FhNjVjNjU2YzI1",
   "tracks": [
     {
       "added_at": "2023-11-29 20:50:44",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-11-29 20:50:44",
       "album": {
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 258418,
+      "name": "American Teenager",
+      "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
+    },
+    {
+      "added_at": "2023-11-29 20:50:44",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 214866,
       "name": "Emily I'm Sorry",
       "url": "https://open.spotify.com/track/693xmBAOD4xwkS4W71W1Jn"
-    },
-    {
-      "added_at": "2023-11-29 20:50:44",
-      "album": {
-        "name": "Preacher\u2019s Daughter",
-        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 258418,
-      "name": "American Teenager",
-      "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
     },
     {
       "added_at": "2023-11-29 20:50:44",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-11-29 20:50:44",
       "album": {
-        "name": "the rest",
-        "url": "https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        }
-      ],
-      "duration_ms": 141390,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/07gbjddL6AZ4PYKaviVMOQ"
-    },
-    {
-      "added_at": "2023-11-29 20:50:44",
-      "album": {
         "name": "Being So Normal",
         "url": "https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA"
       },
@@ -911,18 +895,18 @@
     {
       "added_at": "2023-11-29 20:50:44",
       "album": {
-        "name": "two queens in a king sized bed",
-        "url": "https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII"
+        "name": "the rest",
+        "url": "https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
         }
       ],
-      "duration_ms": 190944,
-      "name": "two queens in a king sized bed",
-      "url": "https://open.spotify.com/track/2dP8R44P2Lo3hdyevbYFfy"
+      "duration_ms": 141390,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/07gbjddL6AZ4PYKaviVMOQ"
     },
     {
       "added_at": "2023-11-29 20:50:44",
@@ -939,6 +923,22 @@
       "duration_ms": 213611,
       "name": "She",
       "url": "https://open.spotify.com/track/45h4w81P5iJJTSeR0jJUQ8"
+    },
+    {
+      "added_at": "2023-11-29 20:50:44",
+      "album": {
+        "name": "two queens in a king sized bed",
+        "url": "https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 190944,
+      "name": "two queens in a king sized bed",
+      "url": "https://open.spotify.com/track/2dP8R44P2Lo3hdyevbYFfy"
     },
     {
       "added_at": "2023-11-29 20:50:44",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-11-29 20:50:44",
       "album": {
-        "name": "Look at it in the Light",
-        "url": "https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 141743,
-      "name": "Yards / Gardens",
-      "url": "https://open.spotify.com/track/3PphHkiVdhRaO1EWH6ZWqZ"
-    },
-    {
-      "added_at": "2023-11-29 20:50:44",
-      "album": {
         "name": "at least i'm pretty",
         "url": "https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 106800,
       "name": "at least i'm pretty",
       "url": "https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc"
+    },
+    {
+      "added_at": "2023-11-29 20:50:44",
+      "album": {
+        "name": "Look at it in the Light",
+        "url": "https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "duration_ms": 141743,
+      "name": "Yards / Gardens",
+      "url": "https://open.spotify.com/track/3PphHkiVdhRaO1EWH6ZWqZ"
     },
     {
       "added_at": "2023-11-29 20:50:44",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-11-29 20:50:44",
       "album": {
-        "name": "Blondshell",
-        "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 216852,
-      "name": "Olympus",
-      "url": "https://open.spotify.com/track/2pqi703QQcp2zsuS3NgCii"
-    },
-    {
-      "added_at": "2023-11-29 20:50:44",
-      "album": {
         "name": "Good Riddance (Deluxe)",
         "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 259592,
       "name": "Amelie",
       "url": "https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun"
+    },
+    {
+      "added_at": "2023-11-29 20:50:44",
+      "album": {
+        "name": "Blondshell",
+        "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 216852,
+      "name": "Olympus",
+      "url": "https://open.spotify.com/track/2pqi703QQcp2zsuS3NgCii"
     },
     {
       "added_at": "2023-11-29 20:50:44",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-11-29 20:50:44",
       "album": {
-        "name": "A Carnival of Fears",
-        "url": "https://open.spotify.com/album/06YsuIiMmeV7GzKNTxNy59"
-      },
-      "artists": [
-        {
-          "name": "Yellow House",
-          "url": "https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl"
-        }
-      ],
-      "duration_ms": 251184,
-      "name": "Love in the Time of Socialism",
-      "url": "https://open.spotify.com/track/0JuJ0M9ZaKDwXms3rUh1Hk"
-    },
-    {
-      "added_at": "2023-11-29 20:50:44",
-      "album": {
         "name": "She Plays Bass",
         "url": "https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 207106,
       "name": "She Plays Bass",
       "url": "https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp"
+    },
+    {
+      "added_at": "2023-11-29 20:50:44",
+      "album": {
+        "name": "A Carnival of Fears",
+        "url": "https://open.spotify.com/album/06YsuIiMmeV7GzKNTxNy59"
+      },
+      "artists": [
+        {
+          "name": "Yellow House",
+          "url": "https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl"
+        }
+      ],
+      "duration_ms": 251184,
+      "name": "Love in the Time of Socialism",
+      "url": "https://open.spotify.com/track/0JuJ0M9ZaKDwXms3rUh1Hk"
     }
   ],
   "unique_name": "sad girl starter pack",

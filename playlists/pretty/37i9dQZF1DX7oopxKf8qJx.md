@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,384 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,489 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 51 | [Islands In The Sky](https://open.spotify.com/track/3IgWVlQcPQEUafiWZgXJrS) | [Murry Wilson](https://open.spotify.com/artist/4s9gajPsUP6QfemqiFom82) | [The Many Moods Of Murry Wilson](https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq) | 2:56 |
 | 52 | [Bouquet](https://open.spotify.com/track/4l1bdE4tCuuSvQRJ4d2jxJ) | [The Percy Faith Strings](https://open.spotify.com/artist/0s6v2jpUZLV3Qs0xbm1n6f) | [Bouquet](https://open.spotify.com/album/5spJDNuS07TiEXZhYcuneJ) | 3:17 |
 | 53 | [Theme From "Bus Stop"](https://open.spotify.com/track/5Jd78KUwqhZcY5msCpsDLw) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [Champagne, Candlelight And Kisses](https://open.spotify.com/album/7v2A1HlTNWgPxs8p101dCx) | 3:42 |
-| 54 | [My Last Affair](https://open.spotify.com/track/6qn13FWqpeXQfeoz7aJrp0) | [Billy May](https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq) | [Big Band Bash!](https://open.spotify.com/album/0ryTYwTgma4jd8vLMfk2yK) | 2:43 |
-| 55 | [You're My Everything](https://open.spotify.com/track/3M5hwmGftW1vIgEW7to0N3) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Music For Her \(Expanded Edition\)](https://open.spotify.com/album/704P5eHFQFzTh6K0aS0FYH) | 3:45 |
+| 54 | [You're My Everything](https://open.spotify.com/track/3M5hwmGftW1vIgEW7to0N3) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Music For Her \(Expanded Edition\)](https://open.spotify.com/album/704P5eHFQFzTh6K0aS0FYH) | 3:45 |
+| 55 | [My Last Affair](https://open.spotify.com/track/6qn13FWqpeXQfeoz7aJrp0) | [Billy May](https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq) | [Big Band Bash!](https://open.spotify.com/album/0ryTYwTgma4jd8vLMfk2yK) | 2:43 |
 | 56 | [The Man That Got Away](https://open.spotify.com/track/1hDthwJhM5GqDkolDuMSoA) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA), [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [The New Limelight](https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID) | 4:07 |
 | 57 | [You And The Night And The Music](https://open.spotify.com/track/7j8Y5UR24GR4RspS9FBIot) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Hey...Let Yourself Go!](https://open.spotify.com/album/49leeFzmdD4d6wmo77tTZ3) | 3:37 |
 | 58 | [Majorcan Holiday](https://open.spotify.com/track/4Tf26KSoemitC17Ik00ViE) | [Frank Chacksfield Orchestra](https://open.spotify.com/artist/4p9uMiH2i6QPYGXx3WmpVi) | [Around the World, Vol\. 2](https://open.spotify.com/album/6NIUBR0tGunCCzgtGg6i8e) | 2:28 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 60 | [Love Is a Many Splendoured Thing](https://open.spotify.com/track/5KnNVLAEkIRbNC9FeURva8) | [Stanley Black and his Orchestra](https://open.spotify.com/artist/52ixPxvhj7veiIZLScC9K9) | [Hollywood Love Themes](https://open.spotify.com/album/5EQpdNemXkTVnyV47OAEsZ) | 3:44 |
 | 61 | [Green \- 1999 Remastered](https://open.spotify.com/track/3xCoRt3PkPJKpN8UnP3VXx) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Frank Sinatra Conducts Tone Poems Of Color \(Remastered\)](https://open.spotify.com/album/5hIh9dtYekwchUA8tOgySP) | 4:03 |
 | 62 | [Over the Rainbow](https://open.spotify.com/track/1Ddu0OlbuSq2DEXQWUHbpE) | [Liberace](https://open.spotify.com/artist/695gNCDVviH3s5ZYVs2VNK) | [My Parade of Golden Favorites](https://open.spotify.com/album/7tE485LJM6J9FgJgxBpfVs) | 2:52 |
-| 63 | [Liebestraum](https://open.spotify.com/track/58UavZzfKbcfxFfG49uuiZ) | [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [Pops Stoppers](https://open.spotify.com/album/5vn6TVkymb29hRpqELulM9) | 4:11 |
-| 64 | [The Song From "Moulin Rouge"](https://open.spotify.com/track/7GtpZ01gEJDxrXfH2ayvuc) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [The Essential Percy Faith \- The Instrumental Recordings](https://open.spotify.com/album/205gksgDHwJUOuJ7GV4MKu) | 5:46 |
+| 63 | [The Song From "Moulin Rouge"](https://open.spotify.com/track/7GtpZ01gEJDxrXfH2ayvuc) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [The Essential Percy Faith \- The Instrumental Recordings](https://open.spotify.com/album/205gksgDHwJUOuJ7GV4MKu) | 5:46 |
+| 64 | [Liebestraum](https://open.spotify.com/track/58UavZzfKbcfxFfG49uuiZ) | [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [Pops Stoppers](https://open.spotify.com/album/5vn6TVkymb29hRpqELulM9) | 4:11 |
 | 65 | [A Lovely Way To Spend An Evening](https://open.spotify.com/track/3sqXSFkQsxfFZiVAF8FYiT) | [Frank Chacksfield](https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF) | [Lovely Lady](https://open.spotify.com/album/0itwZ1AGwB7Dd0yP0T84Wy) | 3:30 |
 | 66 | [I Could Have Danced All Night \(From "My Fair Lady"\)](https://open.spotify.com/track/4Cj61od23ZCPmdKgOzYDwU) | [Edmundo Ros & His Orchestra](https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv) | [Ros on Broadway](https://open.spotify.com/album/58H5lgy2iotSiySfZHxH4V) | 2:31 |
 | 67 | [Two Lovers Theme](https://open.spotify.com/track/77wlTZKngci9HsYbGYp1Aa) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [How to Steal a Million \- Original Sound Track](https://open.spotify.com/album/45Jxg1wxDTfFt0aX2WqxFA) | 2:46 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 69 | [Danke Schoen](https://open.spotify.com/track/6CBGOKLkewXVfQQEiV0xZY) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Let's Go Bowling \(Remastered\)](https://open.spotify.com/album/1PMG61oCm4gzNPMYlqPRVq) | 2:42 |
 | 70 | [Night Side](https://open.spotify.com/track/4hs1t5oe0lJ2wzgMCmf5cu) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Hatari!](https://open.spotify.com/album/1LszH7Tu8af3uWzi2VhQcQ) | 3:23 |
 
-Snapshot ID: `MCxmOTdjODA4MWEzYzM3MTMzZmU1OTY3YzlhMjgxNjIwNTg1MzNhYzBl`
+Snapshot ID: `MCxiNmFjM2ZlODBmZjA2MThhYjM5Zjk2YjM5MGI4NmFiMjhkOWM1YjY1`

@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 204216,
       "name": "10,000 Miles Away",
       "url": "https://open.spotify.com/track/3N2UGAS6rIhudkycBrFQA0"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 179820,
       "name": "A Man with a Plan",
       "url": "https://open.spotify.com/track/0QW8MW9NKqmhqnaVDtXXw9"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 229167,
       "name": "Abandon Ship",
       "url": "https://open.spotify.com/track/2ak1WID3Fn3fvDZYupZ7Mz"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 161570,
       "name": "Acontece",
       "url": "https://open.spotify.com/track/5wqAUETEzXz6h54rbQ5sfr"
@@ -306,7 +306,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 172963,
       "name": "AMOR PIRATA",
       "url": "https://open.spotify.com/track/5K5g0QQZI1a1ZS3Ag7CU5f"
@@ -436,7 +436,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 133378,
       "name": "Assassin's Creed IV Black Flag Main Theme",
       "url": "https://open.spotify.com/track/6enLk2V2s0M6D6PGLjHxYv"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 139892,
       "name": "Botany Bay",
       "url": "https://open.spotify.com/track/1pf2ztkrHLuCgvKqTflcJH"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 197232,
       "name": "Bring out Your Dead",
       "url": "https://open.spotify.com/track/1FfhUEZXqktRsZEkn9ZPz4"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 184555,
       "name": "Bully Boys",
       "url": "https://open.spotify.com/track/3cLX9aW1orFJEHzH1cHkKa"
@@ -938,6 +938,24 @@
       "duration_ms": 153866,
       "name": "Bully In the Alley",
       "url": "https://open.spotify.com/track/5Z6IoGPs2PhMAUjy6QME8B"
+    },
+    {
+      "album": {
+        "name": "Seventh Rum Of A Seventh Rum (Deluxe)",
+        "url": "https://open.spotify.com/album/6wCzeOFPJTsMuKo2x1vNJy"
+      },
+      "artists": [
+        {
+          "name": "Alestorm",
+          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237071,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/3IsDxEACN0unbI0vcXxSQg"
     },
     {
       "album": {
@@ -1136,7 +1154,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 198365,
       "name": "Crazy Form",
       "url": "https://open.spotify.com/track/2KoeSRTm9cRulYnkaEyUaP"
@@ -1336,7 +1354,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 193945,
       "name": "Dead Man's Medley: The Finnish Polka / The Glen Cottage Polka / Ballydesmond, #2 / Nell Fee's",
       "url": "https://open.spotify.com/track/37PSrqOaQQmitNLuawtrjr"
@@ -1408,7 +1426,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 151431,
       "name": "Devil",
       "url": "https://open.spotify.com/track/4B63ORWIN1yrmfjKYnQCAL"
@@ -1498,7 +1516,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 191923,
       "name": "DJANGO",
       "url": "https://open.spotify.com/track/5Ku5uYEtkdpNlkgqU6p4ir"
@@ -1556,7 +1574,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 318000,
       "name": "Down Below",
       "url": "https://open.spotify.com/track/3BeVJBn7dIjnKlfRvtzRvk"
@@ -1592,7 +1610,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 286626,
       "name": "Dreaded Skies",
       "url": "https://open.spotify.com/track/5qISp6pU38kqLb5EaZLH2d"
@@ -1628,7 +1646,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 202586,
       "name": "Drink",
       "url": "https://open.spotify.com/track/732EU1uX5FJmF9sG2AOfNq"
@@ -1664,7 +1682,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 203986,
       "name": "Drink the Rum",
       "url": "https://open.spotify.com/track/3Cx2bUcdBeOx3SYMwMxVCG"
@@ -1682,7 +1700,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 271880,
       "name": "Drink Up Me Hearties Yo Ho",
       "url": "https://open.spotify.com/track/0HewdQ1l9bckQXPfIO3CYH"
@@ -1876,7 +1894,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 176853,
       "name": "Drunken Sailor",
       "url": "https://open.spotify.com/track/5Su5ILFp6U83cnIXwfmlC5"
@@ -1894,7 +1912,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 144760,
       "name": "Drunken Sailor",
       "url": "https://open.spotify.com/track/4n5UwoPQn0tBlqxQjyEMdB"
@@ -1912,7 +1930,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 195483,
       "name": "Dune",
       "url": "https://open.spotify.com/track/1CwzGOJqmATtWE8H00MEIL"
@@ -1966,7 +1984,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 162867,
       "name": "En Busca Del Fuego",
       "url": "https://open.spotify.com/track/0rI2fB2djyWzZu1Kt73WAv"
@@ -1984,7 +2002,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 117133,
       "name": "End Credits - From \"Pirates of the Caribbean: On Stranger Tides\"/Score",
       "url": "https://open.spotify.com/track/4fnU09o3JATmtpT5Y6pzQd"
@@ -2038,7 +2056,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 244666,
       "name": "Excursion Around the Bay",
       "url": "https://open.spotify.com/track/0OilC5WXVfNrCiKRlA7TZX"
@@ -2092,7 +2110,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 183409,
       "name": "FIN : WILL",
       "url": "https://open.spotify.com/track/2Nk2AbS02HaI1tgWTApkGJ"
@@ -2110,7 +2128,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 146698,
       "name": "Fire Down Below",
       "url": "https://open.spotify.com/track/379EuYD1GMWZeNFUIaSmNG"
@@ -2194,7 +2212,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 230960,
       "name": "Forest Party",
       "url": "https://open.spotify.com/track/7L1vqOOaqa1NRvJJ36tHDb"
@@ -2530,7 +2548,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 221226,
       "name": "Hangover",
       "url": "https://open.spotify.com/track/4ou16rn6sJwL5uwGfEL0IE"
@@ -2702,7 +2720,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 191693,
       "name": "High Barbary",
       "url": "https://open.spotify.com/track/6sguMb85rfhr4dUxbxduiN"
@@ -3090,7 +3108,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 134773,
       "name": "Join the Ranks",
       "url": "https://open.spotify.com/track/1T4eysIL5b0WpSx4S2kgzp"
@@ -3144,7 +3162,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 222253,
       "name": "Keelhauled",
       "url": "https://open.spotify.com/track/2pnZVpeKqLrEto2X9vYF6s"
@@ -3228,7 +3246,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 132293,
       "name": "Leave Her Johnny",
       "url": "https://open.spotify.com/track/2vaa0nnDnNTlxCh7fCmjsr"
@@ -3726,7 +3744,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 123892,
       "name": "My Mother Told Me (A Cappella)",
       "url": "https://open.spotify.com/track/4DEagfpGIqSIGOWSjBVVmu"
@@ -3744,7 +3762,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 60796,
       "name": "My Mother Told Me - Acoustic Version",
       "url": "https://open.spotify.com/track/7pxVwm2jd4LZyT68E78123"
@@ -3814,7 +3832,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 171338,
       "name": "My Sails Are Set (from the Netflix Series \"One Piece\")",
       "url": "https://open.spotify.com/track/507tVcKoaL0iORuaM2nrmy"
@@ -3894,7 +3912,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 228173,
       "name": "Never Love an Anchor",
       "url": "https://open.spotify.com/track/0RPD5sbsSLnKWYOJ5iPPMm"
@@ -3948,7 +3966,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 209786,
       "name": "No Grave But The Sea",
       "url": "https://open.spotify.com/track/60isQ3HsJ3AjPvj8tD9ieQ"
@@ -4186,7 +4204,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 307500,
       "name": "Once A Sailor",
       "url": "https://open.spotify.com/track/1v9wgh1IEBYJTQP1CGLfth"
@@ -4334,7 +4352,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 203118,
       "name": "P.A.R.T.Y.",
       "url": "https://open.spotify.com/track/1wcd8XcSwgLyQHTAUVmdi7"
@@ -4410,7 +4428,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 225006,
       "name": "Pirate Metal Drinking Crew",
       "url": "https://open.spotify.com/track/0UpJIEXLaoNlcADhJmzK2E"
@@ -4428,7 +4446,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 252633,
       "name": "Pirate's Lullaby",
       "url": "https://open.spotify.com/track/563skPMNX9uxxebPczxExm"
@@ -4730,7 +4748,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 95293,
       "name": "Randy Dandy Oh",
       "url": "https://open.spotify.com/track/6Fv0O8eHNcWO1DmF0EMrRc"
@@ -4752,6 +4770,24 @@
       "duration_ms": 126493,
       "name": "Randy Dandy-O",
       "url": "https://open.spotify.com/track/5j1afatmPZ6MxqpLdSWAGn"
+    },
+    {
+      "album": {
+        "name": "Rasputin",
+        "url": "https://open.spotify.com/album/5nUmL2EDOT3uoZQJOC2kYC"
+      },
+      "artists": [
+        {
+          "name": "Turisas",
+          "url": "https://open.spotify.com/artist/0ykT1si9XRFPmEvWOnf4YI"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233520,
+      "name": "Rasputin",
+      "url": "https://open.spotify.com/track/0W43LnKXzRivi0WPaoBLVO"
     },
     {
       "album": {
@@ -5010,7 +5046,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 141426,
       "name": "Salty Dog",
       "url": "https://open.spotify.com/track/5cttYnhe480emw7rofGZQ6"
@@ -5096,7 +5132,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 174500,
       "name": "Santiana",
       "url": "https://open.spotify.com/track/21Jm43WPaIsv82UJsPkMF0"
@@ -5150,7 +5186,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 199266,
       "name": "Sarah",
       "url": "https://open.spotify.com/track/4qoY9d0fhLD6RzTAxk72fQ"
@@ -5168,7 +5204,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 178168,
       "name": "Savage Daughter",
       "url": "https://open.spotify.com/track/0dVnj3XPVTHfCvxpbIDOcx"
@@ -5186,7 +5222,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 234362,
       "name": "Sea Shanty Medley",
       "url": "https://open.spotify.com/track/5mkoR8mVrEwpDQc9y54sM2"
@@ -5312,7 +5348,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 210573,
       "name": "Shipwrecked",
       "url": "https://open.spotify.com/track/1B8NNmCEdrG1miuPAbpnUJ"
@@ -5366,7 +5402,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 230477,
       "name": "Silver Light",
       "url": "https://open.spotify.com/track/7hWW1JxF5ArjPgAsGlwSuz"
@@ -5406,7 +5442,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 291538,
       "name": "Siren's Song",
       "url": "https://open.spotify.com/track/3DwmrfjOBJSD5URRaTFWEs"
@@ -5460,7 +5496,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 168927,
       "name": "Skal",
       "url": "https://open.spotify.com/track/0x64vgR9XXJStiX3Rj3IJw"
@@ -5606,7 +5642,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 151634,
       "name": "Sobriety",
       "url": "https://open.spotify.com/track/4zp0UU8f8INeMz7r61q1zj"
@@ -5678,7 +5714,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 127254,
       "name": "Song of the Vikings (My Mother Told Me)",
       "url": "https://open.spotify.com/track/0cc6vT6QJA8e39CiCGmA8B"
@@ -5778,7 +5814,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 170206,
       "name": "Sticks and Stones",
       "url": "https://open.spotify.com/track/0dSR6UpYzzLqIJbPfYe7mM"
@@ -5796,7 +5832,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 206000,
       "name": "Tale of The Shadow",
       "url": "https://open.spotify.com/track/5nN3bMQo2HpOE3Vb7WvLWq"
@@ -5854,7 +5890,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 131983,
       "name": "The Ballad of Edward Kenway",
       "url": "https://open.spotify.com/track/301y7xVJwisUkHINfzHEBf"
@@ -6052,7 +6088,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 243786,
       "name": "The Flying Dutchman",
       "url": "https://open.spotify.com/track/4m6d1gakr80NsDIOX4B43p"
@@ -6088,7 +6124,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 336240,
       "name": "The Gael...Time Flies",
       "url": "https://open.spotify.com/track/4X2DqlFZsjqrNfiNegxcLC"
@@ -6272,7 +6308,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 241706,
       "name": "The Longing",
       "url": "https://open.spotify.com/track/1k8D4tMNIiIFcQrb4bdsHF"
@@ -6348,7 +6384,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 247080,
       "name": "The Sunk'n Norwegian",
       "url": "https://open.spotify.com/track/21TXqJZz8Ogiz2Dc1BTKZg"
@@ -6654,7 +6690,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 222539,
       "name": "Valhalla Calling",
       "url": "https://open.spotify.com/track/6wt8KAK3PEPAixC4aqlHNt"
@@ -6756,7 +6792,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 179653,
       "name": "Vodka",
       "url": "https://open.spotify.com/track/2k6dU3c2IBotzynOyevHJx"
@@ -6810,7 +6846,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 159474,
       "name": "Waves Roll High",
       "url": "https://open.spotify.com/track/507AEU0ZFtxm4ppjyF9xfA"
@@ -6922,7 +6958,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 136500,
       "name": "Wellerman",
       "url": "https://open.spotify.com/track/6ZblDQM0Gq0daaPAwuHOmD"
@@ -6958,7 +6994,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 156160,
       "name": "Wellerman - Sea Shanty",
       "url": "https://open.spotify.com/track/0WoQSoNO40qdY3j6PxMy4b"
@@ -7212,7 +7248,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 234752,
       "name": "You and Me and the Devil Makes Three",
       "url": "https://open.spotify.com/track/1FDs1EXSd8G62xuqYS0pNv"

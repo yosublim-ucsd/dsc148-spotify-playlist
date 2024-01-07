@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iznkj.md) - [plain]
 
 > This is Gunna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,020 likes - 51 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,082 likes - 51 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iznkj.md) - [plain]
 | 47 | [I Am \(Lil Baby & Gunna\)](https://open.spotify.com/track/3F57PtOdqRpD6euFYqtKXX) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 2:25 |
 | 48 | [BLINDFOLD \(feat\. Lil Baby\)](https://open.spotify.com/track/02mYw61RoS1vXvkD9Q5dpN) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 2:34 |
 | 49 | [Paranoia \(feat\. Gunna & Young Thug\)](https://open.spotify.com/track/3QqJ44HiM84iyZS0G2IKIP) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv) | 3:32 |
-| 50 | [Numbers \(feat\. Roddy Ricch, Gunna and London On Da Track\)](https://open.spotify.com/track/733c1CWmIGymoQXdp7Us88) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 3:08 |
-| 51 | [200 FOR LUNCH](https://open.spotify.com/track/6SpBKyfn9BnvnoQbUGPlYM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 2:29 |
+| 50 | [200 FOR LUNCH](https://open.spotify.com/track/6SpBKyfn9BnvnoQbUGPlYM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 2:29 |
+| 51 | [Numbers \(feat\. Roddy Ricch, Gunna and London On Da Track\)](https://open.spotify.com/track/733c1CWmIGymoQXdp7Us88) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 3:08 |
 
-Snapshot ID: `Mjg0MDc3MDMsMDAwMDAwMDAzM2IwOTlhNDk5ZmE1ZTU2MzhiZWViNTgwYzU4ZTI5MQ==`
+Snapshot ID: `Mjg0MDkwNTYsMDAwMDAwMDBmM2EyZWQzYmQ4MGZmNTRmZDBiNDQ4MmIxY2FmYzFhMA==`

@@ -1,12 +1,12 @@
 {
   "description": "A selection of the greatest indie love songs of all time. ",
-  "num_followers": 611965,
+  "num_followers": 612224,
   "original_name": "Indie Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTQzOTk2ZmY2ZTY4Mjk4NGYxODYyYTA4NjA0MzcxZWE2ZTYyMTE2",
+  "snapshot_id": "MCxhM2MyYzA3ZjgzMGQzMmJmZDQ5YmFiODgyMDIwOWVhMjlmZDhlYWJl",
   "tracks": [
     {
       "added_at": "2023-07-21 10:32:21",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-07-21 10:32:21",
       "album": {
+        "name": "Speaking in Tongues (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 296146,
+      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
+    },
+    {
+      "added_at": "2023-07-21 10:32:21",
+      "album": {
         "name": "Loving is Easy",
         "url": "https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY"
       },
@@ -559,18 +575,18 @@
     {
       "added_at": "2023-07-21 10:32:21",
       "album": {
-        "name": "Speaking in Tongues (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
+        "name": "Doolittle",
+        "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
       },
       "artists": [
         {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
         }
       ],
-      "duration_ms": 296146,
-      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
+      "duration_ms": 201186,
+      "name": "Here Comes Your Man",
+      "url": "https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa"
     },
     {
       "added_at": "2023-07-21 10:32:21",
@@ -591,22 +607,6 @@
     {
       "added_at": "2023-07-21 10:32:21",
       "album": {
-        "name": "Doolittle",
-        "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
-      },
-      "artists": [
-        {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
-        }
-      ],
-      "duration_ms": 201186,
-      "name": "Here Comes Your Man",
-      "url": "https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa"
-    },
-    {
-      "added_at": "2023-07-21 10:32:21",
-      "album": {
         "name": "Every Kingdom",
         "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
       },
@@ -619,6 +619,26 @@
       "duration_ms": 249173,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
+    },
+    {
+      "added_at": "2023-07-21 10:32:21",
+      "album": {
+        "name": "Hard Times / Bad Trips",
+        "url": "https://open.spotify.com/album/7adFlPgcQWFfPHcgNgZhUI"
+      },
+      "artists": [
+        {
+          "name": "Pity Party (Girls Club)",
+          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
+        },
+        {
+          "name": "Lucys",
+          "url": "https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "I hope that you think of me",
+      "url": "https://open.spotify.com/track/42LY6qYxu3L6nJ7Dt72gNy"
     },
     {
       "added_at": "2023-07-21 10:32:21",
@@ -651,26 +671,6 @@
       "duration_ms": 258713,
       "name": "Cari\u00f1o",
       "url": "https://open.spotify.com/track/16gJmoOqRt2lKmlXtDpWgH"
-    },
-    {
-      "added_at": "2023-07-21 10:32:21",
-      "album": {
-        "name": "Hard Times / Bad Trips",
-        "url": "https://open.spotify.com/album/7adFlPgcQWFfPHcgNgZhUI"
-      },
-      "artists": [
-        {
-          "name": "Pity Party (Girls Club)",
-          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
-        },
-        {
-          "name": "Lucys",
-          "url": "https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "I hope that you think of me",
-      "url": "https://open.spotify.com/track/42LY6qYxu3L6nJ7Dt72gNy"
     },
     {
       "added_at": "2023-07-21 10:32:21",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-07-21 10:32:21",
       "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 201945,
-      "name": "I'll Call You Mine",
-      "url": "https://open.spotify.com/track/6rYgEHuyhO064Lgj48qlIe"
-    },
-    {
-      "added_at": "2023-07-21 10:32:21",
-      "album": {
         "name": "Let You Down",
         "url": "https://open.spotify.com/album/5lFDNl6WwhLIIl15kyWGxw"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 227046,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/1qpGMJi0ippCaMUOs7cz2q"
+    },
+    {
+      "added_at": "2023-07-21 10:32:21",
+      "album": {
+        "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 201945,
+      "name": "I'll Call You Mine",
+      "url": "https://open.spotify.com/track/6rYgEHuyhO064Lgj48qlIe"
     },
     {
       "added_at": "2023-07-21 10:32:21",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-07-21 10:32:21",
       "album": {
-        "name": "Port Of Morrow",
-        "url": "https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi"
-      },
-      "artists": [
-        {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
-        }
-      ],
-      "duration_ms": 255400,
-      "name": "Simple Song",
-      "url": "https://open.spotify.com/track/48bo7uexDvAThcRDvEB2W7"
-    },
-    {
-      "added_at": "2023-07-21 10:32:21",
-      "album": {
         "name": "Masterpiece (2023 Remaster)",
         "url": "https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 183894,
       "name": "Paul - 2023 Remaster",
       "url": "https://open.spotify.com/track/5CBqLg9XdeEHcknJX0fZIJ"
+    },
+    {
+      "added_at": "2023-07-21 10:32:21",
+      "album": {
+        "name": "Port Of Morrow",
+        "url": "https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi"
+      },
+      "artists": [
+        {
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+        }
+      ],
+      "duration_ms": 255400,
+      "name": "Simple Song",
+      "url": "https://open.spotify.com/track/48bo7uexDvAThcRDvEB2W7"
     },
     {
       "added_at": "2023-07-21 10:32:21",

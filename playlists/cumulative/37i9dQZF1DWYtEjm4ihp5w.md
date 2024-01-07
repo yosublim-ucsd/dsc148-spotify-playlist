@@ -4,11 +4,12 @@
 
 > Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Stormy
 
-197 songs - 10 hr 29 min
+199 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100](https://open.spotify.com/track/62OHA0jRO6x5JFofdeZ5Tr) | [Rubio](https://open.spotify.com/artist/5LJX3D6BzDJkMGX7hFP1dl), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [100](https://open.spotify.com/album/6FJG9netL0WN7AtQlvh8z6) | 3:22 | 2022-11-14 | 2023-02-27 |
+| [3ADI JIDAN](https://open.spotify.com/track/2wNNXprT139bOoaBGmc12V) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [M.I.M](https://open.spotify.com/album/16VwVZ1dFAaCXAeQrsyit8) | 2:52 | 2024-01-06 |  |
 | [3DABI](https://open.spotify.com/track/0e6eVGeec6asBnmE4gTYqA) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/08ZFlBocogt3UFTyEN7Ob4) | 3:22 | 2023-07-20 |  |
 | [7bss Tmout](https://open.spotify.com/track/2ASaDtD5VRJBspXhAuXrjr) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [7bss Tmout](https://open.spotify.com/album/2QcczpbqmQvZI4lCCNyYv2) | 3:10 | 2023-06-01 |  |
 | [A](https://open.spotify.com/track/3PXHRtEZ3UErU6ByaJhSnd) | [Nessyou](https://open.spotify.com/artist/36K2nrm363VIEONhc2D5Mo) | [ABCÈS](https://open.spotify.com/album/4zvlxTPmMfSguMeIpeyjbj) | 2:42 | 2022-12-24 | 2023-01-01 |
@@ -45,7 +46,7 @@
 | [Committed \(feat\. Snor\)](https://open.spotify.com/track/73IXYvDB27EDIh3LtbDG2g) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [HOWLS](https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd) | 2:01 | 2023-06-22 |  |
 | [Courir](https://open.spotify.com/track/5ayUHqkpxxyBOWelJjnaTD) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 2\)](https://open.spotify.com/album/6ftqq8qDocyfFPhLCmX0o1) | 3:28 | 2022-11-14 | 2022-11-26 |
 | [Dawk Lya](https://open.spotify.com/track/5OInx13SpghEifbS5bQmwq) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Dawk Lya](https://open.spotify.com/album/4vbm2Tj7L5fbzD1q5MmFrP) | 2:28 | 2022-11-14 | 2024-01-05 |
-| [Denbi](https://open.spotify.com/track/7t6gPk6jiSye8IVrfAPqOV) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Denbi](https://open.spotify.com/album/1QRWjgco5Vo4HeJVr2ffEr) | 2:56 | 2022-11-14 |  |
+| [Denbi](https://open.spotify.com/track/7t6gPk6jiSye8IVrfAPqOV) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Denbi](https://open.spotify.com/album/1QRWjgco5Vo4HeJVr2ffEr) | 2:56 | 2022-11-14 | 2024-01-07 |
 | [Denbi Ana](https://open.spotify.com/track/7nPSqRB6nc9sf5cqSTJKzx) | [LHAJ](https://open.spotify.com/artist/1Rn9VGYBgWB83nWmPAU0I7), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [Denbi Ana](https://open.spotify.com/album/6aQ0rQWbW94FLbCui79SfB) | 2:09 | 2023-08-19 | 2023-11-24 |
 | [Dexter](https://open.spotify.com/track/5anrH8SzdtPP1fMz3eOBvS) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Dexter](https://open.spotify.com/album/5hU57XeQXFA5CxDanMMuMI) | 2:48 | 2022-11-28 | 2023-10-27 |
 | [DIFFERENT V2](https://open.spotify.com/track/3nMLSphMk9zGtpJCB1zm8K) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [DIFFERENT V2](https://open.spotify.com/album/0pXh9lyVEqChCz3XGkWcLU) | 3:31 | 2023-02-10 | 2023-05-21 |
@@ -85,7 +86,7 @@
 | [Iori 4](https://open.spotify.com/track/2947MtC8aKk9mwbw4bjC6A) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 4](https://open.spotify.com/album/4ptNJwxaU4mzYHjzOtdjV0) | 4:14 | 2022-11-14 | 2022-12-13 |
 | [Iori 5](https://open.spotify.com/track/40jfMLYNI2KujchwoPwc0a) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 5](https://open.spotify.com/album/4Bb3u06qDPeQ5zzj0X3HPb) | 3:10 | 2022-12-22 |  |
 | [Iori 6](https://open.spotify.com/track/4ahs2aBbxGxVCDJcwXCWXb) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 6](https://open.spotify.com/album/1MIlCKmMbtiCyZzIpCwRnU) | 5:09 | 2023-12-22 |  |
-| [JANAH 4](https://open.spotify.com/track/2zwvxiH8XBloPFw33Hj6wT) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [SBITAR](https://open.spotify.com/album/0EbC0buOp9FhVK3iT9XmZp) | 3:08 | 2023-12-28 |  |
+| [JANAH 4](https://open.spotify.com/track/2zwvxiH8XBloPFw33Hj6wT) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [SBITAR](https://open.spotify.com/album/0EbC0buOp9FhVK3iT9XmZp) | 3:08 | 2023-12-28 | 2024-01-07 |
 | [Jouj Ft.kasso](https://open.spotify.com/track/5Ywo6LwAcgwzEa38bZ0u3Q) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8), [kasso](https://open.spotify.com/artist/7ut4C0DkTA34VaO0xAjJA3) | [Alam](https://open.spotify.com/album/0pioP7AB4b3Eb2SKZu90lX) | 3:02 | 2023-05-18 | 2023-05-23 |
 | [JOUJ MIZAN](https://open.spotify.com/track/0J4y5Eq182zXfVERO8fqTD) | [HKZ Production](https://open.spotify.com/artist/6JDjrFsoGyhwiTI36dFra6), [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5), [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi) | [JOUJ MIZAN](https://open.spotify.com/album/4GYRFzg6eT9WcyAkegwmdp) | 3:15 | 2023-09-01 |  |
 | [KADAWINI](https://open.spotify.com/track/4x2OMxe81I4HoJjGsq5SC4) | [Flack](https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC), [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [FOCUS](https://open.spotify.com/album/2qBj6E8oRE6GBRt6PBtGpx) | 2:36 | 2023-01-17 | 2023-08-24 |
@@ -149,6 +150,7 @@
 | [RAMSES](https://open.spotify.com/track/7hjueI3R4N765QrBuChXgg) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [RAMSES](https://open.spotify.com/album/3ilhA0ugGZ9UYckz529fUw) | 3:06 | 2023-06-22 | 2023-07-12 |
 | [ROMEO](https://open.spotify.com/track/0b8ed9KxYS34522QeBncH7) | [LHAJ](https://open.spotify.com/artist/1Rn9VGYBgWB83nWmPAU0I7), [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw) | [ROMEO](https://open.spotify.com/album/42QiHBjANb2V2ZeDthCcwn) | 3:16 | 2023-07-13 | 2023-08-20 |
 | [Rosita](https://open.spotify.com/track/0Iu2Jrfy91hMgIUtS9FFIX) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 3:15 | 2022-11-14 | 2023-10-01 |
+| [Rwicha](https://open.spotify.com/track/05CEmWl3xGITe99ZZkgl2c) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Rwicha](https://open.spotify.com/album/1FK36KFJthvyz6tCJO7ZVP) | 2:56 | 2024-01-06 |  |
 | [Salade Coco](https://open.spotify.com/track/71k5nrJuZcr9j3X0YIBwWh) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Salade Coco](https://open.spotify.com/album/2fktU7sGEJ5ocfANqVMe5M) | 2:47 | 2022-11-14 | 2022-12-13 |
 | [Sentiment](https://open.spotify.com/track/4Z1yWm77qsMwDmbbPqycFP) | [Marouane](https://open.spotify.com/artist/0NOPgjB8SLX44CDPTaW0Be) | [Sentiment](https://open.spotify.com/album/4qS1zPIIKk9rzThe4qtcFd) | 3:12 | 2023-02-26 | 2023-06-02 |
 | [Siba](https://open.spotify.com/track/2uqByr5b5Aci3ZQsAlMKN9) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 4\)](https://open.spotify.com/album/6MkkXPfbn9JhriUgIzFfIV) | 3:54 | 2022-12-21 | 2023-01-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 
 > Cruzando cerros y arroyos mientras recordamos el legado campirano y rancherón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,033 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,245 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 48 | [Sueños](https://open.spotify.com/track/3gZDsRgCqVKc9hIYBMcjfq) | [Los Nietos](https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv) | [Para Reconquistarte](https://open.spotify.com/album/1ZE9yPRFe7mkKNgCLr50rP) | 3:12 |
 | 49 | [De Corazón a Corazón](https://open.spotify.com/track/7jsPodasKpFLyuW2HRDHPQ) | [Los Reyes De Sinaloa](https://open.spotify.com/artist/00dw07ifKzcH0KYN6DWBmQ) | [Te Quiero Màs](https://open.spotify.com/album/1ng4ef1orMRkcmDv4wpgY2) | 3:33 |
 | 50 | [Quedate Conmigo Esta Noche](https://open.spotify.com/track/31g8yxjED9S88S8l8IHumW) | [Los Ciclones del Arroyo](https://open.spotify.com/artist/474014H20e2LqUwdWaaVLO) | [Judiciales Y Malandrines](https://open.spotify.com/album/1C6MyvNwgmLaQMlsvXYIdP) | 3:50 |
-| 51 | [El Frijolito](https://open.spotify.com/track/2DinJPTgjKjiBG8zEmUAq8) | [El Canelo De Sinaloa](https://open.spotify.com/artist/5WyCFEWzY8eMcSOu0BFjhJ), [Los Dos Del Sitio](https://open.spotify.com/artist/4fKzhjg1iCHqWvXBB1U6G2) | [El Diablo y el Federal](https://open.spotify.com/album/2rcwazegT8e3JlhPPtHJYk) | 2:13 |
+| 51 | [Paz En Este Amor](https://open.spotify.com/track/1viXoY1WcMZJaQJKd890Kr) | [Los Sierreños](https://open.spotify.com/artist/5MXWcBs0RGTVN1bz9N7g3A) | [Puros Trancazos](https://open.spotify.com/album/6f5ItheCRgKSsl3ADzmxmP) | 3:20 |
 | 52 | [Estrellas Y Diamantes](https://open.spotify.com/track/7aITKvNtiZUfi2zt7ZZAyN) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7) | ["14 Exitos" A Cada Instante](https://open.spotify.com/album/26vKr0uiVeTMbiqyNJcc6Z) | 2:04 |
-| 53 | [Paz En Este Amor](https://open.spotify.com/track/1viXoY1WcMZJaQJKd890Kr) | [Los Sierreños](https://open.spotify.com/artist/5MXWcBs0RGTVN1bz9N7g3A) | [Puros Trancazos](https://open.spotify.com/album/6f5ItheCRgKSsl3ADzmxmP) | 3:20 |
+| 53 | [El Frijolito](https://open.spotify.com/track/2DinJPTgjKjiBG8zEmUAq8) | [El Canelo De Sinaloa](https://open.spotify.com/artist/5WyCFEWzY8eMcSOu0BFjhJ), [Los Dos Del Sitio](https://open.spotify.com/artist/4fKzhjg1iCHqWvXBB1U6G2) | [El Diablo y el Federal](https://open.spotify.com/album/2rcwazegT8e3JlhPPtHJYk) | 2:13 |
 | 54 | [Jardin Olvidado](https://open.spotify.com/track/7aOzAKV1A7auw4S5cDHpsS) | [Los Nuevos de Sinaloa](https://open.spotify.com/artist/6Q5TEd26K9VgRNVrEmvpU5) | [El Jardin Olvidado](https://open.spotify.com/album/4akU0gaOGgrJJvg2oP3eSB) | 2:37 |
 | 55 | [Por Que No Vienes](https://open.spotify.com/track/5VgUoHUEPmWg93aX2CgXrf) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Que Se Fue](https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB) | 2:29 |
 | 56 | [Chuy Y Mauricio](https://open.spotify.com/track/1FAfQVtINethXcopjgNWqq) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 4:57 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 90 | [Las Lluvias](https://open.spotify.com/track/5JWnxJIBUa7bVHqaZIEoUy) | [Los Gavilanes de la Sierra](https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1) | [Piel de Azúcar](https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV) | 3:04 |
 | 91 | [Eres Mi Droga](https://open.spotify.com/track/521UsXTm7oXDQAgTf9dyS4) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [20 Exitos Sierreños](https://open.spotify.com/album/3oQTOdQllM1EwXNzrmClNi) | 3:18 |
 | 92 | [Amores Fingidos](https://open.spotify.com/track/7dHPgzcHDFq8s6B50H9bfn) | [Los Cuen's De Sinaloa](https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2) | [Los Cuen's De Sinaloa](https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0) | 2:48 |
-| 93 | [El Venadito](https://open.spotify.com/track/5ZTb56u69iePiT3tzknR6k) | [Valentín "El Gallo"](https://open.spotify.com/artist/0MJYPa8lsdyJ1Rhf3JTVn3), [Los Dukes De Sonora](https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb) | [Valentín "El Gallo" Con Guitarras \(En Vivo\)](https://open.spotify.com/album/3NO5ZbtH8zW3wqSF9p7SGs) | 4:49 |
-| 94 | [El Niño De Oro](https://open.spotify.com/track/4GOyrQDlyPd3B7q0SoiE2Z) | [Los Cuen's De Sinaloa](https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2) | [Los Cuen's De Sinaloa](https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0) | 3:03 |
-| 95 | [Encendido Clavel](https://open.spotify.com/track/7b28hNlTMK0ChHBszSrSgN) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 1](https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2) | 3:05 |
+| 93 | [El Niño De Oro](https://open.spotify.com/track/4GOyrQDlyPd3B7q0SoiE2Z) | [Los Cuen's De Sinaloa](https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2) | [Los Cuen's De Sinaloa](https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0) | 3:03 |
+| 94 | [Encendido Clavel](https://open.spotify.com/track/7b28hNlTMK0ChHBszSrSgN) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 1](https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2) | 3:05 |
+| 95 | [El Venadito](https://open.spotify.com/track/5ZTb56u69iePiT3tzknR6k) | [Valentín "El Gallo"](https://open.spotify.com/artist/0MJYPa8lsdyJ1Rhf3JTVn3), [Los Dukes De Sonora](https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb) | [Valentín "El Gallo" Con Guitarras \(En Vivo\)](https://open.spotify.com/album/3NO5ZbtH8zW3wqSF9p7SGs) | 4:49 |
 | 96 | [La Botella](https://open.spotify.com/track/70lFCPMdLXpxcfApqTECxA) | [Valentín "El Gallo"](https://open.spotify.com/artist/0MJYPa8lsdyJ1Rhf3JTVn3), [Los Dukes De Sonora](https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb) | [Valentín "El Gallo" Con Guitarras \(En Vivo\)](https://open.spotify.com/album/3NO5ZbtH8zW3wqSF9p7SGs) | 3:26 |
 | 97 | [Mi Virgencita](https://open.spotify.com/track/3CqPkvPNkDHVHPSeHCUbMu) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 2](https://open.spotify.com/album/1fW1WW9YONI4LS3WRajavt) | 2:24 |
 | 98 | [Ni Dada La Quiero](https://open.spotify.com/track/0Co8QuZSebAcqdGNiytgWh) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Desamor y Despecho](https://open.spotify.com/album/36UumirVgAYAdu5hlrQWr9) | 2:48 |
 | 99 | [Flor Hermosa](https://open.spotify.com/track/3UTj5afltxN4pVei3W29QF) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm), [Los Intocables Del Norte](https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z) | [Aqui En El Rancho](https://open.spotify.com/album/3Vc8Qcv33FPblUCq9ZcHBg) | 3:10 |
 | 100 | [El Huizache](https://open.spotify.com/track/2zL6yRd7BBITUAYBBNnh1n) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Por Las Calles Enlodadas](https://open.spotify.com/album/5Dxgtj1Vd7vpOC5vnNrJhD) | 2:56 |
 
-Snapshot ID: `MCw2NmM1YzM4Mjg4YmU3MDQxZWU3OTIzNjMwMDNjYmExNjkwM2RiMDAz`
+Snapshot ID: `MCxlNGZjMmMwZGQ3OWNhNzU3OTNmODFhZTE3ZmU3YjVmMTMwNDQ5MzBj`

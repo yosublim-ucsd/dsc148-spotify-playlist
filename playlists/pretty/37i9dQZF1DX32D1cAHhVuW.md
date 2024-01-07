@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32D1cAHhVuW.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/druski/?hl=en">Druski</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,131 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,235 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32D1cAHhVuW.md) - [plain]
 | 18 | [Southside](https://open.spotify.com/track/7lurcq2Yw96B1K0KOJAHxg) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Southside](https://open.spotify.com/album/317R21F7calEn6gpLnHEkb) | 4:37 |
 | 19 | [Luv Is Dro \(feat\. Static Major & Bryson Tiller\)](https://open.spotify.com/track/0LcsvJQSFIQo3RjNhPcYqT) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Static Major](https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Thats What They All Say](https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3) | 2:57 |
 | 20 | [Straightenin](https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Straightenin](https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51) | 4:15 |
-| 21 | [Vaccine](https://open.spotify.com/track/0EAvcQ4XKhvYww9YRrdwB1) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Mr\. Crawford](https://open.spotify.com/album/5WU6kn9F7wbvFKXhUKZke7) | 2:06 |
-| 22 | [Rich Off Pain \(feat\. Rod Wave\)](https://open.spotify.com/track/6MSyik7EzWsHQjTOPLFBrr) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 3:55 |
+| 21 | [Rich Off Pain \(feat\. Rod Wave\)](https://open.spotify.com/track/6MSyik7EzWsHQjTOPLFBrr) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 3:55 |
+| 22 | [Vaccine](https://open.spotify.com/track/0EAvcQ4XKhvYww9YRrdwB1) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Mr\. Crawford](https://open.spotify.com/album/5WU6kn9F7wbvFKXhUKZke7) | 2:06 |
 | 23 | [5500 Degrees \(feat\. Lil Baby, 42 Dugg & Rylo Rodriguez\)](https://open.spotify.com/track/6uTID2glulLOXYhcwMETS1) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 3:04 |
 | 24 | [Forever Set In Stone](https://open.spotify.com/track/2eG49TEm56KszFmCLOM5PK) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Forever Set In Stone](https://open.spotify.com/album/6Jvc8E7j0031lxlEh0kq8A) | 2:59 |
 | 25 | [Pipe Down](https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32D1cAHhVuW.md) - [plain]
 | 49 | [Biggest Opp \(feat\. 5th Ward Greedy, Real Taker & Yung Mal\)](https://open.spotify.com/track/6slucYWVAkGbdMXxrmwMED) | [Yak Gotti](https://open.spotify.com/artist/0dvFTsuG02c4cRbcSQ8zE6), [5th Ward Greedy](https://open.spotify.com/artist/6vv9MooabxcG6oEZAzrgnF), [Real Taker](https://open.spotify.com/artist/5pVXtBRmHkw3lQRONcNQdA), [Yung Mal](https://open.spotify.com/artist/51UYpk7RRrgbC51ydS0KNg) | [Gotti Outta Here](https://open.spotify.com/album/28UAekns23I51HBjwmAaAN) | 4:34 |
 | 50 | [Don’t Leave Me](https://open.spotify.com/track/2PaP6wC4cqEgYLKBDeJWdN) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Haitian Boy Kodak](https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu) | 2:36 |
 
-Snapshot ID: `MCw1ZDYzNzg5OGNlODQxMmRjNzhjMWYyYTY4Mzg5MGEyY2ExNzgzNDE2`
+Snapshot ID: `MCw2MTM3ODM0NzRkOTBhYzY2YWRiNDE3ZDNhOTFjODNjMDJlYzhkYjhi`

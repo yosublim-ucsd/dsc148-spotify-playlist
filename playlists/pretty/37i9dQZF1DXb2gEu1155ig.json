@@ -1,12 +1,12 @@
 {
   "description": "Canciones tropicales que te transportan a Caleta y Caletilla.",
-  "num_followers": 73545,
+  "num_followers": 73575,
   "original_name": "Acapulco en la Azotea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjQ0NmE2Njc3NTE5OGJlMDBiM2NlZmQ1YTlhYjRlYWRlMGVmMDRh",
+  "snapshot_id": "MCw0ZjE2NmIzZTc2NTNjYzJkZDlkYmFlZTU2OGFkYjc4NTk5NjhhMGE5",
   "tracks": [
     {
       "added_at": "2024-01-04 23:44:23",
@@ -203,6 +203,22 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
+        "name": "Album de Oro",
+        "url": "https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE"
+      },
+      "artists": [
+        {
+          "name": "Los Acosta",
+          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
+        }
+      ],
+      "duration_ms": 208640,
+      "name": "Voy a pintar un coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6ztkxjvne5bjzUUnoskShx"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
         "name": "Una L\u00e1grima No Basta",
         "url": "https://open.spotify.com/album/6mQJfbwCFc2PxT0Kf7k1He"
       },
@@ -235,18 +251,18 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "Album de Oro",
-        "url": "https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE"
+        "name": "30 Mezcladitas de Oro para la Farra",
+        "url": "https://open.spotify.com/album/5qEOiLqFFt7YYYDTlHbkks"
       },
       "artists": [
         {
-          "name": "Los Acosta",
-          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
+          "name": "Los Lideres",
+          "url": "https://open.spotify.com/artist/7BdsOpsQas5r7tr9DkqqUF"
         }
       ],
-      "duration_ms": 208640,
-      "name": "Voy a pintar un coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6ztkxjvne5bjzUUnoskShx"
+      "duration_ms": 71893,
+      "name": "Pedacito de Mi Vida",
+      "url": "https://open.spotify.com/track/19YvqddJfyV89RVT2MwlXz"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -263,22 +279,6 @@
       "duration_ms": 209533,
       "name": "En Tus Manos",
       "url": "https://open.spotify.com/track/7dniUnDWDCZn9V7iT2dAhl"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
-        "name": "30 Mezcladitas de Oro para la Farra",
-        "url": "https://open.spotify.com/album/5qEOiLqFFt7YYYDTlHbkks"
-      },
-      "artists": [
-        {
-          "name": "Los Lideres",
-          "url": "https://open.spotify.com/artist/7BdsOpsQas5r7tr9DkqqUF"
-        }
-      ],
-      "duration_ms": 71893,
-      "name": "Pedacito de Mi Vida",
-      "url": "https://open.spotify.com/track/19YvqddJfyV89RVT2MwlXz"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "Castigo\u2026",
-        "url": "https://open.spotify.com/album/68M7vT5AExw4SOIhEbYL7q"
-      },
-      "artists": [
-        {
-          "name": "Los Byby's",
-          "url": "https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN"
-        }
-      ],
-      "duration_ms": 168320,
-      "name": "Llorar Llorar Llorar",
-      "url": "https://open.spotify.com/track/5APUuzq91fI3G1x3OsaOeJ"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
         "name": "Exitos, Vol. 1",
         "url": "https://open.spotify.com/album/7jeKLx1cNUzdOLZdH8iEn1"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 162920,
       "name": "Como Agua en las Manos",
       "url": "https://open.spotify.com/track/2LoKCVvq23Zuh0kaKCLv6P"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
+        "name": "Castigo\u2026",
+        "url": "https://open.spotify.com/album/68M7vT5AExw4SOIhEbYL7q"
+      },
+      "artists": [
+        {
+          "name": "Los Byby's",
+          "url": "https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "Llorar Llorar Llorar",
+      "url": "https://open.spotify.com/track/5APUuzq91fI3G1x3OsaOeJ"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -779,18 +779,18 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
+        "name": "Puros Vatos...Choca Y Rebota",
+        "url": "https://open.spotify.com/album/6mIczU0lXJ1Mkyu0v1tdAe"
       },
       "artists": [
         {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+          "name": "Chicos de Barrio",
+          "url": "https://open.spotify.com/artist/0pTxCwjrb9mfMx8fVgOT8X"
         }
       ],
-      "duration_ms": 171546,
-      "name": "La Boa",
-      "url": "https://open.spotify.com/track/4UmKFyEKaew90RWzqbTalb"
+      "duration_ms": 273893,
+      "name": "Mentirosa (Eres Mentirosa)",
+      "url": "https://open.spotify.com/track/61CjystzXpC3TXueoe9Jss"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -811,18 +811,18 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "Puros Vatos...Choca Y Rebota",
-        "url": "https://open.spotify.com/album/6mIczU0lXJ1Mkyu0v1tdAe"
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
       },
       "artists": [
         {
-          "name": "Chicos de Barrio",
-          "url": "https://open.spotify.com/artist/0pTxCwjrb9mfMx8fVgOT8X"
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
         }
       ],
-      "duration_ms": 273893,
-      "name": "Mentirosa (Eres Mentirosa)",
-      "url": "https://open.spotify.com/track/61CjystzXpC3TXueoe9Jss"
+      "duration_ms": 171546,
+      "name": "La Boa",
+      "url": "https://open.spotify.com/track/4UmKFyEKaew90RWzqbTalb"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "15 Anos De Exitos",
-        "url": "https://open.spotify.com/album/5y8nVWoUWR774YYWRSdYEh"
-      },
-      "artists": [
-        {
-          "name": "La Luz Roja De San Marcos",
-          "url": "https://open.spotify.com/artist/5YeFdMPC50VCSc91uYLOGb"
-        }
-      ],
-      "duration_ms": 228571,
-      "name": "La Brujita",
-      "url": "https://open.spotify.com/track/6n8M4N16lQMUFeCHNtZIzJ"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
         "name": "Macumba",
         "url": "https://open.spotify.com/album/7m67Buns7GWyajKdkoUkq5"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 164884,
       "name": "Macumba",
       "url": "https://open.spotify.com/track/1RRnygeCEjxTrMQYcHONUd"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
+        "name": "15 Anos De Exitos",
+        "url": "https://open.spotify.com/album/5y8nVWoUWR774YYWRSdYEh"
+      },
+      "artists": [
+        {
+          "name": "La Luz Roja De San Marcos",
+          "url": "https://open.spotify.com/artist/5YeFdMPC50VCSc91uYLOGb"
+        }
+      ],
+      "duration_ms": 228571,
+      "name": "La Brujita",
+      "url": "https://open.spotify.com/track/6n8M4N16lQMUFeCHNtZIzJ"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
+        "name": "Bueno Pa' Bailar",
+        "url": "https://open.spotify.com/album/4uWDQj68C6UF6e0TvWMAWF"
+      },
+      "artists": [
+        {
+          "name": "Mike Laure",
+          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
+        }
+      ],
+      "duration_ms": 144323,
+      "name": "Cumbia Buena",
+      "url": "https://open.spotify.com/track/0NA27btGDmBNAgJiV0QBdG"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
         "name": "Coleccion De Oro Puro",
         "url": "https://open.spotify.com/album/1oyXpx45VV9E7K9rS33TS8"
       },
@@ -1459,18 +1475,18 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "Bueno Pa' Bailar",
-        "url": "https://open.spotify.com/album/4uWDQj68C6UF6e0TvWMAWF"
+        "name": "Antolog\u00eda...Los Sonor's",
+        "url": "https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6"
       },
       "artists": [
         {
-          "name": "Mike Laure",
-          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
+          "name": "Los Sonor's",
+          "url": "https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0"
         }
       ],
-      "duration_ms": 144323,
-      "name": "Cumbia Buena",
-      "url": "https://open.spotify.com/track/0NA27btGDmBNAgJiV0QBdG"
+      "duration_ms": 172920,
+      "name": "La feria de Cali",
+      "url": "https://open.spotify.com/track/1v7xtNEebuvdi147gd7rRc"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -1503,22 +1519,6 @@
       "duration_ms": 159453,
       "name": "La Cumbia Del Lazo",
       "url": "https://open.spotify.com/track/7tTuLRjVBfIyiwW5yZiCUM"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
-        "name": "Antolog\u00eda...Los Sonor's",
-        "url": "https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6"
-      },
-      "artists": [
-        {
-          "name": "Los Sonor's",
-          "url": "https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "La feria de Cali",
-      "url": "https://open.spotify.com/track/1v7xtNEebuvdi147gd7rRc"
     },
     {
       "added_at": "2024-01-04 23:44:23",

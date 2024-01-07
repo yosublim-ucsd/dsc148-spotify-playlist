@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: wYte\(와잇\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,552 likes - 52 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,671 likes - 52 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 40 | [Sunny Days, Summer Nights](https://open.spotify.com/track/4fi9IIcjYzxRTRwJUyFO6Q) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 4:09 |
 | 41 | [Paint](https://open.spotify.com/track/4lthTadTs7WMkpn9w2krk4) | [MoonMoon](https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV) | [Paint](https://open.spotify.com/album/5jxRZ8YZanMKXowrQVYf3A) | 3:08 |
 | 42 | [그렇게 넌 나의 비밀이 되었고](https://open.spotify.com/track/0hv2VNJBFGFqS7vGWsbX3m) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp), [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Sh\*\*ting Stars OST Part.3](https://open.spotify.com/album/79TMZgjbONFze6t6toQw0X) | 4:11 |
-| 43 | [Officially Missing You](https://open.spotify.com/track/7CkjU55ROZSwb95dzGan0o) | [Geeks](https://open.spotify.com/artist/5VxfguafjfSdJcN10ACVZe) | [Officially Missing You](https://open.spotify.com/album/6hE4TNufMSOti5r2qdfHAl) | 3:30 |
-| 44 | [봄인가 봐 Spring Love](https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [봄인가 봐 Spring Love \- SM STATION](https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D) | 3:18 |
+| 43 | [봄인가 봐 Spring Love](https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [봄인가 봐 Spring Love \- SM STATION](https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D) | 3:18 |
+| 44 | [Officially Missing You](https://open.spotify.com/track/7CkjU55ROZSwb95dzGan0o) | [Geeks](https://open.spotify.com/artist/5VxfguafjfSdJcN10ACVZe) | [Officially Missing You](https://open.spotify.com/album/6hE4TNufMSOti5r2qdfHAl) | 3:30 |
 | 45 | [Loveless Night](https://open.spotify.com/track/3D51P7X8MO6G6YaynJsprB) | [KWON SOON IL](https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/1uPd7ZyJe84CbFHoNco4ne) | 4:17 |
 | 46 | [How's your night](https://open.spotify.com/track/6ZlU1n8Hqh38ZU4NmzsDJ8) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [O\_ne](https://open.spotify.com/album/6rC5u5pmmC6S0rL0twg80C) | 4:23 |
 | 47 | [Starlight](https://open.spotify.com/track/6gxVNoinjJVVpGryxillDN) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Starlight](https://open.spotify.com/album/62JssOJCHZampb4T15GkP8) | 4:33 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 51 | [YOUR SONG \(With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah\)](https://open.spotify.com/track/610IckJdwTyY8nez5v64DH) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [I AM SAM](https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D) | 4:18 |
 | 52 | [Yesterday You Left Me](https://open.spotify.com/track/0JCAyXUAaQDj4NgwviZ2sC) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [The 3rd EP](https://open.spotify.com/album/3C9boxwboGAAwNcZoax7Hi) | 3:42 |
 
-Snapshot ID: `MCw1ZTdjMWY1MmVmNGQzZThhMjNhYzVlYjMyZDAzMDhhZGY1MjIwYjgx`
+Snapshot ID: `MCw4Y2U3YzYwZjU2YmIxZDY5NWM4OTMwZDgwODdhZGQ4ZDhmYmU3OTNl`

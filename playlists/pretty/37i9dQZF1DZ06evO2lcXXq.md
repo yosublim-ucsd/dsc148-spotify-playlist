@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 
 > This is Lauren Daigle\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,631 likes - 39 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,675 likes - 39 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 | 23 | [I Am Yours](https://open.spotify.com/track/0nvKz5NrZDCzfW8pRi864S) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 3:58 |
 | 24 | [Rescue](https://open.spotify.com/track/0rbCIePwNYXpvD451ihkVO) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Peace, Vol\. II](https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p) | 5:16 |
 | 25 | [Turbulent Skies](https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:33 |
-| 26 | [You Alone \- Live](https://open.spotify.com/track/6IXrJrsj1sfISLs8mIJRrX) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Hear \(Live\)](https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL) | 6:04 |
-| 27 | [You Have My Surrender \(Live\)](https://open.spotify.com/track/3PJQp0I22d2k12pnrLMRQ9) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Come Alive: Live from the CentricWorship Retreat](https://open.spotify.com/album/0xykGjnTLmnd9DfMTTkJ12) | 3:45 |
+| 26 | [You Have My Surrender \(Live\)](https://open.spotify.com/track/3PJQp0I22d2k12pnrLMRQ9) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Come Alive: Live from the CentricWorship Retreat](https://open.spotify.com/album/0xykGjnTLmnd9DfMTTkJ12) | 3:45 |
+| 27 | [You Alone \- Live](https://open.spotify.com/track/6IXrJrsj1sfISLs8mIJRrX) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Hear \(Live\)](https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL) | 6:04 |
 | 28 | [Now is Forever \- Bonus Track](https://open.spotify.com/track/6k1RI3mXEvCZtSWNvywLXp) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be \(Deluxe Edition\)](https://open.spotify.com/album/6dFgl9xvP6Rd0vWL1mm1Zo) | 3:12 |
 | 29 | [Waiting](https://open.spotify.com/track/26WwwFoWQCkNWT0SI1IFHL) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:11 |
 | 30 | [Tú Dices](https://open.spotify.com/track/54QrUOoUEddh6h0ITdSqGu) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Tú Dices / Rescata](https://open.spotify.com/album/51Zco9WTUFDhcIM2elZbLm) | 4:33 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 | 38 | [HARD LOVE \(feat\. Lauren Daigle\)](https://open.spotify.com/track/4ahfLYf0VLVVvN3sdOyQN2) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [The Shack: Music From and Inspired By the Original Motion Picture](https://open.spotify.com/album/40JDNqFUzKmBSMEfDHPztO) | 3:37 |
 | 39 | [Rescata](https://open.spotify.com/track/1pnxPNMoofeCPhXvukMtHo) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Tú Dices / Rescata](https://open.spotify.com/album/51Zco9WTUFDhcIM2elZbLm) | 3:35 |
 
-Snapshot ID: `Mjg0MDc3MDMsMDAwMDAwMDBmZDNmZTVlMDdkMDY2MGM3MmQ4MjNhNDBlZmM2OTFkNQ==`
+Snapshot ID: `Mjg0MDkwNTYsMDAwMDAwMDBlNzg1Mzg4YTdmMDRkYjJlNGU3MTMxNDkzZGI1ZjNiYg==`

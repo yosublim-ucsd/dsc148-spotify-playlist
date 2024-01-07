@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James.",
-  "num_followers": 281258,
+  "num_followers": 281436,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTk1NjhkNmE1NmU4MGY4YTVhNWNiYjljN2ZhMjQzYzU2MTExMDQ2",
+  "snapshot_id": "MCwxYjg2NzFjYzU4NGE1Y2EzNzY4YzQ5ZWU1ZjdjMzMwMjJiNGY5MmM2",
   "tracks": [
     {
       "added_at": "2022-05-30 13:00:37",
@@ -335,18 +335,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Ain't That Good News",
-        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
+        "name": "Dusty In Memphis [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
       },
       "artists": [
         {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
         }
       ],
-      "duration_ms": 191160,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
+      "duration_ms": 149160,
+      "name": "Son of a Preacher Man",
+      "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -383,18 +383,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Dusty In Memphis [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
+        "name": "Ain't That Good News",
+        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
       },
       "artists": [
         {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 149160,
-      "name": "Son of a Preacher Man",
-      "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
+      "duration_ms": 191160,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -435,18 +435,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "My Cherie Amour",
-        "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
+        "name": "Make Way for Dionne Warwick",
+        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
         }
       ],
-      "duration_ms": 173306,
-      "name": "My Cherie Amour",
-      "url": "https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2"
+      "duration_ms": 178333,
+      "name": "Walk on By",
+      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -467,18 +467,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Make Way for Dionne Warwick",
-        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
+        "name": "My Cherie Amour",
+        "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
       },
       "artists": [
         {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 178333,
-      "name": "Walk on By",
-      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
+      "duration_ms": 173306,
+      "name": "My Cherie Amour",
+      "url": "https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "If You Can Believe Your Eyes & Ears",
-        "url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
-      },
-      "artists": [
-        {
-          "name": "The Mamas & The Papas",
-          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
-        }
-      ],
-      "duration_ms": 208293,
-      "name": "Monday, Monday - Single Version",
-      "url": "https://open.spotify.com/track/3EFb1qDgIqf9MegIryKtDj"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "I'll Cry If I Want To",
         "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 138000,
       "name": "Misty",
       "url": "https://open.spotify.com/track/2exbololsmP1XM2gmBEvAW"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "If You Can Believe Your Eyes & Ears",
+        "url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
+      },
+      "artists": [
+        {
+          "name": "The Mamas & The Papas",
+          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+        }
+      ],
+      "duration_ms": 208293,
+      "name": "Monday, Monday - Single Version",
+      "url": "https://open.spotify.com/track/3EFb1qDgIqf9MegIryKtDj"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Wichita Lineman (Remastered)",
-        "url": "https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE"
-      },
-      "artists": [
-        {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
-        }
-      ],
-      "duration_ms": 186200,
-      "name": "Wichita Lineman - Remastered 2001",
-      "url": "https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "How Sweet It Is To Be Loved By You",
         "url": "https://open.spotify.com/album/1kYeM6oy6I8tK7668jM7Hw"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 177773,
       "name": "How Sweet It Is (To Be Loved By You)",
       "url": "https://open.spotify.com/track/2zF8ro2hX0aEYaqXQdEKW1"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Wichita Lineman (Remastered)",
+        "url": "https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        }
+      ],
+      "duration_ms": 186200,
+      "name": "Wichita Lineman - Remastered 2001",
+      "url": "https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Erma Franklin: Piece Of Her Heart - The Epic And Shout Years",
-        "url": "https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW"
-      },
-      "artists": [
-        {
-          "name": "Erma Franklin",
-          "url": "https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG"
-        }
-      ],
-      "duration_ms": 157266,
-      "name": "Piece of My Heart",
-      "url": "https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "The Best Of Bobby Vinton",
         "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 168093,
       "name": "Blue Velvet",
       "url": "https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Erma Franklin: Piece Of Her Heart - The Epic And Shout Years",
+        "url": "https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW"
+      },
+      "artists": [
+        {
+          "name": "Erma Franklin",
+          "url": "https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG"
+        }
+      ],
+      "duration_ms": 157266,
+      "name": "Piece of My Heart",
+      "url": "https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Horizontal (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2oeuTgRudy4dVoFa15gf05"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 146906,
-      "name": "Massachusetts - Stereo Version",
-      "url": "https://open.spotify.com/track/3o7k5Mcdi0PFAXICTqjxra"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Spanish Harlem",
         "url": "https://open.spotify.com/album/2WcVleVG28RWzWLDLZnVgp"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 174293,
       "name": "Spanish Harlem",
       "url": "https://open.spotify.com/track/3UCmuRdeTriWgOZMEJsfqZ"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Horizontal (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2oeuTgRudy4dVoFa15gf05"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 146906,
+      "name": "Massachusetts - Stereo Version",
+      "url": "https://open.spotify.com/track/3o7k5Mcdi0PFAXICTqjxra"
     },
     {
       "added_at": "2022-05-30 13:00:37",

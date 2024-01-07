@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: Élégie
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,751 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,755 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,17 +40,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 30 | [Comfort, Edge](https://open.spotify.com/track/1oJI54bl1BT3fyVxcezET1) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa) | 3:43 |
 | 31 | [Combien ça coûte](https://open.spotify.com/track/0fgPhHxZdzrqkhAeSIg6vP) | [pataugeoire](https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA), [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Combien ça coûte](https://open.spotify.com/album/4K1UtFvw0FZPItqqW11rG6) | 2:43 |
 | 32 | [The Jungle](https://open.spotify.com/track/5jRINA3CI1TofMwkAvbi8r) | [Plants and Animals](https://open.spotify.com/artist/1pzNRIDRT064HEdW1nG59c) | [The Jungle](https://open.spotify.com/album/2vX1d0U8BRkxtssdhyy3Lx) | 5:43 |
-| 33 | [Demande\-moi](https://open.spotify.com/track/6w7Uk8ppY33i1uD3KHpiO1) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Tu ne mourras pas](https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1) | 3:20 |
-| 34 | [Horizon](https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Horizon](https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132) | 3:03 |
-| 35 | [Maison ouverte](https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [Maison ouverte](https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD) | 3:59 |
+| 33 | [Maison ouverte](https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [Maison ouverte](https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD) | 3:59 |
+| 34 | [Demande\-moi](https://open.spotify.com/track/6w7Uk8ppY33i1uD3KHpiO1) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Tu ne mourras pas](https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1) | 3:20 |
+| 35 | [Horizon](https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Horizon](https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132) | 3:03 |
 | 36 | [Chalet](https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [Comment Debord](https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK) | 3:42 |
 | 37 | [Un peu de magie](https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz) | [Philippe Brach](https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt) | [Les gens qu'on aime](https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9) | 3:02 |
 | 38 | [Astronaute amateur](https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Diorama](https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg) | 3:38 |
 | 39 | [Ton hôtel](https://open.spotify.com/track/0kJ00ZShVy5w2hPvabYKsA) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [Darlène](https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r) | 2:25 |
 | 40 | [I LIE HERE BURIED WITH MY RINGS AND MY DRESSES](https://open.spotify.com/track/37OSQm8Gy5strUT24vn6ef) | [Backxwash](https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg), [Ada Rook](https://open.spotify.com/artist/1x1MfkVjf8yEzwKhAYZtPY) | [I LIE HERE BURIED WITH MY RINGS AND MY DRESSES](https://open.spotify.com/album/4gaxRsSkSQmoyDsTesvplD) | 4:58 |
 | 41 | [Une autre vie](https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Une autre vie](https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z) | 3:25 |
-| 42 | [Shoegaze](https://open.spotify.com/track/6t5COdf65qd8igj588vkET) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Fleur de l'Âge](https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev) | 3:22 |
-| 43 | [veux veux pas](https://open.spotify.com/track/33bMQErvWevcA7zMxXE0wS) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [tu penses\-tu + veux veux pas](https://open.spotify.com/album/0wp331DVEUGOSpXH91uDsy) | 3:10 |
+| 42 | [veux veux pas](https://open.spotify.com/track/33bMQErvWevcA7zMxXE0wS) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [tu penses\-tu + veux veux pas](https://open.spotify.com/album/0wp331DVEUGOSpXH91uDsy) | 3:10 |
+| 43 | [Shoegaze](https://open.spotify.com/track/6t5COdf65qd8igj588vkET) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Fleur de l'Âge](https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev) | 3:22 |
 | 44 | [Gants blancs](https://open.spotify.com/track/2LvkbJtiU8zBRZnBWqra43) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Gants blancs](https://open.spotify.com/album/4ll73k9KZOaVPVWh54VlIL) | 3:34 |
 | 45 | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD) | 4:33 |
 | 46 | [Coin coin](https://open.spotify.com/track/0wPhoMR46QzfzHeQP94v1E) | [Malaimé Soleil](https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9) | [Tempête](https://open.spotify.com/album/0dWJ4hnsaf6gbsfgCz6KpT) | 3:29 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 70 | [Viendras\-tu pleurer?](https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Viendras\-tu pleurer?](https://open.spotify.com/album/0vi46z2QfWE6AvGApoT6tm) | 3:27 |
 | 71 | [Sur la pointe des pieds](https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 6:36 |
 | 72 | [DVTR](https://open.spotify.com/track/6kyU5s2JQj3kqjZ225Hwjv) | [DVTR](https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF) | [DVTR](https://open.spotify.com/album/0FQ99J1DvLNYP6x1uwHPYW) | 2:16 |
-| 73 | [Chambre d'écho](https://open.spotify.com/track/3K39UcTMhkLDzMJCWR1Fo5) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Choses Sauvages II](https://open.spotify.com/album/7657M6M94q7ufrPDQno2Yt) | 3:57 |
-| 74 | [Parfaite à l'écran](https://open.spotify.com/track/7mITLNL1Dg0SZXL4PHG4Y5) | [Karkwa](https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ) | [Parfaite à l'écran](https://open.spotify.com/album/1JY36zZ5pcZurWXM7wo6fP) | 2:48 |
-| 75 | [Doux doux](https://open.spotify.com/track/4NuOtpcC2inuP8vucJgz0D) | [Jesuslesfilles](https://open.spotify.com/artist/4lg0G5z7GXpJtAYTR9WC0W) | [L'heure idéale](https://open.spotify.com/album/2QsjTHO6QeITKll9jecLwR) | 3:24 |
+| 73 | [Doux doux](https://open.spotify.com/track/4NuOtpcC2inuP8vucJgz0D) | [Jesuslesfilles](https://open.spotify.com/artist/4lg0G5z7GXpJtAYTR9WC0W) | [L'heure idéale](https://open.spotify.com/album/2QsjTHO6QeITKll9jecLwR) | 3:24 |
+| 74 | [Chambre d'écho](https://open.spotify.com/track/3K39UcTMhkLDzMJCWR1Fo5) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Choses Sauvages II](https://open.spotify.com/album/7657M6M94q7ufrPDQno2Yt) | 3:57 |
+| 75 | [Parfaite à l'écran](https://open.spotify.com/track/7mITLNL1Dg0SZXL4PHG4Y5) | [Karkwa](https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ) | [Parfaite à l'écran](https://open.spotify.com/album/1JY36zZ5pcZurWXM7wo6fP) | 2:48 |
 
-Snapshot ID: `MCwzZDJlNDc3MzA4ZmZlZTU4Y2Q1ZWI5NzIxMTc1YWY0NWI4MWFiMTVi`
+Snapshot ID: `MCw5NzYzOWM2NjBhYjMxMmRlZDY5YWNlNTU3MjMwNTU2Nzc1Y2ZlMmFl`

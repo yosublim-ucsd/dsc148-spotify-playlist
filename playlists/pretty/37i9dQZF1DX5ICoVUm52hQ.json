@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con las Letras de estas canciones, no querr\u00e1s soltar el micr\u00f3fono!",
-  "num_followers": 143977,
+  "num_followers": 144014,
   "original_name": "Karaoke Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTRmODU5YjkwN2YzZTljOGQwNGVjMDZhNmE5NWQ4YWMxOTEyNTU4",
+  "snapshot_id": "MCwzN2Y2NjlmZjBhYjNhMGNkNzg0MTQwNmZkNzY5ZTkyYWYxOTRmNWM0",
   "tracks": [
     {
       "added_at": "2020-10-24 04:53:42",
@@ -391,22 +391,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Ciclos",
-        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "Yo No S\u00e9 Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "Cuatro Caminos",
         "url": "https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 267600,
       "name": "Eres",
       "url": "https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
+        "name": "Ciclos",
+        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 259853,
+      "name": "Yo No S\u00e9 Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -683,22 +683,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "Para M\u00ed",
         "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 211373,
       "name": "Ya Te Olvid\u00e9",
       "url": "https://open.spotify.com/track/4FsVB8msXzmemjJdTKUoal"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -811,6 +811,26 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 238133,
+      "name": "Fotograf\u00eda",
+      "url": "https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
         "name": "Una Lluvia De Rosas",
         "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 273008,
       "name": "Secreto De Amor",
       "url": "https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        },
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 238133,
-      "name": "Fotograf\u00eda",
-      "url": "https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "La Calle De Las Sirenas",
-        "url": "https://open.spotify.com/album/3Qe5Ldqub3nZPjq26sS1fS"
-      },
-      "artists": [
-        {
-          "name": "Kabah",
-          "url": "https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "La Calle De Las Sirenas",
-      "url": "https://open.spotify.com/track/1SVm64B4Ry7dqFSxHY8e65"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "Flor De Piel",
         "url": "https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 283133,
       "name": "Hacer El Amor Con Otro",
       "url": "https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
+        "name": "La Calle De Las Sirenas",
+        "url": "https://open.spotify.com/album/3Qe5Ldqub3nZPjq26sS1fS"
+      },
+      "artists": [
+        {
+          "name": "Kabah",
+          "url": "https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi"
+        }
+      ],
+      "duration_ms": 236160,
+      "name": "La Calle De Las Sirenas",
+      "url": "https://open.spotify.com/track/1SVm64B4Ry7dqFSxHY8e65"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Franco De Vita En Primera Fila",
-        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 218760,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "Sereno",
         "url": "https://open.spotify.com/album/1UufdUSICfRcrISutnCtyv"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 291440,
       "name": "Morena m\u00eda",
       "url": "https://open.spotify.com/track/0HmQkmfYXRPweIg1ycw1R8"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
+        "name": "Franco De Vita En Primera Fila",
+        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 218760,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
     },
     {
       "added_at": "2020-10-24 04:53:42",

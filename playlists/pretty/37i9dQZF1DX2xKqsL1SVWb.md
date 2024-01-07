@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 
 > Folk tan dulce como la miel\. Sebastián Romero en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,857 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,867 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,15 +46,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 36 | [Más Que Ella](https://open.spotify.com/track/2NkS02tMmV0Aab8ghVdoCc) | [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV), [Santiago En La Guitarra](https://open.spotify.com/artist/5QNE44Hg4taZiM0J8nxzwV) | [Más Que Ella](https://open.spotify.com/album/5e5OW8eP7TzqaHsjRBAl8e) | 3:15 |
 | 37 | [No Sabía](https://open.spotify.com/track/7pk6N0rE7NcfDYryeqsAHn) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP) | [No Sabía](https://open.spotify.com/album/2gOm3N82lznLwNw58asTBL) | 3:05 |
 | 38 | [La Casa de la Esquina](https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te mereces un amor](https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF) | 3:44 |
-| 39 | [De Verdad](https://open.spotify.com/track/1afwnLVsqusPl2cAUQ94ky) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [De Verdad](https://open.spotify.com/album/3yMBrg5Xa9WdumtUJlE1gW) | 3:26 |
-| 40 | [Milagro y Desastre](https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Milagro y Desastre](https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe) | 4:05 |
+| 39 | [Milagro y Desastre](https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Milagro y Desastre](https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe) | 4:05 |
+| 40 | [De Verdad](https://open.spotify.com/track/1afwnLVsqusPl2cAUQ94ky) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [De Verdad](https://open.spotify.com/album/3yMBrg5Xa9WdumtUJlE1gW) | 3:26 |
 | 41 | [Ni Modo](https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Ni Modo](https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX) | 3:05 |
-| 42 | [Nunca Te Olvido](https://open.spotify.com/track/3XXZerYu2j34Z7eUh56F6K) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH), [Lulú Bulos](https://open.spotify.com/artist/3GnE3KJ3V1YO5IhindQrkj) | [Byebye Sayonara, Nunca Sabrás Que Esto Fue para Ti](https://open.spotify.com/album/5Uv6SEehbntf84qXBZyT56) | 3:51 |
-| 43 | [azul](https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [azul](https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK) | 2:45 |
+| 42 | [azul](https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [azul](https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK) | 2:45 |
+| 43 | [Nunca Te Olvido](https://open.spotify.com/track/3XXZerYu2j34Z7eUh56F6K) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH), [Lulú Bulos](https://open.spotify.com/artist/3GnE3KJ3V1YO5IhindQrkj) | [Byebye Sayonara, Nunca Sabrás Que Esto Fue para Ti](https://open.spotify.com/album/5Uv6SEehbntf84qXBZyT56) | 3:51 |
 | 44 | [Alta Joya](https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Alta Joya](https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva) | 3:21 |
-| 45 | [La Corriente](https://open.spotify.com/track/0nw9LTQoeiFoDFpZUkyW43) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:31 |
-| 46 | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z) | 3:29 |
-| 47 | [ojalá </3](https://open.spotify.com/track/2Gf3SCoQqgRbxUdjsP3IP4) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [ojalá </3](https://open.spotify.com/album/0dZbJuwWFwFqXSq6BC1xes) | 2:51 |
+| 45 | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z) | 3:29 |
+| 46 | [ojalá </3](https://open.spotify.com/track/2Gf3SCoQqgRbxUdjsP3IP4) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [ojalá </3](https://open.spotify.com/album/0dZbJuwWFwFqXSq6BC1xes) | 2:51 |
+| 47 | [La Corriente](https://open.spotify.com/track/0nw9LTQoeiFoDFpZUkyW43) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:31 |
 | 48 | [Que Entre el Frío](https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Loza](https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt) | 4:27 |
 | 49 | [Tengo Que Hacer Esto Por Mi](https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Tengo Que Hacer Esto Por Mí](https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg) | 2:30 |
 | 50 | [Niña de Mis Ojos](https://open.spotify.com/track/4hjxm4OOqQcwB0Oi8wDV2N) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Niña de Mis Ojos](https://open.spotify.com/album/4qx9aRb19XNXAkmKU4QJj6) | 3:13 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 79 | [SIN TI](https://open.spotify.com/track/2Bvi1KTSvX2OlfUBbOhu1e) | [Costa de Ámbar](https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg) | [SIN TI](https://open.spotify.com/album/1Ze1iSoCDbhaRMqfuRnoMG) | 2:48 |
 | 80 | [Nos Dijimos Adiós](https://open.spotify.com/track/4DEa05v9flZt5Q009QucTU) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [Nos Dijimos Adiós](https://open.spotify.com/album/2AQqArbCTwT5LEAD01IXHe) | 3:42 |
 
-Snapshot ID: `MCw3ZDc3ZTUyYWUyMmI2ZGY0YTdhYzU0MTIwNWRkMTI4OWYzNzdlZmZj`
+Snapshot ID: `MCwzYmUyOWI4ZDFlYzM4ZmE0Y2I3YjczZjM4YmIwNjQ3MDczNDkzNzE2`

@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Här finns veckans bästa och mest intressanta nya låtar\. Happy New Music Friday!
 
-11,217 songs - 24 day 5 hr 51 min
+11,218 songs - 24 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4853,7 +4853,8 @@
 | [If They’re Shooting At You](https://open.spotify.com/track/1MpQ9COoG75VzxABaBrNwF) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [If They’re Shooting At You](https://open.spotify.com/album/1sVnAzBDIJffyzOtqHnj37) | 4:31 | 2022-03-10 | 2022-03-18 |
 | [If This Was A Movie \(Taylor’s Version\)](https://open.spotify.com/track/0kAZ3H6G9Zac4PMpmobMkj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [If This Was A Movie \(Taylor’s Version\)](https://open.spotify.com/album/6IZm7NfvWyXp952VF36Z5F) | 3:57 | 2023-03-16 | 2023-03-25 |
 | [If We Don't](https://open.spotify.com/track/3ZWTtKn5DfGKtYzQzJZjch) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [If We Don't](https://open.spotify.com/album/75ZtuDCzmX08gTjjasXcTU) | 2:12 | 2024-01-04 | 2024-01-06 |
-| [If We Don't](https://open.spotify.com/track/4N0qdwqHaqH3r8dgWiSTbg) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [If We Don't](https://open.spotify.com/album/4YsfWUo7uUkMv3SmwzIggC) | 2:12 | 2024-01-04 |  |
+| [If We Don't](https://open.spotify.com/track/4N0qdwqHaqH3r8dgWiSTbg) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [If We Don't](https://open.spotify.com/album/4YsfWUo7uUkMv3SmwzIggC) | 2:12 | 2024-01-04 | 2024-01-07 |
+| [If We Don’t](https://open.spotify.com/track/0Zp0v6Fd47tdjHdhynPcjr) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [If We Don’t](https://open.spotify.com/album/2vDvJRluMiScDpNGgZEZjJ) | 2:12 | 2024-01-04 |  |
 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2023-02-09 | 2023-02-17 |
 | [If We Ever Broke Up \- Sped Up](https://open.spotify.com/track/5aBfiBLoIznSLQoPZMoPUJ) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [If We Ever Broke Up \(Sped Up\)](https://open.spotify.com/album/4cEguU8mbgtWH22YeUMYKw) | 2:04 | 2023-04-06 | 2023-04-14 |
 | [if we lived on the moon](https://open.spotify.com/track/4Es7s4qHHonILWnqDkN7cA) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [if we lived on the moon](https://open.spotify.com/album/6vKGgTS4yEAm8DlnQd5c7P) | 2:31 | 2022-06-02 | 2022-06-10 |

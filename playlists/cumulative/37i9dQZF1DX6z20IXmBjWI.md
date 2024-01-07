@@ -4,7 +4,7 @@
 
 > Acoustic and roots music gems\. Cover: Trousdale
 
-367 songs - 22 hr 46 min
+368 songs - 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Now You Know](https://open.spotify.com/track/3vNt852RXNZB8PJsIf5P2E) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Xoa](https://open.spotify.com/album/0cE5sSsvz3GLgoAeFZ1oki) | 3:09 | 2021-12-10 | 2022-07-29 |
 | [Olalla](https://open.spotify.com/track/0vrlxoXcbwD8Sklwy59N9g) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Nocturne EP](https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm) | 4:07 | 2022-06-08 | 2022-11-13 |
 | [Olalla](https://open.spotify.com/track/4d4OJTq2Yl7TyiuGMLxa1h) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Olalla](https://open.spotify.com/album/7ezEVlzMBGfVkGWuwcINqY) | 4:07 | 2021-12-10 | 2022-07-29 |
+| [Olalla](https://open.spotify.com/track/1z75CRovSzKUOpYbrV4Fuo) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [On the Other Side](https://open.spotify.com/album/51bsId3cKJ6paV9l6KKIkC) | 4:08 | 2023-09-29 |  |
 | [Olalla](https://open.spotify.com/track/4R59wt5nnhYo88PIu3cUIt) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [On the Other Side](https://open.spotify.com/album/7ruII5ZslQNpw4viJv10yG) | 4:08 | 2022-06-08 | 2024-01-06 |
 | [Old Pine](https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 5:28 | 2021-12-10 |  |
 | [Old Soul \(acoustic\)](https://open.spotify.com/track/6qPdMSH6y9b7khSM3oQJLB) | [Hudson Taylor](https://open.spotify.com/artist/4DX2G1URzfEiRg2wBfv4ub) | [Loving Everywhere I Go](https://open.spotify.com/album/2ZCIrBYU8EDHgySjPO5O7c) | 4:42 | 2022-06-08 |  |
@@ -303,7 +304,7 @@
 | [The Rains](https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:31 | 2022-06-08 |  |
 | [The Rains](https://open.spotify.com/track/5Wvf91821sBE8aErRtpfRN) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Rains](https://open.spotify.com/album/2yYjpXzVcJhQ2D0e9dkwjX) | 3:31 | 2021-12-10 | 2022-07-28 |
 | [The Solitude](https://open.spotify.com/track/3zUBTeyqDS1GF1rFWZ8kvj) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [The Solitude](https://open.spotify.com/album/7Je0ebJ8Ipmf03Kxv2e63q) | 3:46 | 2021-12-10 | 2022-07-29 |
-| [The Solitude](https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:46 | 2022-06-08 |  |
+| [The Solitude](https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:46 | 2022-06-08 | 2024-01-07 |
 | [The Spur](https://open.spotify.com/track/27ViD2ifBwYqlwzpY5LoTB) | [Joan Shelley](https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw) | [The Spur](https://open.spotify.com/album/5zjQU3GjKhWFVHG5pHLqwI) | 3:52 | 2022-06-08 |  |
 | [THE SUN & THE SEA \(feat\. Donovan Woods\)](https://open.spotify.com/track/0gQEH2kiQT4d95wWfkzSJh) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [THE SUN & THE SEA \(feat\. Donovan Woods\)](https://open.spotify.com/album/11kek3xb49b40Y0JDCVw75) | 3:00 | 2022-06-08 |  |
 | [The Trouble with Wanting](https://open.spotify.com/track/0a1Jael2mnrkLTyPetixjh) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Canary / The Trouble with Wanting](https://open.spotify.com/album/20bxQ8Jv6hHhc53KFApRuL) | 3:55 | 2021-12-10 | 2022-07-29 |

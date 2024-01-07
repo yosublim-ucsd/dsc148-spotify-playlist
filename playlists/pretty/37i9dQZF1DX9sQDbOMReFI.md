@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 
 > The best side! Cover: Ice Cube
 
-[Spotify](https://open.spotify.com/user/spotify) - 803,500 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 804,066 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 40 | [I Wanna Get High](https://open.spotify.com/track/2icouZbxwqoL63gHhO2vGd) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Black Sunday](https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX) | 2:54 |
 | 41 | [Streiht Up Menace](https://open.spotify.com/track/2sXMYMpvGVJJBIwrzNf0Lr) | [Compton's Most Wanted](https://open.spotify.com/artist/0SAPzv3jNXclYYSHOnJyjg) | [When We Wuz Bangin](https://open.spotify.com/album/3pmtX0h9cMvyBcwWx5oz3w) | 4:34 |
 | 42 | [Face the World](https://open.spotify.com/track/0A1owXuxPwqTQPqOJcmUGz) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Crenshaw](https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8) | 3:57 |
-| 43 | [Dollaz + Sense](https://open.spotify.com/track/5xEm63lXBhJKZgjRDMWH3H) | [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [Safe + Sound](https://open.spotify.com/album/2b0TUn2yyN7BH7LzoqYIRe) | 5:52 |
-| 44 | [Playaz Club](https://open.spotify.com/track/4ZYM6R5nOZywxACY90Bsla) | [Rappin' 4\-Tay](https://open.spotify.com/artist/4tzxCsdhR0IIUNyzwrag4C) | [Don't Fight The Feelin'](https://open.spotify.com/album/1VUlxoPvDA8PfUDHTic793) | 4:26 |
+| 43 | [Playaz Club](https://open.spotify.com/track/4ZYM6R5nOZywxACY90Bsla) | [Rappin' 4\-Tay](https://open.spotify.com/artist/4tzxCsdhR0IIUNyzwrag4C) | [Don't Fight The Feelin'](https://open.spotify.com/album/1VUlxoPvDA8PfUDHTic793) | 4:26 |
+| 44 | [Dollaz + Sense](https://open.spotify.com/track/5xEm63lXBhJKZgjRDMWH3H) | [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [Safe + Sound](https://open.spotify.com/album/2b0TUn2yyN7BH7LzoqYIRe) | 5:52 |
 | 45 | [The Ghetto](https://open.spotify.com/track/3B6WDceNe6lUQnczntRIuf) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Short Dog's In The House](https://open.spotify.com/album/3zelBkWHW8aaKkSSX1fdSt) | 5:02 |
 | 46 | [La Raza](https://open.spotify.com/track/3zCg6CUmhxHukbUs0nd7ar) | [Kid Frost](https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG) | [Hispanic Causing Panic](https://open.spotify.com/album/54du51RSgc4enNk2K2E2JX) | 3:29 |
 | 47 | [It's Funky Enough \- Remastered Single](https://open.spotify.com/track/63LiOsvf1w1DSbmjbxjh4b) | [The D.O.C.](https://open.spotify.com/artist/2htToCUWzqrvOX6ISJY1nd) | [No One Can Do It Better](https://open.spotify.com/album/3wAMdnbT6F7EM1c4mVe6zD) | 4:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 49 | [Tonite](https://open.spotify.com/track/2hluGQtmPypU3tsQudCQ3U) | [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [Quik Is The Name](https://open.spotify.com/album/6qzvk2A6wQpy1f69hrWj3B) | 5:23 |
 | 50 | [Foe Life](https://open.spotify.com/track/28SF0lKRqso9SSTDpbv991) | [Mack 10](https://open.spotify.com/artist/3USpNaxpX1iNqNnQWqg9ob), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Mack 10](https://open.spotify.com/album/0SIJmYjQu1tjhRpZpdPyAO) | 4:13 |
 
-Snapshot ID: `MCwzZTRmMDYzMDUwZjI4NGY0YTJiOGNkNTliZjMxOWZmMjc2Mzc5YmY2`
+Snapshot ID: `MCxmYzdhMjYxODJmOTU0YTNlMzZlZWE1ZjU0ZTJjNDAxMzZkMGE4NzRh`

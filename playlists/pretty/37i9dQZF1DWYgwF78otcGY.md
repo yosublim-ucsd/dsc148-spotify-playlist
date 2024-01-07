@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 
 > Fjäderboa, dansgolv, allsång och tonartshöjningar \- nu är det mellofest! 🪩✨💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,836 likes - 52 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,834 likes - 52 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 21 | [Manboy](https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah) | [Eric Saade](https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG) | [Masquerade](https://open.spotify.com/album/29npkCplHvsX4VZ6POOwMp) | 3:00 |
 | 22 | [Satellit](https://open.spotify.com/track/10AwlsmVEASSiWORkKcgRo) | [Ted Gärdestad](https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4) | [Blue Virgin Isles](https://open.spotify.com/album/5xHCzowaod3845uvIfXAkg) | 4:17 |
 | 23 | [Bra vibrationer](https://open.spotify.com/track/0FSlaiuv4eBrrjz05jpxz6) | [Kikki Danielsson](https://open.spotify.com/artist/3ktAhWMnoYiz6UpBEKfv5i) | [Bra vibrationer](https://open.spotify.com/album/6pTczERNVTTxtoFjfOIKWU) | 3:06 |
-| 24 | [Cara mia](https://open.spotify.com/track/4vxn2p4GbiFhnVsIASACrf) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [Stand By For...](https://open.spotify.com/album/0Bt2FMVJpBg0g0fFiQjqoV) | 3:04 |
-| 25 | [Habibi](https://open.spotify.com/track/0PcnMWhIgWga5G7pck1Fhb) | [Dolly Style](https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs) | [Dolly Styles bästa](https://open.spotify.com/album/4UeSWAPwCYG0PUYXfTRMfE) | 2:51 |
+| 24 | [Habibi](https://open.spotify.com/track/0PcnMWhIgWga5G7pck1Fhb) | [Dolly Style](https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs) | [Dolly Styles bästa](https://open.spotify.com/album/4UeSWAPwCYG0PUYXfTRMfE) | 2:51 |
+| 25 | [Cara mia](https://open.spotify.com/track/4vxn2p4GbiFhnVsIASACrf) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [Stand By For...](https://open.spotify.com/album/0Bt2FMVJpBg0g0fFiQjqoV) | 3:04 |
 | 26 | [Vem e som oss](https://open.spotify.com/track/20052FYa2SF5Lkp9VZTLJX) | [Anis Don Demina](https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P) | [Vem e som oss](https://open.spotify.com/album/2KX1IGf0NJMA3p1wh57Ccb) | 2:55 |
 | 27 | [Alla flickor](https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq) | [Linda Bengtzing](https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV) | [Ingenting att förlora](https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l) | 2:49 |
 | 28 | [Bada nakna](https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld) | [Samir & Viktor](https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6) | [Bada Nakna](https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas) | 3:11 |
@@ -54,11 +54,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 44 | [Diggiloo Diggiley](https://open.spotify.com/track/4NzirQ4BrNkVaPEla2ipG4) | [Herreys](https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle) | [Diggiloo Diggiley](https://open.spotify.com/album/1aeO2MJZFZhk3E57aaYGlg) | 3:07 |
 | 45 | [Now I Know](https://open.spotify.com/track/591qy56kcfBuNgj1kregOM) | [Tennessee Tears](https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp) | [Now I Know](https://open.spotify.com/album/1uap95G6btqs1OZLmkN1Gc) | 3:01 |
 | 46 | [Evighet](https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Från nu till evighet](https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH) | 3:01 |
-| 47 | [Om om och om igen](https://open.spotify.com/track/1Lg5Qf47RERQQmfYbGZB43) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Om om och om igen](https://open.spotify.com/album/34VOvxhqnb5cGsO67IO3Rd) | 2:47 |
-| 48 | [All My Life \(Where Have You Been\)](https://open.spotify.com/track/5zZr5MeTBHHyyOjGHo0TKo) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [All My Life \(Where Have You Been\)](https://open.spotify.com/album/1IynmYnMto0IfvYfvuWTeU) | 2:52 |
+| 47 | [All My Life \(Where Have You Been\)](https://open.spotify.com/track/5zZr5MeTBHHyyOjGHo0TKo) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [All My Life \(Where Have You Been\)](https://open.spotify.com/album/1IynmYnMto0IfvYfvuWTeU) | 2:52 |
+| 48 | [Om om och om igen](https://open.spotify.com/track/1Lg5Qf47RERQQmfYbGZB43) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Om om och om igen](https://open.spotify.com/album/34VOvxhqnb5cGsO67IO3Rd) | 2:47 |
 | 49 | [Ashes To Ashes](https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o) | [Anna Bergendahl](https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9) | [Ashes To Ashes](https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR) | 3:00 |
 | 50 | [Hon Kommer Med Solsken](https://open.spotify.com/track/28ghjLqAxD7g9fEmZNUsDh) | [Östen Med Resten](https://open.spotify.com/artist/20nKo8C8M0JpIznby9Dv5p) | [Greatest of the Best](https://open.spotify.com/album/7sIUvDzyIz2F5AbmjaNWYo) | 2:55 |
 | 51 | [Begging](https://open.spotify.com/track/2sjZkR11bgYNjDOHqjvCK1) | [Anton Ewald](https://open.spotify.com/artist/6HKV18fbiZPLNSoTUnTALb) | [A](https://open.spotify.com/album/6HDTuFOdtkETh4RnxIDNVm) | 3:02 |
 | 52 | [Royals](https://open.spotify.com/track/7Cxq5B4XJt5FrpU4Uu2BxO) | [Paul Rey](https://open.spotify.com/artist/5FjiYgLczmrP2j1gijAGWp) | [Royals](https://open.spotify.com/album/526vMx7SZDOiOPxh8RmNCd) | 2:58 |
 
-Snapshot ID: `MCxlMmI0Y2ZhMWM4MzlhNzc1MDc1ZGZhYzFiOTdkYTdmMTZhMDM0Mzc5`
+Snapshot ID: `MCwyOGY0MDY2MTY0M2YyNDBiMTZiMzc2MzZjYzY4MzA0YTJmMGNkYzE3`

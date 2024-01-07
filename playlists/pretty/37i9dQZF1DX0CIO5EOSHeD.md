@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 
 > Slacker jams\. Cover: feeble little horse
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,750 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,917 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 85 | [Start Somewhere](https://open.spotify.com/track/5nq6JuSSC7quMwNqfHBRVv) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [End Of The Day \(music from the film Anonymous Club\)](https://open.spotify.com/album/0krQrRHXegSUt9UxuH0br5) | 2:11 |
 | 86 | [HeatDeath](https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [HeatDeath](https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n) | 5:17 |
 | 87 | [Beautiful Mind](https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:19 |
-| 88 | [KPR](https://open.spotify.com/track/0fcHWRLf2uRGk9GDamLkpA) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [KPR](https://open.spotify.com/album/4kAsnJ87kSwxe5KPJiydox) | 3:33 |
+| 88 | [That's What They Wanted](https://open.spotify.com/track/61hQMSDPEyMduIoZ6BwkO2) | [canless valley](https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj) | [That's What They Wanted](https://open.spotify.com/album/6ixZ1mCoJtFwwSMqufEfZC) | 1:56 |
 | 89 | [Teen Mom](https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Teen Mom](https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea) | 3:42 |
-| 90 | [That's What They Wanted](https://open.spotify.com/track/61hQMSDPEyMduIoZ6BwkO2) | [canless valley](https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj) | [That's What They Wanted](https://open.spotify.com/album/6ixZ1mCoJtFwwSMqufEfZC) | 1:56 |
+| 90 | [KPR](https://open.spotify.com/track/0fcHWRLf2uRGk9GDamLkpA) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [KPR](https://open.spotify.com/album/4kAsnJ87kSwxe5KPJiydox) | 3:33 |
 | 91 | [Into](https://open.spotify.com/track/22lOyosVUdyq7X0P7rzbWy) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Half Life](https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU) | 3:59 |
 | 92 | [4th of july](https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [dirt](https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB) | 2:56 |
 | 93 | [Take It Off](https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Rat](https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm) | 3:11 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 95 | [New York, Paris and London](https://open.spotify.com/track/2VMZPDAguzZ8mBFMe3iEHJ) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [Forever at Last](https://open.spotify.com/album/3y08i0cgjlrH4Ca44CcdW7) | 3:26 |
 | 96 | [home:so long](https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [home:so long](https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX) | 1:25 |
 | 97 | [AHH!!](https://open.spotify.com/track/0bhmQgTeqAcxvfoHo5NPk7) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [AHH!!](https://open.spotify.com/album/3DLP1NdK5qoxL5khIxYy0d) | 1:36 |
-| 98 | [Baby](https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Baby](https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0) | 3:57 |
-| 99 | [Le feu](https://open.spotify.com/track/6GaVUNzYZPpeU2qJrlVjtD) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Le feu](https://open.spotify.com/album/3yrKC3JOwOu5z9RkdByzbA) | 3:51 |
-| 100 | [buzzkill bummer](https://open.spotify.com/track/1wMBG8bzSjlupviNxOxsyX) | [Vanillaroma](https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7) | [i run like this](https://open.spotify.com/album/5dTdx1hbSnJtbLnvGajIRc) | 3:02 |
+| 98 | [Le feu](https://open.spotify.com/track/6GaVUNzYZPpeU2qJrlVjtD) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Le feu](https://open.spotify.com/album/3yrKC3JOwOu5z9RkdByzbA) | 3:51 |
+| 99 | [Baby](https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Baby](https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0) | 3:57 |
+| 100 | [Night Vision](https://open.spotify.com/track/54GSKI57uNYbwamZrjBGMz) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Chopper](https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1) | 3:22 |
 
-Snapshot ID: `MCw5YTNiNDFmY2Q5MWEwMDI3NjgwMGY3YjUzN2IxZWUzNTU2NmMxN2Fm`
+Snapshot ID: `MCw2NTFjYzQ3NGNiZTVlYzM4NGNmOWM1NzY4OWFjMjc3YjIwNjkyMWE1`

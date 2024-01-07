@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 
 > A playback of <a href="https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624">Mood Ring</a>’s all\-stars\. Cover: Rochelle Jordan
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,895 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,901 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 | 46 | [CYANIDE REMIX \(feat\. Koffee\)](https://open.spotify.com/track/5HGU08aDQkOjwogqE3SwhG) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [CYANIDE REMIX \(feat\. Koffee\)](https://open.spotify.com/album/4kYeULYvGSPb5igBdYlJ5S) | 3:41 |
 | 47 | [Eternal Sunshine](https://open.spotify.com/track/5FChOu6NfR5w7YLgDmXXnC) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Eternal Sunshine](https://open.spotify.com/album/28BpYRhmt39k7JYAviNf9n) | 4:01 |
 | 48 | [Best Friends \- Remix](https://open.spotify.com/track/3YZmW6AUHsbN7KhOTd944i) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Best Friends \(Remix\)](https://open.spotify.com/album/4a8uxN5j5ZSWuioZ9cHqWk) | 2:55 |
-| 49 | [FAR AWAY II \(feat\. A Boogie Wit da Hoodie & JID\)](https://open.spotify.com/track/48sVPgGv1lux3LbGtk35iS) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [BEFORE LOVE CAME TO KILL US \(Deluxe\)](https://open.spotify.com/album/2o7OtjWjB5cbHgH4JpWrc3) | 3:35 |
-| 50 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 2:44 |
+| 49 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 2:44 |
+| 50 | [FAR AWAY II \(feat\. A Boogie Wit da Hoodie & JID\)](https://open.spotify.com/track/48sVPgGv1lux3LbGtk35iS) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [BEFORE LOVE CAME TO KILL US \(Deluxe\)](https://open.spotify.com/album/2o7OtjWjB5cbHgH4JpWrc3) | 3:35 |
 | 51 | [Give Me Time](https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Give Me Time](https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J) | 2:34 |
 | 52 | [Time Goes "Bye"](https://open.spotify.com/track/01PUsoJjBsFweo5SHoQPeX) | [Jex Nwalor](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Time Goes "Bye"](https://open.spotify.com/album/40VUN4AbGTVF4JQgnSRL0e) | 4:21 |
 | 53 | [Video Games](https://open.spotify.com/track/7yyYmGQXSyrH7kLALSTFjg) | [Sun](https://open.spotify.com/artist/37AvA9c8rndxYbojqst9At) | [Video Games](https://open.spotify.com/album/3YGJzBM5MTgaFyJ4KUi1jQ) | 3:40 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 | 58 | [Home](https://open.spotify.com/track/3X1R2hYu7PeUNG2rOd9b7w) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Proverb](https://open.spotify.com/album/0UGslTI60Tlnf3nRga8znK) | 3:21 |
 | 59 | [Kilimanjaro \(with BEAM\)](https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 3:11 |
 | 60 | [Awake](https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:46 |
-| 61 | [Potent](https://open.spotify.com/track/4WjD33BNF24KCZkMWlLvlV) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Memory Springs](https://open.spotify.com/album/1u8cMnEdxcystiFOb8DRWN) | 2:07 |
-| 62 | [be cool](https://open.spotify.com/track/6gILMXbilRDGSp6vexAg8r) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J) | 2:23 |
+| 61 | [be cool](https://open.spotify.com/track/6gILMXbilRDGSp6vexAg8r) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J) | 2:23 |
+| 62 | [Potent](https://open.spotify.com/track/4WjD33BNF24KCZkMWlLvlV) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Memory Springs](https://open.spotify.com/album/1u8cMnEdxcystiFOb8DRWN) | 2:07 |
 | 63 | [Vibe for Me \(Bob for Me\)](https://open.spotify.com/track/0DfvMYHipoZ3u0AJf4LjKF) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Vibe for Me \(Bob for Me\)](https://open.spotify.com/album/1HKFbE6Qx3xLhPIqxkZUqb) | 2:31 |
 | 64 | [Looping](https://open.spotify.com/track/4HwuBZ2IqMpGpPyvmoB9b4) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:13 |
 | 65 | [Strange](https://open.spotify.com/track/7Mh8TbrCLjGxkJg5TmlKC3) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Strange](https://open.spotify.com/album/5wwOyVfErnVEhNXulI4JX3) | 3:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 | 74 | [Freedom \(with BEAM\)](https://open.spotify.com/track/6TQeWWQMtSWFNgR7yxvcg6) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Freedom.](https://open.spotify.com/album/28sV7wzuBcHijsmUJJ9kKJ) | 2:45 |
 | 75 | [Some Kinda Love](https://open.spotify.com/track/1kTvzk3atwk9K2YSFMtnzj) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Some Kinda Love](https://open.spotify.com/album/1bR9jE6phZUlbHi9wzqjlt) | 4:52 |
 
-Snapshot ID: `MCxlYzIxY2Q5MDhmNGRjM2ZkN2I1MGRjMWM5ZmIyZjAzNzQyNTk3NmQ5`
+Snapshot ID: `MCwzMTNiNmVjYjljNGJhNWE3Y2YxNzYyNWMwNzE4OTYxZGFlNDk0ZjJj`

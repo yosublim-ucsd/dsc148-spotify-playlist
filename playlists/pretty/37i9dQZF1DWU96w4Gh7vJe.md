@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 
 > Sit back and relax to our favorite local indie and R&B sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,063 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,102 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 13 | [Sa Susunod Na Lang](https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU) | [PDL](https://open.spotify.com/artist/0iqkVK6sTXi7DZWWOeKy8Q), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [Sa Susunod Na Lang](https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq) | 3:34 |
 | 14 | [Kung Wala Ka](https://open.spotify.com/track/4he4CYDhvSPTxQc0e0Le1L) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Hale](https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk) | 4:02 |
 | 15 | [Imahe](https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Imahe](https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h) | 5:21 |
-| 16 | [Magbalik](https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Destination XYZ](https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6) | 5:26 |
-| 17 | [Miss Miss](https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Miss Miss](https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o) | 4:25 |
+| 16 | [Miss Miss](https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Miss Miss](https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o) | 4:25 |
+| 17 | [Magbalik](https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Destination XYZ](https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6) | 5:26 |
 | 18 | [Buwan](https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Buwan](https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1) | 5:43 |
 | 19 | [Bulong](https://open.spotify.com/track/5rV7xueHNNXaZqOLroaUta) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Langit Mong Bughaw](https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr) | 4:30 |
 | 20 | [Maybe The Night](https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Maybe The Night](https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e) | 3:37 |
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 34 | [Rainbow](https://open.spotify.com/track/3VcVQmMivq2ISfKUmIuvMK) | [South Border](https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv) | [Episode III](https://open.spotify.com/album/6bMej3xtNOTiiHLdhR4wzX) | 5:47 |
 | 35 | [Bakit Ba Ikaw](https://open.spotify.com/track/0RYRExrU329MHOwuiueWIq) | [Michael Pangilinan](https://open.spotify.com/artist/1t2caVgyabZrVDAlmMGraV) | [Michael Pangilinan](https://open.spotify.com/album/5smhvbie90IDjoJoQTI7lk) | 4:05 |
 | 36 | [Aking Pahinga](https://open.spotify.com/track/6zcjOnMaymoEbG32dWekXi) | [Dro Perez](https://open.spotify.com/artist/1Qwm4EmOYuY34nAFfeEUOa), [I\-Ghie](https://open.spotify.com/artist/0nR2iHBD1IJVJhRpzA5nFf) | [Aking Pahinga](https://open.spotify.com/album/5dO0Qwl40jXrQ4NCmRRuvb) | 4:34 |
-| 37 | [Oks Lang](https://open.spotify.com/track/3Hsjzl5kBbCAMaJxg1OTwK) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [Oks Lang](https://open.spotify.com/album/2DgTTNbbKwiPMUaAqeRmuf) | 5:36 |
-| 38 | [Pity Ya](https://open.spotify.com/track/5DJuFnUWeok3rou4xDlCD9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Pity Ya](https://open.spotify.com/album/0YRCIO7DtUmgB3rewEDYh4) | 3:12 |
+| 37 | [Pity Ya](https://open.spotify.com/track/5DJuFnUWeok3rou4xDlCD9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Pity Ya](https://open.spotify.com/album/0YRCIO7DtUmgB3rewEDYh4) | 3:12 |
+| 38 | [Oks Lang](https://open.spotify.com/track/3Hsjzl5kBbCAMaJxg1OTwK) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [Oks Lang](https://open.spotify.com/album/2DgTTNbbKwiPMUaAqeRmuf) | 5:36 |
 | 39 | [Don't Know What To Do \(Don't Know What To Say\)](https://open.spotify.com/track/1ER60P43ftVOLaMRvBfpnt) | [Mark Carpio](https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5) | [Don't Know What To Do \(Don't Know What To Say\)](https://open.spotify.com/album/6ZozvLGJfI8IEdQCTeivYc) | 2:47 |
 | 40 | [Weak](https://open.spotify.com/track/06cUybZMETs4i3yQO1f7p3) | [Khel Pangilinan](https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l) | [Weak](https://open.spotify.com/album/5ZxNoCcUNppsFWVkMkEoed) | 3:31 |
 | 41 | [Tagpuan](https://open.spotify.com/track/6pA9QdHAzg1cyG6I7xI7Ez) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Malaya](https://open.spotify.com/album/4MPMYc8S6csdHlF8Ud1yLp) | 4:20 |
-| 42 | [Anytime](https://open.spotify.com/track/0GiqrzfvBVHmkyJEWP4kcx) | [Lipip](https://open.spotify.com/artist/4NslYs4dIwJjyAmfak2Yc2), [Asiong De Luna](https://open.spotify.com/artist/4fhejfeRXmlwh5ozRvrltW), [esseca](https://open.spotify.com/artist/4G6h14o5YEgdmiwd10cemr) | [Anytime](https://open.spotify.com/album/73d8pQZqyvAkvYNiq1eCqN) | 4:19 |
-| 43 | [Kahit Di Mo Alam](https://open.spotify.com/track/7Ej7MKkFmuDApmawGwSA3S) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Langit Mong Bughaw](https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr) | 4:42 |
+| 42 | [Kahit Di Mo Alam](https://open.spotify.com/track/7Ej7MKkFmuDApmawGwSA3S) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Langit Mong Bughaw](https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr) | 4:42 |
+| 43 | [Anytime](https://open.spotify.com/track/0GiqrzfvBVHmkyJEWP4kcx) | [Lipip](https://open.spotify.com/artist/4NslYs4dIwJjyAmfak2Yc2), [Asiong De Luna](https://open.spotify.com/artist/4fhejfeRXmlwh5ozRvrltW), [esseca](https://open.spotify.com/artist/4G6h14o5YEgdmiwd10cemr) | [Anytime](https://open.spotify.com/album/73d8pQZqyvAkvYNiq1eCqN) | 4:19 |
 | 44 | [Balang Araw \- Single Version](https://open.spotify.com/track/2f0Z6I0fDfgDI3htl2RoTd) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [Balang Araw](https://open.spotify.com/album/1WTaHQ1ulKruduEtwyRLDD) | 4:48 |
 | 45 | [Till My Heartaches End \- From "The Significant Other"](https://open.spotify.com/track/5nWswD8icrEB76JAckDoxY) | [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Till My Heartaches End \(From "The Significant Other"\)](https://open.spotify.com/album/7KcUkMbUny7VAOzGjIkFhJ) | 4:16 |
-| 46 | [Ngiti](https://open.spotify.com/track/2086mMaH4riDyU13MSYzzx) | [Ronnie Liang](https://open.spotify.com/artist/6GbCVaJ6iTA0OnZaOiDpl0) | [Ang Aking Awitin](https://open.spotify.com/album/04kUFHCYtia8N4oqq0XeVJ) | 3:32 |
-| 47 | [Tulog Na](https://open.spotify.com/track/5ZPlhCh8KnB0bEnElxm1Et) | [Sugarfree](https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy) | [Dramachine](https://open.spotify.com/album/6eQSE3asJwkxro63orNwjk) | 4:00 |
+| 46 | [Tulog Na](https://open.spotify.com/track/5ZPlhCh8KnB0bEnElxm1Et) | [Sugarfree](https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy) | [Dramachine](https://open.spotify.com/album/6eQSE3asJwkxro63orNwjk) | 4:00 |
+| 47 | [Ngiti](https://open.spotify.com/track/2086mMaH4riDyU13MSYzzx) | [Ronnie Liang](https://open.spotify.com/artist/6GbCVaJ6iTA0OnZaOiDpl0) | [Ang Aking Awitin](https://open.spotify.com/album/04kUFHCYtia8N4oqq0XeVJ) | 3:32 |
 | 48 | [Simula Pa Nung Una](https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm) | [Patch Quiwa](https://open.spotify.com/artist/3bsQY9pFWVzUMxlSgGQuBn) | [Simula Pa Nung Una](https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC) | 4:15 |
 | 49 | [With a Smile \(feat\. Kelly Badon\)](https://open.spotify.com/track/6XmskR1cMfgys1W7dExmgi) | [South Border](https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv), [Kelly Badon](https://open.spotify.com/artist/32pTJUDIqu5vvX5McsyU26) | [Ultraelectromagnetic Jam](https://open.spotify.com/album/7tfDmiKEApFiZmT5MzIN1o) | 4:24 |
 | 50 | [Huwag Na Lang Kaya](https://open.spotify.com/track/6v5gynE8gZcLwipN1UjCaD) | [True Faith](https://open.spotify.com/artist/6RV3CKY0UJIPKXyGs85Thm) | [Beyond Doubt](https://open.spotify.com/album/7AetQy7fe8Nt13bSJCELXH) | 3:31 |
 
-Snapshot ID: `MCwyMWJiZmQ0NjVmZTQ4NmFjZjlhYWIzZDM4YjczYzE5ZTE2NTBkODhh`
+Snapshot ID: `MCw5NzVjZGVhNTRhOTQzZDNiNmRkZWFmZjFlMDU4NmY3ZGI2NmJjNGQ5`

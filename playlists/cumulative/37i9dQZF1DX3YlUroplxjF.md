@@ -4,7 +4,7 @@
 
 > A heavy collision of punk, hardcore and everything in between\. Cover: Knocked Loose
 
-410 songs - 23 hr 33 min
+411 songs - 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Devastation](https://open.spotify.com/track/7JlMigJUTnVlmXODusrtdF) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Devastation](https://open.spotify.com/album/770QyevFqrQduuJDRPtVHU) | 3:41 | 2021-11-30 |  |
 | [Dirty Talk](https://open.spotify.com/track/1U4f6DJeMHNxMjyrrl4ZeO) | [Nicolas Rage](https://open.spotify.com/artist/2zW42doVH9hhAq2RZyA7Vf) | [Dirty Talk](https://open.spotify.com/album/5Fo3NNuzTkmZc22sfLlERT) | 2:40 | 2021-11-30 | 2023-01-16 |
 | [Disassociate](https://open.spotify.com/track/0A61KXiNWA9rJMHllD7yOw) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [Disassociate](https://open.spotify.com/album/2kk3zo0UKSlc65KW4UZoC5) | 3:11 | 2021-11-30 | 2022-07-27 |
+| [Disassociate](https://open.spotify.com/track/7f0alEJ3NtU3iqAVrVGAO8) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [Gone In Your Wake](https://open.spotify.com/album/0ypAkNPpFt6jUn6u5Q33CC) | 3:11 | 2023-06-20 |  |
 | [Disease](https://open.spotify.com/track/1hkm127hnTSa2xjGNw8IAE) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Disease](https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF) | 3:48 | 2021-11-30 |  |
 | [Distance](https://open.spotify.com/track/0wb8L0gFCKBnPHeG8Aw9OX) | [Boys of Fall](https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5) | [Distance](https://open.spotify.com/album/5SyXDNKtQTzNiJ2aDQBPKA) | 2:59 | 2022-04-01 |  |
 | [Distance](https://open.spotify.com/track/5rW2epXG3Hh9htDz3jURRx) | [Boys of Fall](https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5) | [Distance](https://open.spotify.com/album/7fpmkZLtIePdNA4jiYZKIn) | 2:59 | 2021-11-30 | 2022-07-29 |
@@ -165,7 +166,7 @@
 | [Heart\-Shaped Box](https://open.spotify.com/track/0nv8LBkWyWSO5tFSYh2Kb1) | [Living in Fiction](https://open.spotify.com/artist/1AQHAqCjfAC3iitV5bd3ET) | [Heart\-Shaped Box](https://open.spotify.com/album/2jIJI9Bdb5U9N59ZsAo3v5) | 4:40 | 2021-11-30 | 2022-07-28 |
 | [Heavy Hearts](https://open.spotify.com/track/74W1MT74Vr6Z3FIE49DMWf) | [Boys of Fall](https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5) | [Distance](https://open.spotify.com/album/5SyXDNKtQTzNiJ2aDQBPKA) | 3:33 | 2021-11-30 | 2022-07-17 |
 | [Heel](https://open.spotify.com/track/0bOkJLKU60EJ3Z6Kcl1ogk) | [Rarity](https://open.spotify.com/artist/2EIhbnEc2cvYIAsXXbo9tg) | [The Longest Lonesome](https://open.spotify.com/album/1K937ul4FkJiKufynQWtF4) | 3:03 | 2021-11-30 | 2022-07-27 |
-| [Hell Is Where The Heart Is](https://open.spotify.com/track/0O2b2DVpnhGFog8ENORm7x) | [Get Scared](https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez) | [The Dead Days](https://open.spotify.com/album/08M2nrcIACOFrgkjprl4Zn) | 3:32 | 2021-11-30 |  |
+| [Hell Is Where The Heart Is](https://open.spotify.com/track/0O2b2DVpnhGFog8ENORm7x) | [Get Scared](https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez) | [The Dead Days](https://open.spotify.com/album/08M2nrcIACOFrgkjprl4Zn) | 3:32 | 2021-11-30 | 2024-01-07 |
 | [Hereafter](https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:15 | 2022-04-01 |  |
 | [Hereafter](https://open.spotify.com/track/6u2qyJK7Zw5T5ZYgNtfVdM) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Hereafter](https://open.spotify.com/album/21hp02VbDwdcfgJWQdZMTP) | 4:15 | 2021-11-30 | 2022-07-27 |
 | [Hiccup](https://open.spotify.com/track/50FLwADrMNPuw0ZPMcD08z) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [Hiccup](https://open.spotify.com/album/3M52jxyf7VbA9jWQ9K5cSR) | 1:45 | 2023-03-17 |  |

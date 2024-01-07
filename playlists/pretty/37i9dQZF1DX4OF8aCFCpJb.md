@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,737 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,735 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 46 | [Du Vill Så Du Kan](https://open.spotify.com/track/5oo1hxx3SkXtF2tzzggAhM) | [Svenska Akademien](https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS) | [Resa Sig Opp](https://open.spotify.com/album/5vGTg3HqIqOEagshyN9Yma) | 4:05 |
 | 47 | [Twin Flame](https://open.spotify.com/track/1px6WAnyrXvXUx33U9KfIg) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5), [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD) | [ANITYA](https://open.spotify.com/album/18WWB7MAZPuqACVBt6lpN4) | 3:07 |
 | 48 | [Bulleribock](https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Bråda dagar](https://open.spotify.com/album/2fYUrWZt0JQ3Ny0YdM53WR) | 4:14 |
-| 49 | [Du som snodde min cykel](https://open.spotify.com/track/34xfqylPr6bjehLAtxJSJF) | [Kronofogden](https://open.spotify.com/artist/7jVFpY4BgMLcoOHrHbxKHQ) | [Du som snodde min cykel](https://open.spotify.com/album/3rUFIWV0Ttk9Gt1UDW7WfA) | 3:43 |
-| 50 | [Onda ögat](https://open.spotify.com/track/2308zhPgcLzR1xKMhI5naC) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [SELFMADE](https://open.spotify.com/album/7bDdwOEcIAfemtJecLkP5g) | 4:00 |
+| 49 | [Onda ögat](https://open.spotify.com/track/2308zhPgcLzR1xKMhI5naC) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [SELFMADE](https://open.spotify.com/album/7bDdwOEcIAfemtJecLkP5g) | 4:00 |
+| 50 | [Du som snodde min cykel](https://open.spotify.com/track/34xfqylPr6bjehLAtxJSJF) | [Kronofogden](https://open.spotify.com/artist/7jVFpY4BgMLcoOHrHbxKHQ) | [Du som snodde min cykel](https://open.spotify.com/album/3rUFIWV0Ttk9Gt1UDW7WfA) | 3:43 |
 
-Snapshot ID: `MCwyNGFkMjRiNjc3MGIwNjAwNWQwYTdkYWE1Y2IxMTkxZjMzMmVhOGQ1`
+Snapshot ID: `MCw5MzMzYmQxN2ViOWEzYjU1ZDljZGU1NzcxZTBmOTQ5YmRiMjJhOTVh`

@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Jesse Baez.",
-  "num_followers": 761092,
+  "num_followers": 761089,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzU0MGEwYWI3M2E4YjQ4OGVhODk5MDczMzU4Yzk0YzRlMTI1OGFm",
+  "snapshot_id": "MCw4NjA2ZjVjNjNiOGJlODc3NDVhODA3YjEyM2UzZTk5NmUxOWZhOTI4",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -295,6 +295,30 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 175192,
+      "name": "ma\u00f1ana",
+      "url": "https://open.spotify.com/track/1BT8gWiMLQvN7oPQHS8RSR"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "\u00bfQui\u00e9n trae las cornetas?",
         "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
       },
@@ -323,30 +347,6 @@
       "duration_ms": 211666,
       "name": "Live For Me",
       "url": "https://open.spotify.com/track/0d5OZ7YYD8YXlXGitjHO0n"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "DATA",
-        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 175192,
-      "name": "ma\u00f1ana",
-      "url": "https://open.spotify.com/track/1BT8gWiMLQvN7oPQHS8RSR"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "luchador ep",
+        "url": "https://open.spotify.com/album/3oaIJcAqtbu6NMzcpFgLk0"
+      },
+      "artists": [
+        {
+          "name": "adan diaz",
+          "url": "https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "luchador",
+      "url": "https://open.spotify.com/track/32NwtN9F0vSxTOZQpMIuJZ"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "GRANDE",
         "url": "https://open.spotify.com/album/6cV5ziMH2KfyIxxooKNA4L"
       },
@@ -1063,18 +1079,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "luchador ep",
-        "url": "https://open.spotify.com/album/3oaIJcAqtbu6NMzcpFgLk0"
+        "name": "Una Vida",
+        "url": "https://open.spotify.com/album/3adxFEMsq25Adf8bHWX4rL"
       },
       "artists": [
         {
-          "name": "adan diaz",
-          "url": "https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP"
+          "name": "Club del R\u00edo",
+          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
         }
       ],
-      "duration_ms": 142153,
-      "name": "luchador",
-      "url": "https://open.spotify.com/track/32NwtN9F0vSxTOZQpMIuJZ"
+      "duration_ms": 244856,
+      "name": "Una Vida",
+      "url": "https://open.spotify.com/track/1Q4kVMA8OnbVVuq0kQMYRv"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1095,26 +1111,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Monumento",
-        "url": "https://open.spotify.com/album/0KCzvW9btMbZpM2JVPZj4s"
-      },
-      "artists": [
-        {
-          "name": "Jarina De Marco",
-          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
-        },
-        {
-          "name": "Calacote",
-          "url": "https://open.spotify.com/artist/52PhGA4a6erATMkWfLuFvO"
-        }
-      ],
-      "duration_ms": 162120,
-      "name": "Monumento",
-      "url": "https://open.spotify.com/track/1Lb0j0vG9oNCvZYqhXLa4s"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "No me siento vivo",
         "url": "https://open.spotify.com/album/1oUFkdvSYY3IJfoPS18Fpo"
       },
@@ -1131,6 +1127,26 @@
       "duration_ms": 187924,
       "name": "Atardeceres",
       "url": "https://open.spotify.com/track/2RCtEkbuEmcyft4OhKTxnA"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Monumento",
+        "url": "https://open.spotify.com/album/0KCzvW9btMbZpM2JVPZj4s"
+      },
+      "artists": [
+        {
+          "name": "Jarina De Marco",
+          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
+        },
+        {
+          "name": "Calacote",
+          "url": "https://open.spotify.com/artist/52PhGA4a6erATMkWfLuFvO"
+        }
+      ],
+      "duration_ms": 162120,
+      "name": "Monumento",
+      "url": "https://open.spotify.com/track/1Lb0j0vG9oNCvZYqhXLa4s"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1191,6 +1207,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "estrella / nadie",
+        "url": "https://open.spotify.com/album/7yHxJ0M0AmGms2zmg5AjR5"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 166303,
+      "name": "estrella",
+      "url": "https://open.spotify.com/track/5ovyRiDD5WWzqsMky8cIBK"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "road 2 neverland",
         "url": "https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8"
       },
@@ -1203,6 +1235,22 @@
       "duration_ms": 144547,
       "name": "neverland",
       "url": "https://open.spotify.com/track/6xFXHnsyPE53Um8AwsQuyy"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Cuando No Quede Nadie",
+        "url": "https://open.spotify.com/album/0iDz5ao0k2wowPRbaMC2Jt"
+      },
+      "artists": [
+        {
+          "name": "Beruti",
+          "url": "https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI"
+        }
+      ],
+      "duration_ms": 182799,
+      "name": "De Otra Vida",
+      "url": "https://open.spotify.com/track/1ToksVaQi3XOqwlmfn5mLH"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1223,22 +1271,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "estrella / nadie",
-        "url": "https://open.spotify.com/album/7yHxJ0M0AmGms2zmg5AjR5"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 166303,
-      "name": "estrella",
-      "url": "https://open.spotify.com/track/5ovyRiDD5WWzqsMky8cIBK"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "SOL",
         "url": "https://open.spotify.com/album/7t2eAbzB3o19k1wUZdwXGj"
       },
@@ -1251,22 +1283,6 @@
       "duration_ms": 169000,
       "name": "SOL",
       "url": "https://open.spotify.com/track/1uEv6M3Ry3CGvvUVgPJYjQ"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Cuando No Quede Nadie",
-        "url": "https://open.spotify.com/album/0iDz5ao0k2wowPRbaMC2Jt"
-      },
-      "artists": [
-        {
-          "name": "Beruti",
-          "url": "https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI"
-        }
-      ],
-      "duration_ms": 182799,
-      "name": "De Otra Vida",
-      "url": "https://open.spotify.com/track/1ToksVaQi3XOqwlmfn5mLH"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1315,22 +1331,6 @@
       "duration_ms": 164508,
       "name": "Labios",
       "url": "https://open.spotify.com/track/4yJFZnusyvXhCtjFs1yv2I"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "rimas del verbo amar",
-        "url": "https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn"
-      },
-      "artists": [
-        {
-          "name": "BORJA",
-          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
-        }
-      ],
-      "duration_ms": 162746,
-      "name": "\u00f3diame si quieres",
-      "url": "https://open.spotify.com/track/3xWcHcH4ISXng1Y2IowtMm"
     }
   ],
   "unique_name": "Mixto",

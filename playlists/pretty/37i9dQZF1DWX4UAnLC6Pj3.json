@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Roberto Tapia y Grupo Marca Registrada en portada.",
-  "num_followers": 1151292,
+  "num_followers": 1151474,
   "original_name": "Banda 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjhlY2EyNTk3NGFiNzAxNTMzMmNiOWExMjVkZWQ3Njc5NjI1MGNj",
+  "snapshot_id": "MCw2OTYxOTk2YWE0NGExOTE5MjNlNzU2YTMzMjUyZGIyNjE3NmE0MWQ1",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -771,18 +771,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "141",
-        "url": "https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z"
+        "name": "Y Que Soporten",
+        "url": "https://open.spotify.com/album/6DWrKCUvFC2yGSSpOOzcO3"
       },
       "artists": [
         {
           "name": "Banda MS de Sergio Liz\u00e1rraga",
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
         }
       ],
-      "duration_ms": 175102,
-      "name": "141",
-      "url": "https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY"
+      "duration_ms": 215513,
+      "name": "Y Que Soporten",
+      "url": "https://open.spotify.com/track/0dXNs41HnOKdIkYtfmTNYB"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -951,22 +955,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Y Que Soporten",
-        "url": "https://open.spotify.com/album/6DWrKCUvFC2yGSSpOOzcO3"
+        "name": "141",
+        "url": "https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z"
       },
       "artists": [
         {
           "name": "Banda MS de Sergio Liz\u00e1rraga",
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
         }
       ],
-      "duration_ms": 215513,
-      "name": "Y Que Soporten",
-      "url": "https://open.spotify.com/track/0dXNs41HnOKdIkYtfmTNYB"
+      "duration_ms": 175102,
+      "name": "141",
+      "url": "https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Aqu\u00ed Casual",
-        "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Que Llore, Que Llore",
-      "url": "https://open.spotify.com/track/7aqTwOPSQbVVWN8DrwmNFo"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Un Tabaco (En Vivo)",
         "url": "https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 207625,
       "name": "Un Tabaco (En Vivo)",
       "url": "https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Aqu\u00ed Casual",
+        "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Que Llore, Que Llore",
+      "url": "https://open.spotify.com/track/7aqTwOPSQbVVWN8DrwmNFo"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "El Amor De Tu Vida",
-        "url": "https://open.spotify.com/album/0m83d317eGDRDC3Cn6zrnF"
+        "name": "Pa Que Se Me Quite Lo Cabr\u00f3n",
+        "url": "https://open.spotify.com/album/2CRrebtUMFQMKDXqcMJLyW"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 184493,
-      "name": "El Amor De Tu Vida",
-      "url": "https://open.spotify.com/track/07NDoMUU2uThRfYaQLAhNj"
+      "duration_ms": 165613,
+      "name": "Pa Que Se Me Quite Lo Cabr\u00f3n",
+      "url": "https://open.spotify.com/track/4M0OAqAsJmmkUpvw4xNXyp"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Pa Que Se Me Quite Lo Cabr\u00f3n",
-        "url": "https://open.spotify.com/album/2CRrebtUMFQMKDXqcMJLyW"
+        "name": "El Amor De Tu Vida",
+        "url": "https://open.spotify.com/album/0m83d317eGDRDC3Cn6zrnF"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 165613,
-      "name": "Pa Que Se Me Quite Lo Cabr\u00f3n",
-      "url": "https://open.spotify.com/track/4M0OAqAsJmmkUpvw4xNXyp"
+      "duration_ms": 184493,
+      "name": "El Amor De Tu Vida",
+      "url": "https://open.spotify.com/track/07NDoMUU2uThRfYaQLAhNj"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Para Ti Exclusivo (En Vivo Desde Arandas Jalisco)",
-        "url": "https://open.spotify.com/album/4xZFqokyvpfFKHkHlSeePO"
+        "name": "Me Rindo",
+        "url": "https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 196360,
-      "name": "De Ti Exclusivo",
-      "url": "https://open.spotify.com/track/404MXA5pRTh93BrxPeGrQp"
+      "duration_ms": 220653,
+      "name": "Me Rindo",
+      "url": "https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Me Rindo",
-        "url": "https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 220653,
-      "name": "Me Rindo",
-      "url": "https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "La Despedida",
         "url": "https://open.spotify.com/album/2FzJZvtg6raSxzQw21HQZ5"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 179821,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/65KWKx5WQcjKTJ2gcki1i3"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Para Ti Exclusivo (En Vivo Desde Arandas Jalisco)",
+        "url": "https://open.spotify.com/album/4xZFqokyvpfFKHkHlSeePO"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 196360,
+      "name": "De Ti Exclusivo",
+      "url": "https://open.spotify.com/track/404MXA5pRTh93BrxPeGrQp"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "El 30 de Febrero",
-        "url": "https://open.spotify.com/album/0x2OATUtYiydLtsW3eOg4p"
-      },
-      "artists": [
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        }
-      ],
-      "duration_ms": 181204,
-      "name": "El 30 de Febrero",
-      "url": "https://open.spotify.com/track/4ZbDbGo6hubDCXsVMEx1jv"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Porque As\u00ed Ten\u00eda Que Ser",
         "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 253053,
       "name": "Esta Vez Soy Yo",
       "url": "https://open.spotify.com/track/65faC3lVw7RvGuaMv82NxS"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "El 30 de Febrero",
+        "url": "https://open.spotify.com/album/0x2OATUtYiydLtsW3eOg4p"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "duration_ms": 181204,
+      "name": "El 30 de Febrero",
+      "url": "https://open.spotify.com/track/4ZbDbGo6hubDCXsVMEx1jv"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Sigan Hablando",
-        "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 160400,
-      "name": "Fiestas, Tragos, Noche Loca",
-      "url": "https://open.spotify.com/track/2um0106nrjNOayotnhbKMZ"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Homenaje A La Trayectoria De Don Salvador Liz\u00e1rraga",
         "url": "https://open.spotify.com/album/4ijPC21z4UGNE1B6nR3BJ7"
       },
@@ -1971,6 +1955,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Sigan Hablando",
+        "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 160400,
+      "name": "Fiestas, Tragos, Noche Loca",
+      "url": "https://open.spotify.com/track/2um0106nrjNOayotnhbKMZ"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Fin de Semana",
         "url": "https://open.spotify.com/album/7HgBS5lPsiU4bswb741ABB"
       },
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "No Es Cierto Que Nunca Te Quise",
-        "url": "https://open.spotify.com/album/62ROzJk7dyyExvGQXJZats"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 140063,
-      "name": "No Es Cierto Que Nunca Te Quise",
-      "url": "https://open.spotify.com/track/7zA3aIGMcvxEtW45H12w0E"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Voy Pa\u2019Arriba Y Con Viada",
         "url": "https://open.spotify.com/album/3CPelQDAucCTS0qDJllAHB"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 176146,
       "name": "Voy Pa\u2019Arriba Y Con Viada",
       "url": "https://open.spotify.com/track/3Ci2QXttB3371jfqJcmJcJ"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "No Es Cierto Que Nunca Te Quise",
+        "url": "https://open.spotify.com/album/62ROzJk7dyyExvGQXJZats"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 140063,
+      "name": "No Es Cierto Que Nunca Te Quise",
+      "url": "https://open.spotify.com/track/7zA3aIGMcvxEtW45H12w0E"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2091,6 +2091,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "La Bolsita",
+        "url": "https://open.spotify.com/album/1JOTrInz3P7CgR4S6esSFB"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 180900,
+      "name": "La Bolsita",
+      "url": "https://open.spotify.com/track/6LFdrfyA0hilRIQ3aQFfTI"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Qu\u00e9 Va a Ser de M\u00ed (En Vivo)",
         "url": "https://open.spotify.com/album/0Yn8x95Ol7GqDmjgJIk85k"
       },
@@ -2107,22 +2123,6 @@
       "duration_ms": 194645,
       "name": "Qu\u00e9 Va a Ser de M\u00ed - En Vivo",
       "url": "https://open.spotify.com/track/2WKVmJuiIEt5XH1x5MCJJw"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "La Bolsita",
-        "url": "https://open.spotify.com/album/1JOTrInz3P7CgR4S6esSFB"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 180900,
-      "name": "La Bolsita",
-      "url": "https://open.spotify.com/track/6LFdrfyA0hilRIQ3aQFfTI"
     },
     {
       "added_at": "2023-12-15 05:00:00",

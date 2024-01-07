@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 
 > \#SadCuhHour gems 🥀🥹
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,888 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,994 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 96 | [Olvidarte](https://open.spotify.com/track/5rsKkDbJrV0gN4HDuUIdZs) | [Grupo Digno](https://open.spotify.com/artist/0b1PRXHKnHHHT0kxcA15Ur) | [Olvidarte](https://open.spotify.com/album/1z8RqsiClrx1T60HQb0JcR) | 3:15 |
 | 97 | [Desvelado](https://open.spotify.com/track/2BEVCbf561QZ5I9dWnqXCH) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Desvelado](https://open.spotify.com/album/7zHS91GU59Tlwo4RDkf7qD) | 3:55 |
 | 98 | [Me Vas A Llorar](https://open.spotify.com/track/5EO1p7yQgXPZom9N5lECvX) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Me Vas A Llorar](https://open.spotify.com/album/5UirOXfLgjVDkz6FvuOSNa) | 4:19 |
-| 99 | [2 De La](https://open.spotify.com/track/2ImJtl2zKUto4nB34YJHBO) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [2 De La](https://open.spotify.com/album/5mffXgdpyrt2qyOejlBK7u) | 3:10 |
-| 100 | [Tú Te Mereces](https://open.spotify.com/track/0jSCU4pckTESxGEzNu2Zz0) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Cápsulas](https://open.spotify.com/album/4rM66c2S8Z3pOTlmme6qKg) | 3:10 |
+| 99 | [Tú Te Mereces](https://open.spotify.com/track/0jSCU4pckTESxGEzNu2Zz0) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Cápsulas](https://open.spotify.com/album/4rM66c2S8Z3pOTlmme6qKg) | 3:10 |
+| 100 | [2 De La](https://open.spotify.com/track/2ImJtl2zKUto4nB34YJHBO) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [2 De La](https://open.spotify.com/album/5mffXgdpyrt2qyOejlBK7u) | 3:10 |
 
-Snapshot ID: `MCxjYzA4Y2FhMDdjYmUzZGQ5NTIyMTE0Y2E0ODIwMzBmMWEzNTRjYjhh`
+Snapshot ID: `MCxlMGZiM2YyZDc2ZGZkZTI5MTA0NDlhZjMwZDFhY2IyMzFlZTBiM2Zh`

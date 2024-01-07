@@ -1,12 +1,12 @@
 {
   "description": "Vibey indie tracks for just hanging out.",
-  "num_followers": 810807,
+  "num_followers": 810935,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Mjg4ZmUxYjJkZmVmZjJlMzFkYzhmNGQ0OTcwYmZmNjNiNmU4ZDlj",
+  "snapshot_id": "MCw4OGY4OTdlOThjNWY2NGExYTIyYzNjNzhmNDkyYWE3MDQzN2IzYTA0",
   "tracks": [
     {
       "added_at": "2023-12-12 21:37:08",
@@ -295,18 +295,18 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
-        "name": "Twenty Twenty",
-        "url": "https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0"
+        "name": "Untourable Album",
+        "url": "https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP"
       },
       "artists": [
         {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
         }
       ],
-      "duration_ms": 252987,
-      "name": "Roddy",
-      "url": "https://open.spotify.com/track/5hS8s1Vf4CeSRBT1bTWa39"
+      "duration_ms": 176315,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/6ZdAsADC9LIICvsVRuGWbZ"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -327,38 +327,18 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
-        "name": "Untourable Album",
-        "url": "https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP"
+        "name": "Twenty Twenty",
+        "url": "https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0"
       },
       "artists": [
         {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
         }
       ],
-      "duration_ms": 176315,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/6ZdAsADC9LIICvsVRuGWbZ"
-    },
-    {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
-        "name": "BOY",
-        "url": "https://open.spotify.com/album/4ZpCZs3zu8tFnJL0vrQIh1"
-      },
-      "artists": [
-        {
-          "name": "RAC",
-          "url": "https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC"
-        },
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        }
-      ],
-      "duration_ms": 132746,
-      "name": "Passion",
-      "url": "https://open.spotify.com/track/3yydZof4pq6N4zeyTzLwQk"
+      "duration_ms": 252987,
+      "name": "Roddy",
+      "url": "https://open.spotify.com/track/5hS8s1Vf4CeSRBT1bTWa39"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -379,6 +359,26 @@
       "duration_ms": 173000,
       "name": "Summer's Over",
       "url": "https://open.spotify.com/track/4E5N0mYyYFf0QZs3XDeSIj"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
+        "name": "BOY",
+        "url": "https://open.spotify.com/album/4ZpCZs3zu8tFnJL0vrQIh1"
+      },
+      "artists": [
+        {
+          "name": "RAC",
+          "url": "https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC"
+        },
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        }
+      ],
+      "duration_ms": 132746,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/3yydZof4pq6N4zeyTzLwQk"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
+        "name": "Vide Noir",
+        "url": "https://open.spotify.com/album/2oiJM8vFGpxrtGtFfJWhJv"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 311226,
+      "name": "When the Night is Over",
+      "url": "https://open.spotify.com/track/4FE9SgxcOoCNuGnaaU8TXz"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
         "name": "Average Guy (Blame)",
         "url": "https://open.spotify.com/album/3IDnvOtwynPayvIxyY7Zdo"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 180994,
       "name": "Average Guy (Blame)",
       "url": "https://open.spotify.com/track/1ZJaZDD8D9SqmBNAXehB6H"
-    },
-    {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
-        "name": "Vide Noir",
-        "url": "https://open.spotify.com/album/2oiJM8vFGpxrtGtFfJWhJv"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 311226,
-      "name": "When the Night is Over",
-      "url": "https://open.spotify.com/track/4FE9SgxcOoCNuGnaaU8TXz"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "That Life",
+      "url": "https://open.spotify.com/track/0M2hckQzSt0AZFytuTC2Hp"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/57TxOlFzG9yvAKEdjjm2yB"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 180000,
       "name": "Throwaway (with Clairo)",
       "url": "https://open.spotify.com/track/2MnEG4htbbdfoUsyzxZ4BM"
-    },
-    {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD"
-      },
-      "artists": [
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "That Life",
-      "url": "https://open.spotify.com/track/0M2hckQzSt0AZFytuTC2Hp"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
-        "name": "Vampire Empire / Born For Loving You",
-        "url": "https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 214073,
-      "name": "Born For Loving You",
-      "url": "https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc"
-    },
-    {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
         "name": "Tailwhip",
         "url": "https://open.spotify.com/album/5zV9Kwq0WDSPshNbvG418a"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 225263,
       "name": "Tailwhip",
       "url": "https://open.spotify.com/track/7fax7NlxOq2X9kMZw8QLE2"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
+        "name": "Vampire Empire / Born For Loving You",
+        "url": "https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 214073,
+      "name": "Born For Loving You",
+      "url": "https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
+        "name": "5K",
+        "url": "https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "duration_ms": 133493,
+      "name": "Races",
+      "url": "https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
         "name": "Santa Catalina",
         "url": "https://open.spotify.com/album/6wv8zT8vG5EICl083UHoVm"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 235000,
       "name": "Driving South",
       "url": "https://open.spotify.com/track/1Mp50vmIphq9ui2UUJoX3m"
-    },
-    {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
-        "name": "5K",
-        "url": "https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8"
-      },
-      "artists": [
-        {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
-        }
-      ],
-      "duration_ms": 133493,
-      "name": "Races",
-      "url": "https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum"
-      },
-      "artists": [
-        {
-          "name": "Weston Estate",
-          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
-        }
-      ],
-      "duration_ms": 173661,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
-    },
-    {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
         "name": "Headcase",
         "url": "https://open.spotify.com/album/3Fx9xS21WR8hssJNhwnlgT"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 189651,
       "name": "Drag",
       "url": "https://open.spotify.com/track/0blezul9oOOb2rEohK6G2v"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum"
+      },
+      "artists": [
+        {
+          "name": "Weston Estate",
+          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
+        }
+      ],
+      "duration_ms": 173661,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
-        "name": "Worst Case Kid",
-        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "Worst Case Kid",
-      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
-    },
-    {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
         "name": "PARADISE",
         "url": "https://open.spotify.com/album/0sBrrAq7fTOEVF0Z4RCMCy"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 141500,
       "name": "PARADISE",
       "url": "https://open.spotify.com/track/584Ud7cLe6qQEi9SrcfTzC"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
+        "name": "Worst Case Kid",
+        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "Worst Case Kid",
+      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
-        "name": "LOVE + POP",
-        "url": "https://open.spotify.com/album/5God4dounbNrQtR8otCSHD"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        },
-        {
-          "name": "Oddbody",
-          "url": "https://open.spotify.com/artist/3ASxxkRVFetiJFHvxaNdZX"
-        }
-      ],
-      "duration_ms": 97179,
-      "name": "My Shadow Life",
-      "url": "https://open.spotify.com/track/6HiK9qjs0yuppNUR1LB9Bh"
-    },
-    {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
         "name": "Aperture",
         "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 236106,
       "name": "Forget Me Not",
       "url": "https://open.spotify.com/track/6fCQ0b4fGyyTqHwpHqxRll"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
+        "name": "LOVE + POP",
+        "url": "https://open.spotify.com/album/5God4dounbNrQtR8otCSHD"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        },
+        {
+          "name": "Oddbody",
+          "url": "https://open.spotify.com/artist/3ASxxkRVFetiJFHvxaNdZX"
+        }
+      ],
+      "duration_ms": 97179,
+      "name": "My Shadow Life",
+      "url": "https://open.spotify.com/track/6HiK9qjs0yuppNUR1LB9Bh"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
-        "name": "99 Nights",
-        "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 185245,
-      "name": "Someone I Could Love",
-      "url": "https://open.spotify.com/track/7J5wBntCsBRCFdLXYuYlDq"
-    },
-    {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
         "name": "Greg Mendez",
         "url": "https://open.spotify.com/album/2jbgzfwZf1821YjhhSPrik"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 118329,
       "name": "Maria",
       "url": "https://open.spotify.com/track/0c8yjevkeywoScoAcURgU7"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
+        "name": "99 Nights",
+        "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 185245,
+      "name": "Someone I Could Love",
+      "url": "https://open.spotify.com/track/7J5wBntCsBRCFdLXYuYlDq"
     }
   ],
   "unique_name": "Indie Chillout",

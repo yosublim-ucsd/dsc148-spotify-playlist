@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Jammers
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,586 likes - 76 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,590 likes - 76 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 22 | [Neetho](https://open.spotify.com/track/1Y0S1FwDVaIYI9l9ekESgS) | [The Non Violinist Project](https://open.spotify.com/artist/0yWjRJpQnQb3oANLj2QhKb), [Gowtham Bharadwaj](https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L) | [Neetho](https://open.spotify.com/album/3y6i5WWXLRBlVAoUGO3SmF) | 4:25 |
 | 23 | [Oorelipota Mama](https://open.spotify.com/track/3lQCnKafxZtct8QfsG6jog) | [Chowraasta](https://open.spotify.com/artist/7l8YWhszshSlwN43NtokOO) | [Oorellipota Mama](https://open.spotify.com/album/5WEUFAOSi07U29RKWNsKG9) | 2:46 |
 | 24 | [Unnale Nee Kosam](https://open.spotify.com/track/22qSRZ72otdpb4OZGe3W4k) | [Kanha Mohanty](https://open.spotify.com/artist/3TpKuzt672JdZX9B0NvA0D), [Nikki George](https://open.spotify.com/artist/1cprnGfYrfsnaBT2A6QMr4) | [Unnale Nee Kosam](https://open.spotify.com/album/6zodQWOGxCMYKOiYhMuhYv) | 3:40 |
-| 25 | [Tapana](https://open.spotify.com/track/2MZssNgryrjsC4foP7K4bU) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Tapana](https://open.spotify.com/album/3vREwqsQtKu8N0SMuULlxr) | 2:50 |
+| 25 | [Tapana](https://open.spotify.com/track/3kTxWyA0nqDHgwTbVRvp9Q) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Tapana](https://open.spotify.com/album/5Hd9xSaq9KuM0QNAlVX3Ge) | 2:50 |
 | 26 | [Emone](https://open.spotify.com/track/1AKX0Ru582qT5rUG2FYCUh) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6) | [Emone](https://open.spotify.com/album/2WcXXGGJiY1ID6JsVx2c1f) | 5:28 |
 | 27 | [Chelimidata](https://open.spotify.com/track/3G1hvYenckuF0w4n27eMwb) | [Sinjith Yerramilli](https://open.spotify.com/artist/30p5WaPxeojOvFem2XwJtd), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Kadali](https://open.spotify.com/artist/5xmlr03MWTYQSflITsHmpk), [Sandilya Pisapati](https://open.spotify.com/artist/6Dvs7Ln15awHQFR3W6Rrh8) | [Chelimidata](https://open.spotify.com/album/5hbNVbA6Z5rq0XnT7lKcK0) | 2:26 |
 | 28 | [Raane Raava](https://open.spotify.com/track/02sEnHsPSSlyxdRzxpqOJg) | [Siddharth Tanuku](https://open.spotify.com/artist/6CEaNdvNoW4WAOQU8Y616N), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Sindhuja Tanuku](https://open.spotify.com/artist/6MFgsuRbk8fELevIMJWFQr) | [Raane Raava](https://open.spotify.com/album/56HGf8gQ64AIT8I1pEKwIX) | 3:47 |
 | 29 | [Raa Vaa](https://open.spotify.com/track/3K7Dq1MHzhTEDr4drclzf4) | [Allen Joel](https://open.spotify.com/artist/4VgwS9mXpnbVKAK1tnTMpY) | [Raa Vaa](https://open.spotify.com/album/4LFFe3v6lZytrsV5yCjoBt) | 4:04 |
 | 30 | [Preme](https://open.spotify.com/track/4GN3kyhteAgfCPqcZYx6wV) | [Joseph Vijay](https://open.spotify.com/artist/1GkrvUf71uUhmbV0lvfX7p), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD) | [Preme](https://open.spotify.com/album/3xAIfUpFgshmPDO97ZwnNB) | 4:01 |
-| 31 | [Gundellona](https://open.spotify.com/track/1idzeolbseB5V2HeH6kmBW) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Gundellona](https://open.spotify.com/album/3wj51Fk9iR2ki1aCsKpmBj) | 2:59 |
+| 31 | [Gundellona](https://open.spotify.com/track/5VYwur3njNtvcrHQdTcueq) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Gundellona](https://open.spotify.com/album/4hSn5VGsNoq9FamiZbdC0W) | 2:59 |
 | 32 | [Kshanam](https://open.spotify.com/track/3RoOO8Rmx5Wd9a9LrV5Btw) | [Gavenpride](https://open.spotify.com/artist/5FlDRCUWkwAXFZ6ynO0U2P), [Sarvari](https://open.spotify.com/artist/5uvwgTsZIeirSSpIIMvYFS) | [Kshanam](https://open.spotify.com/album/4iYPR8cdYtPYuN2noncJ86) | 1:54 |
 | 33 | [Don't Care](https://open.spotify.com/track/5uS1kRmoUBwUQQWNCJfdA8) | [Vamsi Kalakuntla](https://open.spotify.com/artist/2cp7HPGk7Nd28mDkwJQgkk), [Cuvan](https://open.spotify.com/artist/600tEotuBvksb03YwjVkX0) | [Don't Care](https://open.spotify.com/album/2VsrTgf8EkXamAUJK80dj1) | 3:35 |
 | 34 | [Love Pill](https://open.spotify.com/track/5xOVz87ylswUTTX6vlCPYU) | [Gershom Penugula](https://open.spotify.com/artist/1X1xyTwRLksTzUnLzWvN3K) | [Love Pill](https://open.spotify.com/album/0qMqSvjKxmDKAOARmiNyub) | 2:40 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 75 | [Oggesi Ponadhe Nanu Oggesi Ponadhe](https://open.spotify.com/track/29uZ19VV4GQyS8mKdyavOf) | [Sunny Austin](https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA), [RAM](https://open.spotify.com/artist/4wxme1noavrvUnP6Is0ajq), [Chinna Swamy](https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS) | [Layilo](https://open.spotify.com/album/4xy4FT93ivcqANeyvZxEuh) | 3:13 |
 | 76 | [Neeve](https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Neeve](https://open.spotify.com/album/2m9VqOtsGbywuyl4QXp32V) | 5:07 |
 
-Snapshot ID: `MCxiNGVmYWRmZjI0ZTI5NDAwY2QxNGQyNGMyNDkzZGMyM2U3OWRkODY5`
+Snapshot ID: `MCxkZmRjMTNlZTA5MmQxMTBjZGMzZWI5NjgwNDMzZTAyYmI2YmUxNTEy`

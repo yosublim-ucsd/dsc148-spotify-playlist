@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3756,
+  "num_followers": 3760,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzM0ZWVmNWY5MzE3OTM2ODA5YzM0MzI4MWQ0NmQ2ZmE4OTBiNjM3",
+  "snapshot_id": "MCw4MzRlMmI0M2ViMWUyZjI4ZDg4ZjU3MmQ4NzI5NDBhYTY4OTI0ZmFi",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -999,6 +999,58 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Bololo (Remixes)",
+        "url": "https://open.spotify.com/album/3bC1j0lxI66MJl2T3anvF2"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "MC Bin Laden",
+          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
+        },
+        {
+          "name": "MichaelBM",
+          "url": "https://open.spotify.com/artist/0DdbrsAMsJHh1EFRkrVmzb"
+        },
+        {
+          "name": "Francesco V",
+          "url": "https://open.spotify.com/artist/6MrtkunYTDdVAjtH4cHjLb"
+        }
+      ],
+      "duration_ms": 143255,
+      "name": "Bololo - MichaelBM & Francesco V Remix",
+      "url": "https://open.spotify.com/track/6H0Jp0W6K5arH3w38rE8ZU"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Toma Dale",
+        "url": "https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr"
+      },
+      "artists": [
+        {
+          "name": "Classmatic",
+          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        }
+      ],
+      "duration_ms": 323763,
+      "name": "Toma Dale",
+      "url": "https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Pa Lante",
         "url": "https://open.spotify.com/album/4c5PIf7olnUOXJPR4nlq22"
       },
@@ -1023,26 +1075,6 @@
       "duration_ms": 179527,
       "name": "Pa Lante",
       "url": "https://open.spotify.com/track/1naty2glEbU3jjS0XoJHLX"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Toma Dale",
-        "url": "https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr"
-      },
-      "artists": [
-        {
-          "name": "Classmatic",
-          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
-        },
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
-        }
-      ],
-      "duration_ms": 323763,
-      "name": "Toma Dale",
-      "url": "https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1079,6 +1111,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Toma Que Toma",
+        "url": "https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 227076,
+      "name": "Toma Que Toma",
+      "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Wimbo",
         "url": "https://open.spotify.com/album/1g0MngSgjz9ZiPEe8thh87"
       },
@@ -1095,18 +1143,26 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Toma Que Toma",
-        "url": "https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd"
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/2vSBA2DSlXOcamxOAFLAht"
       },
       "artists": [
         {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
           "name": "Andruss",
           "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Kuisitamb\u00f3",
+          "url": "https://open.spotify.com/artist/6iWNV6MJhL8469VQpRRiMK"
         }
       ],
-      "duration_ms": 227076,
-      "name": "Toma Que Toma",
-      "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"
+      "duration_ms": 168750,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/1D0pCmlp5TnFaCTifJGAHW"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1139,30 +1195,6 @@
       "duration_ms": 126707,
       "name": "Quema Quema",
       "url": "https://open.spotify.com/track/4IQe3wmj64IDRU57zsTdau"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/2vSBA2DSlXOcamxOAFLAht"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        },
-        {
-          "name": "Kuisitamb\u00f3",
-          "url": "https://open.spotify.com/artist/6iWNV6MJhL8469VQpRRiMK"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/1D0pCmlp5TnFaCTifJGAHW"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1219,22 +1251,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Tuku Tu",
-        "url": "https://open.spotify.com/album/06S2P8ii5L32tyu5JCTcx1"
-      },
-      "artists": [
-        {
-          "name": "BOLO THE DJ",
-          "url": "https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7"
-        }
-      ],
-      "duration_ms": 140787,
-      "name": "Tuku Tu",
-      "url": "https://open.spotify.com/track/1ICNLsyIPgrIjN36Txxx7B"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "La Bulla",
         "url": "https://open.spotify.com/album/406Xu0Zh1jTzjzBPsJCYmo"
       },
@@ -1251,6 +1267,22 @@
       "duration_ms": 170403,
       "name": "La Bulla",
       "url": "https://open.spotify.com/track/0TaXn3UgkHmba7ew4JFZEM"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Tuku Tu",
+        "url": "https://open.spotify.com/album/06S2P8ii5L32tyu5JCTcx1"
+      },
+      "artists": [
+        {
+          "name": "BOLO THE DJ",
+          "url": "https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7"
+        }
+      ],
+      "duration_ms": 140787,
+      "name": "Tuku Tu",
+      "url": "https://open.spotify.com/track/1ICNLsyIPgrIjN36Txxx7B"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1315,22 +1347,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/0arqdWadUzAgi4OImNKHjs"
-      },
-      "artists": [
-        {
-          "name": "Bart B More",
-          "url": "https://open.spotify.com/artist/1eOOXqRHILTxqrEUAYyQU0"
-        }
-      ],
-      "duration_ms": 201720,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/6mCu7S5fBIlaF81L17ZDoM"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Esta Pegao",
         "url": "https://open.spotify.com/album/07BUUQ2N6sDXNeMRAHrGth"
       },
@@ -1343,6 +1359,22 @@
       "duration_ms": 160000,
       "name": "Esta Pegao",
       "url": "https://open.spotify.com/track/4Lwjq2BbsaSGguUmljBxGK"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/0arqdWadUzAgi4OImNKHjs"
+      },
+      "artists": [
+        {
+          "name": "Bart B More",
+          "url": "https://open.spotify.com/artist/1eOOXqRHILTxqrEUAYyQU0"
+        }
+      ],
+      "duration_ms": 201720,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/6mCu7S5fBIlaF81L17ZDoM"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1403,22 +1435,6 @@
       "duration_ms": 167441,
       "name": "Tr\u00e1gatelo",
       "url": "https://open.spotify.com/track/7isW5u9xH4iDUJfqn36UMl"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Caliente",
-        "url": "https://open.spotify.com/album/0k9fJtZqLDVJi56EbJ6hYE"
-      },
-      "artists": [
-        {
-          "name": "Saffron Stone",
-          "url": "https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Caliente",
-      "url": "https://open.spotify.com/track/7GA5kAtcfu6ffdjrsDNCe3"
     }
   ],
   "unique_name": "Alma",

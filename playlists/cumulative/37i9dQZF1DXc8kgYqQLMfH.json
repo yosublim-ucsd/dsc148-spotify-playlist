@@ -4091,6 +4091,24 @@
     },
     {
       "album": {
+        "name": "cycle of life",
+        "url": "https://open.spotify.com/album/5NBahqPEEsIpyzWPHuzn1r"
+      },
+      "artists": [
+        {
+          "name": "Cheeky Beez",
+          "url": "https://open.spotify.com/artist/2bsxN6WcHThnyAuPiLscbA"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124109,
+      "name": "cycle of life",
+      "url": "https://open.spotify.com/track/5N6kN49QpZic3dBIvqQxRH"
+    },
+    {
+      "album": {
         "name": "Damped Clocks",
         "url": "https://open.spotify.com/album/4HdH4uBnMQ2igE2MTPbTfX"
       },
@@ -6784,7 +6802,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 198000,
       "name": "Forever Summer",
       "url": "https://open.spotify.com/track/6Y21Rpnr6VIJxMZTQICJ09"
@@ -10080,7 +10098,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 135468,
       "name": "Leon",
       "url": "https://open.spotify.com/track/4XlPSTOOCYHEgxdzPdlaMN"
@@ -11758,7 +11776,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 114000,
       "name": "Milky Way",
       "url": "https://open.spotify.com/track/5nWGzYwSHWntp8LnGmOf1z"
@@ -15913,6 +15931,24 @@
     },
     {
       "album": {
+        "name": "see you tomorrow",
+        "url": "https://open.spotify.com/album/2be7X7Fmq8snlAbYf0eEtn"
+      },
+      "artists": [
+        {
+          "name": "Ali Kaj",
+          "url": "https://open.spotify.com/artist/06VNBq9wJN4eEo6ZRM7HGI"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171692,
+      "name": "see you tomorrow",
+      "url": "https://open.spotify.com/track/190S9EQAuaAfqz0oaQF392"
+    },
+    {
+      "album": {
         "name": "One Element",
         "url": "https://open.spotify.com/album/7f8A1M2fY4u7SibnDgYO1N"
       },
@@ -17758,6 +17794,24 @@
       "duration_ms": 123000,
       "name": "Sunny Day",
       "url": "https://open.spotify.com/track/00d0LL4djhlYxtx1GzwpRz"
+    },
+    {
+      "album": {
+        "name": "sunny day dreaming",
+        "url": "https://open.spotify.com/album/2OoNQjlQoBCOJdnlCiRxrm"
+      },
+      "artists": [
+        {
+          "name": "Twiggy Fiz",
+          "url": "https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174621,
+      "name": "sunny day dreaming",
+      "url": "https://open.spotify.com/track/0rq1ZAwIpU7IahDGxU7QZV"
     },
     {
       "album": {

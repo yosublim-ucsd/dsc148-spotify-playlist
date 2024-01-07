@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Alexander Stewart
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,338,638 likes - 93 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,338,807 likes - 93 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 13 | [Cedar](https://open.spotify.com/track/479UZI7rBJRJwqB0UZyZ57) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Buccaneers: Season 1 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/0oYAtqsEaHuICtq1vwe8QZ) | 4:12 |
 | 14 | [Dead Man](https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Dead Man](https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY) | 4:34 |
 | 15 | [Stars](https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Stars](https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ) | 2:45 |
-| 16 | [Those Eyes \(with Zeph\)](https://open.spotify.com/track/6Cg8d5DzpKHGci9SPk8JeL) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn), [Zeph](https://open.spotify.com/artist/5yjP3l4wzZ2vYrMqA0Odj6) | [Those Eyes](https://open.spotify.com/album/5MBMrSqIg8czxWwqem7tMN) | 4:04 |
+| 16 | [Those Eyes \(feat\. Zeph\)](https://open.spotify.com/track/6Cg8d5DzpKHGci9SPk8JeL) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn), [Zeph](https://open.spotify.com/artist/5yjP3l4wzZ2vYrMqA0Odj6) | [Those Eyes](https://open.spotify.com/album/5MBMrSqIg8czxWwqem7tMN) | 4:04 |
 | 17 | [Sand](https://open.spotify.com/track/3HYUKa1HkaSRk4C0xK4O5q) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Sand](https://open.spotify.com/album/6K8VcnG6HUSp59xNOpEJhP) | 3:39 |
 | 18 | [something to remember](https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [something to remember](https://open.spotify.com/album/1XReJJvzNwuKvwcGtSbdfo) | 2:42 |
 | 19 | [Take A Chance With Me](https://open.spotify.com/track/5kxOQDA9AcuNQXHvg5NpX4) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 5:03 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 92 | [Run Through Fire](https://open.spotify.com/track/4U3Xw68LAgaiJahg8Jtoy9) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Run Through Fire](https://open.spotify.com/album/5ZXRhusicgRkkUuCZILOkE) | 3:04 |
 | 93 | [Green](https://open.spotify.com/track/0LHB4Y0QoyirTM1TdcnWNM) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [Green](https://open.spotify.com/album/1iNlLjCj7U27ImeLnzJQjj) | 3:05 |
 
-Snapshot ID: `MCwyZTJiZDQ1MjllNDM4ZDgxNjM5YmNkMzEwZGFjZTBlNGJkNTE1NDZj`
+Snapshot ID: `MCw4MjA4ODZiMjliNGE5Yjk2ZDU1OTA4Y2E0Mjk4MDFmNGM1MGE4ZjFh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 
 > aggressive\. heavy\. unhinged\. make a mess of it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,523 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,600 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 | 99 | [COLD BLOOD](https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:26 |
 | 100 | [Structure of Love II \- Renholdër Remix](https://open.spotify.com/track/1PfCGcRzrnTCFJVoVy03yp) | [VOWWS](https://open.spotify.com/artist/7pBR5RoBlOm3oehKuFCxeb), [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9), [Renholdër](https://open.spotify.com/artist/7nPKXL3VRokWPSYHtsDD5i) | [Structure of Love II \(Renholdër Remix\)](https://open.spotify.com/album/1koqkGT2Qsd5ToPJZgMFCn) | 3:21 |
 
-Snapshot ID: `MCxmZDAxZGJiZjQ1OTFiOTVlNTg0MTRjZTE0ZWJmYzBkYWU3NThiMmEw`
+Snapshot ID: `MCw2OGFlMjc4Mzc3OGYyZmZlNTYwMDQ4MzA2YTgwMzNiNjdmNjJmZTE3`

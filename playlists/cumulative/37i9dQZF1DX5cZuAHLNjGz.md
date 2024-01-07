@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi Hits with Shubh
 
-288 songs - 14 hr 56 min
+290 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,8 @@
 | [Lemonade](https://open.spotify.com/track/3ZGJhN4unVspOqpwGvUL2W) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Drive Thru](https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78) | 2:46 | 2022-07-15 |  |
 | [Likhari](https://open.spotify.com/track/14r3uhYqRQbbm7jwcU6kHx) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Likhari](https://open.spotify.com/album/4Yv1xU5GycGXbaTMzhTkJF) | 3:06 | 2022-05-29 | 2022-10-18 |
 | [Love Sick](https://open.spotify.com/track/1skGwRjc7wYY70PJCAkKMr) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 3:52 | 2022-05-29 |  |
-| [Love Ya](https://open.spotify.com/track/5RWZ6TVZ0HeFTdRWu3VQ7w) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Love Ya](https://open.spotify.com/album/4VkH37VVMJ2geNURWVg1W7) | 2:41 | 2024-01-05 |  |
+| [Love Ya](https://open.spotify.com/track/4Vaa9Mq34xA9cSX8B7PtCN) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Love Ya](https://open.spotify.com/album/74AG3N4OJWlJR19gRIEJyB) | 2:41 | 2024-01-05 |  |
+| [Love Ya](https://open.spotify.com/track/5RWZ6TVZ0HeFTdRWu3VQ7w) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Love Ya](https://open.spotify.com/album/4VkH37VVMJ2geNURWVg1W7) | 2:41 | 2024-01-05 | 2024-01-07 |
 | [Lover](https://open.spotify.com/track/0XwRlvv3KlOu4HWlOH34XG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:10 | 2022-05-29 |  |
 | [Luna](https://open.spotify.com/track/1Hy2ZRkFGC3P47r6lDX2sy) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:06 | 2022-05-29 | 2022-12-01 |
 | [Ma Belle](https://open.spotify.com/track/3D0pmiK3zyF9PudyJ8mkor) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Amari](https://open.spotify.com/artist/6833GgqHOy9y9Dqnsxko1u) | [Ma Belle](https://open.spotify.com/album/0q6ZMd3ScXa3Uql600gmcA) | 2:40 | 2022-05-29 | 2023-08-24 |
@@ -177,7 +178,8 @@
 | [Night Out](https://open.spotify.com/track/5sGk41Let4ruIs6WkyarR7) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Night Out](https://open.spotify.com/album/5e4ruihGyeoAFtNzPA9Y1W) | 3:07 | 2023-04-19 | 2023-08-31 |
 | [Nimm Thalle](https://open.spotify.com/track/1t0Kt7JeVFRgrCqwdsca8d) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Nimm Thalle](https://open.spotify.com/album/6AMmCNpdB7SrNOsOk7AATv) | 3:00 | 2023-08-30 |  |
 | [No Competition](https://open.spotify.com/track/1TRgZ55GFCKSbrTb62rmra) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [No Competition](https://open.spotify.com/album/68t62rh4vZdIErvhqQG4kq) | 3:25 | 2022-05-29 | 2023-03-19 |
-| [No Love](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 | 2022-08-22 |  |
+| [No Love](https://open.spotify.com/track/1ejy8AVI7k1SAlWeeKaZ60) | [lusttqwe](https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR), [bexter](https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n), [lorche](https://open.spotify.com/artist/644qnZiBHVcjcMCHsiV0PL) | [No Love](https://open.spotify.com/album/07SG5x4D5BLlrPcg0xBSZf) | 2:49 | 2024-01-05 |  |
+| [No Love](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 | 2022-08-22 | 2024-01-07 |
 | [NO LOVE](https://open.spotify.com/track/5B4YQN1FCuADJ0o4phAtwC) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [NO LOVE](https://open.spotify.com/album/71z4Ni4FHsAUWpcy1oFmOT) | 2:50 | 2022-06-09 | 2022-09-04 |
 | [Noormahal](https://open.spotify.com/track/6LAitVJIwyCy4bJGN9TIhn) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [J\-Statik](https://open.spotify.com/artist/3qBOp2bo17mSbJS5Q3KxE2) | [Takeover](https://open.spotify.com/album/7AsfVZwqnFNaHll4Tnbhof) | 2:40 | 2023-08-29 | 2023-11-13 |
 | [Note](https://open.spotify.com/track/0uwbqLpDeFQLnBTvDsMl8C) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Let's Go](https://open.spotify.com/album/53ljSpMqlS6b8p5dZfL9Pf) | 3:07 | 2023-11-14 |  |

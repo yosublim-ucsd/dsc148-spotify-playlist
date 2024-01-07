@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Los Bendecidos en portada. ",
-  "num_followers": 12477,
+  "num_followers": 12491,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTk5NmYyZjZkYWJhNzNhYTUxOWRkZjcyZTFiNmU4MTEyZDM2YTdm",
+  "snapshot_id": "MCw4MmM2NDAzZDdkOGY3NGE2NjA1NDY4NmQzODAxM2YxNzlmZmQ4M2Ix",
   "tracks": [
     {
       "added_at": "2024-01-05 06:00:00",
@@ -1043,30 +1043,6 @@
     {
       "added_at": "2024-01-05 06:00:00",
       "album": {
-        "name": "Flight 0010",
-        "url": "https://open.spotify.com/album/2HPB8zuGyuVdJfKeRhqYhZ"
-      },
-      "artists": [
-        {
-          "name": "Flyboiz",
-          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
-        },
-        {
-          "name": "Dave Gars\u00eda",
-          "url": "https://open.spotify.com/artist/4T5AUmeV0b1Q7YB8YfTfPf"
-        },
-        {
-          "name": "Meny Mendez",
-          "url": "https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM"
-        }
-      ],
-      "duration_ms": 130503,
-      "name": "Flight 0010",
-      "url": "https://open.spotify.com/track/4JiJIHGtiXypG2yw804UvJ"
-    },
-    {
-      "added_at": "2024-01-05 06:00:00",
-      "album": {
         "name": "Primero Lo Primero",
         "url": "https://open.spotify.com/album/0ntC5RLzimcgYTPq0YavWM"
       },
@@ -1103,6 +1079,30 @@
       "duration_ms": 180857,
       "name": "King Size",
       "url": "https://open.spotify.com/track/5cuhYEoFtVbSU9K8x1UMOT"
+    },
+    {
+      "added_at": "2024-01-05 06:00:00",
+      "album": {
+        "name": "Flight 0010",
+        "url": "https://open.spotify.com/album/2HPB8zuGyuVdJfKeRhqYhZ"
+      },
+      "artists": [
+        {
+          "name": "Flyboiz",
+          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
+        },
+        {
+          "name": "Dave Gars\u00eda",
+          "url": "https://open.spotify.com/artist/4T5AUmeV0b1Q7YB8YfTfPf"
+        },
+        {
+          "name": "Meny Mendez",
+          "url": "https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM"
+        }
+      ],
+      "duration_ms": 130503,
+      "name": "Flight 0010",
+      "url": "https://open.spotify.com/track/4JiJIHGtiXypG2yw804UvJ"
     },
     {
       "added_at": "2024-01-05 06:00:00",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2024-01-05 06:00:00",
       "album": {
+        "name": "Tiempos Violentos",
+        "url": "https://open.spotify.com/album/09cwd9LdcildlBqbXlmt9N"
+      },
+      "artists": [
+        {
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+        },
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        }
+      ],
+      "duration_ms": 228636,
+      "name": "Tiempos Violentos",
+      "url": "https://open.spotify.com/track/7efZc8DWKDmFzJdDVzlQcY"
+    },
+    {
+      "added_at": "2024-01-05 06:00:00",
+      "album": {
         "name": "Recuerdos",
         "url": "https://open.spotify.com/album/70zZ6rm69iuY1UK7RDMuLG"
       },
@@ -1199,26 +1219,6 @@
     {
       "added_at": "2024-01-05 06:00:00",
       "album": {
-        "name": "Tiempos Violentos",
-        "url": "https://open.spotify.com/album/09cwd9LdcildlBqbXlmt9N"
-      },
-      "artists": [
-        {
-          "name": "Solitario Mondragon",
-          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
-        },
-        {
-          "name": "Apache",
-          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
-        }
-      ],
-      "duration_ms": 228636,
-      "name": "Tiempos Violentos",
-      "url": "https://open.spotify.com/track/7efZc8DWKDmFzJdDVzlQcY"
-    },
-    {
-      "added_at": "2024-01-05 06:00:00",
-      "album": {
         "name": "Oscura Ciudad",
         "url": "https://open.spotify.com/album/1dH4yvk5uHepwzYgvFoNI2"
       },
@@ -1243,30 +1243,6 @@
       "duration_ms": 135529,
       "name": "Oscura Ciudad",
       "url": "https://open.spotify.com/track/3vU00kvBMde60Rj3qvH5Re"
-    },
-    {
-      "added_at": "2024-01-05 06:00:00",
-      "album": {
-        "name": "Gloriax",
-        "url": "https://open.spotify.com/album/6T6V6xEQwiN7G2CoJchfi7"
-      },
-      "artists": [
-        {
-          "name": "Zeballos",
-          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
-        },
-        {
-          "name": "Knak",
-          "url": "https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C"
-        },
-        {
-          "name": "Tadu V\u00e1zquez",
-          "url": "https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Gloriax",
-      "url": "https://open.spotify.com/track/7IYjpcFbkycuU16e7dXT4V"
     },
     {
       "added_at": "2024-01-05 06:00:00",
@@ -1327,42 +1303,26 @@
     {
       "added_at": "2024-01-05 06:00:00",
       "album": {
-        "name": "Escorpi\u00f3n",
-        "url": "https://open.spotify.com/album/3U0wjZVkZ7qtblFGLIzqpA"
+        "name": "Gloriax",
+        "url": "https://open.spotify.com/album/6T6V6xEQwiN7G2CoJchfi7"
       },
       "artists": [
         {
-          "name": "Granuja",
-          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
         },
         {
-          "name": "Rodesens",
-          "url": "https://open.spotify.com/artist/1ggnt5q0Sm1yZj7l45ovd8"
+          "name": "Knak",
+          "url": "https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C"
         },
         {
-          "name": "InVnerable",
-          "url": "https://open.spotify.com/artist/5DVq4JmHmFWBoFk7K0vCMY"
+          "name": "Tadu V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk"
         }
       ],
-      "duration_ms": 172925,
-      "name": "Escorpi\u00f3n",
-      "url": "https://open.spotify.com/track/48djoywLHuEwUlOpZP1tMR"
-    },
-    {
-      "added_at": "2024-01-05 06:00:00",
-      "album": {
-        "name": "Mala Racha",
-        "url": "https://open.spotify.com/album/02PESQRmnGTsNkaKsrXMZG"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 222650,
-      "name": "Mala Racha",
-      "url": "https://open.spotify.com/track/76DS7qXG1GNmrKXTQvjPea"
+      "duration_ms": 206000,
+      "name": "Gloriax",
+      "url": "https://open.spotify.com/track/7IYjpcFbkycuU16e7dXT4V"
     },
     {
       "added_at": "2024-01-05 06:00:00",
@@ -1387,22 +1347,46 @@
     {
       "added_at": "2024-01-05 06:00:00",
       "album": {
-        "name": "Desde Peque\u00f1o",
-        "url": "https://open.spotify.com/album/7KPHrskSaXSDD59ncpixpS"
+        "name": "Escorpi\u00f3n",
+        "url": "https://open.spotify.com/album/3U0wjZVkZ7qtblFGLIzqpA"
       },
       "artists": [
         {
-          "name": "Turek Hem",
-          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
         },
         {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+          "name": "Rodesens",
+          "url": "https://open.spotify.com/artist/1ggnt5q0Sm1yZj7l45ovd8"
+        },
+        {
+          "name": "InVnerable",
+          "url": "https://open.spotify.com/artist/5DVq4JmHmFWBoFk7K0vCMY"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Desde Peque\u00f1o",
-      "url": "https://open.spotify.com/track/7moKLf7wnziXF8bwMUuu5Y"
+      "duration_ms": 172925,
+      "name": "Escorpi\u00f3n",
+      "url": "https://open.spotify.com/track/48djoywLHuEwUlOpZP1tMR"
+    },
+    {
+      "added_at": "2024-01-05 06:00:00",
+      "album": {
+        "name": "\u00edcaro",
+        "url": "https://open.spotify.com/album/1vtrBs348NQgNBIJG2cUFH"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "Trafikante de Almas",
+          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+        }
+      ],
+      "duration_ms": 169019,
+      "name": "\u00edcaro",
+      "url": "https://open.spotify.com/track/68BnzdIbvcoW11I0EhVvwb"
     },
     {
       "added_at": "2024-01-05 06:00:00",
@@ -1427,22 +1411,38 @@
     {
       "added_at": "2024-01-05 06:00:00",
       "album": {
-        "name": "\u00edcaro",
-        "url": "https://open.spotify.com/album/1vtrBs348NQgNBIJG2cUFH"
+        "name": "Desde Peque\u00f1o",
+        "url": "https://open.spotify.com/album/7KPHrskSaXSDD59ncpixpS"
       },
       "artists": [
         {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
         },
         {
-          "name": "Trafikante de Almas",
-          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
         }
       ],
-      "duration_ms": 169019,
-      "name": "\u00edcaro",
-      "url": "https://open.spotify.com/track/68BnzdIbvcoW11I0EhVvwb"
+      "duration_ms": 219000,
+      "name": "Desde Peque\u00f1o",
+      "url": "https://open.spotify.com/track/7moKLf7wnziXF8bwMUuu5Y"
+    },
+    {
+      "added_at": "2024-01-05 06:00:00",
+      "album": {
+        "name": "Mala Racha",
+        "url": "https://open.spotify.com/album/02PESQRmnGTsNkaKsrXMZG"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 222650,
+      "name": "Mala Racha",
+      "url": "https://open.spotify.com/track/76DS7qXG1GNmrKXTQvjPea"
     },
     {
       "added_at": "2024-01-05 06:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-01-05 06:00:00",
       "album": {
-        "name": "Cumbia Guanajuato",
-        "url": "https://open.spotify.com/album/2OfS4FQONfrjASRTVixgok"
-      },
-      "artists": [
-        {
-          "name": "Chato 473",
-          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
-        }
-      ],
-      "duration_ms": 339692,
-      "name": "Cumbia Guanajuato",
-      "url": "https://open.spotify.com/track/2yfBHIWg2GWqQvUhR9MW1U"
-    },
-    {
-      "added_at": "2024-01-05 06:00:00",
-      "album": {
         "name": "El Callej\u00f3n",
         "url": "https://open.spotify.com/album/0UwpMqSIC8OLScazUEkLaW"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 160000,
       "name": "Ajena",
       "url": "https://open.spotify.com/track/5dpCjFHmVk4iuIDHGW7Cv7"
+    },
+    {
+      "added_at": "2024-01-05 06:00:00",
+      "album": {
+        "name": "Cumbia Guanajuato",
+        "url": "https://open.spotify.com/album/2OfS4FQONfrjASRTVixgok"
+      },
+      "artists": [
+        {
+          "name": "Chato 473",
+          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
+        }
+      ],
+      "duration_ms": 339692,
+      "name": "Cumbia Guanajuato",
+      "url": "https://open.spotify.com/track/2yfBHIWg2GWqQvUhR9MW1U"
     },
     {
       "added_at": "2024-01-05 06:00:00",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2024-01-05 06:00:00",
       "album": {
+        "name": "Loquer\u00f3n",
+        "url": "https://open.spotify.com/album/5Atz4PxOtr8DWhU9hIO44E"
+      },
+      "artists": [
+        {
+          "name": "Forte Realta",
+          "url": "https://open.spotify.com/artist/4APnWte3hPDRV6mGTMkXR8"
+        }
+      ],
+      "duration_ms": 168760,
+      "name": "Loquer\u00f3n",
+      "url": "https://open.spotify.com/track/1fNX6g5vWctNJ0PSxg0yyz"
+    },
+    {
+      "added_at": "2024-01-05 06:00:00",
+      "album": {
         "name": "Conexi\u00f3n",
         "url": "https://open.spotify.com/album/3EfRXjDxv4DcybfywCr657"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 171221,
       "name": "Conexi\u00f3n",
       "url": "https://open.spotify.com/track/3wpukX8pJ6wNLECrQlhUq5"
-    },
-    {
-      "added_at": "2024-01-05 06:00:00",
-      "album": {
-        "name": "Loquer\u00f3n",
-        "url": "https://open.spotify.com/album/5Atz4PxOtr8DWhU9hIO44E"
-      },
-      "artists": [
-        {
-          "name": "Forte Realta",
-          "url": "https://open.spotify.com/artist/4APnWte3hPDRV6mGTMkXR8"
-        }
-      ],
-      "duration_ms": 168760,
-      "name": "Loquer\u00f3n",
-      "url": "https://open.spotify.com/track/1fNX6g5vWctNJ0PSxg0yyz"
     },
     {
       "added_at": "2024-01-05 06:00:00",
@@ -2011,6 +2011,26 @@
     {
       "added_at": "2024-01-05 06:00:00",
       "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/6YRiaULjOY1hjYBaEjQy8Y"
+      },
+      "artists": [
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        },
+        {
+          "name": "Teo LB",
+          "url": "https://open.spotify.com/artist/0HwtulWF8xZD2g2IMhNXwo"
+        }
+      ],
+      "duration_ms": 227702,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/35K0LpLwLnV8XVlwMHu1yA"
+    },
+    {
+      "added_at": "2024-01-05 06:00:00",
+      "album": {
         "name": "Palabra de Honor",
         "url": "https://open.spotify.com/album/6PXaBc24sYwppirA7vzaBB"
       },
@@ -2039,26 +2059,6 @@
     {
       "added_at": "2024-01-05 06:00:00",
       "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/6YRiaULjOY1hjYBaEjQy8Y"
-      },
-      "artists": [
-        {
-          "name": "El Pinche Mara",
-          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
-        },
-        {
-          "name": "Teo LB",
-          "url": "https://open.spotify.com/artist/0HwtulWF8xZD2g2IMhNXwo"
-        }
-      ],
-      "duration_ms": 227702,
-      "name": "Tranquilo",
-      "url": "https://open.spotify.com/track/35K0LpLwLnV8XVlwMHu1yA"
-    },
-    {
-      "added_at": "2024-01-05 06:00:00",
-      "album": {
         "name": "Me Puedes Invocar",
         "url": "https://open.spotify.com/album/3L1wHnXxuY7QdUHVBNeSmY"
       },
@@ -2071,6 +2071,22 @@
       "duration_ms": 109307,
       "name": "Me Puedes Invocar",
       "url": "https://open.spotify.com/track/3kAiSWYkXgDwPh9ta9KMUQ"
+    },
+    {
+      "added_at": "2024-01-05 06:00:00",
+      "album": {
+        "name": "BAJO PRESI\u00d3N",
+        "url": "https://open.spotify.com/album/7pqOiwVjdbibxeQnzAMC0v"
+      },
+      "artists": [
+        {
+          "name": "Soui Uno",
+          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
+        }
+      ],
+      "duration_ms": 130289,
+      "name": "BAJO PRESI\u00d3N",
+      "url": "https://open.spotify.com/track/1HYBEi7PYzjEg7JSm0xzbQ"
     },
     {
       "added_at": "2024-01-05 06:00:00",
@@ -2095,38 +2111,22 @@
     {
       "added_at": "2024-01-05 06:00:00",
       "album": {
-        "name": "BAJO PRESI\u00d3N",
-        "url": "https://open.spotify.com/album/7pqOiwVjdbibxeQnzAMC0v"
+        "name": "Ese Culo",
+        "url": "https://open.spotify.com/album/5Ovew8Idt4n8TpQQaZ9qey"
       },
       "artists": [
         {
-          "name": "Soui Uno",
-          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
-        }
-      ],
-      "duration_ms": 130289,
-      "name": "BAJO PRESI\u00d3N",
-      "url": "https://open.spotify.com/track/1HYBEi7PYzjEg7JSm0xzbQ"
-    },
-    {
-      "added_at": "2024-01-05 06:00:00",
-      "album": {
-        "name": "Antes del Alba",
-        "url": "https://open.spotify.com/album/04jcunBbCe9hXGTfZGo9Bj"
-      },
-      "artists": [
-        {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
         },
         {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+          "name": "Sirhena",
+          "url": "https://open.spotify.com/artist/2m9XVzgC1LOREZs1UOVQuI"
         }
       ],
-      "duration_ms": 215294,
-      "name": "Osama",
-      "url": "https://open.spotify.com/track/3OKxyRWGtER05sWcgZF1Yy"
+      "duration_ms": 143738,
+      "name": "Ese Culo",
+      "url": "https://open.spotify.com/track/4vG5jTK3oDwpqkmqT8zECm"
     }
   ],
   "unique_name": "Rimas Frescas ",

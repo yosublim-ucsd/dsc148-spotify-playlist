@@ -1,12 +1,12 @@
 {
   "description": "Sommer, Sonne, Lieblingshits  \u2600\ufe0f",
-  "num_followers": 1523542,
+  "num_followers": 1523384,
   "original_name": "Sommerhits 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjI5YTljNzY5NjZiNDAxY2IyM2U0MjA0M2NjZDVhYzI5ZDE3MDAx",
+  "snapshot_id": "MCwyYmIwOWMwNGY1YzdhYmQ2MWZjNmIxMTAxNjM0YTljYjczYWRjZGRm",
   "tracks": [
     {
       "added_at": "2023-09-13 13:59:55",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
-        "name": "TRUSTFALL",
-        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "TRUSTFALL",
-      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
-    },
-    {
-      "added_at": "2023-09-13 13:59:55",
-      "album": {
         "name": "Cynical",
         "url": "https://open.spotify.com/album/17LI3Izac2jjx89l1hqLST"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 191365,
       "name": "Cynical",
       "url": "https://open.spotify.com/track/2kNhZ57JHXkZPZH2rknRyu"
+    },
+    {
+      "added_at": "2023-09-13 13:59:55",
+      "album": {
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "TRUSTFALL",
+      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
     },
     {
       "added_at": "2023-09-13 13:59:55",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
-        "name": "Zanaka (Deluxe)",
-        "url": "https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k"
-      },
-      "artists": [
-        {
-          "name": "Jain",
-          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
-        }
-      ],
-      "duration_ms": 248986,
-      "name": "Makeba",
-      "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
-    },
-    {
-      "added_at": "2023-09-13 13:59:55",
-      "album": {
         "name": "DRIVE",
         "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 134880,
       "name": "All Nighter",
       "url": "https://open.spotify.com/track/3jksOdXCaDXyGiZ7L4YZbp"
+    },
+    {
+      "added_at": "2023-09-13 13:59:55",
+      "album": {
+        "name": "Zanaka (Deluxe)",
+        "url": "https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        }
+      ],
+      "duration_ms": 248986,
+      "name": "Makeba",
+      "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
     },
     {
       "added_at": "2023-09-13 13:59:55",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/5WEe6GjK467yw02jAlz9lb"
+      },
+      "artists": [
+        {
+          "name": "Peter Fox",
+          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
+        }
+      ],
+      "duration_ms": 166109,
+      "name": "Tuff Cookie",
+      "url": "https://open.spotify.com/track/4vWAaoSebO4sp4Jo9f3cVn"
+    },
+    {
+      "added_at": "2023-09-13 13:59:55",
+      "album": {
         "name": "YEAH (feat. ClockClock)",
         "url": "https://open.spotify.com/album/5CivJsN8TmERWIOMxCGAWs"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 158847,
       "name": "YEAH (feat. ClockClock)",
       "url": "https://open.spotify.com/track/2OXvvdHQ9Q4KAqd152MTj2"
-    },
-    {
-      "added_at": "2023-09-13 13:59:55",
-      "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/5WEe6GjK467yw02jAlz9lb"
-      },
-      "artists": [
-        {
-          "name": "Peter Fox",
-          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
-        }
-      ],
-      "duration_ms": 166109,
-      "name": "Tuff Cookie",
-      "url": "https://open.spotify.com/track/4vWAaoSebO4sp4Jo9f3cVn"
     },
     {
       "added_at": "2023-09-13 13:59:55",

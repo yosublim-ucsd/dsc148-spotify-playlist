@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Nadhif Basamalah
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,574 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,610 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Hanya Kamu](https://open.spotify.com/track/4vFBtdQpUOCmNDsBw695lA) | [Nabila Razali](https://open.spotify.com/artist/2yWleHZF4HaaNjmiU8snKO) | [Hanya Kamu](https://open.spotify.com/album/1qNZJhr764qUgH3S665Z6R) | 3:17 |
 | 50 | [Masing Masing](https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Aura](https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda) | 3:54 |
 
-Snapshot ID: `MCw3OGQyNzg1YzAxM2ZiNjgzYmJhZGE2ODIwNjA4MzNhNGI5NzlkZDk2`
+Snapshot ID: `MCw5M2RmOGQwMWZiNDljZTI1YzJhMDI5ZjEzMGQ3YzY1NWViMTI3OTY4`

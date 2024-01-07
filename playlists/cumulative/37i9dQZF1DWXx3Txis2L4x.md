@@ -4,7 +4,7 @@
 
 > Don't use these shoes to run, they just look nice for the playlist cover\. Use real running shoes, please.
 
-197 songs - 11 hr 20 min
+198 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [DON'T PLAY](https://open.spotify.com/track/69uzV9BQmNLPIu0dWK4Tbe) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:13 | 2023-02-27 | 2023-10-20 |
 | [Double Cross](https://open.spotify.com/track/0LLA6vTC4qkmENHsr3PkOH) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0) | 3:25 | 2022-04-08 | 2022-04-21 |
 | [Down](https://open.spotify.com/track/0HDaKOlVAfUWXdFR2RhBtN) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [311](https://open.spotify.com/album/6VIeIM5tetuv7FrYxISffU) | 2:52 | 2022-04-08 | 2023-03-23 |
-| [Easy Target](https://open.spotify.com/track/0fsrRvpqr904AdKAPDXFkq) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 2:20 | 2023-07-04 |  |
+| [Easy Target](https://open.spotify.com/track/0fsrRvpqr904AdKAPDXFkq) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 2:20 | 2023-07-04 | 2024-01-07 |
 | [Empty Walls](https://open.spotify.com/track/0eOMrFg8LnFA4q9GMzIyOt) | [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [Empty Walls](https://open.spotify.com/album/51RltZiYvJLkGcDI60ahDx) | 3:50 | 2022-04-08 | 2022-04-21 |
 | [Empty Walls](https://open.spotify.com/track/16pmJwwNFVCqdXWPZtwZzh) | [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [Elect the Dead \(Deluxe\)](https://open.spotify.com/album/4QxqpP6peduwboJWJDOO9H) | 3:50 | 2022-06-02 | 2022-10-13 |
 | [Empty Walls](https://open.spotify.com/track/6Y2kW1mdHE0znPCjtOdt5m) | [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [Elect the Dead \(Deluxe\)](https://open.spotify.com/album/6lEk9mHyHXxINEhTyFuYrz) | 3:50 | 2022-06-02 |  |
@@ -135,6 +135,7 @@
 | [One Armed Scissor](https://open.spotify.com/track/3T1YjH72qs6L6tDscZFZL5) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship of Command](https://open.spotify.com/album/0BrySJeJIdjsGkJDn2nXbc) | 4:20 | 2021-12-09 | 2022-07-14 |
 | [One Armed Scissor](https://open.spotify.com/track/1lg8iruuIfdRL20TMmHRzJ) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0x6Y2eA8Boakdrq9x2agdF) | 4:20 | 2022-10-25 | 2023-02-22 |
 | [One Armed Scissor](https://open.spotify.com/track/4QYg0pee8jcGTHC3Uh2Vii) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um) | 4:20 | 2023-07-04 |  |
+| [One Eyed Bastard](https://open.spotify.com/track/1uCkz8Cg3ZlJ871iuFL8Ok) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [One Eyed Bastard](https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd) | 2:52 | 2024-01-05 |  |
 | [only wanna dance](https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [only wanna dance](https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm) | 2:24 | 2023-03-07 |  |
 | [Out of the Black](https://open.spotify.com/track/1INksmStBpxdNlBzwGUvsg) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK) | 4:00 | 2021-12-09 | 2022-07-29 |
 | [Out of the Black](https://open.spotify.com/track/2nIulsLMiP2SMTDrtxfQXX) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/7DJijwZ2wqJrgLpcRMxs3G) | 4:00 | 2022-10-25 |  |

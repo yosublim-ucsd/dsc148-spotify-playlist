@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with Shubh
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,158,135 likes - 101 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,158,963 likes - 101 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 2 | [Softly](https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 2:35 |
 | 3 | [Hass Hass](https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Hass Hass](https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC) | 2:33 |
 | 4 | [Mi Amor](https://open.spotify.com/track/24MMjyA3NLqCsDJfsn51eg) | [Sharn](https://open.spotify.com/artist/74RGMjbSsFv5RLj8wVx9Yv), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk), [The Paul](https://open.spotify.com/artist/1i31OYo0s5VoMCaMRJFZkJ) | [Mi Amor](https://open.spotify.com/album/0azGrKHPYvl2MEKwQFfbV2) | 3:23 |
-| 5 | [Love Ya](https://open.spotify.com/track/5RWZ6TVZ0HeFTdRWu3VQ7w) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Love Ya](https://open.spotify.com/album/4VkH37VVMJ2geNURWVg1W7) | 2:41 |
+| 5 | [Love Ya](https://open.spotify.com/track/4Vaa9Mq34xA9cSX8B7PtCN) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Love Ya](https://open.spotify.com/album/74AG3N4OJWlJR19gRIEJyB) | 2:41 |
 | 6 | [California Love](https://open.spotify.com/track/610keNiNVTIkYD0CqeSerg) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [ANYWAY](https://open.spotify.com/album/64MZHXV7IglO8LE8KplSRw) | 2:55 |
 | 7 | [SPAIN](https://open.spotify.com/track/4ZVtid5khBfDx6Co0vTUE6) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [VIBIN](https://open.spotify.com/album/2GPHbR6aZ2rZooX6dF1nwB) | 1:44 |
 | 8 | [You and Me](https://open.spotify.com/track/4thOONDx78zsY8sHGfU1M2) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 2:52 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 56 | [Thaa](https://open.spotify.com/track/2NmBCDkjvJVvEZkH5QDOeb) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P), [Ultra Beats](https://open.spotify.com/artist/2YzXsQoI3rqYNEVd4nac7g) | [Thaa](https://open.spotify.com/album/6u5RdRVp5HBStyPRWvHcgm) | 3:01 |
 | 57 | [Ilzaam](https://open.spotify.com/track/0orOI8nTid7fxPvWIx1tKP) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Saroor](https://open.spotify.com/album/6Zh0nr6poc2VNhZDwNSptG) | 3:07 |
 | 58 | [Sleepless](https://open.spotify.com/track/6TJ8etbh8uFFLuVbLj25lz) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Sleepless](https://open.spotify.com/album/5nrLqXgaW2w1fCSFQp0EqL) | 2:36 |
-| 59 | [No Love](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 |
+| 59 | [No Love](https://open.spotify.com/track/1ejy8AVI7k1SAlWeeKaZ60) | [lusttqwe](https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR), [bexter](https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n), [lorche](https://open.spotify.com/artist/644qnZiBHVcjcMCHsiV0PL) | [No Love](https://open.spotify.com/album/07SG5x4D5BLlrPcg0xBSZf) | 2:49 |
 | 60 | [SWITCHIN' LANES](https://open.spotify.com/track/0o6IjbwmqxiDZPE5TvNKoJ) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [SWITCHIN' LANES](https://open.spotify.com/album/6YCt9sL8Y6kphIOcUalaRl) | 2:12 |
 | 61 | [P.O.V \(Point of View\)](https://open.spotify.com/track/6h5cT4n75VWK95VDW07EFw) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [P.O.V \(Point of View\)](https://open.spotify.com/album/65vqiJwNrkv0it9fclatIK) | 3:05 |
 | 62 | [Do You Know](https://open.spotify.com/track/1aHRhPwlNTNdMsDcYicxb6) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Do You Know](https://open.spotify.com/album/0VL0XINwpFeZZZthg65ASA) | 3:32 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 100 | [Lover](https://open.spotify.com/track/0XwRlvv3KlOu4HWlOH34XG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:10 |
 | 101 | [Distance Love](https://open.spotify.com/track/55nRhkhe7ckZhazYrv6ZOX) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Distance Love](https://open.spotify.com/album/0FSTdbfd0XFtEjWK8VCjgY) | 3:30 |
 
-Snapshot ID: `MCw5OWVkODU1MDNlODE0MDI2ZjQ3NTFlNGVlODYzZDE5Njk2NzM0Mzkz`
+Snapshot ID: `MCwyZTkwMTQ1YmUyYjU4MmYzYWEwMDJlOTc1NjZiMmQ1OWQ4MWRmYzRm`

@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 203790,
+  "num_followers": 203939,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjU5MTcyZTg3MTk1ODE1YmJlYTQ4M2YzNTBkZThmMDI5NTY3YTE5",
+  "snapshot_id": "MCw5MDhkNTQyMDgwZGZmYmE1MjQ0MzU0NzI1YzU4NDEzMzEzNDI3OTZk",
   "tracks": [
     {
       "added_at": "2023-11-13 21:00:00",
@@ -327,22 +327,18 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "JOY (Back on 74)",
-        "url": "https://open.spotify.com/album/4HYWB8dT9bJHIZnVLU2D6z"
+        "name": "Ambivalence Avenue",
+        "url": "https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
         }
       ],
-      "duration_ms": 271395,
-      "name": "JOY (Back On 74)",
-      "url": "https://open.spotify.com/track/0K2PQziTagDXHiCFPqoE82"
+      "duration_ms": 238640,
+      "name": "lovers\u2019 carvings",
+      "url": "https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -363,18 +359,22 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "Ambivalence Avenue",
-        "url": "https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G"
+        "name": "JOY (Back on 74)",
+        "url": "https://open.spotify.com/album/4HYWB8dT9bJHIZnVLU2D6z"
       },
       "artists": [
         {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
         }
       ],
-      "duration_ms": 238640,
-      "name": "lovers\u2019 carvings",
-      "url": "https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR"
+      "duration_ms": 271395,
+      "name": "JOY (Back On 74)",
+      "url": "https://open.spotify.com/track/0K2PQziTagDXHiCFPqoE82"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "Soon It Will Be Cold Enough",
-        "url": "https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU"
-      },
-      "artists": [
-        {
-          "name": "Emancipator",
-          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
-        }
-      ],
-      "duration_ms": 180520,
-      "name": "Soon It Will Be Cold Enough to Build Fires",
-      "url": "https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
         "name": "Views/Octopus EP",
         "url": "https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 184000,
       "name": "Aquarium",
       "url": "https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
+        "name": "Soon It Will Be Cold Enough",
+        "url": "https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU"
+      },
+      "artists": [
+        {
+          "name": "Emancipator",
+          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
+        }
+      ],
+      "duration_ms": 180520,
+      "name": "Soon It Will Be Cold Enough to Build Fires",
+      "url": "https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "Hallucinogen",
-        "url": "https://open.spotify.com/album/0kbTEjztiBKiwDGqogecTy"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 268987,
-      "name": "All the Way Down",
-      "url": "https://open.spotify.com/track/3GZpSLgW7eaPzbJUFD7jfL"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
         "name": "Six Songs for Invisible Gardens",
         "url": "https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 328000,
       "name": "Soft Meadow",
       "url": "https://open.spotify.com/track/4Xe5aArRgoUutgD8MP00Qs"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
+        "name": "Hallucinogen",
+        "url": "https://open.spotify.com/album/0kbTEjztiBKiwDGqogecTy"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 268987,
+      "name": "All the Way Down",
+      "url": "https://open.spotify.com/track/3GZpSLgW7eaPzbJUFD7jfL"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "Reality Testing",
-        "url": "https://open.spotify.com/album/2JBrH4OqnSCUKXqFEEakkK"
-      },
-      "artists": [
-        {
-          "name": "Lone",
-          "url": "https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI"
-        }
-      ],
-      "duration_ms": 289082,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/0Ip2pWYQmo8NUxKql20QPk"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
         "name": "Suddenly",
         "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 243946,
       "name": "You and I",
       "url": "https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
+        "name": "Reality Testing",
+        "url": "https://open.spotify.com/album/2JBrH4OqnSCUKXqFEEakkK"
+      },
+      "artists": [
+        {
+          "name": "Lone",
+          "url": "https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI"
+        }
+      ],
+      "duration_ms": 289082,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/0Ip2pWYQmo8NUxKql20QPk"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
+        "name": "I Become A Shade",
+        "url": "https://open.spotify.com/album/1zP69up0zPq8SsIx4lvCkg"
+      },
+      "artists": [
+        {
+          "name": "Seoul",
+          "url": "https://open.spotify.com/artist/3e69LorE0YSsEaYY6x9XuG"
+        }
+      ],
+      "duration_ms": 237945,
+      "name": "Stay With Us",
+      "url": "https://open.spotify.com/track/3Opk9C8pMgBCmbqXelH0I5"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
         "name": "Ultravisitor",
         "url": "https://open.spotify.com/album/3ZsW2VSx5OxHpV3Kno59O2"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 262813,
       "name": "Trade Winds, White Heat",
       "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
-        "name": "I Become A Shade",
-        "url": "https://open.spotify.com/album/1zP69up0zPq8SsIx4lvCkg"
-      },
-      "artists": [
-        {
-          "name": "Seoul",
-          "url": "https://open.spotify.com/artist/3e69LorE0YSsEaYY6x9XuG"
-        }
-      ],
-      "duration_ms": 237945,
-      "name": "Stay With Us",
-      "url": "https://open.spotify.com/track/3Opk9C8pMgBCmbqXelH0I5"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
-      },
-      "artists": [
-        {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
-        }
-      ],
-      "duration_ms": 319666,
-      "name": "SHEEP",
-      "url": "https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
         "name": "Our Love",
         "url": "https://open.spotify.com/album/5ysMC5s4nOCDtPBYrTa5pl"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 236400,
       "name": "Can't Do Without You",
       "url": "https://open.spotify.com/track/35p0Z5yZDogaXoWXhMVEv4"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "duration_ms": 319666,
+      "name": "SHEEP",
+      "url": "https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
-      },
-      "artists": [
-        {
-          "name": "Susumu Yokota",
-          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
-        }
-      ],
-      "duration_ms": 246706,
-      "name": "Kodomotachi",
-      "url": "https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
         "name": "Tiny Reminders",
         "url": "https://open.spotify.com/album/2V2qCQNcIwy6sqkEHmBERc"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 90133,
       "name": "Constant Reminder",
       "url": "https://open.spotify.com/track/0jbtAoiWy5saxeXoakNP2i"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
+      },
+      "artists": [
+        {
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+        }
+      ],
+      "duration_ms": 246706,
+      "name": "Kodomotachi",
+      "url": "https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
+        "name": "Appeayl 2 U",
+        "url": "https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U"
+      },
+      "artists": [
+        {
+          "name": "Gayngs",
+          "url": "https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI"
+        }
+      ],
+      "duration_ms": 236703,
+      "name": "Appeayl 2 U part 1",
+      "url": "https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
         "name": "still slipping vol. 1",
         "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 272093,
       "name": "born slipping",
       "url": "https://open.spotify.com/track/0QJ11tqN85By0nwwDJVoeP"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
-        "name": "Appeayl 2 U",
-        "url": "https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U"
-      },
-      "artists": [
-        {
-          "name": "Gayngs",
-          "url": "https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI"
-        }
-      ],
-      "duration_ms": 236703,
-      "name": "Appeayl 2 U part 1",
-      "url": "https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "still slipping vol. 1",
-        "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
-      },
-      "artists": [
-        {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
-        }
-      ],
-      "duration_ms": 140226,
-      "name": "runnersz",
-      "url": "https://open.spotify.com/track/33ZGlpwOQ5Wc2u6n8Lq3iZ"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
         "name": "Dissolvi",
         "url": "https://open.spotify.com/album/46fXKgkZzFICUthYxcf9Ie"
       },
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "Fourth Wall",
-        "url": "https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei"
+        "name": "still slipping vol. 1",
+        "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
       "artists": [
         {
-          "name": "Harvey Causon",
-          "url": "https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d"
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
         }
       ],
-      "duration_ms": 245123,
-      "name": "Half Hour Verve",
-      "url": "https://open.spotify.com/track/0ffiGkNSrTfbvkXHLz2gGk"
+      "duration_ms": 140226,
+      "name": "runnersz",
+      "url": "https://open.spotify.com/track/33ZGlpwOQ5Wc2u6n8Lq3iZ"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1491,6 +1475,22 @@
       "duration_ms": 245510,
       "name": "Fine Match",
       "url": "https://open.spotify.com/track/0IJCYY1FqfnoTFUw31YBZ4"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
+        "name": "Fourth Wall",
+        "url": "https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei"
+      },
+      "artists": [
+        {
+          "name": "Harvey Causon",
+          "url": "https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d"
+        }
+      ],
+      "duration_ms": 245123,
+      "name": "Half Hour Verve",
+      "url": "https://open.spotify.com/track/0ffiGkNSrTfbvkXHLz2gGk"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "Encores 2",
-        "url": "https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Talisman",
-      "url": "https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
         "name": "I Will Make Room for You (Four Tet Remix)",
         "url": "https://open.spotify.com/album/6PI10ucPVSfshOfIDhGesh"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 497500,
       "name": "I Will Make Room for You - Four Tet Remix",
       "url": "https://open.spotify.com/track/0MUyYLTGossGLHTkHQH65W"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
+        "name": "Encores 2",
+        "url": "https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Talisman",
+      "url": "https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6"
     },
     {
       "added_at": "2023-11-13 21:00:00",

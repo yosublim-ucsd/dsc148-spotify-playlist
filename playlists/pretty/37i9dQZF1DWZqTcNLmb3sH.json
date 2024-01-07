@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Kaatera\n",
-  "num_followers": 56738,
+  "num_followers": 56764,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGNiYjk0YWMwMWU2MzUyYjlkNWU2MGM5NTMyY2ZlZjVkM2YyNWQy",
+  "snapshot_id": "MCwwZTQxOWRlNWUyNzNkYmVmYjU4OTk4NmUyODFhOTY3NWUyMzgyOGFj",
   "tracks": [
     {
       "added_at": "2024-01-04 06:14:40",
@@ -207,26 +207,34 @@
     {
       "added_at": "2024-01-03 06:57:22",
       "album": {
-        "name": "Eerappanu (From \"Captain Miller\") (Kannada)",
-        "url": "https://open.spotify.com/album/1t0ZsEntEBvoQTDywtCIGF"
+        "name": "Koranaaru (From \"Captain Miller\")",
+        "url": "https://open.spotify.com/album/1wfA4rQQ1f79xEOxfvbB7y"
       },
       "artists": [
+        {
+          "name": "Deva",
+          "url": "https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf"
+        },
+        {
+          "name": "Santhosh Hariharan",
+          "url": "https://open.spotify.com/artist/4nWXekqN93Tx8hJUJwR66n"
+        },
+        {
+          "name": "Alexander Babu",
+          "url": "https://open.spotify.com/artist/0GgNTvvyJMhQDwbr7PUnRG"
+        },
         {
           "name": "G. V. Prakash",
           "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
         },
         {
-          "name": "Darshan Narayan",
-          "url": "https://open.spotify.com/artist/64ZcUIE43WrFrkpbRbzqmD"
-        },
-        {
-          "name": "Shenbagaraj",
-          "url": "https://open.spotify.com/artist/4sOq2wyRjNnnYNhpM24NdI"
+          "name": "Uma Devi",
+          "url": "https://open.spotify.com/artist/2GOvdhofeVQ9pVgHP4K4vo"
         }
       ],
       "duration_ms": 201777,
-      "name": "Eerappanu (From \"Captain Miller\") (Kannada)",
-      "url": "https://open.spotify.com/track/2UJnORv1nEQerKIcbLtYyX"
+      "name": "Koranaaru (From \"Captain Miller\")",
+      "url": "https://open.spotify.com/track/1hQCcHIb2x6NNrx547yTPP"
     },
     {
       "added_at": "2023-12-21 09:15:43",

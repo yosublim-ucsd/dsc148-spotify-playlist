@@ -1,12 +1,12 @@
 {
   "description": "Hit the road to the soundtrack of these seventies classics.",
-  "num_followers": 3012300,
+  "num_followers": 3012898,
   "original_name": "70s Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmRhMTVjZDZjNGNlYjZjODNjMGRjM2M3NTA2NWE1YzhkMjI0YzZh",
+  "snapshot_id": "MCxkOGI0YzcwOTg5NzM5NjgzNjNmMThlZTE1Mjc0OGM1YWNjZDYzMDZi",
   "tracks": [
     {
       "added_at": "2021-02-10 18:00:33",
@@ -23,6 +23,22 @@
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Elton John",
+        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 241786,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -47,22 +63,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Elton John",
-        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Boston",
         "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
       },
@@ -79,22 +79,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
-        "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 254293,
-      "name": "Starman - 2012 Remaster",
-      "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Tea For The Tillerman (Remastered 2020)",
         "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 200560,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+        "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 254293,
+      "name": "Starman - 2012 Remaster",
+      "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -223,6 +223,22 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
+        "name": "Signed, Sealed And Delivered",
+        "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 161160,
+      "name": "Signed, Sealed, Delivered (I'm Yours)",
+      "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
         "name": "Madman Across The Water",
         "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 256426,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
-        "name": "Signed, Sealed And Delivered",
-        "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 161160,
-      "name": "Signed, Sealed, Delivered (I'm Yours)",
-      "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -367,18 +367,18 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
+        "name": "Who Loves You",
+        "url": "https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
         }
       ],
-      "duration_ms": 245493,
-      "name": "Superstition - Single Version",
-      "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
+      "duration_ms": 197146,
+      "name": "December, 1963 (Oh What a Night!)",
+      "url": "https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -399,18 +399,18 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Who Loves You",
-        "url": "https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
       },
       "artists": [
         {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 197146,
-      "name": "December, 1963 (Oh What a Night!)",
-      "url": "https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN"
+      "duration_ms": 245493,
+      "name": "Superstition - Single Version",
+      "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Jolene (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 161533,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Looking Glass",
         "url": "https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 186826,
       "name": "Brandy (You're a Fine Girl)",
       "url": "https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Jolene (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 161533,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -591,22 +591,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Get The Knack",
-        "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
-      },
-      "artists": [
-        {
-          "name": "The Knack",
-          "url": "https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r"
-        }
-      ],
-      "duration_ms": 295400,
-      "name": "My Sharona",
-      "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Hot Chocolate",
         "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
       },
@@ -623,18 +607,18 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "One of These Nights (2013 Remaster)",
-        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+        "name": "Get The Knack",
+        "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
       },
       "artists": [
         {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+          "name": "The Knack",
+          "url": "https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r"
         }
       ],
-      "duration_ms": 291685,
-      "name": "One of These Nights - 2013 Remaster",
-      "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF"
+      "duration_ms": 295400,
+      "name": "My Sharona",
+      "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -651,6 +635,22 @@
       "duration_ms": 174826,
       "name": "Cecilia",
       "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 291685,
+      "name": "One of These Nights - 2013 Remaster",
+      "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -751,22 +751,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
-      },
-      "artists": [
-        {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
-        }
-      ],
-      "duration_ms": 216733,
-      "name": "We Are Family - 1995 Remaster",
-      "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Southern Nights",
         "url": "https://open.spotify.com/album/0R7Uw1tUUbWlV53BGKfjQ4"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 180026,
       "name": "Southern Nights",
       "url": "https://open.spotify.com/track/7kv7zBjMtVf0eIJle2VZxn"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "duration_ms": 216733,
+      "name": "We Are Family - 1995 Remaster",
+      "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -899,22 +899,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Wild Cherry",
-        "url": "https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX"
-      },
-      "artists": [
-        {
-          "name": "Wild Cherry",
-          "url": "https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Play That Funky Music",
-      "url": "https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Ram Jam",
         "url": "https://open.spotify.com/album/4z2REZpvRsVMpHFrsIz7PD"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 238973,
       "name": "Black Betty",
       "url": "https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Wild Cherry",
+        "url": "https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX"
+      },
+      "artists": [
+        {
+          "name": "Wild Cherry",
+          "url": "https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Play That Funky Music",
+      "url": "https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl"
     },
     {
       "added_at": "2022-04-14 15:08:02",
@@ -963,22 +963,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Back Home Again",
-        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "Annie's Song",
-      "url": "https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Still Bill",
         "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 258834,
       "name": "Lean on Me",
       "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Back Home Again",
+        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 180693,
+      "name": "Annie's Song",
+      "url": "https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Distant Light (1999 Remaster)",
-        "url": "https://open.spotify.com/album/6b5osVLAcVTBvnqwDaPV4w"
-      },
-      "artists": [
-        {
-          "name": "The Hollies",
-          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Long Cool Woman (In a Black Dress) - 1999 Remaster",
-      "url": "https://open.spotify.com/track/5UwbnHhjnbinJH8TefuQfN"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Damn The Torpedoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 201693,
       "name": "Refugee",
       "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Distant Light (1999 Remaster)",
+        "url": "https://open.spotify.com/album/6b5osVLAcVTBvnqwDaPV4w"
+      },
+      "artists": [
+        {
+          "name": "The Hollies",
+          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Long Cool Woman (In a Black Dress) - 1999 Remaster",
+      "url": "https://open.spotify.com/track/5UwbnHhjnbinJH8TefuQfN"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
+        "name": "The Next Voice You Hear - The Best Of Jackson Browne",
+        "url": "https://open.spotify.com/album/0B98S6H0OAGWHaXFpjhqKu"
+      },
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+        }
+      ],
+      "duration_ms": 199706,
+      "name": "Doctor My Eyes - 1997 Remaster",
+      "url": "https://open.spotify.com/track/5OuaAMBmGjjJMK7yXpaFAK"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
         "name": "In Color",
         "url": "https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 508333,
       "name": "Paradise By the Dashboard Light",
       "url": "https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
-        "name": "The Next Voice You Hear - The Best Of Jackson Browne",
-        "url": "https://open.spotify.com/album/0B98S6H0OAGWHaXFpjhqKu"
-      },
-      "artists": [
-        {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
-        }
-      ],
-      "duration_ms": 199706,
-      "name": "Doctor My Eyes - 1997 Remaster",
-      "url": "https://open.spotify.com/track/5OuaAMBmGjjJMK7yXpaFAK"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
+        "name": "Life & Times",
+        "url": "https://open.spotify.com/album/25K3YPiFx7Yb7ms10m58Vt"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "duration_ms": 179466,
+      "name": "Bad, Bad Leroy Brown",
+      "url": "https://open.spotify.com/track/2r3XNMon9K7bl2KTtHsaQO"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
       },
@@ -1535,38 +1551,6 @@
       "duration_ms": 512732,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/1lqMLr9Wj7SM2F9AikGcxN"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
-        "name": "McCartney (Archive Collection)",
-        "url": "https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 229826,
-      "name": "Maybe I\u2019m Amazed - 2011 Remaster",
-      "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
-        "name": "Frampton",
-        "url": "https://open.spotify.com/album/0mRXKbepKXO0Il8H1uMaaX"
-      },
-      "artists": [
-        {
-          "name": "Peter Frampton",
-          "url": "https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W"
-        }
-      ],
-      "duration_ms": 243266,
-      "name": "Show Me The Way",
-      "url": "https://open.spotify.com/track/6BD1X1PeV5UzYUdiVaD2yL"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1587,18 +1571,34 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Life & Times",
-        "url": "https://open.spotify.com/album/25K3YPiFx7Yb7ms10m58Vt"
+        "name": "Frampton",
+        "url": "https://open.spotify.com/album/0mRXKbepKXO0Il8H1uMaaX"
       },
       "artists": [
         {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+          "name": "Peter Frampton",
+          "url": "https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W"
         }
       ],
-      "duration_ms": 179466,
-      "name": "Bad, Bad Leroy Brown",
-      "url": "https://open.spotify.com/track/2r3XNMon9K7bl2KTtHsaQO"
+      "duration_ms": 243266,
+      "name": "Show Me The Way",
+      "url": "https://open.spotify.com/track/6BD1X1PeV5UzYUdiVaD2yL"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "McCartney (Archive Collection)",
+        "url": "https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 229826,
+      "name": "Maybe I\u2019m Amazed - 2011 Remaster",
+      "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
     },
     {
       "added_at": "2021-02-10 18:00:33",

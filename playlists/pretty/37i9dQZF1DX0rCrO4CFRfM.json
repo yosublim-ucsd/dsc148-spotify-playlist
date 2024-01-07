@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 965579,
+  "num_followers": 965737,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGYzZjM4ODc0Yzc5YTFkMTkyMWViZTFhNmVkYzA5NDM1ZmQzYTVh",
+  "snapshot_id": "MCxiOThkZjQyNjE3MGFkMjk3NWY0NTkwM2Q1MGZiOGQ0Yjk3ZGM3ZDUy",
   "tracks": [
     {
       "added_at": "2023-09-20 15:37:37",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-09-20 15:37:37",
       "album": {
-        "name": "Keep the Village Alive (Deluxe)",
-        "url": "https://open.spotify.com/album/5NKgyV3NPyX3ErJCgctHgW"
-      },
-      "artists": [
-        {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
-        }
-      ],
-      "duration_ms": 257453,
-      "name": "I Wanna Get Lost With You (Acoustic 2015)",
-      "url": "https://open.spotify.com/track/1gLVsT8unGZfx1G6DGJyp2"
-    },
-    {
-      "added_at": "2023-09-20 15:37:37",
-      "album": {
         "name": "Wolfmother (10th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6TqFe1KFG3NdofscJrSPc4"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 160346,
       "name": "Vagabond - Acoustic Version",
       "url": "https://open.spotify.com/track/6HzpmmaLVHC88XQY4e0YZL"
+    },
+    {
+      "added_at": "2023-09-20 15:37:37",
+      "album": {
+        "name": "Keep the Village Alive (Deluxe)",
+        "url": "https://open.spotify.com/album/5NKgyV3NPyX3ErJCgctHgW"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "duration_ms": 257453,
+      "name": "I Wanna Get Lost With You (Acoustic 2015)",
+      "url": "https://open.spotify.com/track/1gLVsT8unGZfx1G6DGJyp2"
     },
     {
       "added_at": "2023-09-20 15:37:37",

@@ -1,12 +1,12 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 187445,
+  "num_followers": 187567,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzk5YmJlMGViM2YwMDI3YzRkOTYwZDZlZWI1MmYyNDU1ZmFiODA3",
+  "snapshot_id": "MCxhMzJmYjhhYTMxZGYzMzFjYzk3YTA0YWM0ZTViOWJiOTQ0Y2Y1ZGIx",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:21",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "Good Feeling (Radio Version)",
+        "url": "https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ"
+      },
+      "artists": [
+        {
+          "name": "Austin French",
+          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
+        }
+      ],
+      "duration_ms": 161583,
+      "name": "Good Feeling - Radio Version",
+      "url": "https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "Jireh (feat. Lloyd Nicks & Vanessa Campagna)",
         "url": "https://open.spotify.com/album/1WMZnX8mYbI7Uzu3ZXwEKy"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 225946,
       "name": "Jireh (feat. Lloyd Nicks & Vanessa Campagna)",
       "url": "https://open.spotify.com/track/71YmBl6TseDCGA1DXfudvE"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "Good Feeling (Radio Version)",
-        "url": "https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ"
-      },
-      "artists": [
-        {
-          "name": "Austin French",
-          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
-        }
-      ],
-      "duration_ms": 161583,
-      "name": "Good Feeling - Radio Version",
-      "url": "https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "Say Goodbye (Say Hello)",
+        "url": "https://open.spotify.com/album/4V63HNyGrPygSfITQolJYW"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "duration_ms": 195358,
+      "name": "Say Goodbye (Say Hello)",
+      "url": "https://open.spotify.com/track/29qRIyGVrmRiCdZpHAVNa7"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "Relying",
         "url": "https://open.spotify.com/album/7IQNM3m3vD6NkghunGuViL"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 224030,
       "name": "Relying",
       "url": "https://open.spotify.com/track/5jauoORHRVzQ5vMXFg9azL"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "Say Goodbye (Say Hello)",
-        "url": "https://open.spotify.com/album/4V63HNyGrPygSfITQolJYW"
-      },
-      "artists": [
-        {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
-        }
-      ],
-      "duration_ms": 195358,
-      "name": "Say Goodbye (Say Hello)",
-      "url": "https://open.spotify.com/track/29qRIyGVrmRiCdZpHAVNa7"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Only You Can Do It",
-        "url": "https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1"
-      },
-      "artists": [
-        {
-          "name": "Chris August",
-          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
-        }
-      ],
-      "duration_ms": 140347,
-      "name": "Only You Can Do It",
-      "url": "https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Growing Up, Pt.2",
         "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 193685,
       "name": "Good News",
       "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Only You Can Do It",
+        "url": "https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1"
+      },
+      "artists": [
+        {
+          "name": "Chris August",
+          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
+        }
+      ],
+      "duration_ms": 140347,
+      "name": "Only You Can Do It",
+      "url": "https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Friend",
-        "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
-      },
-      "artists": [
-        {
-          "name": "John Jin Han",
-          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
-        }
-      ],
-      "duration_ms": 226295,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Heart Cry",
         "url": "https://open.spotify.com/album/1mXWDLikomDEHcv5cYornP"
       },
@@ -1175,18 +1159,38 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Jump",
-        "url": "https://open.spotify.com/album/21kxczu3QQWSkJ8imKBHcH"
+        "name": "Friend",
+        "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
       },
       "artists": [
         {
-          "name": "NONAH",
-          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
+          "name": "John Jin Han",
+          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/69HLrdOQMAseHsTTmklKob"
+      "duration_ms": 226295,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Kyrie Eleison (It's Mercy We Need)",
+        "url": "https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF"
+      },
+      "artists": [
+        {
+          "name": "Elias Dummer",
+          "url": "https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi"
+        },
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 261239,
+      "name": "Kyrie Eleison (It's Mercy We Need)",
+      "url": "https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1215,18 +1219,18 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/7p5h5fCyKUSY3oiAmD0vSh"
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/21kxczu3QQWSkJ8imKBHcH"
       },
       "artists": [
         {
-          "name": "Run51",
-          "url": "https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10"
+          "name": "NONAH",
+          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
         }
       ],
-      "duration_ms": 178587,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/4vCOWKHmZGscJ4i0g9JVXg"
+      "duration_ms": 213333,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/69HLrdOQMAseHsTTmklKob"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1247,22 +1251,34 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Kyrie Eleison (It's Mercy We Need)",
-        "url": "https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF"
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/7p5h5fCyKUSY3oiAmD0vSh"
       },
       "artists": [
         {
-          "name": "Elias Dummer",
-          "url": "https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi"
-        },
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+          "name": "Run51",
+          "url": "https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10"
         }
       ],
-      "duration_ms": 261239,
-      "name": "Kyrie Eleison (It's Mercy We Need)",
-      "url": "https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl"
+      "duration_ms": 178587,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/4vCOWKHmZGscJ4i0g9JVXg"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Happy Day - Retain Remix",
+        "url": "https://open.spotify.com/album/4fBa38ySFa0gYrP5N7aZzk"
+      },
+      "artists": [
+        {
+          "name": "Retain",
+          "url": "https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF"
+        }
+      ],
+      "duration_ms": 200903,
+      "name": "Happy Day - Retain Remix",
+      "url": "https://open.spotify.com/track/4CbSxyiD3zOziagpHFszCc"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1283,22 +1299,6 @@
       "duration_ms": 162580,
       "name": "Come and Be My Love",
       "url": "https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "Happy Day - Retain Remix",
-        "url": "https://open.spotify.com/album/4fBa38ySFa0gYrP5N7aZzk"
-      },
-      "artists": [
-        {
-          "name": "Retain",
-          "url": "https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF"
-        }
-      ],
-      "duration_ms": 200903,
-      "name": "Happy Day - Retain Remix",
-      "url": "https://open.spotify.com/track/4CbSxyiD3zOziagpHFszCc"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh"
-      },
-      "artists": [
-        {
-          "name": "Equippers Revolution",
-          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
-        }
-      ],
-      "duration_ms": 204613,
-      "name": "Nothing But The Truth",
-      "url": "https://open.spotify.com/track/7trY7vybnipAG4fbm53TMT"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Tell All My Friends",
         "url": "https://open.spotify.com/album/76bktOoiugu5TovvBanrIZ"
       },
@@ -1431,6 +1415,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh"
+      },
+      "artists": [
+        {
+          "name": "Equippers Revolution",
+          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
+        }
+      ],
+      "duration_ms": 204613,
+      "name": "Nothing But The Truth",
+      "url": "https://open.spotify.com/track/7trY7vybnipAG4fbm53TMT"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "Known, Seen, Loved",
         "url": "https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn"
       },
@@ -1443,22 +1443,6 @@
       "duration_ms": 188138,
       "name": "Known, Seen, Loved",
       "url": "https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/26qSpAIvmpQFn5bgZI6uuc"
-      },
-      "artists": [
-        {
-          "name": "Soulsician",
-          "url": "https://open.spotify.com/artist/2dtqpsPMsRwt3CaiMrt0Kt"
-        }
-      ],
-      "duration_ms": 236347,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/5OfN4P2gKl36SVjbr2GUjI"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1479,6 +1463,22 @@
       "duration_ms": 195882,
       "name": "ECHO",
       "url": "https://open.spotify.com/track/5dlME4r4Bt7RqHDDyT0kdY"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/26qSpAIvmpQFn5bgZI6uuc"
+      },
+      "artists": [
+        {
+          "name": "Soulsician",
+          "url": "https://open.spotify.com/artist/2dtqpsPMsRwt3CaiMrt0Kt"
+        }
+      ],
+      "duration_ms": 236347,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/5OfN4P2gKl36SVjbr2GUjI"
     },
     {
       "added_at": "2023-02-07 17:43:21",

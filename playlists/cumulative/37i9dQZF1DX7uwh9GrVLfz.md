@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Ken Yokoyama
 
-696 songs - 1 day 13 hr 14 min
+697 songs - 1 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,6 +449,7 @@
 | [The Dream Is Not Dead](https://open.spotify.com/track/45YAIPPE3My3zoqOJJnLc8) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [DREAMS NEVER END](https://open.spotify.com/album/1YLr4saK1uW4JUk87gLqMD) | 3:23 | 2022-05-12 | 2023-06-08 |
 | [The Fighter](https://open.spotify.com/track/6xb0Dr4ACMuLH2jX8N3CKk) | [AIRFLIP](https://open.spotify.com/artist/5YrGfYzRpGFloZHiS0366z) | [RED](https://open.spotify.com/album/6U5uCCIxTZ1sJjJu2oBMoX) | 2:35 | 2022-05-19 | 2022-07-26 |
 | [The Gift](https://open.spotify.com/track/3fvPawYrM5Mz5lacbZI2US) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [THE GIFT](https://open.spotify.com/album/6tSVeeeeJkdMN6mIV4UqsD) | 2:22 | 2022-07-21 | 2023-12-09 |
+| [The Gift](https://open.spotify.com/track/4zbkeCco7LYg7hs4dSxLjR) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [THE GIFT](https://open.spotify.com/album/2vvt4IjFm6sLlipjJCB0TH) | 2:22 | 2024-01-04 |  |
 | [The Gift](https://open.spotify.com/track/7DTQOBUV8zMErJfPkf4zVr) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [THE GIFT](https://open.spotify.com/album/0X8NMXBEiGQIRSehZzsXJd) | 2:22 | 2022-05-19 | 2022-07-26 |
 | [THE NIGHT WITHOUT A STAR](https://open.spotify.com/track/5mqKM1gPH7247hZoE6Q0NR) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [EVERLASTING](https://open.spotify.com/album/4obqQshTLGtcdosdYVlx3D) | 2:56 | 2022-05-12 | 2022-07-25 |
 | [THE SOOTHING](https://open.spotify.com/track/3N56UMx9kEOzx97maRtHZY) | [POT](https://open.spotify.com/artist/1t3RYrq8bMooxAhnuBVMds) | [THE SOOTHING](https://open.spotify.com/album/2gjSsAWMvLkhZbzHayDjrs) | 2:41 | 2022-05-12 | 2022-07-14 |
@@ -553,7 +554,7 @@
 | [アンダイイングロックンロール](https://open.spotify.com/track/0CuGdMFTSacKYJuZEIzxMK) | [AIR SWELL](https://open.spotify.com/artist/0k1XY7YS3ggrZu8UeyNlUo) | [アンダイイングロックンロール](https://open.spotify.com/album/09iqf2C8Gw5JvChHnC8otU) | 2:49 | 2022-05-19 | 2022-07-28 |
 | [イエスマン](https://open.spotify.com/track/3QEjFMdEio9xXI9ovRMCMB) | [THE PERRY](https://open.spotify.com/artist/2bUj8mfwedR3OobVVLgGOx) | [イエスマン](https://open.spotify.com/album/0PmeaCohxjFdC7wyzQc8S1) | 2:54 | 2022-05-24 | 2022-07-21 |
 | [エンドロール](https://open.spotify.com/track/34leYne4zziRmoUEj82Jlc) | [東京初期衝動](https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM) | [エンドロール / コマンドバトル!](https://open.spotify.com/album/3VZI9J4WFixloKbFyuaSnF) | 4:47 | 2022-08-16 | 2022-09-15 |
-| [オトナノススメ](https://open.spotify.com/track/7L23l0zf58d4fFN4KEz903) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [オトナマイト・ダンディー](https://open.spotify.com/album/74xgGFWbafTwQkfUI5d6Av) | 4:45 | 2022-05-24 |  |
+| [オトナノススメ](https://open.spotify.com/track/7L23l0zf58d4fFN4KEz903) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [オトナマイト・ダンディー](https://open.spotify.com/album/74xgGFWbafTwQkfUI5d6Av) | 4:45 | 2022-05-24 | 2024-01-07 |
 | [オルゴール](https://open.spotify.com/track/6kB4btTmWACdBpdA73J1jE) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [遺伝子レベルのNO!!!](https://open.spotify.com/album/5I6CzPDYR0shw9mccGC8BH) | 4:11 | 2023-07-04 | 2023-07-12 |
 | [オルゴール](https://open.spotify.com/track/6tC2Ve7ZQ8ThKMeF23OdaJ) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [遺伝子レベルのNO!!!](https://open.spotify.com/album/3DBeQa3cCjFw0B4RIKarvk) | 4:11 | 2023-07-04 | 2023-07-06 |
 | [クラーク博士と僕](https://open.spotify.com/track/5Tc0JZXCvmS51vVwPyV3RJ) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [メジャーデビューというボケ](https://open.spotify.com/album/2gSRGSg2fgVMAIbgWYPDHZ) | 2:18 | 2022-05-12 |  |

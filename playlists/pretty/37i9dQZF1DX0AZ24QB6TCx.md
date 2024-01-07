@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,004 likes - 70 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,072 likes - 70 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,18 +41,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 31 | [Envy](https://open.spotify.com/track/25NOsBha9pzXG6fqGQ79W9) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Envy](https://open.spotify.com/album/60K91BZTnabLByBJejwqVS) | 4:02 |
 | 32 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 |
 | 33 | [Jump High](https://open.spotify.com/track/0MPSOPq0yWBr4jV5mCldWU) | [Holly North](https://open.spotify.com/artist/19NPr9xQ0jUnX9PpFmtl8p) | [Jump High](https://open.spotify.com/album/1DF1nmoCA1QPLfAd9klXjD) | 3:16 |
-| 34 | [This Version Of You \- Joseph Ray Remix](https://open.spotify.com/track/1oWf71EPQVlawCcygiCbMy) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [The Last Goodbye Remixes N°.2](https://open.spotify.com/album/6DKA6hXo5KPvSBGLUL1kky) | 4:11 |
+| 34 | [Tears](https://open.spotify.com/track/5KYdRygDWQcWoFeo6dOBRY) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Eastbound Silhouette](https://open.spotify.com/album/3BwTQp1wRmL4B7WkXkwvzd) | 8:47 |
 | 35 | [Movement](https://open.spotify.com/track/2eqjFIb55WVN7iYx8ixUZY) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Movement](https://open.spotify.com/album/5PgQAA0U4L0NuLLslJ9hqq) | 6:11 |
-| 36 | [Tears](https://open.spotify.com/track/5KYdRygDWQcWoFeo6dOBRY) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Eastbound Silhouette](https://open.spotify.com/album/3BwTQp1wRmL4B7WkXkwvzd) | 8:47 |
+| 36 | [This Version Of You \- Joseph Ray Remix](https://open.spotify.com/track/1oWf71EPQVlawCcygiCbMy) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [The Last Goodbye Remixes N°.2](https://open.spotify.com/album/6DKA6hXo5KPvSBGLUL1kky) | 4:11 |
 | 37 | [Graf Zahl](https://open.spotify.com/track/33R7eq2Yqrhjz7eP6XhCsy) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Graf Zahl](https://open.spotify.com/album/4q2KNOVojE0HcBNrjdk8RW) | 5:32 |
 | 38 | [The Center Will Not Hold](https://open.spotify.com/track/6bWj1Lr2CVhwzshkp42As8) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Nobody Is Not Loved](https://open.spotify.com/album/5ZSutAkOkxqNok6aFCqafk) | 3:50 |
-| 39 | [Spectrum](https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Unspoken Words](https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk) | 4:45 |
-| 40 | [Let You In \(feat\. East Forest\)](https://open.spotify.com/track/2weK6bsvMtRaYWydEnMhfw) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Let You In \(feat\. East Forest\)](https://open.spotify.com/album/5HxnTLT7UjQ2DQxtaYqG1T) | 5:56 |
+| 39 | [Let You In \(feat\. East Forest\)](https://open.spotify.com/track/2weK6bsvMtRaYWydEnMhfw) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Let You In \(feat\. East Forest\)](https://open.spotify.com/album/5HxnTLT7UjQ2DQxtaYqG1T) | 5:56 |
+| 40 | [Spectrum](https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Unspoken Words](https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk) | 4:45 |
 | 41 | [Les Orangers](https://open.spotify.com/track/0aEwYyCvLEMNWmc7u0vqHp) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Les Orangers](https://open.spotify.com/album/4rGdiQW6mqpCwKYD885Dmk) | 6:42 |
-| 42 | [Don't Let Go](https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Don't Let Go](https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga) | 4:29 |
-| 43 | [Vanished](https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2) | [Ceas](https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM) | [Vanished](https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI) | 5:56 |
-| 44 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 |
-| 45 | [Copal](https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Copal](https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn) | 6:04 |
+| 42 | [Vanished](https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2) | [Ceas](https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM) | [Vanished](https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI) | 5:56 |
+| 43 | [Don't Let Go](https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Don't Let Go](https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga) | 4:29 |
+| 44 | [Copal](https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Copal](https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn) | 6:04 |
+| 45 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 |
 | 46 | [Outside](https://open.spotify.com/track/3UaFSJ0Oycs0SVSEWgfGqO) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Outside](https://open.spotify.com/album/1sJDL3FIePJVTbHo2ffJ17) | 3:58 |
 | 47 | [Marabelle](https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g) | 4:12 |
 | 48 | [Rosewood](https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Rosewood](https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj) | 4:02 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 65 | [Rio Secreto](https://open.spotify.com/track/7MXu9rAQDign2nhEVp5tbL) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Rio Secreto](https://open.spotify.com/album/6OZ8EuKS1bqv4W709VRak4) | 6:14 |
 | 66 | [Firmoral](https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ) | [Polar Inc.](https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI) | [Purified Fragments Vi](https://open.spotify.com/album/7zy8P6zIkCeX5dEBwbNTGJ) | 3:48 |
 | 67 | [Far Behind \- Jeremy Olander Remix](https://open.spotify.com/track/59GHYFeuqYdp6KX8HAvEAi) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [A Radiant Sign \(Remixed\)](https://open.spotify.com/album/5gWPZTg4FHp9yi7uXjDGgM) | 3:47 |
-| 68 | [Laika.](https://open.spotify.com/track/3EA4UHJwQhkGDEoESpz0px) | [Montee](https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG), [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Laika.](https://open.spotify.com/album/67BUFgh99F0rfnZOKrxPSP) | 3:00 |
-| 69 | [Eolian](https://open.spotify.com/track/5HTHygByKpqhVYIFLXBx0D) | [Xande \(IT\)](https://open.spotify.com/artist/13HuSRmBchb6XxM5M0lJU8), [Latteo](https://open.spotify.com/artist/4IQLm7ZNKGlw7AaV7okjKv) | [Eolian](https://open.spotify.com/album/3JaX0K75UU23Kb4A3lrH87) | 6:21 |
+| 68 | [Eolian](https://open.spotify.com/track/5HTHygByKpqhVYIFLXBx0D) | [Xande \(IT\)](https://open.spotify.com/artist/13HuSRmBchb6XxM5M0lJU8), [Latteo](https://open.spotify.com/artist/4IQLm7ZNKGlw7AaV7okjKv) | [Eolian](https://open.spotify.com/album/3JaX0K75UU23Kb4A3lrH87) | 6:21 |
+| 69 | [Laika.](https://open.spotify.com/track/3EA4UHJwQhkGDEoESpz0px) | [Montee](https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG), [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Laika.](https://open.spotify.com/album/67BUFgh99F0rfnZOKrxPSP) | 3:00 |
 | 70 | [Madman](https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Madman](https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a) | 7:28 |
 
-Snapshot ID: `MCxhZjUzNTg4YmMxYzE5NWQ1NjczZmNjMTA0ZmVjNDM5OTViMTQxYWU0`
+Snapshot ID: `MCxlMGY3ODlhNDVhNWZmMDg1MzZmMWFlNjA4MmViZjM2OWQ3MWE0ODNk`

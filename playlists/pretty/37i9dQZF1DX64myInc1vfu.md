@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 
 > The new bolero era\. Los boleritos de hoy, just for you\. Cover: Kali Uchis
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,557 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,610 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 46 | [Me Vas a Hacer Falta](https://open.spotify.com/track/6eEnycLcdQWSkgg12wjN4o) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 4:00 |
 | 47 | [Tu Camisa](https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Shantty](https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd) | [Tu Camisa](https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV) | 3:08 |
 | 48 | [Duele](https://open.spotify.com/track/5IgAMrxJSs0IpSE3R7oRln) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Duele](https://open.spotify.com/album/2PuqtGQoJqhXo5AubtfoOx) | 3:33 |
-| 49 | [Enemigo \(Acústico\)](https://open.spotify.com/track/5ReKPDlqRp0pgBr85cW2pp) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Enemigo \(Acústico\)](https://open.spotify.com/album/6qH6zmf1sKAlpIWQNi88VB) | 4:02 |
-| 50 | [Como Fue](https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Amores Ajenos](https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT) | 2:42 |
-| 51 | [Veracruz](https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Un Canto por México, Vol\. 1](https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE) | 4:03 |
-| 52 | [Piensa en Mí](https://open.spotify.com/track/3hsjRehwhcsQ2EDKAOpN2J) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Piensa en Mí](https://open.spotify.com/album/4ddWFYjLKfIUfoEEVR9Vxt) | 3:46 |
+| 49 | [Piensa en Mí](https://open.spotify.com/track/3hsjRehwhcsQ2EDKAOpN2J) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Piensa en Mí](https://open.spotify.com/album/4ddWFYjLKfIUfoEEVR9Vxt) | 3:46 |
+| 50 | [Enemigo \(Acústico\)](https://open.spotify.com/track/5ReKPDlqRp0pgBr85cW2pp) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Enemigo \(Acústico\)](https://open.spotify.com/album/6qH6zmf1sKAlpIWQNi88VB) | 4:02 |
+| 51 | [Como Fue](https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Amores Ajenos](https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT) | 2:42 |
+| 52 | [Veracruz](https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Un Canto por México, Vol\. 1](https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE) | 4:03 |
 | 53 | [traguito](https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [traguito](https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB) | 3:56 |
 | 54 | [¿Quién Se Va?](https://open.spotify.com/track/58VZU1ToHakVT9RxtTsUns) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [¿Quién Se Va?](https://open.spotify.com/album/6A0s3zsUdYyn4kdeFpTsed) | 3:07 |
 | 55 | [Ojos de Serpiente](https://open.spotify.com/track/4SutBECg5t8YqY1hz8SbwX) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Ojos de Serpiente](https://open.spotify.com/album/2aGMr5JwOn5wMRFn4wWSwt) | 2:51 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 59 | [Amor En Cuarentena](https://open.spotify.com/track/2siIxRukc4AFw9rxeE9La8) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Amor En Cuarentena](https://open.spotify.com/album/0NDsxPkfntANuEyF5NpMHW) | 2:45 |
 | 60 | [Tengo Algo Que Decirte](https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Tengo Algo Que Decirte](https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A) | 3:26 |
 
-Snapshot ID: `MCxkMDVmNTZlYjNlNmQzMWQzOGY0NjhkNThhYTZjNDZjYTUxOGNhMTRi`
+Snapshot ID: `MCwxMTU5MGNiZDc2MzEzNDk1YjRmYzFjN2RlMWY4NGRiNTcxYjA5Yzdm`

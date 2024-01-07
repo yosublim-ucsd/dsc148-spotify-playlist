@@ -4,7 +4,7 @@
 
 > This is Grupo Frontera\. The essential tracks, all in one playlist.
 
-48 songs - 2 hr 27 min
+49 songs - 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [LE VA DOLER](https://open.spotify.com/track/41sTEjHxztd0AwF7Dn0HJe) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:33 | 2023-12-13 |  |
 | [LE VA DOLER](https://open.spotify.com/track/5dDN8h9dqErwnc88uyKq1b) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [LE VA DOLER](https://open.spotify.com/album/5MjazAGZr2K4t22z3sqyy7) | 2:33 | 2023-05-27 | 2023-12-14 |
 | [Mas Que Amigos \- En Vivo](https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:07 | 2023-03-10 |  |
-| [ME GUSTAS](https://open.spotify.com/track/3asg0JPGx2OKqor5jhZXT8) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:33 | 2023-09-15 |  |
+| [ME GUSTAS](https://open.spotify.com/track/3asg0JPGx2OKqor5jhZXT8) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:33 | 2023-09-15 | 2024-01-07 |
 | [ME GUSTAS](https://open.spotify.com/track/6at0Z3uwhUEP0EJeqqN7fz) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 2:33 | 2023-08-04 | 2023-09-16 |
 | [Me gustas \- En vivo](https://open.spotify.com/track/6N4zfmOVZfMDddZDCRjmca) | [Israel Morales](https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Me gustas \(En Vivo\)](https://open.spotify.com/album/2ZTFSE5lFqFYrlHZOiwiL1) | 3:04 | 2023-03-10 |  |
 | [Necesito Decirte](https://open.spotify.com/track/5APm7ovr3mZBAEtJlF8pbY) | [Profugos De Nuevo Leon](https://open.spotify.com/artist/6xCiFhON3LPyvwIGvAGnwp), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Necesito Decirte](https://open.spotify.com/album/1mbKbybVA8gxjLnEHs8HjV) | 3:27 | 2023-11-10 |  |
@@ -47,7 +47,8 @@
 | [No Se Va \- EN VIVO](https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va \(EN VIVO\)](https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3) | 3:14 | 2023-03-10 | 2023-11-11 |
 | [No Te Arrepentiras](https://open.spotify.com/track/0R3MdJp3YRyR3qraSC8Jt9) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Te Arrepentiras](https://open.spotify.com/album/0bpKm54QKivDK520VlRjpl) | 2:47 | 2023-03-10 |  |
 | [OJITOS ROJOS](https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [OJITOS ROJOS](https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV) | 3:41 | 2023-07-22 |  |
-| [Que Vuelvas](https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Que Vuelvas](https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j) | 2:49 | 2023-03-10 |  |
+| [Que Vuelvas](https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Que Vuelvas](https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j) | 2:49 | 2023-03-10 | 2024-01-07 |
+| [QUE VUELVAS](https://open.spotify.com/track/5HR7yfhSCeoOHRQN05XnZQ) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:49 | 2024-01-06 |  |
 | [Quedate Conmigo](https://open.spotify.com/track/2lqHosXoRrzxh42th6Mi7a) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 2:40 | 2023-04-29 |  |
 | [Si Yo Fuera Ladrón](https://open.spotify.com/track/17PlPQ6pWfjvA77V0UHfhV) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Profugos De Nuevo Leon](https://open.spotify.com/artist/6xCiFhON3LPyvwIGvAGnwp) | [Si Yo Fuera Ladrón](https://open.spotify.com/album/0uzre43qEP2l9n0QkxF2OV) | 2:59 | 2023-03-10 |  |
 | [Super Poderes](https://open.spotify.com/track/5rAOIlEChbdFyrFEEcDqAX) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Secretto](https://open.spotify.com/artist/6SHAWeSDnokcCA2XhPNgHh) | [Super Poderes](https://open.spotify.com/album/47Kif0U9Uen1422h9tSkAM) | 2:53 | 2023-03-10 |  |

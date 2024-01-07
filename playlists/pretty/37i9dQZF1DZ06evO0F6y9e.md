@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 
 > This is Grupo Firme\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,794 likes - 51 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 933,058 likes - 51 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 50 | [Entre Botellas](https://open.spotify.com/track/5cwSbUPG0HoiaAyuGV5tgS) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Entre Botellas](https://open.spotify.com/album/2H0L8qCkkKasqEVdVEbhKs) | 3:28 |
 | 51 | [Porque Te Quiero \(Feat\. Luis Alfonso Partida "El Yaki"\)](https://open.spotify.com/track/5i4mvYSt8A5tAd1X8wb97g) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Porque Te Quiero](https://open.spotify.com/album/6OXFXRIMRCHKyUOaujFwbo) | 3:49 |
 
-Snapshot ID: `Mjg0MDc3MDMsMDAwMDAwMDAwNDFjMmUwMGY5NWZjOWJlMWI4ZTc1OTViZDljYzkyMQ==`
+Snapshot ID: `Mjg0MDkwNTYsMDAwMDAwMDBlODY3NGMzYmFkZmMwNGU1ZDFmYzY0ZTg4N2Q4Zjk1NQ==`

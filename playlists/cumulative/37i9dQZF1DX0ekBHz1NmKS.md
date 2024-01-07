@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-900 songs - 1 day 23 hr 28 min
+902 songs - 1 day 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [aura](https://open.spotify.com/track/7A63dexDM5NCXlICgq8RUc) | [Josef Slunge](https://open.spotify.com/artist/1CcUIkJudKxfk8SZMLL1sd) | [ikväll, inatt, men aldrig imorgon](https://open.spotify.com/album/2iHZ5X0FRetrOOK6A97G9N) | 2:52 | 2023-02-23 | 2023-04-07 |
 | [Autopilot](https://open.spotify.com/track/0JOY8MuzpGRFteDGsRVLkK) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Autopilot](https://open.spotify.com/album/42YP4aQ1sTjUZm54n5pRUI) | 2:51 | 2023-02-16 | 2023-07-23 |
 | [Avundsjuk på regnet](https://open.spotify.com/track/08jUQzPgECVJW9eQDHOiz7) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [PS jag hatar dig](https://open.spotify.com/album/0JUcDAaiv4ssfLlNdAufBs) | 2:42 | 2021-12-16 | 2022-09-16 |
-| [Awkward](https://open.spotify.com/track/1DwFRzuCCcU7iogXAieS6V) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hey mom, don’t worry I’m fine](https://open.spotify.com/album/6zclTvnQt7riaa8pLl99Ba) | 2:33 | 2023-10-26 |  |
+| [Awkward](https://open.spotify.com/track/1DwFRzuCCcU7iogXAieS6V) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hey mom, don’t worry I’m fine](https://open.spotify.com/album/6zclTvnQt7riaa8pLl99Ba) | 2:33 | 2023-10-26 | 2024-01-07 |
 | [Baby Blue](https://open.spotify.com/track/3MJSu8SbYVcRRfi5faaMQd) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Baby Blue](https://open.spotify.com/album/4rflFIW66KafmJSRgEkc4n) | 2:54 | 2022-04-01 | 2022-04-21 |
 | [Bad One](https://open.spotify.com/track/2AVgZLXMqkvi2hsQA1VJn2) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka) | [Bad One](https://open.spotify.com/album/5TLnEbj28pHxKrIJvdCx3b) | 2:41 | 2023-06-22 | 2023-08-10 |
 | [Bad One](https://open.spotify.com/track/2ZVnrtfMCCH6o7Y3I3NERb) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka) | [Bad One](https://open.spotify.com/album/29rnoj33seM0P8qgSQjVHW) | 2:41 | 2023-03-23 | 2023-06-03 |
@@ -158,6 +158,7 @@
 | [Dead To Me](https://open.spotify.com/track/46NwQ3pZcIJdBL3Oh7R6D3) | [Jackie Mere](https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p) | [Valentino](https://open.spotify.com/album/2HAQenAv2djFjcu5Qpv1GD) | 3:19 | 2023-10-19 | 2023-11-17 |
 | [Dear Havanna](https://open.spotify.com/track/1Sd8I2aucIUkPHja16CDu1) | [Jill Johnson](https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw), [Havanna Werner Johnson](https://open.spotify.com/artist/5Jv214x15UoVfHMo4LIpLU) | [Dear Havanna](https://open.spotify.com/album/10OeMzAgC6XD8qTAqtxrEb) | 2:57 | 2021-12-16 | 2022-03-31 |
 | [Death Of Me](https://open.spotify.com/track/5OLWoMycnrKMQIB5g6hjZw) | [Lance & Linton](https://open.spotify.com/artist/6M3rUPqXzEcBsKFl0f9q8c) | [Death Of Me](https://open.spotify.com/album/4Jv7YmMG9g5NyzUgQJzFSS) | 3:23 | 2021-12-16 | 2022-03-07 |
+| [Death of Me](https://open.spotify.com/track/1AgjsphQSNEEMj3DokN5wX) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:13 | 2024-01-04 |  |
 | [December](https://open.spotify.com/track/25ttMdXx0DuAR2p6myYlF9) | [Anders Robert](https://open.spotify.com/artist/3ORm1UuQlm3AsbEtV4Lmte) | [December](https://open.spotify.com/album/3PwH45P3rTlpCJL6ArAyKC) | 3:03 | 2023-11-03 |  |
 | [Deep Down \- From the Film ‘Avgrunden’](https://open.spotify.com/track/2WceL6NsGULw1kZb3hGR0y) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Deep Down \(From the Film ‘Avgrunden’\)](https://open.spotify.com/album/0x5GZNE8nfCVKa5UhPwq1u) | 2:47 | 2023-09-14 |  |
 | [Den här gången är det på riktigt](https://open.spotify.com/track/1bYVmrLMimVUcFa1dzeZE4) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Poetiska försök](https://open.spotify.com/album/0DYbe7sRI3D12rwIMqlyGu) | 4:16 | 2023-09-08 | 2023-10-06 |
@@ -513,7 +514,7 @@
 | [Mildest High](https://open.spotify.com/track/6YCe7aJVBWDEkJklrjVwmy) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Mildest High](https://open.spotify.com/album/5V7zY5PJ0sl5hgT7Jow9pQ) | 3:03 | 2022-06-23 | 2022-07-23 |
 | [Minimum](https://open.spotify.com/track/4JkY9nv1oRlj9OYfOlOVna) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Minimum](https://open.spotify.com/album/7ntbKzzrRi4jgxNoPCKMjb) | 2:13 | 2024-01-04 |  |
 | [Minnet Av Ett Hav](https://open.spotify.com/track/17xpeHftsvBZRt9OYfNZ00) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Minnet Av Ett Hav](https://open.spotify.com/album/7KWH3xa5MMcXvqW4CgnxMd) | 3:46 | 2021-12-16 | 2022-04-02 |
-| [Misemotional](https://open.spotify.com/track/02veTwzG1FDUKtcFzpC9mJ) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Misemotional](https://open.spotify.com/album/0EtJROuWrnhxRTm1EjH9RK) | 3:34 | 2023-10-19 |  |
+| [Misemotional](https://open.spotify.com/track/02veTwzG1FDUKtcFzpC9mJ) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Misemotional](https://open.spotify.com/album/0EtJROuWrnhxRTm1EjH9RK) | 3:34 | 2023-10-19 | 2024-01-07 |
 | [Miss The Party](https://open.spotify.com/track/1u70gXN0eulrXoeZEiIXyv) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu), [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Learning Experience](https://open.spotify.com/album/2oFo9ugJ7G6jRAGh1uX3Wp) | 3:12 | 2022-04-07 | 2023-05-08 |
 | [Missing you](https://open.spotify.com/track/3uUk6gJUmXKjO4m7igBk3X) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Missing you](https://open.spotify.com/album/2X2E6TWZTDGTsWeCJ3NFvn) | 2:06 | 2023-11-16 |  |
 | [Missing You Sucks](https://open.spotify.com/track/57zslQlwkYyVqErssPWDvA) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Missing You Sucks](https://open.spotify.com/album/4MPVizOXoqdsmdxdFxY0dv) | 2:58 | 2022-02-05 | 2022-04-02 |
@@ -825,6 +826,7 @@
 | [Tärning](https://open.spotify.com/track/2srEdr47X3EzfCrKLM6qWe) | [Lisa Howard](https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm) | [Tärning](https://open.spotify.com/album/7mVP1swmqaWsaTOuWG3268) | 3:46 | 2022-02-13 | 2022-05-13 |
 | [Undantag](https://open.spotify.com/track/5TCPwtupzb4cl3id4AjQ9b) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Dina Ögon](https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF) | 3:58 | 2023-04-01 | 2023-10-20 |
 | [Under någon ny](https://open.spotify.com/track/2eOLvT5HNiHZQb4BTSiwQl) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ), [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Under någon ny](https://open.spotify.com/album/35VHFKVhL4H8Zd4rPRYHjA) | 4:07 | 2023-02-09 | 2023-10-06 |
+| [Unnskyld, förlåt](https://open.spotify.com/track/6ebiZ791hh3KPSw8TcCPK7) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7), [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Unnskyld, förlåt](https://open.spotify.com/album/4apzOYKZx2D4jnusHPf4C0) | 2:47 | 2024-01-04 |  |
 | [Used To](https://open.spotify.com/track/70QyATpmT1mt7JMeDzrInv) | [Hogland](https://open.spotify.com/artist/5s21IKPvmxRf9WxpO8H5UB), [EEVA](https://open.spotify.com/artist/1pJgpp0DoZYerUf0SkeZuG) | [Used To](https://open.spotify.com/album/4a2Zs2yPLfNY1tg4zHZKnU) | 2:32 | 2022-03-10 | 2022-09-16 |
 | [Ut med allt](https://open.spotify.com/track/7Ek3bY3DecGbIaRKo7aQVQ) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Ut med allt](https://open.spotify.com/album/3j4hIguJ9ftVQI6J4ZUGSE) | 2:21 | 2022-04-07 | 2023-10-06 |
 | [Vacay](https://open.spotify.com/track/4j5Wacxdpt9lIVJTx1g9QE) | [demekech](https://open.spotify.com/artist/1N6JyEBD4tbmqfLkXPP93l) | [call dad](https://open.spotify.com/album/5tf1pWgqK4PTvkH1B4xynA) | 4:18 | 2022-03-24 | 2022-04-20 |

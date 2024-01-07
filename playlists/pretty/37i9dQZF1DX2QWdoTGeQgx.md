@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 
 > wo hen lei \(i'm very tired\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,128 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,143 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 51 | [Kotak Hati](https://open.spotify.com/track/0hS54SC4TZFc3N7cSuTz48) | [Hujan](https://open.spotify.com/artist/7FxVB5xQi2szfC6Us1ag9A) | [Lonely Soldier Boy](https://open.spotify.com/album/0iSpXXAw1Sm4RCvjNOKdUL) | 4:52 |
 | 52 | [dear me,](https://open.spotify.com/track/7aGaP4VJ1WOAIL7QlEl1pA) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [dear me,](https://open.spotify.com/album/1wsaqmb8RGkDS3bP5uOfcl) | 2:45 |
 | 53 | [honeymoon](https://open.spotify.com/track/2cAJkVpApCQuM6fYvioE9M) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [honeymoon](https://open.spotify.com/album/3DbKNfUxDKZyVDslnCs6rJ) | 2:47 |
-| 54 | [grateful](https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 4:01 |
+| 54 | [grateful](https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 4:01 |
 | 55 | [Old Love \(Stripped\)](https://open.spotify.com/track/6WMbbSonBub9Rlv64hG6aH) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [putri dahlia](https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g) | [Old Love \(Stripped\)](https://open.spotify.com/album/3PZ2XdG3dVMamV6E7Dr1KU) | 4:20 |
 | 56 | [Give Me Your Forever \(ft\. Billkin\)](https://open.spotify.com/track/7g3ryXLtXExZ0OFCj17Ae1) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Give Me Your Forever](https://open.spotify.com/album/38BPy1OGJ1aX8IYvveN3hv) | 4:04 |
 | 57 | [solo](https://open.spotify.com/track/28WoBIA4EDVvxiraTv2KZ2) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:03 |
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 59 | [Losing Game](https://open.spotify.com/track/2SXQSKKWv0lCx19Rzu555Q) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Losing Game](https://open.spotify.com/album/6Y5duGqNJhcuwQ4Rl79HgQ) | 2:31 |
 | 60 | [Like All My Friends](https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Like All My Friends](https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq) | 3:07 |
 | 61 | [tired](https://open.spotify.com/track/55fNfPGUBeRWSvSStXU2b9) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3) | [tired](https://open.spotify.com/album/6NIR1zEyjL76C1aiyOWPLA) | 2:24 |
-| 62 | [Good In Me](https://open.spotify.com/track/1JuUVeHRjVl081qqccxySe) | [Bones & The Boy](https://open.spotify.com/artist/0AF2gJIJJdCVC4nNRcYI9B), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [Yung Lee Records](https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw) | [Good In Me](https://open.spotify.com/album/7kRF85QX88b5aPkxE2jbRX) | 2:28 |
-| 63 | [Bad Haircut \(feat\. JVKE\)](https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [oh to be in love](https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9) | 3:42 |
+| 62 | [Bad Haircut \(feat\. JVKE\)](https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [oh to be in love](https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9) | 3:42 |
+| 63 | [Good In Me](https://open.spotify.com/track/1JuUVeHRjVl081qqccxySe) | [Bones & The Boy](https://open.spotify.com/artist/0AF2gJIJJdCVC4nNRcYI9B), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [Yung Lee Records](https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw) | [Good In Me](https://open.spotify.com/album/7kRF85QX88b5aPkxE2jbRX) | 2:28 |
 | 64 | [Bedroom \(feat\. Anne\-Marie\)](https://open.spotify.com/track/2TkAUHBaCReXruGnMVPGNL) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Bedroom \(feat\. Anne\-Marie\)](https://open.spotify.com/album/2oF2nQnJr8Fg43g2oo68uX) | 3:23 |
 | 65 | [my only](https://open.spotify.com/track/15T6FzdI9TMOwKA0iTO44O) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [my only](https://open.spotify.com/album/77THIeUyd2AAlIt6WKryGu) | 2:53 |
-| 66 | [UNREQUITED](https://open.spotify.com/track/2fTu2cGWAlpNmGDir37308) | [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS) | [GEMINI](https://open.spotify.com/album/52oE4nDKCn2ib916I5RzZW) | 2:55 |
-| 67 | [Daylight](https://open.spotify.com/track/2fVCdsocTsk2pK523chtmt) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds), [NYK](https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx) | [Daylight](https://open.spotify.com/album/5NiFZPXmZQOndW22qF6QP4) | 3:59 |
+| 66 | [Daylight](https://open.spotify.com/track/2fVCdsocTsk2pK523chtmt) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds), [NYK](https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx) | [Daylight](https://open.spotify.com/album/5NiFZPXmZQOndW22qF6QP4) | 3:59 |
+| 67 | [UNREQUITED](https://open.spotify.com/track/2fTu2cGWAlpNmGDir37308) | [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS) | [GEMINI](https://open.spotify.com/album/52oE4nDKCn2ib916I5RzZW) | 2:55 |
 | 68 | [Killer](https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Killer](https://open.spotify.com/album/1PAYLLRK9lMJQVZlWpPkjr) | 3:18 |
 | 69 | [It's You \(feat\. Kaleb J\)](https://open.spotify.com/track/22BcVWiiiXzcANH97LbwKi) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5), [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [It's You \(feat\. Kaleb J\)](https://open.spotify.com/album/11VkZvAqWd1FBjo4NVxoMa) | 4:29 |
 | 70 | [Hostage](https://open.spotify.com/track/1DYqJtsqLYXCKh7CIgZ4bG) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [Hostage](https://open.spotify.com/album/4025C1FxZ4AyhxOD6TMpxh) | 3:09 |
 
-Snapshot ID: `MCw1OTU0OTYwZTkwNzUyOGY0YTM4YThhN2RiZjgyNzcwNzgzYmEyYzgz`
+Snapshot ID: `MCw5ODg3Y2MyYzE3ODQ5ZGMxNjQ4NThiMDA1OGVhMTdjYTk2OTA2YzVl`

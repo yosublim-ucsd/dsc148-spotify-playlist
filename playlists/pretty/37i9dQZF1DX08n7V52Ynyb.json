@@ -1,12 +1,12 @@
 {
   "description": "Soft and smooth vocal Jazz to help you relax and unwind.",
-  "num_followers": 42643,
+  "num_followers": 42714,
   "original_name": "Relaxing Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDlmYzU1ODNkZDJhNjlkMWNkNjExYmU4MGVkODE3NWNkZjBiNmFl",
+  "snapshot_id": "MCwxZjc4NjBjY2Y1ZDNkMWQ1YjA5Y2Q3OTQwMTdkNDU0YzIxNWE2OTYz",
   "tracks": [
     {
       "added_at": "2023-12-20 12:14:05",
@@ -203,6 +203,22 @@
     {
       "added_at": "2023-12-20 12:14:05",
       "album": {
+        "name": "When Harry Met Sally... Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 230493,
+      "name": "Where or When",
+      "url": "https://open.spotify.com/track/1rHik9ppPQRXSSu1oUr4bR"
+    },
+    {
+      "added_at": "2023-12-20 12:14:05",
+      "album": {
         "name": "Musa",
         "url": "https://open.spotify.com/album/5jeSkpB4Ntk9q3mt6eNCY0"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 181923,
       "name": "The Sweetest Sounds",
       "url": "https://open.spotify.com/track/6RU16zKipfEnU5qENAxvBK"
-    },
-    {
-      "added_at": "2023-12-20 12:14:05",
-      "album": {
-        "name": "When Harry Met Sally... Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 230493,
-      "name": "Where or When",
-      "url": "https://open.spotify.com/track/1rHik9ppPQRXSSu1oUr4bR"
     },
     {
       "added_at": "2023-12-20 12:14:05",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-12-20 12:14:05",
       "album": {
-        "name": "I Only Have Eyes For You",
-        "url": "https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF"
-      },
-      "artists": [
-        {
-          "name": "Chris Weeks",
-          "url": "https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO"
-        }
-      ],
-      "duration_ms": 250745,
-      "name": "I Only Have Eyes For You",
-      "url": "https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo"
-    },
-    {
-      "added_at": "2023-12-20 12:14:05",
-      "album": {
         "name": "Meshuga Baby",
         "url": "https://open.spotify.com/album/5z86H0ClvGTNehrhbmqiDx"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 264751,
       "name": "Makin' Whoopee",
       "url": "https://open.spotify.com/track/04rcEAa4UW7Wn8fRwIEWZt"
+    },
+    {
+      "added_at": "2023-12-20 12:14:05",
+      "album": {
+        "name": "I Only Have Eyes For You",
+        "url": "https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF"
+      },
+      "artists": [
+        {
+          "name": "Chris Weeks",
+          "url": "https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO"
+        }
+      ],
+      "duration_ms": 250745,
+      "name": "I Only Have Eyes For You",
+      "url": "https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo"
     },
     {
       "added_at": "2023-12-20 12:14:05",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-12-20 12:14:05",
       "album": {
-        "name": "Easy Come, Easy Go Blues",
-        "url": "https://open.spotify.com/album/3jF1HHLzYTcKf7YTOAB7gp"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        }
-      ],
-      "duration_ms": 152654,
-      "name": "Easy Come, Easy Go Blues",
-      "url": "https://open.spotify.com/track/1710r4hqXR33zvno2TtqFV"
-    },
-    {
-      "added_at": "2023-12-20 12:14:05",
-      "album": {
         "name": "The Moon and the Sky",
         "url": "https://open.spotify.com/album/0wkPvLKjh3RW3UGCVkvpYk"
       },
@@ -499,22 +483,6 @@
       "duration_ms": 202000,
       "name": "The Moon and the Sky",
       "url": "https://open.spotify.com/track/3QDJUXE2dOArmBxRs5fOxf"
-    },
-    {
-      "added_at": "2023-12-20 12:14:05",
-      "album": {
-        "name": "This Bitter Earth",
-        "url": "https://open.spotify.com/album/46Kn3u0Fzlvo1Zmba26EB7"
-      },
-      "artists": [
-        {
-          "name": "Veronica Swift",
-          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
-        }
-      ],
-      "duration_ms": 290119,
-      "name": "The Man I Love",
-      "url": "https://open.spotify.com/track/5ZjbzXgHWwyYB6rotYuP01"
     },
     {
       "added_at": "2023-12-20 12:14:05",
@@ -543,6 +511,38 @@
       "duration_ms": 245063,
       "name": "What'll I Do",
       "url": "https://open.spotify.com/track/3XKJb8TvplQ7iZcr4dfA2J"
+    },
+    {
+      "added_at": "2023-12-20 12:14:05",
+      "album": {
+        "name": "Easy Come, Easy Go Blues",
+        "url": "https://open.spotify.com/album/3jF1HHLzYTcKf7YTOAB7gp"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "duration_ms": 152654,
+      "name": "Easy Come, Easy Go Blues",
+      "url": "https://open.spotify.com/track/1710r4hqXR33zvno2TtqFV"
+    },
+    {
+      "added_at": "2023-12-20 12:14:05",
+      "album": {
+        "name": "This Bitter Earth",
+        "url": "https://open.spotify.com/album/46Kn3u0Fzlvo1Zmba26EB7"
+      },
+      "artists": [
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+        }
+      ],
+      "duration_ms": 290119,
+      "name": "The Man I Love",
+      "url": "https://open.spotify.com/track/5ZjbzXgHWwyYB6rotYuP01"
     },
     {
       "added_at": "2023-12-20 12:14:05",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-12-20 12:14:05",
       "album": {
+        "name": "Every Star Above",
+        "url": "https://open.spotify.com/album/3XQQdLH50xIKm7uCDbUxRo"
+      },
+      "artists": [
+        {
+          "name": "Mandy Barnett",
+          "url": "https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO"
+        }
+      ],
+      "duration_ms": 173360,
+      "name": "For All We Know",
+      "url": "https://open.spotify.com/track/6hg5wTCoUfUW8YBWThmpsK"
+    },
+    {
+      "added_at": "2023-12-20 12:14:05",
+      "album": {
         "name": "The Complete Ella And Louis On Verve",
         "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
       },
@@ -679,18 +695,18 @@
     {
       "added_at": "2023-12-20 12:14:05",
       "album": {
-        "name": "Every Star Above",
-        "url": "https://open.spotify.com/album/3XQQdLH50xIKm7uCDbUxRo"
+        "name": "Lonely House",
+        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
       },
       "artists": [
         {
-          "name": "Mandy Barnett",
-          "url": "https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO"
+          "name": "Lucy Yeghiazaryan",
+          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
         }
       ],
-      "duration_ms": 173360,
-      "name": "For All We Know",
-      "url": "https://open.spotify.com/track/6hg5wTCoUfUW8YBWThmpsK"
+      "duration_ms": 211664,
+      "name": "There's a Lull in My Life",
+      "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
     },
     {
       "added_at": "2023-12-20 12:14:05",
@@ -707,22 +723,6 @@
       "duration_ms": 403429,
       "name": "Confession / The Other Woman",
       "url": "https://open.spotify.com/track/1dl1TuvLNpZKhU0tmEtIUz"
-    },
-    {
-      "added_at": "2023-12-20 12:14:05",
-      "album": {
-        "name": "Lonely House",
-        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
-      },
-      "artists": [
-        {
-          "name": "Lucy Yeghiazaryan",
-          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
-        }
-      ],
-      "duration_ms": 211664,
-      "name": "There's a Lull in My Life",
-      "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
     },
     {
       "added_at": "2023-12-20 12:14:05",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-12-20 12:14:05",
       "album": {
-        "name": "My Mood Is You",
-        "url": "https://open.spotify.com/album/6Eqi72QvWARDyhff3pQbqY"
-      },
-      "artists": [
-        {
-          "name": "Freddy Cole",
-          "url": "https://open.spotify.com/artist/2OsXkNVomm1hFGrdfBm0ZK"
-        }
-      ],
-      "duration_ms": 345821,
-      "name": "My Mood Is You",
-      "url": "https://open.spotify.com/track/17kume3IjetNXGJlsrs3HE"
-    },
-    {
-      "added_at": "2023-12-20 12:14:05",
-      "album": {
         "name": "Alfie",
         "url": "https://open.spotify.com/album/6QJsii8JfWE1bUHQnEd2jj"
       },
@@ -979,6 +963,22 @@
     {
       "added_at": "2023-12-20 12:14:05",
       "album": {
+        "name": "My Mood Is You",
+        "url": "https://open.spotify.com/album/6Eqi72QvWARDyhff3pQbqY"
+      },
+      "artists": [
+        {
+          "name": "Freddy Cole",
+          "url": "https://open.spotify.com/artist/2OsXkNVomm1hFGrdfBm0ZK"
+        }
+      ],
+      "duration_ms": 345821,
+      "name": "My Mood Is You",
+      "url": "https://open.spotify.com/track/17kume3IjetNXGJlsrs3HE"
+    },
+    {
+      "added_at": "2023-12-20 12:14:05",
+      "album": {
         "name": "The Women Who Raised Me",
         "url": "https://open.spotify.com/album/2g6J9bq2p9cRxMoBEldSEF"
       },
@@ -991,6 +991,22 @@
       "duration_ms": 216274,
       "name": "The Nearness Of You",
       "url": "https://open.spotify.com/track/5aCK19OZrLt5chyuYDY7mq"
+    },
+    {
+      "added_at": "2023-12-20 12:14:05",
+      "album": {
+        "name": "A Child Is Born",
+        "url": "https://open.spotify.com/album/69ClUZBQVjOXSDf00pzLvx"
+      },
+      "artists": [
+        {
+          "name": "Dara Tucker",
+          "url": "https://open.spotify.com/artist/5pSRNxDFAIW18vu0im7kql"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "A Child Is Born",
+      "url": "https://open.spotify.com/track/1AGn0quGIiPiSTtyRzj1rM"
     },
     {
       "added_at": "2023-12-20 12:14:05",
@@ -1047,6 +1063,22 @@
     {
       "added_at": "2023-12-20 12:14:05",
       "album": {
+        "name": "Abbey Lincoln's Affair... A Story Of A Girl In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg"
+      },
+      "artists": [
+        {
+          "name": "Abbey Lincoln",
+          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
+        }
+      ],
+      "duration_ms": 204040,
+      "name": "The Masquerade Is Over",
+      "url": "https://open.spotify.com/track/7A826LB6RXDtLE6a5IXMck"
+    },
+    {
+      "added_at": "2023-12-20 12:14:05",
+      "album": {
         "name": "Fever: a Peggy Lee Celebration!",
         "url": "https://open.spotify.com/album/1e9mJDic98xbyRQbfdY3wy"
       },
@@ -1059,22 +1091,6 @@
       "duration_ms": 366706,
       "name": "The Folks Who Live on the Hill",
       "url": "https://open.spotify.com/track/2Mg2GadBhJE4lPKsQK2ioz"
-    },
-    {
-      "added_at": "2023-12-20 12:14:05",
-      "album": {
-        "name": "A Child Is Born",
-        "url": "https://open.spotify.com/album/69ClUZBQVjOXSDf00pzLvx"
-      },
-      "artists": [
-        {
-          "name": "Dara Tucker",
-          "url": "https://open.spotify.com/artist/5pSRNxDFAIW18vu0im7kql"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "A Child Is Born",
-      "url": "https://open.spotify.com/track/1AGn0quGIiPiSTtyRzj1rM"
     },
     {
       "added_at": "2023-12-20 12:14:05",
@@ -1111,22 +1127,6 @@
       "duration_ms": 338186,
       "name": "Song to Comfort",
       "url": "https://open.spotify.com/track/2sJl5vXX9cVaDYZFfjPTLc"
-    },
-    {
-      "added_at": "2023-12-20 12:14:05",
-      "album": {
-        "name": "Abbey Lincoln's Affair... A Story Of A Girl In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg"
-      },
-      "artists": [
-        {
-          "name": "Abbey Lincoln",
-          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
-        }
-      ],
-      "duration_ms": 204040,
-      "name": "The Masquerade Is Over",
-      "url": "https://open.spotify.com/track/7A826LB6RXDtLE6a5IXMck"
     },
     {
       "added_at": "2023-12-20 12:14:05",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-12-20 12:14:05",
       "album": {
-        "name": "Something Nice",
-        "url": "https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Maybe You'll Be There",
-      "url": "https://open.spotify.com/track/3lzTDiidk78yOW2UUX1r4a"
-    },
-    {
-      "added_at": "2023-12-20 12:14:05",
-      "album": {
         "name": "Coming Forth by Day",
         "url": "https://open.spotify.com/album/3Remng6plhUxCGnBHbQsYU"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 230066,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/5C6D1r13OrEp1MpKVDUF8v"
+    },
+    {
+      "added_at": "2023-12-20 12:14:05",
+      "album": {
+        "name": "Something Nice",
+        "url": "https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Maybe You'll Be There",
+      "url": "https://open.spotify.com/track/3lzTDiidk78yOW2UUX1r4a"
     },
     {
       "added_at": "2023-12-20 12:14:05",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-12-20 12:14:05",
       "album": {
+        "name": "I Fall in Love Too Easily",
+        "url": "https://open.spotify.com/album/3rDgFZJUoQaL75W7b99sUZ"
+      },
+      "artists": [
+        {
+          "name": "Katharine McPhee",
+          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
+        }
+      ],
+      "duration_ms": 268973,
+      "name": "It Never Entered My Mind",
+      "url": "https://open.spotify.com/track/3Di0QuYbltNHaIU85cpxvi"
+    },
+    {
+      "added_at": "2023-12-20 12:14:05",
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/2TexgqYYV0EitC949gQKGx"
       },
@@ -1347,22 +1363,6 @@
     {
       "added_at": "2023-12-20 12:14:05",
       "album": {
-        "name": "Blues in the City",
-        "url": "https://open.spotify.com/album/67s8dczNzhEOzVYKM23LNw"
-      },
-      "artists": [
-        {
-          "name": "Laverne Butler",
-          "url": "https://open.spotify.com/artist/2iE4tV40WH7VZKH9pfdnMi"
-        }
-      ],
-      "duration_ms": 303973,
-      "name": "I'm a Fool to Want You",
-      "url": "https://open.spotify.com/track/7LVIhJkFdSrhFbD7qo0OOq"
-    },
-    {
-      "added_at": "2023-12-20 12:14:05",
-      "album": {
         "name": "Stations",
         "url": "https://open.spotify.com/album/1d21jnvVSGyjHtvKBKJZH6"
       },
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2023-12-20 12:14:05",
       "album": {
-        "name": "I Fall in Love Too Easily",
-        "url": "https://open.spotify.com/album/3rDgFZJUoQaL75W7b99sUZ"
+        "name": "Blues in the City",
+        "url": "https://open.spotify.com/album/67s8dczNzhEOzVYKM23LNw"
       },
       "artists": [
         {
-          "name": "Katharine McPhee",
-          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
+          "name": "Laverne Butler",
+          "url": "https://open.spotify.com/artist/2iE4tV40WH7VZKH9pfdnMi"
         }
       ],
-      "duration_ms": 268973,
-      "name": "It Never Entered My Mind",
-      "url": "https://open.spotify.com/track/3Di0QuYbltNHaIU85cpxvi"
+      "duration_ms": 303973,
+      "name": "I'm a Fool to Want You",
+      "url": "https://open.spotify.com/track/7LVIhJkFdSrhFbD7qo0OOq"
     },
     {
       "added_at": "2023-12-20 12:14:05",
@@ -1439,6 +1439,38 @@
     {
       "added_at": "2023-12-20 12:14:05",
       "album": {
+        "name": "It Happens Like That",
+        "url": "https://open.spotify.com/album/5ojWrYc5keKYq774cZicWo"
+      },
+      "artists": [
+        {
+          "name": "Katherine Kostoff",
+          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
+        }
+      ],
+      "duration_ms": 211740,
+      "name": "It Happens Like That",
+      "url": "https://open.spotify.com/track/6U0y4ZrWLqrUb82XmJEmLP"
+    },
+    {
+      "added_at": "2023-12-20 12:14:05",
+      "album": {
+        "name": "Tell Him I Said Hello",
+        "url": "https://open.spotify.com/album/39QI8WaZmEFH6UxIPqz94J"
+      },
+      "artists": [
+        {
+          "name": "Jocelyn Barth",
+          "url": "https://open.spotify.com/artist/2xRDpIhc5GNhD6U1nnsZLX"
+        }
+      ],
+      "duration_ms": 266138,
+      "name": "I Didn't Know About You",
+      "url": "https://open.spotify.com/track/2ffVdQxr7RREUKtmxuM6Rn"
+    },
+    {
+      "added_at": "2023-12-20 12:14:05",
+      "album": {
         "name": "City Garden",
         "url": "https://open.spotify.com/album/2WF1uyK8XP5PEa1KbeZNC1"
       },
@@ -1463,38 +1495,6 @@
     {
       "added_at": "2023-12-20 12:14:05",
       "album": {
-        "name": "More Than You Know",
-        "url": "https://open.spotify.com/album/3E1qoQI2HeUjrizaAi5eY0"
-      },
-      "artists": [
-        {
-          "name": "Silva & Steini",
-          "url": "https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "It Might As Well Be Spring",
-      "url": "https://open.spotify.com/track/28poKvc9L6xJdDp8h7lwEL"
-    },
-    {
-      "added_at": "2023-12-20 12:14:05",
-      "album": {
-        "name": "It Happens Like That",
-        "url": "https://open.spotify.com/album/5ojWrYc5keKYq774cZicWo"
-      },
-      "artists": [
-        {
-          "name": "Katherine Kostoff",
-          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
-        }
-      ],
-      "duration_ms": 211740,
-      "name": "It Happens Like That",
-      "url": "https://open.spotify.com/track/6U0y4ZrWLqrUb82XmJEmLP"
-    },
-    {
-      "added_at": "2023-12-20 12:14:05",
-      "album": {
         "name": "Staying in Touch",
         "url": "https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL"
       },
@@ -1515,18 +1515,34 @@
     {
       "added_at": "2023-12-20 12:14:05",
       "album": {
-        "name": "Tell Him I Said Hello",
-        "url": "https://open.spotify.com/album/39QI8WaZmEFH6UxIPqz94J"
+        "name": "More Than You Know",
+        "url": "https://open.spotify.com/album/3E1qoQI2HeUjrizaAi5eY0"
       },
       "artists": [
         {
-          "name": "Jocelyn Barth",
-          "url": "https://open.spotify.com/artist/2xRDpIhc5GNhD6U1nnsZLX"
+          "name": "Silva & Steini",
+          "url": "https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c"
         }
       ],
-      "duration_ms": 266138,
-      "name": "I Didn't Know About You",
-      "url": "https://open.spotify.com/track/2ffVdQxr7RREUKtmxuM6Rn"
+      "duration_ms": 187500,
+      "name": "It Might As Well Be Spring",
+      "url": "https://open.spotify.com/track/28poKvc9L6xJdDp8h7lwEL"
+    },
+    {
+      "added_at": "2023-12-20 12:14:05",
+      "album": {
+        "name": "Nice Work If You Can Get It",
+        "url": "https://open.spotify.com/album/2WgyFRut3JtYjSRdFbxgYU"
+      },
+      "artists": [
+        {
+          "name": "Kristina Ray",
+          "url": "https://open.spotify.com/artist/19kiwdKOPTvmocMNLHwcyh"
+        }
+      ],
+      "duration_ms": 205078,
+      "name": "Nice Work If You Can Get It",
+      "url": "https://open.spotify.com/track/3ZVNxTUtCAZLZ9crzmeKiM"
     },
     {
       "added_at": "2023-12-20 12:14:05",
@@ -1559,38 +1575,6 @@
     {
       "added_at": "2023-12-20 12:14:05",
       "album": {
-        "name": "Nice Work If You Can Get It",
-        "url": "https://open.spotify.com/album/2WgyFRut3JtYjSRdFbxgYU"
-      },
-      "artists": [
-        {
-          "name": "Kristina Ray",
-          "url": "https://open.spotify.com/artist/19kiwdKOPTvmocMNLHwcyh"
-        }
-      ],
-      "duration_ms": 205078,
-      "name": "Nice Work If You Can Get It",
-      "url": "https://open.spotify.com/track/3ZVNxTUtCAZLZ9crzmeKiM"
-    },
-    {
-      "added_at": "2023-12-20 12:14:05",
-      "album": {
-        "name": "Only the Lonely",
-        "url": "https://open.spotify.com/album/2LEdyJtyGv0wVJnwN5S67p"
-      },
-      "artists": [
-        {
-          "name": "Lucy Yeghiazaryan",
-          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
-        }
-      ],
-      "duration_ms": 192171,
-      "name": "Only the Lonely",
-      "url": "https://open.spotify.com/track/4BJlrxrnHmnUi6DoZHexAc"
-    },
-    {
-      "added_at": "2023-12-20 12:14:05",
-      "album": {
         "name": "Songs from Other Places (Special Edition)",
         "url": "https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 260746,
       "name": "Memories of You",
       "url": "https://open.spotify.com/track/29CbKFxs4Aa5pA8ktWuBUC"
+    },
+    {
+      "added_at": "2023-12-20 12:14:05",
+      "album": {
+        "name": "Only the Lonely",
+        "url": "https://open.spotify.com/album/2LEdyJtyGv0wVJnwN5S67p"
+      },
+      "artists": [
+        {
+          "name": "Lucy Yeghiazaryan",
+          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
+        }
+      ],
+      "duration_ms": 192171,
+      "name": "Only the Lonely",
+      "url": "https://open.spotify.com/track/4BJlrxrnHmnUi6DoZHexAc"
     },
     {
       "added_at": "2023-12-20 12:14:05",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2023-12-20 12:14:05",
       "album": {
+        "name": "Like Song, Like Weather",
+        "url": "https://open.spotify.com/album/2n0R187nSftqJQX2TinKrb"
+      },
+      "artists": [
+        {
+          "name": "Norma Winstone",
+          "url": "https://open.spotify.com/artist/0CRQWqvYVd26x1RHVzzBy5"
+        }
+      ],
+      "duration_ms": 366200,
+      "name": "I Loves You, Porgy",
+      "url": "https://open.spotify.com/track/5JuynDUgSFwGcMwI6NLJMj"
+    },
+    {
+      "added_at": "2023-12-20 12:14:05",
+      "album": {
         "name": "where are we",
         "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
       },
@@ -1851,34 +1867,22 @@
     {
       "added_at": "2023-12-20 12:14:05",
       "album": {
-        "name": "Like Song, Like Weather",
-        "url": "https://open.spotify.com/album/2n0R187nSftqJQX2TinKrb"
+        "name": "Dindi",
+        "url": "https://open.spotify.com/album/0TfJkb6NSFDo2I89wGmiac"
       },
       "artists": [
         {
-          "name": "Norma Winstone",
-          "url": "https://open.spotify.com/artist/0CRQWqvYVd26x1RHVzzBy5"
-        }
-      ],
-      "duration_ms": 366200,
-      "name": "I Loves You, Porgy",
-      "url": "https://open.spotify.com/track/5JuynDUgSFwGcMwI6NLJMj"
-    },
-    {
-      "added_at": "2023-12-20 12:14:05",
-      "album": {
-        "name": "More Than You Know",
-        "url": "https://open.spotify.com/album/3E1qoQI2HeUjrizaAi5eY0"
-      },
-      "artists": [
+          "name": "Dattie Do",
+          "url": "https://open.spotify.com/artist/0bOcMYK1dhnV0crtCTrqBm"
+        },
         {
-          "name": "Silva & Steini",
-          "url": "https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c"
+          "name": "San Tr\u1ecbnh",
+          "url": "https://open.spotify.com/artist/6RoKDG8pIknvfdaQ08gpOm"
         }
       ],
-      "duration_ms": 293700,
-      "name": "I Wish I Knew",
-      "url": "https://open.spotify.com/track/78GkbIgSD0VI7ZV7bnBe5I"
+      "duration_ms": 350890,
+      "name": "Dindi",
+      "url": "https://open.spotify.com/track/7qNTlknMfHKgR6lrY8lzwU"
     },
     {
       "added_at": "2023-12-20 12:14:05",
@@ -1899,22 +1903,18 @@
     {
       "added_at": "2023-12-20 12:14:05",
       "album": {
-        "name": "Dindi",
-        "url": "https://open.spotify.com/album/0TfJkb6NSFDo2I89wGmiac"
+        "name": "More Than You Know",
+        "url": "https://open.spotify.com/album/3E1qoQI2HeUjrizaAi5eY0"
       },
       "artists": [
         {
-          "name": "Dattie Do",
-          "url": "https://open.spotify.com/artist/0bOcMYK1dhnV0crtCTrqBm"
-        },
-        {
-          "name": "San Tr\u1ecbnh",
-          "url": "https://open.spotify.com/artist/6RoKDG8pIknvfdaQ08gpOm"
+          "name": "Silva & Steini",
+          "url": "https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c"
         }
       ],
-      "duration_ms": 350890,
-      "name": "Dindi",
-      "url": "https://open.spotify.com/track/7qNTlknMfHKgR6lrY8lzwU"
+      "duration_ms": 293700,
+      "name": "I Wish I Knew",
+      "url": "https://open.spotify.com/track/78GkbIgSD0VI7ZV7bnBe5I"
     },
     {
       "added_at": "2023-12-20 12:14:05",

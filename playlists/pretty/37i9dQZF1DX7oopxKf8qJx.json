@@ -1,12 +1,12 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 80384,
+  "num_followers": 80489,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTdjODA4MWEzYzM3MTMzZmU1OTY3YzlhMjgxNjIwNTg1MzNhYzBl",
+  "snapshot_id": "MCxiNmFjM2ZlODBmZjA2MThhYjM5Zjk2YjM5MGI4NmFiMjhkOWM1YjY1",
   "tracks": [
     {
       "added_at": "2023-12-20 11:08:37",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-12-20 11:08:37",
       "album": {
-        "name": "Big Band Bash!",
-        "url": "https://open.spotify.com/album/0ryTYwTgma4jd8vLMfk2yK"
-      },
-      "artists": [
-        {
-          "name": "Billy May",
-          "url": "https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq"
-        }
-      ],
-      "duration_ms": 163400,
-      "name": "My Last Affair",
-      "url": "https://open.spotify.com/track/6qn13FWqpeXQfeoz7aJrp0"
-    },
-    {
-      "added_at": "2023-12-20 11:08:37",
-      "album": {
         "name": "Music For Her (Expanded Edition)",
         "url": "https://open.spotify.com/album/704P5eHFQFzTh6K0aS0FYH"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 225226,
       "name": "You're My Everything",
       "url": "https://open.spotify.com/track/3M5hwmGftW1vIgEW7to0N3"
+    },
+    {
+      "added_at": "2023-12-20 11:08:37",
+      "album": {
+        "name": "Big Band Bash!",
+        "url": "https://open.spotify.com/album/0ryTYwTgma4jd8vLMfk2yK"
+      },
+      "artists": [
+        {
+          "name": "Billy May",
+          "url": "https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq"
+        }
+      ],
+      "duration_ms": 163400,
+      "name": "My Last Affair",
+      "url": "https://open.spotify.com/track/6qn13FWqpeXQfeoz7aJrp0"
     },
     {
       "added_at": "2023-12-20 11:08:37",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-12-20 11:08:37",
       "album": {
-        "name": "Pops Stoppers",
-        "url": "https://open.spotify.com/album/5vn6TVkymb29hRpqELulM9"
-      },
-      "artists": [
-        {
-          "name": "Boston Pops Orchestra",
-          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
-        }
-      ],
-      "duration_ms": 251689,
-      "name": "Liebestraum",
-      "url": "https://open.spotify.com/track/58UavZzfKbcfxFfG49uuiZ"
-    },
-    {
-      "added_at": "2023-12-20 11:08:37",
-      "album": {
         "name": "The Essential Percy Faith - The Instrumental Recordings",
         "url": "https://open.spotify.com/album/205gksgDHwJUOuJ7GV4MKu"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 346733,
       "name": "The Song From \"Moulin Rouge\"",
       "url": "https://open.spotify.com/track/7GtpZ01gEJDxrXfH2ayvuc"
+    },
+    {
+      "added_at": "2023-12-20 11:08:37",
+      "album": {
+        "name": "Pops Stoppers",
+        "url": "https://open.spotify.com/album/5vn6TVkymb29hRpqELulM9"
+      },
+      "artists": [
+        {
+          "name": "Boston Pops Orchestra",
+          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
+        }
+      ],
+      "duration_ms": 251689,
+      "name": "Liebestraum",
+      "url": "https://open.spotify.com/track/58UavZzfKbcfxFfG49uuiZ"
     },
     {
       "added_at": "2023-12-20 11:08:37",

@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 307199,
+  "num_followers": 307315,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTU2MjY3NjcyMjgyMTg2MzVlZGQwMDg3MzVmY2MwZWQxZjA3NzU0",
+  "snapshot_id": "MCw1YWIwOGNhYTA0ZGUxODhiODk0MmEyMjA1ZGM1Y2M3OWJkNGU2NTRi",
   "tracks": [
     {
       "added_at": "2023-07-18 02:21:29",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/4T4ErCyUP6AyNwMRk8ZR6D"
-      },
-      "artists": [
-        {
-          "name": "AcesToAces",
-          "url": "https://open.spotify.com/artist/5jUNfG1LEuOJnesLjHDUsr"
-        }
-      ],
-      "duration_ms": 135058,
-      "name": "Memory Lane",
-      "url": "https://open.spotify.com/track/54Ur6TY1ra3bIhcAF16CcD"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Take Care of Yourself",
         "url": "https://open.spotify.com/album/49Uf7IcxSbxYcigvSfD29U"
       },
@@ -639,6 +623,38 @@
       "duration_ms": 234240,
       "name": "It's Good to See You Again!!",
       "url": "https://open.spotify.com/track/6LjEAMtB3INMAeUqyHnE2F"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/7d1HSAZOAfCzvOXjriOuVf"
+      },
+      "artists": [
+        {
+          "name": "AcesToAces",
+          "url": "https://open.spotify.com/artist/5jUNfG1LEuOJnesLjHDUsr"
+        }
+      ],
+      "duration_ms": 135019,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/5QOhIyCkKcHzBSHLHZaF39"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Orca Adventure DX",
+        "url": "https://open.spotify.com/album/1vdzEDINQgERKoITu3qzx7"
+      },
+      "artists": [
+        {
+          "name": "Groovy Kaiju",
+          "url": "https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR"
+        }
+      ],
+      "duration_ms": 171135,
+      "name": "Orca Adventure DX",
+      "url": "https://open.spotify.com/track/2YfK7Ra5tJhvAaOzly6iN9"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -659,22 +675,6 @@
       "duration_ms": 216000,
       "name": "City Nightlife - Original Mix",
       "url": "https://open.spotify.com/track/4X7DNtQrK71hShiyeognoq"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Orca Adventure DX",
-        "url": "https://open.spotify.com/album/1vdzEDINQgERKoITu3qzx7"
-      },
-      "artists": [
-        {
-          "name": "Groovy Kaiju",
-          "url": "https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR"
-        }
-      ],
-      "duration_ms": 171135,
-      "name": "Orca Adventure DX",
-      "url": "https://open.spotify.com/track/2YfK7Ra5tJhvAaOzly6iN9"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Magic City",
+        "url": "https://open.spotify.com/album/43H9kDMnSdgNWHFQNSUvPQ"
+      },
+      "artists": [
+        {
+          "name": "Lordsun",
+          "url": "https://open.spotify.com/artist/2qz2ih9s7guZ7SxIrmTCSL"
+        }
+      ],
+      "duration_ms": 217370,
+      "name": "Magic City",
+      "url": "https://open.spotify.com/track/6X1znxhyue4RQikzv0nQZh"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Yacht World",
         "url": "https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 128399,
       "name": "Need Somebody",
       "url": "https://open.spotify.com/track/6MBojwg01wXb54WWeIBa5A"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Magic City",
-        "url": "https://open.spotify.com/album/43H9kDMnSdgNWHFQNSUvPQ"
-      },
-      "artists": [
-        {
-          "name": "Lordsun",
-          "url": "https://open.spotify.com/artist/2qz2ih9s7guZ7SxIrmTCSL"
-        }
-      ],
-      "duration_ms": 217370,
-      "name": "Magic City",
-      "url": "https://open.spotify.com/track/6X1znxhyue4RQikzv0nQZh"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Summer 99",
-        "url": "https://open.spotify.com/album/7lWUz3qy2GTv621GBOh7PM"
-      },
-      "artists": [
-        {
-          "name": "Iden Kai",
-          "url": "https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv"
-        }
-      ],
-      "duration_ms": 151265,
-      "name": "Shall We Dance?",
-      "url": "https://open.spotify.com/track/2AfWicugHdy2XCdEScwSbU"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Now That I Have You",
         "url": "https://open.spotify.com/album/3hHM3Ydv4PItQmZauDRiS4"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 174159,
       "name": "Unlimited",
       "url": "https://open.spotify.com/track/6whYojZCfYHKbmTCwdZQ76"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Summer 99",
+        "url": "https://open.spotify.com/album/7lWUz3qy2GTv621GBOh7PM"
+      },
+      "artists": [
+        {
+          "name": "Iden Kai",
+          "url": "https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv"
+        }
+      ],
+      "duration_ms": 151265,
+      "name": "Shall We Dance?",
+      "url": "https://open.spotify.com/track/2AfWicugHdy2XCdEScwSbU"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1471,22 +1471,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Dance Tonite",
-        "url": "https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW"
+        "name": "Road Trip",
+        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
       },
       "artists": [
         {
-          "name": "Neon Vectors",
-          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
-        },
-        {
-          "name": "Macross 82-99",
-          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+          "name": "AnTgry",
+          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
         }
       ],
-      "duration_ms": 210731,
-      "name": "Dance Tonite",
-      "url": "https://open.spotify.com/track/0VPJHffNebAqAxnP2OJ6hu"
+      "duration_ms": 173421,
+      "name": "Palm Road",
+      "url": "https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1507,18 +1503,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Road Trip",
-        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
+        "name": "Dance Tonite",
+        "url": "https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW"
       },
       "artists": [
         {
-          "name": "AnTgry",
-          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
+          "name": "Neon Vectors",
+          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
+        },
+        {
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
         }
       ],
-      "duration_ms": 173421,
-      "name": "Palm Road",
-      "url": "https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0"
+      "duration_ms": 210731,
+      "name": "Dance Tonite",
+      "url": "https://open.spotify.com/track/0VPJHffNebAqAxnP2OJ6hu"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "The Sweetest Dream",
-        "url": "https://open.spotify.com/album/0aazBbDWVGrdX0dPHhcj3A"
+        "name": "Cheetahs in Barcelona",
+        "url": "https://open.spotify.com/album/3dkGNzkrkpvJ7cwBvNOFAC"
       },
       "artists": [
         {
-          "name": "Desired",
-          "url": "https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt"
+          "name": "Groovy Kaiju",
+          "url": "https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR"
         }
       ],
-      "duration_ms": 220055,
-      "name": "Eyes on Me",
-      "url": "https://open.spotify.com/track/2KsIlbHyTl7wJaG0fOLs34"
+      "duration_ms": 169714,
+      "name": "Cheetahs in Barcelona",
+      "url": "https://open.spotify.com/track/3XhZJpfEiaV0TMqxMohGFk"
     }
   ],
   "unique_name": "Future Funk",

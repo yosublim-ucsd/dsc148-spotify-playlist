@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,070 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,133 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 34 | [September Rain \- 2018 Remaster](https://open.spotify.com/track/25z4QmWYR2stp1xbVcG51J) | [Makoto Matsushita](https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG) | [FIRST LIGHT \(2018 Remaster\)](https://open.spotify.com/album/6iHAKqapZLwgw9yIrVgsUT) | 4:29 |
 | 35 | [Bewitched \(Are You Leaving Soon\)](https://open.spotify.com/track/2GWrllGqXji3zboRZZItyy) | [Naomi Akimoto](https://open.spotify.com/artist/4tVWj4YQ5kteJu56XOphEl) | [The 20th Anniversary](https://open.spotify.com/album/1WfGuS4y9cMowFLTCMplPd) | 4:44 |
 | 36 | [MIDNIGHT DRIVER](https://open.spotify.com/track/2wKsVeNrzorCLCix24ljAU) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [MONOCHROME](https://open.spotify.com/album/3jaNik4jYyepujb5xplAYo) | 7:44 |
-| 37 | [Silly Crush](https://open.spotify.com/track/44MAe7e2MbOPLnP3XWC8ie) | [Masaki Matsubara](https://open.spotify.com/artist/5pDFSAj0BZHUN8Uw2C5VhA) | [Painted Woman](https://open.spotify.com/album/0mZOYr5JOK30XDTzaYSQFw) | 4:11 |
-| 38 | [Older Girl](https://open.spotify.com/track/3lmsq8LdfOOA6UlE3hFDPC) | [1986 OMEGA TRIBE](https://open.spotify.com/artist/0ECegKslGWO6zz3XzTyIwQ) | [Navigator](https://open.spotify.com/album/7G9VfKv9e1OmEQF0BByRK3) | 4:15 |
+| 37 | [Older Girl](https://open.spotify.com/track/3lmsq8LdfOOA6UlE3hFDPC) | [1986 OMEGA TRIBE](https://open.spotify.com/artist/0ECegKslGWO6zz3XzTyIwQ) | [Navigator](https://open.spotify.com/album/7G9VfKv9e1OmEQF0BByRK3) | 4:15 |
+| 38 | [Silly Crush](https://open.spotify.com/track/44MAe7e2MbOPLnP3XWC8ie) | [Masaki Matsubara](https://open.spotify.com/artist/5pDFSAj0BZHUN8Uw2C5VhA) | [Painted Woman](https://open.spotify.com/album/0mZOYr5JOK30XDTzaYSQFw) | 4:11 |
 | 39 | [Slow Nights](https://open.spotify.com/track/4TQVYbMBXqzBlKrVeW1Nsd) | [Tomoko Aran](https://open.spotify.com/artist/2flF63KTodI9rSqbP5gCnp) | [MORE RELAX](https://open.spotify.com/album/57PGfsHat10fVPFSrqROIa) | 3:43 |
 | 40 | [雨](https://open.spotify.com/track/697jY7OLi15Iv3YUMrrULD) | [Kei Ishiguro](https://open.spotify.com/artist/3wiCwqhbzyXzW8GI7WfZSM) | [Yokohama Ragtime](https://open.spotify.com/album/7qjft00dDfIB21CxjCGjiJ) | 3:28 |
 | 41 | [カナリア諸島にて](https://open.spotify.com/track/38XNkVwthnLAUH2RmoKCz3) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [A LONG VACATION](https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H) | 4:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 49 | [君のハートはマリンブルー](https://open.spotify.com/track/04d2ceRCfAaBwuQfG1WwMK) | [Kiyotaka Sugiyama](https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC), [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [OMEGA TRIBE GROOVE](https://open.spotify.com/album/7o5mbjGsvO2PrDkL1IRPch) | 4:59 |
 | 50 | [感じるままに](https://open.spotify.com/track/5XPeE6Nf7Lt5onFGhqeRci) | [Kei Ishiguro](https://open.spotify.com/artist/3wiCwqhbzyXzW8GI7WfZSM) | [Purple Road](https://open.spotify.com/album/1dq8sevP6SbYfaSlhh18Zu) | 3:09 |
 
-Snapshot ID: `MCwwMGZhMzhmNDU4YWI4YmUzZjNiYzMwMTllMjY4YTJiN2IzNTI4NGY4`
+Snapshot ID: `MCxlNjI0YzcxZmRmNjAyZDUzZjA1Y2VmNmRhY2ZmNzBkZGEwOWFkM2I3`

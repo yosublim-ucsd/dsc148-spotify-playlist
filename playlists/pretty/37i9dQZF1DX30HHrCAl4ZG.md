@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,845 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,842 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [20191009 I Like Her](https://open.spotify.com/track/3oUn55qKRZ1JFzfQNbJjS1) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [One Wayne G](https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848) | 2:16 |
 | 100 | [I'm Only Me When I'm With You](https://open.spotify.com/track/3p5rnKolaN8ap6Ykm0A8AK) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [I'm Only Me When I'm With You](https://open.spotify.com/album/4XxKXwDS8eG7aOw3cF816M) | 4:07 |
 
-Snapshot ID: `MCw0ZmU2NWVlNjNmMjk0YTIzZGY1NmI0MzFiZjNlZDhjOTM3ODY0NzUy`
+Snapshot ID: `MCxjYzc5MWRiZTA3Y2I5MDEwNWRmYTgyNGYzYmE3ZTE1ZjQ1MWQ5NTBm`

@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Fred again..",
-  "num_followers": 766544,
+  "num_followers": 766609,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2ViNzMzYmI1NzM3MWJkYTI1MTFmZjdlZThmNGM4YjQ4MmZlYmFk",
+  "snapshot_id": "MCwzNTZlYzFlNTQ5ZjM4ZTU2NGVlNDFkOTQ0M2FkYzFmMWNhNGViNWZh",
   "tracks": [
     {
       "added_at": "2023-12-22 05:00:00",
@@ -787,6 +787,26 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
+        "name": "Thinkin About",
+        "url": "https://open.spotify.com/album/4SfWi60B50vfPPNEMUxxAs"
+      },
+      "artists": [
+        {
+          "name": "ShockOne",
+          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
+        },
+        {
+          "name": "Lee Mvtthews",
+          "url": "https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "Thinkin About",
+      "url": "https://open.spotify.com/track/679TnTjA1ad756mFFq91ZK"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
         "name": "HEADSH\u00d6T",
         "url": "https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 157036,
       "name": "HEADSH\u00d6T",
       "url": "https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Thinkin About",
-        "url": "https://open.spotify.com/album/4SfWi60B50vfPPNEMUxxAs"
-      },
-      "artists": [
-        {
-          "name": "ShockOne",
-          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
-        },
-        {
-          "name": "Lee Mvtthews",
-          "url": "https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "Thinkin About",
-      "url": "https://open.spotify.com/track/679TnTjA1ad756mFFq91ZK"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1423,6 +1423,26 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/1ivE1jTe5sDLo3hh9eqef1"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        },
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        }
+      ],
+      "duration_ms": 189517,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/3VvQKhWigoAD5pfM6zul48"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
         "name": "NO PLACE IS TOO FAR (feat. Whethan & Selah Sol)",
         "url": "https://open.spotify.com/album/4clcPcjqdPIPJjYghDiEZf"
       },
@@ -1447,22 +1467,18 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/1ivE1jTe5sDLo3hh9eqef1"
+        "name": "BLEACH [Hi-Fi]",
+        "url": "https://open.spotify.com/album/0V3wvkznjsm1LFyKiO0x7l"
       },
       "artists": [
         {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        },
-        {
-          "name": "Jon Casey",
-          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
         }
       ],
-      "duration_ms": 189517,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/3VvQKhWigoAD5pfM6zul48"
+      "duration_ms": 180668,
+      "name": "RUN INTO MY ARMS",
+      "url": "https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1479,22 +1495,6 @@
       "duration_ms": 130615,
       "name": "see u",
       "url": "https://open.spotify.com/track/6Fg0fOsCwdIKmJzuFJWekp"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "BLEACH [Hi-Fi]",
-        "url": "https://open.spotify.com/album/0V3wvkznjsm1LFyKiO0x7l"
-      },
-      "artists": [
-        {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        }
-      ],
-      "duration_ms": 180668,
-      "name": "RUN INTO MY ARMS",
-      "url": "https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1579,22 +1579,22 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE]",
-        "url": "https://open.spotify.com/album/5DAft4bZcUYr4hxHwgCoST"
+        "name": "2gether",
+        "url": "https://open.spotify.com/album/3DG2mNSbwGZjzSJxnpM1Qf"
       },
       "artists": [
         {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
         },
         {
-          "name": "MYRNE",
-          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+          "name": "Gretel H\u00e4nlyn",
+          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
         }
       ],
-      "duration_ms": 218581,
-      "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE]",
-      "url": "https://open.spotify.com/track/2FEF1UNTCXQjgFYhh0zAm6"
+      "duration_ms": 191074,
+      "name": "2gether",
+      "url": "https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1619,22 +1619,22 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "2gether",
-        "url": "https://open.spotify.com/album/3DG2mNSbwGZjzSJxnpM1Qf"
+        "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE]",
+        "url": "https://open.spotify.com/album/5DAft4bZcUYr4hxHwgCoST"
       },
       "artists": [
         {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         },
         {
-          "name": "Gretel H\u00e4nlyn",
-          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
         }
       ],
-      "duration_ms": 191074,
-      "name": "2gether",
-      "url": "https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU"
+      "duration_ms": 218581,
+      "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE]",
+      "url": "https://open.spotify.com/track/2FEF1UNTCXQjgFYhh0zAm6"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1651,6 +1651,26 @@
       "duration_ms": 240000,
       "name": "BLINDED",
       "url": "https://open.spotify.com/track/3oQddpdMx2WTAVqxvNfmL8"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Mr. Brightside",
+        "url": "https://open.spotify.com/album/2Omja92GFGLYahWnSK5K9F"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "Livingston Crain",
+          "url": "https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/4GKDKSHYMvlDJl3XxaeQlS"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1703,26 +1723,6 @@
       "duration_ms": 220875,
       "name": "Do or Die",
       "url": "https://open.spotify.com/track/7dysHvjVrHkpLhamDe1HJz"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Mr. Brightside",
-        "url": "https://open.spotify.com/album/2Omja92GFGLYahWnSK5K9F"
-      },
-      "artists": [
-        {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
-        },
-        {
-          "name": "Livingston Crain",
-          "url": "https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/4GKDKSHYMvlDJl3XxaeQlS"
     },
     {
       "added_at": "2023-12-22 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 871,214 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 871,532 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 |
 | 50 | [Bolingo](https://open.spotify.com/track/0EQalbiaFBkvRitIsgCvUb) | [Oskoow](https://open.spotify.com/artist/1eXXCUkwhu0MRLTamWEgXE), [Samy Lrzo](https://open.spotify.com/artist/2K1JOV2mHYXJh0kpNSwER4) | [Bolingo](https://open.spotify.com/album/2TrmCYnHsPUSzJZdGejXtr) | 2:46 |
 
-Snapshot ID: `MCw0NGQxM2JkODY3ZDZiNjU2NTQxZTU2NTQ1MDE1MzMxZGI1MzI0NzUx`
+Snapshot ID: `MCwwYjcxNWEyNTFiODBjOTk5ZmUzYmM3YTMxNzU3Zjk5OGE4YzQ1ODU4`

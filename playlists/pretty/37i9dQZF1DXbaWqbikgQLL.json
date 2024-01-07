@@ -1,12 +1,12 @@
 {
   "description": "Antes de entrar, permita salir.",
-  "num_followers": 14418,
+  "num_followers": 14481,
   "original_name": "Coraz\u00f3n Chilango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjA5ZTQ2Zjk2MzlhZTQwY2Q1NGNmMGZlYzczNWYzYWUwNGFjOTc3",
+  "snapshot_id": "MCw0OWJhODE4YmQzYmM0YmIyOTAyYTRmZDhjZjYzNjVhYjkzY2IyMmEx",
   "tracks": [
     {
       "added_at": "2023-11-09 00:38:36",
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Ciclos",
-        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "Yo No S\u00e9 Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Cuatro Caminos",
         "url": "https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 267600,
       "name": "Eres",
       "url": "https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Ciclos",
+        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 259853,
+      "name": "Yo No S\u00e9 Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Llorar",
-        "url": "https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88"
-      },
-      "artists": [
-        {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
-        }
-      ],
-      "duration_ms": 223160,
-      "name": "Llorar",
-      "url": "https://open.spotify.com/track/2f9XA7pBMjrHPO2cJW5XCu"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Corazon de Acero",
         "url": "https://open.spotify.com/album/7zmiGWH2pYNvtBzCI1WKh5"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 225953,
       "name": "Corazon de Acero",
       "url": "https://open.spotify.com/track/21nc3O8OncUv1jjSrC1ML2"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Llorar",
+        "url": "https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88"
+      },
+      "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/2f9XA7pBMjrHPO2cJW5XCu"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 192426,
-      "name": "Perfume de Gardenias",
-      "url": "https://open.spotify.com/track/1ICqpf7OYjH09oepUWopUm"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "La Invasion De Los Blatidos",
         "url": "https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 240973,
       "name": "El Son del Dolor",
       "url": "https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 192426,
+      "name": "Perfume de Gardenias",
+      "url": "https://open.spotify.com/track/1ICqpf7OYjH09oepUWopUm"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Valedores Juveniles",
-        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 181394,
-      "name": "No Estoy Muerto",
-      "url": "https://open.spotify.com/track/6ZVHAIXNueVu9mbYnzuXAU"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Caf\u00e9 Tacvba",
         "url": "https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 205026,
       "name": "Las batallas",
       "url": "https://open.spotify.com/track/4HTQcxErjqv1Up3ZOoJ1di"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Valedores Juveniles",
+        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 181394,
+      "name": "No Estoy Muerto",
+      "url": "https://open.spotify.com/track/6ZVHAIXNueVu9mbYnzuXAU"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Mas Grande Que Nunca",
-        "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 281186,
-      "name": "Dese\u00e1ndote",
-      "url": "https://open.spotify.com/track/6eRmG7DPom2FfRNAoCmjqb"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Sue\u00f1os de Anoche",
         "url": "https://open.spotify.com/album/5B2tIZLviuK1wYbrxA9cff"
       },
@@ -1883,18 +1867,18 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "20 Cumbias Andinas",
-        "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
+        "name": "Mas Grande Que Nunca",
+        "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
       },
       "artists": [
         {
-          "name": "Los Llayras",
-          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
         }
       ],
-      "duration_ms": 230133,
-      "name": "Coraz\u00f3n Adolorido",
-      "url": "https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s"
+      "duration_ms": 281186,
+      "name": "Dese\u00e1ndote",
+      "url": "https://open.spotify.com/track/6eRmG7DPom2FfRNAoCmjqb"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1911,6 +1895,22 @@
       "duration_ms": 212066,
       "name": "Chilanga banda",
       "url": "https://open.spotify.com/track/6004tMws4nCQqtGBaInsF0"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "20 Cumbias Andinas",
+        "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
+      },
+      "artists": [
+        {
+          "name": "Los Llayras",
+          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "Coraz\u00f3n Adolorido",
+      "url": "https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Nelson D\u00edaz y la Constelaci\u00f3n",
-        "url": "https://open.spotify.com/album/09vJMrho92acNaYIBvqcVi"
-      },
-      "artists": [
-        {
-          "name": "NELSON D\u00cdAZ Y LA CONSTELACI\u00d3N",
-          "url": "https://open.spotify.com/artist/0dDHeD2Xl3l0p8tSMcVRBO"
-        }
-      ],
-      "duration_ms": 267416,
-      "name": "As\u00ed Fue",
-      "url": "https://open.spotify.com/track/4xaOEKr5ekCoBcGesvcrM9"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Valedores Juveniles",
         "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 335621,
       "name": "A Esa Gran Velocidad",
       "url": "https://open.spotify.com/track/5dXKQ5MzrOPjFwtJEJZYuu"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Nelson D\u00edaz y la Constelaci\u00f3n",
+        "url": "https://open.spotify.com/album/09vJMrho92acNaYIBvqcVi"
+      },
+      "artists": [
+        {
+          "name": "NELSON D\u00cdAZ Y LA CONSTELACI\u00d3N",
+          "url": "https://open.spotify.com/artist/0dDHeD2Xl3l0p8tSMcVRBO"
+        }
+      ],
+      "duration_ms": 267416,
+      "name": "As\u00ed Fue",
+      "url": "https://open.spotify.com/track/4xaOEKr5ekCoBcGesvcrM9"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Siempre Una Aventura",
-        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 316106,
-      "name": "Una Aventura",
-      "url": "https://open.spotify.com/track/4F8IB14Sjvqb9qJUOxndRZ"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "El Poder De La Cumbia",
         "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 297293,
       "name": "Rumba Quimbumba",
       "url": "https://open.spotify.com/track/0trX1nThTl4NfJuctzJVA3"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Siempre Una Aventura",
+        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 316106,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/4F8IB14Sjvqb9qJUOxndRZ"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -2215,22 +2215,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "El cantante",
-        "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 217973,
-      "name": "Estadio Azteca",
-      "url": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 1",
         "url": "https://open.spotify.com/album/3j4M5k6i3DA7fxfHXasvSp"
       },
@@ -2243,6 +2227,22 @@
       "duration_ms": 261484,
       "name": "De Punta a Punta",
       "url": "https://open.spotify.com/track/21SlXIY6FZw7RcMqLRm901"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "El cantante",
+        "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 217973,
+      "name": "Estadio Azteca",
+      "url": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "La Suegra",
-        "url": "https://open.spotify.com/album/0tIsBHGWrYG0jw699RvDFa"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Meza",
-          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
-        }
-      ],
-      "duration_ms": 244375,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/3Esfvvg5LxI9av1sUgYlDO"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Nuestra Historia Termino",
         "url": "https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 311386,
       "name": "Rumba Frenesi",
       "url": "https://open.spotify.com/track/0LaFg7YyQMaHkWyj497YLI"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "La Suegra",
+        "url": "https://open.spotify.com/album/0tIsBHGWrYG0jw699RvDFa"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Meza",
+          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
+        }
+      ],
+      "duration_ms": 244375,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/3Esfvvg5LxI9av1sUgYlDO"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -2519,22 +2519,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Descarga Espectacular",
-        "url": "https://open.spotify.com/album/6NK3Dj0pKVYzY7IUsTDsvP"
-      },
-      "artists": [
-        {
-          "name": "Fruko Y Sus Tesos",
-          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
-        }
-      ],
-      "duration_ms": 297386,
-      "name": "Cachondea",
-      "url": "https://open.spotify.com/track/4TedxdAWvmtDCpYY9M6kue"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Recuerdos",
         "url": "https://open.spotify.com/album/3bvSVLCNLuiBqLiXt6bAN5"
       },
@@ -2547,6 +2531,22 @@
       "duration_ms": 272091,
       "name": "Abandonado",
       "url": "https://open.spotify.com/track/3zTtqNPnbLUKTmj69JapdD"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Descarga Espectacular",
+        "url": "https://open.spotify.com/album/6NK3Dj0pKVYzY7IUsTDsvP"
+      },
+      "artists": [
+        {
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+        }
+      ],
+      "duration_ms": 297386,
+      "name": "Cachondea",
+      "url": "https://open.spotify.com/track/4TedxdAWvmtDCpYY9M6kue"
     }
   ],
   "unique_name": "Coraz\u00f3n Chilango",

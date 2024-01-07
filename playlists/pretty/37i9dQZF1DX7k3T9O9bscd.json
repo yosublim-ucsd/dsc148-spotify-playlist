@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Melody's Echo Chamber on cover.",
-  "num_followers": 400606,
+  "num_followers": 400796,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzNlZGFkNDRmZGYyM2I5MmU1ZmVkNjZkMTE0ODMxZWRlMzRiYWVj",
+  "snapshot_id": "MCw3MWQwY2Q1ZmMzYWZiZTgzNjU2MGZlYWZhMWZjMmZlNjhkMzViNDU5",
   "tracks": [
     {
       "added_at": "2023-11-24 01:15:27",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Planet Caravan",
-        "url": "https://open.spotify.com/album/34ybO2ipCxno1JatWdXnsS"
-      },
-      "artists": [
-        {
-          "name": "Moon Duo",
-          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
-        }
-      ],
-      "duration_ms": 551138,
-      "name": "Planet Caravan",
-      "url": "https://open.spotify.com/track/5QBzorRtkUglhnTQBzNJMU"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "Moonlust",
         "url": "https://open.spotify.com/album/5dsTu76YBUMKIvgjrswqpF"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 205010,
       "name": "Concorde",
       "url": "https://open.spotify.com/track/5ULB93v4tHdKtXC4LTa3k1"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Planet Caravan",
+        "url": "https://open.spotify.com/album/34ybO2ipCxno1JatWdXnsS"
+      },
+      "artists": [
+        {
+          "name": "Moon Duo",
+          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
+        }
+      ],
+      "duration_ms": 551138,
+      "name": "Planet Caravan",
+      "url": "https://open.spotify.com/track/5QBzorRtkUglhnTQBzNJMU"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Stars Are the Light",
-        "url": "https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5"
-      },
-      "artists": [
-        {
-          "name": "Moon Duo",
-          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
-        }
-      ],
-      "duration_ms": 386966,
-      "name": "Lost Heads",
-      "url": "https://open.spotify.com/track/6f8wIpMdNnL7CZ8zsfmh6v"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "D\u00e9j\u00e0vu",
         "url": "https://open.spotify.com/album/2priXi39uori5UwmnwA6oO"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 312360,
       "name": "I'll Gladly Place Myself Below You",
       "url": "https://open.spotify.com/track/4FSL3oH2RpoazyJRY2qGfx"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "No Way In",
+        "url": "https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2"
+      },
+      "artists": [
+        {
+          "name": "JJUUJJUU",
+          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
+        }
+      ],
+      "duration_ms": 246125,
+      "name": "No Way In",
+      "url": "https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -591,18 +591,18 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "No Way In",
-        "url": "https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2"
+        "name": "Stars Are the Light",
+        "url": "https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5"
       },
       "artists": [
         {
-          "name": "JJUUJJUU",
-          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
+          "name": "Moon Duo",
+          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
         }
       ],
-      "duration_ms": 246125,
-      "name": "No Way In",
-      "url": "https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL"
+      "duration_ms": 386966,
+      "name": "Lost Heads",
+      "url": "https://open.spotify.com/track/6f8wIpMdNnL7CZ8zsfmh6v"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Music For Film: Tramps!",
-        "url": "https://open.spotify.com/album/3cgyHNLkCzJBO631WnduVk"
-      },
-      "artists": [
-        {
-          "name": "MEMORIALS",
-          "url": "https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP"
-        }
-      ],
-      "duration_ms": 125973,
-      "name": "Boudicaaa",
-      "url": "https://open.spotify.com/track/1o7RV3dp8GwmRvQA2erpWU"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "everything's worth it",
         "url": "https://open.spotify.com/album/1JkKG9yyfzYJfzUNOCsZic"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 285643,
       "name": "The Blue Marble",
       "url": "https://open.spotify.com/track/4qvPp0Lt3MWWwHVb72Taox"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Music For Film: Tramps!",
+        "url": "https://open.spotify.com/album/3cgyHNLkCzJBO631WnduVk"
+      },
+      "artists": [
+        {
+          "name": "MEMORIALS",
+          "url": "https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP"
+        }
+      ],
+      "duration_ms": 125973,
+      "name": "Boudicaaa",
+      "url": "https://open.spotify.com/track/1o7RV3dp8GwmRvQA2erpWU"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "EL ELIXIR DE TUS LABIOS",
-        "url": "https://open.spotify.com/album/3IoZMNSHUsK6kSE80DLOZ4"
-      },
-      "artists": [
-        {
-          "name": "Daniel Qui\u00e9n",
-          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "EL ELIXIR DE TUS LABIOS",
-      "url": "https://open.spotify.com/track/6F1bYqnUYqkPEozNbERZQf"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "Wilderness of Mirrors",
         "url": "https://open.spotify.com/album/0ggygybxG3Il8OWZoelu6B"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 338613,
       "name": "Joe Frazier",
       "url": "https://open.spotify.com/track/7Bb8qmumwlC2nTOp09ciH6"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "EL ELIXIR DE TUS LABIOS",
+        "url": "https://open.spotify.com/album/3IoZMNSHUsK6kSE80DLOZ4"
+      },
+      "artists": [
+        {
+          "name": "Daniel Qui\u00e9n",
+          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "EL ELIXIR DE TUS LABIOS",
+      "url": "https://open.spotify.com/track/6F1bYqnUYqkPEozNbERZQf"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Norfolk Hotel",
-        "url": "https://open.spotify.com/album/6ciMfe8dPnz1OK3ZGe27KZ"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 274176,
-      "name": "Norfolk Hotel",
-      "url": "https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "The Trip",
         "url": "https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 257972,
       "name": "The Trip",
       "url": "https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Norfolk Hotel",
+        "url": "https://open.spotify.com/album/6ciMfe8dPnz1OK3ZGe27KZ"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "duration_ms": 274176,
+      "name": "Norfolk Hotel",
+      "url": "https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Spin",
-        "url": "https://open.spotify.com/album/6GejDhVjHKAmQnPkyW6csf"
-      },
-      "artists": [
-        {
-          "name": "Triathalon",
-          "url": "https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3"
-        }
-      ],
-      "duration_ms": 212203,
-      "name": "Spin",
-      "url": "https://open.spotify.com/track/31MLGEYrKwoTmMoH50JDEw"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/3flX72PpF0OuV53f5HrKoS"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 896226,
       "name": "Acid Crusher",
       "url": "https://open.spotify.com/track/3JORo0UuJp17QF5A5EWwRX"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Spin",
+        "url": "https://open.spotify.com/album/6GejDhVjHKAmQnPkyW6csf"
+      },
+      "artists": [
+        {
+          "name": "Triathalon",
+          "url": "https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3"
+        }
+      ],
+      "duration_ms": 212203,
+      "name": "Spin",
+      "url": "https://open.spotify.com/track/31MLGEYrKwoTmMoH50JDEw"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Sancocho Stereo",
-        "url": "https://open.spotify.com/album/38Y2bvBgrjb4zyMrGlJjAq"
-      },
-      "artists": [
-        {
-          "name": "Los Espiritus",
-          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "Todo Bien",
-      "url": "https://open.spotify.com/track/4GZknZiW5V6uCJYBdutfkD"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/1uk2d7U9mHyflSmcPxkhV5"
       },
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "An Cnoc M\u00f3r",
-        "url": "https://open.spotify.com/album/5SHAueNfvUkFGaD2uh3fmp"
+        "name": "Sancocho Stereo",
+        "url": "https://open.spotify.com/album/38Y2bvBgrjb4zyMrGlJjAq"
       },
       "artists": [
         {
-          "name": "Moundabout",
-          "url": "https://open.spotify.com/artist/1Bx8PsKhqwixBmGYesbG5l"
+          "name": "Los Espiritus",
+          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
         }
       ],
-      "duration_ms": 515435,
-      "name": "Instinct, Eye and Mind",
-      "url": "https://open.spotify.com/track/5PKcYo5HKaq841MUcWwNfy"
+      "duration_ms": 273000,
+      "name": "Todo Bien",
+      "url": "https://open.spotify.com/track/4GZknZiW5V6uCJYBdutfkD"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1131,6 +1115,22 @@
       "duration_ms": 300866,
       "name": "Dividual Individual",
       "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "An Cnoc M\u00f3r",
+        "url": "https://open.spotify.com/album/5SHAueNfvUkFGaD2uh3fmp"
+      },
+      "artists": [
+        {
+          "name": "Moundabout",
+          "url": "https://open.spotify.com/artist/1Bx8PsKhqwixBmGYesbG5l"
+        }
+      ],
+      "duration_ms": 515435,
+      "name": "Instinct, Eye and Mind",
+      "url": "https://open.spotify.com/track/5PKcYo5HKaq841MUcWwNfy"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Reap the Storm",
-        "url": "https://open.spotify.com/album/2cjYFCwK1QT5gt90rGsEMS"
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
       },
       "artists": [
         {
-          "name": "Wucan",
-          "url": "https://open.spotify.com/artist/7FsZ5HKdtDFJ1xmK6NICBO"
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
         }
       ],
-      "duration_ms": 325015,
-      "name": "The Rat Catcher",
-      "url": "https://open.spotify.com/track/06GMFLjz0xowyKlmTbJyHZ"
+      "duration_ms": 214466,
+      "name": "Saku Saku (\u30b5\u30af\u30b5\u30af)",
+      "url": "https://open.spotify.com/track/75QD1PVCs0B2yWSqexcZ1P"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1247,34 +1247,18 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Hippie Hourrah!",
-        "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
+        "name": "Reap the Storm",
+        "url": "https://open.spotify.com/album/2cjYFCwK1QT5gt90rGsEMS"
       },
       "artists": [
         {
-          "name": "Hippie Hourrah",
-          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
+          "name": "Wucan",
+          "url": "https://open.spotify.com/artist/7FsZ5HKdtDFJ1xmK6NICBO"
         }
       ],
-      "duration_ms": 306453,
-      "name": "Fant\u00f4me",
-      "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 214466,
-      "name": "Saku Saku (\u30b5\u30af\u30b5\u30af)",
-      "url": "https://open.spotify.com/track/75QD1PVCs0B2yWSqexcZ1P"
+      "duration_ms": 325015,
+      "name": "The Rat Catcher",
+      "url": "https://open.spotify.com/track/06GMFLjz0xowyKlmTbJyHZ"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Azure",
-        "url": "https://open.spotify.com/album/31lFR1BLOhNmWSh24DHPlv"
+        "name": "Hippie Hourrah!",
+        "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
       },
       "artists": [
         {
-          "name": "Kaleydo",
-          "url": "https://open.spotify.com/artist/0lUzMAqPTftADJZmdLe8ur"
+          "name": "Hippie Hourrah",
+          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
         }
       ],
-      "duration_ms": 155975,
-      "name": "Azure",
-      "url": "https://open.spotify.com/track/3vdrGJ80tat9sdn4np0OVV"
+      "duration_ms": 306453,
+      "name": "Fant\u00f4me",
+      "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1355,6 +1339,22 @@
       "duration_ms": 240468,
       "name": "Forever End",
       "url": "https://open.spotify.com/track/5aGBLQ3Xrbo7Ok0XDRM3bj"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Azure",
+        "url": "https://open.spotify.com/album/31lFR1BLOhNmWSh24DHPlv"
+      },
+      "artists": [
+        {
+          "name": "Kaleydo",
+          "url": "https://open.spotify.com/artist/0lUzMAqPTftADJZmdLe8ur"
+        }
+      ],
+      "duration_ms": 155975,
+      "name": "Azure",
+      "url": "https://open.spotify.com/track/3vdrGJ80tat9sdn4np0OVV"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
+        "name": "EP1",
+        "url": "https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ"
+      },
+      "artists": [
+        {
+          "name": "The Lazy Eyes",
+          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "The Seaside - Edit",
+      "url": "https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
         "name": "Bud Spencer Blues Explosion",
         "url": "https://open.spotify.com/album/6bmgowes6uR9WeQggryKqL"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 139773,
       "name": "RU",
       "url": "https://open.spotify.com/track/5nkKeNCnQ8dJ4gtwwzXVw9"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
-        "name": "EP1",
-        "url": "https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ"
-      },
-      "artists": [
-        {
-          "name": "The Lazy Eyes",
-          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "The Seaside - Edit",
-      "url": "https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Transporter",
-        "url": "https://open.spotify.com/album/6GSwsFG6B9fT0Ue7nnWuxe"
-      },
-      "artists": [
-        {
-          "name": "Ouzo Bazooka",
-          "url": "https://open.spotify.com/artist/2y1Se69lBJcw9GPYEJKQVj"
-        }
-      ],
-      "duration_ms": 397813,
-      "name": "Space Camel",
-      "url": "https://open.spotify.com/track/6RKoe7UCtdONhVdo6625Lt"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "Ghost Tapes #10",
         "url": "https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 364048,
       "name": "Burial",
       "url": "https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Transporter",
+        "url": "https://open.spotify.com/album/6GSwsFG6B9fT0Ue7nnWuxe"
+      },
+      "artists": [
+        {
+          "name": "Ouzo Bazooka",
+          "url": "https://open.spotify.com/artist/2y1Se69lBJcw9GPYEJKQVj"
+        }
+      ],
+      "duration_ms": 397813,
+      "name": "Space Camel",
+      "url": "https://open.spotify.com/track/6RKoe7UCtdONhVdo6625Lt"
     },
     {
       "added_at": "2023-11-24 01:15:27",

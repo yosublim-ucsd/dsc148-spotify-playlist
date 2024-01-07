@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,116 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,094 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 50 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/3izBQhKOGofHcyILP6iTPs) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/5O82nLMtVVvv6Es9dhNChD) | 2:16 |
 | 51 | [Silent Night](https://open.spotify.com/track/7xCJ4D6ka7bXhGbL4NsEEi) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Silent Night](https://open.spotify.com/album/2InCKrQ5NeFtanOHA46WAz) | 3:45 |
 | 52 | [Only You](https://open.spotify.com/track/3eNRpOVS82tR5p9KWxzoHF) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only You](https://open.spotify.com/album/2EmP2o5bOPTUAGCEacdDxB) | 2:52 |
-| 53 | [Oh Holy Night \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/0yS8P7DFNEBYQ5yHadM5z0) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Spotify Singles \- Christmas](https://open.spotify.com/album/7M98dHpMyIBx7jwE8MO2tM) | 3:47 |
-| 54 | [Love Is A Compass \- Disney supporting Make\-A\-Wish](https://open.spotify.com/track/6lx41mPrde3vkcb8qUQOOi) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Love Is A Compass \(Disney supporting Make\-A\-Wish\)](https://open.spotify.com/album/24JJvusSGIAOn9GiHLvWz9) | 3:01 |
+| 53 | [Love Is A Compass \- Disney supporting Make\-A\-Wish](https://open.spotify.com/track/6lx41mPrde3vkcb8qUQOOi) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Love Is A Compass \(Disney supporting Make\-A\-Wish\)](https://open.spotify.com/album/24JJvusSGIAOn9GiHLvWz9) | 3:01 |
+| 54 | [Oh Holy Night \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/0yS8P7DFNEBYQ5yHadM5z0) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Spotify Singles \- Christmas](https://open.spotify.com/album/7M98dHpMyIBx7jwE8MO2tM) | 3:47 |
 | 55 | [Loneliest Time Of Year](https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Loneliest Time Of Year](https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ) | 3:22 |
 | 56 | [Joy To The World](https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 4:20 |
 | 57 | [A Winter's Tale](https://open.spotify.com/track/2MZg8AD2iw6XR2BsIZqOvf) | [David Essex](https://open.spotify.com/artist/46n0cAhBmsRJZiX6GSFmbf) | [The Whisper](https://open.spotify.com/album/6XCCWmkQ2pSOnZucLKTN1L) | 4:11 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 79 | [Together In Electric Dreams](https://open.spotify.com/track/54T9q6T1LyWJrSMYOVDV58) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Together In Electric Dreams](https://open.spotify.com/album/5LT3id7rPUZCZvAZMZSjzy) | 3:21 |
 | 80 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/7D7hkD9QjhSb385O23Vr5K) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Happy Xmas \(War Is Over\)](https://open.spotify.com/album/076YZeSsRS01JRYazQplIj) | 3:55 |
 
-Snapshot ID: `MCw0ZTkyYWIwMDdhZmQzMzEyNjdmYTY1NWNkYWZmNTYzMGRjNjYzMjc2`
+Snapshot ID: `MCwzMWQ0NmZhYWI5YTgyN2NjMWYwYzdhYjhjMWYzMDUxYzI1Y2QwNWI1`

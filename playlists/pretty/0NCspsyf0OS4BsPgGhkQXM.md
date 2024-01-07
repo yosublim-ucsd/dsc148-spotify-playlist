@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The Official Trap Nation Playlist
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,050,856 likes - 140 songs - 7 hr 21 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,050,889 likes - 140 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 43 | [Dopamine](https://open.spotify.com/track/06SYPTeNIfBFGJDpGepz5v) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [SIDEQUEST](https://open.spotify.com/album/23PvqNP9LBwte6EkdJQsBB) | 5:09 |
 | 44 | [Love Game \- Slowed](https://open.spotify.com/track/2PUKF7oK4yIONZfu5XQ14t) | [Bread Beatz](https://open.spotify.com/artist/6Bwo8WbpyBecVCrrKcAtuH) | [Love Game \(Slowed\)](https://open.spotify.com/album/0Vh1m0GMK9olIO1DmYC3I4) | 2:37 |
 | 45 | [Bass In Yo Face](https://open.spotify.com/track/2ez05kaHbFLyu70MMSNQpA) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Bass In Yo Face](https://open.spotify.com/album/1XMX76i2nCTl52fvyV7zra) | 3:07 |
-| 46 | [SOCADÃO](https://open.spotify.com/track/4O5aR203HU1jp0z2o4ndID) | [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9), [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id) | [SOCADÃO](https://open.spotify.com/album/6C2CXWT4GTpFoGI2qFNCFv) | 1:36 |
+| 46 | [SOCADÃO](https://open.spotify.com/track/4O5aR203HU1jp0z2o4ndID) | [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9), [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id) | [SOCADÃO](https://open.spotify.com/album/6C2CXWT4GTpFoGI2qFNCFv) | 1:32 |
 | 47 | [GUD VIBRATIONS](https://open.spotify.com/track/2BVUOGciUUUqOPSLtHwLGp) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q) | [GUD VIBRATIONS](https://open.spotify.com/album/1ABYsJwhqu0MoN3HVn3tKi) | 3:44 |
 | 48 | [Nothing's Perfect \(TWISTED + Tearz Remix\)\(feat\. Oliver Tree\)](https://open.spotify.com/track/28ZRFtSjxgKZ9bKcQW0idF) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Tearz](https://open.spotify.com/artist/0uNg4OGi0R7A0tZDRzzJ8m) | [Nothing's Perfect \(TWISTED + Tearz Remix\)\(feat\. Oliver Tree\)](https://open.spotify.com/album/3rP3C80JqQikycLkKAhnuo) | 3:07 |
 | 49 | [Beautiful Strangers](https://open.spotify.com/track/0pSWd4x9Nc2JfyofJnjVg7) | [HARBER](https://open.spotify.com/artist/31TGg0YIcWnprDAqruoJSd) | [Beautiful Strangers](https://open.spotify.com/album/1Wopro4nOGhYXwfNkOHmd9) | 3:00 |

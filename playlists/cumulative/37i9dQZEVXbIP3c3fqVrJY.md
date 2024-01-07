@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Czech Republic.
 
-1,300 songs - 2 day 18 hr 51 min
+1,301 songs - 2 day 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [About Damn Time](https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:11 | 2022-07-20 | 2023-01-03 |
 | [Adagio for Hate](https://open.spotify.com/track/0KVgSVzPwEwCYXZNDP3D1C) | [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Návrat na planetu Zemi](https://open.spotify.com/album/4MVM6BJQ15yt9d0fUFwzYG) | 2:22 | 2021-11-14 | 2021-11-14 |
 | [Addict](https://open.spotify.com/track/7vJms0iRb7HchMpTwxNUGl) | [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [Make Sudety Great Again](https://open.spotify.com/album/16CWhtg43duVWGTaXlMGKt) | 3:39 | 2022-10-01 | 2022-10-03 |
+| [Adikts](https://open.spotify.com/track/6o4cDECLikccxhiW4401fN) | [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Adikts](https://open.spotify.com/album/29pEqr9x4I74wLGUPDq68i) | 2:42 | 2024-01-06 |  |
 | [After Dark](https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ) | 4:17 | 2022-07-11 | 2022-10-01 |
 | [After Dark](https://open.spotify.com/track/5FkJHVudUByVjanCqFXRql) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/0yeP5olfo8IIu6UBGfUWHo) | 4:17 | 2023-01-17 | 2023-01-25 |
 | [After Hours](https://open.spotify.com/track/2p8IUWQDrpjuFltbdgLOag) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 6:01 | 2023-08-08 | 2023-08-10 |
@@ -343,7 +344,7 @@
 | [Flooded The Face](https://open.spotify.com/track/4daEMLSZCgZ2Mt7gNm2SRa) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:12 | 2023-07-01 | 2023-07-03 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-15 | 2023-03-12 |
 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-03-11 | 2023-09-27 |
-| [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2023-09-26 |  |
+| [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2023-09-26 | 2024-01-07 |
 | [Follow You](https://open.spotify.com/track/1RZUlzNWbvCBeoSkapPgVR) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Act 1](https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt) | 2:55 | 2022-06-06 | 2022-06-15 |
 | [Follow You](https://open.spotify.com/track/375kzpRydDdOxOSCGMK53b) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Act 1](https://open.spotify.com/album/6DdU5f52hpc2gfeLjK374Y) | 2:55 | 2021-09-05 | 2021-11-08 |
 | [Follow You](https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Follow You / Cutthroat](https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY) | 2:55 | 2021-04-21 | 2021-07-29 |
@@ -1080,14 +1081,14 @@
 | [svet je tvoj](https://open.spotify.com/track/1I20637Fn2WHxQ9L1EEggS) | [Samey](https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt), [Zayo](https://open.spotify.com/artist/0lf8LVkrjg9GudchoppC5q) | [Anarchia](https://open.spotify.com/album/4zqBS3OrQBtBconkN08EXW) | 1:37 | 2021-09-03 | 2021-09-04 |
 | [Světlo \(feat\. Calin\)](https://open.spotify.com/track/5R4Ura4Wazydkl2N8VnaER) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i), [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [Planeta opic](https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl) | 2:26 | 2023-10-14 | 2023-11-09 |
 | [Swagged to Death](https://open.spotify.com/track/7Czz5Jyrsz3O5UjDmE3Wez) | [CA$HANOVA BULHAR](https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton) | [FLEX SYMBOL](https://open.spotify.com/album/1QDlOEwDFrc3Db7Rkrwu2I) | 2:13 | 2023-12-26 |  |
-| [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2021-03-30 |  |
+| [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2021-03-30 | 2024-01-07 |
 | [Sweet Nothing](https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:08 | 2022-10-22 | 2022-10-24 |
 | [Switch](https://open.spotify.com/track/46uHhxAyK4JFr8jU1PzoVs) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [POPSTAR](https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK) | 1:24 | 2022-03-12 | 2022-03-27 |
 | [SYPEJ SYPEJ](https://open.spotify.com/track/0KHo3DLFUrP2Etm91ICkiq) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [J\. EDEN E\-GEN \(mixed by NobodyListen\)](https://open.spotify.com/album/3d9csZH2s2QPeC9leP6i2g) | 2:04 | 2022-02-26 | 2022-03-01 |
 | [Sám Doma](https://open.spotify.com/track/5pRNQUqRbt0IjzqsdES5k5) | [Earth](https://open.spotify.com/artist/145RezaSLWGxp3SLnAcHPr) | [Sám Doma](https://open.spotify.com/album/34r6Ku7AG46DlChj2J4KkX) | 3:16 | 2021-10-08 | 2021-10-29 |
 | [Sám proti sobě](https://open.spotify.com/track/5piKQybO9jiWwRADTjUNbz) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Planeta opic](https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl) | 1:51 | 2023-10-14 | 2023-11-12 |
 | [Sérum](https://open.spotify.com/track/3AExPJ7KcjzpJWY2k8UAZO) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Příběhy a sny](https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4) | 3:01 | 2021-11-20 | 2023-06-11 |
-| [Síla Starejch Vín](https://open.spotify.com/track/6qgMr9LacgnihY9IdYriMP) | [ŠKWOR](https://open.spotify.com/artist/5gRumjUBK1fHfuOlQxspJ9) | [Sliby & Lži](https://open.spotify.com/album/5rRNoU2JbxfgQ7SOdHxKUl) | 2:54 | 2021-03-29 | 2024-01-05 |
+| [Síla Starejch Vín](https://open.spotify.com/track/6qgMr9LacgnihY9IdYriMP) | [ŠKWOR](https://open.spotify.com/artist/5gRumjUBK1fHfuOlQxspJ9) | [Sliby & Lži](https://open.spotify.com/album/5rRNoU2JbxfgQ7SOdHxKUl) | 2:54 | 2021-03-29 |  |
 | [Taboo](https://open.spotify.com/track/7bnO0cCQYQanUV1xKZ8XcV) | [CA$HANOVA BULHAR](https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton), [Patrik Love ICY L](https://open.spotify.com/artist/1YV8tnErKoEiXuWGYWMI8N) | [FLEX SYMBOL](https://open.spotify.com/album/1QDlOEwDFrc3Db7Rkrwu2I) | 2:14 | 2023-12-26 |  |
 | [Tak Jo](https://open.spotify.com/track/5Fn2YHArLZ7iWpcGNNlwdk) | [Smack](https://open.spotify.com/artist/7pbijUBmXdie5ChABSM4F7), [Huclberry](https://open.spotify.com/artist/0TugplS9T5YUowNlX8MRZt) | [END 2 END](https://open.spotify.com/album/05uDINMCU7mz3jsnris5CM) | 3:59 | 2023-10-06 | 2023-10-08 |
 | [Tak se nezlob](https://open.spotify.com/track/2c1bi72Up6wiYxDn49CFdD) | [Marek Ztraceny](https://open.spotify.com/artist/7s4NiavZ071gzNghPJVmUu) | [Planeta jménem stres](https://open.spotify.com/album/5fTW9efdCtxCLOSWO70iLe) | 3:01 | 2021-09-20 | 2021-09-21 |

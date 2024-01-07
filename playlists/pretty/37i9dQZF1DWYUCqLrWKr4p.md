@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUCqLrWKr4p.md) - [plain]
 
 > Unforgettable love songs from the 1960s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,935 likes - 73 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,089 likes - 73 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUCqLrWKr4p.md) - [plain]
 | 42 | [I Never Loved a Man \(The Way I Love You\)](https://open.spotify.com/track/1hES47PrbU8GPTI5A9lsr0) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:51 |
 | 43 | [It Takes Two](https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Kim Weston](https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL) | [Take Two](https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK) | 2:57 |
 | 44 | [Fly Me To The Moon \(In Other Words\)](https://open.spotify.com/track/1iZgzgmsFsi0deffe0rleB) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [It Might As Well Be Swing](https://open.spotify.com/album/5lXF6AFeXG8UsIUfBJNsNH) | 2:29 |
-| 45 | [Piece of My Heart](https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae) | [Erma Franklin](https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG) | [Erma Franklin: Piece Of Her Heart \- The Epic And Shout Years](https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW) | 2:37 |
-| 46 | [Blue Velvet](https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [The Best Of Bobby Vinton](https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA) | 2:48 |
+| 45 | [Blue Velvet](https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [The Best Of Bobby Vinton](https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA) | 2:48 |
+| 46 | [Piece of My Heart](https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae) | [Erma Franklin](https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG) | [Erma Franklin: Piece Of Her Heart \- The Epic And Shout Years](https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW) | 2:37 |
 | 47 | [This Magic Moment \- Single Version; Remastered](https://open.spotify.com/track/6wccwN37R7tRotVrK8Htni) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Hits and Rarities](https://open.spotify.com/album/2bV0PFcxYOfBKqwWczSL5c) | 2:29 |
 | 48 | [Till There Was You \- Remastered](https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Latin Ala Lee](https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK) | 2:31 |
 | 49 | [Mad About The Boy](https://open.spotify.com/track/1c7ELD4W6VyoKTglc4zzUH) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury Vol\. 2 \(1950\-1952\)](https://open.spotify.com/album/2ijZDafBX3xtZSGUkxccZ6) | 3:02 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUCqLrWKr4p.md) - [plain]
 | 58 | [Angel Baby](https://open.spotify.com/track/1HzfcOcxJeGmxgf5a6MK0W) | [Rosie & The Originals](https://open.spotify.com/artist/422gtj7D6L6pvr0GE08lwf) | [Presenting Rosie & the Originals](https://open.spotify.com/album/76X16nVTLk9S8FrLrAP8ff) | 3:47 |
 | 59 | [This Magic Moment](https://open.spotify.com/track/74i6ZrnR1WzZsuc3qrJg7I) | [Jay & The Americans](https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs) | [Complete United Artists Singles](https://open.spotify.com/album/4hwFFfpDp28EYWbVZoZ9pi) | 2:57 |
 | 60 | [My Guy \- Single Version](https://open.spotify.com/track/7arXVtGNJPa7aOHiKOeUsl) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [The Definitive Collection](https://open.spotify.com/album/0rgnbePrBYNFSaXnCZOcod) | 2:51 |
-| 61 | [Forever](https://open.spotify.com/track/3s2inuLbQQZ7z1GJrdlQr6) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Playboy](https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic) | 2:21 |
-| 62 | [The Look Of Love](https://open.spotify.com/track/1Kx5LdJPpqRXKUUHBu9CTe) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [The Look Of Love](https://open.spotify.com/album/3clrlTlu2wENPvdXz88YPh) | 3:36 |
+| 61 | [The Look Of Love](https://open.spotify.com/track/1Kx5LdJPpqRXKUUHBu9CTe) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [The Look Of Love](https://open.spotify.com/album/3clrlTlu2wENPvdXz88YPh) | 3:36 |
+| 62 | [Forever](https://open.spotify.com/track/3s2inuLbQQZ7z1GJrdlQr6) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Playboy](https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic) | 2:21 |
 | 63 | [Lady Willpower](https://open.spotify.com/track/1wXUeV5w6MkRFwMZu060U9) | [Gary Puckett & The Union Gap](https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ) | [Super Hits](https://open.spotify.com/album/6J4iMx3rWJ0lFmSPdI14Io) | 2:45 |
 | 64 | [I Love How You Love Me](https://open.spotify.com/track/6wceQSqQDvdcw0cMNKdp7s) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [I Love How You Love Me](https://open.spotify.com/album/4gurJ6L9p3piSJutIH2E3z) | 2:30 |
 | 65 | [\(Today I Met\) The Boy I'm Gonna Marry](https://open.spotify.com/track/2Px4PrbPBMeWB1silbjI5H) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [The Sound Of Love: The Very Best Of Darlene Love](https://open.spotify.com/album/2KMh9uqFrGblh1Ui23yoXU) | 2:46 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUCqLrWKr4p.md) - [plain]
 | 72 | [Love Child](https://open.spotify.com/track/1JguzruTnY4PrbWu7BKD38) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [The Definitive Collection](https://open.spotify.com/album/4SFKj31HM4ZHONVy5TZoGR) | 2:55 |
 | 73 | [You Can Count On Me](https://open.spotify.com/track/0SShdjTlefnYkLOqlVzGZH) | [Mel Carter](https://open.spotify.com/artist/3CgsVtt7tP8iduzkTCfel9) | [You Can Count On Me](https://open.spotify.com/album/6bHotJZZGphw5gHRCdwETH) | 3:16 |
 
-Snapshot ID: `MCwxYmVjYjMxYzA2MjZmZTUxMTU2ZjdkZWFjNzMyMjRjNjE1ZmFhODFm`
+Snapshot ID: `MCxhNGU5MDEwODlmYzQ0ZmUwNTYwNzg3YzJmMGI4OWQ5ZTQ1OGM2ZjI5`

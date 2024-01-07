@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 
 > Bollywood crooner's essential songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 937,518 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 938,141 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 | 17 | [Tere Pyaar Mein](https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Tere Pyaar Mein \(From "Tu Jhoothi Main Makkaar"\)](https://open.spotify.com/album/5uAi4ZZc7zRdd6PsKNcJXO) | 4:26 |
 | 18 | [Khairiyat](https://open.spotify.com/track/5O932cZmzOZGOGZz9RHx20) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Chhichhore](https://open.spotify.com/album/2Svje8vKEM4VCKxoRyAvA4) | 4:40 |
 | 19 | [Aabaad Barbaad](https://open.spotify.com/track/3jxNbVmugKWFFc3YAVl0sD) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ludo](https://open.spotify.com/album/6FoLUhYlbncGfVYckWTqLv) | 5:09 |
-| 20 | [Mann Jogiya \(From "Pyaar Hai Toh Hai"\)](https://open.spotify.com/track/2hUvNEhLERQwpdjOr2Xp0A) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Ishita Vishwakarma](https://open.spotify.com/artist/2oaus66w5EZnNJo22QGq8Z), [Anique](https://open.spotify.com/artist/0RTlYaS7rlNGSc16WACt4w) | [Mann Jogiya \(From "Pyaar Hai Toh Hai"\)](https://open.spotify.com/album/7woqkUS6rtUGOnYvMRtC4K) | 4:24 |
+| 20 | [Mann Jogiya \(From "Pyaar Hai Toh Hai"\)](https://open.spotify.com/track/1oHCAYOHUIrjBcizvDShgD) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Ishita Vishwakarma](https://open.spotify.com/artist/2oaus66w5EZnNJo22QGq8Z), [Anique](https://open.spotify.com/artist/0RTlYaS7rlNGSc16WACt4w) | [Mann Jogiya \(From "Pyaar Hai Toh Hai"\)](https://open.spotify.com/album/2ImAdzXUegNcgAV2mhbolb) | 4:24 |
 | 21 | [Oonchi Oonchi Deewarein \(From "Yaariyan 2"\)](https://open.spotify.com/track/4EAxNKJQEIIcivG82cU5LM) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Oonchi Oonchi Deewarein \(From "Yaariyan 2"\)](https://open.spotify.com/album/4j3UkSRlAyWElz9VNf7toV) | 4:11 |
 | 22 | [Rait Zara Si \(From "Atrangi Re"\)](https://open.spotify.com/track/4uK0M8AI6gyFmyzUneQpbi) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Rait Zara Si \(From "Atrangi Re"\)](https://open.spotify.com/album/2L1otdfoUvp3MKdaT4knVK) | 4:51 |
 | 23 | [Tera Fitoor](https://open.spotify.com/track/1YMLgvsQdE27r30q0fsLeV) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Genius \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3RtFFza4brQXoNSv19g1ps) | 5:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 | 49 | [Tu Har Lamha](https://open.spotify.com/track/2EPOgSRhA90xWGVtNZwEv8) | [Bobby\-Imran](https://open.spotify.com/artist/5HgB3r11CTMckYeopesztP), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Khamoshiyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6mJIpY6r2SzZbLN3ClYCbb) | 4:32 |
 | 50 | [Bulleya \- Reprise](https://open.spotify.com/track/0FeJltV3BtqpyQZ0hv49oi) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 5:48 |
 
-Snapshot ID: `MCxiNmEwZWY0NjNiMTk3ZGIwMjBkNzg4Mzg5NGM0NzJlMDMzOWQ4MTYw`
+Snapshot ID: `MCwyNjZjMWE4YjA4Y2JiY2VmOTJmNWRkNzkxZjQ0NGFiMDMwM2UyNjZl`

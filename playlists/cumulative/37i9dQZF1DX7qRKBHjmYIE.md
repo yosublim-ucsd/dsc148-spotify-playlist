@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Jesse Baez.
 
-622 songs - 1 day 9 hr 48 min
+623 songs - 1 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -584,6 +584,7 @@
 | [UN AÑO DE MIERDA](https://open.spotify.com/track/6ULVB1kHPglPyGX49qX37Y) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [UN AÑO DE MIERDA](https://open.spotify.com/album/6FDiDIZgRhpRZcuL7DWQ5O) | 2:50 | 2023-08-25 | 2023-09-30 |
 | [Un Día](https://open.spotify.com/track/2g2VPxPZTKVr7Vzbi9KSF9) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Un Día](https://open.spotify.com/album/0PW9vbpQvymPkiXvz8RycK) | 2:44 | 2023-03-08 | 2023-05-13 |
 | [Un Momento](https://open.spotify.com/track/5xtBpogt0Id3kcnj7fP1nK) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Limerencia](https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj) | 3:09 | 2022-10-24 | 2023-02-17 |
+| [Una Vida](https://open.spotify.com/track/1Q4kVMA8OnbVVuq0kQMYRv) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Una Vida](https://open.spotify.com/album/3adxFEMsq25Adf8bHWX4rL) | 4:04 | 2024-01-05 |  |
 | [Unbothered](https://open.spotify.com/track/3pBG8fHFEUp3edhWfkIoCW) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Unbothered](https://open.spotify.com/album/2KV3y0IfAswzlbd2iJIgwU) | 2:04 | 2023-02-17 | 2023-03-09 |
 | [Uno Dos](https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [Jaden Smith](https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4) | [¿Téo?](https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g) | 2:50 | 2022-02-09 | 2023-02-17 |
 | [up at night \(feat\. justin bieber\)](https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [up at night \(feat\. justin bieber\)](https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89) | 3:02 | 2022-04-08 | 2023-02-03 |
@@ -627,7 +628,7 @@
 | [Zendaya](https://open.spotify.com/track/722xKS7DxafZfGSun3qrdU) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Zendaya](https://open.spotify.com/album/3QzxQIii3EXNjbEtSH6L6x) | 2:18 | 2023-05-05 | 2023-07-22 |
 | [Zuggy](https://open.spotify.com/track/1U5kOeFX28ZtSzKH2xypvP) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Panther in Mode](https://open.spotify.com/album/23J7otrnhFa80hs2xCpKw1) | 3:24 | 2022-05-25 | 2022-07-21 |
 | [¿Para dónde vamos?](https://open.spotify.com/track/51Eock8moiROVuwifuovBF) | [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD), [Andrik](https://open.spotify.com/artist/2EQprQtkdtAXyg6PsQl4Wp) | [¿Para dónde vamos?](https://open.spotify.com/album/66Juh4grDFoKjsWAoRbJLL) | 3:34 | 2023-02-17 | 2023-08-26 |
-| [ódiame si quieres](https://open.spotify.com/track/3xWcHcH4ISXng1Y2IowtMm) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [rimas del verbo amar](https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn) | 2:42 | 2023-08-25 |  |
+| [ódiame si quieres](https://open.spotify.com/track/3xWcHcH4ISXng1Y2IowtMm) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [rimas del verbo amar](https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn) | 2:42 | 2023-08-25 | 2024-01-07 |
 | [Último Adiós](https://open.spotify.com/track/7lBhTIVEhFmuptaX7Cs1vD) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf), [Baltazar Clusellas](https://open.spotify.com/artist/37hRvfW8T7lfdU7XdpZ6nX) | [Último Adiós](https://open.spotify.com/album/3NypapKHKGVY92ONbBSy3M) | 3:57 | 2023-12-08 | 2023-12-16 |
 | [Úsame](https://open.spotify.com/track/4HDa866zFSzwOkEhgNHx6F) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Úsame](https://open.spotify.com/album/4ASrjbSq9D0CuHkAHsAhNc) | 3:23 | 2022-05-25 | 2022-07-21 |
 

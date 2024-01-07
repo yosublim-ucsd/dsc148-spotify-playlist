@@ -4,7 +4,7 @@
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: Mohammed Saeed.
 
-106 songs - 5 hr 43 min
+107 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Mehtar](https://open.spotify.com/track/0HOuIvqIhg8gmLSmh8tbOD) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Mehtar](https://open.spotify.com/album/0JuLiEE1xg9UPf9M6KHqC7) | 3:27 | 2022-06-24 |  |
 | [Met3ala2 Beeky](https://open.spotify.com/track/5HS17JQ7GlTOZrensjIbNO) | [Ahmed El Ruby](https://open.spotify.com/artist/4bYHqS5oBc6Jk8LfjbbWTf) | [Met3ala2 Beeky](https://open.spotify.com/album/6l9K0N3YqtarzoeDyyWwh7) | 3:20 | 2022-06-24 | 2023-06-07 |
 | [my secrets](https://open.spotify.com/track/2FUMEJlBFVUaa8ikJD29lF) | [1Take](https://open.spotify.com/artist/52NTEGHT81WhaH9Npafc0G) | [my secrets](https://open.spotify.com/album/0OOKu50qAAcHsgNUUvHXI1) | 4:32 | 2023-10-05 |  |
-| [Ountha](https://open.spotify.com/track/69UHeUvlSuDB6lBQfzWZe1) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Ountha](https://open.spotify.com/album/2olIPtmKbim1KmWV8pIxho) | 3:27 | 2023-03-01 |  |
+| [Ountha](https://open.spotify.com/track/69UHeUvlSuDB6lBQfzWZe1) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Ountha](https://open.spotify.com/album/2olIPtmKbim1KmWV8pIxho) | 3:27 | 2023-03-01 | 2024-01-07 |
+| [Ountha](https://open.spotify.com/track/4M6QHCcum2OOvxF5sblvYN) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Ountha](https://open.spotify.com/album/3QfnsKo5JJ3mCJTyv47crg) | 3:27 | 2023-10-05 |  |
 | [Pressure](https://open.spotify.com/track/55ntpddOSFdNA2Q5nWWazq) | [Hadi](https://open.spotify.com/artist/6IoMp72EAMD3JogASNYTLa) | [Pressure](https://open.spotify.com/album/2CKFkWw3M6cvwNqWVcksrh) | 3:04 | 2022-06-24 | 2022-11-09 |
 | [Red \(feat\. MaMan\)](https://open.spotify.com/track/2PJHJevFPEFWn0CwMv4yZF) | [Walgz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT), [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Hollanda](https://open.spotify.com/album/3kgNHqvzzItDSbhn6tEAVl) | 3:14 | 2022-06-24 |  |
 | [Regoaak](https://open.spotify.com/track/0WDQvg1SEL6rgwfFmgxHe7) | [Hatem Fahmy](https://open.spotify.com/artist/1cAEzDzhESfOrcN9lPQXIR) | [Regoaak](https://open.spotify.com/album/2I2ni6BEYpQlCgahVaKa3R) | 3:35 | 2022-10-07 |  |

@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "DiCaprio 2",
+        "url": "https://open.spotify.com/album/2oI6gtIXrvNiL2VEMmj5kY"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156780,
+      "name": "151 Rum",
+      "url": "https://open.spotify.com/track/22WV03i2lBbwNVCE1g671p"
+    },
+    {
+      "album": {
         "name": "16CHOPPA (feat. Nardo Wick)",
         "url": "https://open.spotify.com/album/3oRxb1TVeDnj7XdvPa7eZk"
       },
@@ -6208,6 +6226,24 @@
       "duration_ms": 111535,
       "name": "I Like",
       "url": "https://open.spotify.com/track/6zaoVw156UmdL8D3xOwggX"
+    },
+    {
+      "album": {
+        "name": "The Off-Season",
+        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133021,
+      "name": "i n t e r l u d e",
+      "url": "https://open.spotify.com/track/08LwMWf5Tcfsd752EPzFV0"
     },
     {
       "album": {
@@ -14508,6 +14544,28 @@
       "duration_ms": 140000,
       "name": "Uncle M",
       "url": "https://open.spotify.com/track/12W6EfKhq8rzCUQxgbr6ev"
+    },
+    {
+      "album": {
+        "name": "BlakkBoyz present Half Doin Dope/Van Gogh",
+        "url": "https://open.spotify.com/album/19BajLbOujVKO4BPCTIzoc"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126956,
+      "name": "Van Gogh (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/2tcI5EedPVjrxwewRQs62W"
     },
     {
       "album": {

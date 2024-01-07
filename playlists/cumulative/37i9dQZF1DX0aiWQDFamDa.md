@@ -4,7 +4,7 @@
 
 > Sad and gloomy instrumental Jazz.
 
-299 songs - 1 day 0 hr 17 min
+300 songs - 1 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Don't Explain](https://open.spotify.com/track/2yHAermF5pXf4HQPcbkjy1) | [New York Trio](https://open.spotify.com/artist/6U7yxyvc7JseXp9WbFdQm7) | [夜のブルース](https://open.spotify.com/album/0bGfW2KduWtUnGwBRb5oYW) | 5:56 | 2022-05-18 |  |
 | [Don't Go to Strangers](https://open.spotify.com/track/3Qly2YrjWrs6Z9X2Wfwo4C) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP), [Bobo Stenson](https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc), [Palle Danielsson](https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ), [Anders Kjellberg](https://open.spotify.com/artist/0D3y6CpkVuUv11mosURP98), [Joakim Milder](https://open.spotify.com/artist/6qlsVWkkxnqeu0ysL9qDjx) | [Ballads](https://open.spotify.com/album/7fb7qwGqfdxJH1fKegVMTr) | 4:37 | 2022-05-18 | 2022-08-27 |
 | [Doubtful](https://open.spotify.com/track/4fnBofV3Ou8nbpPxXj7n0B) | [Dorothy Lee](https://open.spotify.com/artist/3o48LBxfAf2DslosQYX6Ud) | [Doubtful](https://open.spotify.com/album/4hmQ6VCiK9XYc1HCTl8XPo) | 3:44 | 2023-05-31 |  |
-| [Easy To Remember](https://open.spotify.com/track/6gW8WmLAWrjH857ZxVBrxK) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Diamond In The Rough](https://open.spotify.com/album/5hrMaqrOtNiHewGCItWPNf) | 6:10 | 2022-09-08 |  |
+| [Easy To Remember](https://open.spotify.com/track/6gW8WmLAWrjH857ZxVBrxK) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Diamond In The Rough](https://open.spotify.com/album/5hrMaqrOtNiHewGCItWPNf) | 6:10 | 2022-09-08 | 2024-01-07 |
 | [Emigrantvisa](https://open.spotify.com/track/5kjFu1dBCCqm0RPpjdgRQt) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Jazz på svenska](https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE) | 3:27 | 2022-05-26 | 2022-11-11 |
 | [End Music](https://open.spotify.com/track/2nsq309rIRIhozD60JxPB6) | [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM), [Mikkel Hess](https://open.spotify.com/artist/2dKB7nFUKZ2zs9kgyTA3Lq) | [At the Movies](https://open.spotify.com/album/32V6Uezb7Y7RAHtMfGPjLj) | 4:00 | 2023-11-10 |  |
 | [Estrellita](https://open.spotify.com/track/3O7WAvCq2hW9QLgXo5NcH5) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [Blues In Mambo](https://open.spotify.com/album/0iAa7v14VpiDTV1lgvkZVK) | 6:56 | 2022-09-08 | 2023-03-18 |
@@ -101,6 +101,7 @@
 | [Good Morning Heartache](https://open.spotify.com/track/5jGqJTsejbAy7QdhAH2Qwp) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Lady Sings](https://open.spotify.com/album/12Ie61TJvvha9qm27suytg) | 3:08 | 2022-05-18 | 2022-08-27 |
 | [Goodbye](https://open.spotify.com/track/3KiC7pKGqv6PygM8rLEISq) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ) | [Monday](https://open.spotify.com/album/6MLTVkvJZuAGeKp5ckAFGt) | 5:00 | 2023-09-15 |  |
 | [Goor Katan](https://open.spotify.com/track/3QkYKsHpTagzTUuRmHtPEM) | [Anat Fort](https://open.spotify.com/artist/32OuYoQkedAGs4hKig6oUi) | [Colour](https://open.spotify.com/album/1bDV4bLFXF03SWcbuV9wrm) | 5:37 | 2022-05-18 | 2022-07-29 |
+| [Goor Katan](https://open.spotify.com/track/2OvghHcDNdpXYutDpm90f6) | [Anat Fort Trio](https://open.spotify.com/artist/6wRrC6uElotCB6oDjQxbK3), [Anat Fort](https://open.spotify.com/artist/32OuYoQkedAGs4hKig6oUi) | [Colour](https://open.spotify.com/album/00G3MkRVJ8Kkd6YYxLS0uA) | 5:37 | 2024-01-04 |  |
 | [Goor Katan](https://open.spotify.com/track/6GwG8n60P79HgFdGmZMBH3) | [Anat Fort Trio](https://open.spotify.com/artist/6wRrC6uElotCB6oDjQxbK3), [Anat Fort](https://open.spotify.com/artist/32OuYoQkedAGs4hKig6oUi) | [Colour](https://open.spotify.com/album/6oKLutjO07iCQ08OTcwSgJ) | 5:37 | 2022-06-29 | 2023-12-25 |
 | [He Said She Got It Going](https://open.spotify.com/track/5xvW6Jx9hLAR6j0fkFFdws) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [He Said She Got It Going](https://open.spotify.com/album/16dT2u1PffX5zPK7US1hwS) | 2:38 | 2022-11-17 |  |
 | [He Was Too Good to Me](https://open.spotify.com/track/0qj5TGBUn4HqIYobLteQT8) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [The Richard Rodgers Songbook](https://open.spotify.com/album/6opNRfwAVL3qUz1ixuVAJ5) | 4:42 | 2022-05-18 |  |

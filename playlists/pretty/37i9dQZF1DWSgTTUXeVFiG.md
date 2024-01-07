@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,886 likes - 50 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,962 likes - 50 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Esa Mujer \- En Vivo](https://open.spotify.com/track/5gnYYnQTU1GsYlSTQw9Lvm) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b) | 5:51 |
 | 2 | [Perdóname \- En Vivo Desde El Carnegie Hall Version](https://open.spotify.com/track/2erJMHGqZ92OKvDIMuTut9) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [En Vivo Desde El Carnegie Hall](https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22) | 7:55 |
-| 3 | [Merecumbe](https://open.spotify.com/track/3UIdoF8igmzt7gnolINC97) | [Johnny Colon](https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm) | [Fania Live 02 From Miami With DJ LeSpam](https://open.spotify.com/album/3hzWtDzAggtGEkuu6GMmSg) | 5:57 |
-| 4 | [Amor y Control \- Live](https://open.spotify.com/track/6hAiZrzev7bN8emPDPHFD4) | [Ruben Blades](https://open.spotify.com/artist/7nmSWqIN08F0TMpZWVx195), [Seis del Solar](https://open.spotify.com/artist/2KcCnCAiL5Wrikulvf6HyO) | [Todos Vuelven Live, Vol\. 1](https://open.spotify.com/album/6fqIu9mEiySded7ePgc5AS) | 5:51 |
+| 3 | [Amor y Control \- Live](https://open.spotify.com/track/6hAiZrzev7bN8emPDPHFD4) | [Ruben Blades](https://open.spotify.com/artist/7nmSWqIN08F0TMpZWVx195), [Seis del Solar](https://open.spotify.com/artist/2KcCnCAiL5Wrikulvf6HyO) | [Todos Vuelven Live, Vol\. 1](https://open.spotify.com/album/6fqIu9mEiySded7ePgc5AS) | 5:51 |
+| 4 | [Merecumbe](https://open.spotify.com/track/3UIdoF8igmzt7gnolINC97) | [Johnny Colon](https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm) | [Fania Live 02 From Miami With DJ LeSpam](https://open.spotify.com/album/3hzWtDzAggtGEkuu6GMmSg) | 5:57 |
 | 5 | [Probablemente \- Live](https://open.spotify.com/track/3uaiF0P7A9yo7aMsrE7Xlw) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [El Reencuentro \(Live In Lima\) \- Vol\. 2](https://open.spotify.com/album/5mGJ0vT7EfK2MXLkuLSQP6) | 5:24 |
 | 6 | [Como Podré Disimular](https://open.spotify.com/track/0rvSVIYp6ewTVkDzxYQbP9) | [Tito Gomez](https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2) | [Un Legado Musical \- Lo Nuevo y Lo Mejor](https://open.spotify.com/album/0VVjPqvFy9Nw816QCFNSbe) | 4:34 |
 | 7 | [Haremos El Amor \- En Vivo](https://open.spotify.com/track/5T7BtRS2UUUHBS7IFwCWrC) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b) | 5:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 49 | [Tengo Ganas \- Live at MSG Version](https://open.spotify.com/track/2oPozWeqp6qGl3mWK2I62C) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Live At Madison Square Garden](https://open.spotify.com/album/73lQS6xaOyVGEoVCmcDWcQ) | 4:35 |
 | 50 | [Decisiones \- Live](https://open.spotify.com/track/0NZ5mg6DGJHdnQkQjtsGHb) | [Ruben Blades](https://open.spotify.com/artist/7nmSWqIN08F0TMpZWVx195), [Seis del Solar](https://open.spotify.com/artist/2KcCnCAiL5Wrikulvf6HyO) | [Todos Vuelven Live, Vol\. 1](https://open.spotify.com/album/6fqIu9mEiySded7ePgc5AS) | 6:00 |
 
-Snapshot ID: `MCw0Y2Q3OWE5ZjlhZGY0ZDQyMTJlYjY1NmY4NTFjYmU4NDM0M2JjYTA3`
+Snapshot ID: `MCxlNGZmNzc0Njk4NzE0Mjg0NTIzOWRmOTExY2YwNWEyNDg3MzhiNmJk`

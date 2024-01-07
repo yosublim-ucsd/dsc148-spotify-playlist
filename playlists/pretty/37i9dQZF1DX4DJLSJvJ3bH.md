@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,882 likes - 125 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,813 likes - 125 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 67 | [Home for the Holidays](https://open.spotify.com/track/0UKQkeyDS1FtuRzmp6uJPw) | [Roddy Doyle Trio](https://open.spotify.com/artist/2NpfQuA1kHiGx9LHgDx4p3) | [It's Christmas in New York](https://open.spotify.com/album/2DmDhBWAZQXULbEPjCtUKI) | 5:39 |
 | 68 | [Mistletoe And Holly](https://open.spotify.com/track/5SEjKY2Q0hQTmSfd8lHnGJ) | [Ben & Katsy](https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw) | [Mistletoe And Holly](https://open.spotify.com/album/0GQGvFHYPbLc3jZR11f8Hu) | 2:26 |
 | 69 | [Oh what a merry christmas day](https://open.spotify.com/track/4lIPBRlA44zsLXpGzg3mS1) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Oh what a merry christmas day](https://open.spotify.com/album/68NZ8wGUvONWBNzaYoosN3) | 1:36 |
-| 70 | [The Secret Of Christmas](https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:45 |
-| 71 | [Little Drummer Boy](https://open.spotify.com/track/4YKOgDDwKW2lrbwrvqFcVI) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Little Drummer Boy](https://open.spotify.com/album/2LheEqGdlCtcbCTvPZOQtG) | 3:00 |
+| 70 | [Little Drummer Boy](https://open.spotify.com/track/4YKOgDDwKW2lrbwrvqFcVI) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Little Drummer Boy](https://open.spotify.com/album/2LheEqGdlCtcbCTvPZOQtG) | 3:00 |
+| 71 | [The Secret Of Christmas](https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:45 |
 | 72 | [O Come All Ye Faithful](https://open.spotify.com/track/6ayK59JrXwTFNIO4l8YeHr) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Deck the Halls](https://open.spotify.com/album/3ih4Z7j1laYHVbeCzxssop) | 2:40 |
 | 73 | [Do you hear what I hear](https://open.spotify.com/track/6vjR177b1q4PVztpoOssHM) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Do you hear what I hear](https://open.spotify.com/album/0SXTCFp6pNWWHv3OgZl4w5) | 2:08 |
 | 74 | [It Came Upon A Midnight Clear](https://open.spotify.com/track/55YzKJipEDxzduTSrAWtMj) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 2:52 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 124 | [We Wish You A Merry Christmas](https://open.spotify.com/track/7sqKpLs0CUelnUekGEhHwW) | [Rasmus H Thomsen Trio](https://open.spotify.com/artist/5Ep05EOVNYVc5b5trOuDI1), [Krydda Sundström](https://open.spotify.com/artist/6dI8O0N6q3qFU8OgvgpEIm), [Oskar Cederblad](https://open.spotify.com/artist/2FglkJbc16UM02HY1VovVM) | [We Wish You A Merry Christmas](https://open.spotify.com/album/506rp9HRzW8Eu1Cmnlo0rg) | 2:41 |
 | 125 | [Christmas Rainbows](https://open.spotify.com/track/3YriJtNU0FTmdTE8vZUaxd) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [That Holiday Feelin'](https://open.spotify.com/album/73x03sZD5Xkb6cOqbJ5R1j) | 5:13 |
 
-Snapshot ID: `MCw2YTYxZDdkZWNjNWY0NDdiOGM5ZWI1ZDg1M2ZjZTJkYmIxYzhlNGRi`
+Snapshot ID: `MCw2YjljM2Y2OTgyNTkyMGIxZGQ1MzQ4ZWQzNTBmMjNjY2JlODc2NzFl`

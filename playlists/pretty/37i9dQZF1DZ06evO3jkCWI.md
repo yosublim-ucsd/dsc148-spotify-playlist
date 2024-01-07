@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 
 > This is Los Invasores De Nuevo León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,246 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,314 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 | 9 | [Aviéntame](https://open.spotify.com/track/3owpZ2lx2iMQ3FkeI5VKmA) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Camino Equivocado](https://open.spotify.com/album/05vVVrRFertqgAd35Bfpw2) | 3:12 |
 | 10 | [Rafael Caro Quintero](https://open.spotify.com/track/6CaDhKiByDaJlLRgAlW0QF) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:08 |
 | 11 | [Clave 7](https://open.spotify.com/track/29m95um0i0NThLbWA765Lg) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos De Pegue](https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q) | 3:39 |
-| 12 | [Se Acabó](https://open.spotify.com/track/2Tq1NVRQwWSZ0CUSxU0cFA) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [De Vida O Muerte](https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V) | 3:28 |
-| 13 | [Qué Más Quieres de Mí](https://open.spotify.com/track/1tk8qoiqnM3rsg64xvpRlN) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Sin Presumir](https://open.spotify.com/album/6wlLXm68UHg0WeTzY04BHi) | 2:15 |
+| 12 | [Qué Más Quieres de Mí](https://open.spotify.com/track/1tk8qoiqnM3rsg64xvpRlN) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Sin Presumir](https://open.spotify.com/album/6wlLXm68UHg0WeTzY04BHi) | 2:15 |
+| 13 | [Se Acabó](https://open.spotify.com/track/2Tq1NVRQwWSZ0CUSxU0cFA) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [De Vida O Muerte](https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V) | 3:28 |
 | 14 | [Que No Se Apague La Lumbre](https://open.spotify.com/track/5HHtIw03mC3OPPRjFUQ2Hb) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [21 Black Jack](https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC) | 2:44 |
 | 15 | [Mi Caballo Pobre](https://open.spotify.com/track/6SQfZKwce4nGuMwrcVwK8C) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos De Pegue](https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q) | 2:42 |
 | 16 | [El Ultimo Cartucho](https://open.spotify.com/track/3khgsGxNwXijlqyStMvpfh) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 | 49 | [La Viviana](https://open.spotify.com/track/6UsGCiKi5RwwosYEsVwQz3) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv), [Los Herederos De Nuevo León](https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI) | [Aferrado Al Amor](https://open.spotify.com/album/6pEDYFi8ddb1yiJKF1h0yV) | 3:28 |
 | 50 | [Porque No Le Calas \- En Vivo](https://open.spotify.com/track/00nl5adFlB8bVbR3UM5BmZ) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [30 Aniversario \(En Vivo\)](https://open.spotify.com/album/6Ex3dDo3WP0dVOOPKWWvXd) | 3:08 |
 
-Snapshot ID: `Mjg0MDc3MDMsMDAwMDAwMDA0ZjBjMTkxOTM3ZDg5ZWYzZTgzNTI0YzYzNmZiMTAwYg==`
+Snapshot ID: `Mjg0MDkwNTYsMDAwMDAwMDAyYzYwYTJkNzU5MDU2NGZjZGE5NjdlZTc2YmQxNDQ4YQ==`

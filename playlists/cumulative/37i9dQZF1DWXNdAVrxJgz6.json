@@ -2156,7 +2156,7 @@
     {
       "album": {
         "name": "La Joya",
-        "url": "https://open.spotify.com/album/0Su53HgEKsJ2q9CchXKoYD"
+        "url": "https://open.spotify.com/album/5KaX3YeFoTSpnAsJpBrLW1"
       },
       "artists": [
         {
@@ -2167,6 +2167,24 @@
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 198392,
+      "name": "Tomando Ando",
+      "url": "https://open.spotify.com/track/00cPZxfcPWW97LKhn8YYU7"
+    },
+    {
+      "album": {
+        "name": "La Joya",
+        "url": "https://open.spotify.com/album/0Su53HgEKsJ2q9CchXKoYD"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
       "duration_ms": 198392,
       "name": "Tomando Ando",
       "url": "https://open.spotify.com/track/0bvEUn5ATgxrfrwLd2ppyN"
@@ -2238,10 +2256,28 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 255853,
       "name": "Un Hombre Normal",
       "url": "https://open.spotify.com/track/2RRAFGKUzEKQnKnTwdUsLy"
+    },
+    {
+      "album": {
+        "name": "Un Hombre Normal",
+        "url": "https://open.spotify.com/album/0JrrexttdAK01fNFZOulo1"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255853,
+      "name": "Un Hombre Normal",
+      "url": "https://open.spotify.com/track/7tUgcu6nBx2MxlFaiDh7nY"
     },
     {
       "album": {

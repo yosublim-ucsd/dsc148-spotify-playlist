@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-307 songs - 22 hr 59 min
+308 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Incinerador \- En Vivo, La Trastienda](https://open.spotify.com/track/481sJW9cptyMhr5GqtDU4X) | [La Chancha Muda](https://open.spotify.com/artist/3q7B22drORYGk4srVegr3T) | [La Chancha Muda \(En Vivo, La Trastienda\)](https://open.spotify.com/album/4W74DLNQlKJ2ykYJ1EMwCT) | 2:43 | 2022-06-24 | 2022-07-15 |
 | [Infierock \- Live](https://open.spotify.com/track/1KlbkEbUZ5sMvAlW1ZWEBR) | [Barilari](https://open.spotify.com/artist/0bEinswrM8NYuppKnMljIg) | [Infierock \(Live\)](https://open.spotify.com/album/0yQfwnaXfNUUVE83MUllBg) | 6:29 | 2022-06-10 | 2022-07-31 |
 | [Irresponsables \- En Vivo](https://open.spotify.com/track/27CiyWWdkSAM6mWfaNYaxt) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Repuesto de Fe \(En Vivo\)](https://open.spotify.com/album/37T4qeUVTpx7Ps3HhSKdKc) | 2:44 | 2022-04-01 |  |
-| [Julieta \- Vivo Moscú](https://open.spotify.com/track/1fKns7yBA2gao1CGrGVSlx) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [BABYROCK \(Vivo Moscú\)](https://open.spotify.com/album/3iWXsRv0pPb0OdcraHOjUh) | 3:45 | 2023-12-22 |  |
+| [Julieta \- Vivo Moscú](https://open.spotify.com/track/1fKns7yBA2gao1CGrGVSlx) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [BABYROCK \(Vivo Moscú\)](https://open.spotify.com/album/3iWXsRv0pPb0OdcraHOjUh) | 3:45 | 2023-12-22 | 2024-01-07 |
 | [Kilómetros \- En Vivo](https://open.spotify.com/track/7C1p7RTvxo120n0rauSTuy) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Veinticirco La Gira \(En Vivo\)](https://open.spotify.com/album/4njHyaQrxpocOeoZb07LEC) | 4:09 | 2023-12-15 |  |
 | [La Bisagra \- En Vivo](https://open.spotify.com/track/3MjHXk1cs8ukXck6kFooZd) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [En Vivo en la Plata \(En Vivo\)](https://open.spotify.com/album/3hGGKGmQXxy9HrJuCFSDRs) | 4:44 | 2022-04-01 | 2022-06-10 |
 | [La Bomba \- En Vivo](https://open.spotify.com/track/11zKDxG80R7udKw5QkArwJ) | [Los Brujos](https://open.spotify.com/artist/3DnlTB4No4W6fO6Qvghnm4) | [Brujotecnia \(En Vivo\)](https://open.spotify.com/album/3J2DAjot68DHpD2MXTu6iD) | 3:23 | 2022-04-01 | 2022-07-12 |
@@ -286,6 +286,7 @@
 | [Todo Eso Que Nos Queda \(En Vivo en el Gran Rex\)](https://open.spotify.com/track/3hmwzYgvnNZEj2x10gERwj) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Todo Eso Que Nos Queda \(En Vivo en el Gran Rex\)](https://open.spotify.com/album/3UhQ3G2btSrgyZHpG0yUcd) | 4:04 | 2022-04-01 | 2022-07-29 |
 | [Todo Eso Que Nos Queda \- En Vivo en el Gran Rex](https://open.spotify.com/track/37S1A1oGrwCs0R2K5fU9Ht) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Todo Eso Que Nos Queda \(En Vivo en el Gran Rex\)](https://open.spotify.com/album/1sD3x5nHHviRWDdjuaMCxT) | 4:04 | 2022-06-24 |  |
 | [Todo un Palo \- En Vivo](https://open.spotify.com/track/2Cozh3ZhCsatIz9sWk59Y8) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [En Directo](https://open.spotify.com/album/7H3R1THjVZhSeEKK6S6MUE) | 7:41 | 2022-04-01 | 2024-01-05 |
+| [Todo un Palo \- En Vivo](https://open.spotify.com/track/7DWlu0RSXcUxRXSm4xSBjS) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [En Directo \(En Vivo\)](https://open.spotify.com/album/1m2YHaKlpGCImzt2LRtN1h) | 7:41 | 2023-12-22 |  |
 | [Todos a los Botes! \- En Vivo](https://open.spotify.com/track/2drEdi7YZo7Y4SuV6jsjDt) | [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Todos a los Botes! \(En Vivo\)](https://open.spotify.com/album/1N30fP7CSCeSfhGBTmqCGC) | 4:33 | 2022-04-01 | 2022-07-20 |
 | [Todos Lo Hacen \(En Vivo\)](https://open.spotify.com/track/0bx6LuqWIn8n0WhxS54izM) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 3:41 | 2022-04-01 | 2023-10-07 |
 | [Toro y Pampa \- En Vivo](https://open.spotify.com/track/43c4oelxnp0cVeFZZ4L4QL) | [Almafuerte](https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV) | [En Vivo Obras](https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT) | 3:48 | 2022-04-01 |  |

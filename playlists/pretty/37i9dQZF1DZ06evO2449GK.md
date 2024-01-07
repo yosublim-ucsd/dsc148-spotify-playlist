@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 
 > This is Alcolirykoz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,269 likes - 49 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,325 likes - 49 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Suero Casero](https://open.spotify.com/track/1WG3ZRwyzLm2OPRjRzuczP) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Suero Casero](https://open.spotify.com/album/6VHX4Z87U5UjJtNr5LPAdE) | 3:05 |
-| 2 | [La Típica \(2.018\)](https://open.spotify.com/track/2blFjWGr603ReBmTLFTsAM) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [En Letras Mayúsculas \(Reedición 2018\)](https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY) | 2:51 |
-| 3 | [Todo Lo Bueno Tarda](https://open.spotify.com/track/5HNjGi0qYXvZgksCYRVXAH) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/23krijKfse53ocaki0SfA0) | 4:00 |
+| 2 | [Todo Lo Bueno Tarda](https://open.spotify.com/track/5HNjGi0qYXvZgksCYRVXAH) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/23krijKfse53ocaki0SfA0) | 4:00 |
+| 3 | [La Típica \(2.018\)](https://open.spotify.com/track/2blFjWGr603ReBmTLFTsAM) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [En Letras Mayúsculas \(Reedición 2018\)](https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY) | 2:51 |
 | 4 | [El Remate](https://open.spotify.com/track/5ACjsEe2LIsR3EeXQ8ln7j) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe) | [El Remate](https://open.spotify.com/album/1gz8DR3AQVGHmjIMBkIgR5) | 4:04 |
 | 5 | [Tararea](https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:19 |
 | 6 | [Sancocho en Leña](https://open.spotify.com/track/1Z85Y8DVbysMc853oocVt8) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Sancocho en Leña](https://open.spotify.com/album/0dKNHwPd4OMcsHsrW61Gm7) | 2:56 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 | 48 | [La Eterna \(2.007\)](https://open.spotify.com/track/4OmOic8DVLpfaL9jXMzsyF) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [En Letras Mayúsculas \(Reedición 2018\)](https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY) | 5:29 |
 | 49 | [El Show Debe Continuar](https://open.spotify.com/track/7vSGZ1wHnamSQsLaZN1eGF) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Revancha de los Timidos](https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9) | 4:04 |
 
-Snapshot ID: `Mjg0MDc3MDMsMDAwMDAwMDAwYTcxZTJhNmE1ZGUyNGQ5OWNhZDE4MjEyNjYzMGJkZg==`
+Snapshot ID: `Mjg0MDkwNTYsMDAwMDAwMDAwZjY5YTI2NGY2M2NjZjZlN2NlOGJjMzk0MzZiZWZlYw==`

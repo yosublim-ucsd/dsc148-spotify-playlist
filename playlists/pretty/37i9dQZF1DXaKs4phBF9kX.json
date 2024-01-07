@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 1980s.",
-  "num_followers": 86829,
+  "num_followers": 86824,
   "original_name": "80s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDFkY2YzYzlhMzBjOTZhN2YyMjJkNzdiNmZmMDdjZDA1ZDkwMDc5",
+  "snapshot_id": "MCw0NjVkZGMzYjc3MGZmOWJhZmRhNjQxNGVlYTA1NmQzYjRhZjJiZWZk",
   "tracks": [
     {
       "added_at": "2023-01-18 20:42:10",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-01-18 20:42:10",
       "album": {
+        "name": "Bad Animals",
+        "url": "https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 218733,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
+    },
+    {
+      "added_at": "2023-01-18 20:42:10",
+      "album": {
         "name": "Girls, Girls, Girls",
         "url": "https://open.spotify.com/album/0vPZhR1KpbRNBOQBsDScS8"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 176440,
       "name": "It's Still Rock and Roll to Me",
       "url": "https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl"
-    },
-    {
-      "added_at": "2023-01-18 20:42:10",
-      "album": {
-        "name": "Bad Animals",
-        "url": "https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 218733,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
     },
     {
       "added_at": "2023-01-18 20:42:10",

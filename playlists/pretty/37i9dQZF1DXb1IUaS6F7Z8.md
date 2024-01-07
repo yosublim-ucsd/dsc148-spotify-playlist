@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 
 > All of the best Celtic punk tracks\. Cover: The Dreadnoughts
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,865 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,003 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 47 | [The Secret Set \(Drowsy Maggie / The Star of Munster\)](https://open.spotify.com/track/5sW7CM5Tq9Ub15GesYUsx0) | [Saint Bushmill's Choir](https://open.spotify.com/artist/4BAmvqtlQnj48zj888clBo) | [The Very Best of Saint Bushmill's Choir](https://open.spotify.com/album/32lSaCl9f3KboCK6kcu08I) | 3:03 |
 | 48 | [Jig of Death](https://open.spotify.com/track/6U5dJB1GszvHA8dLvO7n50) | [Brave the Sea](https://open.spotify.com/artist/2ImOzhCBveQtdB7x0RcHkQ) | [The Kraken](https://open.spotify.com/album/30tG3Q5YhoOCBY6kITT3Gy) | 1:50 |
 | 49 | [Fearless and Brave](https://open.spotify.com/track/17GshEAJNdAnoXKqtF3Qpm) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6), [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [The Perfect Match](https://open.spotify.com/album/03SaEIWMLWXZp3Rd1fkQRa) | 2:57 |
-| 50 | [Banks of the Roses](https://open.spotify.com/track/2FiosROHDCTuWyRGCJyPfc) | [Black Tartan Clan](https://open.spotify.com/artist/1jbPg3Sqh7zYmOEKEcj8Wt) | [The Loyal Men](https://open.spotify.com/album/5pYBbJGRKdn8HAIwijw788) | 3:15 |
+| 50 | [Still Alive](https://open.spotify.com/track/1RbpnDf4CwKWnQNdMeDjM1) | [Firkin](https://open.spotify.com/artist/4gStxnd8dQCtu5jeE4rEBF) | [Spice It Up!](https://open.spotify.com/album/2NzU2lS6b41Dvmm0sFZNl4) | 2:47 |
 
-Snapshot ID: `MCw2OWNiN2E1MWZmNTFkYjgwOTAwZWUyZjczYTFkYzQzY2Q2ZmFhNDA3`
+Snapshot ID: `MCxmZWZjNjVkZDg5MDA3OTA0YjU5NGM4OTQ2YmJlYTlkY2I0YmU2NGRm`

@@ -1,12 +1,12 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 209131,
+  "num_followers": 209161,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjA0MjdhOTI0ODAxNzk5NTA4MGQ2YmQ0YmU3MjcxNmM5ZGRmZjhi",
+  "snapshot_id": "MCxkMDYzZDcxYTVkYWU2YzM3YTQxMzg0M2Q3ODQ4YWI2NWM4YzQzMzcy",
   "tracks": [
     {
       "added_at": "2023-12-11 13:59:45",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
-        "name": "The Three Degrees",
-        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 178746,
-      "name": "When Will I See You Again",
-      "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
-    },
-    {
-      "added_at": "2023-12-11 13:59:45",
-      "album": {
         "name": "Every Home Should Have One",
         "url": "https://open.spotify.com/album/6j8fP0fRB4TqeJiNJdSVlU"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 215386,
       "name": "Baby, Come To Me",
       "url": "https://open.spotify.com/track/65bvH7egzl7h9f7uJmqGV4"
+    },
+    {
+      "added_at": "2023-12-11 13:59:45",
+      "album": {
+        "name": "The Three Degrees",
+        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 178746,
+      "name": "When Will I See You Again",
+      "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
     },
     {
       "added_at": "2023-12-11 13:59:45",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
+        "name": "Winner In You",
+        "url": "https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "duration_ms": 290840,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV"
+    },
+    {
+      "added_at": "2023-12-11 13:59:45",
+      "album": {
         "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 205906,
       "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN"
-    },
-    {
-      "added_at": "2023-12-11 13:59:45",
-      "album": {
-        "name": "Winner In You",
-        "url": "https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN"
-      },
-      "artists": [
-        {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        }
-      ],
-      "duration_ms": 290840,
-      "name": "On My Own",
-      "url": "https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV"
     },
     {
       "added_at": "2023-12-11 13:59:45",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
-        "name": "The Stylistics - The Original Debut Album",
-        "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 175506,
-      "name": "You Are Everything",
-      "url": "https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g"
-    },
-    {
-      "added_at": "2023-12-11 13:59:45",
-      "album": {
         "name": "After Midnight (Expanded Version)",
         "url": "https://open.spotify.com/album/2s4V3nu27HX9pp5PglpCVJ"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 281853,
       "name": "Shining Star",
       "url": "https://open.spotify.com/track/0np4arBSp4ZBOfXGZhXQ4I"
+    },
+    {
+      "added_at": "2023-12-11 13:59:45",
+      "album": {
+        "name": "The Stylistics - The Original Debut Album",
+        "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 175506,
+      "name": "You Are Everything",
+      "url": "https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g"
     },
     {
       "added_at": "2023-12-11 13:59:45",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
-        "name": "Jewels In The Crown",
-        "url": "https://open.spotify.com/album/6D7Bj3IduG7Ikaf5XjOKWi"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        },
-        {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
-        }
-      ],
-      "duration_ms": 310480,
-      "name": "Ever Changing Times (feat. Michael McDonald)",
-      "url": "https://open.spotify.com/track/6hAbyCJyTae5mEKWmAAFkm"
-    },
-    {
-      "added_at": "2023-12-11 13:59:45",
-      "album": {
         "name": "The Very Best of Otis Redding",
         "url": "https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 229440,
       "name": "Turn Your Love Around - 2015 GH Version",
       "url": "https://open.spotify.com/track/3jlKeObN7azQvrySwLdvP3"
+    },
+    {
+      "added_at": "2023-12-11 13:59:45",
+      "album": {
+        "name": "Jewels In The Crown",
+        "url": "https://open.spotify.com/album/6D7Bj3IduG7Ikaf5XjOKWi"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        },
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "duration_ms": 310480,
+      "name": "Ever Changing Times (feat. Michael McDonald)",
+      "url": "https://open.spotify.com/track/6hAbyCJyTae5mEKWmAAFkm"
     },
     {
       "added_at": "2023-12-11 13:59:45",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
-        "name": "Sweeter (feat. Terrace Martin)",
-        "url": "https://open.spotify.com/album/7MEVKXLS3YOlaz3kXexPeM"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        },
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        }
-      ],
-      "duration_ms": 167468,
-      "name": "Sweeter (feat. Terrace Martin)",
-      "url": "https://open.spotify.com/track/1ehhGlTvjtHo2e4xJFB0SZ"
-    },
-    {
-      "added_at": "2023-12-11 13:59:45",
-      "album": {
         "name": "Been and Gone",
         "url": "https://open.spotify.com/album/6aTDGqCSxTL7ltobEf5q89"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 280218,
       "name": "Been and Gone",
       "url": "https://open.spotify.com/track/23QzGEg02ffn4D9Dje9Nsc"
+    },
+    {
+      "added_at": "2023-12-11 13:59:45",
+      "album": {
+        "name": "Sweeter (feat. Terrace Martin)",
+        "url": "https://open.spotify.com/album/7MEVKXLS3YOlaz3kXexPeM"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "duration_ms": 167468,
+      "name": "Sweeter (feat. Terrace Martin)",
+      "url": "https://open.spotify.com/track/1ehhGlTvjtHo2e4xJFB0SZ"
     },
     {
       "added_at": "2023-12-11 13:59:45",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
+        "name": "Circle Of One",
+        "url": "https://open.spotify.com/album/2U6BLZitsauouOL80Avn7f"
+      },
+      "artists": [
+        {
+          "name": "Oleta Adams",
+          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
+        }
+      ],
+      "duration_ms": 276733,
+      "name": "Get Here",
+      "url": "https://open.spotify.com/track/1KT3ndndHOGXePgC4o0Jq9"
+    },
+    {
+      "added_at": "2023-12-11 13:59:45",
+      "album": {
         "name": "Bring it on Home to Me (feat. Charlie Bereal)",
         "url": "https://open.spotify.com/album/54tJsoenzgUlUokisFrWVA"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 201600,
       "name": "Bring it on Home to Me (feat. Charlie Bereal)",
       "url": "https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km"
-    },
-    {
-      "added_at": "2023-12-11 13:59:45",
-      "album": {
-        "name": "Circle Of One",
-        "url": "https://open.spotify.com/album/2U6BLZitsauouOL80Avn7f"
-      },
-      "artists": [
-        {
-          "name": "Oleta Adams",
-          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
-        }
-      ],
-      "duration_ms": 276733,
-      "name": "Get Here",
-      "url": "https://open.spotify.com/track/1KT3ndndHOGXePgC4o0Jq9"
     },
     {
       "added_at": "2023-12-11 13:59:45",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 233298,
-      "name": "Oceans Of Emotions",
-      "url": "https://open.spotify.com/track/3bIdWXtBtDqES9h21vls42"
-    },
-    {
-      "added_at": "2023-12-11 13:59:45",
-      "album": {
         "name": "Color Rit (Remastered)",
         "url": "https://open.spotify.com/album/2POg8hhJjfzlSm95YmYTfQ"
       },
@@ -1663,18 +1647,38 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 181466,
-      "name": "I Can't See Myself Leaving You",
-      "url": "https://open.spotify.com/track/0MsJNBcfNoIcf868I2MOHo"
+      "duration_ms": 233298,
+      "name": "Oceans Of Emotions",
+      "url": "https://open.spotify.com/track/3bIdWXtBtDqES9h21vls42"
+    },
+    {
+      "added_at": "2023-12-11 13:59:45",
+      "album": {
+        "name": "Take Me To The Alley",
+        "url": "https://open.spotify.com/album/4www5vBDvAP3VXKgDoLZLZ"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        },
+        {
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+        }
+      ],
+      "duration_ms": 254893,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/0NnM0CgQaifZmhDquugyZV"
     }
   ],
   "unique_name": "Soulful Blend",

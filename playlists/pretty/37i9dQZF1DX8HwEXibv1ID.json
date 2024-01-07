@@ -1,12 +1,12 @@
 {
   "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
-  "num_followers": 35740,
+  "num_followers": 35806,
   "original_name": "The Cole Porter Songbook",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTRkMGM3ODlkMGYwMTYwNjM4M2YyMzBlNGE2YzAzZjRlMDFhMDA1",
+  "snapshot_id": "MCxjYzcyNzhlMGQ5ZTdmNjMyMWI3YWQ2MTQ3NzM0NzExMjM4OWQyMDg0",
   "tracks": [
     {
       "added_at": "2023-12-21 09:47:36",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-12-21 09:47:36",
       "album": {
+        "name": "Bobby Short Loves Cole Porter",
+        "url": "https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP"
+      },
+      "artists": [
+        {
+          "name": "Bobby Short",
+          "url": "https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk"
+        }
+      ],
+      "duration_ms": 203533,
+      "name": "You've Got That Thing",
+      "url": "https://open.spotify.com/track/5Wz59yK5Rm056tpvnpLNsM"
+    },
+    {
+      "added_at": "2023-12-21 09:47:36",
+      "album": {
         "name": "Portrait In Jazz [Keepnews Collection]",
         "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 276693,
       "name": "What Is This Thing Called Love",
       "url": "https://open.spotify.com/track/1ZaytyFQnDuAvGxglzlxfa"
-    },
-    {
-      "added_at": "2023-12-21 09:47:36",
-      "album": {
-        "name": "Bobby Short Loves Cole Porter",
-        "url": "https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP"
-      },
-      "artists": [
-        {
-          "name": "Bobby Short",
-          "url": "https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk"
-        }
-      ],
-      "duration_ms": 203533,
-      "name": "You've Got That Thing",
-      "url": "https://open.spotify.com/track/5Wz59yK5Rm056tpvnpLNsM"
     },
     {
       "added_at": "2023-12-21 09:47:36",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-12-21 09:47:36",
       "album": {
-        "name": "An Evening With Anita O'Day",
-        "url": "https://open.spotify.com/album/1KclxfwNOpocikBIY8yPig"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "From This Moment On - 1955 Version",
-      "url": "https://open.spotify.com/track/0YfbhZiiqZIyfknf2mbazr"
-    },
-    {
-      "added_at": "2023-12-21 09:47:36",
-      "album": {
         "name": "The Best Of Cole Porter",
         "url": "https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 152369,
       "name": "Experiment",
       "url": "https://open.spotify.com/track/70bVc4i0Z1WBwCpJ8IvxmB"
+    },
+    {
+      "added_at": "2023-12-21 09:47:36",
+      "album": {
+        "name": "An Evening With Anita O'Day",
+        "url": "https://open.spotify.com/album/1KclxfwNOpocikBIY8yPig"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "From This Moment On - 1955 Version",
+      "url": "https://open.spotify.com/track/0YfbhZiiqZIyfknf2mbazr"
     },
     {
       "added_at": "2023-12-21 09:47:36",
@@ -791,18 +791,18 @@
     {
       "added_at": "2023-12-21 09:47:36",
       "album": {
-        "name": "Worktime (RVG)",
-        "url": "https://open.spotify.com/album/7czLtW2CezNLEoLjLgbosC"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/5OBKP6D1MyMdnnB0RZ3PL7"
       },
       "artists": [
         {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
         }
       ],
-      "duration_ms": 369053,
-      "name": "It's All Right With Me",
-      "url": "https://open.spotify.com/track/2jr6t4mra4tM2dwp0QePpp"
+      "duration_ms": 165893,
+      "name": "In the Still of the Night",
+      "url": "https://open.spotify.com/track/62SGxkOggmrZblQ6prK5AI"
     },
     {
       "added_at": "2023-12-21 09:47:36",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-12-21 09:47:36",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/5OBKP6D1MyMdnnB0RZ3PL7"
+        "name": "Worktime (RVG)",
+        "url": "https://open.spotify.com/album/7czLtW2CezNLEoLjLgbosC"
       },
       "artists": [
         {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
         }
       ],
-      "duration_ms": 165893,
-      "name": "In the Still of the Night",
-      "url": "https://open.spotify.com/track/62SGxkOggmrZblQ6prK5AI"
+      "duration_ms": 369053,
+      "name": "It's All Right With Me",
+      "url": "https://open.spotify.com/track/2jr6t4mra4tM2dwp0QePpp"
     },
     {
       "added_at": "2023-12-21 09:47:36",

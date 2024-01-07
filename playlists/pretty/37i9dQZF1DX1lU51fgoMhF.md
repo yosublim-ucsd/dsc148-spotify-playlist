@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: NAYEON\(나연\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,114 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,292 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 60 | [Why](https://open.spotify.com/track/4eiPbjcTEJDQcsv7WV0vfD) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Why \- The 2nd Mini Album](https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU) | 3:27 |
 | 61 | [Fever](https://open.spotify.com/track/7qDbAc6xMW07T7yyMnQqS8) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 7th Mini Album \`FEVER SEASON\`](https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR) | 3:34 |
 | 62 | [Into the I\-LAND](https://open.spotify.com/track/4YvtgtEH5E1pahZu9uzKRy) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [I\-LAND Part.1 Signal Song](https://open.spotify.com/album/5hytFjwacV5ObltOLMAqfA) | 3:37 |
-| 63 | [FEVER](https://open.spotify.com/track/2dPETee06bbHulsABk0h7I) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.1](https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI) | 3:24 |
-| 64 | [Hola Hola](https://open.spotify.com/track/3VC1IEz9M1txlMSx3h3tPM) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 1st Mini Album 'Hola Hola'](https://open.spotify.com/album/5eJ58cjTjSRGxOPtVeke2Z) | 3:22 |
+| 63 | [Hola Hola](https://open.spotify.com/track/3VC1IEz9M1txlMSx3h3tPM) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 1st Mini Album 'Hola Hola'](https://open.spotify.com/album/5eJ58cjTjSRGxOPtVeke2Z) | 3:22 |
+| 64 | [FEVER](https://open.spotify.com/track/2dPETee06bbHulsABk0h7I) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.1](https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI) | 3:24 |
 | 65 | [Flip That](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Summer Special \[Flip That\]](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) | 2:57 |
 | 66 | [Mixtape : Time Out](https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : Time Out](https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS) | 2:55 |
 | 67 | [LALALAY](https://open.spotify.com/track/0wqdresTib8pJkrpKK1nmF) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [LALALAY](https://open.spotify.com/album/7qmsar8kXnwi8k6OCTNoj5) | 2:54 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 88 | [Up](https://open.spotify.com/track/70QXJyGkuTJDhfxqW2XGED) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [HEART\*IZ](https://open.spotify.com/album/548UwoyV9v9fTaoEfzoCBb) | 3:12 |
 | 89 | [Waves \(feat\. Simon Dominic & Jamie\)](https://open.spotify.com/track/6fXesHsuCFf80vYzDP26J5) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Waves \(feat\. Simon Dominic & Jamie\)](https://open.spotify.com/album/5ZwfFVBuxVS2lbbDR8vtDk) | 2:44 |
 | 90 | [Chi Mat Ba Ram](https://open.spotify.com/track/7od91jr6uXk0JoxVaIRA18) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Summer Queen](https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi) | 3:37 |
-| 91 | [Summer Comes](https://open.spotify.com/track/71DQGd44Wyie6hJu1yBzdQ) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Golden Hourglass](https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif) | 3:20 |
-| 92 | [LOVEADE](https://open.spotify.com/track/0q7U1KqAYPGHdwC8HVw67y) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 2nd Mini Album 'Summer Vibe'](https://open.spotify.com/album/3C9klin5PNVtOaR91eqEGz) | 3:38 |
+| 91 | [LOVEADE](https://open.spotify.com/track/0q7U1KqAYPGHdwC8HVw67y) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 2nd Mini Album 'Summer Vibe'](https://open.spotify.com/album/3C9klin5PNVtOaR91eqEGz) | 3:38 |
+| 92 | [Summer Comes](https://open.spotify.com/track/71DQGd44Wyie6hJu1yBzdQ) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Golden Hourglass](https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif) | 3:20 |
 | 93 | [Love U](https://open.spotify.com/track/0Hk7Aoxk7qdfj7bO83iL69) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Blooming Blue](https://open.spotify.com/album/6Np41VY6robn2MhsVhl9Z2) | 3:10 |
 | 94 | [Blue Lemonade](https://open.spotify.com/track/5XTQXTzEVpYq8wL6DZYgSz) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Summer Magic \- Summer Mini Album](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) | 3:16 |
 | 95 | [Drowning \(Feat\. SOLE\)](https://open.spotify.com/track/7gVFUy4jtXJ6nmk6nHAz2A) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [1st Single 'S.i.R'](https://open.spotify.com/album/7eZ1MuD9GYRP35jumpZStH) | 2:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 99 | [MAMMA MIA](https://open.spotify.com/track/65eBRMPIMrQVndALJMc4fX) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [SF9 4th Mini Album \[ MAMMA MIA! \]](https://open.spotify.com/album/1sJh6MN85EcJAxnfRt6YvV) | 3:24 |
 | 100 | [Move Like This \(Feat\. YUNA KIM\)](https://open.spotify.com/track/5xIBHVtjcxg2I86wodrj1d) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [ANYUJIN](https://open.spotify.com/artist/3schR1HLbYu3RqqPDiDFrE), [YUNA KIM](https://open.spotify.com/artist/5wBTXLKoAsiWsKn3ijyGPo) | [Move Like This \(Feat\. YUNA KIM\)](https://open.spotify.com/album/18zHgBBbSGZ90hu1mJmvFQ) | 3:16 |
 
-Snapshot ID: `MCxlNmI4ZGFhYzU0MzA3MDZhZDVjMWYyOTNlZjM1YTQzZDE0Njg2M2Yw`
+Snapshot ID: `MCw0NDAyNTNmMGQ2MmM1OThmNWQ3NDAyNDI0NDdlMGRkZmQ4NTFjMmMy`

@@ -2284,7 +2284,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 237066,
       "name": "Joy to the World",
       "url": "https://open.spotify.com/track/5kiQIqLEHVnhWLJwgqgb3P"
@@ -2836,6 +2836,28 @@
       "duration_ms": 79051,
       "name": "Mitch The Grinch",
       "url": "https://open.spotify.com/track/2Azw4Pcjkeyffy6xDxF8Kp"
+    },
+    {
+      "album": {
+        "name": "Journey To Bethlehem (Deluxe/Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/75bzcIm8eYPp4u0tyDI22H"
+      },
+      "artists": [
+        {
+          "name": "The Cast Of Journey To Bethlehem",
+          "url": "https://open.spotify.com/artist/1FS6nAHDWtWguh8VtxERup"
+        },
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202960,
+      "name": "Mother To A Savior And King",
+      "url": "https://open.spotify.com/track/6A0LBpiCzgQFZ1MkmtIzaF"
     },
     {
       "album": {

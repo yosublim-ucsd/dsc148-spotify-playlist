@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,341 likes - 58 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,370 likes - 58 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 57 | [Deixa Comigo](https://open.spotify.com/track/2ijJg8ehOdWTf4XpG8taLu) | [TuKo](https://open.spotify.com/artist/4BpFstoD6QMFQo2V5WuyQs) | [Deixa Comigo](https://open.spotify.com/album/0hlVYs0NKDjDgK3BI73lcz) | 3:19 |
 | 58 | [Flow Maradona](https://open.spotify.com/track/1wc1GzUQD8X4AlJOR08mkC) | [Jovem Caio](https://open.spotify.com/artist/5uPdlHNs7tCxONifNy5AqV), [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu) | [Flow Maradona](https://open.spotify.com/album/25ufJSpx6FbiNk02wUUSX6) | 1:55 |
 
-Snapshot ID: `MCxiZDVkNDNhODcxMTNmZDE5YmZlZjgxNjRmNGJjM2UzZjFkMjgwZDBk`
+Snapshot ID: `MCxlMDAwMTE3ZTc0NjcyMmYzOTU2YjcxMDExNmU1N2RiOTgwY2RkNjY4`

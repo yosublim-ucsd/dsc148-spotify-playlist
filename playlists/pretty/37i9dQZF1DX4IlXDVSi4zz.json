@@ -1,12 +1,12 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 785591,
+  "num_followers": 785910,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDBjYjk0Y2ZkZjllYjAyMzY3MTljZTA3NTc3NTk4MWExNzI0MjA1",
+  "snapshot_id": "MCw2MTVjYzI5MzMyYmM1MjdjZDhmMGUxMWU5Y2M5MDQ1NDE3N2ZhMWE0",
   "tracks": [
     {
       "added_at": "2023-12-07 01:38:01",
@@ -247,26 +247,6 @@
     {
       "added_at": "2022-10-12 15:41:51",
       "album": {
-        "name": "Goosebumps (Remix)",
-        "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 162802,
-      "name": "Goosebumps - Remix",
-      "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
-    },
-    {
-      "added_at": "2022-10-12 15:41:51",
-      "album": {
         "name": "Your Love (9PM)",
         "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 150052,
       "name": "Your Love (9PM)",
       "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
+    },
+    {
+      "added_at": "2022-10-12 15:41:51",
+      "album": {
+        "name": "Goosebumps (Remix)",
+        "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 162802,
+      "name": "Goosebumps - Remix",
+      "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
     },
     {
       "added_at": "2023-07-21 15:45:33",
@@ -415,30 +415,6 @@
     {
       "added_at": "2023-12-07 01:38:01",
       "album": {
-        "name": "WORTH NOTHING (feat. Oliver Tree) [Fast & Furious: Drift Tape/Phonk Vol 1]",
-        "url": "https://open.spotify.com/album/1nyfZlIOe109tZTrpR3z8h"
-      },
-      "artists": [
-        {
-          "name": "TWISTED",
-          "url": "https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG"
-        },
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Fast & Furious: The Fast Saga",
-          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
-        }
-      ],
-      "duration_ms": 164629,
-      "name": "WORTH NOTHING (feat. Oliver Tree) - Fast & Furious: Drift Tape/Phonk Vol 1",
-      "url": "https://open.spotify.com/track/3PjbA0O5olhampPMdaB0V1"
-    },
-    {
-      "added_at": "2023-12-07 01:38:01",
-      "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
       },
@@ -463,6 +439,30 @@
       "duration_ms": 162603,
       "name": "OUT OUT (feat. Charli XCX & Saweetie)",
       "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
+    },
+    {
+      "added_at": "2023-12-07 01:38:01",
+      "album": {
+        "name": "WORTH NOTHING (feat. Oliver Tree) [Fast & Furious: Drift Tape/Phonk Vol 1]",
+        "url": "https://open.spotify.com/album/1nyfZlIOe109tZTrpR3z8h"
+      },
+      "artists": [
+        {
+          "name": "TWISTED",
+          "url": "https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
+        }
+      ],
+      "duration_ms": 164629,
+      "name": "WORTH NOTHING (feat. Oliver Tree) - Fast & Furious: Drift Tape/Phonk Vol 1",
+      "url": "https://open.spotify.com/track/3PjbA0O5olhampPMdaB0V1"
     },
     {
       "added_at": "2022-10-12 15:41:51",
@@ -793,22 +793,6 @@
       "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
     },
     {
-      "added_at": "2023-12-07 01:38:01",
-      "album": {
-        "name": "DLUX",
-        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 140735,
-      "name": "HOUSE OF LUX",
-      "url": "https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo"
-    },
-    {
       "added_at": "2022-10-12 15:41:51",
       "album": {
         "name": "Won't Forget You",
@@ -823,6 +807,22 @@
       "duration_ms": 230945,
       "name": "Won't Forget You (Edit)",
       "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
+    },
+    {
+      "added_at": "2023-12-07 01:38:01",
+      "album": {
+        "name": "DLUX",
+        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 140735,
+      "name": "HOUSE OF LUX",
+      "url": "https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo"
     },
     {
       "added_at": "2023-12-07 01:38:01",

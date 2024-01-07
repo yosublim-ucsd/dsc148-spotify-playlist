@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Reik y Ha\*Ash en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,015 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,051 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 32 | [El Cielo Aún Espera](https://open.spotify.com/track/70x0TeYW9v78ExG6v5M881) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [El Cielo Aún Espera](https://open.spotify.com/album/0a33IGqqFPLIkiKVS7BnhV) | 3:53 |
 | 33 | [Todo Fue Por Amor \(de la película “Con Esta Luz”\)](https://open.spotify.com/track/6X6wECGLnBIMDsAjgOR5Di) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Todo Fue Por Amor \(de la película “Con Esta Luz”\)](https://open.spotify.com/album/0X3ypNwDzwYW7iEPQ4MWrl) | 3:46 |
 | 34 | [Dime tú](https://open.spotify.com/track/6z8sQFj47s9ZG0Ls1k9Gct) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Dime tú](https://open.spotify.com/album/3eOqEdggLEeQz0jAZpNCXD) | 3:30 |
-| 35 | [De todas las flores](https://open.spotify.com/track/3MAHwAmag1U1gLLuvEQNHU) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 5:22 |
-| 36 | [No Te Quiero Perder](https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Limerencia](https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj) | 3:46 |
+| 35 | [No Te Quiero Perder](https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Limerencia](https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj) | 3:46 |
+| 36 | [De todas las flores](https://open.spotify.com/track/3MAHwAmag1U1gLLuvEQNHU) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 5:22 |
 | 37 | [Subtítulos](https://open.spotify.com/track/3GXLEtcY0SsmpRoiGWGuZM) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Cuatro Estaciones](https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m) | 3:12 |
 | 38 | [Un Viaje a Todas Partes](https://open.spotify.com/track/1IyyGyeI0FK3zfrDbDb0QF) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [Un Viaje a Todas Partes](https://open.spotify.com/album/4Zvth8uetJ0XyKfaLVN7n0) | 3:23 |
 | 39 | [Ella Qué Te Dio](https://open.spotify.com/track/24wYpTB7F9gqHfmAJxj6Mb) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 3:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 74 | [Parará \(Ya Estás Aquí\)](https://open.spotify.com/track/55V2INjfekUKprOLzWb9Q1) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [Parará \(Ya Estás Aquí\)](https://open.spotify.com/album/6Zg8f2tHcjjs4Fw2c4VNbG) | 2:53 |
 | 75 | [Despeinada](https://open.spotify.com/track/61yj7aoeF4gQvk99auCIWz) | [Bala](https://open.spotify.com/artist/1KSyJ6T61RxbnR3ksp5Ehp) | [Despeinada](https://open.spotify.com/album/4oJTRn5A4d4gBEgRmvLS6A) | 3:29 |
 
-Snapshot ID: `MCw1MGY3YmYzNzE2MzljNTBkN2JjNTIxN2RjNGYzODdiMTA1ZTZkNzJl`
+Snapshot ID: `MCw1YjQ3NGVmYTcwMjVmNTFhMmNhMGQ5MTJiN2FiY2ZjZjQ0YTk4Zjdj`

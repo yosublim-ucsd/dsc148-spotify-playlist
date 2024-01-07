@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [7 rings](https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 2:58 | 2021-12-27 |  |
-| [7 rings](https://open.spotify.com/track/14udgTPuByrHR6jUCYHVXu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [7 rings](https://open.spotify.com/album/3DdrREWxtsOTF6Ex1aTA9b) | 3:04 | 2023-12-14 | 2024-01-05 |
+| [7 rings](https://open.spotify.com/track/14udgTPuByrHR6jUCYHVXu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [7 rings](https://open.spotify.com/album/3DdrREWxtsOTF6Ex1aTA9b) | 3:04 | 2023-12-14 |  |
 | [All My Life \- Pt\. 1](https://open.spotify.com/track/1qXu9T7d1EJ23tqc4cLKcu) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 0:40 | 2021-12-27 |  |
 | [All My Life \- Pt\. 2](https://open.spotify.com/track/0SEwGE9vNsQsoyO6CxBjMA) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 0:40 | 2021-12-27 |  |
 | [All My Life \- Pt\. 3](https://open.spotify.com/track/2JZRFfvZd8PmZftsGRwb1I) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 0:39 | 2021-12-27 |  |

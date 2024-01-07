@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:   <a href="https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR?si=sY0cb\-NSRyCkJ95O1PM80g">Nuelzo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,208 likes - 50 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,259 likes - 50 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 | 40 | [One Name \(Jesus\) \- Live](https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [One Name \(Jesus\) \[Live\]](https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK) | 9:19 |
 | 41 | [Adonai](https://open.spotify.com/track/1YJu9epNBMoQfF1EffjwiY) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Adonai](https://open.spotify.com/album/6FLiEFzCVibo1ptdlzXP4D) | 4:09 |
 | 42 | [PRAISE YOU ANYWHERE](https://open.spotify.com/track/6PR1HxI09SL1O2itnjBW12) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [PRAISE YOU ANYWHERE](https://open.spotify.com/album/5rDIQLqVrdykpRWD2PwKME) | 3:35 |
-| 43 | [Ndenzel' Uncedo Hymn 377 \- Live](https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:28 |
+| 43 | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4), [GGTQ All Stars](https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS) | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p) | 4:27 |
 | 44 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 |
-| 45 | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4), [GGTQ All Stars](https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS) | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p) | 4:27 |
+| 45 | [Ndenzel' Uncedo Hymn 377 \- Live](https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:28 |
 | 46 | [Not Moved](https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Not Moved](https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z) | 4:33 |
 | 47 | [Iba](https://open.spotify.com/track/0EWnPlQCVV2fTp0EGvLnjY) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Dasola Akinbule](https://open.spotify.com/artist/5HCuA4YozzSyHhEPmbYoy6) | [Iba](https://open.spotify.com/album/3bdmsRx4jXf9I2w4x5lY3d) | 10:25 |
 | 48 | [Miracle](https://open.spotify.com/track/3RWGw0Q3JA9gYtBcor4UQy) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Miracle](https://open.spotify.com/album/0j428IWZNxi3fAJTahWjil) | 4:12 |
 | 49 | [Commando](https://open.spotify.com/track/72cRQRzXJLUM3Rbf1vyxtz) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Commando](https://open.spotify.com/album/20pJmzUPNbycWcja0hdpmr) | 3:31 |
-| 50 | [No Turning Back](https://open.spotify.com/track/1HvmrH54shSA0a1bwK91R0) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [The Narrow Way](https://open.spotify.com/album/5dnEn1RrHFx1tjG6ARSdw0) | 6:30 |
+| 50 | [Emmanuel](https://open.spotify.com/track/6c5UMnCmZBski9aytlYIra) | [Nsikan Louis](https://open.spotify.com/artist/5oS7TVro4fEqwxwRCaUW8B) | [Emmanuel](https://open.spotify.com/album/1BITuUt6zjCQP1cTcy8cgc) | 5:25 |
 
-Snapshot ID: `MCxkZjI2MTgxMzhmNjAyODFhOTRmMmM1YWM2MTBkODI1ZDg5ZWI0MWY4`
+Snapshot ID: `MCwzYjVkMTBlYzEwZmUxYzVmMjcxNzBlMzc5MjFmZmMwODkwNzdiYjdi`

@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 784251,
+  "num_followers": 784892,
   "original_name": "Energy Booster: Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjU0Yzk4NDVhNzg4MTdjYTM2NTVhNjAwNmZjOGZiZTM1NmIxYWVh",
+  "snapshot_id": "MCxhZTIzNWE3N2FkZDE0ZDc3NTY5ZjNjMjA2Y2M3M2JmYzZhYWU4MjRh",
   "tracks": [
     {
       "added_at": "2023-12-14 19:51:46",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2023-12-14 19:51:46",
       "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/0lY3tmonYCBxbviBSKczIX"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "duration_ms": 164693,
+      "name": "Praising You (feat. Fatboy Slim)",
+      "url": "https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD"
+    },
+    {
+      "added_at": "2023-12-14 19:51:46",
+      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/3S7LqjI8EzC8FudcsX2T2W"
       },
@@ -1195,42 +1215,22 @@
     {
       "added_at": "2023-12-14 19:51:46",
       "album": {
-        "name": "You & I",
-        "url": "https://open.spotify.com/album/0lY3tmonYCBxbviBSKczIX"
+        "name": "High On Life (feat. Bonn)",
+        "url": "https://open.spotify.com/album/1GUfof1gHsqYjoHFym3aim"
       },
       "artists": [
         {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
         }
       ],
-      "duration_ms": 164693,
-      "name": "Praising You (feat. Fatboy Slim)",
-      "url": "https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD"
-    },
-    {
-      "added_at": "2023-12-14 19:51:46",
-      "album": {
-        "name": "Rise Up (feat. Vamero)",
-        "url": "https://open.spotify.com/album/4DsxykS9CPTnJPeoWXkRV8"
-      },
-      "artists": [
-        {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
-        },
-        {
-          "name": "VAMERO",
-          "url": "https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Rise Up (feat. Vamero)",
-      "url": "https://open.spotify.com/track/46lyJh9GYmWsHez3EsvmAx"
+      "duration_ms": 230761,
+      "name": "High On Life (feat. Bonn)",
+      "url": "https://open.spotify.com/track/4ut5G4rgB1ClpMTMfjoIuy"
     },
     {
       "added_at": "2023-12-14 19:51:46",
@@ -1255,22 +1255,22 @@
     {
       "added_at": "2023-12-14 19:51:46",
       "album": {
-        "name": "High On Life (feat. Bonn)",
-        "url": "https://open.spotify.com/album/1GUfof1gHsqYjoHFym3aim"
+        "name": "Rise Up (feat. Vamero)",
+        "url": "https://open.spotify.com/album/4DsxykS9CPTnJPeoWXkRV8"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
         },
         {
-          "name": "Bonn",
-          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+          "name": "VAMERO",
+          "url": "https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr"
         }
       ],
-      "duration_ms": 230761,
-      "name": "High On Life (feat. Bonn)",
-      "url": "https://open.spotify.com/track/4ut5G4rgB1ClpMTMfjoIuy"
+      "duration_ms": 182000,
+      "name": "Rise Up (feat. Vamero)",
+      "url": "https://open.spotify.com/track/46lyJh9GYmWsHez3EsvmAx"
     },
     {
       "added_at": "2023-12-14 19:51:46",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2023-12-14 19:51:46",
       "album": {
-        "name": "Tattoo (Topic Remix)",
-        "url": "https://open.spotify.com/album/1nAJInWgfbBTHuK4osAGM9"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "Tattoo - Topic Remix",
-      "url": "https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp"
-    },
-    {
-      "added_at": "2023-12-14 19:51:46",
-      "album": {
         "name": "Sweat (Snoop Dogg Vs. David Guetta) [Remix]",
         "url": "https://open.spotify.com/album/7i3ZUKLj6bszovw4IfRECy"
       },
@@ -1391,6 +1371,26 @@
     {
       "added_at": "2023-12-14 19:51:46",
       "album": {
+        "name": "Tattoo (Topic Remix)",
+        "url": "https://open.spotify.com/album/1nAJInWgfbBTHuK4osAGM9"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "Tattoo - Topic Remix",
+      "url": "https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp"
+    },
+    {
+      "added_at": "2023-12-14 19:51:46",
+      "album": {
         "name": "One Love (Deluxe)",
         "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
       },
@@ -1407,22 +1407,6 @@
       "duration_ms": 210093,
       "name": "Memories (feat. Kid Cudi)",
       "url": "https://open.spotify.com/track/4dTaAiV9xFFCxnPur9c9yL"
-    },
-    {
-      "added_at": "2023-12-14 19:51:46",
-      "album": {
-        "name": "Maria Maria",
-        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
-      },
-      "artists": [
-        {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
-        }
-      ],
-      "duration_ms": 161801,
-      "name": "Maria Maria",
-      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
     },
     {
       "added_at": "2023-12-14 19:51:46",
@@ -1451,18 +1435,18 @@
     {
       "added_at": "2023-12-14 19:51:46",
       "album": {
-        "name": "Drop That Low (When I Dip)",
-        "url": "https://open.spotify.com/album/3ijcuTSUg192BerlqA1gxR"
+        "name": "Maria Maria",
+        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
       },
       "artists": [
         {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
         }
       ],
-      "duration_ms": 159999,
-      "name": "Drop That Low (When I Dip)",
-      "url": "https://open.spotify.com/track/0WSjVLITbxV6kVXndziQDm"
+      "duration_ms": 161801,
+      "name": "Maria Maria",
+      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
     },
     {
       "added_at": "2023-12-14 19:51:46",
@@ -1483,6 +1467,22 @@
       "duration_ms": 151983,
       "name": "Let Me Think About It",
       "url": "https://open.spotify.com/track/4LjfIjS8iweFCPdKxLnEoV"
+    },
+    {
+      "added_at": "2023-12-14 19:51:46",
+      "album": {
+        "name": "Drop That Low (When I Dip)",
+        "url": "https://open.spotify.com/album/3ijcuTSUg192BerlqA1gxR"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        }
+      ],
+      "duration_ms": 159999,
+      "name": "Drop That Low (When I Dip)",
+      "url": "https://open.spotify.com/track/0WSjVLITbxV6kVXndziQDm"
     },
     {
       "added_at": "2023-12-14 19:51:46",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2023-12-14 19:51:46",
       "album": {
+        "name": "You Little Beauty",
+        "url": "https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 206587,
+      "name": "You Little Beauty",
+      "url": "https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT"
+    },
+    {
+      "added_at": "2023-12-14 19:51:46",
+      "album": {
         "name": "Astronomia",
         "url": "https://open.spotify.com/album/2GgIFRPmPzyqajQKFABMFL"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 198095,
       "name": "Astronomia",
       "url": "https://open.spotify.com/track/3hWfKBt3n7j1xqIy6LA5ve"
-    },
-    {
-      "added_at": "2023-12-14 19:51:46",
-      "album": {
-        "name": "You Little Beauty",
-        "url": "https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 206587,
-      "name": "You Little Beauty",
-      "url": "https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT"
     },
     {
       "added_at": "2023-12-14 19:51:46",
@@ -2323,6 +2323,22 @@
     {
       "added_at": "2023-12-14 19:51:46",
       "album": {
+        "name": "Pharmacy",
+        "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 203133,
+      "name": "Peanut Butter Jelly",
+      "url": "https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH"
+    },
+    {
+      "added_at": "2023-12-14 19:51:46",
+      "album": {
         "name": "After Midnight (feat. Xoro)",
         "url": "https://open.spotify.com/album/5p7P8z9HOWkmY68oCHfu4I"
       },
@@ -2343,22 +2359,6 @@
       "duration_ms": 143526,
       "name": "After Midnight (feat. Xoro)",
       "url": "https://open.spotify.com/track/5ANWAzmveemGd3Zqb5FXR1"
-    },
-    {
-      "added_at": "2023-12-14 19:51:46",
-      "album": {
-        "name": "Pharmacy",
-        "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 203133,
-      "name": "Peanut Butter Jelly",
-      "url": "https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH"
     },
     {
       "added_at": "2023-12-14 19:51:46",
@@ -2835,18 +2835,22 @@
     {
       "added_at": "2023-12-14 19:51:46",
       "album": {
-        "name": "I'm Blue (Club Mixes)",
-        "url": "https://open.spotify.com/album/785itgCjNtYOiRpu1SIDoo"
+        "name": "EP1",
+        "url": "https://open.spotify.com/album/5ZzT6EX1TinZGrS7CuaTHI"
       },
       "artists": [
         {
-          "name": "Kush Kush",
-          "url": "https://open.spotify.com/artist/5P4P6G0pubLi65R3zRnSCf"
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
         }
       ],
-      "duration_ms": 150000,
-      "name": "I'm Blue - Club Mix",
-      "url": "https://open.spotify.com/track/0P5lXk4fg0682IgDyK7GFM"
+      "duration_ms": 285596,
+      "name": "I Got U",
+      "url": "https://open.spotify.com/track/69gQgkobVW8bWjoCjBYQUd"
     },
     {
       "added_at": "2023-12-14 19:51:46",
@@ -2879,22 +2883,18 @@
     {
       "added_at": "2023-12-14 19:51:46",
       "album": {
-        "name": "EP1",
-        "url": "https://open.spotify.com/album/5ZzT6EX1TinZGrS7CuaTHI"
+        "name": "I'm Blue (Club Mixes)",
+        "url": "https://open.spotify.com/album/785itgCjNtYOiRpu1SIDoo"
       },
       "artists": [
         {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+          "name": "Kush Kush",
+          "url": "https://open.spotify.com/artist/5P4P6G0pubLi65R3zRnSCf"
         }
       ],
-      "duration_ms": 285596,
-      "name": "I Got U",
-      "url": "https://open.spotify.com/track/69gQgkobVW8bWjoCjBYQUd"
+      "duration_ms": 150000,
+      "name": "I'm Blue - Club Mix",
+      "url": "https://open.spotify.com/track/0P5lXk4fg0682IgDyK7GFM"
     },
     {
       "added_at": "2023-12-14 19:51:46",
@@ -2983,6 +2983,22 @@
     {
       "added_at": "2023-12-14 19:51:46",
       "album": {
+        "name": "Drinkin",
+        "url": "https://open.spotify.com/album/2M4jhdsyvC0xpuXXc1SKWE"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Drinkin",
+      "url": "https://open.spotify.com/track/1Usa0Fv8L9NmRKY4UYk4sD"
+    },
+    {
+      "added_at": "2023-12-14 19:51:46",
+      "album": {
         "name": "I Can\u2019t Wait (feat. Poppy Baskcomb)",
         "url": "https://open.spotify.com/album/4VQTonYI4isi3H2prtuKOX"
       },
@@ -3003,22 +3019,6 @@
       "duration_ms": 172799,
       "name": "I Can\u2019t Wait (feat. Poppy Baskcomb)",
       "url": "https://open.spotify.com/track/3bnla8QwheGOI2AtfWOES1"
-    },
-    {
-      "added_at": "2023-12-14 19:51:46",
-      "album": {
-        "name": "Drinkin",
-        "url": "https://open.spotify.com/album/2M4jhdsyvC0xpuXXc1SKWE"
-      },
-      "artists": [
-        {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "Drinkin",
-      "url": "https://open.spotify.com/track/1Usa0Fv8L9NmRKY4UYk4sD"
     },
     {
       "added_at": "2023-12-14 19:51:46",

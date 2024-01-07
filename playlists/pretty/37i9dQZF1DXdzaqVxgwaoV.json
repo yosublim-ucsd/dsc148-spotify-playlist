@@ -1,12 +1,12 @@
 {
   "description": "La m\u00fasica que enciende las fiestas navide\u00f1as y de fin de a\u00f1o en Colombia.",
-  "num_followers": 111002,
+  "num_followers": 110982,
   "original_name": "M\u00fasica Decembrina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjNiZGZhZDM5NDA0ZWQ3Y2VlMTYyZDI4Y2MzMzM1YWJkZTNmNjI1",
+  "snapshot_id": "MCw3MGQyYjIwM2RkN2Y3ZjFlYTk2ODQ0ZjUzN2M4OTYxYTAwN2M2M2Fh",
   "tracks": [
     {
       "added_at": "2023-12-20 18:46:33",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Discos de Oro: Pastor L\u00f3pez y Su Combo Volume 3",
-        "url": "https://open.spotify.com/album/4f99jZmWiZEGRTlmBFfNgk"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez Y Su Combo",
-          "url": "https://open.spotify.com/artist/1OaJc4r2SBZ7Iokg2Gkwde"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Las Cale\u00f1as",
-      "url": "https://open.spotify.com/track/3ti0XBQOyhgSRI4Ulqj5As"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "26 De Mayo",
         "url": "https://open.spotify.com/album/4JTXVbFhPiPlWDZp3Jp11B"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 278240,
       "name": "La Plata",
       "url": "https://open.spotify.com/track/61xyQGDYH9yMn4H9MpTh3g"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Discos de Oro: Pastor L\u00f3pez y Su Combo Volume 3",
+        "url": "https://open.spotify.com/album/4f99jZmWiZEGRTlmBFfNgk"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez Y Su Combo",
+          "url": "https://open.spotify.com/artist/1OaJc4r2SBZ7Iokg2Gkwde"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Las Cale\u00f1as",
+      "url": "https://open.spotify.com/track/3ti0XBQOyhgSRI4Ulqj5As"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Rep\u00edtela",
-        "url": "https://open.spotify.com/album/1S3Ao9VsfFF9v8azLqaM29"
-      },
-      "artists": [
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        }
-      ],
-      "duration_ms": 209075,
-      "name": "Rep\u00edtela",
-      "url": "https://open.spotify.com/track/6syqaRHW4FsOgdGgoWvAb1"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "Las Que Faltaban",
         "url": "https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw"
       },
@@ -343,50 +327,18 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Sin Medir Distancia",
-        "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
+        "name": "Rep\u00edtela",
+        "url": "https://open.spotify.com/album/1S3Ao9VsfFF9v8azLqaM29"
       },
       "artists": [
         {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
         }
       ],
-      "duration_ms": 279266,
-      "name": "Era Mentira",
-      "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "Colecci\u00f3n de \u00c9xitos (Vol. 1)",
-        "url": "https://open.spotify.com/album/47siIpiLeeKUsz0FBLZyJP"
-      },
-      "artists": [
-        {
-          "name": "Los 50 De Joselito",
-          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
-        }
-      ],
-      "duration_ms": 174320,
-      "name": "El Bailador",
-      "url": "https://open.spotify.com/track/3bvQnI2iqaGMjDz7e35Kdv"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "La Orquesta Que Impone El Ritmo",
-        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
-      },
-      "artists": [
-        {
-          "name": "Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
-        }
-      ],
-      "duration_ms": 265546,
-      "name": "Z\u00fambalo",
-      "url": "https://open.spotify.com/track/7nhT7NOcyixKV17KLPAzdE"
+      "duration_ms": 209075,
+      "name": "Rep\u00edtela",
+      "url": "https://open.spotify.com/track/6syqaRHW4FsOgdGgoWvAb1"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -411,22 +363,50 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "De Pel\u00edcula",
-        "url": "https://open.spotify.com/album/5zrHyuF84953CZ1PLwTQeb"
+        "name": "Colecci\u00f3n de \u00c9xitos (Vol. 1)",
+        "url": "https://open.spotify.com/album/47siIpiLeeKUsz0FBLZyJP"
       },
       "artists": [
         {
-          "name": "Los Hispanos",
-          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
-        },
-        {
-          "name": "Gustavo Quintero",
-          "url": "https://open.spotify.com/artist/7d1I3nQKYsBnj0uDShHrYn"
+          "name": "Los 50 De Joselito",
+          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
         }
       ],
-      "duration_ms": 176509,
-      "name": "Fantas\u00eda Nocturna",
-      "url": "https://open.spotify.com/track/2tcv4KCa1jPl0DuOm5pkJv"
+      "duration_ms": 174320,
+      "name": "El Bailador",
+      "url": "https://open.spotify.com/track/3bvQnI2iqaGMjDz7e35Kdv"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Sin Medir Distancia",
+        "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "Era Mentira",
+      "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "La Orquesta Que Impone El Ritmo",
+        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
+      },
+      "artists": [
+        {
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+        }
+      ],
+      "duration_ms": 265546,
+      "name": "Z\u00fambalo",
+      "url": "https://open.spotify.com/track/7nhT7NOcyixKV17KLPAzdE"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -447,18 +427,22 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Mano A Mano",
-        "url": "https://open.spotify.com/album/75HCZI5SShGQENunzEeXYr"
+        "name": "De Pel\u00edcula",
+        "url": "https://open.spotify.com/album/5zrHyuF84953CZ1PLwTQeb"
       },
       "artists": [
         {
-          "name": "Billo's Caracas Boys Vs. Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/65gL397VToxBjWk3kfPTpV"
+          "name": "Los Hispanos",
+          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
+        },
+        {
+          "name": "Gustavo Quintero",
+          "url": "https://open.spotify.com/artist/7d1I3nQKYsBnj0uDShHrYn"
         }
       ],
-      "duration_ms": 121893,
-      "name": "Apagame La Vela",
-      "url": "https://open.spotify.com/track/3I27f71VwlMVPe6wqAXPew"
+      "duration_ms": 176509,
+      "name": "Fantas\u00eda Nocturna",
+      "url": "https://open.spotify.com/track/2tcv4KCa1jPl0DuOm5pkJv"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -479,22 +463,18 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Felices Pascuas",
-        "url": "https://open.spotify.com/album/5ZfFl3nLmKSGdN3pKrVBQ6"
+        "name": "Mano A Mano",
+        "url": "https://open.spotify.com/album/75HCZI5SShGQENunzEeXYr"
       },
       "artists": [
         {
-          "name": "Bobby Cruz",
-          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
-        },
-        {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+          "name": "Billo's Caracas Boys Vs. Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/65gL397VToxBjWk3kfPTpV"
         }
       ],
-      "duration_ms": 306760,
-      "name": "Bomba en Navidad",
-      "url": "https://open.spotify.com/track/2kIawdmEzVhR9F0Z8EsOns"
+      "duration_ms": 121893,
+      "name": "Apagame La Vela",
+      "url": "https://open.spotify.com/track/3I27f71VwlMVPe6wqAXPew"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -519,6 +499,22 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "La Orquesta Que Impone El Ritmo",
+        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
+      },
+      "artists": [
+        {
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+        }
+      ],
+      "duration_ms": 248480,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6l0xwRuI7LrQ7xfBx4YLwi"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "17 \u00c9xitos",
         "url": "https://open.spotify.com/album/3TWu5whCfUMJbbzaNXqved"
       },
@@ -539,18 +535,22 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Exitos De Billo's Caracas Boys",
-        "url": "https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n"
+        "name": "Felices Pascuas",
+        "url": "https://open.spotify.com/album/5ZfFl3nLmKSGdN3pKrVBQ6"
       },
       "artists": [
         {
-          "name": "Billo's",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+          "name": "Bobby Cruz",
+          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
+        },
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
         }
       ],
-      "duration_ms": 183228,
-      "name": "Cumbia Caletera",
-      "url": "https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe"
+      "duration_ms": 306760,
+      "name": "Bomba en Navidad",
+      "url": "https://open.spotify.com/track/2kIawdmEzVhR9F0Z8EsOns"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -571,18 +571,18 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "La Orquesta Que Impone El Ritmo",
-        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
+        "name": "Exitos De Billo's Caracas Boys",
+        "url": "https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n"
       },
       "artists": [
         {
-          "name": "Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+          "name": "Billo's",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
         }
       ],
-      "duration_ms": 248480,
-      "name": "Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6l0xwRuI7LrQ7xfBx4YLwi"
+      "duration_ms": 183228,
+      "name": "Cumbia Caletera",
+      "url": "https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Por Las Buenas",
-        "url": "https://open.spotify.com/album/4uwZYTIdlBBRDb3M2nYrk1"
-      },
-      "artists": [
-        {
-          "name": "Billo's",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
-        }
-      ],
-      "duration_ms": 155538,
-      "name": "Por Las Buenas",
-      "url": "https://open.spotify.com/track/3k2qOgZygd9YxrYGqkK6Dj"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "Orqu\u00eddea de Plata",
         "url": "https://open.spotify.com/album/22gSxHcz1T3gscMlBYOWzn"
       },
@@ -711,18 +695,34 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Super Buenonas de Parranda y el Gitano Groser\u00f3n",
-        "url": "https://open.spotify.com/album/2I4PIVfDOl7qTwbAKzEzdl"
+        "name": "Por Las Buenas",
+        "url": "https://open.spotify.com/album/4uwZYTIdlBBRDb3M2nYrk1"
       },
       "artists": [
         {
-          "name": "Gildardo Montoya",
-          "url": "https://open.spotify.com/artist/3eyhtBUxcN1VopDo3UCUg6"
+          "name": "Billo's",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
         }
       ],
-      "duration_ms": 162933,
-      "name": "El Arruinao",
-      "url": "https://open.spotify.com/track/2ECNhpxm22jpykDObxrfe1"
+      "duration_ms": 155538,
+      "name": "Por Las Buenas",
+      "url": "https://open.spotify.com/track/3k2qOgZygd9YxrYGqkK6Dj"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "La Orquesta Que Impone El Ritmo",
+        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
+      },
+      "artists": [
+        {
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+        }
+      ],
+      "duration_ms": 243840,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -743,18 +743,18 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "La Orquesta Que Impone El Ritmo",
-        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
+        "name": "Super Buenonas de Parranda y el Gitano Groser\u00f3n",
+        "url": "https://open.spotify.com/album/2I4PIVfDOl7qTwbAKzEzdl"
       },
       "artists": [
         {
-          "name": "Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+          "name": "Gildardo Montoya",
+          "url": "https://open.spotify.com/artist/3eyhtBUxcN1VopDo3UCUg6"
         }
       ],
-      "duration_ms": 243840,
-      "name": "Ay Amor",
-      "url": "https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8"
+      "duration_ms": 162933,
+      "name": "El Arruinao",
+      "url": "https://open.spotify.com/track/2ECNhpxm22jpykDObxrfe1"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6"
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
       "artists": [
         {
-          "name": "El Rey de los Diciembres",
-          "url": "https://open.spotify.com/artist/3lXyd3sTGI4rJ9sGsqvZ5Y"
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 187144,
-      "name": "Adonay (Live)",
-      "url": "https://open.spotify.com/track/7ihWacHx8eKbglkhI7vikt"
+      "duration_ms": 276826,
+      "name": "Cali Aj\u00ed",
+      "url": "https://open.spotify.com/track/29iVbAneOn1ZGW4zzrBlUb"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6"
       },
       "artists": [
         {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+          "name": "El Rey de los Diciembres",
+          "url": "https://open.spotify.com/artist/3lXyd3sTGI4rJ9sGsqvZ5Y"
         }
       ],
-      "duration_ms": 276826,
-      "name": "Cali Aj\u00ed",
-      "url": "https://open.spotify.com/track/29iVbAneOn1ZGW4zzrBlUb"
+      "duration_ms": 187144,
+      "name": "Adonay (Live)",
+      "url": "https://open.spotify.com/track/7ihWacHx8eKbglkhI7vikt"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "\u00c9xitos De Siempre",
-        "url": "https://open.spotify.com/album/7F4oJEuDFeF0erkzERzihR"
-      },
-      "artists": [
-        {
-          "name": "Hernan Dario Hernandez",
-          "url": "https://open.spotify.com/artist/2XAs0PIadAYZYnt2TEa0Cs"
-        }
-      ],
-      "duration_ms": 195056,
-      "name": "Aqu\u00ed Est\u00e1 El Bobo",
-      "url": "https://open.spotify.com/track/2B96lfFlbinfLS2HWweBYn"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "Los A\u00f1os Dorados",
         "url": "https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 259812,
       "name": "Volver\u00e9",
       "url": "https://open.spotify.com/track/6THn83A87GCDaDZp9UQsPl"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "\u00c9xitos De Siempre",
+        "url": "https://open.spotify.com/album/7F4oJEuDFeF0erkzERzihR"
+      },
+      "artists": [
+        {
+          "name": "Hernan Dario Hernandez",
+          "url": "https://open.spotify.com/artist/2XAs0PIadAYZYnt2TEa0Cs"
+        }
+      ],
+      "duration_ms": 195056,
+      "name": "Aqu\u00ed Est\u00e1 El Bobo",
+      "url": "https://open.spotify.com/track/2B96lfFlbinfLS2HWweBYn"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Colecci\u00f3n de \u00c9xitos (Vol. 1)",
-        "url": "https://open.spotify.com/album/47siIpiLeeKUsz0FBLZyJP"
-      },
-      "artists": [
-        {
-          "name": "Los 50 De Joselito",
-          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
-        }
-      ],
-      "duration_ms": 166704,
-      "name": "Arbolito de Navidad",
-      "url": "https://open.spotify.com/track/2eoR1IW9sS4saeRPlXlxW9"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "10 De Colecci\u00f3n",
         "url": "https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk"
       },
@@ -975,18 +959,18 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Banda Los Hijos De La Ni\u00f1a Luz",
-        "url": "https://open.spotify.com/album/5RGfBz5Vn70danDfxPRNry"
+        "name": "Colecci\u00f3n de \u00c9xitos (Vol. 1)",
+        "url": "https://open.spotify.com/album/47siIpiLeeKUsz0FBLZyJP"
       },
       "artists": [
         {
-          "name": "Los Hijos De La Ni\u00f1a Luz",
-          "url": "https://open.spotify.com/artist/1pdvqZlba01URStTIbnfv2"
+          "name": "Los 50 De Joselito",
+          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
         }
       ],
-      "duration_ms": 238497,
-      "name": "La Matica",
-      "url": "https://open.spotify.com/track/37TH0D7WqEAjnKKjSWVCCa"
+      "duration_ms": 166704,
+      "name": "Arbolito de Navidad",
+      "url": "https://open.spotify.com/track/2eoR1IW9sS4saeRPlXlxW9"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1023,6 +1007,22 @@
       "duration_ms": 364617,
       "name": "Guayacan Pasodobles: Espa\u00f1a Ca\u00f1i / Ni Se Compra Ni Se Vende / Feria de Manizales / Silverio / Te Quiero Porque Te Quiero",
       "url": "https://open.spotify.com/track/3JgqWRxoH1UdjIzTAlSU1q"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Banda Los Hijos De La Ni\u00f1a Luz",
+        "url": "https://open.spotify.com/album/5RGfBz5Vn70danDfxPRNry"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De La Ni\u00f1a Luz",
+          "url": "https://open.spotify.com/artist/1pdvqZlba01URStTIbnfv2"
+        }
+      ],
+      "duration_ms": 238497,
+      "name": "La Matica",
+      "url": "https://open.spotify.com/track/37TH0D7WqEAjnKKjSWVCCa"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "El Arenal",
-        "url": "https://open.spotify.com/album/11EOgFqgtSZwStG3ryasgR"
+        "name": "Tierra Mala",
+        "url": "https://open.spotify.com/album/1ifSWefkAmzfDlBowUtmjU"
       },
       "artists": [
         {
-          "name": "Super Combo Los Tropicales",
-          "url": "https://open.spotify.com/artist/7413EGw2gPpKWZoC32oQ2D"
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
         }
       ],
-      "duration_ms": 163761,
-      "name": "Caim\u00e1n Y Gallinazos",
-      "url": "https://open.spotify.com/track/45YxbUt9qwYzXZtMg3MrL8"
+      "duration_ms": 289933,
+      "name": "Tierra Mala",
+      "url": "https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1175,6 +1175,22 @@
       "duration_ms": 211133,
       "name": "Sorbito De Champagne",
       "url": "https://open.spotify.com/track/4WiBMg15y8pGL1AwTowX42"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "El Arenal",
+        "url": "https://open.spotify.com/album/11EOgFqgtSZwStG3ryasgR"
+      },
+      "artists": [
+        {
+          "name": "Super Combo Los Tropicales",
+          "url": "https://open.spotify.com/artist/7413EGw2gPpKWZoC32oQ2D"
+        }
+      ],
+      "duration_ms": 163761,
+      "name": "Caim\u00e1n Y Gallinazos",
+      "url": "https://open.spotify.com/track/45YxbUt9qwYzXZtMg3MrL8"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Tierra Mala",
-        "url": "https://open.spotify.com/album/1ifSWefkAmzfDlBowUtmjU"
-      },
-      "artists": [
-        {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        }
-      ],
-      "duration_ms": 289933,
-      "name": "Tierra Mala",
-      "url": "https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "Los Mejores, Los Hispanos, Los Graduados",
         "url": "https://open.spotify.com/album/1IBR0Tmgw4urAXuE32Sd0z"
       },
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Fuera De Serie",
-        "url": "https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8"
+        "name": "Party Tyme Karaoke - Latin Tropical Hits 9",
+        "url": "https://open.spotify.com/album/2Kad5QdqEJgphjREfG1p9I"
       },
       "artists": [
         {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+          "name": "Party Tyme Karaoke",
+          "url": "https://open.spotify.com/artist/3JoDcjZtpq0ccldFgYmeAB"
         }
       ],
-      "duration_ms": 263906,
-      "name": "Navidad",
-      "url": "https://open.spotify.com/track/7JIHN2bhJhHe9YlFueQoEk"
+      "duration_ms": 188717,
+      "name": "Oye (Made Popular By La Sonora Dinamita) [Karaoke Version]",
+      "url": "https://open.spotify.com/track/2eTfL1xavot0ey3izNzT94"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Party Tyme Karaoke - Latin Tropical Hits 9",
-        "url": "https://open.spotify.com/album/2Kad5QdqEJgphjREfG1p9I"
+        "name": "Fuera De Serie",
+        "url": "https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8"
       },
       "artists": [
         {
-          "name": "Party Tyme Karaoke",
-          "url": "https://open.spotify.com/artist/3JoDcjZtpq0ccldFgYmeAB"
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 188717,
-      "name": "Oye (Made Popular By La Sonora Dinamita) [Karaoke Version]",
-      "url": "https://open.spotify.com/track/2eTfL1xavot0ey3izNzT94"
+      "duration_ms": 263906,
+      "name": "Navidad",
+      "url": "https://open.spotify.com/track/7JIHN2bhJhHe9YlFueQoEk"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1315,38 +1315,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Colecciones de Oro",
-        "url": "https://open.spotify.com/album/5rMb7dMhK7k7OILWRtswUe"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Gutierrez",
-          "url": "https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A"
-        }
-      ],
-      "duration_ms": 216711,
-      "name": "El Solitario",
-      "url": "https://open.spotify.com/track/7q82VvrWXF2ENfLkCZzSAD"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "El Sonido Original",
-        "url": "https://open.spotify.com/album/79xdwYb46OpWG5PhaIbwi2"
-      },
-      "artists": [
-        {
-          "name": "Emir Bosc\u00e1n y los Tomasinos",
-          "url": "https://open.spotify.com/artist/15Phddkrtt00KTVrq1WkR4"
-        }
-      ],
-      "duration_ms": 143917,
-      "name": "Cubita La Bella",
-      "url": "https://open.spotify.com/track/6Nc7VYYybev1B7fS9XEWeF"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "32 Ca\u00f1onazos",
         "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
       },
@@ -1367,18 +1335,50 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Exitos De Billo's Caracas Boys",
-        "url": "https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n"
+        "name": "El Sonido Original",
+        "url": "https://open.spotify.com/album/79xdwYb46OpWG5PhaIbwi2"
       },
       "artists": [
         {
-          "name": "Billo's",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+          "name": "Emir Bosc\u00e1n y los Tomasinos",
+          "url": "https://open.spotify.com/artist/15Phddkrtt00KTVrq1WkR4"
         }
       ],
-      "duration_ms": 175647,
-      "name": "Boquita Sala",
-      "url": "https://open.spotify.com/track/2PhDSnvzHU4NKuKTtUD6Ea"
+      "duration_ms": 143917,
+      "name": "Cubita La Bella",
+      "url": "https://open.spotify.com/track/6Nc7VYYybev1B7fS9XEWeF"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Colecciones de Oro",
+        "url": "https://open.spotify.com/album/5rMb7dMhK7k7OILWRtswUe"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Gutierrez",
+          "url": "https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A"
+        }
+      ],
+      "duration_ms": 216711,
+      "name": "El Solitario",
+      "url": "https://open.spotify.com/track/7q82VvrWXF2ENfLkCZzSAD"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "No Hay Porqu\u00e9 Esperar",
+        "url": "https://open.spotify.com/album/37ipB2Anm6xNkDUu8nubbX"
+      },
+      "artists": [
+        {
+          "name": "Jhonny Rivera",
+          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
+        }
+      ],
+      "duration_ms": 190982,
+      "name": "El Pegao",
+      "url": "https://open.spotify.com/track/6BIJjj0GaPbmDXMTbLG6kt"
     }
   ],
   "unique_name": "M\u00fasica Decembrina",

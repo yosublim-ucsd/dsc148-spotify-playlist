@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: KWON EUNBI(\uad8c\uc740\ube44)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 49608,
+  "num_followers": 49642,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDU2OWVkYTQ0YmExNzg0ODczMGVkNTE0NmU2ZTkyMmJiNTUxNzkw",
+  "snapshot_id": "MCxlMDZkNDE0ZDI0OWUzY2RmZmViMDNhZjYxNzQ2MGIwZjczNjBjYTNj",
   "tracks": [
     {
       "added_at": "2023-11-02 08:20:42",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
+        "name": "Sweet Girl",
+        "url": "https://open.spotify.com/album/3pJONZdr1gEeoxgBK96vwx"
+      },
+      "artists": [
+        {
+          "name": "B1A4",
+          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
+        }
+      ],
+      "duration_ms": 248986,
+      "name": "Sweet Girl",
+      "url": "https://open.spotify.com/track/77dtDxOL2xHpOCk4jdS9uh"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
         "name": "Color of Night",
         "url": "https://open.spotify.com/album/36u4F4DHUfQc4Zli7TgHQN"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 209156,
       "name": "Thinking About You (feat. SUMIN)",
       "url": "https://open.spotify.com/track/4kUD47WGOx48NepL37CfbT"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
-        "name": "Sweet Girl",
-        "url": "https://open.spotify.com/album/3pJONZdr1gEeoxgBK96vwx"
-      },
-      "artists": [
-        {
-          "name": "B1A4",
-          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
-        }
-      ],
-      "duration_ms": 248986,
-      "name": "Sweet Girl",
-      "url": "https://open.spotify.com/track/77dtDxOL2xHpOCk4jdS9uh"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
-        "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
-      },
-      "artists": [
-        {
-          "name": "Weki Meki",
-          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "The Paradise",
-      "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "When My Loneliness Calls You (From The Original TV Show \"Live On\")",
         "url": "https://open.spotify.com/album/1UjN6iS3t6X7TiBpZynE2l"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 257031,
       "name": "When My Loneliness Calls You",
       "url": "https://open.spotify.com/track/61fkpzyUvPX7PMz9PnuHTF"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
+        "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
+      },
+      "artists": [
+        {
+          "name": "Weki Meki",
+          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "The Paradise",
+      "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "[COSMOS]",
-        "url": "https://open.spotify.com/album/73mGtUdDaLFdLiTnxz0Lqf"
+        "name": "SEOUL CITY POP [A-Side]",
+        "url": "https://open.spotify.com/album/0OXA4wAxuNJO071dZigy23"
       },
       "artists": [
         {
-          "name": "D\u2019allant",
-          "url": "https://open.spotify.com/artist/43twit4jxaRzr008CaVw3l"
+          "name": "IHYA",
+          "url": "https://open.spotify.com/artist/2AoCTD2YuVOY1AHKGx3fqh"
         }
       ],
-      "duration_ms": 213994,
-      "name": "NEPTUNE",
-      "url": "https://open.spotify.com/track/0bb8pvRKp6Fa443FhuooU0"
+      "duration_ms": 202218,
+      "name": "SEOUL CITY POP",
+      "url": "https://open.spotify.com/track/0Y1aP0BtnHJjM0ugmxCoDL"
     }
   ],
   "unique_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",

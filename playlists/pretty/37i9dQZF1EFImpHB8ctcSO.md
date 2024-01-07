@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 57 | [Long Shot](https://open.spotify.com/track/0mvQBGSLFaQRgTje5MP9eS) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 3:13 |
 | 58 | [I Should've Known](https://open.spotify.com/track/12boxwozoEmsb4YLempgex) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 4:53 |
 | 59 | [You Fall](https://open.spotify.com/track/0vFrZO3xYina3cgFJ9WxKD) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 3:35 |
-| 60 | [Little Tornado](https://open.spotify.com/track/0ZQQCZKXk16fOyN7u1JnKF) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers](https://open.spotify.com/album/6ZcgBk8cqbcQyZCW7B8sW2) | 3:23 |
-| 61 | [Suicide is Murder](https://open.spotify.com/track/3b3gGKj8NbZXr1saznk7tz) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 4:14 |
+| 60 | [Suicide is Murder](https://open.spotify.com/track/3b3gGKj8NbZXr1saznk7tz) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 4:14 |
+| 61 | [Little Tornado](https://open.spotify.com/track/0ZQQCZKXk16fOyN7u1JnKF) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers](https://open.spotify.com/album/6ZcgBk8cqbcQyZCW7B8sW2) | 3:23 |
 | 62 | [4th Of July](https://open.spotify.com/track/3khDK8qYSpNI5ssxhsTlfH) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 3:21 |
 | 63 | [Disappeared](https://open.spotify.com/track/5Qp2RRwtmHEqR0oiCYuMti) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/0FAifNXe3C8AHqTe25ggcg) | 3:24 |
 | 64 | [Little Bombs](https://open.spotify.com/track/4TSnXIBL47e8N5PXhivcHv) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 3:49 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 169 | [Not Where I'm At](https://open.spotify.com/track/5ZhKJSPbtJkzrUABCrEynI) | [Kimon Kirk](https://open.spotify.com/artist/3uLu0SowS5e7Kxnxxywm78) | [Songs for Society](https://open.spotify.com/album/7wrwwoZXGmJMcMZsZeXHTJ) | 4:54 |
 | 170 | [Get Down To It](https://open.spotify.com/track/4m5Xqf5HfehoYM3IEzAEJB) | [Sierra Swan](https://open.spotify.com/artist/6zIxx9IiDjDczUVAkjVGMr) | [Ladyland](https://open.spotify.com/album/0SFkAyG2qQbv9ksSZGQWvE) | 4:23 |
 
-Snapshot ID: `Mjg0MDg0NTAsMDAwMDAwMDAwYjFiODQxNTBjZTkwZDc3ZmJhN2Q0YzJmNTAxNTNkMg==`
+Snapshot ID: `Mjg0MDk4OTAsMDAwMDAwMDA0NjBiYWZkY2I5MWM4YTkyNmI4YWYzMmZjZWI1Njc1ZA==`

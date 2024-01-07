@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 225123,
+  "num_followers": 225188,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjIwMWUwZmRjMDg1NWM0Yzc4Yzg4OGU5ZWYwOTIzNGQ4MDM1ODk5",
+  "snapshot_id": "MCw3YTViOTBiNDdiNThmZmI1YTAwN2Y1YzdiM2M0YjE4OTg3MzFiNzE1",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/3hl2uaqB2zBZdetkeATUBe"
-      },
-      "artists": [
-        {
-          "name": "The System",
-          "url": "https://open.spotify.com/artist/0Dhlcr8EQOAp0hHbhz1ozR"
-        }
-      ],
-      "duration_ms": 357812,
-      "name": "You Are in My System",
-      "url": "https://open.spotify.com/track/47HusOVsGPUcsJtMq40aRd"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Where Will You Go When The Party's Over",
         "url": "https://open.spotify.com/album/59RUNgFXzj7NmK5QagHViQ"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 259653,
       "name": "Don't Let Love Get You Down",
       "url": "https://open.spotify.com/track/2GOnaGFMVPMYqRNRteDw3h"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/3hl2uaqB2zBZdetkeATUBe"
+      },
+      "artists": [
+        {
+          "name": "The System",
+          "url": "https://open.spotify.com/artist/0Dhlcr8EQOAp0hHbhz1ozR"
+        }
+      ],
+      "duration_ms": 357812,
+      "name": "You Are in My System",
+      "url": "https://open.spotify.com/track/47HusOVsGPUcsJtMq40aRd"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "World",
-        "url": "https://open.spotify.com/album/4ka25IRzopZcy8QCBwHF80"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 327560,
-      "name": "Exotica Dance Club",
-      "url": "https://open.spotify.com/track/08NpvTDlC0HaA4RwO1wRs7"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Pure Sounds of Africa",
         "url": "https://open.spotify.com/album/4Gmh2qeyIv04wytrc9F5Ab"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 413560,
       "name": "Don't Go Lose It Baby",
       "url": "https://open.spotify.com/track/1kKvcinRJW5ci22gnTYNq6"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "World",
+        "url": "https://open.spotify.com/album/4ka25IRzopZcy8QCBwHF80"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 327560,
+      "name": "Exotica Dance Club",
+      "url": "https://open.spotify.com/track/08NpvTDlC0HaA4RwO1wRs7"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Remind Me (The Classic Elektra Recordings 1978-1984)",
-        "url": "https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 438199,
-      "name": "Haven't You Heard - 12\" Version",
-      "url": "https://open.spotify.com/track/6WcJbVV5gu5srjBMsE332X"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Paradise (Remastered)",
         "url": "https://open.spotify.com/album/0aVMTknKy6rbFESKvOlOV3"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 331893,
       "name": "Classy Lady - Remastered Version",
       "url": "https://open.spotify.com/track/2wSwWfqpMBkHBOkb6cCB7o"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Remind Me (The Classic Elektra Recordings 1978-1984)",
+        "url": "https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 438199,
+      "name": "Haven't You Heard - 12\" Version",
+      "url": "https://open.spotify.com/track/6WcJbVV5gu5srjBMsE332X"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1503,26 +1503,6 @@
       "duration_ms": 453706,
       "name": "Family - Stereo Version",
       "url": "https://open.spotify.com/track/4i9pSye2fyhC6y2k7FyENX"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Grandmaster Flash, Grandmaster Melle-Mel & The Furious Five: The Greatest Hits",
-        "url": "https://open.spotify.com/album/40o5zHSxes3t5JFLcQwoa9"
-      },
-      "artists": [
-        {
-          "name": "Grandmaster Flash",
-          "url": "https://open.spotify.com/artist/1JfnADNz5yYEq3hrzlZHLk"
-        },
-        {
-          "name": "Grandmaster Melle Mel",
-          "url": "https://open.spotify.com/artist/0AWhixY9hX7LEPyPMjh4O0"
-        }
-      ],
-      "duration_ms": 269666,
-      "name": "White Lines (Don't Do It)",
-      "url": "https://open.spotify.com/track/5iMFwxh6akxfgoujdvI1rf"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1579,6 +1559,42 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Grandmaster Flash, Grandmaster Melle-Mel & The Furious Five: The Greatest Hits",
+        "url": "https://open.spotify.com/album/40o5zHSxes3t5JFLcQwoa9"
+      },
+      "artists": [
+        {
+          "name": "Grandmaster Flash",
+          "url": "https://open.spotify.com/artist/1JfnADNz5yYEq3hrzlZHLk"
+        },
+        {
+          "name": "Grandmaster Melle Mel",
+          "url": "https://open.spotify.com/artist/0AWhixY9hX7LEPyPMjh4O0"
+        }
+      ],
+      "duration_ms": 269666,
+      "name": "White Lines (Don't Do It)",
+      "url": "https://open.spotify.com/track/5iMFwxh6akxfgoujdvI1rf"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Disco Baby",
+        "url": "https://open.spotify.com/album/6L69V18qBxDhxTlx4ZqgF2"
+      },
+      "artists": [
+        {
+          "name": "Y. Gershovsky",
+          "url": "https://open.spotify.com/artist/1Ydl0Zxt4RZCfl15pzQTaW"
+        }
+      ],
+      "duration_ms": 229734,
+      "name": "Disco Baby - Floating Points & Red Greg Edit",
+      "url": "https://open.spotify.com/track/1ILmOHn4tzjj7XaGBYx5Xu"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Raw Silk Vol. 1",
         "url": "https://open.spotify.com/album/4J8COrwRuMK2CQGNp9353D"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 251653,
       "name": "Saturday Jam",
       "url": "https://open.spotify.com/track/2JsvvaTZKsBVO1gHSXwamD"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Disco Baby",
-        "url": "https://open.spotify.com/album/6L69V18qBxDhxTlx4ZqgF2"
-      },
-      "artists": [
-        {
-          "name": "Y. Gershovsky",
-          "url": "https://open.spotify.com/artist/1Ydl0Zxt4RZCfl15pzQTaW"
-        }
-      ],
-      "duration_ms": 229734,
-      "name": "Disco Baby - Floating Points & Red Greg Edit",
-      "url": "https://open.spotify.com/track/1ILmOHn4tzjj7XaGBYx5Xu"
     },
     {
       "added_at": "2022-09-05 16:54:43",

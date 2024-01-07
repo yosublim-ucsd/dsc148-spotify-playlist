@@ -4,7 +4,7 @@
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-215 songs - 14 hr 7 min
+216 songs - 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [HELP!](https://open.spotify.com/track/0NYrbgMEKFplv2l4Rzv4hN) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [HELP!](https://open.spotify.com/album/0sVketRXWDWlozs5jNopci) | 3:03 | 2022-05-27 | 2022-10-30 |
 | [HEY GOD](https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr) | [KAYDEN](https://open.spotify.com/artist/5Dq2DMerDcvcdlzPTmo6Jn), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [HEY GOD](https://open.spotify.com/album/16dHro8vtYbycbNct69lmT) | 2:54 | 2022-05-27 |  |
 | [High Calling](https://open.spotify.com/track/2gB0rcZPb6q0P3Pd828K8Y) | [The Shelter](https://open.spotify.com/artist/0twZSsD7f6PPINVUMHVBbC), [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [High Calling](https://open.spotify.com/album/3g41qW3oYLAsJmp81NDHe0) | 3:09 | 2022-05-27 | 2022-07-28 |
-| [HOLY GHOST](https://open.spotify.com/track/4dpdRKI74fRMCxFT1Vni5R) | [KJ Scriven](https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC) | [HOLY GHOST](https://open.spotify.com/album/6X1a5xhT0pFr2W7Q8q8HdA) | 4:50 | 2022-10-29 |  |
+| [Hold Me](https://open.spotify.com/track/6PxIGrqOlGUc5aQjqIsdG5) | [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Hold Me](https://open.spotify.com/album/6OKYLvwDv9IW8wvkvEKKoB) | 3:20 | 2022-10-29 |  |
+| [HOLY GHOST](https://open.spotify.com/track/4dpdRKI74fRMCxFT1Vni5R) | [KJ Scriven](https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC) | [HOLY GHOST](https://open.spotify.com/album/6X1a5xhT0pFr2W7Q8q8HdA) | 4:50 | 2022-10-29 | 2024-01-07 |
 | [Holy Spirit Come](https://open.spotify.com/track/0fFPUhjQSy1TWgK7W09fmo) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu) | [Holy Spirit Come](https://open.spotify.com/album/675wCYd2ed5JUJF9sLBsyG) | 4:14 | 2022-10-29 | 2023-03-14 |
 | [Home Called Heaven](https://open.spotify.com/track/1RUgjAvt8majG62li8evpf) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Home Called Heaven](https://open.spotify.com/album/2QlmS7ToKED5SenA36CSsV) | 3:47 | 2022-05-27 |  |
 | [How Can I Be Silent](https://open.spotify.com/track/7IgnVHqxDysutaj7txWS9U) | [Chelsea](https://open.spotify.com/artist/68rhcOBBEa3q3lKZbOAd18) | [How Can I Be Silent](https://open.spotify.com/album/3GudEZtWF1vRHf1AM0hH9C) | 3:24 | 2022-05-27 | 2022-10-30 |

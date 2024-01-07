@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Vvs8ZCWJn.md) - [plain]
 
 > Clásicas románticas, melodiosas, apacibles.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,018 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,094 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Vvs8ZCWJn.md) - [plain]
 | 45 | [Medley \(Yo Que No Vivo Sin Ti / Culpable O No / Más Allá De Todo / Fría Como El Viento / Entrégate /Tengo Todo Excepto A Ti / La Incondicional\) \- En Vivo](https://open.spotify.com/track/2VbKzmGzbd2qjO0xw3WhKq) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 16:32 |
 | 46 | [Tómame o Déjame \- Remasterizado](https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Mocedades 5](https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx) | 3:07 |
 | 47 | [Cantares](https://open.spotify.com/track/3sjv1TBUwUjXeyUrsH3DwJ) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Dedicado A Antonio Machado, Poeta](https://open.spotify.com/album/3EF2QL5cEctLrXwNqTIBZX) | 3:16 |
-| 48 | [Luna mágica](https://open.spotify.com/track/38TOLZUaluhotS1fOFtpOb) | [Rocio Banquells](https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz) | [Rocio Banquells](https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz) | 4:13 |
-| 49 | [Paraiso](https://open.spotify.com/track/6eooWeZ10qf1hbl4OlCcG4) | [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [El Dorado](https://open.spotify.com/album/4sehYh39cQn4y8133SG1En) | 1:43 |
+| 48 | [Paraiso](https://open.spotify.com/track/6eooWeZ10qf1hbl4OlCcG4) | [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [El Dorado](https://open.spotify.com/album/4sehYh39cQn4y8133SG1En) | 1:43 |
+| 49 | [Luna mágica](https://open.spotify.com/track/38TOLZUaluhotS1fOFtpOb) | [Rocio Banquells](https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz) | [Rocio Banquells](https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz) | 4:13 |
 | 50 | [Al Norte](https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 3:19 |
 
-Snapshot ID: `MCxlY2IwYmU0NzM1YTRjOGZiM2UyNWJiZjFmZDIxNzcyZTg5NzZmMTgx`
+Snapshot ID: `MCwwNjMyNDEyMTg5OTY4ZjRlMzMyNGZhYWY1MDMyOTVkMWZiMWE5NGIx`

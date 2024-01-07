@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DGhYQ.md) - [plain]
 
 > This is ALI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,746 likes - 41 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,753 likes - 41 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,19 +27,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DGhYQ.md) - [plain]
 | 17 | [BETTER DAYS](https://open.spotify.com/track/5qNZWyunNyD505JVslU1TE) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Dos Monos](https://open.spotify.com/artist/5Zg5lgH9GmkewONPMJlhbv) | [LOVE, MUSIC AND DANCE](https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ) | 5:05 |
 | 18 | [I Want A Chance For Romance](https://open.spotify.com/track/2e4PuGWRWMLa18XR5Ox4q2) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [VIVA LA MUSICA](https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx) | 3:00 |
 | 19 | [No Tomorrow \(Give It Up\)](https://open.spotify.com/track/54CxfEHBo4orjryP30IcDy) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [No Tomorrow \(Give It Up\)](https://open.spotify.com/album/6w42YzfePjrV7RWiJeIXoS) | 4:26 |
-| 20 | [SPARKLE](https://open.spotify.com/track/2IIE9qJNoazhj61870dgkO) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 4:25 |
+| 20 | [MELLOW CRUISE](https://open.spotify.com/track/5rwjc8p9p8jDcuyzWWKvKA) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 4:26 |
 | 21 | [DAZE N SUNSHINE](https://open.spotify.com/track/4AbZXj7bkhxmnhFab2Ej8l) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [LOVE, MUSIC AND DANCE](https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ) | 4:03 |
 | 22 | [THE SWEETEST TABOO](https://open.spotify.com/track/554GjmgJLkRvxvovKMMpbb) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [VIVA LA MUSICA](https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx) | 4:26 |
 | 23 | [FAITH](https://open.spotify.com/track/3FSzby80mFX8cBt1zGbjUr) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [なみちえ](https://open.spotify.com/artist/5oLsQ9qhHfYCV5L5XNMxAZ), [GOMESS](https://open.spotify.com/artist/37cFtvT8bs2rU39mvPLN0I) | [LOST IN PARADISE](https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT) | 5:47 |
-| 24 | [MELLOW CRUISE](https://open.spotify.com/track/5rwjc8p9p8jDcuyzWWKvKA) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 4:26 |
+| 24 | [SPARKLE](https://open.spotify.com/track/2IIE9qJNoazhj61870dgkO) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 4:25 |
 | 25 | [KEEP YOUR HEAD UP](https://open.spotify.com/track/6obSLuEgeFp54c5iDa8BsR) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Kazuo](https://open.spotify.com/artist/6JN1a5p0aucHtYCLSl3vnY) | [LOVE, MUSIC AND DANCE](https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ) | 4:14 |
-| 26 | [Dance You, Matilda](https://open.spotify.com/track/3zhx8K4SxwHLWtAZRiNdsq) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [INGLOURIOUS EASTERN COWBOY](https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg) | 3:29 |
-| 27 | [Jungle Love](https://open.spotify.com/track/63QCUBOTQHjSU4Vawd5dNA) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Wild Side](https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY) | 3:09 |
+| 26 | [Jungle Love](https://open.spotify.com/track/63QCUBOTQHjSU4Vawd5dNA) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Wild Side](https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY) | 3:09 |
+| 27 | [Dance You, Matilda](https://open.spotify.com/track/3zhx8K4SxwHLWtAZRiNdsq) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [INGLOURIOUS EASTERN COWBOY](https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg) | 3:29 |
 | 28 | [CLIMAX BULLETS](https://open.spotify.com/track/6Hmv7N9nVGPziEslVoHnoz) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 4:06 |
-| 29 | [METROPOLIS](https://open.spotify.com/track/6K67HToFgqOrit9qtRJZdB) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Hiyadam](https://open.spotify.com/artist/5akLOzzp3zMfvne1K2tv7e) | [LOVE, MUSIC AND DANCE](https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ) | 4:06 |
-| 30 | [STAYING IN THE GROOVE](https://open.spotify.com/track/2nQFemzvvRyC2B6UM0zRME) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [STAYING IN THE GROOVE](https://open.spotify.com/album/0G6HaT2usfAR4Y7WmFPp1q) | 4:50 |
-| 31 | [KID feat\. LEO \(ALI\)](https://open.spotify.com/track/7iNdSSdLG2X06P9c9WNHrb) | [s\*\*t kingz](https://open.spotify.com/artist/4eRPT3dCcYsuZ2dFqqcaYx), [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [踊救急箱](https://open.spotify.com/album/6h4DnOV7gOz7jvVy1MhoXr) | 2:46 |
-| 32 | [Tokyo Pharaoh](https://open.spotify.com/track/2ddh4hVyDNFt6gBvqOmTW7) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Tokyo Pharaoh](https://open.spotify.com/album/3wJMXwks4RkMQfnVrO23n0) | 3:33 |
+| 29 | [STAYING IN THE GROOVE](https://open.spotify.com/track/2nQFemzvvRyC2B6UM0zRME) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [STAYING IN THE GROOVE](https://open.spotify.com/album/0G6HaT2usfAR4Y7WmFPp1q) | 4:50 |
+| 30 | [METROPOLIS](https://open.spotify.com/track/6K67HToFgqOrit9qtRJZdB) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Hiyadam](https://open.spotify.com/artist/5akLOzzp3zMfvne1K2tv7e) | [LOVE, MUSIC AND DANCE](https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ) | 4:06 |
+| 31 | [Tokyo Pharaoh](https://open.spotify.com/track/2ddh4hVyDNFt6gBvqOmTW7) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Tokyo Pharaoh](https://open.spotify.com/album/3wJMXwks4RkMQfnVrO23n0) | 3:33 |
+| 32 | [KID feat\. LEO \(ALI\)](https://open.spotify.com/track/7iNdSSdLG2X06P9c9WNHrb) | [s\*\*t kingz](https://open.spotify.com/artist/4eRPT3dCcYsuZ2dFqqcaYx), [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [踊救急箱](https://open.spotify.com/album/6h4DnOV7gOz7jvVy1MhoXr) | 2:46 |
 | 33 | [Whole Lotta Love](https://open.spotify.com/track/0qRGWueuXYkUmVTaVMXDRD) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [木村昴](https://open.spotify.com/artist/7xgoSh8BBoyKV02juTgUag) | [INGLOURIOUS EASTERN COWBOY](https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg) | 4:06 |
 | 34 | [GABBA GABBA HEY HEY](https://open.spotify.com/track/3XlHHnZSpjLwGAkhosJIbw) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [VIVA LA MUSICA](https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx) | 3:14 |
 | 35 | [SHOW TIME](https://open.spotify.com/track/5eOOnFQHQdb5DpJvZRPS2l) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [SHOW TIME](https://open.spotify.com/album/24yJA2oiDwau8NsrcqH2lw) | 4:44 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DGhYQ.md) - [plain]
 | 40 | [LONELY LONELY \-ULTRA HEAVEN REMIX by ALI×鋭児\-](https://open.spotify.com/track/57CUn3paq7FpjozT9ZXSHX) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [鋭児](https://open.spotify.com/artist/1r1xAyct7zaJaTXWz4BfZS) | [LONELY LONELY](https://open.spotify.com/album/34Q9DMv5RDZhMuNPByXufh) | 6:26 |
 | 41 | [TRUE FICTION](https://open.spotify.com/track/1WSJOy4rfsuOiwQLrfAke7) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [ALI](https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ) | 4:57 |
 
-Snapshot ID: `Mjg0MDc3MDIsMDAwMDAwMDBmYmJkYzNhZjZlMzQ0ZmQ5NmFlNzAyMDAyMDA2N2NmOA==`
+Snapshot ID: `Mjg0MDkwNTUsMDAwMDAwMDAzMjA3YjhhNTc4NmFmZjQ4ZmQzMzA5MDQ4MjI1ZmJlYw==`

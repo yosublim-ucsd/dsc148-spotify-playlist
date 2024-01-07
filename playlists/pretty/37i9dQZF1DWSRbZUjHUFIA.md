@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRbZUjHUFIA.md) - [plain]
 
 > Keep your workout 100 with these Hip\-Hop motivators.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,672 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,736 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRbZUjHUFIA.md) - [plain]
 | 49 | [Whoopty](https://open.spotify.com/track/1t9WgS8FN0534tLBRwbaxO) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [Loyalty Over Royalty](https://open.spotify.com/album/0kHRftVXaiRHgQdtviml0G) | 2:03 |
 | 50 | [Killer \(feat\. Jack Harlow & Cordae\) \- Remix](https://open.spotify.com/track/7zl7kehxesNEo2pYkKXTSe) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Killer \(feat\. Jack Harlow & Cordae\) \[Remix\]](https://open.spotify.com/album/0H1ASykMKIX8PYfqxbxBar) | 3:56 |
 | 51 | [Ladbroke Grove](https://open.spotify.com/track/7AODNxFNPnKaz4hURLzw5l) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [AJ Tracey](https://open.spotify.com/album/45UWSDr4RrFAwNfqiFelNj) | 3:10 |
-| 52 | [SUVs \(Black on Black\)](https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [SUVs \(Black on Black\)](https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw) | 2:37 |
-| 53 | [Fancy](https://open.spotify.com/track/3oiMJQAWVaxSubJ7b2VUtX) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [The New Classic \(Deluxe Version\)](https://open.spotify.com/album/5kfo2COwQYeYR3cE69aSgx) | 3:19 |
+| 52 | [Fancy](https://open.spotify.com/track/3oiMJQAWVaxSubJ7b2VUtX) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [The New Classic \(Deluxe Version\)](https://open.spotify.com/album/5kfo2COwQYeYR3cE69aSgx) | 3:19 |
+| 53 | [SUVs \(Black on Black\)](https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [SUVs \(Black on Black\)](https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw) | 2:37 |
 | 54 | [Work REMIX \(feat\. A$AP Rocky, French Montana, Trinidad James & ScHoolboy Q\)](https://open.spotify.com/track/7xVLFuuYdAvcTfcP3IG3dS) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Trinidad James](https://open.spotify.com/artist/0I5HubncQ8E1MFZOlPDY4J), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Trap Lord](https://open.spotify.com/album/3smlfAmejcKMmAPg1G2Kki) | 4:43 |
 | 55 | [Vossi Bop](https://open.spotify.com/track/5DXKtoZLm31msT7tNGNHLG) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Heavy Is The Head](https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c) | 3:16 |
 | 56 | [Thot Shit](https://open.spotify.com/track/5zNW5ARjYhJQJz1AChP33n) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Thot Shit](https://open.spotify.com/album/7gEGuvkVs79hY4tG7OYnzx) | 3:04 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRbZUjHUFIA.md) - [plain]
 | 59 | [All Night \(feat\. Knox Fortune\)](https://open.spotify.com/track/60xaS8mYBKUW4VQQ666N0T) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 2:21 |
 | 60 | [Wild for the Night \(feat\. Skrillex & Birdy Nam Nam\)](https://open.spotify.com/track/2rzBvHM9h36Tpdj7Jdajka) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Birdy Nam Nam](https://open.spotify.com/artist/4e7qJTThm5uI3CplqZObfT), [Lord Flacko](https://open.spotify.com/artist/5XJdV8h0NLbf3CZdfwX3lg) | [LONG.LIVE.A$AP \(Deluxe Version\)](https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J) | 3:32 |
 
-Snapshot ID: `MCwxZWNkMGI3OGU2NTNlZmRlY2IxYjZmMTQ0Mzk1NDZjMDhmOTBlYjg2`
+Snapshot ID: `MCxlZjc5NjRlYzI2Y2M5N2IwMTE2OTgyNTkwMmM4YTAxYjU2YmI1M2U0`

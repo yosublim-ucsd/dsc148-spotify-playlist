@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31S3Vp.md) - [plain]
 
 > This is Jão\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,453 likes - 35 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,471 likes - 35 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31S3Vp.md) - [plain]
 | 30 | [fugitivos :\)](https://open.spotify.com/track/0aV9qW7X0msAci4ATkKgBk) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:26 |
 | 31 | [Fim Do Mundo](https://open.spotify.com/track/3HN4PPMtJP0dEXqxvQgvJG) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS \(Deluxe\)](https://open.spotify.com/album/4nvIgrse8yWtDgx2442N8n) | 3:46 |
 | 32 | [Triste Pra Sempre](https://open.spotify.com/track/3n7ZwCXQUZekntN3f7dzwD) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 2:59 |
-| 33 | [Tenemos que hablar \- Real Magic](https://open.spotify.com/track/4wjURqSdOtZKt4qlQeioFJ) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Tenemos que hablar \(Real Magic\)](https://open.spotify.com/album/3vZUh3inLziRn9Zpa1cMAC) | 3:15 |
-| 34 | [Me Liga](https://open.spotify.com/track/6pPVQnyvVbkKEOVqofSzEn) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Me Liga](https://open.spotify.com/album/3Lb6Ynh37ywGapeL5uyowr) | 2:31 |
+| 33 | [Me Liga](https://open.spotify.com/track/6pPVQnyvVbkKEOVqofSzEn) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Me Liga](https://open.spotify.com/album/3Lb6Ynh37ywGapeL5uyowr) | 2:31 |
+| 34 | [Tenemos que hablar \- Real Magic](https://open.spotify.com/track/4wjURqSdOtZKt4qlQeioFJ) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Tenemos que hablar \(Real Magic\)](https://open.spotify.com/album/3vZUh3inLziRn9Zpa1cMAC) | 3:15 |
 | 35 | [Codinome Beija\-Flor / O Tempo Não Para](https://open.spotify.com/track/1n3GEuDcOself5YolkIKxR) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Codinome Beija\-Flor / O Tempo Não Para](https://open.spotify.com/album/4HpkN2a3pscxEiq8vSoz5S) | 3:38 |
 
-Snapshot ID: `Mjg0MDc3MDMsMDAwMDAwMDA0MGYyMzI4ZmJiYWUwNGZmZDg4ZDczNGI4NGNlMzQ5Ng==`
+Snapshot ID: `Mjg0MDkwNTYsMDAwMDAwMDA5N2MyMGQzY2VmMmZhMTY2MWY0N2ViMmNkYTUyMzlhYw==`

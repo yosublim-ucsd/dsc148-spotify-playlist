@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Luis Vazquez
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,366 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,374 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 29 | [Hipnotizados](https://open.spotify.com/track/2t88IEEgCkZr9OQHOrOr3j) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO) | [Hipnotizados](https://open.spotify.com/album/0vucmhfLxNOc87TDZydaI7) | 2:22 |
 | 30 | [Incomprendido](https://open.spotify.com/track/26PPEd7Q5tpmFLpAFmpUIl) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Incomprendido](https://open.spotify.com/album/1QquGCJr1NtfXM1quq6qAw) | 2:59 |
 | 31 | [Mi Pecadito](https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Mi Pecadito](https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD) | 3:17 |
-| 32 | [Feliz](https://open.spotify.com/track/0s91c0rPN7ATKJPaYsLN2C) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Feliz](https://open.spotify.com/album/7jfQRBzVv3xO6phlTk6VrB) | 3:22 |
-| 33 | [Amantes Suicidas](https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 3:58 |
+| 32 | [Amantes Suicidas](https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 3:58 |
+| 33 | [Feliz](https://open.spotify.com/track/0s91c0rPN7ATKJPaYsLN2C) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Feliz](https://open.spotify.com/album/7jfQRBzVv3xO6phlTk6VrB) | 3:22 |
 | 34 | [El Amor De Mi Vida](https://open.spotify.com/track/04sktg3deiYUweHfbFUZTM) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [El Amor De Mi Vida](https://open.spotify.com/album/2RPuxZNaziqNHjbUgoE8iW) | 3:04 |
 | 35 | [Tu Cepillo](https://open.spotify.com/track/1dLTxHGSlLtB5OEjVHCWWo) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Tu Cepillo](https://open.spotify.com/album/0e1Iu9QVXL9mgOimmGEDXr) | 3:04 |
 | 36 | [Call On Me](https://open.spotify.com/track/5dl97w82KkuprJVDKSyJQp) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Call On Me](https://open.spotify.com/album/3Ohcoreeq3qG3okky9o0Wx) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 49 | [Otra Oportunidad](https://open.spotify.com/track/14P7QoGuWWFe7xxzmyQA4o) | [Tutto Durán](https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ) | [Otra Oportunidad](https://open.spotify.com/album/0dBnPH1ZzYfB6gOUfRUJOZ) | 3:28 |
 | 50 | [El Merengue](https://open.spotify.com/track/6lpGP2JvV7grJ8LBZ5obQS) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 3:09 |
 
-Snapshot ID: `MCwyMzY0NGU1ZmUxNDVjZGJkYWNiODAyNjJmNWNiYWU0ZDA3NGFiMjI2`
+Snapshot ID: `MCwwZWVkMjcwYjc5MDAzZDkzNjQ2ZTNiMDgyYTFlNmEyNGRhNTEwNzFj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Tiee, Gustavo Lins
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,199 likes - 75 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,347 likes - 75 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 4 | [Me Olha Nos Olhos / Futuro Prometido / Não Tem Perdão \- Ao Vivo](https://open.spotify.com/track/3GZJc4YW0uIL9OA5kevKKu) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Me Olha Nos Olhos / Futuro Prometido / Não Tem Perdão \(Ao Vivo\)](https://open.spotify.com/album/1tKje5JGchKFpu6xPdfgwR) | 6:41 |
 | 5 | [Não Tem Hora, Nem Lugar / Por Favor / Amor a Três \- Ao Vivo](https://open.spotify.com/track/3x1mtKBzPRU8tc8Ld6ujVV) | [Pagode do Adame](https://open.spotify.com/artist/4GrG809bkgPIchC0oGU1Z0), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt) | [Pagode do Adame Entre Amigos, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4QnKMl7OAicnxWQh6qUyRY) | 4:24 |
 | 6 | [Resumo De Felicidade / Meu Querubim \- Ao Vivo](https://open.spotify.com/track/6IkBVdAk5rx7G148af6Cev) | [Marquinhos Sensação](https://open.spotify.com/artist/1uN4dou3TaR8hMTIqAlrc6), [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq) | [Resumo De Felicidade / Meu Querubim \(Ao Vivo\)](https://open.spotify.com/album/7n2ezZwYtZESccOpwEe6xu) | 3:44 |
-| 7 | [Dessa Vez / Ritmo Perfeito / Quero Te Encontrar \- Ao Vivo](https://open.spotify.com/track/2zyi1oJmfjwp8zbCcfJyCn) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Buchecha](https://open.spotify.com/artist/1tTxuCABSKH8wBmE2Y7Odb) | [Dessa Vez / Ritmo Perfeito / Quero Te Encontrar \(Ao Vivo\)](https://open.spotify.com/album/7F0W38PzM4Xr9z8X8rTkCx) | 2:51 |
+| 7 | [Dessa Vez / Ritmo Perfeito / Quero Te Encontrar \- Ao Vivo](https://open.spotify.com/track/2zyi1oJmfjwp8zbCcfJyCn) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Buchecha](https://open.spotify.com/artist/1tTxuCABSKH8wBmE2Y7Odb) | [Dessa Vez / Ritmo Perfeito / Quero Te Encontrar \(Ao Vivo\)](https://open.spotify.com/album/7F0W38PzM4Xr9z8X8rTkCx) | 4:52 |
 | 8 | [Para De Falar Tanta Besteira / Leite Condensado \- Ao Vivo](https://open.spotify.com/track/7I13U0QkWZeMbD5K8rhAX9) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq) | [Para De Falar Tanta Besteira / Leite Condensado \(Ao Vivo\)](https://open.spotify.com/album/4xB6dLq7PQ6pptAljw0kAJ) | 3:41 |
 | 9 | [Eu Vacilei / Preciso Viver / Na Cama \- Ao Vivo](https://open.spotify.com/track/3oLdEjZm0x46ycfdlRPYuX) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8), [Pique Novo](https://open.spotify.com/artist/6PtYnpdPPbMSAG8sxFs8uz) | [Sorriso Eu Gosto No Pagode \- Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v) | 6:45 |
 | 10 | [Fato Consumado / Já Virou Rotina / Tá Louco Hein \- Ao Vivo](https://open.spotify.com/track/2EIzQ3F26YtTkvuZ9L5U52) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [TDP20 \- Nossa História \- EP4 \(Ao Vivo\)](https://open.spotify.com/album/1SvPh4OD7jQD4NuRGYGhxF) | 5:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [É Diferente / Preciso Te Amar](https://open.spotify.com/track/3qQfwIth3DCwreZsze7zyz) | [Cantor Jon](https://open.spotify.com/artist/3mF0QHt4NBaji3FVAEGjdT) | [É Diferente / Preciso Te Amar](https://open.spotify.com/album/41r0Pr6THbzh7NTqFhR63Q) | 2:53 |
 | 75 | [Fica / Vida Que Segue \- Ao Vivo](https://open.spotify.com/track/0IPmfBhRrdt3KwNw8JT15R) | [Tá Na Mente](https://open.spotify.com/artist/1x7Y5zQOvhROVPgy73689r) | [Fica / Vida Que Segue \(Ao Vivo\)](https://open.spotify.com/album/0xq1jQHDLlCCRMJY6wsDKa) | 4:15 |
 
-Snapshot ID: `MCw5MGM4OTc1OTUzOTVhMzA0NjYzZWNlMTg4MGRhYjQ4MThkNGNmMmMy`
+Snapshot ID: `MCwwNzI5YjI3MGU4N2YxYWE2NGY1YzJjMjZhYjIxN2M1YTViODdlNzlj`

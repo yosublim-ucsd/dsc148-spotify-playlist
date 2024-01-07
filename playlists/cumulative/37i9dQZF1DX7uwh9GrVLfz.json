@@ -8040,6 +8040,24 @@
     {
       "album": {
         "name": "THE GIFT",
+        "url": "https://open.spotify.com/album/2vvt4IjFm6sLlipjJCB0TH"
+      },
+      "artists": [
+        {
+          "name": "Hi-STANDARD",
+          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "The Gift",
+      "url": "https://open.spotify.com/track/4zbkeCco7LYg7hs4dSxLjR"
+    },
+    {
+      "album": {
+        "name": "THE GIFT",
         "url": "https://open.spotify.com/album/0X8NMXBEiGQIRSehZzsXJd"
       },
       "artists": [
@@ -9942,7 +9960,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 285213,
       "name": "\u30aa\u30c8\u30ca\u30ce\u30b9\u30b9\u30e1",
       "url": "https://open.spotify.com/track/7L23l0zf58d4fFN4KEz903"

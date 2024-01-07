@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,622 likes - 70 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,637 likes - 70 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 34 | [Riskyな彼女](https://open.spotify.com/track/27uRFGVGrkUACe5EvS35ah) | [十 龍之介 \(CV.佐藤拓也\)](https://open.spotify.com/artist/4QPLEBNjogoJQeF9dlHM82) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:11 |
 | 35 | [Maybe](https://open.spotify.com/track/141GMEVaptYDUivcj29Cyc) | [逢坂壮五 \(CV.阿部 敦\)](https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5) | [Maybe](https://open.spotify.com/album/5urTTSiCw2zt8tjMSyNFkM) | 4:18 |
 | 36 | [No Sacrifice](https://open.spotify.com/track/6dDfgZ38eXNgk6aX9kWVxs) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [Survivor](https://open.spotify.com/album/7oF2ENI6Jr9g9Rmi3zHcLX) | 4:06 |
-| 37 | [フレフレ!青春賛歌](https://open.spotify.com/track/2HUtzutGkRfBBY3MB59pWY) | [和泉一織 \(CV.増田俊樹\)](https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj), [七瀬 陸 \(CV.小野賢章\)](https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H), [九条 天 \(CV.斉藤壮馬\)](https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm) | [フレフレ!青春賛歌](https://open.spotify.com/album/4rjnUjqBUNA7jSKMvjrLal) | 4:29 |
+| 37 | [Up to the nines](https://open.spotify.com/track/5WCAE4qLOIDCWd25ySLeCJ) | [九条 天 \(CV.斉藤壮馬\)](https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm) | [Up to the nines](https://open.spotify.com/album/1LxWjUZtuezPIfpCjcy9UI) | 3:51 |
 | 38 | [アソシエイト](https://open.spotify.com/track/6qQg1PDO8MyH31zN1EiWio) | [八乙女 楽 \(CV.羽多野 渉\)](https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX) | [アソシエイト](https://open.spotify.com/album/2hC6iFPJQqHplLv89AyRzK) | 4:27 |
 | 39 | [太陽のEsperanza](https://open.spotify.com/track/328HshC1dgRylZWfoBYLqC) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 3:52 |
-| 40 | [Up to the nines](https://open.spotify.com/track/5WCAE4qLOIDCWd25ySLeCJ) | [九条 天 \(CV.斉藤壮馬\)](https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm) | [Up to the nines](https://open.spotify.com/album/1LxWjUZtuezPIfpCjcy9UI) | 3:51 |
+| 40 | [フレフレ!青春賛歌](https://open.spotify.com/track/2HUtzutGkRfBBY3MB59pWY) | [和泉一織 \(CV.増田俊樹\)](https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj), [七瀬 陸 \(CV.小野賢章\)](https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H), [九条 天 \(CV.斉藤壮馬\)](https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm) | [フレフレ!青春賛歌](https://open.spotify.com/album/4rjnUjqBUNA7jSKMvjrLal) | 4:29 |
 | 41 | [フォトフレーム](https://open.spotify.com/track/39c2UO7sELrK6HYcp0L9u2) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [キズナ](https://open.spotify.com/album/2T1yRJR4WYq1ZLQI5Em94B) | 5:10 |
 | 42 | [SEPTET for...](https://open.spotify.com/track/3tAYaiZSKIK0DjtFlR1bAb) | [七瀬 陸 \(CV.小野賢章\)](https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H) | [SEPTET for...](https://open.spotify.com/album/4yyA9hnwHdRGllZt0ULtMZ) | 4:20 |
 | 43 | [Monologue Note](https://open.spotify.com/track/5kDbEBcNHqoVBGuuzi7Tmr) | [逢坂壮五 \(CV.阿部 敦\)](https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5) | [アイドリッシュセブン Collection Album \(vol.2\)](https://open.spotify.com/album/1nYJRCCv6TEbY7KDEFraiN) | 4:23 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 61 | [SUISAI](https://open.spotify.com/track/7n8DHAHozfOs0BVTuLz6yf) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [SUISAI](https://open.spotify.com/album/2UyYOPqetfV1dB9MfImIol) | 4:59 |
 | 62 | [Utopia](https://open.spotify.com/track/2uUcR5JVyFsCttGtZVsbvo) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [BLACK or WHITE 2022](https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB) | 4:18 |
 | 63 | [In the meantime](https://open.spotify.com/track/6n1zhNf9zUqffLObNEDRUH) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:03 |
-| 64 | [4\-ROAR](https://open.spotify.com/track/4yAb7ilxkakHlpVv6Orxxd) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [einsatZ](https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph) | 3:57 |
-| 65 | [Survivor](https://open.spotify.com/track/1De2w9pZlAt2mKEm0F7NK5) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [Survivor](https://open.spotify.com/album/7oF2ENI6Jr9g9Rmi3zHcLX) | 3:37 |
+| 64 | [Survivor](https://open.spotify.com/track/1De2w9pZlAt2mKEm0F7NK5) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [Survivor](https://open.spotify.com/album/7oF2ENI6Jr9g9Rmi3zHcLX) | 3:37 |
+| 65 | [4\-ROAR](https://open.spotify.com/track/4yAb7ilxkakHlpVv6Orxxd) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [einsatZ](https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph) | 3:57 |
 | 66 | [TOMORROW EViDENCE](https://open.spotify.com/track/2UUiJkVl23mpjXMX3GMGFL) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [BLACK or WHITE 2022](https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB) | 4:26 |
 | 67 | [激情](https://open.spotify.com/track/4qHyUISAAOWmdZvARpq5Y4) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 4:23 |
 | 68 | [WiSH VOYAGE](https://open.spotify.com/track/4s2JomRrcKgVLt2lrX0tvm) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [WiSH VOYAGE / Dancing∞BEAT!!](https://open.spotify.com/album/0a7rV1GSIXyArrLon0kuhD) | 4:07 |
 | 69 | [Happy Days Creation!](https://open.spotify.com/track/1UBgvGnsffYyMD9UTkXkvq) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU), [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [アイドリッシュセブン Collection Album \(vol.2\)](https://open.spotify.com/album/1nYJRCCv6TEbY7KDEFraiN) | 5:04 |
-| 70 | [NEVER LOSE, MY RULE](https://open.spotify.com/track/6ppmAfQF2yqhBEksloIB07) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [NEVER LOSE, MY RULE](https://open.spotify.com/album/5vNWgs4IRclxjr6vj64jgm) | 4:42 |
+| 70 | [YOUR RHAPSODY](https://open.spotify.com/track/7CHlI1L51UCziupZC3BzfD) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [BLACK or WHITE 2022](https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB) | 4:07 |
 
-Snapshot ID: `MCxhOWExMWMyZDc5M2U0NzhlNDZmY2JkZGVlMjE2NjU1Nzg0ODg2MGM3`
+Snapshot ID: `MCw1OTI4ZmYyMjcwMjc5MDZjZjgwNWU5MDI3ZTgzZTI2ODU0M2UwOTE3`

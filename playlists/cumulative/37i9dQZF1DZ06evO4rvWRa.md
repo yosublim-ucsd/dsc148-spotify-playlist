@@ -4,7 +4,7 @@
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-69 songs - 3 hr 17 min
+70 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,13 +68,14 @@
 | [Spectre 2.0](https://open.spotify.com/track/6DCF3DIlT4iGKGlqudoUD7) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lonely Club](https://open.spotify.com/artist/1tPJP9nWEM6mQK295zgp2K) | [Walkerworld](https://open.spotify.com/album/3bKcoHSsmTEWHAGXqwOneo) | 2:56 | 2023-12-13 |  |
 | [Sweet Dreams](https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams](https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR) | 2:18 | 2023-06-18 |  |
 | [That's What I Like \- Alan Walker Remix](https://open.spotify.com/track/1KtU0WCq472KzqCXgMOxkS) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [That's What I Like \(Alan Walker Remix\)](https://open.spotify.com/album/6LD3J50OxLEQbAB8ahoj1S) | 3:15 | 2023-06-18 |  |
-| [The Drum](https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Drum](https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H) | 3:09 | 2023-06-19 |  |
+| [The Drum](https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Drum](https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H) | 3:09 | 2023-06-19 | 2024-01-07 |
 | [The Spectre](https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Spectre](https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW) | 3:13 | 2023-06-18 |  |
 | [Time \- Alan Walker Remix](https://open.spotify.com/track/5H9S7RaxxSAgY77Mb0CSPz) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Time \(Alan Walker Remix\)](https://open.spotify.com/album/6Enr9Ghbsfd3Gs9QLrj612) | 2:30 | 2023-06-18 | 2023-07-24 |
 | [Tired](https://open.spotify.com/track/3b5Li4QKDVBx1x7fQuu54a) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Tired](https://open.spotify.com/album/1q1ayQAYMOacFE2fkXbkv2) | 3:12 | 2023-06-18 |  |
 | [Unity](https://open.spotify.com/track/3Os9onUOoxT6EP3kwiMRKA) | [The Walkers](https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Unity](https://open.spotify.com/album/22lXrN1Kqr8FNNZLPNmEeh) | 3:24 | 2023-12-13 |  |
 | [Unity](https://open.spotify.com/track/66TdgLCf9Bic8nBsNv0YuD) | [The Walkers](https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Unity](https://open.spotify.com/album/0p1vX5sQiE5S6Moj8r3MvL) | 3:24 | 2023-06-18 | 2023-12-14 |
 | [Welcome to Walkerworld](https://open.spotify.com/track/2evs7Wv5Cwom9ziyyrrmC9) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Walkerworld](https://open.spotify.com/album/3bKcoHSsmTEWHAGXqwOneo) | 2:46 | 2023-12-13 |  |
+| [Who I Am](https://open.spotify.com/track/1NMYbsFZyxwHRNaLGzFGWh) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On), [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Who I Am](https://open.spotify.com/album/5j0uoFLuAcXYz2jTWPovHX) | 3:13 | 2024-01-06 |  |
 | [World We Used To Know](https://open.spotify.com/track/5I9Qa1LfGcQGCIC32lh9Ka) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:41 | 2023-06-18 |  |
 | [Yesterday](https://open.spotify.com/track/4LwD6qis9rMwnmbxUguh61) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Walkerworld](https://open.spotify.com/album/3bKcoHSsmTEWHAGXqwOneo) | 2:41 | 2023-12-13 |  |
 

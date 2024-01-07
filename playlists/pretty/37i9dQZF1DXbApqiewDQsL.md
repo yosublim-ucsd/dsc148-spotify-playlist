@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The songs and collaborations pushing the Mexican sound to a global level\. Cover: Oscar Maydon & Tyga
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,157 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,181 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 79 | [¿Cuáles Fronteras?](https://open.spotify.com/track/4qgHbVa7Zo8S3bIQvvD99s) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [¿Cuáles Fronteras?](https://open.spotify.com/album/5lQ2Fyn2SW8Qe2FpTpikKn) | 3:00 |
 | 80 | [Vida Loca](https://open.spotify.com/track/7fHq0gNmcwpuqL18pO2W7K) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff) | [Vida Loca](https://open.spotify.com/album/1jVYLrYW2bIIgdP17xXzFv) | 4:07 |
 
-Snapshot ID: `MCw1NDBhOTQwZjlmZjdlZjcyMjM0MDBjNTY2MWI1ODVjYmU3MGEzNzJl`
+Snapshot ID: `MCxkMDZiYTE5YzA5M2QyYTNlNTMwYjhlYjI4YTE5YjI5M2VkZDljOGJi`

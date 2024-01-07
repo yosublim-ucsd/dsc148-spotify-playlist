@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-540 songs - 1 day 8 hr 4 min
+541 songs - 1 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Espejo](https://open.spotify.com/track/4PrG4rGGT9QTcs64K7B85m) | [Ñoqui](https://open.spotify.com/artist/1lNd3hH3tHiqrAQl7N1l9h), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [Espejo](https://open.spotify.com/album/6oNSvXhEhqeKkWSIcPo9Sg) | 4:06 | 2022-06-03 | 2022-07-24 |
 | [Espejos Dorados \- Live at M100](https://open.spotify.com/track/6rfpQtEtNFDQxEvNSAIgf3) | [tortuganónima](https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR) | [Espejos Dorados \(Live at M100\)](https://open.spotify.com/album/3Kgab4RGUvsWg93lrDaVl5) | 4:22 | 2022-07-01 | 2022-07-06 |
 | [Espiándote](https://open.spotify.com/track/2SrVBLz24XKfsdTImimNqG) | [Hollywood Bungalows](https://open.spotify.com/artist/4R8wRxSAhFbsZzHTScrFLv) | [Espiándote](https://open.spotify.com/album/7vAQv07uWaShAr6fm0y42k) | 3:39 | 2022-07-01 | 2022-07-27 |
-| [Espía del Arte](https://open.spotify.com/track/6gPUedPLsF7taEAWvgJEal) | [La Vida en Familia](https://open.spotify.com/artist/7DEnD46VUEAYgm9Bftv8oL) | [Espía del Arte](https://open.spotify.com/album/1QeQK6Vtgd9OIdZS1hEATg) | 4:50 | 2023-10-26 |  |
+| [Espía del Arte](https://open.spotify.com/track/6gPUedPLsF7taEAWvgJEal) | [La Vida en Familia](https://open.spotify.com/artist/7DEnD46VUEAYgm9Bftv8oL) | [Espía del Arte](https://open.spotify.com/album/1QeQK6Vtgd9OIdZS1hEATg) | 4:50 | 2023-10-26 | 2024-01-07 |
 | [Esquimal](https://open.spotify.com/track/6cgF98tbHStqIHk5s6S9lS) | [Rey Hindú](https://open.spotify.com/artist/0IdZ8iwao6oUqBJ2gfjSIW) | [Esquimal](https://open.spotify.com/album/6zRi2AG39CM1mOejGVHqhv) | 3:20 | 2023-06-16 | 2023-07-15 |
 | [Este Debe Ser el Lugar](https://open.spotify.com/track/02zes4ye5C5HupP3zrUB99) | [Simón Campusano](https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU) | [Este Debe Ser el Lugar](https://open.spotify.com/album/7J04keLANxCpdY8yFR1Pws) | 2:46 | 2022-06-03 | 2023-06-10 |
 | [Estás acá](https://open.spotify.com/track/4q2adyzkct9AlMxrtsVHSK) | [Telepáticos](https://open.spotify.com/artist/0r4Bb4UTFpuFvIvENU6Az0) | [Telepáticos](https://open.spotify.com/album/3RIPF4H67CpBKiXrE1A8WR) | 3:31 | 2022-07-01 | 2022-07-20 |
@@ -333,6 +333,7 @@
 | [Morir por Vos \(No Puedo\)](https://open.spotify.com/track/6tECZ1eUtbe3mPq61BCYkW) | [Sol Bassa](https://open.spotify.com/artist/1cttIh2Jh0yR5nxfBmRF6O), [Ravioli Juan](https://open.spotify.com/artist/66NrjJ1V6I3BL8tkYMg8OU) | [Errores Coleccionables](https://open.spotify.com/album/224G5BiBybfnDOvVzmvCPG) | 3:08 | 2022-06-03 | 2022-07-23 |
 | [Moto](https://open.spotify.com/track/1AeMG2TNofR1A8xoJ7Nl5O) | [Las Preguntas](https://open.spotify.com/artist/7sFSNryNgWCJTI1Vao95LP), [Dani Umpi](https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI) | [Estrellas, Piernas y Serpientes](https://open.spotify.com/album/4ji5kipvo6MkhrjVAdboZl) | 3:27 | 2023-07-07 | 2023-08-20 |
 | [Multiverso](https://open.spotify.com/track/6fPmHiU0CXGbk2JfljoAe6) | [Portobel](https://open.spotify.com/artist/4D4LYABcCVmUcodiy86goS), [Alfonso El Pintor](https://open.spotify.com/artist/1wGhNVSFMYSNhp0tsvzauZ) | [Preludio](https://open.spotify.com/album/0rKDiwLNpdoJGUAolXyuYU) | 4:21 | 2022-06-03 | 2022-07-27 |
+| [mutar la piel](https://open.spotify.com/track/3c6htQWeWgxzXYVrqg2ABk) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum), [Aluhé](https://open.spotify.com/artist/5reGHhq0cPEOW5nYDj1Dge) | [mutar la piel](https://open.spotify.com/album/3FpUrtVBDvGQKwzvFqOkMd) | 2:53 | 2024-01-04 |  |
 | [My Way](https://open.spotify.com/track/3UayvXfu3vC36Kzea4uxhT) | [Vera Nois](https://open.spotify.com/artist/2PfumsJv10WNf48i5L6ncG) | [Musicaland](https://open.spotify.com/album/4qD8Iomhwn77qqlhpXlBwD) | 3:35 | 2022-11-11 | 2022-12-06 |
 | [Mágica Intuición](https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Mágica Intuición](https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE) | 3:10 | 2023-03-17 | 2023-10-27 |
 | [Máquina del Tiempo](https://open.spotify.com/track/15Y7Dc86Wj6jMnwnuyza7j) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [La Danza de los Principiantes](https://open.spotify.com/album/0609boj0n6y9QvmgeNcUzr) | 4:23 | 2022-06-03 | 2022-07-29 |

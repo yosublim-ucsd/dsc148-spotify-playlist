@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Prinz
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,379 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,366 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 68 | [Toxic Veins](https://open.spotify.com/track/0Z0KbIXUAsMW4pm3tTPjnj) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Love Never Dies](https://open.spotify.com/album/7BMBAvfTPih5rtTD9SYcwi) | 3:20 |
 | 69 | [High \(All The Time\)](https://open.spotify.com/track/6dQQEf0syaKQkG3qGUwsU5) | [RhyRab](https://open.spotify.com/artist/4EXmCLyMavmdNi3JTmbvSS) | [High \(All The Time\)](https://open.spotify.com/album/5oEDFjrZMu10f4e7g50UXr) | 2:40 |
 | 70 | [Novacane](https://open.spotify.com/track/3a9ydOZeQaduBvqr6DS58a) | [J4TT](https://open.spotify.com/artist/07b7fDFq0MD93AByJSH8B6) | [Novacane](https://open.spotify.com/album/2S4RILOQgJXWNI1xiFjhUJ) | 3:12 |
-| 71 | [Voices](https://open.spotify.com/track/6HfHA59NuCFzWWLOZ8WHzv) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3), [Beri Mayah](https://open.spotify.com/artist/3157DyzsGdoNMghW23WShx) | [Voices](https://open.spotify.com/album/21I5Lnj2L2hXDvHGr1AiMR) | 2:15 |
-| 72 | [Because I Love You](https://open.spotify.com/track/5cKpTKVbBexwPIDGfx2nej) | [Mic Righteous](https://open.spotify.com/artist/1WWT4mBMw1S2OTXF1HfKoe) | [Suicycle](https://open.spotify.com/album/48nLxoyzjbGKkpYreT7isy) | 6:32 |
+| 71 | [Because I Love You](https://open.spotify.com/track/5cKpTKVbBexwPIDGfx2nej) | [Mic Righteous](https://open.spotify.com/artist/1WWT4mBMw1S2OTXF1HfKoe) | [Suicycle](https://open.spotify.com/album/48nLxoyzjbGKkpYreT7isy) | 6:32 |
+| 72 | [Voices](https://open.spotify.com/track/6HfHA59NuCFzWWLOZ8WHzv) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3), [Beri Mayah](https://open.spotify.com/artist/3157DyzsGdoNMghW23WShx) | [Voices](https://open.spotify.com/album/21I5Lnj2L2hXDvHGr1AiMR) | 2:15 |
 | 73 | [Just You](https://open.spotify.com/track/56mVQm5xqsaDQ15uBW769i) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Love, Eternity & Faith](https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a) | 2:49 |
 | 74 | [Red Flags](https://open.spotify.com/track/6SU3VtISJbWcuAIF9nsHBp) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [Red Flags](https://open.spotify.com/album/1H4KSuq4PXlTLubVl06DFs) | 2:47 |
 | 75 | [Akhirah](https://open.spotify.com/track/7xISI5fsxScOXZ39TgbTSx) | [Official TS](https://open.spotify.com/artist/0fN4qMqEC9Egd0TnnhxWuf) | [Akhirah](https://open.spotify.com/album/4xRb5029doJ6mT2qQLVOPW) | 3:41 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 93 | [Married To Music](https://open.spotify.com/track/4gvrwEE8pDAlgb9rjnvcEA) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M), [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Married To Music](https://open.spotify.com/album/03qB1vrxjtdKWIMstmF6MK) | 3:01 |
 | 94 | [Meaning Of Love](https://open.spotify.com/track/2uFwT6AZgwj8xjJHfTon66) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Recovery](https://open.spotify.com/album/0aqCew5VjHvRiY6wOUNaA0) | 3:27 |
 | 95 | [No Love Left](https://open.spotify.com/track/6gmthC4x8INHuZc1MnHj0A) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [No Love Left](https://open.spotify.com/album/1lmZmtx0bWPkYLextZNZJC) | 2:51 |
-| 96 | [Who Am I?\(I Dont Know\)](https://open.spotify.com/track/7dZBAEndXGOczb5O3QJWE4) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Who Am I?\(I Dont Know\)](https://open.spotify.com/album/2m5EhBsAarjhNd77FAGQch) | 2:42 |
-| 97 | [Too Cold 4 You Here \(Sweater Weather\)](https://open.spotify.com/track/2E8m0c6O141CrhoDGdTsDk) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Retrospect \(Season 2\)](https://open.spotify.com/album/0HGP6dcDqqRmEAdScLYwnM) | 3:01 |
+| 96 | [Too Cold 4 You Here \(Sweater Weather\)](https://open.spotify.com/track/2E8m0c6O141CrhoDGdTsDk) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Retrospect \(Season 2\)](https://open.spotify.com/album/0HGP6dcDqqRmEAdScLYwnM) | 3:01 |
+| 97 | [Who Am I?\(I Dont Know\)](https://open.spotify.com/track/7dZBAEndXGOczb5O3QJWE4) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Who Am I?\(I Dont Know\)](https://open.spotify.com/album/2m5EhBsAarjhNd77FAGQch) | 2:42 |
 | 98 | [Angels Fly High](https://open.spotify.com/track/2HKtJCinY7r5wnqXMvtDHW) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Angels Fly High](https://open.spotify.com/album/3YB7TrvCwgnepJig20lYhT) | 3:01 |
 | 99 | [I Wanna Start My Life Again](https://open.spotify.com/track/09ZklXJx5nKCvZ8gm0Fhpw) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [I Wanna Start My Life Again](https://open.spotify.com/album/5f7YPCMOtutGSIpnM31Jfx) | 2:30 |
 | 100 | [Everyone Keeps Asking](https://open.spotify.com/track/5CnA7Zd6DNijdo3l7xruLr) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Retrospect \(Season 2\)](https://open.spotify.com/album/0HGP6dcDqqRmEAdScLYwnM) | 3:23 |
 
-Snapshot ID: `MCxiODk5ODA1YWVjZjY2MTkzZGJiMWVhMjA5YTlmNGM3NjI4ZmNhZjY1`
+Snapshot ID: `MCwzNDA5MTdkZGVhNDIzOWU5YWVlYjgwMDU5YjlkNmE1ZTM1ZGEwZGUz`

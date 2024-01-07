@@ -741,6 +741,28 @@
     },
     {
       "album": {
+        "name": "Adios",
+        "url": "https://open.spotify.com/album/7EJODD3QuACQDkUu5uLE1A"
+      },
+      "artists": [
+        {
+          "name": "David Coast",
+          "url": "https://open.spotify.com/artist/27m25FUJYMo2L5uuie6Dpw"
+        },
+        {
+          "name": "H.Rock",
+          "url": "https://open.spotify.com/artist/6zes6dyoptiJA7JteC8XZt"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164227,
+      "name": "Adios",
+      "url": "https://open.spotify.com/track/1W5b2Gjb5QJjlxSuYO7pr7"
+    },
+    {
+      "album": {
         "name": "Adrenalina",
         "url": "https://open.spotify.com/album/7aEMUNrcbMQtaVsBvJUGlO"
       },
@@ -3606,6 +3628,32 @@
       "duration_ms": 165066,
       "name": "Bubbly (with Drake & Travis Scott)",
       "url": "https://open.spotify.com/track/4KDNRh9Oor80z3XIxdWlui"
+    },
+    {
+      "album": {
+        "name": "Bula Quantum",
+        "url": "https://open.spotify.com/album/0yIhpn9pXmECV31M5zU40J"
+      },
+      "artists": [
+        {
+          "name": "Givem Tyler Litch",
+          "url": "https://open.spotify.com/artist/3jmgdiyHIbvtK4hIualk2n"
+        },
+        {
+          "name": "Messi",
+          "url": "https://open.spotify.com/artist/67XCE6rzOKjKcYbqFDbpWT"
+        },
+        {
+          "name": "Jordan Allani",
+          "url": "https://open.spotify.com/artist/0P2cgZsKFKew0vX4RzNAQp"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377208,
+      "name": "Bula Quantum",
+      "url": "https://open.spotify.com/track/6APwGCJ11Zvkkz3MBdZQo3"
     },
     {
       "album": {
@@ -7553,6 +7601,24 @@
     },
     {
       "album": {
+        "name": "Envy",
+        "url": "https://open.spotify.com/album/6uVDjY4mV8YUyIKNhaYxF1"
+      },
+      "artists": [
+        {
+          "name": "Splyn",
+          "url": "https://open.spotify.com/artist/64AoAvtvaf6S28mhuNhksG"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141913,
+      "name": "Envy",
+      "url": "https://open.spotify.com/track/4pEXBbfSgn2vl9PUA1MnFp"
+    },
+    {
+      "album": {
         "name": "\u00deri\u00f0ja Kryddi\u00f0",
         "url": "https://open.spotify.com/album/43HcD9yQyJxymeq6fhRGP6"
       },
@@ -8686,6 +8752,28 @@
       "duration_ms": 133254,
       "name": "Flakes",
       "url": "https://open.spotify.com/track/1QCyOsEcAzhP5wmvEq6uIH"
+    },
+    {
+      "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Dwele",
+          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237506,
+      "name": "Flashing Lights",
+      "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
     },
     {
       "album": {
@@ -18437,6 +18525,24 @@
     },
     {
       "album": {
+        "name": "Read My Lips",
+        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230013,
+      "name": "Murder On The Dancefloor",
+      "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -18564,7 +18670,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -21084,7 +21190,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 135000,
       "name": "Pen Game",
       "url": "https://open.spotify.com/track/5EplASphyfKsamHdiun85x"
@@ -21182,7 +21288,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 184516,
       "name": "Pink + White",
       "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
@@ -21622,7 +21728,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 151034,
       "name": "prettyboi um j\u00f3lin",
       "url": "https://open.spotify.com/track/1b5uWFxqByS6LvcXIMQBrz"
@@ -25146,7 +25252,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 153163,
       "name": "Son of a Gun",
       "url": "https://open.spotify.com/track/6TCiqKpdCHRGzwSYvv8sGU"

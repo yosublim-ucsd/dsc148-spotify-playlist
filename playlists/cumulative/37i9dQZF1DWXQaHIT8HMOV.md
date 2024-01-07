@@ -4,7 +4,7 @@
 
 > Homegrown Ugandan hits in one playlist\. Cover: Joshua Baraka
 
-190 songs - 9 hr 50 min
+191 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Koroba](https://open.spotify.com/track/3nIEXMMz0nqohOjaEagQRB) | [Sl Fiq](https://open.spotify.com/artist/7uDrPrSP9zl7r048ENVrIT) | [Coroba](https://open.spotify.com/album/4N7YovVko7vQrC97K6NyDg) | 2:47 | 2023-08-11 | 2023-09-21 |
 | [Kwetega](https://open.spotify.com/track/4h6XwEp0ElqD5xEYpcKGxr) | [Ruyonga](https://open.spotify.com/artist/7IFepiNUUVtAglkh1RUH5z) | [Kwetega](https://open.spotify.com/album/77agp9iFzPzhb7ssgWH2Kc) | 3:36 | 2022-11-17 | 2023-03-18 |
 | [Kyaani](https://open.spotify.com/track/5NvvaLZbvtjpzGBPxOARQd) | [Ykee Benda](https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq) | [Kyaani](https://open.spotify.com/album/7rTJ4wYCUqLnDQN0Wrwdij) | 2:58 | 2023-02-10 | 2023-08-19 |
+| [Kyekiliwo](https://open.spotify.com/track/5n3YEFEO4K5AvHIHkyZCg6) | [Ykee Benda](https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq) | [Kyekiliwo](https://open.spotify.com/album/3sf7zqF8HY4XUTiAVn4RU6) | 2:55 | 2023-12-08 |  |
 | [Leaving Summer](https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [Leaving Summer](https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT) | 2:37 | 2022-09-09 |  |
 | [Leega](https://open.spotify.com/track/6wTXqwgEhXfdxYZOKEAtqP) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Leega](https://open.spotify.com/album/40CrG5iYzKczTp0xHbUaN2) | 3:34 | 2023-04-14 | 2023-05-03 |
 | [Leega](https://open.spotify.com/track/2Lpak3zl9w7BwzpRh1Nfmm) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Leega](https://open.spotify.com/album/6NUZuzbhXknUU3P3XDCv8W) | 3:36 | 2023-12-08 |  |
@@ -149,7 +150,7 @@
 | [Pirepe](https://open.spotify.com/track/1c6pBk5cUupGEKuEc8gpgT) | [Suzan Kerunen](https://open.spotify.com/artist/2aNSI0ak2Os9PHD11PdkHr), [Aloysius Migadde](https://open.spotify.com/artist/7rJOWggakrq6vVC3gQ35XY) | [From Ashes We Rise](https://open.spotify.com/album/6qdLGSQgD4Qnl088lO3lgp) | 4:25 | 2022-05-12 | 2022-08-20 |
 | [Plan Ki](https://open.spotify.com/track/2ZbeZtGMyBOhWo4gvoGZZR) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Plan Ki](https://open.spotify.com/album/4qfhrxohGB4hPhDfFJ2nDN) | 3:14 | 2023-04-21 | 2023-07-06 |
 | [Practical](https://open.spotify.com/track/0TiSmHrbTSzMLrMXac4Jt8) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Blessings](https://open.spotify.com/album/4BR9qEpGlHcLOWmWayRCcL) | 3:11 | 2023-08-25 | 2023-11-11 |
-| [Pretty Young Thing](https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Pretty Young Thing](https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF) | 3:10 | 2023-03-24 |  |
+| [Pretty Young Thing](https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Pretty Young Thing](https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF) | 3:10 | 2023-03-24 | 2024-01-07 |
 | [Raha](https://open.spotify.com/track/2GJMYdqcS8uMRdUdwHJCY1) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ) | [Vibes Out The East](https://open.spotify.com/album/0qYAUeR7eF1HCKJGmRgLoz) | 3:32 | 2022-09-22 | 2022-11-11 |
 | [RainFall](https://open.spotify.com/track/7JMR4ksKkxC0UhxfkKFFUP) | [HerbertSkillz](https://open.spotify.com/artist/30hteLyFTmiRraerHJBoba), [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [RainFall](https://open.spotify.com/album/0cOqoc0T8yzsN4WbtDbCDK) | 3:29 | 2022-11-25 | 2023-02-28 |
 | [Remember](https://open.spotify.com/track/1Z5NPO5apm03OD1UzM30Vq) | [SHENA SKIES](https://open.spotify.com/artist/59a5FtFMSsCD2iYYfuQTvO) | [Remember](https://open.spotify.com/album/4Or0X5Z3c0lxpfcDe9I7M4) | 3:02 | 2023-12-08 | 2024-01-02 |

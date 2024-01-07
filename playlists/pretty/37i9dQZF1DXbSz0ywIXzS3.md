@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSz0ywIXzS3.md) - [plain]
 
 > "I am never drinking again".
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,384 likes - 80 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,513 likes - 80 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,18 +44,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSz0ywIXzS3.md) - [plain]
 | 34 | [Sugar for the Pill](https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa) | 4:30 |
 | 35 | [Skin and Bones](https://open.spotify.com/track/6ubPFMzlIg73d1jzzWcC8B) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:16 |
 | 36 | [No One's Gonna Love You](https://open.spotify.com/track/2IvNxLl01CTAfCOA103Tgx) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Cease To Begin](https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ) | 3:37 |
-| 37 | [Pull Me Through](https://open.spotify.com/track/4EmnzJLkWYI9JyYTWtnOVT) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below](https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ) | 3:08 |
-| 38 | [Spit Of You](https://open.spotify.com/track/6YrNd7sFarQAUflTPcTH0h) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:33 |
+| 37 | [Spit Of You](https://open.spotify.com/track/6YrNd7sFarQAUflTPcTH0h) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:33 |
+| 38 | [Pull Me Through](https://open.spotify.com/track/4EmnzJLkWYI9JyYTWtnOVT) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below](https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ) | 3:08 |
 | 39 | [Remembering Sunday](https://open.spotify.com/track/2qxXypNXOJZ5qUFdpzJ56n) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 4:16 |
 | 40 | [Hey Gringo](https://open.spotify.com/track/4aPeeN8IYOCMNBGI0p7169) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Surface Sounds](https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3) | 4:44 |
 | 41 | [Swing Life Away](https://open.spotify.com/track/6GrrkiCRO3HYdgRpO4eKEL) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6) | 3:20 |
 | 42 | [Bury Me Face Down](https://open.spotify.com/track/0LSzBkkQZZkwV656r6etLg) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Bury Me Face Down](https://open.spotify.com/album/79L5Jm5KDfXA19nozVqZcg) | 3:51 |
 | 43 | [Tonight You Are Mine](https://open.spotify.com/track/0Sjz8pTu8vcVvGP5rtyh3Q) | [The Technicolors](https://open.spotify.com/artist/6hQS54VPpxunuwR0W7usuo) | [Ultraviolet Disguise \(Deluxe Edition\)](https://open.spotify.com/album/3FpGaltgrkpihz2wL76YRm) | 3:50 |
 | 44 | [Not Meant to Be](https://open.spotify.com/track/5xyACR2lzIyzFepF4qlAas) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Scars & Souvenirs \(Special Edition\)](https://open.spotify.com/album/2d4tYx2ulDP1Kgudxsrs7B) | 3:35 |
-| 45 | [Transatlanticism](https://open.spotify.com/track/4LF1dMlOHe8VfmMut7YiIs) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/5UKAhD2VmFAuThgq4OQyEe) | 7:55 |
+| 45 | [Play God](https://open.spotify.com/track/6R1y3I91AIktu7qoKIugtH) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:45 |
 | 46 | [Therapy](https://open.spotify.com/track/371Tb0eNfpjpSqggjcLv8c) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal \(Deluxe Version\)](https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I) | 3:44 |
-| 47 | [Jesus Christ](https://open.spotify.com/track/72ccSGl5YcEWm0vhtVpi25) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [The Devil And God Are Raging Inside Me](https://open.spotify.com/album/2YnqAuFmC2r8JeQVOIozTy) | 5:18 |
-| 48 | [Play God](https://open.spotify.com/track/6R1y3I91AIktu7qoKIugtH) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:45 |
+| 47 | [Transatlanticism](https://open.spotify.com/track/4LF1dMlOHe8VfmMut7YiIs) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/5UKAhD2VmFAuThgq4OQyEe) | 7:55 |
+| 48 | [Jesus Christ](https://open.spotify.com/track/72ccSGl5YcEWm0vhtVpi25) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [The Devil And God Are Raging Inside Me](https://open.spotify.com/album/2YnqAuFmC2r8JeQVOIozTy) | 5:18 |
 | 49 | [Here And Now](https://open.spotify.com/track/2yjbj0zHhk21ljCeMPs79g) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Confessions Of The Fallen](https://open.spotify.com/album/16zCpjk1TUXFpJaBeJkbi6) | 3:57 |
 | 50 | [Smooth Sailing](https://open.spotify.com/track/5fb0p81SAZBkZEvmLAfGKz) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Clockwork](https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj) | 4:51 |
 | 51 | [Broken](https://open.spotify.com/track/5nakPOknHu3XkeeHoVvhCd) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Disclaimer](https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw) | 4:17 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSz0ywIXzS3.md) - [plain]
 | 79 | [Amphetamine Smiles](https://open.spotify.com/track/6mIEjaEmDKaQ6CbKOgJqeN) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:05 |
 | 80 | [Blackout](https://open.spotify.com/track/6p1KkKTYiuou500RtWnWmU) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s) | 4:22 |
 
-Snapshot ID: `MCxkMmNlNDg1MTM1YTkxZGEwM2FlZjFkODM2MTI2MjQ4Yjg4ZjM3ZTU1`
+Snapshot ID: `MCwwNjNkNDlkZGMyZjk3MjdkOTA3NzMyMzg1NDM4YjdlMjEzMzViMzE2`

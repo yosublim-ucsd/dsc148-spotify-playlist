@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lKeSk.md) - [plain]
 
 > This is Ana Gabriel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,131 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,243 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lKeSk.md) - [plain]
 | 37 | [Amigo Mío \(Homenaje a Juan Gabriel\)](https://open.spotify.com/track/0AVNZGGgCp8YCwWOZWQ2PH) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Mi Mexico](https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa) | 3:39 |
 | 38 | [Amor](https://open.spotify.com/track/07hLFDNfRR8m01VGSfedDV) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Pecado Original](https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe) | 4:39 |
 | 39 | [Voy a Ser](https://open.spotify.com/track/0WaCinH2B4I2m2XuM5ULKM) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [La Reina Canta A Mexico](https://open.spotify.com/album/1IRYnt0nIw8IEf7bDiJOVj) | 4:05 |
-| 40 | [Hasta Que Te Conocí \- En Vivo \- Remasterizado](https://open.spotify.com/track/09ecAy3dQdxRUlNm5ogVHp) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel "En Vivo"](https://open.spotify.com/album/7o9mXBmfcf34lmwAmCjLet) | 3:40 |
-| 41 | [La Reina](https://open.spotify.com/track/3BsrquAE2Ht4J10yTzniEs) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Dulce y Salado](https://open.spotify.com/album/1nliaUsH6tH6XRbmH9wsKF) | 3:33 |
+| 40 | [La Reina](https://open.spotify.com/track/3BsrquAE2Ht4J10yTzniEs) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Dulce y Salado](https://open.spotify.com/album/1nliaUsH6tH6XRbmH9wsKF) | 3:33 |
+| 41 | [Hasta Que Te Conocí \- En Vivo \- Remasterizado](https://open.spotify.com/track/09ecAy3dQdxRUlNm5ogVHp) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel "En Vivo"](https://open.spotify.com/album/7o9mXBmfcf34lmwAmCjLet) | 3:40 |
 | 42 | [Mi Gusto Es](https://open.spotify.com/track/7nxcuxZdkAtkrTkleoUi9S) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Lo Esencial De Ana Gabriel](https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ) | 2:51 |
 | 43 | [No a Pedir Perdón](https://open.spotify.com/track/7jhGpbLaAo99bQbEW1zhhM) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Soy Como Soy](https://open.spotify.com/album/32VCHqymjw33HvCc42QrTV) | 3:49 |
 | 44 | [Hice Bien Quererte \(Lambada\) \- Versión Corta](https://open.spotify.com/track/3M7phO34hRzD2bEPZCXeVk) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quién Como tú](https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lKeSk.md) - [plain]
 | 49 | [Paz en Este Amor](https://open.spotify.com/track/3FfajmH9zGvlsOlO78SQhN) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Con Un Mismo Corazon](https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT) | 3:31 |
 | 50 | [Pacto de Amor](https://open.spotify.com/track/1rbcpg93budzDfOKQ2CAOb) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Luna](https://open.spotify.com/album/70fbl3TF1Eht9jXFBK8Mjt) | 3:22 |
 
-Snapshot ID: `Mjg0MDc3MDMsMDAwMDAwMDA5MzQ3OTM5MTYzMDRjZWYwMzAzM2NjOTUzODY1N2RkYg==`
+Snapshot ID: `Mjg0MDkwNTYsMDAwMDAwMDAzMGQ1OTQ3MWI4MzA3ZDQ4OTJjMmFlMjI2OTRiMGY0Mw==`

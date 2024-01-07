@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > From the trenches\. Through the streets.<br/>Cover: HotKid
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,200 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,319 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 59 | [Chop Life](https://open.spotify.com/track/2Nbv86CqcUykqD1SvzkmlZ) | [Gdzilla](https://open.spotify.com/artist/2GYi94SMYCdXqsvYjer68K) | [Gdzilla](https://open.spotify.com/album/1KzWFmSUqNBdp646bQKpKO) | 2:32 |
 | 60 | [Pepper Dem](https://open.spotify.com/track/5OOJeJuR8cy18QeohY5qhT) | [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [Introduction](https://open.spotify.com/album/4qxDgfQJbQrVNLAyTNJ2ym) | 2:24 |
 
-Snapshot ID: `MCw2MWU0NDIyY2IyNTUwYzk1ZWRjY2FlZGUzZTU4YmY1NWFkNjU1MzBi`
+Snapshot ID: `MCxkZGIwMzczNzNkMmM3OGUzNzE1ZTc3NGZiNWI3MDdjNjdhYjlkOTUy`

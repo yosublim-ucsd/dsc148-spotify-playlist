@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,673 likes - 169 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,745 likes - 169 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,4 +178,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 168 | [Part of Life](https://open.spotify.com/track/0BAVO0LRCe7CZzodzCFmal) | [Josh Oliver](https://open.spotify.com/artist/1SP0JtRy2Am9t3HTswRbrv) | [Part of Life](https://open.spotify.com/album/5QOtllslGWHQJg4u1T6GyD) | 3:06 |
 | 169 | [Easton](https://open.spotify.com/track/7zAYWInWkAiJ72hgpABu3F) | [Rachel Sumner](https://open.spotify.com/artist/5PYJwfdGBtiT2NuH0Z1CqU) | [Rachel Sumner & Traveling Light](https://open.spotify.com/album/4kZeNt7qRwoO8KTOgQ0QTb) | 5:34 |
 
-Snapshot ID: `MCw5MWZmMjlkNDIxZGQ5NTc2OTY4NTFhMjIwOGI1NDdkMWE4MWMyZWZh`
+Snapshot ID: `MCwxODdiZGJjMTY3Y2JkZWU0ODExYzE5MzE2NjBiYjBiMTA5YjZhNTk3`

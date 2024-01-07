@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 
 > Apasiónate y revive los temas de tus historias predilectas\. Foto: Thalía
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,874 likes - 70 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,944 likes - 70 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 | 40 | [Porque El Amor Manda](https://open.spotify.com/track/3ot3tplmCSuP4tghJia2jR) | [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly) | [El Amor Manda](https://open.spotify.com/album/6iyVNbwXzxrdVZKFyHTW8Y) | 3:16 |
 | 41 | [Fuego en el Fuego](https://open.spotify.com/track/5zGJT3TTShcNHeJeDrjPvs) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Estilolibre \(Spanish Version\)](https://open.spotify.com/album/5T0HgCj7T4adMFXKGHV5qf) | 4:00 |
 | 42 | [Desnuda](https://open.spotify.com/track/5DRMxhUUiebOG9ruo5aLxj) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Canciones De Amor](https://open.spotify.com/album/69hcj06pBkmRqZYNqtbI8c) | 4:15 |
-| 43 | [Amor sincero](https://open.spotify.com/track/4OPLeqfkiSm5tLz9A6Rst4) | [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh) | [La vida es..\. Amor sincero](https://open.spotify.com/album/3LiUITjrr8pxbeejKsgF5u) | 3:46 |
+| 43 | [Dos Mujeres un Camino](https://open.spotify.com/track/1IY3GJk8HgLWpKtjtKXN52) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6) | 4:15 |
 | 44 | [Mañana Es Para Siempre](https://open.spotify.com/track/3z96E6DaTMAgj8QXOhK26A) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos \- Evolución](https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy) | 3:40 |
-| 45 | [Dos Mujeres un Camino](https://open.spotify.com/track/1IY3GJk8HgLWpKtjtKXN52) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6) | 4:15 |
+| 45 | [Amor sincero](https://open.spotify.com/track/4OPLeqfkiSm5tLz9A6Rst4) | [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh) | [La vida es..\. Amor sincero](https://open.spotify.com/album/3LiUITjrr8pxbeejKsgF5u) | 3:46 |
 | 46 | [Mi Corazón Es Tuyo](https://open.spotify.com/track/1ITcEqIHJwRU1oTBz4M0uE) | [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE), [Kaay](https://open.spotify.com/artist/2SvbyJMDoNgCJIYpQiFx5v) | [Desequilibrio](https://open.spotify.com/album/1HqNCyE4T5lD1R1CYnE4Se) | 3:02 |
 | 47 | [De Mi Enamórate](https://open.spotify.com/track/5UXgeLTzAyhgfRJubZRemE) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Original Masters](https://open.spotify.com/album/4CxnKxTQuQKXWrWHAVtaMO) | 3:30 |
 | 48 | [Ayer La Vi](https://open.spotify.com/track/2DcgfpjjP0EDY11XiBKUnX) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo) | [Da' Take Over](https://open.spotify.com/album/441w84evLgVKSEgdIw8f3m) | 3:56 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 | 59 | [Esto Es Lo Que Soy](https://open.spotify.com/track/1CKuenidvmGFUuakoN67YZ) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Esto Es Lo Que Soy](https://open.spotify.com/album/1eUFNH2L3oshE8wK5wwLlS) | 3:32 |
 | 60 | [A Dónde Va Nuestro Amor \- Versión Telenovela](https://open.spotify.com/track/0zA1PzaGYhJSdOFcsFOyUS) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8) | [De Días y de Noches \(En Vivo\) \(Centro Cultural Roberto Cantoral\)](https://open.spotify.com/album/1M80e2cT0RjwiumdKlk4aw) | 3:31 |
 | 61 | [Dime](https://open.spotify.com/track/2YFXBVYGpDN1Ui8tPqk2ZB) | [Aranza](https://open.spotify.com/artist/5gXXR7qrvOV5qY8J9P3ptB) | [Mirada de Mujer](https://open.spotify.com/album/2IkQ5gZGR8ym3VVXT4WPK3) | 2:59 |
-| 62 | [Ámame Como Soy \(En Vivo\)](https://open.spotify.com/track/3tc8mJk3KTTiSmmAQiqKz1) | [DKDA](https://open.spotify.com/artist/0nMUgbsNVXEOVBTB5JBoxb) | [Sueños de Juventud](https://open.spotify.com/album/4cQY4cujpOI7UvLj34JBbk) | 5:35 |
-| 63 | [Día De Suerte](https://open.spotify.com/track/2AXs2wo7CyMu5aZreyhZ31) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Lo Mejor De...](https://open.spotify.com/album/0vLZBQhGBr7Elt7qLDRipR) | 3:33 |
+| 62 | [Día De Suerte](https://open.spotify.com/track/2AXs2wo7CyMu5aZreyhZ31) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Lo Mejor De...](https://open.spotify.com/album/0vLZBQhGBr7Elt7qLDRipR) | 3:33 |
+| 63 | [Ámame Como Soy \(En Vivo\)](https://open.spotify.com/track/3tc8mJk3KTTiSmmAQiqKz1) | [DKDA](https://open.spotify.com/artist/0nMUgbsNVXEOVBTB5JBoxb) | [Sueños de Juventud](https://open.spotify.com/album/4cQY4cujpOI7UvLj34JBbk) | 5:35 |
 | 64 | [La Usurpadora](https://open.spotify.com/track/2hWwM1HvqlinY0n9mnC3NW) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [1985\-1998](https://open.spotify.com/album/1TrINJ03nVRp9Xas5oNVTP) | 3:25 |
 | 65 | [Un Alma en Pena](https://open.spotify.com/track/19a0LWL0uI0ggevU7QpzpG) | [Lucía Méndez](https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN) | [Mis Íntimas Razones](https://open.spotify.com/album/0NVKTnvoqBpIGJDgT8A7yr) | 3:40 |
 | 66 | [Amor Real](https://open.spotify.com/track/3TTGJWEf6djut1oziq9h02) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Hasta Ahora](https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH) | 4:05 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 | 69 | [Contra Viento Y Marea](https://open.spotify.com/track/5o6WIZr8i93PtynxDAzT7U) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Super \#1's](https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh) | 3:40 |
 | 70 | [Si Vas a Amarme](https://open.spotify.com/track/1YX5cBhoVOsrMgl7KpTtW1) | [Pablo Montero](https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3) | [Si Vas a Amarme](https://open.spotify.com/album/5q9QU0sbVwsd2iK0cdNngN) | 3:07 |
 
-Snapshot ID: `MCxiNmVhM2JkYmNkNTlmNTUwNWNiNWMwZjQ4ZWMzM2FmODg2OWY2YzMz`
+Snapshot ID: `MCw5MDRkYTA0NmVjMzAzZDdjZjM3YjAyY2FkMzY3ZThiZDZhOTE4NGI2`

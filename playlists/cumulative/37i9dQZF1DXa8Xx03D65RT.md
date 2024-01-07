@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-752 songs - 1 day 7 hr 37 min
+753 songs - 1 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [I Remember](https://open.spotify.com/track/1tIqpXyBu4DTgzpp5nkk1G) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [I Remember](https://open.spotify.com/album/1yI3LXQAcNZx7LWVfFJLZg) | 2:22 | 2022-05-27 | 2022-07-21 |
 | [I Try](https://open.spotify.com/track/2iqN4qtrdyp43YZONn3sgF) | [Helena Gabriel](https://open.spotify.com/artist/5AW3NFlJDX8SX4LoHNTZOO) | [I Try](https://open.spotify.com/album/6EZsJTZbEkW91ZFgpzCchU) | 1:49 | 2022-05-27 | 2023-03-19 |
 | [If Only](https://open.spotify.com/track/3NBuhsRRawz3pK7Y8MImwX) | [Jamie Bendrodt](https://open.spotify.com/artist/3NBXKIjJCcTcDmhq7cbyei) | [If Only](https://open.spotify.com/album/7K5p6bRBT9M1a9qzTPtvmQ) | 2:04 | 2022-05-27 | 2022-09-24 |
+| [Ignis](https://open.spotify.com/track/0kDuotZ7G61nk9rQNcHBbK) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Ignis](https://open.spotify.com/album/6Z0Zu6OiJYKJ4FXGl9rpXO) | 3:32 | 2024-01-02 |  |
 | [Il mio cuore brucia per te](https://open.spotify.com/track/2Wvu8d2R1Ish33Jl67JEdI) | [Oddo Fava](https://open.spotify.com/artist/3DbqhQZ1BfpxozIDPMjZDd) | [Il mio cuore brucia per te](https://open.spotify.com/album/65YsTIbDwGwTGVxGjpDMvy) | 2:10 | 2022-05-27 | 2023-10-27 |
 | [Illusive Appearance](https://open.spotify.com/track/1TjW6B6oAQTyh4ca3r32DA) | [Dominique Marais](https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K) | [Illusive Appearance](https://open.spotify.com/album/1B1fTeAhsxFmMQtRvsRqSF) | 3:09 | 2022-05-27 | 2022-09-24 |
 | [Imagine](https://open.spotify.com/track/6Q0m7E33lcj6FOgdEsH448) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Imagine](https://open.spotify.com/album/7azCak0GgPVaSFelg61xYa) | 2:09 | 2023-09-25 | 2023-11-07 |
@@ -366,7 +367,7 @@
 | [Lik Eit Tre \- Ps.1](https://open.spotify.com/track/57ps5B261JySHVUUcvwrc3) | [John Vegard Schow](https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN) | [Lik Eit Tre \(Ps.1\)](https://open.spotify.com/album/7zLJpFboXTbU17vDakcROE) | 2:34 | 2023-09-04 |  |
 | [Like Before](https://open.spotify.com/track/27An0sDvzMb7GM6pRE9ycF) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Like Before](https://open.spotify.com/album/2XnJ6Gy388bHlx1rikNI4p) | 2:15 | 2022-07-20 |  |
 | [Like Before](https://open.spotify.com/track/4gh3kOpFSQPn6jGOI0gZPm) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Like Before](https://open.spotify.com/album/7KG32lDHhYrznuU2EXHJPp) | 2:15 | 2022-05-27 | 2022-07-29 |
-| [Lillian](https://open.spotify.com/track/5lcjalUNbHaaSvXRTtYd1p) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Mursejler](https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID) | 2:07 | 2022-07-20 |  |
+| [Lillian](https://open.spotify.com/track/5lcjalUNbHaaSvXRTtYd1p) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Mursejler](https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID) | 2:07 | 2022-07-20 | 2024-01-07 |
 | [Lillian](https://open.spotify.com/track/6DGMmL7Y0CG0OFEvRepJpq) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Lillian](https://open.spotify.com/album/0E6zHfeSuibVbeFZQR5v4A) | 2:07 | 2022-05-27 | 2022-07-29 |
 | [Litany](https://open.spotify.com/track/6hNwn4kKfeuDJUDqNFI4s9) | [Daniella Babbitt](https://open.spotify.com/artist/11qA90NqXDlLWVji5Vmwct) | [Litany](https://open.spotify.com/album/5tGHP4Do2fHjjTB8y3egi5) | 2:52 | 2022-05-27 | 2023-03-10 |
 | [Lizards play](https://open.spotify.com/track/251Nfh1hvBFIUvZHt562NS) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Lizards play](https://open.spotify.com/album/5lPrbJLWMohcRtbX1SDn5p) | 2:26 | 2022-07-20 | 2023-11-18 |

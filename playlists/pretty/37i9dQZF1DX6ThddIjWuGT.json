@@ -1,12 +1,12 @@
 {
   "description": "Timeless Latin pop hits through the decades! Cover: Luis Miguel",
-  "num_followers": 2981717,
+  "num_followers": 2981878,
   "original_name": "Latin Pop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2NhYjY4OThmZGYyZDU3NGZlZjc0MTg4MDRjZmEwYzRlYTczOWQ5",
+  "snapshot_id": "MCxmMmUxYjY2NzRmMGQ2ZTBiN2E5YzFkMzdlMDI3ZDMwMDA3OTVkOTQ5",
   "tracks": [
     {
       "added_at": "2023-11-22 21:12:43",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-11-22 21:12:43",
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 221800,
-      "name": "Hasta la Ra\u00edz",
-      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
-    },
-    {
-      "added_at": "2023-11-22 21:12:43",
-      "album": {
         "name": "Balas Perdidas",
         "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
       },
@@ -75,18 +59,18 @@
     {
       "added_at": "2023-11-22 21:12:43",
       "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 250693,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
+      "duration_ms": 221800,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
     },
     {
       "added_at": "2023-11-22 21:12:43",
@@ -103,6 +87,22 @@
       "duration_ms": 187520,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s"
+    },
+    {
+      "added_at": "2023-11-22 21:12:43",
+      "album": {
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 250693,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
     },
     {
       "added_at": "2023-11-22 21:12:43",
@@ -143,6 +143,22 @@
     {
       "added_at": "2023-11-22 21:12:43",
       "album": {
+        "name": "Dejarte De Amar",
+        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Mientes",
+      "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
+    },
+    {
+      "added_at": "2023-11-22 21:12:43",
+      "album": {
         "name": "Balas Perdidas",
         "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 231532,
       "name": "Besos En Guerra",
       "url": "https://open.spotify.com/track/1mlGScrDQqHqmhdIqE8MmA"
-    },
-    {
-      "added_at": "2023-11-22 21:12:43",
-      "album": {
-        "name": "Dejarte De Amar",
-        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Mientes",
-      "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
     },
     {
       "added_at": "2023-11-22 21:12:43",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-11-22 21:12:43",
       "album": {
-        "name": "El Templo del Pop",
-        "url": "https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        }
-      ],
-      "duration_ms": 183973,
-      "name": "Don",
-      "url": "https://open.spotify.com/track/0WajUW5XINeraP2w0F3F8E"
-    },
-    {
-      "added_at": "2023-11-22 21:12:43",
-      "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 267826,
       "name": "Ciega, Sordomuda",
       "url": "https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi"
+    },
+    {
+      "added_at": "2023-11-22 21:12:43",
+      "album": {
+        "name": "El Templo del Pop",
+        "url": "https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "duration_ms": 183973,
+      "name": "Don",
+      "url": "https://open.spotify.com/track/0WajUW5XINeraP2w0F3F8E"
     },
     {
       "added_at": "2023-11-22 21:12:43",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-11-22 21:12:43",
       "album": {
-        "name": "Un Besito M\u00e1s",
-        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 229933,
-      "name": "Me Soltaste",
-      "url": "https://open.spotify.com/track/02yD6Wmpx5kLAoXLQOnuEb"
-    },
-    {
-      "added_at": "2023-11-22 21:12:43",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 307866,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
+    },
+    {
+      "added_at": "2023-11-22 21:12:43",
+      "album": {
+        "name": "Un Besito M\u00e1s",
+        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 229933,
+      "name": "Me Soltaste",
+      "url": "https://open.spotify.com/track/02yD6Wmpx5kLAoXLQOnuEb"
     },
     {
       "added_at": "2023-11-22 21:12:43",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-11-22 21:12:43",
       "album": {
-        "name": "La Trayectoria",
-        "url": "https://open.spotify.com/album/1NVDbnjIE6FFpNUohWJwXQ"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 204906,
-      "name": "Todos Me Miran",
-      "url": "https://open.spotify.com/track/4pmRDyDRRiZ5Pq7hm4WTpb"
-    },
-    {
-      "added_at": "2023-11-22 21:12:43",
-      "album": {
         "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
         "url": "https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 302493,
       "name": "Cruz de Navajas",
       "url": "https://open.spotify.com/track/5laT2a6iEq4IxgEDV9dSCr"
+    },
+    {
+      "added_at": "2023-11-22 21:12:43",
+      "album": {
+        "name": "La Trayectoria",
+        "url": "https://open.spotify.com/album/1NVDbnjIE6FFpNUohWJwXQ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "Todos Me Miran",
+      "url": "https://open.spotify.com/track/4pmRDyDRRiZ5Pq7hm4WTpb"
     },
     {
       "added_at": "2023-11-22 21:12:43",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-11-22 21:12:43",
       "album": {
-        "name": "La Calle De Las Sirenas",
-        "url": "https://open.spotify.com/album/3Qe5Ldqub3nZPjq26sS1fS"
-      },
-      "artists": [
-        {
-          "name": "Kabah",
-          "url": "https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "La Calle De Las Sirenas",
-      "url": "https://open.spotify.com/track/1SVm64B4Ry7dqFSxHY8e65"
-    },
-    {
-      "added_at": "2023-11-22 21:12:43",
-      "album": {
         "name": "Flor De Piel",
         "url": "https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 283133,
       "name": "Hacer El Amor Con Otro",
       "url": "https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej"
+    },
+    {
+      "added_at": "2023-11-22 21:12:43",
+      "album": {
+        "name": "La Calle De Las Sirenas",
+        "url": "https://open.spotify.com/album/3Qe5Ldqub3nZPjq26sS1fS"
+      },
+      "artists": [
+        {
+          "name": "Kabah",
+          "url": "https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi"
+        }
+      ],
+      "duration_ms": 236160,
+      "name": "La Calle De Las Sirenas",
+      "url": "https://open.spotify.com/track/1SVm64B4Ry7dqFSxHY8e65"
     },
     {
       "added_at": "2023-11-22 21:12:43",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-11-22 21:12:43",
       "album": {
+        "name": "Terral",
+        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 234373,
+      "name": "Pasos de cero",
+      "url": "https://open.spotify.com/track/18mmN3VrFWRi6SsSBJf6WJ"
+    },
+    {
+      "added_at": "2023-11-22 21:12:43",
+      "album": {
         "name": "Coti",
         "url": "https://open.spotify.com/album/7wv093HeXvQuJZvOD6m2gG"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 332040,
       "name": "Experiencia Religiosa",
       "url": "https://open.spotify.com/track/0tgjnOlps2Hc798rOYGpvi"
-    },
-    {
-      "added_at": "2023-11-22 21:12:43",
-      "album": {
-        "name": "Terral",
-        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 234373,
-      "name": "Pasos de cero",
-      "url": "https://open.spotify.com/track/18mmN3VrFWRi6SsSBJf6WJ"
     },
     {
       "added_at": "2023-11-22 21:12:43",

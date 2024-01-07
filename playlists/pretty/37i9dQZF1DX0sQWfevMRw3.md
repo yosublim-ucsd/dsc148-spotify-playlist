@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > VI VILL HA LÅDVIN UH DET ÄR VÅR BENSIN!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,426 likes - 97 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,446 likes - 97 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 96 | [LÄPPGLANS FRÅN DIOR \- EPA SATAN & GRETA TUBORG REMIX](https://open.spotify.com/track/04xFlIdZ0HoKIJQsPQ68Bj) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [EPA SATAN](https://open.spotify.com/artist/1Tdt6GDut97A37pO8WFyMA), [Greta Tuborg](https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ) | [LÄPPGLANS FRÅN DIOR \(EPA SATAN & GRETA TUBORG REMIX\)](https://open.spotify.com/album/0ncmCdtYBNHVyTRcPs4QVI) | 2:20 |
 | 97 | [LALA](https://open.spotify.com/track/32Sx8IL2UZKecO00G2LWj8) | [PERZZONA](https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC) | [LALA](https://open.spotify.com/album/6ZYs4yXaxTKuQVNsHkg2hD) | 2:25 |
 
-Snapshot ID: `MCxjNGNiMTc1MjliOTU5MDM3YmM4Zjc0YTE5OTNlY2Y0MGRmN2I4NTI3`
+Snapshot ID: `MCwxZjgzOWVmYjYwNmNkMDRlMjMxYzRiZDY1NTkwNDhjZmU3YjkzYzNl`

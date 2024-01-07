@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: Number\_i
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,055 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,331 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 44 | [Crazy Love](https://open.spotify.com/track/4PXjBiPCSYd5YwsvKutokh) | [XY](https://open.spotify.com/artist/2MOWJsCM7TRwG7K7eIZzxC) | [Crazy Love](https://open.spotify.com/album/7fegzwJexmObtgCpqhI0vt) | 5:02 |
 | 45 | [HIDEOUT](https://open.spotify.com/track/4baByqPPKuXqZqi4bim7Po) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [HIDEOUT](https://open.spotify.com/album/1nVuARtkfIuX55ZiVrlkJY) | 2:59 |
 | 46 | [FIREWORK](https://open.spotify.com/track/5FWZ9epRluqJTzOnsayeo2) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : WE](https://open.spotify.com/album/0ouqxqCo93ccmKOXhMz3RC) | 3:08 |
-| 47 | [Candy Kiss](https://open.spotify.com/track/6xRRLIrxljDrTkPKrI97B1) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Candy Kiss](https://open.spotify.com/album/16NHuaRilxZNcZ8OdJD3pK) | 3:19 |
+| 47 | [CRUISIN'](https://open.spotify.com/track/4eYkFk3D1GCvk6sFTCpEq7) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [CRUISIN'](https://open.spotify.com/album/0BNzYtcvaEw8oD8SKp5OF8) | 3:25 |
 | 48 | [Smile Again](https://open.spotify.com/track/6EJDyT2T7pEeLLhNRR416r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Smile Again](https://open.spotify.com/album/7aIMR4kB87X92XrEzK6L6M) | 3:22 |
-| 49 | [CRUISIN'](https://open.spotify.com/track/4eYkFk3D1GCvk6sFTCpEq7) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [CRUISIN'](https://open.spotify.com/album/0BNzYtcvaEw8oD8SKp5OF8) | 3:25 |
+| 49 | [Candy Kiss](https://open.spotify.com/track/6xRRLIrxljDrTkPKrI97B1) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Candy Kiss](https://open.spotify.com/album/16NHuaRilxZNcZ8OdJD3pK) | 3:19 |
 | 50 | [SIN](https://open.spotify.com/track/4uRh2YgZgcg7x2QsyllrbI) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [SIN](https://open.spotify.com/album/3W6jQO7l9BPGV2uhgr6l28) | 3:44 |
 
-Snapshot ID: `MCwzODVkYmY3ZTYxYzdmY2NkMWM5OWIxN2NiOWI4NGIwZDkzNWUzN2Jm`
+Snapshot ID: `MCxiY2JhZjY4ODYxOTY0MmFiY2MzMGZhNWM5MDVjOTIwMDZjZDE0MjZj`

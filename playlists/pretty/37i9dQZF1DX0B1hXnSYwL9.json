@@ -1,12 +1,12 @@
 {
   "description": "Canciones para sacarle brillo a la pista de baile.",
-  "num_followers": 96469,
+  "num_followers": 96482,
   "original_name": "Sal\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Nzc1MTg3NzYzNjUyMDNkYjRlZThkZmZjNGY4OWNhODk1YTZiM2Ex",
+  "snapshot_id": "MCwzMzQ1M2ZkM2UwZDgwOTg4YTZhMWU5NjVhYjQ1YTlkNWNlMWNhNDY0",
   "tracks": [
     {
       "added_at": "2023-08-14 15:51:23",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "Llorar",
-        "url": "https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88"
-      },
-      "artists": [
-        {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
-        }
-      ],
-      "duration_ms": 223160,
-      "name": "Llorar",
-      "url": "https://open.spotify.com/track/2f9XA7pBMjrHPO2cJW5XCu"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
         "name": "Corazon de Acero",
         "url": "https://open.spotify.com/album/7zmiGWH2pYNvtBzCI1WKh5"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 225953,
       "name": "Corazon de Acero",
       "url": "https://open.spotify.com/track/21nc3O8OncUv1jjSrC1ML2"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "Llorar",
+        "url": "https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88"
+      },
+      "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/2f9XA7pBMjrHPO2cJW5XCu"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "Grupo Ca\u00f1averal, Vol. 3",
-        "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 238236,
-      "name": "Tiene Espinas El Rosal",
-      "url": "https://open.spotify.com/track/1JO6kEdXrxBq9QobefZg0H"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
         "name": "Euphoria (Standard US/Latin version)",
         "url": "https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 200346,
       "name": "Cuando Me Enamoro",
       "url": "https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "Grupo Ca\u00f1averal, Vol. 3",
+        "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 238236,
+      "name": "Tiene Espinas El Rosal",
+      "url": "https://open.spotify.com/track/1JO6kEdXrxBq9QobefZg0H"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
-        }
-      ],
-      "duration_ms": 217586,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
         "name": "Guaracha Sabrosona",
         "url": "https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 219026,
       "name": "Guaracha Sabrosona",
       "url": "https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+        }
+      ],
+      "duration_ms": 217586,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "De Qu\u00e9 Manera",
-        "url": "https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "De Qu\u00e9 Manera",
-      "url": "https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
         "name": "De Buenos Aires Para El Mundo",
         "url": "https://open.spotify.com/album/6lWHI43OEAIWn0gfMxwvZE"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 221346,
       "name": "Amor A Primera Vista",
       "url": "https://open.spotify.com/track/5Myb8S90Wg0yLec5kmrIGJ"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "De Qu\u00e9 Manera",
+        "url": "https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "De Qu\u00e9 Manera",
+      "url": "https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
-        "url": "https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "El List\u00f3n De Tu Pelo",
-      "url": "https://open.spotify.com/track/4gPBK5eYojAxc2SldHkvTo"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
         "name": "A.B. Quintanilla III Presents Kumbia Kings Greatest Hits \"Album Versions\"",
         "url": "https://open.spotify.com/album/1RGWEZOK9E2fH75E6D3cqZ"
       },
@@ -1471,22 +1455,6 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "Amor, Familia Y Respeto",
-        "url": "https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ"
-      },
-      "artists": [
-        {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Te Quiero A T\u00ed",
-      "url": "https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
         "name": "2 Grandes de la Salsa Vol. 4",
         "url": "https://open.spotify.com/album/0eoWrfcaxarOASMm50HE7s"
       },
@@ -1499,6 +1467,38 @@
       "duration_ms": 251253,
       "name": "Tu Cari\u00f1ito",
       "url": "https://open.spotify.com/track/2kBgJXGbVA6WcA40IFA9KF"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
+        "url": "https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "El List\u00f3n De Tu Pelo",
+      "url": "https://open.spotify.com/track/4gPBK5eYojAxc2SldHkvTo"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "Amor, Familia Y Respeto",
+        "url": "https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Te Quiero A T\u00ed",
+      "url": "https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
-        "url": "https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 267613,
-      "name": "C\u00f3mo Te Voy A Olvidar",
-      "url": "https://open.spotify.com/track/6ltYnjVswCQtRdxmRjCG35"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
         "name": "No Lo Compren",
         "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 215524,
       "name": "Yo Quiero Chupar",
       "url": "https://open.spotify.com/track/1xKdSekba1TL5gP7CAMNTT"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
+        "url": "https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 267613,
+      "name": "C\u00f3mo Te Voy A Olvidar",
+      "url": "https://open.spotify.com/track/6ltYnjVswCQtRdxmRjCG35"
     },
     {
       "added_at": "2023-08-14 15:51:23",

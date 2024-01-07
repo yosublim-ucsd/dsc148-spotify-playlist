@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 
 > Hand\-curated cuts from the vault, no record player required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,676 likes - 75 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,767 likes - 75 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 37 | [Clarity](https://open.spotify.com/track/6ynQ0rykKOYSB75YxI0FrT) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [Model Man](https://open.spotify.com/album/5K6zprAN97GLwBpDxiRgK4) | 4:05 |
 | 38 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 |
 | 39 | [Shadows](https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Shadows](https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0) | 4:45 |
-| 40 | [Greener](https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:54 |
-| 41 | [Nightrider](https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Nightrider](https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l) | 5:00 |
-| 42 | [Summon The Fire](https://open.spotify.com/track/5c44MldQ2CvroamP73V1lp) | [The Comet Is Coming](https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU) | [Trust In The Lifeforce Of The Deep Mystery](https://open.spotify.com/album/2mvz0NPBCPTbSEgRViuDLK) | 3:55 |
-| 43 | [Imagineering](https://open.spotify.com/track/3s768KxqbbRHoOcIt4FDSN) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Shout Out! To Freedom...](https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio) | 4:34 |
+| 40 | [Nightrider](https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Nightrider](https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l) | 5:00 |
+| 41 | [Greener](https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:54 |
+| 42 | [Imagineering](https://open.spotify.com/track/3s768KxqbbRHoOcIt4FDSN) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Shout Out! To Freedom...](https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio) | 4:34 |
+| 43 | [Summon The Fire](https://open.spotify.com/track/5c44MldQ2CvroamP73V1lp) | [The Comet Is Coming](https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU) | [Trust In The Lifeforce Of The Deep Mystery](https://open.spotify.com/album/2mvz0NPBCPTbSEgRViuDLK) | 3:55 |
 | 44 | [Do What You Gotta Do](https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [The Very Best Of Nina Simone 1967\-1972 \- Sugar In My Bowl](https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj) | 3:34 |
 | 45 | [Take Five](https://open.spotify.com/track/0t0F3Qyt3kKFU7rGxKa02t) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [Dub Reggae](https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS) | 3:38 |
 | 46 | [Human Shape](https://open.spotify.com/track/6bUchdGcZj2k1iLjTHm6kR) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [DREAM SOUP](https://open.spotify.com/album/4rDFEnOjCq5M7JGCd2KIPP) | 3:26 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 55 | [Harm](https://open.spotify.com/track/3k29pw2omntASGkzIqYMnC) | [Beacon](https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl) | [Along the Lethe](https://open.spotify.com/album/3cwJeTW8Fcv5zvJ180UBaP) | 4:26 |
 | 56 | [Jazz, Vol\. 1](https://open.spotify.com/track/5QqLqt8iHJIJOvXXxcLXvw) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [Jazz, Vol\. 1](https://open.spotify.com/album/4xGe2QuoGL5Wc5O3Uk9SiA) | 6:37 |
 | 57 | [Dearest Alfred \(MyJoy\)](https://open.spotify.com/track/09QrWF1BFYe8Inkh9Al5ye) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Mordechai Remixes](https://open.spotify.com/album/2WKWg3fF8dwCXt4qPDHdYG) | 3:15 |
-| 58 | [Wind Parade](https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Wind Parade](https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV) | 4:48 |
-| 59 | [I Know](https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [OnlyL](https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU) | 4:48 |
+| 58 | [I Know](https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [OnlyL](https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU) | 4:48 |
+| 59 | [Wind Parade](https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Wind Parade](https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV) | 4:48 |
 | 60 | [Ozu](https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y) | [Diego E.P.](https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI) | 3:41 |
 | 61 | [Deceptacon \(DFA Rmx\) By Tim Goldsworthy & James Murphy for the Dfa](https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Remix](https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6) | 6:24 |
 | 62 | [Maiysha \(So Long\) \(feat\. Erykah Badu\)](https://open.spotify.com/track/1q2Jzd23O49Crk91Rijl7Y) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Everything's Beautiful](https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh) | 7:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 74 | [The Sweetest Pain](https://open.spotify.com/track/0Qlbpljv5ZRlxRaYYnsvih) | [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt) | [Time Is Slipping Away](https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft) | 5:45 |
 | 75 | [Age Of Ascent](https://open.spotify.com/track/4xFOvGNluJ08G3JM73rwbU) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Age Of Ascent](https://open.spotify.com/album/1Nd4fQbsxZQUnLjSCLc4ud) | 4:58 |
 
-Snapshot ID: `MCw1ODEyMTM5Yjk5ZDdmZTliZDk0ODI4ZWVlNWRmOWY0NjAyMjYxNDU3`
+Snapshot ID: `MCxjYTlkOWU1YjhkY2VlYjc0ODIwZDRiZWFhMTVlZWUzYjQzZDYyMjg1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Kid Yugi, Simba La Rue e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,338 likes - 85 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,381 likes - 85 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 27 | [NEXUS](https://open.spotify.com/track/6gYYDl8SWiTVpcIs1nKnLT) | [Hani](https://open.spotify.com/artist/4kuGWktJ7E7vy1Ttz5QNv4), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [NEXUS](https://open.spotify.com/album/3EYXT7xTw6rUUnKpCmgMIY) | 3:02 |
 | 28 | [Silenziatore](https://open.spotify.com/track/5lOFZGpEsOzgnGJBcQBIgV) | [Zero Three](https://open.spotify.com/artist/0OVSsVWtFvjJyBR0XvpinI), [Rox is Here](https://open.spotify.com/artist/13HqsTAccw3xoINURqecVX) | [La Voce Degli Ultimi](https://open.spotify.com/album/3YOAsqx5UpDwKesKRpZlYe) | 2:24 |
 | 29 | [Ciò che amo scompare](https://open.spotify.com/track/4LuNkSBfFtBeTIxTm5K574) | [Rayan Seventeen17](https://open.spotify.com/artist/3nao1CmUhdK0OZ8XvT0X1S) | [Ciò che amo scompare](https://open.spotify.com/album/0GiTA6omGkGDWyEvuLyw9r) | 3:03 |
-| 30 | [Prima Scelta](https://open.spotify.com/track/3YkAL3DOX3VZXV8TZRco65) | [Mastafive](https://open.spotify.com/artist/5j8VwVgzqtJ8FG4KcLGvMb), [Fabio Musta](https://open.spotify.com/artist/3Vs92UM95pMntUzaAkLc4w), [Oyoshe](https://open.spotify.com/artist/6t49JCW50szpbRh9TuX2s8), [Strike The Head](https://open.spotify.com/artist/03lD6rpJbH8I7yqHehDsMk), [Kenzie](https://open.spotify.com/artist/33y3zhFyQZ0DHVpoow1ka8) | [Prima Scelta](https://open.spotify.com/album/3zL3CYyDSutQCerTQ3bC3t) | 4:32 |
+| 30 | [Prima Scelta](https://open.spotify.com/track/3YkAL3DOX3VZXV8TZRco65) | [Mastafive](https://open.spotify.com/artist/5j8VwVgzqtJ8FG4KcLGvMb), [Fabio Musta](https://open.spotify.com/artist/3Vs92UM95pMntUzaAkLc4w), [Oyoshe](https://open.spotify.com/artist/6t49JCW50szpbRh9TuX2s8), [Strike The Head](https://open.spotify.com/artist/73z0OCKr558bQfMGcA2kIv), [Kenzie](https://open.spotify.com/artist/33y3zhFyQZ0DHVpoow1ka8) | [Prima Scelta](https://open.spotify.com/album/3zL3CYyDSutQCerTQ3bC3t) | 4:32 |
 | 31 | [DUE SCHELETRI](https://open.spotify.com/track/2dTT917bE6ywXxdHNIdxOa) | [BALDO!](https://open.spotify.com/artist/6NI9yyq9Mg1aFlvFiI4u1t), [EnimraK](https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf) | [DUE SCHELETRI](https://open.spotify.com/album/7F03oNHRu9CyuL05scgWpR) | 2:37 |
 | 32 | [AGGRESSIVO](https://open.spotify.com/track/6Sp2ts4Bw7nJ7PtjvT95XY) | [ASTA](https://open.spotify.com/artist/52eUIqgITKSjUGI9EkUN8t) | [AGGRESSIVO](https://open.spotify.com/album/4HOyJ072l8APG1YNFlQvRI) | 2:32 |
 | 33 | [Puntini Freestyle](https://open.spotify.com/track/5c2EUmqdkkSJuQbtJfx6RT) | [Noemi Coozy](https://open.spotify.com/artist/0PDAJtFlTKotT8i0mu1THx), [DJ D Rock](https://open.spotify.com/artist/4Z7GzBUGDLUAHBlVZX3ukV) | [Puntini Freestyle](https://open.spotify.com/album/2H4HO5rbtgnKTlpwSjMfYM) | 2:11 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 84 | [TEMPOS](https://open.spotify.com/track/3dlQLRb8iCUmO6flLKFUqr) | [Frè Santino](https://open.spotify.com/artist/3MIoS14sJVIubungwKvKeD), [Fylo Gone](https://open.spotify.com/artist/0QqAc7iy2NHaXau92xYFBd), [Rectone](https://open.spotify.com/artist/1gqNhaw9UdQtDl78eiEhpC) | [TEMPOS](https://open.spotify.com/album/3qhyDWOVpwRE1jgDJBJLsP) | 3:12 |
 | 85 | [TACHANKA](https://open.spotify.com/track/62UkfLanwJ3jBfQa7QZScR) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr), [Ed Mars](https://open.spotify.com/artist/26LV5lhRjmkGpyqoi2hVB3) | [TACHANKA](https://open.spotify.com/album/0Eb4CSKVneypXslPypCrJY) | 1:55 |
 
-Snapshot ID: `MCwwYzI0ODQ4MDg4MGJmMGJmMGI2MGIxZDZkMjEwYjI1MDRmNjM4ODY0`
+Snapshot ID: `MCwxMWRlMTNlNDVmNDNlODU1ZDY3OGI1ZDc5NzEyNzNmMzUyMTc3NTU5`

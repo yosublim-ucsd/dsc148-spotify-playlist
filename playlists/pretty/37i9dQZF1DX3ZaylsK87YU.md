@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,332 likes - 100 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,349 likes - 100 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,18 +42,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 32 | [Tremble](https://open.spotify.com/track/5yNffCuv0YGOgRazVMfEP6) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Tremble](https://open.spotify.com/album/666rMVpgsHjVdU4OMbstAz) | 3:58 |
 | 33 | [Called Me Higher](https://open.spotify.com/track/23AX1TW2CCpmqXtktvYe42) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [The Longing EP No\. 3](https://open.spotify.com/album/6FtPavcTVLGwBth2axzR9I) | 5:55 |
 | 34 | [Oh, the Deep, Deep Love of Jesus \(feat\. Fernando Ortega\)](https://open.spotify.com/track/0h5C31CdrgABjHATYcBq6e) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw), [Fernando Ortega](https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp) | [Inheritance](https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH) | 2:37 |
-| 35 | [All Glory Be to Christ](https://open.spotify.com/track/02GNfO1O7d0Rx3tGcvfuIP) | [Kings \(MHM\)](https://open.spotify.com/artist/64bkd3Cql2VeQBIfl5tjCC) | [Joy Has Dawned](https://open.spotify.com/album/7jfGMR3tcoRYefoNxst4w8) | 4:06 |
-| 36 | [How He Loves Us](https://open.spotify.com/track/2dyYBCVgOZTCYe6QvYhSsN) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 3](https://open.spotify.com/album/2qqe9Y7HEiUE4SKIa9EEgQ) | 4:50 |
+| 35 | [How He Loves Us](https://open.spotify.com/track/2dyYBCVgOZTCYe6QvYhSsN) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 3](https://open.spotify.com/album/2qqe9Y7HEiUE4SKIa9EEgQ) | 4:50 |
+| 36 | [All Glory Be to Christ](https://open.spotify.com/track/02GNfO1O7d0Rx3tGcvfuIP) | [Kings \(MHM\)](https://open.spotify.com/artist/64bkd3Cql2VeQBIfl5tjCC) | [Joy Has Dawned](https://open.spotify.com/album/7jfGMR3tcoRYefoNxst4w8) | 4:06 |
 | 37 | [The Old Rugged Cross](https://open.spotify.com/track/4jTPlQp1YnJFmP3tIzLcmN) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Precious Memories](https://open.spotify.com/album/010wiwXUvegsmlERAv7vMe) | 3:06 |
 | 38 | [Fall Afresh](https://open.spotify.com/track/42TAP4olyZONFmNT48O10D) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [The Loft Sessions](https://open.spotify.com/album/4gpwBS3FpUuSPfrV8D9Bqr) | 4:24 |
 | 39 | [Who Would Have Dreamed](https://open.spotify.com/track/4jTuubX6rorxTmB2sAz6qf) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Prepare Him Room: Celebrating the Birth of Jesus in Song](https://open.spotify.com/album/3HouSjml2OClLww1sAKA0W) | 3:52 |
 | 40 | [Because He Lives \(Amen\)](https://open.spotify.com/track/4vhKRjmiboAhfunCabpXap) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Saints and Sinners](https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP) | 3:19 |
-| 41 | [Heart of Worship](https://open.spotify.com/track/1ZeRu0bj5lCsD0Vh8hpM6I) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 9](https://open.spotify.com/album/3aeBnj6TtXewcHW50wUwP1) | 5:06 |
-| 42 | [Grace Alone](https://open.spotify.com/track/5ufigJk0mtxqgWUsQ0PzwS) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Becoming Who We Are](https://open.spotify.com/album/6BPm1T672Bd3SR0PnyLRif) | 3:38 |
+| 41 | [Grace Alone](https://open.spotify.com/track/5ufigJk0mtxqgWUsQ0PzwS) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Becoming Who We Are](https://open.spotify.com/album/6BPm1T672Bd3SR0PnyLRif) | 3:38 |
+| 42 | [Heart of Worship](https://open.spotify.com/track/1ZeRu0bj5lCsD0Vh8hpM6I) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 9](https://open.spotify.com/album/3aeBnj6TtXewcHW50wUwP1) | 5:06 |
 | 43 | [How Great Thou Art](https://open.spotify.com/track/1SnZi2eVU2kcXRNJT6ek4J) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 1](https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF) | 4:54 |
 | 44 | [You Alone \- Live](https://open.spotify.com/track/6IXrJrsj1sfISLs8mIJRrX) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Hear \(Live\)](https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL) | 6:04 |
-| 45 | [All Hail King Jesus](https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy) | [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [More](https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx) | 8:17 |
-| 46 | [Just Be](https://open.spotify.com/track/65O1Ry1edYOixyVOCXXY7R) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Just Be](https://open.spotify.com/album/3HHaO3Bpaf6UEt225M55Us) | 4:33 |
+| 45 | [Just Be](https://open.spotify.com/track/65O1Ry1edYOixyVOCXXY7R) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Just Be](https://open.spotify.com/album/3HHaO3Bpaf6UEt225M55Us) | 4:33 |
+| 46 | [All Hail King Jesus](https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy) | [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [More](https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx) | 8:17 |
 | 47 | [Oceans \(Where Feet May FaiI\)](https://open.spotify.com/track/18q8W11QNDEfhYIxwypTQK) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Campfire II: Simplicity](https://open.spotify.com/album/6M534LEjzYqHmV0afXaHZm) | 4:43 |
 | 48 | [Come Thou Fount](https://open.spotify.com/track/4KWqsra7XbtEdZTPYT1ZVJ) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Asaph's Arrows \- EP](https://open.spotify.com/album/1GHtYOjEg073oStqoan99K) | 4:56 |
 | 49 | [Behold Our God](https://open.spotify.com/track/5wtsUVV88h9jhtF4mOgxNN) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Risen](https://open.spotify.com/album/5g3hGU7hr02kjuEUUiLQLz) | 5:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 99 | [You Are My All In All](https://open.spotify.com/track/28WU7koB2YsCtoTfsGwOb9) | [Brooke Griffith](https://open.spotify.com/artist/4fnlaDM9xpbXlqwiZhS4un) | [Even So Come: A Worship Album](https://open.spotify.com/album/5xc8W0sOrOt2FvVS0uyztz) | 5:18 |
 | 100 | [Oh What a Father](https://open.spotify.com/track/3o7URX1AsYvYSbNPxfUbD1) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Morning Sun, Rising Tide](https://open.spotify.com/album/37U27IBkwWHn9hHZXUZJ5Q) | 3:56 |
 
-Snapshot ID: `MCw2ZDAyY2Y1MmU2NDY5YWU1NGJjZjhmZjM2ZjI4MGQzODNiMDI4MWQ5`
+Snapshot ID: `MCw4YmFjMjAxOTIwOTg5NWFkYzFmNjE3MmJhMThiMTdlZjVjODQyOWFl`

@@ -1,12 +1,12 @@
 {
   "description": "you up?",
-  "num_followers": 1634928,
+  "num_followers": 1635959,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGEzMWE1ZDE1MmM0ZjhkODJkZTE3NjVjMjkzNmQxNTA1N2QyNWQ3",
+  "snapshot_id": "MCw1ODdiY2ZmZWY0YTc0NjBiNzc3ZWFjNzEwYWY4NmQ1YzRmYTY4YjUz",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -967,18 +967,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "rapunzel",
-        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
+        "name": "Nostalgia - EP",
+        "url": "https://open.spotify.com/album/4hZ8kmFKSmguXiWpGjUzcF"
       },
       "artists": [
         {
-          "name": "dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
         }
       ],
-      "duration_ms": 171743,
-      "name": "double take",
-      "url": "https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny"
+      "duration_ms": 230010,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/7uDUb37h7Xdhza1eWMkoJv"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Nostalgia - EP",
-        "url": "https://open.spotify.com/album/4hZ8kmFKSmguXiWpGjUzcF"
+        "name": "rapunzel",
+        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
       },
       "artists": [
         {
-          "name": "Chase Atlantic",
-          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
         }
       ],
-      "duration_ms": 230010,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/7uDUb37h7Xdhza1eWMkoJv"
+      "duration_ms": 171743,
+      "name": "double take",
+      "url": "https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Chase Atlantic",
+        "url": "https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd"
+      },
+      "artists": [
+        {
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        }
+      ],
+      "duration_ms": 196767,
+      "name": "Into It",
+      "url": "https://open.spotify.com/track/4HwDCXsMBC7SUdp2WT4MZP"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "T R A P S O U L",
         "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
       },
@@ -1167,22 +1183,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Chase Atlantic",
-        "url": "https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd"
-      },
-      "artists": [
-        {
-          "name": "Chase Atlantic",
-          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
-        }
-      ],
-      "duration_ms": 196767,
-      "name": "Into It",
-      "url": "https://open.spotify.com/track/4HwDCXsMBC7SUdp2WT4MZP"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "The Best of Sade",
         "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
       },
@@ -1211,6 +1211,26 @@
       "duration_ms": 212992,
       "name": "Poison",
       "url": "https://open.spotify.com/track/5NijSs5dAwaIybq1GaRTIe"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Chase Atlantic",
+        "url": "https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd"
+      },
+      "artists": [
+        {
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        },
+        {
+          "name": "GOON DES GARCONS*",
+          "url": "https://open.spotify.com/artist/5WyJhpNewRPUahSlrxkOeR"
+        }
+      ],
+      "duration_ms": 267920,
+      "name": "Consume (feat. Goon Des Garcons)",
+      "url": "https://open.spotify.com/track/0X2bh8NVQ8svDQIn2AdCbW"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1319,22 +1339,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Cry",
-        "url": "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 286773,
-      "name": "Heavenly",
-      "url": "https://open.spotify.com/track/70YTBH8vOGJNMhy6186yFm"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "WASTELAND",
         "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
       },
@@ -1351,22 +1355,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Chase Atlantic",
-        "url": "https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd"
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy"
       },
       "artists": [
         {
-          "name": "Chase Atlantic",
-          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
-        },
-        {
-          "name": "GOON DES GARCONS*",
-          "url": "https://open.spotify.com/artist/5WyJhpNewRPUahSlrxkOeR"
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         }
       ],
-      "duration_ms": 267920,
-      "name": "Consume (feat. Goon Des Garcons)",
-      "url": "https://open.spotify.com/track/0X2bh8NVQ8svDQIn2AdCbW"
+      "duration_ms": 286773,
+      "name": "Heavenly",
+      "url": "https://open.spotify.com/track/70YTBH8vOGJNMhy6186yFm"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "The Lo-Fis",
+        "url": "https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 90708,
+      "name": "Uuuu",
+      "url": "https://open.spotify.com/track/6M0EP76qW9TG4SNU0agu94"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 260640,
       "name": "No Guidance (feat. Drake)",
       "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "The Lo-Fis",
-        "url": "https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 90708,
-      "name": "Uuuu",
-      "url": "https://open.spotify.com/track/6M0EP76qW9TG4SNU0agu94"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "BABYDOLL",
-        "url": "https://open.spotify.com/album/5lB0QAZik2r9T51pB5gG0u"
+        "name": "First Steps",
+        "url": "https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc"
       },
       "artists": [
         {
-          "name": "Ari Abdul",
-          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
         }
       ],
-      "duration_ms": 196235,
-      "name": "BABYDOLL",
-      "url": "https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc"
+      "duration_ms": 129599,
+      "name": "Go Fuck Yourself",
+      "url": "https://open.spotify.com/track/4NZrZgrRoR4GwR7flWOXRI"
     }
   ],
   "unique_name": "goosebumps",

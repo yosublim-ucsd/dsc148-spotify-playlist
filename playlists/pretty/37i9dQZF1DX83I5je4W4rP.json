@@ -1,12 +1,12 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1064891,
+  "num_followers": 1064903,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDhlNjAwNGIzZjVjOWY2MmZjOWIzMWFlYzg0MTE2MWUxZGUyYWU4",
+  "snapshot_id": "MCxhODI0YTIwMjM0MmVhMDdiNjMyNzEyZmUzNjBiODU2NjkwOTUxMDRk",
   "tracks": [
     {
       "added_at": "2023-11-13 22:46:04",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
+        "name": "Ways Of The World",
+        "url": "https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q"
+      },
+      "artists": [
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        }
+      ],
+      "duration_ms": 270314,
+      "name": "Take Me To The Ocean",
+      "url": "https://open.spotify.com/track/6IjB7d4ciJaMt4TX9p8MhS"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
         "name": "A Thousand Times",
         "url": "https://open.spotify.com/album/1Ggg9w76ZhbqGlflz7PzR5"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 197183,
       "name": "A Thousand Times",
       "url": "https://open.spotify.com/track/05DVJrR6du2E1iU0p6izrC"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
-        "name": "Ways Of The World",
-        "url": "https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q"
-      },
-      "artists": [
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        }
-      ],
-      "duration_ms": 270314,
-      "name": "Take Me To The Ocean",
-      "url": "https://open.spotify.com/track/6IjB7d4ciJaMt4TX9p8MhS"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Early Prayers",
-        "url": "https://open.spotify.com/album/5hLSAVp5bafgKERpi5lWz6"
-      },
-      "artists": [
-        {
-          "name": "Tomorrows Bad Seeds",
-          "url": "https://open.spotify.com/artist/4CfFkWbFTygKAWZmSJML3D"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Bad Seeds",
-      "url": "https://open.spotify.com/track/1nAowDnk4GGdV4YsE08wd7"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
         "name": "Voyager",
         "url": "https://open.spotify.com/album/5PdXV8lvbR9xLOPYTdrDEG"
       },
@@ -1419,18 +1403,18 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/1BhcWtGeEgy2VrJsD29oDC"
+        "name": "Early Prayers",
+        "url": "https://open.spotify.com/album/5hLSAVp5bafgKERpi5lWz6"
       },
       "artists": [
         {
-          "name": "The Green",
-          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
+          "name": "Tomorrows Bad Seeds",
+          "url": "https://open.spotify.com/artist/4CfFkWbFTygKAWZmSJML3D"
         }
       ],
-      "duration_ms": 214933,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/4GQaGrECkozsbbjFEkTYL7"
+      "duration_ms": 166400,
+      "name": "Bad Seeds",
+      "url": "https://open.spotify.com/track/1nAowDnk4GGdV4YsE08wd7"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -1451,6 +1435,22 @@
       "duration_ms": 227440,
       "name": "Pacific Coast Highway (with Trevor Hall)",
       "url": "https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/1BhcWtGeEgy2VrJsD29oDC"
+      },
+      "artists": [
+        {
+          "name": "The Green",
+          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/4GQaGrECkozsbbjFEkTYL7"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -1767,22 +1767,18 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Kingdom (with The Movement)",
-        "url": "https://open.spotify.com/album/5fFphh4WF4FYahVze4kDFL"
+        "name": "Pleasure Point",
+        "url": "https://open.spotify.com/album/4z39wv4tx29BalyKnsy54i"
       },
       "artists": [
         {
-          "name": "Johnny Cosmic",
-          "url": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL"
-        },
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+          "name": "The Expendables",
+          "url": "https://open.spotify.com/artist/2OpHxx1SArSMlBrIMM0aV9"
         }
       ],
-      "duration_ms": 282323,
-      "name": "Kingdom (with The Movement)",
-      "url": "https://open.spotify.com/track/5K1MRub64kaJOUyWe8marJ"
+      "duration_ms": 232533,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/588pbWob0xei2cCO4GyIT9"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -1803,18 +1799,22 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Pleasure Point",
-        "url": "https://open.spotify.com/album/4z39wv4tx29BalyKnsy54i"
+        "name": "Kingdom (with The Movement)",
+        "url": "https://open.spotify.com/album/5fFphh4WF4FYahVze4kDFL"
       },
       "artists": [
         {
-          "name": "The Expendables",
-          "url": "https://open.spotify.com/artist/2OpHxx1SArSMlBrIMM0aV9"
+          "name": "Johnny Cosmic",
+          "url": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL"
+        },
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
         }
       ],
-      "duration_ms": 232533,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/588pbWob0xei2cCO4GyIT9"
+      "duration_ms": 282323,
+      "name": "Kingdom (with The Movement)",
+      "url": "https://open.spotify.com/track/5K1MRub64kaJOUyWe8marJ"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -2167,6 +2167,22 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
+        "name": "Message to the World",
+        "url": "https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3"
+      },
+      "artists": [
+        {
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+        }
+      ],
+      "duration_ms": 224807,
+      "name": "Message to the World",
+      "url": "https://open.spotify.com/track/3ks1SPDe8U2c6Yh5zLxXHt"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
         "name": "Departure",
         "url": "https://open.spotify.com/album/1hVbu9jTKeMS477FLE8tX5"
       },
@@ -2183,22 +2199,6 @@
       "duration_ms": 195143,
       "name": "Rollin' (with Eli Mac)",
       "url": "https://open.spotify.com/track/7KgeB13kf4VXVEOT4AVtBX"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
-        "name": "Message to the World",
-        "url": "https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3"
-      },
-      "artists": [
-        {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
-        }
-      ],
-      "duration_ms": 224807,
-      "name": "Message to the World",
-      "url": "https://open.spotify.com/track/3ks1SPDe8U2c6Yh5zLxXHt"
     },
     {
       "added_at": "2023-11-13 22:46:04",

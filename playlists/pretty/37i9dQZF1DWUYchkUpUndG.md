@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi?si=si8PlbKwQImG\-aY2t0V6lw>Enakeno</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,311 likes - 72 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,328 likes - 72 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 49 | [Lover](https://open.spotify.com/track/1HcqMS1TAfEO63KCPHoImM) | [Tklex](https://open.spotify.com/artist/3nqqTSStDMepotlsMSnbvL), [Steve Williz](https://open.spotify.com/artist/6btXkqPkFD0w39C299Gz2K) | [Lover](https://open.spotify.com/album/74S45VSfRUIjfu6lqgu8fv) | 3:43 |
 | 50 | [Moti Layo Ninu Jesu \- Morning Devotion Worship](https://open.spotify.com/track/0qTAM5a4NvWwdZbjh7s7TI) | [MFY](https://open.spotify.com/artist/4dvPRzH6QasT9GgHLthEeR), [Omosehin Omoniyi](https://open.spotify.com/artist/16ptBueZq1WFEZZtSpFQW0) | [Moti Layo Ninu Jesu \(Morning Devotion Worship\)](https://open.spotify.com/album/5KxaexHxPC7fNVCfzlhFjf) | 1:10 |
 | 51 | [On My Side](https://open.spotify.com/track/6cD4ZYiVBG8SY5RkYNp1hb) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3) | [On My Side](https://open.spotify.com/album/2CFRA2nKCsP3knq4wLo9LS) | 4:48 |
-| 52 | [WEMA WAKO](https://open.spotify.com/track/648vpdeDpI81eTAv50PtAi) | [Legends rw](https://open.spotify.com/artist/1vR8ffAiKwbxbowV9pfeII) | [WEMA WAKO](https://open.spotify.com/album/0H22tTMy3MiJ8IUfH3BJpD) | 8:56 |
+| 52 | [WEMA WAKO](https://open.spotify.com/track/648vpdeDpI81eTAv50PtAi) | [Legends rw](https://open.spotify.com/artist/1vR8ffAiKwbxbowV9pfeII), [Swahili gospel](https://open.spotify.com/artist/0ciopEXIFeOEEzCOYeoMmI) | [WEMA WAKO](https://open.spotify.com/album/0H22tTMy3MiJ8IUfH3BJpD) | 8:56 |
 | 53 | [Eze](https://open.spotify.com/track/2WPlwhva66L7RVM071G24M) | [Steve Elite](https://open.spotify.com/artist/47VkiDb1iXeoDfDrebngyk), [Prinx Bassey](https://open.spotify.com/artist/3suV6IoKeFCvB4lnZPIGfb) | [Yahweh Exalted](https://open.spotify.com/album/7LFDE64BzJvWDJBtnL7vT5) | 4:23 |
 | 54 | [CALL ME](https://open.spotify.com/track/4fKIHUX9E3Albm1fwSUNJY) | [PdG](https://open.spotify.com/artist/0fWEQsOZHEv4oFsB2m9I4Q) | [CALL ME](https://open.spotify.com/album/1UGCnEpFeDEz6NaGhbmTGH) | 3:03 |
 | 55 | [Aseda](https://open.spotify.com/track/64iTbJSLREPYjH4ns9dL6y) | [Ohene Adu](https://open.spotify.com/artist/1RcMjMMgZdII1ggPN0h8YP) | [Aseda](https://open.spotify.com/album/5a9MWMrtwf4LOxPHtR2C9B) | 3:31 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 71 | [Little Red Dark](https://open.spotify.com/track/7bxK0v9jWGyAd8yLI7NQK6) | [Believe Over Hope](https://open.spotify.com/artist/45HeQ1bYL6ppU2JdBmBKc8) | [Jesus is Still King](https://open.spotify.com/album/4wigFYTRf5qd3ayITQDe4r) | 3:22 |
 | 72 | [Joy in Chaos \- Speed up](https://open.spotify.com/track/4sUCvWFYCxyGdSPUbsDU4I) | [Kourage Beatz NSI](https://open.spotify.com/artist/01wazsLDLOeJgUmj3306u3), [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j) | [Joy in Chaos \(Speed up\)](https://open.spotify.com/album/39r34IYHOrsdwPjrDRNEyp) | 1:10 |
 
-Snapshot ID: `MCw3NjgyNmI3M2U4NTFhZGYwZGE3MjhmNGFhOGFjNjIzYTRkNjMyNGFk`
+Snapshot ID: `MCw5ZjI3YTJhMjJiODI1ODk4ZTE4ZmNkMGZlZjgwZGU2N2Y3NzVlMDgx`

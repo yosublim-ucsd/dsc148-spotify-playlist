@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 
 > Lagu\-lagu Pop untuk teman bersantai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,063 likes - 80 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,284 likes - 80 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 74 | [Penantian Berharga](https://open.spotify.com/track/16kiuKjacDC4bFX9flnLA6) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Penantian Berharga](https://open.spotify.com/album/4qsujxuNSgTvt6xd8oMvt1) | 3:38 |
 | 75 | [Menghujam Jantungku](https://open.spotify.com/track/6VmfI8TnfhrFHqImmvubvZ) | [Tompi](https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G) | [My Happy Life](https://open.spotify.com/album/26dXMvMY7SSrfGfvMYFmxe) | 3:33 |
 | 76 | [Selaras](https://open.spotify.com/track/7kZ4uU7cO2Y36XWmuwEOW0) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy), [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Selaras](https://open.spotify.com/album/1b1QRGjDS4CHogOBBCLWOg) | 4:33 |
-| 77 | [Kali Kedua](https://open.spotify.com/track/4CvYHgcpBFbefsz6Q55ID1) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Handmade](https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY) | 4:17 |
-| 78 | [COBA CINTAKU](https://open.spotify.com/track/4lehCx6bf5uarWHvhw9XGx) | [UN1TY](https://open.spotify.com/artist/6W2D6VJjmJwdtzoYZIhmSK) | [COBA CINTAKU](https://open.spotify.com/album/2ydSDu6C3zj9jT9ukPmxhp) | 3:26 |
+| 77 | [COBA CINTAKU](https://open.spotify.com/track/4lehCx6bf5uarWHvhw9XGx) | [UN1TY](https://open.spotify.com/artist/6W2D6VJjmJwdtzoYZIhmSK) | [COBA CINTAKU](https://open.spotify.com/album/2ydSDu6C3zj9jT9ukPmxhp) | 3:26 |
+| 78 | [Kali Kedua](https://open.spotify.com/track/4CvYHgcpBFbefsz6Q55ID1) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Handmade](https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY) | 4:17 |
 | 79 | [Belum Siap Kehilangan](https://open.spotify.com/track/7KXVbdLU70pHjYsVZg47KO) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Harapan](https://open.spotify.com/album/7qKEG7EhkXFNfwGdxgPp77) | 4:48 |
 | 80 | [Rayu](https://open.spotify.com/track/4rAWADK2zYdjx2ar2Hp1C8) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5), [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm) | [Marion](https://open.spotify.com/album/0YDzTzUpaEBrltZExIKqKz) | 3:41 |
 
-Snapshot ID: `MCw2YmE5MzM5OGJiMzlmMWNlMmIxMjI3ODU4ZjQwZDRlZTQzNzI0ODZj`
+Snapshot ID: `MCwzNTg1YWY2ZjVhM2JlOTkxMThiZjM2MDM3MTQ4NjQ0ZGU1MmZjZTg4`

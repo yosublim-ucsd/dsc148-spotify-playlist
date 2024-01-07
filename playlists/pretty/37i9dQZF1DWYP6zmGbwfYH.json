@@ -1,12 +1,12 @@
 {
   "description": "El icuiricui, el matalacachimba y el ruletero.",
-  "num_followers": 256956,
+  "num_followers": 257072,
   "original_name": "Ruleteando",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTMyYTEzZWZhNmJkN2MyM2MyMDg0MTVhNTRkMzgzMTIyYWY4OTg3",
+  "snapshot_id": "MCw3YjY0NjlkY2RlNjIxNjU1YzJkYTZhMWEwZjZmY2Y2ODMxODYxZGRk",
   "tracks": [
     {
       "added_at": "2023-11-09 22:36:13",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-11-09 22:36:13",
       "album": {
-        "name": "Grupo Ca\u00f1averal, Vol. 3",
-        "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 238236,
-      "name": "Tiene Espinas El Rosal",
-      "url": "https://open.spotify.com/track/1JO6kEdXrxBq9QobefZg0H"
-    },
-    {
-      "added_at": "2023-11-09 22:36:13",
-      "album": {
         "name": "Mi Mexico Querido",
         "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 212776,
       "name": "Ramito De Violetas",
       "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
+    },
+    {
+      "added_at": "2023-11-09 22:36:13",
+      "album": {
+        "name": "Grupo Ca\u00f1averal, Vol. 3",
+        "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 238236,
+      "name": "Tiene Espinas El Rosal",
+      "url": "https://open.spotify.com/track/1JO6kEdXrxBq9QobefZg0H"
     },
     {
       "added_at": "2023-11-09 22:36:13",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-11-09 22:36:13",
       "album": {
-        "name": "Con La Fuerza Del Destino",
-        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 177106,
-      "name": "C\u00f3mo Est\u00e1s T\u00fa",
-      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
-    },
-    {
-      "added_at": "2023-11-09 22:36:13",
-      "album": {
         "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
         "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 177853,
       "name": "Supe Perder",
       "url": "https://open.spotify.com/track/6NUoNxL3tWnICLhFQ5obEW"
+    },
+    {
+      "added_at": "2023-11-09 22:36:13",
+      "album": {
+        "name": "Con La Fuerza Del Destino",
+        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "C\u00f3mo Est\u00e1s T\u00fa",
+      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
     },
     {
       "added_at": "2023-11-09 22:36:13",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-11-09 22:36:13",
       "album": {
+        "name": "Culpable T\u00fa",
+        "url": "https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC"
+      },
+      "artists": [
+        {
+          "name": "Alta Consigna",
+          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
+        }
+      ],
+      "duration_ms": 155513,
+      "name": "Te Deseo Lo Mejor",
+      "url": "https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX"
+    },
+    {
+      "added_at": "2023-11-09 22:36:13",
+      "album": {
         "name": "No Me Llames Mas",
         "url": "https://open.spotify.com/album/1kGauj7au3yzXtrajKOnjd"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 201084,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
-    },
-    {
-      "added_at": "2023-11-09 22:36:13",
-      "album": {
-        "name": "Culpable T\u00fa",
-        "url": "https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC"
-      },
-      "artists": [
-        {
-          "name": "Alta Consigna",
-          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
-        }
-      ],
-      "duration_ms": 155513,
-      "name": "Te Deseo Lo Mejor",
-      "url": "https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX"
     },
     {
       "added_at": "2023-11-09 22:36:13",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-11-09 22:36:13",
       "album": {
-        "name": "De Mil Maneras",
-        "url": "https://open.spotify.com/album/2KY2R606LkTJcyDy0pPGc8"
-      },
-      "artists": [
-        {
-          "name": "Sonora Siguaray",
-          "url": "https://open.spotify.com/artist/5mJH0BUCHkK1xHYde4pAgv"
-        }
-      ],
-      "duration_ms": 246733,
-      "name": "Que Nadie Sepa Mi Sufrir",
-      "url": "https://open.spotify.com/track/746BX8eh7gTFJUaVwF3Hpk"
-    },
-    {
-      "added_at": "2023-11-09 22:36:13",
-      "album": {
         "name": "Mi Vida En Vida",
         "url": "https://open.spotify.com/album/6D6J6D5iAAwZq3zx7aTl6t"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 221933,
       "name": "Nadie",
       "url": "https://open.spotify.com/track/78Lv54mlazogTRDzzFXk03"
+    },
+    {
+      "added_at": "2023-11-09 22:36:13",
+      "album": {
+        "name": "De Mil Maneras",
+        "url": "https://open.spotify.com/album/2KY2R606LkTJcyDy0pPGc8"
+      },
+      "artists": [
+        {
+          "name": "Sonora Siguaray",
+          "url": "https://open.spotify.com/artist/5mJH0BUCHkK1xHYde4pAgv"
+        }
+      ],
+      "duration_ms": 246733,
+      "name": "Que Nadie Sepa Mi Sufrir",
+      "url": "https://open.spotify.com/track/746BX8eh7gTFJUaVwF3Hpk"
     },
     {
       "added_at": "2023-11-09 22:36:13",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-11-09 22:36:13",
       "album": {
-        "name": "La Otra Cara De La Moneda",
-        "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 245693,
-      "name": "La Otra Cara De La Moneda",
-      "url": "https://open.spotify.com/track/6hwTRoFaQzmkbvh4tOoVpV"
-    },
-    {
-      "added_at": "2023-11-09 22:36:13",
-      "album": {
         "name": "M\u00e1rchate Y Olv\u00eddame",
         "url": "https://open.spotify.com/album/1laTU2tuhmcjEaZHCgwOiP"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 202920,
       "name": "Nuestra Canci\u00f3n",
       "url": "https://open.spotify.com/track/6t86si8IaIgLHEuZnaha33"
+    },
+    {
+      "added_at": "2023-11-09 22:36:13",
+      "album": {
+        "name": "La Otra Cara De La Moneda",
+        "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 245693,
+      "name": "La Otra Cara De La Moneda",
+      "url": "https://open.spotify.com/track/6hwTRoFaQzmkbvh4tOoVpV"
     },
     {
       "added_at": "2023-11-09 22:36:13",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2023-11-09 22:36:13",
       "album": {
+        "name": "Album de Oro",
+        "url": "https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE"
+      },
+      "artists": [
+        {
+          "name": "Los Acosta",
+          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
+        }
+      ],
+      "duration_ms": 208640,
+      "name": "Voy a pintar un coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6ztkxjvne5bjzUUnoskShx"
+    },
+    {
+      "added_at": "2023-11-09 22:36:13",
+      "album": {
         "name": "Mi Historia",
         "url": "https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 190173,
       "name": "Tonta",
       "url": "https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A"
-    },
-    {
-      "added_at": "2023-11-09 22:36:13",
-      "album": {
-        "name": "Album de Oro",
-        "url": "https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE"
-      },
-      "artists": [
-        {
-          "name": "Los Acosta",
-          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
-        }
-      ],
-      "duration_ms": 208640,
-      "name": "Voy a pintar un coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6ztkxjvne5bjzUUnoskShx"
     },
     {
       "added_at": "2023-11-09 22:36:13",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2023-11-09 22:36:13",
       "album": {
-        "name": "Yo Vendo Unos Ojos Verdes",
-        "url": "https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Prefiero Partir",
-      "url": "https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p"
-    },
-    {
-      "added_at": "2023-11-09 22:36:13",
-      "album": {
         "name": "Con Banda",
         "url": "https://open.spotify.com/album/4YW3MI0CtpgW1ogAtfLIV5"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 157600,
       "name": "D\u00e9jenme llorar - Con banda",
       "url": "https://open.spotify.com/track/6MpWEoDk1S8oJJaEga4DiP"
+    },
+    {
+      "added_at": "2023-11-09 22:36:13",
+      "album": {
+        "name": "Yo Vendo Unos Ojos Verdes",
+        "url": "https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Prefiero Partir",
+      "url": "https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p"
     },
     {
       "added_at": "2023-11-09 22:36:13",

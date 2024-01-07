@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: YOVNGCHIMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,520,132 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,520,193 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 26 | [GIVENCHY](https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [GIVENCHY](https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx) | 3:02 |
 | 27 | [TU$$I \(with Dei V\)](https://open.spotify.com/track/5sRLuy3aeAq8MaiZwK92Dn) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [TU$$I \(with Dei V\)](https://open.spotify.com/album/6hcobkxdWIAXzj6OYfjlWo) | 2:43 |
 | 28 | [Arcángel: Bzrp Music Sessions, Vol\. 54](https://open.spotify.com/track/7cQ0LAxT5HHCLGbxcjaxac) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Arcángel: Bzrp Music Sessions, Vol\. 54](https://open.spotify.com/album/3Bj4v1YmWsctoEsSkEPg63) | 3:43 |
-| 29 | [Single](https://open.spotify.com/track/7cBSPzz0kNgc1ghLddrDxZ) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Single](https://open.spotify.com/album/1lfjZUYySyfNnrpntQHVYW) | 2:58 |
+| 29 | [Trending Remix \(with Myke Towers\)](https://open.spotify.com/track/7y8wfdPTJT94sIs6LnGDJC) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Trending Remix \(with Myke Towers\)](https://open.spotify.com/album/0I0LtVW3UJjJtXkCJ7RPLO) | 3:45 |
 | 30 | [MERCEDES CAROTA](https://open.spotify.com/track/3TYOH7ta0101NYssoH5GlU) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:22 |
 | 31 | [Bajo El Sol](https://open.spotify.com/track/57mxKzlcRGGZKLlVVDpztL) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Bajo El Sol](https://open.spotify.com/album/6ziFA6M7TxdCQ2bxplctdK) | 3:05 |
 | 32 | [Hunnids](https://open.spotify.com/track/6ccheZDyfp4DNm71GMba9n) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [CHEN](https://open.spotify.com/artist/2mzrEvfWPMGbmcNbnoux1C) | [Hunnids](https://open.spotify.com/album/70g688iMJIZOSBtmDoh5Os) | 2:53 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 36 | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/album/1QUr29IDxeCaCpZOqwyvHW) | 3:41 |
 | 37 | [RoCKSTAR 2.0](https://open.spotify.com/track/4xUtTQuVT6UBF76SPsgOsr) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [RoCKSTAR 2.0](https://open.spotify.com/album/0iBp9wWy4m2MqwOQlponWD) | 2:53 |
 | 38 | [Glizzy Walk 2.5](https://open.spotify.com/track/3O6dtQDB3MTYFPxlXn7zww) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Glizzy Walk 2.5](https://open.spotify.com/album/65ebh116sDPSsxm2eXExyK) | 3:44 |
-| 39 | [Trending Remix \(with Myke Towers\)](https://open.spotify.com/track/7y8wfdPTJT94sIs6LnGDJC) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Trending Remix \(with Myke Towers\)](https://open.spotify.com/album/0I0LtVW3UJjJtXkCJ7RPLO) | 3:45 |
+| 39 | [Single](https://open.spotify.com/track/7cBSPzz0kNgc1ghLddrDxZ) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Single](https://open.spotify.com/album/1lfjZUYySyfNnrpntQHVYW) | 2:58 |
 | 40 | [La Ruta](https://open.spotify.com/track/7D8tKs61tdzzDdG9w6kdu4) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Sr\. Santos](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:04 |
 | 41 | [On Fleek](https://open.spotify.com/track/6plOBNhg7WOoCdtLGAGp43) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [On Fleek](https://open.spotify.com/album/5gbiHT2MGOPDFB5itrI2mG) | 4:37 |
 | 42 | [MÍRENME AHORA](https://open.spotify.com/track/1QigNNcv8c5X2iL294bZev) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 99 | [Gang Affiliated](https://open.spotify.com/track/6CowfoUU9CHy8oikWW0FYa) | [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn) | [Gang Affiliated](https://open.spotify.com/album/2G2ee9kBGHYeydVSKFMAUY) | 3:00 |
 | 100 | [Freelance](https://open.spotify.com/track/4OjxmjKVIKoHXMcOn9JmDa) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [Private Suite \(Vol\. 1\)](https://open.spotify.com/album/2LWGIFtUcl0NxjjoyVv3ex) | 3:17 |
 
-Snapshot ID: `MCw0NGYxZjI1NjNmYWQ4Yzc0ZmMzNDhiMGY1NGY3YTUwMzQxMWMzY2Qz`
+Snapshot ID: `MCxkMDMyZWJmNTQyYTQ0ZTczMTlhNGMzYzk3ZTU3OWI3YWRhNmZiZjZl`

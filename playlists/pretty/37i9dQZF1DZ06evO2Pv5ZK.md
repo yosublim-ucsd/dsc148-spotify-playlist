@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 
 > This is Vangelis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,301 likes - 47 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,313 likes - 47 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 | 46 | [Moonlight Reflections](https://open.spotify.com/track/5q50gPhmfwV6eEMyXNWXbB) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Nocturne](https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK) | 3:10 |
 | 47 | [L'ours musicien \- Remastered](https://open.spotify.com/track/52bPjLwQ91weMD1gL13tBM) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [L'apocalypse des animaux \(Remastered\)](https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD) | 1:05 |
 
-Snapshot ID: `Mjg0MDc3MDMsMDAwMDAwMDAyMjIyNDExMGYwYWU0MDQxZWVkOWZkYTNkMmY4MjdjMw==`
+Snapshot ID: `Mjg0MDkwNTYsMDAwMDAwMDA5ZmQwMTM5MzJmNjBlMzMxMzZjM2I5YWMzMmYxZDNjMA==`

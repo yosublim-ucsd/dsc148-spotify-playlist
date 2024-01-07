@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Karol G
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,317 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,319 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 16 | [Things We Do For Love \(Extended Mix\)](https://open.spotify.com/track/1vUuCsaUEUxCZHRxiCDM3z) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Extension \(The Extended Mixes\)](https://open.spotify.com/album/1MfcoyNFj7RufL8XJ7egos) | 4:53 |
 | 17 | [You & Me](https://open.spotify.com/track/7ouJOwsTo9wpmV4bDdOH8M) | [Merlin](https://open.spotify.com/artist/2MaEWDHjb1owUg3SGhS1vp), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [You & Me](https://open.spotify.com/album/2cTcV37tJ1qVXTH1iRf2Mz) | 2:34 |
 | 18 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj) | 2:50 |
-| 19 | [Redline \- InHer Room](https://open.spotify.com/track/1fduKAIbqiCeIQjdInGwOz) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Redline \(InHer Room\)](https://open.spotify.com/album/5cF0sx3gtWtvWQj01eOHen) | 3:22 |
+| 19 | [Redline \- InHer Room](https://open.spotify.com/track/1w4iW3Bv2BmowTKzE7tORe) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [InHer Room](https://open.spotify.com/album/4yuCd5c4U8IWNPgL671vlx) | 3:22 |
 | 20 | [One Of Your Girls \- Felix Jaehn Remix](https://open.spotify.com/track/2g9QPGMEe9WTAMtvotuD1e) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [One Of Your Girls \(Felix Jaehn Remix\)](https://open.spotify.com/album/2osZd5UmUxgyeQYN5Dr9bb) | 3:03 |
 | 21 | [Eras Of Us](https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Eras Of Us](https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX) | 2:48 |
 | 22 | [Astronaut](https://open.spotify.com/track/7nku4ywsysUidKcPiS4hIQ) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Astronaut](https://open.spotify.com/album/3kEiyT5GXTX6jFK92h6qL9) | 3:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 74 | [Can't Get You Out Of My Head](https://open.spotify.com/track/15bTP9Tl5rmRpB7FelsTZP) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Can't Get You Out Of My Head](https://open.spotify.com/album/7fJ1TjZABMewQqhGgu45Kg) | 3:03 |
 | 75 | [Strong Enough \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Strong Enough](https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX) | 2:29 |
 
-Snapshot ID: `MCw3ZjFlODkwNzI2ZGYxOGQzMjliMzVhMWQxMjY3NTJkNmMxMWI5ZDEx`
+Snapshot ID: `MCxmZjg4YTkyMWZkNWRhMTdmYjlhZjBiMzYwMzA2ZTY5M2E4YjFmMjEy`

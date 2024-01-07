@@ -1,12 +1,12 @@
 {
   "description": "Knees go down and the prayers go up",
-  "num_followers": 22085,
+  "num_followers": 22137,
   "original_name": "On Bended Knees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzJlZWExMDFlNzlkNGY3NWJlODEzYTk5OGI1NDJhMmZlYWRhZTI4",
+  "snapshot_id": "MCxkODkyZTM2ZTk1MWFmNzczMzA5ZjVhNTkwOTRhYTBmY2QxYThhODhk",
   "tracks": [
     {
       "added_at": "2023-09-14 23:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Nations Will Rise and Sing",
-        "url": "https://open.spotify.com/album/1M6f4SoC0VXNZoo9yMPOhV"
-      },
-      "artists": [
-        {
-          "name": "Steve Crown",
-          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
-        }
-      ],
-      "duration_ms": 317204,
-      "name": "All the Glory",
-      "url": "https://open.spotify.com/track/21TNIJLjRY22md0LWvtGtc"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
         "name": "Yeshua",
         "url": "https://open.spotify.com/album/2AVLsx6wOL64vO5bd01g78"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 533914,
       "name": "Yeshua",
       "url": "https://open.spotify.com/track/1CCmVTHzUjJT70rcyFDCpM"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
+        "name": "Nations Will Rise and Sing",
+        "url": "https://open.spotify.com/album/1M6f4SoC0VXNZoo9yMPOhV"
+      },
+      "artists": [
+        {
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+        }
+      ],
+      "duration_ms": 317204,
+      "name": "All the Glory",
+      "url": "https://open.spotify.com/track/21TNIJLjRY22md0LWvtGtc"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Xperience with Love",
-        "url": "https://open.spotify.com/album/7JRYRjbrM7mNZ2SUtYWXVi"
+        "name": "Cindy's Messiah",
+        "url": "https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD"
       },
       "artists": [
         {
-          "name": "MOGmusic",
-          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
+          "name": "Cindy Thompson",
+          "url": "https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd"
         }
       ],
-      "duration_ms": 586443,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/1ZRSxZVgRM5Xv7edLmp7nL"
+      "duration_ms": 462000,
+      "name": "Awurade Kasa",
+      "url": "https://open.spotify.com/track/5mInFrdNxVsfBUeoUazXmo"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Cindy's Messiah",
-        "url": "https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD"
+        "name": "Xperience with Love",
+        "url": "https://open.spotify.com/album/7JRYRjbrM7mNZ2SUtYWXVi"
       },
       "artists": [
         {
-          "name": "Cindy Thompson",
-          "url": "https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd"
+          "name": "MOGmusic",
+          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
         }
       ],
-      "duration_ms": 462000,
-      "name": "Awurade Kasa",
-      "url": "https://open.spotify.com/track/5mInFrdNxVsfBUeoUazXmo"
+      "duration_ms": 586443,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/1ZRSxZVgRM5Xv7edLmp7nL"
     },
     {
       "added_at": "2023-09-14 23:00:00",

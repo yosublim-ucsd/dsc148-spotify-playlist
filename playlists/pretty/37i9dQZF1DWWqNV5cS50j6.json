@@ -1,12 +1,12 @@
 {
   "description": "Not NOT pop. Cover: beabadoobee, Mac Wetha, Amin\u00e9",
-  "num_followers": 697922,
+  "num_followers": 697977,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzgyY2IzYTQzNGVmNTk4ZDI0YTRkMDVlMzVkYjM2M2U0YjljYjBh",
+  "snapshot_id": "MCwzYTBhMDYzOWUzNjdhMjhkY2JiYjc1MWI1NTY2Y2YwYWJmMjhjZGIw",
   "tracks": [
     {
       "added_at": "2023-12-15 14:54:50",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-09-22 16:42:23",
       "album": {
+        "name": "locket",
+        "url": "https://open.spotify.com/album/3SKkBXx7vJu27MZS3NPP0N"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        }
+      ],
+      "duration_ms": 104850,
+      "name": "locket",
+      "url": "https://open.spotify.com/track/3HI8Suc5LWcJMzbiJN1e5u"
+    },
+    {
+      "added_at": "2023-09-22 16:42:23",
+      "album": {
         "name": "My Big Day",
         "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
       },
@@ -727,34 +743,22 @@
     {
       "added_at": "2023-09-22 16:42:23",
       "album": {
-        "name": "locket",
-        "url": "https://open.spotify.com/album/3SKkBXx7vJu27MZS3NPP0N"
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf"
       },
       "artists": [
         {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        }
-      ],
-      "duration_ms": 104850,
-      "name": "locket",
-      "url": "https://open.spotify.com/track/3HI8Suc5LWcJMzbiJN1e5u"
-    },
-    {
-      "added_at": "2023-10-13 16:01:40",
-      "album": {
-        "name": "Suburbia",
-        "url": "https://open.spotify.com/album/4vtjAjsM8U6fW1yX08zpPB"
-      },
-      "artists": [
+          "name": "Sherwyn",
+          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
+        },
         {
-          "name": "Devon Again",
-          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
+          "name": "Sariah Mae",
+          "url": "https://open.spotify.com/artist/16XmFAOjlZoorF7bbIa1Th"
         }
       ],
-      "duration_ms": 179026,
-      "name": "Suburbia",
-      "url": "https://open.spotify.com/track/48S4mJNtmuC16ptPecFGIh"
+      "duration_ms": 178477,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA"
     },
     {
       "added_at": "2023-12-08 15:51:26",
@@ -777,24 +781,20 @@
       "url": "https://open.spotify.com/track/7e38DGW5pLhY3rzmChje9m"
     },
     {
-      "added_at": "2023-09-22 16:42:23",
+      "added_at": "2023-10-13 16:01:40",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf"
+        "name": "Suburbia",
+        "url": "https://open.spotify.com/album/4vtjAjsM8U6fW1yX08zpPB"
       },
       "artists": [
         {
-          "name": "Sherwyn",
-          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
-        },
-        {
-          "name": "Sariah Mae",
-          "url": "https://open.spotify.com/artist/16XmFAOjlZoorF7bbIa1Th"
+          "name": "Devon Again",
+          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
         }
       ],
-      "duration_ms": 178477,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA"
+      "duration_ms": 179026,
+      "name": "Suburbia",
+      "url": "https://open.spotify.com/track/48S4mJNtmuC16ptPecFGIh"
     },
     {
       "added_at": "2023-09-22 16:42:23",
@@ -1341,26 +1341,6 @@
       "url": "https://open.spotify.com/track/60kl9blMLz8yl3akeh6sXe"
     },
     {
-      "added_at": "2023-11-07 18:58:00",
-      "album": {
-        "name": "WHY WAIT? (feat. Cisco Swank)",
-        "url": "https://open.spotify.com/album/47oNZkfCMDynKbVxfUtfz5"
-      },
-      "artists": [
-        {
-          "name": "Yoshi T.",
-          "url": "https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0"
-        },
-        {
-          "name": "Cisco Swank",
-          "url": "https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp"
-        }
-      ],
-      "duration_ms": 164467,
-      "name": "WHY WAIT? (feat. Cisco Swank)",
-      "url": "https://open.spotify.com/track/5IqtrnJJsCKEg1fansrY65"
-    },
-    {
       "added_at": "2023-09-22 16:42:23",
       "album": {
         "name": "nu genesis",
@@ -1379,6 +1359,26 @@
       "duration_ms": 131471,
       "name": "just sayin (\u3065\uffe3 \u00b3\uffe3)\u3065",
       "url": "https://open.spotify.com/track/4DbvcF5jOZTMOKeczBPPSg"
+    },
+    {
+      "added_at": "2023-11-07 18:58:00",
+      "album": {
+        "name": "WHY WAIT? (feat. Cisco Swank)",
+        "url": "https://open.spotify.com/album/47oNZkfCMDynKbVxfUtfz5"
+      },
+      "artists": [
+        {
+          "name": "Yoshi T.",
+          "url": "https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0"
+        },
+        {
+          "name": "Cisco Swank",
+          "url": "https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp"
+        }
+      ],
+      "duration_ms": 164467,
+      "name": "WHY WAIT? (feat. Cisco Swank)",
+      "url": "https://open.spotify.com/track/5IqtrnJJsCKEg1fansrY65"
     },
     {
       "added_at": "2023-10-13 16:01:40",
@@ -1545,22 +1545,6 @@
       "url": "https://open.spotify.com/track/3Z9ygRxfUsSTXccm7YfHtA"
     },
     {
-      "added_at": "2023-11-07 18:58:00",
-      "album": {
-        "name": "Deer in Headlights",
-        "url": "https://open.spotify.com/album/1Z4WrOfVpeSJBdXrCGLgFp"
-      },
-      "artists": [
-        {
-          "name": "Susannah Joffe",
-          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
-        }
-      ],
-      "duration_ms": 209187,
-      "name": "Deer in Headlights",
-      "url": "https://open.spotify.com/track/0g9vHRftxmH7IxUQlRoW1Z"
-    },
-    {
       "added_at": "2023-12-08 15:51:26",
       "album": {
         "name": "Going Crazy",
@@ -1575,6 +1559,22 @@
       "duration_ms": 191871,
       "name": "Going Crazy",
       "url": "https://open.spotify.com/track/79j5lxEjuh5ixfJU2Lt2SS"
+    },
+    {
+      "added_at": "2023-11-07 18:58:00",
+      "album": {
+        "name": "Deer in Headlights",
+        "url": "https://open.spotify.com/album/1Z4WrOfVpeSJBdXrCGLgFp"
+      },
+      "artists": [
+        {
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
+        }
+      ],
+      "duration_ms": 209187,
+      "name": "Deer in Headlights",
+      "url": "https://open.spotify.com/track/0g9vHRftxmH7IxUQlRoW1Z"
     },
     {
       "added_at": "2023-09-22 16:42:23",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-09-22 16:42:23",
       "album": {
-        "name": "BLUE NOISE",
-        "url": "https://open.spotify.com/album/7tHs7min5lfXzztIzqNIQQ"
-      },
-      "artists": [
-        {
-          "name": "LIL DUSTY G",
-          "url": "https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ"
-        }
-      ],
-      "duration_ms": 205168,
-      "name": "BLUE NOISE",
-      "url": "https://open.spotify.com/track/6zr5AoFLscKXYSmnj6qXbT"
-    },
-    {
-      "added_at": "2023-09-22 16:42:23",
-      "album": {
         "name": "Soft Landing",
         "url": "https://open.spotify.com/album/6JafE12iZoyCQQkSN8muem"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 262261,
       "name": "Out There",
       "url": "https://open.spotify.com/track/106uRhMksIxm1FmlP6rcnP"
+    },
+    {
+      "added_at": "2023-09-22 16:42:23",
+      "album": {
+        "name": "BLUE NOISE",
+        "url": "https://open.spotify.com/album/7tHs7min5lfXzztIzqNIQQ"
+      },
+      "artists": [
+        {
+          "name": "LIL DUSTY G",
+          "url": "https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ"
+        }
+      ],
+      "duration_ms": 205168,
+      "name": "BLUE NOISE",
+      "url": "https://open.spotify.com/track/6zr5AoFLscKXYSmnj6qXbT"
     },
     {
       "added_at": "2023-11-07 18:58:00",

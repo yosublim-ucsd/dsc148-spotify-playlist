@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 
 > Éxitos urbanos de Latinoamérica con Arcángel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,086,428 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,087,238 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 | 19 | [NO ME QUIERO CASAR](https://open.spotify.com/track/39L3LdlHS3gqB62HPWaJRg) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:45 |
 | 20 | [Ese Kbrn](https://open.spotify.com/track/3XaeszX6Kk4l40pKzK2oy6) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [El Principe 2](https://open.spotify.com/album/5U3A4CCnKzp3vtWbIqAzNO) | 3:59 |
 | 21 | [Con Silenciador](https://open.spotify.com/track/0CcQ48Vvf92W69agjplFmf) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [El Hombre](https://open.spotify.com/album/5hzbgBTxfikktf9cOvggGF) | 2:54 |
-| 22 | [Joga Pra Lua](https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Joga Pra Lua](https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1) | 2:05 |
+| 22 | [Joga Pra Lua](https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [Joga Pra Lua](https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1) | 2:05 |
 | 23 | [No Estuviste En Lo Malo \- REMIX](https://open.spotify.com/track/5hyKw9bjqXCcIxAoDmAxMJ) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt), [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV) | [No Estuviste En Lo Malo \(REMIX\)](https://open.spotify.com/album/494i7ANNVzcAf94KtyW2X5) | 4:28 |
 | 24 | [TRANKY FUNKY](https://open.spotify.com/track/28iQz5gnZyqhUebzeOYCwH) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [TRANKY FUNKY](https://open.spotify.com/album/34zRh1AFk8bibU6vYfZ1kD) | 2:38 |
 | 25 | [Extrañándote](https://open.spotify.com/track/6pTKWN96v1dpEaBMzDYlww) | [Zhamira Zambrano](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Extrañándote](https://open.spotify.com/album/5wyMJ9XYRHetHFcu8tOowP) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 | 99 | [Borracho y Loco](https://open.spotify.com/track/7G0vBgcC5p2tBpeHiQzGFf) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Borracho y Loco](https://open.spotify.com/album/4Wp1sJVGqgS1ZgPqBL1AlX) | 2:51 |
 | 100 | [MERCHO](https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [MERCHO](https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj) | 2:41 |
 
-Snapshot ID: `MCxjOTY1OGUwYjkwNGFlY2YxYmM5OTA4ODRmZDMwODg3MTcwMjgwY2Y3`
+Snapshot ID: `MCxiMzdlZDAwNmYyOGRkZjhkZGJjMTdjOGRmY2E4OWQ2MDYwZmUyZWFj`

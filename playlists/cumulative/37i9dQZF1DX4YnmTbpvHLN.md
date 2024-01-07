@@ -4,7 +4,7 @@
 
 > Degusta de lo más delicioso para cenar.
 
-402 songs - 1 day 1 hr 42 min
+404 songs - 1 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Conceptions](https://open.spotify.com/track/1WmWY8MVCl3iPZ4u1k9sLa) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Conceptions](https://open.spotify.com/album/2wjpd8DCfjtzzKxc9p2dvw) | 3:16 | 2023-01-12 |  |
 | [Confidant](https://open.spotify.com/track/2uW43oEqS8nCOcMP7nwNLE) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [Confidant](https://open.spotify.com/album/4SBCeZYO6ldszj9bzQHfPl) | 4:04 | 2022-06-29 |  |
 | [Cool Breeze](https://open.spotify.com/track/0dzh53o5y3EqVcjicXRcGN) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [Cool Breeze](https://open.spotify.com/album/2onbyBVdickYJ8OAZfqJPa) | 4:13 | 2023-08-17 |  |
-| [Crystal Blue](https://open.spotify.com/track/2xlbRcpwbECTrkzRD975lb) | [Jean\-Baptiste Rees](https://open.spotify.com/artist/5E0PYnAOEfcjASo2ZEK7nM) | [Crystal Blue](https://open.spotify.com/album/4Jr2IFJ19cGkh9XEHJjNlO) | 2:48 | 2022-06-29 |  |
+| [Crystal Blue](https://open.spotify.com/track/2xlbRcpwbECTrkzRD975lb) | [Jean\-Baptiste Rees](https://open.spotify.com/artist/5E0PYnAOEfcjASo2ZEK7nM) | [Crystal Blue](https://open.spotify.com/album/4Jr2IFJ19cGkh9XEHJjNlO) | 2:48 | 2022-06-29 | 2024-01-07 |
 | [Danny Boy](https://open.spotify.com/track/1s9mbaEHeW8C3K9A2kVFkd) | [Fast Train Jazz Band](https://open.spotify.com/artist/5oKq1aCcKeI3ZAlstJxDsc) | [Elsa](https://open.spotify.com/album/2UPSIVtkDVSdZgGaJaG1MG) | 4:47 | 2022-06-29 |  |
 | [Darn That Dream \- Remastered 2015](https://open.spotify.com/track/1Owq03yMItfgZMpt9CSe80) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [One Flight Up \(Remastered 2015\)](https://open.spotify.com/album/6VwDnT2q9r7HbxNsyGr0r8) | 7:31 | 2022-06-29 |  |
 | [Did you dream too](https://open.spotify.com/track/2uFnSCNpfxySA144y7iIxq) | [Noel Hayes](https://open.spotify.com/artist/0CEZunfWhz5PyHlTNJwC2S) | [Did you dream too](https://open.spotify.com/album/4vQT9zQ6BUEuQLWACzWzhg) | 3:40 | 2023-02-09 |  |
@@ -251,7 +251,7 @@
 | [My Mistake](https://open.spotify.com/track/4CZOjvslnn4eNkcQC0Ubvw) | [Burt Mitchell](https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0) | [Fading Love](https://open.spotify.com/album/4rghfEFwsI9ATrjmUzjQvq) | 4:57 | 2022-06-29 |  |
 | [My One and Only Love](https://open.spotify.com/track/4sZ6tw9dPrHfoiadJMXnqW) | [Jill & Henry](https://open.spotify.com/artist/4QkzpeG7jg03J4HrpXoTUi) | [My One and Only Love](https://open.spotify.com/album/4XLSNqlvDJlRtA2rZGeIO5) | 3:25 | 2022-06-29 | 2023-09-09 |
 | [My One And Only Love](https://open.spotify.com/track/4HhnBJDoi9eLFxvnUh6ZLj) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [My One And Only Love](https://open.spotify.com/album/1sJwVUOrxhTYEqPwlJrpht) | 3:42 | 2022-12-23 |  |
-| [My Perennial Companion](https://open.spotify.com/track/1dWOpasvS3pVvnpEqPYVSh) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [My Perennial Companion](https://open.spotify.com/album/7sqahvp0GRSsUMvFxEdZmA) | 3:26 | 2023-04-20 |  |
+| [My Perennial Companion](https://open.spotify.com/track/1dWOpasvS3pVvnpEqPYVSh) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [My Perennial Companion](https://open.spotify.com/album/7sqahvp0GRSsUMvFxEdZmA) | 3:26 | 2023-04-20 | 2024-01-07 |
 | [My Romance](https://open.spotify.com/track/4kjKUNTgMPWnzAD00cpd91) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [My Romance](https://open.spotify.com/album/0qoXES4Bc1uLeVjahn6ypA) | 3:48 | 2022-06-29 |  |
 | [My Sweetest You](https://open.spotify.com/track/1DvX7QmvoZMr2i2rIy6vPy) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [My Sweetest You](https://open.spotify.com/album/1BxZWb9WVLtpAjSLX25sRq) | 3:07 | 2023-01-12 |  |
 | [Nacreous Clouds](https://open.spotify.com/track/5DyN6afAAjTOgOgTA9jXyE) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Nacreous Clouds](https://open.spotify.com/album/2Vc671OPvvLgglDnPtjQqn) | 3:27 | 2023-01-19 |  |
@@ -298,6 +298,7 @@
 | [Romeo's Mood](https://open.spotify.com/track/1a3tNp1HDtuG9vDIjrgWpZ) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Romeo's Mood](https://open.spotify.com/album/2KVvscZOAVN4PwSo76HyjI) | 2:44 | 2022-10-06 |  |
 | [Sander](https://open.spotify.com/track/07VvD1Wz8hGKE2n6SEApWP) | [Tommie Blayne](https://open.spotify.com/artist/204e8Dl05BFPHdRr5icPdx) | [Sander](https://open.spotify.com/album/0oEU4hwkt4cel4aE2S9rZI) | 4:16 | 2023-06-15 |  |
 | [September Song](https://open.spotify.com/track/5K9W2clr01zZZVu80avRLA) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [September Song](https://open.spotify.com/album/2FSt6Jj7xms6x5g0gwA77K) | 4:21 | 2022-06-29 |  |
+| [Shadow Play](https://open.spotify.com/track/1VLxIOjukOrzBwqL6mp9Q3) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Shadow Play](https://open.spotify.com/album/0FGaEv4Rl39dHICS8ioAIN) | 3:45 | 2024-01-05 |  |
 | [She's A Class Act](https://open.spotify.com/track/7L8qE08pnMxr4JvvtYJxis) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [She's A Class Act](https://open.spotify.com/album/0MpvWeiSTn4OERhT97V4sw) | 3:37 | 2023-02-02 |  |
 | [She's Funny That Way](https://open.spotify.com/track/4fn0kfdUbc5LlAjTwG4RX4) | [Tonic and their Time](https://open.spotify.com/artist/4f9dZJd9mswxGvKKoTJSZT) | [She's Funny That Way](https://open.spotify.com/album/0BSvGhV8CykM0MenOFaZtA) | 3:46 | 2023-04-14 |  |
 | [Sidewalking](https://open.spotify.com/track/2DotXnuPKoxT5K2yjKvhn8) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Sidewalking](https://open.spotify.com/album/5EAwH1SGs0hvPxn27vzM1n) | 3:13 | 2022-06-29 |  |
@@ -377,6 +378,7 @@
 | [We're Almost At The End](https://open.spotify.com/track/6WMZ32iT8I5T2UUSQTdWf9) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Just a Thought](https://open.spotify.com/album/7ngLJAYrufQRkz9GHjvhto) | 2:08 | 2022-11-24 | 2023-09-09 |
 | [What A Difference A Day Makes](https://open.spotify.com/track/38c3Ad0TqWEwnUPH2NdTWm) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [What A Difference A Day Makes](https://open.spotify.com/album/56B3PMPbWgxrZis5ruTcdm) | 4:06 | 2022-11-10 |  |
 | [What A Little Moonlight Can Do](https://open.spotify.com/track/33sW1w6GqKgSolhokSdhpd) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [What A Little Moonlight Can Do](https://open.spotify.com/album/4skOjbMtwpf1zAZHyBanTN) | 2:33 | 2022-08-12 |  |
+| [What about us?](https://open.spotify.com/track/2sPyhvBDiIdvbcKShnNh1D) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [What about us?](https://open.spotify.com/album/1LsjFX2NwGjN1t0lqLZCtJ) | 2:49 | 2024-01-05 |  |
 | [What The Heart Wants](https://open.spotify.com/track/3REyVyWHPHPKQueGFnCYay) | [Vincent Hall Trio](https://open.spotify.com/artist/0INrFdPtyCkB0oyaxbvKLb) | [What The Heart Wants](https://open.spotify.com/album/4kiOZP3cb4a3mg6ZxhJA3R) | 2:01 | 2022-06-29 |  |
 | [What's Life Without You](https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [In My Own Small World](https://open.spotify.com/album/1nEShi0S3yWyDvXW6evjgl) | 4:18 | 2022-06-29 |  |
 | [When I Fall In Love](https://open.spotify.com/track/0w7mhiHnM0rhdu3l5mDDYl) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Scott LaFaro](https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Portrait In Jazz \[Keepnews Collection\]](https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi) | 4:57 | 2022-06-29 |  |

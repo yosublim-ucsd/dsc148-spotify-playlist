@@ -1,12 +1,12 @@
 {
   "description": "Southern boogie, swinging blues rock and classic boogie rock. Cover: ZZ Top",
-  "num_followers": 82191,
+  "num_followers": 82333,
   "original_name": "Boogie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODAwNTI4N2Y5MjIwOTViN2RmMTkyZDBiMjRkMTgwNjc0NWVkM2Ni",
+  "snapshot_id": "MCwwYTY5ZWYzODVhZThjYzcxYjdiYzhkMTk4Njc2MDkzYTE3ZmU1Yzlj",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -525,20 +525,20 @@
       "url": "https://open.spotify.com/track/47rwchB6ebPHAY0CaBINZG"
     },
     {
-      "added_at": "2021-04-13 15:36:15",
+      "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Raisin' A Ruckus",
-        "url": "https://open.spotify.com/album/35Sf6tKVBsBvRcdJhDVkoo"
+        "name": "Never A Dull Moment",
+        "url": "https://open.spotify.com/album/1V0trkg3Pt4pGCyxfztFLZ"
       },
       "artists": [
         {
-          "name": "Roomful Of Blues",
-          "url": "https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 200226,
-      "name": "Lower On Your List Of Priorities",
-      "url": "https://open.spotify.com/track/0y9jJpx0LZyD7Jz3Yaawvz"
+      "duration_ms": 211933,
+      "name": "True Blue",
+      "url": "https://open.spotify.com/track/0zkQxCDeyu1Q35wfgCQaPX"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -557,20 +557,20 @@
       "url": "https://open.spotify.com/track/2PkOmx1S4XOwPU1Pgyaoig"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
+      "added_at": "2021-04-13 15:36:15",
       "album": {
-        "name": "Never A Dull Moment",
-        "url": "https://open.spotify.com/album/1V0trkg3Pt4pGCyxfztFLZ"
+        "name": "Raisin' A Ruckus",
+        "url": "https://open.spotify.com/album/35Sf6tKVBsBvRcdJhDVkoo"
       },
       "artists": [
         {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          "name": "Roomful Of Blues",
+          "url": "https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L"
         }
       ],
-      "duration_ms": 211933,
-      "name": "True Blue",
-      "url": "https://open.spotify.com/track/0zkQxCDeyu1Q35wfgCQaPX"
+      "duration_ms": 200226,
+      "name": "Lower On Your List Of Priorities",
+      "url": "https://open.spotify.com/track/0y9jJpx0LZyD7Jz3Yaawvz"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -639,18 +639,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "1234",
-        "url": "https://open.spotify.com/album/32XLfDR9uCkCYD4OMHUBDF"
+        "name": "Gasoline Alley",
+        "url": "https://open.spotify.com/album/6FaMpsO2fif34ToEu1wLqf"
       },
       "artists": [
         {
-          "name": "Ronnie Wood",
-          "url": "https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 242280,
-      "name": "Outlaws",
-      "url": "https://open.spotify.com/track/6OCvoEuOHptoVnJyJ23KWR"
+      "duration_ms": 386226,
+      "name": "It's All Over Now",
+      "url": "https://open.spotify.com/track/78H0GpZn9EXwEI6gr2FZUA"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -667,6 +667,22 @@
       "duration_ms": 294400,
       "name": "Mama Nature Said",
       "url": "https://open.spotify.com/track/3WrQZJy6BagmTtVA1SeLKL"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "1234",
+        "url": "https://open.spotify.com/album/32XLfDR9uCkCYD4OMHUBDF"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Wood",
+          "url": "https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK"
+        }
+      ],
+      "duration_ms": 242280,
+      "name": "Outlaws",
+      "url": "https://open.spotify.com/track/6OCvoEuOHptoVnJyJ23KWR"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -719,22 +735,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Gasoline Alley",
-        "url": "https://open.spotify.com/album/6FaMpsO2fif34ToEu1wLqf"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 386226,
-      "name": "It's All Over Now",
-      "url": "https://open.spotify.com/track/78H0GpZn9EXwEI6gr2FZUA"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Jinx (Remastered 2017)",
         "url": "https://open.spotify.com/album/7KoqBVH5VVliVu15CiUOgS"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 234901,
       "name": "Bourbon",
       "url": "https://open.spotify.com/track/2bHdpo5xyMYyWBRYfoPwBX"
-    },
-    {
-      "added_at": "2021-07-30 04:01:00",
-      "album": {
-        "name": "7 O'Clock (30th Anniversary Version)",
-        "url": "https://open.spotify.com/album/4U4Y79UjbLeePgMRIpNKAt"
-      },
-      "artists": [
-        {
-          "name": "The Quireboys",
-          "url": "https://open.spotify.com/artist/0d49iRrp4iVZggKbcpxnqI"
-        }
-      ],
-      "duration_ms": 223773,
-      "name": "7 O'Clock - 30th Anniversary Version",
-      "url": "https://open.spotify.com/track/22JtENh4WNZxFll7qVG5rY"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -779,6 +763,22 @@
       "duration_ms": 153600,
       "name": "Worry No More",
       "url": "https://open.spotify.com/track/1hbPE73HMcCexM0bJUC7kq"
+    },
+    {
+      "added_at": "2021-07-30 04:01:00",
+      "album": {
+        "name": "7 O'Clock (30th Anniversary Version)",
+        "url": "https://open.spotify.com/album/4U4Y79UjbLeePgMRIpNKAt"
+      },
+      "artists": [
+        {
+          "name": "The Quireboys",
+          "url": "https://open.spotify.com/artist/0d49iRrp4iVZggKbcpxnqI"
+        }
+      ],
+      "duration_ms": 223773,
+      "name": "7 O'Clock - 30th Anniversary Version",
+      "url": "https://open.spotify.com/track/22JtENh4WNZxFll7qVG5rY"
     },
     {
       "added_at": "2020-12-01 05:01:00",

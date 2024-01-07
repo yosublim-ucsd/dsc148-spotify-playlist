@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 
 > Mood: Turnt
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,734,145 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,734,402 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 | 31 | [Trance \(with Travis Scott & Young Thug\)](https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:14 |
 | 32 | [Needle \(feat\. Drake\)](https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:55 |
 | 33 | [Cold \(feat\. B.G\. & Mike WiLL Made\-It\)](https://open.spotify.com/track/4PKh6tJP16etcy2eKyMODe) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [B.G.](https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Cold \(feat\. B.G\. & Mike WiLL Made\-It\)](https://open.spotify.com/album/30n2gaTkEAk04fqVGusVNh) | 2:35 |
-| 34 | [Freak Junt \(Ext\)](https://open.spotify.com/track/5eVPo9th097MkEwAhINEOV) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Renegade](https://open.spotify.com/album/1oLihKPBT36E4csJUGlLP7) | 3:54 |
+| 34 | [Freak Junt \(Ext\)](https://open.spotify.com/track/0jxiqqVUgOOkhuRcEbGkB0) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Renegade](https://open.spotify.com/album/7cCqSijm31dZdQ1v3BaFAZ) | 3:54 |
 | 35 | [Bow Bow Bow \(F My Baby Dad\)](https://open.spotify.com/track/351CSUM0YDA0GCbHCSKoL1) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:20 |
 | 36 | [Hit List \(with BigXthaPlug & Big Yavo\)](https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Lonestar Luchador](https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK) | 3:05 |
 | 37 | [Grip](https://open.spotify.com/track/1tHYeRTwPlHkKV3uOY0uSm) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Baby Tate Presents \- Sexploration: The Musical](https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 | 99 | [Dah Dah DahDah](https://open.spotify.com/track/2TSfStvlAMLw89u3tali79) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi) | 2:31 |
 | 100 | [Vette Motors](https://open.spotify.com/track/0HrWshW3SuFJ6nKS9ba9Mh) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:53 |
 
-Snapshot ID: `MCxjNTRjYTY4M2MwYTU2MmZlMmE5NWMwM2RiNThiMzEwNDRlYTI5NDNl`
+Snapshot ID: `MCxiNTAzNzkyYmJhZjdlZmU5YTE1YjhmMjZlNDM5ZDViMDM4YzViNmYx`

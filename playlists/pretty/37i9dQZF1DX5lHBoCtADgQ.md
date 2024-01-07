@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Gurdas Maan & Salim Sulaiman
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,689 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,700 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 49 | [Kala Dooria](https://open.spotify.com/track/2IvSrdat1OK4xMArwWEWyt) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Prakash Kaur](https://open.spotify.com/artist/51te2iwubcXb5dKxUxpWkh) | [Virasat\-E\-Punjab, Vol\. 1](https://open.spotify.com/album/7BLztbcJkDA2UvmCsrU7fW) | 2:59 |
 | 50 | [Ek Meri Akk Kaashni](https://open.spotify.com/track/3DdCB4DFq9m6vzU2mtI6CM) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Asa Singh Mastana](https://open.spotify.com/artist/5MjQby5pq8m4mANED6jFbA), [Hazara Singh Ramta](https://open.spotify.com/artist/7LbnqdejlXAPj3k6T7rY4b) | [Folk Music of Punjab, Vol\. 1](https://open.spotify.com/album/71vtvcxf58EwWSv8Nnpzf9) | 3:22 |
 
-Snapshot ID: `MCwxYTVjNTU1MzJkNjYxNTEyNTc3Y2VhY2M5NjliZDYzZDBlODg4MWEz`
+Snapshot ID: `MCxkMmI0MTAzOTgyODQxMTY0YzhkOTY1M2NlNDQ1OTVjZTA2N2IwMTFj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVDRFMQjgrJa.md) - [plain]
 
 > Ya llegué de donde andaba..\. se me concedió volver 🙏🏾
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,720 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,890 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVDRFMQjgrJa.md) - [plain]
 | 62 | [De Ciudad al Rancho](https://open.spotify.com/track/28GiGFLWEpScEXPElcFjdA) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [Porque Seguimos Sus Pasos](https://open.spotify.com/album/07Ic20romYlwWHI3ItVc6l) | 2:55 |
 | 63 | [Lucio Vazquez](https://open.spotify.com/track/7xygLT3mUqdhdz80VfsN3f) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Antes De Partir](https://open.spotify.com/album/28Kb1pmRPsiBUFKSCs1Qlq) | 2:21 |
 | 64 | [Desprecio](https://open.spotify.com/track/5rCzc6hBzVUiK9iYoIO7CU) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:40 |
-| 65 | [El Rey de Mil Coronas \- En VIvo](https://open.spotify.com/track/5gNgIMvsN5R8OARLgllnHo) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Desvelada Con Banda Y Mariachi \(En Vivo\)](https://open.spotify.com/album/3FJXsvMG4qE7cPZEBORwoF) | 2:27 |
+| 65 | [Hablando Claro](https://open.spotify.com/track/0gqoQHLcWzZcls7KzYd6xT) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Hablando Claro](https://open.spotify.com/album/6RsUI2bxtHfbGTV5EnCILh) | 2:17 |
 | 66 | [Que Chulos Ojos](https://open.spotify.com/track/2dl2KGfCQ2cleNVXlwFSdh) | [La Dinastía de Tuzantla Michoacán](https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R) | [20 Exitos de Ley](https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph) | 2:40 |
-| 67 | [Hablando Claro](https://open.spotify.com/track/0gqoQHLcWzZcls7KzYd6xT) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Hablando Claro](https://open.spotify.com/album/6RsUI2bxtHfbGTV5EnCILh) | 2:17 |
+| 67 | [El Rey de Mil Coronas \- En VIvo](https://open.spotify.com/track/5gNgIMvsN5R8OARLgllnHo) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Desvelada Con Banda Y Mariachi \(En Vivo\)](https://open.spotify.com/album/3FJXsvMG4qE7cPZEBORwoF) | 2:27 |
 | 68 | [El Polvorete](https://open.spotify.com/track/5iyaVyi8Cx98S8WS8TbuOT) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Me Gustan Las Viejas Buenas](https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD) | 2:48 |
 | 69 | [El Tarasco](https://open.spotify.com/track/7qkl7zanDubz7DvzLFRr8Z) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Corridos Arrolladores Vol\. 1](https://open.spotify.com/album/7Fiu13ssHKL6Ax11S3z4ap) | 3:09 |
 | 70 | [Cuanto Me Gusta Este Rancho](https://open.spotify.com/track/7gZmWoDwKhBJUnU69Mo8fc) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Pa' los Recuerdos, Vol\. 2](https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVDRFMQjgrJa.md) - [plain]
 | 99 | [El Ultimo Cartucho](https://open.spotify.com/track/3YEz7DrxZbXnEfxIJ0tjE1) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Secretos De Mi Memoria](https://open.spotify.com/album/7uiQrtdG9S5vltQrvdK6Ik) | 2:47 |
 | 100 | [El Rengo del Gallo Giro](https://open.spotify.com/track/4N6aI6IzDodEJscIaI6nfo) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Me Traes de un Ala](https://open.spotify.com/album/3us0ln0heM9tVS0EGihj1y) | 3:10 |
 
-Snapshot ID: `MCw1ZTVkNDlkMTRhYzFjYjEyOTM3MDRmY2Q3MzBiMjliMDhkNjc1ZDI4`
+Snapshot ID: `MCw4NDk3OTA0MGRmYmM1Y2Y0MTU5YWViNjA5YjM4ZDkwNjRmMDM3ZmFi`

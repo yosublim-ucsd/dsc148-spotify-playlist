@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 
 > Keep your night easy and light with this acoustic mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,305,363 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,305,326 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 36 | [Imagining My Man](https://open.spotify.com/track/0B4U4UMwO5uKqM3OXm6L6P) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 5:51 |
 | 37 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 |
 | 38 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 |
-| 39 | [Siren Song](https://open.spotify.com/track/3nKCmdfFSB49NPGRsfD4wh) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Siren Song](https://open.spotify.com/album/2muIm4KF0yGt8T630su2Vq) | 3:03 |
-| 40 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 |
+| 39 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 |
+| 40 | [Siren Song](https://open.spotify.com/track/3nKCmdfFSB49NPGRsfD4wh) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Siren Song](https://open.spotify.com/album/2muIm4KF0yGt8T630su2Vq) | 3:03 |
 | 41 | [Bobby](https://open.spotify.com/track/0mW58kig39aueBh99f6yGz) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lice](https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s) | 3:25 |
 | 42 | [Ether Garden](https://open.spotify.com/track/6WsgELUOvr9rf3XWolZYjc) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Gloria Duplex](https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b) | 2:47 |
 | 43 | [What Am I Here For](https://open.spotify.com/track/5qLAeqSwTN5Cdrpjs6TnG6) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2) | 4:43 |
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 45 | [Is There Something in the Movies?](https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:30 |
 | 46 | [Nothing’s Gonna Happen](https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:36 |
 | 47 | [By Night](https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob) | [Puzzle Muteson](https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK) | [Theatrics](https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC) | 3:38 |
-| 48 | [Before the Sun](https://open.spotify.com/track/5g54tKWuCOrHmLppzxzQrt) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Before the Sun](https://open.spotify.com/album/4tCs31ECl6vTX2t5hVOeN2) | 2:48 |
-| 49 | [Guiding Light](https://open.spotify.com/track/1rwFqSVH8k9ovPHgAxThkN) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Joy of Nothing](https://open.spotify.com/album/2NvXp1Yq7mslZYfZiRmGUq) | 5:52 |
-| 50 | [Wake Me](https://open.spotify.com/track/6tBTW1d7ikxXEfkhGQjPHi) | [Message To Bears](https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3) | [Folding Leaves](https://open.spotify.com/album/1BL9HsiqZUc4IXFT3LKwzr) | 5:32 |
-| 51 | [Under Dusk](https://open.spotify.com/track/3TbH823KFCLfwo8elqPtpj) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx), [Enna Blake](https://open.spotify.com/artist/3qIZ7QSE210xVDfAHDpXmb) | [Under Dusk](https://open.spotify.com/album/6P2il2hKvAhUel4zPM0Dpp) | 3:39 |
+| 48 | [Guiding Light](https://open.spotify.com/track/1rwFqSVH8k9ovPHgAxThkN) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Joy of Nothing](https://open.spotify.com/album/2NvXp1Yq7mslZYfZiRmGUq) | 5:52 |
+| 49 | [Before the Sun](https://open.spotify.com/track/5g54tKWuCOrHmLppzxzQrt) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Before the Sun](https://open.spotify.com/album/4tCs31ECl6vTX2t5hVOeN2) | 2:48 |
+| 50 | [Under Dusk](https://open.spotify.com/track/3TbH823KFCLfwo8elqPtpj) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx), [Enna Blake](https://open.spotify.com/artist/3qIZ7QSE210xVDfAHDpXmb) | [Under Dusk](https://open.spotify.com/album/6P2il2hKvAhUel4zPM0Dpp) | 3:39 |
+| 51 | [Wake Me](https://open.spotify.com/track/6tBTW1d7ikxXEfkhGQjPHi) | [Message To Bears](https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3) | [Folding Leaves](https://open.spotify.com/album/1BL9HsiqZUc4IXFT3LKwzr) | 5:32 |
 | 52 | [Cool Girl](https://open.spotify.com/track/51ZW0OUvhcO0uyXR3E68bh) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Build A Problem](https://open.spotify.com/album/2oMbQ7W1QddUdasTYrJdzE) | 3:19 |
 | 53 | [I Knew This Would Be Love](https://open.spotify.com/track/5V0oYCNtnTitbWN72iSfJ5) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Fire Escape](https://open.spotify.com/album/2zDtChsG0rQlQhHQG7RkYk) | 3:30 |
 | 54 | [Song For The Thankful](https://open.spotify.com/track/2nYnAcwmnOe4zr4WVmIefC) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p) | [Song For The Thankful](https://open.spotify.com/album/0Q1YKEQ4XgNjQm5B31YjHM) | 3:54 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 64 | [Mother Song](https://open.spotify.com/track/7BAKX6s6fXzAJhzzsxGYW2) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Jericho](https://open.spotify.com/album/4GMmnvoe8QZMYK97JDCna2) | 2:53 |
 | 65 | [Woodpecker](https://open.spotify.com/track/0D5YcW57alDCPA6XQwwKcZ) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Big Bend \(An Original Soundtrack for Public Television\)](https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv) | 2:05 |
 | 66 | [Golden \(Acoustic\)](https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Golden \(Acoustic\)](https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br) | 5:07 |
-| 67 | [The Bride & The Bachelor](https://open.spotify.com/track/2UweSn50xGODUOhkKnjJf2) | [Magnolian](https://open.spotify.com/artist/0Uj91EMXf9p6ha6pGl7XIp), [Tselmuun](https://open.spotify.com/artist/6SgSMPVHEWVFxEOZkXS6sh) | [Famous Men](https://open.spotify.com/album/3YDgMxaGS8vIlFKpbYfyqm) | 4:10 |
-| 68 | [Mexico](https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Dead & Born & Grown](https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9) | 4:06 |
-| 69 | [Witness Trees](https://open.spotify.com/track/0TE3gM7LQPiiYsNFv7crzl) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Years](https://open.spotify.com/album/7zcCuIj4uZhrx1WfPfe9Gx) | 2:40 |
+| 67 | [Witness Trees](https://open.spotify.com/track/0TE3gM7LQPiiYsNFv7crzl) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Years](https://open.spotify.com/album/7zcCuIj4uZhrx1WfPfe9Gx) | 2:40 |
+| 68 | [The Bride & The Bachelor](https://open.spotify.com/track/2UweSn50xGODUOhkKnjJf2) | [Magnolian](https://open.spotify.com/artist/0Uj91EMXf9p6ha6pGl7XIp), [Tselmuun](https://open.spotify.com/artist/6SgSMPVHEWVFxEOZkXS6sh) | [Famous Men](https://open.spotify.com/album/3YDgMxaGS8vIlFKpbYfyqm) | 4:10 |
+| 69 | [Mexico](https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Dead & Born & Grown](https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9) | 4:06 |
 | 70 | [Splintered](https://open.spotify.com/track/6V4stuxihHZTe7vvJxdkdt) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 4:10 |
 | 71 | [God I Hope This Year Is Better Than The Last](https://open.spotify.com/track/68HuYxpnrwRnXmIo7xcYmY) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [God I Hope This Year Is Better Than the Last](https://open.spotify.com/album/0uc3cq7SlAfQwTmC26p0zL) | 3:56 |
 | 72 | [love \(aint always so good\)](https://open.spotify.com/track/7lY3juj1MLv4gjpRxkj27Z) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [the death of you & i \- EP](https://open.spotify.com/album/611A5mdzrmqo8cL5B2zFor) | 3:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 99 | [Sang About It](https://open.spotify.com/track/7r6SeYvJXds6JAxpeeISmg) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Sang About It](https://open.spotify.com/album/4mczmDqhr8dVQIQP8mdBJZ) | 2:13 |
 | 100 | [Inferno](https://open.spotify.com/track/6H66K7PGQMdXMlIzqxRl9z) | [The Felice Brothers](https://open.spotify.com/artist/4Ajgo7nAsTzjSFymIfBjZ1) | [From Dreams to Dust](https://open.spotify.com/album/4Dv3k5qKbTAOM777tJKo1s) | 3:41 |
 
-Snapshot ID: `MCxkYmI2MzViMzU0ODRjNTliZDRkZjVhMjg3N2M4OTdhNjAxNGZlYTQ3`
+Snapshot ID: `MCxlMjJhMGI5ODk4MjI2Zjk2MmU3MTMzNTNiMWIxNTRiZmEzZmZhYzE0`

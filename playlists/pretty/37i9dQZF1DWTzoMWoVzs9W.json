@@ -1,12 +1,12 @@
 {
   "description": "Listen to all of her hits right here!",
-  "num_followers": 1091912,
+  "num_followers": 1092077,
   "original_name": "This Is Anitta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzg1Zjg1YWVmMjdmZjA3N2ViMDc0ZjRlNzg2MzY3OGNhY2VjMmE1",
+  "snapshot_id": "MCwwNzE0Y2NkNDE2ZWUwNGUyNmZlOTUzNDMzNTZiMDM2MzkxZjMyNDI0",
   "tracks": [
     {
       "added_at": "2023-12-20 20:12:40",
@@ -20,12 +20,12 @@
           "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         },
         {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
           "name": "DENNIS",
           "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
         }
       ],
       "duration_ms": 125108,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 
 > maybe it's punk, maybe it's not\. Cover: FEVER 333
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,401 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,418 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 55 | [Leaders](https://open.spotify.com/track/4vABLb1SmE92opkxAyHSOS) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [Leaders](https://open.spotify.com/album/2JfGV0vp2gyuFpLvaybxHd) | 2:28 |
 | 56 | [MINE](https://open.spotify.com/track/4G0PFh9zSY0BvUmhLtoVkJ) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [BACKSTAB](https://open.spotify.com/album/0dWSo4FLmRGBRUsPqHOafN) | 2:02 |
 | 57 | [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 |
-| 58 | [ALLIGATOR](https://open.spotify.com/track/6ncPi3mb947i4CrummFrGF) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [ALLIGATOR](https://open.spotify.com/album/09p1I6ZNxIvf7ZrYbbGsrb) | 2:29 |
-| 59 | [MOTHERFUCKER](https://open.spotify.com/track/1dSHGd9tjuukYmTqwr1SXL) | [Billy Sane](https://open.spotify.com/artist/5BN8ZI3WG0brwHXSu5xlw4) | [Digital Disorder](https://open.spotify.com/album/5d5FyxMeHv8JVOiDdt06AG) | 1:02 |
+| 58 | [MOTHERFUCKER](https://open.spotify.com/track/1dSHGd9tjuukYmTqwr1SXL) | [Billy Sane](https://open.spotify.com/artist/5BN8ZI3WG0brwHXSu5xlw4) | [Digital Disorder](https://open.spotify.com/album/5d5FyxMeHv8JVOiDdt06AG) | 1:02 |
+| 59 | [ALLIGATOR](https://open.spotify.com/track/6ncPi3mb947i4CrummFrGF) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [ALLIGATOR](https://open.spotify.com/album/09p1I6ZNxIvf7ZrYbbGsrb) | 2:29 |
 | 60 | [Crybaby \(On the Phone\)](https://open.spotify.com/track/17m7xzxMBWXLa6eyf3gsag) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Crybaby \(On the Phone\)](https://open.spotify.com/album/70R0bzjqP8a4yKUjg4ISdn) | 2:23 |
 | 61 | [Love You Forever](https://open.spotify.com/track/74P29isjvkWKam9RH3VIqx) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Love You Forever](https://open.spotify.com/album/1Dhav3eZHLNgwZhtoxpz72) | 2:26 |
 | 62 | [i wanna bite your face](https://open.spotify.com/track/0TmhK8MuZrWow9HUp6fH5c) | [Eve 6](https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8) | [grim value](https://open.spotify.com/album/63se1zqIgvcKzzOfqIbR8m) | 2:26 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 71 | [Lonely Army](https://open.spotify.com/track/7fIETzt6S1vL8UJ6xeTqVl) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Lonely Army](https://open.spotify.com/album/0DWeHnaTkA53xK43mJKfu8) | 2:55 |
 | 72 | [New Slang](https://open.spotify.com/track/1sRjSllwLDh0xHgZCywXmf) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [You Are a Runner and I Am My Father's Son](https://open.spotify.com/album/2LAC5rux87C29bv8vuhEgj) | 4:15 |
 | 73 | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt) | 3:51 |
-| 74 | [Inmyhead](https://open.spotify.com/track/3182DPj7zQBXxiyy8rhaQp) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ) | [Inmyhead](https://open.spotify.com/album/7i2CHuloY8dRbEik146DCy) | 2:48 |
-| 75 | [I Want Attention](https://open.spotify.com/track/7oPTdZqQa7eG8NVt8HPkBd) | [ZELA](https://open.spotify.com/artist/4Hq5SvV1YpZIDBVaygsGVg) | [I Want Attention](https://open.spotify.com/album/1YGDOdHRnFWhxogfbvLLtT) | 2:45 |
+| 74 | [I Want Attention](https://open.spotify.com/track/7oPTdZqQa7eG8NVt8HPkBd) | [ZELA](https://open.spotify.com/artist/4Hq5SvV1YpZIDBVaygsGVg) | [I Want Attention](https://open.spotify.com/album/1YGDOdHRnFWhxogfbvLLtT) | 2:45 |
+| 75 | [Inmyhead](https://open.spotify.com/track/3182DPj7zQBXxiyy8rhaQp) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ) | [Inmyhead](https://open.spotify.com/album/7i2CHuloY8dRbEik146DCy) | 2:48 |
 | 76 | [bored](https://open.spotify.com/track/5Y3JG4ksAoLnFyRxDvvwis) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/0iv5fjooZ7WR2FvmxKwDER) | 2:30 |
 | 77 | [Can't Let Go](https://open.spotify.com/track/2wX9CK19EnFzWUwxcQN54n) | [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF), [Tim Randolph](https://open.spotify.com/artist/5uVOiAmUu3bAnxORJDOFbs) | [Can't Let Go](https://open.spotify.com/album/30VYWmoettEwWALvhzaUUw) | 2:18 |
 | 78 | [ATTENTION!](https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [ATTENTION!](https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh) | 2:41 |
 | 79 | [Fight Alone](https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw) | [Motive Black](https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw) | [Fight Alone](https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx) | 3:40 |
 | 80 | [Dazzling](https://open.spotify.com/track/12KEEMtokPYmzVbUopkRBm) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Thirst](https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1) | 2:40 |
 
-Snapshot ID: `MCw4NmFlYjBjZDY1Zjg3NDEwNTU0YTg3ZWQ4OGRlNTVkYTVmNzE0YzZl`
+Snapshot ID: `MCxiMDZkNWUyNWM0NGU1MjhkOTYxNTdkZjg0NjJjNTVkODE4MTVlNjNk`

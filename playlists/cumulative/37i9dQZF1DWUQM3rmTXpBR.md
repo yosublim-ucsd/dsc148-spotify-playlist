@@ -4,7 +4,7 @@
 
 > Alternative Arabic songs\. Cover: Mohammed Saeed
 
-179 songs - 10 hr 57 min
+181 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [Nehayat El Hakawy](https://open.spotify.com/track/5y2CUolrd9Qjrb7lyEuQ3b) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4) | [El Album](https://open.spotify.com/album/6T1mRxav5p4HHQ3KdKxkrd) | 2:40 | 2021-12-23 | 2022-04-08 |
 | [Nettat](https://open.spotify.com/track/4cwCGscTjO9FwgtRU9QIAe) | [Jubantouja](https://open.spotify.com/artist/7m05rEUUQiViUHo1IPHz8x) | [Nettat](https://open.spotify.com/album/5mb0OTZwNStZXnIdWu7l7B) | 3:45 | 2021-12-23 |  |
 | [Nos El Bahr](https://open.spotify.com/track/3uUUJo8kymUm0a9L7JSEDF) | [Tayar \- تيّار](https://open.spotify.com/artist/6ntwC60sylc4u0Npjoj6GM) | [Nos El Bahr](https://open.spotify.com/album/5b7quz61hkXH51ocDuSeCp) | 3:58 | 2022-08-05 |  |
-| [Ountha](https://open.spotify.com/track/69UHeUvlSuDB6lBQfzWZe1) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Ountha](https://open.spotify.com/album/2olIPtmKbim1KmWV8pIxho) | 3:27 | 2023-04-23 |  |
+| [Ountha](https://open.spotify.com/track/69UHeUvlSuDB6lBQfzWZe1) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Ountha](https://open.spotify.com/album/2olIPtmKbim1KmWV8pIxho) | 3:27 | 2023-04-23 | 2024-01-07 |
+| [Ountha](https://open.spotify.com/track/4M6QHCcum2OOvxF5sblvYN) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Ountha](https://open.spotify.com/album/3QfnsKo5JJ3mCJTyv47crg) | 3:27 | 2023-12-28 |  |
 | [Ouzoreny](https://open.spotify.com/track/7MklY2GT9V5Lnd8ieXfFQ4) | [Khaled Essam El Deen](https://open.spotify.com/artist/3syfdFK4iR0fZ1xur7rNao) | [Ouzoreny](https://open.spotify.com/album/3J14UoBBPGZluNbNbnsBCu) | 4:31 | 2021-12-23 | 2023-04-24 |
 | [Qendil](https://open.spotify.com/track/41xnwQ7jV43F3r0hGz32W8) | [Ayoub Hattab](https://open.spotify.com/artist/718mVE4zMicra6iqqKY5h3) | [Qendil](https://open.spotify.com/album/07FghzexOj5xqhoEQ6nzuz) | 2:58 | 2021-12-23 | 2022-02-18 |
 | [Raghm El Masafa](https://open.spotify.com/track/2pL1V75Sv9ZUTJuWrRcu0v) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4), [Asmaa Abo El Yazid](https://open.spotify.com/artist/3yJkKgJ67DldbUljPLAgBZ) | [Raghm El Masafa](https://open.spotify.com/album/5SMueDztaTumldxEJxQBSV) | 4:13 | 2023-04-23 | 2023-08-24 |
@@ -163,7 +164,8 @@
 | [استوى](https://open.spotify.com/track/7KXUvqS31iZQFOb21h5ewW) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [استوى](https://open.spotify.com/album/4Cpd0aeZO26OpXOsyXS76n) | 2:59 | 2023-05-02 | 2023-06-08 |
 | [انقذيني مني](https://open.spotify.com/track/1zAuToKatU8CEw01ZCcjQ5) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [انقذيني مني](https://open.spotify.com/album/2OfTZgFt2qN1Rlf52Ec45s) | 3:01 | 2022-12-17 | 2023-04-01 |
 | [بشتقلك](https://open.spotify.com/track/0P57Kf5Je5ybQZmfmpkUSC) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [بشتقلك](https://open.spotify.com/album/6Za6yUuQL2iyxYcbkF5svE) | 3:14 | 2022-07-23 | 2023-04-24 |
-| [خاطي](https://open.spotify.com/track/6yEHeItedqVCm48d9yturc) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بركان](https://open.spotify.com/album/5KkRsB4FGEuV82TSWWfIen) | 4:20 | 2023-06-23 |  |
+| [خاطي](https://open.spotify.com/track/6yEHeItedqVCm48d9yturc) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بركان](https://open.spotify.com/album/5KkRsB4FGEuV82TSWWfIen) | 4:20 | 2023-06-23 | 2024-01-07 |
+| [خاطي](https://open.spotify.com/track/4uHMUW4pvuHKDxxFBnBg4b) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بركان](https://open.spotify.com/album/5RKRUPGQoldDKWdDOykvZv) | 4:20 | 2023-12-28 |  |
 | [راضي](https://open.spotify.com/track/6jWUp7xsCPRkDqq7aj2qeP) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [راضي](https://open.spotify.com/album/2UBkpxSc0SNsiap3xZjOqd) | 3:26 | 2023-05-26 |  |
 | [رجعنا التقينا](https://open.spotify.com/track/3bWGmpvHjK9GHt9JYXGWH8) | [Bisher بشر](https://open.spotify.com/artist/5aJWiAyj50doGPVR79VDzK) | [رجعنا التقينا](https://open.spotify.com/album/5FoaHEDPP43MWTLXBWCfEl) | 4:01 | 2021-12-23 | 2022-02-16 |
 | [زي زمان](https://open.spotify.com/track/57Hzblv2Su9kcvpQ6Wuis3) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [زي زمان](https://open.spotify.com/album/4VvlIUieIPAhvIO3tBRwMY) | 3:54 | 2022-02-17 | 2023-04-24 |

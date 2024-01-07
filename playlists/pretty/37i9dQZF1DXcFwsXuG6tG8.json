@@ -1,12 +1,12 @@
 {
   "description": "y el soundtrack suena as\u00ed...",
-  "num_followers": 9328,
+  "num_followers": 9395,
   "original_name": "mi vida es una peli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTJlNTI5MDQ5MGI3NzAwYjkzYWE1MjE4NmYxNjE4ZjgwMDE3MWEw",
+  "snapshot_id": "MCw0NmI4ODU1OWZjMGE4Y2Q4NzM0ZmNlOThjMWRlN2ViMmRmNjQyYTNj",
   "tracks": [
     {
       "added_at": "2023-12-27 17:43:52",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-12-27 17:43:52",
       "album": {
-        "name": "ROY",
-        "url": "https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 191725,
-      "name": "Si En Tu Mente Estuve",
-      "url": "https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf"
-    },
-    {
-      "added_at": "2023-12-27 17:43:52",
-      "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 201642,
       "name": "me jodi...",
       "url": "https://open.spotify.com/track/4trfOyEYrf0Ezx8LUDogU1"
+    },
+    {
+      "added_at": "2023-12-27 17:43:52",
+      "album": {
+        "name": "ROY",
+        "url": "https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 191725,
+      "name": "Si En Tu Mente Estuve",
+      "url": "https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf"
     },
     {
       "added_at": "2023-12-27 17:43:52",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-12-27 17:43:52",
       "album": {
-        "name": "Contraluz",
-        "url": "https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA"
-      },
-      "artists": [
-        {
-          "name": "Urb\u00f8i",
-          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
-        }
-      ],
-      "duration_ms": 212869,
-      "name": "Contraluz",
-      "url": "https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe"
-    },
-    {
-      "added_at": "2023-12-27 17:43:52",
-      "album": {
         "name": "Gran Turismo",
         "url": "https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 188013,
       "name": "Trampas",
       "url": "https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv"
+    },
+    {
+      "added_at": "2023-12-27 17:43:52",
+      "album": {
+        "name": "Contraluz",
+        "url": "https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA"
+      },
+      "artists": [
+        {
+          "name": "Urb\u00f8i",
+          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
+        }
+      ],
+      "duration_ms": 212869,
+      "name": "Contraluz",
+      "url": "https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe"
     },
     {
       "added_at": "2023-12-27 17:43:52",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-12-27 17:43:52",
       "album": {
+        "name": "de mi cabeza no te vas",
+        "url": "https://open.spotify.com/album/3Bd7h0ZmlnZvnWH0KFId8e"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 151011,
+      "name": "de mi cabeza no te vas",
+      "url": "https://open.spotify.com/track/1NTp6BrV2SDx6fuL5v67L0"
+    },
+    {
+      "added_at": "2023-12-27 17:43:52",
+      "album": {
         "name": "Flores Robadas",
         "url": "https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 93106,
       "name": "superman",
       "url": "https://open.spotify.com/track/3mK0PbFWTRg6lJrrFoF93t"
-    },
-    {
-      "added_at": "2023-12-27 17:43:52",
-      "album": {
-        "name": "de mi cabeza no te vas",
-        "url": "https://open.spotify.com/album/3Bd7h0ZmlnZvnWH0KFId8e"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 151011,
-      "name": "de mi cabeza no te vas",
-      "url": "https://open.spotify.com/track/1NTp6BrV2SDx6fuL5v67L0"
     },
     {
       "added_at": "2023-12-27 17:43:52",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-12-27 17:43:52",
       "album": {
+        "name": "Reconciliados",
+        "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
+      },
+      "artists": [
+        {
+          "name": "Samantha S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
+        }
+      ],
+      "duration_ms": 169400,
+      "name": "Reconciliados",
+      "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
+    },
+    {
+      "added_at": "2023-12-27 17:43:52",
+      "album": {
         "name": "azul",
         "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 165200,
       "name": "azul",
       "url": "https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27"
-    },
-    {
-      "added_at": "2023-12-27 17:43:52",
-      "album": {
-        "name": "Reconciliados",
-        "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
-      },
-      "artists": [
-        {
-          "name": "Samantha S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "Reconciliados",
-      "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
     },
     {
       "added_at": "2023-12-27 17:43:52",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-12-27 17:43:52",
       "album": {
-        "name": "Ni\u00f1a de Mis Ojos",
-        "url": "https://open.spotify.com/album/4qx9aRb19XNXAkmKU4QJj6"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 193545,
-      "name": "Ni\u00f1a de Mis Ojos",
-      "url": "https://open.spotify.com/track/4hjxm4OOqQcwB0Oi8wDV2N"
-    },
-    {
-      "added_at": "2023-12-27 17:43:52",
-      "album": {
         "name": "Vida Cotidiana",
         "url": "https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 215800,
       "name": "Mayo",
       "url": "https://open.spotify.com/track/04I96rrYFcOt1WprFHxFZg"
+    },
+    {
+      "added_at": "2023-12-27 17:43:52",
+      "album": {
+        "name": "Ni\u00f1a de Mis Ojos",
+        "url": "https://open.spotify.com/album/4qx9aRb19XNXAkmKU4QJj6"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 193545,
+      "name": "Ni\u00f1a de Mis Ojos",
+      "url": "https://open.spotify.com/track/4hjxm4OOqQcwB0Oi8wDV2N"
     },
     {
       "added_at": "2023-12-27 17:43:52",

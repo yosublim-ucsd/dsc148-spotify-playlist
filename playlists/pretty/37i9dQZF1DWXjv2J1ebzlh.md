@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,353 likes - 1,191 songs - 3 day 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,368 likes - 1,191 songs - 3 day 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -241,7 +241,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 231 | [Watermelon Man](https://open.spotify.com/track/08blkN1VH11P3tEjAqTOiO) | [The Baba Brooks Orchestra](https://open.spotify.com/artist/1fB0xTVV3oAtjiEwBy2J7q) | [Memorial Album](https://open.spotify.com/album/4FsOCWZJexquwQ1ZRsZt2L) | 2:49 |
 | 232 | [El Cuarto de Tula](https://open.spotify.com/track/5UjaOsrdoI4shw9gM2eNPC) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt) | 7:25 |
 | 233 | [Why Am I Treated So Bad?](https://open.spotify.com/track/73xoXT1a2TfDkfog7j4Q0L) | [Lynn Taitt](https://open.spotify.com/artist/2AOn8ToM1vaab3wtU74ldy), [The Jets](https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2) | [You Hurt My Soul / Why Am I Treated So Bad?](https://open.spotify.com/album/6OSXe7pnvELNwvQY1JhAYY) | 3:21 |
-| 234 | [Fiesta de negritos](https://open.spotify.com/track/1fetWEwJbyD2V8t3ftrwsH) | [Lucho Bermudez Y Su Orquesta](https://open.spotify.com/artist/61LaEbyQgx9ULU3VnH6YCo) | [Lucho Bermúdez y Su Orquesta](https://open.spotify.com/album/2HBENhhnrO1W1CU75gDyoR) | 2:35 |
+| 234 | [Fiesta de negritos \- Remastered](https://open.spotify.com/track/2K0lDBjj2ENflX7zPRMLHc) | [Lucho Bermúdez](https://open.spotify.com/artist/5x1E6GVoNd2Haj7Jtvg3E0) | [Fiesta de negritos \(Remastered\)](https://open.spotify.com/album/14GgEmxWEPZxByGfVMFcyk) | 2:31 |
 | 235 | [Kadeed Badanaa Naftaydani \(My Life is Full of Tribulations\)](https://open.spotify.com/track/34H33UG53qsoVeyBXX0Ea4) | [Sharaf Band](https://open.spotify.com/artist/55MJ9umXsbta0ndJlDsBA7), [Xaawo Hiiraan](https://open.spotify.com/artist/7KrolbZSK9NZAJcR2uAZM7) | [Sweet as Broken Dates: Lost Somali Tapes from the Horn of Africa](https://open.spotify.com/album/7l5wQ73rhubusiHsnT0tsN) | 5:31 |
 | 236 | [Le Serpent](https://open.spotify.com/track/62JiItdp5NHjB3ARFCogFo) | [Guem Et Zaka](https://open.spotify.com/artist/1pxsK2UOdOYU3smhdzNsbp) | [Best of Percussion](https://open.spotify.com/album/2e2Es5qmTQEeiT3Ip2Fqn2) | 5:19 |
 | 237 | [Paulette](https://open.spotify.com/track/70gworYN6uq7jd4qfl3QU7) | [Balla Et Ses Balladins](https://open.spotify.com/artist/2qNmQvibIVFYLfpbWmyWuO) | [Objectif perfection](https://open.spotify.com/album/6K7NZTRRjzo8gNCMUoZKT4) | 7:42 |
@@ -1200,4 +1200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1190 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1191 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCw1Nzg5NTY5MmVmZDQzOTI5ZWFiZWNkYWVmYjFlNjUwY2E3MDIxOGM4`
+Snapshot ID: `MCwyZmVmYTVhMWIyYTJlOGUyMzY1NzUyNWFmZTYxNmFjMWQ2OTQ5MDcx`

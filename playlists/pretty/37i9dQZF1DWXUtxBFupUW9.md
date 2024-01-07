@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUtxBFupUW9.md) - [plain]
 
 > Exercise together with uplifting soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,892 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,034 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUtxBFupUW9.md) - [plain]
 | 49 | [Groove Me](https://open.spotify.com/track/1sG3M0yjIYweejCR9Amyh6) | [King Floyd](https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz) | [King Floyd](https://open.spotify.com/album/6r1VSCkbZaVj6FUhbh3aFQ) | 3:03 |
 | 50 | [How Sweet It Is \(To Be Loved By You\)](https://open.spotify.com/track/5Rb211KhnOhLLXPpt8awxU) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Road Runner](https://open.spotify.com/album/5zFjEP5qKjqonWTmBewAf1) | 3:02 |
 
-Snapshot ID: `MCwzZDA2OWVhOTlhY2RjM2M5ODM5NDA2OTI0MTVkYmMwMjI1MjgwY2Ux`
+Snapshot ID: `MCwxNDllZGZiMDNlYjE0NmY4Zjc0MTBlZGY3MDg0NzRmNDI4MTU1YmU3`

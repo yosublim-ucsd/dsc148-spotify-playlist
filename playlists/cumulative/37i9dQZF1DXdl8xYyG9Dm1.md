@@ -4,7 +4,7 @@
 
 > The latest straight bars and Afro\-Trap\. Cover: <a href="https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl?si=DYtt5ZR1QtKZElLkldjN8w"> Phyno </a> and <a href="https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa?si=qLthEox5Qse\-kNLysa6h1Q"> Burna Boy</a>
 
-221 songs - 11 hr 37 min
+222 songs - 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [No Joke](https://open.spotify.com/track/2HvW7GzIbiRQGAGytSBQz6) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [No Joke](https://open.spotify.com/album/6N9L2cPBhx54BGLIQBZzvj) | 2:42 | 2023-11-10 |  |
 | [No More](https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No More](https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk) | 3:02 | 2023-06-29 |  |
 | [No Option](https://open.spotify.com/track/3mxm7OJDadZK1HYN9ZP8gf) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Gbagada Express Vol 2: Moving Mad](https://open.spotify.com/album/7bFrLfofeujIbvs4WcHn3p) | 2:32 | 2023-06-02 |  |
+| [No Regrets](https://open.spotify.com/track/1Bi8XmQs9vNPPkMQ3wyOux) | [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No Regrets](https://open.spotify.com/album/7nmxATrQKN8u04O0IASv0b) | 2:25 | 2024-01-05 |  |
 | [NO SLEEP $$$ \(feat\. Young Jonn\)](https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 3:07 | 2023-11-10 |  |
 | [Not The Same \(feat\. Lucasraps\)](https://open.spotify.com/track/73DJqwKLRQgDMNN7odJPqt) | [Nadia Nakai](https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r), [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT) | [Not The Same \(feat\. Lucasraps\)](https://open.spotify.com/album/3byyU9BREsehzyZ6DqDK0p) | 2:44 | 2022-07-21 | 2022-10-01 |
 | [NYEM EGO \(feat\. Jeriq\)](https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:35 | 2023-11-10 |  |
@@ -195,7 +196,7 @@
 | [Stacks](https://open.spotify.com/track/2EbyVRYATEEvyc6T23wrlO) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Stacks](https://open.spotify.com/album/13RRd735LR5ZlRK6RzKS4u) | 2:57 | 2021-10-14 | 2022-03-18 |
 | [Strip Club](https://open.spotify.com/track/6RoCWJW5MqFUiofRyWsbj9) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [Strip Club / Over You](https://open.spotify.com/album/3xmtrrprZW5gWE0vv4QUXu) | 3:02 | 2022-06-09 | 2022-07-22 |
 | [Style & Fashion \(feat\. Obongjayar\)](https://open.spotify.com/track/3BhgQ0PWWyy7xaSd3ZjwWw) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Afrikan Rebel](https://open.spotify.com/album/4iEeNMH7ooC4Hwy0J6rQB4) | 4:26 | 2021-10-14 | 2023-03-30 |
-| [Suffer II](https://open.spotify.com/track/6nPPGnUpPwWT0wtNy159AV) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [Suffer II](https://open.spotify.com/album/0cb6nLa4YuOkG1dlG95zC8) | 4:59 | 2023-12-01 |  |
+| [Suffer II](https://open.spotify.com/track/6nPPGnUpPwWT0wtNy159AV) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [Suffer II](https://open.spotify.com/album/0cb6nLa4YuOkG1dlG95zC8) | 4:59 | 2023-12-01 | 2024-01-07 |
 | [SUN](https://open.spotify.com/track/1qkMjWTD1QY2OYZY6nFAAy) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV) | [SUN / BABY BLUE 4’s](https://open.spotify.com/album/0NwhEWOhZFXHtcEfJvU4fD) | 2:27 | 2021-11-18 | 2023-11-11 |
 | [Take My Losses](https://open.spotify.com/track/2rdOsy3zOycov3yZb8y733) | [M3NSA](https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s) | [BONDZIE](https://open.spotify.com/album/73EY9M5qvGZY1UGBXfDBeu) | 3:21 | 2021-10-22 | 2022-08-19 |
 | [That Chick \(feat\. Money Badoo\)](https://open.spotify.com/track/5w6n5yb6UPcxz20naEYHlN) | [Faith K](https://open.spotify.com/artist/1KuWBR8nefjdxXkdWvWY0E), [Money Badoo](https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba) | [Nangena](https://open.spotify.com/album/7hWvhVZIutFixBf5g62C4f) | 2:18 | 2022-03-04 | 2022-04-22 |

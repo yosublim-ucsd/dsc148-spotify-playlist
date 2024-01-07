@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 
 > This is Kenny G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,218 likes - 49 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,276 likes - 49 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 48 | [One More Time \(feat\. Chante Moore\)](https://open.spotify.com/track/3jWIQKsrPtAxQEWJ0V89xR) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Chanté Moore](https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo) | [Ultimate Kenny G](https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P) | 4:01 |
 | 49 | [Don't Make Me Wait for Love](https://open.spotify.com/track/4xbJyF9RDa1VLoZNoCFy1r) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Duotones](https://open.spotify.com/album/3XH1loQu2ohrMnmGCJMPYa) | 4:05 |
 
-Snapshot ID: `Mjg0MDc3MDMsMDAwMDAwMDAzZjBiODMwMDM3MzkyOTJlODQxNmZjY2I0MmM0YzA1ZA==`
+Snapshot ID: `Mjg0MDkwNTYsMDAwMDAwMDAwZDJkNmVhOGQzMGU5ZGEzNWFiNTU3MmU4NDlhODFiOA==`

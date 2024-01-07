@@ -4,7 +4,7 @@
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-141 songs - 13 hr 57 min
+142 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Calvary](https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Jo Deep](https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o) | [Revival Is In The Air \(RIITA\)](https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB) | 4:32 | 2022-04-17 |  |
 | [Calvary](https://open.spotify.com/track/02z20oTwSuEa4EBx8Q47Dj) | [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Live in Concert](https://open.spotify.com/album/1DwIkkDUYWYgslR1McB65B) | 9:33 | 2022-04-17 |  |
 | [Calvary](https://open.spotify.com/track/3ZsOrjblRWKQi3fiXLjZyF) | [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Live in Concert](https://open.spotify.com/album/5fEQIDDrcjsW2kbq5TfJFt) | 9:33 | 2022-04-17 | 2022-07-29 |
-| [Calvary](https://open.spotify.com/track/2kUwyQh2FseRy8UgboN9T0) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [Beginnings](https://open.spotify.com/album/1dWfCCgAXOSfOcyHEXbJYR) | 5:48 | 2022-04-17 |  |
+| [Calvary](https://open.spotify.com/track/2kUwyQh2FseRy8UgboN9T0) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [Beginnings](https://open.spotify.com/album/1dWfCCgAXOSfOcyHEXbJYR) | 5:48 | 2022-04-17 | 2024-01-07 |
 | [Calvary](https://open.spotify.com/track/740Q0J6Pvt1EPqDEidQm1E) | [The Spirituals](https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy), [Jason Nicholson\-Porter](https://open.spotify.com/artist/0J41vFW1jyQEmCDNALvGHS) | [Easter Project](https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB) | 5:56 | 2022-04-17 |  |
 | [Calvary \(Live\)](https://open.spotify.com/track/0CTLhS0Nzh1no3BWWBc8oj) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Jo Deep](https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o) | [Calvary \(Live\)](https://open.spotify.com/album/0dyjMgTqHNqjW60hnHqXnD) | 4:32 | 2022-04-17 | 2022-07-29 |
 | [Celebrate \(He Lives\)](https://open.spotify.com/track/1HK61zJJWpppOHE7jZQwYm) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [The Essential Fred Hammond](https://open.spotify.com/album/4tjopW7OcRx04doP9Pgke7) | 4:04 | 2022-04-17 |  |
@@ -97,6 +97,7 @@
 | [Oh Happy Day \(feat\. Shirley Miller\)](https://open.spotify.com/track/6PH0etRGVIaYBpKmXYCHYo) | [Edwin Hawkins](https://open.spotify.com/artist/3IuP2fe32xEYp0GqLxWgmj), [Shirley Miller](https://open.spotify.com/artist/2ADbsiNz0Jv8tMN22OCOyb) | [Oh Happy Day](https://open.spotify.com/album/3v3LltsNgPWSou5ja6Ofjk) | 2:10 | 2022-04-17 | 2023-12-25 |
 | [Oh Happy Day \- Live at New Bethel Baptist Church, Detroit, MI \- July 1987](https://open.spotify.com/track/7xaEfxxPbV1GlxNpCoDA11) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok), [Marvis Staples](https://open.spotify.com/artist/2Mihm7BTA7LR57k8BVBehH) | [One Lord, One Faith, One Baptism](https://open.spotify.com/album/1zKoUbxaJwiHOUkWwPM3pb) | 6:08 | 2022-04-17 |  |
 | [Oh Holy Lamb](https://open.spotify.com/track/2N6ccWkNTrKuIa3JqRzxhb) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py) | 5:29 | 2022-04-17 | 2023-12-24 |
+| [Oh Holy Lamb](https://open.spotify.com/track/3SBa0QkllF6IqeEdg9RPqk) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA) | 5:29 | 2023-04-09 |  |
 | [Oh Holy Lamb](https://open.spotify.com/track/68oQ1Wm0JOgBwjahOWqmYm) | [Vickie Winans](https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR) | [Live In Detroit II \(Video\)](https://open.spotify.com/album/2En34iMFWvBpbGKZDOwusQ) | 9:05 | 2022-04-17 | 2023-12-25 |
 | [Oh What Love](https://open.spotify.com/track/0B4E7Hgzh4IESmZPgSaiLw) | [Vickie Winans](https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR) | [Vickie Winans: Greatest Hits](https://open.spotify.com/album/5tZW4VvxZM4hOX7YuDLwHI) | 7:01 | 2022-04-17 | 2023-07-07 |
 | [Oh What Love](https://open.spotify.com/track/3ZHvUDfMVPADlGtKc7Bc39) | [Vickie Winans](https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR) | [Vickie Winans \- Gospel Legacy](https://open.spotify.com/album/5gsoX7WHEah2Z33h3g5wKG) | 7:01 | 2023-04-09 |  |

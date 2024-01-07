@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 
 > Timeless Pakistani hits, all in one place\. Cover \- Junoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,062 likes - 70 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,090 likes - 70 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 | 69 | [Dil Ruba](https://open.spotify.com/track/65PDojUz0VanKRIHCEDddm) | [Faakhir](https://open.spotify.com/artist/6ocVv3L8PefhnpANnoHLuj) | [Aatish](https://open.spotify.com/album/53blgdAq8q2N5ulBW86ABO) | 3:47 |
 | 70 | [Shareekan Nu Agg Lagdi](https://open.spotify.com/track/2zl7lKlPv2rKwy0awC6I5m) | [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw) | [Nachaan Mein Oday Nall](https://open.spotify.com/album/09OUqCA4QUA4U3Dv7PDBWd) | 4:03 |
 
-Snapshot ID: `MCwwZDAwMDI1NDQ3YzQwN2I4OGQ5Mzc2MThlNTUzNmE0YzE1MTkwYTRi`
+Snapshot ID: `MCwyNGYwYWU0ZGIzMmQxMDZlMzUyNTFhNTFmNTU1NWY0NDI4NWU2ZTlk`

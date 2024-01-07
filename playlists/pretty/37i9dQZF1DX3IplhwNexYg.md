@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 
 > The best in current indie rock\. Cover: Etta Marcus
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,369 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,367 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 31 | [Easy On Your Own?](https://open.spotify.com/track/42oq4KDYcBwAHpEkV3PuWc) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 2:54 |
 | 32 | [Heaven \- feat\. Damon Albarn](https://open.spotify.com/track/3ROgWZzcpQ0y8k67PzlbBC) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 5:22 |
 | 33 | [Make You Proud](https://open.spotify.com/track/2hyaYnjeDSqapulrcPph8z) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Make You Proud](https://open.spotify.com/album/1hnrxf53JOrVRTgjbGPHfj) | 3:27 |
-| 34 | [GO!!!](https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [GO!!!](https://open.spotify.com/album/2jaLAhsvcf5RWgg5uY3ds0) | 3:24 |
-| 35 | [strawberry chainsaw](https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [strawberry chainsaw](https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL) | 2:36 |
-| 36 | [Paradise](https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Paradise](https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U) | 2:44 |
+| 34 | [strawberry chainsaw](https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [strawberry chainsaw](https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL) | 2:36 |
+| 35 | [Paradise](https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Paradise](https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U) | 2:44 |
+| 36 | [GO!!!](https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [GO!!!](https://open.spotify.com/album/2jaLAhsvcf5RWgg5uY3ds0) | 3:24 |
 | 37 | [Shower Beer](https://open.spotify.com/track/6Kf0pq9FXBBwMkrgEKDT6S) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 3:11 |
 | 38 | [Lunar Eclipse](https://open.spotify.com/track/0dE7NZN4VVLlLxJ7WPgpqd) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Lunar Eclipse](https://open.spotify.com/album/5eHQVvyhbGQdSgPdwngpQ6) | 2:56 |
 | 39 | [St\. Charles Square](https://open.spotify.com/track/7lo2Wos97Xq6DFHURcsxeQ) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU) | 3:55 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 49 | [Tropic Morning News](https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Tropic Morning News](https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ) | 5:09 |
 | 50 | [Doubt](https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 2:35 |
 | 51 | [Voice Of The Voiceless](https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Voice Of The Voiceless](https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU) | 3:13 |
-| 52 | [atomic](https://open.spotify.com/track/5kBBVaQUEisiw5AHIGbRn4) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [atomic](https://open.spotify.com/album/7IYojlDZvmGIURf0qTulLd) | 2:49 |
-| 53 | [The Hills](https://open.spotify.com/track/1McBsb9H3rFIl5cENthWd6) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [The Hills](https://open.spotify.com/album/0iFGP0AHWd8UHjpeHDUIMz) | 3:31 |
+| 52 | [The Hills](https://open.spotify.com/track/1McBsb9H3rFIl5cENthWd6) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [The Hills](https://open.spotify.com/album/0iFGP0AHWd8UHjpeHDUIMz) | 3:31 |
+| 53 | [atomic](https://open.spotify.com/track/5kBBVaQUEisiw5AHIGbRn4) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [atomic](https://open.spotify.com/album/7IYojlDZvmGIURf0qTulLd) | 2:49 |
 | 54 | [Sometimes](https://open.spotify.com/track/4pRlMDGcRFNfdos2RIZdHR) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Sometimes](https://open.spotify.com/album/7oU3HUVkRdripwlzOyRVxc) | 3:27 |
 | 55 | [Follow You Down](https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Follow You Down](https://open.spotify.com/album/4Xwu7gra3bfXqfIFObBKNc) | 2:16 |
 | 56 | [Market Street](https://open.spotify.com/track/2xAv91RQ4dlpWqGIq2nTqb) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Market Street](https://open.spotify.com/album/5muBMq6FHcSUk8nRcJVLml) | 3:17 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 64 | [Smile](https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 3:16 |
 | 65 | [The Overload](https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:16 |
 | 66 | [Weeds](https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:22 |
-| 67 | [Borderline Insane](https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Borderline Insane](https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB) | 2:19 |
-| 68 | [Waste My Life](https://open.spotify.com/track/0UgHdbUdkHduoh7AYWmE6Z) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Waste My Life](https://open.spotify.com/album/5mvlXivNaikCN2SW6YhHSH) | 2:40 |
+| 67 | [Waste My Life](https://open.spotify.com/track/0UgHdbUdkHduoh7AYWmE6Z) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Waste My Life](https://open.spotify.com/album/5mvlXivNaikCN2SW6YhHSH) | 2:40 |
+| 68 | [Borderline Insane](https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Borderline Insane](https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB) | 2:19 |
 | 69 | [the angel of 8th ave.](https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [angel in realtime.](https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP) | 3:58 |
 | 70 | [I Was Neon](https://open.spotify.com/track/4PXjrpBSAXim7Zm0W3yVjQ) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5) | 4:02 |
-| 71 | [Slime](https://open.spotify.com/track/3jWZUXWXIWDsXVwrkwjOhS) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Slime](https://open.spotify.com/album/44ccxqrWWElidyDHNU3W3M) | 3:58 |
-| 72 | [September](https://open.spotify.com/track/4tzUX6dYhN6CPRaO7wF4c9) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [Big Red](https://open.spotify.com/album/1C8XiXbac4G7EoCSIsCpYG) | 3:24 |
-| 73 | [I Wanna Dance With You](https://open.spotify.com/track/4uwPEKdiVnXiscrLgk5666) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 2:54 |
-| 74 | [Sepsis](https://open.spotify.com/track/1oMceEpywwehJQWKGueTlc) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8) | 3:46 |
+| 71 | [I Wanna Dance With You](https://open.spotify.com/track/4uwPEKdiVnXiscrLgk5666) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 2:54 |
+| 72 | [Slime](https://open.spotify.com/track/3jWZUXWXIWDsXVwrkwjOhS) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Slime](https://open.spotify.com/album/44ccxqrWWElidyDHNU3W3M) | 3:58 |
+| 73 | [Sepsis](https://open.spotify.com/track/1oMceEpywwehJQWKGueTlc) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8) | 3:46 |
+| 74 | [September](https://open.spotify.com/track/4tzUX6dYhN6CPRaO7wF4c9) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [Big Red](https://open.spotify.com/album/1C8XiXbac4G7EoCSIsCpYG) | 3:24 |
 | 75 | [Car Park](https://open.spotify.com/track/0EckIVFCMHtta9OiXkPouz) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Lifetime of Wanting](https://open.spotify.com/album/6EU2hPRKlEiMNMn9Ck9xnS) | 3:04 |
 | 76 | [I'll Wait](https://open.spotify.com/track/5n0EvYxNnyCBJpKn90i9Wl) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [I'll Wait](https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1) | 2:52 |
 | 77 | [Lemonade](https://open.spotify.com/track/7yrYMaKFnsQlTvCUrxeLmQ) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Lemonade](https://open.spotify.com/album/2x24KNzED4B4Js3uXY8ZKE) | 3:26 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 79 | [Fingers of Steel](https://open.spotify.com/track/0aanNVtIr5u9qy0MFlzUFz) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 4:21 |
 | 80 | [Me & Me](https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Me & Me](https://open.spotify.com/album/6zmMU4QN9I1a05rqCLuQpi) | 2:27 |
 
-Snapshot ID: `MCxlOTQwM2EzMDEyYmViNTU0ZGVkY2I3ZjUwMzE2YzU2M2Y0NDkyZjY1`
+Snapshot ID: `MCw1MGM0NTA0NGVjMDgzM2NmNzFhN2E4YjVmZjE3ZTE5ZTkzOWU1MzQ1`

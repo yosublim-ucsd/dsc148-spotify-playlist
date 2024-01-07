@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUSF6gmaR8i.md) - [plain]
 
 > Kick back with a collection of classic and new piano rock and pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,560 likes - 40 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,570 likes - 40 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUSF6gmaR8i.md) - [plain]
 | 24 | [Thunder Road](https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:48 |
 | 25 | [Hallelujah](https://open.spotify.com/track/2u6fRGcaBhpI4uNBHpGv0b) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Vibrate: The Best Of \(Deluxe Edition\)](https://open.spotify.com/album/3gnHdybV7CsMxPGwmzFXyS) | 4:11 |
 | 26 | [Nightswimming](https://open.spotify.com/track/6G0NzOx2jEPFsSmhr9N8Ys) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q) | 4:18 |
-| 27 | [Light Years](https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:33 |
-| 28 | [The Greatest](https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 3:22 |
+| 27 | [The Greatest](https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 3:22 |
+| 28 | [Light Years](https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:33 |
 | 29 | [This Woman's Work \- 2018 Remaster](https://open.spotify.com/track/7ijKen7rccf56qOMGkS22e) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt) | 3:36 |
 | 30 | [Letter To The Past](https://open.spotify.com/track/0RxUz1GCgFRLO4hQwkobkg) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:40 |
 | 31 | [Somewhere Only We Know](https://open.spotify.com/track/3DDGhkxq3FeUorZppSgeLE) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Somewhere Only We Know](https://open.spotify.com/album/2BWTPrj9yBBC79fCByZ2Tv) | 3:28 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUSF6gmaR8i.md) - [plain]
 | 39 | [One Fine Day \- Remastered](https://open.spotify.com/track/2CA4geWmbThuxj1BDaeBfy) | [Natalie Merchant](https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD) | [Retrospective 1990\-2005 \[Ltd\. Deluxe Version\]](https://open.spotify.com/album/7HmJbm1e1f0BkwyjBwGiGJ) | 2:47 |
 | 40 | [Winter \- 2015 Remaster](https://open.spotify.com/track/11dfOCV0oBxzZ9fi2PZhvS) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Little Earthquakes \(Deluxe Edition\)](https://open.spotify.com/album/5bxqwBKvCyB67zOEVCrFZE) | 5:41 |
 
-Snapshot ID: `MCxhYTc2ZDQ2NGZjMWU4MjBjZTViZWUwNTE5NTIwZDEwNTA2MDcyZWQ1`
+Snapshot ID: `MCw5YjljM2JiNGM0ZDlmOTJmMzE1YTFmZDdlOTcwNzMwNjIxYTE0NTY5`

@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 | 12 | [My Life](https://open.spotify.com/track/6c9SpU5Fh4ohq3Gk7oQcnX) | [VLAD DC](https://open.spotify.com/artist/5vYJORU3NX0BjO0Z9odkJy) | [My Life](https://open.spotify.com/album/4Fnp3acKWclNKX9SsZOf59) | 2:37 |
 | 13 | [Somethin' New](https://open.spotify.com/track/3vEalMBBK5WpyMiY21yrdL) | [Cam and his Dam Jam Band](https://open.spotify.com/artist/5Spo8mTWkQ1SaHR6m1LfT2) | [The Paradise Experiment](https://open.spotify.com/album/0q495COOxx9JdydGzexhOx) | 6:12 |
 | 14 | [MAKE ME STRONGER](https://open.spotify.com/track/5lW7Z6sWxLsrIuvUvuYg14) | [Jackson Dk](https://open.spotify.com/artist/0duSXVKhMCdCmebFCVJf61) | [MAKE ME STRONGER](https://open.spotify.com/album/5xJKytEGJJwRfPr1v3Vrro) | 3:27 |
-| 15 | [Spark](https://open.spotify.com/track/3r5619trZggDqf7e7rlNC4) | [Chris Gervais](https://open.spotify.com/artist/713fdYIospNr427QE3D0Gf) | [Chris Gervais 2004​\-​2009](https://open.spotify.com/album/43epMu2n8uA275g2CrFf3v) | 3:03 |
+| 15 | [Spark](https://open.spotify.com/track/3r5619trZggDqf7e7rlNC4) | [Chris Gervais](https://open.spotify.com/artist/45YghmA5SNauThWi7hiNEq) | [Chris Gervais 2004​\-​2009](https://open.spotify.com/album/43epMu2n8uA275g2CrFf3v) | 3:03 |
 | 16 | [En gång till](https://open.spotify.com/track/6zKAmWQNdvl0xrwSo2CSDO) | [Bucket List](https://open.spotify.com/artist/5errXScfkmluNM50IeSn8V) | [En gång till](https://open.spotify.com/album/2kdK5Kp0zBOIIOunH61XA9) | 3:19 |
 
 Snapshot ID: `ODk4LDAxOTU3ZWY1NDJkNGIyMDJkYjFjMTM1YjZiNmM4NDc1NzljNTE0MGE=`

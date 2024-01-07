@@ -4,7 +4,7 @@
 
 > Qué bonito se siente el amor\. 💘
 
-257 songs - 15 hr 2 min
+258 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Obvio](https://open.spotify.com/track/6klxz8SB2cGYqdIC590dtR) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Obvio](https://open.spotify.com/album/1WiD50KPCVv4wfeKuQaMXc) | 2:45 | 2023-06-09 | 2023-08-15 |
 | [Odio Que No Te Odio](https://open.spotify.com/track/374Yj1kOLjGLYLOydbCO3i) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Odio Que No Te Odio](https://open.spotify.com/album/5pLHLNwXqkKRMlS5NEEkdW) | 3:40 | 2021-12-06 | 2023-10-14 |
 | [Otra Vez](https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Otra Vez](https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey) | 2:30 | 2022-01-24 | 2022-03-10 |
-| [Pa Quererte](https://open.spotify.com/track/2jX7BQzdvFvfzmuCzuySHe) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Eclipse](https://open.spotify.com/album/3q4meHrjkp0ksaY8Py4UVD) | 2:52 | 2023-05-05 |  |
+| [Pa Quererte](https://open.spotify.com/track/2jX7BQzdvFvfzmuCzuySHe) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Eclipse](https://open.spotify.com/album/3q4meHrjkp0ksaY8Py4UVD) | 2:52 | 2023-05-05 | 2024-01-07 |
 | [Para Siempre](https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Soy Yo](https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki) | 3:21 | 2021-12-06 |  |
 | [Para Siempre](https://open.spotify.com/track/1YskKvj2NqjlBDVoCTbIcE) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [Para Siempre](https://open.spotify.com/album/3j32qwP0UytC2bakmATjgP) | 3:51 | 2023-12-15 |  |
 | [Perderme en ti](https://open.spotify.com/track/4Iak0UOzYRjHNMMxMajkz3) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Perderme En Ti](https://open.spotify.com/album/59RS2bgrbBfBhLHL5qTCc4) | 3:46 | 2021-12-06 | 2023-01-07 |
@@ -195,6 +195,7 @@
 | [Sabor a Mí](https://open.spotify.com/track/1JZ7KB7UgswWPrcKM6R9pO) | [The Mavericks](https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O) | [En Español](https://open.spotify.com/album/30DQiI9l9HMsebReRC9BC8) | 3:27 | 2022-04-01 | 2022-04-20 |
 | [Se puede amar](https://open.spotify.com/track/3jaG9XW2uHrKoDL4K5KZEU) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Se puede amar](https://open.spotify.com/album/2nzIH4xua0TtCnzdf5U9el) | 3:37 | 2021-12-06 | 2023-01-07 |
 | [serotonina](https://open.spotify.com/track/0cvNgL1H2mrGMxYZJmagUP) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 3:42 | 2023-04-14 | 2023-05-06 |
+| [seu carinho](https://open.spotify.com/track/1YZM7ZwOUhHvT04rf5Bu2c) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [seu carinho](https://open.spotify.com/album/3HBCoxFZoFkPQayZJD8SKh) | 2:39 | 2023-12-15 |  |
 | [SI ES AMOR](https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 3:32 | 2023-01-06 |  |
 | [Si Me Dices Que Sí](https://open.spotify.com/track/56Ta1O7Jxxpjnc6cWdDKUo) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Si Me Dices Que Sí](https://open.spotify.com/album/2U2tXCZs8j0H4NEvhfe4zV) | 3:31 | 2021-12-06 | 2023-03-18 |
 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/1Q2uBll5mMW8BY4T9XSrCo) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Si Tu Amor No Vuelve](https://open.spotify.com/album/4yPrBID40hUMocphha5lr7) | 3:21 | 2021-12-06 | 2023-01-07 |
