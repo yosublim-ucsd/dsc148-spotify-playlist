@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > Your weekly Rock update\. Cover: audalei
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,211 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,199 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Off My Back](https://open.spotify.com/track/0HjOIq9IGVyVeLBJBP51uP) | [moondoggy](https://open.spotify.com/artist/5p00nwfrUcZvA9WbXZeQOk) | [Mad and Noisy](https://open.spotify.com/album/15JmQH5VYVKiTdueByfqgz) | 2:52 |
 | 100 | [Sugar Like That](https://open.spotify.com/track/2GZga87kUDmNkFtOq49sEr) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Sugar Like That](https://open.spotify.com/album/6NOHZlMBXG95ldNB72ORJx) | 3:13 |
 
-Snapshot ID: `MCxjYjIyNWQyNTczNWI1MDIwODBmNjNiMzE3OTJkOTJkNjJmMWM0ZGJh`
+Snapshot ID: `MCxjYzE3YzgyMmU5MDNlNTU5YzlkNWVhMDFjMWJjNTY3NTg0NTlkZWNi`

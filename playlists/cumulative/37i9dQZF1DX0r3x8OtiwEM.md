@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-624 songs - 2 day 14 hr 0 min
+625 songs - 2 day 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Cure](https://open.spotify.com/track/4W76PWtsmhFsKQV71Ob2pO) | [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [Cure](https://open.spotify.com/album/2XoI5qVGrQF0uPAe10V9CZ) | 5:09 | 2020-01-05 | 2021-05-28 |
 | [Curve](https://open.spotify.com/track/5J0id4CmRP4rC89UmwVFYd) | [Microtrauma](https://open.spotify.com/artist/4abBidW4ScsxlRcISTeKkB) | [Curve \| The Arc](https://open.spotify.com/album/7Cv8pKOfpX7oBQPMRQU0Qd) | 8:35 | 2020-09-26 | 2020-11-28 |
 | [Customer Is King](https://open.spotify.com/track/3EVG82aojuaXoWyg0djkqU) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Customer is King](https://open.spotify.com/album/5g6jFkrrPcRKKZ7uQjFpHi) | 4:37 | 2019-08-06\* | 2020-05-27 |
+| [Dance With Me](https://open.spotify.com/track/0VbexUMmRVxsshn5PPqrfW) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Dance With Me EP](https://open.spotify.com/album/5g5vQzGIuYwk5iXJpXWioS) | 6:31 | 2023-11-27 |  |
 | [Dance With Me](https://open.spotify.com/track/7i08AhQcrdD4GLlr2Pmamg) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Dance With Me EP](https://open.spotify.com/album/4s6yX6gWHCSuI9M67i3qUC) | 6:31 | 2022-09-30 | 2024-01-05 |
 | [Dance with My Ghost \(feat\. Elderbrook\)](https://open.spotify.com/track/6lQzNJLgIn4uEK4NUMUcjv) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Dark Matter](https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN) | 4:06 | 2020-11-21 | 2023-07-01 |
 | [Dancing Thing](https://open.spotify.com/track/4M2pTJYh02HGpH3KqkGvoP) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Dancing Thing](https://open.spotify.com/album/3Lc3AX7Ta7WsefbEAFplQr) | 3:04 | 2023-04-28 |  |
@@ -572,7 +573,7 @@
 | [Trauma](https://open.spotify.com/track/4iGmeE1BwOerlAdennrkC2) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Raindrops](https://open.spotify.com/album/564ZPjEGjn6cSQzDYpZT0w) | 2:53 | 2020-01-02 | 2021-05-07 |
 | [Trivia](https://open.spotify.com/track/3WMztTAtiAdKW2RFmRcjjC) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0), [Florian Kruse](https://open.spotify.com/artist/7GhGgxIAhzJxZXvF1bEYZ8) | [Trivia \| Ultraschall](https://open.spotify.com/album/3RmQ7w7EEPWiDDJYCBnt4i) | 7:08 | 2019-12-07 | 2020-01-15 |
 | [trolltekno](https://open.spotify.com/track/1F27K7w0KJx3HtKx338Ert) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [trolltekno](https://open.spotify.com/album/0wivQgXg1hCTSJlbm9MFwv) | 6:43 | 2022-04-04 | 2022-04-16 |
-| [Trust](https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Trust](https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB) | 4:55 | 2022-11-26 |  |
+| [Trust](https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Trust](https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB) | 4:55 | 2022-11-26 | 2024-01-08 |
 | [Trust](https://open.spotify.com/track/3Y8TTbfO0gPryMBic26B7q) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Trust / Midnight](https://open.spotify.com/album/3SVMH8Rob9wkDi8JykvTMB) | 6:56 | 2019-08-06\* | 2020-03-14 |
 | [Tunnel Run](https://open.spotify.com/track/6ctFMN8mLVqE8VOm8uNwj4) | [Dom Kane](https://open.spotify.com/artist/36VhFXGlahmuSAXdr7SVCP) | [Stoic](https://open.spotify.com/album/4Jw8y2myKin7NdJzcmcYgI) | 5:49 | 2019-08-06\* | 2020-02-27 |
 | [Twisted Reality \- Edit](https://open.spotify.com/track/22If8nq6QHdvcT2meERlcl) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Twisted Reality \(Edit\)](https://open.spotify.com/album/2pkttY8alxMO6o2eogLegg) | 3:27 | 2021-10-09 | 2023-01-14 |

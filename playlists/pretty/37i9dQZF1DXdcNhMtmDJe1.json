@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 83222,
+  "num_followers": 83245,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjA5ZDc5NjBiNDdlZjhmYmJiYzAzYjI4YzliY2RmNmQ1MjU2ZmI1",
+  "snapshot_id": "MCwxNmI5ZDRhOTFkNWVkMjg1NjVhODI4MWQ2MTYzMzBiYTc0ZWRiYzY1",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -671,6 +671,30 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Manhattan Playboys - American Light Classics",
+        "url": "https://open.spotify.com/album/4to8RtQ37KGn9KPliy7E2m"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Iain Sutherland Concert Orchestra",
+          "url": "https://open.spotify.com/artist/0T8RuYrFepdPuz5Zkpyo1a"
+        },
+        {
+          "name": "Iain Sutherland",
+          "url": "https://open.spotify.com/artist/5IMrAzailmE4a1Xh84e2ss"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "Walking the Dog",
+      "url": "https://open.spotify.com/track/44BqSNIY939oSXXYWYfoQJ"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Icon: Menuhin and Grappelli",
         "url": "https://open.spotify.com/album/7pKyZXyyF4ikG7UPG5YDUr"
       },
@@ -715,30 +739,6 @@
       "duration_ms": 139626,
       "name": "Gershwin / Arr. Harris: Fascinatin' Rhythm",
       "url": "https://open.spotify.com/track/7hEmaEBReUuhaskdorVGRq"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Manhattan Playboys - American Light Classics",
-        "url": "https://open.spotify.com/album/4to8RtQ37KGn9KPliy7E2m"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Iain Sutherland Concert Orchestra",
-          "url": "https://open.spotify.com/artist/0T8RuYrFepdPuz5Zkpyo1a"
-        },
-        {
-          "name": "Iain Sutherland",
-          "url": "https://open.spotify.com/artist/5IMrAzailmE4a1Xh84e2ss"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "Walking the Dog",
-      "url": "https://open.spotify.com/track/44BqSNIY939oSXXYWYfoQJ"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1115,34 +1115,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: Rhapsody in Blue",
-        "url": "https://open.spotify.com/album/2NO6kml1PSIKXTVXYoQVXc"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Michael Tilson Thomas",
-          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
-        },
-        {
-          "name": "Buffalo Philharmonic",
-          "url": "https://open.spotify.com/artist/7y7JfF5Y2WU0VO8kWjp6WJ"
-        },
-        {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
-        }
-      ],
-      "duration_ms": 275706,
-      "name": "Of Thee I Sing: Overture (Arr. D. Rose for Orchestra)",
-      "url": "https://open.spotify.com/track/2OyY9i6Ct7zLdrron7eIdt"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin: Piano Concerto/Copland: El sal\u00f3n Mexico, etc.",
         "url": "https://open.spotify.com/album/5S77nfKK1NxxwBaoLY7mWk"
       },
@@ -1167,6 +1139,34 @@
       "duration_ms": 799826,
       "name": "Piano Concerto in F: 2. Adagio",
       "url": "https://open.spotify.com/track/6pgaNRblhbixTnmoP6hOvn"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: Rhapsody in Blue",
+        "url": "https://open.spotify.com/album/2NO6kml1PSIKXTVXYoQVXc"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
+        },
+        {
+          "name": "Buffalo Philharmonic",
+          "url": "https://open.spotify.com/artist/7y7JfF5Y2WU0VO8kWjp6WJ"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        }
+      ],
+      "duration_ms": 275706,
+      "name": "Of Thee I Sing: Overture (Arr. D. Rose for Orchestra)",
+      "url": "https://open.spotify.com/track/2OyY9i6Ct7zLdrron7eIdt"
     },
     {
       "added_at": "2022-08-05 04:02:00",

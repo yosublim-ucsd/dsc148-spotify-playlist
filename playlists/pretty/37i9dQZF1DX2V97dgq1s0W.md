@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 
 > Beautifully chilled vocals from around the world\. Cover: Kali Claire & Shae Universe
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,441 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,569 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 | 79 | [Do4Me](https://open.spotify.com/track/1isU5KK4VtbUHSuNS3dVgT) | [Grace Weber](https://open.spotify.com/artist/3hJNrfFurTlGFglmBwyFFM) | [Do4Me](https://open.spotify.com/album/2awfRDVsDs7EHgnfCaY7Wr) | 2:04 |
 | 80 | [Outside](https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Outside](https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY) | 3:25 |
 
-Snapshot ID: `MCw0YmE2ZjExNzgxMjhmZTZiMmQyYzY4NTBhOTNiNTcxNDg2YmMwZDBk`
+Snapshot ID: `MCw5NGFmNjFlNzEyODFhZWI3MTgxN2I5MGNmNzczMjY3MjBiNDYxNzNh`

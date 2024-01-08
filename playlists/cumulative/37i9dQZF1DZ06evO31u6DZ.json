@@ -762,7 +762,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 232000,
       "name": "I Am Error",
       "url": "https://open.spotify.com/track/6dedec4UcACJV9MlQwydqK"
@@ -1250,6 +1250,24 @@
       "duration_ms": 195826,
       "name": "Saint Anthony",
       "url": "https://open.spotify.com/track/2cMosb3ON8fKZjpRi3eDpf"
+    },
+    {
+      "album": {
+        "name": "The Fire",
+        "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195826,
+      "name": "Saint Anthony",
+      "url": "https://open.spotify.com/track/5WBdIPNXqTJV1Q7VtVNpFv"
     },
     {
       "album": {

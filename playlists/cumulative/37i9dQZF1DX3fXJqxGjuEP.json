@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Ciclo",
+        "url": "https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262353,
+      "name": "A la Madrugada",
+      "url": "https://open.spotify.com/track/10LdL0dPRj9USXdfT0Vt4p"
+    },
+    {
+      "album": {
         "name": "Off The Record",
         "url": "https://open.spotify.com/album/3ltOG1Zcq6fbqYvwIGBXeu"
       },
@@ -4910,7 +4928,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 197017,
       "name": "Las 4:40",
       "url": "https://open.spotify.com/track/375DBtzbfzVuHcDK8TG9PB"

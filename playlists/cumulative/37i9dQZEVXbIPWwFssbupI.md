@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,638 songs - 3 day 15 hr 10 min
+1,639 songs - 3 day 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [10.03.2023](https://open.spotify.com/track/0rogG0xr0c3Fdxdm0co3aK) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [10.03.2023](https://open.spotify.com/album/5MTYQI2pDrkzI8eSl9Ecdg) | 2:40 | 2023-02-25 | 2023-03-12 |
 | [10.03.2023](https://open.spotify.com/track/2hfeuQkhID6cCWloWe6ugO) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn) | 2:40 | 2023-09-27 | 2023-11-26 |
 | [10.03.2023](https://open.spotify.com/track/2uwdCyYYio0yplI31cLqqm) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP) | 2:40 | 2023-03-11 | 2023-03-25 |
-| [100K](https://open.spotify.com/track/0RXp3LrNZo89KjmfUJS0UO) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 1:56 | 2023-12-02 |  |
+| [100K](https://open.spotify.com/track/0RXp3LrNZo89KjmfUJS0UO) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 1:56 | 2023-12-02 | 2024-01-08 |
 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 | 2023-02-04 | 2023-02-15 |
 | [11H \(feat\. Ninho\)](https://open.spotify.com/track/5Qbd9YziMwiyLELt3cGSf5) | [Lamatrix](https://open.spotify.com/artist/5eAv3bvAehIJEOMLtzAtaE), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Rookie](https://open.spotify.com/album/2uBDE2RlFbAZwxDICMtE2O) | 3:00 | 2022-03-12 | 2022-03-21 |
 | [140G](https://open.spotify.com/track/61t1k1kGqdDWz6Ln1ShdWO) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [1PLIKÉ140](https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU) | [Le monde est méchant](https://open.spotify.com/album/4htdMrekIHwLEHhyw4ArcX) | 3:02 | 2021-11-07 | 2021-11-14 |
@@ -1144,6 +1144,7 @@
 | [Paradis Artificiel](https://open.spotify.com/track/46b4vKpEdZ1cK0l33daooy) | [Gros Mo](https://open.spotify.com/artist/7r65N4pfWPM7D0zKe86jgk), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH) | [GROZO Social Club](https://open.spotify.com/album/1ekb5vtD11JJoxcye3kDJJ) | 4:12 | 2022-05-11 | 2022-05-13 |
 | [Paramètre](https://open.spotify.com/track/0Wb3davuTcZ6MwwXjs9Lok) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Le monde est méchant](https://open.spotify.com/album/4htdMrekIHwLEHhyw4ArcX) | 3:13 | 2021-11-07 | 2021-11-11 |
 | [Parano](https://open.spotify.com/track/2pj0SNwkwxVWeFrAYtUAhB) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS II](https://open.spotify.com/album/7eKvzMoLTENJaukj2pHrw7) | 3:24 | 2021-03-27\* | 2021-04-05 |
+| [Parapluie](https://open.spotify.com/track/4CkbzYcdIRJhrA9tzwFj0B) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf) | [Parapluie](https://open.spotify.com/album/1iA5D7sBXDGAITkSWPIqDF) | 2:56 | 2024-01-07 |  |
 | [Parapluie](https://open.spotify.com/track/6I0RkppLUfiUt1KoeF8u2G) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 4:04 | 2022-05-28 | 2022-06-01 |
 | [PARASAIL](https://open.spotify.com/track/2Q0aElTZQtEUsoiaQfizu6) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 2:34 | 2023-07-29 | 2023-07-31 |
 | [Parasite](https://open.spotify.com/track/7DZZrxgHYPT0HsyiyEhTM7) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/6V9TAy7JYau3aChQfx4hCq) | 2:44 | 2021-11-14 | 2021-11-19 |

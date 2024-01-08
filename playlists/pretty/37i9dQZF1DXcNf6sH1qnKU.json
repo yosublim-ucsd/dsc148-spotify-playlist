@@ -1,12 +1,12 @@
 {
   "description": "Glimmering, warm, and bright memories: Broadcast on the cover.",
-  "num_followers": 512130,
+  "num_followers": 512557,
   "original_name": "Dreampop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDJmYjk5OWY0ZTExNmM5ZDNjYzgxYjA2MzI1OTA3YTAyOTEyZWFk",
+  "snapshot_id": "MCwzYzc0MWM3MTYyMWM5YTVhMWVkZmZjYzNmYjA3MDdjM2EzNzMyODc5",
   "tracks": [
     {
       "added_at": "2021-10-01 10:38:06",
@@ -635,22 +635,6 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Isn't Anything",
-        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Lose My Breath",
-      "url": "https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
         "name": "Forever (Expanded Edition)",
         "url": "https://open.spotify.com/album/3nFSPWRHULzYNWGQoDzjKV"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 185226,
       "name": "Jewel",
       "url": "https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "Isn't Anything",
+        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Lose My Breath",
+      "url": "https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK"
     },
     {
       "added_at": "2022-02-18 20:00:47",
@@ -703,22 +703,6 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Melody of Certain Damaged Lemons",
-        "url": "https://open.spotify.com/album/6wRDKCpKw3ap6dhkpdXNIN"
-      },
-      "artists": [
-        {
-          "name": "Blonde Redhead",
-          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
-        }
-      ],
-      "duration_ms": 365533,
-      "name": "In Particular",
-      "url": "https://open.spotify.com/track/4rz3AwWL2wbJoye11pbULz"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
         "name": "Morning Light",
         "url": "https://open.spotify.com/album/3BcDdBU8cdW1iaBuWBQ9lk"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 401111,
       "name": "No-One in the World",
       "url": "https://open.spotify.com/track/4eCgoHGTLuZshiHWitgAtT"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "Melody of Certain Damaged Lemons",
+        "url": "https://open.spotify.com/album/6wRDKCpKw3ap6dhkpdXNIN"
+      },
+      "artists": [
+        {
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+        }
+      ],
+      "duration_ms": 365533,
+      "name": "In Particular",
+      "url": "https://open.spotify.com/track/4rz3AwWL2wbJoye11pbULz"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -799,18 +799,18 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
+        "name": "Winks & Kisses (20th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4wuy28g2FFk40nEh52Rafy"
       },
       "artists": [
         {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+          "name": "Airiel",
+          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
         }
       ],
-      "duration_ms": 265373,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/0RBfGcrONMLwLysUhbtxJM"
+      "duration_ms": 566466,
+      "name": "In Your Room",
+      "url": "https://open.spotify.com/track/03vkICPhl5N7CFmasxCERG"
     }
   ],
   "unique_name": "Dreampop Classics",

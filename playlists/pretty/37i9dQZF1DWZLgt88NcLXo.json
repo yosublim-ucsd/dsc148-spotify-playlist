@@ -1,12 +1,12 @@
 {
   "description": "Guitarra c\u00e1lida e instrumental para un agradable inicio de d\u00eda.",
-  "num_followers": 11999,
+  "num_followers": 11997,
   "original_name": "wuen dia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGU2YWExMTZhMjU0MDljYWMyYzhmM2FmMzU2NDA0MTVjZjI3MzE5",
+  "snapshot_id": "MCxmMDQ1ODJmZGI1OTNlZmExZjE3NDA3YWI5Njk1OTQxOTYwNDAxNTQw",
   "tracks": [
     {
       "added_at": "2023-09-15 09:04:35",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "A Sweet Portrait",
-        "url": "https://open.spotify.com/album/1BbCTjpeM7eKKLQwpNUzDl"
-      },
-      "artists": [
-        {
-          "name": "Adone Alleva",
-          "url": "https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq"
-        }
-      ],
-      "duration_ms": 147874,
-      "name": "A Sweet Portrait",
-      "url": "https://open.spotify.com/track/3tWMxyyVYEFZDHhvQa2CtY"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Virginia (Acoustic Guitar)",
         "url": "https://open.spotify.com/album/3baVP3sGIoBgLrK0QTOHns"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Quiver and Wince",
-        "url": "https://open.spotify.com/album/6w3OZdViK1m8vmZSGZNGAH"
+        "name": "A Sweet Portrait",
+        "url": "https://open.spotify.com/album/1BbCTjpeM7eKKLQwpNUzDl"
       },
       "artists": [
         {
-          "name": "Dean M Parker",
-          "url": "https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT"
+          "name": "Adone Alleva",
+          "url": "https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq"
         }
       ],
-      "duration_ms": 139113,
-      "name": "Quiver and Wince",
-      "url": "https://open.spotify.com/track/06lkOWre18zq2lSEX23pzb"
+      "duration_ms": 147874,
+      "name": "A Sweet Portrait",
+      "url": "https://open.spotify.com/track/3tWMxyyVYEFZDHhvQa2CtY"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -823,6 +807,22 @@
       "duration_ms": 166444,
       "name": "Malgr\u00e9 le n\u00e9ant",
       "url": "https://open.spotify.com/track/5V03ziQJGHaoAJcfPIYWWZ"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Quiver and Wince",
+        "url": "https://open.spotify.com/album/6w3OZdViK1m8vmZSGZNGAH"
+      },
+      "artists": [
+        {
+          "name": "Dean M Parker",
+          "url": "https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT"
+        }
+      ],
+      "duration_ms": 139113,
+      "name": "Quiver and Wince",
+      "url": "https://open.spotify.com/track/06lkOWre18zq2lSEX23pzb"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Unforced",
-        "url": "https://open.spotify.com/album/1ID1Z4DCgMELtWTnLyscGQ"
+        "name": "Homebound",
+        "url": "https://open.spotify.com/album/36VPh59fnClN38LLdlgHnU"
       },
       "artists": [
         {
-          "name": "Toledo Heights",
-          "url": "https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q"
+          "name": "Andreas Horschel",
+          "url": "https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV"
         }
       ],
-      "duration_ms": 141310,
-      "name": "Unforced",
-      "url": "https://open.spotify.com/track/56hk6GkYuk8AmUOdjPEYDb"
+      "duration_ms": 144000,
+      "name": "Homebound",
+      "url": "https://open.spotify.com/track/3fZolWbWofhjyFDQXWL0T3"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Homebound",
-        "url": "https://open.spotify.com/album/36VPh59fnClN38LLdlgHnU"
+        "name": "Unforced",
+        "url": "https://open.spotify.com/album/1ID1Z4DCgMELtWTnLyscGQ"
       },
       "artists": [
         {
-          "name": "Andreas Horschel",
-          "url": "https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV"
+          "name": "Toledo Heights",
+          "url": "https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Homebound",
-      "url": "https://open.spotify.com/track/3fZolWbWofhjyFDQXWL0T3"
+      "duration_ms": 141310,
+      "name": "Unforced",
+      "url": "https://open.spotify.com/track/56hk6GkYuk8AmUOdjPEYDb"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Chiapas",
-        "url": "https://open.spotify.com/album/0mA1yo4p1ZO8t8mvQg63Gl"
-      },
-      "artists": [
-        {
-          "name": "Mario Cabrera",
-          "url": "https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh"
-        }
-      ],
-      "duration_ms": 185820,
-      "name": "Chiapas",
-      "url": "https://open.spotify.com/track/6deSg4veAk0NwTNF9bNry8"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Path To The Mind",
         "url": "https://open.spotify.com/album/1qCBCQvepLF70Ge8hQJSxF"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 203000,
       "name": "Path To The Mind",
       "url": "https://open.spotify.com/track/14V2T4B8QG4kMZLc7XyYPv"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Chiapas",
+        "url": "https://open.spotify.com/album/0mA1yo4p1ZO8t8mvQg63Gl"
+      },
+      "artists": [
+        {
+          "name": "Mario Cabrera",
+          "url": "https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh"
+        }
+      ],
+      "duration_ms": 185820,
+      "name": "Chiapas",
+      "url": "https://open.spotify.com/track/6deSg4veAk0NwTNF9bNry8"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Canci\u00f3n A Solas",
-        "url": "https://open.spotify.com/album/4Qb1rsL5QvMtnDVE4fEjTZ"
-      },
-      "artists": [
-        {
-          "name": "Marta Fiscovich",
-          "url": "https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7"
-        }
-      ],
-      "duration_ms": 146875,
-      "name": "Canci\u00f3n A Solas",
-      "url": "https://open.spotify.com/track/2h4IHvYUMuHSRtP1IN7Mpr"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "The Bones (Acoustic Guitar)",
         "url": "https://open.spotify.com/album/5uhCEyOokgbICmNE3f8iyh"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 219428,
       "name": "The Bones - Acoustic Guitar",
       "url": "https://open.spotify.com/track/0feIKFDxL7dsgdHZRWbdb4"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Canci\u00f3n A Solas",
+        "url": "https://open.spotify.com/album/4Qb1rsL5QvMtnDVE4fEjTZ"
+      },
+      "artists": [
+        {
+          "name": "Marta Fiscovich",
+          "url": "https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7"
+        }
+      ],
+      "duration_ms": 146875,
+      "name": "Canci\u00f3n A Solas",
+      "url": "https://open.spotify.com/track/2h4IHvYUMuHSRtP1IN7Mpr"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Alloa",
-        "url": "https://open.spotify.com/album/2hs44iF5KvsJbTBzEz87FS"
-      },
-      "artists": [
-        {
-          "name": "Olma",
-          "url": "https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP"
-        }
-      ],
-      "duration_ms": 128873,
-      "name": "Stirling",
-      "url": "https://open.spotify.com/track/1HDPEUzDPniGZpULtKa4q4"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Unknown",
         "url": "https://open.spotify.com/album/2bOqx8yL6KpAUcNtv8RhO2"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 147317,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/3GAGou6aIHq6LpVOWat8yl"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Alloa",
+        "url": "https://open.spotify.com/album/2hs44iF5KvsJbTBzEz87FS"
+      },
+      "artists": [
+        {
+          "name": "Olma",
+          "url": "https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP"
+        }
+      ],
+      "duration_ms": 128873,
+      "name": "Stirling",
+      "url": "https://open.spotify.com/track/1HDPEUzDPniGZpULtKa4q4"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Rosa",
-        "url": "https://open.spotify.com/album/6g3WQMnaQDcJiWseLkTcv7"
-      },
-      "artists": [
-        {
-          "name": "Maria Gastona",
-          "url": "https://open.spotify.com/artist/3qkCdwF2fxcLJsPUigwRcV"
-        }
-      ],
-      "duration_ms": 150592,
-      "name": "Pelotas",
-      "url": "https://open.spotify.com/track/00lpRj2l4gBL7aex8kneAg"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Misty Midnight",
         "url": "https://open.spotify.com/album/7JGiEcxXiPHjLEHH0eMzn1"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 134498,
       "name": "Misty Midnight",
       "url": "https://open.spotify.com/track/3os1MjgOwLFIyvyP67JKaE"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/6g3WQMnaQDcJiWseLkTcv7"
+      },
+      "artists": [
+        {
+          "name": "Maria Gastona",
+          "url": "https://open.spotify.com/artist/3qkCdwF2fxcLJsPUigwRcV"
+        }
+      ],
+      "duration_ms": 150592,
+      "name": "Pelotas",
+      "url": "https://open.spotify.com/track/00lpRj2l4gBL7aex8kneAg"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2215,22 +2215,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "El Antiguo Camino",
-        "url": "https://open.spotify.com/album/092tdrmx3Ot8b75qGeZg0q"
-      },
-      "artists": [
-        {
-          "name": "Atacustico",
-          "url": "https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk"
-        }
-      ],
-      "duration_ms": 156501,
-      "name": "El Antiguo Camino",
-      "url": "https://open.spotify.com/track/6c7m8DqA9iH8R1PrA3DzVn"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx"
       },
@@ -2243,6 +2227,22 @@
       "duration_ms": 191308,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/69U72YqRzX3NUDlojqK6Uk"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "El Antiguo Camino",
+        "url": "https://open.spotify.com/album/092tdrmx3Ot8b75qGeZg0q"
+      },
+      "artists": [
+        {
+          "name": "Atacustico",
+          "url": "https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk"
+        }
+      ],
+      "duration_ms": 156501,
+      "name": "El Antiguo Camino",
+      "url": "https://open.spotify.com/track/6c7m8DqA9iH8R1PrA3DzVn"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Fim de Tarde",
-        "url": "https://open.spotify.com/album/7nYL8OdidBi3Uc11Y4w3sL"
-      },
-      "artists": [
-        {
-          "name": "Pikol",
-          "url": "https://open.spotify.com/artist/2TKioplBxA4k56i0iVyUfZ"
-        }
-      ],
-      "duration_ms": 173837,
-      "name": "Fim de Tarde",
-      "url": "https://open.spotify.com/track/4h1Fj97KDFdjc7qsj7RQU1"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Hispanoamerica",
         "url": "https://open.spotify.com/album/1DKEdUrzxF0LOFSjFjQpY1"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 204000,
       "name": "Hispanoamerica",
       "url": "https://open.spotify.com/track/6c8Ma1htTLtiHXShaYwYDu"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Fim de Tarde",
+        "url": "https://open.spotify.com/album/7nYL8OdidBi3Uc11Y4w3sL"
+      },
+      "artists": [
+        {
+          "name": "Pikol",
+          "url": "https://open.spotify.com/artist/2TKioplBxA4k56i0iVyUfZ"
+        }
+      ],
+      "duration_ms": 173837,
+      "name": "Fim de Tarde",
+      "url": "https://open.spotify.com/track/4h1Fj97KDFdjc7qsj7RQU1"
     },
     {
       "added_at": "2023-09-15 09:04:35",

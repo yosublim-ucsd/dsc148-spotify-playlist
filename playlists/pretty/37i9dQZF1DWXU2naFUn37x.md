@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Cover: Simba La Rue
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,447 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,406 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [Si si \(140bpm \- Emin\)](https://open.spotify.com/track/3slUj8GoFg2hBcXhWwiq70) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [EXPORT](https://open.spotify.com/album/30Dl1ii75LPbTc0LqXBo2s) | 2:44 |
 | 50 | [FERRO \(feat\. Rasty Kilo\)](https://open.spotify.com/track/1PSoQsnBRfq3hIZGKQhoa8) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [Rasty Kilo](https://open.spotify.com/artist/0W7yEx7tCUH0FGMHB3DUL8), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [FERRO \(feat\. Rasty Kilo\)](https://open.spotify.com/album/5GqANzKvHEhOzby11m8iUe) | 2:47 |
 
-Snapshot ID: `MCw4OWEwMGE2OTgyYjQyMDBkYWQ0M2I5YTNkOGU5NjkwZjE3MDM0NDRk`
+Snapshot ID: `MCw0OTdkZDlhZDk0NDI2OGQwNjQ5MWFmZGVmMGEwN2U5NTg2NTEwNzNj`

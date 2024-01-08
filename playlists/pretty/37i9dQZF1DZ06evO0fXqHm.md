@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 
 > This is Mac Júlia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,049 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,051 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 | 28 | [Mama](https://open.spotify.com/track/61znzBhqg2HpuK1aMckMi4) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Mama](https://open.spotify.com/album/4xOsFV0RqRz4SJq2fkwge6) | 2:10 |
 | 29 | [Phone](https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Phone](https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL) | 2:46 |
 | 30 | [Macetada Forte](https://open.spotify.com/track/4mLgpSkTXqrFRkdOcMNArR) | [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Dj Dudu Coupper](https://open.spotify.com/artist/1KrZfBw5jysX8sRY1n48Az) | [Eu & Elas](https://open.spotify.com/album/4FZ4coUA02edFdEP8qUFE6) | 2:10 |
-| 31 | [Salto Alto](https://open.spotify.com/track/5tJm7qkKmiwt2iHZBLR02c) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [$IMBIO$E](https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY) | 2:37 |
-| 32 | [Dentro da Jacuzzi](https://open.spotify.com/track/0wZP6InCRKqs3mkMXOLbZH) | [Dj Mack](https://open.spotify.com/artist/5ZflLwWVyy7wFkCQXkfgw7), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Dentro da Jacuzzi](https://open.spotify.com/album/0vBioGs64fxKw2V0jYYNfi) | 2:12 |
+| 31 | [Dentro da Jacuzzi](https://open.spotify.com/track/0wZP6InCRKqs3mkMXOLbZH) | [Dj Mack](https://open.spotify.com/artist/5ZflLwWVyy7wFkCQXkfgw7), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Dentro da Jacuzzi](https://open.spotify.com/album/0vBioGs64fxKw2V0jYYNfi) | 2:12 |
+| 32 | [Salto Alto](https://open.spotify.com/track/5tJm7qkKmiwt2iHZBLR02c) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [$IMBIO$E](https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY) | 2:37 |
 | 33 | [Juma Marruá](https://open.spotify.com/track/69GJRlhDtyaOnSGL7tQhhw) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C) | [Juma](https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW) | 2:42 |
 | 34 | [Tira a Roupa sua Louca Vs Ele Carrega Minha Bolsa](https://open.spotify.com/track/4cTMZxROSq5xchtTNrz7W6) | [Mc Jajau](https://open.spotify.com/artist/3xJ3stRn1VTzH0EgGmF4hm), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Markim WF](https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP) | [Tira a Roupa sua Louca Vs Ele Carrega Minha Bolsa](https://open.spotify.com/album/7CtLXWiHSbTmb5elDBX7ug) | 1:10 |
 | 35 | [Puta Que Pariu](https://open.spotify.com/track/4NDvt31QU8VSXjfEk7O64A) | [DJ Dayeh](https://open.spotify.com/artist/0ZTKJ3pvPBc2IgKz6i7RH3), [DJ K](https://open.spotify.com/artist/1YZljq3fZXrlnCe0mMxwKB), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [Tory Dru](https://open.spotify.com/artist/0dxYsrJebx92yDX7hQrup5) | [Puta Que Pariu](https://open.spotify.com/album/515WImJFOyl2duvuIV1lo6) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 | 49 | [Medley](https://open.spotify.com/track/6FA0auhg0L75rRKIoYwpAx) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C) | [Juma](https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW) | 3:26 |
 | 50 | [Money Make](https://open.spotify.com/track/1Wv5iyCi1kEeKYvFf0Ruha) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Laura Sette](https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc) | [Sextape: Love Me Two Times](https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR) | 2:11 |
 
-Snapshot ID: `Mjg0MDkwNTYsMDAwMDAwMDBiZDkxY2I4NjNmOGU0NDhkNjgxNmUwODc1YjcyMjE2NA==`
+Snapshot ID: `Mjg0MTA0NDksMDAwMDAwMDBhYTA1ZDA2Nzk4MjVhM2MxM2RiNjExMjgwYjIwOWQxNw==`

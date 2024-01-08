@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: Bankzitters
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,922 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,931 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 39 | [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 |
 | 40 | [Omhoog](https://open.spotify.com/track/2p6m19378bBTJbgI805XbQ) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Wonderland](https://open.spotify.com/album/1kXKhpGQNwFrHZmmzF6xJ4) | 3:50 |
 
-Snapshot ID: `MCxmN2Q1MWQwMGMwZmU5ZDAwYWEyZjI3ZmRlYjlhYzlhNzgzZDJmNTU0`
+Snapshot ID: `MCw0NjM0ZmZmODJiNjJjYjU0YzY2OGRmMDIwMDc4N2VkNWJkZDU3ZWMz`

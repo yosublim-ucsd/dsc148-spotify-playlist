@@ -4,7 +4,7 @@
 
 > Introducing Alma — a soul born from Latin and house music.
 
-157 songs - 8 hr 43 min
+158 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Fuego](https://open.spotify.com/track/75JsIen4AneIFiDf9hbepF) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Fuego](https://open.spotify.com/album/5bAJzXqwhA4JdBjqAqg4nq) | 1:56 | 2023-11-10 |  |
 | [Gitrox](https://open.spotify.com/track/259nV0mqEAhFcLDAcSXnYM) | [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU) | [Gitrox](https://open.spotify.com/album/2AE94zFSIdF8NiSygPFdMU) | 3:17 | 2023-12-01 | 2023-12-14 |
 | [Gitrox](https://open.spotify.com/track/7jQZtYrb5nyWXEiNlu0VMQ) | [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU) | [Gitrox](https://open.spotify.com/album/02LTijbsb6BLbfZMKOEip1) | 3:17 | 2023-12-15 |  |
+| [Gringada](https://open.spotify.com/track/5vnQUEjtukbbnWcrnigfpT) | [Costa Leon](https://open.spotify.com/artist/3vkZeJ4Gkrwmy21vHPrsDh), [DJ Cuervo](https://open.spotify.com/artist/1L1RMOhubngzDWQzrRB9UH) | [Gringada](https://open.spotify.com/album/31IgBVgxGhUfMUGlA6wZAq) | 2:48 | 2024-01-05 |  |
 | [Hagüe](https://open.spotify.com/track/0lpy5ODb3Hk08nGa5izWb6) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Hagüe](https://open.spotify.com/album/0fdy6q55zq1iYKuMkuCJfH) | 2:57 | 2023-11-10 | 2023-12-09 |
 | [HAVANA](https://open.spotify.com/track/1okjg2DZKCyA0w0iCDd10s) | [Vince Morgana](https://open.spotify.com/artist/3OSIswp0zBG2rR96q1Rwp8), [GLADYS](https://open.spotify.com/artist/1Prt0hPO7hG4KRGs9DPpDf) | [HAVANA](https://open.spotify.com/album/4a01OCAe3GzRCRpx67bXFN) | 2:26 | 2024-01-05 |  |
 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 | 2023-11-10 |  |
@@ -143,7 +144,7 @@
 | [Toma Que Toma](https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Toma Que Toma](https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd) | 3:47 | 2023-11-10 |  |
 | [Tranquilao](https://open.spotify.com/track/55JldO2wWzdj87gNz351ZH) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Tranquilao](https://open.spotify.com/album/20SFmEkOhcF3IwYYTOO0mS) | 3:00 | 2023-11-17 |  |
 | [Tribesmen \- Original Mix](https://open.spotify.com/track/3s6dh2duRyDcs3iu56CqgY) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Tribesmen](https://open.spotify.com/album/4zHC8hqVij0EsQ7l29PaQk) | 7:17 | 2021-10-08 | 2023-11-11 |
-| [Trágatelo](https://open.spotify.com/track/7isW5u9xH4iDUJfqn36UMl) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Philip Z](https://open.spotify.com/artist/15F2LcEjhyssahY1ZsGg7C), [Fatboi](https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE) | [Trágatelo](https://open.spotify.com/album/77pIaKUlGjnL7tXbVL7FTI) | 2:47 | 2023-11-10 |  |
+| [Trágatelo](https://open.spotify.com/track/7isW5u9xH4iDUJfqn36UMl) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Philip Z](https://open.spotify.com/artist/15F2LcEjhyssahY1ZsGg7C), [Fatboi](https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE) | [Trágatelo](https://open.spotify.com/album/77pIaKUlGjnL7tXbVL7FTI) | 2:47 | 2023-11-10 | 2024-01-08 |
 | [Tuku Tu](https://open.spotify.com/track/1ICNLsyIPgrIjN36Txxx7B) | [BOLO THE DJ](https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7) | [Tuku Tu](https://open.spotify.com/album/06S2P8ii5L32tyu5JCTcx1) | 2:20 | 2023-11-10 |  |
 | [Tumba La Casa](https://open.spotify.com/track/5yImYZuD2w8U9JbfNl5Gni) | [Disaia](https://open.spotify.com/artist/2q65mLlsL2xPDtEs2r15v9) | [Tumba La Casa](https://open.spotify.com/album/5zNfsoeS25qKfVbZGLgX4t) | 2:48 | 2023-11-10 |  |
 | [Tututu \- Radio Edit](https://open.spotify.com/track/3BRn1Iue3q3VQNwka4Cweq) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4), [KD One](https://open.spotify.com/artist/2KsIqWw1S0S8L8f86GwEMb), [CVMPANILE](https://open.spotify.com/artist/57xJDNhXj9OxeNKYrM3c8W), [Draxx \(ITA\)](https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73) | [Tututu \(Radio Edit\)](https://open.spotify.com/album/2mnt4Rz0fsBFxT7N6iAnr0) | 2:07 | 2023-11-10 |  |

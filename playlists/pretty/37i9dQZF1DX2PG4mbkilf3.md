@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada\. Elevate your aura with Zeina زينة.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,840 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,891 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [HANGING WITH YOU](https://open.spotify.com/track/2Fj4zjw9tV9NY1wWq0bAKN) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [HANGING WITH YOU](https://open.spotify.com/album/5HDraXX5eNcpYzNcyVyykH) | 3:50 |
 | 100 | [Beach](https://open.spotify.com/track/591OojQCkyOLyMqmJRVyyc) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Risk](https://open.spotify.com/album/1slDbdhOlw9i2XDsaEVQeo) | 2:06 |
 
-Snapshot ID: `MCw1MzUxNzNhNzBjZDBjMWQzNTI3MjNhZGNiNjM0ZTQ4NzFkYmI5NjRh`
+Snapshot ID: `MCxiYzU4NGFmNzgyZTdlZGVhZTJjMzdmZjZmYmI4NDNjNjg4ZWRmNzlm`

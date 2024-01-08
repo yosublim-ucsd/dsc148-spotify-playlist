@@ -1,15 +1,15 @@
 {
   "description": "This is Luke Combs. The essential tracks, all in one playlist.",
-  "num_followers": 733812,
+  "num_followers": 734026,
   "original_name": "This Is Luke Combs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0MDkwNTYsMDAwMDAwMDA4YWIwNGViZDEyZDI3MjkwNzA0ZjUzNTk3ZThjNDEyMQ==",
+  "snapshot_id": "Mjg0MTA0NDksMDAwMDAwMDAwZDA1ZjNiNGQzNmZlMDc4YWZlNTU1ZmY3MTlmOGExNw==",
   "tracks": [
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "Gettin' Old",
         "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "This One's for You Too (Deluxe Edition)",
         "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "Growin' Up",
         "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "What You See Ain't Always What You Get (Deluxe Edition)",
         "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "Gettin' Old",
         "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
@@ -89,39 +89,7 @@
       "url": "https://open.spotify.com/track/0eBFgRxyVSeuT4iyrbukdn"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
-      "album": {
-        "name": "This One's for You Too (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 183160,
-      "name": "She Got the Best of Me",
-      "url": "https://open.spotify.com/track/698eQRku24PIYPQPHItKlA"
-    },
-    {
-      "added_at": "2024-01-06 12:16:30",
-      "album": {
-        "name": "Growin' Up",
-        "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 177266,
-      "name": "Going, Going, Gone",
-      "url": "https://open.spotify.com/track/67AdiJcurlf6gocGobfaXs"
-    },
-    {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "This One's for You",
         "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
@@ -137,10 +105,10 @@
       "url": "https://open.spotify.com/track/6xHI9KjUjYT0FPtGO8Mxa1"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
-        "name": "What You See Is What You Get",
-        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+        "name": "Growin' Up",
+        "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
       },
       "artists": [
         {
@@ -148,12 +116,12 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 186733,
-      "name": "Beer Never Broke My Heart",
-      "url": "https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"
+      "duration_ms": 177266,
+      "name": "Going, Going, Gone",
+      "url": "https://open.spotify.com/track/67AdiJcurlf6gocGobfaXs"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "Different 'Round Here",
         "url": "https://open.spotify.com/album/1FkgWqBfOH8VaaiG8PRGxX"
@@ -173,7 +141,7 @@
       "url": "https://open.spotify.com/track/4l5w5qGInIhwfvpYmPIYdK"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "Gettin' Old",
         "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
@@ -189,7 +157,7 @@
       "url": "https://open.spotify.com/track/2kYevr8cbIAH2ha8210Bnz"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "This One's for You",
         "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
@@ -205,7 +173,7 @@
       "url": "https://open.spotify.com/track/4gB7HrYHbJVJ5RFOjxmoq4"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "Life Goes On (feat. Luke Combs)",
         "url": "https://open.spotify.com/album/6fyUUW7ISpjbxCxaBHl1UN"
@@ -225,7 +193,7 @@
       "url": "https://open.spotify.com/track/63kLorCFyk4ZHMHPhcWOtO"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
@@ -241,7 +209,7 @@
       "url": "https://open.spotify.com/track/6gdLyYNuhWBzqwlOFSsXC7"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "Gettin' Old",
         "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
@@ -257,7 +225,7 @@
       "url": "https://open.spotify.com/track/52ChYmfu792MW2Ezv0whpk"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "What You See Ain't Always What You Get (Deluxe Edition)",
         "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
@@ -273,7 +241,7 @@
       "url": "https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2H18xXYbVopKYddC2VqoPJ"
@@ -289,7 +257,7 @@
       "url": "https://open.spotify.com/track/2VWBdFsDJVGlRTdz4PvYwy"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
@@ -305,7 +273,7 @@
       "url": "https://open.spotify.com/track/0nYvjcSlCgjcwogQAwIwNp"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "This One's for You Too (Deluxe Edition)",
         "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
@@ -321,7 +289,7 @@
       "url": "https://open.spotify.com/track/6guWjUuNYziyNXgjFo1IpF"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "Gettin' Old",
         "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
@@ -337,7 +305,7 @@
       "url": "https://open.spotify.com/track/24Z0qiHUR9cTB4UfGUqCnj"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "The Way She Rides",
         "url": "https://open.spotify.com/album/4Nr8sEsN2h0xMbqJNsFbyJ"
@@ -353,7 +321,7 @@
       "url": "https://open.spotify.com/track/0TQ9Hf5DwI9crGZSIlq445"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
@@ -369,23 +337,7 @@
       "url": "https://open.spotify.com/track/5Fhe63YOMZsGdB3CgCDuBi"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
-      "album": {
-        "name": "This One's for You Too (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 198880,
-      "name": "Must've Never Met You",
-      "url": "https://open.spotify.com/track/6ojicjDYUUoeE1tdSvfFo4"
-    },
-    {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "Reboot",
         "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
@@ -405,7 +357,7 @@
       "url": "https://open.spotify.com/track/001UkMQHw4zXfFNdKpwXAF"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "Gettin' Old",
         "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
@@ -421,7 +373,7 @@
       "url": "https://open.spotify.com/track/5OGCd9NL8XcwpkTmSxL5YI"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "Growin' Up",
         "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
@@ -437,7 +389,27 @@
       "url": "https://open.spotify.com/track/6TpyujRefwsflWFXbmjVpj"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
+      "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        },
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 223320,
+      "name": "Does To Me (feat. Eric Church)",
+      "url": "https://open.spotify.com/track/0nGXi46VcQQ56ZJR428MKS"
+    },
+    {
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "Bet You're from a Small Town",
         "url": "https://open.spotify.com/album/00rNMpiSdqmVWMmQsahNTo"
@@ -457,23 +429,7 @@
       "url": "https://open.spotify.com/track/67wUHsoXdZ8UOLt6rodpQ9"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
-      "album": {
-        "name": "What You See Is What You Get",
-        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 171920,
-      "name": "What You See Is What You Get",
-      "url": "https://open.spotify.com/track/273TiTHLlHSRe5zrzs7wvD"
-    },
-    {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "Can I Get an Outlaw",
         "url": "https://open.spotify.com/album/7ENhewQQ9Hp8mdEAyIsWvW"
@@ -489,7 +445,7 @@
       "url": "https://open.spotify.com/track/1NBJoYCz83qtBFGGPgfTkQ"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "Growin' Up",
         "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
@@ -509,7 +465,23 @@
       "url": "https://open.spotify.com/track/79gv58G6usuURwl6TlmBTu"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
+      "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 171920,
+      "name": "What You See Is What You Get",
+      "url": "https://open.spotify.com/track/273TiTHLlHSRe5zrzs7wvD"
+    },
+    {
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "The Great Divide",
         "url": "https://open.spotify.com/album/1KUJKWXmE95TPXxeJecop9"
@@ -529,23 +501,7 @@
       "url": "https://open.spotify.com/track/3q3lSbfT5BnQlIvGwahgAD"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
-      "album": {
-        "name": "This One's for You",
-        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 175493,
-      "name": "Be Careful What You Wish For",
-      "url": "https://open.spotify.com/track/5gfK6bZFaApxdSHsHXrwPD"
-    },
-    {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "Can I Get an Outlaw",
         "url": "https://open.spotify.com/album/7ENhewQQ9Hp8mdEAyIsWvW"
@@ -561,7 +517,23 @@
       "url": "https://open.spotify.com/track/7vVsDu0gTg6oZtrKy7pXcW"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
+      "album": {
+        "name": "This One's for You",
+        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 175493,
+      "name": "Be Careful What You Wish For",
+      "url": "https://open.spotify.com/track/5gfK6bZFaApxdSHsHXrwPD"
+    },
+    {
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "Beyond (feat. Luke Combs) [Live]",
         "url": "https://open.spotify.com/album/4hhm2iJ6yhnMnlTaa5hjNo"
@@ -581,7 +553,7 @@
       "url": "https://open.spotify.com/track/05zt3H2jdG0MA1V6Q2t2Et"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "Two Dozen Roses (feat. Luke Combs)",
         "url": "https://open.spotify.com/album/3Drss6cMVLm1BC2787GlLY"
@@ -601,7 +573,7 @@
       "url": "https://open.spotify.com/track/5GQgvVT7tJGZNzj13pz36l"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "Growin' Up",
         "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
@@ -617,7 +589,7 @@
       "url": "https://open.spotify.com/track/3sPIJzHiDC420uQa8ZitF1"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "What You See Ain't Always What You Get (Deluxe Edition)",
         "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
@@ -633,7 +605,7 @@
       "url": "https://open.spotify.com/track/0jcZ1uIHmvh6Is9T6hXOUk"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "South On Ya",
         "url": "https://open.spotify.com/album/2bnuOCorMF9NzCFQegmfnC"
@@ -649,7 +621,7 @@
       "url": "https://open.spotify.com/track/0cvmA0xg8FkzKvBnO8987X"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
@@ -665,7 +637,7 @@
       "url": "https://open.spotify.com/track/3bfuN2UbSYYqCLG3cdweGf"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "Growin' Up",
         "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
@@ -681,7 +653,7 @@
       "url": "https://open.spotify.com/track/3jowVO7LtaViPc19EcAJKQ"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "What You See Ain't Always What You Get (Deluxe Edition)",
         "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
@@ -701,7 +673,7 @@
       "url": "https://open.spotify.com/track/3zxAw8PaqpeGZ3Pakkxv3J"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "This One's for You",
         "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
@@ -717,7 +689,7 @@
       "url": "https://open.spotify.com/track/5k8m3ZCp3AP4TKd2IKzKO8"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "Used to You",
         "url": "https://open.spotify.com/album/6FsIVrMeaJPxJIxfx9tBZs"
@@ -733,7 +705,7 @@
       "url": "https://open.spotify.com/track/2HR9wF4WR2sCJP4r6l9WVF"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "Seven Bridges Road",
         "url": "https://open.spotify.com/album/6GXkpobqUCBNcak0es2wJ7"
@@ -753,7 +725,7 @@
       "url": "https://open.spotify.com/track/24T44qdZXhaFn92pW2OHWh"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "Enlisted",
         "url": "https://open.spotify.com/album/5aEnEDTGJInHwBfuOLyyed"
@@ -773,7 +745,7 @@
       "url": "https://open.spotify.com/track/1YUgWK7N91H4tcjDdZivms"
     },
     {
-      "added_at": "2024-01-06 12:16:30",
+      "added_at": "2024-01-07 11:29:21",
       "album": {
         "name": "Tomorrow Me",
         "url": "https://open.spotify.com/album/2LI2YMMEAYwSzlVRNGJMNE"

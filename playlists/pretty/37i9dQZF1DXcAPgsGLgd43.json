@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3760,
+  "num_followers": 3763,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzRlMmI0M2ViMWUyZjI4ZDg4ZjU3MmQ4NzI5NDBhYTY4OTI0ZmFi",
+  "snapshot_id": "MCwyYzM0ZWVmNWY5MzE3OTM2ODA5YzM0MzI4MWQ0NmQ2ZmE4OTBiNjM3",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -943,6 +943,38 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Bololo (Remixes)",
+        "url": "https://open.spotify.com/album/3bC1j0lxI66MJl2T3anvF2"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "MC Bin Laden",
+          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
+        },
+        {
+          "name": "MichaelBM",
+          "url": "https://open.spotify.com/artist/0DdbrsAMsJHh1EFRkrVmzb"
+        },
+        {
+          "name": "Francesco V",
+          "url": "https://open.spotify.com/artist/6MrtkunYTDdVAjtH4cHjLb"
+        }
+      ],
+      "duration_ms": 143255,
+      "name": "Bololo - MichaelBM & Francesco V Remix",
+      "url": "https://open.spotify.com/track/6H0Jp0W6K5arH3w38rE8ZU"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Balan\u00e7a",
         "url": "https://open.spotify.com/album/6d97tKqeGjCsKhxfhwJq5X"
       },
@@ -995,38 +1027,6 @@
       "duration_ms": 225116,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/3SrNF6KtlYy8xVOHi8F9xC"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Bololo (Remixes)",
-        "url": "https://open.spotify.com/album/3bC1j0lxI66MJl2T3anvF2"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        },
-        {
-          "name": "MC Bin Laden",
-          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
-        },
-        {
-          "name": "MichaelBM",
-          "url": "https://open.spotify.com/artist/0DdbrsAMsJHh1EFRkrVmzb"
-        },
-        {
-          "name": "Francesco V",
-          "url": "https://open.spotify.com/artist/6MrtkunYTDdVAjtH4cHjLb"
-        }
-      ],
-      "duration_ms": 143255,
-      "name": "Bololo - MichaelBM & Francesco V Remix",
-      "url": "https://open.spotify.com/track/6H0Jp0W6K5arH3w38rE8ZU"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1379,6 +1379,26 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Gringada",
+        "url": "https://open.spotify.com/album/31IgBVgxGhUfMUGlA6wZAq"
+      },
+      "artists": [
+        {
+          "name": "Costa Leon",
+          "url": "https://open.spotify.com/artist/3vkZeJ4Gkrwmy21vHPrsDh"
+        },
+        {
+          "name": "DJ Cuervo",
+          "url": "https://open.spotify.com/artist/1L1RMOhubngzDWQzrRB9UH"
+        }
+      ],
+      "duration_ms": 168188,
+      "name": "Gringada",
+      "url": "https://open.spotify.com/track/5vnQUEjtukbbnWcrnigfpT"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Desconocidos",
         "url": "https://open.spotify.com/album/0Kpg2Flv9TK2V8s7bJrade"
       },
@@ -1411,30 +1431,6 @@
       "duration_ms": 170625,
       "name": "Morena",
       "url": "https://open.spotify.com/track/3pyYe4wjMV0ehhmBgZo9tE"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Tr\u00e1gatelo",
-        "url": "https://open.spotify.com/album/77pIaKUlGjnL7tXbVL7FTI"
-      },
-      "artists": [
-        {
-          "name": "Kevin McKay",
-          "url": "https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg"
-        },
-        {
-          "name": "Philip Z",
-          "url": "https://open.spotify.com/artist/15F2LcEjhyssahY1ZsGg7C"
-        },
-        {
-          "name": "Fatboi",
-          "url": "https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE"
-        }
-      ],
-      "duration_ms": 167441,
-      "name": "Tr\u00e1gatelo",
-      "url": "https://open.spotify.com/track/7isW5u9xH4iDUJfqn36UMl"
     }
   ],
   "unique_name": "Alma",

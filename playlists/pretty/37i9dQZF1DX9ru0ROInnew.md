@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcangel
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,255 likes - 120 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,271 likes - 120 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 63 | [Real G's](https://open.spotify.com/track/5ksvRV02w86e15EcwfHgDh) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Sinfonico](https://open.spotify.com/artist/17vZy9fIIt6woqdWfc7UCy), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Real G's](https://open.spotify.com/album/1htLS1cOgyAHgTn1GIRHcJ) | 4:05 |
 | 64 | [Gan\-Ga \- Remix](https://open.spotify.com/track/6MpJR5hR1pS8xi3clcx9uv) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Gan\-Ga \(Remix\)](https://open.spotify.com/album/18gdcJyZklZ0iuvVTc5QRj) | 3:13 |
 | 65 | [Estamos Clear](https://open.spotify.com/track/1sNl87MiEoEVXffVgzh44o) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Estamos Clear](https://open.spotify.com/album/33Cnv5yRfRGyJSTG3Oq28x) | 4:35 |
-| 66 | [Oscuridad \(feat\. Anuel AA\)](https://open.spotify.com/track/52JnQicpFULdhLnWdHyQD1) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [TrapXficante](https://open.spotify.com/album/0v94MG5nbp4w6xdeFkfQrA) | 4:00 |
-| 67 | [A Mi Manera](https://open.spotify.com/track/0g9BEw3stYObQaDvgwV8It) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [A Mi Manera](https://open.spotify.com/album/38KUTPLiMJCq0hCxSg9iTL) | 2:38 |
+| 66 | [A Mi Manera](https://open.spotify.com/track/0g9BEw3stYObQaDvgwV8It) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [A Mi Manera](https://open.spotify.com/album/38KUTPLiMJCq0hCxSg9iTL) | 2:38 |
+| 67 | [Oscuridad \(feat\. Anuel AA\)](https://open.spotify.com/track/52JnQicpFULdhLnWdHyQD1) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [TrapXficante](https://open.spotify.com/album/0v94MG5nbp4w6xdeFkfQrA) | 4:00 |
 | 68 | [Flow Cabron](https://open.spotify.com/track/4RgTZMGajLdnDwyq2WmvB8) | [Tali Goya](https://open.spotify.com/artist/0LvzywQsf3X6Gt6aGAdlDq), [Arcangel](https://open.spotify.com/artist/7viqvBP4uYljgKcqYfLkvu) | [Flow Cabron](https://open.spotify.com/album/3hFs9MY8X87KEb8eMhmrUd) | 3:46 |
 | 69 | [Como Soy II](https://open.spotify.com/track/6WZecLipzXhhw9cDAZub9O) | [Pacho El Antifeka](https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Como Soy II](https://open.spotify.com/album/3C7cfo9Ycj8NjBUv3DHk2f) | 5:41 |
 | 70 | [Sigo Fresh \- Remix](https://open.spotify.com/track/0OMftKSWh56NBTbatl2ZIv) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Sigo Fresh \(Remix\)](https://open.spotify.com/album/2wqXRIXMzKipo603C9C2ft) | 4:34 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 119 | [Brindemos](https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:36 |
 | 120 | [Triste](https://open.spotify.com/track/6pnzUCBMwMT5rvx6PyhusZ) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Oscuridad](https://open.spotify.com/album/0F7m8664oTaF5SbaqoDINb) | 4:24 |
 
-Snapshot ID: `MCwzMDQ5MDUxNWYxNmUwYTU4M2JiNjU1NThjNDM4NjBhYmI3YjRjMjUx`
+Snapshot ID: `MCxmNzk3MWNkZWVmMTQyOTIxOGM5Mjk3Y2YzMmE1N2ZjNTEyZWFiODEx`

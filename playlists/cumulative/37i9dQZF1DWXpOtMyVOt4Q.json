@@ -2055,6 +2055,28 @@
     },
     {
       "album": {
+        "name": "limerence",
+        "url": "https://open.spotify.com/album/12G2OhdDoWlxrEsoEutcJv"
+      },
+      "artists": [
+        {
+          "name": "Bonjr",
+          "url": "https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw"
+        },
+        {
+          "name": ".diedlonely",
+          "url": "https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "limerence",
+      "url": "https://open.spotify.com/track/2EuEUEInXrlb7NZqyTOJ3f"
+    },
+    {
+      "album": {
         "name": "livin",
         "url": "https://open.spotify.com/album/3EKBf6jNY2loEs6R7BBdsq"
       },
@@ -2066,7 +2088,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 91808,
       "name": "livin",
       "url": "https://open.spotify.com/track/2XgZ0iZEOrqjiXMUyPcFqJ"

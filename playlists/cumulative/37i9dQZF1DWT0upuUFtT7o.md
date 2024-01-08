@@ -4,7 +4,7 @@
 
 > The top tracks from Fresh Finds Indie in 2023\. Cover: Mali Velasquez
 
-1,995 songs - 4 day 13 hr 14 min
+1,996 songs - 4 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1592,7 +1592,8 @@
 | [Something You Were Trying](https://open.spotify.com/track/3HRYKVE4A2xvRdYB7RYCSa) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Something You Were Trying](https://open.spotify.com/album/1PLBCou4TZgA75enTZls1Z) | 3:39 | 2023-11-08 | 2023-11-30 |
 | [Someway Somehow](https://open.spotify.com/track/4zVs1kuSTwvLPpcBL4Rj6D) | [Party Nails](https://open.spotify.com/artist/1PkfHC4LBy4o9UNU2k1yw4) | [Someway Somehow](https://open.spotify.com/album/5hYsYw1TOEos0WRxIfspDo) | 3:28 | 2023-07-26 |  |
 | [Song for my friend, June](https://open.spotify.com/track/1H9RgxG2z1JnnNb6BaNPsv) | [Supersport!](https://open.spotify.com/artist/2jfwKdbKSL1G8Iqrjq9Tg6), [Jóhannes Bjarki Bjarkason](https://open.spotify.com/artist/2P7mfjAkLnA5eoxU8thaMm) | [Song for my friend, June](https://open.spotify.com/album/7wom0HZvXlqekvCyfZx6iP) | 3:53 | 2023-02-27 | 2023-03-23 |
-| [Soon We'll Make It](https://open.spotify.com/track/1aVJfYAryZWDqwa6IOiHzE) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [Soon We'll Make It](https://open.spotify.com/album/0GwFm5QbuwAyc7Ag20lzhL) | 2:19 | 2023-08-30 |  |
+| [Soon We'll Make It](https://open.spotify.com/track/1aVJfYAryZWDqwa6IOiHzE) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [Soon We'll Make It](https://open.spotify.com/album/0GwFm5QbuwAyc7Ag20lzhL) | 2:19 | 2023-08-30 | 2024-01-08 |
+| [Soon We'll Make It](https://open.spotify.com/track/2QA97SRId1uFVmiJljRkHH) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [More Better](https://open.spotify.com/album/4rsrAAeWRTA0FZqJ9eWS3A) | 2:19 | 2023-11-29 |  |
 | [Sophie](https://open.spotify.com/track/4ySch7clKEIT3h3GXDNBWR) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [Sophie](https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I) | 3:14 | 2023-11-15 | 2023-11-30 |
 | [Sore Bear](https://open.spotify.com/track/5JtQfeIhkLsqvSKTMxVcwM) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [Sore Bear](https://open.spotify.com/album/5yQKXT60TtiTBhdcYTqBkh) | 4:11 | 2023-01-11 | 2023-02-09 |
 | [SORRY](https://open.spotify.com/track/2ufkj8AXVIMCZ13Z1qgtRO) | [G Luné](https://open.spotify.com/artist/11IkPAEv36afGTiydLyDI0) | [SORRY](https://open.spotify.com/album/3vFxDqTLOoSYVvOKwjo1Bc) | 2:23 | 2023-03-15 | 2023-05-11 |

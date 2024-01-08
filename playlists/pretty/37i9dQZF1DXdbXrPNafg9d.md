@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Youth Lagoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,282,993 likes - 175 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,282,265 likes - 175 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 174 | [Nothing Lasts](https://open.spotify.com/track/67e8iug4iZ5MostXypvN8Z) | [Emily Yacina](https://open.spotify.com/artist/50oMAfElZgbElx2ktukv47) | [Nothing Lasts](https://open.spotify.com/album/6M1nzngMNVdFEd5G4vaCGo) | 2:54 |
 | 175 | [Crashing Through](https://open.spotify.com/track/3KO92UFKrYFiPxC7Je8vop) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Crashing Through](https://open.spotify.com/album/0M64PelFgrQAN5hnkB3vMi) | 3:43 |
 
-Snapshot ID: `MCxhNGMyYmMxZDVkODgwOTk5YTk2NWI1NDMxYWVkNmRkZjU5MDk2YzYw`
+Snapshot ID: `MCw1ZThmMzY1ZTcwNGJlYTRiZjdlNjMwYzNmZDY2YzdiODBmZjQ2Nzgy`

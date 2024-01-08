@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: Kim Marie\(김마리\)\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,004 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,043 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 99 | [Rainfall Romance](https://open.spotify.com/track/5WhN2f2yMBZqlQO3fihtoD) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i) | [Rainfall Romance](https://open.spotify.com/album/3UlhDzCIPSFbuQr7onIIZW) | 3:42 |
 | 100 | [Silhouette](https://open.spotify.com/track/66yjk1BxGLsln1JGB4oTqh) | [off the menu](https://open.spotify.com/artist/6g1CbXF83eU2eSvIUU9COb) | [Silhouette](https://open.spotify.com/album/6qNenJaqOj66TSjHuOwC34) | 3:21 |
 
-Snapshot ID: `MCxlZDdmZWQ5NTRlMDJhNTk4ZjZkMGQ0NTlmMmQxNmFmZGRiZmVlMDA1`
+Snapshot ID: `MCxjMTAzYTQzMzAwN2NlZGIxZTBlOWEyNjk1OGI1ZmMzMWRiOWI0NmQ1`

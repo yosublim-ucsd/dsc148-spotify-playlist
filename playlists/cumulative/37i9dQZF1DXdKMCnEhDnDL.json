@@ -2118,10 +2118,32 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 168292,
       "name": "Morgen Gaan We Praten",
       "url": "https://open.spotify.com/track/1hq1XJPTjakVHRjntJxGG9"
+    },
+    {
+      "album": {
+        "name": "Morgen Gaan We Praten",
+        "url": "https://open.spotify.com/album/42BHKZiJziE1bGdozzHuMF"
+      },
+      "artists": [
+        {
+          "name": "Xerxes",
+          "url": "https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS"
+        },
+        {
+          "name": "Nienke Leone",
+          "url": "https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168292,
+      "name": "Morgen Gaan We Praten",
+      "url": "https://open.spotify.com/track/5sxNsqIte1Yjkf470Z8u0B"
     },
     {
       "album": {

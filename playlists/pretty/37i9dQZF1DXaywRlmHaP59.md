@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaywRlmHaP59.md) - [plain]
 
 > The sweet sounds of Lebanon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,722 likes - 55 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,741 likes - 55 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaywRlmHaP59.md) - [plain]
 | 54 | [Nater](https://open.spotify.com/track/3xGfWGr12b6j86gUmhwesD) | [Aziz](https://open.spotify.com/artist/4juIELxFGt6YwXdpzGB69c), [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv) | [Nater](https://open.spotify.com/album/4zaWHh2zDRzOvC5ZhqOiDq) | 3:24 |
 | 55 | [Hada Tani](https://open.spotify.com/track/43cbU3ArR2rbcYepXhs9aU) | [Rouwaida Attieh](https://open.spotify.com/artist/5i6jBaoiEmkVYTcui0n9Vr) | [Hada Tani](https://open.spotify.com/album/1M2HwQ8x5UeZyK3gzzIRpb) | 3:32 |
 
-Snapshot ID: `MCxlNTYwODMwZDlhNzgyYjdlNmUxMjViNjM0NmQ2ZGMyZTFlMmIzMmM1`
+Snapshot ID: `MCwwZWMxOTFkYTk3OWQyNWY0Yzc5MTNmMDBkMzNjMWIyNTNiZDU0ZmE1`

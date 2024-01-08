@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 578 likes - 142 songs - 10 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 579 likes - 142 songs - 10 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 41 | [Sonnet for Caesar](https://open.spotify.com/track/3ePKylz8H0t1sNI1yBh5sS) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 2:56 |
 | 42 | [I'm Checkin' Out, Goom'bye](https://open.spotify.com/track/73bqQYYWmLKa84O0io4E99) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp), [Matt Munisteri](https://open.spotify.com/artist/2vQcS9cDI4xWJqbqGzch7M), [Mark Shane](https://open.spotify.com/artist/7jJRTFVSa3AEiLLQOWRBgG), [Lee Hudson](https://open.spotify.com/artist/7gcEfARxzB32rfJmwyCvA4) | [Strictly Romancin'](https://open.spotify.com/album/0oyu5Vuai0HPO8zR9X0s36) | 2:25 |
 | 43 | [Smada](https://open.spotify.com/track/7Dmlki6DmsfeSADhrcNsI8) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Blues In Orbit](https://open.spotify.com/album/5nifIOxB4n4XLxgJDqGJUG) | 2:36 |
-| 44 | [Johnny Come Lately](https://open.spotify.com/track/229U3wp0xQTIyk564uyHDR) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [The Sound the Rhythm](https://open.spotify.com/album/1vyIqrS1y7Cv0tIJcIPBMC) | 7:36 |
-| 45 | [Sonnet In Search of a Moor](https://open.spotify.com/track/4gnSAjbegG0GIlQTwyG6VI) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 2:19 |
+| 44 | [Sonnet In Search of a Moor](https://open.spotify.com/track/4gnSAjbegG0GIlQTwyG6VI) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 2:19 |
+| 45 | [Johnny Come Lately](https://open.spotify.com/track/229U3wp0xQTIyk564uyHDR) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [The Sound the Rhythm](https://open.spotify.com/album/1vyIqrS1y7Cv0tIJcIPBMC) | 7:36 |
 | 46 | [Half the Fun \(aka Lately\)](https://open.spotify.com/track/08TpH1FwIzbmEkR720Duye) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 4:16 |
 | 47 | [You're The One](https://open.spotify.com/track/2chpEqVXRY4OG2ehJ3Slcw) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [City Of Birmingham Symphony Orchestra](https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo), [Sir Simon Rattle](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp), [Lena Horne](https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe) | [Duke Ellington Album](https://open.spotify.com/album/0vMfSZG8wT2Bbe0PMBYJmC) | 2:58 |
 | 48 | [The Telecasters](https://open.spotify.com/track/2XWI60h3SScOAvP7XaUxkI) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 3:01 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 141 | [Matumbe](https://open.spotify.com/track/06GVigj1ayGxXAdVxw3vDv) | [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB) | [Only God Can Make a Tree](https://open.spotify.com/album/7L6HoS1DoiQucal8O2RBQD) | 4:02 |
 | 142 | [Zajj's Dream](https://open.spotify.com/track/0GFIr9C7miDD3jxL7i54Ra) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 5:26 |
 
-Snapshot ID: `Mjg0MDk4OTAsMDAwMDAwMDAyODAyNTllMzEwNTg1NGNhMGE1ZmMyYzRiNzdiNThiYQ==`
+Snapshot ID: `Mjg0MTEzMzAsMDAwMDAwMDBmZTA2NjY0ODEzNjBjYWU0OWEzM2ZkODVjYzJmNGVhMw==`

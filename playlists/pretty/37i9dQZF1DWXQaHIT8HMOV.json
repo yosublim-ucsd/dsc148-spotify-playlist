@@ -1,12 +1,12 @@
 {
   "description": "Homegrown Ugandan hits in one playlist. Cover: Joshua Baraka",
-  "num_followers": 1928,
+  "num_followers": 1929,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTUwNmM0MThhMzUyM2NmM2VhZWExZWIxN2IxYzRhNTI0Y2I4ODVj",
+  "snapshot_id": "MCw2M2E2ZDMwZTI1M2FlYjg3MTJhMGQ5MTE1YWNhY2MzOTE2Yzc2ZmNj",
   "tracks": [
     {
       "added_at": "2023-12-08 00:08:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "One Bite",
-        "url": "https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO"
-      },
-      "artists": [
-        {
-          "name": "Vinka",
-          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "One Bite",
-      "url": "https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "Nkujjukira",
         "url": "https://open.spotify.com/album/57ag105JslVN8kfhARNrL3"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 185217,
       "name": "Nkujjukira",
       "url": "https://open.spotify.com/track/4EoZIOo7vQYfWm9u3byBff"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "One Bite",
+        "url": "https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO"
+      },
+      "artists": [
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "One Bite",
+      "url": "https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -451,18 +451,18 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Thank God",
-        "url": "https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy"
+        "name": "Nkwata Bulungi (Bailamos)",
+        "url": "https://open.spotify.com/album/5z0xDgKDEnZGSPUxIcikEV"
       },
       "artists": [
         {
-          "name": "Vinka",
-          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
         }
       ],
-      "duration_ms": 180172,
-      "name": "Thank God",
-      "url": "https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa"
+      "duration_ms": 187200,
+      "name": "Nkwata Bulungi (Bailamos)",
+      "url": "https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Nkwata Bulungi (Bailamos)",
-        "url": "https://open.spotify.com/album/5z0xDgKDEnZGSPUxIcikEV"
+        "name": "Thank God",
+        "url": "https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy"
       },
       "artists": [
         {
-          "name": "Sheebah",
-          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
         }
       ],
-      "duration_ms": 187200,
-      "name": "Nkwata Bulungi (Bailamos)",
-      "url": "https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw"
+      "duration_ms": 180172,
+      "name": "Thank God",
+      "url": "https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -827,6 +827,26 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
+        "name": "Type Of Girl",
+        "url": "https://open.spotify.com/album/7xx4zbtu0xnr4jgOBQ8LVb"
+      },
+      "artists": [
+        {
+          "name": "Sanyu",
+          "url": "https://open.spotify.com/artist/6oomz4M46LpCm0rd4BXIWK"
+        },
+        {
+          "name": "Kamanzi",
+          "url": "https://open.spotify.com/artist/3eFz1Hi2ldnb0QWcidYrWZ"
+        }
+      ],
+      "duration_ms": 210279,
+      "name": "Type Of Girl",
+      "url": "https://open.spotify.com/track/06pxO19q4mkseGmNoqJHFQ"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
         "name": "Kika Buka",
         "url": "https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc"
       },
@@ -875,26 +895,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Ekyama",
-        "url": "https://open.spotify.com/album/7pP6QgWbnNyzsArFSCklj0"
-      },
-      "artists": [
-        {
-          "name": "Jozzi Firebouy",
-          "url": "https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3"
-        },
-        {
-          "name": "Will84",
-          "url": "https://open.spotify.com/artist/1BeeJoeMWmKFM93rL0fF09"
-        }
-      ],
-      "duration_ms": 217021,
-      "name": "Ekyama",
-      "url": "https://open.spotify.com/track/0309BYyPGtJuZu5BRqcsYf"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/2LyrxrjHJM2SxaXc9UWpVV"
       },
@@ -919,6 +919,26 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
+        "name": "Ekyama",
+        "url": "https://open.spotify.com/album/7pP6QgWbnNyzsArFSCklj0"
+      },
+      "artists": [
+        {
+          "name": "Jozzi Firebouy",
+          "url": "https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3"
+        },
+        {
+          "name": "Will84",
+          "url": "https://open.spotify.com/artist/1BeeJoeMWmKFM93rL0fF09"
+        }
+      ],
+      "duration_ms": 217021,
+      "name": "Ekyama",
+      "url": "https://open.spotify.com/track/0309BYyPGtJuZu5BRqcsYf"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
         "name": "Kyekiliwo",
         "url": "https://open.spotify.com/album/3sf7zqF8HY4XUTiAVn4RU6"
       },
@@ -931,30 +951,6 @@
       "duration_ms": 175288,
       "name": "Kyekiliwo",
       "url": "https://open.spotify.com/track/5n3YEFEO4K5AvHIHkyZCg6"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "Leaving Summer",
-        "url": "https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT"
-      },
-      "artists": [
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        },
-        {
-          "name": "La So\u00fclchyld",
-          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
-        },
-        {
-          "name": "Akeine",
-          "url": "https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Leaving Summer",
-      "url": "https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6"
     }
   ],
   "unique_name": "Made In Uganda",

@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 8960,
+  "num_followers": 8972,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzNlYjIxYWJkZjllY2RmOGEzYjM4NzA4OTIyMjY1ZGQ4YzA4ZTRm",
+  "snapshot_id": "MCwyNWJjZjE4NWFiYTM2ZTE0ZTkyODFkNmM4ODgzOGNlN2IwN2E4NTJk",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -799,22 +799,18 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/5ONjVBfYyUJpmXnz5DoU0k"
+        "name": "Living in Freedom",
+        "url": "https://open.spotify.com/album/3JeN6zZsjrwk3s8gra1bOG"
       },
       "artists": [
         {
-          "name": "Amber Sky Records",
-          "url": "https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb"
-        },
-        {
-          "name": "Emily Hearn",
-          "url": "https://open.spotify.com/artist/4LuEEQLErHvNdZDxEWf6W1"
+          "name": "Stephen Witt",
+          "url": "https://open.spotify.com/artist/3G14FwuoYRc81zwkSFQqkg"
         }
       ],
-      "duration_ms": 180000,
-      "name": "My Strength (feat. Emily Hearn)",
-      "url": "https://open.spotify.com/track/02GQZBMcL90iqQA2CDtgHm"
+      "duration_ms": 266253,
+      "name": "Living in Freedom",
+      "url": "https://open.spotify.com/track/0exZQ7G2AuvDaUnpNMpQDK"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -835,18 +831,22 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Living in Freedom",
-        "url": "https://open.spotify.com/album/3JeN6zZsjrwk3s8gra1bOG"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/5ONjVBfYyUJpmXnz5DoU0k"
       },
       "artists": [
         {
-          "name": "Stephen Witt",
-          "url": "https://open.spotify.com/artist/3G14FwuoYRc81zwkSFQqkg"
+          "name": "Amber Sky Records",
+          "url": "https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb"
+        },
+        {
+          "name": "Emily Hearn",
+          "url": "https://open.spotify.com/artist/4LuEEQLErHvNdZDxEWf6W1"
         }
       ],
-      "duration_ms": 266253,
-      "name": "Living in Freedom",
-      "url": "https://open.spotify.com/track/0exZQ7G2AuvDaUnpNMpQDK"
+      "duration_ms": 180000,
+      "name": "My Strength (feat. Emily Hearn)",
+      "url": "https://open.spotify.com/track/02GQZBMcL90iqQA2CDtgHm"
     },
     {
       "added_at": "2021-06-29 13:36:02",

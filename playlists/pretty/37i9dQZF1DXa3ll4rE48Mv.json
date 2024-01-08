@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: The Oozes",
-  "num_followers": 182062,
+  "num_followers": 182162,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzE3ZWQ2ZTdlNTg0YWQ3NzNmMWRkNzUzMzUwZTQ2NmJjZGJhZGE5",
+  "snapshot_id": "MCw1YjcwYWQ3MjJmMjVmOTBjNzQ5NGNlNTdmYWQ2ZDMyN2UwOGM0ZDE5",
   "tracks": [
     {
       "added_at": "2023-05-25 14:38:53",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Pity Boy",
-        "url": "https://open.spotify.com/album/4YGMJS0WLOU318ITYqpYo5"
-      },
-      "artists": [
-        {
-          "name": "Mal Blum",
-          "url": "https://open.spotify.com/artist/4tT8fWyOy0hVI7jo9fJmXX"
-        }
-      ],
-      "duration_ms": 151473,
-      "name": "Things Still Left to Say",
-      "url": "https://open.spotify.com/track/4aZq3QHHQHI5tCcjnhIES7"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Call the Doctor (Remastered)",
         "url": "https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 156986,
       "name": "I Wanna Be Your Joey Ramone",
       "url": "https://open.spotify.com/track/1WDqjH0PJ8ruWQXsp3bN2Z"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Pity Boy",
+        "url": "https://open.spotify.com/album/4YGMJS0WLOU318ITYqpYo5"
+      },
+      "artists": [
+        {
+          "name": "Mal Blum",
+          "url": "https://open.spotify.com/artist/4tT8fWyOy0hVI7jo9fJmXX"
+        }
+      ],
+      "duration_ms": 151473,
+      "name": "Things Still Left to Say",
+      "url": "https://open.spotify.com/track/4aZq3QHHQHI5tCcjnhIES7"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "The Royal They",
-        "url": "https://open.spotify.com/album/4oJvLQk4aJ8feombYas5YH"
-      },
-      "artists": [
-        {
-          "name": "The Royal They",
-          "url": "https://open.spotify.com/artist/6PScjU4Y5AJ8EZp2aW4TA2"
-        }
-      ],
-      "duration_ms": 183994,
-      "name": "Full Metal Black",
-      "url": "https://open.spotify.com/track/2MQsDtg1jb4qI5OcurHMI0"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Sorry, Mom",
         "url": "https://open.spotify.com/album/2S2SJWfVZ7KWjz8tfrYSvh"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 369213,
       "name": "Word Salad",
       "url": "https://open.spotify.com/track/69j7HErLMwAtvPCtR74tKa"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "The Royal They",
+        "url": "https://open.spotify.com/album/4oJvLQk4aJ8feombYas5YH"
+      },
+      "artists": [
+        {
+          "name": "The Royal They",
+          "url": "https://open.spotify.com/artist/6PScjU4Y5AJ8EZp2aW4TA2"
+        }
+      ],
+      "duration_ms": 183994,
+      "name": "Full Metal Black",
+      "url": "https://open.spotify.com/track/2MQsDtg1jb4qI5OcurHMI0"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Intractable",
-        "url": "https://open.spotify.com/album/4UH7wsiFLZ6yvw24HGzh1J"
-      },
-      "artists": [
-        {
-          "name": "Gina Young",
-          "url": "https://open.spotify.com/artist/0U64coxrK2Wm5s2PmApkBn"
-        }
-      ],
-      "duration_ms": 124653,
-      "name": "So-Called Str8 Grrrl",
-      "url": "https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "gasoline",
         "url": "https://open.spotify.com/album/5fpTeGoair7Yj69gyJfjUh"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 114053,
       "name": "Staplegun",
       "url": "https://open.spotify.com/track/4JRs49S2iWLrYKppB2Nmql"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Intractable",
+        "url": "https://open.spotify.com/album/4UH7wsiFLZ6yvw24HGzh1J"
+      },
+      "artists": [
+        {
+          "name": "Gina Young",
+          "url": "https://open.spotify.com/artist/0U64coxrK2Wm5s2PmApkBn"
+        }
+      ],
+      "duration_ms": 124653,
+      "name": "So-Called Str8 Grrrl",
+      "url": "https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Stoned Butch Blues",
-        "url": "https://open.spotify.com/album/4qSJWCaegd4OR1UzwOocpn"
-      },
-      "artists": [
-        {
-          "name": "Butch Baby",
-          "url": "https://open.spotify.com/artist/3jzfCiOKgr1xHyUYLqw3lr"
-        }
-      ],
-      "duration_ms": 167623,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/5BWpwPVzb4LuvPpZ1SB0SS"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Snarkism",
         "url": "https://open.spotify.com/album/68ctZ7mlwKGobH2N7Z8DEP"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 175866,
       "name": "Wrong Bathroom",
       "url": "https://open.spotify.com/track/2rxPRLVeFZOuBhaNnwHKDS"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Stoned Butch Blues",
+        "url": "https://open.spotify.com/album/4qSJWCaegd4OR1UzwOocpn"
+      },
+      "artists": [
+        {
+          "name": "Butch Baby",
+          "url": "https://open.spotify.com/artist/3jzfCiOKgr1xHyUYLqw3lr"
+        }
+      ],
+      "duration_ms": 167623,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/5BWpwPVzb4LuvPpZ1SB0SS"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/4h2iTWNASAecNc26mPncPx"
-      },
-      "artists": [
-        {
-          "name": "Petrol Girls",
-          "url": "https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L"
-        }
-      ],
-      "duration_ms": 192281,
-      "name": "Baby, I Had an Abortion",
-      "url": "https://open.spotify.com/track/5wzYAfUDyqRcC87J7JEG2V"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Fuck Danny Denial",
         "url": "https://open.spotify.com/album/0iJ5e19OUZmJH8ywlj5NLR"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 205293,
       "name": "CCCHOKEMEEE",
       "url": "https://open.spotify.com/track/4c9xAn5v8trWontgFe9Q2A"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/4h2iTWNASAecNc26mPncPx"
+      },
+      "artists": [
+        {
+          "name": "Petrol Girls",
+          "url": "https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L"
+        }
+      ],
+      "duration_ms": 192281,
+      "name": "Baby, I Had an Abortion",
+      "url": "https://open.spotify.com/track/5wzYAfUDyqRcC87J7JEG2V"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "What You Do for Love",
-        "url": "https://open.spotify.com/album/1Kze0IOJ5pCx2wsywkevwr"
-      },
-      "artists": [
-        {
-          "name": "Skunk Anansie",
-          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
-        }
-      ],
-      "duration_ms": 200934,
-      "name": "What You Do for Love",
-      "url": "https://open.spotify.com/track/0im1MaGNLes5Qo04udeQsD"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Big Shouty",
         "url": "https://open.spotify.com/album/1pWMoHSZKWMnr4zYmG4NvH"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 86000,
       "name": "Big Shouty",
       "url": "https://open.spotify.com/track/2JDMX69HvkeJuoNmFoj1Lz"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "What You Do for Love",
+        "url": "https://open.spotify.com/album/1Kze0IOJ5pCx2wsywkevwr"
+      },
+      "artists": [
+        {
+          "name": "Skunk Anansie",
+          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
+        }
+      ],
+      "duration_ms": 200934,
+      "name": "What You Do for Love",
+      "url": "https://open.spotify.com/track/0im1MaGNLes5Qo04udeQsD"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Queen Zee",
-        "url": "https://open.spotify.com/album/2wbap4Wf20Dbp2kLrZFkHk"
-      },
-      "artists": [
-        {
-          "name": "Queen Zee",
-          "url": "https://open.spotify.com/artist/4Fu68byHFGEiID8pHyYxFL"
-        }
-      ],
-      "duration_ms": 143853,
-      "name": "Sissy Fists",
-      "url": "https://open.spotify.com/track/1KHFqFiuV5KNyHjtjTKBbJ"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Egg on Face. Foot in Mouth. Wriggling Wriggling Wriggling.",
         "url": "https://open.spotify.com/album/26WIpPiL8DGHgdZ0xQR4sC"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 153813,
       "name": "Woodchuck",
       "url": "https://open.spotify.com/track/6GUeUdO8AOZ52UcRFPn1eH"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Queen Zee",
+        "url": "https://open.spotify.com/album/2wbap4Wf20Dbp2kLrZFkHk"
+      },
+      "artists": [
+        {
+          "name": "Queen Zee",
+          "url": "https://open.spotify.com/artist/4Fu68byHFGEiID8pHyYxFL"
+        }
+      ],
+      "duration_ms": 143853,
+      "name": "Sissy Fists",
+      "url": "https://open.spotify.com/track/1KHFqFiuV5KNyHjtjTKBbJ"
     }
   ],
   "unique_name": "Queercore",

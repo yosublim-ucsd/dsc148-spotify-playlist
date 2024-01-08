@@ -4,7 +4,7 @@
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2023</a>! Meet them first at the MU:CON 2023 official playlist\. \(뮤콘 2023 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-262 songs - 16 hr 55 min
+263 songs - 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Coupon Man](https://open.spotify.com/track/4DyOqzEp3hwg0v0RXXVQyk) | [W24](https://open.spotify.com/artist/2SJQjeKXsMqPziotLsmEit) | [Born again](https://open.spotify.com/album/6w5FVqkNEvXV1uNlmbLstX) | 2:56 | 2023-07-12 |  |
 | [COWBOY](https://open.spotify.com/track/2NeC4CBvfFELWNzxCehQYw) | [JKC](https://open.spotify.com/artist/3GeNpZ51ZS9nQBnvGsLBcl) | [At My Peaceful Garden](https://open.spotify.com/album/7ACB9MzjQBsmhvuXa0FZRe) | 3:50 | 2022-09-27 | 2023-07-13 |
 | [Crazy Driver](https://open.spotify.com/track/2bT3rm02O6EwyeXPVkDCGx) | [PRSNT](https://open.spotify.com/artist/4Aj920LL1N15pxyHm4heD1) | [Crazy Driver](https://open.spotify.com/album/02usvaengQGAO3S8BQGOZZ) | 3:38 | 2022-09-27 | 2023-07-13 |
-| [cutlery collector](https://open.spotify.com/track/0ztNEk0IqFl3qK5dcFjuTE) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [love](https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS) | 3:06 | 2023-07-12 |  |
+| [cutlery collector](https://open.spotify.com/track/0ztNEk0IqFl3qK5dcFjuTE) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [love](https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS) | 3:06 | 2023-07-12 | 2024-01-08 |
+| [cutlery collector](https://open.spotify.com/track/2zCvh9HWfYGmIjCDffXZyf) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [love](https://open.spotify.com/album/600af5WWeNaasoZFOzG8DN) | 3:06 | 2023-09-11 |  |
 | [DAGAGA](https://open.spotify.com/track/0W3XGf1QqvMJWNeBaInl2E) | [BULGOGIDISCO](https://open.spotify.com/artist/38IwvgYKTkEVuVg1jaqVQL) | [DAGAGA](https://open.spotify.com/album/5LGmZANhSeT6oLOkBHUf0U) | 2:51 | 2023-08-28 |  |
 | [DAGAGA](https://open.spotify.com/track/7ogPprUMrGLCC4DFHCZ669) | [BULGOGIDISCO](https://open.spotify.com/artist/38IwvgYKTkEVuVg1jaqVQL) | [DAGAGA](https://open.spotify.com/album/4dXrC1VwOE0Ay1PBmdY1J4) | 2:51 | 2023-07-12 | 2023-09-06 |
 | [Dance With Me](https://open.spotify.com/track/49K2o60MwtNQiXowEbLg9a) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [LOAD](https://open.spotify.com/album/6gx4lvSob7w5Kj2ZBqWSMa) | 3:17 | 2022-09-27 |  |

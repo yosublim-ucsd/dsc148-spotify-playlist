@@ -5393,6 +5393,24 @@
     },
     {
       "album": {
+        "name": "On the Other Side",
+        "url": "https://open.spotify.com/album/51bsId3cKJ6paV9l6KKIkC"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248160,
+      "name": "Olalla",
+      "url": "https://open.spotify.com/track/1z75CRovSzKUOpYbrV4Fuo"
+    },
+    {
+      "album": {
         "name": "Old Black Magic",
         "url": "https://open.spotify.com/album/4fBlyjkl18CQinati1cdsv"
       },
@@ -5718,7 +5736,7 @@
       ],
       "date_added": "2019-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 224360,
       "name": "Peach Fuzz",
       "url": "https://open.spotify.com/track/2UFtUjo3UebrpxbAFvSdRz"

@@ -4,7 +4,7 @@
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Jammers
 
-192 songs - 11 hr 40 min
+193 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Idhi Prema](https://open.spotify.com/track/6d3gMJtIqr84iWNIIVuQEQ) | [Iravu](https://open.spotify.com/artist/32gGumlFxS3I49LH5cNcrH), [Gavenpride](https://open.spotify.com/artist/5FlDRCUWkwAXFZ6ynO0U2P), [Manasa Adusumilli](https://open.spotify.com/artist/0Ivg5nroRBuw5n8wX6TIDm), [Sarvari](https://open.spotify.com/artist/5uvwgTsZIeirSSpIIMvYFS), [Lalitha Shravani](https://open.spotify.com/artist/7h32Npfr5JQkupWW6OgWZS) | [Idhi Prema](https://open.spotify.com/album/3dv7xRIqqy2MuhYUONItic) | 3:00 | 2023-10-04 |  |
 | [In Search Of Life](https://open.spotify.com/track/0irshJTIoKgQVTfiIjq2CH) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [In Search Of Life](https://open.spotify.com/album/00Q5uYS7BzbLpm08mxC23e) | 3:45 | 2023-04-05 | 2023-07-04 |
 | [Indrajaalam](https://open.spotify.com/track/6bBtQflwHLrskjlPciYyoI) | [Niteesh](https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs) | [Indrajaalam](https://open.spotify.com/album/2ih6hzcJEBCmeKgXJbIivT) | 4:26 | 2022-10-28 | 2023-05-26 |
-| [Innallu](https://open.spotify.com/track/3exJ2FyuDRzTmazw8YCaDK) | [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY), [Brinda Ch](https://open.spotify.com/artist/035vaODl6w8VhNWMa6CT7E) | [Innallu](https://open.spotify.com/album/0xEZk7IZUdqEP0rWkMW0EP) | 4:20 | 2023-10-13 |  |
+| [Innallu](https://open.spotify.com/track/0GuMZb62U3tZ0SCHkrzL84) | [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY), [Brinda Ch](https://open.spotify.com/artist/035vaODl6w8VhNWMa6CT7E) | [Innallu](https://open.spotify.com/album/6QsGIqhILxrugCXeoz34Ew) | 4:20 | 2023-10-13 |  |
+| [Innallu](https://open.spotify.com/track/3exJ2FyuDRzTmazw8YCaDK) | [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY), [Brinda Ch](https://open.spotify.com/artist/035vaODl6w8VhNWMa6CT7E) | [Innallu](https://open.spotify.com/album/0xEZk7IZUdqEP0rWkMW0EP) | 4:20 | 2023-10-13 | 2024-01-08 |
 | [Inthena Inthena](https://open.spotify.com/track/4YbQwnwgbTg7eIq10oB9No) | [Maruthi Kodimoju](https://open.spotify.com/artist/6NB8Z3w2Ti8Rwf2DYhS6Ag) | [Inthena Inthena](https://open.spotify.com/album/2p3b6wCV1MNfG6nXSmbbiq) | 3:50 | 2023-03-07 | 2023-06-05 |
 | [Jimpak Chipak](https://open.spotify.com/track/75SwvdhOdYQ9FAVfzBcpsF) | [MC Mike](https://open.spotify.com/artist/3fJeUWROZ8RmlLHDWTtqYo), [MC Uneek](https://open.spotify.com/artist/5V59VPRPHoUasr8KOncBne), [Om Sripathi](https://open.spotify.com/artist/6cHpt2n70Z4fNJdkP7r13T) | [Jimpak Chipak](https://open.spotify.com/album/5Bl77fvZRxNfEkudOcjgaT) | 3:07 | 2022-07-18 |  |
 | [Kaalam Karigee Vela](https://open.spotify.com/track/0ORgN49uMzjQXQzPDo02kg) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Kaalam Karigee Vela](https://open.spotify.com/album/1TX4kYXmWAmNCxkX6aDyce) | 3:05 | 2023-05-26 | 2024-01-05 |

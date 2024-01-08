@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Yoly Saa.",
-  "num_followers": 120202,
+  "num_followers": 120235,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDk4ZDBjNmJhMzFmN2QyMjE4ODM1MjE2MmEwNTIxNDdkODBhMDFi",
+  "snapshot_id": "MCwxMWNiYzE4YTUxMmQ5ZWQ3ZTQxYzc2MDAwODc5ZmUyM2E1MjZiMzAy",
   "tracks": [
     {
       "added_at": "2024-01-05 09:11:13",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-01-05 09:11:13",
       "album": {
-        "name": "ah\u00ed atr\u00e1s (miedo en el mar)",
-        "url": "https://open.spotify.com/album/0r6JJGfoXpCqOPvGCh9Sup"
-      },
-      "artists": [
-        {
-          "name": "Luis Ferc\u00e1n",
-          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
-        }
-      ],
-      "duration_ms": 233813,
-      "name": "ah\u00ed atr\u00e1s (miedo en el mar)",
-      "url": "https://open.spotify.com/track/4xcZZdAB9IZ9mOFrC9cmsL"
-    },
-    {
-      "added_at": "2024-01-05 09:11:13",
-      "album": {
         "name": "Que Entren En Mi Cabeza",
         "url": "https://open.spotify.com/album/6GDCV6UWVgWDyiaw8QVQPz"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 157730,
       "name": "10 km",
       "url": "https://open.spotify.com/track/1yZrJPsWRXg5fqeEozTI6L"
+    },
+    {
+      "added_at": "2024-01-05 09:11:13",
+      "album": {
+        "name": "ah\u00ed atr\u00e1s (miedo en el mar)",
+        "url": "https://open.spotify.com/album/0r6JJGfoXpCqOPvGCh9Sup"
+      },
+      "artists": [
+        {
+          "name": "Luis Ferc\u00e1n",
+          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
+        }
+      ],
+      "duration_ms": 233813,
+      "name": "ah\u00ed atr\u00e1s (miedo en el mar)",
+      "url": "https://open.spotify.com/track/4xcZZdAB9IZ9mOFrC9cmsL"
     },
     {
       "added_at": "2024-01-05 09:11:13",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2024-01-05 09:11:13",
       "album": {
-        "name": "Los versos s\u00e1ficos",
-        "url": "https://open.spotify.com/album/6gOgdemsUT1qHDVMlEDmNi"
-      },
-      "artists": [
-        {
-          "name": "Christina Rosenvinge",
-          "url": "https://open.spotify.com/artist/7MignPwWd7ZxlPi54KtLpp"
-        },
-        {
-          "name": "Maria Arnal",
-          "url": "https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm"
-        }
-      ],
-      "duration_ms": 214823,
-      "name": "Canci\u00f3n de boda",
-      "url": "https://open.spotify.com/track/2bAofGOs0dpLpOtnhk6bqd"
-    },
-    {
-      "added_at": "2024-01-05 09:11:13",
-      "album": {
         "name": "Herminia",
         "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 185960,
       "name": "P\u00e9ndulo (feat. Juan Pablo Vega)",
       "url": "https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE"
+    },
+    {
+      "added_at": "2024-01-05 09:11:13",
+      "album": {
+        "name": "Los versos s\u00e1ficos",
+        "url": "https://open.spotify.com/album/6gOgdemsUT1qHDVMlEDmNi"
+      },
+      "artists": [
+        {
+          "name": "Christina Rosenvinge",
+          "url": "https://open.spotify.com/artist/7MignPwWd7ZxlPi54KtLpp"
+        },
+        {
+          "name": "Maria Arnal",
+          "url": "https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm"
+        }
+      ],
+      "duration_ms": 214823,
+      "name": "Canci\u00f3n de boda",
+      "url": "https://open.spotify.com/track/2bAofGOs0dpLpOtnhk6bqd"
     },
     {
       "added_at": "2024-01-05 09:11:13",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-01-05 09:11:13",
       "album": {
-        "name": "Sana sana",
-        "url": "https://open.spotify.com/album/1piUtiyESANVRuWdVNSoZJ"
-      },
-      "artists": [
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        }
-      ],
-      "duration_ms": 302976,
-      "name": "Sana sana",
-      "url": "https://open.spotify.com/track/3tpwqGiVb86UmDj5TA86mV"
-    },
-    {
-      "added_at": "2024-01-05 09:11:13",
-      "album": {
         "name": "Mareas",
         "url": "https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 229901,
       "name": "Mareas",
       "url": "https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB"
+    },
+    {
+      "added_at": "2024-01-05 09:11:13",
+      "album": {
+        "name": "Sana sana",
+        "url": "https://open.spotify.com/album/1piUtiyESANVRuWdVNSoZJ"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        }
+      ],
+      "duration_ms": 302976,
+      "name": "Sana sana",
+      "url": "https://open.spotify.com/track/3tpwqGiVb86UmDj5TA86mV"
     },
     {
       "added_at": "2024-01-05 09:11:13",

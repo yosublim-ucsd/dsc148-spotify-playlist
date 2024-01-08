@@ -2,7 +2,7 @@
 
 ### [Winter '24](https://open.spotify.com/playlist/37i9dQZF1DXcx1szy2g67M)
 
-> Zo klinkt de winter van 2024!
+> Eindelijk vorst in de winter van 2024!
 
 336 songs - 16 hr 56 min
 

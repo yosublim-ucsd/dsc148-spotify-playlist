@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best tracks from independent, developing artists around the world this year\. Cover: Searows
 
-5,424 songs - 12 day 7 hr 25 min
+5,425 songs - 12 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [A Fragile Bond](https://open.spotify.com/track/6UAgS6EGeKPFSRYEpA2Pxs) | [Hush Forte](https://open.spotify.com/artist/4MbRfFtyXLbOnccfjBE69n) | [A Fragile Bond](https://open.spotify.com/album/0KwSDitducdOakCI4gGxy5) | 2:51 | 2023-06-21 | 2023-06-29 |
 | [A Heart Can Learn to Break](https://open.spotify.com/track/5bjB4xrj0jphmc92OgGa46) | [The Yves](https://open.spotify.com/artist/50CeFDCHW8eEwymrHFAeKL) | [A Heart Can Learn to Break](https://open.spotify.com/album/05dA8II8RcLIySTyoWGURP) | 2:29 | 2023-02-22 | 2023-03-02 |
 | [a kid with an atlas](https://open.spotify.com/track/2b39QH4RWNSU7UHVMJEdrR) | [AKINYEMI](https://open.spotify.com/artist/6B4zXBfxCQ7ztcBfkNngsH) | [a kid with an atlas](https://open.spotify.com/album/0GURatf8oBoGaLIkbnwzZd) | 2:32 | 2023-09-27 | 2023-10-05 |
-| [A la Carta](https://open.spotify.com/track/22a4UCHSOGzypj67zyOVEH) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [A la Carta](https://open.spotify.com/album/7MOj5xWZV82U7TvBTW5kqH) | 2:53 | 2023-06-14 |  |
+| [A la Carta](https://open.spotify.com/track/22a4UCHSOGzypj67zyOVEH) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [A la Carta](https://open.spotify.com/album/7MOj5xWZV82U7TvBTW5kqH) | 2:53 | 2023-06-14 | 2024-01-08 |
 | [a little bit more](https://open.spotify.com/track/6Zn4mNLa6mL1jrJWF97SdF) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [a little bit more](https://open.spotify.com/album/1qcxwQMk3kpIrFebXBMEIl) | 2:26 | 2022-08-31 | 2022-09-09 |
 | [a little hope never hurt](https://open.spotify.com/track/6WsRXTqNCcY6xplZdac3wB) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [a little hope never hurt](https://open.spotify.com/album/41e2z36Vmlzd4bTmmkXIY7) | 2:30 | 2022-06-29 | 2022-07-07 |
 | [A Little Piece Of Home](https://open.spotify.com/track/4Me9Q1E4T1JzwOobE8sF6W) | [Origami Human](https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t) | [A Little Piece Of Home](https://open.spotify.com/album/0WNTxXuWRjsP4Z06cMqn4s) | 2:16 | 2022-05-11 | 2022-05-19 |
@@ -2844,7 +2844,7 @@
 | [Lose a Friend](https://open.spotify.com/track/3Uo3QGPMTpiyAbMkj9dqgd) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Lose a Friend](https://open.spotify.com/album/1J1bA0Cw8Bw9r1KyDukInD) | 3:15 | 2023-02-22 | 2023-03-02 |
 | [LOSE FIRST, WIN LATER](https://open.spotify.com/track/1c2xULJ6i7yR7ZWuQuRZEF) | [Tec](https://open.spotify.com/artist/0i42weW8gvzyQgIHAIibzI), [KLWN CAT](https://open.spotify.com/artist/3njKTUDQIOswiLKoYRePBd) | [LOSE FIRST, WIN LATER](https://open.spotify.com/album/4XBfTajyoqKwt3KQexlmjC) | 2:38 | 2023-09-13 | 2023-09-28 |
 | [LOSE FIRST, WIN LATER \- DEMO](https://open.spotify.com/track/6FvMmoVFEl6cGvAQXMNeu9) | [Tec](https://open.spotify.com/artist/0i42weW8gvzyQgIHAIibzI), [KLWN CAT](https://open.spotify.com/artist/3njKTUDQIOswiLKoYRePBd) | [LOSE FIRST, WIN LATER \(DEMO\)](https://open.spotify.com/album/5btr8xOvQkSJ88TQKusa81) | 2:38 | 2023-09-13 | 2023-09-16 |
-| [Lose You \- A COLORS SHOW](https://open.spotify.com/track/3QfI3tTncp1CjYLMypO2vA) | [UNA MIA](https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0) | [Lose You \- A COLORS SHOW](https://open.spotify.com/album/3MmtbPCisizJovsDUBQ1md) | 3:19 | 2023-11-29 | 2024-01-05 |
+| [Lose You \- A COLORS SHOW](https://open.spotify.com/track/3QfI3tTncp1CjYLMypO2vA) | [UNA MIA](https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0) | [Lose You \- A COLORS SHOW](https://open.spotify.com/album/3MmtbPCisizJovsDUBQ1md) | 3:19 | 2023-11-29 |  |
 | [Lose Yourself](https://open.spotify.com/track/50BCSiudZXPTLHWkQzulII) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Lose Yourself](https://open.spotify.com/album/31uaGLLLoSZcNLRjFviWfk) | 3:16 | 2022-04-27 | 2022-05-05 |
 | [Losers](https://open.spotify.com/track/4y35lEbyqHAuVEVMe4waSE) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [Losers](https://open.spotify.com/album/3rinCWjkbGAkFnM9yVuVSZ) | 2:11 | 2021-11-17 | 2022-01-13 |
 | [LOSIN U](https://open.spotify.com/track/3Yev5ppYhApRb0qiaN3N1J) | [CLAVIS 7EVEN](https://open.spotify.com/artist/3PDQTV8PvwYMsbPXzndDQF) | [LOSIN U](https://open.spotify.com/album/21oZxwIF29zWOUxQ4iNTEB) | 3:39 | 2023-07-12 | 2023-07-20 |
@@ -4387,7 +4387,8 @@
 | [Song of the Highest Tower](https://open.spotify.com/track/5CD8wM1IsTaNJ02qZ3gkgB) | [Kip Nelson](https://open.spotify.com/artist/5k62M5NJX9w9TbHpUKiRTs) | [Song of the Highest Tower](https://open.spotify.com/album/7xyvbm4u3FrbO12whBkINc) | 4:02 | 2023-10-11 | 2023-10-26 |
 | [Songbook](https://open.spotify.com/track/1hHbk4aVQSpTm0zpmHuIPY) | [JUNES K](https://open.spotify.com/artist/45KUf6mcBeHM9UZg0jEcZl) | [Songbook](https://open.spotify.com/album/6h5PJAUjqtHpbtqecwQlIU) | 2:56 | 2022-01-19 | 2022-01-27 |
 | [SONGS ONLINE](https://open.spotify.com/track/22TZopmNyCqGVVikA49JME) | [Eichlers](https://open.spotify.com/artist/4BbaA8tRBEZ81exJ8Ll2Fo) | [SONGS ONLINE](https://open.spotify.com/album/3tBKt7nLYR2c6XfPKtp8fM) | 1:35 | 2022-01-12 | 2022-01-20 |
-| [Soon We'll Make It](https://open.spotify.com/track/1aVJfYAryZWDqwa6IOiHzE) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [Soon We'll Make It](https://open.spotify.com/album/0GwFm5QbuwAyc7Ag20lzhL) | 2:19 | 2023-08-23 |  |
+| [Soon We'll Make It](https://open.spotify.com/track/1aVJfYAryZWDqwa6IOiHzE) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [Soon We'll Make It](https://open.spotify.com/album/0GwFm5QbuwAyc7Ag20lzhL) | 2:19 | 2023-08-23 | 2024-01-08 |
+| [Soon We'll Make It](https://open.spotify.com/track/2QA97SRId1uFVmiJljRkHH) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [More Better](https://open.spotify.com/album/4rsrAAeWRTA0FZqJ9eWS3A) | 2:19 | 2023-11-29 |  |
 | [Sophie](https://open.spotify.com/track/4ySch7clKEIT3h3GXDNBWR) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [Sophie](https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I) | 3:14 | 2023-11-08 |  |
 | [Sorrow](https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Sorrow](https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT) | 2:20 | 2023-06-07 |  |
 | [sorry](https://open.spotify.com/track/7EcUaKyjR0WlujOxkpUxh1) | [Hanniou](https://open.spotify.com/artist/6cPHtMeQsCbbzpKyNDduLT) | [sorry](https://open.spotify.com/album/2FgOGpo1bbhTUmfUUdUrrr) | 2:34 | 2022-05-11 | 2022-05-19 |

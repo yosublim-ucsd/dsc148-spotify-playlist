@@ -1,12 +1,12 @@
 {
   "description": "Entre estrellas pop y el auge del grunge, en Argentina, detr\u00e1s de Dynamo floreci\u00f3 el nuevo rock argentino. Sonido alternativo y vanguardista. Foto: <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz\">Babas\u00f3nicos</a>",
-  "num_followers": 15445,
+  "num_followers": 15450,
   "original_name": "Rock S\u00f3nico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGFlZDA4NGY4YjY0ZDAwMWVjNGMxOWVkYjRkNzE5MGMxY2ZkODQz",
+  "snapshot_id": "MCxiYWYwNWZmMmFiMzNlMjVjYTkxMjdjZDk4YTdkNzJiNjE2NTk5N2Ji",
   "tracks": [
     {
       "added_at": "2020-03-13 13:21:28",
@@ -307,22 +307,6 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/4ifo89f4dmFGOsB0Exme9O"
-      },
-      "artists": [
-        {
-          "name": "Juana La Loca",
-          "url": "https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE"
-        }
-      ],
-      "duration_ms": 158786,
-      "name": "Agujeros Negros",
-      "url": "https://open.spotify.com/track/6ezOz2rI1ASy14JcgKZZxK"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
         "name": "Dale Aborigen",
         "url": "https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 191000,
       "name": "MATE",
       "url": "https://open.spotify.com/track/6gmGCkSs5AA0FWwI2poY9Z"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/4ifo89f4dmFGOsB0Exme9O"
+      },
+      "artists": [
+        {
+          "name": "Juana La Loca",
+          "url": "https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE"
+        }
+      ],
+      "duration_ms": 158786,
+      "name": "Agujeros Negros",
+      "url": "https://open.spotify.com/track/6ezOz2rI1ASy14JcgKZZxK"
     },
     {
       "added_at": "2020-03-13 13:21:28",

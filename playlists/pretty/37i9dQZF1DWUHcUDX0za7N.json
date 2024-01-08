@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: <a href=\"https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl?si=DYtt5ZR1QtKZElLkldjN8w\"> Phyno </a> and <a href=\"https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa?si=qLthEox5Qse-kNLysa6h1Q\"> Burna Boy</a>",
-  "num_followers": 40163,
+  "num_followers": 40246,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzNhNzU5ZWJkZTg0NDA3YTMwYmUyNDkwZGY0OGMxNzJmOTI3YjQx",
+  "snapshot_id": "MCw4YzAxMWZkZGI1MzA3NzQ0Y2QwNTIyZmMwOTViYzk3OWYwYzczYmE2",
   "tracks": [
     {
       "added_at": "2024-01-05 00:01:00",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2024-01-05 00:01:00",
       "album": {
-        "name": "BACK IN UNI",
-        "url": "https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "BACK IN UNI",
-      "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
-    },
-    {
-      "added_at": "2024-01-05 00:01:00",
-      "album": {
         "name": "Photocopy Reimagined",
         "url": "https://open.spotify.com/album/6SVFAaB0lYnMKMwsmmqZc1"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 138962,
       "name": "Photocopy Reimagined",
       "url": "https://open.spotify.com/track/4JkLzZ2LUIYEZGyihLPUMM"
+    },
+    {
+      "added_at": "2024-01-05 00:01:00",
+      "album": {
+        "name": "BACK IN UNI",
+        "url": "https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "BACK IN UNI",
+      "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
     },
     {
       "added_at": "2024-01-05 00:01:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-01-05 00:01:00",
       "album": {
-        "name": "Gdzilla",
-        "url": "https://open.spotify.com/album/1KzWFmSUqNBdp646bQKpKO"
-      },
-      "artists": [
-        {
-          "name": "Gdzilla",
-          "url": "https://open.spotify.com/artist/2GYi94SMYCdXqsvYjer68K"
-        }
-      ],
-      "duration_ms": 152500,
-      "name": "Chop Life",
-      "url": "https://open.spotify.com/track/2Nbv86CqcUykqD1SvzkmlZ"
-    },
-    {
-      "added_at": "2024-01-05 00:01:00",
-      "album": {
         "name": "Introduction",
         "url": "https://open.spotify.com/album/4qxDgfQJbQrVNLAyTNJ2ym"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 144444,
       "name": "Pepper Dem",
       "url": "https://open.spotify.com/track/5OOJeJuR8cy18QeohY5qhT"
+    },
+    {
+      "added_at": "2024-01-05 00:01:00",
+      "album": {
+        "name": "Gdzilla",
+        "url": "https://open.spotify.com/album/1KzWFmSUqNBdp646bQKpKO"
+      },
+      "artists": [
+        {
+          "name": "Gdzilla",
+          "url": "https://open.spotify.com/artist/2GYi94SMYCdXqsvYjer68K"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "Chop Life",
+      "url": "https://open.spotify.com/track/2Nbv86CqcUykqD1SvzkmlZ"
     },
     {
       "added_at": "2024-01-05 00:01:00",

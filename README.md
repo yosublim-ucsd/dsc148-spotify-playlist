@@ -59,7 +59,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists <a name="playlists"></a> \(7344\)
+## Playlists <a name="playlists"></a> \(7345\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -1765,7 +1765,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Día de Shakira](/playlists/pretty/37i9dQZF1DX2aEQIkO99yg.md)
 - [Días Lluviosos](/playlists/pretty/37i9dQZF1DWTIpAoUPaStF.md)
 - [EA NHL 24 Official Playlist](/playlists/pretty/37i9dQZF1DWWP0WY5aV2Xz.md)
-- [EA SPORTS FC 24 Official Soundtrack](/playlists/pretty/37i9dQZF1DX3rXtgePifMs.md)
 - [EA SPORTS FIFA Mix](/playlists/pretty/37i9dQZF1DXdDfBvFXqzpv.md)
 - [ECHO : Fascinating Flute](/playlists/pretty/37i9dQZF1DX4x2OUqt1eGO.md)
 - [ECHO : Soulful Sitar](/playlists/pretty/37i9dQZF1DX8mlN8vvE4ZI.md)
@@ -3960,7 +3959,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Party Jazz](/playlists/pretty/37i9dQZF1DXcrFx9OjqPuj.md)
 - [Party Starters](/playlists/pretty/37i9dQZF1DXaave677EKyk.md)
 - [Party of the Year](/playlists/pretty/37i9dQZF1DX4m8lwRUbXLs.md)
-- [Partyhymnen 2023](/playlists/pretty/37i9dQZF1DX9EM98aZosoy.md)
+- [Partyhymnen](/playlists/pretty/37i9dQZF1DX9EM98aZosoy.md)
 - [Pass The Chutney](/playlists/pretty/37i9dQZF1DWWXmRdYIgq8J.md)
 - [Paul Simon: Covered](/playlists/pretty/37i9dQZF1DXb9WXpUmdSWn.md)
 - [Peace](/playlists/pretty/37i9dQZF1DXdCsscAsbRNz.md)
@@ -4566,6 +4565,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [SAHM Spotlight: Dastaangoi](/playlists/pretty/37i9dQZF1DWZmgVI3UNCd0.md)
 - [SAHM Spotlight: Sharmeen Obaid Chinoy](/playlists/pretty/37i9dQZF1DX86uJ5hoOPYV.md)
 - [SALT](/playlists/pretty/37i9dQZF1DX6tPTxr8qwRe.md)
+- [SAMURAI CHAMPLOO サムライチャンプルー](/playlists/pretty/37i9dQZF1DXbXXaIQy2nTx.md)
 - [SAlt](/playlists/pretty/37i9dQZF1DX6dYPM8db5Sz.md)
 - [SEVENTEEN TOUR 'FOLLOW'](/playlists/pretty/37i9dQZF1DXbtA6H6FCiTv.md)
 - [SHADOWS HOUSE シャドーハウス](/playlists/pretty/37i9dQZF1DX01BMYuRJG8i.md)
@@ -4834,6 +4834,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Sound Semester](/playlists/pretty/37i9dQZF1DX4eQiqG0uCMB.md)
 - [Sounds of the Ocean](/playlists/pretty/37i9dQZF1DWV90ZWj21ygB.md)
 - [Soundtrack Love Songs](/playlists/pretty/37i9dQZF1DXar0WmW5YgAc.md)
+- [Soundtrack oficial de EA SPORTS FC 24](/playlists/pretty/37i9dQZF1DX3rXtgePifMs.md)
 - [Soundtracked](/playlists/pretty/37i9dQZF1DWW7gj0FcGEx6.md)
 - [Soundtracks for Studying](/playlists/pretty/37i9dQZF1DWZ27zYbfKITD.md)
 - [Soundtracks Épicos](/playlists/pretty/37i9dQZF1DXdEH86O6asrX.md)

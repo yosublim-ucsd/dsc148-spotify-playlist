@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Pj Panda
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,507 likes - 56 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,520 likes - 56 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 3 | [Everybody Wants to Rule the World](https://open.spotify.com/track/7K7gmb6y6xdHR0ySXsss1L) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Everybody Wants to Rule the World](https://open.spotify.com/album/3bw37vSE6710A8rs24dox2) | 4:15 |
 | 4 | [Dance Mode](https://open.spotify.com/track/34oa5y5p5SyWk7GfjdeNJY) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Dance Mode!](https://open.spotify.com/album/2WLF2MEPy84iUHEkSElL4Z) | 1:58 |
 | 5 | [It's Stariana!](https://open.spotify.com/track/0mI8clBGy1IIVDctrLA9fP) | [The Cast of Baby Shark's Big Movie](https://open.spotify.com/artist/2qlOwH6ICaEw63LMC3bBVR), [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [It's Stariana!](https://open.spotify.com/album/5yhIJn35x1qpZVTdg4Mv4Q) | 0:43 |
-| 6 | [Steal The Show \- From "Elemental"](https://open.spotify.com/track/6R5fYCySNHrqo4Og6O1ppn) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Steal The Show \(From "Elemental"\)](https://open.spotify.com/album/1rMI4GKDwtz8Ok0e7jbE4l) | 3:11 |
+| 6 | [Steal The Show](https://open.spotify.com/track/0SccFtYdj75y6lL2OW10Cf) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Elemental \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7L15PXtti3kXEn7vTXi8ZV) | 3:12 |
 | 7 | [ABC You A G](https://open.spotify.com/track/0WJRF99Adva94LORA1Cyud) | [Pierce Freelon](https://open.spotify.com/artist/49DZXXkpkkpbrEsEaMKuKG), [Nnenna Freelon](https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS), [Stella Freelon](https://open.spotify.com/artist/07a4pfP7i1yw280o7TWBCk) | [AnceStars](https://open.spotify.com/album/64aREOj3hb0pCmJzTSxTXc) | 1:53 |
 | 8 | [The Cheesy Grand Finale \- from “Henry Danger The Musical” / Sped Up](https://open.spotify.com/track/1k59Dyt0ANypN7LgTDDKDJ) | [Henry Danger The Musical Cast](https://open.spotify.com/artist/14QFzo4BPE9kmObR2jSTeD) | [The Cheesy Grand Finale \(from “Henry Danger The Musical” / Sped Up\)](https://open.spotify.com/album/2s8OZoKtWpoI39na1iUsFq) | 2:07 |
 | 9 | [Rock On](https://open.spotify.com/track/6Z2nmTZ1xS2Gujt5apa7HZ) | [Dr\. Teeth and The Electric Mayhem](https://open.spotify.com/artist/2ga7tr3zy7iQ9r2VQ6AMGF) | [The Muppets Mayhem \(Original Soundtrack\)](https://open.spotify.com/album/49H9f3snohaDmbcTB3ccUh) | 3:06 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 55 | [Bath Time Freeze Dance](https://open.spotify.com/track/0EYrMlMMxouVxPPsM2Al5O) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Bath Time Freeze Dance](https://open.spotify.com/album/6lG15hlcYwGNFEqz6CcRKK) | 1:54 |
 | 56 | [Mom the Bounty Hunter \(from the Netflix Series "My Dad the Bounty Hunter"\)\`](https://open.spotify.com/track/5HVSXWiAEQEGKZyQOgVCCc) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq), [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w) | [Mom the Bounty Hunter \(from the Netflix Series "My Dad the Bounty Hunter"\)](https://open.spotify.com/album/3rJ69PV57G5a5odY6QKxRH) | 2:35 |
 
-Snapshot ID: `MCxiYTZkYjcwNmM3NWM1NTQ2NzU5N2U0ZDA2NjA4MjU3NmFkOGZkNzIx`
+Snapshot ID: `MCw1MTJlMjgxYzAzNmU2ZGQzYmJmYTdhYjJmN2U4MTM4NzRjMzAwYjk3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Alan Walker x Putri Ariani x Peder Elias
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,605 likes - 67 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,583 likes - 67 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 66 | [Heat](https://open.spotify.com/track/6g3TniDfFA7M03dR0oPNaQ) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [Crossthy](https://open.spotify.com/artist/1q8gr50wQ2hKJy01NV54kg) | [Heat](https://open.spotify.com/album/49fKk1ORiBi6qnM4dJVtKj) | 2:51 |
 | 67 | [Daddy](https://open.spotify.com/track/4bahlJIInsjIUKXrod6RqO) | [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Daddy](https://open.spotify.com/album/7lL7z2Kbqj7gCjRlAKENmb) | 2:12 |
 
-Snapshot ID: `MCw1ZmViZDc0ZWExYjJkNTFjMWU0NTAzZmZkYzFhMjQwMzhkZjUwZDAw`
+Snapshot ID: `MCw3YWY2NjQ2OWE5YzAxYjAwNjI5ODg4MDk4MzJjNDNiYzg4YmVjNzY4`

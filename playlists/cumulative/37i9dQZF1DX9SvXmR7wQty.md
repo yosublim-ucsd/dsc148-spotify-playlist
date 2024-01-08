@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Noé Preszow
 
-2,246 songs - 4 day 23 hr 58 min
+2,247 songs - 5 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [20 ans plus tard](https://open.spotify.com/track/2GBqnoqXTzrf6yR6AfaCBA) | [Damien](https://open.spotify.com/artist/3PB3EoNBONIKaRTh2uyfOB), [Koopsala](https://open.spotify.com/artist/1Cbu28KNwWU8C4tninooFI), [Lappa](https://open.spotify.com/artist/0I7zTG6GZrTiHhNWarxF2F) | [20 ans plus tard](https://open.spotify.com/album/6778ctRjtIPWxBRimpsxOK) | 4:00 | 2022-09-23 | 2022-10-01 |
 | [20%](https://open.spotify.com/track/3eNdWF2JQPP4usNDmU2k4D) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [20%](https://open.spotify.com/album/09oPfLAESBKfPHQhAigjKr) | 2:26 | 2022-09-09 | 2022-09-17 |
 | [2005](https://open.spotify.com/track/24X8QSYqgp7P3j9LlAtEuw) | [Kalibre](https://open.spotify.com/artist/2hJHgSjgt2ij8alpKsyWmN) | [2005](https://open.spotify.com/album/3d218d8XdXUSWmGeXdySUK) | 1:12 | 2022-10-21 | 2022-10-29 |
+| [2006 \- Opps qui court](https://open.spotify.com/track/5cJHbMiyHr3oj9M8ZqIxho) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [2006 \(Opps qui court\)](https://open.spotify.com/album/5ncE4u6zAIl1O7a4x3zy2Q) | 2:58 | 2024-01-05 |  |
 | [21](https://open.spotify.com/track/6w7lhVlpPkjSAdd4AhKWzN) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [21](https://open.spotify.com/album/7jMCdSNccIuSFNDfl8spLk) | 3:04 | 2023-07-07 | 2023-07-15 |
 | [22 Carats](https://open.spotify.com/track/1fmVM7nzDB3pUPhPQgzYoT) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [22 Carats](https://open.spotify.com/album/5Zk8JVmGOQCIfyulE39JCd) | 3:26 | 2022-05-20 | 2022-05-28 |
 | [24 Gang](https://open.spotify.com/track/3E8mWggRxk58HIVV7XmjiX) | [JuicemanSF](https://open.spotify.com/artist/7lmOPad5dsOfryNQB2sDay), [Bouldat](https://open.spotify.com/artist/6OJIqTSNa43LsvZmIURNAb), [BangBangCashout](https://open.spotify.com/artist/6ejrJ9lIzqZ7sATdJaC9Uc) | [24 Gang](https://open.spotify.com/album/4Y9U6MyvAVyG4o00p90ap7) | 3:25 | 2022-02-25 | 2022-03-12 |
@@ -615,7 +616,7 @@
 | [Encore](https://open.spotify.com/track/409KxStjBn0Iz1hSnBKRB0) | [Papagroove](https://open.spotify.com/artist/1GqYLGpfT909cmQ3HK4zL2) | [Encore](https://open.spotify.com/album/5XDexeVBs0ez0PZVOP2wnn) | 3:35 | 2022-01-14 | 2022-01-29 |
 | [Encore ben amoureux](https://open.spotify.com/track/0iIigb9wBXhyi197evZtvc) | [La Braise](https://open.spotify.com/artist/2rTU2KGZ4wyFZ2L8zXwlz4) | [Encore ben amoureux](https://open.spotify.com/album/4Xw8JlSme5o3LYJIDx5JqC) | 2:34 | 2022-06-03 | 2022-06-11 |
 | [Encore là](https://open.spotify.com/track/0yajebaRJVcOQGdh4giqZy) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Encore là](https://open.spotify.com/album/1YEGYqvsrg8fEltkHGc4tx) | 2:59 | 2022-11-25 | 2022-12-10 |
-| [Encore plus](https://open.spotify.com/track/39lgf886U50NvJ8DRntHIL) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [Encore plus](https://open.spotify.com/album/2p1iQufm1aLmR3oIo6ENOr) | 3:09 | 2023-10-13 |  |
+| [Encore plus](https://open.spotify.com/track/39lgf886U50NvJ8DRntHIL) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [Encore plus](https://open.spotify.com/album/2p1iQufm1aLmR3oIo6ENOr) | 3:09 | 2023-10-13 | 2024-01-08 |
 | [Encorps](https://open.spotify.com/track/1e9uba4Ei8fHrXDYrNTuTN) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/1AV7yqXIK2IhVpLvd5KSfr) | 3:56 | 2023-02-17 | 2023-02-19 |
 | [Encorps](https://open.spotify.com/track/7LIdkzgw9GofNXPnc6IbV1) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:56 | 2023-02-17 | 2023-03-04 |
 | [Encre rose](https://open.spotify.com/track/2ozGNfYebzpA8mEoQbtAP3) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Dashny Jules](https://open.spotify.com/artist/0qBG4ysV4DQXkZ1D5mcj5w) | [Encre rose](https://open.spotify.com/album/0Qsu1nA0ajaW7wbRCoywq2) | 2:51 | 2022-03-25 | 2022-04-09 |

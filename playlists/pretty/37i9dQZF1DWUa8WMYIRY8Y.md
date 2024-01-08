@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 
 > Les meilleurs morceaux alternatifs du moment\. Photo : Liam Gallagher & John Squire
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,705 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,580 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 | 49 | [Chosen to Deserve](https://open.spotify.com/track/1c2meJL1RaGILGSw9Lnj0P) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 5:32 |
 | 50 | [worlds greatest emoter](https://open.spotify.com/track/6cjffqe2ghES5XsGAL9TlT) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [worlds greatest emoter](https://open.spotify.com/album/2w3uek920NjhKNSpZBX4OE) | 2:54 |
 
-Snapshot ID: `MCxhYjE1YzJhNzY4MTM1ZTc2MGFkZmRhY2U1ZWI4NTljZjU0Y2VkOGQ2`
+Snapshot ID: `MCw4NTcyZDhmN2Y3YTQ4NzgyZDYzMzljYjFjZTIyZmY2NWUyMzlkMDc5`

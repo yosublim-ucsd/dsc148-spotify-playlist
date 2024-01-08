@@ -1701,6 +1701,24 @@
     },
     {
       "album": {
+        "name": "Running Away From You",
+        "url": "https://open.spotify.com/album/7iDzhhmu7tdJSilxDJxhJJ"
+      },
+      "artists": [
+        {
+          "name": "Thing",
+          "url": "https://open.spotify.com/artist/6SovQYzixv3B3M1HWjbdLS"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "Running Away From You",
+      "url": "https://open.spotify.com/track/3tdt3HJTEJ5DIKiaCzuM2Y"
+    },
+    {
+      "album": {
         "name": "Pleasure Rooms",
         "url": "https://open.spotify.com/album/52bTkhlg28EQSgCUy9REaZ"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Plätzchen backen, Schlittschuhlaufen und Schneemann bauen 🍪⛸️☃️
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,207 likes - 47 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,206 likes - 47 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 30 | [Pingpong im Dezember](https://open.spotify.com/track/0h7kmWkVXYcWD1PrcWLCQO) | [Sebastian Krämer](https://open.spotify.com/artist/1qgGiKd6ht1mBHj1CuaiFq) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 2:36 |
 | 31 | [Winter Wunderland](https://open.spotify.com/track/1WWWWMY9W4nWnEInjUXKkv) | [Yvonne Catterfeld](https://open.spotify.com/artist/5bKy7Tu2BNmfoFnDC5mncZ), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen Winterlieder](https://open.spotify.com/album/0wLvHZNHXf35ysGUMmlGaz) | 2:48 |
 | 32 | [Gute Zeit](https://open.spotify.com/track/5wBerfXTuVnEvLJ3M36H1g) | [Francesco Wilking](https://open.spotify.com/artist/6XlZ98sKawGp29N1VyWFqV), [Dokter Renz](https://open.spotify.com/artist/3NGeF5HzunPNb9up8qcYWD), [Ylvie, Jona, Klara](https://open.spotify.com/artist/4SGCMuC7b8RPmOUjLY3KMW) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 4:41 |
-| 33 | [Schneeengel](https://open.spotify.com/track/33to3U2rdPNX2v0lEIUGNR) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder für die Weihnachtszeit](https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h) | 2:49 |
-| 34 | [Eisbärn \(Kinderlied zum Winter\)](https://open.spotify.com/track/4gyo2WVkVnMnncxuxfsGJi) | [Sternschnuppe](https://open.spotify.com/artist/08M6tIv9n50XyVLtABiZG5) | [Winterlieder: Bayerisch\-Verschmitzte Kinderlieder für Winter und Weihnachten](https://open.spotify.com/album/6YzQeq4xFBkK29bKA1RgQJ) | 4:33 |
-| 35 | [Weihnachten im Zoo](https://open.spotify.com/track/3HELc2Q8PkHC4pwYZY8wYn) | [Benjamin Blümchen](https://open.spotify.com/artist/1l6d0RIxTL3JytlLGvWzYe) | [Folge 74 \- Benjamin Blümchen singt Weihnachtslieder](https://open.spotify.com/album/6AVz3QZh2M5qneXF3MyNua) | 3:15 |
+| 33 | [Eisbärn \(Kinderlied zum Winter\)](https://open.spotify.com/track/4gyo2WVkVnMnncxuxfsGJi) | [Sternschnuppe](https://open.spotify.com/artist/08M6tIv9n50XyVLtABiZG5) | [Winterlieder: Bayerisch\-Verschmitzte Kinderlieder für Winter und Weihnachten](https://open.spotify.com/album/6YzQeq4xFBkK29bKA1RgQJ) | 4:33 |
+| 34 | [Weihnachten im Zoo](https://open.spotify.com/track/3HELc2Q8PkHC4pwYZY8wYn) | [Benjamin Blümchen](https://open.spotify.com/artist/1l6d0RIxTL3JytlLGvWzYe) | [Folge 74 \- Benjamin Blümchen singt Weihnachtslieder](https://open.spotify.com/album/6AVz3QZh2M5qneXF3MyNua) | 3:15 |
+| 35 | [Schneeengel](https://open.spotify.com/track/33to3U2rdPNX2v0lEIUGNR) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder für die Weihnachtszeit](https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h) | 2:49 |
 | 36 | [Heut Nacht hat's geschneit](https://open.spotify.com/track/0SpVxx8P0b28qNDuNFmg1g) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 2:48 |
 | 37 | [Kannst du die Lichter sehen \(feat\. Detlev Jöcker, Sarah Schiffer & Kinderlieder Gang\)](https://open.spotify.com/track/3R84hhAyodxavUJo8pdfnq) | [Der singende Bauernhof](https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo), [Detlev Jöcker](https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4), [Sarah Schiffer](https://open.spotify.com/artist/3Lc3iBAHvaR0LVKVF881oP), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Feste feiern auf dem singenden Bauernhof](https://open.spotify.com/album/4DhZY2INpjLXwEVkFFCTe9) | 2:33 |
 | 38 | [Winterzeit](https://open.spotify.com/track/6zJviKdcuwQGdSKUVwQDIV) | [Nilsen](https://open.spotify.com/artist/13x0bektBEknCM276OqYMn) | [Das grüne Album](https://open.spotify.com/album/5u87MPxd1JVZ5853FJPn29) | 2:02 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 46 | [Eisbär\-Pinguin Rock](https://open.spotify.com/track/18eVvbrJHnLSj4shiCB7iT) | [Simone Ludwig](https://open.spotify.com/artist/18gN8Rna2Zfjt2t4wh8QwI) | [Eisbär\-Pinguin Rock](https://open.spotify.com/album/6hXLzTFy2ZHZYmFnFOe1uB) | 3:05 |
 | 47 | [Süßer die Glocken nie klingen](https://open.spotify.com/track/61wnGRwPJYTj3e9kvcCZiv) | [Alexa Feser](https://open.spotify.com/artist/0Yb66lSgYL9MFYw6jUHCVD), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen Winterlieder](https://open.spotify.com/album/0wLvHZNHXf35ysGUMmlGaz) | 3:20 |
 
-Snapshot ID: `MCw1MDM5Y2NiOGM5NGVjMDMxMDJkMDA5MWZmZDU1ZThiMTFkOGE2YjAx`
+Snapshot ID: `MCwzNGMwZjVkMzI3MDE0YWE1ZjliMmU1YjgwMDQyMjNhOTBhZmJiNDRj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: The Game, Big Hit
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,374 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,384 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [BACK2ORBIT](https://open.spotify.com/track/67UwEESR9kfCdMuTNLeXaK) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW), [451](https://open.spotify.com/artist/0x2owJPJ7tQZaSSKJq6GXA) | [CAUSE AND EFFECT](https://open.spotify.com/album/0Wx9bpnH2kqj4TJ7mdW6dY) | 2:35 |
 | 50 | [Therapy](https://open.spotify.com/track/70lkOeQI0L3bSgj183ZPm5) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Therapy](https://open.spotify.com/album/7rROu8cbJwD6gr3DwcPx07) | 2:08 |
 
-Snapshot ID: `MCw2NDNjYzZlNjY1OWNkMWIwNjNiN2FkYmY1ZDliNmQxY2I0M2E2MTZm`
+Snapshot ID: `MCwyZTc2NmE1NzQ0MGM0MjU3Y2ExMjdmNmEzMmY3YTlkN2RlNjc4M2U5`

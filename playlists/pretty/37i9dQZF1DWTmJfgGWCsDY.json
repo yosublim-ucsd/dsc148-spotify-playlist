@@ -1,12 +1,12 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania ",
-  "num_followers": 3027,
+  "num_followers": 3036,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDMxMjc2YjAzZGVkYTE3YzY3NjA5MWQzNzU1NzgwN2U1YTAyMTYy",
+  "snapshot_id": "MCxlNzkzMzdkMjgxY2I0MmVmZjA1OWExOTU2Yjc0NjAxMzYwYzJmZjJi",
   "tracks": [
     {
       "added_at": "2023-12-15 07:30:23",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-12-15 07:30:23",
       "album": {
-        "name": "Sweet Pain",
-        "url": "https://open.spotify.com/album/7reN9E16zjBQdFnsUJnpbj"
-      },
-      "artists": [
-        {
-          "name": "Kayumba",
-          "url": "https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk"
-        }
-      ],
-      "duration_ms": 222119,
-      "name": "Nimegonga",
-      "url": "https://open.spotify.com/track/4SeJF14PnQOeCr5OM4Yqwj"
-    },
-    {
-      "added_at": "2023-12-15 07:30:23",
-      "album": {
         "name": "Nalimwaga",
         "url": "https://open.spotify.com/album/4fj0mCIiFzHQxMRqVcrf97"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 224906,
       "name": "Nalimwaga",
       "url": "https://open.spotify.com/track/604PZOHyzFTv8ySybcmGox"
+    },
+    {
+      "added_at": "2023-12-15 07:30:23",
+      "album": {
+        "name": "Sweet Pain",
+        "url": "https://open.spotify.com/album/7reN9E16zjBQdFnsUJnpbj"
+      },
+      "artists": [
+        {
+          "name": "Kayumba",
+          "url": "https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk"
+        }
+      ],
+      "duration_ms": 222119,
+      "name": "Nimegonga",
+      "url": "https://open.spotify.com/track/4SeJF14PnQOeCr5OM4Yqwj"
     },
     {
       "added_at": "2023-12-15 07:30:23",
@@ -567,42 +567,6 @@
     {
       "added_at": "2023-12-15 07:30:23",
       "album": {
-        "name": "Kizimkazi",
-        "url": "https://open.spotify.com/album/1iiN5854GcCoiJXQCUgwDY"
-      },
-      "artists": [
-        {
-          "name": "Sholo Mwamba",
-          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
-        }
-      ],
-      "duration_ms": 233226,
-      "name": "Kizimkazi",
-      "url": "https://open.spotify.com/track/1timkZv543vJPprluNTDQ4"
-    },
-    {
-      "added_at": "2023-12-15 07:30:23",
-      "album": {
-        "name": "Sina",
-        "url": "https://open.spotify.com/album/4Mbf8XSzcpQCck4Qzu2Awu"
-      },
-      "artists": [
-        {
-          "name": "Malkia Karen",
-          "url": "https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr"
-        },
-        {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
-        }
-      ],
-      "duration_ms": 298358,
-      "name": "Sina",
-      "url": "https://open.spotify.com/track/3nuVeMmA0MqApgbpDDz58n"
-    },
-    {
-      "added_at": "2023-12-15 07:30:23",
-      "album": {
         "name": "Sanamu La Michelini",
         "url": "https://open.spotify.com/album/5cKSAOEgMgvIdOmNfOqFWG"
       },
@@ -623,18 +587,18 @@
     {
       "added_at": "2023-12-15 07:30:23",
       "album": {
-        "name": "Boss Kalewa",
-        "url": "https://open.spotify.com/album/3hObipsh4XFmmdFvFKO52w"
+        "name": "Kizimkazi",
+        "url": "https://open.spotify.com/album/1iiN5854GcCoiJXQCUgwDY"
       },
       "artists": [
         {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+          "name": "Sholo Mwamba",
+          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
         }
       ],
-      "duration_ms": 323972,
-      "name": "Boss Kalewa",
-      "url": "https://open.spotify.com/track/0hWLGhDjvYyXqDfHJstOpb"
+      "duration_ms": 233226,
+      "name": "Kizimkazi",
+      "url": "https://open.spotify.com/track/1timkZv543vJPprluNTDQ4"
     },
     {
       "added_at": "2023-12-15 07:30:23",
@@ -651,6 +615,42 @@
       "duration_ms": 291800,
       "name": "Nimejipata",
       "url": "https://open.spotify.com/track/2WKTNo9OCQi87dmFs4CJfq"
+    },
+    {
+      "added_at": "2023-12-15 07:30:23",
+      "album": {
+        "name": "Boss Kalewa",
+        "url": "https://open.spotify.com/album/3hObipsh4XFmmdFvFKO52w"
+      },
+      "artists": [
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+        }
+      ],
+      "duration_ms": 323972,
+      "name": "Boss Kalewa",
+      "url": "https://open.spotify.com/track/0hWLGhDjvYyXqDfHJstOpb"
+    },
+    {
+      "added_at": "2023-12-15 07:30:23",
+      "album": {
+        "name": "Sina",
+        "url": "https://open.spotify.com/album/4Mbf8XSzcpQCck4Qzu2Awu"
+      },
+      "artists": [
+        {
+          "name": "Malkia Karen",
+          "url": "https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr"
+        },
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+        }
+      ],
+      "duration_ms": 298358,
+      "name": "Sina",
+      "url": "https://open.spotify.com/track/3nuVeMmA0MqApgbpDDz58n"
     },
     {
       "added_at": "2023-12-15 07:30:23",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-12-15 07:30:23",
       "album": {
+        "name": "Chura",
+        "url": "https://open.spotify.com/album/42IUnXUa8lue5w3cMQn4Zm"
+      },
+      "artists": [
+        {
+          "name": "Snura",
+          "url": "https://open.spotify.com/artist/7BameHT63FkDAmYuzxPkM9"
+        }
+      ],
+      "duration_ms": 272933,
+      "name": "Chura",
+      "url": "https://open.spotify.com/track/5NsYl2TsHcS8C68i9hiO7g"
+    },
+    {
+      "added_at": "2023-12-15 07:30:23",
+      "album": {
         "name": "Status",
         "url": "https://open.spotify.com/album/1mt4GI9A1Msw42jevPqCqk"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 248853,
       "name": "Status",
       "url": "https://open.spotify.com/track/7qk0HfhXHEYQQzoZ6caYQM"
-    },
-    {
-      "added_at": "2023-12-15 07:30:23",
-      "album": {
-        "name": "Chura",
-        "url": "https://open.spotify.com/album/42IUnXUa8lue5w3cMQn4Zm"
-      },
-      "artists": [
-        {
-          "name": "Snura",
-          "url": "https://open.spotify.com/artist/7BameHT63FkDAmYuzxPkM9"
-        }
-      ],
-      "duration_ms": 272933,
-      "name": "Chura",
-      "url": "https://open.spotify.com/track/5NsYl2TsHcS8C68i9hiO7g"
     },
     {
       "added_at": "2023-12-15 07:30:23",
@@ -883,18 +883,22 @@
     {
       "added_at": "2023-12-15 07:30:23",
       "album": {
-        "name": "Chura Wangu",
-        "url": "https://open.spotify.com/album/44Pc5MxG00w4z3s8q7xrQR"
+        "name": "Siyo Shida Zangu",
+        "url": "https://open.spotify.com/album/44EjEEaqOQ7rKvUhkBnBwI"
       },
       "artists": [
         {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
+          "name": "Seneta Kilaka",
+          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
+        },
+        {
+          "name": "Mchina Mweusi",
+          "url": "https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe"
         }
       ],
-      "duration_ms": 187895,
-      "name": "Chura Wangu",
-      "url": "https://open.spotify.com/track/6aAfZHeY3N8H3dYZZF4j0g"
+      "duration_ms": 239612,
+      "name": "Siyo Shida Zangu",
+      "url": "https://open.spotify.com/track/2NBG2pKQynWx2IQ71rD2hz"
     },
     {
       "added_at": "2023-12-15 07:30:23",
@@ -915,22 +919,18 @@
     {
       "added_at": "2023-12-15 07:30:23",
       "album": {
-        "name": "Siyo Shida Zangu",
-        "url": "https://open.spotify.com/album/44EjEEaqOQ7rKvUhkBnBwI"
+        "name": "Chura Wangu",
+        "url": "https://open.spotify.com/album/44Pc5MxG00w4z3s8q7xrQR"
       },
       "artists": [
         {
-          "name": "Seneta Kilaka",
-          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
-        },
-        {
-          "name": "Mchina Mweusi",
-          "url": "https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe"
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
         }
       ],
-      "duration_ms": 239612,
-      "name": "Siyo Shida Zangu",
-      "url": "https://open.spotify.com/track/2NBG2pKQynWx2IQ71rD2hz"
+      "duration_ms": 187895,
+      "name": "Chura Wangu",
+      "url": "https://open.spotify.com/track/6aAfZHeY3N8H3dYZZF4j0g"
     },
     {
       "added_at": "2023-12-15 07:30:23",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2023-12-15 07:30:23",
       "album": {
+        "name": "Magetoni",
+        "url": "https://open.spotify.com/album/3YiUmqa4dqqMEZIosKI82E"
+      },
+      "artists": [
+        {
+          "name": "Kidene Fighter",
+          "url": "https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA"
+        },
+        {
+          "name": "Jeusi mc",
+          "url": "https://open.spotify.com/artist/3W1gApYpJuigyKw2DZkBKn"
+        }
+      ],
+      "duration_ms": 314226,
+      "name": "Magetoni",
+      "url": "https://open.spotify.com/track/0FGVaG13YmSM4WTGXvGYO3"
+    },
+    {
+      "added_at": "2023-12-15 07:30:23",
+      "album": {
         "name": "Natamani",
         "url": "https://open.spotify.com/album/6A8pezWuBNYujOhZhffVmE"
       },
@@ -1079,26 +1099,6 @@
       "duration_ms": 206455,
       "name": "Uongo",
       "url": "https://open.spotify.com/track/16JJwqUJhPReA1WRryem9G"
-    },
-    {
-      "added_at": "2023-12-15 07:30:23",
-      "album": {
-        "name": "Magetoni",
-        "url": "https://open.spotify.com/album/3YiUmqa4dqqMEZIosKI82E"
-      },
-      "artists": [
-        {
-          "name": "Kidene Fighter",
-          "url": "https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA"
-        },
-        {
-          "name": "Jeusi mc",
-          "url": "https://open.spotify.com/artist/3W1gApYpJuigyKw2DZkBKn"
-        }
-      ],
-      "duration_ms": 314226,
-      "name": "Magetoni",
-      "url": "https://open.spotify.com/track/0FGVaG13YmSM4WTGXvGYO3"
     },
     {
       "added_at": "2023-12-15 07:30:23",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-12-15 07:30:23",
       "album": {
-        "name": "Singeli Poli",
-        "url": "https://open.spotify.com/album/2mjjwhLh4ttpZRz2yKntwW"
-      },
-      "artists": [
-        {
-          "name": "Kadilida",
-          "url": "https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN"
-        }
-      ],
-      "duration_ms": 118079,
-      "name": "Singeli Poli",
-      "url": "https://open.spotify.com/track/22MhRI74ng3SmfaEFYT9fG"
-    },
-    {
-      "added_at": "2023-12-15 07:30:23",
-      "album": {
         "name": "Uroda",
         "url": "https://open.spotify.com/album/6Li6670qH4HxtF9nzgIc3C"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 215038,
       "name": "Uroda",
       "url": "https://open.spotify.com/track/1Lp86p4MRUMR0DmimDBr7w"
+    },
+    {
+      "added_at": "2023-12-15 07:30:23",
+      "album": {
+        "name": "Singeli Poli",
+        "url": "https://open.spotify.com/album/2mjjwhLh4ttpZRz2yKntwW"
+      },
+      "artists": [
+        {
+          "name": "Kadilida",
+          "url": "https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN"
+        }
+      ],
+      "duration_ms": 118079,
+      "name": "Singeli Poli",
+      "url": "https://open.spotify.com/track/22MhRI74ng3SmfaEFYT9fG"
     },
     {
       "added_at": "2023-12-15 07:30:23",

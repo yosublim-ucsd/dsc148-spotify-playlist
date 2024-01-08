@@ -1,12 +1,12 @@
 {
   "description": "Ser\u00e9 la gata bajo la lluvia... \ud83d\ude3f",
-  "num_followers": 78193,
+  "num_followers": 78258,
   "original_name": "viendo llover desde la ventana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWM4MjY0YTEwMWFkOGVlYzhiMGI2MTEwZjJkMWEwNTIzNThhZDQ5",
+  "snapshot_id": "MCw4YTI5NDllMGM4Mjc0ODA4MjY3NDgzNjZmY2M0NDAyMzY4NThkMjcx",
   "tracks": [
     {
       "added_at": "2023-02-24 17:37:22",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-02-24 17:37:22",
       "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 309600,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
-    },
-    {
-      "added_at": "2023-02-24 17:37:22",
-      "album": {
         "name": "Toto IV",
         "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 295893,
       "name": "Africa",
       "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
+    },
+    {
+      "added_at": "2023-02-24 17:37:22",
+      "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 309600,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
     },
     {
       "added_at": "2023-02-24 17:37:22",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-02-24 17:37:22",
       "album": {
-        "name": "Plato \u00danico Bailable",
-        "url": "https://open.spotify.com/album/14cao29REfwt7L3liH4hQh"
-      },
-      "artists": [
-        {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
-        }
-      ],
-      "duration_ms": 244200,
-      "name": "Sin Excusas",
-      "url": "https://open.spotify.com/track/2dmiAdscYWQIhRpbQc5TFm"
-    },
-    {
-      "added_at": "2023-02-24 17:37:22",
-      "album": {
         "name": "Let It Die",
         "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 224506,
       "name": "Mushaboom",
       "url": "https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO"
+    },
+    {
+      "added_at": "2023-02-24 17:37:22",
+      "album": {
+        "name": "Plato \u00danico Bailable",
+        "url": "https://open.spotify.com/album/14cao29REfwt7L3liH4hQh"
+      },
+      "artists": [
+        {
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
+        }
+      ],
+      "duration_ms": 244200,
+      "name": "Sin Excusas",
+      "url": "https://open.spotify.com/track/2dmiAdscYWQIhRpbQc5TFm"
     },
     {
       "added_at": "2023-08-29 00:21:01",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-02-24 17:37:22",
       "album": {
+        "name": "Destellos",
+        "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "duration_ms": 223666,
+      "name": "\u00c1frika",
+      "url": "https://open.spotify.com/track/5cY6iwmzNfroYMCuLOlJio"
+    },
+    {
+      "added_at": "2023-02-24 17:37:22",
+      "album": {
         "name": "Fuera Del Cielo",
         "url": "https://open.spotify.com/album/31cZKWtP8UL8WCko2UFDQ1"
       },
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2023-02-24 17:37:22",
       "album": {
-        "name": "Destellos",
-        "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
-      },
-      "artists": [
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        }
-      ],
-      "duration_ms": 223666,
-      "name": "\u00c1frika",
-      "url": "https://open.spotify.com/track/5cY6iwmzNfroYMCuLOlJio"
-    },
-    {
-      "added_at": "2023-02-24 17:37:22",
-      "album": {
         "name": "MAM\u00c1",
         "url": "https://open.spotify.com/album/5rjblafbv954vxZYqnNvhR"
       },
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-02-24 17:37:22",
       "album": {
-        "name": "Tiernos",
-        "url": "https://open.spotify.com/album/5I47XfGh6TwfXjMFTlu10o"
-      },
-      "artists": [
-        {
-          "name": "Technicolor Fabrics",
-          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
-        }
-      ],
-      "duration_ms": 307986,
-      "name": "Tiernos",
-      "url": "https://open.spotify.com/track/6Turi443kRpSET2JwXXLW8"
-    },
-    {
-      "added_at": "2023-02-24 17:37:22",
-      "album": {
         "name": "Collected",
         "url": "https://open.spotify.com/album/1X4zW7kIY8bQHO9gDTsIVh"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 312293,
       "name": "Unfinished Sympathy - Remastered 2006",
       "url": "https://open.spotify.com/track/10CiC7n8xCJJpbNcBpHsXc"
+    },
+    {
+      "added_at": "2023-02-24 17:37:22",
+      "album": {
+        "name": "Tiernos",
+        "url": "https://open.spotify.com/album/5I47XfGh6TwfXjMFTlu10o"
+      },
+      "artists": [
+        {
+          "name": "Technicolor Fabrics",
+          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
+        }
+      ],
+      "duration_ms": 307986,
+      "name": "Tiernos",
+      "url": "https://open.spotify.com/track/6Turi443kRpSET2JwXXLW8"
     },
     {
       "added_at": "2023-02-24 17:37:22",
@@ -1529,22 +1529,6 @@
       "url": "https://open.spotify.com/track/31alFPGPYXPTGLQfmkp8fh"
     },
     {
-      "added_at": "2023-02-24 17:37:22",
-      "album": {
-        "name": "Electric Warrior [Expanded & Remastered]",
-        "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
-      },
-      "artists": [
-        {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
-        }
-      ],
-      "duration_ms": 220960,
-      "name": "Mambo Sun - 2003 Remaster",
-      "url": "https://open.spotify.com/track/79dQwpXjJ4t3pILysdqFyB"
-    },
-    {
       "added_at": "2023-05-25 22:58:27",
       "album": {
         "name": "T\u00fa Me Llevas a Un Espacio",
@@ -1563,6 +1547,22 @@
       "duration_ms": 193578,
       "name": "T\u00fa Me Llevas a Un Espacio",
       "url": "https://open.spotify.com/track/1RDVJCMNBL13V8eQ3XawIi"
+    },
+    {
+      "added_at": "2023-02-24 17:37:22",
+      "album": {
+        "name": "Electric Warrior [Expanded & Remastered]",
+        "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 220960,
+      "name": "Mambo Sun - 2003 Remaster",
+      "url": "https://open.spotify.com/track/79dQwpXjJ4t3pILysdqFyB"
     },
     {
       "added_at": "2023-04-20 00:57:07",

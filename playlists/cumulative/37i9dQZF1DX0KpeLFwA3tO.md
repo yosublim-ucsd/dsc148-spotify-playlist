@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: SPRINTS
 
-1,505 songs - 3 day 3 hr 9 min
+1,507 songs - 3 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -562,8 +562,9 @@
 | [Haunted Be Thy](https://open.spotify.com/track/42LJtYCKDdJWidHx4neMcF) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO) | [Haunted Be Thy](https://open.spotify.com/album/4iY3mLMgC6eAPRY7ZM6dIq) | 3:40 | 2022-07-21 | 2022-09-09 |
 | [have u got a light?](https://open.spotify.com/track/4OUZX15W3IEdabaQXkfhcW) | [BESTIES](https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj), [Somber Hills](https://open.spotify.com/artist/32ERIC9nktHUbxT63ML95P) | [have u got a light?](https://open.spotify.com/album/2AkXths30HAnhoXb6Is4gM) | 2:03 | 2023-05-25 | 2023-08-18 |
 | [Hazmat Suit \(My Ass\)](https://open.spotify.com/track/62mhqqaxZF7Mm7U9zZs0G2) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Hazmat Suit \(My Ass\)](https://open.spotify.com/album/5HLaRNTY0Kk71653Rhnjww) | 3:00 | 2022-11-18 | 2023-02-24 |
-| [He's A Man](https://open.spotify.com/track/0XwS7lGdF8Ax41IIhnzuBh) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [He's A Man](https://open.spotify.com/album/2N6rm4h0A4I8nfh7q218bN) | 2:38 | 2023-11-10 |  |
+| [He's A Man](https://open.spotify.com/track/0XwS7lGdF8Ax41IIhnzuBh) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [He's A Man](https://open.spotify.com/album/2N6rm4h0A4I8nfh7q218bN) | 2:38 | 2023-11-10 | 2024-01-08 |
 | [He's A Man](https://open.spotify.com/track/4UQx1lUIMGpQStpkb2PXyr) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [He's A Man](https://open.spotify.com/album/4p4qOGUok3rOwAT9EFu6pQ) | 2:38 | 2023-10-26 | 2023-11-10 |
+| [He's A Man](https://open.spotify.com/track/6KnGDkcs7vV2ufNCIaQEXx) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Hunger Games](https://open.spotify.com/album/2dW75BMldIC4ObSSAeawgC) | 2:38 | 2024-01-05 |  |
 | [Head in the Clouds](https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ) | [Head in The Clouds](https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH) | 2:55 | 2023-04-13 | 2023-06-16 |
 | [Headstone](https://open.spotify.com/track/5PbNsH6E4cKPKqSTIx6sQb) | [Weatherstate](https://open.spotify.com/artist/21N31MF7KfcS5OXKRBaVZt) | [Headstone](https://open.spotify.com/album/1qBvU9jzoyXf2FnF83MvvQ) | 3:50 | 2022-01-14 | 2022-02-25 |
 | [Heartbreak Of The Century](https://open.spotify.com/track/6X39BP7h0IGcDFnf0PHHOb) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Heartbreak Of The Century](https://open.spotify.com/album/4wqFmxdd5bYFH8XRmfRkAJ) | 3:49 | 2023-02-17 | 2023-04-09 |
@@ -1129,7 +1130,8 @@
 | [Señorita Revolución](https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Señorita Revolución](https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm) | 2:38 | 2023-03-03 | 2023-04-14 |
 | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93) | 3:38 | 2023-07-13 | 2023-09-02 |
 | [Shadow of a Doubt](https://open.spotify.com/track/0QdGZhhmvu1LkNo6bSEmoj) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Shadow of a Doubt](https://open.spotify.com/album/52JXB20kFytV7IrYkb5dcn) | 4:10 | 2023-11-17 | 2023-12-17 |
-| [Shadow of a Doubt](https://open.spotify.com/track/7gZkRQE9DKe0cylMs9szc5) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Shadow of a Doubt](https://open.spotify.com/album/724kt4OSnlasKT95uIfzfk) | 4:10 | 2023-12-15 |  |
+| [Shadow of a Doubt](https://open.spotify.com/track/1ztIebjhmfFdYPhH4m6ORE) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 4:10 | 2024-01-05 |  |
+| [Shadow of a Doubt](https://open.spotify.com/track/7gZkRQE9DKe0cylMs9szc5) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Shadow of a Doubt](https://open.spotify.com/album/724kt4OSnlasKT95uIfzfk) | 4:10 | 2023-12-15 | 2024-01-08 |
 | [Shaken](https://open.spotify.com/track/2hDZnewf0zbCdpuM4XIE35) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [Bite The Hand That Feeds](https://open.spotify.com/album/5Zj6CNic80KUeOMjRjjoud) | 1:29 | 2023-10-13 | 2023-12-08 |
 | [Shaking Your Mind](https://open.spotify.com/track/7kTg2JxsgHLWjavcl1dPEf) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [Shaking Your Mind](https://open.spotify.com/album/3WKrQ041ZovsJcb8K4rpD9) | 2:26 | 2022-03-04 | 2022-04-22 |
 | [Shallow](https://open.spotify.com/track/7Ekno8c0KbiW2uFxAQeJU3) | [Ghum](https://open.spotify.com/artist/41yzFXg6iuyDfw0PYviMHs) | [Bitter](https://open.spotify.com/album/0vKLo5Q6AVsc1u1W1l13RW) | 5:10 | 2022-11-11 | 2023-02-17 |

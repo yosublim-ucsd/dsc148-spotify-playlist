@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Saudi Arabia.
 
-1,098 songs - 2 day 15 hr 31 min
+1,099 songs - 2 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,7 +437,7 @@
 | [LALALALA](https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:02 | 2023-11-11 | 2023-11-24 |
 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2021-09-12 | 2021-11-20 |
 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 | 2022-12-24 | 2023-01-03 |
-| [Last Christmas \- Single Version](https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [The Singles: Echoes from the Edge of Heaven](https://open.spotify.com/album/2wyHNTisH8PtZG8OG58xr6) | 4:25 | 2023-11-08 |  |
+| [Last Christmas \- Single Version](https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [The Singles: Echoes from the Edge of Heaven](https://open.spotify.com/album/2wyHNTisH8PtZG8OG58xr6) | 4:25 | 2023-11-08 | 2024-01-08 |
 | [Last Kiss \(Taylor's Version\)](https://open.spotify.com/track/59KOoHFcw5XfICnO57holu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 6:09 | 2023-07-08 | 2023-07-10 |
 | [Last One Standing \(feat\. Polo G, Mozzy & Eminem\) \- From Venom: Let There Be Carnage](https://open.spotify.com/track/5W8HXMOMLtXLz0RGKUtnlZ) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Last One Standing \(feat\. Polo G, Mozzy & Eminem\) \[From Venom: Let There Be Carnage\]](https://open.spotify.com/album/2ZaFqYD9a3U6qJhyS2LDRf) | 4:17 | 2021-10-03 | 2021-11-05 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-05-21 | 2022-06-22 |
@@ -1050,6 +1050,7 @@
 | [عراقي مسرع \- خل اصورك \| مطلوب اكثر شي](https://open.spotify.com/track/0YEKzkaSAOil5fVTHmt0Su) | [M6](https://open.spotify.com/artist/03M7YDjHSUmCM65RiX03AZ) | [عراقي مسرع \- خل اصورك \| مطلوب اكثر شي](https://open.spotify.com/album/40BkyhjeuXRVP0YKjkvSHW) | 2:54 | 2023-12-29 |  |
 | [عراقي مسرع \- راح ابقى احبك اني \| مطلوب اكثر شي](https://open.spotify.com/track/34KqhBg0i7eXxDBZ1TSAjK) | [M6](https://open.spotify.com/artist/03M7YDjHSUmCM65RiX03AZ) | [عراقي مسرع \- راح ابقى احبك اني \| مطلوب اكثر شي](https://open.spotify.com/album/5moUq8sFOTKNZbAX5oyMGi) | 3:45 | 2023-12-22 |  |
 | [عراقي مسرع \- شلون تنسى العشره \| مطلوب اكثر شي](https://open.spotify.com/track/3kTpd8NsbDfDmOwOgH1LCA) | [M6](https://open.spotify.com/artist/03M7YDjHSUmCM65RiX03AZ) | [عراقي مسرع \- شلون تنسى العشره \| مطلوب اكثر شي](https://open.spotify.com/album/3X1BpDgFmUZxEgNeDiw8Al) | 2:58 | 2023-12-22 |  |
+| [عراقي مسرع \- ماعوفك حبيبي \| مطلوب اكثر شي](https://open.spotify.com/track/0RT8yBpxa19LamyV9xxT7x) | [M6](https://open.spotify.com/artist/03M7YDjHSUmCM65RiX03AZ) | [عراقي مسرع \- ماعوفك حبيبي \| مطلوب اكثر شي](https://open.spotify.com/album/0ovdnuqmG6K8rjf3d7p8Ia) | 3:47 | 2024-01-07 |  |
 | [عراقي مسرع \- ملينا غربه \| مطلوب اكثر شي](https://open.spotify.com/track/6FYCK8SWAFI7YOE5vc1ivG) | [M6](https://open.spotify.com/artist/03M7YDjHSUmCM65RiX03AZ) | [عراقي مسرع \- ملينا غربه \| مطلوب اكثر شي](https://open.spotify.com/album/5tIqzA7Wn2iCMIz23E99Ks) | 4:13 | 2023-11-18 |  |
 | [عراقي مطلوب \| تدري بالفرقة حبيبي ، نسخة مميزة مكس شعر](https://open.spotify.com/track/4agq4MuRkkehSvpvKkDwAw) | [SRAG FM](https://open.spotify.com/artist/6ABl2w57Uy3xxIb7XOXycd) | [عراقي مطلوب \| تدري بالفرقة حبيبي ، نسخة مميزة مكس شعر](https://open.spotify.com/album/5M2qgqzF7tNe746dM1eAkB) | 2:37 | 2023-09-12 | 2023-09-23 |
 | [عشرة الكذاب](https://open.spotify.com/track/6X71TVbV0PJEb6G7wxU9GF) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH), [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [عشرة الكذاب](https://open.spotify.com/album/2nUuEtumNldylIuMS4bo47) | 3:17 | 2021-03-27\* | 2021-08-25 |

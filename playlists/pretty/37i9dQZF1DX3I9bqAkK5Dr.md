@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Jammers
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,590 likes - 76 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,598 likes - 76 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 10 | [Prementhundo Gundellona](https://open.spotify.com/track/6cbwIQH2hhj4oKuF7YCInf) | [Uday Kiran UK](https://open.spotify.com/artist/6bMQApJJQkMAARbNqYu34i) | [Prementhundo Gundellona](https://open.spotify.com/album/7KKA0THUOflYVBCBuj6hQX) | 3:53 |
 | 11 | [Kashmir](https://open.spotify.com/track/2oXo8C2elci0xz1eDRGeIM) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Sreerama Chandra](https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Kashmir](https://open.spotify.com/album/2PDtBFPJANXt9YROF2As1g) | 6:33 |
 | 12 | [Godavari](https://open.spotify.com/track/7EmSbTmg17FhujgxefuPBa) | [Arjun Vijay](https://open.spotify.com/artist/148MlefZjMglgC4ni3EBpB) | [Godavari](https://open.spotify.com/album/2J4cu3KzM51Te8P8uTcFAC) | 3:07 |
-| 13 | [Innallu](https://open.spotify.com/track/3exJ2FyuDRzTmazw8YCaDK) | [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY), [Brinda Ch](https://open.spotify.com/artist/035vaODl6w8VhNWMa6CT7E) | [Innallu](https://open.spotify.com/album/0xEZk7IZUdqEP0rWkMW0EP) | 4:20 |
+| 13 | [Innallu](https://open.spotify.com/track/0GuMZb62U3tZ0SCHkrzL84) | [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY), [Brinda Ch](https://open.spotify.com/artist/035vaODl6w8VhNWMa6CT7E) | [Innallu](https://open.spotify.com/album/6QsGIqhILxrugCXeoz34Ew) | 4:20 |
 | 14 | [Premalekha](https://open.spotify.com/track/5Vwh2Q1i7rgCOPlINMI4Ju) | [Damini Bhatla](https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q) | [Premalekha](https://open.spotify.com/album/3OO5kpArurrmesBm3lWx3u) | 4:09 |
 | 15 | [Poovanti Andham](https://open.spotify.com/track/012VlQmlFXaSFhiAtzVZCW) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6), [Vijaya Chandra](https://open.spotify.com/artist/4lQmxDaI0u0L1qlor7O2oC), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Poovanti Andham](https://open.spotify.com/album/5V1m9SYh8IiBJIO2qdAzI1) | 3:32 |
 | 16 | [Ole Ole](https://open.spotify.com/track/44wZfxFJ6CbTavqxdbbHxz) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Pavani Vasa](https://open.spotify.com/artist/1D0MDMO4NBt3Fk2T3tCzbS) | [Ole Ole](https://open.spotify.com/album/3NeFI900xOcCuuYjxKr5xr) | 5:31 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 75 | [Oggesi Ponadhe Nanu Oggesi Ponadhe](https://open.spotify.com/track/29uZ19VV4GQyS8mKdyavOf) | [Sunny Austin](https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA), [RAM](https://open.spotify.com/artist/4wxme1noavrvUnP6Is0ajq), [Chinna Swamy](https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS) | [Layilo](https://open.spotify.com/album/4xy4FT93ivcqANeyvZxEuh) | 3:13 |
 | 76 | [Neeve](https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Neeve](https://open.spotify.com/album/2m9VqOtsGbywuyl4QXp32V) | 5:07 |
 
-Snapshot ID: `MCxkZmRjMTNlZTA5MmQxMTBjZGMzZWI5NjgwNDMzZTAyYmI2YmUxNTEy`
+Snapshot ID: `MCxiNGVmYWRmZjI0ZTI5NDAwY2QxNGQyNGMyNDkzZGMyM2U3OWRkODY5`

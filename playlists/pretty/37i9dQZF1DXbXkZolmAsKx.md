@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 
 > The best Ambient tracks from 2010 to 2019.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,977 likes - 100 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,004 likes - 100 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,13 +86,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 | 76 | [Wound](https://open.spotify.com/track/34kYtNP4JkeMHiNFi5OkTe) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Xen](https://open.spotify.com/album/3YFXY89VYYOuLWd6PqLhFe) | 2:09 |
 | 77 | [Bridgets' Theme](https://open.spotify.com/track/6HGhLPXLTHFzf73j6skkys) | [Adam Wiltzie](https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs) | [American Woman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7AH6mWK8xurDA3D16PJIn1) | 2:14 |
 | 78 | [An Evening With Dusty](https://open.spotify.com/track/0TKO2jKgBCvPB5EIQ2kuvx) | [Kyle Bobby Dunn](https://open.spotify.com/artist/5103fOYzuAKogazW0lXwLl) | [Bring Me The Head of Kyle Bobby Dunn](https://open.spotify.com/album/1Ovkskq7I0XH0ULWKh8fph) | 8:09 |
-| 79 | [The Endless Battle of the Maudlin Ballade, Pt\. 2](https://open.spotify.com/track/7vVIKytsOPqqs7rlxTrSGR) | [Adam Wiltzie](https://open.spotify.com/artist/2PwdBOFbF3XvIkxVwT719J) | [Travels in Constants Volume 24](https://open.spotify.com/album/5MoraJgA2tdIqILJ7yM3TA) | 3:24 |
-| 80 | [Ogives / Redistributed](https://open.spotify.com/track/1W7ZT84ehANv5CZNJ1GHY6) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Curious Things](https://open.spotify.com/album/2Kq9ej2SCW6z0lt9Yyx8uF) | 5:28 |
+| 79 | [Ogives / Redistributed](https://open.spotify.com/track/1W7ZT84ehANv5CZNJ1GHY6) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Curious Things](https://open.spotify.com/album/2Kq9ej2SCW6z0lt9Yyx8uF) | 5:28 |
+| 80 | [The Endless Battle of the Maudlin Ballade, Pt\. 2](https://open.spotify.com/track/7vVIKytsOPqqs7rlxTrSGR) | [Adam Wiltzie](https://open.spotify.com/artist/2PwdBOFbF3XvIkxVwT719J) | [Travels in Constants Volume 24](https://open.spotify.com/album/5MoraJgA2tdIqILJ7yM3TA) | 3:24 |
 | 81 | [Without Motion \- Leandro Fresco Remix](https://open.spotify.com/track/4i2ihtWmnw8ixJePZEVuzY) | [The Sight Below](https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY), [Leandro Fresco](https://open.spotify.com/artist/0gJgTQEVl62dN80lQbOBK5) | [Glider 10: Reworks](https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF) | 7:44 |
 | 82 | [Two Different People](https://open.spotify.com/track/2pujZjrKfMS9clMZi5GqLt) | [Mark McGuire](https://open.spotify.com/artist/2w7aH9RfRWfODKlj0WI8By) | [Living With Yourself](https://open.spotify.com/album/0AT7IX2DuUhYyAaHDtNzWx) | 3:22 |
 | 83 | [Diminishing Emotion](https://open.spotify.com/track/1XU6OAnMHZAAAZFK07bzOy) | [Leyland Kirby](https://open.spotify.com/artist/2xr5chbaC1VNbzqOlCYgyC) | [Breaks My Heart Each Time](https://open.spotify.com/album/6AlfR4AlrcVfhK5iqRPgm3) | 9:18 |
-| 84 | [The Last of Our Time Together](https://open.spotify.com/track/5HF71OzFDpRC7hNzZdyIhB) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [The Last of Our Time Together](https://open.spotify.com/album/3AyLgph2cuxoHXY2WndeQc) | 16:02 |
-| 85 | [Imprint \(Bonus Track\)](https://open.spotify.com/track/5Uze3DWsfe4DWEIe2KQqBN) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG) | [Reassemblage](https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK) | 6:13 |
+| 84 | [Imprint \(Bonus Track\)](https://open.spotify.com/track/5Uze3DWsfe4DWEIe2KQqBN) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG) | [Reassemblage](https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK) | 6:13 |
+| 85 | [The Last of Our Time Together](https://open.spotify.com/track/5HF71OzFDpRC7hNzZdyIhB) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [The Last of Our Time Together](https://open.spotify.com/album/3AyLgph2cuxoHXY2WndeQc) | 16:02 |
 | 86 | [AAE\-KZT](https://open.spotify.com/track/6kHS5vk5QLUlxy2qbCMlop) | [Pendant](https://open.spotify.com/artist/3Dwfw1WTW4TyJJim9hblas) | [Make Me Know You Sweet](https://open.spotify.com/album/4cq8lOA5PvprvOw8xpLEFI) | 7:25 |
 | 87 | [Second Lens](https://open.spotify.com/track/6jbq7JCBAnTyYQqFzeneXC) | [Ian William Craig](https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q) | [A Turn of Breath \- Extended](https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ) | 3:25 |
 | 88 | [This Is Not My City](https://open.spotify.com/track/2992b6Uyw7LjfYyV2gvaFB) | [Dirty Beaches](https://open.spotify.com/artist/7JRs0G0kHZTBs0Lo7qOjL8) | [Drifters / Love Is the Devil](https://open.spotify.com/album/0eKBCl5Qo6ds8hIrY5M6Dl) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 | 99 | [Shimmer](https://open.spotify.com/track/21UX5D3VofmRHPcU2id5k9) | [The Sight Below](https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY) | [It All Falls Apart](https://open.spotify.com/album/72ulSF7sPtSsSelZ7nX9Bg) | 6:14 |
 | 100 | [Gentle Flight](https://open.spotify.com/track/71LrMApAHFrst0uRGnp01X) | [White Rainbow](https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq) | [21 Exoticism ESCAP](https://open.spotify.com/album/0ZdjiLjmm4hJyJHsfPyt4h) | 3:17 |
 
-Snapshot ID: `MCw5Y2YzYmVhNTQ5M2JlNWQyOWVkNTBmZDQ4MGU0N2RjODE2MzdlNDhl`
+Snapshot ID: `MCwwNDY3ZWM3ZjVhOTFkZTFhZDQwNGU3NzE0NDFlZjQ3YmE2YWVkYjRh`

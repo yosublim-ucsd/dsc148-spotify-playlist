@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,177 likes - 101 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,173 likes - 101 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 35 | [Manasare](https://open.spotify.com/track/60aAnSSyv8rhIrWcKN8koO) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [Harsha Abbigeri](https://open.spotify.com/artist/6VFxe1u8QcCAF5v7sQyQDr), [Amogh Malakannavar](https://open.spotify.com/artist/2ph9qktlhQK9jdfITK80V8) | [Manasare](https://open.spotify.com/album/6sy8h66IUpgLndkwXZROK1) | 2:46 |
 | 36 | [Na Ninne Preetisuve](https://open.spotify.com/track/2jZEAPVKRtj6w2dVFOktNL) | [Anita Iyer](https://open.spotify.com/artist/5PeZkX7HUpSAYNso5kCoZM) | [Na Ninne Preetisuve](https://open.spotify.com/album/552c1JPywGTBqa2l2xTysZ) | 3:40 |
 | 37 | [Kelilli](https://open.spotify.com/track/7oVFj9kWbTuHbNafpcLqbi) | [Gubbi](https://open.spotify.com/artist/3ZtRLTIQL8fGSq693vooH3), [John On The Beat](https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS) | [Kelilli](https://open.spotify.com/album/0Tzvd8xmI0kKZPwIIedKHM) | 2:22 |
-| 38 | [BREAK](https://open.spotify.com/track/1hWHspRRb3R4NY3gl5Fgyj) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [BREAK](https://open.spotify.com/album/2Qe4fZTViRXEZ6f8gCLiog) | 3:04 |
+| 38 | [BREAK](https://open.spotify.com/track/21bX2IavqQcwcJ0NreC79A) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [BREAK](https://open.spotify.com/album/0kNsdsPVpauI9l24ThQRyP) | 3:04 |
 | 39 | [Ready \(Kannada\)](https://open.spotify.com/track/14zs6XjzSjwq0n7hriMaiO) | [Drusti](https://open.spotify.com/artist/3cHpejJPT84dzssv89n0s7), [Kiran Bangera](https://open.spotify.com/artist/2LrYMr4C9gYroHRoyQQ6CY), [Viggu](https://open.spotify.com/artist/1SDkJl8i6RxJw0l7EHQvB7) | [Ready \(Kannada\)](https://open.spotify.com/album/2NkcrgFx5vDRtuTbOBovMW) | 1:56 |
 | 40 | [Nannale Iruve](https://open.spotify.com/track/2y2IxFZjCEyKJeKDMDZ5d8) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Gagan SD](https://open.spotify.com/artist/56G6hPOGCql9tJB6DnuwuP), [Deepika S](https://open.spotify.com/artist/6QKndRubze318lol0g2M3L) | [Nannale Iruve](https://open.spotify.com/album/38wnSGbfXGc4hN7FAjogoG) | 3:21 |
 | 41 | [Janani](https://open.spotify.com/track/43HXpdT5E0z4erGPkQYxuV) | [Ashwin Mandoth](https://open.spotify.com/artist/5SVLRs2bcPJCzjU3r6Vl1w), [Vignesh Shankar](https://open.spotify.com/artist/3L8oIMXUCC47w7tvXHezdP), [Sunidhi Ganesh](https://open.spotify.com/artist/3PPHt5iBZRfDNbiy6saH7K), [Rajath Hegde](https://open.spotify.com/artist/4vNkAvYtFhyUwSftoj41bu) | [Janani](https://open.spotify.com/album/53a5pHNdp4p0FvCJvLjGgh) | 3:40 |
 | 42 | [Saviyada](https://open.spotify.com/track/7H8zRoRXxz0syKMxrLTLl7) | [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr), [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ) | [Saviyada](https://open.spotify.com/album/64pKI9E3rbwBsdeVIZ4NCr) | 2:32 |
 | 43 | [Manaseega Birukagidhe](https://open.spotify.com/track/7CAbO29cTqanGs20E0PTDn) | [Manasa Holla](https://open.spotify.com/artist/1y81jcpvokCJQXfGs8HWTL), [Praveen Prakash](https://open.spotify.com/artist/4UYvfZwAu9dM6AArdY9C6z), [Raghav Aio](https://open.spotify.com/artist/6eP56zC6A37cj4kwL64QDO) | [Manaseega Birukagidhe](https://open.spotify.com/album/2PwFQISQAug99Eh7fizHMX) | 3:59 |
-| 44 | [Nanna Jeevana](https://open.spotify.com/track/4YZEX2H5wzXWjlCRiRMk5E) | [SK Parth](https://open.spotify.com/artist/1vgT333wFWG7yn99UqFMJl), [Prasanna Bhojashettar](https://open.spotify.com/artist/6d913SnOMtIZnOxh9IiURJ) | [Nanna Jeevana](https://open.spotify.com/album/2sWSghuM3hzWwRFYdK0naK) | 2:16 |
+| 44 | [Nanna Jeevana](https://open.spotify.com/track/6QkP19yo5LfvFCCzWsCuHK) | [SK Parth](https://open.spotify.com/artist/1vgT333wFWG7yn99UqFMJl), [Prasanna Bhojashettar](https://open.spotify.com/artist/6d913SnOMtIZnOxh9IiURJ) | [Nanna Jeevana](https://open.spotify.com/album/56T8Ejzjwc4fD8stpVnofS) | 2:16 |
 | 45 | [Chaa](https://open.spotify.com/track/1MGXOBkxHXJACP6zm16kf2) | [D Rapper](https://open.spotify.com/artist/1mjEVPmi3GcUKWbd34zx4E) | [Chaa](https://open.spotify.com/album/3fNlWxPWdY8mzxgzXlLkNm) | 3:21 |
 | 46 | [Arere](https://open.spotify.com/track/5e7ESBZeOLQCbqtvWaS7Y2) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Arere](https://open.spotify.com/album/6s8OIlhZixQ2D9IsZUBrRm) | 3:58 |
 | 47 | [Usira Olage](https://open.spotify.com/track/5sgu4p23JIf0GGubV1SF5h) | [SK Parth](https://open.spotify.com/artist/1vgT333wFWG7yn99UqFMJl) | [Usira Olage](https://open.spotify.com/album/7MzS8W7gL0OROf7Gqw4j6N) | 1:27 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 100 | [Ninna Nodade](https://open.spotify.com/track/31fsnh7dvxBu8UFxKsKeuB) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Asher Mendonca](https://open.spotify.com/artist/7vT1RnB74vnPFxhjnPC4Rr) | [Ninna Nodade](https://open.spotify.com/album/3SBnWJqW6Uao7ANAFeBCDa) | 3:41 |
 | 101 | [Don't Worry 2](https://open.spotify.com/track/6RN5sglfTOy9rPZUvH2tnR) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Don't Worry 2](https://open.spotify.com/album/3YKpYn2iDXF3oXNBGNN8DI) | 3:43 |
 
-Snapshot ID: `MCw5NTdlOTg5Y2M0YTMzZWMyNTAwZDZjMDg0MGU5YjUwZDM3Nzc4YjI2`
+Snapshot ID: `MCxjNDVkMWJkNzczZmEwYzM5YmE0Yjk0ZmFkZjg0ZTBlODBiYWZmMDYz`

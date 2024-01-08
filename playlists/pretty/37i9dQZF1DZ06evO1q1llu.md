@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q1llu.md) - [plain]
 
 > This is The Kid LAROI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,510 likes - 33 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,558 likes - 33 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q1llu.md) - [plain]
 | 32 | [Paris to Tokyo](https://open.spotify.com/track/5QvW5lK6mkfTegpAK9JOO7) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Paris to Tokyo](https://open.spotify.com/album/5BXl6r5L4zXQufLQjgkU6U) | 2:10 |
 | 33 | [My City](https://open.spotify.com/track/3tztEuVtZwuThHSwd05ELq) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Against All Odds](https://open.spotify.com/album/1K6brOI0kyWs9J1doi9D4q) | 2:51 |
 
-Snapshot ID: `Mjg0MDkwNTYsMDAwMDAwMDA1OTcxNGVmNzVkYmI5YjEzNmY0YzE5Mjg4MmJkYjQxMQ==`
+Snapshot ID: `Mjg0MTA0NDksMDAwMDAwMDAxNWU4MjYwM2M3YTNhZmY2OGMzYTUwMzI4YWM4N2I3YQ==`

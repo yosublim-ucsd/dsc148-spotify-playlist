@@ -1,12 +1,12 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 349707,
+  "num_followers": 349681,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTlkNTUyMjJlZWMzYmY4Zjk3NGU0ZTk0MjMzMjUzMTI5MTAxN2Q5",
+  "snapshot_id": "MCwyNTA4ZjJjNzAwZTg2MDdlNDRhYjI5MmRlY2VjN2Q2MTdjMzFiMzJj",
   "tracks": [
     {
       "added_at": "2023-11-17 17:02:42",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-11-17 17:02:42",
       "album": {
-        "name": "Thrill Of It All",
-        "url": "https://open.spotify.com/album/23tZRrcxog6733FrjhknAi"
-      },
-      "artists": [
-        {
-          "name": "Berre",
-          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
-        }
-      ],
-      "duration_ms": 203603,
-      "name": "Thrill Of It All",
-      "url": "https://open.spotify.com/track/6zhUZJlmcIILe4jBNQKCTh"
-    },
-    {
-      "added_at": "2023-11-17 17:02:42",
-      "album": {
         "name": "Kreise",
         "url": "https://open.spotify.com/album/7EJ7tw1jSJdW2C0enoLQXS"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 221533,
       "name": "Kreise",
       "url": "https://open.spotify.com/track/1ocmRsEMI6nO9d9BdQbXNI"
+    },
+    {
+      "added_at": "2023-11-17 17:02:42",
+      "album": {
+        "name": "Thrill Of It All",
+        "url": "https://open.spotify.com/album/23tZRrcxog6733FrjhknAi"
+      },
+      "artists": [
+        {
+          "name": "Berre",
+          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
+        }
+      ],
+      "duration_ms": 203603,
+      "name": "Thrill Of It All",
+      "url": "https://open.spotify.com/track/6zhUZJlmcIILe4jBNQKCTh"
     },
     {
       "added_at": "2023-11-17 17:02:42",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-11-17 17:02:42",
       "album": {
-        "name": "Psycho",
-        "url": "https://open.spotify.com/album/5UBAspHjoGNtNAvHAf5aSI"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 184640,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/6YZwJSMNL7hB4ItxZtn7jx"
-    },
-    {
-      "added_at": "2023-11-17 17:02:42",
-      "album": {
         "name": "Sweethoneylove",
         "url": "https://open.spotify.com/album/79HdCrzbPStOTw648gYTuQ"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 150540,
       "name": "Sweethoneylove",
       "url": "https://open.spotify.com/track/7b2POkPyH8bNtbb4I66Nrt"
+    },
+    {
+      "added_at": "2023-11-17 17:02:42",
+      "album": {
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/5UBAspHjoGNtNAvHAf5aSI"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 184640,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/6YZwJSMNL7hB4ItxZtn7jx"
     },
     {
       "added_at": "2023-11-17 17:02:42",

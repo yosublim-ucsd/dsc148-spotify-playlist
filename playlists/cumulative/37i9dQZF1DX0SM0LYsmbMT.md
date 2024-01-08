@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,939 songs - 6 day 6 hr 38 min
+3,940 songs - 6 day 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -682,6 +682,7 @@
 | [Coffee Shop](https://open.spotify.com/track/2nc2Sd3bh28jmFyXw5c3zm) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl) | [Coffee Shop](https://open.spotify.com/album/4QbdmWR49SVAOrgapcCd1E) | 2:13 | 2019-06-19 | 2019-11-28 |
 | [Coffeemaker](https://open.spotify.com/track/3Lz53wcrXWj1jnjHkWYEL7) | [Mr Mantega](https://open.spotify.com/artist/367E3x81QkJ0luGzpk8pqj) | [Coffeemaker](https://open.spotify.com/album/538Ebf78KGFKdeCqF8tTni) | 2:40 | 2021-09-10 | 2022-12-24 |
 | [Cohibas](https://open.spotify.com/track/56yJ6yhbaPSe9SwTgwi3Go) | [Slowdown](https://open.spotify.com/artist/6qMZqcd02lR7PB8Np47OSF) | [Cohibas](https://open.spotify.com/album/0HXc2high8QHZwiD9sC9k8) | 1:51 | 2023-11-23 |  |
+| [cold breeze](https://open.spotify.com/track/6O6o3hG75LEQoRQWfDvl6o) | [wüsh](https://open.spotify.com/artist/4UpdjtYWiLUuaFT18TefcK) | [cold breeze](https://open.spotify.com/album/1cvhXUu8wcbq9QP1z8qiwc) | 1:48 | 2024-01-04 |  |
 | [Cold Nights](https://open.spotify.com/track/3OvLr2JwJIBYQ5OMP0eCGH) | [Dj Fki](https://open.spotify.com/artist/2RKiHUTppf6KaG2FVSBQrN), [Kevoe West](https://open.spotify.com/artist/6Va1VmR8BklpY5M7UBlhqU), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Cold Nights](https://open.spotify.com/album/2LZItmapnpVRYTQ77S2oDA) | 2:24 | 2023-11-16 | 2023-12-02 |
 | [Cold Outside](https://open.spotify.com/track/5MnNq7lsCNklRGHTCuAIwr) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [Cold Outside](https://open.spotify.com/album/0TYCoOOIwxTFUxrJv5EAIn) | 2:12 | 2021-12-04 | 2022-01-14 |
 | [Colibri](https://open.spotify.com/track/6n4EhNIGCPezSOH0mjHNus) | [Aebleo](https://open.spotify.com/artist/0GKYxvZzuFPYIVARmbipyR), [Dezl](https://open.spotify.com/artist/0Rrqv6SWqD5cYgOOSBjwGc) | [Colibri](https://open.spotify.com/album/49a3Ub9hyavxe3ms7a8xxb) | 1:51 | 2020-03-18 | 2020-06-05 |
@@ -2998,7 +2999,7 @@
 | [Sitting in the Park with Her](https://open.spotify.com/track/12S2nJ3gOQCqeupjirQzxf) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Sitting in the Park with Her](https://open.spotify.com/album/0VgTS5ULWKGvVfRAA9MKkq) | 2:15 | 2023-10-19 |  |
 | [Sixsteps On The Rooftop](https://open.spotify.com/track/069s6ALDvl8NhI6557jzOU) | [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Sixsteps On The Rooftop](https://open.spotify.com/album/7BHKHWwz402KmLViGCPrO5) | 2:47 | 2023-01-20 | 2023-02-17 |
 | [Sizedrum](https://open.spotify.com/track/3nuSxBQUTn7nidezkdcBf4) | [Leyze](https://open.spotify.com/artist/1qlTDCLkb8uV3TG7I8aLdo) | [Amnesie](https://open.spotify.com/album/3ud7MR6RnLOms34crGFRkl) | 2:56 | 2020-01-15 | 2020-05-01 |
-| [Skipping Stones](https://open.spotify.com/track/1IJOtn16CnU7N0N1nW60eX) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Skipping Stones](https://open.spotify.com/album/3k7BkPL1eVzVeB2jyip1eg) | 1:26 | 2024-01-04 |  |
+| [Skipping Stones](https://open.spotify.com/track/1IJOtn16CnU7N0N1nW60eX) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Skipping Stones](https://open.spotify.com/album/3k7BkPL1eVzVeB2jyip1eg) | 1:26 | 2024-01-04 | 2024-01-08 |
 | [Skittles](https://open.spotify.com/track/7msQzqb8unxrhXqlwDmg1R) | [Hank Doobie](https://open.spotify.com/artist/2sndt7cXfYKuGjy3OIhZDA) | [Skittles](https://open.spotify.com/album/2hZFApT95SLW7P38RZnrwP) | 2:25 | 2020-12-11 | 2021-01-04 |
 | [Sky](https://open.spotify.com/track/5HuUjzTXtWxC7lXoaqcBfK) | [Hast](https://open.spotify.com/artist/39Rgp6INOAzKOgYNdAZpir), [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Sky](https://open.spotify.com/album/1yid5ZYBA1fQlRLBwjMVPx) | 2:13 | 2020-11-20 | 2021-05-28 |
 | [Sky Blu](https://open.spotify.com/track/2skgNWOQzfjctYXN7mQbch) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR) | [Sky Blu](https://open.spotify.com/album/7hX1bDSO6HdzBP1WxpZLEI) | 2:20 | 2021-10-29 | 2022-08-25 |

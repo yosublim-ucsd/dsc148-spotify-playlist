@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: SPRINTS
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,089 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,106 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 56 | [Basement](https://open.spotify.com/track/2acM5LqZRO1Tsv2PFKOXKy) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Basement](https://open.spotify.com/album/0hWOLHDlMwS0hDhf1ITHVz) | 3:24 |
 | 57 | [UNFRIENDING IS TRENDING](https://open.spotify.com/track/5uOJP46LOwp2YEAqCzqoKH) | [Sego](https://open.spotify.com/artist/0GtuGhnsCPahfLCAFg27gj) | [UNFRIENDING IS TRENDING](https://open.spotify.com/album/4W48fjeVb6UkayPVOG3KcR) | 2:47 |
 | 58 | [Mere Slaughter](https://open.spotify.com/track/24nEK3eH0VQ6Crlzs3FOY9) | [Mutes](https://open.spotify.com/artist/52mqrsNlDf6CVhB6XJ6LHf) | [Mere Slaughter](https://open.spotify.com/album/3anxp3HAUWpXwwKcUBOCBX) | 3:04 |
-| 59 | [Shadow of a Doubt](https://open.spotify.com/track/7gZkRQE9DKe0cylMs9szc5) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Shadow of a Doubt](https://open.spotify.com/album/724kt4OSnlasKT95uIfzfk) | 4:10 |
+| 59 | [Shadow of a Doubt](https://open.spotify.com/track/1ztIebjhmfFdYPhH4m6ORE) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 4:10 |
 | 60 | [Oaklands Finest Glass Beaches](https://open.spotify.com/track/7npNvZnmP6lmVH0TcVJuRC) | [The Seafloor Cinema](https://open.spotify.com/artist/39a4hGdTS669oJBra6j9Ru) | [Oaklands Finest Glass Beaches](https://open.spotify.com/album/6R88hYGnHoU0jzGwAtJZtq) | 3:39 |
 | 61 | [Tornillo](https://open.spotify.com/track/1mj4y7NHlTq6YfTZOeNqOx) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Tornillo](https://open.spotify.com/album/6MSMis63C7wWLVSSmSl92b) | 1:33 |
 | 62 | [april's](https://open.spotify.com/track/2GPtEQJmB9Ipn9gQVhKI4k) | [BESTIES](https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj) | [something4now](https://open.spotify.com/album/5gJWaMnvdKsuDYUWPEDpgj) | 3:23 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 84 | [she's a vampire](https://open.spotify.com/track/0mKgF83Y31cJKwPc13o5nR) | [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry) | [nosebleeder](https://open.spotify.com/album/6QTMfsAhVVDhxEZ5hA8nO3) | 3:09 |
 | 85 | [CBD](https://open.spotify.com/track/5J7ftbuLUi35CDW29GHaxn) | [This Modern](https://open.spotify.com/artist/483EUi5pUJ5MDXow158yT7) | [CBD](https://open.spotify.com/album/49J55fxrJnV1GOHilhxgZn) | 2:46 |
 | 86 | [Forgot To Grow](https://open.spotify.com/track/6paoS9bgvq5NQVrljedfFm) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Forgot To Grow](https://open.spotify.com/album/0QP79EOlImpXgzioV8GdeX) | 3:12 |
-| 87 | [He's A Man](https://open.spotify.com/track/0XwS7lGdF8Ax41IIhnzuBh) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [He's A Man](https://open.spotify.com/album/2N6rm4h0A4I8nfh7q218bN) | 2:38 |
+| 87 | [He's A Man](https://open.spotify.com/track/6KnGDkcs7vV2ufNCIaQEXx) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Hunger Games](https://open.spotify.com/album/2dW75BMldIC4ObSSAeawgC) | 2:38 |
 | 88 | [WW4 \- Live in Brooklyn \| 2023](https://open.spotify.com/track/4mDzdEzdjLdXyB7Tcj2rUa) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Live & Loose In The USA](https://open.spotify.com/album/3u6NpAc0eBfKW4QBaCJ0Tg) | 4:24 |
 | 89 | [Tear It Out](https://open.spotify.com/track/7ts5b5gzRHYXBXlqTtzbW1) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Join The Club \(Extended Edition\)](https://open.spotify.com/album/4JmCCArAzyzFg3fhNQu0Cl) | 3:04 |
 | 90 | [TERFs Out](https://open.spotify.com/track/3gHdnDdJDo3HvkARQo8SqC) | [Problem Patterns](https://open.spotify.com/artist/4u5UG0TxXroCBnpgBruPOP) | [Blouse Club](https://open.spotify.com/album/219nLTHtXTthAS6XPsbfbt) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Blood, Hair, And Eyeballs](https://open.spotify.com/track/6dYtCV39bCt10NMfzgOdtA) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Blood, Hair, And Eyeballs](https://open.spotify.com/album/5oXZKwnlG0mYFrjKYzYf92) | 3:00 |
 | 100 | [You & I](https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Losing What We Love](https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI) | 3:34 |
 
-Snapshot ID: `MCxmODVlY2FkZDVmMzUyZTBkMTU2MTI0NTZjMDU5YjczNTg0ZDk5NGU2`
+Snapshot ID: `MCw4ZDZiYjQ2ZDJhOTQ4NGY1ZTVkOWUyYjI5NzRiNzEzZjg1MGQ0OTVi`

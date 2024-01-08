@@ -4,7 +4,7 @@
 
 > The top 50 tracks from Fresh Finds Jazz in 2023\. Cover: Cisco Swank\. Artwork: Joy Yamusangie
 
-1,306 songs - 4 day 7 hr 7 min
+1,307 songs - 4 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -982,7 +982,8 @@
 | [Something Over Nothing](https://open.spotify.com/track/51sP9J4HvAAGeFvJA9518Z) | [ILLAJOY](https://open.spotify.com/artist/3BJiuXnkcmBxcLYfEiCGjj) | [Something Over Nothing](https://open.spotify.com/album/3vqrSwAIb9U6c8Wxc98anH) | 3:49 | 2022-07-20 | 2023-01-12 |
 | [Song for Athena](https://open.spotify.com/track/4VLVGYR03k8B7jOhm6A8Xr) | [Juan Ortiz](https://open.spotify.com/artist/72wv4vWevdN2V78wvxj44U), [Gene Jackson](https://open.spotify.com/artist/6vmvNKIhsms4fxFD8YfQG8), [Hiroshi Takase](https://open.spotify.com/artist/5wdKbfjSsOpldsBV3GBg9H) | [Brighter Days](https://open.spotify.com/album/6QFy0zMnOL1Y5oacJYP2RE) | 5:05 | 2022-06-08 | 2022-07-07 |
 | [Sonny's Blues](https://open.spotify.com/track/6DeivqtkyKJbZR71GV6pvH) | [Anthony Fung](https://open.spotify.com/artist/4NfvvB32qp3QEnzwXUM96W), [Marcel camargo](https://open.spotify.com/artist/5OElU1lLzZOUWMZ5d8z75w), [David Binney](https://open.spotify.com/artist/35fZivtiaWTLzphTDaWnrf) | [What Does it Mean to be Free?](https://open.spotify.com/album/6qFrQ3lMRdKrBwvcIKQQCX) | 8:29 | 2022-05-11 | 2022-06-08 |
-| [Soon We'll Make It](https://open.spotify.com/track/1aVJfYAryZWDqwa6IOiHzE) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [Soon We'll Make It](https://open.spotify.com/album/0GwFm5QbuwAyc7Ag20lzhL) | 2:19 | 2023-08-23 |  |
+| [Soon We'll Make It](https://open.spotify.com/track/1aVJfYAryZWDqwa6IOiHzE) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [Soon We'll Make It](https://open.spotify.com/album/0GwFm5QbuwAyc7Ag20lzhL) | 2:19 | 2023-08-23 | 2024-01-08 |
+| [Soon We'll Make It](https://open.spotify.com/track/2QA97SRId1uFVmiJljRkHH) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [More Better](https://open.spotify.com/album/4rsrAAeWRTA0FZqJ9eWS3A) | 2:19 | 2023-08-23 |  |
 | [Sorrento](https://open.spotify.com/track/3ywq0VNobKKmLmt0TwbXBp) | [Eduardo Mercuri](https://open.spotify.com/artist/4vuORR14FDVafkkPSy83ax) | [Tales from Brooklyn, Vol\. 1](https://open.spotify.com/album/0puWUroEcZa1GPEzzp2zcU) | 4:33 | 2022-04-06 | 2022-05-05 |
 | [Soulful](https://open.spotify.com/track/4uuF07XqmSTTrpmHEfkYSc) | [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC) | [Soulful](https://open.spotify.com/album/5ZPmWiHGNH6yU0jdD1LUAU) | 4:58 | 2022-05-04 | 2022-06-01 |
 | [Source Code](https://open.spotify.com/track/0JwfDsnA7d0THz2utlzMkF) | [Russell Favret](https://open.spotify.com/artist/0P8IOpX9JI9jXTRIMzmK0s) | [Source Code](https://open.spotify.com/album/1KjdLedS8b0QPqSqDYHy1v) | 4:07 | 2022-06-22 | 2022-07-21 |

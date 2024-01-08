@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Mau y Ricky & Eden Muñoz
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,356 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,096 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 49 | [Solo Sonrie](https://open.spotify.com/track/0RmtRsH4qx5K75aX2yxmD8) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Solo Sonrie](https://open.spotify.com/album/2SZRdaFc3LBzmUi9O8cM6S) | 2:40 |
 | 50 | [Vida Bakana](https://open.spotify.com/track/1fGCLVsdnv9kuUrpBAj7Vg) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [Vida Bakana](https://open.spotify.com/album/3gWUdDpVvaLH1Bmof6Xdgo) | 2:51 |
 
-Snapshot ID: `MCxmYTkyNjk2MzBhZmRlZjQ0MTE2OTg3YTljOWY1NDg0YTgwMmZiMTZj`
+Snapshot ID: `MCxhNjUwZjg5MjgyZjYzOWIyYjE3ZTQ5OGMwNzM4ZmM4MDI2ODBlYTNl`

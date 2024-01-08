@@ -4,7 +4,7 @@
 
 > ディズニーの人気曲を集めた公式プレイリスト♪ディズニー映画最新作『ウィッシュ』の最新楽曲から、『リトル・マーメイド』『アナと雪の女王』『アラジン』等の名曲、パークの大人気楽曲までセレクト！
 
-163 songs - 8 hr 43 min
+164 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [Speechless \(Full\) \- Japanese Version](https://open.spotify.com/track/21BMip8RqunPokzxnkNe3A) | [Haruka Kinoshita](https://open.spotify.com/artist/1wI6Uih35T0D1OfRAph3kJ) | [Aladdin \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/6N5otzqYgkhNWVpjvezbBK) | 3:28 | 2022-12-28 |  |
 | [Starting Now](https://open.spotify.com/track/6N6Y1AdoGqw5H3lzli5DgL) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Starting Now](https://open.spotify.com/album/2kn84J3BO4wj96uMaWKAnN) | 3:24 | 2022-12-28 |  |
 | [Starting Now](https://open.spotify.com/track/7EGITWLpmKCzwZUdF5glhq) | [Miisha Shimizu](https://open.spotify.com/artist/2ITl7YzD1Hm6NVojBhKkOp) | [Starting Now](https://open.spotify.com/album/632QdkoBFjgW5XuFV29Pvt) | 3:25 | 2022-12-28 |  |
-| [Steal The Show \- From "Elemental"](https://open.spotify.com/track/6R5fYCySNHrqo4Og6O1ppn) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Steal The Show \(From "Elemental"\)](https://open.spotify.com/album/1rMI4GKDwtz8Ok0e7jbE4l) | 3:11 | 2023-07-14 |  |
+| [Steal The Show](https://open.spotify.com/track/0SccFtYdj75y6lL2OW10Cf) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Elemental \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7L15PXtti3kXEn7vTXi8ZV) | 3:12 | 2023-12-14 |  |
+| [Steal The Show \- From "Elemental"](https://open.spotify.com/track/6R5fYCySNHrqo4Og6O1ppn) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Steal The Show \(From "Elemental"\)](https://open.spotify.com/album/1rMI4GKDwtz8Ok0e7jbE4l) | 3:11 | 2023-07-14 | 2024-01-08 |
 | [Steamboat Willie](https://open.spotify.com/track/0OFx1SDlSF7BueX3xZBjG4) | [Walt Disney](https://open.spotify.com/artist/2qyTNQUXF8iFeYwTnExDch) | [Steamboat Willie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/10ahmVYvfoND25ZelOzUhB) | 7:37 | 2023-07-14 |  |
 | [Strangers Like Me](https://open.spotify.com/track/3T74kgnbHw8JqkYGJKD4Tl) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Tarzan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C) | 3:00 | 2022-12-28 |  |
 | [Supercalifragilisticexpialidocious](https://open.spotify.com/track/1O1gmfZyuoynkLyRJqU0zz) | [Miyuki Ichijyo](https://open.spotify.com/artist/6WBl1Y0o4nhUCVAD54IcdH), [Hiroshi Koitabashi](https://open.spotify.com/artist/2sPMiENq3RwuxxbCCzCNn2) | [My First Disney Original Soundtrack Best Japanese Version](https://open.spotify.com/album/0Hu1cNb4uGnujq2XqOJrBx) | 1:53 | 2022-12-28 |  |

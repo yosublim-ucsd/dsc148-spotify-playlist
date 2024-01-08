@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href="https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj?si=UC5GokWQQZObai5SqjeeTA">Sinmidele</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,173 likes - 108 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,280 likes - 108 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 107 | [I'm in Love](https://open.spotify.com/track/26Cd5eyE4jyLFhKgcZULsy) | [Jephthah Idahosa Aigbe](https://open.spotify.com/artist/6K4xWHvtn0F3eM6dnZGQeg) | [I'm in Love](https://open.spotify.com/album/35VR01xOmMuijf913ZPfIA) | 2:58 |
 | 108 | [Sacrifices](https://open.spotify.com/track/3ydFeDJhwMSWRFJFA3jsfG) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr) | [Sacrifices](https://open.spotify.com/album/05jjR9mGXTvLf2x8QYoiOq) | 3:28 |
 
-Snapshot ID: `MCw0NDVhMzZkMzA0NDYzMzI1ZDBkMWZmNTJkNjYxNjg3MTBhMjZmOGNi`
+Snapshot ID: `MCw2YmM5MjljYWQwMTE3ZDRkYzUxNzIxZjE4MTVhNWU4OGQ4OTJlZDc0`

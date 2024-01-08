@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1154323,
+  "num_followers": 1155768,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDA3NzEwZDUzMzFmNjhhZTNiZTkwZWNjZDZlOTBiNGI5NjVmM2I2",
+  "snapshot_id": "MCxmZTMzMDlkZmQ2ZTY3ZDc3NWYxNjYxYjI5ZjY3NjU4MWRmYjVhMDVh",
   "tracks": [
     {
       "added_at": "2024-01-05 17:40:54",
@@ -559,26 +559,6 @@
     {
       "added_at": "2024-01-05 17:40:54",
       "album": {
-        "name": "Memory Reboot",
-        "url": "https://open.spotify.com/album/38leU2pvDRxNx2u59BENZb"
-      },
-      "artists": [
-        {
-          "name": "V\u00d8J",
-          "url": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
-        },
-        {
-          "name": "Narvent",
-          "url": "https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7"
-        }
-      ],
-      "duration_ms": 236307,
-      "name": "Memory Reboot - Slowed",
-      "url": "https://open.spotify.com/track/7Ev52ukrs7XGyY6q6U3JUJ"
-    },
-    {
-      "added_at": "2024-01-05 17:40:54",
-      "album": {
         "name": "SMOKE IT OFF!",
         "url": "https://open.spotify.com/album/4QVkiRbkPGu3KETjFzmf99"
       },
@@ -599,18 +579,22 @@
     {
       "added_at": "2024-01-05 17:40:54",
       "album": {
-        "name": "WASTE",
-        "url": "https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql"
+        "name": "Memory Reboot",
+        "url": "https://open.spotify.com/album/38leU2pvDRxNx2u59BENZb"
       },
       "artists": [
         {
-          "name": "Kxllswxtch",
-          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
+          "name": "V\u00d8J",
+          "url": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
+        },
+        {
+          "name": "Narvent",
+          "url": "https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7"
         }
       ],
-      "duration_ms": 134000,
-      "name": "WASTE - Slowed Version",
-      "url": "https://open.spotify.com/track/4w9TJQQqKXeLMZyzmLVpRI"
+      "duration_ms": 236307,
+      "name": "Memory Reboot - Slowed",
+      "url": "https://open.spotify.com/track/7Ev52ukrs7XGyY6q6U3JUJ"
     },
     {
       "added_at": "2024-01-05 17:40:54",
@@ -627,6 +611,22 @@
       "duration_ms": 138000,
       "name": "BAIXO - slowed",
       "url": "https://open.spotify.com/track/4fQVSW5Vg8EZu0lOqzEdji"
+    },
+    {
+      "added_at": "2024-01-05 17:40:54",
+      "album": {
+        "name": "WASTE",
+        "url": "https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql"
+      },
+      "artists": [
+        {
+          "name": "Kxllswxtch",
+          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "WASTE - Slowed Version",
+      "url": "https://open.spotify.com/track/4w9TJQQqKXeLMZyzmLVpRI"
     },
     {
       "added_at": "2024-01-05 17:40:54",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-01-05 17:40:54",
       "album": {
-        "name": "Sahara (Slowed)",
-        "url": "https://open.spotify.com/album/4NMMVP429rm9L8YhUzBPMw"
-      },
-      "artists": [
-        {
-          "name": "Hensonn",
-          "url": "https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H"
-        }
-      ],
-      "duration_ms": 214894,
-      "name": "Sahara - Slowed",
-      "url": "https://open.spotify.com/track/0gzcUqFgJrqyfXdkF8xkhk"
-    },
-    {
-      "added_at": "2024-01-05 17:40:54",
-      "album": {
         "name": "The Arrival: Part I (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/6kclEkteD1qId7gRQYDNCM"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 279250,
       "name": "Renegade (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/6OoKecwAUWNb0Gybn4E5oP"
+    },
+    {
+      "added_at": "2024-01-05 17:40:54",
+      "album": {
+        "name": "Sahara (Slowed)",
+        "url": "https://open.spotify.com/album/4NMMVP429rm9L8YhUzBPMw"
+      },
+      "artists": [
+        {
+          "name": "Hensonn",
+          "url": "https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H"
+        }
+      ],
+      "duration_ms": 214894,
+      "name": "Sahara - Slowed",
+      "url": "https://open.spotify.com/track/0gzcUqFgJrqyfXdkF8xkhk"
     },
     {
       "added_at": "2024-01-05 17:40:54",

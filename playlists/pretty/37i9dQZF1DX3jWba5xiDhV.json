@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 183193,
+  "num_followers": 183384,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjIyZmZlMzRjY2IxNDhhMDc5Y2E3YTk1YTA1ZDNmZjlkN2FjZTA0",
+  "snapshot_id": "MCxlNmJlOTMyMjZhOWYwYWFlYWVjYmZhNTEwMzk0Y2Y0MDU3MzBjOTZj",
   "tracks": [
     {
       "added_at": "2023-12-13 14:54:09",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-12-13 14:54:09",
       "album": {
-        "name": "Bambina c/o Bye Bye Mi Amor",
-        "url": "https://open.spotify.com/album/1fA8zx1Var0vhNP2uqMfcb"
-      },
-      "artists": [
-        {
-          "name": "David Lyme",
-          "url": "https://open.spotify.com/artist/7dkuwtOl8Y2O2fcWy1vtV1"
-        }
-      ],
-      "duration_ms": 331200,
-      "name": "Bambina (Original 12-Inch Version)",
-      "url": "https://open.spotify.com/track/4x4Ip4xOCRGIBNsts7GUBD"
-    },
-    {
-      "added_at": "2023-12-13 14:54:09",
-      "album": {
         "name": "Dirty Talk",
         "url": "https://open.spotify.com/album/5z5xqfOezhRYRFhGvcj8TP"
       },
@@ -1291,26 +1275,38 @@
     {
       "added_at": "2023-12-13 14:54:09",
       "album": {
-        "name": "My Magic Number",
-        "url": "https://open.spotify.com/album/5zEcHInCpQTxrQH7cJrJAt"
+        "name": "Bambina c/o Bye Bye Mi Amor",
+        "url": "https://open.spotify.com/album/1fA8zx1Var0vhNP2uqMfcb"
       },
       "artists": [
         {
-          "name": "Daddy Squad",
-          "url": "https://open.spotify.com/artist/7ILhSMHJML8HVt4GBi6LGj"
-        },
-        {
-          "name": "Dita Von Teese",
-          "url": "https://open.spotify.com/artist/5p2DOkwlRuUgPuHNUp9ZKz"
-        },
-        {
-          "name": "Club Domani",
-          "url": "https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8"
+          "name": "David Lyme",
+          "url": "https://open.spotify.com/artist/7dkuwtOl8Y2O2fcWy1vtV1"
         }
       ],
-      "duration_ms": 317120,
-      "name": "My Magic Number - Club Domani Remix",
-      "url": "https://open.spotify.com/track/6cR9AbJGTvXEnwjiE8VznV"
+      "duration_ms": 331200,
+      "name": "Bambina (Original 12-Inch Version)",
+      "url": "https://open.spotify.com/track/4x4Ip4xOCRGIBNsts7GUBD"
+    },
+    {
+      "added_at": "2023-12-13 14:54:09",
+      "album": {
+        "name": "Under the Ice - Single",
+        "url": "https://open.spotify.com/album/3vMFalOaP1bCRm8HVFQOAk"
+      },
+      "artists": [
+        {
+          "name": "Topo",
+          "url": "https://open.spotify.com/artist/3atWGSgG787Lwz2HRvOsc3"
+        },
+        {
+          "name": "Roby",
+          "url": "https://open.spotify.com/artist/6GuBfLWCyZnUatyVaOQLX2"
+        }
+      ],
+      "duration_ms": 432404,
+      "name": "Under the Ice - Original 12 Inch Version",
+      "url": "https://open.spotify.com/track/2ue8ttSzbhnvhO7zc52NjC"
     }
   ],
   "unique_name": "Italo Disco",

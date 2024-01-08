@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: BabyDrill
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,200,867 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,200,388 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 51 | [Okay Bet Pt\. 2 \(feat\. Skilla Baby\)](https://open.spotify.com/track/5ULeTthsfnh8av4MiKWHga) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Okay Bet Pt\. 2 \(feat\. Skilla Baby\)](https://open.spotify.com/album/48FhsqFEXciRzwi9cGp8Gz) | 2:39 |
 | 52 | [Murder & Millions](https://open.spotify.com/track/27RWVlCet2iZlGciBETorw) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Murder & Millions](https://open.spotify.com/album/5Rkqhaapzmtrpv09cdAHWg) | 2:30 |
 | 53 | [Fighting My Demons](https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:30 |
-| 54 | [GO](https://open.spotify.com/track/5ATScHOUqLnEDCaWxWVBOX) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [GO](https://open.spotify.com/album/1dnWvaI9lrglrLG743WdYO) | 2:55 |
+| 54 | [GO](https://open.spotify.com/track/7vetMRZgH4a2Pod2VY4oac) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [It's Me, I'm The Problem](https://open.spotify.com/album/1ZcqPAtwRqeJZ2XGVPTkW4) | 2:55 |
 | 55 | [The Ones \(feat\. G Herbo\)](https://open.spotify.com/track/7yJHYOLvzz1bwhjIqqMBaJ) | [Kuttem Reese](https://open.spotify.com/artist/23vk8FQSjesEtpErniqki4), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [REESE](https://open.spotify.com/album/58gpuwuVkndeDXuWsAi6GC) | 2:50 |
 | 56 | [Tag Me In](https://open.spotify.com/track/5QQ1zEhxJ4k2zdkcHV2hoT) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Tag Me In](https://open.spotify.com/album/6Xxmm6M26fdlewgIBxRWVd) | 2:53 |
 | 57 | [TELEKINESIS \(feat\. SZA & Future\)](https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 5:53 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 79 | [Blood Moon \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1OaAlsbTJugFODycEgIDUj) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blood Moon \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/4VubFdZQLlos3I0LbB3qgt) | 2:49 |
 | 80 | [SPLASH BROTHERS](https://open.spotify.com/track/7GG5ykoATKxV9MjddEEpMz) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [SPLASH BROTHERS](https://open.spotify.com/album/0vBToFmAu9CS6c24LZSQi0) | 2:20 |
 
-Snapshot ID: `MCxjMWU4M2I5ZDlmMDlkZTdiMWJiYmNmZDU3ZTY5Mjc2ZDAxZTg1ZjJj`
+Snapshot ID: `MCxiZWJkZWVhYjZkNTdjZjcyNDE2Yjc5NjIwYTIzMWE1YmJiYzE0NTVh`

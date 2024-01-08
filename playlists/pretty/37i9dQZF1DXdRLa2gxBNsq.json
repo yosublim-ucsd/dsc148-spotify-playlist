@@ -1,12 +1,12 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Arpaviejas.",
-  "num_followers": 101998,
+  "num_followers": 101960,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzI4NjZlYTRjM2VhYWY3YmVmMDJhNmYwY2U1NTQxMTk1ZmFmYmMw",
+  "snapshot_id": "MCwwYzNhY2E2YmNkYzg4YjMwMmVlYTE4OTk5YzJjNDgyNGRhMWMxYTQ3",
   "tracks": [
     {
       "added_at": "2023-12-28 22:59:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-12-28 22:59:00",
       "album": {
-        "name": "Vulnerable",
-        "url": "https://open.spotify.com/album/7BbQMEtJZ7ut8EDjcnrGyd"
-      },
-      "artists": [
-        {
-          "name": "Los De Marras",
-          "url": "https://open.spotify.com/artist/0E1P5uNgbD11POIDxFROHh"
-        }
-      ],
-      "duration_ms": 233200,
-      "name": "As\u00ed Es la Vida",
-      "url": "https://open.spotify.com/track/2cGNb9Z0OrUjL0xcfPGPO7"
-    },
-    {
-      "added_at": "2023-12-28 22:59:00",
-      "album": {
         "name": "Demasiados Enemigos",
         "url": "https://open.spotify.com/album/06jJMaPtFcbDkuzuIeKywk"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 267038,
       "name": "Adios Reina Mia",
       "url": "https://open.spotify.com/track/52hHIF5rYiUi0AtPyvMrY2"
+    },
+    {
+      "added_at": "2023-12-28 22:59:00",
+      "album": {
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/7BbQMEtJZ7ut8EDjcnrGyd"
+      },
+      "artists": [
+        {
+          "name": "Los De Marras",
+          "url": "https://open.spotify.com/artist/0E1P5uNgbD11POIDxFROHh"
+        }
+      ],
+      "duration_ms": 233200,
+      "name": "As\u00ed Es la Vida",
+      "url": "https://open.spotify.com/track/2cGNb9Z0OrUjL0xcfPGPO7"
     },
     {
       "added_at": "2023-12-28 22:59:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-12-28 22:59:00",
       "album": {
-        "name": "Siglo XXI",
-        "url": "https://open.spotify.com/album/2fwFXVTTeMyJj7IbIoFQZy"
-      },
-      "artists": [
-        {
-          "name": "Gatillazo",
-          "url": "https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "La \u00daltima Patada",
-      "url": "https://open.spotify.com/track/0QobiDnqGnnbbW8Duu9j90"
-    },
-    {
-      "added_at": "2023-12-28 22:59:00",
-      "album": {
         "name": "Hace Falta...?",
         "url": "https://open.spotify.com/album/36inCQFaYW4STvviECaxUR"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 233000,
       "name": "La Locura",
       "url": "https://open.spotify.com/track/53jDA8Iv4igfu0mPm75Rmf"
+    },
+    {
+      "added_at": "2023-12-28 22:59:00",
+      "album": {
+        "name": "Siglo XXI",
+        "url": "https://open.spotify.com/album/2fwFXVTTeMyJj7IbIoFQZy"
+      },
+      "artists": [
+        {
+          "name": "Gatillazo",
+          "url": "https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "La \u00daltima Patada",
+      "url": "https://open.spotify.com/track/0QobiDnqGnnbbW8Duu9j90"
     },
     {
       "added_at": "2023-12-28 22:59:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-12-28 22:59:00",
       "album": {
-        "name": "C\u00f3mo Convertirse en Nada",
-        "url": "https://open.spotify.com/album/0W02GXYGmc4BrcAEH1mlJq"
-      },
-      "artists": [
-        {
-          "name": "Gatillazo",
-          "url": "https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam"
-        }
-      ],
-      "duration_ms": 160253,
-      "name": "C\u00f3mo Convertirse en Nada",
-      "url": "https://open.spotify.com/track/7bZfAk1tgSGyIfpQZfOj3A"
-    },
-    {
-      "added_at": "2023-12-28 22:59:00",
-      "album": {
         "name": "Disp\u00e1rame",
         "url": "https://open.spotify.com/album/0wdBkfYTEmMQjqND8f1MUD"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 152000,
       "name": "Disp\u00e1rame",
       "url": "https://open.spotify.com/track/3ttofroygpDF5hKxwfeeM6"
+    },
+    {
+      "added_at": "2023-12-28 22:59:00",
+      "album": {
+        "name": "C\u00f3mo Convertirse en Nada",
+        "url": "https://open.spotify.com/album/0W02GXYGmc4BrcAEH1mlJq"
+      },
+      "artists": [
+        {
+          "name": "Gatillazo",
+          "url": "https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam"
+        }
+      ],
+      "duration_ms": 160253,
+      "name": "C\u00f3mo Convertirse en Nada",
+      "url": "https://open.spotify.com/track/7bZfAk1tgSGyIfpQZfOj3A"
     },
     {
       "added_at": "2023-12-28 22:59:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-12-28 22:59:00",
       "album": {
+        "name": "Cicatriz en la Matrix",
+        "url": "https://open.spotify.com/album/51o67b23wyqqkYGN738zMG"
+      },
+      "artists": [
+        {
+          "name": "Lendakaris Muertos",
+          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
+        }
+      ],
+      "duration_ms": 118986,
+      "name": "Tenemos a la Pasma",
+      "url": "https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85"
+    },
+    {
+      "added_at": "2023-12-28 22:59:00",
+      "album": {
         "name": "Delicias de una Falsa Democracia",
         "url": "https://open.spotify.com/album/6gSsvTqcLIOJ1gx6cy8jRg"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 152240,
       "name": "Cenizas del Capitalismo",
       "url": "https://open.spotify.com/track/1d6OkDRgwp0dTrBUutv6kq"
-    },
-    {
-      "added_at": "2023-12-28 22:59:00",
-      "album": {
-        "name": "Cicatriz en la Matrix",
-        "url": "https://open.spotify.com/album/51o67b23wyqqkYGN738zMG"
-      },
-      "artists": [
-        {
-          "name": "Lendakaris Muertos",
-          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
-        }
-      ],
-      "duration_ms": 118986,
-      "name": "Tenemos a la Pasma",
-      "url": "https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85"
     },
     {
       "added_at": "2023-12-28 22:59:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-12-28 22:59:00",
       "album": {
+        "name": "Todos Mis Enemigos Se Llaman Cayetano",
+        "url": "https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL"
+      },
+      "artists": [
+        {
+          "name": "Lendakaris Muertos",
+          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
+        }
+      ],
+      "duration_ms": 57840,
+      "name": "Todos Mis Enemigos Se Llaman Cayetano",
+      "url": "https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc"
+    },
+    {
+      "added_at": "2023-12-28 22:59:00",
+      "album": {
         "name": "Intereses Creados",
         "url": "https://open.spotify.com/album/3BLJYjL2IK4xCrvdHS1rsY"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 147653,
       "name": "Escupe",
       "url": "https://open.spotify.com/track/0OJWKkFRxkWYU8Ml5e7DA3"
-    },
-    {
-      "added_at": "2023-12-28 22:59:00",
-      "album": {
-        "name": "Todos Mis Enemigos Se Llaman Cayetano",
-        "url": "https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL"
-      },
-      "artists": [
-        {
-          "name": "Lendakaris Muertos",
-          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
-        }
-      ],
-      "duration_ms": 57840,
-      "name": "Todos Mis Enemigos Se Llaman Cayetano",
-      "url": "https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc"
     },
     {
       "added_at": "2023-12-28 22:59:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-12-28 22:59:00",
       "album": {
-        "name": "Noche Molona",
-        "url": "https://open.spotify.com/album/0koYvQafHxEe9Eu8CcWTxU"
-      },
-      "artists": [
-        {
-          "name": "Tu Madre Es Puta",
-          "url": "https://open.spotify.com/artist/5SGCYqP9PN2R85WfA0yjPu"
-        }
-      ],
-      "duration_ms": 178393,
-      "name": "Noche Molona",
-      "url": "https://open.spotify.com/track/6rjOCHV71E19A3mq6I1ZzI"
-    },
-    {
-      "added_at": "2023-12-28 22:59:00",
-      "album": {
         "name": "J\u00f3dete",
         "url": "https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 227992,
       "name": "Gernika",
       "url": "https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp"
+    },
+    {
+      "added_at": "2023-12-28 22:59:00",
+      "album": {
+        "name": "Noche Molona",
+        "url": "https://open.spotify.com/album/0koYvQafHxEe9Eu8CcWTxU"
+      },
+      "artists": [
+        {
+          "name": "Tu Madre Es Puta",
+          "url": "https://open.spotify.com/artist/5SGCYqP9PN2R85WfA0yjPu"
+        }
+      ],
+      "duration_ms": 178393,
+      "name": "Noche Molona",
+      "url": "https://open.spotify.com/track/6rjOCHV71E19A3mq6I1ZzI"
     },
     {
       "added_at": "2023-12-28 22:59:00",

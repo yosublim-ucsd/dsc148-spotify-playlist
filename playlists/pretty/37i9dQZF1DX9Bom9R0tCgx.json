@@ -1,12 +1,12 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 357170,
+  "num_followers": 357285,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWUxNzJjYTJkYWJiMWM5OTZhNjUxN2UyZTVlZTliNDc0NjE0NDQw",
+  "snapshot_id": "MCw1MDhkZTk2MjU1MTNhNWU2ODlhNzhiM2IzYzZlN2JhMmJlMDJlY2Vh",
   "tracks": [
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "It's That Time",
+        "url": "https://open.spotify.com/album/4YGSYJpKXUClPZoBDvRzyJ"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+        }
+      ],
+      "duration_ms": 153469,
+      "name": "It's That Time - Edit",
+      "url": "https://open.spotify.com/track/72qcP3hwdqa8NkVxSCpYjm"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Against The Wall",
         "url": "https://open.spotify.com/album/2xO8ur8yma45D2drHsPPR4"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 116162,
       "name": "Bouncy (Bass Test)",
       "url": "https://open.spotify.com/track/4F6b8D0ZNdni5shVRTlwWy"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "It's That Time",
-        "url": "https://open.spotify.com/album/4YGSYJpKXUClPZoBDvRzyJ"
-      },
-      "artists": [
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        },
-        {
-          "name": "DJ Daddy Trance",
-          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
-        }
-      ],
-      "duration_ms": 153469,
-      "name": "It's That Time - Edit",
-      "url": "https://open.spotify.com/track/72qcP3hwdqa8NkVxSCpYjm"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "Drop It Down",
+        "url": "https://open.spotify.com/album/7u26VusojvClzoCafHyzcV"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Drop It Down",
+      "url": "https://open.spotify.com/track/6euR4VW88wRwG6TTXI8YEE"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Feel Again (Remixes)",
         "url": "https://open.spotify.com/album/5uBuqq6UrdrDL5iPLQ3aoB"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 177600,
       "name": "Superman - Dr Phunk Remix",
       "url": "https://open.spotify.com/track/2qdiwQikjxIOVHppVZd2r9"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "Drop It Down",
-        "url": "https://open.spotify.com/album/7u26VusojvClzoCafHyzcV"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "Joyhauser",
-          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Drop It Down",
-      "url": "https://open.spotify.com/track/6euR4VW88wRwG6TTXI8YEE"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1639,6 +1639,26 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "Fire to the Rain",
+        "url": "https://open.spotify.com/album/1KEIwpm2LiKp1bznzoV229"
+      },
+      "artists": [
+        {
+          "name": "TMW",
+          "url": "https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V"
+        },
+        {
+          "name": "Caro van Ee",
+          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
+        }
+      ],
+      "duration_ms": 144935,
+      "name": "Fire to the Rain",
+      "url": "https://open.spotify.com/track/1mlH24UmHdpICgiT2WwugR"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Low (Macon's HYPERTECHNO Remix)",
         "url": "https://open.spotify.com/album/4Tpa491B6dAf3VnlXdts6V"
       },
@@ -1707,26 +1727,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Tony Junior",
-          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
-        }
-      ],
-      "duration_ms": 248471,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "O Fortuna",
         "url": "https://open.spotify.com/album/7tcS35RM3CLNsdAbKHfi2I"
       },
@@ -1751,22 +1751,22 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Fire to the Rain",
-        "url": "https://open.spotify.com/album/1KEIwpm2LiKp1bznzoV229"
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq"
       },
       "artists": [
         {
-          "name": "TMW",
-          "url": "https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         },
         {
-          "name": "Caro van Ee",
-          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
         }
       ],
-      "duration_ms": 144935,
-      "name": "Fire to the Rain",
-      "url": "https://open.spotify.com/track/1mlH24UmHdpICgiT2WwugR"
+      "duration_ms": 248471,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1847,6 +1847,30 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "Jump Dance Move Bounce",
+        "url": "https://open.spotify.com/album/7uqDX4ot0zHwEAG4OpLjby"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        },
+        {
+          "name": "NOTMYTYPE",
+          "url": "https://open.spotify.com/artist/7hjdOgAfEdNYBGViGyy28U"
+        },
+        {
+          "name": "AENJAY",
+          "url": "https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ"
+        }
+      ],
+      "duration_ms": 149610,
+      "name": "Jump Dance Move Bounce",
+      "url": "https://open.spotify.com/track/4BSJd6jkmroYkGKIrrstUa"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Smooth Operator (feat. HYPERTEKKNO) [Techno Remix]",
         "url": "https://open.spotify.com/album/3eqvSCsySNNJE0refJZJOD"
       },
@@ -1871,30 +1895,6 @@
       "duration_ms": 131400,
       "name": "Smooth Operator (feat. HYPERTEKKNO) - Techno Remix",
       "url": "https://open.spotify.com/track/5RBdfbnu4h8EzIabEJGYnn"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "Jump Dance Move Bounce",
-        "url": "https://open.spotify.com/album/7uqDX4ot0zHwEAG4OpLjby"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        },
-        {
-          "name": "NOTMYTYPE",
-          "url": "https://open.spotify.com/artist/7hjdOgAfEdNYBGViGyy28U"
-        },
-        {
-          "name": "AENJAY",
-          "url": "https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ"
-        }
-      ],
-      "duration_ms": 149610,
-      "name": "Jump Dance Move Bounce",
-      "url": "https://open.spotify.com/track/4BSJd6jkmroYkGKIrrstUa"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Carol of the Bells (Hardstyle)",
-        "url": "https://open.spotify.com/album/4IGkNt69xoTneALCRJwapI"
-      },
-      "artists": [
-        {
-          "name": "PXSEIDON",
-          "url": "https://open.spotify.com/artist/0WOk6PeJIAZDHrB2U06TOw"
-        }
-      ],
-      "duration_ms": 137430,
-      "name": "Carol of the Bells (Hardstyle)",
-      "url": "https://open.spotify.com/track/3bv1IQpIq4MeQ3nqVdI8ht"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "House",
         "url": "https://open.spotify.com/album/39NURP3oUUmnloXw0en8TZ"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 153600,
       "name": "House",
       "url": "https://open.spotify.com/track/0i88cSlMSo9G5PEYGdVMdc"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Carol of the Bells (Hardstyle)",
+        "url": "https://open.spotify.com/album/4IGkNt69xoTneALCRJwapI"
+      },
+      "artists": [
+        {
+          "name": "PXSEIDON",
+          "url": "https://open.spotify.com/artist/0WOk6PeJIAZDHrB2U06TOw"
+        }
+      ],
+      "duration_ms": 137430,
+      "name": "Carol of the Bells (Hardstyle)",
+      "url": "https://open.spotify.com/track/3bv1IQpIq4MeQ3nqVdI8ht"
     },
     {
       "added_at": "2024-01-04 23:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 581998,
+  "num_followers": 581985,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjAxNmRmZWNlN2VjZTgzZDJjZGY2OGE5YzliMjI5NTM4OTY0YjEz",
+  "snapshot_id": "MCwxNzc1N2JkYWNhNTc1NzdlZmI2OTZhZGQzNDNjZGM0MzU1NjA1ZDk5",
   "tracks": [
     {
       "added_at": "2023-10-19 09:54:20",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "This Is All Yours",
-        "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 173630,
-      "name": "Left Hand Free",
-      "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Seventeen Going Under (Deluxe)",
         "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 297933,
       "name": "Seventeen Going Under",
       "url": "https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "This Is All Yours",
+        "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 173630,
+      "name": "Left Hand Free",
+      "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Chaise Longue",
-        "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 196905,
-      "name": "Chaise Longue",
-      "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "We Will Always Love You",
         "url": "https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 187586,
       "name": "The Divine Chord",
       "url": "https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Chaise Longue",
+        "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 196905,
+      "name": "Chaise Longue",
+      "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Mister Burns",
-        "url": "https://open.spotify.com/album/64XYX9rT7ouZe7vVsRV6hi"
-      },
-      "artists": [
-        {
-          "name": "KYTES",
-          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Mister Burns",
-      "url": "https://open.spotify.com/track/3KOk4G26hi8f8kOJF3iZTa"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/0uJ1vzYedMJ8ASp1TFQyEr"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 192109,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/6HSEHDSU9XmdxheOyQBn1I"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Mister Burns",
+        "url": "https://open.spotify.com/album/64XYX9rT7ouZe7vVsRV6hi"
+      },
+      "artists": [
+        {
+          "name": "KYTES",
+          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Mister Burns",
+      "url": "https://open.spotify.com/track/3KOk4G26hi8f8kOJF3iZTa"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
+        "name": "Dancing in the City (Radio Edit)",
+        "url": "https://open.spotify.com/album/4y2vjGF1u3hhPdyLHiL70o"
+      },
+      "artists": [
+        {
+          "name": "Siamese Elephants",
+          "url": "https://open.spotify.com/artist/7bgOhFs7p8ZGBMIIORey80"
+        }
+      ],
+      "duration_ms": 201994,
+      "name": "Dancing in the City (Radio Edit)",
+      "url": "https://open.spotify.com/track/12pXH0mid48V0vN0ykfBG5"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
         "name": "Sabada",
         "url": "https://open.spotify.com/album/73JoE5TQ7DiMbRCrbKD7uD"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 225467,
       "name": "Sabada",
       "url": "https://open.spotify.com/track/6bDu7PiUOUuXrviwss6aJD"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
-        "name": "Dancing in the City (Radio Edit)",
-        "url": "https://open.spotify.com/album/4y2vjGF1u3hhPdyLHiL70o"
-      },
-      "artists": [
-        {
-          "name": "Siamese Elephants",
-          "url": "https://open.spotify.com/artist/7bgOhFs7p8ZGBMIIORey80"
-        }
-      ],
-      "duration_ms": 201994,
-      "name": "Dancing in the City (Radio Edit)",
-      "url": "https://open.spotify.com/track/12pXH0mid48V0vN0ykfBG5"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
+        "name": "Kalif Onya",
+        "url": "https://open.spotify.com/album/0CrAZ1bf2mckuZSGsLckDl"
+      },
+      "artists": [
+        {
+          "name": "Al Pride",
+          "url": "https://open.spotify.com/artist/2H348ORtPqCyeJllhI8ddB"
+        }
+      ],
+      "duration_ms": 238936,
+      "name": "Kalif Onya",
+      "url": "https://open.spotify.com/track/0mesXBMiwhSsFjUJNe9k1T"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
         "name": "Bleach",
         "url": "https://open.spotify.com/album/4LqbOcnsIgwtuzrcxHMq2L"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 175560,
       "name": "Going with You",
       "url": "https://open.spotify.com/track/6QKC7DcD9RcR3coic9d2oD"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
-        "name": "Kalif Onya",
-        "url": "https://open.spotify.com/album/0CrAZ1bf2mckuZSGsLckDl"
-      },
-      "artists": [
-        {
-          "name": "Al Pride",
-          "url": "https://open.spotify.com/artist/2H348ORtPqCyeJllhI8ddB"
-        }
-      ],
-      "duration_ms": 238936,
-      "name": "Kalif Onya",
-      "url": "https://open.spotify.com/track/0mesXBMiwhSsFjUJNe9k1T"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Adult Movies",
-        "url": "https://open.spotify.com/album/7IWXZKQU9nUC3ae508E46p"
-      },
-      "artists": [
-        {
-          "name": "Litany",
-          "url": "https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc"
-        }
-      ],
-      "duration_ms": 195982,
-      "name": "Adult Movies",
-      "url": "https://open.spotify.com/track/1RPtMkfP5TfnlylnW6LIDd"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "I Swear It's True",
         "url": "https://open.spotify.com/album/1amufMJmaSVgIvRujOq5Va"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 235784,
       "name": "I Swear It's True",
       "url": "https://open.spotify.com/track/61AYzKQ7kvLJ82IFaIbRWn"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Adult Movies",
+        "url": "https://open.spotify.com/album/7IWXZKQU9nUC3ae508E46p"
+      },
+      "artists": [
+        {
+          "name": "Litany",
+          "url": "https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc"
+        }
+      ],
+      "duration_ms": 195982,
+      "name": "Adult Movies",
+      "url": "https://open.spotify.com/track/1RPtMkfP5TfnlylnW6LIDd"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Live Vol. 1",
-        "url": "https://open.spotify.com/album/4ckyPfMqe26PrOgEWdjWns"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 175375,
-      "name": "IknowhowIfeel - from Hansa Studios, Berlin",
-      "url": "https://open.spotify.com/track/4M3MUIXtQLN2qRPcwcpHzW"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Saltburn",
         "url": "https://open.spotify.com/album/5siL9F6fBRgdI2UhHfr2aj"
       },
@@ -1495,22 +1479,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/48v3ESTDn7dBxMMapg7wPX"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 266614,
-      "name": "2001",
-      "url": "https://open.spotify.com/track/6FtfZdMiuUX3CdGMhAZmlJ"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Majored In Broken Hearts",
         "url": "https://open.spotify.com/album/04nHRjoevp8LZ3J6IYR9PV"
       },
@@ -1523,6 +1491,38 @@
       "duration_ms": 191499,
       "name": "Majored In Broken Hearts",
       "url": "https://open.spotify.com/track/1zIqRF5cnIkUnrKwIbFxUc"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Live Vol. 1",
+        "url": "https://open.spotify.com/album/4ckyPfMqe26PrOgEWdjWns"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 175375,
+      "name": "IknowhowIfeel - from Hansa Studios, Berlin",
+      "url": "https://open.spotify.com/track/4M3MUIXtQLN2qRPcwcpHzW"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/48v3ESTDn7dBxMMapg7wPX"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 266614,
+      "name": "2001",
+      "url": "https://open.spotify.com/track/6FtfZdMiuUX3CdGMhAZmlJ"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "hunger",
-        "url": "https://open.spotify.com/album/0POoxs5GMl3mqyOi7olevg"
+        "name": "Highness",
+        "url": "https://open.spotify.com/album/4EHDGQCK8ziAccxlY8tCS5"
       },
       "artists": [
         {
-          "name": "remme",
-          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
+          "name": "Nosoyo",
+          "url": "https://open.spotify.com/artist/4H5tKZTXuVPxynMaaaBbWs"
         }
       ],
-      "duration_ms": 191297,
-      "name": "hunger",
-      "url": "https://open.spotify.com/track/00FRYCC99BHS1ewIqteTwh"
+      "duration_ms": 193766,
+      "name": "Highness",
+      "url": "https://open.spotify.com/track/5StogjwnaLs9zO0fl6x7P3"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1659,34 +1659,34 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Morning Dew",
-        "url": "https://open.spotify.com/album/5gBPWslCH79q5c6KTDTWyp"
+        "name": "hunger",
+        "url": "https://open.spotify.com/album/0POoxs5GMl3mqyOi7olevg"
       },
       "artists": [
         {
-          "name": "Moglii",
-          "url": "https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS"
+          "name": "remme",
+          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
         }
       ],
-      "duration_ms": 159454,
-      "name": "Morning Dew",
-      "url": "https://open.spotify.com/track/4fBdT1O7ZjTdLmMwAB4rgg"
+      "duration_ms": 191297,
+      "name": "hunger",
+      "url": "https://open.spotify.com/track/00FRYCC99BHS1ewIqteTwh"
     },
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Highness",
-        "url": "https://open.spotify.com/album/4EHDGQCK8ziAccxlY8tCS5"
+        "name": "Smiling Face",
+        "url": "https://open.spotify.com/album/75E23gvtdp9zPvRpKXWcIA"
       },
       "artists": [
         {
-          "name": "Nosoyo",
-          "url": "https://open.spotify.com/artist/4H5tKZTXuVPxynMaaaBbWs"
+          "name": "Cinemagraph",
+          "url": "https://open.spotify.com/artist/7zMxkD6FhVkm8hBRy7jyJP"
         }
       ],
-      "duration_ms": 193766,
-      "name": "Highness",
-      "url": "https://open.spotify.com/track/5StogjwnaLs9zO0fl6x7P3"
+      "duration_ms": 215610,
+      "name": "Smiling Face",
+      "url": "https://open.spotify.com/track/083YqmGxSLpgr8Hr6HeFNx"
     }
   ],
   "unique_name": "Feelgood Indie",

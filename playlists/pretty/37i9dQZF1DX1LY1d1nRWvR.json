@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 33168,
+  "num_followers": 33181,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjlhYmEzNDBkODc2MWY4NTU2M2YzNDU1MzYzZTRmZjk0NjFlY2Yy",
+  "snapshot_id": "MCw0NzJkNGJlYjRmNjk3ZDdhOWExMTA2MTc1Y2FjNjdmZTkxNzBiNmM3",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -367,22 +367,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/731CVmFi5tJ0gT2wvVQAss"
-      },
-      "artists": [
-        {
-          "name": "Harvey Sutherland",
-          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
-        }
-      ],
-      "duration_ms": 376960,
-      "name": "Bamboo",
-      "url": "https://open.spotify.com/track/4nEHMZYdH2z4vPO8nJW9wF"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Two Steps",
         "url": "https://open.spotify.com/album/7mnUY7L09wxAiEp6ERMbjI"
       },
@@ -403,22 +387,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "To the Disco '77 (Live Rework)",
-        "url": "https://open.spotify.com/album/6a5zxWkfXH3jcXrjmdGSn2"
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/731CVmFi5tJ0gT2wvVQAss"
       },
       "artists": [
         {
-          "name": "Move D",
-          "url": "https://open.spotify.com/artist/3hwmrS8MSceZwnZYvZFf97"
-        },
-        {
-          "name": "Justin Carter",
-          "url": "https://open.spotify.com/artist/5uPFbw1zCaZDbZFlmrA15x"
+          "name": "Harvey Sutherland",
+          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
         }
       ],
-      "duration_ms": 594714,
-      "name": "Leaves",
-      "url": "https://open.spotify.com/track/4lGXye7yRWuhEb8jyaAYc2"
+      "duration_ms": 376960,
+      "name": "Bamboo",
+      "url": "https://open.spotify.com/track/4nEHMZYdH2z4vPO8nJW9wF"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -443,6 +423,26 @@
       "duration_ms": 440341,
       "name": "Ho Chi Min",
       "url": "https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "To the Disco '77 (Live Rework)",
+        "url": "https://open.spotify.com/album/6a5zxWkfXH3jcXrjmdGSn2"
+      },
+      "artists": [
+        {
+          "name": "Move D",
+          "url": "https://open.spotify.com/artist/3hwmrS8MSceZwnZYvZFf97"
+        },
+        {
+          "name": "Justin Carter",
+          "url": "https://open.spotify.com/artist/5uPFbw1zCaZDbZFlmrA15x"
+        }
+      ],
+      "duration_ms": 594714,
+      "name": "Leaves",
+      "url": "https://open.spotify.com/track/4lGXye7yRWuhEb8jyaAYc2"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -563,22 +563,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Laamore",
-        "url": "https://open.spotify.com/album/3qawW9LV2i8RHgBqmfXYHO"
-      },
-      "artists": [
-        {
-          "name": "Hidden Spheres",
-          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
-        }
-      ],
-      "duration_ms": 280895,
-      "name": "Laamore",
-      "url": "https://open.spotify.com/track/4uC2RrHmTfq96i55BTk1ML"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Information",
         "url": "https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 246855,
       "name": "Another Story",
       "url": "https://open.spotify.com/track/0AW4hkKsAgn8pU7pGPnu9Y"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Laamore",
+        "url": "https://open.spotify.com/album/3qawW9LV2i8RHgBqmfXYHO"
+      },
+      "artists": [
+        {
+          "name": "Hidden Spheres",
+          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
+        }
+      ],
+      "duration_ms": 280895,
+      "name": "Laamore",
+      "url": "https://open.spotify.com/track/4uC2RrHmTfq96i55BTk1ML"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -615,22 +615,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "All My Troubles",
-        "url": "https://open.spotify.com/album/599n6aMLqgGci5iScyb4nN"
-      },
-      "artists": [
-        {
-          "name": "Demuja",
-          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "All My Troubles",
-      "url": "https://open.spotify.com/track/3m8ilb2QT4RgsPJSh2g6UZ"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "The Jerusalem EP's",
         "url": "https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 407893,
       "name": "Servants Jaz House",
       "url": "https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "All My Troubles",
+        "url": "https://open.spotify.com/album/599n6aMLqgGci5iScyb4nN"
+      },
+      "artists": [
+        {
+          "name": "Demuja",
+          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "All My Troubles",
+      "url": "https://open.spotify.com/track/3m8ilb2QT4RgsPJSh2g6UZ"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -667,22 +667,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Cleo",
-        "url": "https://open.spotify.com/album/1peRsBvuNWGMgEcwj1lx0K"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Dos Santos",
-          "url": "https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM"
-        }
-      ],
-      "duration_ms": 191240,
-      "name": "Move On",
-      "url": "https://open.spotify.com/track/390VumD1uSnfGvyB0NmjKe"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "The Return",
         "url": "https://open.spotify.com/album/0XKj7L2flZPg2i7efBZT2N"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 513226,
       "name": "Salaam",
       "url": "https://open.spotify.com/track/6Z6lYo8cyciwEU6goSrM0L"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Cleo",
+        "url": "https://open.spotify.com/album/1peRsBvuNWGMgEcwj1lx0K"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Dos Santos",
+          "url": "https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM"
+        }
+      ],
+      "duration_ms": 191240,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/390VumD1uSnfGvyB0NmjKe"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -739,6 +739,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Umama - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/31UdsiaxpCNVTndrA75zDw"
+      },
+      "artists": [
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        }
+      ],
+      "duration_ms": 244928,
+      "name": "Umama - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5Wupd4GMerV7h8zcDDitXN"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Tanto Tiempo",
         "url": "https://open.spotify.com/album/37idrhwVE8BaAIw4uJ7klK"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 295606,
       "name": "Tanto Tiempo - Village Cuts Remix",
       "url": "https://open.spotify.com/track/7opvEv3xPJsMIiPrvq4S5e"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Umama - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/31UdsiaxpCNVTndrA75zDw"
-      },
-      "artists": [
-        {
-          "name": "Sjava",
-          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
-        }
-      ],
-      "duration_ms": 244928,
-      "name": "Umama - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/5Wupd4GMerV7h8zcDDitXN"
     },
     {
       "added_at": "2021-10-08 17:36:35",

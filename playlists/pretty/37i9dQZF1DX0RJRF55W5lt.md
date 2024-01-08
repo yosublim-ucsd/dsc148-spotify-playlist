@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Wookie
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,131 likes - 75 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,173 likes - 75 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 57 | [Oh No \(Sentimental Things\) \- Oxide Remix](https://open.spotify.com/track/4ZzLtmgHbUTqmV6wvtZq0l) | [So Solid Crew](https://open.spotify.com/artist/5Wri8vAevy1yYWqN8oGGpH) | [They Don't Know](https://open.spotify.com/album/39adZ9WsxbgqLpHP2FLDWO) | 5:33 |
 | 58 | [What Going On](https://open.spotify.com/track/2VrXykLzmEd5KFf5QfHe3L) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv) | [Wookie \(Deluxe Edition\)](https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk) | 5:06 |
 | 59 | [True](https://open.spotify.com/track/4UIVcg8hsML6ZFCW6geRbX) | [Jaimeson](https://open.spotify.com/artist/7hzWocQ4TBX5jTqgt9UBPW) | [Jaimeson Revisited](https://open.spotify.com/album/7ddvdxSZngAeBFFcvl45De) | 6:19 |
-| 60 | [A London Thing \- Extended Mix](https://open.spotify.com/track/1EO2wRH9Tj2e7SLLiNoALJ) | [Scott Garcia](https://open.spotify.com/artist/4pmXP4rg8C8WmWtoCWdC9b), [MC Styles](https://open.spotify.com/artist/6IcEebkfhtNr55JyiZb70r) | [A London Thing](https://open.spotify.com/album/31JpI9mni0wdK8TwTh00Wh) | 6:06 |
-| 61 | [Blues For You \(Hard Dub\)](https://open.spotify.com/track/7IjUoVIhUaMQ0Hj7nIdT1P) | [Logic](https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT) | [Blues for You](https://open.spotify.com/album/2HrwuxTYrSqZ1CZcyr1ODA) | 4:29 |
+| 60 | [Blues For You \(Hard Dub\)](https://open.spotify.com/track/7IjUoVIhUaMQ0Hj7nIdT1P) | [Logic](https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT) | [Blues for You](https://open.spotify.com/album/2HrwuxTYrSqZ1CZcyr1ODA) | 4:29 |
+| 61 | [A London Thing \- Extended Mix](https://open.spotify.com/track/1EO2wRH9Tj2e7SLLiNoALJ) | [Scott Garcia](https://open.spotify.com/artist/4pmXP4rg8C8WmWtoCWdC9b), [MC Styles](https://open.spotify.com/artist/6IcEebkfhtNr55JyiZb70r) | [A London Thing](https://open.spotify.com/album/31JpI9mni0wdK8TwTh00Wh) | 6:06 |
 | 62 | [You Used to Hold Me \- Original Mix](https://open.spotify.com/track/4UcubRTZEdPHBOns9Y9zZZ) | [Scott & Leon](https://open.spotify.com/artist/24labonn3Rx2LF8PTyVK4H), [SYLVIA MASON](https://open.spotify.com/artist/08rl4ZXJxHMQoc9UpvgsNw) | [Scott & Leon \- You Used to Hold Me \-EP](https://open.spotify.com/album/6MxISa3lEe2NTw4jlceiPA) | 5:26 |
 | 63 | [Bring Me Down \- Vocal Mix](https://open.spotify.com/track/049MMnSYqnfbUFyAZlq8SY) | [Stanton Warriors](https://open.spotify.com/artist/7GeAzBsalYANXTi1ReOm1R), [Zac Toms](https://open.spotify.com/artist/4NIatCnGgmP3CVi1kP07yk) | [Bring Me Down 2014](https://open.spotify.com/album/69ctY5wPad54fhQJDvuZEB) | 5:47 |
 | 64 | [Anytime](https://open.spotify.com/track/2Juu7tim2c71wvKAMRYkNc) | [NuBirth](https://open.spotify.com/artist/74sS9PHuqYxHllQL8noO0G) | [PAY CLOSE ATTENTION: XL Recordings](https://open.spotify.com/album/3D9vUf511saEHLua6NcOLw) | 5:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 74 | [Space Rider \- MJ Cole Vocal Mix](https://open.spotify.com/track/17FKIehIe3xjlwOxlC1kWW) | [Shaun Escoffery](https://open.spotify.com/artist/4QQV60vtp1G3XReD6dWgNz), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Oyster Music \- The MJ Cole Mixes](https://open.spotify.com/album/0l8mKOWMYe3r0vV5bQo9IY) | 5:15 |
 | 75 | [Kung\-Fu](https://open.spotify.com/track/5y7mEkaEL1fivzcwNhYtrU) | [187 Lockdown](https://open.spotify.com/artist/1tlAuGE8fWLJOWyqdBrR2p) | [187](https://open.spotify.com/album/7v4aQVzT2vh3S4kinfpnV4) | 6:31 |
 
-Snapshot ID: `MCwwNzJlYzc0ZTM1MTBiNzllNzY5ZTVmYTRmNTM3ZWMxOGYxMjk5YmFi`
+Snapshot ID: `MCxjNmM3MGUxMTM2ODEyZGUxYjkxMmM0NDBhODcxY2MzYjE4ZmI2MTJm`

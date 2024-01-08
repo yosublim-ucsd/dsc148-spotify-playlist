@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,792 songs - 3 day 8 hr 14 min
+1,793 songs - 3 day 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,6 +320,7 @@
 | [Coulant](https://open.spotify.com/track/445KHitEvap0tspDZ3C78V) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Coulant](https://open.spotify.com/album/2yVjc4mMxopxCDyPDBP1Iq) | 2:28 | 2022-03-29 | 2023-10-03 |
 | [Counting the Days You’re Gone](https://open.spotify.com/track/69fSsSmk0EHoJjiUK12AKm) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Counting the Days You’re Gone](https://open.spotify.com/album/3dbXjKwnJZj5eLpXrx9PqX) | 3:24 | 2022-04-14 | 2022-05-18 |
 | [Countless Days](https://open.spotify.com/track/07pkIvWcTcQnZxLG8Z4yn7) | [Novo Talos](https://open.spotify.com/artist/09D82jKcSb3omGk0kInAea) | [Countless Days](https://open.spotify.com/album/5lQf5PkYVXgSOB1d8ovD9l) | 3:23 | 2022-03-24 | 2022-07-29 |
+| [Countryside Mansion](https://open.spotify.com/track/0TsKyZ33N0VP8ZXYgTXPUz) | [Joanne Gardiner](https://open.spotify.com/artist/3bXI7okxW0V3IBXPgnfcG5) | [Countryside Mansion](https://open.spotify.com/album/7CThvsvHfSAk9OBoERTzMH) | 3:02 | 2024-01-04 |  |
 | [Courage](https://open.spotify.com/track/13BdZaexiYI6sYpfJPFoIk) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Courage](https://open.spotify.com/album/521HITEukGqct8fv9hUXvC) | 4:14 | 2021-03-10 | 2022-04-19 |
 | [Courte promenade](https://open.spotify.com/track/2tBzGzq7FDjDP7t93P2lXG) | [Max Rossiter](https://open.spotify.com/artist/1QBHSnspvme5KAL4PJ2tDw) | [Courte promenade](https://open.spotify.com/album/6SJbgxStFBWugDHrKRQ8Kn) | 1:20 | 2021-05-12 | 2022-04-02 |
 | [Crepuscolo](https://open.spotify.com/track/4fIW5dR5e08xRZPI2kyAhm) | [Paulo Piazzolla](https://open.spotify.com/artist/6vk1cwfPqLNECANI5tMMF7) | [Crepuscolo](https://open.spotify.com/album/601vqEzi8d6MZtkibECOMD) | 2:23 | 2021-04-15 | 2022-07-27 |
@@ -1641,7 +1642,7 @@
 | [Tulip](https://open.spotify.com/track/2gOZZ461iBIgZB42kyMu4a) | [Steve Jones Swiff](https://open.spotify.com/artist/3z1Zuq8iUJqouUmX3ugLml) | [Tulip](https://open.spotify.com/album/0iO0SP6ZBPKcazqdqfWRr8) | 2:03 | 2021-05-18 | 2022-05-29 |
 | [Tumbling Fairytale](https://open.spotify.com/track/266YxnxOiOPfnwvI4qluDR) | [Harold Kay](https://open.spotify.com/artist/2syEslXYK8k3kpiQ2RXBDm) | [Regula De Tri](https://open.spotify.com/album/4TebKqLb17kQGku2BPFo3E) | 2:11 | 2021-05-19 | 2022-06-24 |
 | [Tuning the Picture](https://open.spotify.com/track/16bkyOOqnn6SDXjpQyqBhh) | [Allison Stuart](https://open.spotify.com/artist/16ZEUWmdIWUGPIuYKDb9MV) | [Tuning the Picture](https://open.spotify.com/album/1H0yb40JbDayKijQBsjKu0) | 2:56 | 2021-10-14 | 2021-10-16 |
-| [Turn](https://open.spotify.com/track/0y7I045qDUH1carkgTB2UG) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Under](https://open.spotify.com/album/0tVEjAfGFPBdtvql2BUHKs) | 2:39 | 2023-07-06 |  |
+| [Turn](https://open.spotify.com/track/0y7I045qDUH1carkgTB2UG) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Under](https://open.spotify.com/album/0tVEjAfGFPBdtvql2BUHKs) | 2:39 | 2023-07-06 | 2024-01-08 |
 | [Turn Left](https://open.spotify.com/track/6LBWoasSTImUnGUoweyXL5) | [Cisum](https://open.spotify.com/artist/467kFA1pXD8TMuXyyGKUYi) | [Focus Your Brain \- Deep Ambient Soundscapes Vol 1](https://open.spotify.com/album/6EK5AiyrCaxi8Hlp7UfMgr) | 3:29 | 2021-03-16 | 2021-05-14 |
 | [Twilights](https://open.spotify.com/track/10qZCmeusg6BbdHDTMADpr) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Twilights](https://open.spotify.com/album/5gjIbZAtznmk77DLADIGFY) | 2:17 | 2023-04-15 | 2023-10-18 |
 | [Twinkling Star](https://open.spotify.com/track/15ZnW0rCGJvb0fV2N3nN1r) | [Clark Ingram](https://open.spotify.com/artist/7KRZnmd0jO9gxrxNxJYK8X) | [Sleepy Baby Piano](https://open.spotify.com/album/4F64kqOUZucHOwcfftBJ5u) | 2:50 | 2021-04-23 | 2022-04-17 |

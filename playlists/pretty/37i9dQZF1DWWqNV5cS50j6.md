@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Not NOT pop\. Cover: beabadoobee, Mac Wetha, Aminé
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,977 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,939 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 32 | [I Might be Fake](https://open.spotify.com/track/7DTpqH64fSXDA3CuFxMAKE) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [I Might be Fake](https://open.spotify.com/album/6lg88hmM7QAFDWvaW47TZ6) | 2:48 |
 | 33 | [pretty photos](https://open.spotify.com/track/1PmXc402f75cyfgLlXWSEH) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [it was nice knowing u](https://open.spotify.com/album/2lTY9F1Grt1D0HPsaQrGGT) | 2:56 |
 | 34 | [JASMINE](https://open.spotify.com/track/6EYaL5ach3SUCQSebLMops) | [Renao](https://open.spotify.com/artist/1rg7cCiRd1SEUz8zGwOnM2) | [JASMINE](https://open.spotify.com/album/0J93kMZWjwAX2Ln1GREcq5) | 2:07 |
-| 35 | [U DON'T KNOW ME LIKE THAT](https://open.spotify.com/track/2Dp0qki35K3PMjRvnKQ5o0) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD I](https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4) | 3:29 |
-| 36 | [Daddy](https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Erotic Probiotic 2](https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI) | 4:06 |
+| 35 | [Daddy](https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Erotic Probiotic 2](https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI) | 4:06 |
+| 36 | [U DON'T KNOW ME LIKE THAT](https://open.spotify.com/track/2Dp0qki35K3PMjRvnKQ5o0) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD I](https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4) | 3:29 |
 | 37 | [Johnny johnny johnny](https://open.spotify.com/track/60qaApzoNFsAXhhPc5zDxh) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Wallsocket](https://open.spotify.com/album/6exrhkZKAwCGoihIZDJnpv) | 4:05 |
 | 38 | [Now I Know You](https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Where Are You Going?](https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp) | 3:32 |
 | 39 | [Cheese \(feat\. PawPaw Rod & Valerie June\)](https://open.spotify.com/track/4IttML3TgHecmpPe0Ytffs) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Cheese \(feat\. PawPaw Rod & Valerie June\)](https://open.spotify.com/album/3qSABvJGms0qKHNI6aqYov) | 3:49 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 64 | [SWEET](https://open.spotify.com/track/4ICjGWAFoZWXvRQta9UHuj) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [SWEET](https://open.spotify.com/album/1HUGoLeGEmtg1Csw88DeTs) | 4:34 |
 | 65 | [Leave With Me](https://open.spotify.com/track/1VXWhDwV2WG7tnlclMP1nk) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Future Reference](https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg) | 3:16 |
 | 66 | [Moving Forward](https://open.spotify.com/track/4kO9Q1jUCLhuuWOQs3hBa3) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [January Never Dies](https://open.spotify.com/album/3KfVspuHZTMj8eg5wAH5t1) | 3:25 |
-| 67 | [Alberca](https://open.spotify.com/track/73xHU7nyAIeaNxdzPlVmeR) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Alberca / ILY <3](https://open.spotify.com/album/56rLIEkSkRChif7JpHRVlj) | 2:04 |
-| 68 | [LOO SONG](https://open.spotify.com/track/3F0z2ffuQuc3aTHPI0l2Ku) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [LOO SONG](https://open.spotify.com/album/5WSTzOHLT79yFmXvuh7jZ8) | 2:27 |
+| 67 | [LOO SONG](https://open.spotify.com/track/3F0z2ffuQuc3aTHPI0l2Ku) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [LOO SONG](https://open.spotify.com/album/5WSTzOHLT79yFmXvuh7jZ8) | 2:27 |
+| 68 | [Alberca](https://open.spotify.com/track/73xHU7nyAIeaNxdzPlVmeR) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Alberca / ILY <3](https://open.spotify.com/album/56rLIEkSkRChif7JpHRVlj) | 2:04 |
 | 69 | [Found!](https://open.spotify.com/track/1FgY491AT8WYmMgZgWLfkz) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [Drive Home](https://open.spotify.com/album/6Dj3kYhkZnX3gleTXi1a8r) | 5:05 |
 | 70 | [Big Bewts](https://open.spotify.com/track/6Awe5dR7eYAfHVkycO6m5X) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Big Bewts & Vertigo](https://open.spotify.com/album/5knT1V0p5JcIvqnRC363uv) | 3:08 |
 | 71 | [Soft Spot](https://open.spotify.com/track/31dK8fLdLeNQVyrwZ1unsy) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Soft Spot](https://open.spotify.com/album/5YxR0EDEfl0o1gyhCrvY3R) | 4:22 |
@@ -90,15 +90,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 80 | [WHY WAIT? \(feat\. Cisco Swank\)](https://open.spotify.com/track/5IqtrnJJsCKEg1fansrY65) | [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0), [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [WHY WAIT? \(feat\. Cisco Swank\)](https://open.spotify.com/album/47oNZkfCMDynKbVxfUtfz5) | 2:44 |
 | 81 | [meant2be](https://open.spotify.com/track/2ogIwH7SqsgCjXc5KJOes3) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [meant2be](https://open.spotify.com/album/6cy7cQSqjGX4tdgOiYtbrY) | 3:13 |
 | 82 | [oggy](https://open.spotify.com/track/0v9ujRJ4jHLOdENX8n4Jft) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [oggy](https://open.spotify.com/album/72w1hO2b0fLm1yJnBwahAN) | 2:08 |
-| 83 | [HALLOWEEN](https://open.spotify.com/track/13F4rQgJlfS5RLxEBxO2me) | [Oshi](https://open.spotify.com/artist/4mAhA39Nr2uEIbQoC3yxOs) | [HALLOWEEN](https://open.spotify.com/album/6osEKEYLvMuscn50TnWIUd) | 2:40 |
-| 84 | [Used To This](https://open.spotify.com/track/7sVIpbgOg5CmHlzRbfvg3u) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Used To This](https://open.spotify.com/album/5Ar51rB1zWxh7rAEEh2qUi) | 3:03 |
-| 85 | [Get out my house](https://open.spotify.com/track/0xfj4umWuuP0aSq2T4M8JF) | [Kieran Ivy](https://open.spotify.com/artist/0wzHzFNLOLex8psv09KqNK) | [Get out my house](https://open.spotify.com/album/4l8lysRbVyMUZQsrnkr5aL) | 2:55 |
+| 83 | [Used To This](https://open.spotify.com/track/7sVIpbgOg5CmHlzRbfvg3u) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Used To This](https://open.spotify.com/album/5Ar51rB1zWxh7rAEEh2qUi) | 3:03 |
+| 84 | [Get out my house](https://open.spotify.com/track/0xfj4umWuuP0aSq2T4M8JF) | [Kieran Ivy](https://open.spotify.com/artist/0wzHzFNLOLex8psv09KqNK) | [Get out my house](https://open.spotify.com/album/4l8lysRbVyMUZQsrnkr5aL) | 2:55 |
+| 85 | [HALLOWEEN](https://open.spotify.com/track/13F4rQgJlfS5RLxEBxO2me) | [Oshi](https://open.spotify.com/artist/4mAhA39Nr2uEIbQoC3yxOs) | [HALLOWEEN](https://open.spotify.com/album/6osEKEYLvMuscn50TnWIUd) | 2:40 |
 | 86 | [try](https://open.spotify.com/track/7KPibpTWZTtzUuhiNWX6d3) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [try](https://open.spotify.com/album/4Bgc3jlcqzN9QtRqq4hUqg) | 2:08 |
 | 87 | [Cold Blood](https://open.spotify.com/track/1ah7QJ4UsxhGedu7QhmX44) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Cold Blood](https://open.spotify.com/album/7lUc1rvCShf2ydND7z6Glk) | 2:44 |
 | 88 | [SXC](https://open.spotify.com/track/1Rnf34dNuOVfc5TCr6yE9d) | [Babymorocco](https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [SXC](https://open.spotify.com/album/1g315Bsyof6KGwGPIdqfMY) | 2:41 |
 | 89 | [out of body](https://open.spotify.com/track/3Z9ygRxfUsSTXccm7YfHtA) | [love\-sadKID](https://open.spotify.com/artist/75AKgMMrk1CG5sURNvyX9s), [Rav](https://open.spotify.com/artist/6oeSQ4qmDQ7n89Rdt6tLLn), [exociety](https://open.spotify.com/artist/1sshoi9tHgFt66iBZB68QH), [Meltycanon](https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC), [Scuare](https://open.spotify.com/artist/2RKb9P7ELTmQMAvKEZSJr2) | [SHIFT!](https://open.spotify.com/album/7ktSZdtV5Jt26BHqNCkfxv) | 2:08 |
-| 90 | [Going Crazy](https://open.spotify.com/track/79j5lxEjuh5ixfJU2Lt2SS) | [NNAMDÏ](https://open.spotify.com/artist/6gACF5PEinqx3AzMLjiH90) | [Going Crazy](https://open.spotify.com/album/6DCVlCkgPkgPkhY9ZJfaY0) | 3:11 |
-| 91 | [Deer in Headlights](https://open.spotify.com/track/0g9vHRftxmH7IxUQlRoW1Z) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [Deer in Headlights](https://open.spotify.com/album/1Z4WrOfVpeSJBdXrCGLgFp) | 3:29 |
+| 90 | [Deer in Headlights](https://open.spotify.com/track/0g9vHRftxmH7IxUQlRoW1Z) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [Deer in Headlights](https://open.spotify.com/album/1Z4WrOfVpeSJBdXrCGLgFp) | 3:29 |
+| 91 | [Going Crazy](https://open.spotify.com/track/79j5lxEjuh5ixfJU2Lt2SS) | [NNAMDÏ](https://open.spotify.com/artist/6gACF5PEinqx3AzMLjiH90) | [Going Crazy](https://open.spotify.com/album/6DCVlCkgPkgPkhY9ZJfaY0) | 3:11 |
 | 92 | [GLUE](https://open.spotify.com/track/09AcOUvW6W9queqjGJGZe4) | [Maasho](https://open.spotify.com/artist/1JREmglx633MGQB73njWtE) | [GLUE](https://open.spotify.com/album/1mrZs0Zgn0H5M5uDXT69fF) | 3:23 |
 | 93 | [Weird & Bizarre](https://open.spotify.com/track/46OGrRCC0Y7ZyF0qvXsPNt) | [Posh Chocolates](https://open.spotify.com/artist/3xTWaGPtvulmX73dfT71J1) | [Weird & Bizarre](https://open.spotify.com/album/4fLINYR36a8frZuUoefi6j) | 3:15 |
 | 94 | [american spirit](https://open.spotify.com/track/5PjMEPg56t95BptaDhdQVg) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [mud on my superstars](https://open.spotify.com/album/3hFlIKU66qbWphgI9DcUVP) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 99 | [YOU COULDN'T LOVE IF YOU WANTED TO](https://open.spotify.com/track/2v5zmdCfuhl8kHe55yrtSC) | [Ryan Hall](https://open.spotify.com/artist/22bvUzi8MgkpSKBWGB2vTJ) | [POSTTEENANGST](https://open.spotify.com/album/10wsx8kwi44Ch78umaSChC) | 2:48 |
 | 100 | [Sweet Tooth](https://open.spotify.com/track/683VMYf2AuBE9QoiaBCsEW) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Boy Toy](https://open.spotify.com/album/4y309EcmaqipImcRdFlX5s) | 3:35 |
 
-Snapshot ID: `MCwzYTBhMDYzOWUzNjdhMjhkY2JiYjc1MWI1NTY2Y2YwYWJmMjhjZGIw`
+Snapshot ID: `MCxjNzgyY2IzYTQzNGVmNTk4ZDI0YTRkMDVlMzVkYjM2M2U0YjljYjBh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU24O1KPl8Ai.md) - [plain]
 
 > Celebrate APIHM with music from Asian and Pacific Islander artists for the whole family\. Cover: Falu
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,907 likes - 36 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,913 likes - 36 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,6 +43,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU24O1KPl8Ai.md) - [plain]
 | 33 | [Ube](https://open.spotify.com/track/1zR4tuFYKGvu1ATATdyLe8) | [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb), [Amy D](https://open.spotify.com/artist/2nrrGTGTjFPzFUojnR1wMw) | [Keep On](https://open.spotify.com/album/3i8U7PbsDSFctnqkEODtpw) | 2:30 |
 | 34 | [The Durian Fruit Song](https://open.spotify.com/track/4X3TL8IpWC1XA13uY5VKxx) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Romeo Eats](https://open.spotify.com/artist/5woC1o9bxzyhV7sXR5t5Nd) | [Walk off the Earth & Romeo Eats, Vol\. 1](https://open.spotify.com/album/44vnzHdyCejk6nXISI9LYE) | 1:21 |
 | 35 | [Ma Ma Milk](https://open.spotify.com/track/1TwncWnOqITdWsf3FcGt6Y) | [BNK48](https://open.spotify.com/artist/0A7q0U0IEdNOHWnQpMRQdD) | [Warota People \(หัวเราะเซ่\)](https://open.spotify.com/album/2Q5yTezFLPUqCK80DOgElC) | 2:08 |
-| 36 | [Magtainim Ay Di Biro](https://open.spotify.com/track/3ZGLaAe3GZn9NDOMpck19A) | [Lea Salonga](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv) | [Bahaghari](https://open.spotify.com/album/7hmjVLjXyiyoI3NmVSd0F4) | 2:23 |
+| 36 | [Crayons Are Wonderful](https://open.spotify.com/track/23BlJRUssJuIYtkc8svTru) | [Falu](https://open.spotify.com/artist/3jk7OJ4HfTtHvmwh0DkAl1) | [A Colorful World](https://open.spotify.com/album/3rjX6PHBw0KW8aqhxxQXfc) | 2:37 |
 
-Snapshot ID: `MCw5NjhhZTM3NjVjMzQxOGViMmRlOTVhODFjZmMyM2E5ZTc3MWQ3NWYw`
+Snapshot ID: `MCxiYjNjYTNmZWZjMGMzMmEwYmMxNGI1YTA4NjM3MDAxODQ2MzkxNTE2`

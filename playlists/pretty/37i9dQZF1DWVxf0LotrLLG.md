@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Ñengo Flow
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,648 likes - 202 songs - 10 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,675 likes - 202 songs - 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 201 | [Sad Gang \(Versión Reggaetón\)](https://open.spotify.com/track/2XkAudwRY3mHW3MGMT61AA) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [El Bloke Hills](https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc) | 3:30 |
 | 202 | [Reggaeton Drugs](https://open.spotify.com/track/04YIYmjQ0GeIq7QMsmdor0) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [El Bloke Hills](https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc) | 2:22 |
 
-Snapshot ID: `MCxmNjhiOTI5MWQzNzQ3OGUzNTA0NzQ2ZmRjZDU1OWRiZDBhOTczYmFh`
+Snapshot ID: `MCwwN2M0ZGE2M2JjMDY1YTc3NTJlMGQwY2VlZTgzMWNjNzkwNGYzYWFl`

@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Ti\u00ebsto and FAST BOY",
-  "num_followers": 461871,
+  "num_followers": 462018,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2Q4NTUzMTYxNjU1ZDg5N2UyMzgwYzI5MjRhMTczYWNhN2JmOWFi",
+  "snapshot_id": "MCxlY2RmZWJiZGVlYjUwOTI4YzhhOTVkOWQ5Yjc5MzkwZTlkYWVkM2Qy",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Ten Toad Anthem",
-        "url": "https://open.spotify.com/album/5cJnyxxNI8agHykkZ45rRg"
-      },
-      "artists": [
-        {
-          "name": "SVDDEN DEATH",
-          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
-        }
-      ],
-      "duration_ms": 145714,
-      "name": "Ten Toad Anthem",
-      "url": "https://open.spotify.com/track/6KSJxsRPs4Q3Feaqyt4ZRZ"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Maybe In The Summer",
         "url": "https://open.spotify.com/album/349cHC0kfEg2nf5ixElOed"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 149032,
       "name": "Maybe In The Summer",
       "url": "https://open.spotify.com/track/7foJ5hOQ0i4oJbgtjdUa0w"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Ten Toad Anthem",
+        "url": "https://open.spotify.com/album/5cJnyxxNI8agHykkZ45rRg"
+      },
+      "artists": [
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "Ten Toad Anthem",
+      "url": "https://open.spotify.com/track/6KSJxsRPs4Q3Feaqyt4ZRZ"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-01-05 19:02:34",
       "album": {
-        "name": "ascend",
-        "url": "https://open.spotify.com/album/13vrmsnBbVACZT6vg2V0HN"
-      },
-      "artists": [
-        {
-          "name": "VILLA",
-          "url": "https://open.spotify.com/artist/6CjQ1qXQdr7P84BkOEuTwS"
-        }
-      ],
-      "duration_ms": 188444,
-      "name": "ascend",
-      "url": "https://open.spotify.com/track/78jGVRBWYgTeFV0SWPjTEW"
-    },
-    {
-      "added_at": "2024-01-05 19:02:34",
-      "album": {
         "name": "Afraid of Love",
         "url": "https://open.spotify.com/album/6JGB5Cu3JHAYhY4t1DeAD2"
       },
@@ -791,6 +775,26 @@
       "duration_ms": 281454,
       "name": "Afraid of Love",
       "url": "https://open.spotify.com/track/2xlK3YIM5hiCQuiL5Cq4fR"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Termination (Radio-Edit)",
+        "url": "https://open.spotify.com/album/6GxQv9hlNVAB2G0SpbjQpK"
+      },
+      "artists": [
+        {
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+        },
+        {
+          "name": "Fatum",
+          "url": "https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C"
+        }
+      ],
+      "duration_ms": 247802,
+      "name": "Termination - Radio-Edit",
+      "url": "https://open.spotify.com/track/7j6mghgIJz1FYXe9Gw8kqb"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -853,6 +857,22 @@
       "url": "https://open.spotify.com/track/5a8NbqLMb0tqxsoesUODCM"
     },
     {
+      "added_at": "2024-01-05 19:02:34",
+      "album": {
+        "name": "ascend",
+        "url": "https://open.spotify.com/album/13vrmsnBbVACZT6vg2V0HN"
+      },
+      "artists": [
+        {
+          "name": "VILLA",
+          "url": "https://open.spotify.com/artist/6CjQ1qXQdr7P84BkOEuTwS"
+        }
+      ],
+      "duration_ms": 188444,
+      "name": "ascend",
+      "url": "https://open.spotify.com/track/78jGVRBWYgTeFV0SWPjTEW"
+    },
+    {
       "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Growing Pains",
@@ -875,42 +895,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Termination (Radio-Edit)",
-        "url": "https://open.spotify.com/album/6GxQv9hlNVAB2G0SpbjQpK"
-      },
-      "artists": [
-        {
-          "name": "biskuwi",
-          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
-        },
-        {
-          "name": "Fatum",
-          "url": "https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C"
-        }
-      ],
-      "duration_ms": 247802,
-      "name": "Termination - Radio-Edit",
-      "url": "https://open.spotify.com/track/7j6mghgIJz1FYXe9Gw8kqb"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/2mjKjhxmC3ZInWFSmtAy71"
-      },
-      "artists": [
-        {
-          "name": "Boo Seeka",
-          "url": "https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO"
-        }
-      ],
-      "duration_ms": 213020,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/524wbK27Ssf7fMuzOUmJ7U"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "if you didnt want me",
         "url": "https://open.spotify.com/album/5X0wn04hB2EQxTmPKYVdKu"
       },
@@ -927,22 +911,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/6C8W4HzmWHWZdlCmBm4K4V"
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/2mjKjhxmC3ZInWFSmtAy71"
       },
       "artists": [
         {
-          "name": "Matt Fax",
-          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
-        },
-        {
-          "name": "Johan Vilborg",
-          "url": "https://open.spotify.com/artist/7hccrx4H5boJlleSXh1j7N"
+          "name": "Boo Seeka",
+          "url": "https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO"
         }
       ],
-      "duration_ms": 209280,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/2oz4YjD0KeD6TXBz36zt18"
+      "duration_ms": 213020,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/524wbK27Ssf7fMuzOUmJ7U"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -967,6 +947,26 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/6C8W4HzmWHWZdlCmBm4K4V"
+      },
+      "artists": [
+        {
+          "name": "Matt Fax",
+          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
+        },
+        {
+          "name": "Johan Vilborg",
+          "url": "https://open.spotify.com/artist/7hccrx4H5boJlleSXh1j7N"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/2oz4YjD0KeD6TXBz36zt18"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "In The Air",
         "url": "https://open.spotify.com/album/3tQ1xtLmqmc1llutbiCOyn"
       },
@@ -979,6 +979,30 @@
       "duration_ms": 215433,
       "name": "In The Air",
       "url": "https://open.spotify.com/track/7aasXv1PUt4t0DLo2nGzMV"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Macarena",
+        "url": "https://open.spotify.com/album/7lvLBUSBMVhPjkxf5pNTNk"
+      },
+      "artists": [
+        {
+          "name": "Ale Basciano",
+          "url": "https://open.spotify.com/artist/33Qz6dWUMmGaMRgLNUEWr9"
+        },
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        },
+        {
+          "name": "BIONT",
+          "url": "https://open.spotify.com/artist/7Ju5W94oRtrScSvbIQywkq"
+        }
+      ],
+      "duration_ms": 131123,
+      "name": "Macarena",
+      "url": "https://open.spotify.com/track/2KXtLayfxTNdLuJUH2s3Lj"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1015,30 +1039,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Macarena",
-        "url": "https://open.spotify.com/album/7lvLBUSBMVhPjkxf5pNTNk"
-      },
-      "artists": [
-        {
-          "name": "Ale Basciano",
-          "url": "https://open.spotify.com/artist/33Qz6dWUMmGaMRgLNUEWr9"
-        },
-        {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
-        },
-        {
-          "name": "BIONT",
-          "url": "https://open.spotify.com/artist/7Ju5W94oRtrScSvbIQywkq"
-        }
-      ],
-      "duration_ms": 131123,
-      "name": "Macarena",
-      "url": "https://open.spotify.com/track/2KXtLayfxTNdLuJUH2s3Lj"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Overpowered",
         "url": "https://open.spotify.com/album/51ewt5eIln1nQrlxfIO3hw"
       },
@@ -1055,6 +1055,26 @@
       "duration_ms": 160750,
       "name": "Overpowered",
       "url": "https://open.spotify.com/track/7uK5JxAsY8gkZpe0WxF0Rt"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/7zjQAeiHLJJ8OB7MftaFjz"
+      },
+      "artists": [
+        {
+          "name": "Dirty Palm",
+          "url": "https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0"
+        },
+        {
+          "name": "KDH",
+          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+        }
+      ],
+      "duration_ms": 162187,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/097XuYiqI3sS1SlTlncfmU"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1081,28 +1101,24 @@
       "url": "https://open.spotify.com/track/0Zp0v6Fd47tdjHdhynPcjr"
     },
     {
-      "added_at": "2024-01-05 19:02:34",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Rockets (James Juke's Hot Take)",
-        "url": "https://open.spotify.com/album/37rgI6O8KdY44LsGAZqti7"
+        "name": "Young Forever (Armonica Remix)",
+        "url": "https://open.spotify.com/album/18GrXRebiWye7ZHAvz44OQ"
       },
       "artists": [
         {
-          "name": "LION BABE",
-          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
         },
         {
-          "name": "Moe Moks",
-          "url": "https://open.spotify.com/artist/6wwgDxXnmagUtCLbNRFJpF"
-        },
-        {
-          "name": "James Juke",
-          "url": "https://open.spotify.com/artist/6gbPKiUthmk2t7K57AS3mf"
+          "name": "Armonica",
+          "url": "https://open.spotify.com/artist/6EnmXQhQQvFYrWorH0Duoy"
         }
       ],
-      "duration_ms": 311052,
-      "name": "Rockets (James Juke's Hot Take)",
-      "url": "https://open.spotify.com/track/4pqxLKBzzhCJYNKkzXZlNa"
+      "duration_ms": 197419,
+      "name": "Young Forever (Armonica Remix)",
+      "url": "https://open.spotify.com/track/0fORIV8sNObgoaR8bll7po"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1131,38 +1147,50 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Young Forever (Armonica Remix)",
-        "url": "https://open.spotify.com/album/18GrXRebiWye7ZHAvz44OQ"
+        "name": "Casa Techno",
+        "url": "https://open.spotify.com/album/76AkxXrNVDZLrDB9dVSdqS"
       },
       "artists": [
         {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+          "name": "Hypermorph",
+          "url": "https://open.spotify.com/artist/0IeEzvWGCDF6N4sBtzJ2o2"
         },
         {
-          "name": "Armonica",
-          "url": "https://open.spotify.com/artist/6EnmXQhQQvFYrWorH0Duoy"
+          "name": "BRAN",
+          "url": "https://open.spotify.com/artist/44CMqAkutKvmCaE2OxyCbd"
+        },
+        {
+          "name": "Snnr",
+          "url": "https://open.spotify.com/artist/07C1XBLmxv6QkdQSDW1aXc"
         }
       ],
-      "duration_ms": 197419,
-      "name": "Young Forever (Armonica Remix)",
-      "url": "https://open.spotify.com/track/0fORIV8sNObgoaR8bll7po"
+      "duration_ms": 113345,
+      "name": "Casa Techno",
+      "url": "https://open.spotify.com/track/3aCZ2vtwqEsUfj6W9TMWPs"
     },
     {
-      "added_at": "2024-01-05 05:00:00",
+      "added_at": "2024-01-05 19:02:34",
       "album": {
-        "name": "apprehension",
-        "url": "https://open.spotify.com/album/0WEV58E6wztfW2rzOobqs7"
+        "name": "Rockets (James Juke's Hot Take)",
+        "url": "https://open.spotify.com/album/37rgI6O8KdY44LsGAZqti7"
       },
       "artists": [
         {
-          "name": "In Explosions",
-          "url": "https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb"
+          "name": "LION BABE",
+          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
+        },
+        {
+          "name": "Moe Moks",
+          "url": "https://open.spotify.com/artist/6wwgDxXnmagUtCLbNRFJpF"
+        },
+        {
+          "name": "James Juke",
+          "url": "https://open.spotify.com/artist/6gbPKiUthmk2t7K57AS3mf"
         }
       ],
-      "duration_ms": 216831,
-      "name": "apprehension",
-      "url": "https://open.spotify.com/track/2ZJcIP3JIyFhYmTFUWQD74"
+      "duration_ms": 311052,
+      "name": "Rockets (James Juke's Hot Take)",
+      "url": "https://open.spotify.com/track/4pqxLKBzzhCJYNKkzXZlNa"
     },
     {
       "added_at": "2024-01-05 19:02:34",
@@ -1207,18 +1235,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Cynosure",
-        "url": "https://open.spotify.com/album/1BYe7ZcWoUgbiYCc4KCpRw"
+        "name": "apprehension",
+        "url": "https://open.spotify.com/album/0WEV58E6wztfW2rzOobqs7"
       },
       "artists": [
         {
-          "name": "hxly xo",
-          "url": "https://open.spotify.com/artist/4lYqhtjf8WpvRYBeTHKeJH"
+          "name": "In Explosions",
+          "url": "https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Cynosure",
-      "url": "https://open.spotify.com/track/3dEASjlOMA7smhwFr1fmbV"
+      "duration_ms": 216831,
+      "name": "apprehension",
+      "url": "https://open.spotify.com/track/2ZJcIP3JIyFhYmTFUWQD74"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1239,26 +1267,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Casa Techno",
-        "url": "https://open.spotify.com/album/76AkxXrNVDZLrDB9dVSdqS"
+        "name": "Cynosure",
+        "url": "https://open.spotify.com/album/1BYe7ZcWoUgbiYCc4KCpRw"
       },
       "artists": [
         {
-          "name": "Hypermorph",
-          "url": "https://open.spotify.com/artist/0IeEzvWGCDF6N4sBtzJ2o2"
-        },
-        {
-          "name": "BRAN",
-          "url": "https://open.spotify.com/artist/44CMqAkutKvmCaE2OxyCbd"
-        },
-        {
-          "name": "Snnr",
-          "url": "https://open.spotify.com/artist/07C1XBLmxv6QkdQSDW1aXc"
+          "name": "hxly xo",
+          "url": "https://open.spotify.com/artist/4lYqhtjf8WpvRYBeTHKeJH"
         }
       ],
-      "duration_ms": 113345,
-      "name": "Casa Techno",
-      "url": "https://open.spotify.com/track/3aCZ2vtwqEsUfj6W9TMWPs"
+      "duration_ms": 224000,
+      "name": "Cynosure",
+      "url": "https://open.spotify.com/track/3dEASjlOMA7smhwFr1fmbV"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1279,22 +1299,6 @@
       "duration_ms": 213750,
       "name": "Quaestio (i've got a question babe)",
       "url": "https://open.spotify.com/track/5HwSjHt2FnTTLONBx5Rx5p"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Flex",
-        "url": "https://open.spotify.com/album/3HzScxQ9vXfj5eIoizsyY7"
-      },
-      "artists": [
-        {
-          "name": "Tony Dark Eyes",
-          "url": "https://open.spotify.com/artist/3aJBHJUwHkjkGQ4zkG93HP"
-        }
-      ],
-      "duration_ms": 128716,
-      "name": "Flex",
-      "url": "https://open.spotify.com/track/5qV78cIfWx3fd8l8LeLbWz"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1323,22 +1327,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/7zjQAeiHLJJ8OB7MftaFjz"
+        "name": "Flex",
+        "url": "https://open.spotify.com/album/3HzScxQ9vXfj5eIoizsyY7"
       },
       "artists": [
         {
-          "name": "Dirty Palm",
-          "url": "https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0"
-        },
-        {
-          "name": "KDH",
-          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+          "name": "Tony Dark Eyes",
+          "url": "https://open.spotify.com/artist/3aJBHJUwHkjkGQ4zkG93HP"
         }
       ],
-      "duration_ms": 162187,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/097XuYiqI3sS1SlTlncfmU"
+      "duration_ms": 128716,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/5qV78cIfWx3fd8l8LeLbWz"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1433,20 +1433,20 @@
       "url": "https://open.spotify.com/track/2goxwvSqEtomJinh7cdBGQ"
     },
     {
-      "added_at": "2024-01-05 05:00:00",
+      "added_at": "2024-01-05 19:02:34",
       "album": {
-        "name": "Talk Tonight",
-        "url": "https://open.spotify.com/album/7fZcXQ60WN1MUZ0OEuR6yg"
+        "name": "Do My Thing",
+        "url": "https://open.spotify.com/album/1vb39AGlcYCwI3vshtcQjE"
       },
       "artists": [
         {
-          "name": "Paul Thomas",
-          "url": "https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8"
+          "name": "SHVDZ",
+          "url": "https://open.spotify.com/artist/4lOUAtosaRwWeCoiIeLeQM"
         }
       ],
-      "duration_ms": 210491,
-      "name": "Talk Tonight",
-      "url": "https://open.spotify.com/track/4GFicOf3NaNaSfji7FDmv8"
+      "duration_ms": 167172,
+      "name": "Do My Thing",
+      "url": "https://open.spotify.com/track/1zKlmBu1TlxGPvoqtEJR8k"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1465,20 +1465,20 @@
       "url": "https://open.spotify.com/track/0tV8BcMH8Y2SxRVeNAqNMx"
     },
     {
-      "added_at": "2024-01-05 19:02:34",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Do My Thing",
-        "url": "https://open.spotify.com/album/1vb39AGlcYCwI3vshtcQjE"
+        "name": "Talk Tonight",
+        "url": "https://open.spotify.com/album/7fZcXQ60WN1MUZ0OEuR6yg"
       },
       "artists": [
         {
-          "name": "SHVDZ",
-          "url": "https://open.spotify.com/artist/4lOUAtosaRwWeCoiIeLeQM"
+          "name": "Paul Thomas",
+          "url": "https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8"
         }
       ],
-      "duration_ms": 167172,
-      "name": "Do My Thing",
-      "url": "https://open.spotify.com/track/1zKlmBu1TlxGPvoqtEJR8k"
+      "duration_ms": 210491,
+      "name": "Talk Tonight",
+      "url": "https://open.spotify.com/track/4GFicOf3NaNaSfji7FDmv8"
     },
     {
       "added_at": "2024-01-05 05:00:00",

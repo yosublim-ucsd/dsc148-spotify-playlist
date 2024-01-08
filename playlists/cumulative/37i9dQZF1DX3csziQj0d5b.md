@@ -4,7 +4,7 @@
 
 > Some bops to take the pain of homework away.
 
-623 songs - 1 day 9 hr 46 min
+624 songs - 1 day 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -501,7 +501,8 @@
 | [Stay](https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Edited Version\)](https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG) | 4:00 | 2023-02-03 | 2023-03-25 |
 | [Stay with Me](https://open.spotify.com/track/1tl9Yzv1lypVXR5pyWrNrb) | [louw](https://open.spotify.com/artist/3LOWBENsEe0o5Ui5I0SIyW), [MVNA](https://open.spotify.com/artist/0XzmYRFJxC3OdOY27QkYkH) | [Stay with Me](https://open.spotify.com/album/3vOTjomNmXa1lg1l3WfY5j) | 3:25 | 2022-04-14 | 2022-04-21 |
 | [stay with me](https://open.spotify.com/track/32V4gYbCHeqFYZnED7sgyJ) | [Luca Skyline](https://open.spotify.com/artist/0lLJ8QF3moQMRXiwOaZZUY), [Paike](https://open.spotify.com/artist/0RpcZU7wPDfxktu4ly56vT) | [stay with me](https://open.spotify.com/album/6x2COb9iClB0wxQZJ2vYWc) | 2:15 | 2022-04-14 | 2022-04-21 |
-| [Steal The Show \- From "Elemental"](https://open.spotify.com/track/6R5fYCySNHrqo4Og6O1ppn) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Steal The Show \(From "Elemental"\)](https://open.spotify.com/album/1rMI4GKDwtz8Ok0e7jbE4l) | 3:11 | 2023-07-28 |  |
+| [Steal The Show](https://open.spotify.com/track/0SccFtYdj75y6lL2OW10Cf) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Elemental \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7L15PXtti3kXEn7vTXi8ZV) | 3:12 | 2024-01-05 |  |
+| [Steal The Show \- From "Elemental"](https://open.spotify.com/track/6R5fYCySNHrqo4Og6O1ppn) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Steal The Show \(From "Elemental"\)](https://open.spotify.com/album/1rMI4GKDwtz8Ok0e7jbE4l) | 3:11 | 2023-07-28 | 2024-01-08 |
 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2023-11-17 |  |
 | [Strawberries & Cigarettes](https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Strawberries & Cigarettes](https://open.spotify.com/album/5L0bixsyXEkomsyucUySjy) | 3:21 | 2022-04-14 |  |
 | [Streets](https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:46 | 2022-08-12 | 2022-08-20 |

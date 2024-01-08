@@ -15865,6 +15865,24 @@
     },
     {
       "album": {
+        "name": "HAIN IN THE CITY",
+        "url": "https://open.spotify.com/album/1Ve0R4gEI4tUFOCATcEqFc"
+      },
+      "artists": [
+        {
+          "name": "Wendy York Stand",
+          "url": "https://open.spotify.com/artist/0L3bVqidFCtjVmfYcmY868"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220618,
+      "name": "\u30a4\u30f3\u30b5\u30a4\u30c9\u30db\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/2IU7k7QUYT960WemRF7g4U"
+    },
+    {
+      "album": {
         "name": "\u30a6\u30a3\u30f3\u30c7\u30a3\u30fc",
         "url": "https://open.spotify.com/album/3V7BCCulLTeX0MqQHJdV4i"
       },
@@ -18234,7 +18252,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 282480,
       "name": "\u5728\u591c\u5e02\u518d\u898b",
       "url": "https://open.spotify.com/track/3e2DlkRgMkGQyRpHvxuekb"

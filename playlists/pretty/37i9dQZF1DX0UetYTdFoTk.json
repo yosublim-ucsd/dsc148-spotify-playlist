@@ -1,12 +1,12 @@
 {
   "description": "To all the 7abieb out there. Cover: Ramy Gamal.",
-  "num_followers": 160903,
+  "num_followers": 160904,
   "original_name": "Arabic Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmQ4Y2VjMmUxNjY4YTBmOWE1MDAwZWI2MGYyNzQ5MWJmNGMyNjE5",
+  "snapshot_id": "MCw4NGMxMDNiOGZmODViZmQwMDViNDIyOGEzODA4Yzg1YmU3ZmUwNTNm",
   "tracks": [
     {
       "added_at": "2024-01-05 07:17:37",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-01-05 07:17:37",
       "album": {
+        "name": "Toul Al Yom",
+        "url": "https://open.spotify.com/album/0fEk2u9h2WZa8tB6prjewu"
+      },
+      "artists": [
+        {
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+        }
+      ],
+      "duration_ms": 195936,
+      "name": "Nami Aa Sadri",
+      "url": "https://open.spotify.com/track/5f7CeTgKBeZiknrIGGKYIP"
+    },
+    {
+      "added_at": "2024-01-05 07:17:37",
+      "album": {
         "name": "Bardo Betewhashni",
         "url": "https://open.spotify.com/album/29mrsnZ7Pbq3OjHqX5qHBC"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 241840,
       "name": "Bardo Betewhashni",
       "url": "https://open.spotify.com/track/6o25gM7QU4WmiZxCea7yNt"
-    },
-    {
-      "added_at": "2024-01-05 07:17:37",
-      "album": {
-        "name": "Toul Al Yom",
-        "url": "https://open.spotify.com/album/0fEk2u9h2WZa8tB6prjewu"
-      },
-      "artists": [
-        {
-          "name": "Nassif Zeytoun",
-          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
-        }
-      ],
-      "duration_ms": 195936,
-      "name": "Nami Aa Sadri",
-      "url": "https://open.spotify.com/track/5f7CeTgKBeZiknrIGGKYIP"
     },
     {
       "added_at": "2024-01-05 07:17:37",
@@ -775,18 +775,18 @@
     {
       "added_at": "2024-01-05 07:17:37",
       "album": {
-        "name": "Howa Nafs El Shouk",
-        "url": "https://open.spotify.com/album/6wWHzbMgBnZoZAPsGUlAiM"
+        "name": "Malek Ya Tara",
+        "url": "https://open.spotify.com/album/4dF55Jek9f3MG6KfV0fKoB"
       },
       "artists": [
         {
-          "name": "Angham",
-          "url": "https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg"
+          "name": "Mohamed Nour",
+          "url": "https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix"
         }
       ],
-      "duration_ms": 317250,
-      "name": "Howa Nafs El Shouk",
-      "url": "https://open.spotify.com/track/6T2rewl8ekzcdP5KQGW5K1"
+      "duration_ms": 195299,
+      "name": "Malek Ya Tara",
+      "url": "https://open.spotify.com/track/0Hlhi6mfGN3qGDg8JBCQgF"
     },
     {
       "added_at": "2024-01-05 07:17:37",
@@ -807,18 +807,18 @@
     {
       "added_at": "2024-01-05 07:17:37",
       "album": {
-        "name": "Malek Ya Tara",
-        "url": "https://open.spotify.com/album/4dF55Jek9f3MG6KfV0fKoB"
+        "name": "Howa Nafs El Shouk",
+        "url": "https://open.spotify.com/album/6wWHzbMgBnZoZAPsGUlAiM"
       },
       "artists": [
         {
-          "name": "Mohamed Nour",
-          "url": "https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix"
+          "name": "Angham",
+          "url": "https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg"
         }
       ],
-      "duration_ms": 195299,
-      "name": "Malek Ya Tara",
-      "url": "https://open.spotify.com/track/0Hlhi6mfGN3qGDg8JBCQgF"
+      "duration_ms": 317250,
+      "name": "Howa Nafs El Shouk",
+      "url": "https://open.spotify.com/track/6T2rewl8ekzcdP5KQGW5K1"
     },
     {
       "added_at": "2024-01-05 07:17:37",

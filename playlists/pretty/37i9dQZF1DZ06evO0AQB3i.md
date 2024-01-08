@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AQB3i.md) - [plain]
 
 > This is Alabama Shakes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,238 likes - 18 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,255 likes - 18 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AQB3i.md) - [plain]
 | 17 | [Rise To The Sun](https://open.spotify.com/track/32RWolRSVulfcVQlZSWu1E) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 3:08 |
 | 18 | [Someday](https://open.spotify.com/track/41xg3SjdwFyAp0kao72944) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:19 |
 
-Snapshot ID: `Mjg0MDkwNTYsMDAwMDAwMDAyYzBjZjBiMTUyNTA1YTNlNjNjMjE4ZmUzNDY3MmZhMQ==`
+Snapshot ID: `Mjg0MTA0NDksMDAwMDAwMDA5YWQ3MDAwNjU5M2U3OTZjMWViZjM0ZTE3MGQwODE2Mg==`

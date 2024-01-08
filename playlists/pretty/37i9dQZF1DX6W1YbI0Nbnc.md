@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 
 > Highlights of 2023, listen to women at full volume\. 結集2023，香港EQUAL女聲力量！\(cover: Anita Mui 梅艷芳\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,383 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,386 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 | 49 | [恐懼蠶食心靈](https://open.spotify.com/track/5B5cFo2zP4DoPucjFLpiuj) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [恐懼蠶食心靈](https://open.spotify.com/album/0FrVK9qBrzzP1WRDRgGL1M) | 3:30 |
 | 50 | [先哭為敬](https://open.spotify.com/track/7oVLiGq3yyLnGzlKvhgd3t) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [Joyce To The World](https://open.spotify.com/album/7cFAV4DrbsYVLtLxVknIQF) | 4:10 |
 
-Snapshot ID: `MCw3NmMyMTAwMmQ1YzJlN2RhOWE5N2NlYmFiNTEyZWRiZTllZDZiMzdj`
+Snapshot ID: `MCxhNGZkNGJmM2Y2OWNmMjU3ODVmMWU0Yzg3ODcyNTMxNzc3MTU3OTk4`

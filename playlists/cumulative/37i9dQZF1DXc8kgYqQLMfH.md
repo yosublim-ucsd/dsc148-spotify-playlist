@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,111 songs - 1 day 18 hr 2 min
+1,112 songs - 1 day 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -777,7 +777,7 @@
 | [Popcorn Harvest](https://open.spotify.com/track/0CYzr54h1vtNkxh107m0HI) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Popcorn Harvest](https://open.spotify.com/album/329thzZNqZjgNtQyptMxKu) | 2:37 | 2021-11-10 | 2022-04-08 |
 | [Portugal](https://open.spotify.com/track/3veP9Z9IG4gxTa951pgVlN) | [Wibke Komi](https://open.spotify.com/artist/5lEV6MZ6qSWTLAeGpTg5rI) | [Portugal](https://open.spotify.com/album/5MmjBiPS7LyXxUidGRXgLm) | 1:57 | 2023-05-19 | 2023-10-13 |
 | [positive](https://open.spotify.com/track/6EXzpGmH1gpvQclBz4GcfR) | [Slopoke](https://open.spotify.com/artist/1iJ5ZP2QithYEHlojjT3Dw) | [positive](https://open.spotify.com/album/4dmOhdd46ePy9uaCQXwIaz) | 2:33 | 2021-11-10 | 2022-10-29 |
-| [Presence](https://open.spotify.com/track/6kO1idyRqaj2J5B2syUq7w) | [Elk Beats](https://open.spotify.com/artist/1Nl5io0qeF6ISnWrdTnFQB), [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6) | [Presence](https://open.spotify.com/album/0tedFfKSiGAXaYhjK83Xya) | 2:17 | 2023-01-06 |  |
+| [Presence](https://open.spotify.com/track/6kO1idyRqaj2J5B2syUq7w) | [Elk Beats](https://open.spotify.com/artist/1Nl5io0qeF6ISnWrdTnFQB), [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6) | [Presence](https://open.spotify.com/album/0tedFfKSiGAXaYhjK83Xya) | 2:17 | 2023-01-06 | 2024-01-08 |
 | [present](https://open.spotify.com/track/2ygHOivjzwJjy4ItsjweHv) | [The King Chameleon](https://open.spotify.com/artist/5a3jN23M7PMCPVFaASjHmK) | [present](https://open.spotify.com/album/5Qf3SwYMlSK7DDsFYffaso) | 3:02 | 2022-06-17 | 2023-09-22 |
 | [Press Start](https://open.spotify.com/track/7jLAhUlipXOkcvu9pz05hx) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Press Start](https://open.spotify.com/album/0Bj13pKUn9CEwe2QXU33tL) | 1:49 | 2022-10-28 |  |
 | [Pretty Machine](https://open.spotify.com/track/4meg3qbldu4dlTv5e6hWsj) | [Eclips3](https://open.spotify.com/artist/6ivJbFCNcqWHdxM9y83LV9) | [Pretty Machine](https://open.spotify.com/album/5EQ08AeGmReXRD17x2ybJc) | 2:05 | 2023-02-07 |  |
@@ -976,6 +976,7 @@
 | [The City Weeps](https://open.spotify.com/track/7BYY8V037OArkl6zsD4s7K) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [The City Weeps](https://open.spotify.com/album/3BIzM0aOJeLeVFfSPRqs23) | 2:19 | 2023-09-08 |  |
 | [the eagle](https://open.spotify.com/track/1v1NpH98bzmOGzy7Uonzch) | [karlaplan.](https://open.spotify.com/artist/4RFTWRcFCHqWgDDakmHCBr) | [the eagle](https://open.spotify.com/album/5pePjbSsmLVMet4SRYwOXd) | 2:12 | 2023-09-08 |  |
 | [The Field](https://open.spotify.com/track/0XzV859RoblQ1Qdu5ugCCv) | [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6), [Elk Beats](https://open.spotify.com/artist/1Nl5io0qeF6ISnWrdTnFQB) | [The Field](https://open.spotify.com/album/0gpCwSea1AT1JaDgKwniFx) | 2:18 | 2022-10-01 |  |
+| [The Inner Sun](https://open.spotify.com/track/2u822ndjFVTtYr2Gu5Efln) | [Carl Borg](https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX) | [The Inner Sun](https://open.spotify.com/album/1ImwILTcx2BblGeGnqDnbx) | 2:20 | 2024-01-05 |  |
 | [The Kaleidoscope](https://open.spotify.com/track/22X60sGBAqAMVqxIwZnMko) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [The Kaleidoscope](https://open.spotify.com/album/6osPfOt5X9epMYvEgtyby6) | 1:59 | 2023-05-19 | 2023-11-18 |
 | [The Last Caress](https://open.spotify.com/track/2gyLOxjHak9GNl91uRckOK) | [Nahucast](https://open.spotify.com/artist/5PKH3iR7YxQUrVDeNsAu3S), [Phil Gori](https://open.spotify.com/artist/0dAq0AU9wC4mgrz09aPo0e) | [The Last Caress](https://open.spotify.com/album/04TQTvvd6i65iPy9oJck56) | 2:35 | 2022-07-08 | 2023-10-06 |
 | [The Life](https://open.spotify.com/track/3OHJwtjYZXQ8ls1DM0QeHP) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [The Life](https://open.spotify.com/album/2Uyc6oW1FZyJpii0JUGFkl) | 1:36 | 2023-04-27 |  |

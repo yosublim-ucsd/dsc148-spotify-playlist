@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 
 > ディズニーの人気曲を集めた公式プレイリスト♪ディズニー映画最新作『ウィッシュ』の最新楽曲から、『リトル・マーメイド』『アナと雪の女王』『アラジン』等の名曲、パークの大人気楽曲までセレクト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,666 likes - 158 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,667 likes - 158 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 | 12 | [Yasashii Kimochide \- Elemental ver.](https://open.spotify.com/track/3tiRhzgwHs7fQFdXegTFdU) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [Yasashii Kimochide \(Elemental ver.\)](https://open.spotify.com/album/4KOXgc6qhvbZaTAnLVzHmC) | 3:54 |
 | 13 | [Every Wish Deserves a Dream](https://open.spotify.com/track/0WRO7r36uDVlW6DDPF1Cxs) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [Every Wish Deserves a Dream](https://open.spotify.com/album/2nLWWWLKGIUtCbzFV8vfol) | 3:51 |
 | 14 | [Jamboree Mickey!](https://open.spotify.com/track/2O70g7QJJRskIbAF596CHm) | [Tokyo Disneyland](https://open.spotify.com/artist/5EPQb0h5U2AWk8OxzEWxx2) | [Jamboree Mickey!](https://open.spotify.com/album/6U9HfvlKv9jEcLF7xf3shY) | 3:20 |
-| 15 | [Steal The Show \- From "Elemental"](https://open.spotify.com/track/6R5fYCySNHrqo4Og6O1ppn) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Steal The Show \(From "Elemental"\)](https://open.spotify.com/album/1rMI4GKDwtz8Ok0e7jbE4l) | 3:11 |
+| 15 | [Steal The Show](https://open.spotify.com/track/0SccFtYdj75y6lL2OW10Cf) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Elemental \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7L15PXtti3kXEn7vTXi8ZV) | 3:12 |
 | 16 | [Under the Sea \- From "The Little Mermaid"/Soundtrack Version](https://open.spotify.com/track/3hsTuFLSfcD3Mt4tIdtqrY) | [Subaru Kimura](https://open.spotify.com/artist/6y2G1GveVx6UR9Mk6esFD6), [Cast \- The Little Mermaid](https://open.spotify.com/artist/433fI3xZoJp1D1dizEkJ3R) | [Under the Sea \(From "The Little Mermaid"/Soundtrack Version\)](https://open.spotify.com/album/5XksKAiSaaDbTg9wcLja1o) | 3:04 |
 | 17 | [Part of Your World \- From "The Little Mermaid"](https://open.spotify.com/track/2pcSENGQmdptFCBQ3HpKHe) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Part of Your World \(From "The Little Mermaid"\)](https://open.spotify.com/album/1cehuxhFNt8Q8Eobacb0YR) | 3:34 |
 | 18 | [Kiss the Girl](https://open.spotify.com/track/6FcOrtofHwhXq6MgsYZjBp) | [Subaru Kimura](https://open.spotify.com/artist/6y2G1GveVx6UR9Mk6esFD6), [Urara Takano](https://open.spotify.com/artist/47JSzOrAysonBH3v0HzWRq), [Yuto Noji](https://open.spotify.com/artist/3XhZtpTBE1MTnkKGu9Vj80), [Ensemble \- The Little Mermaid](https://open.spotify.com/artist/3WoPXSBmNV9DJnxZgnU224) | [The Little Mermaid \(Japanese Original Soundtrack\)](https://open.spotify.com/album/3AWE8IaYnKHHfwvtbibLt9) | 3:16 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 | 157 | [The Mad Tea Party / The Unbirthday Song / Twinkle Twinkle / Clean Cup Move Down / Mad Watch](https://open.spotify.com/track/0uDuqVAWCOYEH4qM3vWe1g) | [Kathryn Beaumont](https://open.spotify.com/artist/762gpacQ6WcT75zlkrc3Ls), [Edwynn](https://open.spotify.com/artist/3XX7VQJvnPuFrCSaHgexf5), [James Macdonald](https://open.spotify.com/artist/6Wr4qA7iyTKRag1Pyyuv2g), [Jerry Colonna](https://open.spotify.com/artist/4Rg7sNSGzUzaP1qkc5qVhc) | [Alice In Wonderland \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Sfipn1VH7Q0ZSPfXz7oOx) | 4:31 |
 | 158 | [Whistle While You Work](https://open.spotify.com/track/1ai54RVIzu7IKebNbPEwMv) | [Adriana Caselotti](https://open.spotify.com/artist/6AbQqiXLNLzvJSqq2383bZ) | [Snow White and the Seven Dwarfs \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5nmf2deiZ5EvAsc02RmzRk) | 3:23 |
 
-Snapshot ID: `MCwzZGM5ZGU4ZDljZmFkZmNmM2RkZGUyNjczZTVhNWU1MTUyNDcyNjAw`
+Snapshot ID: `MCw2MTMzNGJmOGI1MTdmMzg3NWRlZTE3YjUxYWVhZjBmYmNmNTA1ZGVj`

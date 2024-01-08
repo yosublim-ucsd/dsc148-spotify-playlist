@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Mata
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,871 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,812 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [noWy baTmAN](https://open.spotify.com/track/0YLPs2DX0TUhLZBlWtV6oQ) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [noWy baTmAN](https://open.spotify.com/album/5IjxyKPttlngllJPFmfSeE) | 2:49 |
 | 50 | [Sextape](https://open.spotify.com/track/77zPD9o9tBR5hhsxdDZJeV) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt), [Magiera](https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [Sextape / MTW](https://open.spotify.com/album/3CAUyLZPYc4wP4xOGeSoR2) | 3:13 |
 
-Snapshot ID: `MCxkZGE4MDVhOTNlMGRjY2RmNDgyYjdkYzIxODY5MWVmMjdhN2QxOTc0`
+Snapshot ID: `MCw0OTJhYzVmNTkyNzY4MWVhNjZkOTBmZGI2MzQ3NmQ4NDkwNzA1NGEy`

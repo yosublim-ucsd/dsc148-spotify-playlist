@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 455167,
+  "num_followers": 455310,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGExOTRiY2QwYTk5MmU3YzA5MjUwN2RjMjBhMWRkOGFmMTk3ODE5",
+  "snapshot_id": "MCwxOWJjOGNjNWQ1ZTE4NGIwNjUxOWE5YjVmZWMxNjlhM2M5NWUyZTVm",
   "tracks": [
     {
       "added_at": "2023-11-24 00:01:00",
@@ -353,6 +353,22 @@
       "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
     },
     {
+      "added_at": "2024-01-05 11:25:59",
+      "album": {
+        "name": "Lauren (I Can't Stay Forever)",
+        "url": "https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        }
+      ],
+      "duration_ms": 200550,
+      "name": "Lauren (I Can't Stay Forever)",
+      "url": "https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ"
+    },
+    {
       "added_at": "2023-11-24 00:01:00",
       "album": {
         "name": "Geography",
@@ -371,22 +387,6 @@
       "duration_ms": 261881,
       "name": "It Runs Through Me (feat. De La Soul)",
       "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
-    },
-    {
-      "added_at": "2024-01-05 11:25:59",
-      "album": {
-        "name": "Lauren (I Can't Stay Forever)",
-        "url": "https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7"
-      },
-      "artists": [
-        {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        }
-      ],
-      "duration_ms": 200550,
-      "name": "Lauren (I Can't Stay Forever)",
-      "url": "https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ"
     },
     {
       "added_at": "2024-01-05 11:25:59",

@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 953,
+  "num_followers": 955,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2E4ODc1YzYzY2NhMDNkZDY3ZDJiM2Q3NDIyZWNmZTAzZjYwYjRl",
+  "snapshot_id": "MCwzZjNmNTNhZmRhMmMyMDAwNzgwYmI2NjA5YjY0OTlmYzlhMWY2MjBi",
   "tracks": [
     {
       "added_at": "2023-11-24 04:39:56",
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-11-24 04:39:56",
       "album": {
+        "name": "Know God",
+        "url": "https://open.spotify.com/album/14xBAnMA04zeJCI0HXo9Fg"
+      },
+      "artists": [
+        {
+          "name": "Coopy Bly",
+          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
+        }
+      ],
+      "duration_ms": 202031,
+      "name": "Know God",
+      "url": "https://open.spotify.com/track/6yL4ywybJ7s2jy68inQNyH"
+    },
+    {
+      "added_at": "2023-11-24 04:39:56",
+      "album": {
         "name": "Star Gal",
         "url": "https://open.spotify.com/album/09xaNHKwYwZGVu3NLopjiJ"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 217704,
       "name": "Izulu",
       "url": "https://open.spotify.com/track/6bnLZdjBcPr02eVoQDUbRq"
-    },
-    {
-      "added_at": "2023-11-24 04:39:56",
-      "album": {
-        "name": "Know God",
-        "url": "https://open.spotify.com/album/14xBAnMA04zeJCI0HXo9Fg"
-      },
-      "artists": [
-        {
-          "name": "Coopy Bly",
-          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
-        }
-      ],
-      "duration_ms": 202031,
-      "name": "Know God",
-      "url": "https://open.spotify.com/track/6yL4ywybJ7s2jy68inQNyH"
     },
     {
       "added_at": "2023-11-24 04:39:56",

@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 359637,
+  "num_followers": 359641,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODc0ZWViNzUzNzM3YjAwNWU0ZjdkMGY0NWIwMDc4NDM0MzJmMzRl",
+  "snapshot_id": "MCw2NzkyZjJjMmYwNjQxZTQwMzAyZThkMDI3OTMyMGM0MmRjNzZiNDVj",
   "tracks": [
     {
       "added_at": "2023-03-31 04:11:02",
@@ -459,6 +459,22 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
+        "name": "Conex\u00e3o - EP",
+        "url": "https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 232273,
+      "name": "Love Is Stronger Than Pride",
+      "url": "https://open.spotify.com/track/12S0avZgcxEa4lJXC37tzX"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
         "name": "So Amazing: An All-Star Tribute To Luther Vandross",
         "url": "https://open.spotify.com/album/1ak4qUWrH8YSjA4u7MPVXL"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 250400,
       "name": "So Amazing",
       "url": "https://open.spotify.com/track/4dIlsObD9oacRCF9hJloyA"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "Conex\u00e3o - EP",
-        "url": "https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 232273,
-      "name": "Love Is Stronger Than Pride",
-      "url": "https://open.spotify.com/track/12S0avZgcxEa4lJXC37tzX"
     },
     {
       "added_at": "2021-01-15 05:01:00",

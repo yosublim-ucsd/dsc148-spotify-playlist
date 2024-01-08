@@ -1678,7 +1678,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 156800,
       "name": "city lights",
       "url": "https://open.spotify.com/track/40wyi0mBN9iJWvdYUnYbUI"
@@ -6842,6 +6842,24 @@
       "duration_ms": 244054,
       "name": "Music Saved My LIfe",
       "url": "https://open.spotify.com/track/196OGouq0ra4DRZQFvMNcJ"
+    },
+    {
+      "album": {
+        "name": "My Piano Is Mellow",
+        "url": "https://open.spotify.com/album/5xVX9rk2bIdXxS6nvnKcYb"
+      },
+      "artists": [
+        {
+          "name": "Daniel Fridell",
+          "url": "https://open.spotify.com/artist/4WG5037NDBAMyjzClxwmKK"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196912,
+      "name": "My Piano Is Mellow",
+      "url": "https://open.spotify.com/track/2BNiYyI8qELuU8EWShKVNE"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 51009,
+  "num_followers": 50994,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmYxZGM1OThlYjdmNzFlYmE3YTQyOWRjNjRkNjM3ZmI5Yjk1NTg2",
+  "snapshot_id": "MCw4MzQ5M2QwYjBlZmMwNWFkMzU3NGVmZDgxYzI4N2Y5MTQ2NzJlYjBm",
   "tracks": [
     {
       "added_at": "2023-06-20 14:37:46",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Gimme Light",
-        "url": "https://open.spotify.com/album/4FHDVRc9bE0EYRSfdfxozr"
-      },
-      "artists": [
-        {
-          "name": "Cyn Santana",
-          "url": "https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Gimme Light",
-      "url": "https://open.spotify.com/track/6OebtUbp6bdEzH2eFYvY7m"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "50 \u00e9xitos de salsa cubana",
         "url": "https://open.spotify.com/album/1WT0tVPiWIRGjgpyTvHciX"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 293173,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/73wEEHZH7sJwckufY0OEwb"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "Gimme Light",
+        "url": "https://open.spotify.com/album/4FHDVRc9bE0EYRSfdfxozr"
+      },
+      "artists": [
+        {
+          "name": "Cyn Santana",
+          "url": "https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Gimme Light",
+      "url": "https://open.spotify.com/track/6OebtUbp6bdEzH2eFYvY7m"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Sin Aire",
-        "url": "https://open.spotify.com/album/4NA7ABRbQr0hgnmmJXWjBd"
-      },
-      "artists": [
-        {
-          "name": "Rafa Pab\u00f6n",
-          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Sin Aire",
-      "url": "https://open.spotify.com/track/4m93OTJad26zWgEFprZICX"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "Sabor a Salsa",
         "url": "https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 376013,
       "name": "La rebelion",
       "url": "https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "Sin Aire",
+        "url": "https://open.spotify.com/album/4NA7ABRbQr0hgnmmJXWjBd"
+      },
+      "artists": [
+        {
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Sin Aire",
+      "url": "https://open.spotify.com/track/4m93OTJad26zWgEFprZICX"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Estyland EP",
-        "url": "https://open.spotify.com/album/5ippOikp37VeZaOJBhsUCN"
-      },
-      "artists": [
-        {
-          "name": "Esty",
-          "url": "https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq"
-        }
-      ],
-      "duration_ms": 173904,
-      "name": "7heaven",
-      "url": "https://open.spotify.com/track/7DCnJTsmnN25Xzu8gR8sAa"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "Haters y Fan\u00e1ticos",
         "url": "https://open.spotify.com/album/5ozdJlbZNDyinRp5MGXqsb"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 180853,
       "name": "Fettuccine",
       "url": "https://open.spotify.com/track/3Y21rqKVb3Rqf7FjRCK2EB"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "Estyland EP",
+        "url": "https://open.spotify.com/album/5ippOikp37VeZaOJBhsUCN"
+      },
+      "artists": [
+        {
+          "name": "Esty",
+          "url": "https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq"
+        }
+      ],
+      "duration_ms": 173904,
+      "name": "7heaven",
+      "url": "https://open.spotify.com/track/7DCnJTsmnN25Xzu8gR8sAa"
     },
     {
       "added_at": "2023-06-20 14:37:46",

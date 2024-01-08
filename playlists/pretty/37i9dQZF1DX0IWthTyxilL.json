@@ -1,12 +1,12 @@
 {
   "description": "Sons da floresta para inspirar seus dia ou noite.",
-  "num_followers": 10575,
+  "num_followers": 10587,
   "original_name": "Sons da Floresta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjRkY2FjNWQ0MzUzMDRhZjdiMWE5ZjkzY2Y2NGY0MmI0Y2NjYjM5",
+  "snapshot_id": "MCw5MmQ0YTRjOGRlZmUxZTZlMjc5OTRmMWY5YWMwOTk1OWYyNzI5ZTc1",
   "tracks": [
     {
       "added_at": "2023-06-19 12:57:37",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-06-19 12:57:37",
       "album": {
-        "name": "Rainy Summer Days",
-        "url": "https://open.spotify.com/album/6TpQ6fU21enN1K6iDu9Mij"
-      },
-      "artists": [
-        {
-          "name": "Natsound",
-          "url": "https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Forest Rain Frogs",
-      "url": "https://open.spotify.com/track/3gqUeE0MqS4I9caAXmYnMY"
-    },
-    {
-      "added_at": "2023-06-19 12:57:37",
-      "album": {
         "name": "Fresh Forest",
         "url": "https://open.spotify.com/album/2HvyUszsRZo8u0f1pca5fm"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 125573,
       "name": "Tropical Rainbirds",
       "url": "https://open.spotify.com/track/18TcUAVl6zWF81ns2ObwdJ"
+    },
+    {
+      "added_at": "2023-06-19 12:57:37",
+      "album": {
+        "name": "Rainy Summer Days",
+        "url": "https://open.spotify.com/album/6TpQ6fU21enN1K6iDu9Mij"
+      },
+      "artists": [
+        {
+          "name": "Natsound",
+          "url": "https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Forest Rain Frogs",
+      "url": "https://open.spotify.com/track/3gqUeE0MqS4I9caAXmYnMY"
     },
     {
       "added_at": "2023-06-19 12:57:37",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-06-19 12:57:37",
       "album": {
-        "name": "Fresh Forest",
-        "url": "https://open.spotify.com/album/2HvyUszsRZo8u0f1pca5fm"
-      },
-      "artists": [
-        {
-          "name": "Eskil Hermes",
-          "url": "https://open.spotify.com/artist/4RgayOFOiMm8j5DeeBpXby"
-        }
-      ],
-      "duration_ms": 157524,
-      "name": "Fresh Forest",
-      "url": "https://open.spotify.com/track/1EnpczqhePEswNjzfyirRV"
-    },
-    {
-      "added_at": "2023-06-19 12:57:37",
-      "album": {
         "name": "Thunderstorm",
         "url": "https://open.spotify.com/album/345w1De5Lt2L63DHc1kdYk"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 204186,
       "name": "Seal Cove Pond 10/30 8am",
       "url": "https://open.spotify.com/track/5sT358T58i5g3nbJHZ1U6F"
+    },
+    {
+      "added_at": "2023-06-19 12:57:37",
+      "album": {
+        "name": "Fresh Forest",
+        "url": "https://open.spotify.com/album/2HvyUszsRZo8u0f1pca5fm"
+      },
+      "artists": [
+        {
+          "name": "Eskil Hermes",
+          "url": "https://open.spotify.com/artist/4RgayOFOiMm8j5DeeBpXby"
+        }
+      ],
+      "duration_ms": 157524,
+      "name": "Fresh Forest",
+      "url": "https://open.spotify.com/track/1EnpczqhePEswNjzfyirRV"
     },
     {
       "added_at": "2023-06-19 12:57:37",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-06-19 12:57:37",
       "album": {
-        "name": "Forest Sounds",
-        "url": "https://open.spotify.com/album/4IGucO2BmKvLu7ynVb6r20"
-      },
-      "artists": [
-        {
-          "name": "Mother Earth Sounds",
-          "url": "https://open.spotify.com/artist/682dFb5qW5sDv3urY7IEqp"
-        }
-      ],
-      "duration_ms": 263236,
-      "name": "Far Away Forest",
-      "url": "https://open.spotify.com/track/22r1o9aEsXPTD47TEPOpYK"
-    },
-    {
-      "added_at": "2023-06-19 12:57:37",
-      "album": {
         "name": "For\u00eat & Oiseaux",
         "url": "https://open.spotify.com/album/4tVQpImvgsJdHIPkOT9lJe"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 151579,
       "name": "For\u00eat & Oiseaux",
       "url": "https://open.spotify.com/track/5RzgY7bYZLAAozNYUpeyi3"
+    },
+    {
+      "added_at": "2023-06-19 12:57:37",
+      "album": {
+        "name": "Forest Sounds",
+        "url": "https://open.spotify.com/album/4IGucO2BmKvLu7ynVb6r20"
+      },
+      "artists": [
+        {
+          "name": "Mother Earth Sounds",
+          "url": "https://open.spotify.com/artist/682dFb5qW5sDv3urY7IEqp"
+        }
+      ],
+      "duration_ms": 263236,
+      "name": "Far Away Forest",
+      "url": "https://open.spotify.com/track/22r1o9aEsXPTD47TEPOpYK"
     },
     {
       "added_at": "2023-06-19 12:57:37",

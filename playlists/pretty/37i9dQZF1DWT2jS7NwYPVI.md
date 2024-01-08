@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise rock & alt world\. Cover: SPRINTS
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,513 likes - 125 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,608 likes - 125 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 124 | [Big Air](https://open.spotify.com/track/4Lg9g0vN4guToh7068wPtT) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Big Air](https://open.spotify.com/album/0cB3kmKZuRiz1UvvNb7r7B) | 3:26 |
 | 125 | [Lip](https://open.spotify.com/track/49KU7hgM1KD3py8fNAAkPG) | [Mama Zu](https://open.spotify.com/artist/6OG25jh0gJ5FaFhw39eX2y) | [Lip](https://open.spotify.com/album/5PvUkKp9ifL4RpUcKjtHoQ) | 3:04 |
 
-Snapshot ID: `MCwzOTI1NTk2NjZjOWY2ZDgxNzI2NzU5NGY5Y2JkNTJkMzRmNjM4MTM2`
+Snapshot ID: `MCwzMDA1Y2M4NTBiMTcwZGZlMjRhZTVjM2ZkODM5NDhlYzYwNzk1YmMx`

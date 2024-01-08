@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 160224,
+  "num_followers": 160309,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWY4ZTkwYTAyM2QzZDQzYmZhMTQwODI1NzM5ZmMwMzliNWQ3ZTI5",
+  "snapshot_id": "MCwzMTA0YWEyMTQ3NWY2NWRkZjgxZDAyY2FmMGVmNGYxZmYxNTBkNzQz",
   "tracks": [
     {
       "added_at": "2024-01-03 18:31:37",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "A Mil",
-        "url": "https://open.spotify.com/album/2InkYfFJSLS5cIXt74tenM"
-      },
-      "artists": [
-        {
-          "name": "Cruzando El Charco",
-          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
-        }
-      ],
-      "duration_ms": 201584,
-      "name": "Terminales",
-      "url": "https://open.spotify.com/track/1x2uQwwfW59xIdKpPGOLKW"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
         "name": "Libertinaje",
         "url": "https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 205946,
       "name": "Se Viene",
       "url": "https://open.spotify.com/track/3sDmwlRdEdsb1BLDChJSJV"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "A Mil",
+        "url": "https://open.spotify.com/album/2InkYfFJSLS5cIXt74tenM"
+      },
+      "artists": [
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        }
+      ],
+      "duration_ms": 201584,
+      "name": "Terminales",
+      "url": "https://open.spotify.com/track/1x2uQwwfW59xIdKpPGOLKW"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Lo Que Somos",
-        "url": "https://open.spotify.com/album/5WyV76Ch7CH1oqDCt8VrNJ"
-      },
-      "artists": [
-        {
-          "name": "Cruzando El Charco",
-          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
-        }
-      ],
-      "duration_ms": 191530,
-      "name": "Soy",
-      "url": "https://open.spotify.com/track/2qlNflXsO7plqVz0vuC75H"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
         "name": "Otro D\u00eda en el Planeta Tierra",
         "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 247336,
       "name": "No Se Llama Amor",
       "url": "https://open.spotify.com/track/7q6HXszBhfxTPHWOxw8ehb"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "Lo Que Somos",
+        "url": "https://open.spotify.com/album/5WyV76Ch7CH1oqDCt8VrNJ"
+      },
+      "artists": [
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        }
+      ],
+      "duration_ms": 191530,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/2qlNflXsO7plqVz0vuC75H"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "A Mil",
-        "url": "https://open.spotify.com/album/2InkYfFJSLS5cIXt74tenM"
-      },
-      "artists": [
-        {
-          "name": "Cruzando El Charco",
-          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
-        }
-      ],
-      "duration_ms": 214651,
-      "name": "Volver a Nacer",
-      "url": "https://open.spotify.com/track/6mH8dpee5PZFA7L8QISURa"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
         "name": "Casi Justicia Social I",
         "url": "https://open.spotify.com/album/0WFzTYmc4FzB7slxvTgLky"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 317066,
       "name": "Oxidado",
       "url": "https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "A Mil",
+        "url": "https://open.spotify.com/album/2InkYfFJSLS5cIXt74tenM"
+      },
+      "artists": [
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        }
+      ],
+      "duration_ms": 214651,
+      "name": "Volver a Nacer",
+      "url": "https://open.spotify.com/track/6mH8dpee5PZFA7L8QISURa"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Vengo Del Placard De Otro",
-        "url": "https://open.spotify.com/album/3ljsgnB9LYYXmVmXIk5sby"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 244560,
-      "name": "Pepe Lui",
-      "url": "https://open.spotify.com/track/3dYlW2oy1sBMVCH5zst8le"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
         "name": "\u00a1Esta!",
         "url": "https://open.spotify.com/album/73gBcYaL37xI0SXqaZQq3K"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 203200,
       "name": "Desearia",
       "url": "https://open.spotify.com/track/0o7skuAa4pFEximHqk8anA"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "Vengo Del Placard De Otro",
+        "url": "https://open.spotify.com/album/3ljsgnB9LYYXmVmXIk5sby"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 244560,
+      "name": "Pepe Lui",
+      "url": "https://open.spotify.com/track/3dYlW2oy1sBMVCH5zst8le"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
+        "name": "Momo Sampler",
+        "url": "https://open.spotify.com/album/0omWExUGprwvcvYwGh3Vr0"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 220466,
+      "name": "Una Piba Con la Remera de Greenpeace",
+      "url": "https://open.spotify.com/track/6xxyN0K6opVJWMdQykqXQ7"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m"
       },
@@ -1047,6 +1063,22 @@
       "duration_ms": 199573,
       "name": "Me Gustas Mucho",
       "url": "https://open.spotify.com/track/7JvKnVhM6qksNREXInCsXo"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "Toro Rojo",
+        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 241946,
+      "name": "100 A\u00f1os",
+      "url": "https://open.spotify.com/track/7op5RCUvgqOJcKAs4rZw2N"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -1067,18 +1099,18 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Toro Rojo",
-        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
+        "name": "Verde Paisaje del Infierno",
+        "url": "https://open.spotify.com/album/0i2Y8YNiC3oQDFIsgWI3cP"
       },
       "artists": [
         {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
         }
       ],
-      "duration_ms": 241946,
-      "name": "100 A\u00f1os",
-      "url": "https://open.spotify.com/track/7op5RCUvgqOJcKAs4rZw2N"
+      "duration_ms": 256385,
+      "name": "Ruleta",
+      "url": "https://open.spotify.com/track/2tWlLCwEN7slVfcPjemDYJ"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -1211,38 +1243,6 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Momo Sampler",
-        "url": "https://open.spotify.com/album/0omWExUGprwvcvYwGh3Vr0"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 220466,
-      "name": "Una Piba Con la Remera de Greenpeace",
-      "url": "https://open.spotify.com/track/6xxyN0K6opVJWMdQykqXQ7"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
-        "name": "Verde Paisaje del Infierno",
-        "url": "https://open.spotify.com/album/0i2Y8YNiC3oQDFIsgWI3cP"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 256385,
-      "name": "Ruleta",
-      "url": "https://open.spotify.com/track/2tWlLCwEN7slVfcPjemDYJ"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
         "name": "P\u00e1nico",
         "url": "https://open.spotify.com/album/1T53gREvUUPSwN2dP1SZRy"
       },
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
+        "name": "Verde Paisaje del Infierno",
+        "url": "https://open.spotify.com/album/0i2Y8YNiC3oQDFIsgWI3cP"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 278386,
+      "name": "Vine Hasta Aqu\u00ed",
+      "url": "https://open.spotify.com/track/7LOkbiMpnZYbybdWuv7S4U"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
         "name": "No Se Lo Cuentes a Nadie",
         "url": "https://open.spotify.com/album/6D8HxOLAJntQgxD0NLX49p"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 222729,
       "name": "La Ca\u00f1ada",
       "url": "https://open.spotify.com/track/535yV2PsP1kwPji586uUK4"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
-        "name": "Mundo Imperfecto",
-        "url": "https://open.spotify.com/album/1a8ZNsUD375wEwTdzE2F8F"
-      },
-      "artists": [
-        {
-          "name": "La 25",
-          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
-        }
-      ],
-      "duration_ms": 246893,
-      "name": "Andrajoso",
-      "url": "https://open.spotify.com/track/3ibB1bUbvgHheGYlnSa9b9"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Sangre en Tus Luces",
-        "url": "https://open.spotify.com/album/19A9YHtIzbhB9oZlvzKOKi"
-      },
-      "artists": [
-        {
-          "name": "Sue\u00f1o de Pescado",
-          "url": "https://open.spotify.com/artist/45Mh2xppphSbyZluabCCJ1"
-        }
-      ],
-      "duration_ms": 224213,
-      "name": "Ojos Ventanal",
-      "url": "https://open.spotify.com/track/6ydfaB0QZaE2CieflySqEO"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
         "name": "Gardeliando",
         "url": "https://open.spotify.com/album/4hCEfpe6nzek67R3G1ktt3"
       },
@@ -1387,18 +1371,34 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Reflejo",
-        "url": "https://open.spotify.com/album/6FsAipsUvB2WP4o6ho5u2i"
+        "name": "Mundo Imperfecto",
+        "url": "https://open.spotify.com/album/1a8ZNsUD375wEwTdzE2F8F"
       },
       "artists": [
         {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+          "name": "La 25",
+          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
         }
       ],
-      "duration_ms": 259039,
-      "name": "Reflejo",
-      "url": "https://open.spotify.com/track/1RaYc8dytOsWlmL2bEuG2I"
+      "duration_ms": 246893,
+      "name": "Andrajoso",
+      "url": "https://open.spotify.com/track/3ibB1bUbvgHheGYlnSa9b9"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "Sangre en Tus Luces",
+        "url": "https://open.spotify.com/album/19A9YHtIzbhB9oZlvzKOKi"
+      },
+      "artists": [
+        {
+          "name": "Sue\u00f1o de Pescado",
+          "url": "https://open.spotify.com/artist/45Mh2xppphSbyZluabCCJ1"
+        }
+      ],
+      "duration_ms": 224213,
+      "name": "Ojos Ventanal",
+      "url": "https://open.spotify.com/track/6ydfaB0QZaE2CieflySqEO"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -1415,6 +1415,22 @@
       "duration_ms": 264106,
       "name": "Homero",
       "url": "https://open.spotify.com/track/3Ld5CT9BdPUqTkd9dnxny4"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "Reflejo",
+        "url": "https://open.spotify.com/album/6FsAipsUvB2WP4o6ho5u2i"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "duration_ms": 259039,
+      "name": "Reflejo",
+      "url": "https://open.spotify.com/track/1RaYc8dytOsWlmL2bEuG2I"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -1447,22 +1463,6 @@
       "duration_ms": 313520,
       "name": "Lo Que Nunca Te Dije",
       "url": "https://open.spotify.com/track/5gkNiqB4WzDX9pCHuCLgSa"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
-        "name": "Verde Paisaje del Infierno",
-        "url": "https://open.spotify.com/album/0i2Y8YNiC3oQDFIsgWI3cP"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 278386,
-      "name": "Vine Hasta Aqu\u00ed",
-      "url": "https://open.spotify.com/track/7LOkbiMpnZYbybdWuv7S4U"
     },
     {
       "added_at": "2024-01-03 18:31:37",

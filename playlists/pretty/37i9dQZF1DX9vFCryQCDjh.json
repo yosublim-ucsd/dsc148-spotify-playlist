@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2M0ZTA0MGQ3YTI4OTE4NmRiNmI3NWFkZDZlMTFjNDMyMWQ1ZTdm",
+  "snapshot_id": "MCwyMjdmNzE0YmRlYzcyYTA0OTdjN2M5ZDdkZTgwNjg4MjcwYjllMzRk",
   "tracks": [
     {
       "added_at": "2021-03-11 16:28:13",
@@ -267,8 +267,8 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "PERFECT LOVE",
-        "url": "https://open.spotify.com/album/5a9jEV89Z6yWa6zxam79of"
+        "name": "BORN AGAIN",
+        "url": "https://open.spotify.com/album/5t40BdoTOPrSnUcWDoGA6o"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
         }
       ],
-      "duration_ms": 200097,
-      "name": "White love",
-      "url": "https://open.spotify.com/track/3DMDjAQIOltnIUvIyUjUT4"
+      "duration_ms": 260832,
+      "name": "December",
+      "url": "https://open.spotify.com/track/5rpFNrOoB6rVKc0K8Gv9Qx"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -395,8 +395,8 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "BORN AGAIN",
-        "url": "https://open.spotify.com/album/5t40BdoTOPrSnUcWDoGA6o"
+        "name": "PERFECT LOVE",
+        "url": "https://open.spotify.com/album/5a9jEV89Z6yWa6zxam79of"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
         }
       ],
-      "duration_ms": 260832,
-      "name": "December",
-      "url": "https://open.spotify.com/track/5rpFNrOoB6rVKc0K8Gv9Qx"
+      "duration_ms": 200097,
+      "name": "White love",
+      "url": "https://open.spotify.com/track/3DMDjAQIOltnIUvIyUjUT4"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "\ud654\uc0b0",
-        "url": "https://open.spotify.com/album/05cmrYERspfIVBw3Hx57DV"
-      },
-      "artists": [
-        {
-          "name": "Park Sang Min",
-          "url": "https://open.spotify.com/artist/7nbE2lMt1tbp5y3Uivn0bu"
-        }
-      ],
-      "duration_ms": 265508,
-      "name": "\ubb34\uae30\uc5ec \uc798 \uc788\uac70\ub77c",
-      "url": "https://open.spotify.com/track/2r6mL74mX7G7BMAPqXBPsF"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "\uc0ac\ub791\ub9cc\uc0ac",
         "url": "https://open.spotify.com/album/6aJnz5ARKUGudgHG9Uquup"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 218026,
       "name": "\ub108\uc5d0\uac8c \uc6d0\ud55c\uac74",
       "url": "https://open.spotify.com/track/7hz9BEXxvhQtDkBhx0FHja"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "\ud654\uc0b0",
+        "url": "https://open.spotify.com/album/05cmrYERspfIVBw3Hx57DV"
+      },
+      "artists": [
+        {
+          "name": "Park Sang Min",
+          "url": "https://open.spotify.com/artist/7nbE2lMt1tbp5y3Uivn0bu"
+        }
+      ],
+      "duration_ms": 265508,
+      "name": "\ubb34\uae30\uc5ec \uc798 \uc788\uac70\ub77c",
+      "url": "https://open.spotify.com/track/2r6mL74mX7G7BMAPqXBPsF"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Funky Diva",
-        "url": "https://open.spotify.com/album/4lRrvmz53grVtlVdRPU2UU"
-      },
-      "artists": [
-        {
-          "name": "Diva",
-          "url": "https://open.spotify.com/artist/0CI6MkDddUbiuI8T7V5ZcF"
-        }
-      ],
-      "duration_ms": 210076,
-      "name": "\uadf8\ub798",
-      "url": "https://open.spotify.com/track/3z6VUjAfvYveNtr31Mxe4V"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "Jinusean",
         "url": "https://open.spotify.com/album/07cn1DunxVqvA3JINM9HKt"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 243910,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/1XZHPuWHpyaVRsgOW2OVoB"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "Funky Diva",
+        "url": "https://open.spotify.com/album/4lRrvmz53grVtlVdRPU2UU"
+      },
+      "artists": [
+        {
+          "name": "Diva",
+          "url": "https://open.spotify.com/artist/0CI6MkDddUbiuI8T7V5ZcF"
+        }
+      ],
+      "duration_ms": 210076,
+      "name": "\uadf8\ub798",
+      "url": "https://open.spotify.com/track/3z6VUjAfvYveNtr31Mxe4V"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
+        "name": "Suprise Party Collection",
+        "url": "https://open.spotify.com/album/0jmnDcZzDE0s4fjsXOR0QX"
+      },
+      "artists": [
+        {
+          "name": "Click-B",
+          "url": "https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w"
+        }
+      ],
+      "duration_ms": 208927,
+      "name": "Cowboy",
+      "url": "https://open.spotify.com/track/6pBKrXpNe0BHNfi8hJ5IEY"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
         "name": "Your Story (Special Repackage Album)",
         "url": "https://open.spotify.com/album/3M8GSIt125tSHaUV3eQqcL"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 243696,
       "name": "HOLD THE LINE (Feat. \uc870PD)",
       "url": "https://open.spotify.com/track/5KgZNBchs5ILtsvcpmUhRz"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "Suprise Party Collection",
-        "url": "https://open.spotify.com/album/0jmnDcZzDE0s4fjsXOR0QX"
-      },
-      "artists": [
-        {
-          "name": "Click-B",
-          "url": "https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w"
-        }
-      ],
-      "duration_ms": 208927,
-      "name": "Cowboy",
-      "url": "https://open.spotify.com/track/6pBKrXpNe0BHNfi8hJ5IEY"
     },
     {
       "added_at": "2021-03-11 16:28:13",

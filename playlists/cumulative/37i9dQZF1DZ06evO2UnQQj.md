@@ -4,7 +4,7 @@
 
 > This is Clara Lima\. The essential tracks, all in one playlist.
 
-53 songs - 3 hr 1 min
+54 songs - 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Sem Pressa](https://open.spotify.com/track/2OXDQSebDxwzT7hdIwvnA2) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Solar](https://open.spotify.com/album/4eUgqY4dye3VLv1WPvx1U5) | 2:50 | 2023-12-30 |  |
 | [Sempre Visando o Progresso](https://open.spotify.com/track/4Z4ah8IAeZqzSW8Efz5Yq6) | [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3), [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [DNASTY](https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn) | [Sempre Visando o Progresso](https://open.spotify.com/album/5ru7vWnmKXYF67WjjxIjmi) | 3:14 | 2023-12-30 |  |
 | [Seu Lugar](https://open.spotify.com/track/6pwlaxeaQsSGbZv5OTDs13) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Só Sei Falar de Amor](https://open.spotify.com/album/3JpZq1oauNz1PELKRSMJ0t) | 3:44 | 2023-12-30 |  |
-| [Som Que Vem Da Alma](https://open.spotify.com/track/0ODkSY6QEzdw4zwoqvAPs8) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M) | [Som Que Vem Da Alma](https://open.spotify.com/album/0aislI5bnqq7T3tcz9NIgr) | 2:42 | 2023-12-31 |  |
+| [Som Que Vem Da Alma](https://open.spotify.com/track/0ODkSY6QEzdw4zwoqvAPs8) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M) | [Som Que Vem Da Alma](https://open.spotify.com/album/0aislI5bnqq7T3tcz9NIgr) | 2:42 | 2023-12-31 | 2024-01-08 |
 | [Só por uma Noite](https://open.spotify.com/track/0XUEkVd54GrWUDISzGo1tQ) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Doncesão](https://open.spotify.com/artist/7D5NN6IlLcm4Mo2QPqAQFx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Só Sei Falar de Amor](https://open.spotify.com/album/3JpZq1oauNz1PELKRSMJ0t) | 3:13 | 2023-12-30 |  |
 | [Só Sei Falar de Amor](https://open.spotify.com/track/21Uw9Zc5WH4BebFZgOr6J9) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Só Sei Falar de Amor](https://open.spotify.com/album/3JpZq1oauNz1PELKRSMJ0t) | 3:28 | 2023-12-31 |  |
 | [Toda Toda](https://open.spotify.com/track/35fBex6jzadhipXBKPR7Ze) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Só Sei Falar de Amor](https://open.spotify.com/album/3JpZq1oauNz1PELKRSMJ0t) | 2:05 | 2023-12-30 |  |
@@ -61,5 +61,6 @@
 | [V.B.S V.B.D](https://open.spotify.com/track/61NFtoVZFTQlrJkWIIkPjc) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG) | [V.B.S V.B.D](https://open.spotify.com/album/7kybjaBd8TZI4k109DexRc) | 2:52 | 2023-12-30 | 2024-01-04 |
 | [Vai Brilhar](https://open.spotify.com/track/4w5BfrRV73OebK2Ui4TFN1) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M), [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq) | [Som Que Vem Da Alma](https://open.spotify.com/album/0aislI5bnqq7T3tcz9NIgr) | 2:52 | 2023-12-30 |  |
 | [Vida Luxo](https://open.spotify.com/track/5NEbNXZw9fQymLYzdddtkG) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Transgressão](https://open.spotify.com/album/35FcgAKlBZl6sgChnxzv8n) | 3:40 | 2023-12-30 |  |
+| [Último Dia](https://open.spotify.com/track/3B3DsSRT04bEaPrJBYK6Ft) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [Rodrigo Cartier](https://open.spotify.com/artist/6erNGWBPOWNYMyyPjV4qzI), [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG) | [Último Dia](https://open.spotify.com/album/1L6dbFVCvZLP2RcQF8gn7T) | 3:23 | 2024-01-07 |  |
 
 \*This playlist was first scraped on 2023-12-31. Prior content cannot be recovered.

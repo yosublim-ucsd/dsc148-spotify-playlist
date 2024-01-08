@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: ratbag
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,483 likes - 85 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,431 likes - 85 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 84 | [The Bright Service](https://open.spotify.com/track/6tJ1m1YUo4eKWflGZ4KT73) | [Thea Gilmore](https://open.spotify.com/artist/6YUCNP1BG3eCUWQ3zdSSRk) | [Thea Gilmore](https://open.spotify.com/album/6YyMkf7JFBRyxFW9yVXZHh) | 6:19 |
 | 85 | [Dream Job](https://open.spotify.com/track/5jZ0Q2yRYnI961sJbyWlK0) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Dream Job](https://open.spotify.com/album/4xeMI1fcnZJ4ndXFkMqhzO) | 2:44 |
 
-Snapshot ID: `MCxmMTNmNTI0MjQyZDY5MjQ0MTI2YTNhMTZmYmVlNzcyYzk2OWUxMDQ3`
+Snapshot ID: `MCxjYzZiYzFkMzIzZjY3Y2FkNzFmMDkxZDE4YjFlYmU5YTE1MjYxODQw`

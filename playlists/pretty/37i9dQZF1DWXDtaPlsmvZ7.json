@@ -1,12 +1,12 @@
 {
   "description": "A mover el cucu con estas cadenciosas versiones cumbiatizadas.",
-  "num_followers": 107968,
+  "num_followers": 107969,
   "original_name": "Cumbia Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTI2Yjg4OTg0ODgwN2QyN2IyYzVhYTZjODUwOWZiMzIzYzQ3MmNi",
+  "snapshot_id": "MCxhZmMzYzAwMWVhYWEzNGE5MmYzYTEyMWE3YTQ3ZjlkOWFkMDk4MjUy",
   "tracks": [
     {
       "added_at": "2023-01-25 00:22:47",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/3xk1sdgVmSKDY8aV5jpXo4"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 231521,
+      "name": "Desvelado",
+      "url": "https://open.spotify.com/track/5WkGaCMFbfGke7D1JMTe6p"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "El Efecto",
         "url": "https://open.spotify.com/album/5eCVCeHPbEy53Y4IVmarXb"
       },
@@ -663,22 +679,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/3xk1sdgVmSKDY8aV5jpXo4"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "duration_ms": 231521,
-      "name": "Desvelado",
-      "url": "https://open.spotify.com/track/5WkGaCMFbfGke7D1JMTe6p"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Lloviendo Estrellas",
         "url": "https://open.spotify.com/album/4ZQc6ZZUXLRs5A0a2mOMpw"
       },
@@ -691,26 +691,6 @@
       "duration_ms": 152281,
       "name": "Lloviendo Estrellas",
       "url": "https://open.spotify.com/track/21YzxJr5n5ljqXkOh2Rewy"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Juntos a la Par",
-        "url": "https://open.spotify.com/album/5BGFvYVx8rdJSAREh6jNCs"
-      },
-      "artists": [
-        {
-          "name": "Daniel Cardozo",
-          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
-        },
-        {
-          "name": "Natalia Corbal\u00e1n",
-          "url": "https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q"
-        }
-      ],
-      "duration_ms": 146834,
-      "name": "Juntos a la Par",
-      "url": "https://open.spotify.com/track/259PHSfv5ayeRJNvIjoDr5"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -731,6 +711,26 @@
       "duration_ms": 203059,
       "name": "Hotline Bling",
       "url": "https://open.spotify.com/track/6q3HqeduJaaZvoGkxcJEOb"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Juntos a la Par",
+        "url": "https://open.spotify.com/album/5BGFvYVx8rdJSAREh6jNCs"
+      },
+      "artists": [
+        {
+          "name": "Daniel Cardozo",
+          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
+        },
+        {
+          "name": "Natalia Corbal\u00e1n",
+          "url": "https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q"
+        }
+      ],
+      "duration_ms": 146834,
+      "name": "Juntos a la Par",
+      "url": "https://open.spotify.com/track/259PHSfv5ayeRJNvIjoDr5"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Que No Quede Huella",
-        "url": "https://open.spotify.com/album/2okjeW5I1Bsox3nHC8hXtb"
-      },
-      "artists": [
-        {
-          "name": "Maricarmen Marin",
-          "url": "https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz"
-        }
-      ],
-      "duration_ms": 229779,
-      "name": "Que No Quede Huella",
-      "url": "https://open.spotify.com/track/130fvcSaaPEqqwVAvaHfQK"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "El P\u00e1jaro Vio El Cielo y Se Vol\u00f3",
         "url": "https://open.spotify.com/album/5SWpyLFGaGUkL83v1i4Ysr"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 188000,
       "name": "El P\u00e1jaro Vio El Cielo y Se Vol\u00f3",
       "url": "https://open.spotify.com/track/2aJcujrPc21lVka5bvV6n5"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Que No Quede Huella",
+        "url": "https://open.spotify.com/album/2okjeW5I1Bsox3nHC8hXtb"
+      },
+      "artists": [
+        {
+          "name": "Maricarmen Marin",
+          "url": "https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz"
+        }
+      ],
+      "duration_ms": 229779,
+      "name": "Que No Quede Huella",
+      "url": "https://open.spotify.com/track/130fvcSaaPEqqwVAvaHfQK"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "2017 (#Veintediecisiete)",
-        "url": "https://open.spotify.com/album/6cOefEIxlLxmiK3oz0OypE"
+        "name": "\u00bfPor qu\u00e9 Te Vas?",
+        "url": "https://open.spotify.com/album/7IjO1vAxpTqnlKmzDcb01o"
       },
       "artists": [
         {
-          "name": "Nuevo Klan",
-          "url": "https://open.spotify.com/artist/6wwRGPHUmHBGYbyHnBa50u"
+          "name": "Elidian",
+          "url": "https://open.spotify.com/artist/1cmdGf7H8WvP2EImi02Vz4"
         }
       ],
-      "duration_ms": 278673,
-      "name": "Despacito",
-      "url": "https://open.spotify.com/track/4MJFHjrzeFsia49jrsh2lu"
+      "duration_ms": 215200,
+      "name": "\u00bfPor Qu\u00e9 Te Vas?",
+      "url": "https://open.spotify.com/track/5MyvrPjiTEq8KgJWFfzT9y"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "\u00bfPor qu\u00e9 Te Vas?",
-        "url": "https://open.spotify.com/album/7IjO1vAxpTqnlKmzDcb01o"
+        "name": "2017 (#Veintediecisiete)",
+        "url": "https://open.spotify.com/album/6cOefEIxlLxmiK3oz0OypE"
       },
       "artists": [
         {
-          "name": "Elidian",
-          "url": "https://open.spotify.com/artist/1cmdGf7H8WvP2EImi02Vz4"
+          "name": "Nuevo Klan",
+          "url": "https://open.spotify.com/artist/6wwRGPHUmHBGYbyHnBa50u"
         }
       ],
-      "duration_ms": 215200,
-      "name": "\u00bfPor Qu\u00e9 Te Vas?",
-      "url": "https://open.spotify.com/track/5MyvrPjiTEq8KgJWFfzT9y"
+      "duration_ms": 278673,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/4MJFHjrzeFsia49jrsh2lu"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "Procura",
+        "url": "https://open.spotify.com/album/0M0rRbZMiMlwEyXn06zJPy"
+      },
+      "artists": [
+        {
+          "name": "Cristian Jacobo",
+          "url": "https://open.spotify.com/artist/02HnByHOPN5e2RXNHZ9HhW"
+        }
+      ],
+      "duration_ms": 272626,
+      "name": "Procura",
+      "url": "https://open.spotify.com/track/4EhJSTlHXyP5dbz1CaZZmU"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "Ya No Tiene Novio (Version Cumbia)",
         "url": "https://open.spotify.com/album/6Ke6vYnNX8xsOHiLKl9m77"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 180600,
       "name": "Ya No Tiene Novio - Version Cumbia",
       "url": "https://open.spotify.com/track/2akbizyZrFqGzUZzSUQiVq"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Procura",
-        "url": "https://open.spotify.com/album/0M0rRbZMiMlwEyXn06zJPy"
-      },
-      "artists": [
-        {
-          "name": "Cristian Jacobo",
-          "url": "https://open.spotify.com/artist/02HnByHOPN5e2RXNHZ9HhW"
-        }
-      ],
-      "duration_ms": 272626,
-      "name": "Procura",
-      "url": "https://open.spotify.com/track/4EhJSTlHXyP5dbz1CaZZmU"
     },
     {
       "added_at": "2022-05-06 18:26:25",

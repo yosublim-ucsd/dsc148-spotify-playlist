@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Humanity's Last Breath
 
-517 songs - 1 day 9 hr 33 min
+518 songs - 1 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Dead Message](https://open.spotify.com/track/3CGRgtPsC3t5z4Wp28U0YQ) | [As Paradise Falls](https://open.spotify.com/artist/7BXFOz3QxY07FGTsI4er8J) | [Digital Ritual](https://open.spotify.com/album/4qENlJAWof4eiV9G0Iuaj4) | 3:20 | 2022-01-21 | 2022-01-26 |
 | [Dead Pacifist](https://open.spotify.com/track/6XQwdcU1l90Q57jPbOMyhb) | [Tactosa](https://open.spotify.com/artist/1maC5DWQKBAQqmjfp3qCpI) | [Exit Wounds](https://open.spotify.com/album/39q3NuRHTAQmPTBZRRhoRB) | 3:11 | 2023-01-20 |  |
 | [Dead Rabbit](https://open.spotify.com/track/3YQHk5o9uDDIBvTQ5tEKVl) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Dead Rabbit](https://open.spotify.com/album/3pR1R0B0l1WVieIcjzBIz0) | 3:11 | 2023-02-24 | 2023-12-24 |
+| [Dead Rabbit](https://open.spotify.com/track/6YnVxaVJSDi12MJD6XMUFI) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Dead Rabbit](https://open.spotify.com/album/1VMwMOt7ka9NWKwdaynncb) | 3:11 | 2023-12-13 |  |
 | [Deadly Potential](https://open.spotify.com/track/1JZx2mGv66ttbIExCIDytp) | [Unseen Faith](https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Deadly Potential](https://open.spotify.com/album/3MQj3V69ZtkWi9mLV3lcmy) | 3:04 | 2022-12-16 | 2023-01-19 |
 | [Death Magick](https://open.spotify.com/track/0lWZnBWW0UbN7t2r1b2CXi) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Death Magick](https://open.spotify.com/album/1Tn0srx1e04A3T2TfEJGss) | 7:07 | 2023-08-16 | 2023-11-13 |
 | [Death March](https://open.spotify.com/track/4v9IrQXFYYbeHGR9EOnnqR) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO) | [Death March](https://open.spotify.com/album/5XxLSif8ZxqAcAZIgLfRGm) | 3:11 | 2021-12-17 | 2022-07-29 |
@@ -281,7 +282,7 @@
 | [King Of Ruination](https://open.spotify.com/track/1eRZe6B0f1HZXqcWPF3z4K) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh), [Ben Duerr](https://open.spotify.com/artist/7a1cpOUMFElbFHwLsArfEp) | [King Of Ruination](https://open.spotify.com/album/5PIp9LGI371dv8UFlj8TTF) | 5:26 | 2023-12-13 | 2023-12-24 |
 | [King of the Rats](https://open.spotify.com/track/0FeY1KxlBQhALD6L6IaDog) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [King of the Rats](https://open.spotify.com/album/2BSdHM1FO3JJw97CWIS77P) | 2:53 | 2021-12-17 | 2023-04-15 |
 | [King Ov Fire](https://open.spotify.com/track/79Tk6FAVdwYretxYFbT9wk) | [Mental Cruelty](https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9) | [A Hill to Die Upon](https://open.spotify.com/album/79VMfL0k3LZFy95k6xTM5m) | 3:49 | 2021-12-17 |  |
-| [Lamb to the Slaughter](https://open.spotify.com/track/2PmKN9dJVJEwDuO9LI7AOs) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Lamb to the Slaughter](https://open.spotify.com/album/7G7lc2qjk47fMXGAYiec2n) | 3:50 | 2021-12-17 |  |
+| [Lamb to the Slaughter](https://open.spotify.com/track/2PmKN9dJVJEwDuO9LI7AOs) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Lamb to the Slaughter](https://open.spotify.com/album/7G7lc2qjk47fMXGAYiec2n) | 3:50 | 2021-12-17 | 2024-01-08 |
 | [Left in the Wake](https://open.spotify.com/track/6lg5kxB52nm8w0Tq3C1iEi) | [Mugshot](https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB) | [Left In The Wake](https://open.spotify.com/album/5QobPMRtyvAwC9GxkrcSzC) | 2:39 | 2023-06-16 | 2023-09-06 |
 | [Legends Never Die](https://open.spotify.com/track/7pvj0VmFmVN7vHA1b0Zc1V) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Legends Never Die](https://open.spotify.com/album/0MA84UyLUN8K07GhqAh0G0) | 4:29 | 2021-12-17 | 2022-07-29 |
 | [Lifeblood](https://open.spotify.com/track/7FEWI4TMXlzNIqvREwIhHd) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Lifeblood](https://open.spotify.com/album/0HKMrwsbf7v7IHHXhSHylS) | 4:17 | 2021-12-17 | 2022-12-13 |

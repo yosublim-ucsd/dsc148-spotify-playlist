@@ -1,12 +1,12 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 151707,
+  "num_followers": 151717,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTRjZWI5NjM4NjdkYmZhYTkzMjhmNzE2OTc1MzQxNzMxNGM2MGQ1",
+  "snapshot_id": "MCxlYTVmMDQ5NGNkZjAzNTNkOTk4ZmM2ZDQwMmUzMWUzZWJmYTQ0OGI2",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Pela F\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/09V3bEnCxW34i5XkCRl4o4"
+      },
+      "artists": [
+        {
+          "name": "Adhemar De Campos",
+          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
+        }
+      ],
+      "duration_ms": 252680,
+      "name": "Pela F\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/5WY6sqvKb3MnrrhrHDR5VQ"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Nada Se Compara",
         "url": "https://open.spotify.com/album/3UeS120DmaRg42viHosGU6"
       },
@@ -623,34 +639,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Pela F\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/09V3bEnCxW34i5XkCRl4o4"
+        "name": "Avante",
+        "url": "https://open.spotify.com/album/6ILLqsxadRd8B2BNA0oQk3"
       },
       "artists": [
         {
-          "name": "Adhemar De Campos",
-          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
         }
       ],
-      "duration_ms": 252680,
-      "name": "Pela F\u00e9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/5WY6sqvKb3MnrrhrHDR5VQ"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Jesus Cristo Mudou Meu Viver (What a Difference You've Made in My Life)",
-        "url": "https://open.spotify.com/album/0q1ZWtWIRqQyZfr9RX1Ws4"
-      },
-      "artists": [
-        {
-          "name": "Pablo Simplicio",
-          "url": "https://open.spotify.com/artist/6ftRI57Dy5WBwjZb8bk4f5"
-        }
-      ],
-      "duration_ms": 169318,
-      "name": "Jesus Cristo Mudou Meu Viver (What a Difference You've Made in My Life)",
-      "url": "https://open.spotify.com/track/1PwbhJqb9IucLGt7NXF4oo"
+      "duration_ms": 228735,
+      "name": "T\u00f4 Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/6bPzIPnHfGksLjrXRSJGbo"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Avante",
-        "url": "https://open.spotify.com/album/6ILLqsxadRd8B2BNA0oQk3"
+        "name": "Jesus Cristo Mudou Meu Viver (What a Difference You've Made in My Life)",
+        "url": "https://open.spotify.com/album/0q1ZWtWIRqQyZfr9RX1Ws4"
       },
       "artists": [
         {
-          "name": "Israel Salazar",
-          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+          "name": "Pablo Simplicio",
+          "url": "https://open.spotify.com/artist/6ftRI57Dy5WBwjZb8bk4f5"
         }
       ],
-      "duration_ms": 228735,
-      "name": "T\u00f4 Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/6bPzIPnHfGksLjrXRSJGbo"
+      "duration_ms": 169318,
+      "name": "Jesus Cristo Mudou Meu Viver (What a Difference You've Made in My Life)",
+      "url": "https://open.spotify.com/track/1PwbhJqb9IucLGt7NXF4oo"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Cante Louvor: Legado 40 Conex\u00f5es",
-        "url": "https://open.spotify.com/album/245T8eQMUyf53Sx85tCZ4O"
-      },
-      "artists": [
-        {
-          "name": "Adhemar De Campos",
-          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
-        }
-      ],
-      "duration_ms": 247744,
-      "name": "Cante Louvor: Legado 40 Conex\u00f5es",
-      "url": "https://open.spotify.com/track/7ce5qOUmxru6SaolIhiryx"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "C\u00e2ntico Novo",
         "url": "https://open.spotify.com/album/4QdKBokUDI0dnm3nJ2FKPK"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 174023,
       "name": "C\u00e2ntico Novo",
       "url": "https://open.spotify.com/track/2JwayPaEZNwn8qY3LoSotg"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Cante Louvor: Legado 40 Conex\u00f5es",
+        "url": "https://open.spotify.com/album/245T8eQMUyf53Sx85tCZ4O"
+      },
+      "artists": [
+        {
+          "name": "Adhemar De Campos",
+          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
+        }
+      ],
+      "duration_ms": 247744,
+      "name": "Cante Louvor: Legado 40 Conex\u00f5es",
+      "url": "https://open.spotify.com/track/7ce5qOUmxru6SaolIhiryx"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Soul Gospel",
-        "url": "https://open.spotify.com/album/0qIpBqACgyeA68ndfeMni3"
-      },
-      "artists": [
-        {
-          "name": "Thalita Pertuzatti",
-          "url": "https://open.spotify.com/artist/5jA3LhvXXKZrtZWYFxY1gg"
-        }
-      ],
-      "duration_ms": 191204,
-      "name": "Sangue de Jesus",
-      "url": "https://open.spotify.com/track/5DebScLy9XPILqkvhQ5vjK"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Diferente",
         "url": "https://open.spotify.com/album/1dmdddOHjsX9n9y21GEPYL"
       },
@@ -1055,6 +1039,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Soul Gospel",
+        "url": "https://open.spotify.com/album/0qIpBqACgyeA68ndfeMni3"
+      },
+      "artists": [
+        {
+          "name": "Thalita Pertuzatti",
+          "url": "https://open.spotify.com/artist/5jA3LhvXXKZrtZWYFxY1gg"
+        }
+      ],
+      "duration_ms": 191204,
+      "name": "Sangue de Jesus",
+      "url": "https://open.spotify.com/track/5DebScLy9XPILqkvhQ5vjK"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Te Adorar",
         "url": "https://open.spotify.com/album/7tXxdiOv0uaMinPIk4Ti14"
       },
@@ -1087,18 +1087,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Rei das Na\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/46eO3dzrbGtGhr2HPWRCvf"
+        "name": "Tudo Posso",
+        "url": "https://open.spotify.com/album/1Oi6eKip9Y6Y3I3fBk9TeJ"
       },
       "artists": [
         {
-          "name": "Luiz Arcanjo",
-          "url": "https://open.spotify.com/artist/3jhaArlXRtYY9R7GJrvcZ2"
+          "name": "ONE Service",
+          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
+        },
+        {
+          "name": "Lucas Augusto",
+          "url": "https://open.spotify.com/artist/7LSUgNEsBUVmqHBXeQQ2VR"
         }
       ],
-      "duration_ms": 221213,
-      "name": "Rei das Na\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/73YXZQaoyLTSUtq4IpGn6s"
+      "duration_ms": 397762,
+      "name": "Tudo Posso",
+      "url": "https://open.spotify.com/track/4UEfjgS7wC89PGIP2XFGzP"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1119,22 +1123,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Tudo Posso",
-        "url": "https://open.spotify.com/album/1Oi6eKip9Y6Y3I3fBk9TeJ"
+        "name": "Rei das Na\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/46eO3dzrbGtGhr2HPWRCvf"
       },
       "artists": [
         {
-          "name": "ONE Service",
-          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
-        },
-        {
-          "name": "Lucas Augusto",
-          "url": "https://open.spotify.com/artist/7LSUgNEsBUVmqHBXeQQ2VR"
+          "name": "Luiz Arcanjo",
+          "url": "https://open.spotify.com/artist/3jhaArlXRtYY9R7GJrvcZ2"
         }
       ],
-      "duration_ms": 397762,
-      "name": "Tudo Posso",
-      "url": "https://open.spotify.com/track/4UEfjgS7wC89PGIP2XFGzP"
+      "duration_ms": 221213,
+      "name": "Rei das Na\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/73YXZQaoyLTSUtq4IpGn6s"
     },
     {
       "added_at": "2023-12-22 03:00:00",

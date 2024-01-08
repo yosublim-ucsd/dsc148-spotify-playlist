@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Yoly Saa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,202 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,235 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,12 +62,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 52 | [Solo Le Dije](https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Algo Ritmos](https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc) | 3:56 |
 | 53 | [Chavela](https://open.spotify.com/track/0rZrzVHDc6k3EYnAnIhUel) | [Malva Vela](https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz) | [Rúbrica X](https://open.spotify.com/album/1NOmwE4eto86tiCnzwoWEq) | 3:05 |
 | 54 | [Brindo](https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Brindo](https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn) | 3:18 |
-| 55 | [ahí atrás \(miedo en el mar\)](https://open.spotify.com/track/4xcZZdAB9IZ9mOFrC9cmsL) | [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS) | [ahí atrás \(miedo en el mar\)](https://open.spotify.com/album/0r6JJGfoXpCqOPvGCh9Sup) | 3:53 |
-| 56 | [10 km](https://open.spotify.com/track/1yZrJPsWRXg5fqeEozTI6L) | [Mercedes Cañas](https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb) | [Que Entren En Mi Cabeza](https://open.spotify.com/album/6GDCV6UWVgWDyiaw8QVQPz) | 2:37 |
+| 55 | [10 km](https://open.spotify.com/track/1yZrJPsWRXg5fqeEozTI6L) | [Mercedes Cañas](https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb) | [Que Entren En Mi Cabeza](https://open.spotify.com/album/6GDCV6UWVgWDyiaw8QVQPz) | 2:37 |
+| 56 | [ahí atrás \(miedo en el mar\)](https://open.spotify.com/track/4xcZZdAB9IZ9mOFrC9cmsL) | [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS) | [ahí atrás \(miedo en el mar\)](https://open.spotify.com/album/0r6JJGfoXpCqOPvGCh9Sup) | 3:53 |
 | 57 | [El don de la ternura](https://open.spotify.com/track/41ayfvA3f3ifvFybiSVg9F) | [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [Mundos inmóviles derrumbándose](https://open.spotify.com/album/5FDxWtFRwB67KSOCE690U5) | 4:57 |
 | 58 | [Coplas \(feat\. Perotá Chingó\)](https://open.spotify.com/track/2kkyLncwbTHKUL2JYmOmY9) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [La Sangre del Mundo](https://open.spotify.com/album/4evmLCkaMMRzMxZXHYHG3H) | 4:24 |
-| 59 | [Canción de boda](https://open.spotify.com/track/2bAofGOs0dpLpOtnhk6bqd) | [Christina Rosenvinge](https://open.spotify.com/artist/7MignPwWd7ZxlPi54KtLpp), [Maria Arnal](https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm) | [Los versos sáficos](https://open.spotify.com/album/6gOgdemsUT1qHDVMlEDmNi) | 3:34 |
-| 60 | [Péndulo \(feat\. Juan Pablo Vega\)](https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Herminia](https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5) | 3:05 |
+| 59 | [Péndulo \(feat\. Juan Pablo Vega\)](https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Herminia](https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5) | 3:05 |
+| 60 | [Canción de boda](https://open.spotify.com/track/2bAofGOs0dpLpOtnhk6bqd) | [Christina Rosenvinge](https://open.spotify.com/artist/7MignPwWd7ZxlPi54KtLpp), [Maria Arnal](https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm) | [Los versos sáficos](https://open.spotify.com/album/6gOgdemsUT1qHDVMlEDmNi) | 3:34 |
 | 61 | [Tu Casa](https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU) | [Lola Parda](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [Tu Casa](https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH) | 3:20 |
 | 62 | [tu recuerdo \(verde otoño\)](https://open.spotify.com/track/7lm2Q0zldRU3caAqdeCpz4) | [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS) | [tu recuerdo \(verde otoño\)](https://open.spotify.com/album/1Xd6GKEZU54VsBjlM6VrSx) | 2:35 |
 | 63 | [Condenada](https://open.spotify.com/track/4S3EogdoSuj7kFJYEsxWxq) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [Condenada](https://open.spotify.com/album/1NLWAbskSfGUvgKZSzJ40d) | 2:49 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 93 | [Alma en Vilo](https://open.spotify.com/track/4GlgzFZp9FyYXiT2hJSyzM) | [Eudald Payés](https://open.spotify.com/artist/72atXcV9ekLP3iDmLD0BDc), [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Pol Batlle](https://open.spotify.com/artist/7DIjIDnFSYofxjb1ARdOM5), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [Alma en Vilo](https://open.spotify.com/album/1s9LyYHwxNbQ3kNUVD2Wjd) | 4:18 |
 | 94 | [Claroscuro](https://open.spotify.com/track/4NsXyQdZ80dXlGwLMyzUEz) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB) | [Claroscuro](https://open.spotify.com/album/4RLLGLmJOwqsrq2H4DLUfo) | 4:30 |
 | 95 | [Una Fecha En El Calendario](https://open.spotify.com/track/5OXMu7jOqr8f6R2JLYNncO) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 3:58 |
-| 96 | [Sana sana](https://open.spotify.com/track/3tpwqGiVb86UmDj5TA86mV) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Sana sana](https://open.spotify.com/album/1piUtiyESANVRuWdVNSoZJ) | 5:02 |
-| 97 | [Mareas](https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Mareas](https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj) | 3:49 |
+| 96 | [Mareas](https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Mareas](https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj) | 3:49 |
+| 97 | [Sana sana](https://open.spotify.com/track/3tpwqGiVb86UmDj5TA86mV) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Sana sana](https://open.spotify.com/album/1piUtiyESANVRuWdVNSoZJ) | 5:02 |
 | 98 | [Amor Libre](https://open.spotify.com/track/6fFG7bHilanpAAbEu9jF95) | [Rocio Igarzabal](https://open.spotify.com/artist/7HzX50l6Oi0gFLTkdHJcOZ), [Lola Parda](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [Amor Libre](https://open.spotify.com/album/0FCNWttcDi6rF5pRuwppVx) | 3:05 |
 | 99 | [A volar \(feat\. Lido Pimienta\)](https://open.spotify.com/track/5KnFKXycHFZhchoOjFASU1) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [A volar \(feat\. Lido Pimienta\)](https://open.spotify.com/album/39dGTpmBPRDjT0NRpnyoOO) | 3:37 |
 | 100 | [Coraje](https://open.spotify.com/track/7sSwZjHuVizoX7SrOMLa8G) | [Carla Collado](https://open.spotify.com/artist/4Fh3faF6TO5bKFMGChmE9S) | [Coraje](https://open.spotify.com/album/0h7ULBfNwNF1GLiqAwfk8R) | 3:41 |
 
-Snapshot ID: `MCwyMDk4ZDBjNmJhMzFmN2QyMjE4ODM1MjE2MmEwNTIxNDdkODBhMDFi`
+Snapshot ID: `MCwxMWNiYzE4YTUxMmQ5ZWQ3ZTQxYzc2MDAwODc5ZmUyM2E1MjZiMzAy`

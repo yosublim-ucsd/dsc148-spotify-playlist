@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 77337,
+  "num_followers": 77388,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGQyZGRiNjRlNGQ3MDc1MGJlOTM4NDJiNGFlZDdhZDgyMDM1YzFk",
+  "snapshot_id": "MCxhZjU2MGI4OWEzMGI5ODkxZWJlY2Q2ZTFiNjRkNjAyOTA1NjFmYWVk",
   "tracks": [
     {
       "added_at": "2023-12-20 18:45:06",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-12-20 18:45:06",
       "album": {
-        "name": "30 Grandes De Infante",
-        "url": "https://open.spotify.com/album/0AJKbcwcTiVr6bSxZhxIyc"
-      },
-      "artists": [
-        {
-          "name": "Infante",
-          "url": "https://open.spotify.com/artist/0CUGdPMu03lV9TNf2wjunj"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/2PKXhSPdSw8W2KqZZneoy6"
-    },
-    {
-      "added_at": "2023-12-20 18:45:06",
-      "album": {
         "name": "Cuba: Bienvenido Granda",
         "url": "https://open.spotify.com/album/3RxQinQEYdWBtAZkrMGfRt"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 170811,
       "name": "En la orilla del mar (Bolero version)",
       "url": "https://open.spotify.com/track/4ok44lUrhQgJEoyQq5Ot3N"
+    },
+    {
+      "added_at": "2023-12-20 18:45:06",
+      "album": {
+        "name": "30 Grandes De Infante",
+        "url": "https://open.spotify.com/album/0AJKbcwcTiVr6bSxZhxIyc"
+      },
+      "artists": [
+        {
+          "name": "Infante",
+          "url": "https://open.spotify.com/artist/0CUGdPMu03lV9TNf2wjunj"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/2PKXhSPdSw8W2KqZZneoy6"
     },
     {
       "added_at": "2023-12-20 18:45:06",
@@ -363,22 +363,18 @@
     {
       "added_at": "2023-12-20 18:45:06",
       "album": {
-        "name": "Un Canto por M\u00e9xico, Vol. II",
-        "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
+        "name": "Musica...Recuerdo Inolvidable",
+        "url": "https://open.spotify.com/album/7pZ3OkH9YbE4zebon4dvhl"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "El Super Trio",
+          "url": "https://open.spotify.com/artist/00l3EIgirx9uXQBTn2JMUo"
         }
       ],
-      "duration_ms": 222453,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/4SL8wbnGRP0nkIYyjeIKRU"
+      "duration_ms": 159240,
+      "name": "Se Rompio la Cadena",
+      "url": "https://open.spotify.com/track/7HO4ZsjFfOy30yhTssf643"
     },
     {
       "added_at": "2023-12-20 18:45:06",
@@ -399,18 +395,22 @@
     {
       "added_at": "2023-12-20 18:45:06",
       "album": {
-        "name": "Musica...Recuerdo Inolvidable",
-        "url": "https://open.spotify.com/album/7pZ3OkH9YbE4zebon4dvhl"
+        "name": "Un Canto por M\u00e9xico, Vol. II",
+        "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
       },
       "artists": [
         {
-          "name": "El Super Trio",
-          "url": "https://open.spotify.com/artist/00l3EIgirx9uXQBTn2JMUo"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 159240,
-      "name": "Se Rompio la Cadena",
-      "url": "https://open.spotify.com/track/7HO4ZsjFfOy30yhTssf643"
+      "duration_ms": 222453,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/4SL8wbnGRP0nkIYyjeIKRU"
     },
     {
       "added_at": "2023-12-20 18:45:06",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-12-20 18:45:06",
       "album": {
-        "name": "A\u00f1oranza Del Amor",
-        "url": "https://open.spotify.com/album/16XbyQNgGpgeIL36kLTbR4"
-      },
-      "artists": [
-        {
-          "name": "Alex Eugenio",
-          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
-        }
-      ],
-      "duration_ms": 178466,
-      "name": "A\u00f1oranza Del Amor",
-      "url": "https://open.spotify.com/track/1auJ2tnUfJ0ML5Kv5vWMeC"
-    },
-    {
-      "added_at": "2023-12-20 18:45:06",
-      "album": {
         "name": "Mucho Coraz\u00f3n",
         "url": "https://open.spotify.com/album/7vJaotg3rgAIezud8FO4QU"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 191000,
       "name": "Esc\u00e1ndalo / Luz y Sombra",
       "url": "https://open.spotify.com/track/3L1iwOmLRPkzYLf8IPNZuJ"
+    },
+    {
+      "added_at": "2023-12-20 18:45:06",
+      "album": {
+        "name": "A\u00f1oranza Del Amor",
+        "url": "https://open.spotify.com/album/16XbyQNgGpgeIL36kLTbR4"
+      },
+      "artists": [
+        {
+          "name": "Alex Eugenio",
+          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
+        }
+      ],
+      "duration_ms": 178466,
+      "name": "A\u00f1oranza Del Amor",
+      "url": "https://open.spotify.com/track/1auJ2tnUfJ0ML5Kv5vWMeC"
     },
     {
       "added_at": "2023-12-20 18:45:06",

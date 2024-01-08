@@ -1,12 +1,12 @@
 {
   "description": "Os hits j\u00e1 consagrados e os novos nomes pop dividindo o mesmo palco!  / Foto: Ana Castela, Ludmilla",
-  "num_followers": 368660,
+  "num_followers": 368662,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTljMGRkOTc5YmZmMGM4MDc3YTY5MjNmN2NkNGU5YWExNTFmNWY5",
+  "snapshot_id": "MCwzNzljM2U4MzJhODk2OWFlYzYzMTYzMWQzNWZhODg5N2Q0OTNiOTc2",
   "tracks": [
     {
       "added_at": "2024-01-05 14:33:30",
@@ -119,22 +119,6 @@
     {
       "added_at": "2024-01-05 14:33:30",
       "album": {
-        "name": "Piloto",
-        "url": "https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU"
-      },
-      "artists": [
-        {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Piloto",
-      "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
-    },
-    {
-      "added_at": "2024-01-05 14:33:30",
-      "album": {
         "name": "Sugar Papi",
         "url": "https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 187153,
       "name": "Sou Musa do Ver\u00e3o",
       "url": "https://open.spotify.com/track/2cZ62VBKsdZ7u1kKKJdFOc"
+    },
+    {
+      "added_at": "2024-01-05 14:33:30",
+      "album": {
+        "name": "Piloto",
+        "url": "https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU"
+      },
+      "artists": [
+        {
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Piloto",
+      "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
     },
     {
       "added_at": "2024-01-05 14:33:30",
@@ -703,30 +703,6 @@
     {
       "added_at": "2024-01-05 14:33:30",
       "album": {
-        "name": "Minha Arte",
-        "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        }
-      ],
-      "duration_ms": 223912,
-      "name": "Minha Arte",
-      "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
-    },
-    {
-      "added_at": "2024-01-05 14:33:30",
-      "album": {
         "name": "Princesinha",
         "url": "https://open.spotify.com/album/1u09TfxCEGXrUh8Jbuedxc"
       },
@@ -751,6 +727,30 @@
       "duration_ms": 147850,
       "name": "Princesinha",
       "url": "https://open.spotify.com/track/0tMkiGINaYI9C4cxvD6LTc"
+    },
+    {
+      "added_at": "2024-01-05 14:33:30",
+      "album": {
+        "name": "Minha Arte",
+        "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        }
+      ],
+      "duration_ms": 223912,
+      "name": "Minha Arte",
+      "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
     },
     {
       "added_at": "2024-01-05 14:33:30",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2024-01-05 14:33:30",
       "album": {
+        "name": "31",
+        "url": "https://open.spotify.com/album/1zdl2g07b86asvSAFwVY6C"
+      },
+      "artists": [
+        {
+          "name": "Manu Gavassi",
+          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
+        }
+      ],
+      "duration_ms": 251611,
+      "name": "31",
+      "url": "https://open.spotify.com/track/5mJbLqzvoRio2PeuuPcUuU"
+    },
+    {
+      "added_at": "2024-01-05 14:33:30",
+      "album": {
         "name": "Bomba",
         "url": "https://open.spotify.com/album/50fMxICIH05gOr9npaZiPo"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 166363,
       "name": "Dejav\u00fa",
       "url": "https://open.spotify.com/track/5dPKKScSdOpIQuUHVFU7HG"
-    },
-    {
-      "added_at": "2024-01-05 14:33:30",
-      "album": {
-        "name": "31",
-        "url": "https://open.spotify.com/album/1zdl2g07b86asvSAFwVY6C"
-      },
-      "artists": [
-        {
-          "name": "Manu Gavassi",
-          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
-        }
-      ],
-      "duration_ms": 251611,
-      "name": "31",
-      "url": "https://open.spotify.com/track/5mJbLqzvoRio2PeuuPcUuU"
     },
     {
       "added_at": "2024-01-05 14:33:30",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-01-05 14:33:30",
       "album": {
+        "name": "Som Da Minha Casa",
+        "url": "https://open.spotify.com/album/7baL0IZSoNpKjn5aNykKhc"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00eda",
+          "url": "https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u"
+        }
+      ],
+      "duration_ms": 146933,
+      "name": "Vou Atr\u00e1s",
+      "url": "https://open.spotify.com/track/5Q5VE9VJtiroXsLxTQWOGM"
+    },
+    {
+      "added_at": "2024-01-05 14:33:30",
+      "album": {
         "name": "Caliente",
         "url": "https://open.spotify.com/album/7fzqKhbzHBuOnbo2yeTWr2"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 133636,
       "name": "Caliente",
       "url": "https://open.spotify.com/track/2TrAxb7dg65ZFHoMzrGhcN"
-    },
-    {
-      "added_at": "2024-01-05 14:33:30",
-      "album": {
-        "name": "Som Da Minha Casa",
-        "url": "https://open.spotify.com/album/7baL0IZSoNpKjn5aNykKhc"
-      },
-      "artists": [
-        {
-          "name": "Mal\u00eda",
-          "url": "https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u"
-        }
-      ],
-      "duration_ms": 146933,
-      "name": "Vou Atr\u00e1s",
-      "url": "https://open.spotify.com/track/5Q5VE9VJtiroXsLxTQWOGM"
     },
     {
       "added_at": "2024-01-05 14:33:30",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2024-01-05 14:33:30",
       "album": {
+        "name": "TRI \u00c2NGULOS",
+        "url": "https://open.spotify.com/album/35xX4lBuUsBuUmXOUk1t6Z"
+      },
+      "artists": [
+        {
+          "name": "Lell\u00ea",
+          "url": "https://open.spotify.com/artist/5RNZjjf0s20cEXRfCbQ8pY"
+        }
+      ],
+      "duration_ms": 119874,
+      "name": "PEGADA DE CRIA",
+      "url": "https://open.spotify.com/track/1W5wFjPqDDKv8tSLHQ2VPt"
+    },
+    {
+      "added_at": "2024-01-05 14:33:30",
+      "album": {
         "name": "Afropaty",
         "url": "https://open.spotify.com/album/5fOaa75x89O1eBzazgjGu7"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 142000,
       "name": "Afropaty",
       "url": "https://open.spotify.com/track/3MtyP815SMmI3bMeLnxDWB"
-    },
-    {
-      "added_at": "2024-01-05 14:33:30",
-      "album": {
-        "name": "TRI \u00c2NGULOS",
-        "url": "https://open.spotify.com/album/35xX4lBuUsBuUmXOUk1t6Z"
-      },
-      "artists": [
-        {
-          "name": "Lell\u00ea",
-          "url": "https://open.spotify.com/artist/5RNZjjf0s20cEXRfCbQ8pY"
-        }
-      ],
-      "duration_ms": 119874,
-      "name": "PEGADA DE CRIA",
-      "url": "https://open.spotify.com/track/1W5wFjPqDDKv8tSLHQ2VPt"
     },
     {
       "added_at": "2024-01-05 14:33:30",

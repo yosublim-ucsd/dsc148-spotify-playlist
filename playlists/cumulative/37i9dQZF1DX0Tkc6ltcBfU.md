@@ -4,7 +4,7 @@
 
 > The hottest out the south\. Cover: BabyDrill
 
-1,015 songs - 2 day 0 hr 20 min
+1,016 songs - 2 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,7 +348,8 @@
 | [Gleecin \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/3MK1cTENZGGYtjuwBue1Va) | [Dee Watkins](https://open.spotify.com/artist/5cNn5kF2qKIOtBQJ2z4FM3), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Quail Lane Baby](https://open.spotify.com/album/3wuXWLb7E0oy61UtBh5FvH) | 2:56 | 2022-10-28 | 2022-11-12 |
 | [Glizock & Wizop \(feat\. Key Glock\)](https://open.spotify.com/track/0zbGWzQkLY5wn4xyiLYEi0) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glizock & Wizop \(feat\. Key Glock\)](https://open.spotify.com/album/4ocf6wJAV6NJCBn8nTkeaj) | 3:12 | 2023-10-13 |  |
 | [Glory](https://open.spotify.com/track/7fvp5QxFPZrv5eFY6EXp9o) | [Ace Hood](https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale) | [Glory](https://open.spotify.com/album/7glPCixt19lrdyGMIVxQJd) | 2:27 | 2022-03-01 | 2022-04-09 |
-| [GO](https://open.spotify.com/track/5ATScHOUqLnEDCaWxWVBOX) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [GO](https://open.spotify.com/album/1dnWvaI9lrglrLG743WdYO) | 2:55 | 2023-12-01 |  |
+| [GO](https://open.spotify.com/track/5ATScHOUqLnEDCaWxWVBOX) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [GO](https://open.spotify.com/album/1dnWvaI9lrglrLG743WdYO) | 2:55 | 2023-12-01 | 2024-01-08 |
+| [GO](https://open.spotify.com/track/7vetMRZgH4a2Pod2VY4oac) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [It's Me, I'm The Problem](https://open.spotify.com/album/1ZcqPAtwRqeJZ2XGVPTkW4) | 2:55 | 2024-01-05 |  |
 | [Go Down \(feat\. TisaKorean\)](https://open.spotify.com/track/2Qr5PWUt8XycAAv338LicY) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:30 | 2023-02-24 | 2023-03-11 |
 | [Go Hard](https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Go Hard](https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo) | 3:37 | 2023-05-05 | 2023-07-08 |
 | [Go To Hell](https://open.spotify.com/track/2Yd5D02hVICrlpMvd4JOqc) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Go To Hell](https://open.spotify.com/album/0lVsaUVTURhkRAOEv6hwhI) | 3:39 | 2023-11-10 | 2023-12-16 |

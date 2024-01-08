@@ -4,7 +4,7 @@
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-676 songs - 1 day 3 hr 21 min
+677 songs - 1 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Chill Sunday](https://open.spotify.com/track/73iDfMEG9TA3nUa4uimF5M) | [Lotus Beats](https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI), [Smoodmood](https://open.spotify.com/artist/5gWiSoKQnuzN6SzukwZhei), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Chill Sunday](https://open.spotify.com/album/3VDNyeqxKu5L5HsfMrSzv0) | 1:51 | 2023-09-08 | 2023-09-23 |
 | [chillin' at cosmic flight](https://open.spotify.com/track/5fxbWUC21KPOTVDfUVuyFF) | [middt](https://open.spotify.com/artist/3u78iBx7E3vzHHhc47gdTf) | [chillin' at cosmic flight](https://open.spotify.com/album/3KVdh66EJZmY7jh41ydTNu) | 2:45 | 2023-09-08 |  |
 | [City Glow](https://open.spotify.com/track/08MUoQtJnUQjEfFO6Nyv5a) | [ELEWAKA](https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq) | [City Glow](https://open.spotify.com/album/2zZYmrXtRsIElvMmWtOA7d) | 2:55 | 2023-09-08 |  |
-| [city lights](https://open.spotify.com/track/40wyi0mBN9iJWvdYUnYbUI) | [flwrz](https://open.spotify.com/artist/1e6Ke7g6UOnYMqXt4Da9kU) | [city lights](https://open.spotify.com/album/09BvRWVWRBNQ471rGLMXeE) | 2:36 | 2023-09-08 |  |
+| [city lights](https://open.spotify.com/track/40wyi0mBN9iJWvdYUnYbUI) | [flwrz](https://open.spotify.com/artist/1e6Ke7g6UOnYMqXt4Da9kU) | [city lights](https://open.spotify.com/album/09BvRWVWRBNQ471rGLMXeE) | 2:36 | 2023-09-08 | 2024-01-08 |
 | [Clarity](https://open.spotify.com/track/1dybFHd0ge6XP8Yjy8ub22) | [Litu Ritu](https://open.spotify.com/artist/3PSahIv0mhBptzduLsuEJU) | [Hyperloop](https://open.spotify.com/album/6TlRciT120PQPOxplEQB9y) | 4:19 | 2022-02-17 | 2023-09-09 |
 | [Classics](https://open.spotify.com/track/46DIcl7UFS8sw7LEJx03zd) | [Type Beats](https://open.spotify.com/artist/63ptKgVn8Gh1Zc8BZMYKze) | [LA instrumentals BKP](https://open.spotify.com/album/4Rjj8lNDBisPqsSTbMgdiT) | 1:33 | 2022-02-17 | 2023-09-09 |
 | [Climbing](https://open.spotify.com/track/5SnbTsYX72YPhyU06IRuU4) | [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Climbing](https://open.spotify.com/album/2yqv18Dh91stSQDmbM8n5K) | 2:12 | 2023-09-08 |  |
@@ -370,6 +370,7 @@
 | [Mountains](https://open.spotify.com/track/00CAvtdfEEtWRkEN6Km2AW) | [Maj Majid](https://open.spotify.com/artist/2hd2AdImWEG1xPlBe6QhAP) | [Testify](https://open.spotify.com/album/3opdynBKdWUJfRZa8CaiKD) | 2:00 | 2022-02-17 | 2023-09-09 |
 | [Movie](https://open.spotify.com/track/59Wyi2Pwm4WCArYgoZ0N89) | [Danny Ghost](https://open.spotify.com/artist/3LoivJ8DRyZuJdk5R2tRGF), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Movie](https://open.spotify.com/album/58kTYTP5mRig1242uQpiqU) | 2:06 | 2023-09-08 | 2023-11-21 |
 | [Music Saved My LIfe](https://open.spotify.com/track/196OGouq0ra4DRZQFvMNcJ) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Music Ruined My Life](https://open.spotify.com/album/3qcxlqf6NWGxMoRcoetCTO) | 4:04 | 2023-09-08 |  |
+| [My Piano Is Mellow](https://open.spotify.com/track/2BNiYyI8qELuU8EWShKVNE) | [Daniel Fridell](https://open.spotify.com/artist/4WG5037NDBAMyjzClxwmKK) | [My Piano Is Mellow](https://open.spotify.com/album/5xVX9rk2bIdXxS6nvnKcYb) | 3:16 | 2024-01-05 |  |
 | [My Story](https://open.spotify.com/track/0OS5J4N4pYDqXlJjzSOamS) | [Derregbeatz](https://open.spotify.com/artist/0dPKS837bf570gZeYe7XMY) | [My Story](https://open.spotify.com/album/3rEAU7AXZ2QtQE0wcoc8yy) | 4:20 | 2022-02-17 | 2023-01-20 |
 | [Mysteries](https://open.spotify.com/track/2tpt0vstkDIemSBz5WlRhG) | [Argenius](https://open.spotify.com/artist/0m3JOyxkcyPVM3bu1YZW2s) | [Mysteries](https://open.spotify.com/album/4Z8yCySOw5LJROmLZ4zSdO) | 2:00 | 2023-12-15 |  |
 | [NANA](https://open.spotify.com/track/4rPKfCe7Rc4uUv9SyVkW8S) | [Big Nose](https://open.spotify.com/artist/6ETg05TrMGqIUd30ehlAvx) | [NANA](https://open.spotify.com/album/1k6DOBPWj02qzFcaMhrEEd) | 2:05 | 2023-09-08 | 2023-09-26 |

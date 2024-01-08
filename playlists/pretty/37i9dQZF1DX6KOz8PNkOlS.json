@@ -1,12 +1,12 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 429058,
+  "num_followers": 429251,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTk4YWM1NWU2NmVmNTE4MzNlMDc5NjI4MWE1YTI5NGM0NTA3ZDE0",
+  "snapshot_id": "MCxlNTA0ZDFmZjJmZGJmY2Q0ZDkyNDU3MDc3ZDQxNmUxZmMyNjNlNjY1",
   "tracks": [
     {
       "added_at": "2023-04-19 21:20:11",
@@ -365,6 +365,22 @@
       "url": "https://open.spotify.com/track/778x5bolqJeICcrtSBNrko"
     },
     {
+      "added_at": "2023-09-25 03:06:06",
+      "album": {
+        "name": "Playing Robots Into Heaven",
+        "url": "https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 172844,
+      "name": "Asking To Break",
+      "url": "https://open.spotify.com/track/1NoxZc2x2Y7eX1U5wHj6hr"
+    },
+    {
       "added_at": "2023-06-30 15:20:10",
       "album": {
         "name": "Heartquake",
@@ -383,22 +399,6 @@
       "duration_ms": 218373,
       "name": "Heartquake",
       "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
-    },
-    {
-      "added_at": "2023-09-25 03:06:06",
-      "album": {
-        "name": "Playing Robots Into Heaven",
-        "url": "https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 172844,
-      "name": "Asking To Break",
-      "url": "https://open.spotify.com/track/1NoxZc2x2Y7eX1U5wHj6hr"
     },
     {
       "added_at": "2023-04-14 00:36:48",
@@ -981,22 +981,6 @@
       "url": "https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj"
     },
     {
-      "added_at": "2023-09-25 02:40:58",
-      "album": {
-        "name": "Sorry I Haven't Called",
-        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
-      },
-      "artists": [
-        {
-          "name": "Vagabon",
-          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
-        }
-      ],
-      "duration_ms": 177733,
-      "name": "Lexicon",
-      "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "As Long As You Are",
@@ -1011,6 +995,22 @@
       "duration_ms": 260174,
       "name": "Thrill",
       "url": "https://open.spotify.com/track/6pq03Hl5tIY9ryqSEKt82n"
+    },
+    {
+      "added_at": "2023-09-25 02:40:58",
+      "album": {
+        "name": "Sorry I Haven't Called",
+        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
+      },
+      "artists": [
+        {
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+        }
+      ],
+      "duration_ms": 177733,
+      "name": "Lexicon",
+      "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1105,22 +1105,6 @@
       "url": "https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54"
     },
     {
-      "added_at": "2023-09-13 16:09:15",
-      "album": {
-        "name": "Grass is Grass",
-        "url": "https://open.spotify.com/album/1qvw1U3t1LAIPT5Xkvwjtw"
-      },
-      "artists": [
-        {
-          "name": "Bowes Road Band",
-          "url": "https://open.spotify.com/artist/5Ubi8yKSQmfTTNq0bEeVTu"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Grass is Grass",
-      "url": "https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh"
-    },
-    {
       "added_at": "2021-10-28 19:01:32",
       "album": {
         "name": "Time to Melt",
@@ -1139,6 +1123,22 @@
       "duration_ms": 258026,
       "name": "Dream Free",
       "url": "https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI"
+    },
+    {
+      "added_at": "2023-09-13 16:09:15",
+      "album": {
+        "name": "Grass is Grass",
+        "url": "https://open.spotify.com/album/1qvw1U3t1LAIPT5Xkvwjtw"
+      },
+      "artists": [
+        {
+          "name": "Bowes Road Band",
+          "url": "https://open.spotify.com/artist/5Ubi8yKSQmfTTNq0bEeVTu"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Grass is Grass",
+      "url": "https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1533,22 +1533,6 @@
       "url": "https://open.spotify.com/track/50YFf2wxdUPioeqahWKCl1"
     },
     {
-      "added_at": "2022-02-09 03:25:54",
-      "album": {
-        "name": "Drifting Out EP",
-        "url": "https://open.spotify.com/album/5LkepEqRrfqY2t0UeOaEnh"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 219312,
-      "name": "Drifting Out",
-      "url": "https://open.spotify.com/track/2XmzxM91Pu7VvbjkszniBQ"
-    },
-    {
       "added_at": "2023-05-31 21:00:26",
       "album": {
         "name": "BEAUTIFUL",
@@ -1563,6 +1547,22 @@
       "duration_ms": 199500,
       "name": "BEAUTIFUL",
       "url": "https://open.spotify.com/track/1OvVUJCil4YjMH1iSSxbrj"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 210922,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
     },
     {
       "added_at": "2022-01-26 18:13:44",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 210922,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "Apollonia",
         "url": "https://open.spotify.com/album/5HFw44c3URCTNzgCAM47wu"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 158314,
       "name": "Foreign Affair",
       "url": "https://open.spotify.com/track/6705wcrwrj3Z9QvvsCQpng"
+    },
+    {
+      "added_at": "2022-02-09 03:25:54",
+      "album": {
+        "name": "Drifting Out EP",
+        "url": "https://open.spotify.com/album/5LkepEqRrfqY2t0UeOaEnh"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 219312,
+      "name": "Drifting Out",
+      "url": "https://open.spotify.com/track/2XmzxM91Pu7VvbjkszniBQ"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1689,22 +1689,6 @@
       "url": "https://open.spotify.com/track/4xv8NEU2gJ0Ud3PZZJgh59"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Painting the Roses",
-        "url": "https://open.spotify.com/album/08QA8Et6U6Gv6oq94Bq9co"
-      },
-      "artists": [
-        {
-          "name": "Midnight Sister",
-          "url": "https://open.spotify.com/artist/79CshY6jZ3VzduOOSCRhm4"
-        }
-      ],
-      "duration_ms": 246631,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/38N4yGHfwByW1BjKBp6FMk"
-    },
-    {
       "added_at": "2022-12-07 04:04:10",
       "album": {
         "name": "head down",
@@ -1719,6 +1703,22 @@
       "duration_ms": 148304,
       "name": "head down",
       "url": "https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Painting the Roses",
+        "url": "https://open.spotify.com/album/08QA8Et6U6Gv6oq94Bq9co"
+      },
+      "artists": [
+        {
+          "name": "Midnight Sister",
+          "url": "https://open.spotify.com/artist/79CshY6jZ3VzduOOSCRhm4"
+        }
+      ],
+      "duration_ms": 246631,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/38N4yGHfwByW1BjKBp6FMk"
     },
     {
       "added_at": "2021-10-15 03:01:31",

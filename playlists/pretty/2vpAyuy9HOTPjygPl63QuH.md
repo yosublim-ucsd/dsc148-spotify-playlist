@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno music 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 7,285 likes - 47 songs - 2 hr 23 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 7,300 likes - 47 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 9 | [Lollipop](https://open.spotify.com/track/2lbFgAmsgEcRCEDJ2Yzjtf) | [BINGEWATCH](https://open.spotify.com/artist/46GFgB66csz8utVAK4Z29Z) | [Lollipop](https://open.spotify.com/album/0HiQnInI5G5q2kwsgmyevx) | 3:33 |
 | 10 | [What I'm Sayin](https://open.spotify.com/track/7tzH9WFMUGfsvvI0UXXj4A) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [What I'm Sayin](https://open.spotify.com/album/3eTZQ42Toe7G2ze1rs5fgu) | 3:20 |
 | 11 | [In The Air](https://open.spotify.com/track/7aasXv1PUt4t0DLo2nGzMV) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [In The Air](https://open.spotify.com/album/3tQ1xtLmqmc1llutbiCOyn) | 3:35 |
-| 12 | [Hold Me Close](https://open.spotify.com/track/7LY5bGhl8Pnx9LkIwyVgGq) | [SINO](https://open.spotify.com/artist/1MZecWkWxDoc1iU8qNH1q3) | [Hold Me Close EP](https://open.spotify.com/album/2WdPVFXYS5G0yIBMlM6jIq) | 2:32 |
-| 13 | [Ice Cold](https://open.spotify.com/track/30ah7rJfpT8U0DrEPcv0pe) | [EchoStorms](https://open.spotify.com/artist/6buVxxQZC5V3NzSUjFOM8A), [George Z](https://open.spotify.com/artist/5IewgFvCqYIYpf660mYVqo) | [Ice Cold](https://open.spotify.com/album/6Hw5iLYiIG5YfM9B3dMTR5) | 2:51 |
-| 14 | [Let Me](https://open.spotify.com/track/7fRLbVYH6eV2qMGkEFlxYh) | [Teko](https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS), [ALVES](https://open.spotify.com/artist/5IuRJkF6BqSdfGykaHfslU) | [Let Me](https://open.spotify.com/album/1TE7SUPhke4DC9NhnBf9ya) | 2:50 |
-| 15 | [Soundboy \(feat\. LexBlaze\)](https://open.spotify.com/track/5hj1JdeMFcm7bAoX1Pmb6B) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Soundboy \(feat\. LexBlaze\)](https://open.spotify.com/album/0XNOTUhvEvt6VWNzvoHHdI) | 2:49 |
+| 12 | [Soundboy \(feat\. LexBlaze\)](https://open.spotify.com/track/5hj1JdeMFcm7bAoX1Pmb6B) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Soundboy \(feat\. LexBlaze\)](https://open.spotify.com/album/0XNOTUhvEvt6VWNzvoHHdI) | 2:49 |
+| 13 | [Hold Me Close](https://open.spotify.com/track/7LY5bGhl8Pnx9LkIwyVgGq) | [SINO](https://open.spotify.com/artist/1MZecWkWxDoc1iU8qNH1q3) | [Hold Me Close EP](https://open.spotify.com/album/2WdPVFXYS5G0yIBMlM6jIq) | 2:32 |
+| 14 | [Ice Cold](https://open.spotify.com/track/30ah7rJfpT8U0DrEPcv0pe) | [EchoStorms](https://open.spotify.com/artist/6buVxxQZC5V3NzSUjFOM8A), [George Z](https://open.spotify.com/artist/5IewgFvCqYIYpf660mYVqo) | [Ice Cold](https://open.spotify.com/album/6Hw5iLYiIG5YfM9B3dMTR5) | 2:51 |
+| 15 | [Let Me](https://open.spotify.com/track/7fRLbVYH6eV2qMGkEFlxYh) | [Teko](https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS), [ALVES](https://open.spotify.com/artist/5IuRJkF6BqSdfGykaHfslU) | [Let Me](https://open.spotify.com/album/1TE7SUPhke4DC9NhnBf9ya) | 2:50 |
 | 16 | [Master](https://open.spotify.com/track/0u0DtZeSlQgGXK1JmtsHf8) | [DOUG!](https://open.spotify.com/artist/4G8g4gL4SfJzPJBcyRz7GS) | [Master](https://open.spotify.com/album/77f3R6in5nY1l6TGoJ1LKk) | 3:23 |
 | 17 | [Power \- Radio Edit](https://open.spotify.com/track/0HzVYobrBkcwQV1bFT78ii) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [Power / Down Low](https://open.spotify.com/album/0X1rXcIDBZgm1Nt5Kj9Rms) | 3:00 |
 | 18 | [Levitate](https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Levitate](https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr) | 2:45 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 46 | [Still In Luv](https://open.spotify.com/track/6oiycDVm0sSW1LkYUusbPV) | [ODJO](https://open.spotify.com/artist/0PTMBIPah6TbcefoTsEkUn) | [Still In Luv](https://open.spotify.com/album/1Iq5wFiMRFTkzRfXSgdWr4) | 3:03 |
 | 47 | [Esta Noche](https://open.spotify.com/track/5snRNP8U03CUKr9DykgZQU) | [IvanFG](https://open.spotify.com/artist/6eQYOEM7gEWBiPQykmX5CT), [NCRC](https://open.spotify.com/artist/6uka8ezLbh2vCkZWex50By) | [Esta Noche](https://open.spotify.com/album/1Y2oQxsPbkNrh3VKj5po12) | 2:53 |
 
-Snapshot ID: `ODIyOSw0MWFhNGE5NGYyMjM4NmExYWEzM2EwNDNmYTRlYTc5NmQ1YzM4ZGRh`
+Snapshot ID: `ODIzMCwwZGExMGY0Njc3ZGJhYmExMDViN2QwYTM4YTQ1Mjg1ZWY0MGQ3MjMz`

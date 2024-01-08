@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 65829,
+  "num_followers": 65803,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmRlMDk1YTJjYTAxNTY3NGMxMjRkN2IzNzVhOGE5MzBjYzAzMmUx",
+  "snapshot_id": "MCwwZjViZWRjZDExNzI1YmQ4OGMzMTg2Y2NjYTRmNzNiZmUyYTU2MmZl",
   "tracks": [
     {
       "added_at": "2023-05-05 17:20:54",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "On ne change pas",
-        "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Ne partez pas sans moi (Grand prix de L'Eurovision 1988)",
-      "url": "https://open.spotify.com/track/0Kv4i96E41jbULmUajBYOe"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Wings Of Love",
         "url": "https://open.spotify.com/album/0dF4TpultM9Ch3jazO0cN5"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 185066,
       "name": "Fly on the Wings of Love",
       "url": "https://open.spotify.com/track/4v2RaPHSsTvNkggw3RqyeT"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "On ne change pas",
+        "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Ne partez pas sans moi (Grand prix de L'Eurovision 1988)",
+      "url": "https://open.spotify.com/track/0Kv4i96E41jbULmUajBYOe"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Au top des ann\u00e9es 80, vol. 1 (30 titres + 5 maxis)",
-        "url": "https://open.spotify.com/album/76YvIXe5aWujtislm12yVk"
-      },
-      "artists": [
-        {
-          "name": "Sandra Kim",
-          "url": "https://open.spotify.com/artist/4dhrlsu6mKvOwJWOrwnkuV"
-        }
-      ],
-      "duration_ms": 184157,
-      "name": "J'aime la vie - Eurovision 1986",
-      "url": "https://open.spotify.com/track/6UKeMVzQeeOsjITXfX1cm4"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Among The Suns",
         "url": "https://open.spotify.com/album/6aPBqnyWSiHwzR7H3OKXA3"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 183640,
       "name": "My Star",
       "url": "https://open.spotify.com/track/1qn0J3EnF4zqvwoHYHxhgD"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Au top des ann\u00e9es 80, vol. 1 (30 titres + 5 maxis)",
+        "url": "https://open.spotify.com/album/76YvIXe5aWujtislm12yVk"
+      },
+      "artists": [
+        {
+          "name": "Sandra Kim",
+          "url": "https://open.spotify.com/artist/4dhrlsu6mKvOwJWOrwnkuV"
+        }
+      ],
+      "duration_ms": 184157,
+      "name": "J'aime la vie - Eurovision 1986",
+      "url": "https://open.spotify.com/track/6UKeMVzQeeOsjITXfX1cm4"
     },
     {
       "added_at": "2023-05-05 17:20:54",

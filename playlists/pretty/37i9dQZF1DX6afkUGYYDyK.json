@@ -1,12 +1,12 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 18858,
+  "num_followers": 18861,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2MxOTJmYTVlN2FlZmI2YmFhOTg5YzgwYWE2OTM4NDQ4M2VkZGVh",
+  "snapshot_id": "MCw2ZWMyODg0MWNkMDJhZDg0ODU2MTdkODMyMDk3MjhkMTc4MzUyZjFi",
   "tracks": [
     {
       "added_at": "2022-11-23 15:01:23",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Milk & Cookies: A Merry Crowder Christmas",
-        "url": "https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        }
-      ],
-      "duration_ms": 208243,
-      "name": "Thanks Giver",
-      "url": "https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Thankful",
         "url": "https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 192775,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Milk & Cookies: A Merry Crowder Christmas",
+        "url": "https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "duration_ms": 208243,
+      "name": "Thanks Giver",
+      "url": "https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Platinum Praise Collection: Andrae Crouch",
+        "url": "https://open.spotify.com/album/4YGo7Wj4lIGydKu6ElehTF"
+      },
+      "artists": [
+        {
+          "name": "Andrae Crouch",
+          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
+        }
+      ],
+      "duration_ms": 217786,
+      "name": "My Tribute",
+      "url": "https://open.spotify.com/track/7xKCmMhfkACwAvcOvSEutX"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "God of the Ages (Live At The Manor)",
         "url": "https://open.spotify.com/album/5giG6lnLqUdnrweJXvbbxu"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 256437,
       "name": "God of the Ages - Single Version - Live",
       "url": "https://open.spotify.com/track/2FnKGHRKjeWyxOJstK0Ld0"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Give Thanks",
-        "url": "https://open.spotify.com/album/1Aut9LT8m8InV1Yu2Yx8tE"
-      },
-      "artists": [
-        {
-          "name": "Sandra McCracken",
-          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
-        }
-      ],
-      "duration_ms": 193413,
-      "name": "Give Thanks",
-      "url": "https://open.spotify.com/track/2fRPNI68Vk8SawD7lq1rsw"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Give Thanks",
+        "url": "https://open.spotify.com/album/1Aut9LT8m8InV1Yu2Yx8tE"
+      },
+      "artists": [
+        {
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+        }
+      ],
+      "duration_ms": 193413,
+      "name": "Give Thanks",
+      "url": "https://open.spotify.com/track/2fRPNI68Vk8SawD7lq1rsw"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "Live in Chicago",
         "url": "https://open.spotify.com/album/6a4q65e7oxn0FAMI8iWOSZ"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 329824,
       "name": "Oh Give Thanks - Live",
       "url": "https://open.spotify.com/track/7cEjdAwmvaoqQExOvMujq7"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Platinum Praise Collection: Andrae Crouch",
-        "url": "https://open.spotify.com/album/4YGo7Wj4lIGydKu6ElehTF"
-      },
-      "artists": [
-        {
-          "name": "Andrae Crouch",
-          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
-        }
-      ],
-      "duration_ms": 217786,
-      "name": "My Tribute",
-      "url": "https://open.spotify.com/track/7xKCmMhfkACwAvcOvSEutX"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -751,6 +751,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Woman; Thou Art Loosed!",
+        "url": "https://open.spotify.com/album/2CzFvvN0ZMozTwPIw0wQzL"
+      },
+      "artists": [
+        {
+          "name": "T.D. Jakes",
+          "url": "https://open.spotify.com/artist/1pnLOf4IZBQeQVlFn3LBQQ"
+        }
+      ],
+      "duration_ms": 221133,
+      "name": "Give Thanks - Medley",
+      "url": "https://open.spotify.com/track/5pg3lPpcTek4W4NPFI4MlL"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "The Bloody Win (Live)",
         "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 392586,
       "name": "Give Thanks - Live",
       "url": "https://open.spotify.com/track/6BlbfgFzbNc8jM9hAZIOmh"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Woman; Thou Art Loosed!",
-        "url": "https://open.spotify.com/album/2CzFvvN0ZMozTwPIw0wQzL"
-      },
-      "artists": [
-        {
-          "name": "T.D. Jakes",
-          "url": "https://open.spotify.com/artist/1pnLOf4IZBQeQVlFn3LBQQ"
-        }
-      ],
-      "duration_ms": 221133,
-      "name": "Give Thanks - Medley",
-      "url": "https://open.spotify.com/track/5pg3lPpcTek4W4NPFI4MlL"
     },
     {
       "added_at": "2022-11-23 15:01:23",

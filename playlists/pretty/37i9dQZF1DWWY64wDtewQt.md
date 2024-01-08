@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,333,883 likes - 100 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,339,544 likes - 100 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 40 | [ultraphunk](https://open.spotify.com/track/2rCVGFo2htxWlkDwm3klAB) | [dashie](https://open.spotify.com/artist/6uQKiJZQe4rjkMF0HxIGTl), [ISXRO](https://open.spotify.com/artist/6P5L9HA8NpBlSx72fGpNBu), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [ultraphunk](https://open.spotify.com/album/5PuTLKpHSO4pJjYCia0djn) | 1:55 |
 | 41 | [WAKE UP!](https://open.spotify.com/track/4B8gtpBuEtU9XUizl6BK2W) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [WAKE UP!](https://open.spotify.com/album/7GkHQdfJDCvcGaIVlfc39l) | 2:22 |
 | 42 | [BIBI PHONK BR](https://open.spotify.com/track/1ytfbcVbSMHIgzijgt4z2e) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe) | [BIBI PHONK BR](https://open.spotify.com/album/4cfBuRZw1az5lIdTYxuOPq) | 1:59 |
-| 43 | [robot rock \(funk\)](https://open.spotify.com/track/5CzmDYSqoancLlV8vMGdPl) | [DJ Paulinho Mondi Da Baixa Baviera](https://open.spotify.com/artist/648ZoUpTM6iIMTCgo3lLCE) | [robot rock \(funk\)](https://open.spotify.com/album/4GX5gPDX5eZkPY7aDm1Cs4) | 2:33 |
+| 43 | [Robot Rock \- Remix](https://open.spotify.com/track/0fm4a0b9oDoLhhCSAtU8OH) | [Gatito Malo](https://open.spotify.com/artist/7JMpsXUQIJCt2l9o4BnBfF) | [Robot Rock \(Remix\)](https://open.spotify.com/album/1TJ6izayiTzSUAHznF1AgF) | 2:33 |
 | 44 | [Override](https://open.spotify.com/track/6O4oKV3btLiEtOgEuplIUn) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Override](https://open.spotify.com/album/3IivT4yfr3wvtbo1PTgzCP) | 1:54 |
 | 45 | [AVOID ME](https://open.spotify.com/track/5FX30idriKlEIRYTxpNf65) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX) | [AVOID ME](https://open.spotify.com/album/1LwLabogNr1KwEHU1EnSRZ) | 1:45 |
 | 46 | [COWBELL GOTH](https://open.spotify.com/track/0zcvETeNHWNO050bqZAjOs) | [DRAGONMANE](https://open.spotify.com/artist/1pawMASwj4RTc1oB80un2X) | [COWBELL GOTH](https://open.spotify.com/album/03wA9W4auCxQsRWGCE8LWM) | 2:21 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 85 | [INCOMING](https://open.spotify.com/track/4h3KlpOEXS6FxIpab6EKlf) | [MC ORSEN](https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3) | [INCOMING](https://open.spotify.com/album/4ASsNh1WHAjrGKh5jp0Q4F) | 2:20 |
 | 86 | [Twilight](https://open.spotify.com/track/1Y5MJnYsIi3Qlifvss4jPI) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt) | [Twilight](https://open.spotify.com/album/44NnM38oAf0i0gWqkVVA1x) | 1:56 |
 | 87 | [HOJE EU VOU COMER NOVINHA 02](https://open.spotify.com/track/1vKRuWNMzYKX2MxdQawM0N) | [DJ AG O GRINGO](https://open.spotify.com/artist/5x5QpMsxPAaMgm0bxQyKJC) | [HOJE EU VOU COMER NOVINHA](https://open.spotify.com/album/7FNd2yodzN9NDZTBJhI2Eh) | 1:47 |
-| 88 | [PSYCHO FUNK](https://open.spotify.com/track/5nyZmmFT3guVqrRxSkt12C) | [ICHIRO](https://open.spotify.com/artist/5MUljcWL3VylwkBxs9xw0p), [MC MN](https://open.spotify.com/artist/4hV3aU0WKvFaiX5ugXP5hp), [MC 99](https://open.spotify.com/artist/3HIvqQ3TKSSqa5yef0Q3xR) | [PSYCHO FUNK](https://open.spotify.com/album/6Xi9WQNEilg2HE1uCeFWFt) | 2:00 |
+| 88 | [Psycho Funk](https://open.spotify.com/track/6zMmJhxFeAVWoiZYCbwzbO) | [Love Fluxos](https://open.spotify.com/artist/5uTuKlVMAZzFDvFpQsOH2I) | [Psycho Funk](https://open.spotify.com/album/1XAJTAFssI3vRiE3mlSNhK) | 2:00 |
 | 89 | [Beat das Trevas \[Slowed + Reverb\]](https://open.spotify.com/track/3bzkdI9iT7ygXbHMzl4rkB) | [DJ MENOR DA ZN](https://open.spotify.com/artist/7GwhJndjWpGB4APQOWpD22), [MC MTOODIO](https://open.spotify.com/artist/7JM0ahYY9xjYeKVUf3Rauf) | [Beat das Trevas \[Slowed + Reverb\]](https://open.spotify.com/album/75fDow9Ssrsi6sQQqzjJuu) | 2:12 |
 | 90 | [ANUBIS](https://open.spotify.com/track/1aqP9g3lLR8bpFtkCTm41N) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX), [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq) | [ANUBIS](https://open.spotify.com/album/32ZaJnILSwK9EKayZbZMmr) | 2:11 |
 | 91 | [TOKYO DRIFT](https://open.spotify.com/track/733RnlYLskyvWMhhzs70sy) | [PRXSXNT FXTURE](https://open.spotify.com/artist/1KS3HFd7XL75m0ieoDhFvw) | [TOKYO DRIFT](https://open.spotify.com/album/2bs5hKmaQWtUrFXjARZggi) | 2:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 99 | [Scary Garry](https://open.spotify.com/track/658QJ4p8WcbT3O7iWLpO1D) | [Kaito Shoma](https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [Scary Garry](https://open.spotify.com/album/04QDTmdKMoDHqqFaHEoDVP) | 1:39 |
 | 100 | [Mtg \- Coração](https://open.spotify.com/track/4nyMoK6gePLzCJybQl4O2F) | [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk), [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM) | [Mtg \- Coração](https://open.spotify.com/album/4LsthlcTRWkcsfRRn9yxYC) | 1:53 |
 
-Snapshot ID: `MCwxMjg2NzRhOWI5MTE1ZmQ5MGI4MTM3NGE1MGFmNGYzYTc5ZTVhOWUw`
+Snapshot ID: `MCwzNjkxM2ZkODcyYzA3ODYyNDExYWE4OWUxNGUwMzJjMDg3OGQ5ZjYy`

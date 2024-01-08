@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-227 songs - 20 hr 31 min
+229 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Baadal](https://open.spotify.com/track/4NliS6MtHE2VJC3Pu495nv) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Baadal](https://open.spotify.com/album/6vbTqEOFjaiDJy6WdcpZkt) | 4:14 | 2023-08-03 |  |
 | [Badi Dheere Jali](https://open.spotify.com/track/2VgmwOgWxNkfT4vvA7eJ5E) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Ishqiya](https://open.spotify.com/album/6w5XtnPBTeOUFvwGi93lgB) | 7:01 | 2022-05-17 | 2023-03-23 |
 | [Badra Chhaaye](https://open.spotify.com/track/0xaocSiKSgZdetM5onBTvz) | [Keshav Tyohar](https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS) | [Badra Chhaaye](https://open.spotify.com/album/4Q4LYEVYMZZbOgEiksRxLa) | 2:50 | 2023-07-13 |  |
-| [Badra Jhum](https://open.spotify.com/track/0yQOBmCtGInHcLxzgGw5La) | [Prasanta A Samadhar](https://open.spotify.com/artist/0WUykTmuOcYbFgu3L6lO0L) | [Badra Jhum](https://open.spotify.com/album/4QfO5s4jV7ybLfyefmGZNu) | 3:42 | 2023-10-09 |  |
+| [Badra Jhum](https://open.spotify.com/track/0yQOBmCtGInHcLxzgGw5La) | [Prasanta A Samadhar](https://open.spotify.com/artist/0WUykTmuOcYbFgu3L6lO0L) | [Badra Jhum](https://open.spotify.com/album/4QfO5s4jV7ybLfyefmGZNu) | 3:42 | 2023-10-09 | 2024-01-08 |
+| [Badra Jhum](https://open.spotify.com/track/3paWIcLemVopky4tYAjYnn) | [Prasanta A Samadhar](https://open.spotify.com/artist/0WUykTmuOcYbFgu3L6lO0L) | [Badra Jhum](https://open.spotify.com/album/6xzmXaik3FZtgmExS2Il4M) | 3:42 | 2023-12-15 |  |
 | [Baiyaan](https://open.spotify.com/track/47Wwuu4jfq0nthcsnMr4kC) | [Aniket Kar](https://open.spotify.com/artist/165EyV5h6zZ2ml6ZJVEg7s), [Parul Mishra](https://open.spotify.com/artist/70706ST5lkFhPr9lgea7SU), [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI) | [Baiyaan](https://open.spotify.com/album/20AVkxpmGkjXeFupoukd3V) | 5:26 | 2023-09-26 |  |
 | [Baju Band](https://open.spotify.com/track/6pygtqf5cO7uiy9kgbY8KD) | [Sniti Mishra](https://open.spotify.com/artist/1N1zYh2GCcsgr0E4UfcRy2) | [Baju Band](https://open.spotify.com/album/5c80mJiH3c7rKKQ7HVp49f) | 4:18 | 2022-05-17 |  |
 | [Baras](https://open.spotify.com/track/2eJeQraCbVdmkFsLqPkBHP) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Elements](https://open.spotify.com/album/4PDXWMxlqPHO4Ox9KCvoJ8) | 4:58 | 2022-05-17 | 2023-03-23 |
@@ -87,7 +88,8 @@
 | [Jheeni Jheeni Beeni Chadariya](https://open.spotify.com/track/2FlrURkLtjLKlfkVmgQRob) | [Baiju Mangeshkar](https://open.spotify.com/artist/5lf48jDMFrdJkvnYW8Gg5T) | [Man Mast Kabira](https://open.spotify.com/album/6h564cMA06UJRCmanWFdqp) | 5:27 | 2023-03-30 | 2023-04-01 |
 | [Jheeni Jheeni Beeni Chadariya](https://open.spotify.com/track/7sFrXIq0TJZUYVgASM9bDv) | [Baiju Mangeshkar](https://open.spotify.com/artist/5lf48jDMFrdJkvnYW8Gg5T) | [Man Mast Kabira](https://open.spotify.com/album/6cLEimgx42vKP8ReAXgcAc) | 5:27 | 2023-03-31 | 2023-07-25 |
 | [Jhinjhoti](https://open.spotify.com/track/4oWJqeGeJK1N5M0dUqogYD) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Jhinjhoti](https://open.spotify.com/album/6weyfGZOlWKTnp5Yq49Fjn) | 5:02 | 2022-05-17 | 2023-09-29 |
-| [Jiya Lage Na](https://open.spotify.com/track/476FFGIqNYi8jd7aEmXJBR) | [Avra Banerjee](https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3), [Rashid Khan](https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv), [George Brooks](https://open.spotify.com/artist/2XfVMjEed5ozwWxinyXDHy) | [Jiya Lage Na](https://open.spotify.com/album/2n5NLskzy65xxbTvIl9uUM) | 6:52 | 2023-09-27 |  |
+| [Jiya Lage Na](https://open.spotify.com/track/2T8s6bn2jOU6Topjuil8k5) | [Avra Banerjee](https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3), [Rashid Khan](https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv), [George Brooks](https://open.spotify.com/artist/2XfVMjEed5ozwWxinyXDHy) | [Jiya Lage Na](https://open.spotify.com/album/7mVAY9bCvSKpBBEFlR2TNV) | 6:52 | 2023-12-15 |  |
+| [Jiya Lage Na](https://open.spotify.com/track/476FFGIqNYi8jd7aEmXJBR) | [Avra Banerjee](https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3), [Rashid Khan](https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv), [George Brooks](https://open.spotify.com/artist/2XfVMjEed5ozwWxinyXDHy) | [Jiya Lage Na](https://open.spotify.com/album/2n5NLskzy65xxbTvIl9uUM) | 6:52 | 2023-09-27 | 2024-01-08 |
 | [Jiya Mora Re](https://open.spotify.com/track/2n3H9PPBOXWproji7x3g0E) | [The PriyaRang Project](https://open.spotify.com/artist/0V9JIMj8rpAb5sLaETyJdn), [Priyanka Barve](https://open.spotify.com/artist/2SrMwYFxsZjEQSl8sVMu3P), [Sarang Kulkarni](https://open.spotify.com/artist/5AbDGuiDyG6kdlMLbo2njR) | [Jiya Mora Re](https://open.spotify.com/album/2z6FfQtPih0s6iSkPne2PV) | 6:21 | 2022-12-22 |  |
 | [Jiyara](https://open.spotify.com/track/2tCyldMmgrHlhP8IWiSy4h) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Fungeet](https://open.spotify.com/album/2pWlLUrt2y0QppU4OUXFTh) | 2:54 | 2023-04-24 | 2023-08-04 |
 | [Jiyara](https://open.spotify.com/track/3wtUeVGw8hOlJCVRxtjtZY) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Jiyara](https://open.spotify.com/album/4jyfJKuTlSVfve70u1jUvv) | 2:36 | 2022-05-17 | 2023-09-09 |

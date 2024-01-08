@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 146124,
+  "num_followers": 146427,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGU4MzgwY2U0NWZjNDdjMDY3ZTc0ODJlYjMzNjRiNGE5ZmI3Yjc1",
+  "snapshot_id": "MCw4Y2JiYmZkYjU2MTQyMWM4NzFhNWU2OGU4MGY1ZTk0NTQzOTE4NjM4",
   "tracks": [
     {
       "added_at": "2023-08-11 13:33:49",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-08-11 13:33:49",
       "album": {
-        "name": "Alejandra Guzm\u00e1n 20 A\u00f1os De \u00c9xitos En Vivo Con Moderatto",
-        "url": "https://open.spotify.com/album/5Ew8Kk0D4LuZFKTBh9ckDn"
+        "name": "MTV Unplugged (En Vivo)",
+        "url": "https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON"
       },
       "artists": [
         {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 212638,
-      "name": "D\u00eda De Suerte",
-      "url": "https://open.spotify.com/track/3rvCwVlf4cXcXeNLb8QIsB"
+      "duration_ms": 362320,
+      "name": "Mi Credo (En Vivo)",
+      "url": "https://open.spotify.com/track/2K5XrnXHgV7r71gbQjxoUo"
     },
     {
       "added_at": "2023-08-11 13:33:49",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-08-11 13:33:49",
       "album": {
+        "name": "Alejandra Guzm\u00e1n 20 A\u00f1os De \u00c9xitos En Vivo Con Moderatto",
+        "url": "https://open.spotify.com/album/5Ew8Kk0D4LuZFKTBh9ckDn"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 212638,
+      "name": "D\u00eda De Suerte",
+      "url": "https://open.spotify.com/track/3rvCwVlf4cXcXeNLb8QIsB"
+    },
+    {
+      "added_at": "2023-08-11 13:33:49",
+      "album": {
         "name": "Cristian Castro En Primera Fila - D\u00eda 1",
         "url": "https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 259320,
       "name": "Ser\u00e1s el Aire - Primera Fila",
       "url": "https://open.spotify.com/track/1s8i3KnevFv5h5BVfFotCl"
-    },
-    {
-      "added_at": "2023-08-11 13:33:49",
-      "album": {
-        "name": "MTV Unplugged (En Vivo)",
-        "url": "https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 362320,
-      "name": "Mi Credo (En Vivo)",
-      "url": "https://open.spotify.com/track/2K5XrnXHgV7r71gbQjxoUo"
     }
   ],
   "unique_name": "Vivo de Pop",

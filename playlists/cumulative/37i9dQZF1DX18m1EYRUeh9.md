@@ -4,7 +4,7 @@
 
 > Smooth indie jazz joints from around the globe\. Cover: André 3000
 
-188 songs - 12 hr 36 min
+189 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,8 @@
 | [Smile \- Sensible J Remix](https://open.spotify.com/track/1pzIC0OPepB5tp94bxYMt0) | [Izy](https://open.spotify.com/artist/79aQimb3liMvrff1f9Rn3F), [Sensible J](https://open.spotify.com/artist/1UdDg4tjgYWO4MHzvrgT2U) | [Irene \- Remixes, Vol\. 2](https://open.spotify.com/album/3PZZcactK809TgihvKQ0UQ) | 2:40 | 2023-08-10 | 2023-09-22 |
 | [Some Of Us Are Brave \(Georgia Anne Muldrow's Geemix\)](https://open.spotify.com/track/0kVJEG5pdADLbeyEabOyYi) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ), [Georgia Anne Muldrow](https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31) | [Some Of Us Are Brave \(Deluxe\)](https://open.spotify.com/album/5YZgQjRn0dTBZDKBFhokgA) | 2:53 | 2023-09-14 | 2023-09-16 |
 | [Some Of Us Are Brave \(Georgia Anne Muldrow's Geemix\)](https://open.spotify.com/track/67xeUEYZOxGcrjsjvs1mxG) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ), [Georgia Anne Muldrow](https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31) | [Some Of Us Are Brave \(Deluxe\)](https://open.spotify.com/album/3vn3IDQmq7rbQ9UZdCYrpK) | 2:53 | 2023-09-14 |  |
-| [Soon We'll Make It](https://open.spotify.com/track/1aVJfYAryZWDqwa6IOiHzE) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [Soon We'll Make It](https://open.spotify.com/album/0GwFm5QbuwAyc7Ag20lzhL) | 2:19 | 2023-08-31 |  |
+| [Soon We'll Make It](https://open.spotify.com/track/1aVJfYAryZWDqwa6IOiHzE) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [Soon We'll Make It](https://open.spotify.com/album/0GwFm5QbuwAyc7Ag20lzhL) | 2:19 | 2023-08-31 | 2024-01-08 |
+| [Soon We'll Make It](https://open.spotify.com/track/2QA97SRId1uFVmiJljRkHH) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [More Better](https://open.spotify.com/album/4rsrAAeWRTA0FZqJ9eWS3A) | 2:19 | 2023-11-30 |  |
 | [Spaceships](https://open.spotify.com/track/31bc2FenRg2KVCoIeSPg7E) | [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R) | [Saturday Night](https://open.spotify.com/album/77RyGk8HtT1Vj05qrAaKUK) | 3:48 | 2023-10-05 |  |
 | [Spin Cycle](https://open.spotify.com/track/7EpC6cPzTPMTvx48uZUdZp) | [Joshua Moshe](https://open.spotify.com/artist/2s9dRHHl4Djtu9BTPnfG8e), [Cazeux O.S.L.O](https://open.spotify.com/artist/3DDfeEQnK8m0rNdimIkgNS) | [Spin Cycle](https://open.spotify.com/album/4VOnuPVO8GGwjpkSJh1pNe) | 4:35 | 2023-08-10 | 2023-11-17 |
 | [Stalemate \(Edit\)](https://open.spotify.com/track/6Nc3VlsiqEZNvF42ziCCAl) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Stalemate \(Edit\)](https://open.spotify.com/album/4E9cv2ksnwf1JttplEwyTd) | 6:43 | 2023-10-12 |  |

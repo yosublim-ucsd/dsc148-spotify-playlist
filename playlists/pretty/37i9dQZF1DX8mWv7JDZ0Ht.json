@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Feyj\u00e3o, Silva",
-  "num_followers": 435857,
+  "num_followers": 435795,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NWVkNzM0NDE5MjE0YzU5NWJiNTJjODdmYjBhZGEwMWFhNWY3NzA1",
+  "snapshot_id": "MCwxNGI5MjVmNjczNjAyMDM0MDY4YTk0YjRlZjU5Y2JjOGQzODgzMDFh",
   "tracks": [
     {
       "added_at": "2024-01-05 14:35:21",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-01-05 14:35:21",
       "album": {
+        "name": "Pausa",
+        "url": "https://open.spotify.com/album/0s7AxN40rQwUGlFfoD3B6H"
+      },
+      "artists": [
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        }
+      ],
+      "duration_ms": 219306,
+      "name": "Pausa",
+      "url": "https://open.spotify.com/track/4ZNQesxN8vNtOh5hL5qeWD"
+    },
+    {
+      "added_at": "2024-01-05 14:35:21",
+      "album": {
         "name": "se for pra ser",
         "url": "https://open.spotify.com/album/4lgDyBawg2FC6h3Jl2AMJ2"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 199811,
       "name": "se for pra ser",
       "url": "https://open.spotify.com/track/125V81LGC3wVXjRhnb6mXr"
-    },
-    {
-      "added_at": "2024-01-05 14:35:21",
-      "album": {
-        "name": "Pausa",
-        "url": "https://open.spotify.com/album/0s7AxN40rQwUGlFfoD3B6H"
-      },
-      "artists": [
-        {
-          "name": "Joyce Alane",
-          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
-        }
-      ],
-      "duration_ms": 219306,
-      "name": "Pausa",
-      "url": "https://open.spotify.com/track/4ZNQesxN8vNtOh5hL5qeWD"
     },
     {
       "added_at": "2024-01-05 14:35:21",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-01-05 14:35:21",
       "album": {
+        "name": "Se Me Ver",
+        "url": "https://open.spotify.com/album/1hnmHjEYieDwvfIoBqmf8T"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "duration_ms": 175018,
+      "name": "Se Me Ver",
+      "url": "https://open.spotify.com/track/5VDpAikNgUbuSiv5dSCVkz"
+    },
+    {
+      "added_at": "2024-01-05 14:35:21",
+      "album": {
         "name": "Vida + leve",
         "url": "https://open.spotify.com/album/2yd1DMCQyulyfU8Z9Zehf1"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 178023,
       "name": "Vida + leve",
       "url": "https://open.spotify.com/track/4dK3vpH7f9q8PHLfSp1qhb"
-    },
-    {
-      "added_at": "2024-01-05 14:35:21",
-      "album": {
-        "name": "Se Me Ver",
-        "url": "https://open.spotify.com/album/1hnmHjEYieDwvfIoBqmf8T"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        }
-      ],
-      "duration_ms": 175018,
-      "name": "Se Me Ver",
-      "url": "https://open.spotify.com/track/5VDpAikNgUbuSiv5dSCVkz"
     },
     {
       "added_at": "2024-01-05 14:35:21",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-01-05 14:35:21",
       "album": {
+        "name": "Resposta",
+        "url": "https://open.spotify.com/album/6fPQatXeKSpZuyNKj5adbD"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "duration_ms": 211069,
+      "name": "Resposta",
+      "url": "https://open.spotify.com/track/0ZJ6kYBasODtY4JWDzkDDE"
+    },
+    {
+      "added_at": "2024-01-05 14:35:21",
+      "album": {
         "name": "Ai, Que Calor",
         "url": "https://open.spotify.com/album/1ZdCeqypeVqs47668BjdkZ"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 144262,
       "name": "Ai, Que Calor",
       "url": "https://open.spotify.com/track/32z2SmKSxh80H0LfnDpD1m"
-    },
-    {
-      "added_at": "2024-01-05 14:35:21",
-      "album": {
-        "name": "Resposta",
-        "url": "https://open.spotify.com/album/6fPQatXeKSpZuyNKj5adbD"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        }
-      ],
-      "duration_ms": 211069,
-      "name": "Resposta",
-      "url": "https://open.spotify.com/track/0ZJ6kYBasODtY4JWDzkDDE"
     },
     {
       "added_at": "2024-01-05 14:35:21",
@@ -899,34 +899,22 @@
     {
       "added_at": "2024-01-05 14:35:21",
       "album": {
-        "name": "Quando isso vai passar?",
-        "url": "https://open.spotify.com/album/66jTl9rLZaXN0yMH4j6biH"
+        "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2g2U9irgi6o746zVeLHkJg"
       },
       "artists": [
         {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 156466,
-      "name": "Quando isso vai passar?",
-      "url": "https://open.spotify.com/track/2ydOTMH0LViI8b9tRp1WOp"
-    },
-    {
-      "added_at": "2024-01-05 14:35:21",
-      "album": {
-        "name": "Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U"
-      },
-      "artists": [
+          "name": "Pedro Pascual",
+          "url": "https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4"
+        },
         {
-          "name": "Anna P\u00eago",
-          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
         }
       ],
-      "duration_ms": 145131,
-      "name": "O Que Eu Devia Ter Vivido",
-      "url": "https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1"
+      "duration_ms": 167424,
+      "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5AJPQJQpB3FKZgxNIciFwC"
     },
     {
       "added_at": "2024-01-05 14:35:21",
@@ -947,22 +935,34 @@
     {
       "added_at": "2024-01-05 14:35:21",
       "album": {
-        "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2g2U9irgi6o746zVeLHkJg"
+        "name": "Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U"
       },
       "artists": [
         {
-          "name": "Pedro Pascual",
-          "url": "https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4"
-        },
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+          "name": "Anna P\u00eago",
+          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
         }
       ],
-      "duration_ms": 167424,
-      "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5AJPQJQpB3FKZgxNIciFwC"
+      "duration_ms": 145131,
+      "name": "O Que Eu Devia Ter Vivido",
+      "url": "https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1"
+    },
+    {
+      "added_at": "2024-01-05 14:35:21",
+      "album": {
+        "name": "Quando isso vai passar?",
+        "url": "https://open.spotify.com/album/66jTl9rLZaXN0yMH4j6biH"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 156466,
+      "name": "Quando isso vai passar?",
+      "url": "https://open.spotify.com/track/2ydOTMH0LViI8b9tRp1WOp"
     },
     {
       "added_at": "2024-01-05 14:35:21",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-01-05 14:35:21",
       "album": {
-        "name": "Todo Azul",
-        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
-      },
-      "artists": [
-        {
-          "name": "Capim-Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 152952,
-      "name": "Todo Azul",
-      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
-    },
-    {
-      "added_at": "2024-01-05 14:35:21",
-      "album": {
         "name": "JOVEM (DELUXE)",
         "url": "https://open.spotify.com/album/7tDVAA2c0ipIHUaJD9kj0M"
       },
@@ -1067,6 +1051,38 @@
       "duration_ms": 174873,
       "name": "colorida",
       "url": "https://open.spotify.com/track/6RmkIFg8AnHjG3rhITyGJV"
+    },
+    {
+      "added_at": "2024-01-05 14:35:21",
+      "album": {
+        "name": "Todo Azul",
+        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
+      },
+      "artists": [
+        {
+          "name": "Capim-Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 152952,
+      "name": "Todo Azul",
+      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
+    },
+    {
+      "added_at": "2024-01-05 14:35:21",
+      "album": {
+        "name": "Montanha Russa",
+        "url": "https://open.spotify.com/album/0FsbGXA20E9n6gGghVuiXp"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        }
+      ],
+      "duration_ms": 170965,
+      "name": "Montanha Russa",
+      "url": "https://open.spotify.com/track/4IsMyrJ3fRhSoh1BVfec4a"
     },
     {
       "added_at": "2024-01-05 14:35:21",
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2024-01-05 14:35:21",
       "album": {
-        "name": "Montanha Russa",
-        "url": "https://open.spotify.com/album/0FsbGXA20E9n6gGghVuiXp"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
-        }
-      ],
-      "duration_ms": 170965,
-      "name": "Montanha Russa",
-      "url": "https://open.spotify.com/track/4IsMyrJ3fRhSoh1BVfec4a"
-    },
-    {
-      "added_at": "2024-01-05 14:35:21",
-      "album": {
         "name": "Voc\u00ea Chegou",
         "url": "https://open.spotify.com/album/5nJW4qnTFw8kwQ6gxZ7gJg"
       },
@@ -1119,6 +1119,22 @@
       "duration_ms": 141130,
       "name": "Voc\u00ea Chegou",
       "url": "https://open.spotify.com/track/1AIqRI9UanGxUFiMtBEALX"
+    },
+    {
+      "added_at": "2024-01-05 14:35:21",
+      "album": {
+        "name": "\u00c9 Sobre Isso",
+        "url": "https://open.spotify.com/album/0ibxqoNFQB2cm0tTZ6udFs"
+      },
+      "artists": [
+        {
+          "name": "Ferri",
+          "url": "https://open.spotify.com/artist/3gbvTAyGLFauiTO7266GKR"
+        }
+      ],
+      "duration_ms": 195141,
+      "name": "\u00c9 Sobre Isso",
+      "url": "https://open.spotify.com/track/5LOOYxG5wUXiRZgQY93rTl"
     },
     {
       "added_at": "2024-01-05 14:35:21",
@@ -1159,22 +1175,6 @@
       "duration_ms": 187982,
       "name": "PLENA TER\u00c7A FEIRA",
       "url": "https://open.spotify.com/track/4yt9UtmoWZRHLRl5HN0g86"
-    },
-    {
-      "added_at": "2024-01-05 14:35:21",
-      "album": {
-        "name": "\u00c9 Sobre Isso",
-        "url": "https://open.spotify.com/album/0ibxqoNFQB2cm0tTZ6udFs"
-      },
-      "artists": [
-        {
-          "name": "Ferri",
-          "url": "https://open.spotify.com/artist/3gbvTAyGLFauiTO7266GKR"
-        }
-      ],
-      "duration_ms": 195141,
-      "name": "\u00c9 Sobre Isso",
-      "url": "https://open.spotify.com/track/5LOOYxG5wUXiRZgQY93rTl"
     },
     {
       "added_at": "2024-01-05 14:35:21",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-01-05 14:35:21",
       "album": {
-        "name": "Sintomas de Saudade",
-        "url": "https://open.spotify.com/album/5u16k6T8bhUwgI10rlCwVt"
-      },
-      "artists": [
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        }
-      ],
-      "duration_ms": 194478,
-      "name": "Sintomas de Saudade",
-      "url": "https://open.spotify.com/track/6QlevudYVANWjhtyyH2PJW"
-    },
-    {
-      "added_at": "2024-01-05 14:35:21",
-      "album": {
         "name": "calma na alma",
         "url": "https://open.spotify.com/album/4XIGrKDCbYgBDSPxSo9voV"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 149285,
       "name": "calma na alma",
       "url": "https://open.spotify.com/track/3FSjdHh5YSZsC9Czb1mdit"
+    },
+    {
+      "added_at": "2024-01-05 14:35:21",
+      "album": {
+        "name": "Sintomas de Saudade",
+        "url": "https://open.spotify.com/album/5u16k6T8bhUwgI10rlCwVt"
+      },
+      "artists": [
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        }
+      ],
+      "duration_ms": 194478,
+      "name": "Sintomas de Saudade",
+      "url": "https://open.spotify.com/track/6QlevudYVANWjhtyyH2PJW"
     },
     {
       "added_at": "2024-01-05 14:35:21",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2024-01-05 14:35:21",
       "album": {
+        "name": "J\u00e1 Te Falei",
+        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "duration_ms": 205540,
+      "name": "J\u00e1 Te Falei",
+      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
+    },
+    {
+      "added_at": "2024-01-05 14:35:21",
+      "album": {
         "name": "Brincando De Amor",
         "url": "https://open.spotify.com/album/1JjOG6ghi7Bw3xT0Ks99Xf"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 155822,
       "name": "Brincando De Amor",
       "url": "https://open.spotify.com/track/5VZD6ku43wd7ewcdiFnQcQ"
-    },
-    {
-      "added_at": "2024-01-05 14:35:21",
-      "album": {
-        "name": "J\u00e1 Te Falei",
-        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
-      },
-      "artists": [
-        {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
-        }
-      ],
-      "duration_ms": 205540,
-      "name": "J\u00e1 Te Falei",
-      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
     },
     {
       "added_at": "2024-01-05 14:35:21",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-01-05 14:35:21",
       "album": {
-        "name": "Amanheceu Assim",
-        "url": "https://open.spotify.com/album/3PULKRZQ4tZ5cFLBy4webU"
-      },
-      "artists": [
-        {
-          "name": "St\u00e9fano Ferraz",
-          "url": "https://open.spotify.com/artist/566ggMCCnCX4jnrZNaLWZa"
-        }
-      ],
-      "duration_ms": 204935,
-      "name": "Amanheceu Assim",
-      "url": "https://open.spotify.com/track/6ZN54IpPKw9YtBw6vuMAKw"
-    },
-    {
-      "added_at": "2024-01-05 14:35:21",
-      "album": {
         "name": "vai e vem",
         "url": "https://open.spotify.com/album/0Ik66eoE66yFyeDE5teHDz"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 129600,
       "name": "vai e vem",
       "url": "https://open.spotify.com/track/1nuC5t3OBnMLZCmvzf7oxK"
+    },
+    {
+      "added_at": "2024-01-05 14:35:21",
+      "album": {
+        "name": "Amanheceu Assim",
+        "url": "https://open.spotify.com/album/3PULKRZQ4tZ5cFLBy4webU"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9fano Ferraz",
+          "url": "https://open.spotify.com/artist/566ggMCCnCX4jnrZNaLWZa"
+        }
+      ],
+      "duration_ms": 204935,
+      "name": "Amanheceu Assim",
+      "url": "https://open.spotify.com/track/6ZN54IpPKw9YtBw6vuMAKw"
     },
     {
       "added_at": "2024-01-05 14:35:21",

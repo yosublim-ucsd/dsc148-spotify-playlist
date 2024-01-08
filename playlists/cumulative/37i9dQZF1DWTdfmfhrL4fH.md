@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-563 songs - 1 day 11 hr 16 min
+564 songs - 1 day 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Degenerates](https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Degenerates](https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ) | 3:04 | 2022-05-25 | 2022-07-29 |
 | [DIE FOR YOU](https://open.spotify.com/track/4cExQhQ0i34yZcoDsHFMV6) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [Vessels](https://open.spotify.com/album/4iJ9B2uDKJzclQo7U9BqS8) | 5:17 | 2022-05-25 |  |
 | [Die To Live](https://open.spotify.com/track/7u9r4j7KSMW5yLsgjLRZGZ) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT), [Neil Fallon](https://open.spotify.com/artist/1PvBXGOTvO3zrbDtL5mKEB) | [Rewind, Replay, Rebound \(Deluxe\)](https://open.spotify.com/album/700dWAqcIsUkNJ1WN1XPT5) | 3:02 | 2022-05-25 |  |
-| [Dig Down](https://open.spotify.com/track/0RILico3Gbl5jxSNg3zLrJ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:48 | 2022-05-25 |  |
+| [Dig Down](https://open.spotify.com/track/0RILico3Gbl5jxSNg3zLrJ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:48 | 2022-05-25 | 2024-01-08 |
 | [Dirty Girl](https://open.spotify.com/track/14OBGVZHB5KEWoYyr5Lb2w) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE) | [World on Fire](https://open.spotify.com/album/0HBgPC1vbZUmQziDZS78Rg) | 4:14 | 2022-05-25 | 2022-07-29 |
 | [Do It Now Remember It Later](https://open.spotify.com/track/3I9c2OFpB0al6qmYNcyMht) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Let's Cheers To This](https://open.spotify.com/album/3RSJ0kbP7TxLRqH7BqX8Gl) | 3:23 | 2023-01-18 |  |
 | [Do It Now Remember It Later](https://open.spotify.com/track/3ikf8zLuO1MACbNFfDvJ12) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Let's Cheers To This](https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T) | 3:23 | 2022-05-25 | 2023-11-04 |
@@ -370,6 +370,7 @@
 | [Oh Love](https://open.spotify.com/track/1qIgyDoc2rwtq8w49jeWL8) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡UNO!](https://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w) | 5:03 | 2022-05-25 |  |
 | [Oh, What A Life](https://open.spotify.com/track/0ImkGucv1ID5EkuhslttfD) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Oh, What A Life](https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv) | 3:39 | 2022-05-25 | 2022-07-05 |
 | [On And On](https://open.spotify.com/track/65Ce0h4SA18GuH6nuI1QWe) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS \(Deluxe\)](https://open.spotify.com/album/2estDSavGQ2q3IHLbzxkSE) | 3:35 | 2022-05-25 | 2023-02-03 |
+| [One Finger and a Fist](https://open.spotify.com/track/5sSrK9FXfWbL5qwbMASHeb) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Resilience \(Deluxe\)](https://open.spotify.com/album/1suOaTdNne0nfdmKbPIZfT) | 3:06 | 2023-01-18 |  |
 | [One Finger and a Fist](https://open.spotify.com/track/6PdEKf8CyyZfrFAGFi37gb) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Resilience \(Deluxe\)](https://open.spotify.com/album/46NkCKf9l9TVHryLpDSkr2) | 3:06 | 2022-05-25 | 2023-09-02 |
 | [One Night Only](https://open.spotify.com/track/3DRZp9kykKCfnaU1Kd2AWY) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [One Night Only](https://open.spotify.com/album/6q0O4Hlf2h3BntR0TAwdTl) | 4:16 | 2022-05-25 | 2022-07-28 |
 | [Our Song](https://open.spotify.com/track/25JGo37w1o4LqeztjPGMp4) | [The Spill Canvas](https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj) | [Formalities](https://open.spotify.com/album/3FLHbz0phIqAWQI55BMHln) | 3:43 | 2022-05-25 | 2022-07-19 |

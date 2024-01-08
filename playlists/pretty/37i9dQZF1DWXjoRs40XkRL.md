@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 
 > Unwind to the best Indian classical sounds out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,293 likes - 75 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,342 likes - 75 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 16 | [Nadiya Bairi Bhayi](https://open.spotify.com/track/3iVw3VjNdA48znVMrag6bc) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Nadiya Bairi Bhayi](https://open.spotify.com/album/1mADW8kGZ8Y0Zkx3b388FZ) | 2:41 |
 | 17 | [Nindiya \- A Lullaby](https://open.spotify.com/track/2m7X5DrmSew92cs8TlX8Zi) | [Kshitij Tarey](https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l), [Vishwa Mohan Bhatt](https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl) | [Nindiya \- A Lullaby](https://open.spotify.com/album/6h9pGqUDzQTlAMoMokTeiE) | 3:31 |
 | 18 | [Kuhu Kuhu Bole Koyalia](https://open.spotify.com/track/0XiwdXAtiAnKPUnCK72N5w) | [Khatija Rahman](https://open.spotify.com/artist/3FQoWZ1cZzYzZKMg2MaAYP), [Firdaus Orchestra](https://open.spotify.com/artist/3drENjzQNPCE5CSMby4SwB), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh) | [Kuhu Kuhu](https://open.spotify.com/album/4F6BUhEStYseE1u6eob2bg) | 5:55 |
-| 19 | [Jiya Lage Na](https://open.spotify.com/track/476FFGIqNYi8jd7aEmXJBR) | [Avra Banerjee](https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3), [Rashid Khan](https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv), [George Brooks](https://open.spotify.com/artist/2XfVMjEed5ozwWxinyXDHy) | [Jiya Lage Na](https://open.spotify.com/album/2n5NLskzy65xxbTvIl9uUM) | 6:52 |
+| 19 | [Jiya Lage Na](https://open.spotify.com/track/2T8s6bn2jOU6Topjuil8k5) | [Avra Banerjee](https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3), [Rashid Khan](https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv), [George Brooks](https://open.spotify.com/artist/2XfVMjEed5ozwWxinyXDHy) | [Jiya Lage Na](https://open.spotify.com/album/7mVAY9bCvSKpBBEFlR2TNV) | 6:52 |
 | 20 | [Delhi Drill](https://open.spotify.com/track/5MUMXjnsf4UydEK8rFx8Xq) | [Catchy](https://open.spotify.com/artist/1md52jdgS8Hv0DOkib7Wjj) | [Delhi Drill](https://open.spotify.com/album/4KXcZoIVMzsxVVn18679Zw) | 1:57 |
-| 21 | [Badra Jhum](https://open.spotify.com/track/0yQOBmCtGInHcLxzgGw5La) | [Prasanta A Samadhar](https://open.spotify.com/artist/0WUykTmuOcYbFgu3L6lO0L) | [Badra Jhum](https://open.spotify.com/album/4QfO5s4jV7ybLfyefmGZNu) | 3:42 |
+| 21 | [Badra Jhum](https://open.spotify.com/track/3paWIcLemVopky4tYAjYnn) | [Prasanta A Samadhar](https://open.spotify.com/artist/0WUykTmuOcYbFgu3L6lO0L) | [Badra Jhum](https://open.spotify.com/album/6xzmXaik3FZtgmExS2Il4M) | 3:42 |
 | 22 | [Baiyaan](https://open.spotify.com/track/47Wwuu4jfq0nthcsnMr4kC) | [Aniket Kar](https://open.spotify.com/artist/165EyV5h6zZ2ml6ZJVEg7s), [Parul Mishra](https://open.spotify.com/artist/70706ST5lkFhPr9lgea7SU), [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI) | [Baiyaan](https://open.spotify.com/album/20AVkxpmGkjXeFupoukd3V) | 5:26 |
 | 23 | [Aja Sawariya \- Remix](https://open.spotify.com/track/2c8olBjlarZbL6nUKn0vGM) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Gurbax](https://open.spotify.com/artist/52nO5w2jFAlYYsq6h9YjQG), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [The Spindoctor](https://open.spotify.com/artist/2bUONMhpskrzUmRkpZUVu3) | [Aja Sawariya \(Remix\)](https://open.spotify.com/album/0EfCp9ysBs6OCmckczM2lf) | 2:56 |
 | 24 | [O Sajana Barkha Bahar](https://open.spotify.com/track/4ZNtTyyJ8lpqHZmKRsCmBt) | [Khatija Rahman](https://open.spotify.com/artist/3FQoWZ1cZzYzZKMg2MaAYP), [Firdaus Orchestra](https://open.spotify.com/artist/3drENjzQNPCE5CSMby4SwB) | [Kuhu Kuhu](https://open.spotify.com/album/4F6BUhEStYseE1u6eob2bg) | 3:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 74 | [Garaj Garaj Jugalbandi](https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Farid Hasan](https://open.spotify.com/artist/5VS1XKT1Og8hCqS5n7MyLZ), [Mohammed Aman](https://open.spotify.com/artist/1mfkISQy4OfXQjdV46x6Yf) | [Bandish Bandits \(Original Series Soundtrack\)](https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz) | 5:30 |
 | 75 | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/track/4oFTEI6Dmnca8HbpwdXQCL) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Shafqat Ali Khan](https://open.spotify.com/artist/5G8426kJYJIy8qoGo1b4sU) | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/album/1a87DOMOSxUy66pUYGfx5S) | 7:20 |
 
-Snapshot ID: `MCw3Yzg5M2NiNTU0NGI0NDc1NTFiMmFlNzI3MWY5MWI4ZTI4NGI3YWI4`
+Snapshot ID: `MCxhNjEwMDFhZGNkOWY0MjUxMTc4ZWZkYjVkMmVkOTNhZjE3N2IzMjJm`

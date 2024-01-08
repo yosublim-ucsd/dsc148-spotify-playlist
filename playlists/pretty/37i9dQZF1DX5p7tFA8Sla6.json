@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 54684,
+  "num_followers": 54702,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDlkOWFlNjY5OWZhMDQzNDY0ODMwMTIwMzFlMGNhYzNmNGI5MjJj",
+  "snapshot_id": "MCxhMWNiODdiMTQ5NjJiMThhNGZmYjMzNzY5YmUxNzJiMjRkYzM3MzJl",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/7hKNuqA2bj1BjYDOXMMWGK"
-      },
-      "artists": [
-        {
-          "name": "Garth.",
-          "url": "https://open.spotify.com/artist/7aEP0AzwgG0Bs0Bw7I2sqI"
-        },
-        {
-          "name": "Mammal Dap",
-          "url": "https://open.spotify.com/artist/7nel0SBlJRHLKGr5VZMleq"
-        }
-      ],
-      "duration_ms": 212065,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/6WPIx2V0nXS0xJmvJ4X0wh"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "In Search Of Better Days",
         "url": "https://open.spotify.com/album/2f83h1GYlE4SrVseNnSvQ4"
       },
@@ -1635,6 +1615,26 @@
       "duration_ms": 281133,
       "name": "Just Say Nothing",
       "url": "https://open.spotify.com/track/6oBOx9S6xhHbAkznP2wiNC"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/7hKNuqA2bj1BjYDOXMMWGK"
+      },
+      "artists": [
+        {
+          "name": "Garth.",
+          "url": "https://open.spotify.com/artist/7aEP0AzwgG0Bs0Bw7I2sqI"
+        },
+        {
+          "name": "Mammal Dap",
+          "url": "https://open.spotify.com/artist/7nel0SBlJRHLKGr5VZMleq"
+        }
+      ],
+      "duration_ms": 212065,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/6WPIx2V0nXS0xJmvJ4X0wh"
     },
     {
       "added_at": "2019-08-22 14:26:16",

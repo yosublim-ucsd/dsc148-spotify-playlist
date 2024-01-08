@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > every second counts, we don't wanna watch TV anymore\. Cover: yungatita
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,128,109 likes - 126 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,128,106 likes - 126 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 125 | [Shame](https://open.spotify.com/track/1sv1SN854EsB5WcI27cQxe) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Grapes Upon the Vine](https://open.spotify.com/album/0SXtNBEYPTc7sXyLF9N7TT) | 4:06 |
 | 126 | [Sparks](https://open.spotify.com/track/5L5hOvjcRVUCi9oSySDER4) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Sparks](https://open.spotify.com/album/4U90Bo7CbGHeh1M8gKeaZG) | 3:38 |
 
-Snapshot ID: `MCxkNjUwNTkzMjFiYzQ1Mjg3ZDA2Zjg5YTA5MWY1NWVmMmZiNTlhNGRm`
+Snapshot ID: `MCxlMjY0ZTdkZmQ0MzY5ZWE5NWQ5N2YxOGFmMzhmYWU4MTFlYzhjMzNm`

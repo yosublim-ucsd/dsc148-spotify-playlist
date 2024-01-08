@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring Odd Mob
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,104 likes - 125 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,170 likes - 125 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 55 | [Give Me A Sign](https://open.spotify.com/track/66Q1xT5uKtmC4cFh6o4uL6) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP), [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT) | [Give Me A Sign](https://open.spotify.com/album/6ZiDFr9Ouak1wdsOSkWvIs) | 2:49 |
 | 56 | [No Sleep \(6AM\) \(feat\. MERYLL\)](https://open.spotify.com/track/2hpoG18R8aBXB3O5QmheJt) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [No Sleep \(6AM\) \(feat\. MERYLL\)](https://open.spotify.com/album/4UwWfFDYZcjQRnS9Rv94Ro) | 2:26 |
 | 57 | [One Pill](https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [One Pill](https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio) | 3:37 |
-| 58 | [The Edge](https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [The Edge](https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP) | 2:33 |
-| 59 | [Levitate](https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Levitate](https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr) | 2:45 |
+| 58 | [Levitate](https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Levitate](https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr) | 2:45 |
+| 59 | [The Edge](https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [The Edge](https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP) | 2:33 |
 | 60 | [Legacy](https://open.spotify.com/track/52jCFwQBAf04Bi8xrE8DJu) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA) | [Legacy](https://open.spotify.com/album/1yC5yJEeMRUSeeQgkho7Ai) | 3:50 |
 | 61 | [Heard It Like This](https://open.spotify.com/track/6HtjJ09kCJbaQSrazLVEGr) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [Heard It Like This](https://open.spotify.com/album/0YPe5oH70RPB9HAGkpXmQ9) | 3:40 |
 | 62 | [Vogue](https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Vogue](https://open.spotify.com/album/6vCW931VRazG6Y49nzAwJz) | 3:12 |
@@ -98,10 +98,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 88 | [LALALA](https://open.spotify.com/track/0vMAY6AodrM6yXH8Gi9Xzq) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [LALALA](https://open.spotify.com/album/6hxVFjWlFEeezccloBHDKW) | 2:49 |
 | 89 | [What You Need](https://open.spotify.com/track/6XUplgv5tgkebAEieWUPYB) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [What You Need/Stimulate](https://open.spotify.com/album/69b4gkbazngcTJQMWLwJit) | 2:53 |
 | 90 | [Do You Feel It](https://open.spotify.com/track/0lnnhM1bIUT3jzvB0jt2pV) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Do You Feel It](https://open.spotify.com/album/42hJe9FM2aEdJzngH9fb6y) | 3:06 |
-| 91 | [Sinister \- Axwell Mi Amor Remode](https://open.spotify.com/track/6B32LMOLTNb3FLW46lhIaU) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [Corey James](https://open.spotify.com/artist/0pICHdgyIVvu5jvDsFu9pD), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [Sinister \(Axwell Mi Amor Remode\)](https://open.spotify.com/album/7yHxszlq94iQz0MzfWqnF5) | 3:24 |
+| 91 | [The Function](https://open.spotify.com/track/34fXpiwE0KrGzirOItUh9m) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [The Function](https://open.spotify.com/album/1dDEeKb8vS0R7AtNA0OAbx) | 3:12 |
 | 92 | [In Your Mind](https://open.spotify.com/track/1fljgBD0HxUOOtLDQ9WSaM) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [In Your Mind](https://open.spotify.com/album/1lnxNRd7kCfp1AGkVehKCU) | 2:34 |
-| 93 | [Aisha](https://open.spotify.com/track/1bXgTBNfGgKw20IsS3P37o) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw) | [Aisha](https://open.spotify.com/album/4NDHCK021W0pdlGQMvwOCv) | 3:01 |
-| 94 | [The Function](https://open.spotify.com/track/34fXpiwE0KrGzirOItUh9m) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [The Function](https://open.spotify.com/album/1dDEeKb8vS0R7AtNA0OAbx) | 3:12 |
+| 93 | [Sinister \- Axwell Mi Amor Remode](https://open.spotify.com/track/6B32LMOLTNb3FLW46lhIaU) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [Corey James](https://open.spotify.com/artist/0pICHdgyIVvu5jvDsFu9pD), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [Sinister \(Axwell Mi Amor Remode\)](https://open.spotify.com/album/7yHxszlq94iQz0MzfWqnF5) | 3:24 |
+| 94 | [Aisha](https://open.spotify.com/track/1bXgTBNfGgKw20IsS3P37o) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw) | [Aisha](https://open.spotify.com/album/4NDHCK021W0pdlGQMvwOCv) | 3:01 |
 | 95 | [Satisfy](https://open.spotify.com/track/5lU7QrjCMU9JStXRUhVB2p) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Satisfy](https://open.spotify.com/album/08ByOMP1nHJEIpZCskgWGn) | 3:04 |
 | 96 | [I Want Your Soul \- Mau P Remix](https://open.spotify.com/track/0I9Bt9ds5N3NGB2vlI4wrT) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [I Want Your Soul \(Mau P Remix\)](https://open.spotify.com/album/0TmEMpGtt0nhpowS8B8qj3) | 3:30 |
 | 97 | [TikTak](https://open.spotify.com/track/1aWMQBfDA9AYHrysNuMJIc) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [TikTak](https://open.spotify.com/album/3HteKaFElXCIRl6UG21C9u) | 2:17 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 124 | [Fakez](https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Fakez](https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X) | 4:31 |
 | 125 | [Easy Tiger](https://open.spotify.com/track/46xwxdKi1qZGuod4rTyzCA) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Easy Tiger](https://open.spotify.com/album/2fkIAlMozPVOXNEPfKA2qn) | 3:26 |
 
-Snapshot ID: `MCw1OTAyYjFmOGUwNGI0ZDgxMGJhZTFjYjY5YWYxNjVjNGRjMDNjZTI3`
+Snapshot ID: `MCw1YmZhYjY1NGE5Y2FjN2RlNzJkYTAwMGEwZTFlZTAwODVmZjRmMjhm`

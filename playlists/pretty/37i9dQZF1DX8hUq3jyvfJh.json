@@ -1,12 +1,12 @@
 {
   "description": "Os destaques de 2023! Simone Mendes e mais mulheres poderosas para serem ouvidas no volume m\u00e1ximo! ",
-  "num_followers": 171796,
+  "num_followers": 172407,
   "original_name": "O Melhor de EQUAL Brasil 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGQ2NWQ0NGFmMTQzN2FiYTNiNTAzYmFjODhiZmUzZDA1ZjIwYzRh",
+  "snapshot_id": "MCxiMjljNzkzYzJkODc1YzE0YzRkN2NhMGZlZGRmNDk4NTczNjAzZjQ0",
   "tracks": [
     {
       "added_at": "2023-11-29 13:03:35",
@@ -167,6 +167,22 @@
     {
       "added_at": "2023-11-29 13:03:35",
       "album": {
+        "name": "Raiz Goi\u00e2nia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6v9Ul1m0zyx9G3uwv8jRhu"
+      },
+      "artists": [
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 269733,
+      "name": "Cora\u00e7\u00e3o Sertanejo / Onde Haja Sol - Ao Vivo",
+      "url": "https://open.spotify.com/track/1lCwNTcAWUyeA210RpLCzd"
+    },
+    {
+      "added_at": "2023-11-29 13:03:35",
+      "album": {
         "name": "Abismo",
         "url": "https://open.spotify.com/album/4zYjj0oRteBn9X6QdCmU57"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 207161,
       "name": "Abismo",
       "url": "https://open.spotify.com/track/56JVZMurnXPoy1HbB4dcNV"
-    },
-    {
-      "added_at": "2023-11-29 13:03:35",
-      "album": {
-        "name": "Raiz Goi\u00e2nia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6v9Ul1m0zyx9G3uwv8jRhu"
-      },
-      "artists": [
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 269733,
-      "name": "Cora\u00e7\u00e3o Sertanejo / Onde Haja Sol - Ao Vivo",
-      "url": "https://open.spotify.com/track/1lCwNTcAWUyeA210RpLCzd"
     },
     {
       "added_at": "2023-11-29 13:03:35",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-11-29 13:03:35",
       "album": {
-        "name": "Ao Vivo Em Bras\u00edlia (Ao Vivo / Vol.1)",
-        "url": "https://open.spotify.com/album/3QeUaFs0eR6nsuz45OdxLZ"
+        "name": "V\u00edcio Inerente",
+        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
       },
       "artists": [
         {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
         }
       ],
-      "duration_ms": 153069,
-      "name": "Whisky Vagabund0 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0AXfTPzrAMfHchWf2aOVfA"
+      "duration_ms": 205111,
+      "name": "Dano Sarrada",
+      "url": "https://open.spotify.com/track/1vtXEy3Ii46hL6wML8H5He"
     },
     {
       "added_at": "2023-11-29 13:03:35",
@@ -303,18 +303,18 @@
     {
       "added_at": "2023-11-29 13:03:35",
       "album": {
-        "name": "V\u00edcio Inerente",
-        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
+        "name": "Ao Vivo Em Bras\u00edlia (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/3QeUaFs0eR6nsuz45OdxLZ"
       },
       "artists": [
         {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
         }
       ],
-      "duration_ms": 205111,
-      "name": "Dano Sarrada",
-      "url": "https://open.spotify.com/track/1vtXEy3Ii46hL6wML8H5He"
+      "duration_ms": 153069,
+      "name": "Whisky Vagabund0 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0AXfTPzrAMfHchWf2aOVfA"
     },
     {
       "added_at": "2023-11-29 13:03:35",

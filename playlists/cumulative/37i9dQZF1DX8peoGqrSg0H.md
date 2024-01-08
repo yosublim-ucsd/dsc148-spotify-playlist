@@ -4,7 +4,7 @@
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PiXXiE
 
-421 songs - 1 day 1 hr 17 min
+422 songs - 1 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [กลับมาคบกันเถอะ \(Please Please\)](https://open.spotify.com/track/1MEYfWVtU338815OD0ixDp) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [กลับมาคบกันเถอะ \(Please Please\)](https://open.spotify.com/album/2iHkmf0YTr5VtbEI8R23UH) | 3:28 | 2022-10-04 |  |
 | [กลับไปไม่รู้จักกัน \(Original Soundtrack "องศาสูญ"\)](https://open.spotify.com/track/2dSX5yD0y88IiRBqrVkOWH) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [กลับไปไม่รู้จักกัน \(Original Soundtrack "องศาสูญ"\)](https://open.spotify.com/album/7kKdaEyJr5OlvMWjZ1nqir) | 4:04 | 2023-09-01 | 2023-10-06 |
 | [กลัวฝน \- End.](https://open.spotify.com/track/3xga8upmhb7WQf8F2f24Sh) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [กลัวฝน \(End.\)](https://open.spotify.com/album/3rjpdGJzEw5yfsUIy7qxmM) | 3:31 | 2022-08-25 | 2022-09-24 |
-| [กล้วยหอม](https://open.spotify.com/track/2O0RznofHnlpBs6VSMNbP8) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [กล้วยหอม](https://open.spotify.com/album/2cdum1VDL9Gj7ttjht1XzH) | 3:10 | 2023-12-20 |  |
+| [กล้วยหอม](https://open.spotify.com/track/2O0RznofHnlpBs6VSMNbP8) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [กล้วยหอม](https://open.spotify.com/album/2cdum1VDL9Gj7ttjht1XzH) | 3:10 | 2023-12-20 | 2024-01-08 |
 | [กอดได้ไหม](https://open.spotify.com/track/4hccrJgNG1BwPa3CWw4NNg) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [Selfmade](https://open.spotify.com/album/79MikoRZW28D00Cr1o3gXd) | 3:29 | 2022-05-26 | 2022-07-23 |
 | [การจากลาที่ไม่มีวันจากไป](https://open.spotify.com/track/0u2y71Xe1vkQ9TKZUvdyWb) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [การจากลาที่ไม่มีวันจากไป \(Still With You\)](https://open.spotify.com/album/3vBS6G22v9QwWqMkkRi6Ws) | 3:41 | 2023-11-09 | 2023-12-01 |
 | [การเดินทางที่สวยงาม](https://open.spotify.com/track/5NUcn9d8kMrcoMQyE2CctY) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [การเดินทางที่สวยงาม \(A Beautiful Ride\)](https://open.spotify.com/album/1ydHr5YNHNe5zpI3Az62Os) | 3:33 | 2023-05-25 |  |
@@ -186,6 +186,7 @@
 | [ตัวตึง \(No.1\) Feat.1Life](https://open.spotify.com/track/6nVi2WZlOE1XYhtYF4iAiQ) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [ตัวตึง \(No.1\) Feat.1Life](https://open.spotify.com/album/6qCGUEFcpi4tz6So90xDFy) | 3:08 | 2023-02-23 | 2023-03-03 |
 | [ตั้งแต่มีเธอฉันมีความสุข \(This Time\)](https://open.spotify.com/track/126PlW2V73OM9n1s1zOKW9) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ตั้งแต่มีเธอฉันมีความสุข \(This Time\)](https://open.spotify.com/album/3mahPKrZPzwrbxQkEtAJzg) | 4:00 | 2022-05-26 | 2022-11-12 |
 | [ตั้งใจรัก \(happy accident\)](https://open.spotify.com/track/6LXKd4e0i2EPLh86GWvWOE) | [พัด Vorapat](https://open.spotify.com/artist/3lSyHNBfu514f8ugz5szx8), [First Anuwat](https://open.spotify.com/artist/4KjqrvqKO5fbI5yDR5yzny) | [ตั้งใจรัก \(happy accident\)](https://open.spotify.com/album/3mIXXY1EvLeO0fwyockLb3) | 2:35 | 2022-05-26 | 2022-06-10 |
+| [ติดฝน \(rain\)](https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [rain](https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX) | 3:16 | 2024-01-07 |  |
 | [ต่อจากนี้เพลงรักทุกเพลงจะเป็นของเธอเท่านั้น](https://open.spotify.com/track/315ar0QJiyciYkdVJUGA3w) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [ต่อจากนี้เพลงรักทุกเพลงจะเป็นของเธอเท่านั้น](https://open.spotify.com/album/3UccLHjXRBzaPUdVuQkCw8) | 4:14 | 2022-05-26 | 2022-11-12 |
 | [ต่อให้เธอจะไปรักใคร \- Even If](https://open.spotify.com/track/4op6zNw2RRdnNyXMNZ5i8g) | [Wine](https://open.spotify.com/artist/3LuQ3nUOUPjoCsrIBT14vs) | [ต่อให้เธอจะไปรักใคร \(Even If\)](https://open.spotify.com/album/6gNdGROAbKCQhZQC73SudF) | 3:30 | 2022-06-09 | 2022-06-24 |
 | [ต่อให้เธออยู่ไกล \(Moon to Mars\)](https://open.spotify.com/track/5GFLKQNrG9WULCp3AxDXyo) | [OABNITHI](https://open.spotify.com/artist/0POiRdWHPEPL1bhVAyLpAv) | [ต่อให้เธออยู่ไกล \(Moon to Mars\)](https://open.spotify.com/album/6xglF99e8jnj5hfzpV2IQW) | 3:24 | 2023-02-23 | 2023-03-03 |

@@ -1,12 +1,12 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 155789,
+  "num_followers": 155853,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzgxZWJhNjMwMjY1MmNhMWVkMTU3MmI4MjVlYjQyZjk0YjFlMmUz",
+  "snapshot_id": "MCw2NmJmMjQ4YTE5YmRiNGMyYjAwMzA2ODViNjlmYmExODA1NGJlMTg3",
   "tracks": [
     {
       "added_at": "2024-01-04 16:12:23",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-01-04 16:12:23",
       "album": {
-        "name": "Maxwell's Urban Hang Suite",
-        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 345975,
-      "name": "Ascension (Don't Ever Wonder) - Remastered 2021",
-      "url": "https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO"
-    },
-    {
-      "added_at": "2024-01-04 16:12:23",
-      "album": {
         "name": "AMY (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 214493,
       "name": "Stronger Than Me",
       "url": "https://open.spotify.com/track/5LC7nItIEFp4nzdFdEGbf9"
+    },
+    {
+      "added_at": "2024-01-04 16:12:23",
+      "album": {
+        "name": "Maxwell's Urban Hang Suite",
+        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 345975,
+      "name": "Ascension (Don't Ever Wonder) - Remastered 2021",
+      "url": "https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO"
     },
     {
       "added_at": "2024-01-04 16:12:23",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-01-04 16:12:23",
       "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/4KahGYWAcGDrsjgPHW99Mg"
+      },
+      "artists": [
+        {
+          "name": "Marques Houston",
+          "url": "https://open.spotify.com/artist/1goOx6gnQdUllLfSMsL4Rt"
+        }
+      ],
+      "duration_ms": 266560,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/0mKbQvLjf1jVdnOKSZ5nC7"
+    },
+    {
+      "added_at": "2024-01-04 16:12:23",
+      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 239093,
       "name": "By Your Side (Neptunes Remix) - Remastered",
       "url": "https://open.spotify.com/track/3kprgvuvboBSSrLz9qI4Yt"
-    },
-    {
-      "added_at": "2024-01-04 16:12:23",
-      "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/4KahGYWAcGDrsjgPHW99Mg"
-      },
-      "artists": [
-        {
-          "name": "Marques Houston",
-          "url": "https://open.spotify.com/artist/1goOx6gnQdUllLfSMsL4Rt"
-        }
-      ],
-      "duration_ms": 266560,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/0mKbQvLjf1jVdnOKSZ5nC7"
     },
     {
       "added_at": "2024-01-04 16:12:23",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-01-04 16:12:23",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/5yRdzDUGp5EK8hoBvdUNNg"
-      },
-      "artists": [
-        {
-          "name": "Deniece Williams",
-          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
-        }
-      ],
-      "duration_ms": 356560,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/5aPVQqYEEZKREbFRxLiAp5"
-    },
-    {
-      "added_at": "2024-01-04 16:12:23",
-      "album": {
         "name": "Survivor",
         "url": "https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 306306,
       "name": "Dangerously In Love",
       "url": "https://open.spotify.com/track/5KlcGBXtj2TptXLe83OXcP"
+    },
+    {
+      "added_at": "2024-01-04 16:12:23",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/5yRdzDUGp5EK8hoBvdUNNg"
+      },
+      "artists": [
+        {
+          "name": "Deniece Williams",
+          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
+        }
+      ],
+      "duration_ms": 356560,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/5aPVQqYEEZKREbFRxLiAp5"
     },
     {
       "added_at": "2024-01-04 16:12:23",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-01-04 16:12:23",
       "album": {
-        "name": "SATIN",
-        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 181144,
-      "name": "DAYDREAM",
-      "url": "https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD"
-    },
-    {
-      "added_at": "2024-01-04 16:12:23",
-      "album": {
         "name": "Lianne La Havas",
         "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 292506,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/4uawMXx8VZ7WMrjAVOaCMe"
+    },
+    {
+      "added_at": "2024-01-04 16:12:23",
+      "album": {
+        "name": "SATIN",
+        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 181144,
+      "name": "DAYDREAM",
+      "url": "https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD"
     },
     {
       "added_at": "2024-01-04 16:12:23",

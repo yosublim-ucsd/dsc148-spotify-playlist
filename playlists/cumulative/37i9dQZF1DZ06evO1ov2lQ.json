@@ -482,7 +482,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 326751,
       "name": "Cloudwalker Ii",
       "url": "https://open.spotify.com/track/1sc11Z7HhrSqxFE0YTfH7Z"
@@ -580,6 +580,24 @@
       "duration_ms": 146146,
       "name": "Disparu",
       "url": "https://open.spotify.com/track/4aFrYO5eXgXH0HzHBqHpaV"
+    },
+    {
+      "album": {
+        "name": "Autour De La Lune [Reissue]",
+        "url": "https://open.spotify.com/album/5fxcvWzqTtN1e4dgYrWyXf"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146146,
+      "name": "Disparu",
+      "url": "https://open.spotify.com/track/5UFzERhABpr8JH2nMcA4Xt"
     },
     {
       "album": {

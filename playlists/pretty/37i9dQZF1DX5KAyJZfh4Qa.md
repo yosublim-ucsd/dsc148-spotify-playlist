@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days w/ <a href="https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa?si=9cd8ab93c60b4919"> Sweet Pill</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,579 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,594 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 79 | [Hiraeth](https://open.spotify.com/track/7J1rx8Kkbuagoi3EYuyEl1) | [Common Sage](https://open.spotify.com/artist/3DE3WMda6z9BuyMEQyRNFn) | [Hiraeth](https://open.spotify.com/album/3iih8XrFxJMaDEjW6DEvON) | 3:45 |
 | 80 | [King Bee](https://open.spotify.com/track/7zIHAwiZvJZIQQ3AKximtT) | [Prairie Fire](https://open.spotify.com/artist/5LiZglQ0vLYvvEqa7oCXfd) | [King Bee](https://open.spotify.com/album/2Jo9Gu7tQloGevEX8NhGmL) | 2:43 |
 
-Snapshot ID: `MCw3ZTBhNjM1NzkwNTIwODlmY2VjNjAyZmIyNTEzNDNjOGEyMDIzNGUz`
+Snapshot ID: `MCxlNzI3NzRlY2QwOTA4NDEwOTcwOGI5Y2M0ZTg4MGRmMTVkMmQ5Yjhj`

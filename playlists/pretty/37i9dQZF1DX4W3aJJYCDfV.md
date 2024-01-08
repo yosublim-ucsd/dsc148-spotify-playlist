@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Bring Me The Horizon \(pictured\), Lewis Capaldi, The Last Dinner Party and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,582 likes - 99 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,397 likes - 99 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 98 | [Ain't Misbehavin'](https://open.spotify.com/track/1d0P00e6Esi37XOWiDlvG9) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Ain't Misbehavin'](https://open.spotify.com/album/5mWDJe2FHrLyGSNVux1nw0) | 2:26 |
 | 99 | [Always Be My Man](https://open.spotify.com/track/2p3EVCmbKI4O72S6kTRdXL) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4), [Luke Evans](https://open.spotify.com/artist/0MO42HJhUFrv078qALxpPQ) | [Always Be My Man](https://open.spotify.com/album/5hnOIy6Hw9dHsROVHUOQBJ) | 3:24 |
 
-Snapshot ID: `MCxkZDM1MmE5NjEzNjY1YzNiNzU1YzgzMWFiZjQxZWE3NmUxNDg4NzA5`
+Snapshot ID: `MCwxMDViYmMzNDU4ZjdhNTQ2ZjdiYzc3YWUwOTk4NjJiMThmZTE2Njk1`

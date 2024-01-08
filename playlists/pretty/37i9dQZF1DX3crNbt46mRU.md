@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: MERO, AYLIVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,043 likes - 59 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,045 likes - 59 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 58 | [Verschwende Dich](https://open.spotify.com/track/3VyhKnsWF9sJmZpR3ex1fH) | [Max Prosa](https://open.spotify.com/artist/0UU6joGwY7wUWWDyaPNKSF), [Stiehler](https://open.spotify.com/artist/3t6PFvpjhve61oCENXXrh9), [Hannah Herzsprung](https://open.spotify.com/artist/5WqubPXBuDFvWO8WMUq1JW) | [Verschwende Dich](https://open.spotify.com/album/1hzhtWLXn50NMy1FqEM0h4) | 3:15 |
 | 59 | [American Dream](https://open.spotify.com/track/2XmkX75czcI3KwZfvuvkPx) | [Oda Loves You](https://open.spotify.com/artist/1SPo0Gb7MLOZRbrpnj4ybr) | [American Dream](https://open.spotify.com/album/2byLuldZbRlXBHQyAVR3AZ) | 3:33 |
 
-Snapshot ID: `MCxlZmM5ZDc5YTczM2U4ODU3Yjk0OGIxNzdmMWY4NGU5OTczMzFjYjA0`
+Snapshot ID: `MCwwN2Y4ZTg2ZWI3ZTI4MDQ3MjJkZWUyMWJlN2E3YjRkMjk4YWU5NWVj`

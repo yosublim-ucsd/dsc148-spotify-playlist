@@ -3580,7 +3580,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 201562,
       "name": "Cellad\u0131na A\u015f\u0131k",
       "url": "https://open.spotify.com/track/2PaQb8AtQqIxawPA2O7Vaw"
@@ -7873,6 +7873,28 @@
     },
     {
       "album": {
+        "name": "\u0130stanbul",
+        "url": "https://open.spotify.com/album/2M1gxZdQbljVxyv4IUGgHA"
+      },
+      "artists": [
+        {
+          "name": "Cash Flow",
+          "url": "https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk"
+        },
+        {
+          "name": "Batuflex",
+          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172978,
+      "name": "\u0130stanbul",
+      "url": "https://open.spotify.com/track/5WO3fQkU2Stfv6LGzwhwFL"
+    },
+    {
+      "album": {
         "name": "ZENGBEJ",
         "url": "https://open.spotify.com/album/5YO5YKavkoBZDA5tTZbsm7"
       },
@@ -9234,6 +9256,28 @@
       "duration_ms": 203064,
       "name": "Levitating (feat. DaBaby)",
       "url": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"
+    },
+    {
+      "album": {
+        "name": "Daha Derine",
+        "url": "https://open.spotify.com/album/6gj3CjEPM2m4tWzLgVURTE"
+      },
+      "artists": [
+        {
+          "name": "Murat Dalk\u0131l\u0131\u00e7",
+          "url": "https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx"
+        },
+        {
+          "name": "Boygar",
+          "url": "https://open.spotify.com/artist/4PJjx45YgWsvQ8srXC2Txe"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194646,
+      "name": "Leyla",
+      "url": "https://open.spotify.com/track/1yNlQwfPdHQg1ynxfBbk2a"
     },
     {
       "album": {
@@ -10828,7 +10872,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 256777,
       "name": "Numarac\u0131",
       "url": "https://open.spotify.com/track/6LATAa81iyMHWhXgI4VHwL"
@@ -14218,7 +14262,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 163021,
       "name": "Tutun Sen Bana",
       "url": "https://open.spotify.com/track/2AcCBpYHVbeV2IUU4iHP2Y"
@@ -15088,7 +15132,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 141072,
       "name": "YAPTIRICAZ TIRNAKLARINI",
       "url": "https://open.spotify.com/track/2Id54XtcFLHSe0JNfHR45k"

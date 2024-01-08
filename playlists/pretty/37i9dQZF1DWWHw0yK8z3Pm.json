@@ -1,12 +1,12 @@
 {
   "description": "Fearless sounds at the crossroads of Country and Folk. Cover: Sam Barber",
-  "num_followers": 59904,
+  "num_followers": 59945,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWFlZGJlNTE5M2YzOThmM2IzZmEwMjM2OTVkYTY2MThhNTMxMmEz",
+  "snapshot_id": "MCxmMDI4NTNmNjc5ZThlNWRiMjIwNjYxNmNkZDE5ZjgxYTY4NDBiNWYx",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -719,18 +719,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/3pg8vVz9dDzYdfQxgT9MCP"
+        "name": "Fortune Favors the Bold",
+        "url": "https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw"
       },
       "artists": [
         {
-          "name": "The Ballroom Thieves",
-          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
         }
       ],
-      "duration_ms": 146593,
-      "name": "In the Morning",
-      "url": "https://open.spotify.com/track/4CAdFDe8JiL6P992pHAGwy"
+      "duration_ms": 199734,
+      "name": "Damn Darlin'",
+      "url": "https://open.spotify.com/track/6QAxm6mkOsTaFldlg6Iken"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Fortune Favors the Bold",
-        "url": "https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw"
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/3pg8vVz9dDzYdfQxgT9MCP"
       },
       "artists": [
         {
-          "name": "49 Winchester",
-          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
         }
       ],
-      "duration_ms": 199734,
-      "name": "Damn Darlin'",
-      "url": "https://open.spotify.com/track/6QAxm6mkOsTaFldlg6Iken"
+      "duration_ms": 146593,
+      "name": "In the Morning",
+      "url": "https://open.spotify.com/track/4CAdFDe8JiL6P992pHAGwy"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/2wIEh2fmEXXcpHoW0MeOpn"
-      },
-      "artists": [
-        {
-          "name": "John Muirhead",
-          "url": "https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0"
-        }
-      ],
-      "duration_ms": 242484,
-      "name": "This Distance",
-      "url": "https://open.spotify.com/track/2BqSw3roc6RFuwoVAw9aud"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Dom Louis",
         "url": "https://open.spotify.com/album/0gxSPjAI7bRL1qhMzQyQT6"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 184785,
       "name": "Fighting Like Hell to Be Free",
       "url": "https://open.spotify.com/track/6Mg4YqzbhRu0HeoWFSrCNQ"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/2wIEh2fmEXXcpHoW0MeOpn"
+      },
+      "artists": [
+        {
+          "name": "John Muirhead",
+          "url": "https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0"
+        }
+      ],
+      "duration_ms": 242484,
+      "name": "This Distance",
+      "url": "https://open.spotify.com/track/2BqSw3roc6RFuwoVAw9aud"
     },
     {
       "added_at": "2024-01-05 05:00:00",

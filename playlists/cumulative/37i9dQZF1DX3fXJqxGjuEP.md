@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-490 songs - 1 day 5 hr 23 min
+491 songs - 1 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [4am](https://open.spotify.com/track/0WXBLLPbYbYllFJWU61hwa) | [Marrón](https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5) | [4am](https://open.spotify.com/album/4E39syrDiQYSJamBhVAIBy) | 3:37 | 2021-10-20 | 2022-04-19 |
 | [A la Madrugada](https://open.spotify.com/track/0Y0fjDVP3AdvODBG0jOIht) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/3RdOl7kpv8eExyjI9YhANs) | 4:21 | 2021-10-20 | 2023-10-08 |
 | [A La Madrugada](https://open.spotify.com/track/5N2I59WWXb2sxyATLkhCLI) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/0PdHrBTszQMv7M2nqhMy6z) | 4:21 | 2021-10-20 | 2022-07-23 |
+| [A la Madrugada](https://open.spotify.com/track/10LdL0dPRj9USXdfT0Vt4p) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs) | 4:22 | 2021-10-20 |  |
 | [A La Vida](https://open.spotify.com/track/7MQx0JhzfO64mciunnkD7o) | [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj), [Orkesta Mendoza](https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT) | [Off The Record](https://open.spotify.com/album/3ltOG1Zcq6fbqYvwIGBXeu) | 3:05 | 2021-10-20 | 2022-07-29 |
 | [A Shot in the Dark](https://open.spotify.com/track/1S2dznj3rS24uBd7ZtkiEh) | [Dos Santos](https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP) | [A Shot in the Dark](https://open.spotify.com/album/0hMnDUlrEBy6TxGCdppD8G) | 3:13 | 2021-10-20 | 2022-04-20 |
 | [Acapulco, dos de la tard](https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap) | [Coopers](https://open.spotify.com/artist/0Up9P61xDdOSe0XEyCJ6ph) | [Heavenly Sweetness Sampler \#3](https://open.spotify.com/album/6S7fiWGmRObHoDOLlhHptX) | 3:04 | 2021-10-20 | 2022-04-21 |
@@ -257,7 +258,7 @@
 | [La Yarará](https://open.spotify.com/track/4rpNuGWK8BQSzjQyN5mrP8) | [Malena Zavala](https://open.spotify.com/artist/6SVGcUwNBOZMwiZqpCwykX) | [La Yarará](https://open.spotify.com/album/6evf1MP8swNffomGu9hw9o) | 3:20 | 2021-10-20 | 2022-04-16 |
 | [Laberinto](https://open.spotify.com/track/0dLGjsAIbZjyPWJmiSiSsN) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [David Palacio](https://open.spotify.com/artist/07O1E4p8TxhyvbMoVPgV5k) | [Piratas, Pero Románticos \(Con Ritmos Chidos\)](https://open.spotify.com/album/2RphpJJRwZgzHQHqiF1PGr) | 3:20 | 2022-09-30 | 2022-11-08 |
 | [Laberinto \- Bosq Remix](https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Laberinto \(Bosq Remix\)](https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k) | 3:44 | 2022-02-25 | 2023-12-20 |
-| [Las 4:40](https://open.spotify.com/track/375DBtzbfzVuHcDK8TG9PB) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Las 4:40](https://open.spotify.com/album/6pmJmeza6r8945UIiY6dpW) | 3:17 | 2022-09-03 |  |
+| [Las 4:40](https://open.spotify.com/track/375DBtzbfzVuHcDK8TG9PB) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Las 4:40](https://open.spotify.com/album/6pmJmeza6r8945UIiY6dpW) | 3:17 | 2022-09-03 | 2024-01-08 |
 | [Le Soleil Descend](https://open.spotify.com/track/0mDNjIWcWqU3bgF8fiGnOW) | [Wesli](https://open.spotify.com/artist/7BOu7POeMEK7gaMPZcsvt5), [Paul Cargnello](https://open.spotify.com/artist/4er9yr5qZMtEFHY3GR7VYj) | [Le Soleil Descend](https://open.spotify.com/album/5GmeUeefieul7OH3nrFaKN) | 4:08 | 2021-10-20 | 2022-07-29 |
 | [Lento](https://open.spotify.com/track/3hkjx8O2hidtvTYjHLwC4d) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Tierra](https://open.spotify.com/album/1fbKhVPG7X4oROz23Z7d2J) | 2:35 | 2021-10-20 | 2022-07-29 |
 | [Les jolies choses](https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Les jolies choses](https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI) | 3:42 | 2021-10-20 |  |

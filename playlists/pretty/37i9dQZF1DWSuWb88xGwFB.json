@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 32309,
+  "num_followers": 32338,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWQ0YmUxNjZiMGM4OTU2MWU3YWQ0YTYxMGU1MDM0YWM3MTdkZTg1",
+  "snapshot_id": "MCxjNWJmYzNmMjA3MTcxYjcwZjVlZDZjZmNkNmEwZWFiNGM5Y2FkMzFh",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "(Who?) Keeps Changing Your Mind",
-        "url": "https://open.spotify.com/album/1nDuo6QoHqcjkLIAwZxDV5"
-      },
-      "artists": [
-        {
-          "name": "South Street Player",
-          "url": "https://open.spotify.com/artist/2KnAxJh4OfnNG3Db0Ueway"
-        }
-      ],
-      "duration_ms": 460939,
-      "name": "(Who?) Keeps Changing Your Mind? (The Night Mix)",
-      "url": "https://open.spotify.com/track/7ftmZ7EC897SWRYNWhhwWe"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Zulu",
         "url": "https://open.spotify.com/album/4iVlfhatg1p0IlyUb2bMwo"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 474560,
       "name": "Zulu (Change Mix)",
       "url": "https://open.spotify.com/track/3K0HgKUzvMjggsHMWbq8EY"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "(Who?) Keeps Changing Your Mind",
+        "url": "https://open.spotify.com/album/1nDuo6QoHqcjkLIAwZxDV5"
+      },
+      "artists": [
+        {
+          "name": "South Street Player",
+          "url": "https://open.spotify.com/artist/2KnAxJh4OfnNG3Db0Ueway"
+        }
+      ],
+      "duration_ms": 460939,
+      "name": "(Who?) Keeps Changing Your Mind? (The Night Mix)",
+      "url": "https://open.spotify.com/track/7ftmZ7EC897SWRYNWhhwWe"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/6714X9DTEcUC6K6yv1uQpE"
-      },
-      "artists": [
-        {
-          "name": "R.A.W.",
-          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
-        }
-      ],
-      "duration_ms": 430867,
-      "name": "Unbe (Erick 'More' Mix)",
-      "url": "https://open.spotify.com/track/5tDlZhntGKCwqFKJZXRYAv"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Witch Doktor (Eddie Thoneick Remix)",
         "url": "https://open.spotify.com/album/4twj4eYghihhYHeVhM0TkM"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 442739,
       "name": "Witch Doktor (Eddie Thoneick Remix)",
       "url": "https://open.spotify.com/track/7xHUqMQfeiPUpQOlCxTYkY"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/6714X9DTEcUC6K6yv1uQpE"
+      },
+      "artists": [
+        {
+          "name": "R.A.W.",
+          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
+        }
+      ],
+      "duration_ms": 430867,
+      "name": "Unbe (Erick 'More' Mix)",
+      "url": "https://open.spotify.com/track/5tDlZhntGKCwqFKJZXRYAv"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -547,18 +547,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Get Up (Mixed by Armand Van Helden)",
-        "url": "https://open.spotify.com/album/6sW08qvj1KH5UdDiuWSQ8L"
+        "name": "Asuca",
+        "url": "https://open.spotify.com/album/5DRODMw9XhelyGqmZn3VHM"
       },
       "artists": [
         {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+          "name": "R.A.W.",
+          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
         }
       ],
-      "duration_ms": 595093,
-      "name": "Witch Doktor (The Dark Ages Mix)",
-      "url": "https://open.spotify.com/track/5HOWxh7rS6kCumiu3xMIeN"
+      "duration_ms": 356676,
+      "name": "Asuca (Tribal Mix)",
+      "url": "https://open.spotify.com/track/6iJIfytcXqldt0uD4Ts02X"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -583,18 +583,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Asuca",
-        "url": "https://open.spotify.com/album/5DRODMw9XhelyGqmZn3VHM"
+        "name": "The Lost Tapes: Get Up (Mixed by Armand Van Helden)",
+        "url": "https://open.spotify.com/album/6sW08qvj1KH5UdDiuWSQ8L"
       },
       "artists": [
         {
-          "name": "R.A.W.",
-          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
         }
       ],
-      "duration_ms": 356676,
-      "name": "Asuca (Tribal Mix)",
-      "url": "https://open.spotify.com/track/6iJIfytcXqldt0uD4Ts02X"
+      "duration_ms": 595093,
+      "name": "Witch Doktor (The Dark Ages Mix)",
+      "url": "https://open.spotify.com/track/5HOWxh7rS6kCumiu3xMIeN"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Wanna Be Your Girl / Don't You Want Me (Mixes)",
-        "url": "https://open.spotify.com/album/4YCvJWj2bP2270NsPYb4B2"
-      },
-      "artists": [
-        {
-          "name": "Raw Power",
-          "url": "https://open.spotify.com/artist/5MtfmgzhHEN1aPLh6NPnYN"
-        }
-      ],
-      "duration_ms": 297037,
-      "name": "Wanna Be Your Girl (A 'G' Thang Mix)",
-      "url": "https://open.spotify.com/track/7EewnEBTJx3JDYoy7oFwc0"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Carnival 93",
         "url": "https://open.spotify.com/album/1s9imuysktLMjrbGEPAjCL"
       },
@@ -779,6 +763,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Wanna Be Your Girl / Don't You Want Me (Mixes)",
+        "url": "https://open.spotify.com/album/4YCvJWj2bP2270NsPYb4B2"
+      },
+      "artists": [
+        {
+          "name": "Raw Power",
+          "url": "https://open.spotify.com/artist/5MtfmgzhHEN1aPLh6NPnYN"
+        }
+      ],
+      "duration_ms": 297037,
+      "name": "Wanna Be Your Girl (A 'G' Thang Mix)",
+      "url": "https://open.spotify.com/track/7EewnEBTJx3JDYoy7oFwc0"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "This Way / Boy",
         "url": "https://open.spotify.com/album/0sJ8JoDLr9fnCfSKOKLRde"
       },
@@ -791,6 +791,22 @@
       "duration_ms": 428757,
       "name": "Boy (MK Deep Dub)",
       "url": "https://open.spotify.com/track/5ZHKVf10ApERLeNMdHEA4A"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Hey! / The Size (Mixes)",
+        "url": "https://open.spotify.com/album/0XkBAnu83dKmmUNgPSBoqi"
+      },
+      "artists": [
+        {
+          "name": "Bass Hitt",
+          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
+        }
+      ],
+      "duration_ms": 427132,
+      "name": "Hey! (The Rhythm Hype Mix)",
+      "url": "https://open.spotify.com/track/4sQ9FNrJOY0R8wwOnX8fUF"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -815,38 +831,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Hey! / The Size (Mixes)",
-        "url": "https://open.spotify.com/album/0XkBAnu83dKmmUNgPSBoqi"
-      },
-      "artists": [
-        {
-          "name": "Bass Hitt",
-          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
-        }
-      ],
-      "duration_ms": 427132,
-      "name": "Hey! (The Rhythm Hype Mix)",
-      "url": "https://open.spotify.com/track/4sQ9FNrJOY0R8wwOnX8fUF"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "The Swing Doctor",
-        "url": "https://open.spotify.com/album/00V3nccGV3eXjxWRPkmqmD"
-      },
-      "artists": [
-        {
-          "name": "The Untouchables",
-          "url": "https://open.spotify.com/artist/56T2velmlNdZj0izQHv0HF"
-        }
-      ],
-      "duration_ms": 343720,
-      "name": "Dance to the Rhythm",
-      "url": "https://open.spotify.com/track/27JQqhKAZ2LnQv2hZtumUb"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Lost Tapes: Tony Humphries Strictly Rhythm Mix",
         "url": "https://open.spotify.com/album/5OnKjcZw9bdTwtehVtdBcp"
       },
@@ -863,6 +847,38 @@
       "duration_ms": 233466,
       "name": "The Warning (2 Copy Mix)",
       "url": "https://open.spotify.com/track/6zUi8w1eVSwqBl1YbmxDKS"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Spark da Meth",
+        "url": "https://open.spotify.com/album/0CK0eq8QWkn1xRp4LXYx8j"
+      },
+      "artists": [
+        {
+          "name": "Da Mongoloids",
+          "url": "https://open.spotify.com/artist/4kFSMAFsG778Q66t3zHXaG"
+        }
+      ],
+      "duration_ms": 398566,
+      "name": "Spark da Meth (Bangin Like a Benzi Mix)",
+      "url": "https://open.spotify.com/track/1IOM3ZT5FbNk9PgGieEdRg"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Swing Doctor",
+        "url": "https://open.spotify.com/album/00V3nccGV3eXjxWRPkmqmD"
+      },
+      "artists": [
+        {
+          "name": "The Untouchables",
+          "url": "https://open.spotify.com/artist/56T2velmlNdZj0izQHv0HF"
+        }
+      ],
+      "duration_ms": 343720,
+      "name": "Dance to the Rhythm",
+      "url": "https://open.spotify.com/track/27JQqhKAZ2LnQv2hZtumUb"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -887,22 +903,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Spark da Meth",
-        "url": "https://open.spotify.com/album/0CK0eq8QWkn1xRp4LXYx8j"
-      },
-      "artists": [
-        {
-          "name": "Da Mongoloids",
-          "url": "https://open.spotify.com/artist/4kFSMAFsG778Q66t3zHXaG"
-        }
-      ],
-      "duration_ms": 398566,
-      "name": "Spark da Meth (Bangin Like a Benzi Mix)",
-      "url": "https://open.spotify.com/track/1IOM3ZT5FbNk9PgGieEdRg"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Love Trax",
         "url": "https://open.spotify.com/album/5JI7FL0GncLmee3QK617rc"
       },
@@ -915,22 +915,6 @@
       "duration_ms": 406131,
       "name": "Love Trax (Love Izz)",
       "url": "https://open.spotify.com/track/3XlsIeTlYuDf78ol5mc6t2"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Sweet Ambience (Mixes)",
-        "url": "https://open.spotify.com/album/2NG6h81Fi7BUv1Vjbc0y4D"
-      },
-      "artists": [
-        {
-          "name": "Lovechild",
-          "url": "https://open.spotify.com/artist/2walEOww1vnqb5vfpBDZJQ"
-        }
-      ],
-      "duration_ms": 300943,
-      "name": "Sweet Ambience (Club Mix)",
-      "url": "https://open.spotify.com/track/0gB9g69Sq29fbkbTix26lj"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -951,6 +935,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Sweet Ambience (Mixes)",
+        "url": "https://open.spotify.com/album/2NG6h81Fi7BUv1Vjbc0y4D"
+      },
+      "artists": [
+        {
+          "name": "Lovechild",
+          "url": "https://open.spotify.com/artist/2walEOww1vnqb5vfpBDZJQ"
+        }
+      ],
+      "duration_ms": 300943,
+      "name": "Sweet Ambience (Club Mix)",
+      "url": "https://open.spotify.com/track/0gB9g69Sq29fbkbTix26lj"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Curious",
         "url": "https://open.spotify.com/album/1VLqSHhPv6mCfYdGvBFfHF"
       },
@@ -963,22 +963,6 @@
       "duration_ms": 441120,
       "name": "Curious (Vocal Mix)",
       "url": "https://open.spotify.com/track/7Mfn2DaQvcnvjfRb18c4g1"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Boom / I Need Your Love",
-        "url": "https://open.spotify.com/album/1G7KXTJydP5w5UIQCQBL2t"
-      },
-      "artists": [
-        {
-          "name": "House 2 House",
-          "url": "https://open.spotify.com/artist/70iQImFp3CMD1MXnDvmAIz"
-        }
-      ],
-      "duration_ms": 358546,
-      "name": "Boom (Radio Mix)",
-      "url": "https://open.spotify.com/track/2Mnqeirws7LI60BXCKRA3S"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Just An Organ / Getting Bigger (Mixes)",
-        "url": "https://open.spotify.com/album/5BnDOPtqUI0eR3yIorHn7j"
+        "name": "Boom / I Need Your Love",
+        "url": "https://open.spotify.com/album/1G7KXTJydP5w5UIQCQBL2t"
       },
       "artists": [
         {
-          "name": "D-Tune",
-          "url": "https://open.spotify.com/artist/26P8hiVKDgo3V5CfdYwSWm"
+          "name": "House 2 House",
+          "url": "https://open.spotify.com/artist/70iQImFp3CMD1MXnDvmAIz"
         }
       ],
-      "duration_ms": 337901,
-      "name": "Just an Organ (Just An Organ Mix)",
-      "url": "https://open.spotify.com/track/5sUqzg4M6ghFpcTciCiSiH"
+      "duration_ms": 358546,
+      "name": "Boom (Radio Mix)",
+      "url": "https://open.spotify.com/track/2Mnqeirws7LI60BXCKRA3S"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1063,6 +1047,22 @@
       "duration_ms": 468520,
       "name": "Set My Spirit Free (feat. Sandy Rivera)",
       "url": "https://open.spotify.com/track/1Atpos1RTfmnpMzeSTkMHx"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Just An Organ / Getting Bigger (Mixes)",
+        "url": "https://open.spotify.com/album/5BnDOPtqUI0eR3yIorHn7j"
+      },
+      "artists": [
+        {
+          "name": "D-Tune",
+          "url": "https://open.spotify.com/artist/26P8hiVKDgo3V5CfdYwSWm"
+        }
+      ],
+      "duration_ms": 337901,
+      "name": "Just an Organ (Just An Organ Mix)",
+      "url": "https://open.spotify.com/track/5sUqzg4M6ghFpcTciCiSiH"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Jump & Sing / Work Me",
-        "url": "https://open.spotify.com/album/1o2QtNuAMWhMDnOeEvfal6"
-      },
-      "artists": [
-        {
-          "name": "Scram",
-          "url": "https://open.spotify.com/artist/00OeT8g2l7bAwFH9oD9TEu"
-        }
-      ],
-      "duration_ms": 341200,
-      "name": "Jump & Sing (Hard Metro Mix)",
-      "url": "https://open.spotify.com/track/0a47CdRlKFkKTMX6ZSH2nL"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "DJ Sneak EP-Dancin'",
         "url": "https://open.spotify.com/album/69jwLtxrbsyD2TFAjZANky"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 731735,
       "name": "Dancin",
       "url": "https://open.spotify.com/track/1eoiVmdM3ja0wRN4Zfh9HD"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Jump & Sing / Work Me",
+        "url": "https://open.spotify.com/album/1o2QtNuAMWhMDnOeEvfal6"
+      },
+      "artists": [
+        {
+          "name": "Scram",
+          "url": "https://open.spotify.com/artist/00OeT8g2l7bAwFH9oD9TEu"
+        }
+      ],
+      "duration_ms": 341200,
+      "name": "Jump & Sing (Hard Metro Mix)",
+      "url": "https://open.spotify.com/track/0a47CdRlKFkKTMX6ZSH2nL"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "In Da Clouds",
+        "url": "https://open.spotify.com/album/62sUlFutPV4Txj0H1NyDun"
+      },
+      "artists": [
+        {
+          "name": "Sneak Essentials",
+          "url": "https://open.spotify.com/artist/6WCDD5NXovsM6IGfwII63K"
+        }
+      ],
+      "duration_ms": 518960,
+      "name": "In Da Clouds (Da Dub)",
+      "url": "https://open.spotify.com/track/7iKcjAQmWCTSEOKiL2krbm"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "The Beat That Makes U Move",
         "url": "https://open.spotify.com/album/5GyM1JW6iNfthvDAAuQZnX"
       },
@@ -1259,18 +1275,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "In Da Clouds",
-        "url": "https://open.spotify.com/album/62sUlFutPV4Txj0H1NyDun"
+        "name": "The Lost Tapes: 'Little' Louie Vega Strictly Rhythm Mix",
+        "url": "https://open.spotify.com/album/4at8XY2nq3Ll6EF9FnuhG4"
       },
       "artists": [
         {
-          "name": "Sneak Essentials",
-          "url": "https://open.spotify.com/artist/6WCDD5NXovsM6IGfwII63K"
+          "name": "Motion Lotion",
+          "url": "https://open.spotify.com/artist/6zNLfnKYj3cf2dw6S0aJxn"
         }
       ],
-      "duration_ms": 518960,
-      "name": "In Da Clouds (Da Dub)",
-      "url": "https://open.spotify.com/track/7iKcjAQmWCTSEOKiL2krbm"
+      "duration_ms": 554971,
+      "name": "The Sound (The Studio 54 Mix)",
+      "url": "https://open.spotify.com/track/6186cF9Qxme1RSySI6v3PR"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1287,22 +1303,6 @@
       "duration_ms": 379760,
       "name": "Muzik (The Siren Mix)",
       "url": "https://open.spotify.com/track/5yFx6rMeGeQlfeBmGNZ7pr"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega Strictly Rhythm Mix",
-        "url": "https://open.spotify.com/album/4at8XY2nq3Ll6EF9FnuhG4"
-      },
-      "artists": [
-        {
-          "name": "Motion Lotion",
-          "url": "https://open.spotify.com/artist/6zNLfnKYj3cf2dw6S0aJxn"
-        }
-      ],
-      "duration_ms": 554971,
-      "name": "The Sound (The Studio 54 Mix)",
-      "url": "https://open.spotify.com/track/6186cF9Qxme1RSySI6v3PR"
     }
   ],
   "unique_name": "Crate Diggin' Strictly Rhythm",

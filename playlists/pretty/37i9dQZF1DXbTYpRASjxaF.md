@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > Pega o gelo de coco, chama o bonde e vem pra festa\. Foto: MC GP
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,569 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,614 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 49 | [Misturas no copo](https://open.spotify.com/track/64snhXUXQyLWrnqReKEMTZ) | [Bubbajay](https://open.spotify.com/artist/7fctsXmbgy715CE6TEafJq), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym), [Jorge Bask](https://open.spotify.com/artist/5tqwly8nT5UgSI4HHIAPxy) | [Misturas no copo](https://open.spotify.com/album/5nXUkunHwgPc9SBdTIggol) | 2:52 |
 | 50 | [Platinado](https://open.spotify.com/track/2zZWxrqEjaEBJwUzyEX01S) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Platinado](https://open.spotify.com/album/4E62XM9QVdCFVUuTcVFMPa) | 2:23 |
 
-Snapshot ID: `MCxkMjc2NTUwM2RlOTM4NjY1NWFmZTU0YTFlYThmZjc0MTBjNDM2Zjc4`
+Snapshot ID: `MCw5YjljYWRlNjgwNTQ0Mjg4NmI0NzMxNzVjYjhhZjdiOTU1YTNjMDMx`

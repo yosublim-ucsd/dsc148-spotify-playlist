@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,703 likes - 49 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,755 likes - 49 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 35 | [Que Calô](https://open.spotify.com/track/1WJgJsOJ5wXlZl1yn5yJaz) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [Que Calô](https://open.spotify.com/album/3b9DQpepHWNXyl21Zk3jUD) | 3:00 |
 | 36 | [Só Você](https://open.spotify.com/track/50NwQLqay9RJRTgWW8qS5j) | [Lifee](https://open.spotify.com/artist/0r4C1Ww5TXFfdbPa7b7IEc), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [Gabriel Maré](https://open.spotify.com/artist/1biHMI6ghANuhdOWKRcwJL) | [Só Você](https://open.spotify.com/album/08Ixz1AGeGG2fJgFhuuL1j) | 2:24 |
 | 37 | [Yo Quiero Te Namorar](https://open.spotify.com/track/6scYrkXq1wfxADlx9aeOyf) | [NegrãoDoCéu](https://open.spotify.com/artist/7IRAMOb7oQMFe3vYolwQcx), [DJFILLSP](https://open.spotify.com/artist/4bNL7mdXdO73ABIkXvjDa7) | [Yo Quiero Te Namorar](https://open.spotify.com/album/6ACgiyuojhvWp10E50wOhq) | 3:18 |
-| 38 | [Aí é Bom Demais](https://open.spotify.com/track/6PXlhZWUQPF6vUoBPEfNl0) | [Garius](https://open.spotify.com/artist/0BXmaBCcv4S4rYZc0nECVA), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Deagaene](https://open.spotify.com/artist/5JcChpQICoJnLNmzEgpWEq) | [Aí é Bom Demais](https://open.spotify.com/album/08c5GcRuyhM8YYaqAbfvRu) | 3:17 |
-| 39 | [Do Nada](https://open.spotify.com/track/6pSfaweiI9EbBCT4nJtnWF) | [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [Stanley Castro](https://open.spotify.com/artist/7LLv5yYIB0JNOIiYBeOGah) | [Do Nada](https://open.spotify.com/album/5mknumaaSzVG9Tul1H1v1F) | 3:25 |
-| 40 | [Quando cê vem](https://open.spotify.com/track/5yUVU8gXMjqNf7LMqvfoto) | [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Quando cê vem](https://open.spotify.com/album/3ujLo8nafDUnNuoAvROAuX) | 3:36 |
+| 38 | [Do Nada](https://open.spotify.com/track/6pSfaweiI9EbBCT4nJtnWF) | [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [Stanley Castro](https://open.spotify.com/artist/7LLv5yYIB0JNOIiYBeOGah) | [Do Nada](https://open.spotify.com/album/5mknumaaSzVG9Tul1H1v1F) | 3:25 |
+| 39 | [Quando cê vem](https://open.spotify.com/track/5yUVU8gXMjqNf7LMqvfoto) | [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Quando cê vem](https://open.spotify.com/album/3ujLo8nafDUnNuoAvROAuX) | 3:36 |
+| 40 | [Aí é Bom Demais](https://open.spotify.com/track/6PXlhZWUQPF6vUoBPEfNl0) | [Garius](https://open.spotify.com/artist/0BXmaBCcv4S4rYZc0nECVA), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Deagaene](https://open.spotify.com/artist/5JcChpQICoJnLNmzEgpWEq) | [Aí é Bom Demais](https://open.spotify.com/album/08c5GcRuyhM8YYaqAbfvRu) | 3:17 |
 | 41 | [Medusa](https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt) | [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Bi$](https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA) | [Medusa](https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT) | 2:24 |
 | 42 | [Perigo](https://open.spotify.com/track/5hFhHT6WwgT6u7uiX3zlFQ) | [Peninha'](https://open.spotify.com/artist/02e9lRqB5AyDxWiLhakLu7), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [JovemBlues](https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [Perigo](https://open.spotify.com/album/1oFEEJiCKaUPk8h4yqVwvT) | 2:40 |
 | 43 | [Não Prometeu Nada](https://open.spotify.com/track/4OBi6cp6oOHCpQ0QUNgvBf) | [Victor sant's](https://open.spotify.com/artist/4voy1QTNcJmxLh0yQZ1dFp), [Pivet Panda](https://open.spotify.com/artist/0CnriNsGq7Nk89GNfISBcu), [Zamba](https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW) | [Não Prometeu Nada](https://open.spotify.com/album/1pnQNAQCN0TfWcdiChWUlS) | 2:55 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 48 | [Arrepios](https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Ananda](https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj) | [Arrepios](https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg) | 3:25 |
 | 49 | [Glacial](https://open.spotify.com/track/3Wkl0N6952UrqUaM3T5aym) | [Peralta](https://open.spotify.com/artist/4nMPynp0RHI6NYfiaoxsbX), [Dom Big](https://open.spotify.com/artist/73WTj9NUEBlyVuujt8cBkG) | [Glacial](https://open.spotify.com/album/2uGkwTWK8zgE2n0oUHTC7A) | 3:00 |
 
-Snapshot ID: `MCw5NjFjOTIzZjA4M2ZhNTg2NWJkNzdkMmVkZTg0ODExOTZmODk5NTY0`
+Snapshot ID: `MCxmNjFiOTRjYTNiOGQzZDBhNDcxZGFjNjMzZjU2MjViNWYyMWQzMGIw`

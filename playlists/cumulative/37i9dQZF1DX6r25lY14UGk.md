@@ -4,7 +4,7 @@
 
 > New releases for the kids\. Cover: Pj Panda
 
-199 songs - 9 hr 3 min
+200 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,8 @@
 | [So Many Ideas \- David Gibb Remix](https://open.spotify.com/track/2z3QhFMwRIpfGBBjATxUAu) | [Brady Rymer and the Little Band That Could](https://open.spotify.com/artist/2q0R0ObitsBJIp1sMtfHz6), [David Gibb](https://open.spotify.com/artist/52FYO0le6ZR0UpzqFtxSot) | [So Many Ideas \(David Gibb Remix\)](https://open.spotify.com/album/1ijDxXCzMW8b81cNe2QKdR) | 3:24 | 2022-04-15 | 2024-01-05 |
 | [So Many Ways \(feat\. Uncle Jumbo\)](https://open.spotify.com/track/78LJuqoUgXS7q7KWf0U7J5) | [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb), [Uncle Jumbo](https://open.spotify.com/artist/7aV5KB8LdwHDrpgVb3GfAI) | [Welcome Spring](https://open.spotify.com/album/1gQzsrdjYnlTO1snfJ8FTN) | 2:47 | 2022-04-15 | 2024-01-05 |
 | [Star Time](https://open.spotify.com/track/0qAXuuf6hqTwHuwUkXET6m) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Claudia Zanes](https://open.spotify.com/artist/1mEDDCiHoa4Win8FuJmAfh), [Dan + Claudia Zanes](https://open.spotify.com/artist/5qcWTB20UyUKLIKYyjcjyn), [Ashley Sierra](https://open.spotify.com/artist/16BIZB7utTioOJEuqJEDNY) | [Let Love Be Your Guide](https://open.spotify.com/album/29YQcKWonRl02h3pypRui6) | 3:49 | 2022-04-15 | 2023-10-28 |
-| [Steal The Show \- From "Elemental"](https://open.spotify.com/track/6R5fYCySNHrqo4Og6O1ppn) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Steal The Show \(From "Elemental"\)](https://open.spotify.com/album/1rMI4GKDwtz8Ok0e7jbE4l) | 3:11 | 2024-01-05 |  |
+| [Steal The Show](https://open.spotify.com/track/0SccFtYdj75y6lL2OW10Cf) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Elemental \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7L15PXtti3kXEn7vTXi8ZV) | 3:12 | 2024-01-05 |  |
+| [Steal The Show \- From "Elemental"](https://open.spotify.com/track/6R5fYCySNHrqo4Og6O1ppn) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Steal The Show \(From "Elemental"\)](https://open.spotify.com/album/1rMI4GKDwtz8Ok0e7jbE4l) | 3:11 | 2024-01-05 | 2024-01-08 |
 | [Stereotype](https://open.spotify.com/track/4FUjZrdHlTUnDhMfaGazsf) | [The Happy Racers](https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt) | [Stereotype](https://open.spotify.com/album/3izhrUyfDvcbHltLih5KLO) | 2:27 | 2022-04-15 | 2024-01-05 |
 | [Strong](https://open.spotify.com/track/6In2DRsxT6UKi6bMjlp6sE) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Strong](https://open.spotify.com/album/31x3iFEsG2cQ6JdV5SirQA) | 3:18 | 2022-04-15 | 2024-01-05 |
 | [Summer Days](https://open.spotify.com/track/0ETcX26w2dtcPeL4gL7o4P) | [Music with Michal](https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc) | [Summer Days](https://open.spotify.com/album/5pVy5wPtKm0ZrRNEvLbn4u) | 2:20 | 2022-04-15 | 2024-01-05 |

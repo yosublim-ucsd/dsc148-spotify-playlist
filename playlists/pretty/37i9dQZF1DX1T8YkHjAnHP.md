@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 
 > <a href="spotify:artist:5bKdC6382t97Qnpvs81Rqx">Bedouin</a>'s favorite tracks\. Updated regularly\. Curated by Bedouin\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,670 likes - 73 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,711 likes - 73 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 | 72 | [L Train \- Interlude](https://open.spotify.com/track/3VauKqe12IMSG01zZZQ8Bh) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Temple Of Dreams](https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX) | 0:52 |
 | 73 | [Yes \- Club Version](https://open.spotify.com/track/1gcPomDSpxuRptrxDv9KNx) | [Chambray](https://open.spotify.com/artist/4FUZzDnu4gBue46G99hesO) | [Yes](https://open.spotify.com/album/0uDxZbREPCOFOjuT1CPlER) | 5:06 |
 
-Snapshot ID: `MCxlY2ZlNjgwMzI0NzcxMDJkNWUzMGJiZjIzMDFiN2UzMWVlMmQ1NDgw`
+Snapshot ID: `MCwwNjI4NDNhMmVhMWE4Y2M5MWY4MzI1ZDIwNmU4MjkyYTBhNTFiNDFh`

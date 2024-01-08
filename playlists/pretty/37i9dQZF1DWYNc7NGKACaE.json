@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 75680,
+  "num_followers": 75709,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTYxMGNlMDk5ZjFkYjJhYjg4M2QyZDhlNzcxMzk3OTg5YTk5OTk0",
+  "snapshot_id": "MCxlN2JjYTIxYjJjNjU2MGRlMmFkN2RhMjZjN2M0ODI4NzkzMDUyYzc2",
   "tracks": [
     {
       "added_at": "2023-12-27 14:18:14",
@@ -391,30 +391,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/28Ie3Vq0wTIfjnrfrHsFS6"
-      },
-      "artists": [
-        {
-          "name": "Gapes",
-          "url": "https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu"
-        },
-        {
-          "name": "fallkee",
-          "url": "https://open.spotify.com/artist/6Hchz4vXMjAxlkpjiwQC4o"
-        },
-        {
-          "name": "Dougb",
-          "url": "https://open.spotify.com/artist/74FaA4BR2SefBgRTPa8jJh"
-        }
-      ],
-      "duration_ms": 120100,
-      "name": "Karma - Speed",
-      "url": "https://open.spotify.com/track/1cX47FI8Fasq3pY6p6kXV4"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "Ela T\u00e1 Querendo (Remix)",
         "url": "https://open.spotify.com/album/205zkN1K6TB8WPFwXxVq3O"
       },
@@ -443,6 +419,30 @@
       "duration_ms": 75971,
       "name": "Ela T\u00e1 Querendo - Remix",
       "url": "https://open.spotify.com/track/3AB3etyCs8orfDXKB7OVez"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/28Ie3Vq0wTIfjnrfrHsFS6"
+      },
+      "artists": [
+        {
+          "name": "Gapes",
+          "url": "https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu"
+        },
+        {
+          "name": "fallkee",
+          "url": "https://open.spotify.com/artist/6Hchz4vXMjAxlkpjiwQC4o"
+        },
+        {
+          "name": "Dougb",
+          "url": "https://open.spotify.com/artist/74FaA4BR2SefBgRTPa8jJh"
+        }
+      ],
+      "duration_ms": 120100,
+      "name": "Karma - Speed",
+      "url": "https://open.spotify.com/track/1cX47FI8Fasq3pY6p6kXV4"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -627,26 +627,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "EU N\u00c3O SOU UM G\u00caNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA",
-        "url": "https://open.spotify.com/album/6Uo1EzghXdykjOM1lzbx04"
-      },
-      "artists": [
-        {
-          "name": "PL JUNIOR",
-          "url": "https://open.spotify.com/artist/0aRFRMsUrV2E2pFu8VbMc0"
-        },
-        {
-          "name": "ANNY SUCESSADA",
-          "url": "https://open.spotify.com/artist/2QgksP01YMIrB0y7DTXqlj"
-        }
-      ],
-      "duration_ms": 106631,
-      "name": "EU N\u00c3O SOU UM G\u00caNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA",
-      "url": "https://open.spotify.com/track/1YjPBxRkXcybgV3Jq16dIW"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ",
         "url": "https://open.spotify.com/album/4ZZFHTy6rCdrnbqCoEd0B7"
       },
@@ -667,6 +647,42 @@
       "duration_ms": 136615,
       "name": "TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ",
       "url": "https://open.spotify.com/track/43qgbgEvGQKI8PofVgFFbH"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "EU N\u00c3O SOU UM G\u00caNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA",
+        "url": "https://open.spotify.com/album/6Uo1EzghXdykjOM1lzbx04"
+      },
+      "artists": [
+        {
+          "name": "PL JUNIOR",
+          "url": "https://open.spotify.com/artist/0aRFRMsUrV2E2pFu8VbMc0"
+        },
+        {
+          "name": "ANNY SUCESSADA",
+          "url": "https://open.spotify.com/artist/2QgksP01YMIrB0y7DTXqlj"
+        }
+      ],
+      "duration_ms": 106631,
+      "name": "EU N\u00c3O SOU UM G\u00caNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA",
+      "url": "https://open.spotify.com/track/1YjPBxRkXcybgV3Jq16dIW"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "Agora que eu estou sozinho nesse mal caminho speed up",
+        "url": "https://open.spotify.com/album/5GCBeMjrGOegor93rvS7q3"
+      },
+      "artists": [
+        {
+          "name": "Koke",
+          "url": "https://open.spotify.com/artist/59qKvQjxbwovrGHZjO5hgN"
+        }
+      ],
+      "duration_ms": 96548,
+      "name": "Agora que eu estou sozinho nesse mal caminho speed up",
+      "url": "https://open.spotify.com/track/1kdn6uBhMG1vnJB68HqoOj"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -695,22 +711,6 @@
       "duration_ms": 115714,
       "name": "SUV - Remix",
       "url": "https://open.spotify.com/track/3NC8cCoF495lDMjXDyNvhd"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "Agora que eu estou sozinho nesse mal caminho speed up",
-        "url": "https://open.spotify.com/album/5GCBeMjrGOegor93rvS7q3"
-      },
-      "artists": [
-        {
-          "name": "Koke",
-          "url": "https://open.spotify.com/artist/59qKvQjxbwovrGHZjO5hgN"
-        }
-      ],
-      "duration_ms": 96548,
-      "name": "Agora que eu estou sozinho nesse mal caminho speed up",
-      "url": "https://open.spotify.com/track/1kdn6uBhMG1vnJB68HqoOj"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Se a Saudade Bater (Workout Version)",
-        "url": "https://open.spotify.com/album/5XC3pLLrZMj6d254BFHBD3"
-      },
-      "artists": [
-        {
-          "name": "MC Tairon",
-          "url": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
-        }
-      ],
-      "duration_ms": 131280,
-      "name": "Se a Saudade Bater (Workout Version)",
-      "url": "https://open.spotify.com/track/4WDFyuqWL2TzMFeiBqMdK2"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "Rede Social (Speed)",
         "url": "https://open.spotify.com/album/01iSILkAS9K13llC2AEWZJ"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 154818,
       "name": "Rede Social - Speed",
       "url": "https://open.spotify.com/track/0FIjebtfvcayZNDzG993SH"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "Se a Saudade Bater (Workout Version)",
+        "url": "https://open.spotify.com/album/5XC3pLLrZMj6d254BFHBD3"
+      },
+      "artists": [
+        {
+          "name": "MC Tairon",
+          "url": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
+        }
+      ],
+      "duration_ms": 131280,
+      "name": "Se a Saudade Bater (Workout Version)",
+      "url": "https://open.spotify.com/track/4WDFyuqWL2TzMFeiBqMdK2"
     },
     {
       "added_at": "2023-12-27 14:18:14",

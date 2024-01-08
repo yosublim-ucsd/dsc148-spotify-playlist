@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-2,265 songs - 5 day 1 hr 38 min
+2,266 songs - 5 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Adonis Interlude \(The Montage\) \(with J\. Cole\)](https://open.spotify.com/track/5Mkbqot9JUaN5XhRgqITME) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 1:35 | 2023-03-28 | 2023-04-02 |
 | [Affirmation Song](https://open.spotify.com/track/5HLzL5g27XBbSy2qKbCGEk) | [Doggyland](https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Kids Hits, Vol\. 1](https://open.spotify.com/album/6PE793g3TdbQL1nj51wCRm) | 2:06 | 2022-12-03 | 2022-12-18 |
 | [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 | 2022-06-26 | 2022-09-05 |
-| [Africa](https://open.spotify.com/track/3EJX92YQikjQ67VnPszDVh) | [Slimenese](https://open.spotify.com/artist/0Jau0uelDnejFUq6zK88Ze) | [Africa](https://open.spotify.com/album/2ZJpYF6pdZZh98WKRSRUxO) | 1:55 | 2024-01-05 |  |
+| [Africa](https://open.spotify.com/track/4JuRS40lZe0yfSewmnR9mT) | [ditto](https://open.spotify.com/artist/0wtvg2XqKXvyNgS6SeDilI) | [Africa](https://open.spotify.com/album/2Mj6dalgFFAwZBBYiJ8Ego) | 1:55 | 2024-01-07 |  |
+| [Africa](https://open.spotify.com/track/3EJX92YQikjQ67VnPszDVh) | [Slimenese](https://open.spotify.com/artist/0Jau0uelDnejFUq6zK88Ze) | [Africa](https://open.spotify.com/album/2ZJpYF6pdZZh98WKRSRUxO) | 1:55 | 2024-01-05 | 2024-01-08 |
 | [After Dark](https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ) | 4:17 | 2022-04-16 | 2022-06-22 |
 | [After Hours](https://open.spotify.com/track/4eYYIs4VJJmJTfRkKegNq4) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [ONNAFRIDAY](https://open.spotify.com/album/4M4Lm0G81QTEJDvrdGznP3) | 2:37 | 2022-05-16 | 2022-06-06 |
 | [After Hours](https://open.spotify.com/track/7jWW25q41F2P7Opfn3boIF) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [After Hours](https://open.spotify.com/album/1Afc7X2x5kxfkbDz2KXjlv) | 2:37 | 2021-12-31 | 2022-02-02 |

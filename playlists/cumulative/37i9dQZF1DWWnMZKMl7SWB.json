@@ -4251,6 +4251,24 @@
     },
     {
       "album": {
+        "name": "cherry jam",
+        "url": "https://open.spotify.com/album/5tGaSAnneD1eAil1z1dQnT"
+      },
+      "artists": [
+        {
+          "name": "hinako fukushi",
+          "url": "https://open.spotify.com/artist/5glOFLmRNoXs1AC2jGYS6j"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112099,
+      "name": "cherry jam",
+      "url": "https://open.spotify.com/track/17MZ7B7CShDawWEqaPzvpE"
+    },
+    {
+      "album": {
         "name": "Chika (scared)",
         "url": "https://open.spotify.com/album/0BacQ1J2UePRp2gE7zGk2z"
       },
@@ -11653,6 +11671,24 @@
     },
     {
       "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/20Qb081N1ZKNv4CegBQxjp"
+      },
+      "artists": [
+        {
+          "name": "The Timberkids",
+          "url": "https://open.spotify.com/artist/0JTTJTRYbWL8aQfuk0y20H"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114937,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/6yfAOgJsACIP8UwkxFeOyH"
+    },
+    {
+      "album": {
         "name": "Let's Downgrade!",
         "url": "https://open.spotify.com/album/1L1VolV9sQvMotcKQ9JJC3"
       },
@@ -14186,7 +14222,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 124156,
       "name": "Nachtschicht",
       "url": "https://open.spotify.com/track/1Nk21HZ5Gdyt0C7Ta7JAFn"
@@ -18042,7 +18078,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 106305,
       "name": "rollups",
       "url": "https://open.spotify.com/track/0egGEXJbXSsahzn67PQmPr"

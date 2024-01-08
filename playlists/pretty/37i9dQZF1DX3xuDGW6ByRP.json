@@ -1,12 +1,12 @@
 {
   "description": "as novas de pop rock br / Foto: TINN",
-  "num_followers": 47352,
+  "num_followers": 47365,
   "original_name": "rockers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjVjZmViODg5M2ZkNGI5NjkyYzI4NDU4YmQzZmM2NWRiMjk0ZDA4",
+  "snapshot_id": "MCxmZWQzYThjNThjNDMyN2NmN2E3MDIxNjE4NzMzZTA4NGFiMGZkZDc2",
   "tracks": [
     {
       "added_at": "2024-01-05 14:33:05",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-01-05 14:33:05",
       "album": {
-        "name": "Still Alive (From the Original Motion Picture Scream VI)",
-        "url": "https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 185310,
-      "name": "Still Alive - From the Original Motion Picture Scream VI",
-      "url": "https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B"
-    },
-    {
-      "added_at": "2024-01-05 14:33:05",
-      "album": {
         "name": "If I Can\u2019t Have Love, I Want Power",
         "url": "https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 173840,
       "name": "honey",
       "url": "https://open.spotify.com/track/7p58AJeuaFSUHTnPe5NFaf"
+    },
+    {
+      "added_at": "2024-01-05 14:33:05",
+      "album": {
+        "name": "Still Alive (From the Original Motion Picture Scream VI)",
+        "url": "https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 185310,
+      "name": "Still Alive - From the Original Motion Picture Scream VI",
+      "url": "https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B"
     },
     {
       "added_at": "2024-01-05 14:33:05",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-01-05 14:33:05",
       "album": {
-        "name": "REVAMPED",
-        "url": "https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 227975,
-      "name": "Tell Me You Love Me - Rock Version",
-      "url": "https://open.spotify.com/track/327h326DnJvW5suWlUG8yp"
-    },
-    {
-      "added_at": "2024-01-05 14:33:05",
-      "album": {
         "name": "MALVADONA",
         "url": "https://open.spotify.com/album/7BgO5sEJpQIjrrAwxqUKUM"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 204870,
       "name": "MALVADONA",
       "url": "https://open.spotify.com/track/3V1XdOJVcvtupbYLzOaulm"
+    },
+    {
+      "added_at": "2024-01-05 14:33:05",
+      "album": {
+        "name": "REVAMPED",
+        "url": "https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 227975,
+      "name": "Tell Me You Love Me - Rock Version",
+      "url": "https://open.spotify.com/track/327h326DnJvW5suWlUG8yp"
     },
     {
       "added_at": "2024-01-05 14:33:05",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-01-05 14:33:05",
       "album": {
-        "name": "Caso Perdido",
-        "url": "https://open.spotify.com/album/1Bh1BwozSOtx66aBUYSykv"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 199401,
-      "name": "Caso Perdido",
-      "url": "https://open.spotify.com/track/11syf5T1UaTLXwyc9qtbbo"
-    },
-    {
-      "added_at": "2024-01-05 14:33:05",
-      "album": {
         "name": "Alive and Unwell",
         "url": "https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 121674,
       "name": "Alive and Unwell",
       "url": "https://open.spotify.com/track/4XFwLmozZe73WYcryOwhoh"
+    },
+    {
+      "added_at": "2024-01-05 14:33:05",
+      "album": {
+        "name": "Caso Perdido",
+        "url": "https://open.spotify.com/album/1Bh1BwozSOtx66aBUYSykv"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "duration_ms": 199401,
+      "name": "Caso Perdido",
+      "url": "https://open.spotify.com/track/11syf5T1UaTLXwyc9qtbbo"
     },
     {
       "added_at": "2024-01-05 14:33:05",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-01-05 14:33:05",
       "album": {
-        "name": "Fiz 18",
-        "url": "https://open.spotify.com/album/3B803upCKgO5My70u4J7sK"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 194693,
-      "name": "Fiz 18",
-      "url": "https://open.spotify.com/track/5n1AS1Oea32B0HyXrEGArz"
-    },
-    {
-      "added_at": "2024-01-05 14:33:05",
-      "album": {
         "name": "Obscuro",
         "url": "https://open.spotify.com/album/5Aj7XX2oSqwb5ZrxrntSb6"
       },
@@ -747,22 +731,6 @@
       "duration_ms": 218161,
       "name": "Obscuro",
       "url": "https://open.spotify.com/track/2Rh1qXTvyZ6u00yVS1kzhS"
-    },
-    {
-      "added_at": "2024-01-05 14:33:05",
-      "album": {
-        "name": "hover like a GODDESS",
-        "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 143357,
-      "name": "hover like a GODDESS",
-      "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
     },
     {
       "added_at": "2024-01-05 14:33:05",
@@ -783,6 +751,22 @@
     {
       "added_at": "2024-01-05 14:33:05",
       "album": {
+        "name": "hover like a GODDESS",
+        "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 143357,
+      "name": "hover like a GODDESS",
+      "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
+    },
+    {
+      "added_at": "2024-01-05 14:33:05",
+      "album": {
         "name": "n\u00e3o me importo mais",
         "url": "https://open.spotify.com/album/741ZgcZ2POqxmqoHYAUxYG"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 156306,
       "name": "n\u00e3o me importo mais",
       "url": "https://open.spotify.com/track/2bYdCw0rlPBI404BQXTXUn"
+    },
+    {
+      "added_at": "2024-01-05 14:33:05",
+      "album": {
+        "name": "Fiz 18",
+        "url": "https://open.spotify.com/album/3B803upCKgO5My70u4J7sK"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "duration_ms": 194693,
+      "name": "Fiz 18",
+      "url": "https://open.spotify.com/track/5n1AS1Oea32B0HyXrEGArz"
     },
     {
       "added_at": "2024-01-05 14:33:05",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-01-05 14:33:05",
       "album": {
-        "name": "T\u00c1 TODO MUNDO MAL",
-        "url": "https://open.spotify.com/album/5Rp68W7guN0S424dX70oRR"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "T\u00c1 TODO MUNDO MAL",
-      "url": "https://open.spotify.com/track/6RupKWYHDUq0dOdWLQUKcb"
-    },
-    {
-      "added_at": "2024-01-05 14:33:05",
-      "album": {
         "name": "INTENSAMENTE",
         "url": "https://open.spotify.com/album/1S03QGdOVgnsPM2JmoJkte"
       },
@@ -951,18 +935,34 @@
     {
       "added_at": "2024-01-05 14:33:05",
       "album": {
-        "name": "\u00daltimo Clich\u00ea",
-        "url": "https://open.spotify.com/album/6OhFYkE3KeUM6zRlhCE8vE"
+        "name": "T\u00c1 TODO MUNDO MAL",
+        "url": "https://open.spotify.com/album/5Rp68W7guN0S424dX70oRR"
       },
       "artists": [
         {
-          "name": "Cine",
-          "url": "https://open.spotify.com/artist/4MZmexF6g7Kk5nWAP8f5Zr"
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
         }
       ],
-      "duration_ms": 169411,
-      "name": "\u00daltimo Clich\u00ea",
-      "url": "https://open.spotify.com/track/3n3aZ903Y3TjQseFJTOFin"
+      "duration_ms": 201290,
+      "name": "T\u00c1 TODO MUNDO MAL",
+      "url": "https://open.spotify.com/track/6RupKWYHDUq0dOdWLQUKcb"
+    },
+    {
+      "added_at": "2024-01-05 14:33:05",
+      "album": {
+        "name": "DUBL\u00ca",
+        "url": "https://open.spotify.com/album/21nz8HbPqUOCkPRXbpH5jJ"
+      },
+      "artists": [
+        {
+          "name": "TINN",
+          "url": "https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq"
+        }
+      ],
+      "duration_ms": 178208,
+      "name": "DUBL\u00ca",
+      "url": "https://open.spotify.com/track/2P4Nbb8Gf5TX2JyBu0kuIY"
     },
     {
       "added_at": "2024-01-05 14:33:05",
@@ -1003,38 +1003,18 @@
     {
       "added_at": "2024-01-05 14:33:05",
       "album": {
-        "name": "DUBL\u00ca",
-        "url": "https://open.spotify.com/album/21nz8HbPqUOCkPRXbpH5jJ"
+        "name": "\u00daltimo Clich\u00ea",
+        "url": "https://open.spotify.com/album/6OhFYkE3KeUM6zRlhCE8vE"
       },
       "artists": [
         {
-          "name": "TINN",
-          "url": "https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq"
+          "name": "Cine",
+          "url": "https://open.spotify.com/artist/4MZmexF6g7Kk5nWAP8f5Zr"
         }
       ],
-      "duration_ms": 178208,
-      "name": "DUBL\u00ca",
-      "url": "https://open.spotify.com/track/2P4Nbb8Gf5TX2JyBu0kuIY"
-    },
-    {
-      "added_at": "2024-01-05 14:33:05",
-      "album": {
-        "name": "QUEM NUNCA??",
-        "url": "https://open.spotify.com/album/5jOmOMFV9BbNxKHvmrddtV"
-      },
-      "artists": [
-        {
-          "name": "Ci\u00e7a Moreira",
-          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
-        },
-        {
-          "name": "Egypcio",
-          "url": "https://open.spotify.com/artist/6RvFkY3SiqssdttuI7bpH6"
-        }
-      ],
-      "duration_ms": 216255,
-      "name": "QUEM NUNCA??",
-      "url": "https://open.spotify.com/track/3LhSiMorC6IntBm252H00W"
+      "duration_ms": 169411,
+      "name": "\u00daltimo Clich\u00ea",
+      "url": "https://open.spotify.com/track/3n3aZ903Y3TjQseFJTOFin"
     },
     {
       "added_at": "2024-01-05 14:33:05",
@@ -1051,26 +1031,6 @@
       "duration_ms": 156705,
       "name": "Conto de Falhas",
       "url": "https://open.spotify.com/track/4zCTi9gNDEDkgpknH0cfCy"
-    },
-    {
-      "added_at": "2024-01-05 14:33:05",
-      "album": {
-        "name": "CINZEIRO",
-        "url": "https://open.spotify.com/album/1PGgZ935Sqb7fKIZKyuMjQ"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        },
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "CINZEIRO",
-      "url": "https://open.spotify.com/track/5NBf1xo9YYuG0zPZDQ1Yca"
     },
     {
       "added_at": "2024-01-05 14:33:05",
@@ -1095,6 +1055,46 @@
     {
       "added_at": "2024-01-05 14:33:05",
       "album": {
+        "name": "CINZEIRO",
+        "url": "https://open.spotify.com/album/1PGgZ935Sqb7fKIZKyuMjQ"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        },
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "CINZEIRO",
+      "url": "https://open.spotify.com/track/5NBf1xo9YYuG0zPZDQ1Yca"
+    },
+    {
+      "added_at": "2024-01-05 14:33:05",
+      "album": {
+        "name": "QUEM NUNCA??",
+        "url": "https://open.spotify.com/album/5jOmOMFV9BbNxKHvmrddtV"
+      },
+      "artists": [
+        {
+          "name": "Ci\u00e7a Moreira",
+          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
+        },
+        {
+          "name": "Egypcio",
+          "url": "https://open.spotify.com/artist/6RvFkY3SiqssdttuI7bpH6"
+        }
+      ],
+      "duration_ms": 216255,
+      "name": "QUEM NUNCA??",
+      "url": "https://open.spotify.com/track/3LhSiMorC6IntBm252H00W"
+    },
+    {
+      "added_at": "2024-01-05 14:33:05",
+      "album": {
         "name": ":( UMA BAD UMA FARRA :) [Deluxe]",
         "url": "https://open.spotify.com/album/7zuGWCPxpmfgRolrURYfom"
       },
@@ -1107,22 +1107,6 @@
       "duration_ms": 207070,
       "name": "CORPO FECHADO",
       "url": "https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98"
-    },
-    {
-      "added_at": "2024-01-05 14:33:05",
-      "album": {
-        "name": "FORA DE SI",
-        "url": "https://open.spotify.com/album/7xeqEfqU6k9VIbm9v9HD17"
-      },
-      "artists": [
-        {
-          "name": "Ci\u00e7a Moreira",
-          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
-        }
-      ],
-      "duration_ms": 142825,
-      "name": "FORA DE SI",
-      "url": "https://open.spotify.com/track/55Glu5AJDiVpUOLmxaTFoc"
     },
     {
       "added_at": "2024-01-05 14:33:05",
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2024-01-05 14:33:05",
       "album": {
+        "name": "vc n gosta de garotas",
+        "url": "https://open.spotify.com/album/5b806Xi9jTAm6IPllA4tob"
+      },
+      "artists": [
+        {
+          "name": "lalalaura",
+          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "vc n gosta de garotas",
+      "url": "https://open.spotify.com/track/5UrGg0ymrA2Vu0eVT2rbr4"
+    },
+    {
+      "added_at": "2024-01-05 14:33:05",
+      "album": {
         "name": "VERMELHO FAROL",
         "url": "https://open.spotify.com/album/7Ab6Y2gxEck4TTtFhATBns"
       },
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2024-01-05 14:33:05",
       "album": {
-        "name": "vc n gosta de garotas",
-        "url": "https://open.spotify.com/album/5b806Xi9jTAm6IPllA4tob"
+        "name": "FORA DE SI",
+        "url": "https://open.spotify.com/album/7xeqEfqU6k9VIbm9v9HD17"
       },
       "artists": [
         {
-          "name": "lalalaura",
-          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
+          "name": "Ci\u00e7a Moreira",
+          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
         }
       ],
-      "duration_ms": 132413,
-      "name": "vc n gosta de garotas",
-      "url": "https://open.spotify.com/track/5UrGg0ymrA2Vu0eVT2rbr4"
+      "duration_ms": 142825,
+      "name": "FORA DE SI",
+      "url": "https://open.spotify.com/track/55Glu5AJDiVpUOLmxaTFoc"
     },
     {
       "added_at": "2024-01-05 14:33:05",

@@ -1935,6 +1935,24 @@
     },
     {
       "album": {
+        "name": "Holy Night",
+        "url": "https://open.spotify.com/album/0pE8RdY5oe6qtnd3guQSam"
+      },
+      "artists": [
+        {
+          "name": "Leina",
+          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181022,
+      "name": "utatane",
+      "url": "https://open.spotify.com/track/1h5ehmENTsi5d8P7bzI4t6"
+    },
+    {
+      "album": {
         "name": "Hoshiwokoete",
         "url": "https://open.spotify.com/album/1njyK2fybU7atqcwGkOo20"
       },
@@ -2578,7 +2596,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 318586,
       "name": "\u30a6\u30a8\u30c7\u30a3\u30f3\u30b0",
       "url": "https://open.spotify.com/track/3ZtHtqqSEKd8EcggroTfZU"

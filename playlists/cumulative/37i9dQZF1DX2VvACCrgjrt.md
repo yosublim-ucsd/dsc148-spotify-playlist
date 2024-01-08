@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: FETISH
 
-629 songs - 1 day 8 hr 58 min
+630 songs - 1 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Die for You](https://open.spotify.com/track/6VaKbwTmSx9xrSKvzy0osW) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Die for You](https://open.spotify.com/album/4iXSfWDnsOoOOWipv70fCn) | 3:12 | 2023-02-17 | 2023-03-29 |
 | [Dipped In $ugar](https://open.spotify.com/track/37IKuXFdoYsfL4RyoxhO6k) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Dipped In $ugar](https://open.spotify.com/album/0NBWcDaIvs1YxDeuLkqA5Y) | 3:50 | 2022-09-09 |  |
 | [Direct Me](https://open.spotify.com/track/1Phj6A6sGPghCKkHHR7WvC) | [Rony Rex](https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4), [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr) | [Direct Me](https://open.spotify.com/album/7uqYxUvL2HPVg2aFLGFUAy) | 3:52 | 2022-07-22 | 2023-06-17 |
-| [Discipline \(with Tchami\)](https://open.spotify.com/track/75V8CXNNjs25k0LiQXVD2H) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [Don Malaa](https://open.spotify.com/album/6241SeUdcPm2i4ZFIqqCUP) | 4:00 | 2022-09-30 |  |
+| [Discipline \(with Tchami\)](https://open.spotify.com/track/75V8CXNNjs25k0LiQXVD2H) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [Don Malaa](https://open.spotify.com/album/6241SeUdcPm2i4ZFIqqCUP) | 4:00 | 2022-09-30 | 2024-01-08 |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2021-10-29 | 2022-04-23 |
 | [Do Me Right](https://open.spotify.com/track/6mLJ7zIYSd0UU4clzjKjMC) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Do Me Right](https://open.spotify.com/album/67FSPQuOEYIU4vqtcg0Fxm) | 3:01 | 2021-10-29 | 2022-01-22 |
 | [DOJA](https://open.spotify.com/track/2OcgucDdE5RffQXc5bLm1x) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [DOJA](https://open.spotify.com/album/2F0MtotAFhIaMTIk4cLVuL) | 2:37 | 2023-02-11 | 2023-09-23 |
@@ -324,6 +324,7 @@
 | [Leave Me Like This](https://open.spotify.com/track/7vzWtCVhEKDmDkMmT3AiUL) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Bobby Raps](https://open.spotify.com/artist/22g86cix6LCeLMbu3m91Wo) | [Leave Me Like This](https://open.spotify.com/album/2U5XHV8AMBojtjxB6AWP6U) | 3:08 | 2023-01-20 |  |
 | [Left & Right \(BYOR Remix\)](https://open.spotify.com/track/0EWcOrTwNENx13HuPuFznq) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Left & Right \(BYOR Remix\)](https://open.spotify.com/album/4hAi4Tlk2KrSplJ37ISIDx) | 2:22 | 2022-12-16 | 2023-11-11 |
 | [LEFT TO RIGHT \- Space Laces Remix](https://open.spotify.com/track/7pcmP5rRN9w145LcpOw9vx) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP) | [LEFT TO RIGHT \(Space Laces Remix\)](https://open.spotify.com/album/1W0Mus0KmEd27lnEEhmZjv) | 3:37 | 2023-03-03 |  |
+| [Let Go](https://open.spotify.com/track/5meiso1p6eyqmcwVI9b9wR) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [ZOOTAH](https://open.spotify.com/artist/7DyqaNyG0Y8bztrBWBdKo1) | [Let Go](https://open.spotify.com/album/673R1IoWosG0vYh17jCRYo) | 2:48 | 2024-01-05 |  |
 | [Let Go](https://open.spotify.com/track/6db1oTTKdwEgIgfaB6s3cB) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [ZOOTAH](https://open.spotify.com/artist/7DyqaNyG0Y8bztrBWBdKo1) | [Let Go](https://open.spotify.com/album/7vMS8v1bop3ODHwKLBO0YS) | 2:48 | 2023-09-29 | 2023-11-18 |
 | [Let It Drop](https://open.spotify.com/track/0t9JXoDIf0sHBXNkw8Hw3o) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz) | [Let It Drop](https://open.spotify.com/album/7ioBTB82MiREoFryyTsx3V) | 3:13 | 2023-08-25 | 2023-12-16 |
 | [Let You Down](https://open.spotify.com/track/2RPv6BPciODv2BRBdodEDK) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b), [BVRNOUT](https://open.spotify.com/artist/5oREZfPeedk4nyo1GpqKfU) | [Let You Down](https://open.spotify.com/album/2aEj6LRGNbbqzdW9SVIrqp) | 2:37 | 2023-04-21 | 2023-07-17 |

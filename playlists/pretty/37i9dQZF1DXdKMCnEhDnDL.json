@@ -1,12 +1,12 @@
 {
   "description": "De beste Nederlandse hits van vroeger en nu. Cover: Donnie & Marco Schuitmaker",
-  "num_followers": 479043,
+  "num_followers": 479019,
   "original_name": "Beste van NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODZiNzljNzRiMDIwYzI3YzYxMzMzYjU4NDI5YmNjMzFmYWI4NDcw",
+  "snapshot_id": "MCxlZDc3ZGE3MTZmN2I3YzlkZjY3YmIzNzJlNmFjMGIzODQzZmJmNTQ4",
   "tracks": [
     {
       "added_at": "2023-12-21 23:00:00",
@@ -31,26 +31,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Vas-y (Ga Maar)",
-        "url": "https://open.spotify.com/album/1ccTvU8Sgr65nVyIUs9ifV"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        },
-        {
-          "name": "Claude",
-          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
-        }
-      ],
-      "duration_ms": 186455,
-      "name": "Vas-y (Ga Maar)",
-      "url": "https://open.spotify.com/track/2GEuZRsMwllbjBFpdOOBAx"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "Joris",
         "url": "https://open.spotify.com/album/7nqav22eDtbEci6zCr4wQL"
       },
@@ -67,6 +47,26 @@
       "duration_ms": 199433,
       "name": "Wat Wil Je Van Mij",
       "url": "https://open.spotify.com/track/09PxIJHtAlqOKV6aPci5B1"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Vas-y (Ga Maar)",
+        "url": "https://open.spotify.com/album/1ccTvU8Sgr65nVyIUs9ifV"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        },
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+        }
+      ],
+      "duration_ms": 186455,
+      "name": "Vas-y (Ga Maar)",
+      "url": "https://open.spotify.com/track/2GEuZRsMwllbjBFpdOOBAx"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "Betaalbare Romantiek",
+        "url": "https://open.spotify.com/album/2z44b4hwadRlEaNm2SutKO"
+      },
+      "artists": [
+        {
+          "name": "Goldband",
+          "url": "https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p"
+        }
+      ],
+      "duration_ms": 214383,
+      "name": "Noodgeval",
+      "url": "https://open.spotify.com/track/2LcmbuYX7tyR4DWy3b273L"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "Vanavond (Uit M'n Bol)",
         "url": "https://open.spotify.com/album/484UFqfszlmpKrCTGjOaVa"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 142001,
       "name": "Champions League",
       "url": "https://open.spotify.com/track/5iH8UrvxTButDRaWECLDol"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Betaalbare Romantiek",
-        "url": "https://open.spotify.com/album/2z44b4hwadRlEaNm2SutKO"
-      },
-      "artists": [
-        {
-          "name": "Goldband",
-          "url": "https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p"
-        }
-      ],
-      "duration_ms": 214383,
-      "name": "Noodgeval",
-      "url": "https://open.spotify.com/track/2LcmbuYX7tyR4DWy3b273L"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -283,26 +283,6 @@
       "duration_ms": 154003,
       "name": "Ruggengraat",
       "url": "https://open.spotify.com/track/0rLMwM9J5DkkucxXByncSZ"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Sterrenlopen",
-        "url": "https://open.spotify.com/album/5GMxtUUhppf2fnfCSivkKQ"
-      },
-      "artists": [
-        {
-          "name": "Wende",
-          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
-        },
-        {
-          "name": "Froukje",
-          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
-        }
-      ],
-      "duration_ms": 212471,
-      "name": "Troostzoekers (met Froukje)",
-      "url": "https://open.spotify.com/track/1EGEgAKpYg1T9zOVZKyP8J"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -443,6 +423,26 @@
       "duration_ms": 195386,
       "name": "Alles Kwijt - Live in Carr\u00e9 2023",
       "url": "https://open.spotify.com/track/3swj4AMjeqaPxHAqftfAq8"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Sterrenlopen",
+        "url": "https://open.spotify.com/album/5GMxtUUhppf2fnfCSivkKQ"
+      },
+      "artists": [
+        {
+          "name": "Wende",
+          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
+        },
+        {
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        }
+      ],
+      "duration_ms": 212471,
+      "name": "Troostzoekers (met Froukje)",
+      "url": "https://open.spotify.com/track/1EGEgAKpYg1T9zOVZKyP8J"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "Amalia",
+        "url": "https://open.spotify.com/album/4REygfzKS795uvkhTfh0O8"
+      },
+      "artists": [
+        {
+          "name": "Wesly Bronkhorst",
+          "url": "https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp"
+        }
+      ],
+      "duration_ms": 157485,
+      "name": "Amalia",
+      "url": "https://open.spotify.com/track/3c28vYkrzU9nVqvJfbaSiu"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "100 SMSjes",
         "url": "https://open.spotify.com/album/1HmekW64bQZwKdjXqxhSmG"
       },
@@ -1208,7 +1224,7 @@
       "added_at": "2023-12-21 23:00:00",
       "album": {
         "name": "Morgen Gaan We Praten",
-        "url": "https://open.spotify.com/album/4LGsHcf4ciNkjFNwWe03Nx"
+        "url": "https://open.spotify.com/album/42BHKZiJziE1bGdozzHuMF"
       },
       "artists": [
         {
@@ -1222,23 +1238,7 @@
       ],
       "duration_ms": 168292,
       "name": "Morgen Gaan We Praten",
-      "url": "https://open.spotify.com/track/1hq1XJPTjakVHRjntJxGG9"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Amalia",
-        "url": "https://open.spotify.com/album/4REygfzKS795uvkhTfh0O8"
-      },
-      "artists": [
-        {
-          "name": "Wesly Bronkhorst",
-          "url": "https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp"
-        }
-      ],
-      "duration_ms": 157485,
-      "name": "Amalia",
-      "url": "https://open.spotify.com/track/3c28vYkrzU9nVqvJfbaSiu"
+      "url": "https://open.spotify.com/track/5sxNsqIte1Yjkf470Z8u0B"
     },
     {
       "added_at": "2023-12-21 23:00:00",

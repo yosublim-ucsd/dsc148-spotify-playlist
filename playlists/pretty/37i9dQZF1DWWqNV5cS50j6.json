@@ -1,12 +1,12 @@
 {
   "description": "Not NOT pop. Cover: beabadoobee, Mac Wetha, Amin\u00e9",
-  "num_followers": 697977,
+  "num_followers": 697939,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTBhMDYzOWUzNjdhMjhkY2JiYjc1MWI1NTY2Y2YwYWJmMjhjZGIw",
+  "snapshot_id": "MCxjNzgyY2IzYTQzNGVmNTk4ZDI0YTRkMDVlMzVkYjM2M2U0YjljYjBh",
   "tracks": [
     {
       "added_at": "2023-12-15 14:54:50",
@@ -589,22 +589,6 @@
       "url": "https://open.spotify.com/track/6EYaL5ach3SUCQSebLMops"
     },
     {
-      "added_at": "2023-11-07 18:58:00",
-      "album": {
-        "name": "SCRAPYARD I",
-        "url": "https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4"
-      },
-      "artists": [
-        {
-          "name": "Quadeca",
-          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
-        }
-      ],
-      "duration_ms": 209289,
-      "name": "U DON'T KNOW ME LIKE THAT",
-      "url": "https://open.spotify.com/track/2Dp0qki35K3PMjRvnKQ5o0"
-    },
-    {
       "added_at": "2023-09-22 16:42:23",
       "album": {
         "name": "Erotic Probiotic 2",
@@ -619,6 +603,22 @@
       "duration_ms": 246626,
       "name": "Daddy",
       "url": "https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT"
+    },
+    {
+      "added_at": "2023-11-07 18:58:00",
+      "album": {
+        "name": "SCRAPYARD I",
+        "url": "https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        }
+      ],
+      "duration_ms": 209289,
+      "name": "U DON'T KNOW ME LIKE THAT",
+      "url": "https://open.spotify.com/track/2Dp0qki35K3PMjRvnKQ5o0"
     },
     {
       "added_at": "2023-09-22 16:42:23",
@@ -1141,22 +1141,6 @@
       "url": "https://open.spotify.com/track/4kO9Q1jUCLhuuWOQs3hBa3"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Alberca / ILY <3",
-        "url": "https://open.spotify.com/album/56rLIEkSkRChif7JpHRVlj"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 124437,
-      "name": "Alberca",
-      "url": "https://open.spotify.com/track/73xHU7nyAIeaNxdzPlVmeR"
-    },
-    {
       "added_at": "2023-09-22 16:42:23",
       "album": {
         "name": "LOO SONG",
@@ -1171,6 +1155,22 @@
       "duration_ms": 147619,
       "name": "LOO SONG",
       "url": "https://open.spotify.com/track/3F0z2ffuQuc3aTHPI0l2Ku"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Alberca / ILY <3",
+        "url": "https://open.spotify.com/album/56rLIEkSkRChif7JpHRVlj"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 124437,
+      "name": "Alberca",
+      "url": "https://open.spotify.com/track/73xHU7nyAIeaNxdzPlVmeR"
     },
     {
       "added_at": "2023-09-22 16:42:23",
@@ -1413,22 +1413,6 @@
       "url": "https://open.spotify.com/track/0v9ujRJ4jHLOdENX8n4Jft"
     },
     {
-      "added_at": "2023-11-10 16:31:21",
-      "album": {
-        "name": "HALLOWEEN",
-        "url": "https://open.spotify.com/album/6osEKEYLvMuscn50TnWIUd"
-      },
-      "artists": [
-        {
-          "name": "Oshi",
-          "url": "https://open.spotify.com/artist/4mAhA39Nr2uEIbQoC3yxOs"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "HALLOWEEN",
-      "url": "https://open.spotify.com/track/13F4rQgJlfS5RLxEBxO2me"
-    },
-    {
       "added_at": "2023-09-22 16:42:23",
       "album": {
         "name": "Used To This",
@@ -1459,6 +1443,22 @@
       "duration_ms": 175164,
       "name": "Get out my house",
       "url": "https://open.spotify.com/track/0xfj4umWuuP0aSq2T4M8JF"
+    },
+    {
+      "added_at": "2023-11-10 16:31:21",
+      "album": {
+        "name": "HALLOWEEN",
+        "url": "https://open.spotify.com/album/6osEKEYLvMuscn50TnWIUd"
+      },
+      "artists": [
+        {
+          "name": "Oshi",
+          "url": "https://open.spotify.com/artist/4mAhA39Nr2uEIbQoC3yxOs"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "HALLOWEEN",
+      "url": "https://open.spotify.com/track/13F4rQgJlfS5RLxEBxO2me"
     },
     {
       "added_at": "2023-09-22 16:42:23",
@@ -1545,22 +1545,6 @@
       "url": "https://open.spotify.com/track/3Z9ygRxfUsSTXccm7YfHtA"
     },
     {
-      "added_at": "2023-12-08 15:51:26",
-      "album": {
-        "name": "Going Crazy",
-        "url": "https://open.spotify.com/album/6DCVlCkgPkgPkhY9ZJfaY0"
-      },
-      "artists": [
-        {
-          "name": "NNAMD\u00cf",
-          "url": "https://open.spotify.com/artist/6gACF5PEinqx3AzMLjiH90"
-        }
-      ],
-      "duration_ms": 191871,
-      "name": "Going Crazy",
-      "url": "https://open.spotify.com/track/79j5lxEjuh5ixfJU2Lt2SS"
-    },
-    {
       "added_at": "2023-11-07 18:58:00",
       "album": {
         "name": "Deer in Headlights",
@@ -1575,6 +1559,22 @@
       "duration_ms": 209187,
       "name": "Deer in Headlights",
       "url": "https://open.spotify.com/track/0g9vHRftxmH7IxUQlRoW1Z"
+    },
+    {
+      "added_at": "2023-12-08 15:51:26",
+      "album": {
+        "name": "Going Crazy",
+        "url": "https://open.spotify.com/album/6DCVlCkgPkgPkhY9ZJfaY0"
+      },
+      "artists": [
+        {
+          "name": "NNAMD\u00cf",
+          "url": "https://open.spotify.com/artist/6gACF5PEinqx3AzMLjiH90"
+        }
+      ],
+      "duration_ms": 191871,
+      "name": "Going Crazy",
+      "url": "https://open.spotify.com/track/79j5lxEjuh5ixfJU2Lt2SS"
     },
     {
       "added_at": "2023-09-22 16:42:23",

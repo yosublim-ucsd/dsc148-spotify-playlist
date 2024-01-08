@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 375258,
+  "num_followers": 375254,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGNiMDU4MWE0MGY5ZTI4YzMwODA1OWRiYmQ1NTliOWUzNzU3NDA4",
+  "snapshot_id": "MCw2NjBhMmYyZjU0MWYxZmRiMGQ5OTA4MDlhMzMzNDA5MmVlYmNlOWVl",
   "tracks": [
     {
       "added_at": "2023-11-21 21:06:39",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
+        "name": "The Other Woman",
+        "url": "https://open.spotify.com/album/04SpyksXWidqvdpTMc8UL4"
+      },
+      "artists": [
+        {
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+        }
+      ],
+      "duration_ms": 168240,
+      "name": "Don't You Ever Get Tired of Hurting Me",
+      "url": "https://open.spotify.com/track/6QAJbtf8Qb69AKsp8soPmN"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
         "name": "Hello Walls",
         "url": "https://open.spotify.com/album/1wkRC5qOr6uz5lbOZNcFfL"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 144120,
       "name": "Wine Me Up",
       "url": "https://open.spotify.com/track/2QS8C4T3H1hYpnADMpq8Uz"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
-        "name": "Best Of The Best",
-        "url": "https://open.spotify.com/album/6Xc0ABtnw2u9mtsdoNFIbQ"
-      },
-      "artists": [
-        {
-          "name": "Hank Thompson",
-          "url": "https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0"
-        }
-      ],
-      "duration_ms": 129240,
-      "name": "A Six Pack To Go",
-      "url": "https://open.spotify.com/track/3hCOH1pgpQmaTWgR58OFS2"
     }
   ],
   "unique_name": "60s Country",

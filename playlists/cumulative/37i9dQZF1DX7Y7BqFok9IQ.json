@@ -4700,10 +4700,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 235828,
       "name": "Woolamai",
       "url": "https://open.spotify.com/track/0wXOSacytCzfXqt98sEXLe"
+    },
+    {
+      "album": {
+        "name": "The Mojo Funk",
+        "url": "https://open.spotify.com/album/7HAijWOmT4QlIH5BqDn38W"
+      },
+      "artists": [
+        {
+          "name": "Smoke Stack Rhino",
+          "url": "https://open.spotify.com/artist/1aLAvhug01VsqctbbSx5rD"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235840,
+      "name": "Woolamai",
+      "url": "https://open.spotify.com/track/7bdTFAhATxC9bIxBGGyI3E"
     },
     {
       "album": {

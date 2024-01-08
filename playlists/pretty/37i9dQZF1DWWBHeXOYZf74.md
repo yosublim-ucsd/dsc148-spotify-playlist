@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Erick the Architect
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,329,263 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,329,269 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 99 | [Makeshift Tourniquet](https://open.spotify.com/track/4YrUH3TZazK6DC2w5qXryI) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Makeshift Tourniquet](https://open.spotify.com/album/73T8ZTaxv3LBS4wQo9NW3n) | 5:17 |
 | 100 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 |
 
-Snapshot ID: `MCxmOWM2MmEzYjYxYmNiYTg5MDI3NTkzYzcyZDUzMDkyMjg3ZTdmZTZh`
+Snapshot ID: `MCxhMzNlMjhjZTA4YWFiOTMzNzkzOWZlNzViOWQ1YWFmZTFmZmQ3ZDdj`

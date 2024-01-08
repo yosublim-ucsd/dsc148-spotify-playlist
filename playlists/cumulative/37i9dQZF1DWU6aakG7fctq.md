@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: Nsqk & legallyrxx
 
-515 songs - 1 day 4 hr 37 min
+516 songs - 1 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [Luv on Me](https://open.spotify.com/track/65qsnnINZZZYdPNxlXaQey) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr), [LYTA](https://open.spotify.com/artist/0jqDDrQ4ILXHBdcgrxJAPG), [ASH](https://open.spotify.com/artist/5pcg2dwmS52OwrMeg5BgnL) | [Luv on Me](https://open.spotify.com/album/3EMqEtsqiz6izL7LV6kG4z) | 2:08 | 2022-01-10 | 2022-05-10 |
 | [Made Up My Mind](https://open.spotify.com/track/5ulKWr4iqt6MyjvGXAYbOR) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Made Up My Mind](https://open.spotify.com/album/6GWf1XbCeGkEYM51auB9KG) | 4:04 | 2022-08-11 | 2022-08-20 |
 | [Made Up My Mind](https://open.spotify.com/track/7bN6OU0dl259EuaM02wCrJ) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Made Up My Mind](https://open.spotify.com/album/3nRKgVuwLJCHrg9KFfSTkP) | 4:04 | 2022-01-10 | 2022-07-28 |
-| [MAGIA](https://open.spotify.com/track/15yrXeh7mNrRSRyuCYyzH5) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [MAGIA](https://open.spotify.com/album/6d8tgeQzie2e3zDJYxutjN) | 3:00 | 2023-06-30 |  |
+| [MAGIA](https://open.spotify.com/track/15yrXeh7mNrRSRyuCYyzH5) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [MAGIA](https://open.spotify.com/album/6d8tgeQzie2e3zDJYxutjN) | 3:00 | 2023-06-30 | 2024-01-08 |
 | [Mamita Santa](https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mamita Santa](https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R) | 3:59 | 2023-03-31 | 2023-12-02 |
 | [Mandala](https://open.spotify.com/track/3Lebs7ERP0ILzr80u9UReL) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Jardín de las Almas](https://open.spotify.com/album/6qNDuK7TXMUK0aTKsyevYT) | 3:44 | 2023-09-22 |  |
 | [Mar](https://open.spotify.com/track/36GdqHlWkFlj4rreFMcLnQ) | [1982 \(diecinueve ochenta y dos\)](https://open.spotify.com/artist/5TM0RQvmHVybWPQtQHoTd4) | [Mar](https://open.spotify.com/album/1H7m8mnXKA0nhGNBQWhdid) | 3:24 | 2023-03-24 | 2023-04-01 |
@@ -489,6 +489,7 @@
 | [un poco más](https://open.spotify.com/track/5MRRGF2Si2Aql4TobjfGGf) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [un poco más](https://open.spotify.com/album/4EZwSUtUU2l136RiMYkAO0) | 2:18 | 2022-06-03 | 2022-07-29 |
 | [un poco más](https://open.spotify.com/track/6LKZFDMdW2I59hv7jA5UOV) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [ya se me pasará](https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr) | 2:18 | 2022-09-06 | 2023-01-21 |
 | [Un Poquito Más](https://open.spotify.com/track/5iph5i9bTxD7vJEjXeYMDP) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Un Poquito Más](https://open.spotify.com/album/1Q4rU1AFX6gzbomhgnbxHL) | 2:59 | 2023-01-20 | 2023-04-09 |
+| [Una Vida](https://open.spotify.com/track/1Q4kVMA8OnbVVuq0kQMYRv) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Una Vida](https://open.spotify.com/album/3adxFEMsq25Adf8bHWX4rL) | 4:04 | 2024-01-05 |  |
 | [Use Me Too](https://open.spotify.com/track/0Pa6YGPTs86gFrEkxAOthL) | [Geo](https://open.spotify.com/artist/2mzrWihYniKXcK0vNi9UUh) | [Use Me Too](https://open.spotify.com/album/77goeeluwLAm2exjXnmUtl) | 1:47 | 2023-11-03 | 2023-12-09 |
 | [Vencimiento](https://open.spotify.com/track/1zFeJhyNJOnzm0nS20t3HX) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Sueño Cítrico](https://open.spotify.com/album/0K7TuMwi1SkiZylSx8vXDf) | 3:22 | 2023-04-21 |  |
 | [Verbenas](https://open.spotify.com/track/5ryuReLd1ZW0R2BCpgiG0W) | [Eva Ryjlen](https://open.spotify.com/artist/70Qg1joeoAwPXpnxpFe64w) | [Verbenas](https://open.spotify.com/album/7n3EUXlrYCr7fGydlXtRBC) | 4:13 | 2022-09-06 | 2022-12-10 |

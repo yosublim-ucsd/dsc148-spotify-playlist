@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Thaikkudam Bridge",
-  "num_followers": 28631,
+  "num_followers": 28663,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDAwMmJiNTFlZmIwNTNhOTIxZTAxNGMxNWRhZTllNDY4ODc1NjQw",
+  "snapshot_id": "MCw1MGNmZTVmNTIxMDRjNDQzNWE2ZDE0MmE5MjkwYWMzYzhmZmEzN2Fk",
   "tracks": [
     {
       "added_at": "2023-10-06 03:25:48",
@@ -841,20 +841,28 @@
       "url": "https://open.spotify.com/track/2HjByV001SgJfWwKj9WQBA"
     },
     {
-      "added_at": "2023-10-06 03:25:48",
+      "added_at": "2023-10-19 05:21:35",
       "album": {
-        "name": "Palavidham",
-        "url": "https://open.spotify.com/album/7uVQSl9yYgyy7ax92Zp8lf"
+        "name": "Castle In The Sky",
+        "url": "https://open.spotify.com/album/4JYNyfvDS7So6b0HmnAZ2i"
       },
       "artists": [
         {
-          "name": "Arya Dhayal",
-          "url": "https://open.spotify.com/artist/3wgZfKbyO4MfUMvfDlxdQp"
+          "name": "Niranjan Menon",
+          "url": "https://open.spotify.com/artist/3U14e8ytLENdFrJLKArp7d"
+        },
+        {
+          "name": "Artemis Fall",
+          "url": "https://open.spotify.com/artist/2MTUquJfZa080O7BQoDBgu"
+        },
+        {
+          "name": "Aromal Chekaver",
+          "url": "https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa"
         }
       ],
-      "duration_ms": 184682,
-      "name": "Palavidham",
-      "url": "https://open.spotify.com/track/0I9fnx3ubOqy1T4IvLf4He"
+      "duration_ms": 288000,
+      "name": "Castle In The Sky",
+      "url": "https://open.spotify.com/track/7IXkNPrfMWjigapPfs1BoL"
     },
     {
       "added_at": "2023-12-10 06:52:20",

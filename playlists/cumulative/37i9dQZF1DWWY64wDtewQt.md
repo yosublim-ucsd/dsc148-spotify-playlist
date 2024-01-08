@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-655 songs - 1 day 0 hr 52 min
+657 songs - 1 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -472,7 +472,8 @@
 | [PRINCE OF DARKNESS](https://open.spotify.com/track/3F8ydJz1se1vIxZTRcRjIJ) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx), [ARCHEZ](https://open.spotify.com/artist/2sADpsTiKjzV9DRVDMXAeN), [KXNVRA](https://open.spotify.com/artist/5UJkhYfIETGF5PMO0DT3aj) | [PRINCE OF DARKNESS](https://open.spotify.com/album/34iHUfBPU6yTJKPBoQC5HY) | 2:03 | 2022-05-13 |  |
 | [Psycho](https://open.spotify.com/track/3fq2Hq0JRSvLA8cpH70KeT) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Psycho](https://open.spotify.com/album/5cdFDCeHiZce0GZED9Ztjz) | 1:52 | 2022-09-02 | 2022-11-05 |
 | [PSYCHO CRUISE](https://open.spotify.com/track/1tkHHqMZaVoNtQvC32Om8X) | [ONIMXRU](https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw), [STRAWANGLE](https://open.spotify.com/artist/4o5PswOvXGSq0y5BqZTR9n) | [PSYCHO CRUISE](https://open.spotify.com/album/2F3yPhrN0gUj5O5lORwMu6) | 2:31 | 2022-11-18 |  |
-| [PSYCHO FUNK](https://open.spotify.com/track/5nyZmmFT3guVqrRxSkt12C) | [ICHIRO](https://open.spotify.com/artist/5MUljcWL3VylwkBxs9xw0p), [MC MN](https://open.spotify.com/artist/4hV3aU0WKvFaiX5ugXP5hp), [MC 99](https://open.spotify.com/artist/3HIvqQ3TKSSqa5yef0Q3xR) | [PSYCHO FUNK](https://open.spotify.com/album/6Xi9WQNEilg2HE1uCeFWFt) | 2:00 | 2023-07-21 |  |
+| [PSYCHO FUNK](https://open.spotify.com/track/5nyZmmFT3guVqrRxSkt12C) | [ICHIRO](https://open.spotify.com/artist/5MUljcWL3VylwkBxs9xw0p), [MC MN](https://open.spotify.com/artist/4hV3aU0WKvFaiX5ugXP5hp), [MC 99](https://open.spotify.com/artist/3HIvqQ3TKSSqa5yef0Q3xR) | [PSYCHO FUNK](https://open.spotify.com/album/6Xi9WQNEilg2HE1uCeFWFt) | 2:00 | 2023-07-21 | 2024-01-08 |
+| [Psycho Funk](https://open.spotify.com/track/6zMmJhxFeAVWoiZYCbwzbO) | [Love Fluxos](https://open.spotify.com/artist/5uTuKlVMAZzFDvFpQsOH2I) | [Psycho Funk](https://open.spotify.com/album/1XAJTAFssI3vRiE3mlSNhK) | 2:00 | 2023-07-21 |  |
 | [Pulsar Pit](https://open.spotify.com/track/3H6iOC0kcOlfZ5wRt5Tkz3) | [Red Death Grave](https://open.spotify.com/artist/3KOuSp8MJzmMP7mu0cqg7w) | [Pulsar Pit](https://open.spotify.com/album/2mVLBBH6EsPXyl2yuAvBdO) | 1:30 | 2022-02-04 | 2022-07-30 |
 | [Puncher](https://open.spotify.com/track/54NEDYt9RTc7PCLm4AUftc) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Puncher](https://open.spotify.com/album/0eIvnyjPYzjCAV5dBuAoQW) | 2:02 | 2023-03-31 | 2023-05-06 |
 | [PURE MONSTROSITY](https://open.spotify.com/track/5P9317yVhHAtnriqWrcZtJ) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [PURE MONSTROSITY](https://open.spotify.com/album/1GCVqsTt7X89UMhZrrLRXH) | 2:16 | 2022-02-18 | 2022-07-23 |
@@ -501,7 +502,8 @@
 | [RITMO DE TREINO](https://open.spotify.com/track/2pIC8fTfWwGjbo31YyNtzT) | [YOUTHISENDING](https://open.spotify.com/artist/1m8N1IE2yCPD2SCNpshEwe), [MC PR](https://open.spotify.com/artist/0Vxqvpm9tpZcz6d4egDtjX), [MC Pequeno Diamante](https://open.spotify.com/artist/7jqVVRFgBPvHWLnUwfRF6C) | [RITMO DE TREINO](https://open.spotify.com/album/7kV5GsdeIupIcevrNDfFUz) | 1:42 | 2023-07-14 |  |
 | [RITUAL](https://open.spotify.com/track/1VvldVWHEtvwzKlGx8ahOg) | [Phonk Killer](https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC) | [RITUAL](https://open.spotify.com/album/43nEXegWvPFJ1xDk2toTnI) | 1:43 | 2022-11-03 | 2023-03-25 |
 | [ROADKILL](https://open.spotify.com/track/2WqPiS79q9a5PXQhA3tun7) | [SAOTOMAMORE](https://open.spotify.com/artist/4MxJYU17fdqZ9tzK1d7aeM), [SMITHMANE](https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG) | [ROADKILL](https://open.spotify.com/album/6v6nePEhOnTXq7Zfk7EHmM) | 2:04 | 2022-09-02 | 2022-10-29 |
-| [robot rock \(funk\)](https://open.spotify.com/track/5CzmDYSqoancLlV8vMGdPl) | [DJ Paulinho Mondi Da Baixa Baviera](https://open.spotify.com/artist/648ZoUpTM6iIMTCgo3lLCE) | [robot rock \(funk\)](https://open.spotify.com/album/4GX5gPDX5eZkPY7aDm1Cs4) | 2:33 | 2023-12-01 |  |
+| [robot rock \(funk\)](https://open.spotify.com/track/5CzmDYSqoancLlV8vMGdPl) | [DJ Paulinho Mondi Da Baixa Baviera](https://open.spotify.com/artist/648ZoUpTM6iIMTCgo3lLCE) | [robot rock \(funk\)](https://open.spotify.com/album/4GX5gPDX5eZkPY7aDm1Cs4) | 2:33 | 2023-12-01 | 2024-01-08 |
+| [Robot Rock \- Remix](https://open.spotify.com/track/0fm4a0b9oDoLhhCSAtU8OH) | [Gatito Malo](https://open.spotify.com/artist/7JMpsXUQIJCt2l9o4BnBfF) | [Robot Rock \(Remix\)](https://open.spotify.com/album/1TJ6izayiTzSUAHznF1AgF) | 2:33 | 2023-12-01 |  |
 | [ROGUE!](https://open.spotify.com/track/5VzcuUMmk1ElMCKQORCkC4) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [ROGUE!](https://open.spotify.com/album/0duKirYgihhKCEGnzXnPQm) | 2:06 | 2022-11-25 | 2023-02-18 |
 | [RUNWAY](https://open.spotify.com/track/1YV1mdDQny0j3q1x7GZ6H6) | [HXVRMXN](https://open.spotify.com/artist/2kxLXJ17WUKNIwyIfeDigH) | [RUNWAY](https://open.spotify.com/album/4cuC8GYSNhztfeZC75DzzN) | 2:57 | 2022-02-18 | 2022-08-13 |
 | [Russia Vip](https://open.spotify.com/track/5d8MfJPpikbG256a32qRy7) | [SXGXVX](https://open.spotify.com/artist/1lL48GuJjbIQZYdn2ELknJ) | [Russia Vip](https://open.spotify.com/album/0llItE2PsqtYWvj8UsNgi2) | 2:00 | 2021-10-01 | 2022-06-04 |
