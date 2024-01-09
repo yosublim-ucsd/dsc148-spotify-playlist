@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 249517,
+  "num_followers": 249556,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Nzk4ZGIwODg2OWRmY2Y4YTc2OTE4Y2NiYzY1ZDI2ZmRmMTQ4YjA2",
+  "snapshot_id": "MCwxMDBkNzgxYmExYmJiMWY5OWIyYzUyNjdhZDdiOTBlMWYyODgxMTMy",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -563,6 +563,22 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
+        "name": "Vibes 2",
+        "url": "https://open.spotify.com/album/1AKUaQMs0kRryyi18h31o0"
+      },
+      "artists": [
+        {
+          "name": "The Deli",
+          "url": "https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde"
+        }
+      ],
+      "duration_ms": 136914,
+      "name": "5:32pm",
+      "url": "https://open.spotify.com/track/0Q2LHrREFF9rtX3PuMUoNL"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
         "name": "Gravity Falls",
         "url": "https://open.spotify.com/album/1iMSGts0m62uVAmvCxIxiG"
       },
@@ -595,22 +611,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/3fr8eTKmfc0cjaijl4lduW"
-      },
-      "artists": [
-        {
-          "name": "eery",
-          "url": "https://open.spotify.com/artist/2nu6ZVLgiNcRcWgDKUjplH"
-        }
-      ],
-      "duration_ms": 123219,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/2koESjC2WBc6qmfg0dmTRt"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "Redbone",
         "url": "https://open.spotify.com/album/7ifFCYOT1n2YGyYhSuU59g"
       },
@@ -627,18 +627,18 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Vibes 2",
-        "url": "https://open.spotify.com/album/1AKUaQMs0kRryyi18h31o0"
+        "name": "Her",
+        "url": "https://open.spotify.com/album/3fr8eTKmfc0cjaijl4lduW"
       },
       "artists": [
         {
-          "name": "The Deli",
-          "url": "https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde"
+          "name": "eery",
+          "url": "https://open.spotify.com/artist/2nu6ZVLgiNcRcWgDKUjplH"
         }
       ],
-      "duration_ms": 136914,
-      "name": "5:32pm",
-      "url": "https://open.spotify.com/track/0Q2LHrREFF9rtX3PuMUoNL"
+      "duration_ms": 123219,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/2koESjC2WBc6qmfg0dmTRt"
     },
     {
       "added_at": "2022-02-02 00:21:48",

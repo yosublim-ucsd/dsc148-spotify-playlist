@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 25633,
+  "num_followers": 25652,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzJkYzc4MmE1YmU0MzdjNDUwMmQwNDQ5ZTI0MGJlMWUxYjBhODRi",
+  "snapshot_id": "MCxkMzUwYzQwN2MzYTUzMjNiZmE0ODc2YWY3YTA4MWI0MDg0NzM3ZTg1",
   "tracks": [
     {
       "added_at": "2023-12-08 03:00:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Versus",
-        "url": "https://open.spotify.com/album/2DYgWkKDJHW6U3wXtULQ0g"
-      },
-      "artists": [
-        {
-          "name": "Illya Kuryaki & The Valderramas",
-          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
-        }
-      ],
-      "duration_ms": 259506,
-      "name": "Jugo",
-      "url": "https://open.spotify.com/track/6lNwrdMlAT0TsOzgRtAvpF"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "The New Sound of the Venezuelan Gozadera",
         "url": "https://open.spotify.com/album/6dWnLOP6zgqmvohqPZfzDh"
       },
@@ -155,6 +139,22 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
+        "name": "Versus",
+        "url": "https://open.spotify.com/album/2DYgWkKDJHW6U3wXtULQ0g"
+      },
+      "artists": [
+        {
+          "name": "Illya Kuryaki & The Valderramas",
+          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
+        }
+      ],
+      "duration_ms": 259506,
+      "name": "Jugo",
+      "url": "https://open.spotify.com/track/6lNwrdMlAT0TsOzgRtAvpF"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
         "name": "En Una",
         "url": "https://open.spotify.com/album/6OSoJXtvqLZO0miIj3zhTs"
       },
@@ -167,42 +167,6 @@
       "duration_ms": 249731,
       "name": "En Una",
       "url": "https://open.spotify.com/track/47EtZNpOtwE80IQA0X9Izd"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "Xavier",
-        "url": "https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
-        }
-      ],
-      "duration_ms": 222333,
-      "name": "1000 D\u00edas",
-      "url": "https://open.spotify.com/track/3UaCBKxFiggeyp8Y25GxUm"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "S\u00fabete",
-        "url": "https://open.spotify.com/album/165o9uGgipzLXM0QFz2bzE"
-      },
-      "artists": [
-        {
-          "name": "C-Funk",
-          "url": "https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO"
-        },
-        {
-          "name": "KYA",
-          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "S\u00fabete",
-      "url": "https://open.spotify.com/track/7DhJiiZcX2DYMpq1f5vZBa"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -231,18 +195,54 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Funky Magazine",
-        "url": "https://open.spotify.com/album/0dpvI4sK6dte5X32dELM95"
+        "name": "S\u00fabete",
+        "url": "https://open.spotify.com/album/165o9uGgipzLXM0QFz2bzE"
       },
       "artists": [
         {
-          "name": "Militantes del Climax",
-          "url": "https://open.spotify.com/artist/09BpCKSle4c7RbDtCuZXnv"
+          "name": "C-Funk",
+          "url": "https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO"
+        },
+        {
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
         }
       ],
-      "duration_ms": 164350,
-      "name": "Funky Magazine",
-      "url": "https://open.spotify.com/track/7FTyR0xZtVCXgjYYrGtvlj"
+      "duration_ms": 213750,
+      "name": "S\u00fabete",
+      "url": "https://open.spotify.com/track/7DhJiiZcX2DYMpq1f5vZBa"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Xavier",
+        "url": "https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+        }
+      ],
+      "duration_ms": 222333,
+      "name": "1000 D\u00edas",
+      "url": "https://open.spotify.com/track/3UaCBKxFiggeyp8Y25GxUm"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Mesa Dulce",
+        "url": "https://open.spotify.com/album/4pURI2UciLMYnod643ypjC"
+      },
+      "artists": [
+        {
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+        }
+      ],
+      "duration_ms": 219632,
+      "name": "Rebeli\u00f3n",
+      "url": "https://open.spotify.com/track/43jiwUK941x5lTgVWQhtfV"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -267,18 +267,18 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Mesa Dulce",
-        "url": "https://open.spotify.com/album/4pURI2UciLMYnod643ypjC"
+        "name": "Funky Magazine",
+        "url": "https://open.spotify.com/album/0dpvI4sK6dte5X32dELM95"
       },
       "artists": [
         {
-          "name": "Dante Spinetta",
-          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+          "name": "Militantes del Climax",
+          "url": "https://open.spotify.com/artist/09BpCKSle4c7RbDtCuZXnv"
         }
       ],
-      "duration_ms": 219632,
-      "name": "Rebeli\u00f3n",
-      "url": "https://open.spotify.com/track/43jiwUK941x5lTgVWQhtfV"
+      "duration_ms": 164350,
+      "name": "Funky Magazine",
+      "url": "https://open.spotify.com/track/7FTyR0xZtVCXgjYYrGtvlj"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -335,18 +335,18 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Climax",
-        "url": "https://open.spotify.com/album/1YO8tEGzrput7IasPQQXES"
+        "name": "Needle in the Groove",
+        "url": "https://open.spotify.com/album/1zEF32fMPWEdwefmX2Mzw4"
       },
       "artists": [
         {
-          "name": "Militantes del Climax",
-          "url": "https://open.spotify.com/artist/09BpCKSle4c7RbDtCuZXnv"
+          "name": "Papa Grows Funk",
+          "url": "https://open.spotify.com/artist/3HZGp40qZu7sjn5KswiU3Q"
         }
       ],
-      "duration_ms": 177626,
-      "name": "Abusa de tu Estilo",
-      "url": "https://open.spotify.com/track/6UArTjqNFFStRDFBu4Dx5V"
+      "duration_ms": 290040,
+      "name": "Do U Want It?",
+      "url": "https://open.spotify.com/track/09bDHWxnX2BjMPbj30PRQ4"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Needle in the Groove",
-        "url": "https://open.spotify.com/album/1zEF32fMPWEdwefmX2Mzw4"
-      },
-      "artists": [
-        {
-          "name": "Papa Grows Funk",
-          "url": "https://open.spotify.com/artist/3HZGp40qZu7sjn5KswiU3Q"
-        }
-      ],
-      "duration_ms": 290040,
-      "name": "Do U Want It?",
-      "url": "https://open.spotify.com/track/09bDHWxnX2BjMPbj30PRQ4"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Fe",
         "url": "https://open.spotify.com/album/5vk3olvzG9kcELAZ1i8Pym"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 194466,
       "name": "Eternamente",
       "url": "https://open.spotify.com/track/4jSbJmZXOmLKLz2nkG3oup"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "SuperActivo",
+        "url": "https://open.spotify.com/album/5svWSbY01Vl1THBqEIeJu8"
+      },
+      "artists": [
+        {
+          "name": "Papanegro",
+          "url": "https://open.spotify.com/artist/3YIlnLkPcxVni4w8FGWJnm"
+        }
+      ],
+      "duration_ms": 195186,
+      "name": "Cortentrete",
+      "url": "https://open.spotify.com/track/76feuT8zpM7EA0C6l8ZEVp"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -443,22 +443,18 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "La Iguana en el Jard\u00edn",
-        "url": "https://open.spotify.com/album/2UVA2n1nfEu6Xemet5VwjH"
+        "name": "Climax",
+        "url": "https://open.spotify.com/album/1YO8tEGzrput7IasPQQXES"
       },
       "artists": [
         {
-          "name": "Claudio Taddei",
-          "url": "https://open.spotify.com/artist/7nn8SAjbKT0CMqRyRhMpAh"
-        },
-        {
-          "name": "Ruben Rada",
-          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+          "name": "Militantes del Climax",
+          "url": "https://open.spotify.com/artist/09BpCKSle4c7RbDtCuZXnv"
         }
       ],
-      "duration_ms": 184111,
-      "name": "Estoy Contento, Nena",
-      "url": "https://open.spotify.com/track/3nN9r5nOaA16ev82clDomt"
+      "duration_ms": 177626,
+      "name": "Abusa de tu Estilo",
+      "url": "https://open.spotify.com/track/6UArTjqNFFStRDFBu4Dx5V"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -479,18 +475,22 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "SuperActivo",
-        "url": "https://open.spotify.com/album/5svWSbY01Vl1THBqEIeJu8"
+        "name": "La Iguana en el Jard\u00edn",
+        "url": "https://open.spotify.com/album/2UVA2n1nfEu6Xemet5VwjH"
       },
       "artists": [
         {
-          "name": "Papanegro",
-          "url": "https://open.spotify.com/artist/3YIlnLkPcxVni4w8FGWJnm"
+          "name": "Claudio Taddei",
+          "url": "https://open.spotify.com/artist/7nn8SAjbKT0CMqRyRhMpAh"
+        },
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
         }
       ],
-      "duration_ms": 195186,
-      "name": "Cortentrete",
-      "url": "https://open.spotify.com/track/76feuT8zpM7EA0C6l8ZEVp"
+      "duration_ms": 184111,
+      "name": "Estoy Contento, Nena",
+      "url": "https://open.spotify.com/track/3nN9r5nOaA16ev82clDomt"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -507,22 +507,6 @@
       "duration_ms": 209546,
       "name": "Tal para Cual",
       "url": "https://open.spotify.com/track/2MQt1W8HZoOCuhPUYMROjY"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "Niguiri Sessions",
-        "url": "https://open.spotify.com/album/0qJs4hALyuV9PIiMz3leXl"
-      },
-      "artists": [
-        {
-          "name": "Dante Spinetta",
-          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
-        }
-      ],
-      "duration_ms": 248615,
-      "name": "Supremac\u00eda - Niguiri Sessions",
-      "url": "https://open.spotify.com/track/0bbjRIKri8tDonziX4GIsw"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -559,18 +543,18 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Hotel Boston",
-        "url": "https://open.spotify.com/album/2RwlECSGovyxM2hKHuIzeS"
+        "name": "Niguiri Sessions",
+        "url": "https://open.spotify.com/album/0qJs4hALyuV9PIiMz3leXl"
       },
       "artists": [
         {
-          "name": "Funk\u00b4chula",
-          "url": "https://open.spotify.com/artist/4sxtKd1hXg0d3VUWSux1Gq"
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Hotel Boston",
-      "url": "https://open.spotify.com/track/02gOFILt8dgsA63vVI6E4c"
+      "duration_ms": 248615,
+      "name": "Supremac\u00eda - Niguiri Sessions",
+      "url": "https://open.spotify.com/track/0bbjRIKri8tDonziX4GIsw"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -587,6 +571,22 @@
       "duration_ms": 203413,
       "name": "Ven Aqu\u00ed a Pelear",
       "url": "https://open.spotify.com/track/2ksoIRPP6U0QuunCxbsRl5"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Hotel Boston",
+        "url": "https://open.spotify.com/album/2RwlECSGovyxM2hKHuIzeS"
+      },
+      "artists": [
+        {
+          "name": "Funk\u00b4chula",
+          "url": "https://open.spotify.com/artist/4sxtKd1hXg0d3VUWSux1Gq"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Hotel Boston",
+      "url": "https://open.spotify.com/track/02gOFILt8dgsA63vVI6E4c"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Sinestesia",
-        "url": "https://open.spotify.com/album/7nV7O5zQXQeCCFRLyXI5JT"
-      },
-      "artists": [
-        {
-          "name": "Antes de Nacer",
-          "url": "https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo"
-        }
-      ],
-      "duration_ms": 267705,
-      "name": "Sinestesia",
-      "url": "https://open.spotify.com/track/6zpSJygrnJU29m8caIL44a"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "One Night",
         "url": "https://open.spotify.com/album/7pxArAvPLT49D1pujkSm9P"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 274102,
       "name": "One Night",
       "url": "https://open.spotify.com/track/6bDvwo63vUW9qWUUgWGBby"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Sinestesia",
+        "url": "https://open.spotify.com/album/7nV7O5zQXQeCCFRLyXI5JT"
+      },
+      "artists": [
+        {
+          "name": "Antes de Nacer",
+          "url": "https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo"
+        }
+      ],
+      "duration_ms": 267705,
+      "name": "Sinestesia",
+      "url": "https://open.spotify.com/track/6zpSJygrnJU29m8caIL44a"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Los Funktasticos Genitales",
-        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
-      },
-      "artists": [
-        {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
-        }
-      ],
-      "duration_ms": 236858,
-      "name": "Alergica",
-      "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Myselfed",
         "url": "https://open.spotify.com/album/1gMhxgWFw8hCTKQH0B9Wvf"
       },
@@ -1067,22 +1051,18 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Kaos & Armon\u00eda",
-        "url": "https://open.spotify.com/album/7sqQCuwceUleWHIo5BXPKb"
+        "name": "Los Funktasticos Genitales",
+        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
       },
       "artists": [
         {
-          "name": "Orion XL",
-          "url": "https://open.spotify.com/artist/5M9UirTedNlelMd00Rv1PP"
-        },
-        {
-          "name": "Guillermo Bonetto",
-          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
         }
       ],
-      "duration_ms": 221506,
-      "name": "Eco en el Silencio",
-      "url": "https://open.spotify.com/track/0Uxk4YeBgyqwWSQag0g8LS"
+      "duration_ms": 236858,
+      "name": "Alergica",
+      "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1099,6 +1079,26 @@
       "duration_ms": 355506,
       "name": "Aeronave",
       "url": "https://open.spotify.com/track/5tcINAPrFrvnFbIuR67xNI"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Kaos & Armon\u00eda",
+        "url": "https://open.spotify.com/album/7sqQCuwceUleWHIo5BXPKb"
+      },
+      "artists": [
+        {
+          "name": "Orion XL",
+          "url": "https://open.spotify.com/artist/5M9UirTedNlelMd00Rv1PP"
+        },
+        {
+          "name": "Guillermo Bonetto",
+          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
+        }
+      ],
+      "duration_ms": 221506,
+      "name": "Eco en el Silencio",
+      "url": "https://open.spotify.com/track/0Uxk4YeBgyqwWSQag0g8LS"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Ya Lo Estoy Deseando",
-        "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
+        "name": "Chicas on Fire - Single",
+        "url": "https://open.spotify.com/album/19hyihRj65Z9jPhBAXaErH"
       },
       "artists": [
         {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+          "name": "Shocklenders",
+          "url": "https://open.spotify.com/artist/45F0w3u4aSG89gClIx4QIR"
         }
       ],
-      "duration_ms": 202591,
-      "name": "C\u00f3mo",
-      "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
+      "duration_ms": 240085,
+      "name": "Chicas on Fire",
+      "url": "https://open.spotify.com/track/1OJTHnR95k4N0mNfYYkoFB"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Chicas on Fire - Single",
-        "url": "https://open.spotify.com/album/19hyihRj65Z9jPhBAXaErH"
+        "name": "Ya Lo Estoy Deseando",
+        "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
       },
       "artists": [
         {
-          "name": "Shocklenders",
-          "url": "https://open.spotify.com/artist/45F0w3u4aSG89gClIx4QIR"
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
         }
       ],
-      "duration_ms": 240085,
-      "name": "Chicas on Fire",
-      "url": "https://open.spotify.com/track/1OJTHnR95k4N0mNfYYkoFB"
+      "duration_ms": 202591,
+      "name": "C\u00f3mo",
+      "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
+        "name": "A Pesar de la Tormenta",
+        "url": "https://open.spotify.com/album/4CMImKp9OiSozGXqoN6EdW"
+      },
+      "artists": [
+        {
+          "name": "Florencia Andrada",
+          "url": "https://open.spotify.com/artist/3Yn6NUVSA13dcEZpw79Vd2"
+        }
+      ],
+      "duration_ms": 175549,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/5fJf0XNVVyCXZDkkIhTkfI"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
         "name": "Sudamericano",
         "url": "https://open.spotify.com/album/0aicK68Tg0bOAb7vPOFmwt"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 230991,
       "name": "Silver Mule",
       "url": "https://open.spotify.com/track/3PJmsTebOq650PohvoAOny"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "A Pesar de la Tormenta",
-        "url": "https://open.spotify.com/album/4CMImKp9OiSozGXqoN6EdW"
-      },
-      "artists": [
-        {
-          "name": "Florencia Andrada",
-          "url": "https://open.spotify.com/artist/3Yn6NUVSA13dcEZpw79Vd2"
-        }
-      ],
-      "duration_ms": 175549,
-      "name": "Ahora",
-      "url": "https://open.spotify.com/track/5fJf0XNVVyCXZDkkIhTkfI"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
+      },
+      "artists": [
+        {
+          "name": "Jvlian",
+          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
+        }
+      ],
+      "duration_ms": 131315,
+      "name": "Droga",
+      "url": "https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
         "name": "Inmunidad",
         "url": "https://open.spotify.com/album/3SJ7gTxtIxHXZ1e2xnJ6TG"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 272373,
       "name": "Todo Atr\u00e1s",
       "url": "https://open.spotify.com/track/7yCpBkWqPLQ3NfWNHgsvn8"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "Crisis",
-        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
-      },
-      "artists": [
-        {
-          "name": "Jvlian",
-          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
-        }
-      ],
-      "duration_ms": 131315,
-      "name": "Droga",
-      "url": "https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/3Ew0mVd4RRu7UFWMMalvmR"
+      },
+      "artists": [
+        {
+          "name": "Ania Ivania",
+          "url": "https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb"
+        }
+      ],
+      "duration_ms": 190373,
+      "name": "Aire",
+      "url": "https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
         "name": "El Reino",
         "url": "https://open.spotify.com/album/6n1MzVCGv5bsBOYl3HH02m"
       },
@@ -1571,34 +1587,22 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/3Ew0mVd4RRu7UFWMMalvmR"
+        "name": "Best Of Us",
+        "url": "https://open.spotify.com/album/3yfSd47G0hdBqXUeKCiVSH"
       },
       "artists": [
         {
-          "name": "Ania Ivania",
-          "url": "https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb"
-        }
-      ],
-      "duration_ms": 190373,
-      "name": "Aire",
-      "url": "https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "Tangible",
-        "url": "https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG"
-      },
-      "artists": [
+          "name": "Ale Zurita",
+          "url": "https://open.spotify.com/artist/10kKK9vhtKk2vyeizLcNZq"
+        },
         {
-          "name": "Jasper",
-          "url": "https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG"
+          "name": "Palta & the mood",
+          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
         }
       ],
-      "duration_ms": 315922,
-      "name": "Beast in You",
-      "url": "https://open.spotify.com/track/6hZ8kRu0uxj2s6ujZH2Mn9"
+      "duration_ms": 185024,
+      "name": "Best Of Us",
+      "url": "https://open.spotify.com/track/4wrdly1XwZaZP8b2I4Iv5t"
     }
   ],
   "unique_name": "Nota Funk",

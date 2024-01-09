@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-728 songs - 2 day 1 hr 59 min
+729 songs - 2 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [All Of The People](https://open.spotify.com/track/2iXFX4oPBXFVIADlUuHIgq) | [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [Chaos For The Fly](https://open.spotify.com/album/0lYFv5JDwH0NwiufmU4GKj) | 4:23 | 2023-07-05 | 2023-08-31 |
 | [All That Fall](https://open.spotify.com/track/0zJhOHdEjeqtIkQeXTqv2B) | [The Psychotic Monks](https://open.spotify.com/artist/7GB1a2GjXTCbTtdSv3NTPy) | [All That Fall](https://open.spotify.com/album/7N3iht16OHxgfqFmdJzYZW) | 9:53 | 2022-12-07 | 2023-02-02 |
 | [All The Junk On The Outskirts](https://open.spotify.com/track/71AnYfkhkjnBYGw4ryoGZR) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [All The Junk On The Outskirts](https://open.spotify.com/album/5oCuWvBnDMXdbUZ916XWAD) | 3:38 | 2022-06-08 | 2022-07-28 |
+| [All The Same](https://open.spotify.com/track/6gRfg5GBGJukXcYWm9Wpwl) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [All The Same](https://open.spotify.com/album/2vUQi2E2j9QTU8NSRWxSjt) | 2:55 | 2024-01-08 |  |
 | [All These Things](https://open.spotify.com/track/11gQ6pYyjk6TtZq4SWtDzA) | [DC Gore](https://open.spotify.com/artist/6Z9iK220pst9ExbutivPI6) | [All These Things](https://open.spotify.com/album/54CU9jHxWLV6hca9h81eAe) | 4:30 | 2022-08-03 | 2022-09-22 |
 | [All These Things](https://open.spotify.com/track/5k0FUO0GmHOELaM8tJlmjP) | [DC Gore](https://open.spotify.com/artist/6Z9iK220pst9ExbutivPI6) | [All These Things](https://open.spotify.com/album/2X2wOUf1d0tdAxWMN6U3sm) | 4:30 | 2022-07-25 | 2022-08-04 |
 | [Alps](https://open.spotify.com/track/57cfUHZjRwwrIQaMurSIlJ) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [I Don't Know](https://open.spotify.com/album/2cNtBpejkWMdxrN94XuR8z) | 5:30 | 2023-07-05 | 2023-08-10 |

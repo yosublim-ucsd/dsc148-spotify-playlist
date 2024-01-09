@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 75709,
+  "num_followers": 75764,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2JjYTIxYjJjNjU2MGRlMmFkN2RhMjZjN2M0ODI4NzkzMDUyYzc2",
+  "snapshot_id": "MCwyMTYxMGNlMDk5ZjFkYjJhYjg4M2QyZDhlNzcxMzk3OTg5YTk5OTk0",
   "tracks": [
     {
       "added_at": "2023-12-27 14:18:14",
@@ -503,6 +503,26 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "VOC\u00ca SE ENTREGA PRA MIM, DESCE S\u00d3 MAIS UM POUQUINHO x BEAT RISADINHA",
+        "url": "https://open.spotify.com/album/44K9gZCrMa2B7TPz9Qt9AJ"
+      },
+      "artists": [
+        {
+          "name": "TIKTOK HITS",
+          "url": "https://open.spotify.com/artist/6tAbLbYX95ec4We3uKX9eK"
+        },
+        {
+          "name": "LC DAS CASINHAS",
+          "url": "https://open.spotify.com/artist/5WOCgbVvcC8JHGpraobo2C"
+        }
+      ],
+      "duration_ms": 166115,
+      "name": "VOC\u00ca SE ENTREGA PRA MIM, DESCE S\u00d3 MAIS UM POUQUINHO x BEAT RISADINHA",
+      "url": "https://open.spotify.com/track/4LMaUEcFZKgp2K7fdHeBNk"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "Manda \u00c1udio (Sped Funk)",
         "url": "https://open.spotify.com/album/0zuN31JROjiQnzQm0KGtkk"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 99759,
       "name": "Manda \u00c1udio (Sped Funk)",
       "url": "https://open.spotify.com/track/0Xawar2jiwMz36PD5M1gJ0"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "VOC\u00ca SE ENTREGA PRA MIM, DESCE S\u00d3 MAIS UM POUQUINHO x BEAT RISADINHA",
-        "url": "https://open.spotify.com/album/44K9gZCrMa2B7TPz9Qt9AJ"
-      },
-      "artists": [
-        {
-          "name": "TIKTOK HITS",
-          "url": "https://open.spotify.com/artist/6tAbLbYX95ec4We3uKX9eK"
-        },
-        {
-          "name": "LC DAS CASINHAS",
-          "url": "https://open.spotify.com/artist/5WOCgbVvcC8JHGpraobo2C"
-        }
-      ],
-      "duration_ms": 166115,
-      "name": "VOC\u00ca SE ENTREGA PRA MIM, DESCE S\u00d3 MAIS UM POUQUINHO x BEAT RISADINHA",
-      "url": "https://open.spotify.com/track/4LMaUEcFZKgp2K7fdHeBNk"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -811,6 +811,26 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "Palha\u00e7ada Speed",
+        "url": "https://open.spotify.com/album/4okp1GPCFiKNbnTfFQvO5A"
+      },
+      "artists": [
+        {
+          "name": "Avelar Music",
+          "url": "https://open.spotify.com/artist/5AlccduhApCtX7ssks4AJ1"
+        },
+        {
+          "name": "Belim",
+          "url": "https://open.spotify.com/artist/6Cb97YqzKJbAxQuHzEDJnb"
+        }
+      ],
+      "duration_ms": 149170,
+      "name": "Palha\u00e7ada Speed",
+      "url": "https://open.spotify.com/track/0ehjQBJZp0dpOv1oCZFHGE"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "Ananda (Speed)",
         "url": "https://open.spotify.com/album/1CIW6txeFisFO56w7sqX9e"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 163835,
       "name": "Portugal (Speed)",
       "url": "https://open.spotify.com/track/06tHtGtKQuYRKkrfa1yQEi"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "Palha\u00e7ada Speed",
-        "url": "https://open.spotify.com/album/4okp1GPCFiKNbnTfFQvO5A"
-      },
-      "artists": [
-        {
-          "name": "Avelar Music",
-          "url": "https://open.spotify.com/artist/5AlccduhApCtX7ssks4AJ1"
-        },
-        {
-          "name": "Belim",
-          "url": "https://open.spotify.com/artist/6Cb97YqzKJbAxQuHzEDJnb"
-        }
-      ],
-      "duration_ms": 149170,
-      "name": "Palha\u00e7ada Speed",
-      "url": "https://open.spotify.com/track/0ehjQBJZp0dpOv1oCZFHGE"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
-        "url": "https://open.spotify.com/album/1IFTS6yS1n9VIZDcv3GmQh"
-      },
-      "artists": [
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        }
-      ],
-      "duration_ms": 160421,
-      "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
-      "url": "https://open.spotify.com/track/6Jw5n5JmPrUzpe33beJOM8"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "Kill Bill - Speed",
         "url": "https://open.spotify.com/album/65EoSVA4XRpos1EZEgu2KB"
       },
@@ -1091,6 +1075,22 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
+        "url": "https://open.spotify.com/album/1IFTS6yS1n9VIZDcv3GmQh"
+      },
+      "artists": [
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 160421,
+      "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
+      "url": "https://open.spotify.com/track/6Jw5n5JmPrUzpe33beJOM8"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "Rede Social (Speed)",
         "url": "https://open.spotify.com/album/01iSILkAS9K13llC2AEWZJ"
       },
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Se a Saudade Bater (Workout Version)",
-        "url": "https://open.spotify.com/album/5XC3pLLrZMj6d254BFHBD3"
-      },
-      "artists": [
-        {
-          "name": "MC Tairon",
-          "url": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
-        }
-      ],
-      "duration_ms": 131280,
-      "name": "Se a Saudade Bater (Workout Version)",
-      "url": "https://open.spotify.com/track/4WDFyuqWL2TzMFeiBqMdK2"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "Sou Eu (Speed)",
         "url": "https://open.spotify.com/album/0ImQiX9qXLJPxNm70WS0F6"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 125270,
       "name": "Sou Eu - Speed",
       "url": "https://open.spotify.com/track/7oJz4UAl1txNYgzbJGIE3H"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "Se a Saudade Bater (Workout Version)",
+        "url": "https://open.spotify.com/album/5XC3pLLrZMj6d254BFHBD3"
+      },
+      "artists": [
+        {
+          "name": "MC Tairon",
+          "url": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
+        }
+      ],
+      "duration_ms": 131280,
+      "name": "Se a Saudade Bater (Workout Version)",
+      "url": "https://open.spotify.com/track/4WDFyuqWL2TzMFeiBqMdK2"
     },
     {
       "added_at": "2023-12-27 14:18:14",

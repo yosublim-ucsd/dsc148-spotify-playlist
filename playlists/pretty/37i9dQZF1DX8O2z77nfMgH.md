@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. En portada: Nicki Nicole, Mesita, Emilia y Tiago PZK
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,715 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 928,010 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 49 | [Y la Perreo](https://open.spotify.com/track/0vgV44LbA1BiCRggiBk8bW) | [DJ Pedro Fuentes](https://open.spotify.com/artist/6Ez7LiWGLxUAl9Gso9zEDs), [Versatil Boy](https://open.spotify.com/artist/0tLQM6502ofNyYTW2NFnZM) | [Y la Perreo](https://open.spotify.com/album/3hyRkqqWY3XMPOw1Niyda3) | 2:36 |
 | 50 | [Wirinikini](https://open.spotify.com/track/32sbBPysflH2Os6I0DnLIY) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa) | [Wirinikini](https://open.spotify.com/album/6WUP7RWj2WrUo256AOh7W3) | 3:05 |
 
-Snapshot ID: `MCw1MTg4YWUyNWM5Y2U1ZTNlNDhmOWY3NDM5MGRiYTE2ZDM2NmJiMmJl`
+Snapshot ID: `MCw1YTZiNzJmOGIzOWFkZmEzNGQwYjU1N2Q2YTZlZjI1MzlmMmVmYTE4`

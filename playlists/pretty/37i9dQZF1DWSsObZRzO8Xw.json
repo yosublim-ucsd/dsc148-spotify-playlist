@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the universe of complex rhythms and mesmerizing loops. Cover: LITE",
-  "num_followers": 161790,
+  "num_followers": 161922,
   "original_name": "Math Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjY3MzZkYTk3MmU0MGE3NDNhYTk2NWVhYjYyN2QzZjdhYTBhYzk3",
+  "snapshot_id": "MCxmOTIzM2VkMDJjZGQ4M2NlNjQ1Mzc3ZTljZjRlNzYzZDY3MGEzZTli",
   "tracks": [
     {
       "added_at": "2023-11-09 16:46:30",
@@ -207,18 +207,18 @@
     {
       "added_at": "2023-11-09 16:46:30",
       "album": {
-        "name": "End",
-        "url": "https://open.spotify.com/album/6iyqFDzMfdgCcrWq7PeCTb"
+        "name": "For Long Tomorrow",
+        "url": "https://open.spotify.com/album/6li0rkNGD98cO8Gxf7nnSk"
       },
       "artists": [
         {
-          "name": "Explosions In The Sky",
-          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+          "name": "toe",
+          "url": "https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ"
         }
       ],
-      "duration_ms": 389333,
-      "name": "Ten Billion People",
-      "url": "https://open.spotify.com/track/5gyh1OZKdqRnzaqKvV4ZMn"
+      "duration_ms": 250253,
+      "name": "two moons",
+      "url": "https://open.spotify.com/track/6qcUFIPZU2sJXiI1sqzwZG"
     },
     {
       "added_at": "2023-11-09 16:46:30",
@@ -239,34 +239,18 @@
     {
       "added_at": "2023-11-09 16:46:30",
       "album": {
-        "name": "potage",
-        "url": "https://open.spotify.com/album/4KXkUlTzabU1S2eU5WYnOu"
+        "name": "End",
+        "url": "https://open.spotify.com/album/6iyqFDzMfdgCcrWq7PeCTb"
       },
       "artists": [
         {
-          "name": "tricot",
-          "url": "https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f"
+          "name": "Explosions In The Sky",
+          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
         }
       ],
-      "duration_ms": 246915,
-      "name": "potage",
-      "url": "https://open.spotify.com/track/6n9AvpTLSNunpIr2Gr2AXa"
-    },
-    {
-      "added_at": "2023-11-09 16:46:30",
-      "album": {
-        "name": "For Long Tomorrow",
-        "url": "https://open.spotify.com/album/6li0rkNGD98cO8Gxf7nnSk"
-      },
-      "artists": [
-        {
-          "name": "toe",
-          "url": "https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "two moons",
-      "url": "https://open.spotify.com/track/6qcUFIPZU2sJXiI1sqzwZG"
+      "duration_ms": 389333,
+      "name": "Ten Billion People",
+      "url": "https://open.spotify.com/track/5gyh1OZKdqRnzaqKvV4ZMn"
     },
     {
       "added_at": "2023-11-09 16:46:30",
@@ -299,6 +283,22 @@
       "duration_ms": 266752,
       "name": "\u6625\u96e8 Spring Rain",
       "url": "https://open.spotify.com/track/5G1wOifWhpTlEhxbaQxQe5"
+    },
+    {
+      "added_at": "2023-11-09 16:46:30",
+      "album": {
+        "name": "potage",
+        "url": "https://open.spotify.com/album/4KXkUlTzabU1S2eU5WYnOu"
+      },
+      "artists": [
+        {
+          "name": "tricot",
+          "url": "https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f"
+        }
+      ],
+      "duration_ms": 246915,
+      "name": "potage",
+      "url": "https://open.spotify.com/track/6n9AvpTLSNunpIr2Gr2AXa"
     },
     {
       "added_at": "2023-11-09 16:46:30",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-11-09 16:46:30",
       "album": {
-        "name": "Time Will Die and Love Will Bury It",
-        "url": "https://open.spotify.com/album/6VZQ25XyT12V0wH7oai4cG"
-      },
-      "artists": [
-        {
-          "name": "Rolo Tomassi",
-          "url": "https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI"
-        }
-      ],
-      "duration_ms": 232493,
-      "name": "Aftermath",
-      "url": "https://open.spotify.com/track/60qzUWBoLLARs9B82yD346"
-    },
-    {
-      "added_at": "2023-11-09 16:46:30",
-      "album": {
         "name": "Ghost City",
         "url": "https://open.spotify.com/album/63PgGSb6ZkwPVfMZVOhObO"
       },
@@ -383,6 +367,22 @@
     {
       "added_at": "2023-11-09 16:46:30",
       "album": {
+        "name": "Time Will Die and Love Will Bury It",
+        "url": "https://open.spotify.com/album/6VZQ25XyT12V0wH7oai4cG"
+      },
+      "artists": [
+        {
+          "name": "Rolo Tomassi",
+          "url": "https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI"
+        }
+      ],
+      "duration_ms": 232493,
+      "name": "Aftermath",
+      "url": "https://open.spotify.com/track/60qzUWBoLLARs9B82yD346"
+    },
+    {
+      "added_at": "2023-11-09 16:46:30",
+      "album": {
         "name": "The Endless Shimmering",
         "url": "https://open.spotify.com/album/5EQ5o0bmdRsKTyBaca3l9r"
       },
@@ -395,6 +395,22 @@
       "duration_ms": 233200,
       "name": "Mullally",
       "url": "https://open.spotify.com/track/02tJP7k7AstDD5wLrRb16H"
+    },
+    {
+      "added_at": "2023-11-09 16:46:30",
+      "album": {
+        "name": "Animals",
+        "url": "https://open.spotify.com/album/6gl4ylXxmNMpOxBImNe9n3"
+      },
+      "artists": [
+        {
+          "name": "TTNG",
+          "url": "https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "Baboon",
+      "url": "https://open.spotify.com/track/6gFhXzwUBpe6VIWsoF3DwG"
     },
     {
       "added_at": "2023-11-09 16:46:30",
@@ -443,22 +459,6 @@
       "duration_ms": 284666,
       "name": "Ten-Day Interval",
       "url": "https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm"
-    },
-    {
-      "added_at": "2023-11-09 16:46:30",
-      "album": {
-        "name": "Animals",
-        "url": "https://open.spotify.com/album/6gl4ylXxmNMpOxBImNe9n3"
-      },
-      "artists": [
-        {
-          "name": "TTNG",
-          "url": "https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "Baboon",
-      "url": "https://open.spotify.com/track/6gFhXzwUBpe6VIWsoF3DwG"
     },
     {
       "added_at": "2023-11-09 16:46:30",
@@ -515,22 +515,6 @@
       "duration_ms": 273782,
       "name": "At the Turf Field Behind My Parents' House",
       "url": "https://open.spotify.com/track/4bhQ4kGrhteFbgSDSaOVqv"
-    },
-    {
-      "added_at": "2023-11-09 16:46:30",
-      "album": {
-        "name": "Fontana Bella",
-        "url": "https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc"
-      },
-      "artists": [
-        {
-          "name": "Austin TV",
-          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Shiva",
-      "url": "https://open.spotify.com/track/1DicVORKQaNPV5wjEjIHjR"
     },
     {
       "added_at": "2023-11-09 16:46:30",
@@ -595,6 +579,22 @@
       "duration_ms": 385360,
       "name": "Teratology",
       "url": "https://open.spotify.com/track/5xF88xyWRwEMVq3waLRcah"
+    },
+    {
+      "added_at": "2023-11-09 16:46:30",
+      "album": {
+        "name": "Fontana Bella",
+        "url": "https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Shiva",
+      "url": "https://open.spotify.com/track/1DicVORKQaNPV5wjEjIHjR"
     },
     {
       "added_at": "2023-11-09 16:46:30",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-11-09 16:46:30",
       "album": {
+        "name": "Installation",
+        "url": "https://open.spotify.com/album/5ZDDJpw5rFAtHNnmGMqiaO"
+      },
+      "artists": [
+        {
+          "name": "LITE",
+          "url": "https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9"
+        }
+      ],
+      "duration_ms": 234813,
+      "name": "Echolocation",
+      "url": "https://open.spotify.com/track/51Vs7KeraqZwfR5OQLuaeI"
+    },
+    {
+      "added_at": "2023-11-09 16:46:30",
+      "album": {
         "name": "Get In Losers, We\u2019re Going to Eternal Damnation",
         "url": "https://open.spotify.com/album/4c2Nq7XkRFNISEOZ9uYrbc"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 217360,
       "name": "Raft Easily",
       "url": "https://open.spotify.com/track/31jGKJm3lNbQJgUx6mnt9r"
-    },
-    {
-      "added_at": "2023-11-09 16:46:30",
-      "album": {
-        "name": "Installation",
-        "url": "https://open.spotify.com/album/5ZDDJpw5rFAtHNnmGMqiaO"
-      },
-      "artists": [
-        {
-          "name": "LITE",
-          "url": "https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "Echolocation",
-      "url": "https://open.spotify.com/track/51Vs7KeraqZwfR5OQLuaeI"
     },
     {
       "added_at": "2023-11-09 16:46:30",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-11-09 16:46:30",
       "album": {
-        "name": "51\u00b031'47\"S 58\u00b007'44\"W",
-        "url": "https://open.spotify.com/album/6G3EKAe7lqV1xYaLGxow6O"
-      },
-      "artists": [
-        {
-          "name": "Puerto Austral",
-          "url": "https://open.spotify.com/artist/4PeFo2mhFvz9CeURn4nQ5o"
-        }
-      ],
-      "duration_ms": 213512,
-      "name": "Bamb\u00fa",
-      "url": "https://open.spotify.com/track/0blSP29ZqkQxUGImV3rB2o"
-    },
-    {
-      "added_at": "2023-11-09 16:46:30",
-      "album": {
         "name": "Ni Hablar",
         "url": "https://open.spotify.com/album/25VaZh2ORGoNWwdNSn5H1s"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 221686,
       "name": "GRVD",
       "url": "https://open.spotify.com/track/7dKs6gN3niTRTFkoJWc3JJ"
+    },
+    {
+      "added_at": "2023-11-09 16:46:30",
+      "album": {
+        "name": "51\u00b031'47\"S 58\u00b007'44\"W",
+        "url": "https://open.spotify.com/album/6G3EKAe7lqV1xYaLGxow6O"
+      },
+      "artists": [
+        {
+          "name": "Puerto Austral",
+          "url": "https://open.spotify.com/artist/4PeFo2mhFvz9CeURn4nQ5o"
+        }
+      ],
+      "duration_ms": 213512,
+      "name": "Bamb\u00fa",
+      "url": "https://open.spotify.com/track/0blSP29ZqkQxUGImV3rB2o"
     },
     {
       "added_at": "2023-11-09 16:46:30",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ZQNqlKwDCPSeey2y7kwlD.md) - [plain]
 
 > Start your morning right with this collection of songs you will want to sing all day long!
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 107,452 likes - 86 songs - 4 hr 36 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 107,432 likes - 86 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

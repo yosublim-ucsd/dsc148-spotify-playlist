@@ -1,12 +1,12 @@
 {
   "description": "Les hits marocains du moment. Cover: ElGrandeToto",
-  "num_followers": 237461,
+  "num_followers": 237527,
   "original_name": "Maroc Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGE5ZWJhNjg0MGY4MDFlZjhiY2M3NjIwZTRkOGJlM2VkODJmYjU1",
+  "snapshot_id": "MCw2N2VmZmJhYWEzNWIxNjdjYjUyZGM2ZDgzZWE3NTJhNzU1ZjM0Mzgz",
   "tracks": [
     {
       "added_at": "2024-01-06 17:25:19",
@@ -67,6 +67,22 @@
     {
       "added_at": "2024-01-06 17:25:19",
       "album": {
+        "name": "Mimti",
+        "url": "https://open.spotify.com/album/0YVkrsk7cyE1xhrKDhpqWv"
+      },
+      "artists": [
+        {
+          "name": "Duke",
+          "url": "https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r"
+        }
+      ],
+      "duration_ms": 198595,
+      "name": "Mimti",
+      "url": "https://open.spotify.com/track/6MZ3lIqUARBkZEDERr6tlF"
+    },
+    {
+      "added_at": "2024-01-06 17:25:19",
+      "album": {
         "name": "Zahri",
         "url": "https://open.spotify.com/album/6Y1e0RlGzHc4GGIu8bOePo"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 195375,
       "name": "Allo",
       "url": "https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ"
-    },
-    {
-      "added_at": "2024-01-06 17:25:19",
-      "album": {
-        "name": "Mimti",
-        "url": "https://open.spotify.com/album/0YVkrsk7cyE1xhrKDhpqWv"
-      },
-      "artists": [
-        {
-          "name": "Duke",
-          "url": "https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r"
-        }
-      ],
-      "duration_ms": 198595,
-      "name": "Mimti",
-      "url": "https://open.spotify.com/track/6MZ3lIqUARBkZEDERr6tlF"
     },
     {
       "added_at": "2024-01-06 17:25:19",

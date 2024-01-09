@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,035 songs - 2 day 7 hr 59 min
+1,036 songs - 2 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -636,6 +636,7 @@
 | [Naked](https://open.spotify.com/track/5dyFpHnCShXfEmDoKIg0J5) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Naked](https://open.spotify.com/album/1dUrO46Kk7VZW91AM6zTKT) | 3:38 | 2021-12-17 | 2022-04-15 |
 | [Need U \- Spotify Singles](https://open.spotify.com/track/6Ww581O9pklqs42MN4Da6q) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Need U \- Spotify Singles](https://open.spotify.com/album/2JbOWYXBHbLThB1ug7cuxF) | 2:34 | 2022-05-27 | 2022-07-13 |
 | [Needed You](https://open.spotify.com/track/6aboP9OEODXeWkJLpEhMfC) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Needed You](https://open.spotify.com/album/2lLq1QQHenyNGQ17E1frGX) | 3:08 | 2020-12-29 | 2021-01-07 |
+| [Needle On The Record](https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Needle On The Record](https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ) | 3:06 | 2024-01-02 |  |
 | [Never Going Home](https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Never Going Home](https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA) | 2:49 | 2021-12-31 |  |
 | [Never Gonna Tell You](https://open.spotify.com/track/58RXFvoX6t0JNYDls2ANh2) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI) | [Never Gonna Tell You](https://open.spotify.com/album/3PoGEJfiQvaSNECV3yDjzj) | 3:23 | 2021-12-17 | 2022-04-20 |
 | [New Bottega](https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [New Bottega](https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH) | 3:08 | 2023-03-31 | 2023-07-29 |
@@ -713,7 +714,7 @@
 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2021-08-28 |  |
 | [Perth](https://open.spotify.com/track/2jjXzs4XS9Kcmf9iSUbYuU) | [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb) | [Playground](https://open.spotify.com/album/5VSifRv9hr6vVNCNJ8j9lq) | 5:22 | 2022-07-14 | 2022-07-30 |
 | [Physical \- Claptone Remix](https://open.spotify.com/track/4KKaV1zUcpDecobqLjwIkB) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Physical \(Remixes\)](https://open.spotify.com/album/7jZt48FNrqTEO8SFaZHwl7) | 3:09 | 2020-05-22\* | 2022-07-02 |
-| [Players \(with David Guetta\) \- David Guetta Remix](https://open.spotify.com/track/2bgGETGKhv7V0WwQzzWqwc) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Players \(David Guetta Remix\)](https://open.spotify.com/album/0SoJzCzWfs9nwKrLDiuXdu) | 2:32 | 2023-03-27 |  |
+| [Players \(with David Guetta\) \- David Guetta Remix](https://open.spotify.com/track/2bgGETGKhv7V0WwQzzWqwc) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Players \(David Guetta Remix\)](https://open.spotify.com/album/0SoJzCzWfs9nwKrLDiuXdu) | 2:32 | 2023-03-27 | 2024-01-09 |
 | [pogo](https://open.spotify.com/track/404b6bC4GIxPsNssJmfC1f) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [pogo](https://open.spotify.com/album/2fq3wurBOOLw6TQBrP3jcw) | 3:27 | 2022-07-14 | 2023-05-05 |
 | [Poison](https://open.spotify.com/track/2xNxxDFIoCBIUYlTNK8oiU) | [SNBRN](https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI), [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [CeCe Rogers](https://open.spotify.com/artist/2hNpOiBBvdArEJy7ACY4O1) | [Poison](https://open.spotify.com/album/2jKuairRPQOhtdfDCRNvNT) | 3:24 | 2021-05-08 | 2022-04-19 |
 | [Pop That](https://open.spotify.com/track/1EpF7SUZOEdYXAJF6QC43Z) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Pop That](https://open.spotify.com/album/1Lr2J72KaKx1RinFIQoiEX) | 3:37 | 2020-12-13 | 2021-10-11 |

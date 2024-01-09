@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Tiësto, FAST BOY
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,485 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,507 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 74 | [Dornwald](https://open.spotify.com/track/3hy2eKCa7q9hOOuelDO0yG) | [Hänsel](https://open.spotify.com/artist/00Cen9aAFxIUh0h685dp5w), [Liebling](https://open.spotify.com/artist/2rDgiXjtPa0hGvovvxUvSV) | [Dornwald](https://open.spotify.com/album/004U8iepW4TdNIhkunmrLL) | 2:15 |
 | 75 | [There For You](https://open.spotify.com/track/0ZxWp3Tfnetp9kJLWmI8Nt) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94), [James French](https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues), [Daniel De Bourg](https://open.spotify.com/artist/24ykUrPaMcWMlCFCSEtrpK) | [There For You](https://open.spotify.com/album/50kVqptlF1M1BZoiGyZeZj) | 2:28 |
 
-Snapshot ID: `MCwyYjBjMTdjNWZkMzcxNzVjZGExNWUwZTZjNDJlYmZmMTczNjMyYTM3`
+Snapshot ID: `MCw0NmUwYzhkMjBjMTIzOTE1MGQzMTAyN2E3ZmFmYmQ4OWExZGY5Yjhh`

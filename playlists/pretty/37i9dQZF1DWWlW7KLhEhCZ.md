@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Feek
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,533 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,509 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [A La Carte](https://open.spotify.com/track/0lMHRyr7e9SfR12HwPnbAl) | [Frostt 7k](https://open.spotify.com/artist/7yXOjQ9jwqFeQIaKz8xzWh), [Canguru](https://open.spotify.com/artist/4ztqBTwprdTcXkE5Tte6AG) | [A La Carte](https://open.spotify.com/album/4ZFkNL5UbIpQhyGSCrfUeW) | 3:54 |
 | 75 | [Cheia De Sede](https://open.spotify.com/track/0AeKsIhtc21HRe4d94qs2N) | [Urbanamente](https://open.spotify.com/artist/49rYuhLNSc8WNdIw5CV0kT), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym), [Them Con](https://open.spotify.com/artist/7rBSwSc6iKDV4slZRul3Sr), [Modestto](https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd) | [Cheia De Sede](https://open.spotify.com/album/5mINNJH4IUMJLr7az7uaQB) | 3:01 |
 
-Snapshot ID: `MCxlODY0NTUxYzQzYzc3NzViMWFjYTE5M2M5NTI0NGMyOTU2MTczMzNl`
+Snapshot ID: `MCxmMzdjYjc0NzgwZWE5MmMzN2UzYWI3ZGQzMWQxYTZjOWI5YmFlZmRj`

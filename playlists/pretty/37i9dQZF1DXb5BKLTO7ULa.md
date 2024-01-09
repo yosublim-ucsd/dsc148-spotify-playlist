@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: FLEMMING, Zoë Tauran en Ronnie Flex
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,713 likes - 54 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,639 likes - 54 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 53 | [blind](https://open.spotify.com/track/5WolW1L8KiJRC0olcL0p7k) | [DEHAZE](https://open.spotify.com/artist/3lFS8jJTgqYqETcnc8rpF4) | [blind](https://open.spotify.com/album/7mCJmmoMFsEOngEZU39DT1) | 3:02 |
 | 54 | [Wie We Waren](https://open.spotify.com/track/1950JK2ivjyeSuHEXbWqFb) | [Martijn Hoogland](https://open.spotify.com/artist/74CgEOYtR1kRiPXHfzFzFk) | [Wie We Waren](https://open.spotify.com/album/3FelKk60AECGisXu9vuV5l) | 4:00 |
 
-Snapshot ID: `MCwxYzIyNTY0YjFlMmE0ZDYyZjMzNWYzZjczMTIwMDdiOWE2Yzg0ZGQ4`
+Snapshot ID: `MCxhZWFjYTg3MzY3ZDgxZDMwZTQ3OTI5NGE0ZjdjNWQ0NzRkY2UxNGQ5`

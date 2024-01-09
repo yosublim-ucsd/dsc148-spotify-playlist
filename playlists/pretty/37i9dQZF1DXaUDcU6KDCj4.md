@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Katy Kirby
 
-[Spotify](https://open.spotify.com/user/spotify) - 798,261 likes - 150 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,749 likes - 150 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Highway 72](https://open.spotify.com/track/5lv53oDMKUhEttj7WKu5gL) | [Jolie Holland](https://open.spotify.com/artist/2I75E6zjDObK1RcXUzpmSQ), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/2CVC0KMuJ73P8AMLToOkuQ) | 4:52 |
 | 150 | [Stranger](https://open.spotify.com/track/6zQjpTXDwTr0otUzBFqdPo) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Stranger](https://open.spotify.com/album/4I3hBaNXrp7V0Fzx9KE8iA) | 3:54 |
 
-Snapshot ID: `MCxkYjJiYjdkMjMxNDJlOTFjMmU0NTNmODkwY2I5MTM3YmUzNzY3NWUz`
+Snapshot ID: `MCxkOGQyYjhjN2RmZmRhMjdhMzZkYjdlMGVkZjU3MjUxNTU5Y2ZiYTE3`

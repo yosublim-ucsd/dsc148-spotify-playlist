@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "Bayaside Ninna",
+        "url": "https://open.spotify.com/album/1oq31tsHpML3zUgHXxMu3j"
+      },
+      "artists": [
+        {
+          "name": "Ashwamedha Karthik",
+          "url": "https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122938,
+      "name": "Bayaside Ninna",
+      "url": "https://open.spotify.com/track/3NmzEX42jupduW7vMPlXVR"
+    },
+    {
+      "album": {
         "name": "Beesuva Gaali (SKODA Deccan Beats)",
         "url": "https://open.spotify.com/album/5AQS0VpeL4yjO3CvMJmvjf"
       },
@@ -1022,7 +1040,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 168000,
       "name": "E Preeti",
       "url": "https://open.spotify.com/track/01ivpm8n90rIrUQUAKtvon"
@@ -3158,7 +3176,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 136605,
       "name": "Nanna Jeevana",
       "url": "https://open.spotify.com/track/4YZEX2H5wzXWjlCRiRMk5E"
@@ -3180,7 +3198,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 136605,
       "name": "Nanna Jeevana",
       "url": "https://open.spotify.com/track/6QkP19yo5LfvFCCzWsCuHK"
@@ -3822,7 +3840,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 221509,
       "name": "Ninna Nodade",
       "url": "https://open.spotify.com/track/31fsnh7dvxBu8UFxKsKeuB"

@@ -4,7 +4,7 @@
 
 > This is Delia Derbyshire\. The essential tracks, all in one playlist.
 
-84 songs - 3 hr 31 min
+85 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,9 +13,10 @@
 | [About Bridges Polyphonic Theme \(From The Hooykaas / Stansfield Film\)](https://open.spotify.com/track/130jTQ1Ce0St3eJtRjqgvn) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Do What You Love](https://open.spotify.com/album/1EG1jnmCsnfO0ME81y4mMj) | 0:54 | 2022-05-29 |  |
 | [Celestial Cantabile](https://open.spotify.com/track/4CktDPZOXK9LL7xMs2A04c) | [Brian Hodgson](https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT), [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Don Harper](https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X) | [Kpm 1000 Series: Electrosonic](https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7) | 3:30 | 2022-06-25 | 2022-07-20 |
 | [Circle of Light, Pt\. 1](https://open.spotify.com/track/7lAXvqRchSNaXGDVJZXkeN) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Elsa Stansfield](https://open.spotify.com/artist/5dMtXJG3j99DNJ5BYhXjtO) | [Circle of Light \(Original Electronic Soundtrack Recording\)](https://open.spotify.com/album/0PVskcfegzCFfZWYObDl0J) | 21:14 | 2022-05-29 | 2023-11-11 |
-| [Circle of Light, Pt\. 2](https://open.spotify.com/track/0F9SxKgSKsYK0N6iHWM4Pa) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Elsa Stansfield](https://open.spotify.com/artist/5dMtXJG3j99DNJ5BYhXjtO) | [Circle of Light \(Original Electronic Soundtrack Recording\)](https://open.spotify.com/album/0PVskcfegzCFfZWYObDl0J) | 10:25 | 2022-05-29 | 2024-01-05 |
+| [Circle of Light, Pt\. 2](https://open.spotify.com/track/0F9SxKgSKsYK0N6iHWM4Pa) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Elsa Stansfield](https://open.spotify.com/artist/5dMtXJG3j99DNJ5BYhXjtO) | [Circle of Light \(Original Electronic Soundtrack Recording\)](https://open.spotify.com/album/0PVskcfegzCFfZWYObDl0J) | 10:25 | 2022-05-29 |  |
 | [Computermatic](https://open.spotify.com/track/3O8IUG7HPVvLbp993DDdvU) | [Brian Hodgson](https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT), [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Don Harper](https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X) | [Kpm 1000 Series: Electrosonic](https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7) | 1:14 | 2022-06-03 |  |
-| [Delia's Dream](https://open.spotify.com/track/4kcdAGV3GNVeWnv4gWJVWn) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Electronic](https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS) | 0:40 | 2023-11-10 |  |
+| [Delia's Dream](https://open.spotify.com/track/4kcdAGV3GNVeWnv4gWJVWn) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Electronic](https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS) | 0:40 | 2023-11-10 | 2024-01-09 |
+| [Delia's Psychadelian Waltz](https://open.spotify.com/track/3NmsD9RDuyEcrodadErSMk) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Electronic](https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS) | 0:35 | 2024-01-08 |  |
 | [Delia's Theme](https://open.spotify.com/track/1HSpoFHUmphpjU0RwqbnJz) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Electronic](https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS) | 1:20 | 2023-11-10 |  |
 | [Depression](https://open.spotify.com/track/0wYA5p0Px0APnNoV9M4lhK) | [Brian Hodgson](https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT), [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Don Harper](https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X) | [Kpm 1000 Series: Electrosonic](https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7) | 1:27 | 2022-06-01 | 2022-09-07 |
 | [Doctor Who \(Closing Theme\)](https://open.spotify.com/track/12eaGTQ57QR7E1XhAevAXo) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [The BBC Radiophonic Workshop](https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa) | [Doctor Who \- The Caves of Androzani \(Original Television Soundtrack\)](https://open.spotify.com/album/4b80quImIGtQGnlNuDUlqm) | 1:20 | 2022-05-29 | 2022-12-18 |

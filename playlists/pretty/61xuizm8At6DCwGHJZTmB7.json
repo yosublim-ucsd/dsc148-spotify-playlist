@@ -1,12 +1,12 @@
 {
   "description": "Praise His holy name! Listen to the top Christian and Worship hits of 2024 on <a href=\"spotify:user:sozoofficial\">SOZO Playlists</a>! Cover: <a href=\"https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC?si=auw2mPeNRXaXZPrCoPFJ0g\">Brooke Ligertwood</a>",
-  "num_followers": 117417,
+  "num_followers": 117394,
   "original_name": "Worship 2024",
   "owner": {
     "name": "SOZO Playlists ",
     "url": "https://open.spotify.com/user/sozoofficial"
   },
-  "snapshot_id": "NzQyNCw5NTI3OTAzNzg3NzUxOTVjYWUwYjUzMzYwYWQ1OWU5MjVkYjE1ZjIy",
+  "snapshot_id": "NzQzNSw2ZWRjNjYzZTg0ZDA4ZTYzODgxOWJiMjA4NTliNjBhOTQ2YjUxZmNi",
   "tracks": [
     {
       "added_at": "2023-12-01 05:10:38",
@@ -75,6 +75,30 @@
     {
       "added_at": "2023-12-01 05:10:38",
       "album": {
+        "name": "He Who Is To Come",
+        "url": "https://open.spotify.com/album/5zKF5mAt03NcwrTKa3Z5or"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 410958,
+      "name": "He Who Is To Come",
+      "url": "https://open.spotify.com/track/5HKXRikAE7tdWY0XR5J7z9"
+    },
+    {
+      "added_at": "2023-12-01 05:10:38",
+      "album": {
         "name": "Songs You Maybe Didn't Know I Wrote And Some You Maybe Did (Live At Sound Emporium)",
         "url": "https://open.spotify.com/album/6zkm3hMUBGWTigktv1U4PK"
       },
@@ -139,30 +163,6 @@
     {
       "added_at": "2023-12-01 05:10:38",
       "album": {
-        "name": "He Who Is To Come",
-        "url": "https://open.spotify.com/album/5zKF5mAt03NcwrTKa3Z5or"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 410958,
-      "name": "He Who Is To Come",
-      "url": "https://open.spotify.com/track/5HKXRikAE7tdWY0XR5J7z9"
-    },
-    {
-      "added_at": "2023-12-01 05:10:38",
-      "album": {
         "name": "God Is Good! (Live)",
         "url": "https://open.spotify.com/album/4qZwzswmv5lNwLftPcVNBH"
       },
@@ -183,18 +183,22 @@
     {
       "added_at": "2023-12-01 05:10:38",
       "album": {
-        "name": "REVIVE",
-        "url": "https://open.spotify.com/album/3XAalHRYY1isgLgkclmdXv"
+        "name": "Joy In The Morning",
+        "url": "https://open.spotify.com/album/170FUziX94zYLzcV7arINC"
       },
       "artists": [
         {
-          "name": "Austin Stone Worship",
-          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 315340,
-      "name": "Revive My Soul",
-      "url": "https://open.spotify.com/track/24k5KgPxbxUtzf074uwVQ4"
+      "duration_ms": 528413,
+      "name": "Joy In The Morning",
+      "url": "https://open.spotify.com/track/6VorEVnu2fEEk6dcG9vb5v"
     },
     {
       "added_at": "2023-12-01 05:10:38",
@@ -223,22 +227,18 @@
     {
       "added_at": "2023-12-01 05:10:38",
       "album": {
-        "name": "King Of All The Nations / We Fall Down (Live)",
-        "url": "https://open.spotify.com/album/2tsJzxplKBuydKAMhL6LoM"
+        "name": "REVIVE",
+        "url": "https://open.spotify.com/album/3XAalHRYY1isgLgkclmdXv"
       },
       "artists": [
         {
-          "name": "Worship Together",
-          "url": "https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc"
-        },
-        {
-          "name": "TEMITOPE",
-          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
+          "name": "Austin Stone Worship",
+          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
         }
       ],
-      "duration_ms": 332371,
-      "name": "King Of All The Nations / We Fall Down - Live",
-      "url": "https://open.spotify.com/track/06PdKGYoayZpkyfvdFln0Q"
+      "duration_ms": 315340,
+      "name": "Revive My Soul",
+      "url": "https://open.spotify.com/track/24k5KgPxbxUtzf074uwVQ4"
     },
     {
       "added_at": "2023-12-01 05:10:38",
@@ -263,6 +263,26 @@
     {
       "added_at": "2023-12-01 05:10:38",
       "album": {
+        "name": "King Of All The Nations / We Fall Down (Live)",
+        "url": "https://open.spotify.com/album/2tsJzxplKBuydKAMhL6LoM"
+      },
+      "artists": [
+        {
+          "name": "Worship Together",
+          "url": "https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc"
+        },
+        {
+          "name": "TEMITOPE",
+          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
+        }
+      ],
+      "duration_ms": 332371,
+      "name": "King Of All The Nations / We Fall Down - Live",
+      "url": "https://open.spotify.com/track/06PdKGYoayZpkyfvdFln0Q"
+    },
+    {
+      "added_at": "2023-12-01 05:10:38",
+      "album": {
         "name": "Different (Live at Mosaic, Los Angeles, 2023)",
         "url": "https://open.spotify.com/album/28geG9hJyX8JtkEqDLTyow"
       },
@@ -275,26 +295,6 @@
       "duration_ms": 405600,
       "name": "Different - Live at Mosaic, Los Angeles, 2023",
       "url": "https://open.spotify.com/track/3tSN0n75qQRw3SyCo6u0P9"
-    },
-    {
-      "added_at": "2023-12-01 05:10:38",
-      "album": {
-        "name": "Joy In The Morning",
-        "url": "https://open.spotify.com/album/170FUziX94zYLzcV7arINC"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 528413,
-      "name": "Joy In The Morning",
-      "url": "https://open.spotify.com/track/6VorEVnu2fEEk6dcG9vb5v"
     },
     {
       "added_at": "2023-12-01 05:10:38",
@@ -319,6 +319,22 @@
       "duration_ms": 252669,
       "name": "Praise You Anywhere - Live",
       "url": "https://open.spotify.com/track/2GD9NVyL1EoQUA2MVW2HnX"
+    },
+    {
+      "added_at": "2023-12-01 05:10:38",
+      "album": {
+        "name": "Calvary's Enough",
+        "url": "https://open.spotify.com/album/0WSEBQibT5euqk9cNl6PU8"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 197689,
+      "name": "Calvary's Enough",
+      "url": "https://open.spotify.com/track/2oBrfq6TBwRyW15UZozfZs"
     },
     {
       "added_at": "2023-12-01 05:10:38",
@@ -379,6 +395,26 @@
     {
       "added_at": "2023-12-01 05:10:38",
       "album": {
+        "name": "What A Beautiful Name",
+        "url": "https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "What A Beautiful Name",
+      "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
+    },
+    {
+      "added_at": "2023-12-01 05:10:38",
+      "album": {
         "name": "Make Room",
         "url": "https://open.spotify.com/album/7qG7iGxZm2QYP9CYxVjOLb"
       },
@@ -395,22 +431,6 @@
       "duration_ms": 322258,
       "name": "Make Room",
       "url": "https://open.spotify.com/track/1FvYsZXEb6z8rc8DNhFZYo"
-    },
-    {
-      "added_at": "2023-12-01 05:10:38",
-      "album": {
-        "name": "Calvary's Enough",
-        "url": "https://open.spotify.com/album/0WSEBQibT5euqk9cNl6PU8"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 197689,
-      "name": "Calvary's Enough",
-      "url": "https://open.spotify.com/track/2oBrfq6TBwRyW15UZozfZs"
     },
     {
       "added_at": "2023-12-01 05:10:38",
@@ -435,26 +455,6 @@
       "duration_ms": 251498,
       "name": "Not To Us (One Name Forever Shall Be Praised)",
       "url": "https://open.spotify.com/track/64Zd9wCsCHtYSG3tk8wHse"
-    },
-    {
-      "added_at": "2023-12-01 05:10:38",
-      "album": {
-        "name": "What A Beautiful Name",
-        "url": "https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "What A Beautiful Name",
-      "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
     },
     {
       "added_at": "2023-12-01 05:10:38",
@@ -571,6 +571,30 @@
       "duration_ms": 330846,
       "name": "Gethsemane - Live",
       "url": "https://open.spotify.com/track/73D27LOrdLgupsaVo8V8Um"
+    },
+    {
+      "added_at": "2023-12-01 05:10:38",
+      "album": {
+        "name": "Top 25 Praise Songs - Graves Into Gardens",
+        "url": "https://open.spotify.com/album/6iCjUV2eqSC1eNzQMcZjGx"
+      },
+      "artists": [
+        {
+          "name": "Worship Solutions",
+          "url": "https://open.spotify.com/artist/7FokEHZS5ocJsuAT7gmDJI"
+        },
+        {
+          "name": "Maranatha! Music",
+          "url": "https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe"
+        },
+        {
+          "name": "Adam Smucker",
+          "url": "https://open.spotify.com/artist/414BovAUSONHbIcZIlfnDr"
+        }
+      ],
+      "duration_ms": 257730,
+      "name": "Graves Into Gardens",
+      "url": "https://open.spotify.com/track/1c9YQ3wWFBds5Vd7l28g9p"
     },
     {
       "added_at": "2023-12-01 05:10:38",
@@ -719,30 +743,6 @@
     {
       "added_at": "2023-12-01 05:10:38",
       "album": {
-        "name": "Top 25 Praise Songs - Graves Into Gardens",
-        "url": "https://open.spotify.com/album/6iCjUV2eqSC1eNzQMcZjGx"
-      },
-      "artists": [
-        {
-          "name": "Worship Solutions",
-          "url": "https://open.spotify.com/artist/7FokEHZS5ocJsuAT7gmDJI"
-        },
-        {
-          "name": "Maranatha! Music",
-          "url": "https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe"
-        },
-        {
-          "name": "Adam Smucker",
-          "url": "https://open.spotify.com/artist/414BovAUSONHbIcZIlfnDr"
-        }
-      ],
-      "duration_ms": 257730,
-      "name": "Graves Into Gardens",
-      "url": "https://open.spotify.com/track/1c9YQ3wWFBds5Vd7l28g9p"
-    },
-    {
-      "added_at": "2023-12-01 05:10:38",
-      "album": {
         "name": "Firm Foundation (Live)",
         "url": "https://open.spotify.com/album/7JItqwtqscE2BMoRPIJj4l"
       },
@@ -855,6 +855,26 @@
     {
       "added_at": "2023-12-01 05:10:38",
       "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 265133,
+      "name": "King Of Kings",
+      "url": "https://open.spotify.com/track/5E2v6b4Mo4jxuPrcK4YEIF"
+    },
+    {
+      "added_at": "2023-12-01 05:10:38",
+      "album": {
         "name": "I've Witnessed It (Live)",
         "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
       },
@@ -907,66 +927,6 @@
     {
       "added_at": "2023-12-01 05:10:38",
       "album": {
-        "name": "pure",
-        "url": "https://open.spotify.com/album/5iuqsJpvEOWblbICZuUcv0"
-      },
-      "artists": [
-        {
-          "name": "Abbie Gamboa",
-          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
-        },
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        }
-      ],
-      "duration_ms": 356962,
-      "name": "pure",
-      "url": "https://open.spotify.com/track/1poxng9cBRa5CMzyANuhnH"
-    },
-    {
-      "added_at": "2023-12-01 05:10:38",
-      "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 265133,
-      "name": "King Of Kings",
-      "url": "https://open.spotify.com/track/5E2v6b4Mo4jxuPrcK4YEIF"
-    },
-    {
-      "added_at": "2023-12-01 05:10:38",
-      "album": {
-        "name": "Crowns Down (Live)",
-        "url": "https://open.spotify.com/album/3yIWDWEr4BWDt38ovHWnre"
-      },
-      "artists": [
-        {
-          "name": "Gateway Worship",
-          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
-        },
-        {
-          "name": "Claire Smith",
-          "url": "https://open.spotify.com/artist/1WX879kYCO2MoFKwSZ2e50"
-        }
-      ],
-      "duration_ms": 290894,
-      "name": "Who Else - Live",
-      "url": "https://open.spotify.com/track/2hUVIsZyLfy4xs35CHTlmN"
-    },
-    {
-      "added_at": "2023-12-01 05:10:38",
-      "album": {
         "name": "Holy Forever (Live From Good Friday 2023)",
         "url": "https://open.spotify.com/album/6sYnxo5cymgC89xRShQiab"
       },
@@ -987,6 +947,46 @@
       "duration_ms": 389973,
       "name": "Holy Forever - Live From Good Friday 2023",
       "url": "https://open.spotify.com/track/3SOD2rOwadCSRKluvV36Sv"
+    },
+    {
+      "added_at": "2023-12-01 05:10:38",
+      "album": {
+        "name": "pure",
+        "url": "https://open.spotify.com/album/5iuqsJpvEOWblbICZuUcv0"
+      },
+      "artists": [
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        },
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        }
+      ],
+      "duration_ms": 356962,
+      "name": "pure",
+      "url": "https://open.spotify.com/track/1poxng9cBRa5CMzyANuhnH"
+    },
+    {
+      "added_at": "2023-12-01 05:10:38",
+      "album": {
+        "name": "Crowns Down (Live)",
+        "url": "https://open.spotify.com/album/3yIWDWEr4BWDt38ovHWnre"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Claire Smith",
+          "url": "https://open.spotify.com/artist/1WX879kYCO2MoFKwSZ2e50"
+        }
+      ],
+      "duration_ms": 290894,
+      "name": "Who Else - Live",
+      "url": "https://open.spotify.com/track/2hUVIsZyLfy4xs35CHTlmN"
     },
     {
       "added_at": "2023-12-01 05:10:38",

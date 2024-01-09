@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0MDcxODAsMDAwMDAwMDA0NTA0Y2M0NmY0ZTI1NDNlZjJkZTIyNGJjYTAyYTQxMg==",
+  "snapshot_id": "Mjg0MDcxODAsMDAwMDAwMDBjZWE2OTAwOTlhMGFhNTNlMzRlY2QzZGE5OTdmNmM0YQ==",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -80,21 +80,25 @@
           "url": "https://open.spotify.com/artist/2tT7nQdRPSLspfAIJLsVyS"
         },
         {
-          "name": "Killa Kali",
-          "url": "https://open.spotify.com/artist/75eyGnvvRWP3hAvvNNag8W"
+          "name": "Lethal Skillz",
+          "url": "https://open.spotify.com/artist/77HhnCORKmQoVA15S5V6pN"
         },
         {
           "name": "Mic Zoldiah",
           "url": "https://open.spotify.com/artist/6ufNwbpcn8olcjpYl2I61f"
         },
         {
+          "name": "Kinetic 9",
+          "url": "https://open.spotify.com/artist/3pVBPLFzZ96GGQfohKCQHv"
+        },
+        {
           "name": "RZA",
           "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
         }
       ],
-      "duration_ms": 223004,
-      "name": "CHECK YA FASHION",
-      "url": "https://open.spotify.com/track/60AybeRltLiX4ZATUkoRDS"
+      "duration_ms": 235006,
+      "name": "EVEN THE SCORE",
+      "url": "https://open.spotify.com/track/6tZ8Kg5yyOltyjuMBfN2sg"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -572,7 +576,7 @@
       "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Mr. McAdams",
-        "url": "https://open.spotify.com/album/3tH2swD8wrxdLNNdCZXPuV"
+        "url": "https://open.spotify.com/album/3zIqYHjhiIX0ezJUIegDfl"
       },
       "artists": [
         {
@@ -582,7 +586,7 @@
       ],
       "duration_ms": 156101,
       "name": "Mr. McAdams",
-      "url": "https://open.spotify.com/track/5FiQzAsVrrzuPGdGZmFLtO"
+      "url": "https://open.spotify.com/track/7uPVu05kl4tGCJ3KRUucBT"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -615,22 +619,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Hackney Diamonds (Live Edition)",
-        "url": "https://open.spotify.com/album/5rFsKSgldStbYgO4CNygLn"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 334204,
-      "name": "Jumpin' Jack Flash - Live at Racket, NYC",
-      "url": "https://open.spotify.com/track/6WL4mM5lIeRryzX9wf8hgZ"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "What We're Up Against",
         "url": "https://open.spotify.com/album/3LxpLZIrctTM8oLFrSD3VG"
       },
@@ -651,6 +639,22 @@
       "duration_ms": 220133,
       "name": "What We're Up Against feat. Elize Ryd of Amaranthe",
       "url": "https://open.spotify.com/track/7BfZXCDOxgbzeQnXJfzjDr"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Hackney Diamonds (Live Edition)",
+        "url": "https://open.spotify.com/album/5rFsKSgldStbYgO4CNygLn"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 334204,
+      "name": "Jumpin' Jack Flash - Live at Racket, NYC",
+      "url": "https://open.spotify.com/track/6WL4mM5lIeRryzX9wf8hgZ"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

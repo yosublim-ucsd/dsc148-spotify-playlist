@@ -1,12 +1,12 @@
 {
   "description": "minha carne \u00e9 de carnaval, meu cora\u00e7\u00e3o \u00e9 igual",
-  "num_followers": 140637,
+  "num_followers": 140646,
   "original_name": "carnavalizar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODc2OGIyNzU5ZjdmZGFjYmVlMjUxYWJhZjc3M2U0N2Y4ZjNiOTZj",
+  "snapshot_id": "MCxjM2RjODVmNjc0NjQ5MTllNmVkOTM0MDU5MDMwY2FlMDAzY2Q5N2Q4",
   "tracks": [
     {
       "added_at": "2023-03-06 22:48:04",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Leci Brand\u00e3o",
-        "url": "https://open.spotify.com/album/4AnfgQ4FOryX8qy0w1xzm6"
-      },
-      "artists": [
-        {
-          "name": "Leci Brandao",
-          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "Z\u00e9 Do Caro\u00e7o",
-      "url": "https://open.spotify.com/track/1h7XWoJkUP6dk89XYBoaaZ"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "Tribal Bahia",
         "url": "https://open.spotify.com/album/6VYGsl41yXhkEimis7ikqI"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 307880,
       "name": "Margarida Perfumada (Ao Vivo)",
       "url": "https://open.spotify.com/track/2XoeCdi8REPsSNmqeNXFQz"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "Leci Brand\u00e3o",
+        "url": "https://open.spotify.com/album/4AnfgQ4FOryX8qy0w1xzm6"
+      },
+      "artists": [
+        {
+          "name": "Leci Brandao",
+          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
+        }
+      ],
+      "duration_ms": 204520,
+      "name": "Z\u00e9 Do Caro\u00e7o",
+      "url": "https://open.spotify.com/track/1h7XWoJkUP6dk89XYBoaaZ"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -483,18 +483,22 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+        "name": "Anavit\u00f3ria Canta Para Foli\u00f5es De Bloco, Foli\u00f5es De Avenida E N\u00e3o Foli\u00f5es Tamb\u00e9m",
+        "url": "https://open.spotify.com/album/2DzY5n5rryVpWVsGbpaavi"
       },
       "artists": [
         {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        },
+        {
+          "name": "Saulo",
+          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
         }
       ],
-      "duration_ms": 264933,
-      "name": "Besta \u00e9 Tu",
-      "url": "https://open.spotify.com/track/79Lam1bAWszDiRLTH2V4ue"
+      "duration_ms": 226388,
+      "name": "Clareiam\u00f4",
+      "url": "https://open.spotify.com/track/7J7GYDRfsBsoORO4K4rx6z"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -515,22 +519,18 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Anavit\u00f3ria Canta Para Foli\u00f5es De Bloco, Foli\u00f5es De Avenida E N\u00e3o Foli\u00f5es Tamb\u00e9m",
-        "url": "https://open.spotify.com/album/2DzY5n5rryVpWVsGbpaavi"
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
       },
       "artists": [
         {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        },
-        {
-          "name": "Saulo",
-          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
         }
       ],
-      "duration_ms": 226388,
-      "name": "Clareiam\u00f4",
-      "url": "https://open.spotify.com/track/7J7GYDRfsBsoORO4K4rx6z"
+      "duration_ms": 264933,
+      "name": "Besta \u00e9 Tu",
+      "url": "https://open.spotify.com/track/79Lam1bAWszDiRLTH2V4ue"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Feij\u00e3o Com Arroz",
-        "url": "https://open.spotify.com/album/5ro9tttD1jyhJjfZzxsd1C"
-      },
-      "artists": [
-        {
-          "name": "Daniela Mercury",
-          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "Rapunzel",
-      "url": "https://open.spotify.com/track/5IocKfGOEyFiBolTgguc5c"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "Ladainha",
         "url": "https://open.spotify.com/album/3HuFPoYl9C1XWqwKkHvUpC"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 147468,
       "name": "Ladainha",
       "url": "https://open.spotify.com/track/3sKjN5oPlgyOREoxJ3zLru"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "Feij\u00e3o Com Arroz",
+        "url": "https://open.spotify.com/album/5ro9tttD1jyhJjfZzxsd1C"
+      },
+      "artists": [
+        {
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "Rapunzel",
+      "url": "https://open.spotify.com/track/5IocKfGOEyFiBolTgguc5c"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Refavela",
-        "url": "https://open.spotify.com/album/7gl0SUDwWTOdUehXFypXna"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 190173,
-      "name": "Il\u00ea ay\u00ea",
-      "url": "https://open.spotify.com/track/6L9okk7atrGuieV4FtZybt"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "Mangueira - a Menina Dos Meus Olhos",
         "url": "https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC"
       },
@@ -799,22 +783,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Daniela Mercury",
-        "url": "https://open.spotify.com/album/0nTyaheFM5NuVVNrC74yJA"
-      },
-      "artists": [
-        {
-          "name": "Daniela Mercury",
-          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Swing da Cor",
-      "url": "https://open.spotify.com/track/4QvN1r5iloT7eKvx6mjNdq"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "Minha Voz",
         "url": "https://open.spotify.com/album/6DPcjdQnwOicjXIk8rAnxY"
       },
@@ -827,6 +795,54 @@
       "duration_ms": 183306,
       "name": "Bloco Do Prazer",
       "url": "https://open.spotify.com/track/3YQGHqOQs6TG6Hui3Qsa3w"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "Refavela",
+        "url": "https://open.spotify.com/album/7gl0SUDwWTOdUehXFypXna"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 190173,
+      "name": "Il\u00ea ay\u00ea",
+      "url": "https://open.spotify.com/track/6L9okk7atrGuieV4FtZybt"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "SIM SIM SIM",
+        "url": "https://open.spotify.com/album/3dTQyJxSCkwJ4PFcURFd3f"
+      },
+      "artists": [
+        {
+          "name": "Bala Desejo",
+          "url": "https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH"
+        },
+        {
+          "name": "Dora Morelenbaum",
+          "url": "https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE"
+        },
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        },
+        {
+          "name": "Lucas Nunes",
+          "url": "https://open.spotify.com/artist/3wO3x8goZuWnibpyFMakpW"
+        },
+        {
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+        }
+      ],
+      "duration_ms": 303516,
+      "name": "Baile De M\u00e1scaras (Recarnaval)",
+      "url": "https://open.spotify.com/track/46nVimyGfbnKUMU9rDvnUG"
     },
     {
       "added_at": "2023-03-06 22:48:04",

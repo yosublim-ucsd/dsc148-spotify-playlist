@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 15 likes - 1,101 songs - 2 day 13 hr 53 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 15 likes - 1,102 songs - 2 day 13 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1109,5 +1109,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1099 | [FADED](https://open.spotify.com/track/725mlv7asEtzPFB1PGoFJl) | [Crypton](https://open.spotify.com/artist/592FgKnDnLHT1jLLLwGjR2) | [FADED](https://open.spotify.com/album/1oKAFOxyLGC7G9IoKrJxKh) | 2:54 |
 | 1100 | [Bass Down Low](https://open.spotify.com/track/4cfdqtIu3JMIvkBRanf9oh) | [Required](https://open.spotify.com/artist/1g05P4Ua1FzC0cQxSlgmyu), [Synapze](https://open.spotify.com/artist/1jW6LuIyqoqeVThJeuG8QK) | [Bass Down Low](https://open.spotify.com/album/1hoTrVzG2I3DCwjv81qrJx) | 2:09 |
 | 1101 | [Never Get Older](https://open.spotify.com/track/1L00zFloY9GJGznCQtopGN) | [K\-Style](https://open.spotify.com/artist/0O3T7774twOW0Wv1asJvp9) | [Never Get Older](https://open.spotify.com/album/60827FKMt86SjHLrKVscRs) | 2:55 |
+| 1102 | [Rapid Fire](https://open.spotify.com/track/5c7hDErpdoe8O0SCR4DzvQ) | [Astro Blast](https://open.spotify.com/artist/1FyI6MTG6K4XJB7efaCoK4) | [Rapid Fire](https://open.spotify.com/album/2GKdTIMYEawezCoZK7OoS8) | 3:05 |
 
-Snapshot ID: `MTE0NCxjMTZhZDVlOGVmN2E2YjZlY2I3OWFjNmVlM2YyZmRlODhmNmYzZmIx`
+Snapshot ID: `MTE0NSxmM2E0NTgzMzI4OGI5N2Y4NjczYjJhMmNkYjZhYTk5YjFiMTk0MjUx`

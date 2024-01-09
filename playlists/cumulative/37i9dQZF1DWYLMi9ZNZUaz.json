@@ -376,7 +376,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "B\u1eadt Nh\u1ea1c L\u00ean",
       "url": "https://open.spotify.com/track/0hiQvlWSSTr7n1kc1X2Lus"
@@ -842,7 +842,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 176150,
       "name": "Em Th\u00edch",
       "url": "https://open.spotify.com/track/3XEspwit4d8gwKKgeopfCv"
@@ -1574,10 +1574,28 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 213523,
       "name": "Nh\u1ea1c Trap C\u0103ng Nh\u1ea5t 2023",
       "url": "https://open.spotify.com/track/2aRg0cOGQ5k0rs3AK5nJPD"
+    },
+    {
+      "album": {
+        "name": "nh\u1eafn nh\u1ee7",
+        "url": "https://open.spotify.com/album/5KNYrzFkKcSl7wzRYRuFjE"
+      },
+      "artists": [
+        {
+          "name": "Ronboogz",
+          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241190,
+      "name": "nh\u1eafn nh\u1ee7",
+      "url": "https://open.spotify.com/track/2uZmeuNAxSm7XfVIwLkhCx"
     },
     {
       "album": {
@@ -1596,6 +1614,24 @@
       "duration_ms": 170898,
       "name": "NOLOVENOLIFE",
       "url": "https://open.spotify.com/track/4X2vrRE8Pi5hBMbWRjofAU"
+    },
+    {
+      "album": {
+        "name": "N\u00f3i D\u1ed1i",
+        "url": "https://open.spotify.com/album/17D8iFrwHgvOXDpaLgHjyP"
+      },
+      "artists": [
+        {
+          "name": "Ronboogz",
+          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206139,
+      "name": "N\u00f3i D\u1ed1i",
+      "url": "https://open.spotify.com/track/3ET3xHCLMGd57u06A9RjJ0"
     },
     {
       "album": {
@@ -2526,7 +2562,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 184615,
       "name": "\u0110\u1ea7u \u0110\u01b0\u1eddng X\u00f3 Ch\u1ee3 (ft. L\u0103ng LD)",
       "url": "https://open.spotify.com/track/2nFXaYb2fWOoUJXMPb6y4C"

@@ -1,12 +1,12 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 21159,
+  "num_followers": 21162,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWNkODE3M2E2MGNkMzBjNTEyNGM2MTRjODUwNWQ5MjJhNzZlZDA1",
+  "snapshot_id": "MCxiMGMyZDNlMjg5NDJmMGEyMGU0YjgwODRhZDI0ODc1ZjZlNTBmOWQ5",
   "tracks": [
     {
       "added_at": "2024-01-05 03:00:00",
@@ -111,26 +111,6 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "El Origen",
-        "url": "https://open.spotify.com/album/3Z1Yj9MnveskLxVhHIstUy"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Gallardo",
-          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
-        },
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 293990,
-      "name": "Agua de La Tierra - Nicola Cruz Remix",
-      "url": "https://open.spotify.com/track/75ZnZZHw6Zj8w275PHoKU5"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
         "name": "La Danza",
         "url": "https://open.spotify.com/album/5hRNiwNlIESt3rVkmDUVmL"
       },
@@ -179,6 +159,26 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
+        "name": "El Origen",
+        "url": "https://open.spotify.com/album/3Z1Yj9MnveskLxVhHIstUy"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gallardo",
+          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
+        },
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 293990,
+      "name": "Agua de La Tierra - Nicola Cruz Remix",
+      "url": "https://open.spotify.com/track/75ZnZZHw6Zj8w275PHoKU5"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
         "name": "A Guide to the Birdsong of South America",
         "url": "https://open.spotify.com/album/0DDsDqhH1cWmQ59cIWrxw3"
       },
@@ -207,6 +207,22 @@
       "duration_ms": 277894,
       "name": "A la Ma\u00f1anita",
       "url": "https://open.spotify.com/track/5zNvRx6WBrZu2aYm6oY2Yc"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
+        "name": "La Danza",
+        "url": "https://open.spotify.com/album/5hRNiwNlIESt3rVkmDUVmL"
+      },
+      "artists": [
+        {
+          "name": "Naci\u00f3n Ekeko",
+          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
+        }
+      ],
+      "duration_ms": 245288,
+      "name": "Atahualpa",
+      "url": "https://open.spotify.com/track/19d9NJpNn4ZGYxcqzCrM7K"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -267,34 +283,18 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "La Danza",
-        "url": "https://open.spotify.com/album/5hRNiwNlIESt3rVkmDUVmL"
+        "name": "Cable Tierra",
+        "url": "https://open.spotify.com/album/4ybRHQ8hoePE8js09qqB7R"
       },
       "artists": [
         {
-          "name": "Naci\u00f3n Ekeko",
-          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
+          "name": "Rumbo Tumba",
+          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
         }
       ],
-      "duration_ms": 245288,
-      "name": "Atahualpa",
-      "url": "https://open.spotify.com/track/19d9NJpNn4ZGYxcqzCrM7K"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
-        "name": "Viajante",
-        "url": "https://open.spotify.com/album/4msH94tkW6Iyxke84wmCoQ"
-      },
-      "artists": [
-        {
-          "name": "Tremor",
-          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
-        }
-      ],
-      "duration_ms": 248941,
-      "name": "Caracol",
-      "url": "https://open.spotify.com/track/3QJcapradiMKjvI0nKb2Vn"
+      "duration_ms": 184000,
+      "name": "Aisito",
+      "url": "https://open.spotify.com/track/7gKzsi7dFiJBrKFPkdJAqy"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -315,34 +315,18 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "Cantos de la Tierra Sin Mal",
-        "url": "https://open.spotify.com/album/14ceeyAvexxa2oMN2AuOl5"
+        "name": "Viajante",
+        "url": "https://open.spotify.com/album/4msH94tkW6Iyxke84wmCoQ"
       },
       "artists": [
         {
-          "name": "Tonolec",
-          "url": "https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5"
+          "name": "Tremor",
+          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
         }
       ],
-      "duration_ms": 304093,
-      "name": "Bienvenidos: Maiche Anawateuo",
-      "url": "https://open.spotify.com/track/3OidV2Umts84YFsvronNGW"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
-        "name": "Cable Tierra",
-        "url": "https://open.spotify.com/album/4ybRHQ8hoePE8js09qqB7R"
-      },
-      "artists": [
-        {
-          "name": "Rumbo Tumba",
-          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Aisito",
-      "url": "https://open.spotify.com/track/7gKzsi7dFiJBrKFPkdJAqy"
+      "duration_ms": 248941,
+      "name": "Caracol",
+      "url": "https://open.spotify.com/track/3QJcapradiMKjvI0nKb2Vn"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -367,6 +351,22 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
+        "name": "Los Pasos Labrados",
+        "url": "https://open.spotify.com/album/2wYrnuybn6lICNvZ9uvNIS"
+      },
+      "artists": [
+        {
+          "name": "Tonolec",
+          "url": "https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5"
+        }
+      ],
+      "duration_ms": 305160,
+      "name": "Zamba para Olvidar",
+      "url": "https://open.spotify.com/track/5TeAvZBPKtmGfWR4uwf5dU"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
         "name": "Espantap\u00e1jaros",
         "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
       },
@@ -383,6 +383,22 @@
       "duration_ms": 172500,
       "name": "Espantap\u00e1jaros",
       "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
+        "name": "Campo",
+        "url": "https://open.spotify.com/album/4Y0RPA1KwN7FER0Zj6qPBw"
+      },
+      "artists": [
+        {
+          "name": "Campo",
+          "url": "https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8"
+        }
+      ],
+      "duration_ms": 189030,
+      "name": "Zorzal",
+      "url": "https://open.spotify.com/track/2gpYD4g5gpqHkNgX0my2ra"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -423,6 +439,26 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
+        "name": "Nave",
+        "url": "https://open.spotify.com/album/0ivIf2sYHxEz1grqb26QfR"
+      },
+      "artists": [
+        {
+          "name": "Cocaibica",
+          "url": "https://open.spotify.com/artist/5yhCi2fUWjkXNOCC4U1LUY"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 189791,
+      "name": "Nave",
+      "url": "https://open.spotify.com/track/5wqzEPhRWWigTQJRNLUjxU"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
         "name": "Cable Tierra",
         "url": "https://open.spotify.com/album/4ybRHQ8hoePE8js09qqB7R"
       },
@@ -439,8 +475,8 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "Los Pasos Labrados",
-        "url": "https://open.spotify.com/album/2wYrnuybn6lICNvZ9uvNIS"
+        "name": "Cantos de la Tierra Sin Mal",
+        "url": "https://open.spotify.com/album/14ceeyAvexxa2oMN2AuOl5"
       },
       "artists": [
         {
@@ -448,25 +484,9 @@
           "url": "https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5"
         }
       ],
-      "duration_ms": 305160,
-      "name": "Zamba para Olvidar",
-      "url": "https://open.spotify.com/track/5TeAvZBPKtmGfWR4uwf5dU"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
-        "name": "Campo",
-        "url": "https://open.spotify.com/album/4Y0RPA1KwN7FER0Zj6qPBw"
-      },
-      "artists": [
-        {
-          "name": "Campo",
-          "url": "https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8"
-        }
-      ],
-      "duration_ms": 189030,
-      "name": "Zorzal",
-      "url": "https://open.spotify.com/track/2gpYD4g5gpqHkNgX0my2ra"
+      "duration_ms": 304093,
+      "name": "Bienvenidos: Maiche Anawateuo",
+      "url": "https://open.spotify.com/track/3OidV2Umts84YFsvronNGW"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -555,26 +575,6 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "Nave",
-        "url": "https://open.spotify.com/album/0ivIf2sYHxEz1grqb26QfR"
-      },
-      "artists": [
-        {
-          "name": "Cocaibica",
-          "url": "https://open.spotify.com/artist/5yhCi2fUWjkXNOCC4U1LUY"
-        },
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 189791,
-      "name": "Nave",
-      "url": "https://open.spotify.com/track/5wqzEPhRWWigTQJRNLUjxU"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
         "name": "Susurro (Matanza Remix)",
         "url": "https://open.spotify.com/album/66ZuMPXE9UbE2WBnp3hwWD"
       },
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "Cable Tierra",
-        "url": "https://open.spotify.com/album/4ybRHQ8hoePE8js09qqB7R"
-      },
-      "artists": [
-        {
-          "name": "Rumbo Tumba",
-          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "El 34",
-      "url": "https://open.spotify.com/track/2PRinPnrt1LQwCjFq6uan5"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
         "name": "Amansara",
         "url": "https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 229000,
       "name": "Coplita",
       "url": "https://open.spotify.com/track/1X7DuK2wnKRwijmxtF8mYj"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
+        "name": "Cable Tierra",
+        "url": "https://open.spotify.com/album/4ybRHQ8hoePE8js09qqB7R"
+      },
+      "artists": [
+        {
+          "name": "Rumbo Tumba",
+          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "El 34",
+      "url": "https://open.spotify.com/track/2PRinPnrt1LQwCjFq6uan5"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "Tonolec",
-        "url": "https://open.spotify.com/album/0uR0X0oiILxnxDauNaqKzc"
-      },
-      "artists": [
-        {
-          "name": "Tonolec",
-          "url": "https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5"
-        }
-      ],
-      "duration_ms": 264546,
-      "name": "Antiguos Due\u00f1os de las Flechas",
-      "url": "https://open.spotify.com/track/0z3RxsjWuo7lXrbLxE9Vmp"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
         "name": "Yemanja (Chancha Via Circuito Remix)",
         "url": "https://open.spotify.com/album/3IsYqHiAk8RYJUAweNQ1tY"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
+        "name": "Tonolec",
+        "url": "https://open.spotify.com/album/0uR0X0oiILxnxDauNaqKzc"
+      },
+      "artists": [
+        {
+          "name": "Tonolec",
+          "url": "https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5"
+        }
+      ],
+      "duration_ms": 264546,
+      "name": "Antiguos Due\u00f1os de las Flechas",
+      "url": "https://open.spotify.com/track/0z3RxsjWuo7lXrbLxE9Vmp"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
         "name": "Viajante",
         "url": "https://open.spotify.com/album/4msH94tkW6Iyxke84wmCoQ"
       },
@@ -695,26 +695,6 @@
       "duration_ms": 232013,
       "name": "Viajante",
       "url": "https://open.spotify.com/track/5YZ9dOdtcaGilbW43A5YDj"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
-        "name": "Arriba Quemando el Sol",
-        "url": "https://open.spotify.com/album/51ukHKGp7EGzxkZx34B0Dv"
-      },
-      "artists": [
-        {
-          "name": "Naci\u00f3n Ekeko",
-          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
-        },
-        {
-          "name": "Maryta de Humahuaca",
-          "url": "https://open.spotify.com/artist/4X9hWSS0vB7GeWRCtDejYc"
-        }
-      ],
-      "duration_ms": 208170,
-      "name": "Arriba Quemando el Sol",
-      "url": "https://open.spotify.com/track/2LFlxAk2x9Ig2zTn6DS2Kw"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -739,6 +719,26 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
+        "name": "Arriba Quemando el Sol",
+        "url": "https://open.spotify.com/album/51ukHKGp7EGzxkZx34B0Dv"
+      },
+      "artists": [
+        {
+          "name": "Naci\u00f3n Ekeko",
+          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
+        },
+        {
+          "name": "Maryta de Humahuaca",
+          "url": "https://open.spotify.com/artist/4X9hWSS0vB7GeWRCtDejYc"
+        }
+      ],
+      "duration_ms": 208170,
+      "name": "Arriba Quemando el Sol",
+      "url": "https://open.spotify.com/track/2LFlxAk2x9Ig2zTn6DS2Kw"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
         "name": "Huestes",
         "url": "https://open.spotify.com/album/2EjEF5v5FuPVut3JdZBK2a"
       },
@@ -755,70 +755,6 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "Ay Palomita",
-        "url": "https://open.spotify.com/album/7DOyUoS0PJlkCjj7e8x7gk"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Gallardo",
-          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
-        }
-      ],
-      "duration_ms": 391452,
-      "name": "Ay Palomita",
-      "url": "https://open.spotify.com/track/04p8PSA8qNyrrszfgLM6DD"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
-        "name": "CARNAVALITO DEL DUENDE",
-        "url": "https://open.spotify.com/album/7IHXgqU3PUInEcitPjQybZ"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        }
-      ],
-      "duration_ms": 172421,
-      "name": "CARNAVALITO DEL DUENDE",
-      "url": "https://open.spotify.com/track/6vZL8IkljDw2sR4aHSN25S"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
-        "name": "Juana Azurduy",
-        "url": "https://open.spotify.com/album/2iTeE4WVvIMNbSyJ0dlGOH"
-      },
-      "artists": [
-        {
-          "name": "Naci\u00f3n Ekeko",
-          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "Miss Bolivia",
-          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
-        },
-        {
-          "name": "Hilda Lizarazu",
-          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
-        },
-        {
-          "name": "Estela de Carlotto",
-          "url": "https://open.spotify.com/artist/3iRYSRX3m5TOt8wz26xx32"
-        }
-      ],
-      "duration_ms": 218461,
-      "name": "Juana Azurduy",
-      "url": "https://open.spotify.com/track/1xbpUvFjNmx7lv0IpiQoUn"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
         "name": "Legado",
         "url": "https://open.spotify.com/album/6lItDdeuBLNfEMECUKBmDU"
       },
@@ -831,6 +767,22 @@
       "duration_ms": 290760,
       "name": "La Maza",
       "url": "https://open.spotify.com/track/5XE0rKDxAW6SeTs833fla2"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
+        "name": "Ay Palomita",
+        "url": "https://open.spotify.com/album/7DOyUoS0PJlkCjj7e8x7gk"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gallardo",
+          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
+        }
+      ],
+      "duration_ms": 391452,
+      "name": "Ay Palomita",
+      "url": "https://open.spotify.com/track/04p8PSA8qNyrrszfgLM6DD"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -867,22 +819,18 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "Coraz\u00f3n de Agua",
-        "url": "https://open.spotify.com/album/5RkElYnP2R01LHMGlNtnu6"
+        "name": "CARNAVALITO DEL DUENDE",
+        "url": "https://open.spotify.com/album/7IHXgqU3PUInEcitPjQybZ"
       },
       "artists": [
         {
-          "name": "Tremor",
-          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
-        },
-        {
-          "name": "Micaela Chauque",
-          "url": "https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX"
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
         }
       ],
-      "duration_ms": 263428,
-      "name": "Coraz\u00f3n de Agua",
-      "url": "https://open.spotify.com/track/0C7ZtlspnaFd4FVBjlygr6"
+      "duration_ms": 172421,
+      "name": "CARNAVALITO DEL DUENDE",
+      "url": "https://open.spotify.com/track/6vZL8IkljDw2sR4aHSN25S"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -907,6 +855,58 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
+        "name": "Coraz\u00f3n de Agua",
+        "url": "https://open.spotify.com/album/5RkElYnP2R01LHMGlNtnu6"
+      },
+      "artists": [
+        {
+          "name": "Tremor",
+          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
+        },
+        {
+          "name": "Micaela Chauque",
+          "url": "https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX"
+        }
+      ],
+      "duration_ms": 263428,
+      "name": "Coraz\u00f3n de Agua",
+      "url": "https://open.spotify.com/track/0C7ZtlspnaFd4FVBjlygr6"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
+        "name": "Juana Azurduy",
+        "url": "https://open.spotify.com/album/2iTeE4WVvIMNbSyJ0dlGOH"
+      },
+      "artists": [
+        {
+          "name": "Naci\u00f3n Ekeko",
+          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Miss Bolivia",
+          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
+        },
+        {
+          "name": "Hilda Lizarazu",
+          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
+        },
+        {
+          "name": "Estela de Carlotto",
+          "url": "https://open.spotify.com/artist/3iRYSRX3m5TOt8wz26xx32"
+        }
+      ],
+      "duration_ms": 218461,
+      "name": "Juana Azurduy",
+      "url": "https://open.spotify.com/track/1xbpUvFjNmx7lv0IpiQoUn"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
         "name": "Wal\u00fcng II",
         "url": "https://open.spotify.com/album/6H6pIujNzhCUK03nf68gSY"
       },
@@ -923,26 +923,6 @@
       "duration_ms": 244000,
       "name": "Baile De M\u00e1scaras",
       "url": "https://open.spotify.com/track/7KeH1mQZlpOTccqRugxRTZ"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
-        "name": "Como la Cigarra",
-        "url": "https://open.spotify.com/album/1gnN6SQHW3qjUsGhCwP5xH"
-      },
-      "artists": [
-        {
-          "name": "Naci\u00f3n Ekeko",
-          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
-        },
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 249970,
-      "name": "Como la Cigarra",
-      "url": "https://open.spotify.com/track/276D6h5wgvcyhcGxFIJXGV"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -1019,6 +999,26 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
+        "name": "Como la Cigarra",
+        "url": "https://open.spotify.com/album/1gnN6SQHW3qjUsGhCwP5xH"
+      },
+      "artists": [
+        {
+          "name": "Naci\u00f3n Ekeko",
+          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
+        },
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 249970,
+      "name": "Como la Cigarra",
+      "url": "https://open.spotify.com/track/276D6h5wgvcyhcGxFIJXGV"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
         "name": "Tierra de King Coya",
         "url": "https://open.spotify.com/album/6tfZSVov7Zl4Ky3PXZcT2j"
       },
@@ -1051,18 +1051,22 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "Circular Tejido",
-        "url": "https://open.spotify.com/album/66eGF9069noRjSDKOfUJuN"
+        "name": "El Despertar Del Anfibio (Instrumental)",
+        "url": "https://open.spotify.com/album/4YUsCZuKhHMvO0XJNzgnv3"
       },
       "artists": [
         {
-          "name": "Lulacruza",
-          "url": "https://open.spotify.com/artist/4Tdm58O53huKPT2480fzjE"
+          "name": "Trickst4",
+          "url": "https://open.spotify.com/artist/7tLjgV5aXAvycWObtFajEY"
+        },
+        {
+          "name": "Tom\u00e1s Pinkus",
+          "url": "https://open.spotify.com/artist/04J7jSBLZFFw7Pp1u1nABr"
         }
       ],
-      "duration_ms": 295073,
-      "name": "Rio Contento",
-      "url": "https://open.spotify.com/track/5KozTQBwKoXKOggYKeyety"
+      "duration_ms": 383686,
+      "name": "El Despertar Del Anfibio - Instrumental",
+      "url": "https://open.spotify.com/track/2aYzNRy6XYrmjcmOPkFnMH"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -1103,6 +1107,58 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
+        "name": "Circular Tejido",
+        "url": "https://open.spotify.com/album/66eGF9069noRjSDKOfUJuN"
+      },
+      "artists": [
+        {
+          "name": "Lulacruza",
+          "url": "https://open.spotify.com/artist/4Tdm58O53huKPT2480fzjE"
+        }
+      ],
+      "duration_ms": 295073,
+      "name": "Rio Contento",
+      "url": "https://open.spotify.com/track/5KozTQBwKoXKOggYKeyety"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
+        "name": "La Fuerza",
+        "url": "https://open.spotify.com/album/5BOYpCrtxsqlMVGqD0x39R"
+      },
+      "artists": [
+        {
+          "name": "Ensamble Folkl\u00f3rico Digital",
+          "url": "https://open.spotify.com/artist/42AgikIswL8YgTNkWoqIiI"
+        },
+        {
+          "name": "Villa Diamante",
+          "url": "https://open.spotify.com/artist/3teTanCAHVFtUilgdGrfaD"
+        },
+        {
+          "name": "Lauphan",
+          "url": "https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I"
+        },
+        {
+          "name": "Bienvenidos a la Computadora",
+          "url": "https://open.spotify.com/artist/1viypXNNWz9XslwCH1Hzz4"
+        },
+        {
+          "name": "Rumbo Tumba",
+          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
+        },
+        {
+          "name": "Cehache Respira",
+          "url": "https://open.spotify.com/artist/7oKFnoNXS5mgfZ8ERqF23l"
+        }
+      ],
+      "duration_ms": 267353,
+      "name": "La Fuerza",
+      "url": "https://open.spotify.com/track/2MNnYejvulFGxM9yoLt89j"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
         "name": "SUELTA",
         "url": "https://open.spotify.com/album/4gya2mygWkDnmtzHDaWKlP"
       },
@@ -1139,6 +1195,22 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
+        "name": "Patagonia Nature",
+        "url": "https://open.spotify.com/album/7I2AmpCMrqvozljRbFf3Kt"
+      },
+      "artists": [
+        {
+          "name": "Oscar Irustia",
+          "url": "https://open.spotify.com/artist/07UfZCBlpyqwjh9587IYvt"
+        }
+      ],
+      "duration_ms": 182951,
+      "name": "Huayno and Pacha Mama",
+      "url": "https://open.spotify.com/track/5a004HjwSoZrKb8u84FQ29"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
         "name": "Dada",
         "url": "https://open.spotify.com/album/06hkMw0sZJ0g7HSB9xPFyT"
       },
@@ -1159,22 +1231,6 @@
       "duration_ms": 217333,
       "name": "Dada",
       "url": "https://open.spotify.com/track/2E5t5IZSEF6DhbuQathQNi"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
-        "name": "Patagonia Nature",
-        "url": "https://open.spotify.com/album/7I2AmpCMrqvozljRbFf3Kt"
-      },
-      "artists": [
-        {
-          "name": "Oscar Irustia",
-          "url": "https://open.spotify.com/artist/07UfZCBlpyqwjh9587IYvt"
-        }
-      ],
-      "duration_ms": 182951,
-      "name": "Huayno and Pacha Mama",
-      "url": "https://open.spotify.com/track/5a004HjwSoZrKb8u84FQ29"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -1295,26 +1351,6 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "El Despertar Del Anfibio (Instrumental)",
-        "url": "https://open.spotify.com/album/4YUsCZuKhHMvO0XJNzgnv3"
-      },
-      "artists": [
-        {
-          "name": "Trickst4",
-          "url": "https://open.spotify.com/artist/7tLjgV5aXAvycWObtFajEY"
-        },
-        {
-          "name": "Tom\u00e1s Pinkus",
-          "url": "https://open.spotify.com/artist/04J7jSBLZFFw7Pp1u1nABr"
-        }
-      ],
-      "duration_ms": 383686,
-      "name": "El Despertar Del Anfibio - Instrumental",
-      "url": "https://open.spotify.com/track/2aYzNRy6XYrmjcmOPkFnMH"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
         "name": "Muchas Estrellas",
         "url": "https://open.spotify.com/album/1JtE86fRCzw0UCIKpNCzm9"
       },
@@ -1371,42 +1407,6 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "La Fuerza",
-        "url": "https://open.spotify.com/album/5BOYpCrtxsqlMVGqD0x39R"
-      },
-      "artists": [
-        {
-          "name": "Ensamble Folkl\u00f3rico Digital",
-          "url": "https://open.spotify.com/artist/42AgikIswL8YgTNkWoqIiI"
-        },
-        {
-          "name": "Villa Diamante",
-          "url": "https://open.spotify.com/artist/3teTanCAHVFtUilgdGrfaD"
-        },
-        {
-          "name": "Lauphan",
-          "url": "https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I"
-        },
-        {
-          "name": "Bienvenidos a la Computadora",
-          "url": "https://open.spotify.com/artist/1viypXNNWz9XslwCH1Hzz4"
-        },
-        {
-          "name": "Rumbo Tumba",
-          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
-        },
-        {
-          "name": "Cehache Respira",
-          "url": "https://open.spotify.com/artist/7oKFnoNXS5mgfZ8ERqF23l"
-        }
-      ],
-      "duration_ms": 267353,
-      "name": "La Fuerza",
-      "url": "https://open.spotify.com/track/2MNnYejvulFGxM9yoLt89j"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
         "name": "SUELTA",
         "url": "https://open.spotify.com/album/4gya2mygWkDnmtzHDaWKlP"
       },
@@ -1419,6 +1419,50 @@
       "duration_ms": 187434,
       "name": "Nada Parece",
       "url": "https://open.spotify.com/track/29pndK8bDGQ1YVeubWhQec"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
+        "name": "Do\u00f1a Ubenza (Remix)",
+        "url": "https://open.spotify.com/album/1qRVbQRDzcUTNeYUVZji93"
+      },
+      "artists": [
+        {
+          "name": "Veronika Silva",
+          "url": "https://open.spotify.com/artist/0pUXvpJVsz6JTJJQUDNhWu"
+        },
+        {
+          "name": "Philippe Cohen Solal",
+          "url": "https://open.spotify.com/artist/0EFmOtI513PheI6td8B5WV"
+        }
+      ],
+      "duration_ms": 281142,
+      "name": "Do\u00f1a Ubenza - Remix",
+      "url": "https://open.spotify.com/track/6xYZqXLrgnRVOhVvkfNocZ"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
+        "name": "Antikuna Anqa",
+        "url": "https://open.spotify.com/album/5OjIJkbPTPDdOy8n7Fb2UD"
+      },
+      "artists": [
+        {
+          "name": "Nintu",
+          "url": "https://open.spotify.com/artist/6fhBqhLVgzSRQAvGxm4yt5"
+        },
+        {
+          "name": "Mauricio Arratia",
+          "url": "https://open.spotify.com/artist/42h2ekeqZDzgo6IcfiPpai"
+        },
+        {
+          "name": "Pao Pamaki",
+          "url": "https://open.spotify.com/artist/6vqF9GI9o8la8YpvWQaWbz"
+        }
+      ],
+      "duration_ms": 456000,
+      "name": "Antikuna Anqa",
+      "url": "https://open.spotify.com/track/2B9mD5rMhk1WQgs3AM3sgO"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -1459,50 +1503,6 @@
       "duration_ms": 260867,
       "name": "Los Pajaros",
       "url": "https://open.spotify.com/track/7ip0PYb575HHoCjQUGaA97"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
-        "name": "Antikuna Anqa",
-        "url": "https://open.spotify.com/album/5OjIJkbPTPDdOy8n7Fb2UD"
-      },
-      "artists": [
-        {
-          "name": "Nintu",
-          "url": "https://open.spotify.com/artist/6fhBqhLVgzSRQAvGxm4yt5"
-        },
-        {
-          "name": "Mauricio Arratia",
-          "url": "https://open.spotify.com/artist/42h2ekeqZDzgo6IcfiPpai"
-        },
-        {
-          "name": "Pao Pamaki",
-          "url": "https://open.spotify.com/artist/6vqF9GI9o8la8YpvWQaWbz"
-        }
-      ],
-      "duration_ms": 456000,
-      "name": "Antikuna Anqa",
-      "url": "https://open.spotify.com/track/2B9mD5rMhk1WQgs3AM3sgO"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
-        "name": "Do\u00f1a Ubenza (Remix)",
-        "url": "https://open.spotify.com/album/1qRVbQRDzcUTNeYUVZji93"
-      },
-      "artists": [
-        {
-          "name": "Veronika Silva",
-          "url": "https://open.spotify.com/artist/0pUXvpJVsz6JTJJQUDNhWu"
-        },
-        {
-          "name": "Philippe Cohen Solal",
-          "url": "https://open.spotify.com/artist/0EFmOtI513PheI6td8B5WV"
-        }
-      ],
-      "duration_ms": 281142,
-      "name": "Do\u00f1a Ubenza - Remix",
-      "url": "https://open.spotify.com/track/6xYZqXLrgnRVOhVvkfNocZ"
     }
   ],
   "unique_name": "Electro Folklore",

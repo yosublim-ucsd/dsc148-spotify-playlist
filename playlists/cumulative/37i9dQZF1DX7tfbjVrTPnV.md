@@ -4,7 +4,7 @@
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Lori McKenna
 
-262 songs - 16 hr 44 min
+263 songs - 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Gone Gone Gone \(Done Moved On\)](https://open.spotify.com/track/7MRw8W5jZoG0SNNcHLgkEO) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raising Sand](https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n) | 3:32 | 2021-11-11 |  |
 | [Got Your Six](https://open.spotify.com/track/1qKoTpcKazw5AcLzYjgX7k) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Rifles and Rosary Beads](https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC) | 2:38 | 2021-11-11 |  |
 | [Grave Angels](https://open.spotify.com/track/0K40ThmS9MtWOSXDdLhK9e) | [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [Invisible Hour](https://open.spotify.com/album/661leSKXPxGy6C9u6T6K9k) | 5:31 | 2021-11-11 | 2022-07-27 |
+| [Grave Angels](https://open.spotify.com/track/1tOe4416Cr15amXc5rqpal) | [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [Invisible Hour](https://open.spotify.com/album/39RUJggKYbPF85mppr8jJy) | 5:31 | 2023-08-11 |  |
 | [Great American Cities](https://open.spotify.com/track/21Pb8xDIDfBzNRqJuM6nE7) | [Joan Osborne](https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o) | [Great American Cities](https://open.spotify.com/album/3YcM9pEmKydxr0sF8KAz4i) | 4:38 | 2023-07-14 | 2023-08-14 |
 | [Hanging up My Heart](https://open.spotify.com/track/1odrnCw1RmUcevfJz25NJS) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [Old Yellow Moon](https://open.spotify.com/album/33CP9PApYibgmRsx7ux6sE) | 2:52 | 2021-11-11 |  |
 | [Hard to Be an Outlaw \(feat\. Willie Nelson\)](https://open.spotify.com/track/59WPFxAkd8RiMhQ25WYIf8) | [Billy Joe Shaver](https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Long in the Tooth](https://open.spotify.com/album/3sE0ZaVDdItWax4M1jmT7J) | 3:06 | 2021-11-11 |  |
@@ -140,7 +141,7 @@
 | [Killing the Blues](https://open.spotify.com/track/3KIoiyLwNxqHMfmlPFgDEG) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raising Sand](https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n) | 4:15 | 2021-11-11 |  |
 | [Knee Deep in the Wakarusa River](https://open.spotify.com/track/0tSSPNytFK5ZpIdGYtID52) | [Chuck Mead](https://open.spotify.com/artist/65gM2feRQDv9iYZPEnRtfD) | [Free State Serenade](https://open.spotify.com/album/0pqpWAaVRi3Vj26semUglc) | 3:29 | 2022-10-14 | 2022-11-13 |
 | [Knee Deep in The Wakarusa River](https://open.spotify.com/track/4un1HeXCwyRNzRnMgpZ9XQ) | [Chuck Mead](https://open.spotify.com/artist/65gM2feRQDv9iYZPEnRtfD) | [Free State Serenade](https://open.spotify.com/album/2wYy8JcZavYGdVDKpbyoI5) | 3:29 | 2021-11-11 | 2022-07-29 |
-| [Learning How to Live Alone](https://open.spotify.com/track/0KRiKjCsqMRN0Pmp2CFzQK) | [Travis Meadows](https://open.spotify.com/artist/5d2EFS71gAHBeP1KWOBgCA) | [Killin' Uncle Buzzy](https://open.spotify.com/album/3XmWV3KKzHEkV0iZXWSU8l) | 4:06 | 2021-11-11 |  |
+| [Learning How to Live Alone](https://open.spotify.com/track/0KRiKjCsqMRN0Pmp2CFzQK) | [Travis Meadows](https://open.spotify.com/artist/5d2EFS71gAHBeP1KWOBgCA) | [Killin' Uncle Buzzy](https://open.spotify.com/album/3XmWV3KKzHEkV0iZXWSU8l) | 4:06 | 2021-11-11 | 2024-01-09 |
 | [Let's Have A Good Thing Together](https://open.spotify.com/track/0DUwtslFAFipEYffWCRTI9) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [I'm A Song](https://open.spotify.com/album/7xiBD9ioPWaRgSZzxz5ht1) | 2:09 | 2022-04-22 |  |
 | [Let's Have a Good Thing Together](https://open.spotify.com/track/0Erb8wHT9YOyi6iYg0JgbB) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [I'm a Song](https://open.spotify.com/album/28f3FK6jtEB8oICONdPz0z) | 2:09 | 2021-11-11 | 2022-07-28 |
 | [Letting People Down](https://open.spotify.com/track/2pFFjOgqqpNEVSi9ks7xyo) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [1988](https://open.spotify.com/album/2wHfMrmQ08JMxp2i5jCSrm) | 2:56 | 2023-07-21 |  |

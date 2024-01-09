@@ -1,12 +1,12 @@
 {
   "description": "Explore the stellar corners of the genre's expansive and marvelous universe.",
-  "num_followers": 37031,
+  "num_followers": 37032,
   "original_name": "Cosmic Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDE0MDkwYmMyMDZmZWM4NGVmOWZlNGZhYzRlZjgyZDlmZjVjYTBh",
+  "snapshot_id": "MCxiNDE3NmEyMDBhMzY3MTdkZDRkYTFiNzg5ZjgyMmJiNjRhZjFjZmU2",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 198453,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Foxwarren",
         "url": "https://open.spotify.com/album/27NP9XgsqFi9sfV9RZaqOa"
       },
@@ -243,6 +227,38 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "The Late Great Townes Van Zandt",
+        "url": "https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6"
+      },
+      "artists": [
+        {
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Poncho & Lefty",
+      "url": "https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 198453,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Room 41",
         "url": "https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 239803,
       "name": "Holy Ghost Fire",
       "url": "https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Colter Wall & The Scary Prairie Boys",
-        "url": "https://open.spotify.com/album/6E8W7DhCFcxUuU2X1zM1Q4"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 323853,
-      "name": "Bob Fudge",
-      "url": "https://open.spotify.com/track/7IkdDn5z2GQq2xhraDVoen"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -291,18 +291,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "The Late Great Townes Van Zandt",
-        "url": "https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6"
+        "name": "Colter Wall & The Scary Prairie Boys",
+        "url": "https://open.spotify.com/album/6E8W7DhCFcxUuU2X1zM1Q4"
       },
       "artists": [
         {
-          "name": "Townes Van Zandt",
-          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
         }
       ],
-      "duration_ms": 220573,
-      "name": "Poncho & Lefty",
-      "url": "https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs"
+      "duration_ms": 323853,
+      "name": "Bob Fudge",
+      "url": "https://open.spotify.com/track/7IkdDn5z2GQq2xhraDVoen"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "No Glory in the West",
+        "url": "https://open.spotify.com/album/24omX21r87XGrfXHSuwEjL"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 253586,
+      "name": "No Glory in the West",
+      "url": "https://open.spotify.com/track/3M3A038dDopQcvGrrngcDE"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "The Gilded Palace Of Sin",
         "url": "https://open.spotify.com/album/6VWKy5o2OcdeWa7yolazjU"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 140506,
       "name": "Aw Heck",
       "url": "https://open.spotify.com/track/6AmZ17zWgqFkjD50TnzTvM"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "No Glory in the West",
-        "url": "https://open.spotify.com/album/24omX21r87XGrfXHSuwEjL"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 253586,
-      "name": "No Glory in the West",
-      "url": "https://open.spotify.com/track/3M3A038dDopQcvGrrngcDE"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Roped In",
-        "url": "https://open.spotify.com/album/2TWvHZBa5cru4yanQijv5I"
-      },
-      "artists": [
-        {
-          "name": "North Americans",
-          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
-        }
-      ],
-      "duration_ms": 235093,
-      "name": "Rivers That You Cannot See",
-      "url": "https://open.spotify.com/track/26bA7q3YUyxrGwftjN1Z7K"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Dublin, Texas",
         "url": "https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 269286,
       "name": "Dublin, Texas",
       "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Roped In",
+        "url": "https://open.spotify.com/album/2TWvHZBa5cru4yanQijv5I"
+      },
+      "artists": [
+        {
+          "name": "North Americans",
+          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
+        }
+      ],
+      "duration_ms": 235093,
+      "name": "Rivers That You Cannot See",
+      "url": "https://open.spotify.com/track/26bA7q3YUyxrGwftjN1Z7K"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/6kEte3BcsOoAwuGnVTkgME"
-      },
-      "artists": [
-        {
-          "name": "Hayden Pedigo",
-          "url": "https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/0g6wylEFEz28As6I6iVmhh"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Cocaine Country Dancing",
         "url": "https://open.spotify.com/album/2Pex98kXgvEKVRROOTONZL"
       },
@@ -979,54 +963,6 @@
       "duration_ms": 256281,
       "name": "Cocaine Country Dancing",
       "url": "https://open.spotify.com/track/16l9NihqKg5PcBbbIi2buW"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Jealous Guy",
-        "url": "https://open.spotify.com/album/5OMFZV2INE430tcKKBaKbZ"
-      },
-      "artists": [
-        {
-          "name": "Luke Bell",
-          "url": "https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ"
-        }
-      ],
-      "duration_ms": 230702,
-      "name": "Jealous Guy",
-      "url": "https://open.spotify.com/track/1H0UI5yQg9hlue3ZIjb7fs"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Wayfaring Strangers: Cosmic American Music",
-        "url": "https://open.spotify.com/album/6S9BF1Z9jl2TOCfbqVxqMB"
-      },
-      "artists": [
-        {
-          "name": "The Black Canyon Gang",
-          "url": "https://open.spotify.com/artist/4Qk3TBIbLIydpukG1TerQe"
-        }
-      ],
-      "duration_ms": 214813,
-      "name": "Lonesome City",
-      "url": "https://open.spotify.com/track/50tqBoFCN9uSV0YiqJHAUy"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Modern Country",
-        "url": "https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT"
-      },
-      "artists": [
-        {
-          "name": "William Tyler",
-          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
-        }
-      ],
-      "duration_ms": 325271,
-      "name": "I\u2019m Gonna Live Forever (If It Kills Me)",
-      "url": "https://open.spotify.com/track/2aAsLnLdMdHnMi7JvF5NeK"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1051,18 +987,66 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Los Chicos Tristes",
-        "url": "https://open.spotify.com/album/6upoRZFXdq7bMsdDcqQ1Oa"
+        "name": "Jealous Guy",
+        "url": "https://open.spotify.com/album/5OMFZV2INE430tcKKBaKbZ"
       },
       "artists": [
         {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+          "name": "Luke Bell",
+          "url": "https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ"
         }
       ],
-      "duration_ms": 229400,
-      "name": "Los Chicos Tristes",
-      "url": "https://open.spotify.com/track/6X0Q2zxM4kiNDk1CY2vkZJ"
+      "duration_ms": 230702,
+      "name": "Jealous Guy",
+      "url": "https://open.spotify.com/track/1H0UI5yQg9hlue3ZIjb7fs"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/6kEte3BcsOoAwuGnVTkgME"
+      },
+      "artists": [
+        {
+          "name": "Hayden Pedigo",
+          "url": "https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/0g6wylEFEz28As6I6iVmhh"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Modern Country",
+        "url": "https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT"
+      },
+      "artists": [
+        {
+          "name": "William Tyler",
+          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
+        }
+      ],
+      "duration_ms": 325271,
+      "name": "I\u2019m Gonna Live Forever (If It Kills Me)",
+      "url": "https://open.spotify.com/track/2aAsLnLdMdHnMi7JvF5NeK"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Wayfaring Strangers: Cosmic American Music",
+        "url": "https://open.spotify.com/album/6S9BF1Z9jl2TOCfbqVxqMB"
+      },
+      "artists": [
+        {
+          "name": "The Black Canyon Gang",
+          "url": "https://open.spotify.com/artist/4Qk3TBIbLIydpukG1TerQe"
+        }
+      ],
+      "duration_ms": 214813,
+      "name": "Lonesome City",
+      "url": "https://open.spotify.com/track/50tqBoFCN9uSV0YiqJHAUy"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Southern Gentleman",
-        "url": "https://open.spotify.com/album/6ZRbVOgb2dPQRDCnXNerZp"
+        "name": "Los Chicos Tristes",
+        "url": "https://open.spotify.com/album/6upoRZFXdq7bMsdDcqQ1Oa"
       },
       "artists": [
         {
-          "name": "Dee White",
-          "url": "https://open.spotify.com/artist/44NXXiPYo5zuLYTyMKJBNU"
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
         }
       ],
-      "duration_ms": 200986,
-      "name": "Wherever You Go",
-      "url": "https://open.spotify.com/track/0blkm16pwu9wnnNLoHb3nM"
+      "duration_ms": 229400,
+      "name": "Los Chicos Tristes",
+      "url": "https://open.spotify.com/track/6X0Q2zxM4kiNDk1CY2vkZJ"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1115,6 +1099,22 @@
       "duration_ms": 258930,
       "name": "Strange Fascination",
       "url": "https://open.spotify.com/track/2ygPlZkaKoHXKBZ1LXZkXO"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Southern Gentleman",
+        "url": "https://open.spotify.com/album/6ZRbVOgb2dPQRDCnXNerZp"
+      },
+      "artists": [
+        {
+          "name": "Dee White",
+          "url": "https://open.spotify.com/artist/44NXXiPYo5zuLYTyMKJBNU"
+        }
+      ],
+      "duration_ms": 200986,
+      "name": "Wherever You Go",
+      "url": "https://open.spotify.com/track/0blkm16pwu9wnnNLoHb3nM"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Love Can Find You Anywhere",
-        "url": "https://open.spotify.com/album/2nDKXMbt6lOU460Yi30M24"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Terrell",
-          "url": "https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3"
-        }
-      ],
-      "duration_ms": 219182,
-      "name": "Love Can Find You Anywhere",
-      "url": "https://open.spotify.com/track/7fxxqxe5EAp0dQ674C6g2b"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Lubbock (on everything)",
         "url": "https://open.spotify.com/album/31gOu9Ke5o3wgx1GyIDNYU"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 165225,
       "name": "Rendezvous USA",
       "url": "https://open.spotify.com/track/0WDNetEwAsjiavw67F33Mi"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Love Can Find You Anywhere",
+        "url": "https://open.spotify.com/album/2nDKXMbt6lOU460Yi30M24"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Terrell",
+          "url": "https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3"
+        }
+      ],
+      "duration_ms": 219182,
+      "name": "Love Can Find You Anywhere",
+      "url": "https://open.spotify.com/track/7fxxqxe5EAp0dQ674C6g2b"
     },
     {
       "added_at": "2023-10-27 04:00:00",

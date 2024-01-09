@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-373 songs - 1 day 7 hr 20 min
+374 songs - 1 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A Journey](https://open.spotify.com/track/1GIYpjzOEc5P3IYDdFnd1Y) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [A Journey](https://open.spotify.com/album/3V0YGFc0je36jletTUWoKZ) | 4:16 | 2022-01-23 | 2022-07-29 |
 | [A Journey](https://open.spotify.com/track/3B5gObLV2FodLMtsKFlnFz) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/6pMGKI2cCAyGxJJz1a8z3M) | 4:16 | 2023-05-05 | 2023-10-25 |
 | [A Journey](https://open.spotify.com/track/5fxfFBYhfCIBSU9LvHk0pF) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/3H7S86kkmy5zKqw7DTmULR) | 4:16 | 2022-03-25 | 2023-04-30 |
-| [A Model Of Reality \- Firephly Remix](https://open.spotify.com/track/5METpYOvtb9Z1tplNUvNUE) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [Kotomi](https://open.spotify.com/artist/2DkkZhwyZWHflCcjGEA6Nu), [Firephly](https://open.spotify.com/artist/39GVFdccoAGnSBFaxKB09K) | [A Model of Reality Reworks](https://open.spotify.com/album/7M1cjVMv47tIBl3Uuw3rPK) | 7:05 | 2023-01-28 |  |
+| [A Model Of Reality \- Firephly Remix](https://open.spotify.com/track/5METpYOvtb9Z1tplNUvNUE) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [Kotomi](https://open.spotify.com/artist/2DkkZhwyZWHflCcjGEA6Nu), [Firephly](https://open.spotify.com/artist/39GVFdccoAGnSBFaxKB09K) | [A Model of Reality Reworks](https://open.spotify.com/album/7M1cjVMv47tIBl3Uuw3rPK) | 7:05 | 2023-01-28 | 2024-01-09 |
 | [A Sonic Womb Pt\. 5](https://open.spotify.com/track/2x9RGyqDyptzddFiRUQ7ao) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [A Sonic Womb: Live Buchla Performance at Lapsus](https://open.spotify.com/album/7rQaMkOwhuHZqAM30JvSfY) | 2:54 | 2021-12-26 | 2022-01-12 |
 | [A1](https://open.spotify.com/track/1V99GNtTBLk3OrDmFYVz4C) | [Reinartz](https://open.spotify.com/artist/2NkrL5Vs3OZtvckPD0vPbg) | [Dances](https://open.spotify.com/album/6rtwIMPDxFz8xPwMOBUYoE) | 7:29 | 2022-03-18 | 2023-01-18 |
 | [ABBA/Mary \- Christina Vantzou Remix](https://open.spotify.com/track/4qdXA8vkqzhmyV4PaHXOt4) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [ABBA/Mary \(Christina Vantzou Remix\)](https://open.spotify.com/album/3lvfmwUA0Ob9kNOshN5bEi) | 3:26 | 2021-12-26 | 2023-04-30 |
@@ -97,6 +97,7 @@
 | [Crash](https://open.spotify.com/track/6GuRn7F99EtpF12KKUSRwt) | [John Roberts](https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6) | [Crash](https://open.spotify.com/album/4x8zIMFv3t730LgIqBiSkg) | 5:07 | 2022-02-04 | 2023-05-03 |
 | [Cry Me A Blizzard \- AFRODEUTSCHE I'm Here Remix](https://open.spotify.com/track/1z1KqfLHzNBinouaGnJKjR) | [Nathan Fake](https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG), [AFRODEUTSCHE](https://open.spotify.com/artist/4jRLhvF4a3NHs5TaR1lU3m) | [Cry Me A Blizzard \(AFRODEUTSCHE I'm Here Remix\)](https://open.spotify.com/album/7hXkd8IoY96t96LsAAazg3) | 3:29 | 2021-12-26 | 2023-08-12 |
 | [Crypt](https://open.spotify.com/track/3aRW4dPpIzTOVoLm9aIT2A) | [Dialect](https://open.spotify.com/artist/22oD5ZYEJPZf9e68jQbQz5) | [Keep Going..\. Under](https://open.spotify.com/album/0V6ZruB2SwjUuN2AaFJG4p) | 5:10 | 2021-12-26 | 2023-08-12 |
+| [Cult of Isis](https://open.spotify.com/track/0mkGpUDzAqdL4POn65GBu8) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Consort](https://open.spotify.com/album/4NSbHfbNTp2hmDyFJY7INN) | 7:41 | 2023-12-01 |  |
 | [Cutting Room I](https://open.spotify.com/track/6iQWxbUdH7SUrEOLwD45b6) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cutting Room I \(from the Netflix Series "Top Boy"\)](https://open.spotify.com/album/5VWzOEbQh7HL8HolYLWyFi) | 2:18 | 2023-08-18 |  |
 | [Cycles](https://open.spotify.com/track/5PlH4Waf6aAdTQagl2Fq7i) | [Synkro](https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n) | [Information \- EP](https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw) | 5:30 | 2023-01-16 |  |
 | [Cycles](https://open.spotify.com/track/6Ip5LCOyx4735lgAwOZCIn) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Future Falling](https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj) | 4:11 | 2023-05-05 |  |

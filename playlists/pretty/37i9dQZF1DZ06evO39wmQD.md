@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39wmQD.md) - [plain]
 | 20 | [Whispering \- Rise Cast Version](https://open.spotify.com/track/2ccNGJuNDBjyUF1Hm2Rbv2) | [Rise Cast](https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Whispering \(Rise Cast Version\)](https://open.spotify.com/album/3Y2tzDHGFKiEjgMJdB0eqA) | 3:31 |
 | 21 | [Those You've Known \- Rise Cast Version](https://open.spotify.com/track/3XSIH7n9qyqY7PS3HzDYNx) | [Rise Cast](https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Damon J\. Gillespie](https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I), [Ellie Desautels](https://open.spotify.com/artist/71Vw9QsO329HcPRMksPlDe) | [Rise Season 1: The Album \(Music from the TV Series\)](https://open.spotify.com/album/3NWC9vku8Robbe7tyVWJi1) | 1:51 |
 
-Snapshot ID: `Mjg0MTA0NDksMDAwMDAwMDA0NjQ3OTk2NmFiZTk1MTFkYzM5NjU2ZjQ1MDRkZjEyOA==`
+Snapshot ID: `Mjg0MTE5MDAsMDAwMDAwMDA1NmEzNzRjNDU3NWU2YWI1NmZmMTQzNTdmMWEyMjNhOA==`

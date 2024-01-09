@@ -4,7 +4,7 @@
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-677 songs - 1 day 3 hr 24 min
+678 songs - 1 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Incandescent Sky \- Demo](https://open.spotify.com/track/7cYwTwfI2cQdZvnSjsB6ah) | [Xoxo Fernandez](https://open.spotify.com/artist/6G4uvbhINpucP5RBxsiPDN) | [False Euphoria](https://open.spotify.com/album/7Dm64niDkqB3n00XPhmEXd) | 2:05 | 2023-09-08 | 2023-12-08 |
 | [Incredibly happy](https://open.spotify.com/track/6FVL1EGTz7nWEzuUz6VpvF) | [Silk Soul](https://open.spotify.com/artist/2DgL3THTMvM0MfSTaYYMAI) | [Incredibly happy](https://open.spotify.com/album/4aE1MMVBFm1WESG0pRYHJs) | 2:39 | 2023-10-20 |  |
 | [Indigo](https://open.spotify.com/track/2Q0Sgox8fZRoqE61pD9m2y) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Indigo](https://open.spotify.com/album/5uUb9ixhJKIFVpJktTFair) | 2:14 | 2023-09-22 |  |
+| [Inferno](https://open.spotify.com/track/7yhBLgecoRdhwxAduh5nP6) | [LazyBlaze](https://open.spotify.com/artist/0UU3MtrctLPXvQy6Puj7v1) | [Inferno](https://open.spotify.com/album/6Exg2bc6K2xHVGYcvGFG45) | 2:31 | 2024-01-05 |  |
 | [Ink of Dawn](https://open.spotify.com/track/58hRwiMXGNrQD9hUYbMCBq) | [Basicboy](https://open.spotify.com/artist/6NhNVWuAGFt7hfq9M4kj9U) | [Ink of Dawn](https://open.spotify.com/album/0Ka0O1ax4qdfJ9FJnsfiLg) | 1:55 | 2024-01-05 |  |
 | [Inner Peace](https://open.spotify.com/track/547YTV2dWMOpgxdjGi8Nn8) | [Moon Cheese](https://open.spotify.com/artist/7DKpSnYTZwZiyleLd4rh0S) | [Inner Peace](https://open.spotify.com/album/72rdiIaTtw02OfQiCXQPGf) | 3:52 | 2023-09-22 |  |
 | [Intrepid](https://open.spotify.com/track/4FF2yXuwxAVwQzCyDj0rRU) | [Screwbar](https://open.spotify.com/artist/4wFYoFRNMyPuk7YbtENoz9) | [Intrepid](https://open.spotify.com/album/2tjwpsIYUyYPrTEeHpMf9B) | 2:54 | 2022-02-17 | 2023-09-09 |
@@ -609,7 +610,7 @@
 | [Time to Face Your Fears](https://open.spotify.com/track/5GdLtWqbQVXKIAwUpXuJcq) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [I'll Leave the Light on for You](https://open.spotify.com/album/1uEqiWIlQBYypx6pZFZ6xL) | 3:07 | 2022-02-17 | 2023-09-09 |
 | [Together](https://open.spotify.com/track/1RKGSoNYL21xmNSAzdQko6) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [All Together](https://open.spotify.com/album/05CQS6aZk4qQSZFLhktywB) | 2:21 | 2023-09-08 |  |
 | [Togetherness](https://open.spotify.com/track/78p0h77b4Yx4DCkidWXlGV) | [Velvet Walls](https://open.spotify.com/artist/5dK4imkmeXhg5uC83F60p4) | [Togetherness](https://open.spotify.com/album/7dSngO4cCWijtF38dgNoZo) | 2:36 | 2023-09-08 |  |
-| [Toki](https://open.spotify.com/track/0VGrbqWrRR6etQn9EgW6Wv) | [Shopan](https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl) | [College Music Presents: In The Loop](https://open.spotify.com/album/60kQLr90yH2VLifc0D18Ya) | 3:30 | 2023-09-08 |  |
+| [Toki](https://open.spotify.com/track/0VGrbqWrRR6etQn9EgW6Wv) | [Shopan](https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl) | [College Music Presents: In The Loop](https://open.spotify.com/album/60kQLr90yH2VLifc0D18Ya) | 3:30 | 2023-09-08 | 2024-01-09 |
 | [Tokyo](https://open.spotify.com/track/6DS8PbO3BzzdZ00dwiMPB3) | [Lindsey Leblanc](https://open.spotify.com/artist/7lPv78tlT005m22dYvSdNg) | [Tokyo](https://open.spotify.com/album/1Zw4R7LNCAzWVMQ2MLOQOx) | 2:59 | 2023-01-20 | 2023-09-09 |
 | [Took It Too Far](https://open.spotify.com/track/1B9mJ0e6rKVfUUi5nCvvim) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [To The Factory](https://open.spotify.com/album/4nvHLzp2CInKEzvz8QTquQ) | 2:56 | 2022-02-17 | 2023-09-09 |
 | [Touch It](https://open.spotify.com/track/6pQF5FATuPz4GSihK6hx2p) | [serifONE](https://open.spotify.com/artist/2U5Rpg2KnZYrlqYetk2N92) | [Avola](https://open.spotify.com/album/5n1LCUeJv4IOkJwZVxCIEL) | 1:53 | 2023-09-08 | 2023-12-17 |

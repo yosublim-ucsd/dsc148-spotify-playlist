@@ -312,7 +312,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 196523,
       "name": "Amami - La Tosa Disco Remix",
       "url": "https://open.spotify.com/track/4hN5nPKf7hxBJK6shDieXf"
@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 210046,
       "name": "Classic",
       "url": "https://open.spotify.com/track/5Z0fNCMYQMzZ0zYWY4HfMM"
@@ -2014,7 +2014,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 175609,
       "name": "Fammi sapere",
       "url": "https://open.spotify.com/track/5lim6ILbLLRo2klC4C3JhJ"
@@ -2548,10 +2548,28 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 233920,
       "name": "Honey - Original mix",
       "url": "https://open.spotify.com/track/5AGGlWNS6to8ccEt4goFd8"
+    },
+    {
+      "album": {
+        "name": "How Do U Feel",
+        "url": "https://open.spotify.com/album/71NytofTYW4F5hBuDLMPY7"
+      },
+      "artists": [
+        {
+          "name": "HU",
+          "url": "https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "How Do U Feel",
+      "url": "https://open.spotify.com/track/1LjJjkKtr7N7zGGfyBl3M1"
     },
     {
       "album": {
@@ -2744,7 +2762,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 188800,
       "name": "io in te",
       "url": "https://open.spotify.com/track/7eRedL3Ez9tTJ2XLa41vFZ"
@@ -3456,7 +3474,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 154400,
       "name": "macchina argento",
       "url": "https://open.spotify.com/track/18zK0tK6kSn6ovG8UkSGu9"
@@ -3684,7 +3702,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 168009,
       "name": "Millemila",
       "url": "https://open.spotify.com/track/6DT748xDp7JJMVwdFikBiO"
@@ -4730,7 +4748,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 186586,
       "name": "Rave in the Casba",
       "url": "https://open.spotify.com/track/2U8W0if8bgd8Fru41AW1OL"
@@ -4872,7 +4890,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 182000,
       "name": "RESTO IN CHILL",
       "url": "https://open.spotify.com/track/6VL7XBlYdDg7cAGPx5uVL3"
@@ -5370,7 +5388,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 199771,
       "name": "SOLO PER TE",
       "url": "https://open.spotify.com/track/5Lym9E14zAnv4b2FJYfEp5"
@@ -6458,7 +6476,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 339509,
       "name": "You Be",
       "url": "https://open.spotify.com/track/79cBivPnoqZt3w7peRRyNl"
@@ -6538,7 +6556,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 208194,
       "name": "\u00c7a va? Je t'aime! (feat. EMMANUELLE)",
       "url": "https://open.spotify.com/track/6CNTgqgmfpYMgI9h4uIWxH"

@@ -1,12 +1,12 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 275438,
+  "num_followers": 275476,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDJhZDEwZTcyOGE5NDJkYjI5M2M3YTUzZTEyY2FjYmQ0MzY2NjVj",
+  "snapshot_id": "MCxiN2M0NzExNDI2Y2NjMzMyNDA3ZTIyZjExNjVlMmQ1YWU3YmI0NjM2",
   "tracks": [
     {
       "added_at": "2023-12-07 20:09:02",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "POST HUMAN: SURVIVAL HORROR",
-        "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 164797,
-      "name": "Dear Diary,",
-      "url": "https://open.spotify.com/track/3DW6GVr7RVyfvo4NBRvZIZ"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Intoxicated",
         "url": "https://open.spotify.com/album/385qWF7ljbjZNS6r9LCbZ6"
       },
@@ -255,18 +239,18 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "RAT WARS",
-        "url": "https://open.spotify.com/album/6tkuHFo0hTGGkWEGjdKOjz"
+        "name": "POST HUMAN: SURVIVAL HORROR",
+        "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
       },
       "artists": [
         {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 263706,
-      "name": "DSM-V",
-      "url": "https://open.spotify.com/track/31JoCS9r2IzGp13ENm3Cvd"
+      "duration_ms": 164797,
+      "name": "Dear Diary,",
+      "url": "https://open.spotify.com/track/3DW6GVr7RVyfvo4NBRvZIZ"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -283,6 +267,22 @@
       "duration_ms": 118863,
       "name": "Pink Rover",
       "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "RAT WARS",
+        "url": "https://open.spotify.com/album/6tkuHFo0hTGGkWEGjdKOjz"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "duration_ms": 263706,
+      "name": "DSM-V",
+      "url": "https://open.spotify.com/track/31JoCS9r2IzGp13ENm3Cvd"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 237354,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "MILF",
         "url": "https://open.spotify.com/album/3FgmJByJ2eCaZwbFXoHdsO"
       },
@@ -527,6 +511,22 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 237354,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
         "name": "FLATLINE",
         "url": "https://open.spotify.com/album/0ntAkOuUZbtb6LtccaZoMA"
       },
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Z0mbie",
-        "url": "https://open.spotify.com/album/39Lu0IyoWvizdSECrOOTLE"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 243343,
-      "name": "Terrible Lie",
-      "url": "https://open.spotify.com/track/3toc6JLXh9637dAa1scPCf"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Skeletons",
         "url": "https://open.spotify.com/album/53Qn747V1G16yJvN363RZA"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 235736,
       "name": "Paranoid (Crash & Burn)",
       "url": "https://open.spotify.com/track/1Q1SYwGXe7dFtcTgkgblwF"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Z0mbie",
+        "url": "https://open.spotify.com/album/39Lu0IyoWvizdSECrOOTLE"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 243343,
+      "name": "Terrible Lie",
+      "url": "https://open.spotify.com/track/3toc6JLXh9637dAa1scPCf"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Blood Money Part Zer0",
-        "url": "https://open.spotify.com/album/00IWlCz2v0BLL8td4oljJt"
-      },
-      "artists": [
-        {
-          "name": "Dope",
-          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
-        }
-      ],
-      "duration_ms": 276764,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0CY10vjKe4FvmzsEaKACfK"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "FYB",
         "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 106331,
       "name": "FYB",
       "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Blood Money Part Zer0",
+        "url": "https://open.spotify.com/album/00IWlCz2v0BLL8td4oljJt"
+      },
+      "artists": [
+        {
+          "name": "Dope",
+          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
+        }
+      ],
+      "duration_ms": 276764,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0CY10vjKe4FvmzsEaKACfK"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Whispers of Your Death",
-        "url": "https://open.spotify.com/album/4t0YjU738vLtyaBlQvrxp5"
-      },
-      "artists": [
-        {
-          "name": "Counterparts",
-          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "Whispers of Your Death",
-      "url": "https://open.spotify.com/track/0epZ0WL25qEmScVrKzZhL8"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Moot",
         "url": "https://open.spotify.com/album/0mla1tVzfxr60Nl3JKqnaQ"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 245664,
       "name": "Moot",
       "url": "https://open.spotify.com/track/4uyZcMuMZ53OPEqH41AsUe"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Whispers of Your Death",
+        "url": "https://open.spotify.com/album/4t0YjU738vLtyaBlQvrxp5"
+      },
+      "artists": [
+        {
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
+        }
+      ],
+      "duration_ms": 174213,
+      "name": "Whispers of Your Death",
+      "url": "https://open.spotify.com/track/0epZ0WL25qEmScVrKzZhL8"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Heads Off",
-        "url": "https://open.spotify.com/album/2sLZl4r0twETeUTk88BOU7"
-      },
-      "artists": [
-        {
-          "name": "Combichrist",
-          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
-        }
-      ],
-      "duration_ms": 271943,
-      "name": "Heads Off",
-      "url": "https://open.spotify.com/track/6YscsgZWCPcceessZBN1di"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Don't Wait",
         "url": "https://open.spotify.com/album/6kw0XsjkS9XYTmNtxrb9eO"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 128371,
       "name": "Don't Wait",
       "url": "https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Heads Off",
+        "url": "https://open.spotify.com/album/2sLZl4r0twETeUTk88BOU7"
+      },
+      "artists": [
+        {
+          "name": "Combichrist",
+          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
+        }
+      ],
+      "duration_ms": 271943,
+      "name": "Heads Off",
+      "url": "https://open.spotify.com/track/6YscsgZWCPcceessZBN1di"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Animo",
-        "url": "https://open.spotify.com/album/5z7fDpyjFEYF4XrnUQ8BEd"
-      },
-      "artists": [
-        {
-          "name": "Profiler",
-          "url": "https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo"
-        }
-      ],
-      "duration_ms": 195800,
-      "name": "Animo",
-      "url": "https://open.spotify.com/track/3JDUSXqeaecr0d1mCFTSMh"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "They Fear Us",
         "url": "https://open.spotify.com/album/3derpgU8KpIaQCu8uZyr61"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 218503,
       "name": "The Future Says Thank You",
       "url": "https://open.spotify.com/track/2TfNBZNReB9L02rmi5tsnA"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Animo",
+        "url": "https://open.spotify.com/album/5z7fDpyjFEYF4XrnUQ8BEd"
+      },
+      "artists": [
+        {
+          "name": "Profiler",
+          "url": "https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo"
+        }
+      ],
+      "duration_ms": 195800,
+      "name": "Animo",
+      "url": "https://open.spotify.com/track/3JDUSXqeaecr0d1mCFTSMh"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Shut Up",
-        "url": "https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9"
+        "name": "Kosmik",
+        "url": "https://open.spotify.com/album/3TyWQxMev9f93qXzTj1N8Z"
       },
       "artists": [
         {
-          "name": "Death Blooms",
-          "url": "https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j"
+          "name": "Violet Cold",
+          "url": "https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo"
         }
       ],
-      "duration_ms": 204848,
-      "name": "Shut Up",
-      "url": "https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9"
+      "duration_ms": 214250,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/6ulChWOHPyWGXQ1SNSZajI"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
+        "name": "Shut Up",
+        "url": "https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9"
+      },
+      "artists": [
+        {
+          "name": "Death Blooms",
+          "url": "https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j"
+        }
+      ],
+      "duration_ms": 204848,
+      "name": "Shut Up",
+      "url": "https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
         "name": "Kings Today",
         "url": "https://open.spotify.com/album/741N4FVAoLLzP11TWUhShI"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 235954,
       "name": "Kings Today",
       "url": "https://open.spotify.com/track/1uCNIM6XKraHMPUsWXYzCq"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
-        "name": "Kosmik",
-        "url": "https://open.spotify.com/album/3TyWQxMev9f93qXzTj1N8Z"
-      },
-      "artists": [
-        {
-          "name": "Violet Cold",
-          "url": "https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo"
-        }
-      ],
-      "duration_ms": 214250,
-      "name": "Contact",
-      "url": "https://open.spotify.com/track/6ulChWOHPyWGXQ1SNSZajI"
     },
     {
       "added_at": "2023-12-07 20:09:02",

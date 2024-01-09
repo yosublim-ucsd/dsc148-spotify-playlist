@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDVlYmIzODcwMWUwMGZjMzQwZmZhZmZjMjEwODRhZWI0NDM4YjFl",
+  "snapshot_id": "MCw1NTY3YzdmNGQ4MzBhZGQzOGNiOTUwZDM5NjVjOGM3Y2NkNjQ1Nzkz",
   "tracks": [
     {
       "added_at": "2023-05-14 21:00:45",
@@ -147,18 +147,18 @@
     {
       "added_at": "2023-05-14 21:00:45",
       "album": {
-        "name": "Love Remains",
-        "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
       },
       "artists": [
         {
-          "name": "Hillary Scott & The Scott Family",
-          "url": "https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR"
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 236200,
-      "name": "Thy Will",
-      "url": "https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x"
+      "duration_ms": 211600,
+      "name": "Trust in You",
+      "url": "https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr"
     },
     {
       "added_at": "2023-05-14 21:00:45",
@@ -179,18 +179,18 @@
     {
       "added_at": "2023-05-14 21:00:45",
       "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
+        "name": "Love Remains",
+        "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
       },
       "artists": [
         {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+          "name": "Hillary Scott & The Scott Family",
+          "url": "https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR"
         }
       ],
-      "duration_ms": 211600,
-      "name": "Trust in You",
-      "url": "https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr"
+      "duration_ms": 236200,
+      "name": "Thy Will",
+      "url": "https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x"
     },
     {
       "added_at": "2023-05-14 21:00:45",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-05-14 21:00:45",
       "album": {
-        "name": "Look Up Child",
-        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 183013,
-      "name": "Look Up Child",
-      "url": "https://open.spotify.com/track/3UUPQ4sAtAVnkcaSr06NBi"
-    },
-    {
-      "added_at": "2023-05-14 21:00:45",
-      "album": {
         "name": "Good News (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 228800,
       "name": "Lead Me",
       "url": "https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO"
+    },
+    {
+      "added_at": "2023-05-14 21:00:45",
+      "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 183013,
+      "name": "Look Up Child",
+      "url": "https://open.spotify.com/track/3UUPQ4sAtAVnkcaSr06NBi"
     },
     {
       "added_at": "2023-05-14 21:00:45",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-05-14 21:00:45",
       "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 259293,
-      "name": "How Can It Be",
-      "url": "https://open.spotify.com/track/27wkiHSSNOB0TyfXzNziaD"
-    },
-    {
-      "added_at": "2023-05-14 21:00:45",
-      "album": {
         "name": "Diamonds",
         "url": "https://open.spotify.com/album/6H9N73NXBNugcz4FevMxlC"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 201733,
       "name": "Drops in the Ocean",
       "url": "https://open.spotify.com/track/6CeoTeUhMFHKoKeQkRrhaU"
+    },
+    {
+      "added_at": "2023-05-14 21:00:45",
+      "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 259293,
+      "name": "How Can It Be",
+      "url": "https://open.spotify.com/track/27wkiHSSNOB0TyfXzNziaD"
     },
     {
       "added_at": "2023-05-14 21:00:45",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-05-14 21:00:45",
       "album": {
-        "name": "Burn The Ships",
-        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 218106,
-      "name": "Fight On, Fighter",
-      "url": "https://open.spotify.com/track/7lPM8uXuIO5MDWv6L0TPaZ"
-    },
-    {
-      "added_at": "2023-05-14 21:00:45",
-      "album": {
         "name": "There Is More (Studio Sessions)",
         "url": "https://open.spotify.com/album/2kwKl75APbUs1AxEv74JdQ"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 199520,
       "name": "Who You Say I Am",
       "url": "https://open.spotify.com/track/0jBu6T5GgOekdHuXA5hVQM"
+    },
+    {
+      "added_at": "2023-05-14 21:00:45",
+      "album": {
+        "name": "Burn The Ships",
+        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 218106,
+      "name": "Fight On, Fighter",
+      "url": "https://open.spotify.com/track/7lPM8uXuIO5MDWv6L0TPaZ"
     },
     {
       "added_at": "2023-05-14 21:00:45",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-05-14 21:00:45",
       "album": {
+        "name": "Storyteller",
+        "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 215466,
+      "name": "What I Never Knew I Always Wanted",
+      "url": "https://open.spotify.com/track/5b0QOGqikWl9VZ3H3uHrUb"
+    },
+    {
+      "added_at": "2023-05-14 21:00:45",
+      "album": {
         "name": "Perspectives",
         "url": "https://open.spotify.com/album/7JacApKikA6YgXD2zq785n"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 236106,
       "name": "Footprints in the Sand - Single Mix",
       "url": "https://open.spotify.com/track/0mrqlJrZRPEaH6RXkztRT2"
-    },
-    {
-      "added_at": "2023-05-14 21:00:45",
-      "album": {
-        "name": "Storyteller",
-        "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 215466,
-      "name": "What I Never Knew I Always Wanted",
-      "url": "https://open.spotify.com/track/5b0QOGqikWl9VZ3H3uHrUb"
     },
     {
       "added_at": "2023-05-14 21:00:45",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-05-14 21:00:45",
       "album": {
+        "name": "Watch You Be a Mother",
+        "url": "https://open.spotify.com/album/2lyjklRTRuWMeRiL16XOf9"
+      },
+      "artists": [
+        {
+          "name": "Jonny Diaz",
+          "url": "https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt"
+        }
+      ],
+      "duration_ms": 195280,
+      "name": "Watch You Be a Mother",
+      "url": "https://open.spotify.com/track/3rnXcaQ10ZQ4e0aVbsufmV"
+    },
+    {
+      "added_at": "2023-05-14 21:00:45",
+      "album": {
         "name": "Lifer",
         "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 342893,
       "name": "All the Poor and Powerless",
       "url": "https://open.spotify.com/track/23aRQxzv8AbUOAV4czlNmp"
-    },
-    {
-      "added_at": "2023-05-14 21:00:45",
-      "album": {
-        "name": "Watch You Be a Mother",
-        "url": "https://open.spotify.com/album/2lyjklRTRuWMeRiL16XOf9"
-      },
-      "artists": [
-        {
-          "name": "Jonny Diaz",
-          "url": "https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt"
-        }
-      ],
-      "duration_ms": 195280,
-      "name": "Watch You Be a Mother",
-      "url": "https://open.spotify.com/track/3rnXcaQ10ZQ4e0aVbsufmV"
     },
     {
       "added_at": "2023-05-14 21:00:45",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-05-14 21:00:45",
       "album": {
+        "name": "Growing Older",
+        "url": "https://open.spotify.com/album/5Lo7IsaSNCaqnYsUGbhU60"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "Growing Older",
+      "url": "https://open.spotify.com/track/14k60OKl7V2yTdz1GAZfVL"
+    },
+    {
+      "added_at": "2023-05-14 21:00:45",
+      "album": {
         "name": "All In",
         "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
       },
@@ -1091,34 +1107,18 @@
     {
       "added_at": "2023-05-14 21:00:45",
       "album": {
-        "name": "Growing Older",
-        "url": "https://open.spotify.com/album/5Lo7IsaSNCaqnYsUGbhU60"
+        "name": "Brave",
+        "url": "https://open.spotify.com/album/7r4A9DBkkirmHSfN7yAbCG"
       },
       "artists": [
         {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+          "name": "Nichole Nordeman",
+          "url": "https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh"
         }
       ],
-      "duration_ms": 211266,
-      "name": "Growing Older",
-      "url": "https://open.spotify.com/track/14k60OKl7V2yTdz1GAZfVL"
-    },
-    {
-      "added_at": "2023-05-14 21:00:45",
-      "album": {
-        "name": "I'm Standing With You (From \"Breakthrough\" Soundtrack)",
-        "url": "https://open.spotify.com/album/5DRGqj2uMeWo3QWdn9wbMx"
-      },
-      "artists": [
-        {
-          "name": "Chrissy Metz",
-          "url": "https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a"
-        }
-      ],
-      "duration_ms": 245040,
-      "name": "I'm Standing With You - From \"Breakthrough\" Soundtrack",
-      "url": "https://open.spotify.com/track/7AlVjh1sSW5PLtqhoNgHPP"
+      "duration_ms": 255066,
+      "name": "Brave",
+      "url": "https://open.spotify.com/track/32giMY83e2xbyBjwAQy3eb"
     },
     {
       "added_at": "2023-05-14 21:00:45",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-05-14 21:00:45",
       "album": {
-        "name": "Brave",
-        "url": "https://open.spotify.com/album/7r4A9DBkkirmHSfN7yAbCG"
-      },
-      "artists": [
-        {
-          "name": "Nichole Nordeman",
-          "url": "https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh"
-        }
-      ],
-      "duration_ms": 255066,
-      "name": "Brave",
-      "url": "https://open.spotify.com/track/32giMY83e2xbyBjwAQy3eb"
-    },
-    {
-      "added_at": "2023-05-14 21:00:45",
-      "album": {
         "name": "Okie",
         "url": "https://open.spotify.com/album/74K88Q3Yroy6hTgpj1tXsw"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 216880,
       "name": "A Letter To My Mama",
       "url": "https://open.spotify.com/track/1LOqoF97FLdAPWVu9IRYy1"
+    },
+    {
+      "added_at": "2023-05-14 21:00:45",
+      "album": {
+        "name": "I'm Standing With You (From \"Breakthrough\" Soundtrack)",
+        "url": "https://open.spotify.com/album/5DRGqj2uMeWo3QWdn9wbMx"
+      },
+      "artists": [
+        {
+          "name": "Chrissy Metz",
+          "url": "https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a"
+        }
+      ],
+      "duration_ms": 245040,
+      "name": "I'm Standing With You - From \"Breakthrough\" Soundtrack",
+      "url": "https://open.spotify.com/track/7AlVjh1sSW5PLtqhoNgHPP"
     },
     {
       "added_at": "2023-05-14 21:00:45",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-05-14 21:00:45",
       "album": {
+        "name": "Paving the Runway (You're Gonna Fly)",
+        "url": "https://open.spotify.com/album/0qqN2oera2BjXRoZzMO3ma"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 203942,
+      "name": "Paving the Runway (You're Gonna Fly)",
+      "url": "https://open.spotify.com/track/118yj2gBlUuImGrZeMuTUj"
+    },
+    {
+      "added_at": "2023-05-14 21:00:45",
+      "album": {
         "name": "Christian Music 2020",
         "url": "https://open.spotify.com/album/7i58toAI9y2adGP64UJ2Xc"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 273493,
       "name": "Me",
       "url": "https://open.spotify.com/track/3eQ85lzNu0ZmzSIqbOIMTl"
-    },
-    {
-      "added_at": "2023-05-14 21:00:45",
-      "album": {
-        "name": "Paving the Runway (You're Gonna Fly)",
-        "url": "https://open.spotify.com/album/0qqN2oera2BjXRoZzMO3ma"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 203942,
-      "name": "Paving the Runway (You're Gonna Fly)",
-      "url": "https://open.spotify.com/track/118yj2gBlUuImGrZeMuTUj"
     },
     {
       "added_at": "2023-05-14 21:00:45",

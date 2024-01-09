@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Check out the latest hits from Sandalwood!\nCover : Kaatera\n",
+  "description": "Check out the latest hits from Sandalwood!\nCover : Bachelor Party\n",
   "name": "Latest Kannada",
   "tracks": [
     {
@@ -7479,6 +7479,32 @@
     },
     {
       "album": {
+        "name": "Ghora Hara (From \"Captain Miller\")",
+        "url": "https://open.spotify.com/album/6FEN1B46d7CuEKZ6Cw7kiH"
+      },
+      "artists": [
+        {
+          "name": "Rahul Sipligunj",
+          "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Rakendu Mouli",
+          "url": "https://open.spotify.com/artist/2wBKMv1ci10ht9OqJzJBg8"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201777,
+      "name": "Ghora Hara (From \"Captain Miller\")",
+      "url": "https://open.spotify.com/track/6oqXn1XMRUhSfMPzG018qe"
+    },
+    {
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/3cfav1aUanUUahgpyaxnWu"
       },
@@ -7876,6 +7902,28 @@
       "duration_ms": 214458,
       "name": "Haaro Hakki",
       "url": "https://open.spotify.com/track/5FzJ6eouXhq9OlQJ7AKgFU"
+    },
+    {
+      "album": {
+        "name": "Haaruthidhe (From \"Cicada\")",
+        "url": "https://open.spotify.com/album/6fnxCJ8pDcFh5EIj6Axgnq"
+      },
+      "artists": [
+        {
+          "name": "Praveen Raveendran",
+          "url": "https://open.spotify.com/artist/5ATQFS0ejLfL3tKquLU0oX"
+        },
+        {
+          "name": "Sreejith Edavana",
+          "url": "https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161048,
+      "name": "Haaruthidhe (From \"Cicada\")",
+      "url": "https://open.spotify.com/track/7d1juAocG4g5cugWGWUfnL"
     },
     {
       "album": {
@@ -11914,7 +11962,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 201777,
       "name": "Koranaaru (From \"Captain Miller\")",
       "url": "https://open.spotify.com/track/1hQCcHIb2x6NNrx547yTPP"
@@ -14372,6 +14420,24 @@
       "duration_ms": 230566,
       "name": "Mugisaaithu Kaalu Daari (From \"Tanuja\")",
       "url": "https://open.spotify.com/track/17N4pGZNg5FLasKfXRTFlE"
+    },
+    {
+      "album": {
+        "name": "Mugiyada Ee Mouna ( From \"Yaava Mohana Murali Kareithu\" )",
+        "url": "https://open.spotify.com/album/4ArFXtj1Y0fqg8Rntvl7Sr"
+      },
+      "artists": [
+        {
+          "name": "Anil CJ",
+          "url": "https://open.spotify.com/artist/06MUYjay1afxal0kI4n4nD"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189546,
+      "name": "Mugiyada Ee Mouna ( From \"Yaava Mohana Murali Kareithu\" )",
+      "url": "https://open.spotify.com/track/4GfL2pMoV9ezqb96ghS0Sq"
     },
     {
       "album": {
@@ -20242,7 +20308,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 186260,
       "name": "Sambanja Annodu Doddu Kana (From \"Tagaru Palya\")",
       "url": "https://open.spotify.com/track/3BbIvJDP3w2ZxxC8EIflQT"

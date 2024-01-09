@@ -1,12 +1,12 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 12392,
+  "num_followers": 12401,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWQzYTYzYmM5ODZhZjNlODI3NTkxNmViNmU5OGZjMjE3YjdjMmM0",
+  "snapshot_id": "MCxmNDNjNGY4N2VmMzZjOWY2ZDk5ZWUxZjY4ZTBjYmU2MTA4NjM5MDMx",
   "tracks": [
     {
       "added_at": "2023-04-14 06:27:38",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Stages",
-        "url": "https://open.spotify.com/album/0LahGugFPCcDTUPG7OA7bx"
-      },
-      "artists": [
-        {
-          "name": "The Talleys",
-          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
-        }
-      ],
-      "duration_ms": 219653,
-      "name": "The Broken Ones",
-      "url": "https://open.spotify.com/track/0gdMxfopB9G1HYTpFBIwh8"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "And Now, Let's Turn to Page\u2026",
         "url": "https://open.spotify.com/album/6F4P5ZIpxK35FkaGe1d1sA"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 183306,
       "name": "Are You Washed in the Blood?",
       "url": "https://open.spotify.com/track/0QB8S1OlJhA8fIWkiiBXsM"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Stages",
+        "url": "https://open.spotify.com/album/0LahGugFPCcDTUPG7OA7bx"
+      },
+      "artists": [
+        {
+          "name": "The Talleys",
+          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "The Broken Ones",
+      "url": "https://open.spotify.com/track/0gdMxfopB9G1HYTpFBIwh8"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -387,18 +387,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Thinking 'Bout Home (Live)",
-        "url": "https://open.spotify.com/album/2JsF6YxWsHttLPXvlr8940"
+        "name": "When God Ran",
+        "url": "https://open.spotify.com/album/49A6zoKKgvWWT8HGHPzXR9"
       },
       "artists": [
         {
-          "name": "The Talleys",
-          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
+          "name": "Kingsmen",
+          "url": "https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX"
         }
       ],
-      "duration_ms": 245825,
-      "name": "Thinking 'Bout Home - Live",
-      "url": "https://open.spotify.com/track/6xxUWn3zrgrMieEFUZRR9Z"
+      "duration_ms": 312746,
+      "name": "When God Ran",
+      "url": "https://open.spotify.com/track/78bkWzaZ616DTt9HdkM0MN"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -423,18 +423,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "When God Ran",
-        "url": "https://open.spotify.com/album/49A6zoKKgvWWT8HGHPzXR9"
+        "name": "Thinking 'Bout Home (Live)",
+        "url": "https://open.spotify.com/album/2JsF6YxWsHttLPXvlr8940"
       },
       "artists": [
         {
-          "name": "Kingsmen",
-          "url": "https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX"
+          "name": "The Talleys",
+          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
         }
       ],
-      "duration_ms": 312746,
-      "name": "When God Ran",
-      "url": "https://open.spotify.com/track/78bkWzaZ616DTt9HdkM0MN"
+      "duration_ms": 245825,
+      "name": "Thinking 'Bout Home - Live",
+      "url": "https://open.spotify.com/track/6xxUWn3zrgrMieEFUZRR9Z"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/5rI5TQVg0ZKN3bm2yDx2tA"
+      },
+      "artists": [
+        {
+          "name": "Triumphant Quartet",
+          "url": "https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC"
+        }
+      ],
+      "duration_ms": 225773,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/3q0HpebwPnwOXkBJ17n0Fy"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "How Great Thou Art",
         "url": "https://open.spotify.com/album/6MzRNdhppIWTDn8DvZZLwU"
       },
@@ -639,18 +655,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/5rI5TQVg0ZKN3bm2yDx2tA"
+        "name": "Great Is His Faithfulness",
+        "url": "https://open.spotify.com/album/7HfV6ry5U4qHaQlq6lSfzt"
       },
       "artists": [
         {
-          "name": "Triumphant Quartet",
-          "url": "https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC"
+          "name": "The Collingsworth Family",
+          "url": "https://open.spotify.com/artist/4B43yyRlfQgDEhDPq35wUc"
+        },
+        {
+          "name": "Olivia Collingsworth",
+          "url": "https://open.spotify.com/artist/0Kp8BEwvYuGMcuKu5aEuCC"
         }
       ],
-      "duration_ms": 225773,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/3q0HpebwPnwOXkBJ17n0Fy"
+      "duration_ms": 288546,
+      "name": "Great Is His Faithfulness",
+      "url": "https://open.spotify.com/track/5DQ1iZR8EKRFezKYiRxYaA"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -683,26 +703,6 @@
       "duration_ms": 316864,
       "name": "Reckless Love",
       "url": "https://open.spotify.com/track/6LiW0vJVVrycjGFteSG7qm"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Great Is His Faithfulness",
-        "url": "https://open.spotify.com/album/7HfV6ry5U4qHaQlq6lSfzt"
-      },
-      "artists": [
-        {
-          "name": "The Collingsworth Family",
-          "url": "https://open.spotify.com/artist/4B43yyRlfQgDEhDPq35wUc"
-        },
-        {
-          "name": "Olivia Collingsworth",
-          "url": "https://open.spotify.com/artist/0Kp8BEwvYuGMcuKu5aEuCC"
-        }
-      ],
-      "duration_ms": 288546,
-      "name": "Great Is His Faithfulness",
-      "url": "https://open.spotify.com/track/5DQ1iZR8EKRFezKYiRxYaA"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "On Jordan's Stormy Banks",
-        "url": "https://open.spotify.com/album/02nN1t9aMsxqJEa0ZJ4B8E"
-      },
-      "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "On Jordan's Stormy Banks",
-      "url": "https://open.spotify.com/track/44R3QiC8sInYTpFB9TZegW"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Overcome (Radio Edit)",
         "url": "https://open.spotify.com/album/6HYHgxwMcknXcdvWHCojqM"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 247254,
       "name": "Overcome - Radio Edit",
       "url": "https://open.spotify.com/track/0VAnfdHYy86E0TWJBfN6JP"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "On Jordan's Stormy Banks",
+        "url": "https://open.spotify.com/album/02nN1t9aMsxqJEa0ZJ4B8E"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "On Jordan's Stormy Banks",
+      "url": "https://open.spotify.com/track/44R3QiC8sInYTpFB9TZegW"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "He Touched Me",
-        "url": "https://open.spotify.com/album/4r9OhwImdx9wOJm2q27XUo"
-      },
-      "artists": [
-        {
-          "name": "The Singing Contractors",
-          "url": "https://open.spotify.com/artist/4hmbdZT6ZOW75JtSd2Cz6u"
-        }
-      ],
-      "duration_ms": 207440,
-      "name": "He Touched Me",
-      "url": "https://open.spotify.com/track/7cLgjwoaU3R56Y6xGBCJok"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Grace Ain't Fair (Acoustic Version)",
         "url": "https://open.spotify.com/album/45ijAsVgyLl4kDnTAUeh17"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 214238,
       "name": "Grace Ain't Fair - Acoustic Version",
       "url": "https://open.spotify.com/track/2CEBwToSll6HnKr0op8WQH"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "He Touched Me",
+        "url": "https://open.spotify.com/album/4r9OhwImdx9wOJm2q27XUo"
+      },
+      "artists": [
+        {
+          "name": "The Singing Contractors",
+          "url": "https://open.spotify.com/artist/4hmbdZT6ZOW75JtSd2Cz6u"
+        }
+      ],
+      "duration_ms": 207440,
+      "name": "He Touched Me",
+      "url": "https://open.spotify.com/track/7cLgjwoaU3R56Y6xGBCJok"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Give Me Jesus",
-        "url": "https://open.spotify.com/album/4FAKPSnfJM5NuV5MzfyLpB"
-      },
-      "artists": [
-        {
-          "name": "The Talleys",
-          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
-        }
-      ],
-      "duration_ms": 220760,
-      "name": "Give Me Jesus",
-      "url": "https://open.spotify.com/track/41fDllXABcR51KZivo6uTx"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Front Porch Singin'",
         "url": "https://open.spotify.com/album/41ueL4w9hoGodvfWHjLfCY"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 108145,
       "name": "Rock My Soul",
       "url": "https://open.spotify.com/track/6bb7yezS8C4RwLbWKDtiAN"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Give Me Jesus",
+        "url": "https://open.spotify.com/album/4FAKPSnfJM5NuV5MzfyLpB"
+      },
+      "artists": [
+        {
+          "name": "The Talleys",
+          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
+        }
+      ],
+      "duration_ms": 220760,
+      "name": "Give Me Jesus",
+      "url": "https://open.spotify.com/track/41fDllXABcR51KZivo6uTx"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Heritage, Vol. 3",
-        "url": "https://open.spotify.com/album/4QmFZIOMbWcg6YEUGKjuQy"
-      },
-      "artists": [
-        {
-          "name": "Legacy Five",
-          "url": "https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk"
-        }
-      ],
-      "duration_ms": 154932,
-      "name": "Praise Medley",
-      "url": "https://open.spotify.com/track/01BfVuMUiP1df06GCvRb82"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Like This",
         "url": "https://open.spotify.com/album/0MnLy1oJMcbH4HWZztPiDz"
       },
@@ -1147,22 +1131,6 @@
       "duration_ms": 219867,
       "name": "Like This",
       "url": "https://open.spotify.com/track/4njUGRSOV7yThJFoaw21NK"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Lord's Prayer",
-        "url": "https://open.spotify.com/album/1GTIjIET5P7s2oXtT3sBcs"
-      },
-      "artists": [
-        {
-          "name": "Lauren Talley",
-          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
-        }
-      ],
-      "duration_ms": 235328,
-      "name": "Lord's Prayer",
-      "url": "https://open.spotify.com/track/3GprG1XzOUavCgzEqyj84v"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1183,6 +1151,38 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Heritage, Vol. 3",
+        "url": "https://open.spotify.com/album/4QmFZIOMbWcg6YEUGKjuQy"
+      },
+      "artists": [
+        {
+          "name": "Legacy Five",
+          "url": "https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk"
+        }
+      ],
+      "duration_ms": 154932,
+      "name": "Praise Medley",
+      "url": "https://open.spotify.com/track/01BfVuMUiP1df06GCvRb82"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Lord's Prayer",
+        "url": "https://open.spotify.com/album/1GTIjIET5P7s2oXtT3sBcs"
+      },
+      "artists": [
+        {
+          "name": "Lauren Talley",
+          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
+        }
+      ],
+      "duration_ms": 235328,
+      "name": "Lord's Prayer",
+      "url": "https://open.spotify.com/track/3GprG1XzOUavCgzEqyj84v"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Sings Greatest Country Gospel Hits",
         "url": "https://open.spotify.com/album/5fEKQptqnEDc4dj9pHH8Db"
       },
@@ -1195,22 +1195,6 @@
       "duration_ms": 157500,
       "name": "Pass Me Not Oh Gentle Saviour",
       "url": "https://open.spotify.com/track/6vgQpJaxOKsgLgZLzMI3kq"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Not For Long",
-        "url": "https://open.spotify.com/album/3o2K93AUXYP6ksJabFbM62"
-      },
-      "artists": [
-        {
-          "name": "The Guardians",
-          "url": "https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo"
-        }
-      ],
-      "duration_ms": 230013,
-      "name": "Not For Long",
-      "url": "https://open.spotify.com/track/2x5wmviqv1wC7rCd8gL1sQ"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1267,6 +1251,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Not For Long",
+        "url": "https://open.spotify.com/album/3o2K93AUXYP6ksJabFbM62"
+      },
+      "artists": [
+        {
+          "name": "The Guardians",
+          "url": "https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo"
+        }
+      ],
+      "duration_ms": 230013,
+      "name": "Not For Long",
+      "url": "https://open.spotify.com/track/2x5wmviqv1wC7rCd8gL1sQ"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "The World Needs a Song",
         "url": "https://open.spotify.com/album/0GdNxipb3VVA8WDXQ3QMLb"
       },
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Every Story Whispers His Name",
-        "url": "https://open.spotify.com/album/7sasgGYqy8DeKcIAgWpOsl"
-      },
-      "artists": [
-        {
-          "name": "The Old Paths",
-          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
-        },
-        {
-          "name": "Anthem Edition",
-          "url": "https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Every Story Whispers His Name",
-      "url": "https://open.spotify.com/track/2ZvOh0YUXRj2eSt2cyy88m"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "How Good the Good News Feels",
         "url": "https://open.spotify.com/album/1g7XmVw8AnXQJs8ReQcFNq"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 202000,
       "name": "How Good the Good News Feels",
       "url": "https://open.spotify.com/track/0k8agTGVV7FE3Pr8UfZTUY"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Every Story Whispers His Name",
+        "url": "https://open.spotify.com/album/7sasgGYqy8DeKcIAgWpOsl"
+      },
+      "artists": [
+        {
+          "name": "The Old Paths",
+          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
+        },
+        {
+          "name": "Anthem Edition",
+          "url": "https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Every Story Whispers His Name",
+      "url": "https://open.spotify.com/track/2ZvOh0YUXRj2eSt2cyy88m"
     }
   ],
   "unique_name": "Streets Of Gold",

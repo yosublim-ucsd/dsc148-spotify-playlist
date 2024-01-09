@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 
 > Snowy days, cozy nights\. Soak up the spirit of the season with lush, intricate acoustics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,673,352 likes - 77 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,672,308 likes - 77 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 76 | [Make Out in My Car \- Sufjan Stevens Version](https://open.spotify.com/track/099OI5KEJXIIj1GezRIWU0) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Make Out in My Car: Chameleon Suite](https://open.spotify.com/album/2i1xXXX3jYKBtWLRSNu1ee) | 2:46 |
 | 77 | [Only Son of the Falling Snow](https://open.spotify.com/track/0GHXcGspv1YgHHX15vJQIb) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Only Son of the Falling Snow](https://open.spotify.com/album/3GgT2ZtEmDa4BngFJYwxva) | 4:33 |
 
-Snapshot ID: `MCxmY2M3ZDY4YTQwYzRiMTliYTI1ZTc1NTRiNDMyN2JmODI0ZGRjNzJi`
+Snapshot ID: `MCxhNTM1Mzg5YjM2MWU0MjUwYjVhZTJkYjQ5MDNkYzczZmViOTIwZDEy`

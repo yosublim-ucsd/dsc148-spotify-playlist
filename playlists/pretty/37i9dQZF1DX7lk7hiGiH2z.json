@@ -1,12 +1,12 @@
 {
   "description": "Zeit f\u00fcr Pl\u00e4tzchen backen, Schlittschuhlaufen und Schneemann bauen \ud83c\udf6a\u26f8\ufe0f\u2603\ufe0f",
-  "num_followers": 33206,
+  "num_followers": 33210,
   "original_name": "Familienzeit: Winter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGMwZjVkMzI3MDE0YWE1ZjliMmU1YjgwMDQyMjNhOTBhZmJiNDRj",
+  "snapshot_id": "MCw1MDM5Y2NiOGM5NGVjMDMxMDJkMDA5MWZmZDU1ZThiMTFkOGE2YjAx",
   "tracks": [
     {
       "added_at": "2024-01-03 10:22:00",
@@ -207,38 +207,6 @@
     {
       "added_at": "2024-01-03 10:22:00",
       "album": {
-        "name": "Das Weihnachtsalbum",
-        "url": "https://open.spotify.com/album/5Lvy6ZClAUg6UcDKkLaUU4"
-      },
-      "artists": [
-        {
-          "name": "Deine Freunde",
-          "url": "https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng"
-        }
-      ],
-      "duration_ms": 161698,
-      "name": "Das Lied der Wichtel",
-      "url": "https://open.spotify.com/track/53gMRf5oKm8n34LOlzY5MQ"
-    },
-    {
-      "added_at": "2024-01-03 10:22:00",
-      "album": {
-        "name": "HIGHFIVE!",
-        "url": "https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S"
-      },
-      "artists": [
-        {
-          "name": "KID CLIO",
-          "url": "https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku"
-        }
-      ],
-      "duration_ms": 184173,
-      "name": "Schneefl\u00f6ckchen",
-      "url": "https://open.spotify.com/track/1toWSGtX1RsvM9iFElS0xw"
-    },
-    {
-      "added_at": "2024-01-03 10:22:00",
-      "album": {
         "name": "Giraffenaffen Winterlieder",
         "url": "https://open.spotify.com/album/0wLvHZNHXf35ysGUMmlGaz"
       },
@@ -255,6 +223,22 @@
       "duration_ms": 185840,
       "name": "Rudolf, das kleine Rentier",
       "url": "https://open.spotify.com/track/5yW31PRWyrTGn5vnU8HBGy"
+    },
+    {
+      "added_at": "2024-01-03 10:22:00",
+      "album": {
+        "name": "HIGHFIVE!",
+        "url": "https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S"
+      },
+      "artists": [
+        {
+          "name": "KID CLIO",
+          "url": "https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku"
+        }
+      ],
+      "duration_ms": 184173,
+      "name": "Schneefl\u00f6ckchen",
+      "url": "https://open.spotify.com/track/1toWSGtX1RsvM9iFElS0xw"
     },
     {
       "added_at": "2024-01-03 10:22:00",
@@ -287,6 +271,22 @@
       "duration_ms": 138750,
       "name": "Spuren im Schnee",
       "url": "https://open.spotify.com/track/62o6dJHwohn5vvPKE3EWUh"
+    },
+    {
+      "added_at": "2024-01-03 10:22:00",
+      "album": {
+        "name": "Das Weihnachtsalbum",
+        "url": "https://open.spotify.com/album/5Lvy6ZClAUg6UcDKkLaUU4"
+      },
+      "artists": [
+        {
+          "name": "Deine Freunde",
+          "url": "https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng"
+        }
+      ],
+      "duration_ms": 161698,
+      "name": "Das Lied der Wichtel",
+      "url": "https://open.spotify.com/track/53gMRf5oKm8n34LOlzY5MQ"
     },
     {
       "added_at": "2024-01-03 10:22:00",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-01-03 10:22:00",
       "album": {
+        "name": "Kleiner Eisb\u00e4r: Rettet die Rentiere",
+        "url": "https://open.spotify.com/album/5l8eXvO70uONJiwfrCz20L"
+      },
+      "artists": [
+        {
+          "name": "Kleiner Eisb\u00e4r",
+          "url": "https://open.spotify.com/artist/4Oym9ShOwhMXks25JifOv6"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "Kleiner Eisb\u00e4r, wohin f\u00e4hrst du?",
+      "url": "https://open.spotify.com/track/1AI8P6wAShygMS4cGNK7Y8"
+    },
+    {
+      "added_at": "2024-01-03 10:22:00",
+      "album": {
         "name": "Unter meinem Bett. Das Weihnachtsalbum",
         "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
       },
@@ -475,42 +491,6 @@
     {
       "added_at": "2024-01-03 10:22:00",
       "album": {
-        "name": "Kleiner Eisb\u00e4r: Rettet die Rentiere",
-        "url": "https://open.spotify.com/album/5l8eXvO70uONJiwfrCz20L"
-      },
-      "artists": [
-        {
-          "name": "Kleiner Eisb\u00e4r",
-          "url": "https://open.spotify.com/artist/4Oym9ShOwhMXks25JifOv6"
-        }
-      ],
-      "duration_ms": 237826,
-      "name": "Kleiner Eisb\u00e4r, wohin f\u00e4hrst du?",
-      "url": "https://open.spotify.com/track/1AI8P6wAShygMS4cGNK7Y8"
-    },
-    {
-      "added_at": "2024-01-03 10:22:00",
-      "album": {
-        "name": "Giraffenaffen Winterlieder",
-        "url": "https://open.spotify.com/album/0wLvHZNHXf35ysGUMmlGaz"
-      },
-      "artists": [
-        {
-          "name": "Annett Louisan",
-          "url": "https://open.spotify.com/artist/0kcGSitPHYyZ9B7bP7wJo8"
-        },
-        {
-          "name": "Giraffenaffen",
-          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
-        }
-      ],
-      "duration_ms": 205226,
-      "name": "Leise rieselt der Schnee",
-      "url": "https://open.spotify.com/track/4rlto54mESOE4qS5qzlfDe"
-    },
-    {
-      "added_at": "2024-01-03 10:22:00",
-      "album": {
         "name": "Das Weihnachtsalbum Deluxe",
         "url": "https://open.spotify.com/album/762Nb1p3l4wOFZln6B3ZTC"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 160226,
       "name": "Unterm Mistelzweig (feat. Benjamin Weygand)",
       "url": "https://open.spotify.com/track/4sXOfEpZb3oMt40KQ8KfNq"
+    },
+    {
+      "added_at": "2024-01-03 10:22:00",
+      "album": {
+        "name": "Giraffenaffen Winterlieder",
+        "url": "https://open.spotify.com/album/0wLvHZNHXf35ysGUMmlGaz"
+      },
+      "artists": [
+        {
+          "name": "Annett Louisan",
+          "url": "https://open.spotify.com/artist/0kcGSitPHYyZ9B7bP7wJo8"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+        }
+      ],
+      "duration_ms": 205226,
+      "name": "Leise rieselt der Schnee",
+      "url": "https://open.spotify.com/track/4rlto54mESOE4qS5qzlfDe"
     },
     {
       "added_at": "2024-01-03 10:22:00",
@@ -663,6 +663,34 @@
     {
       "added_at": "2024-01-03 10:22:00",
       "album": {
+        "name": "Das Weihnachtsalbum Deluxe",
+        "url": "https://open.spotify.com/album/762Nb1p3l4wOFZln6B3ZTC"
+      },
+      "artists": [
+        {
+          "name": "Bibi und Tina",
+          "url": "https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI"
+        },
+        {
+          "name": "Peter Plate",
+          "url": "https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg"
+        },
+        {
+          "name": "Ulf Leo Sommer",
+          "url": "https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp"
+        },
+        {
+          "name": "Dominikus Weilede",
+          "url": "https://open.spotify.com/artist/3ejpPZV1ryLgzJDy5TTlXM"
+        }
+      ],
+      "duration_ms": 181280,
+      "name": "Klingelingeling (feat. Dominikus Weilede)",
+      "url": "https://open.spotify.com/track/2dWJjYiKDaXp6cae2bc0tE"
+    },
+    {
+      "added_at": "2024-01-03 10:22:00",
+      "album": {
         "name": "Feste feiern auf dem singenden Bauernhof",
         "url": "https://open.spotify.com/album/4DhZY2INpjLXwEVkFFCTe9"
       },
@@ -707,30 +735,22 @@
     {
       "added_at": "2024-01-03 10:22:00",
       "album": {
-        "name": "Das Weihnachtsalbum Deluxe",
-        "url": "https://open.spotify.com/album/762Nb1p3l4wOFZln6B3ZTC"
+        "name": "Kinderleicht. Lieder und mehr f\u00fcr viele bunte Tage",
+        "url": "https://open.spotify.com/album/66mYdcrhSXTqbtTC186TkH"
       },
       "artists": [
         {
-          "name": "Bibi und Tina",
-          "url": "https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI"
+          "name": "Kinderchor SingsalaSing",
+          "url": "https://open.spotify.com/artist/4tfXVczfrMUFNCobyBj4Yi"
         },
         {
-          "name": "Peter Plate",
-          "url": "https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg"
-        },
-        {
-          "name": "Ulf Leo Sommer",
-          "url": "https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp"
-        },
-        {
-          "name": "Dominikus Weilede",
-          "url": "https://open.spotify.com/artist/3ejpPZV1ryLgzJDy5TTlXM"
+          "name": "Klaus Weigele",
+          "url": "https://open.spotify.com/artist/7Bv0lC7KPa4rmNJleQTVbS"
         }
       ],
-      "duration_ms": 181280,
-      "name": "Klingelingeling (feat. Dominikus Weilede)",
-      "url": "https://open.spotify.com/track/2dWJjYiKDaXp6cae2bc0tE"
+      "duration_ms": 86160,
+      "name": "Backe, backe Kuchen (I)",
+      "url": "https://open.spotify.com/track/3SHcYWCLndzjgQMLxPEKbp"
     },
     {
       "added_at": "2024-01-03 10:22:00",
@@ -771,26 +791,6 @@
     {
       "added_at": "2024-01-03 10:22:00",
       "album": {
-        "name": "Kinderleicht. Lieder und mehr f\u00fcr viele bunte Tage",
-        "url": "https://open.spotify.com/album/66mYdcrhSXTqbtTC186TkH"
-      },
-      "artists": [
-        {
-          "name": "Kinderchor SingsalaSing",
-          "url": "https://open.spotify.com/artist/4tfXVczfrMUFNCobyBj4Yi"
-        },
-        {
-          "name": "Klaus Weigele",
-          "url": "https://open.spotify.com/artist/7Bv0lC7KPa4rmNJleQTVbS"
-        }
-      ],
-      "duration_ms": 86160,
-      "name": "Backe, backe Kuchen (I)",
-      "url": "https://open.spotify.com/track/3SHcYWCLndzjgQMLxPEKbp"
-    },
-    {
-      "added_at": "2024-01-03 10:22:00",
-      "album": {
         "name": "Tanzbare Weihnachtslieder f\u00fcr Kinder",
         "url": "https://open.spotify.com/album/3BNlUuy3J6zs1ZIJ6Cykzw"
       },
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-01-03 10:22:00",
       "album": {
-        "name": "Endlich Winter!",
-        "url": "https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o"
-      },
-      "artists": [
-        {
-          "name": "herrH",
-          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
-        }
-      ],
-      "duration_ms": 183626,
-      "name": "Der Baum ist schief",
-      "url": "https://open.spotify.com/track/7eZRqdj8xOigSLusYhXL7F"
-    },
-    {
-      "added_at": "2024-01-03 10:22:00",
-      "album": {
         "name": "Eisb\u00e4r-Pinguin Rock",
         "url": "https://open.spotify.com/album/6hXLzTFy2ZHZYmFnFOe1uB"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 185454,
       "name": "Eisb\u00e4r-Pinguin Rock",
       "url": "https://open.spotify.com/track/18eVvbrJHnLSj4shiCB7iT"
+    },
+    {
+      "added_at": "2024-01-03 10:22:00",
+      "album": {
+        "name": "Endlich Winter!",
+        "url": "https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o"
+      },
+      "artists": [
+        {
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+        }
+      ],
+      "duration_ms": 183626,
+      "name": "Der Baum ist schief",
+      "url": "https://open.spotify.com/track/7eZRqdj8xOigSLusYhXL7F"
     },
     {
       "added_at": "2024-01-03 10:22:00",

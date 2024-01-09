@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtg7TV07mgz.md) - [plain]
 
 > Eliza Rose and Calvin Harris takeover with the ultimate selection of floorfillers! \#NYE2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,193,679 likes - 41 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,193,421 likes - 41 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtg7TV07mgz.md) - [plain]
 | 40 | [Venom](https://open.spotify.com/track/23jj1Cj8xfhRH1fg96GXER) | [CASISDEAD](https://open.spotify.com/artist/0n7CYdHaJm01NFXRhwbbKs) | [Famous Last Words](https://open.spotify.com/album/3aNfU7QqGoJrWbZEWUi879) | 3:52 |
 | 41 | [Blues For You \(Hard Dub\)](https://open.spotify.com/track/7IjUoVIhUaMQ0Hj7nIdT1P) | [Logic](https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT) | [Blues for You](https://open.spotify.com/album/2HrwuxTYrSqZ1CZcyr1ODA) | 4:29 |
 
-Snapshot ID: `MCxkODY5MjMzYjM5ZmFiMzNjODEzMTNkNzNhNzg0ZmUzN2Q2NDU1NTk0`
+Snapshot ID: `MCxjYzMxNWUyNzMxYmFmOWI1MzllOWE4ZGQ2YzQ1MjFhMWMxZGEzMjQ1`

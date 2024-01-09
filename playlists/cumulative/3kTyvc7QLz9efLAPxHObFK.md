@@ -4,7 +4,7 @@
 
 > 
 
-1,101 songs - 2 day 13 hr 53 min
+1,102 songs - 2 day 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -777,6 +777,7 @@
 | [Rain \- Eufeion Remix](https://open.spotify.com/track/2jbVtCWAHKoGbj793djWuF) | [Al Storm](https://open.spotify.com/artist/12CfGGtVpvaQVgoQaFy7kM), [Alison Wade](https://open.spotify.com/artist/3ydIKjvL4RC7Xo54jN3jJQ), [Eufeion](https://open.spotify.com/artist/7ykuX8JwiitjBbIMlGVH0B) | [In The Mix EP \- Series Two](https://open.spotify.com/album/2UroCgonuGEO1cVKeUN2P9) | 4:01 | 2023-02-06 |  |
 | [Rainbow Dream \- EXTENDED MIX](https://open.spotify.com/track/7fZABx3x5cbfshRJhvgXRb) | [DJ Genki](https://open.spotify.com/artist/787mj6iFvEpBBuQQRDdMXB), [Yukacco](https://open.spotify.com/artist/4zu3DQyVnu3BnzErDmPULM) | [ULTIMATE HAPPY CARNIVAL](https://open.spotify.com/album/1K5SbC5wm0foPdbjbKUnOn) | 3:59 | 2022-08-10 |  |
 | [Raise the Weapon](https://open.spotify.com/track/1mQj2BBE4y2sudqnbXOxWp) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Raise the Weapon](https://open.spotify.com/album/44mdm2yl9RaKKGlBCVzBV5) | 3:09 | 2023-07-21 |  |
+| [Rapid Fire](https://open.spotify.com/track/5c7hDErpdoe8O0SCR4DzvQ) | [Astro Blast](https://open.spotify.com/artist/1FyI6MTG6K4XJB7efaCoK4) | [Rapid Fire](https://open.spotify.com/album/2GKdTIMYEawezCoZK7OoS8) | 3:05 | 2024-01-08 |  |
 | [Rave All Night](https://open.spotify.com/track/5DRdNoPSdWzeRsjzE79iyL) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [Tamika](https://open.spotify.com/artist/6lLNAKhNy2T0B2TcVI3VVR) | [Rave All Night](https://open.spotify.com/album/7xFQUKfhmboxFwLbKUo08M) | 3:00 | 2023-12-08 |  |
 | [Rave Attack](https://open.spotify.com/track/6rcBZIphEyDAgSnAd8DyoN) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Rave Attack](https://open.spotify.com/album/3ydw3X5Ll5ZRd6DoP7TWzu) | 3:38 | 2023-04-21 |  |
 | [Rave CompleX](https://open.spotify.com/track/4pi13JFcTJwTy6QbQFH8ZW) | [KARUT](https://open.spotify.com/artist/2RVXnU56kIClg1UbAW9ehz) | [Beyond core EVANGELIX 01](https://open.spotify.com/album/5mFg1Tms9cKuoG2LsnIn1V) | 3:43 | 2022-02-22 |  |

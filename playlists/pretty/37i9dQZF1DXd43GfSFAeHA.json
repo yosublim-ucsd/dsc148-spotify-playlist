@@ -1,12 +1,12 @@
 {
   "description": "A selection of the finest Hip-Hop tracks from the illest Arab Rappers. Cover: Inkonnu & Sipo",
-  "num_followers": 128254,
+  "num_followers": 128172,
   "original_name": "Arab Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWEzNTVlOTk4MGJjODM2NzViNGNlNzcxMzZlYmU1NGI0ODZhMmFh",
+  "snapshot_id": "MCw2MzA5ZjQyN2NjN2MzMzUxMzdhZTI1YmUzMDA5NDUzZmNmYTU2ZTgy",
   "tracks": [
     {
       "added_at": "2023-12-28 08:22:10",
@@ -155,6 +155,22 @@
     {
       "added_at": "2023-12-28 08:22:10",
       "album": {
+        "name": "\u0622\u062e\u0631 \u0642\u0637\u0639\u0629 \u0641\u0646\u064a\u0629",
+        "url": "https://open.spotify.com/album/5YxBzNI1LIAI86UHm1kTrS"
+      },
+      "artists": [
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        }
+      ],
+      "duration_ms": 158586,
+      "name": "El Mabda2",
+      "url": "https://open.spotify.com/track/6m8vcn1JPflk8xBoFsaPDP"
+    },
+    {
+      "added_at": "2023-12-28 08:22:10",
+      "album": {
         "name": "Docteur (Spotify Singles)",
         "url": "https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig"
       },
@@ -239,38 +255,6 @@
     {
       "added_at": "2023-12-28 08:22:10",
       "album": {
-        "name": "\u0622\u062e\u0631 \u0642\u0637\u0639\u0629 \u0641\u0646\u064a\u0629",
-        "url": "https://open.spotify.com/album/5YxBzNI1LIAI86UHm1kTrS"
-      },
-      "artists": [
-        {
-          "name": "Marwan Pablo",
-          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
-        }
-      ],
-      "duration_ms": 158586,
-      "name": "El Mabda2",
-      "url": "https://open.spotify.com/track/6m8vcn1JPflk8xBoFsaPDP"
-    },
-    {
-      "added_at": "2023-12-28 08:22:10",
-      "album": {
-        "name": "WELD LAADOUL",
-        "url": "https://open.spotify.com/album/6K7uE5ShRxDxz9UWFMxSLx"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 218937,
-      "name": "WELD LAADOUL",
-      "url": "https://open.spotify.com/track/6Yu03XnLWHxvBPbu7tzYBe"
-    },
-    {
-      "added_at": "2023-12-28 08:22:10",
-      "album": {
         "name": "ZOK",
         "url": "https://open.spotify.com/album/0OcUHEVDLg623PN70lnoxb"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 177534,
       "name": "La Tete",
       "url": "https://open.spotify.com/track/5XXOa4ih4ELmoeY5G48Axk"
+    },
+    {
+      "added_at": "2023-12-28 08:22:10",
+      "album": {
+        "name": "WELD LAADOUL",
+        "url": "https://open.spotify.com/album/6K7uE5ShRxDxz9UWFMxSLx"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 218937,
+      "name": "WELD LAADOUL",
+      "url": "https://open.spotify.com/track/6Yu03XnLWHxvBPbu7tzYBe"
     },
     {
       "added_at": "2023-12-28 08:22:10",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-12-28 08:22:10",
       "album": {
+        "name": "Belad",
+        "url": "https://open.spotify.com/album/4dma2sup0ZuktV7iX08wdV"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "duration_ms": 170919,
+      "name": "Askot Khales",
+      "url": "https://open.spotify.com/track/2zdUvdGC4hwlYC1WjaFKCr"
+    },
+    {
+      "added_at": "2023-12-28 08:22:10",
+      "album": {
         "name": "JOUJ MIZAN",
         "url": "https://open.spotify.com/album/4GYRFzg6eT9WcyAkegwmdp"
       },
@@ -475,22 +491,6 @@
     {
       "added_at": "2023-12-28 08:22:10",
       "album": {
-        "name": "Belad",
-        "url": "https://open.spotify.com/album/4dma2sup0ZuktV7iX08wdV"
-      },
-      "artists": [
-        {
-          "name": "Afroto",
-          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
-        }
-      ],
-      "duration_ms": 170919,
-      "name": "Askot Khales",
-      "url": "https://open.spotify.com/track/2zdUvdGC4hwlYC1WjaFKCr"
-    },
-    {
-      "added_at": "2023-12-28 08:22:10",
-      "album": {
         "name": "Mangesto",
         "url": "https://open.spotify.com/album/3t3dNFtSlwC5UBg9fRgKi5"
       },
@@ -523,54 +523,6 @@
     {
       "added_at": "2023-12-28 08:22:10",
       "album": {
-        "name": "6G",
-        "url": "https://open.spotify.com/album/6myOlMXXWjwlOrz7xugqnj"
-      },
-      "artists": [
-        {
-          "name": "Samara",
-          "url": "https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm"
-        }
-      ],
-      "duration_ms": 176170,
-      "name": "6G",
-      "url": "https://open.spotify.com/track/5cDw3Icnxb1hB5XGBRzKer"
-    },
-    {
-      "added_at": "2023-12-28 08:22:10",
-      "album": {
-        "name": "SBITAR",
-        "url": "https://open.spotify.com/album/0EbC0buOp9FhVK3iT9XmZp"
-      },
-      "artists": [
-        {
-          "name": "Bo9al",
-          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
-        }
-      ],
-      "duration_ms": 169621,
-      "name": "SLOWLY",
-      "url": "https://open.spotify.com/track/65SmL7YPV13heKT147Fosp"
-    },
-    {
-      "added_at": "2023-12-28 08:22:10",
-      "album": {
-        "name": "I HATE SUMMER",
-        "url": "https://open.spotify.com/album/61vBMIBQl18SkGSUz3zIqt"
-      },
-      "artists": [
-        {
-          "name": "Vargas",
-          "url": "https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb"
-        }
-      ],
-      "duration_ms": 188040,
-      "name": "SOMNIFERE",
-      "url": "https://open.spotify.com/track/6tVgDhCCD1IVzsb7CH3FXv"
-    },
-    {
-      "added_at": "2023-12-28 08:22:10",
-      "album": {
         "name": "SWITCH",
         "url": "https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3"
       },
@@ -587,6 +539,38 @@
       "duration_ms": 134685,
       "name": "SAME3 EL HAKY",
       "url": "https://open.spotify.com/track/4TsCqhS1FsmVTXrNzjykbr"
+    },
+    {
+      "added_at": "2023-12-28 08:22:10",
+      "album": {
+        "name": "6G",
+        "url": "https://open.spotify.com/album/6myOlMXXWjwlOrz7xugqnj"
+      },
+      "artists": [
+        {
+          "name": "Samara",
+          "url": "https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm"
+        }
+      ],
+      "duration_ms": 176170,
+      "name": "6G",
+      "url": "https://open.spotify.com/track/5cDw3Icnxb1hB5XGBRzKer"
+    },
+    {
+      "added_at": "2023-12-28 08:22:10",
+      "album": {
+        "name": "I HATE SUMMER",
+        "url": "https://open.spotify.com/album/61vBMIBQl18SkGSUz3zIqt"
+      },
+      "artists": [
+        {
+          "name": "Vargas",
+          "url": "https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb"
+        }
+      ],
+      "duration_ms": 188040,
+      "name": "SOMNIFERE",
+      "url": "https://open.spotify.com/track/6tVgDhCCD1IVzsb7CH3FXv"
     },
     {
       "added_at": "2023-12-28 08:22:10",
@@ -623,6 +607,22 @@
     {
       "added_at": "2023-12-28 08:22:10",
       "album": {
+        "name": "Gezira",
+        "url": "https://open.spotify.com/album/7mt8YfjiZViWN7hSqAOEMk"
+      },
+      "artists": [
+        {
+          "name": "Muhab",
+          "url": "https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ"
+        }
+      ],
+      "duration_ms": 193743,
+      "name": "Gezira",
+      "url": "https://open.spotify.com/track/2ieg6nYrdrI4Em8nDV3Ddh"
+    },
+    {
+      "added_at": "2023-12-28 08:22:10",
+      "album": {
         "name": "3awdet Eldab3",
         "url": "https://open.spotify.com/album/3JtWRyNJQGsi9naZlMrOQv"
       },
@@ -635,6 +635,22 @@
       "duration_ms": 134634,
       "name": "Saye2 Souq",
       "url": "https://open.spotify.com/track/3qtXvNZ8bNIRfN6aYamUor"
+    },
+    {
+      "added_at": "2023-12-28 08:22:10",
+      "album": {
+        "name": "SBITAR",
+        "url": "https://open.spotify.com/album/0EbC0buOp9FhVK3iT9XmZp"
+      },
+      "artists": [
+        {
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+        }
+      ],
+      "duration_ms": 169621,
+      "name": "SLOWLY",
+      "url": "https://open.spotify.com/track/65SmL7YPV13heKT147Fosp"
     },
     {
       "added_at": "2023-12-28 08:22:10",
@@ -683,22 +699,6 @@
     {
       "added_at": "2023-12-28 08:22:10",
       "album": {
-        "name": "Gezira",
-        "url": "https://open.spotify.com/album/7mt8YfjiZViWN7hSqAOEMk"
-      },
-      "artists": [
-        {
-          "name": "Muhab",
-          "url": "https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ"
-        }
-      ],
-      "duration_ms": 193743,
-      "name": "Gezira",
-      "url": "https://open.spotify.com/track/2ieg6nYrdrI4Em8nDV3Ddh"
-    },
-    {
-      "added_at": "2023-12-28 08:22:10",
-      "album": {
         "name": "Algham",
         "url": "https://open.spotify.com/album/4Rt5knrXLMrv82PkbRawDb"
       },
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-12-28 08:22:10",
       "album": {
-        "name": "KALBI",
-        "url": "https://open.spotify.com/album/52C44WKKnzqgzbnTb5J5pt"
-      },
-      "artists": [
-        {
-          "name": "Shabjdeed",
-          "url": "https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95"
-        }
-      ],
-      "duration_ms": 165899,
-      "name": "KALBI",
-      "url": "https://open.spotify.com/track/5hUJkjeGR4CCyMmMLt9iLx"
-    },
-    {
-      "added_at": "2023-12-28 08:22:10",
-      "album": {
         "name": "Doppler",
         "url": "https://open.spotify.com/album/04m1uvsNNz7rofzN2SE37N"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 145321,
       "name": "Klashat",
       "url": "https://open.spotify.com/track/1gk3xYnAX39GZp6pKJYCgb"
+    },
+    {
+      "added_at": "2023-12-28 08:22:10",
+      "album": {
+        "name": "KALBI",
+        "url": "https://open.spotify.com/album/52C44WKKnzqgzbnTb5J5pt"
+      },
+      "artists": [
+        {
+          "name": "Shabjdeed",
+          "url": "https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95"
+        }
+      ],
+      "duration_ms": 165899,
+      "name": "KALBI",
+      "url": "https://open.spotify.com/track/5hUJkjeGR4CCyMmMLt9iLx"
     },
     {
       "added_at": "2023-12-28 08:22:10",
@@ -843,6 +843,26 @@
     {
       "added_at": "2023-12-28 08:22:10",
       "album": {
+        "name": "7abayby",
+        "url": "https://open.spotify.com/album/6j2XnIRR7YziaIoKRURo7x"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        },
+        {
+          "name": "Mostt",
+          "url": "https://open.spotify.com/artist/4xCFJxipdDrobk0MtuV84B"
+        }
+      ],
+      "duration_ms": 156267,
+      "name": "7abayby",
+      "url": "https://open.spotify.com/track/7dc5rPTGzN3WUXO717YWFc"
+    },
+    {
+      "added_at": "2023-12-28 08:22:10",
+      "album": {
         "name": "Helma",
         "url": "https://open.spotify.com/album/4ffyUt1pfPhGhPytnYaEcx"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 214222,
       "name": "Influenza",
       "url": "https://open.spotify.com/track/2UMihK8hP5rBZjw4iXDrvi"
-    },
-    {
-      "added_at": "2023-12-28 08:22:10",
-      "album": {
-        "name": "7abayby",
-        "url": "https://open.spotify.com/album/6j2XnIRR7YziaIoKRURo7x"
-      },
-      "artists": [
-        {
-          "name": "Abyusif",
-          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
-        },
-        {
-          "name": "Mostt",
-          "url": "https://open.spotify.com/artist/4xCFJxipdDrobk0MtuV84B"
-        }
-      ],
-      "duration_ms": 156267,
-      "name": "7abayby",
-      "url": "https://open.spotify.com/track/7dc5rPTGzN3WUXO717YWFc"
     }
   ],
   "unique_name": "Arab Hip-Hop",

@@ -1,12 +1,12 @@
 {
-  "description": "Check out the latest hits from Sandalwood!\nCover : Kaatera\n",
-  "num_followers": 56791,
+  "description": "Check out the latest hits from Sandalwood!\nCover : Bachelor Party\n",
+  "num_followers": 56815,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGNiYjk0YWMwMWU2MzUyYjlkNWU2MGM5NTMyY2ZlZjVkM2YyNWQy",
+  "snapshot_id": "MCxkZjllYTA1ODAxYTMzMmVlNTM3MDE3YzUwYjY3MDc5MGMzMmU3ZmVj",
   "tracks": [
     {
       "added_at": "2024-01-04 06:14:40",
@@ -97,6 +97,26 @@
       "url": "https://open.spotify.com/track/7CYORMdsL3mtZHXaUOCIrE"
     },
     {
+      "added_at": "2024-01-08 12:26:21",
+      "album": {
+        "name": "Haaruthidhe (From \"Cicada\")",
+        "url": "https://open.spotify.com/album/6fnxCJ8pDcFh5EIj6Axgnq"
+      },
+      "artists": [
+        {
+          "name": "Praveen Raveendran",
+          "url": "https://open.spotify.com/artist/5ATQFS0ejLfL3tKquLU0oX"
+        },
+        {
+          "name": "Sreejith Edavana",
+          "url": "https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg"
+        }
+      ],
+      "duration_ms": 161048,
+      "name": "Haaruthidhe (From \"Cicada\")",
+      "url": "https://open.spotify.com/track/7d1juAocG4g5cugWGWUfnL"
+    },
+    {
       "added_at": "2024-01-05 05:05:45",
       "album": {
         "name": "Thumbane Kelalaare (from\"Mafia\")",
@@ -119,6 +139,22 @@
       "duration_ms": 271291,
       "name": "Thumbane Kelalaare (from\"Mafia\")",
       "url": "https://open.spotify.com/track/1hLgsE5vtSB4WGa6G254md"
+    },
+    {
+      "added_at": "2024-01-08 05:16:40",
+      "album": {
+        "name": "Mugiyada Ee Mouna ( From \"Yaava Mohana Murali Kareithu\" )",
+        "url": "https://open.spotify.com/album/4ArFXtj1Y0fqg8Rntvl7Sr"
+      },
+      "artists": [
+        {
+          "name": "Anil CJ",
+          "url": "https://open.spotify.com/artist/06MUYjay1afxal0kI4n4nD"
+        }
+      ],
+      "duration_ms": 189546,
+      "name": "Mugiyada Ee Mouna ( From \"Yaava Mohana Murali Kareithu\" )",
+      "url": "https://open.spotify.com/track/4GfL2pMoV9ezqb96ghS0Sq"
     },
     {
       "added_at": "2024-01-05 11:04:23",
@@ -207,34 +243,26 @@
     {
       "added_at": "2024-01-03 06:57:22",
       "album": {
-        "name": "Koranaaru (From \"Captain Miller\")",
-        "url": "https://open.spotify.com/album/1wfA4rQQ1f79xEOxfvbB7y"
+        "name": "Ghora Hara (From \"Captain Miller\")",
+        "url": "https://open.spotify.com/album/6FEN1B46d7CuEKZ6Cw7kiH"
       },
       "artists": [
         {
-          "name": "Deva",
-          "url": "https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf"
-        },
-        {
-          "name": "Santhosh Hariharan",
-          "url": "https://open.spotify.com/artist/4nWXekqN93Tx8hJUJwR66n"
-        },
-        {
-          "name": "Alexander Babu",
-          "url": "https://open.spotify.com/artist/0GgNTvvyJMhQDwbr7PUnRG"
+          "name": "Rahul Sipligunj",
+          "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
         },
         {
           "name": "G. V. Prakash",
           "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
         },
         {
-          "name": "Uma Devi",
-          "url": "https://open.spotify.com/artist/2GOvdhofeVQ9pVgHP4K4vo"
+          "name": "Rakendu Mouli",
+          "url": "https://open.spotify.com/artist/2wBKMv1ci10ht9OqJzJBg8"
         }
       ],
       "duration_ms": 201777,
-      "name": "Koranaaru (From \"Captain Miller\")",
-      "url": "https://open.spotify.com/track/1hQCcHIb2x6NNrx547yTPP"
+      "name": "Ghora Hara (From \"Captain Miller\")",
+      "url": "https://open.spotify.com/track/6oqXn1XMRUhSfMPzG018qe"
     },
     {
       "added_at": "2023-12-21 09:15:43",
@@ -1691,30 +1719,6 @@
       "duration_ms": 242000,
       "name": "Aarambhaa - From \"Ardhambardha Premakathe \"",
       "url": "https://open.spotify.com/track/1FIrYDavVW04DfUaXAZ9VA"
-    },
-    {
-      "added_at": "2023-10-26 12:27:46",
-      "album": {
-        "name": "Sambanja Annodu Doddu Kana (From \"Tagaru Palya\")",
-        "url": "https://open.spotify.com/album/1oFAC88niTj949cpBlAWlg"
-      },
-      "artists": [
-        {
-          "name": "Vasuki Vaibhav",
-          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
-        },
-        {
-          "name": "Daali Dhananjaya",
-          "url": "https://open.spotify.com/artist/5mMIF7hi9U0WgMjhqHE0eQ"
-        },
-        {
-          "name": "Prems",
-          "url": "https://open.spotify.com/artist/3G7Az2OVHmqsad3NREZPYY"
-        }
-      ],
-      "duration_ms": 186260,
-      "name": "Sambanja Annodu Doddu Kana (From \"Tagaru Palya\")",
-      "url": "https://open.spotify.com/track/3BbIvJDP3w2ZxxC8EIflQT"
     }
   ],
   "unique_name": "Latest Kannada",

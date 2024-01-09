@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti! Novità rock, indie e punk dall'Italia\. Cover: Barkee Bay
 
-682 songs - 1 day 13 hr 51 min
+683 songs - 1 day 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,6 +364,7 @@
 | [Manichini](https://open.spotify.com/track/3jFISbW5Ok8RoS3XeDZLfe) | [Mondo Caos](https://open.spotify.com/artist/7cag8XwImcd0DgVSPtgNKP) | [Manichini](https://open.spotify.com/album/5zXmDgtt8EP1bzghLq7Ipc) | 3:25 | 2023-04-20 | 2023-05-12 |
 | [MANTRA](https://open.spotify.com/track/5OeXR8t6XNBJHabaybzknU) | [Isoladellerose](https://open.spotify.com/artist/0kLYaTmvi8RPAmOEgS2oRb) | [MANTRA](https://open.spotify.com/album/7LaUP7iIURuc6QPGSOPY2B) | 2:24 | 2023-10-19 | 2023-11-17 |
 | [Mare Forza 9oi](https://open.spotify.com/track/268q0mDTAs7O9ssY6KE1ZG) | [OMINI](https://open.spotify.com/artist/1YKbZY8iou4AeIGqicpwAq) | [Mare Forza 9oi](https://open.spotify.com/album/6wHu0paIJx1aiN3w3NyExG) | 2:43 | 2023-12-05 |  |
+| [Mare in Tempesta](https://open.spotify.com/track/2O814L7id34BCDXF0S5ukx) | [Pandorea](https://open.spotify.com/artist/6tWC5Umk7qZ8gOXZLFALvk) | [Mare in Tempesta](https://open.spotify.com/album/1LvR1uSENLaoldywyxt2Ci) | 3:21 | 2024-01-08 |  |
 | [Mare Motus](https://open.spotify.com/track/3H2CxeiT9ugpjgAuDcrtY1) | [Malmö](https://open.spotify.com/artist/6dHFhxw5uxV8SJtOmwbb3q) | [Zolfo](https://open.spotify.com/album/6IVY6UjSF6vwHzk9oQWHzm) | 4:05 | 2023-10-19 | 2023-11-10 |
 | [Mark Mothersbaugh Alterego](https://open.spotify.com/track/51AXx0yeXKZ9i87yvPwFF5) | [Yonic South](https://open.spotify.com/artist/1QRKC6oodMbGbuiTP2hmlg) | [Mark Mothersbaugh Alterego](https://open.spotify.com/album/47RiulSgSCvFPbzp11Qkf9) | 2:48 | 2023-01-12 | 2023-04-28 |
 | [Matador](https://open.spotify.com/track/5g0aCS1VkUjInpKZJ5sqZw) | [Bengala Fire](https://open.spotify.com/artist/5B516AbC2BhNio4qvbDdNb) | [Matador](https://open.spotify.com/album/2HU1bNOzJU13btY8KjjNIC) | 3:20 | 2022-07-21 | 2022-11-25 |

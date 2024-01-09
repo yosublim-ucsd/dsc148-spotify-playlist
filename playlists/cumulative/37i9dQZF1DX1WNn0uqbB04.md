@@ -4,7 +4,7 @@
 
 > El Tango está más vivo que nunca\. Disfrutá los clásicos en <a href="spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV">Tangos y Milongas</a>
 
-79 songs - 5 hr 0 min
+80 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Mundo Bizarro](https://open.spotify.com/track/7aqrgVAnsQ6PJD2kBo7JFb) | [Electro Dub Tango](https://open.spotify.com/artist/5Lgxp1cY9aLySrsmoWtQ3x) | [Electro Dub Tango](https://open.spotify.com/album/7hQ3XsiHgR5NFNF3MHHvBQ) | 4:06 | 2023-08-04 |  |
 | [Naranjo en Flor](https://open.spotify.com/track/11Wr4jrWK0DzEM03s28OOC) | [Ugo Mur](https://open.spotify.com/artist/1mYGDTWr3rwgypPbttgjkS) | [Naranjo en Flor](https://open.spotify.com/album/0tWoRmyt1H182J4jTeIwUT) | 3:17 | 2023-11-24 | 2023-12-16 |
 | [Oblivion](https://open.spotify.com/track/745ECNomCDA8KOMUM1sMdR) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q) | [Di Meola Plays Piazzolla](https://open.spotify.com/album/1z737UccnQ0DiLcSIdrpw0) | 6:03 | 2023-08-04 |  |
+| [Oblivion \- Instrumental](https://open.spotify.com/track/7HFLrJsVWyLK8AyUiRaytV) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Tanghetto Plays Piazzolla](https://open.spotify.com/album/06km1JOP7iUlcep3sSjrjj) | 4:51 | 2023-11-24 |  |
 | [Otra Luna](https://open.spotify.com/track/1rIJLWJngQGHXdoeF5EQre) | [Carlos Libedinsky](https://open.spotify.com/artist/70sNEhx3ntOpapyIUpL79n) | [Narcotango](https://open.spotify.com/album/38eacUHVe4O9Ovy7YxhedA) | 3:42 | 2023-08-04 |  |
 | [Pa' Bailar](https://open.spotify.com/track/6CT7lmMAco13bgfBotJweu) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O) | [Mar Dulce](https://open.spotify.com/album/1tEqTQTkgGkvQBIQZzggFA) | 3:58 | 2023-08-04 |  |
 | [Patotero Sentimental](https://open.spotify.com/track/6Lp2X06YCNEtLk2h4BVV54) | [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb), [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Patotero Sentimental](https://open.spotify.com/album/3reLc7DI5WhetVDHhGqLCM) | 2:59 | 2023-10-26 | 2024-01-07 |
@@ -76,7 +77,7 @@
 | [Tango del Falluto](https://open.spotify.com/track/1iT5XNmkXSDBUSBoSk2LSD) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Tango del Falluto](https://open.spotify.com/album/065br6DY3VQsvlio0EHar2) | 3:09 | 2023-08-04 | 2023-12-10 |
 | [Tanguera](https://open.spotify.com/track/2Bas5NJDcCXgJE3W48hbgV) | [Diego Schissi Quinteto](https://open.spotify.com/artist/4ot8iEVkzB5p3K18cnGRdZ) | [Tanguera](https://open.spotify.com/album/1u2zR173xUYZkfK6S4JudX) | 4:14 | 2023-08-04 |  |
 | [Taquito Militar](https://open.spotify.com/track/42czSuMf6exuMRamVGEuMb) | [Octavio Caruso](https://open.spotify.com/artist/48YWJAykmf4VvEhNaxcMzP) | [De Arrabal](https://open.spotify.com/album/0ji9m1iINGkLKPT375J7sq) | 2:43 | 2023-08-04 | 2023-11-14 |
-| [Tiempo \(Me Niego A Rendirme\) \[feat\. Abel Pintos\]](https://open.spotify.com/track/027J6JzyLXCWdG5dfuMLAd) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Tiempo \(Me Niego A Rendirme\) \[feat\. Abel Pintos\]](https://open.spotify.com/album/6ctAqEhLBzrUw3QytwLoh9) | 3:50 | 2023-08-04 |  |
+| [Tiempo \(Me Niego A Rendirme\) \[feat\. Abel Pintos\]](https://open.spotify.com/track/027J6JzyLXCWdG5dfuMLAd) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Tiempo \(Me Niego A Rendirme\) \[feat\. Abel Pintos\]](https://open.spotify.com/album/6ctAqEhLBzrUw3QytwLoh9) | 3:50 | 2023-08-04 | 2024-01-09 |
 | [Traje Unos Tangos](https://open.spotify.com/track/5NNgc8no4aMgbrCWQFkdZ7) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [Traje Unos Tangos](https://open.spotify.com/album/3AcBHnQqIHtKEnUNaTPEIl) | 2:31 | 2023-08-04 |  |
 | [Traje Unos Tangos/ Irresponsables/ Balada para un Loco \- Medley Premios Gardel](https://open.spotify.com/track/2kGq3Hvr0714szg3vpzkJa) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Cucuza Castiello](https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE), [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk) | [Traje Unos Tangos/ Irresponsables/ Balada para un Loco \(Medley Premios Gardel\)](https://open.spotify.com/album/6oXwPnW5e2VN6A5A71XiFV) | 3:31 | 2023-08-04 |  |
 | [Transtango](https://open.spotify.com/track/6ajUXYpxjeP6PrjJOoY0b2) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Reinventango](https://open.spotify.com/album/5jwhQjcZ5sIiNos3OfLwxi) | 4:19 | 2023-08-04 |  |

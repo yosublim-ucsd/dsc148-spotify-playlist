@@ -4,7 +4,7 @@
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Jammers
 
-193 songs - 11 hr 44 min
+194 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Adugaduguna Neetho Rana](https://open.spotify.com/track/21jacqxMqPfeoV59jySKz3) | [Shravan Goud Writes](https://open.spotify.com/artist/3kQsf3T9PJ698IGsPWWZGn) | [Adugaduguna Neetho Rana](https://open.spotify.com/album/2X9I5QqN8aykPDYOKkfA6f) | 3:45 | 2022-07-20 | 2023-05-30 |
 | [Adugu Adugu](https://open.spotify.com/track/09LRs4WvTtYN4GHlpIqX6z) | [Hari Prasad S](https://open.spotify.com/artist/70FMFT9gNlxFAWYHSVbVdK), [K\. Naga Himaja](https://open.spotify.com/artist/1nOBsOUX0CDS22XNEgzxUA) | [Adugu Adugu](https://open.spotify.com/album/0w49ZF6qJwzBuyw9FcCrAY) | 2:57 | 2023-05-26 |  |
 | [Alai Balai](https://open.spotify.com/track/6FrKmVd9tp2vygYXxcvHjV) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Alai Balai](https://open.spotify.com/album/1sdhNmeEMpP95ZuespP4VO) | 3:14 | 2022-07-18 |  |
+| [Aliveni](https://open.spotify.com/track/5mMk94mShBq7m9x8tYkMgb) | [Nutana Mohan](https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H) | [Aliveni](https://open.spotify.com/album/5TPEa7XFRVi8kgHCPeUjiQ) | 3:33 | 2024-01-08 |  |
 | [AMMA \- Janmaala Runamu Kanipinchava](https://open.spotify.com/track/14VaG9fGETELHF1EkbWO5N) | [S K Parth](https://open.spotify.com/artist/20dOeJHWEcApptyMznAnT3), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Vijaya Chandra](https://open.spotify.com/artist/4lQmxDaI0u0L1qlor7O2oC) | [AMMA \(Janmaala Runamu Kanipinchava\)](https://open.spotify.com/album/3aBG1lIVqPWTUQDphSNQXN) | 3:24 | 2023-05-16 |  |
 | [Andame](https://open.spotify.com/track/5CHTjwWyqr4uhkRWNcT3Vf) | [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM) | [Andame](https://open.spotify.com/album/7BP2lZYx8RrW8fICweQynt) | 3:28 | 2023-02-21 | 2023-11-21 |
 | [Andhami Swapnam](https://open.spotify.com/track/3tiYuEpEjZGuFLjfDf0UyX) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Andhami Swapnam](https://open.spotify.com/album/6IUYeqHEcXN6OYusVU3b8z) | 4:26 | 2023-05-02 |  |
@@ -131,8 +132,8 @@
 | [Oh Chitti](https://open.spotify.com/track/4CHbfbxAvRSowI8Xy0zraI) | [Oliver Kim](https://open.spotify.com/artist/4A4siCgJtEqDbtmotaNVgs) | [Oh Chitti](https://open.spotify.com/album/115UcJEPH2enKkLLLpgSny) | 3:13 | 2022-07-27 | 2023-05-23 |
 | [Ole Ole](https://open.spotify.com/track/44wZfxFJ6CbTavqxdbbHxz) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Pavani Vasa](https://open.spotify.com/artist/1D0MDMO4NBt3Fk2T3tCzbS) | [Ole Ole](https://open.spotify.com/album/3NeFI900xOcCuuYjxKr5xr) | 5:31 | 2023-10-13 |  |
 | [Ontari](https://open.spotify.com/track/6LpMArM5X2QCE12ZOPUsJZ) | [yogesh raj kumar](https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW) | [Ontari](https://open.spotify.com/album/7sz6bNnzgEIdHwPX9uI94Y) | 3:08 | 2023-07-27 | 2023-08-22 |
-| [Oohale Oosule](https://open.spotify.com/track/4lyl9K1D7syj1d0LL8nNGA) | [Anudeep Dev](https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql), [Lakshmi Meghana](https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN) | [Oohale Oosule](https://open.spotify.com/album/5p50H6A7erX9LKav26JdaF) | 2:51 | 2023-02-14 |  |
-| [Oopiriga](https://open.spotify.com/track/52E72LjUNeAmAmSUapKTZ0) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Oopiriga](https://open.spotify.com/album/4egLenJbozGwmXp5MomLqR) | 4:28 | 2023-06-04 |  |
+| [Oohale Oosule](https://open.spotify.com/track/4lyl9K1D7syj1d0LL8nNGA) | [Anudeep Dev](https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql), [Lakshmi Meghana](https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN) | [Oohale Oosule](https://open.spotify.com/album/5p50H6A7erX9LKav26JdaF) | 2:51 | 2023-02-14 | 2024-01-09 |
+| [Oopiriga](https://open.spotify.com/track/52E72LjUNeAmAmSUapKTZ0) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Oopiriga](https://open.spotify.com/album/4egLenJbozGwmXp5MomLqR) | 4:28 | 2023-06-04 | 2024-01-09 |
 | [Oorelipota Mama](https://open.spotify.com/track/3lQCnKafxZtct8QfsG6jog) | [Chowraasta](https://open.spotify.com/artist/7l8YWhszshSlwN43NtokOO) | [Oorellipota Mama](https://open.spotify.com/album/5WEUFAOSi07U29RKWNsKG9) | 2:46 | 2022-07-18 |  |
 | [Oota Neeru](https://open.spotify.com/track/1eod9PjVVcM8RmypcGANNm) | [Dhanunjay Seepana](https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0), [Chandana Harshitha](https://open.spotify.com/artist/7pNEV4axyRck6KYDP7URhU) | [Oota Neeru](https://open.spotify.com/album/5f61tdGpIcitAfRG1b28bG) | 5:25 | 2023-09-04 |  |
 | [Oota Neeru](https://open.spotify.com/track/1qHFXTlWexjlCZhcHSJX8e) | [Dhanunjay Seepana](https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0), [Chandana Harshitha](https://open.spotify.com/artist/7pNEV4axyRck6KYDP7URhU) | [Oota Neeru](https://open.spotify.com/album/6neziU9771kT7qum5sg6as) | 5:25 | 2023-09-04 | 2024-01-06 |

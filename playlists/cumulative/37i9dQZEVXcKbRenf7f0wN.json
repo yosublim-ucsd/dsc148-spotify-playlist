@@ -398,7 +398,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 239680,
       "name": "Advertencia",
       "url": "https://open.spotify.com/track/5wx3ecSkNWZomj1aMRGSfL"
@@ -470,7 +470,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-12",
+      "date_removed": null,
       "duration_ms": 163173,
       "name": "Aguaviva",
       "url": "https://open.spotify.com/track/5Z57F4xnFMrnJDW9YsAOlf"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-05",
+      "date_removed": null,
       "duration_ms": 268333,
       "name": "Al otro lado del silencio",
       "url": "https://open.spotify.com/track/6nZGegauhy3raLriPhGI6i"
@@ -816,7 +816,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 401186,
       "name": "Anesthesia",
       "url": "https://open.spotify.com/track/0c03LEUpwW0O2tmt0dfktG"
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 306000,
       "name": "Auto Rojo",
       "url": "https://open.spotify.com/track/5PSCWHpXi8I45NXURHyhBA"
@@ -2164,7 +2164,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 171988,
       "name": "Break - Live",
       "url": "https://open.spotify.com/track/1IkupPgkHxVxCAqGSBzSqS"
@@ -2272,7 +2272,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 283226,
       "name": "Burn in Hell",
       "url": "https://open.spotify.com/track/1aVChMRP6I3ViAIlnW3WYS"
@@ -2456,7 +2456,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 205824,
       "name": "Calibraciones (sin censura)",
       "url": "https://open.spotify.com/track/2mjMjovgyCRqEdLAe4NGv9"
@@ -2784,7 +2784,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 210426,
       "name": "Cha-Cha-Cha",
       "url": "https://open.spotify.com/track/2TuoRWJFfN2DRBNhEaoc6L"
@@ -3184,7 +3184,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 266760,
       "name": "Coraz\u00f3n contento",
       "url": "https://open.spotify.com/track/07oTWfPzkBAb8lfwU1nsnH"
@@ -4466,7 +4466,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 153000,
       "name": "El Amor No Es para M\u00ed",
       "url": "https://open.spotify.com/track/5wrFXPk9ia4soXqDmZYFlJ"
@@ -4484,7 +4484,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 306626,
       "name": "El Anillo del Capit\u00e1n Beto",
       "url": "https://open.spotify.com/track/23jMDvKil4frbTA35BVzBY"
@@ -4704,7 +4704,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 308323,
       "name": "El sonido de los helic\u00f3pteros",
       "url": "https://open.spotify.com/track/0MkwaxQXpUMfjtJbcZHubr"
@@ -4866,7 +4866,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 252866,
       "name": "En Tus Manos",
       "url": "https://open.spotify.com/track/28sKeAfc8lTSUsncvSro4f"
@@ -4992,7 +4992,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 203293,
       "name": "Esta luz nunca se apagar\u00e1 - There Is a Light That Never Goes Out",
       "url": "https://open.spotify.com/track/5kDvGOJLmYttWjHMcwxlT5"
@@ -5266,6 +5266,24 @@
       "duration_ms": 171734,
       "name": "Fire",
       "url": "https://open.spotify.com/track/2b3gYFVO0aKOYlbV9eRrfl"
+    },
+    {
+      "album": {
+        "name": "Sonic Temple",
+        "url": "https://open.spotify.com/album/1mq4iXRVf8lo5kAkeMa9aV"
+      },
+      "artists": [
+        {
+          "name": "The Cult",
+          "url": "https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307960,
+      "name": "Fire Woman",
+      "url": "https://open.spotify.com/track/2rbcCco3PrSyMinVJdh61J"
     },
     {
       "album": {
@@ -5666,6 +5684,24 @@
       "duration_ms": 413973,
       "name": "Gardenia",
       "url": "https://open.spotify.com/track/18EkFrYFOGyFK52iiWY8No"
+    },
+    {
+      "album": {
+        "name": "La Biblia",
+        "url": "https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6"
+      },
+      "artists": [
+        {
+          "name": "Vox Dei",
+          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398222,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/1cDLMjThGJp4btQTYNALjU"
     },
     {
       "album": {
@@ -7292,7 +7328,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 196013,
       "name": "Its a Heartache",
       "url": "https://open.spotify.com/track/3qJligJKHNE6Gvm5VHVlUe"
@@ -8096,7 +8132,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 268320,
       "name": "La Grasa de las Capitales",
       "url": "https://open.spotify.com/track/13dtguSlp2rssEcyxUyZVC"
@@ -8132,7 +8168,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 324808,
       "name": "La Leyenda del Hada y el Mago - Vivo",
       "url": "https://open.spotify.com/track/46nYeZImWSsOebaCUrfEW1"
@@ -8810,7 +8846,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 160995,
       "name": "Los Dos Gallos",
       "url": "https://open.spotify.com/track/4oP6TmXsfPrHzvsD3OwkgZ"
@@ -9098,7 +9134,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 259066,
       "name": "Mal De La Cabeza",
       "url": "https://open.spotify.com/track/7MZWoY8ZFqopFFVqbnv8Mc"
@@ -9334,7 +9370,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 199933,
       "name": "Me Gustas Mucho",
       "url": "https://open.spotify.com/track/2kB1rqoTaZ3j6ChtIWGurm"
@@ -10172,7 +10208,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 216573,
       "name": "Nada Cambi\u00f3 Mi Amor",
       "url": "https://open.spotify.com/track/5pG2M0EQRjTBaNcK1Ozoed"
@@ -11971,6 +12007,24 @@
     },
     {
       "album": {
+        "name": "Por Tu Honor",
+        "url": "https://open.spotify.com/album/139KGXxHg2hwbNrHrCfU12"
+      },
+      "artists": [
+        {
+          "name": "Horcas",
+          "url": "https://open.spotify.com/artist/0R0FEEepfDr3js3lsGPykq"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312800,
+      "name": "Punto Final",
+      "url": "https://open.spotify.com/track/69OfVtcwv0l9etxgk4q95y"
+    },
+    {
+      "album": {
         "name": "El Cantar de la Muerte",
         "url": "https://open.spotify.com/album/6iA7ZPMksHcMRRxSxCtTLP"
       },
@@ -11982,7 +12036,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 287760,
       "name": "Purgatorio",
       "url": "https://open.spotify.com/track/2rGcld3ZVXLjlGEZHWO8ZO"
@@ -12598,7 +12652,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "Rutina",
       "url": "https://open.spotify.com/track/7L3VPUjzc5RF61Da0bG5Mr"
@@ -13790,7 +13844,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 242600,
       "name": "Somos Uno",
       "url": "https://open.spotify.com/track/1wQqeNE9vcQARph6dhBuDf"
@@ -14554,6 +14608,24 @@
       "duration_ms": 182485,
       "name": "S\u00ed Po'",
       "url": "https://open.spotify.com/track/4SUxFLdV6bGJ6ITrseAzNW"
+    },
+    {
+      "album": {
+        "name": "22 Exitos Pajarones",
+        "url": "https://open.spotify.com/album/4AcLCsKockVEqQn6mdekU0"
+      },
+      "artists": [
+        {
+          "name": "Sinergia",
+          "url": "https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168306,
+      "name": "S\u00edndrome Camboya",
+      "url": "https://open.spotify.com/track/4IeiaAtPN6CWijJaW18N26"
     },
     {
       "album": {
@@ -15494,7 +15566,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 253960,
       "name": "Tommy The Cat",
       "url": "https://open.spotify.com/track/0kquzTsZG4m9qmLJaPSY9U"
@@ -16420,7 +16492,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 298400,
       "name": "Warmikuna Yupay-Chasqapuni Kasunchik",
       "url": "https://open.spotify.com/track/3BBuihi9T5iGaV0Tt0ht8V"
@@ -17126,7 +17198,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 189226,
       "name": "You Only Live Once",
       "url": "https://open.spotify.com/track/4fPBB44eDH71YohayI4eKV"

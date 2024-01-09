@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mi amooorrrrrr! Las canciones escritas por \"El Lujo de Sinaloa\".",
-  "num_followers": 41808,
+  "num_followers": 41833,
   "original_name": "Cancionero Joss Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjE3MWE3ZDgzOWI2NmJmNWU3NDBiZDZiZTJjMjBkMmIwMWQwOTA4",
+  "snapshot_id": "MCw0Y2Y5MGIxZjU2Zjg3MjE1YzJiNzFkODUzNmYzOTdkZGNkM2JjNDI0",
   "tracks": [
     {
       "added_at": "2022-01-25 18:24:05",
@@ -215,22 +215,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Mi Vicio M\u00e1s Grande",
-        "url": "https://open.spotify.com/album/4Tl5QOkNgX6INDWg6mMfZB"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 137173,
-      "name": "Mi Vicio M\u00e1s Grande",
-      "url": "https://open.spotify.com/track/3YrTZUat5cgeVhrxEZvG1d"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Caminando",
         "url": "https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 171000,
       "name": "Me Hubieras Dicho",
       "url": "https://open.spotify.com/track/0NEM7h8JdcCOO2JMs22ekV"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Mi Vicio M\u00e1s Grande",
+        "url": "https://open.spotify.com/album/4Tl5QOkNgX6INDWg6mMfZB"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 137173,
+      "name": "Mi Vicio M\u00e1s Grande",
+      "url": "https://open.spotify.com/track/3YrTZUat5cgeVhrxEZvG1d"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Hecho En M\u00e9xico",
-        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 193213,
-      "name": "A Qu\u00e9 Sabe El Olvido",
-      "url": "https://open.spotify.com/track/4I4smJ6xLCaLQmNYUTQg9R"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Hecho a Mano",
         "url": "https://open.spotify.com/album/4XQWbicaoDhiiqXEaxBciJ"
       },
@@ -387,18 +371,18 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "La Mejor Versi\u00f3n De M\u00ed",
-        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
+        "name": "Hecho En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 220186,
-      "name": "No Me Pidas Un Tiempo",
-      "url": "https://open.spotify.com/track/2Pkg9GrTgiMHXNG5oagxze"
+      "duration_ms": 193213,
+      "name": "A Qu\u00e9 Sabe El Olvido",
+      "url": "https://open.spotify.com/track/4I4smJ6xLCaLQmNYUTQg9R"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -467,8 +451,8 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Con Todas Las Fuerzas",
-        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
+        "name": "La Mejor Versi\u00f3n De M\u00ed",
+        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
       },
       "artists": [
         {
@@ -476,41 +460,9 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 170666,
-      "name": "Verme Brillar",
-      "url": "https://open.spotify.com/track/6ze9VusaYl2wjZjDAik7dr"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "Caminando",
-        "url": "https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl"
-      },
-      "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "La Magia de Tus Ojos",
-      "url": "https://open.spotify.com/track/16DU79T2PdFSdGf0Z59rr5"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "Quiero Que Vuelvas",
-        "url": "https://open.spotify.com/album/2lILQGv9BgTamuECgiljJX"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 156893,
-      "name": "Quiero Que Vuelvas",
-      "url": "https://open.spotify.com/track/4HZg5K3kyDlJoscAL5888V"
+      "duration_ms": 220186,
+      "name": "No Me Pidas Un Tiempo",
+      "url": "https://open.spotify.com/track/2Pkg9GrTgiMHXNG5oagxze"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -531,22 +483,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Ojos En Blanco",
-        "url": "https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 204413,
-      "name": "Ojos En Blanco",
-      "url": "https://open.spotify.com/track/5bURAR8Tswhcj1DAwCtoac"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Mi Vicio M\u00e1s Grande",
         "url": "https://open.spotify.com/album/4Tl5QOkNgX6INDWg6mMfZB"
       },
@@ -559,6 +495,22 @@
       "duration_ms": 182013,
       "name": "Si No Es Contigo",
       "url": "https://open.spotify.com/track/6zwhKdzJ4NXdY4HLU7pjns"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Caminando",
+        "url": "https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "La Magia de Tus Ojos",
+      "url": "https://open.spotify.com/track/16DU79T2PdFSdGf0Z59rr5"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -579,38 +531,18 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "\u00bfQui\u00e9n Pierde M\u00e1s?",
-        "url": "https://open.spotify.com/album/43bj9QP3hwY68to13K9TYZ"
+        "name": "Quiero Que Vuelvas",
+        "url": "https://open.spotify.com/album/2lILQGv9BgTamuECgiljJX"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 199800,
-      "name": "\u00bfQui\u00e9n Pierde M\u00e1s?",
-      "url": "https://open.spotify.com/track/0QINzFpxcbStmnHsf00khl"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "La Magia de Tus Ojos (Versi\u00f3n Pop)",
-        "url": "https://open.spotify.com/album/1CpCyWZRRyqOGAGIahFbph"
-      },
-      "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "La Magia de Tus Ojos - Versi\u00f3n Pop",
-      "url": "https://open.spotify.com/track/3GhOpiYR8x3fSTohVMHOWD"
+      "duration_ms": 156893,
+      "name": "Quiero Que Vuelvas",
+      "url": "https://open.spotify.com/track/4HZg5K3kyDlJoscAL5888V"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -631,6 +563,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
+        "name": "Ojos En Blanco",
+        "url": "https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 204413,
+      "name": "Ojos En Blanco",
+      "url": "https://open.spotify.com/track/5bURAR8Tswhcj1DAwCtoac"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
         "name": "Apur\u00e9 Mi Caf\u00e9",
         "url": "https://open.spotify.com/album/2REMNzHUcsxbQgxdB79wDh"
       },
@@ -647,34 +595,18 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Libre Otra Vez",
-        "url": "https://open.spotify.com/album/1JXt3Es9CECo7PuQv11Qja"
+        "name": "Con Todas Las Fuerzas",
+        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 156120,
-      "name": "Yo S\u00ed Te Am\u00e9",
-      "url": "https://open.spotify.com/track/7qTZWu7DZrNYEICoyeniG7"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "Rompiendo Fronteras",
-        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 180173,
-      "name": "Pude",
-      "url": "https://open.spotify.com/track/13vAioaFGieh0mfAF2pbjF"
+      "duration_ms": 170666,
+      "name": "Verme Brillar",
+      "url": "https://open.spotify.com/track/6ze9VusaYl2wjZjDAik7dr"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -695,6 +627,26 @@
       "duration_ms": 190813,
       "name": "Baile De Amor (feat. Joss Favela)",
       "url": "https://open.spotify.com/track/2mDx9l8mj3rn2NyVdzGq5n"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "La Magia de Tus Ojos (Versi\u00f3n Pop)",
+        "url": "https://open.spotify.com/album/1CpCyWZRRyqOGAGIahFbph"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "La Magia de Tus Ojos - Versi\u00f3n Pop",
+      "url": "https://open.spotify.com/track/3GhOpiYR8x3fSTohVMHOWD"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -727,6 +679,54 @@
       "duration_ms": 200580,
       "name": "Arrodillate",
       "url": "https://open.spotify.com/track/34waBSd6B1MQoGbjbuZ507"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "\u00bfQui\u00e9n Pierde M\u00e1s?",
+        "url": "https://open.spotify.com/album/43bj9QP3hwY68to13K9TYZ"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 199800,
+      "name": "\u00bfQui\u00e9n Pierde M\u00e1s?",
+      "url": "https://open.spotify.com/track/0QINzFpxcbStmnHsf00khl"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Rompiendo Fronteras",
+        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 180173,
+      "name": "Pude",
+      "url": "https://open.spotify.com/track/13vAioaFGieh0mfAF2pbjF"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Libre Otra Vez",
+        "url": "https://open.spotify.com/album/1JXt3Es9CECo7PuQv11Qja"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 156120,
+      "name": "Yo S\u00ed Te Am\u00e9",
+      "url": "https://open.spotify.com/track/7qTZWu7DZrNYEICoyeniG7"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -795,38 +795,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Con la Misma Sangre",
-        "url": "https://open.spotify.com/album/2S0gbkHu2C7AqHp6Z6n3ZO"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ortiz",
-          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
-        }
-      ],
-      "duration_ms": 167880,
-      "name": "La Ni\u00f1a Mas Linda",
-      "url": "https://open.spotify.com/track/5JF4ZaXGZF3s0KT3781RB6"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "Rompiendo Fronteras",
-        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 186773,
-      "name": "Inocente",
-      "url": "https://open.spotify.com/track/6cwPxkPg5Cf1Rb1mS4MZXY"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Globall",
         "url": "https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o"
       },
@@ -847,18 +815,18 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Percepc\u00edon",
-        "url": "https://open.spotify.com/album/6T90K6IjMkXv1JjRE8lXxB"
+        "name": "Con la Misma Sangre",
+        "url": "https://open.spotify.com/album/2S0gbkHu2C7AqHp6Z6n3ZO"
       },
       "artists": [
         {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "Kevin Ortiz",
+          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
         }
       ],
-      "duration_ms": 210133,
-      "name": "Nadie Es Indispensable",
-      "url": "https://open.spotify.com/track/1YvQNXGSTocdgQDDCa59Nf"
+      "duration_ms": 167880,
+      "name": "La Ni\u00f1a Mas Linda",
+      "url": "https://open.spotify.com/track/5JF4ZaXGZF3s0KT3781RB6"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -875,6 +843,22 @@
       "duration_ms": 177692,
       "name": "Como Vuelvo a Enamorarte",
       "url": "https://open.spotify.com/track/0NqdFAu5fsV6DFqpoIVJMp"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Rompiendo Fronteras",
+        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 186773,
+      "name": "Inocente",
+      "url": "https://open.spotify.com/track/6cwPxkPg5Cf1Rb1mS4MZXY"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -911,6 +895,22 @@
       "duration_ms": 233586,
       "name": "Si No Le Gustara",
       "url": "https://open.spotify.com/track/44kQi6Q5YUMSbZX25UFqbr"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Percepc\u00edon",
+        "url": "https://open.spotify.com/album/6T90K6IjMkXv1JjRE8lXxB"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Nadie Es Indispensable",
+      "url": "https://open.spotify.com/track/1YvQNXGSTocdgQDDCa59Nf"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Rompiendo Fronteras",
-        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 138346,
-      "name": "En Lo Correcto",
-      "url": "https://open.spotify.com/track/2ntKQlw7u1UrldD4Y3A9VD"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Vivir En Pecado",
         "url": "https://open.spotify.com/album/2o5S0ibYwO7QgrqZ0aevjW"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 187092,
       "name": "Mientes Muy Bonito",
       "url": "https://open.spotify.com/track/1QTWom4Tzef5oY0cPwABPs"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Rompiendo Fronteras",
+        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 138346,
+      "name": "En Lo Correcto",
+      "url": "https://open.spotify.com/track/2ntKQlw7u1UrldD4Y3A9VD"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
+        "name": "Ojos En Blanco",
+        "url": "https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "Te Lo Dije",
+      "url": "https://open.spotify.com/track/5Q0vLMYNUstQSbn4PbEDfK"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
         "name": "A Lo Grande",
         "url": "https://open.spotify.com/album/6DvZtJ6na362jKnXdmPyyf"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 158920,
       "name": "Ni Te Imaginas",
       "url": "https://open.spotify.com/track/2wJIqpXk7OGpwBxihlox6X"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "Ojos En Blanco",
-        "url": "https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Te Lo Dije",
-      "url": "https://open.spotify.com/track/5Q0vLMYNUstQSbn4PbEDfK"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
+        "name": "Ni Diablo Ni Santo",
+        "url": "https://open.spotify.com/album/6d1ddIAz1SXAim1sIXpksX"
+      },
+      "artists": [
+        {
+          "name": "Miguel Vaquero",
+          "url": "https://open.spotify.com/artist/3INA6stKspBOcR9NU0SEmQ"
+        }
+      ],
+      "duration_ms": 157071,
+      "name": "Ni Diablo Ni Santo",
+      "url": "https://open.spotify.com/track/425mEnEqn5N8tBUL9WfZoi"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
         "name": "Eternamente Mexicano",
         "url": "https://open.spotify.com/album/0xYEnJYnRgad7itSBrVQiT"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 214706,
       "name": "No Te Hagas La Fuerte",
       "url": "https://open.spotify.com/track/1L8T5KEkPQq9cjlFIBNy1U"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "Ni Diablo Ni Santo",
-        "url": "https://open.spotify.com/album/6d1ddIAz1SXAim1sIXpksX"
-      },
-      "artists": [
-        {
-          "name": "Miguel Vaquero",
-          "url": "https://open.spotify.com/artist/3INA6stKspBOcR9NU0SEmQ"
-        }
-      ],
-      "duration_ms": 157071,
-      "name": "Ni Diablo Ni Santo",
-      "url": "https://open.spotify.com/track/425mEnEqn5N8tBUL9WfZoi"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/3rgETN4XlGeTJaU4w1BfEO"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 200226,
+      "name": "Haciendo Historia",
+      "url": "https://open.spotify.com/track/4bfZ1tgMLB5MIzSOW1Anm7"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
         "name": "Para Ti Solita",
         "url": "https://open.spotify.com/album/5mrTSHwJlmGJbETmqY9xoe"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 187453,
       "name": "Buenos D\u00edas Mi Amor",
       "url": "https://open.spotify.com/track/7E0SZ6IsOiI4luYGSZFdk7"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "Haciendo Historia",
-        "url": "https://open.spotify.com/album/3rgETN4XlGeTJaU4w1BfEO"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 200226,
-      "name": "Haciendo Historia",
-      "url": "https://open.spotify.com/track/4bfZ1tgMLB5MIzSOW1Anm7"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "El Elegido",
-        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 197894,
-      "name": "A Donde Vamos",
-      "url": "https://open.spotify.com/track/3e7FMqkF9F8j6dBhAgU4wp"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Vivir En Pecado",
         "url": "https://open.spotify.com/album/2bWvpp8ZK3t2ONOR7cjNjC"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 192946,
       "name": "Vivir En Pecado",
       "url": "https://open.spotify.com/track/5PR6uzkU9z62LxkaBDWsPD"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "El Elegido",
+        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 197894,
+      "name": "A Donde Vamos",
+      "url": "https://open.spotify.com/track/3e7FMqkF9F8j6dBhAgU4wp"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Con la Misma Sangre",
-        "url": "https://open.spotify.com/album/2S0gbkHu2C7AqHp6Z6n3ZO"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ortiz",
-          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
-        }
-      ],
-      "duration_ms": 138333,
-      "name": "No Quieren",
-      "url": "https://open.spotify.com/track/5xNdBAnEva5RtzQGwF5Mky"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Voy A Calar Con Otra Boca",
         "url": "https://open.spotify.com/album/49WoR58Afq8N0ovC7OlJD9"
       },
@@ -1995,38 +1979,18 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Homenaje a Ariel Camacho",
-        "url": "https://open.spotify.com/album/7pwpQTvx8Mxa88wqkbHhNK"
+        "name": "Con la Misma Sangre",
+        "url": "https://open.spotify.com/album/2S0gbkHu2C7AqHp6Z6n3ZO"
       },
       "artists": [
         {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        },
-        {
-          "name": "Jose Manuel",
-          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
+          "name": "Kevin Ortiz",
+          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
         }
       ],
-      "duration_ms": 204990,
-      "name": "Arrodillate",
-      "url": "https://open.spotify.com/track/4Nv3atBnoqfT1Mrj9M40Nk"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "Quedamos",
-        "url": "https://open.spotify.com/album/6fpGT5CFKIEkYmesh6N4yA"
-      },
-      "artists": [
-        {
-          "name": "Cheyo Carrillo",
-          "url": "https://open.spotify.com/artist/0B3Y1kxlIzgb8enwxo7Kks"
-        }
-      ],
-      "duration_ms": 173586,
-      "name": "Me Toca Llorar",
-      "url": "https://open.spotify.com/track/6a7E7c016XBapSa7PbN6rq"
+      "duration_ms": 138333,
+      "name": "No Quieren",
+      "url": "https://open.spotify.com/track/5xNdBAnEva5RtzQGwF5Mky"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2043,6 +2007,26 @@
       "duration_ms": 200973,
       "name": "Recomi\u00e9ndame",
       "url": "https://open.spotify.com/track/5I1ikVYRkrFEFCz6NU58gx"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Homenaje a Ariel Camacho",
+        "url": "https://open.spotify.com/album/7pwpQTvx8Mxa88wqkbHhNK"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Jose Manuel",
+          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
+        }
+      ],
+      "duration_ms": 204990,
+      "name": "Arrodillate",
+      "url": "https://open.spotify.com/track/4Nv3atBnoqfT1Mrj9M40Nk"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2115,6 +2099,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
+        "name": "Quedamos",
+        "url": "https://open.spotify.com/album/6fpGT5CFKIEkYmesh6N4yA"
+      },
+      "artists": [
+        {
+          "name": "Cheyo Carrillo",
+          "url": "https://open.spotify.com/artist/0B3Y1kxlIzgb8enwxo7Kks"
+        }
+      ],
+      "duration_ms": 173586,
+      "name": "Me Toca Llorar",
+      "url": "https://open.spotify.com/track/6a7E7c016XBapSa7PbN6rq"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
         "name": "Homenaje a Nuestros Viejos",
         "url": "https://open.spotify.com/album/5yg8tnO0ySIDw3x3XvVkxG"
       },
@@ -2183,22 +2183,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Ni Mas Ni Menos",
-        "url": "https://open.spotify.com/album/65MUejXhBpin2l2N8x9Yk7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Escolta",
-          "url": "https://open.spotify.com/artist/4ZBmQM7663rZsb4Ir96awl"
-        }
-      ],
-      "duration_ms": 177141,
-      "name": "Disque Amigos",
-      "url": "https://open.spotify.com/track/1GyoVbDABGdeRu6TpQhql3"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "La Mejor Version de Mi (Banda)",
         "url": "https://open.spotify.com/album/0fvsbBzpx12Gc6x0unz1F3"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 207313,
       "name": "La Mejor Version de Mi (Banda)",
       "url": "https://open.spotify.com/track/16a21C1O3bOKAN3aSOupIT"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Ni Mas Ni Menos",
+        "url": "https://open.spotify.com/album/65MUejXhBpin2l2N8x9Yk7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Escolta",
+          "url": "https://open.spotify.com/artist/4ZBmQM7663rZsb4Ir96awl"
+        }
+      ],
+      "duration_ms": 177141,
+      "name": "Disque Amigos",
+      "url": "https://open.spotify.com/track/1GyoVbDABGdeRu6TpQhql3"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2407,6 +2407,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
+        "name": "Salud Por Nuestro 25 Aniversario",
+        "url": "https://open.spotify.com/album/5Y3BvSi0sEk25Mv0YEIsvO"
+      },
+      "artists": [
+        {
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+        }
+      ],
+      "duration_ms": 159413,
+      "name": "M\u00e1s Loca Que Yo",
+      "url": "https://open.spotify.com/track/5VUiQMg3cDaNVj1OZUSyGk"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
         "name": "Que la Quieran",
         "url": "https://open.spotify.com/album/7MmnatJ6aSMaZb36CY5s2Q"
       },
@@ -2443,6 +2459,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
+        "name": "Seguimos Firmes",
+        "url": "https://open.spotify.com/album/2gtuFY8OsphtndFOjLD0Du"
+      },
+      "artists": [
+        {
+          "name": "Banda Saucitos",
+          "url": "https://open.spotify.com/artist/0N20ZTWNbKIiHIwT4QH9UM"
+        }
+      ],
+      "duration_ms": 206928,
+      "name": "Vas a Recordarme",
+      "url": "https://open.spotify.com/track/68sLYh83RjZkPFlNg3cDR9"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
         "name": "Prohibido El Amor",
         "url": "https://open.spotify.com/album/4t5EkZNnFsqJLOlETpfgj9"
       },
@@ -2455,38 +2487,6 @@
       "duration_ms": 200983,
       "name": "Pude",
       "url": "https://open.spotify.com/track/7xVwmWF7flGqtWyaTOYcdA"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "Salud Por Nuestro 25 Aniversario",
-        "url": "https://open.spotify.com/album/5Y3BvSi0sEk25Mv0YEIsvO"
-      },
-      "artists": [
-        {
-          "name": "La Septima Banda",
-          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
-        }
-      ],
-      "duration_ms": 159413,
-      "name": "M\u00e1s Loca Que Yo",
-      "url": "https://open.spotify.com/track/5VUiQMg3cDaNVj1OZUSyGk"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "Ese Soy Yo",
-        "url": "https://open.spotify.com/album/0FTYEBALGZDLGgKzDFR5mk"
-      },
-      "artists": [
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 205146,
-      "name": "Si Te Ven Conmigo",
-      "url": "https://open.spotify.com/track/5krDJ8Za89PMJWtu40KbIU"
     }
   ],
   "unique_name": "Cancionero Joss Favela",

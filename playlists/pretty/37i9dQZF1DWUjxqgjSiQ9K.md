@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Nacho x Gilberto Daza x Alex Zurdo Foto: <a href="spotify:artist:6pdXxGaaEGf7huw3C6fz6a">Gilberto Daza,</a> <a href="spotify:artist:2ayNSoKPCRAfjp6hQ76hRu">Nacho,</a> <a href="spotify:artist:0WI8OfWCRvK4nGHmKfFQmd">Alex Zurdo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 601,298 likes - 99 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,630 likes - 99 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 98 | [Mi Alma Clama \(feat\. Laila Olivera\)](https://open.spotify.com/track/47ZJ19AEiODy34xxg8wFmr) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9), [Laila Olivera](https://open.spotify.com/artist/5VtJqt6InNwbrpeZ492kWX) | [Mi Alma Clama](https://open.spotify.com/album/5z2pRMl0mN3tQvJsZ1hbrI) | 8:18 |
 | 99 | [Cordero y León](https://open.spotify.com/track/0dw8miCVMqM1nHamZuf4wj) | [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h), [Joel Figueroa](https://open.spotify.com/artist/3QRS0RlYKcQFdr7X4pcE4V), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1), [Raffi Greco](https://open.spotify.com/artist/01p8kdKJ0NXFqKym7SlOza) | [FLUIR 2](https://open.spotify.com/album/5pLu7Ml14FuBK8wa5W4OlZ) | 5:13 |
 
-Snapshot ID: `MCwxODQ2MDQxMWQ0NDE3Y2U2NDlmMGM5OTFjZjNlODZjM2Q2MmUzOTc4`
+Snapshot ID: `MCxkMjcxYmRjZThiMTYxYjhmNWRkNjlkZTZmNTBiZjUzYzA4NDgzZmQw`

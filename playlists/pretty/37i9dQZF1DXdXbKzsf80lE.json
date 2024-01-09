@@ -1,12 +1,12 @@
 {
   "description": "Queeeima pared\u00e3o! Pra forrozeiro sofrer dan\u00e7ando e dan\u00e7ar sofrendo, bora.",
-  "num_followers": 228956,
+  "num_followers": 229137,
   "original_name": "Bora arrochar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWZmMjI3ZjEyMjI3NDRjYTQyNGY3MDdlZjcwNTQyODU0NWI5NmUy",
+  "snapshot_id": "MCw5ZDM0YWMyYmYyNzM5ODIzOWNhOTQyODY5MjE2MTA5YjJiYmU3Mzlm",
   "tracks": [
     {
       "added_at": "2023-10-23 12:32:56",
@@ -219,42 +219,6 @@
     {
       "added_at": "2023-10-23 12:32:56",
       "album": {
-        "name": "Piseiro 2020 Ao Vivo",
-        "url": "https://open.spotify.com/album/1xpVDIfB11DKa1P2YJDdJP"
-      },
-      "artists": [
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        }
-      ],
-      "duration_ms": 166837,
-      "name": "Recairei - Ao Vivo",
-      "url": "https://open.spotify.com/track/2JTir3y1VuJQmexiTCMcTP"
-    },
-    {
-      "added_at": "2023-10-23 12:32:56",
-      "album": {
-        "name": "Safad\u00e3o Amplificado",
-        "url": "https://open.spotify.com/album/4I44En3hzwqNsyvNrV0gEG"
-      },
-      "artists": [
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        },
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        }
-      ],
-      "duration_ms": 155341,
-      "name": "Ele \u00c9 Ele, Eu Sou Eu",
-      "url": "https://open.spotify.com/track/2vPRrOaM3zvPwrOHoIPjcF"
-    },
-    {
-      "added_at": "2023-10-23 12:32:56",
-      "album": {
         "name": "Piseiro Atualizado",
         "url": "https://open.spotify.com/album/3idY4AEprTpacZXWLQyHgn"
       },
@@ -267,6 +231,22 @@
       "duration_ms": 200890,
       "name": "Acaso",
       "url": "https://open.spotify.com/track/5AeydY71HZkZQ5dRHU9bHG"
+    },
+    {
+      "added_at": "2023-10-23 12:32:56",
+      "album": {
+        "name": "Piseiro 2020 Ao Vivo",
+        "url": "https://open.spotify.com/album/1xpVDIfB11DKa1P2YJDdJP"
+      },
+      "artists": [
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        }
+      ],
+      "duration_ms": 166837,
+      "name": "Recairei - Ao Vivo",
+      "url": "https://open.spotify.com/track/2JTir3y1VuJQmexiTCMcTP"
     },
     {
       "added_at": "2023-10-23 12:32:56",
@@ -307,22 +287,22 @@
     {
       "added_at": "2023-10-23 12:32:56",
       "album": {
-        "name": "A Nova Cara das Vaquejadas",
-        "url": "https://open.spotify.com/album/5cMhZUlCGsc1BN9bw10bqx"
+        "name": "Safad\u00e3o Amplificado",
+        "url": "https://open.spotify.com/album/4I44En3hzwqNsyvNrV0gEG"
       },
       "artists": [
         {
-          "name": "Tarc\u00edsio do Acordeon",
-          "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
         },
         {
-          "name": "Vitor Fernandes",
-          "url": "https://open.spotify.com/artist/3TJGVUkSJzk5ZPixMFczZX"
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
         }
       ],
-      "duration_ms": 258220,
-      "name": "N\u00eaga",
-      "url": "https://open.spotify.com/track/3b5iBusDt6w3EYuMuqIuL6"
+      "duration_ms": 155341,
+      "name": "Ele \u00c9 Ele, Eu Sou Eu",
+      "url": "https://open.spotify.com/track/2vPRrOaM3zvPwrOHoIPjcF"
     },
     {
       "added_at": "2023-10-23 12:32:56",
@@ -347,26 +327,6 @@
     {
       "added_at": "2023-10-23 12:32:56",
       "album": {
-        "name": "Se Joga no Passinho",
-        "url": "https://open.spotify.com/album/53gP1xGYGu9DHjiJB4Jo7t"
-      },
-      "artists": [
-        {
-          "name": "Brisa Star",
-          "url": "https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk"
-        },
-        {
-          "name": "Thiago Jhonathan (TJ)",
-          "url": "https://open.spotify.com/artist/0cZ0hBu2JZFT99wDzEfS89"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Se Joga no Passinho",
-      "url": "https://open.spotify.com/track/41pFFOnh1glVNIlrWOpBjb"
-    },
-    {
-      "added_at": "2023-10-23 12:32:56",
-      "album": {
         "name": "N\u00e3o Manda \u00c1udio",
         "url": "https://open.spotify.com/album/4TvJjBa84YCeR0DZKsnWFP"
       },
@@ -383,6 +343,46 @@
       "duration_ms": 194090,
       "name": "N\u00e3o Manda \u00c1udio",
       "url": "https://open.spotify.com/track/78qabjuI3mGUaREZk5hiEt"
+    },
+    {
+      "added_at": "2023-10-23 12:32:56",
+      "album": {
+        "name": "A Nova Cara das Vaquejadas",
+        "url": "https://open.spotify.com/album/5cMhZUlCGsc1BN9bw10bqx"
+      },
+      "artists": [
+        {
+          "name": "Tarc\u00edsio do Acordeon",
+          "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
+        },
+        {
+          "name": "Vitor Fernandes",
+          "url": "https://open.spotify.com/artist/3TJGVUkSJzk5ZPixMFczZX"
+        }
+      ],
+      "duration_ms": 258220,
+      "name": "N\u00eaga",
+      "url": "https://open.spotify.com/track/3b5iBusDt6w3EYuMuqIuL6"
+    },
+    {
+      "added_at": "2023-10-23 12:32:56",
+      "album": {
+        "name": "Se Joga no Passinho",
+        "url": "https://open.spotify.com/album/53gP1xGYGu9DHjiJB4Jo7t"
+      },
+      "artists": [
+        {
+          "name": "Brisa Star",
+          "url": "https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk"
+        },
+        {
+          "name": "Thiago Jhonathan (TJ)",
+          "url": "https://open.spotify.com/artist/0cZ0hBu2JZFT99wDzEfS89"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Se Joga no Passinho",
+      "url": "https://open.spotify.com/track/41pFFOnh1glVNIlrWOpBjb"
     },
     {
       "added_at": "2023-10-23 12:32:56",
@@ -439,26 +439,6 @@
     {
       "added_at": "2023-10-23 12:32:56",
       "album": {
-        "name": "Todos Os Ritmos",
-        "url": "https://open.spotify.com/album/2Jim2Tr9XtfwdDB5ZsmI6u"
-      },
-      "artists": [
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        },
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        }
-      ],
-      "duration_ms": 197233,
-      "name": "Ela Aperta a Minha Mente",
-      "url": "https://open.spotify.com/track/1T3hcBQRwacjWLuJJFt8co"
-    },
-    {
-      "added_at": "2023-10-23 12:32:56",
-      "album": {
         "name": "Comunica\u00e7\u00e3o Falhou (Ao Vivo)",
         "url": "https://open.spotify.com/album/6Dlff39auFLb9esJgg5Fgm"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 180410,
       "name": "Comunica\u00e7\u00e3o Falhou - Ao Vivo",
       "url": "https://open.spotify.com/track/55L3RVujZtkR96JIEgTbQg"
+    },
+    {
+      "added_at": "2023-10-23 12:32:56",
+      "album": {
+        "name": "Todos Os Ritmos",
+        "url": "https://open.spotify.com/album/2Jim2Tr9XtfwdDB5ZsmI6u"
+      },
+      "artists": [
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        },
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        }
+      ],
+      "duration_ms": 197233,
+      "name": "Ela Aperta a Minha Mente",
+      "url": "https://open.spotify.com/track/1T3hcBQRwacjWLuJJFt8co"
     },
     {
       "added_at": "2023-10-23 12:32:56",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-10-23 12:32:56",
       "album": {
+        "name": "Filho do Mato",
+        "url": "https://open.spotify.com/album/0Tut6XvdTp7sMHDNWo9G2r"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+        }
+      ],
+      "duration_ms": 172571,
+      "name": "Filho do Mato",
+      "url": "https://open.spotify.com/track/6cvFwzez8ZbEWPTs5A0vAm"
+    },
+    {
+      "added_at": "2023-10-23 12:32:56",
+      "album": {
         "name": "Cena de Amor",
         "url": "https://open.spotify.com/album/7x46uFO4ntA1LfbJt2VP3Y"
       },
@@ -571,22 +587,6 @@
     {
       "added_at": "2023-10-23 12:32:56",
       "album": {
-        "name": "Filho do Mato",
-        "url": "https://open.spotify.com/album/0Tut6XvdTp7sMHDNWo9G2r"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00ed Saia Rodada",
-          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
-        }
-      ],
-      "duration_ms": 172571,
-      "name": "Filho do Mato",
-      "url": "https://open.spotify.com/track/6cvFwzez8ZbEWPTs5A0vAm"
-    },
-    {
-      "added_at": "2023-10-23 12:32:56",
-      "album": {
         "name": "O Original",
         "url": "https://open.spotify.com/album/2v3K3T2LkhnYNlPhFI0yAZ"
       },
@@ -599,22 +599,6 @@
       "duration_ms": 167683,
       "name": "Let\u00edcia",
       "url": "https://open.spotify.com/track/1Qzse4pBfaUXY6wWOqYoRH"
-    },
-    {
-      "added_at": "2023-10-23 12:32:56",
-      "album": {
-        "name": "Ws Mais Uma Vez",
-        "url": "https://open.spotify.com/album/0cmScSlyjIcoBgz35qz9kg"
-      },
-      "artists": [
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        }
-      ],
-      "duration_ms": 163979,
-      "name": "S\u00f3 Pra Castigar",
-      "url": "https://open.spotify.com/track/1Qda9UHtYhe5KycSNXGT0J"
     },
     {
       "added_at": "2023-10-23 12:32:56",
@@ -635,6 +619,22 @@
       "duration_ms": 182976,
       "name": "Basta Voc\u00ea Me Ligar - Ao Vivo",
       "url": "https://open.spotify.com/track/3AV1KI22k1jGMz792lDrj1"
+    },
+    {
+      "added_at": "2023-10-23 12:32:56",
+      "album": {
+        "name": "Ws Mais Uma Vez",
+        "url": "https://open.spotify.com/album/0cmScSlyjIcoBgz35qz9kg"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "duration_ms": 163979,
+      "name": "S\u00f3 Pra Castigar",
+      "url": "https://open.spotify.com/track/1Qda9UHtYhe5KycSNXGT0J"
     },
     {
       "added_at": "2023-10-23 12:32:56",
@@ -699,22 +699,22 @@
     {
       "added_at": "2023-10-23 12:32:56",
       "album": {
-        "name": "Ws Sem Limites (De Luxe)",
-        "url": "https://open.spotify.com/album/1lSBPfQScnxvu24BbRQ2BD"
+        "name": "Mantenha Dist\u00e2ncia",
+        "url": "https://open.spotify.com/album/26GulP7pTxfqLFVgdAwJAS"
       },
       "artists": [
         {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+          "name": "Henry Freitas",
+          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
         },
         {
           "name": "Tarc\u00edsio do Acordeon",
           "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
         }
       ],
-      "duration_ms": 187942,
-      "name": "Ele N\u00e3o Te Merece",
-      "url": "https://open.spotify.com/track/48nxUG7ATqzudxNqzRXt4S"
+      "duration_ms": 145307,
+      "name": "Mantenha Dist\u00e2ncia",
+      "url": "https://open.spotify.com/track/4fs0ImTtUd9lfD7WA7edUX"
     },
     {
       "added_at": "2023-10-23 12:32:56",
@@ -739,22 +739,22 @@
     {
       "added_at": "2023-10-23 12:32:56",
       "album": {
-        "name": "Mantenha Dist\u00e2ncia",
-        "url": "https://open.spotify.com/album/26GulP7pTxfqLFVgdAwJAS"
+        "name": "Da Ro\u00e7a Pra Cidade (Ao Vivo), Vol. 02",
+        "url": "https://open.spotify.com/album/0EB9cgGjaXmq2YDrcpdSDE"
       },
       "artists": [
         {
-          "name": "Henry Freitas",
-          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
         },
         {
-          "name": "Tarc\u00edsio do Acordeon",
-          "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
+          "name": "Jorge",
+          "url": "https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ"
         }
       ],
-      "duration_ms": 145307,
-      "name": "Mantenha Dist\u00e2ncia",
-      "url": "https://open.spotify.com/track/4fs0ImTtUd9lfD7WA7edUX"
+      "duration_ms": 147875,
+      "name": "Quero Ver \u00e9 Me Esquecer (feat. Jorge) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2SUPbyD77tJuOUbqbxct6l"
     },
     {
       "added_at": "2023-10-23 12:32:56",
@@ -799,6 +799,26 @@
     {
       "added_at": "2023-10-23 12:32:56",
       "album": {
+        "name": "Ws Sem Limites (De Luxe)",
+        "url": "https://open.spotify.com/album/1lSBPfQScnxvu24BbRQ2BD"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        },
+        {
+          "name": "Tarc\u00edsio do Acordeon",
+          "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
+        }
+      ],
+      "duration_ms": 187942,
+      "name": "Ele N\u00e3o Te Merece",
+      "url": "https://open.spotify.com/track/48nxUG7ATqzudxNqzRXt4S"
+    },
+    {
+      "added_at": "2023-10-23 12:32:56",
+      "album": {
         "name": "Xperience Na Praia (ao Vivo)",
         "url": "https://open.spotify.com/album/04wtAfOnYEQvi7i6Iu9tA5"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 245653,
       "name": "Inquilina - Ao Vivo",
       "url": "https://open.spotify.com/track/0XwpOHWnRid52uc7IHSAot"
-    },
-    {
-      "added_at": "2023-10-23 12:32:56",
-      "album": {
-        "name": "Da Ro\u00e7a Pra Cidade (Ao Vivo), Vol. 02",
-        "url": "https://open.spotify.com/album/0EB9cgGjaXmq2YDrcpdSDE"
-      },
-      "artists": [
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        },
-        {
-          "name": "Jorge",
-          "url": "https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ"
-        }
-      ],
-      "duration_ms": 147875,
-      "name": "Quero Ver \u00e9 Me Esquecer (feat. Jorge) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2SUPbyD77tJuOUbqbxct6l"
     },
     {
       "added_at": "2023-10-23 12:32:56",
@@ -931,38 +931,6 @@
     {
       "added_at": "2023-10-23 12:32:56",
       "album": {
-        "name": "Errejota (ao Vivo)",
-        "url": "https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k"
-      },
-      "artists": [
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        }
-      ],
-      "duration_ms": 209717,
-      "name": "Casal Raiz - Ao Vivo",
-      "url": "https://open.spotify.com/track/37Xnka0c1qea5wagV91UIl"
-    },
-    {
-      "added_at": "2023-10-23 12:32:56",
-      "album": {
-        "name": "TBT WS 2 - Parte 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1tmO6NxvrqC1D3qBSEr43C"
-      },
-      "artists": [
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        }
-      ],
-      "duration_ms": 143349,
-      "name": "Fora do Eixo - Ao Vivo",
-      "url": "https://open.spotify.com/track/69PsZHMRxyHbCiBLtmUVPJ"
-    },
-    {
-      "added_at": "2023-10-23 12:32:56",
-      "album": {
         "name": "Vazou um \u00c1udio (Ao Vivo No Casa Filtr)",
         "url": "https://open.spotify.com/album/2oiBNvChBI8N5246RUSLsP"
       },
@@ -983,22 +951,6 @@
     {
       "added_at": "2023-10-23 12:32:56",
       "album": {
-        "name": "In Casa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1ZBklsn92ZRvr870yiKddF"
-      },
-      "artists": [
-        {
-          "name": "Anderson & Vei da Pisadinha",
-          "url": "https://open.spotify.com/artist/1OnaDJeU2PxDBZZFkzkvZl"
-        }
-      ],
-      "duration_ms": 173468,
-      "name": "Elas Gostam de Gasolina",
-      "url": "https://open.spotify.com/track/4fW46bnb4nD5JcMqK3kV5M"
-    },
-    {
-      "added_at": "2023-10-23 12:32:56",
-      "album": {
         "name": "A\u00f4 Saudade da M\u00e3e dos Meninos",
         "url": "https://open.spotify.com/album/2V9i8lh4qbIj6oLqECVS6k"
       },
@@ -1015,18 +967,50 @@
     {
       "added_at": "2023-10-23 12:32:56",
       "album": {
-        "name": "Eu Vou Tirar Voc\u00ea Do Cabar\u00e9",
-        "url": "https://open.spotify.com/album/1lGOvn3EJ2lWCxu5FEBqOK"
+        "name": "TBT WS 2 - Parte 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1tmO6NxvrqC1D3qBSEr43C"
       },
       "artists": [
         {
-          "name": "Israell Muniz",
-          "url": "https://open.spotify.com/artist/1GEoj0CGGUFSqnDepUa3o9"
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
         }
       ],
-      "duration_ms": 153021,
-      "name": "Eu Vou Tirar Voc\u00ea Do Cabar\u00e9",
-      "url": "https://open.spotify.com/track/0aU3kAN7Nxy2fS5mtii3wd"
+      "duration_ms": 143349,
+      "name": "Fora do Eixo - Ao Vivo",
+      "url": "https://open.spotify.com/track/69PsZHMRxyHbCiBLtmUVPJ"
+    },
+    {
+      "added_at": "2023-10-23 12:32:56",
+      "album": {
+        "name": "In Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ZBklsn92ZRvr870yiKddF"
+      },
+      "artists": [
+        {
+          "name": "Anderson & Vei da Pisadinha",
+          "url": "https://open.spotify.com/artist/1OnaDJeU2PxDBZZFkzkvZl"
+        }
+      ],
+      "duration_ms": 173468,
+      "name": "Elas Gostam de Gasolina",
+      "url": "https://open.spotify.com/track/4fW46bnb4nD5JcMqK3kV5M"
+    },
+    {
+      "added_at": "2023-10-23 12:32:56",
+      "album": {
+        "name": "Errejota (ao Vivo)",
+        "url": "https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k"
+      },
+      "artists": [
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        }
+      ],
+      "duration_ms": 209717,
+      "name": "Casal Raiz - Ao Vivo",
+      "url": "https://open.spotify.com/track/37Xnka0c1qea5wagV91UIl"
     },
     {
       "added_at": "2023-10-23 12:32:56",
@@ -1047,22 +1031,18 @@
     {
       "added_at": "2023-10-23 12:32:56",
       "album": {
-        "name": "A Dist\u00e2ncia T\u00e1 Maltratando",
-        "url": "https://open.spotify.com/album/7G059SfagKnzI5dOXhOyzN"
+        "name": "Eu Vou Tirar Voc\u00ea Do Cabar\u00e9",
+        "url": "https://open.spotify.com/album/1lGOvn3EJ2lWCxu5FEBqOK"
       },
       "artists": [
         {
-          "name": "MC G15",
-          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
-        },
-        {
-          "name": "MC Bruninho",
-          "url": "https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB"
+          "name": "Israell Muniz",
+          "url": "https://open.spotify.com/artist/1GEoj0CGGUFSqnDepUa3o9"
         }
       ],
-      "duration_ms": 167717,
-      "name": "A Dist\u00e2ncia T\u00e1 Maltratando",
-      "url": "https://open.spotify.com/track/5TE7Y9ycqyglDqKPEriXdR"
+      "duration_ms": 153021,
+      "name": "Eu Vou Tirar Voc\u00ea Do Cabar\u00e9",
+      "url": "https://open.spotify.com/track/0aU3kAN7Nxy2fS5mtii3wd"
     },
     {
       "added_at": "2023-10-23 12:32:56",
@@ -1083,6 +1063,26 @@
       "duration_ms": 258968,
       "name": "Agora Estou Sofrendo",
       "url": "https://open.spotify.com/track/18EfjSH1r9Jf6vx52eby5c"
+    },
+    {
+      "added_at": "2023-10-23 12:32:56",
+      "album": {
+        "name": "A Dist\u00e2ncia T\u00e1 Maltratando",
+        "url": "https://open.spotify.com/album/7G059SfagKnzI5dOXhOyzN"
+      },
+      "artists": [
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        },
+        {
+          "name": "MC Bruninho",
+          "url": "https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB"
+        }
+      ],
+      "duration_ms": 167717,
+      "name": "A Dist\u00e2ncia T\u00e1 Maltratando",
+      "url": "https://open.spotify.com/track/5TE7Y9ycqyglDqKPEriXdR"
     },
     {
       "added_at": "2023-10-23 12:32:56",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2023-10-23 12:32:56",
       "album": {
-        "name": "Saudade Braba",
-        "url": "https://open.spotify.com/album/58S6gDoCmBJHIhsAhjE75x"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00ed Saia Rodada",
-          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
-        },
-        {
-          "name": "Tony Guerra & Forr\u00f3 Sacode",
-          "url": "https://open.spotify.com/artist/1usT5Rtr5iz4gWLdkxIUhV"
-        }
-      ],
-      "duration_ms": 168658,
-      "name": "Amor de Rapariga",
-      "url": "https://open.spotify.com/track/1FM9CNCjobC3LSNEEKuPkd"
-    },
-    {
-      "added_at": "2023-10-23 12:32:56",
-      "album": {
         "name": "Ao Vivo Em S\u00e3o Paulo - Deluxe",
         "url": "https://open.spotify.com/album/4yqE9BgU3r6tMfR3cVhwEw"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 177280,
       "name": "Ent\u00e3o Vem C\u00e1 - Ao Vivo",
       "url": "https://open.spotify.com/track/1FIaoiLn0E5ilfE5T0P9xx"
+    },
+    {
+      "added_at": "2023-10-23 12:32:56",
+      "album": {
+        "name": "Saudade Braba",
+        "url": "https://open.spotify.com/album/58S6gDoCmBJHIhsAhjE75x"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+        },
+        {
+          "name": "Tony Guerra & Forr\u00f3 Sacode",
+          "url": "https://open.spotify.com/artist/1usT5Rtr5iz4gWLdkxIUhV"
+        }
+      ],
+      "duration_ms": 168658,
+      "name": "Amor de Rapariga",
+      "url": "https://open.spotify.com/track/1FM9CNCjobC3LSNEEKuPkd"
     },
     {
       "added_at": "2023-10-23 12:32:56",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-10-23 12:32:56",
       "album": {
+        "name": "Juramento do Dedinho",
+        "url": "https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0"
+      },
+      "artists": [
+        {
+          "name": "Mano Walter",
+          "url": "https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP"
+        }
+      ],
+      "duration_ms": 164808,
+      "name": "Juramento do Dedinho",
+      "url": "https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j"
+    },
+    {
+      "added_at": "2023-10-23 12:32:56",
+      "album": {
         "name": "O Maior Piseiro de Todos os Tempos!",
         "url": "https://open.spotify.com/album/0oxygTtCqNQwwgTd7xIezI"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 147424,
       "name": "Sextou",
       "url": "https://open.spotify.com/track/2N0Xa9oYEcL544AH2qVQME"
-    },
-    {
-      "added_at": "2023-10-23 12:32:56",
-      "album": {
-        "name": "Juramento do Dedinho",
-        "url": "https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0"
-      },
-      "artists": [
-        {
-          "name": "Mano Walter",
-          "url": "https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP"
-        }
-      ],
-      "duration_ms": 164808,
-      "name": "Juramento do Dedinho",
-      "url": "https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j"
     },
     {
       "added_at": "2023-10-23 12:32:56",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-10-23 12:32:56",
       "album": {
-        "name": "O Estouro das Vaquejadas",
-        "url": "https://open.spotify.com/album/0CgvVfyNywoIw0rcFsdgsD"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Vaqueiro",
-          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
-        }
-      ],
-      "duration_ms": 162721,
-      "name": "Decida",
-      "url": "https://open.spotify.com/track/26SiLqV7fI8m3ruKzI0hpz"
-    },
-    {
-      "added_at": "2023-10-23 12:32:56",
-      "album": {
         "name": "CP 25 Anos, Pt. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2aBcsCLnWCf002QuBJok53"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 144535,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/6TVLKukS66i3irRvWlt4j5"
+    },
+    {
+      "added_at": "2023-10-23 12:32:56",
+      "album": {
+        "name": "O Estouro das Vaquejadas",
+        "url": "https://open.spotify.com/album/0CgvVfyNywoIw0rcFsdgsD"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+        }
+      ],
+      "duration_ms": 162721,
+      "name": "Decida",
+      "url": "https://open.spotify.com/track/26SiLqV7fI8m3ruKzI0hpz"
     },
     {
       "added_at": "2023-10-23 12:32:56",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-10-23 12:32:56",
       "album": {
-        "name": "#REIDOPISEIRO: 2020.1",
-        "url": "https://open.spotify.com/album/7JgDhnzqUP4uWRqZysUWme"
-      },
-      "artists": [
-        {
-          "name": "Vitor Fernandes",
-          "url": "https://open.spotify.com/artist/3TJGVUkSJzk5ZPixMFczZX"
-        }
-      ],
-      "duration_ms": 137829,
-      "name": "O Matuto se Apaixonou",
-      "url": "https://open.spotify.com/track/5uZx1CIGYRK1TdPVg8l9YT"
-    },
-    {
-      "added_at": "2023-10-23 12:32:56",
-      "album": {
         "name": "Edilene",
         "url": "https://open.spotify.com/album/6WOKAQp9jXSSpICGAoEyPN"
       },
@@ -1503,18 +1487,18 @@
     {
       "added_at": "2023-10-23 12:32:56",
       "album": {
-        "name": "Imagina A Sentada \u2013 Spotify Singles",
-        "url": "https://open.spotify.com/album/2hOfhy0hVRFPtuhMTaBNjg"
+        "name": "#REIDOPISEIRO: 2020.1",
+        "url": "https://open.spotify.com/album/7JgDhnzqUP4uWRqZysUWme"
       },
       "artists": [
         {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+          "name": "Vitor Fernandes",
+          "url": "https://open.spotify.com/artist/3TJGVUkSJzk5ZPixMFczZX"
         }
       ],
-      "duration_ms": 184053,
-      "name": "Imagina A Sentada \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/2iJGrGll9mGg9pJCezwP85"
+      "duration_ms": 137829,
+      "name": "O Matuto se Apaixonou",
+      "url": "https://open.spotify.com/track/5uZx1CIGYRK1TdPVg8l9YT"
     },
     {
       "added_at": "2023-10-23 12:32:56",
@@ -1535,6 +1519,22 @@
     {
       "added_at": "2023-10-23 12:32:56",
       "album": {
+        "name": "Imagina A Sentada \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/2hOfhy0hVRFPtuhMTaBNjg"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 184053,
+      "name": "Imagina A Sentada \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/2iJGrGll9mGg9pJCezwP85"
+    },
+    {
+      "added_at": "2023-10-23 12:32:56",
+      "album": {
         "name": "Bom Dia",
         "url": "https://open.spotify.com/album/5Fxrlgctaae03u1eLNoW7W"
       },
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-10-23 12:32:56",
       "album": {
-        "name": "T\u00e1 Faltando Eu",
-        "url": "https://open.spotify.com/album/20jNvanEVYWQOAisswocMx"
-      },
-      "artists": [
-        {
-          "name": "Luan Estilizado",
-          "url": "https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc"
-        }
-      ],
-      "duration_ms": 148284,
-      "name": "T\u00e1 Faltando Eu",
-      "url": "https://open.spotify.com/track/3jr84zsemJUVRODvbteOoX"
-    },
-    {
-      "added_at": "2023-10-23 12:32:56",
-      "album": {
         "name": "Lovez\u00e3o da Porra",
         "url": "https://open.spotify.com/album/6K5XxHJwvR1F0EXQm3AcBO"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 179240,
       "name": "Lovez\u00e3o da Porra",
       "url": "https://open.spotify.com/track/3LrhQhUHudX7SOa2uYHO50"
+    },
+    {
+      "added_at": "2023-10-23 12:32:56",
+      "album": {
+        "name": "T\u00e1 Faltando Eu",
+        "url": "https://open.spotify.com/album/20jNvanEVYWQOAisswocMx"
+      },
+      "artists": [
+        {
+          "name": "Luan Estilizado",
+          "url": "https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc"
+        }
+      ],
+      "duration_ms": 148284,
+      "name": "T\u00e1 Faltando Eu",
+      "url": "https://open.spotify.com/track/3jr84zsemJUVRODvbteOoX"
     },
     {
       "added_at": "2023-10-23 12:32:56",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-10-23 12:32:56",
       "album": {
-        "name": "Acertou na Mosca",
-        "url": "https://open.spotify.com/album/5Jum3LSjwNFO8OxVo0PM2N"
-      },
-      "artists": [
-        {
-          "name": "Tierry",
-          "url": "https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8"
-        }
-      ],
-      "duration_ms": 142192,
-      "name": "Hb20",
-      "url": "https://open.spotify.com/track/4cjowWOdLUKomiRwhWpRXJ"
-    },
-    {
-      "added_at": "2023-10-23 12:32:56",
-      "album": {
         "name": "Matuto de Verdade",
         "url": "https://open.spotify.com/album/5u5l9acR8uBt6xtVFSdoF9"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 146240,
       "name": "Matuto de Verdade",
       "url": "https://open.spotify.com/track/4gryO2XRHDvVgDfAoxZCi4"
+    },
+    {
+      "added_at": "2023-10-23 12:32:56",
+      "album": {
+        "name": "Acertou na Mosca",
+        "url": "https://open.spotify.com/album/5Jum3LSjwNFO8OxVo0PM2N"
+      },
+      "artists": [
+        {
+          "name": "Tierry",
+          "url": "https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8"
+        }
+      ],
+      "duration_ms": 142192,
+      "name": "Hb20",
+      "url": "https://open.spotify.com/track/4cjowWOdLUKomiRwhWpRXJ"
     },
     {
       "added_at": "2023-10-23 12:32:56",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-10-23 12:32:56",
       "album": {
-        "name": "Voc\u00ea N\u00e3o Entende Nada - Spotify Singles",
-        "url": "https://open.spotify.com/album/0b4DyC3K4eWOsqXsq9GODW"
-      },
-      "artists": [
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        }
-      ],
-      "duration_ms": 165198,
-      "name": "Voc\u00ea N\u00e3o Entende Nada - Spotify Singles",
-      "url": "https://open.spotify.com/track/1cybtRrPQaec3kSihCYL55"
-    },
-    {
-      "added_at": "2023-10-23 12:32:56",
-      "album": {
         "name": "Hoje Tem",
         "url": "https://open.spotify.com/album/7L8dDLzAgwLjwflKixuoza"
       },
@@ -1715,18 +1699,18 @@
     {
       "added_at": "2023-10-23 12:32:56",
       "album": {
-        "name": "\u00c9 S\u00f3 Oi e Tchau",
-        "url": "https://open.spotify.com/album/1cRntUVNelLM02NrKFjYhV"
+        "name": "Voc\u00ea N\u00e3o Entende Nada - Spotify Singles",
+        "url": "https://open.spotify.com/album/0b4DyC3K4eWOsqXsq9GODW"
       },
       "artists": [
         {
-          "name": "Luan Estilizado",
-          "url": "https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc"
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
         }
       ],
-      "duration_ms": 207319,
-      "name": "\u00c9 S\u00f3 Oi e Tchau",
-      "url": "https://open.spotify.com/track/6V6Vgs8NDlYappnYAq0Syy"
+      "duration_ms": 165198,
+      "name": "Voc\u00ea N\u00e3o Entende Nada - Spotify Singles",
+      "url": "https://open.spotify.com/track/1cybtRrPQaec3kSihCYL55"
     },
     {
       "added_at": "2023-10-23 12:32:56",
@@ -1743,6 +1727,22 @@
       "duration_ms": 197701,
       "name": "Vaquejada Deixo N\u00e3o",
       "url": "https://open.spotify.com/track/7opFSfeMfpGF3KGByMeunX"
+    },
+    {
+      "added_at": "2023-10-23 12:32:56",
+      "album": {
+        "name": "\u00c9 S\u00f3 Oi e Tchau",
+        "url": "https://open.spotify.com/album/1cRntUVNelLM02NrKFjYhV"
+      },
+      "artists": [
+        {
+          "name": "Luan Estilizado",
+          "url": "https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc"
+        }
+      ],
+      "duration_ms": 207319,
+      "name": "\u00c9 S\u00f3 Oi e Tchau",
+      "url": "https://open.spotify.com/track/6V6Vgs8NDlYappnYAq0Syy"
     },
     {
       "added_at": "2023-10-23 12:32:56",

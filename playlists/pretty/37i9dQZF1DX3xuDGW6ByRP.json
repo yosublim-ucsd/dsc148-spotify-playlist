@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWQzYThjNThjNDMyN2NmN2E3MDIxNjE4NzMzZTA4NGFiMGZkZDc2",
+  "snapshot_id": "MCxmZjVjZmViODg5M2ZkNGI5NjkyYzI4NDU4YmQzZmM2NWRiMjk0ZDA4",
   "tracks": [
     {
       "added_at": "2024-01-05 14:33:05",
@@ -115,6 +115,22 @@
     {
       "added_at": "2024-01-05 14:33:05",
       "album": {
+        "name": "RUSH! (ARE U COMING?)",
+        "url": "https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 216997,
+      "name": "VALENTINE",
+      "url": "https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E"
+    },
+    {
+      "added_at": "2024-01-05 14:33:05",
+      "album": {
         "name": "Dilemma",
         "url": "https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 215021,
       "name": "Die 4 Me",
       "url": "https://open.spotify.com/track/6VYAzAQGFsfEAwdorQaZuU"
-    },
-    {
-      "added_at": "2024-01-05 14:33:05",
-      "album": {
-        "name": "RUSH! (ARE U COMING?)",
-        "url": "https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 216997,
-      "name": "VALENTINE",
-      "url": "https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E"
     },
     {
       "added_at": "2024-01-05 14:33:05",
@@ -231,6 +231,22 @@
     {
       "added_at": "2024-01-05 14:33:05",
       "album": {
+        "name": "THE LONELIEST",
+        "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 247067,
+      "name": "THE LONELIEST",
+      "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
+    },
+    {
+      "added_at": "2024-01-05 14:33:05",
+      "album": {
         "name": "Alone In A Crowd",
         "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 239011,
       "name": "Heart Attack - Rock Version",
       "url": "https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo"
-    },
-    {
-      "added_at": "2024-01-05 14:33:05",
-      "album": {
-        "name": "THE LONELIEST",
-        "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 247067,
-      "name": "THE LONELIEST",
-      "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
     },
     {
       "added_at": "2024-01-05 14:33:05",
@@ -331,6 +331,26 @@
       "duration_ms": 155495,
       "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
       "url": "https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep"
+    },
+    {
+      "added_at": "2024-01-05 14:33:05",
+      "album": {
+        "name": "GOSSIP (feat. Tom Morello)",
+        "url": "https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "duration_ms": 168280,
+      "name": "GOSSIP (feat. Tom Morello)",
+      "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
     },
     {
       "added_at": "2024-01-05 14:33:05",
@@ -411,26 +431,6 @@
       "duration_ms": 175997,
       "name": "lonely bitch",
       "url": "https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq"
-    },
-    {
-      "added_at": "2024-01-05 14:33:05",
-      "album": {
-        "name": "GOSSIP (feat. Tom Morello)",
-        "url": "https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        },
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        }
-      ],
-      "duration_ms": 168280,
-      "name": "GOSSIP (feat. Tom Morello)",
-      "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
     },
     {
       "added_at": "2024-01-05 14:33:05",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-01-05 14:33:05",
       "album": {
-        "name": "REVAMPED",
-        "url": "https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 227975,
-      "name": "Tell Me You Love Me - Rock Version",
-      "url": "https://open.spotify.com/track/327h326DnJvW5suWlUG8yp"
-    },
-    {
-      "added_at": "2024-01-05 14:33:05",
-      "album": {
         "name": "ur just horny",
         "url": "https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 178787,
       "name": "ur just horny",
       "url": "https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y"
+    },
+    {
+      "added_at": "2024-01-05 14:33:05",
+      "album": {
+        "name": "REVAMPED",
+        "url": "https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 227975,
+      "name": "Tell Me You Love Me - Rock Version",
+      "url": "https://open.spotify.com/track/327h326DnJvW5suWlUG8yp"
     },
     {
       "added_at": "2024-01-05 14:33:05",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-01-05 14:33:05",
       "album": {
-        "name": "V\u00caNUS\u2260netuno",
-        "url": "https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 173322,
-      "name": "K\u00c1LICE",
-      "url": "https://open.spotify.com/track/2XaMdvOBES7VhroymOTQzg"
-    },
-    {
-      "added_at": "2024-01-05 14:33:05",
-      "album": {
         "name": "Alive and Unwell",
         "url": "https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 121674,
       "name": "Alive and Unwell",
       "url": "https://open.spotify.com/track/4XFwLmozZe73WYcryOwhoh"
+    },
+    {
+      "added_at": "2024-01-05 14:33:05",
+      "album": {
+        "name": "V\u00caNUS\u2260netuno",
+        "url": "https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "duration_ms": 173322,
+      "name": "K\u00c1LICE",
+      "url": "https://open.spotify.com/track/2XaMdvOBES7VhroymOTQzg"
     },
     {
       "added_at": "2024-01-05 14:33:05",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-01-05 14:33:05",
       "album": {
-        "name": "o maior ot\u00e1rio da cidade",
-        "url": "https://open.spotify.com/album/7rcO22U358g8jL6dGkIEuj"
-      },
-      "artists": [
-        {
-          "name": "TINN",
-          "url": "https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq"
-        }
-      ],
-      "duration_ms": 168751,
-      "name": "o maior ot\u00e1rio da cidade",
-      "url": "https://open.spotify.com/track/7cxlbR75XRyHr9PbjqBfSc"
-    },
-    {
-      "added_at": "2024-01-05 14:33:05",
-      "album": {
         "name": "Exagerados",
         "url": "https://open.spotify.com/album/68sIZYDlwj9xRy06ENDGuF"
       },
@@ -703,6 +687,22 @@
     {
       "added_at": "2024-01-05 14:33:05",
       "album": {
+        "name": "o maior ot\u00e1rio da cidade",
+        "url": "https://open.spotify.com/album/7rcO22U358g8jL6dGkIEuj"
+      },
+      "artists": [
+        {
+          "name": "TINN",
+          "url": "https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq"
+        }
+      ],
+      "duration_ms": 168751,
+      "name": "o maior ot\u00e1rio da cidade",
+      "url": "https://open.spotify.com/track/7cxlbR75XRyHr9PbjqBfSc"
+    },
+    {
+      "added_at": "2024-01-05 14:33:05",
+      "album": {
         "name": "O Amor Machuca Demais",
         "url": "https://open.spotify.com/album/2FVmfh4CBS9MnwDaXvBCwB"
       },
@@ -715,38 +715,6 @@
       "duration_ms": 188638,
       "name": "O Amor Machuca Demais",
       "url": "https://open.spotify.com/track/1b6M0tk69Qrcz8lxHpU82U"
-    },
-    {
-      "added_at": "2024-01-05 14:33:05",
-      "album": {
-        "name": "Obscuro",
-        "url": "https://open.spotify.com/album/5Aj7XX2oSqwb5ZrxrntSb6"
-      },
-      "artists": [
-        {
-          "name": "Scalene",
-          "url": "https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z"
-        }
-      ],
-      "duration_ms": 218161,
-      "name": "Obscuro",
-      "url": "https://open.spotify.com/track/2Rh1qXTvyZ6u00yVS1kzhS"
-    },
-    {
-      "added_at": "2024-01-05 14:33:05",
-      "album": {
-        "name": "SEMPRE ESTRAGO TUDO + CARENTE PRA SEMPRE",
-        "url": "https://open.spotify.com/album/3ZMnjFJjAodqKyzFzn55kK"
-      },
-      "artists": [
-        {
-          "name": "Elana Dara",
-          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
-        }
-      ],
-      "duration_ms": 188729,
-      "name": "sempre estrago tudo",
-      "url": "https://open.spotify.com/track/1We5W9pJwrKFmFfI0c0v2y"
     },
     {
       "added_at": "2024-01-05 14:33:05",
@@ -767,18 +735,18 @@
     {
       "added_at": "2024-01-05 14:33:05",
       "album": {
-        "name": "n\u00e3o me importo mais",
-        "url": "https://open.spotify.com/album/741ZgcZ2POqxmqoHYAUxYG"
+        "name": "Obscuro",
+        "url": "https://open.spotify.com/album/5Aj7XX2oSqwb5ZrxrntSb6"
       },
       "artists": [
         {
-          "name": "Clarissa",
-          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+          "name": "Scalene",
+          "url": "https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z"
         }
       ],
-      "duration_ms": 156306,
-      "name": "n\u00e3o me importo mais",
-      "url": "https://open.spotify.com/track/2bYdCw0rlPBI404BQXTXUn"
+      "duration_ms": 218161,
+      "name": "Obscuro",
+      "url": "https://open.spotify.com/track/2Rh1qXTvyZ6u00yVS1kzhS"
     },
     {
       "added_at": "2024-01-05 14:33:05",
@@ -795,6 +763,38 @@
       "duration_ms": 194693,
       "name": "Fiz 18",
       "url": "https://open.spotify.com/track/5n1AS1Oea32B0HyXrEGArz"
+    },
+    {
+      "added_at": "2024-01-05 14:33:05",
+      "album": {
+        "name": "SEMPRE ESTRAGO TUDO + CARENTE PRA SEMPRE",
+        "url": "https://open.spotify.com/album/3ZMnjFJjAodqKyzFzn55kK"
+      },
+      "artists": [
+        {
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
+        }
+      ],
+      "duration_ms": 188729,
+      "name": "sempre estrago tudo",
+      "url": "https://open.spotify.com/track/1We5W9pJwrKFmFfI0c0v2y"
+    },
+    {
+      "added_at": "2024-01-05 14:33:05",
+      "album": {
+        "name": "n\u00e3o me importo mais",
+        "url": "https://open.spotify.com/album/741ZgcZ2POqxmqoHYAUxYG"
+      },
+      "artists": [
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "duration_ms": 156306,
+      "name": "n\u00e3o me importo mais",
+      "url": "https://open.spotify.com/track/2bYdCw0rlPBI404BQXTXUn"
     },
     {
       "added_at": "2024-01-05 14:33:05",
@@ -835,6 +835,22 @@
       "duration_ms": 235008,
       "name": "Dona da Minha Cabe\u00e7a",
       "url": "https://open.spotify.com/track/0a5bmaUCdiDzYMlebzehDV"
+    },
+    {
+      "added_at": "2024-01-05 14:33:05",
+      "album": {
+        "name": "T\u00c1 TODO MUNDO MAL",
+        "url": "https://open.spotify.com/album/5Rp68W7guN0S424dX70oRR"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "T\u00c1 TODO MUNDO MAL",
+      "url": "https://open.spotify.com/track/6RupKWYHDUq0dOdWLQUKcb"
     },
     {
       "added_at": "2024-01-05 14:33:05",
@@ -935,38 +951,6 @@
     {
       "added_at": "2024-01-05 14:33:05",
       "album": {
-        "name": "T\u00c1 TODO MUNDO MAL",
-        "url": "https://open.spotify.com/album/5Rp68W7guN0S424dX70oRR"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "T\u00c1 TODO MUNDO MAL",
-      "url": "https://open.spotify.com/track/6RupKWYHDUq0dOdWLQUKcb"
-    },
-    {
-      "added_at": "2024-01-05 14:33:05",
-      "album": {
-        "name": "DUBL\u00ca",
-        "url": "https://open.spotify.com/album/21nz8HbPqUOCkPRXbpH5jJ"
-      },
-      "artists": [
-        {
-          "name": "TINN",
-          "url": "https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq"
-        }
-      ],
-      "duration_ms": 178208,
-      "name": "DUBL\u00ca",
-      "url": "https://open.spotify.com/track/2P4Nbb8Gf5TX2JyBu0kuIY"
-    },
-    {
-      "added_at": "2024-01-05 14:33:05",
-      "album": {
         "name": "Muito Al\u00e9m",
         "url": "https://open.spotify.com/album/1FYjcxWp3R3dmBhjtjV3vo"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2024-01-05 14:33:05",
       "album": {
-        "name": "Tonto, Mole, Trouxa (e meio devagar)",
-        "url": "https://open.spotify.com/album/4n8PxOVREWt1CjeCKnJmYB"
+        "name": "DUBL\u00ca",
+        "url": "https://open.spotify.com/album/21nz8HbPqUOCkPRXbpH5jJ"
       },
       "artists": [
         {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+          "name": "TINN",
+          "url": "https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq"
         }
       ],
-      "duration_ms": 131986,
-      "name": "Tonto, Mole, Trouxa (e meio devagar)",
-      "url": "https://open.spotify.com/track/58SoniG3NQ8ZyyTr4jkU4P"
+      "duration_ms": 178208,
+      "name": "DUBL\u00ca",
+      "url": "https://open.spotify.com/track/2P4Nbb8Gf5TX2JyBu0kuIY"
     },
     {
       "added_at": "2024-01-05 14:33:05",
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2024-01-05 14:33:05",
       "album": {
-        "name": "Conto de Falhas",
-        "url": "https://open.spotify.com/album/4MaY416cpeCv9hmnGBfVzl"
+        "name": "Tonto, Mole, Trouxa (e meio devagar)",
+        "url": "https://open.spotify.com/album/4n8PxOVREWt1CjeCKnJmYB"
       },
       "artists": [
         {
-          "name": "lalalaura",
-          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
         }
       ],
-      "duration_ms": 156705,
-      "name": "Conto de Falhas",
-      "url": "https://open.spotify.com/track/4zCTi9gNDEDkgpknH0cfCy"
+      "duration_ms": 131986,
+      "name": "Tonto, Mole, Trouxa (e meio devagar)",
+      "url": "https://open.spotify.com/track/58SoniG3NQ8ZyyTr4jkU4P"
     },
     {
       "added_at": "2024-01-05 14:33:05",
@@ -1055,26 +1039,6 @@
     {
       "added_at": "2024-01-05 14:33:05",
       "album": {
-        "name": "CINZEIRO",
-        "url": "https://open.spotify.com/album/1PGgZ935Sqb7fKIZKyuMjQ"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        },
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "CINZEIRO",
-      "url": "https://open.spotify.com/track/5NBf1xo9YYuG0zPZDQ1Yca"
-    },
-    {
-      "added_at": "2024-01-05 14:33:05",
-      "album": {
         "name": "QUEM NUNCA??",
         "url": "https://open.spotify.com/album/5jOmOMFV9BbNxKHvmrddtV"
       },
@@ -1091,6 +1055,42 @@
       "duration_ms": 216255,
       "name": "QUEM NUNCA??",
       "url": "https://open.spotify.com/track/3LhSiMorC6IntBm252H00W"
+    },
+    {
+      "added_at": "2024-01-05 14:33:05",
+      "album": {
+        "name": "Conto de Falhas",
+        "url": "https://open.spotify.com/album/4MaY416cpeCv9hmnGBfVzl"
+      },
+      "artists": [
+        {
+          "name": "lalalaura",
+          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
+        }
+      ],
+      "duration_ms": 156705,
+      "name": "Conto de Falhas",
+      "url": "https://open.spotify.com/track/4zCTi9gNDEDkgpknH0cfCy"
+    },
+    {
+      "added_at": "2024-01-05 14:33:05",
+      "album": {
+        "name": "CINZEIRO",
+        "url": "https://open.spotify.com/album/1PGgZ935Sqb7fKIZKyuMjQ"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        },
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "CINZEIRO",
+      "url": "https://open.spotify.com/track/5NBf1xo9YYuG0zPZDQ1Yca"
     },
     {
       "added_at": "2024-01-05 14:33:05",
@@ -1143,66 +1143,22 @@
     {
       "added_at": "2024-01-05 14:33:05",
       "album": {
-        "name": "vc n gosta de garotas",
-        "url": "https://open.spotify.com/album/5b806Xi9jTAm6IPllA4tob"
+        "name": "Andar 14",
+        "url": "https://open.spotify.com/album/2ZaCdkFUHGtBohD7o763cK"
       },
       "artists": [
         {
-          "name": "lalalaura",
-          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "vc n gosta de garotas",
-      "url": "https://open.spotify.com/track/5UrGg0ymrA2Vu0eVT2rbr4"
-    },
-    {
-      "added_at": "2024-01-05 14:33:05",
-      "album": {
-        "name": "VERMELHO FAROL",
-        "url": "https://open.spotify.com/album/7Ab6Y2gxEck4TTtFhATBns"
-      },
-      "artists": [
+          "name": "Lucas Andrade",
+          "url": "https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm"
+        },
         {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+          "name": "Mayra",
+          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
         }
       ],
-      "duration_ms": 150884,
-      "name": "VERMELHO FAROL",
-      "url": "https://open.spotify.com/track/2gbLj4m0UZTFGlUvIBecAo"
-    },
-    {
-      "added_at": "2024-01-05 14:33:05",
-      "album": {
-        "name": "Depois das Seis",
-        "url": "https://open.spotify.com/album/4bUVDAco1dV2YNlaTqZma3"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 180488,
-      "name": "Depois Das Seis",
-      "url": "https://open.spotify.com/track/5yJdWFkwkD5JmFYojOeks6"
-    },
-    {
-      "added_at": "2024-01-05 14:33:05",
-      "album": {
-        "name": "FORA DE SI",
-        "url": "https://open.spotify.com/album/7xeqEfqU6k9VIbm9v9HD17"
-      },
-      "artists": [
-        {
-          "name": "Ci\u00e7a Moreira",
-          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
-        }
-      ],
-      "duration_ms": 142825,
-      "name": "FORA DE SI",
-      "url": "https://open.spotify.com/track/55Glu5AJDiVpUOLmxaTFoc"
+      "duration_ms": 173949,
+      "name": "Andar 14",
+      "url": "https://open.spotify.com/track/4mric8489EFF7DxpQfonKw"
     },
     {
       "added_at": "2024-01-05 14:33:05",
@@ -1223,22 +1179,66 @@
     {
       "added_at": "2024-01-05 14:33:05",
       "album": {
-        "name": "Andar 14",
-        "url": "https://open.spotify.com/album/2ZaCdkFUHGtBohD7o763cK"
+        "name": "Depois das Seis",
+        "url": "https://open.spotify.com/album/4bUVDAco1dV2YNlaTqZma3"
       },
       "artists": [
         {
-          "name": "Lucas Andrade",
-          "url": "https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm"
-        },
-        {
-          "name": "Mayra",
-          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
         }
       ],
-      "duration_ms": 173949,
-      "name": "Andar 14",
-      "url": "https://open.spotify.com/track/4mric8489EFF7DxpQfonKw"
+      "duration_ms": 180488,
+      "name": "Depois Das Seis",
+      "url": "https://open.spotify.com/track/5yJdWFkwkD5JmFYojOeks6"
+    },
+    {
+      "added_at": "2024-01-05 14:33:05",
+      "album": {
+        "name": "vc n gosta de garotas",
+        "url": "https://open.spotify.com/album/5b806Xi9jTAm6IPllA4tob"
+      },
+      "artists": [
+        {
+          "name": "lalalaura",
+          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "vc n gosta de garotas",
+      "url": "https://open.spotify.com/track/5UrGg0ymrA2Vu0eVT2rbr4"
+    },
+    {
+      "added_at": "2024-01-05 14:33:05",
+      "album": {
+        "name": "FORA DE SI",
+        "url": "https://open.spotify.com/album/7xeqEfqU6k9VIbm9v9HD17"
+      },
+      "artists": [
+        {
+          "name": "Ci\u00e7a Moreira",
+          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
+        }
+      ],
+      "duration_ms": 142825,
+      "name": "FORA DE SI",
+      "url": "https://open.spotify.com/track/55Glu5AJDiVpUOLmxaTFoc"
+    },
+    {
+      "added_at": "2024-01-05 14:33:05",
+      "album": {
+        "name": "VERMELHO FAROL",
+        "url": "https://open.spotify.com/album/7Ab6Y2gxEck4TTtFhATBns"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "duration_ms": 150884,
+      "name": "VERMELHO FAROL",
+      "url": "https://open.spotify.com/track/2gbLj4m0UZTFGlUvIBecAo"
     },
     {
       "added_at": "2024-01-05 14:33:05",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2024-01-05 14:33:05",
       "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF"
+      },
+      "artists": [
+        {
+          "name": "CHADY",
+          "url": "https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8"
+        }
+      ],
+      "duration_ms": 161866,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA"
+    },
+    {
+      "added_at": "2024-01-05 14:33:05",
+      "album": {
         "name": "Lugar no Espa\u00e7o",
         "url": "https://open.spotify.com/album/6h7anhprQcHLRifVe8fmQd"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 224043,
       "name": "Lugar no Espa\u00e7o",
       "url": "https://open.spotify.com/track/4bcfbp78ITZhEt0hkQzmXM"
-    },
-    {
-      "added_at": "2024-01-05 14:33:05",
-      "album": {
-        "name": "Maria",
-        "url": "https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF"
-      },
-      "artists": [
-        {
-          "name": "CHADY",
-          "url": "https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8"
-        }
-      ],
-      "duration_ms": 161866,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA"
     },
     {
       "added_at": "2024-01-05 14:33:05",

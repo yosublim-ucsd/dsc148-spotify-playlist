@@ -2,7 +2,7 @@
 
 ### [Yalla ](https://open.spotify.com/playlist/37i9dQZF1DX5cO1uP1XC1g)
 
-> The biggest Arabic hits all in one place\. Cover:  Ahmed Saad & Bahaa Sultan
+> The biggest Arabic hits all in one place\. Cover:  DYSTINCT
 
 351 songs - 21 hr 4 min
 

@@ -798,7 +798,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 87679,
       "name": "KAMI",
       "url": "https://open.spotify.com/track/6rm58LPjSArdS4zEHSKXDu"
@@ -827,6 +827,28 @@
     },
     {
       "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/1tIp3NC564c1P9njNFJAqS"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222784,
+      "name": "leavemealone",
+      "url": "https://open.spotify.com/track/7iUScoHKNJC5hqtA40vMlj"
+    },
+    {
+      "album": {
         "name": "LIE DOWN!",
         "url": "https://open.spotify.com/album/3ENTKZGQ72k4Pyp4sSQ2fj"
       },
@@ -842,7 +864,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 60000,
       "name": "LIE DOWN!",
       "url": "https://open.spotify.com/track/2RPe3OsUu4E4fDtmAlqh20"
@@ -1348,7 +1370,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 114624,
       "name": "Override",
       "url": "https://open.spotify.com/track/6O4oKV3btLiEtOgEuplIUn"

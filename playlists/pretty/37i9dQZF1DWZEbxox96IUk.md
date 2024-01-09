@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEbxox96IUk.md) - [plain]
 
 > C'est parti pour une nuit de folie ! Photo : Gilbert Montagné
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,683 likes - 60 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,688 likes - 60 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEbxox96IUk.md) - [plain]
 | 59 | [Pour le plaisir](https://open.spotify.com/track/3UbjLaV37WezwuvT2pdsIL) | [Herbert Léonard](https://open.spotify.com/artist/2VsTgQUocqoaXjLG5YerlB) | [Best of Herbert Léonard](https://open.spotify.com/album/6ZudFHSwgkQxsmCDwjHSRX) | 3:48 |
 | 60 | [A caus' des garçons \- Radio Version](https://open.spotify.com/track/6qVHavRuhCeoNq66osK4cL) | [A Caus' Des Garçons](https://open.spotify.com/artist/44rIoyd04L9FBK4P8zrodX) | [A caus' des garçons](https://open.spotify.com/album/2Pd31sl13MAvyawXBToJi7) | 4:13 |
 
-Snapshot ID: `MCw2ZDNjNDY0OTVmNmIwZTdmZTFmYTE0ZmI1ZTY3MDdkYjE1MWVhMDIz`
+Snapshot ID: `MCw1Yjk5MzVkNmFkNDIxMDg3MWMxNWZlMGE1N2ZhMDM2YjEyZGE2YWY0`

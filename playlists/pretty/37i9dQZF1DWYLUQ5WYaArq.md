@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > new year new you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,358 likes - 53 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,263 likes - 53 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 | 52 | [Don't Worry Bout' It](https://open.spotify.com/track/2rQeFGncnaNWs8PHx745DJ) | [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp) | [Don't Worry Bout' It](https://open.spotify.com/album/6LSr08dFwmtWiLW2kxxbgm) | 4:13 |
 | 53 | [I Won't Back Down](https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 2:58 |
 
-Snapshot ID: `MCwyYWM1YmJmZjEzOTBkYjFlNWYzNzBhYzRmMjIwNzg4ZmU3NjQzNjM2`
+Snapshot ID: `MCw1NjY3ODQ1ZTJiZTAwZTRkZTVjOGRjMGUyOWFlODUyYjY4NjAxZGE4`

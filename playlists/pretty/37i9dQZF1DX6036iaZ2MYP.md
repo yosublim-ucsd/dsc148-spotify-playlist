@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Babyboy AV
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,568 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,636 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Fakosi](https://open.spotify.com/track/21c4uTFmR8UccKjYoG8Mvn) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Fakosi](https://open.spotify.com/album/50K8OYdwAczPTxrEYoZCmB) | 2:45 |
 | 50 | [Spiritual Gangsta](https://open.spotify.com/track/17CeZUGav0EA8irJdBHjwB) | [Lhiroyd](https://open.spotify.com/artist/30ISUZ5Xkto4CyeClftpG8) | [Spiritual Gangsta](https://open.spotify.com/album/4FuhmRwDg6qdKuCS1RPPak) | 2:22 |
 
-Snapshot ID: `MCwyNTZlYjA2MjA3YTlhNjA2YzQxYjk2ZGZkMzM0NTIxZGZmNzBiZjcz`
+Snapshot ID: `MCwxNjBjMTQ0NDc0OThmZmI5Y2I3NmNjMmUyOGY3MTBiY2E1YzgyNjcx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > The top 100 tracks from Fresh Finds Rock in 2023\. Cover: Teen Jesus and the Jean Teasers
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,887 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,935 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 18 | [The Implication](https://open.spotify.com/track/5KUK7rDJuv28K10lb1gM7r) | [Parrotfish](https://open.spotify.com/artist/3sXsp1NdreMl6Pa5Lf20qz) | [The Implication](https://open.spotify.com/album/1VClvNAguEbfccrbmcJwtf) | 3:45 |
 | 19 | [Trying](https://open.spotify.com/track/4tVcX8MGswvfbfESHIChzH) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Trying](https://open.spotify.com/album/2apgxM7pfYfejgrPg4N6cB) | 3:46 |
 | 20 | [Sandcastle](https://open.spotify.com/track/4hmTzkEtFi3ZH58lKJeW1G) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Sandcastle](https://open.spotify.com/album/2PPyaxI6VYNSGJZM8XaVlT) | 2:53 |
-| 21 | [Up and Comer](https://open.spotify.com/track/2yiJ9gzRISi4P04GRBDtos) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Shadow of a Doubt](https://open.spotify.com/album/724kt4OSnlasKT95uIfzfk) | 3:46 |
+| 21 | [Up and Comer](https://open.spotify.com/track/469d5BNae99knRggeaqA0n) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:46 |
 | 22 | [Blood Rushes](https://open.spotify.com/track/51IU4G5kECZsUHX2kT1OU3) | [CIVIC](https://open.spotify.com/artist/7ATw5ZiG6dfYFUUVpCsyFe) | [Taken By Force](https://open.spotify.com/album/1NUubkYUM67c9aG6jZ65Jv) | 3:33 |
 | 23 | [Give Me A Bite](https://open.spotify.com/track/0K6VAdBdFQa2wDOhGV4qj2) | [C.O.F.F.I.N](https://open.spotify.com/artist/0YSaA3PB82JjyHSPq30lO3) | [Give Me A Bite](https://open.spotify.com/album/6Lx2ZHOfqm0U2EdhaMseAM) | 4:16 |
 | 24 | [Vacant](https://open.spotify.com/track/2Rm5HFAH6wT1UoQCAGLwKU) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Limousine](https://open.spotify.com/album/1VPZZCdbX5Op6uDB1l1eqh) | 2:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [Something In The Water](https://open.spotify.com/track/4pqpN4f0Xc3pohLirRpOmW) | [Cut Your Losses](https://open.spotify.com/artist/5W1LmT1urRaRm1Ogmnzfy5) | [Reflections of Ghosts](https://open.spotify.com/album/1IQzAFfPXDlfLRItASyrj0) | 4:01 |
 | 100 | [Lucky You](https://open.spotify.com/track/5dourGbYNsSbm3V3KTzHMK) | [Joiner](https://open.spotify.com/artist/7JlMMmd03EDX3KupBZwN4d) | [Lucky You](https://open.spotify.com/album/0fBqr043kzBtPLdorWFQNt) | 2:44 |
 
-Snapshot ID: `MCxkNjNkM2IxMzU1MzJjZWZjY2ZiOTUyZGJlZGE4ZjdlNmE3ZDBmOGI1`
+Snapshot ID: `MCxjOWFkZmQ4YzI3YWNjYjgxNTNlMmFiNjU0MzJlN2U2OTUzNDhlOWQ5`

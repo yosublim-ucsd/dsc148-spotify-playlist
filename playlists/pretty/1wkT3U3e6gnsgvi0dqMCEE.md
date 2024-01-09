@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1wkT3U3e6gnsgvi0dqMCEE.md) - [plain]
 
 > The best of Alternative &amp; Rock from the 2000's including Jimmy Eat World, The Killers, Nickelback and more! Cover: Empire of the Sun
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 3,822 likes - 81 songs - 5 hr 4 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 3,820 likes - 81 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

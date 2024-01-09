@@ -1,12 +1,12 @@
 {
   "description": "Dreamy melodies and hushed vocals.  Cover: Clairo",
-  "num_followers": 1104232,
+  "num_followers": 1104241,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGE5NzZmMmNjYWZjNWQ4M2JhMTlhMmI0M2MxZTQyOGFmNmM2MGQ4",
+  "snapshot_id": "MCwzMDI2ZTZkYjRkZmFiNjk0NWM2NTE0NjVhMjA5NjVkOTJjOGViNDFk",
   "tracks": [
     {
       "added_at": "2023-10-19 19:03:47",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
+        "name": "4EVER",
+        "url": "https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 159595,
+      "name": "4EVER",
+      "url": "https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
         "name": "i'll be okay",
         "url": "https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 146240,
       "name": "Mosquito",
       "url": "https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
-        "name": "4EVER",
-        "url": "https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 159595,
-      "name": "4EVER",
-      "url": "https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "baggage",
-        "url": "https://open.spotify.com/album/2YyXh7wZTETiXZankSIYWE"
-      },
-      "artists": [
-        {
-          "name": "Current Blue",
-          "url": "https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS"
-        }
-      ],
-      "duration_ms": 130093,
-      "name": "baggage",
-      "url": "https://open.spotify.com/track/6SYuMesj2XksZ056ogMqdw"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
         "name": "Spoonfed",
         "url": "https://open.spotify.com/album/4eMIxtrxlRZjJtKnHBWcyg"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 230546,
       "name": "What Is Love? Tell Me, Is It Easy?",
       "url": "https://open.spotify.com/track/4Sr6N2pJXCb5VjdknAjblG"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
+        "name": "baggage",
+        "url": "https://open.spotify.com/album/2YyXh7wZTETiXZankSIYWE"
+      },
+      "artists": [
+        {
+          "name": "Current Blue",
+          "url": "https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS"
+        }
+      ],
+      "duration_ms": 130093,
+      "name": "baggage",
+      "url": "https://open.spotify.com/track/6SYuMesj2XksZ056ogMqdw"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "TECHNICOLOR",
-        "url": "https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb"
-      },
-      "artists": [
-        {
-          "name": "Josh Fudge",
-          "url": "https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp"
-        }
-      ],
-      "duration_ms": 188143,
-      "name": "FEEL LIKE",
-      "url": "https://open.spotify.com/track/3OEWE9trIOubK63fNhjKk1"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
         "name": "Maybe Baby",
         "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 193429,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
+        "name": "TECHNICOLOR",
+        "url": "https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb"
+      },
+      "artists": [
+        {
+          "name": "Josh Fudge",
+          "url": "https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp"
+        }
+      ],
+      "duration_ms": 188143,
+      "name": "FEEL LIKE",
+      "url": "https://open.spotify.com/track/3OEWE9trIOubK63fNhjKk1"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "Darling I Do",
-        "url": "https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j"
-      },
-      "artists": [
-        {
-          "name": "Ezra Williams",
-          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
-        }
-      ],
-      "duration_ms": 181094,
-      "name": "Darling I Do",
-      "url": "https://open.spotify.com/track/4HQPftni948NDA17ajheQQ"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
         "name": "Baby Baby",
         "url": "https://open.spotify.com/album/1hBfaUAmlC3S1IOH67Vly9"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 181960,
       "name": "Baby Baby",
       "url": "https://open.spotify.com/track/5zdOAL1xFVSbSCKxBbuKxh"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
+        "name": "Darling I Do",
+        "url": "https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j"
+      },
+      "artists": [
+        {
+          "name": "Ezra Williams",
+          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
+        }
+      ],
+      "duration_ms": 181094,
+      "name": "Darling I Do",
+      "url": "https://open.spotify.com/track/4HQPftni948NDA17ajheQQ"
     },
     {
       "added_at": "2023-10-13 23:06:29",

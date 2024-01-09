@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,133 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,026 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 99 | [Tango De Crueldad](https://open.spotify.com/track/2yuoFc7FMd31eA0gaMmHxq) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Tango De Crueldad](https://open.spotify.com/album/5zZOvM2FlIBpEADJHkUjH1) | 2:23 |
 | 100 | [L.A](https://open.spotify.com/track/0NYH38WF015YeTq2V5mY9h) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2) | [TURISTEO](https://open.spotify.com/album/1lyULzGNJZycXN25kc8QD3) | 2:12 |
 
-Snapshot ID: `MCxiZDQ4NzY2ZGE5YWZlOGYxYTM2MDcxZjViMzg1ZDU5ZTRhYzk4ZTll`
+Snapshot ID: `MCxiNmQ1MWRjOTBjNTYzYjYxNjc5NmQ2ZTlhYzA4NTFjMDgyZWNjYjQ0`

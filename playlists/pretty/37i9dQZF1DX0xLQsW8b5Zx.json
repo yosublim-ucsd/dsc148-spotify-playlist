@@ -1,12 +1,12 @@
 {
   "description": "Live fast, die awesome! A great mix of the best rockabilly tracks.",
-  "num_followers": 532397,
+  "num_followers": 532285,
   "original_name": "Rockabilly Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzA4ODkzOTRkOWE5OWM2Yjg1YTY1ZDFkYWM4YmUzNDdkMzQyN2My",
+  "snapshot_id": "MCw5MWNhYzcxZDI4ODNhYjQxN2VlZGQ3OTk0MmMyMDZhNmVhMTJiODUx",
   "tracks": [
     {
       "added_at": "2023-10-27 12:44:19",
@@ -139,6 +139,22 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
+        "name": "Here's Little Richard (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 127426,
+      "name": "Long Tall Sally (The Thing)",
+      "url": "https://open.spotify.com/track/507IFqPuG8mBQoKebfGG9t"
+    },
+    {
+      "added_at": "2023-10-27 12:44:19",
+      "album": {
         "name": "Forever Blue",
         "url": "https://open.spotify.com/album/5j0gG8sv3zqZhpW5e4HlvY"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 174466,
       "name": "Baby Did A Bad Bad Thing",
       "url": "https://open.spotify.com/track/116Qy7Q95zaZgVUc5Z03wp"
-    },
-    {
-      "added_at": "2023-10-27 12:44:19",
-      "album": {
-        "name": "The Dance Album",
-        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
-      },
-      "artists": [
-        {
-          "name": "Carl Perkins",
-          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
-        }
-      ],
-      "duration_ms": 134445,
-      "name": "Blue Suede Shoes",
-      "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
     },
     {
       "added_at": "2023-10-27 12:44:19",
@@ -203,18 +203,18 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
-        "name": "Here's Little Richard (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
+        "name": "The Dance Album",
+        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
       },
       "artists": [
         {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
         }
       ],
-      "duration_ms": 127426,
-      "name": "Long Tall Sally (The Thing)",
-      "url": "https://open.spotify.com/track/507IFqPuG8mBQoKebfGG9t"
+      "duration_ms": 134445,
+      "name": "Blue Suede Shoes",
+      "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
     },
     {
       "added_at": "2023-10-27 12:44:19",
@@ -255,6 +255,22 @@
       "duration_ms": 141413,
       "name": "Teddy Boy Flick Knife Rock'n'Roll",
       "url": "https://open.spotify.com/track/0OYiNLG8jAVJdHzxzsmxL4"
+    },
+    {
+      "added_at": "2023-10-27 12:44:19",
+      "album": {
+        "name": "Good Golly!",
+        "url": "https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 129132,
+      "name": "Good Golly, Miss Molly",
+      "url": "https://open.spotify.com/track/0ZvgXNstN4o2ZXPomtBYVp"
     },
     {
       "added_at": "2023-10-27 12:44:19",
@@ -307,22 +323,6 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
-        "name": "Strike!",
-        "url": "https://open.spotify.com/album/6fCk4dWzSKBJeIC3RKSxF7"
-      },
-      "artists": [
-        {
-          "name": "The Baseballs",
-          "url": "https://open.spotify.com/artist/3Ek1EdkcbRFvSDJj9j5JXQ"
-        }
-      ],
-      "duration_ms": 186906,
-      "name": "Umbrella",
-      "url": "https://open.spotify.com/track/6evNakVewSYjoUmEIEEHLi"
-    },
-    {
-      "added_at": "2023-10-27 12:44:19",
-      "album": {
         "name": "Ideas of Love",
         "url": "https://open.spotify.com/album/20REkK3lmFtR8F77ls05XH"
       },
@@ -339,18 +339,18 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
-        "name": "Good Golly!",
-        "url": "https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu"
+        "name": "Strike!",
+        "url": "https://open.spotify.com/album/6fCk4dWzSKBJeIC3RKSxF7"
       },
       "artists": [
         {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+          "name": "The Baseballs",
+          "url": "https://open.spotify.com/artist/3Ek1EdkcbRFvSDJj9j5JXQ"
         }
       ],
-      "duration_ms": 129132,
-      "name": "Good Golly, Miss Molly",
-      "url": "https://open.spotify.com/track/0ZvgXNstN4o2ZXPomtBYVp"
+      "duration_ms": 186906,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/6evNakVewSYjoUmEIEEHLi"
     },
     {
       "added_at": "2023-10-27 12:44:19",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
-        "name": "Too Hot to Handle",
-        "url": "https://open.spotify.com/album/0LUOLIMXEqzJ8Bt3ulTd6H"
-      },
-      "artists": [
-        {
-          "name": "The Firebirds",
-          "url": "https://open.spotify.com/artist/0nhl9XQYR0RLk6PWCvGd75"
-        }
-      ],
-      "duration_ms": 126826,
-      "name": "59 Ford",
-      "url": "https://open.spotify.com/track/08m7pwirwY6h90JE8dZ3D3"
-    },
-    {
-      "added_at": "2023-10-27 12:44:19",
-      "album": {
         "name": "Signs & Signifiers",
         "url": "https://open.spotify.com/album/4pXFLdHq1JQifrVxEFTKpO"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 151493,
       "name": "North Side Gal",
       "url": "https://open.spotify.com/track/0CwX2DEmDAxx4WYMjty8Mh"
+    },
+    {
+      "added_at": "2023-10-27 12:44:19",
+      "album": {
+        "name": "Too Hot to Handle",
+        "url": "https://open.spotify.com/album/0LUOLIMXEqzJ8Bt3ulTd6H"
+      },
+      "artists": [
+        {
+          "name": "The Firebirds",
+          "url": "https://open.spotify.com/artist/0nhl9XQYR0RLk6PWCvGd75"
+        }
+      ],
+      "duration_ms": 126826,
+      "name": "59 Ford",
+      "url": "https://open.spotify.com/track/08m7pwirwY6h90JE8dZ3D3"
     },
     {
       "added_at": "2023-10-27 12:44:19",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
-        "name": "The Playmate",
-        "url": "https://open.spotify.com/album/3p6EXaC1FsqKhCiMZ0poCb"
-      },
-      "artists": [
-        {
-          "name": "Francine",
-          "url": "https://open.spotify.com/artist/0SpWiyzKW4wSmiHlgZJywY"
-        }
-      ],
-      "duration_ms": 234293,
-      "name": "Goodbye Forever",
-      "url": "https://open.spotify.com/track/24gCP3VKeK8aOdc01EBkVZ"
-    },
-    {
-      "added_at": "2023-10-27 12:44:19",
-      "album": {
         "name": "Rock Billy Boogie",
         "url": "https://open.spotify.com/album/10xfK1QoJAKJTatrJTp4Wt"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 153333,
       "name": "Rock Billy Boogie",
       "url": "https://open.spotify.com/track/6kJ86Zi4x1LY9KEdjQA5S2"
+    },
+    {
+      "added_at": "2023-10-27 12:44:19",
+      "album": {
+        "name": "The Playmate",
+        "url": "https://open.spotify.com/album/3p6EXaC1FsqKhCiMZ0poCb"
+      },
+      "artists": [
+        {
+          "name": "Francine",
+          "url": "https://open.spotify.com/artist/0SpWiyzKW4wSmiHlgZJywY"
+        }
+      ],
+      "duration_ms": 234293,
+      "name": "Goodbye Forever",
+      "url": "https://open.spotify.com/track/24gCP3VKeK8aOdc01EBkVZ"
     },
     {
       "added_at": "2023-10-27 12:44:19",
@@ -755,18 +755,18 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
-        "name": "Rock In Threes!",
-        "url": "https://open.spotify.com/album/3Oz8GlDjzuPH777lTIOhyD"
+        "name": "Like, Mann: Carl Mann Sings",
+        "url": "https://open.spotify.com/album/18A5NjwCOxllq8BpDZSEsQ"
       },
       "artists": [
         {
-          "name": "Black Raven",
-          "url": "https://open.spotify.com/artist/7LkWVc8qgKldq6Ja5WI784"
+          "name": "Carl Mann",
+          "url": "https://open.spotify.com/artist/2VMEvDcrKKZg96T4QWXIkT"
         }
       ],
-      "duration_ms": 160466,
-      "name": "Another Sunday Morning",
-      "url": "https://open.spotify.com/track/2apLwonKTtSflF9U5SNuD0"
+      "duration_ms": 146728,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/6bhTvzvIPjOLtsGAhyaHfH"
     },
     {
       "added_at": "2023-10-27 12:44:19",
@@ -787,34 +787,18 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
-        "name": "Promised Land",
-        "url": "https://open.spotify.com/album/407XfX8OgTkRIYvPXuieRo"
+        "name": "Rock In Threes!",
+        "url": "https://open.spotify.com/album/3Oz8GlDjzuPH777lTIOhyD"
       },
       "artists": [
         {
-          "name": "John Lindberg Trio",
-          "url": "https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO"
+          "name": "Black Raven",
+          "url": "https://open.spotify.com/artist/7LkWVc8qgKldq6Ja5WI784"
         }
       ],
-      "duration_ms": 188739,
-      "name": "Promised Land",
-      "url": "https://open.spotify.com/track/11Kio5fnxAzzNLWTgTOla6"
-    },
-    {
-      "added_at": "2023-10-27 12:44:19",
-      "album": {
-        "name": "Like, Mann: Carl Mann Sings",
-        "url": "https://open.spotify.com/album/18A5NjwCOxllq8BpDZSEsQ"
-      },
-      "artists": [
-        {
-          "name": "Carl Mann",
-          "url": "https://open.spotify.com/artist/2VMEvDcrKKZg96T4QWXIkT"
-        }
-      ],
-      "duration_ms": 146728,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/6bhTvzvIPjOLtsGAhyaHfH"
+      "duration_ms": 160466,
+      "name": "Another Sunday Morning",
+      "url": "https://open.spotify.com/track/2apLwonKTtSflF9U5SNuD0"
     },
     {
       "added_at": "2023-10-27 12:44:19",
@@ -831,6 +815,22 @@
       "duration_ms": 135666,
       "name": "Redneck Rock",
       "url": "https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8"
+    },
+    {
+      "added_at": "2023-10-27 12:44:19",
+      "album": {
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/407XfX8OgTkRIYvPXuieRo"
+      },
+      "artists": [
+        {
+          "name": "John Lindberg Trio",
+          "url": "https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO"
+        }
+      ],
+      "duration_ms": 188739,
+      "name": "Promised Land",
+      "url": "https://open.spotify.com/track/11Kio5fnxAzzNLWTgTOla6"
     },
     {
       "added_at": "2023-10-27 12:44:19",
@@ -915,18 +915,22 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
-        "name": "Rockabilly Blues",
-        "url": "https://open.spotify.com/album/37bIqXYLpE11IpMIBLPLD1"
+        "name": "Ooby Dooby / Go Go Go",
+        "url": "https://open.spotify.com/album/0XoMFggtttMeiJtnBjoijY"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        },
+        {
+          "name": "The Teen Kings",
+          "url": "https://open.spotify.com/artist/6eZeDQei4hJnzUlGt4QATQ"
         }
       ],
-      "duration_ms": 200146,
-      "name": "Rockabilly Blues (Texas 1955)",
-      "url": "https://open.spotify.com/track/5rjJzse6JQDei4q2mOxrum"
+      "duration_ms": 126500,
+      "name": "Go Go Go",
+      "url": "https://open.spotify.com/track/6ZKzfBr8vejFODLh8w2wTV"
     },
     {
       "added_at": "2023-10-27 12:44:19",
@@ -947,6 +951,22 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
+        "name": "Rockabilly Blues",
+        "url": "https://open.spotify.com/album/37bIqXYLpE11IpMIBLPLD1"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 200146,
+      "name": "Rockabilly Blues (Texas 1955)",
+      "url": "https://open.spotify.com/track/5rjJzse6JQDei4q2mOxrum"
+    },
+    {
+      "added_at": "2023-10-27 12:44:19",
+      "album": {
         "name": "Our Own Way Of Rockin'",
         "url": "https://open.spotify.com/album/3Tig4FmFOmfxWrwwQhN1DO"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 165293,
       "name": "My Little Sister Gotta Motorbike",
       "url": "https://open.spotify.com/track/3jdD1a7GJXh3Q9pMYxLagY"
-    },
-    {
-      "added_at": "2023-10-27 12:44:19",
-      "album": {
-        "name": "Ooby Dooby / Go Go Go",
-        "url": "https://open.spotify.com/album/0XoMFggtttMeiJtnBjoijY"
-      },
-      "artists": [
-        {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
-        },
-        {
-          "name": "The Teen Kings",
-          "url": "https://open.spotify.com/artist/6eZeDQei4hJnzUlGt4QATQ"
-        }
-      ],
-      "duration_ms": 126500,
-      "name": "Go Go Go",
-      "url": "https://open.spotify.com/track/6ZKzfBr8vejFODLh8w2wTV"
     }
   ],
   "unique_name": "Rockabilly Mania",

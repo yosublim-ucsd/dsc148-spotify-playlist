@@ -1729,6 +1729,32 @@
     },
     {
       "album": {
+        "name": "Kombari Vettapuli (From \"Captain Miller\")",
+        "url": "https://open.spotify.com/album/2rnFoq4FIGPD6W2zSlvbRw"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Dhee",
+          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Kombari Vettapuli (From \"Captain Miller\")",
+      "url": "https://open.spotify.com/track/3ABmPbCBTSeer7MO4SKvlZ"
+    },
+    {
+      "album": {
         "name": "The Legend (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0xndkcSdl91YAkkA1BK80N"
       },

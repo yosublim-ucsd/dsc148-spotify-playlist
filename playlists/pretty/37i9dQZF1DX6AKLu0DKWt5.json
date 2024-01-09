@@ -1,12 +1,12 @@
 {
   "description": "Music from TV shows and films nominated for the 81st Golden Globe Awards. Watch Jan 7, 2024 on CBS and Paramount+.",
-  "num_followers": 5842,
+  "num_followers": 5888,
   "original_name": "Golden Globes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDFiM2YzYzJiNGM2N2E5NmNiOGNjZjgxMTNlMjBmZDRlOTMyYjI1",
+  "snapshot_id": "MCw1ZWIzYzE2NzVjMmU4ZDQxNzQ2NmYxMjc5MWIzMjJjYzEzYzc3NGRm",
   "tracks": [
     {
       "added_at": "2023-12-19 16:37:32",
@@ -511,6 +511,26 @@
     {
       "added_at": "2023-12-19 16:37:32",
       "album": {
+        "name": "Fargo Year 5 (Soundtrack from the MGM/ FXP Series)",
+        "url": "https://open.spotify.com/album/2XIs8DMM10mhsQDR8fOtVP"
+      },
+      "artists": [
+        {
+          "name": "Jeff Russo",
+          "url": "https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8"
+        },
+        {
+          "name": "Lisa Hannigan",
+          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+        }
+      ],
+      "duration_ms": 282640,
+      "name": "Toxic (feat. Lisa Hannigan)",
+      "url": "https://open.spotify.com/track/7i32pPA4dxzFn0IDb9VvrY"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
         "name": "Maestro: Music by Leonard Bernstein (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3Eu9QPnzZEXpo0BzjWOLC4"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 143925,
       "name": "On the Town: Lonely Town. Pas de deux",
       "url": "https://open.spotify.com/track/3EjSbCtOjkPci8yTvoRBqX"
-    },
-    {
-      "added_at": "2023-12-19 16:37:32",
-      "album": {
-        "name": "Fargo Year 5 (Soundtrack from the MGM/ FXP Series)",
-        "url": "https://open.spotify.com/album/2XIs8DMM10mhsQDR8fOtVP"
-      },
-      "artists": [
-        {
-          "name": "Jeff Russo",
-          "url": "https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8"
-        },
-        {
-          "name": "Lisa Hannigan",
-          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
-        }
-      ],
-      "duration_ms": 282640,
-      "name": "Toxic (feat. Lisa Hannigan)",
-      "url": "https://open.spotify.com/track/7i32pPA4dxzFn0IDb9VvrY"
     },
     {
       "added_at": "2023-12-19 16:37:32",

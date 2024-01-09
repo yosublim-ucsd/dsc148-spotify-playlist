@@ -6613,6 +6613,24 @@
     },
     {
       "album": {
+        "name": "Mare in Tempesta",
+        "url": "https://open.spotify.com/album/1LvR1uSENLaoldywyxt2Ci"
+      },
+      "artists": [
+        {
+          "name": "Pandorea",
+          "url": "https://open.spotify.com/artist/6tWC5Umk7qZ8gOXZLFALvk"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201230,
+      "name": "Mare in Tempesta",
+      "url": "https://open.spotify.com/track/2O814L7id34BCDXF0S5ukx"
+    },
+    {
+      "album": {
         "name": "Zolfo",
         "url": "https://open.spotify.com/album/6IVY6UjSF6vwHzk9oQWHzm"
       },

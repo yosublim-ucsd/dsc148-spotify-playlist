@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring Beyoncé, Bring Me The Horizon, Harry Styles &amp; more! Cover: Bring Me The Horizon
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,523 likes - 32 songs - 1 hr 43 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,503 likes - 32 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

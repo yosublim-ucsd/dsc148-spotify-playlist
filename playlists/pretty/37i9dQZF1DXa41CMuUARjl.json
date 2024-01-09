@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Ti\u00ebsto and FAST BOY",
-  "num_followers": 462018,
+  "num_followers": 462143,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2RmZWJiZGVlYjUwOTI4YzhhOTVkOWQ5Yjc5MzkwZTlkYWVkM2Qy",
+  "snapshot_id": "MCwzM2Q4NTUzMTYxNjU1ZDg5N2UyMzgwYzI5MjRhMTczYWNhN2JmOWFi",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -667,26 +667,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Just Over (Franky Wah Remix)",
-        "url": "https://open.spotify.com/album/1IpBGxB7mZ9K3B32lZgevs"
-      },
-      "artists": [
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        },
-        {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
-        }
-      ],
-      "duration_ms": 192512,
-      "name": "Just Over - Franky Wah Remix",
-      "url": "https://open.spotify.com/track/0rxXB8gFoCBKribWsODgsu"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Maybe In The Summer",
         "url": "https://open.spotify.com/album/349cHC0kfEg2nf5ixElOed"
       },
@@ -711,18 +691,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Ten Toad Anthem",
-        "url": "https://open.spotify.com/album/5cJnyxxNI8agHykkZ45rRg"
+        "name": "Just Over (Franky Wah Remix)",
+        "url": "https://open.spotify.com/album/1IpBGxB7mZ9K3B32lZgevs"
       },
       "artists": [
         {
-          "name": "SVDDEN DEATH",
-          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
         }
       ],
-      "duration_ms": 145714,
-      "name": "Ten Toad Anthem",
-      "url": "https://open.spotify.com/track/6KSJxsRPs4Q3Feaqyt4ZRZ"
+      "duration_ms": 192512,
+      "name": "Just Over - Franky Wah Remix",
+      "url": "https://open.spotify.com/track/0rxXB8gFoCBKribWsODgsu"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -743,18 +727,38 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/5if9dLelGqDrZNJZoz81TX"
+        "name": "Ten Toad Anthem",
+        "url": "https://open.spotify.com/album/5cJnyxxNI8agHykkZ45rRg"
       },
       "artists": [
         {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/51h967zpEh7aFOItCJL5HN"
+      "duration_ms": 145714,
+      "name": "Ten Toad Anthem",
+      "url": "https://open.spotify.com/track/6KSJxsRPs4Q3Feaqyt4ZRZ"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Termination (Radio-Edit)",
+        "url": "https://open.spotify.com/album/6GxQv9hlNVAB2G0SpbjQpK"
+      },
+      "artists": [
+        {
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+        },
+        {
+          "name": "Fatum",
+          "url": "https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C"
+        }
+      ],
+      "duration_ms": 247802,
+      "name": "Termination - Radio-Edit",
+      "url": "https://open.spotify.com/track/7j6mghgIJz1FYXe9Gw8kqb"
     },
     {
       "added_at": "2024-01-05 19:02:34",
@@ -779,42 +783,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Termination (Radio-Edit)",
-        "url": "https://open.spotify.com/album/6GxQv9hlNVAB2G0SpbjQpK"
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/5if9dLelGqDrZNJZoz81TX"
       },
       "artists": [
         {
-          "name": "biskuwi",
-          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
-        },
-        {
-          "name": "Fatum",
-          "url": "https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C"
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
         }
       ],
-      "duration_ms": 247802,
-      "name": "Termination - Radio-Edit",
-      "url": "https://open.spotify.com/track/7j6mghgIJz1FYXe9Gw8kqb"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Elation (Otik Remix)",
-        "url": "https://open.spotify.com/album/192v3NGQFrR3p8PVYFhCbl"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        },
-        {
-          "name": "Otik",
-          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
-        }
-      ],
-      "duration_ms": 279925,
-      "name": "Elation - Otik Remix",
-      "url": "https://open.spotify.com/track/6DCmgTl86qBcjn6pjgGGZ5"
+      "duration_ms": 201600,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/51h967zpEh7aFOItCJL5HN"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -843,6 +823,26 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Elation (Otik Remix)",
+        "url": "https://open.spotify.com/album/192v3NGQFrR3p8PVYFhCbl"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "Otik",
+          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
+        }
+      ],
+      "duration_ms": 279925,
+      "name": "Elation - Otik Remix",
+      "url": "https://open.spotify.com/track/6DCmgTl86qBcjn6pjgGGZ5"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Off Switch",
         "url": "https://open.spotify.com/album/4HMcD9l4xFmpDW54k99dIk"
       },
@@ -855,22 +855,6 @@
       "duration_ms": 172158,
       "name": "Off Switch",
       "url": "https://open.spotify.com/track/5a8NbqLMb0tqxsoesUODCM"
-    },
-    {
-      "added_at": "2024-01-05 19:02:34",
-      "album": {
-        "name": "ascend",
-        "url": "https://open.spotify.com/album/13vrmsnBbVACZT6vg2V0HN"
-      },
-      "artists": [
-        {
-          "name": "VILLA",
-          "url": "https://open.spotify.com/artist/6CjQ1qXQdr7P84BkOEuTwS"
-        }
-      ],
-      "duration_ms": 188444,
-      "name": "ascend",
-      "url": "https://open.spotify.com/track/78jGVRBWYgTeFV0SWPjTEW"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -945,24 +929,20 @@
       "url": "https://open.spotify.com/track/6WV6aIFluFdtoqnhUmmgKA"
     },
     {
-      "added_at": "2024-01-05 05:00:00",
+      "added_at": "2024-01-05 19:02:34",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/6C8W4HzmWHWZdlCmBm4K4V"
+        "name": "ascend",
+        "url": "https://open.spotify.com/album/13vrmsnBbVACZT6vg2V0HN"
       },
       "artists": [
         {
-          "name": "Matt Fax",
-          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
-        },
-        {
-          "name": "Johan Vilborg",
-          "url": "https://open.spotify.com/artist/7hccrx4H5boJlleSXh1j7N"
+          "name": "VILLA",
+          "url": "https://open.spotify.com/artist/6CjQ1qXQdr7P84BkOEuTwS"
         }
       ],
-      "duration_ms": 209280,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/2oz4YjD0KeD6TXBz36zt18"
+      "duration_ms": 188444,
+      "name": "ascend",
+      "url": "https://open.spotify.com/track/78jGVRBWYgTeFV0SWPjTEW"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1007,6 +987,46 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/7zjQAeiHLJJ8OB7MftaFjz"
+      },
+      "artists": [
+        {
+          "name": "Dirty Palm",
+          "url": "https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0"
+        },
+        {
+          "name": "KDH",
+          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+        }
+      ],
+      "duration_ms": 162187,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/097XuYiqI3sS1SlTlncfmU"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/6C8W4HzmWHWZdlCmBm4K4V"
+      },
+      "artists": [
+        {
+          "name": "Matt Fax",
+          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
+        },
+        {
+          "name": "Johan Vilborg",
+          "url": "https://open.spotify.com/artist/7hccrx4H5boJlleSXh1j7N"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/2oz4YjD0KeD6TXBz36zt18"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Hit The Ground",
         "url": "https://open.spotify.com/album/4KOkh6RhKbdC99pmtL0USo"
       },
@@ -1019,6 +1039,30 @@
       "duration_ms": 212000,
       "name": "Hit The Ground",
       "url": "https://open.spotify.com/track/1we3IyLdDkmtZctE9xbFgm"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Casa Techno",
+        "url": "https://open.spotify.com/album/76AkxXrNVDZLrDB9dVSdqS"
+      },
+      "artists": [
+        {
+          "name": "Hypermorph",
+          "url": "https://open.spotify.com/artist/0IeEzvWGCDF6N4sBtzJ2o2"
+        },
+        {
+          "name": "BRAN",
+          "url": "https://open.spotify.com/artist/44CMqAkutKvmCaE2OxyCbd"
+        },
+        {
+          "name": "Snnr",
+          "url": "https://open.spotify.com/artist/07C1XBLmxv6QkdQSDW1aXc"
+        }
+      ],
+      "duration_ms": 113345,
+      "name": "Casa Techno",
+      "url": "https://open.spotify.com/track/3aCZ2vtwqEsUfj6W9TMWPs"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1059,22 +1103,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/7zjQAeiHLJJ8OB7MftaFjz"
+        "name": "Young Forever (Armonica Remix)",
+        "url": "https://open.spotify.com/album/18GrXRebiWye7ZHAvz44OQ"
       },
       "artists": [
         {
-          "name": "Dirty Palm",
-          "url": "https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0"
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
         },
         {
-          "name": "KDH",
-          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+          "name": "Armonica",
+          "url": "https://open.spotify.com/artist/6EnmXQhQQvFYrWorH0Duoy"
         }
       ],
-      "duration_ms": 162187,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/097XuYiqI3sS1SlTlncfmU"
+      "duration_ms": 197419,
+      "name": "Young Forever (Armonica Remix)",
+      "url": "https://open.spotify.com/track/0fORIV8sNObgoaR8bll7po"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1103,26 +1147,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Young Forever (Armonica Remix)",
-        "url": "https://open.spotify.com/album/18GrXRebiWye7ZHAvz44OQ"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        },
-        {
-          "name": "Armonica",
-          "url": "https://open.spotify.com/artist/6EnmXQhQQvFYrWorH0Duoy"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "Young Forever (Armonica Remix)",
-      "url": "https://open.spotify.com/track/0fORIV8sNObgoaR8bll7po"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Voyage",
         "url": "https://open.spotify.com/album/2BZcJK5BwZnVsQo0YtTvRL"
       },
@@ -1147,26 +1171,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Casa Techno",
-        "url": "https://open.spotify.com/album/76AkxXrNVDZLrDB9dVSdqS"
+        "name": "Together",
+        "url": "https://open.spotify.com/album/1qsMlMjS1pONCDjuYyQAQg"
       },
       "artists": [
         {
-          "name": "Hypermorph",
-          "url": "https://open.spotify.com/artist/0IeEzvWGCDF6N4sBtzJ2o2"
-        },
-        {
-          "name": "BRAN",
-          "url": "https://open.spotify.com/artist/44CMqAkutKvmCaE2OxyCbd"
-        },
-        {
-          "name": "Snnr",
-          "url": "https://open.spotify.com/artist/07C1XBLmxv6QkdQSDW1aXc"
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
         }
       ],
-      "duration_ms": 113345,
-      "name": "Casa Techno",
-      "url": "https://open.spotify.com/track/3aCZ2vtwqEsUfj6W9TMWPs"
+      "duration_ms": 205714,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/2XFQvXYnyoOCLZGsPP83oO"
     },
     {
       "added_at": "2024-01-05 19:02:34",
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/1qsMlMjS1pONCDjuYyQAQg"
-      },
-      "artists": [
-        {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/2XFQvXYnyoOCLZGsPP83oO"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "apprehension",
         "url": "https://open.spotify.com/album/0WEV58E6wztfW2rzOobqs7"
       },
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Quaestio (i've got a question babe)",
-        "url": "https://open.spotify.com/album/4DRVa48Tl9faBrsvTGhcmR"
-      },
-      "artists": [
-        {
-          "name": "Tim Hox",
-          "url": "https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM"
-        },
-        {
-          "name": "Manuals",
-          "url": "https://open.spotify.com/artist/5bvEoXzMCyh9cuwQu0Tvvo"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Quaestio (i've got a question babe)",
-      "url": "https://open.spotify.com/track/5HwSjHt2FnTTLONBx5Rx5p"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Fly Again (Lost Identities Remix)",
         "url": "https://open.spotify.com/album/13ikESViMw0XMQfPxu6104"
       },
@@ -1327,18 +1307,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Flex",
-        "url": "https://open.spotify.com/album/3HzScxQ9vXfj5eIoizsyY7"
+        "name": "Quaestio (i've got a question babe)",
+        "url": "https://open.spotify.com/album/4DRVa48Tl9faBrsvTGhcmR"
       },
       "artists": [
         {
-          "name": "Tony Dark Eyes",
-          "url": "https://open.spotify.com/artist/3aJBHJUwHkjkGQ4zkG93HP"
+          "name": "Tim Hox",
+          "url": "https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM"
+        },
+        {
+          "name": "Manuals",
+          "url": "https://open.spotify.com/artist/5bvEoXzMCyh9cuwQu0Tvvo"
         }
       ],
-      "duration_ms": 128716,
-      "name": "Flex",
-      "url": "https://open.spotify.com/track/5qV78cIfWx3fd8l8LeLbWz"
+      "duration_ms": 213750,
+      "name": "Quaestio (i've got a question babe)",
+      "url": "https://open.spotify.com/track/5HwSjHt2FnTTLONBx5Rx5p"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1355,6 +1339,22 @@
       "duration_ms": 242356,
       "name": "iiwannabe",
       "url": "https://open.spotify.com/track/5NK7SxC2OhSDvuB2ueSbq4"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Flex",
+        "url": "https://open.spotify.com/album/3HzScxQ9vXfj5eIoizsyY7"
+      },
+      "artists": [
+        {
+          "name": "Tony Dark Eyes",
+          "url": "https://open.spotify.com/artist/3aJBHJUwHkjkGQ4zkG93HP"
+        }
+      ],
+      "duration_ms": 128716,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/5qV78cIfWx3fd8l8LeLbWz"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1397,20 +1397,20 @@
       "url": "https://open.spotify.com/track/2Xq46ZzWLOuaNJO1eelhET"
     },
     {
-      "added_at": "2024-01-05 05:00:00",
+      "added_at": "2024-01-05 19:02:34",
       "album": {
-        "name": "It's Your Life",
-        "url": "https://open.spotify.com/album/28zninvsb4PqjDGGuJlKrT"
+        "name": "Do My Thing",
+        "url": "https://open.spotify.com/album/1vb39AGlcYCwI3vshtcQjE"
       },
       "artists": [
         {
-          "name": "T\u00c2CHES",
-          "url": "https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF"
+          "name": "SHVDZ",
+          "url": "https://open.spotify.com/artist/4lOUAtosaRwWeCoiIeLeQM"
         }
       ],
-      "duration_ms": 204590,
-      "name": "It's Your Life",
-      "url": "https://open.spotify.com/track/5MHaHk6eeRniydKcVGUHbE"
+      "duration_ms": 167172,
+      "name": "Do My Thing",
+      "url": "https://open.spotify.com/track/1zKlmBu1TlxGPvoqtEJR8k"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1433,20 +1433,20 @@
       "url": "https://open.spotify.com/track/2goxwvSqEtomJinh7cdBGQ"
     },
     {
-      "added_at": "2024-01-05 19:02:34",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Do My Thing",
-        "url": "https://open.spotify.com/album/1vb39AGlcYCwI3vshtcQjE"
+        "name": "It's Your Life",
+        "url": "https://open.spotify.com/album/28zninvsb4PqjDGGuJlKrT"
       },
       "artists": [
         {
-          "name": "SHVDZ",
-          "url": "https://open.spotify.com/artist/4lOUAtosaRwWeCoiIeLeQM"
+          "name": "T\u00c2CHES",
+          "url": "https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF"
         }
       ],
-      "duration_ms": 167172,
-      "name": "Do My Thing",
-      "url": "https://open.spotify.com/track/1zKlmBu1TlxGPvoqtEJR8k"
+      "duration_ms": 204590,
+      "name": "It's Your Life",
+      "url": "https://open.spotify.com/track/5MHaHk6eeRniydKcVGUHbE"
     },
     {
       "added_at": "2024-01-05 05:00:00",

@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-627 songs - 1 day 18 hr 32 min
+628 songs - 1 day 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Fauré: Sicilienne](https://open.spotify.com/track/6TS1h31F8I9SIBIwIvdKYk) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Cocomi](https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Sicilienne](https://open.spotify.com/album/6cZ4qoRFJuVTNhPop4LfuM) | 3:57 | 2022-10-20 | 2023-03-04 |
 | [Feel So Good](https://open.spotify.com/track/2ScCKoZz0DOgpnSUNlsQZc) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [Feel So Good](https://open.spotify.com/album/4eAiq2DTuvLntga5pN5zp8) | 4:17 | 2023-08-24 | 2023-09-15 |
 | [Felt](https://open.spotify.com/track/3Zp8h6uK8L1H2mOn7SAxUR) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Journey Through Memories](https://open.spotify.com/album/069i2WxHKeLNopI6OKIvch) | 5:40 | 2023-05-25 | 2023-06-14 |
-| [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 | 2022-10-20 |  |
+| [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 | 2022-10-20 | 2024-01-09 |
 | [Flimsier](https://open.spotify.com/track/2iVOSO9Q5lXStX7z57ImCI) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Flimsier](https://open.spotify.com/album/4zIogDwuESlSj3lUbgJ7CN) | 3:59 | 2023-06-08 | 2023-07-09 |
 | [Flowers Sing](https://open.spotify.com/track/7KIiof4zhjpVChHBVSJ3ug) | [Shiba](https://open.spotify.com/artist/2nVxV87MPUlMg6E0zXuDj2) | [Calm Piano: For Your Path](https://open.spotify.com/album/7rtQcDrHtG6yhgefHUCxHD) | 3:15 | 2023-01-12 | 2023-03-01 |
 | [Folk](https://open.spotify.com/track/19R61PjvSy7OBegMWOu6rF) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Folk](https://open.spotify.com/album/4tN0BiON9BDadZH342DV4e) | 3:23 | 2023-06-13 | 2023-09-15 |
@@ -243,6 +243,7 @@
 | [Japan](https://open.spotify.com/track/6rY5RSURTuGXP6QEtHbU6k) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Japan](https://open.spotify.com/album/0wV5WCUPa6puo3sGyitc6q) | 3:36 | 2022-12-01 | 2023-04-05 |
 | [Jolene From Her Own Perspective](https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb), [zannie](https://open.spotify.com/artist/5b39yaQXUinM6d6KuuLiCd) | [Jolene From Her Own Perspective](https://open.spotify.com/album/3YCXgNmBuGEvNsWSYubcZj) | 3:27 | 2022-10-20 | 2022-11-04 |
 | [Just Another Thing We Don't Talk About](https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 3:39 | 2022-10-27 | 2023-12-11 |
+| [Just Another Thing We Don't Talk About](https://open.spotify.com/track/5lOvQe3omS2G2YOHZqrIGl) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/0JCGma6Cn0cz9xY7rJSio2) | 3:39 | 2024-01-04 |  |
 | [Just Us \- Strings Version](https://open.spotify.com/track/1aIRiLjgzbl8ylyIikabEQ) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Just Us \(Strings Version\)](https://open.spotify.com/album/2MFLq074ja980Y9h3y1ZkF) | 3:33 | 2023-11-02 | 2023-11-08 |
 | [kagerou \(sketch in kinkazan\)](https://open.spotify.com/track/6uHTl8q1uoeEEfIYJz4fYm) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [kagerou \(sketch in kinkazan\)](https://open.spotify.com/album/669dUQ5bfD8v5LThoi6rx2) | 3:41 | 2022-11-22 | 2022-12-02 |
 | [Kan\-Sekai](https://open.spotify.com/track/0VhD3zamkf55HiOFw0l4Cr) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [Kan\-Sekai](https://open.spotify.com/album/4x52en5VPqzQBi312t08qR) | 4:13 | 2023-09-26 | 2023-11-16 |

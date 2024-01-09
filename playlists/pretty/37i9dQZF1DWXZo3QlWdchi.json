@@ -1,12 +1,12 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 296584,
+  "num_followers": 296650,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTc3MTE2M2NmZjUxNzJmNjhhYzlkM2MzYWZkODEwYjc5ZmYyYWMy",
+  "snapshot_id": "MCxkNzBjMDk3MDQyMTg2N2FkN2JlMThlMDE2N2ExNTNhODU2MzdjYWQ3",
   "tracks": [
     {
       "added_at": "2023-10-20 03:01:00",
@@ -263,38 +263,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0VPhyqqDEary03vLt02DtZ"
-      },
-      "artists": [
-        {
-          "name": "Tom Speight",
-          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
-        }
-      ],
-      "duration_ms": 183052,
-      "name": "Stand by Me - Recorded at RAK Studios, London",
-      "url": "https://open.spotify.com/track/4GhFz9YVbihQJlq5pFFPgD"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
-        "name": "Live / Unplugged",
-        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 233946,
-      "name": "Ironic - Live / Unplugged",
-      "url": "https://open.spotify.com/track/5WltiUcx5HdM6PPkOkZptu"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "Ac\u00fastico Ira!",
         "url": "https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw"
       },
@@ -327,22 +295,34 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Ac\u00fastico - Ao Vivo",
-        "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0VPhyqqDEary03vLt02DtZ"
       },
       "artists": [
         {
-          "name": "Raimundos",
-          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
-        },
-        {
-          "name": "Dinho Ouro Preto",
-          "url": "https://open.spotify.com/artist/6ysWe8Q95VUwcU6LKaY4Rk"
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
         }
       ],
-      "duration_ms": 291125,
-      "name": "Mulher de Fases - Ao Vivo | Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2OBzAYQUWGuTgY90TRnXMf"
+      "duration_ms": 183052,
+      "name": "Stand by Me - Recorded at RAK Studios, London",
+      "url": "https://open.spotify.com/track/4GhFz9YVbihQJlq5pFFPgD"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Live / Unplugged",
+        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 233946,
+      "name": "Ironic - Live / Unplugged",
+      "url": "https://open.spotify.com/track/5WltiUcx5HdM6PPkOkZptu"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -359,6 +339,26 @@
       "duration_ms": 256466,
       "name": "Caleidosc\u00f3pio - Ao Vivo",
       "url": "https://open.spotify.com/track/0EH1ecgo60jEA3mzeF3XqL"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Ac\u00fastico - Ao Vivo",
+        "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
+      },
+      "artists": [
+        {
+          "name": "Raimundos",
+          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
+        },
+        {
+          "name": "Dinho Ouro Preto",
+          "url": "https://open.spotify.com/artist/6ysWe8Q95VUwcU6LKaY4Rk"
+        }
+      ],
+      "duration_ms": 291125,
+      "name": "Mulher de Fases - Ao Vivo | Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2OBzAYQUWGuTgY90TRnXMf"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
+        "name": "Core (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "duration_ms": 346973,
+      "name": "Plush - Live; MTV Unplugged, 11/17/93",
+      "url": "https://open.spotify.com/track/1byoTlWVdu5MqeaoKgdRhZ"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 277693,
       "name": "S\u00f3 por hoje / Tenis Roque",
       "url": "https://open.spotify.com/track/4PY23WVDXuHDHwhg0P7PDq"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
-        "name": "Core (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC"
-      },
-      "artists": [
-        {
-          "name": "Stone Temple Pilots",
-          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
-        }
-      ],
-      "duration_ms": 346973,
-      "name": "Plush - Live; MTV Unplugged, 11/17/93",
-      "url": "https://open.spotify.com/track/1byoTlWVdu5MqeaoKgdRhZ"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
+        "name": "Ac\u00fastico 20 Anos - O Amor N\u00e3o Tem Inimigos, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3LTygGSVzMpi4sgAoCxPPJ"
+      },
+      "artists": [
+        {
+          "name": "Detonautas Roque Clube",
+          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
+        }
+      ],
+      "duration_ms": 215898,
+      "name": "Aposta - Ao Vivo",
+      "url": "https://open.spotify.com/track/0lXUZraUXsJbi6zLHUNWkG"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
         "name": "Dookie (30th Anniversary 4-Track Demos)",
         "url": "https://open.spotify.com/album/4AFF6Md43PaWKv5lSMAysd"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 262185,
       "name": "City Of Angels - Piano Version",
       "url": "https://open.spotify.com/track/3nqZdcbYyr4eatjoErsCVX"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
-        "name": "Ac\u00fastico 20 Anos - O Amor N\u00e3o Tem Inimigos, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3LTygGSVzMpi4sgAoCxPPJ"
-      },
-      "artists": [
-        {
-          "name": "Detonautas Roque Clube",
-          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
-        }
-      ],
-      "duration_ms": 215898,
-      "name": "Aposta - Ao Vivo",
-      "url": "https://open.spotify.com/track/0lXUZraUXsJbi6zLHUNWkG"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Cuts Like A Knife - 40th Anniversary, Live From The Royal Albert Hall",
-        "url": "https://open.spotify.com/album/5ol5EQxk9OUHUh7JXb061Z"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 182933,
-      "name": "Straight From The Heart - Live at The Royal Albert Hall",
-      "url": "https://open.spotify.com/track/4LZn7eK3vwTYQX5zSxfUSf"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "Moska Apresenta Zoombido: Dado Villa-Lobos",
         "url": "https://open.spotify.com/album/3zLzFVZjxn13eycidc60xp"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 227541,
       "name": "O Teatro dos Vampiros",
       "url": "https://open.spotify.com/track/7kQejoMuF2whRQPOIwqWfU"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Cuts Like A Knife - 40th Anniversary, Live From The Royal Albert Hall",
+        "url": "https://open.spotify.com/album/5ol5EQxk9OUHUh7JXb061Z"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 182933,
+      "name": "Straight From The Heart - Live at The Royal Albert Hall",
+      "url": "https://open.spotify.com/track/4LZn7eK3vwTYQX5zSxfUSf"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Gold on the Ceiling (BBC Session)",
-        "url": "https://open.spotify.com/album/5a7S1MDqFYulZZD40MrdGt"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 228163,
-      "name": "Gold on the Ceiling - BBC Session",
-      "url": "https://open.spotify.com/track/5W8OjPfxN7bc7FgTcqwgfu"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "Digital (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/32L9YGyYkP4jXe2ZrUfQTk"
       },
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
+        "name": "Gold on the Ceiling (BBC Session)",
+        "url": "https://open.spotify.com/album/5a7S1MDqFYulZZD40MrdGt"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 228163,
+      "name": "Gold on the Ceiling - BBC Session",
+      "url": "https://open.spotify.com/track/5W8OjPfxN7bc7FgTcqwgfu"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
         "name": "M\u00fasicas de amor",
         "url": "https://open.spotify.com/album/6vaiqih5PBwWPezVD3If7T"
       },
@@ -1163,6 +1163,22 @@
       "duration_ms": 240799,
       "name": "Malandragem - Ao Vivo",
       "url": "https://open.spotify.com/track/3eF6c8ZvbGgVCiMkHITcJE"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Shadow Of The Day (Acoustic)",
+        "url": "https://open.spotify.com/album/2aYZc0kNNdUmCZh0IKz9dA"
+      },
+      "artists": [
+        {
+          "name": "Jota John",
+          "url": "https://open.spotify.com/artist/0GlO3eVL8owXjOAIvUWoMm"
+        }
+      ],
+      "duration_ms": 198715,
+      "name": "Shadow Of The Day - Acoustic",
+      "url": "https://open.spotify.com/track/0OjWAUdnGBzRFSELi5JW9m"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -1211,22 +1227,6 @@
       "duration_ms": 242253,
       "name": "Can\u00e7\u00e3o Da Meia Noite",
       "url": "https://open.spotify.com/track/61g04v9KWwRSDeAHZADvxZ"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
-        "name": "Shadow Of The Day (Acoustic)",
-        "url": "https://open.spotify.com/album/2aYZc0kNNdUmCZh0IKz9dA"
-      },
-      "artists": [
-        {
-          "name": "Jota John",
-          "url": "https://open.spotify.com/artist/0GlO3eVL8owXjOAIvUWoMm"
-        }
-      ],
-      "duration_ms": 198715,
-      "name": "Shadow Of The Day - Acoustic",
-      "url": "https://open.spotify.com/track/0OjWAUdnGBzRFSELi5JW9m"
     },
     {
       "added_at": "2023-10-20 03:01:00",

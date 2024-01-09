@@ -34,7 +34,7 @@
       ],
       "date_added": "2020-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 379946,
       "name": "Animal Song",
       "url": "https://open.spotify.com/track/1MbACfYbcxgxJXDcNZqaE7"
@@ -216,6 +216,24 @@
       "duration_ms": 174954,
       "name": "El Baile de los Animales",
       "url": "https://open.spotify.com/track/11wx5VuLgu4GALjJIb0mT0"
+    },
+    {
+      "album": {
+        "name": "Super \u00c9xitos",
+        "url": "https://open.spotify.com/album/1nXc5zDscyT89SnDFh7l1l"
+      },
+      "artists": [
+        {
+          "name": "CantaJuego",
+          "url": "https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162175,
+      "name": "El Baile del Gorila (Versi\u00f3n 2019)",
+      "url": "https://open.spotify.com/track/4M9MCJF2Nk9H9lYkwxQS9C"
     },
     {
       "album": {

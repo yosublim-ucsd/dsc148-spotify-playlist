@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Ronisia
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,005 likes - 39 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,074 likes - 39 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 38 | [Ex](https://open.spotify.com/track/5Y4Dekluv6nGMVTSnqzJyA) | [Dof'](https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr) | [4 SEASONS \- WINTER](https://open.spotify.com/album/6cU214tMQeiPGIp4gmiEcz) | 3:21 |
 | 39 | [Ta queen](https://open.spotify.com/track/0mc5DjPqI8lGnoybr4YU9L) | [Karabalik Beatz](https://open.spotify.com/artist/460I5w9PL2AG09pjwwY5D6), [Hayla Peter](https://open.spotify.com/artist/3UcE1V9cLBH9GtHamHjai1) | [Dans le coeur](https://open.spotify.com/album/3exmuax22PozgPSs7HPzLZ) | 2:55 |
 
-Snapshot ID: `MCwwMjlkYmRhZmNmZDY0ODBlNzM3MDVjNzM1MzM2ZDk5YmIyY2JiYmVl`
+Snapshot ID: `MCw4NjZhYTcxNGVkNzRiNzgyYzc4ZTdiMWVmMjNiMTYyZTViMjViZjRh`

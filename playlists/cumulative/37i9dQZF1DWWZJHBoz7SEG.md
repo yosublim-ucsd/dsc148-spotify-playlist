@@ -4,7 +4,7 @@
 
 > Oro, incienso y rolitas nuevas para disfrutar la primera semana del 2024 🥰 Luis R\. Conriquez en portada.
 
-4,920 songs - 11 day 5 hr 46 min
+4,921 songs - 11 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [APAGAITA](https://open.spotify.com/track/4P3PZFvMsKlNwTDHcN7w0J) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [APAGAITA](https://open.spotify.com/album/1R24ulrH6V31SpX9AzJp7z) | 2:35 | 2022-04-29 | 2022-05-07 |
 | [Aparte](https://open.spotify.com/track/7DXI9GRQG2xwEzcGO1WE0N) | [Koreko](https://open.spotify.com/artist/7MAFjAqzB7cFssz84HSSlv), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Aparte](https://open.spotify.com/album/0ERtggTYXykEkfk6F5wbag) | 3:02 | 2022-11-25 | 2022-12-03 |
 | [Apenas es Martes](https://open.spotify.com/track/56goS93EXFXZk4X6qPxJAt) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Apenas es Martes](https://open.spotify.com/album/0aDQnxWeCKcTTmj2NcNBRx) | 3:36 | 2023-07-21 | 2023-07-29 |
+| [Apocalipsis](https://open.spotify.com/track/7z5cZCDpaqLy71SqfS0YbJ) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [RealG4Life Vol\. 4](https://open.spotify.com/album/1xYN8n1zN2OuAL2VCrWDTx) | 2:23 | 2024-01-08 |  |
 | [aPoLLo13](https://open.spotify.com/track/0DxzhQolKK8fd3y0BAAbf4) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [aPoLLo13](https://open.spotify.com/album/5L3TaonVe9Z6ZF2HtoKcvE) | 2:40 | 2023-05-05 | 2023-05-13 |
 | [Apretaito](https://open.spotify.com/track/0LFxsB0fdwNIjfUtVpvAmq) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 2:41 | 2022-03-04 | 2022-03-12 |
 | [Apretaito](https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Apretaito](https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL) | 3:19 | 2022-04-08 | 2022-04-16 |
@@ -4328,7 +4329,7 @@
 | [Tiempo](https://open.spotify.com/track/79wZgmcWFMYPjV6Ty58t8b) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Tiempo](https://open.spotify.com/album/41Wxh8xLNvaolvU44HBupA) | 3:46 | 2022-09-02 | 2022-09-10 |
 | [Tiempo Indefinido](https://open.spotify.com/track/5olfCMs2dCnGsz6ZQPSmYy) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Tiempo Indefinido](https://open.spotify.com/album/4UBAXB1P4GiQoPXoprX1Xd) | 2:17 | 2023-03-17 | 2023-03-25 |
 | [Tiempos de Plan B](https://open.spotify.com/track/3ncDEAUzMdf291D27RJQdM) | [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [Tiempos de Plan B](https://open.spotify.com/album/7ciezkBiqpR8MOPveRhHLb) | 2:41 | 2023-03-03 | 2023-03-11 |
-| [Tienen Que Bregar](https://open.spotify.com/track/0M4xwdMil2xJj26zUrOhxA) | [Ñengo Flow](https://open.spotify.com/artist/2rM4AoD97GChAaXByC6nVa), [Rsiete](https://open.spotify.com/artist/11AFqsz5YS7kc3h3jPoCJi) | [Tienen Que Bregar](https://open.spotify.com/album/5IVotOkf9N91Wfx2gNDuip) | 2:38 | 2024-01-05 |  |
+| [Tienen Que Bregar](https://open.spotify.com/track/0M4xwdMil2xJj26zUrOhxA) | [Ñengo Flow](https://open.spotify.com/artist/2rM4AoD97GChAaXByC6nVa), [Rsiete](https://open.spotify.com/artist/11AFqsz5YS7kc3h3jPoCJi) | [Tienen Que Bregar](https://open.spotify.com/album/5IVotOkf9N91Wfx2gNDuip) | 2:38 | 2024-01-05 | 2024-01-09 |
 | [Tierra de Promesas \(Sierra Nevada\)](https://open.spotify.com/track/3ev9a5BsLouEwswQ9IOXtC) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Tierra de Promesas \(Sierra Nevada\)](https://open.spotify.com/album/6IjstXhUKDh4NAPTXXxUbQ) | 3:31 | 2022-10-21 | 2022-10-29 |
 | [Tierra Querida](https://open.spotify.com/track/15UftHtPcwWE23ON8b2uiR) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Tierra Querida](https://open.spotify.com/album/2iIbxTmZaOaRyImrEpvzdM) | 2:48 | 2022-06-17 | 2022-06-25 |
 | [TIERRA ZANTA](https://open.spotify.com/track/73zQG7t3tZDyePEflVSqJJ) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 3:57 | 2022-05-13 | 2022-05-20 |

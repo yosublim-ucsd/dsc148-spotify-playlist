@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 149325,
+  "num_followers": 149181,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTdlNjdmNzllYWJjZTNiM2M0NjVmMWRhMDIwMTkzMzgwZGQyZTYx",
+  "snapshot_id": "MCw3NWI5ZTFjZWI2NjlkY2M2ZDc0YmZjZGZlYzUyODNhOTI2OTk1YzZm",
   "tracks": [
     {
       "added_at": "2023-12-22 05:00:00",
@@ -103,6 +103,26 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
+        "name": "Just As I Am (Platinum Edition)",
+        "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 221573,
+      "name": "Bottoms Up - Remix",
+      "url": "https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
         "name": "Denim",
         "url": "https://open.spotify.com/album/3gTeJEis7kNTvgExDq4GVT"
       },
@@ -123,26 +143,6 @@
       "duration_ms": 225578,
       "name": "Way of Life",
       "url": "https://open.spotify.com/track/3ZSQnPonsWW70HwNkeADRg"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Just As I Am (Platinum Edition)",
-        "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        },
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 221573,
-      "name": "Bottoms Up - Remix",
-      "url": "https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -199,26 +199,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "We The People, Vol. 1",
-        "url": "https://open.spotify.com/album/1GDmEkvh5AFiIVhWPrSuR0"
-      },
-      "artists": [
-        {
-          "name": "Colt Ford",
-          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
-        },
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 174634,
-      "name": "Slow Ride",
-      "url": "https://open.spotify.com/track/4C6wFHj4l4an2UCVGXR6c5"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "Just As I Am (Platinum Edition)",
         "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 138318,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/3Ps0JFaxBuamCoQTx6X8LT"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "We The People, Vol. 1",
+        "url": "https://open.spotify.com/album/1GDmEkvh5AFiIVhWPrSuR0"
+      },
+      "artists": [
+        {
+          "name": "Colt Ford",
+          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+        },
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "duration_ms": 174634,
+      "name": "Slow Ride",
+      "url": "https://open.spotify.com/track/4C6wFHj4l4an2UCVGXR6c5"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -307,30 +307,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Must Be The Country",
-        "url": "https://open.spotify.com/album/5Tlc1AB7MVD2fDcI9P5im6"
-      },
-      "artists": [
-        {
-          "name": "Colt Ford",
-          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
-        },
-        {
-          "name": "Kevin Gates",
-          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
-        },
-        {
-          "name": "Jermaine Dupri",
-          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
-        }
-      ],
-      "duration_ms": 189837,
-      "name": "Hood",
-      "url": "https://open.spotify.com/track/01kkybO28KUiJN4meC9S7c"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "Blacked Out",
         "url": "https://open.spotify.com/album/3s3zL0GTPCOopTqv9laBQy"
       },
@@ -379,6 +355,22 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
+        "name": "Fire & Brimstone",
+        "url": "https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Fire\u2019t Up",
+      "url": "https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
         "name": "Target Practice",
         "url": "https://open.spotify.com/album/4UXqLULHYCflnysccRMF5L"
       },
@@ -399,18 +391,26 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Fire & Brimstone",
-        "url": "https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0"
+        "name": "Must Be The Country",
+        "url": "https://open.spotify.com/album/5Tlc1AB7MVD2fDcI9P5im6"
       },
       "artists": [
         {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+          "name": "Colt Ford",
+          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+        },
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        },
+        {
+          "name": "Jermaine Dupri",
+          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
         }
       ],
-      "duration_ms": 176506,
-      "name": "Fire\u2019t Up",
-      "url": "https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w"
+      "duration_ms": 189837,
+      "name": "Hood",
+      "url": "https://open.spotify.com/track/01kkybO28KUiJN4meC9S7c"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Sweet Southern Sugar",
-        "url": "https://open.spotify.com/album/4J4DGZzDABGKm0cQfXxWV3"
-      },
-      "artists": [
-        {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        }
-      ],
-      "duration_ms": 271486,
-      "name": "Po-Dunk",
-      "url": "https://open.spotify.com/track/1iuuoraT8gBaGAZWvhZGkD"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "Thanks for Listening",
         "url": "https://open.spotify.com/album/3WtqSu0KlVlyDURmFqBjdY"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 200441,
       "name": "Crank It Up",
       "url": "https://open.spotify.com/track/3mqrfe5u8PY39YNwlYME25"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Sweet Southern Sugar",
+        "url": "https://open.spotify.com/album/4J4DGZzDABGKm0cQfXxWV3"
+      },
+      "artists": [
+        {
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        }
+      ],
+      "duration_ms": 271486,
+      "name": "Po-Dunk",
+      "url": "https://open.spotify.com/track/1iuuoraT8gBaGAZWvhZGkD"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -551,26 +551,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Hog Heaven",
-        "url": "https://open.spotify.com/album/4d6JJcqCvlw4XBT5c3gbAf"
-      },
-      "artists": [
-        {
-          "name": "Charlie Farley",
-          "url": "https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk"
-        },
-        {
-          "name": "The Lacs",
-          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Backroads Life (feat. The Lacs)",
-      "url": "https://open.spotify.com/track/75RsCkcyXJvc26HmmwKhlu"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "Down the Road (feat. Colt Ford) [Remix]",
         "url": "https://open.spotify.com/album/5yc1gjIdUXeSY6U6Qa1jwb"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 165315,
       "name": "Down the Road (feat. Colt Ford) - Remix",
       "url": "https://open.spotify.com/track/4CmYl83JZSKuMMjssiALgs"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Hog Heaven",
+        "url": "https://open.spotify.com/album/4d6JJcqCvlw4XBT5c3gbAf"
+      },
+      "artists": [
+        {
+          "name": "Charlie Farley",
+          "url": "https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk"
+        },
+        {
+          "name": "The Lacs",
+          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Backroads Life (feat. The Lacs)",
+      "url": "https://open.spotify.com/track/75RsCkcyXJvc26HmmwKhlu"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -671,22 +671,22 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Dirt Road (Remix) (feat. BRELAND)",
-        "url": "https://open.spotify.com/album/6yU40tDImCqU2RrXGvh9Fo"
+        "name": "The Colonel",
+        "url": "https://open.spotify.com/album/5SalPE1kM0kQstTj137IwD"
       },
       "artists": [
         {
-          "name": "Kidd G",
-          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
+          "name": "Dusty Leigh",
+          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
         },
         {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+          "name": "Justin Champagne",
+          "url": "https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH"
         }
       ],
-      "duration_ms": 155866,
-      "name": "Dirt Road (Remix) (feat. BRELAND)",
-      "url": "https://open.spotify.com/track/3xGnEIb8czDRlGZjbAITlL"
+      "duration_ms": 157367,
+      "name": "Good Vibes Only",
+      "url": "https://open.spotify.com/track/0tAdSd0ZUVmkFZng2FiLt5"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -711,22 +711,22 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "The Colonel",
-        "url": "https://open.spotify.com/album/5SalPE1kM0kQstTj137IwD"
+        "name": "Dirt Road (Remix) (feat. BRELAND)",
+        "url": "https://open.spotify.com/album/6yU40tDImCqU2RrXGvh9Fo"
       },
       "artists": [
         {
-          "name": "Dusty Leigh",
-          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
+          "name": "Kidd G",
+          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
         },
         {
-          "name": "Justin Champagne",
-          "url": "https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH"
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
         }
       ],
-      "duration_ms": 157367,
-      "name": "Good Vibes Only",
-      "url": "https://open.spotify.com/track/0tAdSd0ZUVmkFZng2FiLt5"
+      "duration_ms": 155866,
+      "name": "Dirt Road (Remix) (feat. BRELAND)",
+      "url": "https://open.spotify.com/track/3xGnEIb8czDRlGZjbAITlL"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -791,22 +791,18 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "We The People, Vol. 1",
-        "url": "https://open.spotify.com/album/1GDmEkvh5AFiIVhWPrSuR0"
+        "name": "Tall Boy",
+        "url": "https://open.spotify.com/album/3xiSzk0ObgjDyMpr7SUY4w"
       },
       "artists": [
         {
-          "name": "Colt Ford",
-          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
-        },
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 191669,
-      "name": "Back to Them Backroads",
-      "url": "https://open.spotify.com/track/1VGwVRbEfLsVsKxrRK05Xo"
+      "duration_ms": 140128,
+      "name": "Tall Boy",
+      "url": "https://open.spotify.com/track/74g98VNWX3HclMI3JfazVn"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -831,18 +827,22 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Tall Boy",
-        "url": "https://open.spotify.com/album/3xiSzk0ObgjDyMpr7SUY4w"
+        "name": "We The People, Vol. 1",
+        "url": "https://open.spotify.com/album/1GDmEkvh5AFiIVhWPrSuR0"
       },
       "artists": [
         {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+          "name": "Colt Ford",
+          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+        },
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
         }
       ],
-      "duration_ms": 140128,
-      "name": "Tall Boy",
-      "url": "https://open.spotify.com/track/74g98VNWX3HclMI3JfazVn"
+      "duration_ms": 191669,
+      "name": "Back to Them Backroads",
+      "url": "https://open.spotify.com/track/1VGwVRbEfLsVsKxrRK05Xo"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "American White Trash",
-        "url": "https://open.spotify.com/album/4qr6adlfQSmnuEksitsIYd"
-      },
-      "artists": [
-        {
-          "name": "Cypress Spring",
-          "url": "https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC"
-        }
-      ],
-      "duration_ms": 167392,
-      "name": "White Trash",
-      "url": "https://open.spotify.com/track/4PQywXtsoLDSJQJe8WpIqv"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "Outlaw In Me",
         "url": "https://open.spotify.com/album/760sXqdIdCq7C9zHKELKYr"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 279880,
       "name": "Out Here",
       "url": "https://open.spotify.com/track/0MWRZAn0iqxue6g7bm72KV"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "American White Trash",
+        "url": "https://open.spotify.com/album/4qr6adlfQSmnuEksitsIYd"
+      },
+      "artists": [
+        {
+          "name": "Cypress Spring",
+          "url": "https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC"
+        }
+      ],
+      "duration_ms": 167392,
+      "name": "White Trash",
+      "url": "https://open.spotify.com/track/4PQywXtsoLDSJQJe8WpIqv"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Southern",
-        "url": "https://open.spotify.com/album/0MyKGDeK3cGq2J2fkSMfhd"
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/045KdMFUDzWbFjxwwPmwnn"
       },
       "artists": [
         {
-          "name": "Katie Noel",
-          "url": "https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt"
+          "name": "Cypress Spring",
+          "url": "https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC"
         }
       ],
-      "duration_ms": 183336,
-      "name": "Southern",
-      "url": "https://open.spotify.com/track/60TduAd1s7rhsqmzXQxk9m"
+      "duration_ms": 192101,
+      "name": "The Dream",
+      "url": "https://open.spotify.com/track/7LjenQM99kDj7iwTHdjBg8"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "The Dream",
-        "url": "https://open.spotify.com/album/045KdMFUDzWbFjxwwPmwnn"
+        "name": "Southern",
+        "url": "https://open.spotify.com/album/0MyKGDeK3cGq2J2fkSMfhd"
       },
       "artists": [
         {
-          "name": "Cypress Spring",
-          "url": "https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC"
+          "name": "Katie Noel",
+          "url": "https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt"
         }
       ],
-      "duration_ms": 192101,
-      "name": "The Dream",
-      "url": "https://open.spotify.com/track/7LjenQM99kDj7iwTHdjBg8"
+      "duration_ms": 183336,
+      "name": "Southern",
+      "url": "https://open.spotify.com/track/60TduAd1s7rhsqmzXQxk9m"
     },
     {
       "added_at": "2023-12-22 05:00:00",

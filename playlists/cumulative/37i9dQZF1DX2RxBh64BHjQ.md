@@ -2,7 +2,7 @@
 
 ### [Most Necessary](https://open.spotify.com/playlist/37i9dQZF1DX2RxBh64BHjQ)
 
-> The official voice of the next generation\. Cover: <a href="spotify:artist:6qxpnaukVayrQn6ViNvu9I">BigXthaPlug</a>
+> The official voice of the next generation\. Cover: <a href="spotify:artist:0yknvLWQZxwsMjhUhwWZQ8">41</a>
 
 1,477 songs - 2 day 18 hr 39 min
 

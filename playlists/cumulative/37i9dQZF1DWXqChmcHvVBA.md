@@ -4,7 +4,7 @@
 
 > No es cumbia, tampoco reggaetón\. Foto: Omar Varela & El Negro Tecla.
 
-110 songs - 5 hr 13 min
+111 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [TURROMANTIKO](https://open.spotify.com/track/1PmKfNsHxPdMaHP496myD3) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [TURROMANTIKO](https://open.spotify.com/album/3wfs2paCHzj0szL6hyq2pE) | 2:11 | 2023-12-15 | 2023-12-23 |
 | [Ubicacion 5 Saquense la Ropa](https://open.spotify.com/track/4EssJyOx8862eIHQxn6XS1) | [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv), [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb) | [Ubicacion 5 Saquense la Ropa](https://open.spotify.com/album/15oeQdBMy60Hc8ho85eLhG) | 2:33 | 2023-12-15 |  |
 | [Una Foto](https://open.spotify.com/track/4sl3IoHskl2Kbdy27gZ4yn) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [Una Foto](https://open.spotify.com/album/68oJKya0ABvKQkx5Zx0KXi) | 2:02 | 2023-12-15 |  |
+| [Una Foto Remix \(feat\. Emilia\)](https://open.spotify.com/track/1kqH58eGh2ZTOHwqBIB2tM) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Una Foto Remix \(feat\. Emilia\)](https://open.spotify.com/album/4f47mbk3DOWJ16DXLnviMw) | 4:03 | 2024-01-08 |  |
 | [Vago & Atorrante](https://open.spotify.com/track/52Wr8gSdcxDfhXAIDR5xbQ) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [Vago & Atorrante](https://open.spotify.com/album/0BEo4bqVoQnXzjLm6hzDMb) | 2:46 | 2023-12-15 |  |
 | [Vamos A Amanecer \- Remix](https://open.spotify.com/track/0nk7pbLOJEGRlzSdN1erGe) | [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ) | [Vamos A Amanecer \(Remix\)](https://open.spotify.com/album/5xcEXfGJCm9aqLqUGqh8bs) | 2:53 | 2023-12-15 |  |
 | [Ven Mami](https://open.spotify.com/track/6pildotJolQfz6sS66RG6y) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Phontana](https://open.spotify.com/artist/41BZwHjzWGfT4wsOP3yZOz) | [Ven Mami](https://open.spotify.com/album/7DUmakEvCrPVq013IrGiHD) | 2:51 | 2023-12-15 |  |

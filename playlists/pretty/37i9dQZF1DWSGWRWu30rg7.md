@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Abeliano
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,825 likes - 84 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,735 likes - 84 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 83 | [All My Worries](https://open.spotify.com/track/7hfmAYVUmPkzJOHYZ9V4cJ) | [Athron](https://open.spotify.com/artist/1Pp0ZR4kYRlJ0BYK8Oyvjn), [Andreas Arianto](https://open.spotify.com/artist/1DQGUYEr9OxSlu11lxWizY) | [All My Worries](https://open.spotify.com/album/6dv2iltWNdSSBDiVhRyufx) | 3:21 |
 | 84 | [Rindu Enggan Pergi](https://open.spotify.com/track/22CdkAt39E78G2o1ffFdRU) | [Haikal Equino](https://open.spotify.com/artist/5pEEbhMFqK0x1uw3twr6jS) | [Rindu Enggan Pergi](https://open.spotify.com/album/6dPqRKQRxNQm4TqTzm6kqT) | 4:10 |
 
-Snapshot ID: `MCw4ZTBjNTA2Yzg2OTMxZmM4ZjE0ODAwMTczMTM2ZmM3MzNiNWVjOWZh`
+Snapshot ID: `MCxhYjNkODJiYzI2ODQ4MTM3YjNkMDAwNDAwNWZhYTdlM2M3NTI2NGFj`

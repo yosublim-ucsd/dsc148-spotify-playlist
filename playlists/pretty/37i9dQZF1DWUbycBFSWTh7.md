@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 
 > get into the groove
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,556 likes - 100 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,532 likes - 100 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Keep Rocking](https://open.spotify.com/track/2v8xrpCugWBJgNbJfzErqQ) | [LoMalo](https://open.spotify.com/artist/7eI1cqfGN3bZijbM1rr9RN) | [Voice Memos](https://open.spotify.com/album/5fvdI0au0Ncr9EDbKBIzV6) | 2:53 |
-| 2 | [Minor Fools \- Edit](https://open.spotify.com/track/5Tnn9kaAshnriaS9jKeMio) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Minor Fools](https://open.spotify.com/album/1Av53Ax9wI3qTHSBpmYzKx) | 3:52 |
-| 3 | [Submerge](https://open.spotify.com/track/0cvN2gtMkN0J9DFqlhLxdg) | [Desmon](https://open.spotify.com/artist/0ztg6IL54wUN8VTV04xO39) | [Submerge](https://open.spotify.com/album/2hZNfOXSZBm7PflU4kTgCi) | 6:30 |
-| 4 | [2Sides \- Crackazat Remix](https://open.spotify.com/track/3p2UnuScyVx2C2bJkLDwD2) | [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp), [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [2Sides \(Crackazat Remix\)](https://open.spotify.com/album/5inqQ4aqL1gvoOzjwpPt5L) | 5:17 |
-| 5 | [Better Off Alone](https://open.spotify.com/track/2BFa2yuyuoNe3YalZLkefR) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f) | [Better Off Alone](https://open.spotify.com/album/3xHEASPayOb9AxWAOuDE33) | 5:02 |
+| 2 | [Better Off Alone](https://open.spotify.com/track/2BFa2yuyuoNe3YalZLkefR) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f) | [Better Off Alone](https://open.spotify.com/album/3xHEASPayOb9AxWAOuDE33) | 5:02 |
+| 3 | [Minor Fools \- Edit](https://open.spotify.com/track/5Tnn9kaAshnriaS9jKeMio) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Minor Fools](https://open.spotify.com/album/1Av53Ax9wI3qTHSBpmYzKx) | 3:52 |
+| 4 | [Submerge](https://open.spotify.com/track/0cvN2gtMkN0J9DFqlhLxdg) | [Desmon](https://open.spotify.com/artist/0ztg6IL54wUN8VTV04xO39) | [Submerge](https://open.spotify.com/album/2hZNfOXSZBm7PflU4kTgCi) | 6:30 |
+| 5 | [2Sides \- Crackazat Remix](https://open.spotify.com/track/3p2UnuScyVx2C2bJkLDwD2) | [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp), [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [2Sides \(Crackazat Remix\)](https://open.spotify.com/album/5inqQ4aqL1gvoOzjwpPt5L) | 5:17 |
 | 6 | [Routine](https://open.spotify.com/track/2XswifMGlLR9a4rGiRdvJM) | [Peffa](https://open.spotify.com/artist/6f4PnTL7DA60ceSqN6I70k) | [Routine](https://open.spotify.com/album/53GEGTBLG55nQcY4ZSbegv) | 7:07 |
 | 7 | [Forget About You \- Girls of the Internet Remix](https://open.spotify.com/track/7wm5X3Rf5OGZ8M0R2aA3tl) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Forget About You \(Girls of the Internet Remix\)](https://open.spotify.com/album/0r1Ojd3xub8smhYYLPcqaP) | 4:41 |
 | 8 | [Time](https://open.spotify.com/track/5JUvmSedBunsVi66CPnEBK) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw), [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52), [A$AP NAST](https://open.spotify.com/artist/1uLYUm2A6kpFYAECfAFoH1) | [Time](https://open.spotify.com/album/6qdTXzg7QJaI98wzYagK7H) | 5:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 | 99 | [Yasuo](https://open.spotify.com/track/13UXFUokjGZqQM0g1HSX7Q) | [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Yasuo](https://open.spotify.com/album/6sZubZLNEZiwb1VYnxB5Qa) | 6:50 |
 | 100 | [High School](https://open.spotify.com/track/1mNwuE3ShRGCoGv3WD3oVO) | [LoMalo](https://open.spotify.com/artist/7eI1cqfGN3bZijbM1rr9RN) | [Voice Memos](https://open.spotify.com/album/5fvdI0au0Ncr9EDbKBIzV6) | 2:57 |
 
-Snapshot ID: `MCwxNGQzMTlhYTU3NGU1OWJjNThiMzU5MzNjMWNjNmVkOWEyZDZkNTZi`
+Snapshot ID: `MCxlZDJlYjhiZTU1MzQwMWY1YjE3YzcyM2QwMmFlZGM2YWFjOWY5YWY3`

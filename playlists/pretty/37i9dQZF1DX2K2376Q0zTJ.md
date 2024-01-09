@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [Thinking of You](https://open.spotify.com/track/3SqHn3nZ97WlY0tznIRSo9) | [Tsubaki](https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx) | [Thinking of You](https://open.spotify.com/album/5TidXYzuZOw8akoMZAfTxG) | 3:23 |
 | 50 | [Chanel pt.2](https://open.spotify.com/track/31lBeogAxC65q2jMHmQM2k) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [KAWAII BUBBLY LOVELY III](https://open.spotify.com/album/6qEMRBsppEDrGMF3RdgNN1) | 1:46 |
 
-Snapshot ID: `MCxjNzkzZTQ2ODJhYjUwMDlmOWRhODRiNTY4NDllZDQxZWJmOTQ5NjI2`
+Snapshot ID: `MCw2ZGU0YWU2NjI1Yjg4Zjc1ZmUxZmYwYTdhYmZmZWM1ZDZjOTFiNjll`

@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-413 songs - 1 day 10 hr 47 min
+415 songs - 1 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [Intuition](https://open.spotify.com/track/6nP0K210TKE3VtjkngS0ks) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Intuition](https://open.spotify.com/album/2kORg46W2CuossZxEm5qOO) | 3:23 | 2023-10-13 |  |
 | [Io](https://open.spotify.com/track/5fFbgdPYMQR0mGrBUBN8eT) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [Io](https://open.spotify.com/album/4ixBSm1M7HT8EdDWXN8Qoa) | 4:05 | 2023-04-07 | 2023-04-29 |
 | [It's All Good](https://open.spotify.com/track/6QqWR8fmdwG6rfgxwFHcrI) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [It's All Good](https://open.spotify.com/album/2auTyTFkBTYDIQwQKLz8l4) | 3:31 | 2023-12-08 |  |
-| [Jai](https://open.spotify.com/track/0I2SMryhYP1uu2RyGW8Egs) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [N1RVAAN](https://open.spotify.com/artist/1LhuBvyi63MWrNF5aBG9lA) | [Jai](https://open.spotify.com/album/4VoSGRyNmId6BOgNF6wcEE) | 5:39 | 2023-12-08 |  |
+| [Jai](https://open.spotify.com/track/0I2SMryhYP1uu2RyGW8Egs) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [N1RVAAN](https://open.spotify.com/artist/1LhuBvyi63MWrNF5aBG9lA) | [Jai](https://open.spotify.com/album/4VoSGRyNmId6BOgNF6wcEE) | 5:39 | 2023-12-08 | 2024-01-09 |
 | [Katania](https://open.spotify.com/track/1RkMowNCyx8JDl2NAzmSOl) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [Katania](https://open.spotify.com/album/6jaUFnMIk0TI6DaF1AoIEn) | 3:27 | 2023-08-04 | 2023-10-15 |
 | [Katania](https://open.spotify.com/track/6Q9KTkBgjAPBuUmvUYcVDK) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [Katania](https://open.spotify.com/album/0F3M1uo7uOGNvxtRx9OudU) | 3:27 | 2023-10-27 |  |
 | [KEEP ME IN YOUR MIND \- Einmusik Remix](https://open.spotify.com/track/1M3CJIRObczFPT529PyzMy) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [KEEP ME IN YOUR MIND \(Einmusik Remix\)](https://open.spotify.com/album/7uJQ17FKSVFfty0wsa4AMb) | 6:29 | 2023-03-10 | 2023-05-13 |
@@ -267,9 +267,11 @@
 | [Pantheon](https://open.spotify.com/track/2fY9O2PpELY5hubBbC2zEG) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Pantheon](https://open.spotify.com/album/6CCx2uI8l08YutD22C7BvT) | 4:32 | 2023-01-13 | 2024-01-05 |
 | [Paradise Calling \- Henri Bergmann Remix](https://open.spotify.com/track/6Wu6BSw8N2KqBNHKYZolYu) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo) | [Paradise Calling \(Henri Bergmann Remix\)](https://open.spotify.com/album/32CDmng6IXw9koENByQRiw) | 5:19 | 2023-12-08 |  |
 | [Parallel Universe](https://open.spotify.com/track/5xAJUyPsGjvGWxoeSl4zuV) | [Denise Schneider](https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI) | [Parallel Universe](https://open.spotify.com/album/2oyN4nfs3fNbczk0CTP722) | 3:14 | 2023-06-09 | 2023-06-17 |
-| [Pegasus](https://open.spotify.com/track/0ly6MZRi74jcRezlEYqeeJ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Pegasus](https://open.spotify.com/album/6DHxpHF6eBymp71iWvjwTV) | 6:52 | 2023-03-24 |  |
+| [Pegasus](https://open.spotify.com/track/0ly6MZRi74jcRezlEYqeeJ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Pegasus](https://open.spotify.com/album/6DHxpHF6eBymp71iWvjwTV) | 6:52 | 2023-03-24 | 2024-01-09 |
+| [Perception](https://open.spotify.com/track/1ekuYNPiJXmXqb92TORiPX) | [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Perception](https://open.spotify.com/album/2VAQkslaimMoY3kAIBwash) | 4:42 | 2024-01-08 |  |
 | [Pet Sound](https://open.spotify.com/track/5mDlLXhBzoneaC3pvaXbNE) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [I Talk To Water](https://open.spotify.com/album/07aZK8FsMUcJkrADgMWxsi) | 5:46 | 2023-11-09 | 2023-12-02 |
 | [Place To Be](https://open.spotify.com/track/7fEXuHcjNUIDjoe1LUxyqt) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Place To Be](https://open.spotify.com/album/4AFTUQtnX34HBOJjk08Wdp) | 3:12 | 2023-05-23 | 2023-06-01 |
+| [Point Of No Return](https://open.spotify.com/track/2xsIBTddzLEnXCFsxPHBn0) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Point Of No Return](https://open.spotify.com/album/3rtikOpy9VLFHFv79b2ZzQ) | 4:43 | 2024-01-05 |  |
 | [Point Of No Return](https://open.spotify.com/track/6PzfuuQ95fRU9JRFSFFq77) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Point Of No Return](https://open.spotify.com/album/6YfeosMg7VMAnS9wXiMQID) | 4:43 | 2023-03-21 | 2024-01-05 |
 | [Portal](https://open.spotify.com/track/0ZsVbxQBkemT1fOUOMeO8H) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq), [Alfa Romero](https://open.spotify.com/artist/5NYS4CtpiA1O9HahyjGfgE) | [Portal / Sad & Happy](https://open.spotify.com/album/1Cy0aIB5e4vHqHAAQm9RTa) | 3:37 | 2023-09-21 | 2023-11-10 |
 | [Portal](https://open.spotify.com/track/0HgxhNKiQy2LYxExwyZMWI) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Portal / Echoes](https://open.spotify.com/album/7evuenwoczpZ1eWE6DQeBw) | 3:27 | 2023-08-11 | 2023-11-25 |

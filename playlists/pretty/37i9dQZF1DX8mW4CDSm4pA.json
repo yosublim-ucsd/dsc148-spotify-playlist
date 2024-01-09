@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjE0YmRmMTIzY2IyYzFlMjA4MTU3ZTJjZjYyZGZmMDI1NDVlMDcz",
+  "snapshot_id": "MCwxYmRkMjNhZThiZGYwZWE0N2QyNGIyZDg0MmI1MzNkZWZiOTE0YzI4",
   "tracks": [
     {
       "added_at": "2023-06-01 04:00:00",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Flesh Of My Flesh, Blood Of My Blood",
-        "url": "https://open.spotify.com/album/3dNsHWAS8t7AiAqj9ofG5T"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 305466,
-      "name": "Slippin'",
-      "url": "https://open.spotify.com/track/740gNyGWKk98gy8nJLhHrv"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/2yDwwjGzGEcyJMEJuCNyiP"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 285760,
       "name": "Juicy",
       "url": "https://open.spotify.com/track/2AP7m2dBb8ULTx4Gc1rdMc"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Flesh Of My Flesh, Blood Of My Blood",
+        "url": "https://open.spotify.com/album/3dNsHWAS8t7AiAqj9ofG5T"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "duration_ms": 305466,
+      "name": "Slippin'",
+      "url": "https://open.spotify.com/track/740gNyGWKk98gy8nJLhHrv"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -511,38 +511,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Find Me",
-        "url": "https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C"
-      },
-      "artists": [
-        {
-          "name": "Joseph Solomon",
-          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
-        }
-      ],
-      "duration_ms": 206460,
-      "name": "The Ocean",
-      "url": "https://open.spotify.com/track/18FsPeHdE9xPtQgnsVbiU5"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
-        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 214893,
-      "name": "Do What You Gotta Do",
-      "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "Songs In A Minor",
         "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
       },
@@ -575,6 +543,22 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
+        "name": "Find Me",
+        "url": "https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C"
+      },
+      "artists": [
+        {
+          "name": "Joseph Solomon",
+          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
+        }
+      ],
+      "duration_ms": 206460,
+      "name": "The Ocean",
+      "url": "https://open.spotify.com/track/18FsPeHdE9xPtQgnsVbiU5"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
         "name": "NINA REVISITED: A Tribute to Nina Simone",
         "url": "https://open.spotify.com/album/71ShNGI2uUKZnCBOITSjRL"
       },
@@ -587,22 +571,6 @@
       "duration_ms": 399533,
       "name": "I Put A Spell On You",
       "url": "https://open.spotify.com/track/3GkkWBaxrZB3pGAULEYXaM"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Find Me",
-        "url": "https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C"
-      },
-      "artists": [
-        {
-          "name": "Joseph Solomon",
-          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
-        }
-      ],
-      "duration_ms": 257776,
-      "name": "Find Me",
-      "url": "https://open.spotify.com/track/25x0SY1uAZsgP2ZzWrzsxV"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -627,18 +595,18 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Infinite Possibilities",
-        "url": "https://open.spotify.com/album/4L3sYcWC4WVWo3auC0WfxL"
+        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
+        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
       },
       "artists": [
         {
-          "name": "Amel Larrieux",
-          "url": "https://open.spotify.com/artist/4hVcxmC7igpot32EzQf7IR"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 270760,
-      "name": "Make Me Whole",
-      "url": "https://open.spotify.com/track/6nVWopkV9TK2YR7HZUh8oS"
+      "duration_ms": 214893,
+      "name": "Do What You Gotta Do",
+      "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -655,6 +623,22 @@
       "duration_ms": 359600,
       "name": "So Much Things to Say - Live",
       "url": "https://open.spotify.com/track/6Z890DNJZynimxAwn3zsa2"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Infinite Possibilities",
+        "url": "https://open.spotify.com/album/4L3sYcWC4WVWo3auC0WfxL"
+      },
+      "artists": [
+        {
+          "name": "Amel Larrieux",
+          "url": "https://open.spotify.com/artist/4hVcxmC7igpot32EzQf7IR"
+        }
+      ],
+      "duration_ms": 270760,
+      "name": "Make Me Whole",
+      "url": "https://open.spotify.com/track/6nVWopkV9TK2YR7HZUh8oS"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -691,6 +675,22 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
+        "name": "Find Me",
+        "url": "https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C"
+      },
+      "artists": [
+        {
+          "name": "Joseph Solomon",
+          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
+        }
+      ],
+      "duration_ms": 257776,
+      "name": "Find Me",
+      "url": "https://open.spotify.com/track/25x0SY1uAZsgP2ZzWrzsxV"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/4xWQy5s10Udgbqp0ZJQshJ"
       },
@@ -707,22 +707,6 @@
       "duration_ms": 167266,
       "name": "What You Gave Me",
       "url": "https://open.spotify.com/track/1yrZ0GevGt5HwBGH16MGBg"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Nina with Strings",
-        "url": "https://open.spotify.com/album/1wAn07zcivIIKWKAg2xIry"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 243733,
-      "name": "I Loves You, Porgy",
-      "url": "https://open.spotify.com/track/2g3C9WXJ33RPdW18ZZGFlD"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -747,22 +731,6 @@
       "duration_ms": 141244,
       "name": "Mean",
       "url": "https://open.spotify.com/track/54FJsCzX921AbmHchPluHd"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Find Me",
-        "url": "https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C"
-      },
-      "artists": [
-        {
-          "name": "Joseph Solomon",
-          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
-        }
-      ],
-      "duration_ms": 207647,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/5dAD6gxUH9Bo9nwsKNHRo0"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -799,6 +767,22 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
+        "name": "Nina with Strings",
+        "url": "https://open.spotify.com/album/1wAn07zcivIIKWKAg2xIry"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 243733,
+      "name": "I Loves You, Porgy",
+      "url": "https://open.spotify.com/track/2g3C9WXJ33RPdW18ZZGFlD"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
         "name": "Blame",
         "url": "https://open.spotify.com/album/71DZFJCQscYip43tFMaWbN"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "The Passion Of The Christ: Songs",
-        "url": "https://open.spotify.com/album/5DmO1nHehQ5oS3FXPQuZTF"
+        "name": "Find Me",
+        "url": "https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C"
       },
       "artists": [
         {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+          "name": "Joseph Solomon",
+          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
         }
       ],
-      "duration_ms": 345946,
-      "name": "The Passion",
-      "url": "https://open.spotify.com/track/1j1SEf9cpBQ0azBl7qKnGm"
+      "duration_ms": 207647,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/5dAD6gxUH9Bo9nwsKNHRo0"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -843,6 +827,22 @@
       "duration_ms": 146938,
       "name": "Bitter Sweet",
       "url": "https://open.spotify.com/track/5oZWMoyco56vs88S9GbWwU"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "The Passion Of The Christ: Songs",
+        "url": "https://open.spotify.com/album/5DmO1nHehQ5oS3FXPQuZTF"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 345946,
+      "name": "The Passion",
+      "url": "https://open.spotify.com/track/1j1SEf9cpBQ0azBl7qKnGm"
     }
   ],
   "unique_name": "Dominique's Taste",

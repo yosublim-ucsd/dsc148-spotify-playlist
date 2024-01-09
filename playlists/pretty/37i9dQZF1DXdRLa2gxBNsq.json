@@ -1,12 +1,12 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Arpaviejas.",
-  "num_followers": 101960,
+  "num_followers": 101935,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzNhY2E2YmNkYzg4YjMwMmVlYTE4OTk5YzJjNDgyNGRhMWMxYTQ3",
+  "snapshot_id": "MCxjYzI4NjZlYTRjM2VhYWY3YmVmMDJhNmYwY2U1NTQxMTk1ZmFmYmMw",
   "tracks": [
     {
       "added_at": "2023-12-28 22:59:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-12-28 22:59:00",
       "album": {
-        "name": "Aizkolari",
-        "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
-      },
-      "artists": [
-        {
-          "name": "Kortatu",
-          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
-        }
-      ],
-      "duration_ms": 197480,
-      "name": "Mierda De Ciudad",
-      "url": "https://open.spotify.com/track/6lSJZiZqWU8Qt1fJVeFZEv"
-    },
-    {
-      "added_at": "2023-12-28 22:59:00",
-      "album": {
         "name": "Dif\u00edcil Ser Humano",
         "url": "https://open.spotify.com/album/0cxzvpX9lZV37ISgBjrQ4e"
       },
@@ -171,6 +155,22 @@
     {
       "added_at": "2023-12-28 22:59:00",
       "album": {
+        "name": "Porsupuest\u00f3n",
+        "url": "https://open.spotify.com/album/4fhyGd8qDAkvZXmDvLYixi"
+      },
+      "artists": [
+        {
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+        }
+      ],
+      "duration_ms": 220693,
+      "name": "Mil Historias",
+      "url": "https://open.spotify.com/track/7mElnVvJoNpmTDSPvOJMUB"
+    },
+    {
+      "added_at": "2023-12-28 22:59:00",
+      "album": {
         "name": "A Mi Manera, Vol. 2 (Leyendas de un Desconocido)",
         "url": "https://open.spotify.com/album/2AdGLqWCfeJb4a5JQoVe6C"
       },
@@ -187,18 +187,18 @@
     {
       "added_at": "2023-12-28 22:59:00",
       "album": {
-        "name": "Porsupuest\u00f3n",
-        "url": "https://open.spotify.com/album/4fhyGd8qDAkvZXmDvLYixi"
+        "name": "Aizkolari",
+        "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
       },
       "artists": [
         {
-          "name": "Kaos Et\u00edliko",
-          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+          "name": "Kortatu",
+          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
         }
       ],
-      "duration_ms": 220693,
-      "name": "Mil Historias",
-      "url": "https://open.spotify.com/track/7mElnVvJoNpmTDSPvOJMUB"
+      "duration_ms": 197480,
+      "name": "Mierda De Ciudad",
+      "url": "https://open.spotify.com/track/6lSJZiZqWU8Qt1fJVeFZEv"
     },
     {
       "added_at": "2023-12-28 22:59:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-12-28 22:59:00",
       "album": {
-        "name": "Suburbiales",
-        "url": "https://open.spotify.com/album/6Iujfr9lJkl5hj9yk8XT4A"
-      },
-      "artists": [
-        {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
-        }
-      ],
-      "duration_ms": 200320,
-      "name": "Ante la Muerte",
-      "url": "https://open.spotify.com/track/05bsH5Fb8aCb5gOdDLwj3b"
-    },
-    {
-      "added_at": "2023-12-28 22:59:00",
-      "album": {
         "name": "Raska Y Pierde",
         "url": "https://open.spotify.com/album/3hYROJXYVEmFZrDJEYAqmH"
       },
@@ -639,18 +623,18 @@
     {
       "added_at": "2023-12-28 22:59:00",
       "album": {
-        "name": "Criatura",
-        "url": "https://open.spotify.com/album/3VnnePO0pWXdHCS1fBbNar"
+        "name": "Suburbiales",
+        "url": "https://open.spotify.com/album/6Iujfr9lJkl5hj9yk8XT4A"
       },
       "artists": [
         {
-          "name": "Non Servium",
-          "url": "https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS"
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
         }
       ],
-      "duration_ms": 159642,
-      "name": "Criatura",
-      "url": "https://open.spotify.com/track/4lpFfUzN3Tss3XrtCj3Gc9"
+      "duration_ms": 200320,
+      "name": "Ante la Muerte",
+      "url": "https://open.spotify.com/track/05bsH5Fb8aCb5gOdDLwj3b"
     },
     {
       "added_at": "2023-12-28 22:59:00",
@@ -667,6 +651,22 @@
       "duration_ms": 220943,
       "name": "Lola",
       "url": "https://open.spotify.com/track/150HpH0TzhcVwKASywBPs5"
+    },
+    {
+      "added_at": "2023-12-28 22:59:00",
+      "album": {
+        "name": "Criatura",
+        "url": "https://open.spotify.com/album/3VnnePO0pWXdHCS1fBbNar"
+      },
+      "artists": [
+        {
+          "name": "Non Servium",
+          "url": "https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS"
+        }
+      ],
+      "duration_ms": 159642,
+      "name": "Criatura",
+      "url": "https://open.spotify.com/track/4lpFfUzN3Tss3XrtCj3Gc9"
     },
     {
       "added_at": "2023-12-28 22:59:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-12-28 22:59:00",
       "album": {
+        "name": "C\u00f3mo Convertirse en Nada",
+        "url": "https://open.spotify.com/album/0W02GXYGmc4BrcAEH1mlJq"
+      },
+      "artists": [
+        {
+          "name": "Gatillazo",
+          "url": "https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam"
+        }
+      ],
+      "duration_ms": 160253,
+      "name": "C\u00f3mo Convertirse en Nada",
+      "url": "https://open.spotify.com/track/7bZfAk1tgSGyIfpQZfOj3A"
+    },
+    {
+      "added_at": "2023-12-28 22:59:00",
+      "album": {
         "name": "Disp\u00e1rame",
         "url": "https://open.spotify.com/album/0wdBkfYTEmMQjqND8f1MUD"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 152000,
       "name": "Disp\u00e1rame",
       "url": "https://open.spotify.com/track/3ttofroygpDF5hKxwfeeM6"
-    },
-    {
-      "added_at": "2023-12-28 22:59:00",
-      "album": {
-        "name": "C\u00f3mo Convertirse en Nada",
-        "url": "https://open.spotify.com/album/0W02GXYGmc4BrcAEH1mlJq"
-      },
-      "artists": [
-        {
-          "name": "Gatillazo",
-          "url": "https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam"
-        }
-      ],
-      "duration_ms": 160253,
-      "name": "C\u00f3mo Convertirse en Nada",
-      "url": "https://open.spotify.com/track/7bZfAk1tgSGyIfpQZfOj3A"
     },
     {
       "added_at": "2023-12-28 22:59:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-12-28 22:59:00",
       "album": {
+        "name": "Aizkolari",
+        "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
+      },
+      "artists": [
+        {
+          "name": "Kortatu",
+          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
+        }
+      ],
+      "duration_ms": 127480,
+      "name": "Jimmy Jazz",
+      "url": "https://open.spotify.com/track/5JU3KxDurO5jxRS6oXDKFN"
+    },
+    {
+      "added_at": "2023-12-28 22:59:00",
+      "album": {
         "name": "Inadaptados",
         "url": "https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 194192,
       "name": "El Mes\u00edas",
       "url": "https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7"
-    },
-    {
-      "added_at": "2023-12-28 22:59:00",
-      "album": {
-        "name": "Aizkolari",
-        "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
-      },
-      "artists": [
-        {
-          "name": "Kortatu",
-          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
-        }
-      ],
-      "duration_ms": 127480,
-      "name": "Jimmy Jazz",
-      "url": "https://open.spotify.com/track/5JU3KxDurO5jxRS6oXDKFN"
     },
     {
       "added_at": "2023-12-28 22:59:00",

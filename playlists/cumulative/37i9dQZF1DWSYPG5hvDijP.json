@@ -899,6 +899,28 @@
     },
     {
       "album": {
+        "name": "California Blaze",
+        "url": "https://open.spotify.com/album/1LCr8RKvVMWYuIxrdvbEBn"
+      },
+      "artists": [
+        {
+          "name": "Gravity",
+          "url": "https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO"
+        },
+        {
+          "name": "Outfly",
+          "url": "https://open.spotify.com/artist/3lpYJAdDhRGm9mFyPxEKBi"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161100,
+      "name": "California Blaze",
+      "url": "https://open.spotify.com/track/0qsDLoN3Tvb3aOoa3h4TnP"
+    },
+    {
+      "album": {
         "name": "Chhod Dala",
         "url": "https://open.spotify.com/album/4so9xrFmNkNW58CfxtjkbT"
       },
@@ -1206,7 +1228,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 177107,
       "name": "Dil Se Dil Tak",
       "url": "https://open.spotify.com/track/7AX0yf9UCmJbEhpnzLnGJe"
@@ -3150,7 +3172,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 218142,
       "name": "No Reason",
       "url": "https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK"
@@ -3168,7 +3190,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 166299,
       "name": "Oh My God",
       "url": "https://open.spotify.com/track/2a5XIrIFr3jDlxP3xAYIc5"
@@ -3843,6 +3865,24 @@
     },
     {
       "album": {
+        "name": "Sup!",
+        "url": "https://open.spotify.com/album/5LQQcTthfUSnEewxOhFXuA"
+      },
+      "artists": [
+        {
+          "name": "Naezy",
+          "url": "https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199024,
+      "name": "Sup!",
+      "url": "https://open.spotify.com/track/3L2wjV5FqiAwoIgXbMYBtJ"
+    },
+    {
+      "album": {
         "name": "Taakat",
         "url": "https://open.spotify.com/album/0ccts7BfXm24XXSyNmwHYR"
       },
@@ -4270,6 +4310,28 @@
       "duration_ms": 328421,
       "name": "WOH",
       "url": "https://open.spotify.com/track/1QUU43rTDMnGl4xyaIfsYN"
+    },
+    {
+      "album": {
+        "name": "Woh Ladka (Tunnel Vision)",
+        "url": "https://open.spotify.com/album/5cG8BJbVGS7x61u7YoV5CY"
+      },
+      "artists": [
+        {
+          "name": "Deep Kalsi",
+          "url": "https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I"
+        },
+        {
+          "name": "Bandzo3rd",
+          "url": "https://open.spotify.com/artist/1DnUEMDVBtdwVBPAok8Ws7"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Woh Ladka - Tunnel Vision",
+      "url": "https://open.spotify.com/track/07clR437zfjv7dMvggxiwl"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : All OK",
-  "num_followers": 23173,
+  "num_followers": 23167,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDVkMWJkNzczZmEwYzM5YmE0Yjk0ZmFkZjg0ZTBlODBiYWZmMDYz",
+  "snapshot_id": "MCxjMGIyNWE3MWJmMDJiMGJjM2NhZmZlMmQyN2NhZDczNjFhNDlhMzc3",
   "tracks": [
     {
       "added_at": "2023-10-25 08:03:09",
@@ -123,6 +123,22 @@
       "duration_ms": 257142,
       "name": "Marethiruve",
       "url": "https://open.spotify.com/track/5fIu0KByVpki8ueCk0Nig5"
+    },
+    {
+      "added_at": "2024-01-08 12:33:05",
+      "album": {
+        "name": "Bayaside Ninna",
+        "url": "https://open.spotify.com/album/1oq31tsHpML3zUgHXxMu3j"
+      },
+      "artists": [
+        {
+          "name": "Ashwamedha Karthik",
+          "url": "https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2"
+        }
+      ],
+      "duration_ms": 122938,
+      "name": "Bayaside Ninna",
+      "url": "https://open.spotify.com/track/3NmzEX42jupduW7vMPlXVR"
     },
     {
       "added_at": "2023-12-29 06:01:19",
@@ -852,7 +868,7 @@
       "added_at": "2023-10-06 11:00:45",
       "album": {
         "name": "Nanna Jeevana",
-        "url": "https://open.spotify.com/album/56T8Ejzjwc4fD8stpVnofS"
+        "url": "https://open.spotify.com/album/2sWSghuM3hzWwRFYdK0naK"
       },
       "artists": [
         {
@@ -866,7 +882,7 @@
       ],
       "duration_ms": 136605,
       "name": "Nanna Jeevana",
-      "url": "https://open.spotify.com/track/6QkP19yo5LfvFCCzWsCuHK"
+      "url": "https://open.spotify.com/track/4YZEX2H5wzXWjlCRiRMk5E"
     },
     {
       "added_at": "2023-08-21 06:03:47",
@@ -1849,30 +1865,6 @@
       "url": "https://open.spotify.com/track/7d77j1xDRzw69uQkFlGEHY"
     },
     {
-      "added_at": "2023-05-29 10:09:37",
-      "album": {
-        "name": "E Preeti",
-        "url": "https://open.spotify.com/album/65sytc26MQaDBrib5Dc4ml"
-      },
-      "artists": [
-        {
-          "name": "Megha R B",
-          "url": "https://open.spotify.com/artist/3IZRjoo6zWeehTdtRV7kAt"
-        },
-        {
-          "name": "John Kennady",
-          "url": "https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W"
-        },
-        {
-          "name": "Praveen Prakash",
-          "url": "https://open.spotify.com/artist/4UYvfZwAu9dM6AArdY9C6z"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "E Preeti",
-      "url": "https://open.spotify.com/track/01ivpm8n90rIrUQUAKtvon"
-    },
-    {
       "added_at": "2022-11-28 12:43:16",
       "album": {
         "name": "Melusire (Remix)",
@@ -1963,26 +1955,6 @@
       "duration_ms": 179801,
       "name": "Amrutha Kshana (Female Version)",
       "url": "https://open.spotify.com/track/4x6lFrNvEvsJyZL3UFnC8s"
-    },
-    {
-      "added_at": "2023-05-09 07:08:56",
-      "album": {
-        "name": "Ninna Nodade",
-        "url": "https://open.spotify.com/album/3SBnWJqW6Uao7ANAFeBCDa"
-      },
-      "artists": [
-        {
-          "name": "Dheemusix",
-          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
-        },
-        {
-          "name": "Asher Mendonca",
-          "url": "https://open.spotify.com/artist/7vT1RnB74vnPFxhjnPC4Rr"
-        }
-      ],
-      "duration_ms": 221509,
-      "name": "Ninna Nodade",
-      "url": "https://open.spotify.com/track/31fsnh7dvxBu8UFxKsKeuB"
     },
     {
       "added_at": "2023-03-23 12:40:27",

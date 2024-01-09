@@ -4,7 +4,7 @@
 
 > Kick back and relax after a hard day.
 
-221 songs - 15 hr 17 min
+222 songs - 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [After You've Gone](https://open.spotify.com/track/1XvYu65mJCje87BXSRFbE8) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Dinah Washington Sings Bessie Smith](https://open.spotify.com/album/1Y8JyTROex2Hxgd3bN05PR) | 3:38 | 2022-05-25 |  |
 | [Ain't No Sunshine](https://open.spotify.com/track/7pRLNQ5ZklrsK08m1bjTX0) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [King Of The Blues](https://open.spotify.com/album/2Wr5LRhgVQ9c8MsM4bj7r3) | 3:17 | 2022-05-25 | 2022-07-29 |
 | [Ain't No Sunshine](https://open.spotify.com/track/1ebftgRZcnctL8GpBu0nu8) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Cannonball](https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu) | 3:20 | 2022-07-08 | 2022-10-11 |
+| [All Afternoon](https://open.spotify.com/track/2bHH3I9iNj9fGJ65v84SmS) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6) | [All Afternoon](https://open.spotify.com/album/2gJjnxF6adR6zRffq45eXy) | 4:07 | 2023-11-24 |  |
 | [All the Way](https://open.spotify.com/track/4AdSZ9NCONM50Nu4xGCAO3) | [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [Take Your Shoes Off](https://open.spotify.com/album/7d1NEzBKMoeIlmqk8GUkLh) | 5:11 | 2022-05-25 |  |
 | [Am I Still Mine](https://open.spotify.com/track/7kiIMHdCluymsCJ6DmxuyU) | [Murphy](https://open.spotify.com/artist/3GeAbNoHc67eZKfxO6KtdN) | [Am I Still Mine](https://open.spotify.com/album/1wziCgGwodAnDKC8gIT3Qr) | 2:35 | 2023-08-18 | 2023-12-14 |
 | [And That's Saying a Lot](https://open.spotify.com/track/6TrgkS1CCRs0RKJ3UGG5LZ) | [Christine Perfect](https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56) | [The Complete Blue Horizon Sessions](https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1) | 3:00 | 2022-10-03 |  |
@@ -142,7 +143,7 @@
 | [Magnolia Blues](https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Magnolia Blues](https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr) | 3:28 | 2022-05-25 |  |
 | [Make It All Work Out](https://open.spotify.com/track/19FzdCwxA7hIsbmF8DLac5) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Make It All Work Out](https://open.spotify.com/album/1yp2fTsVvwlrI65in48hWX) | 3:05 | 2023-04-07 |  |
 | [Make It Rain](https://open.spotify.com/track/5puU24G3lHVsUXPAWW2ZpV) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Wembley Edition\)](https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct) | 6:44 | 2022-05-25 | 2022-10-11 |
-| [Mannish Boy](https://open.spotify.com/track/4P8w7rdtAHEibetAqD8aF9) | [imbi](https://open.spotify.com/artist/2IHmdcnsjh89cIaDcVxTuF) | [Mannish Boy](https://open.spotify.com/album/4bv0aDc9XUkx9UcxuzR4p2) | 4:47 | 2023-11-24 |  |
+| [Mannish Boy](https://open.spotify.com/track/4P8w7rdtAHEibetAqD8aF9) | [imbi](https://open.spotify.com/artist/2IHmdcnsjh89cIaDcVxTuF) | [Mannish Boy](https://open.spotify.com/album/4bv0aDc9XUkx9UcxuzR4p2) | 4:47 | 2023-11-24 | 2024-01-09 |
 | [Medicine Man](https://open.spotify.com/track/3j6EDxYRTUTAYdC7MUHuic) | [Blue Moon Marquee](https://open.spotify.com/artist/6bVy3C1kw2FPWgpLcoBWk1) | [Scream, Holler & Howl](https://open.spotify.com/album/2O4UtUWk424YdTbJbf4TmJ) | 4:07 | 2023-08-18 |  |
 | [Million Miles](https://open.spotify.com/track/02zqQBq56efKc2fx3YZMtd) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Slipstream](https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T) | 6:21 | 2022-05-25 |  |
 | [Mississippi](https://open.spotify.com/track/7AtzrTsXNFiSCpL9MTypSO) | [JJ Grey & Mofro](https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv) | [Country Ghetto](https://open.spotify.com/album/2Z4n6K4UZKC6EV6AhFgazV) | 4:28 | 2022-09-12 |  |

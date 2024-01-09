@@ -1813,6 +1813,28 @@
     },
     {
       "album": {
+        "name": "For Times We Lost",
+        "url": "https://open.spotify.com/album/78aCHVIephfuOTzaFI4oGI"
+      },
+      "artists": [
+        {
+          "name": "Cina Soul",
+          "url": "https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO"
+        },
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194117,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/2IbZaJSrigYM4mUJaggJr9"
+    },
+    {
+      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/6uuL5ozmu2AopsmbKb7Qyq"
       },
@@ -1828,7 +1850,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 194117,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/3UYRNOw7cwUzIJmKCwjXEX"

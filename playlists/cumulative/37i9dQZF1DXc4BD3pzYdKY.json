@@ -195,6 +195,28 @@
     },
     {
       "album": {
+        "name": "9 to 5",
+        "url": "https://open.spotify.com/album/6IU0brW3oS3zYwrUUruFIC"
+      },
+      "artists": [
+        {
+          "name": "Ace Clark",
+          "url": "https://open.spotify.com/artist/58wHxcTku7Rc4e4DGfT99h"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/32tHrjigGTtQ5pRsUb2Sbv"
+    },
+    {
+      "album": {
         "name": "97",
         "url": "https://open.spotify.com/album/4M0bzRbUTj6CFzE7zPgJtM"
       },
@@ -10978,7 +11000,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 161538,
       "name": "NO FRIENDS",
       "url": "https://open.spotify.com/track/02ukrJfoHTagogj3cTR9sO"

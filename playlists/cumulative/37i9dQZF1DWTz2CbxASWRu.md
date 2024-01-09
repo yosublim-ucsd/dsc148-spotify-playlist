@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-399 songs - 1 day 5 hr 23 min
+400 songs - 1 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Donde](https://open.spotify.com/track/6vyZChBXOy1jWnTHp2nm3K) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7), [Eblis Alvarez](https://open.spotify.com/artist/6LhY07pLnOOZNtgIV5pawd) | [Donde](https://open.spotify.com/album/5CD5EJOEBfzlONn3rMA7lK) | 3:30 | 2023-12-15 |  |
 | [Doni Doni](https://open.spotify.com/track/1HL6VLMulQMCCOinuaS5ex) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze) | [Mon Pays](https://open.spotify.com/album/1LBvD0jnXocA0JCM08NoJI) | 4:14 | 2023-07-10 |  |
 | [Dooyo](https://open.spotify.com/track/09GZlaxVlta1K5USLQ0FoG) | [Dur\-Dur Band](https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF) | [Volume 5](https://open.spotify.com/album/1duYR1BKAr0ZNX35kEnk9Y) | 3:49 | 2023-07-10 |  |
+| [Dreamworld](https://open.spotify.com/track/2MlqQ8PDprEVB3VRrKP48v) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [Grown Backwards \(Deluxe Edition\)](https://open.spotify.com/album/2ZU2JtWIAnRUgBDoom4GG4) | 5:03 | 2023-12-15 |  |
 | [Drume negrita](https://open.spotify.com/track/4SDJ1j1yDow7XtZkd3KG1f) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx), [Manuel Galbán](https://open.spotify.com/artist/5uG50qso5XAfxs6BeXdnld) | [Mambo Sinuendo](https://open.spotify.com/album/7Bbr1kphzvv9LEUoAFMmkj) | 4:59 | 2023-07-10 |  |
 | [Dunia](https://open.spotify.com/track/2z0uvX4r1dxtUXQ4ZPlxkz) | [Yohann Le Ferrand Yeko](https://open.spotify.com/artist/3y07qo45MpNyhqm6LULsb3), [Tina](https://open.spotify.com/artist/1nmKkJDDGhnTAk2RW094D5) | [Dunia](https://open.spotify.com/album/417uYyIQaYK9xlMLISTwLi) | 4:00 | 2023-07-10 |  |
 | [Désolé \(feat\. Fatoumata Diawara\)](https://open.spotify.com/track/1lPjbmk2TylddPKESSIBfm) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Song Machine Episode 2](https://open.spotify.com/album/5xbq27ybQPAC8IiLtbHNxN) | 3:56 | 2023-07-10 |  |
@@ -278,7 +279,7 @@
 | [On Verra Ça](https://open.spotify.com/track/75Gx2dMhqrWgllUR6R6HEM) | [Touré Kunda](https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f) | [Emma Africa](https://open.spotify.com/album/2aNywleIIBlI85CODNdi4J) | 3:26 | 2023-07-10 |  |
 | [Once in a Lifetime](https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 5:48 | 2023-07-10 |  |
 | [Onyeka \(Baby\)](https://open.spotify.com/track/398G0odwKJ892uyEYDlMBh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 3:22 | 2023-07-10 |  |
-| [Open Your Eyes](https://open.spotify.com/track/0aRBk8abP2vA3wl7GV74SA) | [Newen Afrobeat](https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb) | [Curiche](https://open.spotify.com/album/0iecitdzBzxPqDUar9vOBT) | 7:59 | 2023-07-10 |  |
+| [Open Your Eyes](https://open.spotify.com/track/0aRBk8abP2vA3wl7GV74SA) | [Newen Afrobeat](https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb) | [Curiche](https://open.spotify.com/album/0iecitdzBzxPqDUar9vOBT) | 7:59 | 2023-07-10 | 2024-01-09 |
 | [Ototoa](https://open.spotify.com/track/17eRr1u5GeuZiKpOmCi9gw) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Visit Malphino](https://open.spotify.com/album/2OA05pERt66hYi51jeM2oa) | 4:15 | 2023-07-10 |  |
 | [Oye Cómo Va](https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [El Rey Bravo](https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq) | 4:34 | 2023-07-10 |  |
 | [Pa ri nan male'm](https://open.spotify.com/track/6UHVo0ll6wwAKutKbgbdm2) | [BélO](https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM) | [Dizan](https://open.spotify.com/album/0mT2Oej5aCLf47fQtz6XDA) | 3:57 | 2023-07-10 |  |

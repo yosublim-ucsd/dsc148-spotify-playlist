@@ -4,7 +4,7 @@
 
 > Celebrating Haitian music\. Cover: Steves J\. Bryan
 
-241 songs - 14 hr 30 min
+242 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Imitate](https://open.spotify.com/track/47sMxb8rg2BWxMFtIoT0LA) | [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Imitate](https://open.spotify.com/album/5urMxShvkeXU6IFlT33a2b) | 3:20 | 2023-07-21 |  |
 | [Jessica \(with J Balvin, SAINt JHN, Charly Black & J Perry\)](https://open.spotify.com/track/4e6a6yMJvPZItd0l4KTs1p) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Jessica \(with J Balvin, SAINt JHN, Charly Black & J Perry\)](https://open.spotify.com/album/1DLEZ4s6lIu88XGfU3qXuF) | 3:01 | 2023-07-21 |  |
 | [KASE](https://open.spotify.com/track/1sJPUmyBAzz2IMyeMG3HS0) | [DonLex](https://open.spotify.com/artist/4uCFoJL7rPk1U3pndQL94Y) | [Donzo City](https://open.spotify.com/album/470RDnmQOE7co3AkwUa6Hx) | 2:27 | 2023-05-08 | 2023-07-29 |
+| [KASE](https://open.spotify.com/track/3GBkdyO9o0BOVcK3djHNx2) | [DonLex](https://open.spotify.com/artist/4uCFoJL7rPk1U3pndQL94Y) | [Donzo City](https://open.spotify.com/album/4kabcIjP9PbnEoE7NyPMrP) | 2:27 | 2024-01-02 |  |
 | [Ke M Pa Sote](https://open.spotify.com/track/0MIAhJu1vwc8wvIjI9XbcS) | [Boukman Eksperyans](https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp) | [Vodoo Adjae](https://open.spotify.com/album/13lyhnYy2ZAFHKMRszwDAZ) | 9:34 | 2021-12-06 |  |
 | [Kite Zo A](https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB) | [Lakou Mizik](https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [Leave the Bones](https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ) | 5:54 | 2021-12-06 |  |
 | [Kote moun yo](https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts) | [BélO](https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM) | [Haiti debout](https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE) | 3:18 | 2022-07-14 |  |
@@ -170,7 +171,7 @@
 | [Ou pati](https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H) | [Michael Benjamin](https://open.spotify.com/artist/52VwD4wxGVLUXz3PUqkasQ) | [Haïtian Troubadours, Vol\. 1](https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y) | 4:28 | 2023-02-17 |  |
 | [Oublier](https://open.spotify.com/track/3KOhDk9R0Ze1hgEMCK0GLM) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [REFLEXION](https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM) | 2:46 | 2021-12-06 | 2023-02-18 |
 | [Overdose](https://open.spotify.com/track/3N6KZVWA42mAHX5qFgYfAT) | [Enposib](https://open.spotify.com/artist/6r1agdwSRKU5d5oFX4C5Mn), [Phyllisia Ross](https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe) | [Kamasootra](https://open.spotify.com/album/0qoteeyubqg1lbATQGAHIF) | 4:29 | 2021-12-06 | 2023-02-18 |
-| [P's & Q's](https://open.spotify.com/track/5CAypUTNSzVrZlMDirnVqx) | [Dyna Edyne](https://open.spotify.com/artist/0hLWP6s9JYQ75jtXB0sjE3), [Anonymuz](https://open.spotify.com/artist/625BWS4LmjJe3a82OCSFsm) | [P's & Q's](https://open.spotify.com/album/6v6qWlQpLhMxlTLUQqYN7m) | 3:16 | 2023-03-17 |  |
+| [P's & Q's](https://open.spotify.com/track/5CAypUTNSzVrZlMDirnVqx) | [Dyna Edyne](https://open.spotify.com/artist/0hLWP6s9JYQ75jtXB0sjE3), [Anonymuz](https://open.spotify.com/artist/625BWS4LmjJe3a82OCSFsm) | [P's & Q's](https://open.spotify.com/album/6v6qWlQpLhMxlTLUQqYN7m) | 3:16 | 2023-03-17 | 2024-01-09 |
 | [Papa Loko \(Arr\. N\. Joachim\) \- Interlude\. September 24, 1918](https://open.spotify.com/track/2loul0DeCz0DtLe5gLOjfi) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Nathalie Joachim](https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i), [Spektral Quartet](https://open.spotify.com/artist/2s8HBhXmdcVH5UHQzANkjb) | [Fanm d'Ayiti](https://open.spotify.com/album/3KVpKanJVJ1efS6ISTkaJm) | 6:40 | 2021-12-06 | 2023-07-22 |
 | [Party Girls \(feat\. Buju Banton\) \- Michaël Brun Dancehall Remix](https://open.spotify.com/track/2a7RTbhDvTIEBvMQI9is88) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [Party Girls \(feat\. Buju Banton\) \[Michaël Brun Dancehall Remix\]](https://open.spotify.com/album/5MoizA6j9BtnH0w6IUmHsU) | 3:19 | 2023-05-26 |  |
 | [PARTY IN LA](https://open.spotify.com/track/58QFByzczFVzQ1gihExSX8) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/0tfgaDFmMBBdrV3DQxtLOG) | 2:33 | 2021-12-06 | 2022-05-13 |

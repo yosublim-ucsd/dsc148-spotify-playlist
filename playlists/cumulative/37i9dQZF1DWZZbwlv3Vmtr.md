@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-859 songs - 1 day 9 hr 19 min
+860 songs - 1 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,7 @@
 | [Head Down](https://open.spotify.com/track/6bK9DxZ3UOo1x6fpUTmhLr) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Head Down](https://open.spotify.com/album/00BtezqtTN1x9b252Lvc5P) | 2:29 | 2022-04-22 | 2022-12-10 |
 | [Healing](https://open.spotify.com/track/7ww9dpRq9JazTQTbmQvt1F) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Healing](https://open.spotify.com/album/0V8w3lrIyZbd47a3ZMgsEF) | 2:25 | 2023-12-08 |  |
 | [Heat Sink](https://open.spotify.com/track/1LkKE6EKpkBXBqYnfaPHXE) | [Yeriho](https://open.spotify.com/artist/78i2cMCD9ZGsHitYgLbMhW), [Brunch Collect](https://open.spotify.com/artist/0kAzoeOzrlScAtTLUy613u) | [Odyssey](https://open.spotify.com/album/0tt8x0BZjFBKRbPP5Z5tNq) | 2:00 | 2022-07-22 | 2022-12-10 |
-| [Heaux](https://open.spotify.com/track/2XF3s6ycUXSJQCVMteiERI) | [Dr\. Travis](https://open.spotify.com/artist/49IK4aTJhEP93RfabiqaEZ) | [Kawhi](https://open.spotify.com/album/0ASHEDZAklWntGctYuGsRY) | 2:36 | 2022-04-15 |  |
+| [Heaux](https://open.spotify.com/track/2XF3s6ycUXSJQCVMteiERI) | [Dr\. Travis](https://open.spotify.com/artist/49IK4aTJhEP93RfabiqaEZ) | [Kawhi](https://open.spotify.com/album/0ASHEDZAklWntGctYuGsRY) | 2:36 | 2022-04-15 | 2024-01-09 |
 | [Heavensent](https://open.spotify.com/track/0SdZzPskMPdVibBUHNrrim) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Heavensent](https://open.spotify.com/album/0nzrNWqyAHUgLFiB4gE15Y) | 3:04 | 2023-12-22 |  |
 | [Hello, Beautiful](https://open.spotify.com/track/0EZBeSP6JhQ9tiZRkm45wE) | [Nostalgique](https://open.spotify.com/artist/0vQZ3ouldVTGqaF2RJCr6O) | [Hello, Beautiful](https://open.spotify.com/album/2visBkenZRm39wKPaCd5kh) | 1:16 | 2022-04-15 | 2022-06-10 |
 | [Hello, Hi](https://open.spotify.com/track/5W3FAOOcBGlhyS14THQvPC) | [Royal 63](https://open.spotify.com/artist/3uacTioaRYR9HiighlkFqJ) | [Hello, Hi](https://open.spotify.com/album/33JTS1buALOUApqVP63eSL) | 2:10 | 2022-06-03 | 2022-09-03 |
@@ -658,6 +658,7 @@
 | [Smells Like Silverblue](https://open.spotify.com/track/6OmRE9XnZrMMfS9TuuQCPU) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra) | [Smells Like Silverblue](https://open.spotify.com/album/21oPNtdHyQvc3V0BQ5SG35) | 2:40 | 2022-04-15 | 2023-10-06 |
 | [Smoothie](https://open.spotify.com/track/3CgV5NE3nhut4zms1zPJ7R) | [Katja Larsson](https://open.spotify.com/artist/5SYzEUVzNdM09f3wnGfvfO) | [Memories Of Sunshine](https://open.spotify.com/album/3Xvk28MlcjlNdvkF3Y2psa) | 1:49 | 2022-04-15 | 2022-05-27 |
 | [Snake Eyes](https://open.spotify.com/track/01CT8zi6sHhJQl4EnAeQAq) | [Nick Wolf](https://open.spotify.com/artist/4j60yxoFJVWkQNs6uaoJms), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Snake Eyes](https://open.spotify.com/album/2TTqmgr7aAIwbWx6VwbN5s) | 0:49 | 2022-08-19 | 2023-07-20 |
+| [Snowful Peace](https://open.spotify.com/track/1u2SXLe9KHUX2uIqHG47JL) | [Bluerosie](https://open.spotify.com/artist/4csk2WW11IvLN5qTmHe1L3) | [Snowful Peace](https://open.spotify.com/album/6E3leoVqHuimOOQcN1ZngY) | 2:05 | 2024-01-05 |  |
 | [Soakysun](https://open.spotify.com/track/4mY6CgDg0SU6YeqnQpNHQT) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Soakysun](https://open.spotify.com/album/6IYzaxjgbNHy5KftjruUE8) | 2:02 | 2022-04-15 | 2023-10-13 |
 | [Social Jazz](https://open.spotify.com/track/7GzdWuACBcAB9nmz0JJ4Pl) | [Billy Bass](https://open.spotify.com/artist/2yp0SXzKw2QwxY1btRjUS6) | [Social Jazz](https://open.spotify.com/album/2FOY9O0VU5AEfvmEXQYbQT) | 2:01 | 2022-06-10 |  |
 | [Soft Lad](https://open.spotify.com/track/2gyXrVDU4SGXqpCRcXbZid) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [Soft Lad](https://open.spotify.com/album/7uoBTodwAjmtlC51RFcl6g) | 4:26 | 2022-04-15 | 2022-09-03 |

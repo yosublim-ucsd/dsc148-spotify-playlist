@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-407 songs - 1 day 2 hr 21 min
+408 songs - 1 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [In the Garden](https://open.spotify.com/track/0mYb0BPh3rC1YuAVBtr6Di) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [In the Garden](https://open.spotify.com/album/2vOAHsQ1zmVnJgE9y0SgCx) | 3:40 | 2021-10-01 | 2022-07-20 |
 | [In The Genes](https://open.spotify.com/track/7qmfoJOvyf8FgUxFpKTyKq) | [Hot Toddy](https://open.spotify.com/artist/163htIH0QGu4ZDcR7B0aUW) | [Love Music](https://open.spotify.com/album/6Vic53TolsMk2phqGftC3p) | 8:00 | 2020-12-22 | 2022-04-18 |
 | [Infield \(Young & Sick Remix\)](https://open.spotify.com/track/3xkMBk1wMJ3aEnWO0sSOW7) | [Arthur Moon](https://open.spotify.com/artist/5iDcZ7vN17Cq55AbEqy0aC), [Young & Sick](https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k) | [Infield \(Young & Sick Remix\)](https://open.spotify.com/album/1kTRU2NEv60y4JYGUwuvNt) | 4:58 | 2020-12-22 | 2022-07-29 |
-| [It All Feels Right](https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Paracosm](https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL) | 4:05 | 2020-12-22 |  |
+| [It All Feels Right](https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Paracosm](https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL) | 4:05 | 2020-12-22 | 2024-01-09 |
 | [It All Feels Right](https://open.spotify.com/track/3sc34Y2D580EC86tnBA1PQ) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Paracosm](https://open.spotify.com/album/3ffs5CFhPJVjtaZurIrJOo) | 4:05 | 2020-12-22 | 2022-04-16 |
 | [It Never Rains](https://open.spotify.com/track/67URyvNo0ymOlShJB9JclN) | [GEO](https://open.spotify.com/artist/0U1xtc0gukCZNjTf9mY5a1) | [It Never Rains](https://open.spotify.com/album/5S7KTMA8maUeDLgFuXzOn8) | 2:29 | 2020-12-22 | 2022-07-29 |
 | [It's All About You](https://open.spotify.com/track/3hLhotLW0PaS9E1SAh0xQ7) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [It's All About You](https://open.spotify.com/album/6BBZ2IRU3iMx3zSOPpmVVg) | 3:20 | 2020-12-22 | 2022-07-24 |
@@ -286,6 +286,7 @@
 | [Pili Pili](https://open.spotify.com/track/74N9cnVOhruZpoZUt4Ky5z) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Feel Good](https://open.spotify.com/album/10H4nbqjbmrGo4bG23dfWK) | 4:10 | 2020-12-22 | 2022-08-19 |
 | [Pink & Blue](https://open.spotify.com/track/1TJqHWEHHQ7Z5mJ0P6rXqq) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y) | [Weather](https://open.spotify.com/album/1mRyfDR7Dc55GbC8V3kVis) | 4:19 | 2020-12-22 | 2022-04-19 |
 | [Pizza Guy](https://open.spotify.com/track/1bq6eYt2tdB5rSkwXgiwgD) | [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z) | [Pizza Guy / Show Me](https://open.spotify.com/album/41wUvXg0GwaIv8qsUii790) | 5:49 | 2020-12-22 | 2023-12-11 |
+| [Pizza Guy](https://open.spotify.com/track/434qlyPFJd5FWpJ72eB3VL) | [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z) | [Pizza Guy / Show Me](https://open.spotify.com/album/7JnjKZH4ztUn2MtYhrCFWz) | 5:49 | 2024-01-05 |  |
 | [PLACES](https://open.spotify.com/track/3eSmjY0PxxTlX6UxRDKaul) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DANCEHALL](https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY) | 3:34 | 2020-12-22 | 2022-05-11 |
 | [Pool Party](https://open.spotify.com/track/43ArUDXPIOqF4R3w2TjfxZ) | [nite swim](https://open.spotify.com/artist/4JoqKyiPAsXMuc8mkF25Ju) | [Pool Party](https://open.spotify.com/album/3FoihGlEHr7U6IKp1NyGlF) | 3:26 | 2020-12-22 | 2022-07-23 |
 | [Pressure](https://open.spotify.com/track/1T80qAVK3nXJAsEdnuppbp) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Waking Hours](https://open.spotify.com/album/0ZJ8jsAUo8z3d8nVjNl3aN) | 5:18 | 2020-12-22 | 2022-07-29 |

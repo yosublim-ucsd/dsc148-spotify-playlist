@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: HYBS \(Thailand\), GANGGA \(Indonesia\)
 
-1,124 songs - 2 day 19 hr 45 min
+1,125 songs - 2 day 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -994,7 +994,7 @@
 | [WINDY SUMMER \- Cover](https://open.spotify.com/track/1ABFXj7oofCvwD9bMQscaH) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/0o00b10zCAl7ucaAtFJMqy) | [WINDY SUMMER \(Cover\)](https://open.spotify.com/album/0WgQB8S1PHANF3wxeC5CAF) | 3:33 | 2023-06-08 | 2023-07-08 |
 | [WINDY SUMMER \- Cover](https://open.spotify.com/track/6fekvsa1wJ2vUokdemZHDd) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [HONEY meets ISLAND CAFE \- Sea of Love 8\- Collaboration with SHONAN by the Sea](https://open.spotify.com/album/2rIlcICz28RnLRVWH3oXqn) | 3:33 | 2023-07-06 | 2023-07-15 |
 | [Wings](https://open.spotify.com/track/4XQnhcwRPRmGG4E6PakLMb) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Wings](https://open.spotify.com/album/1BzkLEFlQ4JQWUFWZrNIvC) | 3:15 | 2023-04-20 |  |
-| [Winter Dream](https://open.spotify.com/track/63U5DJGQmJZIKNkgJhiWyl) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Winter Dream](https://open.spotify.com/album/0QkXBVZBlXkDo575s3Y8BE) | 4:23 | 2023-12-21 |  |
+| [Winter Dream](https://open.spotify.com/track/63U5DJGQmJZIKNkgJhiWyl) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Winter Dream](https://open.spotify.com/album/0QkXBVZBlXkDo575s3Y8BE) | 4:23 | 2023-12-21 | 2024-01-09 |
 | [Wintertime Is Over](https://open.spotify.com/track/6hAWz1CnpMd8a7JmkJiigT) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y), [ANT](https://open.spotify.com/artist/64ZqV2zqmap4c0HqxzAoYv) | [Wintertime Is Over](https://open.spotify.com/album/0MzjNHWmx9BwvnK0WOVOiY) | 3:09 | 2022-06-16 | 2022-07-22 |
 | [Wish Upon A Star](https://open.spotify.com/track/4dRlRt2jZKOd7WsPRQ5KVq) | [H I N A N O](https://open.spotify.com/artist/6tO81LUACIiheJWoVBJ5PY) | [Wish Upon A Star](https://open.spotify.com/album/6Z5QlpJojN80fwGLHFEkDS) | 4:25 | 2022-09-22 | 2022-11-11 |
 | [Witches](https://open.spotify.com/track/4qTlJH6ZM4sUX39EB9VMFy) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g) | [Dreams](https://open.spotify.com/album/3TymUlSYZsMS09A5NnY7Hc) | 3:51 | 2023-05-04 |  |
@@ -1023,6 +1023,7 @@
 | [Yêu Nhất \(feat\. RPT PhongKhin\)](https://open.spotify.com/track/3ZAfDSOBPiUupvPmAzZ3cI) | [SuperC](https://open.spotify.com/artist/2jfbFAZ1SeBTGdjPc4hpSo), [RPT PhongKhin](https://open.spotify.com/artist/2TmAAcsAhUVnRNtf3Jm0uc) | [Yêu Nhất](https://open.spotify.com/album/31sXIpSQbyU0OcIEHXCMBF) | 2:37 | 2022-04-07 | 2022-05-20 |
 | [· · 一](https://open.spotify.com/track/6udvMAKpaJ99XOzCv0GrYN) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [· · 一](https://open.spotify.com/album/2PY375a2tZKvK809i4Y0yg) | 4:36 | 2022-08-18 | 2022-10-14 |
 | [Últimamente](https://open.spotify.com/track/51nSvDGXM7G9kVKlptO6Id) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Últimamente](https://open.spotify.com/album/0WJBCgQpMgOg6OGrLw7IHC) | 3:53 | 2023-02-02 | 2023-02-24 |
+| [Đại Lộ Mặt Trời](https://open.spotify.com/track/0RRaMSF6sPNAvMTntUiv8m) | [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4) | [Đại Lộ Mặt Trời](https://open.spotify.com/album/5ysXBJHiqhcE5Pw8p1XDia) | 4:31 | 2024-01-09 |  |
 | [Đắm Say Vì Em](https://open.spotify.com/track/0RvPBOC0hAyU3zCHwMGOsK) | [Lê Vũ](https://open.spotify.com/artist/5t18GHcI1L5EeeMCQLKchZ), [Blue T](https://open.spotify.com/artist/7tV3i4vr53vtH5ND4mvhVq) | [Đắm Say Vì Em](https://open.spotify.com/album/5li31XRDU3CX8MOCdtb1sQ) | 2:50 | 2022-12-15 | 2023-02-24 |
 | [để quên](https://open.spotify.com/track/4rPrBNnDgdZpS5gosHv0yr) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI) | [để quên](https://open.spotify.com/album/7iMtteNjEshW8vTYxD7py2) | 2:50 | 2023-04-20 | 2023-11-24 |
 | [Αφροδίτη](https://open.spotify.com/track/58s2FsMYLHbm2gnIqDqsH8) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK), [林奕碩 Lin I\-Shuo\(百合花Lilium\)](https://open.spotify.com/artist/7xywz1UywWdW98s6N05KE3) | [Αφροδίτη](https://open.spotify.com/album/3sGumso7JlqiWbKQReAzmW) | 3:53 | 2022-11-17 | 2023-01-20 |

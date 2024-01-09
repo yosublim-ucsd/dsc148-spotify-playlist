@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Magic of acoustic poured into your Chai",
+  "description": "Magic of acoustic poured into your Chai. Cover - Anuv Jain",
   "name": "Chai & Acoustic",
   "tracks": [
     {
@@ -592,7 +592,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 202500,
       "name": "Bairiya",
       "url": "https://open.spotify.com/track/1OrjhoNFXThtmwPdm8lc7h"
@@ -1365,6 +1365,24 @@
     },
     {
       "album": {
+        "name": "Fidaa",
+        "url": "https://open.spotify.com/album/57WGS0aqObOSiCOJhhWgRR"
+      },
+      "artists": [
+        {
+          "name": "Shubhranshu Tiwari",
+          "url": "https://open.spotify.com/artist/1Zb6oNpoIxy7EelAwdpICD"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128080,
+      "name": "Fidaa",
+      "url": "https://open.spotify.com/track/2F4GxzCqfv0DAcnbWtr3Tk"
+    },
+    {
+      "album": {
         "name": "Ghulaam",
         "url": "https://open.spotify.com/album/0hb54jsDgeXIH0kvER8ezp"
       },
@@ -1748,7 +1766,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 267348,
       "name": "Jaan Da (Rab Ki Dua)",
       "url": "https://open.spotify.com/track/3BPckr3N2JP5gJogeKhA5w"
@@ -3593,6 +3611,24 @@
     },
     {
       "album": {
+        "name": "Ruqsat",
+        "url": "https://open.spotify.com/album/0T6Dy2GvUJFZpOhJ4IxvaE"
+      },
+      "artists": [
+        {
+          "name": "Sanam Malik",
+          "url": "https://open.spotify.com/artist/39bDtXEgvPfW2adoyRi4kI"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Ruqsat",
+      "url": "https://open.spotify.com/track/3ZSazSSWUTgoPiCtVU9wVz"
+    },
+    {
+      "album": {
         "name": "Saadgi (feat. Varsha Gaur)",
         "url": "https://open.spotify.com/album/6sZJobDiQcGBb0iGYsQe5F"
       },
@@ -4021,6 +4057,24 @@
     },
     {
       "album": {
+        "name": "Teri Batein",
+        "url": "https://open.spotify.com/album/3s4oLqSfB7PwifOkoJ5wpT"
+      },
+      "artists": [
+        {
+          "name": "Karan Thakur",
+          "url": "https://open.spotify.com/artist/6BYvKKcLreQSbelHa99O2M"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Teri Batein",
+      "url": "https://open.spotify.com/track/3u1Tj8Y8W8mNrHnQ85R7C4"
+    },
+    {
+      "album": {
         "name": "TERI TARAF",
         "url": "https://open.spotify.com/album/5CBVwWEezDX6wJDCB4er4d"
       },
@@ -4072,7 +4126,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 305503,
       "name": "Theher Ja",
       "url": "https://open.spotify.com/track/1KiNsZ6tle79ENI94EvPIp"

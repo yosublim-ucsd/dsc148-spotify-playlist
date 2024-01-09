@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BqCYCcGsrh.md) - [plain]
 
 > 日本のロック・シーンの中でも特異な進化と深化を続けるRADWIMPSのオール・タイム・ベスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,666 likes - 86 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,661 likes - 86 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BqCYCcGsrh.md) - [plain]
 | 85 | [SUMMER DAZE 2021](https://open.spotify.com/track/4qDOqGFunUZgsBZgeDLRlT) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [FOREVER DAZE](https://open.spotify.com/album/1fYi13JilVgZfmml6oTQt5) | 6:51 |
 | 86 | [Kataware](https://open.spotify.com/track/3PYXmrpwFh4UPqvRXkwHrW) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [FOREVER DAZE](https://open.spotify.com/album/1fYi13JilVgZfmml6oTQt5) | 3:59 |
 
-Snapshot ID: `MCw2MGRjN2ZhZTdmMGIyMGRkZDA1OTJjMTExNzJlYTYyZTA0YjI5YTRk`
+Snapshot ID: `MCxkZDBjMzJkZThhMDVlOWRlZGJlNzI1ZGQ4OGFhMzJkYTMwNWY2ODhm`

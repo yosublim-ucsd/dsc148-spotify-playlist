@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Monster](https://open.spotify.com/track/5DIqK65zlDkuDcw8RJC1tO) | [Swatka City](https://open.spotify.com/artist/41Bz7kJeC9sC0R0ckhYCvY) | [Monster](https://open.spotify.com/album/77Bb69izpwhNTPMc90bAnw) | 3:10 |
 | 80 | [Weaponized Ideas](https://open.spotify.com/track/3Ej4Noio8YNpBvSPKxJhhI) | [Vide Obscur](https://open.spotify.com/artist/6W0zjQHDYZkU1rbvzhe8AM) | [Weaponized Ideas](https://open.spotify.com/album/1aXb1g8t1SkJdaH5fLVjfH) | 4:14 |
 
-Snapshot ID: `MCwxMmE3NzVhMTY2ZWJiYjk0NWEzOGE3ZjI3YjcwMDJlNTZjOTFmNzA3`
+Snapshot ID: `MCw1MGRjMWIyZWUzMjc5ZWFkMDI5Nzc2MWM3YWRjM2FmZDQ1ZjEwM2U5`

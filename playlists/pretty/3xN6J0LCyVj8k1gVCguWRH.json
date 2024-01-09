@@ -1,13 +1,29 @@
 {
   "description": "Barack Obama&#x27;s favorite songs of 2023 plus somo of his favorite summer songs. Includes Summer 22, &amp; 21 editions + bonus tracks.",
-  "num_followers": 108010,
+  "num_followers": 108009,
   "original_name": "Obama\u2019s Summer Playlist 2023 | Favorite Songs of 2023",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "Njk0Myw1NTBhZWIyYzRjOTliNjYyM2FjNDZkYjc3NzZlNzI2OGNjODhkMzQ0",
+  "snapshot_id": "Njk0OSxlODc5ZWM1MzQ3ODBkNGNkOGIyZWY5NDZkYTQ2YmU2ZWViMzE2NDE3",
   "tracks": [
+    {
+      "added_at": "2024-01-09 00:05:46",
+      "album": {
+        "name": "Get on You",
+        "url": "https://open.spotify.com/album/0tR7tgNy0OIi1siFxxmtIu"
+      },
+      "artists": [
+        {
+          "name": "Winnie Ama",
+          "url": "https://open.spotify.com/artist/4DJIumnofpauv3dYkgZSv1"
+        }
+      ],
+      "duration_ms": 178375,
+      "name": "Get on You",
+      "url": "https://open.spotify.com/track/4T6XbBGr4cnSfs0NhrzBgr"
+    },
     {
       "added_at": "2023-12-29 15:33:48",
       "album": {
@@ -345,6 +361,22 @@
       "url": "https://open.spotify.com/track/30xTTsQlMrkhisyvxzEIpX"
     },
     {
+      "added_at": "2024-01-08 08:58:12",
+      "album": {
+        "name": "Nightlife",
+        "url": "https://open.spotify.com/album/2l4KhjaKmkG0YIufYZMuEk"
+      },
+      "artists": [
+        {
+          "name": "Frankie Aero",
+          "url": "https://open.spotify.com/artist/0mAUuCDjHfmsNsmfLvd9SX"
+        }
+      ],
+      "duration_ms": 125901,
+      "name": "Nightlife",
+      "url": "https://open.spotify.com/track/3zdu4JE1HuGCe6uMISMszm"
+    },
+    {
       "added_at": "2023-12-29 15:46:28",
       "album": {
         "name": "WY@",
@@ -515,6 +547,22 @@
       "duration_ms": 157374,
       "name": "time with u",
       "url": "https://open.spotify.com/track/1f7ww7TfsQI9E5pfPtGIvs"
+    },
+    {
+      "added_at": "2024-01-08 13:48:25",
+      "album": {
+        "name": "Trapalquimia",
+        "url": "https://open.spotify.com/album/4gycCxJyWc3ividEvrNvo8"
+      },
+      "artists": [
+        {
+          "name": "MartinSon",
+          "url": "https://open.spotify.com/artist/6E3fMNSNpRcaGf87nguquv"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Trapalquimia",
+      "url": "https://open.spotify.com/track/2FeJ6kbJqpkt8s6nvYwyYU"
     },
     {
       "added_at": "2023-07-20 21:11:20",
@@ -1019,6 +1067,30 @@
       "duration_ms": 193493,
       "name": "Everything Is Broken",
       "url": "https://open.spotify.com/track/65Ywa7EspM0tSZreKwOmnL"
+    },
+    {
+      "added_at": "2024-01-09 00:06:32",
+      "album": {
+        "name": "I Expect Nothing In Return",
+        "url": "https://open.spotify.com/album/2RhgSKgZbjCBFTNg4NfhON"
+      },
+      "artists": [
+        {
+          "name": "Caleb Lodish",
+          "url": "https://open.spotify.com/artist/5umje6IIpqxQR6DAhQSU8M"
+        },
+        {
+          "name": "Leandra Dielle",
+          "url": "https://open.spotify.com/artist/4nOJpLcRsMMk2KRhdoMEWh"
+        },
+        {
+          "name": "tyler serrani",
+          "url": "https://open.spotify.com/artist/3aBtXJ7HNoNB2MTS7adG1y"
+        }
+      ],
+      "duration_ms": 158014,
+      "name": "Forgive You",
+      "url": "https://open.spotify.com/track/0Fc6pAZNzdsX19EMoSyBN7"
     },
     {
       "added_at": "2023-07-20 21:41:43",
@@ -2635,22 +2707,6 @@
       "duration_ms": 220013,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/26NqjphYzU4JSx2xJUpKO0"
-    },
-    {
-      "added_at": "2024-01-01 19:31:24",
-      "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/09hC5FTn24gHSq0zhi2jgs"
-      },
-      "artists": [
-        {
-          "name": "The Mesa",
-          "url": "https://open.spotify.com/artist/53O3yifspSCShXoE7H0qak"
-        }
-      ],
-      "duration_ms": 240426,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/5PKMas83caguS2BiBFGkIl"
     },
     {
       "added_at": "2023-12-30 17:32:28",

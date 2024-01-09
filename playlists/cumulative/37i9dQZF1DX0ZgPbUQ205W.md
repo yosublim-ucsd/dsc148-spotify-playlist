@@ -4,7 +4,7 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-330 songs - 23 hr 48 min
+331 songs - 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Jazz Odyssey](https://open.spotify.com/track/3n3gfS8H6kpyqF2x5vUdLT) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Jazz Odyssey](https://open.spotify.com/album/3g84J8lIoF12N7cnE9IrXa) | 2:50 | 2023-08-31 |  |
 | [Jeg gik mig ud en Sommerdag](https://open.spotify.com/track/6OHXcoZJlNDnRGBXRrDTHy) | [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda), [Nils Bo Davidsen](https://open.spotify.com/artist/2r34nP7vhdUQj6D8Hx2R6l), [Stefan Pasborg](https://open.spotify.com/artist/51WkZxHdfF1tlqejXDc2AY) | [Painting Music](https://open.spotify.com/album/0fmB8ha3cuP05cuk6nU6tZ) | 4:18 | 2021-12-17 | 2023-12-10 |
 | [Juniper Leaves](https://open.spotify.com/track/5sO9OlDHzrdh3yqT89Cpce) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Purple Magnolia](https://open.spotify.com/album/6csQt0hu30OWJhPCJBMn7f) | 3:25 | 2022-11-11 |  |
+| [Just Like Talking](https://open.spotify.com/track/04o0imSbqJGkbXKPuvCgWv) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Just Like Talking](https://open.spotify.com/album/10pU0nothMHxWm1Jz7jDqJ) | 3:32 | 2024-01-05 |  |
 | [Just Now, Var\. III](https://open.spotify.com/track/2Tox3k9eKRDg0tcsvVIs1a) | [Anat Fort](https://open.spotify.com/artist/32OuYoQkedAGs4hKig6oUi) | [A Long Story](https://open.spotify.com/album/4jIyJQ84ajG8EDOZRAd50H) | 2:14 | 2022-06-29 |  |
 | [Just Now, Var\. III](https://open.spotify.com/track/5rkbRJ922Kd9ECEmck7FAZ) | [Anat Fort](https://open.spotify.com/artist/32OuYoQkedAGs4hKig6oUi) | [A Long Story](https://open.spotify.com/album/5ox7Q1cWqEiv8OHI2rP44T) | 2:14 | 2021-12-17 | 2022-07-29 |
 | [Just Ourselves](https://open.spotify.com/track/08G11yzcwoMuJrUy4ucLge) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [Just Ourselves](https://open.spotify.com/album/0Wlpr3FAxEIQFnm9jTMQAB) | 3:48 | 2022-12-01 |  |
@@ -284,7 +285,7 @@
 | [The Reasons That I Love You](https://open.spotify.com/track/1CLQ0p6nLmLQFCiUUkpBxW) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [The Reasons That I Love You](https://open.spotify.com/album/5GM3f2GT3BwzfKtKdjE0O8) | 4:40 | 2022-11-11 |  |
 | [The Silence of Your Heart](https://open.spotify.com/track/4oU07qd2sv9NxW61Op66Jh) | [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi), [Dino Rubino](https://open.spotify.com/artist/3BatL5ELL5CEN1xjCeDi7S), [Marco Bardoscia](https://open.spotify.com/artist/6nPFcBOpXLW2vzvor5xo6E) | [Tempo Di Chet](https://open.spotify.com/album/3Pj04LF6C6giZdzHYoSyLL) | 4:21 | 2022-05-11 | 2022-05-31 |
 | [The surf shirt](https://open.spotify.com/track/4J2kmDH5fJLInAO34TQq93) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [The surf shirt](https://open.spotify.com/album/0ubI5Ens5d3TqeGafHcZ6r) | 3:04 | 2023-09-29 |  |
-| [The Vertical Movements of Eötvös](https://open.spotify.com/track/6i7UMkdeJusb8lVEk3cSG4) | [Espen Berg Trio](https://open.spotify.com/artist/7KUOutQopHIyqvTqjuHZSk) | [Fjære](https://open.spotify.com/album/4LE0R14CDvs8f0i650UD1U) | 3:28 | 2022-05-19 |  |
+| [The Vertical Movements of Eötvös](https://open.spotify.com/track/6i7UMkdeJusb8lVEk3cSG4) | [Espen Berg Trio](https://open.spotify.com/artist/7KUOutQopHIyqvTqjuHZSk) | [Fjære](https://open.spotify.com/album/4LE0R14CDvs8f0i650UD1U) | 3:28 | 2022-05-19 | 2024-01-09 |
 | [Things Unsaid](https://open.spotify.com/track/423sD6XxA3BexrKQ1j19Ba) | [Malthe Jepsen](https://open.spotify.com/artist/7t2Nr11O3Wld7hu811iksP) | [Things Unsaid](https://open.spotify.com/album/3jSnz17sXiS9Alj7GcpiLH) | 5:01 | 2021-12-17 |  |
 | [This Autumn](https://open.spotify.com/track/2FpRHKUzbXejH9vUK0TX0G) | [James & LIsa](https://open.spotify.com/artist/1U8G4kzCPGHKTrFJi6bMQg) | [This Autumn](https://open.spotify.com/album/1DmsuXnSvAWqUS9Z3W2JzY) | 2:52 | 2022-12-01 |  |
 | [This Is Not About You](https://open.spotify.com/track/50Y1OxU4NlKYjR2v9RxBpK) | [Johan Lindvall Trio](https://open.spotify.com/artist/10s1rJ9RW1wkVbAFZ2PjfI) | [This is Not About You](https://open.spotify.com/album/4OEcMFccYgzpTpi3wcpTmI) | 3:50 | 2022-02-24 |  |

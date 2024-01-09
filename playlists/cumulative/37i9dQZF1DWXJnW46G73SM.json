@@ -6410,7 +6410,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 199076,
       "name": "Manga",
       "url": "https://open.spotify.com/track/72UjNW994y94RYAdTB4zD4"
@@ -8732,6 +8732,28 @@
       "duration_ms": 183556,
       "name": "Taqa Egabiya",
       "url": "https://open.spotify.com/track/36W3RtxBprZcvw1bcbcQFW"
+    },
+    {
+      "album": {
+        "name": "Red Bull Sika",
+        "url": "https://open.spotify.com/album/3JPrrTh4yG6WZBXXYa6Wsy"
+      },
+      "artists": [
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        },
+        {
+          "name": "7a7a",
+          "url": "https://open.spotify.com/artist/5yhMmeUQ0NZn1WuW0sbD5s"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "Tarab",
+      "url": "https://open.spotify.com/track/709KYvIszGGKs4vjmWzAPq"
     },
     {
       "album": {

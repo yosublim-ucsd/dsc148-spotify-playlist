@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:0GdzQJqgRL5SHp7kXOKba0">Wande</a>
 
-880 songs - 1 day 19 hr 48 min
+881 songs - 1 day 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [2:30](https://open.spotify.com/track/0Y11DN73FpoOS8EfFrt2Kw) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [L's](https://open.spotify.com/artist/7cUbRxCpEq5eKtdRJJHFtj) | [2:30](https://open.spotify.com/album/4Z9wieJQuJmOtaN0mjSeRG) | 3:59 | 2021-12-11 | 2022-04-26 |
 | [3PM](https://open.spotify.com/track/5TIMRMZz1BMkv3Gfvbu5qM) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV), [Mission](https://open.spotify.com/artist/156BcMQsGhVCchyqBlo3Iy), [Muhanjii](https://open.spotify.com/artist/5aZiJHoMX722eBfLFnOwGm) | [Wish I Knew You](https://open.spotify.com/album/5qjFzWRElBEiP2NgRm35OA) | 3:43 | 2022-02-27 | 2022-04-29 |
 | [40](https://open.spotify.com/track/5qEj6mzlC6st46bNxmX5LI) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [40](https://open.spotify.com/album/46DsVm72pfz9nLW3BgCUqF) | 2:44 | 2023-12-15 |  |
+| [9 to 5](https://open.spotify.com/track/32tHrjigGTtQ5pRsUb2Sbv) | [Ace Clark](https://open.spotify.com/artist/58wHxcTku7Rc4e4DGfT99h), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [9 to 5](https://open.spotify.com/album/6IU0brW3oS3zYwrUUruFIC) | 2:50 | 2024-01-05 |  |
 | [97](https://open.spotify.com/track/3Wy25k1tXhCJ7HVOItXief) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [97](https://open.spotify.com/album/4M0bzRbUTj6CFzE7zPgJtM) | 2:55 | 2022-02-04 | 2022-08-07 |
 | [A Painting Of Peace \(feat\. Mariah Anae\)](https://open.spotify.com/track/1CnBGNdzEq6lgyfLOoKyd3) | [Caleb McCoy](https://open.spotify.com/artist/2iPpUS5kjjfalhlrsT9Fsi), [Mariah Anae](https://open.spotify.com/artist/25hDGQnara5RgwMDnUPJA1) | [A Painting Of Peace \(feat\. Mariah Anae\)](https://open.spotify.com/album/646wnZPifL8XNKL13YV3vy) | 4:01 | 2021-12-11 | 2022-04-29 |
 | [Abide](https://open.spotify.com/track/4dZTZ3GsxQ2d3RZs07Yjyj) | [Mystro Productions](https://open.spotify.com/artist/3xPvqSwcmpA8ytvPa9oskQ), [Kylie Odetta](https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq) | [Abide](https://open.spotify.com/album/7GQqvnCTxwbBLAvImtplIX) | 4:27 | 2022-04-29 | 2022-08-07 |
@@ -527,7 +528,7 @@
 | [No Ceilings](https://open.spotify.com/track/1gp0U9OhufHHgoDl5qNJsp) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [No Limits](https://open.spotify.com/album/2miXyGveSEG0bGayLr9Q9T) | 1:53 | 2021-12-11 | 2022-01-31 |
 | [No Cholo \(feat\. 350 & F'rael\)](https://open.spotify.com/track/3FIeCXalAlSgdNPoCbUcls) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Rapzilla](https://open.spotify.com/artist/2fWSzxY0pvctdhX3Vk2Fav), [F'rael](https://open.spotify.com/artist/1bjGUP5zjge68RaUaBSPvW), [350](https://open.spotify.com/artist/7tLS8BRv5KP3jPwm3KdsPl) | [No Cholo \(feat\. 350 & F'rael\)](https://open.spotify.com/album/44eq2VcE3yrVu0A31PCIkN) | 2:10 | 2021-12-11 | 2022-01-27 |
 | [No Church In A While](https://open.spotify.com/track/6yCdMEIrxBXwH2EfPYopnv) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [No Church In A While](https://open.spotify.com/album/2Xk39wTH3BV3VHoUKLvrJZ) | 2:59 | 2021-12-11 | 2022-05-29 |
-| [NO FRIENDS](https://open.spotify.com/track/02ukrJfoHTagogj3cTR9sO) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [Shua](https://open.spotify.com/artist/7itDSdWcVsCH0PRqrcUVW7) | [EREMOS](https://open.spotify.com/album/6ip0mKMe6muq0ZuEsiJ1XJ) | 2:41 | 2023-03-25 |  |
+| [NO FRIENDS](https://open.spotify.com/track/02ukrJfoHTagogj3cTR9sO) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [Shua](https://open.spotify.com/artist/7itDSdWcVsCH0PRqrcUVW7) | [EREMOS](https://open.spotify.com/album/6ip0mKMe6muq0ZuEsiJ1XJ) | 2:41 | 2023-03-25 | 2024-01-09 |
 | [NO GOOD](https://open.spotify.com/track/0Q6pNJvgICuD2XjWAq3tqT) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [NO GOOD](https://open.spotify.com/album/2yXbdKXRbLV1zVRguS35kl) | 2:57 | 2022-03-12 | 2022-08-07 |
 | [no longer bound](https://open.spotify.com/track/1lF7uD9Yu2CL17a6tm4Tkh) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [no longer bound](https://open.spotify.com/album/1ri9HxSukluBBAvkqPd39A) | 2:53 | 2023-01-27 | 2023-08-26 |
 | [No Loss](https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [No Loss](https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN) | 2:55 | 2022-09-11 | 2023-03-25 |

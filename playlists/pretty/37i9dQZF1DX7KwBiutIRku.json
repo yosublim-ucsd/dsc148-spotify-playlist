@@ -1,12 +1,12 @@
 {
   "description": "Southern boogie, swinging blues rock and classic boogie rock. Cover: ZZ Top",
-  "num_followers": 82445,
+  "num_followers": 82536,
   "original_name": "Boogie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODAwNTI4N2Y5MjIwOTViN2RmMTkyZDBiMjRkMTgwNjc0NWVkM2Ni",
+  "snapshot_id": "MCwwYTY5ZWYzODVhZThjYzcxYjdiYzhkMTk4Njc2MDkzYTE3ZmU1Yzlj",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -107,6 +107,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Fandango! (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 137933,
+      "name": "Tush - 2006 Remaster",
+      "url": "https://open.spotify.com/track/6zGDIDjfDkPyNxrEERO3XG"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Future Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/7CZCDYdgJPRzRAHk91SJGh"
       },
@@ -155,6 +171,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "On the Border (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 218269,
+      "name": "James Dean - 2013 Remaster",
+      "url": "https://open.spotify.com/track/0HznRAeJLyGtyLZgecDiLI"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Yeah! (US Internet Release)",
         "url": "https://open.spotify.com/album/0sOT2G3ov21Lc8t5UNEoi3"
       },
@@ -167,54 +199,6 @@
       "duration_ms": 176453,
       "name": "Smokin' in the Boy's Room",
       "url": "https://open.spotify.com/track/1AIGp3gpj1NXJvh3engmUQ"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Fandango! (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 137933,
-      "name": "Tush - 2006 Remaster",
-      "url": "https://open.spotify.com/track/6zGDIDjfDkPyNxrEERO3XG"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Future Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7CZCDYdgJPRzRAHk91SJGh"
-      },
-      "artists": [
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 170120,
-      "name": "Let's Work Together",
-      "url": "https://open.spotify.com/track/4GAqWEmxzMZDZ1T0NFHqKG"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Rockin' All Over The World",
-        "url": "https://open.spotify.com/album/4UyEneWCIKATQf3keQnG7O"
-      },
-      "artists": [
-        {
-          "name": "Status Quo",
-          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
-        }
-      ],
-      "duration_ms": 217453,
-      "name": "Rockin' All Over The World",
-      "url": "https://open.spotify.com/track/1ydpGKWD5D8tvTHWN8h58q"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -235,18 +219,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "On the Border (2013 Remaster)",
-        "url": "https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu"
+        "name": "Rockin' All Over The World",
+        "url": "https://open.spotify.com/album/4UyEneWCIKATQf3keQnG7O"
       },
       "artists": [
         {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
         }
       ],
-      "duration_ms": 218269,
-      "name": "James Dean - 2013 Remaster",
-      "url": "https://open.spotify.com/track/0HznRAeJLyGtyLZgecDiLI"
+      "duration_ms": 217453,
+      "name": "Rockin' All Over The World",
+      "url": "https://open.spotify.com/track/1ydpGKWD5D8tvTHWN8h58q"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -263,22 +247,6 @@
       "duration_ms": 298093,
       "name": "Hot Love",
       "url": "https://open.spotify.com/track/7EZw2AXVKWSNq5n7cw94RF"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Exile On Main Street (2010 Re-Mastered)",
-        "url": "https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 214466,
-      "name": "Casino Boogie",
-      "url": "https://open.spotify.com/track/3NDEunNz7GMb6SkkPYTvd2"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -319,6 +287,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Future Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7CZCDYdgJPRzRAHk91SJGh"
+      },
+      "artists": [
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 170120,
+      "name": "Let's Work Together",
+      "url": "https://open.spotify.com/track/4GAqWEmxzMZDZ1T0NFHqKG"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "The Morning After",
         "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 155640,
       "name": "I Don't Need You No More",
       "url": "https://open.spotify.com/track/1HKr4zUACoh3QfxbfVz8Du"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Exile On Main Street (2010 Re-Mastered)",
+        "url": "https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 214466,
+      "name": "Casino Boogie",
+      "url": "https://open.spotify.com/track/3NDEunNz7GMb6SkkPYTvd2"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -431,6 +431,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "The Morning After",
+        "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
+      },
+      "artists": [
+        {
+          "name": "The J. Geils Band",
+          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
+        }
+      ],
+      "duration_ms": 189520,
+      "name": "Floyd's Hotel",
+      "url": "https://open.spotify.com/track/2feQ7CyRZOUeqsct3zwDtn"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/1oKWgM9Td5XbgUweHSRGXB"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 213693,
       "name": "Charming Mess",
       "url": "https://open.spotify.com/track/494fTnltxTwiZYqACtCzWU"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "The Morning After",
-        "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
-      },
-      "artists": [
-        {
-          "name": "The J. Geils Band",
-          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
-        }
-      ],
-      "duration_ms": 189520,
-      "name": "Floyd's Hotel",
-      "url": "https://open.spotify.com/track/2feQ7CyRZOUeqsct3zwDtn"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Quotable Quo",
+        "url": "https://open.spotify.com/album/4IAafmNssq4xupEIUR7enj"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Whatever You Want",
+      "url": "https://open.spotify.com/track/2PkOmx1S4XOwPU1Pgyaoig"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Ooh La La",
         "url": "https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5"
       },
@@ -541,22 +557,6 @@
       "url": "https://open.spotify.com/track/0zkQxCDeyu1Q35wfgCQaPX"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Quotable Quo",
-        "url": "https://open.spotify.com/album/4IAafmNssq4xupEIUR7enj"
-      },
-      "artists": [
-        {
-          "name": "Status Quo",
-          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Whatever You Want",
-      "url": "https://open.spotify.com/track/2PkOmx1S4XOwPU1Pgyaoig"
-    },
-    {
       "added_at": "2021-04-13 15:36:15",
       "album": {
         "name": "Raisin' A Ruckus",
@@ -575,22 +575,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Hoople",
-        "url": "https://open.spotify.com/album/2Jar3nPcvUZVEIT2DBJ8Am"
-      },
-      "artists": [
-        {
-          "name": "Mott The Hoople",
-          "url": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "The Golden Age of Rock 'n' Roll",
-      "url": "https://open.spotify.com/track/2M9aZcP4xcDiEvEChmHTsx"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Top Priority (Remastered 2017)",
         "url": "https://open.spotify.com/album/479bZ6qz6NIBHMex9X1Awy"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 290670,
       "name": "Hell Cat",
       "url": "https://open.spotify.com/track/4osrtrJTY1PRKHi44srR3c"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The Hoople",
+        "url": "https://open.spotify.com/album/2Jar3nPcvUZVEIT2DBJ8Am"
+      },
+      "artists": [
+        {
+          "name": "Mott The Hoople",
+          "url": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "The Golden Age of Rock 'n' Roll",
+      "url": "https://open.spotify.com/track/2M9aZcP4xcDiEvEChmHTsx"
     },
     {
       "added_at": "2021-10-15 04:01:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Gasoline Alley",
-        "url": "https://open.spotify.com/album/6FaMpsO2fif34ToEu1wLqf"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 386226,
-      "name": "It's All Over Now",
-      "url": "https://open.spotify.com/track/78H0GpZn9EXwEI6gr2FZUA"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Vagabonds Of The Western World",
         "url": "https://open.spotify.com/album/6PR3uEvxJbmBw6zLGIjVtU"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 242280,
       "name": "Outlaws",
       "url": "https://open.spotify.com/track/6OCvoEuOHptoVnJyJ23KWR"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Gasoline Alley",
+        "url": "https://open.spotify.com/album/6FaMpsO2fif34ToEu1wLqf"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 386226,
+      "name": "It's All Over Now",
+      "url": "https://open.spotify.com/track/78H0GpZn9EXwEI6gr2FZUA"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "All The Young Dudes (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3LdlOZcV0dp7ePBXe2KAGa"
-      },
-      "artists": [
-        {
-          "name": "Mott The Hoople",
-          "url": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Jerkin' Crocus",
-      "url": "https://open.spotify.com/track/1xKF80cHD0H6VydMJqK4st"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Jinx (Remastered 2017)",
         "url": "https://open.spotify.com/album/7KoqBVH5VVliVu15CiUOgS"
       },
@@ -747,22 +731,6 @@
       "duration_ms": 234901,
       "name": "Bourbon",
       "url": "https://open.spotify.com/track/2bHdpo5xyMYyWBRYfoPwBX"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Gimme Some Neck",
-        "url": "https://open.spotify.com/album/6BAyV837xPY0ukq8vph9G9"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Wood",
-          "url": "https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Worry No More",
-      "url": "https://open.spotify.com/track/1hbPE73HMcCexM0bJUC7kq"
     },
     {
       "added_at": "2021-07-30 04:01:00",
@@ -779,6 +747,38 @@
       "duration_ms": 223773,
       "name": "7 O'Clock - 30th Anniversary Version",
       "url": "https://open.spotify.com/track/22JtENh4WNZxFll7qVG5rY"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "All The Young Dudes (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3LdlOZcV0dp7ePBXe2KAGa"
+      },
+      "artists": [
+        {
+          "name": "Mott The Hoople",
+          "url": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Jerkin' Crocus",
+      "url": "https://open.spotify.com/track/1xKF80cHD0H6VydMJqK4st"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Gimme Some Neck",
+        "url": "https://open.spotify.com/album/6BAyV837xPY0ukq8vph9G9"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Wood",
+          "url": "https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Worry No More",
+      "url": "https://open.spotify.com/track/1hbPE73HMcCexM0bJUC7kq"
     },
     {
       "added_at": "2020-12-01 05:01:00",

@@ -4,7 +4,7 @@
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1?si=TOzAEf6yTvWEDysOJWHqPA"> Olivetheboy </a>
 
-284 songs - 15 hr 6 min
+285 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Fate](https://open.spotify.com/track/1QCV9ndrHVnqtMcqXszEN6) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Fate](https://open.spotify.com/album/4ReLbue8ShBMjIGbJjGGAw) | 2:58 | 2023-09-14 |  |
 | [Feel Your Body](https://open.spotify.com/track/7i1IidJjOxCxv9Yq7DKPM5) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [BUTiFLY](https://open.spotify.com/album/2xvYJb8vpUxIvzmUTeleQ3) | 3:33 | 2023-10-13 | 2023-11-24 |
 | [Feeli Free](https://open.spotify.com/track/5vxXhQPRO0oMXujM4A0o7V) | [Dwp Academy](https://open.spotify.com/artist/4Lcg9JcF2mGeXncIyIrr41), [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [Feeli Free](https://open.spotify.com/album/7f2l7d1YXCB4m9X8V7KKcy) | 3:34 | 2023-12-22 |  |
-| [Feelings](https://open.spotify.com/track/3UYRNOw7cwUzIJmKCwjXEX) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Feelings](https://open.spotify.com/album/6uuL5ozmu2AopsmbKb7Qyq) | 3:14 | 2022-11-04 |  |
+| [Feelings](https://open.spotify.com/track/2IbZaJSrigYM4mUJaggJr9) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [For Times We Lost](https://open.spotify.com/album/78aCHVIephfuOTzaFI4oGI) | 3:14 | 2023-12-22 |  |
+| [Feelings](https://open.spotify.com/track/3UYRNOw7cwUzIJmKCwjXEX) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Feelings](https://open.spotify.com/album/6uuL5ozmu2AopsmbKb7Qyq) | 3:14 | 2022-11-04 | 2024-01-09 |
 | [Fever](https://open.spotify.com/track/1wCjMz6bqdzVjpJWl45p9L) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn) | [Fever](https://open.spotify.com/album/70gNO57xq8Anipepibg32m) | 4:13 | 2022-11-04 | 2023-09-09 |
 | [Fine Wine \(feat\. King Promise & Joeboy\)](https://open.spotify.com/track/3E3WIVDBt4rX4N2kRrwSah) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Fine Wine \(feat\. King Promise & Joeboy\)](https://open.spotify.com/album/3f6FbIilED8NakLgcWAhqi) | 3:50 | 2022-11-04 |  |
 | [Fiona \(feat\. Lasmid\) \- Remix](https://open.spotify.com/track/6lcbqARFc6XYGYkHfRUrwo) | [Fazil](https://open.spotify.com/artist/1nKZZibM5fYq7UtMKOZIWq), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Fiona \(feat\. Lasmid\) \[Remix\]](https://open.spotify.com/album/3RkNNWfviQ9hnFO2Sn7jXo) | 3:20 | 2023-11-24 |  |

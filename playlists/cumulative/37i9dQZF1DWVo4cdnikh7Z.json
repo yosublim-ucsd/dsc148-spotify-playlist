@@ -6251,6 +6251,32 @@
     },
     {
       "album": {
+        "name": "Ghora Hara (From \"Captain Miller\")",
+        "url": "https://open.spotify.com/album/6FEN1B46d7CuEKZ6Cw7kiH"
+      },
+      "artists": [
+        {
+          "name": "Rahul Sipligunj",
+          "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Rakendu Mouli",
+          "url": "https://open.spotify.com/artist/2wBKMv1ci10ht9OqJzJBg8"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201777,
+      "name": "Ghora Hara (From \"Captain Miller\")",
+      "url": "https://open.spotify.com/track/6oqXn1XMRUhSfMPzG018qe"
+    },
+    {
+      "album": {
         "name": "Gilma (From \"Kick\")",
         "url": "https://open.spotify.com/album/4IdUvNTuXJCbVcOSO1WX48"
       },
@@ -10257,6 +10283,32 @@
     },
     {
       "album": {
+        "name": "Kombari Vettapuli (From \"Captain Miller\")",
+        "url": "https://open.spotify.com/album/2rnFoq4FIGPD6W2zSlvbRw"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Dhee",
+          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Kombari Vettapuli (From \"Captain Miller\")",
+      "url": "https://open.spotify.com/track/3ABmPbCBTSeer7MO4SKvlZ"
+    },
+    {
+      "album": {
         "name": "The Legend (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0xndkcSdl91YAkkA1BK80N"
       },
@@ -10336,7 +10388,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 201777,
       "name": "Koranaaru (From \"Captain Miller\")",
       "url": "https://open.spotify.com/track/1hQCcHIb2x6NNrx547yTPP"

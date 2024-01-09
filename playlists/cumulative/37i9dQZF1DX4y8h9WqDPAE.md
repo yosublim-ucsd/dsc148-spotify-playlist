@@ -2,9 +2,9 @@
 
 ### [Channel\-X](https://open.spotify.com/playlist/37i9dQZF1DX4y8h9WqDPAE)
 
-> Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Chris Brown
+> Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: 4Batz
 
-603 songs - 1 day 7 hr 56 min
+604 songs - 1 day 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [6 BUSINESS DAYS \(feat\. Projexx\)](https://open.spotify.com/track/2KbFskDFrgLGKBKIVDrzbh) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:39 | 2023-10-27 |  |
 | [77 Degrees \(feat\. 21 Savage\)](https://open.spotify.com/track/10MebW3TqVEc8jVLeUBb0U) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [To Be Eaten Alive](https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk) | 2:46 | 2023-10-27 |  |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-04-15 | 2022-08-06 |
+| [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 | 2024-01-08 |  |
 | [Addicted \(feat\. Lil Baby\)](https://open.spotify.com/track/3Mr7AWHQj2ZUfMwNWq59MK) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Breezy \(Deluxe\)](https://open.spotify.com/album/79WcTJuCulopfqul1awYJk) | 3:38 | 2022-07-08 | 2022-08-20 |
 | [Afterparty \(with DESTIN CONRAD\)](https://open.spotify.com/track/4x2DdocX3IrZD3JTO2KvoZ) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Breathwork](https://open.spotify.com/album/72GuMt9GOvytS3yxco7qQ0) | 3:29 | 2023-06-16 | 2023-10-07 |
 | [Aint Mine](https://open.spotify.com/track/52hK9zEXqx2Fvxz8X4nWxb) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Aint Mine](https://open.spotify.com/album/5d0DWeqL8vlJAM6dIIRP46) | 2:36 | 2023-06-16 | 2023-12-09 |

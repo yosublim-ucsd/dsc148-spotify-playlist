@@ -2795,6 +2795,28 @@
     },
     {
       "album": {
+        "name": "CERBER EP",
+        "url": "https://open.spotify.com/album/2s9Jf5Ir7sG2uFYzFWkxSU"
+      },
+      "artists": [
+        {
+          "name": "Szpaku",
+          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155056,
+      "name": "Plaster",
+      "url": "https://open.spotify.com/track/6epWbDEEEOakzBeyNr69MO"
+    },
+    {
+      "album": {
         "name": "pls help me",
         "url": "https://open.spotify.com/album/1NUcER0oDMzkYOrEYGcapm"
       },
@@ -3180,7 +3202,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 193500,
       "name": "Sextape",
       "url": "https://open.spotify.com/track/77zPD9o9tBR5hhsxdDZJeV"
@@ -3745,6 +3767,24 @@
     },
     {
       "album": {
+        "name": "WIFEY",
+        "url": "https://open.spotify.com/album/359CWpeVe8HhxFORUDg0R5"
+      },
+      "artists": [
+        {
+          "name": "DZIARMA",
+          "url": "https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115764,
+      "name": "WIFEY",
+      "url": "https://open.spotify.com/track/5cCR8Aj1UcwiQLwGC1MrDY"
+    },
+    {
+      "album": {
         "name": "WSZYSTKO GUCCI",
         "url": "https://open.spotify.com/album/4aDAPi37Xt9uSAMmpCdzPw"
       },
@@ -3798,7 +3838,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 205925,
       "name": "WWA NA KXKSIE",
       "url": "https://open.spotify.com/track/0oyR4Ql18Y1GNwS3arouvb"

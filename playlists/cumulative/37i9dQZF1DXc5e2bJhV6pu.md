@@ -4,7 +4,7 @@
 
 > Shake up your wake up with a selection of feel good songs that will get you bouncing out the door.
 
-1,455 songs - 3 day 10 hr 34 min
+1,456 songs - 3 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1338,6 +1338,7 @@
 | [Underwater \(feat\. Dillon Francis\)](https://open.spotify.com/track/7uGQCsecZDhMCWBJmQvs1A) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [TREAT MYSELF \(DELUXE\)](https://open.spotify.com/album/745q70iMPQHWqjGzHeseBp) | 2:41 | 2020-07-18 | 2022-04-16 |
 | [Unicorn](https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Unicorn](https://open.spotify.com/album/14wVxL1PbK2bJuoGjxHrCR) | 2:50 | 2023-05-21 | 2023-06-01 |
 | [Untouched](https://open.spotify.com/track/0KlahhzNb98zyN83Vwae0l) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Hook Me Up](https://open.spotify.com/album/6aL2SwYj5kSEvIcYORHP37) | 4:15 | 2019-08-08 | 2019-08-09 |
+| [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 | 2023-12-15 |  |
 | [Up All Night](https://open.spotify.com/track/5RugEn59RTnWE4IM4uBaC9) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Fiora](https://open.spotify.com/artist/2r7POU2f5jV6x3k4vsNwrM) | [Up All Night](https://open.spotify.com/album/0YFbpYgj1TyV9P8L1n8XbW) | 2:41 | 2021-03-07 | 2022-04-10 |
 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:29 | 2021-03-14 |  |
 | [Ur Eyez \(feat\. Al Wright\)](https://open.spotify.com/track/6kr32AlGspfKtHjVhaAMFo) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Al Wright](https://open.spotify.com/artist/1xSUnm0Lnpusoq3cYTFSLS) | [Ur Eyez \(feat\. Al Wright\)](https://open.spotify.com/album/2eDRQs0mLY79SuygWaxUhY) | 3:23 | 2019-07-31 | 2022-03-31 |
@@ -1421,7 +1422,7 @@
 | [Wildflower](https://open.spotify.com/track/5ZBlQeRIVG4vmfKnRDhKZj) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Wildflower](https://open.spotify.com/album/5O0JSBmOjYljULpfYq15st) | 3:40 | 2020-06-12 | 2022-04-13 |
 | [Wish You Well](https://open.spotify.com/track/48xq0DnfAKtsFjK1L7GZx9) | [Bernard Fanning](https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n) | [Tea & Sympathy](https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I) | 2:31 | 2019-08-05 | 2022-04-07 |
 | [Wish You Well](https://open.spotify.com/track/1yAPglN5AGf7UoLK062ZYq) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Wish You Well](https://open.spotify.com/album/1yZZdubJ2rovC4QIBP8riQ) | 3:25 | 2019-07-31 | 2022-04-19 |
-| [Without You \(feat\. Sandro Cavazza\)](https://open.spotify.com/track/6Pgkp4qUoTmJIPn7ReaGxL) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [AVĪCI \(01\)](https://open.spotify.com/album/1m3mf7xkXIwssVriaaTjOS) | 3:01 | 2022-10-27 |  |
+| [Without You \(feat\. Sandro Cavazza\)](https://open.spotify.com/track/6Pgkp4qUoTmJIPn7ReaGxL) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [AVĪCI \(01\)](https://open.spotify.com/album/1m3mf7xkXIwssVriaaTjOS) | 3:01 | 2022-10-27 | 2024-01-09 |
 | [Without You \(feat\. Sandro Cavazza\)](https://open.spotify.com/track/6WbADFqMvR8N5u0BvtsWQE) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [AVĪCI \(01\)](https://open.spotify.com/album/6LaLU27ZPXimJIbpbiOahr) | 3:01 | 2019-07-30 | 2022-04-10 |
 | [Without You Now \(feat\. AJ Mitchell\)](https://open.spotify.com/track/4LjF33zge6eszlGqqkcFJ8) | [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh), [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Without You Now \(feat\. AJ Mitchell\)](https://open.spotify.com/album/3XPJGtffVqAWjS2xguYZ5f) | 2:51 | 2019-07-30 | 2022-04-20 |
 | [Woke Up Late](https://open.spotify.com/track/4GtxDqRqnAmHtmyPhSmXY4) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Woke Up Late](https://open.spotify.com/album/6hpgfU365ufyuVGWrrIYG5) | 3:02 | 2019-08-06 | 2019-08-08 |

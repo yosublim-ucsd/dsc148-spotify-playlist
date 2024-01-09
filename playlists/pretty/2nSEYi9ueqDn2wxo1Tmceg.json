@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 75910,
+  "num_followers": 75344,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzgzNyxiYWMxMTI4MmNlMjUzNGRjZTRjMTlhMjg5MTdlZDVjMDJhZjFjNmUz",
+  "snapshot_id": "MzgzOCxkNzJjY2QxYmM2MWY2YjljMmI3Nzc1NWY3ZWRmY2UyYTcwYjlmZjMy",
   "tracks": [
+    {
+      "added_at": "2024-01-08 17:34:03",
+      "album": {
+        "name": "All The Same",
+        "url": "https://open.spotify.com/album/2vUQi2E2j9QTU8NSRWxSjt"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "duration_ms": 175023,
+      "name": "All The Same",
+      "url": "https://open.spotify.com/track/6gRfg5GBGJukXcYWm9Wpwl"
+    },
     {
       "added_at": "2024-01-05 10:45:39",
       "album": {

@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127127,
+  "num_followers": 127087,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDUwMSxhZmU3ZTcwNWNhODgwNDBhZjE1MTdjNGRkY2RjMmI5OGQ0YTUxYWM3",
+  "snapshot_id": "NDUwMixkYTg1ZDZiMTkzZmRlMjk1NTUxZWU0OWZhNDA2MDk5OWVmNjhhNDM0",
   "tracks": [
+    {
+      "added_at": "2024-01-08 14:37:10",
+      "album": {
+        "name": "4D",
+        "url": "https://open.spotify.com/album/7dPYE1Uoic9mBMFgwcqPaR"
+      },
+      "artists": [
+        {
+          "name": "Bad Computer",
+          "url": "https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk"
+        },
+        {
+          "name": "Ryan Coss",
+          "url": "https://open.spotify.com/artist/22TzutcnmM3B1e7mWLY0f7"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "4D",
+      "url": "https://open.spotify.com/track/2v4bGopODBEOQqWzg31R2s"
+    },
     {
       "added_at": "2024-01-05 15:51:32",
       "album": {

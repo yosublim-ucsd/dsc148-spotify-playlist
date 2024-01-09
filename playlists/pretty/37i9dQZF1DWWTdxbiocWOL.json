@@ -1,12 +1,12 @@
 {
   "description": "Thunder is coming.",
-  "num_followers": 425782,
+  "num_followers": 425668,
   "original_name": "Calm Before the Storm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGI5MmRmNzkxZDU1OWNmYzVmNTQ2NDlkYmE3ZWRmZmZhZWZmZjQ0",
+  "snapshot_id": "MCxiMTMyMWFmMzg0YjM4MTNlZWM1OTJjYjljZDc0ZTY5Yjk4MmRlMDJk",
   "tracks": [
     {
       "added_at": "2023-10-19 17:09:31",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-10-19 17:09:31",
       "album": {
-        "name": "Young Mountain",
-        "url": "https://open.spotify.com/album/4In2V4QylBdWT8HJ0dLDw5"
-      },
-      "artists": [
-        {
-          "name": "This Will Destroy You",
-          "url": "https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk"
-        }
-      ],
-      "duration_ms": 432306,
-      "name": "The World Is Our ___",
-      "url": "https://open.spotify.com/track/1EKk6Xvei9N9scaQcrax2S"
-    },
-    {
-      "added_at": "2023-10-19 17:09:31",
-      "album": {
         "name": "Pacific\u2022atlantic",
         "url": "https://open.spotify.com/album/0AcN6qKwf00huBIs83EcSO"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 340840,
       "name": "Twentytwofourteen",
       "url": "https://open.spotify.com/track/5pie01PYzPuRexCyFilLGU"
+    },
+    {
+      "added_at": "2023-10-19 17:09:31",
+      "album": {
+        "name": "Young Mountain",
+        "url": "https://open.spotify.com/album/4In2V4QylBdWT8HJ0dLDw5"
+      },
+      "artists": [
+        {
+          "name": "This Will Destroy You",
+          "url": "https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk"
+        }
+      ],
+      "duration_ms": 432306,
+      "name": "The World Is Our ___",
+      "url": "https://open.spotify.com/track/1EKk6Xvei9N9scaQcrax2S"
     },
     {
       "added_at": "2023-10-19 17:09:31",
@@ -271,38 +271,6 @@
     {
       "added_at": "2023-10-19 17:09:31",
       "album": {
-        "name": "S/T",
-        "url": "https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf"
-      },
-      "artists": [
-        {
-          "name": "This Will Destroy You",
-          "url": "https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk"
-        }
-      ],
-      "duration_ms": 339600,
-      "name": "Threads",
-      "url": "https://open.spotify.com/track/1kZvOyo7g6k01Au6DuXY4Y"
-    },
-    {
-      "added_at": "2023-10-19 17:09:31",
-      "album": {
-        "name": "Hymn to the Immortal Wind (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2tMQkZ8WvwpM7qmRVrW3hK"
-      },
-      "artists": [
-        {
-          "name": "MONO",
-          "url": "https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3"
-        }
-      ],
-      "duration_ms": 360146,
-      "name": "Silent Flight, Sleeping Dawn - Remastered",
-      "url": "https://open.spotify.com/track/0Dv3M0Ck4n9anoPu1VQ5fU"
-    },
-    {
-      "added_at": "2023-10-19 17:09:31",
-      "album": {
         "name": "Systems / Layers",
         "url": "https://open.spotify.com/album/3CnIIKifMcJsclpMDEG9y4"
       },
@@ -327,6 +295,22 @@
       "duration_ms": 378066,
       "name": "Water from the Same Source",
       "url": "https://open.spotify.com/track/7vVoaTSJ0k4i2quvEDa3cP"
+    },
+    {
+      "added_at": "2023-10-19 17:09:31",
+      "album": {
+        "name": "Hymn to the Immortal Wind (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2tMQkZ8WvwpM7qmRVrW3hK"
+      },
+      "artists": [
+        {
+          "name": "MONO",
+          "url": "https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3"
+        }
+      ],
+      "duration_ms": 360146,
+      "name": "Silent Flight, Sleeping Dawn - Remastered",
+      "url": "https://open.spotify.com/track/0Dv3M0Ck4n9anoPu1VQ5fU"
     },
     {
       "added_at": "2023-10-19 17:09:31",
@@ -379,6 +363,22 @@
       "duration_ms": 383960,
       "name": "Unmake the Wild Light",
       "url": "https://open.spotify.com/track/7EmaLbhPGnQuw4riUkvlkp"
+    },
+    {
+      "added_at": "2023-10-19 17:09:31",
+      "album": {
+        "name": "S/T",
+        "url": "https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf"
+      },
+      "artists": [
+        {
+          "name": "This Will Destroy You",
+          "url": "https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk"
+        }
+      ],
+      "duration_ms": 339600,
+      "name": "Threads",
+      "url": "https://open.spotify.com/track/1kZvOyo7g6k01Au6DuXY4Y"
     },
     {
       "added_at": "2023-10-19 17:09:31",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-10-19 17:09:31",
       "album": {
+        "name": "Radio Protector",
+        "url": "https://open.spotify.com/album/3ruXFYPxKwCqPIzZtxjGmg"
+      },
+      "artists": [
+        {
+          "name": "65daysofstatic",
+          "url": "https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g"
+        }
+      ],
+      "duration_ms": 328186,
+      "name": "Radio Protector",
+      "url": "https://open.spotify.com/track/1QuJm7XRpFjEfOU6A01mw2"
+    },
+    {
+      "added_at": "2023-10-19 17:09:31",
+      "album": {
         "name": "Children",
         "url": "https://open.spotify.com/album/54HUczZ6IE8t8rrDuhWLaE"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 419333,
       "name": "Her Beating Wings",
       "url": "https://open.spotify.com/track/2FGsWazGl3pdFX1kNk2NY1"
-    },
-    {
-      "added_at": "2023-10-19 17:09:31",
-      "album": {
-        "name": "Radio Protector",
-        "url": "https://open.spotify.com/album/3ruXFYPxKwCqPIzZtxjGmg"
-      },
-      "artists": [
-        {
-          "name": "65daysofstatic",
-          "url": "https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g"
-        }
-      ],
-      "duration_ms": 328186,
-      "name": "Radio Protector",
-      "url": "https://open.spotify.com/track/1QuJm7XRpFjEfOU6A01mw2"
     },
     {
       "added_at": "2023-10-19 17:09:31",
@@ -655,18 +655,18 @@
     {
       "added_at": "2023-10-19 17:09:31",
       "album": {
-        "name": "Spine And Sensory (Expanded And Remastered)",
-        "url": "https://open.spotify.com/album/6fYcfqLS4HumMAdPHpH9Z6"
+        "name": "The Earth Fell Away",
+        "url": "https://open.spotify.com/album/6yU7H3vYfeXC6HQJ97oRkj"
       },
       "artists": [
         {
-          "name": "Tristeza",
-          "url": "https://open.spotify.com/artist/3oglFEsE6GvwwJFConxKa5"
+          "name": "Carved Into the Sun",
+          "url": "https://open.spotify.com/artist/5g6B8BImDEAOJxGNBNJFsJ"
         }
       ],
-      "duration_ms": 292453,
-      "name": "Golden Hill",
-      "url": "https://open.spotify.com/track/3FhASv6CcevRilYRxpCZrK"
+      "duration_ms": 520172,
+      "name": "Hexis",
+      "url": "https://open.spotify.com/track/7hIWzzbMFypsYqwXTUY8K9"
     }
   ],
   "unique_name": "Calm Before the Storm",

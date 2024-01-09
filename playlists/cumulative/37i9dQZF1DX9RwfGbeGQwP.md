@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,367 songs - 2 day 3 hr 31 min
+1,368 songs - 2 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -671,7 +671,7 @@
 | [lo\-fi shrine](https://open.spotify.com/track/61ageyUZp3kNUpOhuVDk44) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [kyoto calling](https://open.spotify.com/album/0MWZAefCAhCIkpwtZFsBYv) | 2:04 | 2022-01-27 | 2022-04-22 |
 | [lofi jazz](https://open.spotify.com/track/32n3aVyrJN7T72NIy14eQu) | [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [lofi jazz](https://open.spotify.com/album/5cHegGhkFqiAdipFC0Jtb7) | 1:41 | 2022-12-09 | 2023-10-06 |
 | [Lofi on the Bass](https://open.spotify.com/track/2IhrewZbhBLNdTgxNKrIdE) | [Daniel Fridell](https://open.spotify.com/artist/4WG5037NDBAMyjzClxwmKK), [Sven Lindvall](https://open.spotify.com/artist/3TauislvTr1US5ZCbjnLUx) | [Lofi on the Bass](https://open.spotify.com/album/2ADzOtvCNQFQ2IQCrucOZP) | 3:37 | 2023-11-17 |  |
-| [Lofi Velvet Oasis](https://open.spotify.com/track/5ZOuVqzMW7NUMGIUCWnyzx) | [Lovetime Rhapsody](https://open.spotify.com/artist/1khPvt8OPAxBnQTIZ0kHJi) | [A Walk Through The Clouds](https://open.spotify.com/album/7bCRZzbTOPhZYSV5h81GdC) | 2:31 | 2023-11-17 |  |
+| [Lofi Velvet Oasis](https://open.spotify.com/track/5ZOuVqzMW7NUMGIUCWnyzx) | [Lovetime Rhapsody](https://open.spotify.com/artist/1khPvt8OPAxBnQTIZ0kHJi) | [A Walk Through The Clouds](https://open.spotify.com/album/7bCRZzbTOPhZYSV5h81GdC) | 2:31 | 2023-11-17 | 2024-01-09 |
 | [Lonely Mountain](https://open.spotify.com/track/2kxJbP2CXEZRCaCefWD721) | [Historians](https://open.spotify.com/artist/15itgh8cH72Bu7pXiyj0r1) | [Brooding T\-Rex](https://open.spotify.com/album/3Ixz2N2NtUOZEcP0JuCgrF) | 2:48 | 2022-01-27 | 2023-05-20 |
 | [Long for](https://open.spotify.com/track/5clFQSNR2BFzgfYf9CNQPJ) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [takeo](https://open.spotify.com/artist/77ONEFnCEJnH1qm5dBzDcf) | [Long for](https://open.spotify.com/album/3YhoM7R1RxZUJeKYMyjXFN) | 2:33 | 2022-12-09 | 2023-04-28 |
 | [Long Walks](https://open.spotify.com/track/4CUcBdtk6vfz1AEantq8Yh) | [Joi Casette](https://open.spotify.com/artist/00HEKt0f42LmgnoabKX3Ok) | [Long Walks](https://open.spotify.com/album/3UtFxXCfwdy9ZPzs5fWVzK) | 2:04 | 2022-01-27 |  |
@@ -1123,6 +1123,7 @@
 | [Straight Lines](https://open.spotify.com/track/2z5wE4IXYyz26v0g1mdQvF) | [Zesik](https://open.spotify.com/artist/1xNBQYNORzAxrGs8bQEX4I) | [Straight Lines](https://open.spotify.com/album/20SX29zxR7Cr1HOFbqXbHt) | 2:13 | 2022-05-20 | 2022-11-26 |
 | [Strange Habits](https://open.spotify.com/track/0pMI9nxYUcV1GEjNbS5GEA) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [MONODUKE](https://open.spotify.com/artist/7GMURXXNVyc1SXq3cvw197), [kotokid](https://open.spotify.com/artist/5nUYbKvo093YsLndnCppvG) | [Strange Habits](https://open.spotify.com/album/2IILdNlI6l9FO8Sj08Nr1k) | 2:15 | 2022-09-30 | 2023-08-04 |
 | [Stratosphere](https://open.spotify.com/track/5bboSEWwYsIEvusO64B0R9) | [Pausa Psi](https://open.spotify.com/artist/43Ojd4Mv19doUZziYeCs2S) | [Stratosphere](https://open.spotify.com/album/2TMKhPR8ZTjZ3IU6US6OJQ) | 2:32 | 2022-12-09 |  |
+| [Street 34](https://open.spotify.com/track/4hIalvhaz7MeO1J0kYKx3p) | [Benjiroe](https://open.spotify.com/artist/6Wn8G21OpyLGppBZazEhHp) | [Street 34](https://open.spotify.com/album/6jFTYjYvX678auOMIeYwVh) | 2:00 | 2024-01-05 |  |
 | [street lights](https://open.spotify.com/track/0KhzvQg3b8xdHkeoWCOSgO) | [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR), [SoulDrifter](https://open.spotify.com/artist/5SIoubV9yXQWEJEqKpPPD2) | [street lights](https://open.spotify.com/album/7aRPvupgblPRfmUxXYDFux) | 1:57 | 2022-09-02 | 2023-04-21 |
 | [stress](https://open.spotify.com/track/1qpXDdI5jrIv58z7KIADyB) | [Syzygy X](https://open.spotify.com/artist/5bQ0VyBeExuR0VDhSMIuii) | [stress](https://open.spotify.com/album/3v8KZDSIQ4iVKXDQnMeqwd) | 2:58 | 2023-05-19 |  |
 | [Stressofobia](https://open.spotify.com/track/2lqELlcM5vOPypzwVwGU9B) | [Jimp Dino](https://open.spotify.com/artist/1FWBtnVOD7fmzw3CG2gMUF) | [Stressofobia](https://open.spotify.com/album/0oyfLqemDqa3uXK2RqeuUu) | 2:33 | 2023-07-13 |  |

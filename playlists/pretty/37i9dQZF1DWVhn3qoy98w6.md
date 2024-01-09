@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: NICO B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,316 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,335 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 99 | [Dejarte De Ver](https://open.spotify.com/track/1otG3gGSRMRYg5wzlfJXg1) | [Mr.ANSIA](https://open.spotify.com/artist/0COsuLgiqHRY6HTdZyg9bf) | [Dejarte De Ver](https://open.spotify.com/album/2QwY7xoVIqTRhZrCHAqpoC) | 3:51 |
 | 100 | [LO PUTO MÁS](https://open.spotify.com/track/5DdiCIi7yRv0E6Y5bmE77O) | [INSÚA](https://open.spotify.com/artist/79L3jrwQEA7hgzb6NYEPlO) | [LO PUTO MÁS](https://open.spotify.com/album/5W0qNgjVgvfGUeLWMgbXzH) | 3:40 |
 
-Snapshot ID: `MCwzMGNkMmJmMTUxYWE2N2ZlNTRkMWIxNmMyZjJmMzFlMmNmMzc5MGVh`
+Snapshot ID: `MCw3YzJjMDY5NzMwNGI4Yjc2YjY5NTNlMjVkMjcyYjZjODg5YjE5ZDk3`

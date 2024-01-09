@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Cashflow x Batuflex
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328,805 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,328,485 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 5 | [KARDEŞ](https://open.spotify.com/track/60L3b4EDrwenFFOY2eBqzm) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [KARDEŞ](https://open.spotify.com/album/2aGaMtEzo1t5pQMQj9eiHl) | 2:01 |
 | 6 | [JET BABA](https://open.spotify.com/track/7FVpfqKuhl9OYsFUHiZV4T) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [JET BABA](https://open.spotify.com/album/0iZGqSIdqgCrwsStL5jXjm) | 2:20 |
 | 7 | [A La Carte](https://open.spotify.com/track/4MmvreU6tS8j2o693cUgpp) | [Kleo](https://open.spotify.com/artist/7Crlr0QgOu2yjCKSNEJcSm), [Segah](https://open.spotify.com/artist/4J3UGufkoUJDn1tMOWPt4P), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [A La Carte](https://open.spotify.com/album/2RzrB6Tlphecdy8K5NV7RD) | 2:35 |
-| 8 | [Pışşt Baksana](https://open.spotify.com/track/1zb7jJXt2aAP7cFBrd9GcX) | [Tefo](https://open.spotify.com/artist/5bKfDewWHUg0VqXqRX1low), [Seko](https://open.spotify.com/artist/5ExPDJ7ouyX5oURLZ7VcAh) | [Pışşt Baksana](https://open.spotify.com/album/5pgE4mqzQPUzQqcgGZgQ8N) | 2:23 |
-| 9 | [Margiela](https://open.spotify.com/track/1KGvrw4RWClq7yt42sGG1v) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Margiela](https://open.spotify.com/album/4e2mD2qvVzVoA165EzPg5B) | 3:21 |
-| 10 | [Hayalet](https://open.spotify.com/track/3NWhRNp75M7bEZZH1nWzMw) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [Hayalet](https://open.spotify.com/album/02PUeAZeieBC4Sd1LUEdjj) | 2:42 |
-| 11 | [Hoşçakal](https://open.spotify.com/track/1G4xPTSdWG5oRdmmnOC7cS) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Hoşçakal](https://open.spotify.com/album/5t1FRa388eMdxfnSTSHkps) | 3:10 |
+| 8 | [Margiela](https://open.spotify.com/track/1KGvrw4RWClq7yt42sGG1v) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Margiela](https://open.spotify.com/album/4e2mD2qvVzVoA165EzPg5B) | 3:21 |
+| 9 | [Hayalet](https://open.spotify.com/track/3NWhRNp75M7bEZZH1nWzMw) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [Hayalet](https://open.spotify.com/album/02PUeAZeieBC4Sd1LUEdjj) | 2:42 |
+| 10 | [Hoşçakal](https://open.spotify.com/track/1G4xPTSdWG5oRdmmnOC7cS) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Hoşçakal](https://open.spotify.com/album/5t1FRa388eMdxfnSTSHkps) | 3:10 |
+| 11 | [Pışşt Baksana](https://open.spotify.com/track/1zb7jJXt2aAP7cFBrd9GcX) | [Tefo](https://open.spotify.com/artist/5bKfDewWHUg0VqXqRX1low), [Seko](https://open.spotify.com/artist/5ExPDJ7ouyX5oURLZ7VcAh) | [Pışşt Baksana](https://open.spotify.com/album/5pgE4mqzQPUzQqcgGZgQ8N) | 2:23 |
 | 12 | [SAPLA](https://open.spotify.com/track/2uHjJ9NkuTZj2luGH0rwJP) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [SAPLA](https://open.spotify.com/album/3mB4gwydrZhKBvmXa1tbZb) | 2:22 |
 | 13 | [İlle de Sen](https://open.spotify.com/track/2huuuyJHQ6KK6qzwvUlG3c) | [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [İlle de Sen](https://open.spotify.com/album/6U2CPuKLntRSRrSUPR4DES) | 2:26 |
 | 14 | [BABY](https://open.spotify.com/track/2RSGPn6GyddgRhdD34vZKP) | [LEVO](https://open.spotify.com/artist/4VkQs39IBA4Af9gaqMskcK), [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO) | [BABY](https://open.spotify.com/album/2zQ5mMcOLadl6ugw0c3YvG) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [Özür](https://open.spotify.com/track/0K2nzvf5Pn6IO0Xyt36iNi) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r) | [Özür](https://open.spotify.com/album/2qxO3eFHhuGDuFltNeXKjg) | 2:15 |
 | 50 | [İmparator](https://open.spotify.com/track/7lOGCEsmoHqai3PHS9kbTa) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [İmparator](https://open.spotify.com/album/7fzrnc30uFdoKs3MYCExre) | 2:04 |
 
-Snapshot ID: `MCxjNzIwOWI0ZTdiMjU0MzM0NjI5NTFiZmQ4ZmIxNTJmZDMxNmRmZWFk`
+Snapshot ID: `MCw4NjRkNzUzYmM1MjZiYmZhODkzYzM5YjBhYjQ5YzY5NDQ2M2VmNGFi`

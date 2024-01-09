@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 206610,
+  "num_followers": 206659,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2YxYTA1Y2ZjMDUyODM5NDdhMTMxNjM0YzJmZjA4ZGZlOGY2ODZi",
+  "snapshot_id": "MCxmOTVmY2ZhZjAwOTExZTZhMmZiNjBmOTI1YjUxZTJkYTRiZDkyYjRh",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -123,6 +123,22 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
+        "name": "Warriors (Tour Edition)",
+        "url": "https://open.spotify.com/album/5WmhGmiqWgPRmuuAVP7cCP"
+      },
+      "artists": [
+        {
+          "name": "Agnostic Front",
+          "url": "https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT"
+        }
+      ],
+      "duration_ms": 142586,
+      "name": "For My Family",
+      "url": "https://open.spotify.com/track/4Y4fGklrIKERF6TixxvLQi"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
         "name": "Set It Off",
         "url": "https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW"
       },
@@ -171,18 +187,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Warriors (Tour Edition)",
-        "url": "https://open.spotify.com/album/5WmhGmiqWgPRmuuAVP7cCP"
+        "name": "Nonstop",
+        "url": "https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU"
       },
       "artists": [
         {
-          "name": "Agnostic Front",
-          "url": "https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT"
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
         }
       ],
-      "duration_ms": 142586,
-      "name": "For My Family",
-      "url": "https://open.spotify.com/track/4Y4fGklrIKERF6TixxvLQi"
+      "duration_ms": 165720,
+      "name": "Scratch the Surface",
+      "url": "https://open.spotify.com/track/6yzoLxsBLiEqyB7zpAcJnX"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -235,38 +251,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Voice of Rebellion",
-        "url": "https://open.spotify.com/album/51TN24k8XMS8vQ98aUshFR"
-      },
-      "artists": [
-        {
-          "name": "Pro-Pain",
-          "url": "https://open.spotify.com/artist/56F64pmwSSCcmS1CxAnPk8"
-        }
-      ],
-      "duration_ms": 241343,
-      "name": "Voice of Rebellion",
-      "url": "https://open.spotify.com/track/2BNshqUpO2WSXRpp3lP37y"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "Nonstop",
-        "url": "https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU"
-      },
-      "artists": [
-        {
-          "name": "Sick Of It All",
-          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
-        }
-      ],
-      "duration_ms": 165720,
-      "name": "Scratch the Surface",
-      "url": "https://open.spotify.com/track/6yzoLxsBLiEqyB7zpAcJnX"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Set It Off",
         "url": "https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 121706,
       "name": "New York City",
       "url": "https://open.spotify.com/track/2YL1QdU29cFAHrijICeiWA"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Voice of Rebellion",
+        "url": "https://open.spotify.com/album/51TN24k8XMS8vQ98aUshFR"
+      },
+      "artists": [
+        {
+          "name": "Pro-Pain",
+          "url": "https://open.spotify.com/artist/56F64pmwSSCcmS1CxAnPk8"
+        }
+      ],
+      "duration_ms": 241343,
+      "name": "Voice of Rebellion",
+      "url": "https://open.spotify.com/track/2BNshqUpO2WSXRpp3lP37y"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -651,22 +651,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "What Doesn't Kill You Will Make You Stronger",
-        "url": "https://open.spotify.com/album/4TOosWzdrqh1WxHkRbvxMZ"
-      },
-      "artists": [
-        {
-          "name": "Candiria",
-          "url": "https://open.spotify.com/artist/2HlW9aXquEwJ3ywGlPEUPp"
-        }
-      ],
-      "duration_ms": 196720,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/0ai9xvb85BylFJ9JP2ogxe"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Ugly",
         "url": "https://open.spotify.com/album/0DfwAJXDy8TzMgRuPNsjkc"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
+        "name": "What Doesn't Kill You Will Make You Stronger",
+        "url": "https://open.spotify.com/album/4TOosWzdrqh1WxHkRbvxMZ"
+      },
+      "artists": [
+        {
+          "name": "Candiria",
+          "url": "https://open.spotify.com/artist/2HlW9aXquEwJ3ywGlPEUPp"
+        }
+      ],
+      "duration_ms": 196720,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/0ai9xvb85BylFJ9JP2ogxe"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
         "name": "Break Down The Walls",
         "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 100800,
       "name": "Take a Stand",
       "url": "https://open.spotify.com/track/2pyFrdfsP9c5ElbXv3m4OQ"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "Neutralize the Threat",
-        "url": "https://open.spotify.com/album/1cvZ2jWkoHj5uxdl3P8VP1"
-      },
-      "artists": [
-        {
-          "name": "Earth Crisis",
-          "url": "https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g"
-        }
-      ],
-      "duration_ms": 218773,
-      "name": "Total War",
-      "url": "https://open.spotify.com/track/6ssujYDvWvyC5H8ZBjRW3K"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -743,6 +727,22 @@
       "duration_ms": 125746,
       "name": "Over the Years",
       "url": "https://open.spotify.com/track/3svN7piEFZc4fn5paLZOOJ"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Neutralize the Threat",
+        "url": "https://open.spotify.com/album/1cvZ2jWkoHj5uxdl3P8VP1"
+      },
+      "artists": [
+        {
+          "name": "Earth Crisis",
+          "url": "https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g"
+        }
+      ],
+      "duration_ms": 218773,
+      "name": "Total War",
+      "url": "https://open.spotify.com/track/6ssujYDvWvyC5H8ZBjRW3K"
     },
     {
       "added_at": "2020-12-08 15:12:11",

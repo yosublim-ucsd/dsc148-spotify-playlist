@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzc3NGEzM2UxYWNlMmZhYzRmNmIwN2EwNTQ3OWE0MTYwMzkyZDhm",
+  "snapshot_id": "MCxiZmZhMzM1ZDYyOTBlZGNhYjAxODI0MWU0ZDMzZTkxMDhlNWJlNDQ4",
   "tracks": [
     {
       "added_at": "2021-11-11 19:24:28",
@@ -211,22 +211,6 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "Sinaloense Hasta Las Cachas",
-        "url": "https://open.spotify.com/album/6ywfmakEc2cj9eAJFfLEzf"
-      },
-      "artists": [
-        {
-          "name": "Fidel Rueda",
-          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "T\u00fa Ya Eres Cosa Del Pasado",
-      "url": "https://open.spotify.com/track/781lqqMzOTUPNl21JdgaLS"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
         "name": "Gracias Por Creer",
         "url": "https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 187640,
       "name": "Mi Segunda Vida",
       "url": "https://open.spotify.com/track/6Z7f0BXDLI8k4CHR9KJdAD"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "Sinaloense Hasta Las Cachas",
+        "url": "https://open.spotify.com/album/6ywfmakEc2cj9eAJFfLEzf"
+      },
+      "artists": [
+        {
+          "name": "Fidel Rueda",
+          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
+        }
+      ],
+      "duration_ms": 174213,
+      "name": "T\u00fa Ya Eres Cosa Del Pasado",
+      "url": "https://open.spotify.com/track/781lqqMzOTUPNl21JdgaLS"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -275,22 +275,6 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "Al Fin Te Encontr\u00e9",
-        "url": "https://open.spotify.com/album/1JfMi4WASZMLUUgcMxHhb6"
-      },
-      "artists": [
-        {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        }
-      ],
-      "duration_ms": 234480,
-      "name": "Me Cambiaste la Vida",
-      "url": "https://open.spotify.com/track/1OCre5vxYq2Vk1wfFsTWE1"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
         "name": "En Vida",
         "url": "https://open.spotify.com/album/4ERCLcA2hl98lbwkOeqcYz"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 188586,
       "name": "Mi Meta Contigo",
       "url": "https://open.spotify.com/track/5DSreXbE3u1VUtVeSiqlnn"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "Al Fin Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/1JfMi4WASZMLUUgcMxHhb6"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        }
+      ],
+      "duration_ms": 234480,
+      "name": "Me Cambiaste la Vida",
+      "url": "https://open.spotify.com/track/1OCre5vxYq2Vk1wfFsTWE1"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -323,22 +323,6 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "Sinaloense Hasta Las Cachas",
-        "url": "https://open.spotify.com/album/6ywfmakEc2cj9eAJFfLEzf"
-      },
-      "artists": [
-        {
-          "name": "Fidel Rueda",
-          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
-        }
-      ],
-      "duration_ms": 214466,
-      "name": "Todo Porque Te Amo",
-      "url": "https://open.spotify.com/track/2W2mcZJZ250M9fSk0S1hKA"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
         "name": "10\u00ba Aniversario",
         "url": "https://open.spotify.com/album/2i6q4YYCAdOgdODbbhyKdk"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 153493,
       "name": "Hermosa Experiencia",
       "url": "https://open.spotify.com/track/6GTX6TGcHEWHoxHXPSVbJ2"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "Todo Depende De Ti",
+        "url": "https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 206920,
+      "name": "Disponible Para Mi",
+      "url": "https://open.spotify.com/track/1sKERUbwyohGOuQXS2JwFJ"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -371,18 +371,18 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "Todo Depende De Ti",
-        "url": "https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr"
+        "name": "Sinaloense Hasta Las Cachas",
+        "url": "https://open.spotify.com/album/6ywfmakEc2cj9eAJFfLEzf"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "Fidel Rueda",
+          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
         }
       ],
-      "duration_ms": 206920,
-      "name": "Disponible Para Mi",
-      "url": "https://open.spotify.com/track/1sKERUbwyohGOuQXS2JwFJ"
+      "duration_ms": 214466,
+      "name": "Todo Porque Te Amo",
+      "url": "https://open.spotify.com/track/2W2mcZJZ250M9fSk0S1hKA"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -419,22 +419,6 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "No Me Pidas Perd\u00f3n",
-        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 223453,
-      "name": "No Me Pidas Perdo\u0301n",
-      "url": "https://open.spotify.com/track/5GF1ljm1AWf6RQs9bQkZPR"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
         "name": "Romances",
         "url": "https://open.spotify.com/album/6IQ9Tk73kwPmKbdnMQ7nlo"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 184173,
       "name": "Me Gusta Todo De Ti",
       "url": "https://open.spotify.com/track/0lQw1AoV5ZUAatpZN0Lrl5"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 223453,
+      "name": "No Me Pidas Perdo\u0301n",
+      "url": "https://open.spotify.com/track/5GF1ljm1AWf6RQs9bQkZPR"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "Una Entre Un Mill\u00f3n",
-        "url": "https://open.spotify.com/album/3kB75r1jL5yfKXymZSsibm"
-      },
-      "artists": [
-        {
-          "name": "Banda Rancho Viejo De Julio Aramburo La Bandononona",
-          "url": "https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV"
-        }
-      ],
-      "duration_ms": 197733,
-      "name": "Una Entre Un Mill\u00f3n",
-      "url": "https://open.spotify.com/track/4NfEGvkNkSaTGMjLAmpGcg"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
         "name": "Todo Depende De Ti",
         "url": "https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 188413,
       "name": "Ni\u00f1a De Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2UZoSuDO0D6y9bW9Z3Hkng"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "Una Entre Un Mill\u00f3n",
+        "url": "https://open.spotify.com/album/3kB75r1jL5yfKXymZSsibm"
+      },
+      "artists": [
+        {
+          "name": "Banda Rancho Viejo De Julio Aramburo La Bandononona",
+          "url": "https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "Una Entre Un Mill\u00f3n",
+      "url": "https://open.spotify.com/track/4NfEGvkNkSaTGMjLAmpGcg"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -735,6 +735,22 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
+        "name": "Lo Que Pienso De Ti",
+        "url": "https://open.spotify.com/album/3UD2WQnpKZMUPYBqy7ae9G"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Lo Que Pienso De Ti",
+      "url": "https://open.spotify.com/track/2KWZ8Az5GyIDMrSVtdGmzm"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
         "name": "Haciendo Historia 30 Exitos",
         "url": "https://open.spotify.com/album/5R5JUyEYAgad5gVpAK1zHL"
       },
@@ -775,22 +791,6 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "Perfecta",
-        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 176706,
-      "name": "Elegiste Un Error",
-      "url": "https://open.spotify.com/track/7kmrbuDn7yI4t0VoHIV9PR"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
         "name": "Eres la Persona Correcta en el Momento Equivocado (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4yLZWoiV6At9flI5Qcyagr"
       },
@@ -803,22 +803,6 @@
       "duration_ms": 235253,
       "name": "Odio la Distancia",
       "url": "https://open.spotify.com/track/0WLSLR4GcF1JU09schUMoY"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
-        "name": "Lo Que Pienso De Ti",
-        "url": "https://open.spotify.com/album/3UD2WQnpKZMUPYBqy7ae9G"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "Lo Que Pienso De Ti",
-      "url": "https://open.spotify.com/track/2KWZ8Az5GyIDMrSVtdGmzm"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -839,34 +823,18 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "Evitame la Pena",
-        "url": "https://open.spotify.com/album/5Ec7ezX3ftrMH6niRU2rwe"
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
       },
       "artists": [
         {
-          "name": "Banda Rancho Viejo De Julio Aramburo La Bandononona",
-          "url": "https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV"
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 205586,
-      "name": "Evitame la Pena",
-      "url": "https://open.spotify.com/track/2a15h8UrDt4vUQwA7FAWzq"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
-        "name": "Mujer De Todos, Mujer De Nadie",
-        "url": "https://open.spotify.com/album/4bEnkTA8yQyyaAIkk0ZiVC"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 188226,
-      "name": "Mujer De Todos, Mujer De Nadie",
-      "url": "https://open.spotify.com/track/2Nq7V3GVhsultDnHFoLiEB"
+      "duration_ms": 176706,
+      "name": "Elegiste Un Error",
+      "url": "https://open.spotify.com/track/7kmrbuDn7yI4t0VoHIV9PR"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -899,6 +867,38 @@
       "duration_ms": 180200,
       "name": "As\u00ed Te Necesito",
       "url": "https://open.spotify.com/track/0VjQnUClspAvDIejRi8vRl"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "Evitame la Pena",
+        "url": "https://open.spotify.com/album/5Ec7ezX3ftrMH6niRU2rwe"
+      },
+      "artists": [
+        {
+          "name": "Banda Rancho Viejo De Julio Aramburo La Bandononona",
+          "url": "https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV"
+        }
+      ],
+      "duration_ms": 205586,
+      "name": "Evitame la Pena",
+      "url": "https://open.spotify.com/track/2a15h8UrDt4vUQwA7FAWzq"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "Mujer De Todos, Mujer De Nadie",
+        "url": "https://open.spotify.com/album/4bEnkTA8yQyyaAIkk0ZiVC"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 188226,
+      "name": "Mujer De Todos, Mujer De Nadie",
+      "url": "https://open.spotify.com/track/2Nq7V3GVhsultDnHFoLiEB"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -955,54 +955,6 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "Las Bandas Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/6aTyqTryxFbbFAfdOvZBOb"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "Se Me Hizo Vicio",
-      "url": "https://open.spotify.com/track/5ojaAFtMvJuDzN2hCFy1aX"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
-        "name": "M\u00e1s Enamorada Con Banda",
-        "url": "https://open.spotify.com/album/050rs5niQWOkSpfKiipWC6"
-      },
-      "artists": [
-        {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
-        }
-      ],
-      "duration_ms": 194520,
-      "name": "A Pesar De Todo",
-      "url": "https://open.spotify.com/track/1IJ3AiMHt24pgPxFg8HDMI"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
-        "name": "Borr\u00f3n y Cuenta Nueva",
-        "url": "https://open.spotify.com/album/3Oy6i9dEx4lTFuuwdB3eNo"
-      },
-      "artists": [
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
-        }
-      ],
-      "duration_ms": 200611,
-      "name": "Me Gustas Para Mi",
-      "url": "https://open.spotify.com/track/7vVCJpdu1IzUVeQYexEBEw"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
         "name": "De Fiesta Con La Sonora Dinamita",
         "url": "https://open.spotify.com/album/3lFZeCRwiWkvCz4vUh9DgR"
       },
@@ -1023,6 +975,38 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
+        "name": "M\u00e1s Enamorada Con Banda",
+        "url": "https://open.spotify.com/album/050rs5niQWOkSpfKiipWC6"
+      },
+      "artists": [
+        {
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+        }
+      ],
+      "duration_ms": 194520,
+      "name": "A Pesar De Todo",
+      "url": "https://open.spotify.com/track/1IJ3AiMHt24pgPxFg8HDMI"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/6aTyqTryxFbbFAfdOvZBOb"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 165040,
+      "name": "Se Me Hizo Vicio",
+      "url": "https://open.spotify.com/track/5ojaAFtMvJuDzN2hCFy1aX"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
         "name": "Fue Bueno Mientras Fue",
         "url": "https://open.spotify.com/album/5L5yfF1NmzDcQuTdoUunLp"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 207826,
       "name": "Fue Bueno Mientras Fue",
       "url": "https://open.spotify.com/track/1m32Mg4b7P9TyDrMthKb3D"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "Borr\u00f3n y Cuenta Nueva",
+        "url": "https://open.spotify.com/album/3Oy6i9dEx4lTFuuwdB3eNo"
+      },
+      "artists": [
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        }
+      ],
+      "duration_ms": 200611,
+      "name": "Me Gustas Para Mi",
+      "url": "https://open.spotify.com/track/7vVCJpdu1IzUVeQYexEBEw"
     },
     {
       "added_at": "2021-11-11 19:24:28",

@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Suspect CB
 
-880 songs - 1 day 14 hr 18 min
+881 songs - 1 day 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -561,6 +561,7 @@
 | [NO CONFIDENCE](https://open.spotify.com/track/4aCdjK8tuejHwGSTpgRCez) | [Rione](https://open.spotify.com/artist/7iMfaY3weGRYnarHrFogVH), [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [NO CONFIDENCE](https://open.spotify.com/album/2I3c5Ebl05sIArI3uy3mtj) | 2:59 | 2022-09-22 | 2022-10-28 |
 | [No Gangsta \(feat\. Diss Gacha\)](https://open.spotify.com/track/7jchp8dvNtPolD0UJHjDLs) | [Yamba](https://open.spotify.com/artist/5cmAoURYGVEFe0FyqQ127T), [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu) | [No Gangsta \(feat\. Diss Gacha\)](https://open.spotify.com/album/1FCvC9JiVSiFYxyguzXb4B) | 2:31 | 2023-02-16 | 2023-03-22 |
 | [No Kizzy](https://open.spotify.com/track/31KBhThOSGbqFcWbeMhGyw) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [No Kizzy](https://open.spotify.com/album/0WIcy0I1BOINZSXYJJlLEe) | 3:08 | 2022-08-11 | 2022-09-02 |
+| [NO LOVE](https://open.spotify.com/track/59mk2RyKQSbWCyR3s10C5v) | [NUMB](https://open.spotify.com/artist/0FuMlqhsisp3exsj6MJGDc) | [NO LOVE](https://open.spotify.com/album/1GY6oCQf3VnSJkUxjC7wL0) | 2:36 | 2024-01-08 |  |
 | [No Pit Stop \(feat\. Kid Yugi\)](https://open.spotify.com/track/4Swi2RoH0WE6ydW6x7qNQR) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Identità](https://open.spotify.com/album/061b4fp721yhJXddgLdmHE) | 2:35 | 2023-11-23 | 2023-12-17 |
 | [No Pit Stop \(feat\. Kid Yugi\)](https://open.spotify.com/track/7j5nQHnFsiIn4sGpNMISht) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Identità](https://open.spotify.com/album/5nxW9sJlywI1NGdLfaXMAN) | 2:35 | 2023-12-14 |  |
 | [No Way](https://open.spotify.com/track/1p3CfTqbZS8D8eZMf4ISyy) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [No Way](https://open.spotify.com/album/3bcuFWLhPtnu5K5PVa364S) | 2:17 | 2022-06-02 | 2022-06-24 |
@@ -782,7 +783,7 @@
 | [SUV NERO](https://open.spotify.com/track/34BSDQZhCLyEdknhW6fg3H) | [Astro Centauri](https://open.spotify.com/artist/027y7WtCHLPyUJr50Q0p6E), [Mothz](https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu) | [DRILLSTAR](https://open.spotify.com/album/0hYqjJdQO5twl5Mh8Hc2q5) | 2:08 | 2023-06-01 | 2023-06-16 |
 | [SWAG! \(Drip Margiela\)](https://open.spotify.com/track/4iaC4nwpOz6WXOKcuGzhWr) | [Radical](https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3), [Thelonious B.](https://open.spotify.com/artist/7rccKwEbDm4PjYBEZFEm3A) | [SWAG! \(Drip Margiela\)](https://open.spotify.com/album/0GFSvxiK8TUQCkiFHmHFo6) | 2:37 | 2022-06-09 | 2022-07-02 |
 | [Sì Sì](https://open.spotify.com/track/1T4VXH94y9aKcg8NzaUhQ1) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt), [Ago](https://open.spotify.com/artist/6glXq3t35awYBHo1b96imY) | [Sì Sì](https://open.spotify.com/album/5aeBCUPq3T13jTwSTeQMSr) | 2:06 | 2023-06-01 | 2023-07-14 |
-| [TACHANKA](https://open.spotify.com/track/62UkfLanwJ3jBfQa7QZScR) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr), [Ed Mars](https://open.spotify.com/artist/26LV5lhRjmkGpyqoi2hVB3) | [TACHANKA](https://open.spotify.com/album/0Eb4CSKVneypXslPypCrJY) | 1:55 | 2023-12-14 |  |
+| [TACHANKA](https://open.spotify.com/track/62UkfLanwJ3jBfQa7QZScR) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr), [Ed Mars](https://open.spotify.com/artist/26LV5lhRjmkGpyqoi2hVB3) | [TACHANKA](https://open.spotify.com/album/0Eb4CSKVneypXslPypCrJY) | 1:55 | 2023-12-14 | 2024-01-09 |
 | [Talento 1](https://open.spotify.com/track/5TAQklwUEGBAAiTFhCyxM0) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd), [Damo](https://open.spotify.com/artist/5LAlkPIJfTgQ7w65HPMll2) | [Talento 1](https://open.spotify.com/album/0HXIPwmEkOiEbt9L55XhWp) | 2:43 | 2023-10-26 | 2023-11-16 |
 | [TARRARE \(feat\. Sherkhan & 85Prod\)](https://open.spotify.com/track/4KCOCWSApldxLR6m0FL4PF) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [Sherkhan](https://open.spotify.com/artist/6EtqSPjwMT98miuCmffYNI), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr) | [TARRARE \(feat\. Sherkhan & 85Prod\)](https://open.spotify.com/album/70FmXLY4wBmRsuXRISxO0j) | 2:37 | 2023-11-02 | 2023-11-10 |
 | [TAXI](https://open.spotify.com/track/2jJpEaES8hhNysT2d3yPGc) | [Em](https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI) | [TAXI](https://open.spotify.com/album/2ODeD4PHuifsm7n6ea9ZaN) | 2:15 | 2022-12-08 | 2022-12-24 |

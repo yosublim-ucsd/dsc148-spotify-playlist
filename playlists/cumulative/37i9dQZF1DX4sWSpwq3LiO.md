@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,675 songs - 3 day 2 hr 26 min
+1,676 songs - 3 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -919,6 +919,7 @@
 | [Musing](https://open.spotify.com/track/05NMGDbC92aC738Rd0vYkX) | [Clara Nishimoto](https://open.spotify.com/artist/1hgBYux2Cpl893e98XlC2z) | [Musing](https://open.spotify.com/album/4M9m2atcjqVMBoWF2ibcqU) | 2:34 | 2020-02-26 | 2021-10-20 |
 | [My Absence](https://open.spotify.com/track/60aQ47g6775vmbN3yMntql) | [Giselle Guarezi](https://open.spotify.com/artist/3I7r2Vx9QBUabnGWYnKMQy) | [My Absence](https://open.spotify.com/album/0Xg1s0kUyiP6ae7M8ywtMV) | 1:58 | 2022-02-02 | 2023-07-04 |
 | [My Everything](https://open.spotify.com/track/3oymu4B8YqysHtkQV3oRZ7) | [Xanthe Nephus](https://open.spotify.com/artist/1Ilv5utNuysFsOCbLRq8eD) | [My Everything](https://open.spotify.com/album/4O0DWCYkKuBZRatFDWKz6i) | 2:36 | 2022-11-09 | 2023-09-23 |
+| [My Little Treasure](https://open.spotify.com/track/7A6mWq885WLJUngzwxfQXW) | [Bella Wilkinsson](https://open.spotify.com/artist/5u3pk5iGYX6qKIIVcyohZp) | [My Little Treasure](https://open.spotify.com/album/1E2bAyJoZ5GU7VGGbIu3NF) | 1:30 | 2024-01-08 |  |
 | [My Mind Made Up](https://open.spotify.com/track/28EEsmFKYr0HTeCxyEeeqO) | [Sarah Seing](https://open.spotify.com/artist/4Sw3vhjwiEgEuExPxm3vpl) | [My Mind Made Up](https://open.spotify.com/album/5gj3aLJleU4wkfTN2bttEO) | 3:35 | 2021-07-01 | 2022-05-13 |
 | [My Story](https://open.spotify.com/track/58S5x2FRM1xU8Ufe2g0a2G) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [My Story](https://open.spotify.com/album/2EVVXolgUr3Is1UB86BITH) | 2:18 | 2023-11-28 |  |
 | [Mystic Lily](https://open.spotify.com/track/5PaxL9G0j505GkNvmb4r4x) | [Selin Soral](https://open.spotify.com/artist/1ELn9uEbCIJXLAtFmiQ2wY) | [Mystic Lily](https://open.spotify.com/album/3ze19Ewre23Cgja29gbwwM) | 2:15 | 2021-06-03 | 2022-05-21 |

@@ -488,7 +488,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 263653,
       "name": "31.12",
       "url": "https://open.spotify.com/track/5OnLTl50NWpwZbY6OdAw2B"
@@ -9590,7 +9590,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 202644,
       "name": "Daqui pra Sempre",
       "url": "https://open.spotify.com/track/35D06z7kmwMmYYbyJ0BkSm"
@@ -19817,6 +19817,36 @@
     },
     {
       "album": {
+        "name": "Amor e \u00d3dio",
+        "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "TkN",
+          "url": "https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS"
+        },
+        {
+          "name": "Mindu",
+          "url": "https://open.spotify.com/artist/3shZdnoMWegcOdZUPuMXhB"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Lenda",
+      "url": "https://open.spotify.com/track/6XSTDJMW7yUr4Zuzyr4Ht6"
+    },
+    {
+      "album": {
         "name": "AURORA",
         "url": "https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo"
       },
@@ -21411,6 +21441,24 @@
     },
     {
       "album": {
+        "name": "MANDA BALA",
+        "url": "https://open.spotify.com/album/4ibsk1iPM7xDpJkNXREmsl"
+      },
+      "artists": [
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100465,
+      "name": "MANDA BALA",
+      "url": "https://open.spotify.com/track/1lS2qOUk6GA20XvjjrWc25"
+    },
+    {
+      "album": {
         "name": "Manda um Oi",
         "url": "https://open.spotify.com/album/1XY7cT5YBPleLRqM6sXON1"
       },
@@ -21700,7 +21748,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 174333,
       "name": "Marcas do Que Se Foi",
       "url": "https://open.spotify.com/track/1pXlXUusMGKhaHhOL20hKZ"
@@ -23527,6 +23575,24 @@
     },
     {
       "album": {
+        "name": "Bora Beber Meu Povo",
+        "url": "https://open.spotify.com/album/412D9oq2ruaknJ1GUN2Nn8"
+      },
+      "artists": [
+        {
+          "name": "BIGUINHO SENSA\u00c7\u00c3O",
+          "url": "https://open.spotify.com/artist/0oCpDbaRP5G4lu1VpP7WIy"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196048,
+      "name": "Meu Xod\u00f3",
+      "url": "https://open.spotify.com/track/18P4SLYRts7QXgLyaw52Ti"
+    },
+    {
+      "album": {
         "name": "Michael Te Amo Jackson Te Amo Ama Shit Nenhuma",
         "url": "https://open.spotify.com/album/3re0Tccmg9jd5i80DkLzm9"
       },
@@ -24696,6 +24762,28 @@
       "duration_ms": 212884,
       "name": "Mo\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/66KlcaDo2PlaFpumUHVG0W"
+    },
+    {
+      "album": {
+        "name": "MTG - Baby Eu Tava na Rua da \u00c1gua",
+        "url": "https://open.spotify.com/album/6HIPvZhnf9Pb6rFLQb7vmD"
+      },
+      "artists": [
+        {
+          "name": "TR",
+          "url": "https://open.spotify.com/artist/2CotyFTVKWR1jJLPTrrjdu"
+        },
+        {
+          "name": "Mc Menor RV",
+          "url": "https://open.spotify.com/artist/5MH9v8KacsyTetJmnrAO1W"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116307,
+      "name": "MTG - Baby Eu Tava na Rua da \u00c1gua",
+      "url": "https://open.spotify.com/track/4sAoshwHCmh4IHMQxZHwRD"
     },
     {
       "album": {
@@ -26108,7 +26196,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 253586,
       "name": "Normal Girl",
       "url": "https://open.spotify.com/track/5fQBa4wkmq28xpSLOQ202K"

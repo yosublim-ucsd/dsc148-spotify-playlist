@@ -1,12 +1,12 @@
 {
   "description": "Nominees \u2014 and past winners \u2014 from the 95th annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 264033,
+  "num_followers": 263871,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODE3MmJjOGNjNWFiMTZhNmRhODYzODY4Yjk0Mjc2Yjc3NTE5ZjJi",
+  "snapshot_id": "MCwyNjgzM2Y2ZWRmNWFlNDViZTQ0ZThkODI5MWVhYzZiYjc0Yzc0OWRk",
   "tracks": [
     {
       "added_at": "2023-03-13 02:59:21",
@@ -659,26 +659,6 @@
     {
       "added_at": "2023-03-13 02:59:21",
       "album": {
-        "name": "The Lion King",
-        "url": "https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd"
-      },
-      "artists": [
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-        },
-        {
-          "name": "Lebo M.",
-          "url": "https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "Under the Stars",
-      "url": "https://open.spotify.com/track/37lotBTQcBbYI7vEoGsOfg"
-    },
-    {
-      "added_at": "2023-03-13 02:59:21",
-      "album": {
         "name": "Al otro lado del rio",
         "url": "https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi"
       },
@@ -711,22 +691,22 @@
     {
       "added_at": "2023-03-13 02:59:21",
       "album": {
-        "name": "Black Panther (Original Score)",
-        "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
+        "name": "The Lion King",
+        "url": "https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd"
       },
       "artists": [
         {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
         },
         {
-          "name": "Baaba Maal",
-          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
+          "name": "Lebo M.",
+          "url": "https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA"
         }
       ],
-      "duration_ms": 140125,
-      "name": "Wakanda",
-      "url": "https://open.spotify.com/track/2mjbf9ZvCoYqTi0RZ2FTUJ"
+      "duration_ms": 225266,
+      "name": "Under the Stars",
+      "url": "https://open.spotify.com/track/37lotBTQcBbYI7vEoGsOfg"
     },
     {
       "added_at": "2023-03-13 02:59:21",
@@ -747,6 +727,26 @@
       "duration_ms": 250773,
       "name": "(I'm Gonna) Love Me Again",
       "url": "https://open.spotify.com/track/1q8lLOgfciaGLwXCvOpH6w"
+    },
+    {
+      "added_at": "2023-03-13 02:59:21",
+      "album": {
+        "name": "Black Panther (Original Score)",
+        "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        },
+        {
+          "name": "Baaba Maal",
+          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
+        }
+      ],
+      "duration_ms": 140125,
+      "name": "Wakanda",
+      "url": "https://open.spotify.com/track/2mjbf9ZvCoYqTi0RZ2FTUJ"
     },
     {
       "added_at": "2023-03-13 02:59:21",
@@ -827,8 +827,8 @@
     {
       "added_at": "2023-03-13 02:59:21",
       "album": {
-        "name": "The Shape Of Water (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/058fiqH1NYYmur8cicws4l"
+        "name": "Little Women (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2y8d4zbifvkrpASJeTMDnE"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
         }
       ],
-      "duration_ms": 222573,
-      "name": "The Shape Of Water",
-      "url": "https://open.spotify.com/track/2VzJH2QeNO1PiZwXZMvx7g"
+      "duration_ms": 198440,
+      "name": "Father Comes Home",
+      "url": "https://open.spotify.com/track/4BopLkm0TFvregWWVI1Qtl"
     },
     {
       "added_at": "2023-03-13 02:59:21",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-03-13 02:59:21",
       "album": {
-        "name": "Little Women (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2y8d4zbifvkrpASJeTMDnE"
-      },
-      "artists": [
-        {
-          "name": "Alexandre Desplat",
-          "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
-        }
-      ],
-      "duration_ms": 198440,
-      "name": "Father Comes Home",
-      "url": "https://open.spotify.com/track/4BopLkm0TFvregWWVI1Qtl"
-    },
-    {
-      "added_at": "2023-03-13 02:59:21",
-      "album": {
         "name": "Greatest Hits: The Road Less Traveled",
         "url": "https://open.spotify.com/album/4KkOtgBFxbOPBshZYEzt0P"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 243160,
       "name": "We Belong Together - From \"Toy Story 3\"/Soundtrack",
       "url": "https://open.spotify.com/track/5MOXaHAnv8Rj4xaghFRnqr"
+    },
+    {
+      "added_at": "2023-03-13 02:59:21",
+      "album": {
+        "name": "The Shape Of Water (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/058fiqH1NYYmur8cicws4l"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Desplat",
+          "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
+        }
+      ],
+      "duration_ms": 222573,
+      "name": "The Shape Of Water",
+      "url": "https://open.spotify.com/track/2VzJH2QeNO1PiZwXZMvx7g"
     },
     {
       "added_at": "2023-03-13 02:59:21",

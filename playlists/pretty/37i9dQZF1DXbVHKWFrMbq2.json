@@ -1,12 +1,12 @@
 {
   "description": "Canciones chill para ayudarte a bajar.",
-  "num_followers": 14844,
+  "num_followers": 14872,
   "original_name": "Pop Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTNkYWM1ZjY1NmM4NjM5NzhlY2VhNjYwMTIxYmExZjZhYjIwMzMz",
+  "snapshot_id": "MCw0MzNhMGY4NTc0MTQ3ZjFjOTc4NGEyODM2Y2FhYjQ2OTc2YmRhMzdj",
   "tracks": [
     {
       "added_at": "2023-12-22 23:50:51",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-12-22 23:50:51",
       "album": {
-        "name": "Autumn Variations",
-        "url": "https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 197976,
-      "name": "American Town",
-      "url": "https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h"
-    },
-    {
-      "added_at": "2023-12-22 23:50:51",
-      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 209217,
       "name": "El Bolero - Ac\u00fastico",
       "url": "https://open.spotify.com/track/27gu4iadh6eZ3seAD74dTM"
+    },
+    {
+      "added_at": "2023-12-22 23:50:51",
+      "album": {
+        "name": "Autumn Variations",
+        "url": "https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 197976,
+      "name": "American Town",
+      "url": "https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h"
     },
     {
       "added_at": "2023-12-22 23:50:51",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-12-22 23:50:51",
       "album": {
+        "name": "London Is Lonely",
+        "url": "https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 234760,
+      "name": "London Is Lonely",
+      "url": "https://open.spotify.com/track/5dXiKFepHXZktud7z5635H"
+    },
+    {
+      "added_at": "2023-12-22 23:50:51",
+      "album": {
         "name": "Puntos Equidistantes",
         "url": "https://open.spotify.com/album/7ASy3IISzpmxFlgi55rr7D"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 227375,
       "name": "Puntos Equidistantes",
       "url": "https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB"
-    },
-    {
-      "added_at": "2023-12-22 23:50:51",
-      "album": {
-        "name": "London Is Lonely",
-        "url": "https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 234760,
-      "name": "London Is Lonely",
-      "url": "https://open.spotify.com/track/5dXiKFepHXZktud7z5635H"
     },
     {
       "added_at": "2023-12-22 23:50:51",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-12-22 23:50:51",
       "album": {
-        "name": "PASTEL",
-        "url": "https://open.spotify.com/album/7qh2ukKIDbv6MJ5ehaQ1Or"
-      },
-      "artists": [
-        {
-          "name": "Vesta Lugg",
-          "url": "https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c"
-        }
-      ],
-      "duration_ms": 153114,
-      "name": "PASTEL",
-      "url": "https://open.spotify.com/track/4MSDg2W214fo40nvBpf5dc"
-    },
-    {
-      "added_at": "2023-12-22 23:50:51",
-      "album": {
         "name": "Falsas Esperanzas",
         "url": "https://open.spotify.com/album/5RmwruUMsb7kVs4foUB7O0"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 180256,
       "name": "Falsas Esperanzas",
       "url": "https://open.spotify.com/track/6Hm00Tl2uG5PhCCVsGB26u"
+    },
+    {
+      "added_at": "2023-12-22 23:50:51",
+      "album": {
+        "name": "PASTEL",
+        "url": "https://open.spotify.com/album/7qh2ukKIDbv6MJ5ehaQ1Or"
+      },
+      "artists": [
+        {
+          "name": "Vesta Lugg",
+          "url": "https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c"
+        }
+      ],
+      "duration_ms": 153114,
+      "name": "PASTEL",
+      "url": "https://open.spotify.com/track/4MSDg2W214fo40nvBpf5dc"
     }
   ],
   "unique_name": "Pop Relax",

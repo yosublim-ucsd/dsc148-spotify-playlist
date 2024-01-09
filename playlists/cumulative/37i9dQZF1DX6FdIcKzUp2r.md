@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [4th Of July \- Remastered 2009](https://open.spotify.com/track/2c343Y5TmH6jCs3ES9kxjp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Remastered\)](https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3) | 2:15 | 2018-12-12 |  |
+| [4th Of July \- Remastered 2009](https://open.spotify.com/track/2c343Y5TmH6jCs3ES9kxjp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Remastered\)](https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3) | 2:15 | 2018-12-12 | 2024-01-09 |
 | [A Change Is Gonna Come](https://open.spotify.com/track/3KvdZ0n69ArKgYYEsS6QtM) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Yellow Moon](https://open.spotify.com/album/30C3EQGiT0zJQAI37XR9R7) | 3:43 | 2018-12-12 | 2022-07-29 |
 | [A Change Is Gonna Come](https://open.spotify.com/track/1Aw8AzGtFssawCsiCxxyAr) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Yellow Moon](https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF) | 3:43 | 2018-12-12 |  |
 | [A Different Corner](https://open.spotify.com/track/7njBQO43OYrfIqwXO6Gcyv) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Final](https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd) | 3:57 | 2018-12-12 |  |
@@ -131,7 +131,7 @@
 | [Otterley](https://open.spotify.com/track/1DzsFF0bcBcYkZTm1rbprD) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/5N2tixSCaFkwdtJIG0jQmi) | 4:04 | 2018-12-12 | 2022-07-26 |
 | [Otterley](https://open.spotify.com/track/5GO0qzKdvndy7g9r0iKEDz) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 4:04 | 2018-12-12 |  |
 | [Outside Of This \(Inside Of That\)](https://open.spotify.com/track/1icJsYYbUdQ7xVfsz0YV8r) | [Jon & Vangelis](https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae) | [The Friends Of Mr Cairo](https://open.spotify.com/album/0lBhj4G2lVi5ZOcY8BuTQT) | 5:03 | 2018-12-12 | 2022-07-27 |
-| [Over the Hillside](https://open.spotify.com/track/3VYjrxEmu7MaG9c7ubVn99) | [The Blue Nile](https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM) | [Hats](https://open.spotify.com/album/4pLVvQiysxBwbUuSB3ceQv) | 5:04 | 2018-12-12 | 2024-01-05 |
+| [Over the Hillside](https://open.spotify.com/track/3VYjrxEmu7MaG9c7ubVn99) | [The Blue Nile](https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM) | [Hats](https://open.spotify.com/album/4pLVvQiysxBwbUuSB3ceQv) | 5:04 | 2018-12-12 |  |
 | [Over the Hillside](https://open.spotify.com/track/6T6FEUDoMk5o4MM8Um10Ad) | [The Blue Nile](https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM) | [Hats \(Deluxe Version\)](https://open.spotify.com/album/5wfkC4wXdkDlKXhJ1BRNN7) | 5:04 | 2018-12-12 | 2022-07-29 |
 | [Par Avion](https://open.spotify.com/track/1rNlOvWoVEnpMwcbpLwBtb) | [Mike & The Mechanics](https://open.spotify.com/artist/2yTUYhIf8fxptTIy3KLuJD) | [Mike + The Mechanics](https://open.spotify.com/album/7pXUIU9n8JXEbQS95sodGr) | 3:35 | 2018-12-12 | 2022-11-13 |
 | [Par Avion](https://open.spotify.com/track/5uo0mb0iA77V51se5Wl3ti) | [Mike & The Mechanics](https://open.spotify.com/artist/2yTUYhIf8fxptTIy3KLuJD) | [Mike + The Mechanics](https://open.spotify.com/album/5BrUyKkJIavGjRwYzKrF84) | 3:36 | 2018-12-12 | 2022-07-29 |

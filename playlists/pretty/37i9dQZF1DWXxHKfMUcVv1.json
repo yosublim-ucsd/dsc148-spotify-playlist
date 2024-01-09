@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 112798,
+  "num_followers": 112812,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTk3NzIxZDMwOGY1ODJiZTAzMzc4NDJiMWYxNDVlMGI0Njc1MDQ0",
+  "snapshot_id": "MCwyMjhjNjc4Yjg1ZWU0YWJjYTI1NjlmNzYzYjk5NGRhOTc1ZmRhYTI3",
   "tracks": [
     {
       "added_at": "2023-12-22 18:25:24",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-12-22 18:25:24",
       "album": {
-        "name": "Verdades Que Duelen",
-        "url": "https://open.spotify.com/album/5ydJDyrELkgYhHuZx6xytA"
-      },
-      "artists": [
-        {
-          "name": "Los Rehenes",
-          "url": "https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8"
-        }
-      ],
-      "duration_ms": 173653,
-      "name": "No Me Importa",
-      "url": "https://open.spotify.com/track/53ysAoMfLuAcThnhxhFwNk"
-    },
-    {
-      "added_at": "2023-12-22 18:25:24",
-      "album": {
         "name": "Coraz\u00f3n Rom\u00e1ntico... Los Exitos",
         "url": "https://open.spotify.com/album/2LyD3u4jVvV63cjUsmWkZ3"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 222200,
       "name": "Cuatro Palabras",
       "url": "https://open.spotify.com/track/0akL7hcVP5I27IlqVohxfV"
+    },
+    {
+      "added_at": "2023-12-22 18:25:24",
+      "album": {
+        "name": "Verdades Que Duelen",
+        "url": "https://open.spotify.com/album/5ydJDyrELkgYhHuZx6xytA"
+      },
+      "artists": [
+        {
+          "name": "Los Rehenes",
+          "url": "https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8"
+        }
+      ],
+      "duration_ms": 173653,
+      "name": "No Me Importa",
+      "url": "https://open.spotify.com/track/53ysAoMfLuAcThnhxhFwNk"
     },
     {
       "added_at": "2023-12-22 18:25:24",
@@ -207,6 +207,38 @@
     {
       "added_at": "2023-12-22 18:25:24",
       "album": {
+        "name": "Super Cumbias (Remastered)",
+        "url": "https://open.spotify.com/album/1XeQOKWV65fT6734OdV6qd"
+      },
+      "artists": [
+        {
+          "name": "Lalo Y Los Descalzos",
+          "url": "https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Ahora Estoy Solo",
+      "url": "https://open.spotify.com/track/2RdTRx9fjrxCW1bLZsCDob"
+    },
+    {
+      "added_at": "2023-12-22 18:25:24",
+      "album": {
+        "name": "Dif\u00edcil De Igualar",
+        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 303413,
+      "name": "Dificil de igualar",
+      "url": "https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO"
+    },
+    {
+      "added_at": "2023-12-22 18:25:24",
+      "album": {
         "name": "Esto S\u00ed Es Cumbia",
         "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
       },
@@ -223,22 +255,6 @@
       "duration_ms": 251626,
       "name": "Ni Contigo, Ni Sin Ti",
       "url": "https://open.spotify.com/track/3tHYpuF2eIc4pDrzIdNN3Y"
-    },
-    {
-      "added_at": "2023-12-22 18:25:24",
-      "album": {
-        "name": "Super Cumbias (Remastered)",
-        "url": "https://open.spotify.com/album/1XeQOKWV65fT6734OdV6qd"
-      },
-      "artists": [
-        {
-          "name": "Lalo Y Los Descalzos",
-          "url": "https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Ahora Estoy Solo",
-      "url": "https://open.spotify.com/track/2RdTRx9fjrxCW1bLZsCDob"
     },
     {
       "added_at": "2023-12-22 18:25:24",
@@ -271,22 +287,6 @@
       "duration_ms": 224093,
       "name": "Hechicera",
       "url": "https://open.spotify.com/track/7GuDL7idAKh36gXqpRq6I2"
-    },
-    {
-      "added_at": "2023-12-22 18:25:24",
-      "album": {
-        "name": "Dif\u00edcil De Igualar",
-        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 303413,
-      "name": "Dificil de igualar",
-      "url": "https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO"
     },
     {
       "added_at": "2023-12-22 18:25:24",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-12-22 18:25:24",
       "album": {
+        "name": "El \u00daltimo Beso",
+        "url": "https://open.spotify.com/album/0gpAzMT34MHus5D1QgYPf4"
+      },
+      "artists": [
+        {
+          "name": "Los Roller's",
+          "url": "https://open.spotify.com/artist/7mQa3XflwD72PWFe55CjWt"
+        }
+      ],
+      "duration_ms": 152237,
+      "name": "El \u00daltimo Beso",
+      "url": "https://open.spotify.com/track/3XhpZzA5EHDXnY2tICXeqz"
+    },
+    {
+      "added_at": "2023-12-22 18:25:24",
+      "album": {
         "name": "Invencible (El Patr\u00f3n)",
         "url": "https://open.spotify.com/album/2D1fN7Gqs5lUtqkU2NdMfS"
       },
@@ -359,18 +375,18 @@
     {
       "added_at": "2023-12-22 18:25:24",
       "album": {
-        "name": "El \u00daltimo Beso",
-        "url": "https://open.spotify.com/album/0gpAzMT34MHus5D1QgYPf4"
+        "name": "Las Mejores Vol. 1",
+        "url": "https://open.spotify.com/album/6UiASzAqGZh0l3u43mktIY"
       },
       "artists": [
         {
-          "name": "Los Roller's",
-          "url": "https://open.spotify.com/artist/7mQa3XflwD72PWFe55CjWt"
+          "name": "Lalo Y Los Descalzos",
+          "url": "https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl"
         }
       ],
-      "duration_ms": 152237,
-      "name": "El \u00daltimo Beso",
-      "url": "https://open.spotify.com/track/3XhpZzA5EHDXnY2tICXeqz"
+      "duration_ms": 201973,
+      "name": "Un Dia A La Vez",
+      "url": "https://open.spotify.com/track/6k1R4AYVLZ3YCkIhTZ4Vy7"
     },
     {
       "added_at": "2023-12-22 18:25:24",
@@ -387,22 +403,6 @@
       "duration_ms": 211240,
       "name": "Cinco Minutos",
       "url": "https://open.spotify.com/track/7Ihrw9IeHLBs9xiGJiSmAM"
-    },
-    {
-      "added_at": "2023-12-22 18:25:24",
-      "album": {
-        "name": "Las Mejores Vol. 1",
-        "url": "https://open.spotify.com/album/6UiASzAqGZh0l3u43mktIY"
-      },
-      "artists": [
-        {
-          "name": "Lalo Y Los Descalzos",
-          "url": "https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl"
-        }
-      ],
-      "duration_ms": 201973,
-      "name": "Un Dia A La Vez",
-      "url": "https://open.spotify.com/track/6k1R4AYVLZ3YCkIhTZ4Vy7"
     },
     {
       "added_at": "2023-12-22 18:25:24",
@@ -463,18 +463,18 @@
     {
       "added_at": "2023-12-22 18:25:24",
       "album": {
-        "name": "\u00a1Anotate!",
-        "url": "https://open.spotify.com/album/7uyyHMMuriePK9dFV9aOLb"
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/0J7CMzzFJYobHrVbgVluO7"
       },
       "artists": [
         {
-          "name": "El Plan",
-          "url": "https://open.spotify.com/artist/4eAOSYptOersSMJJGPGWwx"
+          "name": "Lalo Y Los Descalzos",
+          "url": "https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl"
         }
       ],
-      "duration_ms": 191680,
-      "name": "So\u00f1ador Eterno",
-      "url": "https://open.spotify.com/track/20KylBs1yoC0nhlgRKI8H5"
+      "duration_ms": 192786,
+      "name": "Si Yo Fuera El",
+      "url": "https://open.spotify.com/track/6s8svxgbUTerwHVInMIvBq"
     },
     {
       "added_at": "2023-12-22 18:25:24",
@@ -499,22 +499,18 @@
     {
       "added_at": "2023-12-22 18:25:24",
       "album": {
-        "name": "El Gallo Rojo",
-        "url": "https://open.spotify.com/album/1Yl7ncZUEE2OSmYE95RZOH"
+        "name": "\u00a1Anotate!",
+        "url": "https://open.spotify.com/album/7uyyHMMuriePK9dFV9aOLb"
       },
       "artists": [
         {
-          "name": "Kchiporros",
-          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
-        },
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+          "name": "El Plan",
+          "url": "https://open.spotify.com/artist/4eAOSYptOersSMJJGPGWwx"
         }
       ],
-      "duration_ms": 155191,
-      "name": "El Gallo Rojo",
-      "url": "https://open.spotify.com/track/6fofmRFBOcURZhv1erfaJ3"
+      "duration_ms": 191680,
+      "name": "So\u00f1ador Eterno",
+      "url": "https://open.spotify.com/track/20KylBs1yoC0nhlgRKI8H5"
     },
     {
       "added_at": "2023-12-22 18:25:24",
@@ -571,18 +567,38 @@
     {
       "added_at": "2023-12-22 18:25:24",
       "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/0J7CMzzFJYobHrVbgVluO7"
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/3Il6rnmvc0ruO44K5uxxKp"
       },
       "artists": [
         {
-          "name": "Lalo Y Los Descalzos",
-          "url": "https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl"
+          "name": "Andy El Unico",
+          "url": "https://open.spotify.com/artist/4I40qR0RmdYmHV9rDxCQla"
         }
       ],
-      "duration_ms": 192786,
-      "name": "Si Yo Fuera El",
-      "url": "https://open.spotify.com/track/6s8svxgbUTerwHVInMIvBq"
+      "duration_ms": 223242,
+      "name": "Perdi mi amor",
+      "url": "https://open.spotify.com/track/0JbUojx7kyiv7tSPxICWTx"
+    },
+    {
+      "added_at": "2023-12-22 18:25:24",
+      "album": {
+        "name": "El Gallo Rojo",
+        "url": "https://open.spotify.com/album/1Yl7ncZUEE2OSmYE95RZOH"
+      },
+      "artists": [
+        {
+          "name": "Kchiporros",
+          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
+        },
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 155191,
+      "name": "El Gallo Rojo",
+      "url": "https://open.spotify.com/track/6fofmRFBOcURZhv1erfaJ3"
     },
     {
       "added_at": "2023-12-22 18:25:24",
@@ -603,18 +619,18 @@
     {
       "added_at": "2023-12-22 18:25:24",
       "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/3Il6rnmvc0ruO44K5uxxKp"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt"
       },
       "artists": [
         {
-          "name": "Andy El Unico",
-          "url": "https://open.spotify.com/artist/4I40qR0RmdYmHV9rDxCQla"
+          "name": "Los Verduleros",
+          "url": "https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3"
         }
       ],
-      "duration_ms": 223242,
-      "name": "Perdi mi amor",
-      "url": "https://open.spotify.com/track/0JbUojx7kyiv7tSPxICWTx"
+      "duration_ms": 223608,
+      "name": "Quiero Que Sepas",
+      "url": "https://open.spotify.com/track/2rXTonSdSG5HjIn2wLRT5h"
     },
     {
       "added_at": "2023-12-22 18:25:24",
@@ -635,22 +651,6 @@
     {
       "added_at": "2023-12-22 18:25:24",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt"
-      },
-      "artists": [
-        {
-          "name": "Los Verduleros",
-          "url": "https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3"
-        }
-      ],
-      "duration_ms": 223608,
-      "name": "Quiero Que Sepas",
-      "url": "https://open.spotify.com/track/2rXTonSdSG5HjIn2wLRT5h"
-    },
-    {
-      "added_at": "2023-12-22 18:25:24",
-      "album": {
         "name": "El Rey del Norte",
         "url": "https://open.spotify.com/album/3AtBWO9bJ7HzPoVXkfrVKf"
       },
@@ -663,6 +663,22 @@
       "duration_ms": 198960,
       "name": "Vienes y Te Vas",
       "url": "https://open.spotify.com/track/4L81kjuMNo9Gg6h1Bkyi0F"
+    },
+    {
+      "added_at": "2023-12-22 18:25:24",
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/1YWjYbZUVDXgnUqa7MSaWE"
+      },
+      "artists": [
+        {
+          "name": "Cumbia Juan",
+          "url": "https://open.spotify.com/artist/14W5NzubXTLLLVF4XjtCU2"
+        }
+      ],
+      "duration_ms": 203253,
+      "name": "Que Loco Amor",
+      "url": "https://open.spotify.com/track/51LmGYcyw9WRnR2zopCF2C"
     },
     {
       "added_at": "2023-12-22 18:25:24",
@@ -683,22 +699,6 @@
       "duration_ms": 189733,
       "name": "En Un Solo Dia",
       "url": "https://open.spotify.com/track/3Me4qJDkBKKfIFWg7JcLY6"
-    },
-    {
-      "added_at": "2023-12-22 18:25:24",
-      "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/1YWjYbZUVDXgnUqa7MSaWE"
-      },
-      "artists": [
-        {
-          "name": "Cumbia Juan",
-          "url": "https://open.spotify.com/artist/14W5NzubXTLLLVF4XjtCU2"
-        }
-      ],
-      "duration_ms": 203253,
-      "name": "Que Loco Amor",
-      "url": "https://open.spotify.com/track/51LmGYcyw9WRnR2zopCF2C"
     },
     {
       "added_at": "2023-12-22 18:25:24",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-12-22 18:25:24",
       "album": {
+        "name": "Bailalo Como Quieras, Que Esto Cumbia Villera",
+        "url": "https://open.spotify.com/album/1BfrDLGjWr6BTQjW2ZTSAV"
+      },
+      "artists": [
+        {
+          "name": "El Monchi Papa",
+          "url": "https://open.spotify.com/artist/7n20wi37wBgwQbqabzrMTB"
+        }
+      ],
+      "duration_ms": 215981,
+      "name": "Una Cerveza",
+      "url": "https://open.spotify.com/track/3LUxexs29ODGnrup1G4y89"
+    },
+    {
+      "added_at": "2023-12-22 18:25:24",
+      "album": {
         "name": "Me Liber\u00e9",
         "url": "https://open.spotify.com/album/251i0oXvNIWZW05XMycMZQ"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 217385,
       "name": "T\u00fa y yo",
       "url": "https://open.spotify.com/track/2aZka304WFsTFRVk5MQsy4"
-    },
-    {
-      "added_at": "2023-12-22 18:25:24",
-      "album": {
-        "name": "Bailalo Como Quieras, Que Esto Cumbia Villera",
-        "url": "https://open.spotify.com/album/1BfrDLGjWr6BTQjW2ZTSAV"
-      },
-      "artists": [
-        {
-          "name": "El Monchi Papa",
-          "url": "https://open.spotify.com/artist/7n20wi37wBgwQbqabzrMTB"
-        }
-      ],
-      "duration_ms": 215981,
-      "name": "Una Cerveza",
-      "url": "https://open.spotify.com/track/3LUxexs29ODGnrup1G4y89"
     },
     {
       "added_at": "2023-12-22 18:25:24",

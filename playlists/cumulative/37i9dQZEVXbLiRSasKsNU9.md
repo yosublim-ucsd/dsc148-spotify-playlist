@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-2,195 songs - 4 day 20 hr 46 min
+2,195 songs - 4 day 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [](https://open.spotify.com/track/6j4w8KLDP4QZBrje0lEXFp) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Cupid \(Sped Up\) \[Remix\]](https://open.spotify.com/album/4y4ZPmIEBHAkD80Z3r64Ba) | 0:00 | 2023-04-13 | 2023-04-16 |
 | [](https://open.spotify.com/track/6wJavOotAd4bEeB9QusGcE) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6OEHTTAAZowKU7LLZmvj2D) | 0:00 | 2022-07-08 | 2022-07-15 |
 | [](https://open.spotify.com/track/7lyv2sysHCzFjypILxAynT) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0PvA059GTWOU5bbA9H6DTc) | 0:00 | 2023-11-09 | 2023-11-11 |
+| [](https://open.spotify.com/track/7ztsvXsYxhTLGoUOUx9Yvv) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5rkfpEidQIJoRVsJWmWdyq) | 0:00 | 2024-01-02 |  |
 | ["Slut!" \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:00 | 2023-11-15 | 2023-11-18 |
 | [\#doyalike](https://open.spotify.com/track/28wSGs5ktiBQeeArATV8VX) | [kazeWIW](https://open.spotify.com/artist/021U5Ph1AQMVUndqnLPMkL) | [\#doyalike](https://open.spotify.com/album/0nnDPfom0EYbRYphovv0hu) | 3:03 | 2022-05-24 | 2022-06-01 |
 | [\#doyalike](https://open.spotify.com/track/2HfZIE33sAibTpHibfdEDs) | [kazeWIW](https://open.spotify.com/artist/03G9a7of6KbiBL30L7UAAS) | [\#doyalike](https://open.spotify.com/album/2lB1L11fAMtcOyo3xnZGQ6) | 3:03 | 2022-04-22 | 2022-04-24 |
@@ -32,7 +33,6 @@
 | [20 Ligações](https://open.spotify.com/track/6MvaRZ6JZgJuXz9b1CMB1y) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [QVVJFA?](https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq) | 3:13 | 2022-02-22 | 2022-03-16 |
 | [2003](https://open.spotify.com/track/4yNWhBYneGn8Gvr7Y3ciqf) | [Liaze](https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1), [equal](https://open.spotify.com/artist/3HkeiQiokrKJhhjZ9skb23) | [2003](https://open.spotify.com/album/62DdNibFffaelV25WBUjtT) | 2:16 | 2023-11-07 | 2023-11-16 |
 | [202](https://open.spotify.com/track/3imzmQM2DPPVBLMiBBexRL) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU) | [202](https://open.spotify.com/album/5F5QjUVSgXHrXj7xbhSRW6) | 2:50 | 2022-09-08 | 2022-09-27 |
-| [2024](https://open.spotify.com/track/7ztsvXsYxhTLGoUOUx9Yvv) | [@tayyebsultan\_](https://open.spotify.com/artist/331YYqkT4Jj39p0HY89u92) | [2024](https://open.spotify.com/album/5rkfpEidQIJoRVsJWmWdyq) | 3:29 | 2024-01-02 |  |
 | [2024](https://open.spotify.com/track/1SWRLrHykgDsPtGtezEf2F) | [Ayparia](https://open.spotify.com/artist/0nTNWXnHMzSj7wRtd3ECos), [Armut](https://open.spotify.com/artist/72Jq4Qx7m1XizJTU5jv9Wj), [Ratno](https://open.spotify.com/artist/1oKl6VIOQMGsXfAUUlD2et), [KillTec](https://open.spotify.com/artist/43H38nyu8vAFbgXJ2Rx1EK) | [2024](https://open.spotify.com/album/4j4zPzyMmt1F73snu49xvn) | 3:30 | 2024-01-03 | 2024-01-07 |
 | [212](https://open.spotify.com/track/3QGxgNaqaFSpORp2OVLXHR) | [Chefin Oficial](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [212](https://open.spotify.com/album/1fcZBsLGUUTI4qRWYsjOuN) | 2:30 | 2022-02-08 | 2022-02-23 |
 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 | 2023-03-21 | 2023-03-29 |
@@ -817,7 +817,7 @@
 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 | 2022-12-07 | 2023-01-09 |
 | [Hey Driver \(feat\. The War and Treaty\)](https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-09-12 | 2023-09-18 |
 | [Hey, Mickey!](https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hey, Mickey!](https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei) | 1:55 | 2023-01-19 | 2023-02-22 |
-| [HIPNOZA](https://open.spotify.com/track/4EHHB2Gfa9d4iPx8JsCd65) | [NIKOŚ](https://open.spotify.com/artist/3iRmsaD6hZKTJJABRJKlCX) | [HIPNOZA](https://open.spotify.com/album/0SbsZJNseQli1WfvPcgDzm) | 3:14 | 2023-12-17 | 2024-01-08 |
+| [HIPNOZA](https://open.spotify.com/track/4EHHB2Gfa9d4iPx8JsCd65) | [NIKOŚ](https://open.spotify.com/artist/3iRmsaD6hZKTJJABRJKlCX) | [HIPNOZA](https://open.spotify.com/album/0SbsZJNseQli1WfvPcgDzm) | 3:14 | 2023-12-17 |  |
 | [Hits 2021 \- Mashup](https://open.spotify.com/track/1R8bpZGAVUxeygsKfHnInQ) | [Trinix Remix](https://open.spotify.com/artist/0RvjLz7klSc5lNgxX7EiVZ), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Hits 2021 \(Mashup\)](https://open.spotify.com/album/1d0uBY1kZF18Y3dRwCzafa) | 2:42 | 2022-03-07 | 2022-04-20 |
 | [Hits Different](https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:54 | 2023-05-27 | 2023-06-13 |
 | [Hiç İyi Değilim](https://open.spotify.com/track/2w5SV2BYwU4FVKBkFYlCU2) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Hiç İyi Değilim](https://open.spotify.com/album/44zFal7caQMugsHyXdUude) | 3:32 | 2022-04-05 | 2022-05-08 |
@@ -1357,7 +1357,7 @@
 | [Never Felt So Alone](https://open.spotify.com/track/6unndO70DvZfnXYcYQMyQJ) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 2:40 | 2023-05-02 | 2023-05-09 |
 | [Never Lose Me](https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Never Lose Me](https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL) | 2:05 | 2023-12-19 |  |
 | [New thing \(Prod\. ZICO\) \(Feat\. Homies\)](https://open.spotify.com/track/5mdWIwsJAzR97ShGkt8gcR) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [Street Man Fighter Original Vol.3 \(Mission by Rank\)](https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP) | 2:27 | 2022-10-04 | 2022-10-12 |
-| [New Year’s Day](https://open.spotify.com/track/7F5oktn5YOsR9eR5YsFtqb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:55 | 2024-01-02 |  |
+| [New Year’s Day](https://open.spotify.com/track/7F5oktn5YOsR9eR5YsFtqb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:55 | 2024-01-02 | 2024-01-09 |
 | [Next Thing You Know](https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Next Thing You Know](https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp) | 2:55 | 2022-09-08 | 2022-09-21 |
 | [Ni Lo Intentes](https://open.spotify.com/track/3WiU6ZeOD7UFjTSPraQMPl) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 3:16 | 2022-06-23 | 2022-07-06 |
 | [Nic dwa razy \(W\. Szymborska\)](https://open.spotify.com/track/6C5A0xV8tvW8NqzLUb2xt1) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Nic dwa razy \(W\. Szymborska\)](https://open.spotify.com/album/3gZB6h09sZvWlhzZaqtf6t) | 3:09 | 2022-11-08 | 2022-11-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Oro, incienso y rolitas nuevas para disfrutar la primera semana del 2024 🥰 Luis R\. Conriquez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,840 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,507 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 4 | [TEN](https://open.spotify.com/track/4t5WkxLy4kh02Ycl5W6WOT) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [TEN](https://open.spotify.com/album/7zEk1zIy0rUTulaA5uAAu6) | 2:56 |
 | 5 | [Una Foto Remix \(feat\. Emilia\)](https://open.spotify.com/track/1kqH58eGh2ZTOHwqBIB2tM) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Una Foto Remix \(feat\. Emilia\)](https://open.spotify.com/album/4f47mbk3DOWJ16DXLnviMw) | 4:03 |
 | 6 | [PAISA](https://open.spotify.com/track/1BV8BIlbgRizmuUtTdjVhl) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Ch12](https://open.spotify.com/artist/3gvFr8y3T5ctUErKSK5ivj) | [PAISA](https://open.spotify.com/album/61YsrCQ5VKMrz3W6MFgZ5U) | 2:56 |
-| 7 | [Tienen Que Bregar](https://open.spotify.com/track/0M4xwdMil2xJj26zUrOhxA) | [Ñengo Flow](https://open.spotify.com/artist/2rM4AoD97GChAaXByC6nVa), [Rsiete](https://open.spotify.com/artist/11AFqsz5YS7kc3h3jPoCJi) | [Tienen Que Bregar](https://open.spotify.com/album/5IVotOkf9N91Wfx2gNDuip) | 2:38 |
+| 7 | [Apocalipsis](https://open.spotify.com/track/7z5cZCDpaqLy71SqfS0YbJ) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [RealG4Life Vol\. 4](https://open.spotify.com/album/1xYN8n1zN2OuAL2VCrWDTx) | 2:23 |
 | 8 | [¿Qué Me Dices?](https://open.spotify.com/track/62xluQXvbzXCypORfjTU3X) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Más Normal De L..\. N..\. \(67%\)](https://open.spotify.com/album/6FUgY90LThOhYSrPTZHyqo) | 2:33 |
 | 9 | [Tal Vez](https://open.spotify.com/track/29FsuKnbCrHD9JChkrpK9W) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [Tal Vez](https://open.spotify.com/album/2TYhUcY7yfCsKr9pUhQ1en) | 2:53 |
 | 10 | [Por Dios Que No](https://open.spotify.com/track/5Qq2wpTegTGcvplLyrNmyd) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Por Dios Que No](https://open.spotify.com/album/1DhhUhPzrfp8E4lqqifiTN) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [La vida no quiso](https://open.spotify.com/track/7iM2xqfmBNUTqdd40jFFYX) | [Tania Matus](https://open.spotify.com/artist/3AtQAFdXoag2fwVScetgTF) | [La vida no quiso](https://open.spotify.com/album/7K9xzNL9smUXSpKAAg7Zzq) | 3:36 |
 | 50 | [casa de espejos](https://open.spotify.com/track/5S9LIPJ2RCaowPdxDIByRp) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [casa de espejos](https://open.spotify.com/album/5mURp5KUNgHFfOLcQ42brK) | 2:21 |
 
-Snapshot ID: `MCwyNTBhY2U3MzlmN2NmMjYxMjExYzFjZjYzNzQxNjI2NTI1MzI4ZjY1`
+Snapshot ID: `MCxhYmVjODhiMzNhOTMyNzg5Yzk2NWVkMzAzYTY4Mjg5OWExNzAxNjA3`

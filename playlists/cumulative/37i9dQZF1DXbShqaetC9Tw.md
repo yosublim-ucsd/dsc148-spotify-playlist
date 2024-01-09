@@ -4,7 +4,7 @@
 
 > 새벽 감성\. Issa Vibe.
 
-191 songs - 10 hr 42 min
+192 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Every Night](https://open.spotify.com/track/4tK8Ye9n2CMdLNLGObntax) | [JOE CHO](https://open.spotify.com/artist/3XBlb7T3AujyJSCaIYRWW9) | [Every Night](https://open.spotify.com/album/47zkn6eNadI4P9VnRHgRsC) | 3:03 | 2022-04-18 | 2022-07-29 |
 | [Fall](https://open.spotify.com/track/7svclK1SQzNAmClGHXkEMy) | [김예준](https://open.spotify.com/artist/0RNgISHByvz4Dn6g25BcT3) | [Fall](https://open.spotify.com/album/36KT5I1t1z9Jcsog7V7mpa) | 2:41 | 2022-04-18 | 2022-08-12 |
 | [Far Away \(Feat\. H:SEAN, SWRY\) \(Prod\. Liam K\)](https://open.spotify.com/track/4y3zwYdCDCRUnRsXP9gBLI) | [Holmsted](https://open.spotify.com/artist/4AETbFj8tCGWWDWLXIldTB), [H:SEAN](https://open.spotify.com/artist/5unaicO0SRNINwxV4jnq18), [SWRY](https://open.spotify.com/artist/67F3N58scf1KzBhMcA0Lcs) | [DOT 1](https://open.spotify.com/album/2pyUjceJRcxmJsf0UAZvOI) | 3:42 | 2022-04-18 | 2022-07-27 |
-| [Fireplace](https://open.spotify.com/track/6X8cpgM2Cf3rnZqXxfSjHQ) | [JONGHYUN](https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY) | [JONGHYUN The Collection "Story Op.2"](https://open.spotify.com/album/3eHhVAhT8uCrEPlZywai3o) | 4:22 | 2023-10-20 |  |
+| [Fireplace](https://open.spotify.com/track/6X8cpgM2Cf3rnZqXxfSjHQ) | [JONGHYUN](https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY) | [JONGHYUN The Collection "Story Op.2"](https://open.spotify.com/album/3eHhVAhT8uCrEPlZywai3o) | 4:22 | 2023-10-20 | 2024-01-09 |
 | [First time](https://open.spotify.com/track/3c6G3VkE3TbHdUYrDaATOS) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [First time](https://open.spotify.com/album/5ZnkmWDQeXbdgfpj8VaurC) | 3:06 | 2022-04-21 | 2022-07-26 |
 | [flight](https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Marigold Tapes](https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk) | 3:29 | 2022-08-03 | 2023-08-02 |
 | [Flower \(Feat\. Jay Park, Woo, GIRIBOY\)](https://open.spotify.com/track/0mVvkepe2sQUa0j8NWukaZ) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [PEOPLE](https://open.spotify.com/album/2UF3SkoMBUZZf5n6sCBUft) | 4:33 | 2022-04-18 |  |
@@ -137,6 +137,7 @@
 | [Please Love Me](https://open.spotify.com/track/2Tp9N1PSuCsv6uqj7IgFWJ) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Wave](https://open.spotify.com/album/68DMCodGLgBv2W0EHbTFAr) | 4:19 | 2022-04-18 | 2022-07-29 |
 | [Please Love Me](https://open.spotify.com/track/4SFNHcxBFUmhAWwVZUpx4n) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Wave](https://open.spotify.com/album/6a1hq6e3NBDmSNQeVm2MbE) | 4:19 | 2022-07-25 |  |
 | [Poker \(Feat\. Dvwn\)](https://open.spotify.com/track/22FORLyoDr8bjJCVOeUan2) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 3:32 | 2022-06-18 |  |
+| [Promise](https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Promise](https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6) | 2:55 | 2024-01-08 |  |
 | [Rain](https://open.spotify.com/track/1vRh1iChIWpKrUfwHae7MY) | [Authentic](https://open.spotify.com/artist/3m5V6rhUxNJv2XNsED6D9P) | [CLICHE](https://open.spotify.com/album/64ecQuiMbt2TrdvxcwHoGZ) | 4:06 | 2022-04-18 | 2022-04-21 |
 | [Rain Drop](https://open.spotify.com/track/3Xm3i2teDnfh3L99wAPqcb) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Dry Flower](https://open.spotify.com/album/68Dq3HMqFPoTX1gNqSDDII) | 2:25 | 2022-04-18 | 2022-07-29 |
 | [Rain Drop](https://open.spotify.com/track/4aJxNxnrW5tbL8gay0pCdU) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Dry Flower](https://open.spotify.com/album/45VLePxOqvMWcGOPImCpNg) | 2:25 | 2022-07-25 |  |

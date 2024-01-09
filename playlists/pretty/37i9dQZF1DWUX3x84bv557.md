@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: jet van der steen
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,958 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,939 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 79 | [Altijd Onderweg](https://open.spotify.com/track/2510MF3xvG8LgOC1RVxF5U) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Altijd Onderweg](https://open.spotify.com/album/7K7CynIwvLxVkzLCmjxDbJ) | 2:57 |
 | 80 | [Treintje Later](https://open.spotify.com/track/1TJ7XbsAzUpJ3evpxbrAhx) | [KRISTAN](https://open.spotify.com/artist/23406Pq96EgLcng2suxLhT) | [Treintje Later](https://open.spotify.com/album/1OSE4trfYFvnV2HPsJl4D4) | 3:08 |
 
-Snapshot ID: `MCw5MTM2N2EzYTVlN2NkZTIyNTkxNDU5MzIwY2RkN2FiZWM4M2I1ZjM0`
+Snapshot ID: `MCxlMDBjZWYwOTU1ZjE5OWE4MmUxN2UyM2M3NTJjYmY3MmQ3NTRlZjA2`

@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: YANGHONGWON\(양홍원\) \(가장 핫한 최신 국내 힙합 음악을 만나보세요!\)
 
-1,065 songs - 2 day 10 hr 25 min
+1,066 songs - 2 day 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,6 +401,7 @@
 | [HEART DODUMI 2 \(feat\. Moon Sujin\)](https://open.spotify.com/track/4NxaAErB1ylDeFr6kSFxDF) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [HEART DODUMI 2 \(feat\. Moon Sujin\)](https://open.spotify.com/album/2gTchgyLLpF4uRAyExmzvV) | 2:21 | 2023-02-08 | 2023-09-08 |
 | [HEAT](https://open.spotify.com/track/4NGxERsvOQ2ok6Co4LJfS4) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Street Woman Fighter2 \(SWF2\) \(Original Television Soundtrack\)](https://open.spotify.com/album/46YdNSoIhb5AM8KOn3dana) | 3:14 | 2023-09-12 |  |
 | [HEAT](https://open.spotify.com/track/4MDdvtd216XIXnewQ0WunH) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [HEAT](https://open.spotify.com/album/3WYkzPgdmVamYYAxR6W4Bk) | 3:13 | 2021-12-21 | 2022-07-07 |
+| [Heels](https://open.spotify.com/track/4x6nunPhR0Clk682Vi2N4Y) | [Qim Isle](https://open.spotify.com/artist/3pDs57Od1KfGb0RmmWhGtK), [Kim Ximya](https://open.spotify.com/artist/2tB3jPHyyfcxvvor2flc1Q), [Y2K92 simo](https://open.spotify.com/artist/1FkDkDzIU5TduleinIYkm5) | [Heels](https://open.spotify.com/album/6joXsPfxEwSPHxLa4fjSGC) | 3:49 | 2024-01-08 |  |
 | [Hell Chosen \(feat\. oygli\)](https://open.spotify.com/track/6HkTBbrBIWSfW55hkGMycy) | [Fredi Casso](https://open.spotify.com/artist/2tVGjpHP709GdVbRx7PTEy), [DSEL](https://open.spotify.com/artist/57yCT0l4y1QPz1bzF2mQXx), [oygli](https://open.spotify.com/artist/1xOiGoYkm1zgqwXLsvQA90) | [SECOND II NONE](https://open.spotify.com/album/2KWT2m76KsdbmIWKXfLVra) | 3:06 | 2022-07-07 | 2022-08-16 |
 | [hercules! \(feat\. JUSTHIS\)](https://open.spotify.com/track/0SKLsOCqt5fLZwC3Jk6Y2f) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [ROBERT](https://open.spotify.com/album/4VTHhmhVaB2gpViAdHbKHg) | 2:48 | 2023-10-10 |  |
 | [Hereby](https://open.spotify.com/track/67iz3A69fL4HZUkQhm2Az9) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [Son Simba](https://open.spotify.com/artist/4q2IjH8TVz7CNSzIiPDV6B), [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq), [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [Viann](https://open.spotify.com/artist/7yRs5f61v5AwXwVlUQ7bNE) | [Dingo X Dejavu Group 'Wrote This Tomorrow'](https://open.spotify.com/album/0ixhL5oBEkrb1TjsyTLma5) | 4:26 | 2021-12-21 | 2022-07-06 |

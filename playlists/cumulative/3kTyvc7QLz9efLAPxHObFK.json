@@ -15947,6 +15947,24 @@
     },
     {
       "album": {
+        "name": "Rapid Fire",
+        "url": "https://open.spotify.com/album/2GKdTIMYEawezCoZK7OoS8"
+      },
+      "artists": [
+        {
+          "name": "Astro Blast",
+          "url": "https://open.spotify.com/artist/1FyI6MTG6K4XJB7efaCoK4"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185220,
+      "name": "Rapid Fire",
+      "url": "https://open.spotify.com/track/5c7hDErpdoe8O0SCR4DzvQ"
+    },
+    {
+      "album": {
         "name": "Rave All Night",
         "url": "https://open.spotify.com/album/7xFQUKfhmboxFwLbKUo08M"
       },

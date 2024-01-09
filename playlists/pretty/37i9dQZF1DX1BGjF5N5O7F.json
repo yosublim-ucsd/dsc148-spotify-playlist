@@ -1,12 +1,12 @@
 {
   "description": "sensual roots & indie folk.",
-  "num_followers": 568934,
+  "num_followers": 568436,
   "original_name": "intertwined",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTMzYTc0YzRhZWFmZGIyNDRkOTZhNWUyMGI0ODViOWE4YTI2NmVl",
+  "snapshot_id": "MCw2Y2YxODExMjcyNDgxNmE0NDNiNWM3OTQ2ODA0NDMxNTgxNzZjOGYy",
   "tracks": [
     {
       "added_at": "2024-01-03 19:34:24",
@@ -383,6 +383,22 @@
     {
       "added_at": "2024-01-03 19:34:24",
       "album": {
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "It Will Come Back",
+      "url": "https://open.spotify.com/track/1iugFsBigGHtRwvFVDG9oo"
+    },
+    {
+      "added_at": "2024-01-03 19:34:24",
+      "album": {
         "name": "Tomb",
         "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
       },
@@ -399,34 +415,18 @@
     {
       "added_at": "2024-01-03 19:34:24",
       "album": {
-        "name": "I Want More / Break My Baby",
-        "url": "https://open.spotify.com/album/0zohDZP7J5cZe6cN5jjIaY"
+        "name": "searching for freedom",
+        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
       },
       "artists": [
         {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
         }
       ],
-      "duration_ms": 265558,
-      "name": "Break My Baby",
-      "url": "https://open.spotify.com/track/5NnFkbEjahUGx5T3qxbNCW"
-    },
-    {
-      "added_at": "2024-01-03 19:34:24",
-      "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "It Will Come Back",
-      "url": "https://open.spotify.com/track/1iugFsBigGHtRwvFVDG9oo"
+      "duration_ms": 266999,
+      "name": "letting go",
+      "url": "https://open.spotify.com/track/30a5DDL7xq347S143EoOPp"
     },
     {
       "added_at": "2024-01-03 19:34:24",
@@ -451,18 +451,18 @@
     {
       "added_at": "2024-01-03 19:34:24",
       "album": {
-        "name": "searching for freedom",
-        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
+        "name": "I Want More / Break My Baby",
+        "url": "https://open.spotify.com/album/0zohDZP7J5cZe6cN5jjIaY"
       },
       "artists": [
         {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
         }
       ],
-      "duration_ms": 266999,
-      "name": "letting go",
-      "url": "https://open.spotify.com/track/30a5DDL7xq347S143EoOPp"
+      "duration_ms": 265558,
+      "name": "Break My Baby",
+      "url": "https://open.spotify.com/track/5NnFkbEjahUGx5T3qxbNCW"
     },
     {
       "added_at": "2024-01-03 19:34:24",
@@ -807,18 +807,18 @@
     {
       "added_at": "2024-01-03 19:34:24",
       "album": {
-        "name": "B-Sides",
-        "url": "https://open.spotify.com/album/3nvaY45C0yn3jIZc2W4VoA"
+        "name": "Violence in a Quiet Mind",
+        "url": "https://open.spotify.com/album/60K7CiMQEqZC7mi6BjxgY6"
       },
       "artists": [
         {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+          "name": "Haux",
+          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
         }
       ],
-      "duration_ms": 284293,
-      "name": "Woman Like a Man - Live Radio Session",
-      "url": "https://open.spotify.com/track/0GpRh3J3gI1esWn9gDWnyY"
+      "duration_ms": 163733,
+      "name": "Craving",
+      "url": "https://open.spotify.com/track/1JFIggpK5qun8s9gcHvWn9"
     }
   ],
   "unique_name": "intertwined",

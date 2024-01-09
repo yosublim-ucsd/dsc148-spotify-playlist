@@ -4,7 +4,7 @@
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-238 songs - 17 hr 26 min
+239 songs - 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A Mother’s Lullaby](https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [A Mother's Lullaby](https://open.spotify.com/album/0DRBipH6RP6Pl6kghGMzBh) | 3:17 | 2023-09-08 |  |
 | [Adriatic Flow](https://open.spotify.com/track/26iTrELwsyYYDiZWnu2mFW) | [Threestyle](https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX), [Magdalena Chovancova](https://open.spotify.com/artist/7sk96eq3pJ78GAZnf02FEP) | [Adriatic Flow](https://open.spotify.com/album/3jP7ViVs8srQs8tcV2OCy5) | 4:07 | 2022-01-03 |  |
 | [Affection](https://open.spotify.com/track/1ViDanY5GxpDf2PITZAh5L) | [Randy Scott](https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw) | [Elevation](https://open.spotify.com/album/2Q69YdccZf1wtmsfEh5gQE) | 3:58 | 2022-01-10 | 2022-07-29 |
-| [Affection](https://open.spotify.com/track/1aUpK1JSRMXiQS2CcEaDMH) | [Randy Scott](https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw) | [Elevation](https://open.spotify.com/album/1vmwusH1NDbP9FQWnEQSRv) | 3:58 | 2023-05-30 |  |
+| [Affection](https://open.spotify.com/track/1aUpK1JSRMXiQS2CcEaDMH) | [Randy Scott](https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw) | [Elevation](https://open.spotify.com/album/1vmwusH1NDbP9FQWnEQSRv) | 3:58 | 2023-05-30 | 2024-01-09 |
 | [Afternoon Delight](https://open.spotify.com/track/1TeSdXeVdGb8YbE7YcNTyU) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg), [Elan Trotman](https://open.spotify.com/artist/6DyFOggmoAMvrgPB833pww) | [Supreme](https://open.spotify.com/album/4MNKiHJkFX4fJKOhJnAwVj) | 4:23 | 2021-12-27 | 2022-07-08 |
 | [Afternoon Delight](https://open.spotify.com/track/5UoYYdFqu3dLIQlobzLTNl) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg), [Elan Trotman](https://open.spotify.com/artist/6DyFOggmoAMvrgPB833pww) | [Supreme](https://open.spotify.com/album/3dDSsMBL45SOBJp8MQ0t0f) | 4:23 | 2023-05-30 |  |
 | [All Jazzed Up \(And Nowhere To Go\)](https://open.spotify.com/track/3vZVCOn1WEuuxm0jFWOllv) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [My Inspiration](https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM) | 5:07 | 2023-04-12 |  |
@@ -163,6 +163,7 @@
 | [New Bounce \(feat\. Vincent Ingala\)](https://open.spotify.com/track/0Oy7FMqWqf5ksonP766CNc) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE), [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [6](https://open.spotify.com/album/0GPisGzDAPEDwEcFn3f4kZ) | 4:47 | 2022-08-15 |  |
 | [New Hope](https://open.spotify.com/track/1Sg5r4ji96C4GoKc7koDgz) | [The Smooth Jazz Alley](https://open.spotify.com/artist/3rpiTLuutXBtuveSbsmpkJ), [Tony Guerrero](https://open.spotify.com/artist/37kkt99kbf7StXED3Nip9W) | [Let's Ride](https://open.spotify.com/album/50NyCk4oDOFJTTuBvxv3fL) | 5:18 | 2022-04-11 | 2023-10-05 |
 | [On The One](https://open.spotify.com/track/0NL4WODOFyg5qcbcNQ4MaJ) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX) | [Risin' Up](https://open.spotify.com/album/3fNuTnYGJ1rQmhnPvlqa8t) | 4:49 | 2022-07-11 |  |
+| [On the Up and Up](https://open.spotify.com/track/2VGeV6n8YqmOoOY0zhOBeB) | [Michael Manson](https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v) | [On the Up and Up](https://open.spotify.com/album/0fendbHIfxrBOViSQahezC) | 4:08 | 2024-01-03 |  |
 | [Only 4 One Moment](https://open.spotify.com/track/1G7QHZpMheDi2hrriqALma) | [Thom Rotella](https://open.spotify.com/artist/72FbTlHE6bOKc7HLQoa7pm) | [A Day In The Life](https://open.spotify.com/album/2grvoFsNL4w9k0kXP6fkyn) | 4:24 | 2022-01-10 |  |
 | [Only You](https://open.spotify.com/track/7t6q9hCtvEY9it0G5pj7Mm) | [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Ready to Play](https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5) | 4:41 | 2022-04-11 |  |
 | [Open Skies](https://open.spotify.com/track/0uuGRLt4ZeRI4JLIDw4oEo) | [Gary Metz](https://open.spotify.com/artist/1U1yKduFJ40wGcQvQ9ZK4g) | [Open Skies](https://open.spotify.com/album/4RdKMd5Nxe316RTZPzA1CM) | 3:32 | 2022-01-03 |  |
