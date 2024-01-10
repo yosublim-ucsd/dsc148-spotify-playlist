@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 
 > This is Tasha Cobbs Leonard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,659 likes - 50 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,664 likes - 50 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 | 13 | [Awake My Soul](https://open.spotify.com/track/1HkXH8anJdvM3zjouj4E9k) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Awake](https://open.spotify.com/album/19yNOXDt9RzLmAU2j9YnML) | 3:45 |
 | 14 | [Overflow \- Live](https://open.spotify.com/track/0Hpaq689DaUrlEcAYso6vd) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [One Place Live](https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb) | 3:41 |
 | 15 | [No Longer Slaves \- 2023 Short Edit / Live](https://open.spotify.com/track/32gGuYwdqL240eut4kXgoX) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [10 Years of Tasha](https://open.spotify.com/album/1NNOae3g7uXGyiBaxGuwUR) | 6:58 |
-| 16 | [What He's Done \- Live From Passion 2022](https://open.spotify.com/track/49EYyEIx0xpGuPLWxSsNgX) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Burn Bright](https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX) | 6:37 |
-| 17 | [Fear is Not My Future \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/track/2zUFgBx6OWmz4JfRcrDvTd) | [Todd Galberth](https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Encounter](https://open.spotify.com/album/71LAwwrE9j6BamiEqWT4B2) | 8:33 |
+| 16 | [Fear is Not My Future \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/track/2zUFgBx6OWmz4JfRcrDvTd) | [Todd Galberth](https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Encounter](https://open.spotify.com/album/71LAwwrE9j6BamiEqWT4B2) | 8:33 |
+| 17 | [What He's Done \- Live From Passion 2022](https://open.spotify.com/track/49EYyEIx0xpGuPLWxSsNgX) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Burn Bright](https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX) | 6:37 |
 | 18 | [This Is A Move \- Live](https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [This Is A Move \(Live\)](https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF) | 7:25 |
 | 19 | [The Better Benediction \(pt.2\) \(feat\. Lisa Knowles\-Smith, Le'Andria Johnson, KeKe Wyatt, Kierra Sheard & Tasha Cobbs Leonard\)](https://open.spotify.com/track/44Gmc28OqMon8yhJfo3Nze) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Lisa Knowles\-Smith](https://open.spotify.com/artist/000UmiuzgqlUjKHpvIWmAo), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh), [KeKe Wyatt](https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Watch The Sun \(Deluxe\)](https://open.spotify.com/album/0AbnTdKhHNa7K7h5KBPox3) | 4:31 |
 | 20 | [RATTLE!](https://open.spotify.com/track/6ENppsFuukhrhe3V8puNo1) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [House Of Miracles](https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW) | 7:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 | 49 | [Dove's Eyes](https://open.spotify.com/track/4f8lj0jCAZER8viV2tBOUj) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 4:09 |
 | 50 | [I Love This Place \- Live](https://open.spotify.com/track/0ZwHfP8IYjwn346pI7cGdz) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [One Place Live](https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb) | 3:03 |
 
-Snapshot ID: `Mjg0MTE5MDAsMDAwMDAwMDBhMWIyODI4MzA5NTZmZjdiZjg1YTgwN2I3N2MwZmY4ZQ==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDAzNWQwMzgwNjlhMDE0OWFjNjBlMjZiNTNhMjFjNDIzMg==`

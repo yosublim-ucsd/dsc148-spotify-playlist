@@ -1,12 +1,12 @@
 {
   "description": "Funky blips and blops",
-  "num_followers": 5661,
+  "num_followers": 5667,
   "original_name": "Electro Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2I2NjI1ODZjZjU5ODNkYjFjZjVjNmU5MGNjNWI5YTZjNmZhNWJm",
+  "snapshot_id": "MCw0ZTIxZTNlMjU2MGI4MjkxZDFkN2UyODUwNGIzMDQ5ZWZkM2I5OGEw",
   "tracks": [
     {
       "added_at": "2020-08-28 18:46:05",
@@ -211,22 +211,6 @@
     {
       "added_at": "2020-08-28 18:46:05",
       "album": {
-        "name": "The Best of D Train",
-        "url": "https://open.spotify.com/album/6zsaOeP7AAK5HG8qe1t6Fx"
-      },
-      "artists": [
-        {
-          "name": "D-Train",
-          "url": "https://open.spotify.com/artist/4gQEXxzqwNmQwjU0Wc0Ioe"
-        }
-      ],
-      "duration_ms": 399276,
-      "name": "Keep On",
-      "url": "https://open.spotify.com/track/7iv0yhmDydsKLKjO63qmzy"
-    },
-    {
-      "added_at": "2020-08-28 18:46:05",
-      "album": {
         "name": "Duck Rock",
         "url": "https://open.spotify.com/album/6S4f7yDtJlS0iQMEuCtIF0"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 259426,
       "name": "Buffalo Gals",
       "url": "https://open.spotify.com/track/4gCo2r1gCEw70OAq9cF1uW"
+    },
+    {
+      "added_at": "2020-08-28 18:46:05",
+      "album": {
+        "name": "The Best of D Train",
+        "url": "https://open.spotify.com/album/6zsaOeP7AAK5HG8qe1t6Fx"
+      },
+      "artists": [
+        {
+          "name": "D-Train",
+          "url": "https://open.spotify.com/artist/4gQEXxzqwNmQwjU0Wc0Ioe"
+        }
+      ],
+      "duration_ms": 399276,
+      "name": "Keep On",
+      "url": "https://open.spotify.com/track/7iv0yhmDydsKLKjO63qmzy"
     },
     {
       "added_at": "2020-08-28 18:46:05",
@@ -547,22 +547,6 @@
     {
       "added_at": "2020-08-28 18:46:05",
       "album": {
-        "name": "To the Future Shock",
-        "url": "https://open.spotify.com/album/4q5We78ZSDvwkWnkOpfmWR"
-      },
-      "artists": [
-        {
-          "name": "Captain Rock",
-          "url": "https://open.spotify.com/artist/6EoN0UOcwpUcv1ljI9nzAz"
-        }
-      ],
-      "duration_ms": 236253,
-      "name": "Return of Captain Rock",
-      "url": "https://open.spotify.com/track/0hgZX6Vss9TjUitrDspu7u"
-    },
-    {
-      "added_at": "2020-08-28 18:46:05",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/4s7ceLc5ZtNLxPOiWOFXay"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 419466,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/1pSI4VjT9OD0lk6wcrBUjI"
+    },
+    {
+      "added_at": "2020-08-28 18:46:05",
+      "album": {
+        "name": "To the Future Shock",
+        "url": "https://open.spotify.com/album/4q5We78ZSDvwkWnkOpfmWR"
+      },
+      "artists": [
+        {
+          "name": "Captain Rock",
+          "url": "https://open.spotify.com/artist/6EoN0UOcwpUcv1ljI9nzAz"
+        }
+      ],
+      "duration_ms": 236253,
+      "name": "Return of Captain Rock",
+      "url": "https://open.spotify.com/track/0hgZX6Vss9TjUitrDspu7u"
     },
     {
       "added_at": "2020-08-28 18:46:05",
@@ -659,6 +659,22 @@
     {
       "added_at": "2020-08-28 18:46:05",
       "album": {
+        "name": "Haven't Been Funked Enough",
+        "url": "https://open.spotify.com/album/27gP8Ctl9VZrBsAeb7EghR"
+      },
+      "artists": [
+        {
+          "name": "King Sporty & The Ex Tras",
+          "url": "https://open.spotify.com/artist/4fxcvsV2LdCKf4s8XbWZn7"
+        }
+      ],
+      "duration_ms": 402105,
+      "name": "Haven't Been Funked Enough",
+      "url": "https://open.spotify.com/track/7cK9wftkiEx2ZXzu9VoPc0"
+    },
+    {
+      "added_at": "2020-08-28 18:46:05",
+      "album": {
         "name": "Prelude Mastermixes, Vol.3",
         "url": "https://open.spotify.com/album/5WjHKodl6cRGe3prMvjuzr"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 686266,
       "name": "Mega-Mix \"Prelude #1\" - Inch By Inch, Music, Go With The Flow, Just Keep On Walking, Beat The Street, Keep Giving Me Love, Youre The One For Me, Must Be The Music, D Train (Dub) & Body Music",
       "url": "https://open.spotify.com/track/4lqzp8Llnu34IOAA0pKj31"
-    },
-    {
-      "added_at": "2020-08-28 18:46:05",
-      "album": {
-        "name": "Haven't Been Funked Enough",
-        "url": "https://open.spotify.com/album/27gP8Ctl9VZrBsAeb7EghR"
-      },
-      "artists": [
-        {
-          "name": "King Sporty & The Ex Tras",
-          "url": "https://open.spotify.com/artist/4fxcvsV2LdCKf4s8XbWZn7"
-        }
-      ],
-      "duration_ms": 402105,
-      "name": "Haven't Been Funked Enough",
-      "url": "https://open.spotify.com/track/7cK9wftkiEx2ZXzu9VoPc0"
     },
     {
       "added_at": "2020-08-28 18:46:05",

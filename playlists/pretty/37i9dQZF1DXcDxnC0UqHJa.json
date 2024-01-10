@@ -1,12 +1,12 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Rufus Wainwright ",
-  "num_followers": 471916,
+  "num_followers": 471081,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzgwOGY0YmM4YzIyZjQ4OGIxMzY1OWVjMmNmNjhiZGUzN2VjYWQ1",
+  "snapshot_id": "MCwxM2I5MTE1MzU2NjNhOWRhNGViNGZkZGJkYTU0NzRlMDEzNzdhNzRm",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -419,26 +419,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Lukas Nelson",
-          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
-        }
-      ],
-      "duration_ms": 242280,
-      "name": "Just Breathe (feat. Lukas Nelson)",
-      "url": "https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Traveler",
         "url": "https://open.spotify.com/album/0Ylhn0L6WD0SEMbF8hYtNT"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 245106,
       "name": "The Boxer feat. Mumford & Sons and Paul Simon",
       "url": "https://open.spotify.com/track/1GXMLU8qafDOavxXIQPoag"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Lukas Nelson",
+          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
+        }
+      ],
+      "duration_ms": 242280,
+      "name": "Just Breathe (feat. Lukas Nelson)",
+      "url": "https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Rarities 2",
+        "url": "https://open.spotify.com/album/0YOJpgi09ivDUTlgXyUmJH"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/4msq6mMo1ue59EiCPTFWEr"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Lennon Bermuda",
         "url": "https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj"
       },
@@ -1147,18 +1163,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Rarities 2",
-        "url": "https://open.spotify.com/album/0YOJpgi09ivDUTlgXyUmJH"
+        "name": "Come Give Me Love",
+        "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
       },
       "artists": [
         {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
         }
       ],
-      "duration_ms": 232053,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/4msq6mMo1ue59EiCPTFWEr"
+      "duration_ms": 239643,
+      "name": "Come Give Me Love",
+      "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1179,22 +1195,6 @@
       "duration_ms": 417533,
       "name": "Farewell Transmission",
       "url": "https://open.spotify.com/track/6QhhnBsVJ8WepUb1KLTFFH"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Come Give Me Love",
-        "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 239643,
-      "name": "Come Give Me Love",
-      "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Polyhymnia",
-        "url": "https://open.spotify.com/album/4ThHnK1QSkpfwzHqpybmlz"
-      },
-      "artists": [
-        {
-          "name": "Eddie Berman",
-          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
-        },
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 395120,
-      "name": "Like a Rolling Stone",
-      "url": "https://open.spotify.com/track/43SCvTx9ME4KhHAVMKGnrT"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Under Pressure",
         "url": "https://open.spotify.com/album/4DNibkxq5CXdH8WCe8VAR2"
       },
@@ -1559,22 +1539,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Let Down",
-        "url": "https://open.spotify.com/album/6Uvyjoy9ump42mVK1pGksP"
+        "name": "Polyhymnia",
+        "url": "https://open.spotify.com/album/4ThHnK1QSkpfwzHqpybmlz"
       },
       "artists": [
         {
-          "name": "Andrew Belle",
-          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
+          "name": "Eddie Berman",
+          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
         },
         {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
         }
       ],
-      "duration_ms": 237013,
-      "name": "Let Down",
-      "url": "https://open.spotify.com/track/3OvHirYV8mduJlkjwttxbo"
+      "duration_ms": 395120,
+      "name": "Like a Rolling Stone",
+      "url": "https://open.spotify.com/track/43SCvTx9ME4KhHAVMKGnrT"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1591,6 +1571,26 @@
       "duration_ms": 217586,
       "name": "To Ramona",
       "url": "https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Let Down",
+        "url": "https://open.spotify.com/album/6Uvyjoy9ump42mVK1pGksP"
+      },
+      "artists": [
+        {
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
+        },
+        {
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "Let Down",
+      "url": "https://open.spotify.com/track/3OvHirYV8mduJlkjwttxbo"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Both Sides Now",
+        "url": "https://open.spotify.com/album/7vlApA4V6FDavmJBpr3R5N"
+      },
+      "artists": [
+        {
+          "name": "Luke Sital-Singh",
+          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
+        }
+      ],
+      "duration_ms": 257941,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/0d5tb0XcClqZo7CJ4GQuBm"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Folkocracy",
         "url": "https://open.spotify.com/album/4FYVErCjwVvkO3XpDFtOQ2"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 222426,
       "name": "Twelve-Thirty (Young Girls Are Coming To The Canyon) (feat. Susanna Hoffs, Chris Stills & Sheryl Crow)",
       "url": "https://open.spotify.com/track/19Hwwg9WvG4jQaMtpOUkRI"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Both Sides Now",
-        "url": "https://open.spotify.com/album/7vlApA4V6FDavmJBpr3R5N"
-      },
-      "artists": [
-        {
-          "name": "Luke Sital-Singh",
-          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
-        }
-      ],
-      "duration_ms": 257941,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/0d5tb0XcClqZo7CJ4GQuBm"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/0r9WibVLIn1tZ7FxSKH3yn"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 137314,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/0LpPr98XQhD3N7xfEOvVfD"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Tea, Milk & Honey",
         "url": "https://open.spotify.com/album/7KHSCUxZ8MYOBnu6lOJpVX"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 304424,
       "name": "Tea, Milk & Honey",
       "url": "https://open.spotify.com/track/2IAYtvpg2nXU4NGSuliSaC"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/0r9WibVLIn1tZ7FxSKH3yn"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 137314,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/0LpPr98XQhD3N7xfEOvVfD"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 138383,
-      "name": "Simple Man - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "All We Grow (Ten Year Anniversary Edition)",
         "url": "https://open.spotify.com/album/5zOLes5VjZqy44W30zE6VJ"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 299199,
       "name": "Take It With Me",
       "url": "https://open.spotify.com/track/5B0FqWcBm3TKdZVn6DcYnZ"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 138383,
+      "name": "Simple Man - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Leave Me Breathless",
-        "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Girl From The North Country",
-      "url": "https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "If You Could Read My Mind",
         "url": "https://open.spotify.com/album/4xiAPrGgnwcfTJtdOwxKf4"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 197540,
       "name": "If You Could Read My Mind",
       "url": "https://open.spotify.com/track/1AcMGe32z1DoV61PPCFTFn"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Leave Me Breathless",
+        "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 240080,
+      "name": "Girl From The North Country",
+      "url": "https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE"
     }
   ],
   "unique_name": "Folksy Covers",

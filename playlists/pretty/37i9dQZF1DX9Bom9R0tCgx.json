@@ -1,12 +1,12 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 357465,
+  "num_followers": 357607,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWUxNzJjYTJkYWJiMWM5OTZhNjUxN2UyZTVlZTliNDc0NjE0NDQw",
+  "snapshot_id": "MCw1MDhkZTk2MjU1MTNhNWU2ODlhNzhiM2IzYzZlN2JhMmJlMDJlY2Vh",
   "tracks": [
     {
       "added_at": "2024-01-04 23:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "DARK MATTER",
-        "url": "https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 174044,
-      "name": "P.I.M.P. - HEDEGAARD Remix",
-      "url": "https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Queen of Kings (Da Tweekaz x Tungevaag Remix)",
         "url": "https://open.spotify.com/album/0cLcrDXPAQ7JDZ6CsNXLhF"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 145032,
       "name": "Queen of Kings - Da Tweekaz x Tungevaag Remix",
       "url": "https://open.spotify.com/track/5Cmgqsv4Rmodk87JfVydPh"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "DARK MATTER",
+        "url": "https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 174044,
+      "name": "P.I.M.P. - HEDEGAARD Remix",
+      "url": "https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "GASOLINA & COCAINA",
+        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 192390,
+      "name": "GASOLINA & COCAINA",
+      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Make It Count",
         "url": "https://open.spotify.com/album/7yRpzkneNaRzDwq6BGvtsi"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 213327,
       "name": "Make It Count",
       "url": "https://open.spotify.com/track/6qroXN9iyKNG6mP0Ddvh1b"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "GASOLINA & COCAINA",
-        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 192390,
-      "name": "GASOLINA & COCAINA",
-      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1155,30 +1155,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Adeste Fideles",
-        "url": "https://open.spotify.com/album/1InCbTTa3j95HwmGnIeTn4"
-      },
-      "artists": [
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        },
-        {
-          "name": "SMVGGLERS",
-          "url": "https://open.spotify.com/artist/05TBQxRfomIdi2xJWLgQoM"
-        },
-        {
-          "name": "Shibui",
-          "url": "https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4"
-        }
-      ],
-      "duration_ms": 121029,
-      "name": "Adeste Fideles",
-      "url": "https://open.spotify.com/track/3ufwBsrEH7Tg0ojkPTMKMc"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "MBAPP\u00c9 (Restricted & Sunset Bros Remix) [feat. JAY1 & KAHUKX]",
         "url": "https://open.spotify.com/album/4FHgGUbR5QZxu31GYYqS3V"
       },
@@ -1231,6 +1207,50 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "Adeste Fideles",
+        "url": "https://open.spotify.com/album/1InCbTTa3j95HwmGnIeTn4"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "SMVGGLERS",
+          "url": "https://open.spotify.com/artist/05TBQxRfomIdi2xJWLgQoM"
+        },
+        {
+          "name": "Shibui",
+          "url": "https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4"
+        }
+      ],
+      "duration_ms": 121029,
+      "name": "Adeste Fideles",
+      "url": "https://open.spotify.com/track/3ufwBsrEH7Tg0ojkPTMKMc"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Popcorn (Rework)",
+        "url": "https://open.spotify.com/album/2t39L0Xt4lG7tslqEoZDHs"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        },
+        {
+          "name": "Jack Holiday",
+          "url": "https://open.spotify.com/artist/64yON9pK0j392YkionGKAF"
+        }
+      ],
+      "duration_ms": 141679,
+      "name": "Popcorn - Rework",
+      "url": "https://open.spotify.com/track/6NOB3pY3jA5YEWV9DUR1ZF"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Feel Again (Remixes)",
         "url": "https://open.spotify.com/album/5uBuqq6UrdrDL5iPLQ3aoB"
       },
@@ -1259,22 +1279,18 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Popcorn (Rework)",
-        "url": "https://open.spotify.com/album/2t39L0Xt4lG7tslqEoZDHs"
+        "name": "Can't Forget U",
+        "url": "https://open.spotify.com/album/5jViyYMm1QhiDwzereVWE8"
       },
       "artists": [
         {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
-        },
-        {
-          "name": "Jack Holiday",
-          "url": "https://open.spotify.com/artist/64yON9pK0j392YkionGKAF"
+          "name": "Jungle Jonsson",
+          "url": "https://open.spotify.com/artist/6DuzYGNQcx6sJNgi36tr7Z"
         }
       ],
-      "duration_ms": 141679,
-      "name": "Popcorn - Rework",
-      "url": "https://open.spotify.com/track/6NOB3pY3jA5YEWV9DUR1ZF"
+      "duration_ms": 116062,
+      "name": "Can't Forget U",
+      "url": "https://open.spotify.com/track/3LIW2sGUzq4SskgzV0halx"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1315,22 +1331,6 @@
       "duration_ms": 607552,
       "name": "Universo",
       "url": "https://open.spotify.com/track/5DRGuHS0xJ3X3OZjCrglTI"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "Can't Forget U",
-        "url": "https://open.spotify.com/album/5jViyYMm1QhiDwzereVWE8"
-      },
-      "artists": [
-        {
-          "name": "Jungle Jonsson",
-          "url": "https://open.spotify.com/artist/6DuzYGNQcx6sJNgi36tr7Z"
-        }
-      ],
-      "duration_ms": 116062,
-      "name": "Can't Forget U",
-      "url": "https://open.spotify.com/track/3LIW2sGUzq4SskgzV0halx"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1391,30 +1391,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Welcome to the Club",
-        "url": "https://open.spotify.com/album/20oXdz9ix2ZGYlGvAIo7PZ"
-      },
-      "artists": [
-        {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "KYANU",
-          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
-        },
-        {
-          "name": "DJ Gollum",
-          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
-        }
-      ],
-      "duration_ms": 195537,
-      "name": "Welcome to the Club",
-      "url": "https://open.spotify.com/track/6TvQn79IjdaQanfYK7ZDgo"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Satisfaction (Hardwell & Maddix Remix)",
         "url": "https://open.spotify.com/album/3PAjzJeHTZw0OeG9miBhc0"
       },
@@ -1439,6 +1415,30 @@
       "duration_ms": 204436,
       "name": "Satisfaction - Hardwell & Maddix Remix",
       "url": "https://open.spotify.com/track/0l6fM0B3KDdGRj7R8vo4hK"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Welcome to the Club",
+        "url": "https://open.spotify.com/album/20oXdz9ix2ZGYlGvAIo7PZ"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+        },
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+        }
+      ],
+      "duration_ms": 195537,
+      "name": "Welcome to the Club",
+      "url": "https://open.spotify.com/track/6TvQn79IjdaQanfYK7ZDgo"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1487,6 +1487,26 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "Fire To The Rain",
+        "url": "https://open.spotify.com/album/1KEIwpm2LiKp1bznzoV229"
+      },
+      "artists": [
+        {
+          "name": "TMW",
+          "url": "https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V"
+        },
+        {
+          "name": "Caro van Ee",
+          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
+        }
+      ],
+      "duration_ms": 144935,
+      "name": "Fire To The Rain",
+      "url": "https://open.spotify.com/track/1mlH24UmHdpICgiT2WwugR"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Insomnia (Rework)",
         "url": "https://open.spotify.com/album/3O4Td8QTtXYMfbj8d4h7P6"
       },
@@ -1527,8 +1547,8 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Ravers Fantasy",
-        "url": "https://open.spotify.com/album/05Lowz2HuhbXT3reAXODuo"
+        "name": "O Fortuna",
+        "url": "https://open.spotify.com/album/7tcS35RM3CLNsdAbKHfi2I"
       },
       "artists": [
         {
@@ -1536,17 +1556,17 @@
           "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
         },
         {
-          "name": "DJ Gollum",
-          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
         },
         {
-          "name": "Quickdrop",
-          "url": "https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa"
+          "name": "Ninkid",
+          "url": "https://open.spotify.com/artist/1YpcWKZ6C4hf2Qzj9X3ens"
         }
       ],
-      "duration_ms": 197661,
-      "name": "Ravers Fantasy",
-      "url": "https://open.spotify.com/track/6IivroEQJ0OyB7g7akm5AQ"
+      "duration_ms": 156086,
+      "name": "O Fortuna",
+      "url": "https://open.spotify.com/track/6opBFQzVEGQPxaQFqGfjWI"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1571,26 +1591,6 @@
       "duration_ms": 146482,
       "name": "Ameno",
       "url": "https://open.spotify.com/track/4KbP4nUAnyG85IzK1jjNhS"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "Fire to the Rain",
-        "url": "https://open.spotify.com/album/1KEIwpm2LiKp1bznzoV229"
-      },
-      "artists": [
-        {
-          "name": "TMW",
-          "url": "https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V"
-        },
-        {
-          "name": "Caro van Ee",
-          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
-        }
-      ],
-      "duration_ms": 144935,
-      "name": "Fire to the Rain",
-      "url": "https://open.spotify.com/track/1mlH24UmHdpICgiT2WwugR"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1683,8 +1683,8 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "O Fortuna",
-        "url": "https://open.spotify.com/album/7tcS35RM3CLNsdAbKHfi2I"
+        "name": "Ravers Fantasy",
+        "url": "https://open.spotify.com/album/05Lowz2HuhbXT3reAXODuo"
       },
       "artists": [
         {
@@ -1692,17 +1692,17 @@
           "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
         },
         {
-          "name": "Keanu Silva",
-          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
         },
         {
-          "name": "Ninkid",
-          "url": "https://open.spotify.com/artist/1YpcWKZ6C4hf2Qzj9X3ens"
+          "name": "Quickdrop",
+          "url": "https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa"
         }
       ],
-      "duration_ms": 156086,
-      "name": "O Fortuna",
-      "url": "https://open.spotify.com/track/6opBFQzVEGQPxaQFqGfjWI"
+      "duration_ms": 197661,
+      "name": "Ravers Fantasy",
+      "url": "https://open.spotify.com/track/6IivroEQJ0OyB7g7akm5AQ"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Colors Of The Rainbow",
-        "url": "https://open.spotify.com/album/56eBLLYR7bsWWS0eKg678G"
-      },
-      "artists": [
-        {
-          "name": "BEAUZ",
-          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
-        }
-      ],
-      "duration_ms": 131274,
-      "name": "Colors Of The Rainbow",
-      "url": "https://open.spotify.com/track/5ALzFD9BNabZAQrzN9rCYU"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Zombie",
         "url": "https://open.spotify.com/album/0TL2MTltCe5JiS5ZEiAJ1o"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 190222,
       "name": "Push To Start - T78 Remix",
       "url": "https://open.spotify.com/track/3RKCzGsThiB77vKvmNxUgG"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Colors Of The Rainbow",
+        "url": "https://open.spotify.com/album/56eBLLYR7bsWWS0eKg678G"
+      },
+      "artists": [
+        {
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+        }
+      ],
+      "duration_ms": 131274,
+      "name": "Colors Of The Rainbow",
+      "url": "https://open.spotify.com/track/5ALzFD9BNabZAQrzN9rCYU"
     },
     {
       "added_at": "2024-01-04 23:00:00",

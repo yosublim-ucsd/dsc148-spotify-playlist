@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 
 > Un'estate al mare, stile balenare..\. 🏝️ Hit dell'estate italiana anni 60, 70 e 80!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,795 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,805 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 35 | [Vamos a la Playa](https://open.spotify.com/track/5ULXfqPkKKEb8eWK2UMTQP) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [Righeira The 80's Hit Songs](https://open.spotify.com/album/0kXv5aOToWfQDF31IfM7mm) | 3:37 |
 | 36 | [L'esercito del surf](https://open.spotify.com/track/0JceaCTWD2nVzPqA27yK9W) | [Catherine Spaak](https://open.spotify.com/artist/0GBQEo1KqJaRlPqO1UMLh2) | [Catherine Spaak](https://open.spotify.com/album/43kTmexEORoUruj66w0F4o) | 2:09 |
 | 37 | [Un'estate al mare](https://open.spotify.com/track/37ynOa5jIP5OaMTK2If1Sd) | [Giuni Russo](https://open.spotify.com/artist/5Is5BvLZyxtBkp3VrXm5t3) | [Un'estate al mare / Bing bang being \[Digital 45\]](https://open.spotify.com/album/1fgPsJVsNaH1pU9Ff67Hyh) | 3:18 |
-| 38 | [Maracaibo](https://open.spotify.com/track/3lw94lsMCgCjIicjSlS121) | [Lu Colombo](https://open.spotify.com/artist/5pxKcg9uA5SYFZZmTj4kUk) | [Addio al Nubilato](https://open.spotify.com/album/6mHXzA1BnxyxJyLYXM0f0h) | 3:53 |
-| 39 | [Il Mare Quest'Estate](https://open.spotify.com/track/6CsNqqHnoXTPnv04TvFVXQ) | [Fred Bongusto](https://open.spotify.com/artist/03zMprDSi8xGJbXYayx6ly) | [I Miei Successi](https://open.spotify.com/album/3lxbAr2QIDT27hJA4OJYsw) | 3:02 |
+| 38 | [Il Mare Quest'Estate](https://open.spotify.com/track/6CsNqqHnoXTPnv04TvFVXQ) | [Fred Bongusto](https://open.spotify.com/artist/03zMprDSi8xGJbXYayx6ly) | [I Miei Successi](https://open.spotify.com/album/3lxbAr2QIDT27hJA4OJYsw) | 3:02 |
+| 39 | [Maracaibo](https://open.spotify.com/track/3lw94lsMCgCjIicjSlS121) | [Lu Colombo](https://open.spotify.com/artist/5pxKcg9uA5SYFZZmTj4kUk) | [Addio al Nubilato](https://open.spotify.com/album/6mHXzA1BnxyxJyLYXM0f0h) | 3:53 |
 | 40 | [Sei come una lucertola](https://open.spotify.com/track/3osISWWukeIUBLpNg9GcJ2) | [Jo Fedeli](https://open.spotify.com/artist/6tJWHAxJ6p9ZOTX6o7tPHm) | [Profumo di sole...](https://open.spotify.com/album/3hZVHN9BomKxHogbobO2hR) | 2:17 |
 | 41 | [Guarda come dondolo](https://open.spotify.com/track/1dtb5yOshvGUMIhYhvdoxh) | [Edoardo Vianello](https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo), [Elfrida Ismolli](https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx) | [Estate](https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi) | 2:31 |
 | 42 | [Legata a un granello di sabbia \- Remastered](https://open.spotify.com/track/4rMOHVZSrOXyJUIcfBwZXB) | [Nico Fidenco](https://open.spotify.com/artist/52d9m6IXscaaj65IyVecXP) | [Legata a un granello di sabbia \(Remastered\)](https://open.spotify.com/album/18n1cji3OvtCKepHxLgV1c) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 49 | [Con Te Sulla Spiaggia](https://open.spotify.com/track/1pN4eiEz2QqVMq34ltToWI) | [Nico Fidenco](https://open.spotify.com/artist/52d9m6IXscaaj65IyVecXP) | [RCA 100 Años De Musica \- Segunda Parte \- Lo Mejor De Italia](https://open.spotify.com/album/4c3klMERkQR9RXro9ETDcH) | 2:36 |
 | 50 | [Pinne fucile ed occhiali](https://open.spotify.com/track/5nmP6zIrPL7GTAiHZjTEZ8) | [Edoardo Vianello](https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo), [Elfrida Ismolli](https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx) | [Estate](https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi) | 2:39 |
 
-Snapshot ID: `MCw3YjNhYjYxY2M4OGI3YjM4N2U5NjkzYTRlMzQ3OWM4MWQ0ODc0Mjgx`
+Snapshot ID: `MCwxZjZhZjViZTJjODEwOGY2NDViNzA0ZTRjNmM3NDViODY4MDE4ZTNk`

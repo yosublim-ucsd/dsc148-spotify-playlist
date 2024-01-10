@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Nonpalidece.",
-  "num_followers": 57362,
+  "num_followers": 57346,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTJkMzE3M2IzY2E4NDhmMjUzMDljNjkwYjYwMmE0YTMyN2QwNWE4",
+  "snapshot_id": "MCxhZDZlMTk5YjY0ZjQ4NWI4MTcyNWVjYmEzYWNjZDZmMWQ3YThjYTE1",
   "tracks": [
     {
       "added_at": "2023-12-08 03:00:00",
@@ -195,8 +195,8 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Nonpalidesenchufado",
-        "url": "https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV"
+        "name": "Hagan Correr la Voz",
+        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
         }
       ],
-      "duration_ms": 314772,
-      "name": "La Flor",
-      "url": "https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA"
+      "duration_ms": 221040,
+      "name": "Tu Presencia",
+      "url": "https://open.spotify.com/track/58KaBE2fnHA8R0iesCbe8o"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -295,8 +295,8 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Hagan Correr la Voz",
-        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
+        "name": "Nonpalidesenchufado",
+        "url": "https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV"
       },
       "artists": [
         {
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
         }
       ],
-      "duration_ms": 221040,
-      "name": "Tu Presencia",
-      "url": "https://open.spotify.com/track/58KaBE2fnHA8R0iesCbe8o"
+      "duration_ms": 314772,
+      "name": "La Flor",
+      "url": "https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -431,18 +431,26 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "3000 Vivos (En Vivo)",
-        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
+        "name": "Espejitos",
+        "url": "https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ"
       },
       "artists": [
         {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        },
+        {
+          "name": "Willy Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
+        },
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
         }
       ],
-      "duration_ms": 240144,
-      "name": "Pupilas Lejanas (En Vivo)",
-      "url": "https://open.spotify.com/track/3b355y8meUI0ok4bhu9OpI"
+      "duration_ms": 314491,
+      "name": "Waitin en Vano",
+      "url": "https://open.spotify.com/track/03eLaRGb1oZgmtGSrMuoty"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -479,46 +487,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Espejitos",
-        "url": "https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        },
-        {
-          "name": "Willy Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
-        },
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        }
-      ],
-      "duration_ms": 314491,
-      "name": "Waitin en Vano",
-      "url": "https://open.spotify.com/track/03eLaRGb1oZgmtGSrMuoty"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "El Sonido Real",
-        "url": "https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A"
-      },
-      "artists": [
-        {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
-        }
-      ],
-      "duration_ms": 385560,
-      "name": "Mi Sol",
-      "url": "https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "3000 Vivos (En Vivo)",
         "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
       },
@@ -528,9 +496,45 @@
           "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
         }
       ],
-      "duration_ms": 247941,
-      "name": "Runaway (En Vivo)",
-      "url": "https://open.spotify.com/track/2PMSOgAP1A2TYbRqGCS9ak"
+      "duration_ms": 240144,
+      "name": "Pupilas Lejanas (En Vivo)",
+      "url": "https://open.spotify.com/track/3b355y8meUI0ok4bhu9OpI"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "La Misi\u00f3n",
+        "url": "https://open.spotify.com/album/4IJ91JMRzDdHxIkphWCFko"
+      },
+      "artists": [
+        {
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        },
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        }
+      ],
+      "duration_ms": 208212,
+      "name": "Cinco",
+      "url": "https://open.spotify.com/track/4D67AVNdClfZqEiwOsKtKP"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "C\u00f3mo Ver?",
+        "url": "https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 308522,
+      "name": "C\u00f3mo Ver?",
+      "url": "https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -567,18 +571,18 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "C\u00f3mo Ver?",
-        "url": "https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc"
+        "name": "3000 Vivos (En Vivo)",
+        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
       },
       "artists": [
         {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
         }
       ],
-      "duration_ms": 308522,
-      "name": "C\u00f3mo Ver?",
-      "url": "https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w"
+      "duration_ms": 247941,
+      "name": "Runaway (En Vivo)",
+      "url": "https://open.spotify.com/track/2PMSOgAP1A2TYbRqGCS9ak"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -599,22 +603,18 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "La Misi\u00f3n",
-        "url": "https://open.spotify.com/album/4IJ91JMRzDdHxIkphWCFko"
+        "name": "El Sonido Real",
+        "url": "https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A"
       },
       "artists": [
         {
           "name": "El Natty Combo",
           "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
-        },
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
         }
       ],
-      "duration_ms": 208212,
-      "name": "Cinco",
-      "url": "https://open.spotify.com/track/4D67AVNdClfZqEiwOsKtKP"
+      "duration_ms": 385560,
+      "name": "Mi Sol",
+      "url": "https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "El Pr\u00f3ximo Viernes",
-        "url": "https://open.spotify.com/album/2nZfBiQN0iuWmUvsyRMpfA"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        }
-      ],
-      "duration_ms": 259092,
-      "name": "El Pr\u00f3ximo Viernes",
-      "url": "https://open.spotify.com/track/4DuOAJZhVrzH1mrIePb2tO"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Ahora Lo S\u00e9",
         "url": "https://open.spotify.com/album/68PtNir6GWJ4H09eIbOSPC"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 201347,
       "name": "7 Vidas",
       "url": "https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "El Pr\u00f3ximo Viernes",
+        "url": "https://open.spotify.com/album/2nZfBiQN0iuWmUvsyRMpfA"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 259092,
+      "name": "El Pr\u00f3ximo Viernes",
+      "url": "https://open.spotify.com/track/4DuOAJZhVrzH1mrIePb2tO"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
+        "name": "Tenia Tanto Para Darte",
+        "url": "https://open.spotify.com/album/43pSNKPzm4MTPmqbgzc96B"
+      },
+      "artists": [
+        {
+          "name": "Matamba",
+          "url": "https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2"
+        }
+      ],
+      "duration_ms": 263144,
+      "name": "Tenia Tanto Para Darte",
+      "url": "https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
         "name": "Es Real",
         "url": "https://open.spotify.com/album/67sqDVeSGLXUmM3cPx4B3d"
       },
@@ -1543,26 +1559,6 @@
       "duration_ms": 257255,
       "name": "Es Real",
       "url": "https://open.spotify.com/track/4X4hOKhoNHdwpvS6bwLvX9"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "Let it Be",
-        "url": "https://open.spotify.com/album/502c2vbyXTzFFzIa4QSccC"
-      },
-      "artists": [
-        {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
-        },
-        {
-          "name": "Francistyle",
-          "url": "https://open.spotify.com/artist/6H4AFNKueMsQx7ifVdo48z"
-        }
-      ],
-      "duration_ms": 212470,
-      "name": "Let it Be",
-      "url": "https://open.spotify.com/track/1sd0Y0rWsV3Y7RH0UnoZ5M"
     }
   ],
   "unique_name": "Reggae al Sur",

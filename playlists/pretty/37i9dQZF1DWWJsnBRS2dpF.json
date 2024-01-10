@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/thealiyajanell/\">Aliya Janell Brinson</a>",
-  "num_followers": 42630,
+  "num_followers": 42718,
   "original_name": "Aliya Janell's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjFjMDRiYTI1Y2MyZTBjMTMzZDI0ZWExMjU3MGFlZWZlMTI5NjFj",
+  "snapshot_id": "MCw2MWY5NzdlNzYyMzFmMzRjNDczMmNlYTg1NjhmZWYyZjE3MDNmOTBm",
   "tracks": [
     {
       "added_at": "2022-10-01 16:21:24",
@@ -579,22 +579,18 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
-        "name": "Personal Conversation",
-        "url": "https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K"
+        "name": "Back of My Mind",
+        "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
       },
       "artists": [
         {
-          "name": "Case",
-          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
-        },
-        {
-          "name": "Joe",
-          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 229773,
-      "name": "Faded Pictures",
-      "url": "https://open.spotify.com/track/1CAw3ethNuSDPf3E7luSFF"
+      "duration_ms": 227560,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/2azM2WRIpQiB9ALfVmYtlW"
     },
     {
       "added_at": "2022-10-01 16:21:24",
@@ -619,18 +615,22 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
-        "name": "Back of My Mind",
-        "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
+        "name": "Personal Conversation",
+        "url": "https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K"
       },
       "artists": [
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "Case",
+          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
+        },
+        {
+          "name": "Joe",
+          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
         }
       ],
-      "duration_ms": 227560,
-      "name": "Damage",
-      "url": "https://open.spotify.com/track/2azM2WRIpQiB9ALfVmYtlW"
+      "duration_ms": 229773,
+      "name": "Faded Pictures",
+      "url": "https://open.spotify.com/track/1CAw3ethNuSDPf3E7luSFF"
     },
     {
       "added_at": "2022-10-01 16:21:24",

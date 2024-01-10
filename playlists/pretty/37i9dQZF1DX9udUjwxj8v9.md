@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 
 > minha carne é de carnaval, meu coração é igual
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,646 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,594 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 37 | [Festa Do Interior](https://open.spotify.com/track/1T3fc0CRPnVBWWiW9BAiw3) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Fantasia](https://open.spotify.com/album/7CnmrVFElrgMKUSuIvYqgE) | 3:14 |
 | 38 | [Masculino E Feminino](https://open.spotify.com/track/5umkCnxriYdRwXYJm8e7FB) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Maxximum \- Pepeu Gomes E Baby Consuelo](https://open.spotify.com/album/4NdY1uTJ4sru9FbWXMIIIl) | 3:44 |
 | 39 | [Patuscada de Gandhi \- Afoxé filhos de Gandhi](https://open.spotify.com/track/6pqvI3ods51ID3ZSJ67H9S) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Refavela](https://open.spotify.com/album/7gl0SUDwWTOdUehXFypXna) | 2:35 |
-| 40 | [Me Abraça](https://open.spotify.com/track/0CNdiziA23RpZeX7T7gOkX) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Beleza Rara \- O melhor De Banda Eva](https://open.spotify.com/album/4KHEzOq418Ukqxg3oKJXEa) | 4:11 |
-| 41 | [QUERO UM CARNAVAL](https://open.spotify.com/track/2ooeiOnpx96CJfOegfjwA3) | [Julio Secchin](https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs) | [FESTA DE ADEUS](https://open.spotify.com/album/7DU9frP5BFaBmA3RpJOInK) | 3:40 |
+| 40 | [QUERO UM CARNAVAL](https://open.spotify.com/track/2ooeiOnpx96CJfOegfjwA3) | [Julio Secchin](https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs) | [FESTA DE ADEUS](https://open.spotify.com/album/7DU9frP5BFaBmA3RpJOInK) | 3:40 |
+| 41 | [Me Abraça](https://open.spotify.com/track/0CNdiziA23RpZeX7T7gOkX) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Beleza Rara \- O melhor De Banda Eva](https://open.spotify.com/album/4KHEzOq418Ukqxg3oKJXEa) | 4:11 |
 | 42 | [Ladainha](https://open.spotify.com/track/3sKjN5oPlgyOREoxJ3zLru) | [Nat Guareschi](https://open.spotify.com/artist/1X18fGGzvxN2txuNIJvHs0) | [Ladainha](https://open.spotify.com/album/3HuFPoYl9C1XWqwKkHvUpC) | 2:27 |
 | 43 | [Rapunzel](https://open.spotify.com/track/5IocKfGOEyFiBolTgguc5c) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [Feijão Com Arroz](https://open.spotify.com/album/5ro9tttD1jyhJjfZzxsd1C) | 3:39 |
 | 44 | [Chuva, Suor E Cerveja](https://open.spotify.com/track/5q63Fb5vWEXhXU9KG09MTg) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Muitos Carnavais](https://open.spotify.com/album/5tIE9wiVkcxCioMX5YhsSv) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 49 | [Baile De Máscaras \(Recarnaval\)](https://open.spotify.com/track/46nVimyGfbnKUMU9rDvnUG) | [Bala Desejo](https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH), [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE), [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [Lucas Nunes](https://open.spotify.com/artist/3wO3x8goZuWnibpyFMakpW), [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [SIM SIM SIM](https://open.spotify.com/album/3dTQyJxSCkwJ4PFcURFd3f) | 5:03 |
 | 50 | [Atrás Do Trio Elétrico](https://open.spotify.com/track/2tGDLtinIaepvrlICaDciX) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Muitos Carnavais](https://open.spotify.com/album/5tIE9wiVkcxCioMX5YhsSv) | 2:42 |
 
-Snapshot ID: `MCxjM2RjODVmNjc0NjQ5MTllNmVkOTM0MDU5MDMwY2FlMDAzY2Q5N2Q4`
+Snapshot ID: `MCwxODc2OGIyNzU5ZjdmZGFjYmVlMjUxYWJhZjc3M2U0N2Y4ZjNiOTZj`

@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 21 | [Follow Me \(Into the Sun\)](https://open.spotify.com/track/1am9iMOzvV1VrhwCBsPmbc) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25) | [Follow Me \(Into the Sun\)](https://open.spotify.com/album/6L7ZEimKo9L67LdkYd8HpZ) | 1:35 |
 | 22 | [Between The Lies](https://open.spotify.com/track/6wt5mtCAxAgFJ084gobHGx) | [DHALI](https://open.spotify.com/artist/0sUz3y3TQ9UlD5qehZHfwT) | [Between The Lies](https://open.spotify.com/album/5OvACh4nCKjELix6o8yOxH) | 3:01 |
 | 23 | [If This Ain't Love](https://open.spotify.com/track/7oBIOtw4TmPPEHB9mxnfoS) | [LOFLY](https://open.spotify.com/artist/6Nq0fa6pYLroAcMDPenPsk), [boy with a scar](https://open.spotify.com/artist/7kunuxTlJDipiIZpC1aZqZ) | [If This Ain't Love](https://open.spotify.com/album/54f7eAbmDVQTMCv7XMikTL) | 2:18 |
-| 24 | [Patience](https://open.spotify.com/track/6KOUe5ChPxS3CCXhwfdcAc) | [Yvonne Catterfeld](https://open.spotify.com/artist/5bKy7Tu2BNmfoFnDC5mncZ) | [Change](https://open.spotify.com/album/3eVo6FsmJqf8yooeCUiJFC) | 2:49 |
-| 25 | [erste liebe](https://open.spotify.com/track/24p3rBwIunzXjt8WOwu3eL) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [immer nur liebe](https://open.spotify.com/album/2D1YT6jEDEITABsSXuU0MY) | 2:48 |
+| 24 | [erste liebe](https://open.spotify.com/track/24p3rBwIunzXjt8WOwu3eL) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [immer nur liebe](https://open.spotify.com/album/2D1YT6jEDEITABsSXuU0MY) | 2:48 |
+| 25 | [Patience](https://open.spotify.com/track/6KOUe5ChPxS3CCXhwfdcAc) | [Yvonne Catterfeld](https://open.spotify.com/artist/5bKy7Tu2BNmfoFnDC5mncZ) | [Change](https://open.spotify.com/album/3eVo6FsmJqf8yooeCUiJFC) | 2:49 |
 | 26 | [Moonlight](https://open.spotify.com/track/5KrBTqQJlYtKyn3JU3MXOA) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25) | [Moonlight](https://open.spotify.com/album/44RntYU90KXg2eCH9zj9Lq) | 2:20 |
 | 27 | [dear L](https://open.spotify.com/track/0jjYq6uxZLCrQzo89Ym0Ea) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Only Love, L \(More Love Edition\)](https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK) | 3:19 |
 | 28 | [Guilty](https://open.spotify.com/track/1acexIzypi1joCwS2hbkiY) | [Asher Angel](https://open.spotify.com/artist/48wfV4LAYtBe3r5SdjvjHX) | [Guilty](https://open.spotify.com/album/4a8rIXcOFlaNyvXKoO9GOQ) | 2:17 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 57 | [Flimmerlicht](https://open.spotify.com/track/7J2aP9q1HDpq7edb4b7sK5) | [48 Stunden](https://open.spotify.com/artist/0lzjvvk1UkMwgbpDYlpE7M) | [Der Letzte Sommer](https://open.spotify.com/album/3i9sd6fOlY6b6EVrs6lzT6) | 4:04 |
 | 58 | [Superstars \(Tonight\) \- Original](https://open.spotify.com/track/67U3q4t5IS3hq4uzpn1avq) | [Rush Hour](https://open.spotify.com/artist/5NlrkQ9wUg4sDUZ0DcgNfq) | [Superstars \(Tonight\)](https://open.spotify.com/album/2sUMawAATz5SuhOfkjlYxw) | 4:45 |
 
-Snapshot ID: `Mjg0MTI4NDEsMDAwMDAwMDBjNDI2ZWEyMTIwZjk2NWI3ODRmODZlY2I3NmJmZTAzZA==`
+Snapshot ID: `Mjg0MTQyMjAsMDAwMDAwMDBiZTAzOThiYzk2MTlkZjI1NTQyYmViOWFjZDc3YWZiNw==`

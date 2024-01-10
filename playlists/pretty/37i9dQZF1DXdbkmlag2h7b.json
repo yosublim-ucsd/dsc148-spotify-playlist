@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 635823,
+  "num_followers": 635185,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzUyM2M1N2MxZTk0YjA5YmYwYzg2NmQ0NDVjYjJlOThlZmU4OTBh",
+  "snapshot_id": "MCwzMGU4NzZiNTcxZGY0Yjg3NTE3YjJiZTMzOWIxZTU0MzlkNWU2YjE0",
   "tracks": [
     {
       "added_at": "2023-12-01 18:12:17",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "Axiom",
-        "url": "https://open.spotify.com/album/6LaTHlGk5uI1GZ2R5Hy3RW"
-      },
-      "artists": [
-        {
-          "name": "Olivier Lupin",
-          "url": "https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN"
-        }
-      ],
-      "duration_ms": 191320,
-      "name": "Perception",
-      "url": "https://open.spotify.com/track/43uAtp536KbblbYD1K6h99"
-    },
-    {
-      "added_at": "2023-12-01 18:12:17",
-      "album": {
         "name": "Serum",
         "url": "https://open.spotify.com/album/0lXFYu9PTccU0bgal3E7HT"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 224000,
       "name": "Serum",
       "url": "https://open.spotify.com/track/4rY8XniJXHS2Njj7IElGIM"
+    },
+    {
+      "added_at": "2023-12-01 18:12:17",
+      "album": {
+        "name": "Axiom",
+        "url": "https://open.spotify.com/album/6LaTHlGk5uI1GZ2R5Hy3RW"
+      },
+      "artists": [
+        {
+          "name": "Olivier Lupin",
+          "url": "https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN"
+        }
+      ],
+      "duration_ms": 191320,
+      "name": "Perception",
+      "url": "https://open.spotify.com/track/43uAtp536KbblbYD1K6h99"
     },
     {
       "added_at": "2023-12-01 18:12:17",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "Arrivals",
-        "url": "https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz"
-      },
-      "artists": [
-        {
-          "name": "Fahda Mohamed",
-          "url": "https://open.spotify.com/artist/4VfWZbve2pnVwUYQ11EdU4"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Takamatsu",
-      "url": "https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS"
-    },
-    {
-      "added_at": "2023-12-01 18:12:17",
-      "album": {
         "name": "Deep Thoughts",
         "url": "https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 192000,
       "name": "Deep Thoughts",
       "url": "https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH"
+    },
+    {
+      "added_at": "2023-12-01 18:12:17",
+      "album": {
+        "name": "Arrivals",
+        "url": "https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz"
+      },
+      "artists": [
+        {
+          "name": "Fahda Mohamed",
+          "url": "https://open.spotify.com/artist/4VfWZbve2pnVwUYQ11EdU4"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Takamatsu",
+      "url": "https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS"
     },
     {
       "added_at": "2023-12-01 18:12:17",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "Lumiere",
-        "url": "https://open.spotify.com/album/1EHS63JLrpttlvWRdSvQE3"
-      },
-      "artists": [
-        {
-          "name": "Deep Vibrations",
-          "url": "https://open.spotify.com/artist/3qtgkLExW6jtJ0UeGTevy3"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Lumiere",
-      "url": "https://open.spotify.com/track/3hwdOeUfiDpXZi7hNzM1Ho"
-    },
-    {
-      "added_at": "2023-12-01 18:12:17",
-      "album": {
         "name": "Porto Fino",
         "url": "https://open.spotify.com/album/1pIPERe0MKxBq2ndbvmozM"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 247963,
       "name": "Porto Fino",
       "url": "https://open.spotify.com/track/0fdPCpFOZeOUiW5qaBSrbr"
+    },
+    {
+      "added_at": "2023-12-01 18:12:17",
+      "album": {
+        "name": "Lumiere",
+        "url": "https://open.spotify.com/album/1EHS63JLrpttlvWRdSvQE3"
+      },
+      "artists": [
+        {
+          "name": "Deep Vibrations",
+          "url": "https://open.spotify.com/artist/3qtgkLExW6jtJ0UeGTevy3"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Lumiere",
+      "url": "https://open.spotify.com/track/3hwdOeUfiDpXZi7hNzM1Ho"
     },
     {
       "added_at": "2023-12-01 18:12:17",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "Rivers of Relief",
-        "url": "https://open.spotify.com/album/08i8VU7ZL1rBE9dNhf6ldr"
-      },
-      "artists": [
-        {
-          "name": "Surrounding Life",
-          "url": "https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF"
-        }
-      ],
-      "duration_ms": 295714,
-      "name": "Strings of Light",
-      "url": "https://open.spotify.com/track/7pLqzJr6EA7gFm6hAeYxD9"
-    },
-    {
-      "added_at": "2023-12-01 18:12:17",
-      "album": {
         "name": "Myriads",
         "url": "https://open.spotify.com/album/4Xkij5Ve4jgQ9qFAIBZoCr"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 175250,
       "name": "Myriads",
       "url": "https://open.spotify.com/track/5JUL9mfxiKDuBx4H3ZZJAD"
+    },
+    {
+      "added_at": "2023-12-01 18:12:17",
+      "album": {
+        "name": "Rivers of Relief",
+        "url": "https://open.spotify.com/album/08i8VU7ZL1rBE9dNhf6ldr"
+      },
+      "artists": [
+        {
+          "name": "Surrounding Life",
+          "url": "https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF"
+        }
+      ],
+      "duration_ms": 295714,
+      "name": "Strings of Light",
+      "url": "https://open.spotify.com/track/7pLqzJr6EA7gFm6hAeYxD9"
     },
     {
       "added_at": "2023-12-01 18:12:17",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "Somewhere Ahead",
-        "url": "https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT"
-      },
-      "artists": [
-        {
-          "name": "Daniel Kaede",
-          "url": "https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt"
-        }
-      ],
-      "duration_ms": 146499,
-      "name": "Hibernia Sleep",
-      "url": "https://open.spotify.com/track/1V25se6ClL3pPrvVlufMCp"
-    },
-    {
-      "added_at": "2023-12-01 18:12:17",
-      "album": {
         "name": "Softly",
         "url": "https://open.spotify.com/album/1vjK9hSqKvWZq30rD1Zpin"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 145768,
       "name": "Softly",
       "url": "https://open.spotify.com/track/0X70gdVmAI0mu7iDTnvjra"
+    },
+    {
+      "added_at": "2023-12-01 18:12:17",
+      "album": {
+        "name": "Somewhere Ahead",
+        "url": "https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT"
+      },
+      "artists": [
+        {
+          "name": "Daniel Kaede",
+          "url": "https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt"
+        }
+      ],
+      "duration_ms": 146499,
+      "name": "Hibernia Sleep",
+      "url": "https://open.spotify.com/track/1V25se6ClL3pPrvVlufMCp"
     },
     {
       "added_at": "2023-12-01 18:12:17",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "Hvis du bare vidste",
-        "url": "https://open.spotify.com/album/6EDbhc47346WIRKuBXuZGk"
-      },
-      "artists": [
-        {
-          "name": "Silas Mathiasen",
-          "url": "https://open.spotify.com/artist/0zVBmr5OKI6Lg6t44pipN5"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "Hvis du bare vidste",
-      "url": "https://open.spotify.com/track/7vGejPhO5QFV6H8U5eMPmL"
-    },
-    {
-      "added_at": "2023-12-01 18:12:17",
-      "album": {
         "name": "Whispers",
         "url": "https://open.spotify.com/album/5EveBFVczPS39O5zPE1mi9"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 188940,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/3VQaQbYdSLSgw9sodURQJr"
+    },
+    {
+      "added_at": "2023-12-01 18:12:17",
+      "album": {
+        "name": "Hvis du bare vidste",
+        "url": "https://open.spotify.com/album/6EDbhc47346WIRKuBXuZGk"
+      },
+      "artists": [
+        {
+          "name": "Silas Mathiasen",
+          "url": "https://open.spotify.com/artist/0zVBmr5OKI6Lg6t44pipN5"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "Hvis du bare vidste",
+      "url": "https://open.spotify.com/track/7vGejPhO5QFV6H8U5eMPmL"
     },
     {
       "added_at": "2023-12-01 18:12:17",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "Longevity",
-        "url": "https://open.spotify.com/album/5q1GXNsqZB1GbekDWzZThJ"
-      },
-      "artists": [
-        {
-          "name": "Jonas Sandberg",
-          "url": "https://open.spotify.com/artist/5JkM7qUhOcmY5SqK3SnU3O"
-        }
-      ],
-      "duration_ms": 214951,
-      "name": "Longevity",
-      "url": "https://open.spotify.com/track/1YBpN1eAb3hJ0tEtbZsmSt"
-    },
-    {
-      "added_at": "2023-12-01 18:12:17",
-      "album": {
         "name": "Neend",
         "url": "https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 157306,
       "name": "Neend",
       "url": "https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ"
+    },
+    {
+      "added_at": "2023-12-01 18:12:17",
+      "album": {
+        "name": "Longevity",
+        "url": "https://open.spotify.com/album/5q1GXNsqZB1GbekDWzZThJ"
+      },
+      "artists": [
+        {
+          "name": "Jonas Sandberg",
+          "url": "https://open.spotify.com/artist/5JkM7qUhOcmY5SqK3SnU3O"
+        }
+      ],
+      "duration_ms": 214951,
+      "name": "Longevity",
+      "url": "https://open.spotify.com/track/1YBpN1eAb3hJ0tEtbZsmSt"
     },
     {
       "added_at": "2023-12-01 18:12:17",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "After The Rain",
-        "url": "https://open.spotify.com/album/1NL6vdJMA0zMZabuPYM3Dj"
-      },
-      "artists": [
-        {
-          "name": "Sanyo Green",
-          "url": "https://open.spotify.com/artist/3U92xEbJZRc7MDmXXCXiBy"
-        }
-      ],
-      "duration_ms": 215235,
-      "name": "After The Rain",
-      "url": "https://open.spotify.com/track/4O2DxaGroS88YpNAeRQbgx"
-    },
-    {
-      "added_at": "2023-12-01 18:12:17",
-      "album": {
         "name": "Meditations for Woods & Winds",
         "url": "https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 205505,
       "name": "Oriental Journey",
       "url": "https://open.spotify.com/track/5qMWKiZ8NELjkXmCiMf0BX"
+    },
+    {
+      "added_at": "2023-12-01 18:12:17",
+      "album": {
+        "name": "After The Rain",
+        "url": "https://open.spotify.com/album/1NL6vdJMA0zMZabuPYM3Dj"
+      },
+      "artists": [
+        {
+          "name": "Sanyo Green",
+          "url": "https://open.spotify.com/artist/3U92xEbJZRc7MDmXXCXiBy"
+        }
+      ],
+      "duration_ms": 215235,
+      "name": "After The Rain",
+      "url": "https://open.spotify.com/track/4O2DxaGroS88YpNAeRQbgx"
     },
     {
       "added_at": "2023-12-01 18:12:17",

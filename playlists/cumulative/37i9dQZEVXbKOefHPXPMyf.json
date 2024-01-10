@@ -3830,7 +3830,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 188179,
       "name": "BATTER UP",
       "url": "https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG"
@@ -6463,6 +6463,36 @@
     },
     {
       "album": {
+        "name": "Chipi Chipi Chapa Chapa",
+        "url": "https://open.spotify.com/album/5F1cOAxZbtA379LrMe59ZH"
+      },
+      "artists": [
+        {
+          "name": "lusttqwe",
+          "url": "https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR"
+        },
+        {
+          "name": "lorche",
+          "url": "https://open.spotify.com/artist/644qnZiBHVcjcMCHsiV0PL"
+        },
+        {
+          "name": "bexter",
+          "url": "https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n"
+        },
+        {
+          "name": "Kairas",
+          "url": "https://open.spotify.com/artist/3Ug4eAerBcBlwia1oHosMY"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226324,
+      "name": "Chipi Chipi Chapa Chapa",
+      "url": "https://open.spotify.com/track/0t33mdnOe8aMhO5BtRHgH5"
+    },
+    {
+      "album": {
         "name": "Chiquetere",
         "url": "https://open.spotify.com/album/7762QoadEu8iEVvhDo94P6"
       },
@@ -8320,7 +8350,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 481000,
       "name": "De la Vida Como Pelicula, Tragedia, Comedia y Ficcion",
       "url": "https://open.spotify.com/track/76YpLOgJcD2YInDHs5u69s"
@@ -11086,6 +11116,24 @@
       "duration_ms": 409647,
       "name": "Enterrauw Tiradera",
       "url": "https://open.spotify.com/track/4ZkixVLaiTYhk4PVGMKUMu"
+    },
+    {
+      "album": {
+        "name": "Entre dos tierras",
+        "url": "https://open.spotify.com/album/3x7QPUfoPvi8xSv1ASKahr"
+      },
+      "artists": [
+        {
+          "name": "Till Lindemann",
+          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225128,
+      "name": "Entre dos tierras",
+      "url": "https://open.spotify.com/track/0hgGokB5eyGHn4VtmFAj2D"
     },
     {
       "album": {
@@ -15822,7 +15870,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 266200,
       "name": "Jugo De Pi\u00f1a",
       "url": "https://open.spotify.com/track/1bpxGmisHNZpDSaGfdIcyi"
@@ -16872,7 +16920,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 400449,
       "name": "La Purga",
       "url": "https://open.spotify.com/track/4ELHvTp06qVu1XvWe7sy5Z"
@@ -19042,6 +19090,24 @@
       "duration_ms": 226093,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/7FlQk2gJ6TBrHHiidvdR2O"
+    },
+    {
+      "album": {
+        "name": "MANDA BALA",
+        "url": "https://open.spotify.com/album/4ibsk1iPM7xDpJkNXREmsl"
+      },
+      "artists": [
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100465,
+      "name": "MANDA BALA",
+      "url": "https://open.spotify.com/track/1lS2qOUk6GA20XvjjrWc25"
     },
     {
       "album": {
@@ -22252,7 +22318,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 235466,
       "name": "New Year\u2019s Day",
       "url": "https://open.spotify.com/track/7F5oktn5YOsR9eR5YsFtqb"
@@ -22618,7 +22684,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 225654,
       "name": "NO ME QUIERO CASAR",
       "url": "https://open.spotify.com/track/39L3LdlHS3gqB62HPWaJRg"
@@ -31136,6 +31202,32 @@
       "duration_ms": 114626,
       "name": "Tacata",
       "url": "https://open.spotify.com/track/3HVePjHJWt5uI9HtHgV4aM"
+    },
+    {
+      "album": {
+        "name": "Tacata (Remix)",
+        "url": "https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA"
+      },
+      "artists": [
+        {
+          "name": "Tiagz",
+          "url": "https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156716,
+      "name": "Tacata (Remix)",
+      "url": "https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj"
     },
     {
       "album": {

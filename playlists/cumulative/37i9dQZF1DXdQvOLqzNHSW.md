@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-713 songs - 1 day 18 hr 58 min
+714 songs - 1 day 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,6 +445,7 @@
 | [Night Moves](https://open.spotify.com/track/3itTjtSUO9mC7if5prxrTn) | [Michi](https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P) | [Night Moves](https://open.spotify.com/album/4ylvwWueTH4ahlgjcbUJsF) | 3:19 | 2020-12-21 | 2022-04-19 |
 | [Night Owl](https://open.spotify.com/track/3hxr617DsAJYONKlrtWLO7) | [Spooky Mansion](https://open.spotify.com/artist/7BrrcOKe9ymT5md3Up7BRz), [Rose Droll](https://open.spotify.com/artist/0cJVnp8uzj8C78IB0mcVx9) | [I'm the Moon, You're the Wave](https://open.spotify.com/album/15nXxasdD73enV3hPiXwCD) | 2:48 | 2022-07-20 | 2022-07-29 |
 | [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 4:18 | 2023-04-25 | 2023-07-29 |
+| [Nightlife](https://open.spotify.com/track/4UZjcwGRc99D7GwJYXVRPd) | [Morning Silk](https://open.spotify.com/artist/4tyiJFCv1MuTzfykbK0q7A) | [Nightlife](https://open.spotify.com/album/6ZQtzX4jkYZ9bCrHJuqluB) | 3:08 | 2024-01-04 |  |
 | [NIGHTTIME](https://open.spotify.com/track/2I8CTRKgB772a6qtyhYv21) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [NIGHTTIME](https://open.spotify.com/album/70VzJ9KqBfNTDr23SoZ74Y) | 2:27 | 2023-10-17 | 2024-01-05 |
 | [Nikes](https://open.spotify.com/track/19YKaevk2bce4odJkP5L22) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 5:14 | 2022-10-16 | 2022-10-29 |
 | [Nikes On](https://open.spotify.com/track/5b31aX22XfycZp4LcpaG8p) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [Tungsten](https://open.spotify.com/album/0iE10xMwLrtzB0fS5Pq5Ic) | 2:42 | 2021-05-01 | 2022-07-21 |
@@ -651,7 +652,7 @@
 | [thought for food](https://open.spotify.com/track/4udl0IlYJXxI6XU7ERnyvl) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [mauv](https://open.spotify.com/artist/4ll5dtDkyA2xFOz9n7wBNo) | [sketches of transition](https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21) | 3:30 | 2023-10-17 | 2023-11-18 |
 | [threads of colour](https://open.spotify.com/track/1jMy16lAlG2pyTAqqUWeYZ) | [thook](https://open.spotify.com/artist/1bbWYxMCoXqFtpwFTR66F3) | [threads of colour](https://open.spotify.com/album/1Cxv9o82Lj7nhnAgXgyWFu) | 3:54 | 2023-05-25 | 2023-05-27 |
 | [threads of colour](https://open.spotify.com/track/2cIpSuX5bmkK7px3t2HmsG) | [thook](https://open.spotify.com/artist/1bbWYxMCoXqFtpwFTR66F3) | [threads of colour](https://open.spotify.com/album/3OE6tOnRcLrjeuNAGqUJbo) | 3:54 | 2023-10-17 | 2023-11-18 |
-| [Tides](https://open.spotify.com/track/5PKry44nrSmbNmbFJ7gSD0) | [Sweeps](https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t), [NK Music](https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi) | [単にRetroFuture](https://open.spotify.com/album/5Ypek9futUq1THrPjyQDkp) | 2:27 | 2023-05-25 |  |
+| [Tides](https://open.spotify.com/track/5PKry44nrSmbNmbFJ7gSD0) | [Sweeps](https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t), [NK Music](https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi) | [単にRetroFuture](https://open.spotify.com/album/5Ypek9futUq1THrPjyQDkp) | 2:27 | 2023-05-25 | 2024-01-10 |
 | [Time](https://open.spotify.com/track/1cEHGBID7A9CTLUKOWVk5h) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Time](https://open.spotify.com/album/0CDeIgzn8DcJVpFQ55FMbj) | 3:56 | 2020-12-21 | 2022-04-13 |
 | [Time To Lose](https://open.spotify.com/track/4ywdVPBmQr1PAkAQitNqyS) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Outlines](https://open.spotify.com/album/567bIsxKHOqBqNCUCSI5KU) | 2:50 | 2023-11-21 |  |
 | [Timeless](https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Timeless](https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g) | 3:38 | 2023-05-25 | 2023-10-24 |

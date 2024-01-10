@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 
 > This is Natanael Cano\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,880 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 540,477 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 | 49 | [Diablo](https://open.spotify.com/track/2xmH5KTkTsRWAxxHbXJkoL) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [En Donde Quedo Yo](https://open.spotify.com/album/0fFL3CyMKpIA6OOfjKlDWo) | 2:48 |
 | 50 | [F1](https://open.spotify.com/track/6bf11IBgO6k84wRuTSbci2) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [F1](https://open.spotify.com/album/6DWBiI2xUByeqXbRYTu5EL) | 2:34 |
 
-Snapshot ID: `Mjg0MTE4OTksMDAwMDAwMDBhZDhmZWY0NGEyNGVmZTIzM2I3MWYyOTZhMGZkYTg4MA==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDA3ZmM3NmRiNjllYjhlMzQ3ZTBmM2E1ZTk2YmFjMGM0MA==`

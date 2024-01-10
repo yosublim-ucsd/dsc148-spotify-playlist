@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > na sua opinião, qual foi a trend do ano????
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,473 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,610 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 49 | [ENSAIO DAS MARAVILHAS](https://open.spotify.com/track/1V6gIVSrMEJCRyogBnIrNr) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Thaysa Maravilha](https://open.spotify.com/artist/1ki7YZPuQY8PYZ8cugIzBc) | [ENSAIO DAS MARAVILHAS](https://open.spotify.com/album/0WySBFNRnQ1HeXUHckbpLw) | 2:56 |
 | 50 | [Gostosinha é Ela](https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Gostosinha é Ela](https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ) | 2:18 |
 
-Snapshot ID: `MCw3M2I4MWViODAxODNlNTJlOWM0MzUyNGJkMDJlNDRkYTE2ZDBjMjIy`
+Snapshot ID: `MCxhMGFhYTc1MmQ5OTUzNDEzOTI2ZWVlZjkwOTBhMDg2OTE0MmU5ODcw`

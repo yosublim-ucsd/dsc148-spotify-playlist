@@ -1,12 +1,12 @@
 {
   "description": "Le rayon de soleil musical de votre matin\u00e9e.",
-  "num_followers": 160580,
+  "num_followers": 160671,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDc1MjgzNDJkN2M0NzAzYTI2Y2M0Y2IwMDcxNTI2MmI3MWRlMGU1",
+  "snapshot_id": "MCw2ZTg4MzU4OTU3YmQ4MWY4MGMxZDI1Y2EyNDMzZDc5ZjE0OTk2Mzcw",
   "tracks": [
     {
       "added_at": "2023-12-13 12:56:56",
@@ -43,6 +43,22 @@
     {
       "added_at": "2023-12-13 12:56:56",
       "album": {
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 199493,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
+    },
+    {
+      "added_at": "2023-12-13 12:56:56",
+      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 252239,
       "name": "A Horse with No Name",
       "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
-    },
-    {
-      "added_at": "2023-12-13 12:56:56",
-      "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 199493,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
     },
     {
       "added_at": "2023-12-13 12:56:56",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-12-13 12:56:56",
       "album": {
+        "name": "If You Leave",
+        "url": "https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "duration_ms": 253013,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW"
+    },
+    {
+      "added_at": "2023-12-13 12:56:56",
+      "album": {
         "name": "Laissez-moi danser",
         "url": "https://open.spotify.com/album/66BR3VEZqTOgclJxBlClQK"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 172360,
       "name": "Laissez-moi danser",
       "url": "https://open.spotify.com/track/1LBLEAMse3jta25SKwGs37"
-    },
-    {
-      "added_at": "2023-12-13 12:56:56",
-      "album": {
-        "name": "If You Leave",
-        "url": "https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM"
-      },
-      "artists": [
-        {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
-        }
-      ],
-      "duration_ms": 253013,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW"
     },
     {
       "added_at": "2023-12-13 12:56:56",

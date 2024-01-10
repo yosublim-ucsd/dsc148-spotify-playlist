@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-554 songs - 1 day 7 hr 31 min
+555 songs - 1 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Alice in N.Y.](https://open.spotify.com/track/1iPRe1ptuXReCWKRjzjelt) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [If the world3](https://open.spotify.com/album/7pguOxS2emX530AOO34KC4) | 3:53 | 2022-06-23 | 2022-07-15 |
 | [Alien Alien](https://open.spotify.com/track/3va7Q99A1EJk8eAZ2DV74v) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c) | [Nayutan Sei Kara No Buttai Y](https://open.spotify.com/album/1TYuswsDlzdBI88xoYgO4P) | 3:01 | 2022-10-13 |  |
 | [Amanojaku](https://open.spotify.com/track/2P8HxufC1uIUVFYGkyRkSm) | [164](https://open.spotify.com/artist/4q1k4Y6SroqGJopNP90hYQ) | [Exit Tunes Presents Gumitive From Megpoid \(Vocaloid\)](https://open.spotify.com/album/0IhgpAb7bDAIFeFk6gfh3F) | 3:08 | 2023-06-13 | 2023-07-21 |
-| [Angel 92](https://open.spotify.com/track/73l0SNaLjeGtoujFzirKNG) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Angel 92](https://open.spotify.com/album/3GvWcgfR2yCy2cW67hwwOA) | 3:17 | 2023-11-28 |  |
+| [Angel 92](https://open.spotify.com/track/73l0SNaLjeGtoujFzirKNG) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Angel 92](https://open.spotify.com/album/3GvWcgfR2yCy2cW67hwwOA) | 3:17 | 2023-11-28 | 2024-01-10 |
 | [Aoku Aoku Hikaru](https://open.spotify.com/track/1W6l1pZR06xDwWi2nhb5YJ) | [nulut](https://open.spotify.com/artist/1NWep4Y5u3meUn7TcsHVm9) | [ULTRAPANIC2](https://open.spotify.com/album/1zg4XTpXBFeAltnyQPSDbV) | 3:47 | 2023-03-09 | 2023-04-14 |
 | [Aoku Aoku Hikaru](https://open.spotify.com/track/4remMpKJioVgkTecTRvT52) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [Aoku Aoku Hikaru](https://open.spotify.com/album/6D1H5mmhfS3GwAPLDzeet3) | 3:47 | 2023-03-09 | 2023-03-13 |
 | [Apocalypse Now](https://open.spotify.com/track/2LbabPUGMd8EszPPvmiO6a) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [Apocalypse Now](https://open.spotify.com/album/1vPm6olblhpMOw2kKjCesj) | 2:57 | 2023-08-22 | 2023-10-18 |
@@ -35,6 +35,7 @@
 | [Bakrom](https://open.spotify.com/track/3NV8rXGmXkmwnUb4XEx6aF) | [HiiragiKirai](https://open.spotify.com/artist/2GRRmz1dTswdlbdmpsveqK) | [Bakrom](https://open.spotify.com/album/7LwH7kDmcnOP5L6NcTVEW0) | 3:24 | 2022-06-23 | 2022-07-14 |
 | [Black Out](https://open.spotify.com/track/1xoSc615wdQJiegfuJ8wPH) | [\*Luna](https://open.spotify.com/artist/4vwJe968gHHZzL0or0gSZA) | [PERSON](https://open.spotify.com/album/3TNRXnBvhF8ZzELhMuBo9m) | 4:29 | 2022-06-09 | 2022-07-27 |
 | [Black Out](https://open.spotify.com/track/0My5K0w80efxzM1wOTAheP) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Black Out](https://open.spotify.com/album/4cKFsbtDAMnopqSzC1GZm5) | 2:15 | 2022-06-14 | 2022-07-27 |
+| [Bocca della Verità](https://open.spotify.com/track/7k7gLfNpXx0ZdaJtLOixnk) | [HiiragiKirai](https://open.spotify.com/artist/2GRRmz1dTswdlbdmpsveqK) | [Hateful](https://open.spotify.com/album/5KQEDITT9hD7p6gxbBAfz5) | 3:21 | 2024-01-09 |  |
 | [Brand New Day](https://open.spotify.com/track/1rknPfhsPCqHYWEB99H5sZ) | [irucaice](https://open.spotify.com/artist/0giXiUwGnKdrVe96MLkTKX) | [iceQuarium \-Strawberry\-](https://open.spotify.com/album/2aGFMGGOl4we3BJZdEz9FZ) | 4:31 | 2022-06-14 | 2022-07-13 |
 | [BUG](https://open.spotify.com/track/1fqfev7K0mfX7e1W64pDvA) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE) | [BUG](https://open.spotify.com/album/04BZd03CZ9HuiiZBWDcp1J) | 2:51 | 2022-12-13 | 2023-11-29 |
 | [BUTASANDER](https://open.spotify.com/track/6Qkh2aWAs6PC3f1F5R9klt) | [ゆこぴ](https://open.spotify.com/artist/2VFuqA3nVl2UqhhthXNF3K) | [ALBUM No,1](https://open.spotify.com/album/5J64EHN7hMo5sGTlRfC6bo) | 2:16 | 2023-11-28 | 2023-12-27 |

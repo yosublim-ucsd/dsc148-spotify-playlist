@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: BXKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,275 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,411 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 51 | [SUMO](https://open.spotify.com/track/4EKJDqxtPUGPs6MbmWF3WR) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [SUMO](https://open.spotify.com/album/6VRUcQIKK7pPHMjnEKXEoM) | 3:00 |
 | 52 | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX) | 3:22 |
 | 53 | [Different](https://open.spotify.com/track/0a4s5QRpKF0sDDM2reNq60) | [JayG](https://open.spotify.com/artist/2ZfE7xelFGQyzQupgFGK5a) | [Different](https://open.spotify.com/album/4IpQl9BPbSECXL0Rj62gL2) | 2:33 |
-| 54 | [Celine](https://open.spotify.com/track/2FAubZAGaGl5k2Be1n1nrG) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV), [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Celine](https://open.spotify.com/album/2osmYzbFYfQEbIeq5QB6Hc) | 3:13 |
-| 55 | [Caroline](https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Caroline](https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ) | 3:36 |
+| 54 | [Caroline](https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Caroline](https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ) | 3:36 |
+| 55 | [Celine](https://open.spotify.com/track/2FAubZAGaGl5k2Be1n1nrG) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV), [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Celine](https://open.spotify.com/album/2osmYzbFYfQEbIeq5QB6Hc) | 3:13 |
 | 56 | [Leon the Professional](https://open.spotify.com/track/0mT2c2MV6tqY7T3bs6JgwN) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Leon the Professional](https://open.spotify.com/album/1NG1UlXaxBYm25tBEa5a9l) | 3:01 |
 | 57 | [White Ash](https://open.spotify.com/track/2sngouSS4sot4DR4qkX4Ef) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Real Back In Style](https://open.spotify.com/album/4ZXd1RIxHGNExQjajXcdV3) | 3:45 |
 | 58 | [Get Inspired](https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Get Inspired](https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD) | 2:53 |
-| 59 | [All My Girls Like To Fight](https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [All My Girls Like To Fight](https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl) | 3:52 |
+| 59 | [Cherries](https://open.spotify.com/track/13z7RLPmgupzRwQY9NiTZU) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Girl Eats Sun](https://open.spotify.com/album/6Go01eX2LbvalYrTF8r8Ps) | 3:03 |
 | 60 | [Gone](https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Gone](https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn) | 3:15 |
 
-Snapshot ID: `MCw4ODI0NzU5NWRiOTU5YmQyMTY4ZjIwYTAyMjc3NDY5MmExZDNiYjZj`
+Snapshot ID: `MCw5ZGRjZGQ5MDYzYWE0NTlmN2VkZGYwODhmNGVhYzFjMDkwYzllZjg4`

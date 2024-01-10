@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Eurice Diniz",
-  "num_followers": 112633,
+  "num_followers": 112672,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjZjZjcwZDY3NTNmMTIyYTVjZmY2MGVkNzI4NzQ2MzllMDhiMGVk",
+  "snapshot_id": "MCxkNGJmMWE1YmFiZDEyMDA5YWQ0ZjI0Y2IzNDEzZTQ0MGNjZWRkMjBh",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Terceiro C\u00e9u",
-        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 312287,
-      "name": "Sou Eu",
-      "url": "https://open.spotify.com/track/5HLtqc3vpXvE80swUPHRRn"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Despreocupa",
         "url": "https://open.spotify.com/album/6bZuND1J1zthPK9kP5SQVI"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 310635,
       "name": "Despreocupa",
       "url": "https://open.spotify.com/track/3IcKMQszCEB2xxcip1tSqP"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Terceiro C\u00e9u",
+        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 312287,
+      "name": "Sou Eu",
+      "url": "https://open.spotify.com/track/5HLtqc3vpXvE80swUPHRRn"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1103,8 +1103,8 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "A Tenda (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9"
+        "name": "P\u00e1gina Virada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1cbheUr3xNDKRmSiFV5CzD"
       },
       "artists": [
         {
@@ -1112,9 +1112,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 470263,
-      "name": "A Tenda (Ao Vivo)",
-      "url": "https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe"
+      "duration_ms": 423916,
+      "name": "P\u00e1gina Virada - Ao Vivo",
+      "url": "https://open.spotify.com/track/4XPbG1ZX2j45hGVDO3QCUD"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1239,6 +1239,38 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Tranquiliza (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7acKfdg1t94LPz4wYwxJzJ"
+      },
+      "artists": [
+        {
+          "name": "Neide Martins",
+          "url": "https://open.spotify.com/artist/18qBREWpIZMKWohtvnOMKq"
+        }
+      ],
+      "duration_ms": 429352,
+      "name": "Tranquiliza - Ao Vivo",
+      "url": "https://open.spotify.com/track/4lgJJ5sgzGdDzX9ZkKSwVl"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "A Tenda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 470263,
+      "name": "A Tenda (Ao Vivo)",
+      "url": "https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Desapareceu um Povo (Ao Vivo)",
         "url": "https://open.spotify.com/album/1e4nJnPwLL6a7ivAyppNmS"
       },
@@ -1255,38 +1287,6 @@
       "duration_ms": 210977,
       "name": "Desapareceu um Povo (Ao Vivo)",
       "url": "https://open.spotify.com/track/3CzOSJ3mlQUBuVa85iHlfK"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "P\u00e1gina Virada (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1cbheUr3xNDKRmSiFV5CzD"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 423916,
-      "name": "P\u00e1gina Virada - Ao Vivo",
-      "url": "https://open.spotify.com/track/4XPbG1ZX2j45hGVDO3QCUD"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Tranquiliza (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7acKfdg1t94LPz4wYwxJzJ"
-      },
-      "artists": [
-        {
-          "name": "Neide Martins",
-          "url": "https://open.spotify.com/artist/18qBREWpIZMKWohtvnOMKq"
-        }
-      ],
-      "duration_ms": 429352,
-      "name": "Tranquiliza - Ao Vivo",
-      "url": "https://open.spotify.com/track/4lgJJ5sgzGdDzX9ZkKSwVl"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Vendavais",
+        "url": "https://open.spotify.com/album/1w5kjZKJAjcFQAbfvt0INc"
+      },
+      "artists": [
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        }
+      ],
+      "duration_ms": 284090,
+      "name": "Vendavais",
+      "url": "https://open.spotify.com/track/1kFTihWjdy8DCeSuxagORd"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Foi o Senhor (Ao Vivo)",
         "url": "https://open.spotify.com/album/3Ki8QBtCUxoit8bE0yj2Jq"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 412703,
       "name": "Foi o Senhor - Ao Vivo",
       "url": "https://open.spotify.com/track/4CCJF8aNJehAJu8J3IISVq"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Vendavais",
-        "url": "https://open.spotify.com/album/1w5kjZKJAjcFQAbfvt0INc"
-      },
-      "artists": [
-        {
-          "name": "Kellen Byanca",
-          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
-        }
-      ],
-      "duration_ms": 284090,
-      "name": "Vendavais",
-      "url": "https://open.spotify.com/track/1kFTihWjdy8DCeSuxagORd"
     },
     {
       "added_at": "2023-12-22 03:00:00",

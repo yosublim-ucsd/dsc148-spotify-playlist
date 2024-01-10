@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: FRANKIEONTHEGUITAR, Diogo Pi\u00e7arra e Van Zee.",
-  "num_followers": 42367,
+  "num_followers": 42382,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTdkMGJkMGY5NmEwYmY0MmM1MjQzYzI2NjUwMGIwY2JhZDU0MGEy",
+  "snapshot_id": "MCw5MGMzNGZlZjU5NmM5MTc4ZmVmMTk3YmM5ZGU5MjQ1ZjU4ZDBiYjA4",
   "tracks": [
     {
       "added_at": "2024-01-05 00:00:00",
@@ -583,18 +583,22 @@
     {
       "added_at": "2024-01-05 00:00:00",
       "album": {
-        "name": "00 Fala Bonito",
-        "url": "https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv"
+        "name": "Brutos Diamantes",
+        "url": "https://open.spotify.com/album/0bAS2LP1ELHvX2BWJHDqan"
       },
       "artists": [
         {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+          "name": "SYRO",
+          "url": "https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x"
+        },
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
         }
       ],
-      "duration_ms": 212093,
-      "name": "00 Fala Bonito",
-      "url": "https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C"
+      "duration_ms": 176320,
+      "name": "Brutos Diamantes",
+      "url": "https://open.spotify.com/track/2Dn1EJ0AQAWSgl3cyeJK3V"
     },
     {
       "added_at": "2024-01-05 00:00:00",
@@ -619,22 +623,18 @@
     {
       "added_at": "2024-01-05 00:00:00",
       "album": {
-        "name": "Brutos Diamantes",
-        "url": "https://open.spotify.com/album/0bAS2LP1ELHvX2BWJHDqan"
+        "name": "00 Fala Bonito",
+        "url": "https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv"
       },
       "artists": [
         {
-          "name": "SYRO",
-          "url": "https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x"
-        },
-        {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
         }
       ],
-      "duration_ms": 176320,
-      "name": "Brutos Diamantes",
-      "url": "https://open.spotify.com/track/2Dn1EJ0AQAWSgl3cyeJK3V"
+      "duration_ms": 212093,
+      "name": "00 Fala Bonito",
+      "url": "https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C"
     },
     {
       "added_at": "2024-01-05 00:00:00",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2024-01-05 00:00:00",
       "album": {
-        "name": "Heartbreak Canvas (Acoustic Version)",
-        "url": "https://open.spotify.com/album/4v9azADpSuZ0h02YBiZGlp"
-      },
-      "artists": [
-        {
-          "name": "Bere",
-          "url": "https://open.spotify.com/artist/0LXPTU5nYRehFKI8RQDsiV"
-        },
-        {
-          "name": "Midnight Commander",
-          "url": "https://open.spotify.com/artist/4iuqwRKK5CQL2JxNKuHVRR"
-        }
-      ],
-      "duration_ms": 144488,
-      "name": "Heartbreak Canvas (Acoustic Version)",
-      "url": "https://open.spotify.com/track/61i7ccHsK5TZkHDaRrC0tZ"
-    },
-    {
-      "added_at": "2024-01-05 00:00:00",
-      "album": {
         "name": "Pausa",
         "url": "https://open.spotify.com/album/4lAOkzdF6ugwfgaU2CjWTJ"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 191250,
       "name": "Pausa",
       "url": "https://open.spotify.com/track/1eSJkqC47qMbJjvgIyGQw8"
+    },
+    {
+      "added_at": "2024-01-05 00:00:00",
+      "album": {
+        "name": "Heartbreak Canvas (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4v9azADpSuZ0h02YBiZGlp"
+      },
+      "artists": [
+        {
+          "name": "Bere",
+          "url": "https://open.spotify.com/artist/0LXPTU5nYRehFKI8RQDsiV"
+        },
+        {
+          "name": "Midnight Commander",
+          "url": "https://open.spotify.com/artist/4iuqwRKK5CQL2JxNKuHVRR"
+        }
+      ],
+      "duration_ms": 144488,
+      "name": "Heartbreak Canvas (Acoustic Version)",
+      "url": "https://open.spotify.com/track/61i7ccHsK5TZkHDaRrC0tZ"
     },
     {
       "added_at": "2024-01-05 00:00:00",

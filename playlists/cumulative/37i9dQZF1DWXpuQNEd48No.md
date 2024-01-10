@@ -4,7 +4,7 @@
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Addy Nagar
 
-161 songs - 8 hr 38 min
+162 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Bawli](https://open.spotify.com/track/3cp5VdEzmk4DmLOs7LOTpT) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Bawli](https://open.spotify.com/album/5bIAiDpCAnHxZ6N2EN8mTQ) | 1:58 | 2023-09-13 |  |
 | [Beat Pe Haley](https://open.spotify.com/track/1zKCjvOntyHye2uo9yStm7) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5), [Spoiler](https://open.spotify.com/artist/7f2hihjgE7E86I9NTDf88V) | [Beat Pe Haley](https://open.spotify.com/album/0rYNzF3IEoaJZpsmWIDwUW) | 2:34 | 2023-12-22 |  |
 | [Been](https://open.spotify.com/track/4hs1cApFZPa3OeVgwqt0eG) | [Kaka WRLD](https://open.spotify.com/artist/3U9BgfNjBB0CXWhrXdtdbv), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Renuka Panwar](https://open.spotify.com/artist/2wDTo0nO2ZKJN7VUeGmuyg), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Been](https://open.spotify.com/album/4YGwBcyeLlawZd9QYg21Xg) | 3:04 | 2023-04-28 |  |
+| [Bhaichara](https://open.spotify.com/track/6mCL0woLlGJZV52QQLbHhz) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Bhaichara](https://open.spotify.com/album/7reaLezW7CdO3r3Pl6f6Gb) | 3:26 | 2024-01-05 |  |
 | [Black life](https://open.spotify.com/track/74PN0yUa0pL2uedZJ15tGm) | [Divesh Khatana](https://open.spotify.com/artist/3iKTund4Lk0ABArnhE53lX) | [Black life](https://open.spotify.com/album/2HJKafEE448WWI7E129xpv) | 3:05 | 2023-03-28 | 2023-06-17 |
 | [Bonjour](https://open.spotify.com/track/1X0uwEHBqPZiXnpFT1hZDm) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Bonjour](https://open.spotify.com/album/7EGPSrVw9GfbFOzEs46T2b) | 2:53 | 2023-06-10 | 2023-11-23 |
 | [Brand New](https://open.spotify.com/track/5hDKa4HzGxhnLGO6vnc3pA) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Shiva Choudhary](https://open.spotify.com/artist/3KOSRNy74RLnTAFn0u1tmN), [Love Kataria](https://open.spotify.com/artist/68Zi4yF7GdesbYgTEEZPDZ), [Sshiv](https://open.spotify.com/artist/6NyXhJPrcOKVowHPoP5AQA) | [Brand New](https://open.spotify.com/album/2dj8GXKlijOBhPcY9DXY2k) | 1:50 | 2023-11-06 |  |
@@ -71,7 +72,7 @@
 | [Goli](https://open.spotify.com/track/5Eg7UwkwmvZ6klpm26opBD) | [Sahil Dhull](https://open.spotify.com/artist/1YhZbHSLY4DwUzlennljq8), [Nonu Rana](https://open.spotify.com/artist/5apXJg5GUrFPVqRe4prxKh), [VJ Paul](https://open.spotify.com/artist/7znLEJV5gqErkQT4xd8yOn), [Khushi Verma](https://open.spotify.com/artist/2bdyNpVEnnVc1WDz79Riz4) | [Goli](https://open.spotify.com/album/1x72UEEAlwx8Idzm6buZd8) | 2:34 | 2023-07-11 | 2023-12-17 |
 | [Goli \(feat\. Khushi Verma\)](https://open.spotify.com/track/4HATNfC9i1QhyKu12K79DK) | [Sahil Dhull](https://open.spotify.com/artist/1YhZbHSLY4DwUzlennljq8), [Nonu Rana](https://open.spotify.com/artist/5apXJg5GUrFPVqRe4prxKh), [VJ Paul](https://open.spotify.com/artist/7znLEJV5gqErkQT4xd8yOn), [Khushi Verma](https://open.spotify.com/artist/6VK3DHQtrpLI82AdK9fcwY) | [Goli \(feat\. Khushi Verma\)](https://open.spotify.com/album/6uOg651hrzwS9y5I1uEz5d) | 2:34 | 2023-12-14 |  |
 | [Gurjari](https://open.spotify.com/track/2G6xSLWVj94AwzwdsbLJ29) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Alan Sampson](https://open.spotify.com/artist/6jQkBMk5URec0RTNDh8P96), [ADP](https://open.spotify.com/artist/0QAjuB54V29PdceQCHXq2i) | [Gurjari](https://open.spotify.com/album/6zG42VggnsjGC7mJhiq7SZ) | 2:37 | 2023-12-14 |  |
-| [Handcuffs](https://open.spotify.com/track/1xwoD9H9i7UiBJt4gS1cbi) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM), [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Handcuffs](https://open.spotify.com/album/6U2o1eB1KWcV6d6M8KQnkx) | 3:41 | 2024-01-05 |  |
+| [Handcuffs](https://open.spotify.com/track/1xwoD9H9i7UiBJt4gS1cbi) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM), [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Handcuffs](https://open.spotify.com/album/6U2o1eB1KWcV6d6M8KQnkx) | 3:41 | 2024-01-05 | 2024-01-10 |
 | [Haryana Born](https://open.spotify.com/track/1sT3QTmJ61n7dlUQwCvugq) | [Manish Rawal](https://open.spotify.com/artist/5BMrVOkeM7YwsNjhanu1Zb) | [Haryana Born](https://open.spotify.com/album/7hMuaxPY9NYf8oOoVBqEXf) | 2:26 | 2023-08-02 | 2023-09-28 |
 | [Haryana Flow](https://open.spotify.com/track/6OaC2D3CyPcbhUN4Tunvek) | [Lanedaar](https://open.spotify.com/artist/3XGpQpOzPUuqQ9oDP6jPix) | [Haryana Flow](https://open.spotify.com/album/1H1nnmMFGedsa7ltWj0bDD) | 3:17 | 2023-12-01 | 2023-12-19 |
 | [Haryana Hood](https://open.spotify.com/track/1RdrAqXa2fUj2XytsKaUwl) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Haryana Hood](https://open.spotify.com/album/4x2HtG6BCrYlok67vSgxjj) | 3:31 | 2023-04-18 |  |

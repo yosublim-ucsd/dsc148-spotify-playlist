@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 
 > Romance antigüito en voz de tus artistas pop con Kali Uchis en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,881 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,921 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,12 +78,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 68 | [Tal Vez, Quizá](https://open.spotify.com/track/0sNTrlPwP2CXiMCsiQDIeW) | [David Cavazos](https://open.spotify.com/artist/1dsX2yN51RAijy5uceP5dA) | [Tal Vez, Quizá](https://open.spotify.com/album/6QTKYA5LOTyMveLR38pg0Y) | 4:36 |
 | 69 | [Adiós Amor](https://open.spotify.com/track/23KAto4gDqUxFqTtpqtH9m) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Más Pandora Que Nunca](https://open.spotify.com/album/7J8LJUlBFJxlCfRNJp6d6d) | 3:24 |
 | 70 | [Bésame mucho](https://open.spotify.com/track/1AwB8JSmLNu0X76njUpqzz) | [Edna Vazquez](https://open.spotify.com/artist/4GxX2P0gUw7uiWtg8nNOrP), [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Bésame mucho](https://open.spotify.com/album/6dFvBCQkwOJwCWQsSHsFEW) | 4:04 |
-| 71 | [En la Orilla del Mar](https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x) | [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL) | [Los Boleros de Oro de la Música Tropical](https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ) | 2:45 |
-| 72 | [Tengo](https://open.spotify.com/track/0yOUq6w4cN037OcxdZDQQP) | [Tania Matus](https://open.spotify.com/artist/3AtQAFdXoag2fwVScetgTF) | [Tengo](https://open.spotify.com/album/2cqrUCizJahsIfhzgE1uH8) | 4:08 |
+| 71 | [Tengo](https://open.spotify.com/track/0yOUq6w4cN037OcxdZDQQP) | [Tania Matus](https://open.spotify.com/artist/3AtQAFdXoag2fwVScetgTF) | [Tengo](https://open.spotify.com/album/2cqrUCizJahsIfhzgE1uH8) | 4:08 |
+| 72 | [En la Orilla del Mar](https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x) | [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL) | [Los Boleros de Oro de la Música Tropical](https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ) | 2:45 |
 | 73 | [La Apuesta](https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [DUAL](https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk) | 3:27 |
-| 74 | [La Copa Rota](https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [La Copa Rota](https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM) | 3:09 |
-| 75 | [Este Terco Corazón \- En Vivo Los Estudios Churubusco México DF/2011](https://open.spotify.com/track/0zWa5MVujd2PUiqRnXxTmU) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Acústico En Vivo](https://open.spotify.com/album/21W89hohyAUqNiLMKGYiZn) | 4:32 |
-| 76 | [Te matan los celos](https://open.spotify.com/track/5SR85Imahcv9tZGFjz3MCX) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z) | [Orígenes: El Bolero Vol.3](https://open.spotify.com/album/3cpEWPCmAkKQunvQmeYP1t) | 3:30 |
+| 74 | [Te matan los celos](https://open.spotify.com/track/5SR85Imahcv9tZGFjz3MCX) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z) | [Orígenes: El Bolero Vol.3](https://open.spotify.com/album/3cpEWPCmAkKQunvQmeYP1t) | 3:30 |
+| 75 | [La Copa Rota](https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [La Copa Rota](https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM) | 3:09 |
+| 76 | [Este Terco Corazón \- En Vivo Los Estudios Churubusco México DF/2011](https://open.spotify.com/track/0zWa5MVujd2PUiqRnXxTmU) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Acústico En Vivo](https://open.spotify.com/album/21W89hohyAUqNiLMKGYiZn) | 4:32 |
 | 77 | [Cuando Vuelva a Tu Lado](https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7) | [Kika Edgar](https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA) | [Solo Boleros](https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD) | 2:58 |
 | 78 | [Contigo aprendí](https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El palacio de las flores](https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg) | 4:19 |
 | 79 | [Nada personal \(A dueto con Ana Torroja\)](https://open.spotify.com/track/56pm6QlEYiAQyCCidxsTSN) | [Armando Manzanero Duetos 2](https://open.spotify.com/artist/3ynESLbVr0i6wxyRMMF08A) | [Armando Manzanero Duetos 2](https://open.spotify.com/album/7CVN6xKqwDafXQ4vTsNUwl) | 3:12 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 82 | [Te Ofrezco](https://open.spotify.com/track/4HTteIyy5JZ9YhHmdGcTJA) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Te Ofrezco](https://open.spotify.com/album/7zi3SKDbuhjapBGcCyv1tY) | 3:26 |
 | 83 | [No Olvides Recordarme \- En Vivo](https://open.spotify.com/track/3ANmOzBDhOHsaaxZyoUd4j) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Necesito un Bolero \[\(Edición de Lujo\)\[En Vivo\]\]](https://open.spotify.com/album/5J1eWhVg87VdgaEnN1PlVt) | 3:55 |
 | 84 | [Frenesí \- 2016 Remaster](https://open.spotify.com/track/7HGyyoWiUdLYddj985Aj1C) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Frenesi \(2016 Remaster\)](https://open.spotify.com/album/1D9QdIT6bueT23rSwp0C63) | 3:33 |
-| 85 | [Tu Amor No Vale un Bolero](https://open.spotify.com/track/0hKJCsS3XUVEECfslnauKv) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva), [Lorena Jimenez](https://open.spotify.com/artist/4DdnLfUESB3baPYYdT0sNu) | [Tu Amor No Vale un Bolero](https://open.spotify.com/album/66x0bo3TSXpCZLKMF4NjzQ) | 3:26 |
-| 86 | [Bolero Estelar](https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Bolero Estelar](https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E) | 3:58 |
+| 85 | [Bolero Estelar](https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Bolero Estelar](https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E) | 3:58 |
+| 86 | [Tu Amor No Vale un Bolero](https://open.spotify.com/track/0hKJCsS3XUVEECfslnauKv) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva), [Lorena Jimenez](https://open.spotify.com/artist/4DdnLfUESB3baPYYdT0sNu) | [Tu Amor No Vale un Bolero](https://open.spotify.com/album/66x0bo3TSXpCZLKMF4NjzQ) | 3:26 |
 | 87 | [La Mentira \(Se Te Olvida\)](https://open.spotify.com/track/4DJ3STfAdgmVCE6c9dBFx1) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Keep´n Love](https://open.spotify.com/album/0N9RVBNuATxlMX1PCCK3dc) | 3:17 |
 | 88 | [Sombras \- Sombras Nada Más](https://open.spotify.com/track/7HmD951OFt2D9PvYpsFBxY) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mano a Mano \- Tangos a la Manera de Vicente Fernández](https://open.spotify.com/album/6sh6Vqdbu9mHsnWvsqyikC) | 3:13 |
 | 89 | [Lo Mismo Que Usted](https://open.spotify.com/track/1T1JNTntdgMRIm5XRguVfq) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Trebol \(II\)](https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 99 | [Almohada](https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Celebrando Al Príncipe](https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol) | 4:02 |
 | 100 | [Noche Sensacional](https://open.spotify.com/track/6L2rOHvZAwPCp2FqYmyvZ5) | [Chabuco](https://open.spotify.com/artist/7iVnPo1i10De0UGQz5eDsl), [Dayhan Díaz](https://open.spotify.com/artist/3L2JdDvaqkXdtw0DTnxLSa) | [Noche Sensacional](https://open.spotify.com/album/7zWTzor9FhwJC513rjjMda) | 3:17 |
 
-Snapshot ID: `MCxhOTMzMDkwNWQ4ZmJmMDQ0YzdhNmYwYWMxODE2NGM2MmM3MjNkYzI4`
+Snapshot ID: `MCwxMDljODlkYzJmMjRiMTM0ZmFlNTUwNTVmZmM2NmNkMzlhMjdmNDg4`

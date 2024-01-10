@@ -1,12 +1,12 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 196271,
+  "num_followers": 196208,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTJmMDUxMTU2ODcwYzA1NmJkMGZmNTM0NDc3MDc4YjAxMjk3ZTFk",
+  "snapshot_id": "MCxmYjg5NTVkYTVjNzg2OWY2Y2NkYTAxMTA4ZTcyNDNiMzQ1ZmE3NzBi",
   "tracks": [
     {
       "added_at": "2024-01-04 23:00:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "December",
-        "url": "https://open.spotify.com/album/3PwH45P3rTlpCJL6ArAyKC"
-      },
-      "artists": [
-        {
-          "name": "Anders Robert",
-          "url": "https://open.spotify.com/artist/3ORm1UuQlm3AsbEtV4Lmte"
-        }
-      ],
-      "duration_ms": 183375,
-      "name": "December",
-      "url": "https://open.spotify.com/track/25ttMdXx0DuAR2p6myYlF9"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Neutronstj\u00e4rnan",
         "url": "https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 248293,
       "name": "Rosor & champagne",
       "url": "https://open.spotify.com/track/19s1sITOZWsUyCBva6mVs8"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/3PwH45P3rTlpCJL6ArAyKC"
+      },
+      "artists": [
+        {
+          "name": "Anders Robert",
+          "url": "https://open.spotify.com/artist/3ORm1UuQlm3AsbEtV4Lmte"
+        }
+      ],
+      "duration_ms": 183375,
+      "name": "December",
+      "url": "https://open.spotify.com/track/25ttMdXx0DuAR2p6myYlF9"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Clap",
-        "url": "https://open.spotify.com/album/7lEMMNH7c4Dca2V1nQOlIn"
-      },
-      "artists": [
-        {
-          "name": "Josefine",
-          "url": "https://open.spotify.com/artist/5iLaZnrGlRUHm2PwZ33dIt"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "Clap",
-      "url": "https://open.spotify.com/track/5N2C2mNYf5l062MTTgnoF8"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Fire Escapes",
         "url": "https://open.spotify.com/album/7kkPQtRxES08kc1r24BpjK"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 170356,
       "name": "Fire Escapes",
       "url": "https://open.spotify.com/track/7f8lDyHliy2grjseiVV7JS"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Clap",
+        "url": "https://open.spotify.com/album/7lEMMNH7c4Dca2V1nQOlIn"
+      },
+      "artists": [
+        {
+          "name": "Josefine",
+          "url": "https://open.spotify.com/artist/5iLaZnrGlRUHm2PwZ33dIt"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "Clap",
+      "url": "https://open.spotify.com/track/5N2C2mNYf5l062MTTgnoF8"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -447,6 +447,26 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "Unnskyld, f\u00f6rl\u00e5t",
+        "url": "https://open.spotify.com/album/4apzOYKZx2D4jnusHPf4C0"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        },
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        }
+      ],
+      "duration_ms": 167139,
+      "name": "Unnskyld, f\u00f6rl\u00e5t",
+      "url": "https://open.spotify.com/track/6ebiZ791hh3KPSw8TcCPK7"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Bare mellom oss",
         "url": "https://open.spotify.com/album/2xPRKtDRAhuuY8aMlm0HjR"
       },
@@ -487,26 +507,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Unnskyld, f\u00f6rl\u00e5t",
-        "url": "https://open.spotify.com/album/4apzOYKZx2D4jnusHPf4C0"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        },
-        {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
-        }
-      ],
-      "duration_ms": 167139,
-      "name": "Unnskyld, f\u00f6rl\u00e5t",
-      "url": "https://open.spotify.com/track/6ebiZ791hh3KPSw8TcCPK7"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Moon Eyes",
         "url": "https://open.spotify.com/album/5E9eUYrMYgFRdN8IVcRvex"
       },
@@ -535,6 +535,22 @@
       "duration_ms": 231253,
       "name": "Pretty Boy",
       "url": "https://open.spotify.com/track/557jdZsn0FAltJXgenminf"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "TRANSPARENT",
+        "url": "https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK"
+      },
+      "artists": [
+        {
+          "name": "Nea",
+          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
+        }
+      ],
+      "duration_ms": 193196,
+      "name": "Death of Me",
+      "url": "https://open.spotify.com/track/1AgjsphQSNEEMj3DokN5wX"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -579,22 +595,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Mercedes",
-        "url": "https://open.spotify.com/album/0o26UZjh2WtiM2XKTXhKWS"
-      },
-      "artists": [
-        {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        }
-      ],
-      "duration_ms": 195346,
-      "name": "Sunny Philadelphia",
-      "url": "https://open.spotify.com/track/2fXbCD1qSnIG0qbBooXgSU"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Ciao",
         "url": "https://open.spotify.com/album/6RqUuLYatToNg8HQuZoxgE"
       },
@@ -611,18 +611,18 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "TRANSPARENT",
-        "url": "https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK"
+        "name": "Mercedes",
+        "url": "https://open.spotify.com/album/0o26UZjh2WtiM2XKTXhKWS"
       },
       "artists": [
         {
-          "name": "Nea",
-          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
         }
       ],
-      "duration_ms": 193196,
-      "name": "Death of Me",
-      "url": "https://open.spotify.com/track/1AgjsphQSNEEMj3DokN5wX"
+      "duration_ms": 195346,
+      "name": "Sunny Philadelphia",
+      "url": "https://open.spotify.com/track/2fXbCD1qSnIG0qbBooXgSU"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Fan va dyrt",
-        "url": "https://open.spotify.com/album/38RGJuywRLdIriec2eMTOj"
-      },
-      "artists": [
-        {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
-        }
-      ],
-      "duration_ms": 186663,
-      "name": "Fan va dyrt",
-      "url": "https://open.spotify.com/track/7mIgleiDBBlShwtZz8Piir"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Tjuvjakt",
         "url": "https://open.spotify.com/album/4xD2AdE5l9uqHoH1y2hrhY"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 185392,
       "name": "Solsken",
       "url": "https://open.spotify.com/track/4lf0FPLbugnTdRJCUSNlIg"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Fan va dyrt",
+        "url": "https://open.spotify.com/album/38RGJuywRLdIriec2eMTOj"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "duration_ms": 186663,
+      "name": "Fan va dyrt",
+      "url": "https://open.spotify.com/track/7mIgleiDBBlShwtZz8Piir"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Halvfullt sprucket glas",
-        "url": "https://open.spotify.com/album/3I6yk3lLrD8TyqKI1L7wfX"
-      },
-      "artists": [
-        {
-          "name": "Ida-Lova",
-          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Halvfullt sprucket glas",
-      "url": "https://open.spotify.com/track/67kdOBbNGrgqVo8yk1Ue6h"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Heartbreakmiljon\u00e4r",
         "url": "https://open.spotify.com/album/6rRVhNGvjcmFs9kgfi660n"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 193703,
       "name": "Heartbreakmiljon\u00e4r",
       "url": "https://open.spotify.com/track/49I4fTavMoX9SL0KDmd6Tw"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Halvfullt sprucket glas",
+        "url": "https://open.spotify.com/album/3I6yk3lLrD8TyqKI1L7wfX"
+      },
+      "artists": [
+        {
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Halvfullt sprucket glas",
+      "url": "https://open.spotify.com/track/67kdOBbNGrgqVo8yk1Ue6h"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "Heartbreakmiljon\u00e4r",
+        "url": "https://open.spotify.com/album/6rRVhNGvjcmFs9kgfi660n"
+      },
+      "artists": [
+        {
+          "name": "Oscar Zia",
+          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
+        }
+      ],
+      "duration_ms": 166858,
+      "name": "NU",
+      "url": "https://open.spotify.com/track/1AcUJgg8BIGkVOP1D0vXvG"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Hold Your Head Up (feat. Jack Savoretti)",
         "url": "https://open.spotify.com/album/21SOe11JbPN5S3FosDDujh"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 187663,
       "name": "Hold Your Head Up (feat. Jack Savoretti)",
       "url": "https://open.spotify.com/track/5f81IBtp89HGHZ6qYoxwvd"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "Heartbreakmiljon\u00e4r",
-        "url": "https://open.spotify.com/album/6rRVhNGvjcmFs9kgfi660n"
-      },
-      "artists": [
-        {
-          "name": "Oscar Zia",
-          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
-        }
-      ],
-      "duration_ms": 166858,
-      "name": "NU",
-      "url": "https://open.spotify.com/track/1AcUJgg8BIGkVOP1D0vXvG"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "A Bowl of Unripe Fruit",
-        "url": "https://open.spotify.com/album/1sTbqsjJft5XrgnGRN2Y05"
+        "name": "Painkiller",
+        "url": "https://open.spotify.com/album/0IaCkrFp4j5trgWJLjR8XI"
       },
       "artists": [
         {
-          "name": "Matilda Lyn",
-          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+          "name": "Joselin",
+          "url": "https://open.spotify.com/artist/6QGSO53ZvBWWNInDC2anMt"
         }
       ],
-      "duration_ms": 139429,
-      "name": "Tennis",
-      "url": "https://open.spotify.com/track/5HjMrOB5mWB8F8Uh3wu58E"
+      "duration_ms": 144160,
+      "name": "Painkiller",
+      "url": "https://open.spotify.com/track/2aEqEiwun5jNzh0fnkBBIc"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Painkiller",
-        "url": "https://open.spotify.com/album/0IaCkrFp4j5trgWJLjR8XI"
+        "name": "A Bowl of Unripe Fruit",
+        "url": "https://open.spotify.com/album/1sTbqsjJft5XrgnGRN2Y05"
       },
       "artists": [
         {
-          "name": "Joselin",
-          "url": "https://open.spotify.com/artist/6QGSO53ZvBWWNInDC2anMt"
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
         }
       ],
-      "duration_ms": 144160,
-      "name": "Painkiller",
-      "url": "https://open.spotify.com/track/2aEqEiwun5jNzh0fnkBBIc"
+      "duration_ms": 139429,
+      "name": "Tennis",
+      "url": "https://open.spotify.com/track/5HjMrOB5mWB8F8Uh3wu58E"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1159,6 +1159,38 @@
       "duration_ms": 192813,
       "name": "Begrava dig",
       "url": "https://open.spotify.com/track/75w415l2DWr3SwGMEreFpS"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/4tte71gCL4dpijvIR6U3ab"
+      },
+      "artists": [
+        {
+          "name": "Ella Tiritiello",
+          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
+        }
+      ],
+      "duration_ms": 196747,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/0wZjnMwbyuDvHzvEa6Gjh8"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "I Wish I Was Someone Else",
+        "url": "https://open.spotify.com/album/2WDIji6iAg59CxqdOyEOyz"
+      },
+      "artists": [
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "duration_ms": 192078,
+      "name": "Summer Of 99",
+      "url": "https://open.spotify.com/track/5bHESPEBM1vvWeES2cVYSf"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1215,38 +1247,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Younger",
-        "url": "https://open.spotify.com/album/4tte71gCL4dpijvIR6U3ab"
-      },
-      "artists": [
-        {
-          "name": "Ella Tiritiello",
-          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
-        }
-      ],
-      "duration_ms": 196747,
-      "name": "Younger",
-      "url": "https://open.spotify.com/track/0wZjnMwbyuDvHzvEa6Gjh8"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "I Wish I Was Someone Else",
-        "url": "https://open.spotify.com/album/2WDIji6iAg59CxqdOyEOyz"
-      },
-      "artists": [
-        {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
-        }
-      ],
-      "duration_ms": 192078,
-      "name": "Summer Of 99",
-      "url": "https://open.spotify.com/track/5bHESPEBM1vvWeES2cVYSf"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Maria Magdalena",
         "url": "https://open.spotify.com/album/0oipNzN6TMnk2JLydkSw3e"
       },
@@ -1283,6 +1283,22 @@
       "duration_ms": 166289,
       "name": "Ruta Noll",
       "url": "https://open.spotify.com/track/6sl4osOhY4Phx4tCsdj9Yn"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "I Wish I Was Someone Else",
+        "url": "https://open.spotify.com/album/2WDIji6iAg59CxqdOyEOyz"
+      },
+      "artists": [
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "duration_ms": 173434,
+      "name": "I Wish I Was Someone Else",
+      "url": "https://open.spotify.com/track/3m5tZaadIfIGzc25Q2QiNV"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1339,22 +1355,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "I Wish I Was Someone Else",
-        "url": "https://open.spotify.com/album/2WDIji6iAg59CxqdOyEOyz"
-      },
-      "artists": [
-        {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
-        }
-      ],
-      "duration_ms": 173434,
-      "name": "I Wish I Was Someone Else",
-      "url": "https://open.spotify.com/track/3m5tZaadIfIGzc25Q2QiNV"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Third strike",
         "url": "https://open.spotify.com/album/7h303GqBrFucrhaLiOSmzG"
       },
@@ -1367,22 +1367,6 @@
       "duration_ms": 187106,
       "name": "Third strike",
       "url": "https://open.spotify.com/track/5lXZPdOi7mGABQPEKJ8qG5"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "Losing a Friend",
-        "url": "https://open.spotify.com/album/3UXK8j03CixeaM1LBXJcfs"
-      },
-      "artists": [
-        {
-          "name": "Nea",
-          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
-        }
-      ],
-      "duration_ms": 194900,
-      "name": "Losing a Friend",
-      "url": "https://open.spotify.com/track/2fhxyW8DpS4rWmt5DwdOmy"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1403,6 +1387,22 @@
       "duration_ms": 256548,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/74rGeSKxOyoPlty2caAMFA"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Losing a Friend",
+        "url": "https://open.spotify.com/album/3UXK8j03CixeaM1LBXJcfs"
+      },
+      "artists": [
+        {
+          "name": "Nea",
+          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
+        }
+      ],
+      "duration_ms": 194900,
+      "name": "Losing a Friend",
+      "url": "https://open.spotify.com/track/2fhxyW8DpS4rWmt5DwdOmy"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "H\u00e5ll k\u00e4ften & kyss mig",
-        "url": "https://open.spotify.com/album/73LAHo5UidIZAG3rzX8AIs"
+        "name": "Tusen & en natt",
+        "url": "https://open.spotify.com/album/3rJlT9m1LM7qYXQ1DPXs50"
       },
       "artists": [
         {
-          "name": "TOM",
-          "url": "https://open.spotify.com/artist/0gPruf4W31bIYymey2AwCH"
+          "name": "Teck Noir",
+          "url": "https://open.spotify.com/artist/38YJI7lbvZiO9nvcjHqUtE"
         }
       ],
-      "duration_ms": 162580,
-      "name": "H\u00e5ll k\u00e4ften & kyss mig",
-      "url": "https://open.spotify.com/track/35Hsn6Nw8odFT7ujdsr3sA"
+      "duration_ms": 160000,
+      "name": "Tusen & en natt",
+      "url": "https://open.spotify.com/track/5PXSHIjTloXZr7Aw6BM0zC"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Tusen & en natt",
-        "url": "https://open.spotify.com/album/3rJlT9m1LM7qYXQ1DPXs50"
+        "name": "H\u00e5ll k\u00e4ften & kyss mig",
+        "url": "https://open.spotify.com/album/73LAHo5UidIZAG3rzX8AIs"
       },
       "artists": [
         {
-          "name": "Teck Noir",
-          "url": "https://open.spotify.com/artist/38YJI7lbvZiO9nvcjHqUtE"
+          "name": "TOM",
+          "url": "https://open.spotify.com/artist/0gPruf4W31bIYymey2AwCH"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Tusen & en natt",
-      "url": "https://open.spotify.com/track/5PXSHIjTloXZr7Aw6BM0zC"
+      "duration_ms": 162580,
+      "name": "H\u00e5ll k\u00e4ften & kyss mig",
+      "url": "https://open.spotify.com/track/35Hsn6Nw8odFT7ujdsr3sA"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "TRENCH",
-        "url": "https://open.spotify.com/album/1nKbVqSp1GqpI3ggyihitK"
+        "name": "Breathe Again",
+        "url": "https://open.spotify.com/album/5MdkLIp37fgixyvqXYSAvY"
       },
       "artists": [
         {
-          "name": "Elliphant",
-          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
+          "name": "LIN D",
+          "url": "https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr"
         }
       ],
-      "duration_ms": 193777,
-      "name": "TRENCH",
-      "url": "https://open.spotify.com/track/3eYJ0WYNccALQAYoTZyidU"
+      "duration_ms": 171354,
+      "name": "Breathe Again",
+      "url": "https://open.spotify.com/track/4pfcOpCfM8qPm9DNwpkSwl"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Breathe Again",
-        "url": "https://open.spotify.com/album/5MdkLIp37fgixyvqXYSAvY"
+        "name": "TRENCH",
+        "url": "https://open.spotify.com/album/1nKbVqSp1GqpI3ggyihitK"
       },
       "artists": [
         {
-          "name": "LIN D",
-          "url": "https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr"
+          "name": "Elliphant",
+          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
         }
       ],
-      "duration_ms": 171354,
-      "name": "Breathe Again",
-      "url": "https://open.spotify.com/track/4pfcOpCfM8qPm9DNwpkSwl"
+      "duration_ms": 193777,
+      "name": "TRENCH",
+      "url": "https://open.spotify.com/track/3eYJ0WYNccALQAYoTZyidU"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Du har fel",
-        "url": "https://open.spotify.com/album/5rcfdNQJA0jQTlN5xd2IgH"
+        "name": "Ocean In Me",
+        "url": "https://open.spotify.com/album/02lUjkyXOvzAEoRUmrkXBg"
       },
       "artists": [
         {
-          "name": "Bj\u00f6rn Holmgren",
-          "url": "https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F"
+          "name": "sixten",
+          "url": "https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF"
         }
       ],
-      "duration_ms": 164155,
-      "name": "Du har fel",
-      "url": "https://open.spotify.com/track/396xDoQ53JLaRv9MvIr7Ge"
+      "duration_ms": 178000,
+      "name": "Ocean In Me",
+      "url": "https://open.spotify.com/track/5gW2cExcvFhma0Eb9ROVVp"
     }
   ],
   "unique_name": "Made in Sweden",

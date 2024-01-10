@@ -4,7 +4,7 @@
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-261 songs - 16 hr 25 min
+262 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,8 @@
 | [楓](https://open.spotify.com/track/73xYYths9kvmFvYsd9gC9Z) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [CYCLE HIT 1997\-2005 Spitz Complete Single Collection](https://open.spotify.com/album/6GIlUDPdLxPLpPfVJvIwgJ) | 5:24 | 2021-11-19 | 2022-06-17 |
 | [白昼夢](https://open.spotify.com/track/2IYtrfX0s3Wgm3thc0jCYH) | [深根](https://open.spotify.com/artist/5wCs789dq9VkEJAdTxlFlt) | [白昼夢](https://open.spotify.com/album/3LNHJ3ZReYcdf187yIi3uE) | 3:45 | 2021-11-19 | 2022-07-29 |
 | [糸](https://open.spotify.com/track/3HUpfIdFGQ02XlDp1f2F8t) | [Bank Band](https://open.spotify.com/artist/5kbHObZlWoViBhC3p4EvZo) | [沿志奏逢](https://open.spotify.com/album/4R14tXqrX3Vl7qJfouSshx) | 4:44 | 2021-11-19 |  |
-| [說好不哭](https://open.spotify.com/track/77BQceOpfvUBXgokOFHYMm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 3:40 | 2022-06-16 |  |
+| [說好不哭](https://open.spotify.com/track/52yAKumXlqPjUsIBlmiMvo) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [最偉大的作品](https://open.spotify.com/album/4stTYRQWkrNj9BOJCwuXUT) | 3:40 | 2022-10-17 |  |
+| [說好不哭](https://open.spotify.com/track/77BQceOpfvUBXgokOFHYMm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 3:40 | 2022-06-16 | 2024-01-10 |
 | [說好不哭](https://open.spotify.com/track/3JBhAAnxUDssrBQC9DUT99) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [說好不哭](https://open.spotify.com/album/7iCi34kBpXKyBcx03AXXDw) | 3:42 | 2021-11-19 | 2022-07-29 |
 | [사랑의인사](https://open.spotify.com/track/1E1G4Uj8kmiW9jlJ7uByxy) | [적재](https://open.spotify.com/artist/4wP35nFKx9S9YVSbnteuOd) | [투유프로젝트 \- Sugar Man3 Episode.11](https://open.spotify.com/album/7s8lSV6GRhbnQ8Oau9YTQB) | 5:07 | 2022-10-17 |  |
 | [어쩌면 이유가 필요한 밤 Night Within You](https://open.spotify.com/track/5aFiyx6DOsrvOUnsrcFb84) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [어쩌면 이유가 필요한 밤 Night Within You](https://open.spotify.com/album/42fnXlrZaKXIc9lzWI6B1V) | 4:14 | 2022-10-17 |  |

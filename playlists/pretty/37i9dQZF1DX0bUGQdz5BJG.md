@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Brittney Spencer
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,540 likes - 200 songs - 10 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,527 likes - 200 songs - 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -186,7 +186,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 176 | [Last Fall](https://open.spotify.com/track/17EdWmpQM7VMrJaYA7BJi3) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Last Fall](https://open.spotify.com/album/746cIlVvOicxEAG96F4ZPW) | 3:45 |
 | 177 | [Blue](https://open.spotify.com/track/4fG5UGO6cIpluhccTLelmQ) | [QUEEVA](https://open.spotify.com/artist/7BDSrECxsc6RyFL2qFkomJ) | [Blue](https://open.spotify.com/album/5Jvs6ud5gA0gLjxfJtYzCY) | 3:27 |
 | 178 | [Happy Heavenly](https://open.spotify.com/track/1Rp8Fkahs6DwOZIwjcdfpW) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Happy Heavenly](https://open.spotify.com/album/5QZbZSQTJGVt5gQ9kyy8nG) | 3:00 |
-| 179 | [Miss Summer](https://open.spotify.com/track/402L1iawY3D4ZQjPiHT38e) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Miss Summer](https://open.spotify.com/album/5txjDzcOmllhkmG4KUjFYi) | 2:30 |
+| 179 | [Miss Summer](https://open.spotify.com/track/402L1iawY3D4ZQjPiHT38e) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Miss Summer](https://open.spotify.com/album/5txjDzcOmllhkmG4KUjFYi) | 2:31 |
 | 180 | [Homewrecker](https://open.spotify.com/track/3bkMUT8XtL8doLb0SC46li) | [Remy Garrison](https://open.spotify.com/artist/3sgAiri5AHS9UmXrfiUQjV) | [Homewrecker](https://open.spotify.com/album/0p5Ca0glP0QgPybIompPEJ) | 2:39 |
 | 181 | [Coffee With You](https://open.spotify.com/track/4d7liYeUlqk4wyWasJunZp) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [Coffee With You](https://open.spotify.com/album/48wXki9TPYsiHvM81jZ1VF) | 3:27 |
 | 182 | [Grief is Only Love](https://open.spotify.com/track/3ahuBtIP8Hh1n5L8jUUzXD) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [søn of dad](https://open.spotify.com/album/1yoC2Wq50qymZj5HyF2z2A) | 4:25 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 199 | [Ain’t Thinkin’ Bout You](https://open.spotify.com/track/7dmA9608TJjycVFNBeLtQZ) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [Ain’t Thinkin’ Bout You](https://open.spotify.com/album/5uiGWVQ4E7oDrfUKkpb3Fj) | 2:30 |
 | 200 | [Sober Thing](https://open.spotify.com/track/6seAvadjjutVTkggYOh1to) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Sober Thing](https://open.spotify.com/album/6EY0avx8oulWJ9vSOB3oUZ) | 4:32 |
 
-Snapshot ID: `MCxlMzRlYjY2ZGIyYjAyODgyMmY1NGFiMGNjMGY4ZjIyNGM4NmUyNTMx`
+Snapshot ID: `MCw2YTlhZTIyMGU2OGJmZjVkZjQwODY3NjQ2NjY1MWNkYmU4NzEyZmJh`

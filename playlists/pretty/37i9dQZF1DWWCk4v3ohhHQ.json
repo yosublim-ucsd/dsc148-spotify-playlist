@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2010s. Cover: Coldplay.",
-  "num_followers": 196373,
+  "num_followers": 196461,
   "original_name": "10s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjNiOGMyYzM0NWYzOTYyNTg3ZTAwOTU4ZDJkMzNiM2NiM2YwMDYw",
+  "snapshot_id": "MCw4ZDJmZDVlYTNlYTYzYjU3OGNhOGNkN2EyOGIzNzgwNzdmN2NmMzY3",
   "tracks": [
     {
       "added_at": "2022-11-17 15:48:46",
@@ -363,18 +363,22 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "Paramore",
-        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
       },
       "artists": [
         {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+          "name": "fun.",
+          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+        },
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
         }
       ],
-      "duration_ms": 296520,
-      "name": "Ain't It Fun",
-      "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
+      "duration_ms": 250626,
+      "name": "We Are Young (feat. Janelle Mon\u00e1e)",
+      "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -411,22 +415,18 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "Some Nights",
-        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
+        "name": "Paramore",
+        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
       },
       "artists": [
         {
-          "name": "fun.",
-          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
-        },
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 250626,
-      "name": "We Are Young (feat. Janelle Mon\u00e1e)",
-      "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
+      "duration_ms": 296520,
+      "name": "Ain't It Fun",
+      "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
     },
     {
       "added_at": "2022-11-17 15:48:46",

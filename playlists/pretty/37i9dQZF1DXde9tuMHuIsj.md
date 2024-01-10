@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: YOVNGCHIMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,517,437 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,514,737 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 35 | [RoCKSTAR 2.0](https://open.spotify.com/track/4xUtTQuVT6UBF76SPsgOsr) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [RoCKSTAR 2.0](https://open.spotify.com/album/0iBp9wWy4m2MqwOQlponWD) | 2:53 |
 | 36 | [Los Que Son](https://open.spotify.com/track/0drasydwJPcgoLLDXFSMs6) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Los Que Son](https://open.spotify.com/album/15gBPq4jfgreZB7CqnIj0n) | 3:15 |
 | 37 | [Glizzy Walk 2.5](https://open.spotify.com/track/3O6dtQDB3MTYFPxlXn7zww) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Glizzy Walk 2.5](https://open.spotify.com/album/65ebh116sDPSsxm2eXExyK) | 3:44 |
-| 38 | [Medusa](https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Medusa](https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn) | 5:05 |
+| 38 | [On Fleek](https://open.spotify.com/track/6plOBNhg7WOoCdtLGAGp43) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [On Fleek](https://open.spotify.com/album/5gbiHT2MGOPDFB5itrI2mG) | 4:37 |
 | 39 | [Single](https://open.spotify.com/track/7cBSPzz0kNgc1ghLddrDxZ) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Single](https://open.spotify.com/album/1lfjZUYySyfNnrpntQHVYW) | 2:58 |
-| 40 | [On Fleek](https://open.spotify.com/track/6plOBNhg7WOoCdtLGAGp43) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [On Fleek](https://open.spotify.com/album/5gbiHT2MGOPDFB5itrI2mG) | 4:37 |
+| 40 | [Medusa](https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Medusa](https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn) | 5:05 |
 | 41 | [La Ruta](https://open.spotify.com/track/7D8tKs61tdzzDdG9w6kdu4) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Sr\. Santos](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:04 |
 | 42 | [MÍRENME AHORA](https://open.spotify.com/track/1QigNNcv8c5X2iL294bZev) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 3:07 |
 | 43 | [hARAkiRi](https://open.spotify.com/track/4m0ypZ1c1l0WulMk3fkVA0) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [hARAkiRi](https://open.spotify.com/album/6jJL6sH7cT8f2kDYPI4N5D) | 2:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 99 | [Gang Affiliated](https://open.spotify.com/track/6CowfoUU9CHy8oikWW0FYa) | [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn) | [Gang Affiliated](https://open.spotify.com/album/2G2ee9kBGHYeydVSKFMAUY) | 3:00 |
 | 100 | [Conexiones](https://open.spotify.com/track/5ILe0JkahOZAZBiFJEDpMh) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Conexiones](https://open.spotify.com/album/5HcTCJlDxmXOaQ5IPaDBKz) | 3:21 |
 
-Snapshot ID: `MCxkMDMyZWJmNTQyYTQ0ZTczMTlhNGMzYzk3ZTU3OWI3YWRhNmZiZjZl`
+Snapshot ID: `MCw0NGYxZjI1NjNmYWQ4Yzc0ZmMzNDhiMGY1NGY3YTUwMzQxMWMzY2Qz`

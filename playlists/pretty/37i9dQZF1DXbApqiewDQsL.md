@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The songs and collaborations pushing the Mexican sound to a global level\. Cover: Oscar Maydon & Tyga
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,213 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,231 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 79 | [¿Cuáles Fronteras?](https://open.spotify.com/track/4qgHbVa7Zo8S3bIQvvD99s) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [¿Cuáles Fronteras?](https://open.spotify.com/album/5lQ2Fyn2SW8Qe2FpTpikKn) | 3:00 |
 | 80 | [Tranquilito \- Remix](https://open.spotify.com/track/1nUj6NRv9nq9pEIdl6ZOoc) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Tranquilito \(Remix\)](https://open.spotify.com/album/5nBGRd7waHG9FKOab6nsGc) | 3:40 |
 
-Snapshot ID: `MCxkMDZiYTE5YzA5M2QyYTNlNTMwYjhlYjI4YTE5YjI5M2VkZDljOGJi`
+Snapshot ID: `MCxmOWRjOWYwNzU0NDM0NTUyNzU4ODc4OWYwMWU1Njg4Nzg5YjhmNmFm`

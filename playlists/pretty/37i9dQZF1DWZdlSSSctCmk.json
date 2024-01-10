@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 115970,
+  "num_followers": 115998,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjc3OGEzNjM1OTM5YTNjZDA4YTkxZDk0NzMzNzU4NmE1MzYxNmRi",
+  "snapshot_id": "MCw3YTA2NGUzZTMxOTYzYTAyOGIwYzFiOWZkYWY5Y2IyM2Y3YmNkODI0",
   "tracks": [
     {
       "added_at": "2023-07-14 11:01:37",
@@ -347,18 +347,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Politics",
-        "url": "https://open.spotify.com/album/05MRLgXFBdHFMww01vbvWY"
+        "name": "Texas Sun",
+        "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
       "artists": [
         {
-          "name": "S\u00e9bastien Tellier",
-          "url": "https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 454480,
-      "name": "La ritournelle",
-      "url": "https://open.spotify.com/track/0qG1teoBvooRo7Z5Z8edCk"
+      "duration_ms": 283406,
+      "name": "C-Side",
+      "url": "https://open.spotify.com/track/1uKXFp5BcdHf7grmjIDQLF"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -379,22 +383,18 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Texas Sun",
-        "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
+        "name": "Politics",
+        "url": "https://open.spotify.com/album/05MRLgXFBdHFMww01vbvWY"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "S\u00e9bastien Tellier",
+          "url": "https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z"
         }
       ],
-      "duration_ms": 283406,
-      "name": "C-Side",
-      "url": "https://open.spotify.com/track/1uKXFp5BcdHf7grmjIDQLF"
+      "duration_ms": 454480,
+      "name": "La ritournelle",
+      "url": "https://open.spotify.com/track/0qG1teoBvooRo7Z5Z8edCk"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "A Journey to You",
-        "url": "https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm"
-      },
-      "artists": [
-        {
-          "name": "Melodiesinfonie",
-          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
-        }
-      ],
-      "duration_ms": 274285,
-      "name": "AO Longo Do Rio",
-      "url": "https://open.spotify.com/track/0jhKhgnjOWDtOTKxyPi1ZC"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Suddenly",
         "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 243946,
       "name": "You and I",
       "url": "https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "A Journey to You",
+        "url": "https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm"
+      },
+      "artists": [
+        {
+          "name": "Melodiesinfonie",
+          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
+        }
+      ],
+      "duration_ms": 274285,
+      "name": "AO Longo Do Rio",
+      "url": "https://open.spotify.com/track/0jhKhgnjOWDtOTKxyPi1ZC"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Pina Colada (And Other Early Tunes)",
-        "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
-      },
-      "artists": [
-        {
-          "name": "Digby Jones",
-          "url": "https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU"
-        }
-      ],
-      "duration_ms": 359586,
-      "name": "Under the Sea",
-      "url": "https://open.spotify.com/track/6LGrEXeLdxgY5zuvJ6S89I"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Flashlight EP",
         "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 302542,
       "name": "Return to Air",
       "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Pina Colada (And Other Early Tunes)",
+        "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
+      },
+      "artists": [
+        {
+          "name": "Digby Jones",
+          "url": "https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU"
+        }
+      ],
+      "duration_ms": 359586,
+      "name": "Under the Sea",
+      "url": "https://open.spotify.com/track/6LGrEXeLdxgY5zuvJ6S89I"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/7HY0aAzDNhAqmFHATtABPY"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert",
-          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
-        }
-      ],
-      "duration_ms": 311413,
-      "name": "Rotation",
-      "url": "https://open.spotify.com/track/7GIqNe7yFg06vUI0WyEzqZ"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Camino Del Sol",
         "url": "https://open.spotify.com/album/1Sk3WFAves0pZ4Mfj4HtI1"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 222680,
       "name": "Camino Del Sol",
       "url": "https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/7HY0aAzDNhAqmFHATtABPY"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+        }
+      ],
+      "duration_ms": 311413,
+      "name": "Rotation",
+      "url": "https://open.spotify.com/track/7GIqNe7yFg06vUI0WyEzqZ"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Aguia N\u00e3o Come Mosca (Remasterizado)",
-        "url": "https://open.spotify.com/album/1aOhU6zQmczFNUE8JKO0Cv"
-      },
-      "artists": [
-        {
-          "name": "Azymuth",
-          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
-        }
-      ],
-      "duration_ms": 220546,
-      "name": "V\u00f4o sobre o horizonte",
-      "url": "https://open.spotify.com/track/1hlikalamWYpdmg3OhfFJ1"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Quiet Night",
         "url": "https://open.spotify.com/album/3qrdALmql8njlLqI0Ek4ep"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 212000,
       "name": "Quiet Night",
       "url": "https://open.spotify.com/track/37uDjCFbCIj8Doz8NMyiHT"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Aguia N\u00e3o Come Mosca (Remasterizado)",
+        "url": "https://open.spotify.com/album/1aOhU6zQmczFNUE8JKO0Cv"
+      },
+      "artists": [
+        {
+          "name": "Azymuth",
+          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "V\u00f4o sobre o horizonte",
+      "url": "https://open.spotify.com/track/1hlikalamWYpdmg3OhfFJ1"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1407,6 +1407,26 @@
       "duration_ms": 225489,
       "name": "Montara",
       "url": "https://open.spotify.com/track/49VM3vCQBFr1wJJw7xByGf"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Tiefer",
+        "url": "https://open.spotify.com/album/3SLo0Ps3JXHBGlB5iDCK14"
+      },
+      "artists": [
+        {
+          "name": "Boozoo Bajou",
+          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
+        },
+        {
+          "name": "JULES",
+          "url": "https://open.spotify.com/artist/2UV5R1AFHqW9acWXaGba68"
+        }
+      ],
+      "duration_ms": 214014,
+      "name": "Tiefer",
+      "url": "https://open.spotify.com/track/6viySkKsEuxhiNSMW1nOIe"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1447,42 +1467,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Tiefer",
-        "url": "https://open.spotify.com/album/3SLo0Ps3JXHBGlB5iDCK14"
-      },
-      "artists": [
-        {
-          "name": "Boozoo Bajou",
-          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
-        },
-        {
-          "name": "JULES",
-          "url": "https://open.spotify.com/artist/2UV5R1AFHqW9acWXaGba68"
-        }
-      ],
-      "duration_ms": 214014,
-      "name": "Tiefer",
-      "url": "https://open.spotify.com/track/6viySkKsEuxhiNSMW1nOIe"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Pina Colada (And Other Early Tunes)",
-        "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
-      },
-      "artists": [
-        {
-          "name": "Digby Jones",
-          "url": "https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU"
-        }
-      ],
-      "duration_ms": 366946,
-      "name": "Pina Colada (Jazz Mix)",
-      "url": "https://open.spotify.com/track/4ygxOijRQ07KUiYvaRdBQv"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "All Inclusive",
         "url": "https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 228897,
       "name": "Gated Area",
       "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Pina Colada (And Other Early Tunes)",
+        "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
+      },
+      "artists": [
+        {
+          "name": "Digby Jones",
+          "url": "https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU"
+        }
+      ],
+      "duration_ms": 366946,
+      "name": "Pina Colada (Jazz Mix)",
+      "url": "https://open.spotify.com/track/4ygxOijRQ07KUiYvaRdBQv"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "The Works",
-        "url": "https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn"
-      },
-      "artists": [
-        {
-          "name": "Chris Rea",
-          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
-        }
-      ],
-      "duration_ms": 428234,
-      "name": "Josephine - French Edit",
-      "url": "https://open.spotify.com/track/34SVJolkVb1gdfv4wNdrGh"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "D\u00e9epalma Ibiza 2023 - 10th Anniversary",
         "url": "https://open.spotify.com/album/6oqOdRBJ8KZFcAJusUNKWs"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 377849,
       "name": "Starz - Original Mix",
       "url": "https://open.spotify.com/track/2aMJ48BAhYKxwsVBNd0kgR"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "The Works",
+        "url": "https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn"
+      },
+      "artists": [
+        {
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+        }
+      ],
+      "duration_ms": 428234,
+      "name": "Josephine - French Edit",
+      "url": "https://open.spotify.com/track/34SVJolkVb1gdfv4wNdrGh"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "10.000 Hours",
-        "url": "https://open.spotify.com/album/0ha8DYzt39EzBddFCwzPGr"
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q"
       },
       "artists": [
         {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+          "name": "Gaussian Curve",
+          "url": "https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G"
         }
       ],
-      "duration_ms": 267697,
-      "name": "House in the Hills",
-      "url": "https://open.spotify.com/track/1QIdwf7rpK52EohMniSmXQ"
+      "duration_ms": 448352,
+      "name": "Impossible Island",
+      "url": "https://open.spotify.com/track/312f1c2NbtQKam65h7Mq39"
     }
   ],
   "unique_name": "Balearic Beats",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 
 > ¡Lleva el folclore de México a donde sea!
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,839 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,716 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 56 | [Las perlitas](https://open.spotify.com/track/48bS8GnQrZuDSPP8CdMxis) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi from Mexico](https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM) | 2:56 |
 | 57 | [Alejandra](https://open.spotify.com/track/1wZGZOgoKofwwHC633FDPI) | [NMR Digital](https://open.spotify.com/artist/442IRNWLgO6H9bvlsI3arN) | [México a Través de Su Música, Vol\. 2](https://open.spotify.com/album/3n1tF3hpO0VckyHjALFjKf) | 3:30 |
 | 58 | [La Guanabana](https://open.spotify.com/track/6rQ5F4fejMdINw6erjQLpg) | [Son De Madera](https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme) | [Son De Madera](https://open.spotify.com/album/7eyjUckkV8ZrnhCDmPWGnn) | 6:00 |
-| 59 | [Flor de México](https://open.spotify.com/track/5OU5AciVr7rUp4ivpD8cGL) | [Eulalio Armas y Sus Salterios](https://open.spotify.com/artist/50CIA4c4C7laQYcNPLcnnn) | [El Salterio](https://open.spotify.com/album/057lLhyTreLeqRN9k1s1q8) | 2:04 |
-| 60 | [La Borrachita](https://open.spotify.com/track/26jrFuCeLU19arOmvLoiRa) | [Tata Nacho](https://open.spotify.com/artist/0dv1UQK0dV7q3vwa9jr97w), [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [La Gran Colección del 60 Aniversario CBS \- Antonio Bribiesca](https://open.spotify.com/album/2rDD8JqC6Id1hmr0JI4hDA) | 3:07 |
+| 59 | [La Borrachita](https://open.spotify.com/track/26jrFuCeLU19arOmvLoiRa) | [Tata Nacho](https://open.spotify.com/artist/0dv1UQK0dV7q3vwa9jr97w), [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [La Gran Colección del 60 Aniversario CBS \- Antonio Bribiesca](https://open.spotify.com/album/2rDD8JqC6Id1hmr0JI4hDA) | 3:07 |
+| 60 | [Flor de México](https://open.spotify.com/track/5OU5AciVr7rUp4ivpD8cGL) | [Eulalio Armas y Sus Salterios](https://open.spotify.com/artist/50CIA4c4C7laQYcNPLcnnn) | [El Salterio](https://open.spotify.com/album/057lLhyTreLeqRN9k1s1q8) | 2:04 |
 | 61 | [La Gallina](https://open.spotify.com/track/1fyuoGft4mq0XPi2cGFYRB) | [Chuchumbé](https://open.spotify.com/artist/6ASRzKH8Qng1IKTkNvYDEB) | [¡caramba Niño!](https://open.spotify.com/album/37UxRdiQJKRefqLLcLqJWC) | 6:37 |
 | 62 | [Ra Bacheeza](https://open.spotify.com/track/4Sd88qilKkAOg2T7H1kOZd) | [Binni Gula'za](https://open.spotify.com/artist/3I4riJnB4ocVXloGzky7lq) | [La Tortuga, Sones Istmeños](https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE) | 3:08 |
 | 63 | [La Herlinda](https://open.spotify.com/track/6iOHL0IaRWiynHxNrQMTbn) | [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [No Tiene Fin](https://open.spotify.com/album/5TAAs1zOW4ZOywhXYWD5Ox) | 5:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 99 | [La Virgen de la Macarena](https://open.spotify.com/track/0NgGwoMrsVIYEfU1P2G9qL) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi from Mexico](https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM) | 3:51 |
 | 100 | [La Bamba](https://open.spotify.com/track/1oDbPrTemDs4joED2sUEJP) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [The Best of Mexico](https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM) | 2:47 |
 
-Snapshot ID: `MCw3NzA0MmY4OTA2NjcxZGE1M2Y0YTliNzU0OTA4YjI5ZGZiNjQ0MTMy`
+Snapshot ID: `MCw5OWUxNTFjN2M0ODVmMDI3NDI0ODBkMmM2MzEyMDRmN2Y0ZDZlNDFm`

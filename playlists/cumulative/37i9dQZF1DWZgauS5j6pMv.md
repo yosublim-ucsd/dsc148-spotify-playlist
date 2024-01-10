@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Kossisko
 
-367 songs - 21 hr 39 min
+368 songs - 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,8 @@
 | [God Made Me Funky](https://open.spotify.com/track/03k2IK5lwpXBHIUVadERaN) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Headnodic](https://open.spotify.com/artist/7LB0RfmtjwsMFr5OW3H0r3), [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T), [Crystal Monee Hall](https://open.spotify.com/artist/2ARv20TnKCGhf3MCBBGKGY), [Wil Blades](https://open.spotify.com/artist/6HLIDmXT3eehC2JNmMnerV), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Colin Hogan](https://open.spotify.com/artist/427GXhbmgjZ3W23hCzZMuB) | [God Made Me Funky](https://open.spotify.com/album/3Jo1vXDO4TFhKVsGDdfZnQ) | 3:15 | 2022-04-01 | 2023-04-01 |
 | [Goddam \- Action Paxton Remix](https://open.spotify.com/track/6v1Zd8skfPZQlnvthw8aIS) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Action Paxton](https://open.spotify.com/artist/7cjO66A26r7pMsU6TlW2UZ), [Olivia Ruff](https://open.spotify.com/artist/3O1CAgZV8ApmbL09LcNBr8), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Brasstronix](https://open.spotify.com/artist/66nvszvZCPMR1Em1wfZwe2) | [Goddam \(Action Paxton Remix\)](https://open.spotify.com/album/5Jez6tgeNcRHVeZLvyAF14) | 4:33 | 2023-03-24 | 2023-06-17 |
 | [Golden Limousine](https://open.spotify.com/track/2HpWy9P6ZXXWVOsJYMXKQ2) | [Golden Dawn Arkestra](https://open.spotify.com/artist/7b0pvMSrnBWY6s6DA00YMK) | [Golden Limousine](https://open.spotify.com/album/6hQKaMdKjJBW8GXATUl5mt) | 2:50 | 2022-04-08 | 2023-05-06 |
-| [Good Love](https://open.spotify.com/track/65zNYzgkRthLtLVTVhLz4P) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [Good Love](https://open.spotify.com/album/0NNE3o9iAtAsHYbxxmME78) | 4:49 | 2023-08-25 |  |
+| [Good Love](https://open.spotify.com/track/0Tz0QSj60jGd6liWezWmEW) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [Good Love](https://open.spotify.com/album/3BwkJpkYkCYNBlW2TNFu1w) | 4:49 | 2023-08-25 |  |
+| [Good Love](https://open.spotify.com/track/65zNYzgkRthLtLVTVhLz4P) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [Good Love](https://open.spotify.com/album/0NNE3o9iAtAsHYbxxmME78) | 4:49 | 2023-08-25 | 2024-01-10 |
 | [Good Love](https://open.spotify.com/track/4pfEs1kebSz7coMT9EhfoG) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [Good Love](https://open.spotify.com/album/6644XhPFkGMwMcXeRsj8QL) | 3:09 | 2021-06-04 | 2022-08-13 |
 | [GOODTIME](https://open.spotify.com/track/0Cz1CWsDSgGMbHZykVO5ei) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5) | [GOODTIME](https://open.spotify.com/album/6MHZpDk5kHnqLBXla2znoS) | 3:42 | 2022-06-03 | 2023-05-04 |
 | [Goodtime](https://open.spotify.com/track/34nfyP7ueTwzo08p1ALm31) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5) | [Goodtime](https://open.spotify.com/album/7mDDcLEWTPayHYopYr9cdl) | 3:42 | 2022-06-03 | 2023-06-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Suspect CB
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,562 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,415 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [MALOCCHIO \#2](https://open.spotify.com/track/4vDBHRi45xgWOcljwWhlzA) | [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka) | [MALOCCHIO \#2](https://open.spotify.com/album/5e7KwebaX0y3BEZBHoq41T) | 1:33 |
 | 50 | [FACE ID](https://open.spotify.com/track/6fGoyDw3Wq5zRPr4KJVvrU) | [Lokita](https://open.spotify.com/artist/0qkSFtzIwfHhZhTaFGXfxp) | [FACE ID](https://open.spotify.com/album/1GgiWqTF0F7tWO0ZWCPfH4) | 2:33 |
 
-Snapshot ID: `MCxjNmQ1YzAyNTQyNDRmNDJkNzAxZDUyNTVmMDgwYWQ1ZDQ2ZWYwNjM4`
+Snapshot ID: `MCxlNzdmZTc1Y2I3OWU0NmU3NzFlYmMyODM0YjVjMTJlYzc1NTVkNGNh`

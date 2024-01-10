@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: 乃紫
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,763 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,786 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [Japanese Cafe](https://open.spotify.com/track/20cZPbzQ9wqxWfMDWn0vPo) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Japanese Cafe](https://open.spotify.com/album/1fXTNCdCXszXaKvPW1PhO4) | 2:40 |
 | 100 | [One Of Your Girls \- Dillon Francis Remix](https://open.spotify.com/track/4kVzPy6R3OtkhKQQtlVsKw) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [One Of Your Girls \(Dillon Francis Remix\)](https://open.spotify.com/album/4WlmuRoySkHFgG2AiIet1H) | 2:18 |
 
-Snapshot ID: `MCxhNWNjMGRiM2M2YjBlM2EyNjU3ODJjMjY0NmE0ZTVjNmM0MThkM2Mw`
+Snapshot ID: `MCwxMTViOTVjMDhiNzBlMTg1NjhmYzZjNjE5YjYzMWFlYjYxODVkZTI5`

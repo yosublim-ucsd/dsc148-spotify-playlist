@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > Our picks for the best global hip\-hop songs this year\. Cover: Central Cee & Dave
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,544 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,779 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 26 | [Feeling Myself](https://open.spotify.com/track/7tl3Dr9Bzee4AJRsBiK3KB) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [TJUGI23](https://open.spotify.com/album/5J8dRxQwNyJdrvNlNY6NMg) | 3:02 |
 | 27 | [Taulut \(feat\. Costi\)](https://open.spotify.com/track/150cifhtXjdhDdr07scSVG) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ), [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Taulut \(feat\. Costi\)](https://open.spotify.com/album/7iOPxPm0nJsc5lHX3fBg6F) | 3:17 |
 | 28 | [MBAPPÉ \(feat\. KAHUKX\)](https://open.spotify.com/track/69ECulmgzH6xt9pZH7bIYz) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [MBAPPÉ \(feat\. KAHUKX\)](https://open.spotify.com/album/0kQpqZ5BSPyA2JF6payfYS) | 2:53 |
-| 29 | [G63](https://open.spotify.com/track/3iGLZavFFEdLHOEWANcQiF) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [G63](https://open.spotify.com/album/0pB9N7JNV5TLGse7UUVXA0) | 2:42 |
+| 29 | [G63](https://open.spotify.com/track/3hjAxYipqWlqBqBdrQXEU5) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:42 |
 | 30 | [And We](https://open.spotify.com/track/2bKnka3kbhgqGb4pCHPmYl) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [And We](https://open.spotify.com/album/1LsthOymdj0WByKPShsB3W) | 2:41 |
 | 31 | [Hold Out](https://open.spotify.com/track/4E2wIuFOblfmOxZburqG4d) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [Hold Out](https://open.spotify.com/album/2OX9IracC1Uxe5Uwv9Bty9) | 2:01 |
 | 32 | [Us Against the World](https://open.spotify.com/track/4TaS4giQQK01vKzBB40AEY) | [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS) | [Us Against the World](https://open.spotify.com/album/5m2xRmSB1D30YZHDHr8556) | 2:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 74 | [Ntja'ka](https://open.spotify.com/track/2IO1qCsafE2xApON7VDokz) | [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras) | [Ntja'ka](https://open.spotify.com/album/5dOXzra9baPyj14cP7JNwB) | 4:21 |
 | 75 | [Die Lewe is 'n Lied](https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q) | [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Lewe is 'n Lied](https://open.spotify.com/album/30Mxg8Jy7g1KoSwEVRgVKL) | 3:59 |
 
-Snapshot ID: `MCw2NzAxM2Y2MDAwZGViMGQwZWMzM2Y3NGM2ODQ5MTVkMjJlMGU4Yjg1`
+Snapshot ID: `MCxhMWZjZmE2YTkxMWFiZWI1ZTk2YTRlZTE3NjJjMjUyZTk3ZDQzYTg1`

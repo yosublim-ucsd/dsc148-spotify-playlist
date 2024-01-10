@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 178973,
+  "num_followers": 178830,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGU3ZTk3N2IyNzQ0MzhmMzg5ZTQzMGRmOGM3MzFmMTZjNGUxY2U0",
+  "snapshot_id": "MCw3YWJlZTQ2Njc5MjlhYjQ0ODFjNzI1NGZiNDY2YmQyNWUyNjYxMmQ0",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Coraz\u00f3n de Piedra",
+        "url": "https://open.spotify.com/album/4lWKZHImC1eY5HzvjJwP56"
+      },
+      "artists": [
+        {
+          "name": "Lowsan Melgar",
+          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        }
+      ],
+      "duration_ms": 221879,
+      "name": "Coraz\u00f3n de Piedra",
+      "url": "https://open.spotify.com/track/0PImEtenba1318UQSlkmeP"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Siempre Ha Estado Aqu\u00ed (Remix)",
         "url": "https://open.spotify.com/album/2hQULmsldbuwZrRTHC0Yzy"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 185361,
       "name": "Siempre Ha Estado Aqu\u00ed (Remix)",
       "url": "https://open.spotify.com/track/4eSTVukNr08v0IMbso7gCo"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Coraz\u00f3n de Piedra",
-        "url": "https://open.spotify.com/album/4lWKZHImC1eY5HzvjJwP56"
-      },
-      "artists": [
-        {
-          "name": "Lowsan Melgar",
-          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
-        },
-        {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
-        }
-      ],
-      "duration_ms": 221879,
-      "name": "Coraz\u00f3n de Piedra",
-      "url": "https://open.spotify.com/track/0PImEtenba1318UQSlkmeP"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Sigo Aqui",
-        "url": "https://open.spotify.com/album/36MMZx2vedP0khIxSOCOVV"
-      },
-      "artists": [
-        {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
-        },
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        }
-      ],
-      "duration_ms": 194986,
-      "name": "Sigo Aqu\u00ed",
-      "url": "https://open.spotify.com/track/4dUdfs1G76bVLc7OTqTaHA"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Llegaste T\u00fa",
         "url": "https://open.spotify.com/album/6GBHEIWKGd5YNz3z3wkDKi"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 241640,
       "name": "Llegaste T\u00fa",
       "url": "https://open.spotify.com/track/5luYTHjsdvio9nY3zwgUWp"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Sigo Aqui",
+        "url": "https://open.spotify.com/album/36MMZx2vedP0khIxSOCOVV"
+      },
+      "artists": [
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "duration_ms": 194986,
+      "name": "Sigo Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4dUdfs1G76bVLc7OTqTaHA"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1475,22 +1475,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Noches Enteras",
-        "url": "https://open.spotify.com/album/5S7OdCYrsf0f3khUcp5bup"
+        "name": "Apocalipsis (Remix)",
+        "url": "https://open.spotify.com/album/1CFULVLikyzs7MLrRtuwmY"
       },
       "artists": [
         {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
         },
         {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
         }
       ],
-      "duration_ms": 231008,
-      "name": "Noches Enteras",
-      "url": "https://open.spotify.com/track/3eBg8ZT1g8P6oSx34fe5Fm"
+      "duration_ms": 250480,
+      "name": "Apocalipsis - Remix",
+      "url": "https://open.spotify.com/track/3LlofqmjZxsorZ27t3qiHd"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1511,22 +1511,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Apocalipsis (Remix)",
-        "url": "https://open.spotify.com/album/1CFULVLikyzs7MLrRtuwmY"
+        "name": "Noches Enteras",
+        "url": "https://open.spotify.com/album/5S7OdCYrsf0f3khUcp5bup"
       },
       "artists": [
         {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
         },
         {
-          "name": "Indiomar",
-          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
         }
       ],
-      "duration_ms": 250480,
-      "name": "Apocalipsis - Remix",
-      "url": "https://open.spotify.com/track/3LlofqmjZxsorZ27t3qiHd"
+      "duration_ms": 231008,
+      "name": "Noches Enteras",
+      "url": "https://open.spotify.com/track/3eBg8ZT1g8P6oSx34fe5Fm"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Yo Te Mir\u00e9",
-        "url": "https://open.spotify.com/album/1JgcgcFc7JovAPTxZCKuFu"
+        "name": "Medicina",
+        "url": "https://open.spotify.com/album/5YA0A93iPTXk5poS3x49XF"
       },
       "artists": [
         {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
         }
       ],
-      "duration_ms": 246000,
-      "name": "Yo Te Mire",
-      "url": "https://open.spotify.com/track/4cWLRE1mdN12esAunRt7bo"
+      "duration_ms": 186602,
+      "name": "Medicina",
+      "url": "https://open.spotify.com/track/0XYtuaH9Okgk4ukrea6a1J"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Medicina",
-        "url": "https://open.spotify.com/album/5YA0A93iPTXk5poS3x49XF"
+        "name": "Yo Te Mir\u00e9",
+        "url": "https://open.spotify.com/album/1JgcgcFc7JovAPTxZCKuFu"
       },
       "artists": [
         {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
         }
       ],
-      "duration_ms": 186602,
-      "name": "Medicina",
-      "url": "https://open.spotify.com/track/0XYtuaH9Okgk4ukrea6a1J"
+      "duration_ms": 246000,
+      "name": "Yo Te Mire",
+      "url": "https://open.spotify.com/track/4cWLRE1mdN12esAunRt7bo"
     },
     {
       "added_at": "2022-08-27 05:04:45",

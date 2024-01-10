@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 
 > This is Los Cafres\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,798 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,765 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 | 49 | [Al Menos Hoy](https://open.spotify.com/track/6PknRxiThPZZxfuyP3Upvy) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [¿Quién da Más ?](https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG) | 4:35 |
 | 50 | [Sinsemilla](https://open.spotify.com/track/3rE0BjJXdWN4XozxPptoVf) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Frecuencia Cafre](https://open.spotify.com/album/2vAAr7JcXT2eB5olXE8qEK) | 4:45 |
 
-Snapshot ID: `Mjg0MTE5MDAsMDAwMDAwMDAxZjVhNDAyNTgzNGIzYzdlZDE5NmE0MDkxMzQ0NGI0MQ==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDAxMzkwZWMyNDcxNDQyNzljMTdlNGZkYTE2NWEyMmJkZQ==`

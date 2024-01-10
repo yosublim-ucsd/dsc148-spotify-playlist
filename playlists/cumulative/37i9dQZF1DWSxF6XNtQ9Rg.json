@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "7 album dei Club Dogo, 7 giorni di hit rap italiane. Giorno 4: Dogocrazia",
+  "description": "7 album dei Club Dogo, 7 giorni di hit rap italiane. Giorno 5: Che Bello Essere Noi",
   "name": "Hit Rap Italiane: Club Dogo Takeover",
   "tracks": [
     {
@@ -134,7 +134,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 269386,
       "name": "All'Ultimo Respiro",
       "url": "https://open.spotify.com/track/4gXJIop7onForUMENJ7HjW"
@@ -768,7 +768,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 251120,
       "name": "Brucia Ancora",
       "url": "https://open.spotify.com/track/7xuyZ4xLs0nB42tFGvCebZ"
@@ -1255,6 +1255,28 @@
     },
     {
       "album": {
+        "name": "Autumn Beat (Amazon Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7GIe25Owi4l2aGJEdBLbIM"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245880,
+      "name": "Ciao Proprio",
+      "url": "https://open.spotify.com/track/6lw2NIhX8ThiL1PUUhmqpe"
+    },
+    {
+      "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
       },
@@ -1572,7 +1594,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 207000,
       "name": "Droga Rap",
       "url": "https://open.spotify.com/track/38NehDwEhf4Xg5rVCLWG1l"
@@ -2116,7 +2138,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 215013,
       "name": "Il Mio Mondo, Le Mie Regole",
       "url": "https://open.spotify.com/track/2bBW9JGz4N76FBc5ThkBqu"
@@ -4030,6 +4052,24 @@
       "duration_ms": 186066,
       "name": "Solletico (feat. Tedua & The Night Skinny)",
       "url": "https://open.spotify.com/track/6gan8nbS78t2sUy0M9UpAX"
+    },
+    {
+      "album": {
+        "name": "Party Anthem Rap Italiano I GOT 5 ON IT",
+        "url": "https://open.spotify.com/album/61IcbLpgTm6UiKRm4uvG2Q"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225320,
+      "name": "Spacco Tutto",
+      "url": "https://open.spotify.com/track/1cLYeXK16oagZQERlPryNm"
     },
     {
       "album": {

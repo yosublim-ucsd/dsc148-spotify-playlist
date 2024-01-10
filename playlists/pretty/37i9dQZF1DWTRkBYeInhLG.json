@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 469514,
+  "num_followers": 469703,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTg1YWY2ZjVhM2JlOTkxMThiZjM2MDM3MTQ4NjQ0ZGU1MmZjZTg4",
+  "snapshot_id": "MCw2YmE5MzM5OGJiMzlmMWNlMmIxMjI3ODU4ZjQwZDRlZTQzNzI0ODZj",
   "tracks": [
     {
       "added_at": "2023-12-06 09:40:22",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-12-06 09:40:22",
       "album": {
-        "name": "Peace, Love And Respect",
-        "url": "https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I"
-      },
-      "artists": [
-        {
-          "name": "Gigi",
-          "url": "https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf"
-        }
-      ],
-      "duration_ms": 212026,
-      "name": "11 Januari",
-      "url": "https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld"
-    },
-    {
-      "added_at": "2023-12-06 09:40:22",
-      "album": {
         "name": "COBA CINTAKU",
         "url": "https://open.spotify.com/album/2ydSDu6C3zj9jT9ukPmxhp"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 206183,
       "name": "COBA CINTAKU",
       "url": "https://open.spotify.com/track/4lehCx6bf5uarWHvhw9XGx"
+    },
+    {
+      "added_at": "2023-12-06 09:40:22",
+      "album": {
+        "name": "Peace, Love And Respect",
+        "url": "https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I"
+      },
+      "artists": [
+        {
+          "name": "Gigi",
+          "url": "https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf"
+        }
+      ],
+      "duration_ms": 212026,
+      "name": "11 Januari",
+      "url": "https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld"
     },
     {
       "added_at": "2023-12-06 09:40:22",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-12-06 09:40:22",
       "album": {
+        "name": "Harapan",
+        "url": "https://open.spotify.com/album/7qKEG7EhkXFNfwGdxgPp77"
+      },
+      "artists": [
+        {
+          "name": "Stevan Pasaribu",
+          "url": "https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b"
+        }
+      ],
+      "duration_ms": 288333,
+      "name": "Belum Siap Kehilangan",
+      "url": "https://open.spotify.com/track/7KXVbdLU70pHjYsVZg47KO"
+    },
+    {
+      "added_at": "2023-12-06 09:40:22",
+      "album": {
         "name": "Selaras",
         "url": "https://open.spotify.com/album/1b1QRGjDS4CHogOBBCLWOg"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 273491,
       "name": "Selaras",
       "url": "https://open.spotify.com/track/7kZ4uU7cO2Y36XWmuwEOW0"
-    },
-    {
-      "added_at": "2023-12-06 09:40:22",
-      "album": {
-        "name": "Harapan",
-        "url": "https://open.spotify.com/album/7qKEG7EhkXFNfwGdxgPp77"
-      },
-      "artists": [
-        {
-          "name": "Stevan Pasaribu",
-          "url": "https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b"
-        }
-      ],
-      "duration_ms": 288333,
-      "name": "Belum Siap Kehilangan",
-      "url": "https://open.spotify.com/track/7KXVbdLU70pHjYsVZg47KO"
     },
     {
       "added_at": "2023-12-06 09:40:22",

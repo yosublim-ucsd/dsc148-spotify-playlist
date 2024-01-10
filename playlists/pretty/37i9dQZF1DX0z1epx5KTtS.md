@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from Paris to Abidjan\. Photo : DJ KEROZEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,822 likes - 40 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,862 likes - 40 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [Galoper](https://open.spotify.com/track/20ai8KKeDZt0U0vQpclRI4) | [AB LE SUPERMAN](https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ), [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Galoper](https://open.spotify.com/album/6R4VDE6rOcWJX0H0QVUfJR) | 3:21 |
 | 40 | [Coup du marteau](https://open.spotify.com/track/3YRe2NXbJ5aalCE0YH6YBo) | [Tam Sir](https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X), [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa), [PSK](https://open.spotify.com/artist/037wzy2YR7LOBvRI9uV5UX) | [Coup du marteau](https://open.spotify.com/album/2Dq4WTswTU9y0nJkWPjhN3) | 2:54 |
 
-Snapshot ID: `MCxlZWRiNGM3ZGZjYzYxMjc4YzllNTU0MGRhYjJlOGViZmU2YWIzMTdi`
+Snapshot ID: `MCxkMTM4Mzc5ZDc3OWFhZWU5N2Y2ZGY1NDdhOTY0OWIxZWE1ZTE2MDg5`

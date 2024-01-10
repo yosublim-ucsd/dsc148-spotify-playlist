@@ -1,12 +1,12 @@
 {
   "description": "Big hits from the world of acoustics.",
-  "num_followers": 2071213,
+  "num_followers": 2070128,
   "original_name": "Acoustic Throwbacks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTAzZGIyN2NkNTFkMGRmNDVmYTg3ZDkwNTc4NTMyYWU3YTE0NzQ1",
+  "snapshot_id": "MCxlM2UyMjQ4OTY1MTk1ODZkOTViZGMzYzAyNDc0MjhhNTc1OWMwMDdi",
   "tracks": [
     {
       "added_at": "2023-10-23 17:16:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Believe Acoustic",
-        "url": "https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "As Long As You Love Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/1kN9UiyOSRVCrSc49ft0lp"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "We Can't Stop (Acoustic)",
         "url": "https://open.spotify.com/album/1KfszzDrkQINyxI5oUgCxk"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 178490,
       "name": "We Can't Stop - Acoustic",
       "url": "https://open.spotify.com/track/2nYRexPm8vndayCOHgbovU"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Believe Acoustic",
+        "url": "https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "As Long As You Love Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/1kN9UiyOSRVCrSc49ft0lp"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "With or Without You",
-        "url": "https://open.spotify.com/album/5sz0mBDcUAj1TAqlHEfZQ0"
-      },
-      "artists": [
-        {
-          "name": "Roses & Frey",
-          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
-        }
-      ],
-      "duration_ms": 166943,
-      "name": "With or Without You",
-      "url": "https://open.spotify.com/track/1iQ1BpOGF1Umd3lpTV4OPO"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Despacito",
         "url": "https://open.spotify.com/album/0B75OuY7kuQXfz7qF5r2l3"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 170454,
       "name": "Despacito",
       "url": "https://open.spotify.com/track/4vxA3aI7l73i0Hi819OQhH"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "With or Without You",
+        "url": "https://open.spotify.com/album/5sz0mBDcUAj1TAqlHEfZQ0"
+      },
+      "artists": [
+        {
+          "name": "Roses & Frey",
+          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
+        }
+      ],
+      "duration_ms": 166943,
+      "name": "With or Without You",
+      "url": "https://open.spotify.com/track/1iQ1BpOGF1Umd3lpTV4OPO"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Versace On The Floor",
-        "url": "https://open.spotify.com/album/5FXcg9kKbN3UA5wAbYHd0a"
-      },
-      "artists": [
-        {
-          "name": "Joseph Vincent",
-          "url": "https://open.spotify.com/artist/40JlNF1w2OiSOyj1nC4y0I"
-        }
-      ],
-      "duration_ms": 138201,
-      "name": "Versace On The Floor",
-      "url": "https://open.spotify.com/track/08w4crWY1kbeXg5Kql7gSZ"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/5wA9NBMfYM8cv3Wa3b7Xye"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 148900,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/4FqhM1hv7pQ0UbemW90HZL"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Versace On The Floor",
+        "url": "https://open.spotify.com/album/5FXcg9kKbN3UA5wAbYHd0a"
+      },
+      "artists": [
+        {
+          "name": "Joseph Vincent",
+          "url": "https://open.spotify.com/artist/40JlNF1w2OiSOyj1nC4y0I"
+        }
+      ],
+      "duration_ms": 138201,
+      "name": "Versace On The Floor",
+      "url": "https://open.spotify.com/track/08w4crWY1kbeXg5Kql7gSZ"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Get Lucky (Acoustic)",
-        "url": "https://open.spotify.com/album/7kqflmHaXiCRFSF6gd7wwW"
-      },
-      "artists": [
-        {
-          "name": "Linn Brikell",
-          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
-        }
-      ],
-      "duration_ms": 188605,
-      "name": "Get Lucky - Acoustic",
-      "url": "https://open.spotify.com/track/2aXBORgLuv2czaJVyeLOl7"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Coco - Summer Sessions",
         "url": "https://open.spotify.com/album/1mTJGBsXbsOO1YuBrnqWpS"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 216720,
       "name": "Bubbly - Acoustic",
       "url": "https://open.spotify.com/track/5RMjO7UAJUybWAwZ4t2wKz"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Get Lucky (Acoustic)",
+        "url": "https://open.spotify.com/album/7kqflmHaXiCRFSF6gd7wwW"
+      },
+      "artists": [
+        {
+          "name": "Linn Brikell",
+          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
+        }
+      ],
+      "duration_ms": 188605,
+      "name": "Get Lucky - Acoustic",
+      "url": "https://open.spotify.com/track/2aXBORgLuv2czaJVyeLOl7"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "The Best Of...",
-        "url": "https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl"
-      },
-      "artists": [
-        {
-          "name": "The Calling",
-          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "Wherever You Will Go - Acoustic",
-      "url": "https://open.spotify.com/track/5Tybis9p4M4TX2gJM8iqgh"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Too Much To Ask (Acoustic)",
         "url": "https://open.spotify.com/album/54VaqAx59YDqRsoBh4l5Up"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 212171,
       "name": "Rhythm Inside - Acoustic",
       "url": "https://open.spotify.com/track/7vO3KTA1YPgw6eb3NITrO3"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "The Best Of...",
+        "url": "https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl"
+      },
+      "artists": [
+        {
+          "name": "The Calling",
+          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
+        }
+      ],
+      "duration_ms": 200840,
+      "name": "Wherever You Will Go - Acoustic",
+      "url": "https://open.spotify.com/track/5Tybis9p4M4TX2gJM8iqgh"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Believe Acoustic",
-        "url": "https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 187680,
-      "name": "Boyfriend - Acoustic Version",
-      "url": "https://open.spotify.com/track/3ZsOYk34IQMrH4B1PBdofL"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "A Sky Full of Stars",
         "url": "https://open.spotify.com/album/57ua1UneZQCLbZhEI5OGwZ"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 165067,
       "name": "A Sky Full of Stars",
       "url": "https://open.spotify.com/track/18PrtmAcNMgZNy1edWuXGb"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Believe Acoustic",
+        "url": "https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 187680,
+      "name": "Boyfriend - Acoustic Version",
+      "url": "https://open.spotify.com/track/3ZsOYk34IQMrH4B1PBdofL"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
+        "name": "Umbrella (Acoustic Version)",
+        "url": "https://open.spotify.com/album/1T16ylIh3VPIFFi65OutI6"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 178319,
+      "name": "Umbrella - Acoustic Version",
+      "url": "https://open.spotify.com/track/1hrDzrt4YgZdD67MOu5U0Q"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
         "name": "Make Me (Cry) [Acoustic Version]",
         "url": "https://open.spotify.com/album/7xOsE3ZVZveBZfRdCzY3Uk"
       },
@@ -1683,22 +1699,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Umbrella (Acoustic Version)",
-        "url": "https://open.spotify.com/album/1T16ylIh3VPIFFi65OutI6"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 178319,
-      "name": "Umbrella - Acoustic Version",
-      "url": "https://open.spotify.com/track/1hrDzrt4YgZdD67MOu5U0Q"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy"
       },
@@ -1711,26 +1711,6 @@
       "duration_ms": 206100,
       "name": "Burn",
       "url": "https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
-        "name": "Came Here for Love (Acoustic)",
-        "url": "https://open.spotify.com/album/2YwHJ9OLSiwzwo6n4VLEvk"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Ella Eyre",
-          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
-        }
-      ],
-      "duration_ms": 216015,
-      "name": "Came Here for Love - Acoustic",
-      "url": "https://open.spotify.com/track/6gBwaCbb1lKHvlN9mVOVAg"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -1755,22 +1735,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Believe Acoustic",
-        "url": "https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 144693,
-      "name": "Beauty And A Beat",
-      "url": "https://open.spotify.com/track/4nTWserD4pdou0yCPeW8Cv"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/1qyvMdyktO17KTA0LcW9Yk"
       },
@@ -1783,6 +1747,26 @@
       "duration_ms": 174837,
       "name": "Silence",
       "url": "https://open.spotify.com/track/5V0CRoCDeDpGTXZGWPTk3D"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Came Here for Love (Acoustic)",
+        "url": "https://open.spotify.com/album/2YwHJ9OLSiwzwo6n4VLEvk"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Ella Eyre",
+          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
+        }
+      ],
+      "duration_ms": 216015,
+      "name": "Came Here for Love - Acoustic",
+      "url": "https://open.spotify.com/track/6gBwaCbb1lKHvlN9mVOVAg"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -1807,22 +1791,18 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "I Like Me Better",
-        "url": "https://open.spotify.com/album/1fa2cKnrZIaxnYvoOxoaSk"
+        "name": "Believe Acoustic",
+        "url": "https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7"
       },
       "artists": [
         {
-          "name": "Boyce Avenue",
-          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
-        },
-        {
-          "name": "Emma Heesters",
-          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 201508,
-      "name": "I Like Me Better",
-      "url": "https://open.spotify.com/track/7pKMoXeiCv40wbrjII06VO"
+      "duration_ms": 144693,
+      "name": "Beauty And A Beat",
+      "url": "https://open.spotify.com/track/4nTWserD4pdou0yCPeW8Cv"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -1839,6 +1819,26 @@
       "duration_ms": 212300,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/7AKebOEDMEZWMqBl4bKoYu"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "I Like Me Better",
+        "url": "https://open.spotify.com/album/1fa2cKnrZIaxnYvoOxoaSk"
+      },
+      "artists": [
+        {
+          "name": "Boyce Avenue",
+          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+        },
+        {
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
+        }
+      ],
+      "duration_ms": 201508,
+      "name": "I Like Me Better",
+      "url": "https://open.spotify.com/track/7pKMoXeiCv40wbrjII06VO"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Starships (Acoustic Version)",
-        "url": "https://open.spotify.com/album/619LYsYlwIWumLb0lun7dK"
-      },
-      "artists": [
-        {
-          "name": "Amanda Yang",
-          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
-        }
-      ],
-      "duration_ms": 206267,
-      "name": "Starships - Acoustic Version",
-      "url": "https://open.spotify.com/track/4PGdU6yyUM4GSdLe6tUiNT"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Stitches",
         "url": "https://open.spotify.com/album/0SHdoaGuQV2EjhQ6HEX9K2"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 246000,
       "name": "Stitches",
       "url": "https://open.spotify.com/track/3Jy394MtpM2xciRBTzxBlg"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Starships (Acoustic Version)",
+        "url": "https://open.spotify.com/album/619LYsYlwIWumLb0lun7dK"
+      },
+      "artists": [
+        {
+          "name": "Amanda Yang",
+          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
+        }
+      ],
+      "duration_ms": 206267,
+      "name": "Starships - Acoustic Version",
+      "url": "https://open.spotify.com/track/4PGdU6yyUM4GSdLe6tUiNT"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -2175,6 +2175,22 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
+        "name": "Lift Your Spirit",
+        "url": "https://open.spotify.com/album/14JRI2yc9nKosojndoQxTv"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "duration_ms": 225106,
+      "name": "Wake Me Up - Acoustic",
+      "url": "https://open.spotify.com/track/5axBwqXk8lLdtdc1tLCNPn"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
         "name": "Live At AllSaints Studios",
         "url": "https://open.spotify.com/album/22y98JB7rKhh335uj6nDZ4"
       },
@@ -2207,22 +2223,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Lift Your Spirit",
-        "url": "https://open.spotify.com/album/14JRI2yc9nKosojndoQxTv"
-      },
-      "artists": [
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        }
-      ],
-      "duration_ms": 225106,
-      "name": "Wake Me Up - Acoustic",
-      "url": "https://open.spotify.com/track/5axBwqXk8lLdtdc1tLCNPn"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "My My My! (Remixes)",
         "url": "https://open.spotify.com/album/08GvuwssKcSX2YrTqITDtN"
       },
@@ -2235,22 +2235,6 @@
       "duration_ms": 223106,
       "name": "My My My! - Acoustic",
       "url": "https://open.spotify.com/track/2o7aTRkVOAiQSv0CoFUKxk"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
-        "name": "Dusk Till Dawn",
-        "url": "https://open.spotify.com/album/1skDKsDkYykE118scvvhfj"
-      },
-      "artists": [
-        {
-          "name": "Amanda Yang",
-          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
-        }
-      ],
-      "duration_ms": 208568,
-      "name": "Dusk Till Dawn",
-      "url": "https://open.spotify.com/track/1NWvbQI3bNfPxbxF9OQ1Ek"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -2271,6 +2255,22 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
+        "name": "Dusk Till Dawn",
+        "url": "https://open.spotify.com/album/1skDKsDkYykE118scvvhfj"
+      },
+      "artists": [
+        {
+          "name": "Amanda Yang",
+          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
+        }
+      ],
+      "duration_ms": 208568,
+      "name": "Dusk Till Dawn",
+      "url": "https://open.spotify.com/track/1NWvbQI3bNfPxbxF9OQ1Ek"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
       },
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Chariot - Stripped",
-        "url": "https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI"
-      },
-      "artists": [
-        {
-          "name": "Gavin DeGraw",
-          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
-        }
-      ],
-      "duration_ms": 244333,
-      "name": "I Don't Want to Be - Stripped Version",
-      "url": "https://open.spotify.com/track/4bgCdwNpbU3sCJ3mupBW8S"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
       },
@@ -2315,6 +2299,22 @@
       "duration_ms": 195920,
       "name": "Leave (Get Out) - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/6ClEErrTmd3GzRqGiCEC8G"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Chariot - Stripped",
+        "url": "https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI"
+      },
+      "artists": [
+        {
+          "name": "Gavin DeGraw",
+          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+        }
+      ],
+      "duration_ms": 244333,
+      "name": "I Don't Want to Be - Stripped Version",
+      "url": "https://open.spotify.com/track/4bgCdwNpbU3sCJ3mupBW8S"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "We Got You Covered, Vol. 1",
-        "url": "https://open.spotify.com/album/2gYoCL1G2KVMOBZUM0sD4M"
-      },
-      "artists": [
-        {
-          "name": "Anthem Lights",
-          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
-        }
-      ],
-      "duration_ms": 148174,
-      "name": "Can't Stop the Feeling / This Is What You Came For",
-      "url": "https://open.spotify.com/track/5QBsxRm92KS9oUJHAHhkax"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Perfect Strangers (Acoustic)",
         "url": "https://open.spotify.com/album/2rJ9hhlOmZZvQfXVGMrmUK"
       },
@@ -2403,18 +2387,18 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Perfect to Me (Acoustic)",
-        "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
+        "name": "We Got You Covered, Vol. 1",
+        "url": "https://open.spotify.com/album/2gYoCL1G2KVMOBZUM0sD4M"
       },
       "artists": [
         {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+          "name": "Anthem Lights",
+          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
         }
       ],
-      "duration_ms": 213213,
-      "name": "Perfect To Me - Acoustic",
-      "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
+      "duration_ms": 148174,
+      "name": "Can't Stop the Feeling / This Is What You Came For",
+      "url": "https://open.spotify.com/track/5QBsxRm92KS9oUJHAHhkax"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -2447,6 +2431,22 @@
       "duration_ms": 149062,
       "name": "Big Yellow Taxi - Live from Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Perfect to Me (Acoustic)",
+        "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 213213,
+      "name": "Perfect To Me - Acoustic",
+      "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -2815,22 +2815,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Human Nature",
-        "url": "https://open.spotify.com/album/6RSFXvmUQDPhC6YFFOWPIB"
-      },
-      "artists": [
-        {
-          "name": "Justin Morgan",
-          "url": "https://open.spotify.com/artist/3IISF9rnh262yHTqtzf6fw"
-        }
-      ],
-      "duration_ms": 236952,
-      "name": "Human Nature",
-      "url": "https://open.spotify.com/track/6OtBIOTGkUT3ok8YXxs0Wl"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Give Me Everything",
         "url": "https://open.spotify.com/album/0A28FCqEuG6uiAHIPQcLwe"
       },
@@ -2843,6 +2827,22 @@
       "duration_ms": 192542,
       "name": "Give Me Everything",
       "url": "https://open.spotify.com/track/5AZWf9rIKcTBGsHfRDOb3M"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Human Nature",
+        "url": "https://open.spotify.com/album/6RSFXvmUQDPhC6YFFOWPIB"
+      },
+      "artists": [
+        {
+          "name": "Justin Morgan",
+          "url": "https://open.spotify.com/artist/3IISF9rnh262yHTqtzf6fw"
+        }
+      ],
+      "duration_ms": 236952,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/6OtBIOTGkUT3ok8YXxs0Wl"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -2971,6 +2971,22 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
+        "name": "Cold (Acoustic)",
+        "url": "https://open.spotify.com/album/0ieh5Qa0q9Sfkt1gdK6oIQ"
+      },
+      "artists": [
+        {
+          "name": "Simon Samaeng",
+          "url": "https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw"
+        }
+      ],
+      "duration_ms": 203886,
+      "name": "Cold - Acoustic",
+      "url": "https://open.spotify.com/track/4ez6DC2iTsT9t48E8Bonrn"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
         "name": "Breathe (Acoustic)",
         "url": "https://open.spotify.com/album/4a0yxalMXVlLFNuX6dAdkI"
       },
@@ -2987,22 +3003,6 @@
       "duration_ms": 231253,
       "name": "Breathe - Acoustic",
       "url": "https://open.spotify.com/track/3PRpinHSGqytZnOKwCsR7l"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
-        "name": "Cold (Acoustic)",
-        "url": "https://open.spotify.com/album/0ieh5Qa0q9Sfkt1gdK6oIQ"
-      },
-      "artists": [
-        {
-          "name": "Simon Samaeng",
-          "url": "https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw"
-        }
-      ],
-      "duration_ms": 203886,
-      "name": "Cold - Acoustic",
-      "url": "https://open.spotify.com/track/4ez6DC2iTsT9t48E8Bonrn"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -3091,6 +3091,22 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
+        "name": "Passport Home - EP",
+        "url": "https://open.spotify.com/album/3geJ2JihmZE86xCXINxDgx"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 178166,
+      "name": "Passport Home - Guitar Acoustic",
+      "url": "https://open.spotify.com/track/5iZdKYiMnjUetBtqvWA4Mn"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
         "name": "Glory Days - EP",
         "url": "https://open.spotify.com/album/5XdzqhTD3iQ8kLpl9VLlzR"
       },
@@ -3123,18 +3139,18 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Passport Home - EP",
-        "url": "https://open.spotify.com/album/3geJ2JihmZE86xCXINxDgx"
+        "name": "Can't Stop The Feeling",
+        "url": "https://open.spotify.com/album/5CeQ4zuJ9teoR2ma86vbg2"
       },
       "artists": [
         {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+          "name": "Tore",
+          "url": "https://open.spotify.com/artist/1GZrKwVL73MyDEr4bR9sRk"
         }
       ],
-      "duration_ms": 178166,
-      "name": "Passport Home - Guitar Acoustic",
-      "url": "https://open.spotify.com/track/5iZdKYiMnjUetBtqvWA4Mn"
+      "duration_ms": 263916,
+      "name": "Can't Stop The Feeling",
+      "url": "https://open.spotify.com/track/64mIsDq15574VzIws46Axl"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -3151,22 +3167,6 @@
       "duration_ms": 153720,
       "name": "I Want To Break Free",
       "url": "https://open.spotify.com/track/3KvnxRon368VL2s47Gxcf4"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
-        "name": "Can't Stop The Feeling",
-        "url": "https://open.spotify.com/album/5CeQ4zuJ9teoR2ma86vbg2"
-      },
-      "artists": [
-        {
-          "name": "Tore",
-          "url": "https://open.spotify.com/artist/1GZrKwVL73MyDEr4bR9sRk"
-        }
-      ],
-      "duration_ms": 263916,
-      "name": "Can't Stop The Feeling",
-      "url": "https://open.spotify.com/track/64mIsDq15574VzIws46Axl"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -3243,22 +3243,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Across A Wire (Live In New York)",
-        "url": "https://open.spotify.com/album/1tqB9q7YnXgWekLtO6wggy"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        }
-      ],
-      "duration_ms": 317333,
-      "name": "Mr. Jones - Live At Chelsea Studios, New York/1997",
-      "url": "https://open.spotify.com/track/0waRf9ctHjM169N6rWtKx1"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Since U Been Gone",
         "url": "https://open.spotify.com/album/1aF6m76ZjCEH8tN6W9W9Uk"
       },
@@ -3271,6 +3255,22 @@
       "duration_ms": 221170,
       "name": "Since U Been Gone - Acoustic Version",
       "url": "https://open.spotify.com/track/4iObEYRE4FLm0D90gmZFef"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Across A Wire (Live In New York)",
+        "url": "https://open.spotify.com/album/1tqB9q7YnXgWekLtO6wggy"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "duration_ms": 317333,
+      "name": "Mr. Jones - Live At Chelsea Studios, New York/1997",
+      "url": "https://open.spotify.com/track/0waRf9ctHjM169N6rWtKx1"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -3291,22 +3291,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/1JMNVtOFxycRM2IR2ZxFYH"
-      },
-      "artists": [
-        {
-          "name": "Michael Shynes",
-          "url": "https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3"
-        }
-      ],
-      "duration_ms": 166535,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/2ODveYidOlM11e0JZrM1aE"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "First Time",
         "url": "https://open.spotify.com/album/5E11xWC5Sm1XQBwcVDmcqz"
       },
@@ -3319,6 +3303,22 @@
       "duration_ms": 193756,
       "name": "First Time",
       "url": "https://open.spotify.com/track/39gE6tDHRL072PInfAabLi"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/1JMNVtOFxycRM2IR2ZxFYH"
+      },
+      "artists": [
+        {
+          "name": "Michael Shynes",
+          "url": "https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3"
+        }
+      ],
+      "duration_ms": 166535,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2ODveYidOlM11e0JZrM1aE"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -3479,6 +3479,22 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
+        "name": "Strangers (Remixes)",
+        "url": "https://open.spotify.com/album/05VQDdDhAfhZqGOFAVT809"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "duration_ms": 203293,
+      "name": "Strangers - Acoustic",
+      "url": "https://open.spotify.com/track/65he1nxW8DwdL0k7fpC5wg"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
         "name": "Always On My Mind",
         "url": "https://open.spotify.com/album/6fEji3YIRWFLPtBM8UCULk"
       },
@@ -3511,22 +3527,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Strangers (Remixes)",
-        "url": "https://open.spotify.com/album/05VQDdDhAfhZqGOFAVT809"
-      },
-      "artists": [
-        {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        }
-      ],
-      "duration_ms": 203293,
-      "name": "Strangers - Acoustic",
-      "url": "https://open.spotify.com/track/65he1nxW8DwdL0k7fpC5wg"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/07z5Rc3vzqteBidAcjMmku"
       },
@@ -3543,22 +3543,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Nobody's Perfect",
-        "url": "https://open.spotify.com/album/17OX0eFpormIwzgjFRolkK"
-      },
-      "artists": [
-        {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
-        }
-      ],
-      "duration_ms": 282666,
-      "name": "Nobody's Perfect - Acoustic Version",
-      "url": "https://open.spotify.com/track/5AHyWDQc3l2yalJVXbL5Yk"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Black Beatles (Acoustic)",
         "url": "https://open.spotify.com/album/3zQYmL17iTyCk3CUOTwPDf"
       },
@@ -3571,6 +3555,22 @@
       "duration_ms": 211781,
       "name": "Black Beatles - Acoustic",
       "url": "https://open.spotify.com/track/7tOwlsbz3lmbEjxmury4qZ"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Nobody's Perfect",
+        "url": "https://open.spotify.com/album/17OX0eFpormIwzgjFRolkK"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        }
+      ],
+      "duration_ms": 282666,
+      "name": "Nobody's Perfect - Acoustic Version",
+      "url": "https://open.spotify.com/track/5AHyWDQc3l2yalJVXbL5Yk"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -3647,22 +3647,18 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "All Night - EP",
-        "url": "https://open.spotify.com/album/59t6DSn6GZfnvncn4KiGDq"
+        "name": "Candle In the Wind (Acoustic)",
+        "url": "https://open.spotify.com/album/1ihyVxgOdjXt252lSLZErq"
       },
       "artists": [
         {
-          "name": "The Vamps",
-          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
-        },
-        {
-          "name": "Matoma",
-          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+          "name": "Amber Leigh Irish",
+          "url": "https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05"
         }
       ],
-      "duration_ms": 183963,
-      "name": "All Night - Acoustic",
-      "url": "https://open.spotify.com/track/2Hi2tWANUXtd1URtLYgwne"
+      "duration_ms": 144830,
+      "name": "Candle In the Wind - Acoustic",
+      "url": "https://open.spotify.com/track/6PvFJcvITBpESYcjzkuzf0"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -3691,18 +3687,22 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Candle In the Wind (Acoustic)",
-        "url": "https://open.spotify.com/album/1ihyVxgOdjXt252lSLZErq"
+        "name": "All Night - EP",
+        "url": "https://open.spotify.com/album/59t6DSn6GZfnvncn4KiGDq"
       },
       "artists": [
         {
-          "name": "Amber Leigh Irish",
-          "url": "https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05"
+          "name": "The Vamps",
+          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+        },
+        {
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
         }
       ],
-      "duration_ms": 144830,
-      "name": "Candle In the Wind - Acoustic",
-      "url": "https://open.spotify.com/track/6PvFJcvITBpESYcjzkuzf0"
+      "duration_ms": 183963,
+      "name": "All Night - Acoustic",
+      "url": "https://open.spotify.com/track/2Hi2tWANUXtd1URtLYgwne"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -3771,22 +3771,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Hands All Over (Deluxe)",
-        "url": "https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 226320,
-      "name": "Misery - Acoustic Version",
-      "url": "https://open.spotify.com/track/7ueorixD5oJzXskD3APGbA"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Nervous",
         "url": "https://open.spotify.com/album/7t9oaBvCxhJczm9WzdVTqf"
       },
@@ -3799,6 +3783,22 @@
       "duration_ms": 250573,
       "name": "Nervous - Acoustic",
       "url": "https://open.spotify.com/track/1ITmQCb2v9dRppSxruOb2q"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Hands All Over (Deluxe)",
+        "url": "https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 226320,
+      "name": "Misery - Acoustic Version",
+      "url": "https://open.spotify.com/track/7ueorixD5oJzXskD3APGbA"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -3851,6 +3851,22 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
+        "name": "#acousticNOW5",
+        "url": "https://open.spotify.com/album/3mCzvH0RCKiZft5aZClNNU"
+      },
+      "artists": [
+        {
+          "name": "Chlara",
+          "url": "https://open.spotify.com/artist/39rKElzF7q6K4O2flycSEc"
+        }
+      ],
+      "duration_ms": 218840,
+      "name": "Everybody Wants to Rule the World",
+      "url": "https://open.spotify.com/track/2JcfyEmEWwdlgLKq44ALCU"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
         "name": "Stole the Show",
         "url": "https://open.spotify.com/album/3SjuqBXx2U5mJJxks14TkK"
       },
@@ -3867,22 +3883,6 @@
       "duration_ms": 258106,
       "name": "Stole the Show - Live from Spotify London",
       "url": "https://open.spotify.com/track/1a6d3j3lDbmTvhczhiBHX3"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
-        "name": "#acousticNOW5",
-        "url": "https://open.spotify.com/album/3mCzvH0RCKiZft5aZClNNU"
-      },
-      "artists": [
-        {
-          "name": "Chlara",
-          "url": "https://open.spotify.com/artist/39rKElzF7q6K4O2flycSEc"
-        }
-      ],
-      "duration_ms": 218840,
-      "name": "Everybody Wants to Rule the World",
-      "url": "https://open.spotify.com/track/2JcfyEmEWwdlgLKq44ALCU"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -3971,22 +3971,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/4EljF3hf20ZscDyd8bBB7R"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 197195,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/68ngc4vLwImhAeWHmXKcEI"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "I Wanna Dance with Somebody (Acoustic)",
         "url": "https://open.spotify.com/album/6uD5hZuQwWjcWmmGSuEUH3"
       },
@@ -3999,6 +3983,22 @@
       "duration_ms": 211291,
       "name": "I Wanna Dance with Somebody - Acoustic",
       "url": "https://open.spotify.com/track/2Ksnh0QtEidLCZXSbPqxoI"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/4EljF3hf20ZscDyd8bBB7R"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 197195,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/68ngc4vLwImhAeWHmXKcEI"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -4167,18 +4167,22 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Autumn Hymns",
-        "url": "https://open.spotify.com/album/31TBuVSW1iba7jmBGLOETq"
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
       },
       "artists": [
         {
-          "name": "Mysha Didi",
-          "url": "https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI"
+          "name": "fun.",
+          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+        },
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
         }
       ],
-      "duration_ms": 177360,
-      "name": "Titanium",
-      "url": "https://open.spotify.com/track/1qipbACiBKXywkAGEbYuqX"
+      "duration_ms": 272546,
+      "name": "We Are Young (feat. Janelle Mon\u00e1e) - Acoustic [Acoustic]",
+      "url": "https://open.spotify.com/track/5tbz0VnVwfF3jubvjDGdHo"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -4199,22 +4203,18 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Some Nights",
-        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
+        "name": "Autumn Hymns",
+        "url": "https://open.spotify.com/album/31TBuVSW1iba7jmBGLOETq"
       },
       "artists": [
         {
-          "name": "fun.",
-          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
-        },
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+          "name": "Mysha Didi",
+          "url": "https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI"
         }
       ],
-      "duration_ms": 272546,
-      "name": "We Are Young (feat. Janelle Mon\u00e1e) - Acoustic [Acoustic]",
-      "url": "https://open.spotify.com/track/5tbz0VnVwfF3jubvjDGdHo"
+      "duration_ms": 177360,
+      "name": "Titanium",
+      "url": "https://open.spotify.com/track/1qipbACiBKXywkAGEbYuqX"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -4403,22 +4403,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Bad Liar (Acoustic)",
-        "url": "https://open.spotify.com/album/50PPPPnigSXdWZ4h11B1qU"
-      },
-      "artists": [
-        {
-          "name": "Becca Adams",
-          "url": "https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb"
-        }
-      ],
-      "duration_ms": 220100,
-      "name": "Bad Liar - Acoustic",
-      "url": "https://open.spotify.com/track/2nv76aMflbfwXfDDmAlA1f"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Kids (Acoustic)",
         "url": "https://open.spotify.com/album/1BvTka9QEvNj6jS56TIA75"
       },
@@ -4431,6 +4415,22 @@
       "duration_ms": 223813,
       "name": "Kids - Acoustic",
       "url": "https://open.spotify.com/track/7IHvXVdzEv4WZOIlTTSlHw"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Bad Liar (Acoustic)",
+        "url": "https://open.spotify.com/album/50PPPPnigSXdWZ4h11B1qU"
+      },
+      "artists": [
+        {
+          "name": "Becca Adams",
+          "url": "https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb"
+        }
+      ],
+      "duration_ms": 220100,
+      "name": "Bad Liar - Acoustic",
+      "url": "https://open.spotify.com/track/2nv76aMflbfwXfDDmAlA1f"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -4623,22 +4623,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Good Life (Acoustic Version)",
-        "url": "https://open.spotify.com/album/4y5eTh0i5ar8CTa9EgHCvI"
-      },
-      "artists": [
-        {
-          "name": "River Paisley",
-          "url": "https://open.spotify.com/artist/4oGckhpzQBJqgXenksk2m2"
-        }
-      ],
-      "duration_ms": 196945,
-      "name": "Good Life - Acoustic Version",
-      "url": "https://open.spotify.com/track/5CMccjYRurNhK3qt71BFmz"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "What Do You Love (Acoustic)",
         "url": "https://open.spotify.com/album/55lgo1F3X6jh05baEDStbt"
       },
@@ -4659,18 +4643,18 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Let Me Love You",
-        "url": "https://open.spotify.com/album/0X9rBMMnumL0xy7YyRKHw2"
+        "name": "Good Life (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4y5eTh0i5ar8CTa9EgHCvI"
       },
       "artists": [
         {
-          "name": "Drew Sycamore",
-          "url": "https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA"
+          "name": "River Paisley",
+          "url": "https://open.spotify.com/artist/4oGckhpzQBJqgXenksk2m2"
         }
       ],
-      "duration_ms": 212891,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/6R968luce1GlHOJC4OWtlG"
+      "duration_ms": 196945,
+      "name": "Good Life - Acoustic Version",
+      "url": "https://open.spotify.com/track/5CMccjYRurNhK3qt71BFmz"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -4691,22 +4675,18 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "By Your Side (Abbey Road Live Version)",
-        "url": "https://open.spotify.com/album/3mH8f6BWGWZOVzteyY1A7q"
+        "name": "Let Me Love You",
+        "url": "https://open.spotify.com/album/0X9rBMMnumL0xy7YyRKHw2"
       },
       "artists": [
         {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "Drew Sycamore",
+          "url": "https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA"
         }
       ],
-      "duration_ms": 193728,
-      "name": "By Your Side - Abbey Road Live Version",
-      "url": "https://open.spotify.com/track/16eWR8rIz9BNAcMC64Yuc5"
+      "duration_ms": 212891,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/6R968luce1GlHOJC4OWtlG"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -4723,6 +4703,26 @@
       "duration_ms": 173200,
       "name": "Mad Love - Acoustic",
       "url": "https://open.spotify.com/track/3wl6QxubZaEFHvp05XpcuF"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "By Your Side (Abbey Road Live Version)",
+        "url": "https://open.spotify.com/album/3mH8f6BWGWZOVzteyY1A7q"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 193728,
+      "name": "By Your Side - Abbey Road Live Version",
+      "url": "https://open.spotify.com/track/16eWR8rIz9BNAcMC64Yuc5"
     },
     {
       "added_at": "2023-10-23 17:16:00",

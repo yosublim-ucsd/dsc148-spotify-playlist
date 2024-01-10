@@ -1,12 +1,12 @@
 {
   "description": "Heavy Metal forever \\m/ classics to brand new tracks, play it loud. Cover: Judas Priest",
-  "num_followers": 1197315,
+  "num_followers": 1197215,
   "original_name": "Heavy Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTcwNTU5MjY0YmE3NGNhMjIzMDc4MDYyZGY5MmE5OWY2OTY1ZGE4",
+  "snapshot_id": "MCxlOWExNzkzYTQxMzJkMWVmODM5Y2E1MDdkNjIyNmFhMjE5OTc3NTUy",
   "tracks": [
     {
       "added_at": "2023-12-06 03:08:55",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
-        "name": "School's Out",
-        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "School's Out",
-      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
-    },
-    {
-      "added_at": "2023-12-06 03:08:55",
-      "album": {
         "name": "The Real Thing",
         "url": "https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 293653,
       "name": "Epic",
       "url": "https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot"
+    },
+    {
+      "added_at": "2023-12-06 03:08:55",
+      "album": {
+        "name": "School's Out",
+        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "School's Out",
+      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
     },
     {
       "added_at": "2023-12-06 03:08:55",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
-        "name": "Jesus He Knows Me",
-        "url": "https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 245240,
-      "name": "Jesus He Knows Me",
-      "url": "https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP"
-    },
-    {
-      "added_at": "2023-12-06 03:08:55",
-      "album": {
         "name": "Sacrament",
         "url": "https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 220880,
       "name": "Redneck",
       "url": "https://open.spotify.com/track/04EtBLFIxbcVt9NdYgcrpF"
+    },
+    {
+      "added_at": "2023-12-06 03:08:55",
+      "album": {
+        "name": "Jesus He Knows Me",
+        "url": "https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 245240,
+      "name": "Jesus He Knows Me",
+      "url": "https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP"
     },
     {
       "added_at": "2023-12-06 03:08:55",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
-        "name": "Kings of Metal",
-        "url": "https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB"
-      },
-      "artists": [
-        {
-          "name": "Manowar",
-          "url": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
-        }
-      ],
-      "duration_ms": 223866,
-      "name": "Kings of Metal",
-      "url": "https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR"
-    },
-    {
-      "added_at": "2023-12-06 03:08:55",
-      "album": {
         "name": "Rumble of Thunder (Deluxe)",
         "url": "https://open.spotify.com/album/1WmySyMyPGVPlCpKQGQaEp"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 268744,
       "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
       "url": "https://open.spotify.com/track/7nqgVLMje8RzKrmNH2D6dg"
+    },
+    {
+      "added_at": "2023-12-06 03:08:55",
+      "album": {
+        "name": "Kings of Metal",
+        "url": "https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB"
+      },
+      "artists": [
+        {
+          "name": "Manowar",
+          "url": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
+        }
+      ],
+      "duration_ms": 223866,
+      "name": "Kings of Metal",
+      "url": "https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR"
     },
     {
       "added_at": "2023-12-06 03:08:55",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
-        "name": "High 'N' Dry",
-        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 283186,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/1aR6W01r094onPc4O2avEp"
-    },
-    {
-      "added_at": "2023-12-06 03:08:55",
-      "album": {
         "name": "Perseverance",
         "url": "https://open.spotify.com/album/2UPZ06izR1OtTX80U30AfG"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 269466,
       "name": "We\u2019ll Be Back",
       "url": "https://open.spotify.com/track/1Ap9wotYS99H8R17VONySZ"
+    },
+    {
+      "added_at": "2023-12-06 03:08:55",
+      "album": {
+        "name": "High 'N' Dry",
+        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 283186,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/1aR6W01r094onPc4O2avEp"
     },
     {
       "added_at": "2023-12-06 03:08:55",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
-        "name": "Foregone",
-        "url": "https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3"
-      },
-      "artists": [
-        {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
-        }
-      ],
-      "duration_ms": 270454,
-      "name": "Foregone, Pt. 2",
-      "url": "https://open.spotify.com/track/6kk4G7WCvFrYuiotuDnH2N"
-    },
-    {
-      "added_at": "2023-12-06 03:08:55",
-      "album": {
         "name": "Demanufacture (Special Edition)",
         "url": "https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2"
       },
@@ -1531,6 +1515,22 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
+        "name": "Foregone",
+        "url": "https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3"
+      },
+      "artists": [
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "duration_ms": 270454,
+      "name": "Foregone, Pt. 2",
+      "url": "https://open.spotify.com/track/6kk4G7WCvFrYuiotuDnH2N"
+    },
+    {
+      "added_at": "2023-12-06 03:08:55",
+      "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/4rTul9Y40kljIY12LiVAwB"
       },
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
-        "name": "SLEEPS SOCIETY",
-        "url": "https://open.spotify.com/album/79sFCnrZ9TPamHkqCOQwJA"
-      },
-      "artists": [
-        {
-          "name": "While She Sleeps",
-          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
-        }
-      ],
-      "duration_ms": 199429,
-      "name": "SLEEPS SOCIETY",
-      "url": "https://open.spotify.com/track/3ZFP6XrE0FHu4duyi7vRoL"
-    },
-    {
-      "added_at": "2023-12-06 03:08:55",
-      "album": {
         "name": "The Forgotten",
         "url": "https://open.spotify.com/album/0jIKQkG06Op47HFg6slCS1"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 362500,
       "name": "While We Serve",
       "url": "https://open.spotify.com/track/3LmcjJ7e4tlRqwYs2VNRq0"
+    },
+    {
+      "added_at": "2023-12-06 03:08:55",
+      "album": {
+        "name": "SLEEPS SOCIETY",
+        "url": "https://open.spotify.com/album/79sFCnrZ9TPamHkqCOQwJA"
+      },
+      "artists": [
+        {
+          "name": "While She Sleeps",
+          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
+        }
+      ],
+      "duration_ms": 199429,
+      "name": "SLEEPS SOCIETY",
+      "url": "https://open.spotify.com/track/3ZFP6XrE0FHu4duyi7vRoL"
     },
     {
       "added_at": "2023-12-06 03:08:55",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
-        "name": "Our Time Is Now",
-        "url": "https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 271417,
-      "name": "Our Time Is Now",
-      "url": "https://open.spotify.com/track/0dDs144SVansAFynvKYQMW"
-    },
-    {
-      "added_at": "2023-12-06 03:08:55",
-      "album": {
         "name": "See What\u2019s On The Inside",
         "url": "https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 228977,
       "name": "Alone Again",
       "url": "https://open.spotify.com/track/7JP8lWYrxpA8luKU8IPd3Y"
+    },
+    {
+      "added_at": "2023-12-06 03:08:55",
+      "album": {
+        "name": "Our Time Is Now",
+        "url": "https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 271417,
+      "name": "Our Time Is Now",
+      "url": "https://open.spotify.com/track/0dDs144SVansAFynvKYQMW"
     },
     {
       "added_at": "2023-12-06 03:08:55",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
-        "name": "Lights...Camera...Revolution",
-        "url": "https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT"
-      },
-      "artists": [
-        {
-          "name": "Suicidal Tendencies",
-          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
-        }
-      ],
-      "duration_ms": 348093,
-      "name": "You Can't Bring Me Down",
-      "url": "https://open.spotify.com/track/203xxdlledLFnkqrUleD72"
-    },
-    {
-      "added_at": "2023-12-06 03:08:55",
-      "album": {
         "name": "Dark Connection",
         "url": "https://open.spotify.com/album/30O1KkbyS9bbOniw7xtQux"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 338760,
       "name": "Moonlight Rendezvous",
       "url": "https://open.spotify.com/track/6P5Ma1HFYDsgOpLaGu6Jkz"
+    },
+    {
+      "added_at": "2023-12-06 03:08:55",
+      "album": {
+        "name": "Lights...Camera...Revolution",
+        "url": "https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT"
+      },
+      "artists": [
+        {
+          "name": "Suicidal Tendencies",
+          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
+        }
+      ],
+      "duration_ms": 348093,
+      "name": "You Can't Bring Me Down",
+      "url": "https://open.spotify.com/track/203xxdlledLFnkqrUleD72"
     },
     {
       "added_at": "2023-12-06 03:08:55",
@@ -2523,22 +2523,6 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
-        "name": "Blow EP",
-        "url": "https://open.spotify.com/album/3AyOgySZDKrBWEwCVy2Ohv"
-      },
-      "artists": [
-        {
-          "name": "Eva Under Fire",
-          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
-        }
-      ],
-      "duration_ms": 300698,
-      "name": "Separate Ways",
-      "url": "https://open.spotify.com/track/62eNYg3cHHfr1ThVxe2vaM"
-    },
-    {
-      "added_at": "2023-12-06 03:08:55",
-      "album": {
         "name": "Greatest Hits: Back To The Start",
         "url": "https://open.spotify.com/album/00sgBMhbJo1lEa1hHhYtw4"
       },
@@ -2551,6 +2535,22 @@
       "duration_ms": 246733,
       "name": "Symphony Of Destruction",
       "url": "https://open.spotify.com/track/4YJZjINIhakR98fnz1Pvup"
+    },
+    {
+      "added_at": "2023-12-06 03:08:55",
+      "album": {
+        "name": "Blow EP",
+        "url": "https://open.spotify.com/album/3AyOgySZDKrBWEwCVy2Ohv"
+      },
+      "artists": [
+        {
+          "name": "Eva Under Fire",
+          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
+        }
+      ],
+      "duration_ms": 300698,
+      "name": "Separate Ways",
+      "url": "https://open.spotify.com/track/62eNYg3cHHfr1ThVxe2vaM"
     },
     {
       "added_at": "2023-12-06 03:08:55",
@@ -2683,18 +2683,18 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
-        "name": "Masters of War",
-        "url": "https://open.spotify.com/album/0w8qn4MsyCw0d8i98QiZTh"
+        "name": "Scum",
+        "url": "https://open.spotify.com/album/51wqCUWehVrNj2Ltc83zJu"
       },
       "artists": [
         {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+          "name": "Napalm Death",
+          "url": "https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt"
         }
       ],
-      "duration_ms": 274202,
-      "name": "Masters of War",
-      "url": "https://open.spotify.com/track/4Avnu5FR70qWD9VxandTWe"
+      "duration_ms": 158200,
+      "name": "Scum",
+      "url": "https://open.spotify.com/track/64syMK7oo9VPihJBj1IBGH"
     },
     {
       "added_at": "2023-12-06 03:08:55",
@@ -2715,18 +2715,18 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
-        "name": "Scum",
-        "url": "https://open.spotify.com/album/51wqCUWehVrNj2Ltc83zJu"
+        "name": "Masters of War",
+        "url": "https://open.spotify.com/album/0w8qn4MsyCw0d8i98QiZTh"
       },
       "artists": [
         {
-          "name": "Napalm Death",
-          "url": "https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt"
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
         }
       ],
-      "duration_ms": 158200,
-      "name": "Scum",
-      "url": "https://open.spotify.com/track/64syMK7oo9VPihJBj1IBGH"
+      "duration_ms": 274202,
+      "name": "Masters of War",
+      "url": "https://open.spotify.com/track/4Avnu5FR70qWD9VxandTWe"
     },
     {
       "added_at": "2023-12-06 03:08:55",
@@ -2783,22 +2783,6 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
-        "name": "Horns For A Halo",
-        "url": "https://open.spotify.com/album/6UeWcHxrlltg9Vqh46x2if"
-      },
-      "artists": [
-        {
-          "name": "Elegant Weapons",
-          "url": "https://open.spotify.com/artist/68LxTdkzuDW3cnp83NKfpQ"
-        }
-      ],
-      "duration_ms": 321440,
-      "name": "Do Or Die",
-      "url": "https://open.spotify.com/track/4QCUR8rFIqwHO3qsDOmXhM"
-    },
-    {
-      "added_at": "2023-12-06 03:08:55",
-      "album": {
         "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
         "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
       },
@@ -2815,6 +2799,22 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
+        "name": "Horns For A Halo",
+        "url": "https://open.spotify.com/album/6UeWcHxrlltg9Vqh46x2if"
+      },
+      "artists": [
+        {
+          "name": "Elegant Weapons",
+          "url": "https://open.spotify.com/artist/68LxTdkzuDW3cnp83NKfpQ"
+        }
+      ],
+      "duration_ms": 321440,
+      "name": "Do Or Die",
+      "url": "https://open.spotify.com/track/4QCUR8rFIqwHO3qsDOmXhM"
+    },
+    {
+      "added_at": "2023-12-06 03:08:55",
+      "album": {
         "name": "Chaosphere (Reloaded)",
         "url": "https://open.spotify.com/album/6iqYmBmkI5UcCsTKmhCqSw"
       },
@@ -2827,22 +2827,6 @@
       "duration_ms": 335666,
       "name": "New Millennium Cyanide Christ",
       "url": "https://open.spotify.com/track/0vpLgxoX2cpJM0Fvxwbw84"
-    },
-    {
-      "added_at": "2023-12-06 03:08:55",
-      "album": {
-        "name": "I Left My License in the Future",
-        "url": "https://open.spotify.com/album/15NNV514Cwa36hZa9NkiYT"
-      },
-      "artists": [
-        {
-          "name": "Thundermother",
-          "url": "https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw"
-        }
-      ],
-      "duration_ms": 212635,
-      "name": "I Left My License in the Future",
-      "url": "https://open.spotify.com/track/1KK7Jyf8kzQO1LkNF85uO4"
     },
     {
       "added_at": "2023-12-06 03:08:55",
@@ -2879,6 +2863,22 @@
       "duration_ms": 188388,
       "name": "Bring It On",
       "url": "https://open.spotify.com/track/7qzCzgC2uTpmnWwXJXsqwn"
+    },
+    {
+      "added_at": "2023-12-06 03:08:55",
+      "album": {
+        "name": "I Left My License in the Future",
+        "url": "https://open.spotify.com/album/15NNV514Cwa36hZa9NkiYT"
+      },
+      "artists": [
+        {
+          "name": "Thundermother",
+          "url": "https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw"
+        }
+      ],
+      "duration_ms": 212635,
+      "name": "I Left My License in the Future",
+      "url": "https://open.spotify.com/track/1KK7Jyf8kzQO1LkNF85uO4"
     },
     {
       "added_at": "2023-12-06 03:08:55",
@@ -3095,22 +3095,6 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
-        "name": "Atonement",
-        "url": "https://open.spotify.com/album/1npVe7YgkCKgg0zMj9dATV"
-      },
-      "artists": [
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        }
-      ],
-      "duration_ms": 237115,
-      "name": "Atonement",
-      "url": "https://open.spotify.com/track/0Y2kTZlKmbcsLSTHnLETBj"
-    },
-    {
-      "added_at": "2023-12-06 03:08:55",
-      "album": {
         "name": "No Prayer At Midnight",
         "url": "https://open.spotify.com/album/32KYjm5c695xOIy3yL33AT"
       },
@@ -3123,6 +3107,22 @@
       "duration_ms": 221000,
       "name": "No Prayer At Midnight",
       "url": "https://open.spotify.com/track/0VEYwIJluTQyPwq5y86EeZ"
+    },
+    {
+      "added_at": "2023-12-06 03:08:55",
+      "album": {
+        "name": "Atonement",
+        "url": "https://open.spotify.com/album/1npVe7YgkCKgg0zMj9dATV"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "duration_ms": 237115,
+      "name": "Atonement",
+      "url": "https://open.spotify.com/track/0Y2kTZlKmbcsLSTHnLETBj"
     },
     {
       "added_at": "2023-12-06 03:08:55",
@@ -3247,22 +3247,6 @@
     {
       "added_at": "2023-12-06 03:08:55",
       "album": {
-        "name": "Heartless Madness",
-        "url": "https://open.spotify.com/album/7hi1CYcnOAGlg0lVJCO3Bu"
-      },
-      "artists": [
-        {
-          "name": "Dynazty",
-          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
-        }
-      ],
-      "duration_ms": 239866,
-      "name": "Heartless Madness",
-      "url": "https://open.spotify.com/track/6syHCS66oykczN2ZN7zQPX"
-    },
-    {
-      "added_at": "2023-12-06 03:08:55",
-      "album": {
         "name": "Blood & Stone",
         "url": "https://open.spotify.com/album/12PgC7GyO8zgKeFh5PqLbH"
       },
@@ -3275,6 +3259,22 @@
       "duration_ms": 189105,
       "name": "Dying to Live",
       "url": "https://open.spotify.com/track/6IjwZM7myeMpb8CcZUGEv5"
+    },
+    {
+      "added_at": "2023-12-06 03:08:55",
+      "album": {
+        "name": "Heartless Madness",
+        "url": "https://open.spotify.com/album/7hi1CYcnOAGlg0lVJCO3Bu"
+      },
+      "artists": [
+        {
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
+        }
+      ],
+      "duration_ms": 239866,
+      "name": "Heartless Madness",
+      "url": "https://open.spotify.com/track/6syHCS66oykczN2ZN7zQPX"
     }
   ],
   "unique_name": "Heavy Metal",

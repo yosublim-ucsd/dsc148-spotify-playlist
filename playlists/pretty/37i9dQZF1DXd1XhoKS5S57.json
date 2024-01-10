@@ -1,12 +1,12 @@
 {
   "description": "Retour en arri\u00e8re avec les meilleurs titres de l'ann\u00e9e 2004. Photo : Usher",
-  "num_followers": 12076,
+  "num_followers": 12080,
   "original_name": "Top Hits France 2004",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzUyZDJhYWU0ZjQ2YjY3MDM1M2ZjZjdmMTZmOTM3OTRhNjNhYmJm",
+  "snapshot_id": "MCwwNjZjMDk1YmFjODNhZGZiNTlkNzJmYTJhYmQwNDE2ZDhiN2RjZWJh",
   "tracks": [
     {
       "added_at": "2020-10-27 12:12:52",
@@ -423,22 +423,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Elephunk",
-        "url": "https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 296186,
-      "name": "Shut Up",
-      "url": "https://open.spotify.com/track/0KxU9wjCedUxSGdjuFdBDu"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "Dead Letters",
         "url": "https://open.spotify.com/album/1J9W7Fkg34vdOVa8gR7dx7"
       },
@@ -455,6 +439,22 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
+        "name": "Elephunk",
+        "url": "https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 296186,
+      "name": "Shut Up",
+      "url": "https://open.spotify.com/track/0KxU9wjCedUxSGdjuFdBDu"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
         "name": "blink-182",
         "url": "https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp"
       },
@@ -467,22 +467,6 @@
       "duration_ms": 172645,
       "name": "Feeling This",
       "url": "https://open.spotify.com/track/26AYR77170U49cMcXB7aRV"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
-        "name": "Kevin Lyttle (US Domestic Release)",
-        "url": "https://open.spotify.com/album/0OWwtYwEZFMquSeHGNv3cw"
-      },
-      "artists": [
-        {
-          "name": "Kevin Lyttle",
-          "url": "https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba"
-        }
-      ],
-      "duration_ms": 192106,
-      "name": "Turn Me On",
-      "url": "https://open.spotify.com/track/0BBOLOV5JntPL3341swIre"
     },
     {
       "added_at": "2020-10-27 12:12:52",
@@ -507,6 +491,22 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
+        "name": "Kevin Lyttle (US Domestic Release)",
+        "url": "https://open.spotify.com/album/0OWwtYwEZFMquSeHGNv3cw"
+      },
+      "artists": [
+        {
+          "name": "Kevin Lyttle",
+          "url": "https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba"
+        }
+      ],
+      "duration_ms": 192106,
+      "name": "Turn Me On",
+      "url": "https://open.spotify.com/track/0BBOLOV5JntPL3341swIre"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
         "name": "In The Zone",
         "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
       },
@@ -523,22 +523,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Meteora",
-        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 196906,
-      "name": "Breaking the Habit",
-      "url": "https://open.spotify.com/track/6n8TMVyFKoUmDc4apxceRD"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "JoJo",
         "url": "https://open.spotify.com/album/1UIesw6QSRT3VrFN36hwgp"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 242840,
       "name": "Leave (Get Out)",
       "url": "https://open.spotify.com/track/3DOxMCaNBNvnjSzpHUSjE3"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "Meteora",
+        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 196906,
+      "name": "Breaking the Habit",
+      "url": "https://open.spotify.com/track/6n8TMVyFKoUmDc4apxceRD"
     },
     {
       "added_at": "2020-10-27 12:12:52",
@@ -971,22 +971,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Parce qu'on vient de loin",
-        "url": "https://open.spotify.com/album/5VMa7BgPzwjGfEPiGaJSPv"
-      },
-      "artists": [
-        {
-          "name": "Corneille",
-          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
-        }
-      ],
-      "duration_ms": 232932,
-      "name": "Parce qu'on vient de loin",
-      "url": "https://open.spotify.com/track/1wthYeOSBWfUYeCqhYcGt0"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "DiscO-Zone",
         "url": "https://open.spotify.com/album/6mTzM3bE0LkkVLAgdBWHYu"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 214560,
       "name": "Dragostea Din Tei - Original Romanian Version",
       "url": "https://open.spotify.com/track/6YkHLUPBUttfwepwFgNNGX"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "Parce qu'on vient de loin",
+        "url": "https://open.spotify.com/album/5VMa7BgPzwjGfEPiGaJSPv"
+      },
+      "artists": [
+        {
+          "name": "Corneille",
+          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
+        }
+      ],
+      "duration_ms": 232932,
+      "name": "Parce qu'on vient de loin",
+      "url": "https://open.spotify.com/track/1wthYeOSBWfUYeCqhYcGt0"
     },
     {
       "added_at": "2020-10-27 12:12:52",

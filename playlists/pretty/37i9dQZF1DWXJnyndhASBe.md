@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Mata
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,786 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,673 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [Mam tego dosc](https://open.spotify.com/track/6MgrEuRmMqJehuUccTghuz) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Aleshen](https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu) | [Mam tego dosc](https://open.spotify.com/album/09g8glEP1EWCtUPbR7bX8A) | 1:58 |
 | 50 | [noWy baTmAN](https://open.spotify.com/track/0YLPs2DX0TUhLZBlWtV6oQ) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [noWy baTmAN](https://open.spotify.com/album/5IjxyKPttlngllJPFmfSeE) | 2:49 |
 
-Snapshot ID: `MCw0Yjc4MWE3N2FmNGMxNDNjOTlhMjIyMTRkZTljODJlOGZkNmVmZmM5`
+Snapshot ID: `MCxkYWVjNWQ4NjNkZDUwYTJhY2NlMDkyZDdkNzg5YWY5MTU0MGExMTQz`

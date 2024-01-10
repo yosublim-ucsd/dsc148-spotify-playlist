@@ -4,7 +4,7 @@
 
 > New music from Youth Lagoon, Still Woozy, Kevin Kaarl and more..\.  Cover: Big Thief
 
-1,941 songs - 4 day 20 hr 44 min
+1,942 songs - 4 day 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1395,6 +1395,7 @@
 | [Ride or Die](https://open.spotify.com/track/22uD6yBefgzRTLrohe4IZs) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Ride or Die](https://open.spotify.com/album/1vMfrkDvP3CDkYGt19voDl) | 3:30 | 2022-01-21 | 2022-04-01 |
 | [Ride or Die](https://open.spotify.com/track/6Fh7ejE897jqXLVX6wb0jH) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW), [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Ride or Die](https://open.spotify.com/album/0A2ey7eMOz0e6RtTrDiMdj) | 3:44 | 2019-05-26\* | 2019-08-13 |
 | [Ride With You](https://open.spotify.com/track/3WGGCYHebfKS0EaUcuqGOW) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Ben Browning](https://open.spotify.com/artist/497VSHqaZA32b7tgCETFEH) | [Ride With You](https://open.spotify.com/album/6Hbq4l5PkyQwLVzLCOhBci) | 4:14 | 2023-09-15 | 2023-10-19 |
+| [Right Back to It](https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Right Back to It](https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p) | 4:33 | 2024-01-09 |  |
 | [Right Here, for Now](https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Right Here, For Now](https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi) | 3:00 | 2023-08-25 | 2023-10-07 |
 | [Right on time](https://open.spotify.com/track/6JJ3UK1YfxO26iEiMWUHHj) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Small World](https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj) | 3:44 | 2022-02-25 | 2022-04-08 |
 | [Right Thing](https://open.spotify.com/track/4dSOUIj2mJ7gZuW7dbuSB0) | [Bayonne](https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek) | [Right Thing](https://open.spotify.com/album/1WFSgrgfu33KqJfk4CWyPW) | 3:42 | 2023-01-27 | 2023-02-18 |
@@ -1679,7 +1680,7 @@
 | [The One](https://open.spotify.com/track/55tQMd3wlWyiB51q6CGZgS) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [The One](https://open.spotify.com/album/1wjFYIGn9tsz6egrNisZj1) | 2:25 | 2022-06-03 | 2022-06-18 |
 | [The Only Heartbreaker](https://open.spotify.com/track/6y6bUurXB0FfhddEU5Qch0) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Only Heartbreaker](https://open.spotify.com/album/1YMGcCHQ4xkwiWXpGGXmkY) | 3:04 | 2021-11-19 | 2022-04-30 |
 | [The Other Lover \(Little Dragon & Moses Sumney\)](https://open.spotify.com/track/3U12nxwFolQ6hsG6zcyEqc) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [The Other Lover \(Little Dragon & Moses Sumney\)](https://open.spotify.com/album/5aCUZAQz1bDC3txTnqDm5N) | 4:04 | 2020-12-22 | 2021-05-22 |
-| [The Parting Glass](https://open.spotify.com/track/0bbZ3J2KdCT92SlBFORNNU) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Ye Vagabonds](https://open.spotify.com/artist/34Or4SetJBRvrlE8AO1qDO) | [The Parting Glass](https://open.spotify.com/album/3hapDRjTtKNAQOuavK6vgO) | 4:11 | 2023-11-24 |  |
+| [The Parting Glass](https://open.spotify.com/track/0bbZ3J2KdCT92SlBFORNNU) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Ye Vagabonds](https://open.spotify.com/artist/34Or4SetJBRvrlE8AO1qDO) | [The Parting Glass](https://open.spotify.com/album/3hapDRjTtKNAQOuavK6vgO) | 4:11 | 2023-11-24 | 2024-01-10 |
 | [The Perfect Girl](https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [The Perfect Girl](https://open.spotify.com/album/2JnZQM70jbT0J1Xq0qgl24) | 3:14 | 2023-01-06 | 2023-04-01 |
 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2022-07-20 | 2023-04-22 |
 | [The Perfect Pair \- Spotify Singles](https://open.spotify.com/track/3VlDt2YVRn91CJXc89AQEx) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Our Generation \- Spotify Singles](https://open.spotify.com/album/3aVpww6hYzU8sHdkSeO0Bw) | 2:42 | 2023-05-03 | 2023-05-20 |

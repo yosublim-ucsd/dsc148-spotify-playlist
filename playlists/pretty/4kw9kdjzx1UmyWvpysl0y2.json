@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127087,
+  "num_followers": 127011,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDUwMixkYTg1ZDZiMTkzZmRlMjk1NTUxZWU0OWZhNDA2MDk5OWVmNjhhNDM0",
+  "snapshot_id": "NDUwMywwZjZjNmU3OTMyNDViZjBkYTA1NGMyODhjOGZkMmRkODM0NDZiOGY0",
   "tracks": [
+    {
+      "added_at": "2024-01-09 17:09:39",
+      "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/174i8xLnIubs0bYpOVqR9t"
+      },
+      "artists": [
+        {
+          "name": "Finding Mero",
+          "url": "https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/6dAsiXhQrIYH4AAXuqyGWH"
+    },
     {
       "added_at": "2024-01-08 14:37:10",
       "album": {

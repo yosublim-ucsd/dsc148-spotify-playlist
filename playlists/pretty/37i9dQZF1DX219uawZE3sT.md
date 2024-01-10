@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 
 > Apasiónate y revive los temas de tus historias predilectas\. Foto: Thalía
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,004 likes - 70 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,011 likes - 70 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 | 50 | [Mi tesoro](https://open.spotify.com/track/0ThQ0DXcsRbEyOsvKVdZWo) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Mi tesoro](https://open.spotify.com/album/3XUPV2CIpfIZDHUI8WKFfY) | 3:29 |
 | 51 | [Falsas Esperanzas](https://open.spotify.com/track/0Mrq76p3dcIF8vrzWQyMVG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 2:56 |
 | 52 | [Mentira](https://open.spotify.com/track/3SmkowrAwAjGSf1SYl7cgV) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Solo Bolero](https://open.spotify.com/album/3nJmMv3vx8sLOUNiybShch) | 4:43 |
-| 53 | [En Su Lugar](https://open.spotify.com/track/4w5F6hkJO5Gr1h0tDDPbg1) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Entre Mariposas](https://open.spotify.com/album/1jPtvaUml63VAJGOwTixv0) | 3:46 |
-| 54 | [Por Amarte \(Destilando Amor\)](https://open.spotify.com/track/0xnzXKmN99EFnnFZAKJOUa) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Enamorado](https://open.spotify.com/album/5srqyIwlkQ9ksMRHeXq3wv) | 3:49 |
+| 53 | [Por Amarte \(Destilando Amor\)](https://open.spotify.com/track/0xnzXKmN99EFnnFZAKJOUa) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Enamorado](https://open.spotify.com/album/5srqyIwlkQ9ksMRHeXq3wv) | 3:49 |
+| 54 | [En Su Lugar](https://open.spotify.com/track/4w5F6hkJO5Gr1h0tDDPbg1) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Entre Mariposas](https://open.spotify.com/album/1jPtvaUml63VAJGOwTixv0) | 3:46 |
 | 55 | [Demasiado Corazon](https://open.spotify.com/track/203xPsmlzOYbPoUv4WL2kM) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Demasiado Corazon](https://open.spotify.com/album/2IgZZffWbFgLioltFU54VE) | 3:50 |
 | 56 | [Tres palabras](https://open.spotify.com/track/67HOYnFs2hqbKKRNz0YfY8) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Luis Miguel \(Edición De Lujo\)](https://open.spotify.com/album/3MpbAt21ozNGRmmLCmP2ed) | 2:55 |
 | 57 | [Amor Gitano](https://open.spotify.com/track/1Kd5Qj9kicqjCw1BjWRzH0) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [B'Day Deluxe Edition](https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB) | 3:48 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 | 69 | [Contra Viento Y Marea](https://open.spotify.com/track/5o6WIZr8i93PtynxDAzT7U) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Super \#1's](https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh) | 3:40 |
 | 70 | [Si Vas a Amarme](https://open.spotify.com/track/1YX5cBhoVOsrMgl7KpTtW1) | [Pablo Montero](https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3) | [Si Vas a Amarme](https://open.spotify.com/album/5q9QU0sbVwsd2iK0cdNngN) | 3:07 |
 
-Snapshot ID: `MCw5MDRkYTA0NmVjMzAzZDdjZjM3YjAyY2FkMzY3ZThiZDZhOTE4NGI2`
+Snapshot ID: `MCxiNmVhM2JkYmNkNTlmNTUwNWNiNWMwZjQ4ZWMzM2FmODg2OWY2YzMz`

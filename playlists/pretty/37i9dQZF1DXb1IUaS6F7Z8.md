@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 
 > All of the best Celtic punk tracks\. Cover: The Dreadnoughts
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,225 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,297 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,16 +14,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 4 | [Drunken Lullabies](https://open.spotify.com/track/7caiyAewYYoWu5rZZgQWgn) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Drunken Lullabies](https://open.spotify.com/album/7EtBU4Uen8tfOq0Ah9tqz3) | 3:50 |
 | 5 | [Chip](https://open.spotify.com/track/10UlU5E5RfydywnKmA1nFL) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Off the Leash](https://open.spotify.com/album/2lm8NrhAtM2ez61pI92J3l) | 3:14 |
 | 6 | [Drunken Sailor](https://open.spotify.com/track/4CkIURmNRubxc12llcAiuh) | [Blaggards](https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1) | [Standards](https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4) | 2:38 |
-| 7 | [A Fistful O' Roses](https://open.spotify.com/track/34m9v482iwNV9QHWfzNFq0) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Sleepin' Rough](https://open.spotify.com/album/11gXkG9RdZCEuJwIOZ7OPW) | 4:47 |
-| 8 | [The Gipsy Dancer](https://open.spotify.com/track/5kHz0PMhxREjnD3rmulNbC) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6) | [Toss the Coin](https://open.spotify.com/album/6iyWp7G8k1eh3kiPa9OMX0) | 2:49 |
+| 7 | [The Gipsy Dancer](https://open.spotify.com/track/5kHz0PMhxREjnD3rmulNbC) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6) | [Toss the Coin](https://open.spotify.com/album/6iyWp7G8k1eh3kiPa9OMX0) | 2:49 |
+| 8 | [A Fistful O' Roses](https://open.spotify.com/track/34m9v482iwNV9QHWfzNFq0) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Sleepin' Rough](https://open.spotify.com/album/11gXkG9RdZCEuJwIOZ7OPW) | 4:47 |
 | 9 | [Rose Tattoo](https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [SIGNED and SEALED in BLOOD](https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ) | 5:06 |
 | 10 | [Devil's Dance Floor](https://open.spotify.com/track/1QxiAWrrZ2uFrjyzsC5jFg) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Swagger](https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN) | 3:59 |
 | 11 | [The Foggy Dew](https://open.spotify.com/track/5wXGCPZNAuz0nOOQHGlvKp) | [Young Dubliners](https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj) | [With All Due Respect: The Irish Sessions](https://open.spotify.com/album/291LYTwbCHyPWBrD12eD3B) | 3:11 |
 | 12 | [Yesterday's Rebel](https://open.spotify.com/track/3rldsE7VbNG5jXv2LGNKF8) | [The O'Reillys and the Paddyhats](https://open.spotify.com/artist/5rY2KJh3KVITvw9bAz74pQ) | [Green Blood](https://open.spotify.com/album/4AAQCgvQvR3RRpJdxRvNCl) | 2:54 |
 | 13 | [Sleep Is for the Weak](https://open.spotify.com/track/3tkXg3freIdvTxN58YUPaG) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Polka's Not Dead](https://open.spotify.com/album/5V7rg6LPNl4TgqiGzA4kZH) | 3:09 |
 | 14 | [Arrive On St\. Patrick's Day](https://open.spotify.com/track/0E4tTwpmHQTXQbI9Ov7V2S) | [Sir Reg](https://open.spotify.com/artist/0ircDsEvOEB5iDlGl2lT63) | [SIR REG](https://open.spotify.com/album/5WCydhGEqbdCoZBgaVGvfE) | 3:16 |
-| 15 | [Fight Song](https://open.spotify.com/track/35DtVain6n4J5hAb0wDNZz) | [The Stanfields](https://open.spotify.com/artist/0w8r7Pn1wm1SCegYhVIQtJ) | [Modem Operandi](https://open.spotify.com/album/0xdrPhrZW6zE7miVUMG9Qg) | 2:47 |
-| 16 | [The Tempest](https://open.spotify.com/track/6gXLYsEkqlhe41lWPdBKOx) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Westwinds](https://open.spotify.com/album/2XRertV5XG54s3PAiMBRlO) | 4:08 |
+| 15 | [The Tempest](https://open.spotify.com/track/6gXLYsEkqlhe41lWPdBKOx) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Westwinds](https://open.spotify.com/album/2XRertV5XG54s3PAiMBRlO) | 4:08 |
+| 16 | [Fight Song](https://open.spotify.com/track/35DtVain6n4J5hAb0wDNZz) | [The Stanfields](https://open.spotify.com/artist/0w8r7Pn1wm1SCegYhVIQtJ) | [Modem Operandi](https://open.spotify.com/album/0xdrPhrZW6zE7miVUMG9Qg) | 2:47 |
 | 17 | [The State Of Massachusetts](https://open.spotify.com/track/0kXpvPNNjjPsEGRg3SE0xW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest Of Times](https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX) | 3:52 |
 | 18 | [Cheer Up Love \(Worse Things Happen at Sea\), Pt\. 3](https://open.spotify.com/track/1geM10YkSCzsCIFen0LQvW) | [Smokey Bastard](https://open.spotify.com/artist/1hMdCc6Bzz9cB05C7UTEY8) | [Tales from the Wasteland](https://open.spotify.com/album/0gWD1s9jyyDQjLi50IoUrl) | 2:31 |
 | 19 | [Seven Deadly Sins](https://open.spotify.com/track/66jfY0gvhfylkoocCEyhv0) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Within a Mile of Home](https://open.spotify.com/album/0qVJEliXJswOdaabP9hGmJ) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 49 | [Still Alive](https://open.spotify.com/track/1RbpnDf4CwKWnQNdMeDjM1) | [Firkin](https://open.spotify.com/artist/4gStxnd8dQCtu5jeE4rEBF) | [Spice It Up!](https://open.spotify.com/album/2NzU2lS6b41Dvmm0sFZNl4) | 2:47 |
 | 50 | [The Secret Set \(Drowsy Maggie / The Star of Munster\)](https://open.spotify.com/track/5sW7CM5Tq9Ub15GesYUsx0) | [Saint Bushmill's Choir](https://open.spotify.com/artist/4BAmvqtlQnj48zj888clBo) | [The Very Best of Saint Bushmill's Choir](https://open.spotify.com/album/32lSaCl9f3KboCK6kcu08I) | 3:03 |
 
-Snapshot ID: `MCxmZWZjNjVkZDg5MDA3OTA0YjU5NGM4OTQ2YmJlYTlkY2I0YmU2NGRm`
+Snapshot ID: `MCw2OWNiN2E1MWZmNTFkYjgwOTAwZWUyZjczYTFkYzQzY2Q2ZmFhNDA3`

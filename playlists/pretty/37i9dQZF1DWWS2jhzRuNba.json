@@ -1,12 +1,12 @@
 {
   "description": "you know the vibe \ud83e\udd65\ud83c\udf34\ud83d\udc59\ud83d\udc1a\ud83e\udd8b\ud83c\udf38",
-  "num_followers": 153690,
+  "num_followers": 154177,
   "original_name": "coconut girl vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OWNlMGUzMzNhM2U5NWI0NDk4Yzk4MzU0NWEzZWRiZjUwYTVkYmI2",
+  "snapshot_id": "MCw5M2M3ZDc3N2U5OGY1Y2Q2MWNiNzcxZWRhMTdhMzJhZDAxYjgxYzdj",
   "tracks": [
     {
       "added_at": "2022-06-30 20:39:45",
@@ -683,18 +683,22 @@
     {
       "added_at": "2022-06-30 20:39:45",
       "album": {
-        "name": "The Slow Rush",
-        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
+        "name": "Nothing Happens",
+        "url": "https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 237800,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr"
+      "duration_ms": 178000,
+      "name": "Are You Bored Yet? (feat. Clairo)",
+      "url": "https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm"
     },
     {
       "added_at": "2022-06-30 20:39:45",
@@ -715,22 +719,18 @@
     {
       "added_at": "2022-06-30 20:39:45",
       "album": {
-        "name": "Nothing Happens",
-        "url": "https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9"
+        "name": "The Slow Rush",
+        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
       },
       "artists": [
         {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Are You Bored Yet? (feat. Clairo)",
-      "url": "https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm"
+      "duration_ms": 237800,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr"
     },
     {
       "added_at": "2022-06-30 20:39:45",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-06-30 20:39:45",
       "album": {
+        "name": "Never Trust a Happy Song",
+        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 218013,
+      "name": "Tongue Tied",
+      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
+    },
+    {
+      "added_at": "2022-06-30 20:39:45",
+      "album": {
         "name": "Picture Show",
         "url": "https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 201538,
       "name": "Strawberries & Cigarettes",
       "url": "https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ"
-    },
-    {
-      "added_at": "2022-06-30 20:39:45",
-      "album": {
-        "name": "Never Trust a Happy Song",
-        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 218013,
-      "name": "Tongue Tied",
-      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
     },
     {
       "added_at": "2022-06-30 20:39:45",

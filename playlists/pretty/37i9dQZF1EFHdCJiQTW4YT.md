@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7fz7UPTxns39Xp8gj9zoIB">Stephen Wrabel</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311 likes - 141 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 310 likes - 141 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 10 | [Don't Go Breaking My Heart](https://open.spotify.com/track/1E3ghCAkxEdT5KHVBwArr3) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [DNA](https://open.spotify.com/album/02FX4aLHDNacfV4bMnO9Kv) | 3:35 |
 | 11 | [Run to You](https://open.spotify.com/track/2SOUTN8rzGAkBr001HqAXe) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Places](https://open.spotify.com/album/7k39NBjViaNw8dpzNpiXwA) | 3:37 |
 | 12 | [Surround Me](https://open.spotify.com/track/4aai1PoVGPcspMhmzOzpZN) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Surround Me \- EP](https://open.spotify.com/album/3m61NACPLHynQ8JHZpPXd4) | 3:52 |
-| 13 | [Raising Hell \(feat\. Big Freedia\)](https://open.spotify.com/track/14wPnCr1Z8CIHBVpnpcTVt) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 2:49 |
+| 13 | [Raising Hell](https://open.spotify.com/track/4NVIkvGv6TDLKoiUWI1Ll9) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Raising Hell \(Official Video\)](https://open.spotify.com/album/3mjegKOfIfgTT0KwbrEBKD) | 3:32 |
 | 14 | [Wish On An Eyelash](https://open.spotify.com/track/2XrMjGhpgMZp5qzD4iThEp) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/4jeFaZ3TvNTgHAdTFzTKoF) | 0:58 |
 | 15 | [Don't Let It Break Your Heart](https://open.spotify.com/track/4nbQRLAPq202lsQsv9FNwK) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Walls](https://open.spotify.com/album/4F4wlAmPyUVCyISxlePFL9) | 3:24 |
 | 16 | [True Feeling](https://open.spotify.com/track/6R1ArLLvqPvS3AHg9YgmrQ) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [The Aviary](https://open.spotify.com/album/7DNmxxEuJe19wNVrinaXx4) | 3:59 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 29 | [nothing but the love](https://open.spotify.com/track/6nUwq6jL9AiwzsRDxI0AkN) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:04 |
 | 30 | [Dream On Me](https://open.spotify.com/track/1dCpERd2GVVFbKuOpJjgPm) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Everything I Didn’t Say And More](https://open.spotify.com/album/3Le2W5qttl13XfXLvKIfw5) | 3:02 |
 | 31 | [london](https://open.spotify.com/track/4mmtgoBJCUA8l8uDRJlnro) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [these words are all for you too](https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M) | 4:26 |
-| 32 | [Baby](https://open.spotify.com/track/4BbVWoRHYM6xwfGyLyXfYa) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Baby](https://open.spotify.com/album/4VSa49ZHs3TmSlJnbdSB0o) | 3:15 |
+| 32 | [Baby](https://open.spotify.com/track/21vwWfS6qvxh8TN3lgHvZr) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Baby](https://open.spotify.com/album/2Mu6Sua4GrqPmchgUj4vZI) | 3:14 |
 | 33 | [Still Good](https://open.spotify.com/track/3snCUIDipfcnwhyIfeDe8f) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [People To People](https://open.spotify.com/album/18AYjsog9iGp1np3r1KqHJ) | 3:21 |
 | 34 | [Hold You 'Til We’re Old](https://open.spotify.com/track/5aT0NEQAFMbX5RXe6DYJQK) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Hold You 'Til We’re Old](https://open.spotify.com/album/3Uy0TTHUOKQYCvEU0gLVkd) | 3:02 |
 | 35 | [hurts like hell](https://open.spotify.com/track/1Cd4W9s1YoTKNzNrVkOjs2) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [hurts like hell](https://open.spotify.com/album/1YqCPwqa29diDqCeB3Qahf) | 3:57 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 50 | [Into The Wild](https://open.spotify.com/track/4g2T3FUjXH6XuboKw60hHX) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Sideways](https://open.spotify.com/album/5XsAy9Iqc4HVotx800ojMA) | 3:30 |
 | 51 | [Water](https://open.spotify.com/track/0gwR22fn1mk9XLm6mpJnk8) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Church Of Scars](https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY) | 3:21 |
 | 52 | [Kiss Kiss](https://open.spotify.com/track/1YIpn8wM7Zbq7sZr9AeI7I) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Soy el Mismo](https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe) | 3:44 |
-| 53 | [High Road](https://open.spotify.com/track/61ajurwxRe5ylmgL15chfw) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road \(Official Video\)](https://open.spotify.com/album/0PiXsaxEAFocCvgEw6pyhv) | 3:27 |
+| 53 | [High Road](https://open.spotify.com/track/113vSUnh7fsCbSRNgEH0to) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 3:19 |
 | 54 | [Lost Cause](https://open.spotify.com/track/72cW36itoiN4orlNQtJgGE) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:38 |
 | 55 | [Written in the Scars \(feat\. Wrabel\)](https://open.spotify.com/track/0W68dlJ9e4OcVWbECODJDM) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [The Aviary](https://open.spotify.com/album/7DNmxxEuJe19wNVrinaXx4) | 3:23 |
 | 56 | [All the Feels](https://open.spotify.com/track/3scYtw10wODPatwKBGTwB6) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [All the Feels](https://open.spotify.com/album/73hQB56aBFJTHE9vshSCLg) | 3:16 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 140 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
 | 141 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
 
-Snapshot ID: `Mjg0MTI4NDIsMDAwMDAwMDAzNzFjODFiNDM5Mzk5N2RkM2UzYzkxOWQyOWQ0OGQxMg==`
+Snapshot ID: `Mjg0MTQyMjAsMDAwMDAwMDA0NWZiNjZlNjdlOGE1NjIyN2FlYTYwODk5ZGRjNDFhOQ==`

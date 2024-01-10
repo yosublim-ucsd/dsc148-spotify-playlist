@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 89666,
+  "num_followers": 89684,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjIzNzE0ZWE1Y2FmMWM4NDJiZTE3YmZjMjExMzNiOGI5Y2M0Mjkx",
+  "snapshot_id": "MCxhM2UyNDFkYjc3NGUyYzg0NTY1MGQ2YWI5YzRiMDI5NDE2NGZjMDU1",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Peopled with Dreams",
+        "url": "https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv"
+      },
+      "artists": [
+        {
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+        }
+      ],
+      "duration_ms": 234558,
+      "name": "Juggernaut",
+      "url": "https://open.spotify.com/track/5IPkJqYSdbCJJHZA840z3I"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Giants",
         "url": "https://open.spotify.com/album/2ik2fFjv7xdAAK3VP9P779"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 232683,
       "name": "Not Afraid Of The Dark",
       "url": "https://open.spotify.com/track/7JnVYNEMeIryihBV8bADTz"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Peopled with Dreams",
-        "url": "https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv"
-      },
-      "artists": [
-        {
-          "name": "John Mark McMillan",
-          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
-        }
-      ],
-      "duration_ms": 234558,
-      "name": "Juggernaut",
-      "url": "https://open.spotify.com/track/5IPkJqYSdbCJJHZA840z3I"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "THRESHOLDS",
-        "url": "https://open.spotify.com/album/5LBLcdPMnr1mwBRldKb3vs"
-      },
-      "artists": [
-        {
-          "name": "Mike Edel",
-          "url": "https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI"
-        }
-      ],
-      "duration_ms": 211880,
-      "name": "Go With You",
-      "url": "https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "When the Walls Come Crashing Down",
         "url": "https://open.spotify.com/album/4xaqP5u8jIbH7cTwTRZ3a8"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 221680,
       "name": "When the Walls Come Crashing Down (feat. Jon Foreman & Jillian Edwards)",
       "url": "https://open.spotify.com/track/6b0X26lFzNr7FnlbPTD4Qg"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "THRESHOLDS",
+        "url": "https://open.spotify.com/album/5LBLcdPMnr1mwBRldKb3vs"
+      },
+      "artists": [
+        {
+          "name": "Mike Edel",
+          "url": "https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI"
+        }
+      ],
+      "duration_ms": 211880,
+      "name": "Go With You",
+      "url": "https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Compromise",
+        "url": "https://open.spotify.com/album/3M8SOThdRPxCbOGBCKQGuh"
+      },
+      "artists": [
+        {
+          "name": "Molly Kate Kestner",
+          "url": "https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf"
+        }
+      ],
+      "duration_ms": 179748,
+      "name": "Compromise",
+      "url": "https://open.spotify.com/track/0tZSHcIwouL6HLgH0BBpUC"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "If In Case You Feel The Same",
         "url": "https://open.spotify.com/album/2M9xs7ILwOXsMgvH8aObmA"
       },
@@ -775,38 +791,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Compromise",
-        "url": "https://open.spotify.com/album/3M8SOThdRPxCbOGBCKQGuh"
-      },
-      "artists": [
-        {
-          "name": "Molly Kate Kestner",
-          "url": "https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf"
-        }
-      ],
-      "duration_ms": 179748,
-      "name": "Compromise",
-      "url": "https://open.spotify.com/track/0tZSHcIwouL6HLgH0BBpUC"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Portals",
-        "url": "https://open.spotify.com/album/5yiWKtKmZTtPbuVa9CYs5I"
-      },
-      "artists": [
-        {
-          "name": "Fleurie",
-          "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "Constellate",
-      "url": "https://open.spotify.com/track/7JDpA0WUDhFMb4MEsihv7r"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Unshackled",
         "url": "https://open.spotify.com/album/3rvPQDXFMxJqtSlMzD7JSm"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 244089,
       "name": "Unshackled",
       "url": "https://open.spotify.com/track/1ZHOREB6ew670daqMQ75F0"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Portals",
+        "url": "https://open.spotify.com/album/5yiWKtKmZTtPbuVa9CYs5I"
+      },
+      "artists": [
+        {
+          "name": "Fleurie",
+          "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "Constellate",
+      "url": "https://open.spotify.com/track/7JDpA0WUDhFMb4MEsihv7r"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "This Is No Burial",
-        "url": "https://open.spotify.com/album/0elstO4HWsES7meWd8Y019"
+        "name": "The Road, The Rocks, and The Weeds",
+        "url": "https://open.spotify.com/album/4Q7EFIDyCAMqsr0fGD3kle"
       },
       "artists": [
         {
-          "name": "Andie Elise",
-          "url": "https://open.spotify.com/artist/6MFwrVbS7GP9wVtvNtfGy2"
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
         }
       ],
-      "duration_ms": 234632,
-      "name": "This Is No Burial",
-      "url": "https://open.spotify.com/track/68yKw3WXrzKu8AwuLZ3Kt2"
+      "duration_ms": 215014,
+      "name": "The Road, The Rocks, and The Weeds",
+      "url": "https://open.spotify.com/track/59oEEdqRLNKYBM7nbbaCD7"
     }
   ],
   "unique_name": "Good People Good Music",

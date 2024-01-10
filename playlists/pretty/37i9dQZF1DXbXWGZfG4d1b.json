@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 21294,
+  "num_followers": 21310,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTgzODljNTc5MGNiZjc0NTUyODBhZDgyMjI1YmIyZGJlZWQ3MDcz",
+  "snapshot_id": "MCw0Y2Y5ZmQyMTBkNzU2ZTc0ZGMzZGQ4MDkyMmFiZTQ5ZWY2ODNiYThh",
   "tracks": [
     {
       "added_at": "2024-01-04 23:17:01",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-01-04 23:17:01",
       "album": {
-        "name": "Una Propuesta",
-        "url": "https://open.spotify.com/album/4h2KVzlBshF1hmiHNSgxPL"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 195760,
-      "name": "Una Propuesta",
-      "url": "https://open.spotify.com/track/6to1I40BuW2fNRIustdnKa"
-    },
-    {
-      "added_at": "2024-01-04 23:17:01",
-      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/1MO1AHHmmTcd3LY40a15Xs"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 206875,
       "name": "Perla",
       "url": "https://open.spotify.com/track/73A39Bh59zZbSuYxsKduVk"
+    },
+    {
+      "added_at": "2024-01-04 23:17:01",
+      "album": {
+        "name": "Una Propuesta",
+        "url": "https://open.spotify.com/album/4h2KVzlBshF1hmiHNSgxPL"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 195760,
+      "name": "Una Propuesta",
+      "url": "https://open.spotify.com/track/6to1I40BuW2fNRIustdnKa"
     },
     {
       "added_at": "2024-01-04 23:17:01",
@@ -271,42 +271,6 @@
     {
       "added_at": "2024-01-04 23:17:01",
       "album": {
-        "name": "Todo de mi (Todo de vos)",
-        "url": "https://open.spotify.com/album/3A1Qg6PBVcgzfp2e80zaBG"
-      },
-      "artists": [
-        {
-          "name": "Mauro Conforti & La Vida Marciana",
-          "url": "https://open.spotify.com/artist/30dlrYGnnNuIHRCAUP6dXr"
-        }
-      ],
-      "duration_ms": 173914,
-      "name": "Todo de mi (Todo de vos)",
-      "url": "https://open.spotify.com/track/5gWdUxIfynfRq94ypST6mY"
-    },
-    {
-      "added_at": "2024-01-04 23:17:01",
-      "album": {
-        "name": "MALA INFLUENCIA",
-        "url": "https://open.spotify.com/album/5cLzpXDcunNag0msGWI67P"
-      },
-      "artists": [
-        {
-          "name": "Isla Mujeres",
-          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
-        },
-        {
-          "name": "Mora y los Metegoles",
-          "url": "https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX"
-        }
-      ],
-      "duration_ms": 133775,
-      "name": "MALA INFLUENCIA",
-      "url": "https://open.spotify.com/track/0l9VKy6AbaCk2mfvD85reL"
-    },
-    {
-      "added_at": "2024-01-04 23:17:01",
-      "album": {
         "name": "Hurac\u00e1n",
         "url": "https://open.spotify.com/album/5IPTv2WalvKpcLN2Znypzs"
       },
@@ -319,6 +283,22 @@
       "duration_ms": 191583,
       "name": "Hurac\u00e1n",
       "url": "https://open.spotify.com/track/1bfVtL4K4hlzxw2enSM40V"
+    },
+    {
+      "added_at": "2024-01-04 23:17:01",
+      "album": {
+        "name": "Todo de mi (Todo de vos)",
+        "url": "https://open.spotify.com/album/3A1Qg6PBVcgzfp2e80zaBG"
+      },
+      "artists": [
+        {
+          "name": "Mauro Conforti & La Vida Marciana",
+          "url": "https://open.spotify.com/artist/30dlrYGnnNuIHRCAUP6dXr"
+        }
+      ],
+      "duration_ms": 173914,
+      "name": "Todo de mi (Todo de vos)",
+      "url": "https://open.spotify.com/track/5gWdUxIfynfRq94ypST6mY"
     },
     {
       "added_at": "2024-01-04 23:17:01",
@@ -339,6 +319,26 @@
       "duration_ms": 241297,
       "name": "El rock and roll pas\u00f3 de moda",
       "url": "https://open.spotify.com/track/38V1ucCpi0TjlITJStqg5L"
+    },
+    {
+      "added_at": "2024-01-04 23:17:01",
+      "album": {
+        "name": "MALA INFLUENCIA",
+        "url": "https://open.spotify.com/album/5cLzpXDcunNag0msGWI67P"
+      },
+      "artists": [
+        {
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
+        },
+        {
+          "name": "Mora y los Metegoles",
+          "url": "https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX"
+        }
+      ],
+      "duration_ms": 133775,
+      "name": "MALA INFLUENCIA",
+      "url": "https://open.spotify.com/track/0l9VKy6AbaCk2mfvD85reL"
     },
     {
       "added_at": "2024-01-04 23:17:01",
@@ -467,18 +467,18 @@
     {
       "added_at": "2024-01-04 23:17:01",
       "album": {
-        "name": "Psicodelia arbolera",
-        "url": "https://open.spotify.com/album/2JDPqOcPBNk2Y3lfTqLu9k"
+        "name": "Mojigata",
+        "url": "https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS"
       },
       "artists": [
         {
-          "name": "\u00c1rbol",
-          "url": "https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT"
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
         }
       ],
-      "duration_ms": 248808,
-      "name": "Psicodelia arbolera",
-      "url": "https://open.spotify.com/track/1rAbshnvEsArNPwW4vUR1L"
+      "duration_ms": 145530,
+      "name": "Junto Boludeces",
+      "url": "https://open.spotify.com/track/2i1PztLepuClGgWaNH3wec"
     },
     {
       "added_at": "2024-01-04 23:17:01",
@@ -515,34 +515,18 @@
     {
       "added_at": "2024-01-04 23:17:01",
       "album": {
-        "name": "Mojigata",
-        "url": "https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS"
+        "name": "Psicodelia arbolera",
+        "url": "https://open.spotify.com/album/2JDPqOcPBNk2Y3lfTqLu9k"
       },
       "artists": [
         {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+          "name": "\u00c1rbol",
+          "url": "https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT"
         }
       ],
-      "duration_ms": 145530,
-      "name": "Junto Boludeces",
-      "url": "https://open.spotify.com/track/2i1PztLepuClGgWaNH3wec"
-    },
-    {
-      "added_at": "2024-01-04 23:17:01",
-      "album": {
-        "name": "VOID",
-        "url": "https://open.spotify.com/album/5KidTGNtKDsqsItKqUcG9V"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        }
-      ],
-      "duration_ms": 199901,
-      "name": "VOID",
-      "url": "https://open.spotify.com/track/6uPUgwjxECrLR7X5O7XacW"
+      "duration_ms": 248808,
+      "name": "Psicodelia arbolera",
+      "url": "https://open.spotify.com/track/1rAbshnvEsArNPwW4vUR1L"
     },
     {
       "added_at": "2024-01-04 23:17:01",
@@ -563,22 +547,18 @@
     {
       "added_at": "2024-01-04 23:17:01",
       "album": {
-        "name": "Humo y Menta",
-        "url": "https://open.spotify.com/album/6OBbs5S884aHFo58MDOUsZ"
+        "name": "VOID",
+        "url": "https://open.spotify.com/album/5KidTGNtKDsqsItKqUcG9V"
       },
       "artists": [
         {
-          "name": "El pr\u00edncipe idiota",
-          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
-        },
-        {
-          "name": "Charlie Desidney",
-          "url": "https://open.spotify.com/artist/3917O9DQNLgjxTSYOly6Uu"
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
         }
       ],
-      "duration_ms": 183242,
-      "name": "Humo y Menta",
-      "url": "https://open.spotify.com/track/7EMBexYQA1lrH1DhoQSnrP"
+      "duration_ms": 199901,
+      "name": "VOID",
+      "url": "https://open.spotify.com/track/6uPUgwjxECrLR7X5O7XacW"
     },
     {
       "added_at": "2024-01-04 23:17:01",
@@ -595,6 +575,26 @@
       "duration_ms": 216830,
       "name": "Tiembla",
       "url": "https://open.spotify.com/track/0d6sHvxEiHzKWCi7hj4uV4"
+    },
+    {
+      "added_at": "2024-01-04 23:17:01",
+      "album": {
+        "name": "Humo y Menta",
+        "url": "https://open.spotify.com/album/6OBbs5S884aHFo58MDOUsZ"
+      },
+      "artists": [
+        {
+          "name": "El pr\u00edncipe idiota",
+          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
+        },
+        {
+          "name": "Charlie Desidney",
+          "url": "https://open.spotify.com/artist/3917O9DQNLgjxTSYOly6Uu"
+        }
+      ],
+      "duration_ms": 183242,
+      "name": "Humo y Menta",
+      "url": "https://open.spotify.com/track/7EMBexYQA1lrH1DhoQSnrP"
     },
     {
       "added_at": "2024-01-04 23:17:01",
@@ -631,18 +631,18 @@
     {
       "added_at": "2024-01-04 23:17:01",
       "album": {
-        "name": "Amor Express",
-        "url": "https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT"
+        "name": "Frutillas con Crema",
+        "url": "https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1"
       },
       "artists": [
         {
-          "name": "Andry Bett",
-          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
         }
       ],
-      "duration_ms": 214409,
-      "name": "Amor Express",
-      "url": "https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC"
+      "duration_ms": 162605,
+      "name": "Frutillas con Crema",
+      "url": "https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX"
     },
     {
       "added_at": "2024-01-04 23:17:01",
@@ -671,34 +671,18 @@
     {
       "added_at": "2024-01-04 23:17:01",
       "album": {
-        "name": "Frutillas con Crema",
-        "url": "https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1"
+        "name": "Amor Express",
+        "url": "https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT"
       },
       "artists": [
         {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+          "name": "Andry Bett",
+          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
         }
       ],
-      "duration_ms": 162605,
-      "name": "Frutillas con Crema",
-      "url": "https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX"
-    },
-    {
-      "added_at": "2024-01-04 23:17:01",
-      "album": {
-        "name": "Mala (Edici\u00f3n Mal\u00edsima)",
-        "url": "https://open.spotify.com/album/5OaoeHCPd7Q3UwXpXOAknq"
-      },
-      "artists": [
-        {
-          "name": "Carmen S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
-        }
-      ],
-      "duration_ms": 220473,
-      "name": "Haku - Bonus Track",
-      "url": "https://open.spotify.com/track/3NNCxji6geukyGjPzDaRlZ"
+      "duration_ms": 214409,
+      "name": "Amor Express",
+      "url": "https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC"
     },
     {
       "added_at": "2024-01-04 23:17:01",
@@ -719,6 +703,22 @@
       "duration_ms": 258629,
       "name": "Rayo El\u00e9ctrico",
       "url": "https://open.spotify.com/track/7B29BMyYb5jgnwfiJxLwq8"
+    },
+    {
+      "added_at": "2024-01-04 23:17:01",
+      "album": {
+        "name": "Mala (Edici\u00f3n Mal\u00edsima)",
+        "url": "https://open.spotify.com/album/5OaoeHCPd7Q3UwXpXOAknq"
+      },
+      "artists": [
+        {
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+        }
+      ],
+      "duration_ms": 220473,
+      "name": "Haku - Bonus Track",
+      "url": "https://open.spotify.com/track/3NNCxji6geukyGjPzDaRlZ"
     },
     {
       "added_at": "2024-01-04 23:17:01",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-01-04 23:17:01",
       "album": {
-        "name": "La Cena",
-        "url": "https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS"
-      },
-      "artists": [
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "La Cena",
-      "url": "https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI"
-    },
-    {
-      "added_at": "2024-01-04 23:17:01",
-      "album": {
         "name": "Corriendo",
         "url": "https://open.spotify.com/album/5U18YE0iw5uEiTB8OorYLb"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 159576,
       "name": "Corriendo",
       "url": "https://open.spotify.com/track/4RKs3I15fRANzpyAr36zfx"
+    },
+    {
+      "added_at": "2024-01-04 23:17:01",
+      "album": {
+        "name": "La Cena",
+        "url": "https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "La Cena",
+      "url": "https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI"
     },
     {
       "added_at": "2024-01-04 23:17:01",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-01-04 23:17:01",
       "album": {
+        "name": "Promesas",
+        "url": "https://open.spotify.com/album/5DmptR4gEoK8MeXCSv9OUB"
+      },
+      "artists": [
+        {
+          "name": "Atr\u00e1s Hay Truenos",
+          "url": "https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz"
+        }
+      ],
+      "duration_ms": 271451,
+      "name": "Promesas",
+      "url": "https://open.spotify.com/track/3asMi5LP1FVnb8D2hs0b8D"
+    },
+    {
+      "added_at": "2024-01-04 23:17:01",
+      "album": {
         "name": "Pajarito",
         "url": "https://open.spotify.com/album/1CMxNtkxsF3JS5KmOBVGrU"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 222435,
       "name": "Pajarito",
       "url": "https://open.spotify.com/track/1ZmIvjlrjPBFJnWd8y0iTo"
-    },
-    {
-      "added_at": "2024-01-04 23:17:01",
-      "album": {
-        "name": "Promesas",
-        "url": "https://open.spotify.com/album/5DmptR4gEoK8MeXCSv9OUB"
-      },
-      "artists": [
-        {
-          "name": "Atr\u00e1s Hay Truenos",
-          "url": "https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz"
-        }
-      ],
-      "duration_ms": 271451,
-      "name": "Promesas",
-      "url": "https://open.spotify.com/track/3asMi5LP1FVnb8D2hs0b8D"
     },
     {
       "added_at": "2024-01-04 23:17:01",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-01-04 23:17:01",
       "album": {
-        "name": "Evil Dead",
-        "url": "https://open.spotify.com/album/4zlAqUr4qS76Ci1BeEawVr"
-      },
-      "artists": [
-        {
-          "name": "Justo Antes de la Guerra con los Esquimales",
-          "url": "https://open.spotify.com/artist/0E8okIJZJy58uvxYajtFor"
-        }
-      ],
-      "duration_ms": 175046,
-      "name": "Evil Dead",
-      "url": "https://open.spotify.com/track/0ZyrbgosyeinetxLfJ31Lu"
-    },
-    {
-      "added_at": "2024-01-04 23:17:01",
-      "album": {
         "name": "Curriculum Completo",
         "url": "https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 145401,
       "name": "Curriculum Completo",
       "url": "https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy"
+    },
+    {
+      "added_at": "2024-01-04 23:17:01",
+      "album": {
+        "name": "Evil Dead",
+        "url": "https://open.spotify.com/album/4zlAqUr4qS76Ci1BeEawVr"
+      },
+      "artists": [
+        {
+          "name": "Justo Antes de la Guerra con los Esquimales",
+          "url": "https://open.spotify.com/artist/0E8okIJZJy58uvxYajtFor"
+        }
+      ],
+      "duration_ms": 175046,
+      "name": "Evil Dead",
+      "url": "https://open.spotify.com/track/0ZyrbgosyeinetxLfJ31Lu"
     },
     {
       "added_at": "2024-01-04 23:17:01",
@@ -1107,6 +1107,26 @@
     {
       "added_at": "2024-01-04 23:17:01",
       "album": {
+        "name": "mutar la piel",
+        "url": "https://open.spotify.com/album/3FpUrtVBDvGQKwzvFqOkMd"
+      },
+      "artists": [
+        {
+          "name": "Alejo y Valentin",
+          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
+        },
+        {
+          "name": "Aluh\u00e9",
+          "url": "https://open.spotify.com/artist/5reGHhq0cPEOW5nYDj1Dge"
+        }
+      ],
+      "duration_ms": 173875,
+      "name": "mutar la piel",
+      "url": "https://open.spotify.com/track/3c6htQWeWgxzXYVrqg2ABk"
+    },
+    {
+      "added_at": "2024-01-04 23:17:01",
+      "album": {
         "name": "Si No Hubiera Ma\u00f1ana",
         "url": "https://open.spotify.com/album/1WmcAiuPAtwzxCLzSwFXf4"
       },
@@ -1159,42 +1179,6 @@
     {
       "added_at": "2024-01-04 23:17:01",
       "album": {
-        "name": "mutar la piel",
-        "url": "https://open.spotify.com/album/3FpUrtVBDvGQKwzvFqOkMd"
-      },
-      "artists": [
-        {
-          "name": "Alejo y Valentin",
-          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
-        },
-        {
-          "name": "Aluh\u00e9",
-          "url": "https://open.spotify.com/artist/5reGHhq0cPEOW5nYDj1Dge"
-        }
-      ],
-      "duration_ms": 173875,
-      "name": "mutar la piel",
-      "url": "https://open.spotify.com/track/3c6htQWeWgxzXYVrqg2ABk"
-    },
-    {
-      "added_at": "2024-01-04 23:17:01",
-      "album": {
-        "name": "Anclado",
-        "url": "https://open.spotify.com/album/7JjatfKYlSBkcTfChzT4yt"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Laser",
-          "url": "https://open.spotify.com/artist/1G3t1G8HB4X8DIAaix8JaX"
-        }
-      ],
-      "duration_ms": 264500,
-      "name": "Anclado",
-      "url": "https://open.spotify.com/track/3SnASrSEhm1AoHsawT7Wnx"
-    },
-    {
-      "added_at": "2024-01-04 23:17:01",
-      "album": {
         "name": "LA ARA\u00d1A",
         "url": "https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 161604,
       "name": "TIEMPO PERFECTO",
       "url": "https://open.spotify.com/track/4WsMd2FeCYXI9NycBNbcrh"
+    },
+    {
+      "added_at": "2024-01-04 23:17:01",
+      "album": {
+        "name": "Anclado",
+        "url": "https://open.spotify.com/album/7JjatfKYlSBkcTfChzT4yt"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Laser",
+          "url": "https://open.spotify.com/artist/1G3t1G8HB4X8DIAaix8JaX"
+        }
+      ],
+      "duration_ms": 264500,
+      "name": "Anclado",
+      "url": "https://open.spotify.com/track/3SnASrSEhm1AoHsawT7Wnx"
     },
     {
       "added_at": "2024-01-04 23:17:01",

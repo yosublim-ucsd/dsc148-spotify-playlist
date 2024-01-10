@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Luma Elpidio",
-  "num_followers": 86110,
+  "num_followers": 86179,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODVmZTQ1MzBmNWVmYjZhZTcyMzM3OWMwMWVhZDM5ODkyNTQxNTA5",
+  "snapshot_id": "MCw5NTlmZDlhZmRmZmYwZmUzY2Y1ODcyYjA2MzIxOWE1ZGYwMzI3M2I2",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "SOCORRO",
+        "url": "https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "duration_ms": 245744,
+      "name": "SOCORRO",
+      "url": "https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Deus no Controle - Remix",
         "url": "https://open.spotify.com/album/5vE3dKmYcbc3yQ7lX4Grdn"
       },
@@ -723,34 +739,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "SOCORRO",
-        "url": "https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU"
+        "name": "Acoustic Sessions, Vol. 6",
+        "url": "https://open.spotify.com/album/0RuvdzSlbLAd2NC4dbhF2z"
       },
       "artists": [
         {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
         }
       ],
-      "duration_ms": 245744,
-      "name": "SOCORRO",
-      "url": "https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Ac\u00fastico Talita Barreto",
-        "url": "https://open.spotify.com/album/4Sz7dZPt2bFoc9V0ujUe1K"
-      },
-      "artists": [
-        {
-          "name": "Talita Barreto",
-          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
-        }
-      ],
-      "duration_ms": 136626,
-      "name": "Vida Leve",
-      "url": "https://open.spotify.com/track/3GISbYrRNr8z9nbJRdeX1g"
+      "duration_ms": 165954,
+      "name": "Plano B",
+      "url": "https://open.spotify.com/track/4gjFM2XEKr0UnqwssxCVvm"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -771,18 +771,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Acoustic Sessions, Vol. 6",
-        "url": "https://open.spotify.com/album/0RuvdzSlbLAd2NC4dbhF2z"
+        "name": "Ac\u00fastico Talita Barreto",
+        "url": "https://open.spotify.com/album/4Sz7dZPt2bFoc9V0ujUe1K"
       },
       "artists": [
         {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+          "name": "Talita Barreto",
+          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
         }
       ],
-      "duration_ms": 165954,
-      "name": "Plano B",
-      "url": "https://open.spotify.com/track/4gjFM2XEKr0UnqwssxCVvm"
+      "duration_ms": 136626,
+      "name": "Vida Leve",
+      "url": "https://open.spotify.com/track/3GISbYrRNr8z9nbJRdeX1g"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -863,6 +863,26 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Sinal de Aviso",
+        "url": "https://open.spotify.com/album/7MUhsx0IrsGZGsd3pv2zI4"
+      },
+      "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        },
+        {
+          "name": "Guilherme Franco",
+          "url": "https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1"
+        }
+      ],
+      "duration_ms": 195422,
+      "name": "Sinal de Aviso",
+      "url": "https://open.spotify.com/track/479amATgvjJZUzIlKy5WhP"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Agora",
         "url": "https://open.spotify.com/album/4U92cEpwlKPbTOc1lwImMn"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 219857,
       "name": "Pra Sempre",
       "url": "https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Sinal de Aviso",
-        "url": "https://open.spotify.com/album/7MUhsx0IrsGZGsd3pv2zI4"
-      },
-      "artists": [
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        },
-        {
-          "name": "Guilherme Franco",
-          "url": "https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1"
-        }
-      ],
-      "duration_ms": 195422,
-      "name": "Sinal de Aviso",
-      "url": "https://open.spotify.com/track/479amATgvjJZUzIlKy5WhP"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Teus Rios",
-        "url": "https://open.spotify.com/album/4JgWgUGhqRNes5E5aFpdQL"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF"
-        }
-      ],
-      "duration_ms": 194034,
-      "name": "Teus Rios",
-      "url": "https://open.spotify.com/track/34EF4hF2gVbSWiTbTXTaPv"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Ponto de Paz",
         "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
       },
@@ -1227,22 +1211,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Neste Lugar",
-        "url": "https://open.spotify.com/album/5pIGdmHVVKLTNIZ6pCAyA0"
+        "name": "Teus Rios",
+        "url": "https://open.spotify.com/album/4JgWgUGhqRNes5E5aFpdQL"
       },
       "artists": [
         {
-          "name": "Altomonte",
-          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
-        },
-        {
-          "name": "Isaac Felix",
-          "url": "https://open.spotify.com/artist/6MoY74shUPUJY1HukGaO1a"
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF"
         }
       ],
-      "duration_ms": 314622,
-      "name": "Neste Lugar",
-      "url": "https://open.spotify.com/track/64rFHVKbXxm2xzFbkjIZ6d"
+      "duration_ms": 194034,
+      "name": "Teus Rios",
+      "url": "https://open.spotify.com/track/34EF4hF2gVbSWiTbTXTaPv"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1267,6 +1247,26 @@
       "duration_ms": 192000,
       "name": "Teu V\u00f4o",
       "url": "https://open.spotify.com/track/3s1puxrckxaAKtsqGcHuPD"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Neste Lugar",
+        "url": "https://open.spotify.com/album/5pIGdmHVVKLTNIZ6pCAyA0"
+      },
+      "artists": [
+        {
+          "name": "Altomonte",
+          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
+        },
+        {
+          "name": "Isaac Felix",
+          "url": "https://open.spotify.com/artist/6MoY74shUPUJY1HukGaO1a"
+        }
+      ],
+      "duration_ms": 314622,
+      "name": "Neste Lugar",
+      "url": "https://open.spotify.com/track/64rFHVKbXxm2xzFbkjIZ6d"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Ele e N\u00f3iz",
-        "url": "https://open.spotify.com/album/65iNHR49BjxlK6nuOrKqrv"
-      },
-      "artists": [
-        {
-          "name": "Leif Bessa",
-          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
-        },
-        {
-          "name": "Lito Atalaia",
-          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
-        }
-      ],
-      "duration_ms": 172427,
-      "name": "A Casa Caiu",
-      "url": "https://open.spotify.com/track/5TSHa3hQd3YOvBHNKSuc5C"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Pai Nosso",
         "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
       },
@@ -1363,18 +1343,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Te Vejo",
-        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
+        "name": "Ele e N\u00f3iz",
+        "url": "https://open.spotify.com/album/65iNHR49BjxlK6nuOrKqrv"
       },
       "artists": [
         {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+          "name": "Leif Bessa",
+          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
+        },
+        {
+          "name": "Lito Atalaia",
+          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
         }
       ],
-      "duration_ms": 210125,
-      "name": "Te Vejo",
-      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
+      "duration_ms": 172427,
+      "name": "A Casa Caiu",
+      "url": "https://open.spotify.com/track/5TSHa3hQd3YOvBHNKSuc5C"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1399,6 +1383,22 @@
       "duration_ms": 166530,
       "name": "Seu Amor",
       "url": "https://open.spotify.com/track/0v0lWoA3TVcsPYkHNP388C"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Te Vejo",
+        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 210125,
+      "name": "Te Vejo",
+      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Mostra-Me Tua Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 230208,
-      "name": "Mostra-Me Tua Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Me Chamar de Filho",
         "url": "https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 224000,
       "name": "Teu Calor",
       "url": "https://open.spotify.com/track/4VCJzN8CnPPyRtzfYaWtIT"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Mostra-Me Tua Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 230208,
+      "name": "Mostra-Me Tua Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
     },
     {
       "added_at": "2023-12-22 03:00:00",

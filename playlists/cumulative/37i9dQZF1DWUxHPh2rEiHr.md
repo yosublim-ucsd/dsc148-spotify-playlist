@@ -4,7 +4,7 @@
 
 > Discover rhythmic crossover hits from cultures around the world\. Cover: Tyla
 
-518 songs - 1 day 2 hr 49 min
+519 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Arcade](https://open.spotify.com/track/1Xi84slp6FryDSCbzq4UCD) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Arcade](https://open.spotify.com/album/7BISGeB7QwhqRIadxuLHfG) | 3:03 | 2021-12-20 | 2023-06-10 |
 | [Arhbo \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/track/139nCjBRQCLgnWNRxBKAC7) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Arhbo \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/album/6rjTLZmOHDByOn63ZZomyY) | 3:39 | 2022-08-26 | 2023-01-07 |
 | [Attention](https://open.spotify.com/track/00pg6ROBxCsQ8lL9fpmosR) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/2dwAAJpNawqPDfoSQvjEKS) | 3:00 | 2022-03-04 | 2022-07-29 |
-| [Automatic](https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Automatic](https://open.spotify.com/album/6WABR1ifGFXjlVoK54LA3P) | 2:10 | 2023-10-27 |  |
+| [Automatic](https://open.spotify.com/track/3RxlMZgbTxoiGFTaSjX2Hk) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:10 | 2023-11-24 |  |
+| [Automatic](https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Automatic](https://open.spotify.com/album/6WABR1ifGFXjlVoK54LA3P) | 2:10 | 2023-10-27 | 2024-01-10 |
 | [Ay Mamá](https://open.spotify.com/track/0khVEzctbwmqLvOpg1ecbg) | [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [Ay Mamá](https://open.spotify.com/album/26As3PYmCCD390xoIJ4RE6) | 3:01 | 2022-02-08 | 2022-04-21 |
 | [Ayo Girl \(Fayahh Beat\) \[feat\. Rema\]](https://open.spotify.com/track/57Hk0AE5OhgXrPWZOhipHt) | [Robinson](https://open.spotify.com/artist/352VD5fhV8xzAFcmO7lMwg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Ayo Girl \(Fayahh Beat\) \[feat\. Rema\]](https://open.spotify.com/album/3yR3SqAQdeR0fGXdV4NhXu) | 2:45 | 2022-03-18 | 2022-07-29 |
 | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9) | 3:09 | 2021-12-20 | 2022-04-21 |

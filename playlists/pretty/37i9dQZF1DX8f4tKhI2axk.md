@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f4tKhI2axk.md) - [plain]
 
 > Island vibes for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,699 likes - 40 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,723 likes - 40 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f4tKhI2axk.md) - [plain]
 | 39 | [Put a Little Love](https://open.spotify.com/track/0yQLIH6DH7Hop9K1eHLzVL) | [Natural Vibrations](https://open.spotify.com/artist/2u0CzUCFU8OEoIFORUq6wJ) | [All Natural](https://open.spotify.com/album/3pwOfQqtWgH4duJxZm5pax) | 4:24 |
 | 40 | [Pressure \(feat\. Buju Banton\) \- Remix](https://open.spotify.com/track/3mjsWpaYzIWJQcYgO7VtUA) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Pressure \(feat\. Buju Banton\) \[Remix\]](https://open.spotify.com/album/4ECWzBSar0g4vOfVZJRjp2) | 3:58 |
 
-Snapshot ID: `MCw5NGEwMGE0M2NmNTk2MTVmNjEzMDM4Mjc0MjE1ZTI4ZDI1Nzk4N2Q0`
+Snapshot ID: `MCw2NTFkY2U1YTE1ZTdmMjdhMGRiZmY0NjM4MTZhZDE3ZmE3MzZiYTdi`

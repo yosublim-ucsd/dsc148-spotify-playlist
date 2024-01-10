@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-373 songs - 1 day 3 hr 8 min
+374 songs - 1 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Neo\-Aspect](https://open.spotify.com/track/5cgXMOSZLF9lfbG7nrxF25) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Anfang](https://open.spotify.com/album/7JmXCKV1IBEx2PXNLRU63H) | 5:07 | 2023-12-12 |  |
 | [Neo\-Aspect](https://open.spotify.com/track/2ctkJPzluv1BfsEcsOPsS5) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/6nk5SUZlraHzpwIPUFdI84) | 5:10 | 2022-05-17 | 2022-07-27 |
 | [NO GIRL NO CRY \- Poppin'Party Ver.](https://open.spotify.com/track/7vjHI1ZrjMFuynrPmwvgG3) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Breakthrough!](https://open.spotify.com/album/5TLIFj3J5Ro4mlbb2l8a91) | 5:11 | 2022-05-17 | 2022-07-19 |
-| [ON YOUR MARK](https://open.spotify.com/track/1879JEo8dy9KgWzhFwls6e) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6) | 4:00 | 2022-10-25 |  |
+| [ON YOUR MARK](https://open.spotify.com/track/1879JEo8dy9KgWzhFwls6e) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6) | 4:00 | 2022-10-25 | 2024-01-10 |
 | [ON YOUR MARK](https://open.spotify.com/track/3qU8WNOgUbch9q1MBwbmUH) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2CXi2Ys7mgFksGB1vb2FOn) | 4:01 | 2022-05-17 | 2022-07-28 |
 | [ON YOUR MARK](https://open.spotify.com/track/0AJMNmF8wA33dHu5DQ5oUO) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ON YOUR MARK](https://open.spotify.com/album/5NCnQuOJF3ERX7AgjmsJj0) | 4:01 | 2022-05-17 | 2022-07-27 |
 | [On Your New Journey \- Acoustic Ver.](https://open.spotify.com/track/7bQ5CkzVlHwtopBCxrwXBp) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [Hanazono Electric Guitar!!!](https://open.spotify.com/album/53BaJSVpvAGh6QiuefarPe) | 4:53 | 2022-06-23 | 2022-10-02 |
@@ -351,6 +351,7 @@
 | [灼熱 Bonfire!](https://open.spotify.com/track/1kbvJ9ovjKzoibiWzeBkaB) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Domination to world](https://open.spotify.com/album/4hQnaCfXlMwWHofrkAQDOE) | 3:44 | 2022-09-20 |  |
 | [無路矢](https://open.spotify.com/track/5BtZ5g4LAJPEMx7fVaPN9f) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [無路矢](https://open.spotify.com/album/2rSKZFZzDIcooeTCPKBLOt) | 3:42 | 2023-05-09 | 2023-12-27 |
 | [独創収差](https://open.spotify.com/track/1TDNF588GS7ijlkGB57o0f) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [独創収差](https://open.spotify.com/album/6sqC5pyp0EFFxysVHJFcWo) | 4:35 | 2022-09-20 | 2023-07-09 |
+| [独創収差](https://open.spotify.com/track/5qs2hDCiRA3fZcCnEwDf3Y) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 4:36 | 2024-01-04 |  |
 | [碧天伴走](https://open.spotify.com/track/44idxB7ld38cXQjRYjorXv) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [碧天伴走](https://open.spotify.com/album/7vwdWEULxaBGcAv4BgsKaP) | 3:38 | 2023-07-27 | 2024-01-05 |
 | [神さま、バカ](https://open.spotify.com/track/4gRh7Jbk7W2IkLZKuyiHT2) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [神さま、バカ](https://open.spotify.com/album/2VtDfTQftGvkCf1VyFxqSK) | 3:33 | 2023-05-09 |  |
 | [競宴Red×Violet](https://open.spotify.com/track/2sfhkbecN4x8DkdydVZzOP) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy), [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [劇場版「BanG Dream! FILM LIVE 2nd Stage」Special Songs](https://open.spotify.com/album/2brdfEDkVMfb9UoC4rupxF) | 4:23 | 2023-07-27 |  |

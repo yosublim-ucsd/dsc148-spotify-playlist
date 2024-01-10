@@ -4,26 +4,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 
 > Best of the Indian Indie scene\. Cover \- Anuv Jain
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,349 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,914 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tu Chodiyon Na](https://open.spotify.com/track/4trQhzRfEN0z5htXvjc5zA) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Tu Chodiyon Na](https://open.spotify.com/album/1DdgnxCTXd5ggIFAy3TtHe) | 3:32 |
-| 2 | [Husn](https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Husn](https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W) | 3:37 |
-| 3 | [Mulaqat](https://open.spotify.com/track/7uZLUFqPgGqwzD5rzOl8Sa) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Mulaqat](https://open.spotify.com/album/2LBQG9vBtXEL7RD4FUTJTa) | 4:06 |
-| 4 | [Farq hai](https://open.spotify.com/track/6MZyrnqwsLnrWY5Gk0AyXg) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Farq hai](https://open.spotify.com/album/55ZzRnrvRvc54SfrETBFcp) | 3:04 |
-| 5 | [Lamhey](https://open.spotify.com/track/5Z2GQ0eBKoatNYqbGayihP) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Lamhey](https://open.spotify.com/album/1jZWNePo4dPSElLKJ0I2zA) | 2:28 |
-| 6 | [Bye](https://open.spotify.com/track/0PGU5mcLncBYE8yuVpSwqA) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Bye](https://open.spotify.com/album/48bWV4aSOwyLBhgmoxQCF8) | 2:54 |
-| 7 | [Choo Lo](https://open.spotify.com/track/0rlLBWFFTQiOWi963SH9bb) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/5xOkxpVDHdpWkI9mNfYXab) | 3:53 |
-| 8 | [Co2](https://open.spotify.com/track/3hB9lDLyAClYVZivMMl20N) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:43 |
-| 9 | [Alfaazo](https://open.spotify.com/track/6KvXpACADAz73IPrCgXobL) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Alfaazo](https://open.spotify.com/album/6xy5HvqMaDhB1EGlqE5iju) | 2:38 |
-| 10 | [Kaise Ab Kahein \- From "Gutar Gu"](https://open.spotify.com/track/3eSm4iAkLsn3BeggfiQOH9) | [Gaurav Chatterji](https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT), [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Hrishi Giridhar](https://open.spotify.com/artist/2LX2ca4llDo1CckEcTl2Nc), [Pratik Gangavane](https://open.spotify.com/artist/6eBkw5IL6oFehkMupSVa0S) | [Kaise Ab Kahein \(From "Gutar Gu"\)](https://open.spotify.com/album/6NXaQGU2jsb6O38BIJ6QXy) | 2:00 |
-| 11 | [Aa Mil](https://open.spotify.com/track/67LdLmIj2GVrGf4ZUuLaE1) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs) | [Aa Mil](https://open.spotify.com/album/0MFdPJ9l8lAWb6zaWcEMwt) | 2:27 |
-| 12 | [Aankhon Se Batana](https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws) | 3:41 |
-| 13 | [Mera Safar](https://open.spotify.com/track/2AB7fsbG0eZJjDGile69CQ) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Mera Safar](https://open.spotify.com/album/5MaDDfFcO8Eao37Crt324Q) | 3:10 |
-| 14 | [Kaise Banu](https://open.spotify.com/track/4L0bU9ecxMP6U6o0ZnPyCt) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Kaise Banu](https://open.spotify.com/album/0RxzLq117wpoaAo4SN3FmF) | 2:54 |
-| 15 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 |
-| 16 | [Saajanwa](https://open.spotify.com/track/6NWgIuDeOr1Xeb4MZ1Bl6L) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [Saajanwa](https://open.spotify.com/album/66XAPpqu9pt3V1OZhRZBLZ) | 2:42 |
+| 1 | [Husn](https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Husn](https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W) | 3:37 |
+| 2 | [Mulaqat](https://open.spotify.com/track/7uZLUFqPgGqwzD5rzOl8Sa) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Mulaqat](https://open.spotify.com/album/2LBQG9vBtXEL7RD4FUTJTa) | 4:06 |
+| 3 | [Farq hai](https://open.spotify.com/track/6MZyrnqwsLnrWY5Gk0AyXg) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Farq hai](https://open.spotify.com/album/55ZzRnrvRvc54SfrETBFcp) | 3:04 |
+| 4 | [Lamhey](https://open.spotify.com/track/5Z2GQ0eBKoatNYqbGayihP) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Lamhey](https://open.spotify.com/album/1jZWNePo4dPSElLKJ0I2zA) | 2:28 |
+| 5 | [Bye](https://open.spotify.com/track/0PGU5mcLncBYE8yuVpSwqA) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Bye](https://open.spotify.com/album/48bWV4aSOwyLBhgmoxQCF8) | 2:54 |
+| 6 | [Choo Lo](https://open.spotify.com/track/0rlLBWFFTQiOWi963SH9bb) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/5xOkxpVDHdpWkI9mNfYXab) | 3:53 |
+| 7 | [Co2](https://open.spotify.com/track/3hB9lDLyAClYVZivMMl20N) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:43 |
+| 8 | [Alfaazo](https://open.spotify.com/track/6KvXpACADAz73IPrCgXobL) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Alfaazo](https://open.spotify.com/album/6xy5HvqMaDhB1EGlqE5iju) | 2:38 |
+| 9 | [Kaise Ab Kahein \- From "Gutar Gu"](https://open.spotify.com/track/3eSm4iAkLsn3BeggfiQOH9) | [Gaurav Chatterji](https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT), [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Hrishi Giridhar](https://open.spotify.com/artist/2LX2ca4llDo1CckEcTl2Nc), [Pratik Gangavane](https://open.spotify.com/artist/6eBkw5IL6oFehkMupSVa0S) | [Kaise Ab Kahein \(From "Gutar Gu"\)](https://open.spotify.com/album/6NXaQGU2jsb6O38BIJ6QXy) | 2:00 |
+| 10 | [Aa Mil](https://open.spotify.com/track/67LdLmIj2GVrGf4ZUuLaE1) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs) | [Aa Mil](https://open.spotify.com/album/0MFdPJ9l8lAWb6zaWcEMwt) | 2:27 |
+| 11 | [Aankhon Se Batana](https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws) | 3:41 |
+| 12 | [Mera Safar](https://open.spotify.com/track/2AB7fsbG0eZJjDGile69CQ) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Mera Safar](https://open.spotify.com/album/5MaDDfFcO8Eao37Crt324Q) | 3:10 |
+| 13 | [Kaise Banu](https://open.spotify.com/track/4L0bU9ecxMP6U6o0ZnPyCt) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Kaise Banu](https://open.spotify.com/album/0RxzLq117wpoaAo4SN3FmF) | 2:54 |
+| 14 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 |
+| 15 | [Saajanwa](https://open.spotify.com/track/6NWgIuDeOr1Xeb4MZ1Bl6L) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [Saajanwa](https://open.spotify.com/album/66XAPpqu9pt3V1OZhRZBLZ) | 2:42 |
+| 16 | [Tu Chodiyon Na](https://open.spotify.com/track/4trQhzRfEN0z5htXvjc5zA) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Tu Chodiyon Na](https://open.spotify.com/album/1DdgnxCTXd5ggIFAy3TtHe) | 3:32 |
 | 17 | [Khwaab](https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab](https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4) | 2:58 |
 | 18 | [Jhaag](https://open.spotify.com/track/7zwqxNGf7cJLPXgOkEkHHA) | [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx) | [Jhaag](https://open.spotify.com/album/7jmDLNVORMzMHfyF0we05g) | 2:29 |
 | 19 | [Junoon](https://open.spotify.com/track/4roFMBSQp7W4fYVxKMmhA5) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Junoon](https://open.spotify.com/album/1sGWRNrgW1D1MTuBhz2mfs) | 3:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 | 74 | [Faasle](https://open.spotify.com/track/0s76ExpXyMGVBlKLUr683e) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Faasle](https://open.spotify.com/album/2xfAmgKBQroCYbDnl18me3) | 3:41 |
 | 75 | [Aziyat](https://open.spotify.com/track/5DEp8hauuZ45oG38YOkkQq) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Aziyat](https://open.spotify.com/album/45ClrZZAaxYdWMG5FqsjfB) | 3:41 |
 
-Snapshot ID: `MCxmNzU1MmQzZWNhYjE0MjA1NWU4ZjNmNTFmYjM0MjEzZWZlMTA4YjEz`
+Snapshot ID: `MCxmNjBkMWEwMzkxYjQ2MWQwNzMwYjlmOTZiYTY4YzRiNGUyMzg3ZjA5`

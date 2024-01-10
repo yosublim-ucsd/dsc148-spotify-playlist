@@ -963,6 +963,24 @@
     },
     {
       "album": {
+        "name": "Between The Lines",
+        "url": "https://open.spotify.com/album/2bhOKZGovHAF8lgooiiG4h"
+      },
+      "artists": [
+        {
+          "name": "Catherine Peterson",
+          "url": "https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179624,
+      "name": "Between The Lines",
+      "url": "https://open.spotify.com/track/3iOfZpOsRAwvGq8dXlrdvD"
+    },
+    {
+      "album": {
         "name": "Beyond The Words",
         "url": "https://open.spotify.com/album/2IXXs0F9tteFAxo2M1qUGh"
       },
@@ -3794,6 +3812,24 @@
       "duration_ms": 159125,
       "name": "Kiruna",
       "url": "https://open.spotify.com/track/7FIIDU8NgQSsVPPZOQa3Hu"
+    },
+    {
+      "album": {
+        "name": "Krager\u00f8",
+        "url": "https://open.spotify.com/album/5TkRRcAfYAsDBCKo3kUMpx"
+      },
+      "artists": [
+        {
+          "name": "Halgeir Nielsen",
+          "url": "https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142820,
+      "name": "Krager\u00f8",
+      "url": "https://open.spotify.com/track/7nPNz869TJHvmEgJjH4290"
     },
     {
       "album": {
@@ -8513,6 +8549,24 @@
     },
     {
       "album": {
+        "name": "Three Small Steps",
+        "url": "https://open.spotify.com/album/71PNbuZGjoFXdjJ818Nv8q"
+      },
+      "artists": [
+        {
+          "name": "Flore Habendum",
+          "url": "https://open.spotify.com/artist/3CdIKTNMspWKu4RFaWPihl"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Three Small Steps",
+      "url": "https://open.spotify.com/track/7pYPoG1pds3ZaoZt5tVGe6"
+    },
+    {
+      "album": {
         "name": "Three Stories It Must Tell",
         "url": "https://open.spotify.com/album/1U6dHxjR6eccCUtEfDAwhk"
       },
@@ -8960,6 +9014,24 @@
       "duration_ms": 141910,
       "name": "unkai",
       "url": "https://open.spotify.com/track/26Sfu4rZ10IU9R5u3erN00"
+    },
+    {
+      "album": {
+        "name": "Up among the clouds",
+        "url": "https://open.spotify.com/album/4rdJiuuaoCFT6VY7Uz5GFf"
+      },
+      "artists": [
+        {
+          "name": "Auley Gere",
+          "url": "https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134874,
+      "name": "Up among the clouds",
+      "url": "https://open.spotify.com/track/7ppmjph9tkq0RGY7K1zRhB"
     },
     {
       "album": {

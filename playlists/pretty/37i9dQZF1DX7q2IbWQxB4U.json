@@ -1,12 +1,12 @@
 {
   "description": "De la cuna pa'l mundo. Celebrando la cultura y m\u00fasica de Puerto Rico con los sonidos de la Casa.",
-  "num_followers": 6711,
+  "num_followers": 6712,
   "original_name": "Casa Spotify Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGYyYTZhZDdlYTczMzNkMmZjYTU3OTIxYjQ0NTVjNTAzODYyODdm",
+  "snapshot_id": "MCw1Y2Q3Y2FlODc3MWJhMGUzNDgzZjE5MjcxOWY3NDU4NGYyMmRhOTU5",
   "tracks": [
     {
       "added_at": "2023-06-27 18:03:27",
@@ -179,8 +179,8 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
-        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
-        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
       "artists": [
         {
@@ -188,13 +188,13 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 205090,
-      "name": "D\u00c1KITI",
-      "url": "https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49"
+      "duration_ms": 244444,
+      "name": "Otro Atardecer",
+      "url": "https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT"
     },
     {
       "added_at": "2023-06-27 18:03:27",
@@ -355,8 +355,8 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
       "artists": [
         {
@@ -364,13 +364,13 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
-      "duration_ms": 244444,
-      "name": "Otro Atardecer",
-      "url": "https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT"
+      "duration_ms": 205090,
+      "name": "D\u00c1KITI",
+      "url": "https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49"
     },
     {
       "added_at": "2023-06-27 18:03:27",
@@ -587,18 +587,22 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
-        "name": "LA VIDA ES UNA",
-        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+        "name": "Loco Por Perrearte (Remix)",
+        "url": "https://open.spotify.com/album/6qLWzKEkkYEbHDIVXjrMBP"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 163240,
-      "name": "MI DROGA",
-      "url": "https://open.spotify.com/track/5OYRVKWII0Eog7CjQRnmGf"
+      "duration_ms": 199148,
+      "name": "Loco Por Perrearte - Remix",
+      "url": "https://open.spotify.com/track/0vHfVsEe6Ps0d8cZ9PGzSw"
     },
     {
       "added_at": "2023-06-27 18:03:27",
@@ -635,22 +639,18 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
-        "name": "Loco Por Perrearte (Remix)",
-        "url": "https://open.spotify.com/album/6qLWzKEkkYEbHDIVXjrMBP"
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
       },
       "artists": [
         {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 199148,
-      "name": "Loco Por Perrearte - Remix",
-      "url": "https://open.spotify.com/track/0vHfVsEe6Ps0d8cZ9PGzSw"
+      "duration_ms": 163240,
+      "name": "MI DROGA",
+      "url": "https://open.spotify.com/track/5OYRVKWII0Eog7CjQRnmGf"
     },
     {
       "added_at": "2023-06-27 18:03:27",

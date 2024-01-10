@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "MTIyNyw2YTRjNjFiNWQ0MTU5ZTFmYmFkYWJkZGFlOGFhNDc3M2IzNGZiOWJh",
+  "snapshot_id": "MTIzNCwwYjRhNTE3ODFmOTJhZDAxMDdiZGE5ODdkNDM1MjQyZTNhYTg3MGM0",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -599,22 +599,6 @@
       "duration_ms": 316187,
       "name": "Plastic 100\u00b0C",
       "url": "https://open.spotify.com/track/0ah6qyhi2jlBP6D7JLxZrt"
-    },
-    {
-      "added_at": "2022-05-28 00:55:44",
-      "album": {
-        "name": "Geogaddi",
-        "url": "https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 59026,
-      "name": "Ready Lets Go",
-      "url": "https://open.spotify.com/track/27M2m1NzEmCkzb9kzTLqzT"
     },
     {
       "added_at": "2022-06-13 20:07:31",
@@ -2209,22 +2193,6 @@
       "url": "https://open.spotify.com/track/2e61kmae4HhbuS9hYONQ0A"
     },
     {
-      "added_at": "2023-02-18 20:15:42",
-      "album": {
-        "name": "By the Time I Get to Phoenix",
-        "url": "https://open.spotify.com/album/7L7oMPboBCeyGLJVsHSWM2"
-      },
-      "artists": [
-        {
-          "name": "Injury Reserve",
-          "url": "https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73"
-        }
-      ],
-      "duration_ms": 374390,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/5s0oWj51ttqiINWWJynNPz"
-    },
-    {
       "added_at": "2023-02-19 21:57:05",
       "album": {
         "name": "Tigermilk",
@@ -2239,22 +2207,6 @@
       "duration_ms": 297133,
       "name": "The State I'm In",
       "url": "https://open.spotify.com/track/6EVioebGhehJKoNrpn4WK3"
-    },
-    {
-      "added_at": "2023-02-22 03:09:44",
-      "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "I Feel the Earth Move",
-      "url": "https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly"
     },
     {
       "added_at": "2023-03-03 22:59:28",
@@ -6003,6 +5955,70 @@
       "duration_ms": 178780,
       "name": "Landlines",
       "url": "https://open.spotify.com/track/5akuJANUZArqcqFXGyBYWH"
+    },
+    {
+      "added_at": "2024-01-09 04:32:30",
+      "album": {
+        "name": "MAN PLAYS THE HORN",
+        "url": "https://open.spotify.com/album/1OmF3bAtGjsC8TH7ebyE0f"
+      },
+      "artists": [
+        {
+          "name": "Cities Aviv",
+          "url": "https://open.spotify.com/artist/4m0HRALRlPxbZp5SwvktFX"
+        }
+      ],
+      "duration_ms": 243515,
+      "name": "EVERYTHANG WORKIN ON A NATURAL TIME",
+      "url": "https://open.spotify.com/track/59f5ksvfMxfNvG3liKsujB"
+    },
+    {
+      "added_at": "2024-01-09 04:32:54",
+      "album": {
+        "name": "Overgrown",
+        "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 300506,
+      "name": "Overgrown",
+      "url": "https://open.spotify.com/track/7rHIRFNCDu6o9LWtGMevK1"
+    },
+    {
+      "added_at": "2024-01-09 13:16:59",
+      "album": {
+        "name": "Native Dancer",
+        "url": "https://open.spotify.com/album/0Gsue0re8X1U9rqHe4urBx"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 315706,
+      "name": "Ponta de Areia",
+      "url": "https://open.spotify.com/track/2SU21YLdwyTnqJpS7Jc3lD"
+    },
+    {
+      "added_at": "2024-01-09 13:57:58",
+      "album": {
+        "name": "Apollo 18",
+        "url": "https://open.spotify.com/album/5HswYyErxPHfQtHhNlzhnR"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants",
+          "url": "https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT"
+        }
+      ],
+      "duration_ms": 68306,
+      "name": "Dig My Grave",
+      "url": "https://open.spotify.com/track/5mdYxvtDAnuYNYQw085Plw"
     }
   ],
   "unique_name": "Zacklog",

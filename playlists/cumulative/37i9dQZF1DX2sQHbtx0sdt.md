@@ -4,7 +4,7 @@
 
 > Our picks for the best global hip\-hop songs this year\. Cover: Central Cee & Dave
 
-199 songs - 9 hr 59 min
+200 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/track/17wZ58uIxULAVELzhEURni) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Flatline](https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx) | 4:00 | 2023-09-01 | 2023-09-30 |
 | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/track/30K37PY02Y21inHms1lF0w) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [PANIC](https://open.spotify.com/album/3kuA7IDrIq2FqIJXDoFeSZ) | 4:00 | 2023-11-29 |  |
 | [Flowers!](https://open.spotify.com/track/5hUWDfvdFgWCmmv8HWSi18) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Flowers!](https://open.spotify.com/album/0rOJqOs5SZZm63oZDvLNFU) | 2:25 | 2023-09-01 | 2023-09-09 |
-| [G63](https://open.spotify.com/track/3iGLZavFFEdLHOEWANcQiF) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [G63](https://open.spotify.com/album/0pB9N7JNV5TLGse7UUVXA0) | 2:42 | 2023-11-29 |  |
+| [G63](https://open.spotify.com/track/3hjAxYipqWlqBqBdrQXEU5) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:42 | 2023-11-29 |  |
+| [G63](https://open.spotify.com/track/3iGLZavFFEdLHOEWANcQiF) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [G63](https://open.spotify.com/album/0pB9N7JNV5TLGse7UUVXA0) | 2:42 | 2023-11-29 | 2024-01-10 |
 | [G63](https://open.spotify.com/track/0lqGKcPzUX4RO4PYysoLes) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:49 | 2023-11-29 |  |
 | [Gently \(feat\. Bad Bunny\)](https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:13 | 2023-10-13 | 2023-11-30 |
 | [Get Back](https://open.spotify.com/track/0lxWZTQh1QLGH0mKHfMcip) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Get Back](https://open.spotify.com/album/5n3LWRLAo23gemhWfTB4Mc) | 3:27 | 2023-11-29 |  |

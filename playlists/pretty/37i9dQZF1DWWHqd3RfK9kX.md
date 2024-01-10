@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 
 > Il sound giusto per creare in cucina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,934 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,937 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 | 34 | [Police & Thieves](https://open.spotify.com/track/2XsW8N3mMRD5blv4KGNHq6) | [Junior Murvin](https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34) | [Police & Thieves](https://open.spotify.com/album/6k54vGxQY5Gita60TQYCtR) | 4:04 |
 | 35 | [Feliz e Ponto](https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Júpiter](https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj) | 2:36 |
 | 36 | [Estrelar](https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Marcos Valle](https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe) | 5:13 |
-| 37 | [The Harder They Come](https://open.spotify.com/track/2XIr0KTybGQsC1SFfeaZhI) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7) | 3:39 |
-| 38 | [Mi Swing es Tropical](https://open.spotify.com/track/3zK2IUdvnOaKWC3yCP0P3C) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Tempo](https://open.spotify.com/artist/3vfmc1eVYcXWTUl25loS0O) | [Endangered Species \(Bonus Edition\)](https://open.spotify.com/album/37XWqnkktzlWXa5JGp7zF3) | 3:42 |
+| 37 | [Mi Swing es Tropical](https://open.spotify.com/track/3zK2IUdvnOaKWC3yCP0P3C) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Tempo](https://open.spotify.com/artist/3vfmc1eVYcXWTUl25loS0O) | [Endangered Species \(Bonus Edition\)](https://open.spotify.com/album/37XWqnkktzlWXa5JGp7zF3) | 3:42 |
+| 38 | [The Harder They Come](https://open.spotify.com/track/2XIr0KTybGQsC1SFfeaZhI) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7) | 3:39 |
 | 39 | [Take It Easy My Brother Charles](https://open.spotify.com/track/399Hm1oqfzzQaZRu3CtVMb) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Jorge Ben](https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf) | 2:35 |
 | 40 | [Underwater Love](https://open.spotify.com/track/1vahbgf2hkAjBvYRtIo09F) | [Smoke City](https://open.spotify.com/artist/76aD5RR474u5LVtrYxBKkF) | [Flying Away](https://open.spotify.com/album/52g3C6ZdK60MAWsiGxAQz1) | 6:46 |
 | 41 | [Que Pena \(Ele Já Não Gosta Mais De Mim\)](https://open.spotify.com/track/1wuB9MID26ep43OlkOtBXd) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Gal Costa](https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu) | 3:34 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 | 43 | [Bring It On Home To Me](https://open.spotify.com/track/4yjz1aazw6R8ZURpGbCAkp) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [30 Greatest Hits: Portrait of a Legend 1951\-1964](https://open.spotify.com/album/4jiO2jRz7g50ESvYYKsKwZ) | 2:45 |
 | 44 | [Lovestained](https://open.spotify.com/track/0RJ2QoAPH4VTdfhrX2HKQe) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Lovestained](https://open.spotify.com/album/3tTbk9Yvi984H6ESRGk0Nl) | 2:55 |
 | 45 | [Quizás, Quizás \(Live\)](https://open.spotify.com/track/78JVMoMUJw2zyeswgHKfrP) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club at Carnegie Hall \(Live\)](https://open.spotify.com/album/4lsvzkvzZqKJQsfjLV76RR) | 3:47 |
-| 46 | [Cariñito](https://open.spotify.com/track/2jQj5bsJeOad1YoaPWjJHm) | [Los Hijos del sol](https://open.spotify.com/artist/2eDtYwKCGACUH3hFyaZ7Ah) | [Tropicalísimo: Clásicos de Cumbia Peruana](https://open.spotify.com/album/4y6v6W4BoxN7HjlbxKL6lW) | 4:05 |
-| 47 | [Guajira guantanamera](https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Coleccion](https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp) | 5:12 |
+| 46 | [Guajira guantanamera](https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Coleccion](https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp) | 5:12 |
+| 47 | [Cariñito](https://open.spotify.com/track/2jQj5bsJeOad1YoaPWjJHm) | [Los Hijos del sol](https://open.spotify.com/artist/2eDtYwKCGACUH3hFyaZ7Ah) | [Tropicalísimo: Clásicos de Cumbia Peruana](https://open.spotify.com/album/4y6v6W4BoxN7HjlbxKL6lW) | 4:05 |
 | 48 | [Amor Verdadero](https://open.spotify.com/track/4IC8qYktbAE9GX1lEZV37p) | [Afro\-Cuban All Stars](https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg) | [A Toda Cuba Le Gusta](https://open.spotify.com/album/4z8W6dVcSq2iFSbNBFwHR1) | 6:38 |
 | 49 | [Bebete Vãobora](https://open.spotify.com/track/3vST7tho4iT90949PEtM7i) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Jorge Ben](https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf) | 2:35 |
 | 50 | [A Rã](https://open.spotify.com/track/0vZwdJBXOGppAMLjwDUNWg) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Blue Note Trip 7: Birds / Beats](https://open.spotify.com/album/6Z4rwujDTEf2nBEc0eZqJF) | 2:15 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 | 79 | [Quando você chegar](https://open.spotify.com/track/3S15asiD5pqbEp4mb9tMxa) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Dois Momentos](https://open.spotify.com/album/2Q76MOA6Hs8KPk3brm8V6I) | 3:18 |
 | 80 | [Vem Menina](https://open.spotify.com/track/2c4Ecmj9hYHm21KOmnZZ9B) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [Achados e Perdidos](https://open.spotify.com/album/0LAhdzSnR5XGs75Ial3VEk) | 4:19 |
 
-Snapshot ID: `MCxjYzMwY2ZmNGUzMDNlNDgzY2VkMGIyODQ4MGUwNTYxYmUzMmY4YzVk`
+Snapshot ID: `MCw2ODA1YTU1NGYxZTVkNjMxMmI1MTIxOWZiMTViODE2ZGU0NDg1NjU2`

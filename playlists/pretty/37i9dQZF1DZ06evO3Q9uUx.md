@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,470 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,480 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 44 | [Vamos](https://open.spotify.com/track/4gbRykMoB7dM0okw4DHj5J) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Distrito Federal](https://open.spotify.com/album/6ojf6Hfhj5NtQLRMiCRaFt) | 2:52 |
 | 45 | [Raised Me](https://open.spotify.com/track/5sisrx2Bwyxiju7Gttw3z7) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Raised Me](https://open.spotify.com/album/49Unv1AAYHoePvJe0vJPqN) | 2:12 |
 | 46 | [Freak \(Remix\)](https://open.spotify.com/track/1bzdoX1w5IZlWt15z4y1t1) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Freak Remix](https://open.spotify.com/album/4epvIuL8vjGOcBaEslxT5p) | 3:04 |
-| 47 | [BIG DEAL \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/1bt7CW9eLvrgYqMuBFqHOf) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:33 |
-| 48 | [CLASSY \(feat\. Swizz Beatz\)](https://open.spotify.com/track/00nzfB9qa5ZqVxbfxVJUok) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 1:54 |
+| 47 | [CLASSY \(feat\. Swizz Beatz\)](https://open.spotify.com/track/00nzfB9qa5ZqVxbfxVJUok) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 1:54 |
+| 48 | [BIG DEAL \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/1bt7CW9eLvrgYqMuBFqHOf) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:33 |
 | 49 | [I Like Dat \(feat\. BIA & Kehlani\)](https://open.spotify.com/track/3e1C4xcn4REvbAa7M6VshF) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [I Like Dat \(feat\. BIA & Kehlani\)](https://open.spotify.com/album/6j46dFtnzrjKNAmfcEtpKJ) | 4:43 |
 | 50 | [Street Opera \(Swizz Beatz feat\. SAINt JHN, Fivio Foreign & BIA\)](https://open.spotify.com/track/7qYGNevCXJh3xOzmr3XvyK) | [Godfather of Harlem](https://open.spotify.com/artist/6ss7NRk9Y2P9n8q1yH2HXA), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Street Opera \(Swizz Beatz feat\. SAINt JHN, Fivio Foreign & BIA\)](https://open.spotify.com/album/4ydjUzXvQ5jyxNtCchd3j0) | 3:33 |
 
-Snapshot ID: `Mjg0MTE5MDAsMDAwMDAwMDAzMDBiMGIxYTQ1ODQ5YTIwZDU2ZWNhMjYyYzYwNzY4Yg==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDA2YjIzNDVjZjg3NWEyM2Y4NzhjMzk3MDg1MDlhYjc1NQ==`

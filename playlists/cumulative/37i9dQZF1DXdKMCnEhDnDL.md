@@ -4,7 +4,7 @@
 
 > De beste Nederlandse hits van vroeger en nu\. Cover: Donnie & Marco Schuitmaker
 
-183 songs - 9 hr 23 min
+184 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Alles](https://open.spotify.com/track/1Mvjog6iuetW1uXH4di2bP) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Alles](https://open.spotify.com/album/0XEjnbbUYmcdbDazbxNmvs) | 3:02 | 2023-02-24 |  |
 | [Alles Kwijt \- Live in Carré 2023](https://open.spotify.com/track/3swj4AMjeqaPxHAqftfAq8) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Alles Kwijt](https://open.spotify.com/album/2L1qzNA0JnpifTZMI07a9i) | 3:15 | 2023-12-07 |  |
 | [Als Geen Ander](https://open.spotify.com/track/1QzzCEcKxcELzdJcHpinQ6) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Als Geen Ander](https://open.spotify.com/album/68ObzZyYcFZOO1NdiQlFSP) | 3:30 | 2023-02-24 | 2023-06-15 |
+| [Als Ik God Was](https://open.spotify.com/track/2MZrYnUf8qYIDuKaQeH5u8) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Als Ik God Was](https://open.spotify.com/album/3nqQbZABmtHrz6T7coZ4QG) | 2:52 | 2024-01-09 |  |
 | [Als Ik Je Weer Zie](https://open.spotify.com/track/3yraHvsUkmnJjGhOrx1CSg) | [Thomas Acda](https://open.spotify.com/artist/50o63K3IrY47g46E8R071Y), [Paul de Munnik](https://open.spotify.com/artist/1HFg9B0Jvwqzqiuqg9cASk), [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU), [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Als Ik Je Weer Zie](https://open.spotify.com/album/5m1URbxyOpdcKwbvexXPdI) | 3:27 | 2023-02-24 |  |
 | [Als Je Voor Me Staat](https://open.spotify.com/track/2hAiXNgfYXyMmIB1KPRv7W) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Als Je Voor Me Staat](https://open.spotify.com/album/3dd2TJiNinnH58uCo6etNP) | 3:20 | 2023-02-24 |  |
 | [Als Thuis](https://open.spotify.com/track/6hoWEwirlkqSV3oZ4qEzWV) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Als Thuis](https://open.spotify.com/album/31p5uf3ZYI7baJgMyvGz7l) | 2:59 | 2023-04-14 | 2023-09-02 |
@@ -85,7 +86,7 @@
 | [Hoodiedate](https://open.spotify.com/track/0rWktREtOKwpyAxwbh9aIh) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Hoodiedate](https://open.spotify.com/album/2GE8j7V7VOaFbrlT1SyssS) | 3:03 | 2023-11-13 |  |
 | [Hou Me Los Van Dichtbij](https://open.spotify.com/track/7bG8a7JbcBftmxVtFMyz9Y) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Hou Me Los Van Dichtbij](https://open.spotify.com/album/58WgPfVCz1tOCJ4DTcwVKA) | 2:34 | 2023-09-01 |  |
 | [Hou me vast](https://open.spotify.com/track/5MpQcSDV8mCDRo9DL4gsYM) | [Volumia!](https://open.spotify.com/artist/1YajfeXETQGtYNQJkOMupS) | [Volumia!](https://open.spotify.com/album/3RG3z8qzEU5ZztjWvfAcvs) | 3:44 | 2023-02-24 | 2023-06-15 |
-| [Houden Van Mij](https://open.spotify.com/track/6YydP7xxbousqGYDNIpwtc) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Houden Van Mij](https://open.spotify.com/album/3QUGk8yFDNJWqlUU8iu0ty) | 2:18 | 2023-12-07 |  |
+| [Houden Van Mij](https://open.spotify.com/track/6YydP7xxbousqGYDNIpwtc) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Houden Van Mij](https://open.spotify.com/album/3QUGk8yFDNJWqlUU8iu0ty) | 2:18 | 2023-12-07 | 2024-01-10 |
 | [How My Heart Was Won](https://open.spotify.com/track/7aI0nca5m0wSGYcBdwRL8r) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [How My Heart Was Won](https://open.spotify.com/album/7o2JbjqQZjSX26mG6v2RsE) | 3:39 | 2023-03-30 | 2023-09-15 |
 | [Hypnose](https://open.spotify.com/track/4qghq0qfx432ZSTF7DhUPT) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Hypnose](https://open.spotify.com/album/3SyrnhZBklWC6wMamSxfQF) | 2:32 | 2023-09-21 | 2023-12-11 |
 | [I Do](https://open.spotify.com/track/0QTI2S5oOheSLU8WQuGmja) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Beste Zangers 2023 \(Duncan Laurence\)](https://open.spotify.com/album/7d9Z8E52D6So8lzxJQ67y3) | 2:51 | 2023-09-28 |  |

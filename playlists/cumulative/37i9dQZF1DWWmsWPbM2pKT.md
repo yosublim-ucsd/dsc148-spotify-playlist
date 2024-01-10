@@ -4,7 +4,7 @@
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-237 songs - 14 hr 44 min
+239 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,8 @@
 | [Lightyears](https://open.spotify.com/track/5DzgAJOHNyOhj8jxrBghHq) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0) | [Éternité](https://open.spotify.com/album/5p7tig2puSC6MFU7wLVuc5) | 4:16 | 2020-12-21 | 2023-02-10 |
 | [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:59 | 2023-02-09 |  |
 | [Little Lies](https://open.spotify.com/track/7a0u0479DoiuV3DWg2AhoH) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Little Lies](https://open.spotify.com/album/1cILa2Wl4ltjRfKlZTAcix) | 4:14 | 2023-04-07 | 2023-09-01 |
-| [Lover For Tonight](https://open.spotify.com/track/4oU54ojJi4xrvCsYRa1EqE) | [.com](https://open.spotify.com/artist/0KMlyqeocN19K1DTl4TpzQ) | [Lover For Tonight](https://open.spotify.com/album/7qfFAGwg5ILjvQrU4ngLmt) | 2:27 | 2023-08-31 |  |
+| [Lover For Tonight](https://open.spotify.com/track/4oU54ojJi4xrvCsYRa1EqE) | [.com](https://open.spotify.com/artist/0KMlyqeocN19K1DTl4TpzQ) | [Lover For Tonight](https://open.spotify.com/album/7qfFAGwg5ILjvQrU4ngLmt) | 2:27 | 2023-08-31 | 2024-01-10 |
+| [Lover For Tonight](https://open.spotify.com/track/6URF4E3yKBStbZoou3J9Ol) | [.com](https://open.spotify.com/artist/0KMlyqeocN19K1DTl4TpzQ) | [Lover For Tonight](https://open.spotify.com/album/7JzT7lZpC0HxQ2AAe6zHUa) | 2:27 | 2023-08-31 |  |
 | [Lovers From The Past](https://open.spotify.com/track/29P3bJSzsI5fUvwxSItkvr) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Lovers From The Past](https://open.spotify.com/album/5ACGaSKEybDGrdthNiGCfY) | 3:19 | 2023-03-10 |  |
 | [Luces](https://open.spotify.com/track/4bgPDf0OLHytRSicJ8y9pa) | [Margarita Quebrada](https://open.spotify.com/artist/5aPDMwix2ydu77sgQ89SUi) | [Luces](https://open.spotify.com/album/095CLldKK6xtvgrVsjXB7j) | 3:26 | 2020-12-21 |  |
 | [Lucid Dreaming](https://open.spotify.com/track/7iQM3uHalxTDWF9yfnLWUY) | [Forever Grey](https://open.spotify.com/artist/3HSpbkijRqVAa1bn0hyEfz) | [Sympathy Garden](https://open.spotify.com/album/0lJDsMUvO0gnnYMEjISatI) | 2:35 | 2023-08-31 |  |
@@ -215,7 +216,8 @@
 | [Weak In Your Light](https://open.spotify.com/track/4odb2UIgc0u22MNV7p4iQq) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Strange Disciple](https://open.spotify.com/album/1VDxaxECCJJh4of5htFnmK) | 4:15 | 2023-08-31 |  |
 | [Weak In Your Light](https://open.spotify.com/track/59NJzV28kIjaPVqnkEX55V) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Weak In Your Light](https://open.spotify.com/album/7jEMFyVOSHEDt307mMeOM1) | 4:15 | 2023-04-14 | 2023-09-27 |
 | [Whirl](https://open.spotify.com/track/5CNEbwdhDgosVr96njlnGK) | [Soft Kill](https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m) | [Choke](https://open.spotify.com/album/5gX6BIzokidmOiI6X6ZnBH) | 6:08 | 2023-02-09 |  |
-| [Will I Ever Find Love?](https://open.spotify.com/track/2heRsJG7O8jamqtKFW8P8s) | [.com](https://open.spotify.com/artist/0KMlyqeocN19K1DTl4TpzQ) | [Will I Ever Find Love?](https://open.spotify.com/album/6Vix7fnm5Cn5Z3iZ2bb5wK) | 3:52 | 2023-08-31 |  |
+| [Will I Ever Find Love?](https://open.spotify.com/track/2heRsJG7O8jamqtKFW8P8s) | [.com](https://open.spotify.com/artist/0KMlyqeocN19K1DTl4TpzQ) | [Will I Ever Find Love?](https://open.spotify.com/album/6Vix7fnm5Cn5Z3iZ2bb5wK) | 3:52 | 2023-08-31 | 2024-01-10 |
+| [Will I Ever Find Love?](https://open.spotify.com/track/4Fmm1Zq5dEjbDFjku8F3U0) | [.com](https://open.spotify.com/artist/0KMlyqeocN19K1DTl4TpzQ) | [Will I Ever Find Love?](https://open.spotify.com/album/1fecgqTKMitrd73YmkxKsb) | 3:52 | 2023-08-31 |  |
 | [Worst Way](https://open.spotify.com/track/5N517sy8DmxfeXrm5ZxMpg) | [Social Order](https://open.spotify.com/artist/7J3iqTNIMXafmNKtwfRQ48) | [Worst Way](https://open.spotify.com/album/6oAeyTReEk0aU9Ih8uZAp1) | 2:18 | 2023-02-21 | 2023-03-25 |
 | [Your Master is calling](https://open.spotify.com/track/0TXfAQ5ohVQPzt4Mrr5azG) | [Pink Turns Blue](https://open.spotify.com/artist/47oP5alMot58ggzcFwldky) | [Meta](https://open.spotify.com/album/7fSBShSLe5Glx6sifNLdJF) | 7:43 | 2023-02-09 | 2023-07-26 |
 | [Youth Cults](https://open.spotify.com/track/28to6BkzNlG24H6yJOxrJK) | [Traitrs](https://open.spotify.com/artist/3r7VhSKMedZrOa3zCD3e7X) | [Rites and Ritual](https://open.spotify.com/album/4NDIlGZ27FqVY5zxe3tttf) | 2:52 | 2023-08-31 |  |

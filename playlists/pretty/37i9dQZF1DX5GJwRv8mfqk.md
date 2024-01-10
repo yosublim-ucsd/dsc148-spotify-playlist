@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 
 > ¡A la antigüita, chiquitita! Las canciones escritas e interpretadas por Edén Muñoz 🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,881 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,836 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 | 52 | [Bajo La Misma Luna](https://open.spotify.com/track/7tWUtuimvXukaJMeafXcQr) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [En Vida](https://open.spotify.com/album/4ERCLcA2hl98lbwkOeqcYz) | 2:12 |
 | 53 | [Listo para Ser Infiel](https://open.spotify.com/track/0Mc2gzI7o9iob0yuKDYogk) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [El Que a Ti Te Gusta](https://open.spotify.com/album/47wEWNQJIhuqODvvVTUtrl) | 3:06 |
 | 54 | [¿Y Qué Les Vamos A Decir?](https://open.spotify.com/track/6S4KfYtYh4kMMaIrVJ4QLF) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO) | [¿Y Qué Les Vamos A Decir?](https://open.spotify.com/album/6KJ4oNuCLZxZpS5np9RCme) | 3:16 |
-| 55 | [Como Quiera Sigo Vivo](https://open.spotify.com/track/4J6eF2qMnUFg0fgunRFBcC) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Como Quiera Sigo Vivo](https://open.spotify.com/album/0ii8CYwGpHWZOyedXhUuML) | 2:59 |
-| 56 | [El Desayuno](https://open.spotify.com/track/0UN5AItjmIjEMBqsKjdOTh) | [Banda La Misma Tierra](https://open.spotify.com/artist/3qduLYuB55rWHxlQgpLzQA) | [La Moneda Sigue En El Aire](https://open.spotify.com/album/6au0XTsCm7ZzJdpXS6LL6G) | 2:59 |
+| 55 | [El Desayuno](https://open.spotify.com/track/0UN5AItjmIjEMBqsKjdOTh) | [Banda La Misma Tierra](https://open.spotify.com/artist/3qduLYuB55rWHxlQgpLzQA) | [La Moneda Sigue En El Aire](https://open.spotify.com/album/6au0XTsCm7ZzJdpXS6LL6G) | 2:59 |
+| 56 | [Como Quiera Sigo Vivo](https://open.spotify.com/track/4J6eF2qMnUFg0fgunRFBcC) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Como Quiera Sigo Vivo](https://open.spotify.com/album/0ii8CYwGpHWZOyedXhUuML) | 2:59 |
 | 57 | [Si Te Estoy Rogando](https://open.spotify.com/track/5VcqezOXswsrukgQWbGCyF) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Si Te Estoy Rogando](https://open.spotify.com/album/1OMaLDuQXha2jclqIjaXpc) | 4:07 |
 | 58 | [Y Al Final Quedé Sin Ti](https://open.spotify.com/track/2hT5lSsEajPIx9ioHqV9lX) | [Proyecto X](https://open.spotify.com/artist/4LbK7Z2FZbXlk60XtDZlUs) | [Y Al Final Quedé Sin Ti](https://open.spotify.com/album/1yyq7SPzlt1p6iCvhjdn8o) | 3:45 |
 | 59 | [De tanto Que Te Di](https://open.spotify.com/track/6iHvR8Se4EThLbFQUylvSY) | [Noel Torres](https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG) | [La Vida A Mi Modo](https://open.spotify.com/album/4H3riGmrFHA3TWfz4Vp9hY) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 | 99 | [Vamos Bien](https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 3:20 |
 | 100 | [No Me Pidas Un Tiempo](https://open.spotify.com/track/2Pkg9GrTgiMHXNG5oagxze) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Mejor Versión De Mí](https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1) | 3:40 |
 
-Snapshot ID: `MCxmMWVlZDA4ZTU5MTgwNWUzMTBiMzA2MmIyZjEyNDhlMDg1NWE5N2I5`
+Snapshot ID: `MCw0Y2U3MzBkMjIzYWFjNzEyZmU2YzkzMDczOWM4ODc2Mzg4NjFjZjI0`

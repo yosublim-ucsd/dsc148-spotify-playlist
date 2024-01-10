@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 
 > This is Katy Perry\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,146,409 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,145,738 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 | 49 | [Never Worn White](https://open.spotify.com/track/3ksNHUNCTP6Pan8rjFnmtw) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Never Worn White](https://open.spotify.com/album/0Gubs5k8ay34m9a0yiliRa) | 3:45 |
 | 50 | [One Of The Boys](https://open.spotify.com/track/6uIODsxIHybW8ngRUAACb6) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys \(15th Anniversary Edition\)](https://open.spotify.com/album/4E0vDZuTPYYySw3TcVi6H0) | 4:07 |
 
-Snapshot ID: `Mjg0MTE5MDAsMDAwMDAwMDBjN2NmZjQwZDhhYWVhOTM1YjVjOTA0Mzc4OTkxNjI3OA==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDBhMWE4ZjQ4MzYxZTFlZDk3ZWYyMWQ1MWU4ZmZiNzY0OQ==`

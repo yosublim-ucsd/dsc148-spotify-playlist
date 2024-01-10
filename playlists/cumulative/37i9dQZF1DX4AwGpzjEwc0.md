@@ -4,7 +4,7 @@
 
 > Un suave trasfondo musical para mantener el foco en tus tareas.
 
-438 songs - 19 hr 3 min
+440 songs - 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [As if She Were The Sun](https://open.spotify.com/track/5AhXtjD4g5KCV5A0z2jpeD) | [Avery Hall](https://open.spotify.com/artist/13iFrunlI1q3bWFisDA4k1) | [As if She Were The Sun](https://open.spotify.com/album/4zAI7PqqyswWjYoATzLDde) | 2:10 | 2023-10-09 | 2023-11-07 |
 | [As you enchant me](https://open.spotify.com/track/2Qnp7azCI4ybKBOkvHrOjP) | [Amy\-Leigh Williamson](https://open.spotify.com/artist/5rc29ZWhATx7oy7gk525xx) | [As you enchant me](https://open.spotify.com/album/47eYL0jlVCdl6wzkzO73G1) | 2:29 | 2023-10-09 | 2023-11-07 |
 | [Aster](https://open.spotify.com/track/72KJyAtPYTjzfDeSZbe9h3) | [Tig Martin](https://open.spotify.com/artist/6M0BLRIxPxH1xbsvQdNsdi) | [Aster](https://open.spotify.com/album/3dGQkAUu05FoXDBLANmMow) | 2:42 | 2023-10-09 | 2023-11-07 |
+| [Au matin du magicien](https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW) | [Leo Nocta](https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI) | [Au matin du magicien](https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ) | 2:02 | 2024-01-09 |  |
 | [Aufgang der Sonne](https://open.spotify.com/track/4iCLo3ZjF6V1RW4Wz18KMz) | [Ploxxio](https://open.spotify.com/artist/6x1wQEYS0lwy0BOZUF6WFa) | [Praxedis](https://open.spotify.com/album/5fpiyyKknRiCj5joBh4VA0) | 2:52 | 2023-10-09 |  |
 | [Autres temps, autres mœurs](https://open.spotify.com/track/6aGvF7goNzrTx03ZK6EJOX) | [Prewitt Massé](https://open.spotify.com/artist/4A2bJABmFzaDnZwBris4yj) | [Autres temps, autres mœurs](https://open.spotify.com/album/2UTphZZpH1w90kHCB0hfz7) | 2:00 | 2023-10-09 | 2023-11-07 |
 | [Autumnal](https://open.spotify.com/track/6i653T49GCokF7aFcgG76h) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [Autumnal](https://open.spotify.com/album/7a7f6qmks202aOFuAfomMM) | 2:04 | 2023-12-12 |  |
@@ -73,6 +74,7 @@
 | [Creeks](https://open.spotify.com/track/2C6ljUnXSMfkcXlExb7xia) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [Horizons](https://open.spotify.com/album/1xDEPdlBB4lCvYZtwVi3rn) | 2:33 | 2023-10-09 |  |
 | [Crossing The Line](https://open.spotify.com/track/3oGSYfpXW9Z26s0tHiab6w) | [Jonas Gewald](https://open.spotify.com/artist/53k1kqkyCUpbJMK93MBxxc) | [Crossing The Line](https://open.spotify.com/album/1khXOksViOnCC12iQLSjC2) | 2:01 | 2023-10-09 | 2023-11-07 |
 | [crystal creek](https://open.spotify.com/track/5elkvtzKLz3UEJP4M8ZmhI) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [chateau & crystal creek](https://open.spotify.com/album/27ZmGbSDeBUUb7G6f9Wllj) | 2:27 | 2023-10-09 |  |
+| [Daffodils](https://open.spotify.com/track/4JHlWtvac2EIxLMa8mMyQc) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Daffodils](https://open.spotify.com/album/2McYGbue7ucLoac2dHLYWs) | 3:12 | 2024-01-09 |  |
 | [Dancing Michelangelo](https://open.spotify.com/track/1fKfNwz9b2zkY9SoC5NC7I) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Dancing Michelangelo](https://open.spotify.com/album/3wr7KCwoPjLCAUtPPMwmtA) | 2:18 | 2023-10-09 | 2023-11-07 |
 | [Danderlion](https://open.spotify.com/track/4p3aBt5WfldkaRaDfBcfGG) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Danderlion](https://open.spotify.com/album/06mlIPE6BeK3DQlIxLkgjR) | 2:16 | 2023-10-09 |  |
 | [Danse avec moi](https://open.spotify.com/track/6EJ1ZUorVQzjUIq2kaIBur) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Danse avec moi](https://open.spotify.com/album/1dGrCWi0hfpYTTSFKE6PQr) | 2:26 | 2023-10-09 |  |

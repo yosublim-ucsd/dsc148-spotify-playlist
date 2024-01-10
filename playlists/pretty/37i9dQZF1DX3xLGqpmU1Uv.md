@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 
 > ¡Las canciones que ponían a bailar a todo México!
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,283 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,163 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 | 23 | [Tus Ojos](https://open.spotify.com/track/2ikdhRtBUIS1sBpN0j0ozp) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock \- Lo Mejor De Los Locos Del Ritmo \- Pioneros Del Rock En México](https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK) | 3:25 |
 | 24 | [Rosas en el Mar](https://open.spotify.com/track/3I88eZa7wG0HrbOQeVRKMM) | [Massiel](https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T) | [Cuentame](https://open.spotify.com/album/7pHfAknqhkk00kN1H5pBqs) | 3:44 |
 | 25 | [Tu Cabeza en Mi Hombro](https://open.spotify.com/track/6dRAaQ7DFVPsZ2Pnfv97vX) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [La Gran Colección del 60 Aniversario CBS \- Enrique Guzmán](https://open.spotify.com/album/4qFFxzwNLUpk2kce2Z7Bx0) | 2:31 |
-| 26 | [La Plaga \(Good Golly, Miss Molly\)](https://open.spotify.com/track/1SdwywRhxTWnZdaUihMdeD) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Teen Tops](https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q) | 2:12 |
-| 27 | [Angelito](https://open.spotify.com/track/3luBu1STG0gHqDNaQ3zRv8) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Éxitos](https://open.spotify.com/album/1rd76Pzbgwib2BMDklaFVU) | 2:12 |
+| 26 | [Angelito](https://open.spotify.com/track/3luBu1STG0gHqDNaQ3zRv8) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Éxitos](https://open.spotify.com/album/1rd76Pzbgwib2BMDklaFVU) | 2:12 |
+| 27 | [La Plaga \(Good Golly, Miss Molly\)](https://open.spotify.com/track/1SdwywRhxTWnZdaUihMdeD) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Teen Tops](https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q) | 2:12 |
 | 28 | [De Rodillas Ante Ti](https://open.spotify.com/track/0Rc8UXhnvxeTMJEffTevHZ) | [Los Moonlights](https://open.spotify.com/artist/5jq7ZBcwUEaVSZYYcoONEH) | [15 De Los Moonlights](https://open.spotify.com/album/4Vs7lVsmEwUc5ii8yQIKUj) | 2:57 |
 | 29 | [Atras de la Raya](https://open.spotify.com/track/6wQBqxOwJd6e2csv5y2qjF) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [12 Grandes exitos Vol\. 2](https://open.spotify.com/album/6FS5v5fmOjAjsMKriFMLqe) | 2:44 |
 | 30 | [Yo No Soy Rebelde](https://open.spotify.com/track/08U1KWevchrVHDNkQV2iO7) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock Con los Locos del Ritmo](https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH) | 1:20 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 | 33 | [Florida Twist](https://open.spotify.com/track/7xzxlk4jDDdwb2mDBRTSpZ) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [La Gran Colección del 60 Aniversario CBS \- Enrique Guzmán](https://open.spotify.com/album/4qFFxzwNLUpk2kce2Z7Bx0) | 2:13 |
 | 34 | [Barba azul \- Let's Do The limbo](https://open.spotify.com/track/2ko3qA1QJZ7nla7XDImYHv) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [12 Grandes exitos Vol\. 2](https://open.spotify.com/album/6FS5v5fmOjAjsMKriFMLqe) | 2:50 |
 | 35 | [San Antonio Twist](https://open.spotify.com/track/4DjixhdAyHASyjcyNP7cUn) | [Hermanas Jimenez](https://open.spotify.com/artist/0GDo46nR3Fh3NYto2h4FUN) | [La Epoca de Oro del Twist](https://open.spotify.com/album/69tIhcn1Qd1heyIurhEkHt) | 2:44 |
-| 36 | [Popotitos \(Bonie Moroni\)](https://open.spotify.com/track/70dBmROatI6VWV7HoWayte) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Teen Tops](https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q) | 2:51 |
-| 37 | [Aburrida y Sola \(Si Je Chante\)](https://open.spotify.com/track/3Lk23aMjEWyoALysLnQmjz) | [Pyly Gaos](https://open.spotify.com/artist/39E1vtdf8r9TasRfcE7jkb) | [RCA 100 Años De Musica](https://open.spotify.com/album/2eEwURlPtjbdcA9z4Peru1) | 1:54 |
+| 36 | [Aburrida y Sola \(Si Je Chante\)](https://open.spotify.com/track/3Lk23aMjEWyoALysLnQmjz) | [Pyly Gaos](https://open.spotify.com/artist/39E1vtdf8r9TasRfcE7jkb) | [RCA 100 Años De Musica](https://open.spotify.com/album/2eEwURlPtjbdcA9z4Peru1) | 1:54 |
+| 37 | [Popotitos \(Bonie Moroni\)](https://open.spotify.com/track/70dBmROatI6VWV7HoWayte) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Teen Tops](https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q) | 2:51 |
 | 38 | [Nena Baila Twist](https://open.spotify.com/track/5LNIT1cjnkIkPpZZIUQnCf) | [Los Freneticos Del Ritmo](https://open.spotify.com/artist/64k6Wy7EbxzKOC7jeN3287) | [Ritmo Frenético](https://open.spotify.com/album/3TL7eaDOfW3cDGF8AjtJwD) | 2:09 |
 | 39 | [Nena Loca](https://open.spotify.com/track/6OnUh5kbrT3LERAKSRE4T8) | [Los Reyes del Twist \(Los Seven Teens\)](https://open.spotify.com/artist/1HIFXcPtGj3PHMiDocMQ2H) | [Los Seven Teens](https://open.spotify.com/album/4rkOWiDCIicFuzuXmgPs1J) | 2:36 |
 | 40 | [Boogie Twist](https://open.spotify.com/track/10NGZL2P7ZJ7C3vwUlyqOG) | [Los Jet Twisters](https://open.spotify.com/artist/6XUuzErwNvJpr5jlSEtCdS) | [Twist](https://open.spotify.com/album/16LnvfnTHvoqxczpRjRk4a) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 | 49 | [Si me quieres](https://open.spotify.com/track/14LwPPMfMz0KHESFo2dUf4) | [Los Digers](https://open.spotify.com/artist/3VCEQh1kN4JWyyphBt1IMV) | [Los Originales](https://open.spotify.com/album/1rRZ2R9pDKnULllvloJguy) | 2:45 |
 | 50 | [El Amor Es Triste \- Love Is Blue](https://open.spotify.com/track/6biuMgdkzR1JmA05CAtOEY) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2OA7EvjDkBZMkAZvElz8UU) | 2:18 |
 
-Snapshot ID: `MCwxYzQ4MTMzN2NiZDM2MGNkNDk4ZDg0ZDI3NWJkMjQyNjBiMDI3OGIz`
+Snapshot ID: `MCxjZDIxZjU2NzliYzYzYWEzMTM3MjdmMWQ4ODI2OGRmMDk3ZWRiMTVk`

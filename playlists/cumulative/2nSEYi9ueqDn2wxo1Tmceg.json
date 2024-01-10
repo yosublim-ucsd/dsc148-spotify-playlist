@@ -11121,6 +11121,24 @@
     },
     {
       "album": {
+        "name": "Spinning",
+        "url": "https://open.spotify.com/album/5WcVopSnLSUMTFUuoeE1jA"
+      },
+      "artists": [
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374468,
+      "name": "Spinning",
+      "url": "https://open.spotify.com/track/0E2AcfdJAhmAZdLz85TQU3"
+    },
+    {
+      "album": {
         "name": "Spirit 2.0",
         "url": "https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv"
       },

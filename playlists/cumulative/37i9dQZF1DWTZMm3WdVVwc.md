@@ -4,7 +4,7 @@
 
 > 本格的な冬がようやく訪れました。そんな凍える日々を少しだけ暖めるような冬の名曲たちを一つのプレイリストに。
 
-93 songs - 6 hr 22 min
+95 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [continue](https://open.spotify.com/track/5WMDdUyxL2U1T9qrPINFiS) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [continue](https://open.spotify.com/album/6vKfyG0Mr5QOIZc4TZ8oqw) | 2:36 | 2023-12-12 |  |
 | [COSMO](https://open.spotify.com/track/6pk58j7S7BpXiiFQuGkhuG) | [Simmer Pine](https://open.spotify.com/artist/1aBq93WwCvNTicXVQ7B9vA) | [COSMO](https://open.spotify.com/album/0TVWzPRXIqvlxNnT3U0TXQ) | 2:21 | 2023-12-19 |  |
 | [Crystals \- English ver.](https://open.spotify.com/track/3VqTAZ3bPHOLAJTNQiwARF) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Crystals \(English ver.\)](https://open.spotify.com/album/5sYa4gew2XidgHr9M9N18S) | 3:39 | 2023-12-12 |  |
-| [DAD](https://open.spotify.com/track/3WZ2FIiQwNfyAgUtC7Dhkx) | [WATERLOO](https://open.spotify.com/artist/10gBoV6gqQZ4Jk3FcqQn1y) | [DAD](https://open.spotify.com/album/1iUMSrlu0gWfpt7lEV0trr) | 4:50 | 2023-12-19 |  |
+| [DAD](https://open.spotify.com/track/3WZ2FIiQwNfyAgUtC7Dhkx) | [WATERLOO](https://open.spotify.com/artist/10gBoV6gqQZ4Jk3FcqQn1y) | [DAD](https://open.spotify.com/album/1iUMSrlu0gWfpt7lEV0trr) | 4:50 | 2023-12-19 | 2024-01-10 |
 | [Dark Enough to See the Stars](https://open.spotify.com/track/7Bk3CAkTH58ZdxHJIwvkA7) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [SZNZ: Winter](https://open.spotify.com/album/52FaHwCCUz8aMLMWlZgYzo) | 2:36 | 2023-12-12 |  |
 | [Everything](https://open.spotify.com/track/6bkJ4p6uSKmSnKxYpmB4aG) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [Super Best Records \-15th Celebration\-](https://open.spotify.com/album/6HDgwZwj73QuaWubxCFyE8) | 7:00 | 2023-12-12 |  |
 | [First Love \- 2022 Mix](https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love \(2022 Mix\)](https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID) | 4:21 | 2023-12-12 |  |
@@ -51,7 +51,7 @@
 | [Paper Crown](https://open.spotify.com/track/2fB0qwP98V9Yrv3mgR6IJJ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Paper Crown](https://open.spotify.com/album/7sQDzWYBQavRBvvamkslFe) | 3:12 | 2023-12-12 |  |
 | [Pointless](https://open.spotify.com/track/44G9fSM6qI8zRoG6Qwn3eq) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:51 | 2023-12-12 | 2023-12-20 |
 | [Razor Sharp](https://open.spotify.com/track/7ewZUzZQr5oiFxH5RcbwdJ) | [SUGIURUMN](https://open.spotify.com/artist/6SkHN5XI188oP4n7YhBRQm), [Jimme Armstrong](https://open.spotify.com/artist/4XJL3wjOswmJ2z5fu1TLof) | [Razor Sharp](https://open.spotify.com/album/1RdmMMGpxSXk5PFoh6F1mu) | 7:08 | 2023-12-12 | 2023-12-20 |
-| [Rely on winter](https://open.spotify.com/track/5PyzNTtWX0PXV7Q0HNtsVA) | [Saki Misaka](https://open.spotify.com/artist/3p6qvvJztwO1uCSnUSnpIC) | [Rely on winter](https://open.spotify.com/album/0jMjGRFQfkc7alrH6CyI5m) | 5:02 | 2023-12-19 |  |
+| [Rely on winter](https://open.spotify.com/track/5PyzNTtWX0PXV7Q0HNtsVA) | [Saki Misaka](https://open.spotify.com/artist/3p6qvvJztwO1uCSnUSnpIC) | [Rely on winter](https://open.spotify.com/album/0jMjGRFQfkc7alrH6CyI5m) | 5:02 | 2023-12-19 | 2024-01-10 |
 | [Romance no Kamisama](https://open.spotify.com/track/1LBLFArddqDkgwig4vs1lk) | [広瀬香美 × Night Tempo](https://open.spotify.com/artist/5wRgqzIDq58eY9dglul3fQ), [Kohmi Hirose](https://open.spotify.com/artist/0jMZY406RfgjK6PFKIRfAv), [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF) | [Romance no Kamisama](https://open.spotify.com/album/2BTbYSIJDNSVwbaQXS8u4P) | 3:27 | 2023-12-12 |  |
 | [Room Service](https://open.spotify.com/track/5NURmMpR9TkfYroyf9HcJQ) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 3:46 | 2023-12-12 |  |
 | [Shirayuki](https://open.spotify.com/track/1fcbAM10NJDMxShne4Vqjq) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Shirayuki](https://open.spotify.com/album/4CX8RRpkt9EXsC5yUptLHZ) | 3:41 | 2023-12-12 |  |
@@ -59,8 +59,10 @@
 | [snow love](https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [snow love](https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS) | 3:26 | 2023-12-12 |  |
 | [Snow White](https://open.spotify.com/track/6WytRwLSMdF6W4exCxR3qu) | [もさを。](https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh) | [Snow White](https://open.spotify.com/album/5NgUEYWKs6lhgAvgMg0moE) | 3:23 | 2023-12-12 |  |
 | [Snowin'](https://open.spotify.com/track/6gsWfx1d3KtV4Y8ecsLVfx) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Snowin’](https://open.spotify.com/album/7AHmQEtHOwdKGFvcHC9PPM) | 3:25 | 2023-12-12 |  |
+| [snowspring](https://open.spotify.com/track/7tonj11VpAOhsOH7QgJPhq) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [snowspring](https://open.spotify.com/album/6097pqjwHjLkbbWj30WQmt) | 3:42 | 2024-01-09 |  |
 | [Snowy Road](https://open.spotify.com/track/5NLkF1qzYNdabDOw83eha4) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Snowy Road](https://open.spotify.com/album/32jiuNbErLfzOYpvH0GkH8) | 4:52 | 2023-12-12 |  |
 | [Solitude](https://open.spotify.com/track/5NXQt7YkV2ElktdAhL1QWk) | [Takashi Kobayashi](https://open.spotify.com/artist/1mbhGqrhvIKVy2h9s9ulvw) | [Solitude](https://open.spotify.com/album/4CqXQpyqMQYffpTR0HFzp4) | 2:56 | 2023-12-12 | 2023-12-20 |
+| [Stateless feat\. YonYon](https://open.spotify.com/track/2aaGksOvk3MqhlFvhnPVif) | [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Stateless feat\. YonYon](https://open.spotify.com/album/0HmxEwYS2irKltYO87x0F2) | 3:31 | 2024-01-09 |  |
 | [Sukijanaiyo](https://open.spotify.com/track/1e83LbYSYSdqwcYsuq3sA8) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 4:46 | 2023-12-12 |  |
 | [Swans](https://open.spotify.com/track/5ke1JQCX4lPNTtorQJjdpm) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Swans](https://open.spotify.com/album/49PMC05GRlAApjxy2BhE4g) | 3:05 | 2023-12-12 |  |
 | [Tampopo](https://open.spotify.com/track/0ykZ3mzjgdnrTEzj2Q09L3) | [松下洸平](https://open.spotify.com/artist/7awpVoD0w1oBBCDeGckNd1) | [R&ME](https://open.spotify.com/album/73wIJr5w62OjFZhctd8lfh) | 4:13 | 2023-12-12 |  |

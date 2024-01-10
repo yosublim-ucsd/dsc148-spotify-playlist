@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 
 > Be the first to hear the FINAL FANTASY XVI soundtrack and stay tuned for the  upcoming theme song\. 最新作『FFXVI』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,596 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,612 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 49 | [Opening](https://open.spotify.com/track/2ega5twcEqXE03JPv2UhuW) | [Hitoshi Sakimoto](https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 1:09 |
 | 50 | [「Keeping the Peace」 from DISSIDIA FINAL FANTASY](https://open.spotify.com/track/51evxX66nOSlnjlDjNJEm3) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [DISSIDIA FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) | 2:26 |
 | 51 | [Shirma's Theme](https://open.spotify.com/track/4kqGwLAACGAWsQTzyStHLk) | [川上 泰広](https://open.spotify.com/artist/0i4WzcDJUxEP87qiDTKwj6) | [Chocobo's Dungeon 2\(Original Soundtrack\)](https://open.spotify.com/album/4UH6RNedh8HuSmhX2PlTPB) | 1:29 |
-| 52 | [Home Sweet Home \- Theme of EPISODE PROMPTO](https://open.spotify.com/track/7ko7gRGHntBuoK3kypwTnT) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【1/2】\)](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 3:14 |
-| 53 | [「Terra's Theme \- arrange \-」 from FINAL FANTASY VI](https://open.spotify.com/track/2dqMiJqXTF890G3RtPftjq) | [SQUARE ENIX MUSIC](https://open.spotify.com/artist/6NeoLSPGwJLfeisvM36SMi) | [DISSIDIA FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) | 1:06 |
+| 52 | [「Terra's Theme \- arrange \-」 from FINAL FANTASY VI](https://open.spotify.com/track/2dqMiJqXTF890G3RtPftjq) | [SQUARE ENIX MUSIC](https://open.spotify.com/artist/6NeoLSPGwJLfeisvM36SMi) | [DISSIDIA FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) | 1:06 |
+| 53 | [Home Sweet Home \- Theme of EPISODE PROMPTO](https://open.spotify.com/track/7ko7gRGHntBuoK3kypwTnT) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【1/2】\)](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 3:14 |
 | 54 | [Run !!](https://open.spotify.com/track/1jcYcW06CNvqtWoZrd8LdV) | [仲野順也](https://open.spotify.com/artist/46QWOpfMFKehkcchUZmCfB) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 2:40 |
 | 55 | [Eruyt Village](https://open.spotify.com/track/0JNorLMJ9CR3wcFp7t2gJM) | [崎元仁](https://open.spotify.com/artist/5IgtFW3mCaIGAuPbx7qE04) | [FINAL FANTASY XII Original Soundtrack](https://open.spotify.com/album/6BUaUV4g19n1zwF6iwkh4C) | 4:13 |
 | 56 | [Servants of the Mountain](https://open.spotify.com/track/0d3mX4cZEucXC2TNYtGpix) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 4:42 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 66 | [Plains of Eternity](https://open.spotify.com/track/0gp5D3qcl0u74WUEILRkOT) | [Joelle](https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:36 |
 | 67 | [Serah's Theme \- Memories \-](https://open.spotify.com/track/3qHXeYe8zOcogPoEjuK073) | [frances maya](https://open.spotify.com/artist/3vjb2VixFQA4dzL83dYgOT) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 2:47 |
 | 68 | [Luca](https://open.spotify.com/track/0ZWbnEsONhMZI7gpKOFMcu) | [仲野順也](https://open.spotify.com/artist/46QWOpfMFKehkcchUZmCfB) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 3:41 |
-| 69 | [Sunset Path](https://open.spotify.com/track/75NI6pNNvOvpeb8SsBkedd) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5AAlUHdWLoL1ih4vroqWSI) | 5:43 |
+| 69 | [Full Speed Ahead](https://open.spotify.com/track/5wPrzT7xRJ0RPw5Hlje4b1) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:54 |
 | 70 | [My Life to Live](https://open.spotify.com/track/4CkP7nDkSq5F14mIUy4dva) | [鈴木克崇](https://open.spotify.com/artist/7deF5okxPdwvOkzbtLg0xh) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【1/2】\)](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 1:04 |
 | 71 | [Peaceful Village](https://open.spotify.com/track/3dczGbKVYW0I8YAyn8fNOz) | [上松範康](https://open.spotify.com/artist/28dpEDaY49qLI1PYGoqDuy) | [FINAL FANTASY BRAVE EXVIUS Original Soundtrack](https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq) | 2:27 |
 | 72 | [FFVII REMAKE: ミッドナイトスパイラル \(Midnight Spiral\)](https://open.spotify.com/track/7msxPsfAJSjUWkSi1q3qXS) | [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 1:59 |
 | 73 | [FFVII REMAKE: ヘリガンナー \(The Valkyrie\)](https://open.spotify.com/track/31HTwiSRqOjVQ7GY9GViFj) | [Keiki Kobayashi](https://open.spotify.com/artist/5U0TRuWrfXCaEJ0YDGe5bc) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 8:50 |
 | 74 | [ゼロ](https://open.spotify.com/track/6O1P8CN7tzPix5jv5HxscJ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [ゼロ](https://open.spotify.com/album/7ybuAuPzYxmrKloxVt7NgU) | 6:55 |
-| 75 | [Full Speed Ahead](https://open.spotify.com/track/5wPrzT7xRJ0RPw5Hlje4b1) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:54 |
+| 75 | [Sunset Path](https://open.spotify.com/track/75NI6pNNvOvpeb8SsBkedd) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5AAlUHdWLoL1ih4vroqWSI) | 5:43 |
 
-Snapshot ID: `MCwyYTA1ZDI0NzlmM2YxMjY4ZWVkODYzOTJjZjExNDQ2ZGU5ZmI3MGY5`
+Snapshot ID: `MCw3ZTM2ZTkzMGRmNGQwNjlmNDA1ZDdlNmZjZDI3YmE1YmI3ZmNkZmI3`

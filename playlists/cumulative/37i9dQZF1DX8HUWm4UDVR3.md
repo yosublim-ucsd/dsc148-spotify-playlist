@@ -4,7 +4,7 @@
 
 > La pop française annonce la couleur\. Photo : DAYSY
 
-110 songs - 5 hr 29 min
+112 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,9 +30,11 @@
 | [CONS’ DE LOVE](https://open.spotify.com/track/73eih2FtSIuGkKvqZpMGnW) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [L'Amour...](https://open.spotify.com/album/0CyzYWU1ZY7Z5Eggx2c3ML) | 2:45 | 2023-09-21 | 2023-12-01 |
 | [Corps Nucléaire](https://open.spotify.com/track/4m2Jir1D8nb2dHFeXEBtp6) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM) | [Corps Nucléaire](https://open.spotify.com/album/1w501CXi8HCQdDOXNmrRx7) | 3:33 | 2023-10-12 |  |
 | [CRASH <3](https://open.spotify.com/track/3qxpjvGzwjP4b6EDYLaon6) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 2:49 | 2023-11-16 |  |
-| [Creep \- Reprise](https://open.spotify.com/track/5vZtvZGmR9APE5Uthy4A3H) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Creep \(Reprise\)](https://open.spotify.com/album/0CRmRKpMa7LpbNCkHzgwBD) | 2:51 | 2023-07-27 |  |
+| [Creep \- Reprise](https://open.spotify.com/track/5vZtvZGmR9APE5Uthy4A3H) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Creep \(Reprise\)](https://open.spotify.com/album/0CRmRKpMa7LpbNCkHzgwBD) | 2:51 | 2023-07-27 | 2024-01-10 |
+| [Creep \- Reprise](https://open.spotify.com/track/6R3kzJCQFejaS1XIR7wnbo) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Creep \(Reprise\)](https://open.spotify.com/album/2Q1hHWosLo5qBPj6oL8bDY) | 2:51 | 2024-01-04 |  |
 | [Célibataire](https://open.spotify.com/track/5NHRS577smnJUQ8OSinlzs) | [Laurie Darmon](https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U) | [La Traversée du Désir](https://open.spotify.com/album/3KYtykOTlAZhuKcinFjMi3) | 3:05 | 2023-11-09 |  |
-| [De passage](https://open.spotify.com/track/4a0upuCaLwcfL7TBYAGfGu) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [De passage](https://open.spotify.com/album/7qUUnF1DQdPRJhIeoWd3XB) | 3:06 | 2023-11-23 |  |
+| [De passage](https://open.spotify.com/track/4a0upuCaLwcfL7TBYAGfGu) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [De passage](https://open.spotify.com/album/7qUUnF1DQdPRJhIeoWd3XB) | 3:06 | 2023-11-23 | 2024-01-10 |
+| [De passage](https://open.spotify.com/track/5mkGCuxXJfqo8Ed5dlQWdF) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [De passage](https://open.spotify.com/album/7w8YGqzXswTDFkUQ4edlRw) | 3:06 | 2024-01-04 |  |
 | [Des Trésors](https://open.spotify.com/track/3La4lre4zcgSmP8ZtSZWAL) | [Terrenoire](https://open.spotify.com/artist/6AiHXHMryCtGFBEnjB17aA) | [Les Forces Contraires: La Mort et La Lumière](https://open.spotify.com/album/0EcdCP79FGAUF30sPIvgI6) | 3:22 | 2023-07-27 | 2023-09-08 |
 | [Destin](https://open.spotify.com/track/32sbhu9nAOqDC16fuAIvf6) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Pulsations](https://open.spotify.com/album/5dfL1lSvKW38OgZQaOXIFo) | 3:49 | 2023-11-16 |  |
 | [Destin](https://open.spotify.com/track/7bo2MkmObkPgSVia8fwHcp) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Destin](https://open.spotify.com/album/6Ej58sXtw6h8a1IQ2qZXuf) | 3:49 | 2023-08-31 | 2023-11-19 |

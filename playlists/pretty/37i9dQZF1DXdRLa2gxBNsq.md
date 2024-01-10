@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Arpaviejas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,935 likes - 90 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,846 likes - 90 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 24 | [Daños Colaterales](https://open.spotify.com/track/1Jw3S8jeIbS31m9HBtqMiJ) | [Envidia Kotxina](https://open.spotify.com/artist/0ecMaXEm4sV6sndUYsyvmU) | [Cuando las Bocas Comen Silencio](https://open.spotify.com/album/501pjNhzQYeXfVJfkdRnL9) | 2:43 |
 | 25 | [A.c.a.b.](https://open.spotify.com/track/5189Xj43eCOPecYdlM8ywk) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS), [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ), [Gatillazo](https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam) | [El Rodillo del Kaos](https://open.spotify.com/album/3lu6CnUfdYKLipTuMFyo65) | 4:55 |
 | 26 | [Mi Mejor Colega \- original](https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE) | [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy) | [No Hay Agua](https://open.spotify.com/album/1apZlul36uZlJunetvaxoq) | 2:04 |
-| 27 | [Adios Reina Mia](https://open.spotify.com/track/52hHIF5rYiUi0AtPyvMrY2) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Demasiados Enemigos](https://open.spotify.com/album/06jJMaPtFcbDkuzuIeKywk) | 4:27 |
-| 28 | [Así Es la Vida](https://open.spotify.com/track/2cGNb9Z0OrUjL0xcfPGPO7) | [Los De Marras](https://open.spotify.com/artist/0E1P5uNgbD11POIDxFROHh) | [Vulnerable](https://open.spotify.com/album/7BbQMEtJZ7ut8EDjcnrGyd) | 3:53 |
+| 27 | [Así Es la Vida](https://open.spotify.com/track/2cGNb9Z0OrUjL0xcfPGPO7) | [Los De Marras](https://open.spotify.com/artist/0E1P5uNgbD11POIDxFROHh) | [Vulnerable](https://open.spotify.com/album/7BbQMEtJZ7ut8EDjcnrGyd) | 3:53 |
+| 28 | [Adios Reina Mia](https://open.spotify.com/track/52hHIF5rYiUi0AtPyvMrY2) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Demasiados Enemigos](https://open.spotify.com/album/06jJMaPtFcbDkuzuIeKywk) | 4:27 |
 | 29 | [Herida de Guerra](https://open.spotify.com/track/5KoHwSm2KNjjm1O26hIjby) | [Konsumo Respeto](https://open.spotify.com/artist/1RmcjyvKHwr9TCZqfHMflP) | [Ahora Que Se Ha Ido el Sol](https://open.spotify.com/album/1oh9N9kZ3JeJXdyJ8iCVFb) | 4:00 |
 | 30 | [Escupiré Jodidos](https://open.spotify.com/track/1FB1Kk4ZmkNu11toR5BWwm) | [El Último Ke Zierre](https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC) | [A Cara de Perro](https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN) | 2:45 |
 | 31 | [Bad Religión](https://open.spotify.com/track/0jBZw8EyAsqnt5o4jHExRG) | [The Kagas](https://open.spotify.com/artist/25TQ86q5TLjD8MR099s51q), [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Nuevos Héroes del Rock](https://open.spotify.com/album/6pTO78gcvYctJTIBU2pvZ4) | 2:59 |
@@ -51,17 +51,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 41 | [Por Lo Visto](https://open.spotify.com/track/0UDHol0olHHNPJVOtPs9rT) | [Envidia Kotxina](https://open.spotify.com/artist/0ecMaXEm4sV6sndUYsyvmU) | [Cuando las Bocas Comen Silencio](https://open.spotify.com/album/501pjNhzQYeXfVJfkdRnL9) | 3:14 |
 | 42 | [Historia triste](https://open.spotify.com/track/0DJLkaZlg6JbwAg9VZzbYq) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Impuesto Revolucionario](https://open.spotify.com/album/7iA4YreHDh5ozVdpg4kZcm) | 3:07 |
 | 43 | [Nunca Pasa Nada](https://open.spotify.com/track/2OxMzKMrwoaEJvK70oFLgj) | [Porco Bravo](https://open.spotify.com/artist/7lVNBntG3I8zoUlzYCGFBc) | [Porco Bravo](https://open.spotify.com/album/18fU6efhpawi8Egj1pNB9P) | 2:57 |
-| 44 | [Don Vito y la Revuelta en el Frenopático](https://open.spotify.com/track/4EBFU2ujZgudwRUsi588jo) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [A Frontline Compilation](https://open.spotify.com/album/2GUirHCExX549jcIgaYWKO) | 1:52 |
+| 44 | [Jimmy Jazz](https://open.spotify.com/track/5JU3KxDurO5jxRS6oXDKFN) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [Aizkolari](https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6) | 2:07 |
 | 45 | [Cómo Convertirse en Nada](https://open.spotify.com/track/7bZfAk1tgSGyIfpQZfOj3A) | [Gatillazo](https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam) | [Cómo Convertirse en Nada](https://open.spotify.com/album/0W02GXYGmc4BrcAEH1mlJq) | 2:40 |
 | 46 | [Dispárame](https://open.spotify.com/track/3ttofroygpDF5hKxwfeeM6) | [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR), [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc), [BOXINBOX](https://open.spotify.com/artist/6kn7LhH5siatL0X1kefy0r) | [Dispárame](https://open.spotify.com/album/0wdBkfYTEmMQjqND8f1MUD) | 2:32 |
 | 47 | [Resistiré \- En Directo](https://open.spotify.com/track/60qqPA0MLA1KgMCyinwjIW) | [Los Muertos de Cristo](https://open.spotify.com/artist/3kB55UDQKH1NV9TLKWgE8p) | [Bienvenidos al Infierno \(En Directo\)](https://open.spotify.com/album/4YFrai6oEA49jgPxPbpnt7) | 3:47 |
 | 48 | [Otra Vez en Tus Manos](https://open.spotify.com/track/2cLQLHwrwwE1eljpXdDyRQ) | [Gérmenes](https://open.spotify.com/artist/50Ymm1nPtn2tvRtEUZg5Me) | [Mar Etílico](https://open.spotify.com/album/7yK5Z8ZRUm2UBWotLfDlKB) | 2:33 |
 | 49 | [No Sabemos Perder](https://open.spotify.com/track/1ZjqPKcnTaLLVo0VIcdJ5u) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4), [Rotten XIII](https://open.spotify.com/artist/17qPb5DXDDbJixc4cmwJiF), [Dinamita](https://open.spotify.com/artist/7zmOHB4a4Fo9oS3ZgoHz9x) | [No Sabemos Perder](https://open.spotify.com/album/7LHgDyGCDBMmfgxcV4oWLz) | 4:00 |
 | 50 | [Sols El Poble Salva Al Poble](https://open.spotify.com/track/6iYxFDOGE8jD5ifJXP6vcK) | [KOP](https://open.spotify.com/artist/1vqWasHYiv7zecRAqZvvoO), [Berri Txarrak](https://open.spotify.com/artist/4us4jlCknYAd9OSkLSu82e) | [Nostrat](https://open.spotify.com/album/0F9wDYDPBi8rlGrSiG0xK7) | 3:12 |
-| 51 | [Jimmy Jazz](https://open.spotify.com/track/5JU3KxDurO5jxRS6oXDKFN) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [Aizkolari](https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6) | 2:07 |
+| 51 | [Don Vito y la Revuelta en el Frenopático](https://open.spotify.com/track/4EBFU2ujZgudwRUsi588jo) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [A Frontline Compilation](https://open.spotify.com/album/2GUirHCExX549jcIgaYWKO) | 1:52 |
 | 52 | [Enemigo Publico](https://open.spotify.com/track/2U79EanNfw7bRqC68Jnfgf) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [Inadaptados](https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV) | 2:38 |
-| 53 | [El Mesías](https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Ladrón de Almas](https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A) | 3:14 |
-| 54 | [Empacho de Orfidal](https://open.spotify.com/track/6vbkhHC2YifNfPZFgRTmfs) | [El Último Ke Zierre](https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC) | [El Mutante del Barrio Chino](https://open.spotify.com/album/0IzirXfpxJt753nbjyMV7j) | 3:12 |
+| 53 | [Empacho de Orfidal](https://open.spotify.com/track/6vbkhHC2YifNfPZFgRTmfs) | [El Último Ke Zierre](https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC) | [El Mutante del Barrio Chino](https://open.spotify.com/album/0IzirXfpxJt753nbjyMV7j) | 3:12 |
+| 54 | [El Mesías](https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Ladrón de Almas](https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A) | 3:14 |
 | 55 | [Mucha Policía, Poca Diversión](https://open.spotify.com/track/75sT5MajoXIj5uviuKaAmF) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Eskizofrenia](https://open.spotify.com/album/1ASN9C5KKT8pbqH7KxVH2l) | 1:33 |
 | 56 | [Killer](https://open.spotify.com/track/4mbzjrFyniK1qqgWgpEsgL) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS) | [Criatura](https://open.spotify.com/album/3VnnePO0pWXdHCS1fBbNar) | 3:26 |
 | 57 | [Señoras y Señores](https://open.spotify.com/track/0xyhHET6yRf0GQyEH6yexU) | [Sonotones](https://open.spotify.com/artist/1R7Qi5gy56OoJ8yG6cfJWU) | [No Hay Futuro](https://open.spotify.com/album/5Evysq6CtQKeK5fCXtqCjz) | 3:31 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 89 | [All Cayetanos Are Bastards](https://open.spotify.com/track/7zlGLO9CuP87PAqkthjoFj) | [Lo Blanco Del Jamón](https://open.spotify.com/artist/1mTe6RvJvqSRZPKhRMd9gR) | [All Cayetanos Are Bastards](https://open.spotify.com/album/30MZ64Kx7H1eNkGvXa898t) | 2:40 |
 | 90 | [Qué ha sido de ti](https://open.spotify.com/track/14MU1VPIIrciowTRCdZJ4u) | [Fundación Francisco Frankenstein](https://open.spotify.com/artist/3H42o6gQ9x0SioRXqtbGcf) | [Gente de Bien](https://open.spotify.com/album/6fxxDhr98JYsoI1Zp86wcT) | 1:50 |
 
-Snapshot ID: `MCxjYzI4NjZlYTRjM2VhYWY3YmVmMDJhNmYwY2U1NTQxMTk1ZmFmYmMw`
+Snapshot ID: `MCwwYzNhY2E2YmNkYzg4YjMwMmVlYTE4OTk5YzJjNDgyNGRhMWMxYTQ3`

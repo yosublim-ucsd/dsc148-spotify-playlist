@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 
 > A sonic wonderland of mesmerizing tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,455 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,485 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 49 | [Nodos](https://open.spotify.com/track/5NxaaeCOluia2b0t6Kmkwf) | [Radiotrónica](https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN) | [Nodos](https://open.spotify.com/album/6Ja5JJOhoIkI7hf0r5pNlf) | 3:40 |
 | 50 | [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 |
 
-Snapshot ID: `MCxiNzM3MTMxODY0MWRkZjNlMTU2OTdiYTVhODBmZTdkMjgxODdiOGFi`
+Snapshot ID: `MCxlOGZiODZiMTMxMDc3ZDhmMjJjYzMxZDQzNzc4NmE2Nzk1MDZmZGRl`

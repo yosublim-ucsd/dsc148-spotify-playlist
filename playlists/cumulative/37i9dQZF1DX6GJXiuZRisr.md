@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-441 songs - 1 day 7 hr 39 min
+442 songs - 1 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Coming Home \(feat\. John Martin\)](https://open.spotify.com/track/2ReortySZeaeI0CUWiIh8v) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Coming Home \(feat\. John Martin\)](https://open.spotify.com/album/0e6QKn14Qh0qmpZMRuUvm1) | 3:32 | 2023-09-01 |  |
 | [Coming Home \(feat\. John Martin\)](https://open.spotify.com/track/7ydQgqQNPbKNoIJa7A2G08) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Coming Home \(feat\. John Martin\)](https://open.spotify.com/album/73vidbzZG7bYIoCf9OfH6q) | 3:32 | 2023-08-25 | 2023-09-02 |
 | [Consciousness](https://open.spotify.com/track/1DOuZaf52j4O1zlyQpxSQx) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Consciousness](https://open.spotify.com/album/3PXBTfh5elG5YjbNM3QWAP) | 4:34 | 2022-05-20 | 2022-10-29 |
+| [Consciousness \(Eric Prydz Remix\)](https://open.spotify.com/track/5jf5tzTvyRWTHwiFiGYgsP) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Consciousness \(Eric Prydz Remix\)](https://open.spotify.com/album/2jITDjGchk0LPGBXRqGiUQ) | 4:04 | 2024-01-05 |  |
 | [Consciousness \- Eric Prydz Remix](https://open.spotify.com/track/1i5XRu1L0x7gIg9UGKqizL) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Consciousness \(Eric Prydz Remix\)](https://open.spotify.com/album/6U3SBZ80drKvioMtkwEaiu) | 4:04 | 2022-08-19 | 2024-01-05 |
 | [Contact](https://open.spotify.com/track/1RqGzcZsvXio631qND3748) | [RUE](https://open.spotify.com/artist/44hIOYeh1KGq6G4q0ppoxK), [Alastor](https://open.spotify.com/artist/0qLQkmES1i8yc5SYefKgAH) | [Contact](https://open.spotify.com/album/7zhrul9qGrJkofhXoQC9eu) | 4:07 | 2021-05-07 | 2022-04-18 |
 | [Corallo \- SUMII Remix](https://open.spotify.com/track/5XuLE35QhQhWjdS94REAMb) | [PINES](https://open.spotify.com/artist/3SL3PIAghJvyjrCZkZQXhZ), [SUMII](https://open.spotify.com/artist/2vEwdOqCXpJywpl642Ebc2) | [Corallo \(SUMII Remix\)](https://open.spotify.com/album/2uiQwMjHqzQFEY4zATBwuQ) | 3:42 | 2021-05-07 | 2022-07-29 |
@@ -377,7 +378,7 @@
 | [The Maker](https://open.spotify.com/track/4EKzntRiyE131lB2swX5TU) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [The Maker](https://open.spotify.com/album/3iXFPnNVizKfo1pUerR7Md) | 2:36 | 2023-03-14 | 2023-12-31 |
 | [The Morning After](https://open.spotify.com/track/5XZwq5GzhyjjlMwtou1fWb) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Paul Thomas](https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8) | [The Morning After](https://open.spotify.com/album/1IEMLZHGq4ksUfeTSj2FXq) | 3:33 | 2023-12-01 |  |
 | [The Navigator](https://open.spotify.com/track/6iNjFncKo3p2T2gi9yKuOw) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [The Navigator](https://open.spotify.com/album/1K1IAd3OoWMakUBD5CRiZD) | 6:03 | 2021-11-05 | 2022-06-26 |
-| [The Return \- Edit](https://open.spotify.com/track/0RmzDQgs6xKmVA2jsmSPXF) | [Pryda](https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt) | [The Return \(Edit\)](https://open.spotify.com/album/6HbZkybdKSNHk0TEEGnJB2) | 3:52 | 2023-07-14 |  |
+| [The Return \- Edit](https://open.spotify.com/track/0RmzDQgs6xKmVA2jsmSPXF) | [Pryda](https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt) | [The Return \(Edit\)](https://open.spotify.com/album/6HbZkybdKSNHk0TEEGnJB2) | 3:52 | 2023-07-14 | 2024-01-10 |
 | [The Sign](https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [The Sign](https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb) | 3:33 | 2022-10-28 | 2023-08-18 |
 | [The Sign \(with CamelPhat\)](https://open.spotify.com/track/58kUEj9sd9Z2XIPh3BhJRR) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:33 | 2023-08-18 |  |
 | [The Time Has Come](https://open.spotify.com/track/17gYLgUI2kHsmR8wLeLFUY) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Progressions](https://open.spotify.com/album/0tDBNxkzpitmbuLemjpwdi) | 7:24 | 2021-05-07 | 2022-05-12 |

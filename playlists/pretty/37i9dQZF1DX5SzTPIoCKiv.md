@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 
 > Recent smashes from your favorite Christian Contemporary artists\.  Cover: Mac Powell
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,986 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,452 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 44 | [The God Who Stays](https://open.spotify.com/track/0YHWj5wYTjbENOi7cWGSpK) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Brand New](https://open.spotify.com/album/6nPwC5S0XRCvhvnsinAOoi) | 3:56 |
 | 45 | [God So Loved](https://open.spotify.com/track/2kcKzbmiyS7kpwSka7nSmt) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Holy Water](https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf) | 4:25 |
 | 46 | [Endless Alleluia](https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 4:25 |
-| 47 | [Multiplied](https://open.spotify.com/track/4zgO1SgXOeFmr6Hno9DLs4) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Rivers in the Wasteland](https://open.spotify.com/album/52e12cyeu7IY7JGSoUArHw) | 4:35 |
-| 48 | [Control \(Somehow You Want Me\)](https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Followers](https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C) | 4:08 |
+| 47 | [Control \(Somehow You Want Me\)](https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Followers](https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C) | 4:08 |
+| 48 | [Multiplied](https://open.spotify.com/track/4zgO1SgXOeFmr6Hno9DLs4) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Rivers in the Wasteland](https://open.spotify.com/album/52e12cyeu7IY7JGSoUArHw) | 4:35 |
 | 49 | [Great Are You Lord](https://open.spotify.com/track/1Hv54MWloXiAZDam1ez840) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir) | [All Sons & Daughters](https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6) | 4:56 |
 | 50 | [Broken Things](https://open.spotify.com/track/4v8GJxLdvUiN7R31cKcmNL) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g) | 3:07 |
 | 51 | [Different](https://open.spotify.com/track/0HGGx9fQ55LFw5QFIB5MKp) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:17 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 67 | [Waymaker \- Radio Version](https://open.spotify.com/track/4tkmm0pdXEZvHscuHWnkqy) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Waymaker \(Radio Version\)](https://open.spotify.com/album/33Litf1HszYwgNVwbgdWpk) | 4:02 |
 | 68 | [Home](https://open.spotify.com/track/2aMb1asq5acm7cDYlFsYhY) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 3:39 |
 | 69 | [Symphony](https://open.spotify.com/track/0Wc49GX11eFZV4BjJd8yh9) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN), [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [Symphony](https://open.spotify.com/album/5TigSX6SdwoGVhTS3sE8TW) | 4:04 |
-| 70 | [Amen](https://open.spotify.com/track/5aHZnvy8EqhViyoJo971Wy) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Burn The Ships](https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh) | 3:47 |
-| 71 | [You've Always Been](https://open.spotify.com/track/7s2AninaWICPPvch6wBctw) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Reason](https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS) | 3:38 |
+| 70 | [You've Always Been](https://open.spotify.com/track/7s2AninaWICPPvch6wBctw) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Reason](https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS) | 3:38 |
+| 71 | [Amen](https://open.spotify.com/track/5aHZnvy8EqhViyoJo971Wy) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Burn The Ships](https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh) | 3:47 |
 | 72 | [Mosaic](https://open.spotify.com/track/0X6TnTL38BfDHGgZUWfRfo) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Mosaic](https://open.spotify.com/album/6GrkIwOfxUre3FUx2VxC9G) | 3:22 |
 | 73 | [In The House](https://open.spotify.com/track/1brFXt3k8dja9jXkiAY4ky) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Milk & Honey](https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD) | 2:59 |
 | 74 | [Another In The Fire \- Live](https://open.spotify.com/track/5PmHmU5AaBy9ld3bdQkD96) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Chris Davenport](https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 6:33 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 92 | [You Love Me Anyway](https://open.spotify.com/track/7KT088cs0FVVQum6IyT0X9) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [These Simple Truths](https://open.spotify.com/album/6UtlWkAxBuVPSzFNwiIPqj) | 4:20 |
 | 93 | [Hold Us Together \- Hope Mix](https://open.spotify.com/track/42Q6AOIHAybfNz8tFMwrWl) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hold Us Together \(Hope Mix\)](https://open.spotify.com/album/1v2udzifT2MKC7HBgz8BlU) | 4:38 |
 | 94 | [King Of The World](https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Be One \(Deluxe Version\)](https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt) | 3:36 |
-| 95 | [Freedom \- Live](https://open.spotify.com/track/5UKiOsxr7Q3NQT2LkyFt9n) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Living With A Fire \(Live\)](https://open.spotify.com/album/0K4TZjqRa9XgexXHvWTwlp) | 6:31 |
-| 96 | [Like You Love Me](https://open.spotify.com/track/33bqWsuJvnjTgAYr8DMadN) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 3:30 |
+| 95 | [Like You Love Me](https://open.spotify.com/track/33bqWsuJvnjTgAYr8DMadN) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 3:30 |
+| 96 | [Freedom \- Live](https://open.spotify.com/track/5UKiOsxr7Q3NQT2LkyFt9n) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Living With A Fire \(Live\)](https://open.spotify.com/album/0K4TZjqRa9XgexXHvWTwlp) | 6:31 |
 | 97 | [O God Forgive Us](https://open.spotify.com/track/2dBpNhfNCT1XkBRAOdam5J) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [RUN WILD\. LIVE FREE\. LOVE STRONG\. \(Deluxe Anniversary Edition\)](https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I) | 3:25 |
-| 98 | [Wanted](https://open.spotify.com/track/3IKsAac2qCd3WRTYUbivqI) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Haven't Seen It Yet](https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6) | 3:55 |
+| 98 | [Unstoppable God](https://open.spotify.com/track/5bZQwgrDwYHE1aWWTrjBdD) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Unstoppable God](https://open.spotify.com/album/1A4SJIJYSZ90HyNFiePRIW) | 3:42 |
 | 99 | [Mercy Is A Song](https://open.spotify.com/track/1yNInj2X42ZqQG6PUE57QV) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g) | 3:45 |
-| 100 | [Unstoppable God](https://open.spotify.com/track/5bZQwgrDwYHE1aWWTrjBdD) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Unstoppable God](https://open.spotify.com/album/1A4SJIJYSZ90HyNFiePRIW) | 3:42 |
+| 100 | [Wanted](https://open.spotify.com/track/3IKsAac2qCd3WRTYUbivqI) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Haven't Seen It Yet](https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6) | 3:55 |
 
-Snapshot ID: `MCw2N2I4ZDIxMDUyYzYxYTkwOWRlMmU3YWUyNzU2ZTNkMzEyOGFjM2Vh`
+Snapshot ID: `MCxiZjJiNTA2NzI1NmJkODUwNTNkMTdmYTc1MzdkMDI5ODQ3MmEzNThh`

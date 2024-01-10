@@ -1,12 +1,12 @@
 {
   "description": "Recuerda la d\u00e9cada de los acampanados, patillas y cuellos picudos",
-  "num_followers": 273544,
+  "num_followers": 273275,
   "original_name": "Los 70 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzlkNzY5M2NjZjQyN2NlMjYwZmUxZTVlOTdiYWM5MWYyZjY0ZGIw",
+  "snapshot_id": "MCw1NGYzOWQ1ZmRmZDEwMWUwMzBjMTIzYTM1OWNjOWJlNDQ5YzAzMmUy",
   "tracks": [
     {
       "added_at": "2019-09-04 23:38:38",
@@ -555,22 +555,6 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
-        "name": "Los Nenes con Los Nenes",
-        "url": "https://open.spotify.com/album/3N8uklKicclGP85lgxYmDw"
-      },
-      "artists": [
-        {
-          "name": "Chico Che y La Crisis",
-          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
-        }
-      ],
-      "duration_ms": 161985,
-      "name": "Los Nenes Con los Nenes",
-      "url": "https://open.spotify.com/track/6naFSjDQESFuw9Hv7v2ZOd"
-    },
-    {
-      "added_at": "2019-09-04 23:38:38",
-      "album": {
         "name": "40 Aniversario (Componente 1)",
         "url": "https://open.spotify.com/album/3MtyMeFGM6CO4xbImmyZgq"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 197920,
       "name": "Lamento De Amor",
       "url": "https://open.spotify.com/track/66nefjRgrIOjrUKCnKZJPq"
+    },
+    {
+      "added_at": "2019-09-04 23:38:38",
+      "album": {
+        "name": "Los Nenes con Los Nenes",
+        "url": "https://open.spotify.com/album/3N8uklKicclGP85lgxYmDw"
+      },
+      "artists": [
+        {
+          "name": "Chico Che y La Crisis",
+          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
+        }
+      ],
+      "duration_ms": 161985,
+      "name": "Los Nenes Con los Nenes",
+      "url": "https://open.spotify.com/track/6naFSjDQESFuw9Hv7v2ZOd"
     },
     {
       "added_at": "2019-09-04 23:38:38",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 
 > Relaxe com grandes hits da música nacional em versões acústicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,530,797 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,528,918 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 55 | [Vê Se Não Me Esquece Mais](https://open.spotify.com/track/6Cm9ESWYCTs5eCqLzsRFgW) | [Lucas Laypold](https://open.spotify.com/artist/2sSSTdSI4Dmb0O8GWRWoo2) | [Vê Se Não Me Esquece Mais](https://open.spotify.com/album/5UPRYphdZKvDysG65y8Ecy) | 2:41 |
 | 56 | [Mil Anos \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Spotify Singles](https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V) | 3:09 |
 | 57 | [Aindas](https://open.spotify.com/track/64RrdeZbeiMKvhhSbWKPso) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Ana Vilela Sessions](https://open.spotify.com/album/2MwxQxJrzlYkkvLnIvpwVM) | 3:18 |
-| 58 | [Abrigo](https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Abrigo](https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E) | 3:43 |
-| 59 | [penhasco\. \- \(acústico\)](https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [penhasco\. \(acústico\)](https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6) | 3:33 |
+| 58 | [penhasco\. \- \(acústico\)](https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [penhasco\. \(acústico\)](https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6) | 3:33 |
+| 59 | [Abrigo](https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Abrigo](https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E) | 3:43 |
 | 60 | [Me Liga](https://open.spotify.com/track/6pPVQnyvVbkKEOVqofSzEn) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Me Liga](https://open.spotify.com/album/3Lb6Ynh37ywGapeL5uyowr) | 2:31 |
 | 61 | [Péssimo Negócio \(Ao Vivo\) \- Acústico](https://open.spotify.com/track/7wBTOYiJy9Fa1JeTtrZIBQ) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Terra do Nunca \(Acústico\)](https://open.spotify.com/album/5srHRGI7y6NKTPzvhkKfgj) | 3:25 |
 | 62 | [Onde A Gente Chegou](https://open.spotify.com/track/1W0FHxSmWtKgzHUwqh50s8) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Onde A Gente Chegou](https://open.spotify.com/album/2ZTOUalTbd4OadSP9Js5If) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 99 | [Amiga](https://open.spotify.com/track/3f6zlOjEvYJVgvPyodrnU7) | [Salma e Mac](https://open.spotify.com/artist/6bqMZJqVqEaMjCR1DbvlOh) | [Salma e Mac](https://open.spotify.com/album/2Q16sGZ2lP7iTooxAr85ZJ) | 3:18 |
 | 100 | [O Segundo Sol \- Ao Vivo](https://open.spotify.com/track/6uRSXIUpUFAlsZC1r4pWW9) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Cássia Eller Em Casa](https://open.spotify.com/album/6T6Vo6ACxuxdFRS3b3uKtY) | 4:17 |
 
-Snapshot ID: `MCw1NzAwNTMzMmI2MjMzZWE0MzFiOTg3YjgzY2RhM2E1ZDQ2MTU2ZDU1`
+Snapshot ID: `MCxiMTQxODk0MGNiYjA1ODFhNTNkNDllMWZmNzAzMzFiMjI5NWY1YTU2`

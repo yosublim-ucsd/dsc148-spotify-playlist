@@ -1,12 +1,12 @@
 {
   "description": "Enam\u00f3rate con las interpretaciones m\u00e1s rom\u00e1nticas de El Flaco de Oro.",
-  "num_followers": 19917,
+  "num_followers": 19930,
   "original_name": "Cancionero Agust\u00edn Lara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzY4ZDZkZGM2MmFiYTliZGM2YzdiMTA0MjAxZWZlZWIzNWQ1Y2Q2",
+  "snapshot_id": "MCxkOGVlOGQ0ZjUzNTNiNGViOWY2ZDY3NGIzNjAxZDEzNjAxMzNhNmQz",
   "tracks": [
     {
       "added_at": "2021-05-07 15:30:08",
@@ -347,6 +347,22 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
+        "name": "Vereda tropical (Remastered)",
+        "url": "https://open.spotify.com/album/2rmM6iHijqWJ6c6518AR5V"
+      },
+      "artists": [
+        {
+          "name": "Elvira Rios",
+          "url": "https://open.spotify.com/artist/1us5UEUwARpm9xvMh1i52g"
+        }
+      ],
+      "duration_ms": 175711,
+      "name": "Concha n\u00e1car / Limosna - Remastered",
+      "url": "https://open.spotify.com/track/5yt6H8iEiGIb6wRA6MjgPC"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
         "name": "Pedazos del Coraz\u00f3n (Homenaje a \u00c1lvaro Carrillo y Agust\u00edn Lara)",
         "url": "https://open.spotify.com/album/29bsAv77byqczgo4Yho2aq"
       },
@@ -367,26 +383,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Canciones de Agust\u00edn Lara, Vol. 1",
-        "url": "https://open.spotify.com/album/0v97jidgGLOtuKRDajEKHX"
-      },
-      "artists": [
-        {
-          "name": "Lucho Gatica",
-          "url": "https://open.spotify.com/artist/4LCEJ7K3OmivUPkYYH9iZK"
-        },
-        {
-          "name": "Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
-        }
-      ],
-      "duration_ms": 182804,
-      "name": "Mar\u00eda Bonita",
-      "url": "https://open.spotify.com/track/5kfdjZptfBuLriEyOhPer9"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "Fantasia Espanola",
         "url": "https://open.spotify.com/album/0cBIMvZ85UwIswbbUSH7na"
       },
@@ -403,18 +399,22 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Vereda tropical (Remastered)",
-        "url": "https://open.spotify.com/album/2rmM6iHijqWJ6c6518AR5V"
+        "name": "Canciones de Agust\u00edn Lara, Vol. 1",
+        "url": "https://open.spotify.com/album/0v97jidgGLOtuKRDajEKHX"
       },
       "artists": [
         {
-          "name": "Elvira Rios",
-          "url": "https://open.spotify.com/artist/1us5UEUwARpm9xvMh1i52g"
+          "name": "Lucho Gatica",
+          "url": "https://open.spotify.com/artist/4LCEJ7K3OmivUPkYYH9iZK"
+        },
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
         }
       ],
-      "duration_ms": 175711,
-      "name": "Concha n\u00e1car / Limosna - Remastered",
-      "url": "https://open.spotify.com/track/5yt6H8iEiGIb6wRA6MjgPC"
+      "duration_ms": 182804,
+      "name": "Mar\u00eda Bonita",
+      "url": "https://open.spotify.com/track/5kfdjZptfBuLriEyOhPer9"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -684,13 +684,13 @@
       },
       "artists": [
         {
-          "name": "Alejandro Algara",
-          "url": "https://open.spotify.com/artist/3u08FMRF8VMAeYmJjOuJzB"
+          "name": "Orquesta Solistas De Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/01xDchfq6BaOryf0UNaiL6"
         }
       ],
-      "duration_ms": 134008,
-      "name": "Espanolerias",
-      "url": "https://open.spotify.com/track/1YGt4KGi65q8TD0znunBXI"
+      "duration_ms": 199026,
+      "name": "Por Que Ya No Me Quieres",
+      "url": "https://open.spotify.com/track/6Ci5XxtLoxTXKAucCFpdGo"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -700,13 +700,13 @@
       },
       "artists": [
         {
-          "name": "Orquesta Solistas De Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/01xDchfq6BaOryf0UNaiL6"
+          "name": "Alejandro Algara",
+          "url": "https://open.spotify.com/artist/3u08FMRF8VMAeYmJjOuJzB"
         }
       ],
-      "duration_ms": 199026,
-      "name": "Por Que Ya No Me Quieres",
-      "url": "https://open.spotify.com/track/6Ci5XxtLoxTXKAucCFpdGo"
+      "duration_ms": 134008,
+      "name": "Espanolerias",
+      "url": "https://open.spotify.com/track/1YGt4KGi65q8TD0znunBXI"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Rocio Durcal Canta Con Mariachi Vol. 4",
-        "url": "https://open.spotify.com/album/7KZNk3B8QKNufiD59PNuJq"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Imposible",
-      "url": "https://open.spotify.com/track/0iIQwFO3qLjav5vTrDI8ka"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "Bugambilia",
         "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 309678,
       "name": "Veracruz",
       "url": "https://open.spotify.com/track/1Bofzr1DgVTPc9DHDhg7pF"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "Rocio Durcal Canta Con Mariachi Vol. 4",
+        "url": "https://open.spotify.com/album/7KZNk3B8QKNufiD59PNuJq"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "Imposible",
+      "url": "https://open.spotify.com/track/0iIQwFO3qLjav5vTrDI8ka"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Tesoros de Colecci\u00f3n - la Torcacita - la Panchita - la Consentida",
-        "url": "https://open.spotify.com/album/7gJusenmPC00e4GDVN8C3s"
-      },
-      "artists": [
-        {
-          "name": "Matilde Sanchez \"La Torcacita\"",
-          "url": "https://open.spotify.com/artist/2xG92z8NBt06s2M5D696an"
-        }
-      ],
-      "duration_ms": 138813,
-      "name": "Paloma Torcaza",
-      "url": "https://open.spotify.com/track/3QCrq7muaMrj2oWzQPgeNf"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "Agustin Lara Y Sus Interpretes Vol. II",
         "url": "https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 140591,
       "name": "Ultimo Beso",
       "url": "https://open.spotify.com/track/5ZT8iOABS33ALHJlCqKQrA"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "Tesoros de Colecci\u00f3n - la Torcacita - la Panchita - la Consentida",
+        "url": "https://open.spotify.com/album/7gJusenmPC00e4GDVN8C3s"
+      },
+      "artists": [
+        {
+          "name": "Matilde Sanchez \"La Torcacita\"",
+          "url": "https://open.spotify.com/artist/2xG92z8NBt06s2M5D696an"
+        }
+      ],
+      "duration_ms": 138813,
+      "name": "Paloma Torcaza",
+      "url": "https://open.spotify.com/track/3QCrq7muaMrj2oWzQPgeNf"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Suite Mexicana de Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/7yVxgddVdrQVgXS3OCgPon"
-      },
-      "artists": [
-        {
-          "name": "Aida Cuevas",
-          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
-        }
-      ],
-      "duration_ms": 139226,
-      "name": "El Capulin",
-      "url": "https://open.spotify.com/track/4XBq7wuQTC05NrwquJ3HWP"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "David Reynoso y la M\u00fasica de Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/4VnXBg6RqDKAZhkPB5YjHL"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 138293,
       "name": "Concha Nacar",
       "url": "https://open.spotify.com/track/2NYZ1itaWAy8jOAjeQVNjc"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "Suite Mexicana de Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/7yVxgddVdrQVgXS3OCgPon"
+      },
+      "artists": [
+        {
+          "name": "Aida Cuevas",
+          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
+        }
+      ],
+      "duration_ms": 139226,
+      "name": "El Capulin",
+      "url": "https://open.spotify.com/track/4XBq7wuQTC05NrwquJ3HWP"
     },
     {
       "added_at": "2021-05-07 15:30:08",

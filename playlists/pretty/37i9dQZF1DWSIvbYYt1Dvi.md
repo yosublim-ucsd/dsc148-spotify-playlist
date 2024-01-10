@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > leall é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,232,711 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,232,726 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sensação de Liberdade](https://open.spotify.com/track/64iBfVmlDnQVxZCz9ySpU1) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Eu Ainda Tenho Coração](https://open.spotify.com/album/7dMDChrId0PHuWQy5R3P5o) | 2:58 |
 | 2 | [MODIFICAR](https://open.spotify.com/track/7lQjAcGb8Nh7KkbYpiuBjh) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [ALMA IMORTAL](https://open.spotify.com/album/2wTVtjLOFxTnHmkCmgTpdp) | 2:44 |
-| 3 | [Vivência Maldita](https://open.spotify.com/track/2Bt9fR8qtHL6zVvHLrpIJO) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Erick Jay](https://open.spotify.com/artist/7ntlG8Jb2UFaxMKaq81EhX) | [Eu Ainda Tenho Coração](https://open.spotify.com/album/7dMDChrId0PHuWQy5R3P5o) | 2:22 |
+| 3 | [Vivência Maldita](https://open.spotify.com/track/2Bt9fR8qtHL6zVvHLrpIJO) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Erick Jay](https://open.spotify.com/artist/7ntlG8Jb2UFaxMKaq81EhX), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Eu Ainda Tenho Coração](https://open.spotify.com/album/7dMDChrId0PHuWQy5R3P5o) | 2:22 |
 | 4 | [Lucro](https://open.spotify.com/track/4H9PvG7E38FmfCgBukFJ5t) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [KTT ZOO](https://open.spotify.com/album/7lJibQ9XRhBDUIWgkP4wZm) | 3:14 |
 | 5 | [Primeiro Lugar do Pódio](https://open.spotify.com/track/2o3NKh8bYMKSkJmBTQo5B5) | [EHXIS](https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh) | [Primeiro Lugar do Pódio](https://open.spotify.com/album/0nnlmV8iDmTxj4Bon4EvNZ) | 2:03 |
 | 6 | [Disposição e Atividade](https://open.spotify.com/track/1IZmGrAEkq98MxDQCYhtjJ) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Yokame](https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F) | [Disposição e Atividade](https://open.spotify.com/album/4pEQ7i96Nba9nCoa1VmtUU) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [Antes do baile](https://open.spotify.com/track/4siwpjEBypNdJzlaf4zZGv) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Antes do baile](https://open.spotify.com/album/3Spa7un8tuyjiHOpAB4pPZ) | 2:18 |
 | 50 | [Dior](https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Dior](https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR) | 3:49 |
 
-Snapshot ID: `MCw4NjkwYWFhZTI5MGJmNjY4OTJhM2FiMTc2NWI5MTQ3NGRhMGE2ZjJl`
+Snapshot ID: `MCxlMDNhMzM3MGUyYjllOWFmNjA3MWQ4YTJlMTg3MTI3NmZkM2Y5MTA0`

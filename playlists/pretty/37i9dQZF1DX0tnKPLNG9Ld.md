@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 
 > Blue skies, nothing but blue skies\. Sun in your eyes and uplifting jazz in your ears on a sunny day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,865 likes - 87 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,923 likes - 87 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,15 +54,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 44 | [You Stepped out of a Dream \- 2007 Remaster](https://open.spotify.com/track/3SptSk4a7ob8Qf4FfxQz4I) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [The Divine One](https://open.spotify.com/album/4OGrGH7qxDmjTlzP5w11Nx) | 2:20 |
 | 45 | [Hello Bright Sunflower \- Rudy Van Gelder Edition/2006 Digital Remaster](https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [The Cat Walk](https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm) | 7:33 |
 | 46 | [Just You, Just Me \- Remastered 1999](https://open.spotify.com/track/4TktGfWqFoYgimmSo1ApQQ) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [After Midnight: The Complete Session](https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81) | 3:02 |
-| 47 | [Lullaby of Broadway \(with Harry James & His Orchestra\) \- Version 2](https://open.spotify.com/track/0qPeyVfebszZcHTUc48Lzl) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Harry James](https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD) | [Golden Girl \(The Columbia Recordings 1944\-1966\)](https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM) | 2:51 |
-| 48 | [Gone With The Wind](https://open.spotify.com/track/5cPvxqldO0sK9jjS6JAzHF) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 1:43 |
+| 47 | [Gone With The Wind](https://open.spotify.com/track/5cPvxqldO0sK9jjS6JAzHF) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 1:43 |
+| 48 | [Lullaby of Broadway \(with Harry James & His Orchestra\) \- Version 2](https://open.spotify.com/track/0qPeyVfebszZcHTUc48Lzl) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Harry James](https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD) | [Golden Girl \(The Columbia Recordings 1944\-1966\)](https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM) | 2:51 |
 | 49 | [Scotch & Soda](https://open.spotify.com/track/18Qu2MK93VADxqHFYctpql) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Anthology\-Lou Rawls](https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX) | 2:58 |
 | 50 | [Wandering \- Remastered](https://open.spotify.com/track/2bKQdj9DjUQT9q8OvTgCM2) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Motions & Emotions](https://open.spotify.com/album/67NDcaTQFovmzUscG92ELV) | 2:54 |
 | 51 | [I Love Being Here With You](https://open.spotify.com/track/3WFAZyv15EVj2IHu3v4m9N) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [When The Sun Goes Down](https://open.spotify.com/album/14sPbP9XeguX4mUASLIXbY) | 4:59 |
 | 52 | [Tea For Two](https://open.spotify.com/track/3Li4NJba2DNAXGvjILomAN) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Ella And Basie](https://open.spotify.com/album/752AJr22BFy9yubj4XJauv) | 3:15 |
 | 53 | [Bahia](https://open.spotify.com/track/7GXdmvaiFc66NzXmZZi2MJ) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 6:38 |
-| 54 | [How About You? \- Remastered 1998](https://open.spotify.com/track/55ueMwhsrlyXw06fjYZshX) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Swingin' Lovers! \(Remastered\)](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) | 2:45 |
-| 55 | [Corner Pocket](https://open.spotify.com/track/1e16lbqXFdnuTdeJngVBuY) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [April In Paris \(Expanded Edition\)](https://open.spotify.com/album/1gDs61sxoI4By9TKxe8Y0k) | 5:15 |
+| 54 | [Corner Pocket](https://open.spotify.com/track/1e16lbqXFdnuTdeJngVBuY) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [April In Paris \(Expanded Edition\)](https://open.spotify.com/album/1gDs61sxoI4By9TKxe8Y0k) | 5:15 |
+| 55 | [How About You? \- Remastered 1998](https://open.spotify.com/track/55ueMwhsrlyXw06fjYZshX) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Swingin' Lovers! \(Remastered\)](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) | 2:45 |
 | 56 | [It's A Wonderful World](https://open.spotify.com/track/6t4mncxgMmg2HhXdI4N8lY) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'](https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT) | 2:14 |
 | 57 | [Let's Dance](https://open.spotify.com/track/6DjOS2PYRPQ8amyhSpdErX) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [The Essential Benny Goodman](https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK) | 2:32 |
 | 58 | [The Best Things In Life Are Free](https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [Autumn In New York](https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14) | 2:24 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 86 | [Nice Work If You Can Get It \(2012 \- Remaster\)](https://open.spotify.com/track/2WMksdlzNvs5O8EdwFWw4b) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Mel Tormé Sings Fred Astaire \(2012 \- Remaster\)](https://open.spotify.com/album/01xKHe137Bs6g3HcBMjLD7) | 3:08 |
 | 87 | [Deed I Do](https://open.spotify.com/track/0RqNcBJILvtCJH82auUnKs) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Buddy Bregman](https://open.spotify.com/artist/6t6zRn7Wo4ctJPVLNJlhOs) | [Bing Sings Whilst Bregman Swings](https://open.spotify.com/album/73o2GaqcTroIzxh7bggyrY) | 2:49 |
 
-Snapshot ID: `MCxjNzUxNDNiMDA1YWVhM2FiZTUyYjk2NGEzMjE3NjU0ZGMzZWRhZmQ2`
+Snapshot ID: `MCxkZTg5OTQyNDBhNmIyNDkzNmNmZmVlNTljMDdhNmViNTE2YjczZTFj`

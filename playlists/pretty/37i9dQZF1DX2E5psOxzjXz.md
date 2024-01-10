@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Mooroo
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,426 likes - 90 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,446 likes - 90 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 68 | [Aisay Kaisay](https://open.spotify.com/track/0mAswKg3RCbmXAV4KYTUxM) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Aisay Kaisay](https://open.spotify.com/album/20BGLvUZVB6WuQijorqoDb) | 3:18 |
 | 69 | [Lagda Nahi](https://open.spotify.com/track/3Kyi9o0PACXBCiwbZ4t65u) | [Toshi](https://open.spotify.com/artist/3oa0mere2rG4b7cdsX7SFv), [Ammy Gill](https://open.spotify.com/artist/5haYUb5jgBXUG4zVm6lp4Z) | [Lagda Nahi](https://open.spotify.com/album/5AO0SVvnvElqp8ofy2FLKP) | 3:10 |
 | 70 | [Ghuroor](https://open.spotify.com/track/7jMjMcyt3qxEkbC0s8LJQf) | [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Ghuroor](https://open.spotify.com/album/4XcK8cuV6rHuppTwoJrEiG) | 3:18 |
-| 71 | [Zamanay](https://open.spotify.com/track/6o1DfORVD5ACPgDFqCDl6R) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Zamanay](https://open.spotify.com/album/2bW42L4X55NqzHM4B76Akk) | 2:42 |
+| 71 | [Zamanay](https://open.spotify.com/track/1KD6tWKf9z3mx8n8E9eYle) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Zamanay](https://open.spotify.com/album/6P0skMRTD2kXyJstKa6v6G) | 2:42 |
 | 72 | [Faaslay](https://open.spotify.com/track/0T9F7LqksEkxsDyHfqACv8) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Faaslay](https://open.spotify.com/album/688d5IzfEfCUCPDDdebMXP) | 3:23 |
 | 73 | [Dil de Bol](https://open.spotify.com/track/7pnzuSzXn8QmiTjXHCi304) | [Toshi](https://open.spotify.com/artist/3oa0mere2rG4b7cdsX7SFv), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Dil de Bol](https://open.spotify.com/album/73C1xLVTjBxIT89yzEAtHi) | 3:13 |
 | 74 | [Siyah](https://open.spotify.com/track/6xFWVY7hS55qaF7fXBEw7X) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [BAIG](https://open.spotify.com/artist/0IJYAmQhqf7gY8FkoSCSwZ) | [Siyah](https://open.spotify.com/album/0PedR8249zcLWFtNNkAEcZ) | 2:51 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 89 | [Choro](https://open.spotify.com/track/13GkX2Jop4q9FxtGvwb3MH) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285) | [Choro](https://open.spotify.com/album/47LlbY7qhYsG5aPXflzG69) | 3:52 |
 | 90 | [Peanut Butter](https://open.spotify.com/track/6DULqMlVA3TBjhl5gxnTp1) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Nautanki](https://open.spotify.com/album/4cWRqa8lbidF3vyUdX4H9D) | 3:49 |
 
-Snapshot ID: `MCxhNTgwNTZjYjgxNzc1NGI0NGM3NzEyZWM4MmI4NzYxZDUzNDU3MGEx`
+Snapshot ID: `MCw5ZjdkZjU2NjA4OGVhMjg5YmQ3ZWQ0ZDZiY2NlNTExYzZhY2RlMDdl`

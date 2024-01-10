@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Abeliano
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,735 likes - 84 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,736 likes - 84 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 47 | [Mendengarkan Rasuna](https://open.spotify.com/track/6X5xy7ocrS513TW0H1zaMv) | [haights](https://open.spotify.com/artist/0puvEnFeYnvVHLoVhPvlLG) | [Mendengarkan Rasuna](https://open.spotify.com/album/2aykcOeVrXEPR80pGIUQ8U) | 3:44 |
 | 48 | [Hey Kamu](https://open.spotify.com/track/5dJCpBIK5EwXzFpo3vJMWZ) | [Sagala Ripuh](https://open.spotify.com/artist/1Onp1cnBPSJY0cIMfEEUXs) | [Hey Kamu](https://open.spotify.com/album/5ezsONzxAd3UJmwzEyPfel) | 5:10 |
 | 49 | [Berarti](https://open.spotify.com/track/2p68Wi7VGwJIWrRZy9GJDS) | [Denny Indrajaya](https://open.spotify.com/artist/1FJsMaXbB2RrxmfBE7ExHD) | [Berarti](https://open.spotify.com/album/4LohwMVhbEQbDi2zuX6Ns5) | 4:31 |
-| 50 | [nice to know u](https://open.spotify.com/track/48JCsW2RY07o3jB3PYrk3J) | [Rara Sudirman](https://open.spotify.com/artist/5478Npv7iuimGmAgKAEVB3) | [nice to know u](https://open.spotify.com/album/2LqEwUPRJRcY8ESk2kqG2z) | 3:13 |
+| 50 | [nice to know u](https://open.spotify.com/track/48JCsW2RY07o3jB3PYrk3J) | [Rara Sudirman](https://open.spotify.com/artist/5478Npv7iuimGmAgKAEVB3), [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [nice to know u](https://open.spotify.com/album/2LqEwUPRJRcY8ESk2kqG2z) | 3:13 |
 | 51 | [Bernafaslah Sejenak](https://open.spotify.com/track/7mL0RQHHu3N3fYFwawa8Mx) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Bernafaslah Sejenak](https://open.spotify.com/album/7KF9Kk6bpryWfjzTprCylS) | 4:28 |
 | 52 | [Somebody Else](https://open.spotify.com/track/4Xva6zMGCn2zYlUwxBXqde) | [Tokyolite](https://open.spotify.com/artist/5B5CUIyGVsu1aJdLvqH2m5) | [Somebody Else](https://open.spotify.com/album/1jUNgeeLKu1UmNlCdBhCpl) | 4:26 |
 | 53 | [Little Poem](https://open.spotify.com/track/6XiStnBc2gD5iiZlEVXeg5) | [The SOFFIA](https://open.spotify.com/artist/5jOSB3qDDeXgYe1g9OlEGw) | [Little Poem](https://open.spotify.com/album/1bFzRHY3L9Hl8AtxPSmKTZ) | 3:47 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 83 | [All My Worries](https://open.spotify.com/track/7hfmAYVUmPkzJOHYZ9V4cJ) | [Athron](https://open.spotify.com/artist/1Pp0ZR4kYRlJ0BYK8Oyvjn), [Andreas Arianto](https://open.spotify.com/artist/1DQGUYEr9OxSlu11lxWizY) | [All My Worries](https://open.spotify.com/album/6dv2iltWNdSSBDiVhRyufx) | 3:21 |
 | 84 | [Rindu Enggan Pergi](https://open.spotify.com/track/22CdkAt39E78G2o1ffFdRU) | [Haikal Equino](https://open.spotify.com/artist/5pEEbhMFqK0x1uw3twr6jS) | [Rindu Enggan Pergi](https://open.spotify.com/album/6dPqRKQRxNQm4TqTzm6kqT) | 4:10 |
 
-Snapshot ID: `MCxhYjNkODJiYzI2ODQ4MTM3YjNkMDAwNDAwNWZhYTdlM2M3NTI2NGFj`
+Snapshot ID: `MCw4ZTBjNTA2Yzg2OTMxZmM4ZjE0ODAwMTczMTM2ZmM3MzNiNWVjOWZh`

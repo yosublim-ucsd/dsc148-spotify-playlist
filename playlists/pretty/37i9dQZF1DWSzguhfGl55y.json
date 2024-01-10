@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 623038,
+  "num_followers": 622929,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzIyY2Q5ZWRjMjJhZmEyYzEyMzI1ZmJmOGM1ZTY2NWU5MThhZjU3",
+  "snapshot_id": "MCwyYTljY2QxYmFmOTY1ZGY5ZjdhMTQxMzA4YWI4YmZiMjE5ZjA2MjAx",
   "tracks": [
     {
       "added_at": "2023-12-07 13:48:37",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
-        "name": "Demotape",
-        "url": "https://open.spotify.com/album/2It5lgo0UhWhaxsZfwI905"
-      },
-      "artists": [
-        {
-          "name": "Fettes Brot",
-          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "Schwule M\u00e4dchen",
-      "url": "https://open.spotify.com/track/2MEm4ydaYLfXcS0RwocAu4"
-    },
-    {
-      "added_at": "2023-12-07 13:48:37",
-      "album": {
         "name": "Kompass ohne Norden (Premium Edition)",
         "url": "https://open.spotify.com/album/1SWh0DfTaWQPopinkTPIMY"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 252786,
       "name": "Kompass ohne Norden",
       "url": "https://open.spotify.com/track/4wEDActEN5ZyJi0DK8bCtf"
+    },
+    {
+      "added_at": "2023-12-07 13:48:37",
+      "album": {
+        "name": "Demotape",
+        "url": "https://open.spotify.com/album/2It5lgo0UhWhaxsZfwI905"
+      },
+      "artists": [
+        {
+          "name": "Fettes Brot",
+          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "Schwule M\u00e4dchen",
+      "url": "https://open.spotify.com/track/2MEm4ydaYLfXcS0RwocAu4"
     },
     {
       "added_at": "2023-12-07 13:48:37",

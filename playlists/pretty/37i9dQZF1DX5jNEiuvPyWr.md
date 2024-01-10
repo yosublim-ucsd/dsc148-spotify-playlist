@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : Khali
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,109 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,847 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 39 | [CHEMINS](https://open.spotify.com/track/01C3b59tdndDqaWlAb7Zyw) | [Charlie Pill](https://open.spotify.com/artist/1F9opBvFsZhyjP67Dwj5V7), [Verso](https://open.spotify.com/artist/2wadI8Occyuywvkq9rbbn7), [Nael Céleste](https://open.spotify.com/artist/3WuIkKiG2lFgrDqcWvW4Bw) | [CHEMINS](https://open.spotify.com/album/6ICJkCduEoZnmVzPVa8keo) | 2:55 |
 | 40 | [kerosene](https://open.spotify.com/track/1DU4iqHjKYdPt4iXo1vAsp) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [ICE](https://open.spotify.com/album/7M1WGdWsIKZLjQLW4U9erX) | 1:54 |
 
-Snapshot ID: `MCxjYWU2MWNiZDc2MDVhYjljNjA5YWFjMTMzMmQ1YjU0YmIyODg3ZjQx`
+Snapshot ID: `MCw0ZmU4YjgxNmQxZDA3NzgyMTE3MDQwYTc3MzMyMWQ1M2NhOGUwMjQx`

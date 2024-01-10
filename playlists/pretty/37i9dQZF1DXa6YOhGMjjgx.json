@@ -1,12 +1,12 @@
 {
   "description": "The very best of the alternative rock scene. Cover: Teenage Wrist",
-  "num_followers": 474705,
+  "num_followers": 474386,
   "original_name": "New  Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGIzZGE4MGJhODE2NjEyOWViYTJmODJlNjUxMzljOGRhOWQ1MGZm",
+  "snapshot_id": "MCxiODk5OTVkMjc2OTk4MzcxZTk5Zjc1NjYwZWM3NDMwYjE4Yzg4ZTg4",
   "tracks": [
     {
       "added_at": "2023-09-08 20:23:35",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Daydreaming",
-        "url": "https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 215986,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "This Won't Go Over Well",
         "url": "https://open.spotify.com/album/4Nxlb1mo54gPu2bXibj259"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 204197,
       "name": "This Won't Go Over Well",
       "url": "https://open.spotify.com/track/4WNJmm4Xv8d0ELJgowypjT"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 215986,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
+        "name": "Birds and the Bees",
+        "url": "https://open.spotify.com/album/7FIf3cBBy49WetC07pGOjs"
+      },
+      "artists": [
+        {
+          "name": "Dexter and The Moonrocks",
+          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
+        }
+      ],
+      "duration_ms": 254263,
+      "name": "Birds and the Bees",
+      "url": "https://open.spotify.com/track/31ulnxOHy0Ix3RwZ7kZYiq"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
         "name": "Don't Hate Me",
         "url": "https://open.spotify.com/album/0JzhunpTxPRMXvmQW5ujm4"
       },
@@ -759,22 +775,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "What's So Fucking Funny?",
-        "url": "https://open.spotify.com/album/2RB8nl39caMcKZGb32pvPG"
-      },
-      "artists": [
-        {
-          "name": "Webbed Wing",
-          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
-        }
-      ],
-      "duration_ms": 176119,
-      "name": "Make A Dime",
-      "url": "https://open.spotify.com/track/5BEuayJZNsTDcjJEnUiLsN"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "We Are Between",
         "url": "https://open.spotify.com/album/0jm29ezULLI1tMnNqhBiZU"
       },
@@ -787,6 +787,22 @@
       "duration_ms": 232906,
       "name": "We Are Between",
       "url": "https://open.spotify.com/track/38g0al4YO0WctLwI4Z8394"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "What's So Fucking Funny?",
+        "url": "https://open.spotify.com/album/2RB8nl39caMcKZGb32pvPG"
+      },
+      "artists": [
+        {
+          "name": "Webbed Wing",
+          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
+        }
+      ],
+      "duration_ms": 176119,
+      "name": "Make A Dime",
+      "url": "https://open.spotify.com/track/5BEuayJZNsTDcjJEnUiLsN"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -855,22 +871,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Birds and the Bees",
-        "url": "https://open.spotify.com/album/7FIf3cBBy49WetC07pGOjs"
-      },
-      "artists": [
-        {
-          "name": "Dexter and The Moonrocks",
-          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
-        }
-      ],
-      "duration_ms": 254263,
-      "name": "Birds and the Bees",
-      "url": "https://open.spotify.com/track/31ulnxOHy0Ix3RwZ7kZYiq"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Cramps",
         "url": "https://open.spotify.com/album/0MT3P8dKhbeI7XwNi21OHE"
       },
@@ -899,22 +899,6 @@
       "duration_ms": 198508,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/3Xf7P2K1gXivN5KzULbNdU"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
-        "name": "Right After I Smoke This...",
-        "url": "https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB"
-      },
-      "artists": [
-        {
-          "name": "Webbed Wing",
-          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
-        }
-      ],
-      "duration_ms": 142760,
-      "name": "Medication",
-      "url": "https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -963,6 +947,22 @@
       "duration_ms": 175333,
       "name": "Flood Into",
       "url": "https://open.spotify.com/track/19meO0ADnoTjRuBMXZCdbs"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Right After I Smoke This...",
+        "url": "https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB"
+      },
+      "artists": [
+        {
+          "name": "Webbed Wing",
+          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
+        }
+      ],
+      "duration_ms": 142760,
+      "name": "Medication",
+      "url": "https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/2rJ83ZqFCb09JCpa1GnNUQ"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/6aZ4oJHt5zq9dM3Qb9o2Yq"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Hung Up",
         "url": "https://open.spotify.com/album/2bePAZVJAuY8brSambIIiN"
       },
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "SAY IT",
-        "url": "https://open.spotify.com/album/7xfievnMGV3hqp1lW7I4wH"
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/2rJ83ZqFCb09JCpa1GnNUQ"
       },
       "artists": [
         {
-          "name": "NEW LANGUAGE",
-          "url": "https://open.spotify.com/artist/5VgSeaCjuHm9qCimk0aXqL"
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
         }
       ],
-      "duration_ms": 161315,
-      "name": "SAY IT",
-      "url": "https://open.spotify.com/track/6QfxtR8b5iQYsv7zFsBuUv"
+      "duration_ms": 196800,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/6aZ4oJHt5zq9dM3Qb9o2Yq"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1155,6 +1139,22 @@
       "duration_ms": 201177,
       "name": "Going Clear",
       "url": "https://open.spotify.com/track/2IqGnFjQy69Xr8eyphvdoq"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "SAY IT",
+        "url": "https://open.spotify.com/album/7xfievnMGV3hqp1lW7I4wH"
+      },
+      "artists": [
+        {
+          "name": "NEW LANGUAGE",
+          "url": "https://open.spotify.com/artist/5VgSeaCjuHm9qCimk0aXqL"
+        }
+      ],
+      "duration_ms": 161315,
+      "name": "SAY IT",
+      "url": "https://open.spotify.com/track/6QfxtR8b5iQYsv7zFsBuUv"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
+        "name": "Broken Equipment",
+        "url": "https://open.spotify.com/album/3jtVIaacztzx3QPwwb1WU4"
+      },
+      "artists": [
+        {
+          "name": "BODEGA",
+          "url": "https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5"
+        }
+      ],
+      "duration_ms": 197853,
+      "name": "Pillar on the Bridge of You",
+      "url": "https://open.spotify.com/track/3LLKiv5QJGmYN80xVGq1qg"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
         "name": "Bye Bye Big Bear",
         "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
       },
@@ -1291,18 +1307,18 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Broken Equipment",
-        "url": "https://open.spotify.com/album/3jtVIaacztzx3QPwwb1WU4"
+        "name": "Teenage Lines",
+        "url": "https://open.spotify.com/album/5Yrk53HYq1jeZbWE06FFXv"
       },
       "artists": [
         {
-          "name": "BODEGA",
-          "url": "https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5"
+          "name": "alltheprettythings",
+          "url": "https://open.spotify.com/artist/1SbUXI8T8XPfiKewzGUCML"
         }
       ],
-      "duration_ms": 197853,
-      "name": "Pillar on the Bridge of You",
-      "url": "https://open.spotify.com/track/3LLKiv5QJGmYN80xVGq1qg"
+      "duration_ms": 224602,
+      "name": "Teenage Lines",
+      "url": "https://open.spotify.com/track/2VLQao16kkYBiqmoMzNmJA"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1335,22 +1351,6 @@
       "duration_ms": 204453,
       "name": "Missile Command",
       "url": "https://open.spotify.com/track/2krrGxaYhLQwRu3QPkPnmB"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
-        "name": "Teenage Lines",
-        "url": "https://open.spotify.com/album/5Yrk53HYq1jeZbWE06FFXv"
-      },
-      "artists": [
-        {
-          "name": "alltheprettythings",
-          "url": "https://open.spotify.com/artist/1SbUXI8T8XPfiKewzGUCML"
-        }
-      ],
-      "duration_ms": 224602,
-      "name": "Teenage Lines",
-      "url": "https://open.spotify.com/track/2VLQao16kkYBiqmoMzNmJA"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/3R3ALCiU33uYjXqandhEtV"
-      },
-      "artists": [
-        {
-          "name": "The Pale White",
-          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
-        }
-      ],
-      "duration_ms": 172495,
-      "name": "Never Enough",
-      "url": "https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Get Out Of My Life",
         "url": "https://open.spotify.com/album/7CkQnUSUR4eS1lfwJCa18o"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 187431,
       "name": "Get Out Of My Life",
       "url": "https://open.spotify.com/track/44uVPmfFf3tWyOtekieLci"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/3R3ALCiU33uYjXqandhEtV"
+      },
+      "artists": [
+        {
+          "name": "The Pale White",
+          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
+        }
+      ],
+      "duration_ms": 172495,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Car Crash",
-        "url": "https://open.spotify.com/album/6YlDs4igPMcAXPvnaKtNsB"
-      },
-      "artists": [
-        {
-          "name": "Low Lying Sun",
-          "url": "https://open.spotify.com/artist/1xdFO7BuQ7OS0PPmpfKlge"
-        }
-      ],
-      "duration_ms": 232584,
-      "name": "Car Crash",
-      "url": "https://open.spotify.com/track/5W0pqbWqy3ek86f7CjHyR8"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Apologies",
         "url": "https://open.spotify.com/album/1nATWShLPekWv0pH4yKrL6"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 173276,
       "name": "Apologies",
       "url": "https://open.spotify.com/track/5IYHlgFTDYMiXzvYtUxUAK"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Car Crash",
+        "url": "https://open.spotify.com/album/6YlDs4igPMcAXPvnaKtNsB"
+      },
+      "artists": [
+        {
+          "name": "Low Lying Sun",
+          "url": "https://open.spotify.com/artist/1xdFO7BuQ7OS0PPmpfKlge"
+        }
+      ],
+      "duration_ms": 232584,
+      "name": "Car Crash",
+      "url": "https://open.spotify.com/track/5W0pqbWqy3ek86f7CjHyR8"
     },
     {
       "added_at": "2023-09-08 20:23:35",

@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Abby Sage
 
-422 songs - 1 day 2 hr 9 min
+423 songs - 1 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Don't Kiss Me](https://open.spotify.com/track/3uPYk9jdFzAeEmQPYVb7Gq) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Don't Kiss Me](https://open.spotify.com/album/03SqzAAXXolzq7XYIARZOj) | 4:04 | 2023-05-19 | 2023-07-16 |
 | [Dove](https://open.spotify.com/track/2UBvTL4FRQd7CgBFJiZkWH) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [SUGAR EP.](https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ) | 6:09 | 2023-08-18 |  |
 | [Dr\. Johann Averies](https://open.spotify.com/track/0FXTj56OeM7A1FDV6N3bmw) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [Dr\. Johann Averies](https://open.spotify.com/album/1t2aKCQheAqrUtItw1T2K3) | 3:53 | 2022-01-21 | 2023-05-05 |
-| [Dr\. Johann Averies](https://open.spotify.com/track/6XnocPwfmJ1Sr1ZstHOTTg) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [Bury Your Horses](https://open.spotify.com/album/0p9h901vVxQXkcdPwNt2bS) | 3:53 | 2023-05-12 |  |
+| [Dr\. Johann Averies](https://open.spotify.com/track/6XnocPwfmJ1Sr1ZstHOTTg) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [Bury Your Horses](https://open.spotify.com/album/0p9h901vVxQXkcdPwNt2bS) | 3:53 | 2023-05-12 | 2024-01-10 |
 | [Dream](https://open.spotify.com/track/5J8aJjjiY3VCsnIwSNRtFS) | [Lou Roy](https://open.spotify.com/artist/4SXS92sCu5twnCUx4Dy44H) | [Pure Chaos](https://open.spotify.com/album/4VqJz0zUGsibswB2Q1OgHj) | 3:13 | 2022-04-29 | 2022-07-16 |
 | [Dreamers change the world](https://open.spotify.com/track/1n9UwCcEyiqNfx7AtJbwBF) | [El Perro del Mar](https://open.spotify.com/artist/0bnwha8WPTU2sf4Q4P6vE0) | [Dreamers change the world](https://open.spotify.com/album/6CLpVWkVbs53ggO5IvdBR7) | 4:47 | 2022-04-13 | 2022-07-29 |
 | [EC](https://open.spotify.com/track/4ara6WrjgXw8brIIigyRNR) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [EC](https://open.spotify.com/album/58gMbwi6r3hOpkbcBsqVcO) | 1:53 | 2023-03-24 | 2023-04-12 |
@@ -178,6 +178,7 @@
 | [i only sing about food](https://open.spotify.com/track/09XeVkE5Vurcpbb4HpXy1M) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [like dying stars, we’re reaching out](https://open.spotify.com/album/6jkHto9kw0tfs59PFEIO0c) | 2:24 | 2023-10-20 |  |
 | [i only sing about food](https://open.spotify.com/track/7GaiT2Cb8y9d9AE4E6XwFI) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [i only sing about food](https://open.spotify.com/album/4Xn3xhVosUGko2o77ABfAa) | 2:24 | 2022-10-14 | 2023-03-23 |
 | [I Pity the Country](https://open.spotify.com/track/5kLzTt5wBILL0VfUEDkX9h) | [Leanne Betasamosake Simpson](https://open.spotify.com/artist/6REprvUcVwBr69s8NfEQj4) | [Theory of Ice](https://open.spotify.com/album/5MMyebXVwA0Vzyvs1WvVS9) | 4:54 | 2022-04-13 | 2022-07-29 |
+| [I Promise](https://open.spotify.com/track/02UnxTJJJYS0yGNOIGdjOF) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [I Promise](https://open.spotify.com/album/5Amy4k4ccGfO2pA9wFCPLs) | 3:41 | 2024-01-05 |  |
 | [I Want To Change](https://open.spotify.com/track/443ELj0DbDiRRRYlY5TL5N) | [Nana Adjoa](https://open.spotify.com/artist/2W61gnKGmJykgFSJSvqVCe) | [I Want To Change](https://open.spotify.com/album/3Ol2YPIo1XO9tptJviBNLB) | 4:36 | 2022-04-13 | 2022-07-24 |
 | [I'd Like To Walk Around In Your Mind](https://open.spotify.com/track/6bqB7idfAnJVisSMQA1mZQ) | [Vashti Bunyan](https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2) | [Just Another Diamond Day](https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2) | 2:15 | 2022-04-13 |  |
 | [I'll Go Running](https://open.spotify.com/track/3pdzD05LaKcxuToCrM2w7b) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Planet \(i\)](https://open.spotify.com/album/0j5QJZWlMGIcd0tmFQXs63) | 3:56 | 2022-10-14 | 2022-12-01 |

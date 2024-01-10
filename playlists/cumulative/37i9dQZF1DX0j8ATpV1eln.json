@@ -1291,6 +1291,24 @@
     },
     {
       "album": {
+        "name": "Super Adorable Gal",
+        "url": "https://open.spotify.com/album/3UDkQMJC8sry16Q3phhPeN"
+      },
+      "artists": [
+        {
+          "name": "Masayoshi Oishi",
+          "url": "https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208765,
+      "name": "Super Adorable Gal",
+      "url": "https://open.spotify.com/track/5wFngmXD2qULEdr4NZwJ97"
+    },
+    {
+      "album": {
         "name": "Be The Best! Be The Blue!/Tears of a Genius",
         "url": "https://open.spotify.com/album/6caPYuL5B1w6SV05gcBZo1"
       },

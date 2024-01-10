@@ -1,12 +1,12 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 59422,
+  "num_followers": 59462,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTczZjgyNmE2ZTgxNjUxOTcxMzc1ZjJkMTFmNzc5YjA0MDcyNjAy",
+  "snapshot_id": "MCxhY2EyMGZkY2FiNmZiMGFmNTdkMTE2YWM2YWVjZjU1MDA4YTBkNTlm",
   "tracks": [
     {
       "added_at": "2020-08-19 19:15:51",
@@ -251,22 +251,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "The Sax Pack",
-        "url": "https://open.spotify.com/album/6V9VLkQrUVKlSRxVdA8wDN"
-      },
-      "artists": [
-        {
-          "name": "The Sax Pack",
-          "url": "https://open.spotify.com/artist/2m74KCZFBOTpNy1g9XLbSA"
-        }
-      ],
-      "duration_ms": 214986,
-      "name": "The Sax Pack",
-      "url": "https://open.spotify.com/track/15m7BNAMsBE5rxwpwfN0bB"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "La Dolce Vita",
         "url": "https://open.spotify.com/album/11fmFfNbLB7Y6OPZEmBWWq"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 325093,
       "name": "La Dolce Vita",
       "url": "https://open.spotify.com/track/2bKblqcMNEJD9l0vBaFMA8"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "The Sax Pack",
+        "url": "https://open.spotify.com/album/6V9VLkQrUVKlSRxVdA8wDN"
+      },
+      "artists": [
+        {
+          "name": "The Sax Pack",
+          "url": "https://open.spotify.com/artist/2m74KCZFBOTpNy1g9XLbSA"
+        }
+      ],
+      "duration_ms": 214986,
+      "name": "The Sax Pack",
+      "url": "https://open.spotify.com/track/15m7BNAMsBE5rxwpwfN0bB"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -663,22 +663,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "110 Degrees and Rising",
-        "url": "https://open.spotify.com/album/021jPmoz6TfJwji4x5i2iU"
-      },
-      "artists": [
-        {
-          "name": "Kevin Toney",
-          "url": "https://open.spotify.com/artist/1tTgW7qTHbI2rpdp2MrGZ0"
-        }
-      ],
-      "duration_ms": 279653,
-      "name": "Just Like The First Time",
-      "url": "https://open.spotify.com/track/0oRlsawgDgzSw08nbdwGGV"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Elixir",
         "url": "https://open.spotify.com/album/1IMGSrqAcD0F6aTtd5X4RV"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 202129,
       "name": "Frobidden Fruit",
       "url": "https://open.spotify.com/track/5AtQKKuYkuGbdQOXAvxGCN"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "110 Degrees and Rising",
+        "url": "https://open.spotify.com/album/021jPmoz6TfJwji4x5i2iU"
+      },
+      "artists": [
+        {
+          "name": "Kevin Toney",
+          "url": "https://open.spotify.com/artist/1tTgW7qTHbI2rpdp2MrGZ0"
+        }
+      ],
+      "duration_ms": 279653,
+      "name": "Just Like The First Time",
+      "url": "https://open.spotify.com/track/0oRlsawgDgzSw08nbdwGGV"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -775,22 +775,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Off The Record",
-        "url": "https://open.spotify.com/album/2XkVhDoUjbZ5vll7oR6sDo"
-      },
-      "artists": [
-        {
-          "name": "Ronny Jordan",
-          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
-        }
-      ],
-      "duration_ms": 304040,
-      "name": "Floor & More",
-      "url": "https://open.spotify.com/track/1mivhcSDSj80huBoFP0Mtd"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "HeadBoppin (with bonus track)",
         "url": "https://open.spotify.com/album/71rXvbTQwDdXPBh0TyPnrE"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 248733,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/1rLELrN8JJP0BxYFCTKdJs"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Off The Record",
+        "url": "https://open.spotify.com/album/2XkVhDoUjbZ5vll7oR6sDo"
+      },
+      "artists": [
+        {
+          "name": "Ronny Jordan",
+          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
+        }
+      ],
+      "duration_ms": 304040,
+      "name": "Floor & More",
+      "url": "https://open.spotify.com/track/1mivhcSDSj80huBoFP0Mtd"
     },
     {
       "added_at": "2020-08-19 19:15:51",

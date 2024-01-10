@@ -1,12 +1,12 @@
 {
   "description": "Canciones chill para ayudarte a bajar.",
-  "num_followers": 14872,
+  "num_followers": 14891,
   "original_name": "Pop Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzNhMGY4NTc0MTQ3ZjFjOTc4NGEyODM2Y2FhYjQ2OTc2YmRhMzdj",
+  "snapshot_id": "MCw5OTNkYWM1ZjY1NmM4NjM5NzhlY2VhNjYwMTIxYmExZjZhYjIwMzMz",
   "tracks": [
     {
       "added_at": "2023-12-22 23:50:51",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-12-22 23:50:51",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 192703,
-      "name": "DESAFIANDO EL DESTINO",
-      "url": "https://open.spotify.com/track/4rBQxFVwTnf99p818azSon"
-    },
-    {
-      "added_at": "2023-12-22 23:50:51",
-      "album": {
         "name": "The Joker And The Queen (feat. Taylor Swift)",
         "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 185422,
       "name": "The Joker And The Queen (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
+    },
+    {
+      "added_at": "2023-12-22 23:50:51",
+      "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 192703,
+      "name": "DESAFIANDO EL DESTINO",
+      "url": "https://open.spotify.com/track/4rBQxFVwTnf99p818azSon"
     },
     {
       "added_at": "2023-12-22 23:50:51",
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-12-22 23:50:51",
       "album": {
+        "name": "Autumn Variations",
+        "url": "https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 197976,
+      "name": "American Town",
+      "url": "https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h"
+    },
+    {
+      "added_at": "2023-12-22 23:50:51",
+      "album": {
         "name": "El Bolero (ac\u00fastico)",
         "url": "https://open.spotify.com/album/5P85yo4uOZwMXQT46vubPe"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 209217,
       "name": "El Bolero - Ac\u00fastico",
       "url": "https://open.spotify.com/track/27gu4iadh6eZ3seAD74dTM"
-    },
-    {
-      "added_at": "2023-12-22 23:50:51",
-      "album": {
-        "name": "Autumn Variations",
-        "url": "https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 197976,
-      "name": "American Town",
-      "url": "https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h"
     },
     {
       "added_at": "2023-12-22 23:50:51",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-12-22 23:50:51",
       "album": {
-        "name": "Guerrero.mp3",
-        "url": "https://open.spotify.com/album/3uc7ga2MobwRoS020sRZ4E"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 238665,
-      "name": "Guerrero.mp3",
-      "url": "https://open.spotify.com/track/7AxKYTuOktAVkEFGS9Szjd"
-    },
-    {
-      "added_at": "2023-12-22 23:50:51",
-      "album": {
         "name": "PEL\u00cdCULA",
         "url": "https://open.spotify.com/album/6lT06CuWfp72mTbXZsnN9L"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 178041,
       "name": "PEL\u00cdCULA",
       "url": "https://open.spotify.com/track/77A3xEknQEC8hPgGVnXycm"
+    },
+    {
+      "added_at": "2023-12-22 23:50:51",
+      "album": {
+        "name": "Guerrero.mp3",
+        "url": "https://open.spotify.com/album/3uc7ga2MobwRoS020sRZ4E"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 238665,
+      "name": "Guerrero.mp3",
+      "url": "https://open.spotify.com/track/7AxKYTuOktAVkEFGS9Szjd"
     },
     {
       "added_at": "2023-12-22 23:50:51",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-12-22 23:50:51",
       "album": {
+        "name": "El Momento Perfecto",
+        "url": "https://open.spotify.com/album/5tHjR6ANArX00z5PzAhOvS"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 201661,
+      "name": "El Momento Perfecto",
+      "url": "https://open.spotify.com/track/4OGw9dLKXsntDtdG1GLORh"
+    },
+    {
+      "added_at": "2023-12-22 23:50:51",
+      "album": {
         "name": "tus ojos (feat. AKRIILA)",
         "url": "https://open.spotify.com/album/6CiyiAWLFRiEQRK6lSSRRh"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 189963,
       "name": "tus ojos (feat. AKRIILA)",
       "url": "https://open.spotify.com/track/2R2BQLVW5l8eStyuQB4EJh"
-    },
-    {
-      "added_at": "2023-12-22 23:50:51",
-      "album": {
-        "name": "El Momento Perfecto",
-        "url": "https://open.spotify.com/album/5tHjR6ANArX00z5PzAhOvS"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 201661,
-      "name": "El Momento Perfecto",
-      "url": "https://open.spotify.com/track/4OGw9dLKXsntDtdG1GLORh"
     },
     {
       "added_at": "2023-12-22 23:50:51",

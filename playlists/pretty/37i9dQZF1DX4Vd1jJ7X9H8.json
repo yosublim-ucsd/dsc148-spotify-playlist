@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff. When in doubt, turn this on. Cover: Saltburn",
-  "num_followers": 301866,
+  "num_followers": 302022,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzFjMDVmNDQ3Y2I5MTJhODgyMzU0ODNmZGEyOWRlNjEzYmMyZmQ2",
+  "snapshot_id": "MCwwMWYyMzFkODgwNzUzNzNkMTU4YTQyNTU4OGE4NmMwYjBlMjI1ZmQy",
   "tracks": [
     {
       "added_at": "2023-12-27 20:39:24",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
-        "name": "Something About You",
-        "url": "https://open.spotify.com/album/5gOU7SYwgPAmw6tDUdsT9Q"
-      },
-      "artists": [
-        {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        }
-      ],
-      "duration_ms": 225181,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/5n9DJWUiwuKuPE9sCVbQ0n"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
         "name": "Potion (with Dua Lipa & Young Thug)",
         "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 214459,
       "name": "Potion (with Dua Lipa & Young Thug)",
       "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
+        "name": "Something About You",
+        "url": "https://open.spotify.com/album/5gOU7SYwgPAmw6tDUdsT9Q"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        }
+      ],
+      "duration_ms": 225181,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/5n9DJWUiwuKuPE9sCVbQ0n"
     },
     {
       "added_at": "2023-09-29 19:53:20",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 200093,
-      "name": "Lonely Nights",
-      "url": "https://open.spotify.com/track/1SJ7eKG6Ha5opLNxlXXvwa"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
         "name": "House Hues",
         "url": "https://open.spotify.com/album/79qwBOBC6B5V6T2HDVrhx2"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 98461,
       "name": "Separated",
       "url": "https://open.spotify.com/track/57VfoS1TXAp5Mx7l12MDNa"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 200093,
+      "name": "Lonely Nights",
+      "url": "https://open.spotify.com/track/1SJ7eKG6Ha5opLNxlXXvwa"
     },
     {
       "added_at": "2023-09-29 19:53:20",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
+        "name": "Elliot - EP",
+        "url": "https://open.spotify.com/album/4Wlcc4cFTzXBG3U5DI5xz5"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 236335,
+      "name": "Montreal",
+      "url": "https://open.spotify.com/track/12YAZNNm2OuSgDBKjFQcNm"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
         "name": "JAGUAR",
         "url": "https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 176773,
       "name": "Experience",
       "url": "https://open.spotify.com/track/2oap3QptGISyIvwKpnJJId"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
-        "name": "Elliot - EP",
-        "url": "https://open.spotify.com/album/4Wlcc4cFTzXBG3U5DI5xz5"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 236335,
-      "name": "Montreal",
-      "url": "https://open.spotify.com/track/12YAZNNm2OuSgDBKjFQcNm"
     },
     {
       "added_at": "2023-09-29 19:53:20",
@@ -875,18 +875,42 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
-        "name": "Happy Music",
-        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
+        "name": "Cheesin'",
+        "url": "https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh"
       },
       "artists": [
         {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        },
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        },
+        {
+          "name": "sophie meiers",
+          "url": "https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW"
+        },
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        },
+        {
+          "name": "Claud",
+          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+        },
+        {
+          "name": "Melanie Faye",
+          "url": "https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp"
+        },
+        {
+          "name": "HXNS",
+          "url": "https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0"
         }
       ],
-      "duration_ms": 194962,
-      "name": "Keep It Rising",
-      "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
+      "duration_ms": 138000,
+      "name": "Cheesin\u2019 (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)",
+      "url": "https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul"
     }
   ],
   "unique_name": "Soir\u00e9e",

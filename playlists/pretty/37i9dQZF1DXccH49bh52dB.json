@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 540490,
+  "num_followers": 540732,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzJlOWUwN2UwY2E3NWFmYjVkOGYwMDhkNGM3ZmY1OWNlNTk4OTll",
+  "snapshot_id": "MCwxNTY0Y2NkNWM3NzVjYjNjNTE3NWEzMjVhYjZhMWJmZTczZTIyNTYx",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -219,26 +219,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/2GFflENKz28RcMoSuulPZC"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "ROZES",
-          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
-        }
-      ],
-      "duration_ms": 226738,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Peace Is The Mission",
         "url": "https://open.spotify.com/album/2rqjmynngV4AmGoL1ZEuwM"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 176561,
       "name": "Lean On",
       "url": "https://open.spotify.com/track/01aTsQoKoeXofSTvKuunzv"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/2GFflENKz28RcMoSuulPZC"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "ROZES",
+          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
+        }
+      ],
+      "duration_ms": 226738,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/5HMjpBO0v78ayq5lreAyDd"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 212626,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/7gHs73wELdeycvS48JfIos"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Emorio",
         "url": "https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 163840,
       "name": "Emorio",
       "url": "https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Faded",
-        "url": "https://open.spotify.com/album/5HMjpBO0v78ayq5lreAyDd"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 212626,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/7gHs73wELdeycvS48JfIos"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 187126,
-      "name": "Heatwave (feat. Akon)",
-      "url": "https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Cut Your Teeth (Kygo Remix)",
         "url": "https://open.spotify.com/album/2i4AbvFA9e6XszmH1x4G2h"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 399013,
       "name": "Cut Your Teeth - Kygo Remix",
       "url": "https://open.spotify.com/track/1y4Kln6VEjQMpmHW7j9GeY"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 187126,
+      "name": "Heatwave (feat. Akon)",
+      "url": "https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/3U7e6Sa0lv3gU6tSt0auOI"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        }
-      ],
-      "duration_ms": 235215,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/4oe1guqHjDMCYoQguWlNDg"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Good Lies",
         "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 228514,
       "name": "Is U",
       "url": "https://open.spotify.com/track/14gYIWhaZ3kKQiwr7kI4JQ"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/3U7e6Sa0lv3gU6tSt0auOI"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        }
+      ],
+      "duration_ms": 235215,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/4oe1guqHjDMCYoQguWlNDg"
     },
     {
       "added_at": "2023-09-08 04:00:00",

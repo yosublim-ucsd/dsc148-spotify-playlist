@@ -1,12 +1,12 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 Miranda!",
-  "num_followers": 25130,
+  "num_followers": 25201,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2M5OTVmMjEyYTk2MTMzMzAzMTE4ZWMzMWEzMzZkYzc0NmFkMjcy",
+  "snapshot_id": "MCwxYWIxZmQwYzc4MmE5ZTE0YjcxMjNiMjU3ZjE4ZTRkNTVkNzE5MjMz",
   "tracks": [
     {
       "added_at": "2023-12-22 23:50:38",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-12-22 23:50:38",
       "album": {
-        "name": "El Otro",
-        "url": "https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p"
-      },
-      "artists": [
-        {
-          "name": "Chano",
-          "url": "https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM"
-        }
-      ],
-      "duration_ms": 190813,
-      "name": "Carnavalintro",
-      "url": "https://open.spotify.com/track/6XxIFsqBxiUct0UK7deoJ0"
-    },
-    {
-      "added_at": "2023-12-22 23:50:38",
-      "album": {
         "name": "ENCHASTRE",
         "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 209133,
       "name": "AYER TE VI (feat. Zoe Gotusso)",
       "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
+    },
+    {
+      "added_at": "2023-12-22 23:50:38",
+      "album": {
+        "name": "El Otro",
+        "url": "https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p"
+      },
+      "artists": [
+        {
+          "name": "Chano",
+          "url": "https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "Carnavalintro",
+      "url": "https://open.spotify.com/track/6XxIFsqBxiUct0UK7deoJ0"
     },
     {
       "added_at": "2023-12-22 23:50:38",
@@ -823,22 +823,18 @@
     {
       "added_at": "2023-12-22 23:50:38",
       "album": {
-        "name": "PITADA",
-        "url": "https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH"
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
       },
       "artists": [
         {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
-        },
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 208790,
-      "name": "Llamame",
-      "url": "https://open.spotify.com/track/3oqI8s2Aj0MUOop1j2vqoN"
+      "duration_ms": 193246,
+      "name": "An\u0303os Luz",
+      "url": "https://open.spotify.com/track/0BNtpLD6zsXJGroRtcixOE"
     },
     {
       "added_at": "2023-12-22 23:50:38",
@@ -863,18 +859,22 @@
     {
       "added_at": "2023-12-22 23:50:38",
       "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
+        "name": "PITADA",
+        "url": "https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH"
       },
       "artists": [
         {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+        },
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
         }
       ],
-      "duration_ms": 193246,
-      "name": "An\u0303os Luz",
-      "url": "https://open.spotify.com/track/0BNtpLD6zsXJGroRtcixOE"
+      "duration_ms": 208790,
+      "name": "Llamame",
+      "url": "https://open.spotify.com/track/3oqI8s2Aj0MUOop1j2vqoN"
     },
     {
       "added_at": "2023-12-22 23:50:38",
@@ -1355,6 +1355,26 @@
     {
       "added_at": "2023-12-22 23:50:38",
       "album": {
+        "name": "Otro Lado",
+        "url": "https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN"
+      },
+      "artists": [
+        {
+          "name": "Rosario Ortega",
+          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
+        },
+        {
+          "name": "Nahuel Barbero",
+          "url": "https://open.spotify.com/artist/2QQM8K8Eqkysh2Dn5Myv6I"
+        }
+      ],
+      "duration_ms": 231936,
+      "name": "Hablo Con Vos (feat. Nahuel Barbero)",
+      "url": "https://open.spotify.com/track/54HUyDF7rL85evFE2PLYKu"
+    },
+    {
+      "added_at": "2023-12-22 23:50:38",
+      "album": {
         "name": "Welcome To C\u00f3rdoba City",
         "url": "https://open.spotify.com/album/475EGaBnVDjgGIjbhKPPvv"
       },
@@ -1391,26 +1411,6 @@
     {
       "added_at": "2023-12-22 23:50:38",
       "album": {
-        "name": "Otro Lado",
-        "url": "https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN"
-      },
-      "artists": [
-        {
-          "name": "Rosario Ortega",
-          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
-        },
-        {
-          "name": "Nahuel Barbero",
-          "url": "https://open.spotify.com/artist/2QQM8K8Eqkysh2Dn5Myv6I"
-        }
-      ],
-      "duration_ms": 231936,
-      "name": "Hablo Con Vos (feat. Nahuel Barbero)",
-      "url": "https://open.spotify.com/track/54HUyDF7rL85evFE2PLYKu"
-    },
-    {
-      "added_at": "2023-12-22 23:50:38",
-      "album": {
         "name": "Desandando Mis Pasos",
         "url": "https://open.spotify.com/album/2Murx2ffqeCVKyJhnVHjpC"
       },
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-12-22 23:50:38",
       "album": {
-        "name": "Aqua di Emma",
-        "url": "https://open.spotify.com/album/5iRgxoxtpaeUAlhY9r7CoU"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
-        }
-      ],
-      "duration_ms": 214575,
-      "name": "Abrazarnos",
-      "url": "https://open.spotify.com/track/2suXFSWgF7S7XXyipAemEc"
-    },
-    {
-      "added_at": "2023-12-22 23:50:38",
-      "album": {
         "name": "Hundi\u00e9ndome",
         "url": "https://open.spotify.com/album/6ihedWm8dGuWpfjLE7Wdst"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 157200,
       "name": "Hundi\u00e9ndome",
       "url": "https://open.spotify.com/track/5fw4kQKeuCeNMWA047XMoC"
+    },
+    {
+      "added_at": "2023-12-22 23:50:38",
+      "album": {
+        "name": "Aqua di Emma",
+        "url": "https://open.spotify.com/album/5iRgxoxtpaeUAlhY9r7CoU"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+        }
+      ],
+      "duration_ms": 214575,
+      "name": "Abrazarnos",
+      "url": "https://open.spotify.com/track/2suXFSWgF7S7XXyipAemEc"
     }
   ],
   "unique_name": "Esto es Pop",

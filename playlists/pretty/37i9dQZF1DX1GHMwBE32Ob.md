@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > From the trenches\. Through the streets.<br/>Cover: HotKid
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,558 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,714 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 25 | [Things on Things](https://open.spotify.com/track/0tt7KXPcP2Vez6cOedspRE) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Things on Things](https://open.spotify.com/album/5OXS5DoiCaozs5l7WztbLc) | 3:16 |
 | 26 | [Dejavu](https://open.spotify.com/track/4o9Byedt716sEyVFu1cQjZ) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/5sXH36sWuho5Xei85Ru5sj) | 2:40 |
 | 27 | [La Pio Pio](https://open.spotify.com/track/6nK5Zt2RI6xqEaU8CgMojZ) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Blessed](https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst) | 2:25 |
-| 28 | [Walking Dead](https://open.spotify.com/track/18jFtQZUqk4n4lzmjweLq5) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Walking Dead](https://open.spotify.com/album/2mNsSI2EXm4w1Nn5QkqJFq) | 2:30 |
-| 29 | [Let There Be Light](https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Let There Be Light](https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b) | 2:49 |
+| 28 | [Let There Be Light](https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Let There Be Light](https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b) | 2:49 |
+| 29 | [Walking Dead](https://open.spotify.com/track/18jFtQZUqk4n4lzmjweLq5) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Walking Dead](https://open.spotify.com/album/2mNsSI2EXm4w1Nn5QkqJFq) | 2:30 |
 | 30 | [Off The Planet \(OTP\)](https://open.spotify.com/track/5oObSi6drHYOKYjfyVQkC0) | [Bahd Man Niko](https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb) | [Off The Planet \(OTP\)](https://open.spotify.com/album/4Z4iIaVurEoRR3dUpzpzi4) | 2:37 |
 | 31 | [NSV](https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [NSV](https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB) | 3:08 |
 | 32 | [HBP Remix](https://open.spotify.com/track/5oxaJpMQCijHqwTduLq6Fr) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [HBP Remix](https://open.spotify.com/album/22swHHoDtodIc5kImIImlt) | 2:56 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 54 | [Good Bad Boy](https://open.spotify.com/track/3ZRee35yTrQLeck0yWBYep) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT) | [Good Bad Boy](https://open.spotify.com/album/6aneMaptAsMI6EwKwQva1E) | 2:43 |
 | 55 | [KPK \(Ko Por Ke\)](https://open.spotify.com/track/17q1F7gvBjI5aizepORyYG) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [A True Champion](https://open.spotify.com/album/6cqaFME7zznZclEDFE6bUk) | 3:11 |
 | 56 | [FTR](https://open.spotify.com/track/3kApAXZWIZvd6UuDLpgMUA) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [S\-Smart](https://open.spotify.com/artist/5ZRp3JOtMPSeowGwOFA7w8) | [Cincinnati Pumpin!!](https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3) | 2:18 |
-| 57 | [Bolanle](https://open.spotify.com/track/7gSlSNvxiHC9HrKKbgKzYd) | [IVD](https://open.spotify.com/artist/5hZ6eJ8DdyM7no1KDrfe8m), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Bolanle](https://open.spotify.com/album/4hLok7Z2jx1zBCVIy35LiL) | 2:53 |
-| 58 | [My Life](https://open.spotify.com/track/5pmuDpn0aIzw8mjJBUWUsv) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:11 |
+| 57 | [My Life](https://open.spotify.com/track/5pmuDpn0aIzw8mjJBUWUsv) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:11 |
+| 58 | [Bolanle](https://open.spotify.com/track/7gSlSNvxiHC9HrKKbgKzYd) | [IVD](https://open.spotify.com/artist/5hZ6eJ8DdyM7no1KDrfe8m), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Bolanle](https://open.spotify.com/album/4hLok7Z2jx1zBCVIy35LiL) | 2:53 |
 | 59 | [Jaboti](https://open.spotify.com/track/1qi9wSY9usNeP5OHfBWtsX) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Jaboti](https://open.spotify.com/album/0Zibh5biKDOCMSjgzpcO6i) | 2:33 |
 | 60 | [Pepper Dem](https://open.spotify.com/track/5OOJeJuR8cy18QeohY5qhT) | [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [Introduction](https://open.spotify.com/album/4qxDgfQJbQrVNLAyTNJ2ym) | 2:24 |
 
-Snapshot ID: `MCxlOWIzYzM2NDA1MDA5Y2IyYTlkMDMzYTViYThkZjIzODRjYThmNTAx`
+Snapshot ID: `MCxkY2M2ZDllZTIwNTg1ZDkwZjlkZWE5NzcxMWE2YTFjYzIyODllOGMz`

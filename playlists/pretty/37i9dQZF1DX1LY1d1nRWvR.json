@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 33187,
+  "num_followers": 33203,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjlhYmEzNDBkODc2MWY4NTU2M2YzNDU1MzYzZTRmZjk0NjFlY2Yy",
+  "snapshot_id": "MCw0NzJkNGJlYjRmNjk3ZDdhOWExMTA2MTc1Y2FjNjdmZTkxNzBiNmM3",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -367,6 +367,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/731CVmFi5tJ0gT2wvVQAss"
+      },
+      "artists": [
+        {
+          "name": "Harvey Sutherland",
+          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
+        }
+      ],
+      "duration_ms": 376960,
+      "name": "Bamboo",
+      "url": "https://open.spotify.com/track/4nEHMZYdH2z4vPO8nJW9wF"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Finding Foundations (The Remixes)",
         "url": "https://open.spotify.com/album/3k2eNuf5EEc1KUMrjJaskk"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 367413,
       "name": "Learn Your Lesson - Photay Remix",
       "url": "https://open.spotify.com/track/3s8yxBdiXFlEi6y0gfGreR"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/731CVmFi5tJ0gT2wvVQAss"
-      },
-      "artists": [
-        {
-          "name": "Harvey Sutherland",
-          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
-        }
-      ],
-      "duration_ms": 376960,
-      "name": "Bamboo",
-      "url": "https://open.spotify.com/track/4nEHMZYdH2z4vPO8nJW9wF"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -531,6 +531,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Laamore",
+        "url": "https://open.spotify.com/album/3qawW9LV2i8RHgBqmfXYHO"
+      },
+      "artists": [
+        {
+          "name": "Hidden Spheres",
+          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
+        }
+      ],
+      "duration_ms": 280895,
+      "name": "Laamore",
+      "url": "https://open.spotify.com/track/4uC2RrHmTfq96i55BTk1ML"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Information",
         "url": "https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 246855,
       "name": "Another Story",
       "url": "https://open.spotify.com/track/0AW4hkKsAgn8pU7pGPnu9Y"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Yardley Suite",
-        "url": "https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX"
-      },
-      "artists": [
-        {
-          "name": "Ruby Rushton",
-          "url": "https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF"
-        }
-      ],
-      "duration_ms": 235803,
-      "name": "Yardley Suite",
-      "url": "https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -579,18 +579,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Laamore",
-        "url": "https://open.spotify.com/album/3qawW9LV2i8RHgBqmfXYHO"
+        "name": "Yardley Suite",
+        "url": "https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX"
       },
       "artists": [
         {
-          "name": "Hidden Spheres",
-          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
+          "name": "Ruby Rushton",
+          "url": "https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF"
         }
       ],
-      "duration_ms": 280895,
-      "name": "Laamore",
-      "url": "https://open.spotify.com/track/4uC2RrHmTfq96i55BTk1ML"
+      "duration_ms": 235803,
+      "name": "Yardley Suite",
+      "url": "https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Moodymann",
-        "url": "https://open.spotify.com/album/61sGO58ljdDgD4Mn6Bcj3P"
-      },
-      "artists": [
-        {
-          "name": "Moodymann",
-          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
-        }
-      ],
-      "duration_ms": 708706,
-      "name": "Sloppy Cosmic",
-      "url": "https://open.spotify.com/track/2E8EbnfOycV8BaUzbCsGqa"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Xover",
         "url": "https://open.spotify.com/album/08OWYxVuGW8F7Ne2TdNMUp"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 239373,
       "name": "Pi\u00f1a Colada",
       "url": "https://open.spotify.com/track/5wt62HFSYWz87H5dztBufJ"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Moodymann",
+        "url": "https://open.spotify.com/album/61sGO58ljdDgD4Mn6Bcj3P"
+      },
+      "artists": [
+        {
+          "name": "Moodymann",
+          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
+        }
+      ],
+      "duration_ms": 708706,
+      "name": "Sloppy Cosmic",
+      "url": "https://open.spotify.com/track/2E8EbnfOycV8BaUzbCsGqa"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -779,22 +779,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "New Tab",
-        "url": "https://open.spotify.com/album/4sSEUm4dCycVP7EXTmd4SP"
-      },
-      "artists": [
-        {
-          "name": "Khotin",
-          "url": "https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Frog Fractions",
-      "url": "https://open.spotify.com/track/5IrQwd8F9oTkDNxSPrkJSy"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Sankofa Season",
         "url": "https://open.spotify.com/album/4GsqSUelegSf0jTJyloIqz"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 342591,
       "name": "Eye Mo K",
       "url": "https://open.spotify.com/track/6o5bke7Cp481elgM8eTenO"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "New Tab",
+        "url": "https://open.spotify.com/album/4sSEUm4dCycVP7EXTmd4SP"
+      },
+      "artists": [
+        {
+          "name": "Khotin",
+          "url": "https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Frog Fractions",
+      "url": "https://open.spotify.com/track/5IrQwd8F9oTkDNxSPrkJSy"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -847,6 +847,30 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Boro",
+        "url": "https://open.spotify.com/album/6UZ3r4ENHQYVFeMhBKBuSB"
+      },
+      "artists": [
+        {
+          "name": "Yarni",
+          "url": "https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr"
+        },
+        {
+          "name": "Jonoa",
+          "url": "https://open.spotify.com/artist/5LQIuS4eO4Gx8Nc2qCXhAl"
+        },
+        {
+          "name": "Rachel Shirley",
+          "url": "https://open.spotify.com/artist/5Hy4oRldFJc1zGOOrmjW0r"
+        }
+      ],
+      "duration_ms": 352909,
+      "name": "Golden Gai",
+      "url": "https://open.spotify.com/track/4czb2atdxzqXMe1inOZA7p"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Umami",
         "url": "https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel"
       },
@@ -879,30 +903,6 @@
       "duration_ms": 376489,
       "name": "Straight Line - Neil Cowley Remix",
       "url": "https://open.spotify.com/track/2aZCiyNWSZp18PSokglthU"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Boro",
-        "url": "https://open.spotify.com/album/6UZ3r4ENHQYVFeMhBKBuSB"
-      },
-      "artists": [
-        {
-          "name": "Yarni",
-          "url": "https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr"
-        },
-        {
-          "name": "Jonoa",
-          "url": "https://open.spotify.com/artist/5LQIuS4eO4Gx8Nc2qCXhAl"
-        },
-        {
-          "name": "Rachel Shirley",
-          "url": "https://open.spotify.com/artist/5Hy4oRldFJc1zGOOrmjW0r"
-        }
-      ],
-      "duration_ms": 352909,
-      "name": "Golden Gai",
-      "url": "https://open.spotify.com/track/4czb2atdxzqXMe1inOZA7p"
     },
     {
       "added_at": "2021-10-08 17:36:35",

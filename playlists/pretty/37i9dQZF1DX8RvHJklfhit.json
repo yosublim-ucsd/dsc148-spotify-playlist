@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie classics.",
-  "num_followers": 174200,
+  "num_followers": 174217,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OWYyMzUzNWM1MTA5YzQ5MTA3NWUzYzcyOTFlYjJkNjJkZjVjN2E5",
+  "snapshot_id": "MCwxODdmZTk5NmM2MTEzZmM4MGFiYzM1Mjg5YmJiYTc5ZWVlZTQ0MTc4",
   "tracks": [
     {
       "added_at": "2023-10-12 20:02:07",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Garden of Lucid",
-        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 223465,
-      "name": "Fantasmas",
-      "url": "https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Am\u00e9rica Supers\u00f3nica",
         "url": "https://open.spotify.com/album/1nn6tjn1aqYGHkgEHejfb0"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 223186,
       "name": "Lo Mejor, Lo Peor",
       "url": "https://open.spotify.com/track/7llSV9mWATUeGNxJMik2Vg"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Garden of Lucid",
+        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 223465,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Reflexi\u00f3n del Pasto",
-        "url": "https://open.spotify.com/album/28GYUNMKd575GwnofewUEI"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 106921,
-      "name": "Reflexi\u00f3n del Pasto",
-      "url": "https://open.spotify.com/track/1tzTiU8wtxHvZ3YtU0cjEM"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Nubes",
         "url": "https://open.spotify.com/album/3woQ2AxMJRfEJaEV9BIDR1"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 174053,
       "name": "Nubes",
       "url": "https://open.spotify.com/track/4bKKVfhH3pmMEWCMTViBVf"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Reflexi\u00f3n del Pasto",
+        "url": "https://open.spotify.com/album/28GYUNMKd575GwnofewUEI"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 106921,
+      "name": "Reflexi\u00f3n del Pasto",
+      "url": "https://open.spotify.com/track/1tzTiU8wtxHvZ3YtU0cjEM"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Canciones",
-        "url": "https://open.spotify.com/album/77vCDDC5hVzCzZBlE6sOeR"
+        "name": "NTE",
+        "url": "https://open.spotify.com/album/7iTTVfzk46Vk4NFaJLksLu"
       },
       "artists": [
         {
-          "name": "MKRNI",
-          "url": "https://open.spotify.com/artist/1X3EisQbC1AnVLw8I9zvFp"
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
         }
       ],
-      "duration_ms": 234240,
-      "name": "Inercia",
-      "url": "https://open.spotify.com/track/6QLvtmaZbRgbaUmFtnbor5"
+      "duration_ms": 171807,
+      "name": "NTE",
+      "url": "https://open.spotify.com/track/48P1N8CkOMbdaOLZgwDo4x"
     }
   ],
   "unique_name": "Latin Indie Classics",

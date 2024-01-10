@@ -1,12 +1,12 @@
 {
   "description": "Acoustic rock and pop that makes you feel good.",
-  "num_followers": 523947,
+  "num_followers": 523943,
   "original_name": "Feel Good Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmI0ZDZlOWI1ZjY1ZjJlY2JlMGRhYjViZWVmNDdlM2MwOTYxZjQ4",
+  "snapshot_id": "MCxhMzg3OGYxNGJkMDBhZjY4MDM5ODM3OTQzNjE1NTY4MjZjMmVkMjUx",
   "tracks": [
     {
       "added_at": "2023-10-23 17:16:09",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 203800,
-      "name": "What Do You Mean? - Acoustic",
-      "url": "https://open.spotify.com/track/5YNf9s8WE3iF33YaFNrgpa"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "Front Porch",
         "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
       },
@@ -623,18 +607,18 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Talking Dreams (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2"
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },
       "artists": [
         {
-          "name": "Echosmith",
-          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 220626,
-      "name": "Bright",
-      "url": "https://open.spotify.com/track/3WKg25vrbjJlkhsgl2W4p3"
+      "duration_ms": 203800,
+      "name": "What Do You Mean? - Acoustic",
+      "url": "https://open.spotify.com/track/5YNf9s8WE3iF33YaFNrgpa"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -651,6 +635,22 @@
       "duration_ms": 255510,
       "name": "What About Us - Acoustic",
       "url": "https://open.spotify.com/track/7e4Pftu2tzDeY0W0690OKQ"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Talking Dreams (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2"
+      },
+      "artists": [
+        {
+          "name": "Echosmith",
+          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "Bright",
+      "url": "https://open.spotify.com/track/3WKg25vrbjJlkhsgl2W4p3"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Dusk Till Dawn",
-        "url": "https://open.spotify.com/album/1skDKsDkYykE118scvvhfj"
-      },
-      "artists": [
-        {
-          "name": "Amanda Yang",
-          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
-        }
-      ],
-      "duration_ms": 208568,
-      "name": "Dusk Till Dawn",
-      "url": "https://open.spotify.com/track/1NWvbQI3bNfPxbxF9OQ1Ek"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "New Rules",
         "url": "https://open.spotify.com/album/6jBrihWQmJCl81kuNQS3pE"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 227279,
       "name": "New Rules",
       "url": "https://open.spotify.com/track/2xugNZzWFJVQB54PS5XnG2"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Dusk Till Dawn",
+        "url": "https://open.spotify.com/album/1skDKsDkYykE118scvvhfj"
+      },
+      "artists": [
+        {
+          "name": "Amanda Yang",
+          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
+        }
+      ],
+      "duration_ms": 208568,
+      "name": "Dusk Till Dawn",
+      "url": "https://open.spotify.com/track/1NWvbQI3bNfPxbxF9OQ1Ek"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno"
-      },
-      "artists": [
-        {
-          "name": "Leo Stannard",
-          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
-        },
-        {
-          "name": "Frances",
-          "url": "https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86"
-        }
-      ],
-      "duration_ms": 182066,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "Too Young",
         "url": "https://open.spotify.com/album/1abOgtHlHVN4INBipRQmds"
       },
@@ -1655,6 +1635,26 @@
       "duration_ms": 227413,
       "name": "Sorry I'm Gone",
       "url": "https://open.spotify.com/track/60r0gseRNjgAfF3EiiRFXL"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno"
+      },
+      "artists": [
+        {
+          "name": "Leo Stannard",
+          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
+        },
+        {
+          "name": "Frances",
+          "url": "https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86"
+        }
+      ],
+      "duration_ms": 182066,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Over My Head (Cable Car)",
-        "url": "https://open.spotify.com/album/0NgiEbNqjo4ZqnSuMApXHz"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "Over My Head (Cable Car) - Live at Sirius Radio, NYC, NY - May 2006",
-      "url": "https://open.spotify.com/track/2IQvTnOS1sicZ3plBZL6KR"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "Covers, Vol. 1",
         "url": "https://open.spotify.com/album/7xxlAnL8WkSKsd26by0bfL"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 194965,
       "name": "The Way You Make Me Feel",
       "url": "https://open.spotify.com/track/3kYhNTBsprEoL1x66oguBj"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Over My Head (Cable Car)",
+        "url": "https://open.spotify.com/album/0NgiEbNqjo4ZqnSuMApXHz"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "Over My Head (Cable Car) - Live at Sirius Radio, NYC, NY - May 2006",
+      "url": "https://open.spotify.com/track/2IQvTnOS1sicZ3plBZL6KR"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Just Let It Go",
-        "url": "https://open.spotify.com/album/7FcwV8GFESKvmdEUV7WAC0"
-      },
-      "artists": [
-        {
-          "name": "Robin Bengtsson",
-          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Just Let It Go",
-      "url": "https://open.spotify.com/track/4IDe0WWK5PbypEgZ7Lusec"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "Make It Happen (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5RbJ1jOe7KFVfbB5GOLhUT"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 216776,
       "name": "Sing to You - Acoustic",
       "url": "https://open.spotify.com/track/1pVz7AJO2UZd5ouOhoIlhS"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Just Let It Go",
+        "url": "https://open.spotify.com/album/7FcwV8GFESKvmdEUV7WAC0"
+      },
+      "artists": [
+        {
+          "name": "Robin Bengtsson",
+          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Just Let It Go",
+      "url": "https://open.spotify.com/track/4IDe0WWK5PbypEgZ7Lusec"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Cover Sessions, Vol. 2",
-        "url": "https://open.spotify.com/album/7hh9qCfFuLlaMpjCMzTiZz"
-      },
-      "artists": [
-        {
-          "name": "Boyce Avenue",
-          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
-        }
-      ],
-      "duration_ms": 260372,
-      "name": "Rolling In The Deep",
-      "url": "https://open.spotify.com/track/3bWGIcOnxnaHkc9Wb9BIdK"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "Your Song (Acoustic)",
         "url": "https://open.spotify.com/album/3BfAAuW2nmVgQi1MOb85h3"
       },
@@ -2267,6 +2251,22 @@
       "duration_ms": 200006,
       "name": "Your Song - Acoustic",
       "url": "https://open.spotify.com/track/19TkHF0HPSjDtCIFJzE6qF"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Cover Sessions, Vol. 2",
+        "url": "https://open.spotify.com/album/7hh9qCfFuLlaMpjCMzTiZz"
+      },
+      "artists": [
+        {
+          "name": "Boyce Avenue",
+          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+        }
+      ],
+      "duration_ms": 260372,
+      "name": "Rolling In The Deep",
+      "url": "https://open.spotify.com/track/3bWGIcOnxnaHkc9Wb9BIdK"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "I'm a Mess (Acoustic)",
-        "url": "https://open.spotify.com/album/6zmhW2TRItWgBM3WBVR9Gn"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 153093,
-      "name": "I'm a Mess - Acoustic",
-      "url": "https://open.spotify.com/track/1RGcxEKlVL5TSMHqV13etr"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "Acapella",
         "url": "https://open.spotify.com/album/5XyVSYJJ4LaBfcsqVuYR2F"
       },
@@ -2351,18 +2335,18 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Rely On Me",
-        "url": "https://open.spotify.com/album/03DxNAwr0hMVZyTvgCcJmX"
+        "name": "I'm a Mess (Acoustic)",
+        "url": "https://open.spotify.com/album/6zmhW2TRItWgBM3WBVR9Gn"
       },
       "artists": [
         {
-          "name": "James Smith",
-          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
         }
       ],
-      "duration_ms": 219834,
-      "name": "Rely On Me",
-      "url": "https://open.spotify.com/track/1h1I3rmORqj5ZYsdugh22X"
+      "duration_ms": 153093,
+      "name": "I'm a Mess - Acoustic",
+      "url": "https://open.spotify.com/track/1RGcxEKlVL5TSMHqV13etr"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -2379,6 +2363,22 @@
       "duration_ms": 213855,
       "name": "Little Love",
       "url": "https://open.spotify.com/track/1Pq2zNeHfbEA4phoHXHG5b"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Rely On Me",
+        "url": "https://open.spotify.com/album/03DxNAwr0hMVZyTvgCcJmX"
+      },
+      "artists": [
+        {
+          "name": "James Smith",
+          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
+        }
+      ],
+      "duration_ms": 219834,
+      "name": "Rely On Me",
+      "url": "https://open.spotify.com/track/1h1I3rmORqj5ZYsdugh22X"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -2435,6 +2435,22 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
+        "name": "Just Another Love Song",
+        "url": "https://open.spotify.com/album/7dRQG2sl597yCKx4G96pwk"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Alvord",
+          "url": "https://open.spotify.com/artist/2wNlZ2Vp23Sbv1DHgizbCb"
+        }
+      ],
+      "duration_ms": 168087,
+      "name": "Just Another Love Song",
+      "url": "https://open.spotify.com/track/18ilkcj9CgkhlgFtiqEka1"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
         "name": "Tell Me You Love Me (Deluxe)",
         "url": "https://open.spotify.com/album/3wtzx00sWy8JmQbYXmBa6S"
       },
@@ -2451,22 +2467,6 @@
       "duration_ms": 232066,
       "name": "No Promises - Acoustic",
       "url": "https://open.spotify.com/track/4gd5QOwPhztB74FW28S93P"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
-        "name": "Just Another Love Song",
-        "url": "https://open.spotify.com/album/7dRQG2sl597yCKx4G96pwk"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Alvord",
-          "url": "https://open.spotify.com/artist/2wNlZ2Vp23Sbv1DHgizbCb"
-        }
-      ],
-      "duration_ms": 168087,
-      "name": "Just Another Love Song",
-      "url": "https://open.spotify.com/track/18ilkcj9CgkhlgFtiqEka1"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -2587,22 +2587,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Hands All Over (Deluxe)",
-        "url": "https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 226320,
-      "name": "Misery - Acoustic Version",
-      "url": "https://open.spotify.com/track/7ueorixD5oJzXskD3APGbA"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "For Seasons to Come",
         "url": "https://open.spotify.com/album/2tVnOZF7F6ohwI7al2TG0G"
       },
@@ -2615,6 +2599,22 @@
       "duration_ms": 192000,
       "name": "For Seasons to Come",
       "url": "https://open.spotify.com/track/1HMXW4PoREtAjQiXSw4vHZ"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Hands All Over (Deluxe)",
+        "url": "https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 226320,
+      "name": "Misery - Acoustic Version",
+      "url": "https://open.spotify.com/track/7ueorixD5oJzXskD3APGbA"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -2667,22 +2667,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Boy & Bear at Golden Retriever Studio",
-        "url": "https://open.spotify.com/album/6RrsqCPJLgyTX5LG8UBbgr"
-      },
-      "artists": [
-        {
-          "name": "Boy & Bear",
-          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
-        }
-      ],
-      "duration_ms": 187186,
-      "name": "Telescope - Acoustic",
-      "url": "https://open.spotify.com/track/538NuUdDJkBjumWei86WVH"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "The Covers, Vol. 5",
         "url": "https://open.spotify.com/album/660ZTDD3FsHdsPmZguPsLG"
       },
@@ -2695,6 +2679,22 @@
       "duration_ms": 219511,
       "name": "Can't Hold Us",
       "url": "https://open.spotify.com/track/0QCUpJtArsva9KIgc2TspW"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Boy & Bear at Golden Retriever Studio",
+        "url": "https://open.spotify.com/album/6RrsqCPJLgyTX5LG8UBbgr"
+      },
+      "artists": [
+        {
+          "name": "Boy & Bear",
+          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+        }
+      ],
+      "duration_ms": 187186,
+      "name": "Telescope - Acoustic",
+      "url": "https://open.spotify.com/track/538NuUdDJkBjumWei86WVH"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -2839,6 +2839,22 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
+        "name": "Sucker (Acoustic)",
+        "url": "https://open.spotify.com/album/6i7dxbQqFN1UbjUCoDWh13"
+      },
+      "artists": [
+        {
+          "name": "Ben Woodward",
+          "url": "https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn"
+        }
+      ],
+      "duration_ms": 179782,
+      "name": "Sucker (Acoustic)",
+      "url": "https://open.spotify.com/track/3dtyOjGhZOEYkQQLPLTJVP"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
         "name": "The Covers, Vol. 4",
         "url": "https://open.spotify.com/album/1r1kgJO17lyJp6WkCLvBQD"
       },
@@ -2855,22 +2871,6 @@
       "duration_ms": 198424,
       "name": "Sweet Nothing",
       "url": "https://open.spotify.com/track/0zACktFLrioxIyHHwv00Kh"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
-        "name": "Sucker (Acoustic)",
-        "url": "https://open.spotify.com/album/6i7dxbQqFN1UbjUCoDWh13"
-      },
-      "artists": [
-        {
-          "name": "Ben Woodward",
-          "url": "https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn"
-        }
-      ],
-      "duration_ms": 179782,
-      "name": "Sucker (Acoustic)",
-      "url": "https://open.spotify.com/track/3dtyOjGhZOEYkQQLPLTJVP"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -3027,22 +3027,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Were Up All Night To Get Lucky (Daft Punk feat. Pharrell Williams, Glee Cast Cover)",
-        "url": "https://open.spotify.com/album/4jD3mHTyPCahfjE46KAO8x"
-      },
-      "artists": [
-        {
-          "name": "GMPresents & Jocelyn Scofield",
-          "url": "https://open.spotify.com/artist/0O8Q5C7YcMWghyISchsJsy"
-        }
-      ],
-      "duration_ms": 208681,
-      "name": "Get Lucky",
-      "url": "https://open.spotify.com/track/0I4fIKwHpZBYIlhZWjdX2U"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "Dear Future Husband",
         "url": "https://open.spotify.com/album/2sfwHqwFlq2NQFXGyC6ULL"
       },
@@ -3063,22 +3047,18 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Waiting For Love (Remixes)",
-        "url": "https://open.spotify.com/album/0yEH5iJwqTrrqWMmS0OQ1D"
+        "name": "Were Up All Night To Get Lucky (Daft Punk feat. Pharrell Williams, Glee Cast Cover)",
+        "url": "https://open.spotify.com/album/4jD3mHTyPCahfjE46KAO8x"
       },
       "artists": [
         {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Jens Siverstedt",
-          "url": "https://open.spotify.com/artist/7J2MiNrvu4hfaZ3U0lXBQI"
+          "name": "GMPresents & Jocelyn Scofield",
+          "url": "https://open.spotify.com/artist/0O8Q5C7YcMWghyISchsJsy"
         }
       ],
-      "duration_ms": 201509,
-      "name": "Waiting For Love - Prinston & Astrid S Acoustic Version",
-      "url": "https://open.spotify.com/track/58C5veSCNk7krG3kOUsdJg"
+      "duration_ms": 208681,
+      "name": "Get Lucky",
+      "url": "https://open.spotify.com/track/0I4fIKwHpZBYIlhZWjdX2U"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -3099,6 +3079,26 @@
       "duration_ms": 149946,
       "name": "Middle Of The Night - Acoustic",
       "url": "https://open.spotify.com/track/5kt7zu5EP4eZiZsQuc5sQG"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Waiting For Love (Remixes)",
+        "url": "https://open.spotify.com/album/0yEH5iJwqTrrqWMmS0OQ1D"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Jens Siverstedt",
+          "url": "https://open.spotify.com/artist/7J2MiNrvu4hfaZ3U0lXBQI"
+        }
+      ],
+      "duration_ms": 201509,
+      "name": "Waiting For Love - Prinston & Astrid S Acoustic Version",
+      "url": "https://open.spotify.com/track/58C5veSCNk7krG3kOUsdJg"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -3343,22 +3343,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Look Away (Acoustic)",
-        "url": "https://open.spotify.com/album/2DcbeYyXKzu4C5kgKn0IRb"
-      },
-      "artists": [
-        {
-          "name": "Stephen Puth",
-          "url": "https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC"
-        }
-      ],
-      "duration_ms": 184900,
-      "name": "Look Away - Acoustic",
-      "url": "https://open.spotify.com/track/5haEwf9UsvjWq0aovDAofJ"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "Thumbs (Acoustic)",
         "url": "https://open.spotify.com/album/2q3ZRR1ucbsr9XMcewLrU8"
       },
@@ -3375,18 +3359,18 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Gag Order (Live Acoustic EP From Space)",
-        "url": "https://open.spotify.com/album/4tEMiCZRt2oKtEWOurF1Ht"
+        "name": "Look Away (Acoustic)",
+        "url": "https://open.spotify.com/album/2DcbeYyXKzu4C5kgKn0IRb"
       },
       "artists": [
         {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+          "name": "Stephen Puth",
+          "url": "https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC"
         }
       ],
-      "duration_ms": 285859,
-      "name": "Happy - Live Acoustic From Space",
-      "url": "https://open.spotify.com/track/6yHuumfZbANbUDAqFf8DC3"
+      "duration_ms": 184900,
+      "name": "Look Away - Acoustic",
+      "url": "https://open.spotify.com/track/5haEwf9UsvjWq0aovDAofJ"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -3403,6 +3387,22 @@
       "duration_ms": 167284,
       "name": "Like I Can",
       "url": "https://open.spotify.com/track/07rVlfoJTfJbRtqkRo7g0M"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Gag Order (Live Acoustic EP From Space)",
+        "url": "https://open.spotify.com/album/4tEMiCZRt2oKtEWOurF1Ht"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 285859,
+      "name": "Happy - Live Acoustic From Space",
+      "url": "https://open.spotify.com/track/6yHuumfZbANbUDAqFf8DC3"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -3695,22 +3695,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "All The Fucking Time",
-        "url": "https://open.spotify.com/album/03XismopzA2tyBMH58uE7k"
-      },
-      "artists": [
-        {
-          "name": "Loote",
-          "url": "https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ"
-        }
-      ],
-      "duration_ms": 149973,
-      "name": "All The Fucking Time - Acoustic",
-      "url": "https://open.spotify.com/track/5fPehuzkcZkDFFCwf3fRrc"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "Adventure Of A Lifetime Cover",
         "url": "https://open.spotify.com/album/3pWBzzybV6TALYFeITio9s"
       },
@@ -3723,6 +3707,22 @@
       "duration_ms": 164751,
       "name": "Adventure Of A Lifetime Cover",
       "url": "https://open.spotify.com/track/3a8QqO1PZkgi4Tgj0xgqqM"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "All The Fucking Time",
+        "url": "https://open.spotify.com/album/03XismopzA2tyBMH58uE7k"
+      },
+      "artists": [
+        {
+          "name": "Loote",
+          "url": "https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ"
+        }
+      ],
+      "duration_ms": 149973,
+      "name": "All The Fucking Time - Acoustic",
+      "url": "https://open.spotify.com/track/5fPehuzkcZkDFFCwf3fRrc"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -3811,22 +3811,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Don't Be So Hard On Yourself Loop Cover",
-        "url": "https://open.spotify.com/album/4VAbXZj1suzgoim5DBsvc5"
-      },
-      "artists": [
-        {
-          "name": "Ben Woodward",
-          "url": "https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn"
-        }
-      ],
-      "duration_ms": 188499,
-      "name": "Don't Be So Hard On Yourself Loop Cover",
-      "url": "https://open.spotify.com/track/2wV91wmcT3Qn2SxsfTVRsq"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "Treasure",
         "url": "https://open.spotify.com/album/0tjjpAzSDFMtBJlEXgFMeL"
       },
@@ -3883,6 +3867,22 @@
       "duration_ms": 237787,
       "name": "Together - Acoustic Mix",
       "url": "https://open.spotify.com/track/51C20lcDkg9p8BYo7ugzfS"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Don't Be So Hard On Yourself Loop Cover",
+        "url": "https://open.spotify.com/album/4VAbXZj1suzgoim5DBsvc5"
+      },
+      "artists": [
+        {
+          "name": "Ben Woodward",
+          "url": "https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn"
+        }
+      ],
+      "duration_ms": 188499,
+      "name": "Don't Be So Hard On Yourself Loop Cover",
+      "url": "https://open.spotify.com/track/2wV91wmcT3Qn2SxsfTVRsq"
     },
     {
       "added_at": "2023-10-23 17:16:09",

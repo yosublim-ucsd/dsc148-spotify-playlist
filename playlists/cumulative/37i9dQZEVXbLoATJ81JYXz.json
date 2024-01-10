@@ -1990,7 +1990,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 305765,
       "name": "Babblarnas vaggvisa",
       "url": "https://open.spotify.com/track/4lQfnSLKKSKlep9ASNoTbo"
@@ -2244,7 +2244,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 168000,
       "name": "Banan Melon Kiwi & Citron",
       "url": "https://open.spotify.com/track/2ZfaBbRMcEgSF8JnJIaEBP"
@@ -17246,7 +17246,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -17990,7 +17990,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 114893,
       "name": "Ma Vie",
       "url": "https://open.spotify.com/track/37ONaNxwAfZEdjkUS9PZTq"
@@ -23508,7 +23508,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
@@ -26768,6 +26768,24 @@
       "duration_ms": 185120,
       "name": "Stereo Love - Radio Edit",
       "url": "https://open.spotify.com/track/11Iv8RCFmeImLOpaHYxKb4"
+    },
+    {
+      "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
     },
     {
       "album": {

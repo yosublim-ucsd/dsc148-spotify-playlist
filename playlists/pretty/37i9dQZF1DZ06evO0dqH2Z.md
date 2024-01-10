@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0dqH2Z.md) - [plain]
 | 30 | [New Detroit](https://open.spotify.com/track/1n2OIgDDCHgm0YpvK62OLx) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [I Won't Care How You Remember Me](https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7) | 2:44 |
 | 31 | [Swear](https://open.spotify.com/track/2vn4MzB2p1jv8HTZzArG0J) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Old Clothes](https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx) | 2:39 |
 | 32 | [Nervous Kids](https://open.spotify.com/track/2lVXTGaCiCi4N6POZGrcyh) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Charmer](https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI) | 2:55 |
-| 33 | [Crystal Vision](https://open.spotify.com/track/7EFukKfVHrKBqk5uMvOA6w) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Spirit Desire](https://open.spotify.com/album/2BS5nxXE6hjWQRplpfxrib) | 4:26 |
+| 33 | [Return](https://open.spotify.com/track/5KljkeqE8yAZT177FApDsC) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP) | 1:42 |
 | 34 | [Commit](https://open.spotify.com/track/1CLnmxh6Inys4vSibwM4ud) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [I Won't Care How You Remember Me](https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7) | 2:33 |
-| 35 | [Return](https://open.spotify.com/track/5KljkeqE8yAZT177FApDsC) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP) | 1:42 |
+| 35 | [Crystal Vision](https://open.spotify.com/track/7EFukKfVHrKBqk5uMvOA6w) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Spirit Desire](https://open.spotify.com/album/2BS5nxXE6hjWQRplpfxrib) | 4:26 |
 | 36 | [Fake Death](https://open.spotify.com/track/55OAsuWSj4o87WbNJZOSSX) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Fake Death](https://open.spotify.com/album/5l0wHhmCKy7E2IMwOsbtsF) | 2:08 |
 | 37 | [Reckless](https://open.spotify.com/track/4HMwxrEa9kRd4guVQZy9Cp) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Old Clothes](https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx) | 3:38 |
 | 38 | [Eyes Shut](https://open.spotify.com/track/6JzgPzivpGAf1Nu5nKHahR) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Eyes Shut](https://open.spotify.com/album/0gFa8rxnAO3XOBTjX0ETfR) | 2:45 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0dqH2Z.md) - [plain]
 | 42 | [Test Pattern](https://open.spotify.com/track/3Jg47BnPUcqwXnjvgOnnTL) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP) | 2:20 |
 | 43 | [Two Worlds](https://open.spotify.com/track/36Xh8ttDu0NOUvTQ4KhjpT) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn) | 2:28 |
 
-Snapshot ID: `Mjg0MTE5MDAsMDAwMDAwMDBmY2UxMDVkMjIyMmU4ZWMyYzg4YjViNzdjNTRjODE0OA==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDA3MTBiY2E2YTQ5Zjg1NTBkM2MxZTNhMDU5NmYyYzRjNg==`

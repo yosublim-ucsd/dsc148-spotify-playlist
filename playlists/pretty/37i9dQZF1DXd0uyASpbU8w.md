@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world.Cover: <a href="https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB?si=eK0sNB\-6TQ2w5vCpN9OThQ">Lewis Capaldi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,414 likes - 49 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,404 likes - 49 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 48 | [ZONKE](https://open.spotify.com/track/7aru4qvoUgVeWsG4YZqXab) | [Lil Mö](https://open.spotify.com/artist/5gl47e286W4H9y9oVcgJ82), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg) | [ZONKE](https://open.spotify.com/album/1KUbzaqYDNbcTb4DKp0TDu) | 8:08 |
 | 49 | [Asizolala](https://open.spotify.com/track/6O3VgZTokSi8inZSH4nlSZ) | [Marthe](https://open.spotify.com/artist/11LLLhmioRwkPeNLGUok3N), [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be) | [Asizolala](https://open.spotify.com/album/7wvweQBzRcn6RvXzArXzHV) | 4:52 |
 
-Snapshot ID: `MCxhZGI4ZjJhZjZlZDFkYWU5NGQ4NjNlMDI5ZTk1NzgyZTZjMTdkYzli`
+Snapshot ID: `MCw2NDVkNjlkODEyMTE3MGM1ZDk5MmY0ZWZjYjk1MDgwZmZkZjk0YmJi`

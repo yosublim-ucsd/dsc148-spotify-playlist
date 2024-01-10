@@ -4,7 +4,7 @@
 
 > Beat the traffic blues with these killer tunes.
 
-386 songs - 20 hr 19 min
+387 songs - 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [NNEKA \(feat\. Tekno\)](https://open.spotify.com/track/0mYgEZ0CNnEAGBKpxD1fgv) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Sad Romance \(Deluxe\)](https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ) | 3:15 | 2023-06-16 | 2023-06-23 |
 | [No Money](https://open.spotify.com/track/2wS10dgPSZ3EmQdYCbwSsy) | [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [OmoAkin](https://open.spotify.com/artist/1JNn0khn6hvlOZacF7VVUh) | [Global Party](https://open.spotify.com/album/1NJRIStQQb5jBuoQVdcJ6y) | 2:57 | 2023-03-25 | 2023-05-12 |
 | [No More](https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No More](https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk) | 3:02 | 2023-06-30 | 2023-09-28 |
+| [No Regrets](https://open.spotify.com/track/1Bi8XmQs9vNPPkMQ3wyOux) | [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No Regrets](https://open.spotify.com/album/7nmxATrQKN8u04O0IASv0b) | 2:25 | 2024-01-05 |  |
 | [No Wahala \- Remix](https://open.spotify.com/track/4yaPPFIafaVaMRHZ5IHkbA) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [No Wahala \(Remix\)](https://open.spotify.com/album/1CuCITWTEr6lE2q3MraOSG) | 2:58 | 2022-06-09 | 2022-10-31 |
 | [No Wam](https://open.spotify.com/track/2ZoMTHk3A1IiChH9h6BW5b) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [No Wam](https://open.spotify.com/album/72EQ052XrPOGeHp1M7ruYE) | 3:03 | 2023-10-13 | 2023-11-17 |
 | [No Woman No Cry](https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Marvel](https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa) | [Black Panther: Wakanda Forever Prologue](https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM) | 3:33 | 2022-07-28 | 2023-01-21 |
@@ -361,7 +362,7 @@
 | [Trumpet](https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Trumpet](https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m) | 3:08 | 2023-04-20 |  |
 | [Tupac](https://open.spotify.com/track/2WA0ROd9Vxjb83hTFah5CK) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Tupac](https://open.spotify.com/album/1uLVlQFylIj6Fl2zi6r4Hs) | 3:34 | 2023-12-01 | 2023-12-08 |
 | [Ufunani](https://open.spotify.com/track/5nX638hSv1ytKMxhvTyv0D) | [PureVibe](https://open.spotify.com/artist/2hjHwiL6ln5kCbNy5HvnuE), [Robot Boii](https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp), [M.J](https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P), [DJ Mic Smith](https://open.spotify.com/artist/55vSMtCiV6fMgUMh9TEl6i), [Seven Step](https://open.spotify.com/artist/7huIKPqSXtNttCCgl7EnKb) | [Ufunani](https://open.spotify.com/album/0nd1m6PcjvxVPyKVidTB4s) | 4:34 | 2022-10-13 | 2022-10-22 |
-| [Unfortunately](https://open.spotify.com/track/6vvZsgPWTtMqfCPPwz2fDP) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [PALMWINE DIARIES VOL.1](https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N) | 4:00 | 2023-09-14 |  |
+| [Unfortunately](https://open.spotify.com/track/6vvZsgPWTtMqfCPPwz2fDP) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [PALMWINE DIARIES VOL.1](https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N) | 4:00 | 2023-09-14 | 2024-01-10 |
 | [Unpopular Opinion](https://open.spotify.com/track/2VMgrVGZQIomFhkzCpk7aY) | [Bayku](https://open.spotify.com/artist/30Eo3UG8VwGf7b5h60qOlK), [Adina Thembi](https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d) | [Unpopular Opinion](https://open.spotify.com/album/6aGobIl5NY5CGDfxi0Q0jK) | 3:11 | 2022-10-13 | 2022-10-31 |
 | [Vanilla](https://open.spotify.com/track/5CFIAgBLBm53lMElR7oaVJ) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [A Wonderful Time](https://open.spotify.com/album/0qbHtNyI6S1uDvIi3alx6N) | 1:33 | 2023-11-10 | 2023-12-08 |
 | [Vero](https://open.spotify.com/track/0yjxAenLJwPCCcn19XSYG3) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Vero](https://open.spotify.com/album/7fshzXhS2s2VwC9bvzBFiC) | 2:04 | 2023-06-30 | 2023-09-29 |

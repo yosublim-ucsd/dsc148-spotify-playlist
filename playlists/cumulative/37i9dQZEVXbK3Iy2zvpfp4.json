@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/7ztsvXsYxhTLGoUOUx9Yvv"
@@ -308,6 +308,32 @@
       "duration_ms": 210951,
       "name": "2024",
       "url": "https://open.spotify.com/track/1SWRLrHykgDsPtGtezEf2F"
+    },
+    {
+      "album": {
+        "name": "2024",
+        "url": "https://open.spotify.com/album/4kIGw7F9OTGxKojEM3THlt"
+      },
+      "artists": [
+        {
+          "name": "Ayparia",
+          "url": "https://open.spotify.com/artist/0nTNWXnHMzSj7wRtd3ECos"
+        },
+        {
+          "name": "Armut",
+          "url": "https://open.spotify.com/artist/72Jq4Qx7m1XizJTU5jv9Wj"
+        },
+        {
+          "name": "Ratno",
+          "url": "https://open.spotify.com/artist/1oKl6VIOQMGsXfAUUlD2et"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210951,
+      "name": "2024 - remix",
+      "url": "https://open.spotify.com/track/0eb2w2eIbnyu5YiPznfSD4"
     },
     {
       "album": {
@@ -2123,6 +2149,28 @@
     },
     {
       "album": {
+        "name": "Asi to tak malo by\u0165",
+        "url": "https://open.spotify.com/album/1mfoYbczex1mZX2ByWPYlQ"
+      },
+      "artists": [
+        {
+          "name": "HAMSA",
+          "url": "https://open.spotify.com/artist/7F7BwfiIVqNJtyHXXgUZSB"
+        },
+        {
+          "name": "Impulz",
+          "url": "https://open.spotify.com/artist/3qiu7fPteFVvxeiy1czHuD"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156416,
+      "name": "Asi to tak malo by\u0165",
+      "url": "https://open.spotify.com/track/4DgyEczHepsj3KhfuXrxaC"
+    },
+    {
+      "album": {
         "name": "Tell Me It's Real (Expanded Edition)",
         "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
       },
@@ -3452,7 +3500,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 200547,
       "name": "Bez Slov",
       "url": "https://open.spotify.com/track/19xYYkLyLhwNmN4TKglHZo"
@@ -5008,7 +5056,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 175333,
       "name": "Caramelldansen",
       "url": "https://open.spotify.com/track/7MwwPyZJ7UKFROj2oVnH6R"
@@ -5410,6 +5458,36 @@
       "duration_ms": 178908,
       "name": "Chill Like That",
       "url": "https://open.spotify.com/track/6rLyDeWcz8GDRkg8F9SqgL"
+    },
+    {
+      "album": {
+        "name": "Chipi Chipi Chapa Chapa",
+        "url": "https://open.spotify.com/album/5F1cOAxZbtA379LrMe59ZH"
+      },
+      "artists": [
+        {
+          "name": "lusttqwe",
+          "url": "https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR"
+        },
+        {
+          "name": "lorche",
+          "url": "https://open.spotify.com/artist/644qnZiBHVcjcMCHsiV0PL"
+        },
+        {
+          "name": "bexter",
+          "url": "https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n"
+        },
+        {
+          "name": "Kairas",
+          "url": "https://open.spotify.com/artist/3Ug4eAerBcBlwia1oHosMY"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226324,
+      "name": "Chipi Chipi Chapa Chapa",
+      "url": "https://open.spotify.com/track/0t33mdnOe8aMhO5BtRHgH5"
     },
     {
       "album": {
@@ -5886,7 +5964,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 253076,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3"
@@ -5912,6 +5990,24 @@
       "duration_ms": 267920,
       "name": "Consume (feat. Goon Des Garcons)",
       "url": "https://open.spotify.com/track/0X2bh8NVQ8svDQIn2AdCbW"
+    },
+    {
+      "album": {
+        "name": "cool",
+        "url": "https://open.spotify.com/album/0lcEeyRb0qLz0ZDq2iZ37Y"
+      },
+      "artists": [
+        {
+          "name": "Grey256",
+          "url": "https://open.spotify.com/artist/66bgEhG3GXDBGNZEJKs8bM"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180242,
+      "name": "cool",
+      "url": "https://open.spotify.com/track/3ccodz9WzM5L385hQbxbYW"
     },
     {
       "album": {
@@ -9075,6 +9171,24 @@
     },
     {
       "album": {
+        "name": "Fckn Vzor",
+        "url": "https://open.spotify.com/album/57fcrT62iB1qH5yypoYax2"
+      },
+      "artists": [
+        {
+          "name": "Nina Janova",
+          "url": "https://open.spotify.com/artist/69Uk6KRul4PsaZkC0MNvvN"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125714,
+      "name": "Fckn Vzor",
+      "url": "https://open.spotify.com/track/3C9TUpIOPELEghxZY0vGVF"
+    },
+    {
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -9148,6 +9262,28 @@
       "duration_ms": 311000,
       "name": "FELDOBOM A K\u00d6VET",
       "url": "https://open.spotify.com/track/69tDcXG8O8BZ8jTTzySi4Q"
+    },
+    {
+      "album": {
+        "name": "Felicidad (De la serie 'Berl\u00edn' de Netflix)",
+        "url": "https://open.spotify.com/album/5YeZ6BoqHtO60NLH1R1pkQ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Alonso",
+          "url": "https://open.spotify.com/artist/3ZKd5UA8cotv3Zx6DKl2PO"
+        },
+        {
+          "name": "Tristan Ulloa",
+          "url": "https://open.spotify.com/artist/6SeRILwpI0BvkRbAbVeq8M"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200735,
+      "name": "Felicidad (De la serie 'Berlin' de Netflix)",
+      "url": "https://open.spotify.com/track/1oANTqqfbOVwOX59aAeQOO"
     },
     {
       "album": {
@@ -10190,7 +10326,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 146531,
       "name": "F\u039bSHION",
       "url": "https://open.spotify.com/track/4YQgOgIElFtEvwJQ9ArWL7"
@@ -11206,6 +11342,24 @@
       "duration_ms": 189783,
       "name": "G\u00e1t",
       "url": "https://open.spotify.com/track/1Qzkw4QaTXbVd1TmDzSNOv"
+    },
+    {
+      "album": {
+        "name": "H00DBYAIR",
+        "url": "https://open.spotify.com/album/1OMnOFAcLBsdk9TcAunnIm"
+      },
+      "artists": [
+        {
+          "name": "wzzywrld",
+          "url": "https://open.spotify.com/artist/4tMG97uFOBETyazRgjEFac"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212718,
+      "name": "H00DBYAIR",
+      "url": "https://open.spotify.com/track/5EqYMOxwZyhneCfMU35pMQ"
     },
     {
       "album": {
@@ -20464,7 +20618,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 321560,
       "name": "Nightcrawler (feat. Swae Lee & Chief Keef)",
       "url": "https://open.spotify.com/track/3xby7fOyqmeON8jsnom0AT"
@@ -20666,6 +20820,28 @@
       "duration_ms": 198922,
       "name": "No Wind Resistance!",
       "url": "https://open.spotify.com/track/5zgkOLH6HfY5w8thZoS2jP"
+    },
+    {
+      "album": {
+        "name": "EZER NAP",
+        "url": "https://open.spotify.com/album/2sdrLFENQ7qtygveNHMxel"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        },
+        {
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158325,
+      "name": "No Woman No Cry",
+      "url": "https://open.spotify.com/track/7BHYrsEYySLRs6PcZvvFEm"
     },
     {
       "album": {
@@ -21044,7 +21220,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 211000,
       "name": "Nothing's New",
       "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
@@ -23263,6 +23439,24 @@
     },
     {
       "album": {
+        "name": "Poor But Sexy",
+        "url": "https://open.spotify.com/album/5a6sBodQlRvInBSBiQwhew"
+      },
+      "artists": [
+        {
+          "name": "Berlin Manson",
+          "url": "https://open.spotify.com/artist/0hOM9D2SaLoqltAuEA5fje"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158909,
+      "name": "Poor but Sexy",
+      "url": "https://open.spotify.com/track/3eCHH9qqihkPV48dLK5UXc"
+    },
+    {
+      "album": {
         "name": "IM NAYEON",
         "url": "https://open.spotify.com/album/7yePounUspaQfanDsw6nI0"
       },
@@ -23922,7 +24116,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 210757,
       "name": "PROTECTION CHARM - SLOW & HARD VERSION",
       "url": "https://open.spotify.com/track/3rcw75i7dkInJWy12aR3dO"
@@ -24430,7 +24624,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 330000,
       "name": "RAPINBOX vol.5",
       "url": "https://open.spotify.com/track/5HpJbcgfr9dcDYjSluIRF9"
@@ -29822,7 +30016,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 103500,
       "name": "Think Of Me Once In A While, Take Care",
       "url": "https://open.spotify.com/track/4JdYapRlYv67LnjrkDhZVX"
@@ -34370,7 +34564,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 223190,
       "name": "\u041c\u043e\u0439 \u043c\u0430\u0440\u043c\u0435\u043b\u0430\u0434\u043d\u044b\u0439 (\u042f \u043d\u0435 \u043f\u0440\u0430\u0432\u0430)",
       "url": "https://open.spotify.com/track/1Hg0KhBCuME4PgsTYMBK9y"

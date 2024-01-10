@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Luis Vazquez
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,820 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,221 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 38 | [Ay, Ay, Ay](https://open.spotify.com/track/1K3dJsDTQouwqmTC5tfpzg) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Ay, Ay, Ay](https://open.spotify.com/album/46s563q4qhwESZBJ4GI5yD) | 3:28 |
 | 39 | [Amigos \(con Maria Becerra\) \- Bachata](https://open.spotify.com/track/1WKrbAsxU1btgN76QZiZUS) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Amigos \(con Maria Becerra\) \[Bachata\]](https://open.spotify.com/album/4W5QL0gMUk8wAG6cp5HGm7) | 3:22 |
 | 40 | [SIN CORAZÓN](https://open.spotify.com/track/3aELj9aOZ14knOMmMbXfZD) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [SEROTONINA](https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H) | 2:17 |
-| 41 | [Bendecido](https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB) | [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Bendecido](https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00) | 3:23 |
-| 42 | [EL YATE \(feat\. Sergio George\) \- Versión Salsa](https://open.spotify.com/track/6BOuw1v7iJbOPYR9PigeJ4) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [EL YATE \(feat\. Sergio George\) \[Versión Salsa\]](https://open.spotify.com/album/6BRLupgfPwOkWkVrtCg9D1) | 3:13 |
+| 41 | [EL YATE \(feat\. Sergio George\) \- Versión Salsa](https://open.spotify.com/track/6BOuw1v7iJbOPYR9PigeJ4) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [EL YATE \(feat\. Sergio George\) \[Versión Salsa\]](https://open.spotify.com/album/6BRLupgfPwOkWkVrtCg9D1) | 3:13 |
+| 42 | [Bendecido](https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB) | [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Bendecido](https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00) | 3:23 |
 | 43 | [ORGULLO](https://open.spotify.com/track/6FChr93F3ECYRaIKwL7DOa) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [DESAHOGO](https://open.spotify.com/album/1mMPzNKVMKcgux2WtZx5ak) | 3:22 |
 | 44 | [Dime Cómo Se Siente](https://open.spotify.com/track/3EJ6TrlfKKiP1PMZhjuT2r) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Dime Cómo Se Siente](https://open.spotify.com/album/4wMRyvWczYmzYRBU6cacKJ) | 2:40 |
 | 45 | [MI HOGAR \(with maye\)](https://open.spotify.com/track/19MC63Kwcy5eETHclYnXhe) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 2:55 |
 | 46 | [El Que Ama Sufre](https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:49 |
 | 47 | [LA FALTA QUE ME HACES \- Bachata Version](https://open.spotify.com/track/2L7Fd4XIh0uxgqYoFt1pT3) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [LA FALTA QUE ME HACES \(Bachata Version\)](https://open.spotify.com/album/0bBc5FTXAPIWwKWzX0oy6x) | 2:51 |
-| 48 | [Para Mi](https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Para Mi](https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k) | 4:27 |
-| 49 | [Otra Oportunidad](https://open.spotify.com/track/14P7QoGuWWFe7xxzmyQA4o) | [Tutto Durán](https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ) | [Otra Oportunidad](https://open.spotify.com/album/0dBnPH1ZzYfB6gOUfRUJOZ) | 3:28 |
+| 48 | [Otra Oportunidad](https://open.spotify.com/track/14P7QoGuWWFe7xxzmyQA4o) | [Tutto Durán](https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ) | [Otra Oportunidad](https://open.spotify.com/album/0dBnPH1ZzYfB6gOUfRUJOZ) | 3:28 |
+| 49 | [Para Mi](https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Para Mi](https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k) | 4:27 |
 | 50 | [El Merengue](https://open.spotify.com/track/6lpGP2JvV7grJ8LBZ5obQS) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 3:09 |
 
-Snapshot ID: `MCwwZWVkMjcwYjc5MDAzZDkzNjQ2ZTNiMDgyYTFlNmEyNGRhNTEwNzFj`
+Snapshot ID: `MCwyMzY0NGU1ZmUxNDVjZGJkYWNiODAyNjJmNWNiYWU0ZDA3NGFiMjI2`

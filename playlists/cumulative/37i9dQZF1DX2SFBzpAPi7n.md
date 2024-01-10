@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: ROYA\(로야\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: KYUHYUN\(규현\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-558 songs - 1 day 10 hr 18 min
+559 songs - 1 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Around You](https://open.spotify.com/track/5pQEVqVONaO8AlWXdmKdye) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [The Last Thing Left](https://open.spotify.com/album/72cFlLceKsrnhEOMugnHNj) | 3:42 | 2022-06-03 | 2022-06-14 |
 | [Ask Me](https://open.spotify.com/track/4QQYy2Z4yeOGQCWHWuoGh9) | [Team Pathfinder](https://open.spotify.com/artist/0Ovm1YUz5fUuMcSRXQJMYn) | [Ask Me](https://open.spotify.com/album/14DqNNH26yfE0nFUUJrW1Y) | 3:39 | 2022-06-23 | 2022-07-26 |
 | [Aspirin Overdose](https://open.spotify.com/track/2k8uwXICRE6Bwy7TZZI2KA) | [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [Neap Paradise](https://open.spotify.com/album/7JSKsWO0xZw7JlQbV8AG9N) | 4:11 | 2022-12-12 | 2022-12-27 |
-| [Astronaut Boy](https://open.spotify.com/track/63AIIigBWh2K3zjuFvvYF8) | [ROYA](https://open.spotify.com/artist/39TCqSkrws4pxZBNtcxIwP) | [Astronaut Boy](https://open.spotify.com/album/6HC3e0omLtCmfc74SvSoLO) | 2:26 | 2024-01-05 |  |
+| [Astronaut Boy](https://open.spotify.com/track/63AIIigBWh2K3zjuFvvYF8) | [ROYA](https://open.spotify.com/artist/39TCqSkrws4pxZBNtcxIwP) | [Astronaut Boy](https://open.spotify.com/album/6HC3e0omLtCmfc74SvSoLO) | 2:26 | 2024-01-05 | 2024-01-10 |
 | [At the end of season](https://open.spotify.com/track/4oGwBJ0qiiRem6XzKoAgUe) | [Crackshot](https://open.spotify.com/artist/4OIvtiUAaPgUT1ZzmVc5yb) | [At the end of season](https://open.spotify.com/album/6iZsMVpUgsbhyc2IejVaYo) | 4:59 | 2023-12-06 | 2023-12-14 |
 | [At the end of time](https://open.spotify.com/track/09AS6Z0JHRO3Fspgw13jc2) | [Flower](https://open.spotify.com/artist/73AuOhZRFWIxUQlyTUrrVz) | [At the end of time](https://open.spotify.com/album/4IxbiL2QhOEJx4vZDc2yCW) | 3:45 | 2022-05-02 | 2022-05-12 |
 | [Autumn Color](https://open.spotify.com/track/0gn5tFa1L4r00MgZHa1GyU) | [바비핀스 Bobby Pins](https://open.spotify.com/artist/3IVOVMBeLoJNgb6hGh7OcM) | [Autumn Color](https://open.spotify.com/album/4bacxFhgwgW5p5HWYl88J9) | 4:44 | 2022-04-22 | 2022-04-28 |
@@ -468,6 +468,7 @@
 | [THE PARTY SONG](https://open.spotify.com/track/4mdzylA0MEiuaW2NTUdmuW) | [umu](https://open.spotify.com/artist/0t6IbjlQ9zHvT8PDbe3X6r) | [THE PARTY SONG](https://open.spotify.com/album/3r945C3WcZM28fra78rhqD) | 2:30 | 2023-06-01 | 2023-06-30 |
 | [The Piper](https://open.spotify.com/track/4bkXHH5lvTFY8ijhrl0UXA) | [BUT 벗](https://open.spotify.com/artist/0S5UlGMSHfr2MH6xYlC3UB) | [Better Unique Travel](https://open.spotify.com/album/2xnxgQlR6bhGP79eDrh5U7) | 4:42 | 2022-04-12 | 2022-04-21 |
 | [The Queen](https://open.spotify.com/track/4YR8iin9SJtZluXD0s1LoZ) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [CLEANING UP \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/4WIE1wBrZ2hqzxJdyw7jdG) | 3:28 | 2022-07-08 | 2022-07-23 |
+| [The Story Behind](https://open.spotify.com/track/1FjIg32VDdvHabecHKpe03) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Restart](https://open.spotify.com/album/3lZxrczzvuxPrbJYf8Sdyo) | 4:16 | 2024-01-09 |  |
 | [The Wave 파도](https://open.spotify.com/track/5uIsBpHUamPdpEkiVeKIyT) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [The Wave 파도](https://open.spotify.com/album/25MHFHuE0XqzgCYncmiFIE) | 4:42 | 2022-04-12 | 2022-04-21 |
 | [Thelma & Louise](https://open.spotify.com/track/0O1keBwfQKJxZK0qfwhEXn) | [Harrybigbutton](https://open.spotify.com/artist/0ePqNOsEhh6mPuKWLhggld) | [Thelma & Louise](https://open.spotify.com/album/1zQHPJd2bpykSQpqlYHsUT) | 3:32 | 2022-04-12 | 2022-05-12 |
 | [then](https://open.spotify.com/track/4QxYmsSK2bjNVwUspuogC0) | [DICKPUNKS](https://open.spotify.com/artist/2g1DmQlx7A9z1ctK0dNlen) | [then](https://open.spotify.com/album/2ySsYhkj4D4mTIYcvPH5tu) | 4:16 | 2022-04-12 | 2022-04-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXakVTmpoTAP.md) - [plain]
 
 > Songs that show your dad love and appreciation
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,213 likes - 36 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,212 likes - 36 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXakVTmpoTAP.md) - [plain]
 | 16 | [Papa's Got A Brand New Bag](https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 2:08 |
 | 17 | [My Old Man](https://open.spotify.com/track/4ewRM5SP4YhmlfKhi5uSjS) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:41 |
 | 18 | [My Old Man](https://open.spotify.com/track/0jyYstiiibkN6xlS7INejg) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Welcome Home](https://open.spotify.com/album/5LRfS1XH7dItLBnRfzcXtH) | 3:47 |
-| 19 | [Daddy Sang Bass](https://open.spotify.com/track/6cyQhHuw8lEXgHGJlXUiR9) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Holy Land](https://open.spotify.com/album/2nydwfDSmSmJaFTNsWK1kG) | 2:20 |
-| 20 | [I Loved Her First](https://open.spotify.com/track/7KeVXnlNls1D3BMa0oxgUW) | [Heartland](https://open.spotify.com/artist/6B10yUcmUVw4RPKe6j58E9) | [I Loved Her First](https://open.spotify.com/album/02NyoAKJJYUNoiwbfvt76S) | 3:32 |
+| 19 | [I Loved Her First](https://open.spotify.com/track/7KeVXnlNls1D3BMa0oxgUW) | [Heartland](https://open.spotify.com/artist/6B10yUcmUVw4RPKe6j58E9) | [I Loved Her First](https://open.spotify.com/album/02NyoAKJJYUNoiwbfvt76S) | 3:32 |
+| 20 | [Daddy Sang Bass](https://open.spotify.com/track/6cyQhHuw8lEXgHGJlXUiR9) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Holy Land](https://open.spotify.com/album/2nydwfDSmSmJaFTNsWK1kG) | 2:20 |
 | 21 | [Father and Daughter](https://open.spotify.com/track/4aU1zq0W9Ftg1UAQSj4aHN) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Surprise](https://open.spotify.com/album/3BgJSYve7Hvp80NZ6JWTmK) | 4:11 |
 | 22 | [Butterfly Kisses](https://open.spotify.com/track/1mwCSKK0YRDsgnj2VwyZSU) | [Bob Carlisle](https://open.spotify.com/artist/4PJHDzdFoQcklrWU18QdsU) | [Simply Bob Carlisle](https://open.spotify.com/album/164ZlumFzgmF1ahd7gzyDn) | 5:40 |
 | 23 | [Winter \- 2015 Remaster](https://open.spotify.com/track/11dfOCV0oBxzZ9fi2PZhvS) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Little Earthquakes \(Deluxe Edition\)](https://open.spotify.com/album/5bxqwBKvCyB67zOEVCrFZE) | 5:41 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXakVTmpoTAP.md) - [plain]
 | 35 | [Anything Like Me](https://open.spotify.com/track/74mZKvZcZzzvbOnt8NfWda) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Hits Alive](https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS) | 4:28 |
 | 36 | [When She Grows Up](https://open.spotify.com/track/44Fg7XesYHN9RIpg6oggLk) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [Never Regret](https://open.spotify.com/album/0iRTiQTZCcXvL4kd1lfk7X) | 3:50 |
 
-Snapshot ID: `MCw2ODhiNTc3NTRjNTQxNzYxMzZhZDkzOTM1NDMxNGRhZjk1ZDE1YTNk`
+Snapshot ID: `MCxiNTFiNWIzM2U0NGY0NmY5NzBmYjBhN2Y2ZmI5OWQyMmUwOGZjZmI3`

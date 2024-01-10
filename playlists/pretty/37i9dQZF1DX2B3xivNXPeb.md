@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 
 > Whether you're cooking or pottering about, here's an all\-day soundtrack to enjoy in the comfort of your own home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,532 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,535 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,14 +90,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 80 | [Bad Company](https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Bad Company](https://open.spotify.com/album/3MlSmLLpAxtf1C9JMTy230) | 3:38 |
 | 81 | [The Hardest Part \(feat\. Leon Bridges\)](https://open.spotify.com/track/5Me4zF8CC68wmkZyI5rFDR) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [The Hardest Part](https://open.spotify.com/album/2deMeM43Oj3TFZjvpHwxUI) | 2:56 |
 | 82 | [BBQ Energy](https://open.spotify.com/track/4DtcpnCRFpCTlTEX8KF0j2) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Adam Flowers](https://open.spotify.com/artist/1SggEYhzQY4qw4c9lDIIaq), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Tunnel Vision](https://open.spotify.com/album/5H4AuKv8BhLdZjW8Ra0Ovv) | 3:06 |
-| 83 | [Please Love Me Again](https://open.spotify.com/track/4b605Ezmi2n7Oyk4vbdhsh) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Please Love Me Again](https://open.spotify.com/album/6DBdEhwchCMmQFJh5mhFXt) | 3:06 |
-| 84 | [Courtyard Theatre](https://open.spotify.com/track/3sKMUyp6Z2Ex9aFPv03xZd) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Dublin Sessions](https://open.spotify.com/album/5dFdSNChr9iVoEMBdCVB4w) | 3:09 |
+| 83 | [Courtyard Theatre](https://open.spotify.com/track/3sKMUyp6Z2Ex9aFPv03xZd) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Dublin Sessions](https://open.spotify.com/album/5dFdSNChr9iVoEMBdCVB4w) | 3:09 |
+| 84 | [Please Love Me Again](https://open.spotify.com/track/4b605Ezmi2n7Oyk4vbdhsh) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Please Love Me Again](https://open.spotify.com/album/6DBdEhwchCMmQFJh5mhFXt) | 3:06 |
 | 85 | [I Need \- Mav's Version](https://open.spotify.com/track/5PfmVIO6dwDTDL4u2ICfMd) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Lonely Are the Brave \(Mav's Version\)](https://open.spotify.com/album/62MJBLFK4G1AM9ZZS0p3Ph) | 3:59 |
 | 86 | [Taurus](https://open.spotify.com/track/03jLQhVcW1wyHpGaATzbQW) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Taurus](https://open.spotify.com/album/65PxIf97kRctYT8rshapFc) | 3:06 |
 | 87 | [Wasted](https://open.spotify.com/track/3dpCarDMIp7RFxdUQ45Ccm) | [Alfie Sharp](https://open.spotify.com/artist/00BVhzOhPeFH9fVVCNqF9P) | [Wasted](https://open.spotify.com/album/3HUWH7rKToMqZDBuX2ECAa) | 4:02 |
 | 88 | [Angels & Queens](https://open.spotify.com/track/2jzS9aY0dLR4TI6tlnLMTO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \- Part I \(Track by Track\)](https://open.spotify.com/album/3RWX330xVrZqAQ5JpSyI7h) | 3:19 |
-| 89 | [The Love I Need](https://open.spotify.com/track/6kMz52ZCGAPfeoVrZM759i) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA), [Tiece](https://open.spotify.com/artist/0UbTE69ThKzx2DaD3M496P) | [Girlhood](https://open.spotify.com/album/3WSp38o6QVGRbRRvhUrb7M) | 3:23 |
-| 90 | [At What Cost](https://open.spotify.com/track/45dq2Tj670CC0WOZEFashZ) | [Ella More](https://open.spotify.com/artist/727Q7I2a8uB63eFKd4N38p) | [At What Cost](https://open.spotify.com/album/0EMkOcbLfE9zCeDVjxLqsL) | 4:16 |
+| 89 | [At What Cost](https://open.spotify.com/track/45dq2Tj670CC0WOZEFashZ) | [Ella More](https://open.spotify.com/artist/727Q7I2a8uB63eFKd4N38p) | [At What Cost](https://open.spotify.com/album/0EMkOcbLfE9zCeDVjxLqsL) | 4:16 |
+| 90 | [The Love I Need](https://open.spotify.com/track/6kMz52ZCGAPfeoVrZM759i) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA), [Tiece](https://open.spotify.com/artist/0UbTE69ThKzx2DaD3M496P) | [Girlhood](https://open.spotify.com/album/3WSp38o6QVGRbRRvhUrb7M) | 3:23 |
 | 91 | [Scream \(Funk My Life Up\)](https://open.spotify.com/track/56oQl8ABVlcZlJN43wooTd) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Caustic Love](https://open.spotify.com/album/7M0WhcuEYzzeQwTNy1bDDO) | 3:09 |
 | 92 | [Nostalgia \(feat\. Taura\)](https://open.spotify.com/track/6TajNVI83TPoOEc3PCzcIt) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Nostalgia](https://open.spotify.com/album/3afE6m4GD6Wv8sl3EUyFD7) | 3:43 |
 | 93 | [Resting State](https://open.spotify.com/track/2PwJU6fEjoThOXal3axKEf) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Resting State](https://open.spotify.com/album/3RMcQ8d4hH9nK2hBNKx8Gy) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 99 | [King Midas](https://open.spotify.com/track/1omlDv3oJVn3ja7RSkylNO) | [Martha Reeves & The Sweet Things](https://open.spotify.com/artist/1trYvrkVZhSKtxCVsWqBmN) | [Willie Dynamite \(Music From The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6FLxZKLlbpS9OjdwhdRbGO) | 4:51 |
 | 100 | [East End Coast](https://open.spotify.com/track/1RSaRPRiGcBT3yK9qIJ68E) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Borderline](https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz) | 3:46 |
 
-Snapshot ID: `MCwxNmIxNWI2NjE3YjZlZGMxOTg3ZmYxZTUzOTY5ZWJkZDIxYjk0NTJj`
+Snapshot ID: `MCw5MjcwMTNkMzg1N2IzMzZjMjRiZDgxOWIxNjVmNWNhYmFiZWVhYTM2`

@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 11041,
+  "num_followers": 11044,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmUxNGEwNTE2MDBjYmVmOTBkNDZkNDU3MzI3NjY0MGJjN2E5ZDZk",
+  "snapshot_id": "MCwzYjNmZTNjN2I4ZDA1ZTdjNmQyNTY4ZTA4NGQwOWUzYjVmMGVkMDI2",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Dust My Broom",
-        "url": "https://open.spotify.com/album/2EtFRWTnIw4nLsMI3KZcQq"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 150667,
-      "name": "Shake Your Money Maker",
-      "url": "https://open.spotify.com/track/3JPC78sNlPaiZ1NgztXW2Q"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Keep On",
         "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 114784,
       "name": "We've Got The Music",
       "url": "https://open.spotify.com/track/0nWPSw3PHjRTirJ9BAsZnb"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Dust My Broom",
+        "url": "https://open.spotify.com/album/2EtFRWTnIw4nLsMI3KZcQq"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 150667,
+      "name": "Shake Your Money Maker",
+      "url": "https://open.spotify.com/track/3JPC78sNlPaiZ1NgztXW2Q"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -335,18 +335,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Everything I Need",
-        "url": "https://open.spotify.com/album/6XGCDSommzsbG2lDSldCEy"
+        "name": "Benton County Relic",
+        "url": "https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu"
       },
       "artists": [
         {
-          "name": "Aynsley Lister",
-          "url": "https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU"
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
         }
       ],
-      "duration_ms": 223640,
-      "name": "Soundman",
-      "url": "https://open.spotify.com/track/0QiCMItV7fotSykjjha7o3"
+      "duration_ms": 143013,
+      "name": "Get Your Groove On",
+      "url": "https://open.spotify.com/track/7rTMCY2QFWN8iHD1JjCWye"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -367,18 +367,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Benton County Relic",
-        "url": "https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu"
+        "name": "Everything I Need",
+        "url": "https://open.spotify.com/album/6XGCDSommzsbG2lDSldCEy"
       },
       "artists": [
         {
-          "name": "Cedric Burnside",
-          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+          "name": "Aynsley Lister",
+          "url": "https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU"
         }
       ],
-      "duration_ms": 143013,
-      "name": "Get Your Groove On",
-      "url": "https://open.spotify.com/track/7rTMCY2QFWN8iHD1JjCWye"
+      "duration_ms": 223640,
+      "name": "Soundman",
+      "url": "https://open.spotify.com/track/0QiCMItV7fotSykjjha7o3"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Down Home Mojo",
-        "url": "https://open.spotify.com/album/3ERQDgDldAaWSZIJj9R9iz"
-      },
-      "artists": [
-        {
-          "name": "Tony Spinner",
-          "url": "https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z"
-        }
-      ],
-      "duration_ms": 291720,
-      "name": "Sweet Thang",
-      "url": "https://open.spotify.com/track/3WxhLjbfNgVM6R2zMA3wIy"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Stronger For It",
         "url": "https://open.spotify.com/album/1sCv9I6R8QMWsjSG9yxJcA"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 156773,
       "name": "Whoop And Holler",
       "url": "https://open.spotify.com/track/0rOgDYmxNfgSlHyIuvBt5z"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Down Home Mojo",
+        "url": "https://open.spotify.com/album/3ERQDgDldAaWSZIJj9R9iz"
+      },
+      "artists": [
+        {
+          "name": "Tony Spinner",
+          "url": "https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z"
+        }
+      ],
+      "duration_ms": 291720,
+      "name": "Sweet Thang",
+      "url": "https://open.spotify.com/track/3WxhLjbfNgVM6R2zMA3wIy"
     },
     {
       "added_at": "2020-12-01 05:01:00",

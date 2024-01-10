@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wDj1z.md) - [plain]
 
 > This is Sergio Vega "El Shaka"\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,381 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,403 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wDj1z.md) - [plain]
 | 47 | [Como la Lluvia](https://open.spotify.com/track/0KHmN9FByUeQ0FEKbmOPPF) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Desde el Cielo](https://open.spotify.com/album/3NLkn2oW8lkfe6pLbTQiRV) | 2:52 |
 | 48 | [Quince Minutos De Ti](https://open.spotify.com/track/2fczBn1fEYW5vJASRovoln) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Millonario De Amor](https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ) | 4:02 |
 | 49 | [Plaza Nueva](https://open.spotify.com/track/4MXM9jLq0ut2QXg1NPZRAm) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Puros Corridos Y Rancheras](https://open.spotify.com/album/2aiwlEGVGSWyYF8HwooOpd) | 3:20 |
-| 50 | [El Cuatro](https://open.spotify.com/track/7CXITsuiY2lg4u0PAa0foj) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [30 Anos](https://open.spotify.com/album/59StiRT1AuVJIaZn2igYWL) | 3:11 |
+| 50 | [Alineando Cabrones \- En Vivo](https://open.spotify.com/track/7dvkjvHPjiKhVoZrl7HfQo) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [En Vivo \- Fiesta Privada](https://open.spotify.com/album/59BaFl2GHwAHNkkdvOvhAc) | 5:04 |
 
-Snapshot ID: `Mjg0MTE5MDAsMDAwMDAwMDA0ZTRiMWU4YTYwMTE4MWNlMTU3ZmU5MWM0MDc1MWI1MQ==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDAzNmVmMDFlZTg5ODVkMTZmODI2MGUwZjFlZWJhODg0Zg==`

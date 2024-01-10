@@ -1,12 +1,12 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. El Malilla en portada.",
-  "num_followers": 621614,
+  "num_followers": 621897,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjE0ZDJjM2Q5MDM2NmNmZWUwMWIxMDcyZTgwMTQ3MjhkYTBiZTVm",
+  "snapshot_id": "MCxkZGNiNzI0OTJkNjI1YjkzZmVlMTQyZTM4YzY5MzY1ZTM4OTZhNDlk",
   "tracks": [
     {
       "added_at": "2024-01-05 06:00:00",
@@ -255,6 +255,26 @@
     {
       "added_at": "2024-01-05 06:00:00",
       "album": {
+        "name": "Poco A Poco",
+        "url": "https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 156040,
+      "name": "Poco A Poco",
+      "url": "https://open.spotify.com/track/4loIMejzvt11s97SGVEat8"
+    },
+    {
+      "added_at": "2024-01-05 06:00:00",
+      "album": {
         "name": "ELOVRGA",
         "url": "https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR"
       },
@@ -279,42 +299,6 @@
     {
       "added_at": "2024-01-05 06:00:00",
       "album": {
-        "name": "Poco A Poco",
-        "url": "https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 156040,
-      "name": "Poco A Poco",
-      "url": "https://open.spotify.com/track/4loIMejzvt11s97SGVEat8"
-    },
-    {
-      "added_at": "2024-01-05 06:00:00",
-      "album": {
-        "name": "O Me Voy O Te Vas",
-        "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 242133,
-      "name": "O Me Voy O Te Vas",
-      "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
-    },
-    {
-      "added_at": "2024-01-05 06:00:00",
-      "album": {
         "name": "Alucin",
         "url": "https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 197114,
       "name": "Alucin",
       "url": "https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS"
+    },
+    {
+      "added_at": "2024-01-05 06:00:00",
+      "album": {
+        "name": "O Me Voy O Te Vas",
+        "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 242133,
+      "name": "O Me Voy O Te Vas",
+      "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
     },
     {
       "added_at": "2024-01-05 06:00:00",
@@ -439,46 +439,6 @@
     {
       "added_at": "2024-01-05 06:00:00",
       "album": {
-        "name": "Mood Malandro",
-        "url": "https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 191558,
-      "name": "Mood Malandro",
-      "url": "https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA"
-    },
-    {
-      "added_at": "2024-01-05 06:00:00",
-      "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 209415,
-      "name": "TULUM",
-      "url": "https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu"
-    },
-    {
-      "added_at": "2024-01-05 06:00:00",
-      "album": {
         "name": "Linea Del Perreo",
         "url": "https://open.spotify.com/album/5QAA9U04wuRM8qnRbrKnOI"
       },
@@ -503,6 +463,46 @@
       "duration_ms": 181137,
       "name": "Linea Del Perreo",
       "url": "https://open.spotify.com/track/1Aa54YEL20kiDPI6f4XGdS"
+    },
+    {
+      "added_at": "2024-01-05 06:00:00",
+      "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 209415,
+      "name": "TULUM",
+      "url": "https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu"
+    },
+    {
+      "added_at": "2024-01-05 06:00:00",
+      "album": {
+        "name": "Mood Malandro",
+        "url": "https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 191558,
+      "name": "Mood Malandro",
+      "url": "https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA"
     },
     {
       "added_at": "2024-01-05 06:00:00",
@@ -603,6 +603,30 @@
     {
       "added_at": "2024-01-05 06:00:00",
       "album": {
+        "name": "Otro Show",
+        "url": "https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU"
+      },
+      "artists": [
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Otro Show",
+      "url": "https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2"
+    },
+    {
+      "added_at": "2024-01-05 06:00:00",
+      "album": {
         "name": "Abcdario",
         "url": "https://open.spotify.com/album/7BgImTrFzm2nQQW59IeFGD"
       },
@@ -643,30 +667,6 @@
       "duration_ms": 202000,
       "name": "Tipo Gatsby",
       "url": "https://open.spotify.com/track/1PTgQ0HyfwbXRKapVPNKxI"
-    },
-    {
-      "added_at": "2024-01-05 06:00:00",
-      "album": {
-        "name": "Otro Show",
-        "url": "https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU"
-      },
-      "artists": [
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Otro Show",
-      "url": "https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2"
     },
     {
       "added_at": "2024-01-05 06:00:00",
@@ -795,26 +795,6 @@
     {
       "added_at": "2024-01-05 06:00:00",
       "album": {
-        "name": "El Correcto",
-        "url": "https://open.spotify.com/album/1mM3IeOAt840NlJXVNWUWH"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 168124,
-      "name": "El Correcto",
-      "url": "https://open.spotify.com/track/4tYgQrGwhpvjfq4ryajgUo"
-    },
-    {
-      "added_at": "2024-01-05 06:00:00",
-      "album": {
         "name": "FIRST LOVE",
         "url": "https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 169440,
       "name": "FIRST LOVE",
       "url": "https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT"
+    },
+    {
+      "added_at": "2024-01-05 06:00:00",
+      "album": {
+        "name": "El Correcto",
+        "url": "https://open.spotify.com/album/1mM3IeOAt840NlJXVNWUWH"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 168124,
+      "name": "El Correcto",
+      "url": "https://open.spotify.com/track/4tYgQrGwhpvjfq4ryajgUo"
     },
     {
       "added_at": "2024-01-05 06:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-01-05 06:00:00",
       "album": {
-        "name": "Bye",
-        "url": "https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 212976,
-      "name": "Bye",
-      "url": "https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb"
-    },
-    {
-      "added_at": "2024-01-05 06:00:00",
-      "album": {
         "name": "PRESENTE",
         "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 190706,
       "name": "Casi Completa",
       "url": "https://open.spotify.com/track/5BTibB0lM8fExn033QebZJ"
+    },
+    {
+      "added_at": "2024-01-05 06:00:00",
+      "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 212976,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb"
     },
     {
       "added_at": "2024-01-05 06:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-01-05 06:00:00",
       "album": {
-        "name": "A\u00daN TE QUIERO",
-        "url": "https://open.spotify.com/album/6ElZodBAzNw2Tsh7eFrK9u"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 205533,
-      "name": "A\u00daN TE QUIERO",
-      "url": "https://open.spotify.com/track/1NI6GSGPQn0EYeW27V2n2n"
-    },
-    {
-      "added_at": "2024-01-05 06:00:00",
-      "album": {
         "name": "DLUX",
         "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 140735,
       "name": "HOUSE OF LUX",
       "url": "https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo"
+    },
+    {
+      "added_at": "2024-01-05 06:00:00",
+      "album": {
+        "name": "A\u00daN TE QUIERO",
+        "url": "https://open.spotify.com/album/6ElZodBAzNw2Tsh7eFrK9u"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 205533,
+      "name": "A\u00daN TE QUIERO",
+      "url": "https://open.spotify.com/track/1NI6GSGPQn0EYeW27V2n2n"
     },
     {
       "added_at": "2024-01-05 06:00:00",

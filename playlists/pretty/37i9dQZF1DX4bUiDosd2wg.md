@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,036 likes - 201 songs - 14 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,045 likes - 201 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,7 +160,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 150 | [광화문에서 \(At Gwanghwamun\)](https://open.spotify.com/track/1YqGY2dW0a9ocyxaB5PtrR) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [광화문에서 At Gwanghwamun \- The 1st Mini Album](https://open.spotify.com/album/0hfvOkRJnV2eVhdy41bbvv) | 4:42 |
 | 151 | [감사](https://open.spotify.com/track/6vL9tLXg2XnsYXndqpIUQS) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [기억속의 멜로디](https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi) | 4:45 |
 | 152 | [Every day, Every Moment](https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Should We Kiss First? \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U) | 3:30 |
-| 153 | [Just Leave Me](https://open.spotify.com/track/3YN0q0v5QtNLtxKJN15cCp) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [The World of the Married, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/4ASs7ts92epzIgCHlnJdIt) | 4:19 |
+| 153 | [Just Leave Me](https://open.spotify.com/track/2Ilx3JTEgcEpWYsZhyh7kW) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [The World of the Married, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3NcHBdgT7kYMoa3xX6jJne) | 4:19 |
 | 154 | [Making a new ending for this story](https://open.spotify.com/track/30H0FtOCtb5jESDvFcxqXZ) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [The 1st Digital Single "Making a new ending for this story"](https://open.spotify.com/album/5lvAt6IG8iOlKm4AVkxsqn) | 4:22 |
 | 155 | [Crazy](https://open.spotify.com/track/6gjmCJkyh45kw4vN7gv99o) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Your Diary](https://open.spotify.com/album/7Dhtxv7ePGy2nBTULdNt9s) | 3:34 |
 | 156 | [그녀를 사랑해줘요](https://open.spotify.com/track/4YQGPR4KGFMnSS8lUQPdbs) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [Stand Alone](https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i) | 4:19 |
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 200 | [별 짓 다해봤는데](https://open.spotify.com/track/19tN2T7F6XUME4zDPd9YuO) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [별 짓 다해봤는데](https://open.spotify.com/album/2fet23moXUqZE7up5vHRVa) | 4:09 |
 | 201 | [늦은 후회](https://open.spotify.com/track/46XH9XZwZKuISZZAieHmke) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [2011 김형석 With Friends Part.1](https://open.spotify.com/album/5VIZj07PjlySAdYgo28An9) | 4:42 |
 
-Snapshot ID: `MCw2NjE2YTY4ODk3MmQyMjMzNWZlYjliNWRkZTZlZWQ1Mjg1MTZjNzdm`
+Snapshot ID: `MCw0YzNkYWM4NzYxODU2NDE1MzUxNWRmMDhmN2I4ODExZmQwNzQzMTM0`

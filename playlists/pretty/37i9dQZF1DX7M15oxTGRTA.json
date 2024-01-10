@@ -1,12 +1,12 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 92515,
+  "num_followers": 92618,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTE2ZGNjZTc3YjE2ZDUyZDhhNTk2NDIwMmFkOGRjOGFkNmJkZmNk",
+  "snapshot_id": "MCw4OTc4M2UxMzgyMzRjNWIzNzQ3YmE1M2Q5ZGZkOWY2YmJmMmIxNjJh",
   "tracks": [
     {
       "added_at": "2023-09-14 19:15:58",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
+        "name": "Karyn White",
+        "url": "https://open.spotify.com/album/2Ck4KnfNbVPQqcRkmsDt6F"
+      },
+      "artists": [
+        {
+          "name": "Karyn White",
+          "url": "https://open.spotify.com/artist/5lJBrQQ88JjskJmJeVKX4F"
+        }
+      ],
+      "duration_ms": 347453,
+      "name": "Superwoman",
+      "url": "https://open.spotify.com/track/3bceL3NJmM8sKwr5dyrKAz"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
         "name": "Diana & Marvin (Expanded Edition)",
         "url": "https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 190440,
       "name": "You Are Everything",
       "url": "https://open.spotify.com/track/1SjqD5q2WvpjOFIklP7sxD"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
-        "name": "Karyn White",
-        "url": "https://open.spotify.com/album/2Ck4KnfNbVPQqcRkmsDt6F"
-      },
-      "artists": [
-        {
-          "name": "Karyn White",
-          "url": "https://open.spotify.com/artist/5lJBrQQ88JjskJmJeVKX4F"
-        }
-      ],
-      "duration_ms": 347453,
-      "name": "Superwoman",
-      "url": "https://open.spotify.com/track/3bceL3NJmM8sKwr5dyrKAz"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Rock Me Tonight",
-        "url": "https://open.spotify.com/album/4S3z4G29Gm2xxkADtVX5IV"
-      },
-      "artists": [
-        {
-          "name": "Freddie Jackson",
-          "url": "https://open.spotify.com/artist/2yaixhgm3yXxjhJAH8SZy3"
-        }
-      ],
-      "duration_ms": 284119,
-      "name": "You Are My Lady",
-      "url": "https://open.spotify.com/track/5MPxgVGxq79wcoNKtlRaTf"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "Jazzy Soul",
         "url": "https://open.spotify.com/album/3n3dFmQjPGQsnAcLK9lu6I"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 250266,
       "name": "Caught Up In the Rapture",
       "url": "https://open.spotify.com/track/5ygOH8xQGicxuxa43vSWwd"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "Rock Me Tonight",
+        "url": "https://open.spotify.com/album/4S3z4G29Gm2xxkADtVX5IV"
+      },
+      "artists": [
+        {
+          "name": "Freddie Jackson",
+          "url": "https://open.spotify.com/artist/2yaixhgm3yXxjhJAH8SZy3"
+        }
+      ],
+      "duration_ms": 284119,
+      "name": "You Are My Lady",
+      "url": "https://open.spotify.com/track/5MPxgVGxq79wcoNKtlRaTf"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Betcha by Golly Wow (Live)",
-        "url": "https://open.spotify.com/album/2jzAgNkPisnXoD5SEOw3Ws"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 253004,
-      "name": "Betcha by Golly Wow (Live)",
-      "url": "https://open.spotify.com/track/0w6qnStMvC77oV25dTSiYg"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "Pride Classics",
         "url": "https://open.spotify.com/album/3vsDQuIiSjseCtQnNkVrIc"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 326586,
       "name": "Never Knew Love Like This Before",
       "url": "https://open.spotify.com/track/2sSQIWjGbrCqVQmTNyivVg"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "Betcha by Golly Wow (Live)",
+        "url": "https://open.spotify.com/album/2jzAgNkPisnXoD5SEOw3Ws"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 253004,
+      "name": "Betcha by Golly Wow (Live)",
+      "url": "https://open.spotify.com/track/0w6qnStMvC77oV25dTSiYg"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
+        "name": "Sweet Love",
+        "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 333533,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/5tPwHmwrwVcdosAvMzzQ2z"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
         "name": "Silky Soul",
         "url": "https://open.spotify.com/album/2IO8mNFG4FS3sdVWUG3qGC"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 317026,
       "name": "Can't Get over You",
       "url": "https://open.spotify.com/track/0JoU0lwoMyWxGkljNJpJoM"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
-        "name": "Sweet Love",
-        "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 333533,
-      "name": "Good Love",
-      "url": "https://open.spotify.com/track/5tPwHmwrwVcdosAvMzzQ2z"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -1648,9 +1648,9 @@
           "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
         }
       ],
-      "duration_ms": 291106,
-      "name": "Me d\u00ea motivos",
-      "url": "https://open.spotify.com/track/30DmZoDNZaaLTWtur7cI66"
+      "duration_ms": 300133,
+      "name": "Um dia de domingo",
+      "url": "https://open.spotify.com/track/41UtrfZQMk8598NmRIbZlt"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -1664,9 +1664,9 @@
           "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
         }
       ],
-      "duration_ms": 300133,
-      "name": "Um dia de domingo",
-      "url": "https://open.spotify.com/track/41UtrfZQMk8598NmRIbZlt"
+      "duration_ms": 291106,
+      "name": "Me d\u00ea motivos",
+      "url": "https://open.spotify.com/track/30DmZoDNZaaLTWtur7cI66"
     }
   ],
   "unique_name": "Melodia & Nostalgia",

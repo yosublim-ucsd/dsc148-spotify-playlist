@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > A fusion of highlife and hip\-hop, these hip\-life jams are undeniable.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,963 likes - 40 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,980 likes - 40 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 22 | [Dondo](https://open.spotify.com/track/6qXsfvpsehSXQqPSS22DKg) | [Bradez](https://open.spotify.com/artist/4NkWh677uYqY9rWwqThNEL), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Dondo](https://open.spotify.com/album/3N2CZfeQGWnlbuMIPodm2A) | 5:51 |
 | 23 | [Yesterday](https://open.spotify.com/track/2lw3bvokPAzxFWsfsWYoOH) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:23 |
 | 24 | [Atweetan](https://open.spotify.com/track/5RUySragatyT0s0BZZbh7b) | [Kofi Nti](https://open.spotify.com/artist/2ms1z7qBF4uLM8hzdjGhL9), [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Rakia](https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T) | 5:06 |
-| 25 | [Metua](https://open.spotify.com/track/5bExIlmqGqjAEqem7Bhg4C) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Metua](https://open.spotify.com/album/7q7TpogtxZn3EZ0hBJWmt3) | 3:49 |
-| 26 | [Falling](https://open.spotify.com/track/3HfwFXzBr7AwLKHyLPGWHL) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 2:45 |
+| 25 | [Falling](https://open.spotify.com/track/3HfwFXzBr7AwLKHyLPGWHL) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 2:45 |
+| 26 | [Metua](https://open.spotify.com/track/5bExIlmqGqjAEqem7Bhg4C) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Metua](https://open.spotify.com/album/7q7TpogtxZn3EZ0hBJWmt3) | 3:49 |
 | 27 | [Sradenam](https://open.spotify.com/track/4u2XhLgP9zISNfkhhKNOKC) | [Castro D’destroyer](https://open.spotify.com/artist/3kF3qKO6Fi9h8weEzynE5e) | [Sradenam](https://open.spotify.com/album/4OrVucfAwfKvIdCL6U8Qlj) | 6:20 |
 | 28 | [Wonderful](https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 3:32 |
 | 29 | [Odo Fitaa](https://open.spotify.com/track/77qXIS8MoYj6AYraubuqlI) | [4x4](https://open.spotify.com/artist/15YwTNQbCiTuFOK62K7Wgu), [Jay Q](https://open.spotify.com/artist/0K69W66TFOOelRh31Xsqvi) | [Jama & Hiplife King](https://open.spotify.com/album/424YWer18KllyHifFrNYSq) | 5:40 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 39 | [Medo \(feat\. Swanzy B\)](https://open.spotify.com/track/4LQoZgv1Gpt4tXGiVpCena) | [Lord Kenya](https://open.spotify.com/artist/4xLgdpyCd591T97qW0EQF7), [Swanzy B](https://open.spotify.com/artist/1gpzzTqs3Dk0TdIWvXrqgP) | [Yeesom Sika](https://open.spotify.com/album/0qqHxYMFjCe0ZpPc3chJsb) | 4:52 |
 | 40 | [Inspector](https://open.spotify.com/track/0MLiCEi33t5Q4rWBOYX7Xp) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Inspector](https://open.spotify.com/album/7dAEr14zqfHWsGun1kkVup) | 3:53 |
 
-Snapshot ID: `MCw2YmQxMjdjYWRjNzhlM2FhMzAxMDBiZDhiNzNmMDNhYmJkNGUzMDM0`
+Snapshot ID: `MCw4YjI0Yjg0OTljYWIxOWY2M2JmMWU3YTkxYTc4ZTJhMTJhZWM4ZGIz`

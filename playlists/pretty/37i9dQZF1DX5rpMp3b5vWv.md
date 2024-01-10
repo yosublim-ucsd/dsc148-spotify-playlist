@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5rpMp3b5vWv.md) - [plain]
 
 > Game time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,189 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,872 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5rpMp3b5vWv.md) - [plain]
 | 49 | [Invincible](https://open.spotify.com/track/792HwhrdO3ErRKL5yRe4Ge) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 2:07 |
 | 50 | [The Grinch](https://open.spotify.com/track/2VKHWIONh47ntN7wyoSxEQ) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 4](https://open.spotify.com/album/5nDqjtvRwDYElIflvoNDdE) | 1:31 |
 
-Snapshot ID: `MCw3MzI0NTNhMzY0ODllZDFhZWM3M2UxZjJjMTM0MzcyNDc5ODg3MDBj`
+Snapshot ID: `MCwyM2IwMGVmM2IyODkwOTlkMTlkMjI5YTMxN2JjNjYxNThiODE2OTRi`

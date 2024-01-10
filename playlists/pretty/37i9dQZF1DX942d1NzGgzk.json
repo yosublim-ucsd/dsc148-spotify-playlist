@@ -1,12 +1,12 @@
 {
   "description": "100% British - 100% R&B. Cover: Essosa ",
-  "num_followers": 137254,
+  "num_followers": 137263,
   "original_name": "R&B UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjJiNGZiYWZhYWVjYTFlZGMyZmFkMWY2ZDA0ZTE4MjUyNjAxMzUz",
+  "snapshot_id": "MCw2NzlkMjRlNWJjMGE4NzMwZjAyMDUzMjFkYzFjZTRkNjNlNTVkZDk3",
   "tracks": [
     {
       "added_at": "2023-11-24 03:09:54",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 246813,
+      "name": "Worth It.",
+      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
+    },
+    {
+      "added_at": "2023-11-24 03:09:54",
+      "album": {
         "name": "Fly Girl (feat. Missy Elliott)",
         "url": "https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 205384,
       "name": "Fly Girl (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr"
-    },
-    {
-      "added_at": "2023-11-24 03:09:54",
-      "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 246813,
-      "name": "Worth It.",
-      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
-        "name": "Little Things",
-        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
-    },
-    {
-      "added_at": "2023-11-24 03:09:54",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 236236,
       "name": "Go Baby",
       "url": "https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73"
+    },
+    {
+      "added_at": "2023-11-24 03:09:54",
+      "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 264826,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
+    },
+    {
+      "added_at": "2023-11-24 03:09:54",
+      "album": {
         "name": "homies",
         "url": "https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 225068,
       "name": "homies",
       "url": "https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv"
-    },
-    {
-      "added_at": "2023-11-24 03:09:54",
-      "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 264826,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -591,6 +591,22 @@
       "duration_ms": 131253,
       "name": "sore loser - Acoustic",
       "url": "https://open.spotify.com/track/4BLMoyEr9bR8RxnyCSCcEx"
+    },
+    {
+      "added_at": "2023-11-24 03:09:54",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 199615,
+      "name": "Self",
+      "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -679,22 +695,6 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 199615,
-      "name": "Self",
-      "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
-    },
-    {
-      "added_at": "2023-11-24 03:09:54",
-      "album": {
         "name": "Free (feat. Tom Misch)",
         "url": "https://open.spotify.com/album/4eoxzgxqIHsMd44siCY4lg"
       },
@@ -731,22 +731,34 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
-        "name": "After the Butterflies",
-        "url": "https://open.spotify.com/album/2fyaGl2f9n6oNUVhf7XJhM"
+        "name": "Dive (Acoustic)",
+        "url": "https://open.spotify.com/album/09x7U9AfNCDOjY0GgB1fr4"
       },
       "artists": [
         {
-          "name": "Queen Naija",
-          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
-        },
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 190498,
-      "name": "All or Nothing (feat. Ella Mai)",
-      "url": "https://open.spotify.com/track/1kCHMAf5TOU97HhuRHNyi1"
+      "duration_ms": 186560,
+      "name": "Dive - Acoustic",
+      "url": "https://open.spotify.com/track/5jC2oXJu7BWpVw9pTBIyRb"
+    },
+    {
+      "added_at": "2023-11-24 03:09:54",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 207239,
+      "name": "Golden Child (Jealous)",
+      "url": "https://open.spotify.com/track/1NHNnN4m39qq0v33BBaib8"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -771,66 +783,42 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
-        "name": "Dive (Acoustic)",
-        "url": "https://open.spotify.com/album/09x7U9AfNCDOjY0GgB1fr4"
+        "name": "After the Butterflies",
+        "url": "https://open.spotify.com/album/2fyaGl2f9n6oNUVhf7XJhM"
       },
       "artists": [
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 186560,
-      "name": "Dive - Acoustic",
-      "url": "https://open.spotify.com/track/5jC2oXJu7BWpVw9pTBIyRb"
+      "duration_ms": 190498,
+      "name": "All or Nothing (feat. Ella Mai)",
+      "url": "https://open.spotify.com/track/1kCHMAf5TOU97HhuRHNyi1"
     },
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
-        "name": "Used Girl",
-        "url": "https://open.spotify.com/album/1eey2MhbcWPrS29wVQZ4BC"
+        "name": "VENOLOGY",
+        "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
       },
       "artists": [
         {
-          "name": "Tallia Storm",
-          "url": "https://open.spotify.com/artist/21Dbw8JMFzg88oB2lkkLlh"
-        }
-      ],
-      "duration_ms": 232762,
-      "name": "Used Girl",
-      "url": "https://open.spotify.com/track/6TdDjjugHtkTNF6pUGre1I"
-    },
-    {
-      "added_at": "2023-11-24 03:09:54",
-      "album": {
-        "name": "Not My Job",
-        "url": "https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3"
-      },
-      "artists": [
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
         {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+          "name": "JVCK JAMES",
+          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
         }
       ],
-      "duration_ms": 174588,
-      "name": "Not My Job",
-      "url": "https://open.spotify.com/track/2W7LjZ16NzpnWaUCBsU7Wp"
-    },
-    {
-      "added_at": "2023-11-24 03:09:54",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 207239,
-      "name": "Golden Child (Jealous)",
-      "url": "https://open.spotify.com/track/1NHNnN4m39qq0v33BBaib8"
+      "duration_ms": 252053,
+      "name": "Sun, Moon & Herbs",
+      "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -855,22 +843,34 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
-        "name": "VENOLOGY",
-        "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
+        "name": "Not My Job",
+        "url": "https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3"
       },
       "artists": [
         {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "JVCK JAMES",
-          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 252053,
-      "name": "Sun, Moon & Herbs",
-      "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
+      "duration_ms": 174588,
+      "name": "Not My Job",
+      "url": "https://open.spotify.com/track/2W7LjZ16NzpnWaUCBsU7Wp"
+    },
+    {
+      "added_at": "2023-11-24 03:09:54",
+      "album": {
+        "name": "Used Girl",
+        "url": "https://open.spotify.com/album/1eey2MhbcWPrS29wVQZ4BC"
+      },
+      "artists": [
+        {
+          "name": "Tallia Storm",
+          "url": "https://open.spotify.com/artist/21Dbw8JMFzg88oB2lkkLlh"
+        }
+      ],
+      "duration_ms": 232762,
+      "name": "Used Girl",
+      "url": "https://open.spotify.com/track/6TdDjjugHtkTNF6pUGre1I"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -907,6 +907,22 @@
       "duration_ms": 232706,
       "name": "In Too Deep (feat. Kiana Led\u00e9)",
       "url": "https://open.spotify.com/track/3nGhp4FuIaitNYn4s7XHaX"
+    },
+    {
+      "added_at": "2023-11-24 03:09:54",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 162767,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/7a8PhNagyGpyzbmAsAg76b"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -959,18 +975,18 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
-        "name": "Heart On My Sleeve (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4a1RnC5ioi77nDnOJXvTKs"
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
       },
       "artists": [
         {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 199833,
-      "name": "Our Song",
-      "url": "https://open.spotify.com/track/0yRitNCPCHtBwOuHh88rzf"
+      "duration_ms": 195275,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -995,34 +1011,34 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+        "name": "Heart On My Sleeve (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4a1RnC5ioi77nDnOJXvTKs"
       },
       "artists": [
         {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 162767,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/7a8PhNagyGpyzbmAsAg76b"
+      "duration_ms": 199833,
+      "name": "Our Song",
+      "url": "https://open.spotify.com/track/0yRitNCPCHtBwOuHh88rzf"
     },
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
+        "name": "EL-MEAN",
+        "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 195275,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
+      "duration_ms": 251501,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -1043,26 +1059,6 @@
       "duration_ms": 155728,
       "name": "long stay (feat. Bakar)",
       "url": "https://open.spotify.com/track/5ie2bMXcmiwk6q8TrP8J1W"
-    },
-    {
-      "added_at": "2023-11-24 03:09:54",
-      "album": {
-        "name": "As You Are - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/0J876nXHrxOSvr895nSLlc"
-      },
-      "artists": [
-        {
-          "name": "Bellah",
-          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
-        },
-        {
-          "name": "Gaidaa",
-          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "As You Are - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/6tDTnxaq8fHXZ63uiseNRH"
     }
   ],
   "unique_name": "R&B UK",

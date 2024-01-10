@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YiLbd.md) - [plain]
 
 > This is Yuki Hayashi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,037 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,041 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YiLbd.md) - [plain]
 | 31 | [2 Heros](https://open.spotify.com/track/5OvaF7T4vGcbKnE9rRaTFQ) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 3:26 |
 | 32 | [三位一体](https://open.spotify.com/track/6mLaZxhLKgeeQBMh0Aj8Uw) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル・サウンドトラック](https://open.spotify.com/album/2gHjS3AtDHtuwLnZT5Ks4E) | 3:44 |
 | 33 | [期待](https://open.spotify.com/track/1YtfQWbOClRDQ4oA4ZuwHl) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [Asami Tachibana](https://open.spotify.com/artist/0F4ybIPzwLfT5xzZQlYBXP) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック](https://open.spotify.com/album/5i5tqedwi7y2ebLEdXCBE7) | 1:38 |
-| 34 | [ヒーローの影](https://open.spotify.com/track/7KKbK2GCMzIuwwS1Y90fDM) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』オリジナル・サウンドトラック](https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S) | 1:54 |
-| 35 | [脅迫\(しんらい\)](https://open.spotify.com/track/0IjxL2zeHbUCdiXXMzBH7j) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!!TO THE TOP』オリジナル・サウンドトラック](https://open.spotify.com/album/1WWNN8hEJjPZ80lrG8rxbh) | 2:21 |
+| 34 | [脅迫\(しんらい\)](https://open.spotify.com/track/0IjxL2zeHbUCdiXXMzBH7j) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!!TO THE TOP』オリジナル・サウンドトラック](https://open.spotify.com/album/1WWNN8hEJjPZ80lrG8rxbh) | 2:21 |
+| 35 | [無個性の苦悩](https://open.spotify.com/track/2k00f8Wu5dp8ghDXUfcg6b) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』オリジナル・サウンドトラック](https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S) | 2:11 |
 | 36 | [爆殺王!!](https://open.spotify.com/track/6RJaCS5pLDVlxuzZ7JAi3B) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル・サウンドトラック](https://open.spotify.com/album/2gHjS3AtDHtuwLnZT5Ks4E) | 2:05 |
 | 37 | [化学変化](https://open.spotify.com/track/50uh6QzjefARNWguBT6ZWW) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [Asami Tachibana](https://open.spotify.com/artist/0F4ybIPzwLfT5xzZQlYBXP) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック](https://open.spotify.com/album/5i5tqedwi7y2ebLEdXCBE7) | 2:44 |
 | 38 | [We Must Go](https://open.spotify.com/track/04a6Tuzc3LHgM0I0IVh0aw) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「風が強く吹いている」オリジナルサウンドトラック](https://open.spotify.com/album/15qSa1T6OKegsLuFcvh7nW) | 6:15 |
-| 39 | [強くなれ](https://open.spotify.com/track/6RQvBfTupup0pjiE01m4mq) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [Asami Tachibana](https://open.spotify.com/artist/0F4ybIPzwLfT5xzZQlYBXP) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/6f7ewU8BNZaeqfN899iutk) | 3:10 |
+| 39 | [パートナー結成 ver1](https://open.spotify.com/track/62clUBYeugLjZ7GpTi7Kzy) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ボールルームへようこそ』オリジナルサウンドトラック](https://open.spotify.com/album/3C3pGhgf6bEHazFLYbDBwk) | 2:29 |
 | 40 | [Just Another Hero](https://open.spotify.com/track/5MVgPvxtIi1OQTguhaHqVf) | [Steven McNair](https://open.spotify.com/artist/4vyqxxgPi4d3TsRarKphMY), [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル・サウンドトラック](https://open.spotify.com/album/2gHjS3AtDHtuwLnZT5Ks4E) | 3:24 |
-| 41 | [パートナー結成 ver1](https://open.spotify.com/track/62clUBYeugLjZ7GpTi7Kzy) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ボールルームへようこそ』オリジナルサウンドトラック](https://open.spotify.com/album/3C3pGhgf6bEHazFLYbDBwk) | 2:29 |
+| 41 | [強くなれ](https://open.spotify.com/track/6RQvBfTupup0pjiE01m4mq) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [Asami Tachibana](https://open.spotify.com/artist/0F4ybIPzwLfT5xzZQlYBXP) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/6f7ewU8BNZaeqfN899iutk) | 3:10 |
 | 42 | [極限スイッチ](https://open.spotify.com/track/1NZo15KUTNsKN5cR7NIZ6P) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.2\)](https://open.spotify.com/album/54yg1VofNhuje44hH5ySea) | 2:42 |
 | 43 | [オール・フォー・ワン](https://open.spotify.com/track/0fW6pNl1nIgPWaUaCnn4LZ) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 2:12 |
-| 44 | [走るということ](https://open.spotify.com/track/6vzRpOC0JpkWIwd9M5N2a9) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「風が強く吹いている」オリジナルサウンドトラック](https://open.spotify.com/album/15qSa1T6OKegsLuFcvh7nW) | 2:28 |
+| 44 | [ごあいさつ](https://open.spotify.com/track/66dqsdJHQmSNzzNH17QfyQ) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! 烏野高校 V S白鳥沢学園高校』オリジナル・サウンドトラック](https://open.spotify.com/album/7iODUgHHgyeo4fkH9E0w4Q) | 2:01 |
 | 45 | [カモメ](https://open.spotify.com/track/0dNliW8cZpIhwE9ZV1suFD) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!!TO THE TOP』オリジナル・サウンドトラック](https://open.spotify.com/album/1WWNN8hEJjPZ80lrG8rxbh) | 2:05 |
-| 46 | [ごあいさつ](https://open.spotify.com/track/66dqsdJHQmSNzzNH17QfyQ) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! 烏野高校 V S白鳥沢学園高校』オリジナル・サウンドトラック](https://open.spotify.com/album/7iODUgHHgyeo4fkH9E0w4Q) | 2:01 |
-| 47 | [私から君へ](https://open.spotify.com/track/6FWJesWhdMt1Y9wMxYzhgl) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル・サウンドトラック](https://open.spotify.com/album/2gHjS3AtDHtuwLnZT5Ks4E) | 2:55 |
-| 48 | [超速攻](https://open.spotify.com/track/3QuURNtWiAAAa6dLPLLyx5) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.2\)](https://open.spotify.com/album/54yg1VofNhuje44hH5ySea) | 3:21 |
+| 46 | [走るということ](https://open.spotify.com/track/6vzRpOC0JpkWIwd9M5N2a9) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「風が強く吹いている」オリジナルサウンドトラック](https://open.spotify.com/album/15qSa1T6OKegsLuFcvh7nW) | 2:28 |
+| 47 | [超速攻](https://open.spotify.com/track/3QuURNtWiAAAa6dLPLLyx5) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.2\)](https://open.spotify.com/album/54yg1VofNhuje44hH5ySea) | 3:21 |
+| 48 | [moonlit night](https://open.spotify.com/track/6ebH5PH2IzMkAx2aLoh1dJ) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [Death Parade Original Soundtrack](https://open.spotify.com/album/22MVfh0OuAn8dv8nWn438G) | 4:40 |
 | 49 | [歯車](https://open.spotify.com/track/3kMYYFcPC0rgig7GC1Fbm8) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/0QUKlTBDQczWoXUKvNYF8Z) | 3:19 |
-| 50 | [moonlit night](https://open.spotify.com/track/6ebH5PH2IzMkAx2aLoh1dJ) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [Death Parade Original Soundtrack](https://open.spotify.com/album/22MVfh0OuAn8dv8nWn438G) | 4:40 |
+| 50 | [私から君へ](https://open.spotify.com/track/6FWJesWhdMt1Y9wMxYzhgl) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル・サウンドトラック](https://open.spotify.com/album/2gHjS3AtDHtuwLnZT5Ks4E) | 2:55 |
 
-Snapshot ID: `Mjg0MTE5MDAsMDAwMDAwMDA3MGU2OGEzODU3MTA3NmYyMmI2Y2NmNGYxYzRkNzMxNw==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDA0MzA4ZDgyNTRhM2U2MjA1NmJjZmU4OGZmNmM2YjUxMg==`

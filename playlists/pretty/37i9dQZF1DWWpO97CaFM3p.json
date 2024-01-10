@@ -1,12 +1,12 @@
 {
   "description": "when you decide societal constructs just aren\u2019t the vibe anymore. \n",
-  "num_followers": 428719,
+  "num_followers": 428818,
   "original_name": "wanderlust",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmQzMjY0MmM2YmY0ZTA2MDkyMDEyNzM3M2YzODA2ZDBlNDkwMjUy",
+  "snapshot_id": "MCwxMGEzNmEzZDZlN2JjY2RjMzBiYjM4Nzc1NTNiZDViYmJmNWM1ZmI5",
   "tracks": [
     {
       "added_at": "2023-12-27 16:59:40",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-12-27 16:59:40",
       "album": {
-        "name": "That Funny Feeling",
-        "url": "https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 400565,
-      "name": "That Funny Feeling",
-      "url": "https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S"
-    },
-    {
-      "added_at": "2023-12-27 16:59:40",
-      "album": {
         "name": "The Woods (Acoustic)",
         "url": "https://open.spotify.com/album/7HZod7ee2InRlQb8PRS3GI"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 239960,
       "name": "The Woods - Acoustic",
       "url": "https://open.spotify.com/track/7MIMNleq34UeRnlLRdPpGY"
+    },
+    {
+      "added_at": "2023-12-27 16:59:40",
+      "album": {
+        "name": "That Funny Feeling",
+        "url": "https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 400565,
+      "name": "That Funny Feeling",
+      "url": "https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S"
     },
     {
       "added_at": "2023-12-27 16:59:40",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-12-27 16:59:40",
       "album": {
-        "name": "Resin",
-        "url": "https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 203939,
-      "name": "Resin",
-      "url": "https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH"
-    },
-    {
-      "added_at": "2023-12-27 16:59:40",
-      "album": {
         "name": "We'll Never Have Sex",
         "url": "https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 99620,
       "name": "We'll Never Have Sex",
       "url": "https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd"
+    },
+    {
+      "added_at": "2023-12-27 16:59:40",
+      "album": {
+        "name": "Resin",
+        "url": "https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 203939,
+      "name": "Resin",
+      "url": "https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH"
     },
     {
       "added_at": "2023-12-27 16:59:40",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-12-27 16:59:40",
       "album": {
-        "name": "Milo Greene",
-        "url": "https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w"
-      },
-      "artists": [
-        {
-          "name": "Milo Greene",
-          "url": "https://open.spotify.com/artist/5euJsEvfrlfhYDorMR40OF"
-        }
-      ],
-      "duration_ms": 204213,
-      "name": "1957",
-      "url": "https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w"
-    },
-    {
-      "added_at": "2023-12-27 16:59:40",
-      "album": {
         "name": "Call Me When You Land",
         "url": "https://open.spotify.com/album/0xff0oGrrPLKSbBjXbEZ3D"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 287623,
       "name": "Call Me When You Land",
       "url": "https://open.spotify.com/track/24AlaGqIZd2nUspgzc2ph1"
+    },
+    {
+      "added_at": "2023-12-27 16:59:40",
+      "album": {
+        "name": "Milo Greene",
+        "url": "https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w"
+      },
+      "artists": [
+        {
+          "name": "Milo Greene",
+          "url": "https://open.spotify.com/artist/5euJsEvfrlfhYDorMR40OF"
+        }
+      ],
+      "duration_ms": 204213,
+      "name": "1957",
+      "url": "https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w"
     },
     {
       "added_at": "2023-12-27 16:59:40",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-12-27 16:59:40",
       "album": {
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 273560,
+      "name": "Chateau",
+      "url": "https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD"
+    },
+    {
+      "added_at": "2023-12-27 16:59:40",
+      "album": {
         "name": "Without a Light",
         "url": "https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR"
       },
@@ -1363,22 +1379,6 @@
     {
       "added_at": "2023-12-27 16:59:40",
       "album": {
-        "name": "Snow",
-        "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 273560,
-      "name": "Chateau",
-      "url": "https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD"
-    },
-    {
-      "added_at": "2023-12-27 16:59:40",
-      "album": {
         "name": "untitled",
         "url": "https://open.spotify.com/album/1lcAeYHgVLtY1vuIJ8zawx"
       },
@@ -1407,6 +1407,22 @@
       "duration_ms": 198381,
       "name": "Breathe Again - Acoustic",
       "url": "https://open.spotify.com/track/2Y29DHOl92FAqXy6Oe6f5h"
+    },
+    {
+      "added_at": "2023-12-27 16:59:40",
+      "album": {
+        "name": "Caramel",
+        "url": "https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o"
+      },
+      "artists": [
+        {
+          "name": "Cordelia",
+          "url": "https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4"
+        }
+      ],
+      "duration_ms": 270315,
+      "name": "Little Life",
+      "url": "https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM"
     },
     {
       "added_at": "2023-12-27 16:59:40",
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2023-12-27 16:59:40",
       "album": {
-        "name": "Walls",
-        "url": "https://open.spotify.com/album/1lk8uAuUQSFsKtHA7qfBZX"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 199118,
-      "name": "Walls",
-      "url": "https://open.spotify.com/track/3UpEsDQyd6eyRQzgQdNyGo"
-    },
-    {
-      "added_at": "2023-12-27 16:59:40",
-      "album": {
         "name": "Only Real When Shared",
         "url": "https://open.spotify.com/album/2T2MfSCQzdh15zFLdnN0Eh"
       },
@@ -1491,6 +1491,22 @@
       "duration_ms": 225378,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/5HTHYYmcoqh1FrAhchKeSF"
+    },
+    {
+      "added_at": "2023-12-27 16:59:40",
+      "album": {
+        "name": "Walls",
+        "url": "https://open.spotify.com/album/1lk8uAuUQSFsKtHA7qfBZX"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 199118,
+      "name": "Walls",
+      "url": "https://open.spotify.com/track/3UpEsDQyd6eyRQzgQdNyGo"
     },
     {
       "added_at": "2023-12-27 16:59:40",
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2023-12-27 16:59:40",
       "album": {
-        "name": "Appaloosa Bones",
-        "url": "https://open.spotify.com/album/4IVf6mYykPiEoqT099AXsX"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 198893,
-      "name": "Watchman",
-      "url": "https://open.spotify.com/track/4oKf0G986QhGLG8I9dpqP0"
-    },
-    {
-      "added_at": "2023-12-27 16:59:40",
-      "album": {
         "name": "Tell Me It's Real (Expanded Edition)",
         "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
       },
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2023-12-27 16:59:40",
       "album": {
-        "name": "Caramel",
-        "url": "https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o"
+        "name": "Appaloosa Bones",
+        "url": "https://open.spotify.com/album/4IVf6mYykPiEoqT099AXsX"
       },
       "artists": [
         {
-          "name": "Cordelia",
-          "url": "https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4"
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
         }
       ],
-      "duration_ms": 270315,
-      "name": "Little Life",
-      "url": "https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM"
+      "duration_ms": 198893,
+      "name": "Watchman",
+      "url": "https://open.spotify.com/track/4oKf0G986QhGLG8I9dpqP0"
     },
     {
       "added_at": "2023-12-27 16:59:40",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2023-12-27 16:59:40",
       "album": {
-        "name": "love is not dying",
-        "url": "https://open.spotify.com/album/5mkf4N44kdEwYgaOk3hRLF"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
-        }
-      ],
-      "duration_ms": 184480,
-      "name": "oh, mexico",
-      "url": "https://open.spotify.com/track/3dT28suh6dzuW7qF79Nf4F"
-    },
-    {
-      "added_at": "2023-12-27 16:59:40",
-      "album": {
         "name": "Fatal Line",
         "url": "https://open.spotify.com/album/02389joKGpQeSgbeMocOI2"
       },
@@ -1987,18 +1971,18 @@
     {
       "added_at": "2023-12-27 16:59:40",
       "album": {
-        "name": "Holdly",
-        "url": "https://open.spotify.com/album/5480CSqv3NyAGV8zZzT0RF"
+        "name": "love is not dying",
+        "url": "https://open.spotify.com/album/5mkf4N44kdEwYgaOk3hRLF"
       },
       "artists": [
         {
-          "name": "Florist",
-          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
         }
       ],
-      "duration_ms": 227139,
-      "name": "Vacation",
-      "url": "https://open.spotify.com/track/5M14yMoGygqBtJCRYmrYSY"
+      "duration_ms": 184480,
+      "name": "oh, mexico",
+      "url": "https://open.spotify.com/track/3dT28suh6dzuW7qF79Nf4F"
     },
     {
       "added_at": "2023-12-27 16:59:40",
@@ -2015,6 +1999,22 @@
       "duration_ms": 266706,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
+    },
+    {
+      "added_at": "2023-12-27 16:59:40",
+      "album": {
+        "name": "Holdly",
+        "url": "https://open.spotify.com/album/5480CSqv3NyAGV8zZzT0RF"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "duration_ms": 227139,
+      "name": "Vacation",
+      "url": "https://open.spotify.com/track/5M14yMoGygqBtJCRYmrYSY"
     },
     {
       "added_at": "2023-12-27 16:59:40",

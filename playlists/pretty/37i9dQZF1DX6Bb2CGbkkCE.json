@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh?si=s0u7SNJXQQ-JKMPH3p8dSw\">Usain Bolt</a>",
-  "num_followers": 4611,
+  "num_followers": 4609,
   "original_name": "Usain Bolt's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmRkNWE3ZTIxY2NhNGM1MWJlODdhNzdmNGYxYzkxNjllMTU0ZWQx",
+  "snapshot_id": "MCw2NzA4NTQzMzU4YTEyMzBmODMzOGM0YjEzZjhiNjZhOWY4OTdiMTI4",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -251,8 +251,8 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "POPSTAR (feat. Drake)",
-        "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/3HhZbSJdhOqMSaRbEt3gtw"
       },
       "artists": [
         {
@@ -260,13 +260,17 @@
           "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 200221,
-      "name": "POPSTAR (feat. Drake)",
-      "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
+      "duration_ms": 204664,
+      "name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
+      "url": "https://open.spotify.com/track/45XhKYRRkyeqoW3teSOkCM"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -371,8 +375,8 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Grateful",
-        "url": "https://open.spotify.com/album/3HhZbSJdhOqMSaRbEt3gtw"
+        "name": "POPSTAR (feat. Drake)",
+        "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
       },
       "artists": [
         {
@@ -380,17 +384,13 @@
           "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
         },
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 204664,
-      "name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
-      "url": "https://open.spotify.com/track/45XhKYRRkyeqoW3teSOkCM"
+      "duration_ms": 200221,
+      "name": "POPSTAR (feat. Drake)",
+      "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
     },
     {
       "added_at": "2022-10-01 16:00:00",

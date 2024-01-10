@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Ti\u00ebsto and FAST BOY",
-  "num_followers": 462143,
+  "num_followers": 462048,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2Q4NTUzMTYxNjU1ZDg5N2UyMzgwYzI5MjRhMTczYWNhN2JmOWFi",
+  "snapshot_id": "MCxlY2RmZWJiZGVlYjUwOTI4YzhhOTVkOWQ5Yjc5MzkwZTlkYWVkM2Qy",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Mirrors",
+        "url": "https://open.spotify.com/album/0Dfm5ShomZztfnPqEtt5K4"
+      },
+      "artists": [
+        {
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        }
+      ],
+      "duration_ms": 221636,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/5vDsymAEOh3HsOhpfF15mK"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Just Over (Franky Wah Remix)",
         "url": "https://open.spotify.com/album/1IpBGxB7mZ9K3B32lZgevs"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 192512,
       "name": "Just Over - Franky Wah Remix",
       "url": "https://open.spotify.com/track/0rxXB8gFoCBKribWsODgsu"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Mirrors",
-        "url": "https://open.spotify.com/album/0Dfm5ShomZztfnPqEtt5K4"
-      },
-      "artists": [
-        {
-          "name": "Caravan Palace",
-          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
-        }
-      ],
-      "duration_ms": 221636,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/5vDsymAEOh3HsOhpfF15mK"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/5if9dLelGqDrZNJZoz81TX"
-      },
-      "artists": [
-        {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/51h967zpEh7aFOItCJL5HN"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Cocoa Butter",
         "url": "https://open.spotify.com/album/2mw5afjUneUsCahcrdAoM3"
       },
@@ -823,22 +807,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Elation (Otik Remix)",
-        "url": "https://open.spotify.com/album/192v3NGQFrR3p8PVYFhCbl"
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/5if9dLelGqDrZNJZoz81TX"
       },
       "artists": [
         {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        },
-        {
-          "name": "Otik",
-          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
         }
       ],
-      "duration_ms": 279925,
-      "name": "Elation - Otik Remix",
-      "url": "https://open.spotify.com/track/6DCmgTl86qBcjn6pjgGGZ5"
+      "duration_ms": 201600,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/51h967zpEh7aFOItCJL5HN"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -855,6 +835,26 @@
       "duration_ms": 172158,
       "name": "Off Switch",
       "url": "https://open.spotify.com/track/5a8NbqLMb0tqxsoesUODCM"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Elation (Otik Remix)",
+        "url": "https://open.spotify.com/album/192v3NGQFrR3p8PVYFhCbl"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "Otik",
+          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
+        }
+      ],
+      "duration_ms": 279925,
+      "name": "Elation - Otik Remix",
+      "url": "https://open.spotify.com/track/6DCmgTl86qBcjn6pjgGGZ5"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "if you didnt want me",
-        "url": "https://open.spotify.com/album/5X0wn04hB2EQxTmPKYVdKu"
-      },
-      "artists": [
-        {
-          "name": "Sipper",
-          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
-        }
-      ],
-      "duration_ms": 154400,
-      "name": "if you didnt want me",
-      "url": "https://open.spotify.com/track/50TTdw1ApYVu93RW0gKq1e"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/2mjKjhxmC3ZInWFSmtAy71"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 213020,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/524wbK27Ssf7fMuzOUmJ7U"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "if you didnt want me",
+        "url": "https://open.spotify.com/album/5X0wn04hB2EQxTmPKYVdKu"
+      },
+      "artists": [
+        {
+          "name": "Sipper",
+          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
+        }
+      ],
+      "duration_ms": 154400,
+      "name": "if you didnt want me",
+      "url": "https://open.spotify.com/track/50TTdw1ApYVu93RW0gKq1e"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -929,36 +929,24 @@
       "url": "https://open.spotify.com/track/6WV6aIFluFdtoqnhUmmgKA"
     },
     {
-      "added_at": "2024-01-05 19:02:34",
-      "album": {
-        "name": "ascend",
-        "url": "https://open.spotify.com/album/13vrmsnBbVACZT6vg2V0HN"
-      },
-      "artists": [
-        {
-          "name": "VILLA",
-          "url": "https://open.spotify.com/artist/6CjQ1qXQdr7P84BkOEuTwS"
-        }
-      ],
-      "duration_ms": 188444,
-      "name": "ascend",
-      "url": "https://open.spotify.com/track/78jGVRBWYgTeFV0SWPjTEW"
-    },
-    {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "In The Air",
-        "url": "https://open.spotify.com/album/3tQ1xtLmqmc1llutbiCOyn"
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/7zjQAeiHLJJ8OB7MftaFjz"
       },
       "artists": [
         {
-          "name": "VOLAC",
-          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+          "name": "Dirty Palm",
+          "url": "https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0"
+        },
+        {
+          "name": "KDH",
+          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
         }
       ],
-      "duration_ms": 215433,
-      "name": "In The Air",
-      "url": "https://open.spotify.com/track/7aasXv1PUt4t0DLo2nGzMV"
+      "duration_ms": 162187,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/097XuYiqI3sS1SlTlncfmU"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -987,58 +975,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/7zjQAeiHLJJ8OB7MftaFjz"
+        "name": "In The Air",
+        "url": "https://open.spotify.com/album/3tQ1xtLmqmc1llutbiCOyn"
       },
       "artists": [
         {
-          "name": "Dirty Palm",
-          "url": "https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0"
-        },
-        {
-          "name": "KDH",
-          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+          "name": "VOLAC",
+          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
         }
       ],
-      "duration_ms": 162187,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/097XuYiqI3sS1SlTlncfmU"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/6C8W4HzmWHWZdlCmBm4K4V"
-      },
-      "artists": [
-        {
-          "name": "Matt Fax",
-          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
-        },
-        {
-          "name": "Johan Vilborg",
-          "url": "https://open.spotify.com/artist/7hccrx4H5boJlleSXh1j7N"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/2oz4YjD0KeD6TXBz36zt18"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Hit The Ground",
-        "url": "https://open.spotify.com/album/4KOkh6RhKbdC99pmtL0USo"
-      },
-      "artists": [
-        {
-          "name": "Lilly Ahlberg",
-          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Hit The Ground",
-      "url": "https://open.spotify.com/track/1we3IyLdDkmtZctE9xbFgm"
+      "duration_ms": 215433,
+      "name": "In The Air",
+      "url": "https://open.spotify.com/track/7aasXv1PUt4t0DLo2nGzMV"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1067,6 +1015,58 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Hit The Ground",
+        "url": "https://open.spotify.com/album/4KOkh6RhKbdC99pmtL0USo"
+      },
+      "artists": [
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Hit The Ground",
+      "url": "https://open.spotify.com/track/1we3IyLdDkmtZctE9xbFgm"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/6C8W4HzmWHWZdlCmBm4K4V"
+      },
+      "artists": [
+        {
+          "name": "Matt Fax",
+          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
+        },
+        {
+          "name": "Johan Vilborg",
+          "url": "https://open.spotify.com/artist/7hccrx4H5boJlleSXh1j7N"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/2oz4YjD0KeD6TXBz36zt18"
+    },
+    {
+      "added_at": "2024-01-05 19:02:34",
+      "album": {
+        "name": "ascend",
+        "url": "https://open.spotify.com/album/13vrmsnBbVACZT6vg2V0HN"
+      },
+      "artists": [
+        {
+          "name": "VILLA",
+          "url": "https://open.spotify.com/artist/6CjQ1qXQdr7P84BkOEuTwS"
+        }
+      ],
+      "duration_ms": 188444,
+      "name": "ascend",
+      "url": "https://open.spotify.com/track/78jGVRBWYgTeFV0SWPjTEW"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "the joy you once felt",
         "url": "https://open.spotify.com/album/0XG14XEFRcbvoPIsuGQEa4"
       },
@@ -1079,26 +1079,6 @@
       "duration_ms": 179500,
       "name": "the joy you once felt",
       "url": "https://open.spotify.com/track/0bMqgujtRKIKlJm6sp8tcO"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Overpowered",
-        "url": "https://open.spotify.com/album/51ewt5eIln1nQrlxfIO3hw"
-      },
-      "artists": [
-        {
-          "name": "Smokey Bubblin' B",
-          "url": "https://open.spotify.com/artist/1iXq8vdKgJp43m1vhiAmUM"
-        },
-        {
-          "name": "Alex Mills",
-          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
-        }
-      ],
-      "duration_ms": 160750,
-      "name": "Overpowered",
-      "url": "https://open.spotify.com/track/7uK5JxAsY8gkZpe0WxF0Rt"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1119,6 +1099,26 @@
       "duration_ms": 197419,
       "name": "Young Forever (Armonica Remix)",
       "url": "https://open.spotify.com/track/0fORIV8sNObgoaR8bll7po"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Overpowered",
+        "url": "https://open.spotify.com/album/51ewt5eIln1nQrlxfIO3hw"
+      },
+      "artists": [
+        {
+          "name": "Smokey Bubblin' B",
+          "url": "https://open.spotify.com/artist/1iXq8vdKgJp43m1vhiAmUM"
+        },
+        {
+          "name": "Alex Mills",
+          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
+        }
+      ],
+      "duration_ms": 160750,
+      "name": "Overpowered",
+      "url": "https://open.spotify.com/track/7uK5JxAsY8gkZpe0WxF0Rt"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Quaestio (i've got a question babe)",
+        "url": "https://open.spotify.com/album/4DRVa48Tl9faBrsvTGhcmR"
+      },
+      "artists": [
+        {
+          "name": "Tim Hox",
+          "url": "https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM"
+        },
+        {
+          "name": "Manuals",
+          "url": "https://open.spotify.com/artist/5bvEoXzMCyh9cuwQu0Tvvo"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Quaestio (i've got a question babe)",
+      "url": "https://open.spotify.com/track/5HwSjHt2FnTTLONBx5Rx5p"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Fly Again (Lost Identities Remix)",
         "url": "https://open.spotify.com/album/13ikESViMw0XMQfPxu6104"
       },
@@ -1303,26 +1323,6 @@
       "duration_ms": 167200,
       "name": "Fly Again - Lost Identities Remix",
       "url": "https://open.spotify.com/track/28zvvVVhb0yGugW0lC5Idk"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Quaestio (i've got a question babe)",
-        "url": "https://open.spotify.com/album/4DRVa48Tl9faBrsvTGhcmR"
-      },
-      "artists": [
-        {
-          "name": "Tim Hox",
-          "url": "https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM"
-        },
-        {
-          "name": "Manuals",
-          "url": "https://open.spotify.com/artist/5bvEoXzMCyh9cuwQu0Tvvo"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Quaestio (i've got a question babe)",
-      "url": "https://open.spotify.com/track/5HwSjHt2FnTTLONBx5Rx5p"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1381,22 +1381,6 @@
       "url": "https://open.spotify.com/track/1pCmhqRqwfiugXI1vtY2a5"
     },
     {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Played Out",
-        "url": "https://open.spotify.com/album/2dWG5wqqlytEe0I4c4eIEd"
-      },
-      "artists": [
-        {
-          "name": "Galcher Lustwerk",
-          "url": "https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf"
-        }
-      ],
-      "duration_ms": 209149,
-      "name": "Played Out - Version 2",
-      "url": "https://open.spotify.com/track/2Xq46ZzWLOuaNJO1eelhET"
-    },
-    {
       "added_at": "2024-01-05 19:02:34",
       "album": {
         "name": "Do My Thing",
@@ -1411,6 +1395,22 @@
       "duration_ms": 167172,
       "name": "Do My Thing",
       "url": "https://open.spotify.com/track/1zKlmBu1TlxGPvoqtEJR8k"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Played Out",
+        "url": "https://open.spotify.com/album/2dWG5wqqlytEe0I4c4eIEd"
+      },
+      "artists": [
+        {
+          "name": "Galcher Lustwerk",
+          "url": "https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf"
+        }
+      ],
+      "duration_ms": 209149,
+      "name": "Played Out - Version 2",
+      "url": "https://open.spotify.com/track/2Xq46ZzWLOuaNJO1eelhET"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/37MVuW7TjHXalG4w9xBbAe"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00ebl Fabrice",
-          "url": "https://open.spotify.com/artist/7eYi62VwmArlWLTCoOpXrf"
-        }
-      ],
-      "duration_ms": 256323,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/3nocYYnQze0UvSO2jE4TrG"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Talk to Me",
         "url": "https://open.spotify.com/album/1sOEWaeiYUGWiNmpCaaNbo"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 190984,
       "name": "Talk to Me",
       "url": "https://open.spotify.com/track/4mDQ3zjO1OLQhjeYkELy9G"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/37MVuW7TjHXalG4w9xBbAe"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00ebl Fabrice",
+          "url": "https://open.spotify.com/artist/7eYi62VwmArlWLTCoOpXrf"
+        }
+      ],
+      "duration_ms": 256323,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/3nocYYnQze0UvSO2jE4TrG"
     },
     {
       "added_at": "2024-01-05 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Relive your favourite K-Drama moments with these classic soundtracks.",
-  "num_followers": 736301,
+  "num_followers": 736542,
   "original_name": "Best of Korean Soundtracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2Q2NWQ0MmY3YTliNjY3MDFiMDc4YWI0OWRmYTlkZDc0NGQ3NWJh",
+  "snapshot_id": "MCwzNjA2Y2Q5Y2I5M2U4MmZmNzAyYmNkY2ZmMTMwM2Y0ZWMwY2MzMGNl",
   "tracks": [
     {
       "added_at": "2023-08-16 08:28:23",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-08-16 08:28:23",
       "album": {
-        "name": "Good Person (2022)",
-        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
-      },
-      "artists": [
-        {
-          "name": "HAECHAN",
-          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Good Person (2022)",
-      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
-    },
-    {
-      "added_at": "2023-08-16 08:28:23",
-      "album": {
         "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/3GHYyymoaYQFxj7GWv1Ccs"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 244999,
       "name": "Aloha",
       "url": "https://open.spotify.com/track/1hOEq5q9L41E2YbLhVvW5x"
+    },
+    {
+      "added_at": "2023-08-16 08:28:23",
+      "album": {
+        "name": "Good Person (2022)",
+        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
+      },
+      "artists": [
+        {
+          "name": "HAECHAN",
+          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Good Person (2022)",
+      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
     },
     {
       "added_at": "2023-08-16 08:28:23",

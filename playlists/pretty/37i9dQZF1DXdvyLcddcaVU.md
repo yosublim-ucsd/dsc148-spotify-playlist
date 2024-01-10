@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,094 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,505 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 5 | [Tu Me Donne Des Idées](https://open.spotify.com/track/0nMl1BkJR6d9SwhrKEzq5C) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Zombie Life](https://open.spotify.com/album/4xtjyr3GAf3uQFyl3VSSWK) | 3:37 |
 | 6 | [Tu connais](https://open.spotify.com/track/2QSswvVqhYPlZuWTua3uZb) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Telegram 2](https://open.spotify.com/album/7931mqzx81Hm7rsKGjaVFc) | 2:49 |
 | 7 | [Elle a mal \(feat\. Niska\)](https://open.spotify.com/track/2ct8sYE8u8UZT229rWvXwL) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [M.I.L.S](https://open.spotify.com/album/2KvyDaE0buWzzR8S4gCSsz) | 3:13 |
-| 8 | [Chipi Chipi Chapa Chapa](https://open.spotify.com/track/6PZobAHn3uKmVulYaBFusp) | [Kairas](https://open.spotify.com/artist/3Ug4eAerBcBlwia1oHosMY), [lorche](https://open.spotify.com/artist/644qnZiBHVcjcMCHsiV0PL), [Spyzah](https://open.spotify.com/artist/5meSJ0JjZXEi7NTwr4zOka) | [Chipi Chipi Chapa Chapa](https://open.spotify.com/album/2GpLlSk3DIcERUZ3PUcuRu) | 3:46 |
+| 8 | [Chipi Chipi Chapa Chapa](https://open.spotify.com/track/0t33mdnOe8aMhO5BtRHgH5) | [lusttqwe](https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR), [lorche](https://open.spotify.com/artist/644qnZiBHVcjcMCHsiV0PL), [bexter](https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n), [Kairas](https://open.spotify.com/artist/3Ug4eAerBcBlwia1oHosMY) | [Chipi Chipi Chapa Chapa](https://open.spotify.com/album/5F1cOAxZbtA379LrMe59ZH) | 3:46 |
 | 9 | [Ghetto](https://open.spotify.com/track/0dwT3Ao581GbtLCSzX1zRz) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Ghetto](https://open.spotify.com/album/3Q3X8WomzpzwEWCC8bjoH6) | 2:17 |
 | 10 | [Embrasse\-moi](https://open.spotify.com/track/44X8jiakA6Aw5TZqxMWVSl) | [MZ](https://open.spotify.com/artist/0xEVr5H3VEj3g11u1q6ifW) | [MZ Music, Vol\. 3.5](https://open.spotify.com/album/0OQnvAbr1445HkrQiPzBP7) | 4:39 |
 | 11 | [Beuh d'Hollande](https://open.spotify.com/track/2lbKZKVRX54sPoNKZyp56H) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [La route est longue](https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs) | 2:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 99 | [lucy & les chanteurs pour dames](https://open.spotify.com/track/1vHyrtMZ71kLl8cdUVSk5k) | [Krisy](https://open.spotify.com/artist/6RwBaA9wZC0BPWZfmGeWMo), [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [lucy & les chanteurs pour dames](https://open.spotify.com/album/7K8tMuEQrHoL1vG0bZfYYV) | 4:00 |
 | 100 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 
-Snapshot ID: `MCw2NDM1MTY2ZmVhOTE5MGQxNjkyNjAyODY1ODg1OTZiY2VhNWFhYTM4`
+Snapshot ID: `MCw3ZmVkMjlmMTBjODU2MTQ3NzNlZjQ4NTRlMzIwMmU3MDBjMjEwNzQz`

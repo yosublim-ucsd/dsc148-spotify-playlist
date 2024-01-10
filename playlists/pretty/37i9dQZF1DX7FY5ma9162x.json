@@ -1,12 +1,12 @@
 {
   "description": "The tracks you can put on repeat all day. Cover: SZA",
-  "num_followers": 247022,
+  "num_followers": 247081,
   "original_name": "R&B Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTEyOWU1YTIwMDAxOTk5YjNiNzlhMTNhOWQ5MzY4NjJjN2QwMWY5",
+  "snapshot_id": "MCxkMTk2MzI3NTU0OTdkM2Q5MTAwNjdiZmZlNDE4NWFlZDg0MTI0ODQ2",
   "tracks": [
     {
       "added_at": "2024-01-05 05:02:00",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2024-01-05 05:02:00",
       "album": {
-        "name": "Rover (feat. DTG)",
-        "url": "https://open.spotify.com/album/6XwFgPuBbmmfXEQhCcgPvd"
-      },
-      "artists": [
-        {
-          "name": "S1mba",
-          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
-        },
-        {
-          "name": "DTG",
-          "url": "https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg"
-        }
-      ],
-      "duration_ms": 167916,
-      "name": "Rover (feat. DTG)",
-      "url": "https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf"
-    },
-    {
-      "added_at": "2024-01-05 05:02:00",
-      "album": {
         "name": "Chilombo",
         "url": "https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 212866,
       "name": "B.S. (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/63wx9vdskaXbYxyDx4oJCZ"
+    },
+    {
+      "added_at": "2024-01-05 05:02:00",
+      "album": {
+        "name": "Rover (feat. DTG)",
+        "url": "https://open.spotify.com/album/6XwFgPuBbmmfXEQhCcgPvd"
+      },
+      "artists": [
+        {
+          "name": "S1mba",
+          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
+        },
+        {
+          "name": "DTG",
+          "url": "https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg"
+        }
+      ],
+      "duration_ms": 167916,
+      "name": "Rover (feat. DTG)",
+      "url": "https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf"
     },
     {
       "added_at": "2024-01-05 05:02:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-01-05 05:02:00",
       "album": {
-        "name": "Summer Too Hot",
-        "url": "https://open.spotify.com/album/379BJxUOZlfM3UoGjrDpZN"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 188504,
-      "name": "Summer Too Hot",
-      "url": "https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp"
-    },
-    {
-      "added_at": "2024-01-05 05:02:00",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 236236,
       "name": "Go Baby",
       "url": "https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73"
+    },
+    {
+      "added_at": "2024-01-05 05:02:00",
+      "album": {
+        "name": "Summer Too Hot",
+        "url": "https://open.spotify.com/album/379BJxUOZlfM3UoGjrDpZN"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 188504,
+      "name": "Summer Too Hot",
+      "url": "https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp"
     },
     {
       "added_at": "2024-01-05 05:02:00",
@@ -1815,26 +1815,6 @@
     {
       "added_at": "2024-01-05 05:02:00",
       "album": {
-        "name": "Waiting For You (feat. Naomi Sharon)",
-        "url": "https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ"
-      },
-      "artists": [
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        },
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 219998,
-      "name": "Waiting For You (feat. Naomi Sharon)",
-      "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
-    },
-    {
-      "added_at": "2024-01-05 05:02:00",
-      "album": {
         "name": "Call Me Every Day (feat. Wizkid)",
         "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
       },
@@ -1851,6 +1831,26 @@
       "duration_ms": 146840,
       "name": "Call Me Every Day (feat. Wizkid)",
       "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
+    },
+    {
+      "added_at": "2024-01-05 05:02:00",
+      "album": {
+        "name": "Waiting For You (feat. Naomi Sharon)",
+        "url": "https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        },
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 219998,
+      "name": "Waiting For You (feat. Naomi Sharon)",
+      "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
     }
   ],
   "unique_name": "R&B Favourites",

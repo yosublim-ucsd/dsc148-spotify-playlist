@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,793 songs - 3 day 8 hr 17 min
+1,794 songs - 3 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Act Of Reconciling](https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Act Of Reconciling](https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS) | 2:23 | 2023-04-15 |  |
 | [Adalene](https://open.spotify.com/track/3zI3slH8XE60lQbZdX83SM) | [Jensine Fleischer](https://open.spotify.com/artist/15SHBMzvHldt6xbNg7yBr6) | [Adalene](https://open.spotify.com/album/3j88wEm5DV2K2QDtuIdsys) | 1:50 | 2021-03-17 | 2021-12-21 |
 | [Adesso](https://open.spotify.com/track/0t0X7v3Qcq7wMviNjWaWDO) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Adesso](https://open.spotify.com/album/33kzMmushokneJ49TH7O7K) | 2:27 | 2022-07-27 | 2022-12-24 |
+| [Adieux](https://open.spotify.com/track/1ymzdmQYjO3ThdlToYZnTq) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Adieux](https://open.spotify.com/album/5PPK24qrJdeoZBb8pVNWF6) | 2:55 | 2024-01-09 |  |
 | [African Violet](https://open.spotify.com/track/2AS9ZM50B6JkihVq1KY6b6) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Dark Taupe](https://open.spotify.com/album/47AoMLS4iKE2Lx942HBIKY) | 3:02 | 2021-03-16 | 2022-04-18 |
 | [After the Fest](https://open.spotify.com/track/6uqZKtmKM0pA8QaQ0nct08) | [Pierre Koenigs](https://open.spotify.com/artist/5VfDxDonlL9ImwQFQksAcY) | [Carousel](https://open.spotify.com/album/2QYvsvHJdg9V3mcxDXzTMH) | 4:00 | 2021-03-11 | 2022-07-05 |
 | [After The Rain](https://open.spotify.com/track/1Zm94tzqt9ylN5wgBWRePJ) | [Max Swan](https://open.spotify.com/artist/2d1JYQW1AqWDJYigDlLLPj) | [After The Rain](https://open.spotify.com/album/07UTHovmXYvheYrEW3Ogpj) | 2:46 | 2021-03-16 | 2022-04-01 |
@@ -890,7 +891,7 @@
 | [Little Drummer Boy](https://open.spotify.com/track/1CRpttW8EKGeCeuUg5yuo7) | [Rhett Week](https://open.spotify.com/artist/03HqLsJ07z6JYJtzDtgDiZ) | [Happy Xmas](https://open.spotify.com/album/11LCC0z6mZk9Mk8UVff2Rg) | 2:48 | 2021-03-17 | 2022-03-30 |
 | [Little Memories](https://open.spotify.com/track/7yqt5FexPi4P2h8KVawKDm) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Little Memories](https://open.spotify.com/album/5x8nMcUaYAE7mPNy4n9Zzh) | 2:37 | 2021-03-17 | 2022-07-29 |
 | [Loch Awe](https://open.spotify.com/track/3FX2xpx6NBmW8qxTIpQg5N) | [Tuga Topić](https://open.spotify.com/artist/30nHhrHqaesxWRiNzW4g6O) | [Loch Awe](https://open.spotify.com/album/6M2AuIkSKhWKFPROoUApIw) | 1:01 | 2021-04-22 | 2022-04-20 |
-| [Lofoten](https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Lofoten](https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD) | 2:41 | 2023-05-30 |  |
+| [Lofoten](https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Lofoten](https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD) | 2:41 | 2023-05-30 | 2024-01-10 |
 | [Long Gone](https://open.spotify.com/track/6sihzaefNWCccY2Y3u9jsA) | [Martina Heinz](https://open.spotify.com/artist/0jOQagJ6TfG3EsiBqhbAk0) | [Long Gone](https://open.spotify.com/album/5nDMnKSMbepSFFgAbBFW76) | 1:53 | 2021-05-09 | 2022-07-26 |
 | [Longest days](https://open.spotify.com/track/1fyoUmAZLx9tLmXA99Uxs4) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Longest days](https://open.spotify.com/album/5jQDQGF85HaPrqvrVQBAMi) | 2:45 | 2022-07-08 | 2022-12-24 |
 | [Longing](https://open.spotify.com/track/5pW55ydTQ4a810ReUk8haw) | [Kari Bin](https://open.spotify.com/artist/7wcpPMywMPB56Zl2L6XoRN) | [Piano & Chill](https://open.spotify.com/album/68ypGrxQ3BTihCdY2eJqS2) | 2:01 | 2021-05-05 | 2021-05-06 |

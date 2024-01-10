@@ -722,6 +722,32 @@
     {
       "album": {
         "name": "Miracle Worker (Live)",
+        "url": "https://open.spotify.com/album/721attgvdIZ6sv4JMvmak7"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Melissa Bethea",
+          "url": "https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104160,
+      "name": "He Loves Us - Live",
+      "url": "https://open.spotify.com/track/1TeuVFbHkHJMHebfgUUUUw"
+    },
+    {
+      "album": {
+        "name": "Miracle Worker (Live)",
         "url": "https://open.spotify.com/album/0yi1ON4T3WTFh2zT80DxNw"
       },
       "artists": [
@@ -740,7 +766,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 104160,
       "name": "He Loves Us - Live",
       "url": "https://open.spotify.com/track/7rmV0wpzKwiPG4k4ubtqmB"
@@ -1248,7 +1274,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 188988,
       "name": "Mary Did You Know - Live",
       "url": "https://open.spotify.com/track/5ljmKFEodiBsDM1fWkJAQT"
@@ -1340,7 +1366,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 178266,
       "name": "My Hiding Place",
       "url": "https://open.spotify.com/track/237xqnL0TqbNUTcgaW5UKs"
@@ -1402,6 +1428,32 @@
     {
       "album": {
         "name": "Not Holding Back",
+        "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Melissa Bethea",
+          "url": "https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 747716,
+      "name": "Not Holding Back",
+      "url": "https://open.spotify.com/track/0CM8AO4xLnxdDPjiUPYP5K"
+    },
+    {
+      "album": {
+        "name": "Not Holding Back",
         "url": "https://open.spotify.com/album/4xYwMKxTffmhIZwJKLsMlR"
       },
       "artists": [
@@ -1420,7 +1472,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 747716,
       "name": "Not Holding Back",
       "url": "https://open.spotify.com/track/3648FGKvPaB9jJ6SszwiXD"
@@ -1612,10 +1664,36 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 203920,
       "name": "Reckless Love - Live",
       "url": "https://open.spotify.com/track/2zdyT2WaM4BQFNBl2Z1dUx"
+    },
+    {
+      "album": {
+        "name": "Miracle Worker (Live)",
+        "url": "https://open.spotify.com/album/721attgvdIZ6sv4JMvmak7"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Greg Kirkland, Jr.",
+          "url": "https://open.spotify.com/artist/2aPBhu0KFUmoRzz5ENVHrs"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203920,
+      "name": "Reckless Love - Live",
+      "url": "https://open.spotify.com/track/5k3Q41ISF9hhovjDnaVwom"
     },
     {
       "album": {
@@ -1858,7 +1936,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 502678,
       "name": "The Newborn King - Live",
       "url": "https://open.spotify.com/track/68480PLDDMeu3MYkQiU2FM"
@@ -1990,7 +2068,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 329200,
       "name": "You Are Awesome",
       "url": "https://open.spotify.com/track/0JuACuUfaF7TVgHTQV5gCa"
@@ -2160,6 +2238,32 @@
     {
       "album": {
         "name": "Miracle Worker (Live)",
+        "url": "https://open.spotify.com/album/721attgvdIZ6sv4JMvmak7"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Timothy Reddick",
+          "url": "https://open.spotify.com/artist/3AEo4imgJihO5K7yZNDcu7"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378506,
+      "name": "You Get The Glory - Live",
+      "url": "https://open.spotify.com/track/4PLTxvaypSdoEJSUSOb7eQ"
+    },
+    {
+      "album": {
+        "name": "Miracle Worker (Live)",
         "url": "https://open.spotify.com/album/0yi1ON4T3WTFh2zT80DxNw"
       },
       "artists": [
@@ -2178,7 +2282,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 378506,
       "name": "You Get The Glory - Live",
       "url": "https://open.spotify.com/track/5qAuFERnKienylcdTO0uds"
@@ -2260,6 +2364,32 @@
       "duration_ms": 737711,
       "name": "You're Everything",
       "url": "https://open.spotify.com/track/5CFQAQIW5fCgkJYnstgDsL"
+    },
+    {
+      "album": {
+        "name": "Not Holding Back",
+        "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Melissa Bethea",
+          "url": "https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 737711,
+      "name": "You're Everything",
+      "url": "https://open.spotify.com/track/6eF1yPvD0BgmiXQlucDM8Q"
     },
     {
       "album": {

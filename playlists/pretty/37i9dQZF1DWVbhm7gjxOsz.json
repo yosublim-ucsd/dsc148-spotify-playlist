@@ -1,12 +1,12 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 55577,
+  "num_followers": 55686,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjZiYWMzZTUzMzg3MmJiYTkzYjcwMjk5MjQ5NTk1YjQ2YjdkOWYz",
+  "snapshot_id": "MCwxNTg5ODZiNDE1ODQwNTczOGU1ZmFhMzViMDgwNWQwMjUwZDFmMjI1",
   "tracks": [
     {
       "added_at": "2024-01-05 17:02:31",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "You'll Lose A Good Thing",
-        "url": "https://open.spotify.com/album/1M9sGvei24wKfCC1P7CESZ"
-      },
-      "artists": [
-        {
-          "name": "Barbara Lynn",
-          "url": "https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB"
-        }
-      ],
-      "duration_ms": 159866,
-      "name": "You'll Lose A Good Thing",
-      "url": "https://open.spotify.com/track/5CEREcGR5WaLt40YzTQ62e"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Earth Angel",
         "url": "https://open.spotify.com/album/42uu50W2ko5aQriXh7naAd"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 171066,
       "name": "Earth Angel",
       "url": "https://open.spotify.com/track/7GnMzVWOHLBPcfco4L1GtE"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "You'll Lose A Good Thing",
+        "url": "https://open.spotify.com/album/1M9sGvei24wKfCC1P7CESZ"
+      },
+      "artists": [
+        {
+          "name": "Barbara Lynn",
+          "url": "https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB"
+        }
+      ],
+      "duration_ms": 159866,
+      "name": "You'll Lose A Good Thing",
+      "url": "https://open.spotify.com/track/5CEREcGR5WaLt40YzTQ62e"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "The Stylistics - The Original Debut Album",
-        "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 175506,
-      "name": "You Are Everything",
-      "url": "https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Thin Line Between Love & Hate: Golden Classics",
         "url": "https://open.spotify.com/album/7HjAR4jDMTMfq82XLngp98"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 207653,
       "name": "Thin Line Between Love and Hate",
       "url": "https://open.spotify.com/track/6uDRZi9MOTtkuNUHMfREib"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "The Stylistics - The Original Debut Album",
+        "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 175506,
+      "name": "You Are Everything",
+      "url": "https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Two Lovers",
-        "url": "https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 166732,
-      "name": "Two Lovers",
-      "url": "https://open.spotify.com/track/00CmjeeHvAVKvx3tcIiZTy"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Breakfast Special",
         "url": "https://open.spotify.com/album/0x2Hgl58dtwTdA1AdgG0Zb"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 211001,
       "name": "Eighteen With A Bullet",
       "url": "https://open.spotify.com/track/5Db6sVQqeSoe8SN7JZrpPz"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Two Lovers",
+        "url": "https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 166732,
+      "name": "Two Lovers",
+      "url": "https://open.spotify.com/track/00CmjeeHvAVKvx3tcIiZTy"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "Somebody Please (Stereo Mix 2019)",
+        "url": "https://open.spotify.com/album/1RMHlSB5c8XFd6NIoi6fK6"
+      },
+      "artists": [
+        {
+          "name": "The Vanguards",
+          "url": "https://open.spotify.com/artist/1Cxiw1j8YapEOhSmJWteHW"
+        }
+      ],
+      "duration_ms": 231825,
+      "name": "Somebody Please (Stereo Mix 2019)",
+      "url": "https://open.spotify.com/track/1U9MVMWI6hACLhgXI9JoFE"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "Thee Only One",
         "url": "https://open.spotify.com/album/4ztSd9IONvZJ1kq4sdDkVp"
       },
@@ -1923,22 +1939,6 @@
       "duration_ms": 216913,
       "name": "Thee Only One",
       "url": "https://open.spotify.com/track/3T7nX7qDSC7LDPC18lWOku"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "Somebody Please (Stereo Mix 2019)",
-        "url": "https://open.spotify.com/album/1RMHlSB5c8XFd6NIoi6fK6"
-      },
-      "artists": [
-        {
-          "name": "The Vanguards",
-          "url": "https://open.spotify.com/artist/1Cxiw1j8YapEOhSmJWteHW"
-        }
-      ],
-      "duration_ms": 231825,
-      "name": "Somebody Please (Stereo Mix 2019)",
-      "url": "https://open.spotify.com/track/1U9MVMWI6hACLhgXI9JoFE"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1991,26 +1991,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Daddy's Home: The Very Best Of Shep & The Limelites",
-        "url": "https://open.spotify.com/album/5D69CVCyBJCbOk4xS1x3Yr"
-      },
-      "artists": [
-        {
-          "name": "Shep",
-          "url": "https://open.spotify.com/artist/4FrUg4jMTAlZHhBsOIYGJV"
-        },
-        {
-          "name": "The Limelites",
-          "url": "https://open.spotify.com/artist/2pEAs011HTyChRqX8VR8lW"
-        }
-      ],
-      "duration_ms": 167986,
-      "name": "Daddy's Home",
-      "url": "https://open.spotify.com/track/64Ac1xoo77GCvnA3aaSuJk"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Whatcha Know",
         "url": "https://open.spotify.com/album/0w7NTBLYYYWY5fabjAUyhZ"
       },
@@ -2031,6 +2011,26 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "Daddy's Home: The Very Best Of Shep & The Limelites",
+        "url": "https://open.spotify.com/album/5D69CVCyBJCbOk4xS1x3Yr"
+      },
+      "artists": [
+        {
+          "name": "Shep",
+          "url": "https://open.spotify.com/artist/4FrUg4jMTAlZHhBsOIYGJV"
+        },
+        {
+          "name": "The Limelites",
+          "url": "https://open.spotify.com/artist/2pEAs011HTyChRqX8VR8lW"
+        }
+      ],
+      "duration_ms": 167986,
+      "name": "Daddy's Home",
+      "url": "https://open.spotify.com/track/64Ac1xoo77GCvnA3aaSuJk"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "The Specialty Story",
         "url": "https://open.spotify.com/album/0CRWmTIjmMumhwYI6BO4Nh"
       },
@@ -2047,22 +2047,6 @@
       "duration_ms": 165133,
       "name": "Nite Owl (A.K.A. Night Owl)",
       "url": "https://open.spotify.com/track/2nvQcGTDCJpqAt22M4zqrO"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "Dedicated to the Ones I Love, Vol. 2",
-        "url": "https://open.spotify.com/album/136641IlsqgJbCADEqlwqp"
-      },
-      "artists": [
-        {
-          "name": "Trish Toledo",
-          "url": "https://open.spotify.com/artist/2ZZZ8cXLBRgiH6fiwaA0Ah"
-        }
-      ],
-      "duration_ms": 231360,
-      "name": "Tell It Like It Is",
-      "url": "https://open.spotify.com/track/1d9KuwEUyhp1rH7psfJhml"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -2095,6 +2079,22 @@
       "duration_ms": 172560,
       "name": "The Bells",
       "url": "https://open.spotify.com/track/2kLrFBgVs9BsyNQ6EDc5LH"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Dedicated to the Ones I Love, Vol. 2",
+        "url": "https://open.spotify.com/album/136641IlsqgJbCADEqlwqp"
+      },
+      "artists": [
+        {
+          "name": "Trish Toledo",
+          "url": "https://open.spotify.com/artist/2ZZZ8cXLBRgiH6fiwaA0Ah"
+        }
+      ],
+      "duration_ms": 231360,
+      "name": "Tell It Like It Is",
+      "url": "https://open.spotify.com/track/1d9KuwEUyhp1rH7psfJhml"
     },
     {
       "added_at": "2024-01-05 17:02:31",

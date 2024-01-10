@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,695 likes - 125 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,646 likes - 125 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 79 | [Go Tell It On The Mountain](https://open.spotify.com/track/2IHJbBiT7v4oR4WXt63yVZ) | [Eltingvilles](https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R) | [Go Tell It On The Mountain](https://open.spotify.com/album/7IbDqi94MtPmiq4eLlZf6i) | 2:30 |
 | 80 | [Ole Santa](https://open.spotify.com/track/6MpmfCUaLKb4MsrbmTwRx0) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury Vol\. 6 \(1958\-1960\)](https://open.spotify.com/album/19tw1MckQmVNrGJYcCva7f) | 2:45 |
 | 81 | [Snow](https://open.spotify.com/track/3XTSSKo4x9g2Q3K3UyUOui) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc), [Danny Kaye](https://open.spotify.com/artist/4r6DXcqtllstKwEx3ndKMj), [Trudy Stevens](https://open.spotify.com/artist/6Z83RqW2D8bbsxvzhiIcUX) | [Selections From Irving Berlin's White Christmas](https://open.spotify.com/album/5rG6Ih8hHqJ6MX6ml5QiOl) | 2:43 |
-| 82 | [Christmas in New York](https://open.spotify.com/track/4OtoXQ2ySVcmudZT4jF8jH) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Merry Christmas from José James](https://open.spotify.com/album/4bcdBu4Vjwu1J0GGs7HU72) | 2:58 |
-| 83 | [Oh Christmas Tree](https://open.spotify.com/track/4RWrGsl1Thdb3dMFxu69ZT) | [Tiny Stills Quartet](https://open.spotify.com/artist/5YxesetSDEooEMdNHKKDFk) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/05PvwbGSgcL5vwB7vOkYVd) | 1:49 |
+| 82 | [Oh Christmas Tree](https://open.spotify.com/track/4RWrGsl1Thdb3dMFxu69ZT) | [Tiny Stills Quartet](https://open.spotify.com/artist/5YxesetSDEooEMdNHKKDFk) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/05PvwbGSgcL5vwB7vOkYVd) | 1:49 |
+| 83 | [Christmas in New York](https://open.spotify.com/track/4OtoXQ2ySVcmudZT4jF8jH) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Merry Christmas from José James](https://open.spotify.com/album/4bcdBu4Vjwu1J0GGs7HU72) | 2:58 |
 | 84 | [Sleigh Ride](https://open.spotify.com/track/3DnYHzeul8cWJDEuTFd79H) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When My Heart Finds Christmas](https://open.spotify.com/album/1It3aEvCmT8UvUMmBm5DIV) | 3:40 |
 | 85 | [I Wish It Would Snow](https://open.spotify.com/track/78pwKtHN83mApILvMcp2ZL) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [I Wish It Would Snow](https://open.spotify.com/album/6l7uq39brjSI3uEacWRkDP) | 2:45 |
 | 86 | [Away In a Manger](https://open.spotify.com/track/2GRvpoXLoxOiu88ME6YX6y) | [Tannenbaum Trio](https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn) | [Away In a Manger](https://open.spotify.com/album/0zMvwS3xk4yzILsWST0dZ5) | 1:09 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 124 | [We Wish You A Merry Christmas](https://open.spotify.com/track/7sqKpLs0CUelnUekGEhHwW) | [Rasmus H Thomsen Trio](https://open.spotify.com/artist/5Ep05EOVNYVc5b5trOuDI1), [Krydda Sundström](https://open.spotify.com/artist/6dI8O0N6q3qFU8OgvgpEIm), [Oskar Cederblad](https://open.spotify.com/artist/2FglkJbc16UM02HY1VovVM) | [We Wish You A Merry Christmas](https://open.spotify.com/album/506rp9HRzW8Eu1Cmnlo0rg) | 2:41 |
 | 125 | [Christmas Rainbows](https://open.spotify.com/track/3YriJtNU0FTmdTE8vZUaxd) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [That Holiday Feelin'](https://open.spotify.com/album/73x03sZD5Xkb6cOqbJ5R1j) | 5:13 |
 
-Snapshot ID: `MCw2YjljM2Y2OTgyNTkyMGIxZGQ1MzQ4ZWQzNTBmMjNjY2JlODc2NzFl`
+Snapshot ID: `MCw2YTYxZDdkZWNjNWY0NDdiOGM5ZWI1ZDg1M2ZjZTJkYmIxYzhlNGRi`

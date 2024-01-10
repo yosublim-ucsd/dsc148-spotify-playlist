@@ -1,12 +1,12 @@
 {
   "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: Peso Pluma, Anitta",
-  "num_followers": 171094,
+  "num_followers": 171185,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzBjOTgyZjk3NjQ5ZDViZmNkMzRiZTc1OTAxMjgyMmRkMTU2ZDkz",
+  "snapshot_id": "MCwzYWMyMGEwNzhlNjNlZjI2NGNkMjY2MTNlM2Y1MjI0MjUyNjQyYzgx",
   "tracks": [
     {
       "added_at": "2024-01-05 03:00:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
+        "name": "QUE CHIMBA DE VIDA",
+        "url": "https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 123351,
+      "name": "QUE CHIMBA DE VIDA",
+      "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
         "name": "ASI ES LA VIDA",
         "url": "https://open.spotify.com/album/6qW93Zylfk7oxZ8ZzwjkL5"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 172095,
       "name": "ASI ES LA VIDA",
       "url": "https://open.spotify.com/track/0Me3GyNuLOa1YTIxhJPyCn"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
-        "name": "QUE CHIMBA DE VIDA",
-        "url": "https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 123351,
-      "name": "QUE CHIMBA DE VIDA",
-      "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"
     },
     {
       "added_at": "2024-01-05 03:00:00",
@@ -975,26 +975,6 @@
     {
       "added_at": "2024-01-05 03:00:00",
       "album": {
-        "name": "EL DRAG\u00d3N",
-        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 187986,
-      "name": "EL TONTO",
-      "url": "https://open.spotify.com/track/4rKQ8daoK0aklVptea8A9E"
-    },
-    {
-      "added_at": "2024-01-05 03:00:00",
-      "album": {
         "name": "Calor",
         "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 200769,
       "name": "Calor",
       "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
+    },
+    {
+      "added_at": "2024-01-05 03:00:00",
+      "album": {
+        "name": "EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 187986,
+      "name": "EL TONTO",
+      "url": "https://open.spotify.com/track/4rKQ8daoK0aklVptea8A9E"
     },
     {
       "added_at": "2024-01-05 03:00:00",

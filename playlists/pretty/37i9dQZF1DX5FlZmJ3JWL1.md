@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,859 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,908 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 36 | [I Like To Move It](https://open.spotify.com/track/11mihFv2UTOzdDD9DrStYu) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u), [LePrince](https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO) | [I Like To Move It](https://open.spotify.com/album/5S4jmxHYCgA6hqaONRvzqV) | 2:18 |
 | 37 | [Drinkin](https://open.spotify.com/track/1Usa0Fv8L9NmRKY4UYk4sD) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Drinkin](https://open.spotify.com/album/2M4jhdsyvC0xpuXXc1SKWE) | 2:16 |
 | 38 | [Desire](https://open.spotify.com/track/1g2D7SpGbRPPXKLCly1mPc) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [Desire](https://open.spotify.com/album/0iveF55RhHxTp2IB8vxoTH) | 2:39 |
-| 39 | [Blow It Up](https://open.spotify.com/track/7EXennxBRtugSuQX13uLSu) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb) | [Blow It Up](https://open.spotify.com/album/6nHzBvtQQsdGWXrLvZyMU9) | 3:01 |
-| 40 | [Rebellion](https://open.spotify.com/track/3DCLYpsAUY9ecM04h5QAfD) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [July](https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz) | [Rebellion](https://open.spotify.com/album/1oiRDFIRaBNrpHVzMg0ANF) | 3:16 |
+| 39 | [Rebellion](https://open.spotify.com/track/3DCLYpsAUY9ecM04h5QAfD) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [July](https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz) | [Rebellion](https://open.spotify.com/album/1oiRDFIRaBNrpHVzMg0ANF) | 3:16 |
+| 40 | [Blow It Up](https://open.spotify.com/track/7EXennxBRtugSuQX13uLSu) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb) | [Blow It Up](https://open.spotify.com/album/6nHzBvtQQsdGWXrLvZyMU9) | 3:01 |
 | 41 | [Bongo Remix](https://open.spotify.com/track/0buvr23Xkpe54fGb0Xqsc6) | [Max + Johann](https://open.spotify.com/artist/7tUuueEA6DzbvvHmDy79Ow) | [Bongo Remix](https://open.spotify.com/album/4XFLyCczpHejrOtlkB2APk) | 2:40 |
 | 42 | [Out Of My Head](https://open.spotify.com/track/3B2SIeekeNUDeszphD3deS) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem), [y\_x](https://open.spotify.com/artist/1mntvQYpOHDTcAlSG8bmqM) | [Out Of My Head](https://open.spotify.com/album/35SgzMPyciNuNT0oK6NtdB) | 2:52 |
 | 43 | [Follow](https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Follow](https://open.spotify.com/album/0mHq8oTwln3MA72n3uHscJ) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 49 | [What's Up](https://open.spotify.com/track/12yj178KaJo8PrddT0StaL) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [What's Up](https://open.spotify.com/album/5FRUHD0aFh5GvSo3WGbKDd) | 2:27 |
 | 50 | [Bailando](https://open.spotify.com/track/60DGBqku2Iq7m2xrpJEcOp) | [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF), [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [DJ Sammy](https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT) | [Bailando](https://open.spotify.com/album/3jMmPvArFAhJbdKcFwCazV) | 2:16 |
 
-Snapshot ID: `MCw2NGQyZTM2MDY0NDczZTdjNjEyNGMxMzFjNjcxOTYwYmZmY2JiOGI3`
+Snapshot ID: `MCxiNjMyNGQxYTljMTRlM2UwOTg4NWIwZGU5YjhjNjc0MjMwZjdmZjYx`

@@ -1,12 +1,12 @@
 {
   "description": "Upbeat dance pop to keep your heart pumping.",
-  "num_followers": 4103484,
+  "num_followers": 4104322,
   "original_name": "Cardio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWIzNTlmOWYyMTdmNGRmNjQwZDEwYTdlODdjMTg3YTIyMWJlYWVj",
+  "snapshot_id": "MCw5MWNkNWQzNjk0MGFhYzlkZDM1YmFkYjQyYTM0YjU5MTJjYTMzZmY2",
   "tracks": [
     {
       "added_at": "2024-01-02 20:49:59",
@@ -391,26 +391,6 @@
     {
       "added_at": "2024-01-02 20:49:59",
       "album": {
-        "name": "Do It To It",
-        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Cherish",
-          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
-        }
-      ],
-      "duration_ms": 157890,
-      "name": "Do It To It",
-      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
-    },
-    {
-      "added_at": "2024-01-02 20:49:59",
-      "album": {
         "name": "Thank You (Not So Bad)",
         "url": "https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 140000,
       "name": "Thank You (Not So Bad)",
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
+    },
+    {
+      "added_at": "2024-01-02 20:49:59",
+      "album": {
+        "name": "Do It To It",
+        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Cherish",
+          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+        }
+      ],
+      "duration_ms": 157890,
+      "name": "Do It To It",
+      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
     },
     {
       "added_at": "2024-01-02 20:49:59",
@@ -727,42 +727,22 @@
     {
       "added_at": "2024-01-02 20:49:59",
       "album": {
-        "name": "Disconnect",
-        "url": "https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA"
+        "name": "Perfect (Exceeder)",
+        "url": "https://open.spotify.com/album/2KvtNjXWp2eq4oSUvf882U"
       },
       "artists": [
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+          "name": "Mason",
+          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
         },
         {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
         }
       ],
-      "duration_ms": 164914,
-      "name": "Disconnect",
-      "url": "https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE"
-    },
-    {
-      "added_at": "2024-01-02 20:49:59",
-      "album": {
-        "name": "La Jumpa",
-        "url": "https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "La Jumpa",
-      "url": "https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli"
+      "duration_ms": 161250,
+      "name": "Perfect (Exceeder)",
+      "url": "https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT"
     },
     {
       "added_at": "2024-01-02 20:49:59",
@@ -787,6 +767,26 @@
     {
       "added_at": "2024-01-02 20:49:59",
       "album": {
+        "name": "Disconnect",
+        "url": "https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        }
+      ],
+      "duration_ms": 164914,
+      "name": "Disconnect",
+      "url": "https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE"
+    },
+    {
+      "added_at": "2024-01-02 20:49:59",
+      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
@@ -803,6 +803,26 @@
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+    },
+    {
+      "added_at": "2024-01-02 20:49:59",
+      "album": {
+        "name": "La Jumpa",
+        "url": "https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "La Jumpa",
+      "url": "https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli"
     },
     {
       "added_at": "2024-01-02 20:49:59",
@@ -831,46 +851,6 @@
     {
       "added_at": "2024-01-02 20:49:59",
       "album": {
-        "name": "Perfect (Exceeder)",
-        "url": "https://open.spotify.com/album/2KvtNjXWp2eq4oSUvf882U"
-      },
-      "artists": [
-        {
-          "name": "Mason",
-          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
-        },
-        {
-          "name": "Princess Superstar",
-          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Perfect (Exceeder)",
-      "url": "https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT"
-    },
-    {
-      "added_at": "2024-01-02 20:49:59",
-      "album": {
-        "name": "Where Did You Go (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 177689,
-      "name": "Where Did You Go? (feat. MNEK)",
-      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
-    },
-    {
-      "added_at": "2024-01-02 20:49:59",
-      "album": {
         "name": "Fire! (feat. YUQI ((G)I-DLE), JVKE)",
         "url": "https://open.spotify.com/album/5uI3nK40uWp8fRu9Cvk71w"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 123624,
       "name": "Fire! (feat. YUQI ((G)I-DLE), JVKE)",
       "url": "https://open.spotify.com/track/5B8VpcIC3EAI3wke3XQoRy"
+    },
+    {
+      "added_at": "2024-01-02 20:49:59",
+      "album": {
+        "name": "Where Did You Go (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 177689,
+      "name": "Where Did You Go? (feat. MNEK)",
+      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
     },
     {
       "added_at": "2024-01-02 20:49:59",
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-01-02 20:49:59",
       "album": {
+        "name": "Saving Up",
+        "url": "https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 207514,
+      "name": "Saving Up",
+      "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
+    },
+    {
+      "added_at": "2024-01-02 20:49:59",
+      "album": {
         "name": "Cosmo",
         "url": "https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 184320,
       "name": "Vocation",
       "url": "https://open.spotify.com/track/6vkEJP0K2rPfe0ucPnKkLd"
-    },
-    {
-      "added_at": "2024-01-02 20:49:59",
-      "album": {
-        "name": "Saving Up",
-        "url": "https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 207514,
-      "name": "Saving Up",
-      "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
     },
     {
       "added_at": "2024-01-02 20:49:59",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-01-02 20:49:59",
       "album": {
-        "name": "GTA.mp3",
-        "url": "https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 151653,
-      "name": "GTA.mp3",
-      "url": "https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk"
-    },
-    {
-      "added_at": "2024-01-02 20:49:59",
-      "album": {
         "name": "Crying On The Dancefloor",
         "url": "https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7"
       },
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2024-01-02 20:49:59",
       "album": {
+        "name": "GTA.mp3",
+        "url": "https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 151653,
+      "name": "GTA.mp3",
+      "url": "https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk"
+    },
+    {
+      "added_at": "2024-01-02 20:49:59",
+      "album": {
         "name": "Makeba (Ian Asher Remix)",
         "url": "https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj"
       },
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2024-01-02 20:49:59",
       "album": {
-        "name": "In The City",
-        "url": "https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 176479,
-      "name": "In The City",
-      "url": "https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku"
-    },
-    {
-      "added_at": "2024-01-02 20:49:59",
-      "album": {
         "name": "Body Moving",
         "url": "https://open.spotify.com/album/5EcypjAXyzxlrF5AKCNg9K"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 154215,
       "name": "Body Moving",
       "url": "https://open.spotify.com/track/5SFCEkybGYmmzKqewtDEaN"
+    },
+    {
+      "added_at": "2024-01-02 20:49:59",
+      "album": {
+        "name": "In The City",
+        "url": "https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 176479,
+      "name": "In The City",
+      "url": "https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku"
     },
     {
       "added_at": "2024-01-02 20:49:59",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-01-02 20:49:59",
       "album": {
-        "name": "BELLYDANCING",
-        "url": "https://open.spotify.com/album/6D1c9gOUIaHAdY9ixKx47n"
-      },
-      "artists": [
-        {
-          "name": "INJI",
-          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
-        }
-      ],
-      "duration_ms": 122520,
-      "name": "BELLYDANCING",
-      "url": "https://open.spotify.com/track/74HBdKMibHlpW312HTFReN"
-    },
-    {
-      "added_at": "2024-01-02 20:49:59",
-      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 160766,
       "name": "Remember",
       "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
+    },
+    {
+      "added_at": "2024-01-02 20:49:59",
+      "album": {
+        "name": "BELLYDANCING",
+        "url": "https://open.spotify.com/album/6D1c9gOUIaHAdY9ixKx47n"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "duration_ms": 122520,
+      "name": "BELLYDANCING",
+      "url": "https://open.spotify.com/track/74HBdKMibHlpW312HTFReN"
     },
     {
       "added_at": "2024-01-02 20:49:59",
@@ -1535,30 +1535,6 @@
     {
       "added_at": "2024-01-02 20:49:59",
       "album": {
-        "name": "Dientes",
-        "url": "https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        }
-      ],
-      "duration_ms": 166426,
-      "name": "Dientes",
-      "url": "https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm"
-    },
-    {
-      "added_at": "2024-01-02 20:49:59",
-      "album": {
         "name": "Heavy Metal Love",
         "url": "https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH"
       },
@@ -1595,6 +1571,30 @@
     {
       "added_at": "2024-01-02 20:49:59",
       "album": {
+        "name": "Dientes",
+        "url": "https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        }
+      ],
+      "duration_ms": 166426,
+      "name": "Dientes",
+      "url": "https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm"
+    },
+    {
+      "added_at": "2024-01-02 20:49:59",
+      "album": {
         "name": "Something On My Mind",
         "url": "https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8"
       },
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-01-02 20:49:59",
       "album": {
-        "name": "GAME PLAN",
-        "url": "https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu"
-      },
-      "artists": [
-        {
-          "name": "JEON SOMI",
-          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
-        }
-      ],
-      "duration_ms": 160578,
-      "name": "Fast Forward",
-      "url": "https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d"
-    },
-    {
-      "added_at": "2024-01-02 20:49:59",
-      "album": {
         "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
         "url": "https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 157205,
       "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
       "url": "https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY"
+    },
+    {
+      "added_at": "2024-01-02 20:49:59",
+      "album": {
+        "name": "GAME PLAN",
+        "url": "https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "duration_ms": 160578,
+      "name": "Fast Forward",
+      "url": "https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d"
     },
     {
       "added_at": "2024-01-02 20:49:59",
@@ -1891,26 +1891,6 @@
     {
       "added_at": "2024-01-02 20:49:59",
       "album": {
-        "name": "Can't Play Myself (A Tribute To Amy)",
-        "url": "https://open.spotify.com/album/4dIIRxQJD8krCBjlEBDX35"
-      },
-      "artists": [
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        },
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 174330,
-      "name": "Can't Play Myself (A Tribute To Amy)",
-      "url": "https://open.spotify.com/track/6GrLwf1LdBCmkBOsmOcbPp"
-    },
-    {
-      "added_at": "2024-01-02 20:49:59",
-      "album": {
         "name": "If Only I (feat. Bebe Rexha)",
         "url": "https://open.spotify.com/album/2zpbQGsg44a9BahMS8EwIy"
       },
@@ -1931,6 +1911,26 @@
       "duration_ms": 142756,
       "name": "If Only I (feat. Bebe Rexha)",
       "url": "https://open.spotify.com/track/4W7bfpXBXrH79dnWyJMkEX"
+    },
+    {
+      "added_at": "2024-01-02 20:49:59",
+      "album": {
+        "name": "Can't Play Myself (A Tribute To Amy)",
+        "url": "https://open.spotify.com/album/4dIIRxQJD8krCBjlEBDX35"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 174330,
+      "name": "Can't Play Myself (A Tribute To Amy)",
+      "url": "https://open.spotify.com/track/6GrLwf1LdBCmkBOsmOcbPp"
     },
     {
       "added_at": "2024-01-02 20:49:59",

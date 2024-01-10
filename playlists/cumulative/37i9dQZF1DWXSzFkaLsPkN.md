@@ -4,7 +4,7 @@
 
 > Hindi hai, Indie hai! Cover\- Aditya A
 
-159 songs - 8 hr 46 min
+160 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Alfaazo](https://open.spotify.com/track/6KvXpACADAz73IPrCgXobL) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Alfaazo](https://open.spotify.com/album/6xy5HvqMaDhB1EGlqE5iju) | 2:38 | 2023-05-02 |  |
 | [Awaara Ho](https://open.spotify.com/track/1wYzvT6Ek0rJSyVu848CzN) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Awaara Ho](https://open.spotify.com/album/5S42rvQq7Ix5LvUZNCu1Qu) | 3:29 | 2023-05-02 |  |
 | [Baaraat](https://open.spotify.com/track/0YLSjVxSb5FT1Bo8Tnxr8j) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh) | [Baaraat](https://open.spotify.com/album/5tJNl2p7wNTuRBvikWFHSn) | 3:42 | 2023-05-02 |  |
-| [Baawra Mann](https://open.spotify.com/track/79RInrNbVRumprs4MDYgwz) | [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Shambhavi Thakur](https://open.spotify.com/artist/2b1YWOv5v6yzuEDComf7fO) | [Baawra Mann](https://open.spotify.com/album/75dVZo1ENZKeR3JDBQW8DR) | 3:07 | 2023-12-15 |  |
+| [Baawra Mann](https://open.spotify.com/track/79RInrNbVRumprs4MDYgwz) | [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Shambhavi Thakur](https://open.spotify.com/artist/2b1YWOv5v6yzuEDComf7fO) | [Baawra Mann](https://open.spotify.com/album/75dVZo1ENZKeR3JDBQW8DR) | 3:07 | 2023-12-15 | 2024-01-10 |
 | [Badra Bahara](https://open.spotify.com/track/6i9997Q9R4M7RuqQEHq3ed) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Badra Bahara](https://open.spotify.com/album/4rmIiT592uOXCMNR1nbhvl) | 2:36 | 2023-05-02 |  |
 | [Befikar](https://open.spotify.com/track/0Qxis7LXvwqhCO2qOKCmLX) | [Tanzeel Khan](https://open.spotify.com/artist/64Bnlany1OG6esdJyOxyey), [Aashna Hegde](https://open.spotify.com/artist/69As4MCKWsge98Vh3kmiJe) | [Befikar](https://open.spotify.com/album/33KloUY2J8WBQI5BisMJ8E) | 3:24 | 2023-05-02 |  |
 | [Bewajah](https://open.spotify.com/track/6uJ6KxWCNszP9VDtZm5A0C) | [somanshu](https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Bewajah](https://open.spotify.com/album/7pb1utVXS2OS6dfQF0f0cN) | 2:51 | 2023-05-02 |  |
@@ -120,6 +120,7 @@
 | [Parda](https://open.spotify.com/track/09FfppwkzTccGQFWcglxGD) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Parda](https://open.spotify.com/album/5ZxjM0OML0g3RVv3utPfA6) | 3:12 | 2023-05-02 |  |
 | [Parwaana](https://open.spotify.com/track/1plViHUxnafeKCFKV6Tegs) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Akela](https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw) | 4:11 | 2023-08-04 | 2023-08-10 |
 | [Pehli Baar](https://open.spotify.com/track/27XgpNt1YAhNoOOjxf6sND) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Namit Das](https://open.spotify.com/artist/5hRlXrAjvQ7HEa3CSRYaSK) | [Pehli Baar](https://open.spotify.com/album/1aKx5Sx4JrTG1YIZKCc8AM) | 2:57 | 2023-12-15 |  |
+| [Piya Se Mila De](https://open.spotify.com/track/4Z2MfpavuPU4dNJUohBGRo) | [Ujwal Nagar](https://open.spotify.com/artist/09GQxWaCQICsreFokLcbzc), [Anindo Bose](https://open.spotify.com/artist/1G2v9z0cxtBy5FMHvZB5Hr) | [Piya Se Mila De](https://open.spotify.com/album/6Kr7joSInnPV3gWBRj5xN2) | 4:26 | 2024-01-09 |  |
 | [Pukaroge](https://open.spotify.com/track/2fLoGliNPrkYu3538MEXAr) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Pukaroge](https://open.spotify.com/album/6oT1IdHJahyT5GLigdFYyq) | 3:57 | 2023-05-02 |  |
 | [Qissa](https://open.spotify.com/track/0It2E7X6pVAGBUllqfsjbp) | [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Qissa](https://open.spotify.com/album/0xMq75IL6dwy0eDgUNRlR6) | 2:05 | 2023-08-09 | 2023-11-02 |
 | [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 | 2023-07-15 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1542599,
+  "num_followers": 1541580,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzNlMmQ0NTNhNmJiMjA5OWY3ZjExMTAzODI1YjNmYTM4YTkwYWRl",
+  "snapshot_id": "MCw2YmVhOWY4ZmU5NmZkNmVhZTgzZWE0NGE1NGFhNjYwNzZkNzM3NWUy",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Coming Home (feat. John Martin)",
-        "url": "https://open.spotify.com/album/0e6QKn14Qh0qmpZMRuUvm1"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        },
-        {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
-        }
-      ],
-      "duration_ms": 212812,
-      "name": "Coming Home (feat. John Martin)",
-      "url": "https://open.spotify.com/track/2ReortySZeaeI0CUWiIh8v"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "The World You See",
         "url": "https://open.spotify.com/album/0V9gdn8ZnhvkpRAvdnkT7I"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 217515,
       "name": "The World You See",
       "url": "https://open.spotify.com/track/4TQgbkv9CF1Qy4GIfpZeSO"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Coming Home (feat. John Martin)",
+        "url": "https://open.spotify.com/album/0e6QKn14Qh0qmpZMRuUvm1"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "duration_ms": 212812,
+      "name": "Coming Home (feat. John Martin)",
+      "url": "https://open.spotify.com/track/2ReortySZeaeI0CUWiIh8v"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "duration_ms": 232245,
+      "name": "Silenced",
+      "url": "https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "All That Matters (Artbat Remix)",
         "url": "https://open.spotify.com/album/5BRqAXbsa6oxnnLQIiDHai"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 288387,
       "name": "Rave",
       "url": "https://open.spotify.com/track/57KkNRa2cLuqdSVhAcEyi4"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Dark Matter",
-        "url": "https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 232245,
-      "name": "Silenced",
-      "url": "https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Hypnotised / I Can Feel",
+        "url": "https://open.spotify.com/album/5QDehFZtgj2xIdHJYd0rE8"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Dosem",
+          "url": "https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS"
+        }
+      ],
+      "duration_ms": 340114,
+      "name": "Hypnotised",
+      "url": "https://open.spotify.com/track/3o5P6TF0Gop8MiuuuTtttl"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Brighter (Dave Summer Remix)",
         "url": "https://open.spotify.com/album/7AfDLIKksawCSHZXVoi3nl"
       },
@@ -1275,42 +1295,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Slipstream (feat. Julia Church)",
-        "url": "https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 252073,
-      "name": "Slipstream (feat. Julia Church)",
-      "url": "https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Nightvision EP",
-        "url": "https://open.spotify.com/album/2scllAGm040Z7At3jDYxuJ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 172730,
-      "name": "Skin On Skin",
-      "url": "https://open.spotify.com/track/6NnFDi8yXzPGmr2ykbf58n"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "The Remixes",
         "url": "https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX"
       },
@@ -1327,6 +1311,38 @@
       "duration_ms": 216795,
       "name": "Higher",
       "url": "https://open.spotify.com/track/2pW8MxDV77hQvyxjL3tgKi"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Twisted Reality (Edit)",
+        "url": "https://open.spotify.com/album/2be6MuI6wAu5tB4HrYmUfJ"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Twisted Reality - Edit",
+      "url": "https://open.spotify.com/track/3KtWJZlt5tPT8E5akHUpVZ"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Nightvision EP",
+        "url": "https://open.spotify.com/album/2scllAGm040Z7At3jDYxuJ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 172730,
+      "name": "Skin On Skin",
+      "url": "https://open.spotify.com/track/6NnFDi8yXzPGmr2ykbf58n"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1355,18 +1371,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Twisted Reality (Edit)",
-        "url": "https://open.spotify.com/album/2be6MuI6wAu5tB4HrYmUfJ"
+        "name": "I Need You (Adriatique Remix)",
+        "url": "https://open.spotify.com/album/5xoWT0xsoV2jQ5wFvLUEfN"
       },
       "artists": [
         {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
         }
       ],
-      "duration_ms": 207360,
-      "name": "Twisted Reality - Edit",
-      "url": "https://open.spotify.com/track/3KtWJZlt5tPT8E5akHUpVZ"
+      "duration_ms": 291304,
+      "name": "I Need You - Adriatique Remix",
+      "url": "https://open.spotify.com/track/4RfOBweHWhbKwFDqIsuxdY"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1387,26 +1407,6 @@
       "duration_ms": 335409,
       "name": "The Little Mushroom That Got Away",
       "url": "https://open.spotify.com/track/2luKkgm9p46Yf7cQ4pMWaR"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "I Need You (Adriatique Remix)",
-        "url": "https://open.spotify.com/album/5xoWT0xsoV2jQ5wFvLUEfN"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        }
-      ],
-      "duration_ms": 291304,
-      "name": "I Need You - Adriatique Remix",
-      "url": "https://open.spotify.com/track/4RfOBweHWhbKwFDqIsuxdY"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1451,6 +1451,26 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Slipstream (feat. Julia Church)",
+        "url": "https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 252073,
+      "name": "Slipstream (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Skyscrapers (Hi-Lo Remix)",
         "url": "https://open.spotify.com/album/5jhAOb0JdrZjlbfEl6BVPS"
       },
@@ -1471,26 +1491,6 @@
       "duration_ms": 296368,
       "name": "Skyscrapers - Hi-Lo Remix",
       "url": "https://open.spotify.com/track/2g95XDCx4GqcaJPv7TTk8C"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Hypnotised / I Can Feel",
-        "url": "https://open.spotify.com/album/5QDehFZtgj2xIdHJYd0rE8"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Dosem",
-          "url": "https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS"
-        }
-      ],
-      "duration_ms": 340114,
-      "name": "Hypnotised",
-      "url": "https://open.spotify.com/track/3o5P6TF0Gop8MiuuuTtttl"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1535,6 +1535,42 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Into Dust",
+        "url": "https://open.spotify.com/album/7ITggXxODRWOO3vhHM1EOA"
+      },
+      "artists": [
+        {
+          "name": "AN21",
+          "url": "https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn"
+        },
+        {
+          "name": "Ali Bakgor",
+          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
+        }
+      ],
+      "duration_ms": 196905,
+      "name": "Into Dust",
+      "url": "https://open.spotify.com/track/3Yosq67GSBqGVkPm3O3Iul"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "All That I Lost",
+        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 259838,
+      "name": "All That I Lost",
+      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/36G5TgLmtE6At9eSZwij78"
       },
@@ -1575,26 +1611,6 @@
       "duration_ms": 245538,
       "name": "Desire",
       "url": "https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Into Dust",
-        "url": "https://open.spotify.com/album/7ITggXxODRWOO3vhHM1EOA"
-      },
-      "artists": [
-        {
-          "name": "AN21",
-          "url": "https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn"
-        },
-        {
-          "name": "Ali Bakgor",
-          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
-        }
-      ],
-      "duration_ms": 196905,
-      "name": "Into Dust",
-      "url": "https://open.spotify.com/track/3Yosq67GSBqGVkPm3O3Iul"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1683,22 +1699,6 @@
       "duration_ms": 200952,
       "name": "Little Darling - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "All That I Lost",
-        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 259838,
-      "name": "All That I Lost",
-      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1891,6 +1891,30 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Consciousness (Eric Prydz Remix)",
+        "url": "https://open.spotify.com/album/2jITDjGchk0LPGBXRqGiUQ"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        },
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 244130,
+      "name": "Consciousness (Eric Prydz Remix)",
+      "url": "https://open.spotify.com/track/5jf5tzTvyRWTHwiFiGYgsP"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/0ll3Yf2B4alvZGWeydE3fT"
       },
@@ -1947,22 +1971,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Born Digital",
-        "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
-      },
-      "artists": [
-        {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Origin",
         "url": "https://open.spotify.com/album/5Z6mUYSbLGMoRyLq8JAuj1"
       },
@@ -1987,6 +1995,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Born Digital",
+        "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
+      },
+      "artists": [
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "You Take My Hand",
         "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
       },
@@ -2003,22 +2027,6 @@
       "duration_ms": 315861,
       "name": "You Take My Hand",
       "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "The Return (Edit)",
-        "url": "https://open.spotify.com/album/6HbZkybdKSNHk0TEEGnJB2"
-      },
-      "artists": [
-        {
-          "name": "Pryda",
-          "url": "https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt"
-        }
-      ],
-      "duration_ms": 232380,
-      "name": "The Return - Edit",
-      "url": "https://open.spotify.com/track/0RmzDQgs6xKmVA2jsmSPXF"
     },
     {
       "added_at": "2024-01-05 05:00:00",

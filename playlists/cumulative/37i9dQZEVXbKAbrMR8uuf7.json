@@ -636,7 +636,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 184215,
       "name": "A 120",
       "url": "https://open.spotify.com/track/3TDQyH0HTgXtIduFCKWwlu"
@@ -2844,7 +2844,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 134565,
       "name": "Boy Boy",
       "url": "https://open.spotify.com/track/1eK3kCQnzPvNgvDRy5QP1B"
@@ -4330,7 +4330,7 @@
       ],
       "date_added": "2023-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 118412,
       "name": "Cua Cua",
       "url": "https://open.spotify.com/track/3Kvulmj8KcGhbnOhqHFEht"
@@ -7042,7 +7042,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 147457,
       "name": "Empaquetate",
       "url": "https://open.spotify.com/track/2FrcdIdoHSyzdgPcAoOEEC"
@@ -10538,7 +10538,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ"
@@ -19636,7 +19636,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 128976,
       "name": "Rojo",
       "url": "https://open.spotify.com/track/68gFmVB5UqQPv0QRMibOGT"
@@ -22536,7 +22536,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 354784,
       "name": "TELEFONO NUEVO",
       "url": "https://open.spotify.com/track/01ppKlDRCmPpusO3yNrSRY"
@@ -22576,6 +22576,32 @@
       "duration_ms": 145449,
       "name": "Teteo",
       "url": "https://open.spotify.com/track/1rnTP7ptxaj0rq2Iyc4Ufv"
+    },
+    {
+      "album": {
+        "name": "TETEO",
+        "url": "https://open.spotify.com/album/1mnkzLm2harcXTYeKIJqVJ"
+      },
+      "artists": [
+        {
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        },
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152373,
+      "name": "TETEO",
+      "url": "https://open.spotify.com/track/21L0hDSgXhFxniIBug6WAO"
     },
     {
       "album": {

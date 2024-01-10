@@ -1,12 +1,12 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Lori McKenna",
-  "num_followers": 200934,
+  "num_followers": 200747,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGUwMjczNGM5YjExZmE2YTk5ZWNmODJkYzZmOGRjZTdiYTk2MjMy",
+  "snapshot_id": "MCwyMGY5N2NmYmQ2NzdmOWVjODc1N2NkN2YwMTE1ODVmZDYyOTYwZjJm",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Copperhead Road",
-        "url": "https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 269920,
-      "name": "Copperhead Road",
-      "url": "https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 178560,
       "name": "I Feel the Earth Move",
       "url": "https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Copperhead Road",
+        "url": "https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "duration_ms": 269920,
+      "name": "Copperhead Road",
+      "url": "https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "The Tree of Forgiveness",
+        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "duration_ms": 209047,
+      "name": "Summer's End",
+      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Transcendental Blues",
         "url": "https://open.spotify.com/album/15FbLxuzw8MuuIC1AOob6k"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 252093,
       "name": "Long Time Comin'",
       "url": "https://open.spotify.com/track/4OfCkjpcpqKgr9igYyOSHm"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "The Tree of Forgiveness",
-        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        }
-      ],
-      "duration_ms": 209047,
-      "name": "Summer's End",
-      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "John Prine",
+        "url": "https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "duration_ms": 272026,
+      "name": "Hello in There",
+      "url": "https://open.spotify.com/track/7IijX5DkLaf3G4qF6xDLYa"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Nightshift",
         "url": "https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc"
       },
@@ -591,18 +607,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "John Prine",
-        "url": "https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp"
+        "name": "Leftover Feelings",
+        "url": "https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs"
       },
       "artists": [
         {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+          "name": "John Hiatt",
+          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
+        },
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
         }
       ],
-      "duration_ms": 272026,
-      "name": "Hello in There",
-      "url": "https://open.spotify.com/track/7IijX5DkLaf3G4qF6xDLYa"
+      "duration_ms": 209040,
+      "name": "All The Lilacs In Ohio",
+      "url": "https://open.spotify.com/track/6DQEBTXpcoAH4M6wHZVPFN"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -627,26 +647,6 @@
       "duration_ms": 240813,
       "name": "Those Memories of You - 2015 Remaster",
       "url": "https://open.spotify.com/track/7sdNvO1i0MeKRseYnuebGN"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Leftover Feelings",
-        "url": "https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs"
-      },
-      "artists": [
-        {
-          "name": "John Hiatt",
-          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
-        },
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "All The Lilacs In Ohio",
-      "url": "https://open.spotify.com/track/6DQEBTXpcoAH4M6wHZVPFN"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Hickory Wind",
+        "url": "https://open.spotify.com/album/5rAT05WHdhzdiJMw9fsKSX"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 245202,
+      "name": "Red Dirt Girl",
+      "url": "https://open.spotify.com/track/41QWKQjT6riBhHAGYHU9Xu"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Raising Sand",
         "url": "https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 212840,
       "name": "Gone Gone Gone (Done Moved On)",
       "url": "https://open.spotify.com/track/7MRw8W5jZoG0SNNcHLgkEO"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Hickory Wind",
-        "url": "https://open.spotify.com/album/5rAT05WHdhzdiJMw9fsKSX"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 245202,
-      "name": "Red Dirt Girl",
-      "url": "https://open.spotify.com/track/41QWKQjT6riBhHAGYHU9Xu"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -887,42 +887,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Terms of My Surrender",
-        "url": "https://open.spotify.com/album/5Kl06Gn6TlYxhRr7Qmrr8m"
-      },
-      "artists": [
-        {
-          "name": "John Hiatt",
-          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
-        }
-      ],
-      "duration_ms": 209666,
-      "name": "Terms of My Surrender",
-      "url": "https://open.spotify.com/track/18OOuOgsYB5EHdwesALHnm"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Raising Sand",
-        "url": "https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n"
-      },
-      "artists": [
-        {
-          "name": "Robert Plant",
-          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
-        }
-      ],
-      "duration_ms": 255826,
-      "name": "Killing the Blues",
-      "url": "https://open.spotify.com/track/3KIoiyLwNxqHMfmlPFgDEG"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Traveling Alone",
         "url": "https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R"
       },
@@ -935,6 +899,22 @@
       "duration_ms": 284960,
       "name": "Traveling Alone",
       "url": "https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Terms of My Surrender",
+        "url": "https://open.spotify.com/album/5Kl06Gn6TlYxhRr7Qmrr8m"
+      },
+      "artists": [
+        {
+          "name": "John Hiatt",
+          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
+        }
+      ],
+      "duration_ms": 209666,
+      "name": "Terms of My Surrender",
+      "url": "https://open.spotify.com/track/18OOuOgsYB5EHdwesALHnm"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -963,6 +943,26 @@
       "duration_ms": 228320,
       "name": "Crossing Muddy Waters",
       "url": "https://open.spotify.com/track/7jb1ZSirsHV1H2cLTNbqDX"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Raising Sand",
+        "url": "https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n"
+      },
+      "artists": [
+        {
+          "name": "Robert Plant",
+          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "duration_ms": 255826,
+      "name": "Killing the Blues",
+      "url": "https://open.spotify.com/track/3KIoiyLwNxqHMfmlPFgDEG"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -999,6 +999,22 @@
       "duration_ms": 318293,
       "name": "Are You Alright?",
       "url": "https://open.spotify.com/track/28EK7qsobexG3NJRrTE4tc"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Bring The Family",
+        "url": "https://open.spotify.com/album/1S6p34YmdtR3KCSiSTjbgW"
+      },
+      "artists": [
+        {
+          "name": "John Hiatt",
+          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
+        }
+      ],
+      "duration_ms": 239800,
+      "name": "Memphis In The Meantime",
+      "url": "https://open.spotify.com/track/6ayQVhvuy6yRx19572hPMT"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1047,22 +1063,6 @@
       "duration_ms": 241957,
       "name": "The Way It Goes",
       "url": "https://open.spotify.com/track/6jx8L9ng94zKcw4xbbQFjC"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Bring The Family",
-        "url": "https://open.spotify.com/album/1S6p34YmdtR3KCSiSTjbgW"
-      },
-      "artists": [
-        {
-          "name": "John Hiatt",
-          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
-        }
-      ],
-      "duration_ms": 239800,
-      "name": "Memphis In The Meantime",
-      "url": "https://open.spotify.com/track/6ayQVhvuy6yRx19572hPMT"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Boots No. 1: The Official Revival Bootleg",
-        "url": "https://open.spotify.com/album/235ZzGz026rUvay44aA8JU"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 175083,
-      "name": "Dry Town (Demo)",
-      "url": "https://open.spotify.com/track/0ddo16GDbp9RoNzT285C4R"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Your Life Is a Record",
         "url": "https://open.spotify.com/album/027y46STDxTFM35diEeoxy"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 189173,
       "name": "Who You Thought I Was",
       "url": "https://open.spotify.com/track/0CEyCdEWwN1w92O76mQHmN"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Boots No. 1: The Official Revival Bootleg",
+        "url": "https://open.spotify.com/album/235ZzGz026rUvay44aA8JU"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 175083,
+      "name": "Dry Town (Demo)",
+      "url": "https://open.spotify.com/track/0ddo16GDbp9RoNzT285C4R"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72"
-      },
-      "artists": [
-        {
-          "name": "Allison Moorer",
-          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
-        }
-      ],
-      "duration_ms": 219108,
-      "name": "The Rock and the Hill",
-      "url": "https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "The Worse Things Get, The Harder I Fight, The Harder I Fight, The More I Love You (Deluxe Edition)",
         "url": "https://open.spotify.com/album/56PXLjwRAZTqpZjM07FeR5"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 227826,
       "name": "Night Still Comes",
       "url": "https://open.spotify.com/track/0l5TOyEd5RswsWnqOaOX0X"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72"
+      },
+      "artists": [
+        {
+          "name": "Allison Moorer",
+          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
+        }
+      ],
+      "duration_ms": 219108,
+      "name": "The Rock and the Hill",
+      "url": "https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "My Favorite Picture Of You",
-        "url": "https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo"
-      },
-      "artists": [
-        {
-          "name": "Guy Clark",
-          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
-        }
-      ],
-      "duration_ms": 214773,
-      "name": "Hell Bent On A Heartache",
-      "url": "https://open.spotify.com/track/5DLtHTvMX7q8eN8ZVJGqL9"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Tell the Devil I'm Gettin' there as Fast as I Can",
         "url": "https://open.spotify.com/album/19AaEKSxOSfjfqjWi3UDQU"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 347769,
       "name": "Tell the Devil I'm Gettin' there as Fast as I Can",
       "url": "https://open.spotify.com/track/0CzXjHD4dpnjzkMceBT1Kh"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "My Favorite Picture Of You",
+        "url": "https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo"
+      },
+      "artists": [
+        {
+          "name": "Guy Clark",
+          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
+        }
+      ],
+      "duration_ms": 214773,
+      "name": "Hell Bent On A Heartache",
+      "url": "https://open.spotify.com/track/5DLtHTvMX7q8eN8ZVJGqL9"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Patty Griffin",
-        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
-      },
-      "artists": [
-        {
-          "name": "Patty Griffin",
-          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
-        }
-      ],
-      "duration_ms": 284030,
-      "name": "Where I Come From",
-      "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Black Roses",
         "url": "https://open.spotify.com/album/1iC9LrnPFTIBmXuAd6xRcA"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 176653,
       "name": "No Later than Soon",
       "url": "https://open.spotify.com/track/3CC7V91xd02Z5xW8QBZBsj"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Patty Griffin",
+        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
+      },
+      "artists": [
+        {
+          "name": "Patty Griffin",
+          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
+        }
+      ],
+      "duration_ms": 284030,
+      "name": "Where I Come From",
+      "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1723,6 +1723,38 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Folk Singer Vol. 1",
+        "url": "https://open.spotify.com/album/6OjyU4DWN0AIgLeSSV1rrq"
+      },
+      "artists": [
+        {
+          "name": "Willie Watson",
+          "url": "https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq"
+        }
+      ],
+      "duration_ms": 215406,
+      "name": "Keep It Clean",
+      "url": "https://open.spotify.com/track/60M98E0CkJgJUApaHdgEaO"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "I'm A Song",
+        "url": "https://open.spotify.com/album/7xiBD9ioPWaRgSZzxz5ht1"
+      },
+      "artists": [
+        {
+          "name": "Jim Lauderdale",
+          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
+        }
+      ],
+      "duration_ms": 129077,
+      "name": "Let's Have A Good Thing Together",
+      "url": "https://open.spotify.com/track/0DUwtslFAFipEYffWCRTI9"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Triage",
         "url": "https://open.spotify.com/album/0DiHlymiDZO7XeIFCC7iMY"
       },
@@ -1755,22 +1787,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Folk Singer Vol. 1",
-        "url": "https://open.spotify.com/album/6OjyU4DWN0AIgLeSSV1rrq"
-      },
-      "artists": [
-        {
-          "name": "Willie Watson",
-          "url": "https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq"
-        }
-      ],
-      "duration_ms": 215406,
-      "name": "Keep It Clean",
-      "url": "https://open.spotify.com/track/60M98E0CkJgJUApaHdgEaO"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Give the People What They Want",
         "url": "https://open.spotify.com/album/3f8j4GaxidCnaDhlD72V0O"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 211266,
       "name": "Stranger to My Happiness",
       "url": "https://open.spotify.com/track/1ajv5XuWMbe35X13ACtyv9"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "I'm A Song",
-        "url": "https://open.spotify.com/album/7xiBD9ioPWaRgSZzxz5ht1"
-      },
-      "artists": [
-        {
-          "name": "Jim Lauderdale",
-          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
-        }
-      ],
-      "duration_ms": 129077,
-      "name": "Let's Have A Good Thing Together",
-      "url": "https://open.spotify.com/track/0DUwtslFAFipEYffWCRTI9"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1871,6 +1871,26 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Long in the Tooth",
+        "url": "https://open.spotify.com/album/3sE0ZaVDdItWax4M1jmT7J"
+      },
+      "artists": [
+        {
+          "name": "Billy Joe Shaver",
+          "url": "https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 186152,
+      "name": "Hard to Be an Outlaw (feat. Willie Nelson)",
+      "url": "https://open.spotify.com/track/59WPFxAkd8RiMhQ25WYIf8"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "It Ain't Over Yet",
         "url": "https://open.spotify.com/album/4mb6UF8cOjSY9pEB3gB1EL"
       },
@@ -1891,26 +1911,6 @@
       "duration_ms": 314080,
       "name": "It Ain't Over Yet",
       "url": "https://open.spotify.com/track/1fB28ISF5QwsPu2nqAPRSV"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Long in the Tooth",
-        "url": "https://open.spotify.com/album/3sE0ZaVDdItWax4M1jmT7J"
-      },
-      "artists": [
-        {
-          "name": "Billy Joe Shaver",
-          "url": "https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 186152,
-      "name": "Hard to Be an Outlaw (feat. Willie Nelson)",
-      "url": "https://open.spotify.com/track/59WPFxAkd8RiMhQ25WYIf8"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Remedy",
-        "url": "https://open.spotify.com/album/5UeWaLSzyg0dpeCdQyx9u0"
-      },
-      "artists": [
-        {
-          "name": "Old Crow Medicine Show",
-          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
-        }
-      ],
-      "duration_ms": 230106,
-      "name": "Brushy Mountain Conjugal Trailer",
-      "url": "https://open.spotify.com/track/1qHro6dwCdlg9XPhNvWrLe"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Love Calling",
         "url": "https://open.spotify.com/album/60H0TY0XqRGEsXKovVOHAY"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 239266,
       "name": "Angel Flight",
       "url": "https://open.spotify.com/track/5HXIx1TnpLAJtWS9O10kls"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/5UeWaLSzyg0dpeCdQyx9u0"
+      },
+      "artists": [
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        }
+      ],
+      "duration_ms": 230106,
+      "name": "Brushy Mountain Conjugal Trailer",
+      "url": "https://open.spotify.com/track/1qHro6dwCdlg9XPhNvWrLe"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Way Out West",
-        "url": "https://open.spotify.com/album/60pQBVeOJlYePpptEhEouB"
-      },
-      "artists": [
-        {
-          "name": "Marty Stuart And His Fabulous Superlatives",
-          "url": "https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO"
-        }
-      ],
-      "duration_ms": 341026,
-      "name": "Way Out West",
-      "url": "https://open.spotify.com/track/5Nr59BVUdfkVi591cj20qi"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/3mXZIWJYygHtn9XaZrvpbJ"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 175400,
       "name": "Detour (feat. Emmylou Harris)",
       "url": "https://open.spotify.com/track/0vxmBkeL8EuDpJvIb2dhRJ"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Way Out West",
+        "url": "https://open.spotify.com/album/60pQBVeOJlYePpptEhEouB"
+      },
+      "artists": [
+        {
+          "name": "Marty Stuart And His Fabulous Superlatives",
+          "url": "https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO"
+        }
+      ],
+      "duration_ms": 341026,
+      "name": "Way Out West",
+      "url": "https://open.spotify.com/track/5Nr59BVUdfkVi591cj20qi"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2315,22 +2315,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Look Again to the Wind: Johnny Cash's Bitter Tears Revisited",
-        "url": "https://open.spotify.com/album/3Fdn9X7bYegjL6UNzXZdCs"
+        "name": "Stitch of the World",
+        "url": "https://open.spotify.com/album/3COhbKE23L3W24wLnLQToD"
       },
       "artists": [
         {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        },
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+          "name": "Tift Merritt",
+          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
         }
       ],
-      "duration_ms": 178706,
-      "name": "Custer",
-      "url": "https://open.spotify.com/track/68j5e8Xaucfb3WNbROEvc0"
+      "duration_ms": 227226,
+      "name": "Dusty Old Man",
+      "url": "https://open.spotify.com/track/73TqDe29PdDaqW0ftPLFvA"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2351,6 +2347,26 @@
       "duration_ms": 260333,
       "name": "Here is Where the Loving is at (feat. Emmylou Harris)",
       "url": "https://open.spotify.com/track/6LfKYnjQqTgB6UwxHtnIxO"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Look Again to the Wind: Johnny Cash's Bitter Tears Revisited",
+        "url": "https://open.spotify.com/album/3Fdn9X7bYegjL6UNzXZdCs"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        },
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 178706,
+      "name": "Custer",
+      "url": "https://open.spotify.com/track/68j5e8Xaucfb3WNbROEvc0"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2399,22 +2415,6 @@
       "duration_ms": 203843,
       "name": "House of the White Rose Boquet",
       "url": "https://open.spotify.com/track/6fGqZu6bhVb9aPqJ2r3eZ5"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Stitch of the World",
-        "url": "https://open.spotify.com/album/3COhbKE23L3W24wLnLQToD"
-      },
-      "artists": [
-        {
-          "name": "Tift Merritt",
-          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
-        }
-      ],
-      "duration_ms": 227226,
-      "name": "Dusty Old Man",
-      "url": "https://open.spotify.com/track/73TqDe29PdDaqW0ftPLFvA"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2639,22 +2639,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Electro Melodier",
-        "url": "https://open.spotify.com/album/4nqWF9eOdxiyRevgezK8QS"
-      },
-      "artists": [
-        {
-          "name": "Son Volt",
-          "url": "https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe"
-        }
-      ],
-      "duration_ms": 215570,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/3h3OQ1X6pe0Z78j37RsPF9"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Dumplin' Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/50FL6Vavo5CtZ1S9QQSJeO"
       },
@@ -2675,6 +2659,22 @@
       "duration_ms": 148960,
       "name": "If We Don't (with Alison Krauss) - from the Dumplin' Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/6XZFRtDF6VB7FeFQzZ0UWG"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Electro Melodier",
+        "url": "https://open.spotify.com/album/4nqWF9eOdxiyRevgezK8QS"
+      },
+      "artists": [
+        {
+          "name": "Son Volt",
+          "url": "https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe"
+        }
+      ],
+      "duration_ms": 215570,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/3h3OQ1X6pe0Z78j37RsPF9"
     },
     {
       "added_at": "2023-08-11 04:00:00",

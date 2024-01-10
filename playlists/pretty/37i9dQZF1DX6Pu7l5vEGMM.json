@@ -1,12 +1,12 @@
 {
   "description": "what are we?",
-  "num_followers": 286344,
+  "num_followers": 286846,
   "original_name": "situationship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmY1N2E1YjExN2E5YzQ2NjRmYzRhOGMyYmU4ODViN2Y4MDNiMzUy",
+  "snapshot_id": "MCwyNmU0NTE1ODMyMzE5Nzc5ZjEyMWU1NWIxNzFmOTdiYjE2OTdkYTlk",
   "tracks": [
     {
       "added_at": "2024-01-08 17:32:31",
@@ -267,6 +267,22 @@
     {
       "added_at": "2024-01-08 17:32:31",
       "album": {
+        "name": "Romantic Homicide",
+        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 132630,
+      "name": "Romantic Homicide",
+      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
+    },
+    {
+      "added_at": "2024-01-08 17:32:31",
+      "album": {
         "name": "Seven (feat. Latto)",
         "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 184400,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
-    },
-    {
-      "added_at": "2024-01-08 17:32:31",
-      "album": {
-        "name": "Romantic Homicide",
-        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 132630,
-      "name": "Romantic Homicide",
-      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
     },
     {
       "added_at": "2024-01-08 17:32:31",

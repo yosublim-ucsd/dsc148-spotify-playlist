@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 
 > The essential tracks from the label VP Records\. Cover: Beenie Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,077 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,109 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 3 | [Ganja Smuggling](https://open.spotify.com/track/5iynCtpEY7mx4ou54tHBPH) | [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [Wa\-Do\-Dem](https://open.spotify.com/album/2fGzC6ZvAqmpBr8dprAQTT) | 3:48 |
 | 4 | [Police In Helicopter](https://open.spotify.com/track/0mD19MC6H0OzHvEUADHypU) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [Police In Helicopter](https://open.spotify.com/album/7naj9A5QZbYxYbj9Susywq) | 3:39 |
 | 5 | [Cant Satisfy Her](https://open.spotify.com/track/3u25dhBZ80h0TFewO29Wqb) | [I Wayne](https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL) | [Lava Ground](https://open.spotify.com/album/7uReTXgsiJdTHdn42KO2Qp) | 3:41 |
-| 6 | [Here I Come](https://open.spotify.com/track/4abVwdCy5QUcyI3KS2lMJK) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Reggae Anthology: Sweet Reggae Music \(1979\-84\)](https://open.spotify.com/album/55FfXQVWDbB3tEC7L9lvzA) | 3:37 |
-| 7 | [Hills And Valleys](https://open.spotify.com/track/2H4M3lyO2rJFQw33idCk1X) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Inna Heights](https://open.spotify.com/album/37Pe85NIhAwMFKmG8MjRlE) | 4:33 |
+| 6 | [Hills And Valleys](https://open.spotify.com/track/2H4M3lyO2rJFQw33idCk1X) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Inna Heights](https://open.spotify.com/album/37Pe85NIhAwMFKmG8MjRlE) | 4:33 |
+| 7 | [Here I Come](https://open.spotify.com/track/4abVwdCy5QUcyI3KS2lMJK) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Reggae Anthology: Sweet Reggae Music \(1979\-84\)](https://open.spotify.com/album/55FfXQVWDbB3tEC7L9lvzA) | 3:37 |
 | 8 | [Everyone Falls in Love](https://open.spotify.com/track/6nGwWIh0ATJqK9cXbLqDw8) | [Tanto Metro & Devonte](https://open.spotify.com/artist/4mVpYIVAOE8sEdYuL8HDpd) | [Everyone Falls In Love](https://open.spotify.com/album/3D9Ac8ZaUdpT75shinyjTY) | 3:48 |
 | 9 | [Heads High](https://open.spotify.com/track/1mTEDYrH2BGlVA8FuXegji) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Mr Vegas: The Hits](https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg) | 3:31 |
 | 10 | [Come Over \[Missing You\]](https://open.spotify.com/track/4MAo6tvIRCEjUZLOrC9Z4q) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [REGGAE Music Again](https://open.spotify.com/album/7JRTrGi5KSTpPQIg7f5DhM) | 3:28 |
@@ -42,15 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 32 | [Nice Up The Dance](https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Nice Up The Dance](https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ) | 3:32 |
 | 33 | [Big Ship](https://open.spotify.com/track/7IBIZHonObtZG33pkVZZkg) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Freddie McGregor: The Anthology](https://open.spotify.com/album/3LamMh1kBDsc516HnS0Iuf) | 3:17 |
 | 34 | [Two Sevens Clash](https://open.spotify.com/track/4ueq6n73MAh23KMabKrpI0) | [Culture](https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz) | [Two Sevens Clash \(40th Anniversary Edition\)](https://open.spotify.com/album/75KzjLsruVDxWJ0bL0Lrm6) | 3:29 |
-| 35 | [Solid As A Rock](https://open.spotify.com/track/0jgyTx1QHB5dvsylTJhcvK) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [Da Real Thing](https://open.spotify.com/album/6P6cZYXPzjL5mwHhgkJBC5) | 3:33 |
-| 36 | [Man Is The Least](https://open.spotify.com/track/18pRR6GRcbh4NOiNekLvXV) | [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Extra Raw: The First Lady Of Dancehall](https://open.spotify.com/album/0uPHcGwl83Lh1RiFKIQxdd) | 3:50 |
+| 35 | [Man Is The Least](https://open.spotify.com/track/18pRR6GRcbh4NOiNekLvXV) | [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Extra Raw: The First Lady Of Dancehall](https://open.spotify.com/album/0uPHcGwl83Lh1RiFKIQxdd) | 3:50 |
+| 36 | [Solid As A Rock](https://open.spotify.com/track/0jgyTx1QHB5dvsylTJhcvK) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [Da Real Thing](https://open.spotify.com/album/6P6cZYXPzjL5mwHhgkJBC5) | 3:33 |
 | 37 | [Stay With Me](https://open.spotify.com/track/0dAr3S2Hwopw7NueD6YJzJ) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [Lifted](https://open.spotify.com/album/4E654ZenJUSulZS85NPMgg) | 3:37 |
 | 38 | [It's Growing](https://open.spotify.com/track/10WzihaZhGPaWBjJIEd2cf) | [Garnett Silk](https://open.spotify.com/artist/4xDC3G6OUck11fSodF11jI) | [It's Growing](https://open.spotify.com/album/4TjHpHW4Ij2bOjdxTi1SJC) | 3:39 |
 | 39 | [Stop That Train](https://open.spotify.com/track/0Ajis5FpljtwnD7uWqO8jf) | [Clint Eastwood](https://open.spotify.com/artist/7gDNcZAStavwiBcb1CHQND), [General Saint](https://open.spotify.com/artist/3LvMhOfZRrE93aW5Xtb5Ua) | [Stop That Train](https://open.spotify.com/album/2GkHD2HdhKoY4B5yigF66J) | 5:10 |
 | 40 | [Don't Haffi Dread](https://open.spotify.com/track/2pEo8f55UreXarnZCfjr5s) | [Morgan Heritage](https://open.spotify.com/artist/3VV18HyGcfLTqNjSjbROA1) | [Don't Haffi Dread](https://open.spotify.com/album/2KPOFn7eBNabkW1c6RayIb) | 3:58 |
 | 41 | [Greetings](https://open.spotify.com/track/6nr2aNTBIM1zQfhyfPMggE) | [Half Pint](https://open.spotify.com/artist/0tGZBRO4tZjpUOZcD7tMeS) | [Half Pint](https://open.spotify.com/album/0YhtIoVdbKvKCyNCU33D5s) | 3:39 |
-| 42 | [Sycamore Tree](https://open.spotify.com/track/7KijSBqHaE0gNsogRskdrq) | [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Passion](https://open.spotify.com/album/4a3q380ZHjnQCp93H8ihs0) | 3:31 |
-| 43 | [Rumours](https://open.spotify.com/track/4Y1xrYwl4aIpQWqzXndQgJ) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [One Man Against The World](https://open.spotify.com/album/0HJg4SugD6RTHt57uZbEwr) | 6:09 |
+| 42 | [Rumours](https://open.spotify.com/track/4Y1xrYwl4aIpQWqzXndQgJ) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [One Man Against The World](https://open.spotify.com/album/0HJg4SugD6RTHt57uZbEwr) | 6:09 |
+| 43 | [Sycamore Tree](https://open.spotify.com/track/7KijSBqHaE0gNsogRskdrq) | [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Passion](https://open.spotify.com/album/4a3q380ZHjnQCp93H8ihs0) | 3:31 |
 | 44 | [I Am Not Afraid](https://open.spotify.com/track/0EhMnGX0ayyKkwBiHCzfQy) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [The Strong One](https://open.spotify.com/album/0Ypu0QySaX7HxWhzRBBjGZ) | 3:54 |
 | 45 | [Differentology \(Ready for the Road\)](https://open.spotify.com/track/4rIkcu5U87HoYi454m8Gen) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Differentology](https://open.spotify.com/album/3KU878aDWMso8fbh7JCI1a) | 4:20 |
 | 46 | [Sweep Over My Soul](https://open.spotify.com/track/5uSHCmZBRnSUcWcZ8kxWRk) | [Luciano](https://open.spotify.com/artist/3Vszg64mczF1dWEcW2dU5W) | [Sweep Over My Soul](https://open.spotify.com/album/1nluXd8QoqYjkRSr16r4qR) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 49 | [Too Young](https://open.spotify.com/track/4YC0g1gFRX4PG3C8TvVNcn) | [Cocoa Tea](https://open.spotify.com/artist/7z7anCUBwfJUFuTQ4D1x6R), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Good Life](https://open.spotify.com/album/2OqPHmyhLyQ4kwdWDRLIiz) | 3:47 |
 | 50 | [Lights Out](https://open.spotify.com/track/4Hue6rHN892sFzzOJBHYra) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Lovers Rock](https://open.spotify.com/album/1dWQbbFSkCNnMbdSJMmsge) | 3:23 |
 
-Snapshot ID: `MCw5Y2UxNGYxNTE3NzFlOWUzYWMxZTZkODYyZGU1MzQwZGM0YjM5NmQ4`
+Snapshot ID: `MCw4MmEwYWU4YjEyZTAxNGM4YTBlNDY3NDFhOGI4NTM5N2U4ZmVkMTgy`

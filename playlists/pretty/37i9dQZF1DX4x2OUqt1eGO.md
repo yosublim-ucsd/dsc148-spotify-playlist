@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 
 > Unwind and restore with the sounds of the Flute, from Indian maestros & modern geniuses\. Cover : Shriram Sampath
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,158 likes - 75 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,172 likes - 75 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 43 | [Venu](https://open.spotify.com/track/1jTpn2kEJNkajWSx7zng9x) | [H S Venugopal](https://open.spotify.com/artist/5G06dFniw81EaR7vZrs5Cx), [Sandeep Chowta](https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy), [Shashank Jodidar](https://open.spotify.com/artist/26VFhqyzYKDMH5Eqiipo9L) | [Venu](https://open.spotify.com/album/3pfkWvBU3Y1EAUl4WMpu3c) | 3:26 |
 | 44 | [Raga Shudh Kalyan Alap](https://open.spotify.com/track/5K56gLQIT9UhXcENzvBr7r) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Introspection](https://open.spotify.com/album/2pDuvSYsImOFjzdlMf7XpQ) | 5:14 |
 | 45 | [Pahadi Dhun](https://open.spotify.com/track/6y6Cx6ZDFA9qerhxbdzMO4) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P) | [Pandit Ronu Majumdar: Master of the Indian Bansuri](https://open.spotify.com/album/4fCwRhix5LmrCTnfGhQSyg) | 8:40 |
-| 46 | [Relaxing Native Flute](https://open.spotify.com/track/47tBhzrgzEpKKHbPBeAYVr) | [Meditation Waves](https://open.spotify.com/artist/68Yiv3GKHZdgjlnjPU2Ccw) | [Healing Native Flute Meditation Songs](https://open.spotify.com/album/1inj4Jlc8iow4WVhR0WeB8) | 4:19 |
-| 47 | [Healing Buddha](https://open.spotify.com/track/1kIpRt8GikNtF2xlzYHYJP) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Healing Buddha](https://open.spotify.com/album/0Rzx5WRMN8lz59u3Pjjpg6) | 6:48 |
+| 46 | [Healing Buddha](https://open.spotify.com/track/1kIpRt8GikNtF2xlzYHYJP) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Healing Buddha](https://open.spotify.com/album/0Rzx5WRMN8lz59u3Pjjpg6) | 6:48 |
+| 47 | [Relaxing Native Flute](https://open.spotify.com/track/47tBhzrgzEpKKHbPBeAYVr) | [Meditation Waves](https://open.spotify.com/artist/68Yiv3GKHZdgjlnjPU2Ccw) | [Healing Native Flute Meditation Songs](https://open.spotify.com/album/1inj4Jlc8iow4WVhR0WeB8) | 4:19 |
 | 48 | [Har Kisi Ko Nahi Milta](https://open.spotify.com/track/5W6WulSb6HrJgwVmaFDpfj) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Har Kisi Ko Nahi Milta \- Sentiments Of Love \(Instrumental\)](https://open.spotify.com/album/22kDYgl6ffaKP1bmiZeUJc) | 3:15 |
 | 49 | [Pinneyum Pinneyum \- Flute Cover](https://open.spotify.com/track/4aIJnXG66BILEOKTLd6eKW) | [Rajesh Cherthala](https://open.spotify.com/artist/4anJMRin2Eu12jUJKHvuDw) | [Pinneyum Pinneyum \(Flute Cover\)](https://open.spotify.com/album/6pjZknaVN4G2pLzLLtxiV9) | 4:34 |
 | 50 | [Just Such Beauty](https://open.spotify.com/track/11XUNxCy1Ry7lAPMCMHsZW) | [Paul Adams](https://open.spotify.com/artist/5qEDGvC2RIXBDMQ9vRjgp5), [Pravin Godkhindi](https://open.spotify.com/artist/5zsiGj3C1bfEBeWtq0ryPe), [Elizabeth Geyer](https://open.spotify.com/artist/1NfXeYNUy4x1LF6AYfqLRM) | [Imaginings](https://open.spotify.com/album/0bSGln3ne5RW6ri7ScrAYD) | 4:58 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 63 | [Durga](https://open.spotify.com/track/1f3Etpk0UmSDoj4zHYqIHu) | [Flute Navin](https://open.spotify.com/artist/3apnz04XPisQ04dTfz2Gaw), [Sriram Ramesh](https://open.spotify.com/artist/0DxF5hX19dKuP5x4oE5N2F), [Marina Albero](https://open.spotify.com/artist/2jWfppHhFHZewG8RWk8LHb), [Evan Flory\-Barnes](https://open.spotify.com/artist/4OXSAa2INCHHC74mkGy80D) | [The London Bridge Sessions](https://open.spotify.com/album/4e3EI9dcP63C8kzY4n0qyj) | 3:58 |
 | 64 | [Bansuri \(Tranquil Waters\)](https://open.spotify.com/track/7AyWhg7yOGaT1a8juVaFAF) | [Indian Flute](https://open.spotify.com/artist/4vz48P0cvMOxI2BVAbGcbD) | [Indian Flute Meditation Music \(Pure Positive Vibes & Instrumental Music for Meditation and Yoga\)](https://open.spotify.com/album/42mCdQJfJr1SkICZy0KGaw) | 4:33 |
 | 65 | [Between Thoughts](https://open.spotify.com/track/1CRP3o6j10DCJ4HMbBQvnj) | [Deepak Ram](https://open.spotify.com/artist/0IRHoIb1ZFEVrwdm0SzPh5) | [Flute For Thought](https://open.spotify.com/album/5SSsDneKbYQb2blJsE49Xe) | 10:09 |
-| 66 | [Bansuri & Tabla \(Live\)](https://open.spotify.com/track/1OPqzUmJ6cWgmeHrZ27T3s) | [Pandit Atul Shankar](https://open.spotify.com/artist/2BH0PQI32fInzYixUio497), [Ravi Tripathi](https://open.spotify.com/artist/7D73VJBs9rJh9USThws70P) | [The Sounds of Varanasi](https://open.spotify.com/album/5KAww61S9UOggL61L4UIeP) | 3:18 |
-| 67 | [Shabdkosh](https://open.spotify.com/track/4eJE88d33ZBAEALNv3fnzv) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Aashchary](https://open.spotify.com/album/25TMsMiB5NoYZqvTX082Xp) | 5:59 |
+| 66 | [Shabdkosh](https://open.spotify.com/track/4eJE88d33ZBAEALNv3fnzv) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Aashchary](https://open.spotify.com/album/25TMsMiB5NoYZqvTX082Xp) | 5:59 |
+| 67 | [Bansuri & Tabla \(Live\)](https://open.spotify.com/track/1OPqzUmJ6cWgmeHrZ27T3s) | [Pandit Atul Shankar](https://open.spotify.com/artist/2BH0PQI32fInzYixUio497), [Ravi Tripathi](https://open.spotify.com/artist/7D73VJBs9rJh9USThws70P) | [The Sounds of Varanasi](https://open.spotify.com/album/5KAww61S9UOggL61L4UIeP) | 3:18 |
 | 68 | [Natural Love \(Flute and Lake Only\)](https://open.spotify.com/track/52Rx75xXn70OvOPDegsT1e) | [Samsara Project Ensemble](https://open.spotify.com/artist/1gKj4YuZor2VUhBYDwab7a) | [Bansuri](https://open.spotify.com/album/6C5quIljQpenf33V5kXfxn) | 5:31 |
 | 69 | [Varanasi My Soul \- Banarasi Kajri \- Raga Pilu](https://open.spotify.com/track/0S9Uklvmnxs5uUSt8UQikf) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P) | [Bansuri: The Indian Flute](https://open.spotify.com/album/431hmllyP1obMhA2ssxxXw) | 7:26 |
 | 70 | [Gokul Streets \- Original Mix](https://open.spotify.com/track/5cP04kLMxkCy9tAJ3q8fzp) | [Rupak Mukherjee](https://open.spotify.com/artist/7wbEfkEn8mdeWJqMdjTP5M) | [Classical Melodies of Flute and Tabla](https://open.spotify.com/album/2O3fQR25SIk7vYla9dlchz) | 1:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 74 | [Chintan Ke Saaz](https://open.spotify.com/track/4saUYeD0vL8DyHfJnUN1Qi) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Prema Ke Sur](https://open.spotify.com/album/0WQpqSKcn8XAggsTRDd0nC) | 4:30 |
 | 75 | [Monsoon Moon](https://open.spotify.com/track/53l3hRGFDvakOGlZNmOEJO) | [Sonic Xaman](https://open.spotify.com/artist/13vgYRGlLirVXX6Yoxzm8c) | [Monsoon Moon](https://open.spotify.com/album/5vkFkrsacJzdO1JuW0mLB1) | 4:04 |
 
-Snapshot ID: `MCxjNTFjMmU2MzY1M2QyNDJiMzhjZGU0Y2U1ZjcyOTg5ODExZGM4ZWU4`
+Snapshot ID: `MCxmMTIwMjJhZTJhMDJmOWJkZmNlMzhjNmEzODFhMjQ4ZTMyMzQ1MzUz`

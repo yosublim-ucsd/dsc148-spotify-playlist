@@ -1,12 +1,12 @@
 {
   "description": "La playlist id\u00e9ale pour prendre la route.",
-  "num_followers": 427458,
+  "num_followers": 427214,
   "original_name": "Sur la route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjU2NjI1ZTc2ODZmOGZmZmVlZGNiZGU2NjI0NzBkMmFkOTFjOTYw",
+  "snapshot_id": "MCxkZWNjMzZmYTI2NDgwNWZjMmI4Njc4NDJkM2Y4MmVjOTEzZmQxZjkw",
   "tracks": [
     {
       "added_at": "2024-01-07 23:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-01-07 23:00:00",
       "album": {
-        "name": "By the Way (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
+        "name": "Hurry Up, We're Dreaming",
+        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
       },
       "artists": [
         {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
         }
       ],
-      "duration_ms": 231933,
-      "name": "The Zephyr Song",
-      "url": "https://open.spotify.com/track/1ndGB6rvxKYN9seCYO1dTF"
+      "duration_ms": 241440,
+      "name": "Midnight City",
+      "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
     }
   ],
   "unique_name": "Sur la route",

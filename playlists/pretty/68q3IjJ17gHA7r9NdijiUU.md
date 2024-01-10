@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68q3IjJ17gHA7r9NdijiUU.md) - [plain]
 
 > Finally, the perfect roadtrip playlist is here\. Sing along to these classics and new hits, and discover new favorites! <a href="https://lnk.to/EndOfYearSaleOS">All these hits available to buy on vinyl here!</a>
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 316,027 likes - 100 songs - 6 hr 29 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 315,934 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

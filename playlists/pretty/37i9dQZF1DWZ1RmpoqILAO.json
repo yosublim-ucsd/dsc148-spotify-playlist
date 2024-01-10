@@ -1,44 +1,32 @@
 {
   "description": "indie tunes with country experimentation Cover: Alex G ",
-  "num_followers": 43034,
+  "num_followers": 43133,
   "original_name": "Indie Twang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjEwZDVhOWRmZDAyOTQ1OWY2NmZjNWY0N2RiZDQ0MDA1NmZmNzc2",
+  "snapshot_id": "MCwxNzkzMTk2ZDNkNjQ5MTliNmQzOTM1M2IyZDQ3MjA2ODVhZjBjN2Rm",
   "tracks": [
     {
-      "added_at": "2023-12-13 23:09:29",
+      "added_at": "2024-01-09 15:34:03",
       "album": {
-        "name": "Paige Machine",
-        "url": "https://open.spotify.com/album/1taSivISnY9TU6rfNuRS3y"
+        "name": "Right Back to It",
+        "url": "https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p"
       },
       "artists": [
         {
-          "name": "PACKS",
-          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
-        }
-      ],
-      "duration_ms": 160039,
-      "name": "Paige Machine",
-      "url": "https://open.spotify.com/track/7FhoPDsQKQYivefOCN3OCO"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Crushing",
-        "url": "https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v"
-      },
-      "artists": [
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        },
         {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
         }
       ],
-      "duration_ms": 182306,
-      "name": "Pressure To Party",
-      "url": "https://open.spotify.com/track/480rD34KfGbMaT0L6zjeIu"
+      "duration_ms": 273026,
+      "name": "Right Back to It",
+      "url": "https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -55,6 +43,22 @@
       "duration_ms": 153320,
       "name": "Right Side of My Neck",
       "url": "https://open.spotify.com/track/3cxZT78mZDyLsLPJKcTu3U"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Crushing",
+        "url": "https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 182306,
+      "name": "Pressure To Party",
+      "url": "https://open.spotify.com/track/480rD34KfGbMaT0L6zjeIu"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -183,6 +187,22 @@
       "duration_ms": 245466,
       "name": "Broadview",
       "url": "https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ"
+    },
+    {
+      "added_at": "2023-12-13 23:09:29",
+      "album": {
+        "name": "Paige Machine",
+        "url": "https://open.spotify.com/album/1taSivISnY9TU6rfNuRS3y"
+      },
+      "artists": [
+        {
+          "name": "PACKS",
+          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
+        }
+      ],
+      "duration_ms": 160039,
+      "name": "Paige Machine",
+      "url": "https://open.spotify.com/track/7FhoPDsQKQYivefOCN3OCO"
     },
     {
       "added_at": "2023-12-08 05:00:00",

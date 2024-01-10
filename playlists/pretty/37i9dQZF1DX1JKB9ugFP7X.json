@@ -1,29 +1,13 @@
 {
   "description": "Escucha lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 23887,
+  "num_followers": 23875,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2JiZDAyYmQ1M2Y4YzczOTU4OWRjYTI3YTIzMmIyZTYyZTNlOGI0",
+  "snapshot_id": "MCxkZDRjMTRiZDFiZDQwZGVmZTFjYzBjYjRlYzM4Y2MyODQ2NTkzOWVm",
   "tracks": [
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Vamo a Darle",
-        "url": "https://open.spotify.com/album/6c4s8phsGiEogUFEntAZiT"
-      },
-      "artists": [
-        {
-          "name": "YSY A",
-          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
-        }
-      ],
-      "duration_ms": 258846,
-      "name": "Vamo a Darle",
-      "url": "https://open.spotify.com/track/4rW2KfMNxdyNsLlaOYWXh3"
-    },
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 169932,
       "name": "Cicuta - Remix",
       "url": "https://open.spotify.com/track/6qqeq1UoryAxgud2JfF76t"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Vamo a Darle",
+        "url": "https://open.spotify.com/album/6c4s8phsGiEogUFEntAZiT"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        }
+      ],
+      "duration_ms": 258846,
+      "name": "Vamo a Darle",
+      "url": "https://open.spotify.com/track/4rW2KfMNxdyNsLlaOYWXh3"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Xtasis",
+        "url": "https://open.spotify.com/album/1sTh1Y7r8r24MRuFcLL7pe"
+      },
+      "artists": [
+        {
+          "name": "FRANSIA",
+          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
+        }
+      ],
+      "duration_ms": 203125,
+      "name": "Xtasis",
+      "url": "https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Espantap\u00e1jaros",
         "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 172500,
       "name": "Espantap\u00e1jaros",
       "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Xtasis",
-        "url": "https://open.spotify.com/album/1sTh1Y7r8r24MRuFcLL7pe"
-      },
-      "artists": [
-        {
-          "name": "FRANSIA",
-          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
-        }
-      ],
-      "duration_ms": 203125,
-      "name": "Xtasis",
-      "url": "https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -975,22 +975,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Bajo Cero",
-        "url": "https://open.spotify.com/album/0OktFVarxQjgAlYrwCI1S7"
+        "name": "Des",
+        "url": "https://open.spotify.com/album/0aNPqbzj34bIvcshvWSZLX"
       },
       "artists": [
         {
-          "name": "Sussie 4",
-          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
-        },
-        {
-          "name": "Vita Set",
-          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
+          "name": "Un Planeta",
+          "url": "https://open.spotify.com/artist/3lk6Afqeq4ST8Yz15OkOHE"
         }
       ],
-      "duration_ms": 243762,
-      "name": "Bajo Cero",
-      "url": "https://open.spotify.com/track/1mjlaPR2l2yZPo9dPZXYOH"
+      "duration_ms": 225550,
+      "name": "Arriba",
+      "url": "https://open.spotify.com/track/3fD9K7rYQJi0IDozmqpGYp"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1027,18 +1023,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Des",
-        "url": "https://open.spotify.com/album/0aNPqbzj34bIvcshvWSZLX"
+        "name": "Bajo Cero",
+        "url": "https://open.spotify.com/album/0OktFVarxQjgAlYrwCI1S7"
       },
       "artists": [
         {
-          "name": "Un Planeta",
-          "url": "https://open.spotify.com/artist/3lk6Afqeq4ST8Yz15OkOHE"
+          "name": "Sussie 4",
+          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
+        },
+        {
+          "name": "Vita Set",
+          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
         }
       ],
-      "duration_ms": 225550,
-      "name": "Arriba",
-      "url": "https://open.spotify.com/track/3fD9K7rYQJi0IDozmqpGYp"
+      "duration_ms": 243762,
+      "name": "Bajo Cero",
+      "url": "https://open.spotify.com/track/1mjlaPR2l2yZPo9dPZXYOH"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Ficci\u00f3n",
-        "url": "https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW"
-      },
-      "artists": [
-        {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
-        }
-      ],
-      "duration_ms": 201601,
-      "name": "Ficci\u00f3n",
-      "url": "https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Desconfiguraci\u00f3n, Vol. 2",
         "url": "https://open.spotify.com/album/1yFI2RRP9WaDO0XqdtwXaX"
       },
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Ficci\u00f3n",
+        "url": "https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        }
+      ],
+      "duration_ms": 201601,
+      "name": "Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "ELET\u00c9",
         "url": "https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL"
       },
@@ -1259,6 +1259,22 @@
       "duration_ms": 311386,
       "name": "El Magnetismo",
       "url": "https://open.spotify.com/track/4RJpJjhEH1yFizM4CGD65Z"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Marcha II",
+        "url": "https://open.spotify.com/album/06zWjeOA3MwBHLApKUS3Qs"
+      },
+      "artists": [
+        {
+          "name": "Laika Perra Rusa",
+          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
+        }
+      ],
+      "duration_ms": 224330,
+      "name": "Atentado en la Pista",
+      "url": "https://open.spotify.com/track/1kvNcx5MoS5XvMcIua4PfG"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1287,38 +1303,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Marcha II",
-        "url": "https://open.spotify.com/album/06zWjeOA3MwBHLApKUS3Qs"
-      },
-      "artists": [
-        {
-          "name": "Laika Perra Rusa",
-          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
-        }
-      ],
-      "duration_ms": 224330,
-      "name": "Atentado en la Pista",
-      "url": "https://open.spotify.com/track/1kvNcx5MoS5XvMcIua4PfG"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "La Monta\u00f1a",
-        "url": "https://open.spotify.com/album/0t3VjLfrjhOCj5IHHe6dIL"
-      },
-      "artists": [
-        {
-          "name": "Fakuta",
-          "url": "https://open.spotify.com/artist/5qW2pOdPhEkkBlsUjcGdhD"
-        }
-      ],
-      "duration_ms": 235710,
-      "name": "La Monta\u00f1a",
-      "url": "https://open.spotify.com/track/580JHhlEFykGzMxEMepXW8"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Bajo la piel",
         "url": "https://open.spotify.com/album/06KYlFtTKi0XoT444EMjDM"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 240113,
       "name": "Bajo la piel",
       "url": "https://open.spotify.com/track/30vd3jTxbr6UYuuTvayxPX"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "La Monta\u00f1a",
+        "url": "https://open.spotify.com/album/0t3VjLfrjhOCj5IHHe6dIL"
+      },
+      "artists": [
+        {
+          "name": "Fakuta",
+          "url": "https://open.spotify.com/artist/5qW2pOdPhEkkBlsUjcGdhD"
+        }
+      ],
+      "duration_ms": 235710,
+      "name": "La Monta\u00f1a",
+      "url": "https://open.spotify.com/track/580JHhlEFykGzMxEMepXW8"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Atemporal",
-        "url": "https://open.spotify.com/album/2MkNHGimCLS2aC0Bny8nnT"
+        "name": "En el Palacio (REMIX)",
+        "url": "https://open.spotify.com/album/1BQ7z4gQEX3bTLnHBy4sXS"
       },
       "artists": [
         {
-          "name": "ZEBRA 93",
-          "url": "https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC"
+          "name": "Alejo y Valentin",
+          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
         }
       ],
-      "duration_ms": 226464,
-      "name": "M\u00edstico Mezcal",
-      "url": "https://open.spotify.com/track/4uEvTqHD3KEO7xXuawTSWG"
+      "duration_ms": 246144,
+      "name": "En la Torre - AV Remix",
+      "url": "https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "En el Palacio (REMIX)",
-        "url": "https://open.spotify.com/album/1BQ7z4gQEX3bTLnHBy4sXS"
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/2MkNHGimCLS2aC0Bny8nnT"
       },
       "artists": [
         {
-          "name": "Alejo y Valentin",
-          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
+          "name": "ZEBRA 93",
+          "url": "https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC"
         }
       ],
-      "duration_ms": 246144,
-      "name": "En la Torre - AV Remix",
-      "url": "https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc"
+      "duration_ms": 226464,
+      "name": "M\u00edstico Mezcal",
+      "url": "https://open.spotify.com/track/4uEvTqHD3KEO7xXuawTSWG"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Lucidez",
-        "url": "https://open.spotify.com/album/1XZRNnQ1dcp59OJrq5DtUD"
-      },
-      "artists": [
-        {
-          "name": "Antonia Navarro",
-          "url": "https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt"
-        }
-      ],
-      "duration_ms": 371735,
-      "name": "Lucidez",
-      "url": "https://open.spotify.com/track/1d9Y8VhQKy03r996XabxX8"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "7 canciones antes de que nos corten la luz",
         "url": "https://open.spotify.com/album/58Kzrvix7aM7yh0N4CpRVm"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 223278,
       "name": "Fiebre",
       "url": "https://open.spotify.com/track/2lDvFFGwcvUvStTh5t29yF"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Lucidez",
+        "url": "https://open.spotify.com/album/1XZRNnQ1dcp59OJrq5DtUD"
+      },
+      "artists": [
+        {
+          "name": "Antonia Navarro",
+          "url": "https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt"
+        }
+      ],
+      "duration_ms": 371735,
+      "name": "Lucidez",
+      "url": "https://open.spotify.com/track/1d9Y8VhQKy03r996XabxX8"
     },
     {
       "added_at": "2023-12-15 03:00:00",

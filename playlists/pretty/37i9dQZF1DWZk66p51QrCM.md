@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk66p51QrCM.md) - [plain]
 
 > The Official EA SPORTS F1 23 Soundtrack
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,847 likes - 34 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,887 likes - 34 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk66p51QrCM.md) - [plain]
 | 25 | [Speed Of Light](https://open.spotify.com/track/6Z1162p9kKYUAGbRWLN2eH) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K) | [Speed Of Light](https://open.spotify.com/album/64AsM1vclRLFeNKlSPnGsA) | 3:24 |
 | 26 | [Transport God](https://open.spotify.com/track/5pthouxnG0MLtbjmJvZ42v) | [Whyte Fang](https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt) | [GENESIS](https://open.spotify.com/album/2y3ZfgrrqOtkexvBjGa49v) | 2:12 |
 | 27 | [FORFEIT](https://open.spotify.com/track/540ikgaUcx6N1SNX5JfqId) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [FORFEIT](https://open.spotify.com/album/2BXeD1kVZRzkXn563w7vd5) | 2:50 |
-| 28 | [Endit](https://open.spotify.com/track/2V7nKWQBZkrLtIXdYWY5hp) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Endit](https://open.spotify.com/album/1AVmZmj8pjRRuLoP4KF5pc) | 4:51 |
-| 29 | [I Do You](https://open.spotify.com/track/2quYVfmHHIpVJQduMAkHtk) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Crazy Life](https://open.spotify.com/album/73j3szStTnau2muNhow0Vz) | 3:44 |
+| 28 | [I Do You](https://open.spotify.com/track/2quYVfmHHIpVJQduMAkHtk) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Crazy Life](https://open.spotify.com/album/73j3szStTnau2muNhow0Vz) | 3:44 |
+| 29 | [Endit](https://open.spotify.com/track/2V7nKWQBZkrLtIXdYWY5hp) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Endit](https://open.spotify.com/album/1AVmZmj8pjRRuLoP4KF5pc) | 4:51 |
 | 30 | [Too Late Now \- Soulwax Remix](https://open.spotify.com/track/5NY8FqMU71tJbuz6qiZ69C) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Too Late Now \(Soulwax Remix\)](https://open.spotify.com/album/2kV9ScIQHMVQs1XLWQetEz) | 6:38 |
 | 31 | [Oceans](https://open.spotify.com/track/7LTCoTHHcnjdynFlryWhEA) | [J Wax](https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ) | [Oceans](https://open.spotify.com/album/2BxDSp6LSx39BL1j1oNqIA) | 4:53 |
 | 32 | [We've Got A Good Thing Going](https://open.spotify.com/track/1lif9WxA6rqFfNiY7ADXY7) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf) | [We've Got A Good Thing Going](https://open.spotify.com/album/706duPlQALlEPbsTrHPZFo) | 5:01 |
 | 33 | [Real Talk \(Boys Noize Remix\)](https://open.spotify.com/track/67WEy4DJcqynYh0bhbKpTM) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Real Talk \(Boys Noize Remix\)](https://open.spotify.com/album/55fk0TQ4Boke9w33eJIKlF) | 6:45 |
 | 34 | [Go \(Otik Remix\)](https://open.spotify.com/track/467CtGat3TdQctzbPKVLAq) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Go \(Otik Remix\)](https://open.spotify.com/album/5wvAJhxQ7zCKJOFgUdsrp1) | 4:05 |
 
-Snapshot ID: `MCxjOTkyOWFkZDk3ZDFmMmI0NDQzMTliNzk5YjI1MDY4MTY1OGE5Zjk2`
+Snapshot ID: `MCw3M2NjYjAyNjBlOTNiNjdlNzFlMDgzNGNlMGJjZTgyZWI3MThjNWE3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 
 > A down to earth collection of new and classic folk tunes for kids.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,980 likes - 70 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,569 likes - 70 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 29 | [Can You Canoe?](https://open.spotify.com/track/0WhyyOzUomECzP2vkSLmJC) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Can You Canoe? A Mississippi River Adventure Album](https://open.spotify.com/album/5RjOtvEVZ7cHpfvGoscBxd) | 3:04 |
 | 30 | [Love You More](https://open.spotify.com/track/4fOcebJWLdjGBbmb8O3hbj) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [Easy Breezy!](https://open.spotify.com/album/6eresS8fJq05Eg8bpztUv2) | 2:09 |
 | 31 | [Michael Row the Boat Ashore](https://open.spotify.com/track/1awrgXeSM9rCjdZaVmWeU6) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Around the Campfire](https://open.spotify.com/album/2iGp6aL5TSPT0GQDsxJB7l) | 2:43 |
-| 32 | [All the Pretty Little Horses](https://open.spotify.com/track/55h7xXk2Y4yT5SnDZo5jnK) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Tumble Bee](https://open.spotify.com/album/1fadoiabDmHdq0A2RIL7oT) | 2:16 |
-| 33 | [Farmer's Market](https://open.spotify.com/track/2ajPDldJr8RicylhXAwbnh) | [Laura Doherty](https://open.spotify.com/artist/7bVSBw7ZOfKRyPBzTjEIoG) | [Kids In The City](https://open.spotify.com/album/0u6Q3uQTy7aqQ7DVKpGltt) | 2:37 |
-| 34 | [Erie Canal](https://open.spotify.com/track/7fVZ6BoI9xnUElpSGHyL5M) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Friends](https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL), [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Rocket Ship Beach](https://open.spotify.com/album/0XuyWTrLhNgUWT0cb7btJJ) | 2:40 |
+| 32 | [Farmer's Market](https://open.spotify.com/track/2ajPDldJr8RicylhXAwbnh) | [Laura Doherty](https://open.spotify.com/artist/7bVSBw7ZOfKRyPBzTjEIoG) | [Kids In The City](https://open.spotify.com/album/0u6Q3uQTy7aqQ7DVKpGltt) | 2:37 |
+| 33 | [Erie Canal](https://open.spotify.com/track/7fVZ6BoI9xnUElpSGHyL5M) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Friends](https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL), [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Rocket Ship Beach](https://open.spotify.com/album/0XuyWTrLhNgUWT0cb7btJJ) | 2:40 |
+| 34 | [All the Pretty Little Horses](https://open.spotify.com/track/55h7xXk2Y4yT5SnDZo5jnK) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Tumble Bee](https://open.spotify.com/album/1fadoiabDmHdq0A2RIL7oT) | 2:16 |
 | 35 | [Hope Machine](https://open.spotify.com/track/6Z3N8VNcj4z6xIgMmdMZ0l) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Songs for Singin'](https://open.spotify.com/album/7x0JXg0yHlaPhLAyq87aLO) | 2:48 |
 | 36 | [Cotton Eyed Joe](https://open.spotify.com/track/02Z2gq39hAcWux2Cbhfjsg) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [More Please!](https://open.spotify.com/album/4IjjmD5S292op49x0kc677) | 2:23 |
 | 37 | [Kind Words](https://open.spotify.com/track/7wDBk2wRzyJsx97QVbeVCq) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Sing Through the Year \- A Little Wild Childhood](https://open.spotify.com/album/5o4FHVHGV736Qz4O9W7LUp) | 4:03 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 69 | [Matter of Fact](https://open.spotify.com/track/24QRXHKVA6rWIxHZqU8rX9) | [Elliott Park](https://open.spotify.com/artist/6iz85IUQbVWxKzemxy4u16) | [The Mouth](https://open.spotify.com/album/4KZHTM0tObhCZPckxqb4hA) | 2:24 |
 | 70 | [Chickadee](https://open.spotify.com/track/5mNprCau1UgykTPIZqVojF) | [Pete Moss](https://open.spotify.com/artist/6YvISV7SjqD7n57pJTEfqX) | [Chickadee](https://open.spotify.com/album/3cGyGZu63TQkWt9MXZetw1) | 1:57 |
 
-Snapshot ID: `MCw0NzdjY2RhOWRmOTllZTg5ZTBjM2IwZjQ2ODRiMjRhYTI3MDA4YzQ2`
+Snapshot ID: `MCxlZDlhOWExMDkzODEzMzcxMDdmZDE1YWE3NTgzZWY1MjdkNWJhZWQ4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79vrB5Ei5Gk7BctdZesJJA.md) - [plain]
 
 > Official Roadrunner Records Playlist \- This week's DEADNOISE.FM playlist is curated by Jonathan Gonzales at Sunday Drive Records
 
-[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,743 likes - 20 songs - 1 hr 3 min
+[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,741 likes - 20 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

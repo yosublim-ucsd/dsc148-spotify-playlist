@@ -1,12 +1,12 @@
 {
   "description": "The t-shirt weather essentials.",
-  "num_followers": 477317,
+  "num_followers": 477456,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjZmZDJmZWYyODE1M2VkN2VjNDE1ZTgzYjlmN2VjZWI2OWJiZjJk",
+  "snapshot_id": "MCw5NzZiZDQ5ZjEwYzc4YjE4MTE0NTZhYTNhNzRhYmMyNGU0ZWQzMjI1",
   "tracks": [
     {
       "added_at": "2023-11-24 02:03:10",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-11-24 02:03:10",
       "album": {
-        "name": "Wasted Summers",
-        "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
-      },
-      "artists": [
-        {
-          "name": "juju<3",
-          "url": "https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x"
-        }
-      ],
-      "duration_ms": 130384,
-      "name": "Wasted Summers",
-      "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
-    },
-    {
-      "added_at": "2023-11-24 02:03:10",
-      "album": {
         "name": "The New Abnormal",
         "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 309053,
       "name": "The Adults Are Talking",
       "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW"
+    },
+    {
+      "added_at": "2023-11-24 02:03:10",
+      "album": {
+        "name": "Wasted Summers",
+        "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
+      },
+      "artists": [
+        {
+          "name": "juju<3",
+          "url": "https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x"
+        }
+      ],
+      "duration_ms": 130384,
+      "name": "Wasted Summers",
+      "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
     },
     {
       "added_at": "2023-11-24 02:03:10",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-11-24 02:03:10",
       "album": {
-        "name": "For Abby",
-        "url": "https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 135581,
-      "name": "Honeypie",
-      "url": "https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0"
-    },
-    {
-      "added_at": "2023-11-24 02:03:10",
-      "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 177666,
       "name": "3 Nights",
       "url": "https://open.spotify.com/track/0uI7yAKUf52Cn7y3sYyjiX"
+    },
+    {
+      "added_at": "2023-11-24 02:03:10",
+      "album": {
+        "name": "For Abby",
+        "url": "https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 135581,
+      "name": "Honeypie",
+      "url": "https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0"
     },
     {
       "added_at": "2023-11-24 02:03:10",
@@ -615,6 +615,26 @@
     {
       "added_at": "2023-11-24 02:03:10",
       "album": {
+        "name": "Phone Numbers",
+        "url": "https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        }
+      ],
+      "duration_ms": 146826,
+      "name": "Phone Numbers",
+      "url": "https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z"
+    },
+    {
+      "added_at": "2023-11-24 02:03:10",
+      "album": {
         "name": "beside you",
         "url": "https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD"
       },
@@ -647,22 +667,18 @@
     {
       "added_at": "2023-11-24 02:03:10",
       "album": {
-        "name": "Phone Numbers",
-        "url": "https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT"
+        "name": "Cyclones and Hey Lover",
+        "url": "https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0"
       },
       "artists": [
         {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Kenny Beats",
-          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+          "name": "Wabie",
+          "url": "https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE"
         }
       ],
-      "duration_ms": 146826,
-      "name": "Phone Numbers",
-      "url": "https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z"
+      "duration_ms": 162560,
+      "name": "Hey Lover!",
+      "url": "https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd"
     },
     {
       "added_at": "2023-11-24 02:03:10",
@@ -679,22 +695,6 @@
       "duration_ms": 209200,
       "name": "AMAZING",
       "url": "https://open.spotify.com/track/3OM6qQmdFV6uy61GIqpRtf"
-    },
-    {
-      "added_at": "2023-11-24 02:03:10",
-      "album": {
-        "name": "Cyclones and Hey Lover",
-        "url": "https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0"
-      },
-      "artists": [
-        {
-          "name": "Wabie",
-          "url": "https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE"
-        }
-      ],
-      "duration_ms": 162560,
-      "name": "Hey Lover!",
-      "url": "https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd"
     },
     {
       "added_at": "2023-11-24 02:03:10",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-11-24 02:03:10",
       "album": {
-        "name": "Living In A Haze",
-        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 173369,
-      "name": "Living In A Haze",
-      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
-    },
-    {
-      "added_at": "2023-11-24 02:03:10",
-      "album": {
         "name": "Backyard Boy (Stripped)",
         "url": "https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 129240,
       "name": "Backyard Boy",
       "url": "https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR"
+    },
+    {
+      "added_at": "2023-11-24 02:03:10",
+      "album": {
+        "name": "Living In A Haze",
+        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 173369,
+      "name": "Living In A Haze",
+      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
     },
     {
       "added_at": "2023-11-24 02:03:10",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-11-24 02:03:10",
       "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 240880,
-      "name": "Keep Moving",
-      "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
-    },
-    {
-      "added_at": "2023-11-24 02:03:10",
-      "album": {
         "name": "The Difference",
         "url": "https://open.spotify.com/album/4iwKDIUE0hLZcdadHE87kl"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 139662,
       "name": "The Difference",
       "url": "https://open.spotify.com/track/5kJ4BWZ9Y1qFIwwTbMIxYX"
+    },
+    {
+      "added_at": "2023-11-24 02:03:10",
+      "album": {
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 240880,
+      "name": "Keep Moving",
+      "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
     },
     {
       "added_at": "2023-11-24 02:03:10",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-11-24 02:03:10",
       "album": {
-        "name": "Miss Summer",
-        "url": "https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco"
-      },
-      "artists": [
-        {
-          "name": "ODIE",
-          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
-        }
-      ],
-      "duration_ms": 162376,
-      "name": "Miss Summer",
-      "url": "https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc"
-    },
-    {
-      "added_at": "2023-11-24 02:03:10",
-      "album": {
         "name": "Erratic Cinematic",
         "url": "https://open.spotify.com/album/48GboeZmU784Sw4pi4kPjh"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 196600,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/58dwGk4l4ju8pI9YWsTHWD"
+    },
+    {
+      "added_at": "2023-11-24 02:03:10",
+      "album": {
+        "name": "Miss Summer",
+        "url": "https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco"
+      },
+      "artists": [
+        {
+          "name": "ODIE",
+          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
+        }
+      ],
+      "duration_ms": 162376,
+      "name": "Miss Summer",
+      "url": "https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc"
     },
     {
       "added_at": "2023-11-24 02:03:10",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-11-24 02:03:10",
       "album": {
+        "name": "Untourable Album",
+        "url": "https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 176315,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/6ZdAsADC9LIICvsVRuGWbZ"
+    },
+    {
+      "added_at": "2023-11-24 02:03:10",
+      "album": {
         "name": "People Watching",
         "url": "https://open.spotify.com/album/03HTFr18vhLwCLFq6kWHIw"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 190373,
       "name": "4EVA",
       "url": "https://open.spotify.com/track/2sUImfbz5cpAW50SiQla4h"
-    },
-    {
-      "added_at": "2023-11-24 02:03:10",
-      "album": {
-        "name": "Untourable Album",
-        "url": "https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 176315,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/6ZdAsADC9LIICvsVRuGWbZ"
     },
     {
       "added_at": "2023-11-24 02:03:10",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-11-24 02:03:10",
       "album": {
-        "name": "Desire, I Want To Turn Into You",
-        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 162909,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/203bhpOhWluOytYjvwQfl7"
-    },
-    {
-      "added_at": "2023-11-24 02:03:10",
-      "album": {
         "name": "Witches",
         "url": "https://open.spotify.com/album/2tqLyWHOTHOGRvEYXUHoqM"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 195078,
       "name": "Witches",
       "url": "https://open.spotify.com/track/5BBK1WoaiD3b3sJ2UysLuM"
+    },
+    {
+      "added_at": "2023-11-24 02:03:10",
+      "album": {
+        "name": "Desire, I Want To Turn Into You",
+        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 162909,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/203bhpOhWluOytYjvwQfl7"
     },
     {
       "added_at": "2023-11-24 02:03:10",

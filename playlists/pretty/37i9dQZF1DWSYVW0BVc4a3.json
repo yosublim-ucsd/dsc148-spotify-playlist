@@ -1,12 +1,12 @@
 {
   "description": "The stomping ground. ",
-  "num_followers": 113316,
+  "num_followers": 113582,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzRlMzUxMzAzM2JjZWU5NzJiZDNkYjFhYmMyY2NmNWE0ZGExYWVl",
+  "snapshot_id": "MCxhMTY3ZDJjODJkMDJjODhhYTBhOTQ1N2MwNThhMTY2Mzg2YzY3MzVi",
   "tracks": [
     {
       "added_at": "2024-01-04 23:00:00",
@@ -245,11 +245,11 @@
         },
         {
           "name": "MichaelBM",
-          "url": "https://open.spotify.com/artist/0DdbrsAMsJHh1EFRkrVmzb"
+          "url": "https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl"
         },
         {
           "name": "Francesco V",
-          "url": "https://open.spotify.com/artist/6MrtkunYTDdVAjtH4cHjLb"
+          "url": "https://open.spotify.com/artist/44lpT2O5mBIXeyrXhVlj7Q"
         }
       ],
       "duration_ms": 143255,
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "Frikitona",
+        "url": "https://open.spotify.com/album/5LdsLkZqLq2oUEthzHiR9g"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 174375,
+      "name": "Frikitona",
+      "url": "https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Transmission (Joris Voorn Remix)",
         "url": "https://open.spotify.com/album/0140Vqwx9gWCGWQKTsQ8Cx"
       },
@@ -655,18 +671,22 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Frikitona",
-        "url": "https://open.spotify.com/album/5LdsLkZqLq2oUEthzHiR9g"
+        "name": "Aria",
+        "url": "https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA"
       },
       "artists": [
         {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Omnya",
+          "url": "https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc"
         }
       ],
-      "duration_ms": 174375,
-      "name": "Frikitona",
-      "url": "https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn"
+      "duration_ms": 236065,
+      "name": "Aria",
+      "url": "https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -739,22 +759,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Danielle (smile on my face)",
-        "url": "https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Danielle (smile on my face)",
-      "url": "https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Genesys",
         "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
       },
@@ -779,6 +783,22 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "Danielle (smile on my face)",
+        "url": "https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Danielle (smile on my face)",
+      "url": "https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Banho de Folhas (Maz Remix)",
         "url": "https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 215476,
       "name": "Banho de Folhas - Maz Remix",
       "url": "https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "Aria",
-        "url": "https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA"
-      },
-      "artists": [
-        {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
-        },
-        {
-          "name": "Omnya",
-          "url": "https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc"
-        }
-      ],
-      "duration_ms": 236065,
-      "name": "Aria",
-      "url": "https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "KILL DEM",
+        "url": "https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "duration_ms": 223536,
+      "name": "KILL DEM",
+      "url": "https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/2ctujff7VotoPkcd4AXXT8"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 302740,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/0aVrpFRLlrd5zVyPXWP3mS"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "KILL DEM",
-        "url": "https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        }
-      ],
-      "duration_ms": 223536,
-      "name": "KILL DEM",
-      "url": "https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1143,6 +1143,30 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "Time\u2019s a Fantasy (feat. Jeff Bhasker) - Anyma Remix",
+        "url": "https://open.spotify.com/album/1df48ZyihLZfWMVeeFipQ2"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Jeff Bhasker",
+          "url": "https://open.spotify.com/artist/5phOCTS0ZqbZGVXdpG6rLu"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "duration_ms": 240060,
+      "name": "Time\u2019s a Fantasy (feat. Jeff Bhasker) - Anyma Remix",
+      "url": "https://open.spotify.com/track/51VlMC9AnJQmZqnAZQjfp5"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Dimension",
         "url": "https://open.spotify.com/album/6x0CBRdU8588pZ40icfONg"
       },
@@ -1179,30 +1203,6 @@
       "duration_ms": 199472,
       "name": "Diamond Therapy",
       "url": "https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "Time\u2019s a Fantasy (feat. Jeff Bhasker) - Anyma Remix",
-        "url": "https://open.spotify.com/album/1df48ZyihLZfWMVeeFipQ2"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        },
-        {
-          "name": "Jeff Bhasker",
-          "url": "https://open.spotify.com/artist/5phOCTS0ZqbZGVXdpG6rLu"
-        },
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        }
-      ],
-      "duration_ms": 240060,
-      "name": "Time\u2019s a Fantasy (feat. Jeff Bhasker) - Anyma Remix",
-      "url": "https://open.spotify.com/track/51VlMC9AnJQmZqnAZQjfp5"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Breathe In (Short Mix)",
-        "url": "https://open.spotify.com/album/1FchiEL5g79UaUVnwdGQcK"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        },
-        {
-          "name": "Another Life",
-          "url": "https://open.spotify.com/artist/7fMAxXqd5hhcwbC1d0VkLQ"
-        }
-      ],
-      "duration_ms": 247559,
-      "name": "Breathe In (Short Mix)",
-      "url": "https://open.spotify.com/track/3LBWAYCXn4GCkg0jOgWD7D"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "This Feeling (Yotto Remix)",
         "url": "https://open.spotify.com/album/6Rub1KknGrXsGBPJK2mJqN"
       },
@@ -1635,22 +1615,22 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Sidewindah (feat. Flirta D)",
-        "url": "https://open.spotify.com/album/43sQLpO0FFy5wfXcWyyXCm"
+        "name": "Breathe In (Short Mix)",
+        "url": "https://open.spotify.com/album/1FchiEL5g79UaUVnwdGQcK"
       },
       "artists": [
         {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
         },
         {
-          "name": "Flirta D",
-          "url": "https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR"
+          "name": "Another Life",
+          "url": "https://open.spotify.com/artist/7fMAxXqd5hhcwbC1d0VkLQ"
         }
       ],
-      "duration_ms": 213562,
-      "name": "Sidewindah (feat. Flirta D)",
-      "url": "https://open.spotify.com/track/3NGC2t1KnSOFcDQv8EI2Pl"
+      "duration_ms": 247559,
+      "name": "Breathe In (Short Mix)",
+      "url": "https://open.spotify.com/track/3LBWAYCXn4GCkg0jOgWD7D"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1675,6 +1655,26 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "Sidewindah (feat. Flirta D)",
+        "url": "https://open.spotify.com/album/43sQLpO0FFy5wfXcWyyXCm"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "Flirta D",
+          "url": "https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR"
+        }
+      ],
+      "duration_ms": 213562,
+      "name": "Sidewindah (feat. Flirta D)",
+      "url": "https://open.spotify.com/track/3NGC2t1KnSOFcDQv8EI2Pl"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Midtown Playground",
         "url": "https://open.spotify.com/album/4wJmh4uUgDAAAyFdRMIE7K"
       },
@@ -1687,26 +1687,6 @@
       "duration_ms": 222475,
       "name": "Midtown Playground",
       "url": "https://open.spotify.com/track/22fEl4nzfgTqKi7ZYNXW3c"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "Perfect Love (Biscits Remix)",
-        "url": "https://open.spotify.com/album/1HVIOPdgDaSIdKy79G1Dbj"
-      },
-      "artists": [
-        {
-          "name": "Todd Edwards",
-          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
-        },
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 191355,
-      "name": "Perfect Love - Biscits Remix",
-      "url": "https://open.spotify.com/track/6SxpLVRmhMubmYLrvxGp22"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1735,6 +1715,26 @@
       "duration_ms": 340750,
       "name": "Time",
       "url": "https://open.spotify.com/track/5JUvmSedBunsVi66CPnEBK"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Perfect Love (Biscits Remix)",
+        "url": "https://open.spotify.com/album/1HVIOPdgDaSIdKy79G1Dbj"
+      },
+      "artists": [
+        {
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+        },
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 191355,
+      "name": "Perfect Love - Biscits Remix",
+      "url": "https://open.spotify.com/track/6SxpLVRmhMubmYLrvxGp22"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1779,26 +1779,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "The Little Mushroom That Got Away",
-        "url": "https://open.spotify.com/album/71adfswntkKEtqbhBqp9FU"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        }
-      ],
-      "duration_ms": 335409,
-      "name": "The Little Mushroom That Got Away",
-      "url": "https://open.spotify.com/track/2luKkgm9p46Yf7cQ4pMWaR"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "I Need You (Adriatique Remix)",
         "url": "https://open.spotify.com/album/5xoWT0xsoV2jQ5wFvLUEfN"
       },
@@ -1819,18 +1799,38 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Molfar",
-        "url": "https://open.spotify.com/album/1j0XrEQ6r8bAeNmJj5aoON"
+        "name": "The Little Mushroom That Got Away",
+        "url": "https://open.spotify.com/album/71adfswntkKEtqbhBqp9FU"
       },
       "artists": [
         {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
         }
       ],
-      "duration_ms": 204878,
-      "name": "Molfar",
-      "url": "https://open.spotify.com/track/1MHO5ebuwaSgGaccdC5VPr"
+      "duration_ms": 335409,
+      "name": "The Little Mushroom That Got Away",
+      "url": "https://open.spotify.com/track/2luKkgm9p46Yf7cQ4pMWaR"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Dance With Me EP",
+        "url": "https://open.spotify.com/album/5g5vQzGIuYwk5iXJpXWioS"
+      },
+      "artists": [
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        }
+      ],
+      "duration_ms": 391590,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/0VbexUMmRVxsshn5PPqrfW"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1855,6 +1855,22 @@
       "duration_ms": 176065,
       "name": "The Greatest Thing Alive",
       "url": "https://open.spotify.com/track/6As1zfxQHAgeQPBK2paaqh"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Molfar",
+        "url": "https://open.spotify.com/album/1j0XrEQ6r8bAeNmJj5aoON"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 204878,
+      "name": "Molfar",
+      "url": "https://open.spotify.com/track/1MHO5ebuwaSgGaccdC5VPr"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1927,38 +1943,26 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Goodbye (DJ Seinfeld Remix)",
-        "url": "https://open.spotify.com/album/1d4OoBwqA4Ll4lKlO9kYdq"
+        "name": "Night After Night",
+        "url": "https://open.spotify.com/album/7hSPuiVmOvzEEm4rRr9N4o"
       },
       "artists": [
         {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
         },
         {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        }
-      ],
-      "duration_ms": 207291,
-      "name": "Goodbye - DJ Seinfeld Remix",
-      "url": "https://open.spotify.com/track/1G6yMiZEf1A3HzpjekA6RZ"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "Dance With Me EP",
-        "url": "https://open.spotify.com/album/5g5vQzGIuYwk5iXJpXWioS"
-      },
-      "artists": [
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
         {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+          "name": "Be No Rain",
+          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
         }
       ],
-      "duration_ms": 391590,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/0VbexUMmRVxsshn5PPqrfW"
+      "duration_ms": 418528,
+      "name": "Night After Night (CamelPhat Remix)",
+      "url": "https://open.spotify.com/track/3fFDHJoKWph8PQwXq3aIoX"
     },
     {
       "added_at": "2024-01-04 23:00:00",

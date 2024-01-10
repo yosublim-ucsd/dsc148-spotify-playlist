@@ -44,7 +44,7 @@
 | [Suga](https://open.spotify.com/track/6hxXriaJ6Uf3riLxQsN3CA) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Code Red](https://open.spotify.com/album/6swMxrdIwr5SMa2R3Zfqp9) | 3:21 | 2022-05-25 |  |
 | [SUMMER RENAISSANCE](https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:33 | 2022-12-14 |  |
 | [They Ain't Ready](https://open.spotify.com/track/2efF9ZPcJQolc3hLVFQ34V) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [They Ain't Ready](https://open.spotify.com/album/3zNrAL9B03xuDZd3AEbDpu) | 3:29 | 2022-05-25 |  |
-| [Traumada](https://open.spotify.com/track/7MIkwVS7Wm1vYTEoDPsyVS) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:27 | 2022-05-25 | 2024-01-08 |
-| [Traumada](https://open.spotify.com/track/0fMQSHQBLUNHgBPofQyeGt) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Traumada \(Official Video\)](https://open.spotify.com/album/33qJKxx7ICKDtAbcmqGhlr) | 2:36 | 2023-12-19 |  |
+| [Traumada](https://open.spotify.com/track/7MIkwVS7Wm1vYTEoDPsyVS) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:27 | 2022-05-25 |  |
+| [Traumada](https://open.spotify.com/track/0fMQSHQBLUNHgBPofQyeGt) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Traumada \(Official Video\)](https://open.spotify.com/album/33qJKxx7ICKDtAbcmqGhlr) | 2:36 | 2023-12-19 | 2024-01-10 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

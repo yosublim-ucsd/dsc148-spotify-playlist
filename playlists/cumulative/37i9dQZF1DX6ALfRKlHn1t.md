@@ -4,7 +4,7 @@
 
 > the soundtrack for your vitamin d fix.
 
-265 songs - 15 hr 7 min
+266 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Jungle \(Radio Edit\)](https://open.spotify.com/track/7dEGgbP5Ld5mQfbpiwDjoe) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Jungle \(Radio Edit\)](https://open.spotify.com/album/0O6n01xArsUl4MTRAwTxLX) | 3:56 | 2022-10-07 | 2022-11-13 |
 | [Jungle \(Radio Edit\)](https://open.spotify.com/track/5GI8QlM6RlyZjegB9CFk7U) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Jungle \(Radio Edit\)](https://open.spotify.com/album/2peYRO0S43aoxn8N3E4qAU) | 3:57 | 2021-03-24 | 2022-04-28 |
 | [Kid](https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Kid](https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe) | 3:28 | 2023-03-14 | 2023-08-30 |
+| [Kool Aid](https://open.spotify.com/track/2HKDVLcHYBD8asWWttLU3W) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:36 | 2023-09-08 |  |
 | [Levitate](https://open.spotify.com/track/6nlA3j4n3KAY8AgEGmos2o) | [The Palms](https://open.spotify.com/artist/1zVGInzEij1qk9ZlMlOC2X) | [Levitate](https://open.spotify.com/album/3K8q99Bi8C6OYQbmUEaeR2) | 3:50 | 2021-03-24 | 2022-11-13 |
 | [Life Itself](https://open.spotify.com/track/2cKBRXAja8JIgF2gSmrMke) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Life Itself](https://open.spotify.com/album/3YXqLvGQKBu2gCqx8WaUas) | 4:40 | 2021-03-24 | 2022-04-27 |
 | [Life's 2 Short](https://open.spotify.com/track/1wVklb85pKYaoCGx9jybqm) | [DENM](https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb) | [Slum Beach Denny](https://open.spotify.com/album/0MgiASaKPnKqEYQiobt7ix) | 4:00 | 2021-05-14 | 2023-03-15 |
@@ -220,7 +221,7 @@
 | [Sober Up](https://open.spotify.com/track/2QCndYqRherBtKjBpyySC6) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v) | [The Click](https://open.spotify.com/album/6hpiZXzsZxlkTXY8zavu3N) | 3:38 | 2021-03-24 | 2022-07-17 |
 | [Sober Up \(feat\. Rivers Cuomo\)](https://open.spotify.com/track/5jiYx70OBzEI99jx1Gn3FN) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v) | [The Click](https://open.spotify.com/album/2LyLlHg03okxUU3UVrKtSC) | 3:38 | 2022-06-24 | 2023-11-04 |
 | [Sober Up \(feat\. Rivers Cuomo\)](https://open.spotify.com/track/5tf8NV1rHghYymjIqeKMus) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v) | [The Click](https://open.spotify.com/album/1nOOYWt0s8RGKgKDTMA77h) | 3:38 | 2023-09-08 |  |
-| [Solamente](https://open.spotify.com/track/4BMBpU3AbNPjsHk41S0uSl) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:14 | 2021-10-27 |  |
+| [Solamente](https://open.spotify.com/track/4BMBpU3AbNPjsHk41S0uSl) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:14 | 2021-10-27 | 2024-01-10 |
 | [Someday \- Remastered](https://open.spotify.com/track/6NcHJ23mLQKnVxQcOmT7JW) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [The Best Of Sugar Ray](https://open.spotify.com/album/2hjQQj7x2YipViOCw6UX1N) | 4:03 | 2021-03-24 |  |
 | [Something Here](https://open.spotify.com/track/7hVJdledWUXvvHlw8SzXxM) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Something Here](https://open.spotify.com/album/1LOtxwfLkAvDmrl0YXISKw) | 4:05 | 2021-03-24 | 2022-07-29 |
 | [Stolen Dance](https://open.spotify.com/track/6vECYJHxYmm3Ydt3fF01pE) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb) | 5:13 | 2021-03-24 | 2023-03-15 |

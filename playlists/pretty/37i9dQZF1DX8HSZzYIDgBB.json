@@ -1,12 +1,12 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol #IndieTropical \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Jarina De Marco en portada.",
-  "num_followers": 36020,
+  "num_followers": 36025,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDU1YzYxOTFmODYxMWM0YmZlNjgzMDA5ODJjYTViMzBjZDQ3ZTQy",
+  "snapshot_id": "MCw1YmU2YzYwNjJiMDdjMzE5MWQ2NGM2MjE4ZGFjNmNmYTMxMGRjNDk2",
   "tracks": [
     {
       "added_at": "2023-12-07 01:08:32",
@@ -377,22 +377,6 @@
       "url": "https://open.spotify.com/track/6iitVWohxBtt0HFopnMIkD"
     },
     {
-      "added_at": "2023-12-07 01:08:32",
-      "album": {
-        "name": "Aguas",
-        "url": "https://open.spotify.com/album/33pADJx4IypA4nlgrpllNy"
-      },
-      "artists": [
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
-        }
-      ],
-      "duration_ms": 184391,
-      "name": "Nunca Paran",
-      "url": "https://open.spotify.com/track/19o5QsrxcPEgTqVIokkfcc"
-    },
-    {
       "added_at": "2023-06-02 01:07:56",
       "album": {
         "name": "Lucha",
@@ -407,6 +391,22 @@
       "duration_ms": 252574,
       "name": "Dibujos De Mi Alma",
       "url": "https://open.spotify.com/track/1GXm4Dv2NiM8QLui2l4Wls"
+    },
+    {
+      "added_at": "2023-12-07 01:08:32",
+      "album": {
+        "name": "Aguas",
+        "url": "https://open.spotify.com/album/33pADJx4IypA4nlgrpllNy"
+      },
+      "artists": [
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "duration_ms": 184391,
+      "name": "Nunca Paran",
+      "url": "https://open.spotify.com/track/19o5QsrxcPEgTqVIokkfcc"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
+        "name": "Los Estimados",
+        "url": "https://open.spotify.com/album/3B98l6muwFWFXI9BkcR34N"
+      },
+      "artists": [
+        {
+          "name": "Tati Falco",
+          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
+        }
+      ],
+      "duration_ms": 277589,
+      "name": "Los Estimados",
+      "url": "https://open.spotify.com/track/6AvC278qiJnaF5jj7ariso"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
         "name": "la noche de ayer",
         "url": "https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 234655,
       "name": "Alma Carnavalera",
       "url": "https://open.spotify.com/track/2ia6khUL8cdWGqOc31dgl8"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "Los Estimados",
-        "url": "https://open.spotify.com/album/3B98l6muwFWFXI9BkcR34N"
-      },
-      "artists": [
-        {
-          "name": "Tati Falco",
-          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
-        }
-      ],
-      "duration_ms": 277589,
-      "name": "Los Estimados",
-      "url": "https://open.spotify.com/track/6AvC278qiJnaF5jj7ariso"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
+        "name": "Canoas",
+        "url": "https://open.spotify.com/album/2aRUgi8wUIUxzgO5VEOCDv"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "duration_ms": 297000,
+      "name": "Canoas",
+      "url": "https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
         "name": "Espantap\u00e1jaros",
         "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 172500,
       "name": "Espantap\u00e1jaros",
       "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "Canoas",
-        "url": "https://open.spotify.com/album/2aRUgi8wUIUxzgO5VEOCDv"
-      },
-      "artists": [
-        {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
-        }
-      ],
-      "duration_ms": 297000,
-      "name": "Canoas",
-      "url": "https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig"
     },
     {
       "added_at": "2023-12-07 01:08:32",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "City of Mirrors",
-        "url": "https://open.spotify.com/album/6HdgU5FwmqGs0JfKXT7IZ3"
-      },
-      "artists": [
-        {
-          "name": "Dos Santos",
-          "url": "https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP"
-        }
-      ],
-      "duration_ms": 148093,
-      "name": "Glorieta",
-      "url": "https://open.spotify.com/track/0n0pCIWwd6Fz7ZJWdlWfnH"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
         "name": "Levante la Mano (Remixes)",
         "url": "https://open.spotify.com/album/5sOze0dpm9v0UtFiRFW5HS"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 243000,
       "name": "Levante la Mano (Tonga Conga Remix)",
       "url": "https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "City of Mirrors",
+        "url": "https://open.spotify.com/album/6HdgU5FwmqGs0JfKXT7IZ3"
+      },
+      "artists": [
+        {
+          "name": "Dos Santos",
+          "url": "https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP"
+        }
+      ],
+      "duration_ms": 148093,
+      "name": "Glorieta",
+      "url": "https://open.spotify.com/track/0n0pCIWwd6Fz7ZJWdlWfnH"
     },
     {
       "added_at": "2023-12-07 01:08:32",
@@ -1317,22 +1317,6 @@
       "url": "https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG"
     },
     {
-      "added_at": "2023-12-07 01:08:32",
-      "album": {
-        "name": "Cool Down (Ice Cream Donut)",
-        "url": "https://open.spotify.com/album/4qoS5Sayi1rJByfNv3S8te"
-      },
-      "artists": [
-        {
-          "name": "International Dub Ambassadors",
-          "url": "https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE"
-        }
-      ],
-      "duration_ms": 222990,
-      "name": "Cool Down (Ice Cream Donut)",
-      "url": "https://open.spotify.com/track/5pEzjDbX4jBfv3UUtVVYTp"
-    },
-    {
       "added_at": "2023-05-05 23:46:53",
       "album": {
         "name": "So\u00f1ando",
@@ -1367,6 +1351,22 @@
       "duration_ms": 197733,
       "name": "Duele",
       "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
+    },
+    {
+      "added_at": "2023-12-07 01:08:32",
+      "album": {
+        "name": "Cool Down (Ice Cream Donut)",
+        "url": "https://open.spotify.com/album/4qoS5Sayi1rJByfNv3S8te"
+      },
+      "artists": [
+        {
+          "name": "International Dub Ambassadors",
+          "url": "https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE"
+        }
+      ],
+      "duration_ms": 222990,
+      "name": "Cool Down (Ice Cream Donut)",
+      "url": "https://open.spotify.com/track/5pEzjDbX4jBfv3UUtVVYTp"
     },
     {
       "added_at": "2023-05-05 23:46:53",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 
 > Porque el romance nunca pasará de moda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,121 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,239 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 42 | [Nada de tu amor](https://open.spotify.com/track/3N7oZZG0sPkdBITPI7LwYf) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Antología\. \. \. Los Solitarios](https://open.spotify.com/album/0yui0kzwnX3DgfpKKYIlrg) | 2:53 |
 | 43 | [Cuando Nadie Te Quiera](https://open.spotify.com/track/4cqK9ZrhqmpTuL1HcMRIhJ) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Cariño Santo](https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo) | 3:20 |
 | 44 | [Par De Anillos](https://open.spotify.com/track/3hNa7iKRzCK06IawGLlsbz) | [Viento Y Sol](https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/3RMafNWPxjqnrg1MU44Uei) | 3:14 |
-| 45 | [Ángel de la Mañana](https://open.spotify.com/track/7rcVxm6J2GC1Wg3ucPpFyH) | [Los Caminantes](https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut) | [15 Exitos, Vol\. I](https://open.spotify.com/album/7uZRZ7Y3QgnLe0hrfAHgFr) | 2:45 |
-| 46 | [Celos De Ti](https://open.spotify.com/track/1DeMLkxCC8lAoOHzHnkPcv) | [La Migra](https://open.spotify.com/artist/3ClO4HFyTz0SfwVYBDsb76) | [15 Grandes Exitos Vol\. 2](https://open.spotify.com/album/7kvowluQkpvjIGpvOGPC9f) | 4:15 |
-| 47 | [Déjenme llorar \- Con banda](https://open.spotify.com/track/6MpWEoDk1S8oJJaEga4DiP) | [Los Freddy's](https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe) | [Con Banda](https://open.spotify.com/album/4YW3MI0CtpgW1ogAtfLIV5) | 2:37 |
+| 45 | [Déjenme llorar \- Con banda](https://open.spotify.com/track/6MpWEoDk1S8oJJaEga4DiP) | [Los Freddy's](https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe) | [Con Banda](https://open.spotify.com/album/4YW3MI0CtpgW1ogAtfLIV5) | 2:37 |
+| 46 | [Ángel de la Mañana](https://open.spotify.com/track/7rcVxm6J2GC1Wg3ucPpFyH) | [Los Caminantes](https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut) | [15 Exitos, Vol\. I](https://open.spotify.com/album/7uZRZ7Y3QgnLe0hrfAHgFr) | 2:45 |
+| 47 | [Celos De Ti](https://open.spotify.com/track/1DeMLkxCC8lAoOHzHnkPcv) | [La Migra](https://open.spotify.com/artist/3ClO4HFyTz0SfwVYBDsb76) | [15 Grandes Exitos Vol\. 2](https://open.spotify.com/album/7kvowluQkpvjIGpvOGPC9f) | 4:15 |
 | 48 | [Llorarás](https://open.spotify.com/track/2avnbTB2bVyKI2nz553XuH) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Llorarás](https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7) | 3:37 |
 | 49 | [Por Muchas Razones Te Quiero](https://open.spotify.com/track/3uNHsihawfIiZv8XClEZoY) | [Palito Ortega](https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD) | [Palito Ortega y Sus Exitos](https://open.spotify.com/album/7LqDl8hqvxYKVArJWWABtC) | 3:20 |
 | 50 | [Ding Dong, Ding Dong, Estas Cosas del Amor](https://open.spotify.com/track/0gWjaiCtTkyssyspHGXYuh) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/1XvQfWQRrpGZPa71q1ZBdh) | 3:31 |
@@ -66,13 +66,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 56 | [Espejismo](https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck) | [Juanello](https://open.spotify.com/artist/5cNtT3ILdrynZyfVPk4XX6) | [Juanello](https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj) | 3:06 |
 | 57 | [Nunca digas](https://open.spotify.com/track/4pMyhL7qpkgIquLtn8ukUa) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Serie Diamante \(USA\)](https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer) | 2:48 |
 | 58 | [Y...](https://open.spotify.com/track/0wuSvq7ZYwAcW2d86hyshh) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Javier Solis Con Acoo De Mariachi](https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn) | 2:39 |
-| 59 | [Sólo una Vez](https://open.spotify.com/track/68XwQafl8rl0LzrfNaPqoM) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Bajo el Signo de Leo](https://open.spotify.com/album/2LEmmxRWFxOp5ygRQ9K9vJ) | 2:27 |
-| 60 | [Wendolyne](https://open.spotify.com/track/5UzphHLxBUS69n6J30BZea) | [La Rondalla De Saltillo](https://open.spotify.com/artist/65wmIidwFZCCoT1BUewp5P) | [La Rondalla Etc.](https://open.spotify.com/album/21iFLZ2JMHMhPU2zKkzFAp) | 2:26 |
+| 59 | [Wendolyne](https://open.spotify.com/track/5UzphHLxBUS69n6J30BZea) | [La Rondalla De Saltillo](https://open.spotify.com/artist/65wmIidwFZCCoT1BUewp5P) | [La Rondalla Etc.](https://open.spotify.com/album/21iFLZ2JMHMhPU2zKkzFAp) | 2:26 |
+| 60 | [Sólo una Vez](https://open.spotify.com/track/68XwQafl8rl0LzrfNaPqoM) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Bajo el Signo de Leo](https://open.spotify.com/album/2LEmmxRWFxOp5ygRQ9K9vJ) | 2:27 |
 | 61 | [Hoy Te Confieso](https://open.spotify.com/track/7GiV85w7yQWnroTKotqlHV) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Una Carta](https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T) | 3:48 |
 | 62 | [El Pecador](https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Éxitos: Baladas](https://open.spotify.com/album/16koZGZZYztvCEShPLndCv) | 3:20 |
 | 63 | [Quien](https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K) | [Los Strwck](https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 3:01 |
-| 64 | [Eres Mi Mundo](https://open.spotify.com/track/5hkA0x4asdvj5V3cR8V1Si) | [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Éxitos De Época \(De Colección\)](https://open.spotify.com/album/1G7SdOH7XOFgNnzB9bgSAw) | 2:48 |
-| 65 | [Tu inolvidable sonrisa \- Con banda](https://open.spotify.com/track/5HUXSbMwR3wRlJQ5JwJRXF) | [Los Freddy's](https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe) | [Con Banda](https://open.spotify.com/album/4YW3MI0CtpgW1ogAtfLIV5) | 2:46 |
+| 64 | [Tu inolvidable sonrisa \- Con banda](https://open.spotify.com/track/5HUXSbMwR3wRlJQ5JwJRXF) | [Los Freddy's](https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe) | [Con Banda](https://open.spotify.com/album/4YW3MI0CtpgW1ogAtfLIV5) | 2:46 |
+| 65 | [Eres Mi Mundo](https://open.spotify.com/track/5hkA0x4asdvj5V3cR8V1Si) | [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Éxitos De Época \(De Colección\)](https://open.spotify.com/album/1G7SdOH7XOFgNnzB9bgSAw) | 2:48 |
 | 66 | [Sufrir](https://open.spotify.com/track/5hFkKLE06GhSuqoLJR2oP7) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Antología\. \. \. Los Solitarios](https://open.spotify.com/album/0yui0kzwnX3DgfpKKYIlrg) | 3:06 |
 | 67 | [Como Te Extraño](https://open.spotify.com/track/0W4z5QkqwDWIAFMsZvTN5d) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [Éxitos Románticos \(De Colección\)](https://open.spotify.com/album/6h11WKrIIACDQSQKfGqKYL) | 3:04 |
 | 68 | [Recuerdos de una Noche](https://open.spotify.com/track/1HvnEWOy2ykY8sJa2K6y7s) | [Los Pasteles Verdes](https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y) | [Éxitos Eternos](https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon) | 3:02 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 76 | [Mi Forma De Sentir](https://open.spotify.com/track/7qLdzoN0DawHgS7idZDItd) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [Éxitos Románticos \(De Colección\)](https://open.spotify.com/album/6h11WKrIIACDQSQKfGqKYL) | 3:54 |
 | 77 | [Esclavo y Amo](https://open.spotify.com/track/0XphBzDRrUSuyB1QXwbBNZ) | [Los Originales Pasteles Verdes Del Peru](https://open.spotify.com/artist/1ej2UXtVvZ7D6qX8mUWMw1) | [25 Aniversario](https://open.spotify.com/album/7F0eY7TbrkgXUUxlcsjbUh) | 3:40 |
 | 78 | [Sin Tu Amor](https://open.spotify.com/track/6nAkDgnYiBWK7cwGXdAMZ4) | [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Serie Sensacional Regional Mexican Yndio](https://open.spotify.com/album/58GJW5Vi2X7lbAbYCN8Xm2) | 3:43 |
-| 79 | [Qué Ironía](https://open.spotify.com/track/4Kh3E34bexvFQlJ0xwiggQ) | [Los Muecas](https://open.spotify.com/artist/6gwYud4hJkX6ApdxYoCi7b) | [Serie De Colección 15 Autenticos Éxitos](https://open.spotify.com/album/4ajWl9nOJD3rVM4tmolANI) | 3:12 |
-| 80 | [Ni Tu Amigo, Ni Tu Amante](https://open.spotify.com/track/5YPwHHqFhj44Lv0OcPROSj) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [35 Aniversario](https://open.spotify.com/album/1I7toj699MjUv6YIAhX6FT) | 3:00 |
+| 79 | [Ni Tu Amigo, Ni Tu Amante](https://open.spotify.com/track/5YPwHHqFhj44Lv0OcPROSj) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [35 Aniversario](https://open.spotify.com/album/1I7toj699MjUv6YIAhX6FT) | 3:00 |
+| 80 | [Qué Ironía](https://open.spotify.com/track/4Kh3E34bexvFQlJ0xwiggQ) | [Los Muecas](https://open.spotify.com/artist/6gwYud4hJkX6ApdxYoCi7b) | [Serie De Colección 15 Autenticos Éxitos](https://open.spotify.com/album/4ajWl9nOJD3rVM4tmolANI) | 3:12 |
 | 81 | [Porque Nos Dijimos Adios](https://open.spotify.com/track/01GNedXgGbn3vW28rRjnMh) | [Yndio](https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg) | [Lo Basico](https://open.spotify.com/album/4PvLHMuUveLw9A1FpGulDS) | 3:07 |
 | 82 | [Ella...Ella Ya Me Olvidó, Yo la Recuerdo Ahora](https://open.spotify.com/track/5xTgIHN7yEmuOjsC1toYJq) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Baladas De Amor](https://open.spotify.com/album/3UAIOag0j4RpnVWBJzmw0h) | 3:42 |
 | 83 | [Cuatro Lagrimas](https://open.spotify.com/track/2XNyz6up4JxH6m6xmYX8wr) | [Los Polifaceticos](https://open.spotify.com/artist/3OOAJERutoeZax0lNsSWbK) | [Coleccion Suprema Plus\- Los Polifaceticos](https://open.spotify.com/album/5EhuEeRwzgNV4TVLqcDD0i) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 99 | [Pecado Mortal](https://open.spotify.com/track/3uJW3j46luxDB4CrJY90l5) | [Los Barbaros](https://open.spotify.com/artist/1YOOqViXEnQ7gHpezp34TX) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 3:26 |
 | 100 | [Como Te Extraño](https://open.spotify.com/track/4cr9cfUYbIwuhqzhF9dpIZ) | [Yndio](https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg) | [Mano A Mano Volumen 2](https://open.spotify.com/album/711RytcGqUZWMK90seBzdV) | 2:49 |
 
-Snapshot ID: `MCxiZjQ3YjYyOWNkOTVjZjI4ODE3MWI4Y2ZiYWQzNDYwNDI1NzMzMjAy`
+Snapshot ID: `MCxkYmQ1YWI3MjQ3MDdlNjZlYWYzZTA1NGM2NjdmYjZhMzQ4MDk3MDlj`

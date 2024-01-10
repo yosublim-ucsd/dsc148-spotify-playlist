@@ -4,7 +4,7 @@
 
 > The irresistible rhythms of Latin jazz\. Cover: Tito Puente
 
-309 songs - 1 day 1 hr 49 min
+310 songs - 1 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Scarborough Fair](https://open.spotify.com/track/6tx4luUmjZXUW1HuLmNb4U) | [Sergio Mendes & Brasil '66](https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL) | [The Greatest Hits Of Sergio Mendes And Brasil '66](https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P) | 3:21 | 2021-12-09 |  |
 | [Se E Tarde, Me Perdoa](https://open.spotify.com/track/4WuM7C9XtbjcQPzNbM2Pk9) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Soul Sauce](https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas) | 2:50 | 2021-12-09 | 2022-07-24 |
 | [Se E Tarde, Me Perdoa](https://open.spotify.com/track/7ByBGLvzTGCZKFp5XhwOcr) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Plays The Contemporary Music Of Mexico And Brazil](https://open.spotify.com/album/7Fs3cHLMIGjjxRB5K2HJRo) | 2:50 | 2022-08-31 |  |
+| [Se Te Olvida \(La Mentira\) / Sabor A Mi](https://open.spotify.com/track/03C2wt9nzzDcguLm9sqnwP) | [Vanessa Perea](https://open.spotify.com/artist/6EnIfpO7dtvoZU28SNmye5) | [Se Te Olvida \(La Mentira\) / Sabor A Mi](https://open.spotify.com/album/4JXN3bXx0nkCQWI5VLXs40) | 5:53 | 2023-08-28 |  |
 | [Sería Una Pena](https://open.spotify.com/track/56Bd82ndrBY1JQ8r3oQzVl) | [Pete Perignon](https://open.spotify.com/artist/1E4i7we9SQzGSyzoMh53RX), [Jeremy Bosch](https://open.spotify.com/artist/33KZMQECd5v6S2FjRMCctD) | [Sería Una Pena](https://open.spotify.com/album/7jHcC0gencrmn5AsQfW9mr) | 4:21 | 2022-07-26 | 2022-11-14 |
 | [Seven Steps To Heaven](https://open.spotify.com/track/5JPGaCstRDwLekgNkgK9cK) | [Hilton Ruiz](https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1) | [Enchantment](https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY) | 2:11 | 2021-12-09 |  |
 | [Si Tu Supieras](https://open.spotify.com/track/4zlNld3hi3hJaofNa02t0o) | [Joel Hierrezuelo](https://open.spotify.com/artist/5is0ekUanJcudSxgNsqxhl), [Pierre De Bethmann](https://open.spotify.com/artist/6Rsydu80Gcd6b8D2ix9cR2), [Felipe Cabrera](https://open.spotify.com/artist/4dUUZTPOISpCJRadklHYuv), [Lukmil Perez](https://open.spotify.com/artist/26RqVxoGgBKJ4BWMc8WNCv) | [Asi de Simple](https://open.spotify.com/album/23kX4w7LihVLW6ui9vOUoV) | 6:00 | 2021-12-09 | 2023-04-18 |
@@ -271,7 +272,7 @@
 | [Spanish Rice](https://open.spotify.com/track/4TL9D8z4NFwMWjQa3lucIG) | [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU), [Chico O'Farrill](https://open.spotify.com/artist/7LwWCGCEfh4OWWwDoeEsvw) | [Spanish Rice](https://open.spotify.com/album/2RW3cLeqHhdg7nm1hJas0s) | 2:44 | 2022-07-26 | 2023-03-16 |
 | [Spanish Rice](https://open.spotify.com/track/56NzWjVrBucaK1uw7z6BPM) | [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU), [Chico O'Farrill](https://open.spotify.com/artist/7LwWCGCEfh4OWWwDoeEsvw) | [Spanish Rice \(LPR\)](https://open.spotify.com/album/17JWWKVEpoVyTCmbEiaxQG) | 2:44 | 2021-12-09 | 2022-07-29 |
 | [Suave](https://open.spotify.com/track/2qJYJ8Q1O10RBwbEqqVw9z) | [Adrien Brandeis](https://open.spotify.com/artist/6xdQZ13VLgYk2BrgtVDME1), [Orlando Poleo](https://open.spotify.com/artist/0VNkHMk153dbnBF7MbzUOX) | [Meetings](https://open.spotify.com/album/7nC6eOInxBoOPru39yFmjS) | 6:09 | 2021-12-09 |  |
-| [Summertime](https://open.spotify.com/track/61kdYuzRxng0e8rKb3QLq6) | [Giovanni Hidalgo](https://open.spotify.com/artist/5x8FeI2yziZBdKbfAhvms6) | [Worldwide](https://open.spotify.com/album/20QQyfHLjyZENU9jJFEvdj) | 7:05 | 2022-07-26 |  |
+| [Summertime](https://open.spotify.com/track/61kdYuzRxng0e8rKb3QLq6) | [Giovanni Hidalgo](https://open.spotify.com/artist/5x8FeI2yziZBdKbfAhvms6) | [Worldwide](https://open.spotify.com/album/20QQyfHLjyZENU9jJFEvdj) | 7:05 | 2022-07-26 | 2024-01-10 |
 | [Summertime](https://open.spotify.com/track/0XL0j2T7CMEJFLfWvwDP5J) | [Giovanni Hidalgo](https://open.spotify.com/artist/5x8FeI2yziZBdKbfAhvms6), [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Latin Jazz Lounge](https://open.spotify.com/album/5sdnyPZcJTGc5Udi3NTP25) | 7:04 | 2021-12-09 | 2022-07-29 |
 | [Sunny](https://open.spotify.com/track/2QpwAPgyuRCvL6fBEWvpUN) | [Negroni's Trio](https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C), [Aymee Nuviola](https://open.spotify.com/artist/7caiLUNvOLW4Hs2Cb78JeY) | [Sunny](https://open.spotify.com/album/73Orqh8gNy6wgoCTTEN5Jd) | 5:24 | 2021-12-09 | 2022-07-28 |
 | [Sunny \(feat\. Aymee Nuviola\)](https://open.spotify.com/track/63N8X6IbVc786Hv5yVMuo3) | [Negroni's Trio](https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C), [Aymée Nuviola](https://open.spotify.com/artist/7caiLUNvOLW4Hs2Cb78JeY) | [New Era](https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya) | 5:24 | 2023-03-15 |  |

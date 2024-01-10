@@ -4,7 +4,7 @@
 
 > Acoustic covers of all your favourite songs.
 
-294 songs - 16 hr 2 min
+295 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,7 +283,8 @@
 | [We Can't Stop \- Acoustic](https://open.spotify.com/track/2nYRexPm8vndayCOHgbovU) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ) | [We Can't Stop \(Acoustic\)](https://open.spotify.com/album/1KfszzDrkQINyxI5oUgCxk) | 2:58 | 2022-08-26 |  |
 | [What About Us \- Acoustic](https://open.spotify.com/track/7e4Pftu2tzDeY0W0690OKQ) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [What About Us \(Acoustic\)](https://open.spotify.com/album/0oqgSmNw05kvsTG9ap2Vv5) | 4:15 | 2022-08-26 | 2023-01-20 |
 | [what if](https://open.spotify.com/track/0osUQtTOZphz3EEHOtTKJl) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [what if](https://open.spotify.com/album/1W5ECbG8ihdhKRkRpVEWNq) | 3:21 | 2023-10-27 |  |
-| [What Makes You Beautiful](https://open.spotify.com/track/1H42VdCQ97or9QjnH5tlXf) | [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [What Makes You Beautiful](https://open.spotify.com/album/4iW9eYGpYhIQ1p4QC05ihN) | 2:48 | 2022-09-29 |  |
+| [What Makes You Beautiful](https://open.spotify.com/track/1H42VdCQ97or9QjnH5tlXf) | [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [What Makes You Beautiful](https://open.spotify.com/album/4iW9eYGpYhIQ1p4QC05ihN) | 2:48 | 2022-09-29 | 2024-01-10 |
+| [What Makes You Beautiful](https://open.spotify.com/track/4ExpBFkBgqT7Uexuwo0lU4) | [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [What Makes You Beautiful](https://open.spotify.com/album/5TEUGJdUEUeRbjxOwO44s7) | 2:48 | 2023-12-15 |  |
 | [WHAT THE HELL ARE WE DYING FOR?](https://open.spotify.com/track/1fsOH02E5iqS6xZZY7UOpd) | [Macy Ellen](https://open.spotify.com/artist/3KwkTBHTZViURYGQrl266L) | [WHAT THE HELL ARE WE DYING FOR?](https://open.spotify.com/album/7pbeE2xmYADDOEjd3H62xA) | 3:22 | 2023-08-31 |  |
 | [When I Get There](https://open.spotify.com/track/6AmEwM3ioCs9zQZx3TcYNK) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [When I Get There](https://open.spotify.com/album/5GSUtNK1MbDbmSWAlh8K6m) | 3:53 | 2023-04-14 |  |
 | [when the party's over](https://open.spotify.com/track/0EQosAeGhodWC4Uj2x56KH) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [when the party's over](https://open.spotify.com/album/2YNDRJdrWNnoIY6P5Pii1g) | 4:38 | 2022-08-26 | 2022-12-02 |

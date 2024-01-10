@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 
 > This is Kasey Chambers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,793 likes - 49 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,796 likes - 49 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 | 13 | [Bittersweet](https://open.spotify.com/track/0XeJjBlJ5RLoUkFutyN2K9) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Bernard Fanning](https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n) | [Bittersweet](https://open.spotify.com/album/1myXD7yWPc0SXYhm7luUcj) | 4:00 |
 | 14 | [Better Be Home Soon](https://open.spotify.com/track/1gVTqBN71D8imfxxq9gRxD) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [She Will Have Her Way \- The Songs Of Tim & Neil Finn](https://open.spotify.com/album/3V5T6sEl1VzExdSrEbsLDD) | 3:19 |
 | 15 | [Runaway Train](https://open.spotify.com/track/70Iwjc7YiM12IUYDohUqIs) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Barricades & Brickwalls](https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP) | 3:25 |
-| 16 | [Hey \(with Paul Kelly\)](https://open.spotify.com/track/3XnN1OhwOLTYjDB1UR3Sx8) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Dragonfly](https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM) | 3:07 |
+| 16 | [True Colours](https://open.spotify.com/track/6aRJ3Z7TpCpj58CjOwSSh2) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [True Colours](https://open.spotify.com/album/2vlKm70T2lTLawrgDGaK7v) | 3:47 |
 | 17 | [Matilda No More](https://open.spotify.com/track/6sLEltqDa8gGjGwbljmxPM) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Looking Forward Looking Back](https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2) | 3:41 |
-| 18 | [True Colours](https://open.spotify.com/track/6aRJ3Z7TpCpj58CjOwSSh2) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [True Colours](https://open.spotify.com/album/2vlKm70T2lTLawrgDGaK7v) | 3:47 |
+| 18 | [Hey \(with Paul Kelly\)](https://open.spotify.com/track/3XnN1OhwOLTYjDB1UR3Sx8) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Dragonfly](https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM) | 3:07 |
 | 19 | [A Little Bit Lonesome](https://open.spotify.com/track/203Lkzy5VCbp6KNpZe1eYi) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Barricades & Brickwalls](https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP) | 2:59 |
 | 20 | [Once In A While](https://open.spotify.com/track/1fzDuszdizZnbNYWFxoWzd) | [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Rattlin' Bones](https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk) | 2:37 |
 | 21 | [Lose Yourself \- Live at Civic Theater, Newcastle, Australia](https://open.spotify.com/track/4v0Lu9dboiL2jeGvtvBiQT) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Lose Yourself \- Live at Civic Theater, Newcastle, Australia](https://open.spotify.com/album/17Kt6yiwlPwzwiYesXk6wC) | 8:14 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 | 45 | [Wreck and Ruin](https://open.spotify.com/track/5slMiUJ1oGDynQsTr0P05f) | [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wreck & Ruin](https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ) | 2:28 |
 | 46 | [Love Like A Hurricane](https://open.spotify.com/track/4CrJxr4egNEYhniSDNITy4) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Little Bird](https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU) | 3:09 |
 | 47 | [Freight Train \- Remastered / 2019](https://open.spotify.com/track/7zObzpCaTfCjxk93ITIETS) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The Captain \(Deluxe Edition\)](https://open.spotify.com/album/4ig3Pw8bB9sPz2XeB2dsfe) | 2:43 |
-| 48 | [jewel moon](https://open.spotify.com/track/3OYyxVA9XDYCqJqTNhxjaR) | [harry hook is real](https://open.spotify.com/artist/3z4MFm15zrdNOIBh7y2d33), [Elly Poletti](https://open.spotify.com/artist/66N0DhPufyHCFxVodma0rm), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [The Strzelecki Stringbusters](https://open.spotify.com/artist/01e11TEyqvqREU3HAZW0Sq) | [A BEAST IS ME](https://open.spotify.com/album/6lTAD8u0rkeVfmPlwPl1Mc) | 3:24 |
-| 49 | [Wayward Angel](https://open.spotify.com/track/0cfzJyWKIa9bYdkeTSHaH1) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 5:00 |
+| 48 | [Wayward Angel](https://open.spotify.com/track/0cfzJyWKIa9bYdkeTSHaH1) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 5:00 |
+| 49 | [jewel moon](https://open.spotify.com/track/3OYyxVA9XDYCqJqTNhxjaR) | [harry hook is real](https://open.spotify.com/artist/3z4MFm15zrdNOIBh7y2d33), [Elly Poletti](https://open.spotify.com/artist/66N0DhPufyHCFxVodma0rm), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [The Strzelecki Stringbusters](https://open.spotify.com/artist/01e11TEyqvqREU3HAZW0Sq) | [A BEAST IS ME](https://open.spotify.com/album/6lTAD8u0rkeVfmPlwPl1Mc) | 3:24 |
 
-Snapshot ID: `Mjg0MTE5MDAsMDAwMDAwMDBjNTBjZDFlNTA4M2IzMmUwNzU4Njk2NTBmMWVjY2I5Mg==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDBmZGQzZjAzN2I4ZTU3OWNlZGVkNTdlNjRjMDMyZTM0Yg==`

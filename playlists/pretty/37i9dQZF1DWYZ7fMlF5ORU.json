@@ -1,12 +1,12 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 151722,
+  "num_followers": 151639,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTRjZWI5NjM4NjdkYmZhYTkzMjhmNzE2OTc1MzQxNzMxNGM2MGQ1",
+  "snapshot_id": "MCxlYTVmMDQ5NGNkZjAzNTNkOTk4ZmM2ZDQwMmUzMWUzZWJmYTQ0OGI2",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -887,26 +887,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Espet\u00e1culo M\u00fasica Legion\u00e1ria: Os Mortos N\u00e3o Morrem!",
-        "url": "https://open.spotify.com/album/3tc1IR9Rvhe6JEPMkBBwfh"
+        "name": "Sobre Deixar",
+        "url": "https://open.spotify.com/album/3WPXMHvq0OIQBABBukqimt"
       },
       "artists": [
         {
-          "name": "M\u00fasica Legion\u00e1ria",
-          "url": "https://open.spotify.com/artist/1K8m2SYdmpAHFe54dt5nZB"
-        },
-        {
-          "name": "Carlos Eduardo",
-          "url": "https://open.spotify.com/artist/7KuXPiV6eFvXjyseedTPxp"
-        },
-        {
-          "name": "Al\u00e9xia Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/4Mf8eq3vKfsKTNANngaZIT"
+          "name": "Rafa Blauth",
+          "url": "https://open.spotify.com/artist/2nnZzrOxN6dN3zOae5MeHU"
         }
       ],
-      "duration_ms": 278284,
-      "name": "Instrumento Teu",
-      "url": "https://open.spotify.com/track/6dABpJNsCkaR0ivYFuf7OL"
+      "duration_ms": 220386,
+      "name": "O Que H\u00e1 Por Dentro",
+      "url": "https://open.spotify.com/track/7rJEuCj9iX6BYnhfI2eJWi"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -927,18 +919,26 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Sobre Deixar",
-        "url": "https://open.spotify.com/album/3WPXMHvq0OIQBABBukqimt"
+        "name": "Espet\u00e1culo M\u00fasica Legion\u00e1ria: Os Mortos N\u00e3o Morrem!",
+        "url": "https://open.spotify.com/album/3tc1IR9Rvhe6JEPMkBBwfh"
       },
       "artists": [
         {
-          "name": "Rafa Blauth",
-          "url": "https://open.spotify.com/artist/2nnZzrOxN6dN3zOae5MeHU"
+          "name": "M\u00fasica Legion\u00e1ria",
+          "url": "https://open.spotify.com/artist/1K8m2SYdmpAHFe54dt5nZB"
+        },
+        {
+          "name": "Carlos Eduardo",
+          "url": "https://open.spotify.com/artist/7KuXPiV6eFvXjyseedTPxp"
+        },
+        {
+          "name": "Al\u00e9xia Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/4Mf8eq3vKfsKTNANngaZIT"
         }
       ],
-      "duration_ms": 220386,
-      "name": "O Que H\u00e1 Por Dentro",
-      "url": "https://open.spotify.com/track/7rJEuCj9iX6BYnhfI2eJWi"
+      "duration_ms": 278284,
+      "name": "Instrumento Teu",
+      "url": "https://open.spotify.com/track/6dABpJNsCkaR0ivYFuf7OL"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Tudo Posso",
+        "url": "https://open.spotify.com/album/1Oi6eKip9Y6Y3I3fBk9TeJ"
+      },
+      "artists": [
+        {
+          "name": "ONE Service",
+          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
+        },
+        {
+          "name": "Lucas Augusto",
+          "url": "https://open.spotify.com/artist/7LSUgNEsBUVmqHBXeQQ2VR"
+        }
+      ],
+      "duration_ms": 397762,
+      "name": "Tudo Posso",
+      "url": "https://open.spotify.com/track/4UEfjgS7wC89PGIP2XFGzP"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Te Adorar",
         "url": "https://open.spotify.com/album/7tXxdiOv0uaMinPIk4Ti14"
       },
@@ -1083,26 +1103,6 @@
       "duration_ms": 309733,
       "name": "Gl\u00f3ria, Honra e Poder",
       "url": "https://open.spotify.com/track/3GuuK1PM4v64VFyV3LX8LH"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Tudo Posso",
-        "url": "https://open.spotify.com/album/1Oi6eKip9Y6Y3I3fBk9TeJ"
-      },
-      "artists": [
-        {
-          "name": "ONE Service",
-          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
-        },
-        {
-          "name": "Lucas Augusto",
-          "url": "https://open.spotify.com/artist/7LSUgNEsBUVmqHBXeQQ2VR"
-        }
-      ],
-      "duration_ms": 397762,
-      "name": "Tudo Posso",
-      "url": "https://open.spotify.com/track/4UEfjgS7wC89PGIP2XFGzP"
     },
     {
       "added_at": "2023-12-22 03:00:00",

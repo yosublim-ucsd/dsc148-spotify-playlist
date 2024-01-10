@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,370 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,832 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 42 | [Darse Cuenta](https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH) | [Logos](https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja) | [Plan Mundial Para La Destrucción](https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5) | 4:17 |
 | 43 | [Infiel a Dos Mentiras "Vida"](https://open.spotify.com/track/7mNdPmUqNmp7JqHQUBJPBa) | [Kilcrops](https://open.spotify.com/artist/35RQXAyUyPsRRcank3cohw) | [Javhe Karma](https://open.spotify.com/album/0yKtlTkM61fYXqKXybXVK1) | 7:40 |
 | 44 | [Blackout](https://open.spotify.com/track/7fzCMARWJO6W7AlgT9UWrX) | [S7N](https://open.spotify.com/artist/4x3vYufIC84GFmlVdzQjMm) | [Fearless](https://open.spotify.com/album/51y1nedHb7b4PTLzpbPCfm) | 4:08 |
-| 45 | [Apatrida](https://open.spotify.com/track/5F1qBUKeV22jGhX7oIrOUf) | [Nuclear](https://open.spotify.com/artist/5ODa95P58TRNxymAD9moqt) | [Apatrida](https://open.spotify.com/album/16TSHKfaruA9FCP2K86Vj3) | 3:45 |
-| 46 | [Credo de Darwin](https://open.spotify.com/track/7f09nZnYNPChCvEiGvQDi3) | [Arcadia Libre](https://open.spotify.com/artist/6gZhuSVFXoFtwkPM0T1o4q) | [El Cielo Será Testigo](https://open.spotify.com/album/3lBZvKEOQYC8mWG9KgQC7W) | 4:30 |
+| 45 | [Credo de Darwin](https://open.spotify.com/track/7f09nZnYNPChCvEiGvQDi3) | [Arcadia Libre](https://open.spotify.com/artist/6gZhuSVFXoFtwkPM0T1o4q) | [El Cielo Será Testigo](https://open.spotify.com/album/3lBZvKEOQYC8mWG9KgQC7W) | 4:30 |
+| 46 | [Apatrida](https://open.spotify.com/track/5F1qBUKeV22jGhX7oIrOUf) | [Nuclear](https://open.spotify.com/artist/5ODa95P58TRNxymAD9moqt) | [Apatrida](https://open.spotify.com/album/16TSHKfaruA9FCP2K86Vj3) | 3:45 |
 | 47 | [¡Quémenlos!](https://open.spotify.com/track/65qq9FT1BRPg8CQ5A4WUmK) | [NVLO](https://open.spotify.com/artist/7Gr3eqtmWKT8lF9eLDFU8k) | [Nulo](https://open.spotify.com/album/34MqjCLcRf2VVNc6kqqbAq) | 2:30 |
 | 48 | [Merciless machine \- Remastered](https://open.spotify.com/track/3EXQIqYbZx4x86RyFfgIYr) | [Strike Master](https://open.spotify.com/artist/3dalUSTYYdh0GIJWVkZH09) | [U.F.T.M 2017 \(Remastered\)](https://open.spotify.com/album/15e9w4RyMCiYgC5SgLkxaV) | 5:15 |
 | 49 | [Cantina Del Infierno](https://open.spotify.com/track/0eR2mWPtubdE8Rea23zAc2) | [Dia De Los Muertos](https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD) | [No Money No Fiesta](https://open.spotify.com/album/4alBZkNLtgeGiCI4AbUBtq) | 2:49 |
 | 50 | [Deceitful Idols](https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz) | [Anima Tempo](https://open.spotify.com/artist/6lBAIZGZ3aHv3eS53wOPF5) | [Deceitful Idols](https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw) | 5:31 |
 
-Snapshot ID: `MCxhM2ViZTMzNzk5M2ViNzMwYjhjMmZjZDI4NmY5NWIwN2VmYWRjZmZk`
+Snapshot ID: `MCwwZjdmM2M4ZmE1MTY3MmY3M2NhNmRlNzBhOTlhNjc1NTkzNGQ1MmQ2`

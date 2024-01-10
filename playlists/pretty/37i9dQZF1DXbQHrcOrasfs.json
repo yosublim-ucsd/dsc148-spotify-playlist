@@ -1,12 +1,12 @@
 {
   "description": "you are that b.... \ud83e\udd75",
-  "num_followers": 16803,
+  "num_followers": 16899,
   "original_name": "brb, at the gym being a hot latina baddie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTczZjE5YzhiN2JlNmQ3NmQ5ZDlmNjg2ZDNkNGU3YWQ2NjFhNDI4",
+  "snapshot_id": "MCwzN2U3ZWVkMTdjM2YyODA3ZTcxMWNkZjhlYTg2NDJkOWI0NTYyYTA0",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "DONDE QUIERO ESTAR",
-        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 160909,
-      "name": "WANDA",
-      "url": "https://open.spotify.com/track/0Iozrbed8spxoBnmtBMshO"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Una Noche en Medell\u00edn",
         "url": "https://open.spotify.com/album/77HpsjuhHrcZhIp0PyiROw"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 153750,
       "name": "Una Noche en Medell\u00edn",
       "url": "https://open.spotify.com/track/0lREs0EdgrMQQKw00yx0Ct"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "DONDE QUIERO ESTAR",
+        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "WANDA",
+      "url": "https://open.spotify.com/track/0Iozrbed8spxoBnmtBMshO"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1331,6 +1331,34 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "VOLVER",
+      "url": "https://open.spotify.com/track/3Bp0XlRQv0URQMM6ABKhEE"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "TRAP KITTY",
         "url": "https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV"
       },
@@ -1343,26 +1371,6 @@
       "duration_ms": 159000,
       "name": "Putero",
       "url": "https://open.spotify.com/track/0YxOOsSObEL71N64GSJrFn"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Brisa",
-        "url": "https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 259333,
-      "name": "Brisa",
-      "url": "https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG"
     }
   ],
   "unique_name": "brb, at the gym being a hot latina baddie",

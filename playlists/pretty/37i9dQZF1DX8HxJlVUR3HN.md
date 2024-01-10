@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Shaka Ponk
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,995 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,984 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 49 | [Serotonin](https://open.spotify.com/track/4bG8gUgiCbnGrcjgdBrm3F) | [PURRS](https://open.spotify.com/artist/0pwgKVwaPpV1hRl4ZSeyCx) | [Serotonin](https://open.spotify.com/album/2bNL3r3oBPFVAwk4s92ffj) | 4:23 |
 | 50 | [Get Over](https://open.spotify.com/track/5pvksr9GzU4VVRCjckY2zq) | [Sloww](https://open.spotify.com/artist/1wEhZJ2uOgx8CLud1H4XBk) | [Get Over](https://open.spotify.com/album/2t5JTvKhXebh2X6WSwim44) | 3:13 |
 
-Snapshot ID: `MCw4NTJjYmFhZmQ0MWE0YWFlNzU3YWYxZDMxOGMyMGM1ZDkxMDRlNTU2`
+Snapshot ID: `MCwyNzgzMjUxZTAxNjE4NzUyMjQ3ZjBiYWM2M2U1Mzg0ZTg3YTYzOWI4`

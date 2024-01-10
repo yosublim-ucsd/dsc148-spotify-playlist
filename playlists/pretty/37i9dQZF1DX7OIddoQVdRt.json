@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Guest curated by: <a href=\"spotify:artist:4akybxRTGHJZ1DXjLhJ1qu\">Kirk Franklin</a>",
-  "num_followers": 631577,
+  "num_followers": 630486,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2Y1ZDNlOTc0MDMyNjUwY2ZmMTkwMzEyODBiMjQyMTBjNDY2YTJh",
+  "snapshot_id": "MCw1OGEzYTJlNGY0NmNkN2U2M2ExODg0YTQ3MDk2NGY0ZGNhMTJiMmIz",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -539,6 +539,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Bishop Cortez Vaughn",
+          "url": "https://open.spotify.com/artist/5AkeEGPP5D9gUO61YH59Lz"
+        }
+      ],
+      "duration_ms": 365190,
+      "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
+      "url": "https://open.spotify.com/track/3SITltmDXRR4lQWR3IpClB"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Broken Record",
         "url": "https://open.spotify.com/album/3KvTiS9JDUb7IR1xOWl9Wj"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 233766,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/7vqC1Vkr5f9a7CylkjUkPW"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "You Deserve It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Bishop Cortez Vaughn",
-          "url": "https://open.spotify.com/artist/5AkeEGPP5D9gUO61YH59Lz"
-        }
-      ],
-      "duration_ms": 365190,
-      "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
-      "url": "https://open.spotify.com/track/3SITltmDXRR4lQWR3IpClB"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "New",
-        "url": "https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 195404,
-      "name": "New",
-      "url": "https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "People",
         "url": "https://open.spotify.com/album/4ESJayIfEXNnZnQlZcFQxn"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 228340,
       "name": "Movin' On",
       "url": "https://open.spotify.com/track/4y3uiX2OyNPaLYGkB1XFhH"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "New",
+        "url": "https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 195404,
+      "name": "New",
+      "url": "https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Forever Yours",
-        "url": "https://open.spotify.com/album/3Cgcc6Op5ciiCTubUMjI88"
-      },
-      "artists": [
-        {
-          "name": "Smokie Norful",
-          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
-        }
-      ],
-      "duration_ms": 244133,
-      "name": "I Need A Word",
-      "url": "https://open.spotify.com/track/4RLL0qL4Tvoq4l5e8hV2FS"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Well Done",
         "url": "https://open.spotify.com/album/2T6MoExj6ZfHxd5az22f35"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 292789,
       "name": "Well Done",
       "url": "https://open.spotify.com/track/64hIlYHCreOzGCuzWsivXW"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Forever Yours",
+        "url": "https://open.spotify.com/album/3Cgcc6Op5ciiCTubUMjI88"
+      },
+      "artists": [
+        {
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+        }
+      ],
+      "duration_ms": 244133,
+      "name": "I Need A Word",
+      "url": "https://open.spotify.com/track/4RLL0qL4Tvoq4l5e8hV2FS"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Work It Out (Live)",
-        "url": "https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 320955,
-      "name": "Work It Out - Live",
-      "url": "https://open.spotify.com/track/1SDaYLQD1C9twbdZYsNcbX"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Make Room",
         "url": "https://open.spotify.com/album/4BcOKZqejPxCGuQb2ArtXa"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 408814,
       "name": "Not Lucky, I'm Loved",
       "url": "https://open.spotify.com/track/5k51cgCgZcGtenxq4wHFyj"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Work It Out (Live)",
+        "url": "https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 320955,
+      "name": "Work It Out - Live",
+      "url": "https://open.spotify.com/track/1SDaYLQD1C9twbdZYsNcbX"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Imprint (Live in Memphis)",
+        "url": "https://open.spotify.com/album/1gxIWgMZNfeilz6V1iFWCb"
+      },
+      "artists": [
+        {
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+        }
+      ],
+      "duration_ms": 283040,
+      "name": "You Don't Know - Bonus Track",
+      "url": "https://open.spotify.com/track/2QbsFNMMOb4cGvxXQ7rqTM"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Gospel According To PJ",
         "url": "https://open.spotify.com/album/03sl2epNRPGXu64WL36RsO"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 232345,
       "name": "Gotta Have You (feat. Kirk Franklin, Jermaine Dolly & Lena Byrd Miles)",
       "url": "https://open.spotify.com/track/7sua3EElbSneVDxEVDzgX4"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Imprint (Live in Memphis)",
-        "url": "https://open.spotify.com/album/1gxIWgMZNfeilz6V1iFWCb"
-      },
-      "artists": [
-        {
-          "name": "Zacardi Cortez",
-          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
-        }
-      ],
-      "duration_ms": 283040,
-      "name": "You Don't Know - Bonus Track",
-      "url": "https://open.spotify.com/track/2QbsFNMMOb4cGvxXQ7rqTM"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Place Called Victory - EP",
-        "url": "https://open.spotify.com/album/7AQ1FBd7nl7ZwwZ4toYN9l"
-      },
-      "artists": [
-        {
-          "name": "Deon Kipping",
-          "url": "https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS"
-        }
-      ],
-      "duration_ms": 383552,
-      "name": "By Myself",
-      "url": "https://open.spotify.com/track/1yJQVmWI7KuCbVtG4jgysG"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "I'm Good",
         "url": "https://open.spotify.com/album/4L1qVMFTElNgKI8TdRyn77"
       },
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Think About These Things",
-        "url": "https://open.spotify.com/album/4OpuwGafVnFSGMAbT7geFG"
+        "name": "Place Called Victory - EP",
+        "url": "https://open.spotify.com/album/7AQ1FBd7nl7ZwwZ4toYN9l"
       },
       "artists": [
         {
-          "name": "Charles Jenkins",
-          "url": "https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO"
+          "name": "Deon Kipping",
+          "url": "https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS"
         }
       ],
-      "duration_ms": 153853,
-      "name": "Winning",
-      "url": "https://open.spotify.com/track/2uqJYeTxahjp300qzVHBSP"
+      "duration_ms": 383552,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/1yJQVmWI7KuCbVtG4jgysG"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1291,6 +1275,22 @@
       "duration_ms": 254208,
       "name": "I Still Have You",
       "url": "https://open.spotify.com/track/6ungnRr8B5ZetjVy3KnlVs"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Think About These Things",
+        "url": "https://open.spotify.com/album/4OpuwGafVnFSGMAbT7geFG"
+      },
+      "artists": [
+        {
+          "name": "Charles Jenkins",
+          "url": "https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO"
+        }
+      ],
+      "duration_ms": 153853,
+      "name": "Winning",
+      "url": "https://open.spotify.com/track/2uqJYeTxahjp300qzVHBSP"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Open Door (See You Later)",
-        "url": "https://open.spotify.com/album/79GeSVwspNCUizEmG84J4M"
-      },
-      "artists": [
-        {
-          "name": "Christon Gray",
-          "url": "https://open.spotify.com/artist/0gOMnWbGP52F3paKcp5Ts2"
-        }
-      ],
-      "duration_ms": 255786,
-      "name": "Open Door (See You Later)",
-      "url": "https://open.spotify.com/track/6OtxcWnKrgxoFjcwV8WBBy"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Better Days (Live)",
         "url": "https://open.spotify.com/album/57XaIqrhGfRe5MYGLxa27k"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 323333,
       "name": "Better Days - Live",
       "url": "https://open.spotify.com/track/1GBtvDSR3e5D5GJAYIYhEc"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Open Door (See You Later)",
+        "url": "https://open.spotify.com/album/79GeSVwspNCUizEmG84J4M"
+      },
+      "artists": [
+        {
+          "name": "Christon Gray",
+          "url": "https://open.spotify.com/artist/0gOMnWbGP52F3paKcp5Ts2"
+        }
+      ],
+      "duration_ms": 255786,
+      "name": "Open Door (See You Later)",
+      "url": "https://open.spotify.com/track/6OtxcWnKrgxoFjcwV8WBBy"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Love & Other Dreams",
-        "url": "https://open.spotify.com/album/2xyLc5f4AmYBziV3EG8S75"
+        "name": "Imprint (Live in Memphis)",
+        "url": "https://open.spotify.com/album/1gxIWgMZNfeilz6V1iFWCb"
       },
       "artists": [
         {
-          "name": "Royce Lovett",
-          "url": "https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N"
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
         }
       ],
-      "duration_ms": 290213,
-      "name": "Sunday Morning (Thinkin \u2018Bout You)",
-      "url": "https://open.spotify.com/track/6MSy5Ecfb8mI5lwE3h1Pwh"
+      "duration_ms": 570594,
+      "name": "You've Been Good To Me - Live",
+      "url": "https://open.spotify.com/track/0GFG2Tr60pn7NHRAsBIe8b"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Imprint (Live in Memphis)",
-        "url": "https://open.spotify.com/album/1gxIWgMZNfeilz6V1iFWCb"
+        "name": "Love & Other Dreams",
+        "url": "https://open.spotify.com/album/2xyLc5f4AmYBziV3EG8S75"
       },
       "artists": [
         {
-          "name": "Zacardi Cortez",
-          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+          "name": "Royce Lovett",
+          "url": "https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N"
         }
       ],
-      "duration_ms": 570594,
-      "name": "You've Been Good To Me - Live",
-      "url": "https://open.spotify.com/track/0GFG2Tr60pn7NHRAsBIe8b"
+      "duration_ms": 290213,
+      "name": "Sunday Morning (Thinkin \u2018Bout You)",
+      "url": "https://open.spotify.com/track/6MSy5Ecfb8mI5lwE3h1Pwh"
     },
     {
       "added_at": "2023-10-06 04:00:00",

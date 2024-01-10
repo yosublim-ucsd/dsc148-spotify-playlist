@@ -1,12 +1,12 @@
 {
   "description": "Latin classics to get you in the Christmas spirit. Cover: Luis Miguel",
-  "num_followers": 211172,
+  "num_followers": 210948,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2JhNWZjNGM1OTBhOWNkNjkxYzJkZTE4OTdkNTJjNWRlN2MxMmVj",
+  "snapshot_id": "MCwyOTU5YzYwZDY2ODM2NDNmZmI0N2Y3NmUwM2FkOWMyNWQzYWI2MzA5",
   "tracks": [
     {
       "added_at": "2023-12-20 18:10:37",
@@ -147,6 +147,22 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
+        "name": "Me Volvi A Acordar De Ti",
+        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 254933,
+      "name": "Navidad Sin Ti",
+      "url": "https://open.spotify.com/track/0BgKO3jvcTWhJ8Y8egyAn1"
+    },
+    {
+      "added_at": "2023-12-20 18:10:37",
+      "album": {
         "name": "Christmas (Deluxe Special Edition)",
         "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 264000,
       "name": "Mis Deseos / Feliz Navidad (with Thalia)",
       "url": "https://open.spotify.com/track/6ZdxGOaZoNzbGrBLjUcrUs"
-    },
-    {
-      "added_at": "2023-12-20 18:10:37",
-      "album": {
-        "name": "Me Volvi A Acordar De Ti",
-        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 254933,
-      "name": "Navidad Sin Ti",
-      "url": "https://open.spotify.com/track/0BgKO3jvcTWhJ8Y8egyAn1"
     },
     {
       "added_at": "2023-12-20 18:10:37",

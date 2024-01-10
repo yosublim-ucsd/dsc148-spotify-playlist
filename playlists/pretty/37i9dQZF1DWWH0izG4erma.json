@@ -1,12 +1,12 @@
 {
   "description": "Country Music that rocks. Cover: HARDY",
-  "num_followers": 577525,
+  "num_followers": 577401,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDgxODZlZTJiZDQ4ZGIxYmI1MTRmZWE3YmEwMTQ4M2M1MjZhNTY1",
+  "snapshot_id": "MCw1MDlkNjI4ZDI3Y2MzMjBjMDQxMDg4YTRkMTA3MDc1ZTY5ZDVmMjhj",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Noise Complaint",
+        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 240265,
+      "name": "Fuss and Fight",
+      "url": "https://open.spotify.com/track/663iLprLvjr0JatL4IVqUH"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Wrecking Ball",
         "url": "https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 235053,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Noise Complaint",
-        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 240265,
-      "name": "Fuss and Fight",
-      "url": "https://open.spotify.com/track/663iLprLvjr0JatL4IVqUH"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Hit Different",
-        "url": "https://open.spotify.com/album/4wMy9xe7Ob8pFG7lrBiXFB"
+        "name": "Creeps",
+        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
       },
       "artists": [
         {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 193271,
-      "name": "Hit Different",
-      "url": "https://open.spotify.com/track/5utQCXbXEQmOdIp9vE3rOD"
+      "duration_ms": 226309,
+      "name": "Creeps",
+      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Creeps",
-        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
+        "name": "Hit Different",
+        "url": "https://open.spotify.com/album/4wMy9xe7Ob8pFG7lrBiXFB"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
         }
       ],
-      "duration_ms": 226309,
-      "name": "Creeps",
-      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
+      "duration_ms": 193271,
+      "name": "Hit Different",
+      "url": "https://open.spotify.com/track/5utQCXbXEQmOdIp9vE3rOD"
     },
     {
       "added_at": "2024-01-05 05:00:00",

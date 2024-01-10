@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 
 > This is AC/DC\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,103,778 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,102,822 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 | 33 | [Are You Ready](https://open.spotify.com/track/7A1odihHBrI8n9k0Fefh2j) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 4:10 |
 | 34 | [High Voltage](https://open.spotify.com/track/5pLgH1bCkBV3bbmvm0qvom) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [High Voltage](https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq) | 4:14 |
 | 35 | [Black Ice](https://open.spotify.com/track/3Axmw41lmMoXih3NJYzbXb) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Black Ice](https://open.spotify.com/album/7qVfz4UGONwEd5nQjj0ESN) | 3:25 |
-| 36 | [Walk All Over You](https://open.spotify.com/track/5xquYn2sr3uEcyuKU9BmCJ) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 5:10 |
-| 37 | [Heatseeker](https://open.spotify.com/track/0h3A3hdDq762DzIOKUoF21) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Blow Up Your Video](https://open.spotify.com/album/5jfgUmvXCar7Qf5lidVkqI) | 3:50 |
+| 36 | [Heatseeker](https://open.spotify.com/track/0h3A3hdDq762DzIOKUoF21) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Blow Up Your Video](https://open.spotify.com/album/5jfgUmvXCar7Qf5lidVkqI) | 3:50 |
+| 37 | [Walk All Over You](https://open.spotify.com/track/5xquYn2sr3uEcyuKU9BmCJ) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 5:10 |
 | 38 | [Big Balls](https://open.spotify.com/track/2KmSnPWWCIsEomVsKnbE1a) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 2:38 |
 | 39 | [Rock the Blues Away](https://open.spotify.com/track/5xGHeN58fFOcORW0pRZznn) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Rock or Bust](https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg) | 3:24 |
 | 40 | [Through The Mists Of Time](https://open.spotify.com/track/3FR2w9O5i9q3unY3gyjq6E) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 | 49 | [The Jack](https://open.spotify.com/track/3k1WwLG1OXCm6iQ13VrJEL) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [High Voltage](https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq) | 5:52 |
 | 50 | [Baptism By Fire](https://open.spotify.com/track/1ULNWGJD3skjg0jWjhCFHc) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Rock or Bust](https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg) | 3:30 |
 
-Snapshot ID: `Mjg0MTE5MDAsMDAwMDAwMDA4MGVkNWE5N2FkNzAxY2UzOTlhYzZkNWMwYTgxODlhNA==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDBhZmRhZDljZTE4NWIzYWQzYzRjOGM2NDQxY2E3ZmJjOA==`

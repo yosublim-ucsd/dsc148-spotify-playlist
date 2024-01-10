@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 ### [Massive Pop Remixes](https://open.spotify.com/playlist/37i9dQZF1DWVxqA801UP5W)
 
-> All your favourite pop songs, remixed to perfection\. Cover: Tyla
+> All your favourite pop songs, remixed to perfection\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,071 likes - 49 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,964 likes - 49 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Houdini \- Adam Port Mix](https://open.spotify.com/track/5bGNsC7FTQ3WZzz0XYOmvZ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Houdini \(Adam Port Mix\)](https://open.spotify.com/album/5PFMZUwGykBJr2o2G63RAG) | 3:22 |
-| 2 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 |
+| 1 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 |
+| 2 | [Houdini \- Adam Port Mix](https://open.spotify.com/track/5bGNsC7FTQ3WZzz0XYOmvZ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Houdini \(Adam Port Mix\)](https://open.spotify.com/album/5PFMZUwGykBJr2o2G63RAG) | 3:22 |
 | 3 | [Water](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Water](https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D) | 3:11 |
 | 4 | [Prada \(feat\. D\-Block Europe & Ronnie Pacitti\) \- Ronnie Pacitti Remix](https://open.spotify.com/track/3MxwMM6A3Itnuokz1sNxRo) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Ronnie Pacitti](https://open.spotify.com/artist/2iBVVqkMHQEUvUkSr7HHoh) | [Prada \(feat\. D\-Block Europe\) \[Ronnie Pacitti Remix\]](https://open.spotify.com/album/6JoicOpp8g2RueDQ67TGkR) | 3:05 |
 | 5 | [0800 HEAVEN \(feat\. Ella Henderson\) \- Ben Nicky Remix](https://open.spotify.com/track/1Iz54kcegQGncuWqO9JEem) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN \(Ben Nicky Remix\)](https://open.spotify.com/album/0VnydGXs0wcPueO5XjSNr7) | 2:24 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 48 | [Memories \- Dillon Francis Remix](https://open.spotify.com/track/0r7CVbZTWZgbTCYdfa2P31) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Memories \(Dillon Francis Remix\)](https://open.spotify.com/album/63rPSO264uRjW1X5E6cWv6) | 2:42 |
 | 49 | [Cardboard Box \- Happi Remix](https://open.spotify.com/track/3Y9cvPqBb5Dnpc2MpG6f3j) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Happi](https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4) | [Cardboard Box](https://open.spotify.com/album/7GKgn6QLyZrGQ1atBIfhY0) | 2:30 |
 
-Snapshot ID: `MCwzNDUyZDRjOWVjMjc3ODVlOGM4NjI0MjkxYmNlYzU2ZTczNzRiZDUz`
+Snapshot ID: `MCxkMTBiMzY1ODEwOTZiZDg4Yzg0NzIxZmU2MThiZjc2NzU2YmNkMDNk`

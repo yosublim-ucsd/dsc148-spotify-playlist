@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 131775,
+  "num_followers": 131799,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDUxNTc1YTg0YjdiY2EwOTRmYTcwMmU3M2FkNzEyZGMwYjFhMjRm",
+  "snapshot_id": "MCwwNzMyOTdkMTIwZjE2ZDU5ZDRmMzA2ZjhkNTVkODIwM2M1ZGU5OTA0",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "When I Hear Your Name",
-        "url": "https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM"
-      },
-      "artists": [
-        {
-          "name": "Maeta",
-          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
-        }
-      ],
-      "duration_ms": 193901,
-      "name": "Questions",
-      "url": "https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "DO 4 LOVE (Black Coffee Remix)",
         "url": "https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 224281,
       "name": "DO 4 LOVE - Black Coffee Remix",
       "url": "https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "When I Hear Your Name",
+        "url": "https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        }
+      ],
+      "duration_ms": 193901,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -755,46 +755,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "EXTC",
-        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
-      },
-      "artists": [
-        {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
-        }
-      ],
-      "duration_ms": 235801,
-      "name": "hmu",
-      "url": "https://open.spotify.com/track/4fC8mW8ZFQanmSHq30mgWz"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Funk Wav Bounces Vol. 2",
-        "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "Donae'o",
-          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
-        }
-      ],
-      "duration_ms": 233974,
-      "name": "Nothing More To Say (with 6LACK & Donae\u2019o)",
-      "url": "https://open.spotify.com/track/4hvWEdTLJxrZsDDjUEcHvy"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "POP!",
         "url": "https://open.spotify.com/album/79PrnehNRNhhcZp5NDBF4s"
       },
@@ -807,6 +767,22 @@
       "duration_ms": 196063,
       "name": "POP!",
       "url": "https://open.spotify.com/track/1WOMvLTxNyayalobISQKPA"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "EXTC",
+        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "duration_ms": 235801,
+      "name": "hmu",
+      "url": "https://open.spotify.com/track/4fC8mW8ZFQanmSHq30mgWz"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -831,6 +807,30 @@
       "duration_ms": 310340,
       "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
       "url": "https://open.spotify.com/track/4W1VDzvrBBG0lZvC221Qh5"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Funk Wav Bounces Vol. 2",
+        "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Donae'o",
+          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
+        }
+      ],
+      "duration_ms": 233974,
+      "name": "Nothing More To Say (with 6LACK & Donae\u2019o)",
+      "url": "https://open.spotify.com/track/4hvWEdTLJxrZsDDjUEcHvy"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -891,26 +891,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Chrome Bull",
-        "url": "https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g"
-      },
-      "artists": [
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        },
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        }
-      ],
-      "duration_ms": 187938,
-      "name": "Sneaky",
-      "url": "https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Can't Fake What You Feel",
         "url": "https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 171052,
       "name": "Can't Fake What You Feel",
       "url": "https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Chrome Bull",
+        "url": "https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        }
+      ],
+      "duration_ms": 187938,
+      "name": "Sneaky",
+      "url": "https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1287,6 +1287,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Hourglass",
+        "url": "https://open.spotify.com/album/5mAndmKGkXWSwNFHywzB5e"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        }
+      ],
+      "duration_ms": 174092,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/7udNt8rbaYcuYKaAtkA8qn"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Interstellar.",
         "url": "https://open.spotify.com/album/09q6uMoetRAZ4ESnPaEM1F"
       },
@@ -1307,22 +1327,34 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Hourglass",
-        "url": "https://open.spotify.com/album/5mAndmKGkXWSwNFHywzB5e"
+        "name": "D.W.Y.W. (Do What You Want)",
+        "url": "https://open.spotify.com/album/4w9VuxCHKZ3tBTCvYgNgCL"
       },
       "artists": [
         {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "James Vickery",
-          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+          "name": "Night Tales",
+          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
         }
       ],
-      "duration_ms": 174092,
-      "name": "Hourglass",
-      "url": "https://open.spotify.com/track/7udNt8rbaYcuYKaAtkA8qn"
+      "duration_ms": 208064,
+      "name": "D.W.Y.W. (Do What You Want)",
+      "url": "https://open.spotify.com/track/2ZNFpE337s3luymlkhJSgQ"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "damnshestamil",
+        "url": "https://open.spotify.com/album/5Uape09ZvhDOfCmSqQN8Wm"
+      },
+      "artists": [
+        {
+          "name": "Priya Ragu",
+          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
+        }
+      ],
+      "duration_ms": 174062,
+      "name": "Good Love 2.0",
+      "url": "https://open.spotify.com/track/5OAvraChe33vVCHMUBV38W"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1347,22 +1379,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "damnshestamil",
-        "url": "https://open.spotify.com/album/5Uape09ZvhDOfCmSqQN8Wm"
-      },
-      "artists": [
-        {
-          "name": "Priya Ragu",
-          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
-        }
-      ],
-      "duration_ms": 174062,
-      "name": "Good Love 2.0",
-      "url": "https://open.spotify.com/track/5OAvraChe33vVCHMUBV38W"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Suddenly",
         "url": "https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX"
       },
@@ -1375,42 +1391,6 @@
       "duration_ms": 121532,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Lock Up",
-        "url": "https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 223005,
-      "name": "Lock Up",
-      "url": "https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "D.W.Y.W. (Do What You Want)",
-        "url": "https://open.spotify.com/album/4w9VuxCHKZ3tBTCvYgNgCL"
-      },
-      "artists": [
-        {
-          "name": "Night Tales",
-          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
-        }
-      ],
-      "duration_ms": 208064,
-      "name": "D.W.Y.W. (Do What You Want)",
-      "url": "https://open.spotify.com/track/2ZNFpE337s3luymlkhJSgQ"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1431,6 +1411,26 @@
       "duration_ms": 181875,
       "name": "There Is A Light",
       "url": "https://open.spotify.com/track/1oGX6s0SjBSMz1Z4I9a8zN"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Lock Up",
+        "url": "https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 223005,
+      "name": "Lock Up",
+      "url": "https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Three Dimensions Deep",
-        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 158373,
-      "name": "Bubbles",
-      "url": "https://open.spotify.com/track/2Z1hvUB3unIudQSRVGTBC2"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Forbidden Feelingz",
         "url": "https://open.spotify.com/album/27l2BTUmETSHmFQwsZyzTa"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 129220,
       "name": "Part Of Me",
       "url": "https://open.spotify.com/track/5Y8LjJ9Riiw8i5d6D06fYS"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Three Dimensions Deep",
+        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 158373,
+      "name": "Bubbles",
+      "url": "https://open.spotify.com/track/2Z1hvUB3unIudQSRVGTBC2"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "PHASE",
-        "url": "https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH"
-      },
-      "artists": [
-        {
-          "name": "Gwen Bunn",
-          "url": "https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "2MANYTHINGS",
-      "url": "https://open.spotify.com/track/2UJmIGvY7F7COPBtiwL4K9"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Play With The Changes",
         "url": "https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 237929,
       "name": "Already",
       "url": "https://open.spotify.com/track/0Bef4OMTKyY908qrX0O0cs"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "PHASE",
+        "url": "https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH"
+      },
+      "artists": [
+        {
+          "name": "Gwen Bunn",
+          "url": "https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "2MANYTHINGS",
+      "url": "https://open.spotify.com/track/2UJmIGvY7F7COPBtiwL4K9"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Boundaries (DRAMA Remix)",
-        "url": "https://open.spotify.com/album/0KFOUugVRJwr9pnevuIrtl"
-      },
-      "artists": [
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 220411,
-      "name": "Boundaries - DRAMA Remix",
-      "url": "https://open.spotify.com/track/7olP7S3e0XDQ08eisCHVgp"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "All Along (Kaytranada Remix)",
         "url": "https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi"
       },
@@ -1759,6 +1739,26 @@
       "duration_ms": 284606,
       "name": "All Along (Kaytranada Remix)",
       "url": "https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Boundaries (DRAMA Remix)",
+        "url": "https://open.spotify.com/album/0KFOUugVRJwr9pnevuIrtl"
+      },
+      "artists": [
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 220411,
+      "name": "Boundaries - DRAMA Remix",
+      "url": "https://open.spotify.com/track/7olP7S3e0XDQ08eisCHVgp"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1811,26 +1811,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "crave you",
-        "url": "https://open.spotify.com/album/64N5QCbyXjO34S0IFPoGSq"
-      },
-      "artists": [
-        {
-          "name": "sagun",
-          "url": "https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II"
-        },
-        {
-          "name": "KALLITECHNIS",
-          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
-        }
-      ],
-      "duration_ms": 160863,
-      "name": "crave you",
-      "url": "https://open.spotify.com/track/37dUHBmNPBtDhoi2HAVrIy"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/1607XCpNlwbHG2ZY9OwtDl"
       },
@@ -1847,6 +1827,26 @@
       "duration_ms": 179006,
       "name": "Angel",
       "url": "https://open.spotify.com/track/1oCwqRH1deWph40WFy7zCB"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "crave you",
+        "url": "https://open.spotify.com/album/64N5QCbyXjO34S0IFPoGSq"
+      },
+      "artists": [
+        {
+          "name": "sagun",
+          "url": "https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II"
+        },
+        {
+          "name": "KALLITECHNIS",
+          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
+        }
+      ],
+      "duration_ms": 160863,
+      "name": "crave you",
+      "url": "https://open.spotify.com/track/37dUHBmNPBtDhoi2HAVrIy"
     },
     {
       "added_at": "2023-12-08 05:00:00",

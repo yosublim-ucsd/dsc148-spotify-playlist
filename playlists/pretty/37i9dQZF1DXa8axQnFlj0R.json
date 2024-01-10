@@ -1,12 +1,12 @@
 {
   "description": "The playlist version of a warm hug",
-  "num_followers": 84078,
+  "num_followers": 84066,
   "original_name": "Sweater Weather",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjFjYjAxY2YwNGQ2NmNiMTY3ZTA1YzExZDZkZGZjNzg0NjU5OTEx",
+  "snapshot_id": "MCwzYzE5ZDM1MjU1NGEzYmQ1YTlkNmE3MTYwNWM3NGMxNzc4MzczM2U2",
   "tracks": [
     {
       "added_at": "2023-12-01 16:37:09",
@@ -923,26 +923,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Snowfall",
-        "url": "https://open.spotify.com/album/1NWnNK50HLjM19nqkISue4"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Michaelson",
-          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
-        },
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 267266,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/3dSKTUE46UbfYaEjDWhiCg"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Give Me A Minute",
         "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 382613,
       "name": "New Song",
       "url": "https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Snowfall",
+        "url": "https://open.spotify.com/album/1NWnNK50HLjM19nqkISue4"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Michaelson",
+          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
+        },
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "duration_ms": 267266,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/3dSKTUE46UbfYaEjDWhiCg"
     },
     {
       "added_at": "2023-12-01 16:37:09",

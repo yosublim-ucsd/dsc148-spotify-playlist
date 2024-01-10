@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,578 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,595 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,11 +50,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 40 | [vár](https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [vár](https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF) | 3:51 |
 | 41 | [Mycelium](https://open.spotify.com/track/34wOxhxMDdAVxyA1bBS4z6) | [Fia](https://open.spotify.com/artist/0MqfYdygGLnHjhmXc9yDeH) | [Mycelium/Let Her Teach You](https://open.spotify.com/album/6od8EDcM1mUiLrCV6ji0tQ) | 3:17 |
 | 42 | [Modern Drift](https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Magic Chairs](https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu) | 4:53 |
-| 43 | [Magic Stone](https://open.spotify.com/track/1A8uTEGcDuZJDaPWoFb2yt) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Magic Stone](https://open.spotify.com/album/0Tjw2af2Rj2jUJSiAGMUdS) | 3:33 |
-| 44 | [Mornings and Afternoons](https://open.spotify.com/track/4YlmenydUtibsOpCxzrwEf) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs), [La Comitiva](https://open.spotify.com/artist/6qfxmAre9eFDUWxAip06yh) | [Mornings and Afternoons](https://open.spotify.com/album/1duiNMdrh9VgXabofunWIF) | 2:48 |
+| 43 | [Mornings and Afternoons](https://open.spotify.com/track/4YlmenydUtibsOpCxzrwEf) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs), [La Comitiva](https://open.spotify.com/artist/6qfxmAre9eFDUWxAip06yh) | [Mornings and Afternoons](https://open.spotify.com/album/1duiNMdrh9VgXabofunWIF) | 2:48 |
+| 44 | [Magic Stone](https://open.spotify.com/track/1A8uTEGcDuZJDaPWoFb2yt) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Magic Stone](https://open.spotify.com/album/0Tjw2af2Rj2jUJSiAGMUdS) | 3:33 |
 | 45 | [Sun, Moon, Stars](https://open.spotify.com/track/0xHgo8tccD2tz1JjTjBcBd) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Sun, Moon, Stars](https://open.spotify.com/album/5Zz3P4HvKnhar2gtvZrdL9) | 4:35 |
-| 46 | [Van Gogh](https://open.spotify.com/track/0skX0EhN0OlCbBFWH81Id0) | [Days of August](https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf) | [Postcards](https://open.spotify.com/album/13xRET2oKDFqxm2wGgThzH) | 2:54 |
-| 47 | [Svarteboka](https://open.spotify.com/track/5hssjRpOTbxPmWBPTV4KIK) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524), [Djerv](https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa) | [Svarteboka](https://open.spotify.com/album/34RiGqZ1AlGsAPtecMiclC) | 4:00 |
+| 46 | [Svarteboka](https://open.spotify.com/track/5hssjRpOTbxPmWBPTV4KIK) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524), [Djerv](https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa) | [Svarteboka](https://open.spotify.com/album/34RiGqZ1AlGsAPtecMiclC) | 4:00 |
+| 47 | [Van Gogh](https://open.spotify.com/track/0skX0EhN0OlCbBFWH81Id0) | [Days of August](https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf) | [Postcards](https://open.spotify.com/album/13xRET2oKDFqxm2wGgThzH) | 2:54 |
 | 48 | [Rolling Thunder](https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Rolling Thunder](https://open.spotify.com/album/1OfUQjs3de9iU5C2bYbmYc) | 4:01 |
 | 49 | [Ei ny tid](https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann](https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP) | 2:26 |
 | 50 | [Halsmandlar](https://open.spotify.com/track/22f4SB1GpL4PCqrwsxHNav) | [Benedikt](https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y), [Ævestaden](https://open.spotify.com/artist/7r8pTV56VazgkUAAUW4ucw) | [Jag är sen igen](https://open.spotify.com/album/0UiQGJXyPQz6ZEvl6I2Y5d) | 2:50 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 59 | [In The Silence](https://open.spotify.com/track/4Pyg2i2ZSUriQh5QuuBs0y) | [Everything We're Not](https://open.spotify.com/artist/55aF2K7WSCptXLM1vmObKz), [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [In The Silence](https://open.spotify.com/album/2EnpffXCERRVc6ZkJgddmL) | 2:47 |
 | 60 | [Still Here](https://open.spotify.com/track/0KawFoaUEu2ICSJ0CawwCJ) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Still Here](https://open.spotify.com/album/4eLSzWcNiF99ezdryVRdKN) | 3:38 |
 
-Snapshot ID: `MCw2NmY3ZmIxYmNmMmFjZTNkMDMzOTRiMjZkMDU0MWVlMzAzMDYzZGMz`
+Snapshot ID: `MCwyNGVhMDcyMjZiZmE1M2Y2ZmYyNDIxNzJlMDQ2M2ZiOTJjOGM0ZTc1`

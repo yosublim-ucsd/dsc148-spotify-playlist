@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Rhove, ANNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 916,384 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,914 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [URAGANO DAMN](https://open.spotify.com/track/39bXW89KZH4V1T3zlstiap) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [URAGANO DAMN](https://open.spotify.com/album/6oOFkn3ItIWb1LPSZZbEEL) | 3:22 |
 | 50 | [Tanti Soldi \(feat\. Geolier\)](https://open.spotify.com/track/0omPQQDtT8c1UZ5n7cVNFS) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [PIZZA KEBAB Vol\. 1](https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh) | 3:33 |
 
-Snapshot ID: `MCw3YWUzMmI4YTcxZjUzMmI4YWIzOTVjM2Y4ZTZlNjIwZjhkMzc4ZDBk`
+Snapshot ID: `MCw4MWE5ODA0YzNlYThiNGYxYTliM2Y5MWVhODNlNDA2YjE4Mjk3MDE1`

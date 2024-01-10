@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 
 > Música en vivo de tus artistas favoritos del Regional Mexicano\. Portada: Grupo Recluta y Adrian Chaparro
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,430 likes - 150 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,436 likes - 150 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 | 114 | [Popurri De Cumbias \(En Vivo\)](https://open.spotify.com/track/2Vi4spIGqXoqeCd63PWVQM) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [En Vivo Desde Hacienda Heights](https://open.spotify.com/album/6nQUTyzVC8h10TDOEf9tYl) | 8:42 |
 | 115 | [El Pavido Navido \- En Vivo](https://open.spotify.com/track/3SUwM4xTaelVTyxeypf0XJ) | [Los Viejones De Linares](https://open.spotify.com/artist/48f1Wox7CUiX1nDfzgonjW), [Los Igualados](https://open.spotify.com/artist/4M3jiTh8TOZKbHTuIU3lS0) | [Pura Lumbre Con \(En Vivo\)](https://open.spotify.com/album/24qFUtXKUfNEkofuUSNIZY) | 4:28 |
 | 116 | [Gotas de Agua Dulce](https://open.spotify.com/track/1lNwxGWTLo2NOEQcszIWTB) | [Predilecto](https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb) | [Gotas de Agua Dulce](https://open.spotify.com/album/0qIwz78hTB7PjXNYDPXced) | 2:55 |
-| 117 | [Hace Un Año \- En Vivo](https://open.spotify.com/track/1vldXJyBmGmkNCvbH9uNif) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [En Vivo Con Tololoche](https://open.spotify.com/album/5CbJZFr5frpDDgKoVxO7ma) | 3:31 |
-| 118 | [Chiquilla Cariñosa \- Live At Nuevo León México / 2009](https://open.spotify.com/track/5zNLwE72V2aXQAbMIG3Szp) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Catarino Leos](https://open.spotify.com/artist/6m7eLnlcA5i7bxAIsEmaxi) | [Desde La Cantina Vol\. II \(Live At Nuevo León México / 2009\)](https://open.spotify.com/album/2irJrOSLxOnQJz6POcqJQF) | 3:10 |
+| 117 | [Chiquilla Cariñosa \- Live At Nuevo León México / 2009](https://open.spotify.com/track/5zNLwE72V2aXQAbMIG3Szp) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Catarino Leos](https://open.spotify.com/artist/6m7eLnlcA5i7bxAIsEmaxi) | [Desde La Cantina Vol\. II \(Live At Nuevo León México / 2009\)](https://open.spotify.com/album/2irJrOSLxOnQJz6POcqJQF) | 3:10 |
+| 118 | [Hace Un Año \- En Vivo](https://open.spotify.com/track/1vldXJyBmGmkNCvbH9uNif) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [En Vivo Con Tololoche](https://open.spotify.com/album/5CbJZFr5frpDDgKoVxO7ma) | 3:31 |
 | 119 | [A La Antigüita \- En Vivo](https://open.spotify.com/track/3qLGC9pnNACqjokQZA5iBZ) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [A La Antigüita \(En Vivo\)](https://open.spotify.com/album/5jPw5qjvMpafTX2ynchnAh) | 2:44 |
 | 120 | [Cómo Este Loco \(En Vivo\)](https://open.spotify.com/track/2lfOKHw5PZ6oSRBM1LdWpd) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Julio Preciado](https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3) | [Yakifest Oasis Vol\. 5 \(En Vivo\)](https://open.spotify.com/album/5iJMnRlnUcuN9GTlGrgJgP) | 4:22 |
 | 121 | [Crónicas de la Batalla](https://open.spotify.com/track/34udvnm0D8Lib2RLsREx04) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Crónicas de la Batalla](https://open.spotify.com/album/5Q4J26KtTCjWK9QQpp9ZqC) | 3:29 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 | 149 | [Popurrí Y Llegaste Tú/Te Quiero A Morir \- En Vivo](https://open.spotify.com/track/29xpuvcM2swZXOIQ49q6zQ) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Concierto Mundial Digital Live](https://open.spotify.com/album/2gijh9dOUhi9ZmovGBDD3f) | 6:03 |
 | 150 | [Aquí en Mi Corazón Tú Mandas](https://open.spotify.com/track/7nViwkptvpQTzpGN5DEAiU) | [Lilo Bermudez](https://open.spotify.com/artist/5bES419H93yPwH6fzmrlDa) | [Aquí en Mi Corazón Tú Mandas \(En Vivo\)](https://open.spotify.com/album/5oN8kpQItso4HSZCZ3zc5c) | 2:08 |
 
-Snapshot ID: `MCw0NGVjOGE2YWQzMDJhNWU0OWE3ZWY3NTI3ZjA0YTFlODUwNjAxNGYy`
+Snapshot ID: `MCxhMTBkOTFiNDYwN2UzZjhkMWZkMjY0NDE3NzQ5MTEwYTViNDY2MmU4`

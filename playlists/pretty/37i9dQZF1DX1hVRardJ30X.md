@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Mau y Ricky & Eden Muñoz
 
-[Spotify](https://open.spotify.com/user/spotify) - 587,789 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 587,176 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 2 | [Hermoso Momento \(Remix\)](https://open.spotify.com/track/19LFHmBBqJa12qBQr8kuTV) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Kairo Worship](https://open.spotify.com/artist/0Hsw98UmbwZVh0mFWg0unI) | [Hermoso Momento \(Remix\)](https://open.spotify.com/album/1LVc5DwRkYRY8mdYDklTSK) | 4:20 |
 | 3 | [Pixelados](https://open.spotify.com/track/77phWAt2l34OadUUUqi5ai) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 3:55 |
 | 4 | [Apocalipsis](https://open.spotify.com/track/7z5cZCDpaqLy71SqfS0YbJ) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [RealG4Life Vol\. 4](https://open.spotify.com/album/1xYN8n1zN2OuAL2VCrWDTx) | 2:23 |
-| 5 | [Mil Vezes \- Remix](https://open.spotify.com/track/2azJDduVngaqpaUsxKXevt) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Melody](https://open.spotify.com/artist/3cPXzpTSrOM1VJFm6Gwaym) | [Mil Vezes \(Remix\)](https://open.spotify.com/album/28TohT0cuarLuUCyC7VGA1) | 2:07 |
+| 5 | [Mil Vezes \- Remix](https://open.spotify.com/track/2azJDduVngaqpaUsxKXevt) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Mil Vezes \(Remix\)](https://open.spotify.com/album/28TohT0cuarLuUCyC7VGA1) | 2:07 |
 | 6 | [Una Foto Remix \(feat\. Emilia\)](https://open.spotify.com/track/1kqH58eGh2ZTOHwqBIB2tM) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Una Foto Remix \(feat\. Emilia\)](https://open.spotify.com/album/4f47mbk3DOWJ16DXLnviMw) | 4:03 |
 | 7 | [TEN](https://open.spotify.com/track/4t5WkxLy4kh02Ycl5W6WOT) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [TEN](https://open.spotify.com/album/7zEk1zIy0rUTulaA5uAAu6) | 2:56 |
 | 8 | [Aun Te Pienso](https://open.spotify.com/track/2IYgiwTYm4YBVMIEqJw6hz) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Aun Te Pienso](https://open.spotify.com/album/6Zl4NEfxxgozOEAGFZ6BGg) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 49 | [Solo Sonrie](https://open.spotify.com/track/0RmtRsH4qx5K75aX2yxmD8) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Solo Sonrie](https://open.spotify.com/album/2SZRdaFc3LBzmUi9O8cM6S) | 2:40 |
 | 50 | [Vida Bakana](https://open.spotify.com/track/1fGCLVsdnv9kuUrpBAj7Vg) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [Vida Bakana](https://open.spotify.com/album/3gWUdDpVvaLH1Bmof6Xdgo) | 2:51 |
 
-Snapshot ID: `MCxmYTkyNjk2MzBhZmRlZjQ0MTE2OTg3YTljOWY1NDg0YTgwMmZiMTZj`
+Snapshot ID: `MCxhNjUwZjg5MjgyZjYzOWIyYjE3ZTQ5OGMwNzM4ZmM4MDI2ODBlYTNl`

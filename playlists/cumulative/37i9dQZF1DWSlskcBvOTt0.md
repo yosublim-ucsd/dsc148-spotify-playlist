@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-557 songs - 2 day 5 hr 28 min
+558 songs - 2 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Copal \- Super Flu Remix](https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Made of Wood Remixed](https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA) | 6:37 | 2021-12-13 | 2022-04-23 |
 | [Cosa Buena](https://open.spotify.com/track/1hNBZ1OZj0qnzqNFZJbavC) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS), [G.Zamora](https://open.spotify.com/artist/6QAI21dTPkkpKFLPqOay1F) | [Cosa Buena](https://open.spotify.com/album/51rZ7BO22Mh1S3wDL4jrDr) | 6:16 | 2021-05-18 | 2022-04-21 |
 | [Cosmovision](https://open.spotify.com/track/2gauzJG2UlNCWiBP5ppcNc) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 3:33 | 2022-08-03 | 2024-01-06 |
+| [Cosmovision](https://open.spotify.com/track/32JWyOLWccN1BwBvwjuChN) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Unity Pt\. 3](https://open.spotify.com/album/5jXLIlcuEhUQIjo9H5ruo9) | 3:33 | 2024-01-05 |  |
 | [Cuatro Vientos \(HUGEL Version\)](https://open.spotify.com/track/44SiXnPPTR872JUl1gdJ7x) | [Danit](https://open.spotify.com/artist/3Hue0QXHSHhpjbqWk3HmtY), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Cuatro Vientos \(HUGEL Version\)](https://open.spotify.com/album/7HngPNqj7MKGWGgJShs68v) | 3:05 | 2023-05-05 |  |
 | [Cumulonimbus Incus](https://open.spotify.com/track/2paMfzAp6rhZaAU5gjVfh6) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK) | [Silver Linings](https://open.spotify.com/album/3OFxNZom1XclhLF4cU62n8) | 6:48 | 2021-07-30 | 2022-07-29 |
 | [Cure My Desire \(feat\. Clementine Douglas\) \- Themba Remix](https://open.spotify.com/track/5vaNPQoye1DYsXj0yckiCk) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6), [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [Cure My Desire \(feat\. Clementine Douglas\) \[Themba Remix\]](https://open.spotify.com/album/00QRGLQDaGgBc9ukkiSgwi) | 3:40 | 2023-01-30 |  |
@@ -155,7 +156,7 @@
 | [Embrace Me Now \- Techno Radio Edit](https://open.spotify.com/track/53IGqGELRPyyp6DfK2eeRT) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Embrace Me Now](https://open.spotify.com/album/26WVXNlx1rvdcgZBLdqH70) | 3:12 | 2023-07-21 | 2023-10-30 |
 | [Embre](https://open.spotify.com/track/3wbUuzRdemeNJuqnMNBC9m) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB), [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Moho EP](https://open.spotify.com/album/5UFFlblxN3PC2hYcNT4i9t) | 8:56 | 2021-04-21 | 2022-12-17 |
 | [Endless History](https://open.spotify.com/track/5OhycGO6E8HwsbtOPeCRxI) | [Gorje Hewek](https://open.spotify.com/artist/0HBaoUIo3fXlnWz1dc4mro), [Facundo Losardo](https://open.spotify.com/artist/4saM6vfv68Mb1xB3EEb9IQ) | [Greatness of Blooming Twig](https://open.spotify.com/album/3jQnaplLlukpbKQlUh6SCM) | 5:04 | 2022-01-21 | 2022-07-29 |
-| [Enjoy The Rain \(feat\. Nathan Daisy\)](https://open.spotify.com/track/7F6vxNOUuo6unbeEmB0BpJ) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Nathan Daisy](https://open.spotify.com/artist/2CtFUBZT6hZPF8fF4XDRGf) | [Temple Of Dreams](https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX) | 3:23 | 2023-06-16 |  |
+| [Enjoy The Rain \(feat\. Nathan Daisy\)](https://open.spotify.com/track/7F6vxNOUuo6unbeEmB0BpJ) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Nathan Daisy](https://open.spotify.com/artist/2CtFUBZT6hZPF8fF4XDRGf) | [Temple Of Dreams](https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX) | 3:23 | 2023-06-16 | 2024-01-10 |
 | [Enough Love To Hate It](https://open.spotify.com/track/5acS3Wo0XQYn8AaDwysMfk) | [Martin Buttrich](https://open.spotify.com/artist/2bP72uOaVvJ2syINURI42n) | [Crash Test](https://open.spotify.com/album/6vOOK2LSuBTZHxyEXQFJx1) | 7:41 | 2021-05-07 | 2022-04-21 |
 | [Entropia](https://open.spotify.com/track/3Pr1mDjQtdlmL3PNhAwI6x) | [Cream \(PL\)](https://open.spotify.com/artist/42lamKjAQaDXMmc96XnVXF) | [Entropia / Oz](https://open.spotify.com/album/12EPii6rzVBf0VSm0ycrcP) | 8:05 | 2022-09-23 | 2023-02-11 |
 | [Epic Resurrection](https://open.spotify.com/track/5lqCgngDCc1YtBoWvAT5tI) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Epic Resurrection](https://open.spotify.com/album/30HmyV4zjyZiB4ET1b9Kma) | 6:41 | 2022-07-22 | 2023-04-01 |

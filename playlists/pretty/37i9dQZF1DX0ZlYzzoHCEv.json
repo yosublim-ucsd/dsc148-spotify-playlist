@@ -1,12 +1,12 @@
 {
   "description": "musica per quando non sai insomma come",
-  "num_followers": 70468,
+  "num_followers": 70492,
   "original_name": "la mia testa:",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzRkZjYyODRkMDU0MTM0ZmE1MmUwYWZiM2ExNDA1Yjg3ZTg1YzU0",
+  "snapshot_id": "MCw0ZTAyNjQ0NDg5MGNiYTY0NGZkMTk4OTUzMGQ1M2QxYTkzZGU5MjBk",
   "tracks": [
     {
       "added_at": "2023-11-17 08:35:13",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
+        "name": "Euphoria (Original Score from the HBO Series)",
+        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 153294,
+      "name": "Still Don't Know My Name",
+      "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
+    },
+    {
+      "added_at": "2023-11-17 08:35:13",
+      "album": {
         "name": "DISORDER",
         "url": "https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI"
       },
@@ -943,18 +959,18 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
-        "name": "Euphoria (Original Score from the HBO Series)",
-        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
       },
       "artists": [
         {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 153294,
-      "name": "Still Don't Know My Name",
-      "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
+      "duration_ms": 156506,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -975,18 +991,18 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+        "name": "Tek It (I Watch the Moon)",
+        "url": "https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
         }
       ],
-      "duration_ms": 156506,
-      "name": "Static",
-      "url": "https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem"
+      "duration_ms": 166859,
+      "name": "Tek It - Sped Up",
+      "url": "https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -1023,22 +1039,6 @@
       "duration_ms": 107044,
       "name": "vendetta!",
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
-    },
-    {
-      "added_at": "2023-11-17 08:35:13",
-      "album": {
-        "name": "Tek It (I Watch the Moon)",
-        "url": "https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv"
-      },
-      "artists": [
-        {
-          "name": "Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
-        }
-      ],
-      "duration_ms": 166859,
-      "name": "Tek It - Sped Up",
-      "url": "https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
+        "name": "Cyberpunk 2077: Radio, Vol. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A"
+      },
+      "artists": [
+        {
+          "name": "Rosa Walton",
+          "url": "https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq"
+        },
+        {
+          "name": "Hallie Coggins",
+          "url": "https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc"
+        }
+      ],
+      "duration_ms": 246652,
+      "name": "I Really Want to Stay at Your House",
+      "url": "https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm"
+    },
+    {
+      "added_at": "2023-11-17 08:35:13",
+      "album": {
         "name": "GHOST!",
         "url": "https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3"
       },
@@ -1299,26 +1319,6 @@
       "duration_ms": 231704,
       "name": "GHOST!",
       "url": "https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ"
-    },
-    {
-      "added_at": "2023-11-17 08:35:13",
-      "album": {
-        "name": "SHADOW",
-        "url": "https://open.spotify.com/album/4w0uRvtIjqipuoZ7ngqqcV"
-      },
-      "artists": [
-        {
-          "name": "ONIMXRU",
-          "url": "https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw"
-        },
-        {
-          "name": "SMITHMANE",
-          "url": "https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG"
-        }
-      ],
-      "duration_ms": 162041,
-      "name": "SHADOW",
-      "url": "https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE"
     }
   ],
   "unique_name": "la mia testa:",

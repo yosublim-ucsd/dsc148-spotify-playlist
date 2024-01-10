@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 
 > Hits con sabor\. Cover: Juan Luis Guerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,600 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 603,746 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 99 | [Los Recuerdos](https://open.spotify.com/track/2huEu8faRAhs0OAtTa5hpH) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Los Recuerdos](https://open.spotify.com/album/0xGbVhKSRFIzUFLDWsmJYV) | 2:41 |
 | 100 | [Todavía Te Espero](https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Todavía Te Espero](https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3) | 3:12 |
 
-Snapshot ID: `MCwzMTlhMDAxMzlmMTMwZjViZjk3MzBkZGY4YmM3NjQ5NzVlOTllMTUz`
+Snapshot ID: `MCxjNmExMTZmZDA2M2FkNWY3MjMwZWQxZTM0ZDM4NTM4Y2NiNGRlZWZk`

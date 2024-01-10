@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Willie Nelson
 
-503 songs - 1 day 6 hr 5 min
+504 songs - 1 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [How It Ends](https://open.spotify.com/track/0kqUylCZDfyQqiSxtaCFdf) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Narrow Line](https://open.spotify.com/album/2r8q2wsnlNchuXp2xiMBSm) | 3:19 | 2023-11-24 |  |
 | [Hummingbird](https://open.spotify.com/track/4DlXQQanDfpRKxUSMOsxmL) | [We Banjo 3](https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD) | [Hummingbird](https://open.spotify.com/album/7q9msRiLtqEhNAfBmyHc2e) | 3:45 | 2022-07-15 | 2022-08-30 |
 | [I Am the River Wild](https://open.spotify.com/track/3HNTb1lNI3mkynvKFPynWE) | [Jeremy Garrett](https://open.spotify.com/artist/75j2lBW6hHJNAbEjm6Wi14) | [River Wild](https://open.spotify.com/album/7Bbg0C1LQvaIQc3PpELsL6) | 4:27 | 2022-03-25 | 2022-07-08 |
+| [I Call Her Sunshine](https://open.spotify.com/track/3kFQ9eRvWehIy2vweECLPY) | [The Kody Norris Show](https://open.spotify.com/artist/0l64ISwwNK0l6H3R1bwRha) | [Rhinestone Revival](https://open.spotify.com/album/7cblTcbIValrJcdwLdUDvv) | 2:53 | 2023-11-24 |  |
 | [I Call Her Sunshine](https://open.spotify.com/track/4MthZhAN8rpEhf7kzdDeSM) | [The Kody Norris Show](https://open.spotify.com/artist/0l64ISwwNK0l6H3R1bwRha) | [Rhinestone Revival](https://open.spotify.com/album/6WA5xRfslGXUYeytafpyeZ) | 2:53 | 2023-10-27 | 2023-12-23 |
 | [I Choose You](https://open.spotify.com/track/3HZa4UGKNwOjwRTQMpbdiB) | [The Steeldrivers](https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R) | [Bad For You](https://open.spotify.com/album/7i5eFTzw91j6jZS46BFxgl) | 3:04 | 2023-05-15 | 2024-01-04 |
 | [I Choose You](https://open.spotify.com/track/56QIi1ES8speRvNHIHaHHl) | [The Steeldrivers](https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R) | [Bad For You](https://open.spotify.com/album/4Ciw110gdWtwcleY7KQMRI) | 3:05 | 2023-11-24 |  |
@@ -437,7 +438,7 @@
 | [The Trappings](https://open.spotify.com/track/0gzzJTHTrLcPl6dUwROF7Z) | [Stuart Duncan](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2), [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Not Our First Goat Rodeo](https://open.spotify.com/album/4NDXeXypRq8YdFCKqg4sAn) | 3:39 | 2021-12-17 | 2023-10-30 |
 | [The Way It All Began](https://open.spotify.com/track/7aa9ykTB7F7vuvo9osqkTo) | [The Lonely Heartstring Band](https://open.spotify.com/artist/3d7YNQ39OxBxWOn1VX4J26) | [Smoke & Ashes](https://open.spotify.com/album/7MMlKMU5tcTzByq993LdyZ) | 3:38 | 2021-12-17 | 2022-06-10 |
 | [The Way It Was Before](https://open.spotify.com/track/4LvIYRvuEd3Vj0cUkgaYyS) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Family Reunion](https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv) | 4:07 | 2021-12-17 | 2022-07-20 |
-| [The Whole of the Moon](https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs) | [The Travelin' McCourys](https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I) | [The Whole of the Moon](https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC) | 4:42 | 2023-09-22 |  |
+| [The Whole of the Moon](https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs) | [The Travelin' McCourys](https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I) | [The Whole of the Moon](https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC) | 4:42 | 2023-09-22 | 2024-01-10 |
 | [These Ole Blues](https://open.spotify.com/track/7v773znNvjE1Gx6cIgcmYA) | [Missy Raines](https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep), [Missy Raines & Allegheny](https://open.spotify.com/artist/3GGiBJf0fcf8j1U19j2ek1), [Danny Paisley](https://open.spotify.com/artist/3Pp575HZ7OzFO8xZZtB4Vi), [Darol Anger](https://open.spotify.com/artist/2Qu0gRrkqyff7e7JXOVNWf), [Shad Cobb](https://open.spotify.com/artist/7jOAerTS5LBS24HXDrD58u), [Ellie Hakanson](https://open.spotify.com/artist/2Co6Ms0rTsymHegZCNVWIu) | [These Ole Blues](https://open.spotify.com/album/7pOUqo4VhWgWlHCGCzGoaS) | 4:15 | 2023-07-08 |  |
 | [They Call It Music \- Simply Bluegrass](https://open.spotify.com/track/7mo9QVf7ChCsdSlooAR7FK) | [The Gibson Brothers](https://open.spotify.com/artist/5rJLbEGewsZYI6T33W4DvA) | [They Call It Music \(Simply Bluegrass\)](https://open.spotify.com/album/3LLq6jMuRW8pF8j6sf9D8g) | 3:37 | 2022-03-11 | 2022-07-25 |
 | [This Favored Land](https://open.spotify.com/track/0ohHY0YoaXpDHvEk9qViuG) | [Tony Trischka](https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK), [Phoebe Hunt](https://open.spotify.com/artist/1wE9ZF6TT2O3XyYTmPLQ5x) | [Shall We Hope](https://open.spotify.com/album/17XUbpjDI2uQWvXcDoJUwT) | 3:29 | 2021-12-17 | 2022-06-21 |

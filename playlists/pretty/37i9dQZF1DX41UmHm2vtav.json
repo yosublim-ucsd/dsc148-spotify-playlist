@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 459342,
+  "num_followers": 459601,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTVjYWJlMTA0ZjIxYzUzYTkwYjdiYjdlNDhhODcxZDJhY2M4ZjQ1",
+  "snapshot_id": "MCw1ODdhYTRhNDYxNWRkYzE5ODhlY2FlNWQ0MDhiZGI3NzRhY2E4ZGI4",
   "tracks": [
     {
       "added_at": "2024-01-05 03:01:00",
@@ -479,22 +479,22 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
-        "name": "V\u00e1rias Queixas (Remix)",
-        "url": "https://open.spotify.com/album/1S6sbl3tadU3c426t5hwBs"
+        "name": "Infinito Particular (Bhaskar Remix)",
+        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
       },
       "artists": [
         {
-          "name": "Brunetta",
-          "url": "https://open.spotify.com/artist/2BhgwlfI2SpEU9t6vhhdiX"
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
         },
         {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
         }
       ],
-      "duration_ms": 123142,
-      "name": "V\u00e1rias Queixas - Remix",
-      "url": "https://open.spotify.com/track/1ciV9nuPokiQzNVpuLoTQV"
+      "duration_ms": 160019,
+      "name": "Infinito Particular - Bhaskar Remix",
+      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
     },
     {
       "added_at": "2024-01-05 03:01:00",
@@ -523,22 +523,22 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
-        "name": "Infinito Particular (Bhaskar Remix)",
-        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
+        "name": "V\u00e1rias Queixas (Remix)",
+        "url": "https://open.spotify.com/album/1S6sbl3tadU3c426t5hwBs"
       },
       "artists": [
         {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+          "name": "Brunetta",
+          "url": "https://open.spotify.com/artist/2BhgwlfI2SpEU9t6vhhdiX"
         },
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
         }
       ],
-      "duration_ms": 160019,
-      "name": "Infinito Particular - Bhaskar Remix",
-      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
+      "duration_ms": 123142,
+      "name": "V\u00e1rias Queixas - Remix",
+      "url": "https://open.spotify.com/track/1ciV9nuPokiQzNVpuLoTQV"
     },
     {
       "added_at": "2024-01-05 03:01:00",
@@ -623,26 +623,6 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
-        "name": "T\u00f4 de F\u00e9rias",
-        "url": "https://open.spotify.com/album/1QtWRDY6HCYBveBzjAlfec"
-      },
-      "artists": [
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        },
-        {
-          "name": "Breno Miranda",
-          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
-        }
-      ],
-      "duration_ms": 168449,
-      "name": "T\u00f4 de F\u00e9rias",
-      "url": "https://open.spotify.com/track/1xHcw1xHylSNbOZQenjrBn"
-    },
-    {
-      "added_at": "2024-01-05 03:01:00",
-      "album": {
         "name": "Me Cura",
         "url": "https://open.spotify.com/album/5U7TJkMbWO6bUejLuC5tV8"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 183652,
       "name": "Me Cura",
       "url": "https://open.spotify.com/track/5a3IAYtuNWDaOYJfI7P6nZ"
+    },
+    {
+      "added_at": "2024-01-05 03:01:00",
+      "album": {
+        "name": "T\u00f4 de F\u00e9rias",
+        "url": "https://open.spotify.com/album/1QtWRDY6HCYBveBzjAlfec"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "Breno Miranda",
+          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
+        }
+      ],
+      "duration_ms": 168449,
+      "name": "T\u00f4 de F\u00e9rias",
+      "url": "https://open.spotify.com/track/1xHcw1xHylSNbOZQenjrBn"
     },
     {
       "added_at": "2024-01-05 03:01:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
-        "name": "Amor Pra Recome\u00e7ar",
-        "url": "https://open.spotify.com/album/2xR4lb0yAglnIoEgdvb7Ch"
-      },
-      "artists": [
-        {
-          "name": "Jopin",
-          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
-        },
-        {
-          "name": "Saulo",
-          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "Amor Pra Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX"
-    },
-    {
-      "added_at": "2024-01-05 03:01:00",
-      "album": {
         "name": "All The Lies (with Felix Jaehn & The Vamps)",
         "url": "https://open.spotify.com/album/4fPfnp90F94F1Ab8UANpHL"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 179456,
       "name": "All The Lies (with Felix Jaehn & The Vamps)",
       "url": "https://open.spotify.com/track/4Cy5f4JsH1yoeGks7FnoHw"
+    },
+    {
+      "added_at": "2024-01-05 03:01:00",
+      "album": {
+        "name": "Amor Pra Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/2xR4lb0yAglnIoEgdvb7Ch"
+      },
+      "artists": [
+        {
+          "name": "Jopin",
+          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
+        },
+        {
+          "name": "Saulo",
+          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Amor Pra Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX"
     },
     {
       "added_at": "2024-01-05 03:01:00",
@@ -975,26 +975,6 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
-        "name": "Dias Melhores - Remix",
-        "url": "https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        },
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "Dias Melhores - Remix",
-      "url": "https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE"
-    },
-    {
-      "added_at": "2024-01-05 03:01:00",
-      "album": {
         "name": "Tom's Diner",
         "url": "https://open.spotify.com/album/2PSz5TRIXyGCsHRW3sYsQR"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 134571,
       "name": "Tom's Diner",
       "url": "https://open.spotify.com/track/00FuFY2DemyowcHwMabQ11"
+    },
+    {
+      "added_at": "2024-01-05 03:01:00",
+      "album": {
+        "name": "Dias Melhores - Remix",
+        "url": "https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "Dias Melhores - Remix",
+      "url": "https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE"
     },
     {
       "added_at": "2024-01-05 03:01:00",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
-        "name": "Monalisa (KVSH Remix)",
-        "url": "https://open.spotify.com/album/682jx7IHZwSmVkxld1qkgz"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        }
-      ],
-      "duration_ms": 175844,
-      "name": "Monalisa (KVSH Remix)",
-      "url": "https://open.spotify.com/track/2DiuOqMFJcTCEquAFCtjwW"
-    },
-    {
-      "added_at": "2024-01-05 03:01:00",
-      "album": {
         "name": "Bololo (Remixes)",
         "url": "https://open.spotify.com/album/3bC1j0lxI66MJl2T3anvF2"
       },
@@ -1205,16 +1185,36 @@
         },
         {
           "name": "MichaelBM",
-          "url": "https://open.spotify.com/artist/0DdbrsAMsJHh1EFRkrVmzb"
+          "url": "https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl"
         },
         {
           "name": "Francesco V",
-          "url": "https://open.spotify.com/artist/6MrtkunYTDdVAjtH4cHjLb"
+          "url": "https://open.spotify.com/artist/44lpT2O5mBIXeyrXhVlj7Q"
         }
       ],
       "duration_ms": 143255,
       "name": "Bololo - MichaelBM & Francesco V Remix",
       "url": "https://open.spotify.com/track/6H0Jp0W6K5arH3w38rE8ZU"
+    },
+    {
+      "added_at": "2024-01-05 03:01:00",
+      "album": {
+        "name": "Monalisa (KVSH Remix)",
+        "url": "https://open.spotify.com/album/682jx7IHZwSmVkxld1qkgz"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        }
+      ],
+      "duration_ms": 175844,
+      "name": "Monalisa (KVSH Remix)",
+      "url": "https://open.spotify.com/track/2DiuOqMFJcTCEquAFCtjwW"
     },
     {
       "added_at": "2024-01-05 03:01:00",

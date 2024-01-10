@@ -1,12 +1,12 @@
 {
   "description": "Ag\u00e1rrense fuerte.",
-  "num_followers": 117203,
+  "num_followers": 117234,
   "original_name": "Enganchados: Lentos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODM5NTY1NmM2YTEzYjlmYWNiN2I3ODkwMjViMGY0MjZjNWRlYjQz",
+  "snapshot_id": "MCxkZGZiMmJlN2YyMDg1NjM4YzQ2NGM1YmMzYWRmYzJjNWUzNTUxZDBl",
   "tracks": [
     {
       "added_at": "2020-07-29 15:58:59",
@@ -731,18 +731,18 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "A Night At The Opera (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
         }
       ],
-      "duration_ms": 217400,
-      "name": "Love Of My Life - Remastered 2011",
-      "url": "https://open.spotify.com/track/790YJcgHlN3SaosQCHlWzn"
+      "duration_ms": 251106,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/0mHyWYXmmCB9iQyK18m3FQ"
     },
     {
       "added_at": "2020-07-29 15:58:59",
@@ -763,18 +763,18 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "Can't Slow Down",
-        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
+        "name": "A Night At The Opera (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
       },
       "artists": [
         {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 251106,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/0mHyWYXmmCB9iQyK18m3FQ"
+      "duration_ms": 217400,
+      "name": "Love Of My Life - Remastered 2011",
+      "url": "https://open.spotify.com/track/790YJcgHlN3SaosQCHlWzn"
     },
     {
       "added_at": "2020-07-29 15:58:59",
@@ -859,6 +859,22 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/1W1b52vaEcE3wfWk4WQH6q"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 242453,
+      "name": "Say You, Say Me",
+      "url": "https://open.spotify.com/track/1Ih6wTuQems9OkYTzcZdhM"
+    },
+    {
+      "added_at": "2020-07-29 15:58:59",
+      "album": {
         "name": "Joyride (Deluxe Version)",
         "url": "https://open.spotify.com/album/5SwZnq5e3u7DkkNnSNHp5R"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 275666,
       "name": "Spending My Time",
       "url": "https://open.spotify.com/track/47PQWnMc01EmIH0PD2UuGb"
-    },
-    {
-      "added_at": "2020-07-29 15:58:59",
-      "album": {
-        "name": "The Platinum Collection",
-        "url": "https://open.spotify.com/album/7Kr5H7qAtXjsMxAeNvugTl"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 372466,
-      "name": "Still Got The Blues",
-      "url": "https://open.spotify.com/track/5rpo9tGeFdtPSQtE5bbPDL"
     }
   ],
   "unique_name": "Enganchados: Lentos",

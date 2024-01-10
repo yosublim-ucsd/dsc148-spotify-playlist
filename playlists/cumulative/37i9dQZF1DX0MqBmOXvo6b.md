@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-603 songs - 1 day 1 hr 39 min
+604 songs - 1 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -463,10 +463,11 @@
 | [Small River](https://open.spotify.com/track/283b63a2Vz7UwLFGiPNcln) | [Ludwig Lloyd](https://open.spotify.com/artist/4daTfKKnYKUlMaxDMGZH9K) | [Small River](https://open.spotify.com/album/4KgOAj9Yq69syNN2mqw3dI) | 2:04 | 2022-06-07 | 2022-09-15 |
 | [Snart min ven](https://open.spotify.com/track/2gvOWwy8B1tnObU0ldDycn) | [Nansen Christoffersen](https://open.spotify.com/artist/4EG2PN3O2mm649IWzUex7B) | [Snart min ven](https://open.spotify.com/album/5B9M3NK5ciz9bTH1aLCMVr) | 2:07 | 2022-06-07 | 2022-09-24 |
 | [Snow Globes](https://open.spotify.com/track/5Ib91e4QpuBn7CsMDlpN9t) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [Snow Globes](https://open.spotify.com/album/3HXc8jQIseAOXkwwCiHLB1) | 2:05 | 2022-06-07 | 2022-09-24 |
+| [Sogni di Positano](https://open.spotify.com/track/3tRkhS5byc7Dt4zjwliaWY) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Sogni di Positano](https://open.spotify.com/album/3mdlYi31wx0txhBSKaSP6x) | 3:27 | 2024-01-09 |  |
 | [Solace](https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Solace](https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj) | 1:57 | 2022-06-07 | 2022-09-15 |
 | [Solemn Resolve](https://open.spotify.com/track/1wDBNwgv9WWqJIdZ6bIv8Z) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Solemn Resolve](https://open.spotify.com/album/2AC4nZdkODSXUiQAX8UbIM) | 2:18 | 2022-06-07 |  |
 | [Solitude](https://open.spotify.com/track/1zFkdQz9JTr02jBEekVp8e) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Solitude](https://open.spotify.com/album/60GqHa76MYi3AKen22bzVe) | 3:22 | 2022-06-07 | 2023-11-10 |
-| [Something Like Love](https://open.spotify.com/track/1SHZMSLi7z0lNlo6ljl0PC) | [James Keer](https://open.spotify.com/artist/2IJ2zbVdi2aR2DAM8boOE8) | [Something Like Love](https://open.spotify.com/album/5TF7WCLi2ysXIp8m88L2Nr) | 2:42 | 2022-06-07 |  |
+| [Something Like Love](https://open.spotify.com/track/1SHZMSLi7z0lNlo6ljl0PC) | [James Keer](https://open.spotify.com/artist/2IJ2zbVdi2aR2DAM8boOE8) | [Something Like Love](https://open.spotify.com/album/5TF7WCLi2ysXIp8m88L2Nr) | 2:42 | 2022-06-07 | 2024-01-10 |
 | [Somewhere](https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Somewhere](https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7) | 3:05 | 2023-07-04 |  |
 | [somewhere else, together](https://open.spotify.com/track/4Pl37bufUvxJOhLJIfLCcl) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [somewhere else, together](https://open.spotify.com/album/1qLrUd6oXUZoNGZAVY8mDX) | 3:09 | 2023-11-28 |  |
 | [Sonata del Giardino](https://open.spotify.com/track/2wNBTbBMhZ1FDFx5US3u3o) | [Domani Fendi](https://open.spotify.com/artist/1GaEeF01ebT6znhYvW1s7b) | [Sonata del Giardino](https://open.spotify.com/album/1L0WoZmWBaqsMwbs8oa4wm) | 2:45 | 2022-06-07 |  |

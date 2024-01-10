@@ -4,7 +4,7 @@
 
 > ¡Los grandes nombres del Vallenato viven aquí!
 
-75 songs - 5 hr 47 min
+76 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,10 +33,11 @@
 | [El Mochuelo](https://open.spotify.com/track/1dQQtzeKGUtVTUzLoRI01j) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Muy Nuestro](https://open.spotify.com/album/11vSLzBjLYwRX1tjqTDsQQ) | 4:56 | 2023-02-07 |  |
 | [El Santo Cachon](https://open.spotify.com/track/3zR4QhbiQ7zZ6eR58jT43d) | [Los Embajadores Vallenato](https://open.spotify.com/artist/2J95wKK8c7dnly0hkJ2b6X) | [Grandes Exitos](https://open.spotify.com/album/3RsbxYK9uTkSMZTDqNaJnM) | 4:29 | 2023-02-07 | 2023-05-27 |
 | [El Santo Cachon](https://open.spotify.com/track/5MDeca8IiesNdQsOZC894q) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf) | [Grandes Exitos](https://open.spotify.com/album/7kV3KWcCEPi4HeDVFzSh0L) | 4:29 | 2023-02-07 |  |
-| [Esa](https://open.spotify.com/track/5BHKpCV5UiIPTAp7JCrsX5) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Festival Vallenato](https://open.spotify.com/album/4kQudN5Gj821X5ejgda6Pi) | 3:51 | 2023-02-07 |  |
+| [Esa](https://open.spotify.com/track/5BHKpCV5UiIPTAp7JCrsX5) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Festival Vallenato](https://open.spotify.com/album/4kQudN5Gj821X5ejgda6Pi) | 3:51 | 2023-02-07 | 2024-01-10 |
 | [Infiel](https://open.spotify.com/track/1PTQMGoaQ2ZnWi3WBzFpwp) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA) | [Alto Voltaje](https://open.spotify.com/album/58S0vKkRnOwYGwpDSXNsEX) | 4:06 | 2023-02-07 |  |
 | [Infiel](https://open.spotify.com/track/7l6FdGpTecIdte6pWMdB6K) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA) | [Alto Voltaje](https://open.spotify.com/album/4YTcz59mBzRmkxCyNWB5ND) | 4:06 | 2023-02-07 | 2023-03-25 |
 | [La creciente](https://open.spotify.com/track/3r7LYQ2EhCw0CwaF5SeF9M) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [El Binomio De Oro](https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh) | 3:02 | 2023-02-07 |  |
+| [La Gemela](https://open.spotify.com/track/4hP2Vg2IPh9V1oiEWgMNIg) | [Los Betos](https://open.spotify.com/artist/69yDCUTFEY2n0pDljFxVKn) | [30 Grandes Exitos](https://open.spotify.com/album/4KUqpSVkyJZSyepdGcHdD9) | 4:12 | 2023-02-07 |  |
 | [Loco Paranoico](https://open.spotify.com/track/6eyGmsEahNlvSUZBEa0rRw) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [La 9a Batalla](https://open.spotify.com/album/6AZfPn4isPsjmq9c6jnAMb) | 3:34 | 2023-02-07 |  |
 | [Los Caminos De La Vida](https://open.spotify.com/track/3xMLWeaF5GejsfnUq9zzn6) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Sorpresa Caribe](https://open.spotify.com/album/3snupj4n5mx4O77YCAYXUC) | 4:35 | 2023-02-07 |  |
 | [Me Tiraste Al Mar](https://open.spotify.com/track/4x0fsFljh9cbNLQTZxCov1) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Version Original](https://open.spotify.com/album/3bdzKN0XxINusa0DO7DRLo) | 4:26 | 2023-02-07 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 57947,
+  "num_followers": 57957,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjU3NGNmZWRjNTIwYzU5MmYxMzA0OGQzMGU5MGQ2MWFlZjI4ODg1",
+  "snapshot_id": "MCwwYmVjYmVjMjFjNDU2N2RkZDgyYWUwM2Y0ZDkzMDY4ZWRkMThiNWZl",
   "tracks": [
     {
       "added_at": "2023-09-01 14:43:51",
@@ -503,26 +503,6 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "POPSTAR (feat. Drake)",
-        "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 200221,
-      "name": "POPSTAR (feat. Drake)",
-      "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
         "name": "Pegasus",
         "url": "https://open.spotify.com/album/0so2JtZLW2acBWStzut0W5"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 283285,
       "name": "Excitement",
       "url": "https://open.spotify.com/track/66w7lK0t98OPgvYjXp39IP"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
+        "name": "POPSTAR (feat. Drake)",
+        "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 200221,
+      "name": "POPSTAR (feat. Drake)",
+      "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
+        "name": "Yelo",
+        "url": "https://open.spotify.com/album/0l96KLiB5dthOyDYmNEwfi"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        }
+      ],
+      "duration_ms": 189356,
+      "name": "Yelo",
+      "url": "https://open.spotify.com/track/3OUPJPD1OmFd8gL7ztY9v8"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
         "name": "Whoopty (Latin Mix) [feat. Anuel AA and Ozuna]",
         "url": "https://open.spotify.com/album/4NM6c7Q88osAJ4KoDQUvpo"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 213060,
       "name": "Whoopty (Latin Mix) [feat. Anuel AA and Ozuna]",
       "url": "https://open.spotify.com/track/48MsdL5Med93EyIwINl5qY"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
-        "name": "Yelo",
-        "url": "https://open.spotify.com/album/0l96KLiB5dthOyDYmNEwfi"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        }
-      ],
-      "duration_ms": 189356,
-      "name": "Yelo",
-      "url": "https://open.spotify.com/track/3OUPJPD1OmFd8gL7ztY9v8"
     },
     {
       "added_at": "2023-09-01 14:43:51",

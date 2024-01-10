@@ -1,12 +1,12 @@
 {
   "description": "Hip hop hits, version dancefloor !",
-  "num_followers": 98119,
+  "num_followers": 98105,
   "original_name": "Hip Hop Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOWUyOTI0OTI3OWRmMjVkZDgzY2M2NGQwNmNjOWRmZjBjMjlmYmIw",
+  "snapshot_id": "MCw0Njg1NDQ5NTE1Y2YzZjIzNjc2MzdmODZlYjI3ODRlMTA1NGI1NTc3",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -443,26 +443,30 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Another Level",
-        "url": "https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi"
+        "name": "B4 The Storm",
+        "url": "https://open.spotify.com/album/4Y5lQYgpDrkyru90jltD5a"
       },
       "artists": [
         {
-          "name": "Blackstreet",
-          "url": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA"
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
         },
         {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         },
         {
-          "name": "Queen Pen",
-          "url": "https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         }
       ],
-      "duration_ms": 304600,
-      "name": "No Diggity",
-      "url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ"
+      "duration_ms": 195428,
+      "name": "Lemonade (feat. NAV)",
+      "url": "https://open.spotify.com/track/1p0rEzrK7YtdRZVtiyV7RN"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -503,30 +507,26 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "B4 The Storm",
-        "url": "https://open.spotify.com/album/4Y5lQYgpDrkyru90jltD5a"
+        "name": "Another Level",
+        "url": "https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi"
       },
       "artists": [
         {
-          "name": "Internet Money",
-          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+          "name": "Blackstreet",
+          "url": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA"
         },
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
         },
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+          "name": "Queen Pen",
+          "url": "https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr"
         }
       ],
-      "duration_ms": 195428,
-      "name": "Lemonade (feat. NAV)",
-      "url": "https://open.spotify.com/track/1p0rEzrK7YtdRZVtiyV7RN"
+      "duration_ms": 304600,
+      "name": "No Diggity",
+      "url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ"
     },
     {
       "added_at": "2023-12-15 05:00:00",

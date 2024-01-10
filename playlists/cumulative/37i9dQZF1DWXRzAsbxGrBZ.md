@@ -4,7 +4,7 @@
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-104 songs - 11 hr 59 min
+105 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Flute Activation \- Original Mix](https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU) | [Kek'star](https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4) | [Artform](https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5) | 7:39 | 2022-09-14 |  |
 | [Forever \- TekniQ Soulful Mix](https://open.spotify.com/track/2FzeNOgDgJvmfZS0dREVNA) | [Darque](https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105), [Presss](https://open.spotify.com/artist/4zvrxiTj59PqL9vRzQI354) | [Forever \(TekniQ Remixes\)](https://open.spotify.com/album/5RjTdCcb2ECdmVTRmv3WN3) | 5:55 | 2022-09-14 | 2023-03-18 |
 | [Four Lessons](https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe) | [Dafro](https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL) | [Dafrotone](https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N) | 7:33 | 2022-09-14 |  |
-| [Gambiando Caras](https://open.spotify.com/track/4YNgFSOwvgYuiaDv15kiGL) | [Sir Vee The Great](https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI) | [Gambiando Caras](https://open.spotify.com/album/34Z2Yz8YHzjvFZGqxr5RzG) | 7:15 | 2022-09-14 |  |
+| [Gambiando Caras](https://open.spotify.com/track/4YNgFSOwvgYuiaDv15kiGL) | [Sir Vee The Great](https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI) | [Gambiando Caras](https://open.spotify.com/album/34Z2Yz8YHzjvFZGqxr5RzG) | 7:15 | 2022-09-14 | 2024-01-10 |
 | [Gotsom](https://open.spotify.com/track/09bP5tNmOMja2JVmz9iNgY) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ) | [I Am Jazz](https://open.spotify.com/album/6qowtxa5c1s4tBk86CD2bK) | 6:42 | 2023-12-08 |  |
 | [Gotsom](https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ) | [I Am Jazz](https://open.spotify.com/album/3T39mg1ZjH1Jh62iJ0LClN) | 6:42 | 2022-09-29 | 2023-09-28 |
 | [Grootman \(Spiritual Love Affair\)](https://open.spotify.com/track/3GkzVmBju18ibwKCIJwVwz) | [Daano](https://open.spotify.com/artist/3M4Y4YPMGeBOTdKs8jUUhd) | [The Jazz Kid III](https://open.spotify.com/album/7GogCpf2vfmvx0cxjVVMBI) | 7:27 | 2023-03-17 |  |
@@ -98,6 +98,7 @@
 | [This Is The Way \(We Dance\)](https://open.spotify.com/track/0AtwabAxUMflTI3UCbglEq) | [D\-tip](https://open.spotify.com/artist/47uLLyDQtL91fBca6JDKSF), [Sir Vee The Great](https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI) | [This Is The Way \(We Dance\)](https://open.spotify.com/album/1Rn5VSLmJWNMIgb1mBxWuK) | 5:37 | 2023-11-09 |  |
 | [This Must Be Deep \- Original Mix](https://open.spotify.com/track/3olGCkuKopIHUxulYAVPJN) | [Kek'star](https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4), [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [This Must Be Deep](https://open.spotify.com/album/21VsxLl65DU4n6GfbVL3xE) | 6:33 | 2022-09-29 | 2023-03-18 |
 | [Those Times](https://open.spotify.com/track/6CcZOTY6BcU0lrJu6Whhqn) | [C\-Moody](https://open.spotify.com/artist/54OOXOPVCHZ2wkppPBXaal) | [Those Times](https://open.spotify.com/album/5YblhSjbYeSAkY1JoWmkVY) | 7:45 | 2023-11-09 |  |
+| [Time To Dance](https://open.spotify.com/track/29ycplqUCPpRNEevsdpEQ7) | [DJ Cleo](https://open.spotify.com/artist/25DGxfawvVBrqZNBzWQj9y) | [Time to Dance](https://open.spotify.com/album/0zP0o4TYEjt3vM9u3SNEXV) | 7:50 | 2023-12-08 |  |
 | [To The World](https://open.spotify.com/track/6xR2ZU8JUPrSZIKspHYH7A) | [Brazo Wa Afrika](https://open.spotify.com/artist/6uGuuIkpLIWdUYVJit1dvP), [Chymamusique](https://open.spotify.com/artist/0nzV2U3TuoZhNqZFW564NI) | [To The World](https://open.spotify.com/album/4pQzAwYAdmIKo7xDoKQ35v) | 6:27 | 2022-09-14 |  |
 | [Trill is Gone \- Original Mix](https://open.spotify.com/track/6eHT2RqorlHgS68W6U62X2) | [Deep Xcape](https://open.spotify.com/artist/1PZwBIf3nPI7r8jvS0Oh9Z), [Oscar Mbo](https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX), [C\-Blak](https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5) | [Sin City \[Italian Mafia \(God Father Edition\)\]](https://open.spotify.com/album/5qK2NsJpHTj6mcZ37BvozA) | 6:30 | 2022-09-14 | 2022-11-18 |
 | [Vertigo](https://open.spotify.com/track/2ilBcYA2BTCaEz4a26h683) | [Jazzuelle](https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu), [Buddynice](https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp) | [NEO](https://open.spotify.com/album/5rW8PA2FAgoeOHOsO07986) | 7:16 | 2022-11-10 |  |

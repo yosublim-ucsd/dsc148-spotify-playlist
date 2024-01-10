@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0MDcxODAsMDAwMDAwMDBjZWE2OTAwOTlhMGFhNTNlMzRlY2QzZGE5OTdmNmM0YQ==",
+  "snapshot_id": "Mjg0MDcxODAsMDAwMDAwMDBhYjY0M2RlYTM2MmJjYjFiN2RiODkzMmFiYTcxZmQwMQ==",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -80,25 +80,41 @@
           "url": "https://open.spotify.com/artist/2tT7nQdRPSLspfAIJLsVyS"
         },
         {
-          "name": "Lethal Skillz",
-          "url": "https://open.spotify.com/artist/77HhnCORKmQoVA15S5V6pN"
+          "name": "Killa Kali",
+          "url": "https://open.spotify.com/artist/75eyGnvvRWP3hAvvNNag8W"
         },
         {
           "name": "Mic Zoldiah",
           "url": "https://open.spotify.com/artist/6ufNwbpcn8olcjpYl2I61f"
         },
         {
-          "name": "Kinetic 9",
-          "url": "https://open.spotify.com/artist/3pVBPLFzZ96GGQfohKCQHv"
-        },
-        {
           "name": "RZA",
           "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
         }
       ],
-      "duration_ms": 235006,
-      "name": "EVEN THE SCORE",
-      "url": "https://open.spotify.com/track/6tZ8Kg5yyOltyjuMBfN2sg"
+      "duration_ms": 223004,
+      "name": "CHECK YA FASHION",
+      "url": "https://open.spotify.com/track/60AybeRltLiX4ZATUkoRDS"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "The God That Sins",
+        "url": "https://open.spotify.com/album/0gwmw3bmEKMf98GrB5rf13"
+      },
+      "artists": [
+        {
+          "name": "UnLearn the World",
+          "url": "https://open.spotify.com/artist/7jJ93v63hrGPmBpe70ppyH"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "duration_ms": 216099,
+      "name": "Uncanny Behavior (Sho 'Nuff)",
+      "url": "https://open.spotify.com/track/6Wwl3yd8qCJKvupupGcoCC"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -127,26 +143,6 @@
       "duration_ms": 160000,
       "name": "12 HUNNID (feat. Terrace Martin & The Melodiks)",
       "url": "https://open.spotify.com/track/7mfLtXAhUiM8CspzksCaQM"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "The God That Sins",
-        "url": "https://open.spotify.com/album/0gwmw3bmEKMf98GrB5rf13"
-      },
-      "artists": [
-        {
-          "name": "UnLearn the World",
-          "url": "https://open.spotify.com/artist/7jJ93v63hrGPmBpe70ppyH"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        }
-      ],
-      "duration_ms": 216099,
-      "name": "Uncanny Behavior (Sho 'Nuff)",
-      "url": "https://open.spotify.com/track/6Wwl3yd8qCJKvupupGcoCC"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -475,34 +471,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Shade of Blue",
-        "url": "https://open.spotify.com/album/7jPYGQ3pZ1Qq1qazTqOzP9"
-      },
-      "artists": [
-        {
-          "name": "T\u00f3mas R. Einarsson",
-          "url": "https://open.spotify.com/artist/1biHrpUQMF2IIsnvipp9Cv"
-        },
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        },
-        {
-          "name": "Kristj\u00e1n Magn\u00fasson",
-          "url": "https://open.spotify.com/artist/5xhra5T3Yva7Q0Y4d1L6d9"
-        },
-        {
-          "name": "Sveinn \u00d3li J\u00f3nsson",
-          "url": "https://open.spotify.com/artist/6fQMnY3UqEJTWsGzSpV2OB"
-        }
-      ],
-      "duration_ms": 416174,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/3JVt92ZMXrDlscUbVneHu2"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Trillstatik 3",
         "url": "https://open.spotify.com/album/48A3ZaH8Vdt9Q5ccZtyEEu"
       },
@@ -531,52 +499,80 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Lace It (with Eminem & benny blanco)",
-        "url": "https://open.spotify.com/album/2GWbJqFPEi1FGC9DnBRbk1"
+        "name": "Shade of Blue",
+        "url": "https://open.spotify.com/album/7jPYGQ3pZ1Qq1qazTqOzP9"
       },
       "artists": [
         {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          "name": "T\u00f3mas R. Einarsson",
+          "url": "https://open.spotify.com/artist/1biHrpUQMF2IIsnvipp9Cv"
         },
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         },
         {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+          "name": "Kristj\u00e1n Magn\u00fasson",
+          "url": "https://open.spotify.com/artist/5xhra5T3Yva7Q0Y4d1L6d9"
+        },
+        {
+          "name": "Sveinn \u00d3li J\u00f3nsson",
+          "url": "https://open.spotify.com/artist/6fQMnY3UqEJTWsGzSpV2OB"
         }
       ],
-      "duration_ms": 217500,
-      "name": "Lace It (with Eminem & benny blanco)",
-      "url": "https://open.spotify.com/track/0hitTdEb4YohfxjOhdcIMi"
+      "duration_ms": 417606,
+      "name": "Don\u2018t Blame Me",
+      "url": "https://open.spotify.com/track/5EK2DWMUXgbGdYclO6Z1yh"
     },
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Ken The EP",
-        "url": "https://open.spotify.com/album/7Dw87eUPMkF6tyjH1IYHsn"
+        "name": "Super-Villain Team-Up",
+        "url": "https://open.spotify.com/album/2ASNVNKUTPvi1oKvkOFOaj"
       },
       "artists": [
         {
-          "name": "Ryan Gosling",
-          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
         },
         {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          "name": "Substance Abuse",
+          "url": "https://open.spotify.com/artist/2jjC2Y84TJgH7iBJ3qKD6O"
+        },
+        {
+          "name": "KutMasta Kurt",
+          "url": "https://open.spotify.com/artist/2T3TY0bgKbi5lH3TfD0m7O"
         }
       ],
-      "duration_ms": 196422,
-      "name": "I\u2019m Just Ken - Merry Kristmas Barbie",
-      "url": "https://open.spotify.com/track/0xUZ46LRp05nuTksovv90G"
+      "duration_ms": 268846,
+      "name": "Profitless Thoughts KutMasta Kurt REMIX INSTRUMENTAL",
+      "url": "https://open.spotify.com/track/319Av0Hgf7EVuMlqztL4Z8"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Des\u00e7o e Subo",
+        "url": "https://open.spotify.com/album/5CBODdqgWdTRjCsXt6DSmW"
+      },
+      "artists": [
+        {
+          "name": "Os Libertino",
+          "url": "https://open.spotify.com/artist/1p3LNNkWiyocLuj90e1MhK"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 156864,
+      "name": "Des\u00e7o e Subo",
+      "url": "https://open.spotify.com/track/2ZNAxSjnYtDjZp2cCjklS1"
     },
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Mr. McAdams",
-        "url": "https://open.spotify.com/album/3zIqYHjhiIX0ezJUIegDfl"
+        "url": "https://open.spotify.com/album/3tH2swD8wrxdLNNdCZXPuV"
       },
       "artists": [
         {
@@ -586,7 +582,7 @@
       ],
       "duration_ms": 156101,
       "name": "Mr. McAdams",
-      "url": "https://open.spotify.com/track/7uPVu05kl4tGCJ3KRUucBT"
+      "url": "https://open.spotify.com/track/5FiQzAsVrrzuPGdGZmFLtO"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -619,6 +615,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Hackney Diamonds (Live Edition)",
+        "url": "https://open.spotify.com/album/5rFsKSgldStbYgO4CNygLn"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 334204,
+      "name": "Jumpin' Jack Flash - Live at Racket, NYC",
+      "url": "https://open.spotify.com/track/6WL4mM5lIeRryzX9wf8hgZ"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "What We're Up Against",
         "url": "https://open.spotify.com/album/3LxpLZIrctTM8oLFrSD3VG"
       },
@@ -639,22 +651,6 @@
       "duration_ms": 220133,
       "name": "What We're Up Against feat. Elize Ryd of Amaranthe",
       "url": "https://open.spotify.com/track/7BfZXCDOxgbzeQnXJfzjDr"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Hackney Diamonds (Live Edition)",
-        "url": "https://open.spotify.com/album/5rFsKSgldStbYgO4CNygLn"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 334204,
-      "name": "Jumpin' Jack Flash - Live at Racket, NYC",
-      "url": "https://open.spotify.com/track/6WL4mM5lIeRryzX9wf8hgZ"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

@@ -4,10 +4,11 @@
 
 > This is Sergio Vega "El Shaka"\. The essential tracks, all in one playlist.
 
-70 songs - 3 hr 44 min
+71 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Alineando Cabrones \- En Vivo](https://open.spotify.com/track/7dvkjvHPjiKhVoZrl7HfQo) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [En Vivo \- Fiesta Privada](https://open.spotify.com/album/59BaFl2GHwAHNkkdvOvhAc) | 5:04 | 2024-01-09 |  |
 | [Amiga](https://open.spotify.com/track/7supUJMhpPfMQHMUBPvXsl) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Millonario De Amor](https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ) | 3:18 | 2022-08-07 | 2022-12-17 |
 | [Atraves de la Luna](https://open.spotify.com/track/3jvqC6Y2Ory7D6ijAOj6MP) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Atraves de la Luna](https://open.spotify.com/album/5WTFgzxPRmlbYtoiZK8xk2) | 3:33 | 2022-06-01 | 2024-01-07 |
 | [Cartera Perdida](https://open.spotify.com/track/4EZFnkhOnDCxnSbw6tM8w8) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Atraves de la Luna](https://open.spotify.com/album/5WTFgzxPRmlbYtoiZK8xk2) | 2:56 | 2022-06-01 | 2024-01-07 |
@@ -25,7 +26,7 @@
 | [Dueño de Ti](https://open.spotify.com/track/7j9iuJvGg8Ve2O20CO8Oho) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Me Gusta Estar Contigo](https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG) | 3:40 | 2022-06-01 |  |
 | [El Ayudante](https://open.spotify.com/track/0dI9WuHlpDdUGFXUFO8ww7) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Desde el Cielo](https://open.spotify.com/album/3NLkn2oW8lkfe6pLbTQiRV) | 2:44 | 2022-06-01 |  |
 | [El Bitachero](https://open.spotify.com/track/3uGo2w4vTh6iktL20sEYb0) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [El Jefe De Las Plazas](https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN) | 3:02 | 2022-06-01 |  |
-| [El Cuatro](https://open.spotify.com/track/7CXITsuiY2lg4u0PAa0foj) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [30 Anos](https://open.spotify.com/album/59StiRT1AuVJIaZn2igYWL) | 3:11 | 2024-01-06 |  |
+| [El Cuatro](https://open.spotify.com/track/7CXITsuiY2lg4u0PAa0foj) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [30 Anos](https://open.spotify.com/album/59StiRT1AuVJIaZn2igYWL) | 3:11 | 2024-01-06 | 2024-01-10 |
 | [El Dia Que Puedas](https://open.spotify.com/track/2irOqljUpmxU16GCq8mZ6U) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Atraves de la Luna](https://open.spotify.com/album/5WTFgzxPRmlbYtoiZK8xk2) | 4:09 | 2022-06-01 | 2024-01-07 |
 | [El Jefe De Las Plazas](https://open.spotify.com/track/1pJMMnem25kCij6sF62hut) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [El Jefe De Las Plazas](https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN) | 3:31 | 2022-06-01 |  |
 | [El Licenciado](https://open.spotify.com/track/6PEkLz630jJBn80ddIhi5o) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Serie Top Ten](https://open.spotify.com/album/74dGCcyijMhAuNLja18GUZ) | 2:53 | 2023-01-24 |  |

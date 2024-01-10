@@ -1,12 +1,12 @@
 {
   "description": "canzoni felici italiane e internazionali per un inverno preso bene \u2600\ufe0f",
-  "num_followers": 48889,
+  "num_followers": 48902,
   "original_name": "una playlist felice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDM2YzJmMzI5ZjAzYmQ2NTZkMjQ3MmYzNjEyY2E2YzExMmQ1NTU5",
+  "snapshot_id": "MCwyNzFkZDcyZWM4NTc3YjFhNTVlODI2ZDljNjI4ZThjZjZhYTM3Nzcx",
   "tracks": [
     {
       "added_at": "2023-12-21 14:08:03",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-12-21 14:08:03",
       "album": {
-        "name": "Speed Drive (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 117809,
-      "name": "Speed Drive (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
-    },
-    {
-      "added_at": "2023-12-21 14:08:03",
-      "album": {
         "name": "Surfer Rosa",
         "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 234973,
       "name": "Where Is My Mind? - Remastered",
       "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy"
+    },
+    {
+      "added_at": "2023-12-21 14:08:03",
+      "album": {
+        "name": "Speed Drive (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 117809,
+      "name": "Speed Drive (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
     },
     {
       "added_at": "2023-12-21 14:08:03",
@@ -899,22 +899,18 @@
     {
       "added_at": "2023-12-21 14:08:03",
       "album": {
-        "name": "Kiss Me More (feat. SZA)",
-        "url": "https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt"
+        "name": "Where The Shadow Ends",
+        "url": "https://open.spotify.com/album/7jPoliCU7TRA13Wro32AOD"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
         }
       ],
-      "duration_ms": 208866,
-      "name": "Kiss Me More (feat. SZA)",
-      "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
+      "duration_ms": 219801,
+      "name": "Someone To You",
+      "url": "https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr"
     },
     {
       "added_at": "2023-12-21 14:08:03",
@@ -935,18 +931,22 @@
     {
       "added_at": "2023-12-21 14:08:03",
       "album": {
-        "name": "Where The Shadow Ends",
-        "url": "https://open.spotify.com/album/7jPoliCU7TRA13Wro32AOD"
+        "name": "Kiss Me More (feat. SZA)",
+        "url": "https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt"
       },
       "artists": [
         {
-          "name": "BANNERS",
-          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 219801,
-      "name": "Someone To You",
-      "url": "https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr"
+      "duration_ms": 208866,
+      "name": "Kiss Me More (feat. SZA)",
+      "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
     },
     {
       "added_at": "2023-12-21 14:08:03",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-12-21 14:08:03",
       "album": {
-        "name": "Jazz (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "Don't Stop Me Now - Remastered 2011",
-      "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
-    },
-    {
-      "added_at": "2023-12-21 14:08:03",
-      "album": {
         "name": "Dear Wormwood",
         "url": "https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 165673,
       "name": "Soldier, Poet, King",
       "url": "https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg"
+    },
+    {
+      "added_at": "2023-12-21 14:08:03",
+      "album": {
+        "name": "Jazz (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "Don't Stop Me Now - Remastered 2011",
+      "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
     },
     {
       "added_at": "2023-12-21 14:08:03",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-12-21 14:08:03",
       "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 260893,
-      "name": "Angeleyes",
-      "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
-    },
-    {
-      "added_at": "2023-12-21 14:08:03",
-      "album": {
         "name": "Speaking in Tongues (Deluxe Version)",
         "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 296146,
       "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
       "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
+    },
+    {
+      "added_at": "2023-12-21 14:08:03",
+      "album": {
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 260893,
+      "name": "Angeleyes",
+      "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
     },
     {
       "added_at": "2023-12-21 14:08:03",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-12-21 14:08:03",
       "album": {
+        "name": "IO, ME ED ALTRI GUAI",
+        "url": "https://open.spotify.com/album/0EcYVyXLbn4z2KA8gBSmtS"
+      },
+      "artists": [
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        }
+      ],
+      "duration_ms": 177208,
+      "name": "IO, ME ED ALTRI GUAI",
+      "url": "https://open.spotify.com/track/6nOxxnYoJAgsQFhGxlk32L"
+    },
+    {
+      "added_at": "2023-12-21 14:08:03",
+      "album": {
         "name": "TAXI DRIVER",
         "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 188975,
       "name": "LA CODA DEL DIAVOLO (con ELODIE)",
       "url": "https://open.spotify.com/track/6oYcyS6salzWI1ysjEScFh"
-    },
-    {
-      "added_at": "2023-12-21 14:08:03",
-      "album": {
-        "name": "IO, ME ED ALTRI GUAI",
-        "url": "https://open.spotify.com/album/0EcYVyXLbn4z2KA8gBSmtS"
-      },
-      "artists": [
-        {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
-        }
-      ],
-      "duration_ms": 177208,
-      "name": "IO, ME ED ALTRI GUAI",
-      "url": "https://open.spotify.com/track/6nOxxnYoJAgsQFhGxlk32L"
     },
     {
       "added_at": "2023-12-21 14:08:03",
@@ -1707,18 +1707,26 @@
     {
       "added_at": "2023-12-21 14:08:03",
       "album": {
-        "name": "Just A Cloud Away",
-        "url": "https://open.spotify.com/album/2ojXtf3VwPgpxsFHYujwCY"
+        "name": "TAXI DRIVER",
+        "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
       },
       "artists": [
         {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Junior K",
+          "url": "https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ"
         }
       ],
-      "duration_ms": 176078,
-      "name": "Just A Cloud Away",
-      "url": "https://open.spotify.com/track/0DGTcMqvVR7fmBXgiG6jz4"
+      "duration_ms": 176772,
+      "name": "NUOVO RANGE (con SFERA EBBASTA)",
+      "url": "https://open.spotify.com/track/5YSR0sWUZk7NuIbkycxndu"
     }
   ],
   "unique_name": "una playlist felice",

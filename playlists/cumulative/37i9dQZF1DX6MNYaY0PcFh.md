@@ -4,11 +4,11 @@
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-111 songs - 6 hr 42 min
+112 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [345](https://open.spotify.com/track/5uD2NZgs3MKQHj9fUiVIZN) | [Hilts](https://open.spotify.com/artist/2UvkNW59ABnaOlkGXCGxot), [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1) | [345](https://open.spotify.com/album/5qV7RWCvG3uCjzt1MdAU0G) | 3:20 | 2023-04-27 |  |
+| [345](https://open.spotify.com/track/5uD2NZgs3MKQHj9fUiVIZN) | [Hilts](https://open.spotify.com/artist/2UvkNW59ABnaOlkGXCGxot), [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1) | [345](https://open.spotify.com/album/5qV7RWCvG3uCjzt1MdAU0G) | 3:20 | 2023-04-27 | 2024-01-10 |
 | [Ain't It Different \(feat\. AJ Tracey & Stormzy\) \- Conducta Remix](https://open.spotify.com/track/15rKTPi84iL42VG8ANdnr4) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn) | [Ain't It Different \- Conducta Remix \(feat\. AJ Tracey & Stormzy\)](https://open.spotify.com/album/0xbCYDk4vmhlHoa7TZ9t2l) | 3:46 | 2022-11-25 | 2023-09-19 |
 | [All Of Me \(Do For Love\)](https://open.spotify.com/track/2fzqWz8fV05O1RA6PfHFYc) | [Blinkie](https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j), [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4) | [All Of Me \(Do For Love\)](https://open.spotify.com/album/4ln6BUu9ajIKCntL6qGqCk) | 2:24 | 2023-04-27 |  |
 | [Alright \(feat\. Lucy Virji\)](https://open.spotify.com/track/1FlZn4gmHOIriuqNxWIyOX) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Lucy Virji](https://open.spotify.com/artist/21r2Bc1mCeYM6f8F5xzJ8E) | [Alright \(feat\. Lucy Virji\)](https://open.spotify.com/album/0EkRVya5ip9pn0Vp6Tj4Au) | 4:37 | 2022-11-25 | 2024-01-04 |
@@ -96,6 +96,7 @@
 | [REPLAY](https://open.spotify.com/track/78bKo5cD6JUPHfsY7sxSKj) | [ŚWIĘTY BASS](https://open.spotify.com/artist/2sklN95nQCwgpfPikUHPjP), [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ), [MoreNight](https://open.spotify.com/artist/20lI1hzkqOx9sBNAyjW54N) | [REPLAY](https://open.spotify.com/album/4rNLK6g8hfpXK5wkpHAZ6n) | 2:54 | 2023-09-22 |  |
 | [Satyr](https://open.spotify.com/track/2Cp7vXWA3ie2KcpWVN7Jk1) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [Satyr](https://open.spotify.com/album/0VJv3jujrhYMsfiTO9F3cb) | 4:45 | 2022-11-25 | 2023-04-28 |
 | [See Me](https://open.spotify.com/track/2VXRVqJ02WMnUlxTvwdtoz) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [SHIMA](https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI) | [See Me](https://open.spotify.com/album/7AfLC7I27rL70s7HFOmX3O) | 3:04 | 2023-09-01 |  |
+| [Show Me](https://open.spotify.com/track/5S8igEQLgDY0lMScgbyeHW) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH) | [Show Me](https://open.spotify.com/album/61AStQYO30jVau93JxRtXP) | 4:29 | 2024-01-03 |  |
 | [Show Me](https://open.spotify.com/track/0fOYe1mfPRzQ64zvMcqA59) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Show Me](https://open.spotify.com/album/3aF004NM1hTojpV1EMPy1M) | 3:28 | 2023-09-22 |  |
 | [Sing for Me](https://open.spotify.com/track/2i3Wvuhu6KEK66adUIVlA4) | [Taren Gopi](https://open.spotify.com/artist/5MvVc5EUCHIn6fJ4nGMyd0) | [Sing for Me](https://open.spotify.com/album/4O1bip4rAkJAiX19DVZrsr) | 4:34 | 2022-11-25 | 2023-03-23 |
 | [So U Kno](https://open.spotify.com/track/1YGxSgWIWqxKuLLocPVxhC) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 5:43 | 2023-04-27 | 2024-01-04 |

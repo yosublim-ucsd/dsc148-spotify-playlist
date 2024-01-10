@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Nicole Horts",
-  "num_followers": 113060,
+  "num_followers": 113024,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTVmZDZjZjU5MGQ5ZDA4NWJiNDY4YTk3M2E3MTU4MzQ5ZDE3Yjg1",
+  "snapshot_id": "MCxjZWZhMDliODhiN2M1MDQxYmQzNjE4OTU2MzJjZWU4MzM4NTdjMGE4",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Portales (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 184511,
+      "name": "Que Se Parezca A Ti",
+      "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 276904,
       "name": "ME TENGO QUE IR",
       "url": "https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Portales (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 184511,
-      "name": "Que Se Parezca A Ti",
-      "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -683,8 +683,8 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Aqu\u00ed Sigo",
-        "url": "https://open.spotify.com/album/3hr6FTGLuXCFvYnHuBpPaX"
+        "name": "Mil Maneras de Morir",
+        "url": "https://open.spotify.com/album/78YgWA7Ecdn1ettFiqH5ba"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
         }
       ],
-      "duration_ms": 158819,
-      "name": "Aqu\u00ed Sigo",
-      "url": "https://open.spotify.com/track/4NBbnTNp6oFMUlIDjOtXsB"
+      "duration_ms": 175000,
+      "name": "Mil Maneras de Morir",
+      "url": "https://open.spotify.com/track/7hmI4j25JJWODg80sWNTWS"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -811,8 +811,8 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Mil Maneras de Morir",
-        "url": "https://open.spotify.com/album/78YgWA7Ecdn1ettFiqH5ba"
+        "name": "Aqu\u00ed Sigo",
+        "url": "https://open.spotify.com/album/3hr6FTGLuXCFvYnHuBpPaX"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Mil Maneras de Morir",
-      "url": "https://open.spotify.com/track/7hmI4j25JJWODg80sWNTWS"
+      "duration_ms": 158819,
+      "name": "Aqu\u00ed Sigo",
+      "url": "https://open.spotify.com/track/4NBbnTNp6oFMUlIDjOtXsB"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1359,22 +1359,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "A la Carta",
-        "url": "https://open.spotify.com/album/7MOj5xWZV82U7TvBTW5kqH"
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/251ubhwCkD47ljB7FLK9DN"
       },
       "artists": [
         {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        },
-        {
-          "name": "Jossman",
-          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
         }
       ],
-      "duration_ms": 173400,
-      "name": "A la Carta",
-      "url": "https://open.spotify.com/track/22a4UCHSOGzypj67zyOVEH"
+      "duration_ms": 145413,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/2fw6liEffYRav3ORECpqvQ"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1395,18 +1391,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/251ubhwCkD47ljB7FLK9DN"
+        "name": "A la Carta",
+        "url": "https://open.spotify.com/album/7MOj5xWZV82U7TvBTW5kqH"
       },
       "artists": [
         {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        },
+        {
+          "name": "Jossman",
+          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
         }
       ],
-      "duration_ms": 145413,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/2fw6liEffYRav3ORECpqvQ"
+      "duration_ms": 173400,
+      "name": "A la Carta",
+      "url": "https://open.spotify.com/track/22a4UCHSOGzypj67zyOVEH"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1423,26 +1423,6 @@
       "duration_ms": 248000,
       "name": "B-Day",
       "url": "https://open.spotify.com/track/2fLC7a1iIloVs8M95GNCPz"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "m\u00e9todos.",
-        "url": "https://open.spotify.com/album/5wEe3ltvgEO1fSZr1AjJ2Y"
-      },
-      "artists": [
-        {
-          "name": "Carlos Unger",
-          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
-        },
-        {
-          "name": "Absa G.",
-          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
-        }
-      ],
-      "duration_ms": 207659,
-      "name": "ando chiple <\\3",
-      "url": "https://open.spotify.com/track/2PEA0leKNjKdrFeJ5ES7Hw"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1479,6 +1459,46 @@
       "duration_ms": 174339,
       "name": "Chulita",
       "url": "https://open.spotify.com/track/1evtsHnfBKGvUO2pSDCTww"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "m\u00e9todos.",
+        "url": "https://open.spotify.com/album/5wEe3ltvgEO1fSZr1AjJ2Y"
+      },
+      "artists": [
+        {
+          "name": "Carlos Unger",
+          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
+        },
+        {
+          "name": "Absa G.",
+          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
+        }
+      ],
+      "duration_ms": 207659,
+      "name": "ando chiple <\\3",
+      "url": "https://open.spotify.com/track/2PEA0leKNjKdrFeJ5ES7Hw"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "De Ti",
+        "url": "https://open.spotify.com/album/3jDYMCt4DiIWGcJUbZkaco"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 214080,
+      "name": "De Ti",
+      "url": "https://open.spotify.com/track/0VqA0mhqEslQXl5GZd1J9O"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1563,26 +1583,6 @@
       "duration_ms": 198533,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/3jtSXngSQ7DvjavyA8Z64x"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "De Ti",
-        "url": "https://open.spotify.com/album/3jDYMCt4DiIWGcJUbZkaco"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 214080,
-      "name": "De Ti",
-      "url": "https://open.spotify.com/track/0VqA0mhqEslQXl5GZd1J9O"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/2CkrTRjWLytC0Ihmm6GBQR"
+      },
+      "artists": [
+        {
+          "name": "FERCHO",
+          "url": "https://open.spotify.com/artist/5MkJLgGk2KS4XihPHuEXOU"
+        }
+      ],
+      "duration_ms": 138485,
+      "name": "Al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/56q9dVA6Fo4s0BAhUJRip8"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Nadie M\u00e1s",
         "url": "https://open.spotify.com/album/1AW4bjxaKeBCT2eYCqHy0d"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 202942,
       "name": "No Fui Solo Yo",
       "url": "https://open.spotify.com/track/1dcK53g1EHNpmWlGvt8Mhf"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/2CkrTRjWLytC0Ihmm6GBQR"
-      },
-      "artists": [
-        {
-          "name": "FERCHO",
-          "url": "https://open.spotify.com/artist/5MkJLgGk2KS4XihPHuEXOU"
-        }
-      ],
-      "duration_ms": 138485,
-      "name": "Al Rev\u00e9s",
-      "url": "https://open.spotify.com/track/56q9dVA6Fo4s0BAhUJRip8"
     },
     {
       "added_at": "2023-12-15 05:00:00",

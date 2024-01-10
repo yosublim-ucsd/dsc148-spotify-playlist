@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 
 > Soft songs that gives you a gentle start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,880 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,918 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 51 | [Bad Habits \- Acoustic Version](https://open.spotify.com/track/0IkK4SEryuCtbQjm5LRLMZ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits \(Acoustic Version\)](https://open.spotify.com/album/6m1jYE77JZX8aJpO5ei2V7) | 3:52 |
 | 52 | [Chasing Cars \- Acoustic](https://open.spotify.com/track/1abgR6pt8VzZRfiQa0KLlS) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Chasing Cars \(Acoustic\)](https://open.spotify.com/album/5zeqfd26JaUfCQNMAcNXN2) | 3:56 |
 | 53 | [Sweet Dream](https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao) | [Greg Laswell](https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC) | [Three Flights From Alto Nido](https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH) | 1:07 |
-| 54 | [see u tomorrow \- stripped](https://open.spotify.com/track/2yey1giM7ReLBWsGnlGqR1) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [see u tomorrow \(stripped\)](https://open.spotify.com/album/5vZlS7f7ZH0HJLdKgG9bJH) | 3:17 |
-| 55 | [Sorrow](https://open.spotify.com/track/18iNTpD8inRf8iWDcDCFbH) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Mystery](https://open.spotify.com/album/0c9oFRyzGPgAPQZ5Oj9TLe) | 3:12 |
+| 54 | [Sorrow](https://open.spotify.com/track/18iNTpD8inRf8iWDcDCFbH) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Mystery](https://open.spotify.com/album/0c9oFRyzGPgAPQZ5Oj9TLe) | 3:12 |
+| 55 | [see u tomorrow \- stripped](https://open.spotify.com/track/2yey1giM7ReLBWsGnlGqR1) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [see u tomorrow \(stripped\)](https://open.spotify.com/album/5vZlS7f7ZH0HJLdKgG9bJH) | 3:17 |
 | 56 | [Fill Me Up](https://open.spotify.com/track/2EsqgX8ZfyZrJqVTAowTvY) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Fill Me Up](https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14) | 2:34 |
 | 57 | [Rosie](https://open.spotify.com/track/09t8F6vwElB6scMtsGpyaP) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sometimes It's Something, Sometimes It's Nothing at All](https://open.spotify.com/album/3vgpygHRpJDWTVUXEqNTUR) | 1:58 |
 | 58 | [Free](https://open.spotify.com/track/3hOWsTM9OpI6c72iQHP4EB) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Free](https://open.spotify.com/album/5Gl9RkZgyNNKfcL8zXmxlB) | 3:19 |
@@ -92,10 +92,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 82 | [Malibu Nights](https://open.spotify.com/track/59ETcec0EX4fyuq9TlTAmR) | [Cole Norton](https://open.spotify.com/artist/4DTWz8iNRSxYYpHqPNCixy) | [Malibu Nights](https://open.spotify.com/album/2yU2mqKklmIE9bWWLDjLsW) | 3:36 |
 | 83 | [1979](https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [1979](https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg) | 4:50 |
 | 84 | [Sometimes I Feel](https://open.spotify.com/track/3EYPZf77N4PKCYbKpJAK7A) | [Lasse Skriver](https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp) | [Sometimes I Feel](https://open.spotify.com/album/6lCLB2OMj5ypVqKthI4E6r) | 2:27 |
-| 85 | [Chasing After the Moon](https://open.spotify.com/track/5KPoo3VVnP0DTA8JVj8Y4j) | [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Chasing After the Moon](https://open.spotify.com/album/5oAZS3TVg68hPGLlbkiP0u) | 3:58 |
-| 86 | [Hailey \- Acoustic](https://open.spotify.com/track/5q529aJou2KbRCzDj5TYtI) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Hailey \(Acoustic\)](https://open.spotify.com/album/4xEYNfrEr2Jz9e52KevWRm) | 3:28 |
-| 87 | [Nervous \- Acoustic](https://open.spotify.com/track/1ITmQCb2v9dRppSxruOb2q) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Nervous](https://open.spotify.com/album/7t9oaBvCxhJczm9WzdVTqf) | 4:10 |
-| 88 | [Wonderwall](https://open.spotify.com/track/4b6ru8IDPaVNw4ccHjYOSg) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Wonderwall](https://open.spotify.com/album/5dqiCzCXC1zrV6H6RDoLKe) | 3:56 |
+| 85 | [Hailey \- Acoustic](https://open.spotify.com/track/5q529aJou2KbRCzDj5TYtI) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Hailey \(Acoustic\)](https://open.spotify.com/album/4xEYNfrEr2Jz9e52KevWRm) | 3:28 |
+| 86 | [Chasing After the Moon](https://open.spotify.com/track/5KPoo3VVnP0DTA8JVj8Y4j) | [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Chasing After the Moon](https://open.spotify.com/album/5oAZS3TVg68hPGLlbkiP0u) | 3:58 |
+| 87 | [Wonderwall](https://open.spotify.com/track/4b6ru8IDPaVNw4ccHjYOSg) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Wonderwall](https://open.spotify.com/album/5dqiCzCXC1zrV6H6RDoLKe) | 3:56 |
+| 88 | [Nervous \- Acoustic](https://open.spotify.com/track/1ITmQCb2v9dRppSxruOb2q) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Nervous](https://open.spotify.com/album/7t9oaBvCxhJczm9WzdVTqf) | 4:10 |
 | 89 | [One Life \- Acoustic](https://open.spotify.com/track/39oAsq0WaFq1I4SzPN3vbj) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Leap \(Deluxe Edition\)](https://open.spotify.com/album/7mmPsJx2nVfmeLoNV2l8ZN) | 3:19 |
 | 90 | [I'm Sure He Loves You](https://open.spotify.com/track/5kvHwA4cQJqyafyW9Zik3p) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [I'm Sure He Loves You](https://open.spotify.com/album/3rokBmy1OT8QQtSq8zfw8w) | 3:03 |
 | 91 | [Breathe \- Acoustic](https://open.spotify.com/track/0XjVo7NzYlgQDgMt4s3IqX) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Neev](https://open.spotify.com/artist/4Ww02MqPOCYw0CufxePGkC) | [Breathe \(Acoustic\)](https://open.spotify.com/album/0sGeMxvcV4ggQUdSimDSe5) | 4:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 99 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/3pAsI7X41AWYTeH50ryxAs) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/2hfiqE3A9MDiS0VbGhWLYr) | 2:43 |
 | 100 | [Better Than Today](https://open.spotify.com/track/1r7J0ELqOw62KVlgjrmKnw) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX) | 3:49 |
 
-Snapshot ID: `MCxhNTI3OWUzNjE0MDg1YTk1ZTZjZjZiODcwOTkyNTg3MzUzZTIzOGU0`
+Snapshot ID: `MCw2MzQzYWQ0NDQ0ODEwMDA1YThhNDkwNzQ5ZDM0NzY1NDQxNTA3NzM3`

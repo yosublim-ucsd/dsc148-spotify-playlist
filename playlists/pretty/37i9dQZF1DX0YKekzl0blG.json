@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDhhNGYzYzUxZjMxMGFiM2JkMmNlODI5YzI3YjQ3MDRlMzljZTU0",
+  "snapshot_id": "MCw4NmE3MWRkOGZkM2YyYWJjMjg5MTA2NDI5YmVjNGJhMjIzYWM0MzM4",
   "tracks": [
     {
       "added_at": "2022-11-17 20:15:32",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "Harder, Better, Faster, Stronger",
-      "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
-    },
-    {
-      "added_at": "2022-11-17 20:15:32",
-      "album": {
         "name": "O My Heart",
         "url": "https://open.spotify.com/album/41U6Qbx5KxhHYIuwlK3lXA"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 181680,
       "name": "Hayloft",
       "url": "https://open.spotify.com/track/2kKkl59fY6Cic1CmhvSEZK"
+    },
+    {
+      "added_at": "2022-11-17 20:15:32",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "Harder, Better, Faster, Stronger",
+      "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
     },
     {
       "added_at": "2022-11-17 20:15:32",
@@ -523,6 +523,22 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
+        "name": "Vampire Weekend",
+        "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 137760,
+      "name": "A-Punk",
+      "url": "https://open.spotify.com/track/3AydAydLzyyZutA0375XIz"
+    },
+    {
+      "added_at": "2022-11-17 20:15:32",
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/0ajuOfBlVf6XlnaZAYUVBf"
       },
@@ -555,22 +571,6 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
-        "name": "Vampire Weekend",
-        "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 137760,
-      "name": "A-Punk",
-      "url": "https://open.spotify.com/track/3AydAydLzyyZutA0375XIz"
-    },
-    {
-      "added_at": "2022-11-17 20:15:32",
-      "album": {
         "name": "For Emma, Forever Ago",
         "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
-        "name": "Broken Boy Soldiers",
-        "url": "https://open.spotify.com/album/4Z1sCXBHHKWCsScOLAfuig"
-      },
-      "artists": [
-        {
-          "name": "The Raconteurs",
-          "url": "https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "Steady, As She Goes",
-      "url": "https://open.spotify.com/track/4xlEKYv7HmC8zXoJIbpZKM"
-    },
-    {
-      "added_at": "2022-11-17 20:15:32",
-      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 232666,
       "name": "Something About Us",
       "url": "https://open.spotify.com/track/1NeLwFETswx8Fzxl2AFl91"
+    },
+    {
+      "added_at": "2022-11-17 20:15:32",
+      "album": {
+        "name": "Broken Boy Soldiers",
+        "url": "https://open.spotify.com/album/4Z1sCXBHHKWCsScOLAfuig"
+      },
+      "artists": [
+        {
+          "name": "The Raconteurs",
+          "url": "https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "Steady, As She Goes",
+      "url": "https://open.spotify.com/track/4xlEKYv7HmC8zXoJIbpZKM"
     },
     {
       "added_at": "2022-11-17 20:15:32",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
-        "name": "Get Behind Me Satan",
-        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 157560,
-      "name": "Blue Orchid",
-      "url": "https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1"
-    },
-    {
-      "added_at": "2022-11-17 20:15:32",
-      "album": {
         "name": "Walking On A Dream",
         "url": "https://open.spotify.com/album/3qFui1PcteHFky44CeUflG"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 198440,
       "name": "Walking On A Dream",
       "url": "https://open.spotify.com/track/3HfhB8sYqLlVmpBPb7cc2x"
+    },
+    {
+      "added_at": "2022-11-17 20:15:32",
+      "album": {
+        "name": "Get Behind Me Satan",
+        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 157560,
+      "name": "Blue Orchid",
+      "url": "https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1"
     },
     {
       "added_at": "2022-11-17 20:15:32",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
-        "name": "Return To Cookie Mountain",
-        "url": "https://open.spotify.com/album/4sD8WQQ8f1x3L4YFa9qFIO"
-      },
-      "artists": [
-        {
-          "name": "TV On The Radio",
-          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
-        }
-      ],
-      "duration_ms": 277466,
-      "name": "Wolf Like Me",
-      "url": "https://open.spotify.com/track/6Zgd7SomLTZkL1WPh4CUnV"
-    },
-    {
-      "added_at": "2022-11-17 20:15:32",
-      "album": {
         "name": "Starfucker",
         "url": "https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
-        "name": "The Coral",
-        "url": "https://open.spotify.com/album/6Fhnezpt7TKojq1ufkZ5qA"
+        "name": "Return To Cookie Mountain",
+        "url": "https://open.spotify.com/album/4sD8WQQ8f1x3L4YFa9qFIO"
       },
       "artists": [
         {
-          "name": "The Coral",
-          "url": "https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt"
+          "name": "TV On The Radio",
+          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
         }
       ],
-      "duration_ms": 141000,
-      "name": "Dreaming of You",
-      "url": "https://open.spotify.com/track/6ebxt3Iylxe0GcEuUGlIvb"
+      "duration_ms": 277466,
+      "name": "Wolf Like Me",
+      "url": "https://open.spotify.com/track/6Zgd7SomLTZkL1WPh4CUnV"
     },
     {
       "added_at": "2022-11-17 20:15:32",
@@ -1015,6 +999,22 @@
       "duration_ms": 242266,
       "name": "D.A.N.C.E",
       "url": "https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ"
+    },
+    {
+      "added_at": "2022-11-17 20:15:32",
+      "album": {
+        "name": "The Coral",
+        "url": "https://open.spotify.com/album/6Fhnezpt7TKojq1ufkZ5qA"
+      },
+      "artists": [
+        {
+          "name": "The Coral",
+          "url": "https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Dreaming of You",
+      "url": "https://open.spotify.com/track/6ebxt3Iylxe0GcEuUGlIvb"
     },
     {
       "added_at": "2022-11-17 20:15:32",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
-        "name": "Push The Button",
-        "url": "https://open.spotify.com/album/715rku55lldqdw9WiEuPgi"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        }
-      ],
-      "duration_ms": 393813,
-      "name": "Galvanize",
-      "url": "https://open.spotify.com/track/4bz7uB4edifWKJXSDxwHcs"
-    },
-    {
-      "added_at": "2022-11-17 20:15:32",
-      "album": {
         "name": "Elephant",
         "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
       },
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
-        "name": "The Covers Record",
-        "url": "https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND"
+        "name": "Push The Button",
+        "url": "https://open.spotify.com/album/715rku55lldqdw9WiEuPgi"
       },
       "artists": [
         {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
         }
       ],
-      "duration_ms": 139466,
-      "name": "Sea of Love",
-      "url": "https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X"
+      "duration_ms": 393813,
+      "name": "Galvanize",
+      "url": "https://open.spotify.com/track/4bz7uB4edifWKJXSDxwHcs"
     },
     {
       "added_at": "2022-11-17 20:15:32",
@@ -1143,6 +1127,22 @@
       "duration_ms": 258453,
       "name": "Crimewave",
       "url": "https://open.spotify.com/track/1xzsEmaU4IXjvxxwQlA8Lz"
+    },
+    {
+      "added_at": "2022-11-17 20:15:32",
+      "album": {
+        "name": "The Covers Record",
+        "url": "https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 139466,
+      "name": "Sea of Love",
+      "url": "https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X"
     },
     {
       "added_at": "2022-11-17 20:15:32",

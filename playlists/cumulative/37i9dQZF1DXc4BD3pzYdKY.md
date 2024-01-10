@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:0GdzQJqgRL5SHp7kXOKba0">Wande</a>
 
-881 songs - 1 day 19 hr 51 min
+882 songs - 1 day 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Beautiful](https://open.spotify.com/track/4B15esl9pBFYa82fLVPD2H) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Beautiful](https://open.spotify.com/album/3iykAdVTHoLauG1SXi2cEt) | 2:49 | 2022-08-06 | 2023-08-26 |
 | [Been About It](https://open.spotify.com/track/7BmwARA7tuxdIYq59xSDFf) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Never Land II](https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL) | 2:21 | 2021-12-11 | 2022-05-29 |
 | [believe](https://open.spotify.com/track/7cwcU3UHeJs4RejjIhDoKt) | [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [believe](https://open.spotify.com/album/0y47M4ia6gXB0QCJ7tz012) | 2:35 | 2022-08-06 | 2023-05-03 |
-| [Bend The Whip](https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Bend The Whip](https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB) | 2:43 | 2023-08-25 |  |
+| [Bend The Whip](https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Bend The Whip](https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB) | 2:43 | 2023-08-25 | 2024-01-10 |
 | [Best I Can](https://open.spotify.com/track/5FE26lUA2lpy8ksOzJ2V5u) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Seaux Chill](https://open.spotify.com/artist/1m9azqggcxRtwUD9awNYTV), [Andrew Blooms](https://open.spotify.com/artist/5o17ihVicRuwiD54GBZpt1), [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N) | [Best I Can](https://open.spotify.com/album/57JMmTiuiVqE3z8uYKTzaD) | 4:16 | 2022-09-11 | 2022-09-17 |
 | [BEST NIGHT](https://open.spotify.com/track/5gwjlmywKglmE8y4lVBV0j) | [RAY G](https://open.spotify.com/artist/1mGgGsYIUyBrrYQNL9XD5C), [OnBeatMusic](https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj), [Joey Vantes](https://open.spotify.com/artist/7hJoApA9cwgCqWGvIhbCyc), [A\. Ruiz](https://open.spotify.com/artist/5chrjHIlDZQyVadLbWzgbO) | [BEST NIGHT](https://open.spotify.com/album/4unZ0GkcZuI9qWIdF77eiL) | 2:41 | 2022-05-28 | 2022-10-04 |
 | [Best Version of Me \- Pt\. 2](https://open.spotify.com/track/28zHBm2DbG4pJ0RcCsiIMg) | [Larell](https://open.spotify.com/artist/46GtWnG0MVdRyU86tvB2zw) | [Best Version of Me \(Pt\. 2\)](https://open.spotify.com/album/2Bm4LMRaJ6jn6Q4AN0kvNl) | 2:25 | 2023-02-24 | 2023-07-06 |
@@ -620,6 +620,7 @@
 | [PRESS](https://open.spotify.com/track/4IbeLxSiXnD79Ozl6FvGxu) | [J\. Crum](https://open.spotify.com/artist/6ZvBaBl5ozrLIBxBAKpGDt), [Ayo Shamir](https://open.spotify.com/artist/3Xy4ZQ2ZZxGL3W8SBGHOo7) | [PRESS](https://open.spotify.com/album/1oqbZovUcI56wT3h7O9IAk) | 2:27 | 2022-02-04 | 2022-04-29 |
 | [Press Play](https://open.spotify.com/track/3DNuA9Bm2EJCHjK2LbPcK2) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Play!](https://open.spotify.com/album/376W7E1CjMqgBrYZK5GTuM) | 3:15 | 2023-12-15 |  |
 | [PRESSURE](https://open.spotify.com/track/1hqAriaUctIMv62hDNBLWi) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [PRESSURE](https://open.spotify.com/album/5vrLASRbLFy32QQpAvLkEL) | 2:37 | 2022-07-17 | 2022-09-12 |
+| [Price](https://open.spotify.com/track/67cCjP8dlKUSksGSUMSLYv) | [TKE3](https://open.spotify.com/artist/0t3vIkZ0lGE9vg88edFFci) | [Summer TKE](https://open.spotify.com/album/4pDg3A1H6ndti3NwXjrfHH) | 2:55 | 2024-01-05 |  |
 | [Price \(feat\. Eshon Burgundy\)](https://open.spotify.com/track/3yeXapHL4Seqxx02IEocw8) | [Double Atl](https://open.spotify.com/artist/5IVXa5D4ctnpdKOHrWHDMh), [Eshon Burgundy](https://open.spotify.com/artist/25VsRrXJg8wvvMSSVwmp8E) | [Price \(feat\. Eshon Burgundy\)](https://open.spotify.com/album/2W5mlEL9qDY0Mz3BZTkZ2c) | 3:16 | 2021-12-11 | 2022-04-29 |
 | [PRIVILEGE](https://open.spotify.com/track/6odGwfkWyotCgqC7deWuna) | [Experience Voices](https://open.spotify.com/artist/0OYRW0ZUoU6EiaDjssH0UC), [A.I\. The Anomaly](https://open.spotify.com/artist/3PoVfuLf8nvX4HLntiLTUa) | [PRIVILEGE](https://open.spotify.com/album/4Dc7fgbSdGadbEAepsfYb3) | 3:08 | 2023-08-25 | 2023-09-01 |
 | [PROBLEMATIC \(feat\. Travis Hobson\) \- Remix](https://open.spotify.com/track/7vHeVhBP5XS9bX4INHAVHw) | [Kham](https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De), [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI), [Travis Hobson](https://open.spotify.com/artist/5shBzJB6QpkKp6imLBqnMR) | [PROBLEMATIC \(Remix\) \[feat\. Travis Hobson\]](https://open.spotify.com/album/5b9tiP4w6snbFuC8RD1Y86) | 2:23 | 2022-04-29 | 2022-08-07 |

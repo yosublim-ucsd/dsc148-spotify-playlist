@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfSNTZNgABD.md) - [plain]
 
 > The Latin soundtrack of the 2000s! Cover: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,700 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,545 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfSNTZNgABD.md) - [plain]
 | 66 | [Te He Querido, Te He Llorado](https://open.spotify.com/track/61HuVAedKGMO7jWl8ZyALQ) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Flashback](https://open.spotify.com/album/7tKeiurj0n5DmV57x7p6U4) | 4:13 |
 | 67 | [Mariposa Traicionera](https://open.spotify.com/track/2USyvcBpPjhW0rgiD2R8Bp) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Six Pack: Maná \- EP](https://open.spotify.com/album/7gBsvCKyShR2OQ6h0RXF28) | 4:24 |
 | 68 | [Mientes Tan Bien](https://open.spotify.com/track/7hbgCKddEQhCVXHsMdHebN) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Hasta Ahora](https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH) | 3:49 |
-| 69 | [Pobre Diabla](https://open.spotify.com/track/1xbw6jObdWhPSoN9MflOSA) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don Live](https://open.spotify.com/album/0hFZpkgYSp761ZOM2EOZWQ) | 4:14 |
+| 69 | [¿Quién Te Dijo Eso?](https://open.spotify.com/track/159yUhKZg2ZAdt0HknTqDr) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Abrazar La Vida](https://open.spotify.com/album/7u8IWfPzlYcqN4N6tU4FcW) | 4:31 |
 | 70 | [Nuestro Amor](https://open.spotify.com/track/7F7qwp7VZRVwZsNoddRRgX) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Nuestro Amor](https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF) | 3:35 |
-| 71 | [¿Quién Te Dijo Eso?](https://open.spotify.com/track/159yUhKZg2ZAdt0HknTqDr) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Abrazar La Vida](https://open.spotify.com/album/7u8IWfPzlYcqN4N6tU4FcW) | 4:31 |
-| 72 | [A Puro Dolor](https://open.spotify.com/track/3BmwNuqx9pCqjLplOVNBLY) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Son By 4](https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq) | 4:21 |
-| 73 | [Ni Una Sola Palabra](https://open.spotify.com/track/5xXYuYk2CzHfk3kLKYmRRb) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Ananda](https://open.spotify.com/album/3crF1rm8dNCybqtUd1gNZj) | 3:44 |
+| 71 | [Pobre Diabla](https://open.spotify.com/track/1xbw6jObdWhPSoN9MflOSA) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don Live](https://open.spotify.com/album/0hFZpkgYSp761ZOM2EOZWQ) | 4:14 |
+| 72 | [Ni Una Sola Palabra](https://open.spotify.com/track/5xXYuYk2CzHfk3kLKYmRRb) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Ananda](https://open.spotify.com/album/3crF1rm8dNCybqtUd1gNZj) | 3:44 |
+| 73 | [A Puro Dolor](https://open.spotify.com/track/3BmwNuqx9pCqjLplOVNBLY) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Son By 4](https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq) | 4:21 |
 | 74 | [Guasa Guasa \(feat\. Voltio\)](https://open.spotify.com/track/7gXoDdtHUAT58STSAjhmLu) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP), [Voltio](https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA) | [El Enemy de Los Guasíbiri](https://open.spotify.com/album/69rKlAM3KXEHw6vPtM6e9L) | 5:18 |
 | 75 | [The Anthem](https://open.spotify.com/track/2cZ5ACJfBj2uAXARdHpjAW) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [The Boatlift](https://open.spotify.com/album/7m9AYxqeFPagkaqlg6WE0J) | 4:05 |
 
-Snapshot ID: `MCw3MGM4MTgxZmFjNTUyYmYwMGU2MTA5ODhhNWQ4MmZkMTkzMjNiMTM1`
+Snapshot ID: `MCw4ZjU1NTlkYWQzMTE1YWMwMTYxNTg1Mzk2Mjk0NjZjZDQyZThmYzFm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pXaXS.md) - [plain]
 
 > This is The Police\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,839 likes - 44 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,865 likes - 44 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pXaXS.md) - [plain]
 | 31 | [It's Alright For You](https://open.spotify.com/track/5fTI7JCaMRK09WtwG8ZrRK) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Reggatta De Blanc \(Remastered 2003\)](https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6) | 3:12 |
 | 32 | [Demolition Man](https://open.spotify.com/track/4cAWzXWGoRIezpTy9ZiDRg) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Remastered 2003\)](https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h) | 5:57 |
 | 33 | [Every Little Thing She Does Is Magic \- Live From River Plate Stadium, Buenos Aires](https://open.spotify.com/track/25Pifu9g726ZBSsBARVati) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Certifiable \(Live in Buenos Aires\)](https://open.spotify.com/album/2Dz4qhsr2dWMcRLVP7474f) | 4:40 |
-| 34 | [Fall Out](https://open.spotify.com/track/0hAyb0O9Ft16QAjtLMRCJE) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [The Police](https://open.spotify.com/album/0QV6T4VzyWkF1eJed2eRcP) | 2:03 |
-| 35 | [I Burn For You](https://open.spotify.com/track/4vXZgd53m0p0UdFNjEbp2f) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Alternate Sequence\)](https://open.spotify.com/album/2796tQP9Fel4s4zaCX66Oo) | 3:07 |
+| 34 | [I Burn For You](https://open.spotify.com/track/4vXZgd53m0p0UdFNjEbp2f) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Alternate Sequence\)](https://open.spotify.com/album/2796tQP9Fel4s4zaCX66Oo) | 3:07 |
+| 35 | [Fall Out](https://open.spotify.com/track/0hAyb0O9Ft16QAjtLMRCJE) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [The Police](https://open.spotify.com/album/0QV6T4VzyWkF1eJed2eRcP) | 2:03 |
 | 36 | [A Sermon](https://open.spotify.com/track/5YlavkDAyN6SM6jtmJzuPP) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 2:32 |
 | 37 | [Can't Stand Losing You/Reggatta De Blanc \- Live From River Plate Stadium, Buenos Aires](https://open.spotify.com/track/7qXOUUDmgkYql3k9AJUeIw) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Certifiable \(Live in Buenos Aires\)](https://open.spotify.com/album/2Dz4qhsr2dWMcRLVP7474f) | 6:30 |
 | 38 | [We Are the Police](https://open.spotify.com/track/1cNHW91XkcPxisLZuDbc0h) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH), [Adam Driver](https://open.spotify.com/artist/37eFQoWqQ7wwYH8OuLXY9M), [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Annette \(Unlimited Edition\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/1qqZSTptKt9zXK4zJkkNPf) | 1:22 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pXaXS.md) - [plain]
 | 43 | [Dead End Job](https://open.spotify.com/track/1wLiJWt0YABFCJxHnYIoDj) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 3:35 |
 | 44 | [Friends](https://open.spotify.com/track/1baFho4VmA5H4nZjYMRxDE) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 3:36 |
 
-Snapshot ID: `Mjg0MTE4OTksMDAwMDAwMDAzNzQ3NDZlMDQ3MzMxMTNkYzA5OGFmMTkyYTRlNjM5Yg==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDAzZGZjMjcyNWNjMWRjOWMxN2QzOGI1MTc5NzEzMTIwZg==`

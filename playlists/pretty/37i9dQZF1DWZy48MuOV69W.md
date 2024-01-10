@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 
 > Cozy and jazzy interpretations of all your favourite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,334 likes - 55 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,306 likes - 55 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 | 45 | [All Through The Night](https://open.spotify.com/track/560YAqeXWWXZ1u9ydYQanQ) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [A Nancy Wilson Christmas](https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1) | 3:57 |
 | 46 | [Christmas Morning](https://open.spotify.com/track/1F1hIbXmFT3cb6oDv3hoal) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [The Very Best Time Of Year](https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1) | 2:58 |
 | 47 | [What Are You Doing New Year's Eve](https://open.spotify.com/track/0K5JvHdRiqnMKtNfDfljJx) | [Joe Stilgoe](https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am) | [Joe Stilgoe's Christmas Album](https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1) | 2:50 |
-| 48 | [O Come All Ye Faithful](https://open.spotify.com/track/7blQL8x8MJNBVrN6x7Jcjb) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui) | 4:14 |
-| 49 | [Auld Lang Syne](https://open.spotify.com/track/2rQ9JzgsnYrY4mmlMaSDUH) | [David Tobin](https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb), [Jeff Meegan](https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8) | [Pretty Swingin' Christmas](https://open.spotify.com/album/6gC08N6tOwaZutYVa1okgU) | 2:09 |
+| 48 | [Auld Lang Syne](https://open.spotify.com/track/2rQ9JzgsnYrY4mmlMaSDUH) | [David Tobin](https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb), [Jeff Meegan](https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8) | [Pretty Swingin' Christmas](https://open.spotify.com/album/6gC08N6tOwaZutYVa1okgU) | 2:09 |
+| 49 | [O Come All Ye Faithful](https://open.spotify.com/track/7blQL8x8MJNBVrN6x7Jcjb) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui) | 4:14 |
 | 50 | [Silent Night](https://open.spotify.com/track/0yplKXN6RMNEEF54PRo9DG) | [Silvio Thompson Band](https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C) | ['Tis The Season](https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ) | 3:20 |
 | 51 | [Christmas Blues](https://open.spotify.com/track/3zGmF8FaNTnHq25YlWYhIQ) | [Holly Cole](https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX) | [Jazz To The World](https://open.spotify.com/album/48ZEjUeHqGxS6icwwRMuRh) | 2:57 |
 | 52 | [Jingle Bells](https://open.spotify.com/track/42xLgS2PPfJMj45AHNDLfb) | [Luca Francis](https://open.spotify.com/artist/3FgLeRMQZpS804lwNv3i7a) | [It's Christmas Time](https://open.spotify.com/album/33c9tUex88FIIpVhGtdXYO) | 2:39 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 | 54 | [Christmas Memories](https://open.spotify.com/track/1g7y6l9D4nd9N0f34sNHyy) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz), [Vivian Buczek](https://open.spotify.com/artist/7pvJqc7hW0HQjoa89jfDPq) | [The Christmas Feeling](https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx) | 4:58 |
 | 55 | [Sleighride](https://open.spotify.com/track/1rlOKavLOXeUIStHSy71a2) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [The Season](https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG) | 2:46 |
 
-Snapshot ID: `MCwxN2ZlMzU5YzBiZjBlMWNhZGVhYjk0ZmJmYzQzY2JkZDIwOWYxYThl`
+Snapshot ID: `MCxkYWU1Y2I1MmFmODg4NTdlYmQ3ZmIwNDBiMTRhN2IwZTQyYmZmNDc5`

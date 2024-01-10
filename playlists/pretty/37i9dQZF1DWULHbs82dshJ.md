@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULHbs82dshJ.md) - [plain]
 
 > Trapperz Brasil apresenta..\. O Melhor do Hip Hop 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,030 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,228 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULHbs82dshJ.md) - [plain]
 | 39 | [Mandona \(Se eu te dissesse\)](https://open.spotify.com/track/0yZRkiCSy4ra9EykuYyGo0) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [Mandona \(Se eu te dissesse\)](https://open.spotify.com/album/2yvtupawElKVIkRkKQJpdK) | 2:07 |
 | 40 | [Preferida](https://open.spotify.com/track/5TtTijiNYtFc6ktQARjY30) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Contradições](https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D) | 2:10 |
 | 41 | [Atlanta \- Spotify Singles](https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Atlanta \- Spotify Singles](https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY) | 2:01 |
-| 42 | [VIVÊNCIAS DO TRAP](https://open.spotify.com/track/1RuqE9yKztjJcEL9D5MFM1) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Jé Santiago](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Trap The Fato Deluxe](https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t) | 2:37 |
+| 42 | [VIVÊNCIAS DO TRAP](https://open.spotify.com/track/1RuqE9yKztjJcEL9D5MFM1) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Jé](https://open.spotify.com/artist/0GcXk5A4PY2VwRqF5bX3q5), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Trap The Fato Deluxe](https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t) | 2:37 |
 | 43 | [Manda Áudio](https://open.spotify.com/track/106v1J8uUOsa6Q0pAcxsKr) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T), [Vice\-Versa](https://open.spotify.com/artist/3uFYZKcA0ABjsnxzgEBhKX) | [Manda Áudio](https://open.spotify.com/album/51Jdr9EBtQHruGrmzNZF5h) | 2:18 |
 | 44 | [Jardim das Flores](https://open.spotify.com/track/2guOhSMSG1p8WePFWhkhlj) | [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Jardim das Flores](https://open.spotify.com/album/1n1QRIqGrKqhoDjyXWMoKo) | 3:23 |
 | 45 | [Ironicamente](https://open.spotify.com/track/5gu1NP4sMlYv5eYoYdtTtt) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [No Cutty](https://open.spotify.com/artist/1Z3YNZcUqXypOajb1Y7naJ) | [É Quem?](https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULHbs82dshJ.md) - [plain]
 | 49 | [INJURIADO](https://open.spotify.com/track/0Z04QToWHQUCzRT7OT99sE) | [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY) | [INJURIADO](https://open.spotify.com/album/54icBT2gO11RCf5RESZIbZ) | 2:30 |
 | 50 | [Ak do Freddy Krueger](https://open.spotify.com/track/1wkEiN7312E1KM5BnKvk4D) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd), [Nandela](https://open.spotify.com/artist/5ZBgyN7hk6t2s74XcQyxrY) | [Censurado pela Mídia, Amado pelas Ruas](https://open.spotify.com/album/2HKewBzZuFdsbVjl4jJlCu) | 3:16 |
 
-Snapshot ID: `MCwwOTA0ODljMDcyZTBjZmNlZWIzNTAyZDhhNTQwMDIzMzU5ZWYxZmI0`
+Snapshot ID: `MCxlY2RhYTY3ZTcxMjIzMGIxMDdlN2ViMzgyZDUxNDc4M2UwMGNjNGY1`

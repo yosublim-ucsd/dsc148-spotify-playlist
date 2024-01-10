@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Cashflow x Batuflex
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328,485 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,327,557 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [İstanbul](https://open.spotify.com/track/5WO3fQkU2Stfv6LGzwhwFL) | [Cash Flow](https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [İstanbul](https://open.spotify.com/album/2M1gxZdQbljVxyv4IUGgHA) | 2:52 |
+| 1 | [İstanbul](https://open.spotify.com/track/5WO3fQkU2Stfv6LGzwhwFL) | [Cash Flow](https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [İstanbul](https://open.spotify.com/album/2M1gxZdQbljVxyv4IUGgHA) | 2:23 |
 | 2 | [SIMARIK](https://open.spotify.com/track/5m0FBZ3g71Tv2v5XYZ4pKv) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [YOUNGSTA](https://open.spotify.com/album/65dEDwbxXWzx93f6Vs5A0Q) | 2:52 |
 | 3 | [Salla Salla](https://open.spotify.com/track/3BMS2ZxodzjxPKzb2iHxze) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Salla Salla](https://open.spotify.com/album/3vSlUhmre7ioPlQn424IYD) | 2:26 |
 | 4 | [MINI TERORISTA](https://open.spotify.com/track/6kvf06eThDCrvYknMY32To) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [MINI TERORISTA](https://open.spotify.com/album/2NtepMpiLssGo9t2fSIhEG) | 2:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [Özür](https://open.spotify.com/track/0K2nzvf5Pn6IO0Xyt36iNi) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r) | [Özür](https://open.spotify.com/album/2qxO3eFHhuGDuFltNeXKjg) | 2:15 |
 | 50 | [İmparator](https://open.spotify.com/track/7lOGCEsmoHqai3PHS9kbTa) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [İmparator](https://open.spotify.com/album/7fzrnc30uFdoKs3MYCExre) | 2:04 |
 
-Snapshot ID: `MCw4NjRkNzUzYmM1MjZiYmZhODkzYzM5YjBhYjQ5YzY5NDQ2M2VmNGFi`
+Snapshot ID: `MCxiNGQxMGE4ODdlYTBlMWJiZTEzNjA1MzQ0OWRkYWI0NTVlYzIxNmIy`

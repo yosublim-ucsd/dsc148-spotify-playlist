@@ -4,7 +4,7 @@
 
 > 
 
-1,102 songs - 2 day 13 hr 56 min
+1,103 songs - 2 day 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -760,6 +760,7 @@
 | [Promises](https://open.spotify.com/track/0tmeu6I6OfJKpg27bv2b0g) | [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX) | [Promises](https://open.spotify.com/album/2dSMKc55iVSGXF9g3kj0SS) | 2:42 | 2023-12-01 |  |
 | [Psychedelic People](https://open.spotify.com/track/2jVbZ700af5pTEYw1mkD27) | [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk) | [Psychedelic People](https://open.spotify.com/album/0pVbsYaYgFNp1MKMDnGSsc) | 2:45 | 2022-10-30 |  |
 | [Psycho Beat](https://open.spotify.com/track/19jPCliIHPcdKIzBla67D0) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [Psycho Beat](https://open.spotify.com/album/5dRGVjIEBAAD61x0griP1Y) | 2:45 | 2023-05-06 |  |
+| [PSYCHO DREAMS \- HARDSTYLE](https://open.spotify.com/track/5qNOG75Y2P8qHNOV5Pf7vV) | [Xen Hardstyle](https://open.spotify.com/artist/7E6vGROS2Nz2lmexz1dtgo) | [PSYCHO DREAMS \(HARDSTYLE\)](https://open.spotify.com/album/7f2D5i3qsOs0SjWv0DXosj) | 1:51 | 2024-01-09 |  |
 | [Psychopath](https://open.spotify.com/track/5BQxtpXiJFMCqjKFklX7xo) | [Tha Playah](https://open.spotify.com/artist/6MUXMQLSPFynFBwF2Qz2CU), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Psychopath](https://open.spotify.com/album/1lDlO2niOnrZPbzGwMez5e) | 3:37 | 2023-04-21 |  |
 | [PUMP IT UP](https://open.spotify.com/track/7og4dSLshCpkNEtCDOxlmw) | [Malok](https://open.spotify.com/artist/4NQLpIqkmTLrI16VEM1WEY) | [PUMP IT UP](https://open.spotify.com/album/5GXSqpReaQ2l9ldlM0hCxY) | 2:21 | 2023-04-14 |  |
 | [Pump The Party](https://open.spotify.com/track/1kRnSIjXQHiTGSzXyXSLzu) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [TOO FAST](https://open.spotify.com/album/4AnDQnvSjUu2KFJ6M3egdF) | 2:49 | 2023-06-30 |  |

@@ -1,12 +1,12 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 187784,
+  "num_followers": 187870,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzJmYjhhYTMxZGYzMzFjYzk3YTA0YWM0ZTViOWJiOTQ0Y2Y1ZGIx",
+  "snapshot_id": "MCxhMzk5YmJlMGViM2YwMDI3YzRkOTYwZDZlZWI1MmYyNDU1ZmFiODA3",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:21",
@@ -99,22 +99,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "I'll Fight for You",
-        "url": "https://open.spotify.com/album/59GGbgQ7lQ6dk2Jz8ClAsy"
-      },
-      "artists": [
-        {
-          "name": "Britt Nicole",
-          "url": "https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK"
-        }
-      ],
-      "duration_ms": 167403,
-      "name": "I'll Fight for You",
-      "url": "https://open.spotify.com/track/4XOw2RRfBVFEmJFm4MDGPm"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "What Are We Waiting For?",
         "url": "https://open.spotify.com/album/6h95CVsuRQt0SHA0MtjpWW"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 191283,
       "name": "Broken Halos",
       "url": "https://open.spotify.com/track/7dlCAK8HdnI6UGHqZkfvJT"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "I'll Fight for You",
+        "url": "https://open.spotify.com/album/59GGbgQ7lQ6dk2Jz8ClAsy"
+      },
+      "artists": [
+        {
+          "name": "Britt Nicole",
+          "url": "https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK"
+        }
+      ],
+      "duration_ms": 167403,
+      "name": "I'll Fight for You",
+      "url": "https://open.spotify.com/track/4XOw2RRfBVFEmJFm4MDGPm"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -495,26 +495,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "RELATE (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/3RkxywFjnyxYlm7NqJNmMI"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "RELATE (R3HAB Remix)",
-      "url": "https://open.spotify.com/track/6hZQGrJlAQwrNnUyFkdO8r"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "MILLION WAYS",
         "url": "https://open.spotify.com/album/4ERLlP8GmGNr91szsBNiU2"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 210933,
       "name": "MILLION WAYS",
       "url": "https://open.spotify.com/track/1NddiFqEEAbo1cH5OJo2gP"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "RELATE (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/3RkxywFjnyxYlm7NqJNmMI"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "RELATE (R3HAB Remix)",
+      "url": "https://open.spotify.com/track/6hZQGrJlAQwrNnUyFkdO8r"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Hold You Tight",
-        "url": "https://open.spotify.com/album/1gOje0Ha92U5qcg5FM4HxR"
-      },
-      "artists": [
-        {
-          "name": "Dan Bremnes",
-          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
-        }
-      ],
-      "duration_ms": 175133,
-      "name": "Hold You Tight",
-      "url": "https://open.spotify.com/track/71hZRkkUaEMEKGVbHCGiby"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Say Goodbye (Say Hello)",
         "url": "https://open.spotify.com/album/4V63HNyGrPygSfITQolJYW"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 195358,
       "name": "Say Goodbye (Say Hello)",
       "url": "https://open.spotify.com/track/29qRIyGVrmRiCdZpHAVNa7"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Hold You Tight",
+        "url": "https://open.spotify.com/album/1gOje0Ha92U5qcg5FM4HxR"
+      },
+      "artists": [
+        {
+          "name": "Dan Bremnes",
+          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
+        }
+      ],
+      "duration_ms": 175133,
+      "name": "Hold You Tight",
+      "url": "https://open.spotify.com/track/71hZRkkUaEMEKGVbHCGiby"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/0dCRBYfyfx8MJp26N9efng"
+      },
+      "artists": [
+        {
+          "name": "ISLY",
+          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/5I2rVSetWAXunwCeqzJBhV"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "Relying",
         "url": "https://open.spotify.com/album/7IQNM3m3vD6NkghunGuViL"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 224030,
       "name": "Relying",
       "url": "https://open.spotify.com/track/5jauoORHRVzQ5vMXFg9azL"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/0dCRBYfyfx8MJp26N9efng"
-      },
-      "artists": [
-        {
-          "name": "ISLY",
-          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/5I2rVSetWAXunwCeqzJBhV"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "Growing Up, Pt.2",
+        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
+      },
+      "artists": [
+        {
+          "name": "PEABOD",
+          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
+        }
+      ],
+      "duration_ms": 193685,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "Always Will Be",
         "url": "https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x"
       },
@@ -739,6 +755,22 @@
       "duration_ms": 230000,
       "name": "Always Will Be",
       "url": "https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Phenomena (DA DA) [Remixes]",
+        "url": "https://open.spotify.com/album/0KSjO02zeLGpamcAqL8QKy"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 154385,
+      "name": "Freedom Is Coming - Reimagined",
+      "url": "https://open.spotify.com/track/3b8ovywNFzaiVpifmivkmU"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -763,38 +795,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Growing Up, Pt.2",
-        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
-      },
-      "artists": [
-        {
-          "name": "PEABOD",
-          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
-        }
-      ],
-      "duration_ms": 193685,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "Phenomena (DA DA) [Remixes]",
-        "url": "https://open.spotify.com/album/0KSjO02zeLGpamcAqL8QKy"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 154385,
-      "name": "Freedom Is Coming - Reimagined",
-      "url": "https://open.spotify.com/track/3b8ovywNFzaiVpifmivkmU"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Only You Can Do It",
         "url": "https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1"
       },
@@ -807,22 +807,6 @@
       "duration_ms": 140347,
       "name": "Only You Can Do It",
       "url": "https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "This Love",
-        "url": "https://open.spotify.com/album/4Pifj4Xa7S26ipKXAucJYC"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
-        }
-      ],
-      "duration_ms": 197834,
-      "name": "This Love",
-      "url": "https://open.spotify.com/track/39cGy6I9NUwSPPluuUPz6b"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -883,6 +867,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "In the Upper Room",
+        "url": "https://open.spotify.com/album/0ScmxdqoawzE3bXX5DzNPC"
+      },
+      "artists": [
+        {
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+        }
+      ],
+      "duration_ms": 166632,
+      "name": "Right With You",
+      "url": "https://open.spotify.com/track/3CR8WSfLJ3DX0uSSBKmg9n"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "Broken Is Beautiful",
         "url": "https://open.spotify.com/album/6Wx2aYawDBnNXuJhfQbtgK"
       },
@@ -899,18 +899,34 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "In the Upper Room",
-        "url": "https://open.spotify.com/album/0ScmxdqoawzE3bXX5DzNPC"
+        "name": "This Love",
+        "url": "https://open.spotify.com/album/4Pifj4Xa7S26ipKXAucJYC"
       },
       "artists": [
         {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
         }
       ],
-      "duration_ms": 166632,
-      "name": "Right With You",
-      "url": "https://open.spotify.com/track/3CR8WSfLJ3DX0uSSBKmg9n"
+      "duration_ms": 197834,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/39cGy6I9NUwSPPluuUPz6b"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Our God Will See Us Through (Live)",
+        "url": "https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        }
+      ],
+      "duration_ms": 253877,
+      "name": "Prodigals - Live",
+      "url": "https://open.spotify.com/track/1LnKCGvs4DMTvZSH1mjyrR"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -947,22 +963,6 @@
       "duration_ms": 196161,
       "name": "Stained Glass",
       "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "Our God Will See Us Through (Live)",
-        "url": "https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2"
-      },
-      "artists": [
-        {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        }
-      ],
-      "duration_ms": 253877,
-      "name": "Prodigals - Live",
-      "url": "https://open.spotify.com/track/1LnKCGvs4DMTvZSH1mjyrR"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Friend",
-        "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
-      },
-      "artists": [
-        {
-          "name": "John Jin Han",
-          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
-        }
-      ],
-      "duration_ms": 226295,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Jump",
         "url": "https://open.spotify.com/album/21kxczu3QQWSkJ8imKBHcH"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 213333,
       "name": "Jump",
       "url": "https://open.spotify.com/track/69HLrdOQMAseHsTTmklKob"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Friend",
+        "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
+      },
+      "artists": [
+        {
+          "name": "John Jin Han",
+          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
+        }
+      ],
+      "duration_ms": 226295,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Happy Day - Retain Remix",
-        "url": "https://open.spotify.com/album/4fBa38ySFa0gYrP5N7aZzk"
-      },
-      "artists": [
-        {
-          "name": "Retain",
-          "url": "https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF"
-        }
-      ],
-      "duration_ms": 200903,
-      "name": "Happy Day - Retain Remix",
-      "url": "https://open.spotify.com/track/4CbSxyiD3zOziagpHFszCc"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Father",
         "url": "https://open.spotify.com/album/0UJEnFmTPu4Rff2IrrFCsX"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 213281,
       "name": "Father",
       "url": "https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Happy Day - Retain Remix",
+        "url": "https://open.spotify.com/album/4fBa38ySFa0gYrP5N7aZzk"
+      },
+      "artists": [
+        {
+          "name": "Retain",
+          "url": "https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF"
+        }
+      ],
+      "duration_ms": 200903,
+      "name": "Happy Day - Retain Remix",
+      "url": "https://open.spotify.com/track/4CbSxyiD3zOziagpHFszCc"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Step Into The Fight (Gregatron Remix)",
-        "url": "https://open.spotify.com/album/51CtTp4TGVtbm1rFoja0lk"
-      },
-      "artists": [
-        {
-          "name": "Hannah Schaefer",
-          "url": "https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s"
-        }
-      ],
-      "duration_ms": 213868,
-      "name": "Step Into The Fight - Gregatron Remix",
-      "url": "https://open.spotify.com/track/7MmEyVUNFyNXvCUy67M6RD"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Better View, Part II",
         "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 184393,
       "name": "Invited",
       "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Step Into The Fight (Gregatron Remix)",
+        "url": "https://open.spotify.com/album/51CtTp4TGVtbm1rFoja0lk"
+      },
+      "artists": [
+        {
+          "name": "Hannah Schaefer",
+          "url": "https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s"
+        }
+      ],
+      "duration_ms": 213868,
+      "name": "Step Into The Fight - Gregatron Remix",
+      "url": "https://open.spotify.com/track/7MmEyVUNFyNXvCUy67M6RD"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1463,42 +1463,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/7KYydIXof4clBXb0soAsGF"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 226281,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/5BlTg1Gbxxw2Mz1uZhDycp"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "ECHO",
-        "url": "https://open.spotify.com/album/2TounfDp8FG5wdmzSCc0fT"
-      },
-      "artists": [
-        {
-          "name": "Damaris Guerra",
-          "url": "https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj"
-        },
-        {
-          "name": "CRYS",
-          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
-        }
-      ],
-      "duration_ms": 195882,
-      "name": "ECHO",
-      "url": "https://open.spotify.com/track/5dlME4r4Bt7RqHDDyT0kdY"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Future",
         "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
       },
@@ -1511,6 +1475,22 @@
       "duration_ms": 205377,
       "name": "Future",
       "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/7KYydIXof4clBXb0soAsGF"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 226281,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/5BlTg1Gbxxw2Mz1uZhDycp"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1535,18 +1515,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/26qSpAIvmpQFn5bgZI6uuc"
+        "name": "ECHO",
+        "url": "https://open.spotify.com/album/2TounfDp8FG5wdmzSCc0fT"
       },
       "artists": [
         {
-          "name": "Soulsician",
-          "url": "https://open.spotify.com/artist/2dtqpsPMsRwt3CaiMrt0Kt"
+          "name": "Damaris Guerra",
+          "url": "https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj"
+        },
+        {
+          "name": "CRYS",
+          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
         }
       ],
-      "duration_ms": 236347,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/5OfN4P2gKl36SVjbr2GUjI"
+      "duration_ms": 195882,
+      "name": "ECHO",
+      "url": "https://open.spotify.com/track/5dlME4r4Bt7RqHDDyT0kdY"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1563,6 +1547,22 @@
       "duration_ms": 225520,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/7Fmk7xa6JijQVUpDILAxrR"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/26qSpAIvmpQFn5bgZI6uuc"
+      },
+      "artists": [
+        {
+          "name": "Soulsician",
+          "url": "https://open.spotify.com/artist/2dtqpsPMsRwt3CaiMrt0Kt"
+        }
+      ],
+      "duration_ms": 236347,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/5OfN4P2gKl36SVjbr2GUjI"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Covered",
-        "url": "https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 196987,
-      "name": "Covered",
-      "url": "https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "You, Me, The Church, That's Us - Side B",
         "url": "https://open.spotify.com/album/2yJsvDKWdnG1pszRmhqSpK"
       },
@@ -1667,22 +1651,18 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Keep Me",
-        "url": "https://open.spotify.com/album/56QvP6bxRamLdPzp1YwL52"
+        "name": "Covered",
+        "url": "https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D"
       },
       "artists": [
         {
-          "name": "Eris Ford",
-          "url": "https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4"
-        },
-        {
-          "name": "Evan and Eris",
-          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
         }
       ],
-      "duration_ms": 150653,
-      "name": "Keep Me",
-      "url": "https://open.spotify.com/track/1bOR6zNOiMpVd2LDKP8XCE"
+      "duration_ms": 196987,
+      "name": "Covered",
+      "url": "https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1703,22 +1683,42 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "High Low (Remix)",
-        "url": "https://open.spotify.com/album/50wI6SadtCnM3uiXBpjeZ8"
+        "name": "Keep Me",
+        "url": "https://open.spotify.com/album/56QvP6bxRamLdPzp1YwL52"
       },
       "artists": [
         {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+          "name": "Eris Ford",
+          "url": "https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4"
         },
         {
-          "name": "Tryhard Society",
-          "url": "https://open.spotify.com/artist/4KrJmomsDlqlzkrYXUr2Rw"
+          "name": "Evan and Eris",
+          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
         }
       ],
-      "duration_ms": 164383,
-      "name": "High Low - Remix",
-      "url": "https://open.spotify.com/track/7y8OstN4MtmOPNN4sOVeoN"
+      "duration_ms": 150653,
+      "name": "Keep Me",
+      "url": "https://open.spotify.com/track/1bOR6zNOiMpVd2LDKP8XCE"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "HEY GOD",
+        "url": "https://open.spotify.com/album/16dHro8vtYbycbNct69lmT"
+      },
+      "artists": [
+        {
+          "name": "KAYDEN",
+          "url": "https://open.spotify.com/artist/5Dq2DMerDcvcdlzPTmo6Jn"
+        },
+        {
+          "name": "David Ryan Cook",
+          "url": "https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T"
+        }
+      ],
+      "duration_ms": 174216,
+      "name": "HEY GOD",
+      "url": "https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1743,22 +1743,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "HEY GOD",
-        "url": "https://open.spotify.com/album/16dHro8vtYbycbNct69lmT"
+        "name": "High Low (Remix)",
+        "url": "https://open.spotify.com/album/50wI6SadtCnM3uiXBpjeZ8"
       },
       "artists": [
         {
-          "name": "KAYDEN",
-          "url": "https://open.spotify.com/artist/5Dq2DMerDcvcdlzPTmo6Jn"
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
         },
         {
-          "name": "David Ryan Cook",
-          "url": "https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T"
+          "name": "Tryhard Society",
+          "url": "https://open.spotify.com/artist/4KrJmomsDlqlzkrYXUr2Rw"
         }
       ],
-      "duration_ms": 174216,
-      "name": "HEY GOD",
-      "url": "https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr"
+      "duration_ms": 164383,
+      "name": "High Low - Remix",
+      "url": "https://open.spotify.com/track/7y8OstN4MtmOPNN4sOVeoN"
     }
   ],
   "unique_name": "Christian Dance Party",

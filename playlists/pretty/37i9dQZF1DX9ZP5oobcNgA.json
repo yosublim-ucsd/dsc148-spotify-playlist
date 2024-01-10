@@ -1,12 +1,12 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 119142,
+  "num_followers": 119126,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjQwOTMxM2E1ZTQ5ZDJlZGExY2FkNWQ1MzZkOTJmZDcwY2VlYmM1",
+  "snapshot_id": "MCwxZjZkYjdlODgwYTA3MDY0NzZjNGNmOWJjNzdkYjMwMDlhM2QxMGQ3",
   "tracks": [
     {
       "added_at": "2022-06-28 08:56:25",
@@ -719,8 +719,8 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Baroque Duet",
-        "url": "https://open.spotify.com/album/1Qhu4B7qy5Ut1E8iUSt2Qx"
+        "name": "Handel: Keyboard Suites, Vol. 2",
+        "url": "https://open.spotify.com/album/3UdKO86YCgjHG20bXFiIRR"
       },
       "artists": [
         {
@@ -728,25 +728,13 @@
           "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
         },
         {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        },
-        {
-          "name": "Kathleen Battle",
-          "url": "https://open.spotify.com/artist/13Tfk6ZpGdF0G3v9B3kasP"
-        },
-        {
-          "name": "John Nelson",
-          "url": "https://open.spotify.com/artist/0rUC7g0r3Q9pfNeeVioxzC"
-        },
-        {
-          "name": "Orchestra of St. Luke's",
-          "url": "https://open.spotify.com/artist/6iyKy3RT5yvMRgKJK54Pzr"
+          "name": "Philip Edward Fisher",
+          "url": "https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7"
         }
       ],
-      "duration_ms": 332026,
-      "name": "Let the Bright Seraphim from Samson, HWV 57 - Voice",
-      "url": "https://open.spotify.com/track/1GpGul0ESFCDuaaL0ccSFt"
+      "duration_ms": 283000,
+      "name": "Keyboard Suite No. 5 in E Major, HWV 430: IV. Air and Doubles (\"Harmonious Blacksmith\")",
+      "url": "https://open.spotify.com/track/2bYyrku1w6I6hjHkiIND1x"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -775,8 +763,8 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Keyboard Suites, Vol. 2",
-        "url": "https://open.spotify.com/album/3UdKO86YCgjHG20bXFiIRR"
+        "name": "Baroque Duet",
+        "url": "https://open.spotify.com/album/1Qhu4B7qy5Ut1E8iUSt2Qx"
       },
       "artists": [
         {
@@ -784,13 +772,25 @@
           "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
         },
         {
-          "name": "Philip Edward Fisher",
-          "url": "https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7"
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        },
+        {
+          "name": "Kathleen Battle",
+          "url": "https://open.spotify.com/artist/13Tfk6ZpGdF0G3v9B3kasP"
+        },
+        {
+          "name": "John Nelson",
+          "url": "https://open.spotify.com/artist/0rUC7g0r3Q9pfNeeVioxzC"
+        },
+        {
+          "name": "Orchestra of St. Luke's",
+          "url": "https://open.spotify.com/artist/6iyKy3RT5yvMRgKJK54Pzr"
         }
       ],
-      "duration_ms": 283000,
-      "name": "Keyboard Suite No. 5 in E Major, HWV 430: IV. Air and Doubles (\"Harmonious Blacksmith\")",
-      "url": "https://open.spotify.com/track/2bYyrku1w6I6hjHkiIND1x"
+      "duration_ms": 332026,
+      "name": "Let the Bright Seraphim from Samson, HWV 57 - Voice",
+      "url": "https://open.spotify.com/track/1GpGul0ESFCDuaaL0ccSFt"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -907,26 +907,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "H\u00e4ndel: Water Works",
-        "url": "https://open.spotify.com/album/0hLOMULylE3BjdwQwX97Br"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Syr\u00e8ne Saxophone Quartet",
-          "url": "https://open.spotify.com/artist/42zAZXwDwnuYmn4RmEZxWo"
-        }
-      ],
-      "duration_ms": 64773,
-      "name": "Water Music: Suite No. 2 in D, HWV 349: XIII. Minuet",
-      "url": "https://open.spotify.com/track/7CM56fEgOdGeq9w7e6bSsd"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Rinaldo",
         "url": "https://open.spotify.com/album/5Jd7LRZm76VWAiPnaa42XF"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 330880,
       "name": "Rinaldo, HWV 7b: Act I: Overture",
       "url": "https://open.spotify.com/track/6DikE6mXpr6GfXWW94jug1"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "H\u00e4ndel: Water Works",
+        "url": "https://open.spotify.com/album/0hLOMULylE3BjdwQwX97Br"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Syr\u00e8ne Saxophone Quartet",
+          "url": "https://open.spotify.com/artist/42zAZXwDwnuYmn4RmEZxWo"
+        }
+      ],
+      "duration_ms": 64773,
+      "name": "Water Music: Suite No. 2 in D, HWV 349: XIII. Minuet",
+      "url": "https://open.spotify.com/track/7CM56fEgOdGeq9w7e6bSsd"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1223,30 +1223,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Water Music; Royal Fireworks Music - Expanded Edition",
-        "url": "https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Pierre Boulez",
-          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
-        },
-        {
-          "name": "New York Philharmonic",
-          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
-        }
-      ],
-      "duration_ms": 142133,
-      "name": "Water Music: Suite No. 2 in D Major, HWV 349, I. Allegro",
-      "url": "https://open.spotify.com/track/1aK44lWlnmXhfWNbOzhZn5"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "John Eliot Gardiner Conducts Handel",
         "url": "https://open.spotify.com/album/5c1KNy2PXJttM46NhAq3hN"
       },
@@ -1267,6 +1243,30 @@
       "duration_ms": 131479,
       "name": "Handel: Concerto grosso in F Major, Op. 3 No. 4, HWV 315: II. Andante",
       "url": "https://open.spotify.com/track/6cWPW3Z6t4ECwzYVybTA6T"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Water Music; Royal Fireworks Music - Expanded Edition",
+        "url": "https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        },
+        {
+          "name": "New York Philharmonic",
+          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+        }
+      ],
+      "duration_ms": 142133,
+      "name": "Water Music: Suite No. 2 in D Major, HWV 349, I. Allegro",
+      "url": "https://open.spotify.com/track/1aK44lWlnmXhfWNbOzhZn5"
     },
     {
       "added_at": "2022-06-28 08:56:25",

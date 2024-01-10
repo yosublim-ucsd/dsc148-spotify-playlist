@@ -2,9 +2,9 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: Wendy York Stand
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: jizue
 
-243 songs - 19 hr 34 min
+246 songs - 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Blue Eyed Monster](https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [TVアニメーション「BEM」オリジナルサウンドトラック　OUTSIDE](https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr) | 4:10 | 2022-09-06 |  |
 | [BLUE GIANT \- 『BLUE GIANT』サウンドトラックより](https://open.spotify.com/track/1EKIT1QnEWYUlN3h20zZQF) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(『BLUE GIANT』サウンドトラックより\)](https://open.spotify.com/album/2bkSTglYLzxczTGUefP6U3) | 3:38 | 2023-02-07 | 2023-08-07 |
 | [Blues for K](https://open.spotify.com/track/1VnOzW4zYaDifRPreUur35) | [Tsuyoshi Yamamoto](https://open.spotify.com/artist/4Le6xcHzz9CpoxAmXgtZP5) | [Blues For K](https://open.spotify.com/album/4xomV4Sw1aCp2SyEHNtALk) | 3:52 | 2023-01-24 | 2023-04-19 |
-| [Bon](https://open.spotify.com/track/3n6PVc0hHuYbIuPaZbO4g9) | [Akira Ishiguro](https://open.spotify.com/artist/2IAEUPE8iYRV5IWKh3ldvg) | [Bon](https://open.spotify.com/album/1WSp8SF0pVmqAUJRGWjhP0) | 4:56 | 2023-12-12 |  |
+| [Bon](https://open.spotify.com/track/3n6PVc0hHuYbIuPaZbO4g9) | [Akira Ishiguro](https://open.spotify.com/artist/2IAEUPE8iYRV5IWKh3ldvg) | [Bon](https://open.spotify.com/album/1WSp8SF0pVmqAUJRGWjhP0) | 4:56 | 2023-12-12 | 2024-01-10 |
 | [Borsalino](https://open.spotify.com/track/7jDMXduqVG5RPqiYVduwJr) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Borsalino](https://open.spotify.com/album/7hPxldYIIggDIeWfp9ZKME) | 4:11 | 2023-10-31 | 2023-12-13 |
 | [Calming Influence](https://open.spotify.com/track/6oxJq06up4ZTTgRavK6Z4N) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [Pecori](https://open.spotify.com/artist/1seX236woEXAlmlfqDLi3t), [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [Calming Influence](https://open.spotify.com/album/0nx6HgpMKXO9fM3KXFFgXZ) | 4:48 | 2022-12-06 | 2023-01-11 |
 | [Can't Hide Love](https://open.spotify.com/track/4EGnoNlgvp9qtg4SsGszEN) | [Miho Hazama](https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV) | [m\_unit: Beyond Orbits](https://open.spotify.com/album/1vEFCTIEfv5oueGhxYfq7u) | 5:59 | 2023-09-26 |  |
@@ -49,7 +49,7 @@
 | [Children of Peace](https://open.spotify.com/track/2lnYMX79vLI5cj2LrNlRUN) | [Kyoto Jazz Sextet](https://open.spotify.com/artist/6HJLP8BxT0IJtEtZRba2Xd) | [UNITY](https://open.spotify.com/album/3sR1fIm8LCnPukPiLghLgV) | 5:33 | 2022-09-27 | 2022-10-21 |
 | [Christmas Song II](https://open.spotify.com/track/7cvAdWZFK5ODIklRPHrnmO) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9), [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [Christmas Song II](https://open.spotify.com/album/5mwTFbyzv89qTDbAlHCp2W) | 3:02 | 2023-12-12 |  |
 | [City Creatures](https://open.spotify.com/track/0ubaJUyQahfdL3FK60FjyH) | [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [City Creatures](https://open.spotify.com/album/3Ztt5dDDen4CC6ugiRR559) | 3:04 | 2022-09-06 | 2023-03-02 |
-| [Clarice](https://open.spotify.com/track/7DrMC04xJQHabCzMcjWTI1) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [P.T.](https://open.spotify.com/album/1quyn6g2gIrwLJ2VmgI8Jx) | 3:46 | 2023-09-05 |  |
+| [Clarice](https://open.spotify.com/track/7DrMC04xJQHabCzMcjWTI1) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [P.T.](https://open.spotify.com/album/1quyn6g2gIrwLJ2VmgI8Jx) | 3:46 | 2023-09-05 | 2024-01-10 |
 | [Clarice](https://open.spotify.com/track/7hIIwJTGz7s7vpMaFtdvlU) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [P.T.](https://open.spotify.com/album/55j95OpOUQbuf4X4Ryljuw) | 3:46 | 2023-09-05 | 2023-09-07 |
 | [Confirmation](https://open.spotify.com/track/4hT1CgkQIlhmA1DIVYrLx8) | [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O), [re os \- REO MATSUMOTO](https://open.spotify.com/artist/4501R3d8kL9mW1JgkPvlUW) | [Confirmation](https://open.spotify.com/album/5k4X1OKVhx8GWWaxgdfPej) | 4:55 | 2022-09-06 | 2023-03-13 |
 | [Crossing](https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [CROSSING](https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q) | 4:30 | 2023-09-05 |  |
@@ -90,6 +90,7 @@
 | [Hello,,Dawn,Unknown](https://open.spotify.com/track/0Pa558A0T3tokMRruGEMIt) | [igloo](https://open.spotify.com/artist/0ABgpHqYQ6NoI1EdRa6XXM) | [Synapse Confusion](https://open.spotify.com/album/4gDrd4WRxHZ8ZvQVJctO2p) | 5:39 | 2023-11-21 |  |
 | [here](https://open.spotify.com/track/38AFhyf8NXJWsra76yd8m4) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [gnome](https://open.spotify.com/album/5GoIKRfkH5A11hbwrJImVV) | 5:36 | 2022-10-18 | 2023-05-31 |
 | [Hey Ya!](https://open.spotify.com/track/4e6RFlmSuhmluhZBBhdvu2) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Hey Ya!](https://open.spotify.com/album/4oXsNBEkclwgGjX4zKRiDv) | 4:34 | 2023-03-07 | 2023-04-04 |
+| [Hilarious](https://open.spotify.com/track/4Dv7ZG44TPxxRDJyf8X5W4) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Hilarious](https://open.spotify.com/album/2baMPvKUmxUghuOUqKm9AL) | 4:03 | 2024-01-09 |  |
 | [I Am, Because You Are](https://open.spotify.com/track/1wj3FHoR0swq6HCWxiGyeS) | [海野 雅威](https://open.spotify.com/artist/21xCR4SZh2XrwLsloXp6vx) | [I Am, Because You Are](https://open.spotify.com/album/0iuOHpxqkPyAzEokYTpge5) | 6:49 | 2023-05-23 | 2023-07-12 |
 | [If Sea Could Sing](https://open.spotify.com/track/2NGtsSSgjvq2ZbFxDDnAUT) | [Okada Takuro](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm) | [Betsu No Jikan](https://open.spotify.com/album/6osbGxXryMZUWTlysq7Tcu) | 5:45 | 2022-09-06 | 2022-10-02 |
 | [ILa](https://open.spotify.com/track/5A3fkdwjAYasROx3YE9RMo) | [SAI](https://open.spotify.com/artist/3qV6tSZj71FW9cKKD4hrHG) | [ILa](https://open.spotify.com/album/7d3Ac0gUjLFBlZjz4BBKSX) | 3:11 | 2023-10-17 | 2023-11-22 |
@@ -115,6 +116,7 @@
 | [Midnight Crisp](https://open.spotify.com/track/44egUa8FkT17spwSFvQis6) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Midnight Crisp](https://open.spotify.com/album/2eSj73qPvFATLh2sNxHDrG) | 5:26 | 2022-09-06 | 2023-01-20 |
 | [Mile in the green](https://open.spotify.com/track/7rkZY26t32ha7lGHGnsGH7) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [Time Won't Stop](https://open.spotify.com/album/0rQDHxRhpolHbzQYcB510w) | 7:03 | 2022-12-27 | 2023-04-19 |
 | [Mile in the green](https://open.spotify.com/track/6SBIYkYegPIhLjgsO9KPpY) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [Spice rhythm](https://open.spotify.com/artist/5lmsbZAumn8MwK6llKn4Kx) | [Mile in the green](https://open.spotify.com/album/73U232pI9TANrWBWEdgLe0) | 7:03 | 2022-12-13 | 2023-01-04 |
+| [Momentary Moment](https://open.spotify.com/track/2yGOXnM6w60GJL6hWcxBxX) | [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Momentary Moment](https://open.spotify.com/album/6WDajxi9F39Lyo4MwcEaqX) | 4:46 | 2024-01-09 |  |
 | [Moonlight Syndrome](https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [トワイライトシンドローム](https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K) | 4:07 | 2022-09-06 |  |
 | [MORAL](https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [MORAL](https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj) | 3:21 | 2023-07-11 | 2023-10-04 |
 | [Morning Breeze](https://open.spotify.com/track/6PbYlYIv0NPf7AxNbZJjO0) | [Yucco Miller](https://open.spotify.com/artist/6DeqOC0YR2W0egna2AhnSO) | [Morning Breeze](https://open.spotify.com/album/6d5KLbZTHbIUtiRxhlrcsB) | 5:38 | 2023-10-31 | 2023-11-02 |
@@ -137,7 +139,7 @@
 | [qualia](https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [qualia](https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP) | 3:24 | 2022-09-06 |  |
 | [Raindrops Keep Fallin' On My Head](https://open.spotify.com/track/0pprlGhcsm15D9sFGnK7At) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [Kazumi Tateishi Trio meets Beautiful Standards](https://open.spotify.com/album/0ng3lS4pEfjFS59i3A0d8A) | 4:50 | 2023-10-10 |  |
 | [Raindrops Keep Fallin' On My Head](https://open.spotify.com/track/2O4uIdTdn1JPC9DtnQpefK) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [Kazumi Tateishi Trio meets Beautiful Standards](https://open.spotify.com/album/0eEfR2lSeW2SaYZ4BEFXUH) | 4:50 | 2023-10-10 | 2023-10-12 |
-| [ranki](https://open.spotify.com/track/2F5rkbZHDASUIGAcyeoe0l) | [POLYPLUS](https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa) | [GOOD LUCK SOUND TRACKS](https://open.spotify.com/album/0CHpILGOq59pW8hyphMQBk) | 3:37 | 2023-11-21 |  |
+| [ranki](https://open.spotify.com/track/2F5rkbZHDASUIGAcyeoe0l) | [POLYPLUS](https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa) | [GOOD LUCK SOUND TRACKS](https://open.spotify.com/album/0CHpILGOq59pW8hyphMQBk) | 3:37 | 2023-11-21 | 2024-01-10 |
 | [Recollections Abstracted](https://open.spotify.com/track/4a9WjEoPVlaCfNy4SNkysJ) | [Kei Matsumaru](https://open.spotify.com/artist/3mHyQil6LHrtKvJ2hrFN6e), [Akira Ishii](https://open.spotify.com/artist/4aXZZMEzjJD8LbpsfNl6W0), [Hideaki Kanazawa](https://open.spotify.com/artist/7a99ADzo7A5wdnxqFz5X7i), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Recollections Abstracted](https://open.spotify.com/album/45DPR62WKg1y09EyJcde93) | 8:12 | 2022-09-06 | 2022-09-28 |
 | [Red Lightning](https://open.spotify.com/track/7z8y7GvjS0X2BwDJGThY7y) | [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O), [Takumi Kaneko](https://open.spotify.com/artist/6GaU1oIXLnxCY0yxoR1KVg), [Tomoharu"Jr."Takahashi](https://open.spotify.com/artist/4WgBkIoSdVQ5oCjekYpGck), [Yoshio Kobayashi](https://open.spotify.com/artist/5Su4NgoYgeEAt1GSXdmMxu) | [Red Lightning](https://open.spotify.com/album/6d7yeq3RIbu5dRXWvq094C) | 5:32 | 2022-09-06 | 2022-12-28 |
 | [Red Ocean](https://open.spotify.com/track/3fIy6Di6WTYZQqOy5SjcHk) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [NEW](https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB) | 5:00 | 2022-09-06 |  |
@@ -251,5 +253,6 @@
 | [色彩のブルース](https://open.spotify.com/track/49qV0r81Wz0vwuVvQZS6je) | [EGO\-WRAPPIN’](https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX) | [ROUTE 20 HIT THE ROAD](https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT) | 5:33 | 2022-09-06 |  |
 | [誰でもない街](https://open.spotify.com/track/5vXqyXDZuBnhMUJrScHSvN) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [この退屈な日々を/誰でもない街](https://open.spotify.com/album/6cauGTIpDRN2oVWg1camHO) | 3:34 | 2023-09-12 | 2023-09-14 |
 | [鉄腕アトム](https://open.spotify.com/track/6UmcIu2s1V8oPc19WMTDX6) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [SPEED MUSIC ソクドノオンガク vol\. 7](https://open.spotify.com/album/7cQAnB2XOEOeQkEPvrkkYV) | 3:40 | 2023-01-24 | 2023-02-08 |
+| [飛ばしたっしょ](https://open.spotify.com/track/0k1VXxgEeXsdQ9BeYimc29) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [飛ばしたっしょ](https://open.spotify.com/album/4sQ5KG0INydjjFA04l6aJx) | 3:22 | 2024-01-09 |  |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

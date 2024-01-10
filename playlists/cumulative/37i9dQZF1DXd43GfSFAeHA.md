@@ -4,7 +4,7 @@
 
 > A selection of the finest Hip\-Hop tracks from the illest Arab Rappers\. Cover: Inkonnu & Sipo
 
-346 songs - 18 hr 4 min
+347 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [DAWLETNA](https://open.spotify.com/track/1VteZ9xomF21Idym2C8Xbb) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W) | [SWITCH](https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3) | 2:38 | 2023-02-28 |  |
 | [Dawly](https://open.spotify.com/track/74utdoJDUGLIMlrSS6jHlU) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU), [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z) | [Dawly](https://open.spotify.com/album/0Zksp8Cnz9HnEuLvGDmzGy) | 3:16 | 2022-06-07 | 2022-10-04 |
 | [DaY5a](https://open.spotify.com/track/05V7RavGedViEzzD4moNwK) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Wezza Montaser](https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj) | [DaY5a](https://open.spotify.com/album/4eU2GHuR6RmM0zTCWyKh94) | 2:57 | 2022-05-08 | 2022-08-24 |
-| [De Bruyne](https://open.spotify.com/track/3wiwZ6TDdSVVg5p19bdrZL) | [Dzel Uzi](https://open.spotify.com/artist/0LhJ7fTx1mMtE5qh5OSbFK), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [De Bruyne](https://open.spotify.com/album/38JMcDUUN2H2oo2eeiOvIT) | 2:29 | 2023-09-05 |  |
+| [De Bruyne](https://open.spotify.com/track/3wiwZ6TDdSVVg5p19bdrZL) | [Dzel Uzi](https://open.spotify.com/artist/0LhJ7fTx1mMtE5qh5OSbFK), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [De Bruyne](https://open.spotify.com/album/38JMcDUUN2H2oo2eeiOvIT) | 2:29 | 2023-09-05 | 2024-01-10 |
+| [De Bruyne](https://open.spotify.com/track/6qK6hM0N1zVfdoUMc1xJnx) | [Dzel Uzi](https://open.spotify.com/artist/0LhJ7fTx1mMtE5qh5OSbFK), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Manchester City](https://open.spotify.com/album/1RBSS6HP2nI5x8RkqGBoqt) | 2:29 | 2023-12-28 |  |
 | [Denameet](https://open.spotify.com/track/6RfP0PVBd4nNmMxwjG2R7o) | [Alyoungofficial](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C) | [Denameet](https://open.spotify.com/album/4k8mmGAjYm1eu9GRBrorSU) | 3:32 | 2022-05-08 | 2022-10-04 |
 | [DERBY](https://open.spotify.com/track/3VXcWh8vq5rMIEtbC945dy) | [PAPII](https://open.spotify.com/artist/2LGrYR15SmiRsIGQlEnRQs), [XTHEDESERTKID](https://open.spotify.com/artist/68QUOS58Fp3QHCCGUfpmCP) | [DERBY](https://open.spotify.com/album/6D6kjgsCNprDb4TUm0B6CM) | 2:37 | 2023-07-03 | 2023-09-06 |
 | [Dexter](https://open.spotify.com/track/5anrH8SzdtPP1fMz3eOBvS) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Dexter](https://open.spotify.com/album/5hU57XeQXFA5CxDanMMuMI) | 2:48 | 2023-01-11 | 2023-04-01 |

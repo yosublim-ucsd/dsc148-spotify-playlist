@@ -4,7 +4,7 @@
 
 > The good ole days!!!!!!!! cover: Grimes
 
-200 songs - 12 hr 33 min
+201 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [DARE](https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 4:04 | 2022-11-10 |  |
 | [Day 'N' Nite \- Crookers Remix](https://open.spotify.com/track/6ouTGbETM7ZdID1eMXZJde) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Day 'N' Nite \(Crookers Remix\)](https://open.spotify.com/album/6tisDlBrOOltEsFFq2vy6F) | 4:41 | 2023-04-14 | 2023-05-18 |
 | [Daylight](https://open.spotify.com/track/57i3M29DWoo7RDk0Tf0LZG) | [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Grand](https://open.spotify.com/album/4bQi4sDv5BugGpaQWJiEXa) | 2:51 | 2022-11-10 |  |
-| [Deadbeat Summer](https://open.spotify.com/track/6wSLEvYkwVsVJqB9WkxYKs) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [Psychic Chasms](https://open.spotify.com/album/3dQDaXtGZdiCU8M0l85KZF) | 4:02 | 2023-08-02 |  |
+| [Deadbeat Summer](https://open.spotify.com/track/0oSuRJjTO7DTA1ltDuQUzM) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [Psychic Chasms](https://open.spotify.com/album/6orePWE5tyJN7FGR7jzmik) | 4:02 | 2023-09-05 |  |
+| [Deadbeat Summer](https://open.spotify.com/track/6wSLEvYkwVsVJqB9WkxYKs) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [Psychic Chasms](https://open.spotify.com/album/3dQDaXtGZdiCU8M0l85KZF) | 4:02 | 2023-08-02 | 2024-01-10 |
 | [Deceptacon](https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i) | 3:04 | 2022-11-10 |  |
 | [Destroy Rock & Roll](https://open.spotify.com/track/74dRHeSOK7qTcFE2C0HOat) | [Mylo](https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti) | [Destroy Rock & Roll \(2005 Remaster\)](https://open.spotify.com/album/2wdHHEDHe9dw71xVl1EgJZ) | 4:03 | 2023-04-14 | 2023-04-27 |
 | [Dip](https://open.spotify.com/track/29Zj1r8cek15xe08vNUOLy) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Old](https://open.spotify.com/album/5SC0415RIGVX9ZfL0tfbAl) | 3:31 | 2023-04-14 | 2023-04-27 |

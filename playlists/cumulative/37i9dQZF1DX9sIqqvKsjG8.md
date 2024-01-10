@@ -4,7 +4,7 @@
 
 > Soft piano music to help you focus and chill.
 
-818 songs - 1 day 11 hr 0 min
+820 songs - 1 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Ascent](https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Ascent](https://open.spotify.com/album/3BqwGeDppomPKBHDO3Vkmj) | 2:12 | 2021-12-07 | 2023-09-23 |
 | [Ascent](https://open.spotify.com/track/4QKo1Fs1rxblTxdWl6fzEC) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [Ascent](https://open.spotify.com/album/2Azjzabd4xGsmjpCqWSejA) | 1:55 | 2022-11-11 | 2023-07-26 |
 | [Aster](https://open.spotify.com/track/72KJyAtPYTjzfDeSZbe9h3) | [Tig Martin](https://open.spotify.com/artist/6M0BLRIxPxH1xbsvQdNsdi) | [Aster](https://open.spotify.com/album/3dGQkAUu05FoXDBLANmMow) | 2:42 | 2021-12-07 | 2022-11-12 |
+| [Au matin du magicien](https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW) | [Leo Nocta](https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI) | [Au matin du magicien](https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ) | 2:02 | 2024-01-09 |  |
 | [Auf dem Felde](https://open.spotify.com/track/41DUMAp3y9qP384vrS0f2r) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Auf dem Felde](https://open.spotify.com/album/0EROhvEiWfGx9i9btcWQQm) | 1:48 | 2021-12-07 | 2022-03-18 |
 | [Aufgang der Sonne](https://open.spotify.com/track/4iCLo3ZjF6V1RW4Wz18KMz) | [Ploxxio](https://open.spotify.com/artist/6x1wQEYS0lwy0BOZUF6WFa) | [Praxedis](https://open.spotify.com/album/5fpiyyKknRiCj5joBh4VA0) | 2:52 | 2022-03-16 |  |
 | [Autres temps, autres mœurs](https://open.spotify.com/track/6aGvF7goNzrTx03ZK6EJOX) | [Prewitt Massé](https://open.spotify.com/artist/4A2bJABmFzaDnZwBris4yj) | [Autres temps, autres mœurs](https://open.spotify.com/album/2UTphZZpH1w90kHCB0hfz7) | 2:00 | 2021-12-07 | 2022-10-14 |
@@ -159,6 +160,7 @@
 | [crystal creek](https://open.spotify.com/track/5elkvtzKLz3UEJP4M8ZmhI) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [chateau & crystal creek](https://open.spotify.com/album/27ZmGbSDeBUUb7G6f9Wllj) | 2:27 | 2022-07-19 |  |
 | [Cupola Quadrata](https://open.spotify.com/track/1vpC44p5sO6vvJ6yPxVkt6) | [Ton Doux](https://open.spotify.com/artist/7k2yj18LpdzvFnBoamoQMB) | [Cupola Quadrata](https://open.spotify.com/album/7Hidl4kOIR67qsnZVwzLq5) | 2:18 | 2022-03-30 |  |
 | [Cyclist Waltz Solo](https://open.spotify.com/track/1mURpkUAqx3EIqHpNV9l8c) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Mosi](https://open.spotify.com/album/6s50HIZV1AmlBDOPZTpjjB) | 2:27 | 2021-12-07 | 2022-05-06 |
+| [Daffodils](https://open.spotify.com/track/4JHlWtvac2EIxLMa8mMyQc) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Daffodils](https://open.spotify.com/album/2McYGbue7ucLoac2dHLYWs) | 3:12 | 2024-01-09 |  |
 | [Dancing Fairies](https://open.spotify.com/track/4ZhBTKqXyEpRR6GC8bVV2z) | [Almeda](https://open.spotify.com/artist/2X4HKfgm5M8uwMWDLSauFE) | [Dancing Fairies](https://open.spotify.com/album/3djM3a4pI910KyYDHlaabn) | 1:56 | 2021-12-07 | 2022-07-20 |
 | [Dancing Michelangelo](https://open.spotify.com/track/1fKfNwz9b2zkY9SoC5NC7I) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Dancing Michelangelo](https://open.spotify.com/album/3wr7KCwoPjLCAUtPPMwmtA) | 2:18 | 2021-12-07 | 2022-06-08 |
 | [Danderlion](https://open.spotify.com/track/4p3aBt5WfldkaRaDfBcfGG) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Danderlion](https://open.spotify.com/album/06mlIPE6BeK3DQlIxLkgjR) | 2:16 | 2021-12-07 |  |

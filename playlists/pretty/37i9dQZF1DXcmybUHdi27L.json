@@ -1,12 +1,12 @@
 {
   "description": "Catch your biggest flex to these summer tunes.",
-  "num_followers": 44588,
+  "num_followers": 44589,
   "original_name": "Summer Flex",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTJhNTk0Y2YyM2NhODQzMDU2ODI3ODViNjg5YjhhZTBjZmY3NTc5",
+  "snapshot_id": "MCxmOWMxYjQyNzNlNjk4NDI2NjcyZWVhNTI2OTIxOTViODVhYzllMTcx",
   "tracks": [
     {
       "added_at": "2023-05-15 01:15:13",
@@ -475,26 +475,18 @@
     {
       "added_at": "2023-05-15 01:15:13",
       "album": {
-        "name": "People (Remixes)",
-        "url": "https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G"
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
       },
       "artists": [
         {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 184633,
-      "name": "People (feat. Ayra Starr & Omah Lay)",
-      "url": "https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG"
+      "duration_ms": 136899,
+      "name": "Time Today",
+      "url": "https://open.spotify.com/track/0YrKSfpvflYnLSBd4Jtu6J"
     },
     {
       "added_at": "2023-05-15 01:15:13",
@@ -519,18 +511,26 @@
     {
       "added_at": "2023-05-15 01:15:13",
       "album": {
-        "name": "A Gangsta\u2019s Pain",
-        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+        "name": "People (Remixes)",
+        "url": "https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G"
       },
       "artists": [
         {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 136899,
-      "name": "Time Today",
-      "url": "https://open.spotify.com/track/0YrKSfpvflYnLSBd4Jtu6J"
+      "duration_ms": 184633,
+      "name": "People (feat. Ayra Starr & Omah Lay)",
+      "url": "https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG"
     },
     {
       "added_at": "2023-05-15 01:15:13",

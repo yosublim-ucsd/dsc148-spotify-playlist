@@ -1,12 +1,12 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 8309,
+  "num_followers": 8307,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDIzYjI5MGNlM2FmOTEyOGQ0NDI2MzZjYjAyNjgzMGJjZjJmMjRm",
+  "snapshot_id": "MCw5NGIwYzVkM2U2YmE5ZmJhOWVkMTRmZjEyMzY0YjRlZmQ4ODRhYjli",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "\u00d3 Noite Santa",
-        "url": "https://open.spotify.com/album/0vXRWz90LTIjiXKcoorBfl"
-      },
-      "artists": [
-        {
-          "name": "Pedras Vivas",
-          "url": "https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F"
-        }
-      ],
-      "duration_ms": 310714,
-      "name": "\u00d3 Noite Santa",
-      "url": "https://open.spotify.com/track/5yhQjZ8DUS5SrPI5WNUYFi"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Emanuel",
         "url": "https://open.spotify.com/album/3fr0LeKrr6xCgzCoZlFCqi"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 279520,
       "name": "Emanuel",
       "url": "https://open.spotify.com/track/35iw6IUqq1E5k1h9P0xfhR"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "\u00d3 Noite Santa",
+        "url": "https://open.spotify.com/album/0vXRWz90LTIjiXKcoorBfl"
+      },
+      "artists": [
+        {
+          "name": "Pedras Vivas",
+          "url": "https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F"
+        }
+      ],
+      "duration_ms": 310714,
+      "name": "\u00d3 Noite Santa",
+      "url": "https://open.spotify.com/track/5yhQjZ8DUS5SrPI5WNUYFi"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Lindo \u00c9s (Beauty, Beauty)",
-        "url": "https://open.spotify.com/album/5ZUk82kpURcxXt1x2ShAZX"
-      },
-      "artists": [
-        {
-          "name": "Gabi Sampaio",
-          "url": "https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ"
-        }
-      ],
-      "duration_ms": 298488,
-      "name": "Lindo \u00c9s (Beauty, Beauty)",
-      "url": "https://open.spotify.com/track/2yxJ5NkW9MoibplQAO0pPN"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Nosso Natal",
         "url": "https://open.spotify.com/album/0evesoYPLqjpaYx6D5Y6bW"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 542964,
       "name": "Nosso Natal",
       "url": "https://open.spotify.com/track/59a4WSUh9OPf1CzGfuJjE3"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Lindo \u00c9s (Beauty, Beauty)",
+        "url": "https://open.spotify.com/album/5ZUk82kpURcxXt1x2ShAZX"
+      },
+      "artists": [
+        {
+          "name": "Gabi Sampaio",
+          "url": "https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ"
+        }
+      ],
+      "duration_ms": 298488,
+      "name": "Lindo \u00c9s (Beauty, Beauty)",
+      "url": "https://open.spotify.com/track/2yxJ5NkW9MoibplQAO0pPN"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Cl\u00e1ssicos",
+        "url": "https://open.spotify.com/album/3ZMh5UQE6PXXzx09BtUHz7"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        }
+      ],
+      "duration_ms": 220788,
+      "name": "Maravilhoso \u00c9 / Rei dos Reis",
+      "url": "https://open.spotify.com/track/10RdMJVJqgP8ooC3csHvi4"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Nasceu o Redentor",
         "url": "https://open.spotify.com/album/6UWRRZufr3qRffAOkIfTfW"
       },
@@ -803,22 +819,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Cl\u00e1ssicos",
-        "url": "https://open.spotify.com/album/3ZMh5UQE6PXXzx09BtUHz7"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        }
-      ],
-      "duration_ms": 220788,
-      "name": "Maravilhoso \u00c9 / Rei dos Reis",
-      "url": "https://open.spotify.com/track/10RdMJVJqgP8ooC3csHvi4"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "O Natal de Todos N\u00f3s",
         "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
       },
@@ -831,22 +831,6 @@
       "duration_ms": 284200,
       "name": "Noite Feliz (Stille Nacht)",
       "url": "https://open.spotify.com/track/51CfgUkv6ZVK5MMtsuBgWT"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Folk Christmas",
-        "url": "https://open.spotify.com/album/0FzqPCxiw93GwXTou4IvZX"
-      },
-      "artists": [
-        {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        }
-      ],
-      "duration_ms": 171571,
-      "name": "Surgem Anjos Proclamando",
-      "url": "https://open.spotify.com/track/5pNlqLCLOabYZ4loPeomBL"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -867,6 +851,22 @@
       "duration_ms": 337537,
       "name": "Apaixonado",
       "url": "https://open.spotify.com/track/0X7p8fytxMhvzzxaPJcDJk"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Folk Christmas",
+        "url": "https://open.spotify.com/album/0FzqPCxiw93GwXTou4IvZX"
+      },
+      "artists": [
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        }
+      ],
+      "duration_ms": 171571,
+      "name": "Surgem Anjos Proclamando",
+      "url": "https://open.spotify.com/track/5pNlqLCLOabYZ4loPeomBL"
     },
     {
       "added_at": "2023-12-22 03:00:00",

@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-729 songs - 2 day 2 hr 2 min
+730 songs - 2 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -586,6 +586,7 @@
 | [sounds like you had to be there](https://open.spotify.com/track/6PLqlfCATfJwX0Q2m6DugZ) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Twits](https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0) | 3:13 | 2023-11-08 | 2023-12-14 |
 | [Space Song](https://open.spotify.com/track/7sB9BkfzR1SsuHqjU3jtt1) | [mostly sleeping](https://open.spotify.com/artist/0c4hWy19I8yBCVb4dnrm31) | [Space Song](https://open.spotify.com/album/1dY1LX7VxNKtYqrC0xP8QE) | 3:58 | 2022-06-08 | 2022-07-07 |
 | [Spalarkling](https://open.spotify.com/track/0aUCqmtpFYCLmGsgdVZiJu) | [felicita](https://open.spotify.com/artist/6GmZBJpAV2nkNPFbF64QcX) | [Spalarkle \(Alys\)](https://open.spotify.com/album/51VDi4dvyyzEm2BC2m1pqT) | 2:45 | 2023-04-12 | 2023-05-18 |
+| [Spinning](https://open.spotify.com/track/0E2AcfdJAhmAZdLz85TQU3) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Spinning](https://open.spotify.com/album/5WcVopSnLSUMTFUuoeE1jA) | 6:14 | 2024-01-09 |  |
 | [Spirit 2.0](https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Spirit 2.0](https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv) | 4:49 | 2023-07-05 | 2023-08-31 |
 | [Spirit Loop](https://open.spotify.com/track/059WDHaxZOePXJAxn8gazv) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Spirit Loop](https://open.spotify.com/album/2eoyC2svpQvhA5xqpQ5S5t) | 4:05 | 2023-04-05 | 2023-05-11 |
 | [Spitting Off the Edge of the World](https://open.spotify.com/track/3kBBjItT7JnKi28k68dGkr) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Spitting Off the Edge of the World](https://open.spotify.com/album/1Jkvi8YFy8FpDK23tTlrhG) | 4:17 | 2022-06-08 | 2022-07-14 |

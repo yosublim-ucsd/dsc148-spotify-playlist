@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: biskuwi, Fatum
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,205 likes - 90 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,189 likes - 90 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Peace Rebel](https://open.spotify.com/track/39xq5dL8GwtmfDuOVULtMJ) | [T Raum](https://open.spotify.com/artist/7jHCloejllFXAIYkM6oWjB), [Kiko King](https://open.spotify.com/artist/41Zpr6YmxvrDei5y8xtxbp) | [Peace Rebel](https://open.spotify.com/album/2BnLUVIZ0qCw4Y6eTR5Y9L) | 7:10 |
 | 90 | [Carefree](https://open.spotify.com/track/34MukZuxsmQBRyCaeycuFf) | [Patrik Berg](https://open.spotify.com/artist/13SB6LyYpsdN2QPEqpYS9l) | [Fast Moves](https://open.spotify.com/album/2twrpjGygBmaKUh4cOrjpK) | 4:59 |
 
-Snapshot ID: `MCwwZTY2MmNiZmJhZDM5MzJhZjIzMmEwMzlmNjM0Y2Q1Y2RmMjBmNzgz`
+Snapshot ID: `MCw5NmNlN2Y2ZWFkNGY5OTgxNTk3NDE2MWQ5Njc2OGJlYWY0ODNkM2Fk`

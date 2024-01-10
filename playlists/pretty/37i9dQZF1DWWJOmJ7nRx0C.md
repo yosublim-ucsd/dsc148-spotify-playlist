@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > Instructions: volume up\. Cover: Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 938,285 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 937,142 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 99 | [MORE](https://open.spotify.com/track/2uqCJn5VFTf3sZEDJZvvX0) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [MORE](https://open.spotify.com/album/6qT2MHTarKxFvBPYH1txnS) | 3:07 |
 | 100 | [When You Look At Me](https://open.spotify.com/track/5BMsmADk2kH0syI2r3wTIt) | [Return to Dust](https://open.spotify.com/artist/53Hm23U3dtaHeB5Oy6GbaS) | [When You Look At Me](https://open.spotify.com/album/0dczbCZ25NvRJjwnWQoco0) | 3:30 |
 
-Snapshot ID: `MCw3Zjk4NWMxNDEyNjg5ZWNmNGE2Nzg5MzYwMDM2MTVkZmZhOGNlNzkx`
+Snapshot ID: `MCw3NzUzYzI1MzY5MjUwMjA4MjdlNmI2MDY4NGU0Nzk0ZjVjMDRjYTA1`

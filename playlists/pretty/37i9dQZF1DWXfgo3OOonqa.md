@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > Håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,278 likes - 91 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,166 likes - 91 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [51 \- Freestyle](https://open.spotify.com/track/7ImJxQ5V8hKBRIigwXcnMC) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Gore\-Tex, Vol\. 1 \(Freestyle\)](https://open.spotify.com/album/2e0pg7GXJw2PT54DnKmRK0) | 2:04 |
-| 2 | [Överallt](https://open.spotify.com/track/2O5WGi5MYNRSNiT47J5QbH) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Överallt](https://open.spotify.com/album/0Ma4pU6qyMUlk4wl24ncjM) | 2:05 |
-| 3 | [In Memory Of Some Stand Up Guys](https://open.spotify.com/track/1PSc8P84bB11Ase9bh4qFc) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:04 |
+| 1 | [Svar](https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:41 |
+| 2 | [51 \- Freestyle](https://open.spotify.com/track/7ImJxQ5V8hKBRIigwXcnMC) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Gore\-Tex, Vol\. 1 \(Freestyle\)](https://open.spotify.com/album/2e0pg7GXJw2PT54DnKmRK0) | 2:04 |
+| 3 | [Överallt](https://open.spotify.com/track/2O5WGi5MYNRSNiT47J5QbH) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Överallt](https://open.spotify.com/album/0Ma4pU6qyMUlk4wl24ncjM) | 2:05 |
 | 4 | [YOUNG THUG PÅ 1M](https://open.spotify.com/track/6b88vMQia1ddGYjkQPTizO) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [DAN](https://open.spotify.com/artist/0nBco1iBK1g1CJVrJWQUlp) | [YOUNG THUG PÅ 1M](https://open.spotify.com/album/4ZjRNNwA1ldmgFausc2oby) | 2:25 |
 | 5 | [Top Notch](https://open.spotify.com/track/5QrHaI2f2gTwDLMvV14ecf) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Top Notch](https://open.spotify.com/album/4bc8UZIOPt9TIw4D9mnhki) | 2:28 |
 | 6 | [Holy Father](https://open.spotify.com/track/5L3rVVMUlgJgDRaXc4V3wt) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Holy Father](https://open.spotify.com/album/3EDPjtq7VheovIXi7hXCTu) | 2:38 |
 | 7 | [Roma](https://open.spotify.com/track/72Vowls7A5ZiLp8bfAOPig) | [FGZ](https://open.spotify.com/artist/4Si6O7X4gvXWjVF2yYzORs) | [Roma](https://open.spotify.com/album/56IVBQgF3IcQE3cYrrsDJL) | 2:41 |
-| 8 | [Svar](https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:41 |
-| 9 | [We Lit](https://open.spotify.com/track/48Cgrs2KhleyXMRtoOSbK5) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Kod Röd](https://open.spotify.com/album/6ghcTg1cb6We9GWZGOWOgH) | 2:33 |
+| 8 | [We Lit](https://open.spotify.com/track/48Cgrs2KhleyXMRtoOSbK5) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Kod Röd](https://open.spotify.com/album/6ghcTg1cb6We9GWZGOWOgH) | 2:33 |
+| 9 | [In Memory Of Some Stand Up Guys](https://open.spotify.com/track/1PSc8P84bB11Ase9bh4qFc) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:04 |
 | 10 | [Hjärta](https://open.spotify.com/track/2ovn0uhOcqZOaOFbJiAh2d) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Hjärta](https://open.spotify.com/album/2bZBvHKMCyYt3VdTSa8kPH) | 2:38 |
 | 11 | [MANI MO](https://open.spotify.com/track/2u3YjxcWC0C1daH0h369XP) | [Gaboro](https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx), [MAKKARA](https://open.spotify.com/artist/60HnrRv64mpNfBKTKU9Cdz) | [MANI MO](https://open.spotify.com/album/1KxMeY2rnaFZZfVb48a2jG) | 2:28 |
 | 12 | [Twogunkid](https://open.spotify.com/track/0kxi8BDubqlXhRqTkuIZe7) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [En paus från internet \- Del 1](https://open.spotify.com/album/3kda21yqjtpYe0WRwgOk00) | 2:16 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 32 | [LAST DANCE](https://open.spotify.com/track/5TwvvppjNqEpguRX6V63J7) | [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h) | [LAST DANCE](https://open.spotify.com/album/7koez1d7j3mUbuScPH2ncv) | 2:33 |
 | 33 | [Vi vill också må bra](https://open.spotify.com/track/5GK41YLUSgKTfWAyNjq5D2) | [Arre](https://open.spotify.com/artist/0zthfMGI89IDEklrlkytLP) | [Vi vill också må bra](https://open.spotify.com/album/221HIgfq7aPz29GbnC6uzR) | 2:18 |
 | 34 | [AMSTERDAM](https://open.spotify.com/track/7eL5hEvqtNmqG4FkYCYbfX) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 1:27 |
-| 35 | [Automatic RMX \(feat\. Baby Gang\)](https://open.spotify.com/track/0u3Hx0SSWhemODiuA7ZV14) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Automatic RMX \(feat\. Baby Gang\)](https://open.spotify.com/album/3j6szanjkO1lTjsL6xAPeo) | 2:10 |
+| 35 | [Automatic RMX \(feat\. Baby Gang\)](https://open.spotify.com/track/026dkD9v7C8L8AIWCerga6) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:10 |
 | 36 | [ComWiq](https://open.spotify.com/track/5g5vNMF2yJjWtERlMykJeD) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5), [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [ComWiq](https://open.spotify.com/album/3gL98Cetrxjg3NTGXKEzr4) | 2:44 |
 | 37 | [Om & Om](https://open.spotify.com/track/1bcYfrBhfeDeA4Qep622fh) | [Denz](https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7), [Nordik Beatz](https://open.spotify.com/artist/5tUMfmPXYszsVvtXHnITtD) | [Om & Om](https://open.spotify.com/album/047HhbkClcqCs840O6W8dn) | 2:23 |
 | 38 | [TOXIC](https://open.spotify.com/track/4eIMdJQXQ0HobHTWKcma2B) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [TOXIC](https://open.spotify.com/album/6NwRMczd6U8GCIAuakwRAt) | 2:20 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 90 | [TURN](https://open.spotify.com/track/6j5QuG4MlwvSgSY0D6DMRI) | [LKay](https://open.spotify.com/artist/0ao2HCPhWbdBSA6Sa94xTa), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [TURN](https://open.spotify.com/album/0ynIkR95qfhpCK0KAFbe8l) | 2:43 |
 | 91 | [ELTON](https://open.spotify.com/track/0piouxd8gy4K1DnKMBAO0c) | [2M](https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c) | [ELTON](https://open.spotify.com/album/2xNPeHuKdpeCyn65rkhN40) | 2:10 |
 
-Snapshot ID: `MCwwZTNjNWMzZjM0Yjk4YmU2YjIyMjRjMTI1YjE0ZTA5MjM0YzFhMTI1`
+Snapshot ID: `MCwxN2ZjMTdmZmVhZTg2NjE5NzQ1YzAwMzY1MmFkZDU2ZGFmYjNhZjBi`

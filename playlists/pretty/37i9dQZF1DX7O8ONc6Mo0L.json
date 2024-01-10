@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Ton Carfi",
-  "num_followers": 286466,
+  "num_followers": 286378,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzVlNWNiODhjNTY1NmM4ZDJkZGU5YTYwMzBlZDAzMGE2MjJkZTIy",
+  "snapshot_id": "MCwzMTE2ZTU1OWNjNDdkN2EzNjUyOWRhMjNhMWVmNjRjMGEwYzc1NTg2",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -467,22 +467,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Deus Cuida de Mim",
-        "url": "https://open.spotify.com/album/29l7yrLpvUqFzbtq6us7Jn"
+        "name": "Ac\u00fastico Mergulhar",
+        "url": "https://open.spotify.com/album/6pIY0cvrF5FrOtBHoPtInI"
       },
       "artists": [
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Kleber Lucas",
-          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
+          "name": "Minist\u00e9rio Mergulhar",
+          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
         }
       ],
-      "duration_ms": 224485,
-      "name": "Deus Cuida de Mim",
-      "url": "https://open.spotify.com/track/1oA2BvYw6lWg4MxM4ALmyG"
+      "duration_ms": 374143,
+      "name": "Eu Me Rendo (I Surrender) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2WGlHxK3Cwd7bEIT9D0dAY"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -503,18 +499,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Ac\u00fastico Mergulhar",
-        "url": "https://open.spotify.com/album/6pIY0cvrF5FrOtBHoPtInI"
+        "name": "Deus Cuida de Mim",
+        "url": "https://open.spotify.com/album/29l7yrLpvUqFzbtq6us7Jn"
       },
       "artists": [
         {
-          "name": "Minist\u00e9rio Mergulhar",
-          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Kleber Lucas",
+          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
         }
       ],
-      "duration_ms": 374143,
-      "name": "Eu Me Rendo (I Surrender) - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2WGlHxK3Cwd7bEIT9D0dAY"
+      "duration_ms": 224485,
+      "name": "Deus Cuida de Mim",
+      "url": "https://open.spotify.com/track/1oA2BvYw6lWg4MxM4ALmyG"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
-      },
-      "artists": [
-        {
-          "name": "Nathan Asafe",
-          "url": "https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA"
-        }
-      ],
-      "duration_ms": 302750,
-      "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "O Lugar (Ao Vivo)",
         "url": "https://open.spotify.com/album/3b5JIWeAc983PvpFjscVjb"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 211999,
       "name": "O Lugar (Ao Vivo)",
       "url": "https://open.spotify.com/track/21KjObq0eAFQD3Dahk5O2m"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
+      },
+      "artists": [
+        {
+          "name": "Nathan Asafe",
+          "url": "https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA"
+        }
+      ],
+      "duration_ms": 302750,
+      "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Formoso \u00c9s (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3VrYf1WUs45obGKYZzUb70"
-      },
-      "artists": [
-        {
-          "name": "Dunamis Music",
-          "url": "https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce"
-        },
-        {
-          "name": "Rapha Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/5b2nsXfz4EhaCuONCfEvui"
-        }
-      ],
-      "duration_ms": 278500,
-      "name": "Formoso \u00c9s - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3aEqPmCyU6HaoVmtrsmFCa"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Estou Com Voc\u00ea (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4xtgYl7Z9EIXPnwKWz7IGu"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 285000,
       "name": "Estou Com Voc\u00ea - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1q5Dqlj8PNIuqaSx9VzNrX"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Formoso \u00c9s (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3VrYf1WUs45obGKYZzUb70"
+      },
+      "artists": [
+        {
+          "name": "Dunamis Music",
+          "url": "https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce"
+        },
+        {
+          "name": "Rapha Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/5b2nsXfz4EhaCuONCfEvui"
+        }
+      ],
+      "duration_ms": 278500,
+      "name": "Formoso \u00c9s - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3aEqPmCyU6HaoVmtrsmFCa"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "On Tape (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7vdwMqaBgN4HX0ElfzGMwL"
-      },
-      "artists": [
-        {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        }
-      ],
-      "duration_ms": 228388,
-      "name": "Falar Com Deus - Faixa B\u00f4nus",
-      "url": "https://open.spotify.com/track/0hWrNzTck3XeSk05UGmd7b"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Ele \u00c9 Exaltado (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5IDjJqDcj4Xr5r56HXBYWI"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 135000,
       "name": "Ele \u00c9 Exaltado - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7dZ19T2Sn5ZRUKeIqRakF1"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "On Tape (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7vdwMqaBgN4HX0ElfzGMwL"
+      },
+      "artists": [
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        }
+      ],
+      "duration_ms": 228388,
+      "name": "Falar Com Deus - Faixa B\u00f4nus",
+      "url": "https://open.spotify.com/track/0hWrNzTck3XeSk05UGmd7b"
     }
   ],
   "unique_name": "Gospel Ac\u00fastico",

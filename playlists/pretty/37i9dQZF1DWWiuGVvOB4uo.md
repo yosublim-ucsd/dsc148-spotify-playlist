@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 
 > Acoustic covers of all your favourite songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,611 likes - 128 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,967 likes - 128 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 | 106 | [My Girl](https://open.spotify.com/track/05TVM0mkxmxvQir279cFFu) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz) | 3:01 |
 | 107 | [Hey There Delilah](https://open.spotify.com/track/1cwlTB94HAguRS4RRZ7oRW) | [stories](https://open.spotify.com/artist/2TzZg302CB0oW5ZMeTW98p), [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Hey There Delilah](https://open.spotify.com/album/3qsoB2nhBMHwjwns50qDgr) | 3:15 |
 | 108 | [First Date \- Acoustic](https://open.spotify.com/track/7sskqSUwyGS5DIf3PCFsDS) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [First Date \(Acoustic\)](https://open.spotify.com/album/01vxszmVdERPN5jDRcEDwo) | 2:55 |
-| 109 | [What Makes You Beautiful](https://open.spotify.com/track/1H42VdCQ97or9QjnH5tlXf) | [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [What Makes You Beautiful](https://open.spotify.com/album/4iW9eYGpYhIQ1p4QC05ihN) | 2:48 |
+| 109 | [What Makes You Beautiful](https://open.spotify.com/track/4ExpBFkBgqT7Uexuwo0lU4) | [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [What Makes You Beautiful](https://open.spotify.com/album/5TEUGJdUEUeRbjxOwO44s7) | 2:48 |
 | 110 | [Someone You Loved](https://open.spotify.com/track/5VhW6Px1Nxc2gTqdS4isdl) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Acoustic Sessions](https://open.spotify.com/album/3BY5B7BMQJ2LwKAjw5SJu8) | 3:25 |
 | 111 | [Take on Me](https://open.spotify.com/track/1KUPfNsRaZbZB3NUeXhUcm) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Take on Me](https://open.spotify.com/album/12NMWW1pgidVHBD6XU8vfz) | 3:09 |
 | 112 | [Have You Ever Seen the Rain \- Acoustic](https://open.spotify.com/track/1MPMpqmDKREPHRguiYzq5S) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw), [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Have You Ever Seen the Rain \(Acoustic\)](https://open.spotify.com/album/5p474hS01UBEVVqLi1xaaL) | 2:46 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 | 127 | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/track/3fORBfRj5nyTDvsCslufoH) | [Catey Shaw](https://open.spotify.com/artist/5nfow6tv4Dtm6K4WHzczBI) | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/album/4MBX8MJkzfTltROCMA4FUy) | 3:28 |
 | 128 | [Heather \- Spotify Singles](https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 3:10 |
 
-Snapshot ID: `MCw0NjhhMzA3MWFmNjJiYzVlZWIwN2YxZDI5M2UxYmZhYjJlNzllNGRm`
+Snapshot ID: `MCxlZGY3ZDZjMGVkNDcxZTIyNGM5MmY0YzUxY2Y5OTI0ZjhlM2MzY2Rh`

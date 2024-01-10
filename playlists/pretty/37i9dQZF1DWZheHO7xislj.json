@@ -1,12 +1,12 @@
 {
   "description": "Classic and new soul music for the perfect dinner.",
-  "num_followers": 139408,
+  "num_followers": 139400,
   "original_name": "Soulful Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjUyMWFhM2EwNGUyZDRmZGQ2M2JkZjA1MjAyNjczNTViNjM4OTRl",
+  "snapshot_id": "MCw1N2NhMjM5ZTVmMDQ2MDZjMDVkMGE5MTlmMjFiZGNmY2RlNWQ2YTRi",
   "tracks": [
     {
       "added_at": "2023-08-15 12:19:30",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Very Best Of The Staple Singers",
-        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
-      },
-      "artists": [
-        {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "I'll Take You There",
-      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Make Way for Dionne Warwick",
         "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 178333,
       "name": "Walk on By",
       "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "The Very Best Of The Staple Singers",
+        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "I'll Take You There",
+      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "I'm Still in Love with You",
+        "url": "https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 307062,
+      "name": "Love and Happiness",
+      "url": "https://open.spotify.com/track/6SMHgPgNkhe9lneNTbgtel"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 324040,
       "name": "Biggest Part of Me",
       "url": "https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "I'm Still in Love with You",
-        "url": "https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 307062,
-      "name": "Love and Happiness",
-      "url": "https://open.spotify.com/track/6SMHgPgNkhe9lneNTbgtel"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Gaucho",
-        "url": "https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 307400,
-      "name": "Hey Nineteen",
-      "url": "https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Al Green Explores Your Mind",
         "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 225373,
       "name": "Take Me to the River",
       "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Gaucho",
+        "url": "https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 307400,
+      "name": "Hey Nineteen",
+      "url": "https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The George Benson Collection",
-        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 316160,
-      "name": "On Broadway",
-      "url": "https://open.spotify.com/track/2oFxITGDiTZ1JRwP8yinRt"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Adventures In Paradise",
         "url": "https://open.spotify.com/album/0OoRiTZs9hsRz7KxB8JkSX"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 250866,
       "name": "Baby, This Love I Have",
       "url": "https://open.spotify.com/track/397fxHew7NyjryGWGr1Imy"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "The George Benson Collection",
+        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 316160,
+      "name": "On Broadway",
+      "url": "https://open.spotify.com/track/2oFxITGDiTZ1JRwP8yinRt"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Baby Huey Story: The Living Legend",
-        "url": "https://open.spotify.com/album/2lTfjZPS0xFQE3cbGZf92T"
-      },
-      "artists": [
-        {
-          "name": "Baby Huey",
-          "url": "https://open.spotify.com/artist/3YFP5QHEKv8RZZsPminjdv"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/7ycU5Bxfn2fIZjXJypfdRM"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Givin' It Back",
         "url": "https://open.spotify.com/album/0xd0GqZYWh9wEA3TuqMy5h"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 223520,
       "name": "Love the One You're With",
       "url": "https://open.spotify.com/track/0NnyYBnyStcNKDu7PejLPF"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "The Baby Huey Story: The Living Legend",
+        "url": "https://open.spotify.com/album/2lTfjZPS0xFQE3cbGZf92T"
+      },
+      "artists": [
+        {
+          "name": "Baby Huey",
+          "url": "https://open.spotify.com/artist/3YFP5QHEKv8RZZsPminjdv"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/7ycU5Bxfn2fIZjXJypfdRM"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Capitol Gold: The Best Of Minnie Riperton",
-        "url": "https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL"
-      },
-      "artists": [
-        {
-          "name": "Minnie Riperton",
-          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
-        }
-      ],
-      "duration_ms": 238693,
-      "name": "Inside My Love - Remastered 1993",
-      "url": "https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "George McCrae - Disco Pioneer",
         "url": "https://open.spotify.com/album/3qJGzbhk63pzwqzpTr0bxt"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 200053,
       "name": "Rock Your Baby",
       "url": "https://open.spotify.com/track/16KwF7IrKHTVTitUKH58g3"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Capitol Gold: The Best Of Minnie Riperton",
+        "url": "https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL"
+      },
+      "artists": [
+        {
+          "name": "Minnie Riperton",
+          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
+        }
+      ],
+      "duration_ms": 238693,
+      "name": "Inside My Love - Remastered 1993",
+      "url": "https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Remember the Rain",
+        "url": "https://open.spotify.com/album/7yAsGlw9DqLpC6dICnIqtg"
+      },
+      "artists": [
+        {
+          "name": "Kadhja Bonet",
+          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
+        }
+      ],
+      "duration_ms": 280062,
+      "name": "Remember the Rain",
+      "url": "https://open.spotify.com/track/3bPlMzfHJMYqdAC80NLPTb"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "Just As I Am",
         "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
       },
@@ -1851,38 +1867,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Remember the Rain",
-        "url": "https://open.spotify.com/album/7yAsGlw9DqLpC6dICnIqtg"
-      },
-      "artists": [
-        {
-          "name": "Kadhja Bonet",
-          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
-        }
-      ],
-      "duration_ms": 280062,
-      "name": "Remember the Rain",
-      "url": "https://open.spotify.com/track/3bPlMzfHJMYqdAC80NLPTb"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "Nina Simone Sings The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 164986,
-      "name": "Do I Move You?",
-      "url": "https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Soul Messin'",
         "url": "https://open.spotify.com/album/5WPhlzl38yomyOqn5MNnMe"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 224000,
       "name": "This Girl",
       "url": "https://open.spotify.com/track/5TJD3o52h1wMDoU0cYGwTv"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 164986,
+      "name": "Do I Move You?",
+      "url": "https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Very Best of Aretha Franklin - The 70's",
-        "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 333933,
-      "name": "Bridge over Troubled Water",
-      "url": "https://open.spotify.com/track/5YD86vWLu1YqR818b1GADO"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 265186,
       "name": "The Sweetest Taboo - Remastered",
       "url": "https://open.spotify.com/track/5SRvh35HZmN5bNe8iT4ST5"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "The Very Best of Aretha Franklin - The 70's",
+        "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 333933,
+      "name": "Bridge over Troubled Water",
+      "url": "https://open.spotify.com/track/5YD86vWLu1YqR818b1GADO"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2379,18 +2379,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Liquid Spirit (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2o86ajLsjwh2FWTdD9vmjj"
+        "name": "Take Me To The Alley",
+        "url": "https://open.spotify.com/album/4www5vBDvAP3VXKgDoLZLZ"
       },
       "artists": [
         {
           "name": "Gregory Porter",
           "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        },
+        {
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
         }
       ],
-      "duration_ms": 235573,
-      "name": "No Love Dying",
-      "url": "https://open.spotify.com/track/03BN4IvMyiT9OEDJv2fH5n"
+      "duration_ms": 254893,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/0NnM0CgQaifZmhDquugyZV"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2507,22 +2511,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Take Me To The Alley",
-        "url": "https://open.spotify.com/album/4www5vBDvAP3VXKgDoLZLZ"
+        "name": "Liquid Spirit (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2o86ajLsjwh2FWTdD9vmjj"
       },
       "artists": [
         {
           "name": "Gregory Porter",
           "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        },
-        {
-          "name": "Kem",
-          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
         }
       ],
-      "duration_ms": 254893,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/0NnM0CgQaifZmhDquugyZV"
+      "duration_ms": 235573,
+      "name": "No Love Dying",
+      "url": "https://open.spotify.com/track/03BN4IvMyiT9OEDJv2fH5n"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2647,22 +2647,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Jim",
-        "url": "https://open.spotify.com/album/1tLJLTMFumKOyXQ9Cwnb0g"
-      },
-      "artists": [
-        {
-          "name": "Jamie Lidell",
-          "url": "https://open.spotify.com/artist/6ASGmWCYupa0CXGtsDdYSI"
-        }
-      ],
-      "duration_ms": 242720,
-      "name": "Little Bit of Feel Good",
-      "url": "https://open.spotify.com/track/28jg9LDVwisxGNGN8Wl2UD"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Second to None",
         "url": "https://open.spotify.com/album/4oREyJ5IyyNwPjbv8p6BlH"
       },
@@ -2675,6 +2659,22 @@
       "duration_ms": 174333,
       "name": "Win Or Lose",
       "url": "https://open.spotify.com/track/3rbkg8h6onwZLP0QJXt6oI"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Jim",
+        "url": "https://open.spotify.com/album/1tLJLTMFumKOyXQ9Cwnb0g"
+      },
+      "artists": [
+        {
+          "name": "Jamie Lidell",
+          "url": "https://open.spotify.com/artist/6ASGmWCYupa0CXGtsDdYSI"
+        }
+      ],
+      "duration_ms": 242720,
+      "name": "Little Bit of Feel Good",
+      "url": "https://open.spotify.com/track/28jg9LDVwisxGNGN8Wl2UD"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2911,22 +2911,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Lay It On Me: The Columbia Years",
-        "url": "https://open.spotify.com/album/2QXDHYR0zmMUWQp7RfA6pV"
-      },
-      "artists": [
-        {
-          "name": "Gwen McCrae",
-          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
-        }
-      ],
-      "duration_ms": 132013,
-      "name": "Lead Me On",
-      "url": "https://open.spotify.com/track/3oVXnhQusiMpvngzok4UjJ"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Please Love Me",
         "url": "https://open.spotify.com/album/01JqEExj71fdFiiwLuIUfx"
       },
@@ -2939,6 +2923,22 @@
       "duration_ms": 177600,
       "name": "Please Love Me",
       "url": "https://open.spotify.com/track/5TAAAGDA3mqpGmlNqxNPGb"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Lay It On Me: The Columbia Years",
+        "url": "https://open.spotify.com/album/2QXDHYR0zmMUWQp7RfA6pV"
+      },
+      "artists": [
+        {
+          "name": "Gwen McCrae",
+          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
+        }
+      ],
+      "duration_ms": 132013,
+      "name": "Lead Me On",
+      "url": "https://open.spotify.com/track/3oVXnhQusiMpvngzok4UjJ"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -3179,18 +3179,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "FEVER",
-        "url": "https://open.spotify.com/album/2QcXOk9Jd26gGzg8jTg3Ck"
+        "name": "Another Side",
+        "url": "https://open.spotify.com/album/1eSgEDszxXr6haafSVkK7u"
       },
       "artists": [
         {
-          "name": "Thomas Dybdahl",
-          "url": "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
+          "name": "Leo Nocentelli",
+          "url": "https://open.spotify.com/artist/7wpiEcyGHoPCwTLtdgx50e"
         }
       ],
-      "duration_ms": 183275,
-      "name": "45",
-      "url": "https://open.spotify.com/track/33tsDNAc6GeNXidKLCHhfz"
+      "duration_ms": 214506,
+      "name": "You've Become a Habit",
+      "url": "https://open.spotify.com/track/373YZS4hMUPxFTHMG4TAFh"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -3231,18 +3231,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Another Side",
-        "url": "https://open.spotify.com/album/1eSgEDszxXr6haafSVkK7u"
+        "name": "FEVER",
+        "url": "https://open.spotify.com/album/2QcXOk9Jd26gGzg8jTg3Ck"
       },
       "artists": [
         {
-          "name": "Leo Nocentelli",
-          "url": "https://open.spotify.com/artist/7wpiEcyGHoPCwTLtdgx50e"
+          "name": "Thomas Dybdahl",
+          "url": "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
         }
       ],
-      "duration_ms": 214506,
-      "name": "You've Become a Habit",
-      "url": "https://open.spotify.com/track/373YZS4hMUPxFTHMG4TAFh"
+      "duration_ms": 183275,
+      "name": "45",
+      "url": "https://open.spotify.com/track/33tsDNAc6GeNXidKLCHhfz"
     },
     {
       "added_at": "2023-08-15 12:19:30",

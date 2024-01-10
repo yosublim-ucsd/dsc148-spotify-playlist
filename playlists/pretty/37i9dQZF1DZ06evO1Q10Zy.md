@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 
 > This is Babyface\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,656 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,647 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 39 | [It's No Crime](https://open.spotify.com/track/2zFqQ0xLiMHOVUuV5zw9Gq) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tender Lover](https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb) | 4:01 |
 | 40 | [I Want You](https://open.spotify.com/track/1G4BiWFYJINM6NXJ43sWka) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [Return Of The Tender Lover](https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw) | 4:19 |
 | 41 | [Grown & Sexy](https://open.spotify.com/track/2FlaI8o6RjwfiwyN2eMkOY) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Grown & Sexy](https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog) | 4:03 |
-| 42 | [For The Cool In You](https://open.spotify.com/track/6kn5z6hltWF6C9rItSvAzA) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [For The Cool In You](https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX) | 4:53 |
-| 43 | [You Make Me Feel Brand New](https://open.spotify.com/track/4AK8YjpnRNHHFFQKSvqtmE) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Lovers](https://open.spotify.com/album/3pw5V9vCxISf2edu7otGJM) | 5:03 |
+| 42 | [You Make Me Feel Brand New](https://open.spotify.com/track/4AK8YjpnRNHHFFQKSvqtmE) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Lovers](https://open.spotify.com/album/3pw5V9vCxISf2edu7otGJM) | 5:03 |
+| 43 | [For The Cool In You](https://open.spotify.com/track/6kn5z6hltWF6C9rItSvAzA) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [For The Cool In You](https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX) | 4:53 |
 | 44 | [Seamless \(with Kehlani\)](https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Seamless \(with Kehlani\)](https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV) | 3:15 |
 | 45 | [The Loneliness](https://open.spotify.com/track/19i9vT76D5UCM5GyHe7FcW) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Grown & Sexy](https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog) | 4:36 |
 | 46 | [Two Occasions \(Live\) \- Live Version](https://open.spotify.com/track/6SoTirMFTzsTEnxEXaDvPy) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [A Closer Look](https://open.spotify.com/album/3scHFBGPXH6we6uOCo6DeT) | 5:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 49 | [Kim Porter \(feat\. Babyface and John Legend\)](https://open.spotify.com/track/7mabI2ZeervrxqQ2qoWICP) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 7:17 |
 | 50 | [Our Love](https://open.spotify.com/track/3NGqHeg1tIqtgy82EfyKYp) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Return Of The Tender Lover](https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw) | 4:38 |
 
-Snapshot ID: `Mjg0MTE5MDAsMDAwMDAwMDBjOTc3NDljOGViNjEyNjU1MWZjYzY0MWNmZjE1N2U0Mg==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDA4ZDdkODYzNTQ5ZjVlMTJmMDc1N2U2ZTU5M2RkNTkwOQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GdOmc.md) - [plain]
 
 > This is Casting Crowns\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,386 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,413 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GdOmc.md) - [plain]
 | 14 | [Scars in Heaven](https://open.spotify.com/track/2qg7U5mbHDFTXNKvPNF0IZ) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Scars in Heaven](https://open.spotify.com/album/6pdwWxEt670pc5jYxzbmYf) | 4:28 |
 | 15 | [God of All My Days](https://open.spotify.com/track/2zqbu8PfKMlNHKBXUvLvWi) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [The Very Next Thing](https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S) | 5:01 |
 | 16 | [Start Right Here](https://open.spotify.com/track/2zpcDiFVgJ53BeMuJK40aX) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Only Jesus](https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB) | 3:40 |
-| 17 | [Great Are You Lord \- Live](https://open.spotify.com/track/4raGCYqMOIn8n9bgQJSNxk) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [A Live Worship Experience](https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq) | 6:33 |
-| 18 | [Crazy People](https://open.spotify.com/track/2WCHNPQYkjeuoVzcuEBaFF) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Healer](https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw) | 2:28 |
+| 17 | [Crazy People](https://open.spotify.com/track/2WCHNPQYkjeuoVzcuEBaFF) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Healer](https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw) | 2:28 |
+| 18 | [Great Are You Lord \- Live](https://open.spotify.com/track/4raGCYqMOIn8n9bgQJSNxk) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [A Live Worship Experience](https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq) | 6:33 |
 | 19 | [One Step Away](https://open.spotify.com/track/5hOYQACuJVKPsVcTHjaeEH) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [The Very Next Thing](https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S) | 3:36 |
 | 20 | [Courageous](https://open.spotify.com/track/28Bao9cmaIMsqxragOM8ba) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Come To The Well](https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze) | 3:59 |
-| 21 | [Here's My Heart \- Live](https://open.spotify.com/track/4lD6Rr1Z7oNhKh0EtdCNpf) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [A Live Worship Experience](https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq) | 6:51 |
-| 22 | [If We Are The Body](https://open.spotify.com/track/0IpYDPNzFWxcLgZDkkrc5C) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Casting Crowns](https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc) | 3:58 |
+| 21 | [If We Are The Body](https://open.spotify.com/track/0IpYDPNzFWxcLgZDkkrc5C) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Casting Crowns](https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc) | 3:58 |
+| 22 | [Here's My Heart \- Live](https://open.spotify.com/track/4lD6Rr1Z7oNhKh0EtdCNpf) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [A Live Worship Experience](https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq) | 6:51 |
 | 23 | [Even When You're Running](https://open.spotify.com/track/1A1JXSMsVOrPe2UV3PNhHl) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Only Jesus](https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB) | 4:49 |
 | 24 | [Healer](https://open.spotify.com/track/6rt4pxatKBWEK34ElopOmw) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Healer](https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw) | 3:11 |
 | 25 | ['Tis So Sweet To Trust In Jesus](https://open.spotify.com/track/68QjFdBRwqWSgfxRnEu9SZ) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Glorious Day: Hymns of Faith](https://open.spotify.com/album/3hB7IALT7uaNMC6Ol0elbo) | 3:16 |
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GdOmc.md) - [plain]
 | 35 | [Broken Together](https://open.spotify.com/track/2PuvIyN4e2w2i4GIjWCqsB) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Thrive](https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY) | 4:41 |
 | 36 | [Lifesong](https://open.spotify.com/track/5upa2GofaZrflJ5mW2y0OR) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Lifesong](https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc) | 5:16 |
 | 37 | [One Awkward Moment](https://open.spotify.com/track/7BAUDW6RQ8XfRCjmJ9HypC) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Only Jesus](https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB) | 4:32 |
-| 38 | [No Hurt](https://open.spotify.com/track/2GhHGQlN5X0KflaSxAuMZf) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Healer \(Deluxe\)](https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4) | 3:12 |
+| 38 | [When We All Get to Heaven](https://open.spotify.com/track/0IL8cGV1ni3VP2SFeNCRuJ) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Glorious Day: Hymns of Faith](https://open.spotify.com/album/3hB7IALT7uaNMC6Ol0elbo) | 3:03 |
 | 39 | [All You've Ever Wanted](https://open.spotify.com/track/5lSVszuv0PGnfvh2HTWq1k) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Thrive](https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY) | 4:01 |
-| 40 | [Slow Fade](https://open.spotify.com/track/3GkIRSRXThXbSfQTKcMApx) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [The Altar and The Door](https://open.spotify.com/album/3YNvCS8uVgcJVMfk2Ad8EL) | 4:37 |
-| 41 | [When We All Get to Heaven](https://open.spotify.com/track/0IL8cGV1ni3VP2SFeNCRuJ) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Glorious Day: Hymns of Faith](https://open.spotify.com/album/3hB7IALT7uaNMC6Ol0elbo) | 3:03 |
-| 42 | [Does Anybody Hear Her](https://open.spotify.com/track/7pJB2CjZQUt4Ig1fdPQl5s) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Lifesong](https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc) | 4:28 |
+| 40 | [No Hurt](https://open.spotify.com/track/2GhHGQlN5X0KflaSxAuMZf) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Healer \(Deluxe\)](https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4) | 3:12 |
+| 41 | [Does Anybody Hear Her](https://open.spotify.com/track/7pJB2CjZQUt4Ig1fdPQl5s) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Lifesong](https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc) | 4:28 |
+| 42 | [Slow Fade](https://open.spotify.com/track/3GkIRSRXThXbSfQTKcMApx) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [The Altar and The Door](https://open.spotify.com/album/3YNvCS8uVgcJVMfk2Ad8EL) | 4:37 |
 | 43 | [Until The Whole World Hears](https://open.spotify.com/track/0bZ9e7IoTlBnivvPEbNY6b) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Until The Whole World Hears](https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i) | 5:03 |
 | 44 | [Anything But Easy](https://open.spotify.com/track/2D7d85KIN7zckN4g177TGE) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Healer](https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw) | 3:43 |
 | 45 | [What If I Gave Everything](https://open.spotify.com/track/1YEUxb72rwYLEUv48AC3eE) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [The Very Next Thing](https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GdOmc.md) - [plain]
 | 49 | [Song That the Angels Can't Sing](https://open.spotify.com/track/3EWv66RNUPkc1NT5lVSLqF) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [The Very Next Thing](https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S) | 3:20 |
 | 50 | [On This Desert Road](https://open.spotify.com/track/3MFbObnkO53PRjcNYN7Itu) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [Mark Hall](https://open.spotify.com/artist/6Mv17l9MQGEB30u1vDtNIM), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Lifesongs: A Celebration of the First 20 Years](https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8) | 4:11 |
 
-Snapshot ID: `Mjg0MTE5MDAsMDAwMDAwMDBhY2IwMTAyY2EwODRiMDcyZDQ5YmEyZTljOGU3YjU0Mw==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDA3MGQ0NDllOTUwMDMyNTgwYjk4Y2I2NjdjNjJhMGQzMA==`

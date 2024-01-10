@@ -4,7 +4,7 @@
 
 > Discover the multifaceted creativity of the black queer community\. Cover: Janelle Monáe
 
-162 songs - 8 hr 43 min
+163 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [BAD HABITS](https://open.spotify.com/track/6syPVEsTBgBnBORZAsNQnH) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [who's loving you?](https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR) | 3:05 | 2023-10-05 | 2024-01-07 |
 | [Beach](https://open.spotify.com/track/591OojQCkyOLyMqmJRVyyc) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Risk](https://open.spotify.com/album/1slDbdhOlw9i2XDsaEVQeo) | 2:06 | 2023-10-05 | 2023-10-18 |
 | [Betty Bussit \(feat\. Soaky Siren & Tank and The Bangas\)](https://open.spotify.com/track/0x754YEyX1foz1WkbRF4uY) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Soaky Siren](https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC), [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [Betty Bussit \(feat\. Soaky Siren & Tank and The Bangas\)](https://open.spotify.com/album/6ewbAPvSTZ7a9LGa9yQw6K) | 2:56 | 2021-06-25 | 2022-08-05 |
-| [Bikini Bottom](https://open.spotify.com/track/0BlMeDRvAOgRjUDDLamIaO) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 1:46 | 2023-04-06 |  |
+| [Bikini Bottom](https://open.spotify.com/track/0BlMeDRvAOgRjUDDLamIaO) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 1:46 | 2023-04-06 | 2024-01-10 |
+| [Bikini Bottom](https://open.spotify.com/track/27Qz0cFmMGADsniMeUwyUe) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Bikini Bottom](https://open.spotify.com/album/2n38ZBBmPSssEGGPgu6NPl) | 1:46 | 2023-04-06 |  |
 | [Bikini Bottom](https://open.spotify.com/track/3ylgJvzFdjbcXNcxj9mXku) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg) | 1:46 | 2023-04-06 | 2023-07-25 |
 | [Bikini Bottom](https://open.spotify.com/track/4RsqpFi9rvEfjtMywsOYkQ) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 1:46 | 2023-04-06 | 2023-04-27 |
 | [Bisexual Anthem](https://open.spotify.com/track/4O5vkTY3ivnCv5oY6UXAPd) | [Domo Wilson](https://open.spotify.com/artist/2h2fB0j2IN50sSwolVO1AZ) | [Chapter 25: Domonique](https://open.spotify.com/album/6hN3Sw6FzfmfGhEeD78cVU) | 3:07 | 2022-05-31 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The official playlist for the 64th GRAMMY Awards.",
-  "num_followers": 126617,
+  "num_followers": 126456,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MWVmZmRjNDUwYTk5OTNkOGI4NjE3MjA1MWY5NDAzZmFmMDZlNjVi",
+  "snapshot_id": "MCwxOGEyMmU0N2JjZDJmNWZiMTU3M2QwMTI3ZTI3OWJlMzM5MzE4YTMw",
   "tracks": [
     {
       "added_at": "2023-11-10 16:50:05",
@@ -203,6 +203,26 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 227195,
+      "name": "I Remember Everything (feat. Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -223,26 +243,6 @@
       "duration_ms": 212878,
       "name": "LADY GAGA",
       "url": "https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 227195,
-      "name": "I Remember Everything (feat. Kacey Musgraves)",
-      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -859,6 +859,26 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 232131,
+      "name": "MOJABI GHOST",
+      "url": "https://open.spotify.com/track/46YjJXVXWHlQ21odKktg5e"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
         "name": "We Don't Fight Anymore",
         "url": "https://open.spotify.com/album/1goHGZOsPNmzsJTxOIa62m"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 193463,
       "name": "Tormenta (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
-        "name": "DATA",
-        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 232131,
-      "name": "MOJABI GHOST",
-      "url": "https://open.spotify.com/track/46YjJXVXWHlQ21odKktg5e"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
+        "name": "What I Didn\u2019t Tell You (Deluxe)",
+        "url": "https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 241624,
+      "name": "ICU",
+      "url": "https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
         "name": "Rumble",
         "url": "https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 146571,
       "name": "Rumble",
       "url": "https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
-        "name": "What I Didn\u2019t Tell You (Deluxe)",
-        "url": "https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 241624,
-      "name": "ICU",
-      "url": "https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "The End, So Far",
-        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 315906,
-      "name": "Hive Mind",
-      "url": "https://open.spotify.com/track/60knpe02nSLudHQYX2FZBI"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
         "name": "Love Me Like I Am (with Jordin Sparks)",
         "url": "https://open.spotify.com/album/7DK45xEeVMI7ul8rnNDddF"
       },
@@ -1615,22 +1599,18 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "Your Power",
-        "url": "https://open.spotify.com/album/5FsMkqJBLQcHPzSHa82KWh"
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
       },
       "artists": [
         {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 222169,
-      "name": "Your Power",
-      "url": "https://open.spotify.com/track/0ToGha42fy4KqBdzJ1yOTN"
+      "duration_ms": 315906,
+      "name": "Hive Mind",
+      "url": "https://open.spotify.com/track/60knpe02nSLudHQYX2FZBI"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -1647,6 +1627,26 @@
       "duration_ms": 302253,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/2l20BZOKBc1vNBxfKkJoQ7"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
+        "name": "Your Power",
+        "url": "https://open.spotify.com/album/5FsMkqJBLQcHPzSHa82KWh"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 222169,
+      "name": "Your Power",
+      "url": "https://open.spotify.com/track/0ToGha42fy4KqBdzJ1yOTN"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "Only the Strong Survive",
-        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 296906,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
         "name": "Blue Rev",
         "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 181290,
       "name": "Spread The Opps",
       "url": "https://open.spotify.com/track/66hLgDd6kk3GfzLej7t2eH"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
+        "name": "Only the Strong Survive",
+        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 296906,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "Loading",
-        "url": "https://open.spotify.com/album/5WMlWqo2YEO7g6e6TuNSC0"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 284551,
-      "name": "Loading",
-      "url": "https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
         "name": "Special Occasion",
         "url": "https://open.spotify.com/album/1MqmlN8jn9eTfcRRJZUHv3"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 194575,
       "name": "This Year",
       "url": "https://open.spotify.com/track/0ISfH0HKPrQd3mWmzk76Ij"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
+        "name": "Loading",
+        "url": "https://open.spotify.com/album/5WMlWqo2YEO7g6e6TuNSC0"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 284551,
+      "name": "Loading",
+      "url": "https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -2319,26 +2319,6 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "Gravel & Gold",
-        "url": "https://open.spotify.com/album/2atbiuUu1Xm0jLmObSynT4"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        },
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        }
-      ],
-      "duration_ms": 333746,
-      "name": "High Note",
-      "url": "https://open.spotify.com/track/6tKWJojxwFutWKKTNRVWx2"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
         "name": "A Ciegas",
         "url": "https://open.spotify.com/album/6iLktFdW6hFXyDKh7RSDuA"
       },
@@ -2355,6 +2335,26 @@
       "duration_ms": 186397,
       "name": "Puro Sentimiento",
       "url": "https://open.spotify.com/track/0Jnyc05fOsxeiN5TK4O7Qh"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
+        "name": "Gravel & Gold",
+        "url": "https://open.spotify.com/album/2atbiuUu1Xm0jLmObSynT4"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 333746,
+      "name": "High Note",
+      "url": "https://open.spotify.com/track/6tKWJojxwFutWKKTNRVWx2"
     },
     {
       "added_at": "2023-11-10 16:50:05",

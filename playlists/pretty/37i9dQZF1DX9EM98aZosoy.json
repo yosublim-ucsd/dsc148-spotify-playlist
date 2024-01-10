@@ -1,12 +1,12 @@
 {
   "description": "Feiern mit den gr\u00f6\u00dften aktuellen Partyhits.",
-  "num_followers": 1290985,
+  "num_followers": 1290472,
   "original_name": "Partyhymnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzI5YzNlMWFkMzM5MjgwZDEwZTk1MjliNzg3ZmMyMDM3ZjJlZWYw",
+  "snapshot_id": "MCxjYzIxZDg4MmI1NzhjYWM2ZDYxMGQ0Y2UzOTQ0ZWY5NmIwNWRhZGYy",
   "tracks": [
     {
       "added_at": "2024-01-07 23:01:00",
@@ -487,6 +487,26 @@
     {
       "added_at": "2024-01-07 23:01:00",
       "album": {
+        "name": "Blonde Chaya (Sped Up)",
+        "url": "https://open.spotify.com/album/6XFhvAghhMETC42WFMhRjc"
+      },
+      "artists": [
+        {
+          "name": "Amaru",
+          "url": "https://open.spotify.com/artist/6NO12PstTjSbyBgbn2GSKz"
+        },
+        {
+          "name": "Gringo Bamba",
+          "url": "https://open.spotify.com/artist/26rewgSEfGzNpapjPw5VZh"
+        }
+      ],
+      "duration_ms": 181052,
+      "name": "Blonde Chaya - Sped Up",
+      "url": "https://open.spotify.com/track/6WbDwAoc5xr0kFflHZW0A4"
+    },
+    {
+      "added_at": "2024-01-07 23:01:00",
+      "album": {
         "name": "M\u00e4dchen auf dem Pferd",
         "url": "https://open.spotify.com/album/1nqgi8V3Ii96w1iofIcfcz"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 157058,
       "name": "M\u00e4dchen auf dem Pferd",
       "url": "https://open.spotify.com/track/7AOJcugo17Kr1WUheSI6Oq"
-    },
-    {
-      "added_at": "2024-01-07 23:01:00",
-      "album": {
-        "name": "Blonde Chaya (Sped Up)",
-        "url": "https://open.spotify.com/album/6XFhvAghhMETC42WFMhRjc"
-      },
-      "artists": [
-        {
-          "name": "Amaru",
-          "url": "https://open.spotify.com/artist/6NO12PstTjSbyBgbn2GSKz"
-        },
-        {
-          "name": "Gringo Bamba",
-          "url": "https://open.spotify.com/artist/26rewgSEfGzNpapjPw5VZh"
-        }
-      ],
-      "duration_ms": 181052,
-      "name": "Blonde Chaya - Sped Up",
-      "url": "https://open.spotify.com/track/6WbDwAoc5xr0kFflHZW0A4"
     },
     {
       "added_at": "2024-01-07 23:01:00",
@@ -743,26 +743,6 @@
     {
       "added_at": "2024-01-07 23:01:00",
       "album": {
-        "name": "Would You (go to bed with me?)",
-        "url": "https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1"
-      },
-      "artists": [
-        {
-          "name": "Campbell",
-          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
-        },
-        {
-          "name": "Alcemist",
-          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
-        }
-      ],
-      "duration_ms": 120522,
-      "name": "Would You (go to bed with me?)",
-      "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"
-    },
-    {
-      "added_at": "2024-01-07 23:01:00",
-      "album": {
         "name": "MONEY ON THE DASH",
         "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 145666,
       "name": "MONEY ON THE DASH",
       "url": "https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE"
+    },
+    {
+      "added_at": "2024-01-07 23:01:00",
+      "album": {
+        "name": "Would You (go to bed with me?)",
+        "url": "https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1"
+      },
+      "artists": [
+        {
+          "name": "Campbell",
+          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
+        },
+        {
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+        }
+      ],
+      "duration_ms": 120522,
+      "name": "Would You (go to bed with me?)",
+      "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"
     },
     {
       "added_at": "2024-01-07 23:01:00",

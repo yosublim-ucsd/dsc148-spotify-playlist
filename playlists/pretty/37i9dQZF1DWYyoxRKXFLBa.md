@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 
 > Conoce a puras morras rifadas en La Marketa\. ¡Súbele al volumen, te esperamos el 6 de Agosto en Jardín Juárez! En portada: Now Girls Rule
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,820 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,828 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 24 | [LÁ LÁ](https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [LÁ LÁ](https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x) | 2:44 |
 | 25 | [lejos](https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:22 |
 | 26 | [Locochona](https://open.spotify.com/track/63huxKkkuUPoMzOyYJnEkV) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Locochona](https://open.spotify.com/album/6BzRhIEFVhtaKekLzRnxlX) | 2:28 |
-| 27 | [Corazón Delator](https://open.spotify.com/track/39p0IFR45geHklTc6WY1t9) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Dopelganga](https://open.spotify.com/album/5wmgB8aeeGSeRwWkFYSxwl) | 4:20 |
-| 28 | [¿Cuándo Pero Cuándo?](https://open.spotify.com/track/3LV2ZZW474RFPJFJolaJLZ) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Soda de Uva](https://open.spotify.com/album/54waWoWfW7gIfuZ4EvdrXc) | 2:34 |
+| 27 | [¿Cuándo Pero Cuándo?](https://open.spotify.com/track/3LV2ZZW474RFPJFJolaJLZ) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Soda de Uva](https://open.spotify.com/album/54waWoWfW7gIfuZ4EvdrXc) | 2:34 |
+| 28 | [Corazón Delator](https://open.spotify.com/track/39p0IFR45geHklTc6WY1t9) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Dopelganga](https://open.spotify.com/album/5wmgB8aeeGSeRwWkFYSxwl) | 4:20 |
 | 29 | [daydreaming](https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [daydreaming](https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn) | 2:42 |
 | 30 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 |
 | 31 | [todo lo que pasa](https://open.spotify.com/track/0BkhmwWZOCcQEMO3je2lZQ) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [todo lo que pasa](https://open.spotify.com/album/3efcjft7NVnRr20mD5JveU) | 3:42 |
@@ -48,11 +48,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 38 | [Free Your Mind \- Spanish Version](https://open.spotify.com/track/1cBFq8ArDimc2lnz7bI2Va) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Free Your Mind \(Spanish Version\)](https://open.spotify.com/album/0nm8RYsOK1mCjJPn3yGH2i) | 2:57 |
 | 39 | [Voy en Auto](https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Voy en Auto](https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu) | 2:58 |
 | 40 | [Break!](https://open.spotify.com/track/2PxLq9EhlNZyw08kZiqbq9) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/3E6nSXNMIVy4wofjSstjka) | 2:53 |
-| 41 | [Máscara de Niña](https://open.spotify.com/track/14RubZ8E6S34PohWgJq21G) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Máscara de Niña](https://open.spotify.com/album/5oYBMmeTlPZcIqwqSL9iEw) | 3:14 |
-| 42 | [no me convengo](https://open.spotify.com/track/5v1NAG0fvXdrNAVbdz3wgW) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [no me convengo](https://open.spotify.com/album/2Uw0BxkMZqNIPI428lJNrw) | 3:20 |
+| 41 | [no me convengo](https://open.spotify.com/track/5v1NAG0fvXdrNAVbdz3wgW) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [no me convengo](https://open.spotify.com/album/2Uw0BxkMZqNIPI428lJNrw) | 3:20 |
+| 42 | [Máscara de Niña](https://open.spotify.com/track/14RubZ8E6S34PohWgJq21G) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Máscara de Niña](https://open.spotify.com/album/5oYBMmeTlPZcIqwqSL9iEw) | 3:14 |
 | 43 | [Demasiado](https://open.spotify.com/track/7w3MgTb99l7GvLJOBFTfB7) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Demasiado](https://open.spotify.com/album/741haSJmAHRq0wVVN2NdpV) | 2:57 |
-| 44 | [Lloro](https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:24 |
-| 45 | [Desmotivada](https://open.spotify.com/track/5XXP7McoRRdfmplsrKGeBv) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [DESTRUYA!](https://open.spotify.com/album/1NXvepDJRwZ2zJNqMZNxdy) | 2:22 |
+| 44 | [Desmotivada](https://open.spotify.com/track/5XXP7McoRRdfmplsrKGeBv) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [DESTRUYA!](https://open.spotify.com/album/1NXvepDJRwZ2zJNqMZNxdy) | 2:22 |
+| 45 | [Lloro](https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:24 |
 | 46 | [Boni Naitó](https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Fuera de Lugar](https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO) | 4:43 |
 | 47 | [Horas Contigo](https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Horas Contigo](https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe) | 2:39 |
 | 48 | [Nobody](https://open.spotify.com/track/78ipSas2YpqGhoVpbFnjBj) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N) | 2:47 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 71 | [Lilith](https://open.spotify.com/track/2Vnl0gMfZ9pct8LvLDm0KJ) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Lilith](https://open.spotify.com/album/1g3IB4r5OnU3guMehCPAie) | 2:48 |
 | 72 | [Desvelo](https://open.spotify.com/track/1jxb4xO5jc3yOazCbl5jy3) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [La Ciudad Que Dejamos](https://open.spotify.com/album/17wOANgahKkdnXVZpkw6ey) | 4:34 |
 | 73 | [Fea](https://open.spotify.com/track/2dCaAdHPetC80XV78kQ9a7) | [Las Pijamas](https://open.spotify.com/artist/4YXs1wyOEwikSr8Vrz0sSz) | [Fea](https://open.spotify.com/album/1XpjWRnp8kQoB2uRV2WvZl) | 3:33 |
-| 74 | [Prisma Lunar](https://open.spotify.com/track/3XquW4OssRBZXDG5kbN6re) | [The Centellas](https://open.spotify.com/artist/3JMSuFrEG6bMGn2gbyyIMD) | [Espécimen Surf](https://open.spotify.com/album/2MPyMDuNJvpjYXbtaW9PUT) | 2:29 |
-| 75 | [Ikite Iru](https://open.spotify.com/track/5mJzC72lhxY3Bh9mlOfd5S) | [Neptuna](https://open.spotify.com/artist/6zucgTdBIrQ7ULFhw7MG1G) | [Ikite Iru](https://open.spotify.com/album/26U7D0QxDGkKhtw2sBCVRF) | 3:20 |
+| 74 | [Ikite Iru](https://open.spotify.com/track/5mJzC72lhxY3Bh9mlOfd5S) | [Neptuna](https://open.spotify.com/artist/6zucgTdBIrQ7ULFhw7MG1G) | [Ikite Iru](https://open.spotify.com/album/26U7D0QxDGkKhtw2sBCVRF) | 3:20 |
+| 75 | [Prisma Lunar](https://open.spotify.com/track/3XquW4OssRBZXDG5kbN6re) | [The Centellas](https://open.spotify.com/artist/3JMSuFrEG6bMGn2gbyyIMD) | [Espécimen Surf](https://open.spotify.com/album/2MPyMDuNJvpjYXbtaW9PUT) | 2:29 |
 | 76 | [Deja De Mentir](https://open.spotify.com/track/2Jg2Wkt2KzgJ8ADnpZBlSp) | [Herbolaria](https://open.spotify.com/artist/5DrflPAe5ZoSkw2FtxrnZW) | [Musica Para No Bailar](https://open.spotify.com/album/5SMT6pJhUmDp8zwSAoJG5Y) | 3:23 |
 | 77 | [Volver a Ser](https://open.spotify.com/track/6aD9eUyPdBed9zUcmEJkNj) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Volver a Ser](https://open.spotify.com/album/4D1RRo53qiOmWLI25UZvrV) | 3:28 |
 | 78 | [Baby Don't You Love Me \- Bonus Track](https://open.spotify.com/track/59Tnq0bVlPkMtHt3m35XgL) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj), [Kate Clover](https://open.spotify.com/artist/2ruUPKyey3uXmASjTMOsu5) | [Ghost In The Machine](https://open.spotify.com/album/5DB06kLqIbFneddTadfbGH) | 3:06 |
 | 79 | [Escapar](https://open.spotify.com/track/6eK3x5Q6m3ItwHGdmVEo1d) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Las Distancias](https://open.spotify.com/album/6iw6U4obwRM38eN7JZ33Dm) | 4:01 |
 | 80 | [Bellaco](https://open.spotify.com/track/3sVv6VG97Fxnfo93seAm8X) | [Pinpilinpussies](https://open.spotify.com/artist/4Mbv7MoBUcLBWCuGBCxRf1) | [HIPOCONDRÍA](https://open.spotify.com/album/1ZdhaaSnC5nWorkAg3Vuh0) | 4:55 |
 
-Snapshot ID: `MCxmNjQxMjRlYWE1YWYyYTljOTI1N2Y0YjZjYWI4NTM4NWQ5MTdlMzA3`
+Snapshot ID: `MCw3NjljNTI0YzgxYjgzOTI5NTMxNjJkMDI2ZTRiOGNhODhlOWZlNWEw`

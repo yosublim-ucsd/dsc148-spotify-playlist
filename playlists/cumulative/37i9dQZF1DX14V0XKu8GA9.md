@@ -4,7 +4,7 @@
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: That Mexican OT
 
-363 songs - 17 hr 6 min
+365 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [My Life](https://open.spotify.com/track/6X4oGvSNRjPlYTUGEW5RqE) | [Trap Baby](https://open.spotify.com/artist/0WCPeSs3xF97qN4rUFZrBZ) | [My Life](https://open.spotify.com/album/3CarmDZA2wnrjIUUJLq0B7) | 1:29 | 2022-09-11 | 2023-01-28 |
 | [My Light](https://open.spotify.com/track/3hH4YLEQ2jJPhBbzRsp5Pk) | [Jarren Benton](https://open.spotify.com/artist/5YI7PJwny5JsO7djczHwhP), [Dizzy Wright](https://open.spotify.com/artist/1LrWZc2qPhRCHyr6XtpBxq), [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co) | [My Light](https://open.spotify.com/album/32KAZuMWyfCY3MkIY5BtK1) | 4:04 | 2022-06-07 | 2023-01-28 |
 | [My Night](https://open.spotify.com/track/5oV4iJKox7kfClzB17RVNL) | [Lil Grifo](https://open.spotify.com/artist/6RRNtl4tqMCz2vXm33vdIk) | [My Night](https://open.spotify.com/album/1luhkQq5AqNnbtRSXrKw1k) | 2:47 | 2022-02-25 | 2022-07-05 |
+| [My Road](https://open.spotify.com/track/5JOiIa5m32tSlgMmgYW9R4) | [aroomfullofmirrors](https://open.spotify.com/artist/4CxaPxktjqoN6F9nyftKYW), [JOOSE](https://open.spotify.com/artist/3Xcl4dxiVbwPafgzBTKQJP) | [My Road](https://open.spotify.com/album/2pybJWUYMwpIYmq2NdCQiG) | 3:00 | 2024-01-09 |  |
 | [My Type](https://open.spotify.com/track/0jGO5iy60VBAutVznPPuLR) | [DAISY SIMO](https://open.spotify.com/artist/7xBn4ObqYv4qP8X0Fb81dp) | [La Daisy](https://open.spotify.com/album/3xyyYu17BLPZABcyCVKFDb) | 2:16 | 2022-07-06 | 2022-11-02 |
 | [N.Y Minute](https://open.spotify.com/track/0ix2WlhdehNXbRd2ONcj2P) | [Bodega Bamz](https://open.spotify.com/artist/6tIgdyPfc6RVQJKCDd9ep9) | [N.Y Minute](https://open.spotify.com/album/5dCxzCwyBmKntm5TkQZ1Q7) | 3:07 | 2022-09-11 | 2023-05-28 |
 | [Need That](https://open.spotify.com/track/6Mlt51MMwu5wg0f11BynCE) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [Need That](https://open.spotify.com/album/1fbUmxGfHJQhvr2Va02YaW) | 2:30 | 2023-09-15 | 2024-01-09 |
@@ -359,6 +360,7 @@
 | [What I Like](https://open.spotify.com/track/7lM9dI6wRfmA2KxQlYQdIE) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [What I Like](https://open.spotify.com/album/4YzrdjLTsezWLutVAFOTzO) | 2:39 | 2022-01-31 | 2022-03-16 |
 | [What It Takes](https://open.spotify.com/track/0Kp6qc08PPUKw9VLWuknAT) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D), [Paul Wall](https://open.spotify.com/artist/1ANtdpqM2CM6NRoiD5ffS9) | [What It Takes](https://open.spotify.com/album/05IhGWbXt3O7Ny3GZxKqX0) | 2:29 | 2023-05-27 | 2024-01-09 |
 | [What You Say \(Aye, Aye, Aye\)](https://open.spotify.com/track/3poEVYB66Q2x8y2ADvkZlN) | [Bravo the Bagchaser](https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY) | [Bagchasin](https://open.spotify.com/album/5iEzu0RSN8yzQss7LcDK9T) | 2:43 | 2022-01-10 | 2022-02-26 |
+| [When You See Us \(feat\. Omar Cruz\)](https://open.spotify.com/track/0PGWeb84jmEzePJfSd3Yp9) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D), [Omar Cruz](https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28) | [Brown By Honor 4](https://open.spotify.com/album/73zuCr7jvYDUlUbuPYrxeF) | 3:01 | 2024-01-09 |  |
 | [Where The Bag At](https://open.spotify.com/track/3Z9nBix6EeIDrDF0FfATSv) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw), [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC) | [Where The Bag At](https://open.spotify.com/album/1ojNpn33JAvJTXoqdFd0dQ) | 2:43 | 2023-03-10 | 2023-05-28 |
 | [Why they Hatin](https://open.spotify.com/track/1pJoEPPxxat9dz12CNSHrH) | [J.I Bandz](https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK) | [Why they Hatin](https://open.spotify.com/album/7LB1PLOKPhcb1bgH7Mrvk7) | 2:42 | 2022-01-10 | 2022-03-16 |
 | [Wish You Really Would](https://open.spotify.com/track/3eT8T9tw6FFx0aRSkCqpHA) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw) | [Wish You Really Would](https://open.spotify.com/album/6EwcXxrSza1I9VGl0pxGtN) | 2:35 | 2023-09-15 | 2024-01-09 |

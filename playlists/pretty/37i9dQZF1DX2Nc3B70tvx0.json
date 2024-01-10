@@ -1,13 +1,49 @@
 {
   "description": "New music from Youth Lagoon, Still Woozy, Kevin Kaarl and more...  Cover: Big Thief",
-  "num_followers": 2189318,
+  "num_followers": 2181589,
   "original_name": "Front Page Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWI1MzIxMjRmYjc0MThjYWRiOGFhNTU4YzFkYjliYjNkMDcxNGFk",
+  "snapshot_id": "MCwwYjQxMGYwZGNlMjI2ZTgwNjFmMzhmMjBjNDI3MTU5Mjc3MDE1YWFk",
   "tracks": [
+    {
+      "added_at": "2024-01-09 18:45:07",
+      "album": {
+        "name": "Right Back to It",
+        "url": "https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        },
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "duration_ms": 273026,
+      "name": "Right Back to It",
+      "url": "https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf"
+    },
+    {
+      "added_at": "2024-01-04 18:38:19",
+      "album": {
+        "name": "Football",
+        "url": "https://open.spotify.com/album/7197yCpJpW7OIgPWVXE58h"
+      },
+      "artists": [
+        {
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+        }
+      ],
+      "duration_ms": 204507,
+      "name": "Football",
+      "url": "https://open.spotify.com/track/3rnMROSxN8mkZebMW5PpBb"
+    },
     {
       "added_at": "2024-01-02 14:51:04",
       "album": {
@@ -39,22 +75,6 @@
       "duration_ms": 228266,
       "name": "me va a costar",
       "url": "https://open.spotify.com/track/0Y7NqQ9RNoHZHDTeDS4UnO"
-    },
-    {
-      "added_at": "2024-01-04 18:38:19",
-      "album": {
-        "name": "Football",
-        "url": "https://open.spotify.com/album/7197yCpJpW7OIgPWVXE58h"
-      },
-      "artists": [
-        {
-          "name": "Youth Lagoon",
-          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
-        }
-      ],
-      "duration_ms": 204507,
-      "name": "Football",
-      "url": "https://open.spotify.com/track/3rnMROSxN8mkZebMW5PpBb"
     },
     {
       "added_at": "2024-01-02 14:58:43",
@@ -271,26 +291,6 @@
       "duration_ms": 206833,
       "name": "Separate Ways (feat. The Mar\u00edas)",
       "url": "https://open.spotify.com/track/4fwPxcF4rZQIBZr1h6Qd2S"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "The Parting Glass",
-        "url": "https://open.spotify.com/album/3hapDRjTtKNAQOuavK6vgO"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Ye Vagabonds",
-          "url": "https://open.spotify.com/artist/34Or4SetJBRvrlE8AO1qDO"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "The Parting Glass",
-      "url": "https://open.spotify.com/track/0bbZ3J2KdCT92SlBFORNNU"
     },
     {
       "added_at": "2023-12-10 23:08:00",

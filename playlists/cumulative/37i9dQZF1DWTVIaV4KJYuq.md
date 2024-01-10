@@ -4,7 +4,7 @@
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-188 songs - 11 hr 52 min
+189 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Dance Me to the End of Love \- Bonus](https://open.spotify.com/track/68KCwQ2PNKNT17sEx32DEG) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/3GtyVMEnfmc3rl8pTYBJqi) | 3:05 | 2021-11-05 | 2022-07-29 |
 | [Days Like This](https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa) | 2:29 | 2022-02-04 |  |
 | [Days Like This](https://open.spotify.com/track/66aH9gXNBfTJUikVIZfzcA) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/55yX6dAMACVgUGxG2RCnIq) | 2:29 | 2021-11-05 | 2022-07-29 |
-| [Didn't Want to Have to Do It](https://open.spotify.com/track/6UdTSQDnAFyvnxMRXBFzlN) | [Lady Apple Tree](https://open.spotify.com/artist/3AZOpYsQ1QPmgaVF2TCVrd) | [Didn't Want to Have to Do It](https://open.spotify.com/album/5vj1DEd1P5FD0BU4ZTaDbr) | 4:24 | 2023-06-02 |  |
+| [Didn't Want to Have to Do It](https://open.spotify.com/track/6UdTSQDnAFyvnxMRXBFzlN) | [Lady Apple Tree](https://open.spotify.com/artist/3AZOpYsQ1QPmgaVF2TCVrd) | [Didn't Want to Have to Do It](https://open.spotify.com/album/5vj1DEd1P5FD0BU4ZTaDbr) | 4:24 | 2023-06-02 | 2024-01-10 |
 | [Don't Dream It's Over \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Spotify Singles](https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq) | 4:33 | 2021-11-05 |  |
 | [Don't Think Twice, It's All Right](https://open.spotify.com/track/1g0ekwyuJFuZLda5w90ptf) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL), [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ), [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [Don't Think Twice, It's All Right](https://open.spotify.com/album/5NeOqBsbgSWOK2lsSYrt6q) | 4:21 | 2023-05-12 | 2023-06-22 |
 | [Don't Worry Baby](https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Don't Worry Baby](https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw) | 3:00 | 2021-11-05 |  |
@@ -145,6 +145,7 @@
 | [Rocket Man](https://open.spotify.com/track/5ujvc1IFzGeBn2hsDX2n6w) | [creamy](https://open.spotify.com/artist/2uSVRVjYZ0PlJPdFHnBETu), [untrusted](https://open.spotify.com/artist/31mtcsgS3CJW5dEPlG83E7), [11:11 Music Group](https://open.spotify.com/artist/2MDj296KJIfgWDNBtHzeFi) | [Rocket Man](https://open.spotify.com/album/2ybfxBbMNc3lyY3ekDuDy4) | 2:54 | 2021-11-05 |  |
 | [Season of the Witch](https://open.spotify.com/track/2GaQr1kOxgrzcfHWuDLIqu) | [Luna](https://open.spotify.com/artist/2AACqFGo8offvHCKGvrWxq) | [Lunafied](https://open.spotify.com/album/1r5Y5fQ6X7qgnYYcRfG4Of) | 5:20 | 2021-11-05 | 2022-07-29 |
 | [Slip Slidin' Away](https://open.spotify.com/track/6AR6KJkyuFJT4dgPEd7VMo) | [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Rita Wilson Now & Forever: Duets](https://open.spotify.com/album/3HjYQdV5p5j8SoXIaAr6C0) | 4:53 | 2022-09-30 | 2023-09-17 |
+| [Slipping Through My Fingers](https://open.spotify.com/track/6ZDAwdhazkWaqEDk0bj1OU) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Slipping Through My Fingers](https://open.spotify.com/album/7pSzmTOe96E5qc3gXgMvpr) | 4:23 | 2024-01-09 |  |
 | [Soak up the Sun \- Unplugged](https://open.spotify.com/track/0eUty3IjjOqEheyWEb9Rsb) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Judah & The Lion \(Unplugged\)](https://open.spotify.com/album/6YdwCaQPQ4j3h8F8fFWeUi) | 4:11 | 2023-09-08 |  |
 | [Soak up the Sun \- Unplugged](https://open.spotify.com/track/19EQenvo8RhidHzEbblHT1) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Judah & The Lion \(Unplugged\)](https://open.spotify.com/album/5wyJZFkxAJEshBtXnsUZi7) | 4:11 | 2022-09-30 | 2023-09-24 |
 | [Soak Up The Sun \- Unplugged](https://open.spotify.com/track/7xfz6i5AvB1GwccEcIrb7k) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Judah & the Lion \(Unplugged\)](https://open.spotify.com/album/0ftg0MdGcyRwB8Zzt624BS) | 4:11 | 2021-11-05 | 2022-10-16 |

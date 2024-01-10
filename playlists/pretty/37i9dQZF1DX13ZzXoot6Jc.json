@@ -1,12 +1,12 @@
 {
   "description": "Country hits that will have you singing every word. Cover: Riley Green",
-  "num_followers": 456601,
+  "num_followers": 456581,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzFiMjg5MWM3ZDk2OGJjOTI4OGIxMzhiNjViZTVhYzBmNDJkMjkx",
+  "snapshot_id": "MCxkZWVjMjU1MjNlMjM2YzgyNGRkODY1MGZiMjdlNDI4YWVhNzQ5ZDFk",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Right On Time",
-        "url": "https://open.spotify.com/album/2C8RegZMCc1WLc3tQgjRUW"
-      },
-      "artists": [
-        {
-          "name": "Lindsay Ell",
-          "url": "https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q"
-        }
-      ],
-      "duration_ms": 186094,
-      "name": "Right On Time",
-      "url": "https://open.spotify.com/track/7bSx9PJnGPWb8PEkcdWB7z"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Dallas Smith",
         "url": "https://open.spotify.com/album/3dI7Y28fYBPve8KLJ2A8ig"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 172910,
       "name": "Singing In A Beer",
       "url": "https://open.spotify.com/track/6fAQULgYx8RZt6CHb9CJVw"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Right On Time",
+        "url": "https://open.spotify.com/album/2C8RegZMCc1WLc3tQgjRUW"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Ell",
+          "url": "https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q"
+        }
+      ],
+      "duration_ms": 186094,
+      "name": "Right On Time",
+      "url": "https://open.spotify.com/track/7bSx9PJnGPWb8PEkcdWB7z"
     },
     {
       "added_at": "2024-01-05 05:00:00",

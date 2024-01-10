@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Yussef Dayes
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,515 likes - 100 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,124 likes - 100 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [STOP CALLING ME](https://open.spotify.com/track/314r69preySjrl67vpaEI8) | [Blaque Dynamite](https://open.spotify.com/artist/1sJVowZOn1El5JK5HCfcL2) | [Stop Calling Me](https://open.spotify.com/album/2ku6Q6qXy6gjUSYZnXuk6B) | 5:27 |
 | 100 | [Pressure on the Pulse](https://open.spotify.com/track/1bzbo40agQ6NOQE0mHquEs) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Pressure on the Pulse](https://open.spotify.com/album/04Hx1mBLrSy5mXbwqvDLcv) | 3:26 |
 
-Snapshot ID: `MCwyMTg2YjlkMzFmOWFmNmFjODVlYjk2NTM1MGU1ZTY2Nzc3Y2I0M2Nm`
+Snapshot ID: `MCxmNTM1YjlmNzdjMjNhMDUwNzJmZGY0ZWIwMTM4ZDJiOTJkNWM3MDEw`

@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 2010s. ",
-  "num_followers": 1081113,
+  "num_followers": 1081612,
   "original_name": "Soft 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWRmZWJhNjk3NGJkMmJhYjU2YzBhMTFiYjM5Y2FkZmM4YzhmYTcw",
+  "snapshot_id": "MCxhOTZhMjgyNjU2MzY5NmEwMWE3NDUzMzJkZjI2NjJkMWRjYTA1OWZm",
   "tracks": [
     {
       "added_at": "2023-04-05 17:26:45",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "Narrated For You",
-        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 169353,
-      "name": "Let Me Down Slowly",
-      "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "My Dear Melancholy,",
         "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 228373,
       "name": "Call Out My Name",
       "url": "https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "Narrated For You",
+        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 169353,
+      "name": "Let Me Down Slowly",
+      "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "Lukas Graham",
-        "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 237300,
-      "name": "7 Years",
-      "url": "https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "More Life",
         "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 298940,
       "name": "Passionfruit",
       "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "Lukas Graham",
+        "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 237300,
+      "name": "7 Years",
+      "url": "https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "Get You - Single",
-        "url": "https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 270846,
-      "name": "Japanese Denim",
-      "url": "https://open.spotify.com/track/1boXOL0ua7N2iCOUVI1p9F"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "FRIENDS KEEP SECRETS",
         "url": "https://open.spotify.com/album/7dQ734EW0iLvQfF6vBFNiZ"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 170769,
       "name": "Eastside (with Halsey & Khalid)",
       "url": "https://open.spotify.com/track/7FGq80cy8juXBCD2nrqdWU"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "Get You - Single",
+        "url": "https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 270846,
+      "name": "Japanese Denim",
+      "url": "https://open.spotify.com/track/1boXOL0ua7N2iCOUVI1p9F"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "Midnight Memories (Deluxe)",
-        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 237933,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/2afCBiru10AFckfOa49wIa"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "Cloud Nine",
         "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 223186,
       "name": "Stole the Show",
       "url": "https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "Midnight Memories (Deluxe)",
+        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 237933,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/2afCBiru10AFckfOa49wIa"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 231826,
-      "name": "Blank Space",
-      "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "Earned It (Fifty Shades Of Grey) [From The \"Fifty Shades Of Grey\" Soundtrack]",
         "url": "https://open.spotify.com/album/61Ba3txRZWfiX6ZTEZlFCV"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 252226,
       "name": "Earned It (Fifty Shades Of Grey) - From The \"Fifty Shades Of Grey\" Soundtrack",
       "url": "https://open.spotify.com/track/2PIvq1pGrUjY007X5y1UpM"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 231826,
+      "name": "Blank Space",
+      "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "Without Me",
-        "url": "https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 201660,
-      "name": "Without Me",
-      "url": "https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "Harry Styles",
         "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
       },
@@ -1767,18 +1751,18 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+        "name": "Without Me",
+        "url": "https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm"
       },
       "artists": [
         {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         }
       ],
-      "duration_ms": 210863,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/12OLyHDxt6dqlAybSPFBK3"
+      "duration_ms": 201660,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -1795,6 +1779,22 @@
       "duration_ms": 213993,
       "name": "Trip",
       "url": "https://open.spotify.com/track/6CTWathupIiDs7U4InHnDA"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 210863,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/12OLyHDxt6dqlAybSPFBK3"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "The Heart Wants What It Wants",
-        "url": "https://open.spotify.com/album/2iFTxCYwhF5oC1L8s1B0rI"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 227373,
-      "name": "The Heart Wants What It Wants",
-      "url": "https://open.spotify.com/track/6wJwkMo278iWVlWl1XQ4WA"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "Melodrama",
         "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 171727,
       "name": "Liability",
       "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "The Heart Wants What It Wants",
+        "url": "https://open.spotify.com/album/2iFTxCYwhF5oC1L8s1B0rI"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 227373,
+      "name": "The Heart Wants What It Wants",
+      "url": "https://open.spotify.com/track/6wJwkMo278iWVlWl1XQ4WA"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "Leave a Light On",
-        "url": "https://open.spotify.com/album/3pczowjToa5SYsI6Th4KO8"
-      },
-      "artists": [
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 185863,
-      "name": "Leave a Light On",
-      "url": "https://open.spotify.com/track/6lOWoTqVnAWXchddtTH31W"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 257720,
       "name": "It Will Rain",
       "url": "https://open.spotify.com/track/0RUGuh2uSNFJpGMSsD1F5C"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "Leave a Light On",
+        "url": "https://open.spotify.com/album/3pczowjToa5SYsI6Th4KO8"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 185863,
+      "name": "Leave a Light On",
+      "url": "https://open.spotify.com/track/6lOWoTqVnAWXchddtTH31W"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -2951,22 +2951,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "The 1975 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 254509,
-      "name": "Robbers",
-      "url": "https://open.spotify.com/track/06cCziAHtDg6pcsidZHu03"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "Revival (Deluxe)",
         "url": "https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz"
       },
@@ -2979,6 +2963,22 @@
       "duration_ms": 229080,
       "name": "Same Old Love",
       "url": "https://open.spotify.com/track/1BZG99C7Co1r6QUC3zaS59"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "The 1975 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 254509,
+      "name": "Robbers",
+      "url": "https://open.spotify.com/track/06cCziAHtDg6pcsidZHu03"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -3031,6 +3031,22 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 239786,
+      "name": "I'm with You",
+      "url": "https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
         "name": "The Color Of You",
         "url": "https://open.spotify.com/album/6R8UeugxGTPvPwFkLVqUqs"
       },
@@ -3047,22 +3063,6 @@
       "duration_ms": 174489,
       "name": "Floating (feat. Khalid)",
       "url": "https://open.spotify.com/track/2vLWF4yFhTHQZVwrPTjH1s"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 239786,
-      "name": "I'm with You",
-      "url": "https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -3247,22 +3247,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "hopeless fountain kingdom (Deluxe)",
-        "url": "https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 214801,
-      "name": "Now Or Never",
-      "url": "https://open.spotify.com/track/7i2DJ88J7jQ8K7zqFX2fW8"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
       },
@@ -3275,6 +3259,22 @@
       "duration_ms": 175506,
       "name": "How Far I'll Go - Alessia Cara Version",
       "url": "https://open.spotify.com/track/1ehPJRt49h6N0LoryqKZXq"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "hopeless fountain kingdom (Deluxe)",
+        "url": "https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 214801,
+      "name": "Now Or Never",
+      "url": "https://open.spotify.com/track/7i2DJ88J7jQ8K7zqFX2fW8"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -3295,22 +3295,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "Songs I Wrote in My Bedroom",
-        "url": "https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 222467,
-      "name": "Trying My Best",
-      "url": "https://open.spotify.com/track/6hjh2phISvfR1Ib6S0FK7b"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "Need You Now",
         "url": "https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh"
       },
@@ -3323,6 +3307,22 @@
       "duration_ms": 236440,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/7h70RTLbnhDyPGXjl3iEhh"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "Songs I Wrote in My Bedroom",
+        "url": "https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 222467,
+      "name": "Trying My Best",
+      "url": "https://open.spotify.com/track/6hjh2phISvfR1Ib6S0FK7b"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -3375,22 +3375,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "Raised Under Grey Skies (Deluxe)",
-        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 212152,
-      "name": "September Song - Guitar Acoustic",
-      "url": "https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "Lie To Me (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/2rSrRHcfwJXxni8HczqKAT"
       },
@@ -3407,6 +3391,22 @@
       "duration_ms": 149877,
       "name": "Lie To Me (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/6GzApXoBQiiAjak3tOQfV3"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "Raised Under Grey Skies (Deluxe)",
+        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 212152,
+      "name": "September Song - Guitar Acoustic",
+      "url": "https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -4203,22 +4203,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "Oh Wonder",
-        "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
-      },
-      "artists": [
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        }
-      ],
-      "duration_ms": 224740,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0IVHlst3XMgzXUJbIyZ8oO"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "7: Anniversary Edition",
         "url": "https://open.spotify.com/album/0GJU424RiEyYQTLbZcHVA7"
       },
@@ -4235,6 +4219,22 @@
       "duration_ms": 195000,
       "name": "Flames",
       "url": "https://open.spotify.com/track/2mBPqbzgjIELxd86CdxC7v"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "Oh Wonder",
+        "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
+      },
+      "artists": [
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "duration_ms": 224740,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0IVHlst3XMgzXUJbIyZ8oO"
     },
     {
       "added_at": "2023-04-05 17:26:45",

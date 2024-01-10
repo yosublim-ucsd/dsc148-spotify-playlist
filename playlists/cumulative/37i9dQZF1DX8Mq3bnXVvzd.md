@@ -4,7 +4,7 @@
 
 > Blood runs in the family\. Listen to the music from and inspired by The Brothers Sun, now streaming on Netflix.
 
-53 songs - 3 hr 11 min
+54 songs - 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Your Time Is Gonna Come \- Remaster](https://open.spotify.com/track/5RPiBNQVmuEm7YlVVotrLa) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin \(Remaster\)](https://open.spotify.com/album/1J8QW9qsMLx3staWaHpQmU) | 4:34 | 2024-01-04 |  |
 | [Ça Plane Pour Moi](https://open.spotify.com/track/7bx4zW72qdZKBb8p6g80jb) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Ça Plane Pour Moi](https://open.spotify.com/album/6bv0t7P61aPvCjgbqMZk0V) | 2:59 | 2024-01-04 |  |
 | [你怎能瞞過我](https://open.spotify.com/track/3FECBXr4grUJ57bVWvV7b7) | [Betty Chung](https://open.spotify.com/artist/1NCONNiSLaGx7w4zGUdVfQ) | [Bang Bang](https://open.spotify.com/album/1Os8AeNhmRBtbntYt3rp7q) | 2:16 | 2024-01-04 |  |
-| [忘記他](https://open.spotify.com/track/78PLyUD2p5kWk6QKNLhCHD) | [Teresa Teng](https://open.spotify.com/artist/3ienC90A5I1X3irDyQoqWZ) | [傳奇再續](https://open.spotify.com/album/1ibvIIgeyETYQLXRFb9dXh) | 2:56 | 2024-01-04 |  |
+| [忘記他](https://open.spotify.com/track/0ZKgaQUvQvd4C5ADKNtBk8) | [Teresa Teng](https://open.spotify.com/artist/3ienC90A5I1X3irDyQoqWZ) | [天國的情人 \- 鄧麗君逝世十周年紀念聲影存集](https://open.spotify.com/album/5dnNtxG5W2IXVtgmsIxCIT) | 2:55 | 2024-01-04 |  |
+| [忘記他](https://open.spotify.com/track/78PLyUD2p5kWk6QKNLhCHD) | [Teresa Teng](https://open.spotify.com/artist/3ienC90A5I1X3irDyQoqWZ) | [傳奇再續](https://open.spotify.com/album/1ibvIIgeyETYQLXRFb9dXh) | 2:56 | 2024-01-04 | 2024-01-10 |
 | [知名不具](https://open.spotify.com/track/6PHpbXupHq2r3dvwKZJefI) | [A Si](https://open.spotify.com/artist/4yamiVzQPYBb02ceSu0jaI) | [我愚蠢的理想主义](https://open.spotify.com/album/353IIDl1MSRpQO8ZapI1aH) | 4:39 | 2024-01-04 |  |
 | [雞尾酒 \- 電影"那個不多情"插曲](https://open.spotify.com/track/0D7g8uvehlx3awMH3yK2Gy) | [姚莉](https://open.spotify.com/artist/3agVasaCG20vNRxAE8niec) | [姚莉電影歌曲精選](https://open.spotify.com/album/6DyJUhsZ4ZuEgbKToQ5Cft) | 3:06 | 2024-01-04 |  |
 

@@ -4,13 +4,13 @@
 
 > Blues guitar heroes of today\. Cover: Kirk Fletcher
 
-74 songs - 5 hr 34 min
+75 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [28 Days](https://open.spotify.com/track/3Q7alLUVqvmpSVT7aAkFLG) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Devil May Care](https://open.spotify.com/album/0vetIsh52LB0I10eBDTdLP) | 4:00 | 2022-02-23 |  |
 | [Anything But Time](https://open.spotify.com/track/1J5fzW3OKVHJKPvL6dBByE) | [Matt Schofield](https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE) | [Anything But Time](https://open.spotify.com/album/2YmvbKfSf2JCQlyejspiF2) | 3:38 | 2020-10-21 |  |
-| [Backbone](https://open.spotify.com/track/4qx9q7xl37ijJrayYyOkRq) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Pressure](https://open.spotify.com/album/6U5r2stVlrkxLZT7dUH4Vg) | 2:48 | 2020-10-21 |  |
+| [Backbone](https://open.spotify.com/track/4qx9q7xl37ijJrayYyOkRq) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Pressure](https://open.spotify.com/album/6U5r2stVlrkxLZT7dUH4Vg) | 2:48 | 2020-10-21 | 2024-01-10 |
 | [Backbone](https://open.spotify.com/track/735JDdMlCfiJDastCL3WTA) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Pressure](https://open.spotify.com/album/5iOzR7HQRJ47iJ6BTRhBEi) | 2:48 | 2020-10-21 | 2023-05-30 |
 | [Balafon \- Instrumental](https://open.spotify.com/track/6KXdjv2j74QBKDFzO4DllX) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Balafon \(Instrumental\)](https://open.spotify.com/album/4eCkTbLKzj4i3yULucs277) | 3:30 | 2021-07-02 | 2022-07-29 |
 | [Blues Deluxe](https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 7:20 | 2020-10-21 |  |
@@ -41,6 +41,7 @@
 | [Gettin Old](https://open.spotify.com/track/706ZgJOItrsyuJFLvh2JKl) | [Michael Landau](https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw) | [Rock Bottom](https://open.spotify.com/album/137DEWrKTsMmQWsixCEyfV) | 3:17 | 2020-10-21 |  |
 | [Go](https://open.spotify.com/track/72weW6yNPOWjxcFhAjQmPW) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Go](https://open.spotify.com/album/4dTILhF8iJY21EgPQP0oZE) | 5:10 | 2021-06-04 | 2022-07-29 |
 | [Got to Get Up](https://open.spotify.com/track/4UPWcafmoDHKZziDsTumP3) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 2:37 | 2020-10-21 |  |
+| [Groove With Me](https://open.spotify.com/track/1p1A5KPgbC1cXP70BVzo4D) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Chills & Thrills](https://open.spotify.com/album/3CbjgETRjdUvgIJqu7qpZu) | 4:01 | 2020-10-21 |  |
 | [Groove With Me](https://open.spotify.com/track/2VaKZQ6d3qY0roo4E1Hapg) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Chills & Thrills](https://open.spotify.com/album/3NAEXb8fdzzi9umXkF36J5) | 4:01 | 2020-10-21 | 2023-12-25 |
 | [Here Comes the Flood](https://open.spotify.com/track/0YnCkOeeKV7G6H3K86kJH1) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Reckless Blues](https://open.spotify.com/album/6m2bsgDVf8yygmksgYsPzm) | 5:15 | 2020-10-21 |  |
 | [I Want You](https://open.spotify.com/track/7LcaMnxskCb9tvxggOBR2O) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [The Traveler](https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow) | 6:27 | 2020-10-21 |  |

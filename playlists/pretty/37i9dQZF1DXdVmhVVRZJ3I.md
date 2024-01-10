@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,819 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,301 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 40 | [Party On My Own \(feat\. FAULHABER\)](https://open.spotify.com/track/4c9Py6O1NeuYKbJ8Ok7mTl) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu) | [Party On My Own \(feat\. FAULHABER\)](https://open.spotify.com/album/0KyVN9LjYo0ASG1ibiShht) | 2:26 |
 | 41 | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb) | 2:24 |
 | 42 | [079](https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [Block Notice](https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq) | [079](https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6) | 2:48 |
-| 43 | [Preacher](https://open.spotify.com/track/3I1bYmKfG8ncIdNGsQmZok) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Outflux](https://open.spotify.com/artist/1aZrHGcyFNnEEE79aRU4jT), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Preacher](https://open.spotify.com/album/0OiCQxj9JxilgP7HVIuBjk) | 2:55 |
-| 44 | [Stay Mine](https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Stay Mine](https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO) | 2:58 |
+| 43 | [Stay Mine](https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Stay Mine](https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO) | 2:58 |
+| 44 | [Preacher](https://open.spotify.com/track/3I1bYmKfG8ncIdNGsQmZok) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Outflux](https://open.spotify.com/artist/1aZrHGcyFNnEEE79aRU4jT), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Preacher](https://open.spotify.com/album/0OiCQxj9JxilgP7HVIuBjk) | 2:55 |
 | 45 | [Atomic Bomb \(feat\. Juan Alcasar\)](https://open.spotify.com/track/1Ge8px4DSNseb1atf9XumE) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh), [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Juan Alcasar](https://open.spotify.com/artist/0R8n1LfNSyYfvDTynSZ9AY) | [Atomic Bomb \(feat\. Juan Alcasar\)](https://open.spotify.com/album/4j9gMw9UoRS3xydzvmtnGX) | 2:09 |
 | 46 | [Terremoto](https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Ghabe](https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA) | [Terremoto EP](https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4) | 2:45 |
 | 47 | [Without Me](https://open.spotify.com/track/1CDAOBO6hvdfxr0zX0R2dw) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f) | [Without Me](https://open.spotify.com/album/2Vj09LbUtc9EJ3ZCjFkdMq) | 2:38 |
 | 48 | [Lambada](https://open.spotify.com/track/0YmaxzdUQGUJLmQ6disVJp) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [Guzz](https://open.spotify.com/artist/2M23z6FczyKLQFTTvB3EI8) | [Lambada](https://open.spotify.com/album/2rIngPYeX9tmQYUEGXXOxV) | 3:31 |
-| 49 | [Feels Like Love](https://open.spotify.com/track/5lsCfINkhQtzDgtHZfVxpP) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Club Zero Cool, Vol\. 2](https://open.spotify.com/album/66vRCER2aWBuV0tXEhO0t1) | 2:22 |
-| 50 | [Showing Signs](https://open.spotify.com/track/2uG6wCBGkH01QiBAVMOaut) | [PRINSH](https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4) | [Showing Signs](https://open.spotify.com/album/7AbEIGTOubOlHGFF7L8iZS) | 3:01 |
+| 49 | [Showing Signs](https://open.spotify.com/track/2uG6wCBGkH01QiBAVMOaut) | [PRINSH](https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4) | [Showing Signs](https://open.spotify.com/album/7AbEIGTOubOlHGFF7L8iZS) | 3:01 |
+| 50 | [Feels Like Love](https://open.spotify.com/track/5lsCfINkhQtzDgtHZfVxpP) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Club Zero Cool, Vol\. 2](https://open.spotify.com/album/66vRCER2aWBuV0tXEhO0t1) | 2:22 |
 
-Snapshot ID: `MCwzNGFhNTA5ZGQwMTlmNTg2OGRjZWU4ZDc3MTQwYjE1N2MwNzA3ODY2`
+Snapshot ID: `MCxjN2NhMGIzMThlYWIyYTdlZmQxZGZlMThlNGYxYjdkYzE2MDQyOTg5`

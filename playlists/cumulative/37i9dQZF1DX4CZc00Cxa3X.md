@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-376 songs - 1 day 7 hr 12 min
+377 songs - 1 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Loved Ones](https://open.spotify.com/track/5gx6A2v2yq2a5YbfV6rtsh) | [Hauschka](https://open.spotify.com/artist/6fTuDQJqqMDrrEXSFmgyJt) | [Loved Ones](https://open.spotify.com/album/39onlwEeLB7nunB7cu0WJq) | 3:33 | 2023-07-14 |  |
 | [Loving Kindness](https://open.spotify.com/track/0dxXjGXABX6gs1svER3A6p) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [Loving Kindness](https://open.spotify.com/album/079D5fH3NELsp00fmd4YIQ) | 5:17 | 2022-10-14 | 2023-06-19 |
 | [Loving Kindness](https://open.spotify.com/track/4H2RtvGCui0DIKOZ85ik4g) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [Intention II](https://open.spotify.com/album/598GBCSFddK5tWVfYifnFy) | 5:17 | 2023-06-09 |  |
-| [Luck \(運\)](https://open.spotify.com/track/5Eswd8cRz3J9rqYRpLyTuM) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Jōhatsu \(蒸発\)](https://open.spotify.com/album/4jVf3DHrIPgkWowFjkdwMV) | 4:32 | 2023-06-05 |  |
+| [Luck \(運\)](https://open.spotify.com/track/5Eswd8cRz3J9rqYRpLyTuM) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Jōhatsu \(蒸発\)](https://open.spotify.com/album/4jVf3DHrIPgkWowFjkdwMV) | 4:32 | 2023-06-05 | 2024-01-10 |
 | [Lumi](https://open.spotify.com/track/4JwgaqEc7cFmKsBxhNqRSt) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny) | [Lumi](https://open.spotify.com/album/0PaJNCdv9ME8mJkrI1OX0W) | 2:44 | 2022-08-05 |  |
 | [Luna](https://open.spotify.com/track/2xeDQzA44Pr2xq5r1C7T5m) | [Finis Africae](https://open.spotify.com/artist/7Dshl982TzDhBL4GBL4woB) | [Finis Africae](https://open.spotify.com/album/7GAkNMHcTXrtzqvRMC5oHI) | 3:08 | 2023-06-30 | 2023-07-14 |
 | [LUX 1.1](https://open.spotify.com/track/6R5ADT7ylKtme695nbYzAK) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [LUX 1](https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg) | 3:42 | 2023-01-27 |  |
@@ -321,6 +321,7 @@
 | [Sweet Earth Flying \- Pt\. 1](https://open.spotify.com/track/7mEeRIIpi1xLkj0gYnOmKu) | [Marion Brown](https://open.spotify.com/artist/5OKhN5AURco1pBqba3CbnS) | [Sweet Earth Flying](https://open.spotify.com/album/280Zp1w8nQhWtXuvaiDnLr) | 3:40 | 2023-09-22 | 2023-10-07 |
 | [Swim Twice](https://open.spotify.com/track/08864Qlmsn00wnngEjCYGk) | [Geotic](https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ) | [Morning Shore \(Eon Isle\)](https://open.spotify.com/album/6PFxPZcgZfVXzqAaoPUHef) | 3:18 | 2023-01-06 | 2024-01-05 |
 | [Sycamore Screen](https://open.spotify.com/track/5aoRDanFSd4SULbVXg1AMC) | [Wil Bolton](https://open.spotify.com/artist/63ANock0nMaF32m4e4U1Rt) | [Ornaments of Decay](https://open.spotify.com/album/4gMDSEK0JiYAeSq9hmK0ir) | 6:40 | 2023-03-16 |  |
+| [Take it Easy \- Single Version](https://open.spotify.com/track/5oaP0XHFuiaR1f2i9J6Ebq) | [Deux Filles](https://open.spotify.com/artist/2PNeKY2obbpjO7MrVJf0M3) | [Take It Easy](https://open.spotify.com/album/7sOj3wUCWlPlOstZqNK5qL) | 3:46 | 2023-11-17 |  |
 | [TAN / 潭](https://open.spotify.com/track/0Bj6OvrKGn2Ifcv3ztKFIn) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [之 / OF](https://open.spotify.com/album/5L5vwUgHoR5wiJK2wRZaIV) | 1:57 | 2022-03-30 | 2022-09-13 |
 | [Tanto](https://open.spotify.com/track/5KaW5oOw4D5W4gOsQyTh3h) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Music for Six Rooms](https://open.spotify.com/album/2W2lrobX2NN1GODgYQGVAH) | 3:36 | 2022-03-17 | 2023-03-18 |
 | [Tape Loop \#7](https://open.spotify.com/track/5xmrerXtEqiIoxp3yOOMHY) | [James Ellis Ford](https://open.spotify.com/artist/4rzx4iwzF4sCJns8pelK55) | [The Hum](https://open.spotify.com/album/5tyCImNcNj877Flhbt9HgF) | 4:40 | 2023-06-09 |  |

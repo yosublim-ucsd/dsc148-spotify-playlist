@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AcHDy.md) - [plain]
 
 > This is Rina Sawayama\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,985 likes - 38 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,992 likes - 37 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,6 +45,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AcHDy.md) - [plain]
 | 35 | [Valentine \(What's It Gonna Be\)](https://open.spotify.com/track/5qbkxtdC4BvWdwmOXJwlH3) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Valentine \(What's It Gonna Be\)](https://open.spotify.com/album/5q8By0cUOoPK7FKMmYE4hD) | 3:27 |
 | 36 | [Alterlife](https://open.spotify.com/track/0Z0y8PeCB2f9w3m9Hi6vPD) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 4:04 |
 | 37 | [Who?](https://open.spotify.com/track/2gdn1IDxIjjsiXFpfdwfRw) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Sleeping in Waking](https://open.spotify.com/album/2EXjrlqsinxkPKguQMlbN2) | 2:21 |
-| 38 | [This Time Last Year](https://open.spotify.com/track/6JFfDG7i6E4NPHc2WEy4CS) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [This Time Last Year](https://open.spotify.com/album/3rqFFAiBrou6wZ9Ey5Ueog) | 2:26 |
 
-Snapshot ID: `Mjg0MTE5MDAsMDAwMDAwMDBmNDc2ZmIyMmNkMWQyYjBiODg3N2E3MDEwMGQzM2I0YQ==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDAwZTkxYjJkOGZhMDZiNTJiZmJmM2Y2NDZlZWQwOWIxZQ==`

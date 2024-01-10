@@ -1573,11 +1573,11 @@
         },
         {
           "name": "MichaelBM",
-          "url": "https://open.spotify.com/artist/0DdbrsAMsJHh1EFRkrVmzb"
+          "url": "https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl"
         },
         {
           "name": "Francesco V",
-          "url": "https://open.spotify.com/artist/6MrtkunYTDdVAjtH4cHjLb"
+          "url": "https://open.spotify.com/artist/44lpT2O5mBIXeyrXhVlj7Q"
         }
       ],
       "date_added": "2024-01-04",
@@ -5066,7 +5066,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 207291,
       "name": "Goodbye - DJ Seinfeld Remix",
       "url": "https://open.spotify.com/track/1G6yMiZEf1A3HzpjekA6RZ"
@@ -9080,6 +9080,32 @@
       "duration_ms": 241875,
       "name": "Nice To Arise - Edit",
       "url": "https://open.spotify.com/track/6KKA6rp9TD7s7F4ck8SGW4"
+    },
+    {
+      "album": {
+        "name": "Night After Night",
+        "url": "https://open.spotify.com/album/7hSPuiVmOvzEEm4rRr9N4o"
+      },
+      "artists": [
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        },
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Be No Rain",
+          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418528,
+      "name": "Night After Night (CamelPhat Remix)",
+      "url": "https://open.spotify.com/track/3fFDHJoKWph8PQwXq3aIoX"
     },
     {
       "album": {

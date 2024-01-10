@@ -1,12 +1,12 @@
 {
   "description": "Vibey indie tracks for just hanging out.",
-  "num_followers": 811484,
+  "num_followers": 812489,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGY4OTdlOThjNWY2NGExYTIyYzNjNzhmNDkyYWE3MDQzN2IzYTA0",
+  "snapshot_id": "MCw0Mjg4ZmUxYjJkZmVmZjJlMzFkYzhmNGQ0OTcwYmZmNjNiNmU4ZDlj",
   "tracks": [
     {
       "added_at": "2023-12-12 21:37:08",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
+        "name": "Tailwhip",
+        "url": "https://open.spotify.com/album/5zV9Kwq0WDSPshNbvG418a"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 225263,
+      "name": "Tailwhip",
+      "url": "https://open.spotify.com/track/7fax7NlxOq2X9kMZw8QLE2"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
         "name": "Ali",
         "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 301242,
       "name": "Diarabi",
       "url": "https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg"
-    },
-    {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
-        "name": "Tailwhip",
-        "url": "https://open.spotify.com/album/5zV9Kwq0WDSPshNbvG418a"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 225263,
-      "name": "Tailwhip",
-      "url": "https://open.spotify.com/track/7fax7NlxOq2X9kMZw8QLE2"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum"
-      },
-      "artists": [
-        {
-          "name": "Weston Estate",
-          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
-        }
-      ],
-      "duration_ms": 173661,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
-    },
-    {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
         "name": "butterfly (so free)",
         "url": "https://open.spotify.com/album/5Q38YvTGu832sX1ZDKK2sO"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 186061,
       "name": "butterfly (so free)",
       "url": "https://open.spotify.com/track/5IyJ1x5qq8HShuyK41jAba"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum"
+      },
+      "artists": [
+        {
+          "name": "Weston Estate",
+          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
+        }
+      ],
+      "duration_ms": 173661,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
-        "name": "Worst Case Kid",
-        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "Worst Case Kid",
-      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
-    },
-    {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
         "name": "PARADISE",
         "url": "https://open.spotify.com/album/0sBrrAq7fTOEVF0Z4RCMCy"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 141500,
       "name": "PARADISE",
       "url": "https://open.spotify.com/track/584Ud7cLe6qQEi9SrcfTzC"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
+        "name": "Worst Case Kid",
+        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "Worst Case Kid",
+      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -1333,22 +1333,6 @@
       "url": "https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA"
     },
     {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
-        "name": "coogie",
-        "url": "https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 189514,
-      "name": "coogie",
-      "url": "https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ"
-    },
-    {
       "added_at": "2023-12-14 22:08:25",
       "album": {
         "name": "Silver",
@@ -1367,18 +1351,34 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
+        "name": "coogie",
+        "url": "https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf"
       },
       "artists": [
         {
-          "name": "Hannah Jadagu",
-          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
         }
       ],
-      "duration_ms": 206012,
-      "name": "Warning Sign",
-      "url": "https://open.spotify.com/track/3HpfHYxvRacvmEPFR9ovF7"
+      "duration_ms": 189514,
+      "name": "coogie",
+      "url": "https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
+        "name": "Jardin",
+        "url": "https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky"
+      },
+      "artists": [
+        {
+          "name": "MUNYA",
+          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
+        }
+      ],
+      "duration_ms": 210306,
+      "name": "Un Deux Trois",
+      "url": "https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -1395,6 +1395,22 @@
       "duration_ms": 293339,
       "name": "Miami Baby",
       "url": "https://open.spotify.com/track/5A9OHrIpG3dSlYC1jppFRo"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "duration_ms": 206012,
+      "name": "Warning Sign",
+      "url": "https://open.spotify.com/track/3HpfHYxvRacvmEPFR9ovF7"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -1419,38 +1435,6 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
-        "name": "Jardin",
-        "url": "https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky"
-      },
-      "artists": [
-        {
-          "name": "MUNYA",
-          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
-        }
-      ],
-      "duration_ms": 210306,
-      "name": "Un Deux Trois",
-      "url": "https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe"
-    },
-    {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
-        "name": "Oas",
-        "url": "https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 240262,
-      "name": "Mormor",
-      "url": "https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3"
-    },
-    {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
         "name": "Charmed",
         "url": "https://open.spotify.com/album/3jfaxyujChdnrEbjYDaYax"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 158359,
       "name": "Charmed",
       "url": "https://open.spotify.com/track/6F5jUW0lOVlCSvhCH0yl3f"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
+        "name": "Oas",
+        "url": "https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 240262,
+      "name": "Mormor",
+      "url": "https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -1499,6 +1499,22 @@
       "duration_ms": 126440,
       "name": "Rockaway",
       "url": "https://open.spotify.com/track/3Mc1wHPrWcXiLeokUZ3Oab"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
+        "name": "More Than a Love Song",
+        "url": "https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "More Than a Love Song",
+      "url": "https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -1539,22 +1555,6 @@
       "duration_ms": 210948,
       "name": "Alright, OK",
       "url": "https://open.spotify.com/track/7hj2XcjFRk7CG1aL0GqTQP"
-    },
-    {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
-        "name": "More Than a Love Song",
-        "url": "https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "More Than a Love Song",
-      "url": "https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h"
     },
     {
       "added_at": "2023-12-14 22:08:25",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
-        "name": "99 Nights",
-        "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
+        "name": "Run To The Moon",
+        "url": "https://open.spotify.com/album/5OUIMs7DlmNEY1ia8IVQfs"
       },
       "artists": [
         {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
         }
       ],
-      "duration_ms": 185245,
-      "name": "Someone I Could Love",
-      "url": "https://open.spotify.com/track/7J5wBntCsBRCFdLXYuYlDq"
+      "duration_ms": 225901,
+      "name": "Run To The Moon",
+      "url": "https://open.spotify.com/track/03tXFHO65orOSnHlEDf0JK"
     }
   ],
   "unique_name": "Indie Chillout",

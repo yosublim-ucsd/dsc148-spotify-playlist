@@ -1,12 +1,12 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 749582,
+  "num_followers": 748959,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTAzM2NjNTYxNDhhNWQ4MTBlZDVlNzliZDk3MzYwMjRhMzA4NGY1",
+  "snapshot_id": "MCw0YmQ1MmNhYjExMDQ5YWUzYjc2MjdhYWExYWE5M2MzZmY1OTk2MTZm",
   "tracks": [
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "18 Til I Die",
-        "url": "https://open.spotify.com/album/29t8lxRlQIyG4K5Xaydt46"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 291666,
-      "name": "Have You Ever Really Loved A Woman? - From \"Don Juan DeMarco\" Soundtrack",
-      "url": "https://open.spotify.com/track/32Gf5A7Hr8RdgggXG0Fdks"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "In Between Dreams",
         "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 207680,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "18 Til I Die",
+        "url": "https://open.spotify.com/album/29t8lxRlQIyG4K5Xaydt46"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 291666,
+      "name": "Have You Ever Really Loved A Woman? - From \"Don Juan DeMarco\" Soundtrack",
+      "url": "https://open.spotify.com/track/32Gf5A7Hr8RdgggXG0Fdks"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "From Time To Time - The Singles Collection",
-        "url": "https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y"
-      },
-      "artists": [
-        {
-          "name": "Paul Young",
-          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Every Time You Go Away - Radio Edit",
-      "url": "https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "No Jacket Required (2016 Remaster)",
         "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 288973,
       "name": "One More Night - 2016 Remaster",
       "url": "https://open.spotify.com/track/6fkvIT9KFKxO8poBeKfaEf"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "From Time To Time - The Singles Collection",
+        "url": "https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y"
+      },
+      "artists": [
+        {
+          "name": "Paul Young",
+          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Every Time You Go Away - Radio Edit",
+      "url": "https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "If We Fall in Love Tonight",
-        "url": "https://open.spotify.com/album/2GmrcFfoRPSKmmSyh36Bu6"
+        "name": "Say You Won't Let Go",
+        "url": "https://open.spotify.com/album/0BL67dR6x0CPU7B7J9P8qC"
       },
       "artists": [
         {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 281200,
-      "name": "All for Love",
-      "url": "https://open.spotify.com/track/4lsEHglVsLzILTDQ3CNESV"
+      "duration_ms": 211240,
+      "name": "Say You Won't Let Go",
+      "url": "https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1227,34 +1227,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Say You Won't Let Go",
-        "url": "https://open.spotify.com/album/0BL67dR6x0CPU7B7J9P8qC"
+        "name": "If We Fall in Love Tonight",
+        "url": "https://open.spotify.com/album/2GmrcFfoRPSKmmSyh36Bu6"
       },
       "artists": [
         {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 211240,
-      "name": "Say You Won't Let Go",
-      "url": "https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "The Hits--Chapter One",
-        "url": "https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "I Want It That Way",
-      "url": "https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6"
+      "duration_ms": 281200,
+      "name": "All for Love",
+      "url": "https://open.spotify.com/track/4lsEHglVsLzILTDQ3CNESV"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1271,6 +1255,22 @@
       "duration_ms": 199320,
       "name": "Open Arms (2022 Remaster)",
       "url": "https://open.spotify.com/track/29vqBtjJTBLS1f8dKJS4Ht"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "The Hits--Chapter One",
+        "url": "https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "I Want It That Way",
+      "url": "https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 125440,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 234106,
       "name": "Naked",
       "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 125440,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Vagabond Heart (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3jBeiXLyZM4kxbHLEJwtYt"
+        "name": "Daytime Friends: The Very Best Of Kenny Rogers",
+        "url": "https://open.spotify.com/album/5Cum33m0MK39JjWvbGO8bQ"
       },
       "artists": [
         {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
         }
       ],
-      "duration_ms": 241506,
-      "name": "Have I Told You Lately - 2008 Remaster",
-      "url": "https://open.spotify.com/track/6mIY6O7uNGgVqOoX70UAYh"
+      "duration_ms": 231866,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/5Pj5zrq2nbKcAekH1AxbrO"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1479,22 +1479,6 @@
       "duration_ms": 394133,
       "name": "(Everything I Do) I Do It For You",
       "url": "https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Daytime Friends: The Very Best Of Kenny Rogers",
-        "url": "https://open.spotify.com/album/5Cum33m0MK39JjWvbGO8bQ"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        }
-      ],
-      "duration_ms": 231866,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/5Pj5zrq2nbKcAekH1AxbrO"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1527,6 +1511,22 @@
       "duration_ms": 218946,
       "name": "Don't give up on us",
       "url": "https://open.spotify.com/track/23IWhAK0cYRwnBT5EE8i3u"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Vagabond Heart (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3jBeiXLyZM4kxbHLEJwtYt"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 241506,
+      "name": "Have I Told You Lately - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6mIY6O7uNGgVqOoX70UAYh"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Classics (Vol.4)",
-        "url": "https://open.spotify.com/album/1vq5rtsUNR2tu5eJeG3uq8"
-      },
-      "artists": [
-        {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
-        }
-      ],
-      "duration_ms": 162973,
-      "name": "You Are So Beautiful",
-      "url": "https://open.spotify.com/track/5Yo8iKcDFk5aJ2Pntaz8UH"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Acoustic Sessions",
         "url": "https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 228506,
       "name": "The Man Who Can't Be Moved - Acoustic",
       "url": "https://open.spotify.com/track/5zmFKotNwxzx2QHWpxLuTg"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Classics (Vol.4)",
+        "url": "https://open.spotify.com/album/1vq5rtsUNR2tu5eJeG3uq8"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        }
+      ],
+      "duration_ms": 162973,
+      "name": "You Are So Beautiful",
+      "url": "https://open.spotify.com/track/5Yo8iKcDFk5aJ2Pntaz8UH"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
-      },
-      "artists": [
-        {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
-        }
-      ],
-      "duration_ms": 286653,
-      "name": "The Blower's Daughter",
-      "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "First Impressions",
         "url": "https://open.spotify.com/album/4TOuZm9IHXWmFDPh8ccp1Z"
       },
@@ -2399,6 +2383,22 @@
       "duration_ms": 216373,
       "name": "When You Love Someone",
       "url": "https://open.spotify.com/track/1o6YK7phnXgsljfWSQQfWc"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 286653,
+      "name": "The Blower's Daughter",
+      "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
     },
     {
       "added_at": "2022-08-26 12:00:00",

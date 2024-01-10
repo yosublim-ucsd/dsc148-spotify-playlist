@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 
 > Kick on with this mix of homegrown electronic music
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,077 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,112 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 59 | [Supersonic](https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Supersonic](https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY) | 2:49 |
 | 60 | [Chase the Sun \(Odd Mob Remix\)](https://open.spotify.com/track/6CrakXqqM1VgkCOmo7OU6i) | [Planet Funk](https://open.spotify.com/artist/4c4Ce4N4vJOs3Tzee020S4), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Chase the Sun \(Odd Mob Remix\)](https://open.spotify.com/album/5v87Q53Us8RfXe26HNjIG4) | 4:18 |
 
-Snapshot ID: `MCxlMzk2YjQzZTNiNDQ4N2RmNWY0NzMwY2Q4MTJjYWU5OTQxNGViMTBl`
+Snapshot ID: `MCwyYTdhNDlmZDc4OTQ3Y2U2MmQ5N2JmZWVjN2ZjYzg5MTVlZjhjM2Qx`

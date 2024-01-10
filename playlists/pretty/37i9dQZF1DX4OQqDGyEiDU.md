@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,413 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,407 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 47 | [Aunnobeats](https://open.spotify.com/track/4JPcF81HVIbndg6KNFQNg6) | [Maigo Hanyuu](https://open.spotify.com/artist/1IYW6az2BfL10WNlNlRcRc) | [Ukiyomeguri](https://open.spotify.com/album/4JVCGjIksgYgMhXKHz5fbC) | 3:26 |
 | 48 | [フィクサー](https://open.spotify.com/track/2DYupgAcdomatly7Lhw8zv) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [plotoplan](https://open.spotify.com/album/5GhRicRw19hWj6PeZJQfW9) | 4:07 |
 | 49 | [TONDEMO\-WONDERZ](https://open.spotify.com/track/4hrhv3LGlhO0qK21zWeHgW) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [TONDEMO\-WONDERZ](https://open.spotify.com/album/0E3hZEBiEMetjMHCo93BKk) | 3:15 |
-| 50 | [Angel 92](https://open.spotify.com/track/73l0SNaLjeGtoujFzirKNG) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Angel 92](https://open.spotify.com/album/3GvWcgfR2yCy2cW67hwwOA) | 3:17 |
+| 50 | [Bocca della Verità](https://open.spotify.com/track/7k7gLfNpXx0ZdaJtLOixnk) | [HiiragiKirai](https://open.spotify.com/artist/2GRRmz1dTswdlbdmpsveqK) | [Hateful](https://open.spotify.com/album/5KQEDITT9hD7p6gxbBAfz5) | 3:21 |
 
-Snapshot ID: `MCw2NDk5ZjQ1MDNiMGM1YzZmNzgyMjc4YzFjYzc1NGUxZGQ4NWMzMzg3`
+Snapshot ID: `MCw0ODM3NWJkYzYzNjk0NzYzZWY0NTAxNDRmMDQ5Y2MzYzVmZDRkZjI0`

@@ -1,12 +1,12 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 57229,
+  "num_followers": 57266,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTUwOWUxZjU0MDBlN2JkMmZiNDBmNzRjZTBkZGY4ODgzNGEzMzM5",
+  "snapshot_id": "MCwwODVlM2U2OTFmMDgxZjM4YzE1MzQ2ODJlNWM0MDk3OWMwYjA2ZmIx",
   "tracks": [
     {
       "added_at": "2023-11-24 19:21:59",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
+        "name": "Hail To The Kings!",
+        "url": "https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA"
+      },
+      "artists": [
+        {
+          "name": "The Cash Box Kings",
+          "url": "https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "Ain't No Fun (When The Rabbit Got The Gun)",
+      "url": "https://open.spotify.com/track/4KhsLpDlV1TeeIbwBTTrc3"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
         "name": "Leave This House",
         "url": "https://open.spotify.com/album/5FjVzRR2EtfRBJjsmZ1HBi"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 159427,
       "name": "So Long Savior",
       "url": "https://open.spotify.com/track/2G5z3Y9tvqTx4NWKsPHlC2"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
-        "name": "Hail To The Kings!",
-        "url": "https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA"
-      },
-      "artists": [
-        {
-          "name": "The Cash Box Kings",
-          "url": "https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "Ain't No Fun (When The Rabbit Got The Gun)",
-      "url": "https://open.spotify.com/track/4KhsLpDlV1TeeIbwBTTrc3"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/516Bv1lX91UTFGLIdpKYYt"
-      },
-      "artists": [
-        {
-          "name": "Laura Evans",
-          "url": "https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS"
-        }
-      ],
-      "duration_ms": 230459,
-      "name": "Heartbreaker",
-      "url": "https://open.spotify.com/track/35j5tUnce6812hJBmwxXGV"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Bayou Blues (Demo Version)",
         "url": "https://open.spotify.com/album/4HpxmLgbT4eK3zMA4wVsQM"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 217234,
       "name": "Bayou Blues - Demo Version",
       "url": "https://open.spotify.com/track/021PQTMq7rwoMDci9piPVm"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/516Bv1lX91UTFGLIdpKYYt"
+      },
+      "artists": [
+        {
+          "name": "Laura Evans",
+          "url": "https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS"
+        }
+      ],
+      "duration_ms": 230459,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/35j5tUnce6812hJBmwxXGV"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
+        "name": "TEN",
+        "url": "https://open.spotify.com/album/7HHvLqB4yD1CIP3OgS8NIN"
+      },
+      "artists": [
+        {
+          "name": "Albert Cummings",
+          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
+        }
+      ],
+      "duration_ms": 201237,
+      "name": "Too Old To Grow Up",
+      "url": "https://open.spotify.com/track/2V3azyKH2p0Y95rhTO78U8"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
         "name": "Rumpshaker",
         "url": "https://open.spotify.com/album/2TAatpkEA5nQcZkh9AiW6g"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 171040,
       "name": "Mellow Down Easy",
       "url": "https://open.spotify.com/track/3w7JOstC58U7VxTQcm7GIN"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
-        "name": "TEN",
-        "url": "https://open.spotify.com/album/7HHvLqB4yD1CIP3OgS8NIN"
-      },
-      "artists": [
-        {
-          "name": "Albert Cummings",
-          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
-        }
-      ],
-      "duration_ms": 201237,
-      "name": "Too Old To Grow Up",
-      "url": "https://open.spotify.com/track/2V3azyKH2p0Y95rhTO78U8"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Lightnin' Strikes, Volume 2",
-        "url": "https://open.spotify.com/album/6whMk1RJYnrgTTH3QpCKx9"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 295068,
-      "name": "Shake It Baby",
-      "url": "https://open.spotify.com/track/3E7U6OXYRiXzAr898yyP7G"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Mighty Love",
         "url": "https://open.spotify.com/album/7IeOJ8Oy6bgQFEn317r0Sy"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 227213,
       "name": "Mighty Love",
       "url": "https://open.spotify.com/track/0uGMmiAC2eLxS8o7rQj6ga"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Lightnin' Strikes, Volume 2",
+        "url": "https://open.spotify.com/album/6whMk1RJYnrgTTH3QpCKx9"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "duration_ms": 295068,
+      "name": "Shake It Baby",
+      "url": "https://open.spotify.com/track/3E7U6OXYRiXzAr898yyP7G"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Brand New Girl / I Got Some, Pt. 1",
-        "url": "https://open.spotify.com/album/02lUPEvrMZtgN60vb4TawW"
-      },
-      "artists": [
-        {
-          "name": "Billy Garner",
-          "url": "https://open.spotify.com/artist/78ahOK93ZY5b6CjFHOwDu4"
-        }
-      ],
-      "duration_ms": 173371,
-      "name": "I Got Some, Pt. 1",
-      "url": "https://open.spotify.com/track/1voI9W1aIo4AgAhzdYMfI6"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Somebody Save Me",
         "url": "https://open.spotify.com/album/6is4NsogY9tsZX0vcQWCv2"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 217361,
       "name": "Time to Get Movin'",
       "url": "https://open.spotify.com/track/1L4bBxv6uRhBjRVXTFAQ3R"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Brand New Girl / I Got Some, Pt. 1",
+        "url": "https://open.spotify.com/album/02lUPEvrMZtgN60vb4TawW"
+      },
+      "artists": [
+        {
+          "name": "Billy Garner",
+          "url": "https://open.spotify.com/artist/78ahOK93ZY5b6CjFHOwDu4"
+        }
+      ],
+      "duration_ms": 173371,
+      "name": "I Got Some, Pt. 1",
+      "url": "https://open.spotify.com/track/1voI9W1aIo4AgAhzdYMfI6"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
-        "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
-      },
-      "artists": [
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 293106,
-      "name": "It's My Fault, Darling - Remastered",
-      "url": "https://open.spotify.com/track/1sgJMQ4xz3GmWDulQuCvwS"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "So Swell",
         "url": "https://open.spotify.com/album/5VW0Vy8eqvS8ep0CsQvXfO"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 140502,
       "name": "Pony Boy",
       "url": "https://open.spotify.com/track/0FuaUNYkcuu8DyXm3UDxA0"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
+        "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "duration_ms": 293106,
+      "name": "It's My Fault, Darling - Remastered",
+      "url": "https://open.spotify.com/track/1sgJMQ4xz3GmWDulQuCvwS"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Who Is He?",
-        "url": "https://open.spotify.com/album/0NhSm5EghvrjBuHtg0mZ6e"
-      },
-      "artists": [
-        {
-          "name": "Dylan Triplett",
-          "url": "https://open.spotify.com/artist/3hCmpGNTSpLH1Dj74VLNJN"
-        }
-      ],
-      "duration_ms": 210946,
-      "name": "Feels Good Doin' Bad",
-      "url": "https://open.spotify.com/track/3xtSEgKwfAwuHLyEGmmgHX"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "I Cry For You (Live)",
         "url": "https://open.spotify.com/album/4hGPhYsYb7TiEm6V71rnSA"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 132358,
       "name": "I Cry For You - Live",
       "url": "https://open.spotify.com/track/6BTAi9ZQs9fX79WwibqLzQ"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Who Is He?",
+        "url": "https://open.spotify.com/album/0NhSm5EghvrjBuHtg0mZ6e"
+      },
+      "artists": [
+        {
+          "name": "Dylan Triplett",
+          "url": "https://open.spotify.com/artist/3hCmpGNTSpLH1Dj74VLNJN"
+        }
+      ],
+      "duration_ms": 210946,
+      "name": "Feels Good Doin' Bad",
+      "url": "https://open.spotify.com/track/3xtSEgKwfAwuHLyEGmmgHX"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Chicago/The Blues/Today!",
-        "url": "https://open.spotify.com/album/2j6hPbEmlTI0DmvLFZbzgw"
-      },
-      "artists": [
-        {
-          "name": "Big Walter Horton's Blues Harp Band",
-          "url": "https://open.spotify.com/artist/17GMTl9pnA3XqbTwZBrlta"
-        }
-      ],
-      "duration_ms": 144933,
-      "name": "Hey, Hey",
-      "url": "https://open.spotify.com/track/19gGTp7TUX1GaWw05Ji1IR"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Ooh Poo Pah Do",
         "url": "https://open.spotify.com/album/0nPsjgUeJCi31GD8yJggXL"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 137627,
       "name": "Ooh Poo Pah Do (Pt. 1)",
       "url": "https://open.spotify.com/track/02v6Ie89lZ4bArlzp9MKzi"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Chicago/The Blues/Today!",
+        "url": "https://open.spotify.com/album/2j6hPbEmlTI0DmvLFZbzgw"
+      },
+      "artists": [
+        {
+          "name": "Big Walter Horton's Blues Harp Band",
+          "url": "https://open.spotify.com/artist/17GMTl9pnA3XqbTwZBrlta"
+        }
+      ],
+      "duration_ms": 144933,
+      "name": "Hey, Hey",
+      "url": "https://open.spotify.com/track/19gGTp7TUX1GaWw05Ji1IR"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "RED DRESS",
-        "url": "https://open.spotify.com/album/4uh2J2yGXDUpXqN3VNSTtA"
-      },
-      "artists": [
-        {
-          "name": "Ethan Wilson",
-          "url": "https://open.spotify.com/artist/0HrxgAPTbsueVGzLVZ6RzP"
-        }
-      ],
-      "duration_ms": 196754,
-      "name": "RED DRESS",
-      "url": "https://open.spotify.com/track/7piAoG8DsUIsXzahToJ5Yb"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "TEN",
         "url": "https://open.spotify.com/album/7HHvLqB4yD1CIP3OgS8NIN"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 250970,
       "name": "Sounds Like The Road",
       "url": "https://open.spotify.com/track/3Q2fXEwlK6x4nNPlGAZuzn"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "RED DRESS",
+        "url": "https://open.spotify.com/album/4uh2J2yGXDUpXqN3VNSTtA"
+      },
+      "artists": [
+        {
+          "name": "Ethan Wilson",
+          "url": "https://open.spotify.com/artist/0HrxgAPTbsueVGzLVZ6RzP"
+        }
+      ],
+      "duration_ms": 196754,
+      "name": "RED DRESS",
+      "url": "https://open.spotify.com/track/7piAoG8DsUIsXzahToJ5Yb"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Down At The Railway",
-        "url": "https://open.spotify.com/album/2HvqgtyVEJX3G3eZxkfonX"
-      },
-      "artists": [
-        {
-          "name": "Smokestack Blues Band",
-          "url": "https://open.spotify.com/artist/0ImMr2pKH8DaYvhB6gtV5s"
-        }
-      ],
-      "duration_ms": 196115,
-      "name": "Pack Fair and Square",
-      "url": "https://open.spotify.com/track/3QhDPahbCLsXCNXwjrsySw"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Red Hot / No Greater Love",
         "url": "https://open.spotify.com/album/7KEEvzpHHkU4R3BKgsBtZV"
       },
@@ -2415,18 +2399,18 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Trying to Hold On",
-        "url": "https://open.spotify.com/album/4eYqi12IL2UvjNbnrZYP5s"
+        "name": "Down At The Railway",
+        "url": "https://open.spotify.com/album/2HvqgtyVEJX3G3eZxkfonX"
       },
       "artists": [
         {
-          "name": "Diunna Greenleaf",
-          "url": "https://open.spotify.com/artist/22laryZFr71CbB5WtXIMzb"
+          "name": "Smokestack Blues Band",
+          "url": "https://open.spotify.com/artist/0ImMr2pKH8DaYvhB6gtV5s"
         }
       ],
-      "duration_ms": 225133,
-      "name": "I Can't Wait",
-      "url": "https://open.spotify.com/track/0H5OwyqyF1UM39wieKPGn0"
+      "duration_ms": 196115,
+      "name": "Pack Fair and Square",
+      "url": "https://open.spotify.com/track/3QhDPahbCLsXCNXwjrsySw"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2443,6 +2427,22 @@
       "duration_ms": 148933,
       "name": "Just As Gone",
       "url": "https://open.spotify.com/track/3i5jNMGAX9EnyeiSLtm83W"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Trying to Hold On",
+        "url": "https://open.spotify.com/album/4eYqi12IL2UvjNbnrZYP5s"
+      },
+      "artists": [
+        {
+          "name": "Diunna Greenleaf",
+          "url": "https://open.spotify.com/artist/22laryZFr71CbB5WtXIMzb"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "I Can't Wait",
+      "url": "https://open.spotify.com/track/0H5OwyqyF1UM39wieKPGn0"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2479,18 +2479,18 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Proud Man's Blues (Radio Mix)",
-        "url": "https://open.spotify.com/album/7h1acEI8URAH1RNchZ8CNK"
+        "name": "Life Don\u2019t Miss Nobody",
+        "url": "https://open.spotify.com/album/6wLNDDWOMPE9leLWmhDw7C"
       },
       "artists": [
         {
-          "name": "L.A. Big Daddy's",
-          "url": "https://open.spotify.com/artist/52F4si8QmpdcHrwAIOU5qE"
+          "name": "Tracy Nelson",
+          "url": "https://open.spotify.com/artist/41D1NBo5Ib5aJ7Aavt3cWS"
         }
       ],
-      "duration_ms": 207255,
-      "name": "Proud Man's Blues (Radio Mix)",
-      "url": "https://open.spotify.com/track/0wrFuYDRBrcx4BHqLsnIcH"
+      "duration_ms": 217800,
+      "name": "Strange Things Happening Every Day",
+      "url": "https://open.spotify.com/track/1mZnYPZKrIzS5AEjXa5fzC"
     }
   ],
   "unique_name": "Upbeat Blues",

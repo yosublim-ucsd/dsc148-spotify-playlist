@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 
 > Für ein bisschen mehr Leichtigkeit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,677 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,618 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 69 | [Not Ready](https://open.spotify.com/track/2O9VKLv8pPmGM3PHTzQrKA) | [Myle](https://open.spotify.com/artist/1EhPRkK8hf1SzrDhzPlaMw) | [Not Ready](https://open.spotify.com/album/3ehwkHOVfqCDgizH3vGXLa) | 3:00 |
 | 70 | [Keep It Low](https://open.spotify.com/track/1lvLAlvWIuE6UinQffsWVb) | [Martis](https://open.spotify.com/artist/4IlwiL1INGzXlZLcXM5dRI) | [Keep It Low](https://open.spotify.com/album/44X8n4NJte0z53s6ENScsA) | 2:52 |
 
-Snapshot ID: `MCw2ZTlkNTUyMjJlZWMzYmY4Zjk3NGU0ZTk0MjMzMjUzMTI5MTAxN2Q5`
+Snapshot ID: `MCwyNTA4ZjJjNzAwZTg2MDdlNDRhYjI5MmRlY2VjN2Q2MTdjMzFiMzJj`

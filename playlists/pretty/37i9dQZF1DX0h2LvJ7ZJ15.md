@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,157,471 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,159,020 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 11 | [LOVELY BASTARDS \- Slowed](https://open.spotify.com/track/0D1lgFbxCMU4aieSJWSy9H) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [LOVELY BASTARDS \(Slowed\)](https://open.spotify.com/album/1QL0TDLvTBzk673QULEBMQ) | 2:32 |
 | 12 | [Call Me \- Slowed](https://open.spotify.com/track/0TvHrcLqLrQxAmT8ILd21V) | [plenka](https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0) | [Call Me \(Slowed\)](https://open.spotify.com/album/3krinBrIqu08BHXlrWX88N) | 2:40 |
 | 13 | [MONTAGEM \- PR FUNK \- Slowed & Reveerb](https://open.spotify.com/track/4hB9LJ3TsLNPb2fiZidRLZ) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [MONTAGEM \- PR FUNK \(Slowed & Reveerb\)](https://open.spotify.com/album/0w0fGghlcl6YPgK5JjmWHI) | 1:23 |
-| 14 | [METAMORPHOSIS \- Slowed + Reverb](https://open.spotify.com/track/02oUvHd9QhVUO4YYb7t9JM) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS \(Slowed + Reverb\)](https://open.spotify.com/album/4z0nL9bblVphvhmt8o15yO) | 2:52 |
-| 15 | [ICEWHORE! \- slowed](https://open.spotify.com/track/01A9Xt0XyeYIzC9K7MSvua) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [ICEWHORE!](https://open.spotify.com/album/4To1CK51OcwNtpLnlirXQK) | 2:03 |
+| 14 | [ICEWHORE! \- slowed](https://open.spotify.com/track/01A9Xt0XyeYIzC9K7MSvua) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [ICEWHORE!](https://open.spotify.com/album/4To1CK51OcwNtpLnlirXQK) | 2:03 |
+| 15 | [METAMORPHOSIS \- Slowed + Reverb](https://open.spotify.com/track/02oUvHd9QhVUO4YYb7t9JM) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS \(Slowed + Reverb\)](https://open.spotify.com/album/4z0nL9bblVphvhmt8o15yO) | 2:52 |
 | 16 | [green to blue \- slowed + reverbed](https://open.spotify.com/track/1MrSbSu9UNo7Aucwrf32WJ) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [green to blue \(slowed + reverbed\)](https://open.spotify.com/album/0avfrXwfeSE0JWggiX288s) | 3:07 |
 | 17 | [3:15 \- Slowed Down + Reverb](https://open.spotify.com/track/4ooAEchlO6o6WL301WqIkP) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [3:15 \(OG, Slowed Down + Reverb, Sped Up\)](https://open.spotify.com/album/1RZQkYI9bib46kpfH9qSZV) | 3:15 |
 | 18 | [Close Eyes \- Slowed + Reverb](https://open.spotify.com/track/5RE3w3M9g5vsotdIVtLONq) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes \(Slowed + Reverb\)](https://open.spotify.com/album/12zL1YZJeADPb6hPdD9Mqm) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 49 | [No Idea \- Dj Purpberry Chopped and Screwed](https://open.spotify.com/track/3PEwQ1uaMwg0ehoTeVm7Yq) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [DJ Purpberry](https://open.spotify.com/artist/4WsNup6PgOM2MedSclPPL0) | [No Idea \(DJ Purpberry Chopped and Screwed\)](https://open.spotify.com/album/2npABxi9tLhYZym5NtWubO) | 3:15 |
 | 50 | [Living Life, In The Night \- slowed](https://open.spotify.com/track/5kcNmFn1llGqEw6tAKq1IQ) | [Cheriimoya](https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX), [Sierra Kidd](https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT) | [Living Life, In The Night \(slowed\)](https://open.spotify.com/album/6NoezhYM82PEROFIrhLIDY) | 2:21 |
 
-Snapshot ID: `MCxjNDA3NzEwZDUzMzFmNjhhZTNiZTkwZWNjZDZlOTBiNGI5NjVmM2I2`
+Snapshot ID: `MCxmZTMzMDlkZmQ2ZTY3ZDc3NWYxNjYxYjI5ZjY3NjU4MWRmYjVhMDVh`

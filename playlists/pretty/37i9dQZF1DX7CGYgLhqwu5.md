@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,211 likes - 100 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,132 likes - 100 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,17 +71,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 61 | [Devil Woman](https://open.spotify.com/track/58ojWS1EGL6z5rEOELtJmH) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [The Story Of My Life: The Best Of Marty Robbins 1952\-1965](https://open.spotify.com/album/74rRdoFP8aO3ZhY8MeZK0m) | 2:52 |
 | 62 | [I've Got A Tiger By The Tail \- 2006 Remastered Version](https://open.spotify.com/track/1GDAvJth0ebssC2XkG7RYM) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [21 \#1 Hits: The Ultimate Collection](https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D) | 2:13 |
 | 63 | [Things](https://open.spotify.com/track/5kkuFmsiEYlDXHoCWLey4B) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Country Style](https://open.spotify.com/album/5jZjP2dKKHILInEP99iHyt) | 2:39 |
-| 64 | [Branded Man \- Remastered](https://open.spotify.com/track/2VN8jqhBgwIsU849PKxCfE) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Prison](https://open.spotify.com/album/6u0llsaFIcmb2aTcobahaZ) | 3:06 |
+| 64 | [Am I Losing You](https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [Greatest Hits](https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ) | 2:19 |
 | 65 | [Men With Evil Hearts](https://open.spotify.com/track/26sTWQPzFMKv1gNuQFcaxI) | [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [Leaving](https://open.spotify.com/album/3wRjoe5k9mCmuRVdUERgqo) | 2:02 |
-| 66 | [Am I Losing You](https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [Greatest Hits](https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ) | 2:19 |
+| 66 | [Branded Man \- Remastered](https://open.spotify.com/track/2VN8jqhBgwIsU849PKxCfE) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Prison](https://open.spotify.com/album/6u0llsaFIcmb2aTcobahaZ) | 3:06 |
 | 67 | [Jackson \(with June Carter Cash\)](https://open.spotify.com/track/6ekSX8AVzwRSs0mbSlPc0R) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [June Carter Cash](https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td) | [Keep On the Sunny Side \- June Carter Cash: Her Life In Music](https://open.spotify.com/album/0pSVeCzT60p5pzP3m3iOrN) | 2:46 |
 | 68 | [I Don't Wanna Play House](https://open.spotify.com/track/0mSywazXcVFQZRk2Gg9ImX) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Tammy's Greatest Hits](https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI) | 2:34 |
 | 69 | [I'm So Lonesome I Could Cry](https://open.spotify.com/track/6VpbL35xNjnpFclaWVrR1d) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Country Style](https://open.spotify.com/album/5jZjP2dKKHILInEP99iHyt) | 2:37 |
 | 70 | [Above And Beyond](https://open.spotify.com/track/5z82O18NokdKypb5KwqHmf) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [Buck Owens Country Legends](https://open.spotify.com/album/3aqXDRfnxd2LTsnVnuFKJT) | 2:22 |
 | 71 | [Homecoming \- Single Version](https://open.spotify.com/track/5Lb38fmngYVaPkLYHuAThe) | [Tom T\. Hall](https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T) | [Country Classics: American Legends Tom T\. Hall \(Expanded Edition\)](https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5) | 3:17 |
-| 72 | [The Bottle Let Me Down](https://open.spotify.com/track/4zzcta2PO7TIs9YuXZ6G2u) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Vintage Collections](https://open.spotify.com/album/14QyCjfoBHSmq5nxux8OJg) | 2:48 |
-| 73 | [Me And Bobby McGee](https://open.spotify.com/track/3i5bJFIAkgoZqJoRAQqAKO) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [Super Hits](https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C) | 3:16 |
-| 74 | [Six Days On The Road](https://open.spotify.com/track/0LpmpBulMgAwtdC3YYgkql) | [Dave Dudley](https://open.spotify.com/artist/4bsWHdJkFtq1r3TcXtKGdv) | [20th Century Masters: The Millennium Collection: Best Of Dave Dudley](https://open.spotify.com/album/2uLj0PdZhNFm5KXJjUW6GM) | 2:14 |
+| 72 | [Me And Bobby McGee](https://open.spotify.com/track/3i5bJFIAkgoZqJoRAQqAKO) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [Super Hits](https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C) | 3:16 |
+| 73 | [Six Days On The Road](https://open.spotify.com/track/0LpmpBulMgAwtdC3YYgkql) | [Dave Dudley](https://open.spotify.com/artist/4bsWHdJkFtq1r3TcXtKGdv) | [20th Century Masters: The Millennium Collection: Best Of Dave Dudley](https://open.spotify.com/album/2uLj0PdZhNFm5KXJjUW6GM) | 2:14 |
+| 74 | [The Bottle Let Me Down](https://open.spotify.com/track/4zzcta2PO7TIs9YuXZ6G2u) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Vintage Collections](https://open.spotify.com/album/14QyCjfoBHSmq5nxux8OJg) | 2:48 |
 | 75 | [Detroit City](https://open.spotify.com/track/7eNM9suHz80f4fbC8aobod) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [Super Hits](https://open.spotify.com/album/27mfw2zyN5OY8RzlKD5C6v) | 2:49 |
 | 76 | [Don't Let Me Cross Over](https://open.spotify.com/track/1ZNDtli4TjhuoBnWplaePI) | [Carl Butler](https://open.spotify.com/artist/2EtHntibRhuBeOmpRT2HNF) | [Don't Let Me Cross Over](https://open.spotify.com/album/4x4PlliOVqlLHyqel4cOL8) | 2:57 |
 | 77 | [Take Me](https://open.spotify.com/track/321EGZZRFk8kj4pNZraesQ) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5), [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [The Essential George Jones](https://open.spotify.com/album/2Pf9lml86yy0wuEDUSBIUF) | 2:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 99 | [Don't Touch Me](https://open.spotify.com/track/1Y2G8nl3CGR3qMPDDBuDhb) | [Jeannie Seely](https://open.spotify.com/artist/0i9f82nIFjrLnnsf2YX3vY) | [The Seely Style](https://open.spotify.com/album/5dx7Vs0d283fuSeaYpvSsw) | 3:12 |
 | 100 | [Misery Loves Company](https://open.spotify.com/track/3svC90yBSf9R7aMvrn3mzz) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [Viva](https://open.spotify.com/album/5srw9Y2VmTNHwUVziaibEk) | 2:33 |
 
-Snapshot ID: `MCxkOGNiMDU4MWE0MGY5ZTI4YzMwODA1OWRiYmQ1NTliOWUzNzU3NDA4`
+Snapshot ID: `MCw2NjBhMmYyZjU0MWYxZmRiMGQ5OTA4MDlhMzMzNDA5MmVlYmNlOWVl`

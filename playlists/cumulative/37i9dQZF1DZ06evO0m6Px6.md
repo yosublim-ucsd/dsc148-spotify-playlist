@@ -4,11 +4,11 @@
 
 > This is Harrison\. The essential tracks, all in one playlist.
 
-62 songs - 2 hr 59 min
+63 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2016](https://open.spotify.com/track/6aoBlODIHhwN1jzjojI3Tx) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ) | 2:02 | 2024-01-08 |  |
+| [2016](https://open.spotify.com/track/6aoBlODIHhwN1jzjojI3Tx) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ) | 2:02 | 2024-01-08 | 2024-01-10 |
 | [7PM](https://open.spotify.com/track/1dXG8xVXSiYmsfC5FqNPqk) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ) | 1:31 | 2023-12-13 | 2024-01-09 |
 | [7PM](https://open.spotify.com/track/4AppRvQz4VFgXSPqEcafKq) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI) | 1:31 | 2024-01-08 |  |
 | [A View From The Sky](https://open.spotify.com/track/10N0I9KcAZ7dJKs6n3x7WQ) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI) | 1:25 | 2024-01-07 |  |
@@ -40,6 +40,7 @@
 | [Intro](https://open.spotify.com/track/0MClMpvEwvVsDCUoyekryQ) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Checkpoint Titanium](https://open.spotify.com/album/7bHg0AsXi33E9ZnxgdEoGS) | 1:01 | 2023-12-13 |  |
 | [It's Okay, I Promise](https://open.spotify.com/track/6zApq99qzcylaUENzFkSk8) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 3:57 | 2024-01-06 | 2024-01-08 |
 | [Like When We Were Kids](https://open.spotify.com/track/5Y7SPPrxoeYkhQBK7s6SUR) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ) | 2:00 | 2023-12-13 | 2024-01-09 |
+| [Like When We Were Kids](https://open.spotify.com/track/7z20eGxDtGRcsbjABomnsp) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI) | 2:00 | 2024-01-09 |  |
 | [Lotus](https://open.spotify.com/track/0EaEPLdYm4axlYFInnxgQU) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 3:03 | 2024-01-07 |  |
 | [Lotus](https://open.spotify.com/track/1ArSn8ftfl1LScy4Z9OygM) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Checkpoint Titanium](https://open.spotify.com/album/7bHg0AsXi33E9ZnxgdEoGS) | 3:03 | 2023-12-13 | 2024-01-08 |
 | [Mayday \(feat\. Harrison\)](https://open.spotify.com/track/2m5zbzKP9t1w9AQGmUtmZl) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc), [Lucky Date](https://open.spotify.com/artist/6nNKPNNjOy3my0IYO8l0v4), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Mayday \(feat\. Harrison\)](https://open.spotify.com/album/4x4wcNmMi0vJxQ9z4EOqUB) | 4:18 | 2023-12-13 |  |

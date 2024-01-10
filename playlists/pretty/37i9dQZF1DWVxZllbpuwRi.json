@@ -1,12 +1,12 @@
 {
   "description": "Aqui o ver\u00e3o dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!",
-  "num_followers": 619100,
+  "num_followers": 618033,
   "original_name": "Ver\u00e3o Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDM1MDA5MThmODJmZWQ4MTlkMDU4MDRmMWJhYWFlMGIzMDRiOTZi",
+  "snapshot_id": "MCxmMDIxYjJmMDY0Njg4OGUyZTJlNDk1YjEzN2JiN2VjYThiMjIyMjBl",
   "tracks": [
     {
       "added_at": "2023-02-17 03:00:00",
@@ -83,6 +83,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "Emmanuel",
         "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 246000,
       "name": "Hasta Que Dios Diga",
       "url": "https://open.spotify.com/track/06s3QtMJVXw1AJX3UfvZG1"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "Dua Lipa (Deluxe)",
-        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/3P5vWf0KJyYObvNKB7jP00"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 188910,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/2XghxCSGfhpGR2B3ahQXVr"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "Waiting For Tomorrow (feat. Mike Shinoda)",
         "url": "https://open.spotify.com/album/3gyPAMRvvAXjphXv0xjJ0X"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 247504,
       "name": "Waiting For Tomorrow (feat. Mike Shinoda)",
       "url": "https://open.spotify.com/track/5Gi8lLH3edcexP99srU1Nl"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/3P5vWf0KJyYObvNKB7jP00"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 188910,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/2XghxCSGfhpGR2B3ahQXVr"
     },
     {
       "added_at": "2023-02-17 03:00:00",

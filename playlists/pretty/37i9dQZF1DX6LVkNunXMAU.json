@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Paola Navarrete & Adanowsky.",
-  "num_followers": 56395,
+  "num_followers": 56378,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzJjZWI0OGFhZTlmOTU3MzllOTU2ZDQ0OTE1YjBjYzRkZDJjZDc2",
+  "snapshot_id": "MCxhODUyNzgyNzU3ZTZkNGM2MDY1ZjI3MWU2NzY3YzViZDI4MTE0MWNh",
   "tracks": [
     {
       "added_at": "2023-12-15 03:00:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Entr\u00e9gate",
-        "url": "https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 191232,
-      "name": "Entr\u00e9gate",
-      "url": "https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "No Te Puedo Decir Que No",
         "url": "https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 183888,
       "name": "No Te Puedo Decir Que No",
       "url": "https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Entr\u00e9gate",
+        "url": "https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 191232,
+      "name": "Entr\u00e9gate",
+      "url": "https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Ganas de Dejarte",
-        "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
-      },
-      "artists": [
-        {
-          "name": "Olivia Garc\u00eda",
-          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
-        }
-      ],
-      "duration_ms": 139688,
-      "name": "Ganas de Dejarte",
-      "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "poco a poquito",
         "url": "https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 168320,
       "name": "poco a poquito",
       "url": "https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Ganas de Dejarte",
+        "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
+      },
+      "artists": [
+        {
+          "name": "Olivia Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
+        }
+      ],
+      "duration_ms": 139688,
+      "name": "Ganas de Dejarte",
+      "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -683,6 +683,26 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/1T0ZC5gGVRUWxCXhAraJ1J"
+      },
+      "artists": [
+        {
+          "name": "El Mulu",
+          "url": "https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM"
+        },
+        {
+          "name": "Pehuenche",
+          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
+        }
+      ],
+      "duration_ms": 192989,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/3ESZU7ayz6gxMCt2Q0FQLc"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Calor",
         "url": "https://open.spotify.com/album/6OPkStWof1bHCcuYc2lxw0"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 230179,
       "name": "La Burbuja",
       "url": "https://open.spotify.com/track/3YdqNKwtID5pip8QbnIHls"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/1T0ZC5gGVRUWxCXhAraJ1J"
-      },
-      "artists": [
-        {
-          "name": "El Mulu",
-          "url": "https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM"
-        },
-        {
-          "name": "Pehuenche",
-          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
-        }
-      ],
-      "duration_ms": 192989,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/3ESZU7ayz6gxMCt2Q0FQLc"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -883,42 +883,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Tampoco Poco",
-        "url": "https://open.spotify.com/album/75vq0NL98i4o6WZzqVjt2r"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        },
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 180534,
-      "name": "Tampoco Poco",
-      "url": "https://open.spotify.com/track/56Qv2bKbDBp7I2iKgmUV47"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Negro",
-        "url": "https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT"
-      },
-      "artists": [
-        {
-          "name": "Mayra C\u00e1rdenas",
-          "url": "https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1"
-        }
-      ],
-      "duration_ms": 245217,
-      "name": "Negro",
-      "url": "https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Y vos dec\u00eds que me gust\u00e1s",
         "url": "https://open.spotify.com/album/56CQFLi5i54v0mgfbzrV4q"
       },
@@ -939,6 +903,26 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Tampoco Poco",
+        "url": "https://open.spotify.com/album/75vq0NL98i4o6WZzqVjt2r"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 180534,
+      "name": "Tampoco Poco",
+      "url": "https://open.spotify.com/track/56Qv2bKbDBp7I2iKgmUV47"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Ninja",
         "url": "https://open.spotify.com/album/5Q0pxcgF1MirneMBhcfRff"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Reminiscencia",
-        "url": "https://open.spotify.com/album/2YYYKlbq15SgyHOzyTqLvu"
+        "name": "Negro",
+        "url": "https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT"
       },
       "artists": [
         {
-          "name": "Lu Ferreyra",
-          "url": "https://open.spotify.com/artist/723edx2BuJb3sprVI7DDyO"
+          "name": "Mayra C\u00e1rdenas",
+          "url": "https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1"
         }
       ],
-      "duration_ms": 220537,
-      "name": "Reminiscencia",
-      "url": "https://open.spotify.com/track/0bk8u1GOiuSJyIhvmzvQ10"
+      "duration_ms": 245217,
+      "name": "Negro",
+      "url": "https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -983,6 +967,22 @@
       "duration_ms": 231154,
       "name": "Amante",
       "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Reminiscencia",
+        "url": "https://open.spotify.com/album/2YYYKlbq15SgyHOzyTqLvu"
+      },
+      "artists": [
+        {
+          "name": "Lu Ferreyra",
+          "url": "https://open.spotify.com/artist/723edx2BuJb3sprVI7DDyO"
+        }
+      ],
+      "duration_ms": 220537,
+      "name": "Reminiscencia",
+      "url": "https://open.spotify.com/track/0bk8u1GOiuSJyIhvmzvQ10"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/5GtNzOeObvCTuob1bxt7e0"
-      },
-      "artists": [
-        {
-          "name": "Valdes",
-          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
-        }
-      ],
-      "duration_ms": 244689,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/5g2zTEnrgZQa9MInAahB3h"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "NI\u00d1A",
         "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 200245,
       "name": "NI\u00d1A",
       "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/5GtNzOeObvCTuob1bxt7e0"
+      },
+      "artists": [
+        {
+          "name": "Valdes",
+          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
+        }
+      ],
+      "duration_ms": 244689,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/5g2zTEnrgZQa9MInAahB3h"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "miel <3",
-        "url": "https://open.spotify.com/album/6HsQoY5d6BWRwcQF308Vpw"
-      },
-      "artists": [
-        {
-          "name": "Valeria Jasso",
-          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
-        }
-      ],
-      "duration_ms": 203157,
-      "name": "miel <3",
-      "url": "https://open.spotify.com/track/6yaGq15NkA6cho4zUUfn5w"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Suerte para m\u00ed",
         "url": "https://open.spotify.com/album/6CW5eGVqBR2o3EmF7Ti8iX"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 183786,
       "name": "Suerte para m\u00ed",
       "url": "https://open.spotify.com/track/464idwypVzujFVCo6XdgeI"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "miel <3",
+        "url": "https://open.spotify.com/album/6HsQoY5d6BWRwcQF308Vpw"
+      },
+      "artists": [
+        {
+          "name": "Valeria Jasso",
+          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
+        }
+      ],
+      "duration_ms": 203157,
+      "name": "miel <3",
+      "url": "https://open.spotify.com/track/6yaGq15NkA6cho4zUUfn5w"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Amiga",
-        "url": "https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x"
-      },
-      "artists": [
-        {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
-        }
-      ],
-      "duration_ms": 157389,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "El Vals",
         "url": "https://open.spotify.com/album/1I0GlSP3diYHVYtDaXFyrN"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 200956,
       "name": "El Vals",
       "url": "https://open.spotify.com/track/6zx183cKNh2ws2k9ikLK1Q"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Amiga",
+        "url": "https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x"
+      },
+      "artists": [
+        {
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+        }
+      ],
+      "duration_ms": 157389,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Noche Tem\u00e1tica",
-        "url": "https://open.spotify.com/album/551AmNqvXTAgw2NU5DfRJX"
-      },
-      "artists": [
-        {
-          "name": "Todo El Verano",
-          "url": "https://open.spotify.com/artist/36ql1hMBBeWfqeQmK5vXn9"
-        }
-      ],
-      "duration_ms": 219834,
-      "name": "Noche Tem\u00e1tica",
-      "url": "https://open.spotify.com/track/7k6lLVdDN1pczDJzUhm4n7"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Un Nuevo Ritmo",
         "url": "https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 213164,
       "name": "Un Nuevo Ritmo",
       "url": "https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Noche Tem\u00e1tica",
+        "url": "https://open.spotify.com/album/551AmNqvXTAgw2NU5DfRJX"
+      },
+      "artists": [
+        {
+          "name": "Todo El Verano",
+          "url": "https://open.spotify.com/artist/36ql1hMBBeWfqeQmK5vXn9"
+        }
+      ],
+      "duration_ms": 219834,
+      "name": "Noche Tem\u00e1tica",
+      "url": "https://open.spotify.com/track/7k6lLVdDN1pczDJzUhm4n7"
     },
     {
       "added_at": "2023-12-15 03:00:00",

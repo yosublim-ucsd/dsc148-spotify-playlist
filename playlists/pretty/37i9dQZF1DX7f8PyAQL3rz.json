@@ -1,12 +1,12 @@
 {
   "description": "blusa de time com o vulgo nas costa, \u00e9 o pai da maria",
-  "num_followers": 1323464,
+  "num_followers": 1323467,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDA5ZDJmYjc4YjU3YzY3M2YzNTU5ZDFmODc4MTdjYTkxNWY1NTMx",
+  "snapshot_id": "MCw0ZmRjNzM0NmJkYTE4MmQ4Yjg1MzE1MTI2NmY3OTAxN2M5MzljNGY2",
   "tracks": [
     {
       "added_at": "2024-01-05 03:01:00",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
-        "name": "Faz Completo, Chefe",
-        "url": "https://open.spotify.com/album/6KBfDOPHZWb4FUpJMfSrVL"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "DJ WN",
-          "url": "https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB"
-        }
-      ],
-      "duration_ms": 127228,
-      "name": "Faz Completo, Chefe",
-      "url": "https://open.spotify.com/track/3uxc6B7LaEeOdLe4WWzME8"
-    },
-    {
-      "added_at": "2024-01-05 03:01:00",
-      "album": {
         "name": "Se Voc\u00ea For Embora",
         "url": "https://open.spotify.com/album/7IbQtUpNuUHQS2Cr8uNTRJ"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 164874,
       "name": "Disposi\u00e7\u00e3o e Atividade",
       "url": "https://open.spotify.com/track/1IZmGrAEkq98MxDQCYhtjJ"
+    },
+    {
+      "added_at": "2024-01-05 03:01:00",
+      "album": {
+        "name": "Faz Completo, Chefe",
+        "url": "https://open.spotify.com/album/6KBfDOPHZWb4FUpJMfSrVL"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "DJ WN",
+          "url": "https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB"
+        }
+      ],
+      "duration_ms": 127228,
+      "name": "Faz Completo, Chefe",
+      "url": "https://open.spotify.com/track/3uxc6B7LaEeOdLe4WWzME8"
     },
     {
       "added_at": "2024-01-05 03:01:00",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
+        "name": "Um Pequeno \u00c1lbum de Natal",
+        "url": "https://open.spotify.com/album/2Wo40ErDS87wfkSbGqxt5O"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 221666,
+      "name": "Eu Fumei a \u00c1rvore de Natal",
+      "url": "https://open.spotify.com/track/52hZ6Mr4vJawAwSQucW67R"
+    },
+    {
+      "added_at": "2024-01-05 03:01:00",
+      "album": {
         "name": "Contradi\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 229326,
       "name": "Melhor S\u00f3",
       "url": "https://open.spotify.com/track/2fwDJWwEr9gKzVZAP3gjM9"
-    },
-    {
-      "added_at": "2024-01-05 03:01:00",
-      "album": {
-        "name": "Um Pequeno \u00c1lbum de Natal",
-        "url": "https://open.spotify.com/album/2Wo40ErDS87wfkSbGqxt5O"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 221666,
-      "name": "Eu Fumei a \u00c1rvore de Natal",
-      "url": "https://open.spotify.com/track/52hZ6Mr4vJawAwSQucW67R"
     },
     {
       "added_at": "2024-01-05 03:01:00",

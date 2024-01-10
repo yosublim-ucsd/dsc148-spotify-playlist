@@ -4,7 +4,7 @@
 
 > Home to the best of South Asian Indie scene\. Cover: AUR
 
-256 songs - 14 hr 27 min
+257 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,8 @@
 | [Ye Teri Meri Kahani](https://open.spotify.com/track/1IsMTMT8ASvZqApzGKkAG9) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa), [Sumedha Karmahe](https://open.spotify.com/artist/4MEdY6uFLSNWHq4kKrDx4j) | [Ye Teri Meri Kahani](https://open.spotify.com/album/0iW00NWqfNMXBxfAfJ9TDg) | 3:21 | 2022-09-01 | 2023-07-25 |
 | [Zakir](https://open.spotify.com/track/1ZGLauVoD74BU8y8O5btcO) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Hindi Gaane](https://open.spotify.com/album/5fOzwws4qbE6ZPKQU3BSHI) | 3:41 | 2024-01-05 |  |
 | [Zakir](https://open.spotify.com/track/6RtnuC14DOUrvpRgS6WMQX) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Zakir](https://open.spotify.com/album/2EsxYdY99R9jF31YveCUZN) | 3:41 | 2022-05-20 | 2022-09-02 |
-| [Zamanay](https://open.spotify.com/track/6o1DfORVD5ACPgDFqCDl6R) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Zamanay](https://open.spotify.com/album/2bW42L4X55NqzHM4B76Akk) | 2:42 | 2022-11-23 |  |
+| [Zamanay](https://open.spotify.com/track/1KD6tWKf9z3mx8n8E9eYle) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Zamanay](https://open.spotify.com/album/6P0skMRTD2kXyJstKa6v6G) | 2:42 | 2024-01-05 |  |
+| [Zamanay](https://open.spotify.com/track/6o1DfORVD5ACPgDFqCDl6R) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Zamanay](https://open.spotify.com/album/2bW42L4X55NqzHM4B76Akk) | 2:42 | 2022-11-23 | 2024-01-10 |
 | [Zindagi Ki Goud Mein](https://open.spotify.com/track/0wA7aUIOOynbdIyF6AIejn) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Zindagi Ki Goud Mein](https://open.spotify.com/album/6ZdIpnlVpCcv7ZOS5jC2Ci) | 3:36 | 2022-05-20 | 2022-07-16 |
 | [Zindagi Se Maut Tak](https://open.spotify.com/track/0WGoDfNSwZG3uc7Xmv5Mgg) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [Zindagi Se Maut Tak](https://open.spotify.com/album/0SD81UxAjxWkYQOpm6Uw5z) | 4:05 | 2022-07-15 | 2022-09-02 |
 

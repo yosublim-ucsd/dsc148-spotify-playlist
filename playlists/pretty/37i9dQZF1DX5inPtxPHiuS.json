@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Diamante El\u00e9ctrico",
-  "num_followers": 86188,
+  "num_followers": 86061,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjMxM2QyZTQyMDdkMzI2NGJmOWRjN2Q3YmI0OTliYTVhMGRkZmM3",
+  "snapshot_id": "MCxhN2EzMmZmZDQ0ZTIzYWYxMTM1MmUwYmY1NTQ1ODk4MzE0MGY2OGRi",
   "tracks": [
     {
       "added_at": "2023-10-07 00:35:47",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
+        "name": "Recaer",
+        "url": "https://open.spotify.com/album/5sRXzUvy7eUEUFpxnL1i2Z"
+      },
+      "artists": [
+        {
+          "name": "Distimia Agoraf\u00f3bica",
+          "url": "https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR"
+        }
+      ],
+      "duration_ms": 181668,
+      "name": "El Mar",
+      "url": "https://open.spotify.com/track/77ffP2sNki7kJcv5iDi7ZG"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
         "name": "Pnmt Corrosion",
         "url": "https://open.spotify.com/album/0xOHxNbGBa4EwxHddofv96"
       },
@@ -739,18 +755,18 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Recaer",
-        "url": "https://open.spotify.com/album/5sRXzUvy7eUEUFpxnL1i2Z"
+        "name": "Cangrejo",
+        "url": "https://open.spotify.com/album/3MvaFYJpFswQIHN8qCYThP"
       },
       "artists": [
         {
-          "name": "Distimia Agoraf\u00f3bica",
-          "url": "https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR"
+          "name": "Arbol De Ojos",
+          "url": "https://open.spotify.com/artist/0Of5C76gJn3CBJ4xxkUTs9"
         }
       ],
-      "duration_ms": 181668,
-      "name": "El Mar",
-      "url": "https://open.spotify.com/track/77ffP2sNki7kJcv5iDi7ZG"
+      "duration_ms": 162000,
+      "name": "Cangrejo",
+      "url": "https://open.spotify.com/track/08IybVfdaHDLiJiAxO7R4e"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -791,18 +807,18 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Cangrejo",
-        "url": "https://open.spotify.com/album/3MvaFYJpFswQIHN8qCYThP"
+        "name": "Sigo",
+        "url": "https://open.spotify.com/album/3Zrd8cJji2EZsKcO4loQ6K"
       },
       "artists": [
         {
-          "name": "Arbol De Ojos",
-          "url": "https://open.spotify.com/artist/0Of5C76gJn3CBJ4xxkUTs9"
+          "name": "Ana Sanz",
+          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Cangrejo",
-      "url": "https://open.spotify.com/track/08IybVfdaHDLiJiAxO7R4e"
+      "duration_ms": 199294,
+      "name": "Sigo",
+      "url": "https://open.spotify.com/track/55zNzKBlbbSBMKmeDAuq3I"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -823,22 +839,6 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "TEMPLO KOMODO",
-        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
-      },
-      "artists": [
-        {
-          "name": "Briela Ojeda",
-          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
-        }
-      ],
-      "duration_ms": 249965,
-      "name": "B\u00fahoz",
-      "url": "https://open.spotify.com/track/6cKUV1Aw08ybpV3FM0mDh5"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
         "name": "Barco de Papel",
         "url": "https://open.spotify.com/album/7HmHk8sLbDpg8t3rO8PSz1"
       },
@@ -855,6 +855,42 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
+        "name": "TEMPLO KOMODO",
+        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
+      },
+      "artists": [
+        {
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+        }
+      ],
+      "duration_ms": 249965,
+      "name": "B\u00fahoz",
+      "url": "https://open.spotify.com/track/6cKUV1Aw08ybpV3FM0mDh5"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
+        "name": "Ni\u00f1os Perdidos",
+        "url": "https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y"
+      },
+      "artists": [
+        {
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        },
+        {
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
+        }
+      ],
+      "duration_ms": 159781,
+      "name": "Ni\u00f1os Perdidos",
+      "url": "https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
         "name": "Antiamor",
         "url": "https://open.spotify.com/album/0uIgAixzHB6PT6MChRONXu"
       },
@@ -867,42 +903,6 @@
       "duration_ms": 223654,
       "name": "Antiamor",
       "url": "https://open.spotify.com/track/5vLg2iDE8pb6uLu11e1Vvf"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
-        "name": "El Pasado Fue Mejor (feat. Don Tetto)",
-        "url": "https://open.spotify.com/album/4vfwmzv1lPoDCvwF5WJaic"
-      },
-      "artists": [
-        {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
-        },
-        {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
-        }
-      ],
-      "duration_ms": 180880,
-      "name": "El Pasado Fue Mejor (feat. Don Tetto)",
-      "url": "https://open.spotify.com/track/61WodHXkoMsddMRcWTnI6Z"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
-        "name": "Sigo",
-        "url": "https://open.spotify.com/album/3Zrd8cJji2EZsKcO4loQ6K"
-      },
-      "artists": [
-        {
-          "name": "Ana Sanz",
-          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
-        }
-      ],
-      "duration_ms": 199294,
-      "name": "Sigo",
-      "url": "https://open.spotify.com/track/55zNzKBlbbSBMKmeDAuq3I"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -991,8 +991,8 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Ni\u00f1os Perdidos",
-        "url": "https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y"
+        "name": "El Pasado Fue Mejor (feat. Don Tetto)",
+        "url": "https://open.spotify.com/album/4vfwmzv1lPoDCvwF5WJaic"
       },
       "artists": [
         {
@@ -1000,29 +1000,29 @@
           "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
         },
         {
-          "name": "Armenia",
-          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
         }
       ],
-      "duration_ms": 159781,
-      "name": "Ni\u00f1os Perdidos",
-      "url": "https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or"
+      "duration_ms": 180880,
+      "name": "El Pasado Fue Mejor (feat. Don Tetto)",
+      "url": "https://open.spotify.com/track/61WodHXkoMsddMRcWTnI6Z"
     },
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Marteko Euriak",
-        "url": "https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW"
       },
       "artists": [
         {
-          "name": "1280 Almas",
-          "url": "https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM"
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
         }
       ],
-      "duration_ms": 175724,
-      "name": "El Viejo",
-      "url": "https://open.spotify.com/track/0OeQTNHCtHLc9KX7X7GFbb"
+      "duration_ms": 179239,
+      "name": "Lejos De Aqui",
+      "url": "https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV"
     }
   ],
   "unique_name": "Rock Colombia",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > o melhor do trap dá o play e aumenta! Foto: Borges, MC Cabelinho, Veigh
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,335,159 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,335,545 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 30 | [Paladar Infantil](https://open.spotify.com/track/2CzIoSG4eDkstyTiXzjryy) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [Paladar Infantil](https://open.spotify.com/album/6y1V62Msb6V5oiVJkYa9Dx) | 2:23 |
 | 31 | [Conexões de Máfia \(feat\. Rich The Kid\)](https://open.spotify.com/track/3ktTWpYdXrYApH54cBo4Ap) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Conexões de Máfia \(feat\. Rich The Kid\)](https://open.spotify.com/album/54nMZ1uU3fJFROh7jEymzB) | 3:41 |
 | 32 | [Dose de Gin](https://open.spotify.com/track/6kuirWr63J83WizobD7Bx9) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Ascensão do Cisne Negro](https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ) | 2:57 |
-| 33 | [Porsche "Ye Yo"](https://open.spotify.com/track/7jpS4vYcLObK2YtcXjgwEO) | [Jé Santiago](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI), [TrapHits](https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW) | [O Bagulho É Trap II](https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX) | 2:34 |
+| 33 | [Porsche "Ye Yo"](https://open.spotify.com/track/7jpS4vYcLObK2YtcXjgwEO) | [Jé](https://open.spotify.com/artist/0GcXk5A4PY2VwRqF5bX3q5), [TrapHits](https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW) | [O Bagulho É Trap II](https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX) | 2:34 |
 | 34 | [Amor Eu Tô no Estúdio](https://open.spotify.com/track/6WgbUmH1yKA2YJ5NY2upOA) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i), [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE) | [Vida Cara \(Deluxe\)](https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT) | 2:44 |
 | 35 | [Espero Que Entendam \- Freestyle](https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Espero Que Entendam \(Freestyle\)](https://open.spotify.com/album/2omPP6U3sAgy10Q4wZtswu) | 3:31 |
 | 36 | [Nota Dó](https://open.spotify.com/track/1ziAahgQu5yucu1ZLwwe0b) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [DJ DuBom](https://open.spotify.com/artist/7wQO16n82QaPAnxFkAGIFt) | [Nota Dó](https://open.spotify.com/album/0yU8bkVURmhaMPZyKHxtrP) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 49 | [Namora & Disfarça \- Bonus Track](https://open.spotify.com/track/3qm36Zh1qGQC2PHDQNdify) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Namora & Disfarça \(Bonus Track\)](https://open.spotify.com/album/3pGBkEvbU4alqs6dzJXeAS) | 1:42 |
 | 50 | [Atlanta \- Spotify Singles](https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Atlanta \- Spotify Singles](https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY) | 2:01 |
 
-Snapshot ID: `MCxhOWJlNmFhMjNhMTY4MDQzMTY2NmVhMDhkZmNjMWNlMWE0ZmE1ZjI2`
+Snapshot ID: `MCw0ZDhjODk4NTA1NGU2OWFkNzUyOTJjOTYwYzRkM2JjZTJjNTZkYjdi`

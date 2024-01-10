@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 
 > This is Muse\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 759,506 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 759,390 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 | 49 | [Unnatural Selection](https://open.spotify.com/track/28FJMlLUu9NHuwlZWFKDn7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 6:54 |
 | 50 | [Blackout](https://open.spotify.com/track/4Q0CesDHTEoo7HqgE7QPY6) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution XX Anniversary](https://open.spotify.com/album/5jVU78xvmaqPWJV7HaZqqj) | 4:22 |
 
-Snapshot ID: `Mjg0MTE4OTksMDAwMDAwMDBjZWNlMDY3MTZlZDkxOGQ5NmM3MDJjODUzZmEwODk0NQ==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDBlZjU4OWMzNTY5NGU3OTFiYjA3MzU5ZDEzOGY1ZmRlZA==`

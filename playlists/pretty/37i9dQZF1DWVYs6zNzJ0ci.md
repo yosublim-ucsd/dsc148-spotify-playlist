@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: Iseo & Dodosound
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,243,749 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,240,404 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 99 | [Ahora Lo Sé](https://open.spotify.com/track/2Wwu9dUOFgh6n8RZbicU3f) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Ahora Lo Sé](https://open.spotify.com/album/68PtNir6GWJ4H09eIbOSPC) | 4:16 |
 | 100 | [Hasta Que Me Olvides](https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Hasta Que Me Olvides](https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j) | 4:15 |
 
-Snapshot ID: `MCw5NzAxYmIxMjk3Njk2N2JmMTBhZTRkOThmYjA5OTgzZDg2MzUyNzc2`
+Snapshot ID: `MCw5ZjBkYTFmMTZhMGJhYWY0NmY1OTY1ZmE4MTMxN2QzYmY0NzA2NGJj`

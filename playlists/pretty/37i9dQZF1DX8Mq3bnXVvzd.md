@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Mq3bnXVvzd.md) - [plain]
 
 > Blood runs in the family\. Listen to the music from and inspired by The Brothers Sun, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,199 likes - 53 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,589 likes - 53 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Mq3bnXVvzd.md) - [plain]
 | 43 | [The First Cut Is The Deepest](https://open.spotify.com/track/3wR2tGnD5WGBieHGVmPbij) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [The Very Best Of Cat Stevens](https://open.spotify.com/album/3ds29BDzL13tt6Xy9tuFal) | 3:00 |
 | 44 | [Spades](https://open.spotify.com/track/4vwPpud6Uiru9PXwlQuZpd) | [Haroula Rose](https://open.spotify.com/artist/7AhCTepWX7n4dQFh3Ro3YG) | [Spades](https://open.spotify.com/album/7fxeaWx2GcJWqEN07AaNkG) | 3:14 |
 | 45 | [Gnossienne: No\. 1](https://open.spotify.com/track/4820SC1xnUaabzzYQTDkP2) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Satie: Avant\-dernières pensées \(Bonus Track Version\)](https://open.spotify.com/album/1W96dST1KFsd1tZTO3eEGS) | 3:34 |
-| 46 | [忘記他](https://open.spotify.com/track/78PLyUD2p5kWk6QKNLhCHD) | [Teresa Teng](https://open.spotify.com/artist/3ienC90A5I1X3irDyQoqWZ) | [傳奇再續](https://open.spotify.com/album/1ibvIIgeyETYQLXRFb9dXh) | 2:56 |
+| 46 | [忘記他](https://open.spotify.com/track/0ZKgaQUvQvd4C5ADKNtBk8) | [Teresa Teng](https://open.spotify.com/artist/3ienC90A5I1X3irDyQoqWZ) | [天國的情人 \- 鄧麗君逝世十周年紀念聲影存集](https://open.spotify.com/album/5dnNtxG5W2IXVtgmsIxCIT) | 2:55 |
 | 47 | [Going Off](https://open.spotify.com/track/0ptpL3gNn7Z8c2LoV4VthT) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Going Off](https://open.spotify.com/album/4U7mZO24WBKhnjXWpFhHFS) | 2:03 |
 | 48 | [Esther](https://open.spotify.com/track/31k18ugtLT9ykvuoPAiEI5) | [Tzusing](https://open.spotify.com/artist/7Ifvnt1HhJ0b1QwOxLAu2s) | [東方不敗](https://open.spotify.com/album/57z5w3F98kxoAjSrSK4oNs) | 5:08 |
 | 49 | [Hourglass](https://open.spotify.com/track/6Gzwo0wI8Ya2FX1W4e9aco) | [S U R V I V E](https://open.spotify.com/artist/12cKwxUl6Ku3VpSB3LjrM5) | [Mnq026](https://open.spotify.com/album/0ckMi3UduuywcZassvOJhf) | 4:30 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Mq3bnXVvzd.md) - [plain]
 | 52 | [Your Time Is Gonna Come \- Remaster](https://open.spotify.com/track/5RPiBNQVmuEm7YlVVotrLa) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin \(Remaster\)](https://open.spotify.com/album/1J8QW9qsMLx3staWaHpQmU) | 4:34 |
 | 53 | [California \(feat\. Warren Hue\)](https://open.spotify.com/track/2a9dSekAhtHVyTUaI5f65U) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [California \(feat\. Warren Hue\) \[Acoustic Live Version\]](https://open.spotify.com/album/6LAcWcel05QWZz1dLGAbk7) | 3:50 |
 
-Snapshot ID: `MCw5YTRmMWQxMjExNWZjNmQzYzIzNDMyOTQ1ZTM1NTI3ODhiMDEyOTZi`
+Snapshot ID: `MCw5N2M2NGU0ZTZlYjlkZDdhYTBjYTA4ZDU5NTFkMjM2YjZiYWUxM2Mw`

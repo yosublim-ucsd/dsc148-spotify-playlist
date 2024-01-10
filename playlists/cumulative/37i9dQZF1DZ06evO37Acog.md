@@ -4,7 +4,7 @@
 
 > This is Ramon Ayala Y Sus Bravos Del Norte\. The essential tracks, all in one playlist.
 
-98 songs - 5 hr 7 min
+99 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Corrido de Macario Leyva](https://open.spotify.com/track/1wWkXyBQGnmAua5LKPXWv3) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Corridos Y Tragedias De La Frontera](https://open.spotify.com/album/2jBFdIcdBMztm4pXMrsIxM) | 3:41 | 2022-06-01 |  |
 | [Cuando Yo Era Un Jovencito](https://open.spotify.com/track/1AmTaFC0Pfr1opxgUEkO3W) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [La Rama De Mezquite](https://open.spotify.com/album/4JYoO4nKwHf4uPBa6Loh07) | 2:47 | 2023-11-10 |  |
 | [Cuando Yo Era Un Jovencito](https://open.spotify.com/track/34HiQ9eroaoXlS4b5ZJQWh) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Antología De Un Rey Vol\. II \- 30 Joyas Musicales](https://open.spotify.com/album/472vMgzbpIpdZ4WAQgxu9Z) | 2:49 | 2022-06-01 | 2023-11-11 |
+| [Cuánto Me Cuesta](https://open.spotify.com/track/3oDxYmvYgseohA7m347NZK) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Central Camionera](https://open.spotify.com/album/7HqZHKxJhg64tA9o6Dxveu) | 2:36 | 2024-01-09 |  |
 | [Cuánto Me Cuesta \(Me Cuesta Ponerle Letra\) \- En Vivo](https://open.spotify.com/track/55BQZ6AqbzlvR7fBfJgesF) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2), [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Celebrando a una Leyenda, Segunda Parte \(En Vivo\)](https://open.spotify.com/album/7vvK1TuP5ZPZxmq28YKAgv) | 2:52 | 2023-11-10 |  |
 | [Debajo De Aquel Árbol](https://open.spotify.com/track/36KaZfJWJnupwYWgKFReQy) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Seis Rosas Amarillas](https://open.spotify.com/album/2bCKxNRKxS9Twqqkto0Zpf) | 3:34 | 2022-06-01 | 2023-07-22 |
 | [Del Otro Lado del Portón](https://open.spotify.com/track/5lLSkpxhENaXxzeBBa8vYN) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [El Número 100](https://open.spotify.com/album/0QduY2R2maevRnHXuBFrBi) | 2:53 | 2022-06-01 |  |
@@ -71,7 +72,7 @@
 | [Mi Tesoro](https://open.spotify.com/track/0PlfaOMZLbBOLBIl54cFMf) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Lo Mejor De Los Relámpagos Con](https://open.spotify.com/album/5Alc676cqJGN5rqCWY4tl1) | 3:08 | 2022-06-01 | 2022-07-14 |
 | [Mujer Paseada](https://open.spotify.com/track/04ty6HwbPa50ZxzxrMdQQx) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [2 Grandes Mano a Mano](https://open.spotify.com/album/6JyOJ5Vc9qCxVRDIOyftm5) | 2:48 | 2022-06-01 |  |
 | [Mándame A La Tumba](https://open.spotify.com/track/0b0cFie5DLwExBHq0Oo7oi) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Casas de Madera](https://open.spotify.com/album/0WqOmaMS6vSvntxrzo22EM) | 3:55 | 2022-06-01 | 2023-03-08 |
-| [Ni Por Mil Punados De Oro](https://open.spotify.com/track/55tDGwgbcDOaMzCaHaBjk1) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Ni Por Mil Punados De Oro](https://open.spotify.com/album/6EznMOZQJh3StfuuffDbzX) | 2:32 | 2022-06-01 |  |
+| [Ni Por Mil Punados De Oro](https://open.spotify.com/track/55tDGwgbcDOaMzCaHaBjk1) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Ni Por Mil Punados De Oro](https://open.spotify.com/album/6EznMOZQJh3StfuuffDbzX) | 2:32 | 2022-06-01 | 2024-01-10 |
 | [No Porque Seas Tú](https://open.spotify.com/track/79kcLoI5YEYCuAANwIYuE5) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 2:22 | 2022-06-01 |  |
 | [Oh No](https://open.spotify.com/track/4rOVkiMwnw9j9dIoza5lKL) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Quémame Los Ojos \(Remasterizado\)](https://open.spotify.com/album/6fhPiiOb9ptKqk6dBFEWG1) | 2:49 | 2023-06-19 | 2023-11-11 |
 | [Para Poder Llegar A Ti](https://open.spotify.com/track/0vixYN2nSOIn9k1wr0qfhC) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 3:01 | 2022-06-01 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Favor de hacer doble fila para bailar estos cumbiones \u00a1S\u00fabale hay lugares!",
-  "num_followers": 327960,
+  "num_followers": 328174,
   "original_name": "Cumbias de Microb\u00fas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTljMGUzY2NlYjIxMzYwOGY0Yjg2NGJmZWYwOWIzNmNmOTdkMzZl",
+  "snapshot_id": "MCw2MTc1MzFmZjYyMWJlZmYyZjcyMjBjMjU5YzY2MGEwYWY0MWQ0Yjk4",
   "tracks": [
     {
       "added_at": "2023-11-08 22:37:57",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-11-08 22:37:57",
       "album": {
+        "name": "Album de Oro",
+        "url": "https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE"
+      },
+      "artists": [
+        {
+          "name": "Los Acosta",
+          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
+        }
+      ],
+      "duration_ms": 208640,
+      "name": "Voy a pintar un coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6ztkxjvne5bjzUUnoskShx"
+    },
+    {
+      "added_at": "2023-11-08 22:37:57",
+      "album": {
         "name": "El Baile de San Juan",
         "url": "https://open.spotify.com/album/6I3BGNjjCmPZ6NKvB9krta"
       },
@@ -683,34 +699,18 @@
     {
       "added_at": "2023-11-08 22:37:57",
       "album": {
-        "name": "Album de Oro",
-        "url": "https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE"
+        "name": "El Angel Del Amor",
+        "url": "https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba"
       },
       "artists": [
         {
-          "name": "Los Acosta",
-          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
+          "name": "Los Tepoz",
+          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
         }
       ],
-      "duration_ms": 208640,
-      "name": "Voy a pintar un coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6ztkxjvne5bjzUUnoskShx"
-    },
-    {
-      "added_at": "2023-11-08 22:37:57",
-      "album": {
-        "name": "Qu\u00e9 Cante El Amor",
-        "url": "https://open.spotify.com/album/0vPT6w0dqWEo45IJuqqAuo"
-      },
-      "artists": [
-        {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
-        }
-      ],
-      "duration_ms": 202613,
-      "name": "Al Despertar",
-      "url": "https://open.spotify.com/track/0GCM7zzCulIbsU07Tt8trk"
+      "duration_ms": 268460,
+      "name": "La Mu\u00f1equita Fea",
+      "url": "https://open.spotify.com/track/3Ua9fZLumeONPtLnkkUHbI"
     },
     {
       "added_at": "2023-11-08 22:37:57",
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-11-08 22:37:57",
       "album": {
-        "name": "El Angel Del Amor",
-        "url": "https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba"
+        "name": "Qu\u00e9 Cante El Amor",
+        "url": "https://open.spotify.com/album/0vPT6w0dqWEo45IJuqqAuo"
       },
       "artists": [
         {
-          "name": "Los Tepoz",
-          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
         }
       ],
-      "duration_ms": 268460,
-      "name": "La Mu\u00f1equita Fea",
-      "url": "https://open.spotify.com/track/3Ua9fZLumeONPtLnkkUHbI"
+      "duration_ms": 202613,
+      "name": "Al Despertar",
+      "url": "https://open.spotify.com/track/0GCM7zzCulIbsU07Tt8trk"
     },
     {
       "added_at": "2023-11-08 22:37:57",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-11-08 22:37:57",
       "album": {
-        "name": "El Angel Del Amor",
-        "url": "https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba"
-      },
-      "artists": [
-        {
-          "name": "Los Tepoz",
-          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
-        }
-      ],
-      "duration_ms": 236518,
-      "name": "El Angel Del Amor",
-      "url": "https://open.spotify.com/track/2q5YyxChGazXIMIsTKUrdU"
-    },
-    {
-      "added_at": "2023-11-08 22:37:57",
-      "album": {
         "name": "Agua De Vida",
         "url": "https://open.spotify.com/album/7I9KOeQ3uj3CMRcRg5Sf2l"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 287896,
       "name": "En Mi Escritorio (La Carta)",
       "url": "https://open.spotify.com/track/67gv7qQLwSAxOQHfXBv6Bm"
+    },
+    {
+      "added_at": "2023-11-08 22:37:57",
+      "album": {
+        "name": "El Angel Del Amor",
+        "url": "https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba"
+      },
+      "artists": [
+        {
+          "name": "Los Tepoz",
+          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
+        }
+      ],
+      "duration_ms": 236518,
+      "name": "El Angel Del Amor",
+      "url": "https://open.spotify.com/track/2q5YyxChGazXIMIsTKUrdU"
     },
     {
       "added_at": "2023-11-08 22:37:57",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-11-08 22:37:57",
       "album": {
-        "name": "Trayectoria",
-        "url": "https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt"
-      },
-      "artists": [
-        {
-          "name": "Los Yes Yes",
-          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
-        }
-      ],
-      "duration_ms": 315680,
-      "name": "El Verde De Tus Ojos - Remix",
-      "url": "https://open.spotify.com/track/1Nl4EXAxSulKlbiro793i4"
-    },
-    {
-      "added_at": "2023-11-08 22:37:57",
-      "album": {
         "name": "Llorar",
         "url": "https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2023-11-08 22:37:57",
       "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 2",
-        "url": "https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv"
+        "name": "Trayectoria",
+        "url": "https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt"
       },
       "artists": [
         {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+          "name": "Los Yes Yes",
+          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
         }
       ],
-      "duration_ms": 235240,
-      "name": "Cari\u00f1ito Sin MI",
-      "url": "https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm"
+      "duration_ms": 315680,
+      "name": "El Verde De Tus Ojos - Remix",
+      "url": "https://open.spotify.com/track/1Nl4EXAxSulKlbiro793i4"
     },
     {
       "added_at": "2023-11-08 22:37:57",
@@ -1035,6 +1019,22 @@
       "duration_ms": 216317,
       "name": "Quedate Con \u00c9l",
       "url": "https://open.spotify.com/track/1ftwyOlhOp4up63kcGsDq4"
+    },
+    {
+      "added_at": "2023-11-08 22:37:57",
+      "album": {
+        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 2",
+        "url": "https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 235240,
+      "name": "Cari\u00f1ito Sin MI",
+      "url": "https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm"
     },
     {
       "added_at": "2023-11-08 22:37:57",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-11-08 22:37:57",
       "album": {
+        "name": "Como un Dulce Poema, Vol. 3",
+        "url": "https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY"
+      },
+      "artists": [
+        {
+          "name": "Rossy War y Su Banda Kaliente",
+          "url": "https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ"
+        }
+      ],
+      "duration_ms": 249773,
+      "name": "Nunca Pense Llorar",
+      "url": "https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw"
+    },
+    {
+      "added_at": "2023-11-08 22:37:57",
+      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/5k783HWe7on8tcK6W8jtyG"
       },
@@ -1311,18 +1327,18 @@
     {
       "added_at": "2023-11-08 22:37:57",
       "album": {
-        "name": "Como un Dulce Poema, Vol. 3",
-        "url": "https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY"
+        "name": "25 Exitos De Oro",
+        "url": "https://open.spotify.com/album/4Jdm5lcAdUPVswN57HShNy"
       },
       "artists": [
         {
-          "name": "Rossy War y Su Banda Kaliente",
-          "url": "https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ"
+          "name": "Jorge Meza Y Su Tropi Colombia",
+          "url": "https://open.spotify.com/artist/745IcJOBUvnbNsDKAMyUVa"
         }
       ],
-      "duration_ms": 249773,
-      "name": "Nunca Pense Llorar",
-      "url": "https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw"
+      "duration_ms": 286813,
+      "name": "Quiero Volar",
+      "url": "https://open.spotify.com/track/4KjYJXjnkHfEtJtSNUX2CO"
     },
     {
       "added_at": "2023-11-08 22:37:57",
@@ -1339,22 +1355,6 @@
       "duration_ms": 277455,
       "name": "Dejame Pensar",
       "url": "https://open.spotify.com/track/70uHRAF2e3JyTYaCCULZM5"
-    },
-    {
-      "added_at": "2023-11-08 22:37:57",
-      "album": {
-        "name": "25 Exitos De Oro",
-        "url": "https://open.spotify.com/album/4Jdm5lcAdUPVswN57HShNy"
-      },
-      "artists": [
-        {
-          "name": "Jorge Meza Y Su Tropi Colombia",
-          "url": "https://open.spotify.com/artist/745IcJOBUvnbNsDKAMyUVa"
-        }
-      ],
-      "duration_ms": 286813,
-      "name": "Quiero Volar",
-      "url": "https://open.spotify.com/track/4KjYJXjnkHfEtJtSNUX2CO"
     },
     {
       "added_at": "2023-11-08 22:37:57",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2023-11-08 22:37:57",
       "album": {
+        "name": "Cumbias Pa' Seguir Bailando - Cumbias Poblanas",
+        "url": "https://open.spotify.com/album/0tPUMu4zHrmKpwM4a4EjTQ"
+      },
+      "artists": [
+        {
+          "name": "Cumbias Poblanas",
+          "url": "https://open.spotify.com/artist/3SSGvoGR7r1IzKEfe81zyu"
+        }
+      ],
+      "duration_ms": 289586,
+      "name": "Las Amo a las Dos",
+      "url": "https://open.spotify.com/track/7ijgUWYZNzvvBcWpSzmY2t"
+    },
+    {
+      "added_at": "2023-11-08 22:37:57",
+      "album": {
         "name": "El Aut\u00e9ntico e Imbatible",
         "url": "https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 283678,
       "name": "La Triste Despedida",
       "url": "https://open.spotify.com/track/6mfl8ppmtBBtmv2sSPVkif"
-    },
-    {
-      "added_at": "2023-11-08 22:37:57",
-      "album": {
-        "name": "Cumbias Pa' Seguir Bailando - Cumbias Poblanas",
-        "url": "https://open.spotify.com/album/0tPUMu4zHrmKpwM4a4EjTQ"
-      },
-      "artists": [
-        {
-          "name": "Cumbias Poblanas",
-          "url": "https://open.spotify.com/artist/3SSGvoGR7r1IzKEfe81zyu"
-        }
-      ],
-      "duration_ms": 289586,
-      "name": "Las Amo a las Dos",
-      "url": "https://open.spotify.com/track/7ijgUWYZNzvvBcWpSzmY2t"
     },
     {
       "added_at": "2023-11-08 22:37:57",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-11-08 22:37:57",
       "album": {
-        "name": "Super Grupo Colombia",
-        "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
-      },
-      "artists": [
-        {
-          "name": "Super Grupo Colombia",
-          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
-        }
-      ],
-      "duration_ms": 248857,
-      "name": "Coraz\u00f3n Enamorado",
-      "url": "https://open.spotify.com/track/54PSHIY4nF4CxtwBpSOqW6"
-    },
-    {
-      "added_at": "2023-11-08 22:37:57",
-      "album": {
         "name": "Lo Mas Ka-Bron Sonidero",
         "url": "https://open.spotify.com/album/1XiYKT5lO5c1bwwTwiiOIA"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 300906,
       "name": "Soy Maraquero",
       "url": "https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII"
+    },
+    {
+      "added_at": "2023-11-08 22:37:57",
+      "album": {
+        "name": "Super Grupo Colombia",
+        "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
+      },
+      "artists": [
+        {
+          "name": "Super Grupo Colombia",
+          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
+        }
+      ],
+      "duration_ms": 248857,
+      "name": "Coraz\u00f3n Enamorado",
+      "url": "https://open.spotify.com/track/54PSHIY4nF4CxtwBpSOqW6"
     },
     {
       "added_at": "2023-11-08 22:37:57",
@@ -1843,18 +1843,22 @@
     {
       "added_at": "2023-11-08 22:37:57",
       "album": {
-        "name": "Hay El Amor",
-        "url": "https://open.spotify.com/album/3oIHwQmrJ8MwEx00jIT1tK"
+        "name": "Dejenme Llorar",
+        "url": "https://open.spotify.com/album/4I9DyclyjRQxWgG5bfZi7B"
       },
       "artists": [
         {
           "name": "Yulios Kumbia",
           "url": "https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH"
+        },
+        {
+          "name": "Jorge Dominguez y su grupo super class",
+          "url": "https://open.spotify.com/artist/4TRxkgdgWqdoHPtnI1nEMc"
         }
       ],
-      "duration_ms": 184084,
-      "name": "Hay El Amor",
-      "url": "https://open.spotify.com/track/1H44XT1xN2Ubxa2wLqjCDT"
+      "duration_ms": 230213,
+      "name": "Dejenme Llorar",
+      "url": "https://open.spotify.com/track/3jh6F8GaYeuWt3E4s1saGi"
     },
     {
       "added_at": "2023-11-08 22:37:57",
@@ -1923,6 +1927,38 @@
     {
       "added_at": "2023-11-08 22:37:57",
       "album": {
+        "name": "Ea Ea La Cumbia Buena",
+        "url": "https://open.spotify.com/album/309Hl9c4m4PEMOt2MJroPf"
+      },
+      "artists": [
+        {
+          "name": "Mister Cumbia",
+          "url": "https://open.spotify.com/artist/243ZU3XTOdbbBrqoIYXhz9"
+        }
+      ],
+      "duration_ms": 193366,
+      "name": "Ea Ea La Cumbia Buena",
+      "url": "https://open.spotify.com/track/73d3Wgm07jSGIdqiY7mU33"
+    },
+    {
+      "added_at": "2023-11-08 22:37:57",
+      "album": {
+        "name": "Hay El Amor",
+        "url": "https://open.spotify.com/album/3oIHwQmrJ8MwEx00jIT1tK"
+      },
+      "artists": [
+        {
+          "name": "Yulios Kumbia",
+          "url": "https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH"
+        }
+      ],
+      "duration_ms": 184084,
+      "name": "Hay El Amor",
+      "url": "https://open.spotify.com/track/1H44XT1xN2Ubxa2wLqjCDT"
+    },
+    {
+      "added_at": "2023-11-08 22:37:57",
+      "album": {
         "name": "Todo Lo Encuentro En Ti",
         "url": "https://open.spotify.com/album/3UYpA91S4egk7kp8csDqJx"
       },
@@ -1939,42 +1975,6 @@
       "duration_ms": 206453,
       "name": "Todo Lo Encuentro En Ti",
       "url": "https://open.spotify.com/track/0aRfQXuOvXwejexxWo4jAH"
-    },
-    {
-      "added_at": "2023-11-08 22:37:57",
-      "album": {
-        "name": "Dejenme Llorar",
-        "url": "https://open.spotify.com/album/4I9DyclyjRQxWgG5bfZi7B"
-      },
-      "artists": [
-        {
-          "name": "Yulios Kumbia",
-          "url": "https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH"
-        },
-        {
-          "name": "Jorge Dominguez y su grupo super class",
-          "url": "https://open.spotify.com/artist/4TRxkgdgWqdoHPtnI1nEMc"
-        }
-      ],
-      "duration_ms": 230213,
-      "name": "Dejenme Llorar",
-      "url": "https://open.spotify.com/track/3jh6F8GaYeuWt3E4s1saGi"
-    },
-    {
-      "added_at": "2023-11-08 22:37:57",
-      "album": {
-        "name": "Ea Ea La Cumbia Buena",
-        "url": "https://open.spotify.com/album/309Hl9c4m4PEMOt2MJroPf"
-      },
-      "artists": [
-        {
-          "name": "Mister Cumbia",
-          "url": "https://open.spotify.com/artist/243ZU3XTOdbbBrqoIYXhz9"
-        }
-      ],
-      "duration_ms": 193366,
-      "name": "Ea Ea La Cumbia Buena",
-      "url": "https://open.spotify.com/track/73d3Wgm07jSGIdqiY7mU33"
     },
     {
       "added_at": "2023-11-08 22:37:57",

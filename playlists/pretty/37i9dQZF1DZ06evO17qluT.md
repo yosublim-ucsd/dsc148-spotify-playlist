@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,984 likes - 38 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,998 likes - 38 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 37 | [O Que Quiser Fazer](https://open.spotify.com/track/7Gz1ia9WBuR38wHPT2G9yj) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Um](https://open.spotify.com/album/0rcx8BIJykJsZHhUwpcAN0) | 3:45 |
 | 38 | [Titãs](https://open.spotify.com/track/3yMjo7k4tTly5iyYcvQM3S) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Gigantes](https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg) | 4:54 |
 
-Snapshot ID: `Mjg0MTE5MDAsMDAwMDAwMDA4ODdmZGJmZmY4NDNjMDAwMzcxNzhiMmUzMzRiNzYxZg==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDA1ZWI0Yzg2YzVmMDlmN2FlNjM1NWUyNzQwYTE1ZTIyYw==`

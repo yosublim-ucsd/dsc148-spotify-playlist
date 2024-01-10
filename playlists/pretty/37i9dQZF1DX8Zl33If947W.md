@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 
 > Die schönsten deutschsprachigen Liebeslieder in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,354 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,416 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 35 | [Wenn ich wein](https://open.spotify.com/track/4Wuu6qS3D0Veevv2ZtbbrD) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Wenn ich wein](https://open.spotify.com/album/7GE8qNQsl1t8SaEpFnvLuj) | 2:14 |
 | 36 | [Er gehört zu mir](https://open.spotify.com/track/6COzABVCHQzyvc3rTMtrXn) | [Marianne Rosenberg](https://open.spotify.com/artist/4RVBHXd0cu2qrEyv8jVjQZ) | [Er gehört zu mir](https://open.spotify.com/album/6Gm59zyhmpW3mDvxZEZgth) | 3:00 |
 | 37 | [Nur wegen dir](https://open.spotify.com/track/0ui2kVwPZKHaZxGhdIzBrp) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [Nur wegen dir](https://open.spotify.com/album/6QoPwcohKlWQsotj6HZXDl) | 3:23 |
-| 38 | [So perfekt](https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [XOXO](https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv) | 3:40 |
-| 39 | [1000 und 1 Nacht \(Zoom!\) \- Remastered 2011](https://open.spotify.com/track/50brQMN8OxkmYUb1LyOsnQ) | [Klaus Lage](https://open.spotify.com/artist/2gMAioN7m2k5XulfNClMRB) | [Schweißperlen](https://open.spotify.com/album/6ON8j7fH7Sxr51rYpMb7cm) | 3:20 |
+| 38 | [1000 und 1 Nacht \(Zoom!\) \- Remastered 2011](https://open.spotify.com/track/50brQMN8OxkmYUb1LyOsnQ) | [Klaus Lage](https://open.spotify.com/artist/2gMAioN7m2k5XulfNClMRB) | [Schweißperlen](https://open.spotify.com/album/6ON8j7fH7Sxr51rYpMb7cm) | 3:20 |
+| 39 | [So perfekt](https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [XOXO](https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv) | 3:40 |
 | 40 | [Das Beste](https://open.spotify.com/track/3FEhbAkm1Dy21UvhbYhFM3) | [Silbermond](https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA) | [Laut Gedacht \(Re\-Edition\)](https://open.spotify.com/album/2KFT1WSnztunN6NB65IKuo) | 4:44 |
 | 41 | [Du Fehlst](https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Du Fehlst](https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF) | 2:35 |
 | 42 | [Blaue Augen](https://open.spotify.com/track/045Qp5DqFXTqUuMMBR81iS) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Blaue Augen](https://open.spotify.com/album/5YDM82AhvE4m0tppu7XQHc) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 49 | [Hollywood \- Akustik Version](https://open.spotify.com/track/58B7uBTVteWmo0DOaouJXO) | [Benne](https://open.spotify.com/artist/0eS2ZGOnJi5Cp4ASTy4aBc), [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [Hollywood \(Akustik Version\)](https://open.spotify.com/album/5FyuGW8u3zdhTOdhNusU92) | 2:32 |
 | 50 | [Das Spiel](https://open.spotify.com/track/7lHHTWfwo1twOeQGMwr6cp) | [Annett Louisan](https://open.spotify.com/artist/0kcGSitPHYyZ9B7bP7wJo8) | [Bohème](https://open.spotify.com/album/6xiAsRGDcZ0cGz3o9CE06i) | 3:01 |
 
-Snapshot ID: `MCxlOTc4MGY5NzhmNGY4Njg5Yjk4ODljZWRjNWU4NWI3OGNkMTM4OGQy`
+Snapshot ID: `MCw3ZTQ0YWZkNjkwZThkZTBjZTc5ODY0ZGMyYTIyYjczY2VmM2QwNTll`

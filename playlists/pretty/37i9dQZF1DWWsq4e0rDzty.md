@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsq4e0rDzty.md) - [plain]
 
 > For an education in rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,881 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,166 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsq4e0rDzty.md) - [plain]
 | 99 | [And the Cradle Will Rock..\. \- 2015 Remaster](https://open.spotify.com/track/4MM0jT9z9m7VFiusFrGJ8C) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Women and Children First \(Remastered\)](https://open.spotify.com/album/7fRy246Xzz3gez6stjTgKk) | 3:33 |
 | 100 | [Naked Eye](https://open.spotify.com/track/6YtkOhiHmf46w1noltVnF2) | [Luscious Jackson](https://open.spotify.com/artist/1EcRE2Nnqg2spdn2otakhg) | [Fever In Fever Out](https://open.spotify.com/album/0GDMOxPfDWThpQJaGpJjqh) | 4:40 |
 
-Snapshot ID: `MCxlYzNlYzU5OTc3YzZkNWY5MWRlZDUxNzcyN2MxN2IyMTMzOGEyNjUx`
+Snapshot ID: `MCw5YzViMmIwYzM5ZjI2YzIxNjIyOWVmM2E1YzFhNWFjMDJkYjhjN2Q1`

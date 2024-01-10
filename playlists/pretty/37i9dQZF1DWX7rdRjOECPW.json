@@ -1,12 +1,12 @@
 {
   "description": "Sommer, Sonne, Lieblingshits  \u2600\ufe0f",
-  "num_followers": 1522643,
+  "num_followers": 1522072,
   "original_name": "Sommerhits 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmIwOWMwNGY1YzdhYmQ2MWZjNmIxMTAxNjM0YTljYjczYWRjZGRm",
+  "snapshot_id": "MCw3NjI5YTljNzY5NjZiNDAxY2IyM2U0MjA0M2NjZDVhYzI5ZDE3MDAx",
   "tracks": [
     {
       "added_at": "2023-09-13 13:59:55",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
-        "name": "ITALODISCO",
-        "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
-      },
-      "artists": [
-        {
-          "name": "The Kolors",
-          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
-        }
-      ],
-      "duration_ms": 199512,
-      "name": "ITALODISCO",
-      "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
-    },
-    {
-      "added_at": "2023-09-13 13:59:55",
-      "album": {
         "name": "Rock My Body (with INNA & Sash!)",
         "url": "https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 137419,
       "name": "Rock My Body",
       "url": "https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU"
+    },
+    {
+      "added_at": "2023-09-13 13:59:55",
+      "album": {
+        "name": "ITALODISCO",
+        "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
+      },
+      "artists": [
+        {
+          "name": "The Kolors",
+          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
+        }
+      ],
+      "duration_ms": 199512,
+      "name": "ITALODISCO",
+      "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
     },
     {
       "added_at": "2023-09-13 13:59:55",
@@ -575,6 +575,30 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
+        "name": "Cynical",
+        "url": "https://open.spotify.com/album/17LI3Izac2jjx89l1hqLST"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        },
+        {
+          "name": "Safri Duo",
+          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
+        },
+        {
+          "name": "Chris de Sarandy",
+          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
+        }
+      ],
+      "duration_ms": 191365,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/2kNhZ57JHXkZPZH2rknRyu"
+    },
+    {
+      "added_at": "2023-09-13 13:59:55",
+      "album": {
         "name": "Crying On The Dancefloor",
         "url": "https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7"
       },
@@ -599,30 +623,6 @@
       "duration_ms": 173008,
       "name": "Crying On The Dancefloor",
       "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
-    },
-    {
-      "added_at": "2023-09-13 13:59:55",
-      "album": {
-        "name": "Cynical",
-        "url": "https://open.spotify.com/album/17LI3Izac2jjx89l1hqLST"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        },
-        {
-          "name": "Safri Duo",
-          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
-        },
-        {
-          "name": "Chris de Sarandy",
-          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
-        }
-      ],
-      "duration_ms": 191365,
-      "name": "Cynical",
-      "url": "https://open.spotify.com/track/2kNhZ57JHXkZPZH2rknRyu"
     },
     {
       "added_at": "2023-09-13 13:59:55",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
-        "name": "Zanaka (Deluxe)",
-        "url": "https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k"
-      },
-      "artists": [
-        {
-          "name": "Jain",
-          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
-        }
-      ],
-      "duration_ms": 248986,
-      "name": "Makeba",
-      "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
-    },
-    {
-      "added_at": "2023-09-13 13:59:55",
-      "album": {
         "name": "DRIVE",
         "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 134880,
       "name": "All Nighter",
       "url": "https://open.spotify.com/track/3jksOdXCaDXyGiZ7L4YZbp"
+    },
+    {
+      "added_at": "2023-09-13 13:59:55",
+      "album": {
+        "name": "Zanaka (Deluxe)",
+        "url": "https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        }
+      ],
+      "duration_ms": 248986,
+      "name": "Makeba",
+      "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
     },
     {
       "added_at": "2023-09-13 13:59:55",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
-        "name": "Samba",
-        "url": "https://open.spotify.com/album/2XNZaIXWrcFCxoc7xJACTt"
-      },
-      "artists": [
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        },
-        {
-          "name": "Louis III",
-          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
-        }
-      ],
-      "duration_ms": 147818,
-      "name": "Samba",
-      "url": "https://open.spotify.com/track/0skgJbXMM4sPRwSKXvO2id"
-    },
-    {
-      "added_at": "2023-09-13 13:59:55",
-      "album": {
         "name": "Side Effects",
         "url": "https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j"
       },
@@ -1147,6 +1127,26 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
+        "name": "Samba",
+        "url": "https://open.spotify.com/album/2XNZaIXWrcFCxoc7xJACTt"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        },
+        {
+          "name": "Louis III",
+          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
+        }
+      ],
+      "duration_ms": 147818,
+      "name": "Samba",
+      "url": "https://open.spotify.com/track/0skgJbXMM4sPRwSKXvO2id"
+    },
+    {
+      "added_at": "2023-09-13 13:59:55",
+      "album": {
         "name": "Good Times Go",
         "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
       },
@@ -1159,6 +1159,22 @@
       "duration_ms": 177371,
       "name": "Eyes On You",
       "url": "https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi"
+    },
+    {
+      "added_at": "2023-09-13 13:59:55",
+      "album": {
+        "name": "Ein Traum",
+        "url": "https://open.spotify.com/album/3PpsCdaIagDzd4EvDSCSWo"
+      },
+      "artists": [
+        {
+          "name": "Bosse",
+          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Ein Traum",
+      "url": "https://open.spotify.com/track/6Rbw34MeB02zIlnEk3ZtIZ"
     },
     {
       "added_at": "2023-09-13 13:59:55",
@@ -1179,22 +1195,6 @@
       "duration_ms": 210869,
       "name": "Peter Pan",
       "url": "https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV"
-    },
-    {
-      "added_at": "2023-09-13 13:59:55",
-      "album": {
-        "name": "Ein Traum",
-        "url": "https://open.spotify.com/album/3PpsCdaIagDzd4EvDSCSWo"
-      },
-      "artists": [
-        {
-          "name": "Bosse",
-          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Ein Traum",
-      "url": "https://open.spotify.com/track/6Rbw34MeB02zIlnEk3ZtIZ"
     },
     {
       "added_at": "2023-09-13 13:59:55",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
-        "name": "Chemical",
-        "url": "https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 184004,
-      "name": "Chemical",
-      "url": "https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY"
-    },
-    {
-      "added_at": "2023-09-13 13:59:55",
-      "album": {
         "name": "The Ringmaster",
         "url": "https://open.spotify.com/album/30uB4Apy4yJgDSfE7xyA6n"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 180842,
       "name": "Baian\u00e1",
       "url": "https://open.spotify.com/track/17B9XlyyYDKkTmPay4z02V"
+    },
+    {
+      "added_at": "2023-09-13 13:59:55",
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 184004,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY"
     },
     {
       "added_at": "2023-09-13 13:59:55",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/5WEe6GjK467yw02jAlz9lb"
-      },
-      "artists": [
-        {
-          "name": "Peter Fox",
-          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
-        }
-      ],
-      "duration_ms": 166109,
-      "name": "Tuff Cookie",
-      "url": "https://open.spotify.com/track/4vWAaoSebO4sp4Jo9f3cVn"
-    },
-    {
-      "added_at": "2023-09-13 13:59:55",
-      "album": {
         "name": "YEAH (feat. ClockClock)",
         "url": "https://open.spotify.com/album/5CivJsN8TmERWIOMxCGAWs"
       },
@@ -1615,6 +1599,38 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/5WEe6GjK467yw02jAlz9lb"
+      },
+      "artists": [
+        {
+          "name": "Peter Fox",
+          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
+        }
+      ],
+      "duration_ms": 166109,
+      "name": "Tuff Cookie",
+      "url": "https://open.spotify.com/track/4vWAaoSebO4sp4Jo9f3cVn"
+    },
+    {
+      "added_at": "2023-09-13 13:59:55",
+      "album": {
+        "name": "Glad U Came",
+        "url": "https://open.spotify.com/album/2H37NHuufU0kkwLhMwhdLj"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 178080,
+      "name": "Glad U Came",
+      "url": "https://open.spotify.com/track/3g5OlVimHO0rK6qmRiwokX"
+    },
+    {
+      "added_at": "2023-09-13 13:59:55",
+      "album": {
         "name": "Rapunzel (DJ Robin Remix)",
         "url": "https://open.spotify.com/album/3dr4AKRx355JOuK77zvyvX"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 165045,
       "name": "Rapunzel - DJ Robin Remix",
       "url": "https://open.spotify.com/track/2WQBFD9aMY1HldcU7Ekvp1"
-    },
-    {
-      "added_at": "2023-09-13 13:59:55",
-      "album": {
-        "name": "Glad U Came",
-        "url": "https://open.spotify.com/album/2H37NHuufU0kkwLhMwhdLj"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 178080,
-      "name": "Glad U Came",
-      "url": "https://open.spotify.com/track/3g5OlVimHO0rK6qmRiwokX"
     },
     {
       "added_at": "2023-09-13 13:59:55",

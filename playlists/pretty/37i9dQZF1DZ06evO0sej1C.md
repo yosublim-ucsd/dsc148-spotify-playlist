@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,020 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,042 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 23 | [Por Tu Piel](https://open.spotify.com/track/0ryHBlMBdjJksukX0xdQh9) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Por Tu Piel](https://open.spotify.com/album/4ALasG3sQBw3IZDZUbHiuz) | 3:41 |
 | 24 | [Frío](https://open.spotify.com/track/0QK3Yshn8c0plhuErNvmKz) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Frío](https://open.spotify.com/album/0bHlhoa28gqmsheSevIFZt) | 3:24 |
 | 25 | [Terremoto](https://open.spotify.com/track/3AbJALTHShkODDRfL5BH8p) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [Terremoto](https://open.spotify.com/album/3IWMKaP4kN3mgqpkQFhrMu) | 3:27 |
-| 26 | [Dámelo](https://open.spotify.com/track/5C1YeWx8HhUnkWOuWvGxi2) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Dámelo](https://open.spotify.com/album/3YUn7HRgQj6c8R0WeXpmpC) | 3:03 |
-| 27 | [Se Me Pasó](https://open.spotify.com/track/7q6uwjL8IQ4cTJplzwdqu6) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Se Me Pasó](https://open.spotify.com/album/3JrWWDWTNdrsHX9QZf2ya3) | 3:59 |
+| 26 | [Se Me Pasó](https://open.spotify.com/track/7q6uwjL8IQ4cTJplzwdqu6) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Se Me Pasó](https://open.spotify.com/album/3JrWWDWTNdrsHX9QZf2ya3) | 3:59 |
+| 27 | [Dámelo](https://open.spotify.com/track/5C1YeWx8HhUnkWOuWvGxi2) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Dámelo](https://open.spotify.com/album/3YUn7HRgQj6c8R0WeXpmpC) | 3:03 |
 | 28 | [LQRA Session \#3](https://open.spotify.com/track/65jUseB3hi312R6Sdg2eon) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [LQRA Session \#3](https://open.spotify.com/album/4CiyVMTKizu2N88qPuqPVR) | 2:54 |
 | 29 | [Ketamina](https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ketamina](https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8) | 2:51 |
 | 30 | [Alzypher Vol\. 9](https://open.spotify.com/track/4VgKKuLoLAcgNvJ8d0hKlA) | [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Alzypher Vol\. 9](https://open.spotify.com/album/3JKZcVkafBrbIZySypEw7H) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 49 | [Lo Que Quedó](https://open.spotify.com/track/30Sn828wzCRX4ateJdo8hS) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Lo Que Quedó](https://open.spotify.com/album/4h69km8MmjfhpDEBXRnxhc) | 3:27 |
 | 50 | [Vas a Volver](https://open.spotify.com/track/5A6ALVribfvYq8yUv97mlp) | [Yoky Barrios](https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Vas a Volver](https://open.spotify.com/album/7Dc3OsO2OyxVWcG0G6YdQF) | 3:23 |
 
-Snapshot ID: `Mjg0MTE5MDAsMDAwMDAwMDA1N2I1ZmU3ZjRlM2JlMGRhYzU2N2QxYWFiZTk2NzUwNA==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDAzMTZiNDQwNTAzZDY4ZTZmMGEwYzFhMjc5MWI1YTRmYQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ePRxHPWPfx.md) - [plain]
 
 > Warm tunes to get you in the snuggle spirit, la fogata y el chocolate caliente son opcionales.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,243 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,686 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ePRxHPWPfx.md) - [plain]
 | 34 | [Por Debajo De La Mesa](https://open.spotify.com/track/1livAifXh1DMv25kTfFFHR) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo) | 3:04 |
 | 35 | [Despierto](https://open.spotify.com/track/3SFFAZ3QH7clx7uA7BpLqJ) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8), [Diàgo](https://open.spotify.com/artist/7c4D4GARDnPEe1arEIKp0s) | [Despierto](https://open.spotify.com/album/1dSihfk7gkcm5IjSYO9AAp) | 3:19 |
 | 36 | [de mi pa ti](https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [de mi pa ti](https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l) | 3:26 |
-| 37 | [We're the Lucky Ones](https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [We're The Lucky Ones](https://open.spotify.com/album/12USXSqjhL8yMhajTI8fD8) | 3:35 |
-| 38 | [Monumento](https://open.spotify.com/track/3BUOQHWgnm8l5KDkzujs26) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [NAFTA II](https://open.spotify.com/album/4B2sJdUM5lyuiGv7KYi8It) | 2:55 |
+| 37 | [Monumento](https://open.spotify.com/track/3BUOQHWgnm8l5KDkzujs26) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [NAFTA II](https://open.spotify.com/album/4B2sJdUM5lyuiGv7KYi8It) | 2:55 |
+| 38 | [We're the Lucky Ones](https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [We're The Lucky Ones](https://open.spotify.com/album/12USXSqjhL8yMhajTI8fD8) | 3:35 |
 | 39 | [Music Box](https://open.spotify.com/track/2h89x1ycsTH904Poc5COS4) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Music Box](https://open.spotify.com/album/3l3xNSj9nQGYJ4ZPXBWVmf) | 4:25 |
 | 40 | [Ven A Mi Casa Esta Navidad](https://open.spotify.com/track/6mYn2tAQD0LmwqplaMbXhg) | [Voz Veis](https://open.spotify.com/artist/10qDQKbmh8qV5LDCFtHLIw), [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Todos A Belen](https://open.spotify.com/album/54YLqTx1NcuQUkVARYdIBQ) | 3:41 |
 | 41 | [Love to Keep Me Warm](https://open.spotify.com/track/3wNzFBRNBuK1xz6XbZNBBQ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [A Very Laufey Holiday](https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ePRxHPWPfx.md) - [plain]
 | 49 | [Tu Canción](https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Tu Canción](https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2) | 3:11 |
 | 50 | [Blanco y Negro](https://open.spotify.com/track/7M8i0g4Ls8w3JCOwTChnkD) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [los mejores años](https://open.spotify.com/album/5sQ55TNYqcvtk4VMpx91Kl) | 3:41 |
 
-Snapshot ID: `MCwzOWY3OGI1MjliZWNmYzk3YjhmN2M3ZGQyNzgzMTE1ZWJhNjE2NTdi`
+Snapshot ID: `MCw3NTM2ZmRhYWI5NjYzYzVhODRiMWUzNzczNzc0Mjg2ZmQwYjEyODZm`

@@ -4,7 +4,7 @@
 
 > We hear you.
 
-643 songs - 1 day 7 hr 53 min
+645 songs - 1 day 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [As the World Caves In](https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [As the World Caves In](https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0) | 3:38 | 2021-06-01 | 2022-05-25 |
 | [Baby](https://open.spotify.com/track/1CoEu5QifQZUhFYrLIjgFx) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Baby](https://open.spotify.com/album/7qnpbQkt7O7CVy7cgu1g6k) | 1:51 | 2021-04-02 | 2022-04-11 |
 | [Baby](https://open.spotify.com/track/38jJdP6hG3x63SKrJZutMW) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Coming Clean](https://open.spotify.com/album/3bKEeTVDEtHn9qxtDk0yJv) | 1:51 | 2022-10-07 | 2023-12-06 |
+| [Baby](https://open.spotify.com/track/5jI88gmbKnva1Pak0ZZo1M) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Coming Clean](https://open.spotify.com/album/3HYuk6rTzUcO1ZGya3vHwu) | 1:51 | 2023-09-29 |  |
 | [Baby I'm Falling](https://open.spotify.com/track/2WxjuqpSOCNQLULYsUExs2) | [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD), [Groundfold](https://open.spotify.com/artist/45YBqogjhBMMOXyY5liFE6) | [Baby I'm Falling](https://open.spotify.com/album/5RgEF6KWRkf3jMgKjgySb3) | 2:34 | 2021-04-02 | 2022-04-20 |
 | [Baby You're Worth It](https://open.spotify.com/track/6vJ6FR4WtlKSxe8lmh3F1C) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF) | [Baby You're Worth It](https://open.spotify.com/album/0EbIsvQLmJzhqWImUaYi5i) | 2:10 | 2021-04-02 | 2022-04-20 |
 | [Back There](https://open.spotify.com/track/0NBFHo21e5tX6nZdIjAIhT) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Aurora](https://open.spotify.com/album/4X7K9bedTvlVHd06eywvHL) | 2:02 | 2021-10-08 | 2022-04-20 |
@@ -268,6 +269,7 @@
 | [i will follow you into the dark \- Spotify Singles](https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Spotify Singles](https://open.spotify.com/album/54lLvzhlVF4QhQMBfPQhtl) | 2:33 | 2022-07-29 | 2022-10-15 |
 | [I Won't Beg for You](https://open.spotify.com/track/6krUUNp4e2mIOzNzRIexdY) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [I Won't Beg for You](https://open.spotify.com/album/5OyOJw6cJrHZkBp6Qns0Wz) | 2:03 | 2023-05-23 |  |
 | [I Wouldn't Ask You](https://open.spotify.com/track/6YTUGuz1IzqKFpNm0yGQws) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 6:56 | 2021-04-02 | 2023-04-27 |
+| [I Wouldn't Mind](https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj) | [He Is We](https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU) | [Fall out of Line](https://open.spotify.com/album/0j9ER085qAs6Wd1P53hOGn) | 3:20 | 2024-01-09 |  |
 | [I Wrote You a Letter](https://open.spotify.com/track/6MjDnmBgbCu2UfDK0DRczh) | [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [Youth](https://open.spotify.com/album/2yMNSyP4jE7YVvc0VFwyZM) | 2:40 | 2021-04-02 | 2022-04-19 |
 | [i'd rather be alone](https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1) | [boodahki](https://open.spotify.com/artist/0BOqSj7jZIVAyQXmpKRcmJ) | [i'd rather be alone](https://open.spotify.com/album/1x3tEgyI1qIANer0bj12bV) | 2:22 | 2022-03-29 |  |
 | [I'D RATHER GO TO BED](https://open.spotify.com/track/56UaiLojZ2hD0856fADjIg) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [I'D RATHER GO TO BED](https://open.spotify.com/album/3LsrqLf5EBqkb5NKuc4nmU) | 3:48 | 2021-04-02 | 2022-04-18 |
@@ -304,7 +306,7 @@
 | [In My Room](https://open.spotify.com/track/7CiDwKE62N6ey3LyG6s7xc) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/3WmjP2w94BdrRraDmCHosq) | 2:57 | 2022-11-11 | 2023-04-27 |
 | [In Two](https://open.spotify.com/track/44vJetDdcFOhZhgpk69P41) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [In Two](https://open.spotify.com/album/2SPXnZX9rok5Wom82V3Lqh) | 2:23 | 2022-11-18 | 2023-02-15 |
 | [infinity](https://open.spotify.com/track/6hbSCFjiWeL9vmOvoA7xvp) | [asumuh](https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO) | [infinity](https://open.spotify.com/album/213BkPPTJcU9MlLj8YJFXW) | 2:54 | 2023-04-26 | 2023-10-19 |
-| [Insane](https://open.spotify.com/track/3mLFCocZgUvih60frphM6l) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Insane](https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy) | 2:46 | 2021-04-02 |  |
+| [Insane](https://open.spotify.com/track/3mLFCocZgUvih60frphM6l) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Insane](https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy) | 2:46 | 2021-04-02 | 2024-01-10 |
 | [Inside Out](https://open.spotify.com/track/6WlmEymaXKMRs3D2c4j6os) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 2:21 | 2022-11-08 | 2022-12-10 |
 | [into ash](https://open.spotify.com/track/2yPIuAeJ2Y5mKPo82Lruw3) | [Adam Youngman](https://open.spotify.com/artist/3K8XkFDgyQhbHQGzD0xz8Y) | [into ash](https://open.spotify.com/album/7guivDMrs7rBgX84UAp2vL) | 1:29 | 2021-04-02 | 2022-04-14 |
 | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/album/3EScPN7QqAa3WUVgZe1dNo) | 3:27 | 2021-04-02 |  |
@@ -457,7 +459,7 @@
 | [Pluto Projector](https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 4:27 | 2021-04-02 | 2022-10-15 |
 | [Poetic Vulgarity](https://open.spotify.com/track/0cVCSfdI0gl2jJopZPKCaO) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 4:00 | 2023-09-14 |  |
 | [porcupine](https://open.spotify.com/track/2ccIz3cyNeLnqD7bpt3fjZ) | [Flatsound](https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3) | [when you run away, do you close your eyes](https://open.spotify.com/album/2KBkwYcHVmeEN5PdGbBsFU) | 3:37 | 2022-07-19 | 2022-08-17 |
-| [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 | 2023-03-23 |  |
+| [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 | 2023-03-23 | 2024-01-10 |
 | [promise I won't mess up](https://open.spotify.com/track/6c4XR6urBbWreT60gkWTmu) | [Sølace](https://open.spotify.com/artist/62AlnDIQccDoQ5FPZRrSL3) | [promise I won't mess up](https://open.spotify.com/album/3j1zmRaTDsDLg5lkDzk352) | 3:00 | 2021-04-02 | 2022-06-24 |
 | [Punching Walls](https://open.spotify.com/track/5BJjtA7s7nEzg7zsCYnYuP) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38) | [Punching Walls](https://open.spotify.com/album/6rlcMDZnpBnr9QTZF1r9rE) | 2:34 | 2022-05-25 | 2022-07-29 |
 | [purgatory origami](https://open.spotify.com/track/2OpfVi6Bahpod9c6x7ShMC) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [purgatory origami](https://open.spotify.com/album/6GS2Ssx9tDfzUFZNYb9kl4) | 5:45 | 2021-10-08 | 2022-04-20 |

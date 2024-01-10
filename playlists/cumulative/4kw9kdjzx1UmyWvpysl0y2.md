@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-631 songs - 1 day 12 hr 37 min
+632 songs - 1 day 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [Nara](https://open.spotify.com/track/3RGmpu3LDxFSMRhrvZsIXV) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Nara](https://open.spotify.com/album/4oBuSG29ld0L27Mz7jHHBN) | 4:09 | 2022-10-19 | 2023-01-06 |
 | [Narcissist](https://open.spotify.com/track/2eex5KqwwPLtPJY8mxeSxd) | [Mr FijiWiji](https://open.spotify.com/artist/2uEo8Rajpdz1AqineCVLHq) | [Narcissist](https://open.spotify.com/album/4M5eI9WILJTXNeAxhdsgqZ) | 3:12 | 2023-05-17 | 2023-08-11 |
 | [Neck Snap](https://open.spotify.com/track/5cz9A9XWyLJ6lISe5EYkRK) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Neck Snap](https://open.spotify.com/album/4H37lVlKGjTCzusxKyXrlo) | 2:54 | 2023-05-25 | 2023-08-20 |
+| [Need You](https://open.spotify.com/track/6dAsiXhQrIYH4AAXuqyGWH) | [Finding Mero](https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs) | [Need You](https://open.spotify.com/album/174i8xLnIubs0bYpOVqR9t) | 3:12 | 2024-01-09 |  |
 | [Nevada \- Sped Up](https://open.spotify.com/track/0tbfHEnclBgFV5O5SYgfSK) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Nevada](https://open.spotify.com/album/7eNKd847sotWHdAOKujY43) | 3:04 | 2023-09-08 |  |
 | [Nevada \- Vicetone Lofi Mix](https://open.spotify.com/track/0ueILWV4Pvzx5hJCMCn975) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Nevada \(Vicetone Lofi Mix\)](https://open.spotify.com/album/5S69WMh7mRHeLb8BQrq9sA) | 2:27 | 2022-02-18 | 2022-04-29 |
 | [Never Cared](https://open.spotify.com/track/1eFlpHjgc4OCRMo4TgAh5g) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Never Cared](https://open.spotify.com/album/1P1wiF5kauftUiGBrZCs3Y) | 3:39 | 2022-02-14 | 2022-04-23 |

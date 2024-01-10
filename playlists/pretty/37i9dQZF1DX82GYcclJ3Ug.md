@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: Jagwar Twin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,122,553 likes - 120 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,120,978 likes - 120 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 119 | [HUSH](https://open.spotify.com/track/7aB5uUd9VUpBoHY4XCxXBw) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [THIS IS NOT AN EXIT](https://open.spotify.com/album/34p9nqyJhDgyoGlLyecjHh) | 3:18 |
 | 120 | [Impressively Average](https://open.spotify.com/track/1sL6n9kMtrlAvPokQKlZGP) | [Brigitte Calls Me Baby](https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN) | [Impressively Average](https://open.spotify.com/album/0I60bBbjgow9th1gEfPKxv) | 3:18 |
 
-Snapshot ID: `MCw2ZDI2NWIxMmQxMWNkMDQ4YWM1MTdkYmI1ZGJjZWVlMWMzMmRhYzQy`
+Snapshot ID: `MCw5ZTlmNmU2ZjFjNjljNDYyMTgzNzc5MzZiNGM3ZmZiZWI2NjMyNzdj`

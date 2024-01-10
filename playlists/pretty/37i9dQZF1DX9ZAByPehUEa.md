@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,177 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,253 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 49 | [Be The One \(feat\. Yung Bae\)](https://open.spotify.com/track/4mpyalWKRgGgghWqr0DGRr) | [Disco Dom](https://open.spotify.com/artist/3q8DkzC4UfA5lKG1YG4004), [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Inferno \(No\. 1\)](https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG) | 4:56 |
 | 50 | [Seventies](https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/5X6J5NTJIWPCJzcRwIKXmb) | 3:16 |
 
-Snapshot ID: `MCxiNzFkZjAxZTYyODQ0MjUxMjE5NWFjMDAxMjgzNGYwMWYxNjRjODg2`
+Snapshot ID: `MCxhMjU5MDU3ODgyMmZlNjgzMzJjMTYyZGRkNWE5YjYzOGIxMzkzMGI0`

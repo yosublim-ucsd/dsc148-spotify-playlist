@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs\. Cover: Ankit Baiyanpuria
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,162 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,226 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 49 | [Badmashan Ka Gaam](https://open.spotify.com/track/4iPqNt6wKhJUJXD5qm9bQu) | [Dikshit Parasher](https://open.spotify.com/artist/0BU9ouBKN5Y55wZ6iNSSL5), [Fiza Choudhary](https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB) | [Badmashan Ka Gaam](https://open.spotify.com/album/6LND3ww5b7PjfvcOzXl7xv) | 2:24 |
 | 50 | [Aar Paar](https://open.spotify.com/track/6VwFxZXXIt0fpFqBm8oSZ7) | [Veer Sahu](https://open.spotify.com/artist/6WX30h7AXzPvJdBKxf2i0F) | [Aar Paar](https://open.spotify.com/album/1of1BnD9Wy9Si8ActYR4Sy) | 3:27 |
 
-Snapshot ID: `MCw4MDFiNTAyMTkxODM1YzI1YjY1NjU4NTczNjdiZmFmZGQ0ZWIxYjA1`
+Snapshot ID: `MCwyZDNjY2U5MTEyOTM0OTU4OWUxZTFhYjRkMWUzNzYwYmI1MTJlNTU4`

@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the 70s.",
-  "num_followers": 1767996,
+  "num_followers": 1767953,
   "original_name": "70s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGRmMGYxYWQ0OGExZmE4NjQ1Mzk5YTNhOGU5MDI2YzI1ZjAzZTZi",
+  "snapshot_id": "MCwzYzNmMTNmNDE0Njg2MTFkMmY4ZDAxZTc2OTIzNWVjMDQ1OWI2MzUx",
   "tracks": [
     {
       "added_at": "2023-01-18 21:01:33",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "Even In The Quietest Moments",
-        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 248173,
-      "name": "Give A Little Bit",
-      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
         "name": "Toulouse Street",
         "url": "https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 227266,
       "name": "Listen to the Music",
       "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
+        "name": "Even In The Quietest Moments",
+        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 248173,
+      "name": "Give A Little Bit",
+      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -984,9 +984,9 @@
           "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 217746,
-      "name": "Changes - 2015 Remaster",
-      "url": "https://open.spotify.com/track/0LrwgdLsFaWh9VXIjBRe8t"
+      "duration_ms": 235986,
+      "name": "Life on Mars? - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -1080,9 +1080,9 @@
           "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 235986,
-      "name": "Life on Mars? - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N"
+      "duration_ms": 217746,
+      "name": "Changes - 2015 Remaster",
+      "url": "https://open.spotify.com/track/0LrwgdLsFaWh9VXIjBRe8t"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "The Essential Billy Joel",
-        "url": "https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 336093,
-      "name": "Piano Man",
-      "url": "https://open.spotify.com/track/3FCto7hnn1shUyZL42YgfO"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
         "name": "Who's Next (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 511400,
       "name": "Won't Get Fooled Again - Original Album Version",
       "url": "https://open.spotify.com/track/0cJPLFrlV7TTCyPLupHzcH"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
+        "name": "The Essential Billy Joel",
+        "url": "https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 336093,
+      "name": "Piano Man",
+      "url": "https://open.spotify.com/track/3FCto7hnn1shUyZL42YgfO"
     },
     {
       "added_at": "2023-01-18 21:01:33",

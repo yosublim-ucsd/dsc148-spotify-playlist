@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9WXpUmdSWn.md) - [plain]
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the songwriter's owner covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,787 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,790 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9WXpUmdSWn.md) - [plain]
 | 49 | [The Boxer feat\. Mumford & Sons and Paul Simon](https://open.spotify.com/track/1GXMLU8qafDOavxXIQPoag) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Traveler](https://open.spotify.com/album/0Ylhn0L6WD0SEMbF8hYtNT) | 4:05 |
 | 50 | [Diamonds On The Soles Of Her Shoes \- The Voice Performance](https://open.spotify.com/track/0vlV9EHERw2dRYiuhQNPJB) | [Joshua Davis](https://open.spotify.com/artist/6Z3gpcNJMzjr9Lv7UbxQhZ), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [The Complete Season 8 Collection \(The Voice Performance\)](https://open.spotify.com/album/6MppBBhapzHLawPrAnVVxx) | 3:04 |
 
-Snapshot ID: `MCw4MWM3YTRiYTRjMmZlNWFlZTVkNjNhMDMzYzIyNWYzNGNiMWJhNjI5`
+Snapshot ID: `MCxjOGM1MDQxMGMzOWZjNGJmOGNkYzc5NWQxNjZkN2Q2MDdkMWI3NTQ0`

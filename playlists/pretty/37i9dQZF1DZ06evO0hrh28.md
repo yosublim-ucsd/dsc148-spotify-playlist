@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 
 > This is Emilia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,862 likes - 48 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,259 likes - 48 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 | 47 | [Diva \(feat\. Emilia\)](https://open.spotify.com/track/0Be0IFTqpOBkJeGQYaXvY6) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Diva \(feat\. Emilia\)](https://open.spotify.com/album/74e4WmTJM2riGEO94bnG6i) | 3:35 |
 | 48 | [Já é Tarde \(No Más\)](https://open.spotify.com/track/3zOM8olfYjhEY4gARuV8gU) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg), [Cabrera](https://open.spotify.com/artist/0f8YWLcN51Um9z8C1fbEr2) | [Já é Tarde \(No Más\)](https://open.spotify.com/album/52XNWdUMP7Ln42XtpKI33y) | 2:29 |
 
-Snapshot ID: `Mjg0MTE5MDAsMDAwMDAwMDAyZDUxMjIwYmY3MjYxYjgwZjI5OGY4OGVjMDUwN2EzNQ==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDBhNmMyNGJkZGU0M2U1NGYxNTRlODMzYmMzNDdlYzY0NA==`

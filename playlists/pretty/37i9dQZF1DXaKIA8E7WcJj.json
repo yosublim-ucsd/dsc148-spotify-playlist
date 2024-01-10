@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1960s.\n",
-  "num_followers": 3060832,
+  "num_followers": 3059620,
   "original_name": "All Out 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjk0N2VhMDk0OWUyM2UzMTgzZDc5ZmQ2M2EwNTNmODQ3Yjk0ZGI5",
+  "snapshot_id": "MCw2ZDM3ZjZkZWU5ZTAyZjBmZWJhOWY0ZGVlMTQyZGYxNzE0NDIzMWU5",
   "tracks": [
     {
       "added_at": "2022-08-12 11:06:50",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 179693,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Baby Now That I've Found You",
         "url": "https://open.spotify.com/album/7LFpclH3t4SnxqZpbjvSwE"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 180133,
       "name": "Build Me Up Buttercup (Mono)",
       "url": "https://open.spotify.com/track/1tfZtA15BfJHQTUy3dqTKC"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 179693,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -319,6 +319,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Tell Mama",
+        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 156653,
+      "name": "I'd Rather Go Blind",
+      "url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Oh, Pretty Woman",
         "url": "https://open.spotify.com/album/2jTbcSPVTBRAoc3mHU6hy0"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 162493,
       "name": "Somethin' Stupid",
       "url": "https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Tell Mama",
-        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 156653,
-      "name": "I'd Rather Go Blind",
-      "url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -563,6 +563,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Presenting the Fabulous Ronettes Featuring Veronica",
+        "url": "https://open.spotify.com/album/0CoNLgOwcZGBUSwd9fAZuy"
+      },
+      "artists": [
+        {
+          "name": "The Ronettes",
+          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+        }
+      ],
+      "duration_ms": 160906,
+      "name": "Be My Baby",
+      "url": "https://open.spotify.com/track/1WN4uNclrDuczTO3bCr8s1"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb"
       },
@@ -595,18 +611,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Presenting the Fabulous Ronettes Featuring Veronica",
-        "url": "https://open.spotify.com/album/0CoNLgOwcZGBUSwd9fAZuy"
+        "name": "Green River (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
       },
       "artists": [
         {
-          "name": "The Ronettes",
-          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
         }
       ],
-      "duration_ms": 160906,
-      "name": "Be My Baby",
-      "url": "https://open.spotify.com/track/1WN4uNclrDuczTO3bCr8s1"
+      "duration_ms": 154120,
+      "name": "Green River",
+      "url": "https://open.spotify.com/track/11DjZQEZ69EXLo77HVj6yW"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -627,22 +643,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Green River (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 154120,
-      "name": "Green River",
-      "url": "https://open.spotify.com/track/11DjZQEZ69EXLo77HVj6yW"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "St. Louis To Liverpool",
         "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
       },
@@ -655,6 +655,22 @@
       "duration_ms": 161906,
       "name": "You Never Can Tell",
       "url": "https://open.spotify.com/track/6FT83pFXKhDlXDsNJFAHWz"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 145866,
+      "name": "Break on Through (To the Other Side)",
+      "url": "https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -679,22 +695,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "The Doors",
-        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 145866,
-      "name": "Break on Through (To the Other Side)",
-      "url": "https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Axis: Bold As Love",
         "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
       },
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Willy And The Poor Boys (Expanded Edition)",
-        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 166280,
-      "name": "Down On The Corner",
-      "url": "https://open.spotify.com/track/2gE95JskwQ1pCACTpGe1Db"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Help! (Remastered)",
         "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 139560,
       "name": "Help! - Remastered 2009",
       "url": "https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Willy And The Poor Boys (Expanded Edition)",
+        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 166280,
+      "name": "Down On The Corner",
+      "url": "https://open.spotify.com/track/2gE95JskwQ1pCACTpGe1Db"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "My Way (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 276800,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Surfin' USA (Remastered)",
         "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
       },
@@ -807,22 +823,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "My Way (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 276800,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Odessey and Oracle",
         "url": "https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp"
       },
@@ -839,18 +839,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "The Animals",
-        "url": "https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa"
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
       "artists": [
         {
-          "name": "The Animals",
-          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 271280,
-      "name": "House Of The Rising Sun",
-      "url": "https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb"
+      "duration_ms": 196133,
+      "name": "A Sunday Kind Of Love",
+      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -871,18 +871,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+        "name": "The Animals",
+        "url": "https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "The Animals",
+          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
         }
       ],
-      "duration_ms": 196133,
-      "name": "A Sunday Kind Of Love",
-      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
+      "duration_ms": 271280,
+      "name": "House Of The Rising Sun",
+      "url": "https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "I Got You (I Feel Good)",
-        "url": "https://open.spotify.com/album/5UqTOjkfRMzkORwpeOWtt3"
-      },
-      "artists": [
-        {
-          "name": "James Brown & The Famous Flames",
-          "url": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
-        }
-      ],
-      "duration_ms": 165800,
-      "name": "I Got You (I Feel Good)",
-      "url": "https://open.spotify.com/track/5haXbSJqjjM0TCJ5XkfEaC"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Everything's Archie",
         "url": "https://open.spotify.com/album/3Yx7rFz5gPsuWOoNncW0UP"
       },
@@ -951,22 +935,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Led Zeppelin",
-        "url": "https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "Good Times Bad Times - 1993 Remaster",
-      "url": "https://open.spotify.com/track/0QwZfbw26QeUoIy82Z2jYp"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Strangers In The Night (Expanded Edition)",
         "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
       },
@@ -979,6 +947,38 @@
       "duration_ms": 157866,
       "name": "Strangers In The Night",
       "url": "https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "I Got You (I Feel Good)",
+        "url": "https://open.spotify.com/album/5UqTOjkfRMzkORwpeOWtt3"
+      },
+      "artists": [
+        {
+          "name": "James Brown & The Famous Flames",
+          "url": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
+        }
+      ],
+      "duration_ms": 165800,
+      "name": "I Got You (I Feel Good)",
+      "url": "https://open.spotify.com/track/5haXbSJqjjM0TCJ5XkfEaC"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Led Zeppelin",
+        "url": "https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "Good Times Bad Times - 1993 Remaster",
+      "url": "https://open.spotify.com/track/0QwZfbw26QeUoIy82Z2jYp"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Are You Experienced",
-        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 210160,
-      "name": "Hey Joe",
-      "url": "https://open.spotify.com/track/0NWPxcsf5vdjdiFUI8NgkP"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Led Zeppelin II (1994 Remaster)",
         "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 263333,
       "name": "Ramble On - 1990 Remaster",
       "url": "https://open.spotify.com/track/3MODES4TNtygekLl146Dxd"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 210160,
+      "name": "Hey Joe",
+      "url": "https://open.spotify.com/track/0NWPxcsf5vdjdiFUI8NgkP"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Lesley Gore Sings Of Mixed-Up Hearts",
+        "url": "https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ"
+      },
+      "artists": [
+        {
+          "name": "Lesley Gore",
+          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "You Don't Own Me",
+      "url": "https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "At Folsom Prison",
         "url": "https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh"
       },
@@ -1351,22 +1367,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Lesley Gore Sings Of Mixed-Up Hearts",
-        "url": "https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ"
-      },
-      "artists": [
-        {
-          "name": "Lesley Gore",
-          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "You Don't Own Me",
-      "url": "https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Crosby, Stills & Nash",
         "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
       },
@@ -1379,22 +1379,6 @@
       "duration_ms": 157893,
       "name": "Helplessly Hoping - 2005 Remaster",
       "url": "https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "In the Midnight Hour",
-        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 157160,
-      "name": "In the Midnight Hour",
-      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1415,6 +1399,22 @@
       "duration_ms": 253333,
       "name": "Piece of My Heart",
       "url": "https://open.spotify.com/track/1xKQbqQtQWrtQS47fUJBtl"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "In the Midnight Hour",
+        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 157160,
+      "name": "In the Midnight Hour",
+      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Parsley, Sage, Rosemary And Thyme",
-        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 149613,
-      "name": "Homeward Bound",
-      "url": "https://open.spotify.com/track/4Xl2PrS3DJqqSKXCo6Uhv9"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Heart & Soul: A Retrospective",
         "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 169746,
       "name": "Something's Got A Hold On Me",
       "url": "https://open.spotify.com/track/6EAlFsajDK1PVgfhdJbS5Y"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 149613,
+      "name": "Homeward Bound",
+      "url": "https://open.spotify.com/track/4Xl2PrS3DJqqSKXCo6Uhv9"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Idea (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3LcOOTBvHj22Nl90AuRsro"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 188306,
-      "name": "I Started A Joke",
-      "url": "https://open.spotify.com/track/36CKza28wMxYdjdzji7ine"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Hits'n'Flips",
         "url": "https://open.spotify.com/album/03yc1eq0YoS5Bgt6KSY9Wg"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 248946,
       "name": "A Whiter Shade of Pale - Original Single Version",
       "url": "https://open.spotify.com/track/7DsQgIwg23u9gooCxkRTu3"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Idea (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3LcOOTBvHj22Nl90AuRsro"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 188306,
+      "name": "I Started A Joke",
+      "url": "https://open.spotify.com/track/36CKza28wMxYdjdzji7ine"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Shut Down, Vol. 2 (Remastered)",
-        "url": "https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 169933,
-      "name": "Don't Worry Baby - Remastered 2001",
-      "url": "https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Hums Of The Lovin' Spoonful",
         "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 160306,
       "name": "Summer in the City - Remastered",
       "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Shut Down, Vol. 2 (Remastered)",
+        "url": "https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 169933,
+      "name": "Don't Worry Baby - Remastered 2001",
+      "url": "https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2051,26 +2051,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Nashville Skyline",
-        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 220400,
-      "name": "Girl from the North Country",
-      "url": "https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Dance Party",
         "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
       },
@@ -2103,6 +2083,26 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Nashville Skyline",
+        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 220400,
+      "name": "Girl from the North Country",
+      "url": "https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Reach Out",
         "url": "https://open.spotify.com/album/4Jw0RycAqlXeAoymbc0CYp"
       },
@@ -2119,18 +2119,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+        "name": "Face to Face (Deluxe)",
+        "url": "https://open.spotify.com/album/44tcGfOAI8iZc1U5BAgLkT"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
         }
       ],
-      "duration_ms": 149626,
-      "name": "You Send Me",
-      "url": "https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN"
+      "duration_ms": 212946,
+      "name": "Sunny Afternoon",
+      "url": "https://open.spotify.com/track/09Plbz3Ja2gxU9xCsqA5KY"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2151,18 +2151,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Face to Face (Deluxe)",
-        "url": "https://open.spotify.com/album/44tcGfOAI8iZc1U5BAgLkT"
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
       },
       "artists": [
         {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 212946,
-      "name": "Sunny Afternoon",
-      "url": "https://open.spotify.com/track/09Plbz3Ja2gxU9xCsqA5KY"
+      "duration_ms": 149626,
+      "name": "You Send Me",
+      "url": "https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2343,6 +2343,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "My Generation (Stereo Version)",
+        "url": "https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 198706,
+      "name": "My Generation - Stereo Version",
+      "url": "https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
         "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
       },
@@ -2359,18 +2375,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "My Generation (Stereo Version)",
-        "url": "https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy"
+        "name": "Hey! Baby (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri"
       },
       "artists": [
         {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+          "name": "Bruce Channel",
+          "url": "https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh"
         }
       ],
-      "duration_ms": 198706,
-      "name": "My Generation - Stereo Version",
-      "url": "https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx"
+      "duration_ms": 143627,
+      "name": "Hey! Baby - Remastered",
+      "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2419,22 +2435,6 @@
       "duration_ms": 166026,
       "name": "Baby I Need Your Loving",
       "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
-        "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
-      },
-      "artists": [
-        {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
-        }
-      ],
-      "duration_ms": 180253,
-      "name": "Girl, You'll Be A Woman Soon",
-      "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
     }
   ],
   "unique_name": "All Out 60s",

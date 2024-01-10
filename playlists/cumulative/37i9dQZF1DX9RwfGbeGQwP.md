@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,368 songs - 2 day 3 hr 33 min
+1,369 songs - 2 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Awakening](https://open.spotify.com/track/28TFSOJsr6zUIujZ9vvpOK) | [Sima Jones](https://open.spotify.com/artist/4vYSw95x1SISLFatLw6DcK) | [Awakening](https://open.spotify.com/album/2LlvQDAl15bYhNSij713zO) | 1:48 | 2022-01-27 | 2022-09-03 |
 | [b side](https://open.spotify.com/track/6hUbKFoBqMOGJG5rnQ8qpd) | [Billy Bass](https://open.spotify.com/artist/2yp0SXzKw2QwxY1btRjUS6) | [b side](https://open.spotify.com/album/17LmbYfU3fBzqxWG9miISo) | 1:50 | 2023-10-27 |  |
 | [Baby Steps](https://open.spotify.com/track/1wHj1ok3aquNUubrCtcw7Q) | [Rigid Moods](https://open.spotify.com/artist/1RQFHOfP3K3mIBNr6xjgy7), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Baby Steps](https://open.spotify.com/album/1H3QOGHdXsCykOviRZe4N2) | 3:26 | 2022-08-12 | 2022-10-15 |
-| [Back Again](https://open.spotify.com/track/2D0IcgJIewYoqiCdQmiAm2) | [Dillon Kay](https://open.spotify.com/artist/3gEfOUa3nPTlBSjLRxtrmq) | [Sunday Sketch & Back Again](https://open.spotify.com/album/3eHKPmK9TTOPXNgFwnzTQ6) | 2:27 | 2023-02-13 |  |
+| [Back Again](https://open.spotify.com/track/2D0IcgJIewYoqiCdQmiAm2) | [Dillon Kay](https://open.spotify.com/artist/3gEfOUa3nPTlBSjLRxtrmq) | [Sunday Sketch & Back Again](https://open.spotify.com/album/3eHKPmK9TTOPXNgFwnzTQ6) | 2:27 | 2023-02-13 | 2024-01-10 |
 | [Backhome](https://open.spotify.com/track/6sRDG18KiJrhoQuZJbTZi5) | [tatuí](https://open.spotify.com/artist/1h4sBiq6QUcJXyoUZDJCUu) | [Backhome](https://open.spotify.com/album/3g12yPQDZGTOsoyw6c676z) | 2:39 | 2022-09-02 | 2023-09-16 |
 | [Balancing](https://open.spotify.com/track/6R5TBVKCGiV8ITQxBRXAz0) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Balancing](https://open.spotify.com/album/7jfKj6qTIRZM0qiRT2TFea) | 2:14 | 2022-12-16 |  |
 | [bald buff activated](https://open.spotify.com/track/1HL0PG4hoX3UQjliOpKowg) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Fnatic Island Vol\. 1](https://open.spotify.com/album/7wX06Zgl00aBrSMBaRQmbO) | 2:16 | 2022-11-11 | 2023-09-05 |
@@ -534,6 +534,7 @@
 | [hollywood](https://open.spotify.com/track/4YRFVSoRT3GFyd0rPaUnhe) | [rchie](https://open.spotify.com/artist/3RtQcltuh6uzO6ilFGIKFI) | [hollywood](https://open.spotify.com/album/4NvozMjJNnXVtnhEPzKuhp) | 2:25 | 2022-01-27 | 2022-08-19 |
 | [Holy Smokes](https://open.spotify.com/track/0rQsaAlvPA5hJhOJKyUuUv) | [Little Smokey](https://open.spotify.com/artist/5dsmlVS4HsQ44fEGCmARw4) | [Holy Smokes](https://open.spotify.com/album/2NIMu0HL4nNuoXMagc9CJQ) | 1:31 | 2022-04-08 | 2022-07-15 |
 | [Hong Kong Minute](https://open.spotify.com/track/3M0fRULm8Js8oHwiO9Cjod) | [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY) | [Hong Kong Minute](https://open.spotify.com/album/3DLhD7vymFXPYWscCRM7yW) | 2:17 | 2022-01-27 | 2022-09-03 |
+| [hop skip and a jump](https://open.spotify.com/track/1ldyyMM61fKaSUiWnZNp03) | [drewbee](https://open.spotify.com/artist/0bRyibPzrRlfTwKe7oUXzR) | [hop skip and a jump](https://open.spotify.com/album/5sTmT31ZfaqAYldQrgrMza) | 2:31 | 2024-01-05 |  |
 | [Hope Of Tomorrow](https://open.spotify.com/track/2EeKsuMVApMdC69tQSJNd4) | [Starlies](https://open.spotify.com/artist/3ZXBbe1WF1PfwggpEOcips), [Ouflen](https://open.spotify.com/artist/1RFUrCY2wxQaLw6NjAnnT7) | [Hope Of Tomorrow](https://open.spotify.com/album/0IO1P5OTt9SYvPLCmGlenM) | 2:38 | 2023-04-20 | 2023-10-13 |
 | [Hopeless Romantic](https://open.spotify.com/track/6iOV22u7MPFW8XajQdV6Ms) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi) | [Hopeless Romantic](https://open.spotify.com/album/6YTI5jYFS5KZvRDlV0u63i) | 1:49 | 2022-06-17 | 2022-07-15 |
 | [Horizon](https://open.spotify.com/track/1LYaFKqobbkOpLKFzvjsdO) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd) | [Horizon](https://open.spotify.com/album/6VXR96qAK9hO9Cz6YjpXbs) | 2:18 | 2022-10-08 | 2023-09-22 |

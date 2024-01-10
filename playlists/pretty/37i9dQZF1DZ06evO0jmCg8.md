@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 
 > This is Arch Enemy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,288 likes - 46 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,293 likes - 46 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 | 45 | [Despicable Heroes](https://open.spotify.com/track/7C1mBzRzBAK1iwxD8CEC5J) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Anthems of Rebellion](https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7) | 2:12 |
 | 46 | [The Last Enemy](https://open.spotify.com/track/2PZLY7ybYMSzbk5WjKGF35) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Rise of the Tyrant](https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl) | 4:15 |
 
-Snapshot ID: `Mjg0MTE5MDAsMDAwMDAwMDA0MDNiNDA5MjEwMzlmNDNmOWUyMWJiZDUwNGEwNDZjOQ==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDA1MTQ3MjczNDdiZWE3Zjk5YjlmMzY4NzJhOGFmM2ZhZA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 
 > Apaga a luz e deixa rolar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,221 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,105 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 59 | [Irreal](https://open.spotify.com/track/0VotVMtQ7gMA7cMlGBfEcc) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [LUCA](https://open.spotify.com/artist/1DRzLtTsFTbnPTYgkTDRIi), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [Irreal](https://open.spotify.com/album/7wnQ2bHyKp92zJuGNepuGE) | 3:10 |
 | 60 | [Fala](https://open.spotify.com/track/2Cy32aNVzCoZqneuVNvIiw) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4), [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Contato](https://open.spotify.com/album/2vB6ge6OvcZwBCmFGRAVvL) | 3:13 |
 
-Snapshot ID: `MCwzM2Y2NWM1N2I1NzExOTUwMzY5ZTJiMWMyMDM0MjkwZDJjNjUwYzI4`
+Snapshot ID: `MCw0YTcwOWE1MzdmYzQ0NzMyMjlmZTVlYWQzZjY2MjA5MTY1OTI4MGRk`

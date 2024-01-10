@@ -1,29 +1,13 @@
 {
   "description": "We hear you.",
-  "num_followers": 1179137,
+  "num_followers": 1179279,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGQ4ZGI2OGIwZGM2ZjUyNjA5MGMyYjYzNDE4OTViYzQ1ZTU3NGEz",
+  "snapshot_id": "MCw2NjY2NTM3M2Q5MGEyMDEwOGI5NmUzZmFhZTc5MzI1NDc5MWIzYjYx",
   "tracks": [
-    {
-      "added_at": "2023-11-09 23:50:22",
-      "album": {
-        "name": "someday i'll get it",
-        "url": "https://open.spotify.com/album/2YXww1viuuKZPi458rdopk"
-      },
-      "artists": [
-        {
-          "name": "Alek Olsen",
-          "url": "https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8"
-        }
-      ],
-      "duration_ms": 94750,
-      "name": "someday i'll get it",
-      "url": "https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY"
-    },
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
@@ -55,6 +39,22 @@
       "duration_ms": 211000,
       "name": "Nothing's New",
       "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
+    },
+    {
+      "added_at": "2023-11-09 23:50:22",
+      "album": {
+        "name": "someday i'll get it",
+        "url": "https://open.spotify.com/album/2YXww1viuuKZPi458rdopk"
+      },
+      "artists": [
+        {
+          "name": "Alek Olsen",
+          "url": "https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8"
+        }
+      ],
+      "duration_ms": 94750,
+      "name": "someday i'll get it",
+      "url": "https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -153,28 +153,20 @@
       "url": "https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz"
     },
     {
-      "added_at": "2023-11-06 23:14:40",
+      "added_at": "2024-01-09 23:35:49",
       "album": {
-        "name": "Blanket",
-        "url": "https://open.spotify.com/album/7MbhBlacUYoWPZYUhsWLxK"
+        "name": "Fall out of Line",
+        "url": "https://open.spotify.com/album/0j9ER085qAs6Wd1P53hOGn"
       },
       "artists": [
         {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        },
-        {
-          "name": "Kara Jackson",
-          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
-        },
-        {
-          "name": "MJ Lenderman",
-          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+          "name": "He Is We",
+          "url": "https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU"
         }
       ],
-      "duration_ms": 210466,
-      "name": "My Friend (feat. Kara Jackson & MJ Lenderman)",
-      "url": "https://open.spotify.com/track/5khPTiW1Ufc5uXMEqOaOXP"
+      "duration_ms": 200059,
+      "name": "I Wouldn't Mind",
+      "url": "https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -339,22 +331,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "How To Kill A Rockstar",
-        "url": "https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6"
-      },
-      "artists": [
-        {
-          "name": "MASN",
-          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
-        }
-      ],
-      "duration_ms": 154756,
-      "name": "Hate Me!",
-      "url": "https://open.spotify.com/track/6jmf4OxSGzdgthZruXtcqu"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "I Just Wanna Feel Your Love Again",
         "url": "https://open.spotify.com/album/2wjAr1uxq8uRJaRfu2rDh7"
       },
@@ -367,6 +343,22 @@
       "duration_ms": 241166,
       "name": "I Just Wanna Feel Your Love Again",
       "url": "https://open.spotify.com/track/4JOjqoaUEMZ0SOAzaKUwDj"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "How To Kill A Rockstar",
+        "url": "https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6"
+      },
+      "artists": [
+        {
+          "name": "MASN",
+          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
+        }
+      ],
+      "duration_ms": 154756,
+      "name": "Hate Me!",
+      "url": "https://open.spotify.com/track/6jmf4OxSGzdgthZruXtcqu"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -635,22 +627,18 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "You Don't Want Me Anymore",
-        "url": "https://open.spotify.com/album/3fIR123EC4MJUYmPPAJ0Ss"
+        "name": "Hurting",
+        "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
       },
       "artists": [
         {
-          "name": "Sn\u00f8w",
-          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
-        },
-        {
-          "name": "Teqkoi",
-          "url": "https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD"
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
         }
       ],
-      "duration_ms": 165000,
-      "name": "You Don't Want Me Anymore",
-      "url": "https://open.spotify.com/track/0K4gxQ2u3545b0GAu85ObO"
+      "duration_ms": 200000,
+      "name": "I'm Always Here",
+      "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -671,18 +659,22 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Hurting",
-        "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
+        "name": "You Don't Want Me Anymore",
+        "url": "https://open.spotify.com/album/3fIR123EC4MJUYmPPAJ0Ss"
       },
       "artists": [
         {
-          "name": "sign crushes motorist",
-          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+          "name": "Sn\u00f8w",
+          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
+        },
+        {
+          "name": "Teqkoi",
+          "url": "https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD"
         }
       ],
-      "duration_ms": 200000,
-      "name": "I'm Always Here",
-      "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
+      "duration_ms": 165000,
+      "name": "You Don't Want Me Anymore",
+      "url": "https://open.spotify.com/track/0K4gxQ2u3545b0GAu85ObO"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1039,22 +1031,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Kenny",
-        "url": "https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 194133,
-      "name": "Kenny",
-      "url": "https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "willow",
         "url": "https://open.spotify.com/album/1rzYZ0KwitNrhFGd3cWOnv"
       },
@@ -1067,6 +1043,22 @@
       "duration_ms": 212119,
       "name": "willow",
       "url": "https://open.spotify.com/track/61qLoMpEncPR7n8Ibf8Bhh"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Kenny",
+        "url": "https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 194133,
+      "name": "Kenny",
+      "url": "https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1505,6 +1497,30 @@
       "url": "https://open.spotify.com/track/5YVuTCLDxjS8pORppZhNsf"
     },
     {
+      "added_at": "2023-11-06 23:14:40",
+      "album": {
+        "name": "Blanket",
+        "url": "https://open.spotify.com/album/7MbhBlacUYoWPZYUhsWLxK"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        },
+        {
+          "name": "Kara Jackson",
+          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
+        },
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "duration_ms": 210466,
+      "name": "My Friend (feat. Kara Jackson & MJ Lenderman)",
+      "url": "https://open.spotify.com/track/5khPTiW1Ufc5uXMEqOaOXP"
+    },
+    {
       "added_at": "2023-09-29 20:20:52",
       "album": {
         "name": "VERY ALONE",
@@ -1519,6 +1535,22 @@
       "duration_ms": 131146,
       "name": "VERY ALONE",
       "url": "https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "If I Showed You",
+        "url": "https://open.spotify.com/album/4qEq6hmy1zANkNRAEuRRku"
+      },
+      "artists": [
+        {
+          "name": "Henry Verus",
+          "url": "https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4"
+        }
+      ],
+      "duration_ms": 195467,
+      "name": "If I Showed You",
+      "url": "https://open.spotify.com/track/3orIMfSneqeHamYzH5xSjz"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1551,6 +1583,22 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/5DOU5HNaALZj7ErsuXHg29"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 161201,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/3ammZjwN6FtKFcnsoZn7de"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
         "name": "Slow Down",
         "url": "https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU"
       },
@@ -1563,38 +1611,6 @@
       "duration_ms": 202346,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/6nctEN4lXyz9KV7ujHaAKb"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "If I Showed You",
-        "url": "https://open.spotify.com/album/4qEq6hmy1zANkNRAEuRRku"
-      },
-      "artists": [
-        {
-          "name": "Henry Verus",
-          "url": "https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4"
-        }
-      ],
-      "duration_ms": 195467,
-      "name": "If I Showed You",
-      "url": "https://open.spotify.com/track/3orIMfSneqeHamYzH5xSjz"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "why didn't you call???",
-        "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
-      },
-      "artists": [
-        {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
-        }
-      ],
-      "duration_ms": 196734,
-      "name": "why didn't you call???",
-      "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1615,18 +1631,18 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Rage",
-        "url": "https://open.spotify.com/album/5DOU5HNaALZj7ErsuXHg29"
+        "name": "why didn't you call???",
+        "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
       },
       "artists": [
         {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
         }
       ],
-      "duration_ms": 161201,
-      "name": "Rage",
-      "url": "https://open.spotify.com/track/3ammZjwN6FtKFcnsoZn7de"
+      "duration_ms": 196734,
+      "name": "why didn't you call???",
+      "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1663,34 +1679,18 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Insane",
-        "url": "https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy"
+        "name": "Coming Clean",
+        "url": "https://open.spotify.com/album/3HYuk6rTzUcO1ZGya3vHwu"
       },
       "artists": [
         {
-          "name": "Sky McCreery",
-          "url": "https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh"
+          "name": "Brandon",
+          "url": "https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265"
         }
       ],
-      "duration_ms": 166389,
-      "name": "Insane",
-      "url": "https://open.spotify.com/track/3mLFCocZgUvih60frphM6l"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "Dark Corners and Alchemy",
-        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 153915,
-      "name": "princes of melancholia",
-      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
+      "duration_ms": 111710,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5jI88gmbKnva1Pak0ZZo1M"
     }
   ],
   "unique_name": "idk.",

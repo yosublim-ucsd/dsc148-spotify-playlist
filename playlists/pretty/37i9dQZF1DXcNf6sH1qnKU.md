@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 
 > Glimmering, warm, and bright memories: Broadcast on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,016 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,414 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 43 | [Tal Uno](https://open.spotify.com/track/3BPRUFOrl3IOOY8HpzRn4S) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Tal Uno](https://open.spotify.com/album/1xAniFMNAAkdXM8daxNBn2) | 4:27 |
 | 44 | [No\-One in the World](https://open.spotify.com/track/4eCgoHGTLuZshiHWitgAtT) | [Locust](https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N) | [Morning Light](https://open.spotify.com/album/3BcDdBU8cdW1iaBuWBQ9lk) | 6:41 |
 | 45 | [In Particular](https://open.spotify.com/track/4rz3AwWL2wbJoye11pbULz) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Melody of Certain Damaged Lemons](https://open.spotify.com/album/6wRDKCpKw3ap6dhkpdXNIN) | 6:05 |
-| 46 | [Come On Let's Go](https://open.spotify.com/track/0e3zNp2pKzbgzTGWMwnyKG) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Maida Vale Sessions](https://open.spotify.com/album/7dCYsWwOlURGcomJrgncEe) | 3:23 |
-| 47 | [You And Your Sister \- Remastered](https://open.spotify.com/track/6y234mJkt0DEh39NxZ4uZ6) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [Blood \(Remastered\)](https://open.spotify.com/album/1wHBJPXwl19a4xNgPaCDq9) | 3:14 |
+| 46 | [In Your Room](https://open.spotify.com/track/03vkICPhl5N7CFmasxCERG) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Winks & Kisses \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/4wuy28g2FFk40nEh52Rafy) | 9:26 |
+| 47 | [Come On Let's Go](https://open.spotify.com/track/0e3zNp2pKzbgzTGWMwnyKG) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Maida Vale Sessions](https://open.spotify.com/album/7dCYsWwOlURGcomJrgncEe) | 3:23 |
 | 48 | [Mesmerise](https://open.spotify.com/track/6bEbOvzviHrQEYjpuEvgje) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Best Of](https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE) | 4:12 |
 | 49 | [Nothing Natural](https://open.spotify.com/track/252uwichmLXhrtDY5GTLNi) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Spooky](https://open.spotify.com/album/5NSgxemDL3eSm79jFkqxuw) | 5:54 |
 | 50 | [23](https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy) | 5:18 |
 
-Snapshot ID: `MCwzMDJmYjk5OWY0ZTExNmM5ZDNjYzgxYjA2MzI1OTA3YTAyOTEyZWFk`
+Snapshot ID: `MCwzYzc0MWM3MTYyMWM5YTVhMWVkZmZjYzNmYjA3MDdjM2EzNzMyODc5`

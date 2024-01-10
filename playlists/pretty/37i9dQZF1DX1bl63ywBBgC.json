@@ -1,12 +1,12 @@
 {
   "description": "Aqu\u00ed le ponemos ritmo a las tareas del hogar.",
-  "num_followers": 256862,
+  "num_followers": 256905,
   "original_name": "\u00a1A Limpiar con Ritmo!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDhjNzNiYjFjNjRhOGY2YjEzYmVmZmQyOTgxMzc2NzQ0M2ViY2Yz",
+  "snapshot_id": "MCw2NWZkNGYzNTk5M2QyMDIyMjdkMzg3NTY5YzM0MDNjYmEyMjYwNzJk",
   "tracks": [
     {
       "added_at": "2023-08-29 12:57:27",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-08-29 12:57:27",
       "album": {
+        "name": "En Todo Estar\u00e9 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 225986,
+      "name": "Humanos a Marte",
+      "url": "https://open.spotify.com/track/7lOzUJzsELALh5FQsPKTEn"
+    },
+    {
+      "added_at": "2023-08-29 12:57:27",
+      "album": {
         "name": "Lo Mato",
         "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 328786,
       "name": "El D\u00eda De Mi Suerte",
       "url": "https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ"
-    },
-    {
-      "added_at": "2023-08-29 12:57:27",
-      "album": {
-        "name": "En Todo Estar\u00e9 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 225986,
-      "name": "Humanos a Marte",
-      "url": "https://open.spotify.com/track/7lOzUJzsELALh5FQsPKTEn"
     },
     {
       "added_at": "2023-08-29 12:57:27",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-08-29 12:57:27",
       "album": {
-        "name": "Pasi\u00f3n Y Cumbia",
-        "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
-      },
-      "artists": [
-        {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "Amor Regresa",
-      "url": "https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU"
-    },
-    {
-      "added_at": "2023-08-29 12:57:27",
-      "album": {
         "name": "Otra Vida",
         "url": "https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 190480,
       "name": "Mi Persona Favorita",
       "url": "https://open.spotify.com/track/70fVcEP5pRrxaIICY3DcPe"
+    },
+    {
+      "added_at": "2023-08-29 12:57:27",
+      "album": {
+        "name": "Pasi\u00f3n Y Cumbia",
+        "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "Amor Regresa",
+      "url": "https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU"
     },
     {
       "added_at": "2023-08-29 12:57:27",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-08-29 12:57:27",
       "album": {
-        "name": "La Magia Del Amor",
-        "url": "https://open.spotify.com/album/5a8Au4FTsdvCWYV5OnkjzN"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
-        }
-      ],
-      "duration_ms": 184920,
-      "name": "Amor Secreto",
-      "url": "https://open.spotify.com/track/3MFDQq6V7GW6OmhVWIyrHO"
-    },
-    {
-      "added_at": "2023-08-29 12:57:27",
-      "album": {
         "name": "Mejor Que Ayer",
         "url": "https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr"
       },
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2023-08-29 12:57:27",
       "album": {
+        "name": "La Magia Del Amor",
+        "url": "https://open.spotify.com/album/5a8Au4FTsdvCWYV5OnkjzN"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
+        }
+      ],
+      "duration_ms": 184920,
+      "name": "Amor Secreto",
+      "url": "https://open.spotify.com/track/3MFDQq6V7GW6OmhVWIyrHO"
+    },
+    {
+      "added_at": "2023-08-29 12:57:27",
+      "album": {
         "name": "Grandes Hits",
         "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
       },
@@ -1047,22 +1047,6 @@
       "duration_ms": 259440,
       "name": "Azul",
       "url": "https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH"
-    },
-    {
-      "added_at": "2023-08-29 12:57:27",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 307200,
-      "name": "Peque\u00f1as Cosas",
-      "url": "https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw"
     },
     {
       "added_at": "2023-08-29 12:57:27",
@@ -1099,6 +1083,22 @@
       "duration_ms": 234373,
       "name": "Pasos de cero",
       "url": "https://open.spotify.com/track/18mmN3VrFWRi6SsSBJf6WJ"
+    },
+    {
+      "added_at": "2023-08-29 12:57:27",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 307200,
+      "name": "Peque\u00f1as Cosas",
+      "url": "https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw"
     },
     {
       "added_at": "2023-08-29 12:57:27",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-08-29 12:57:27",
       "album": {
-        "name": "Lo Mejor de Banda Blanca - 16 Exitos",
-        "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
+        "name": "Baute",
+        "url": "https://open.spotify.com/album/6IPD0w0Nlo5JE0A54GQEMp"
       },
       "artists": [
         {
-          "name": "Banda Blanca",
-          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
         }
       ],
-      "duration_ms": 293906,
-      "name": "Sopa de Caracol",
-      "url": "https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7"
+      "duration_ms": 169720,
+      "name": "Te regalo",
+      "url": "https://open.spotify.com/track/0fmgOwkb9AwgzXhYVSZRDs"
     },
     {
       "added_at": "2023-08-29 12:57:27",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2023-08-29 12:57:27",
       "album": {
-        "name": "Baute",
-        "url": "https://open.spotify.com/album/6IPD0w0Nlo5JE0A54GQEMp"
+        "name": "Lo Mejor de Banda Blanca - 16 Exitos",
+        "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
       },
       "artists": [
         {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+          "name": "Banda Blanca",
+          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
         }
       ],
-      "duration_ms": 169720,
-      "name": "Te regalo",
-      "url": "https://open.spotify.com/track/0fmgOwkb9AwgzXhYVSZRDs"
+      "duration_ms": 293906,
+      "name": "Sopa de Caracol",
+      "url": "https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7"
     },
     {
       "added_at": "2023-08-29 12:57:27",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-08-29 12:57:27",
       "album": {
-        "name": "Un Segundo En El Tiempo",
-        "url": "https://open.spotify.com/album/2cdfwA47UN9VUx0Vnc6YNw"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 237866,
-      "name": "Es Mejor As\u00ed",
-      "url": "https://open.spotify.com/track/1LUIgyVglAOLb3AtA9ZgYb"
-    },
-    {
-      "added_at": "2023-08-29 12:57:27",
-      "album": {
         "name": "Celebrando a una Leyenda (En Vivo)",
         "url": "https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 195800,
       "name": "C\u00f3mo Te Extra\u00f1o Mi Amor (En Vivo) (feat. Rub\u00e9n Albarr\u00e1n)",
       "url": "https://open.spotify.com/track/4KTSH9v9nm4e2oiXa699aC"
+    },
+    {
+      "added_at": "2023-08-29 12:57:27",
+      "album": {
+        "name": "Un Segundo En El Tiempo",
+        "url": "https://open.spotify.com/album/2cdfwA47UN9VUx0Vnc6YNw"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 237866,
+      "name": "Es Mejor As\u00ed",
+      "url": "https://open.spotify.com/track/1LUIgyVglAOLb3AtA9ZgYb"
     }
   ],
   "unique_name": "\u00a1A Limpiar con Ritmo!",

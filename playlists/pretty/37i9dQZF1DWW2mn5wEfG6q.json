@@ -1,12 +1,12 @@
 {
   "description": "2013 highlights from the home of indie music. Cover: HAIM ",
-  "num_followers": 70607,
+  "num_followers": 70669,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGU2ZGQ5YTYyNGZkMTgyYjU2NWYwYWIyNTNhZGVlYzE5MjU3ODQy",
+  "snapshot_id": "MCwyNGE0OWJjN2IyYmEwYTM4YmFmM2Y5ZDMwYzhiOWUxMTQ4MTFiOGFi",
   "tracks": [
     {
       "added_at": "2023-03-29 13:55:12",
@@ -703,22 +703,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Muchacho",
-        "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
-      },
-      "artists": [
-        {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
-        }
-      ],
-      "duration_ms": 370200,
-      "name": "Song for Zula",
-      "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "2.0",
         "url": "https://open.spotify.com/album/3a8kwdfe4ctEfqe1vXGiBP"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 280426,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/2PeKCn8NSGQXAHONaCh3wB"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Muchacho",
+        "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "duration_ms": 370200,
+      "name": "Song for Zula",
+      "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Trouble Will Find Me",
-        "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 285533,
-      "name": "Don't Swallow the Cap",
-      "url": "https://open.spotify.com/track/3l3SbRkrK1aQ5Dk1h7vroV"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "II (10 Year Anniversary Edition)",
         "url": "https://open.spotify.com/album/1boMSpoKkFe901QZaU7Gb3"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 165226,
       "name": "Swim and Sleep (Like a Shark)",
       "url": "https://open.spotify.com/track/265ehI4I7NfR8PmAXdpspn"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Trouble Will Find Me",
+        "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 285533,
+      "name": "Don't Swallow the Cap",
+      "url": "https://open.spotify.com/track/3l3SbRkrK1aQ5Dk1h7vroV"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Trouble Will Find Me",
-        "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 248043,
-      "name": "I Should Live in Salt",
-      "url": "https://open.spotify.com/track/4kFmM894Q4sgHDl4pZalza"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "The Double EP: A Sea of Split Peas",
         "url": "https://open.spotify.com/album/5lUc4iyCvw8DxpZa4Fryej"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 312226,
       "name": "Avant Gardener",
       "url": "https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Trouble Will Find Me",
+        "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 248043,
+      "name": "I Should Live in Salt",
+      "url": "https://open.spotify.com/track/4kFmM894Q4sgHDl4pZalza"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Holy Fire",
-        "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 292546,
-      "name": "Inhaler",
-      "url": "https://open.spotify.com/track/4Wics9qaNdLtzfZOwl2mdw"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "More Than Just a Dream",
         "url": "https://open.spotify.com/album/6yhvsasMsZ1ZMuTk8qIHx0"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 233133,
       "name": "The Walker",
       "url": "https://open.spotify.com/track/46EOWTszdIfllYY4o6rjkY"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Holy Fire",
+        "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 292546,
+      "name": "Inhaler",
+      "url": "https://open.spotify.com/track/4Wics9qaNdLtzfZOwl2mdw"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Lost In The Dream",
-        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
+        "name": "6 Feet Beneath The Moon",
+        "url": "https://open.spotify.com/album/6uvdXVgHsioxRIo0cFnkD7"
       },
       "artists": [
         {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
         }
       ],
-      "duration_ms": 431746,
-      "name": "An Ocean In Between The Waves",
-      "url": "https://open.spotify.com/track/78uf7QYfexQ1sggf2fsKzg"
+      "duration_ms": 215506,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/6Ko6VLnveSju6IZiwONLTt"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "6 Feet Beneath The Moon",
-        "url": "https://open.spotify.com/album/6uvdXVgHsioxRIo0cFnkD7"
-      },
-      "artists": [
-        {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "Baby Blue",
-      "url": "https://open.spotify.com/track/6Ko6VLnveSju6IZiwONLTt"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Trouble Will Find Me",
         "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 283386,
       "name": "This is the Last Time",
       "url": "https://open.spotify.com/track/70ZuQywnmOpqcIiEnUA5yV"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Lost In The Dream",
+        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 431746,
+      "name": "An Ocean In Between The Waves",
+      "url": "https://open.spotify.com/track/78uf7QYfexQ1sggf2fsKzg"
     },
     {
       "added_at": "2021-09-02 08:24:19",

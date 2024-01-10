@@ -1,12 +1,12 @@
 {
   "description": "These early pioneers brought the underground to the foreground. Cover: Lou Reed. ",
-  "num_followers": 1224306,
+  "num_followers": 1224260,
   "original_name": "Early Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2ViNjI2ZWE5MTNkNGZjOTdmMjBjMjExYWE5MzU3ZTgwYjcwYWUy",
+  "snapshot_id": "MCw2ZWNjZjdjZWE5Nzg0ODczNDNkNGRlNjJlZDhiNGNmOTQ0OGQ3YTQ1",
   "tracks": [
     {
       "added_at": "2023-03-14 21:51:39",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-03-14 21:51:39",
       "album": {
-        "name": "Road to Ruin (40th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 149786,
-      "name": "I Wanna Be Sedated",
-      "url": "https://open.spotify.com/track/5NoQvINZLBV1wMYPdNmReL"
-    },
-    {
-      "added_at": "2023-03-14 21:51:39",
-      "album": {
         "name": "The Cars",
         "url": "https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 225626,
       "name": "Just What I Needed",
       "url": "https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN"
+    },
+    {
+      "added_at": "2023-03-14 21:51:39",
+      "album": {
+        "name": "Road to Ruin (40th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 149786,
+      "name": "I Wanna Be Sedated",
+      "url": "https://open.spotify.com/track/5NoQvINZLBV1wMYPdNmReL"
     },
     {
       "added_at": "2023-03-14 21:51:39",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-03-14 21:51:39",
       "album": {
-        "name": "Remain in Light (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 259906,
-      "name": "Once in a Lifetime - 2005 Remaster",
-      "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
-    },
-    {
-      "added_at": "2023-03-14 21:51:39",
-      "album": {
         "name": "Kissing To Be Clever",
         "url": "https://open.spotify.com/album/4y1hBzoffx9DaGXbObeC2w"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 262173,
       "name": "Do You Really Want To Hurt Me",
       "url": "https://open.spotify.com/track/1I6q6nwNjNgik1Qe8Oi0Y7"
+    },
+    {
+      "added_at": "2023-03-14 21:51:39",
+      "album": {
+        "name": "Remain in Light (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 259906,
+      "name": "Once in a Lifetime - 2005 Remaster",
+      "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
     },
     {
       "added_at": "2023-03-14 21:51:39",

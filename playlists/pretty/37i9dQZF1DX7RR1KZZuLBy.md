@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,180 likes - 50 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,217 likes - 50 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 36 | [You Know My Name](https://open.spotify.com/track/0Dlm41iXvTsIVsEOce3yX6) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 8:00 |
 | 37 | [Be Okay](https://open.spotify.com/track/717CKNCKUdDL17beOjQQEi) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:28 |
 | 38 | [Shelter](https://open.spotify.com/track/2i46KYvDeKGU0Gsc9WEV5C) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Shelter](https://open.spotify.com/album/47SqVj3WMJg7IubtrVGopx) | 4:12 |
-| 39 | [Joy in Chaos](https://open.spotify.com/track/1HDMh5q6NQAYlos9fFLmOB) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j) | [Joy in Chaos](https://open.spotify.com/album/7x1iXdhcoN8Aw9pE15Ajvp) | 1:10 |
-| 40 | [Nothing Else \- Live](https://open.spotify.com/track/74uc1GXUF00V6jLTGS2iNF) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Nothing Else \(Live\)](https://open.spotify.com/album/4xwb0ucs1i5ywq5UNoNAOP) | 8:46 |
+| 39 | [Nothing Else \- Live](https://open.spotify.com/track/74uc1GXUF00V6jLTGS2iNF) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Nothing Else \(Live\)](https://open.spotify.com/album/4xwb0ucs1i5ywq5UNoNAOP) | 8:46 |
+| 40 | [Joy in Chaos](https://open.spotify.com/track/1HDMh5q6NQAYlos9fFLmOB) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j) | [Joy in Chaos](https://open.spotify.com/album/7x1iXdhcoN8Aw9pE15Ajvp) | 1:10 |
 | 41 | [For Your Glory \- Live](https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:46 |
 | 42 | [I Need You Now](https://open.spotify.com/track/44q2DhInsQYJ8X1q2H1RNj) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [I Need You Now](https://open.spotify.com/album/5vjrbEc6Kpn67oHShGgBJF) | 4:11 |
 | 43 | [Good Plans / Doxology](https://open.spotify.com/track/10Akq9wk9NP2IyiwiaDHWU) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Good Plans / Doxology](https://open.spotify.com/album/7dAjZUwVmP9kzsyvpBbHMH) | 8:15 |
 | 44 | [In Christ Alone](https://open.spotify.com/track/6oS15LyQtAwYsRL7usnT2M) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Seasons](https://open.spotify.com/album/0N7E7ssTnuxjKorNihxEXe) | 4:08 |
 | 45 | [Firm Foundation \(He Won’t\) \- Live](https://open.spotify.com/track/2HdibfM50khhtRTeKI0FkK) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Firm Foundation \(Live\)](https://open.spotify.com/album/7JItqwtqscE2BMoRPIJj4l) | 6:20 |
-| 46 | [Can't Give Up Now](https://open.spotify.com/track/5xxnE0Nm5v3L9tekNEWpCg) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Thankful](https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP) | 4:57 |
-| 47 | [Simple Matter](https://open.spotify.com/track/19TiECi9uhu3vRj2XAQrq5) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH) | [Strike The Ground](https://open.spotify.com/album/2EZnBhenVIfsfTjhhrbWjs) | 5:17 |
+| 46 | [Simple Matter](https://open.spotify.com/track/19TiECi9uhu3vRj2XAQrq5) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH) | [Strike The Ground](https://open.spotify.com/album/2EZnBhenVIfsfTjhhrbWjs) | 5:17 |
+| 47 | [Can't Give Up Now](https://open.spotify.com/track/5xxnE0Nm5v3L9tekNEWpCg) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Thankful](https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP) | 4:57 |
 | 48 | [Yesu Wena UnguMhlobo \- Live](https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 23 \- Live at the CTICC Cape Town](https://open.spotify.com/album/4opHAaQZPtP5nMZacYfZtj) | 5:49 |
 | 49 | [Worthy](https://open.spotify.com/track/6Xe3RfCgLzYCtJDft54wFt) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [How To Start A Housefire \(Pt\. III\)](https://open.spotify.com/album/43KFGs97OB7Mgyx0Gbmie8) | 6:55 |
 | 50 | [My Matter](https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [My Matter](https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF) | 2:53 |
 
-Snapshot ID: `MCw0ZGU4N2Y3ZDEwMzU0MTFhYTkxYTJmODM0ZmMxYjNhMmVkOTIyNWI2`
+Snapshot ID: `MCxjZWY4ZjI4MjMwZjgwOWVmOWNmOWEyYjY0OWIwYmFlNDdlYTVlNjBj`

@@ -5066,10 +5066,28 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 168289,
       "name": "What Makes You Beautiful",
       "url": "https://open.spotify.com/track/1H42VdCQ97or9QjnH5tlXf"
+    },
+    {
+      "album": {
+        "name": "What Makes You Beautiful",
+        "url": "https://open.spotify.com/album/5TEUGJdUEUeRbjxOwO44s7"
+      },
+      "artists": [
+        {
+          "name": "John Buckley",
+          "url": "https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168289,
+      "name": "What Makes You Beautiful",
+      "url": "https://open.spotify.com/track/4ExpBFkBgqT7Uexuwo0lU4"
     },
     {
       "album": {

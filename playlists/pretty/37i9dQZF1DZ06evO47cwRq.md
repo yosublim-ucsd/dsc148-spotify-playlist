@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47cwRq.md) - [plain]
 
 > This is Linkin Park\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,577,441 likes - 49 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,576,640 likes - 49 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47cwRq.md) - [plain]
 | 34 | [IN MY REMAINS](https://open.spotify.com/track/00KfIFi2TpAaQGPbRbFbKJ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [LIVING THINGS](https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI) | 3:20 |
 | 35 | [No More Sorrow](https://open.spotify.com/track/4CWhc9FaMMfBTt4ANjfbOf) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 3:41 |
 | 36 | [Talking to Myself](https://open.spotify.com/track/7nAfXgeHfDO50upcOjJOaq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 3:51 |
-| 37 | [Across the Line](https://open.spotify.com/track/4dbveKUpOx62SiwXQCALQH) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight \(Deluxe Edition\)](https://open.spotify.com/album/4JtIVJRA342O0YoAchen5Q) | 3:10 |
-| 38 | [A LIGHT THAT NEVER COMES](https://open.spotify.com/track/3BnBKNItMng824sLx0pUfy) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [RECHARGED](https://open.spotify.com/album/2FUsvD1bw53HGOjAg56vRD) | 3:49 |
+| 37 | [A LIGHT THAT NEVER COMES](https://open.spotify.com/track/3BnBKNItMng824sLx0pUfy) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [RECHARGED](https://open.spotify.com/album/2FUsvD1bw53HGOjAg56vRD) | 3:49 |
+| 38 | [Across the Line](https://open.spotify.com/track/4dbveKUpOx62SiwXQCALQH) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight \(Deluxe Edition\)](https://open.spotify.com/album/4JtIVJRA342O0YoAchen5Q) | 3:10 |
 | 39 | [The Catalyst](https://open.spotify.com/track/5bvgRxco3jgSZ3SP8rueDA) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns](https://open.spotify.com/album/5uvXx5ZQswNRFCdHR521YZ) | 5:39 |
 | 40 | [Good Goodbye \(feat\. Pusha T and Stormzy\)](https://open.spotify.com/track/650OeHTLxZAQmb4aEbGmaA) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 3:31 |
 | 41 | [POWERLESS](https://open.spotify.com/track/4zNk347FJz4yDDcjUhJJMI) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [LIVING THINGS](https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI) | 3:44 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47cwRq.md) - [plain]
 | 48 | [The Messenger](https://open.spotify.com/track/0pQZMrYNcfwZbt2Zt0pjaA) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns](https://open.spotify.com/album/5uvXx5ZQswNRFCdHR521YZ) | 3:01 |
 | 49 | [Massive](https://open.spotify.com/track/3NvAcUYxfyZhW2ALOGknXB) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora 20th Anniversary Edition](https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz) | 3:08 |
 
-Snapshot ID: `Mjg0MTE5MDAsMDAwMDAwMDBiZjc1NDI4YjNlMWY4OTY5OTcyZGFmODE5YzBkZjI5Mw==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDBhYmExODMxMjMyYjAwOWQ3MTVjMzljMTJkMjE0MGU4ZQ==`

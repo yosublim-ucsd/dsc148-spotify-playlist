@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-538 songs - 23 hr 21 min
+542 songs - 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Before and After](https://open.spotify.com/track/1qdF4ws4FoTuQ9ojY4vQOg) | [Hector Hellström](https://open.spotify.com/artist/0l6NEToAlJUoZTzaYJPRZr) | [Before and After](https://open.spotify.com/album/3s7nEIScJqXvt99fB5kMGR) | 2:19 | 2023-02-20 |  |
 | [Before You Go](https://open.spotify.com/track/10DoO2uACXfXrRvlqSTHTW) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Before You Go](https://open.spotify.com/album/721aCDC1xBZMqHhNR8Ore6) | 2:31 | 2023-11-20 |  |
 | [Before your eyes](https://open.spotify.com/track/4xugZez7zpHFNTgkf0DLV1) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Before your eyes](https://open.spotify.com/album/0o9d8yy6sU4pkrwu06Y84t) | 3:00 | 2022-04-22 |  |
+| [Between The Lines](https://open.spotify.com/track/3iOfZpOsRAwvGq8dXlrdvD) | [Catherine Peterson](https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV) | [Between The Lines](https://open.spotify.com/album/2bhOKZGovHAF8lgooiiG4h) | 2:59 | 2024-01-09 |  |
 | [Beyond The Words](https://open.spotify.com/track/2rcjEdhxMASzFKFMLE0VyK) | [Phoebe Waits](https://open.spotify.com/artist/57E9IfMja5EiaW6JlxxPfF) | [Beyond The Words](https://open.spotify.com/album/2IXXs0F9tteFAxo2M1qUGh) | 2:32 | 2022-04-22 | 2023-08-08 |
 | [Bienveillant](https://open.spotify.com/track/0RFePvTBDtrlnhopyDRS73) | [Edie Chastain](https://open.spotify.com/artist/1Vzm8Hkynchj9tII4nklKk) | [Bienveillant](https://open.spotify.com/album/49FTA4izcTj5bCtLcDg3Cr) | 1:57 | 2022-04-22 | 2023-08-15 |
 | [Blåregn](https://open.spotify.com/track/3a2fZ1oqZMDnjFI5ANACiz) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Blåregn](https://open.spotify.com/album/3d2SCTUaH6LJLEz1uXmDKT) | 2:40 | 2022-04-22 | 2022-09-16 |
@@ -218,6 +219,7 @@
 | [Just a Thought](https://open.spotify.com/track/0yoaGTIVmywSYedV1YsIhG) | [Victor Kovacs](https://open.spotify.com/artist/5JF3HMNudSKqJDkgCOzULV) | [Just a Thought](https://open.spotify.com/album/2ThuoXpPbWohcnLD3na9SP) | 2:34 | 2022-04-22 | 2022-07-28 |
 | [Keepsakes](https://open.spotify.com/track/6KH1ipvlKEfafZOSXR5nwm) | [Lennon McKenna](https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i) | [Keepsakes](https://open.spotify.com/album/0VOvPEYdsYbzHwrLabGK8E) | 2:46 | 2023-02-07 | 2023-08-15 |
 | [Kiruna](https://open.spotify.com/track/7FIIDU8NgQSsVPPZOQa3Hu) | [Sverker Johansson](https://open.spotify.com/artist/01Enhg7P7vObcpQjxL2Lrj) | [Kiruna](https://open.spotify.com/album/1YVlg8DLYswEs5oCdm57IU) | 2:39 | 2022-05-27 |  |
+| [Kragerø](https://open.spotify.com/track/7nPNz869TJHvmEgJjH4290) | [Halgeir Nielsen](https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh) | [Kragerø](https://open.spotify.com/album/5TkRRcAfYAsDBCKo3kUMpx) | 2:22 | 2024-01-09 |  |
 | [Kveld](https://open.spotify.com/track/4qoa4ULtvmDz6JjGdiPqj0) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Kveld](https://open.spotify.com/album/0n6oSeXcZOyfdmdnnfm0xl) | 2:00 | 2022-04-22 | 2023-05-10 |
 | [Lady Ground](https://open.spotify.com/track/7f6YYO3XtJgWiddeVqnhI0) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Lady Ground](https://open.spotify.com/album/2yFKE5lcraojoSTsV7Jl0a) | 2:54 | 2022-04-22 |  |
 | [Laetitia](https://open.spotify.com/track/39e67SWLFobtjgr1S10iYE) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Laetitia](https://open.spotify.com/album/2MeED0qq5A14TCiVU2UNdn) | 1:57 | 2022-04-22 | 2023-08-15 |
@@ -478,6 +480,7 @@
 | [The Water Floats](https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [The Water Floats](https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8) | 2:19 | 2022-04-22 |  |
 | [Thinking Back](https://open.spotify.com/track/2EnuM63zw10S0dKTbvDmhk) | [EON NOIRE](https://open.spotify.com/artist/6przkhYGYq12sivsheKQ6I) | [Mind Flow](https://open.spotify.com/album/0XeqcbOgWxwY3cYk7MFF1H) | 3:03 | 2022-04-22 | 2023-05-04 |
 | [This Tender Appeal](https://open.spotify.com/track/3RI7rnK1YgmyRcXq9pkMqQ) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [This Tender Appeal](https://open.spotify.com/album/6mXWQfXOEZCFfEcYwC74qH) | 2:48 | 2023-03-28 |  |
+| [Three Small Steps](https://open.spotify.com/track/7pYPoG1pds3ZaoZt5tVGe6) | [Flore Habendum](https://open.spotify.com/artist/3CdIKTNMspWKu4RFaWPihl) | [Three Small Steps](https://open.spotify.com/album/71PNbuZGjoFXdjJ818Nv8q) | 3:03 | 2024-01-09 |  |
 | [Three Stories It Must Tell](https://open.spotify.com/track/6v7RGlk2l85VOzePfWmF8r) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Three Stories It Must Tell](https://open.spotify.com/album/1U6dHxjR6eccCUtEfDAwhk) | 2:21 | 2023-02-27 |  |
 | [Tient qu'à un fil](https://open.spotify.com/track/1DXbUPygEVCQXOOOO9bIhO) | [Gaspar Parentau](https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ) | [Tient qu'à un fil](https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr) | 2:47 | 2022-04-22 |  |
 | [Time Flies](https://open.spotify.com/track/3OuSwVoqxlaKO3MfcigSNp) | [Pieter de Graaf](https://open.spotify.com/artist/387mxb1p13O8OdJ6r8pc2q) | [Time Flies](https://open.spotify.com/album/4ZIeIq1iDLLKfOIZ0yswpf) | 3:13 | 2022-04-22 |  |
@@ -503,6 +506,7 @@
 | [Une histoire d’amour](https://open.spotify.com/track/1RfSykRvuEDqTUimaVE64E) | [Cedric Moulin](https://open.spotify.com/artist/5igteH2LK1oMa7KinT2Qx3) | [Une histoire d’amour](https://open.spotify.com/album/4CclbwG6Y1a0Fm7Kbe5K1l) | 2:32 | 2022-04-22 |  |
 | [Unfinished Letter](https://open.spotify.com/track/5qjp7GhgW7HW0fy5JXRs3l) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Unfinished Letter](https://open.spotify.com/album/2UvacRcaEAPlFOUuPBB2Vq) | 1:50 | 2023-07-03 | 2023-08-15 |
 | [unkai](https://open.spotify.com/track/26Sfu4rZ10IU9R5u3erN00) | [Klaüs](https://open.spotify.com/artist/3252lQrYqRgAFw2xXuNdVZ) | [unkai](https://open.spotify.com/album/7ujkaYYK3zTOSpovl6piTa) | 2:21 | 2022-09-15 |  |
+| [Up among the clouds](https://open.spotify.com/track/7ppmjph9tkq0RGY7K1zRhB) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [Up among the clouds](https://open.spotify.com/album/4rdJiuuaoCFT6VY7Uz5GFf) | 2:14 | 2024-01-09 |  |
 | [Valencia](https://open.spotify.com/track/0lyxuER9HktBcYRwpaasqs) | [Gaspar Becerra](https://open.spotify.com/artist/11Bp9FCzawV5M3HV54FRCj) | [Valencia](https://open.spotify.com/album/5EblH0XOm0QKeOEeypwONP) | 2:54 | 2023-10-09 |  |
 | [Včeraj](https://open.spotify.com/track/6o71Foef4Jf2LMFnHuvQo4) | [Zemfira Mironova](https://open.spotify.com/artist/7HdmWISDuEN6CX1zXXaK8H) | [Včeraj](https://open.spotify.com/album/5gR375qQkGA51v1fB4euT9) | 2:05 | 2022-04-22 | 2022-07-28 |
 | [velvet void](https://open.spotify.com/track/3wEBkJFS7AngSwHAEcrkFb) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [velvet void](https://open.spotify.com/album/2mDvDFwJV8FnrR6eq1Hm5e) | 2:28 | 2023-07-03 |  |

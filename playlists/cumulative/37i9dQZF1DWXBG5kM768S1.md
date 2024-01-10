@@ -4,7 +4,7 @@
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-227 songs - 14 hr 30 min
+228 songs - 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Brenner overalt](https://open.spotify.com/track/38okmcjwEQKPa6qQLC16NW) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Brenner overalt](https://open.spotify.com/album/2tvHKfP5GG5mpPwaNhvM0D) | 4:04 | 2021-12-16 | 2022-06-10 |
 | [Bror](https://open.spotify.com/track/5TWg0DczP5O3aJyVyD0mlh) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Bror](https://open.spotify.com/album/3Md4sOQ6TuqSouOgzIqcVP) | 3:13 | 2021-12-16 | 2022-07-29 |
 | [Bror](https://open.spotify.com/track/1585fzVgMIK5BzPXA5a2iS) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Hjarteskjell](https://open.spotify.com/album/5LrKrBAJdrfrqdv6kFnugC) | 3:15 | 2022-10-06 | 2023-05-02 |
-| [Bror](https://open.spotify.com/track/1vnOWt0MAEkZGCOzD2snSA) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Bror](https://open.spotify.com/album/2hGjZ58iJaDiV8EAX2oxsI) | 3:14 | 2023-01-12 |  |
+| [Bror](https://open.spotify.com/track/1vnOWt0MAEkZGCOzD2snSA) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Bror](https://open.spotify.com/album/2hGjZ58iJaDiV8EAX2oxsI) | 3:14 | 2023-01-12 | 2024-01-10 |
 | [Bru over mørke bølger](https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Bru over mørke bølger](https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4) | 4:59 | 2021-12-16 |  |
 | [Bråtebrann](https://open.spotify.com/track/2dzVpK8VpDFO9icFxoOMBr) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann](https://open.spotify.com/album/6DMFNBhXpJOPFpa6KqT6CF) | 2:28 | 2022-03-23 | 2022-04-20 |
 | [Club 7](https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Club 7](https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw) | 4:20 | 2023-03-30 | 2023-12-27 |
@@ -209,6 +209,7 @@
 | [Tilbake i det blå](https://open.spotify.com/track/2KI1LvPIvQlxUT6QXmiQPq) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm) | [Tilbake i det blå](https://open.spotify.com/album/4Z0Ur6cqPOeRylQNRjXZIT) | 5:16 | 2023-04-20 | 2023-05-26 |
 | [Ting er som de er](https://open.spotify.com/track/2gfDYYhGLTEIY2oD9ZJXed) | [Henning Kvitnes](https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6) | [Ting er som de er](https://open.spotify.com/album/2FrtdxsSn21OUAOvo9I7TK) | 3:55 | 2022-05-12 | 2022-07-20 |
 | [Tir n'a Noir](https://open.spotify.com/track/34OsKR8YdiZol46Ny1bjjA) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk), [Rita Eriksen](https://open.spotify.com/artist/2lkUWx6myyrFf2KOAAD1da) | [Godmorgen, søster](https://open.spotify.com/album/2io6ZizFfn0SkBpw1oRa4G) | 4:30 | 2021-12-16 |  |
+| [To over tolv](https://open.spotify.com/track/4UJssXJzy7oUAkPz0A0R1R) | [Frida Ånnevik](https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2) | [To over tolv](https://open.spotify.com/album/4GTkEgihqBor6a1tLBLWXM) | 4:55 | 2024-01-04 |  |
 | [Togsang](https://open.spotify.com/track/5qSJ6zAlnBXmIQc8vBE72R) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Kæm va du?](https://open.spotify.com/album/1AQXVLdZSRPpt1HviBevmZ) | 2:59 | 2022-03-23 | 2023-02-01 |
 | [Tre pakker sigaretter](https://open.spotify.com/track/4IrUGDg2xUSyp5r2I5eJZv) | [Karoline Krüger](https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Tre Pakker Sigaretter](https://open.spotify.com/album/7C4j0qTmR7bSpn2uebJmjj) | 3:13 | 2023-01-26 | 2023-05-24 |
 | [Trenger deg](https://open.spotify.com/track/5W8zfT3Y2KushWkYemWKvt) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Sanger du skal få når vi er vektløse](https://open.spotify.com/album/3w3etFROeWCKBeeBIN229z) | 4:13 | 2022-02-17 | 2022-04-21 |

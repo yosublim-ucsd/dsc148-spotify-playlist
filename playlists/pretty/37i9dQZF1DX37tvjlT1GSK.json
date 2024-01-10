@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Virl\u00e1n Garc\u00eda, Gabriel Ssoe en portada. ",
-  "num_followers": 743909,
+  "num_followers": 742710,
   "original_name": "Sierre\u00f1o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTE0ZmY3ZTBlOWQ5YjY1NWM2MTc2NTZjZjBiNTllMDA1MWUwODNk",
+  "snapshot_id": "MCxkNWNhMzA4MzdjNDllYmUxZmQzZDlmZTAxZTUxNDczNzVlZmNlYTY4",
   "tracks": [
     {
       "added_at": "2023-12-22 06:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
+        "name": "En Vivo desde El Foro Lizos Music",
+        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 152186,
+      "name": "Es Que Me Gustas - En Vivo",
+      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
         "name": "T\u00fa Me Gustas",
         "url": "https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 206956,
       "name": "T\u00fa Me Gustas",
       "url": "https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
-        "name": "En Vivo desde El Foro Lizos Music",
-        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 152186,
-      "name": "Es Que Me Gustas - En Vivo",
-      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "Ya Aprend\u00ed la Lecci\u00f3n",
-        "url": "https://open.spotify.com/album/4mruyGpiOW9uR1nqyE3xoE"
-      },
-      "artists": [
-        {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
-        }
-      ],
-      "duration_ms": 208541,
-      "name": "El Final de Nuestra Historia",
-      "url": "https://open.spotify.com/track/4dGfHOm1BZjV6LdC1ufJtY"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
         "name": "Parque de Diversiones",
         "url": "https://open.spotify.com/album/139h5UsommAbalxqYcSD4h"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 209358,
       "name": "Te Lo Dije",
       "url": "https://open.spotify.com/track/6ZRMDvbAqmkngX6M7EnfjY"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
+        "name": "Ya Aprend\u00ed la Lecci\u00f3n",
+        "url": "https://open.spotify.com/album/4mruyGpiOW9uR1nqyE3xoE"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "duration_ms": 208541,
+      "name": "El Final de Nuestra Historia",
+      "url": "https://open.spotify.com/track/4dGfHOm1BZjV6LdC1ufJtY"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "Dinero F\u00e1cil",
-        "url": "https://open.spotify.com/album/42WWFPXfmtFFMLmdEeYEFZ"
-      },
-      "artists": [
-        {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
-        }
-      ],
-      "duration_ms": 224442,
-      "name": "Quiero Llorar y No Puedo",
-      "url": "https://open.spotify.com/track/3ezRmGfcXnuEA4ryylr6Jk"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
         "name": "Sanar\u00e9",
         "url": "https://open.spotify.com/album/4oFd2PuZH8JemEU6PkVHri"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 141310,
       "name": "Sanar\u00e9",
       "url": "https://open.spotify.com/track/2PsTpCnM7WaPLLqV8kNdVf"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
+        "name": "Dinero F\u00e1cil",
+        "url": "https://open.spotify.com/album/42WWFPXfmtFFMLmdEeYEFZ"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "duration_ms": 224442,
+      "name": "Quiero Llorar y No Puedo",
+      "url": "https://open.spotify.com/track/3ezRmGfcXnuEA4ryylr6Jk"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "D\u00e9jenla Que Sea Feliz",
-        "url": "https://open.spotify.com/album/0lFXVyddx801x6GVdtxBF3"
-      },
-      "artists": [
-        {
-          "name": "Chacho Y Su Vagancia",
-          "url": "https://open.spotify.com/artist/4Amw1TvsWkH2pWxZHF8pk6"
-        }
-      ],
-      "duration_ms": 175677,
-      "name": "D\u00e9jenla Que Sea Feliz",
-      "url": "https://open.spotify.com/track/0Js77UpzQj50fJLYvEVUXH"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
         "name": "Perro Abandonado",
         "url": "https://open.spotify.com/album/36l93OeIGI6bU9VmET5DlI"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 211198,
       "name": "Perro Abandonado",
       "url": "https://open.spotify.com/track/2Xibft7dpTSCS9EQk5mQs0"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
+        "name": "D\u00e9jenla Que Sea Feliz",
+        "url": "https://open.spotify.com/album/0lFXVyddx801x6GVdtxBF3"
+      },
+      "artists": [
+        {
+          "name": "Chacho Y Su Vagancia",
+          "url": "https://open.spotify.com/artist/4Amw1TvsWkH2pWxZHF8pk6"
+        }
+      ],
+      "duration_ms": 175677,
+      "name": "D\u00e9jenla Que Sea Feliz",
+      "url": "https://open.spotify.com/track/0Js77UpzQj50fJLYvEVUXH"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "Julian Mercado Desde la Hacienda Escondida Vol. 2",
-        "url": "https://open.spotify.com/album/4a14DDe9xZNhfCsRE3XXPx"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00e1n Mercado",
-          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
-        }
-      ],
-      "duration_ms": 177191,
-      "name": "Arturo El Rey",
-      "url": "https://open.spotify.com/track/3qEkjV56h6zI7aV0VEFSB0"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
         "name": "Mi Todo",
         "url": "https://open.spotify.com/album/0zpk19f8Rp6hb1YGjOMVX9"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 241704,
       "name": "Mi Todo",
       "url": "https://open.spotify.com/track/4PJPDW3jEL4VNAfICxaEVm"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
+        "name": "Julian Mercado Desde la Hacienda Escondida Vol. 2",
+        "url": "https://open.spotify.com/album/4a14DDe9xZNhfCsRE3XXPx"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Mercado",
+          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
+        }
+      ],
+      "duration_ms": 177191,
+      "name": "Arturo El Rey",
+      "url": "https://open.spotify.com/track/3qEkjV56h6zI7aV0VEFSB0"
     },
     {
       "added_at": "2023-12-22 06:00:00",

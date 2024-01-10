@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: FRANKIEONTHEGUITAR, Diogo Piçarra e Van Zee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,367 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,382 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 30 | [Placas](https://open.spotify.com/track/79jG5WlRWMQbp0JeQO9r6K) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Placas](https://open.spotify.com/album/0pTCFWtiniY7Mi4nQpFVvn) | 3:32 |
 | 31 | [So Flawless](https://open.spotify.com/track/1plyo1KCOcXS92FItfyXMx) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Yuri NR5](https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 3:15 |
 | 32 | [Saudade](https://open.spotify.com/track/0dLrhO7oCMp0hQvXAUgbaC) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Reflexo](https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU) | 5:06 |
-| 33 | [00 Fala Bonito](https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [00 Fala Bonito](https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv) | 3:32 |
+| 33 | [Brutos Diamantes](https://open.spotify.com/track/2Dn1EJ0AQAWSgl3cyeJK3V) | [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Brutos Diamantes](https://open.spotify.com/album/0bAS2LP1ELHvX2BWJHDqan) | 2:56 |
 | 34 | [Don't Lie](https://open.spotify.com/track/3wvEiKmoYB2JUkgSN1xlJI) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Sabi na Sabura](https://open.spotify.com/album/3Pce78X39Cqw3TCdaUEEfj) | 3:05 |
-| 35 | [Brutos Diamantes](https://open.spotify.com/track/2Dn1EJ0AQAWSgl3cyeJK3V) | [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Brutos Diamantes](https://open.spotify.com/album/0bAS2LP1ELHvX2BWJHDqan) | 2:56 |
+| 35 | [00 Fala Bonito](https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [00 Fala Bonito](https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv) | 3:32 |
 | 36 | [Agradeço](https://open.spotify.com/track/5GXJgx3zcR3m3ihcqbFBLv) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [ORDEM & PROGRESSO](https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1) | 3:29 |
 | 37 | [Saudade](https://open.spotify.com/track/3AGb8LvF7dOg6skiNOevV0) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 3:09 |
 | 38 | [Love Again](https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Love Again](https://open.spotify.com/album/150SzhajOXePuIre6fdyMQ) | 3:28 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 69 | [Mais Um](https://open.spotify.com/track/0xTGck7kcQuE5FKaV76Ge3) | [Maison Vërt](https://open.spotify.com/artist/3Cy9Lx1rIFy8alkXjVLq9S), [Birou](https://open.spotify.com/artist/6MZjeFl9psA2ncl3ennNbx), [Frank Lucas](https://open.spotify.com/artist/6tpjAPaF1K2nDrixml8l0R) | [Mais Um](https://open.spotify.com/album/18Lz9SXvBWL9KpFxg1PRUx) | 2:36 |
 | 70 | [I Want You](https://open.spotify.com/track/3hKtsahbgDQ5QoSjIrDkNy) | [Bless](https://open.spotify.com/artist/7G3cc4g02s4aGoY30P8dIG) | [I Want You](https://open.spotify.com/album/5cBkOqoIQhmHC9q464uWWY) | 3:28 |
 | 71 | [Selva](https://open.spotify.com/track/7M7fp3ErAQQuIAfqUAJ2Ot) | [Cabaceira](https://open.spotify.com/artist/28rxpmIYnxElyIqc1bJDBp) | [Selva](https://open.spotify.com/album/0n9luoSJgWYbZus7nU6qXJ) | 2:54 |
-| 72 | [Heartbreak Canvas \(Acoustic Version\)](https://open.spotify.com/track/61i7ccHsK5TZkHDaRrC0tZ) | [Bere](https://open.spotify.com/artist/0LXPTU5nYRehFKI8RQDsiV), [Midnight Commander](https://open.spotify.com/artist/4iuqwRKK5CQL2JxNKuHVRR) | [Heartbreak Canvas \(Acoustic Version\)](https://open.spotify.com/album/4v9azADpSuZ0h02YBiZGlp) | 2:24 |
-| 73 | [Pausa](https://open.spotify.com/track/1eSJkqC47qMbJjvgIyGQw8) | [Sergio](https://open.spotify.com/artist/5eimxLCITlwq8OnT8nxCw7), [Fingaz](https://open.spotify.com/artist/3rSDUm0Q6QFFISsUaanplB) | [Pausa](https://open.spotify.com/album/4lAOkzdF6ugwfgaU2CjWTJ) | 3:11 |
+| 72 | [Pausa](https://open.spotify.com/track/1eSJkqC47qMbJjvgIyGQw8) | [Sergio](https://open.spotify.com/artist/5eimxLCITlwq8OnT8nxCw7), [Fingaz](https://open.spotify.com/artist/3rSDUm0Q6QFFISsUaanplB) | [Pausa](https://open.spotify.com/album/4lAOkzdF6ugwfgaU2CjWTJ) | 3:11 |
+| 73 | [Heartbreak Canvas \(Acoustic Version\)](https://open.spotify.com/track/61i7ccHsK5TZkHDaRrC0tZ) | [Bere](https://open.spotify.com/artist/0LXPTU5nYRehFKI8RQDsiV), [Midnight Commander](https://open.spotify.com/artist/4iuqwRKK5CQL2JxNKuHVRR) | [Heartbreak Canvas \(Acoustic Version\)](https://open.spotify.com/album/4v9azADpSuZ0h02YBiZGlp) | 2:24 |
 | 74 | [Sem Ti](https://open.spotify.com/track/0f4byXqIig8NDRC1gsyJe6) | [None](https://open.spotify.com/artist/2DUnriCSKtsAbjjnvROh9x) | [Sem Ti](https://open.spotify.com/album/70lTT4A9jPNXaAgbTgw2f7) | 3:06 |
 | 75 | [Strong](https://open.spotify.com/track/2dARaDpOpZxdbVl8a04HeQ) | [Mestre](https://open.spotify.com/artist/3hNGSam0MYXklimc6rnr2V) | [Strong](https://open.spotify.com/album/5B12LN9K4OVikdcEtCvfIg) | 3:08 |
 | 76 | [TEU PHONE](https://open.spotify.com/track/1xjifxQdnPy5j95rgWtdEh) | [JXST](https://open.spotify.com/artist/15hEnDT5ZvhkEG53gLYokS) | [TEU PHONE](https://open.spotify.com/album/2JCuu2mAIZzYqw0r43BCE5) | 2:03 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 79 | [Laços](https://open.spotify.com/track/5bL7lLuBr3is5XQkkq0aDJ) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Laços](https://open.spotify.com/album/15EHzECsyNBB7yM64mmCOw) | 3:26 |
 | 80 | [À Tua Porta](https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [À Tua Porta](https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8) | 3:31 |
 
-Snapshot ID: `MCxiOTdkMGJkMGY5NmEwYmY0MmM1MjQzYzI2NjUwMGIwY2JhZDU0MGEy`
+Snapshot ID: `MCw5MGMzNGZlZjU5NmM5MTc4ZmVmMTk3YmM5ZGU5MjQ1ZjU4ZDBiYjA4`

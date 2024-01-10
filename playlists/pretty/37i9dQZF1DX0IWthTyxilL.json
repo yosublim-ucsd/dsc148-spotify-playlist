@@ -1,12 +1,12 @@
 {
   "description": "Sons da floresta para inspirar seus dia ou noite.",
-  "num_followers": 10600,
+  "num_followers": 10615,
   "original_name": "Sons da Floresta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjRkY2FjNWQ0MzUzMDRhZjdiMWE5ZjkzY2Y2NGY0MmI0Y2NjYjM5",
+  "snapshot_id": "MCw5MmQ0YTRjOGRlZmUxZTZlMjc5OTRmMWY5YWMwOTk1OWYyNzI5ZTc1",
   "tracks": [
     {
       "added_at": "2023-06-19 12:57:37",
@@ -219,18 +219,18 @@
     {
       "added_at": "2023-06-19 12:57:37",
       "album": {
-        "name": "Sleep Sounds of Nature (Sound Healing from Nature Music: How to Deal with Stress, How to Meditate: Help Yourself with Musik)",
-        "url": "https://open.spotify.com/album/1hnITnE98zsV3NUBb9umhi"
+        "name": "Fresh Forest",
+        "url": "https://open.spotify.com/album/2HvyUszsRZo8u0f1pca5fm"
       },
       "artists": [
         {
-          "name": "Sleep Sounds of Nature",
-          "url": "https://open.spotify.com/artist/59FRAcMcsHQupc8lupy5uH"
+          "name": "Eskil Hermes",
+          "url": "https://open.spotify.com/artist/4RgayOFOiMm8j5DeeBpXby"
         }
       ],
-      "duration_ms": 237772,
-      "name": "Under a Waterfall (Relaxing Sounds)",
-      "url": "https://open.spotify.com/track/4NlsctTVxrTknjeiOKAdsr"
+      "duration_ms": 125573,
+      "name": "Tropical Rainbirds",
+      "url": "https://open.spotify.com/track/18TcUAVl6zWF81ns2ObwdJ"
     },
     {
       "added_at": "2023-06-19 12:57:37",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-06-19 12:57:37",
       "album": {
-        "name": "Fresh Forest",
-        "url": "https://open.spotify.com/album/2HvyUszsRZo8u0f1pca5fm"
+        "name": "Sleep Sounds of Nature (Sound Healing from Nature Music: How to Deal with Stress, How to Meditate: Help Yourself with Musik)",
+        "url": "https://open.spotify.com/album/1hnITnE98zsV3NUBb9umhi"
       },
       "artists": [
         {
-          "name": "Eskil Hermes",
-          "url": "https://open.spotify.com/artist/4RgayOFOiMm8j5DeeBpXby"
+          "name": "Sleep Sounds of Nature",
+          "url": "https://open.spotify.com/artist/59FRAcMcsHQupc8lupy5uH"
         }
       ],
-      "duration_ms": 125573,
-      "name": "Tropical Rainbirds",
-      "url": "https://open.spotify.com/track/18TcUAVl6zWF81ns2ObwdJ"
+      "duration_ms": 237772,
+      "name": "Under a Waterfall (Relaxing Sounds)",
+      "url": "https://open.spotify.com/track/4NlsctTVxrTknjeiOKAdsr"
     },
     {
       "added_at": "2023-06-19 12:57:37",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-06-19 12:57:37",
       "album": {
+        "name": "Fresh Forest",
+        "url": "https://open.spotify.com/album/2HvyUszsRZo8u0f1pca5fm"
+      },
+      "artists": [
+        {
+          "name": "Eskil Hermes",
+          "url": "https://open.spotify.com/artist/4RgayOFOiMm8j5DeeBpXby"
+        }
+      ],
+      "duration_ms": 157524,
+      "name": "Fresh Forest",
+      "url": "https://open.spotify.com/track/1EnpczqhePEswNjzfyirRV"
+    },
+    {
+      "added_at": "2023-06-19 12:57:37",
+      "album": {
         "name": "Thicket Winging",
         "url": "https://open.spotify.com/album/2x4Qi7jqGL5dW8BiOwU28l"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 510720,
       "name": "Refreshing Claps In Thunderstorm",
       "url": "https://open.spotify.com/track/4K5o0A7lQpHox49jSNc7Yk"
-    },
-    {
-      "added_at": "2023-06-19 12:57:37",
-      "album": {
-        "name": "Fresh Forest",
-        "url": "https://open.spotify.com/album/2HvyUszsRZo8u0f1pca5fm"
-      },
-      "artists": [
-        {
-          "name": "Eskil Hermes",
-          "url": "https://open.spotify.com/artist/4RgayOFOiMm8j5DeeBpXby"
-        }
-      ],
-      "duration_ms": 157524,
-      "name": "Fresh Forest",
-      "url": "https://open.spotify.com/track/1EnpczqhePEswNjzfyirRV"
     },
     {
       "added_at": "2023-06-19 12:57:37",

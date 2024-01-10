@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnX16cvcI94.md) - [plain]
 
 > Los clásicos no pasan de moda\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,029 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,951 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnX16cvcI94.md) - [plain]
 | 33 | [Me Niegas](https://open.spotify.com/track/1o6DL0otgQMsUebziSC7kA) | [Baby Rasta & Gringo](https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7) | [Los Cotizados](https://open.spotify.com/album/0o3uVUoqS0U8obVUObNwr8) | 3:21 |
 | 34 | [Na De Na](https://open.spotify.com/track/2Jz1X6ZB0gkkCVgmeVGVGp) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo), [Gocho "El Lápiz De Platino"](https://open.spotify.com/artist/65VADjjC47dZbyOyrgNWJA), [John Eric](https://open.spotify.com/artist/0IUvQ8DrCymt5IHywZsda2) | [Showtime](https://open.spotify.com/album/26YeHRhZt1HHM0Ed9I9YFw) | 3:22 |
 | 35 | [Esta Noche de Travesuras](https://open.spotify.com/track/0AEVupnoNEKPU81AOuPwjS) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB) | [Mi Trayectoria](https://open.spotify.com/album/41p3yyF17iCI6QjsfGd9rB) | 3:30 |
-| 36 | [Yo Sé Que Tú Quieres](https://open.spotify.com/track/4Aao0TQ5SvTitMxZb9oY7F) | [Sammy & Falsetto](https://open.spotify.com/artist/6AT27ojKlBuZToFIGwQZDc), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Yo Sé Que Tú Quieres](https://open.spotify.com/album/1KN1u76viK52AhHlWUxmJj) | 3:28 |
+| 36 | [Fiebre \(Prod\. King DouDou\)](https://open.spotify.com/track/5xtxxuIqInrLDSfjA6Co3o) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Slow Wine Mixtape](https://open.spotify.com/album/0ShnVtpw8BRsf8vzHVQvas) | 4:07 |
 | 37 | [Rakata](https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Pa'l Mundo](https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP) | 2:52 |
-| 38 | [Fiebre \(Prod\. King DouDou\)](https://open.spotify.com/track/5xtxxuIqInrLDSfjA6Co3o) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Slow Wine Mixtape](https://open.spotify.com/album/0ShnVtpw8BRsf8vzHVQvas) | 4:07 |
+| 38 | [Yo Sé Que Tú Quieres](https://open.spotify.com/track/4Aao0TQ5SvTitMxZb9oY7F) | [Sammy & Falsetto](https://open.spotify.com/artist/6AT27ojKlBuZToFIGwQZDc), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Yo Sé Que Tú Quieres](https://open.spotify.com/album/1KN1u76viK52AhHlWUxmJj) | 3:28 |
 | 39 | [Una Vaina Loca](https://open.spotify.com/track/6YYmoV9YbBefsspGmqFHbs) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Una Vaina Loca](https://open.spotify.com/album/7biGrCxUFSXo530GF0E9RP) | 3:08 |
-| 40 | [Sexo, Sudor y Calor](https://open.spotify.com/track/4eDjNcAyIuJFhQ31Fvvoc1) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [Ñejo & Dalmata](https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I) | [Timeless](https://open.spotify.com/album/2SMYRfGiwQyBgvkpCA2mJU) | 4:10 |
-| 41 | [Passion Whine](https://open.spotify.com/track/2QAwkI8L0UVBpjHJ6PwBzn) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Farruko Presents Los Menores](https://open.spotify.com/album/4ic94lYuJ37YBXfgsMDUWf) | 3:33 |
+| 40 | [Passion Whine](https://open.spotify.com/track/2QAwkI8L0UVBpjHJ6PwBzn) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Farruko Presents Los Menores](https://open.spotify.com/album/4ic94lYuJ37YBXfgsMDUWf) | 3:33 |
+| 41 | [Sexo, Sudor y Calor](https://open.spotify.com/track/4eDjNcAyIuJFhQ31Fvvoc1) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [Ñejo & Dalmata](https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I) | [Timeless](https://open.spotify.com/album/2SMYRfGiwQyBgvkpCA2mJU) | 4:10 |
 | 42 | [Ay Vamos](https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Familia B Sides](https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp) | 3:46 |
 | 43 | [Ella Se Contradice \(feat\. Plan B\)](https://open.spotify.com/track/4nNeRNXmdZWfw3IjAnITZR) | [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN), [Gringo](https://open.spotify.com/artist/29cNzWXrkNaGVL74hZK0jU), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Ella Se Contradice \(feat\. Plan B\)](https://open.spotify.com/album/3JYVc0zcw01y9Xjq16266O) | 4:16 |
 | 44 | [Quizas \- Remix](https://open.spotify.com/track/4YFoQUkj0XXJgTiHp8d61y) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ), [Marioso](https://open.spotify.com/artist/3vK6vMiSDE0xwZXm1Z2bRz) | [Los Vaqueros Wild Wild Mixes](https://open.spotify.com/album/0lSruNExlVqHp7Ox1xpWgu) | 4:00 |
 | 45 | [Es un Secreto](https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:10 |
 | 46 | [Punto y Aparte](https://open.spotify.com/track/388YhDYxPvaDIZQHWqpB4E) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Rompe La Discoteca](https://open.spotify.com/album/2ftqbM48NcAEAcIL7Yyc1R) | 3:26 |
-| 47 | [5 Letras](https://open.spotify.com/track/0tDSgSmZsbxCkdkfUPjg59) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA) | [Sobrenatural](https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf) | 3:15 |
-| 48 | [Igual Que Ayer](https://open.spotify.com/track/2WHctubxf8LzrGr62cLz3d) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Masterpiece: Nuestra Obra Maestra](https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE) | 3:52 |
+| 47 | [Igual Que Ayer](https://open.spotify.com/track/2WHctubxf8LzrGr62cLz3d) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Masterpiece: Nuestra Obra Maestra](https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE) | 3:52 |
+| 48 | [5 Letras](https://open.spotify.com/track/0tDSgSmZsbxCkdkfUPjg59) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA) | [Sobrenatural](https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf) | 3:15 |
 | 49 | [Zun Da Da](https://open.spotify.com/track/6DxS2ZRl8G3EagHkovYXA2) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [The Perfect Melody](https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v) | 5:04 |
 | 50 | [Fanática Sensual](https://open.spotify.com/track/5ZFpEsxK5VlLkJi3v7ar2Y) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love And Sex](https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE) | 4:00 |
 
-Snapshot ID: `MCxkZTY2Nzg0ODUwYjA3ZDliYmI4ZTgwNjQzNWExMmMyNDkwNGNiNDJh`
+Snapshot ID: `MCxmNGM0N2RjMDRlZWI1MDUyMzQyNDQyMGE2NGQ4MTBkNTVjNzMyMzZj`

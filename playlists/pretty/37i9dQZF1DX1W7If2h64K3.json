@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 45840,
+  "num_followers": 45850,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2MxYmZkZTJjZTViOGQxZWMwZGIzYzgxNTZhNTdmMWZmMDU3YTQw",
+  "snapshot_id": "MCw5NGE5ZTdjNDE2ZWJlNTkxNTk2YjQ3MjM2ZmEzYWQ3ZGMyZjY5MTk5",
   "tracks": [
     {
       "added_at": "2022-11-04 13:17:00",
@@ -731,6 +731,30 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
+        "name": "Schumann: Symphony No.4 In D Minor, Op.120 / Dvorak: Symphony No. 8 In G Major, Op. 88",
+        "url": "https://open.spotify.com/album/7jYg0obdjvMG4JcF6ptMWm"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "duration_ms": 289400,
+      "name": "Symphony No. 4 In D Minor, Op. 120: 2. Romanze (Ziemlich langsam)",
+      "url": "https://open.spotify.com/track/3c2yscx4AaNQtgW24uF3Yg"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
         "name": "Besser ohne Worte",
         "url": "https://open.spotify.com/album/4AAbCsOBu1MXyE1d8VXQc4"
       },
@@ -755,30 +779,6 @@
       "duration_ms": 97003,
       "name": "Loreley, Op. 53 No. 2 (Arr. A. Mildner & A. Martin for Harp & Tuba)",
       "url": "https://open.spotify.com/track/2P2A2quqdVt99XQxTfyUWa"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
-        "name": "Schumann: Symphony No.4 In D Minor, Op.120 / Dvorak: Symphony No. 8 In G Major, Op. 88",
-        "url": "https://open.spotify.com/album/7jYg0obdjvMG4JcF6ptMWm"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Herbert von Karajan",
-          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
-        }
-      ],
-      "duration_ms": 289400,
-      "name": "Symphony No. 4 In D Minor, Op. 120: 2. Romanze (Ziemlich langsam)",
-      "url": "https://open.spotify.com/track/3c2yscx4AaNQtgW24uF3Yg"
     },
     {
       "added_at": "2022-11-04 13:17:00",

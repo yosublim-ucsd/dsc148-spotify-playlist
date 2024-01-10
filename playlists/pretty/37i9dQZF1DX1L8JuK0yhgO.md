@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,347 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,346 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 10 | [YEY!](https://open.spotify.com/track/3Hn8MwLoiiczn0gqsbm4aK) | [bane](https://open.spotify.com/artist/642LjKa4IEtNBet0tTOrlo) | [mono](https://open.spotify.com/album/4FrNwkNGFo7f3TSxvu9qfh) | 3:28 |
 | 11 | [SOLLOW WHITE](https://open.spotify.com/track/02Zc9wkhjdprAUJBvEM8Mi) | [TeN](https://open.spotify.com/artist/13SGM3N74r68XG6d1OsECc) | [SOLLOW WHITE](https://open.spotify.com/album/4ZEbvrJ2uSYKUV7RhHEiky) | 2:47 |
 | 12 | [숲 \(feat\. SarahKayaComsom\)](https://open.spotify.com/track/5Y0ReCzCVAtxtsLXrlld4G) | [ha gon](https://open.spotify.com/artist/3gEVtWzO1zmUyQcv1b7rTp), [SarahKayaComsom](https://open.spotify.com/artist/1cINtA28HKw5W16shlvRGv) | [ing ing](https://open.spotify.com/album/1MC6YM4RjTMkm8I9e1zyef) | 3:32 |
-| 13 | [are we talking?](https://open.spotify.com/track/2sVaRCPDZ6B0xJzImLs2eE) | [saranghae](https://open.spotify.com/artist/7lOWCFSEnzDM8WOlsxy1Yj), [aftrr](https://open.spotify.com/artist/0f1e5HtmP23siFBNXTfDaY) | [are we talking?](https://open.spotify.com/album/1MeRKDuelMHknElFNJwG3j) | 2:24 |
+| 13 | [are we talking?](https://open.spotify.com/track/2sVaRCPDZ6B0xJzImLs2eE) | [saranghae](https://open.spotify.com/artist/7lOWCFSEnzDM8WOlsxy1Yj), [aftrr!](https://open.spotify.com/artist/6Twj8lltC7kWfs3G8TMr1u) | [are we talking?](https://open.spotify.com/album/1MeRKDuelMHknElFNJwG3j) | 2:24 |
 | 14 | [shades](https://open.spotify.com/track/5w2iUy03UPLEyHtM0bzCEW) | [J;KEY](https://open.spotify.com/artist/4I42k3aXHgTQ7hUMx259WK) | [Bleu Picasso LP](https://open.spotify.com/album/3faYQEd2UMjHuYyxQprAOV) | 2:48 |
 | 15 | [OSK NIGHT 2](https://open.spotify.com/track/1jvgUjTcyFSsQTAGhVnJqM) | [GOBLIN LAND](https://open.spotify.com/artist/2zXugaR0hD37BL2Q7r8EaR) | [KOUJYOUYAKEI](https://open.spotify.com/album/6XTUQ5ynhH4ys7uYHlQZnh) | 3:43 |
 | 16 | [DTK](https://open.spotify.com/track/1gDfenC2OcQvbEDygK4CTK) | [Kenayeboi](https://open.spotify.com/artist/2cdhPAmzK6fgdQwUAoAEgi), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [DTK](https://open.spotify.com/album/2fLLUWN8A5ZTDMIomhk2jN) | 2:37 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 65 | [WeChat graveyard](https://open.spotify.com/track/0VrNAgzbyrbvRMBS8rLQO8) | [jiafeng](https://open.spotify.com/artist/2cH4ORbRAQOGcYkI5WpUL5), [河南说唱之神](https://open.spotify.com/artist/1DuI2fZlVK7kiAVvFXBZhp), [YUNG NIKE](https://open.spotify.com/artist/7zaUjLrAgkkbftw6tjlnGA) | [Early Technologies](https://open.spotify.com/album/5vrdnWLe35y6BB5hejM64Y) | 3:09 |
 | 66 | [INFJ \(Feat\. B.I, BANG YEDAM\)](https://open.spotify.com/track/77GfQKz4WzULTEoLL286cT) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [Dingo X BIG Naughty](https://open.spotify.com/album/1bksL87asiBGZYwVyGR3kp) | 3:29 |
 | 67 | [Those Days](https://open.spotify.com/track/3d3Gp5LSKwe9A3o2w9ullQ) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Those Days](https://open.spotify.com/album/2BUIK1RhrD8DmWx4eYqYVy) | 2:26 |
-| 68 | [Mil Vezes \- Remix](https://open.spotify.com/track/2azJDduVngaqpaUsxKXevt) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Melody](https://open.spotify.com/artist/3cPXzpTSrOM1VJFm6Gwaym) | [Mil Vezes \(Remix\)](https://open.spotify.com/album/28TohT0cuarLuUCyC7VGA1) | 2:07 |
+| 68 | [Mil Vezes \- Remix](https://open.spotify.com/track/2azJDduVngaqpaUsxKXevt) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Mil Vezes \(Remix\)](https://open.spotify.com/album/28TohT0cuarLuUCyC7VGA1) | 2:07 |
 | 69 | [On my mind](https://open.spotify.com/track/14nJ3FvG5dtIwQpMLY4c5B) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [EXchange3, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0txF5TrDoRmAUR333JLinq) | 3:21 |
 | 70 | [To\. Sora 3/3](https://open.spotify.com/track/5BHwbNFuwj2fEsF9G645W4) | [KIRARA](https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW), [Siwa](https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM) | [Dispatched to Germany : To Sora](https://open.spotify.com/album/3b178N4ToXGVG203uAjGKc) | 3:36 |
 
-Snapshot ID: `MCxmMjIxZmYxZGViZjZlOTgyMmMxMDBlMzU2YzQ5NjQ2ZThmYmU5OWZj`
+Snapshot ID: `MCxhNWRiMmI1M2QzZDc1MTg5MmUwZmE0ZmQxYmYxZjYyMTUyNTI0MzU5`

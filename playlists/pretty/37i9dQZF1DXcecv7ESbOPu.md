@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Här finns veckans bästa och mest intressanta nya låtar\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,240 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,214 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 99 | [Motel 6](https://open.spotify.com/track/1lMZo6S6kAZoalFtzfgf1b) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Motel 6](https://open.spotify.com/album/7JkYx5RrVdmdyWOZpAmXbX) | 2:40 |
 | 100 | [FEMTIÅRIG MAN](https://open.spotify.com/track/49KbOqBSO5JEZyhU8jFd6g) | [Mattias Alkberg](https://open.spotify.com/artist/5p8AjcGi5g19fWNvC2zhqE), [Joel Amrén](https://open.spotify.com/artist/06r9U8OJ4EHfhGT0kc31hn), [Rebecka Digervall](https://open.spotify.com/artist/3vHSNoHRWSvrQlbFnVR4Bw), [Olle Nyman](https://open.spotify.com/artist/7hNRlzzTVQGsXeSLllu2at) | [FEMTIÅRIG MAN](https://open.spotify.com/album/1UKiy6GVAqgHBtZtvKj6aC) | 3:14 |
 
-Snapshot ID: `MCwxMzUwYTI4MjJmMzY4OGZjOWU1MDgwY2VjMzE3M2I1NzhjYmVkOWQ4`
+Snapshot ID: `MCwyZDdkMWJjNDAyYzAzOWI3OWViNWM1MGFlZTE4Zjk2NWI3YjNjZDAx`

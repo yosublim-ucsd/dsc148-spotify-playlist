@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Eva Rapdiva entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,644 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,454 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [Não Volto](https://open.spotify.com/track/3IcPYN25mmE28nA1qXphgi) | [Kota Manda](https://open.spotify.com/artist/6j7FwyhrTqJ89tzLixAMxw), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ), [TOCS](https://open.spotify.com/artist/5b7vII1orAZUTN9qR9NCtx) | [100 Segredos](https://open.spotify.com/album/66GmwuRmnCeJAKGkZC2gMf) | 2:51 |
 | 75 | [Barraca ta abana](https://open.spotify.com/track/5x4Nsek38LUOo2M0dCgMvv) | [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK), [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj), [Freesesh](https://open.spotify.com/artist/3VVV1LXTiAx0kDszn9rOlH) | [Barraca ta abana](https://open.spotify.com/album/2SBxTGfrrU8MGPLyGmLRMm) | 3:31 |
 
-Snapshot ID: `MCw3MDI3NjZjZWI0NzZiY2QwMTEyODkxODEyNDA4NjMwMDVlNmVlOTk5`
+Snapshot ID: `MCw0NTYyYWM1MWYwMzJmYmNhNjViY2ZkMzYyM2Q5M2MzNjcxZTU5Njlh`

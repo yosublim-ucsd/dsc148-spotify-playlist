@@ -5729,6 +5729,24 @@
     },
     {
       "album": {
+        "name": "Parasites",
+        "url": "https://open.spotify.com/album/02Tb76LOod9iowVjS8r9sF"
+      },
+      "artists": [
+        {
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130225,
+      "name": "Parasites",
+      "url": "https://open.spotify.com/track/2PvPwvinXuMcF82qkR9DqG"
+    },
+    {
+      "album": {
         "name": "Super Champon",
         "url": "https://open.spotify.com/album/4r851ZakCghaOeuJCuUpkU"
       },
@@ -6950,7 +6968,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 268826,
       "name": "Sink Like a Stone - feat.Hiro(from MY FIRST STORY)",
       "url": "https://open.spotify.com/track/38dZp5FWfEdtMrZ9chM6f1"
@@ -8602,7 +8620,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 236013,
       "name": "VIBES BY VIBES",
       "url": "https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp"
@@ -11470,7 +11488,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 260278,
       "name": "\u5c0f\u3055\u306a\u604b\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/39JQojOZro8C3Kt8Mhj42X"

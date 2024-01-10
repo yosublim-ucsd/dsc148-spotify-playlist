@@ -2,7 +2,7 @@
 
 ### [K\-Pop X\-Overs](https://open.spotify.com/playlist/37i9dQZF1DX4IDaXtVjL83)
 
-> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: VCHA\)
+> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: UMI, V\)
 
 155 songs - 8 hr 18 min
 

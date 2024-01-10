@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pa' toda la raza carnavalera!",
-  "num_followers": 30022,
+  "num_followers": 30087,
   "original_name": "Banda Carnavalera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4M2JkYTZhYjU1OTdhMjJmNThjYmRiOTMxNWUyMWQzYmJhYzk2NGY1",
+  "snapshot_id": "MCxmYjM1MTI4MzMwYTI2MWFhMTFiYmI2YjM5NDQ0NzhhZmY0ODVhNmY0",
   "tracks": [
     {
       "added_at": "2022-08-02 22:31:47",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
+        "name": "Carnavaleando con la Tierra Mojada",
+        "url": "https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Mojada",
+          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
+        }
+      ],
+      "duration_ms": 156995,
+      "name": "Carnavalerita",
+      "url": "https://open.spotify.com/track/1uDoaYRjEPOsss80u8IKdF"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
         "name": "Las Mamirriquis",
         "url": "https://open.spotify.com/album/3Q6ytU0NXA47Ba4HEhaE6I"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 164087,
       "name": "La Burra Orejona",
       "url": "https://open.spotify.com/track/4g9S6u0oMzIsRrHvubAyXt"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "Carnavaleando con la Tierra Mojada",
-        "url": "https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Mojada",
-          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
-        }
-      ],
-      "duration_ms": 156995,
-      "name": "Carnavalerita",
-      "url": "https://open.spotify.com/track/1uDoaYRjEPOsss80u8IKdF"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -755,18 +755,18 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Me Hac\u00edan Falta Huevos",
-        "url": "https://open.spotify.com/album/1VcgV7OkxAxXLKTpnSBGJI"
+        "name": "De Michoac\u00e1n al Guamuchil (Los Mejores Sones de Jaripeo)",
+        "url": "https://open.spotify.com/album/5L4DglvthWqL4C95K4xhzQ"
       },
       "artists": [
         {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+          "name": "Banda Alte\u00f1ita de Morelia",
+          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
         }
       ],
-      "duration_ms": 198133,
-      "name": "Qu\u00edtate El Zapato",
-      "url": "https://open.spotify.com/track/0NSg3mf1Zjvf4PafCQCB2Q"
+      "duration_ms": 128224,
+      "name": "Las Calandrias",
+      "url": "https://open.spotify.com/track/7hrnVefqSjCAcTpS02KiG3"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -787,18 +787,18 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "De Michoac\u00e1n al Guamuchil (Los Mejores Sones de Jaripeo)",
-        "url": "https://open.spotify.com/album/5L4DglvthWqL4C95K4xhzQ"
+        "name": "Me Hac\u00edan Falta Huevos",
+        "url": "https://open.spotify.com/album/1VcgV7OkxAxXLKTpnSBGJI"
       },
       "artists": [
         {
-          "name": "Banda Alte\u00f1ita de Morelia",
-          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
         }
       ],
-      "duration_ms": 128224,
-      "name": "Las Calandrias",
-      "url": "https://open.spotify.com/track/7hrnVefqSjCAcTpS02KiG3"
+      "duration_ms": 198133,
+      "name": "Qu\u00edtate El Zapato",
+      "url": "https://open.spotify.com/track/0NSg3mf1Zjvf4PafCQCB2Q"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -903,18 +903,18 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Una Leyenda",
-        "url": "https://open.spotify.com/album/4q2ttJ0S8WeMFFJYUET8kf"
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe"
       },
       "artists": [
         {
-          "name": "La Picosa Hern\u00e1ndez Banda",
-          "url": "https://open.spotify.com/artist/1KTmRPNOnnKT8SgcsDlSH2"
+          "name": "Banda Alte\u00f1ita de Morelia",
+          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
         }
       ],
-      "duration_ms": 325035,
-      "name": "Popurr\u00ed Coste\u00f1o: Pinotepa / San Marque\u00f1a / Son Coste\u00f1o",
-      "url": "https://open.spotify.com/track/4eVPp8bC3VqBbLklGJzkYZ"
+      "duration_ms": 214146,
+      "name": "El Ahualoca",
+      "url": "https://open.spotify.com/track/5roQj5olcQiTqXCi8cHGoK"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -939,18 +939,18 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe"
+        "name": "Una Leyenda",
+        "url": "https://open.spotify.com/album/4q2ttJ0S8WeMFFJYUET8kf"
       },
       "artists": [
         {
-          "name": "Banda Alte\u00f1ita de Morelia",
-          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
+          "name": "La Picosa Hern\u00e1ndez Banda",
+          "url": "https://open.spotify.com/artist/1KTmRPNOnnKT8SgcsDlSH2"
         }
       ],
-      "duration_ms": 214146,
-      "name": "El Ahualoca",
-      "url": "https://open.spotify.com/track/5roQj5olcQiTqXCi8cHGoK"
+      "duration_ms": 325035,
+      "name": "Popurr\u00ed Coste\u00f1o: Pinotepa / San Marque\u00f1a / Son Coste\u00f1o",
+      "url": "https://open.spotify.com/track/4eVPp8bC3VqBbLklGJzkYZ"
     },
     {
       "added_at": "2022-08-02 22:31:47",

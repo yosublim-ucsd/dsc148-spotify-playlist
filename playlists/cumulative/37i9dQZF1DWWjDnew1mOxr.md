@@ -2,9 +2,9 @@
 
 ### [Proper Belters](https://open.spotify.com/playlist/37i9dQZF1DWWjDnew1mOxr)
 
-> Boss music for boss people\. Cover: STONE
+> Boss music for boss people\. Cover: The Vaccines
 
-195 songs - 11 hr 11 min
+197 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,9 +39,9 @@
 | [Cavalryman](https://open.spotify.com/track/2KUqbwVAwyiajA6wyMdxWH) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [Cavalryman](https://open.spotify.com/album/1DtKTmCjirkrY5hvcObsGt) | 3:13 | 2023-04-18 |  |
 | [Chaise Longue](https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:16 | 2023-02-24 |  |
 | [Chancer](https://open.spotify.com/track/2spJjz5986ndAKBdFZoTBP) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Chancer](https://open.spotify.com/album/4e5Wq8BfWIoW5sRe72mbqI) | 3:14 | 2023-03-31 | 2023-11-16 |
-| [Chancer](https://open.spotify.com/track/52dwlwO6RJoCv60NgCcjai) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Chancer](https://open.spotify.com/album/0FscsScxqerBl7PldWu0dv) | 3:14 | 2023-10-20 |  |
+| [Chancer](https://open.spotify.com/track/52dwlwO6RJoCv60NgCcjai) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Chancer](https://open.spotify.com/album/0FscsScxqerBl7PldWu0dv) | 3:15 | 2023-10-20 |  |
 | [Changing Trends](https://open.spotify.com/track/14X8VWSbK3ghd2gVgOvf52) | [Lyerr](https://open.spotify.com/artist/15RXcuqShkrQqtCRjKtgss) | [Changing Trends](https://open.spotify.com/album/29NPGoxQMh9TRhciutEl4w) | 2:55 | 2023-02-10 | 2023-06-08 |
-| [CHEMICALS](https://open.spotify.com/track/3bGnizZtJfcuY6ZOoaSMZI) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [THE WALL](https://open.spotify.com/album/2qN0UtOJpDpdtbW6JoCTAk) | 3:31 | 2023-01-10 |  |
+| [CHEMICALS](https://open.spotify.com/track/3bGnizZtJfcuY6ZOoaSMZI) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [THE WALL](https://open.spotify.com/album/2qN0UtOJpDpdtbW6JoCTAk) | 3:31 | 2023-01-10 | 2024-01-10 |
 | [Cherish](https://open.spotify.com/track/2TfDppfA0KZ3rTQT0dgrTo) | [She's In Parties](https://open.spotify.com/artist/3A9BLI8S2rNSxXS3QsMkOY) | [Cherish](https://open.spotify.com/album/3qOfKTVNQD2C5sYqpTQsMo) | 2:40 | 2023-02-24 |  |
 | [Cherophobe](https://open.spotify.com/track/08VN91L0UaY6B2wcSd4ojR) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [The Deep End](https://open.spotify.com/album/5rpid48frWQDEjW1vrxgk8) | 4:16 | 2023-05-11 | 2023-09-20 |
 | [Come Over](https://open.spotify.com/track/18ZevcdeL1RTvZ17JXJpO3) | [Dirty Blonde](https://open.spotify.com/artist/2DgztFhlbYMAJ5JNxTjuhc) | [Come Over](https://open.spotify.com/album/19Q2mYMVQ6hRZRBcmb27jw) | 3:26 | 2023-02-24 | 2023-06-10 |
@@ -85,12 +85,13 @@
 | [Happy Cars](https://open.spotify.com/track/00yseVGAUk5VMh9OD4BSRv) | [Peace](https://open.spotify.com/artist/2O9XW1nnGRMkMV1wpK8IiS) | [Happy Cars](https://open.spotify.com/album/0GMlRNkhMhknJZ8oVLpEXw) | 3:17 | 2023-10-27 |  |
 | [Hard To Love](https://open.spotify.com/track/5ZydsKomR0uijruih5pVZ0) | [Better Joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [Hard To Love](https://open.spotify.com/album/0js8jOahyQcDzhAV1xpdnd) | 2:48 | 2023-10-20 |  |
 | [Hardly News](https://open.spotify.com/track/1vB2WPQZUrm1jL0zPZtnhX) | [Declan Welsh and The Decadent West](https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5) | [2](https://open.spotify.com/album/5ycbPGmtrkxqAOL2QuLKBe) | 3:22 | 2023-12-22 |  |
+| [Heavy](https://open.spotify.com/track/34ZvRwa42pvx6ZeXGS1ydC) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Heavy](https://open.spotify.com/album/1KQD3JoNR34P5qHvUcyvsl) | 3:27 | 2024-01-09 |  |
 | [Hell On Earth](https://open.spotify.com/track/5zkVTkQkHV4ygkf4sjicbA) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Hell On Earth](https://open.spotify.com/album/0H19BYgfRBOrW5BXg7yFqH) | 2:45 | 2023-01-10 | 2023-02-24 |
 | [Hippodrome](https://open.spotify.com/track/3ouStb8Q4Tjgg6SdONuDIr) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Hippodrome](https://open.spotify.com/album/7jasBIPf9Yop4dyY9KOVqc) | 2:41 | 2023-06-28 |  |
 | [Hold Yr Horses](https://open.spotify.com/track/5gKekPljHBtFvuQcaMOnii) | [ERNIE](https://open.spotify.com/artist/3nXSj676JUEKFxfACHmC9J) | [Hold Yr Horses](https://open.spotify.com/album/20OuG64r08ZIIaxArM2Spc) | 2:32 | 2023-09-19 |  |
 | [Hometown](https://open.spotify.com/track/7jY9kYe3KKy6abWf08x18M) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Hometown](https://open.spotify.com/album/0aMx31rpahrCtfQbOf2AiP) | 4:52 | 2023-06-13 | 2023-08-02 |
-| [Hometown](https://open.spotify.com/track/4i72Dwm23Pn1u1waLYMnBm) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Hometown](https://open.spotify.com/album/6dV3WNRJOzU583dR5795pR) | 4:52 | 2023-07-28 |  |
 | [Hometown](https://open.spotify.com/track/2kRuduqaJfLIWGZy5EOBam) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Hometown](https://open.spotify.com/album/3pWXwphIVPJlFcvuxXvghu) | 4:52 | 2023-01-10 | 2023-06-12 |
+| [Hometown](https://open.spotify.com/track/4i72Dwm23Pn1u1waLYMnBm) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Hometown](https://open.spotify.com/album/6dV3WNRJOzU583dR5795pR) | 4:53 | 2023-07-28 |  |
 | [How Do You Sleep At Night?](https://open.spotify.com/track/2K37XDEcpev2hUDbb14XGd) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [How Do You Sleep At Night?](https://open.spotify.com/album/49TAgh1ogazJrsGUvgp5tu) | 3:28 | 2023-12-22 |  |
 | [Hull Sky](https://open.spotify.com/track/3KTFknLMGHEH7yaxCjDrS7) | [LIFE](https://open.spotify.com/artist/2NWimAynlyqVUWD4YnJHlC) | [Shipping Forecast](https://open.spotify.com/album/4bDVGO2hYS0Hxe07ilSi9x) | 2:37 | 2023-01-10 | 2023-10-20 |
 | [Hummus and Pitta](https://open.spotify.com/track/7n6biK1HTuLfsNZv7LVFZa) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Hummus and Pitta](https://open.spotify.com/album/7G2IyVdw8K2clKwdNvAF7v) | 2:17 | 2023-01-10 |  |
@@ -115,13 +116,14 @@
 | [Jellyfish](https://open.spotify.com/track/5QoAoPROnMerJZXHSdCA6U) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Jellyfish](https://open.spotify.com/album/6h0uAe4jR7ej8bFFl5JNhI) | 3:32 | 2023-02-03 | 2023-03-11 |
 | [Jellyfish](https://open.spotify.com/track/5miXWvZSKWYr4W3MR27z87) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Jellyfish](https://open.spotify.com/album/5lYRdMHU1chHG2AKzkO72o) | 3:32 | 2023-02-24 | 2023-04-19 |
 | [Judgement Day](https://open.spotify.com/track/1A1QyDeRD4APE5Dzkp6CBr) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Judgement Day](https://open.spotify.com/album/1owOZN7l607ySn2o9zJ1Jb) | 3:29 | 2023-10-20 |  |
+| [Just Another Rainbow](https://open.spotify.com/track/2xE7912IhBp4poxLjOS6WJ) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Just Another Rainbow](https://open.spotify.com/album/5LLmGei4KIOkZaO3FI2KzX) | 5:36 | 2024-01-09 |  |
 | [Just Move](https://open.spotify.com/track/64fVObugIv5tiWtN6LhCRf) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Just Move](https://open.spotify.com/album/1g5uEvVcsGl0nMRjGRcGy6) | 3:06 | 2023-01-10 |  |
 | [Kaizen](https://open.spotify.com/track/3uFjKZi6ksKM8AyUBxIeXo) | [Peaness](https://open.spotify.com/artist/0bHVjNgsMH7b4XxmWhR7Tl) | [World Full Of Worry](https://open.spotify.com/album/0PHGvVPQqVpEr8e6GsuOjl) | 3:53 | 2023-03-31 | 2023-08-24 |
 | [King of My Head](https://open.spotify.com/track/6AIDWsvlNJMVOwVzf04mu2) | [Declan Welsh and The Decadent West](https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5) | [King of My Head](https://open.spotify.com/album/5auDLhlDrX07I0K3SHsH0H) | 3:40 | 2023-02-24 | 2023-11-05 |
 | [Knuckles](https://open.spotify.com/track/4Ko3NpExzZe0BBDDV6IZc8) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/4aufPz4ZGcxWHNt2lp2lTf) | 2:40 | 2023-01-10 |  |
 | [Landmines](https://open.spotify.com/track/2bA5I2vNPWWRx2nyi3DBMI) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Landmines](https://open.spotify.com/album/04LUnLAInGUPqzJu0a0b7w) | 4:43 | 2023-07-11 | 2023-08-02 |
 | [Landmines](https://open.spotify.com/track/7BN61WUSYSHP8OrGfTqdI8) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Landmines](https://open.spotify.com/album/0mtjOk14meeRpSlVpbUzpa) | 4:43 | 2023-07-28 |  |
-| [Lap Around The Sun](https://open.spotify.com/track/7iC546xP2SSf2Ws3fKeG9X) | [Post\-Party](https://open.spotify.com/artist/6Sg6gogb6FlpSMhqTL7XO9) | [Lap Around The Sun](https://open.spotify.com/album/4H7EQv3aw3XFT3cODg7TWQ) | 3:04 | 2023-12-22 |  |
+| [Lap Around The Sun](https://open.spotify.com/track/7iC546xP2SSf2Ws3fKeG9X) | [Post\-Party](https://open.spotify.com/artist/6Sg6gogb6FlpSMhqTL7XO9) | [Lap Around The Sun](https://open.spotify.com/album/4H7EQv3aw3XFT3cODg7TWQ) | 3:04 | 2023-12-22 | 2024-01-10 |
 | [Lazy Brain](https://open.spotify.com/track/3lIVyH8SN5yPVExgWuyiYh) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Deepest Blue](https://open.spotify.com/album/2l6T54veKjGFPc4MHVPrjl) | 3:38 | 2023-07-28 | 2023-12-22 |
 | [Leader of the Pack](https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:03 | 2023-03-13 |  |
 | [Lets Stay out Tonight](https://open.spotify.com/track/6EN2izjvx1QpyM7JTz7mij) | [The Pigeon Detectives](https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3) | [Emergency \(15 Year Anniversary Version\)](https://open.spotify.com/album/56nvxwuP4qL4GhO6ZgKjGS) | 2:34 | 2023-02-24 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 733859,
+  "num_followers": 733908,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGQyZTM2MDY0NDczZTdjNjEyNGMxMzFjNjcxOTYwYmZmY2JiOGI3",
+  "snapshot_id": "MCxiNjMyNGQxYTljMTRlM2UwOTg4NWIwZGU5YjhjNjc0MjMwZjdmZjYx",
   "tracks": [
     {
       "added_at": "2023-12-22 16:30:00",
@@ -767,6 +767,26 @@
     {
       "added_at": "2023-12-22 16:30:00",
       "album": {
+        "name": "Rebellion",
+        "url": "https://open.spotify.com/album/1oiRDFIRaBNrpHVzMg0ANF"
+      },
+      "artists": [
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        },
+        {
+          "name": "July",
+          "url": "https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz"
+        }
+      ],
+      "duration_ms": 196137,
+      "name": "Rebellion",
+      "url": "https://open.spotify.com/track/3DCLYpsAUY9ecM04h5QAfD"
+    },
+    {
+      "added_at": "2023-12-22 16:30:00",
+      "album": {
         "name": "Blow It Up",
         "url": "https://open.spotify.com/album/6nHzBvtQQsdGWXrLvZyMU9"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 181374,
       "name": "Blow It Up",
       "url": "https://open.spotify.com/track/7EXennxBRtugSuQX13uLSu"
-    },
-    {
-      "added_at": "2023-12-22 16:30:00",
-      "album": {
-        "name": "Rebellion",
-        "url": "https://open.spotify.com/album/1oiRDFIRaBNrpHVzMg0ANF"
-      },
-      "artists": [
-        {
-          "name": "Jerome",
-          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
-        },
-        {
-          "name": "July",
-          "url": "https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz"
-        }
-      ],
-      "duration_ms": 196137,
-      "name": "Rebellion",
-      "url": "https://open.spotify.com/track/3DCLYpsAUY9ecM04h5QAfD"
     },
     {
       "added_at": "2023-12-22 16:30:00",

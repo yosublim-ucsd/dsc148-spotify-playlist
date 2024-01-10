@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 
 > Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,873 likes - 75 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,871 likes - 75 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 62 | [It Was Finished](https://open.spotify.com/track/0oGI2EFKcoW9ZSu9JNoZvj) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Kingdom Come](https://open.spotify.com/album/6lfwLgVBxltkAIvkpK4axR) | 4:45 |
 | 63 | [Above All](https://open.spotify.com/track/4UKkXhpY3knx2S4KDrsRSP) | [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr) | [The Writer's Collection](https://open.spotify.com/album/1ztavDrZMEGJubkYFKcmZv) | 5:23 |
 | 64 | [Doxology](https://open.spotify.com/track/6s2nM4DuZmhwceOzXwb6R1) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Stars Go Dim](https://open.spotify.com/album/6O53uxub6lQLq9S9AFKPCr) | 4:38 |
-| 65 | [Long Live The King \- Live At The Grove](https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Long Live The King \(Live At The Grove\)](https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn) | 7:01 |
-| 66 | [My Victory](https://open.spotify.com/track/1zg8rQ4pENedgx2FpHXN0o) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [My Utmost For His Highest](https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV) | 4:00 |
+| 65 | [My Victory](https://open.spotify.com/track/1zg8rQ4pENedgx2FpHXN0o) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [My Utmost For His Highest](https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV) | 4:00 |
+| 66 | [Long Live The King \- Live At The Grove](https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Long Live The King \(Live At The Grove\)](https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn) | 7:01 |
 | 67 | [Forever](https://open.spotify.com/track/4v3SzdNUZLpocZxK6oZEkW) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [Tides](https://open.spotify.com/album/1JS4S79J7ZNDKRUkf2tFl6) | 5:26 |
 | 68 | [How Great Thou Art \- Live](https://open.spotify.com/track/4XWA4VGeNYIOlbOfy9wr4P) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Charlie Hall](https://open.spotify.com/artist/0Przo8VxOHYfZv9FMZWsWV) | [Hymns Ancient And Modern \(Live\)](https://open.spotify.com/album/1ABQb99YyGRAKq0z3VXgoA) | 4:40 |
 | 69 | [The Cross Forever Speaks](https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:52 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 74 | [Glorious](https://open.spotify.com/track/1jOzjWWNdIEKfX8g48FDEu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [See The Morning](https://open.spotify.com/album/1rt1h8pDDeJoVJrr5jbAmi) | 4:01 |
 | 75 | [Ashes \(feat\. Chris McClarney\)](https://open.spotify.com/track/01F2MJzSFzD0Wqhg2bpmvG) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm), [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Ashes \(feat\. Chris McClarney\)](https://open.spotify.com/album/1SFDjdhnnT087ZPbKL33st) | 4:39 |
 
-Snapshot ID: `MCxlM2FkNzE4ZDA0ZDZjOGI2MjBhZWY5ZjU1M2I2MGM0ZDVlZWU4ZTEy`
+Snapshot ID: `MCw2NmM5YjgyYmEyODZmZmRkNjgzNjIzN2I3MjM4ZjA3ODM4NjZkNjBh`

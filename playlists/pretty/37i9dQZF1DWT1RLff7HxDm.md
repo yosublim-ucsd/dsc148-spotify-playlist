@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Christone "Kingfish" Ingram
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,578 likes - 100 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,610 likes - 100 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Midnight Heat \- Live](https://open.spotify.com/track/2HlfyyZwGq6tQYwl2qU0vY) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Live In London](https://open.spotify.com/album/3Lqzd6AFTfeVybMiBbBDse) | 5:24 |
+| 1 | [Midnight Heat \- Live](https://open.spotify.com/track/1YLMfZsiVuBVb3yPB9mK0N) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Live In London \(Expanded Edition\)](https://open.spotify.com/album/7wyoiuJDpJrBXJJC4ULTe7) | 5:24 |
 | 2 | [Always Free \(Live in Austin\)](https://open.spotify.com/track/7lcoqPnMvytTtYPBqS2LNO) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Love Transcends \(Live in Austin\)](https://open.spotify.com/album/3FnXv4h5TBWXo7ccTftiUj) | 7:36 |
 | 3 | [Underneath The River \- Live 2023](https://open.spotify.com/track/2pgRRXsHtZe5OpHD6FmKgC) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [Underneath The River \(Live 2023\)](https://open.spotify.com/album/19HeG1fcpAL9DoQ9utLxhq) | 6:34 |
 | 4 | [No Good Woman \- Live](https://open.spotify.com/track/2aCnOIxkx3zcZzdCQUjyd8) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD) | [Blood Brothers: Live in Canada](https://open.spotify.com/album/7n3CH6Tm2VeHkXSaL6TY6A) | 5:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 99 | [Keep On Growing \- Live](https://open.spotify.com/track/1vkMtRDV3rtqwjM9KH9WIy) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Live From The Fox Oakland](https://open.spotify.com/album/5N08TYY1GFOsd8apSoIeZ0) | 10:50 |
 | 100 | [Can't Let Go \- Live \(Remastered\)](https://open.spotify.com/track/4CCWEuncGYBFd46UOk3FHO) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [I’m A Woman \[Live \(Remastered\)\]](https://open.spotify.com/album/2lz9vEEJCu5ucaaxWtNSr0) | 5:52 |
 
-Snapshot ID: `MCw5ODQzMzA2NjRkMmI0M2QyZjQ0MWVkYjJmYmZkMmVjMzRiYWUwNmM0`
+Snapshot ID: `MCxjNmU2MTc3OTI0MzBhMmZmZTYyNGMyZDJjOGQwNmZkOTFiMWUyY2Jm`

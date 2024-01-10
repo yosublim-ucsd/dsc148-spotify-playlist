@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,455 likes - 51 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,392 likes - 51 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 2 | [Yo Me Muero Por Ti](https://open.spotify.com/track/1soZPkNYncKsVnSk18OGTP) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [La Batalla](https://open.spotify.com/album/2SoC60zXrZBkx0Q8CP8hPb) | 6:32 |
 | 3 | [La Historia De Un Gran Amor](https://open.spotify.com/track/6xDH1AopZEPEAyVR1Ji9In) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [De Que Tu Priva?](https://open.spotify.com/album/6rdek5bHbx11piMtwzaZCm) | 4:30 |
 | 4 | [La Chiflera](https://open.spotify.com/track/1kcb0KVXfQBESU9p7d47nP) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [Date Brillo Cadenita](https://open.spotify.com/album/646dDXe1aj7n4EJDUeVcjw) | 7:18 |
-| 5 | [El diente de oro](https://open.spotify.com/track/36s4W1NUg0amqDSNRK8Lo4) | [El Ciego De Nagua](https://open.spotify.com/artist/43nkUThLVCzg7IObZEk1XY) | [14 Super Éxitos](https://open.spotify.com/album/1fFdyPrPN9fF264jXDO0w4) | 4:47 |
-| 6 | [Perdido Sin Ti](https://open.spotify.com/track/4mVcGamc02beQSnh6iNt11) | [Banda Real](https://open.spotify.com/artist/45QUD9oZxg3rGkSDEFI0i6) | [Los Líderes, Vol.1](https://open.spotify.com/album/769jIdmcaSr47p3sVvqER9) | 4:05 |
+| 5 | [Perdido Sin Ti](https://open.spotify.com/track/4mVcGamc02beQSnh6iNt11) | [Banda Real](https://open.spotify.com/artist/45QUD9oZxg3rGkSDEFI0i6) | [Los Líderes, Vol.1](https://open.spotify.com/album/769jIdmcaSr47p3sVvqER9) | 4:05 |
+| 6 | [El diente de oro](https://open.spotify.com/track/36s4W1NUg0amqDSNRK8Lo4) | [El Ciego De Nagua](https://open.spotify.com/artist/43nkUThLVCzg7IObZEk1XY) | [14 Super Éxitos](https://open.spotify.com/album/1fFdyPrPN9fF264jXDO0w4) | 4:47 |
 | 7 | [Ta' Buena](https://open.spotify.com/track/2zHFgOgtiH5X3Up92IltJi) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [Que Se Vaya](https://open.spotify.com/album/1zPVnHTB7zHAcfENR2zDIo) | 3:36 |
 | 8 | [Te Fuiste De Aqui](https://open.spotify.com/track/180f3afex3Rm9rGNIdvLn1) | [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [Te Fuiste De Aqui](https://open.spotify.com/album/0u9rhbXI7lqSii2p1sGYUF) | 4:40 |
 | 9 | [Porque Te Fuiste Dulce Amor](https://open.spotify.com/track/2teVg77oXxa7UOSochwdEo) | [Raquel Arias](https://open.spotify.com/artist/49P6VROZM32gIQyX9CvJE8) | [Porque Te Fuiste Dulce Amor](https://open.spotify.com/album/3eYIiRrrWsTWP76NwqrFBd) | 5:57 |
@@ -44,20 +44,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 34 | [Comiendo Gallina](https://open.spotify.com/track/45B4Uym3KHBziu4olVZHNe) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [Ídolo Del Pueblo](https://open.spotify.com/album/1b8lRfNkfmqV1BRsyAaNgK) | 2:47 |
 | 35 | [Se Fue La Bola](https://open.spotify.com/track/1wC3DYbyjUdYWe3D6hs9UA) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Corazón Bonito](https://open.spotify.com/album/6doczKOn9Ol9Yjum4U3kqK) | 6:25 |
 | 36 | [El Refrán](https://open.spotify.com/track/5JMVZua23rOH7Wt1rFYeSH) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [From Santo Domingo: Live!](https://open.spotify.com/album/7j6mg2CE7wd6i3R5dRkr2Z) | 5:35 |
-| 37 | [El Doctorado](https://open.spotify.com/track/3pQvlDMVLB8MsQMFq8P1qW) | [Rikar2nes](https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt) | [A Otro Nivel](https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h) | 4:16 |
-| 38 | [Canto de Hacha](https://open.spotify.com/track/2qkjPibPywEEAkNVuEZvpi) | [Francisco Ulloa](https://open.spotify.com/artist/1gvcnolIBj2EDKRk6nirCw) | [!Ultramerengue!](https://open.spotify.com/album/3CO7yIFZtsmGy24VvuMNXg) | 3:42 |
+| 37 | [Canto de Hacha](https://open.spotify.com/track/2qkjPibPywEEAkNVuEZvpi) | [Francisco Ulloa](https://open.spotify.com/artist/1gvcnolIBj2EDKRk6nirCw) | [!Ultramerengue!](https://open.spotify.com/album/3CO7yIFZtsmGy24VvuMNXg) | 3:42 |
+| 38 | [El Doctorado](https://open.spotify.com/track/3pQvlDMVLB8MsQMFq8P1qW) | [Rikar2nes](https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt) | [A Otro Nivel](https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h) | 4:16 |
 | 39 | [Salón de Belleza](https://open.spotify.com/track/70SA4D9VxrH3RI1cDOSHAk) | [Blas Duran](https://open.spotify.com/artist/0N8kOoceUhHFL16Rhe5rvb) | [Éxitos de Oro](https://open.spotify.com/album/0hjzbRJGIAlvfWhoX3n2Oj) | 3:54 |
 | 40 | [Juanita Morel](https://open.spotify.com/track/2rrR9S2MVwsUpR3CvveaQH) | [Trio Reynoso](https://open.spotify.com/artist/5BvDnehJeowGzgoBbRQc3q), [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus), [Miguel Santana](https://open.spotify.com/artist/16bVKtB9DxvHGKSCgtdWnZ) | [Merengues Con el Alma](https://open.spotify.com/album/08GBA2MMo7W9p1ehpZdS7f) | 2:31 |
 | 41 | [Que Se Vaya](https://open.spotify.com/track/0Xtj6e8Buf5iPqopUp74N3) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [Que Se Vaya](https://open.spotify.com/album/1zPVnHTB7zHAcfENR2zDIo) | 3:58 |
 | 42 | [La Correa](https://open.spotify.com/track/7KFwD8joQhDszOXDAddttv) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [60 Éxitos](https://open.spotify.com/album/6pGQLQMeYtj3MU4H90z2DX) | 2:49 |
-| 43 | [Ya No Creo en Ti](https://open.spotify.com/track/1ZE5wyZzjE25sEZ6nDXKbl) | [Rikar2nes](https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt) | [A Otro Nivel](https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h) | 4:39 |
-| 44 | [Vamos Hablar Ingles](https://open.spotify.com/track/4VqDSFNWrn7vruGbV5JMiG) | [Tipico Dominicano](https://open.spotify.com/artist/5ubCENBruyHwHAFwLMgYJt) | [La Marapica](https://open.spotify.com/album/3piikVArI0ywpiQn3IDsBt) | 4:35 |
-| 45 | [Cumande](https://open.spotify.com/track/1bB1je89BTNN49hWBIUVAe) | [Maria Diaz](https://open.spotify.com/artist/5dYa0AAqG7tZT1vsX3j7Aj) | [Los Grandes Del Merengue Tipico](https://open.spotify.com/album/531oJdo6tJRay6eLKnHYge) | 4:45 |
-| 46 | [La Batata](https://open.spotify.com/track/4r2O4YsxfoclLn5AjPLdQa) | [Shino Aguakate](https://open.spotify.com/artist/6IgsDaIkGCmRK7VEpnjvKI) | [Out of Control](https://open.spotify.com/album/7MiIB4tUaj2jfu8pGOxX08) | 4:10 |
-| 47 | [Adan Y Eva](https://open.spotify.com/track/0u2gKAK4zjuirs0N92p6re) | [Tatico Henriquez Songs](https://open.spotify.com/artist/7dtGysB5MAuSn5b4mKqSDE) | [Cumbia Sampuesana](https://open.spotify.com/album/0WfYYLdvnOCl16NOf4OfJ8) | 2:44 |
+| 43 | [Vamos Hablar Ingles](https://open.spotify.com/track/4VqDSFNWrn7vruGbV5JMiG) | [Tipico Dominicano](https://open.spotify.com/artist/5ubCENBruyHwHAFwLMgYJt) | [La Marapica](https://open.spotify.com/album/3piikVArI0ywpiQn3IDsBt) | 4:35 |
+| 44 | [Cumande](https://open.spotify.com/track/1bB1je89BTNN49hWBIUVAe) | [Maria Diaz](https://open.spotify.com/artist/5dYa0AAqG7tZT1vsX3j7Aj) | [Los Grandes Del Merengue Tipico](https://open.spotify.com/album/531oJdo6tJRay6eLKnHYge) | 4:45 |
+| 45 | [La Batata](https://open.spotify.com/track/4r2O4YsxfoclLn5AjPLdQa) | [Shino Aguakate](https://open.spotify.com/artist/6IgsDaIkGCmRK7VEpnjvKI) | [Out of Control](https://open.spotify.com/album/7MiIB4tUaj2jfu8pGOxX08) | 4:10 |
+| 46 | [Adan Y Eva](https://open.spotify.com/track/0u2gKAK4zjuirs0N92p6re) | [Tatico Henriquez Songs](https://open.spotify.com/artist/7dtGysB5MAuSn5b4mKqSDE) | [Cumbia Sampuesana](https://open.spotify.com/album/0WfYYLdvnOCl16NOf4OfJ8) | 2:44 |
+| 47 | [Ya No Creo en Ti](https://open.spotify.com/track/1ZE5wyZzjE25sEZ6nDXKbl) | [Rikar2nes](https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt) | [A Otro Nivel](https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h) | 4:39 |
 | 48 | [Tipico Caliente](https://open.spotify.com/track/6sJmVh5brIuD3PywP0gVoE) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [La Reina del Soberano](https://open.spotify.com/album/6JG72C5AvYstaw7ZWdz8xv) | 5:05 |
 | 49 | [Consejo a las Mujeres](https://open.spotify.com/track/6thw9YnuxjfJ49RwxblhVK) | [Blas Duran & Los Peluches](https://open.spotify.com/artist/6jFSCQZgMqVX3kxScYXyvG) | [El Consejo a Las Mujeres](https://open.spotify.com/album/6NaONUmS8MxCbzCD6fqyd7) | 3:33 |
 | 50 | [El Diente de Oro](https://open.spotify.com/track/6n71ZzBawqtp584Fg2NAcO) | [El Cieguito De Nagua](https://open.spotify.com/artist/6FGEiODYfWqyS4rTtRaFgU) | [Los Numero 1 Bachata y Merengue Tipico](https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI) | 4:38 |
 | 51 | [Por Esa Mujer](https://open.spotify.com/track/2YflEzGAkdbFQ87hevZ7Gy) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | ["El Cacique" \- Todo Exitos](https://open.spotify.com/album/55mfcO5DhWjPj2RxqPGyDB) | 4:28 |
 
-Snapshot ID: `MCwyZmNjNTgzODVmODRhNjllM2EwZDUzYzdhZjgzMmVmYmI5ZjhmMDU4`
+Snapshot ID: `MCwxOTQxYWY4MzRkNTNhOWZiMjhmNzJmMDhkZTE4Yzc5ZWZjOGNjMGQ5`

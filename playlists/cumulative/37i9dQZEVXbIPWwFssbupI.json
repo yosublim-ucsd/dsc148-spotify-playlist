@@ -6018,7 +6018,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 207611,
       "name": "Children of the Sky (a Starfield song)",
       "url": "https://open.spotify.com/track/1W7ughJhjRaANaAUcxTfnC"
@@ -7764,7 +7764,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 176579,
       "name": "Dance The Night - From Barbie The Album",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
@@ -22641,6 +22641,28 @@
     },
     {
       "album": {
+        "name": "Day One",
+        "url": "https://open.spotify.com/album/3nbNEZbsGU2DuuXHnscx0L"
+      },
+      "artists": [
+        {
+          "name": "Kaaris",
+          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225733,
+      "name": "Panama",
+      "url": "https://open.spotify.com/track/2HimJmsy7QZOauXXvlCd2m"
+    },
+    {
+      "album": {
         "name": "2069'",
         "url": "https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq"
       },
@@ -22840,7 +22862,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 176125,
       "name": "Parapluie",
       "url": "https://open.spotify.com/track/4CkbzYcdIRJhrA9tzwFj0B"
@@ -27778,7 +27800,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 146440,
       "name": "Solitaire",
       "url": "https://open.spotify.com/track/3kzXT2poHInDISrXOgT1PR"
@@ -31046,7 +31068,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 147788,
       "name": "Urus",
       "url": "https://open.spotify.com/track/7A2DyRIqqelhZ4caPJMaFI"

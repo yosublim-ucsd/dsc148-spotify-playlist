@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,400 likes - 1,191 songs - 3 day 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,403 likes - 1,191 songs - 3 day 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -427,7 +427,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 417 | [Ceddo End Title](https://open.spotify.com/track/5d00kR2kWPxc1rnKsGh32S) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [World Psychedelic Classics 3: Love's a Real Thing](https://open.spotify.com/album/507y3UUuDaYdeBaQGhqRW6) | 5:09 |
 | 418 | [T.I.B.W.F.](https://open.spotify.com/track/7wwLfGqZ5VaTfNGRihJiqu) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band](https://open.spotify.com/album/7Gu0cy8nMC6Uk10PsdAHXd) | 2:40 |
 | 419 | [Benzaiten \(Reprise\)](https://open.spotify.com/track/4bixpfr8FZ4NYJ55EnZylH) | [Osamu Kitajima](https://open.spotify.com/artist/1nj6LuWJalUuYfBs0QO1sr) | [Benzaiten](https://open.spotify.com/album/1hpjbnNqkpNIj9nWV4Ejzc) | 11:26 |
-| 420 | [Al Calor de la Cumbia](https://open.spotify.com/track/3A7jHfd6t2PEsCMMJD5bBP) | [Grupo Marina Perla](https://open.spotify.com/artist/63s0EBPjuXxLcjUsV2tXQS) | [Gran Festival de Porros y Cumbias](https://open.spotify.com/album/23oOLSIB4SW14Nwp4bbYdc) | 3:35 |
+| 420 | [Al Calor de la Cumbia](https://open.spotify.com/track/712B5rx6WxxJ5z7AHRj1x6) | [JOYAS SONIDERAS VOL.4](https://open.spotify.com/artist/4BDjjgM6MmTXNu1z2Jmj84), [Grupo Marina Perla](https://open.spotify.com/artist/07savn6kVyXtEWpWG5xuCH) | [Cumbia Sol Marina](https://open.spotify.com/album/6H9xlpLlOx71HLmphPBzsq) | 3:36 |
 | 421 | [Tajir Waa Ilaah](https://open.spotify.com/track/5N6gJatr6C7yYToWsZ2ECU) | [Dur\-Dur Band](https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF) | [Volume 5](https://open.spotify.com/album/1duYR1BKAr0ZNX35kEnk9Y) | 6:50 |
 | 422 | [Gogo Rock](https://open.spotify.com/track/1BPVFB9lkbKd9YGcqCKBpQ) | [Kaleta & Super Yamba Band](https://open.spotify.com/artist/53Ru5pu6UYUdHONmoD3FRa) | [Mèdaho](https://open.spotify.com/album/1DXEM3i2YNs3qxXdBtJqdK) | 2:58 |
 | 423 | [Music de Carnaval](https://open.spotify.com/track/5NqQovaNr0L2VVn9Svdlmf) | [Magdy Al Hussainy](https://open.spotify.com/artist/1xo3eWzfxA5p7tkBahC6MD) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Part 2\) \(Habibi Funk 015\)](https://open.spotify.com/album/0PkKIo93pKAnqpo0mi5yb1) | 5:10 |
@@ -1165,7 +1165,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1155 | [Guajida](https://open.spotify.com/track/06boJEDPuCNH8HpYUeUIzF) | [Jesus Acosta & The Professionals](https://open.spotify.com/artist/3oxUibMAtErJhtug1TjaIG) | [I Can See Clearly Now b/w Guajida](https://open.spotify.com/album/2xCS2lSm6rW9IkSBSpNJcB) | 3:13 |
 | 1156 | [Guajira Ven](https://open.spotify.com/track/6vRCQCrFlrbNSqSUs8cUZ6) | [Etoile De Dakar](https://open.spotify.com/artist/0ZEIBXEWSSTDLhheAO9Wyk) | [Guajira Ven](https://open.spotify.com/album/34Kc5EvPFj8PCfCsGTlaRI) | 4:19 |
 | 1157 | [Capital Cebuista](https://open.spotify.com/track/7tiWyF2rv4GJF8pZRz2gEP) | [Santander Flores](https://open.spotify.com/artist/63rHVcPDtmXdG3yGkgE9ha) | [La Edad De Oro De La Cumbia Colombiana, Vol\. 2](https://open.spotify.com/album/1sJyr6gkGhXkMP9DvYqREB) | 2:57 |
-| 1158 | [Cumbia Locura](https://open.spotify.com/track/0Hj9eBehL8C6z6FkZgPwJV) | [Taggy Matcher & Kumbia Boruka](https://open.spotify.com/artist/7l16paFplrLu5I9xBDkdwp) | [Cumbia Locura](https://open.spotify.com/album/4sYiCWDWYHmF48zZ5K5695) | 3:59 |
+| 1158 | [Cumbia Locura](https://open.spotify.com/track/0Hj9eBehL8C6z6FkZgPwJV) | [Taggy Matcher](https://open.spotify.com/artist/2u7HXyOB94OUobf3fQtMtF), [Kumbia Boruka](https://open.spotify.com/artist/3B7XF3wKmK3NFMO4AGfzd7) | [Cumbia Locura](https://open.spotify.com/album/4sYiCWDWYHmF48zZ5K5695) | 3:59 |
 | 1159 | [El PáJaro Prieto](https://open.spotify.com/track/5p9k88kwa4FgBNdpSXPXRL) | [Ruffo Garrido y su Conjunto](https://open.spotify.com/artist/5LA6RnPG8INL2eYtrswDqK) | [La Edad De Oro De La Cumbia Colombiana](https://open.spotify.com/album/0azeVssPPbqdN4QjZSQBLS) | 2:47 |
 | 1160 | [Liebe Gabi](https://open.spotify.com/track/7GORKIY4nPLZoO1gtuPU7m) | [Derdiyoklar İkilisi](https://open.spotify.com/artist/4Z7tFrFLO28HYlLFHqgOcb) | [Koleksiyon](https://open.spotify.com/album/4tCDcSjp7U8ogR8rM5hvfI) | 4:58 |
 | 1161 | [Patuleco](https://open.spotify.com/track/09bGYFnMVZRh0ilaVUiYio) | [Orquesta Sonora Curro](https://open.spotify.com/artist/1s3glHhVbcSfPu5EjyrVrN) | [Cartagena! Curro Fuentes & The Big Band Cumbia and Descarga Sound of Colombia 1962\-72](https://open.spotify.com/album/0UbcmD65kthpuyIIYajOYY) | 2:48 |
@@ -1200,4 +1200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1190 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1191 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCwyZmVmYTVhMWIyYTJlOGUyMzY1NzUyNWFmZTYxNmFjMWQ2OTQ5MDcx`
+Snapshot ID: `MCw1Nzg5NTY5MmVmZDQzOTI5ZWFiZWNkYWVmYjFlNjUwY2E3MDIxOGM4`

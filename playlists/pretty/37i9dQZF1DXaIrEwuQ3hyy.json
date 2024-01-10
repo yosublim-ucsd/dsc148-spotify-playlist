@@ -1,12 +1,12 @@
 {
   "description": "Songs, die von innen w\u00e4rmen.",
-  "num_followers": 1041113,
+  "num_followers": 1040662,
   "original_name": "Winter Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjdhMjkwYjIwY2FiMTAxZWJlYjI5MGJlYzE1ODE0NGM5NDA2OTU2",
+  "snapshot_id": "MCxiYWUxMTBiMGVlNTcwNGMwM2QxZGM4MzY1MTZhYWY5YTk3N2Q5NDM4",
   "tracks": [
     {
       "added_at": "2023-12-21 23:01:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-12-21 23:01:00",
       "album": {
-        "name": "Get It Done",
-        "url": "https://open.spotify.com/album/3OLKZxkcuaBD1WKiRf9RtM"
-      },
-      "artists": [
-        {
-          "name": "Sharktank",
-          "url": "https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K"
-        }
-      ],
-      "duration_ms": 204144,
-      "name": "Washed Up",
-      "url": "https://open.spotify.com/track/5DC8a9K1q6xTIDlTOVVJt9"
-    },
-    {
-      "added_at": "2023-12-21 23:01:00",
-      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 215573,
       "name": "Everything",
       "url": "https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e"
+    },
+    {
+      "added_at": "2023-12-21 23:01:00",
+      "album": {
+        "name": "Get It Done",
+        "url": "https://open.spotify.com/album/3OLKZxkcuaBD1WKiRf9RtM"
+      },
+      "artists": [
+        {
+          "name": "Sharktank",
+          "url": "https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K"
+        }
+      ],
+      "duration_ms": 204144,
+      "name": "Washed Up",
+      "url": "https://open.spotify.com/track/5DC8a9K1q6xTIDlTOVVJt9"
     },
     {
       "added_at": "2023-12-21 23:01:00",
@@ -991,38 +991,6 @@
     {
       "added_at": "2023-12-21 23:01:00",
       "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 257500,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV"
-    },
-    {
-      "added_at": "2023-12-21 23:01:00",
-      "album": {
-        "name": "Hallo",
-        "url": "https://open.spotify.com/album/4muwv9nlu37zdTF6R2m30u"
-      },
-      "artists": [
-        {
-          "name": "Ivo Martin",
-          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
-        }
-      ],
-      "duration_ms": 120732,
-      "name": "Hallo",
-      "url": "https://open.spotify.com/track/66kh9O5vsEh4nKAb5jM5vc"
-    },
-    {
-      "added_at": "2023-12-21 23:01:00",
-      "album": {
         "name": "Eugene",
         "url": "https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7"
       },
@@ -1035,6 +1003,22 @@
       "duration_ms": 221804,
       "name": "Eugene",
       "url": "https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg"
+    },
+    {
+      "added_at": "2023-12-21 23:01:00",
+      "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 257500,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV"
     },
     {
       "added_at": "2023-12-21 23:01:00",
@@ -1055,6 +1039,22 @@
     {
       "added_at": "2023-12-21 23:01:00",
       "album": {
+        "name": "Hallo",
+        "url": "https://open.spotify.com/album/4muwv9nlu37zdTF6R2m30u"
+      },
+      "artists": [
+        {
+          "name": "Ivo Martin",
+          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
+        }
+      ],
+      "duration_ms": 120732,
+      "name": "Hallo",
+      "url": "https://open.spotify.com/track/66kh9O5vsEh4nKAb5jM5vc"
+    },
+    {
+      "added_at": "2023-12-21 23:01:00",
+      "album": {
         "name": "Bittersweet (Radio Edit)",
         "url": "https://open.spotify.com/album/6zqOLPAQagrbNJCd10MiST"
       },
@@ -1067,22 +1067,6 @@
       "duration_ms": 236640,
       "name": "Bittersweet - Radio Edit",
       "url": "https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2"
-    },
-    {
-      "added_at": "2023-12-21 23:01:00",
-      "album": {
-        "name": "Where the Heart Is",
-        "url": "https://open.spotify.com/album/6R4T8gjO7lrbP0bALaRFjG"
-      },
-      "artists": [
-        {
-          "name": "HAEVN",
-          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
-        }
-      ],
-      "duration_ms": 217611,
-      "name": "Where the Heart Is - Single Version",
-      "url": "https://open.spotify.com/track/6z7ilJUz6errwzC7cEoDgm"
     },
     {
       "added_at": "2023-12-21 23:01:00",
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2023-12-21 23:01:00",
       "album": {
+        "name": "Where the Heart Is",
+        "url": "https://open.spotify.com/album/6R4T8gjO7lrbP0bALaRFjG"
+      },
+      "artists": [
+        {
+          "name": "HAEVN",
+          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
+        }
+      ],
+      "duration_ms": 217611,
+      "name": "Where the Heart Is - Single Version",
+      "url": "https://open.spotify.com/track/6z7ilJUz6errwzC7cEoDgm"
+    },
+    {
+      "added_at": "2023-12-21 23:01:00",
+      "album": {
         "name": "ARE YOU WITH ME",
         "url": "https://open.spotify.com/album/3kjidQ6jlBMkrpNucShbY2"
       },
@@ -1119,22 +1119,6 @@
       "duration_ms": 167338,
       "name": "ARE YOU WITH ME",
       "url": "https://open.spotify.com/track/6JaHUUwEULmCzw99jyBc4G"
-    },
-    {
-      "added_at": "2023-12-21 23:01:00",
-      "album": {
-        "name": "Prolog I",
-        "url": "https://open.spotify.com/album/1T4yqQcf6jzCEt8IX1dF1v"
-      },
-      "artists": [
-        {
-          "name": "Wallners",
-          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
-        }
-      ],
-      "duration_ms": 258505,
-      "name": "All Again",
-      "url": "https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b"
     },
     {
       "added_at": "2023-12-21 23:01:00",
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2023-12-21 23:01:00",
       "album": {
+        "name": "Prolog I",
+        "url": "https://open.spotify.com/album/1T4yqQcf6jzCEt8IX1dF1v"
+      },
+      "artists": [
+        {
+          "name": "Wallners",
+          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
+        }
+      ],
+      "duration_ms": 258505,
+      "name": "All Again",
+      "url": "https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b"
+    },
+    {
+      "added_at": "2023-12-21 23:01:00",
+      "album": {
         "name": "Two Thirds",
         "url": "https://open.spotify.com/album/2dnS3oCYGlApopA4gYbNNL"
       },
@@ -1171,6 +1171,22 @@
       "duration_ms": 206546,
       "name": "Two Thirds",
       "url": "https://open.spotify.com/track/4iwlTULepVCvBDYDGuibt1"
+    },
+    {
+      "added_at": "2023-12-21 23:01:00",
+      "album": {
+        "name": "a touch of the beat gets you up on your feet gets you out and then into the sun",
+        "url": "https://open.spotify.com/album/00NPJAyth7IDd3jgZDCMdT"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "duration_ms": 267880,
+      "name": "Slow Dancing",
+      "url": "https://open.spotify.com/track/6EXCQbPhpBf5RTQZ4F1raZ"
     },
     {
       "added_at": "2023-12-21 23:01:00",
@@ -1195,18 +1211,18 @@
     {
       "added_at": "2023-12-21 23:01:00",
       "album": {
-        "name": "a touch of the beat gets you up on your feet gets you out and then into the sun",
-        "url": "https://open.spotify.com/album/00NPJAyth7IDd3jgZDCMdT"
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs"
       },
       "artists": [
         {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 267880,
-      "name": "Slow Dancing",
-      "url": "https://open.spotify.com/track/6EXCQbPhpBf5RTQZ4F1raZ"
+      "duration_ms": 204174,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy"
     },
     {
       "added_at": "2023-12-21 23:01:00",
@@ -1223,22 +1239,6 @@
       "duration_ms": 167826,
       "name": "Oceanside",
       "url": "https://open.spotify.com/track/21QdmvUzHMBUYHQLbKGMvq"
-    },
-    {
-      "added_at": "2023-12-21 23:01:00",
-      "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 204174,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy"
     },
     {
       "added_at": "2023-12-21 23:01:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-12-21 23:01:00",
       "album": {
+        "name": "Coffee Shop",
+        "url": "https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 124080,
+      "name": "Coffee Shop",
+      "url": "https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI"
+    },
+    {
+      "added_at": "2023-12-21 23:01:00",
+      "album": {
         "name": "Call Me A Dreamer",
         "url": "https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj"
       },
@@ -1291,18 +1307,18 @@
     {
       "added_at": "2023-12-21 23:01:00",
       "album": {
-        "name": "Coffee Shop",
-        "url": "https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U"
+        "name": "Goodbye to the Valley Low",
+        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
       },
       "artists": [
         {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 124080,
-      "name": "Coffee Shop",
-      "url": "https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI"
+      "duration_ms": 181130,
+      "name": "Stolen Seasons",
+      "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
     },
     {
       "added_at": "2023-12-21 23:01:00",
@@ -1327,22 +1343,6 @@
       "duration_ms": 216411,
       "name": "Regen (Piano Version)",
       "url": "https://open.spotify.com/track/67pt4LpKzOe86oFtrMPb9V"
-    },
-    {
-      "added_at": "2023-12-21 23:01:00",
-      "album": {
-        "name": "Goodbye to the Valley Low",
-        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 181130,
-      "name": "Stolen Seasons",
-      "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
     },
     {
       "added_at": "2023-12-21 23:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. En portada: Nicki Nicole, Mesita, Emilia y Tiago PZK
 
-[Spotify](https://open.spotify.com/user/spotify) - 928,010 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 924,690 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 18 | [Parchecito \- Versión RKT](https://open.spotify.com/track/7my2XpObRUs1dxJpWz56rM) | [Makano](https://open.spotify.com/artist/5F73ZVq8ivLhsYF2pGg4Fc) | [Parchecito \(Versión RKT\)](https://open.spotify.com/album/0HNz0IPJkliIYtF39YWtY4) | 2:37 |
 | 19 | [Apurale](https://open.spotify.com/track/2lWYj5CpdWXU91Tq3pU8CI) | [Jhayseven](https://open.spotify.com/artist/2G3bLEKN244jKnfbVUTzdd), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [Apurale](https://open.spotify.com/album/7LuDetAyvwOiDjbYq1KcRm) | 1:56 |
 | 20 | [GaD \#24](https://open.spotify.com/track/3bYyFMBbSEKt1HdFmHtwA7) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [GaD \#24](https://open.spotify.com/album/4WGALPSbZSZm9S2K7CDgil) | 3:16 |
-| 21 | [Mil Vezes \- Remix](https://open.spotify.com/track/2azJDduVngaqpaUsxKXevt) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Melody](https://open.spotify.com/artist/3cPXzpTSrOM1VJFm6Gwaym) | [Mil Vezes \(Remix\)](https://open.spotify.com/album/28TohT0cuarLuUCyC7VGA1) | 2:07 |
+| 21 | [Mil Vezes \- Remix](https://open.spotify.com/track/2azJDduVngaqpaUsxKXevt) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Mil Vezes \(Remix\)](https://open.spotify.com/album/28TohT0cuarLuUCyC7VGA1) | 2:07 |
 | 22 | [¿Qué Me Dices?](https://open.spotify.com/track/62xluQXvbzXCypORfjTU3X) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Más Normal De L..\. N..\. \(67%\)](https://open.spotify.com/album/6FUgY90LThOhYSrPTZHyqo) | 2:33 |
 | 23 | [Aun Te Pienso](https://open.spotify.com/track/2IYgiwTYm4YBVMIEqJw6hz) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Aun Te Pienso](https://open.spotify.com/album/6Zl4NEfxxgozOEAGFZ6BGg) | 3:04 |
 | 24 | [Bobo Apasionado](https://open.spotify.com/track/5C95pn5iad8Qm6A64fYSvu) | [Charlie Zaa](https://open.spotify.com/artist/1KfBKoozFugeT1PBkz33xl) | [Bobo Apasionado](https://open.spotify.com/album/5JOVoHq7GXS6YqBiZNg6Nq) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 49 | [Y la Perreo](https://open.spotify.com/track/0vgV44LbA1BiCRggiBk8bW) | [DJ Pedro Fuentes](https://open.spotify.com/artist/6Ez7LiWGLxUAl9Gso9zEDs), [Versatil Boy](https://open.spotify.com/artist/0tLQM6502ofNyYTW2NFnZM) | [Y la Perreo](https://open.spotify.com/album/3hyRkqqWY3XMPOw1Niyda3) | 2:36 |
 | 50 | [Wirinikini](https://open.spotify.com/track/32sbBPysflH2Os6I0DnLIY) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa) | [Wirinikini](https://open.spotify.com/album/6WUP7RWj2WrUo256AOh7W3) | 3:05 |
 
-Snapshot ID: `MCw1YTZiNzJmOGIzOWFkZmEzNGQwYjU1N2Q2YTZlZjI1MzlmMmVmYTE4`
+Snapshot ID: `MCw1MTg4YWUyNWM5Y2U1ZTNlNDhmOWY3NDM5MGRiYTE2ZDM2NmJiMmJl`

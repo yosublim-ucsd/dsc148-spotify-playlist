@@ -1,12 +1,12 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Ashley Cooke",
-  "num_followers": 174862,
+  "num_followers": 174964,
   "original_name": "Pop Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTYyMWE3OTgzNDhjYzViOWEyYjQ1ZjdmNTViMzM3YjQwZDkyNDAz",
+  "snapshot_id": "MCw1ZGQzNGJhZjUwZjQ4NjNkOWMzYjBlZmRmN2E4ZjI2YzFjOTAxYjQ1",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "HEARTFIRST",
+        "url": "https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 187016,
+      "name": "HEARTFIRST",
+      "url": "https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "star-crossed",
         "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
       },
@@ -1599,26 +1615,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "TRUSTFALL",
-        "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 214013,
-      "name": "Just Say I'm Sorry",
-      "url": "https://open.spotify.com/track/3opqYjloPGrJDlBjFGoWtU"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
         "url": "https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf"
       },
@@ -1643,18 +1639,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "HEARTFIRST",
-        "url": "https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s"
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 187016,
-      "name": "HEARTFIRST",
-      "url": "https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY"
+      "duration_ms": 214013,
+      "name": "Just Say I'm Sorry",
+      "url": "https://open.spotify.com/track/3opqYjloPGrJDlBjFGoWtU"
     },
     {
       "added_at": "2024-01-05 05:00:00",

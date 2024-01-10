@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-478 songs - 1 day 0 hr 35 min
+479 songs - 1 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [All or Nothing](https://open.spotify.com/track/0Kwq7KPBeyMbV38q9LQnaq) | [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT), [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP), [SGNLS](https://open.spotify.com/artist/4Gr5otnLxK9f0fLpm9jK74) | [All or Nothing](https://open.spotify.com/album/7cnlX7Jz1kd1VbIzI6w2R2) | 3:03 | 2023-07-13 | 2023-08-10 |
 | [Alone](https://open.spotify.com/track/1HynKU9h7mM3nhtLlnVDFu) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Alone](https://open.spotify.com/album/6lfzz0LHtj7dVCeidrcGoX) | 2:37 | 2022-12-09 | 2023-04-28 |
 | [Alone](https://open.spotify.com/track/4kvIwyqoAVaho3Ea7feClh) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Alone EP](https://open.spotify.com/album/3QS6cvgnMj7JuA0gB12Lq8) | 3:34 | 2022-05-19 | 2023-04-28 |
+| [Alright](https://open.spotify.com/track/2pgcIWzePTTC2a99dRrTzd) | [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Sync](https://open.spotify.com/artist/1JT2GXhUeRkIglDUazBmVH), [Marky Style](https://open.spotify.com/artist/30rdwRJSoSZicHb4xOCrme) | [Alright](https://open.spotify.com/album/0UQjd1grnKWmHS6OFY1Qqh) | 3:14 | 2024-01-09 |  |
 | [Annabelle's Tea Party](https://open.spotify.com/track/6nPkoJ32PlIiCmmhnxxZKj) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Annabelle's Tea Party](https://open.spotify.com/album/0G2m4IHWmXSqKQFSPnQN24) | 3:08 | 2022-10-28 | 2023-04-28 |
 | [Are You With Me](https://open.spotify.com/track/27jSC6b62mY4cKfkWuiQBu) | [PLVTO](https://open.spotify.com/artist/2bFnCC8oPXbNJJ6V8e32XH) | [Are You With Me](https://open.spotify.com/album/4gfTtzR8BV1LFHyWWfOM2Q) | 3:11 | 2023-12-13 |  |
 | [Ark](https://open.spotify.com/track/270aqOuRwQS2xfNc3cj5VA) | [Star Party](https://open.spotify.com/artist/2VXRxdCCHHajU61ohOXnO1), [Zookeepers](https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC) | [Ark](https://open.spotify.com/album/3Mh7QKLQKyXPKlCCWivjX3) | 3:00 | 2023-08-08 |  |
@@ -330,7 +331,7 @@
 | [paradise](https://open.spotify.com/track/3Am5nkSILnXq8LXq8dUQG6) | [Raude](https://open.spotify.com/artist/53OGD4I8jF4rxTyEquy1WZ), [Ntsika](https://open.spotify.com/artist/0OJZLTuFdww9IGthPZE8uN) | [paradise](https://open.spotify.com/album/6I0s3voMRDUIpVHjGAP6dU) | 2:31 | 2023-07-27 | 2023-08-10 |
 | [Party](https://open.spotify.com/track/4FULPITIQbUrszR2lZsoZZ) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Party](https://open.spotify.com/album/3y4HtUHYYXZ4wdI2OHxABQ) | 3:12 | 2022-12-21 | 2023-04-28 |
 | [Patience](https://open.spotify.com/track/2wB3bSpptrSiz9vAA9YQbZ) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [VinDon](https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0) | [Patience](https://open.spotify.com/album/5xKP3ZZUuqeqhmsyAJslh5) | 3:36 | 2022-06-24 | 2023-04-28 |
-| [Perfect 10](https://open.spotify.com/track/2MolFsdE7ydCQQgsmfvX6w) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [Perfect 10](https://open.spotify.com/album/7ELX0wC96zy5lPQe8VRSdG) | 3:24 | 2023-08-08 |  |
+| [Perfect 10](https://open.spotify.com/track/2MolFsdE7ydCQQgsmfvX6w) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [Perfect 10](https://open.spotify.com/album/7ELX0wC96zy5lPQe8VRSdG) | 3:24 | 2023-08-08 | 2024-01-10 |
 | [Phenomenon](https://open.spotify.com/track/3aYidIc6HUMrL1tFTmokSZ) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39), [Hoober](https://open.spotify.com/artist/32rfvsXfn7YDlDhG7Hh7Zd), [VinDon](https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0) | [Faceless](https://open.spotify.com/album/4c0WhpvNSbSSlElNQOqlzU) | 2:56 | 2023-08-08 | 2023-12-14 |
 | [Phoenix](https://open.spotify.com/track/3SuxtjdFxY3RIaWyPgtkfk) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Phoenix](https://open.spotify.com/album/6NsZCEmTqHL2z7wOu1LQ9L) | 3:58 | 2023-08-08 |  |
 | [Pick Up The Pieces](https://open.spotify.com/track/65iqcLmrli2xc7L84ylh4w) | [MANIA](https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c), [Cesar Santalo](https://open.spotify.com/artist/0GOf63Qs5qGm2K0SJ8EgL2) | [Pick Up The Pieces](https://open.spotify.com/album/1tVECFTaW2JwVnA4PGbGc5) | 2:51 | 2023-12-13 |  |

@@ -4,7 +4,7 @@
 
 > Les hits marocains du moment\. Cover: ElGrandeToto
 
-336 songs - 18 hr 7 min
+337 songs - 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [De9at l9elb](https://open.spotify.com/track/3WzncgOidVpqkak5Ee4b1n) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [De9at l9elb](https://open.spotify.com/album/4AqUJTIVVpHmoGonhlp7Gr) | 2:34 | 2022-01-15 | 2023-10-25 |
 | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7) | 3:02 | 2023-11-08 |  |
 | [Denbi](https://open.spotify.com/track/7t6gPk6jiSye8IVrfAPqOV) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Denbi](https://open.spotify.com/album/1QRWjgco5Vo4HeJVr2ffEr) | 2:56 | 2022-10-24 | 2023-06-28 |
+| [Di Mochkila](https://open.spotify.com/track/3iEya2BDyWT88tM8fOJJx3) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Norel](https://open.spotify.com/artist/5GDRJ2wLCUGI1ryefQ3f3t), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Di Mochkila](https://open.spotify.com/album/0O3gGUuUaEOMLyhFH91KHK) | 2:25 | 2024-01-09 |  |
 | [Diali](https://open.spotify.com/track/4XO9kZEztAPhjhXMfKXJ5m) | [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Arabesque Vol\. 3](https://open.spotify.com/album/3fedvxkm2spgp8sq4DJFFX) | 2:46 | 2023-03-16 |  |
 | [Dime Porque](https://open.spotify.com/track/6yd5mN94Oi7OOZ4mGA7Co1) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Dime Porque](https://open.spotify.com/album/4F52Ar98sgSN12heKH3e7v) | 3:01 | 2022-06-02 | 2022-11-22 |
 | [Dirou Niyya \- Official Moroccan Fan Chant](https://open.spotify.com/track/2pDBEAiA554r73laQPmzOW) | [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx) | [Dirou Niyya \(Official Moroccan Fan Chant\)](https://open.spotify.com/album/4dh7GUAykeLvwzGOVM1lcb) | 2:57 | 2022-12-27 | 2023-03-07 |
@@ -288,7 +289,7 @@
 | [Stylo warqa](https://open.spotify.com/track/4H0oUwMaA4iFVZtl4YR4Jj) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Stylo warqa](https://open.spotify.com/album/1pHIJnUoWiYGVwV2PAn8Oc) | 2:57 | 2021-12-25 | 2022-12-16 |
 | [Sunshine](https://open.spotify.com/track/4lYaOQtP4QO6ysz5o8SfrR) | [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW) | [Sunshine](https://open.spotify.com/album/6aZJlU67NdC6pWLcLBcXE5) | 3:53 | 2022-10-25 | 2022-11-10 |
 | [Symphonia](https://open.spotify.com/track/0FMWWmtZ5PlOKuhtXVeaoD) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Symphonia](https://open.spotify.com/album/4QZfpbH0dWrsNxAXlB04m3) | 3:24 | 2023-11-06 | 2023-11-24 |
-| [Talet Lghiba](https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Talet Lghiba](https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ) | 3:31 | 2022-11-25 |  |
+| [Talet Lghiba](https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Talet Lghiba](https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ) | 3:31 | 2022-11-25 | 2024-01-10 |
 | [TAY9 \- Spotify Singles](https://open.spotify.com/track/33vKgJAIkPU3AOcsAmggGG) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN), [AKOA](https://open.spotify.com/artist/3a0HEhdCd1Ca2a1Q9hqHlq) | [TAY9 \(Spotify Singles\)](https://open.spotify.com/album/3fMQ4kuJGfwQThWWYTo322) | 3:49 | 2023-12-07 | 2023-12-15 |
 | [Te Amo](https://open.spotify.com/track/2vzkvVC45Q5zZQm6WWoyfB) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Te Amo](https://open.spotify.com/album/55tZQkSyOWHKFVjrn5dzU1) | 2:55 | 2021-12-25 | 2022-02-15 |
 | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/track/4TBxB7MulrQ1Nb2uxHwJX1) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/album/7uWbDuFBLAEI68L9U2pJ85) | 2:41 | 2023-05-12 |  |

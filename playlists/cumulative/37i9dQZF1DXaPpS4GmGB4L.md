@@ -4,7 +4,7 @@
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-189 songs - 10 hr 56 min
+190 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Pony Boy](https://open.spotify.com/track/0FuaUNYkcuu8DyXm3UDxA0) | [Jon Cleary](https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX) | [So Swell](https://open.spotify.com/album/5VW0Vy8eqvS8ep0CsQvXfO) | 2:20 | 2023-08-25 |  |
 | [Poor Boy](https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Real Folk Blues](https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0) | 2:36 | 2021-12-20 |  |
 | [Pride and Joy](https://open.spotify.com/track/1oT20g6f8rvymheUIdFr19) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Real Deal: Greatest Hits Volume 1](https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm) | 3:39 | 2021-12-20 |  |
-| [Proud Man's Blues \(Radio Mix\)](https://open.spotify.com/track/0wrFuYDRBrcx4BHqLsnIcH) | [L.A\. Big Daddy's](https://open.spotify.com/artist/52F4si8QmpdcHrwAIOU5qE) | [Proud Man's Blues \(Radio Mix\)](https://open.spotify.com/album/7h1acEI8URAH1RNchZ8CNK) | 3:27 | 2022-07-08 |  |
+| [Proud Man's Blues \(Radio Mix\)](https://open.spotify.com/track/0wrFuYDRBrcx4BHqLsnIcH) | [L.A\. Big Daddy's](https://open.spotify.com/artist/52F4si8QmpdcHrwAIOU5qE) | [Proud Man's Blues \(Radio Mix\)](https://open.spotify.com/album/7h1acEI8URAH1RNchZ8CNK) | 3:27 | 2022-07-08 | 2024-01-10 |
 | [Put It](https://open.spotify.com/track/0ilZ3ymj1tmMcwGsrYpkfb) | [TrackTribe](https://open.spotify.com/artist/4YKdSLESMOqzq5QSMAjCmv) | [Put It](https://open.spotify.com/album/7c09IE37N9Vh2WritMGyF5) | 3:30 | 2023-08-18 | 2024-01-05 |
 | [RED DRESS](https://open.spotify.com/track/7piAoG8DsUIsXzahToJ5Yb) | [Ethan Wilson](https://open.spotify.com/artist/0HrxgAPTbsueVGzLVZ6RzP) | [RED DRESS](https://open.spotify.com/album/4uh2J2yGXDUpXqN3VNSTtA) | 3:16 | 2023-08-18 |  |
 | [Red Hot](https://open.spotify.com/track/5sz4rMisEqqLDkObDfNeKq) | [Billy "The Kid" Emerson](https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw) | [Red Hot / No Greater Love](https://open.spotify.com/album/7KEEvzpHHkU4R3BKgsBtZV) | 2:27 | 2023-08-18 |  |
@@ -165,6 +165,7 @@
 | [Steppin' Out \- Mono](https://open.spotify.com/track/4XpLqmD7SxGzaKuTs07FM0) | [James Bracken](https://open.spotify.com/artist/58fUt7QRp6wXTLz4MRTNaN), [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Blues Breakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 2:27 | 2021-12-20 |  |
 | [Stop Messin' Round](https://open.spotify.com/track/1sHmkDWe8U8SDqMZKfgTLO) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [The Blues Album](https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS) | 3:37 | 2022-05-27 |  |
 | [Stormy Monday Blues \- Remastered 2022](https://open.spotify.com/track/0E5L3ZvZD3cGCesbYuAtnY) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Stormy Monday Blues \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC) | 2:51 | 2023-08-18 |  |
+| [Strange Things Happening Every Day](https://open.spotify.com/track/1mZnYPZKrIzS5AEjXa5fzC) | [Tracy Nelson](https://open.spotify.com/artist/41D1NBo5Ib5aJ7Aavt3cWS) | [Life Don’t Miss Nobody](https://open.spotify.com/album/6wLNDDWOMPE9leLWmhDw7C) | 3:37 | 2023-11-24 |  |
 | [Sweet Like Sugar](https://open.spotify.com/track/44LsPNyywQt1ztLNiSXC5H) | [Jesse Ray and the Carolina Catfish](https://open.spotify.com/artist/4Qafc3GarByfVBFGCi81zy) | [Sweet Like Sugar](https://open.spotify.com/album/0IP5xdy2rkJ7wZE5mNw51y) | 2:53 | 2023-08-18 | 2023-08-28 |
 | [Syracuse Boots](https://open.spotify.com/track/60wLkHNSDcXE3iCtNxmWmr) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp), [T Bird and the Breaks](https://open.spotify.com/artist/7BfKzWvOnw7aAUU4NLLRD0) | [Greybird](https://open.spotify.com/album/25NxKFjwbaZclwi4WizmrD) | 3:46 | 2023-08-25 | 2023-10-15 |
 | [Take It Back](https://open.spotify.com/track/0EBCSoTMmj0Gf0aOkZ6Hx1) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Take It Back](https://open.spotify.com/album/0gM5G6j0lWaxk1GOv0nfbL) | 5:35 | 2021-12-20 |  |

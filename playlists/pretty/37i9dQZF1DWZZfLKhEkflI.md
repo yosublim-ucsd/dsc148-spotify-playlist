@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 
 > Funky Jazz from the mid 1950s to the early 1960s\. Cover: Art Blakey
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,285 likes - 75 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,323 likes - 75 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 10 | [Hoe Down](https://open.spotify.com/track/3k7MPapSDy9kSWuhvXxP3c) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [The Blues And The Abstract Truth](https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY) | 4:41 |
 | 11 | [Nice And Easy \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/3E7QzgM8Je4hyf0kK8tGmD) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing Johnny Griffin \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 4:19 |
 | 12 | [My Groove Your Move \- Rudy Van Gelder Edition](https://open.spotify.com/track/5wcAcShxT5qvLJvuM6jkZt) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Roll Call](https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7) | 6:07 |
-| 13 | [Blues Function \- Rudy Van Gelder Edition/2009 Digital Remaster](https://open.spotify.com/track/0JelnIVO4u5xO9PGLG6cOg) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Bluesnik \(Remastered/ Expanded Edition\)](https://open.spotify.com/album/0SDg271NTQpfxhWrDOv5MW) | 7:19 |
-| 14 | [Rigor Mortez \- Rudy Van Gelder 24\-Bit Mastering/2003 Remaster](https://open.spotify.com/track/4lQGjcuX6xblZPrVbsga6l) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Boss Horn \(Remastered\)](https://open.spotify.com/album/1Zg5gkaCMGezneA4Aq9yXk) | 6:21 |
+| 13 | [Rigor Mortez \- Rudy Van Gelder 24\-Bit Mastering/2003 Remaster](https://open.spotify.com/track/4lQGjcuX6xblZPrVbsga6l) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Boss Horn \(Remastered\)](https://open.spotify.com/album/1Zg5gkaCMGezneA4Aq9yXk) | 6:21 |
+| 14 | [Blues Function \- Rudy Van Gelder Edition/2009 Digital Remaster](https://open.spotify.com/track/0JelnIVO4u5xO9PGLG6cOg) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Bluesnik \(Remastered/ Expanded Edition\)](https://open.spotify.com/album/0SDg271NTQpfxhWrDOv5MW) | 7:19 |
 | 15 | [True Blue](https://open.spotify.com/track/1s1UN3QMJGyhXQAuMqNcbK) | [Tina Brooks](https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX) | [True Blue](https://open.spotify.com/album/2E4Zyg78Slt7IyJhIbYbtW) | 4:57 |
 | 16 | [Play Ray](https://open.spotify.com/track/0CaMKN4Fu6WKHBW38JazrY) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 5:31 |
 | 17 | [Blue Friday \- Rudy Van Gelder Remaster](https://open.spotify.com/track/21YdGlpbMRU6k13KKU2A2z) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Quiet Kenny](https://open.spotify.com/album/12tlFVNl1jvVru8EtB5HEn) | 8:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 74 | [South Side \- Remastered 2007 / Rudy Van Gelder Edition](https://open.spotify.com/track/7A8bDI0oJDi6gNhe3YIWBQ) | [Louis Smith](https://open.spotify.com/artist/1iQYoladduzzUciyOnjJAX) | [Here Comes Louis Smith \(Remastered\)](https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf) | 8:38 |
 | 75 | [Petty Larceny](https://open.spotify.com/track/0EVGwICUNwPZolrklaiByV) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [The Freedom Rider](https://open.spotify.com/album/72jnQGrWRPB8eMGLRgV5Zp) | 6:16 |
 
-Snapshot ID: `MCxlMWM2ZmE4NjY5NWM1YWEzYTYyYjZkYjUxNGUxOGJiZDY0MmYwNzFk`
+Snapshot ID: `MCxiZjUzOGUzMWZkZGJjYTU5NmM3NjkzNGMwODJmYzM1NmRhOTEyMjQ2`

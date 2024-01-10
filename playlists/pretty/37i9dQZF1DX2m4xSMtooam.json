@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sweet and soothing sound of Bossa nova.",
-  "num_followers": 181446,
+  "num_followers": 181571,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTgxZGJlZWJmNGJkZmE4ODM1N2NmOTgwNDBhZmRiYTU0Nzk5YTBh",
+  "snapshot_id": "MCxlMjEzYzdmYTAzNjNhYzhlY2JiY2EzY2YyZGYyNjkyZjE3NTRjMzEz",
   "tracks": [
     {
       "added_at": "2024-01-03 12:34:24",
@@ -311,6 +311,22 @@
     {
       "added_at": "2024-01-03 12:34:24",
       "album": {
+        "name": "Work From Home with Oscar Peterson",
+        "url": "https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 169066,
+      "name": "Quiet Nights Of Quiet Stars (Corcovado)",
+      "url": "https://open.spotify.com/track/3lTyliusZgm29TXJyfFO3B"
+    },
+    {
+      "added_at": "2024-01-03 12:34:24",
+      "album": {
         "name": "Night Lights (Expanded Edition)",
         "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 349080,
       "name": "Desafinado",
       "url": "https://open.spotify.com/track/0aOH62uqDzuvCvN2jdVtZs"
-    },
-    {
-      "added_at": "2024-01-03 12:34:24",
-      "album": {
-        "name": "Work From Home with Oscar Peterson",
-        "url": "https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 169066,
-      "name": "Quiet Nights Of Quiet Stars (Corcovado)",
-      "url": "https://open.spotify.com/track/3lTyliusZgm29TXJyfFO3B"
     },
     {
       "added_at": "2024-01-03 12:34:24",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-01-03 12:34:24",
       "album": {
-        "name": "Press\u00e1gio",
-        "url": "https://open.spotify.com/album/7LhUawCpzHAfH4MZ3zBLlb"
-      },
-      "artists": [
-        {
-          "name": "Marcio Philomena",
-          "url": "https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2"
-        }
-      ],
-      "duration_ms": 397571,
-      "name": "Press\u00e1gio",
-      "url": "https://open.spotify.com/track/5BdyZTa9TXXdLfOvvwhgGH"
-    },
-    {
-      "added_at": "2024-01-03 12:34:24",
-      "album": {
         "name": "I Still Haven't Found What I'm Looking For",
         "url": "https://open.spotify.com/album/6DIhteXyU6TqzXu6mdwuzO"
       },
@@ -675,18 +659,18 @@
     {
       "added_at": "2024-01-03 12:34:24",
       "album": {
-        "name": "Once Forgotten",
-        "url": "https://open.spotify.com/album/5X2xPJhl0fOdxCvjFp0i7v"
+        "name": "Press\u00e1gio",
+        "url": "https://open.spotify.com/album/7LhUawCpzHAfH4MZ3zBLlb"
       },
       "artists": [
         {
-          "name": "Steve Luke & Holloway",
-          "url": "https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY"
+          "name": "Marcio Philomena",
+          "url": "https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2"
         }
       ],
-      "duration_ms": 247711,
-      "name": "Once Forgotten",
-      "url": "https://open.spotify.com/track/2aPO4B3PM4hPhNsUdITCWr"
+      "duration_ms": 397571,
+      "name": "Press\u00e1gio",
+      "url": "https://open.spotify.com/track/5BdyZTa9TXXdLfOvvwhgGH"
     },
     {
       "added_at": "2024-01-03 12:34:24",
@@ -703,6 +687,22 @@
       "duration_ms": 232261,
       "name": "The Shadow of Your Smile",
       "url": "https://open.spotify.com/track/7CkCIrM9MwcHjlp7DgeS73"
+    },
+    {
+      "added_at": "2024-01-03 12:34:24",
+      "album": {
+        "name": "Once Forgotten",
+        "url": "https://open.spotify.com/album/5X2xPJhl0fOdxCvjFp0i7v"
+      },
+      "artists": [
+        {
+          "name": "Steve Luke & Holloway",
+          "url": "https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY"
+        }
+      ],
+      "duration_ms": 247711,
+      "name": "Once Forgotten",
+      "url": "https://open.spotify.com/track/2aPO4B3PM4hPhNsUdITCWr"
     },
     {
       "added_at": "2024-01-03 12:34:24",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-01-03 12:34:24",
       "album": {
-        "name": "Every Time We Say Goodbye",
-        "url": "https://open.spotify.com/album/40tqbMBeLUEkJsVN6VKJB0"
-      },
-      "artists": [
-        {
-          "name": "Yorkville",
-          "url": "https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn"
-        }
-      ],
-      "duration_ms": 213931,
-      "name": "So In Love",
-      "url": "https://open.spotify.com/track/2su3D4cHfobQLqFUdYc3xs"
-    },
-    {
-      "added_at": "2024-01-03 12:34:24",
-      "album": {
         "name": "Smile For Me",
         "url": "https://open.spotify.com/album/72ZwSwMfG0MpC7xMGellJK"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 172162,
       "name": "Verano",
       "url": "https://open.spotify.com/track/7qf9r2CuRXyskGOqx2Smen"
+    },
+    {
+      "added_at": "2024-01-03 12:34:24",
+      "album": {
+        "name": "Every Time We Say Goodbye",
+        "url": "https://open.spotify.com/album/40tqbMBeLUEkJsVN6VKJB0"
+      },
+      "artists": [
+        {
+          "name": "Yorkville",
+          "url": "https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn"
+        }
+      ],
+      "duration_ms": 213931,
+      "name": "So In Love",
+      "url": "https://open.spotify.com/track/2su3D4cHfobQLqFUdYc3xs"
     },
     {
       "added_at": "2024-01-03 12:34:24",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-01-03 12:34:24",
       "album": {
-        "name": "Lembran\u00e7as",
-        "url": "https://open.spotify.com/album/1uPZt0rwu5GK8wA9Qji4tW"
-      },
-      "artists": [
-        {
-          "name": "Vitor Jos\u00e9 Fonseca",
-          "url": "https://open.spotify.com/artist/4lmPgpLRyJHPseygyVBGTu"
-        }
-      ],
-      "duration_ms": 244711,
-      "name": "Lembran\u00e7as",
-      "url": "https://open.spotify.com/track/4eGXFQEQGGxgYy6OFabfJV"
-    },
-    {
-      "added_at": "2024-01-03 12:34:24",
-      "album": {
         "name": "A Little Brighter Every Day",
         "url": "https://open.spotify.com/album/46LYThMVZtZb45xNBQvqmp"
       },
@@ -959,18 +943,18 @@
     {
       "added_at": "2024-01-03 12:34:24",
       "album": {
-        "name": "Bossa Nova For Beginners",
-        "url": "https://open.spotify.com/album/1pcnT4wosrH8uUmKZBtozX"
+        "name": "Lembran\u00e7as",
+        "url": "https://open.spotify.com/album/1uPZt0rwu5GK8wA9Qji4tW"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+          "name": "Vitor Jos\u00e9 Fonseca",
+          "url": "https://open.spotify.com/artist/4lmPgpLRyJHPseygyVBGTu"
         }
       ],
-      "duration_ms": 188466,
-      "name": "Sorriu Para Mim",
-      "url": "https://open.spotify.com/track/06baiB3MQP3UaRJjAgd0LG"
+      "duration_ms": 244711,
+      "name": "Lembran\u00e7as",
+      "url": "https://open.spotify.com/track/4eGXFQEQGGxgYy6OFabfJV"
     },
     {
       "added_at": "2024-01-03 12:34:24",
@@ -991,18 +975,18 @@
     {
       "added_at": "2024-01-03 12:34:24",
       "album": {
-        "name": "Sunset Martini",
-        "url": "https://open.spotify.com/album/7wVdlgOP7d5mRO64fvspVb"
+        "name": "Bossa Nova For Beginners",
+        "url": "https://open.spotify.com/album/1pcnT4wosrH8uUmKZBtozX"
       },
       "artists": [
         {
-          "name": "Magnus Ringblom Quartet",
-          "url": "https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru"
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 222599,
-      "name": "Enjoy Your Cigar",
-      "url": "https://open.spotify.com/track/5WaOOx9Q5BJhJAfQaxnaaN"
+      "duration_ms": 188466,
+      "name": "Sorriu Para Mim",
+      "url": "https://open.spotify.com/track/06baiB3MQP3UaRJjAgd0LG"
     },
     {
       "added_at": "2024-01-03 12:34:24",
@@ -1019,6 +1003,22 @@
       "duration_ms": 173943,
       "name": "Cosme Velho",
       "url": "https://open.spotify.com/track/4t1NtFuhpXCjdKFsNTfNdJ"
+    },
+    {
+      "added_at": "2024-01-03 12:34:24",
+      "album": {
+        "name": "Sunset Martini",
+        "url": "https://open.spotify.com/album/7wVdlgOP7d5mRO64fvspVb"
+      },
+      "artists": [
+        {
+          "name": "Magnus Ringblom Quartet",
+          "url": "https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru"
+        }
+      ],
+      "duration_ms": 222599,
+      "name": "Enjoy Your Cigar",
+      "url": "https://open.spotify.com/track/5WaOOx9Q5BJhJAfQaxnaaN"
     },
     {
       "added_at": "2024-01-03 12:34:24",
@@ -1071,46 +1071,6 @@
     {
       "added_at": "2024-01-03 12:34:24",
       "album": {
-        "name": "Brazil",
-        "url": "https://open.spotify.com/album/0SVtsd6mAN8xjDFR8NDZRr"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 321640,
-      "name": "All of Me (Disse alguem)",
-      "url": "https://open.spotify.com/track/0YPurGQSRUDTtIFUX3Nskc"
-    },
-    {
-      "added_at": "2024-01-03 12:34:24",
-      "album": {
-        "name": "Dindi",
-        "url": "https://open.spotify.com/album/4knjVWNKQlrrsXpfPImum0"
-      },
-      "artists": [
-        {
-          "name": "Clube no norte",
-          "url": "https://open.spotify.com/artist/18eKmZOA1BvY1sBLnvKNHH"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "I didn't know what time it was",
-      "url": "https://open.spotify.com/track/2zAErc7IF0XI38zPfaXipU"
-    },
-    {
-      "added_at": "2024-01-03 12:34:24",
-      "album": {
         "name": "P\u00e3o de A\u00e7\u00facar",
         "url": "https://open.spotify.com/album/5qz7sVtLSdqQatSiYUpJWM"
       },
@@ -1143,38 +1103,6 @@
     {
       "added_at": "2024-01-03 12:34:24",
       "album": {
-        "name": "River of Dreams",
-        "url": "https://open.spotify.com/album/7IID5V4pzViAAal8scWxWA"
-      },
-      "artists": [
-        {
-          "name": "Trio Del Norte",
-          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
-        }
-      ],
-      "duration_ms": 183082,
-      "name": "River of Dreams",
-      "url": "https://open.spotify.com/track/303q7nGbVGdxUvbhbEfHzS"
-    },
-    {
-      "added_at": "2024-01-03 12:34:24",
-      "album": {
-        "name": "Once I Loved",
-        "url": "https://open.spotify.com/album/0MyW4ebA1Otb0YYXeVOtnP"
-      },
-      "artists": [
-        {
-          "name": "Logan Perez Trio",
-          "url": "https://open.spotify.com/artist/1LkgOk5uGieE5FGkTxGNIw"
-        }
-      ],
-      "duration_ms": 434476,
-      "name": "Once I Loved",
-      "url": "https://open.spotify.com/track/0M6auxy6hLBXBhniH5UR2U"
-    },
-    {
-      "added_at": "2024-01-03 12:34:24",
-      "album": {
         "name": "Green Grapes",
         "url": "https://open.spotify.com/album/76gYdoPvK3LjTarXj4WTWZ"
       },
@@ -1187,6 +1115,30 @@
       "duration_ms": 224187,
       "name": "Woodblock Print",
       "url": "https://open.spotify.com/track/3ZNlFTP0ShxCtIUbCfFlNN"
+    },
+    {
+      "added_at": "2024-01-03 12:34:24",
+      "album": {
+        "name": "Brazil",
+        "url": "https://open.spotify.com/album/0SVtsd6mAN8xjDFR8NDZRr"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 321640,
+      "name": "All of Me (Disse alguem)",
+      "url": "https://open.spotify.com/track/0YPurGQSRUDTtIFUX3Nskc"
     },
     {
       "added_at": "2024-01-03 12:34:24",
@@ -1207,6 +1159,38 @@
     {
       "added_at": "2024-01-03 12:34:24",
       "album": {
+        "name": "Dindi",
+        "url": "https://open.spotify.com/album/4knjVWNKQlrrsXpfPImum0"
+      },
+      "artists": [
+        {
+          "name": "Clube no norte",
+          "url": "https://open.spotify.com/artist/18eKmZOA1BvY1sBLnvKNHH"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "I didn't know what time it was",
+      "url": "https://open.spotify.com/track/2zAErc7IF0XI38zPfaXipU"
+    },
+    {
+      "added_at": "2024-01-03 12:34:24",
+      "album": {
+        "name": "River of Dreams",
+        "url": "https://open.spotify.com/album/7IID5V4pzViAAal8scWxWA"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "duration_ms": 183082,
+      "name": "River of Dreams",
+      "url": "https://open.spotify.com/track/303q7nGbVGdxUvbhbEfHzS"
+    },
+    {
+      "added_at": "2024-01-03 12:34:24",
+      "album": {
         "name": "Blue Night Bossa",
         "url": "https://open.spotify.com/album/6XmwjVSryg17GrpHl5eVx7"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 231377,
       "name": "Standing Tall",
       "url": "https://open.spotify.com/track/6zyXnFhbzWquheImVhTyMX"
+    },
+    {
+      "added_at": "2024-01-03 12:34:24",
+      "album": {
+        "name": "Once I Loved",
+        "url": "https://open.spotify.com/album/0MyW4ebA1Otb0YYXeVOtnP"
+      },
+      "artists": [
+        {
+          "name": "Logan Perez Trio",
+          "url": "https://open.spotify.com/artist/1LkgOk5uGieE5FGkTxGNIw"
+        }
+      ],
+      "duration_ms": 434476,
+      "name": "Once I Loved",
+      "url": "https://open.spotify.com/track/0M6auxy6hLBXBhniH5UR2U"
     },
     {
       "added_at": "2024-01-03 12:34:24",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-01-03 12:34:24",
       "album": {
-        "name": "Strangers in the Night",
-        "url": "https://open.spotify.com/album/6QGyGBnji7UQ2ZHeV6vZRs"
-      },
-      "artists": [
-        {
-          "name": "Jade Vieira",
-          "url": "https://open.spotify.com/artist/62u2ks7IGeMOqkSLCAaLHK"
-        }
-      ],
-      "duration_ms": 170418,
-      "name": "Strangers in the Night",
-      "url": "https://open.spotify.com/track/4oulAJLw1DSMKERkIQDFG8"
-    },
-    {
-      "added_at": "2024-01-03 12:34:24",
-      "album": {
         "name": "I've Never Been in Love Before",
         "url": "https://open.spotify.com/album/2JS1LQHGLJ4ZmwM2LTFoW1"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 236677,
       "name": "I've Never Been in Love Before",
       "url": "https://open.spotify.com/track/3zxJSADabzOeoABoE7O7Jz"
+    },
+    {
+      "added_at": "2024-01-03 12:34:24",
+      "album": {
+        "name": "Strangers in the Night",
+        "url": "https://open.spotify.com/album/6QGyGBnji7UQ2ZHeV6vZRs"
+      },
+      "artists": [
+        {
+          "name": "Jade Vieira",
+          "url": "https://open.spotify.com/artist/62u2ks7IGeMOqkSLCAaLHK"
+        }
+      ],
+      "duration_ms": 170418,
+      "name": "Strangers in the Night",
+      "url": "https://open.spotify.com/track/4oulAJLw1DSMKERkIQDFG8"
     },
     {
       "added_at": "2024-01-03 12:34:24",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-01-03 12:34:24",
       "album": {
-        "name": "Ondas Cintilantes",
-        "url": "https://open.spotify.com/album/3TzJR9AZiINuZIY2WWvR7A"
-      },
-      "artists": [
-        {
-          "name": "Mabon Clarke Quartet",
-          "url": "https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc"
-        }
-      ],
-      "duration_ms": 178123,
-      "name": "Ondas Cintilantes",
-      "url": "https://open.spotify.com/track/0BaqfOrf4DXXO7oOgbanwm"
-    },
-    {
-      "added_at": "2024-01-03 12:34:24",
-      "album": {
         "name": "Time Passing Slowly",
         "url": "https://open.spotify.com/album/2UFNvSBbtLOxzaFXxNoeKv"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 218000,
       "name": "Time Passing Slowly",
       "url": "https://open.spotify.com/track/1uEOB09ZF3Xt3WmtbneqMf"
+    },
+    {
+      "added_at": "2024-01-03 12:34:24",
+      "album": {
+        "name": "Ondas Cintilantes",
+        "url": "https://open.spotify.com/album/3TzJR9AZiINuZIY2WWvR7A"
+      },
+      "artists": [
+        {
+          "name": "Mabon Clarke Quartet",
+          "url": "https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc"
+        }
+      ],
+      "duration_ms": 178123,
+      "name": "Ondas Cintilantes",
+      "url": "https://open.spotify.com/track/0BaqfOrf4DXXO7oOgbanwm"
     },
     {
       "added_at": "2024-01-03 12:34:24",
@@ -1351,38 +1351,6 @@
     {
       "added_at": "2024-01-03 12:34:24",
       "album": {
-        "name": "From Paris To Rio",
-        "url": "https://open.spotify.com/album/0q1gz3xUPgFZlnL18h6KUk"
-      },
-      "artists": [
-        {
-          "name": "Karrin Allyson",
-          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "O Barquinho",
-      "url": "https://open.spotify.com/track/5mYrk9TmtP6t7a6JOYabJC"
-    },
-    {
-      "added_at": "2024-01-03 12:34:24",
-      "album": {
-        "name": "Standard Deviations",
-        "url": "https://open.spotify.com/album/6LEFehuSSQhReDOW9udTcf"
-      },
-      "artists": [
-        {
-          "name": "Andreas Gidlund Five",
-          "url": "https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Ceora",
-      "url": "https://open.spotify.com/track/56IjzoxiY9gC58xawVkMiI"
-    },
-    {
-      "added_at": "2024-01-03 12:34:24",
-      "album": {
         "name": "Sombra La Lua",
         "url": "https://open.spotify.com/album/6z87GcQHwxK137iiIU9PH5"
       },
@@ -1395,6 +1363,22 @@
       "duration_ms": 226468,
       "name": "Sombra La Lua",
       "url": "https://open.spotify.com/track/7cB0pvTADSIai5xRoH8owQ"
+    },
+    {
+      "added_at": "2024-01-03 12:34:24",
+      "album": {
+        "name": "From Paris To Rio",
+        "url": "https://open.spotify.com/album/0q1gz3xUPgFZlnL18h6KUk"
+      },
+      "artists": [
+        {
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "O Barquinho",
+      "url": "https://open.spotify.com/track/5mYrk9TmtP6t7a6JOYabJC"
     },
     {
       "added_at": "2024-01-03 12:34:24",
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2024-01-03 12:34:24",
       "album": {
-        "name": "Rio",
-        "url": "https://open.spotify.com/album/1CZob5T7V1GsgTjMFVY64B"
+        "name": "Standard Deviations",
+        "url": "https://open.spotify.com/album/6LEFehuSSQhReDOW9udTcf"
       },
       "artists": [
         {
-          "name": "Nick Osman Trio",
-          "url": "https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr"
+          "name": "Andreas Gidlund Five",
+          "url": "https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6"
         }
       ],
-      "duration_ms": 199875,
-      "name": "Rio",
-      "url": "https://open.spotify.com/track/5tFmZJH6cznz3n4sSpcPLq"
+      "duration_ms": 248000,
+      "name": "Ceora",
+      "url": "https://open.spotify.com/track/56IjzoxiY9gC58xawVkMiI"
     },
     {
       "added_at": "2024-01-03 12:34:24",
@@ -1483,6 +1467,22 @@
       "duration_ms": 269840,
       "name": "Aquela Bossa Ax\u00e9",
       "url": "https://open.spotify.com/track/5G4VEEZXyBTEBw9RCj0L8S"
+    },
+    {
+      "added_at": "2024-01-03 12:34:24",
+      "album": {
+        "name": "Rio",
+        "url": "https://open.spotify.com/album/1CZob5T7V1GsgTjMFVY64B"
+      },
+      "artists": [
+        {
+          "name": "Nick Osman Trio",
+          "url": "https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr"
+        }
+      ],
+      "duration_ms": 199875,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/5tFmZJH6cznz3n4sSpcPLq"
     },
     {
       "added_at": "2024-01-03 12:34:24",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-01-03 12:34:24",
       "album": {
-        "name": "Est\u00e1gio",
-        "url": "https://open.spotify.com/album/5YpDYJcj7TWf8mxWD0DlQk"
-      },
-      "artists": [
-        {
-          "name": "da Su\u00e9cia",
-          "url": "https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse"
-        }
-      ],
-      "duration_ms": 259655,
-      "name": "Est\u00e1gio",
-      "url": "https://open.spotify.com/track/2Z5CvWJ5kgga6l3g4WaTTL"
-    },
-    {
-      "added_at": "2024-01-03 12:34:24",
-      "album": {
         "name": "Above the Clouds",
         "url": "https://open.spotify.com/album/2JayXGwZRkOf2d8800ymf4"
       },
@@ -1663,6 +1647,22 @@
     {
       "added_at": "2024-01-03 12:34:24",
       "album": {
+        "name": "Est\u00e1gio",
+        "url": "https://open.spotify.com/album/5YpDYJcj7TWf8mxWD0DlQk"
+      },
+      "artists": [
+        {
+          "name": "da Su\u00e9cia",
+          "url": "https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse"
+        }
+      ],
+      "duration_ms": 259655,
+      "name": "Est\u00e1gio",
+      "url": "https://open.spotify.com/track/2Z5CvWJ5kgga6l3g4WaTTL"
+    },
+    {
+      "added_at": "2024-01-03 12:34:24",
+      "album": {
         "name": "Florian\u00f3polis",
         "url": "https://open.spotify.com/album/2C33KFJjdDgqabZRiEoiJB"
       },
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-01-03 12:34:24",
       "album": {
-        "name": "Can\u00e7\u00f5es de Caymmi",
-        "url": "https://open.spotify.com/album/4cLmwrthVvhIYcOcrVDUaX"
-      },
-      "artists": [
-        {
-          "name": "Jussara Silveira",
-          "url": "https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T"
-        }
-      ],
-      "duration_ms": 242866,
-      "name": "L\u00e1 Vem a Baiana",
-      "url": "https://open.spotify.com/track/1n441XV55b21VveSUSA1SA"
-    },
-    {
-      "added_at": "2024-01-03 12:34:24",
-      "album": {
         "name": "Nature Boy",
         "url": "https://open.spotify.com/album/3zhJcSU3vvj5UviDGFT7eR"
       },
@@ -1759,18 +1743,18 @@
     {
       "added_at": "2024-01-03 12:34:24",
       "album": {
-        "name": "You Fascinate Me So",
-        "url": "https://open.spotify.com/album/1As1sRYOnFneZroDvzWGlW"
+        "name": "Can\u00e7\u00f5es de Caymmi",
+        "url": "https://open.spotify.com/album/4cLmwrthVvhIYcOcrVDUaX"
       },
       "artists": [
         {
-          "name": "Pablo Ilanda Trio",
-          "url": "https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON"
+          "name": "Jussara Silveira",
+          "url": "https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T"
         }
       ],
-      "duration_ms": 239636,
-      "name": "You Fascinate Me So",
-      "url": "https://open.spotify.com/track/44HB2tLJiuXulTaZanYAEU"
+      "duration_ms": 242866,
+      "name": "L\u00e1 Vem a Baiana",
+      "url": "https://open.spotify.com/track/1n441XV55b21VveSUSA1SA"
     },
     {
       "added_at": "2024-01-03 12:34:24",
@@ -1803,6 +1787,22 @@
       "duration_ms": 151877,
       "name": "Time Passes By",
       "url": "https://open.spotify.com/track/2ZqQihrhkzoMTtf6x9wn2b"
+    },
+    {
+      "added_at": "2024-01-03 12:34:24",
+      "album": {
+        "name": "You Fascinate Me So",
+        "url": "https://open.spotify.com/album/1As1sRYOnFneZroDvzWGlW"
+      },
+      "artists": [
+        {
+          "name": "Pablo Ilanda Trio",
+          "url": "https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON"
+        }
+      ],
+      "duration_ms": 239636,
+      "name": "You Fascinate Me So",
+      "url": "https://open.spotify.com/track/44HB2tLJiuXulTaZanYAEU"
     },
     {
       "added_at": "2024-01-03 12:34:24",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2024-01-03 12:34:24",
       "album": {
-        "name": "Take Ten",
-        "url": "https://open.spotify.com/album/67OvvuGokycHO0Quc9HyKZ"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 253133,
-      "name": "The Theme from \"Black Orpheus\"",
-      "url": "https://open.spotify.com/track/0XBDgnZFhL27Y46oVknBPE"
-    },
-    {
-      "added_at": "2024-01-03 12:34:24",
-      "album": {
         "name": "Saudade",
         "url": "https://open.spotify.com/album/6fdG50OGUX9nr0ZW9xMywu"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 160847,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/5BRVuZtqoGuHuqMZjahOe7"
+    },
+    {
+      "added_at": "2024-01-03 12:34:24",
+      "album": {
+        "name": "Take Ten",
+        "url": "https://open.spotify.com/album/67OvvuGokycHO0Quc9HyKZ"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 253133,
+      "name": "The Theme from \"Black Orpheus\"",
+      "url": "https://open.spotify.com/track/0XBDgnZFhL27Y46oVknBPE"
     },
     {
       "added_at": "2024-01-03 12:34:24",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2024-01-03 12:34:24",
       "album": {
-        "name": "Boomerang",
-        "url": "https://open.spotify.com/album/2ii5yi8SZ42Aq4J0q2FoCb"
-      },
-      "artists": [
-        {
-          "name": "Filip Benedetto",
-          "url": "https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7"
-        }
-      ],
-      "duration_ms": 207339,
-      "name": "Boomerang",
-      "url": "https://open.spotify.com/track/04lqMwyxNNijODnl84A1Wq"
-    },
-    {
-      "added_at": "2024-01-03 12:34:24",
-      "album": {
         "name": "The Very Thought of You",
         "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 220000,
       "name": "Waters of March",
       "url": "https://open.spotify.com/track/3Hcu9kf96AWTmkM9zCcGFQ"
+    },
+    {
+      "added_at": "2024-01-03 12:34:24",
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/2ii5yi8SZ42Aq4J0q2FoCb"
+      },
+      "artists": [
+        {
+          "name": "Filip Benedetto",
+          "url": "https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7"
+        }
+      ],
+      "duration_ms": 207339,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/04lqMwyxNNijODnl84A1Wq"
     },
     {
       "added_at": "2024-01-03 12:34:24",
@@ -2487,22 +2487,6 @@
     {
       "added_at": "2024-01-03 12:34:24",
       "album": {
-        "name": "Bossa Nova Soul Samba (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP"
-      },
-      "artists": [
-        {
-          "name": "Ike Quebec",
-          "url": "https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh"
-        }
-      ],
-      "duration_ms": 341280,
-      "name": "Goin' Home - Rudy Van Gelder Edition/2007 Digital Remaster",
-      "url": "https://open.spotify.com/track/4vmyjeAmH2YW1Zf2YhTca6"
-    },
-    {
-      "added_at": "2024-01-03 12:34:24",
-      "album": {
         "name": "Bossa Antigua",
         "url": "https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT"
       },
@@ -2515,6 +2499,22 @@
       "duration_ms": 342026,
       "name": "Samba Cantina",
       "url": "https://open.spotify.com/track/1tOaKNDYsx3YoWThbOCvVx"
+    },
+    {
+      "added_at": "2024-01-03 12:34:24",
+      "album": {
+        "name": "Bossa Nova Soul Samba (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP"
+      },
+      "artists": [
+        {
+          "name": "Ike Quebec",
+          "url": "https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh"
+        }
+      ],
+      "duration_ms": 341280,
+      "name": "Goin' Home - Rudy Van Gelder Edition/2007 Digital Remaster",
+      "url": "https://open.spotify.com/track/4vmyjeAmH2YW1Zf2YhTca6"
     },
     {
       "added_at": "2024-01-03 12:34:24",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 
 > This is Motörhead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,980 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,000 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 | 5 | [Killed by Death](https://open.spotify.com/track/2XvVueul226rT8g4DQuKSK) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [All the Aces](https://open.spotify.com/album/13NfYO9kPsulhr0QpklkHF) | 4:38 |
 | 6 | [In the Name of Tragedy](https://open.spotify.com/track/0jVKdXM4LQm94SP33rNbi9) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Inferno](https://open.spotify.com/album/23G3SEackzrkzQQRG4UpeE) | 3:03 |
 | 7 | [Till The End](https://open.spotify.com/track/1n89RaAdJ19i3vZHwhcHVu) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 4:05 |
-| 8 | [Born To Raise Hell](https://open.spotify.com/track/7Ei4LhQ8BeTfjsPY7FINZS) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bastards](https://open.spotify.com/album/0mtmu4b5dw2dYlrAyjGQa7) | 4:59 |
-| 9 | [Rock Out](https://open.spotify.com/track/2iZPbUUBaw4BrIUVsUOf1u) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Motörizer](https://open.spotify.com/album/47eOItno8EgqlZlSNW54Ru) | 2:06 |
+| 8 | [Rock Out](https://open.spotify.com/track/2iZPbUUBaw4BrIUVsUOf1u) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Motörizer](https://open.spotify.com/album/47eOItno8EgqlZlSNW54Ru) | 2:06 |
+| 9 | [Born To Raise Hell](https://open.spotify.com/track/7Ei4LhQ8BeTfjsPY7FINZS) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bastards](https://open.spotify.com/album/0mtmu4b5dw2dYlrAyjGQa7) | 4:59 |
 | 10 | [Hellraiser](https://open.spotify.com/track/65JrmVnWM5KzM1WrXIY0tI) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [March Or Die](https://open.spotify.com/album/3pbbbyxPPgBTAMbAcVzjex) | 4:35 |
 | 11 | [Ramones](https://open.spotify.com/track/2Q0Tw6meB6xfZ4ONeIL35j) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [1916](https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx) | 1:25 |
 | 12 | [Heroes](https://open.spotify.com/track/1WE1WsxSqVofH8ugxJkc0c) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 | 49 | [Greedy Bastards](https://open.spotify.com/track/4tB3o3rTYsBTd3283dKNYg) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Greedy Bastards](https://open.spotify.com/album/320YsD7ccYfPwARI17GgMw) | 4:12 |
 | 50 | [Over the Top \(Live at Download Festival, Donington, England, June 13, 2008\)](https://open.spotify.com/track/1n1mXoqx7fzapLVRKq7ZBp) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Löst Tapes, Vol\. 5](https://open.spotify.com/album/1TGHTdiR7QolfRrIzjzY6Z) | 2:29 |
 
-Snapshot ID: `Mjg0MTE5MDAsMDAwMDAwMDAwNzNjZTJlZTZlMDk5Yjk1ZTIxY2QyYzkwYWQ4YTllNQ==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDBjN2FjOWUzMTNlODVkOThiYTA4OGNiOGI2ODA1NGEyMQ==`

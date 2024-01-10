@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: ROYA\(로야\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: KYUHYUN\(규현\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,989 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,008 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Astronaut Boy](https://open.spotify.com/track/63AIIigBWh2K3zjuFvvYF8) | [ROYA](https://open.spotify.com/artist/39TCqSkrws4pxZBNtcxIwP) | [Astronaut Boy](https://open.spotify.com/album/6HC3e0omLtCmfc74SvSoLO) | 2:26 |
+| 1 | [The Story Behind](https://open.spotify.com/track/1FjIg32VDdvHabecHKpe03) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Restart](https://open.spotify.com/album/3lZxrczzvuxPrbJYf8Sdyo) | 4:16 |
 | 2 | [하루살이 Mayfly](https://open.spotify.com/track/1wOpjD9audwpeOYg5JFhAo) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [하루살이 Mayfly](https://open.spotify.com/album/4Zk04mU6yWGluTvNw4VCPt) | 4:02 |
 | 3 | [ICN > YVR](https://open.spotify.com/track/3SJuomeDUOX6OAWwhH973s) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [ICN > YVR](https://open.spotify.com/album/4bp6czKexS1MZ5wwKJ27yi) | 2:25 |
 | 4 | [Discord](https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Single Album 'Harmony from Discord'](https://open.spotify.com/album/0AmeepTU81c9ghVpJpacNc) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 49 | [I hate you](https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [COLORFUL TRAUMA](https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe) | 3:10 |
 | 50 | [Where the sea sleeps](https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [The Book of Us : Gluon \- Nothing can tear us apart](https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq) | 4:17 |
 
-Snapshot ID: `MCw2YTUzZmFhOGQxMGQ4OGZjMjg3ZDc4ZDViZWM2NzYwOGMyNjAyNTM1`
+Snapshot ID: `MCw0NTI3ODNmODBkMzhmZDI0MmEwYTdhMjdjOWIyMDE0NTI4OGI3ZjA4`

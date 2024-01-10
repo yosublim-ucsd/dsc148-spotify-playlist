@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR954ExpGKR.md) - [plain]
 
 > The best Latin music from all around the world! Cover: Maria Becerra & Prabh Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,784 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,766 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR954ExpGKR.md) - [plain]
 | 47 | [Party Animal](https://open.spotify.com/track/5vc9YsAEBWbRVvgKUcA5vs) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Party Animal](https://open.spotify.com/album/3eOXiZ4HVNafqio5wKJRcG) | 3:15 |
 | 48 | [Cuando Salga La Luna](https://open.spotify.com/track/5eCEYfCUQ9JJOIhyUVEmyq) | [Cano](https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Cuando Salga La Luna](https://open.spotify.com/album/13YZTzEcNhAtKRmb5sb2yL) | 2:26 |
 | 49 | [Capitán](https://open.spotify.com/track/3Zesg4c4eKhWJbKyh2mZos) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Capitán](https://open.spotify.com/album/3HzG2GrYVNOFovlnK112G2) | 3:44 |
-| 50 | [DROP TOP \(feat\. Eddie Zuko\)](https://open.spotify.com/track/4iVlQcJQfbp9CZVLZsfIoS) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki), [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub) | [LFG](https://open.spotify.com/album/0Wjc11cdyOt2mvMCBrTTvU) | 2:38 |
+| 50 | [T'as peur](https://open.spotify.com/track/35XF6veSvhoPdWy89zaeaj) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [DNK](https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN) | 3:35 |
 
-Snapshot ID: `MCxlNjRkOTkwY2ViY2M3ODVmMDQ2MTI1Y2I1ZGY2YThlYmU3NDNmMGE4`
+Snapshot ID: `MCxkNjhhMTdkMDY1NTZkMThlNDhlMDM0MmU3MzRhZmNkYzQ2NTg1MTVi`

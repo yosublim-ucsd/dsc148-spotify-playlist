@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: jet van der steen
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,939 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,906 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 17 | [2 Glazen Wijn](https://open.spotify.com/track/5qf38xrJmEv83TXan3UCul) | [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75), [Kes](https://open.spotify.com/artist/1lMqPztKuO3DBB64uGJGr0) | [2 Glazen Wijn](https://open.spotify.com/album/4aIhJYYd20CqCfWeihADXg) | 2:34 |
 | 18 | [Maken of Breken](https://open.spotify.com/track/3o8mKz6JvIxl08QXq6vyxQ) | [Sleeq](https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD) | [Maken of Breken](https://open.spotify.com/album/3DSkY5g59gmmWnezLp6880) | 3:21 |
 | 19 | [Achterna](https://open.spotify.com/track/7uPCo7TJUYlMICfuCavnCf) | [Montana](https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb), [Della Fox](https://open.spotify.com/artist/76GFGvQ277N1FDxl4e9alb) | [Achterna](https://open.spotify.com/album/1oJbDRk9V70B1p0KMBVo0G) | 2:23 |
-| 20 | [Iemand Anders](https://open.spotify.com/track/00Gy9pxJXHzCoRwXi5CUeJ) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Iemand Anders](https://open.spotify.com/album/0Du6lXqUfjPK0DJjqKzQIL) | 2:51 |
+| 20 | [Iemand Anders](https://open.spotify.com/track/00Gy9pxJXHzCoRwXi5CUeJ) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Iemand Anders](https://open.spotify.com/album/0Du6lXqUfjPK0DJjqKzQIL) | 3:03 |
 | 21 | [Champions League](https://open.spotify.com/track/5iH8UrvxTButDRaWECLDol) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Champions League](https://open.spotify.com/album/3BTw4LwFMLk7mHp0PjNAec) | 2:22 |
 | 22 | [Het Komt Wel Goed](https://open.spotify.com/track/47lHoLg9VVAxoAtzFMrQoJ) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT), [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Het Komt Wel Goed](https://open.spotify.com/album/5UDg7wDgkbBQjMI5G3dd9H) | 3:55 |
 | 23 | [Limousine](https://open.spotify.com/track/7An8syerbMM9c3a4rOwCOx) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W) | [Loafers van Puppyleer Deluxe EP](https://open.spotify.com/album/34VnmQ8FMDKT23bn2JLV7O) | 2:05 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 79 | [Altijd Onderweg](https://open.spotify.com/track/2510MF3xvG8LgOC1RVxF5U) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Altijd Onderweg](https://open.spotify.com/album/7K7CynIwvLxVkzLCmjxDbJ) | 2:57 |
 | 80 | [Treintje Later](https://open.spotify.com/track/1TJ7XbsAzUpJ3evpxbrAhx) | [KRISTAN](https://open.spotify.com/artist/23406Pq96EgLcng2suxLhT) | [Treintje Later](https://open.spotify.com/album/1OSE4trfYFvnV2HPsJl4D4) | 3:08 |
 
-Snapshot ID: `MCxlMDBjZWYwOTU1ZjE5OWE4MmUxN2UyM2M3NTJjYmY3MmQ3NTRlZjA2`
+Snapshot ID: `MCw5MTM2N2EzYTVlN2NkZTIyNTkxNDU5MzIwY2RkN2FiZWM4M2I1ZjM0`

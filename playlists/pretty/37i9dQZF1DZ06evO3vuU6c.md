@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 
 > This is Sia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,375,925 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,375,450 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 | 43 | [I'm Still Here](https://open.spotify.com/track/5KGTKwOePys7aH4o6EzXEP) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [I'm Still Here](https://open.spotify.com/album/61rbnX1w8qupnV0CyNH1Or) | 4:01 |
 | 44 | [1+1 \(feat\. Amir\) \- Banx & Ranx Remix](https://open.spotify.com/track/1OWLQ4FQrO13w6ssWgP8tk) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p) | [1+1 \(feat\. Amir\) \[Banx & Ranx Remix\]](https://open.spotify.com/album/6FsQVRlDW4YyTRtGMQrST7) | 3:16 |
 | 45 | [Bang My Head \(feat\. Sia & Fetty Wap\)](https://open.spotify.com/track/53Y0kdCa1CZ9gRqEuknfwy) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Listen Again](https://open.spotify.com/album/7bpWEp24oHgUs08ImjakfU) | 3:13 |
-| 46 | [Heaven Can Wait \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/2VDTgXwf3F6kcpX4HI0BKy) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 3:15 |
-| 47 | [ON \(Feat\. Sia\)](https://open.spotify.com/track/4JWbH50WabthGhmtduR8b9) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 4:06 |
+| 46 | [ON \(Feat\. Sia\)](https://open.spotify.com/track/4JWbH50WabthGhmtduR8b9) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 4:06 |
+| 47 | [Heaven Can Wait \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/2VDTgXwf3F6kcpX4HI0BKy) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 3:15 |
 | 48 | [Original \(from Dolittle\)](https://open.spotify.com/track/0YoquWDxpwAq8jFPj3K8wp) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Original \(from Dolittle\)](https://open.spotify.com/album/00CTugKcgZzpPJKpmeNdDS) | 3:33 |
 | 49 | [Rainbow](https://open.spotify.com/track/2xie0OhRzMjWE1Be82sC0k) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [My Little Pony: The Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5L7cZeMTVwaJUt1NHJSuEm) | 3:17 |
 | 50 | [Guts Over Fear](https://open.spotify.com/track/3pAnZV3mgNKCABheAUatc3) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [SHADYXV](https://open.spotify.com/album/3CjuTytLZz3G9znXt2rJgU) | 5:01 |
 
-Snapshot ID: `Mjg0MTE4OTksMDAwMDAwMDBjYzI3MGJjZTkzY2NhNzhkY2E1NDBmNTA4MTMwYWMyNQ==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDBkMDAxNzM0MDFkZGU2NmE0MTRjYjM2YWY0YzgzNmJlNg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,065 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,068 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,16 +37,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 27 | [Se Foi](https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Hip Hop Machine \#18](https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS) | 5:57 |
 | 28 | [Aeroporto](https://open.spotify.com/track/1GHgaj9wk3SjRwmwr1fReW) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Aeroporto](https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq) | 3:29 |
 | 29 | [Pânico](https://open.spotify.com/track/6XqlM74zaJcniZAFLPDUYx) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Pânico](https://open.spotify.com/album/2PuVe8oGQB0VagYiO68qg5) | 3:03 |
-| 30 | [Doses](https://open.spotify.com/track/2hNimeRJSfXUunq4gEsQGa) | [Kanda Ent](https://open.spotify.com/artist/64cxiqdS6yO0t11U99Lpze), [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [Ouroboros](https://open.spotify.com/album/32oVldbmEaDm7yGBqlqtLU) | 2:32 |
-| 31 | [Índigo \(Te Venero\)](https://open.spotify.com/track/3AV0jc5PIqCHIjxeGsojhO) | [Aydan](https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU) | [Índigo \(Te Venero\)](https://open.spotify.com/album/31GNuBi7EX93NbUToTnnlQ) | 3:14 |
+| 30 | [Índigo \(Te Venero\)](https://open.spotify.com/track/3AV0jc5PIqCHIjxeGsojhO) | [Aydan](https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU) | [Índigo \(Te Venero\)](https://open.spotify.com/album/31GNuBi7EX93NbUToTnnlQ) | 3:14 |
+| 31 | [Doses](https://open.spotify.com/track/2hNimeRJSfXUunq4gEsQGa) | [Kanda Ent](https://open.spotify.com/artist/64cxiqdS6yO0t11U99Lpze), [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [Ouroboros](https://open.spotify.com/album/32oVldbmEaDm7yGBqlqtLU) | 2:32 |
 | 32 | [SHAWTY](https://open.spotify.com/track/27WkGbGW5pZ03Gm8Ly4r4b) | [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [SHAWTY](https://open.spotify.com/album/3iXjMKLo5yW4siR1I69G5k) | 2:53 |
 | 33 | [Pulando](https://open.spotify.com/track/4zEKANXr86uqH5tPyhGSnT) | [Kélanie](https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c) | [Pulando](https://open.spotify.com/album/1Q6GcZEN6IU3l0j8b49CrN) | 2:44 |
 | 34 | [Me Curar](https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO) | [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy) | [93](https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ) | 3:46 |
 | 35 | [Entre Memórias Tristes](https://open.spotify.com/track/7CD5cl7ctI7x6SYBLHN1mL) | [C.I.D](https://open.spotify.com/artist/6z9GhT6hHDjgsc516Txhsl) | [Entre Memórias Tristes](https://open.spotify.com/album/3DXLWxQqSBqWNRCgLQP0Tf) | 5:17 |
 | 36 | [Tempo Pra Pensar](https://open.spotify.com/track/0KfUCubX9qFf58eHJOy5o7) | [Jun Alcan](https://open.spotify.com/artist/7CPlbqxyWd17sV44Morx3V) | [Rosas & Violetas faço um buquê\. Eu quero queimar um \*\*\*\*\*\*\* com você.](https://open.spotify.com/album/0k2BGd2ImMmPcGFLIa5bOg) | 3:00 |
 | 37 | [Onda \- Remix](https://open.spotify.com/track/3ixozEXArgOxWDKiemyRPU) | [Patricia Marx](https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE), [DJ Nato\_PK](https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W) | [Onda \(Remix\)](https://open.spotify.com/album/1tUH0tMpxSzRvIXY91dyjs) | 5:46 |
-| 38 | [Aurora](https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Aurora](https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL) | 2:31 |
-| 39 | [Renascer](https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm) | [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [Renascer](https://open.spotify.com/album/11z5mItIsIAJNC7LnCMk45) | 4:54 |
+| 38 | [Renascer](https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm) | [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [Renascer](https://open.spotify.com/album/11z5mItIsIAJNC7LnCMk45) | 4:54 |
+| 39 | [Aurora](https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Aurora](https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL) | 2:31 |
 | 40 | [Traços](https://open.spotify.com/track/3ks3Bzqxi4wagkBqEHmfxC) | [Pedro Stone](https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM) | [Traços](https://open.spotify.com/album/7AhmqmOoRekIWyfyBeFb3L) | 3:19 |
 | 41 | [n é vc, sou eu](https://open.spotify.com/track/2Q4G9vjRYdgy4zxgHMGc23) | [Amxedx](https://open.spotify.com/artist/0rP1RgNU08Y99fjfdwH3h0), [Nader](https://open.spotify.com/artist/5hJTj1DEcSkY1t64AOPVKV), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [n é vc, sou eu](https://open.spotify.com/album/2JPzzYmLqEEcOF3nHBpSJ3) | 2:40 |
 | 42 | [Dava Praia](https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm) | [Guinu](https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl), [Juliane Gamboa](https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA) | [Dava Praia](https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 49 | [reconectar](https://open.spotify.com/track/3weVtoWNEdLnqrJ4qrw6G2) | [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f), [Gaza OG](https://open.spotify.com/artist/08OEOpKk43nidwxmby8W0W) | [reconectar](https://open.spotify.com/album/0xOIStBgV4x85AeYWrtXmI) | 2:48 |
 | 50 | [DESLIGA O TELEFONE](https://open.spotify.com/track/3rDOCyEn7PKiq2gykUphR9) | [N9NE](https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv) | [DEJAVU PRIMAVERA](https://open.spotify.com/album/7wqRDsVsoKn8UNtr1nClFs) | 2:51 |
 
-Snapshot ID: `MCw5MzYzZmMxZTRkZDQ3MzA5ZmNlOGVhOWNhYzA5MzdiZWNlZWVmOTg3`
+Snapshot ID: `MCxlMDZhNTAxMTNkNTQ0YWRmMzAxMjY1Yzk4ZGQ3MzY5MDUwYWYyYTY3`

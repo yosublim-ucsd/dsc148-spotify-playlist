@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 300796,
+  "num_followers": 300821,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Y2ZmNDNhNzY0NzcyNzIxYzc0NTJhZjkyYzdjYmNiNDYzZDE0ZDEw",
+  "snapshot_id": "MCwxZjAxYzQzNzFkMmY1YWRkN2RkMDJlYWFlZjAxNDI1ODVlOWFmYTU3",
   "tracks": [
     {
       "added_at": "2023-07-21 10:37:28",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Giving The World Away",
-        "url": "https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw"
-      },
-      "artists": [
-        {
-          "name": "Hatchie",
-          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
-        }
-      ],
-      "duration_ms": 251999,
-      "name": "Quicksand",
-      "url": "https://open.spotify.com/track/6LhSsOUN9BRqiXKfGBkNp6"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Pronounced McGee",
         "url": "https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 226645,
       "name": "Roll With The Punches",
       "url": "https://open.spotify.com/track/0R1NENmGu9tjHRq1S0bXX8"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Giving The World Away",
+        "url": "https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw"
+      },
+      "artists": [
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "duration_ms": 251999,
+      "name": "Quicksand",
+      "url": "https://open.spotify.com/track/6LhSsOUN9BRqiXKfGBkNp6"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1089,22 +1089,6 @@
       "url": "https://open.spotify.com/track/3tjTAQymCotMfHeoYqWjZh"
     },
     {
-      "added_at": "2023-09-29 10:51:04",
-      "album": {
-        "name": "I Feel It",
-        "url": "https://open.spotify.com/album/379yDlK37waTY9OTYkixcR"
-      },
-      "artists": [
-        {
-          "name": "Jaguar Sun",
-          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
-        }
-      ],
-      "duration_ms": 185182,
-      "name": "I Feel It",
-      "url": "https://open.spotify.com/track/2iaFl4QUYV75nGVb2Eic8o"
-    },
-    {
       "added_at": "2023-07-21 10:37:28",
       "album": {
         "name": "Future Falling",
@@ -1139,6 +1123,22 @@
       "duration_ms": 273455,
       "name": "Detox",
       "url": "https://open.spotify.com/track/3noiIjMMoDd5mrjMrdcFUu"
+    },
+    {
+      "added_at": "2023-09-29 10:51:04",
+      "album": {
+        "name": "I Feel It",
+        "url": "https://open.spotify.com/album/379yDlK37waTY9OTYkixcR"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        }
+      ],
+      "duration_ms": 185182,
+      "name": "I Feel It",
+      "url": "https://open.spotify.com/track/2iaFl4QUYV75nGVb2Eic8o"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
+        "name": "summer bruises",
+        "url": "https://open.spotify.com/album/21OArPDhU4QZ3ztihGbsi5"
+      },
+      "artists": [
+        {
+          "name": "april june",
+          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
+        }
+      ],
+      "duration_ms": 174387,
+      "name": "summer bruises",
+      "url": "https://open.spotify.com/track/5XvOSbgWIPOO47Eg6qvY6e"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
         "name": "Flora",
         "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 174874,
       "name": "Two Step",
       "url": "https://open.spotify.com/track/1lcL7ccfhuLC1MhmD5ikYG"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "summer bruises",
-        "url": "https://open.spotify.com/album/21OArPDhU4QZ3ztihGbsi5"
-      },
-      "artists": [
-        {
-          "name": "april june",
-          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
-        }
-      ],
-      "duration_ms": 174387,
-      "name": "summer bruises",
-      "url": "https://open.spotify.com/track/5XvOSbgWIPOO47Eg6qvY6e"
     },
     {
       "added_at": "2023-07-21 10:37:28",

@@ -4,7 +4,7 @@
 
 > This is Bear McCreary\. The essential tracks, all in one playlist.
 
-75 songs - 4 hr 31 min
+76 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,11 +77,12 @@
 | [Theme from Black Sails](https://open.spotify.com/track/5KXtl8RNG1uFrZinr6hxWh) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Black Sails \(A Starz Original Series Soundtrack\)](https://open.spotify.com/album/504RcsupcUwvcgNdQXoAtU) | 3:17 | 2022-12-24 |  |
 | [Theme from the Walking Dead](https://open.spotify.com/track/2cji350vUbvxQ9QwyL5Nkp) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Walking Dead \(Original Television Soundtrack\)](https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D) | 0:49 | 2022-12-01 |  |
 | [This Wandering Day](https://open.spotify.com/track/7GzOUmcsBrCmt93N1t1Oni) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Megan Richards](https://open.spotify.com/artist/1g4y9wuUTSAWAPrpWadtan) | [The Lord of the Rings: The Rings of Power \(Season One, Episode Five: Partings \- Amazon Original Series Soundtrack\)](https://open.spotify.com/album/4upGT86TEEIw2vJpcPG4Mk) | 2:08 | 2022-12-01 |  |
-| [To the Begging I Will Go](https://open.spotify.com/track/6fgl77WtVLCveA6IPmLvXX) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 1, Vol\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87) | 2:15 | 2023-06-23 |  |
+| [To the Begging I Will Go](https://open.spotify.com/track/6fgl77WtVLCveA6IPmLvXX) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 1, Vol\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87) | 2:15 | 2023-06-23 | 2024-01-10 |
 | [Two Standing Stones](https://open.spotify.com/track/1jSH1At6aK8iHruk2t4uGo) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Sophia Brown](https://open.spotify.com/artist/0IjrARQsOwJaq7b5wbkTYj) | [The Witcher: Blood Origin \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3wpT0UznACauxn7SjizehW) | 2:50 | 2023-01-12 | 2023-09-16 |
 | [Valhalla](https://open.spotify.com/track/26pLszBCNN8d6T4XayY8i4) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Sparks & Shadows](https://open.spotify.com/artist/2c6YNJWnwaVHRxWC4jHrZZ) | [God of War Ragnarök: Valhalla \(Original Soundtrack\)](https://open.spotify.com/album/2j8WG0EzaUgsmSy2iPIwJZ) | 4:52 | 2023-12-20 |  |
 | [Valinor](https://open.spotify.com/track/0u5Z2JqBdzHoXKcFgq0KK6) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 2:39 | 2022-12-01 |  |
 | [Valkyries](https://open.spotify.com/track/1DWCfz6WAwoESRO1NYXlqr) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 5:08 | 2022-12-01 |  |
+| [Willoughby](https://open.spotify.com/track/3KMjkO1uOIZBPG20qjW8ej) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/0XRd6sQYF5t6oCd3oQd8Dn) | 2:46 | 2024-01-09 |  |
 | [Witch of the Woods](https://open.spotify.com/track/4w0ZGptbkHLkKZhLVTg5He) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 3:02 | 2023-05-20 | 2023-05-24 |
 
 \*This playlist was first scraped on 2022-12-02. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: Rokudenashi\(ロクデナシ\)
 
-322 songs - 18 hr 45 min
+324 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Continue](https://open.spotify.com/track/5OkBQPz8j5yndKOKkTzKJT) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [Continue](https://open.spotify.com/album/1eMlU0dSndWo2uS6j3MPpB) | 3:25 | 2023-11-28 | 2024-01-05 |
 | [Cult.](https://open.spotify.com/track/2CBkM69RwTqvBe6xsvMn8M) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Cult.](https://open.spotify.com/album/5LB9Uee8CNhGPEIiyYOk0o) | 4:28 | 2023-11-16 | 2023-12-20 |
 | [Dance in Silence](https://open.spotify.com/track/1xpCDlzfOoe3T1q5RlXO3x) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [Dance in Silence](https://open.spotify.com/album/4QhWnXvzZzYDmsOT3koCd9) | 3:49 | 2023-10-03 | 2023-10-20 |
+| [Danger Danger](https://open.spotify.com/track/72fowNtwZtSkYFDEYMDjQo) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb), [icy](https://open.spotify.com/artist/3D2S3f1AxDvgQfrXYJRlc3) | [Danger Danger](https://open.spotify.com/album/4sP5O2OY79bnsZcWW1t4ri) | 3:41 | 2024-01-09 |  |
 | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/1fHXLiqPG6su57eAlbnjVO) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [FINE LINE](https://open.spotify.com/album/37XJRNnSBngM8e8Ejp3oQ7) | 4:43 | 2023-05-09 | 2023-12-08 |
 | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/5b03vF7Qyc70kDJHiQZ8L7) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/album/7ridH3ntXiiWfC2jA6uqb3) | 4:43 | 2023-05-09 | 2023-05-13 |
 | [DDD](https://open.spotify.com/track/0HD7n7QmEmpKhojIu7R1bx) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [DDD](https://open.spotify.com/album/355oemzw9IEexonVNBzKIv) | 2:54 | 2023-09-28 |  |
@@ -253,7 +254,7 @@
 | [ダーリン](https://open.spotify.com/track/1dRZX4cj6zGKKylcAydIG1) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [Ghost Pop](https://open.spotify.com/album/6feQsJm7NRqr2ICMO4SDmB) | 2:28 | 2023-06-08 | 2023-12-08 |
 | [ディストラクション・シスターズ](https://open.spotify.com/track/7Lr7JP6qEkoDMGFHtyrJHa) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/4t2okOrlqsIZ15pZfdhtuZ) | 2:30 | 2023-09-28 | 2023-09-30 |
 | [ハロ](https://open.spotify.com/track/69cF34CNjzxX1ySIPJxtMf) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [ハロ](https://open.spotify.com/album/0mzoRF3WErpncvKCQqoHEu) | 3:18 | 2023-10-26 | 2023-11-10 |
-| [ハートブレイク・ダンスミュージック](https://open.spotify.com/track/4d0ivoN64aC4n3v5y2SaPq) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [ハートブレイク・ダンスミュージック](https://open.spotify.com/album/1aqfxGXKz8tIvIi95ibwoW) | 2:47 | 2023-12-26 |  |
+| [ハートブレイク・ダンスミュージック](https://open.spotify.com/track/4d0ivoN64aC4n3v5y2SaPq) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [ハートブレイク・ダンスミュージック](https://open.spotify.com/album/1aqfxGXKz8tIvIi95ibwoW) | 2:47 | 2023-12-26 | 2024-01-10 |
 | [ヒロイン](https://open.spotify.com/track/6ED3HJaMveomLnJDwDSQ37) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ヒロイン](https://open.spotify.com/album/4ZUaCxpjZyZjesAOJYPyv5) | 3:22 | 2023-12-14 |  |
 | [ファジーサマー](https://open.spotify.com/track/3vzDJPjoY3rjBK27rHzi91) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [Kimochy Season](https://open.spotify.com/album/2jg0b7paauECp2dSraJqul) | 2:55 | 2023-07-06 | 2023-09-06 |
 | [ファジーネーブル](https://open.spotify.com/track/7gUuCeZLFynSj28GCjoiGG) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [ファジーネーブル](https://open.spotify.com/album/4XCDzm6lz0QvcTVozUmNHe) | 3:57 | 2023-07-20 | 2023-12-08 |
@@ -272,7 +273,7 @@
 | [ラブソング](https://open.spotify.com/track/5iYQ3bdL5XsPPpu8iZskQJ) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv), [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [LOVE: AMPLIFIED](https://open.spotify.com/album/45NbVBQW1OYgYXUC8K9Ejh) | 2:44 | 2023-06-13 | 2023-12-08 |
 | [ロマンス宣言](https://open.spotify.com/track/7ph7HRUsxYcKLRFTaYCQYQ) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [祝祭](https://open.spotify.com/album/3lrZCCakw7a68QVCBTt7BT) | 2:29 | 2023-05-09 | 2023-12-08 |
 | [不眠導入剤](https://open.spotify.com/track/0NL5SHYE1u3TgA0WtYhwlF) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [肴](https://open.spotify.com/album/3FgHoa9C34h5KOuA9VrVZp) | 2:40 | 2023-09-26 | 2023-10-06 |
-| [中央フリーウェイ](https://open.spotify.com/track/1w3BXhVl88xDJOcrNh5sQH) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [ユーミン乾杯!!～松任谷由実50周年記念コラボベストアルバム～](https://open.spotify.com/album/6LNustkOXsrHo2bt4bHyxX) | 3:22 | 2023-12-19 |  |
+| [中央フリーウェイ](https://open.spotify.com/track/1w3BXhVl88xDJOcrNh5sQH) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [ユーミン乾杯!!～松任谷由実50周年記念コラボベストアルバム～](https://open.spotify.com/album/6LNustkOXsrHo2bt4bHyxX) | 3:22 | 2023-12-19 | 2024-01-10 |
 | [二十歳の恋](https://open.spotify.com/track/1EA40FX9aBaKIXwIp83WzL) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ランプ幻想](https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc) | 3:13 | 2023-08-31 | 2023-12-27 |
 | [僕は頑張るよっ feat\. ano](https://open.spotify.com/track/6HTt0UBXjddAblVhEVT5Lj) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [僕は頑張るよっ feat\. ano](https://open.spotify.com/album/7eUAgP5PIKzqzHYquOpmfe) | 5:03 | 2023-09-26 | 2023-10-06 |
 | [光の跡](https://open.spotify.com/track/4QOTrPksb0oe1d7iJ8VZ89) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [光の跡／生命体](https://open.spotify.com/album/1qd76WUID0SKeblbTivCHb) | 4:10 | 2023-12-26 | 2023-12-30 |
@@ -327,6 +328,7 @@
 | [踊り子](https://open.spotify.com/track/4UeWKazLR1ZwwSVnLw9Ir9) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [踊り子](https://open.spotify.com/album/3qDlmj2bxxsDO7EdVgwb7j) | 3:50 | 2023-05-09 | 2023-10-05 |
 | [運命共同体!](https://open.spotify.com/track/68UvIpHBuWCJop41Paz9ON) | [音莉飴](https://open.spotify.com/artist/48cmBTHGDXpbMmImSbBprJ) | [運命共同体!](https://open.spotify.com/album/4YUe2shq63CoC7jQGMgblW) | 3:51 | 2023-05-30 | 2023-12-08 |
 | [金木犀](https://open.spotify.com/track/6lJ31xE2jGeRqapTygwRGm) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [金木犀](https://open.spotify.com/album/7kYA3MEiquoNZVZgzWhJJX) | 4:35 | 2023-08-24 | 2023-12-08 |
+| [鈴々](https://open.spotify.com/track/6IfLdaA77asZvofXazYibP) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [星巡り、君に金星](https://open.spotify.com/album/3NsnN2tlsf5jrqB9Qj2CMS) | 3:15 | 2024-01-09 |  |
 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2023-07-06 |  |
 | [飛天](https://open.spotify.com/track/6MId4xKGdUNhndCtpZC4Bl) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ), [R\-shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb) | [飛天](https://open.spotify.com/album/2zSKObXruYrvHWrAN8UOgD) | 3:03 | 2023-07-06 | 2023-12-08 |
 | [食卓](https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [食卓](https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE) | 3:26 | 2023-10-12 | 2023-11-17 |

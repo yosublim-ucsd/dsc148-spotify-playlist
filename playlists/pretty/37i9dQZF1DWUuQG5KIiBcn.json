@@ -1,12 +1,12 @@
 {
   "description": "Corridos viejitos que cuentan los hechos reales de nuestro pueblo. Chalino S\u00e1nchez en portada. ",
-  "num_followers": 565228,
+  "num_followers": 565274,
   "original_name": "Corridos de Anta\u00f1o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODc2NmNiY2RmYTQyMDZmZjg4Y2NiOWEwNzRjYzc3OGNkNzg0YjBi",
+  "snapshot_id": "MCxjNDFlYmZmZmQ3ODA1MWI0YWIxMTRkZTgzOTdiODEzMmQ0ODFkZmEx",
   "tracks": [
     {
       "added_at": "2023-10-13 20:39:02",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-10-13 20:39:02",
       "album": {
-        "name": "Pueblito",
-        "url": "https://open.spotify.com/album/3gwXs9usmAvXTMZYbvOZOh"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 201880,
-      "name": "El Regio Traficante",
-      "url": "https://open.spotify.com/track/55bUQmbL9KBOfjpwqb19nK"
-    },
-    {
-      "added_at": "2023-10-13 20:39:02",
-      "album": {
         "name": "El Deportado (Grabaci\u00f3n Original Remasterizada)",
         "url": "https://open.spotify.com/album/15hBTdcPr7Q1DFG9wVtyJq"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 168160,
       "name": "El Deportado",
       "url": "https://open.spotify.com/track/4HXYP6cpEuJO7ikYR1jMJu"
+    },
+    {
+      "added_at": "2023-10-13 20:39:02",
+      "album": {
+        "name": "Pueblito",
+        "url": "https://open.spotify.com/album/3gwXs9usmAvXTMZYbvOZOh"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 201880,
+      "name": "El Regio Traficante",
+      "url": "https://open.spotify.com/track/55bUQmbL9KBOfjpwqb19nK"
     },
     {
       "added_at": "2023-10-13 20:39:02",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2023-10-13 20:39:02",
       "album": {
-        "name": "40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
+        "name": "Me Traes de un Ala",
+        "url": "https://open.spotify.com/album/3us0ln0heM9tVS0EGihj1y"
       },
       "artists": [
         {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
         }
       ],
-      "duration_ms": 198533,
-      "name": "Baraja De Oro",
-      "url": "https://open.spotify.com/track/4vxGRxWgmTtaVOJlVV1TjC"
+      "duration_ms": 151133,
+      "name": "El Panam\u00e1 West",
+      "url": "https://open.spotify.com/track/2ifRNH5dVcY2wW5Z3YDiUd"
     },
     {
       "added_at": "2023-10-13 20:39:02",

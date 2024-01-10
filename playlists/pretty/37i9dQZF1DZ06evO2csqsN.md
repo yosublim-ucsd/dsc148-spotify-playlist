@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 
 > This is Latto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,588 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,604 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 49 | [In n Out \(feat\. City Girls\)](https://open.spotify.com/track/0OHjjudOY8MZ5AxfrzYJMH) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Queen of Da Souf](https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF) | 3:14 |
 | 50 | [Soufside](https://open.spotify.com/track/7aQckZHyuls0Oa9LjUISDu) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 1:50 |
 
-Snapshot ID: `Mjg0MTE5MDAsMDAwMDAwMDAyMTEwNjJjMzhkMjY4YjhkYjdiMWM1MTE5ZGYwZWU1Yg==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDA0OWJiMzM4MGU1MGI2NjA4ZGI2ZGRkMzI1NjU4ZTU2Nw==`

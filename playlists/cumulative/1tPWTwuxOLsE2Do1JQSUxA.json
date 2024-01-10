@@ -6429,6 +6429,24 @@
     },
     {
       "album": {
+        "name": "When the Beat Drops Out",
+        "url": "https://open.spotify.com/album/7AlJCHpFtXKkm1QRJi2K1i"
+      },
+      "artists": [
+        {
+          "name": "Marlon Roudette",
+          "url": "https://open.spotify.com/artist/2R1QrQqWuw3IjoP5dXRFjt"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204426,
+      "name": "When the Beat Drops Out",
+      "url": "https://open.spotify.com/track/4c24laIQGNc7QTICHZZKOq"
+    },
+    {
+      "album": {
         "name": "Letters (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5sqeWpEKYq5b7g0rIbSIk8"
       },

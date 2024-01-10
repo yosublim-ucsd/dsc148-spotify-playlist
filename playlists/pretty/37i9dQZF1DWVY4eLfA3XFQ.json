@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Odd Mob",
-  "num_followers": 604246,
+  "num_followers": 604166,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTAyYjFmOGUwNGI0ZDgxMGJhZTFjYjY5YWYxNjVjNGRjMDNjZTI3",
+  "snapshot_id": "MCw1YmZhYjY1NGE5Y2FjN2RlNzJkYTAwMGEwZTFlZTAwODVmZjRmMjhm",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -943,22 +943,26 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/1ZDMO0PcbHNL0Tdx3ysi9U"
+        "name": "To Be Real",
+        "url": "https://open.spotify.com/album/6NrGM3aH0HgQyy7UabNprK"
       },
       "artists": [
         {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
         },
         {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+          "name": "Lee Foss",
+          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+        },
+        {
+          "name": "Cheryl Lynn",
+          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
         }
       ],
-      "duration_ms": 190781,
-      "name": "Burnin'",
-      "url": "https://open.spotify.com/track/55NFZV4mg6VcXvoB0M65d0"
+      "duration_ms": 203225,
+      "name": "To Be Real",
+      "url": "https://open.spotify.com/track/7GpiRvevDAkR3lDH5AxNwT"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -983,26 +987,22 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "To Be Real",
-        "url": "https://open.spotify.com/album/6NrGM3aH0HgQyy7UabNprK"
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/1ZDMO0PcbHNL0Tdx3ysi9U"
       },
       "artists": [
         {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
         },
         {
-          "name": "Lee Foss",
-          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
-        },
-        {
-          "name": "Cheryl Lynn",
-          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
         }
       ],
-      "duration_ms": 203225,
-      "name": "To Be Real",
-      "url": "https://open.spotify.com/track/7GpiRvevDAkR3lDH5AxNwT"
+      "duration_ms": 190781,
+      "name": "Burnin'",
+      "url": "https://open.spotify.com/track/55NFZV4mg6VcXvoB0M65d0"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1285,26 +1285,6 @@
       "url": "https://open.spotify.com/track/0GL2DIZoRorbVbsRejFCaW"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Better Recognize",
-        "url": "https://open.spotify.com/album/3E3fHTWpI3VSYUZpVO1Eag"
-      },
-      "artists": [
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        },
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        }
-      ],
-      "duration_ms": 211586,
-      "name": "Better Recognize",
-      "url": "https://open.spotify.com/track/1ME5pFc81YOLOrcV1Z4Ovb"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Dancing At The Disco",
@@ -1347,6 +1327,26 @@
       "duration_ms": 150447,
       "name": "Mind Awake, Body Asleep",
       "url": "https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Better Recognize",
+        "url": "https://open.spotify.com/album/3E3fHTWpI3VSYUZpVO1Eag"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "duration_ms": 211586,
+      "name": "Better Recognize",
+      "url": "https://open.spotify.com/track/1ME5pFc81YOLOrcV1Z4Ovb"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Alegria",
-        "url": "https://open.spotify.com/album/6ORYPlWMiM54z2yQ5cPjnf"
-      },
-      "artists": [
-        {
-          "name": "Dave Winnel",
-          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "Alegria",
-      "url": "https://open.spotify.com/track/1WUgHCBCyORBL7xNgDagWL"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "DRENCH",
         "url": "https://open.spotify.com/album/2i8ecQjFpCCw6b6e8fHT2H"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 197893,
       "name": "DRENCH",
       "url": "https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Alegria",
+        "url": "https://open.spotify.com/album/6ORYPlWMiM54z2yQ5cPjnf"
+      },
+      "artists": [
+        {
+          "name": "Dave Winnel",
+          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "Alegria",
+      "url": "https://open.spotify.com/track/1WUgHCBCyORBL7xNgDagWL"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1917,6 +1917,22 @@
       "url": "https://open.spotify.com/track/07Jkr2QHuoVGBLVhZNpRFl"
     },
     {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Bim Boom Bam",
+        "url": "https://open.spotify.com/album/5jIkBRxJrtk14bkHIGmf1k"
+      },
+      "artists": [
+        {
+          "name": "Merk & Kremont",
+          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
+        }
+      ],
+      "duration_ms": 144023,
+      "name": "Bim Boom Bam",
+      "url": "https://open.spotify.com/track/0hRRxfLwMUlO6Bvoz8iNbf"
+    },
+    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Space Bump",
@@ -1937,20 +1953,24 @@
       "url": "https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
+      "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Bim Boom Bam",
-        "url": "https://open.spotify.com/album/5jIkBRxJrtk14bkHIGmf1k"
+        "name": "No Big Deal \u2013 Part 1",
+        "url": "https://open.spotify.com/album/6brJxmhBoOEp2tNAs2aFnx"
       },
       "artists": [
         {
-          "name": "Merk & Kremont",
-          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "Harm Franklin",
+          "url": "https://open.spotify.com/artist/44rJuOJLavqhY6qGgpQW4U"
         }
       ],
-      "duration_ms": 144023,
-      "name": "Bim Boom Bam",
-      "url": "https://open.spotify.com/track/0hRRxfLwMUlO6Bvoz8iNbf"
+      "duration_ms": 182325,
+      "name": "Let's Live It Up",
+      "url": "https://open.spotify.com/track/24n7rjOS6a9j6fcD5UHGuq"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1971,26 +1991,6 @@
       "duration_ms": 264996,
       "name": "More Baby - VIP Mix",
       "url": "https://open.spotify.com/track/4ddRKTrv4fXl47Jzigwyit"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "No Big Deal \u2013 Part 1",
-        "url": "https://open.spotify.com/album/6brJxmhBoOEp2tNAs2aFnx"
-      },
-      "artists": [
-        {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
-        },
-        {
-          "name": "Harm Franklin",
-          "url": "https://open.spotify.com/artist/44rJuOJLavqhY6qGgpQW4U"
-        }
-      ],
-      "duration_ms": 182325,
-      "name": "Let's Live It Up",
-      "url": "https://open.spotify.com/track/24n7rjOS6a9j6fcD5UHGuq"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2027,22 +2027,6 @@
       "duration_ms": 176692,
       "name": "My Mind",
       "url": "https://open.spotify.com/track/4ZNuShYJjCqhDq83ZtYGgr"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "The Rhythm",
-        "url": "https://open.spotify.com/album/2kYXFfxK4k5IRtVWiUHug2"
-      },
-      "artists": [
-        {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
-        }
-      ],
-      "duration_ms": 167903,
-      "name": "The Rhythm",
-      "url": "https://open.spotify.com/track/04KlP6jVpk4lbOnBCPKUlg"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -2087,6 +2071,22 @@
       "duration_ms": 146250,
       "name": "Drum Machine",
       "url": "https://open.spotify.com/track/2vuMD95467vEtEUja63LxH"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "The Rhythm",
+        "url": "https://open.spotify.com/album/2kYXFfxK4k5IRtVWiUHug2"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "duration_ms": 167903,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/04KlP6jVpk4lbOnBCPKUlg"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2167,6 +2167,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "What I'm Sayin",
+        "url": "https://open.spotify.com/album/3eTZQ42Toe7G2ze1rs5fgu"
+      },
+      "artists": [
+        {
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+        }
+      ],
+      "duration_ms": 200343,
+      "name": "What I'm Sayin",
+      "url": "https://open.spotify.com/track/7tzH9WFMUGfsvvI0UXXj4A"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Bad Bassline",
         "url": "https://open.spotify.com/album/4C7PnuA3nd6XXBYfLuWcaH"
       },
@@ -2199,22 +2215,6 @@
       "duration_ms": 225116,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/3SrNF6KtlYy8xVOHi8F9xC"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "What I'm Sayin",
-        "url": "https://open.spotify.com/album/3eTZQ42Toe7G2ze1rs5fgu"
-      },
-      "artists": [
-        {
-          "name": "Truth x Lies",
-          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
-        }
-      ],
-      "duration_ms": 200343,
-      "name": "What I'm Sayin",
-      "url": "https://open.spotify.com/track/7tzH9WFMUGfsvvI0UXXj4A"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -2257,6 +2257,26 @@
       "url": "https://open.spotify.com/track/3j8TbHVc4Kg4mWApoXnUL4"
     },
     {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "PLAY SOME RECORDS",
+        "url": "https://open.spotify.com/album/5VxLMDVW8rjyP4mh8AyHVr"
+      },
+      "artists": [
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        },
+        {
+          "name": "Dances",
+          "url": "https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL"
+        }
+      ],
+      "duration_ms": 168983,
+      "name": "PLAY SOME RECORDS",
+      "url": "https://open.spotify.com/track/2GkY6fWVFsOi8AjZmnpQwa"
+    },
+    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "Pa Lante",
@@ -2285,24 +2305,20 @@
       "url": "https://open.spotify.com/track/1naty2glEbU3jjS0XoJHLX"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
+      "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "PLAY SOME RECORDS",
-        "url": "https://open.spotify.com/album/5VxLMDVW8rjyP4mh8AyHVr"
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/6RTNZ5faWkSVCfKuz3WUzS"
       },
       "artists": [
         {
-          "name": "AYYBO",
-          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
-        },
-        {
-          "name": "Dances",
-          "url": "https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL"
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
         }
       ],
-      "duration_ms": 168983,
-      "name": "PLAY SOME RECORDS",
-      "url": "https://open.spotify.com/track/2GkY6fWVFsOi8AjZmnpQwa"
+      "duration_ms": 177195,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/2F3igFy3c5lreKQ9bKsPVs"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2321,20 +2337,20 @@
       "url": "https://open.spotify.com/track/5wdAiwQ6QsqH6tHWcE76qM"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/6RTNZ5faWkSVCfKuz3WUzS"
+        "name": "Fakez",
+        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
       },
       "artists": [
         {
-          "name": "Truth x Lies",
-          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
         }
       ],
-      "duration_ms": 177195,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/2F3igFy3c5lreKQ9bKsPVs"
+      "duration_ms": 271200,
+      "name": "Fakez",
+      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2379,22 +2395,6 @@
       "duration_ms": 170170,
       "name": "Valodja (Kryder Remix)",
       "url": "https://open.spotify.com/track/4D2PtwM3U40QFFBA62I49P"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Fakez",
-        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
-      },
-      "artists": [
-        {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Fakez",
-      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
     },
     {
       "added_at": "2023-10-27 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 
 > Hora de aumentar o som e cair na água!
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,681 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,481 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 21 | [Fly](https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [Floored](https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic) | 4:04 |
 | 22 | [Amber](https://open.spotify.com/track/51UtgWS4z1eMPuLQOzPtNH) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Greatest Hits '93 \- '03](https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG) | 3:31 |
 | 23 | [Sitting, Waiting, Wishing](https://open.spotify.com/track/5eWOsyHHic4vJP3LjTVhqv) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:03 |
-| 24 | [Pescador](https://open.spotify.com/track/5yQW46XPWdGqkX2PyMegLD) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Casinha](https://open.spotify.com/album/4LEeNDHmnXsM04yoJARCYu) | 2:59 |
-| 25 | [Free](https://open.spotify.com/track/2BJy5YrRMhVCqaLNY5cbv2) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Donavon Frankenreiter](https://open.spotify.com/album/7HPDZ1Gu4pWyDn9o6DiToG) | 2:28 |
+| 24 | [Free](https://open.spotify.com/track/2BJy5YrRMhVCqaLNY5cbv2) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Donavon Frankenreiter](https://open.spotify.com/album/7HPDZ1Gu4pWyDn9o6DiToG) | 2:28 |
+| 25 | [Pescador](https://open.spotify.com/track/5yQW46XPWdGqkX2PyMegLD) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Casinha](https://open.spotify.com/album/4LEeNDHmnXsM04yoJARCYu) | 2:59 |
 | 26 | [True To Myself](https://open.spotify.com/track/5N0lcnJTtKj4wNDvurHige) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 3:45 |
 | 27 | [Kingston Town](https://open.spotify.com/track/2OHQhOiGIYaXqqJVIMpNrF) | [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Soul Pirate](https://open.spotify.com/album/3hhWPRjFBsNYm3v3nbOqQC) | 3:12 |
 | 28 | [Slither](https://open.spotify.com/track/7kF1iPJTj3VFJX9XokQ80F) | [Velvet Revolver](https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM) | [Contraband](https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB) | 4:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 74 | [Living Single](https://open.spotify.com/track/2mVjzhHBcqZ9WRzGsX59Tf) | [Kayavibe](https://open.spotify.com/artist/4tuJL0fsbiMtUyKNGCQxox) | [Kayavibe](https://open.spotify.com/album/6oHQpLOX2QXBhZXbMBFo3u) | 3:22 |
 | 75 | [Drinkin' Tonight](https://open.spotify.com/track/2uIHbGPZtzNwHbj20lc1ZD) | [The Supervillains](https://open.spotify.com/artist/0LN8DYo6VtPVK0WQ3g6AXJ) | [Postcards from Paradise](https://open.spotify.com/album/4IPsLOsqfr9AROZ7r0u6ZG) | 3:05 |
 
-Snapshot ID: `MCw0NTQ1N2QzZTc5NjljZWRiZDhkNDRiOWNjNTMxMjYyNmE0YzFjMWFl`
+Snapshot ID: `MCwzN2U5MmEyNmRjNjM1NzhlMWVkMzE1MjQ3NjhjYWEzMGY3ZTE1Yjhj`

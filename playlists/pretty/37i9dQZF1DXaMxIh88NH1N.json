@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Al cien para un buen ejercicio!",
-  "num_followers": 150223,
+  "num_followers": 150275,
   "original_name": "Bien Mach\u00edn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODYxZjE5NWU3OTg3ODgyMzRkNWI4OTk1ZWQ2NTUyZmIyOTA0ZjBm",
+  "snapshot_id": "MCxhZDNkODEzYTMxMGY3OTBkNjUzOTE0MjA4ZWY3YTI1ZDk5OGNmOWRk",
   "tracks": [
     {
       "added_at": "2023-09-29 07:24:02",
@@ -547,6 +547,26 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 205299,
+      "name": "As\u00ed Lo Quiso Dios",
+      "url": "https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9"
+    },
+    {
+      "added_at": "2023-09-29 07:24:02",
+      "album": {
         "name": "Ando Enfocado",
         "url": "https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 184106,
       "name": "Ando Enfocado",
       "url": "https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d"
-    },
-    {
-      "added_at": "2023-09-29 07:24:02",
-      "album": {
-        "name": "DESVELADO",
-        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 205299,
-      "name": "As\u00ed Lo Quiso Dios",
-      "url": "https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
-        "name": "Si Lo Digo Es Porque Puedo",
-        "url": "https://open.spotify.com/album/36T7295UHRjUmh2HxKNkDR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Codiciado",
-          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
-        }
-      ],
-      "duration_ms": 172297,
-      "name": "Gente De Accionar",
-      "url": "https://open.spotify.com/track/3ZpajXo0KgjHw5WSMMIDfy"
-    },
-    {
-      "added_at": "2023-09-29 07:24:02",
-      "album": {
         "name": "La Pelinegra",
         "url": "https://open.spotify.com/album/2YwIrnPUIEDYtFgp99HNNO"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 155560,
       "name": "La Pelinegra",
       "url": "https://open.spotify.com/track/5bWomDwuyuF5pfnBZtYNP0"
+    },
+    {
+      "added_at": "2023-09-29 07:24:02",
+      "album": {
+        "name": "Si Lo Digo Es Porque Puedo",
+        "url": "https://open.spotify.com/album/36T7295UHRjUmh2HxKNkDR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
+        }
+      ],
+      "duration_ms": 172297,
+      "name": "Gente De Accionar",
+      "url": "https://open.spotify.com/track/3ZpajXo0KgjHw5WSMMIDfy"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -1391,42 +1391,6 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
-        "name": "El Chamaquito",
-        "url": "https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        },
-        {
-          "name": "Angel Cervantes",
-          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
-        }
-      ],
-      "duration_ms": 139863,
-      "name": "El Chamaquito",
-      "url": "https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd"
-    },
-    {
-      "added_at": "2023-09-29 07:24:02",
-      "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 235328,
-      "name": "El Doctor",
-      "url": "https://open.spotify.com/track/2g12ZAzSIybDe6QC3w9DYl"
-    },
-    {
-      "added_at": "2023-09-29 07:24:02",
-      "album": {
         "name": "El Chaman",
         "url": "https://open.spotify.com/album/0dKlcXtiUXnQK7BZH7UIfE"
       },
@@ -1451,6 +1415,22 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 235328,
+      "name": "El Doctor",
+      "url": "https://open.spotify.com/track/2g12ZAzSIybDe6QC3w9DYl"
+    },
+    {
+      "added_at": "2023-09-29 07:24:02",
+      "album": {
         "name": "Punto y Aparte",
         "url": "https://open.spotify.com/album/7Gz10vsu3ws0QRJpAHpuL0"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 158918,
       "name": "Punto y Aparte",
       "url": "https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU"
+    },
+    {
+      "added_at": "2023-09-29 07:24:02",
+      "album": {
+        "name": "El Chamaquito",
+        "url": "https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        },
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+        }
+      ],
+      "duration_ms": 139863,
+      "name": "El Chamaquito",
+      "url": "https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -1539,8 +1539,8 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
-        "name": "El Borracho",
-        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
+        "name": "Corridos Pa' la Historia",
+        "url": "https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh"
       },
       "artists": [
         {
@@ -1548,9 +1548,9 @@
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 184199,
-      "name": "El Borracho",
-      "url": "https://open.spotify.com/track/5rHezo2wXys6LNAKLrghMG"
+      "duration_ms": 155543,
+      "name": "Yo Soy Rico",
+      "url": "https://open.spotify.com/track/6ueysvoc0nj7piSJXEJGJx"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -1635,8 +1635,8 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
-        "name": "Corridos Pa' la Historia",
-        "url": "https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh"
+        "name": "El Borracho",
+        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
       },
       "artists": [
         {
@@ -1644,9 +1644,9 @@
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 155543,
-      "name": "Yo Soy Rico",
-      "url": "https://open.spotify.com/track/6ueysvoc0nj7piSJXEJGJx"
+      "duration_ms": 184199,
+      "name": "El Borracho",
+      "url": "https://open.spotify.com/track/5rHezo2wXys6LNAKLrghMG"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "Backpack",
-      "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
-    },
-    {
-      "added_at": "2023-09-29 07:24:02",
-      "album": {
         "name": "Vencedor",
         "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 183813,
       "name": "A Mis Enemigos",
       "url": "https://open.spotify.com/track/0rRxqhX6w0IWTFSzzRFSOo"
+    },
+    {
+      "added_at": "2023-09-29 07:24:02",
+      "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "Backpack",
+      "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
-        "name": "La Barda",
-        "url": "https://open.spotify.com/album/1nJyjfqugNuIxK5e1b4svo"
-      },
-      "artists": [
-        {
-          "name": "Grupo 360",
-          "url": "https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC"
-        }
-      ],
-      "duration_ms": 268405,
-      "name": "La Barda",
-      "url": "https://open.spotify.com/track/0pi1spZ3Upm2gXb1OVDq5y"
-    },
-    {
-      "added_at": "2023-09-29 07:24:02",
-      "album": {
         "name": "As\u00ed Toc\u00f3 Mi Vida",
         "url": "https://open.spotify.com/album/58E0nQ2a7axyw3rETsiB9r"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 250440,
       "name": "As\u00ed Toc\u00f3 Mi Vida",
       "url": "https://open.spotify.com/track/2YekzGSNDRlEvRLmvfRZfb"
+    },
+    {
+      "added_at": "2023-09-29 07:24:02",
+      "album": {
+        "name": "La Barda",
+        "url": "https://open.spotify.com/album/1nJyjfqugNuIxK5e1b4svo"
+      },
+      "artists": [
+        {
+          "name": "Grupo 360",
+          "url": "https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC"
+        }
+      ],
+      "duration_ms": 268405,
+      "name": "La Barda",
+      "url": "https://open.spotify.com/track/0pi1spZ3Upm2gXb1OVDq5y"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
+        "name": "Recuerden Mi Estilo",
+        "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 203068,
+      "name": "DEL Negociante",
+      "url": "https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH"
+    },
+    {
+      "added_at": "2023-09-29 07:24:02",
+      "album": {
         "name": "D\u00e9jenme Hacer Dinero",
         "url": "https://open.spotify.com/album/38P4ol8xZRrL4DqxxWKMAo"
       },
@@ -1931,38 +1947,6 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
-        "name": "Recuerden Mi Estilo",
-        "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 203068,
-      "name": "DEL Negociante",
-      "url": "https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH"
-    },
-    {
-      "added_at": "2023-09-29 07:24:02",
-      "album": {
-        "name": "Los Buitres Con Tololoche",
-        "url": "https://open.spotify.com/album/0zoLvMVhdvhHRFSpQpnO8E"
-      },
-      "artists": [
-        {
-          "name": "Los Buitres De Culiacan Sinaloa",
-          "url": "https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB"
-        }
-      ],
-      "duration_ms": 149360,
-      "name": "El Tamarindo",
-      "url": "https://open.spotify.com/track/0ultN7TRlSdYf7dD37szrT"
-    },
-    {
-      "added_at": "2023-09-29 07:24:02",
-      "album": {
         "name": "Ciudad Peligrosa",
         "url": "https://open.spotify.com/album/2FAmIkxoyJ4VMjrY2M6nV3"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 226000,
       "name": "Ciudad Peligrosa",
       "url": "https://open.spotify.com/track/3AzpG3c25sZQNaQi8qTTDQ"
+    },
+    {
+      "added_at": "2023-09-29 07:24:02",
+      "album": {
+        "name": "Los Buitres Con Tololoche",
+        "url": "https://open.spotify.com/album/0zoLvMVhdvhHRFSpQpnO8E"
+      },
+      "artists": [
+        {
+          "name": "Los Buitres De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB"
+        }
+      ],
+      "duration_ms": 149360,
+      "name": "El Tamarindo",
+      "url": "https://open.spotify.com/track/0ultN7TRlSdYf7dD37szrT"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
-        "name": "Las Guardadas",
-        "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 271859,
-      "name": "El AV",
-      "url": "https://open.spotify.com/track/2xykX6DxmbuYF9ZF7lWK1U"
-    },
-    {
-      "added_at": "2023-09-29 07:24:02",
-      "album": {
         "name": "La Amanecida",
         "url": "https://open.spotify.com/album/6I5tSkfY6TUJnjOMB0vsFb"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 181524,
       "name": "El 701",
       "url": "https://open.spotify.com/track/4gK27JZrNyJ46T9iGXUXPF"
+    },
+    {
+      "added_at": "2023-09-29 07:24:02",
+      "album": {
+        "name": "Las Guardadas",
+        "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 271859,
+      "name": "El AV",
+      "url": "https://open.spotify.com/track/2xykX6DxmbuYF9ZF7lWK1U"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -2203,22 +2203,18 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
-        "name": "Chorumbo",
-        "url": "https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh"
+        "name": "Cruzando Fronteras",
+        "url": "https://open.spotify.com/album/1VvHNHWtVjcS1jd13nlzNR"
       },
       "artists": [
         {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        },
-        {
-          "name": "Hans el Oso",
-          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
         }
       ],
-      "duration_ms": 200141,
-      "name": "Chorumbo",
-      "url": "https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b"
+      "duration_ms": 155967,
+      "name": "El Doble R",
+      "url": "https://open.spotify.com/track/0uQcVX5M3E5aGf2sBQwfHZ"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -2259,18 +2255,22 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
-        "name": "Cruzando Fronteras",
-        "url": "https://open.spotify.com/album/1VvHNHWtVjcS1jd13nlzNR"
+        "name": "Chorumbo",
+        "url": "https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh"
       },
       "artists": [
         {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        },
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
         }
       ],
-      "duration_ms": 155967,
-      "name": "El Doble R",
-      "url": "https://open.spotify.com/track/0uQcVX5M3E5aGf2sBQwfHZ"
+      "duration_ms": 200141,
+      "name": "Chorumbo",
+      "url": "https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -2327,6 +2327,22 @@
       "duration_ms": 140880,
       "name": "Chalito",
       "url": "https://open.spotify.com/track/6Lb8ikDcpKjF3yx2AnlwzG"
+    },
+    {
+      "added_at": "2023-09-29 07:24:02",
+      "album": {
+        "name": "50 Corridones",
+        "url": "https://open.spotify.com/album/2aZsNDl00gVYcOfdy1hLf5"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        }
+      ],
+      "duration_ms": 211173,
+      "name": "El Chino Piloto",
+      "url": "https://open.spotify.com/track/6HL4B6ogVUeovbei4XUcrn"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -2427,22 +2443,6 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
-        "name": "50 Corridones",
-        "url": "https://open.spotify.com/album/2aZsNDl00gVYcOfdy1hLf5"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
-        }
-      ],
-      "duration_ms": 211173,
-      "name": "El Chino Piloto",
-      "url": "https://open.spotify.com/track/6HL4B6ogVUeovbei4XUcrn"
-    },
-    {
-      "added_at": "2023-09-29 07:24:02",
-      "album": {
         "name": "El Rayo",
         "url": "https://open.spotify.com/album/0e17jJlx78tIV0p45nYJCE"
       },
@@ -2471,22 +2471,6 @@
       "duration_ms": 261973,
       "name": "Corrido De Juanito",
       "url": "https://open.spotify.com/track/0ehx1p1HMn7NMKisZaO9oL"
-    },
-    {
-      "added_at": "2023-09-29 07:24:02",
-      "album": {
-        "name": "Corridos Time \u2013 Season Three \"Comandante En Jefe\"",
-        "url": "https://open.spotify.com/album/6SKPul83B5nz0Q3nRDi1Qb"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 173417,
-      "name": "La Captura III",
-      "url": "https://open.spotify.com/track/1K0oylCNTT52iBWl42iyYD"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -2523,6 +2507,22 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
+        "name": "Puras De Servando ZL, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3K2tobst8dJSvsRmsFDDPa"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 164257,
+      "name": "La Muchacha Del Salado \"La Nicholette\" (En vivo)",
+      "url": "https://open.spotify.com/track/5dgSrp2BNzQXzYblHtzAao"
+    },
+    {
+      "added_at": "2023-09-29 07:24:02",
+      "album": {
         "name": "Soy El Rat\u00f3n",
         "url": "https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz"
       },
@@ -2555,18 +2555,34 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
-        "name": "Puras De Servando ZL, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/3K2tobst8dJSvsRmsFDDPa"
+        "name": "Otro Golpe",
+        "url": "https://open.spotify.com/album/6b1BlHWJSeZ7QgRygd2YqU"
       },
       "artists": [
         {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
         }
       ],
-      "duration_ms": 164257,
-      "name": "La Muchacha Del Salado \"La Nicholette\" (En vivo)",
-      "url": "https://open.spotify.com/track/5dgSrp2BNzQXzYblHtzAao"
+      "duration_ms": 223173,
+      "name": "En La Sierra Y En La Ciudad \"La China\"",
+      "url": "https://open.spotify.com/track/2wzBBN4okgN6lZ6OSkBB1L"
+    },
+    {
+      "added_at": "2023-09-29 07:24:02",
+      "album": {
+        "name": "Corridos Time \u2013 Season Three \"Comandante En Jefe\"",
+        "url": "https://open.spotify.com/album/6SKPul83B5nz0Q3nRDi1Qb"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 173417,
+      "name": "La Captura III",
+      "url": "https://open.spotify.com/track/1K0oylCNTT52iBWl42iyYD"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -2583,22 +2599,6 @@
       "duration_ms": 149163,
       "name": "300 Locos - En Vivo",
       "url": "https://open.spotify.com/track/4PjeItnxK4Ht94FFxYoPXf"
-    },
-    {
-      "added_at": "2023-09-29 07:24:02",
-      "album": {
-        "name": "Otro Golpe",
-        "url": "https://open.spotify.com/album/6b1BlHWJSeZ7QgRygd2YqU"
-      },
-      "artists": [
-        {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        }
-      ],
-      "duration_ms": 223173,
-      "name": "En La Sierra Y En La Ciudad \"La China\"",
-      "url": "https://open.spotify.com/track/2wzBBN4okgN6lZ6OSkBB1L"
     },
     {
       "added_at": "2023-09-29 07:24:02",

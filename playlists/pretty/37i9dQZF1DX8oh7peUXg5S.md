@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Serrat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,618 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,580 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,12 +58,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 48 | [De Momento Abril](https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Romancero](https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ) | 3:04 |
 | 49 | [La vida es más compleja de lo que parece](https://open.spotify.com/track/0KF9s5HhXY9om1zpyo6Uox) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [12 segundos de oscuridad](https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz) | 3:08 |
 | 50 | [Lucia \(with Silvio Rodríguez\)](https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Antología Desordenada](https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR) | 3:12 |
-| 51 | [Contigo](https://open.spotify.com/track/6bXhCHurSM6988FKos7DLY) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Luna nueva](https://open.spotify.com/album/06wdTbvLdXkO7dC2TdrzUd) | 3:59 |
+| 51 | [Si tú no estas](https://open.spotify.com/track/0LhiDnaTjkRZHWgAJfWqb6) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas Rotas: De casa a las ventas \(Standard version\)](https://open.spotify.com/album/56Ux4hVWrnwFUvRBaxXngR) | 4:16 |
 | 52 | [El Sitio De Mi Recreo](https://open.spotify.com/track/0uWLyUK9WECq0nKz0DiA4A) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Oceano De Sol](https://open.spotify.com/album/0Bh08k9p3L0X9mUU3iDUyp) | 3:10 |
 | 53 | [Unicornio](https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Unicornio](https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT) | 5:08 |
 | 54 | [Desde Que Te Perdí](https://open.spotify.com/track/3kfXwiFSsdqyWG5C7PULIZ) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [City Zen](https://open.spotify.com/album/37dsJwV9mJUYSOjeUHif3L) | 3:48 |
 | 55 | [No soy de aquí](https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3) | [Alberto Cortez](https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9) | [No soy de aquí](https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53) | 4:07 |
-| 56 | [Si tú no estas](https://open.spotify.com/track/0LhiDnaTjkRZHWgAJfWqb6) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas Rotas: De casa a las ventas \(Standard version\)](https://open.spotify.com/album/56Ux4hVWrnwFUvRBaxXngR) | 4:16 |
+| 56 | [Contigo](https://open.spotify.com/track/6bXhCHurSM6988FKos7DLY) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Luna nueva](https://open.spotify.com/album/06wdTbvLdXkO7dC2TdrzUd) | 3:59 |
 | 57 | [Quiero Abrazarte Tanto](https://open.spotify.com/track/4VBSpxGwGLtgxlsDsuEd1P) | [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [¿Quién Puso Más?](https://open.spotify.com/album/7zyhfDK83RBHS4eM22OG3G) | 3:05 |
 | 58 | [Solo Otra Vez \- Alone Again](https://open.spotify.com/track/2Oeu9Qz2fRSgtKohOvGgEP) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Último Acto](https://open.spotify.com/album/3ZwIwLuB8YNlhwV2xuGWbt) | 3:26 |
 | 59 | [Peces de Ciudad \(feat\. Pablo López\)](https://open.spotify.com/track/7sLYuvEf4lqz6zSnjYBkkP) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Pablo López](https://open.spotify.com/artist/4uyqaioPEdClDxU6zvYlAZ) | [Peces de Ciudad \(feat\. Pablo López\)](https://open.spotify.com/album/1z62EMbonbN8m5fjpzT9cn) | 6:30 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 74 | [Antes De Verte \(with Kevin Johansen\)](https://open.spotify.com/track/7btOWcAo8FLUCuhltFlz6v) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Cuando el Río Suena...](https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL) | 3:54 |
 | 75 | [Ahora Que Te Encuentro](https://open.spotify.com/track/6hCgPpGpAgV6ExrOj9MGXH) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [La Llamada](https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21) | 7:22 |
 | 76 | [No puedo vivir sin ti \- Versión Acustica](https://open.spotify.com/track/0XUbxCMfZVWqCudk047CaQ) | [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [La hora de los gigantes](https://open.spotify.com/album/6U0fTUroL70nySX5heirW8) | 3:44 |
-| 77 | [Agua](https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Agua](https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu) | 4:00 |
-| 78 | [El Hilo Rojo](https://open.spotify.com/track/05m3jXQci3RgN2DzWrPeNy) | [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe), [Ale Zéguer](https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ) | [El Hilo Rojo](https://open.spotify.com/album/4SF1Z5cqPSf14wrsKUWRoi) | 3:22 |
+| 77 | [El Hilo Rojo](https://open.spotify.com/track/05m3jXQci3RgN2DzWrPeNy) | [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe), [Ale Zéguer](https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ) | [El Hilo Rojo](https://open.spotify.com/album/4SF1Z5cqPSf14wrsKUWRoi) | 3:22 |
+| 78 | [Agua](https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Agua](https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu) | 4:00 |
 | 79 | [Te Doy Una Cancion](https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC) | [Silvio Rodriguez and Pablo Milanes](https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK) | [Silvio Rodriguez y Pablo Milanes](https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f) | 3:10 |
 | 80 | [Un Día de Estos](https://open.spotify.com/track/0eRrshPPfWfo1sbzdsGQLq) | [Marwán](https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO) | [Apuntes Sobre Mi Paso por el Invierno](https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b) | 4:01 |
 | 81 | [Manifiesto](https://open.spotify.com/track/55ZrFdC27uqQC5WA8mdXSR) | [Victor Jara](https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a) | [Manifiesto](https://open.spotify.com/album/10SO9wTdCvi8M9HMiJee3a) | 4:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 99 | [Loco](https://open.spotify.com/track/4OCBvT6SZHbNVQF4i2x5HX) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Loco](https://open.spotify.com/album/0HIuFgi8KJqL6Xp9a30tF9) | 3:29 |
 | 100 | [Pasaba por Aqui](https://open.spotify.com/track/6XhZIUzlCGABARgSgZby2v) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 2:52 |
 
-Snapshot ID: `MCw3MThmMTViZTFhZmRiYmQ0OTVjYmZkYzMyZTJmMmQ0OTQ0YWU1MjVk`
+Snapshot ID: `MCxkMjgxOGZiZWM0ZjE0NzlmN2U4ZTBiYmI4ZTc1NDk0NjNkMzBlNmJl`

@@ -2,7 +2,7 @@
 
 ### [La Llorería](https://open.spotify.com/playlist/37i9dQZF1DWYPwPMCzMU9f)
 
-> 💔 tan fácil que es enamorarme y tan difícil olvidarte 💔 En portada: Jessi Uribe
+> 💔 tan fácil que es enamorarme y tan difícil olvidarte 💔
 
 72 songs - 4 hr 33 min
 

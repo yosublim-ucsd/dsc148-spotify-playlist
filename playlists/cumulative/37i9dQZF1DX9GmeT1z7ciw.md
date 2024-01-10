@@ -4,7 +4,7 @@
 
 > 時には、思いっきりラウドな音に感情を乗せてシャウト。 Shout your heart out with these loud tracks.
 
-77 songs - 4 hr 16 min
+79 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Curse](https://open.spotify.com/track/24CBIOlOxIMwXB8rmkYToW) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [Curse](https://open.spotify.com/album/4IO7PP3b6sRhsJVrj8u4IK) | 3:14 | 2023-09-07 |  |
 | [Dark Horse](https://open.spotify.com/track/5tdi3BqFzpYVAaXi2qwC2Y) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [JESSE](https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Dark Horse](https://open.spotify.com/album/2w047BXSeBWZEoVblObPPs) | 3:45 | 2023-09-07 |  |
 | [DENGEKI](https://open.spotify.com/track/0Y6MovlfBfQwYaV6kPJBrd) | [AFJB](https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj), [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4) | [AFJB](https://open.spotify.com/album/0G6Ecl2kJCspqH4sHqLL5b) | 3:36 | 2023-09-07 |  |
-| [Destruction Sisters](https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s) | 2:30 | 2023-09-29 |  |
+| [Destruction Sisters](https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s) | 2:30 | 2023-09-29 | 2024-01-10 |
 | [Dirty old fart is waiting for my reaction](https://open.spotify.com/track/1yxbAP2Q68GvJss6IaMES7) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis) | 0:57 | 2023-09-07 | 2023-11-29 |
 | [DO THE DANCE](https://open.spotify.com/track/0bAUr8cmsxdjIIyGNJmc2F) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [DO THE DANCE](https://open.spotify.com/album/7iWCRdzPIQw6HiPFvTb5l2) | 3:16 | 2023-09-29 | 2023-10-01 |
 | [DO THE DANCE](https://open.spotify.com/track/1dyxnU4Me5DETPSXkNpaDl) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 3:16 | 2023-09-29 |  |
@@ -38,7 +38,7 @@
 | [Hyperhell](https://open.spotify.com/track/1NgQvI5UhPKnqSS2f5eQoF) | [Earthists.](https://open.spotify.com/artist/2fW1q3e7jiCe9l55PlIcNE) | [Hyperhell](https://open.spotify.com/album/7FwB8j1LLXMbkoYxfy3TuN) | 2:41 | 2023-09-07 | 2023-10-04 |
 | [I checked your cellphone](https://open.spotify.com/track/5qzkYYg7WmIj9yJVIglD7n) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis) | 1:32 | 2023-11-28 |  |
 | [I don't know](https://open.spotify.com/track/3qh01ZvWwxt1GV5bzOaUIC) | [Number Girl](https://open.spotify.com/artist/0FXxQ0TEYtebM8gGg0xdoC) | [OMOIDE IN MY HEAD 1 \~BEST & B\-SIDES\~](https://open.spotify.com/album/6ZVISn3PfMoymy86TllKg5) | 3:19 | 2023-09-07 |  |
-| [i don't wanna be](https://open.spotify.com/track/5cEBCMlHGGoShjfmmtfjJg) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [i don't wanna be](https://open.spotify.com/album/5D0iizWvM5gdeduQST36rh) | 3:36 | 2023-10-03 |  |
+| [i don't wanna be](https://open.spotify.com/track/5cEBCMlHGGoShjfmmtfjJg) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [i don't wanna be](https://open.spotify.com/album/5D0iizWvM5gdeduQST36rh) | 3:36 | 2023-10-03 | 2024-01-10 |
 | [I Refuse](https://open.spotify.com/track/0rlVGQ1dhCbxXqy6Z79I32) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [I Refuse](https://open.spotify.com/album/0MrB7qq3mNwegJbkXWsu9R) | 3:47 | 2023-09-07 |  |
 | [JUNGLE BUN DEM](https://open.spotify.com/track/3wWMqIeTZcC6eLmR0G5dcG) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [JUNGLE BUN DEM](https://open.spotify.com/album/24eIv5TgqoGWZNocPZsa5E) | 3:13 | 2023-10-03 |  |
 | [JUNGLE BUN DEM](https://open.spotify.com/track/63db8vQEJP7cjNgmGLQJ3G) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [JUNGLE BUN DEM](https://open.spotify.com/album/34W77zpgAiCyRDQ4RwhFwe) | 3:13 | 2023-10-03 | 2023-10-05 |
@@ -66,12 +66,14 @@
 | [Shambles](https://open.spotify.com/track/590KvwnYag62VRzmXM7dOk) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Shambles](https://open.spotify.com/album/4hhkj6li1ULllYOZJHFt7w) | 3:22 | 2023-09-07 | 2023-12-19 |
 | [Shinra Dark Pop](https://open.spotify.com/track/1EcQCDJGRTbUyGHhAvyRvT) | [星熊南巫](https://open.spotify.com/artist/4QHRf4j0MXjcghBBXhKE2U) | [Shinra Dark Pop](https://open.spotify.com/album/1pD3UcDc6DNbzkYNl9yehf) | 2:10 | 2023-09-07 | 2023-10-20 |
 | [Shousatsu](https://open.spotify.com/track/74Xrlu3BM1srb9vMBpCe9E) | [TYOSiN](https://open.spotify.com/artist/61GEYBaST9W8FSoigPRYs7) | [Shousatsu](https://open.spotify.com/album/4koW2ALo5eDjXlAOSR6als) | 3:05 | 2023-11-14 |  |
+| [Song For The Weak.](https://open.spotify.com/track/12wm3tZxnlvGBy3ccrjqYr) | [DEVILOOF](https://open.spotify.com/artist/4gSAE6I87LS39XMZpoQGPG) | [Song For The Weak.](https://open.spotify.com/album/3ubFGbdCfGAmMBHgwdFua6) | 5:14 | 2024-01-09 |  |
 | [STARS](https://open.spotify.com/track/0mMikRupn84z6woeMHccz1) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [STARS](https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x) | 3:33 | 2023-09-07 |  |
 | [STFU!](https://open.spotify.com/track/2S3KvNGyadSvbSr2C1JpDB) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA \(Deluxe Edition\)](https://open.spotify.com/album/6ijADQARGsV0sWAVHN4imN) | 3:23 | 2023-09-07 |  |
 | [Survive!](https://open.spotify.com/track/0IRT1uu2f4spuVnw8Bh27f) | [Discavil](https://open.spotify.com/artist/0H6SzT0325flzVvef2vquM), [金富烈](https://open.spotify.com/artist/4oh6YxbjbSjod1g0iomHqf) | [Across End of the Century](https://open.spotify.com/album/7ir50CIZIV44ZKBiZVRwP0) | 6:46 | 2023-11-09 | 2023-11-29 |
 | [SYOKISHODO](https://open.spotify.com/track/08JA6xRSgOcycZ94PqzJoE) | [HIKAGE](https://open.spotify.com/artist/5GmWKtZuqNYrBrrHlhY9DO) | [SYOKISHODO](https://open.spotify.com/album/7nchzTfUv6iZxjSFvWj3Yr) | 3:08 | 2023-09-07 | 2023-09-29 |
 | [Underneath](https://open.spotify.com/track/6QgBcizFhhAywXr1Er0TAo) | [Falling Asleep](https://open.spotify.com/artist/10ieHOzetJ5VD9IBD1flWx) | [HEAVEN'S WHERE OUR SOULS BELONG](https://open.spotify.com/album/7g3nYJsl25536GHWALEpJn) | 3:37 | 2023-09-07 | 2023-12-15 |
 | [Unleash!!!!!](https://open.spotify.com/track/5Ti8I2TZIE0CM625nT9e0H) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:10 | 2023-09-07 |  |
+| [Vengeance](https://open.spotify.com/track/2y0gkLQbblihOimgloMCPS) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [Vengeance](https://open.spotify.com/album/353yfUyCKvr6jTcudZAE3w) | 3:53 | 2024-01-09 |  |
 | [Voyuer](https://open.spotify.com/track/714b2diY0lAC23l1UwucEg) | [ENTH](https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz) | [Voyuer](https://open.spotify.com/album/68prMgrp45QL4qb8tlBQ24) | 3:49 | 2023-09-07 | 2023-10-04 |
 | [watermelon \(demo\)](https://open.spotify.com/track/1Pp3YC3HtXjjFDtJedRNj3) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [watermelon \(demo\)](https://open.spotify.com/album/0aTrDi5x5rI4IU7vGW6D6y) | 1:28 | 2023-12-12 |  |
 | [お先に失礼します。](https://open.spotify.com/track/1bTZoQX1G6GmADCY0xwBbO) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [お先に失礼します。](https://open.spotify.com/album/0l4QylgmJ4qS6UfyMbMnlf) | 3:09 | 2023-09-07 |  |

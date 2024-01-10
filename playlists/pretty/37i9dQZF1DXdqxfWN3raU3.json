@@ -1,12 +1,12 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Latin Mafia y Humbe en portada.",
-  "num_followers": 108541,
+  "num_followers": 108607,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzllNjcwNWU2ZWMyOWZlOWNhZTVhYjdhNmIyYTk4M2ViZTM0MDVm",
+  "snapshot_id": "MCw5NmZjOWRkMzRmYTI0NmExZjlkNDBlMjM2OWRjYTMzZjIyZjdiNWRm",
   "tracks": [
     {
       "added_at": "2023-12-15 06:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "Dopamina",
-        "url": "https://open.spotify.com/album/0dEUjKmUXbLnRZUPfpnvVA"
-      },
-      "artists": [
-        {
-          "name": "Joonti",
-          "url": "https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Dopamina",
-      "url": "https://open.spotify.com/track/4Y9SjgJOMppiqp7GwmW7LS"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
         "name": "Helado De Vainilla",
         "url": "https://open.spotify.com/album/2rvrhgSwAx5WMZAqeNoO5R"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 209100,
       "name": "Helado De Vainilla",
       "url": "https://open.spotify.com/track/6kQq7hY3uAW4hQiysJrR03"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
+        "name": "Dopamina",
+        "url": "https://open.spotify.com/album/0dEUjKmUXbLnRZUPfpnvVA"
+      },
+      "artists": [
+        {
+          "name": "Joonti",
+          "url": "https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Dopamina",
+      "url": "https://open.spotify.com/track/4Y9SjgJOMppiqp7GwmW7LS"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
+        "name": "Un Koala En Una Palmera",
+        "url": "https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Curarte",
+      "url": "https://open.spotify.com/track/0Xrzd6jUgpqfyjWjMBwZ7Q"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
         "name": "Modo Avi\u00f3n",
         "url": "https://open.spotify.com/album/49UdayEAAiIV7fC6nFenPn"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 269000,
       "name": "Te Hice Mal (Remix)",
       "url": "https://open.spotify.com/track/5GScJWskAOiLZz9upeOKaI"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
-        "name": "Un Koala En Una Palmera",
-        "url": "https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Curarte",
-      "url": "https://open.spotify.com/track/0Xrzd6jUgpqfyjWjMBwZ7Q"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
+        "name": "Nervios de Acero",
+        "url": "https://open.spotify.com/album/0Q1CgNC7kxF5R1Ln5LfTO2"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 187368,
+      "name": "Nervios de Acero",
+      "url": "https://open.spotify.com/track/5AtOFc69R8iYQlShJoXB3n"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
         "name": "NINA",
         "url": "https://open.spotify.com/album/3X5avTBhMfVYYyrUeX385j"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 299000,
       "name": "NINA",
       "url": "https://open.spotify.com/track/1TByEjVxNgxuhYE27PokOf"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
-        "name": "Nervios de Acero",
-        "url": "https://open.spotify.com/album/0Q1CgNC7kxF5R1Ln5LfTO2"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 187368,
-      "name": "Nervios de Acero",
-      "url": "https://open.spotify.com/track/5AtOFc69R8iYQlShJoXB3n"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -1139,22 +1139,18 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "A la Carta",
-        "url": "https://open.spotify.com/album/7MOj5xWZV82U7TvBTW5kqH"
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/251ubhwCkD47ljB7FLK9DN"
       },
       "artists": [
         {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        },
-        {
-          "name": "Jossman",
-          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
         }
       ],
-      "duration_ms": 173400,
-      "name": "A la Carta",
-      "url": "https://open.spotify.com/track/22a4UCHSOGzypj67zyOVEH"
+      "duration_ms": 145413,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/2fw6liEffYRav3ORECpqvQ"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -1175,18 +1171,22 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/251ubhwCkD47ljB7FLK9DN"
+        "name": "A la Carta",
+        "url": "https://open.spotify.com/album/7MOj5xWZV82U7TvBTW5kqH"
       },
       "artists": [
         {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        },
+        {
+          "name": "Jossman",
+          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
         }
       ],
-      "duration_ms": 145413,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/2fw6liEffYRav3ORECpqvQ"
+      "duration_ms": 173400,
+      "name": "A la Carta",
+      "url": "https://open.spotify.com/track/22a4UCHSOGzypj67zyOVEH"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "La Puerta",
-        "url": "https://open.spotify.com/album/0TPue7zWYi1z0168wshD9y"
-      },
-      "artists": [
-        {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
-        }
-      ],
-      "duration_ms": 214789,
-      "name": "La Puerta",
-      "url": "https://open.spotify.com/track/4NIOOtiTugYXemmElAwGNw"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
         "name": "Barco",
         "url": "https://open.spotify.com/album/4kBwg7WWtpNMnm4LfNYXkK"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 238000,
       "name": "Barco",
       "url": "https://open.spotify.com/track/2x6pJL7zRMTT4GMLWcUTLL"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
+        "name": "La Puerta",
+        "url": "https://open.spotify.com/album/0TPue7zWYi1z0168wshD9y"
+      },
+      "artists": [
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        }
+      ],
+      "duration_ms": 214789,
+      "name": "La Puerta",
+      "url": "https://open.spotify.com/track/4NIOOtiTugYXemmElAwGNw"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
+        "name": "Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/2CkrTRjWLytC0Ihmm6GBQR"
+      },
+      "artists": [
+        {
+          "name": "FERCHO",
+          "url": "https://open.spotify.com/artist/5MkJLgGk2KS4XihPHuEXOU"
+        }
+      ],
+      "duration_ms": 138485,
+      "name": "Al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/56q9dVA6Fo4s0BAhUJRip8"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
         "name": "Nadie M\u00e1s",
         "url": "https://open.spotify.com/album/1AW4bjxaKeBCT2eYCqHy0d"
       },
@@ -1511,22 +1527,6 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/2CkrTRjWLytC0Ihmm6GBQR"
-      },
-      "artists": [
-        {
-          "name": "FERCHO",
-          "url": "https://open.spotify.com/artist/5MkJLgGk2KS4XihPHuEXOU"
-        }
-      ],
-      "duration_ms": 138485,
-      "name": "Al Rev\u00e9s",
-      "url": "https://open.spotify.com/track/56q9dVA6Fo4s0BAhUJRip8"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
         "name": "Tus Ojos Me Hablaron",
         "url": "https://open.spotify.com/album/1DB93h9fw0dyrn9LOoYHeM"
       },
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "Los Dos",
-        "url": "https://open.spotify.com/album/5J0ozKBrpKY05AoClZx56R"
-      },
-      "artists": [
-        {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "Los Dos",
-      "url": "https://open.spotify.com/track/6kn5oUW8uoVIcGjpjbnBlw"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
         "name": "Roxanne",
         "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 213993,
       "name": "A la Mitad (Suceso 1)",
       "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
+        "name": "Los Dos",
+        "url": "https://open.spotify.com/album/5J0ozKBrpKY05AoClZx56R"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "Los Dos",
+      "url": "https://open.spotify.com/track/6kn5oUW8uoVIcGjpjbnBlw"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
+        "name": "Ten Cuidao'",
+        "url": "https://open.spotify.com/album/13ixtSvxnOOCjcsA19x28i"
+      },
+      "artists": [
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        }
+      ],
+      "duration_ms": 174757,
+      "name": "Ten Cuidao'",
+      "url": "https://open.spotify.com/track/0FPMwL6lPQP5dYZr4fVKvp"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
         "name": "Cada Quien",
         "url": "https://open.spotify.com/album/4QS3kIW0YTZAMZMkaJ1mLH"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 184780,
       "name": "Cada Quien",
       "url": "https://open.spotify.com/track/4ayJaxA5MjPEopjWYNMAbr"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
-        "name": "Ten Cuidao'",
-        "url": "https://open.spotify.com/album/13ixtSvxnOOCjcsA19x28i"
-      },
-      "artists": [
-        {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
-        }
-      ],
-      "duration_ms": 174757,
-      "name": "Ten Cuidao'",
-      "url": "https://open.spotify.com/track/0FPMwL6lPQP5dYZr4fVKvp"
     },
     {
       "added_at": "2023-12-15 06:00:00",

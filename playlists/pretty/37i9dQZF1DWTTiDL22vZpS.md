@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 
 > Funk\-inspired beats by latinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,896 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,938 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 | 59 | [Moonlight](https://open.spotify.com/track/3t9HCHioZ2hmHhWQEjOjPA) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ), [Tetra Collective](https://open.spotify.com/artist/7dOWdFvBQ8ZN7F8sc3D56k) | [Moonlight](https://open.spotify.com/album/3ofWk0ZjZQNmhsjlVud2y9) | 4:13 |
 | 60 | [Fugaz](https://open.spotify.com/track/6xyyEGR8dSPYwxFvRzRt3A) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm), [Costa de Ámbar](https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg) | [Fugaz](https://open.spotify.com/album/1Ah9gV6yPpVHjq3VdxwLej) | 2:58 |
 
-Snapshot ID: `MCwyYzNiOGU4ZDhkMDdiNzRmNjZhZDdmOWZjMDg5MDQyNzBmN2MxYjJm`
+Snapshot ID: `MCw5OTYxNzFmYzg1OWQ3NWU0MTFmYjY1YmJlMDYzMWM5ZjA0MjQ0YjFm`

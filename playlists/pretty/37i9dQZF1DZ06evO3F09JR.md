@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 
 > This is Alessandro Cortini\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,173 likes - 41 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,175 likes - 41 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 | 3 | [To Live Another Day](https://open.spotify.com/track/0uDw3vdZfUWIejxagpJEnC) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 0:55 |
 | 4 | [ECCO](https://open.spotify.com/track/2zplGQ1MtHa4dMtGtRGpmS) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/045jhBuqmI4EXPrtKY3RbD) | 4:30 |
 | 5 | [Space Channel](https://open.spotify.com/track/0iNQjPzuYEexBAsPSsKvnO) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 1:42 |
-| 6 | [Spettro I](https://open.spotify.com/track/3DG4yCO1Js4vwhpzTnzqVX) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Spettri](https://open.spotify.com/album/3FfEqoVIZUSQXHU2QKNuPP) | 8:38 |
+| 6 | [Spettro III](https://open.spotify.com/track/4dfKvKF398PyHCayVWUJBw) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Spettri](https://open.spotify.com/album/3FfEqoVIZUSQXHU2QKNuPP) | 8:28 |
 | 7 | [The Hunt Begins](https://open.spotify.com/track/21CJdaJkRDMz2UA3tNxORl) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 3:20 |
 | 8 | [CHIAROSCURO](https://open.spotify.com/track/2n562udKyZbrdhQqtkIW8b) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/7GdeIkHAyeOJDPpg34hNAg) | 7:56 |
 | 9 | [Interrupted By The Cloud Of Light](https://open.spotify.com/track/2piqRx94EW1ZC6jIcct63N) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 1:54 |
-| 10 | [Spettro III](https://open.spotify.com/track/4dfKvKF398PyHCayVWUJBw) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Spettri](https://open.spotify.com/album/3FfEqoVIZUSQXHU2QKNuPP) | 8:28 |
+| 10 | [Spettro I](https://open.spotify.com/track/3DG4yCO1Js4vwhpzTnzqVX) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Spettri](https://open.spotify.com/album/3FfEqoVIZUSQXHU2QKNuPP) | 8:38 |
 | 11 | [AMORE AMARO](https://open.spotify.com/track/6fiijXOYS8H4e3klBNBVxX) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK) | 5:02 |
 | 12 | [Forgotten Paths](https://open.spotify.com/track/2PUjmpblg9f1Cy9KItnQSJ) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 1:46 |
 | 13 | [At First Sight](https://open.spotify.com/track/0kkV16AVMLlMt5tMYZEM2H) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 3:27 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 | 40 | [La tarantola dal ventre nero](https://open.spotify.com/track/1yicvjJVBy78161FcNOXID) | [Calibro 35](https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Scacco al Maestro \- Volume 2](https://open.spotify.com/album/67xUiBAxO2Mri7wxHd2Ulz) | 4:39 |
 | 41 | [Immediate Horizon 4](https://open.spotify.com/track/3sVoD2TNyGarLfFMKAHSVi) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Immediate Horizon](https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2) | 11:59 |
 
-Snapshot ID: `Mjg0MTE5MDAsMDAwMDAwMDBjYzJhZjk1ODlmM2ZjOGUyMTBkYmYxZDU3MTM5MmI3Mg==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDBkZTUyMzBhOWM3MjQ2NzlmZWIwYjQwYjFhZTQ0OGM3NQ==`

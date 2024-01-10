@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks from Tiësto, David Guetta, BROHUG, Guz and many more.
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,193 likes - 118 songs - 5 hr 44 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,187 likes - 118 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Kossisko
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,828 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,749 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 11 | [Boyfriend](https://open.spotify.com/track/56QF4yDJSPKs783imRYWX0) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw), [Charles](https://open.spotify.com/artist/1zQk335M5LE4TowdBTKOAp) | [Boyfriend](https://open.spotify.com/album/0nzeplsr4yZbMptOu6jlhI) | 3:08 |
 | 12 | [BLACK JAMES DEAN](https://open.spotify.com/track/16WZ9KBCv48ChvdyuSpZcH) | [Gerard Alain](https://open.spotify.com/artist/2M1iqciaWLU8JSGJgFvhKx) | [BLACK JAMES DEAN](https://open.spotify.com/album/4YzlTpKfVP21MWqv9MBEp6) | 2:33 |
 | 13 | [How Much Do You Love Me](https://open.spotify.com/track/5GpJ5L1VcqC3njxdZVCmIT) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW), [Jacob Jeffries](https://open.spotify.com/artist/2s4evfvMB1HbNMGak6pDUB), [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X) | [Vulfnik](https://open.spotify.com/album/5j70jrJlMUJq2vDcJHf2zU) | 4:17 |
-| 14 | [Good Love](https://open.spotify.com/track/65zNYzgkRthLtLVTVhLz4P) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [Good Love](https://open.spotify.com/album/0NNE3o9iAtAsHYbxxmME78) | 4:49 |
+| 14 | [Good Love](https://open.spotify.com/track/0Tz0QSj60jGd6liWezWmEW) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [Good Love](https://open.spotify.com/album/3BwkJpkYkCYNBlW2TNFu1w) | 4:49 |
 | 15 | [Nightlife](https://open.spotify.com/track/2HhwgxfCPDqxmpzKB0FlTL) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Nightlife](https://open.spotify.com/album/3fJnk9OEpO346UKBj1dvyu) | 3:17 |
 | 16 | [OKALRIGHTISEEYOU](https://open.spotify.com/track/3PkRzJh41SCMUc2JRJXFR0) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [The Time](https://open.spotify.com/album/2wf89BqslFiWLJK0ZKHulS) | 2:34 |
 | 17 | [Dance All Night](https://open.spotify.com/track/4OwL0G99x5mBHZktaX6OF5) | [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC), [5amDiaries](https://open.spotify.com/artist/0jzizURp4Zz01l8OmSeZ2g), [J.Ar.J](https://open.spotify.com/artist/5j0ebhCPgteJolbpJ7pI6A) | [Dance All Night](https://open.spotify.com/album/4Sa2qY3zA0oUKRVuXA6WJe) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [Naked \- Feat\. Leven Kali](https://open.spotify.com/track/37usDo7KCpJJHrDnzHG8xU) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Naked \(Feat\. Leven Kali\)](https://open.spotify.com/album/7anDRgbTFWggPG51LUEhuG) | 3:04 |
 | 100 | [Bad Vibes \- Duss Hagen Remix](https://open.spotify.com/track/0FQLZBjjbgWPvywGYVi7qq) | [Saint Rock](https://open.spotify.com/artist/6C6t0KhFTcGHV7nUlPdjrK), [Duss Hagen](https://open.spotify.com/artist/5fMHCBdB7H8fyKwkQuiN9M) | [Bad Vibes \(Duss Hagen Remix\)](https://open.spotify.com/album/7JSqjbgXJIqndFYtLQe8XG) | 2:59 |
 
-Snapshot ID: `MCxkZWM3ZGRjNGFjOGIyNmJjMzBlZDE1YjUyZjQyN2M0YWQ5NmY1ODA2`
+Snapshot ID: `MCw5OTE2Mzg2ZTFlMjZmMGYwYjE1ZjVmM2U3OTUxYjE1Mjg0ZmFjODNm`

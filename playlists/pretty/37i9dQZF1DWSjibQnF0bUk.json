@@ -1,12 +1,12 @@
 {
   "description": "Definitive African party starters, perfect for any jollof jam or braai! \"Spray\" money to these hits!",
-  "num_followers": 441324,
+  "num_followers": 441548,
   "original_name": "Afro Party Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWRmMzZjMGM0MDZiZTY2YTVjZDg3NmM4NjQyNmUyMTllNmQwOWM2",
+  "snapshot_id": "MCwwOGYyZTA3MDZmODNmYzhiZGRkNjcxZGM5MTg2OWYxMDNmMWI0NzFm",
   "tracks": [
     {
       "added_at": "2023-12-21 12:35:40",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-12-21 12:35:40",
       "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR"
+    },
+    {
+      "added_at": "2023-12-21 12:35:40",
+      "album": {
         "name": "Carry Me Go",
         "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 136464,
       "name": "Carry Me Go",
       "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
-    },
-    {
-      "added_at": "2023-12-21 12:35:40",
-      "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR"
     },
     {
       "added_at": "2023-12-21 12:35:40",
@@ -699,22 +699,18 @@
     {
       "added_at": "2023-12-21 12:35:40",
       "album": {
-        "name": "Talibans II",
-        "url": "https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va"
+        "name": "Away",
+        "url": "https://open.spotify.com/album/4p3K0LdEHFQcpTJGeynS9w"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Byron Messia",
-          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
         }
       ],
-      "duration_ms": 176453,
-      "name": "Talibans II",
-      "url": "https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB"
+      "duration_ms": 137885,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/1rZyZOkUjlbfaqTLVvMNqx"
     },
     {
       "added_at": "2023-12-21 12:35:40",
@@ -739,18 +735,22 @@
     {
       "added_at": "2023-12-21 12:35:40",
       "album": {
-        "name": "Away",
-        "url": "https://open.spotify.com/album/4p3K0LdEHFQcpTJGeynS9w"
+        "name": "Talibans II",
+        "url": "https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va"
       },
       "artists": [
         {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
         }
       ],
-      "duration_ms": 137885,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/1rZyZOkUjlbfaqTLVvMNqx"
+      "duration_ms": 176453,
+      "name": "Talibans II",
+      "url": "https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB"
     },
     {
       "added_at": "2023-12-21 12:35:40",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2023-12-21 12:35:40",
       "album": {
-        "name": "Mumu",
-        "url": "https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU"
-      },
-      "artists": [
-        {
-          "name": "DJ Neptune",
-          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
-        },
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "Mumu",
-      "url": "https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4"
-    },
-    {
-      "added_at": "2023-12-21 12:35:40",
-      "album": {
         "name": "What's Poppin",
         "url": "https://open.spotify.com/album/33FTfk4rgSjlYSeIQozbtw"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 195426,
       "name": "What's Poppin",
       "url": "https://open.spotify.com/track/38BBkkW2v88ozDGf2FySNj"
+    },
+    {
+      "added_at": "2023-12-21 12:35:40",
+      "album": {
+        "name": "Mumu",
+        "url": "https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU"
+      },
+      "artists": [
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "Mumu",
+      "url": "https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4"
     },
     {
       "added_at": "2023-12-21 12:35:40",

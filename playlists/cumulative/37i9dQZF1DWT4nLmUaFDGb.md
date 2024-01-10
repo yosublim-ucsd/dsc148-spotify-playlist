@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-241 songs - 15 hr 31 min
+242 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Dream A Little Dream](https://open.spotify.com/track/5vVLUqs9ogEGnH44Lh8Tuc) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [Introducing](https://open.spotify.com/album/18k94eozbQ5Ro7AyYMxOSF) | 3:37 | 2022-09-08 |  |
 | [Dream a Little Dream](https://open.spotify.com/track/0Om6i77YRSH7GscXwSFLQ2) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ), [The Von Trapps](https://open.spotify.com/artist/2Mu6EXEvZgJedsm8fCrkiD) | [Dream a Little Dream](https://open.spotify.com/album/2r1rBv8mkXIsrGHX1BLSLt) | 3:52 | 2021-12-21 | 2022-07-29 |
 | [Dream a Little Dream](https://open.spotify.com/track/7zaiLgzejyT5M7fTsmqZ18) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ), [The Von Trapps](https://open.spotify.com/artist/2Mu6EXEvZgJedsm8fCrkiD) | [Dream a Little Dream](https://open.spotify.com/album/45VdrnQMcb43uBQyocSKqo) | 3:53 | 2022-07-14 | 2023-08-19 |
-| [Dreamers Ball](https://open.spotify.com/track/3jh6i9T4kocrZAEGv5JaXc) | [Rebecca Poole](https://open.spotify.com/artist/0xVPAZm6o6XJ7lARU9nC1D) | [Dreamers Ball](https://open.spotify.com/album/0uMulVRZbsaUJpJ8Lf8uDx) | 4:43 | 2023-10-27 |  |
+| [Dreamers Ball](https://open.spotify.com/track/3jh6i9T4kocrZAEGv5JaXc) | [Rebecca Poole](https://open.spotify.com/artist/0xVPAZm6o6XJ7lARU9nC1D) | [Dreamers Ball](https://open.spotify.com/album/0uMulVRZbsaUJpJ8Lf8uDx) | 4:43 | 2023-10-27 | 2024-01-10 |
 | [Easy On Me](https://open.spotify.com/track/12J3Vk6944iKANUQZcuidf) | [Changes](https://open.spotify.com/artist/1sI1mmOgN7gtafSNe2po2R), [Elin Bemark](https://open.spotify.com/artist/7yHtV4WKHAciBxQmKiX7RI) | [Easy On Me](https://open.spotify.com/album/7rriXPfGcOzdHmU6q7V8Vr) | 4:32 | 2022-03-31 |  |
 | [Eat It Too](https://open.spotify.com/track/0O0KbAdK46piVPjL1Oxcjc) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Eat It Too](https://open.spotify.com/album/2UY7GxtvGs4hgG1MrieYHn) | 3:46 | 2023-12-19 |  |
 | [Eat It Too](https://open.spotify.com/track/4as16KAbhjo5MPSo58ilez) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Eat It Too](https://open.spotify.com/album/6DeT7vD5VN5vGj9vnTji0d) | 3:46 | 2023-06-20 | 2023-12-10 |
@@ -191,6 +191,7 @@
 | [Sometimes Today Seems Like Yesterday](https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile \(Deluxe Edition\)](https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3) | 3:03 | 2023-05-18 |  |
 | [Stars Fell On Alabama](https://open.spotify.com/track/3q634ZiAdA9bcg135bdJxo) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Grace](https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg) | 3:52 | 2021-12-21 |  |
 | [Summer Wind](https://open.spotify.com/track/7r03ij7i1V46ipmA4Su4Vx) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [Summer Wind](https://open.spotify.com/album/6uE5kO9jjcNcomi2idoBSf) | 2:41 | 2021-12-21 | 2023-12-30 |
+| [Sunflower](https://open.spotify.com/track/70QKAYi7qsHlug2lYFiMi2) | [mystery tea.](https://open.spotify.com/artist/6nV1Cu7TSnmGMRCtaeynOo) | [Sunflower](https://open.spotify.com/album/0qZdZ0QoQbmGa0Tlk9U8Wj) | 3:56 | 2024-01-03 |  |
 | [Sunny](https://open.spotify.com/track/4VHm7ABduF0wRhmoGIOXHJ) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [Jazz Love](https://open.spotify.com/album/2XDDmdrutCzZRwxpkoJBLq) | 3:56 | 2021-12-21 |  |
 | [Sunset In The Blue](https://open.spotify.com/track/3fkoZm1DZEfsyAx1Z87bKR) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Sunset In The Blue](https://open.spotify.com/album/1LIhtVLdBxW5V6rUW1hz8D) | 4:32 | 2021-12-21 | 2023-08-19 |
 | [Suzanne \(feat\. Gregory Porter\)](https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Suzanne](https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ) | 4:33 | 2022-09-22 |  |

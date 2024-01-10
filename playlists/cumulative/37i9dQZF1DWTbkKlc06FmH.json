@@ -844,7 +844,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 303218,
       "name": "BAD\u30e2\u30fc\u30c9",
       "url": "https://open.spotify.com/track/3TxjMrMGWFP0jkIy0tVvVn"
@@ -3026,7 +3026,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 232647,
       "name": "Feather",
       "url": "https://open.spotify.com/track/0N3Vauee5r2AnqwscyK1Ot"
@@ -4831,6 +4831,28 @@
     },
     {
       "album": {
+        "name": "KNOCK KNOCK",
+        "url": "https://open.spotify.com/album/17xZb1TzDax6Q3sDdTGnkZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Yen",
+          "url": "https://open.spotify.com/artist/5kRFqqvu4FOtaOevEfYH60"
+        },
+        {
+          "name": "Varria",
+          "url": "https://open.spotify.com/artist/1vnPpGGXhMWPEeAJSQFpN7"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202568,
+      "name": "KNOCK KNOCK",
+      "url": "https://open.spotify.com/track/12Ajaz9HgOuNvZnT8ktxkz"
+    },
+    {
+      "album": {
         "name": "Scramble",
         "url": "https://open.spotify.com/album/1gJYR7z3PjV3w5yCzLdhSF"
       },
@@ -5534,7 +5556,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 252503,
       "name": "Marking My Time - BADBADNOTGOOD Edit",
       "url": "https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i"
@@ -6138,7 +6160,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 180064,
       "name": "Nectar.",
       "url": "https://open.spotify.com/track/5YamNEPEtoovtVgLWPZThg"
@@ -7340,7 +7362,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 171168,
       "name": "Poison",
       "url": "https://open.spotify.com/track/0wKF7gUfB8EjoPNHEP69gY"
@@ -8125,6 +8147,24 @@
     },
     {
       "album": {
+        "name": "Sesame",
+        "url": "https://open.spotify.com/album/0N9P2qMUSX7GxdNiPkIehH"
+      },
+      "artists": [
+        {
+          "name": "Kroi",
+          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212306,
+      "name": "Sesame",
+      "url": "https://open.spotify.com/track/1DuTUxS7cBQf2ypQipYhfM"
+    },
+    {
+      "album": {
         "name": "surrounded by hounds and serpents",
         "url": "https://open.spotify.com/album/5iFPxq21dVb6E7RFjBSYvG"
       },
@@ -8166,7 +8206,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 225960,
       "name": "Shiawase no Mawarimichi",
       "url": "https://open.spotify.com/track/20riqOrK0iWFV2mpjbcbDr"
@@ -8675,6 +8715,28 @@
     },
     {
       "album": {
+        "name": "Stateless feat. YonYon",
+        "url": "https://open.spotify.com/album/0HmxEwYS2irKltYO87x0F2"
+      },
+      "artists": [
+        {
+          "name": "Gotch",
+          "url": "https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc"
+        },
+        {
+          "name": "YonYon",
+          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211447,
+      "name": "Stateless feat. YonYon",
+      "url": "https://open.spotify.com/track/2aaGksOvk3MqhlFvhnPVif"
+    },
+    {
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/7zI8awEHpNi7KtHLH6USis"
       },
@@ -9118,7 +9180,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 185573,
       "name": "Swans",
       "url": "https://open.spotify.com/track/5ke1JQCX4lPNTtorQJjdpm"
@@ -10674,7 +10736,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 234736,
       "name": "When We Were Younger (feat. Cavetown)",
       "url": "https://open.spotify.com/track/7dlkFdNPITZL1OAWQ1fqOm"
@@ -11312,7 +11374,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 196003,
       "name": "\u3056\u308f\u308f",
       "url": "https://open.spotify.com/track/1UPBDO5ZltFzGSD9iKM47x"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,300 likes - 90 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,172 likes - 90 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 75 | [Córdoba Sin Ti](https://open.spotify.com/track/6astyRCNHin1Fabs9ZeOQm) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Grandes Éxitos](https://open.spotify.com/album/07R9tu4qZnWCviNTWHKvNS) | 3:47 |
 | 76 | [Florcita Del Monte](https://open.spotify.com/track/4zO7lcsUUxpEbjEt7MfJQW) | [Milena Salamanca](https://open.spotify.com/artist/0gEntoAjPckYFid9Mxw6Y2) | [MILENA](https://open.spotify.com/album/4twNKFcHjtcZJoOHyRENWS) | 3:18 |
 | 77 | [Zamba Del Negro Alegre](https://open.spotify.com/track/7surOH29RMSvRAdInzGhLU) | [Los Fronterizos](https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb) | [Romance De Luna Y Flor](https://open.spotify.com/album/4jSATA7cTYomI3uNw1Jpfe) | 3:03 |
-| 78 | [No Te Puedo Olvidar](https://open.spotify.com/track/79hua0r80o37LqICjNIY85) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Ando Cantándole al Viento y No Sólo por Cantar ...](https://open.spotify.com/album/2hayB5nl5ejc40RZQvzznm) | 3:02 |
-| 79 | [Viejo Pescador del Paraná \(with Teresa Parodi & Chango Spasiuk\)](https://open.spotify.com/track/38O5VUGdrmOJ4ZWadF0ZR6) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Primavera](https://open.spotify.com/album/5azl5cUyO16ERMNnyg5XYG) | 3:56 |
+| 78 | [Viejo Pescador del Paraná \(with Teresa Parodi & Chango Spasiuk\)](https://open.spotify.com/track/38O5VUGdrmOJ4ZWadF0ZR6) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Primavera](https://open.spotify.com/album/5azl5cUyO16ERMNnyg5XYG) | 3:56 |
+| 79 | [No Te Puedo Olvidar](https://open.spotify.com/track/79hua0r80o37LqICjNIY85) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Ando Cantándole al Viento y No Sólo por Cantar ...](https://open.spotify.com/album/2hayB5nl5ejc40RZQvzznm) | 3:02 |
 | 80 | [Candombe para José](https://open.spotify.com/track/5EW32jbF3QnZWQHOQZaO4L) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Por Siempre....](https://open.spotify.com/album/1o4WtYSLqFy93QykeBwx7T) | 2:57 |
 | 81 | [Para Cantar He Nacido](https://open.spotify.com/track/447ORDEfYxu77edFodcfr6) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Para Cantar He Nacido](https://open.spotify.com/album/38hLzv8jhDNS99eGb8d3XR) | 3:26 |
 | 82 | [Purmamarca](https://open.spotify.com/track/1x7hWGwMKKLGTxPueCbuPV) | [Los Changos](https://open.spotify.com/artist/5fQdSkybNhdOYKwLLUWL71), [Franco Barrionuevo](https://open.spotify.com/artist/1Lw75bAtvyN31qYzmjgMMb), [Luis Paredes](https://open.spotify.com/artist/62b29phHmw4APV3xe26cco) | [Concierto del Alma](https://open.spotify.com/album/2x35VXSZW6xfQQSvSnYIVW) | 3:33 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 89 | [Serenata Otoñal](https://open.spotify.com/track/39YzTZ5TP1zjtNQOiD3x5B) | [Los Cantores del Alba](https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl) | [Confitería Europea 100 Años](https://open.spotify.com/album/3wcwbHnuDa07nEFmK3qmua) | 2:28 |
 | 90 | [La Tempranera](https://open.spotify.com/track/4Px7Z8x7JBJNlX0HSf9lfJ) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Desde Adentro](https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0) | 4:53 |
 
-Snapshot ID: `MCwyZmYyYWIzOTBlMGY2NWMyZmM0ZDA5OTdmNmQ1ZDJlMjZkZDBlMzY1`
+Snapshot ID: `MCw1ZTQ4MDVmZWM0YWE3YmQyNjQ1MzAyNTMwZjQ2ZGYzODY5Njc2NDYz`

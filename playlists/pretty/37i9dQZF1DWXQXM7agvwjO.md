@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: HYBS \(Thailand\), GANGGA \(Indonesia\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,173 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,192 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,24 +76,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 66 | [但](https://open.spotify.com/track/54hpc7UxPBdpcsC7xFKEWB) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8) | 2:22 |
 | 67 | [Candlelight \- Spotify Singles](https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Spotify Singles](https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df) | 3:21 |
 | 68 | [ถ้ารู้ว่าจะหายไป](https://open.spotify.com/track/1QdtmtakBfgvdXz1wEm2S9) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ถ้ารู้ว่าจะหายไป](https://open.spotify.com/album/77lLAs7qgkQPHcMhXi1WIk) | 4:50 |
-| 69 | [My Plan](https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [My Plan](https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e) | 3:43 |
-| 70 | [meringue doll](https://open.spotify.com/track/1iPAcVXxspQM3aP8f3JtBQ) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [meringue doll](https://open.spotify.com/album/7qeJaFdCP3hCLm2KFp96Ts) | 4:13 |
+| 69 | [meringue doll](https://open.spotify.com/track/1iPAcVXxspQM3aP8f3JtBQ) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [meringue doll](https://open.spotify.com/album/7qeJaFdCP3hCLm2KFp96Ts) | 4:13 |
+| 70 | [My Plan](https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [My Plan](https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e) | 3:43 |
 | 71 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 |
 | 72 | [tired](https://open.spotify.com/track/55fNfPGUBeRWSvSStXU2b9) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3) | [tired](https://open.spotify.com/album/6NIR1zEyjL76C1aiyOWPLA) | 2:24 |
 | 73 | [Selamanya](https://open.spotify.com/track/5WBiGcjbYZvx3yMGpFGOPg) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Selamanya](https://open.spotify.com/album/5JhRHRNwH2E9wRLPWuL2AF) | 3:57 |
 | 74 | [UMAMI](https://open.spotify.com/track/2O69clP6C6Jipc9jSOYWx8) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL), [whoosh](https://open.spotify.com/artist/75SZZT7Gh4mjvmAbuKdzLA) | [UMAMI](https://open.spotify.com/album/1Ja6sE2nTmSFRUWJKuo48g) | 3:22 |
-| 75 | [暗流](https://open.spotify.com/track/2k3JtZNj3VZkHdefEssZmO) | [deca joins](https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77) | [暗流](https://open.spotify.com/album/35WbOyVHUlWYO4sTlc5DVW) | 4:22 |
-| 76 | [Grape Soda](https://open.spotify.com/track/5KJAvewEPVPOU3OnL6bhwH) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [Grape Soda](https://open.spotify.com/album/6skFJuskZ23J7NXBNfFR8z) | 3:35 |
+| 75 | [Grape Soda](https://open.spotify.com/track/5KJAvewEPVPOU3OnL6bhwH) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [Grape Soda](https://open.spotify.com/album/6skFJuskZ23J7NXBNfFR8z) | 3:35 |
+| 76 | [暗流](https://open.spotify.com/track/2k3JtZNj3VZkHdefEssZmO) | [deca joins](https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77) | [暗流](https://open.spotify.com/album/35WbOyVHUlWYO4sTlc5DVW) | 4:22 |
 | 77 | [sharp knife](https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [sharp knife](https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI) | 2:50 |
 | 78 | [While It Lasts](https://open.spotify.com/track/3pZzVu3r5XMWXhwkoRhgka) | [Moongazing And Her](https://open.spotify.com/artist/6Zo43jiGrri1Pq8tQNKodP) | [Best Prom Ever](https://open.spotify.com/album/4a2bPEqy88F8l3oB7DcsHO) | 2:15 |
-| 79 | [Birdy](https://open.spotify.com/track/1A2prTQuLOKxZ7ztWmORm4) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Birdy](https://open.spotify.com/album/7ptKY3QeYYiOsbwqnJFU0E) | 4:33 |
-| 80 | [22 of Me](https://open.spotify.com/track/5UT5EWSLr9zAPLRBuVrbj3) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [22 of Me](https://open.spotify.com/album/1DdHN7p3iJJzz4mRiFANgU) | 3:30 |
+| 79 | [22 of Me](https://open.spotify.com/track/5UT5EWSLr9zAPLRBuVrbj3) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [22 of Me](https://open.spotify.com/album/1DdHN7p3iJJzz4mRiFANgU) | 3:30 |
+| 80 | [Birdy](https://open.spotify.com/track/1A2prTQuLOKxZ7ztWmORm4) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Birdy](https://open.spotify.com/album/7ptKY3QeYYiOsbwqnJFU0E) | 4:33 |
 | 81 | [Around the Corner](https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 3:46 |
 | 82 | [Strangers In The Night](https://open.spotify.com/track/3GoiPlWtQO9m1iqxKorcrr) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Strangers In The Night](https://open.spotify.com/album/55CO6FPOjzSeWBHdVz1wTv) | 3:55 |
 | 83 | [ฟ้ามืดทีไร](https://open.spotify.com/track/6gAbZjrEKkngnPKVB3E1fy) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ฟ้ามืดทีไร](https://open.spotify.com/album/4gCQHXHg56d7U5iP96rKss) | 4:38 |
 | 84 | [love is growing](https://open.spotify.com/track/1xzKJE6Q1fOhXLzYOCXXQg) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [love is growing](https://open.spotify.com/album/422FUc3Fc4UG1Cn9CeeOAQ) | 2:58 |
-| 85 | [All My Friends Are Fallin' In Love](https://open.spotify.com/track/0tIWk4w1AfinVnGxiaSz5d) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [All My Friends Are Fallin' In Love](https://open.spotify.com/album/75G2tuAvS5Uugrb0TLNTT3) | 3:17 |
-| 86 | [Do The Dance](https://open.spotify.com/track/7rMomVJTqGMjJnXRlgf4Wh) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Do The Dance](https://open.spotify.com/album/3Nz9tlXFXZYvrmls5Qvxza) | 4:02 |
+| 85 | [Do The Dance](https://open.spotify.com/track/7rMomVJTqGMjJnXRlgf4Wh) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Do The Dance](https://open.spotify.com/album/3Nz9tlXFXZYvrmls5Qvxza) | 4:02 |
+| 86 | [All My Friends Are Fallin' In Love](https://open.spotify.com/track/0tIWk4w1AfinVnGxiaSz5d) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [All My Friends Are Fallin' In Love](https://open.spotify.com/album/75G2tuAvS5Uugrb0TLNTT3) | 3:17 |
 | 87 | [Daylight \(feat\. GANGGA\)](https://open.spotify.com/track/5C8SwYxHNCBcPaM9IZrU9C) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Self Soothing](https://open.spotify.com/album/6gTGtA8fL6swSNFzDf6lka) | 3:07 |
 | 88 | [你的樣子](https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 4:01 |
 | 89 | [In Love](https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [PLEASURES](https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM) | 2:47 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 96 | [Highteen](https://open.spotify.com/track/4HcnOrtYTFOLyZrfC7BQ9U) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Highteen](https://open.spotify.com/album/0KOiVCCpmrK72XwMIL4ieW) | 3:01 |
 | 97 | [Vast \- ANNA Remix](https://open.spotify.com/track/3rES34MzcM8hnKW9y2EzpH) | [Sandrayati](https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Vast \(ANNA Remix\)](https://open.spotify.com/album/0m4Z3Ku62Qd4NkQCvSeRiD) | 3:26 |
 | 98 | [Space Orphans](https://open.spotify.com/track/0aCZDVvoYRJURBk4lzdA1b) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Space Orphans](https://open.spotify.com/album/2AsKnr2Popc5l1Sbj1rext) | 4:35 |
-| 99 | [Em Trang Trí](https://open.spotify.com/track/2LX16d9LWQxmlUiOfxHKYO) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI) | [Em Trang Trí](https://open.spotify.com/album/22PMYyHfKd4bvFis6eVaS3) | 2:45 |
-| 100 | [trippin](https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [trippin](https://open.spotify.com/album/0wFS8hm2vYqo2LeUGpZV1j) | 2:58 |
+| 99 | [trippin](https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [trippin](https://open.spotify.com/album/0wFS8hm2vYqo2LeUGpZV1j) | 2:58 |
+| 100 | [Em Trang Trí](https://open.spotify.com/track/2LX16d9LWQxmlUiOfxHKYO) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI) | [Em Trang Trí](https://open.spotify.com/album/22PMYyHfKd4bvFis6eVaS3) | 2:45 |
 
-Snapshot ID: `MCw1YzA2ZDQ3ZGQ4MjZjOThlNjRjY2MyODU2Yjc1NGVjZDA2YTc1YTMx`
+Snapshot ID: `MCw0Mzg5NzNkNzdlMDgyMjAwZGU4ZTkwYjgzNzc3NDUwMzkxOTFlZDg0`

@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 145596,
+  "num_followers": 145668,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjZmN2Q0ZjE5ZTBjOTFjZDNlZWI5NTVhMWMzOTBmZTk3NDkxNzAx",
+  "snapshot_id": "MCw5ZjM0YzMxNGVhMDYwOWYxMjU1YzIwZjg2NWUzZmQxZTExNjhiYTg1",
   "tracks": [
     {
       "added_at": "2020-09-04 01:12:56",
@@ -391,22 +391,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax"
-      },
-      "artists": [
-        {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
-        }
-      ],
-      "duration_ms": 393640,
-      "name": "At the River",
-      "url": "https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Becoming X",
         "url": "https://open.spotify.com/album/74nAYi5aVDBdb5jGx8OM7s"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 228840,
       "name": "6 Underground",
       "url": "https://open.spotify.com/track/7KvSuH86lIT2aTl9PBCAfd"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "duration_ms": 393640,
+      "name": "At the River",
+      "url": "https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -639,22 +639,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "SB1",
-        "url": "https://open.spotify.com/album/1p1w828sU7QewePqhfZKwh"
-      },
-      "artists": [
-        {
-          "name": "Gramatik",
-          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
-        }
-      ],
-      "duration_ms": 134656,
-      "name": "Just Chillin'",
-      "url": "https://open.spotify.com/track/41YJJAO78aMWy1puye2sUH"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Maxinquaye",
         "url": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8"
       },
@@ -711,22 +695,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 235800,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/7lR743VxfubUw5m9dpnR9x"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "The Garden",
         "url": "https://open.spotify.com/album/5eqHucyy09GuijWam8RAja"
       },
@@ -743,6 +711,38 @@
       "duration_ms": 233226,
       "name": "Futures",
       "url": "https://open.spotify.com/track/7m3Tbsn12hbBnsFHR6O4U7"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 235800,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/7lR743VxfubUw5m9dpnR9x"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "The 5th Exotic",
+        "url": "https://open.spotify.com/album/2gO53EC0HUgRebzwSIWCfY"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 223013,
+      "name": "Time Is the Enemy",
+      "url": "https://open.spotify.com/track/313hbrNYpT36VHc8vPBueb"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -775,22 +775,6 @@
       "duration_ms": 308612,
       "name": "Sofa Rockers - Richard Dorfmeister Remix",
       "url": "https://open.spotify.com/track/6dfDcCymuavZngy46rSGMC"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "The 5th Exotic",
-        "url": "https://open.spotify.com/album/2gO53EC0HUgRebzwSIWCfY"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 223013,
-      "name": "Time Is the Enemy",
-      "url": "https://open.spotify.com/track/313hbrNYpT36VHc8vPBueb"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -899,22 +883,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Satta",
-        "url": "https://open.spotify.com/album/0ZR87OL6kj1s2MonZprzkn"
-      },
-      "artists": [
-        {
-          "name": "Boozoo Bajou",
-          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
-        }
-      ],
-      "duration_ms": 379360,
-      "name": "Night over Manaus",
-      "url": "https://open.spotify.com/track/23jbfWs739EBZEl4xWYiVl"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "If You Wait",
         "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
       },
@@ -931,18 +899,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Magic Love (Remixes)",
-        "url": "https://open.spotify.com/album/21KrsFEPYoXmJRIj0UNtnq"
+        "name": "Satta",
+        "url": "https://open.spotify.com/album/0ZR87OL6kj1s2MonZprzkn"
       },
       "artists": [
         {
-          "name": "Bent",
-          "url": "https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa"
+          "name": "Boozoo Bajou",
+          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
         }
       ],
-      "duration_ms": 202333,
-      "name": "Magic Love - Radio Edit",
-      "url": "https://open.spotify.com/track/01K42inuuCqOB731ugiQAd"
+      "duration_ms": 379360,
+      "name": "Night over Manaus",
+      "url": "https://open.spotify.com/track/23jbfWs739EBZEl4xWYiVl"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -959,6 +927,38 @@
       "duration_ms": 258026,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/1dToJK56u2pOVA3S66OgPB"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "G-Stoned",
+        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "duration_ms": 386266,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Magic Love (Remixes)",
+        "url": "https://open.spotify.com/album/21KrsFEPYoXmJRIj0UNtnq"
+      },
+      "artists": [
+        {
+          "name": "Bent",
+          "url": "https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa"
+        }
+      ],
+      "duration_ms": 202333,
+      "name": "Magic Love - Radio Edit",
+      "url": "https://open.spotify.com/track/01K42inuuCqOB731ugiQAd"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -991,22 +991,6 @@
       "duration_ms": 264253,
       "name": "No jive",
       "url": "https://open.spotify.com/track/222Ag8me5qQFQ5oDxigDiu"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "G-Stoned",
-        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 386266,
-      "name": "High Noon",
-      "url": "https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "The North Borders",
+        "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 325583,
+      "name": "Emkay",
+      "url": "https://open.spotify.com/track/37A0JOrJ5WnmhIyGNnAhRN"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Genetic World",
         "url": "https://open.spotify.com/album/1H10CTGW4xbk0IQewKbK50"
       },
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "The North Borders",
-        "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 325583,
-      "name": "Emkay",
-      "url": "https://open.spotify.com/track/37A0JOrJ5WnmhIyGNnAhRN"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "C\u00e9U",
         "url": "https://open.spotify.com/album/6dG1XPrl1KEeK4MND7WAoB"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 375546,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/5Tp97LcL45G82uC6vaLvt5"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Flashlight EP",
+        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 302542,
+      "name": "Return to Air",
+      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Flashlight EP",
-        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 302542,
-      "name": "Return to Air",
-      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Journey Into Abstract Hip Hop",
         "url": "https://open.spotify.com/album/62S3iAhIMlheNq8K8h1BF1"
       },
@@ -1687,6 +1671,26 @@
       "duration_ms": 292195,
       "name": "End of Our Days",
       "url": "https://open.spotify.com/track/33u4LsVXzotyxM37912gNr"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Karma Police",
+        "url": "https://open.spotify.com/album/4jRXvY6sq0s4otFU4pAWoV"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        },
+        {
+          "name": "Zero 7",
+          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+        }
+      ],
+      "duration_ms": 319186,
+      "name": "Climbing Up the Walls - Zero 7 Mix",
+      "url": "https://open.spotify.com/track/5xhVp7qae7b9IN1a4ZuTJA"
     }
   ],
   "unique_name": "Chillout Classics",

@@ -1,12 +1,12 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 30629,
+  "num_followers": 30630,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTE5MmE1ZjkyMWQ3YmE5YjM5MjY1MzMyYTRlOTJhZGQ4MWQ0M2Rj",
+  "snapshot_id": "MCw3MTQzNmZiNzZlZGU2MzZjYzMzYzk5NWM4N2VkNWM2NjE0ZmNlMmVi",
   "tracks": [
     {
       "added_at": "2020-06-03 18:17:45",
@@ -415,6 +415,22 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
+        "name": "Tantan- Pam Pam Pam",
+        "url": "https://open.spotify.com/album/58JTifvM1LyBP6WUqaijU8"
+      },
+      "artists": [
+        {
+          "name": "Tantan",
+          "url": "https://open.spotify.com/artist/5WLcU8GQxU9yOK4oqNICJL"
+        }
+      ],
+      "duration_ms": 386733,
+      "name": "Pam Pam Pam",
+      "url": "https://open.spotify.com/track/5DeceTNgeKTn3uUI0JBxq4"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
         "name": "Kilot",
         "url": "https://open.spotify.com/album/4YJhcOZ1ASsZiPpd5d3vcl"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 309936,
       "name": "Kilot",
       "url": "https://open.spotify.com/track/33uWg45QHtMCgnTJLxQlJ5"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
-        "name": "Tantan- Pam Pam Pam",
-        "url": "https://open.spotify.com/album/58JTifvM1LyBP6WUqaijU8"
-      },
-      "artists": [
-        {
-          "name": "Tantan",
-          "url": "https://open.spotify.com/artist/5WLcU8GQxU9yOK4oqNICJL"
-        }
-      ],
-      "duration_ms": 386733,
-      "name": "Pam Pam Pam",
-      "url": "https://open.spotify.com/track/5DeceTNgeKTn3uUI0JBxq4"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -523,22 +523,18 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Ha\u00efti Twoubadou Volume 1",
-        "url": "https://open.spotify.com/album/7xVvyQ8qlFd6FbV7OYsAIA"
+        "name": "Turbulan's Kompa, Vol. 2 (Special Gouyad Mixed by DJ Mayass)",
+        "url": "https://open.spotify.com/album/1yVAa5VNI8NFNLlWE0hZhn"
       },
       "artists": [
         {
-          "name": "Jacques Sauveur Jean",
-          "url": "https://open.spotify.com/artist/7zMjoqEv6asrJzuhFnR72e"
-        },
-        {
-          "name": "Fabrice Rouzier",
-          "url": "https://open.spotify.com/artist/4h2SA3cxN3x4638hDpzy7e"
+          "name": "5Lan",
+          "url": "https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi"
         }
       ],
-      "duration_ms": 255000,
-      "name": "Lanmou Doudou",
-      "url": "https://open.spotify.com/track/2jl6qxOAmEuQB5QWrMsVbD"
+      "duration_ms": 165224,
+      "name": "Kimb\u00e9 sa nan rinw",
+      "url": "https://open.spotify.com/track/1SMubCWecHSi9ZSuvWJhP9"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -555,6 +551,26 @@
       "duration_ms": 258090,
       "name": "Another Round - Zouk",
       "url": "https://open.spotify.com/track/2bMD78FllNnUX5L5cejItr"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "Ha\u00efti Twoubadou Volume 1",
+        "url": "https://open.spotify.com/album/7xVvyQ8qlFd6FbV7OYsAIA"
+      },
+      "artists": [
+        {
+          "name": "Jacques Sauveur Jean",
+          "url": "https://open.spotify.com/artist/7zMjoqEv6asrJzuhFnR72e"
+        },
+        {
+          "name": "Fabrice Rouzier",
+          "url": "https://open.spotify.com/artist/4h2SA3cxN3x4638hDpzy7e"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Lanmou Doudou",
+      "url": "https://open.spotify.com/track/2jl6qxOAmEuQB5QWrMsVbD"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -587,22 +603,6 @@
       "duration_ms": 298057,
       "name": "Mwen bouke",
       "url": "https://open.spotify.com/track/2FsxVv8SMZHUGLh7EFEGWF"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
-        "name": "Turbulan's Kompa, Vol. 2 (Special Gouyad Mixed by DJ Mayass)",
-        "url": "https://open.spotify.com/album/1yVAa5VNI8NFNLlWE0hZhn"
-      },
-      "artists": [
-        {
-          "name": "5Lan",
-          "url": "https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi"
-        }
-      ],
-      "duration_ms": 165224,
-      "name": "Kimb\u00e9 sa nan rinw",
-      "url": "https://open.spotify.com/track/1SMubCWecHSi9ZSuvWJhP9"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -671,18 +671,18 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "De Ger",
-        "url": "https://open.spotify.com/album/326B0vsovArwhIildjVOdc"
+        "name": "Degaje",
+        "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
       },
       "artists": [
         {
-          "name": "Mizik Mizik",
-          "url": "https://open.spotify.com/artist/5mwMhNxf3qump0lhn7w6AA"
+          "name": "Harmonik",
+          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
         }
       ],
-      "duration_ms": 308000,
-      "name": "L\u00e8 Nap F\u00e8 Lanmou",
-      "url": "https://open.spotify.com/track/5RvED3NaFaXNDEhoJh5Cv2"
+      "duration_ms": 331871,
+      "name": "Simplicit\u00e9",
+      "url": "https://open.spotify.com/track/7HRVCfIaGGqUtOpVTB3MWI"
     }
   ],
   "unique_name": "Kompas Dir\u00e8k",

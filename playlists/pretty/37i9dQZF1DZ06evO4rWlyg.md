@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 
 > This is Björk\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,429 likes - 48 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,445 likes - 47 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 | 43 | [Sorrowful Soil](https://open.spotify.com/track/2ETLJnzi2cPo6RX3VgzRnl) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Fossora](https://open.spotify.com/album/0KVdzmHHGGE8STv19uYPiL) | 3:15 |
 | 44 | [Beautiful Mother](https://open.spotify.com/track/3shbvAgUyh9nhJa53JN8mB) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Mount Wittenberg Orca \(Expanded Edition\)](https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly) | 2:16 |
 | 45 | [The Gate](https://open.spotify.com/track/7g2YQhm3jIxHnkMAeLjduf) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Utopia](https://open.spotify.com/album/2i0mqPNTcaLcmKWSMsE3c8) | 6:33 |
-| 46 | [Notget](https://open.spotify.com/track/2rUOu6JSds2ewDskKCzVBj) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/6sJTyQHzjefi0GgknYCgBf) | 6:26 |
-| 47 | [Ancestress](https://open.spotify.com/track/08sEEy8n3kkCDBjZdYZ4GV) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Sindri Eldon](https://open.spotify.com/artist/7MrUhoxTFdz4HWkm0VIooA) | [Fossora](https://open.spotify.com/album/0KVdzmHHGGE8STv19uYPiL) | 7:17 |
-| 48 | [When the World Comes to an End](https://open.spotify.com/track/09TNNle5fDBPUtLpO6a7BK) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Mount Wittenberg Orca \(Expanded Edition\)](https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly) | 3:08 |
+| 46 | [Ancestress](https://open.spotify.com/track/08sEEy8n3kkCDBjZdYZ4GV) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Sindri Eldon](https://open.spotify.com/artist/7MrUhoxTFdz4HWkm0VIooA) | [Fossora](https://open.spotify.com/album/0KVdzmHHGGE8STv19uYPiL) | 7:17 |
+| 47 | [When the World Comes to an End](https://open.spotify.com/track/09TNNle5fDBPUtLpO6a7BK) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Mount Wittenberg Orca \(Expanded Edition\)](https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly) | 3:08 |
 
-Snapshot ID: `Mjg0MTE5MDAsMDAwMDAwMDBjMmEyMzBlMzdlNzJmNGM5YTdkODE3NzQ4OGJhNzNmMA==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDBkNmE1MjI3ZDZmNzYzMDIxYzdiZmU2YzA4NDFhMjkwYQ==`

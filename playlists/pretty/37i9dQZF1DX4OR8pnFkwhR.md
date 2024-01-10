@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: なとり
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,409 likes - 79 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,417 likes - 79 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 78 | [眩しい日々へ](https://open.spotify.com/track/2rGS41CsfRBGPoCtyqLWlK) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [眩しい日々へ](https://open.spotify.com/album/0J0UZyf07GTJVw4kJcKB1D) | 4:55 |
 | 79 | [インサイドホール](https://open.spotify.com/track/2IU7k7QUYT960WemRF7g4U) | [Wendy York Stand](https://open.spotify.com/artist/0L3bVqidFCtjVmfYcmY868) | [HAIN IN THE CITY](https://open.spotify.com/album/1Ve0R4gEI4tUFOCATcEqFc) | 3:40 |
 
-Snapshot ID: `MCxmODZjMGM0Mzg1NjQwZTg5NWM5MTYyMWZmZTc2MWFkM2IwMDBmMTRh`
+Snapshot ID: `MCwxOThhYTY1NDE5Y2ExYWU2NGExMTYyNTU4Yzc3OGVhODRkZWY2NTg3`

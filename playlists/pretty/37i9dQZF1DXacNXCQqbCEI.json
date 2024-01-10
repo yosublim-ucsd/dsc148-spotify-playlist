@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 358100,
+  "num_followers": 357487,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTQ1NTRjNzk3YTFhMzA4YjQ0Y2M3MTAxOTQ3MDVhZGM4ZmVkMWZh",
+  "snapshot_id": "MCw5YmEyMDM0MmVjYTQ0ZDc2ZWI5Nzc2Mzc0NTE4NjBlYWY4M2Q2OWY2",
   "tracks": [
     {
       "added_at": "2023-11-24 02:05:30",
@@ -951,26 +951,6 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "Ramas",
-        "url": "https://open.spotify.com/album/0v8v8HAtfJChO5sdRh5EAx"
-      },
-      "artists": [
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        },
-        {
-          "name": "DJ Raff",
-          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
-        }
-      ],
-      "duration_ms": 289502,
-      "name": "Resiliencia",
-      "url": "https://open.spotify.com/track/1wMRZU1sk3wiwsfb7oCCpd"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
         "name": "Mariposa",
         "url": "https://open.spotify.com/album/0znYmByBOKwFZunIH24Lth"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 477049,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/0g49ATUHh1IJtrXW77VysX"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
+        "name": "Ramas",
+        "url": "https://open.spotify.com/album/0v8v8HAtfJChO5sdRh5EAx"
+      },
+      "artists": [
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        },
+        {
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+        }
+      ],
+      "duration_ms": 289502,
+      "name": "Resiliencia",
+      "url": "https://open.spotify.com/track/1wMRZU1sk3wiwsfb7oCCpd"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
+        "name": "De Aqu\u00ed Hasta Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3zcF5WOEhG12wtu4VFUNBY"
+      },
+      "artists": [
+        {
+          "name": "Federico Estevez",
+          "url": "https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 196998,
+      "name": "El Quemado",
+      "url": "https://open.spotify.com/track/5W5S8hUx2LHauozu4zJMji"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
         "name": "ATO 3: Am\u00e9rica do Sol",
         "url": "https://open.spotify.com/album/2h8ukNP8AiKigfNB2PuhPC"
       },
@@ -1043,22 +1063,6 @@
       "duration_ms": 157746,
       "name": "Pachamama",
       "url": "https://open.spotify.com/track/5wETbMw6PuupavwJ5ERA7B"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
-        "name": "Desierto",
-        "url": "https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE"
-      },
-      "artists": [
-        {
-          "name": "Simah",
-          "url": "https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L"
-        }
-      ],
-      "duration_ms": 173043,
-      "name": "Desierto",
-      "url": "https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -1083,18 +1087,18 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "Ghetto Kumb\u00e9",
-        "url": "https://open.spotify.com/album/0eqlUfZMwPxebIrelMJZVe"
+        "name": "Desierto",
+        "url": "https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE"
       },
       "artists": [
         {
-          "name": "Ghetto Kumb\u00e9",
-          "url": "https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3"
+          "name": "Simah",
+          "url": "https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L"
         }
       ],
-      "duration_ms": 255976,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/3pFvfrF9ye3Cn97rcZZv3q"
+      "duration_ms": 173043,
+      "name": "Desierto",
+      "url": "https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

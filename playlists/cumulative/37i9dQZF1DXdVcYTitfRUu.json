@@ -700,7 +700,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 244213,
       "name": "Hello",
       "url": "https://open.spotify.com/track/0RRJ2PHFSCyBaaydDHOv1u"
@@ -1560,6 +1560,28 @@
       "duration_ms": 243321,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ"
+    },
+    {
+      "album": {
+        "name": "wandering (feat. george)",
+        "url": "https://open.spotify.com/album/6hBEslMx5wtLS5wehYiwPP"
+      },
+      "artists": [
+        {
+          "name": "basecamp",
+          "url": "https://open.spotify.com/artist/4MI73VbvvaJFXe1T6iacWx"
+        },
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "wandering (feat. george)",
+      "url": "https://open.spotify.com/track/6jMcjpMJEjdJa9GQLgQNZ2"
     },
     {
       "album": {

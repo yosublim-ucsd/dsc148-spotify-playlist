@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-585 songs - 1 day 8 hr 9 min
+586 songs - 1 day 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [Hello](https://open.spotify.com/track/1Sr7G1nLlnAFZ8AKT7PuGo) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Hello](https://open.spotify.com/album/3eBHvRyUhfarjwJH0YK7HK) | 3:15 | 2023-03-31 | 2023-08-26 |
 | [Higher Self](https://open.spotify.com/track/2KcaOSZlR03H41Nhmg2QyH) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Higher Self](https://open.spotify.com/album/1MQEYp0fugw64pyAodgnxe) | 4:01 | 2023-10-20 |  |
 | [Hip Dips](https://open.spotify.com/track/2DRBmze6Xcwi5VZt8XBNZh) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [& what else?](https://open.spotify.com/album/4p5YlAC56HCZOSDBNzqm8A) | 1:26 | 2023-05-19 |  |
-| [Hold My Hand](https://open.spotify.com/track/1E7ssTY1Eeb69pr6aVe6xM) | [Kenneth Whalum](https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16) | [Hold My Hand](https://open.spotify.com/album/3517UY5CoDP3OQBa5QmsyP) | 3:32 | 2023-06-09 |  |
+| [Hold My Hand](https://open.spotify.com/track/1E7ssTY1Eeb69pr6aVe6xM) | [Kenneth Whalum](https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16) | [Hold My Hand](https://open.spotify.com/album/3517UY5CoDP3OQBa5QmsyP) | 3:32 | 2023-06-09 | 2024-01-10 |
 | [Hold On](https://open.spotify.com/track/0yE2VIVUryAQDUmhkFc7oB) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Hold On](https://open.spotify.com/album/6VTfE25P75bAiJWUUKWd3J) | 3:20 | 2021-12-15 | 2022-06-28 |
 | [Hold On](https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Wu Hen](https://open.spotify.com/album/3wLs9mqCIwNGp6GT2cderb) | 3:20 | 2022-09-16 | 2023-07-15 |
 | [Honeydew \(02\)](https://open.spotify.com/track/1q8Ie915rJrzLTOPT71vUA) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [LIBBIE 02](https://open.spotify.com/album/4WLuz6h7LOGyRJybO2DiFD) | 2:33 | 2023-02-16 |  |
@@ -487,6 +487,7 @@
 | [Spooky \- Recorded at RAK Studios, London](https://open.spotify.com/track/2y0odeTeYsxWvYQ5rYANu0) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Spotify Singles](https://open.spotify.com/album/0aqv2HD8GPGDDM0CokS0Fk) | 3:41 | 2021-12-15 | 2022-04-08 |
 | [Starts with a Text](https://open.spotify.com/track/55PclVSKZK3aLxxARrZ0DW) | [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [Starts with a Text](https://open.spotify.com/album/04fKp2Y7ThOEUstlz9C3SY) | 2:59 | 2023-01-27 | 2023-03-11 |
 | [Stay](https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Blue](https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH) | 4:30 | 2021-12-15 |  |
+| [STAY HERE](https://open.spotify.com/track/4szGWqPeGsVeZLpAytmh46) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5), [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [STAY HERE \(feat\. Amaria\)](https://open.spotify.com/album/58lZ1th8kkoMJ0O7jd1jJp) | 4:27 | 2023-07-07 |  |
 | [STAY HERE \(feat\. Amaria\)](https://open.spotify.com/track/6xuGIouNLgWg4VEhEMp5NJ) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5), [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [STAY HERE](https://open.spotify.com/album/7u1fxY1Iy0RLXgd7HAokB6) | 4:27 | 2023-07-07 | 2023-10-22 |
 | [Stay High \- Childish Gambino Version](https://open.spotify.com/track/6Rrehwtm21J7E6r5b2kEHq) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Stay High \(Childish Gambino Version\)](https://open.spotify.com/album/3xCcyKRPqKMFMwXYfLSYLD) | 3:38 | 2021-12-15 | 2022-02-12 |
 | [Stole My Love](https://open.spotify.com/track/1ex37MbvUY3yBvwsh8yZVl) | [Jay Isaiah](https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs) | [Stole My Love](https://open.spotify.com/album/7f44ShiYsYglLbfIwZAXOE) | 3:31 | 2021-12-15 | 2022-09-30 |

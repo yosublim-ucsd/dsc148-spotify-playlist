@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Tiësto, FAST BOY
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,507 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,531 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 20 | [Hanging Tree](https://open.spotify.com/track/3TehnZM29IiVNyEsDoKkWB) | [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko) | [Hanging Tree](https://open.spotify.com/album/0fdlH2jAU8Yax5IUyEv30n) | 2:10 |
 | 21 | [Together](https://open.spotify.com/track/2XFQvXYnyoOCLZGsPP83oO) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Together](https://open.spotify.com/album/1qsMlMjS1pONCDjuYyQAQg) | 3:25 |
 | 22 | [Rescue Me](https://open.spotify.com/track/1taZgqmYybM7nXGje9u4HH) | [Justin Mylo](https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Rescue Me](https://open.spotify.com/album/1lxjMEG1ow2R5tfwEub0Eh) | 2:40 |
-| 23 | [Fire to the Rain](https://open.spotify.com/track/1mlH24UmHdpICgiT2WwugR) | [TMW](https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V), [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M) | [Fire to the Rain](https://open.spotify.com/album/1KEIwpm2LiKp1bznzoV229) | 2:24 |
+| 23 | [Fire To The Rain](https://open.spotify.com/track/1mlH24UmHdpICgiT2WwugR) | [TMW](https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V), [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M) | [Fire To The Rain](https://open.spotify.com/album/1KEIwpm2LiKp1bznzoV229) | 2:24 |
 | 24 | [Dernière Danse \(Aaxis HYPER Mix\)](https://open.spotify.com/track/7ajJeUkUltHkIQ0lI0bG7J) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Axel Cooper](https://open.spotify.com/artist/1adz07qkurydHDZRSePFhI), [SHANGUY](https://open.spotify.com/artist/3PGTwjhnIwu8lr0cH8KFrs), [Aaxis](https://open.spotify.com/artist/1EzP6CWfUIHDQ1rpQRxdBi) | [Dernière Danse \(Aaxis HYPER Mix\)](https://open.spotify.com/album/5K2oYKx6QE6V0hsD1lfIv6) | 2:37 |
 | 25 | [Can't Stop Loving The Beat](https://open.spotify.com/track/0kCGHdjgMbW3l5WkrAoKiL) | [Da Hool](https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW) | [Can't Stop Loving The Beat](https://open.spotify.com/album/7tJgbwiRzShKkoFWTO9stf) | 4:03 |
 | 26 | [Millionen Lichter \(Das Boot\)](https://open.spotify.com/track/7mCEXSFUB5YVr6oIzXcqy1) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [AHM](https://open.spotify.com/artist/4GIxVHRG8N5puZrn8cyNpY), [AVO](https://open.spotify.com/artist/3g8GEfox7TneqzId98rNGi) | [Millionen Lichter \(Das Boot\)](https://open.spotify.com/album/3O2UlNtczhvXMLCnp1Tgne) | 2:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 74 | [Dornwald](https://open.spotify.com/track/3hy2eKCa7q9hOOuelDO0yG) | [Hänsel](https://open.spotify.com/artist/00Cen9aAFxIUh0h685dp5w), [Liebling](https://open.spotify.com/artist/2rDgiXjtPa0hGvovvxUvSV) | [Dornwald](https://open.spotify.com/album/004U8iepW4TdNIhkunmrLL) | 2:15 |
 | 75 | [There For You](https://open.spotify.com/track/0ZxWp3Tfnetp9kJLWmI8Nt) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94), [James French](https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues), [Daniel De Bourg](https://open.spotify.com/artist/24ykUrPaMcWMlCFCSEtrpK) | [There For You](https://open.spotify.com/album/50kVqptlF1M1BZoiGyZeZj) | 2:28 |
 
-Snapshot ID: `MCw0NmUwYzhkMjBjMTIzOTE1MGQzMTAyN2E3ZmFmYmQ4OWExZGY5Yjhh`
+Snapshot ID: `MCwyYjBjMTdjNWZkMzcxNzVjZGExNWUwZTZjNDJlYmZmMTczNjMyYTM3`

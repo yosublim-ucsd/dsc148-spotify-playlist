@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Taylor Swift",
-  "num_followers": 67566,
+  "num_followers": 67596,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjdjODRlZWQ3ODJmM2I2MjY2MzkzMDFmZjRkMTRkMzJkYWJlNTg4",
+  "snapshot_id": "MCw1NDk5MjZmNzUxOGUwMzYwOTA4ZTc0MDQ5ZmQ1M2Q0N2Y0ZGQ4YmZl",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "k bye for now (swt live)",
+        "url": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 213068,
+      "name": "god is a woman - live",
+      "url": "https://open.spotify.com/track/67kQ3UW7saqCFqB54BVKKI"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Leave The Door Open (Live)",
         "url": "https://open.spotify.com/album/2gGhczmNc2vRIdqV4Rmhxq"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 260269,
       "name": "Leave The Door Open - Live",
       "url": "https://open.spotify.com/track/3XFY3bKOme4E3QhJqHS1Pi"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "k bye for now (swt live)",
-        "url": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 213068,
-      "name": "god is a woman - live",
-      "url": "https://open.spotify.com/track/67kQ3UW7saqCFqB54BVKKI"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Jason Mraz's Beautiful Mess: Live on Earth",
-        "url": "https://open.spotify.com/album/3ZJCkMzqe5OzSkYMrCcuAs"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 312800,
-      "name": "I'm Yours - Live at the Charter One Pavilion, Chicago, IL, 8/13/2009",
-      "url": "https://open.spotify.com/track/3OGcceoTcTwRQjJmh1K5jF"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Spotify Sessions London",
         "url": "https://open.spotify.com/album/4IEY5pUQMlTAAMfMNCc4pb"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 246493,
       "name": "Take Me to Church - Live From Spotify London",
       "url": "https://open.spotify.com/track/6d0wEqM0jJTNv1asKflGGi"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Jason Mraz's Beautiful Mess: Live on Earth",
+        "url": "https://open.spotify.com/album/3ZJCkMzqe5OzSkYMrCcuAs"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 312800,
+      "name": "I'm Yours - Live at the Charter One Pavilion, Chicago, IL, 8/13/2009",
+      "url": "https://open.spotify.com/track/3OGcceoTcTwRQjJmh1K5jF"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Chasing Time: The Bedlam Sessions",
-        "url": "https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 288146,
-      "name": "Goodbye My Lover - Live in Ireland",
-      "url": "https://open.spotify.com/track/2QNYws5syWtS1WWq2ueza9"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "In The Stars (Live Version)",
         "url": "https://open.spotify.com/album/1Z59nIfnBAyuxCLk1kfaTc"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 255139,
       "name": "In The Stars - Live Version",
       "url": "https://open.spotify.com/track/6HusxhZMI7yixRbNR5tibd"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Chasing Time: The Bedlam Sessions",
+        "url": "https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 288146,
+      "name": "Goodbye My Lover - Live in Ireland",
+      "url": "https://open.spotify.com/track/2QNYws5syWtS1WWq2ueza9"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Progress Live",
-        "url": "https://open.spotify.com/album/1wj7YtzFAJNtZ0x6WKjPjR"
-      },
-      "artists": [
-        {
-          "name": "Take That",
-          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
-        }
-      ],
-      "duration_ms": 314240,
-      "name": "Back For Good - Progress Tour Live / 2011",
-      "url": "https://open.spotify.com/track/7qlcu9kkuum0HAhLarrmPF"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Before You Go EP",
         "url": "https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 225047,
       "name": "Before You Go - Live from Brixton Academy, London, 2019",
       "url": "https://open.spotify.com/track/0ORxaRgjYlOosxtMIg63CW"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Progress Live",
+        "url": "https://open.spotify.com/album/1wj7YtzFAJNtZ0x6WKjPjR"
+      },
+      "artists": [
+        {
+          "name": "Take That",
+          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
+        }
+      ],
+      "duration_ms": 314240,
+      "name": "Back For Good - Progress Tour Live / 2011",
+      "url": "https://open.spotify.com/track/7qlcu9kkuum0HAhLarrmPF"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "The Rarities",
-        "url": "https://open.spotify.com/album/0v1DRRYBXYg1uVN1CIsyy0"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 278026,
-      "name": "Always Be My Baby - Live at the Tokyo Dome",
-      "url": "https://open.spotify.com/track/58QgGWqvercpslOCOlxyEr"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Live 8 (Live, July 2005)",
         "url": "https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H"
       },
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Whitney Houston Live: Her Greatest Performances",
-        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
+        "name": "The Rarities",
+        "url": "https://open.spotify.com/album/0v1DRRYBXYg1uVN1CIsyy0"
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 240813,
-      "name": "How Will I Know - Live from The Brit Awards",
-      "url": "https://open.spotify.com/track/0B71GPn23vB1BapkFfYlEp"
+      "duration_ms": 278026,
+      "name": "Always Be My Baby - Live at the Tokyo Dome",
+      "url": "https://open.spotify.com/track/58QgGWqvercpslOCOlxyEr"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1443,6 +1427,22 @@
       "duration_ms": 211240,
       "name": "Waking Up In Vegas - Live At MTV Unplugged, 2009",
       "url": "https://open.spotify.com/track/532jcgk0ZQgRze05omDsqo"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Whitney Houston Live: Her Greatest Performances",
+        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 240813,
+      "name": "How Will I Know - Live from The Brit Awards",
+      "url": "https://open.spotify.com/track/0B71GPn23vB1BapkFfYlEp"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Whitney Houston Live: Her Greatest Performances",
+        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 226226,
+      "name": "My Love Is Your Love - Live from Late Show with David Letterman",
+      "url": "https://open.spotify.com/track/1Tmn4RzLBoZRryh3NJPlLd"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "The Confessions Tour",
         "url": "https://open.spotify.com/album/2nYRylF5uTA1CTtya4qjU3"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 413776,
       "name": "No One (Live From Allianz Parque Sao Paulo Brazil)",
       "url": "https://open.spotify.com/track/4TMEyEc27XDWNGiZe4xhpo"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Whitney Houston Live: Her Greatest Performances",
-        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 226226,
-      "name": "My Love Is Your Love - Live from Late Show with David Letterman",
-      "url": "https://open.spotify.com/track/1Tmn4RzLBoZRryh3NJPlLd"
     },
     {
       "added_at": "2023-11-03 04:00:00",

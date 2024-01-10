@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 
 > Músicas para dançar e louvar com os pequenos adoradores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,397 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,364 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 14 | [Pedro, Tiago e João no Barquinho](https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 3:09 |
 | 15 | [Minha Pequena Luz](https://open.spotify.com/track/1fr5LcT7TguvSZJRlNQNNv) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Minha Pequena Luz](https://open.spotify.com/album/6CnrRYF7ONjhhmCVzjRkg9) | 2:02 |
 | 16 | [Pororó](https://open.spotify.com/track/44FbIn8MPPGj7jjDFLhXIr) | [Rebeca Nemer](https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk) | [Sou Livre](https://open.spotify.com/album/2Wgno6YhkdyXyfhDo1MH7M) | 4:12 |
-| 17 | [Medley Crianças DT Toin Toin \- Ao Vivo](https://open.spotify.com/track/26XndRd8wqjXghY0rTIWd1) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Isaque Valadão Bessa](https://open.spotify.com/artist/054LTzkZ6sYAjYVmvYgyn9), [Gabriel Barreto](https://open.spotify.com/artist/06ii0QUGCLVALU7jqPB1K1), [Lu Alone](https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U), [Nena Lacerda](https://open.spotify.com/artist/6UHyiSKriWWiIldzzXmnBW) | [Medley Crianças Diante do Trono \(Ao Vivo\)](https://open.spotify.com/album/2F0dpBrgay5e2ikGnyBbpj) | 5:38 |
-| 18 | [Brilhando](https://open.spotify.com/track/6aMHKxUyAUsbVNJa8TbyuX) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP) | [Turminha da Cristina Mel \- Fazendo a Diferença](https://open.spotify.com/album/6T5y5A3YoPNXQsUu7OlAaX) | 3:08 |
+| 17 | [Brilhando](https://open.spotify.com/track/6aMHKxUyAUsbVNJa8TbyuX) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP) | [Turminha da Cristina Mel \- Fazendo a Diferença](https://open.spotify.com/album/6T5y5A3YoPNXQsUu7OlAaX) | 3:08 |
+| 18 | [Medley Crianças DT Toin Toin \- Ao Vivo](https://open.spotify.com/track/26XndRd8wqjXghY0rTIWd1) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Isaque Valadão Bessa](https://open.spotify.com/artist/054LTzkZ6sYAjYVmvYgyn9), [Gabriel Barreto](https://open.spotify.com/artist/06ii0QUGCLVALU7jqPB1K1), [Lu Alone](https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U), [Nena Lacerda](https://open.spotify.com/artist/6UHyiSKriWWiIldzzXmnBW) | [Medley Crianças Diante do Trono \(Ao Vivo\)](https://open.spotify.com/album/2F0dpBrgay5e2ikGnyBbpj) | 5:38 |
 | 19 | [A Alegria Está no Coração / Celebrai / Solta o Cabo da Nau](https://open.spotify.com/track/7FNueAtAXOl1aImDlO9jO0) | [Trio R3](https://open.spotify.com/artist/1j80V5H3SnqrUDKhpAo1OE) | [Trio R3 Kids](https://open.spotify.com/album/3iXWPgtTT7O1t7e5eZoDmf) | 3:22 |
 | 20 | [Hit da Formiguinha](https://open.spotify.com/track/2jxOwM1YWNLdVtYKhHjY4r) | [Vaneyse](https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl) | [Brincando de Escolinha](https://open.spotify.com/album/28QrtBn35MNZOGsNMjUrja) | 3:06 |
 | 21 | [Destino ao Céu](https://open.spotify.com/track/25nCwxGYMiwJeEbqitBkjn) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Destino ao Céu](https://open.spotify.com/album/7mGVlHAO59mS0XChbEDRUm) | 3:46 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 45 | [Meu Coração](https://open.spotify.com/track/1MDXv0hRY9EgHTwvQyr7EG) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Meu Coração](https://open.spotify.com/album/6y2SSn86BAh3LZHKwNiKK4) | 2:17 |
 | 46 | [Festa das Cores](https://open.spotify.com/track/2OgjuP2rTKfweuPiZDORMw) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Festa das Cores](https://open.spotify.com/album/7y3if5oFUBEKP94vf2mCQW) | 3:26 |
 | 47 | [Satisfação](https://open.spotify.com/track/5rmBG2lYpzQFXU5LXrWHTE) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Satisfação](https://open.spotify.com/album/7dNxBMr0QOAUD3ydFcCH8f) | 2:17 |
-| 48 | [Sr\. Antônimo](https://open.spotify.com/track/1mExcbeOoQEh2ZRFTY705r) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [ImaginAline](https://open.spotify.com/album/4DpfGOe1QVwuIENUOhxgsa) | 4:36 |
-| 49 | [O Sabão \- Deluxe](https://open.spotify.com/track/31NTFyLNBjUFmIv5wUVg4L) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [O Sabão \(Deluxe\)](https://open.spotify.com/album/3wissWXrndk2jkBWB8NmNG) | 2:22 |
+| 48 | [O Sabão \- Deluxe](https://open.spotify.com/track/31NTFyLNBjUFmIv5wUVg4L) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [O Sabão \(Deluxe\)](https://open.spotify.com/album/3wissWXrndk2jkBWB8NmNG) | 2:22 |
+| 49 | [Sr\. Antônimo](https://open.spotify.com/track/1mExcbeOoQEh2ZRFTY705r) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [ImaginAline](https://open.spotify.com/album/4DpfGOe1QVwuIENUOhxgsa) | 4:36 |
 | 50 | [Eu Sou Um Cordeirinho](https://open.spotify.com/track/3S638bURBDmKdnoFbTEwXE) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Eu Sou Um Cordeirinho](https://open.spotify.com/album/7uVIoEnQpDw7N8hRh07uUo) | 2:42 |
 
-Snapshot ID: `MCxlMTM3YjFlN2VhM2Y0YzczZWRiZTgxOGRkYTAzM2JkN2FjMzM0YTA0`
+Snapshot ID: `MCw0Y2QwN2U2ZmFkMDhhN2MwMDFlOGRiMDI3ZTIyMmM5OGVkMDcxOTM2`

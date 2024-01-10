@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1970s that will make you dance all summer long!",
-  "num_followers": 191303,
+  "num_followers": 191430,
   "original_name": "Summer Hits of the 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjIwMzIxODVlM2RkZjZkNDc3M2I2NGM3NmVmY2Q1YTc2OWYwOTI3",
+  "snapshot_id": "MCxmZWMwODU2ODJmOTg5ZWQxZTBlMjUxZTM0ZmU4YmM4OTQxODYyNWE3",
   "tracks": [
     {
       "added_at": "2022-04-18 23:11:58",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "American Pie",
-        "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
-      },
-      "artists": [
-        {
-          "name": "Don McLean",
-          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
-        }
-      ],
-      "duration_ms": 516893,
-      "name": "American Pie",
-      "url": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 243933,
       "name": "Take A Chance On Me",
       "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "American Pie",
+        "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
+      },
+      "artists": [
+        {
+          "name": "Don McLean",
+          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
+        }
+      ],
+      "duration_ms": 516893,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "Superstition - Single Version",
-      "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "Who Loves You",
         "url": "https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 197146,
       "name": "December, 1963 (Oh What a Night!)",
       "url": "https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "Superstition - Single Version",
+      "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Poems, Prayers and Promises",
-        "url": "https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 190160,
-      "name": "Take Me Home, Country Roads - Original Version",
-      "url": "https://open.spotify.com/track/1YYhDizHx7PnDhAhko6cDS"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "Dancing in the Moonlight",
         "url": "https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA"
       },
@@ -531,18 +515,18 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Cosmo's Factory",
-        "url": "https://open.spotify.com/album/5w2X5ZmdE4u0XGkOU7BiLG"
+        "name": "Poems, Prayers and Promises",
+        "url": "https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU"
       },
       "artists": [
         {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
         }
       ],
-      "duration_ms": 159172,
-      "name": "Up Around The Bend",
-      "url": "https://open.spotify.com/track/56dtB7EzO7EneUgYwX8krC"
+      "duration_ms": 190160,
+      "name": "Take Me Home, Country Roads - Original Version",
+      "url": "https://open.spotify.com/track/1YYhDizHx7PnDhAhko6cDS"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -559,6 +543,22 @@
       "duration_ms": 322548,
       "name": "Bennie And The Jets - Remastered 2014",
       "url": "https://open.spotify.com/track/5Wj1rJnCLpMHdLaxsFtJLs"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Cosmo's Factory",
+        "url": "https://open.spotify.com/album/5w2X5ZmdE4u0XGkOU7BiLG"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 159172,
+      "name": "Up Around The Bend",
+      "url": "https://open.spotify.com/track/56dtB7EzO7EneUgYwX8krC"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -627,38 +627,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Love Tracks",
-        "url": "https://open.spotify.com/album/1F0umQ1PItuGiP8uJDdFoX"
-      },
-      "artists": [
-        {
-          "name": "Gloria Gaynor",
-          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
-        }
-      ],
-      "duration_ms": 296106,
-      "name": "I Will Survive",
-      "url": "https://open.spotify.com/track/7rIovIsXE6kMn629b7kDig"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "Don't Shoot Me I'm Only The Piano Player",
-        "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 235440,
-      "name": "Crocodile Rock",
-      "url": "https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "Can't Buy A Thrill",
         "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
       },
@@ -671,6 +639,22 @@
       "duration_ms": 277467,
       "name": "Reelin' In The Years",
       "url": "https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Love Tracks",
+        "url": "https://open.spotify.com/album/1F0umQ1PItuGiP8uJDdFoX"
+      },
+      "artists": [
+        {
+          "name": "Gloria Gaynor",
+          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
+        }
+      ],
+      "duration_ms": 296106,
+      "name": "I Will Survive",
+      "url": "https://open.spotify.com/track/7rIovIsXE6kMn629b7kDig"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -707,6 +691,22 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
+        "name": "Don't Shoot Me I'm Only The Piano Player",
+        "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 235440,
+      "name": "Crocodile Rock",
+      "url": "https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
         "name": "Homecoming",
         "url": "https://open.spotify.com/album/7eqBAR9pblivMBOI70q2um"
       },
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
-      },
-      "artists": [
-        {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
-        }
-      ],
-      "duration_ms": 216733,
-      "name": "We Are Family - 1995 Remaster",
-      "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "Songs In The Key Of Life",
         "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 232760,
       "name": "Sir Duke",
       "url": "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "duration_ms": 216733,
+      "name": "We Are Family - 1995 Remaster",
+      "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "L.A. Woman",
-        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Love Her Madly",
-      "url": "https://open.spotify.com/track/3MFFDRC4wTN9JNGtzXsZlN"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "Mud Slide Slim and the Blue Horizon (2019 Remaster)",
         "url": "https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX"
       },
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "ABC",
-        "url": "https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc"
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
       },
       "artists": [
         {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 174866,
-      "name": "ABC",
-      "url": "https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5"
+      "duration_ms": 198466,
+      "name": "Love Her Madly",
+      "url": "https://open.spotify.com/track/3MFFDRC4wTN9JNGtzXsZlN"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -1063,6 +1047,22 @@
       "duration_ms": 296493,
       "name": "Somebody To Love - Remastered 2011",
       "url": "https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "ABC",
+        "url": "https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 174866,
+      "name": "ABC",
+      "url": "https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
+        "name": "Life & Times",
+        "url": "https://open.spotify.com/album/25K3YPiFx7Yb7ms10m58Vt"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "duration_ms": 179466,
+      "name": "Bad, Bad Leroy Brown",
+      "url": "https://open.spotify.com/track/2r3XNMon9K7bl2KTtHsaQO"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
         "name": "In Color",
         "url": "https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR"
       },
@@ -1167,18 +1183,18 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Life & Times",
-        "url": "https://open.spotify.com/album/25K3YPiFx7Yb7ms10m58Vt"
+        "name": "Frankie Valli...Is The Word",
+        "url": "https://open.spotify.com/album/0o2oPAxKGui4tvrrNgDtkc"
       },
       "artists": [
         {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
         }
       ],
-      "duration_ms": 179466,
-      "name": "Bad, Bad Leroy Brown",
-      "url": "https://open.spotify.com/track/2r3XNMon9K7bl2KTtHsaQO"
+      "duration_ms": 207306,
+      "name": "Grease - 2007 Remaster",
+      "url": "https://open.spotify.com/track/5Vrczz39CvlD3OGCa6utoA"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -1211,22 +1227,6 @@
       "duration_ms": 255600,
       "name": "Fat Bottomed Girls - Remastered 2011",
       "url": "https://open.spotify.com/track/4igIYHF3B5VBxEafHauVo3"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "Frankie Valli...Is The Word",
-        "url": "https://open.spotify.com/album/0o2oPAxKGui4tvrrNgDtkc"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli",
-          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
-        }
-      ],
-      "duration_ms": 207306,
-      "name": "Grease - 2007 Remaster",
-      "url": "https://open.spotify.com/track/5Vrczz39CvlD3OGCa6utoA"
     }
   ],
   "unique_name": "Summer Hits of the 70s",

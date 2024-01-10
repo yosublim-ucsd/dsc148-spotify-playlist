@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 
 > This is Marcos Witt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,095 likes - 50 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,978 likes - 50 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 | 37 | [Alabemos](https://open.spotify.com/track/3nv4qhv3WXpIzOpRryt7O5) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Sigues Siendo Dios](https://open.spotify.com/album/293bvHB3kPSoXVHbar9zqb) | 4:36 |
 | 38 | [Quiero Levantar mis Manos](https://open.spotify.com/track/3F3cpazSaWY0DCb6XjSBd9) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Proyecto AA](https://open.spotify.com/album/4Yn1oEGxhbwk8HhE0topvU) | 4:28 |
 | 39 | [Poderoso Dios](https://open.spotify.com/track/4eMnZja2FGmWuagYRLrQBw) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Sobrenatural](https://open.spotify.com/album/1EDofreiBInsrMtMbpt7hL) | 7:54 |
-| 40 | [A Ti & Temprano Yo Te Buscaré \(feat\. Marcos Witt\)](https://open.spotify.com/track/1o733VX6GW0U6mPlYx4deP) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Ayer y Hoy](https://open.spotify.com/album/7svEhoIUz5fCkt6IXhcAsc) | 6:02 |
-| 41 | [Poderoso](https://open.spotify.com/track/0MMGKqbwCW0VusNuiuuK4f) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Poderoso](https://open.spotify.com/album/4buWEkWMs4uNIJpIZdQNJ9) | 6:49 |
+| 40 | [Poderoso](https://open.spotify.com/track/0MMGKqbwCW0VusNuiuuK4f) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Poderoso](https://open.spotify.com/album/4buWEkWMs4uNIJpIZdQNJ9) | 6:49 |
+| 41 | [A Ti & Temprano Yo Te Buscaré \(feat\. Marcos Witt\)](https://open.spotify.com/track/1o733VX6GW0U6mPlYx4deP) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Ayer y Hoy](https://open.spotify.com/album/7svEhoIUz5fCkt6IXhcAsc) | 6:02 |
 | 42 | [Hermoso](https://open.spotify.com/track/4TwzyWf4K1oeybmNUsNL24) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Jesús Salva](https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw) | 5:35 |
 | 43 | [Dios De Pactos](https://open.spotify.com/track/4wFBzIA7HuaaGz89DQnWyo) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Dios de Pactos](https://open.spotify.com/album/4YCOrXZRsLWvj9BZBTS2AR) | 10:51 |
 | 44 | [Viviré \(Salmo 118\)](https://open.spotify.com/track/2AfP1FmE3TZffo4bbgOJIt) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Viviré](https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW) | 4:08 |
-| 45 | [Damos honor a Ti feat.Danilo Montero](https://open.spotify.com/track/1vX9aWhoRlfvykVyKj9F26) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Homenaje a Jesús](https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J) | 8:01 |
-| 46 | [Tu Iglesia](https://open.spotify.com/track/2vx5gfAsMpFls9VTIICGKx) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Steven Richards](https://open.spotify.com/artist/7nV5z8aBZuot66MlL143o4) | [Tu Iglesia](https://open.spotify.com/album/1Tm3kqQrewzPly3tJZSBJA) | 4:46 |
+| 45 | [Tu Iglesia](https://open.spotify.com/track/2vx5gfAsMpFls9VTIICGKx) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Steven Richards](https://open.spotify.com/artist/7nV5z8aBZuot66MlL143o4) | [Tu Iglesia](https://open.spotify.com/album/1Tm3kqQrewzPly3tJZSBJA) | 4:46 |
+| 46 | [Damos honor a Ti feat.Danilo Montero](https://open.spotify.com/track/1vX9aWhoRlfvykVyKj9F26) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Homenaje a Jesús](https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J) | 8:01 |
 | 47 | [Renuévame](https://open.spotify.com/track/0KLlY8Hfa4NtxfP7X1IHVL) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Lo Mejor de Instrumentales](https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q) | 3:42 |
 | 48 | [Nunca Me Fallas \(feat\. Marcos Witt\)](https://open.spotify.com/track/5Y8ALB1dMCFTIdPJ7sWk0A) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Ser Humano](https://open.spotify.com/album/7GAFM73bQdOTQ9qOas9TNt) | 4:30 |
-| 49 | [Perdonados](https://open.spotify.com/track/3L0pj40jXUDOX3p1OmZqvQ) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Homenaje a Jesús](https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J) | 2:58 |
-| 50 | [Lléname Señor](https://open.spotify.com/track/7qKZKJfitLRRA4O6ZBCTs7) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tu y Yo](https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx) | 3:47 |
+| 49 | [Lléname Señor](https://open.spotify.com/track/7qKZKJfitLRRA4O6ZBCTs7) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tu y Yo](https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx) | 3:47 |
+| 50 | [Perdonados](https://open.spotify.com/track/3L0pj40jXUDOX3p1OmZqvQ) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Homenaje a Jesús](https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J) | 2:58 |
 
-Snapshot ID: `Mjg0MTE5MDAsMDAwMDAwMDBlZGI2M2JkNWE5NzNlZGE0NTRiZGFmYWFhNDE3ZjNmNw==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDA1NzQxYjk4YzgwNTYzODZhMzIwMTBiODUwOTQ5Y2M5OQ==`

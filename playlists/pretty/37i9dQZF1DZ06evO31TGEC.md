@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 
 > This is El Chapo De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,523 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,511 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 | 39 | [Regalo del Cielo](https://open.spotify.com/track/28YNal6Gsq8v6xDNfXQ717) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Corazon de Nino](https://open.spotify.com/album/5Q38BESdZOYUbUQokXuBJh) | 2:40 |
 | 40 | [Le Dire Que Me Gusta](https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t), [Frank Velasquez](https://open.spotify.com/artist/63QGsk6k2QujcYZH5kxNbq) | [Mayor de Edad](https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ) | 3:11 |
 | 41 | [Enseñame a Olvidar](https://open.spotify.com/track/55xhJyoY3cbUzQIZOtea7i) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Camina Sin Mirar Atras](https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0) | 2:48 |
-| 42 | [Me Preguntaron Por Ti](https://open.spotify.com/track/5oV3ZloIYyO7yzTenzMSJP) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Me Preguntaron Por Ti](https://open.spotify.com/album/7aCf9lrpsaiTu5RwhqzWvm) | 2:49 |
-| 43 | [Para Siempre](https://open.spotify.com/track/7AorFcJZgjpAdfLbKF95YF) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Las Bandas Románticas](https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr) | 3:20 |
+| 42 | [Para Siempre](https://open.spotify.com/track/7AorFcJZgjpAdfLbKF95YF) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Las Bandas Románticas](https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr) | 3:20 |
+| 43 | [Me Preguntaron Por Ti](https://open.spotify.com/track/5oV3ZloIYyO7yzTenzMSJP) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Me Preguntaron Por Ti](https://open.spotify.com/album/7aCf9lrpsaiTu5RwhqzWvm) | 2:49 |
 | 44 | [El Dolido](https://open.spotify.com/track/3QUVQh9YRliiLmBShel2DO) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Serie 33](https://open.spotify.com/album/1y6TyvJYOv3725PqA2LPSV) | 3:09 |
 | 45 | [Ella \(Me Cansé De Rogarle\)](https://open.spotify.com/track/3pwWfa8pqHCoDJrFwwQCkk) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [La Noche Perfecta](https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT) | 3:22 |
 | 46 | [Que Se Mueran De Envidia](https://open.spotify.com/track/3Sdwkjg9DUWcrydhmpzYRh) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Que Se Mueran De Envidia](https://open.spotify.com/album/57idnjdwyf4z35QGSSdbId) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 | 49 | [Para Que Regreses 2023](https://open.spotify.com/track/20GKwT2bRDp8usa7LwKy81) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Para Que Regreses 2023](https://open.spotify.com/album/4vew0AEsjSpq6Q6pS4Um36) | 3:25 |
 | 50 | [Inevitable](https://open.spotify.com/track/3IUNzzk29r37Xa78FNwQng) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Triunfador](https://open.spotify.com/album/2G0Mvzab2JrxgJdNpoD9dU) | 2:38 |
 
-Snapshot ID: `Mjg0MTE5MDAsMDAwMDAwMDA0NmY5YjkwOWVhZWY4NTc1NTI5NWNlZDIxN2JlOTJlYg==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDA5NmIxMGRmMDI3ZTVhNzVhMmJjNWYwYjgyYWYwOWIzZA==`

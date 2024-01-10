@@ -1,12 +1,12 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: Blessing Offor",
-  "num_followers": 203340,
+  "num_followers": 202759,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2YyZGMwODIxYWVkYTc2ZTJiNDkzZTY4OTQyYjVlZmFlYzZjODgy",
+  "snapshot_id": "MCw4NWNlZGY3MDgyZDRkODQxYjBjNmUwODhlMGNjMDk1ZjVjZDIwM2Jl",
   "tracks": [
     {
       "added_at": "2023-01-13 21:46:56",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Always Will Be",
-        "url": "https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Always Will Be",
-      "url": "https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Growing Up, Pt.2",
         "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 193685,
       "name": "Good News",
       "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Always Will Be",
+        "url": "https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Always Will Be",
+      "url": "https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -755,18 +755,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Broken Is Beautiful",
-        "url": "https://open.spotify.com/album/6Wx2aYawDBnNXuJhfQbtgK"
+        "name": "In the Upper Room",
+        "url": "https://open.spotify.com/album/0ScmxdqoawzE3bXX5DzNPC"
       },
       "artists": [
         {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
         }
       ],
-      "duration_ms": 250909,
-      "name": "Broken Is Beautiful",
-      "url": "https://open.spotify.com/track/0D7tG0LWJLqpSkrUacfBRh"
+      "duration_ms": 166632,
+      "name": "Right With You",
+      "url": "https://open.spotify.com/track/3CR8WSfLJ3DX0uSSBKmg9n"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "In the Upper Room",
-        "url": "https://open.spotify.com/album/0ScmxdqoawzE3bXX5DzNPC"
+        "name": "Broken Is Beautiful",
+        "url": "https://open.spotify.com/album/6Wx2aYawDBnNXuJhfQbtgK"
       },
       "artists": [
         {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
         }
       ],
-      "duration_ms": 166632,
-      "name": "Right With You",
-      "url": "https://open.spotify.com/track/3CR8WSfLJ3DX0uSSBKmg9n"
+      "duration_ms": 250909,
+      "name": "Broken Is Beautiful",
+      "url": "https://open.spotify.com/track/0D7tG0LWJLqpSkrUacfBRh"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Friend",
-        "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
-      },
-      "artists": [
-        {
-          "name": "John Jin Han",
-          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
-        }
-      ],
-      "duration_ms": 226295,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Jump",
         "url": "https://open.spotify.com/album/21kxczu3QQWSkJ8imKBHcH"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 213333,
       "name": "Jump",
       "url": "https://open.spotify.com/track/69HLrdOQMAseHsTTmklKob"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Friend",
+        "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
+      },
+      "artists": [
+        {
+          "name": "John Jin Han",
+          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
+        }
+      ],
+      "duration_ms": 226295,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Happy Day - Retain Remix",
-        "url": "https://open.spotify.com/album/4fBa38ySFa0gYrP5N7aZzk"
+        "name": "Father",
+        "url": "https://open.spotify.com/album/0UJEnFmTPu4Rff2IrrFCsX"
       },
       "artists": [
         {
-          "name": "Retain",
-          "url": "https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF"
+          "name": "Branan Murphy",
+          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
         }
       ],
-      "duration_ms": 200903,
-      "name": "Happy Day - Retain Remix",
-      "url": "https://open.spotify.com/track/4CbSxyiD3zOziagpHFszCc"
+      "duration_ms": 213281,
+      "name": "Father",
+      "url": "https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Father",
-        "url": "https://open.spotify.com/album/0UJEnFmTPu4Rff2IrrFCsX"
+        "name": "Happy Day - Retain Remix",
+        "url": "https://open.spotify.com/album/4fBa38ySFa0gYrP5N7aZzk"
       },
       "artists": [
         {
-          "name": "Branan Murphy",
-          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
+          "name": "Retain",
+          "url": "https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF"
         }
       ],
-      "duration_ms": 213281,
-      "name": "Father",
-      "url": "https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP"
+      "duration_ms": 200903,
+      "name": "Happy Day - Retain Remix",
+      "url": "https://open.spotify.com/track/4CbSxyiD3zOziagpHFszCc"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Step Into The Fight (Gregatron Remix)",
-        "url": "https://open.spotify.com/album/51CtTp4TGVtbm1rFoja0lk"
-      },
-      "artists": [
-        {
-          "name": "Hannah Schaefer",
-          "url": "https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s"
-        }
-      ],
-      "duration_ms": 213868,
-      "name": "Step Into The Fight - Gregatron Remix",
-      "url": "https://open.spotify.com/track/7MmEyVUNFyNXvCUy67M6RD"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Better View, Part II",
         "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 184393,
       "name": "Invited",
       "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Step Into The Fight (Gregatron Remix)",
+        "url": "https://open.spotify.com/album/51CtTp4TGVtbm1rFoja0lk"
+      },
+      "artists": [
+        {
+          "name": "Hannah Schaefer",
+          "url": "https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s"
+        }
+      ],
+      "duration_ms": 213868,
+      "name": "Step Into The Fight - Gregatron Remix",
+      "url": "https://open.spotify.com/track/7MmEyVUNFyNXvCUy67M6RD"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "ECHO",
-        "url": "https://open.spotify.com/album/2TounfDp8FG5wdmzSCc0fT"
-      },
-      "artists": [
-        {
-          "name": "Damaris Guerra",
-          "url": "https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj"
-        },
-        {
-          "name": "CRYS",
-          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
-        }
-      ],
-      "duration_ms": 195882,
-      "name": "ECHO",
-      "url": "https://open.spotify.com/track/5dlME4r4Bt7RqHDDyT0kdY"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Future",
         "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
       },
@@ -1311,6 +1291,22 @@
       "duration_ms": 205377,
       "name": "Future",
       "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Covered",
+        "url": "https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 196987,
+      "name": "Covered",
+      "url": "https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1335,18 +1331,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Covered",
-        "url": "https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D"
+        "name": "ECHO",
+        "url": "https://open.spotify.com/album/2TounfDp8FG5wdmzSCc0fT"
       },
       "artists": [
         {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+          "name": "Damaris Guerra",
+          "url": "https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj"
+        },
+        {
+          "name": "CRYS",
+          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
         }
       ],
-      "duration_ms": 196987,
-      "name": "Covered",
-      "url": "https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb"
+      "duration_ms": 195882,
+      "name": "ECHO",
+      "url": "https://open.spotify.com/track/5dlME4r4Bt7RqHDDyT0kdY"
     },
     {
       "added_at": "2023-01-13 21:46:56",

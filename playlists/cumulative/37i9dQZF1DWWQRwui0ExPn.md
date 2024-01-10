@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,407 songs - 10 day 2 hr 48 min
+6,409 songs - 10 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3724,7 +3724,7 @@
 | [My Name Is London](https://open.spotify.com/track/525tVeH4EPINnoTn9ZfY1Y) | [Flying Animal](https://open.spotify.com/artist/2swCJIywMR8xcM3yCXUFRx) | [My Name Is London](https://open.spotify.com/album/4SDLGsEvyKTTpM2sUkYQvb) | 1:43 | 2022-02-14 | 2022-09-09 |
 | [my new love](https://open.spotify.com/track/23gcQr3NRKzLXsP9H5jFQ1) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/2Ap5vMlN2HZQjTyohlapPA) | 1:05 | 2019-06-22 | 2020-01-04 |
 | [My Point, Exactly](https://open.spotify.com/track/10xZ981u7jBgPkuqWfFUpT) | [Recaps](https://open.spotify.com/artist/10AsJvn27mBPRP1G05gQs1) | [My Point, Exactly](https://open.spotify.com/album/0UiNrjrgkKGndP4KT52qGs) | 2:15 | 2022-10-28 |  |
-| [My Promise](https://open.spotify.com/track/2tLMEIVC98DSoq8jjypvg6) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [My Promise](https://open.spotify.com/album/5rL8vcVAck9ba3BC8X0WFg) | 4:01 | 2024-01-05 |  |
+| [My Promise](https://open.spotify.com/track/2tLMEIVC98DSoq8jjypvg6) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [My Promise](https://open.spotify.com/album/5rL8vcVAck9ba3BC8X0WFg) | 4:01 | 2024-01-05 | 2024-01-10 |
 | [my sound](https://open.spotify.com/track/3ETXoZlQFyJPuO2B3yhByC) | [sonolon](https://open.spotify.com/artist/1y3NpCoVmVh5gLL0uGKv5t) | [my sound](https://open.spotify.com/album/5a21kg0zp6ccCM0dmJh99q) | 1:36 | 2020-11-19 | 2021-10-20 |
 | [My Swamp](https://open.spotify.com/track/4w6gETRszm6fnQEa2m7zMk) | [Fryst](https://open.spotify.com/artist/4uX8CtNxSK7yqTTTKWngAS) | [My Swamp](https://open.spotify.com/album/74dzH3BTY28QLXBqtHYo7U) | 2:11 | 2023-08-03 | 2023-08-26 |
 | [My Time](https://open.spotify.com/track/7tsdmsTis9koDeF4l0eZZ5) | [Rachelle Pertu](https://open.spotify.com/artist/4BtIZRedZ2qqlF6jBuwMIx) | [My Time](https://open.spotify.com/album/5H7f4wXCsSwqN6AhwZDBJL) | 1:39 | 2022-08-26 | 2023-01-13 |
@@ -4106,7 +4106,7 @@
 | [Oscar](https://open.spotify.com/track/1EEup4dljCCgxl6hKmX5iq) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Oscar](https://open.spotify.com/album/05F4sYiGZN3SBeghF53YXo) | 1:41 | 2022-11-25 | 2023-02-14 |
 | [Otohime](https://open.spotify.com/track/4q4a1ulxT3k3QwwOViJIVB) | [Kaito](https://open.spotify.com/artist/2lCgmXS37lpSjEh9TjERwg) | [Otohime](https://open.spotify.com/album/2AXlErh9GKEe81R1PMD33F) | 3:06 | 2023-10-06 | 2023-10-13 |
 | [Otoño](https://open.spotify.com/track/43iIy646LwEgRZskB3whCx) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [Otoño](https://open.spotify.com/album/7AXcEGjpLnyJVDYRElWvjI) | 2:07 | 2022-11-25 | 2023-02-14 |
-| [ottos visa](https://open.spotify.com/track/2UIfKmFnpMjSLONtCxZw7B) | [bomull](https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub) | [ottos visa](https://open.spotify.com/album/5BZ89t6bxwxcPbQAH1FXcE) | 2:53 | 2024-01-05 |  |
+| [ottos visa](https://open.spotify.com/track/2UIfKmFnpMjSLONtCxZw7B) | [bomull](https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub) | [ottos visa](https://open.spotify.com/album/5BZ89t6bxwxcPbQAH1FXcE) | 2:53 | 2024-01-05 | 2024-01-10 |
 | [Oublier les méchants](https://open.spotify.com/track/1S6YduegHezj3BK6YbufRj) | [Rose Bonbon](https://open.spotify.com/artist/0jARsxSQ5lwZ8ARMIerJ4A) | [Oublier les méchants](https://open.spotify.com/album/32HGrfbpYPXCYVmSsfJ6PV) | 1:39 | 2021-09-11 | 2022-04-08 |
 | [oui \- lofi](https://open.spotify.com/track/6Ch49bIaZOR3M2ArjbH8Dx) | [lonelyboy](https://open.spotify.com/artist/30pF2pv50VXX6TgiMmKKjc), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [nom de plume](https://open.spotify.com/artist/1N4r7k7itw2bF4fJfTnHbu) | [chill vibes and lofi remixes with jeremih](https://open.spotify.com/album/7BVdsutMmk9s2babj0SKaX) | 2:29 | 2023-05-18 | 2023-06-21 |
 | [Our Journey](https://open.spotify.com/track/1r5kBu3OULOo6rkymeSQGy) | [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb), [WanderLight](https://open.spotify.com/artist/5cSzGEEoyXq4x7tjOD3zha) | [Our Journey](https://open.spotify.com/album/1XHZeXaAh6TBaLYgmr7hhi) | 2:40 | 2022-01-21 | 2022-07-16 |
@@ -4203,6 +4203,7 @@
 | [Past Midnight](https://open.spotify.com/track/2XrxEdsGEB1S6igoZ0oZlV) | [sleepsleepsleep](https://open.spotify.com/artist/014LowNhgN2d8KreuoFRFd) | [Past Midnight](https://open.spotify.com/album/6kXkkeT5hZaPXGVqqckxWd) | 2:17 | 2023-04-05 | 2023-04-12 |
 | [Past Times](https://open.spotify.com/track/6b207l48x2DXQhujXZWhPl) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j) | [Past Times](https://open.spotify.com/album/6LSZ7fHAwI80b8uwIxsq68) | 1:50 | 2023-05-23 | 2023-07-14 |
 | [Patadas de Ahogado](https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Patadas de Ahogado](https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY) | 3:10 | 2023-04-27 | 2023-09-16 |
+| [path\-not\-taken](https://open.spotify.com/track/5Wib385Q50uwRxnZ2KQRaM) | [entsy](https://open.spotify.com/artist/6UKGPZKVaXj8xmtkGLKuUX) | [path\-not\-taken](https://open.spotify.com/album/2BAybKwnMczwjaCagLmCv1) | 2:22 | 2024-01-05 |  |
 | [pathless](https://open.spotify.com/track/2twCuhMf8cmQGMMC1Wlbde) | [Goldusk](https://open.spotify.com/artist/1vhLM6xIiTjnhzb54G7lXc) | [pathless](https://open.spotify.com/album/2B3BIn4tvmPClpXWxczkwh) | 1:44 | 2020-08-30 | 2021-10-02 |
 | [Patience](https://open.spotify.com/track/0AVSwVpQbGNpKyJexA8Rp4) | [Florence Ada](https://open.spotify.com/artist/55eWRokjrhKoE28jaHJYw7) | [Patience](https://open.spotify.com/album/7FI6gU3CuWU3I9gXA9gENu) | 1:30 | 2021-11-05 | 2022-06-03 |
 | [Patient Stabilized](https://open.spotify.com/track/0CK0jsUUNtHeQDJBiAzU70) | [L E F](https://open.spotify.com/artist/6OtbmwnrAgCOlEN9ZTugNV) | [Patient Stabilized](https://open.spotify.com/album/76wOv3egSEYkYHDitky9JA) | 2:49 | 2023-01-13 | 2023-04-06 |
@@ -5152,6 +5153,7 @@
 | [speeding, like 4am](https://open.spotify.com/track/74KHs5V3eyJjZ0wEW1UZQb) | [frumhere](https://open.spotify.com/artist/21Aa8MX3PsrO03NgH3TZGy), [oxela](https://open.spotify.com/artist/2Ynv0921ni6Jo0TilBCqAO) | [fall in crete](https://open.spotify.com/album/3dPddVfWIXqgY0197unHux) | 1:44 | 2019-11-22 | 2021-04-17 |
 | [Spheres](https://open.spotify.com/track/2ThtkgGReOtvMsOuoWZoub) | [Bipeula](https://open.spotify.com/artist/5Kcv07Jj6RthywQndqvfh2), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Spheres / Violetti](https://open.spotify.com/album/7225BJxGsQNoBNBh7vVV7K) | 1:51 | 2022-09-23 | 2023-01-13 |
 | [Spice Rack](https://open.spotify.com/track/5Li8YZv4KwFY6wMbEkild1) | [Astairé](https://open.spotify.com/artist/2DWDXgHWqbRV6oQKFTlcvc) | [Spice Rack](https://open.spotify.com/album/2RneAyggaVzlEEYgnSIDkT) | 2:00 | 2022-11-25 |  |
+| [Spicy Zest](https://open.spotify.com/track/5KFq0sLS7aBkcaARm2OpeR) | [Casino Bianco](https://open.spotify.com/artist/5X7OxBWmTg024LLmavducM) | [Spicy Zest](https://open.spotify.com/album/33zMRhxJCGGkweKfdPvQfR) | 2:30 | 2024-01-05 |  |
 | [Spiegelei](https://open.spotify.com/track/2UgF2ERVFHWhFWcytlNO7G) | [Spaze Windu](https://open.spotify.com/artist/0yAQ48yJ94zWFTs0YUIdcE), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Spiegelei](https://open.spotify.com/album/5dX5r4M9K5DYfYTnJGgfmM) | 2:31 | 2022-08-05 | 2022-11-18 |
 | [Spinning](https://open.spotify.com/track/3GVMlVWZF5fZPfioDpFsCJ) | [Lumini](https://open.spotify.com/artist/2cbLFoYZjIj973sMYSZRpu), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Spinning](https://open.spotify.com/album/4m1yEq5dvPQIXmHapABnL8) | 2:00 | 2022-09-16 | 2023-01-07 |
 | [spirals](https://open.spotify.com/track/4zMdab1CnihodiQ9WKYYlC) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [perceptions](https://open.spotify.com/album/5ItTUf2zFDlE2aPtlIN9L9) | 3:12 | 2019-06-21 | 2020-06-09 |

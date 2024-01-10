@@ -1,12 +1,12 @@
 {
   "description": "Bonitas, orgullosas y empoderadas, as\u00ed somos las se\u00f1oras.",
-  "num_followers": 282258,
+  "num_followers": 282368,
   "original_name": "Modo Se\u00f1ora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWFmOTJkODU4OTczYmUwMWNmYjQ2OWIxMDA5OTRhMGI2OTI4Y2Y1",
+  "snapshot_id": "MCwxMTM0NDRmNzQxYmM4NjY4YWU4NDk0YjQ1N2MzYzE3ZGRjM2Q1MDNm",
   "tracks": [
     {
       "added_at": "2022-05-10 02:03:57",
@@ -361,22 +361,6 @@
       "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
     },
     {
-      "added_at": "2022-05-10 02:03:57",
-      "album": {
-        "name": "Entre El Agua Y El Fuego",
-        "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "\u00bfY C\u00f3mo Es \u00c9l?",
-      "url": "https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC"
-    },
-    {
       "added_at": "2021-05-21 05:04:59",
       "album": {
         "name": "Porque Tengo Ganas",
@@ -391,6 +375,22 @@
       "duration_ms": 194800,
       "name": "Tu Dama De Hierro",
       "url": "https://open.spotify.com/track/4djS8o4kW0kiETtvkLJN2F"
+    },
+    {
+      "added_at": "2022-05-10 02:03:57",
+      "album": {
+        "name": "Entre El Agua Y El Fuego",
+        "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "\u00bfY C\u00f3mo Es \u00c9l?",
+      "url": "https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC"
     },
     {
       "added_at": "2021-05-21 05:04:59",
@@ -625,22 +625,6 @@
       "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
     },
     {
-      "added_at": "2021-05-21 05:04:59",
-      "album": {
-        "name": "Luz Y Sombra",
-        "url": "https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM"
-      },
-      "artists": [
-        {
-          "name": "Flans",
-          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
-        }
-      ],
-      "duration_ms": 280040,
-      "name": "Las Mil Y Una Noches",
-      "url": "https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f"
-    },
-    {
       "added_at": "2022-05-10 02:03:57",
       "album": {
         "name": "El Sonido Vol. 1",
@@ -655,6 +639,22 @@
       "duration_ms": 221626,
       "name": "\u00c9l Me Minti\u00f3",
       "url": "https://open.spotify.com/track/6lZ2Qk3WcmrG4iDmaEqpvH"
+    },
+    {
+      "added_at": "2021-05-21 05:04:59",
+      "album": {
+        "name": "Luz Y Sombra",
+        "url": "https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        }
+      ],
+      "duration_ms": 280040,
+      "name": "Las Mil Y Una Noches",
+      "url": "https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f"
     },
     {
       "added_at": "2022-05-10 02:03:57",
@@ -1069,24 +1069,20 @@
       "url": "https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg"
     },
     {
-      "added_at": "2022-05-10 02:03:57",
+      "added_at": "2021-05-21 05:04:59",
       "album": {
-        "name": "Mariposa Traicionera",
-        "url": "https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt"
+        "name": "Qui\u00e9n Dijo Ayer",
+        "url": "https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
         }
       ],
-      "duration_ms": 243307,
-      "name": "Mariposa Traicionera",
-      "url": "https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak"
+      "duration_ms": 304200,
+      "name": "Se\u00f1ora de las Cuatro D\u00e9cadas",
+      "url": "https://open.spotify.com/track/2neWsabATpEgR8XBv4Hqwo"
     },
     {
       "added_at": "2021-05-21 05:04:59",
@@ -1121,20 +1117,24 @@
       "url": "https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27"
     },
     {
-      "added_at": "2021-05-21 05:04:59",
+      "added_at": "2022-05-10 02:03:57",
       "album": {
-        "name": "Qui\u00e9n Dijo Ayer",
-        "url": "https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ"
+        "name": "Mariposa Traicionera",
+        "url": "https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt"
       },
       "artists": [
         {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 304200,
-      "name": "Se\u00f1ora de las Cuatro D\u00e9cadas",
-      "url": "https://open.spotify.com/track/2neWsabATpEgR8XBv4Hqwo"
+      "duration_ms": 243307,
+      "name": "Mariposa Traicionera",
+      "url": "https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak"
     },
     {
       "added_at": "2022-05-10 02:03:57",

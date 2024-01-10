@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,693 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,658 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 31 | [Safari](https://open.spotify.com/track/6iWe35n6ufDWMQaNUTDXdN) | [Piotr Zioła](https://open.spotify.com/artist/70W7rQt07eDkynzl9JqHAB) | [Revolving Door](https://open.spotify.com/album/5AzZFFyTZnxQ8lqNlTOp88) | 3:36 |
 | 32 | [Melodia](https://open.spotify.com/track/3xlk3SVStmEGEWx5FtqpkW) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Królowa dram](https://open.spotify.com/album/57y8HhpAZJ7SkeetSXvTya) | 3:03 |
 | 33 | [Nie Kłami](https://open.spotify.com/track/3FwWzOCkDwhu1RWTz3CSxJ) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Małomiasteczkowy](https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX) | 3:15 |
-| 34 | [Trudno Tak \(Razem Być Nam Ze Sobą\)](https://open.spotify.com/track/2XaWRFfWAopw4MjhWzuJ15) | [Krzysztof Krawczyk](https://open.spotify.com/artist/1SKeSGQ3LMHYCEgqFGvJbE), [Edyta Bartosiewicz](https://open.spotify.com/artist/1MrKvFb6ie6bTXGpSEYx0g) | [Duety](https://open.spotify.com/album/2ubxdOP13B5rWDTeEHPw1t) | 4:23 |
-| 35 | [Dzień dobry, kocham Cię](https://open.spotify.com/track/6FBPQuYFZIne5cpTASUOGR) | [Strachy Na Lachy](https://open.spotify.com/artist/4DXXg7xzgKAEYeFhh9wAtk) | [Piła tango](https://open.spotify.com/album/1TkJO8CCaeMHvEU4ybrmgx) | 3:21 |
+| 34 | [Dzień dobry, kocham Cię](https://open.spotify.com/track/6FBPQuYFZIne5cpTASUOGR) | [Strachy Na Lachy](https://open.spotify.com/artist/4DXXg7xzgKAEYeFhh9wAtk) | [Piła tango](https://open.spotify.com/album/1TkJO8CCaeMHvEU4ybrmgx) | 3:21 |
+| 35 | [Trudno Tak \(Razem Być Nam Ze Sobą\)](https://open.spotify.com/track/2XaWRFfWAopw4MjhWzuJ15) | [Krzysztof Krawczyk](https://open.spotify.com/artist/1SKeSGQ3LMHYCEgqFGvJbE), [Edyta Bartosiewicz](https://open.spotify.com/artist/1MrKvFb6ie6bTXGpSEYx0g) | [Duety](https://open.spotify.com/album/2ubxdOP13B5rWDTeEHPw1t) | 4:23 |
 | 36 | [O nich, o Tobie](https://open.spotify.com/track/129VFFHvkAzwpYHqTrmtKB) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [O nich, o Tobie](https://open.spotify.com/album/08ViqDYKABc3OpTCh4Ng5r) | 2:27 |
 | 37 | [Miales Byc](https://open.spotify.com/track/7aKwFVDQG0MUBX41I5esiU) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Album](https://open.spotify.com/album/4oZuI7SK8SQekemwxiX71E) | 3:29 |
 | 38 | [Z Tobą Nie Umiem Wygrać](https://open.spotify.com/track/4SDTgdnpGs2CH27ECddcAu) | [Ania Dąbrowska](https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO) | [Z Tobą Nie Umiem Wygrać](https://open.spotify.com/album/0Q3TBllCSiPaWH6VBITiP0) | 4:03 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 58 | [W Glowie](https://open.spotify.com/track/5xIwk3q4x3ptb6oedWlKf0) | [Ania Dąbrowska](https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO) | [Dla Naiwnych Marzycieli](https://open.spotify.com/album/0oGiggXuV7aZA3omAELhiR) | 3:25 |
 | 59 | [Śpij Kochanie Śpij](https://open.spotify.com/track/77ppwEoKPhNZx8h3Nskr7H) | [Kayah](https://open.spotify.com/artist/2v295z585SM68pluEKXKSM), [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS) | [Kayah & Bregovic](https://open.spotify.com/album/20ewUNNrxkKjMgNd2Ax7lX) | 4:31 |
 | 60 | [Nikt tak pięknie nie mówił, że się boi miłości](https://open.spotify.com/track/1kNPvVDqN2KZZrOhyqEiux) | [Pidżama Porno](https://open.spotify.com/artist/0qibngGI3EFCen6abY5hqY) | [Bułgarskie centrum](https://open.spotify.com/album/30EQdPcM7Lf3IuKBw2WCau) | 6:14 |
-| 61 | [Jedwab](https://open.spotify.com/track/5RDEUTUghR62DSvrjWvLNn) | [Róze Europy](https://open.spotify.com/artist/41sRkYTgCw2nfpLrdvii3l) | [Poganie! Kochaj i Obrażaj](https://open.spotify.com/album/1atDsr4BvHEJE5C2YE2I8L) | 6:09 |
-| 62 | [Smak słów](https://open.spotify.com/track/41MO9m7z2mECLpwpX340NU) | [Goya](https://open.spotify.com/artist/3ppWDN3lGw7UOGY7z2EQLB) | [Smak Slów](https://open.spotify.com/album/1RIh9Iefgwd46J99dRnTez) | 3:59 |
+| 61 | [Smak słów](https://open.spotify.com/track/41MO9m7z2mECLpwpX340NU) | [Goya](https://open.spotify.com/artist/3ppWDN3lGw7UOGY7z2EQLB) | [Smak Slów](https://open.spotify.com/album/1RIh9Iefgwd46J99dRnTez) | 3:59 |
+| 62 | [Jedwab](https://open.spotify.com/track/5RDEUTUghR62DSvrjWvLNn) | [Róze Europy](https://open.spotify.com/artist/41sRkYTgCw2nfpLrdvii3l) | [Poganie! Kochaj i Obrażaj](https://open.spotify.com/album/1atDsr4BvHEJE5C2YE2I8L) | 6:09 |
 | 63 | [A Wszystko To...\(Bo Ciebie Kocham\)](https://open.spotify.com/track/0CBj18X3J7MabwDqKeMxuo) | [Ich Troje](https://open.spotify.com/artist/0bRV6QPqD18yNy76IeBr10) | [3](https://open.spotify.com/album/4kgB9pui0fAMwB44axR3C1) | 3:59 |
 | 64 | [Pomimo Burz](https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M) | [Antek Smykiewicz](https://open.spotify.com/artist/6JMMItXorCRjzNQeGDd863) | [Nasz Film \(Deluxe Edition\)](https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T) | 3:22 |
 | 65 | [Każdego Dnia](https://open.spotify.com/track/2NijO1M41mbMTFUJYyX8mx) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Piotrek Lewandowski](https://open.spotify.com/artist/2F9grKyrjes3vaNiPIvyWg) | [Kontrast](https://open.spotify.com/album/446qQKwnnSoeQmcrZOKtry) | 3:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 74 | [Niech no tylko zakwitną jabłonie](https://open.spotify.com/track/4MwftOfY0ufMcOP4rtmtCg) | [Bitamina](https://open.spotify.com/artist/2EJzUdaDAwfqcjpQcRAYdQ) | [Niech no tylko zakwitną jabłonie](https://open.spotify.com/album/6qHFJJQdzanqKZ0jcqx5nb) | 2:37 |
 | 75 | [Dmuchawce, Latawce, Wiatr](https://open.spotify.com/track/4itxKC1nLYQ8H4e2ejj1E3) | [Urszula](https://open.spotify.com/artist/6vIPbNGbwdrg7LSpz4V2QX) | [Wielki Odlot 2 \- Najlepsze 80\-te](https://open.spotify.com/album/47q9qzxUVT9p21WJPJicYI) | 5:26 |
 
-Snapshot ID: `MCw3M2NmYmNjMDA3ZDJhYzZkNzcwOTNkODQ0NjNhZWI2ZmYwOWE4OTQw`
+Snapshot ID: `MCw3ZGZhZGU2ZDA4NWNjNzhkMWExMjMxODhlMjhmZTVjNWM3YzEwOWM3`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDAyMDdjY2FjMGI3MzEzYWY3ZmM3MzQ1MzA0MDY4YzZlODQ4NDQz",
+  "snapshot_id": "MCw1ZDY5ZGNhODMzYTg5MzgzYmE1YjRjMTEwNzY3ZjE0MzdmN2QzZDA0",
   "tracks": [
     {
       "added_at": "2020-08-13 14:39:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Nothing is Ordinary. Everything is Beautiful.",
-        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
-      },
-      "artists": [
-        {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
-        }
-      ],
-      "duration_ms": 226293,
-      "name": "You",
-      "url": "https://open.spotify.com/track/45W0GYB7YQO5wq6ePZPA4F"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Trial & Triumph",
         "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 183706,
       "name": "My Feet Are on the Rock",
       "url": "https://open.spotify.com/track/33q4ENIRByGmdKeRWoIfSm"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Nothing is Ordinary. Everything is Beautiful.",
+        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "duration_ms": 226293,
+      "name": "You",
+      "url": "https://open.spotify.com/track/45W0GYB7YQO5wq6ePZPA4F"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Don't Wanna Wake Up",
-        "url": "https://open.spotify.com/album/2aojIQzbgnZasTUk6PpGOj"
-      },
-      "artists": [
-        {
-          "name": "Capital Kings",
-          "url": "https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof"
-        }
-      ],
-      "duration_ms": 227142,
-      "name": "Don't Wanna Wake Up",
-      "url": "https://open.spotify.com/track/0drXL2YqceYBs5gZmnOifQ"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "One More Day",
         "url": "https://open.spotify.com/album/7ozw8j9l3KhVi4wnP6wwar"
       },
@@ -547,18 +531,18 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "I just need U.",
-        "url": "https://open.spotify.com/album/6sDHpv9JR4rcp4qjxPybak"
+        "name": "Don't Wanna Wake Up",
+        "url": "https://open.spotify.com/album/2aojIQzbgnZasTUk6PpGOj"
       },
       "artists": [
         {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+          "name": "Capital Kings",
+          "url": "https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof"
         }
       ],
-      "duration_ms": 226120,
-      "name": "I just need U.",
-      "url": "https://open.spotify.com/track/7uvDJFly0TCWWsK48NI1fx"
+      "duration_ms": 227142,
+      "name": "Don't Wanna Wake Up",
+      "url": "https://open.spotify.com/track/0drXL2YqceYBs5gZmnOifQ"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -575,6 +559,22 @@
       "duration_ms": 214866,
       "name": "Patient",
       "url": "https://open.spotify.com/track/1uUp4gXR9ZHiV4iHRbmQa3"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "I just need U.",
+        "url": "https://open.spotify.com/album/6sDHpv9JR4rcp4qjxPybak"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 226120,
+      "name": "I just need U.",
+      "url": "https://open.spotify.com/track/7uvDJFly0TCWWsK48NI1fx"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -695,26 +695,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "All Good",
-        "url": "https://open.spotify.com/album/1ArqSTfoWMgeVRmDzCa8bq"
-      },
-      "artists": [
-        {
-          "name": "Capital Kings",
-          "url": "https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof"
-        },
-        {
-          "name": "Hollyn",
-          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
-        }
-      ],
-      "duration_ms": 204897,
-      "name": "All Good",
-      "url": "https://open.spotify.com/track/7iMhd9oIQEM4REnLM0GSwu"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Say It",
         "url": "https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 177200,
       "name": "Glorify (feat. Toby Mac & Terrian)",
       "url": "https://open.spotify.com/track/0f246Mxb5UQWARc9smeRQu"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "All Good",
+        "url": "https://open.spotify.com/album/1ArqSTfoWMgeVRmDzCa8bq"
+      },
+      "artists": [
+        {
+          "name": "Capital Kings",
+          "url": "https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof"
+        },
+        {
+          "name": "Hollyn",
+          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
+        }
+      ],
+      "duration_ms": 204897,
+      "name": "All Good",
+      "url": "https://open.spotify.com/track/7iMhd9oIQEM4REnLM0GSwu"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "bye, sad girl.",
-        "url": "https://open.spotify.com/album/2Lr9QDoRTlW8CKp4q3A6JJ"
-      },
-      "artists": [
-        {
-          "name": "Hollyn",
-          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
-        }
-      ],
-      "duration_ms": 181560,
-      "name": "i don't know if we can be friends",
-      "url": "https://open.spotify.com/track/5ldNf0PbjXkxadKws2Rgkt"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Miracles",
         "url": "https://open.spotify.com/album/7BLdYEQPbahBMFF2E4ZUgU"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 214000,
       "name": "He Still Does (Miracles)",
       "url": "https://open.spotify.com/track/6TcXTbYh4mHq994p3oOibU"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "bye, sad girl.",
+        "url": "https://open.spotify.com/album/2Lr9QDoRTlW8CKp4q3A6JJ"
+      },
+      "artists": [
+        {
+          "name": "Hollyn",
+          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
+        }
+      ],
+      "duration_ms": 181560,
+      "name": "i don't know if we can be friends",
+      "url": "https://open.spotify.com/track/5ldNf0PbjXkxadKws2Rgkt"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Till I Found You",
-        "url": "https://open.spotify.com/album/5i8yKKrI71gqHdXxYafYAo"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 240280,
-      "name": "Till I Found You",
-      "url": "https://open.spotify.com/track/1var9mNP1RLTlu8qVDji0F"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Love / Home",
         "url": "https://open.spotify.com/album/6FN2OXacVXH97RLonyWVrl"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 177319,
       "name": "Love",
       "url": "https://open.spotify.com/track/2peHyuWwcc2Jtg6h9Xomu1"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Till I Found You",
+        "url": "https://open.spotify.com/album/5i8yKKrI71gqHdXxYafYAo"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 240280,
+      "name": "Till I Found You",
+      "url": "https://open.spotify.com/track/1var9mNP1RLTlu8qVDji0F"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/5JEELfVybvnrXxwfsN57kg"
+      },
+      "artists": [
+        {
+          "name": "The Color",
+          "url": "https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d"
+        }
+      ],
+      "duration_ms": 193978,
+      "name": "Surprise",
+      "url": "https://open.spotify.com/track/0rOoue2YWOY9579CzZZzOc"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
         "url": "https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 222878,
       "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
       "url": "https://open.spotify.com/track/6iIgdvJREEhUmLz9wJnMlw"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Surprise",
-        "url": "https://open.spotify.com/album/5JEELfVybvnrXxwfsN57kg"
-      },
-      "artists": [
-        {
-          "name": "The Color",
-          "url": "https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d"
-        }
-      ],
-      "duration_ms": 193978,
-      "name": "Surprise",
-      "url": "https://open.spotify.com/track/0rOoue2YWOY9579CzZZzOc"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1439,6 +1439,26 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Songs for Every Soul",
+        "url": "https://open.spotify.com/album/494eVpr2xXEPkDxzk5kjbk"
+      },
+      "artists": [
+        {
+          "name": "Firma Collective",
+          "url": "https://open.spotify.com/artist/52MaCDJuPM1dlrCPMOlhmB"
+        },
+        {
+          "name": "Lexi Jones",
+          "url": "https://open.spotify.com/artist/2P43J08xD06ufX2GuJLVT6"
+        }
+      ],
+      "duration_ms": 257399,
+      "name": "Mercy's Tree",
+      "url": "https://open.spotify.com/track/3FTi0FOjEywikC2IkCRHPw"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "The One Where I Talk To God",
         "url": "https://open.spotify.com/album/1npPoXS35aTSLnPW8JAeAz"
       },
@@ -1459,26 +1479,6 @@
       "duration_ms": 205101,
       "name": "The One Where I Talk To God",
       "url": "https://open.spotify.com/track/0AYWhKWWhO4TtbQwvHSCXA"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Songs for Every Soul",
-        "url": "https://open.spotify.com/album/494eVpr2xXEPkDxzk5kjbk"
-      },
-      "artists": [
-        {
-          "name": "Firma Collective",
-          "url": "https://open.spotify.com/artist/52MaCDJuPM1dlrCPMOlhmB"
-        },
-        {
-          "name": "Lexi Jones",
-          "url": "https://open.spotify.com/artist/2P43J08xD06ufX2GuJLVT6"
-        }
-      ],
-      "duration_ms": 257399,
-      "name": "Mercy's Tree",
-      "url": "https://open.spotify.com/track/3FTi0FOjEywikC2IkCRHPw"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/3Da7uQ0supGljmcN9WERGY"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Murray",
-          "url": "https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR"
-        }
-      ],
-      "duration_ms": 207893,
-      "name": "No Other Love",
-      "url": "https://open.spotify.com/track/6S6gRg1USprs9773Ew66ff"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Easy Never Needed You",
         "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 199293,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/5Ce0rF44ZaRjGVCv49ARNG"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/3Da7uQ0supGljmcN9WERGY"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Murray",
+          "url": "https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR"
+        }
+      ],
+      "duration_ms": 207893,
+      "name": "No Other Love",
+      "url": "https://open.spotify.com/track/6S6gRg1USprs9773Ew66ff"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Light of Your Grace",
+        "url": "https://open.spotify.com/album/5sxF80CaSq5Y2buTMXx3eD"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 189307,
+      "name": "Light of Your Grace",
+      "url": "https://open.spotify.com/track/0VjZsR8TQBaUn9f4tND4J6"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/0gj39YFZRHyyle5Z19z5bx"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 164832,
       "name": "The One",
       "url": "https://open.spotify.com/track/0YohiWDcWliS7bDrnjlXHp"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Light of Your Grace",
-        "url": "https://open.spotify.com/album/5sxF80CaSq5Y2buTMXx3eD"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 189307,
-      "name": "Light of Your Grace",
-      "url": "https://open.spotify.com/track/0VjZsR8TQBaUn9f4tND4J6"
     },
     {
       "added_at": "2020-08-13 14:39:00",

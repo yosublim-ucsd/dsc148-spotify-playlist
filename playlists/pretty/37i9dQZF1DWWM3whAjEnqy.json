@@ -1,12 +1,12 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 41522,
+  "num_followers": 41594,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzVjYTdhNDFiYWIwZWVjZWVlNGY2MDBmNzU3ZmNmMzZhOWMxMTkw",
+  "snapshot_id": "MCw0OGM1YzZkMTk4MTgxZDg5MTMxZTU3N2RlMmNlYWU0OWEyYjhmNjRl",
   "tracks": [
     {
       "added_at": "2023-11-15 02:04:48",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Tea & Sympathy",
-        "url": "https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I"
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
       },
       "artists": [
         {
-          "name": "Bernard Fanning",
-          "url": "https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n"
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
         }
       ],
-      "duration_ms": 156280,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/1Up0tMGTc3FKasn7WMrioE"
+      "duration_ms": 273560,
+      "name": "Chateau",
+      "url": "https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -387,18 +387,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Snow",
-        "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
+        "name": "Tea & Sympathy",
+        "url": "https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "Bernard Fanning",
+          "url": "https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n"
         }
       ],
-      "duration_ms": 273560,
-      "name": "Chateau",
-      "url": "https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD"
+      "duration_ms": 156280,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/1Up0tMGTc3FKasn7WMrioE"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "GG",
-        "url": "https://open.spotify.com/album/29zHxPajPzaDJ4CgMVWiHF"
+        "name": "Notion - EP",
+        "url": "https://open.spotify.com/album/42KDvyFS8ZBOxan2uKZuW5"
       },
       "artists": [
         {
-          "name": "Great Gable",
-          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
         }
       ],
-      "duration_ms": 243131,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/2y14MWseQnWXApjJjNCPm8"
+      "duration_ms": 341000,
+      "name": "Notion",
+      "url": "https://open.spotify.com/track/1HTqgP13dorct3BltLaB0l"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Notion - EP",
-        "url": "https://open.spotify.com/album/42KDvyFS8ZBOxan2uKZuW5"
+        "name": "GG",
+        "url": "https://open.spotify.com/album/29zHxPajPzaDJ4CgMVWiHF"
       },
       "artists": [
         {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+          "name": "Great Gable",
+          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
         }
       ],
-      "duration_ms": 341000,
-      "name": "Notion",
-      "url": "https://open.spotify.com/track/1HTqgP13dorct3BltLaB0l"
+      "duration_ms": 243131,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/2y14MWseQnWXApjJjNCPm8"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Keepsake",
-        "url": "https://open.spotify.com/album/4NnnY09KEF7Gnw2rXIb0lU"
-      },
-      "artists": [
-        {
-          "name": "The Dreggs",
-          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
-        }
-      ],
-      "duration_ms": 226999,
-      "name": "Keepsake",
-      "url": "https://open.spotify.com/track/4OAcOb2uobXd9Zu1X9BnEE"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Terra Firma",
         "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 279137,
       "name": "Pretty Lady",
       "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Keepsake",
+        "url": "https://open.spotify.com/album/4NnnY09KEF7Gnw2rXIb0lU"
+      },
+      "artists": [
+        {
+          "name": "The Dreggs",
+          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
+        }
+      ],
+      "duration_ms": 226999,
+      "name": "Keepsake",
+      "url": "https://open.spotify.com/track/4OAcOb2uobXd9Zu1X9BnEE"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n"
-      },
-      "artists": [
-        {
-          "name": "The Waifs",
-          "url": "https://open.spotify.com/artist/5uKeKhwXi2w5cXdtoSaqjz"
-        }
-      ],
-      "duration_ms": 226733,
-      "name": "London Still",
-      "url": "https://open.spotify.com/track/2uoxXaadBpSWEmIXSaVMYi"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "The Art of Escape",
         "url": "https://open.spotify.com/album/1M0Nx2PbPSYksQbHf5fiWn"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 198582,
       "name": "Rusty",
       "url": "https://open.spotify.com/track/1A7fsnhsxxy9mZl8uxqObC"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n"
+      },
+      "artists": [
+        {
+          "name": "The Waifs",
+          "url": "https://open.spotify.com/artist/5uKeKhwXi2w5cXdtoSaqjz"
+        }
+      ],
+      "duration_ms": 226733,
+      "name": "London Still",
+      "url": "https://open.spotify.com/track/2uoxXaadBpSWEmIXSaVMYi"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Vantage Point",
-        "url": "https://open.spotify.com/album/0brAypU3M5W90PnDBs0aGH"
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/0sY90YfWxpjWpnNHV6WxH4"
       },
       "artists": [
         {
-          "name": "Sons of Zion",
-          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
+          "name": "Pacific Avenue",
+          "url": "https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ"
         }
       ],
-      "duration_ms": 179642,
-      "name": "Drift Away",
-      "url": "https://open.spotify.com/track/2XXWxbULM7crzDMiXgcw4Q"
+      "duration_ms": 187228,
+      "name": "Strawberry Daydream",
+      "url": "https://open.spotify.com/track/2I5jfuDTkiWOEFu66lUrgv"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/0sY90YfWxpjWpnNHV6WxH4"
+        "name": "Vantage Point",
+        "url": "https://open.spotify.com/album/0brAypU3M5W90PnDBs0aGH"
       },
       "artists": [
         {
-          "name": "Pacific Avenue",
-          "url": "https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ"
+          "name": "Sons of Zion",
+          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
         }
       ],
-      "duration_ms": 187228,
-      "name": "Strawberry Daydream",
-      "url": "https://open.spotify.com/track/2I5jfuDTkiWOEFu66lUrgv"
+      "duration_ms": 179642,
+      "name": "Drift Away",
+      "url": "https://open.spotify.com/track/2XXWxbULM7crzDMiXgcw4Q"
     }
   ],
   "unique_name": "Coast to Coast",

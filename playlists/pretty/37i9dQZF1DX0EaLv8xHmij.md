@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: ogoin, Linguini
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,621 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,623 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 74 | [Assalto](https://open.spotify.com/track/7Av08EETn21lk2D3u8FQzv) | [Piratha](https://open.spotify.com/artist/0nkpf3kQ1QXRkaRuGDlVvx), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Assalto](https://open.spotify.com/album/1lGelUWFmYdbl8d7WoLhUw) | 2:42 |
 | 75 | [Pelo Prêmio \- Remix](https://open.spotify.com/track/4M6YxopOmUreT4AL5GoGAL) | [MC Murilo ZS](https://open.spotify.com/artist/4cZt4IBdd98Z4D0HcRGppp), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [OG Duke](https://open.spotify.com/artist/3cV6HDJYsR1qKYmJJezmXH) | [Pelo Prêmio \(Remix\)](https://open.spotify.com/album/5l4SkyCYfqFjbjiKcatHQp) | 1:37 |
 
-Snapshot ID: `MCxiNDU0YWM5NDkyMWRmYmVkMDA2MTc4NzM0YmQwNTc4M2Y1YjBkMTIy`
+Snapshot ID: `MCxiMDAxNWUxZjFiYzA2ZTlkMzJjNGE2ZjRiMjhjZDVmMDQwYjM0NDJj`

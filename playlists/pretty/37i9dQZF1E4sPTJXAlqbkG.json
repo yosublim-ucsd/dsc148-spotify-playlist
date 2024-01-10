@@ -1,12 +1,12 @@
 {
   "description": "With Bryson Tiller, Summer Walker, 6LACK and more",
-  "num_followers": 35828,
+  "num_followers": 35871,
   "original_name": "PARTYNEXTDOOR Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Njk0MjBlNThkZDgzODZjMjRkODc1ODJlZmMyYjQ2YTk0Mzg1MDRm",
+  "snapshot_id": "MCxkNTViMDc5YjcwNzY5NGM4NDY4MTllZGUzYmFkZjE5NmVjZmYxZmFh",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Gangsta\u2019s Pain",
-        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 89616,
-      "name": "Love It Here",
-      "url": "https://open.spotify.com/track/0uiHv6ieCOkc9sE9ae3nDJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHASE",
         "url": "https://open.spotify.com/album/2755rVbg8SJCsmTe0FQTLa"
       },
@@ -55,70 +39,6 @@
       "duration_ms": 176531,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/7cLnbmx7ZUWAwyocrKz3wL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IRIS",
-        "url": "https://open.spotify.com/album/5C3hbsQQcuLRh19o3QLWpy"
-      },
-      "artists": [
-        {
-          "name": "Nobu Woods",
-          "url": "https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "FAVORITE",
-      "url": "https://open.spotify.com/track/7v6Qfbr1oFbstzCjDUY0Su"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Life Of Pablo",
-        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 135920,
-      "name": "Father Stretch My Hands Pt. 1",
-      "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2hrs",
-        "url": "https://open.spotify.com/album/0iORCx2m4WsvkXWEGH7LS6"
-      },
-      "artists": [
-        {
-          "name": "tobi lou",
-          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
-        }
-      ],
-      "duration_ms": 64722,
-      "name": "2hrs",
-      "url": "https://open.spotify.com/track/0dGe86ljF6Xi19IxYc7aBn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Larger Than Life",
-        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 82508,
-      "name": "Best Time",
-      "url": "https://open.spotify.com/track/1zgHn1EqUyA0HqNYMdJ5ia"
     },
     {
       "added_at": null,
@@ -139,50 +59,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Day Of Summer",
-        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 92093,
-      "name": "Deep",
-      "url": "https://open.spotify.com/track/3LfHBTYZBTqmz43tvVXJBd"
+      "duration_ms": 89616,
+      "name": "Love It Here",
+      "url": "https://open.spotify.com/track/0uiHv6ieCOkc9sE9ae3nDJ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Fridayy",
-        "url": "https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf"
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
       },
       "artists": [
         {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 168075,
-      "name": "When It Comes To You",
-      "url": "https://open.spotify.com/track/4OzS0O0i88cGeu8YklCHrT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 204316,
-      "name": "Hrs & Hrs",
-      "url": "https://open.spotify.com/track/3ncmoWTwJgx63LwMTyBCXf"
+      "duration_ms": 135920,
+      "name": "Father Stretch My Hands Pt. 1",
+      "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8"
     },
     {
       "added_at": null,
@@ -203,18 +107,82 @@
     {
       "added_at": null,
       "album": {
-        "name": "MASTER",
-        "url": "https://open.spotify.com/album/3WUKQFrLXnp2zeGcJyygkT"
+        "name": "Larger Than Life",
+        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
       },
       "artists": [
         {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 82653,
-      "name": "Note to You",
-      "url": "https://open.spotify.com/track/5Rh7sj1SBzdfjRZJko2L4O"
+      "duration_ms": 82508,
+      "name": "Best Time",
+      "url": "https://open.spotify.com/track/1zgHn1EqUyA0HqNYMdJ5ia"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2hrs",
+        "url": "https://open.spotify.com/album/0iORCx2m4WsvkXWEGH7LS6"
+      },
+      "artists": [
+        {
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        }
+      ],
+      "duration_ms": 64722,
+      "name": "2hrs",
+      "url": "https://open.spotify.com/track/0dGe86ljF6Xi19IxYc7aBn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
+        "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 108131,
+      "name": "Imperfections (Interlude)",
+      "url": "https://open.spotify.com/track/42er1na9BHF1ERol51wg8M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IRIS",
+        "url": "https://open.spotify.com/album/5C3hbsQQcuLRh19o3QLWpy"
+      },
+      "artists": [
+        {
+          "name": "Nobu Woods",
+          "url": "https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "FAVORITE",
+      "url": "https://open.spotify.com/track/7v6Qfbr1oFbstzCjDUY0Su"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fridayy",
+        "url": "https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 168075,
+      "name": "When It Comes To You",
+      "url": "https://open.spotify.com/track/4OzS0O0i88cGeu8YklCHrT"
     },
     {
       "added_at": null,
@@ -251,54 +219,102 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shameless",
-        "url": "https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui"
+        "name": "Last Day Of Summer",
+        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
       },
       "artists": [
         {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 175386,
-      "name": "Shameless",
-      "url": "https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP"
+      "duration_ms": 92093,
+      "name": "Deep",
+      "url": "https://open.spotify.com/track/3LfHBTYZBTqmz43tvVXJBd"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Dark Side",
-        "url": "https://open.spotify.com/album/0FvZIwN0AHWYQVyuS3KR7H"
+        "name": "Self Esteem - #1 Hit (Kisses for Me)",
+        "url": "https://open.spotify.com/album/3c4oSWcwEGxKYIvl9PsnKP"
       },
       "artists": [
         {
-          "name": "Justine Skye",
-          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
+          "name": "Lambo4oe",
+          "url": "https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9"
+        }
+      ],
+      "duration_ms": 128026,
+      "name": "Self Esteem - #1 HIT - Kisses for Me",
+      "url": "https://open.spotify.com/track/3jRDfw9ZpCNuZaMnnfKAEn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 204316,
+      "name": "Hrs & Hrs",
+      "url": "https://open.spotify.com/track/3ncmoWTwJgx63LwMTyBCXf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         },
         {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 260169,
-      "name": "Collide (feat. Tyga)",
-      "url": "https://open.spotify.com/track/5kY2DRIom6dcVZbQb1SAX8"
+      "duration_ms": 278179,
+      "name": "Get You (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
-        "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
+        "name": "MASTER",
+        "url": "https://open.spotify.com/album/3WUKQFrLXnp2zeGcJyygkT"
       },
       "artists": [
         {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 108131,
-      "name": "Imperfections (Interlude)",
-      "url": "https://open.spotify.com/track/42er1na9BHF1ERol51wg8M"
+      "duration_ms": 82653,
+      "name": "Note to You",
+      "url": "https://open.spotify.com/track/5Rh7sj1SBzdfjRZJko2L4O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Turn (Deluxe)",
+        "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 144651,
+      "name": "Low Down",
+      "url": "https://open.spotify.com/track/5m0yZ33oOy0yYBtdTXuxQe"
     },
     {
       "added_at": null,
@@ -315,22 +331,6 @@
       "duration_ms": 123080,
       "name": "TBH",
       "url": "https://open.spotify.com/track/236P5yLtfnHgTMxevc0q6F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Too Late To Die Young",
-        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
-      },
-      "artists": [
-        {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
-        }
-      ],
-      "duration_ms": 119505,
-      "name": "Indonesian Fantasies",
-      "url": "https://open.spotify.com/track/3NktF1rRdORH8FH3p8wKp3"
     },
     {
       "added_at": null,
@@ -367,22 +367,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+        "name": "Shameless",
+        "url": "https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         }
       ],
-      "duration_ms": 278179,
-      "name": "Get You (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
+      "duration_ms": 175386,
+      "name": "Shameless",
+      "url": "https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Too Late To Die Young",
+        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        }
+      ],
+      "duration_ms": 119505,
+      "name": "Indonesian Fantasies",
+      "url": "https://open.spotify.com/track/3NktF1rRdORH8FH3p8wKp3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Too Hard",
+        "url": "https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 162053,
+      "name": "Freestyle",
+      "url": "https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9"
     },
     {
       "added_at": null,
@@ -403,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Race For Love (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 95266,
-      "name": "Demonz (feat. Brent Faiyaz) - Interlude",
-      "url": "https://open.spotify.com/track/06GhyyKkQrMO73qVArgQVH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PARTYNEXTDOOR",
         "url": "https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e"
       },
@@ -435,22 +443,6 @@
       "duration_ms": 114160,
       "name": "Welcome to the Party",
       "url": "https://open.spotify.com/track/5MtMp3OeL7oOeF0WWY4TFT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dreams 2 Reality",
-        "url": "https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 140068,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/3nBTKFlPnXvDPolavpVK5K"
     },
     {
       "added_at": null,
@@ -475,114 +467,74 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHASE",
-        "url": "https://open.spotify.com/album/2755rVbg8SJCsmTe0FQTLa"
+        "name": "Dark Side",
+        "url": "https://open.spotify.com/album/0FvZIwN0AHWYQVyuS3KR7H"
       },
       "artists": [
         {
-          "name": "Aaron May",
-          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
+          "name": "Justine Skye",
+          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 232510,
-      "name": "In Love",
-      "url": "https://open.spotify.com/track/4Sp4AgLbWeqddzY7DNhJFv"
+      "duration_ms": 260169,
+      "name": "Collide (feat. Tyga)",
+      "url": "https://open.spotify.com/track/5kY2DRIom6dcVZbQb1SAX8"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Self Esteem - #1 Hit (Kisses for Me)",
-        "url": "https://open.spotify.com/album/3c4oSWcwEGxKYIvl9PsnKP"
+        "name": "Death Race For Love (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
       },
       "artists": [
         {
-          "name": "Lambo4oe",
-          "url": "https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9"
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 128026,
-      "name": "Self Esteem - #1 HIT - Kisses for Me",
-      "url": "https://open.spotify.com/track/3jRDfw9ZpCNuZaMnnfKAEn"
+      "duration_ms": 95266,
+      "name": "Demonz (feat. Brent Faiyaz) - Interlude",
+      "url": "https://open.spotify.com/track/06GhyyKkQrMO73qVArgQVH"
     },
     {
       "added_at": null,
       "album": {
-        "name": "No Love Lost",
-        "url": "https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9"
+        "name": "Artist",
+        "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
       },
       "artists": [
         {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 146938,
-      "name": "Overrated",
-      "url": "https://open.spotify.com/track/6Fc9IYSkbmVwv4dlzn8hJb"
+      "duration_ms": 128156,
+      "name": "My Shit",
+      "url": "https://open.spotify.com/track/5uQOauh47VFt3B2kV9kRXw"
     },
     {
       "added_at": null,
       "album": {
-        "name": "H.E.R.",
-        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
+        "name": "Too Late To Die Young",
+        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
       },
       "artists": [
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
         }
       ],
-      "duration_ms": 160173,
-      "name": "Every Kind Of Way",
-      "url": "https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 129479,
-      "name": "LOVE YOU BETTER",
-      "url": "https://open.spotify.com/track/4XJRpBOG0bU3Nxnvam3FnC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SremmLife",
-        "url": "https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7"
-      },
-      "artists": [
-        {
-          "name": "Rae Sremmurd",
-          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
-        }
-      ],
-      "duration_ms": 206306,
-      "name": "This Could Be Us",
-      "url": "https://open.spotify.com/track/4jTiyLlOJVJj3mCr7yfPQD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Way It Is",
-        "url": "https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV"
-      },
-      "artists": [
-        {
-          "name": "Keyshia Cole",
-          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
-        }
-      ],
-      "duration_ms": 255333,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq"
+      "duration_ms": 116129,
+      "name": "Mad Riches",
+      "url": "https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9"
     },
     {
       "added_at": null,
@@ -603,18 +555,82 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parked Car Convos",
-        "url": "https://open.spotify.com/album/5CEfb4A8SgiCOY6R7c7s34"
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV"
       },
       "artists": [
         {
-          "name": "Kaash Paige",
-          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
         }
       ],
-      "duration_ms": 148640,
-      "name": "Love Songs - Bonus",
-      "url": "https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv"
+      "duration_ms": 255333,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHASE",
+        "url": "https://open.spotify.com/album/2755rVbg8SJCsmTe0FQTLa"
+      },
+      "artists": [
+        {
+          "name": "Aaron May",
+          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
+        }
+      ],
+      "duration_ms": 232510,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/4Sp4AgLbWeqddzY7DNhJFv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 129479,
+      "name": "LOVE YOU BETTER",
+      "url": "https://open.spotify.com/track/4XJRpBOG0bU3Nxnvam3FnC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Artist 2.0 (Deluxe)",
+        "url": "https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 133331,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/2xB46Bj9HZ4cr058yN4Pla"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ashanti",
+        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 227386,
+      "name": "Foolish",
+      "url": "https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN"
     },
     {
       "added_at": null,
@@ -635,6 +651,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "East Atlanta Love Letter",
+        "url": "https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 207071,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/29ZZAShKhwRUuKULSNtxX6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SremmLife",
+        "url": "https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7"
+      },
+      "artists": [
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        }
+      ],
+      "duration_ms": 206306,
+      "name": "This Could Be Us",
+      "url": "https://open.spotify.com/track/4jTiyLlOJVJj3mCr7yfPQD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Destined 2 Win",
         "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
       },
@@ -651,6 +699,54 @@
       "duration_ms": 205458,
       "name": "Calling My Phone",
       "url": "https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 152480,
+      "name": "ANOTHER DAY",
+      "url": "https://open.spotify.com/track/3SQz76liYsbuuXyNLSLQu1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 169013,
+      "name": "JACKIE BROWN",
+      "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dreams 2 Reality",
+        "url": "https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 140068,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/3nBTKFlPnXvDPolavpVK5K"
     },
     {
       "added_at": null,
@@ -691,98 +787,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/19Tg0DpJK3hdnNRxJhkb6v"
+        "name": "H.E.R.",
+        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
       },
       "artists": [
         {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 133818,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/7o1NOJIVTxUqSY6C9YpPo7"
+      "duration_ms": 160173,
+      "name": "Every Kind Of Way",
+      "url": "https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Too Hard",
-        "url": "https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt"
+        "name": "Parked Car Convos",
+        "url": "https://open.spotify.com/album/5CEfb4A8SgiCOY6R7c7s34"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
         }
       ],
-      "duration_ms": 162053,
-      "name": "Freestyle",
-      "url": "https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 146751,
-      "name": "Great Gatsby",
-      "url": "https://open.spotify.com/track/4M68xjcc42oxyphhzpOWXS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Too Late To Die Young",
-        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
-      },
-      "artists": [
-        {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
-        }
-      ],
-      "duration_ms": 116129,
-      "name": "Mad Riches",
-      "url": "https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 239266,
-      "name": "Wet Dreamz",
-      "url": "https://open.spotify.com/track/4tqcoej1zPvwePZCzuAjJd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ye",
-        "url": "https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 215320,
-      "name": "Violent Crimes",
-      "url": "https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas"
+      "duration_ms": 148640,
+      "name": "Love Songs - Bonus",
+      "url": "https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv"
     },
     {
       "added_at": null,
@@ -803,38 +835,6 @@
       "duration_ms": 121283,
       "name": "Fell In Love",
       "url": "https://open.spotify.com/track/1N8klHEbZ0bFOHnMVs8C9S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Turn (Deluxe)",
-        "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 144651,
-      "name": "Low Down",
-      "url": "https://open.spotify.com/track/5m0yZ33oOy0yYBtdTXuxQe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PARTYMOBILE",
-        "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 152480,
-      "name": "ANOTHER DAY",
-      "url": "https://open.spotify.com/track/3SQz76liYsbuuXyNLSLQu1"
     }
   ],
   "unique_name": "PARTYNEXTDOOR Radio",

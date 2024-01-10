@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 
 > Blues guitar heroes of today\. Cover: Kirk Fletcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,537 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,543 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 | 9 | [Burning Out](https://open.spotify.com/track/5abyTR9t1SuyS8YAQZd6xA) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Spirit Rising](https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H) | 3:28 |
 | 10 | [Chocolate Samurai](https://open.spotify.com/track/0Tnt1pxkoNdX1ZWkRTW8f6) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Have You Lost Your Mind yet?](https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy) | 4:55 |
 | 11 | [The Answer](https://open.spotify.com/track/4gRRWu6UKWASIQzzOzkXUx) | [Tony Spinner](https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z) | [Earth Music for Aliens](https://open.spotify.com/album/1NGrtPLYUBjDEpfguARNe3) | 5:02 |
-| 12 | [Roll With the Punches](https://open.spotify.com/track/5sej6MESWdzGt72FDOXDME) | [Martin Harley](https://open.spotify.com/artist/5jkL6b9FUcXjbl0HV6wxmX) | [Roll With the Punches](https://open.spotify.com/album/1oymNh3Qb6oP1ofEVfx2Q1) | 3:11 |
+| 12 | [You're Everything](https://open.spotify.com/track/7j15tP94x6uPKZFV4rGPz6) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj), [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [In My Soul](https://open.spotify.com/album/11Cry7mbcEQqOUGF2zX6Xk) | 6:05 |
 | 13 | [Crow Jane](https://open.spotify.com/track/2b0ObO7Xk3qzJdMOhJc5c3) | [The Derek Trucks Band](https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn) | [Songlines](https://open.spotify.com/album/1T6rgbl3cemngWpcLC99MH) | 3:53 |
-| 14 | [You're Everything](https://open.spotify.com/track/7j15tP94x6uPKZFV4rGPz6) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj), [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [In My Soul](https://open.spotify.com/album/11Cry7mbcEQqOUGF2zX6Xk) | 6:05 |
+| 14 | [Roll With the Punches](https://open.spotify.com/track/5sej6MESWdzGt72FDOXDME) | [Martin Harley](https://open.spotify.com/artist/5jkL6b9FUcXjbl0HV6wxmX) | [Roll With the Punches](https://open.spotify.com/album/1oymNh3Qb6oP1ofEVfx2Q1) | 3:11 |
 | 15 | [Threw Me to the Wolves](https://open.spotify.com/track/2NyIqmxO95eMwULJLThPPu) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Threw Me to the Wolves \(Revisited\)](https://open.spotify.com/album/3v4mvvhmpHsIHFARPcYHe6) | 3:52 |
 | 16 | [Dirty](https://open.spotify.com/track/0jx10sJgrjmXhDI14fBI79) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Kill Or Be Kind](https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA) | 3:27 |
 | 17 | [Got to Get Up](https://open.spotify.com/track/4UPWcafmoDHKZziDsTumP3) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 2:37 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 | 43 | [Change In Me \(The Rebirth\)](https://open.spotify.com/track/4cZv2MppweMlDEo0p5MF1n) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Middle of the Road](https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL) | 4:37 |
 | 44 | [Gettin Old](https://open.spotify.com/track/706ZgJOItrsyuJFLvh2JKl) | [Michael Landau](https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw) | [Rock Bottom](https://open.spotify.com/album/137DEWrKTsMmQWsixCEyfV) | 3:17 |
 | 45 | [Sweet Tea](https://open.spotify.com/track/6JojEmIb1NMNEGpAlDDKhj) | [Greg Koch](https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC) | [Unrepentant](https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1) | 9:59 |
-| 46 | [Found out the Hard Way](https://open.spotify.com/track/0Nef20YaUTC9xS2zrvtZCO) | [Ben Poole](https://open.spotify.com/artist/3MQuQtVNJG9SchM1l2CTm3) | [Anytime You Need Me](https://open.spotify.com/album/7utRyQ51kDmzNU24doZANL) | 5:52 |
-| 47 | [Bottleneck Stomp](https://open.spotify.com/track/31tYuBrDa4HN45hxSp4Bc6) | [Funkwrench Blues](https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs), [Johnny Stachela](https://open.spotify.com/artist/0S1BmerVaINiJar88KgNzi) | [Bottleneck Stomp](https://open.spotify.com/album/4FQBBIdc4T0fsxHAdnavFC) | 3:21 |
+| 46 | [Bottleneck Stomp](https://open.spotify.com/track/31tYuBrDa4HN45hxSp4Bc6) | [Funkwrench Blues](https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs), [Johnny Stachela](https://open.spotify.com/artist/0S1BmerVaINiJar88KgNzi) | [Bottleneck Stomp](https://open.spotify.com/album/4FQBBIdc4T0fsxHAdnavFC) | 3:21 |
+| 47 | [Found out the Hard Way](https://open.spotify.com/track/0Nef20YaUTC9xS2zrvtZCO) | [Ben Poole](https://open.spotify.com/artist/3MQuQtVNJG9SchM1l2CTm3) | [Anytime You Need Me](https://open.spotify.com/album/7utRyQ51kDmzNU24doZANL) | 5:52 |
 | 48 | [What You’re Made Of](https://open.spotify.com/track/1RxSQxCQKSInGZREvUPjWn) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Signs](https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H) | 4:18 |
 | 49 | [Royal Tea](https://open.spotify.com/track/503MGoC5sPfTvL3cbJsg7P) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Royal Tea](https://open.spotify.com/album/6FsaAloD9oGRXjRKIriR9i) | 4:28 |
-| 50 | [Backbone](https://open.spotify.com/track/4qx9q7xl37ijJrayYyOkRq) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Pressure](https://open.spotify.com/album/6U5r2stVlrkxLZT7dUH4Vg) | 2:48 |
+| 50 | [Groove With Me](https://open.spotify.com/track/1p1A5KPgbC1cXP70BVzo4D) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Chills & Thrills](https://open.spotify.com/album/3CbjgETRjdUvgIJqu7qpZu) | 4:01 |
 
-Snapshot ID: `MCxhNDc0YjJjMTM4MjFiZGQyYTM0OGVhN2M1NDg1N2YyMDdiY2E1ZmFk`
+Snapshot ID: `MCwzZTljMzkxODJlYmFhNGI0NDE2NWY3YTA3NDM2ZTVlNGI0Y2YzMTQ1`

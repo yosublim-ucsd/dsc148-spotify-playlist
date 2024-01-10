@@ -1,12 +1,12 @@
 {
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
-  "num_followers": 913629,
+  "num_followers": 913612,
   "original_name": "Hits ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDc5MWFiNDJlN2VmNjgzYmQzNTc0NGE3NTAzYmY2YWExMmUzNWU0",
+  "snapshot_id": "MCxjOWU4MzkxMDRjODZkZmY4YTg1MGFkN2JjOWVkYTBiYmE3ZDVhYjY5",
   "tracks": [
     {
       "added_at": "2023-11-30 18:27:42",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/7K77V3y6amFewbD01gZhby"
-      },
-      "artists": [
-        {
-          "name": "Ouvindo",
-          "url": "https://open.spotify.com/artist/5L0QMeigP4hG0iVXspQVid"
-        }
-      ],
-      "duration_ms": 217935,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/3Iy7HHDobkkXJuBrSbuoU0"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "When I'm Alone: The Piano Retrospective",
         "url": "https://open.spotify.com/album/1PUJhxsAbBe5UhYjxNbrYA"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 274992,
       "name": "Dreams - Piano Version",
       "url": "https://open.spotify.com/track/7lcUx8bgiwGEn0BHNo3O31"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/7K77V3y6amFewbD01gZhby"
+      },
+      "artists": [
+        {
+          "name": "Ouvindo",
+          "url": "https://open.spotify.com/artist/5L0QMeigP4hG0iVXspQVid"
+        }
+      ],
+      "duration_ms": 217935,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/3Iy7HHDobkkXJuBrSbuoU0"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "All the Lost Souls",
-        "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "1973 - Acoustic",
-      "url": "https://open.spotify.com/track/4DCHszO57DZHgvqalfoITR"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "#Acoustic",
         "url": "https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 157466,
       "name": "Rockabye - Acoustic Version",
       "url": "https://open.spotify.com/track/5nMRpGfqQ0tb1TMbqBVK2J"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "All the Lost Souls",
+        "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "1973 - Acoustic",
+      "url": "https://open.spotify.com/track/4DCHszO57DZHgvqalfoITR"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Blood & Rust",
-        "url": "https://open.spotify.com/album/1FloGVX6YhHXEKWlnFGder"
-      },
-      "artists": [
-        {
-          "name": "Eddie Berman",
-          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
-        }
-      ],
-      "duration_ms": 239133,
-      "name": "Dancing in the Dark",
-      "url": "https://open.spotify.com/track/3IDYyNRmL5npjqm3x6fqjQ"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "Save Tonight",
         "url": "https://open.spotify.com/album/2jHuPMC1tJvcyqvWMrlvQI"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 270698,
       "name": "Save Tonight",
       "url": "https://open.spotify.com/track/110YC8JMSnxlr5dFrtEdiP"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Blood & Rust",
+        "url": "https://open.spotify.com/album/1FloGVX6YhHXEKWlnFGder"
+      },
+      "artists": [
+        {
+          "name": "Eddie Berman",
+          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
+        }
+      ],
+      "duration_ms": 239133,
+      "name": "Dancing in the Dark",
+      "url": "https://open.spotify.com/track/3IDYyNRmL5npjqm3x6fqjQ"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "#Acoustic #2",
-        "url": "https://open.spotify.com/album/2yENbnhh873NzrwFmxYMeO"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Heaven Is a Place on Earth",
-      "url": "https://open.spotify.com/track/674WNL7f5Xo8XxtipzB3ao"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "Chasing Cars",
         "url": "https://open.spotify.com/album/3fH0zVDwnb05Uw4XYHacSj"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 268893,
       "name": "Chasing Cars",
       "url": "https://open.spotify.com/track/5qCAMmVToq2m3snrMX9mKO"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "#Acoustic #2",
+        "url": "https://open.spotify.com/album/2yENbnhh873NzrwFmxYMeO"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Heaven Is a Place on Earth",
+      "url": "https://open.spotify.com/track/674WNL7f5Xo8XxtipzB3ao"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "AOL Sessions",
-        "url": "https://open.spotify.com/album/0lgo7LuUdOfAchJC6KevkH"
-      },
-      "artists": [
-        {
-          "name": "Sixpence None The Richer",
-          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "Kiss Me - AOL Sessions Acoustic Version",
-      "url": "https://open.spotify.com/track/79z7dHVpP3ODaat0CK29db"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "Crazy in Love",
         "url": "https://open.spotify.com/album/3WtUVBD7BEAfA9NjG6LnBk"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 227500,
       "name": "Crazy in Love",
       "url": "https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "AOL Sessions",
+        "url": "https://open.spotify.com/album/0lgo7LuUdOfAchJC6KevkH"
+      },
+      "artists": [
+        {
+          "name": "Sixpence None The Richer",
+          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "Kiss Me - AOL Sessions Acoustic Version",
+      "url": "https://open.spotify.com/track/79z7dHVpP3ODaat0CK29db"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 173680,
-      "name": "Mad World - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "We Can't Stop (Acoustic)",
         "url": "https://open.spotify.com/album/1KfszzDrkQINyxI5oUgCxk"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 178490,
       "name": "We Can't Stop - Acoustic",
       "url": "https://open.spotify.com/track/2nYRexPm8vndayCOHgbovU"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 173680,
+      "name": "Mad World - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -1280,22 +1280,6 @@
       "added_at": "2023-11-30 18:27:42",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6zsyF9yFf1KzJIt4mJJNzj"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 154764,
-      "name": "Have You Ever Seen The Rain - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/1iZdFYJujH9VZtj7c0Xw2y"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1ZleRuxSdLEhoseEcstEN8"
       },
       "artists": [
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Jimmy Gets High",
-        "url": "https://open.spotify.com/album/0ZxjGRDBS5xJaYk7NyN1wC"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6zsyF9yFf1KzJIt4mJJNzj"
       },
       "artists": [
         {
-          "name": "Daniel Powter",
-          "url": "https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 216586,
-      "name": "Bad Day - Acoustic",
-      "url": "https://open.spotify.com/track/5DEdP7MrcgdjXWGHWAeK5I"
+      "duration_ms": 154764,
+      "name": "Have You Ever Seen The Rain - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/1iZdFYJujH9VZtj7c0Xw2y"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -1339,6 +1323,22 @@
       "duration_ms": 156000,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Jimmy Gets High",
+        "url": "https://open.spotify.com/album/0ZxjGRDBS5xJaYk7NyN1wC"
+      },
+      "artists": [
+        {
+          "name": "Daniel Powter",
+          "url": "https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk"
+        }
+      ],
+      "duration_ms": 216586,
+      "name": "Bad Day - Acoustic",
+      "url": "https://open.spotify.com/track/5DEdP7MrcgdjXWGHWAeK5I"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 280827,
-      "name": "When Doves Cry - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "Why Worry: A Collection of Covers",
         "url": "https://open.spotify.com/album/2XB49bxOGV2L6tz6vkwRjT"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 245906,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/2AhqPhQ4E1r9v2i2TfJHR0"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 280827,
+      "name": "When Doves Cry - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/51FVeMKotCRXxe2BKfTVTT"
-      },
-      "artists": [
-        {
-          "name": "Matt Johnson",
-          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
-        }
-      ],
-      "duration_ms": 141142,
-      "name": "Havana - Acoustic",
-      "url": "https://open.spotify.com/track/0P2HFqXUhqvdZ2bS8doDjR"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "Umbrella (Acoustic Version)",
         "url": "https://open.spotify.com/album/1T16ylIh3VPIFFi65OutI6"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 178319,
       "name": "Umbrella - Acoustic Version",
       "url": "https://open.spotify.com/track/1hrDzrt4YgZdD67MOu5U0Q"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/51FVeMKotCRXxe2BKfTVTT"
+      },
+      "artists": [
+        {
+          "name": "Matt Johnson",
+          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
+        }
+      ],
+      "duration_ms": 141142,
+      "name": "Havana - Acoustic",
+      "url": "https://open.spotify.com/track/0P2HFqXUhqvdZ2bS8doDjR"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Acoustic In Nashville - Bootleg No. 2",
-        "url": "https://open.spotify.com/album/7JnRIaA7a4XHmZBCAhPvqp"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 269946,
-      "name": "How to Save a Life - Live in Nashville, TN - December 2006",
-      "url": "https://open.spotify.com/track/32N3bQcpqADdTGKTHBq5px"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "If I Ain't Got You (Remixes)",
         "url": "https://open.spotify.com/album/09Hv0TDIjHuPFymQjOTmsX"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 231653,
       "name": "If I Ain't Got You - Piano & Vocal Version",
       "url": "https://open.spotify.com/track/7tyBkTQUkczW7SMXYjc2GH"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Acoustic In Nashville - Bootleg No. 2",
+        "url": "https://open.spotify.com/album/7JnRIaA7a4XHmZBCAhPvqp"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 269946,
+      "name": "How to Save a Life - Live in Nashville, TN - December 2006",
+      "url": "https://open.spotify.com/track/32N3bQcpqADdTGKTHBq5px"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Once In a While (Acoustic)",
-        "url": "https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ"
-      },
-      "artists": [
-        {
-          "name": "Timeflies",
-          "url": "https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p"
-        }
-      ],
-      "duration_ms": 231582,
-      "name": "Once In a While - Acoustic",
-      "url": "https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/7tIOWu8jlPjnzDIGmDrjSY"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 178202,
       "name": "Stay",
       "url": "https://open.spotify.com/track/3SHg4VamqiJkGSU5o4zEaD"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Once In a While (Acoustic)",
+        "url": "https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ"
+      },
+      "artists": [
+        {
+          "name": "Timeflies",
+          "url": "https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p"
+        }
+      ],
+      "duration_ms": 231582,
+      "name": "Once In a While - Acoustic",
+      "url": "https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD"
     },
     {
       "added_at": "2023-11-30 18:27:42",

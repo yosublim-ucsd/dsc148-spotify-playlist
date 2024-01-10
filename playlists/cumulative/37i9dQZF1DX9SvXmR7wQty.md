@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Noé Preszow
 
-2,247 songs - 5 day 0 hr 1 min
+2,249 songs - 5 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@
 | [BORZ](https://open.spotify.com/track/6TmTT5LTgRhUJnrcVxEQbu) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [BORZ](https://open.spotify.com/album/5FqBAMucRODTGofbdZhEGo) | 2:16 | 2023-06-16 | 2023-08-26 |
 | [Bosseur \(feat\. Tiakola\)](https://open.spotify.com/track/2rsXI0FAVX6fP70IvpwMcn) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LMDB](https://open.spotify.com/album/3o1net35E68el0fmiQO0Jx) | 2:56 | 2022-12-16 | 2023-01-21 |
 | [BOSSLAB](https://open.spotify.com/track/3slmbjKKWuyQUKHzbZPbEc) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV) | [BOSSLAB](https://open.spotify.com/album/6OOu5f0k8Fa4bwSPjMm2oQ) | 4:32 | 2023-03-10 | 2023-03-25 |
-| [Bougez](https://open.spotify.com/track/2NmHMbZ6LRvyvTY0nbalfg) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Que ta tête fleurisse toujours](https://open.spotify.com/album/2FuPctpcSia7TyA1liF27u) | 3:17 | 2023-12-08 |  |
+| [Bougez](https://open.spotify.com/track/2NmHMbZ6LRvyvTY0nbalfg) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Que ta tête fleurisse toujours](https://open.spotify.com/album/2FuPctpcSia7TyA1liF27u) | 3:17 | 2023-12-08 | 2024-01-10 |
 | [Boulevard Alexandre](https://open.spotify.com/track/3nDmcZ3bJQoc3kITSjocoE) | [Heïka](https://open.spotify.com/artist/4qxlfgk1WmgpadIa5sVC61) | [Boulevard Alexandre](https://open.spotify.com/album/7qK4fRCeA00Jnvcp6bTknx) | 2:55 | 2022-02-25 | 2022-03-05 |
 | [Boum Boum](https://open.spotify.com/track/2XstsXzqwfc2jQ4E4n6uQr) | [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Boum Boum](https://open.spotify.com/album/1q509IKPQ6HBnzlCopgkCS) | 2:40 | 2022-08-19 | 2022-09-03 |
 | [Bouquet](https://open.spotify.com/track/1TfdEU6Y6kvBk1AcJ3dc0G) | [Keith Kouna](https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK) | [Bouquet](https://open.spotify.com/album/4H9b5KTywUg9esadnVpY0a) | 2:51 | 2023-02-17 | 2023-03-04 |
@@ -1321,7 +1321,7 @@
 | [Mama](https://open.spotify.com/track/63lZCrUiCmSU2ofO0AcCKs) | [Kosla](https://open.spotify.com/artist/0WEnusOFYWy1WdoyeSPC72), [808 Delavega](https://open.spotify.com/artist/3dPuXCO7uQLHphYgFzUXCJ) | [Mama](https://open.spotify.com/album/1RJS9HVhlZucCIXiBmC6Xo) | 3:32 | 2023-02-24 | 2023-03-11 |
 | [Maman](https://open.spotify.com/track/5FwtloM8eGWtqPtglVcqfX) | [pataugeoire](https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Maman](https://open.spotify.com/album/21Yoob2SRAwz7aDHDWf7qr) | 3:31 | 2023-11-24 | 2023-12-02 |
 | [maman](https://open.spotify.com/track/5Nr5MNAlmvFw2z7LQV1C6F) | [White Migz](https://open.spotify.com/artist/2HLKLDXuuQlYM5YxZ21rN8), [Whitie](https://open.spotify.com/artist/0i91b2mJ9VCTPDvBEmOTID) | [vie rapide](https://open.spotify.com/album/3B4fTEOw0x0ku2woLbPop2) | 2:30 | 2023-02-10 | 2023-02-25 |
-| [Maman savait](https://open.spotify.com/track/2rWe6Sf38aKWjmP6hTIy9U) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY) | [Maman savait](https://open.spotify.com/album/5lDkKa1xngzmFwJou4LLFH) | 2:58 | 2023-11-24 |  |
+| [Maman savait](https://open.spotify.com/track/2rWe6Sf38aKWjmP6hTIy9U) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY) | [Maman savait](https://open.spotify.com/album/5lDkKa1xngzmFwJou4LLFH) | 2:58 | 2023-11-24 | 2024-01-10 |
 | [Mambo](https://open.spotify.com/track/6jENkrUkcJ96UHsCrYrAdt) | [Soraï](https://open.spotify.com/artist/38SOUOhlDoh1y9dHlGDbTL) | [Mambo](https://open.spotify.com/album/56azZerCoXBxVvvZ3lofnf) | 2:38 | 2022-04-29 | 2022-05-07 |
 | [Mandarine](https://open.spotify.com/track/5ZIpjXSsmSigTX6UY0lkCb) | [Carla Chanelle](https://open.spotify.com/artist/6fcQmWO5XTN7ScLmwHYUil) | [Sur nos joues](https://open.spotify.com/album/60WvnemKPicPjBiyCTMjjM) | 2:53 | 2022-03-25 | 2022-04-09 |
 | [Manhattan](https://open.spotify.com/track/5e3g0TcgR49Kw7TG6E2z1g) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [Manhattan](https://open.spotify.com/album/1isnBBe4E6mC70DBwaxIhZ) | 4:03 | 2022-01-07 | 2022-01-22 |
@@ -1376,6 +1376,7 @@
 | [Mise à jour](https://open.spotify.com/track/3eGFT7BKQA2aYb9Iso7tny) | [Lefa](https://open.spotify.com/artist/25yJrwrn5I0EUdQEiTtNSO) | [Mise à jour](https://open.spotify.com/album/35GPE8CCPdS3lF7gKqx6td) | 3:09 | 2022-02-11 | 2022-02-19 |
 | [Misunderstood](https://open.spotify.com/track/6uqdKP6QZIlAaVqyZP6krW) | [DARY](https://open.spotify.com/artist/7vfo5uAqkgpHfgTW2LmSPG) | [HAINE MOI](https://open.spotify.com/album/74rD7TMXbDIRygW8MiWbjD) | 3:48 | 2022-01-21 | 2022-02-05 |
 | [Mode Avion](https://open.spotify.com/track/2OwCPUafRzulE8CyB0WQMY) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Mode Avion](https://open.spotify.com/album/7oSVJPi9zgjRavK3z0xB4H) | 3:17 | 2023-06-02 | 2023-06-04 |
+| [MODE HARDCORE](https://open.spotify.com/track/4eZMdTv092lmLcM2WI0SDo) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6), [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [HOOD VOLUME.1](https://open.spotify.com/album/2rQCbziMJIbDjxDKS8ylFu) | 3:25 | 2024-01-05 |  |
 | [Moi ton roi](https://open.spotify.com/track/6CDBVkl15CLJtJaV2nGWmG) | [Andy Rubal](https://open.spotify.com/artist/4nRoe1vDJD1os7rUJE3Xko), [Florence K](https://open.spotify.com/artist/3jzd2uHziBQ9u48OSMf7hs) | [Moi ton roi](https://open.spotify.com/album/7D9mpmv7oZ2rzuccAYGdRx) | 3:24 | 2022-03-18 | 2022-04-02 |
 | [Moins gris](https://open.spotify.com/track/4NtWeW8n4PMKJ1mDCXBjhM) | [France D'Amour](https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI), [Racine](https://open.spotify.com/artist/0I13lICRFvxtXPuBcfsXlt), [Doug St\-Louis](https://open.spotify.com/artist/2VMTgonmhFkFL983IgSUaX) | [Moins gris](https://open.spotify.com/album/2iOJC8M8cKBZpgC7eqwfJc) | 2:52 | 2023-03-17 | 2023-03-25 |
 | [Moitié plein](https://open.spotify.com/track/15tb8Of2C5NujvAYSWyXao) | [Mantisse](https://open.spotify.com/artist/20iPdUZMRpNULtRfv9mJP7) | [Colin\-Maillard](https://open.spotify.com/album/3ndgfqyim4BNv0ATiLLQ7b) | 3:15 | 2022-09-16 | 2022-10-01 |
@@ -2105,6 +2106,7 @@
 | [Un soleil toujours](https://open.spotify.com/track/5KhCP2DLXDDU9tafzlIBkx) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Un soleil toujours](https://open.spotify.com/album/6avw1J81JLd37DlFUY2wqh) | 3:13 | 2022-09-16 | 2022-10-01 |
 | [un éclair](https://open.spotify.com/track/5uEzrvqzjcipm93HJiqmph) | [Lonepsi](https://open.spotify.com/artist/5iu7PzNW2d8xKOE8IsXgef) | [un éclair](https://open.spotify.com/album/0el34t2unKQygmPNV8vQ6D) | 3:30 | 2023-05-05 | 2023-06-13 |
 | [Une autre vie](https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Une autre vie](https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z) | 3:25 | 2023-05-05 | 2023-06-04 |
+| [Une bonne santé et grave des lards](https://open.spotify.com/track/7Fwchv4I4XW5n57awYvOaj) | [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [Une bonne santé et grave des lards](https://open.spotify.com/album/53VqpYsft2TQFjWg1eqo9f) | 2:57 | 2024-01-05 |  |
 | [Une jument pour toi ma chérie \- From "C'est comme ça que je t'aime"](https://open.spotify.com/track/5UyxUq4mgFQMLyHBYaWcMd) | [Sylvain Cossette](https://open.spotify.com/artist/660PvqDaksGwQPFLbAy7pb) | [Une jument pour toi ma chérie \(From "C'est comme ça que je t'aime"\)](https://open.spotify.com/album/5DblDY3o3ZZRCB2rekL5MB) | 3:33 | 2022-04-22 | 2022-05-07 |
 | [Une équipe](https://open.spotify.com/track/7e4hmTXOKlmZSBbUhPPF2Z) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [Une équipe](https://open.spotify.com/album/1ct2biHjYjcx7A7dMcFhTB) | 3:17 | 2022-04-22 | 2022-05-07 |
 | [Unlock](https://open.spotify.com/track/1LeljbSErkzy5F2oCggp7e) | [YUYU](https://open.spotify.com/artist/7AKP5OQLpIiuPLGQ7d4Seh) | [Dauphin](https://open.spotify.com/album/1kOWyINVbOrY1aVqZiKU8Q) | 4:48 | 2023-01-27 | 2023-02-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,686 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,741 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [Pick Up The Pieces](https://open.spotify.com/track/63OEtoCA6gPrkeqe68xsN7) | [The Royals](https://open.spotify.com/artist/3wbKJbdbAOOAvNyJQjGfNn) | [Studio One Groups](https://open.spotify.com/album/3vFEdqMMbJas3yRrxcBtUo) | 3:09 |
 | 60 | [Reggae Version](https://open.spotify.com/track/7gnGakKfPtbXTDh9zoj1r4) | [Drum Bago and Rebel Group](https://open.spotify.com/artist/0BoSjN4E9chFiBI118KLwM) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 3:00 |
 
-Snapshot ID: `MCxlNTFiNGYzM2ExMGVjY2MxMTIyODRjZmY0N2VlZDQ0MjQ3YzJhOTBh`
+Snapshot ID: `MCwyNDM5OTQzZDgzYmIxYjJiMDMxYTM0MTZlZmM0MWUyNTVlNWNlNzQ4`

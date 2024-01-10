@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 
 > Músicas que fazem de qualquer hora, a mais perfeita para um baile! Foto: Carlos Dafé
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,638 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,658 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 | 55 | [Coroné Antonio Bento](https://open.spotify.com/track/5GzX9ZgX16D1F2her7bEsv) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia 1970](https://open.spotify.com/album/7HjYI9iWYOsEEvBhyCva66) | 2:11 |
 | 56 | [Funkin' for Jamaica](https://open.spotify.com/track/0xbkxTqSaW5blsYgRXpB5I) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Funkin' For Jamaica](https://open.spotify.com/album/3QEAp1Cp3DQq6QcQD90arq) | 4:40 |
 | 57 | [Pass The Peas](https://open.spotify.com/track/62rSpnxXl2lXDevp1z583x) | [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [James Brown's Funky People](https://open.spotify.com/album/5ytMVOR2Moy8hu7Tx1hee2) | 3:11 |
-| 58 | [Do You Love What You Feel](https://open.spotify.com/track/7fYozX6MaNmfHoGW7bFTdK) | [Rufus & Chaka Khan](https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm) | [Masterjam](https://open.spotify.com/album/2myey2664YObEQ2hs2YJeE) | 4:29 |
-| 59 | [Devotion](https://open.spotify.com/track/2RH61BqMEeRjfND7MQBWHU) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Open Our Eyes](https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0) | 4:50 |
+| 58 | [Devotion](https://open.spotify.com/track/2RH61BqMEeRjfND7MQBWHU) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Open Our Eyes](https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0) | 4:50 |
+| 59 | [Do You Love What You Feel](https://open.spotify.com/track/7fYozX6MaNmfHoGW7bFTdK) | [Rufus & Chaka Khan](https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm) | [Masterjam](https://open.spotify.com/album/2myey2664YObEQ2hs2YJeE) | 4:29 |
 | 60 | [Na Rua, Na Chuva, Na Fazenda \(Casinha De Sapê\)](https://open.spotify.com/track/1A4Hcus0L5Wt3us3atsVTk) | [Hyldon](https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY) | [Na Rua, Na Chuva, Na Fazenda](https://open.spotify.com/album/5RyGjTmlcwDBaVbFeZrTld) | 3:32 |
 | 61 | [What Cha' Gonna Do for Me](https://open.spotify.com/track/7e176FKv7cq6SG9EXYMLoQ) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [What Cha' Gonna Do for Me](https://open.spotify.com/album/6elTNQdWmobPp0QGEPwPMc) | 3:54 |
 | 62 | [Harvest for the World, Pt\. 1 \- Single Version](https://open.spotify.com/track/0fl2MichhIDeOYQOCce7GW) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Harvest for the World](https://open.spotify.com/album/58XKhn9fkCegBnfZwW4JtJ) | 3:31 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 | 72 | [Que Beleza](https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia](https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8) | 3:28 |
 | 73 | [Mr\. Funky samba](https://open.spotify.com/track/4SXWXupjFY49tbQWCG5rFf) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Maria Fumaça \(Remasterizado\)](https://open.spotify.com/album/7KoQPmHEfDU7Sf61BfkhgG) | 3:39 |
 | 74 | [Got My Mojo Workin'](https://open.spotify.com/track/7i8YfqTfMuGrADrOQTigrb) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [Got My Mojo Workin'](https://open.spotify.com/album/7M0FL4rB8lWBzMQXzyhuiO) | 8:02 |
-| 75 | [Betcha Wouldn't Hurt Me \- Extended Version](https://open.spotify.com/track/4WvU1mDTPDRJ349kqLK9OH) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [The Dude](https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0) | 3:46 |
-| 76 | [She's A Bad Mama Jama \(She's Built, She's Stacked\) \- Single Version](https://open.spotify.com/track/653JGGOVbV5iQsCSgQcQdi) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Funk Classics The 80's](https://open.spotify.com/album/2YfukrPJcXMeU05FWVAB5Q) | 3:54 |
+| 75 | [She's A Bad Mama Jama \(She's Built, She's Stacked\) \- Single Version](https://open.spotify.com/track/653JGGOVbV5iQsCSgQcQdi) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Funk Classics The 80's](https://open.spotify.com/album/2YfukrPJcXMeU05FWVAB5Q) | 3:54 |
+| 76 | [Betcha Wouldn't Hurt Me \- Extended Version](https://open.spotify.com/track/4WvU1mDTPDRJ349kqLK9OH) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [The Dude](https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0) | 3:46 |
 | 77 | [Olha Eu Aqui Oh! Oh! Oh!...](https://open.spotify.com/track/2KQF7yoMJw9C5KnoKPd1Kr) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Eva](https://open.spotify.com/album/2LPm1l02jbRkixf0brUFfP) | 2:46 |
 | 78 | [Manhã](https://open.spotify.com/track/6Pr8fOfppj8C6qpkAYDDzE) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx) | [Azimüth](https://open.spotify.com/album/1q5loxqHL3JmsQ9zxBTw6f) | 3:45 |
 | 79 | [I'm In Love](https://open.spotify.com/track/5IhBjmG7k7z9HVkvPl17N5) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [I'm In Love \(Expanded Edition\)](https://open.spotify.com/album/5SZVTXdGx4zFBQqTxVXUcE) | 5:05 |
@@ -91,11 +91,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 | 81 | [Jacaranda](https://open.spotify.com/track/1kZ1Zm6zFYxypwn4GVQz4S) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Jacaranda](https://open.spotify.com/album/574GqifDRYz5907qCC7TgU) | 4:09 |
 | 82 | [Somebody's Else's Guy](https://open.spotify.com/track/30cx30IqPRCZCFwObudwYb) | [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [Classics Funky Music, Vol\. 2](https://open.spotify.com/album/79GSZ1xDApKaw6BHNW5yly) | 6:29 |
 | 83 | [You Are My Heaven \(feat\. Donny Hathaway\)](https://open.spotify.com/track/36Lo6DYzqyGLVFoPQSspmF) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 4:14 |
-| 84 | [A Night to Remember \- Single Version](https://open.spotify.com/track/3LDefGtx6L0wV6u8zckjUu) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [A Night to Remember](https://open.spotify.com/album/3OYXhFsRdeQZHuFbL7amMc) | 3:31 |
-| 85 | [Homem Pássaro](https://open.spotify.com/track/1Uqv00LUu1Tcc88ODusHbH) | [Hyldon](https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY) | [Deus, A Natureza E A Música](https://open.spotify.com/album/0bDXy2W26ogvTl4tWPwWqm) | 4:00 |
+| 84 | [Homem Pássaro](https://open.spotify.com/track/1Uqv00LUu1Tcc88ODusHbH) | [Hyldon](https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY) | [Deus, A Natureza E A Música](https://open.spotify.com/album/0bDXy2W26ogvTl4tWPwWqm) | 4:00 |
+| 85 | [A Night to Remember \- Single Version](https://open.spotify.com/track/3LDefGtx6L0wV6u8zckjUu) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [A Night to Remember](https://open.spotify.com/album/3OYXhFsRdeQZHuFbL7amMc) | 3:31 |
 | 86 | [BR\-3](https://open.spotify.com/track/46K2Fg0qmy9wOzozHWSV2Q) | [Toni Tornado](https://open.spotify.com/artist/6HnFUvKuOXAxQBT7GI99yZ) | [B.R.3](https://open.spotify.com/album/2emB3ekuPrMS6pxhIPv9ij) | 3:02 |
-| 87 | [Central Do Brasil](https://open.spotify.com/track/6Cy5en1wAlQmvORoWYiWWK) | [Cassiano](https://open.spotify.com/artist/23E2hrdvZnKUYpNZRIxhjx) | [Cuban Soul: 18 Kilates](https://open.spotify.com/album/2DTcOvJhcTPDoI0LU7zE18) | 3:41 |
-| 88 | [O Ganso](https://open.spotify.com/track/7jIIAt8UbkGoqIaIl5SZDY) | [Ed Lincoln](https://open.spotify.com/artist/0wYxlxMUxoFfy6MxiDwTpU) | [Ed Lincoln](https://open.spotify.com/album/2XY7GAKG42EYKezC8SKuon) | 2:40 |
+| 87 | [O Ganso](https://open.spotify.com/track/7jIIAt8UbkGoqIaIl5SZDY) | [Ed Lincoln](https://open.spotify.com/artist/0wYxlxMUxoFfy6MxiDwTpU) | [Ed Lincoln](https://open.spotify.com/album/2XY7GAKG42EYKezC8SKuon) | 2:40 |
+| 88 | [Central Do Brasil](https://open.spotify.com/track/6Cy5en1wAlQmvORoWYiWWK) | [Cassiano](https://open.spotify.com/artist/23E2hrdvZnKUYpNZRIxhjx) | [Cuban Soul: 18 Kilates](https://open.spotify.com/album/2DTcOvJhcTPDoI0LU7zE18) | 3:41 |
 | 89 | [Attitudes](https://open.spotify.com/track/2wQHAiXNc8bDYppw0LQPMF) | [The Bar\-Kays](https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5) | [Greatest Hits](https://open.spotify.com/album/7vBTwTT9MZ2JLzY4yahWDS) | 3:30 |
 | 90 | [Robot Man \- Vinyl Edit Version](https://open.spotify.com/track/6myAJZFY7NYLCF8fJIIciU) | [Marcelinho Backspin](https://open.spotify.com/artist/75lcNc72emAl0sY7NR5xG4), [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf) | [Robot Man \(Vinyl Edit Version\)](https://open.spotify.com/album/3cVvm1DlqO4UVsoQzjjbRw) | 3:43 |
 | 91 | [Guanabara](https://open.spotify.com/track/1by3i1h2a8G3trGaM8rh9M) | [Dom Salvador & Abolição](https://open.spotify.com/artist/0Aanlviesqoy29lgsP9OC6) | [Série Samba Soul](https://open.spotify.com/album/6D52C2o93yMKyXqOiXRd3A) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 | 99 | [Ngiculela\-Es Una Historia\-I Am Singing](https://open.spotify.com/track/49jWPMEvoGPNRYSd4vEXSo) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:48 |
 | 100 | [Jhony](https://open.spotify.com/track/2w6y4oJAWTzoLuG7GnIlyb) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Disco Club](https://open.spotify.com/album/5D5OGW1c4enqcI9fqs1XWt) | 2:19 |
 
-Snapshot ID: `MCwwMmIxMTc0YWEzYWM1YzdlM2M5MDk2ODNmZGQzNDhmYWY4YTdhYWRi`
+Snapshot ID: `MCw2YjgyZmM2MDFmN2IxNGRkMGVhNjQ5M2U4ZmY2MzhiZjFkYTQwYTVl`

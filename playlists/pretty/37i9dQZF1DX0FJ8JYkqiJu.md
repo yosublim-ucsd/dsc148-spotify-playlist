@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 
 > Tune in, bliss out
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,699 likes - 70 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,575 likes - 70 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,16 +61,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 51 | [Grapevine](https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Grapevine](https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU) | 6:21 |
 | 52 | [Oceanside Girl](https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Oceanside Girl](https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv) | 5:19 |
 | 53 | [Raye](https://open.spotify.com/track/5tsVgtKdAfKGcVIcCHvyxe) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Raye](https://open.spotify.com/album/55XutLIxmTUmwwFydXTBZ4) | 4:50 |
-| 54 | [Alone](https://open.spotify.com/track/1dgmyjd5qciNDLQcVd1aln) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Alone](https://open.spotify.com/album/0tdmeX1Dul9IyOVpVIy8Lt) | 3:50 |
-| 55 | [Falling](https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby) | [Falling](https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS) | 3:17 |
-| 56 | [Ask](https://open.spotify.com/track/1QDfa76GouFESAc6e9xI7l) | [Dual Sessions](https://open.spotify.com/artist/62G1LvBKkkl7sLHqrGbAcp), [Style Project](https://open.spotify.com/artist/1vWOhY2gsar5XKVJqBfdrh) | [Ask](https://open.spotify.com/album/4FkzJu0EGu2Y5zz7XQpQQD) | 2:20 |
-| 57 | [Blue](https://open.spotify.com/track/15oqkxMUZc8vrA7D2aV81v) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Blue](https://open.spotify.com/album/3DD7MzX5oOQhkOUpJhGIIP) | 3:26 |
+| 54 | [Blue](https://open.spotify.com/track/15oqkxMUZc8vrA7D2aV81v) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Blue](https://open.spotify.com/album/3DD7MzX5oOQhkOUpJhGIIP) | 3:26 |
+| 55 | [Alone](https://open.spotify.com/track/1dgmyjd5qciNDLQcVd1aln) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Alone](https://open.spotify.com/album/0tdmeX1Dul9IyOVpVIy8Lt) | 3:50 |
+| 56 | [Falling](https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby) | [Falling](https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS) | 3:17 |
+| 57 | [Ask](https://open.spotify.com/track/1QDfa76GouFESAc6e9xI7l) | [Dual Sessions](https://open.spotify.com/artist/62G1LvBKkkl7sLHqrGbAcp), [Style Project](https://open.spotify.com/artist/1vWOhY2gsar5XKVJqBfdrh) | [Ask](https://open.spotify.com/album/4FkzJu0EGu2Y5zz7XQpQQD) | 2:20 |
 | 58 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 |
 | 59 | [Waves](https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM) | [Abroad](https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft) | [Waves](https://open.spotify.com/album/6SJ4vAeTsekxlFQDK4ciDu) | 4:02 |
 | 60 | [If Love Is A Skill](https://open.spotify.com/track/4w5uos4sTvjQeg8ofXtBm8) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [If Love Is A Skill & Georgia](https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1) | 3:37 |
 | 61 | [Rolling Back](https://open.spotify.com/track/335EcT0oI5889ZgM0q413d) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Rolling Back \(Durante Remix\)](https://open.spotify.com/album/1GiOPy7dvYrVMRwMPsprlT) | 3:58 |
-| 62 | [Nobody Scared](https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Baby Face](https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe) | 3:39 |
-| 63 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 |
+| 62 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 |
+| 63 | [Nobody Scared](https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Baby Face](https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe) | 3:39 |
 | 64 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 |
 | 65 | [Kong](https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mirage](https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv) | 4:47 |
 | 66 | [Inhale / Exhale \(with Sabrina Claudio\)](https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Inhale / Exhale \(with Sabrina Claudio\)](https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c) | 2:48 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 69 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 |
 | 70 | [Something Real](https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Loner](https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq) | 3:49 |
 
-Snapshot ID: `MCw5NDhiN2FjNTliYzMzMTFjMDI1ZjlkZmYwZmRjMDkzYWUwZDhkMGRj`
+Snapshot ID: `MCxkODgzNDlhYzQxZThjOGU4NTFiZDdmOThkNjEyN2RiOGQ1OGIwNmYy`

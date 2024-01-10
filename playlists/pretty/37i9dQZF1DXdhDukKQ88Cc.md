@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > dk rap der holder det 100
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,500 likes - 67 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,447 likes - 67 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 3 | [FORSVINDER \(feat\. Gobs\)](https://open.spotify.com/track/2aNMkT86YjYPlKujUiHYbS) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [FORSVINDER \(feat\. Gobs\)](https://open.spotify.com/album/0Xhp7Kgke0OveQaVRMkJwW) | 2:40 |
 | 4 | [Danser Med Dæmoner](https://open.spotify.com/track/5BKvRShfSfa1phRGEKkSvb) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC), [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Danser Med Dæmoner](https://open.spotify.com/album/0ylIK3wZr5wKMixNJxrqNy) | 2:41 |
 | 5 | [For Life](https://open.spotify.com/track/0WsFZJppZyqnjW63zGLQzH) | [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Championship](https://open.spotify.com/album/7imt3ZtPP755cCvwrSCsjC) | 2:36 |
-| 6 | [North Face](https://open.spotify.com/track/5WfPaCdvCn5UhXKtEbGSb3) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [North Face](https://open.spotify.com/album/4JG2B8OtZHx2Q8s4HGHnkz) | 2:40 |
+| 6 | [North Face \(feat\. Lamin\)](https://open.spotify.com/track/5WfPaCdvCn5UhXKtEbGSb3) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [North Face \(feat\. Lamin\)](https://open.spotify.com/album/4JG2B8OtZHx2Q8s4HGHnkz) | 2:40 |
 | 7 | [New York City](https://open.spotify.com/track/3HLVXuHXqFi9x7QCoFWbzF) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [New York City](https://open.spotify.com/album/7eDqc9IAUhWSitkF7M6cc9) | 2:22 |
 | 8 | [Skarpt Lys](https://open.spotify.com/track/5k5Z5TCOy6s0G48mm2X4Tb) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kiko Club](https://open.spotify.com/album/1CnKG0vmRTZkG0oxwIZnc3) | 3:03 |
 | 9 | [GIVE IT 2 ME](https://open.spotify.com/track/7kOe99207cdyOlLHKy65SA) | [GMG](https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7) | [GIVE IT 2 ME](https://open.spotify.com/album/56UICC9UdmC7iMZsvKExBu) | 2:04 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 66 | [Draco](https://open.spotify.com/track/5G02IArmAsqcU3yTdLxZRN) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [Draco](https://open.spotify.com/album/10FjouEsDArE1pce1q6j7v) | 2:13 |
 | 67 | [Internazionale \(feat\. Magzim\)](https://open.spotify.com/track/4ymwixcQXSHyAY5Af4bvr8) | [Emil Stabil](https://open.spotify.com/artist/2toxhc2iSbFHWgy3VMnqR7), [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Internazionale \(feat\. Magzim\)](https://open.spotify.com/album/3YON54IWdqFWos7oNwoiiG) | 2:34 |
 
-Snapshot ID: `MCw2NmYxMjk1N2E0MThhZTkzZTZhNjE4MmNkNjA5Y2M2ZjE1YWMwZmUz`
+Snapshot ID: `MCwyNjNiYzIwOGM4ZWExMGM1NDY2NDY5MzY2NmViZjUyMDhhOWZlNDIw`

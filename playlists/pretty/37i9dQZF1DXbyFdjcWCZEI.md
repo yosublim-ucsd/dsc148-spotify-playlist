@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyFdjcWCZEI.md) - [plain]
 
 > Viento en la cara, pies en el agua y canciones tranqui para disfrutar del paseo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,980 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,044 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyFdjcWCZEI.md) - [plain]
 | 25 | [Nuez](https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nuez](https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT) | 3:32 |
 | 26 | [HOY SOMOS NUEVOS SERES \(MASTER 2\)](https://open.spotify.com/track/4xvItApfGEtsIs8zY8BrEX) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [ESTO NO TIENE NADA QUE VER CON eduardo](https://open.spotify.com/album/1DcIhob7podzXMZMcvBcOj) | 3:24 |
 | 27 | [El Duelo](https://open.spotify.com/track/1QYBZjQIHuWRRdKQ5An6jP) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [El Duelo](https://open.spotify.com/album/3gRWgjHNPIxtZmRLBYOQTu) | 4:17 |
-| 28 | [PELÍCULA](https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [PELÍCULA](https://open.spotify.com/album/0F5ZesfEwl0qPpjnaEzG1L) | 3:13 |
-| 29 | [Mar](https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Mar](https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2) | 3:58 |
+| 28 | [Mar](https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Mar](https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2) | 3:58 |
+| 29 | [PELÍCULA](https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [PELÍCULA](https://open.spotify.com/album/0F5ZesfEwl0qPpjnaEzG1L) | 3:13 |
 | 30 | [Soltar](https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq) | [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Puñal](https://open.spotify.com/album/2g6dGngFLZpfAigXheqNiI) | 3:38 |
 | 31 | [Nena, dime algo.](https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 2:36 |
 | 32 | [Susurrito](https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Feroza](https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyFdjcWCZEI.md) - [plain]
 | 49 | [Pequeños Sueños \(Feat\. Natalie Perez\)](https://open.spotify.com/track/2UivQh2IhQJ916OPqxptcz) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Pequeños Sueños \(Feat\. Natalie Perez\)](https://open.spotify.com/album/4vWpM1IlJRmmxtdKkKyU1d) | 3:50 |
 | 50 | [Por Amor al Arte](https://open.spotify.com/track/11J0d0cb0J4Xk4PcRyuJ3k) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [Reset](https://open.spotify.com/album/0DDUTF4YqIOsUpq9MOqWMo) | 2:02 |
 
-Snapshot ID: `MCw5ZGI5ZGFlZWUwYmExNjE4NTI3ZDcyMDI3YjM0OWQyNTgxMWY4ZTkz`
+Snapshot ID: `MCwzYjA3NDJiM2RjZWE3MDhlYWE3OWJhMjAyMTZkZWI2MmVhOGRkYjM4`

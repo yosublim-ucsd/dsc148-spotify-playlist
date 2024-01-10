@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3765,
+  "num_followers": 3768,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzRlMmI0M2ViMWUyZjI4ZDg4ZjU3MmQ4NzI5NDBhYTY4OTI0ZmFi",
+  "snapshot_id": "MCwyYzM0ZWVmNWY5MzE3OTM2ODA5YzM0MzI4MWQ0NmQ2ZmE4OTBiNjM3",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -925,11 +925,11 @@
         },
         {
           "name": "MichaelBM",
-          "url": "https://open.spotify.com/artist/0DdbrsAMsJHh1EFRkrVmzb"
+          "url": "https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl"
         },
         {
           "name": "Francesco V",
-          "url": "https://open.spotify.com/artist/6MrtkunYTDdVAjtH4cHjLb"
+          "url": "https://open.spotify.com/artist/44lpT2O5mBIXeyrXhVlj7Q"
         }
       ],
       "duration_ms": 143255,
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Gringada",
+        "url": "https://open.spotify.com/album/31IgBVgxGhUfMUGlA6wZAq"
+      },
+      "artists": [
+        {
+          "name": "Costa Leon",
+          "url": "https://open.spotify.com/artist/3vkZeJ4Gkrwmy21vHPrsDh"
+        },
+        {
+          "name": "DJ Cuervo",
+          "url": "https://open.spotify.com/artist/1L1RMOhubngzDWQzrRB9UH"
+        }
+      ],
+      "duration_ms": 168188,
+      "name": "Gringada",
+      "url": "https://open.spotify.com/track/5vnQUEjtukbbnWcrnigfpT"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/092HVKUeBzxIl1EyMFnCJC"
       },
@@ -1271,22 +1291,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Tuku Tu",
-        "url": "https://open.spotify.com/album/06S2P8ii5L32tyu5JCTcx1"
-      },
-      "artists": [
-        {
-          "name": "BOLO THE DJ",
-          "url": "https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7"
-        }
-      ],
-      "duration_ms": 140787,
-      "name": "Tuku Tu",
-      "url": "https://open.spotify.com/track/1ICNLsyIPgrIjN36Txxx7B"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Yo Quiero Una Nena (Sunnery James & Ryan Marciano and Tom Enzy Remix)",
         "url": "https://open.spotify.com/album/4mbBidN8p7hQbRC1Cf519J"
       },
@@ -1311,22 +1315,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Gringada",
-        "url": "https://open.spotify.com/album/31IgBVgxGhUfMUGlA6wZAq"
+        "name": "Tuku Tu",
+        "url": "https://open.spotify.com/album/06S2P8ii5L32tyu5JCTcx1"
       },
       "artists": [
         {
-          "name": "Costa Leon",
-          "url": "https://open.spotify.com/artist/3vkZeJ4Gkrwmy21vHPrsDh"
-        },
-        {
-          "name": "DJ Cuervo",
-          "url": "https://open.spotify.com/artist/1L1RMOhubngzDWQzrRB9UH"
+          "name": "BOLO THE DJ",
+          "url": "https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7"
         }
       ],
-      "duration_ms": 168188,
-      "name": "Gringada",
-      "url": "https://open.spotify.com/track/5vnQUEjtukbbnWcrnigfpT"
+      "duration_ms": 140787,
+      "name": "Tuku Tu",
+      "url": "https://open.spotify.com/track/1ICNLsyIPgrIjN36Txxx7B"
     },
     {
       "added_at": "2024-01-05 05:00:00",

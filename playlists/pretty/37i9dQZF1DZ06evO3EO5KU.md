@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,667 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,524 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 43 | [Relatos De Juan Jose \- En Vivo](https://open.spotify.com/track/38WX8necoSYB0ZZ00F4TBC) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Relatos De Juan Jose](https://open.spotify.com/album/27UGGl99sIIvbjE5WqXMLZ) | 4:11 |
 | 44 | [El Cholo Iván \- En Vivo](https://open.spotify.com/track/6luTTNib9LsQc0trSP4121) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [El Cholo Iván \(En Vivo\)](https://open.spotify.com/album/5fFIZpur4giaSJLfT69ZuU) | 3:28 |
 | 45 | [Bien Guerrero \- En Vivo](https://open.spotify.com/track/7aziBsfabYtlNX5XPadsmc) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Bien Guerrero \(En Vivo\)](https://open.spotify.com/album/4HpzGThC6vKZyF6oa8b9JF) | 3:36 |
-| 46 | [Las Dos Promesas](https://open.spotify.com/track/3s7XyZunbdD69B6wz78uA8) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Las Dos Promesas](https://open.spotify.com/album/40kXxejvHfmoDl4DygxMo5) | 2:45 |
-| 47 | [Si No Se Dio](https://open.spotify.com/track/1CKKGy99iDQbItYVgqdF0W) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Amor Pasajero](https://open.spotify.com/album/1itC5UQ9xn65wqndqlaJkQ) | 2:07 |
-| 48 | [El Karma](https://open.spotify.com/track/28ePagXQlJN3w7n2ev0wGS) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [5 Años Despues](https://open.spotify.com/album/0dGdjf5RzkSb11Mso8Bal2) | 3:30 |
+| 46 | [El Karma](https://open.spotify.com/track/28ePagXQlJN3w7n2ev0wGS) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [5 Años Despues](https://open.spotify.com/album/0dGdjf5RzkSb11Mso8Bal2) | 3:30 |
+| 47 | [Las Dos Promesas](https://open.spotify.com/track/3s7XyZunbdD69B6wz78uA8) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Las Dos Promesas](https://open.spotify.com/album/40kXxejvHfmoDl4DygxMo5) | 2:45 |
+| 48 | [Si No Se Dio](https://open.spotify.com/track/1CKKGy99iDQbItYVgqdF0W) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Amor Pasajero](https://open.spotify.com/album/1itC5UQ9xn65wqndqlaJkQ) | 2:07 |
 | 49 | [Tres Besitos](https://open.spotify.com/track/2UADsvbZjZWQpzFfch78FI) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo \(Edición Deluxe\)](https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ) | 2:34 |
 | 50 | [Cartel De Badiraguato \- En Vivo](https://open.spotify.com/track/71xO201aCjm5MzgTGzu7m4) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF) | [Cartel De Badiraguato \(En Vivo\)](https://open.spotify.com/album/7xXdmxwPCaPkV5gyeVuACo) | 3:32 |
 
-Snapshot ID: `Mjg0MTE4OTksMDAwMDAwMDA1Njg1MzhlYTRkN2ZjYmRkZTU3MDVjY2U4MGJiNGFiMg==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDA3NTg5ZmMzZjQ5MzljZmM5YTk2OTdkNjBiMmZiNDgyNw==`

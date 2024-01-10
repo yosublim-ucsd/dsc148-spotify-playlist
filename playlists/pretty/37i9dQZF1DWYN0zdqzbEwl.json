@@ -1,12 +1,12 @@
 {
   "description": "Legendarios del rock en espa\u00f1ol. Cover: Man\u00e1",
-  "num_followers": 4201550,
+  "num_followers": 4194677,
   "original_name": "Rock en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDAyNjczNTQ4NmRhMWY2MmIyMjg1ZGEyMDk5MWYwZDZmZDFmM2U3",
+  "snapshot_id": "MCxjNWJiNzMwMDk3NDFkOTg2OGQ0NjNjMGYwM2M5YTIyM2E2MWM0OWQw",
   "tracks": [
     {
       "added_at": "2023-12-14 21:40:15",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-12-14 21:40:15",
       "album": {
-        "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 253186,
-      "name": "Maldito duende",
-      "url": "https://open.spotify.com/track/7vcDJCAO356RYkCfiUozmE"
-    },
-    {
-      "added_at": "2023-12-14 21:40:15",
-      "album": {
         "name": "Avalancha de \u00e9xitos",
         "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 214880,
       "name": "Como te extra\u00f1o mi amor",
       "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
+    },
+    {
+      "added_at": "2023-12-14 21:40:15",
+      "album": {
+        "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 253186,
+      "name": "Maldito duende",
+      "url": "https://open.spotify.com/track/7vcDJCAO356RYkCfiUozmE"
     },
     {
       "added_at": "2023-12-14 21:40:15",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2023-12-14 21:40:15",
       "album": {
-        "name": "Me Ver\u00e1s Volver (Hits & M\u00e1s)",
-        "url": "https://open.spotify.com/album/0IkprxBZTCQhSry1AsDxcb"
+        "name": "Uno",
+        "url": "https://open.spotify.com/album/0cbMRBnrfgHOfy8O5qRxcK"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
         }
       ],
-      "duration_ms": 292266,
-      "name": "Persiana Americana - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/5wCUdBsdubZ3ZFoJoRsMrY"
+      "duration_ms": 284933,
+      "name": "Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4aDtCVcQCkR7zYa8jwLciP"
     },
     {
       "added_at": "2023-12-14 21:40:15",
@@ -1399,34 +1399,18 @@
     {
       "added_at": "2023-12-14 21:40:15",
       "album": {
-        "name": "Uno",
-        "url": "https://open.spotify.com/album/0cbMRBnrfgHOfy8O5qRxcK"
+        "name": "Me Ver\u00e1s Volver (Hits & M\u00e1s)",
+        "url": "https://open.spotify.com/album/0IkprxBZTCQhSry1AsDxcb"
       },
       "artists": [
         {
-          "name": "La Ley",
-          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 284933,
-      "name": "Aqu\u00ed",
-      "url": "https://open.spotify.com/track/4aDtCVcQCkR7zYa8jwLciP"
-    },
-    {
-      "added_at": "2023-12-14 21:40:15",
-      "album": {
-        "name": "Rocanrol Bumerang",
-        "url": "https://open.spotify.com/album/1YIw799VStxgysT27cUGwp"
-      },
-      "artists": [
-        {
-          "name": "Miguel R\u00edos",
-          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Santa Lucia - Remastered 2005",
-      "url": "https://open.spotify.com/track/5bycn7SuJzYnxte0W54mNX"
+      "duration_ms": 292266,
+      "name": "Persiana Americana - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/5wCUdBsdubZ3ZFoJoRsMrY"
     },
     {
       "added_at": "2023-12-14 21:40:15",
@@ -1443,6 +1427,22 @@
       "duration_ms": 285093,
       "name": "Sin documentos",
       "url": "https://open.spotify.com/track/6eOT73H5zfEwTCe1Y0FDCc"
+    },
+    {
+      "added_at": "2023-12-14 21:40:15",
+      "album": {
+        "name": "Rocanrol Bumerang",
+        "url": "https://open.spotify.com/album/1YIw799VStxgysT27cUGwp"
+      },
+      "artists": [
+        {
+          "name": "Miguel R\u00edos",
+          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Santa Lucia - Remastered 2005",
+      "url": "https://open.spotify.com/track/5bycn7SuJzYnxte0W54mNX"
     },
     {
       "added_at": "2023-12-14 21:40:15",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-12-14 21:40:15",
       "album": {
-        "name": "Sue\u00f1o Stereo (Remastered)",
-        "url": "https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 269760,
-      "name": "Ella Us\u00f3 Mi Cabeza Como Un Rev\u00f3lver - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/5RzXSxR7BUhEtpqh77lMbR"
-    },
-    {
-      "added_at": "2023-12-14 21:40:15",
-      "album": {
         "name": "La Flaca - Edici\u00f3n 10\u00ba Aniversario",
         "url": "https://open.spotify.com/album/52SGUmWz4rcauYwTKIJzBp"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 261200,
       "name": "La flaca",
       "url": "https://open.spotify.com/track/1MrZ8hGkUWMmT816wPaMgE"
+    },
+    {
+      "added_at": "2023-12-14 21:40:15",
+      "album": {
+        "name": "Sue\u00f1o Stereo (Remastered)",
+        "url": "https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 269760,
+      "name": "Ella Us\u00f3 Mi Cabeza Como Un Rev\u00f3lver - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/5RzXSxR7BUhEtpqh77lMbR"
     },
     {
       "added_at": "2023-12-14 21:40:15",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-12-14 21:40:15",
       "album": {
-        "name": "Yo, Minor\u00eda Absoluta",
-        "url": "https://open.spotify.com/album/3FgvMxabfL5UtlcPzASEhh"
-      },
-      "artists": [
-        {
-          "name": "Extremoduro",
-          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
-        }
-      ],
-      "duration_ms": 207986,
-      "name": "Stand By",
-      "url": "https://open.spotify.com/track/6BxCmy6vGbuOckxg6YfQOW"
-    },
-    {
-      "added_at": "2023-12-14 21:40:15",
-      "album": {
         "name": "Re",
         "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 206373,
       "name": "Esa noche",
       "url": "https://open.spotify.com/track/2jggaUpOvn2G6Pv2HCEU6m"
+    },
+    {
+      "added_at": "2023-12-14 21:40:15",
+      "album": {
+        "name": "Yo, Minor\u00eda Absoluta",
+        "url": "https://open.spotify.com/album/3FgvMxabfL5UtlcPzASEhh"
+      },
+      "artists": [
+        {
+          "name": "Extremoduro",
+          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "Stand By",
+      "url": "https://open.spotify.com/track/6BxCmy6vGbuOckxg6YfQOW"
     },
     {
       "added_at": "2023-12-14 21:40:15",

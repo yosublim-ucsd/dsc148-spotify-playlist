@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 54714,
+  "num_followers": 54734,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDlkOWFlNjY5OWZhMDQzNDY0ODMwMTIwMzFlMGNhYzNmNGI5MjJj",
+  "snapshot_id": "MCxhMWNiODdiMTQ5NjJiMThhNGZmYjMzNzY5YmUxNzJiMjRkYzM3MzJl",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -679,22 +679,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Check Me Out If You Don't Know Me By Now",
-        "url": "https://open.spotify.com/album/4xOLYBVbQ4auwndunGsaDa"
-      },
-      "artists": [
-        {
-          "name": "Lyn Collins",
-          "url": "https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN"
-        }
-      ],
-      "duration_ms": 208360,
-      "name": "Rock Me Again & Again & Again & Again & Again & Again",
-      "url": "https://open.spotify.com/track/7cwuk7OJRQQEbuPMB1u67e"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Tuxedo III",
         "url": "https://open.spotify.com/album/50FkN4h0tTESPCzIK6E7KX"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 209875,
       "name": "On a Good One",
       "url": "https://open.spotify.com/track/71nvrESAOkHt17x0n5pibQ"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Check Me Out If You Don't Know Me By Now",
+        "url": "https://open.spotify.com/album/4xOLYBVbQ4auwndunGsaDa"
+      },
+      "artists": [
+        {
+          "name": "Lyn Collins",
+          "url": "https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN"
+        }
+      ],
+      "duration_ms": 208360,
+      "name": "Rock Me Again & Again & Again & Again & Again & Again",
+      "url": "https://open.spotify.com/track/7cwuk7OJRQQEbuPMB1u67e"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -815,6 +815,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Tuxedo II",
+        "url": "https://open.spotify.com/album/6iDvvsXxNNCiwSUQhixa68"
+      },
+      "artists": [
+        {
+          "name": "Tuxedo",
+          "url": "https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr"
+        }
+      ],
+      "duration_ms": 166590,
+      "name": "Fux with the Tux",
+      "url": "https://open.spotify.com/track/5pdyEWdUmpbxs9jkAagOMh"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Everybody Want Sum",
         "url": "https://open.spotify.com/album/14D2GvYb7WNfUuVA0nXjUD"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 285506,
       "name": "Head",
       "url": "https://open.spotify.com/track/3dFVdhSdZ88dmGNlTHWC5P"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Tuxedo II",
-        "url": "https://open.spotify.com/album/6iDvvsXxNNCiwSUQhixa68"
-      },
-      "artists": [
-        {
-          "name": "Tuxedo",
-          "url": "https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr"
-        }
-      ],
-      "duration_ms": 166590,
-      "name": "Fux with the Tux",
-      "url": "https://open.spotify.com/track/5pdyEWdUmpbxs9jkAagOMh"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -919,22 +919,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "My Radio Sure Sounds Good To Me",
-        "url": "https://open.spotify.com/album/5DldGiP8hbKtAjGzzcdYEq"
-      },
-      "artists": [
-        {
-          "name": "Larry Graham & Graham Central Station",
-          "url": "https://open.spotify.com/artist/6NodJUvzLqPU2HtPLhDuf5"
-        }
-      ],
-      "duration_ms": 227946,
-      "name": "Boogie Witcha, Baby",
-      "url": "https://open.spotify.com/track/5NqRwz0rPh3aK4iWyJLXxy"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "The Commodores: The Definitive Collection",
         "url": "https://open.spotify.com/album/4mDGyVthoID64WAcff0HxR"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 282106,
       "name": "Housequake",
       "url": "https://open.spotify.com/track/5xP9clzYBKZ6F3u2VZUaBJ"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "My Radio Sure Sounds Good To Me",
+        "url": "https://open.spotify.com/album/5DldGiP8hbKtAjGzzcdYEq"
+      },
+      "artists": [
+        {
+          "name": "Larry Graham & Graham Central Station",
+          "url": "https://open.spotify.com/artist/6NodJUvzLqPU2HtPLhDuf5"
+        }
+      ],
+      "duration_ms": 227946,
+      "name": "Boogie Witcha, Baby",
+      "url": "https://open.spotify.com/track/5NqRwz0rPh3aK4iWyJLXxy"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Controversy",
+        "url": "https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "Let's Work",
+      "url": "https://open.spotify.com/track/5WLn10VIb6L9Z7O7FkYA99"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Funk Ain't Ova",
         "url": "https://open.spotify.com/album/090mBdNZpmAl9P2fhOpdmM"
       },
@@ -1047,38 +1063,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Birth Day",
-        "url": "https://open.spotify.com/album/0M3myHr9PVkY1SzbjWFDS3"
-      },
-      "artists": [
-        {
-          "name": "The New Birth",
-          "url": "https://open.spotify.com/artist/34Bm9d5DAJjSnaI02BCjdA"
-        }
-      ],
-      "duration_ms": 383746,
-      "name": "I Can Understand It",
-      "url": "https://open.spotify.com/track/65x1aCYMTLRNitjuWzWjL8"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Controversy",
-        "url": "https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "Let's Work",
-      "url": "https://open.spotify.com/track/5WLn10VIb6L9Z7O7FkYA99"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Confident (feat. The MB's)",
         "url": "https://open.spotify.com/album/0dnIxietsEIhuml8hJKopn"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 199893,
       "name": "Confident (feat. The MB's)",
       "url": "https://open.spotify.com/track/28YkfGOg7FmjJpokMe9wS6"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Birth Day",
+        "url": "https://open.spotify.com/album/0M3myHr9PVkY1SzbjWFDS3"
+      },
+      "artists": [
+        {
+          "name": "The New Birth",
+          "url": "https://open.spotify.com/artist/34Bm9d5DAJjSnaI02BCjdA"
+        }
+      ],
+      "duration_ms": 383746,
+      "name": "I Can Understand It",
+      "url": "https://open.spotify.com/track/65x1aCYMTLRNitjuWzWjL8"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Soul Side of Town",
-        "url": "https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ"
-      },
-      "artists": [
-        {
-          "name": "Tower Of Power",
-          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
-        }
-      ],
-      "duration_ms": 328479,
-      "name": "Hangin' with My Baby",
-      "url": "https://open.spotify.com/track/3ZoLqDFPHCyq4jeIMHBODq"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Shake Your Money",
         "url": "https://open.spotify.com/album/64RZY2yiVERrJRZuW9IO5r"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 200190,
       "name": "Shake Your Money",
       "url": "https://open.spotify.com/track/6EpT9STInmudS2JOVd9f1S"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Soul Side of Town",
+        "url": "https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ"
+      },
+      "artists": [
+        {
+          "name": "Tower Of Power",
+          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
+        }
+      ],
+      "duration_ms": 328479,
+      "name": "Hangin' with My Baby",
+      "url": "https://open.spotify.com/track/3ZoLqDFPHCyq4jeIMHBODq"
     },
     {
       "added_at": "2019-09-20 18:17:51",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Soul Side of Town",
-        "url": "https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ"
-      },
-      "artists": [
-        {
-          "name": "Tower Of Power",
-          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
-        }
-      ],
-      "duration_ms": 233491,
-      "name": "Do It with Soul",
-      "url": "https://open.spotify.com/track/4U3pzSGJKpi3JwAOZygvwX"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Dirty Word",
         "url": "https://open.spotify.com/album/3hLGxazNwkFKTsaGAm3Jcj"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 249973,
       "name": "Dancin' To The Truth",
       "url": "https://open.spotify.com/track/0tJwh3Ka9t5d4IwW2390a7"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Soul Side of Town",
+        "url": "https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ"
+      },
+      "artists": [
+        {
+          "name": "Tower Of Power",
+          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
+        }
+      ],
+      "duration_ms": 233491,
+      "name": "Do It with Soul",
+      "url": "https://open.spotify.com/track/4U3pzSGJKpi3JwAOZygvwX"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1563,38 +1563,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Dirty Word",
-        "url": "https://open.spotify.com/album/3hLGxazNwkFKTsaGAm3Jcj"
-      },
-      "artists": [
-        {
-          "name": "Dumpstaphunk",
-          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
-        },
-        {
-          "name": "Grooveline Horns",
-          "url": "https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743"
-        },
-        {
-          "name": "Reggie Watkins",
-          "url": "https://open.spotify.com/artist/14Ou42tZvSnt2LaFXiMp3z"
-        },
-        {
-          "name": "carlos sosa",
-          "url": "https://open.spotify.com/artist/4FnOfgH6FgYXOLzbhok5eL"
-        },
-        {
-          "name": "Fernanco Castillo",
-          "url": "https://open.spotify.com/artist/6FBJesby0YNelqeM4Y4xSV"
-        }
-      ],
-      "duration_ms": 273880,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/1qB1AGK7AbUKkCgHi0AqrF"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Amplified Experiment",
         "url": "https://open.spotify.com/album/4cS75aWftbOa1nTMdkg27E"
       },
@@ -1631,26 +1599,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "In Search Of Better Days",
-        "url": "https://open.spotify.com/album/2f83h1GYlE4SrVseNnSvQ4"
-      },
-      "artists": [
-        {
-          "name": "Incognito",
-          "url": "https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs"
-        },
-        {
-          "name": "Vanessa Haynes",
-          "url": "https://open.spotify.com/artist/0x1dqXqirpBR3KT3pdjyEf"
-        }
-      ],
-      "duration_ms": 281133,
-      "name": "Just Say Nothing",
-      "url": "https://open.spotify.com/track/6oBOx9S6xhHbAkznP2wiNC"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Wild",
         "url": "https://open.spotify.com/album/7hKNuqA2bj1BjYDOXMMWGK"
       },
@@ -1667,6 +1615,58 @@
       "duration_ms": 212065,
       "name": "Wild",
       "url": "https://open.spotify.com/track/6WPIx2V0nXS0xJmvJ4X0wh"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Dirty Word",
+        "url": "https://open.spotify.com/album/3hLGxazNwkFKTsaGAm3Jcj"
+      },
+      "artists": [
+        {
+          "name": "Dumpstaphunk",
+          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
+        },
+        {
+          "name": "Grooveline Horns",
+          "url": "https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743"
+        },
+        {
+          "name": "Reggie Watkins",
+          "url": "https://open.spotify.com/artist/14Ou42tZvSnt2LaFXiMp3z"
+        },
+        {
+          "name": "carlos sosa",
+          "url": "https://open.spotify.com/artist/4FnOfgH6FgYXOLzbhok5eL"
+        },
+        {
+          "name": "Fernanco Castillo",
+          "url": "https://open.spotify.com/artist/6FBJesby0YNelqeM4Y4xSV"
+        }
+      ],
+      "duration_ms": 273880,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/1qB1AGK7AbUKkCgHi0AqrF"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "In Search Of Better Days",
+        "url": "https://open.spotify.com/album/2f83h1GYlE4SrVseNnSvQ4"
+      },
+      "artists": [
+        {
+          "name": "Incognito",
+          "url": "https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs"
+        },
+        {
+          "name": "Vanessa Haynes",
+          "url": "https://open.spotify.com/artist/0x1dqXqirpBR3KT3pdjyEf"
+        }
+      ],
+      "duration_ms": 281133,
+      "name": "Just Say Nothing",
+      "url": "https://open.spotify.com/track/6oBOx9S6xhHbAkznP2wiNC"
     },
     {
       "added_at": "2019-08-22 14:26:16",

@@ -4,7 +4,7 @@
 
 > 🔊súbele sin miedo, súbele hasta que reviente 🔊
 
-145 songs - 8 hr 20 min
+146 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [La Incondicional](https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 4:17 | 2023-07-04 |  |
 | [La Llamada \- 1993 Version](https://open.spotify.com/track/3LKORQbpEWTGrNRz3EX5VZ) | [Selena y los Dinos](https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy) | [Live Selena](https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck) | 3:11 | 2023-07-04 | 2023-12-24 |
 | [La Mamoncita del Insta](https://open.spotify.com/track/4Dg3WEqGpBbSu4EKjudiwV) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [La Mamoncita del Insta](https://open.spotify.com/album/4bzLOdILYkhPvhrErSjLxn) | 3:13 | 2023-07-04 |  |
+| [La Mojave](https://open.spotify.com/track/76Wmwoc4PZg8nwmCA6cPnc) | [Skrapy](https://open.spotify.com/artist/3exJEpEoygFnfUyVen7QSP), [Victor Rivera Y Su Nuevo Estilo](https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4) | [La Mojave](https://open.spotify.com/album/7LhnicpU2OyrMzvOucaz3B) | 3:12 | 2023-12-23 |  |
 | [La Nena](https://open.spotify.com/track/2O3V4meZv0bEc1LPITGvcC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [COSME TADEO](https://open.spotify.com/artist/5QdiBib4DcTwhC2ayhRyK6) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 2:55 | 2023-12-23 |  |
 | [La Noche Que Murio Chicago](https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC) | 2:41 | 2023-07-04 |  |
 | [La Ventanita](https://open.spotify.com/track/49nYkvvZTU06Pcwu1SrK4h) | [Garibaldi](https://open.spotify.com/artist/5PMqVxegfGlvhatvLA61uX) | [Caribe](https://open.spotify.com/album/3kpnPvG6TOLfpV0TvD0FUd) | 4:11 | 2023-07-04 | 2023-12-24 |
@@ -121,7 +122,7 @@
 | [RUBICON](https://open.spotify.com/track/0xGZjxYqcNQ8WqxyeZ4eSN) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:58 | 2023-07-04 |  |
 | [Sabes A Chocolate](https://open.spotify.com/track/1JxRbEr1CKM16m4ovHg2hz) | [Kumbia Kings](https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Pee Wee Gonzalez](https://open.spotify.com/artist/7mj8ZMCC4iGR0OQsUy6cvB) | [THE BEST OF](https://open.spotify.com/album/4gqN1u9QLecW2piklO69l0) | 3:47 | 2023-07-04 | 2023-12-24 |
 | [SABOR FRESA](https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [SABOR FRESA](https://open.spotify.com/album/1vw6eLxCJRAfD6RMJTiuKZ) | 2:36 | 2023-07-04 |  |
-| [Sangoloteadito](https://open.spotify.com/track/2s678Tz6mme5OV9DfTUUoD) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Colección De Oro, Vol\. 3: Con Tambora](https://open.spotify.com/album/2PN8SbTA3VEBpfmQaZdak2) | 3:00 | 2023-07-04 |  |
+| [Sangoloteadito](https://open.spotify.com/track/2s678Tz6mme5OV9DfTUUoD) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Colección De Oro, Vol\. 3: Con Tambora](https://open.spotify.com/album/2PN8SbTA3VEBpfmQaZdak2) | 3:00 | 2023-07-04 | 2024-01-10 |
 | [Se Te Va A Caer La Baba](https://open.spotify.com/track/6b06oCGEBRYgdqDzvDp9kv) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Se Te Va A Caer La Baba](https://open.spotify.com/album/1jL1MgfG1nRvwi3iDiDQoo) | 3:43 | 2023-07-04 | 2023-12-24 |
 | [Shabadabada](https://open.spotify.com/track/66EqOhWfTcdVphw00lcxZO) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [Punto](https://open.spotify.com/album/55OVAEUt48foMS6JrUDit9) | 3:55 | 2023-07-04 |  |
 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 | 2023-07-04 |  |

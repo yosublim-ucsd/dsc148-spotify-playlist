@@ -4,7 +4,7 @@
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-93 songs - 5 hr 37 min
+94 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Hangang Gongwon](https://open.spotify.com/track/58DPUgbOVwsLfAOs2oQBk9) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Hongdae R&B](https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb) | 3:58 | 2023-11-03 |  |
 | [Heart](https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [Heart](https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP) | 4:17 | 2023-11-03 |  |
 | [Hello](https://open.spotify.com/track/6Me6uD7KrQ2fS8U8wCiMDY) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Romantic Doctor 3 OST Part.1](https://open.spotify.com/album/6nErKEsThTGVCCO4RDiIqE) | 3:50 | 2023-11-03 |  |
-| [Hello](https://open.spotify.com/track/0RRJ2PHFSCyBaaydDHOv1u) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [18 again, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2BLtLWe1K6HZm0NjKuYjCV) | 4:04 | 2023-11-03 |  |
+| [Hello](https://open.spotify.com/track/0RRJ2PHFSCyBaaydDHOv1u) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [18 again, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2BLtLWe1K6HZm0NjKuYjCV) | 4:04 | 2023-11-03 | 2024-01-10 |
 | [her](https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [her](https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1) | 2:35 | 2023-12-06 |  |
 | [Hold My Hand](https://open.spotify.com/track/7brPjLpvlaYLnPGCA9U6y7) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/7yfqRYBQmoNZqoeGe4kPeM) | 3:30 | 2023-11-03 |  |
 | [Hongdae R&B](https://open.spotify.com/track/5TIwTvdD7OpJBt0tqIWLH3) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Hongdae R&B](https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb) | 3:02 | 2023-11-03 |  |
@@ -91,6 +91,7 @@
 | [That's You](https://open.spotify.com/track/2UysjEVKnL55ywc6TuvcQI) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Destined with You \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/37BzsG0I20mbX2CFipkt3A) | 3:51 | 2023-11-03 |  |
 | [The Moon \(Feat\. TAEIL of NCT\)](https://open.spotify.com/track/6Qfhu8fcLSY8Tw7syG8hdK) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [The Moon \(Feat\. TAEIL of NCT\)](https://open.spotify.com/album/6NfkVXBrjpR9JG69VOg52G) | 2:42 | 2023-11-03 |  |
 | [Underwater](https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [Underwater](https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7) | 4:03 | 2023-12-06 |  |
+| [wandering \(feat\. george\)](https://open.spotify.com/track/6jMcjpMJEjdJa9GQLgQNZ2) | [basecamp](https://open.spotify.com/artist/4MI73VbvvaJFXe1T6iacWx), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [wandering \(feat\. george\)](https://open.spotify.com/album/6hBEslMx5wtLS5wehYiwPP) | 3:24 | 2023-12-06 |  |
 | [We Love Each Other](https://open.spotify.com/track/5rs94R9T7hFEziBB4sQj2G) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Destined with You \(Original Television Soundtrack\), Pt.9](https://open.spotify.com/album/0k6eU1vKSrnhHJRTTCOsw7) | 3:46 | 2023-11-03 |  |
 | [When it snows\(Feat.Heize\)](https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [When it snows\(Feat.Heize\)](https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK) | 3:52 | 2023-11-03 |  |
 | [Why \(Feat\. Hoody\)](https://open.spotify.com/track/0cIEQ9hmlk2qJFvjZGgS82) | [VVON](https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Why \(Feat\. Hoody\)](https://open.spotify.com/album/00nRSfDSImQs5Y3K0xDO8s) | 2:20 | 2023-11-03 |  |

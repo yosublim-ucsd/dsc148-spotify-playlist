@@ -1,12 +1,12 @@
 {
   "description": "Feel on top of the world with these uplifting anthems of the 70s.",
-  "num_followers": 129261,
+  "num_followers": 129304,
   "original_name": "Good Feeling 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmZhMzI5YzBhNmFiYThmN2E4NWE1MjEyNzZjZWFlMjI3YTgyMzZl",
+  "snapshot_id": "MCxiMzZkNTViMjRjM2ZlNTgwMTNmN2ZlOWRhMmE3ZjIxNzExZjgxYmIy",
   "tracks": [
     {
       "added_at": "2022-06-08 06:26:41",
@@ -711,26 +711,6 @@
     {
       "added_at": "2022-06-08 06:26:41",
       "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/7eqBAR9pblivMBOI70q2um"
-      },
-      "artists": [
-        {
-          "name": "America",
-          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
-        },
-        {
-          "name": "George Martin",
-          "url": "https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx"
-        }
-      ],
-      "duration_ms": 211386,
-      "name": "Ventura Highway",
-      "url": "https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW"
-    },
-    {
-      "added_at": "2022-06-08 06:26:41",
-      "album": {
         "name": "Voulez-Vous",
         "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
       },
@@ -747,18 +727,22 @@
     {
       "added_at": "2022-06-08 06:26:41",
       "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/7eqBAR9pblivMBOI70q2um"
       },
       "artists": [
         {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+          "name": "America",
+          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
+        },
+        {
+          "name": "George Martin",
+          "url": "https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx"
         }
       ],
-      "duration_ms": 216733,
-      "name": "We Are Family - 1995 Remaster",
-      "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
+      "duration_ms": 211386,
+      "name": "Ventura Highway",
+      "url": "https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW"
     },
     {
       "added_at": "2022-06-08 06:26:41",
@@ -811,18 +795,34 @@
     {
       "added_at": "2022-06-08 06:26:41",
       "album": {
-        "name": "A New World Record",
-        "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
       "artists": [
         {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
         }
       ],
-      "duration_ms": 212306,
-      "name": "Livin' Thing",
-      "url": "https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp"
+      "duration_ms": 216733,
+      "name": "We Are Family - 1995 Remaster",
+      "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
+    },
+    {
+      "added_at": "2022-06-08 06:26:41",
+      "album": {
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 286219,
+      "name": "Life in the Fast Lane - 2013 Remaster",
+      "url": "https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p"
     }
   ],
   "unique_name": "Good Feeling 70s",

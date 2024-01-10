@@ -1,9 +1,801 @@
 {
-  "2024-01-03": 106,
-  "2024-01-04": 106,
-  "2024-01-05": 106,
-  "2024-01-06": 106,
-  "2024-01-07": 107,
-  "2024-01-08": 107,
-  "2024-01-09": 107
+  "2024-01-10": 107,
+  "date_first_scraped": "2024-01-03",
+  "description": "These are a few of my favorite tracks at the moment :)",
+  "name": "Story Time Selections with Ekonovah",
+  "tracks": [
+    {
+      "album": {
+        "name": "All Over Again",
+        "url": "https://open.spotify.com/album/0u2TVvTLrKKIQbkxDMjuu2"
+      },
+      "artists": [
+        {
+          "name": "Ekonovah",
+          "url": "https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213809,
+      "name": "All Over Again",
+      "url": "https://open.spotify.com/track/3iRzMDczSQsuYjPZih7Ulc"
+    },
+    {
+      "album": {
+        "name": "Toolroom Radio EP716 - Presented by ESSEL",
+        "url": "https://open.spotify.com/album/3eVdplahovW3Lbu7I9Xm0I"
+      },
+      "artists": [
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        },
+        {
+          "name": "L\u00e5psley",
+          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288007,
+      "name": "Better Times - TR716",
+      "url": "https://open.spotify.com/track/2Vzv7NcMvgRbRmIxCKIYtY"
+    },
+    {
+      "album": {
+        "name": "Between The Lines",
+        "url": "https://open.spotify.com/album/50wmSyQyDqTJHeVGgFOO5F"
+      },
+      "artists": [
+        {
+          "name": "Ekonovah",
+          "url": "https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234312,
+      "name": "Between The Lines",
+      "url": "https://open.spotify.com/track/2LWlnMQd6vRVTP3mbS637w"
+    },
+    {
+      "album": {
+        "name": "Come Back",
+        "url": "https://open.spotify.com/album/5fsXv4VyocGOBf7pMYKi5O"
+      },
+      "artists": [
+        {
+          "name": "Ekonovah",
+          "url": "https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190094,
+      "name": "Come Back",
+      "url": "https://open.spotify.com/track/2lCCMbFptTfOut1X4zCPcB"
+    },
+    {
+      "album": {
+        "name": "Corazon (Harry Romero Remix)",
+        "url": "https://open.spotify.com/album/2c85hBhiSKiQKfS3ahUtop"
+      },
+      "artists": [
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        },
+        {
+          "name": "EMRIA",
+          "url": "https://open.spotify.com/artist/0J5gqMi8znAsKAL4HluZkl"
+        },
+        {
+          "name": "Harry Romero",
+          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234185,
+      "name": "Corazon - Harry Romero Remix",
+      "url": "https://open.spotify.com/track/0lT28ri6gK5J5PybVy7a1D"
+    },
+    {
+      "album": {
+        "name": "DALE",
+        "url": "https://open.spotify.com/album/7m2f7kNwVvPyF539mc4Zj0"
+      },
+      "artists": [
+        {
+          "name": "alltalk",
+          "url": "https://open.spotify.com/artist/3zSuUp3NsJBFL21yiLj7VE"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177901,
+      "name": "DALE",
+      "url": "https://open.spotify.com/track/3L1OnrgOsWWbnzhfkZ9Xwl"
+    },
+    {
+      "album": {
+        "name": "Dance Alone (Ekonovah Remix)",
+        "url": "https://open.spotify.com/album/4GMv30mtLvSxUBjRE0aYPV"
+      },
+      "artists": [
+        {
+          "name": "Promise Land",
+          "url": "https://open.spotify.com/artist/0ktujbOLx1L1K8wj8o8dpJ"
+        },
+        {
+          "name": "Brave Culture",
+          "url": "https://open.spotify.com/artist/2ae35zW7NgAB7k7XlWYOcd"
+        },
+        {
+          "name": "Ekonovah",
+          "url": "https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188504,
+      "name": "Dance Alone - Ekonovah Remix",
+      "url": "https://open.spotify.com/track/49FBkuLEav4KsxFvNbsGWv"
+    },
+    {
+      "album": {
+        "name": "El Jefe",
+        "url": "https://open.spotify.com/album/6TwklWW0CZmnueMQYjIuWQ"
+      },
+      "artists": [
+        {
+          "name": "Juush",
+          "url": "https://open.spotify.com/artist/4E3LoXmQVgt6uWJvAw9Olo"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192960,
+      "name": "El Jefe",
+      "url": "https://open.spotify.com/track/5UaCfa0JimQrFWMhzBlg9R"
+    },
+    {
+      "album": {
+        "name": "Floating EP",
+        "url": "https://open.spotify.com/album/1wUnqkpdzARSyeZI4How2C"
+      },
+      "artists": [
+        {
+          "name": "Ekonovah",
+          "url": "https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207096,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/3MisKA69O57vv9WqgjCZ51"
+    },
+    {
+      "album": {
+        "name": "RUMBLE IN THE DISCO",
+        "url": "https://open.spotify.com/album/5lWro0c8Rek7HBvXeRKI46"
+      },
+      "artists": [
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        },
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243750,
+      "name": "HAMMER (FIRE AGAIN)",
+      "url": "https://open.spotify.com/track/4ftYyke3ojGfJb1ZnQR7q7"
+    },
+    {
+      "album": {
+        "name": "HEARTBREAK PARADISE (Ekonovah Remix)",
+        "url": "https://open.spotify.com/album/0qsjPWUTu33qlMyIa0DCSF"
+      },
+      "artists": [
+        {
+          "name": "Hekler",
+          "url": "https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh"
+        },
+        {
+          "name": "Dabow",
+          "url": "https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X"
+        },
+        {
+          "name": "Jessy Covets",
+          "url": "https://open.spotify.com/artist/0e35qB87R4rgIfDysLHzAV"
+        },
+        {
+          "name": "Ekonovah",
+          "url": "https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238064,
+      "name": "HEARTBREAK PARADISE - Ekonovah Remix",
+      "url": "https://open.spotify.com/track/7EHgBVen13rmXbIjVFlk8m"
+    },
+    {
+      "album": {
+        "name": "Hit The Gas",
+        "url": "https://open.spotify.com/album/4Kg15DMMvhdUR7GOZViAPs"
+      },
+      "artists": [
+        {
+          "name": "Ekonovah",
+          "url": "https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223558,
+      "name": "Hit The Gas",
+      "url": "https://open.spotify.com/track/11nypzfunmWyL6RjkCF8i3"
+    },
+    {
+      "album": {
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/5RbLlPT2KlSuUtxcWRG7iQ"
+      },
+      "artists": [
+        {
+          "name": "Drinks On Me",
+          "url": "https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207360,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/21Qpvuy6Ed5ZShoofCbipq"
+    },
+    {
+      "album": {
+        "name": "The Beginning EP",
+        "url": "https://open.spotify.com/album/6aTmh57w2dVSsuzkwHa83c"
+      },
+      "artists": [
+        {
+          "name": "Ekonovah",
+          "url": "https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159421,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/7mcqJDfuEe4629GSK6z3Zb"
+    },
+    {
+      "album": {
+        "name": "LIFT OFF",
+        "url": "https://open.spotify.com/album/7ey50e1s482RfGNXqldS4W"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185625,
+      "name": "LIFT OFF",
+      "url": "https://open.spotify.com/track/2T8Yxn4uXQoeBivDQNYCel"
+    },
+    {
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/2cLVg72Da7TfHO5Iopd6xp"
+      },
+      "artists": [
+        {
+          "name": "Ekonovah",
+          "url": "https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x"
+        },
+        {
+          "name": "NOISES",
+          "url": "https://open.spotify.com/artist/1bIZO50ixecynnRb9ewjNp"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241603,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/1X8Vkg5CElMgrM6Fkodlz7"
+    },
+    {
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/5Wl4cBzQdoPEpo8Mask2u8"
+      },
+      "artists": [
+        {
+          "name": "Ekonovah",
+          "url": "https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218373,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/3w0YAWJFozZh2kDFeACktC"
+    },
+    {
+      "album": {
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/60r1q3lUuKI16endwyf2je"
+      },
+      "artists": [
+        {
+          "name": "Ekonovah",
+          "url": "https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184724,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/5eGw60l0Wx2P2w0Zl0oOQi"
+    },
+    {
+      "album": {
+        "name": "Move With Tha",
+        "url": "https://open.spotify.com/album/35YXlOPsyhZtgcELZcN4nJ"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186933,
+      "name": "Move With Tha",
+      "url": "https://open.spotify.com/track/5voZGXGTFZBn3nKZ6UJyxK"
+    },
+    {
+      "album": {
+        "name": "Floating EP",
+        "url": "https://open.spotify.com/album/1wUnqkpdzARSyeZI4How2C"
+      },
+      "artists": [
+        {
+          "name": "Ekonovah",
+          "url": "https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157139,
+      "name": "Not So Subtle",
+      "url": "https://open.spotify.com/track/03Oc00PIIeEqMAA90Hwz5s"
+    },
+    {
+      "album": {
+        "name": "Parachute",
+        "url": "https://open.spotify.com/album/5LKuhr5uMWBHLaAe1HLZsM"
+      },
+      "artists": [
+        {
+          "name": "Ekonovah",
+          "url": "https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x"
+        },
+        {
+          "name": "Vania",
+          "url": "https://open.spotify.com/artist/6h3MHimQgTrJFz3UIrXgcC"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224268,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/4oNArAVloRFW1twlALKToz"
+    },
+    {
+      "album": {
+        "name": "Peace of Mind / Where Do I Belong?",
+        "url": "https://open.spotify.com/album/2DZfKzi6mmPgAZcvbkDDpo"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189840,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/4WwfpOIISmychHPjGomGOj"
+    },
+    {
+      "album": {
+        "name": "Pheromones",
+        "url": "https://open.spotify.com/album/2BeLNZ8Ce8vry33fysBaWL"
+      },
+      "artists": [
+        {
+          "name": "alltalk",
+          "url": "https://open.spotify.com/artist/3zSuUp3NsJBFL21yiLj7VE"
+        },
+        {
+          "name": "Ekonovah",
+          "url": "https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244596,
+      "name": "Pheromones - Extended Mix",
+      "url": "https://open.spotify.com/track/45nRw8cjvOMAHmmzlvM9of"
+    },
+    {
+      "album": {
+        "name": "PWR",
+        "url": "https://open.spotify.com/album/5WWaDKWi0Z48Q8PUE4gBpe"
+      },
+      "artists": [
+        {
+          "name": "Eleganto",
+          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "PWR",
+      "url": "https://open.spotify.com/track/2tkvREjLtU4AZjdokXdCEq"
+    },
+    {
+      "album": {
+        "name": "Rockstars",
+        "url": "https://open.spotify.com/album/6vlXurrvhyYgp22hZYQxKX"
+      },
+      "artists": [
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169302,
+      "name": "Rockstars",
+      "url": "https://open.spotify.com/track/1W3XZywQraBj8rbzVhZhFC"
+    },
+    {
+      "album": {
+        "name": "Round & Round",
+        "url": "https://open.spotify.com/album/45du8Dpzw1Ei5JgnuVLWpH"
+      },
+      "artists": [
+        {
+          "name": "CASHEW",
+          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226875,
+      "name": "Round & Round",
+      "url": "https://open.spotify.com/track/3p3P3f5QxppM5fdbi30D6n"
+    },
+    {
+      "album": {
+        "name": "See It Through",
+        "url": "https://open.spotify.com/album/4dmB32HMdTmKtpTkPwjayA"
+      },
+      "artists": [
+        {
+          "name": "Ekonovah",
+          "url": "https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x"
+        },
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256721,
+      "name": "See It Through",
+      "url": "https://open.spotify.com/track/1FtuKCXTuyoYpkR8VTsvmu"
+    },
+    {
+      "album": {
+        "name": "Toolroom Radio EP714 - Presented by Mark Knight",
+        "url": "https://open.spotify.com/album/758LG1l2v1cRHpBZjKt8Zt"
+      },
+      "artists": [
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272125,
+      "name": "Share My Love - TR714",
+      "url": "https://open.spotify.com/track/6FGeFBU76e40I55rrLdNev"
+    },
+    {
+      "album": {
+        "name": "Shut It Down",
+        "url": "https://open.spotify.com/album/15bu5n3pheWYEoc6YmEBLO"
+      },
+      "artists": [
+        {
+          "name": "Jay Dunham",
+          "url": "https://open.spotify.com/artist/4JWZwoacJTvnATTK9BUE34"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227407,
+      "name": "Shut It Down",
+      "url": "https://open.spotify.com/track/7qwLBBmnYAIzygxRKgtIBM"
+    },
+    {
+      "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/4svBaokSTQvGWp4NdBl7HW"
+      },
+      "artists": [
+        {
+          "name": "Ekonovah",
+          "url": "https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173310,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/0QEXa9L1KfuKr7MpPONfYI"
+    },
+    {
+      "album": {
+        "name": "This Is High Octane",
+        "url": "https://open.spotify.com/album/55P0Ra43kHyftcrmEb2mS4"
+      },
+      "artists": [
+        {
+          "name": "Cloverdale",
+          "url": "https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197218,
+      "name": "Steppin On My Nikes",
+      "url": "https://open.spotify.com/track/3BPVMzK5GNllRhtm5l9Izz"
+    },
+    {
+      "album": {
+        "name": "Between The Lines",
+        "url": "https://open.spotify.com/album/50wmSyQyDqTJHeVGgFOO5F"
+      },
+      "artists": [
+        {
+          "name": "Ekonovah",
+          "url": "https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171774,
+      "name": "Sycamore",
+      "url": "https://open.spotify.com/track/41YScsiPf572B78WR4vvEq"
+    },
+    {
+      "album": {
+        "name": "That Kind of Love",
+        "url": "https://open.spotify.com/album/734MtMgvOkqPOXDpG3Ju07"
+      },
+      "artists": [
+        {
+          "name": "Hidden Face",
+          "url": "https://open.spotify.com/artist/1Itil4naIwgkm48BNTjZ2A"
+        },
+        {
+          "name": "Peter Brocks",
+          "url": "https://open.spotify.com/artist/0GQsgoerfLgTWX83lR7sj7"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298064,
+      "name": "That Kind Of Love",
+      "url": "https://open.spotify.com/track/3vopVfQm5Cc0t2BnNGSom9"
+    },
+    {
+      "album": {
+        "name": "The Beginning EP",
+        "url": "https://open.spotify.com/album/6aTmh57w2dVSsuzkwHa83c"
+      },
+      "artists": [
+        {
+          "name": "Ekonovah",
+          "url": "https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194004,
+      "name": "The Beginning",
+      "url": "https://open.spotify.com/track/0hAXMvQNMB6gQ1mVxx5Bhg"
+    },
+    {
+      "album": {
+        "name": "Walk With It",
+        "url": "https://open.spotify.com/album/2WUyN3SuMGLobENPdNsMWk"
+      },
+      "artists": [
+        {
+          "name": "Friendly Fire",
+          "url": "https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159923,
+      "name": "Walk With It",
+      "url": "https://open.spotify.com/track/1VfsCED5s7YlZWPcD0NaU2"
+    },
+    {
+      "album": {
+        "name": "What I'm Sayin",
+        "url": "https://open.spotify.com/album/3eTZQ42Toe7G2ze1rs5fgu"
+      },
+      "artists": [
+        {
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200343,
+      "name": "What I'm Sayin",
+      "url": "https://open.spotify.com/track/7tzH9WFMUGfsvvI0UXXj4A"
+    },
+    {
+      "album": {
+        "name": "Wild (Badjokes Remix)",
+        "url": "https://open.spotify.com/album/1ng6qR3oCbDle7thc2zXLc"
+      },
+      "artists": [
+        {
+          "name": "SQWAD",
+          "url": "https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI"
+        },
+        {
+          "name": "Badjokes",
+          "url": "https://open.spotify.com/artist/4zE0NW3CyaxTBIulekUFMD"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245714,
+      "name": "Wild - Badjokes Remix",
+      "url": "https://open.spotify.com/track/4mAoYToM80ByDoJwUKyWjj"
+    },
+    {
+      "album": {
+        "name": "Wild (Remixes)",
+        "url": "https://open.spotify.com/album/0H1fjqYmut1agxzuGctNit"
+      },
+      "artists": [
+        {
+          "name": "SQWAD",
+          "url": "https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI"
+        },
+        {
+          "name": "Keeld",
+          "url": "https://open.spotify.com/artist/4JU2KBLwvIFo9iH3a2FtCT"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Wild - Keeld Remix",
+      "url": "https://open.spotify.com/track/7AiuBGpkyYSU90CmptAxTE"
+    },
+    {
+      "album": {
+        "name": "Wormhole",
+        "url": "https://open.spotify.com/album/5rNgeedbyZ9nbuYgsouMVN"
+      },
+      "artists": [
+        {
+          "name": "Aidan Rudd",
+          "url": "https://open.spotify.com/artist/0Sk7ICzr5YpQ2b9N7zPSdD"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273750,
+      "name": "Wormhole",
+      "url": "https://open.spotify.com/track/1l2Dy1k3cPw6TSh58qt7Um"
+    },
+    {
+      "album": {
+        "name": "Zero Gravity",
+        "url": "https://open.spotify.com/album/4sQeyHsRLoFko6HvkiwPaP"
+      },
+      "artists": [
+        {
+          "name": "Kramder",
+          "url": "https://open.spotify.com/artist/0zE8RK1Xe0w3PEJC5WUVlQ"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176127,
+      "name": "Zero Gravity",
+      "url": "https://open.spotify.com/track/0Op2VgR1SaPiBP1LWlFsC4"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/0sGRBIx2RwGdIZo89tJabi"
 }

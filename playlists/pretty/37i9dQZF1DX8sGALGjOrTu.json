@@ -1,12 +1,12 @@
 {
   "description": "Back to the golden age of the scene. Cover: The Used",
-  "num_followers": 454334,
+  "num_followers": 454535,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGE2NGI2YjRkMTZlN2E5MmM1ZmZkMzVlNDBhOGQ0YjFmOGUxYjU3",
+  "snapshot_id": "MCw3MWU5MTVhYjI5OGYyNTNkOWQwZjZjMTc2MzZlNDBjMjYyNWU5YzUz",
   "tracks": [
     {
       "added_at": "2023-03-28 16:00:32",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "Juturna",
-        "url": "https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP"
-      },
-      "artists": [
-        {
-          "name": "Circa Survive",
-          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Act Appalled",
-      "url": "https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "Relativity",
         "url": "https://open.spotify.com/album/3XHoQliF0J7p6q6taBVvc6"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 273653,
       "name": "The Past Should Stay Dead",
       "url": "https://open.spotify.com/track/1WPoATdYDxAmso3K6OpsaY"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "Juturna",
+        "url": "https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP"
+      },
+      "artists": [
+        {
+          "name": "Circa Survive",
+          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Act Appalled",
+      "url": "https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "Louder Now (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 171831,
-      "name": "Error Operator",
-      "url": "https://open.spotify.com/track/3Zcx8pEo36dcrdppEmLVjs"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "Scary Kids Scaring Kids",
         "url": "https://open.spotify.com/album/3VrYxnxSDWTuJWxO3riGar"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 261240,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/48H6uWuBYeeZUiXwb5f69K"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "Louder Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 171831,
+      "name": "Error Operator",
+      "url": "https://open.spotify.com/track/3Zcx8pEo36dcrdppEmLVjs"
     },
     {
       "added_at": "2023-03-28 16:00:32",

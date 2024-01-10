@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 67816,
+  "num_followers": 67898,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmNiZjkwNTQxMzY0M2UwMDM2Zjc0MWVkMGRmNDRjNGEzNzYyNGQ1",
+  "snapshot_id": "MCwyZmUyYTJlYzUwZGRjODc2NmQyYjY0YTBjYzc3OTA5YzVjYWZmMWU4",
   "tracks": [
     {
       "added_at": "2023-12-20 10:48:06",
@@ -871,18 +871,18 @@
     {
       "added_at": "2023-12-20 10:48:06",
       "album": {
-        "name": "Jazz Guitar",
-        "url": "https://open.spotify.com/album/5RfC4bI1lfV7PFOyVxawiM"
+        "name": "West Coast Jazz (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y"
       },
       "artists": [
         {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 319240,
-      "name": "Thanks For The Memory",
-      "url": "https://open.spotify.com/track/6eBEARA33jF1lPXoPGhSqG"
+      "duration_ms": 203826,
+      "name": "A Handful Of Stars",
+      "url": "https://open.spotify.com/track/5luq92DNbbgm2PoUKQDbSc"
     },
     {
       "added_at": "2023-12-20 10:48:06",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-12-20 10:48:06",
       "album": {
-        "name": "West Coast Jazz (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y"
+        "name": "Jazz Guitar",
+        "url": "https://open.spotify.com/album/5RfC4bI1lfV7PFOyVxawiM"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
         }
       ],
-      "duration_ms": 203826,
-      "name": "A Handful Of Stars",
-      "url": "https://open.spotify.com/track/5luq92DNbbgm2PoUKQDbSc"
+      "duration_ms": 319240,
+      "name": "Thanks For The Memory",
+      "url": "https://open.spotify.com/track/6eBEARA33jF1lPXoPGhSqG"
     },
     {
       "added_at": "2023-12-20 10:48:06",

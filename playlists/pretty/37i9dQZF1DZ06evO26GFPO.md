@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 
 > This is LUDMILLA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,097 likes - 45 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,842 likes - 45 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 | 16 | [Não vá me enganar \- Ao Vivo](https://open.spotify.com/track/6Q3JFwQ0EoAO7gosrWI3na) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Numanice \#2 \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv) | 3:07 |
 | 17 | [Ela Não \- Ao vivo](https://open.spotify.com/track/3B7aR5W9WNzo9FeIsdGxI1) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \(Ao vivo\)](https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN) | 2:28 |
 | 18 | [Sinais de fogo \- Ao Vivo](https://open.spotify.com/track/5Uq1ta57YcmShqMyPmVyyO) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 3:21 |
-| 19 | [DA BRABA](https://open.spotify.com/track/0AcRSusRpiSyk7amRsbcdY) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 2:45 |
+| 19 | [Macetando](https://open.spotify.com/track/1T9dxi40GuNW3gNRHwk8P4) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Reivete\-se 3.0](https://open.spotify.com/album/4pTd3gXvJKxLClVdXVhi8G) | 2:47 |
 | 20 | [Teu Segredo \- Ao Vivo](https://open.spotify.com/track/6zR192lueVX45AwK5PLB0M) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Júlio Sereno](https://open.spotify.com/artist/4SESSrMv2jGENyRbkTVzF4) | [Numanice \#2 \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv) | 3:28 |
 | 21 | [Não É Por Maldade \- Ao vivo](https://open.spotify.com/track/19IIiuViFv6TsPDXV2ZWB3) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Numanice \(Ao vivo\)](https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN) | 3:35 |
-| 22 | [Macetando](https://open.spotify.com/track/1T9dxi40GuNW3gNRHwk8P4) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Reivete\-se 3.0](https://open.spotify.com/album/4pTd3gXvJKxLClVdXVhi8G) | 2:47 |
+| 22 | [DA BRABA](https://open.spotify.com/track/0AcRSusRpiSyk7amRsbcdY) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 2:45 |
 | 23 | [Dorme com Deus / Fica \- Ao Vivo](https://open.spotify.com/track/1Y7ShD0kGmHPwJTWOuBlHK) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Tá Na Mente](https://open.spotify.com/artist/1x7Y5zQOvhROVPgy73689r) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 3:51 |
 | 24 | [A boba fui eu \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Spotify Singles](https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk) | 3:12 |
 | 25 | [Um Pôr do Sol Na Praia](https://open.spotify.com/track/7JGjgJOUPjyc35carv8hoh) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Um Pôr do Sol Na Praia](https://open.spotify.com/album/1UVkJQfyY6tX2su3aLSgXO) | 3:08 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 | 44 | [Vida \- Ao Vivo](https://open.spotify.com/track/3rTg5u0gjZVZW8OGphOlcU) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [MF No Rio, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2P8zuC56lsghvc5KHP4rfQ) | 3:01 |
 | 45 | [Bom](https://open.spotify.com/track/25SL3ZSbEGtu4oU14xllMQ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [A danada sou eu](https://open.spotify.com/album/4JZQXCD2TwUZmxSLlMDRoX) | 2:52 |
 
-Snapshot ID: `Mjg0MTE5MDAsMDAwMDAwMDA4NDJjZmIzMWQ2MTIyNjJhMzIyZDE2MzRiZWRiNzY5NA==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDA0MjgzM2YyMGQ3NzFiM2MxMzljNDE5YjEwZTc1MzcwZQ==`

@@ -4,7 +4,7 @@
 
 > All live, all blues\. Cover: Christone "Kingfish" Ingram
 
-151 songs - 15 hr 17 min
+152 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Mad As A Hatter \(Live In Concert\)](https://open.spotify.com/track/0on0Y3tC9iHoPGYPBoJgFY) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Nu Deco Ensemble](https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK) | [Paint The Roses \(Live In Concert\)](https://open.spotify.com/album/2rIe2vSV47OAhOBLNtCWmu) | 5:12 | 2021-09-17 | 2023-03-06 |
 | [Mad As A Hatter \- Live in Concert](https://open.spotify.com/track/3msGgsgqMQXd7nO1S2e59f) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Nu Deco Ensemble](https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK) | [Paint The Roses \(Live in Concert\)](https://open.spotify.com/album/5u6igDbmfkKA1PW3DBItKH) | 5:12 | 2021-09-17 |  |
 | [Mainline Florida \- Live](https://open.spotify.com/track/0NRX4unLHXXFrZtFfSmHu6) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [British Blues Explosion Live](https://open.spotify.com/album/6wQ0Qd9cQZvOYE4Fn1OIZc) | 7:01 | 2020-10-30 |  |
-| [Midnight Heat \- Live](https://open.spotify.com/track/2HlfyyZwGq6tQYwl2qU0vY) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Live In London](https://open.spotify.com/album/3Lqzd6AFTfeVybMiBbBDse) | 5:24 | 2023-09-15 |  |
+| [Midnight Heat \- Live](https://open.spotify.com/track/1YLMfZsiVuBVb3yPB9mK0N) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Live In London \(Expanded Edition\)](https://open.spotify.com/album/7wyoiuJDpJrBXJJC4ULTe7) | 5:24 | 2023-09-15 |  |
+| [Midnight Heat \- Live](https://open.spotify.com/track/2HlfyyZwGq6tQYwl2qU0vY) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Live In London](https://open.spotify.com/album/3Lqzd6AFTfeVybMiBbBDse) | 5:24 | 2023-09-15 | 2024-01-10 |
 | [Mind's Eye \(Live\)](https://open.spotify.com/track/6YbmrjAs8vck6xcppmuxU2) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Mind’s Eye \(Live\)](https://open.spotify.com/album/6ccQ4vz1nVEDHdT0vco2nO) | 6:29 | 2023-02-17 | 2023-05-21 |
 | [Mississippi Nights \- Live](https://open.spotify.com/track/4FdgENJLxPqHFu9kX3iR4j) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Mississippi Nights \(Live\)](https://open.spotify.com/album/1cvWBICxDY8MTlff2niSji) | 5:00 | 2022-02-04 |  |
 | [Morning Glory \- Live](https://open.spotify.com/track/6hMLpRbSEw1RMHoNWZZkUL) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Morning Glory \(Live\)](https://open.spotify.com/album/4stO2L5IwcfHN6oyLVT1K1) | 4:19 | 2023-01-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Prinz
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,364 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,367 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 54 | [Alone](https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX) | [Emzorearner](https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A) | [Alone](https://open.spotify.com/album/34WR40SRw2MnKwjuQPYa27) | 2:32 |
 | 55 | [Up all night](https://open.spotify.com/track/76ldXW0puAk2q8YhpFASxH) | [LBSZN](https://open.spotify.com/artist/0f4fUl6px5XFPGW9FXi5Ff) | [Up all night](https://open.spotify.com/album/5hRXQWmzDZiFPdt878nWF4) | 2:41 |
 | 56 | [Champions League](https://open.spotify.com/track/2AqwxWjRr1H5ZoPLHLCVFX) | [Gbnga](https://open.spotify.com/artist/1ZbrCYB8p8VyeTxH5YnEqZ) | [In my head](https://open.spotify.com/album/3bt2qFTBQtl5wYzBPNrIk4) | 2:35 |
-| 57 | [One Mic Freestyle \(S3\-EP1\)](https://open.spotify.com/track/7jE4hIFXIvcVKMRT9mqAIP) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [One Mic Freestyle \(S3\-EP1\)](https://open.spotify.com/album/2mCtZg2UhnNeHFi4MIQibe) | 2:01 |
-| 58 | [Day and Night](https://open.spotify.com/track/4foQk41zscf2ya3sDW7sDx) | [Otis Lloyid](https://open.spotify.com/artist/0us4QqkjwND1o2fDahODKk) | [Day and Night](https://open.spotify.com/album/6f0CmOgIRoUFipHtcT3oP5) | 3:11 |
+| 57 | [Day and Night](https://open.spotify.com/track/4foQk41zscf2ya3sDW7sDx) | [Otis Lloyid](https://open.spotify.com/artist/0us4QqkjwND1o2fDahODKk) | [Day and Night](https://open.spotify.com/album/6f0CmOgIRoUFipHtcT3oP5) | 3:11 |
+| 58 | [One Mic Freestyle \(S3\-EP1\)](https://open.spotify.com/track/7jE4hIFXIvcVKMRT9mqAIP) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [One Mic Freestyle \(S3\-EP1\)](https://open.spotify.com/album/2mCtZg2UhnNeHFi4MIQibe) | 2:01 |
 | 59 | [House Invasions](https://open.spotify.com/track/6MmoLsN5Wh0g86AOfOH5nt) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [House Invasions](https://open.spotify.com/album/1XrCkFbBItJh1RGDUjP6oG) | 3:29 |
 | 60 | [Scorpio Trait](https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t) | [Fabz](https://open.spotify.com/artist/7LXCcM3l2atOFVrLyhQMOW) | [Scorpio Trait](https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7) | 4:09 |
 | 61 | [No Emotions](https://open.spotify.com/track/5iSCp2kkb7UzpZavOMXhbA) | [Ddotz x Dice](https://open.spotify.com/artist/3bekb1Bww1qdnXpGN6uUsd) | [No Emotions](https://open.spotify.com/album/17K4yH8Z5TxBVc5F49J5wQ) | 2:50 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 86 | [Circle Of Life](https://open.spotify.com/track/05r45PbXeBlE1DZ1AhidQX) | [NSJ Mali](https://open.spotify.com/artist/5ld1CGuHqq93QY19pW1vgO) | [Circle Of Life](https://open.spotify.com/album/1IYraEMImyyhDHxXezx6zL) | 4:17 |
 | 87 | [I Was Never Phased](https://open.spotify.com/track/6iN03nZ9ER8ZWKboLAcsC8) | [Idi Akz](https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf) | [Leave This City](https://open.spotify.com/album/3rEyaw515ovA4tF0Qq2Qq8) | 2:49 |
 | 88 | [Lowkey '](https://open.spotify.com/track/5lx1xGuMvgzCz9pn1eyjWN) | [Sleepy Halllow](https://open.spotify.com/artist/2PHitDAVzXAH0FxjKH9U6P), [Nyc Drill Rap](https://open.spotify.com/artist/3mVrbnVGm8lWIFFb7VUWrA) | [Lowkey '](https://open.spotify.com/album/3ylVS3PBeyLUtxX3icOv1X) | 2:34 |
-| 89 | [I Wanna Start My Life Again](https://open.spotify.com/track/09ZklXJx5nKCvZ8gm0Fhpw) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [I Wanna Start My Life Again](https://open.spotify.com/album/5f7YPCMOtutGSIpnM31Jfx) | 2:30 |
+| 89 | [If I Die Young](https://open.spotify.com/track/6YuuPifFt2Oa4Flm6ttPHm) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [If I Die Young](https://open.spotify.com/album/5dovlyUr9PQKLzUMPTErNS) | 3:09 |
 | 90 | [THOUGHTS](https://open.spotify.com/track/5kLBe7SrtvDoxXDMtjbbCY) | [DEE L](https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ) | [THOUGHTS](https://open.spotify.com/album/5pI1HI0Xhoayb2zjPzQgTH) | 2:58 |
 | 91 | [Just 4 Me](https://open.spotify.com/track/280IIfDu4nwz2yrZNUYw0Y) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [HBK](https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX) | 3:02 |
 | 92 | [No Love Left](https://open.spotify.com/track/6gmthC4x8INHuZc1MnHj0A) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [No Love Left](https://open.spotify.com/album/1lmZmtx0bWPkYLextZNZJC) | 2:51 |
 | 93 | [Who Am I?\(I Dont Know\)](https://open.spotify.com/track/7dZBAEndXGOczb5O3QJWE4) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Who Am I?\(I Dont Know\)](https://open.spotify.com/album/2m5EhBsAarjhNd77FAGQch) | 2:42 |
 | 94 | [Angels Fly High](https://open.spotify.com/track/2HKtJCinY7r5wnqXMvtDHW) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Angels Fly High](https://open.spotify.com/album/3YB7TrvCwgnepJig20lYhT) | 3:01 |
-| 95 | [Everyone Keeps Asking](https://open.spotify.com/track/5CnA7Zd6DNijdo3l7xruLr) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Retrospect \(Season 2\)](https://open.spotify.com/album/0HGP6dcDqqRmEAdScLYwnM) | 3:23 |
-| 96 | [If I Die Young](https://open.spotify.com/track/6YuuPifFt2Oa4Flm6ttPHm) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [If I Die Young](https://open.spotify.com/album/5dovlyUr9PQKLzUMPTErNS) | 3:09 |
-| 97 | [She Comes & Goes](https://open.spotify.com/track/70PZ5vXHGujPPDZ18mj6A1) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Retrogress \(Season 1\)](https://open.spotify.com/album/1FyznQmJjIIXuFybKnQaQu) | 3:19 |
-| 98 | [I Thought I’d Die In Your Arms](https://open.spotify.com/track/4b3pxifcb2ZdFWcutsC5Ik) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Retrogress \(Season 1\)](https://open.spotify.com/album/1FyznQmJjIIXuFybKnQaQu) | 2:56 |
+| 95 | [I Wanna Start My Life Again](https://open.spotify.com/track/09ZklXJx5nKCvZ8gm0Fhpw) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [I Wanna Start My Life Again](https://open.spotify.com/album/5f7YPCMOtutGSIpnM31Jfx) | 2:30 |
+| 96 | [Everyone Keeps Asking](https://open.spotify.com/track/5CnA7Zd6DNijdo3l7xruLr) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Retrospect \(Season 2\)](https://open.spotify.com/album/0HGP6dcDqqRmEAdScLYwnM) | 3:23 |
+| 97 | [I Thought I’d Die In Your Arms](https://open.spotify.com/track/4b3pxifcb2ZdFWcutsC5Ik) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Retrogress \(Season 1\)](https://open.spotify.com/album/1FyznQmJjIIXuFybKnQaQu) | 2:56 |
+| 98 | [She Comes & Goes](https://open.spotify.com/track/70PZ5vXHGujPPDZ18mj6A1) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Retrogress \(Season 1\)](https://open.spotify.com/album/1FyznQmJjIIXuFybKnQaQu) | 3:19 |
 | 99 | [Drowning](https://open.spotify.com/track/4KX39Q6MDuzwYb4RWalM6o) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Drowning](https://open.spotify.com/album/2eJb5JmHCBNN4DWE7KGH6P) | 2:13 |
 | 100 | [Married To Music](https://open.spotify.com/track/062H0gbvraLlfXPJRzg7e5) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M), [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Married To Music](https://open.spotify.com/album/0quJWbGpn6BeNgLv2GphAC) | 3:01 |
 
-Snapshot ID: `MCwzNDA5MTdkZGVhNDIzOWU5YWVlYjgwMDU5YjlkNmE1ZTM1ZGEwZGUz`
+Snapshot ID: `MCxiODk5ODA1YWVjZjY2MTkzZGJiMWVhMjA5YTlmNGM3NjI4ZmNhZjY1`

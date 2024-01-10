@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Fred again..",
-  "num_followers": 766323,
+  "num_followers": 766009,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTZlYzFlNTQ5ZjM4ZTU2NGVlNDFkOTQ0M2FkYzFmMWNhNGViNWZh",
+  "snapshot_id": "MCw1Y2ViNzMzYmI1NzM3MWJkYTI1MTFmZjdlZThmNGM4YjQ4MmZlYmFk",
   "tracks": [
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1011,6 +1011,30 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
+        "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
+        "url": "https://open.spotify.com/album/4dKYCpl0dDy01Lw2msVJBU"
+      },
+      "artists": [
+        {
+          "name": "Billy Gillies",
+          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
+        },
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "duration_ms": 176516,
+      "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
+      "url": "https://open.spotify.com/track/2rAB0mDHnaOnfvFmaWUx0j"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
       },
@@ -1047,30 +1071,6 @@
       "duration_ms": 217369,
       "name": "Cold Blooded",
       "url": "https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
-        "url": "https://open.spotify.com/album/4dKYCpl0dDy01Lw2msVJBU"
-      },
-      "artists": [
-        {
-          "name": "Billy Gillies",
-          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
-        },
-        {
-          "name": "Levity",
-          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
-        },
-        {
-          "name": "Hannah Boleyn",
-          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
-        }
-      ],
-      "duration_ms": 176516,
-      "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
-      "url": "https://open.spotify.com/track/2rAB0mDHnaOnfvFmaWUx0j"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Microworlds",
-        "url": "https://open.spotify.com/album/1OrVf4ejXLTMfWUiXtXU3C"
-      },
-      "artists": [
-        {
-          "name": "CloZee",
-          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
-        },
-        {
-          "name": "Ella Vos",
-          "url": "https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6"
-        }
-      ],
-      "duration_ms": 209341,
-      "name": "Glow In The Dark",
-      "url": "https://open.spotify.com/track/43QTqbEuSMnofYrZ1fuNwi"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "Palaces",
         "url": "https://open.spotify.com/album/6SZtno2XqSmfr5MKsNeXmC"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 231803,
       "name": "I Can't Tell (feat. LAUREL)",
       "url": "https://open.spotify.com/track/6rqicO2m83wiLH6HcTRkZu"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Microworlds",
+        "url": "https://open.spotify.com/album/1OrVf4ejXLTMfWUiXtXU3C"
+      },
+      "artists": [
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        },
+        {
+          "name": "Ella Vos",
+          "url": "https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6"
+        }
+      ],
+      "duration_ms": 209341,
+      "name": "Glow In The Dark",
+      "url": "https://open.spotify.com/track/43QTqbEuSMnofYrZ1fuNwi"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "BLEACH [Hi-Fi]",
-        "url": "https://open.spotify.com/album/0V3wvkznjsm1LFyKiO0x7l"
-      },
-      "artists": [
-        {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        }
-      ],
-      "duration_ms": 180668,
-      "name": "RUN INTO MY ARMS",
-      "url": "https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "see u",
         "url": "https://open.spotify.com/album/5CuHiWXqJGGzU4UFKL9IDy"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 130615,
       "name": "see u",
       "url": "https://open.spotify.com/track/6Fg0fOsCwdIKmJzuFJWekp"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "BLEACH [Hi-Fi]",
+        "url": "https://open.spotify.com/album/0V3wvkznjsm1LFyKiO0x7l"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        }
+      ],
+      "duration_ms": 180668,
+      "name": "RUN INTO MY ARMS",
+      "url": "https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1615,22 +1615,22 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "East Meets West",
-        "url": "https://open.spotify.com/album/5r2BhLA6K3S3NTCNBsSMtX"
+        "name": "pullmecloser",
+        "url": "https://open.spotify.com/album/165941zH2zxcRPR9rP8PK2"
       },
       "artists": [
         {
-          "name": "MEMBA",
-          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
         },
         {
-          "name": "Kahani",
-          "url": "https://open.spotify.com/artist/1fu7plwfaglPCQU6y1RFfb"
+          "name": "Diamond Pistols",
+          "url": "https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5"
         }
       ],
-      "duration_ms": 247500,
-      "name": "Transcendence",
-      "url": "https://open.spotify.com/track/1vg8GqS7TkJqYDuXX1xhXn"
+      "duration_ms": 150909,
+      "name": "pullmecloser",
+      "url": "https://open.spotify.com/track/0LtDM3ttfZsmzmNgm8aAtm"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1655,22 +1655,22 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "pullmecloser",
-        "url": "https://open.spotify.com/album/165941zH2zxcRPR9rP8PK2"
+        "name": "East Meets West",
+        "url": "https://open.spotify.com/album/5r2BhLA6K3S3NTCNBsSMtX"
       },
       "artists": [
         {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
         },
         {
-          "name": "Diamond Pistols",
-          "url": "https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5"
+          "name": "Kahani",
+          "url": "https://open.spotify.com/artist/1fu7plwfaglPCQU6y1RFfb"
         }
       ],
-      "duration_ms": 150909,
-      "name": "pullmecloser",
-      "url": "https://open.spotify.com/track/0LtDM3ttfZsmzmNgm8aAtm"
+      "duration_ms": 247500,
+      "name": "Transcendence",
+      "url": "https://open.spotify.com/track/1vg8GqS7TkJqYDuXX1xhXn"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
+        "name": "ORANGES",
+        "url": "https://open.spotify.com/album/0TPBV5t6GkkAPYu35zj8aV"
+      },
+      "artists": [
+        {
+          "name": "Jaron",
+          "url": "https://open.spotify.com/artist/4kerBatvaELCGJDnDqW5oq"
+        }
+      ],
+      "duration_ms": 123272,
+      "name": "ORANGES",
+      "url": "https://open.spotify.com/track/3r9Cxh3C8aYaph5D8lT4cW"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
         "name": "Pondering Minds",
         "url": "https://open.spotify.com/album/0rXMwYMIcqCsH7fmnsimlN"
       },
@@ -1787,18 +1803,18 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "ORANGES",
-        "url": "https://open.spotify.com/album/0TPBV5t6GkkAPYu35zj8aV"
+        "name": "Arrived Anxious, Left Bored",
+        "url": "https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK"
       },
       "artists": [
         {
-          "name": "Jaron",
-          "url": "https://open.spotify.com/artist/4kerBatvaELCGJDnDqW5oq"
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
         }
       ],
-      "duration_ms": 123272,
-      "name": "ORANGES",
-      "url": "https://open.spotify.com/track/3r9Cxh3C8aYaph5D8lT4cW"
+      "duration_ms": 287546,
+      "name": "No Other 1.2.2 [2021 Export Wav]",
+      "url": "https://open.spotify.com/track/60yc5ZwNjlZifPlqTntbLA"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1819,22 +1835,6 @@
       "duration_ms": 241979,
       "name": "Drugs",
       "url": "https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Arrived Anxious, Left Bored",
-        "url": "https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        }
-      ],
-      "duration_ms": 287546,
-      "name": "No Other 1.2.2 [2021 Export Wav]",
-      "url": "https://open.spotify.com/track/60yc5ZwNjlZifPlqTntbLA"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1875,6 +1875,26 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
+        "name": "Killing Me Slowly",
+        "url": "https://open.spotify.com/album/5CfsdEREZS2gS16RsxrKI9"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        },
+        {
+          "name": "Tori Romo",
+          "url": "https://open.spotify.com/artist/3uuKpwmr7SsX9lVp4AGG5x"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Killing Me Slowly",
+      "url": "https://open.spotify.com/track/04d4GzuAcytdLP2M3U9hiu"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
         "name": "Undo U",
         "url": "https://open.spotify.com/album/7Cr1Y5N2iMW4qKpiXH462f"
       },
@@ -1907,26 +1927,6 @@
       "duration_ms": 186363,
       "name": "Tennis Skirt (feat. Ella Boh)",
       "url": "https://open.spotify.com/track/3w74Pz5BG5OUq4clvB3iJ2"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Killing Me Slowly",
-        "url": "https://open.spotify.com/album/5CfsdEREZS2gS16RsxrKI9"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        },
-        {
-          "name": "Tori Romo",
-          "url": "https://open.spotify.com/artist/3uuKpwmr7SsX9lVp4AGG5x"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Killing Me Slowly",
-      "url": "https://open.spotify.com/track/04d4GzuAcytdLP2M3U9hiu"
     },
     {
       "added_at": "2023-12-22 05:00:00",

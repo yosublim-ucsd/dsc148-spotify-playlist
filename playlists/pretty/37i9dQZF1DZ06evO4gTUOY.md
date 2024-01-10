@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gTUOY.md) - [plain]
 
 > This is Eminem\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,604,451 likes - 52 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,604,152 likes - 52 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gTUOY.md) - [plain]
 | 7 | [Love The Way You Lie](https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Recovery](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) | 4:23 |
 | 8 | [Smack That](https://open.spotify.com/track/2kQuhkFX7uSVepCD3h29g5) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 3:32 |
 | 9 | [Till I Collapse](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:57 |
-| 10 | [Lose Yourself](https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Just Lose It](https://open.spotify.com/album/1rfORa9iYmocEsnnZGMVC4) | 5:22 |
-| 11 | [Lace It \(with Eminem & benny blanco\)](https://open.spotify.com/track/4qmG24ebshLXtKu9HIShBP) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lace It \(with Eminem & benny blanco\)](https://open.spotify.com/album/5nOfPCLpHGpayGrUNHAPLt) | 3:37 |
+| 10 | [Lace It \(with Eminem & benny blanco\)](https://open.spotify.com/track/4qmG24ebshLXtKu9HIShBP) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lace It \(with Eminem & benny blanco\)](https://open.spotify.com/album/5nOfPCLpHGpayGrUNHAPLt) | 3:37 |
+| 11 | [Lose Yourself](https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Just Lose It](https://open.spotify.com/album/1rfORa9iYmocEsnnZGMVC4) | 5:22 |
 | 12 | [Stan](https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 6:44 |
 | 13 | [Superman](https://open.spotify.com/track/4woTEX1wYOTGDqNXuavlRC) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dina Rae](https://open.spotify.com/artist/5jNmxPYz8QE5rYp4GDil8t) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 5:50 |
 | 14 | [Not Afraid](https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Recovery](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) | 4:08 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gTUOY.md) - [plain]
 | 51 | [Berzerk](https://open.spotify.com/track/6Xk7PnitV9jCRorWt2LiVZ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP2 \(Deluxe\)](https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk) | 3:58 |
 | 52 | [Realest \(with Eminem\)](https://open.spotify.com/track/049m5wlslFiYLQuqxrG6QB) | [Ez Mil](https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Realest \(with Eminem\)](https://open.spotify.com/album/2qJd6dBsXw6hZrZp8L8n2P) | 3:37 |
 
-Snapshot ID: `Mjg0MTE4OTksMDAwMDAwMDA5MjkyNzEzYmE2M2Y1MjY1MzE2YzI2MDVjODQwZTRlOA==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDAwNzBlMzI2MzA0MjMyMGEyM2E4YjU1NDhlMWU0MWViOA==`

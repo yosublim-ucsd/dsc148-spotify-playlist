@@ -1,12 +1,12 @@
 {
   "description": "Tudo de novo que t\u00e1 rolando no pop! Atualizada toda semana \u2728 Foto: Beyonc\u00e9",
-  "num_followers": 124977,
+  "num_followers": 124967,
   "original_name": "SUPERNOVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWQ4NGE2M2ZhMTU1ODhhNWVhMTRjYmMxZjgxNjRhZTc4ZDA5MjVi",
+  "snapshot_id": "MCw0MWYxOGRmOTkwNzNiYzFhZmM2Mzg0YTI4MjYzNjNmNGFiYzhmNTdj",
   "tracks": [
     {
       "added_at": "2024-01-05 14:35:56",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-01-05 14:35:56",
       "album": {
-        "name": "UN PREVIEW",
-        "url": "https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 165582,
-      "name": "UN PREVIEW",
-      "url": "https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z"
-    },
-    {
-      "added_at": "2024-01-05 14:35:56",
-      "album": {
         "name": "QUE CHIMBA DE VIDA",
         "url": "https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 123351,
       "name": "QUE CHIMBA DE VIDA",
       "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"
+    },
+    {
+      "added_at": "2024-01-05 14:35:56",
+      "album": {
+        "name": "UN PREVIEW",
+        "url": "https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 165582,
+      "name": "UN PREVIEW",
+      "url": "https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z"
     },
     {
       "added_at": "2024-01-05 14:35:56",
@@ -467,30 +467,6 @@
       "duration_ms": 175500,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x"
-    },
-    {
-      "added_at": "2024-01-05 14:35:56",
-      "album": {
-        "name": "TOO MUCH",
-        "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 203894,
-      "name": "TOO MUCH",
-      "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
     },
     {
       "added_at": "2024-01-05 14:35:56",
@@ -523,6 +499,30 @@
       "duration_ms": 192935,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
+    },
+    {
+      "added_at": "2024-01-05 14:35:56",
+      "album": {
+        "name": "TOO MUCH",
+        "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 203894,
+      "name": "TOO MUCH",
+      "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
     },
     {
       "added_at": "2024-01-05 14:35:56",
@@ -795,26 +795,6 @@
     {
       "added_at": "2024-01-05 14:35:56",
       "album": {
-        "name": "Heaven knows",
-        "url": "https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 162413,
-      "name": "Nice to meet you (feat. Central Cee)",
-      "url": "https://open.spotify.com/track/1jLVSavLHTeEixX6CIxqQR"
-    },
-    {
-      "added_at": "2024-01-05 14:35:56",
-      "album": {
         "name": "Not My Fault (with Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 170528,
       "name": "Not My Fault (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M"
+    },
+    {
+      "added_at": "2024-01-05 14:35:56",
+      "album": {
+        "name": "Heaven knows",
+        "url": "https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 162413,
+      "name": "Nice to meet you (feat. Central Cee)",
+      "url": "https://open.spotify.com/track/1jLVSavLHTeEixX6CIxqQR"
     },
     {
       "added_at": "2024-01-05 14:35:56",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-01-05 14:35:56",
       "album": {
-        "name": "Te Mata",
-        "url": "https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 232306,
-      "name": "Te Mata",
-      "url": "https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v"
-    },
-    {
-      "added_at": "2024-01-05 14:35:56",
-      "album": {
         "name": "Sleepwalking",
         "url": "https://open.spotify.com/album/1WkPJ7h3W8VNTOaRWWsATU"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 228376,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/4axflVhTuU55y1ZYyLJ22X"
+    },
+    {
+      "added_at": "2024-01-05 14:35:56",
+      "album": {
+        "name": "Te Mata",
+        "url": "https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 232306,
+      "name": "Te Mata",
+      "url": "https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v"
     },
     {
       "added_at": "2024-01-05 14:35:56",

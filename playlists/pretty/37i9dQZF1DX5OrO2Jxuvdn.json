@@ -1,12 +1,12 @@
 {
   "description": "Sweat it out with your favorite country workout songs. Cover: Lainey Wilson",
-  "num_followers": 96786,
+  "num_followers": 96788,
   "original_name": "Country Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTEzNjg1YzVjMjc3NWMyYmNhZmZhYTU0NGJiNTdlMzUyMTY0YmQ1",
+  "snapshot_id": "MCxjNzhlNTBmNGVmZDUxNWFhZTQxMzM1YjUzMmMyYTE3NWNlYzYwYWQ4",
   "tracks": [
     {
       "added_at": "2023-10-05 18:42:19",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Wine, Beer, Whiskey",
-      "url": "https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"
-    },
-    {
-      "added_at": "2023-10-05 18:42:19",
-      "album": {
         "name": "Love,Heartbreak, & Everything in Between",
         "url": "https://open.spotify.com/album/478FbS6cYoaEYreO0H4YOx"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 198208,
       "name": "Somebody Like That",
       "url": "https://open.spotify.com/track/4K7wet87HnlWKi0CXWvg1i"
+    },
+    {
+      "added_at": "2023-10-05 18:42:19",
+      "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Wine, Beer, Whiskey",
+      "url": "https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -1075,38 +1075,6 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
-        "name": "Meat and Candy",
-        "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "Snapback",
-      "url": "https://open.spotify.com/track/7I5fYc4qKJddht8Ozhqqdx"
-    },
-    {
-      "added_at": "2023-10-05 18:42:19",
-      "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Arkansas",
-      "url": "https://open.spotify.com/track/0NdEdsXS9jbX1hnufawZ0z"
-    },
-    {
-      "added_at": "2023-10-05 18:42:19",
-      "album": {
         "name": "747",
         "url": "https://open.spotify.com/album/1JHNRou038CfCC0RZztDz8"
       },
@@ -1139,6 +1107,38 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
+        "name": "Meat and Candy",
+        "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "Snapback",
+      "url": "https://open.spotify.com/track/7I5fYc4qKJddht8Ozhqqdx"
+    },
+    {
+      "added_at": "2023-10-05 18:42:19",
+      "album": {
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Arkansas",
+      "url": "https://open.spotify.com/track/0NdEdsXS9jbX1hnufawZ0z"
+    },
+    {
+      "added_at": "2023-10-05 18:42:19",
+      "album": {
         "name": "Tornado",
         "url": "https://open.spotify.com/album/5IIYlM5tjDtW3fIgOIA5TB"
       },
@@ -1151,38 +1151,6 @@
       "duration_ms": 212320,
       "name": "Pontoon",
       "url": "https://open.spotify.com/track/2Gy3XMLbBxACZ4tXdFRGr7"
-    },
-    {
-      "added_at": "2023-10-05 18:42:19",
-      "album": {
-        "name": "Everything She Ain\u2019t",
-        "url": "https://open.spotify.com/album/761yinsOXW3p74dFBge4c7"
-      },
-      "artists": [
-        {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
-        }
-      ],
-      "duration_ms": 151973,
-      "name": "Everything She Ain\u2019t",
-      "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
-    },
-    {
-      "added_at": "2023-10-05 18:42:19",
-      "album": {
-        "name": "Four The Record",
-        "url": "https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "Fastest Girl in Town",
-      "url": "https://open.spotify.com/track/6sXK2Fq7Ibi3SN6qYyQgIG"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -1203,18 +1171,34 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
-        "name": "Meat and Candy",
-        "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
+        "name": "Four The Record",
+        "url": "https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m"
       },
       "artists": [
         {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 207733,
-      "name": "Break Up with Him",
-      "url": "https://open.spotify.com/track/5ZManJDV3CexO66nRCkdiV"
+      "duration_ms": 197600,
+      "name": "Fastest Girl in Town",
+      "url": "https://open.spotify.com/track/6sXK2Fq7Ibi3SN6qYyQgIG"
+    },
+    {
+      "added_at": "2023-10-05 18:42:19",
+      "album": {
+        "name": "Everything She Ain\u2019t",
+        "url": "https://open.spotify.com/album/761yinsOXW3p74dFBge4c7"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "duration_ms": 151973,
+      "name": "Everything She Ain\u2019t",
+      "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -1247,6 +1231,22 @@
       "duration_ms": 190640,
       "name": "Every Little Thing",
       "url": "https://open.spotify.com/track/3kgCJPXDlnL5bl1HFesHUi"
+    },
+    {
+      "added_at": "2023-10-05 18:42:19",
+      "album": {
+        "name": "Meat and Candy",
+        "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 207733,
+      "name": "Break Up with Him",
+      "url": "https://open.spotify.com/track/5ZManJDV3CexO66nRCkdiV"
     },
     {
       "added_at": "2023-10-05 18:42:19",

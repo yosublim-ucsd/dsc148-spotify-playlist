@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aBNIs.md) - [plain]
 
 > This is Avril Lavigne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 662,643 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 662,455 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aBNIs.md) - [plain]
 | 24 | [Things I'll Never Say](https://open.spotify.com/track/3nH2w4Q9yths31lC9C26fT) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 3:43 |
 | 25 | [Rock N Roll](https://open.spotify.com/track/471JGLzHPrgM4lS9mNOEIt) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Avril Lavigne \(Expanded Edition\)](https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l) | 3:26 |
 | 26 | [Love It When You Hate Me \(feat\. blackbear\)](https://open.spotify.com/track/6m0Dk7Cm7rWQLzCjeYIiIt) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:25 |
-| 27 | [Knockin' on Heaven's Door \- Studio Version](https://open.spotify.com/track/6xF5RkVUNl7YkNapPCk2Ds) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Nobody's Home](https://open.spotify.com/album/3lcqYhgY599FdXetGtNElV) | 2:50 |
-| 28 | [Fall To Pieces](https://open.spotify.com/track/396WOfbkqKaXYFwx6XjdOF) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) | 3:28 |
+| 27 | [Fall To Pieces](https://open.spotify.com/track/396WOfbkqKaXYFwx6XjdOF) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) | 3:28 |
+| 28 | [Knockin' on Heaven's Door \- Studio Version](https://open.spotify.com/track/6xF5RkVUNl7YkNapPCk2Ds) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Nobody's Home](https://open.spotify.com/album/3lcqYhgY599FdXetGtNElV) | 2:50 |
 | 29 | [Let Me Go \(feat\. Chad Kroeger\)](https://open.spotify.com/track/2o0V0AATmWmCmMOAFWDuEV) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin) | [Avril Lavigne \(Expanded Edition\)](https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l) | 4:27 |
 | 30 | [Tomorrow](https://open.spotify.com/track/1T0Dv84b0Za7FoLcoeajgh) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 3:48 |
 | 31 | [Love Sux](https://open.spotify.com/track/0ML3PJ6f9lgj1B4FQo4kZB) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aBNIs.md) - [plain]
 | 49 | [Hello – Spotify Singles](https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Spotify Singles](https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV) | 4:06 |
 | 50 | [Shelter \(feat\. Avril Lavigne\)](https://open.spotify.com/track/62pC4mgtn2CwTxEHVbCCvn) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [God Save The Teen](https://open.spotify.com/album/2nGoq5bReMW1NvKsbjoCBw) | 3:10 |
 
-Snapshot ID: `Mjg0MTE4OTksMDAwMDAwMDBmMTdlNWIyYTFkODAwZDBhMTY5MTc3MTEzYTI4MWNmYg==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDAwYTIwYWRhYTVhZDgzMzAyNWQ5NzZjOWJkNGIwNDVlZA==`

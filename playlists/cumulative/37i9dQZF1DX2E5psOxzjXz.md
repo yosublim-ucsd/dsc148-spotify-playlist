@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Mooroo
 
-240 songs - 13 hr 39 min
+241 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,8 @@
 | [YDKILY](https://open.spotify.com/track/3XLC0P0oFgpuK7cDyjbcnB) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ) | [YDKILY](https://open.spotify.com/album/7fmcLyA0BuslOWU3LOa26T) | 3:16 | 2023-09-15 | 2023-11-03 |
 | [You and I](https://open.spotify.com/track/7EsRRR13vJUBY4w3melVOe) | [Saba](https://open.spotify.com/artist/4MfJpctdjE0XWsRmTJbCMY), [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R) | [You and I](https://open.spotify.com/album/6vo4H24QWt2XyqhqnZbArD) | 3:29 | 2021-12-06 | 2022-03-05 |
 | [You don't know](https://open.spotify.com/track/36fXGJsQmHzsTJ69DUV0nE) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shehryar Khan](https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp) | [You don't know \(Pack\)](https://open.spotify.com/album/153syyegkwTUwQGi58QNhP) | 2:03 | 2023-11-02 | 2023-11-18 |
-| [Zamanay](https://open.spotify.com/track/6o1DfORVD5ACPgDFqCDl6R) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Zamanay](https://open.spotify.com/album/2bW42L4X55NqzHM4B76Akk) | 2:42 | 2022-11-23 |  |
+| [Zamanay](https://open.spotify.com/track/1KD6tWKf9z3mx8n8E9eYle) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Zamanay](https://open.spotify.com/album/6P0skMRTD2kXyJstKa6v6G) | 2:42 | 2023-12-30 |  |
+| [Zamanay](https://open.spotify.com/track/6o1DfORVD5ACPgDFqCDl6R) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Zamanay](https://open.spotify.com/album/2bW42L4X55NqzHM4B76Akk) | 2:42 | 2022-11-23 | 2024-01-10 |
 | [Zardarazir](https://open.spotify.com/track/6tlbPyku9OaRFwrhg1HRCb) | [Poor Rich Boy](https://open.spotify.com/artist/2DtZwsXs6iF0xOAF17ziBP) | [Old Money](https://open.spotify.com/album/1D00gmVqD6Uoj6m4gDaDhv) | 3:16 | 2021-12-06 | 2022-07-29 |
 | [Zardarazir](https://open.spotify.com/track/72r78Fn09sIr0TZVdd8KlM) | [Poor Rich Boy](https://open.spotify.com/artist/2DtZwsXs6iF0xOAF17ziBP) | [Old Money](https://open.spotify.com/album/3taQvmtkWiEAQcA0zQwwwc) | 3:16 | 2022-07-05 | 2023-02-14 |
 | [Zooted](https://open.spotify.com/track/62PH2BRDOFw0AHZYar3zfD) | [Yung Pakei](https://open.spotify.com/artist/1oXF5VeAEmTvXK4OwDLWdA) | [Zooted](https://open.spotify.com/album/4yL8vNrO9vE7i59jK28Xhi) | 3:41 | 2021-12-06 | 2022-03-05 |

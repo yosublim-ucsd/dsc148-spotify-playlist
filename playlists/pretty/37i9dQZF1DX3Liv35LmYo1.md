@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 
 > Moody electronica for the night shift
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,020 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,960 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 3 | [in a room7 F760](https://open.spotify.com/track/3sFYzy26BTS3te7WV8QeLx) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f / in a room7 F760](https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2) | 3:53 |
 | 4 | [All Good \- Jasper Tygner Remix](https://open.spotify.com/track/19FSj8Zq5ZUEF6C87rKPcH) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98), [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [All Good \(Jasper Tygner Remix\)](https://open.spotify.com/album/0l8JO6jLZBpLzcNe0vo4Ri) | 4:03 |
 | 5 | [I Know](https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [OnlyL](https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU) | 4:48 |
-| 6 | [meserole](https://open.spotify.com/track/0ZknBLwUkWexmyNLAukYpE) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [meserole](https://open.spotify.com/album/6IAjQJTXRLi7MdiE1KptlD) | 3:33 |
+| 6 | [suddenly](https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [breath tapes](https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA) | 3:35 |
 | 7 | [Keep On](https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Keep On](https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO) | 3:38 |
 | 8 | [TIOLI](https://open.spotify.com/track/0lfQ5Cw75fnkAg2JXAh0Qh) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [TIOLI](https://open.spotify.com/album/0LHWXE2N0oByFLjTqcfrkb) | 4:38 |
 | 9 | [Blissda](https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [MY DEAR](https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1) | 5:43 |
@@ -23,16 +23,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 13 | [RUSH \(Blush\)](https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [RUSH \(Blush\)](https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp) | 4:02 |
 | 14 | [Heirloom](https://open.spotify.com/track/0OYUp11ElGJsLWqxQNXBE3) | [KISLO](https://open.spotify.com/artist/3VXFXDKTNev0EWuXOvozh6) | [Heirloom](https://open.spotify.com/album/2FjjBjJLjsmvRv3SzhRqyK) | 4:43 |
 | 15 | [Familiar Flavours](https://open.spotify.com/track/5DahiVparbFG67nqloWPSL) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [Familiar Flavours](https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU) | 4:20 |
-| 16 | [suddenly](https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [breath tapes](https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA) | 3:35 |
-| 17 | [Interior \- Edit](https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Interior](https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML) | 3:48 |
-| 18 | [Keep Shimmering](https://open.spotify.com/track/7d5W34LzqiRbH8LCOZw7zz) | [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [Please Keep Shimmering](https://open.spotify.com/album/0Jb1QT42kUlDfl7gQzzGxM) | 4:23 |
+| 16 | [meserole](https://open.spotify.com/track/0ZknBLwUkWexmyNLAukYpE) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [meserole](https://open.spotify.com/album/6IAjQJTXRLi7MdiE1KptlD) | 3:33 |
+| 17 | [Keep Shimmering](https://open.spotify.com/track/7d5W34LzqiRbH8LCOZw7zz) | [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [Please Keep Shimmering](https://open.spotify.com/album/0Jb1QT42kUlDfl7gQzzGxM) | 4:23 |
+| 18 | [Interior \- Edit](https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Interior](https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML) | 3:48 |
 | 19 | [21](https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [In The Sweetness of You](https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq) | 3:53 |
 | 20 | [I Want an Earth](https://open.spotify.com/track/69932XkAB5hvIGpc5mvVfF) | [Yu Su](https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0) | [I Want an Earth](https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN) | 6:02 |
 | 21 | [Whipbird Dub](https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg) | [Subset](https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl) | [Call of the Whipbird](https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1) | 6:28 |
 | 22 | [Clavicle](https://open.spotify.com/track/0WsWPDqKxxbhuagIulHk9g) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5) | 3:33 |
 | 23 | [Blush](https://open.spotify.com/track/2Dnh5y1kaUPymUifmimhD7) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Blush](https://open.spotify.com/album/4QWYTWnk5Cb1a7zUXQLGts) | 3:45 |
-| 24 | [Inperspect](https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [Inperspect](https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR) | 8:18 |
-| 25 | [You Need Somebody](https://open.spotify.com/track/3MOOLHyOlR0lzcTwoXSci8) | [Puppy Mountain](https://open.spotify.com/artist/5uKqqVe2DRZMZBwV5wYYAH) | [You Need Somebody](https://open.spotify.com/album/4oSnGMfEK0NCZlTLsFDtdi) | 3:20 |
+| 24 | [You Need Somebody](https://open.spotify.com/track/3MOOLHyOlR0lzcTwoXSci8) | [Puppy Mountain](https://open.spotify.com/artist/5uKqqVe2DRZMZBwV5wYYAH) | [You Need Somebody](https://open.spotify.com/album/4oSnGMfEK0NCZlTLsFDtdi) | 3:20 |
+| 25 | [Inperspect](https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [Inperspect](https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR) | 8:18 |
 | 26 | [Sea To Sky](https://open.spotify.com/track/7AZvdqbQJdakmxCPFK5F5E) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W) | [Sea To Sky](https://open.spotify.com/album/6Z9aMIfQYDjF3Z0vuhJps8) | 4:24 |
 | 27 | [The Antidote](https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Jewels from the Sun EP](https://open.spotify.com/album/7riixwal2DhHUE4Nt8vkLW) | 4:50 |
 | 28 | [Moving Still \- Reprise](https://open.spotify.com/track/6Bb95rf8ewBdgcArC0iEJf) | [Oliver Henry](https://open.spotify.com/artist/5rrIGWOBnDYdcRz9FqdvfD) | [From The Ashes EP](https://open.spotify.com/album/4QTuY78vkmEXqpDDae2856) | 2:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 49 | [Justine](https://open.spotify.com/track/2saPzK0KELO2hH2vBLsZDV) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Justine](https://open.spotify.com/album/7s3RMMU2Bd7Bi239eze4Wt) | 3:39 |
 | 50 | [Go On](https://open.spotify.com/track/1vwzpWzUG5c8Hr36bu1Cbw) | [a.s.o.](https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj) | [Go On](https://open.spotify.com/album/6GZjGWlyqF0Pu6wI2SBDr1) | 2:52 |
 
-Snapshot ID: `MCw1NmY5NDRiMjhjZWFiZDU0YjdjMmE3ODFmOWZhZjIzNzNlZTE4ZTg2`
+Snapshot ID: `MCwyYmQwZGU2NjZiNDM1ZDk1OTM2ZWQxNzQ1ZDY4MWFjYzdmMGZhNDk1`

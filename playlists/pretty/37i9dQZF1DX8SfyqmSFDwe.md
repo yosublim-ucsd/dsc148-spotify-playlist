@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SfyqmSFDwe.md) - [plain]
 
 > Classics are forever! Los clásicos no pasan de moda!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,019,411 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,017,384 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SfyqmSFDwe.md) - [plain]
 | 37 | [Hasta el Amanecer](https://open.spotify.com/track/5Fim1gaXBgsiFfsQAfQSDS) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:18 |
 | 38 | [Esta Noche de Travesuras](https://open.spotify.com/track/0AEVupnoNEKPU81AOuPwjS) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB) | [Mi Trayectoria](https://open.spotify.com/album/41p3yyF17iCI6QjsfGd9rB) | 3:30 |
 | 39 | [Yo Sé Que Tú Quieres](https://open.spotify.com/track/4Aao0TQ5SvTitMxZb9oY7F) | [Sammy & Falsetto](https://open.spotify.com/artist/6AT27ojKlBuZToFIGwQZDc), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Yo Sé Que Tú Quieres](https://open.spotify.com/album/1KN1u76viK52AhHlWUxmJj) | 3:28 |
-| 40 | [Sexo, Sudor y Calor](https://open.spotify.com/track/4eDjNcAyIuJFhQ31Fvvoc1) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [Ñejo & Dalmata](https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I) | [Timeless](https://open.spotify.com/album/2SMYRfGiwQyBgvkpCA2mJU) | 4:10 |
-| 41 | [Passion Whine](https://open.spotify.com/track/2QAwkI8L0UVBpjHJ6PwBzn) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Farruko Presents Los Menores](https://open.spotify.com/album/4ic94lYuJ37YBXfgsMDUWf) | 3:33 |
+| 40 | [Passion Whine](https://open.spotify.com/track/2QAwkI8L0UVBpjHJ6PwBzn) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Farruko Presents Los Menores](https://open.spotify.com/album/4ic94lYuJ37YBXfgsMDUWf) | 3:33 |
+| 41 | [Sexo, Sudor y Calor](https://open.spotify.com/track/4eDjNcAyIuJFhQ31Fvvoc1) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [Ñejo & Dalmata](https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I) | [Timeless](https://open.spotify.com/album/2SMYRfGiwQyBgvkpCA2mJU) | 4:10 |
 | 42 | [Ay Vamos](https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Familia B Sides](https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp) | 3:46 |
 | 43 | [La Botella](https://open.spotify.com/track/3dtGHZyEGmKSmQoAPcbvyb) | [Mach & Daddy](https://open.spotify.com/artist/5Q1vijNjTVhQBoVrZVXms8) | [Desde Abajo](https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R) | 2:57 |
 | 44 | [Ella Se Contradice \(feat\. Plan B\)](https://open.spotify.com/track/4nNeRNXmdZWfw3IjAnITZR) | [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN), [Gringo](https://open.spotify.com/artist/29cNzWXrkNaGVL74hZK0jU), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Ella Se Contradice \(feat\. Plan B\)](https://open.spotify.com/album/3JYVc0zcw01y9Xjq16266O) | 4:16 |
 | 45 | [Quizas \- Remix](https://open.spotify.com/track/4YFoQUkj0XXJgTiHp8d61y) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ), [Marioso](https://open.spotify.com/artist/3vK6vMiSDE0xwZXm1Z2bRz) | [Los Vaqueros Wild Wild Mixes](https://open.spotify.com/album/0lSruNExlVqHp7Ox1xpWgu) | 4:00 |
 | 46 | [Es un Secreto](https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:10 |
 | 47 | [Punto y Aparte](https://open.spotify.com/track/388YhDYxPvaDIZQHWqpB4E) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Rompe La Discoteca](https://open.spotify.com/album/2ftqbM48NcAEAcIL7Yyc1R) | 3:26 |
-| 48 | [5 Letras](https://open.spotify.com/track/0tDSgSmZsbxCkdkfUPjg59) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA) | [Sobrenatural](https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf) | 3:15 |
-| 49 | [Igual Que Ayer](https://open.spotify.com/track/2WHctubxf8LzrGr62cLz3d) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Masterpiece: Nuestra Obra Maestra](https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE) | 3:52 |
+| 48 | [Igual Que Ayer](https://open.spotify.com/track/2WHctubxf8LzrGr62cLz3d) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Masterpiece: Nuestra Obra Maestra](https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE) | 3:52 |
+| 49 | [5 Letras](https://open.spotify.com/track/0tDSgSmZsbxCkdkfUPjg59) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA) | [Sobrenatural](https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf) | 3:15 |
 | 50 | [Chillax \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/track/1lxswgIpzV6HhENRvkflES) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC) | [Visionary](https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX) | 3:17 |
 | 51 | [Zun Da Da](https://open.spotify.com/track/6DxS2ZRl8G3EagHkovYXA2) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [The Perfect Melody](https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v) | 5:04 |
 | 52 | [Abusadora](https://open.spotify.com/track/6Zdjh0uRQPt22BPckJgvEj) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [La Revolucion \(Deluxe\)](https://open.spotify.com/album/7zTlfidBmhUVtUmLSKk7WF) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SfyqmSFDwe.md) - [plain]
 | 99 | [Aventura](https://open.spotify.com/track/3iRMZq3iIaIBW5bH4VgWtM) | [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK), [Noriega](https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Mas Flow, Vol\. 1](https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot) | 2:50 |
 | 100 | [¿por Que Te Demoras?](https://open.spotify.com/track/7JbMsR4rZh6J77LNafur8U) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:10 |
 
-Snapshot ID: `MCxmNDQxOGE3MWE4YjEzZjE3ODY1ODgzYzI0Mzk3Y2VhM2YxODc5YjE0`
+Snapshot ID: `MCw3NzQyZmQ3NjVhMzQwMTA1MmRkODZjM2ZhZjE0NDk3ZGNkODM4YjYz`

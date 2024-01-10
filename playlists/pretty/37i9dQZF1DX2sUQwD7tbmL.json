@@ -1,12 +1,12 @@
 {
   "description": "The best indie rock vibes \u2014 classic and current. ",
-  "num_followers": 2002717,
+  "num_followers": 2001396,
   "original_name": "Feel-Good Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Nzk2MGQwZTQxM2RiMzRlYzU2Y2NlZWZjYTdiYzMzZTg2NzIxYTY5",
+  "snapshot_id": "MCw4MWE3ZjkxMDBjNGFjNjNlMzI0NzE4OWVkMDAyN2VmNWM4MmFkNDRi",
   "tracks": [
     {
       "added_at": "2023-12-01 18:55:07",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
-        "name": "Wasted Summers",
-        "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
-      },
-      "artists": [
-        {
-          "name": "juju<3",
-          "url": "https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x"
-        }
-      ],
-      "duration_ms": 130384,
-      "name": "Wasted Summers",
-      "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
-    },
-    {
-      "added_at": "2023-12-01 18:55:07",
-      "album": {
         "name": "The New Abnormal",
         "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 309053,
       "name": "The Adults Are Talking",
       "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW"
+    },
+    {
+      "added_at": "2023-12-01 18:55:07",
+      "album": {
+        "name": "Wasted Summers",
+        "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
+      },
+      "artists": [
+        {
+          "name": "juju<3",
+          "url": "https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x"
+        }
+      ],
+      "duration_ms": 130384,
+      "name": "Wasted Summers",
+      "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -551,6 +551,34 @@
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
+        "name": "the record",
+        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 200093,
+      "name": "$20",
+      "url": "https://open.spotify.com/track/38xXr3MkiKNzNDv4JDJagF"
+    },
+    {
+      "added_at": "2023-12-01 18:55:07",
+      "album": {
         "name": "Rose Pink Cadillac",
         "url": "https://open.spotify.com/album/2VaOn32haUapQOYnerK32W"
       },
@@ -579,34 +607,6 @@
       "duration_ms": 201546,
       "name": "Helmet",
       "url": "https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2"
-    },
-    {
-      "added_at": "2023-12-01 18:55:07",
-      "album": {
-        "name": "the record",
-        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 200093,
-      "name": "$20",
-      "url": "https://open.spotify.com/track/38xXr3MkiKNzNDv4JDJagF"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
-        "name": "Permanent Vacation",
-        "url": "https://open.spotify.com/album/5YlzKbkGoIIFnBOnYwU3kl"
-      },
-      "artists": [
-        {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
-        }
-      ],
-      "duration_ms": 208980,
-      "name": "Temper Temper",
-      "url": "https://open.spotify.com/track/3DCU0R5FFaB9GKxZERb5wr"
-    },
-    {
-      "added_at": "2023-12-01 18:55:07",
-      "album": {
         "name": "New Gold (feat. Tame Impala and Bootie Brown)",
         "url": "https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 215149,
       "name": "New Gold (feat. Tame Impala and Bootie Brown)",
       "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
+    },
+    {
+      "added_at": "2023-12-01 18:55:07",
+      "album": {
+        "name": "Permanent Vacation",
+        "url": "https://open.spotify.com/album/5YlzKbkGoIIFnBOnYwU3kl"
+      },
+      "artists": [
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        }
+      ],
+      "duration_ms": 208980,
+      "name": "Temper Temper",
+      "url": "https://open.spotify.com/track/3DCU0R5FFaB9GKxZERb5wr"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
+        "name": "Brazil",
+        "url": "https://open.spotify.com/album/38qaYdCiewb6NrRvVxWTe4"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 252306,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/5ftdTvmQjjsL23t7jxADfI"
+    },
+    {
+      "added_at": "2023-12-01 18:55:07",
+      "album": {
         "name": "After Midnight (feat. Clairo)",
         "url": "https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 188000,
       "name": "After Midnight (feat. Clairo)",
       "url": "https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY"
-    },
-    {
-      "added_at": "2023-12-01 18:55:07",
-      "album": {
-        "name": "Brazil",
-        "url": "https://open.spotify.com/album/38qaYdCiewb6NrRvVxWTe4"
-      },
-      "artists": [
-        {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
-        }
-      ],
-      "duration_ms": 252306,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/5ftdTvmQjjsL23t7jxADfI"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
-        "name": "City Club",
-        "url": "https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl"
-      },
-      "artists": [
-        {
-          "name": "The Growlers",
-          "url": "https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe"
-        }
-      ],
-      "duration_ms": 250320,
-      "name": "Dope on a Rope",
-      "url": "https://open.spotify.com/track/76c1AuZodByXM3X2k48wju"
-    },
-    {
-      "added_at": "2023-12-01 18:55:07",
-      "album": {
         "name": "It\u2019s Never Fair, Always True",
         "url": "https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 155997,
       "name": "strawberry chainsaw",
       "url": "https://open.spotify.com/track/4lAasiKJZR4CkDygazvpvB"
+    },
+    {
+      "added_at": "2023-12-01 18:55:07",
+      "album": {
+        "name": "City Club",
+        "url": "https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl"
+      },
+      "artists": [
+        {
+          "name": "The Growlers",
+          "url": "https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe"
+        }
+      ],
+      "duration_ms": 250320,
+      "name": "Dope on a Rope",
+      "url": "https://open.spotify.com/track/76c1AuZodByXM3X2k48wju"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -1449,22 +1449,6 @@
       "url": "https://open.spotify.com/track/2drtd6SptpMJ1KylMQ7mrE"
     },
     {
-      "added_at": "2023-12-01 18:55:07",
-      "album": {
-        "name": "Blue Rev",
-        "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 185276,
-      "name": "After The Earthquake",
-      "url": "https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL"
-    },
-    {
       "added_at": "2023-12-13 19:12:51",
       "album": {
         "name": "Cold Reactor",
@@ -1479,6 +1463,22 @@
       "duration_ms": 231466,
       "name": "Cold Reactor",
       "url": "https://open.spotify.com/track/4HoOTJ8tM7ikMkEkoJTisX"
+    },
+    {
+      "added_at": "2023-12-01 18:55:07",
+      "album": {
+        "name": "Blue Rev",
+        "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 185276,
+      "name": "After The Earthquake",
+      "url": "https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
-        "name": "only wanna dance",
-        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 144391,
-      "name": "only wanna dance",
-      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
-    },
-    {
-      "added_at": "2023-12-01 18:55:07",
-      "album": {
         "name": "i haunt ur dreams",
         "url": "https://open.spotify.com/album/2MoArCdFeYXB456NLYXbPi"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 216665,
       "name": "i haunt ur dreams",
       "url": "https://open.spotify.com/track/7jBAskQhyfjmbYC0o3pXdW"
+    },
+    {
+      "added_at": "2023-12-01 18:55:07",
+      "album": {
+        "name": "only wanna dance",
+        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 144391,
+      "name": "only wanna dance",
+      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
-        "name": "Sure Enough",
-        "url": "https://open.spotify.com/album/1PjK7jnPD2B6EdhwQecC1u"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 171272,
-      "name": "Sure Enough",
-      "url": "https://open.spotify.com/track/2RI2HBUx4Algf7PVTklzUM"
-    },
-    {
-      "added_at": "2023-12-01 18:55:07",
-      "album": {
         "name": "Your Life Your Time",
         "url": "https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 160257,
       "name": "Your Life Your Time",
       "url": "https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE"
+    },
+    {
+      "added_at": "2023-12-01 18:55:07",
+      "album": {
+        "name": "Sure Enough",
+        "url": "https://open.spotify.com/album/1PjK7jnPD2B6EdhwQecC1u"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 171272,
+      "name": "Sure Enough",
+      "url": "https://open.spotify.com/track/2RI2HBUx4Algf7PVTklzUM"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/4GJuAhTBGZUgdAFLU5phPk"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 208426,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/1mHGtXWQSfnzB5CLVnsykO"
-    },
-    {
-      "added_at": "2023-12-01 18:55:07",
-      "album": {
         "name": "Women In Music Pt. III",
         "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 201786,
       "name": "Don't Wanna",
       "url": "https://open.spotify.com/track/5hMffqN6nHPltws5nhjTpR"
+    },
+    {
+      "added_at": "2023-12-01 18:55:07",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/4GJuAhTBGZUgdAFLU5phPk"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 208426,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/1mHGtXWQSfnzB5CLVnsykO"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
-        "name": "Kick in the Teeth",
-        "url": "https://open.spotify.com/album/7zeuAUF8ieCxZ5P9wUxOBB"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 167289,
-      "name": "Kick in the Teeth",
-      "url": "https://open.spotify.com/track/09IAjxegM08998hgb6ZScZ"
-    },
-    {
-      "added_at": "2023-12-01 18:55:07",
-      "album": {
         "name": "Pollen",
         "url": "https://open.spotify.com/album/4Fk0oNk3vdmFjuTlpmKIQU"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 234000,
       "name": "Forbidden Doors",
       "url": "https://open.spotify.com/track/397MnnXkJ3TTlqey1oWM51"
+    },
+    {
+      "added_at": "2023-12-01 18:55:07",
+      "album": {
+        "name": "Kick in the Teeth",
+        "url": "https://open.spotify.com/album/7zeuAUF8ieCxZ5P9wUxOBB"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 167289,
+      "name": "Kick in the Teeth",
+      "url": "https://open.spotify.com/track/09IAjxegM08998hgb6ZScZ"
     },
     {
       "added_at": "2023-12-01 18:55:07",

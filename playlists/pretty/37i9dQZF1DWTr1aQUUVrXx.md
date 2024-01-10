@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr1aQUUVrXx.md) - [plain]
 
 > Your favourite café with that warm and cozy Jazz vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,522 likes - 164 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,631 likes - 164 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr1aQUUVrXx.md) - [plain]
 | 163 | [In Another Universe](https://open.spotify.com/track/04OlOJOsWy6RUWgyhixoqk) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [In Another Universe](https://open.spotify.com/album/20gDATBmLKwoNueDSsC7rR) | 2:56 |
 | 164 | [Akaishi](https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Akaishi](https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e) | 3:50 |
 
-Snapshot ID: `MCwxZGY3MTJhZGU5NzQ0MjRlMDE0ZGY4ZGRlYmVjYzk3NjBjNGJjNWZm`
+Snapshot ID: `MCxiMTczNzAxZDlmODJmY2Q4ZTlkODEyODIxOTE5OWU2YmJiZmIzOTRi`

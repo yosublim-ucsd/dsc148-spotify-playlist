@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3AMXrG.md) - [plain]
 
 > This is Cultura Profética\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,352 likes - 49 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,298 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3AMXrG.md) - [plain]
 | 12 | [Sube el Humo](https://open.spotify.com/track/7ChGr8JqBeKaOhgvattRGs) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [M\. O\. T\. A.](https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7) | 4:41 |
 | 13 | [Rimas Pa' Seducir](https://open.spotify.com/track/2usf3N1xqWLBvFXAgczmbG) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A) | 3:07 |
 | 14 | [Llevarte Allí](https://open.spotify.com/track/1ZPtlRm6Judlzx1bw0mIhI) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli) | 4:43 |
-| 15 | [Solo Un Eco](https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Solo Un Eco](https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0) | 4:45 |
-| 16 | [Quisiera](https://open.spotify.com/track/7v0WvqGq7auy99Nydgc6YJ) | [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Quisiera](https://open.spotify.com/album/1hxhKktk2u9gTPms7c8fv9) | 3:53 |
+| 15 | [Quisiera](https://open.spotify.com/track/7v0WvqGq7auy99Nydgc6YJ) | [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Quisiera](https://open.spotify.com/album/1hxhKktk2u9gTPms7c8fv9) | 3:53 |
+| 16 | [Solo Un Eco](https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Solo Un Eco](https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0) | 4:45 |
 | 17 | [Para Estar](https://open.spotify.com/track/2wrQ0tzuFnKj9BVgIsVcwV) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A) | 4:56 |
 | 18 | [Para Mi](https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Para Mi](https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k) | 4:27 |
 | 19 | [Ritmo Que Pesa](https://open.spotify.com/track/2FSpiaFpqmCNnC7IPr1TAy) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [M\. O\. T\. A.](https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7) | 5:49 |
@@ -55,7 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3AMXrG.md) - [plain]
 | 45 | [No Me Busques \- En Vivo](https://open.spotify.com/track/0WNinVHIhlq6UX1Eid5Ule) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Cultura en Vivo](https://open.spotify.com/album/62VgrbgZu3QeB8a3p1yYz8) | 6:25 |
 | 46 | [Ley Natural](https://open.spotify.com/track/2FthRSpEy044BM8QkoqeeP) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Ideas Nuevas](https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R) | 6:22 |
 | 47 | [Population Disorder / Tempestad Tranquila / Ideas Nuevas \- En Vivo](https://open.spotify.com/track/23jnxVzlzYjpX2YZtnrjdA) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [15 Aniversario en el Luna Park](https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc) | 8:44 |
-| 48 | [La Otra Galaxia](https://open.spotify.com/track/0MHaoEf98Uug7ft75wnsBV) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Ideas Nuevas](https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R) | 2:13 |
-| 49 | [¿Qué Será? / Ritmo Que Pesa / Suelta los Amarres / Revolución en Estéreo / Lo de Más \- En Vivo](https://open.spotify.com/track/09BZvRoyzf58jpjBStkEzg) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [15 Aniversario en el Luna Park](https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc) | 13:54 |
+| 48 | [Enyoyando](https://open.spotify.com/track/6ySSJb08nj05F4zqcUtFBx) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Canción de Alerta](https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q) | 1:11 |
+| 49 | [La Otra Galaxia](https://open.spotify.com/track/0MHaoEf98Uug7ft75wnsBV) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Ideas Nuevas](https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R) | 2:13 |
+| 50 | [¿Qué Será? / Ritmo Que Pesa / Suelta los Amarres / Revolución en Estéreo / Lo de Más \- En Vivo](https://open.spotify.com/track/09BZvRoyzf58jpjBStkEzg) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [15 Aniversario en el Luna Park](https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc) | 13:54 |
 
-Snapshot ID: `Mjg0MTE5MDAsMDAwMDAwMDA5NTBmMzYzZmQ4NzUyYTcyODllYWIyMTk0NjhmNGQ1Mg==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDAzOGQ0ZTUzZTM1OGJkMTMxMzE5YjRjMGE1OWNlNTIwOQ==`

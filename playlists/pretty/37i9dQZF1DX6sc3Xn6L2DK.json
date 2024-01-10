@@ -1,12 +1,12 @@
 {
   "description": "Explore the stellar corners of the genre's expansive and marvelous universe.",
-  "num_followers": 37032,
+  "num_followers": 37041,
   "original_name": "Cosmic Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDE3NmEyMDBhMzY3MTdkZDRkYTFiNzg5ZjgyMmJiNjRhZjFjZmU2",
+  "snapshot_id": "MCxmZDE0MDkwYmMyMDZmZWM4NGVmOWZlNGZhYzRlZjgyZDlmZjVjYTBh",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "The Freelancer's Blues",
+        "url": "https://open.spotify.com/album/4UxVJzE5iHPxl2mBWlEqC1"
+      },
+      "artists": [
+        {
+          "name": "Dougie Poole",
+          "url": "https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y"
+        }
+      ],
+      "duration_ms": 277386,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/5DQFjLWTW7AGqaPLdeXCTz"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Is It Ever Really Gone (feat. Ashley Monroe)",
         "url": "https://open.spotify.com/album/5SFyezJmbReKbEY2RHfmvZ"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 204000,
       "name": "Is It Ever Really Gone (feat. Ashley Monroe)",
       "url": "https://open.spotify.com/track/38mBWuyjz6bSJZeMsaanIr"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "The Freelancer's Blues",
-        "url": "https://open.spotify.com/album/4UxVJzE5iHPxl2mBWlEqC1"
-      },
-      "artists": [
-        {
-          "name": "Dougie Poole",
-          "url": "https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y"
-        }
-      ],
-      "duration_ms": 277386,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/5DQFjLWTW7AGqaPLdeXCTz"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Wrecking Ball",
-        "url": "https://open.spotify.com/album/3S2rjqCFfpvZKqGcVkHjDP"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 289186,
-      "name": "Wrecking Ball",
-      "url": "https://open.spotify.com/track/7AhLSMrjWMULOB9UH7lI7p"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Poor David's Almanack",
         "url": "https://open.spotify.com/album/2yohVBNjsgx36AC03RGyxM"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 198440,
       "name": "Midnight Train",
       "url": "https://open.spotify.com/track/3OZRkavHZUYEfFuK8JNmU9"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Wrecking Ball",
+        "url": "https://open.spotify.com/album/3S2rjqCFfpvZKqGcVkHjDP"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 289186,
+      "name": "Wrecking Ball",
+      "url": "https://open.spotify.com/track/7AhLSMrjWMULOB9UH7lI7p"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Jealous Guy",
-        "url": "https://open.spotify.com/album/5OMFZV2INE430tcKKBaKbZ"
+        "name": "Modern Country",
+        "url": "https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT"
       },
       "artists": [
         {
-          "name": "Luke Bell",
-          "url": "https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ"
+          "name": "William Tyler",
+          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
         }
       ],
-      "duration_ms": 230702,
-      "name": "Jealous Guy",
-      "url": "https://open.spotify.com/track/1H0UI5yQg9hlue3ZIjb7fs"
+      "duration_ms": 325271,
+      "name": "I\u2019m Gonna Live Forever (If It Kills Me)",
+      "url": "https://open.spotify.com/track/2aAsLnLdMdHnMi7JvF5NeK"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1019,34 +1019,38 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Modern Country",
-        "url": "https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT"
+        "name": "Jealous Guy",
+        "url": "https://open.spotify.com/album/5OMFZV2INE430tcKKBaKbZ"
       },
       "artists": [
         {
-          "name": "William Tyler",
-          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
+          "name": "Luke Bell",
+          "url": "https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ"
         }
       ],
-      "duration_ms": 325271,
-      "name": "I\u2019m Gonna Live Forever (If It Kills Me)",
-      "url": "https://open.spotify.com/track/2aAsLnLdMdHnMi7JvF5NeK"
+      "duration_ms": 230702,
+      "name": "Jealous Guy",
+      "url": "https://open.spotify.com/track/1H0UI5yQg9hlue3ZIjb7fs"
     },
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Wayfaring Strangers: Cosmic American Music",
-        "url": "https://open.spotify.com/album/6S9BF1Z9jl2TOCfbqVxqMB"
+        "name": "Strange Fascination",
+        "url": "https://open.spotify.com/album/7kXILLnl4TJxQVfxb04wTs"
       },
       "artists": [
         {
-          "name": "The Black Canyon Gang",
-          "url": "https://open.spotify.com/artist/4Qk3TBIbLIydpukG1TerQe"
+          "name": "Chatham County Line",
+          "url": "https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7"
+        },
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
         }
       ],
-      "duration_ms": 214813,
-      "name": "Lonesome City",
-      "url": "https://open.spotify.com/track/50tqBoFCN9uSV0YiqJHAUy"
+      "duration_ms": 258930,
+      "name": "Strange Fascination",
+      "url": "https://open.spotify.com/track/2ygPlZkaKoHXKBZ1LXZkXO"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1083,22 +1087,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Strange Fascination",
-        "url": "https://open.spotify.com/album/7kXILLnl4TJxQVfxb04wTs"
+        "name": "Wayfaring Strangers: Cosmic American Music",
+        "url": "https://open.spotify.com/album/6S9BF1Z9jl2TOCfbqVxqMB"
       },
       "artists": [
         {
-          "name": "Chatham County Line",
-          "url": "https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7"
-        },
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+          "name": "The Black Canyon Gang",
+          "url": "https://open.spotify.com/artist/4Qk3TBIbLIydpukG1TerQe"
         }
       ],
-      "duration_ms": 258930,
-      "name": "Strange Fascination",
-      "url": "https://open.spotify.com/track/2ygPlZkaKoHXKBZ1LXZkXO"
+      "duration_ms": 214813,
+      "name": "Lonesome City",
+      "url": "https://open.spotify.com/track/50tqBoFCN9uSV0YiqJHAUy"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "The Unseen In Between",
-        "url": "https://open.spotify.com/album/349hcptM7Y0HRpgrsSY570"
-      },
-      "artists": [
-        {
-          "name": "Steve Gunn",
-          "url": "https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO"
-        }
-      ],
-      "duration_ms": 301960,
-      "name": "Vagabond",
-      "url": "https://open.spotify.com/track/4MxHAB3fHQ8oI2jRXSLQ9p"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "When A Cowboy Trades His Spurs For Wings",
         "url": "https://open.spotify.com/album/12oUJEpXjAjVAgRWtQ50s9"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 183894,
       "name": "When A Cowboy Trades His Spurs For Wings",
       "url": "https://open.spotify.com/track/6KXIT7swzbtBjIepVzbarJ"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "The Unseen In Between",
+        "url": "https://open.spotify.com/album/349hcptM7Y0HRpgrsSY570"
+      },
+      "artists": [
+        {
+          "name": "Steve Gunn",
+          "url": "https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO"
+        }
+      ],
+      "duration_ms": 301960,
+      "name": "Vagabond",
+      "url": "https://open.spotify.com/track/4MxHAB3fHQ8oI2jRXSLQ9p"
     }
   ],
   "unique_name": "Cosmic Country",

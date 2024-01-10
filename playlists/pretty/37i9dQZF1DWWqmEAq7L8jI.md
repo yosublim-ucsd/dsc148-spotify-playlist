@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 
 > Dale play y que la música te acompañe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,174 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,122 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 | 54 | [DISCOTEKA](https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [DISCOTEKA](https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs) | 2:54 |
 | 55 | [Si Tú La Quieres](https://open.spotify.com/track/35qwAQ3oZeKAMhR3hCV9IM) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Si Tú La Quieres](https://open.spotify.com/album/7Hl7NKHiik1ckE2SI21RlU) | 3:44 |
 | 56 | [Oncemil](https://open.spotify.com/track/3y5ahYM9zwyOCt3mieZ0PZ) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [11](https://open.spotify.com/album/5dpzYigmd97HcZOxWMpv9h) | 3:41 |
-| 57 | [Djadja \(feat\. Maluma\) \- Remix](https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Djadja \(feat\. Maluma\) \[Remix\]](https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV) | 2:46 |
-| 58 | [BUENOS AIRES](https://open.spotify.com/track/2my7K20Fv5OtE27cjG9sfu) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Calambre](https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF) | 4:00 |
+| 57 | [BUENOS AIRES](https://open.spotify.com/track/2my7K20Fv5OtE27cjG9sfu) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Calambre](https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF) | 4:00 |
+| 58 | [Djadja \(feat\. Maluma\) \- Remix](https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Djadja \(feat\. Maluma\) \[Remix\]](https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV) | 2:46 |
 | 59 | [Verte](https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Verte](https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64) | 2:37 |
 | 60 | [Ojos Noche \(feat\. Carla Morrison\)](https://open.spotify.com/track/0fl9zrtFxmZEE3sx7RbS7k) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Ojos Noche \(feat\. Carla Morrison\)](https://open.spotify.com/album/5f0AJWM6jB4pzEsC6b0vDV) | 4:14 |
 | 61 | [Contigo](https://open.spotify.com/track/3uqDUUqiVrtbKakobkPXmv) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Contigo](https://open.spotify.com/album/0QbLKuhvOtbjeuHy1Pt68U) | 3:57 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 | 89 | [Algo Tiene](https://open.spotify.com/track/40n1j3nwbuF44QZOiKDsQ3) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Un Té De Tilo Por Favor](https://open.spotify.com/album/4qYkS2ENsUzeIc2DpUJVjT) | 3:04 |
 | 90 | [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 |
 | 91 | [Regresa](https://open.spotify.com/track/7p8SFNiZjUjbGrA9nK8tGW) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Regresa](https://open.spotify.com/album/43cwThRaGvMa8NIYPL663p) | 3:08 |
-| 92 | [1Amor](https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Spotify Singles](https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51) | 2:32 |
-| 93 | [ERROR 403](https://open.spotify.com/track/0LWwRQvunwufzUbWARrtX4) | [Lu de la Tower](https://open.spotify.com/artist/52299B9p02G2fK6Tx0lDVQ), [Corona](https://open.spotify.com/artist/61HN3ENIM36CPLXzPTvfxJ) | [ERROR 403](https://open.spotify.com/album/6SYw3rAydzGLLZd0lIyO5o) | 2:29 |
+| 92 | [ERROR 403](https://open.spotify.com/track/0LWwRQvunwufzUbWARrtX4) | [Lu de la Tower](https://open.spotify.com/artist/52299B9p02G2fK6Tx0lDVQ), [Corona](https://open.spotify.com/artist/61HN3ENIM36CPLXzPTvfxJ) | [ERROR 403](https://open.spotify.com/album/6SYw3rAydzGLLZd0lIyO5o) | 2:29 |
+| 93 | [1Amor](https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Spotify Singles](https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51) | 2:32 |
 | 94 | [Señales](https://open.spotify.com/track/4cIM8wpHVqmPTtLgH4ehun) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Señales](https://open.spotify.com/album/2aiC1DHkCfDeUClyKukRPm) | 2:06 |
 | 95 | [PENDEJO](https://open.spotify.com/track/5cy2dREJqJAyf3CNr509W7) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [FINAL \(Vol.1\)](https://open.spotify.com/album/61a4XyIj98CGrUnKy8Hu4Z) | 2:45 |
 | 96 | [Uno los Dos](https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Uno los Dos](https://open.spotify.com/album/1HvZ1Cipa88AAshhY1Jfe9) | 3:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 | 99 | [Amor Loco](https://open.spotify.com/track/1QpOjZOumwGNIo5uvbSHIt) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [PITADA](https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH) | 3:46 |
 | 100 | [LORO](https://open.spotify.com/track/55UW6NYVtbjUgX4vwEV3GQ) | [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [LORO](https://open.spotify.com/album/1HXRxYf1zHa5WZu70DXYCo) | 2:36 |
 
-Snapshot ID: `MCwzZmMzMjgzZDk4NzdkYTRjM2JhNjE2YWQ4NzU3OWUxNGQwZjc1N2Jm`
+Snapshot ID: `MCwzZGQ0NGE1MDM3MmMyNGE0Zjg2NDI5NzkyOGI3YWJiYWVmYWQzMzYx`

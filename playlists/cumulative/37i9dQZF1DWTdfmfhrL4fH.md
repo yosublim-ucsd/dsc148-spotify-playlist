@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-564 songs - 1 day 11 hr 19 min
+565 songs - 1 day 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,7 +296,7 @@
 | [Leviathan](https://open.spotify.com/track/4M7oDScM3tWQUpQcegjPuI) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Rewind, Replay, Rebound \(Deluxe\)](https://open.spotify.com/album/700dWAqcIsUkNJ1WN1XPT5) | 4:35 | 2022-05-25 |  |
 | [Lies of the Beautiful People](https://open.spotify.com/track/7MySSAE83mF4QAOnltFF9w) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [This Is Gonna Hurt](https://open.spotify.com/album/2c2pmROfPRd0Z5ZCYajOSJ) | 3:58 | 2022-05-25 | 2022-07-29 |
 | [Lights Of Home](https://open.spotify.com/track/2pguQFntKxYZNGvXvZVWDp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 4:16 | 2022-05-25 | 2023-01-17 |
-| [Lights Out, Words Gone](https://open.spotify.com/track/1bKQdPJ9lid6Yg26HAx8Tf) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [A Different Kind Of Fix](https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N) | 5:01 | 2022-05-25 |  |
+| [Lights Out, Words Gone](https://open.spotify.com/track/1bKQdPJ9lid6Yg26HAx8Tf) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [A Different Kind Of Fix](https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N) | 5:01 | 2022-05-25 | 2024-01-10 |
 | [Like It's Her Birthday](https://open.spotify.com/track/0AYw1CBLLNu0umIuCoq77M) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Cardiology](https://open.spotify.com/album/08utRHYjRSDcceEsjFRFX0) | 3:30 | 2022-05-25 | 2022-07-26 |
 | [Lion](https://open.spotify.com/track/79CATxWpb9uezVeOIazKgs) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Notes From The Underground](https://open.spotify.com/album/05ofL0H4dSj3jCuzEtVzZN) | 3:54 | 2022-05-25 |  |
 | [Little Black Submarines](https://open.spotify.com/track/1PXsUXSM3LF2XNSkmIldPb) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 4:11 | 2022-05-25 |  |
@@ -526,6 +526,7 @@
 | [Tonight](https://open.spotify.com/track/290yPLUQhUqZd1OlmPWGRI) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Holding Onto Strings Better Left To Fray](https://open.spotify.com/album/1Bjmcy5hWGdGQ0zANfgIzh) | 3:44 | 2022-05-25 | 2022-07-29 |
 | [Torn in Two](https://open.spotify.com/track/3IiMnjK7S2PlsPVMuAH7rU) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Ember](https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr) | 4:17 | 2022-05-25 | 2022-07-20 |
 | [Torn to Pieces](https://open.spotify.com/track/0zLvkCvm22VHCWrFlBL1Ey) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Onyx](https://open.spotify.com/album/4hcp0DzR3sCvI5XEG4D1xb) | 3:16 | 2022-05-25 | 2022-07-29 |
+| [Torn to Pieces](https://open.spotify.com/track/3gLvDdJVhHLWWkgzTbYeJB) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Onyx \(Deluxe Edition\)](https://open.spotify.com/album/5LttsAVVuHrSB7nWL6DqHo) | 3:16 | 2023-01-18 |  |
 | [Trouble](https://open.spotify.com/track/6xnhvngEfrUad67GsI2GTw) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Trouble](https://open.spotify.com/album/6d8XBd0lij7z3CVBWwUJEt) | 3:18 | 2022-05-25 | 2022-07-27 |
 | [Under Your Scars](https://open.spotify.com/track/1OiXUeNy6dZyfocJSei4Xz) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/2wOY4tZ3bcJecD5ypBPHg9) | 3:51 | 2023-01-18 |  |
 | [Under Your Scars](https://open.spotify.com/track/60SjEdocmsrAk4hQUu7qZi) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV) | 3:51 | 2022-05-25 | 2023-11-04 |

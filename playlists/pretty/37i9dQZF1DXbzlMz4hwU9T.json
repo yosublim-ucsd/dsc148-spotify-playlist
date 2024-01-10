@@ -1,12 +1,12 @@
 {
   "description": "Ser\u00e9 la gata bajo la lluvia... \ud83d\ude3f",
-  "num_followers": 78378,
+  "num_followers": 78516,
   "original_name": "viendo llover desde la ventana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWM4MjY0YTEwMWFkOGVlYzhiMGI2MTEwZjJkMWEwNTIzNThhZDQ5",
+  "snapshot_id": "MCw4YTI5NDllMGM4Mjc0ODA4MjY3NDgzNjZmY2M0NDAyMzY4NThkMjcx",
   "tracks": [
     {
       "added_at": "2023-02-24 17:37:22",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-02-24 17:37:22",
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 307866,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
-    },
-    {
-      "added_at": "2023-02-24 17:37:22",
-      "album": {
         "name": "Vida De Perros",
         "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 236426,
       "name": "Llueve Sobre La Ciudad",
       "url": "https://open.spotify.com/track/6ftHPJyEHGqMaml3ZEwPm1"
+    },
+    {
+      "added_at": "2023-02-24 17:37:22",
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 307866,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
     },
     {
       "added_at": "2023-02-24 17:37:22",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-02-24 17:37:22",
       "album": {
+        "name": "Arunima",
+        "url": "https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT"
+      },
+      "artists": [
+        {
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+        }
+      ],
+      "duration_ms": 228534,
+      "name": "No Es Que No Te Quiera",
+      "url": "https://open.spotify.com/track/2MZ8QFHGiHa5oQcF6nX8fX"
+    },
+    {
+      "added_at": "2023-02-24 17:37:22",
+      "album": {
         "name": "Azulejos",
         "url": "https://open.spotify.com/album/1hpTHSEosXRl8z47mcRL2J"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 191924,
       "name": "Batismo",
       "url": "https://open.spotify.com/track/6UDWsYMH2MwgOxOS9sbnwC"
-    },
-    {
-      "added_at": "2023-02-24 17:37:22",
-      "album": {
-        "name": "Arunima",
-        "url": "https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT"
-      },
-      "artists": [
-        {
-          "name": "Hello Seahorse!",
-          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
-        }
-      ],
-      "duration_ms": 228534,
-      "name": "No Es Que No Te Quiera",
-      "url": "https://open.spotify.com/track/2MZ8QFHGiHa5oQcF6nX8fX"
     },
     {
       "added_at": "2023-02-24 17:37:22",
@@ -1345,22 +1345,6 @@
       "url": "https://open.spotify.com/track/2dmiAdscYWQIhRpbQc5TFm"
     },
     {
-      "added_at": "2023-08-29 00:21:01",
-      "album": {
-        "name": "Tenochtitl\u00e1n",
-        "url": "https://open.spotify.com/album/4bKnD4QuxZQc1dY1IIdYvf"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 253840,
-      "name": "Tenochtitl\u00e1n",
-      "url": "https://open.spotify.com/track/5XgRqRJ4LLMJS8EXhIGyh0"
-    },
-    {
       "added_at": "2023-02-24 17:37:22",
       "album": {
         "name": "Correspondencia",
@@ -1375,6 +1359,22 @@
       "duration_ms": 202053,
       "name": "Acic\u00e1lame",
       "url": "https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM"
+    },
+    {
+      "added_at": "2023-08-29 00:21:01",
+      "album": {
+        "name": "Tenochtitl\u00e1n",
+        "url": "https://open.spotify.com/album/4bKnD4QuxZQc1dY1IIdYvf"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 253840,
+      "name": "Tenochtitl\u00e1n",
+      "url": "https://open.spotify.com/track/5XgRqRJ4LLMJS8EXhIGyh0"
     },
     {
       "added_at": "2023-02-24 17:37:22",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-02-24 17:37:22",
       "album": {
-        "name": "Collected",
-        "url": "https://open.spotify.com/album/1X4zW7kIY8bQHO9gDTsIVh"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        }
-      ],
-      "duration_ms": 312293,
-      "name": "Unfinished Sympathy - Remastered 2006",
-      "url": "https://open.spotify.com/track/10CiC7n8xCJJpbNcBpHsXc"
-    },
-    {
-      "added_at": "2023-02-24 17:37:22",
-      "album": {
         "name": "Tiernos",
         "url": "https://open.spotify.com/album/5I47XfGh6TwfXjMFTlu10o"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 175895,
       "name": "MAM\u00c1",
       "url": "https://open.spotify.com/track/34yQeTktePdLm0b95RffPw"
+    },
+    {
+      "added_at": "2023-02-24 17:37:22",
+      "album": {
+        "name": "Collected",
+        "url": "https://open.spotify.com/album/1X4zW7kIY8bQHO9gDTsIVh"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        }
+      ],
+      "duration_ms": 312293,
+      "name": "Unfinished Sympathy - Remastered 2006",
+      "url": "https://open.spotify.com/track/10CiC7n8xCJJpbNcBpHsXc"
     },
     {
       "added_at": "2023-02-24 17:37:22",
@@ -1529,22 +1529,6 @@
       "url": "https://open.spotify.com/track/31alFPGPYXPTGLQfmkp8fh"
     },
     {
-      "added_at": "2023-02-24 17:37:22",
-      "album": {
-        "name": "Electric Warrior [Expanded & Remastered]",
-        "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
-      },
-      "artists": [
-        {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
-        }
-      ],
-      "duration_ms": 220960,
-      "name": "Mambo Sun - 2003 Remaster",
-      "url": "https://open.spotify.com/track/79dQwpXjJ4t3pILysdqFyB"
-    },
-    {
       "added_at": "2023-05-25 22:58:27",
       "album": {
         "name": "T\u00fa Me Llevas a Un Espacio",
@@ -1563,6 +1547,22 @@
       "duration_ms": 193578,
       "name": "T\u00fa Me Llevas a Un Espacio",
       "url": "https://open.spotify.com/track/1RDVJCMNBL13V8eQ3XawIi"
+    },
+    {
+      "added_at": "2023-02-24 17:37:22",
+      "album": {
+        "name": "Electric Warrior [Expanded & Remastered]",
+        "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 220960,
+      "name": "Mambo Sun - 2003 Remaster",
+      "url": "https://open.spotify.com/track/79dQwpXjJ4t3pILysdqFyB"
     },
     {
       "added_at": "2023-04-20 00:57:07",

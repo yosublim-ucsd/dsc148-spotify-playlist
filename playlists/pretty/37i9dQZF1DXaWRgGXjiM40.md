@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 957,270 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 955,600 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 40 | [Contramão \- Ao Vivo](https://open.spotify.com/track/5g2HVlqROusgDTtun6Y5Tn) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Gustavo Mioto Ao Vivo Em São Paulo](https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy) | 3:11 |
 | 41 | [Amor Da Sua Cama](https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Amor Da Sua Cama](https://open.spotify.com/album/2FlH6Ha4zVKWQwCoOt8ldv) | 3:08 |
 | 42 | [Status Que Eu Não Queria \- Ao Vivo](https://open.spotify.com/track/43tDjfz9Inw7Soy0jzxowN) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 2:33 |
-| 43 | [Ficha Limpa](https://open.spotify.com/track/5SwyN9hzmWjBsINlif8li8) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Falando de Amor, Vol\. 1](https://open.spotify.com/album/1XNqME96E9GBNYCv8wFbn2) | 3:12 |
-| 44 | [3 Batidas \- Ao Vivo](https://open.spotify.com/track/6FEYal9Y24izCC1UMHiYSa) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Amando, Bebendo e Sofrendo \(Ao Vivo\)](https://open.spotify.com/album/48CmSzaD8bR6AYb7Ic2NdH) | 2:37 |
+| 43 | [3 Batidas \- Ao Vivo](https://open.spotify.com/track/6FEYal9Y24izCC1UMHiYSa) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Amando, Bebendo e Sofrendo \(Ao Vivo\)](https://open.spotify.com/album/48CmSzaD8bR6AYb7Ic2NdH) | 2:37 |
+| 44 | [Ficha Limpa](https://open.spotify.com/track/5SwyN9hzmWjBsINlif8li8) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Falando de Amor, Vol\. 1](https://open.spotify.com/album/1XNqME96E9GBNYCv8wFbn2) | 3:12 |
 | 45 | [O Alvo \(feat\. Henrique & Juliano\) \- Ao Vivo](https://open.spotify.com/track/4HQByPPgZOGbzvgJFZX61K) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Sem Contra\-Indicação \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/4cmnBc1SViY9M3Rgh2LgFi) | 2:44 |
 | 46 | [Eu, Você, O Mar e Ela](https://open.spotify.com/track/000xYdQfIZ4pDmBGzQalKU) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [1977](https://open.spotify.com/album/4QianJs5Ls4mxwcT7gDBww) | 3:07 |
 | 47 | [Cheirosa \- Ao Vivo](https://open.spotify.com/track/2PWjKmjyTZeDpmOUa3a5da) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Cheirosa \(Ao Vivo\)](https://open.spotify.com/album/2s8vRW3xvh5BP4CWKyh14X) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 49 | [Vagabundo](https://open.spotify.com/track/6Lrzxd7ST5oQ6FYKXKH7Ia) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Vagabundo](https://open.spotify.com/album/7fUBlrxykadQWJx0Jikf3v) | 2:45 |
 | 50 | [Regime Fechado \- Ao Vivo](https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Simone & Simaria \(Ao Vivo\)](https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM) | 3:52 |
 
-Snapshot ID: `MCxmMzdiNTU2MzRjYzgyZDlkY2JjY2RjZWE1ZGM1YWZmMDk1NTkxZjc5`
+Snapshot ID: `MCw4MTM4ZDZmOTAyZDc2ZTZhNmI2NWQzY2QzMzdmMjRhMDMxZjJlOWE0`

@@ -4,7 +4,7 @@
 
 > Your weekly Rock update\. Cover: audalei
 
-750 songs - 1 day 17 hr 38 min
+751 songs - 1 day 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [babyblue](https://open.spotify.com/track/67ztyOudH194R7PeZ5d65W) | [Xana](https://open.spotify.com/artist/5Ui0TOcqUVmXQORMMkMaD3) | [babyblue](https://open.spotify.com/album/6N4ApFi1cWFKm5125UVj06) | 3:05 | 2023-06-02 | 2023-08-26 |
 | [Back At Me](https://open.spotify.com/track/5rHXVsKyKvdq0UIC7LMo9G) | [OMBIIGIZI](https://open.spotify.com/artist/6M9etLgzbkyne0y9cvxGAG), [Peter Dreimanis](https://open.spotify.com/artist/29u2tzGMcS5hFxH4IV1iOU) | [Back At Me](https://open.spotify.com/album/3cdsDMTEL9FbA8l6PASlG9) | 3:32 | 2023-04-07 | 2023-06-24 |
 | [Back Home](https://open.spotify.com/track/25Inf9DdQu3QYZITwtdTzN) | [Lofsky](https://open.spotify.com/artist/2oQVpMQQJZIvR4UtlYaak4), [Lowdsound](https://open.spotify.com/artist/0cBxCAP8iwWGDrAAuJeuU9) | [Back Home](https://open.spotify.com/album/6nczsf922TS5VrzYQljA9i) | 2:44 | 2023-03-17 | 2023-06-03 |
-| [Back To Us \(feat\. Goody Grace and Smrtdeath\)](https://open.spotify.com/track/1jOzZUwloEQwXTSEhIrRW3) | [44Blonde](https://open.spotify.com/artist/4KVVfMSquW9mvY3CHFwAxX), [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk) | [Back To Us \(feat\. Goody Grace and Smrtdeath\)](https://open.spotify.com/album/6JKG9hCQqO9rCtT1NmCMEs) | 2:42 | 2023-12-15 |  |
+| [Back To Us \(feat\. Goody Grace and Smrtdeath\)](https://open.spotify.com/track/1jOzZUwloEQwXTSEhIrRW3) | [44Blonde](https://open.spotify.com/artist/4KVVfMSquW9mvY3CHFwAxX), [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk) | [Back To Us \(feat\. Goody Grace and Smrtdeath\)](https://open.spotify.com/album/6JKG9hCQqO9rCtT1NmCMEs) | 2:42 | 2023-12-15 | 2024-01-10 |
+| [Back To Us \(feat\. Goody Grace and Smrtdeath\)](https://open.spotify.com/track/3vQFmL2ZMulyWz79aQ8nxQ) | [44Blonde](https://open.spotify.com/artist/4KVVfMSquW9mvY3CHFwAxX), [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk) | [Back To Us \(feat\. Goody Grace and Smrtdeath\)](https://open.spotify.com/album/5Gv7ZjHBYClNcolWaxB49t) | 2:42 | 2024-01-05 |  |
 | [Backbone](https://open.spotify.com/track/7cl08gllA42WPESPRGUlqQ) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [Backbone](https://open.spotify.com/album/6xX5k5pieb7GtDHdNv1lRv) | 3:13 | 2023-10-06 | 2023-11-18 |
 | [Bad Dreams](https://open.spotify.com/track/1LZWVffprff6rcWqPteIJf) | [The Penske File](https://open.spotify.com/artist/26ib3Vuhrpl8LXfb5GGYCh) | [Half Glow](https://open.spotify.com/album/13oTS8HGiFF1HmucmoMFpj) | 3:07 | 2023-07-21 | 2023-09-16 |
 | [bad note](https://open.spotify.com/track/39j6QzHqCa4G6lCwoJDQYE) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [bad note](https://open.spotify.com/album/2mp93U5wYNG9pNOuOX2nh9) | 2:46 | 2023-05-26 | 2023-07-08 |

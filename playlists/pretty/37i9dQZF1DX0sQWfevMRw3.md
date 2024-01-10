@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > VI VILL HA LÅDVIN UH DET ÄR VÅR BENSIN!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,381 likes - 97 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,340 likes - 97 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 96 | [Kan Inte Gå](https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Kan Inte Gå](https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC) | 2:26 |
 | 97 | [TRUCKER MOTHERFUCKER](https://open.spotify.com/track/3VERP2rb6wFy5Qf8J2pcff) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim), [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [TRUCKER MOTHERFUCKER](https://open.spotify.com/album/1f1PdO6xQRI8nU32xDd0oq) | 3:23 |
 
-Snapshot ID: `MCxjN2Q5MTA2ZTFlNjNiZjMyZjMwN2M4ODdhZGEzYmE4ZGQ0Y2RkZmY1`
+Snapshot ID: `MCw1NDE3MThmNjM0MmU3OTlmOGExOWJjNmM2YTNmY2ZhZjc5OGJmYTdk`

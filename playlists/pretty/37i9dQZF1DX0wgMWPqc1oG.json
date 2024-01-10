@@ -1,12 +1,12 @@
 {
   "description": "The essential recordings from the beginning of the Post Bop era. Cover: Freddie Hubbard",
-  "num_followers": 26583,
+  "num_followers": 26613,
   "original_name": "Post Bop Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODQxMmVlZDM0ZGFmZGRmMTVkZWRiYjgwMTc0MGE2ZmE5MzczYThk",
+  "snapshot_id": "MCwwMDExOTJmNDIyYTc2M2ZkNzY4OTZhNTExOTA3ZDJlNzE4ODllNjQy",
   "tracks": [
     {
       "added_at": "2023-12-21 10:33:10",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-12-21 10:33:10",
       "album": {
-        "name": "More Blues And The Abstract Truth",
-        "url": "https://open.spotify.com/album/1seITlhNRDbQbTEEDzdbie"
-      },
-      "artists": [
-        {
-          "name": "Oliver Nelson",
-          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
-        }
-      ],
-      "duration_ms": 343600,
-      "name": "Theme From Mr. Broadway",
-      "url": "https://open.spotify.com/track/2HFdLKXIT03e3GZABHw7K3"
-    },
-    {
-      "added_at": "2023-12-21 10:33:10",
-      "album": {
         "name": "Out To Lunch (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/3PIVqZzL1PnrxFZDzuT1aX"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 729293,
       "name": "Out To Lunch - Remastered 1998/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/6BD4u2tOTHMlACAZ8gX0Gs"
+    },
+    {
+      "added_at": "2023-12-21 10:33:10",
+      "album": {
+        "name": "More Blues And The Abstract Truth",
+        "url": "https://open.spotify.com/album/1seITlhNRDbQbTEEDzdbie"
+      },
+      "artists": [
+        {
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
+        }
+      ],
+      "duration_ms": 343600,
+      "name": "Theme From Mr. Broadway",
+      "url": "https://open.spotify.com/track/2HFdLKXIT03e3GZABHw7K3"
     },
     {
       "added_at": "2023-12-21 10:33:10",
@@ -855,8 +855,8 @@
     {
       "added_at": "2023-12-21 10:33:10",
       "album": {
-        "name": "Red Clay",
-        "url": "https://open.spotify.com/album/1EKOKpUcbqvwxFcmek60Za"
+        "name": "Hub-Tones",
+        "url": "https://open.spotify.com/album/6WXQu3KjFlb9Hjwzy3vyS5"
       },
       "artists": [
         {
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
         }
       ],
-      "duration_ms": 643706,
-      "name": "The Intrepid Fox",
-      "url": "https://open.spotify.com/track/3SHWZGAvCDcAajSAw3KRU6"
+      "duration_ms": 331253,
+      "name": "Prophet Jennings - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/01a23tagFxN7rI5f3ZSAUd"
     },
     {
       "added_at": "2023-12-21 10:33:10",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-12-21 10:33:10",
       "album": {
+        "name": "Judgment (Remastered 2003 / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/1UTKa9k864z70CFgpoJy1f"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hill",
+          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
+        }
+      ],
+      "duration_ms": 538226,
+      "name": "Siete Ocho - Remastered 2003 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/7iygfmRhXBi2ggTG1WTnvY"
+    },
+    {
+      "added_at": "2023-12-21 10:33:10",
+      "album": {
         "name": "Indestructible",
         "url": "https://open.spotify.com/album/4qMDshn0sMrt3bf7C0mmCx"
       },
@@ -983,24 +999,8 @@
     {
       "added_at": "2023-12-21 10:33:10",
       "album": {
-        "name": "Spring (Remastered)",
-        "url": "https://open.spotify.com/album/7IikPqlk47jXyUaXYJmM10"
-      },
-      "artists": [
-        {
-          "name": "Anthony Williams",
-          "url": "https://open.spotify.com/artist/0FO6iwNxAbcjc8IStwizj6"
-        }
-      ],
-      "duration_ms": 504000,
-      "name": "Love Song - Remastered 2009/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/03nB9wT5HW9OLgH40zqnKi"
-    },
-    {
-      "added_at": "2023-12-21 10:33:10",
-      "album": {
-        "name": "Hub-Tones",
-        "url": "https://open.spotify.com/album/6WXQu3KjFlb9Hjwzy3vyS5"
+        "name": "Red Clay",
+        "url": "https://open.spotify.com/album/1EKOKpUcbqvwxFcmek60Za"
       },
       "artists": [
         {
@@ -1008,9 +1008,9 @@
           "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
         }
       ],
-      "duration_ms": 331253,
-      "name": "Prophet Jennings - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/01a23tagFxN7rI5f3ZSAUd"
+      "duration_ms": 643706,
+      "name": "The Intrepid Fox",
+      "url": "https://open.spotify.com/track/3SHWZGAvCDcAajSAw3KRU6"
     },
     {
       "added_at": "2023-12-21 10:33:10",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-12-21 10:33:10",
       "album": {
-        "name": "Judgment (Remastered 2003 / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/1UTKa9k864z70CFgpoJy1f"
+        "name": "Spring (Remastered)",
+        "url": "https://open.spotify.com/album/7IikPqlk47jXyUaXYJmM10"
       },
       "artists": [
         {
-          "name": "Andrew Hill",
-          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
+          "name": "Anthony Williams",
+          "url": "https://open.spotify.com/artist/0FO6iwNxAbcjc8IStwizj6"
         }
       ],
-      "duration_ms": 538226,
-      "name": "Siete Ocho - Remastered 2003 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/7iygfmRhXBi2ggTG1WTnvY"
+      "duration_ms": 504000,
+      "name": "Love Song - Remastered 2009/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/03nB9wT5HW9OLgH40zqnKi"
     },
     {
       "added_at": "2023-12-21 10:33:10",
@@ -1095,38 +1095,6 @@
     {
       "added_at": "2023-12-21 10:33:10",
       "album": {
-        "name": "The Procrastinator",
-        "url": "https://open.spotify.com/album/4HyzR2bsFvS4GqJMYtHjvq"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 372000,
-      "name": "Stop-Start",
-      "url": "https://open.spotify.com/track/7GBWFGFJQ8KHG3oS5rmIlJ"
-    },
-    {
-      "added_at": "2023-12-21 10:33:10",
-      "album": {
-        "name": "Easterly Winds (Remastered)",
-        "url": "https://open.spotify.com/album/1Xist2IJU302l9yVzyVoYz"
-      },
-      "artists": [
-        {
-          "name": "Jack Wilson",
-          "url": "https://open.spotify.com/artist/1MJpO71ShS9nmFAbT6KM2n"
-        }
-      ],
-      "duration_ms": 356213,
-      "name": "Easterly Winds - Remastered 2004",
-      "url": "https://open.spotify.com/track/1XZrDnwGRDzElcXigwhUSb"
-    },
-    {
-      "added_at": "2023-12-21 10:33:10",
-      "album": {
         "name": "Black Fire",
         "url": "https://open.spotify.com/album/5eTLd8qlHh0QHW6IF7Bi3J"
       },
@@ -1143,6 +1111,22 @@
     {
       "added_at": "2023-12-21 10:33:10",
       "album": {
+        "name": "The Procrastinator",
+        "url": "https://open.spotify.com/album/4HyzR2bsFvS4GqJMYtHjvq"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 372000,
+      "name": "Stop-Start",
+      "url": "https://open.spotify.com/track/7GBWFGFJQ8KHG3oS5rmIlJ"
+    },
+    {
+      "added_at": "2023-12-21 10:33:10",
+      "album": {
         "name": "Contours",
         "url": "https://open.spotify.com/album/4Qk5Ifnki13u4bSvNwXM8Y"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 563920,
       "name": "Point Of Many Returns",
       "url": "https://open.spotify.com/track/0cCWBZBTGiKwqZtxbgp8gY"
+    },
+    {
+      "added_at": "2023-12-21 10:33:10",
+      "album": {
+        "name": "Easterly Winds (Remastered)",
+        "url": "https://open.spotify.com/album/1Xist2IJU302l9yVzyVoYz"
+      },
+      "artists": [
+        {
+          "name": "Jack Wilson",
+          "url": "https://open.spotify.com/artist/1MJpO71ShS9nmFAbT6KM2n"
+        }
+      ],
+      "duration_ms": 356213,
+      "name": "Easterly Winds - Remastered 2004",
+      "url": "https://open.spotify.com/track/1XZrDnwGRDzElcXigwhUSb"
     },
     {
       "added_at": "2023-12-21 10:33:10",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-12-21 10:33:10",
       "album": {
-        "name": "The Best Of Lee Morgan",
-        "url": "https://open.spotify.com/album/3ckt1jRTh6Q08fUvEePI7B"
+        "name": "Duster",
+        "url": "https://open.spotify.com/album/7hA6gmViMYYoSpb8FxJsFf"
       },
       "artists": [
         {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+          "name": "Gary Burton Quartet",
+          "url": "https://open.spotify.com/artist/2vB9VR5CJ70elfI1wWrvBl"
         }
       ],
-      "duration_ms": 332373,
-      "name": "Speedball",
-      "url": "https://open.spotify.com/track/44MyZZa2SPW0BO9XcmlU9F"
+      "duration_ms": 185160,
+      "name": "Portsmouth Figurations",
+      "url": "https://open.spotify.com/track/3D0W1LYyO4yp2QjEg6UiJS"
     },
     {
       "added_at": "2023-12-21 10:33:10",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-12-21 10:33:10",
       "album": {
-        "name": "Duster",
-        "url": "https://open.spotify.com/album/7hA6gmViMYYoSpb8FxJsFf"
+        "name": "The Best Of Lee Morgan",
+        "url": "https://open.spotify.com/album/3ckt1jRTh6Q08fUvEePI7B"
       },
       "artists": [
         {
-          "name": "Gary Burton Quartet",
-          "url": "https://open.spotify.com/artist/2vB9VR5CJ70elfI1wWrvBl"
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
         }
       ],
-      "duration_ms": 185160,
-      "name": "Portsmouth Figurations",
-      "url": "https://open.spotify.com/track/3D0W1LYyO4yp2QjEg6UiJS"
+      "duration_ms": 332373,
+      "name": "Speedball",
+      "url": "https://open.spotify.com/track/44MyZZa2SPW0BO9XcmlU9F"
     },
     {
       "added_at": "2023-12-21 10:33:10",
@@ -1415,8 +1415,8 @@
     {
       "added_at": "2023-12-21 10:33:10",
       "album": {
-        "name": "The Ultimate",
-        "url": "https://open.spotify.com/album/2ppTwBc53nvo0GEtQ53XSp"
+        "name": "Puttin' It Together",
+        "url": "https://open.spotify.com/album/5JkyHalhn8Ml6KhwZBYfBp"
       },
       "artists": [
         {
@@ -1424,9 +1424,9 @@
           "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
         }
       ],
-      "duration_ms": 302842,
-      "name": "In The Truth",
-      "url": "https://open.spotify.com/track/2QdzdWDxxwG1XJdL4iAX4U"
+      "duration_ms": 311826,
+      "name": "Village Greene",
+      "url": "https://open.spotify.com/track/0zowXbXX2KisRPIvUAw56X"
     },
     {
       "added_at": "2023-12-21 10:33:10",
@@ -1479,8 +1479,8 @@
     {
       "added_at": "2023-12-21 10:33:10",
       "album": {
-        "name": "Puttin' It Together",
-        "url": "https://open.spotify.com/album/5JkyHalhn8Ml6KhwZBYfBp"
+        "name": "The Ultimate",
+        "url": "https://open.spotify.com/album/2ppTwBc53nvo0GEtQ53XSp"
       },
       "artists": [
         {
@@ -1488,9 +1488,9 @@
           "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
         }
       ],
-      "duration_ms": 311826,
-      "name": "Village Greene",
-      "url": "https://open.spotify.com/track/0zowXbXX2KisRPIvUAw56X"
+      "duration_ms": 302842,
+      "name": "In The Truth",
+      "url": "https://open.spotify.com/track/2QdzdWDxxwG1XJdL4iAX4U"
     },
     {
       "added_at": "2023-12-21 10:33:10",

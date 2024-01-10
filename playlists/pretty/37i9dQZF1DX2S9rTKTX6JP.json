@@ -1,12 +1,12 @@
 {
   "description": "The very best rock covers. Cover: Dolly Parton",
-  "num_followers": 667752,
+  "num_followers": 667701,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjBjYjk4NjA0N2U3YmNkYjFmMDU3OWUzODJlMDRkNDU2Yjk5MzMz",
+  "snapshot_id": "MCwwODYxYjdhZjNlYzE2ZjM1MGQzNmQ1Zjk5MDQ1MjNmZjcwYTk5NmM2",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Angel Dust",
-        "url": "https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q"
-      },
-      "artists": [
-        {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
-        }
-      ],
-      "duration_ms": 186960,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4zzvMG8KrsykYtvFEJ99Cl"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/3Bp4QzJlhnqgJ5CW9zfEo7"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 183357,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/1nJOzQiAY0d9YGopbYlQsr"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Angel Dust",
+        "url": "https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "duration_ms": 186960,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4zzvMG8KrsykYtvFEJ99Cl"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Temple of Love (feat. VV)",
-        "url": "https://open.spotify.com/album/5c2QMiZp0FZgBLwV9wLioj"
-      },
-      "artists": [
-        {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        },
-        {
-          "name": "VV",
-          "url": "https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l"
-        }
-      ],
-      "duration_ms": 204759,
-      "name": "Temple of Love (feat. VV)",
-      "url": "https://open.spotify.com/track/2jif0PZ9YHW8Nn3BlBIHUX"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Iris",
         "url": "https://open.spotify.com/album/1BLQgpr4ttkVWGVQcWaBl7"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 224859,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6yfGW1uvUa3riTuZbf3zed"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Temple of Love (feat. VV)",
+        "url": "https://open.spotify.com/album/5c2QMiZp0FZgBLwV9wLioj"
+      },
+      "artists": [
+        {
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        },
+        {
+          "name": "VV",
+          "url": "https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l"
+        }
+      ],
+      "duration_ms": 204759,
+      "name": "Temple of Love (feat. VV)",
+      "url": "https://open.spotify.com/track/2jif0PZ9YHW8Nn3BlBIHUX"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Life's Been Good",
-        "url": "https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto"
-      },
-      "artists": [
-        {
-          "name": "Dirty Heads",
-          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
-        }
-      ],
-      "duration_ms": 193950,
-      "name": "Life's Been Good",
-      "url": "https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Lest We Forget - The Best Of",
         "url": "https://open.spotify.com/album/7fmOTYDQn9DIXCy1YDrl4S"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 291440,
       "name": "Sweet Dreams (Are Made Of This)",
       "url": "https://open.spotify.com/track/0Xq7FPQaLJgIHSB605YUMy"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Life's Been Good",
+        "url": "https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto"
+      },
+      "artists": [
+        {
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+        }
+      ],
+      "duration_ms": 193950,
+      "name": "Life's Been Good",
+      "url": "https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1996,6 +1996,26 @@
       "added_at": "2023-11-17 05:00:00",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "duration_ms": 259188,
+      "name": "Like A Stone (feat. Tom Morello) - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2CrS7PVRbhHm0DPqIDm8fY"
       },
       "artists": [
@@ -2023,26 +2043,6 @@
       "duration_ms": 265547,
       "name": "PSYCHO KILLER (featuring Victoria De Angelis)",
       "url": "https://open.spotify.com/track/6Kl9rabCEVbBpegNTQfFc6"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU"
-      },
-      "artists": [
-        {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        },
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        }
-      ],
-      "duration_ms": 259188,
-      "name": "Like A Stone (feat. Tom Morello) - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2471,22 +2471,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/6LnhVGmR0JG4boB3NTsE8O"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 205341,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/6ikRLztllCPsloUL2jCYpJ"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Across The Universe",
         "url": "https://open.spotify.com/album/3EsATrrGKDb76NIdrOMk2F"
       },
@@ -2499,6 +2483,22 @@
       "duration_ms": 222274,
       "name": "Across The Universe",
       "url": "https://open.spotify.com/track/75Ov0ZIMoV0HuRwaPQsicp"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/6LnhVGmR0JG4boB3NTsE8O"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "duration_ms": 205341,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6ikRLztllCPsloUL2jCYpJ"
     },
     {
       "added_at": "2023-11-17 05:00:00",

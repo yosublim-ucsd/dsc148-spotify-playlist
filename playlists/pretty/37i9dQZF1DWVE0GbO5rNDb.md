@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 
 > Hit dance per l'estate 2023, anche in autunno 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,027 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,975 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 | 57 | [Rise](https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Rise](https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L) | 3:13 |
 | 58 | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI) | 3:02 |
 | 59 | [Still \(I Got Summer On My Mind\) \- FORTELLA Remix](https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW) | [JJ](https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR), [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Still \(I Got Summer On My Mind\) \[FORTELLA Remix\]](https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob) | 3:13 |
-| 60 | [Me and My Guitar](https://open.spotify.com/track/27IPKPihBookrvrXK1FHmC) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Me and My Guitar](https://open.spotify.com/album/2aUjskRm4oj02ZUEymdPww) | 2:14 |
-| 61 | [Smash My Heart](https://open.spotify.com/track/4f9iU6U8XBqlzZyoEHirXS) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Pink](https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL) | 2:50 |
+| 60 | [Smash My Heart](https://open.spotify.com/track/4f9iU6U8XBqlzZyoEHirXS) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Pink](https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL) | 2:50 |
+| 61 | [Me and My Guitar](https://open.spotify.com/track/27IPKPihBookrvrXK1FHmC) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Me and My Guitar](https://open.spotify.com/album/2aUjskRm4oj02ZUEymdPww) | 2:14 |
 | 62 | [Everybody Wants To Party](https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [Everybody Wants To Party](https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj) | 3:04 |
 | 63 | [Run](https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Run](https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L) | 3:08 |
 | 64 | [World, Hold On \- FISHER Rework](https://open.spotify.com/track/6quGF3Kvzd5WYEEuCmvCe1) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [World, Hold On \(FISHER Rework\)](https://open.spotify.com/album/5a5yqCyb7xF3Hklvlwc3t3) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 | 99 | [Hero](https://open.spotify.com/track/29p6UW08MXzwj9thWBW3uF) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Hero](https://open.spotify.com/album/6KV17NyVQwm5PJOVwAVlyV) | 2:51 |
 | 100 | [Sunrise](https://open.spotify.com/track/4iWMYQzb82cuwANWqByUda) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Sunrise](https://open.spotify.com/album/6a65EL0FbTxEZ837CMrtYg) | 2:18 |
 
-Snapshot ID: `MCwwYThhNzFiOTU3NTRmOGZjMjlkNmIyNTI3MTIyNTZlOGQxOGNkYzM1`
+Snapshot ID: `MCwzOGM0NTkyYTM4NzAwMGJlMjVjMjE3OTQ3MDlkZDEwMzg0Yjk4Y2Ux`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 > La pop française annonce la couleur\. Photo : DAYSY
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,518 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,520 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 2 | [fou](https://open.spotify.com/track/1FG0HeNkIK4bmj6W1iBg3B) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [fou](https://open.spotify.com/album/1fYpB6W7Yt1RopNSdVGMk9) | 2:48 |
 | 3 | [Spoon](https://open.spotify.com/track/4lrByaHULAk1oFuKI6rOsA) | [Lancelot](https://open.spotify.com/artist/2h6HFDlZrXhfMDob23obTs) | [Spoon](https://open.spotify.com/album/4dFtbwST7q3v77LrcurwP8) | 2:59 |
 | 4 | [Feel Good](https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good](https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix) | 2:43 |
-| 5 | [Creep \- Reprise](https://open.spotify.com/track/5vZtvZGmR9APE5Uthy4A3H) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Creep \(Reprise\)](https://open.spotify.com/album/0CRmRKpMa7LpbNCkHzgwBD) | 2:51 |
+| 5 | [Creep \- Reprise](https://open.spotify.com/track/6R3kzJCQFejaS1XIR7wnbo) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Creep \(Reprise\)](https://open.spotify.com/album/2Q1hHWosLo5qBPj6oL8bDY) | 2:51 |
 | 6 | [Destin](https://open.spotify.com/track/32sbhu9nAOqDC16fuAIvf6) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Pulsations](https://open.spotify.com/album/5dfL1lSvKW38OgZQaOXIFo) | 3:49 |
 | 7 | [J'me barre](https://open.spotify.com/track/2ZkWEkVDL73dSNAv21aa0B) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [J'me barre](https://open.spotify.com/album/73Rk8FmhOaBIza5bOYnTmT) | 2:59 |
 | 8 | [J'aimerais danser avec toi](https://open.spotify.com/track/1fWvBuZBG7AomF8Qk27vMM) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [J'aimerais danser avec toi](https://open.spotify.com/album/5V5TGyamn7lRkTfnoYM8vO) | 2:39 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 43 | [CRASH <3](https://open.spotify.com/track/3qxpjvGzwjP4b6EDYLaon6) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 2:49 |
 | 44 | [Remia](https://open.spotify.com/track/6YGurDnYXwVgx3v76n9Ddt) | [Tessa B](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [Remia](https://open.spotify.com/album/3rvOpnOkVmgqWcSNA6O1so) | 3:14 |
 | 45 | [Film Noir](https://open.spotify.com/track/1DIQCidDAFLBkOz5w7Iwdo) | [Abel](https://open.spotify.com/artist/4kitxzTDsGXkCybo2BIUnW) | [Film Noir](https://open.spotify.com/album/0EAD1CSYjqg88Wsgp3xwKC) | 3:27 |
-| 46 | [De passage](https://open.spotify.com/track/4a0upuCaLwcfL7TBYAGfGu) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [De passage](https://open.spotify.com/album/7qUUnF1DQdPRJhIeoWd3XB) | 3:06 |
+| 46 | [De passage](https://open.spotify.com/track/5mkGCuxXJfqo8Ed5dlQWdF) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [De passage](https://open.spotify.com/album/7w8YGqzXswTDFkUQ4edlRw) | 3:06 |
 | 47 | [Puzzle](https://open.spotify.com/track/6sKi2n9ibaCpXt06Dt1XWr) | [Morgan](https://open.spotify.com/artist/7E6PYsPQuOU1r5gPPBRvoS), [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Puzzle](https://open.spotify.com/album/5NGv5Gro2sAJhQuTGRQKX7) | 2:49 |
 | 48 | [Bébé](https://open.spotify.com/track/4lQvyWrV2vamH8sQRxwwRz) | [Charlie Motto](https://open.spotify.com/artist/6zdCsWv5dvlyaJhk0nMmfb) | [Bébé](https://open.spotify.com/album/7adtShWeqe2YtwzB4bVKpg) | 3:00 |
 | 49 | [Ça ira](https://open.spotify.com/track/4fzoguCLFCgt2ldzSkLkL4) | [Gaëlle](https://open.spotify.com/artist/7IEKUdw3xG4W1DpxvLL0di) | [Ça ira](https://open.spotify.com/album/18sxQrfpUxfwygD6RTtcju) | 2:38 |
 | 50 | [Albert](https://open.spotify.com/track/2cFoPkVgux9RqiqLV23yu2) | [Lancelot](https://open.spotify.com/artist/2h6HFDlZrXhfMDob23obTs) | [Albert](https://open.spotify.com/album/6Acj3MqHBGWSc9BtNgTGyN) | 2:50 |
 
-Snapshot ID: `MCxmNmNhMmRhZGNjNzQ4ZThiOTVjMmM5ODJmOTA4Njc3NzdlYWY3OTkw`
+Snapshot ID: `MCxlNWU4MjJhNTU2MTNjZGQ3ZjgwNDRlN2U0YjBkZWVhNmJmNTA1NTlm`

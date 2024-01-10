@@ -1,12 +1,12 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 73503,
+  "num_followers": 73479,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDgyMGI4ZGIyZDQ5ZTgxMzdhY2U2NzJlMGY5Yjk3OGI3YWQxMDE1",
+  "snapshot_id": "MCw2Yjg4MmRjNjBhMTg0MTUyY2M3N2ZkODAwMDJhMzkxZmUwOTE2Zjlh",
   "tracks": [
     {
       "added_at": "2023-04-09 08:58:44",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
-        "name": "You Deliver Me",
-        "url": "https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk"
-      },
-      "artists": [
-        {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
-        }
-      ],
-      "duration_ms": 204133,
-      "name": "How Deep The Father's Love For Us",
-      "url": "https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO"
-    },
-    {
-      "added_at": "2023-04-09 08:58:44",
-      "album": {
         "name": "Surrounded",
         "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 300026,
       "name": "Surrounded (Fight My Battles)",
       "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
+    },
+    {
+      "added_at": "2023-04-09 08:58:44",
+      "album": {
+        "name": "You Deliver Me",
+        "url": "https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk"
+      },
+      "artists": [
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        }
+      ],
+      "duration_ms": 204133,
+      "name": "How Deep The Father's Love For Us",
+      "url": "https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO"
     },
     {
       "added_at": "2023-04-09 08:58:44",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
-        "name": "Greater Things",
-        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 307026,
-      "name": "Christ Is Risen",
-      "url": "https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u"
-    },
-    {
-      "added_at": "2023-04-09 08:58:44",
-      "album": {
         "name": "Passion Collection",
         "url": "https://open.spotify.com/album/5qCQNNTRCwSFxE95O7dCOn"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 239628,
       "name": "One Thing Remains - Radio Version",
       "url": "https://open.spotify.com/track/6YyizHBnH22hpC4R3CwJK5"
+    },
+    {
+      "added_at": "2023-04-09 08:58:44",
+      "album": {
+        "name": "Greater Things",
+        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 307026,
+      "name": "Christ Is Risen",
+      "url": "https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u"
     },
     {
       "added_at": "2023-04-09 08:58:44",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
-        "name": "Breakthrough (Live)",
-        "url": "https://open.spotify.com/album/4ROjH1uLP9Qe7FNunpCTZi"
-      },
-      "artists": [
-        {
-          "name": "Chris McClarney",
-          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
-        }
-      ],
-      "duration_ms": 332946,
-      "name": "Hallelujah For The Cross - Live",
-      "url": "https://open.spotify.com/track/4cd4S4o80CBDAXEI9f4Fch"
-    },
-    {
-      "added_at": "2023-04-09 08:58:44",
-      "album": {
         "name": "All The Earth (Live)",
         "url": "https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 242913,
       "name": "Zeal - Live",
       "url": "https://open.spotify.com/track/4JXSzNLxnP1xuvHtzuYUN9"
+    },
+    {
+      "added_at": "2023-04-09 08:58:44",
+      "album": {
+        "name": "Breakthrough (Live)",
+        "url": "https://open.spotify.com/album/4ROjH1uLP9Qe7FNunpCTZi"
+      },
+      "artists": [
+        {
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
+        }
+      ],
+      "duration_ms": 332946,
+      "name": "Hallelujah For The Cross - Live",
+      "url": "https://open.spotify.com/track/4cd4S4o80CBDAXEI9f4Fch"
     },
     {
       "added_at": "2023-04-09 08:58:44",
@@ -1343,6 +1343,26 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
+        "name": "Here (Live)",
+        "url": "https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "duration_ms": 468208,
+      "name": "Come Alive (Resurrection Power) - Live",
+      "url": "https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy"
+    },
+    {
+      "added_at": "2023-04-09 08:58:44",
+      "album": {
         "name": "Peace Be Still",
         "url": "https://open.spotify.com/album/5NB3XmeK1ICymTWKPEWnSt"
       },
@@ -1355,22 +1375,6 @@
       "duration_ms": 300733,
       "name": "Promise Keeper",
       "url": "https://open.spotify.com/track/2Cr9jbqKa0fr2ROrHDn8Rb"
-    },
-    {
-      "added_at": "2023-04-09 08:58:44",
-      "album": {
-        "name": "Way Maker (Live)",
-        "url": "https://open.spotify.com/album/5EbRkyqOEX6pXqypa5Eh65"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 500453,
-      "name": "Waymaker - Bonus Track, Live",
-      "url": "https://open.spotify.com/track/4WBGWowkttFkVlxULnCWKP"
     },
     {
       "added_at": "2023-04-09 08:58:44",
@@ -1395,26 +1399,6 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
-        "name": "Here (Live)",
-        "url": "https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Hope Darst",
-          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
-        }
-      ],
-      "duration_ms": 468208,
-      "name": "Come Alive (Resurrection Power) - Live",
-      "url": "https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy"
-    },
-    {
-      "added_at": "2023-04-09 08:58:44",
-      "album": {
         "name": "Frontiers",
         "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 383293,
       "name": "Exalted Over All - Live",
       "url": "https://open.spotify.com/track/16b3DajNe0LzMGSEV2ZQP6"
+    },
+    {
+      "added_at": "2023-04-09 08:58:44",
+      "album": {
+        "name": "Way Maker (Live)",
+        "url": "https://open.spotify.com/album/5EbRkyqOEX6pXqypa5Eh65"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 500453,
+      "name": "Waymaker - Bonus Track, Live",
+      "url": "https://open.spotify.com/track/4WBGWowkttFkVlxULnCWKP"
     },
     {
       "added_at": "2023-04-09 08:58:44",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
-        "name": "Champion",
-        "url": "https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4"
-      },
-      "artists": [
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 283746,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc"
-    },
-    {
-      "added_at": "2023-04-09 08:58:44",
-      "album": {
         "name": "Take, Eat, Drink (Live)",
         "url": "https://open.spotify.com/album/3hDc3GQ0j8bGM7IszTfwgF"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 287800,
       "name": "Take, Eat, Drink - Live",
       "url": "https://open.spotify.com/track/1b5YiRG1yd1KWj0aDWiFiE"
+    },
+    {
+      "added_at": "2023-04-09 08:58:44",
+      "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 283746,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc"
     },
     {
       "added_at": "2023-04-09 08:58:44",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
+        "name": "Songs for the Simple Gathering: Vol. 1",
+        "url": "https://open.spotify.com/album/4iPZUSoyHm8jOK2Uzm0bKl"
+      },
+      "artists": [
+        {
+          "name": "KingsPorch",
+          "url": "https://open.spotify.com/artist/1YBs9eFwD54sWgek5EVYTF"
+        }
+      ],
+      "duration_ms": 309724,
+      "name": "I Speak Jesus",
+      "url": "https://open.spotify.com/track/5Mspn0AMXu0P2yl0i0xy7h"
+    },
+    {
+      "added_at": "2023-04-09 08:58:44",
+      "album": {
         "name": "Royalty: Live At The Ryman",
         "url": "https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 427389,
       "name": "God So Loved - Live",
       "url": "https://open.spotify.com/track/0f0BtT5yPDxiAwlO9JqJ6s"
-    },
-    {
-      "added_at": "2023-04-09 08:58:44",
-      "album": {
-        "name": "Songs for the Simple Gathering: Vol. 1",
-        "url": "https://open.spotify.com/album/4iPZUSoyHm8jOK2Uzm0bKl"
-      },
-      "artists": [
-        {
-          "name": "KingsPorch",
-          "url": "https://open.spotify.com/artist/1YBs9eFwD54sWgek5EVYTF"
-        }
-      ],
-      "duration_ms": 309724,
-      "name": "I Speak Jesus",
-      "url": "https://open.spotify.com/track/5Mspn0AMXu0P2yl0i0xy7h"
     },
     {
       "added_at": "2023-04-09 08:58:44",

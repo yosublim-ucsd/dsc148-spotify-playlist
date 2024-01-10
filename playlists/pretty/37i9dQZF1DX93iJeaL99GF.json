@@ -1,12 +1,12 @@
 {
   "description": "Prominent Indian independent music creators. Cover - Lucky Ali",
-  "num_followers": 64662,
+  "num_followers": 64707,
   "original_name": "Legends of Indie India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDYxYThjODk4YzZjMTNkNjRiMDkzMmJmZmI4YmE3YmQxYTdlNWM3",
+  "snapshot_id": "MCw2M2ZmMmNkMzRkNjc4NTQ5NjBhYzE0YzZmMDk4Mzc5OTVlNmFlNDc1",
   "tracks": [
     {
       "added_at": "2023-12-18 06:13:13",
@@ -583,18 +583,22 @@
     {
       "added_at": "2023-12-18 06:13:13",
       "album": {
-        "name": "Fossils",
-        "url": "https://open.spotify.com/album/5Il3OBfF2vxUbJXnRS4fzj"
+        "name": "Fossils, Vol. 1",
+        "url": "https://open.spotify.com/album/4LK7A9a8z4UFHAL5MNpPdb"
       },
       "artists": [
+        {
+          "name": "Rupam Islam",
+          "url": "https://open.spotify.com/artist/1pRruDTNcEFpBPvpFZU76o"
+        },
         {
           "name": "Fossils",
           "url": "https://open.spotify.com/artist/3sLXzn7CKmzQ3r2pnYfzAo"
         }
       ],
       "duration_ms": 404245,
-      "name": "Aro Ekbar",
-      "url": "https://open.spotify.com/track/1cUq9SX7nQL1u0kKyhT7lX"
+      "name": "Aaro Ekbar",
+      "url": "https://open.spotify.com/track/0OM0yZX9mjzK1FuKraQWvU"
     },
     {
       "added_at": "2023-12-18 06:13:13",

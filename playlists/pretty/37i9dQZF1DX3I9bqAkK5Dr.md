@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Jammers
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,607 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,616 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 74 | [Oggesi Ponadhe Nanu Oggesi Ponadhe](https://open.spotify.com/track/29uZ19VV4GQyS8mKdyavOf) | [Sunny Austin](https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA), [RAM](https://open.spotify.com/artist/4wxme1noavrvUnP6Is0ajq), [Chinna Swamy](https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS) | [Layilo](https://open.spotify.com/album/4xy4FT93ivcqANeyvZxEuh) | 3:13 |
 | 75 | [Neeve](https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Neeve](https://open.spotify.com/album/2m9VqOtsGbywuyl4QXp32V) | 5:07 |
 
-Snapshot ID: `MCw1MzM1NjMwMjIxYzYxMzIwZDI0NGE3M2FmMjlhOWQ2NDgwNGVhZGI5`
+Snapshot ID: `MCxmODFkMTI2NjA3NDBlYmE5NDJjMjdjMTI2M2QwMDM5ODNiODJhOWQ2`

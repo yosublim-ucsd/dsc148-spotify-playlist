@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Freshest of Pakistani discoveries\. Cover \- AUR
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,428 likes - 59 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,434 likes - 59 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 58 | [Gareeb Ka Bar](https://open.spotify.com/track/4L1dMJZvf70ULIdLT2yTPq) | [Babar Mangi](https://open.spotify.com/artist/7zDKZRpusSBsdEa3sUvnQv) | [Gareeb Ka Bar](https://open.spotify.com/album/1dPskfEvAix6d4tChcuWiC) | 2:47 |
 | 59 | [Raatain](https://open.spotify.com/track/7iNIdvTw4C2KJZow1neWzA) | [Muhammad Ali](https://open.spotify.com/artist/7ynQpUquGX363qUYC23U7x) | [Raatain](https://open.spotify.com/album/1tzBjW5EPm7bowTHtx8wgc) | 2:06 |
 
-Snapshot ID: `MCw0ZDRhMjRjYjg5ZDQ3NzZmOWQyMWZiYjA1M2E2YTZhNTg4NGRjNjUz`
+Snapshot ID: `MCxiZDc0OWE3ZTZhNWMyZjk2MDEyYzVjZGIzMzBjNmJjNTQ4ZTVlZWM5`

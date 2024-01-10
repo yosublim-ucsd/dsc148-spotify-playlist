@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 
 > Nigeria's hottest tracks\.  Cover: <a href="https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV?si=3Wmv\-vx7RduqAise9doMrA">Kizz Daniel</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,131 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,277 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 | 49 | [2:30](https://open.spotify.com/track/1n3JvneU8FhfldfTQ8BdZs) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:18 |
 | 50 | [Amapiano](https://open.spotify.com/track/1YgIvHDTvi1vosins1jyAC) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:45 |
 
-Snapshot ID: `MCwyNGU3YzNkNWU1YjhkYTJmZmU5YTM0MTEzOGY4YmIzMzUzYzU5MmNj`
+Snapshot ID: `MCw1YTIzYjc4YTc4NzE1NGZhYWZlNDRlOWY3NWQzNDVmYjEwNjAyYzIy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,488 likes - 50 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,578 likes - 50 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 42 | [Ivar the Boneless](https://open.spotify.com/track/5jEL4pW79jdIz6VnqDaCjm) | [Gigg Cosco](https://open.spotify.com/artist/0DkJm7HViEwxS1zxHKY86o) | [Ivar the Boneless](https://open.spotify.com/album/00vV7Vovl8G5eu9B7f896I) | 6:44 |
 | 43 | [Myself & The Dark](https://open.spotify.com/track/5HXW3kNPv7l8KBE5duEVol) | [Supreme Rhythm](https://open.spotify.com/artist/5pGU7dm8MANpUSPptk8N8i) | [Sentimental Affair](https://open.spotify.com/album/5GlFRj4lCo1NJq370frGN1) | 7:11 |
 | 44 | [Those Times](https://open.spotify.com/track/6CcZOTY6BcU0lrJu6Whhqn) | [C\-Moody](https://open.spotify.com/artist/54OOXOPVCHZ2wkppPBXaal) | [Those Times](https://open.spotify.com/album/5YblhSjbYeSAkY1JoWmkVY) | 7:45 |
-| 45 | [Dusty Streets](https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q) | [Eddvin](https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq) | [Dusty Streets](https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6) | 6:26 |
+| 45 | [Time To Dance](https://open.spotify.com/track/29ycplqUCPpRNEevsdpEQ7) | [DJ Cleo](https://open.spotify.com/artist/25DGxfawvVBrqZNBzWQj9y) | [Time to Dance](https://open.spotify.com/album/0zP0o4TYEjt3vM9u3SNEXV) | 7:50 |
 | 46 | [Gotsom](https://open.spotify.com/track/09bP5tNmOMja2JVmz9iNgY) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ) | [I Am Jazz](https://open.spotify.com/album/6qowtxa5c1s4tBk86CD2bK) | 6:42 |
-| 47 | [Electronic Deep House King](https://open.spotify.com/track/0GguOx9XILJ3MXuKwE435W) | [Seventhi DJ](https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7) | [Electronic Deep House King](https://open.spotify.com/album/00eLGRfYqp78QhwWp7i5Bx) | 5:36 |
-| 48 | [We Gonna Fight For Music](https://open.spotify.com/track/0b59ktQ0M328llm4xZlnsp) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [We Gonna Fight For Music](https://open.spotify.com/album/5iB4ERgOJHSxDyhLUKIKCb) | 8:41 |
-| 49 | [BAUHAUS](https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2) | [TimAdeep](https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq) | [BAUHAUS](https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07) | 8:02 |
-| 50 | [Gambiando Caras](https://open.spotify.com/track/4YNgFSOwvgYuiaDv15kiGL) | [Sir Vee The Great](https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI) | [Gambiando Caras](https://open.spotify.com/album/34Z2Yz8YHzjvFZGqxr5RzG) | 7:15 |
+| 47 | [Dusty Streets](https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q) | [Eddvin](https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq) | [Dusty Streets](https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6) | 6:26 |
+| 48 | [Electronic Deep House King](https://open.spotify.com/track/0GguOx9XILJ3MXuKwE435W) | [Seventhi DJ](https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7) | [Electronic Deep House King](https://open.spotify.com/album/00eLGRfYqp78QhwWp7i5Bx) | 5:36 |
+| 49 | [We Gonna Fight For Music](https://open.spotify.com/track/0b59ktQ0M328llm4xZlnsp) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [We Gonna Fight For Music](https://open.spotify.com/album/5iB4ERgOJHSxDyhLUKIKCb) | 8:41 |
+| 50 | [BAUHAUS](https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2) | [TimAdeep](https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq) | [BAUHAUS](https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07) | 8:02 |
 
-Snapshot ID: `MCxmZjRjZjRjMzhjOGVhMmRmMGVlMzMwMTI5ZmY0NzBlZTNkZWU4MGMy`
+Snapshot ID: `MCwzNmZmOTRkZmVjNzU3MGM1ZDRkOTk1MGQ2OTY4MTEzYjA4OTZmYmRl`

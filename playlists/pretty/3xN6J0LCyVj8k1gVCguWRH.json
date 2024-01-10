@@ -1,29 +1,13 @@
 {
   "description": "Barack Obama&#x27;s favorite songs of 2023 plus somo of his favorite summer songs. Includes Summer 22, &amp; 21 editions + bonus tracks.",
-  "num_followers": 108009,
+  "num_followers": 108008,
   "original_name": "Obama\u2019s Summer Playlist 2023 | Favorite Songs of 2023",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "Njk0OSxlODc5ZWM1MzQ3ODBkNGNkOGIyZWY5NDZkYTQ2YmU2ZWViMzE2NDE3",
+  "snapshot_id": "Njk2MSwxZjJjOTgyM2VhNDliMGMyMDk4YWIwOGJjNjQ0MjNkYzNiNGNlN2I4",
   "tracks": [
-    {
-      "added_at": "2024-01-09 00:05:46",
-      "album": {
-        "name": "Get on You",
-        "url": "https://open.spotify.com/album/0tR7tgNy0OIi1siFxxmtIu"
-      },
-      "artists": [
-        {
-          "name": "Winnie Ama",
-          "url": "https://open.spotify.com/artist/4DJIumnofpauv3dYkgZSv1"
-        }
-      ],
-      "duration_ms": 178375,
-      "name": "Get on You",
-      "url": "https://open.spotify.com/track/4T6XbBGr4cnSfs0NhrzBgr"
-    },
     {
       "added_at": "2023-12-29 15:33:48",
       "album": {
@@ -1067,30 +1051,6 @@
       "duration_ms": 193493,
       "name": "Everything Is Broken",
       "url": "https://open.spotify.com/track/65Ywa7EspM0tSZreKwOmnL"
-    },
-    {
-      "added_at": "2024-01-09 00:06:32",
-      "album": {
-        "name": "I Expect Nothing In Return",
-        "url": "https://open.spotify.com/album/2RhgSKgZbjCBFTNg4NfhON"
-      },
-      "artists": [
-        {
-          "name": "Caleb Lodish",
-          "url": "https://open.spotify.com/artist/5umje6IIpqxQR6DAhQSU8M"
-        },
-        {
-          "name": "Leandra Dielle",
-          "url": "https://open.spotify.com/artist/4nOJpLcRsMMk2KRhdoMEWh"
-        },
-        {
-          "name": "tyler serrani",
-          "url": "https://open.spotify.com/artist/3aBtXJ7HNoNB2MTS7adG1y"
-        }
-      ],
-      "duration_ms": 158014,
-      "name": "Forgive You",
-      "url": "https://open.spotify.com/track/0Fc6pAZNzdsX19EMoSyBN7"
     },
     {
       "added_at": "2023-07-20 21:41:43",
@@ -2805,6 +2765,22 @@
       "url": "https://open.spotify.com/track/62dIc92wJsmNNEiMYTmDjG"
     },
     {
+      "added_at": "2024-01-10 00:01:50",
+      "album": {
+        "name": "Camino",
+        "url": "https://open.spotify.com/album/5WcAaX8MRo8PxLTnLdaepR"
+      },
+      "artists": [
+        {
+          "name": "Free Whenever",
+          "url": "https://open.spotify.com/artist/3bSsyMPujHM45QOvf6M6he"
+        }
+      ],
+      "duration_ms": 188956,
+      "name": "Camino",
+      "url": "https://open.spotify.com/track/3HuEdFyq7BPQCqH179VaVk"
+    },
+    {
       "added_at": "2024-01-05 00:04:27",
       "album": {
         "name": "Summer Is Gone",
@@ -2917,72 +2893,28 @@
       "url": "https://open.spotify.com/track/0tFYw23ZdowOMjqbPdQzls"
     },
     {
-      "added_at": "2023-12-22 00:03:36",
+      "added_at": "2024-01-09 00:06:32",
       "album": {
-        "name": "Girl, I Know A Guy",
-        "url": "https://open.spotify.com/album/18ps4Zg1TZveN0oPI9cbhl"
+        "name": "I Expect Nothing In Return",
+        "url": "https://open.spotify.com/album/2RhgSKgZbjCBFTNg4NfhON"
       },
       "artists": [
         {
-          "name": "Alex Miller",
-          "url": "https://open.spotify.com/artist/2O6mQU9DIRojQ3mtDuqb4S"
-        }
-      ],
-      "duration_ms": 204160,
-      "name": "Girl, I Know A Guy",
-      "url": "https://open.spotify.com/track/21Vy8ApM1WXLPRNnwhetX3"
-    },
-    {
-      "added_at": "2023-12-22 00:02:13",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/2Ad64wHC5FYro56s5M5UU0"
-      },
-      "artists": [
-        {
-          "name": "Macedo",
-          "url": "https://open.spotify.com/artist/4hQT8LjL7j5IlWFQG5Z9kG"
-        }
-      ],
-      "duration_ms": 187774,
-      "name": "Truth or Dare",
-      "url": "https://open.spotify.com/track/0SlGIyPCLbIFtOT3UhAFsR"
-    },
-    {
-      "added_at": "2023-12-22 00:01:51",
-      "album": {
-        "name": "Dulce De Leche",
-        "url": "https://open.spotify.com/album/0z7PP07CHaTpnxfkM2gutj"
-      },
-      "artists": [
-        {
-          "name": "EbNFLoW",
-          "url": "https://open.spotify.com/artist/52tZK4vEgVwQ8gN3BYYGLb"
+          "name": "Caleb Lodish",
+          "url": "https://open.spotify.com/artist/5umje6IIpqxQR6DAhQSU8M"
         },
         {
-          "name": "Dolores",
-          "url": "https://open.spotify.com/artist/083XAVPRmjHxahdFzMvOY6"
-        }
-      ],
-      "duration_ms": 220007,
-      "name": "Dulce De Leche",
-      "url": "https://open.spotify.com/track/7npX4vsXeMhUCtsuuImWkQ"
-    },
-    {
-      "added_at": "2023-12-21 22:36:19",
-      "album": {
-        "name": "Hot Jupiters Nashville 2023",
-        "url": "https://open.spotify.com/album/3SUv9rxOaz2RNvmNKB1yl5"
-      },
-      "artists": [
+          "name": "Leandra Dielle",
+          "url": "https://open.spotify.com/artist/4nOJpLcRsMMk2KRhdoMEWh"
+        },
         {
-          "name": "Steve Mullaney",
-          "url": "https://open.spotify.com/artist/41PgwnckDxw5iSOL7REZ8z"
+          "name": "tyler serrani",
+          "url": "https://open.spotify.com/artist/3aBtXJ7HNoNB2MTS7adG1y"
         }
       ],
-      "duration_ms": 263977,
-      "name": "Long Before Our Time",
-      "url": "https://open.spotify.com/track/58q0O9v3G0HnrTyf3J2w91"
+      "duration_ms": 158014,
+      "name": "Forgive You",
+      "url": "https://open.spotify.com/track/0Fc6pAZNzdsX19EMoSyBN7"
     },
     {
       "added_at": "2024-01-03 03:31:22",
@@ -3025,36 +2957,36 @@
       "url": "https://open.spotify.com/track/1cQOUaEmmxsH9ysBFlryaL"
     },
     {
-      "added_at": "2023-12-22 00:03:17",
+      "added_at": "2024-01-09 00:05:46",
       "album": {
-        "name": "Hindsight",
-        "url": "https://open.spotify.com/album/1016l7GYTGAXqDheRYGNLi"
+        "name": "Get on You",
+        "url": "https://open.spotify.com/album/0tR7tgNy0OIi1siFxxmtIu"
       },
       "artists": [
         {
-          "name": "Talk In Code",
-          "url": "https://open.spotify.com/artist/1Gw8doHoxtHc077ucipphC"
+          "name": "Winnie Ama",
+          "url": "https://open.spotify.com/artist/4DJIumnofpauv3dYkgZSv1"
         }
       ],
-      "duration_ms": 192965,
-      "name": "Hindsight",
-      "url": "https://open.spotify.com/track/1oxi8L6luWRLlqZmHEI8qo"
+      "duration_ms": 178375,
+      "name": "Get on You",
+      "url": "https://open.spotify.com/track/4T6XbBGr4cnSfs0NhrzBgr"
     },
     {
-      "added_at": "2023-12-22 00:00:55",
+      "added_at": "2024-01-10 00:03:01",
       "album": {
-        "name": "Minnesota",
-        "url": "https://open.spotify.com/album/1RlmCefMx4QXgIHTLJqN3m"
+        "name": "Use Me",
+        "url": "https://open.spotify.com/album/2SPqtySOvGdiPbS1u0BsMr"
       },
       "artists": [
         {
-          "name": "Shana Sarett",
-          "url": "https://open.spotify.com/artist/072Xz51SAdNqkPj6PhGsTo"
+          "name": "Waynewood",
+          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
         }
       ],
-      "duration_ms": 262917,
-      "name": "Minnesota",
-      "url": "https://open.spotify.com/track/1XJgYuaWBGWEDYMCtNen4M"
+      "duration_ms": 163902,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/5aeZzetAqugIhW81mR7Zr7"
     },
     {
       "added_at": "2024-01-04 01:32:46",
@@ -3071,6 +3003,22 @@
       "duration_ms": 243500,
       "name": "Show Yourself",
       "url": "https://open.spotify.com/track/18yoLoaIOeR2k7SFAhd5Pk"
+    },
+    {
+      "added_at": "2024-01-10 01:31:54",
+      "album": {
+        "name": "The Children Will Pay",
+        "url": "https://open.spotify.com/album/20UBKfngrQjDAYOHm5NBHK"
+      },
+      "artists": [
+        {
+          "name": "Janna Badalian",
+          "url": "https://open.spotify.com/artist/5NyBZhdRgRFscEwqQyjGrf"
+        }
+      ],
+      "duration_ms": 211231,
+      "name": "The Children Will Pay",
+      "url": "https://open.spotify.com/track/6oxPdMpKlJq5kuIGm9tQXl"
     },
     {
       "added_at": "2024-01-04 03:34:05",
@@ -3091,34 +3039,6 @@
       "duration_ms": 343381,
       "name": "LIVING FOR THE LOVE",
       "url": "https://open.spotify.com/track/57ZfxwA7OVKLe8V3dr08VR"
-    },
-    {
-      "added_at": "2024-01-02 15:31:58",
-      "album": {
-        "name": "CALMA (Remix)",
-        "url": "https://open.spotify.com/album/7JKNQqKikS5zbLdIhtF01F"
-      },
-      "artists": [
-        {
-          "name": "Reijy",
-          "url": "https://open.spotify.com/artist/6794EDtkcLQ065dXVaOIIC"
-        },
-        {
-          "name": "Kevin Florez",
-          "url": "https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf"
-        },
-        {
-          "name": "Jeivy Dance",
-          "url": "https://open.spotify.com/artist/03nNDIejwqix5PecP2i0rv"
-        },
-        {
-          "name": "Luis Eduardo Ac\u00fastico",
-          "url": "https://open.spotify.com/artist/3sG7osrc6txjpoApiVgGdm"
-        }
-      ],
-      "duration_ms": 248347,
-      "name": "CALMA - Remix",
-      "url": "https://open.spotify.com/track/0FvF4XO36AwEyc2zCVCjyo"
     },
     {
       "added_at": "2024-01-07 09:12:35",
@@ -3181,34 +3101,6 @@
       "url": "https://open.spotify.com/track/5dIIzl8jC1YXszIgyWGQY4"
     },
     {
-      "added_at": "2023-12-22 00:01:24",
-      "album": {
-        "name": "Saturday Night Sunday Morning",
-        "url": "https://open.spotify.com/album/38SKYN6oZTYx8EKEOJVFpl"
-      },
-      "artists": [
-        {
-          "name": "Peter Levin",
-          "url": "https://open.spotify.com/artist/1CpSDhvKyyNe87DVssoDh2"
-        },
-        {
-          "name": "The Blind Boys Of Alabama",
-          "url": "https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH"
-        },
-        {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
-        },
-        {
-          "name": "Marc Qui\u00f1ones",
-          "url": "https://open.spotify.com/artist/2zstrNi6OUJfF3psAesmed"
-        }
-      ],
-      "duration_ms": 287532,
-      "name": "Midnight Rider",
-      "url": "https://open.spotify.com/track/20modtGjw1PJOOGbUYITcv"
-    },
-    {
       "added_at": "2024-01-03 18:55:58",
       "album": {
         "name": "The Echo of Your Goodbye",
@@ -3245,22 +3137,6 @@
       "url": "https://open.spotify.com/track/4GEpFCKvqy0Us30UqHJecY"
     },
     {
-      "added_at": "2024-01-02 17:33:03",
-      "album": {
-        "name": "Howweusedtobe",
-        "url": "https://open.spotify.com/album/6xZiP8inef2heWYZZSj40u"
-      },
-      "artists": [
-        {
-          "name": "Humble Goods",
-          "url": "https://open.spotify.com/artist/4AMIlG84QHWMs3GeFKhqep"
-        }
-      ],
-      "duration_ms": 148125,
-      "name": "Howweusedtobe",
-      "url": "https://open.spotify.com/track/2GZTc6b6LSqRSC6qAWNsoi"
-    },
-    {
       "added_at": "2023-12-31 19:31:08",
       "album": {
         "name": "What You Feel",
@@ -3279,6 +3155,22 @@
       "duration_ms": 157642,
       "name": "What You Feel",
       "url": "https://open.spotify.com/track/5cir1CnYke01nC6wcacPfO"
+    },
+    {
+      "added_at": "2024-01-10 00:02:30",
+      "album": {
+        "name": "Ven Pa Ca",
+        "url": "https://open.spotify.com/album/3DGFY8fwmkgdKu9s0E0Fuc"
+      },
+      "artists": [
+        {
+          "name": "HERMANN",
+          "url": "https://open.spotify.com/artist/39nfOPNks3gAIk1jIbVVGJ"
+        }
+      ],
+      "duration_ms": 156850,
+      "name": "Ven Pa Ca",
+      "url": "https://open.spotify.com/track/19felDAYliRHZSwBwdAO6O"
     },
     {
       "added_at": "2023-12-29 00:04:03",
@@ -3327,22 +3219,6 @@
       "duration_ms": 186262,
       "name": "Closer",
       "url": "https://open.spotify.com/track/3njSzp0s3j9NKaBeCkkxve"
-    },
-    {
-      "added_at": "2023-12-23 00:01:10",
-      "album": {
-        "name": "WE LE LE",
-        "url": "https://open.spotify.com/album/0uGeyIboXcAvfru3aLcsJe"
-      },
-      "artists": [
-        {
-          "name": "Sasu",
-          "url": "https://open.spotify.com/artist/4JBTC5mmVvAyPwXbpPCuQh"
-        }
-      ],
-      "duration_ms": 286451,
-      "name": "WE LE LE",
-      "url": "https://open.spotify.com/track/1qb355GEuTidwStoROG5zh"
     }
   ],
   "unique_name": "Obama\u2019s Summer Playlist 2023 | Favorite Songs of 2023",

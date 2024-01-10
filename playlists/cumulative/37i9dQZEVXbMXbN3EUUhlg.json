@@ -2156,7 +2156,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Ballena",
       "url": "https://open.spotify.com/track/1Vy9Wn5sbiduZKBqBlH3Mc"
@@ -2496,7 +2496,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 197333,
       "name": "BELLAKEO",
       "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
@@ -3666,7 +3666,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 156431,
       "name": "CHEIRO NA CAMISETA",
       "url": "https://open.spotify.com/track/6Td7nVeAOUz13zhDlUY8jv"
@@ -8760,7 +8760,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 125108,
       "name": "Joga Pra Lua",
       "url": "https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu"
@@ -10148,7 +10148,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 273135,
       "name": "Me Esque\u00e7a / Volta Pra Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/4Lqjw0EejvxhI3hKROpTC9"
@@ -11040,11 +11040,15 @@
         {
           "name": "DJ Arana",
           "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
+        },
+        {
+          "name": "Karol X",
+          "url": "https://open.spotify.com/artist/0ByBhGIqP8T6O0YZWnAMCR"
         }
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 178080,
       "name": "MONTAGEM ANOS 2000",
       "url": "https://open.spotify.com/track/4zNy0cxc4p36OLdPr0sI6h"
@@ -12206,7 +12210,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 169835,
       "name": "N\u00e3o Vital\u00edcio (Nunca Mais) - Ao Vivo",
       "url": "https://open.spotify.com/track/4KGyltc1ugN2WFcjkSPHwh"
@@ -12468,7 +12472,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 159158,
       "name": "Oi Balde - Ao Vivo",
       "url": "https://open.spotify.com/track/4xAGuRRKOgoaZbMGdmTD3N"
@@ -14828,7 +14832,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 167445,
       "name": "Sai Da Frente",
       "url": "https://open.spotify.com/track/3OirlIOGwFgwcQgVru6IUG"
@@ -15496,7 +15500,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 168840,
       "name": "Seu Brilho Sumiu - Ao Vivo",
       "url": "https://open.spotify.com/track/3PH1nUysW7ybo3Yu8sqlPN"
@@ -15920,7 +15924,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 187153,
       "name": "Sou Musa do Ver\u00e3o",
       "url": "https://open.spotify.com/track/2cZ62VBKsdZ7u1kKKJdFOc"
@@ -15942,7 +15946,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 182154,
       "name": "Sozinha - Ao Vivo",
       "url": "https://open.spotify.com/track/1Or0joPrPSsuXdTzGFLAws"

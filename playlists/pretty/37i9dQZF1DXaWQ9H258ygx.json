@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/keithpowers/\">Keith Powers</a>",
-  "num_followers": 90092,
+  "num_followers": 90212,
   "original_name": "Keith Power's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDNhYmVhNGE3ZWI1YTA4NjcwNzFkNGRjYjU1ODEyMjQ5ZTdkZTQz",
+  "snapshot_id": "MCwzOWFiM2M1ZTJjYWMyZjgyMDcwMTEwZDFhMDBmYjM3NmE0N2E0OGZj",
   "tracks": [
     {
       "added_at": "2022-10-03 04:00:00",
@@ -87,22 +87,6 @@
     {
       "added_at": "2022-10-03 04:00:00",
       "album": {
-        "name": "Only By The Night",
-        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 230760,
-      "name": "Use Somebody",
-      "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"
-    },
-    {
-      "added_at": "2022-10-03 04:00:00",
-      "album": {
         "name": "Chanel",
         "url": "https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 210285,
       "name": "Chanel",
       "url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh"
+    },
+    {
+      "added_at": "2022-10-03 04:00:00",
+      "album": {
+        "name": "Only By The Night",
+        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 230760,
+      "name": "Use Somebody",
+      "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"
     },
     {
       "added_at": "2022-10-03 04:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-10-03 04:00:00",
       "album": {
-        "name": "Icarus Falls",
-        "url": "https://open.spotify.com/album/1DF9B2hfwX4EdgEFwGcRwh"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 185373,
-      "name": "Let Me",
-      "url": "https://open.spotify.com/track/2cEmWBBlCfR9wWrY9JmTyt"
-    },
-    {
-      "added_at": "2022-10-03 04:00:00",
-      "album": {
         "name": "Gemini Rights",
         "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 201546,
       "name": "Helmet",
       "url": "https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2"
+    },
+    {
+      "added_at": "2022-10-03 04:00:00",
+      "album": {
+        "name": "Icarus Falls",
+        "url": "https://open.spotify.com/album/1DF9B2hfwX4EdgEFwGcRwh"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 185373,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/2cEmWBBlCfR9wWrY9JmTyt"
     },
     {
       "added_at": "2022-10-03 04:00:00",

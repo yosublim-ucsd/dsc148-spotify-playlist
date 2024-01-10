@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the Savior being born by worshipping along with these Christmas songs.",
-  "num_followers": 79414,
+  "num_followers": 79377,
   "original_name": "Christmas Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGRiN2UxMTg0YjY2ZWI2MjBhM2IxNTNmMTVhOGJmYWM3MzAwNjYy",
+  "snapshot_id": "MCwwOTVlYzliMTZjZjZhMzljOWYwMjI0ODcwOTY5Yjc5N2MwZjdhZGMy",
   "tracks": [
     {
       "added_at": "2023-12-15 05:18:31",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
-        "name": "Glory In The Highest: Christmas Songs Of Worship",
-        "url": "https://open.spotify.com/album/1a2gUlUBypmai0CzuIVXQo"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 339253,
-      "name": "O, Come All Ye Faithful",
-      "url": "https://open.spotify.com/track/6t1Ls3PvpUFhJAaAJBLsRl"
-    },
-    {
-      "added_at": "2023-12-15 05:18:31",
-      "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/5noo9mmDQjfL9nzXSJmJjG"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 220460,
       "name": "Holy",
       "url": "https://open.spotify.com/track/7ykbXoPWUNDj0txNJo0GJt"
+    },
+    {
+      "added_at": "2023-12-15 05:18:31",
+      "album": {
+        "name": "Glory In The Highest: Christmas Songs Of Worship",
+        "url": "https://open.spotify.com/album/1a2gUlUBypmai0CzuIVXQo"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 339253,
+      "name": "O, Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/6t1Ls3PvpUFhJAaAJBLsRl"
     },
     {
       "added_at": "2023-12-15 05:18:31",
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
-        "name": "O Come All Ye Faithful",
-        "url": "https://open.spotify.com/album/5thPoXoJSR4ooEcyXT8yGf"
+        "name": "These Christmas Lights",
+        "url": "https://open.spotify.com/album/5pgUIgHDhjfGe2rGunmU7a"
       },
       "artists": [
         {
-          "name": "Ben Fuller",
-          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
         }
       ],
-      "duration_ms": 204634,
-      "name": "O Come All Ye Faithful",
-      "url": "https://open.spotify.com/track/7F2Y9vPmOd4RQq8ZJgbFMk"
+      "duration_ms": 316213,
+      "name": "His Name Shall Be",
+      "url": "https://open.spotify.com/track/1rhs3UZ8J2xXbrJnbOqRPa"
     },
     {
       "added_at": "2023-12-15 05:18:31",
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
-        "name": "These Christmas Lights",
-        "url": "https://open.spotify.com/album/5pgUIgHDhjfGe2rGunmU7a"
+        "name": "O Come All Ye Faithful",
+        "url": "https://open.spotify.com/album/5thPoXoJSR4ooEcyXT8yGf"
       },
       "artists": [
         {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
         }
       ],
-      "duration_ms": 316213,
-      "name": "His Name Shall Be",
-      "url": "https://open.spotify.com/track/1rhs3UZ8J2xXbrJnbOqRPa"
+      "duration_ms": 204634,
+      "name": "O Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/7F2Y9vPmOd4RQq8ZJgbFMk"
     },
     {
       "added_at": "2023-12-15 05:18:31",
@@ -407,18 +407,22 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
-        "name": "Behold Messiah",
-        "url": "https://open.spotify.com/album/0b5akzs3AfLDsFiYLyJ48b"
+        "name": "King Of Kings",
+        "url": "https://open.spotify.com/album/30RfU2mnzbrCsnZA4TSCcY"
       },
       "artists": [
         {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
         }
       ],
-      "duration_ms": 316386,
-      "name": "Behold Messiah",
-      "url": "https://open.spotify.com/track/40vLncM2rTQI22HOf7F6n5"
+      "duration_ms": 265080,
+      "name": "King Of Kings",
+      "url": "https://open.spotify.com/track/6kmhapLx51lmwhIIDFsUQU"
     },
     {
       "added_at": "2023-12-15 05:18:31",
@@ -439,22 +443,18 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
-        "name": "King Of Kings",
-        "url": "https://open.spotify.com/album/30RfU2mnzbrCsnZA4TSCcY"
+        "name": "Behold Messiah",
+        "url": "https://open.spotify.com/album/0b5akzs3AfLDsFiYLyJ48b"
       },
       "artists": [
         {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
         }
       ],
-      "duration_ms": 265080,
-      "name": "King Of Kings",
-      "url": "https://open.spotify.com/track/6kmhapLx51lmwhIIDFsUQU"
+      "duration_ms": 316386,
+      "name": "Behold Messiah",
+      "url": "https://open.spotify.com/track/40vLncM2rTQI22HOf7F6n5"
     },
     {
       "added_at": "2023-12-15 05:18:31",
@@ -491,18 +491,22 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
-        "name": "Heaven Has Come",
-        "url": "https://open.spotify.com/album/75vRXbPSXGxcvpHmrQPrit"
+        "name": "A Worship Initiative Christmas, Vol. 2",
+        "url": "https://open.spotify.com/album/61lw866oRKSzdu8HvqAiRj"
       },
       "artists": [
         {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        },
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 266128,
-      "name": "The First Noel (Born is the King)",
-      "url": "https://open.spotify.com/track/2mH6nswysbEDWEKNAT48XK"
+      "duration_ms": 221813,
+      "name": "Face of God",
+      "url": "https://open.spotify.com/track/6DEve01Q8cnzt698HJyl9D"
     },
     {
       "added_at": "2023-12-15 05:18:31",
@@ -527,22 +531,18 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
-        "name": "A Worship Initiative Christmas, Vol. 2",
-        "url": "https://open.spotify.com/album/61lw866oRKSzdu8HvqAiRj"
+        "name": "Heaven Has Come",
+        "url": "https://open.spotify.com/album/75vRXbPSXGxcvpHmrQPrit"
       },
       "artists": [
         {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        },
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
         }
       ],
-      "duration_ms": 221813,
-      "name": "Face of God",
-      "url": "https://open.spotify.com/track/6DEve01Q8cnzt698HJyl9D"
+      "duration_ms": 266128,
+      "name": "The First Noel (Born is the King)",
+      "url": "https://open.spotify.com/track/2mH6nswysbEDWEKNAT48XK"
     },
     {
       "added_at": "2023-12-15 05:18:31",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
+        "name": "His Name Will Be",
+        "url": "https://open.spotify.com/album/7gDxG8lbAKMgaKTlaXfxZz"
+      },
+      "artists": [
+        {
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+        }
+      ],
+      "duration_ms": 305441,
+      "name": "His Name Will Be",
+      "url": "https://open.spotify.com/track/7kBkOk27aHUV21y0yHN1Tx"
+    },
+    {
+      "added_at": "2023-12-15 05:18:31",
+      "album": {
         "name": "Joy (To the World)",
         "url": "https://open.spotify.com/album/4AXXuocsg8dSPVkQWVAmSd"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 180676,
       "name": "Joy (To the World)",
       "url": "https://open.spotify.com/track/6u5QM6f2evRbxBIzqaPe96"
-    },
-    {
-      "added_at": "2023-12-15 05:18:31",
-      "album": {
-        "name": "His Name Will Be",
-        "url": "https://open.spotify.com/album/7gDxG8lbAKMgaKTlaXfxZz"
-      },
-      "artists": [
-        {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
-        }
-      ],
-      "duration_ms": 305441,
-      "name": "His Name Will Be",
-      "url": "https://open.spotify.com/track/7kBkOk27aHUV21y0yHN1Tx"
     },
     {
       "added_at": "2023-12-15 05:18:31",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
-        "name": "The First Noel",
-        "url": "https://open.spotify.com/album/0a4mMQCuG7be9wNRgbtuZl"
-      },
-      "artists": [
-        {
-          "name": "Rock City Worship",
-          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
-        }
-      ],
-      "duration_ms": 210743,
-      "name": "The First Noel",
-      "url": "https://open.spotify.com/track/2MQYkvXbOoqnym1nRSLBRa"
-    },
-    {
-      "added_at": "2023-12-15 05:18:31",
-      "album": {
         "name": "O Come All Ye Faithful (Adore Him)",
         "url": "https://open.spotify.com/album/6DM0NT7VUfcnSHX14gGMSP"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 279661,
       "name": "O Come All Ye Faithful (Adore Him)",
       "url": "https://open.spotify.com/track/15iXq47g33NYpcjIvA5Phr"
+    },
+    {
+      "added_at": "2023-12-15 05:18:31",
+      "album": {
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/0a4mMQCuG7be9wNRgbtuZl"
+      },
+      "artists": [
+        {
+          "name": "Rock City Worship",
+          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
+        }
+      ],
+      "duration_ms": 210743,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/2MQYkvXbOoqnym1nRSLBRa"
     },
     {
       "added_at": "2023-12-15 05:18:31",
@@ -1615,8 +1615,8 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
-        "name": "Christmas, Vol. 1",
-        "url": "https://open.spotify.com/album/1dMHqgEd5fWINaWdxWjO5T"
+        "name": "Joy To The World",
+        "url": "https://open.spotify.com/album/4Uh6K8uGB61JB9rGdjsgRG"
       },
       "artists": [
         {
@@ -1624,9 +1624,9 @@
           "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
         }
       ],
-      "duration_ms": 174008,
-      "name": "Oh Come All Ye Faithful - Stripped Version",
-      "url": "https://open.spotify.com/track/6QaGJDoe1idrXDzbwTbZxu"
+      "duration_ms": 194092,
+      "name": "Joy To The World - Live",
+      "url": "https://open.spotify.com/track/5ccO9yPJuSHBSTWoixmdE3"
     },
     {
       "added_at": "2023-12-15 05:18:31",
@@ -1779,8 +1779,8 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
-        "name": "Joy To The World",
-        "url": "https://open.spotify.com/album/4Uh6K8uGB61JB9rGdjsgRG"
+        "name": "Christmas, Vol. 1",
+        "url": "https://open.spotify.com/album/1dMHqgEd5fWINaWdxWjO5T"
       },
       "artists": [
         {
@@ -1788,9 +1788,9 @@
           "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
         }
       ],
-      "duration_ms": 194092,
-      "name": "Joy To The World - Live",
-      "url": "https://open.spotify.com/track/5ccO9yPJuSHBSTWoixmdE3"
+      "duration_ms": 174008,
+      "name": "Oh Come All Ye Faithful - Stripped Version",
+      "url": "https://open.spotify.com/track/6QaGJDoe1idrXDzbwTbZxu"
     },
     {
       "added_at": "2023-12-15 05:18:31",
@@ -1919,38 +1919,6 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
-        "name": "Reggae Christmas Medley",
-        "url": "https://open.spotify.com/album/6Dkc0mzW9ZjT8E3DYghCwU"
-      },
-      "artists": [
-        {
-          "name": "Kevin Downswell",
-          "url": "https://open.spotify.com/artist/19yI5UdtGvSKDu23hoG3K4"
-        }
-      ],
-      "duration_ms": 300405,
-      "name": "Reggae Christmas Medley",
-      "url": "https://open.spotify.com/track/1GhKTFDR6hZdMYFLzEYodT"
-    },
-    {
-      "added_at": "2023-12-15 05:18:31",
-      "album": {
-        "name": "Oh Come All Ye Faithful",
-        "url": "https://open.spotify.com/album/18Gkhoj0Bddbm5uqzzgu78"
-      },
-      "artists": [
-        {
-          "name": "Thrive Worship",
-          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
-        }
-      ],
-      "duration_ms": 184001,
-      "name": "Oh Come All Ye Faithful - Single Version",
-      "url": "https://open.spotify.com/track/5ZC6CQUiZBgrqoYDviM3aV"
-    },
-    {
-      "added_at": "2023-12-15 05:18:31",
-      "album": {
         "name": "Behold",
         "url": "https://open.spotify.com/album/2RG49VyKwmXMux1gZihA4Q"
       },
@@ -1979,6 +1947,38 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
+        "name": "Oh Come All Ye Faithful",
+        "url": "https://open.spotify.com/album/18Gkhoj0Bddbm5uqzzgu78"
+      },
+      "artists": [
+        {
+          "name": "Thrive Worship",
+          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
+        }
+      ],
+      "duration_ms": 184001,
+      "name": "Oh Come All Ye Faithful - Single Version",
+      "url": "https://open.spotify.com/track/5ZC6CQUiZBgrqoYDviM3aV"
+    },
+    {
+      "added_at": "2023-12-15 05:18:31",
+      "album": {
+        "name": "Reggae Christmas Medley",
+        "url": "https://open.spotify.com/album/6Dkc0mzW9ZjT8E3DYghCwU"
+      },
+      "artists": [
+        {
+          "name": "Kevin Downswell",
+          "url": "https://open.spotify.com/artist/19yI5UdtGvSKDu23hoG3K4"
+        }
+      ],
+      "duration_ms": 300405,
+      "name": "Reggae Christmas Medley",
+      "url": "https://open.spotify.com/track/1GhKTFDR6hZdMYFLzEYodT"
+    },
+    {
+      "added_at": "2023-12-15 05:18:31",
+      "album": {
         "name": "Joy to the World",
         "url": "https://open.spotify.com/album/6Uw2K7lvvXSKZkSO8JCreM"
       },
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
-        "name": "Comfort and Joy",
-        "url": "https://open.spotify.com/album/6ln6oSxJB8fCXtTu4eezD9"
-      },
-      "artists": [
-        {
-          "name": "Highlands Worship",
-          "url": "https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In"
-        }
-      ],
-      "duration_ms": 200818,
-      "name": "Away In a Manger",
-      "url": "https://open.spotify.com/track/6kqfTZO1rOY1M4Ilcc2noQ"
-    },
-    {
-      "added_at": "2023-12-15 05:18:31",
-      "album": {
         "name": "Great Christmas",
         "url": "https://open.spotify.com/album/1BBSnDN7zRzoBf4bQncMGw"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 167558,
       "name": "Great Christmas",
       "url": "https://open.spotify.com/track/6pt8hwewlxOm7UZfEsx9t4"
+    },
+    {
+      "added_at": "2023-12-15 05:18:31",
+      "album": {
+        "name": "Comfort and Joy",
+        "url": "https://open.spotify.com/album/6ln6oSxJB8fCXtTu4eezD9"
+      },
+      "artists": [
+        {
+          "name": "Highlands Worship",
+          "url": "https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In"
+        }
+      ],
+      "duration_ms": 200818,
+      "name": "Away In a Manger",
+      "url": "https://open.spotify.com/track/6kqfTZO1rOY1M4Ilcc2noQ"
     },
     {
       "added_at": "2023-12-15 05:18:31",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
-        "name": "Christmas: The Peace Project (Deluxe)",
-        "url": "https://open.spotify.com/album/7jsfWfgCE3uUZGMm9TUZTM"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        }
-      ],
-      "duration_ms": 250786,
-      "name": "Peace Upon The Earth",
-      "url": "https://open.spotify.com/track/2GpinY0MViDy4uWae6IJV7"
-    },
-    {
-      "added_at": "2023-12-15 05:18:31",
-      "album": {
         "name": "Crown Him With Glory",
         "url": "https://open.spotify.com/album/0x4u4yhQLIEDre5G497LPd"
       },
@@ -2259,6 +2243,22 @@
       "duration_ms": 307261,
       "name": "O Come Let Us Adore Him",
       "url": "https://open.spotify.com/track/1hLl0Y2I0EXT0umZha8IzW"
+    },
+    {
+      "added_at": "2023-12-15 05:18:31",
+      "album": {
+        "name": "Christmas: The Peace Project (Deluxe)",
+        "url": "https://open.spotify.com/album/7jsfWfgCE3uUZGMm9TUZTM"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        }
+      ],
+      "duration_ms": 250786,
+      "name": "Peace Upon The Earth",
+      "url": "https://open.spotify.com/track/2GpinY0MViDy4uWae6IJV7"
     },
     {
       "added_at": "2023-12-15 05:18:31",

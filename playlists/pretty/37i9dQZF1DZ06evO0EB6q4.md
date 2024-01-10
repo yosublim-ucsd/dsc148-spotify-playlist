@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 
 > This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,975 likes - 51 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,965 likes - 51 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,14 +50,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 40 | [Como Bolero](https://open.spotify.com/track/7pOBTfz9EOi9Yb64cOI6kv) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Como Bolero](https://open.spotify.com/album/2yEGgrU4SbngjLlJFhF3CB) | 3:14 |
 | 41 | [Aprovéchame](https://open.spotify.com/track/0hCDMlpaTpyQQ5Ovgj0cq5) | [Yoky Barrios](https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Obra Negra](https://open.spotify.com/album/6HqIURdhRk251kGeywxhDK) | 3:27 |
 | 42 | [Vuelve](https://open.spotify.com/track/7JLsVIpyj7hLi43uHs8BFZ) | [Teo LB](https://open.spotify.com/artist/0HwtulWF8xZD2g2IMhNXwo), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Vuelve](https://open.spotify.com/album/5lHHOwtZ9cV6A3fCo70MW9) | 3:49 |
-| 43 | [Púrpura](https://open.spotify.com/track/1bRrJaO9IHxsx8OY3ly5di) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Púrpura](https://open.spotify.com/album/32Fgx3PGAOXi2F1KtJNmfz) | 3:21 |
-| 44 | [Como Tú Ninguna](https://open.spotify.com/track/2a3WucROZGobQgS2LvZph5) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Como Tú Ninguna](https://open.spotify.com/album/30nUAI8wWDgNjyOfHPJpRn) | 3:56 |
+| 43 | [Como Tú Ninguna](https://open.spotify.com/track/2a3WucROZGobQgS2LvZph5) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Como Tú Ninguna](https://open.spotify.com/album/30nUAI8wWDgNjyOfHPJpRn) | 3:56 |
+| 44 | [Púrpura](https://open.spotify.com/track/1bRrJaO9IHxsx8OY3ly5di) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Púrpura](https://open.spotify.com/album/32Fgx3PGAOXi2F1KtJNmfz) | 3:21 |
 | 45 | [No Puedo Olvidarte](https://open.spotify.com/track/1aShkzvbm20sYlMuwQBJ0R) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Puedo Olvidarte](https://open.spotify.com/album/7rmWaMyKeqUYxJuyCDfzzR) | 3:45 |
 | 46 | [Ya No Se Mueve](https://open.spotify.com/track/1ySJxsLuBOwc3BOvNGeIdZ) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Ya No Se Mueve](https://open.spotify.com/album/2DXjnfXuEeacuThcytHodq) | 2:35 |
-| 47 | [Ya Me la Sé](https://open.spotify.com/track/34Uv22Dr62dDJlqWckF0N0) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [HECHO M13RD4](https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY) | 3:01 |
-| 48 | [Mía](https://open.spotify.com/track/2ILQcg4M8Qyc6hq0v2AGOg) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Compilado, Vol\. 1](https://open.spotify.com/album/14CpQJsjiV9GqZJHNQYjXC) | 3:10 |
+| 47 | [Mía](https://open.spotify.com/track/2ILQcg4M8Qyc6hq0v2AGOg) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Compilado, Vol\. 1](https://open.spotify.com/album/14CpQJsjiV9GqZJHNQYjXC) | 3:10 |
+| 48 | [Ya Me la Sé](https://open.spotify.com/track/34Uv22Dr62dDJlqWckF0N0) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [HECHO M13RD4](https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY) | 3:01 |
 | 49 | [En Lo Malo Me Va Bien](https://open.spotify.com/track/6JP2x0Rvwq7LZ8goXDGAIL) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [¿Cómo Terminamos Aquí?](https://open.spotify.com/album/5ODmbI1fYx0NajM6mo6Dpe) | 4:01 |
 | 50 | [Prototipo](https://open.spotify.com/track/2eDnDmBCMRWiADTOWgVtHR) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Otro Paso a la Locura](https://open.spotify.com/album/1hZRh10fuvCtR4X9CYnUeJ) | 3:48 |
 | 51 | [Ilegal](https://open.spotify.com/track/7noUi6BJ2QBfBHxzAWXk6n) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [99,9](https://open.spotify.com/album/2t4hCVRC3NpT8UjdDEC9x0) | 2:10 |
 
-Snapshot ID: `Mjg0MTE4OTksMDAwMDAwMDA0MDdiYTlmMjdlYzQ3MjZhMDU4N2RhMjY0MTY1MjVkNg==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDBiZThhNmIyNGYyYWQ0MmUxZDlmZTliZTRkNjNhMzEzMg==`

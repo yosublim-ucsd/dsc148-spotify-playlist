@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 71864,
+  "num_followers": 71924,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDEwMmM4MGY3ZWVlMTg2ZTI1ZDQwZTIxMDczZGM2ZmRmNTIxNGEy",
+  "snapshot_id": "MCxhZjVlM2QyZTRhMThkMmRhZWY3ZWIxZTc0ZTZmZWJmMWY4YjFmNDQ3",
   "tracks": [
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
+        "name": "Whatuworried4?",
+        "url": "https://open.spotify.com/album/4NgEu7SlyyuO2HqJidl4gp"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 155506,
+      "name": "Whatuworried4?",
+      "url": "https://open.spotify.com/track/5suukXwOYA1AuB8O0sCSBR"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
         "name": "I <3 Harajuku",
         "url": "https://open.spotify.com/album/5K2FlrS1CJZVIl81gZ5SdF"
       },
@@ -1075,18 +1091,18 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "Whatuworried4?",
-        "url": "https://open.spotify.com/album/4NgEu7SlyyuO2HqJidl4gp"
+        "name": "BIPP",
+        "url": "https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU"
       },
       "artists": [
         {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 155506,
-      "name": "Whatuworried4?",
-      "url": "https://open.spotify.com/track/5suukXwOYA1AuB8O0sCSBR"
+      "duration_ms": 224142,
+      "name": "BIPP",
+      "url": "https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1103,22 +1119,6 @@
       "duration_ms": 101487,
       "name": "go white boy go",
       "url": "https://open.spotify.com/track/6RZrdPiUXNBC9ENt1mca2O"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
-        "name": "BIPP",
-        "url": "https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 224142,
-      "name": "BIPP",
-      "url": "https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq"
     },
     {
       "added_at": "2023-04-27 17:13:18",

@@ -1,12 +1,12 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 182222,
+  "num_followers": 181842,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjQ1YWYxZGQwMGRhZTU3NjliZTdlN2I3ZDU0NzBiZTc5NzdjYTli",
+  "snapshot_id": "MCw1ZDhiMzYxZjc4YTRmZTA5OGUyMzNmZmM2MjVlMTkzMzRmOTZiMTQ0",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Vivian Leva & Riley Calcagno",
+        "url": "https://open.spotify.com/album/3xwM9xDjO2nOTeC6VCwPUN"
+      },
+      "artists": [
+        {
+          "name": "Viv & Riley",
+          "url": "https://open.spotify.com/artist/02eGekE35DrC5E0qH4kh3H"
+        }
+      ],
+      "duration_ms": 217746,
+      "name": "Love and Chains",
+      "url": "https://open.spotify.com/track/5kQ69AMKeII7YLjdtTEmM9"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Better Things",
         "url": "https://open.spotify.com/album/10WziHwO8dTEYnMGsWXQ2C"
       },
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Vivian Leva & Riley Calcagno",
-        "url": "https://open.spotify.com/album/3xwM9xDjO2nOTeC6VCwPUN"
-      },
-      "artists": [
-        {
-          "name": "Viv & Riley",
-          "url": "https://open.spotify.com/artist/02eGekE35DrC5E0qH4kh3H"
-        }
-      ],
-      "duration_ms": 217746,
-      "name": "Love and Chains",
-      "url": "https://open.spotify.com/track/5kQ69AMKeII7YLjdtTEmM9"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Call Me A Fool [Feat. Carla Thomas]",
         "url": "https://open.spotify.com/album/0pSxVdyHM0NrcDQtCIU8Xl"
       },
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Freedom Highway",
-        "url": "https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        }
-      ],
-      "duration_ms": 256560,
-      "name": "At the Purchaser's Option",
-      "url": "https://open.spotify.com/track/5RmAtT0VaKttU0Eybo6ZWA"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Dressed in Roses",
         "url": "https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 206013,
       "name": "Barbaro",
       "url": "https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Freedom Highway",
+        "url": "https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "duration_ms": 256560,
+      "name": "At the Purchaser's Option",
+      "url": "https://open.spotify.com/track/5RmAtT0VaKttU0Eybo6ZWA"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Pohorylle",
-        "url": "https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR"
-      },
-      "artists": [
-        {
-          "name": "Margo Cilker",
-          "url": "https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7"
-        }
-      ],
-      "duration_ms": 187306,
-      "name": "Tehachapi",
-      "url": "https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Answers (Acoustic)",
         "url": "https://open.spotify.com/album/0s0Zix6OHOS5RqaEmPijh0"
       },
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Hell on Church Street",
-        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
+        "name": "Pohorylle",
+        "url": "https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR"
       },
       "artists": [
         {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+          "name": "Margo Cilker",
+          "url": "https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7"
         }
       ],
-      "duration_ms": 153327,
-      "name": "Church Street Blues",
-      "url": "https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS"
+      "duration_ms": 187306,
+      "name": "Tehachapi",
+      "url": "https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1219,6 +1203,22 @@
       "duration_ms": 194306,
       "name": "Too Late to Write a Love Song",
       "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 153327,
+      "name": "Church Street Blues",
+      "url": "https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1439,6 +1439,38 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Poor David's Almanack",
+        "url": "https://open.spotify.com/album/2yohVBNjsgx36AC03RGyxM"
+      },
+      "artists": [
+        {
+          "name": "David Rawlings",
+          "url": "https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G"
+        }
+      ],
+      "duration_ms": 198440,
+      "name": "Midnight Train",
+      "url": "https://open.spotify.com/track/3OZRkavHZUYEfFuK8JNmU9"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Black Sun",
+        "url": "https://open.spotify.com/album/6b7USoPQHOlfaelSrPPVo9"
+      },
+      "artists": [
+        {
+          "name": "Irma",
+          "url": "https://open.spotify.com/artist/7KTLYKJhcUOMgNgayxBj9f"
+        }
+      ],
+      "duration_ms": 206634,
+      "name": "Black Sun",
+      "url": "https://open.spotify.com/track/63UtBlg0KZZYueVi6r8DQp"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Songs of Our Native Daughters",
         "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
       },
@@ -1463,38 +1495,6 @@
       "duration_ms": 282586,
       "name": "Quasheba, Quasheba",
       "url": "https://open.spotify.com/track/1Ksgx6hc1sXyIWmUMa2wKJ"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Black Sun",
-        "url": "https://open.spotify.com/album/6b7USoPQHOlfaelSrPPVo9"
-      },
-      "artists": [
-        {
-          "name": "Irma",
-          "url": "https://open.spotify.com/artist/7KTLYKJhcUOMgNgayxBj9f"
-        }
-      ],
-      "duration_ms": 206634,
-      "name": "Black Sun",
-      "url": "https://open.spotify.com/track/63UtBlg0KZZYueVi6r8DQp"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Poor David's Almanack",
-        "url": "https://open.spotify.com/album/2yohVBNjsgx36AC03RGyxM"
-      },
-      "artists": [
-        {
-          "name": "David Rawlings",
-          "url": "https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G"
-        }
-      ],
-      "duration_ms": 198440,
-      "name": "Midnight Train",
-      "url": "https://open.spotify.com/track/3OZRkavHZUYEfFuK8JNmU9"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "The Capitalist Blues",
+        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
+      },
+      "artists": [
+        {
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+        }
+      ],
+      "duration_ms": 235146,
+      "name": "The Capitalist Blues",
+      "url": "https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "The Eternal Rocks Beneath",
         "url": "https://open.spotify.com/album/75Q8BLDuURslpcTthbAcsS"
       },
@@ -1583,54 +1599,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "The Capitalist Blues",
-        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
-      },
-      "artists": [
-        {
-          "name": "Leyla McCalla",
-          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
-        }
-      ],
-      "duration_ms": 235146,
-      "name": "The Capitalist Blues",
-      "url": "https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "WHITE NOISE",
-        "url": "https://open.spotify.com/album/5WaysJDadbTMvfJLBbuw8b"
-      },
-      "artists": [
-        {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        }
-      ],
-      "duration_ms": 253821,
-      "name": "BAD DESIRE",
-      "url": "https://open.spotify.com/track/61LLFpdZSENbZZIUQhXPcr"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Banjo Babes",
-        "url": "https://open.spotify.com/album/25TyUIdw1xvhgYtTdDNndb"
-      },
-      "artists": [
-        {
-          "name": "Kaia Kater",
-          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
-        }
-      ],
-      "duration_ms": 245693,
-      "name": "Maggie May",
-      "url": "https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "American Flowers",
         "url": "https://open.spotify.com/album/3aw4lot05PgG9vCBvCQVpg"
       },
@@ -1651,6 +1619,54 @@
       "duration_ms": 370733,
       "name": "American Flowers",
       "url": "https://open.spotify.com/track/1CtsGuP3zaphCyUieBpOQF"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Banjo Babes",
+        "url": "https://open.spotify.com/album/25TyUIdw1xvhgYtTdDNndb"
+      },
+      "artists": [
+        {
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+        }
+      ],
+      "duration_ms": 245693,
+      "name": "Maggie May",
+      "url": "https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "WHITE NOISE",
+        "url": "https://open.spotify.com/album/5WaysJDadbTMvfJLBbuw8b"
+      },
+      "artists": [
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        }
+      ],
+      "duration_ms": 253821,
+      "name": "BAD DESIRE",
+      "url": "https://open.spotify.com/track/61LLFpdZSENbZZIUQhXPcr"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Woman in Color",
+        "url": "https://open.spotify.com/album/1VFybOfoUaQexs9OTabswg"
+      },
+      "artists": [
+        {
+          "name": "Raye Zaragoza",
+          "url": "https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc"
+        }
+      ],
+      "duration_ms": 207840,
+      "name": "He Calls Me River",
+      "url": "https://open.spotify.com/track/1Sq7OyYJTqTM15QhjrJxIg"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1691,22 +1707,6 @@
       "duration_ms": 219293,
       "name": "Hustlin' [Feat. Jerry Douglas & Chris Eldridge]",
       "url": "https://open.spotify.com/track/69Sgn7yVDF59YyR9xCaTZE"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Beyond The Bloodhounds",
-        "url": "https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 187186,
-      "name": "Stuck In The South",
-      "url": "https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8"
     }
   ],
   "unique_name": "Contemporary Folk",

@@ -1,12 +1,12 @@
 {
   "description": "Yo Hai Haryanvi Hip-Hop! Cover: Addy Nagar",
-  "num_followers": 28669,
+  "num_followers": 28715,
   "original_name": "Hip-Hop Haryanvi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMmU5ZmFiODQ2NTBhYjBjNjdmYWE2YjlkMzA0MjU1YzNhZWRkN2Fh",
+  "snapshot_id": "MCwzZGY5NDJjODU5YjFmNmRkMzBhZmNjZTMwODk3MTdlMTRhNjA2NTUx",
   "tracks": [
     {
       "added_at": "2024-01-05 11:40:05",
@@ -959,18 +959,22 @@
     {
       "added_at": "2024-01-05 11:40:05",
       "album": {
-        "name": "Donali",
-        "url": "https://open.spotify.com/album/0xlAEkP9ChcMnyxR1Fm5X2"
+        "name": "Albedi",
+        "url": "https://open.spotify.com/album/4wgSAxKaTsBRsQClR0kR1H"
       },
       "artists": [
         {
-          "name": "Khasa Aala Chahar",
-          "url": "https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck"
+          "name": "Sangam Vigyaanik",
+          "url": "https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols"
+        },
+        {
+          "name": "Elvish Yadav",
+          "url": "https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp"
         }
       ],
-      "duration_ms": 204658,
-      "name": "Donali",
-      "url": "https://open.spotify.com/track/7pGWXs5NjOtYnr07cjVj9y"
+      "duration_ms": 180000,
+      "name": "Albedi",
+      "url": "https://open.spotify.com/track/0qFp9OBd6h4l6XelnBNzlZ"
     },
     {
       "added_at": "2024-01-05 11:40:05",
@@ -991,22 +995,18 @@
     {
       "added_at": "2024-01-05 11:40:05",
       "album": {
-        "name": "Albedi",
-        "url": "https://open.spotify.com/album/4wgSAxKaTsBRsQClR0kR1H"
+        "name": "Donali",
+        "url": "https://open.spotify.com/album/0xlAEkP9ChcMnyxR1Fm5X2"
       },
       "artists": [
         {
-          "name": "Sangam Vigyaanik",
-          "url": "https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols"
-        },
-        {
-          "name": "Elvish Yadav",
-          "url": "https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp"
+          "name": "Khasa Aala Chahar",
+          "url": "https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Albedi",
-      "url": "https://open.spotify.com/track/0qFp9OBd6h4l6XelnBNzlZ"
+      "duration_ms": 204658,
+      "name": "Donali",
+      "url": "https://open.spotify.com/track/7pGWXs5NjOtYnr07cjVj9y"
     },
     {
       "added_at": "2024-01-05 11:40:05",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-01-05 11:40:05",
       "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/4RXG9KfqTKbtWhsSZwVTel"
+      },
+      "artists": [
+        {
+          "name": "Devender Ahlawat",
+          "url": "https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg"
+        }
+      ],
+      "duration_ms": 231157,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/4yIUYWDDXTDkYl616suCaw"
+    },
+    {
+      "added_at": "2024-01-05 11:40:05",
+      "album": {
         "name": "Chore Haryana Aale",
         "url": "https://open.spotify.com/album/4uH6nJZ7YA3GpeaBZccaCC"
       },
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2024-01-05 11:40:05",
       "album": {
-        "name": "Criminal",
-        "url": "https://open.spotify.com/album/4RXG9KfqTKbtWhsSZwVTel"
-      },
-      "artists": [
-        {
-          "name": "Devender Ahlawat",
-          "url": "https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg"
-        }
-      ],
-      "duration_ms": 231157,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/4yIUYWDDXTDkYl616suCaw"
-    },
-    {
-      "added_at": "2024-01-05 11:40:05",
-      "album": {
         "name": "Hukumat",
         "url": "https://open.spotify.com/album/7DzYIOcztFH1kJLo5RoLxn"
       },
@@ -1091,6 +1091,22 @@
       "duration_ms": 231836,
       "name": "Hukumat",
       "url": "https://open.spotify.com/track/2Q9yt6YZuSSOwaWriqUX4o"
+    },
+    {
+      "added_at": "2024-01-05 11:40:05",
+      "album": {
+        "name": "MAHAKAAL",
+        "url": "https://open.spotify.com/album/6P1oRqxxhiRkmOvSdG0hw0"
+      },
+      "artists": [
+        {
+          "name": "KD DESIROCK",
+          "url": "https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0"
+        }
+      ],
+      "duration_ms": 199784,
+      "name": "MAHAKAAL",
+      "url": "https://open.spotify.com/track/6bwmcJiXjx2297D0mgdeFF"
     },
     {
       "added_at": "2024-01-05 11:40:05",
@@ -1111,22 +1127,6 @@
       "duration_ms": 201176,
       "name": "Ace",
       "url": "https://open.spotify.com/track/1TsvGXzmBCn3AdqJeqTMfm"
-    },
-    {
-      "added_at": "2024-01-05 11:40:05",
-      "album": {
-        "name": "MAHAKAAL",
-        "url": "https://open.spotify.com/album/6P1oRqxxhiRkmOvSdG0hw0"
-      },
-      "artists": [
-        {
-          "name": "KD DESIROCK",
-          "url": "https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0"
-        }
-      ],
-      "duration_ms": 199784,
-      "name": "MAHAKAAL",
-      "url": "https://open.spotify.com/track/6bwmcJiXjx2297D0mgdeFF"
     },
     {
       "added_at": "2024-01-05 11:40:05",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-01-05 11:40:05",
       "album": {
+        "name": "DEKH TERA BHAI",
+        "url": "https://open.spotify.com/album/1WjVedTEdYqwrzjzW1sh25"
+      },
+      "artists": [
+        {
+          "name": "KD DESIROCK",
+          "url": "https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0"
+        }
+      ],
+      "duration_ms": 189882,
+      "name": "DEKH TERA BHAI",
+      "url": "https://open.spotify.com/track/0KIPfwLB8gi4naTsCFFZ2h"
+    },
+    {
+      "added_at": "2024-01-05 11:40:05",
+      "album": {
         "name": "This is Haryana",
         "url": "https://open.spotify.com/album/39lfhZMC6uszJC2VoB5XhH"
       },
@@ -1251,26 +1267,6 @@
     {
       "added_at": "2024-01-05 11:40:05",
       "album": {
-        "name": "Sarpanchi",
-        "url": "https://open.spotify.com/album/6wRtFnB9JX7iH2NHgPiCNS"
-      },
-      "artists": [
-        {
-          "name": "Miki Malang",
-          "url": "https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM"
-        },
-        {
-          "name": "RP Singh",
-          "url": "https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Sarpanchi",
-      "url": "https://open.spotify.com/track/1pOc0yVstj8V2BvK5UYgqw"
-    },
-    {
-      "added_at": "2024-01-05 11:40:05",
-      "album": {
         "name": "Jigre",
         "url": "https://open.spotify.com/album/1ZBZS8SEkciA40OwXKRJ7d"
       },
@@ -1287,18 +1283,22 @@
     {
       "added_at": "2024-01-05 11:40:05",
       "album": {
-        "name": "DEKH TERA BHAI",
-        "url": "https://open.spotify.com/album/1WjVedTEdYqwrzjzW1sh25"
+        "name": "Sarpanchi",
+        "url": "https://open.spotify.com/album/6wRtFnB9JX7iH2NHgPiCNS"
       },
       "artists": [
         {
-          "name": "KD DESIROCK",
-          "url": "https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0"
+          "name": "Miki Malang",
+          "url": "https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM"
+        },
+        {
+          "name": "RP Singh",
+          "url": "https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ"
         }
       ],
-      "duration_ms": 189882,
-      "name": "DEKH TERA BHAI",
-      "url": "https://open.spotify.com/track/0KIPfwLB8gi4naTsCFFZ2h"
+      "duration_ms": 210000,
+      "name": "Sarpanchi",
+      "url": "https://open.spotify.com/track/1pOc0yVstj8V2BvK5UYgqw"
     },
     {
       "added_at": "2024-01-05 11:40:05",
@@ -1343,38 +1343,6 @@
     {
       "added_at": "2024-01-05 11:40:05",
       "album": {
-        "name": "No Tension - Single",
-        "url": "https://open.spotify.com/album/1N7yR1QOcwioXADCzjGL5L"
-      },
-      "artists": [
-        {
-          "name": "Candy Sheoran",
-          "url": "https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "No Tension",
-      "url": "https://open.spotify.com/track/4F3ksXYJZm3ul80riHyKsR"
-    },
-    {
-      "added_at": "2024-01-05 11:40:05",
-      "album": {
-        "name": "Cigarette",
-        "url": "https://open.spotify.com/album/2wVwJZiXVsQ9tIm2mum83F"
-      },
-      "artists": [
-        {
-          "name": "Devender Ahlawat",
-          "url": "https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg"
-        }
-      ],
-      "duration_ms": 160120,
-      "name": "Cigarette",
-      "url": "https://open.spotify.com/track/5eUpBQYXRIyNfLFqRW5nwQ"
-    },
-    {
-      "added_at": "2024-01-05 11:40:05",
-      "album": {
         "name": "AAHO",
         "url": "https://open.spotify.com/album/3tP7d652s8J8TitZHGGnZx"
       },
@@ -1387,6 +1355,22 @@
       "duration_ms": 252000,
       "name": "AAHO",
       "url": "https://open.spotify.com/track/33LN6U5oQa8bHh03oqxajL"
+    },
+    {
+      "added_at": "2024-01-05 11:40:05",
+      "album": {
+        "name": "No Tension - Single",
+        "url": "https://open.spotify.com/album/1N7yR1QOcwioXADCzjGL5L"
+      },
+      "artists": [
+        {
+          "name": "Candy Sheoran",
+          "url": "https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "No Tension",
+      "url": "https://open.spotify.com/track/4F3ksXYJZm3ul80riHyKsR"
     },
     {
       "added_at": "2024-01-05 11:40:05",
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2024-01-05 11:40:05",
       "album": {
+        "name": "Cigarette",
+        "url": "https://open.spotify.com/album/2wVwJZiXVsQ9tIm2mum83F"
+      },
+      "artists": [
+        {
+          "name": "Devender Ahlawat",
+          "url": "https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg"
+        }
+      ],
+      "duration_ms": 160120,
+      "name": "Cigarette",
+      "url": "https://open.spotify.com/track/5eUpBQYXRIyNfLFqRW5nwQ"
+    },
+    {
+      "added_at": "2024-01-05 11:40:05",
+      "album": {
         "name": "Red Face",
         "url": "https://open.spotify.com/album/2brsGQtXM1iNEBSwNUaZcf"
       },
@@ -1439,6 +1439,26 @@
     {
       "added_at": "2024-01-05 11:40:05",
       "album": {
+        "name": "Bhaichara",
+        "url": "https://open.spotify.com/album/7reaLezW7CdO3r3Pl6f6Gb"
+      },
+      "artists": [
+        {
+          "name": "Sangam Vigyaanik",
+          "url": "https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols"
+        },
+        {
+          "name": "Elvish Yadav",
+          "url": "https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp"
+        }
+      ],
+      "duration_ms": 206197,
+      "name": "Bhaichara",
+      "url": "https://open.spotify.com/track/6mCL0woLlGJZV52QQLbHhz"
+    },
+    {
+      "added_at": "2024-01-05 11:40:05",
+      "album": {
         "name": "No Fake",
         "url": "https://open.spotify.com/album/54xTuRGq24Av5cqavO8jmE"
       },
@@ -1451,26 +1471,6 @@
       "duration_ms": 194400,
       "name": "No Fake",
       "url": "https://open.spotify.com/track/6g9O3FKotfjT9rxqgNOTi2"
-    },
-    {
-      "added_at": "2024-01-05 11:40:05",
-      "album": {
-        "name": "Handcuffs",
-        "url": "https://open.spotify.com/album/6U2o1eB1KWcV6d6M8KQnkx"
-      },
-      "artists": [
-        {
-          "name": "Miki Malang",
-          "url": "https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM"
-        },
-        {
-          "name": "RP Singh",
-          "url": "https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ"
-        }
-      ],
-      "duration_ms": 221600,
-      "name": "Handcuffs",
-      "url": "https://open.spotify.com/track/1xwoD9H9i7UiBJt4gS1cbi"
     }
   ],
   "unique_name": "Hip-Hop Haryanvi",

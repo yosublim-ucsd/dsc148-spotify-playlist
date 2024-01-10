@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 
 > The sweet sounds of Palestine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,087 likes - 70 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,143 likes - 70 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 29 | [The Trees We Wear](https://open.spotify.com/track/2A6iLQWuN0h6RW0hvFcIUz) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 4:45 |
 | 30 | [Walhani](https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:34 |
 | 31 | [Killing The Game](https://open.spotify.com/track/4ly0Ru87w8fphGaHiL4LIv) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Killing The Game](https://open.spotify.com/album/49uleJjxcPQ1cxQU1HzsZ1) | 2:21 |
-| 32 | [Ll Abad](https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Ll Abad](https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr) | 3:32 |
-| 33 | [Enough](https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6) | [Between City Walls](https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0) | 3:41 |
-| 34 | [Bala Reash](https://open.spotify.com/track/0Rz6oGfKbhYHCXFWDbYhLh) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [Bala Reash](https://open.spotify.com/album/79ANdz7erU4Bcn8WrzduuI) | 3:46 |
+| 32 | [Bala Reash](https://open.spotify.com/track/0Rz6oGfKbhYHCXFWDbYhLh) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [Bala Reash](https://open.spotify.com/album/79ANdz7erU4Bcn8WrzduuI) | 3:46 |
+| 33 | [Ll Abad](https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Ll Abad](https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr) | 3:32 |
+| 34 | [Enough](https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6) | [Between City Walls](https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0) | 3:41 |
 | 35 | [Mali Huriye \(I Don't Have Freedom\)](https://open.spotify.com/track/6Z3ttOetQvCgKMfrH13w9D) | [DAM](https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz) | [Dedication](https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO) | 3:37 |
 | 36 | [Supply Me with an Excess of Love](https://open.spotify.com/track/1tM8DL9vdl7T8jbdmm83to) | [Rim Banna](https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO) | [Revelation of Ecstasy and Rebellion](https://open.spotify.com/album/6PmcwICwmNOcQ8o2ZM8qUr) | 4:34 |
 | 37 | [Everyland](https://open.spotify.com/track/6kdczMJQLiW7DD6sQ66QpC) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Shamstep](https://open.spotify.com/album/1pttNsXr5b1D3K6qUd9mXM) | 5:11 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 46 | [Carry the Earth](https://open.spotify.com/track/73XTg0Yt03seww60tQcBSL) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI), [Roger Waters](https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 6:16 |
 | 47 | [Overdose \- From the Netflix Series "Mo"](https://open.spotify.com/track/5xOyOwxcap9OMHDzPWWYQp) | [DAM](https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz), [Brother Ali](https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx) | [Overdose \(From the Netflix Series "Mo"\)](https://open.spotify.com/album/3nAhYY2KDN6HXz8WSMlfwI) | 2:54 |
 | 48 | [بعده فيي روح](https://open.spotify.com/track/72CB0MAagJAXpqS6bRVUxu) | [Tamer Nafar](https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30) | [بعده فيي روح](https://open.spotify.com/album/6vTqJnEkKVQCKDfegzJHFx) | 3:08 |
-| 49 | [Dabke System](https://open.spotify.com/track/6pA25Qz9Pbvb90I6j0MRYy) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Dabke System](https://open.spotify.com/album/0WKmc7uvbK5VlKFTZ1bJ7G) | 5:42 |
-| 50 | [Ma Mali Shi](https://open.spotify.com/track/5iHLim2PneDfm9B2kL2z02) | [Ghazall](https://open.spotify.com/artist/52ithxL8nGscRP6ocUO1SG) | [A Tareeq](https://open.spotify.com/album/5sy5gs8QvcIyLKiK0Ikzu2) | 3:58 |
+| 49 | [Ma Mali Shi](https://open.spotify.com/track/5iHLim2PneDfm9B2kL2z02) | [Ghazall](https://open.spotify.com/artist/52ithxL8nGscRP6ocUO1SG) | [A Tareeq](https://open.spotify.com/album/5sy5gs8QvcIyLKiK0Ikzu2) | 3:58 |
+| 50 | [Dabke System](https://open.spotify.com/track/6pA25Qz9Pbvb90I6j0MRYy) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Dabke System](https://open.spotify.com/album/0WKmc7uvbK5VlKFTZ1bJ7G) | 5:42 |
 | 51 | [لا تغمزيني](https://open.spotify.com/track/3XknoC28vtiUyutxsG9ul6) | [Laith Abu Joda](https://open.spotify.com/artist/409IHz2Yvi1kdUmrjein3m) | [لا تغمزيني](https://open.spotify.com/album/3KVMPfIaR2QTJIguyhdnxh) | 2:58 |
 | 52 | [Che Guevara](https://open.spotify.com/track/7itWreJjHK6oDM66FaG7Vb) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [Fattah Al Ward](https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g) | 3:46 |
 | 53 | [G'areeb Fi Bladi \(Stranger In My Own Country\)](https://open.spotify.com/track/0BqIeIEdNQuYqj2js8BA27) | [DAM](https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz) | [Dedication](https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO) | 3:45 |
@@ -68,15 +68,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 58 | [Ya Samti](https://open.spotify.com/track/02sG3ndWTK9PHBxPlaZwAH) | [Zuhair Francis](https://open.spotify.com/artist/0njHK2K2VDRrfM0L3bklXp) | [Ya Samti](https://open.spotify.com/album/6Bcyb3titJoo0xFB3zea2f) | 3:52 |
 | 59 | [Today is the day](https://open.spotify.com/track/3W4P1ay0wX7Rz1FIdwFfB3) | [Hazy Noir](https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY) | [Today Is the day](https://open.spotify.com/album/5pY94XM2JmmrY71Ck3aTMA) | 2:31 |
 | 60 | [Nada](https://open.spotify.com/track/5j3nMZTymRJR0XcqCjDZu6) | [Clarissa Bitar](https://open.spotify.com/artist/3EHSTkb1qOtOUqFSuvZDHH) | [Nada](https://open.spotify.com/album/4MawudiDs0KZZtr9xeUGN5) | 2:16 |
-| 61 | [Tareeq](https://open.spotify.com/track/0JTnnttCaS5UbGNTgpARrd) | [Al\-Bara'em](https://open.spotify.com/artist/48XfzIDlJVx0MrJtjaUskw) | [Tareeq](https://open.spotify.com/album/1AuKyJjzvg2HAVBY1XgZg7) | 4:43 |
-| 62 | [Laween](https://open.spotify.com/track/7uMEZ3LZnkxH65k3VLbmqR) | [Sama Shoufani](https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr) | [Laween](https://open.spotify.com/album/3BGj2P0sL4c3IZH18qOMUs) | 3:28 |
+| 61 | [Laween](https://open.spotify.com/track/7uMEZ3LZnkxH65k3VLbmqR) | [Sama Shoufani](https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr) | [Laween](https://open.spotify.com/album/3BGj2P0sL4c3IZH18qOMUs) | 3:28 |
+| 62 | [Tareeq](https://open.spotify.com/track/0JTnnttCaS5UbGNTgpARrd) | [Al\-Bara'em](https://open.spotify.com/artist/48XfzIDlJVx0MrJtjaUskw) | [Tareeq](https://open.spotify.com/album/1AuKyJjzvg2HAVBY1XgZg7) | 4:43 |
 | 63 | [فلسطين](https://open.spotify.com/track/7GAIec8M8V8ftwtj2lSMPI) | [Nass El Ghiwane](https://open.spotify.com/artist/040hze5aLmq4IDXPDQfUDL) | [Le meilleur, vol.1](https://open.spotify.com/album/7s3nuAyok865QigeowkopM) | 6:23 |
 | 64 | [Yalah Yalah Ramallah](https://open.spotify.com/track/0hMAja0ctsCGFn0Nps83Z4) | [Fermin Muguruza](https://open.spotify.com/artist/3fJaSjkcJrLV5JYot02ckk) | [Checkpoint Rock: Canciones Desde Palestina](https://open.spotify.com/album/5elgS21gSfVxSjz2y22iP8) | 4:52 |
 | 65 | [Mo Light](https://open.spotify.com/track/4ELE971aOY79OV4263w8h3) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Mo Light](https://open.spotify.com/album/25uNBZF9zpP2QxDpZNrn1E) | 4:45 |
 | 66 | [Al Rozana](https://open.spotify.com/track/1fRjUEHNqMTt2zhgbvQGno) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [Na'na' Ya Na'na'](https://open.spotify.com/album/4QMcZUOEFAaFKH1XSjDkQI) | 4:15 |
-| 67 | [Badi Ellak](https://open.spotify.com/track/6gazpfEpfoPQSPuTBoR30C) | [Sama Shoufani](https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr) | [Badi Ellak](https://open.spotify.com/album/5gIy2dF3eXhTo9XJULxLqK) | 3:29 |
-| 68 | [From Here](https://open.spotify.com/track/2gU3bW5VlHffe9V3VD89EM) | [Akram Abdulfattah](https://open.spotify.com/artist/6u6VplNDL8uiSHGhRysJRG) | [From Here](https://open.spotify.com/album/5D4XlS9tDo1ZdYvas3kqXX) | 2:32 |
-| 69 | [يا منجنيق](https://open.spotify.com/track/1THJTqG9l2Rc1MVNWYvYIy) | [Mahmood Jrere](https://open.spotify.com/artist/21CJ2LhyyR1R3jGx8zfwPv) | [يا منجنيق](https://open.spotify.com/album/0iqbK8EUWqZueNYEJmtVgC) | 3:05 |
+| 67 | [From Here](https://open.spotify.com/track/2gU3bW5VlHffe9V3VD89EM) | [Akram Abdulfattah](https://open.spotify.com/artist/6u6VplNDL8uiSHGhRysJRG) | [From Here](https://open.spotify.com/album/5D4XlS9tDo1ZdYvas3kqXX) | 2:32 |
+| 68 | [يا منجنيق](https://open.spotify.com/track/1THJTqG9l2Rc1MVNWYvYIy) | [Mahmood Jrere](https://open.spotify.com/artist/21CJ2LhyyR1R3jGx8zfwPv) | [يا منجنيق](https://open.spotify.com/album/0iqbK8EUWqZueNYEJmtVgC) | 3:05 |
+| 69 | [Badi Ellak](https://open.spotify.com/track/6gazpfEpfoPQSPuTBoR30C) | [Sama Shoufani](https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr) | [Badi Ellak](https://open.spotify.com/album/5gIy2dF3eXhTo9XJULxLqK) | 3:29 |
 | 70 | [Abu 3ntr \(feat\. Lina Makoul\)](https://open.spotify.com/track/68DqedAzUtn8RsX7hFRQGy) | [ŁOAY](https://open.spotify.com/artist/3MIKkLGqd0EYSxHHbUK0Fz), [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Abu 3ntr \(feat\. Lina Makoul\)](https://open.spotify.com/album/0RZwnKlm8Oo2EtqcjrDQz3) | 3:33 |
 
-Snapshot ID: `MCwzYzZmYmRhMDlkMGY3NThlYjM0MTdjYWQwMGFjNzY2Nzc0YTVjNTg0`
+Snapshot ID: `MCw3ODM4NmI4ODJjN2I3NzgwNGNjNzRkOGFkYzQ3Yzc3NjFhZGE3Nzk4`

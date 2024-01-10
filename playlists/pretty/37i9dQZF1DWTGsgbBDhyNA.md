@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTGsgbBDhyNA.md) - [plain]
 
 > Playlist oficial del podcast <a href="spotify:show:1MAoOdM2Xx9TayWrXQ2MCj"> Momentos Chingones</a> donde tendrás las noticias más frescas y los hits del momento de la Música Mexicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,867 likes - 48 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,943 likes - 48 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTGsgbBDhyNA.md) - [plain]
 | 47 | [Fin de Semana](https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Fin de Semana](https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy) | 3:44 |
 | 48 | [Que Me Entierren Con la Banda](https://open.spotify.com/track/6EubqUdydkHdtnXStHOlVN) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Mexicano Hasta los Huesos](https://open.spotify.com/album/1eZy16Ti3twMuRo7Q0IS6w) | 2:58 |
 
-Snapshot ID: `MCwwNGUxMTkxYTdiOTI3Y2Y2ZDBkZGI3MDc5OGI5MjJhYzU5NGVhYzU2`
+Snapshot ID: `MCxmYjBkNTFkOTlhNTJlMTEzN2UxODBlMzNiNGQyODExZGFkNzUwNjg3`

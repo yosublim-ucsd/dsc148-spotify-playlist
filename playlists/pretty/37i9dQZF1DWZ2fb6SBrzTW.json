@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 26185,
+  "num_followers": 26246,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2VkYzhjZjdlNzBiNzQ1OTcwZjg4YWNkM2EyMTgyNDkyODY2YWVl",
+  "snapshot_id": "MCxiN2IwOTNiMWU0MDU2MDUyMjEzYzY0N2ZkODczYWEyYWFkNDQ0MmI3",
   "tracks": [
     {
       "added_at": "2023-12-22 00:01:00",
@@ -279,6 +279,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Carry Me Go",
         "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 136464,
       "name": "Carry Me Go",
       "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -347,26 +347,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "For Your Soul (Extended Edition)",
-        "url": "https://open.spotify.com/album/04znRkeBi2rTFkBx7VR7sf"
-      },
-      "artists": [
-        {
-          "name": "Megadrumz",
-          "url": "https://open.spotify.com/artist/5L2aXzIstvqMsXHQVXptbX"
-        },
-        {
-          "name": "Lady Du",
-          "url": "https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x"
-        }
-      ],
-      "duration_ms": 319369,
-      "name": "Tjina",
-      "url": "https://open.spotify.com/track/5l4S6LVL1AQfZC01pypXl6"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Who Is Your Guy? (Remix)",
         "url": "https://open.spotify.com/album/3PAkBEUTDOVbETaV0tnR4R"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 211875,
       "name": "Who Is Your Guy? - Remix",
       "url": "https://open.spotify.com/track/3aGroTtXwkWJ7wOwKEI8Px"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "For Your Soul (Extended Edition)",
+        "url": "https://open.spotify.com/album/04znRkeBi2rTFkBx7VR7sf"
+      },
+      "artists": [
+        {
+          "name": "Megadrumz",
+          "url": "https://open.spotify.com/artist/5L2aXzIstvqMsXHQVXptbX"
+        },
+        {
+          "name": "Lady Du",
+          "url": "https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x"
+        }
+      ],
+      "duration_ms": 319369,
+      "name": "Tjina",
+      "url": "https://open.spotify.com/track/5l4S6LVL1AQfZC01pypXl6"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Colors (My Baby) / Loyal",
+        "url": "https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 164240,
+      "name": "Colors (My Baby)",
+      "url": "https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Child's Play",
         "url": "https://open.spotify.com/album/06kfG0SpfO1jgulBUQBLkD"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 151710,
       "name": "Child's Play",
       "url": "https://open.spotify.com/track/7nr3wqDwJkiSDbcbct67Um"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Colors (My Baby) / Loyal",
-        "url": "https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 164240,
-      "name": "Colors (My Baby)",
-      "url": "https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1027,6 +1027,34 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "GoodSin (feat. Reekado Banks) [Remix]",
+        "url": "https://open.spotify.com/album/6qqlM35C4DXPsTO54i9pku"
+      },
+      "artists": [
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        }
+      ],
+      "duration_ms": 233077,
+      "name": "GoodSin (feat. Reekado Banks) - Remix",
+      "url": "https://open.spotify.com/track/1IqCbrh4xY0KqmOxXJxClR"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Body, Soul & Spirit",
         "url": "https://open.spotify.com/album/1v9uFb7YRRXyex0XnASQOJ"
       },
@@ -1059,30 +1087,6 @@
       "duration_ms": 186002,
       "name": "PALAZZO",
       "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Patek",
-        "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "DJ Tarico",
-          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
-        }
-      ],
-      "duration_ms": 218230,
-      "name": "Patek",
-      "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
     }
   ],
   "unique_name": "Keep Fit Club ",

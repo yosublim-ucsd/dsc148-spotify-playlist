@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 336000,
       "name": "Lost - Pola & Bryson Remix",
       "url": "https://open.spotify.com/track/7uI90KliRDd8egscd650jj"
@@ -1334,7 +1334,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 376551,
       "name": "Move On",
       "url": "https://open.spotify.com/track/7FbeLqRaDdLJrCk2P5XWHX"
@@ -1352,7 +1352,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 319902,
       "name": "Mr Right On - Remastered",
       "url": "https://open.spotify.com/track/0oQDVQygGLhYhEUTb15XjP"
@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 203448,
       "name": "On Point",
       "url": "https://open.spotify.com/track/6KdhwAz3XcqOzYWJssztU4"
@@ -1572,6 +1572,28 @@
       "duration_ms": 298435,
       "name": "Only Ever Kind",
       "url": "https://open.spotify.com/track/17DkbezyxnABF5YBMUR4xW"
+    },
+    {
+      "album": {
+        "name": "Orchid EP",
+        "url": "https://open.spotify.com/album/5YADdkn1VAiZyyWoa99Yyv"
+      },
+      "artists": [
+        {
+          "name": "Maykors",
+          "url": "https://open.spotify.com/artist/6Y72enwzZuQkCQtvLNv3HV"
+        },
+        {
+          "name": "Pharelia",
+          "url": "https://open.spotify.com/artist/1KwDKto1XbOuJnXJhX5amJ"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297995,
+      "name": "Orchid",
+      "url": "https://open.spotify.com/track/23tjbvbp0TNHiHTU3eiUC0"
     },
     {
       "album": {
@@ -2134,7 +2156,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 336551,
       "name": "Watercolours",
       "url": "https://open.spotify.com/track/2pwMhToDEJRk2fOFLVox28"
@@ -2206,7 +2228,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 345750,
       "name": "You Are Everything",
       "url": "https://open.spotify.com/track/1QMcZoJxMGvX7dv06wiiXn"

@@ -1,12 +1,12 @@
 {
   "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano.",
-  "num_followers": 170395,
+  "num_followers": 170252,
   "original_name": "Tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzRiYTQ1Y2NhMTI4ODIyMDViYTAxYmQ1MTQ5ODkwNWQ2MGMwYzdj",
+  "snapshot_id": "MCxlMjhlNzA1YjM4NWE2NmRjN2Y0YmFlMjZlODQ4MDc4MzA0YTZlOWEy",
   "tracks": [
     {
       "added_at": "2023-12-15 19:23:32",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-12-15 19:23:32",
       "album": {
+        "name": "Como Estrellas",
+        "url": "https://open.spotify.com/album/3MTmvjSJiWMecnmlo66rKM"
+      },
+      "artists": [
+        {
+          "name": "LA YOUNG",
+          "url": "https://open.spotify.com/artist/2Xi0zO1N71Ff9KymMs93YX"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Como Estrellas",
+      "url": "https://open.spotify.com/track/4XlO5sSZiR5SGv5fGuptHV"
+    },
+    {
+      "added_at": "2023-12-15 19:23:32",
+      "album": {
         "name": "Los Cachos",
         "url": "https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 212304,
       "name": "Los Cachos",
       "url": "https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr"
-    },
-    {
-      "added_at": "2023-12-15 19:23:32",
-      "album": {
-        "name": "Como Estrellas",
-        "url": "https://open.spotify.com/album/3MTmvjSJiWMecnmlo66rKM"
-      },
-      "artists": [
-        {
-          "name": "LA YOUNG",
-          "url": "https://open.spotify.com/artist/2Xi0zO1N71Ff9KymMs93YX"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Como Estrellas",
-      "url": "https://open.spotify.com/track/4XlO5sSZiR5SGv5fGuptHV"
     },
     {
       "added_at": "2023-12-15 19:23:32",
@@ -1119,22 +1119,22 @@
     {
       "added_at": "2023-12-15 19:23:32",
       "album": {
-        "name": "Dem Time Deh",
-        "url": "https://open.spotify.com/album/1QeOEm9n7zYsIqHvg0KRY6"
+        "name": "Brisa",
+        "url": "https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE"
       },
       "artists": [
         {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
         },
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 167191,
-      "name": "Dem Time Deh",
-      "url": "https://open.spotify.com/track/3WWCU2F78Mv0sOsWcVG3bf"
+      "duration_ms": 259333,
+      "name": "Brisa",
+      "url": "https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG"
     },
     {
       "added_at": "2023-12-15 19:23:32",
@@ -1155,22 +1155,22 @@
     {
       "added_at": "2023-12-15 19:23:32",
       "album": {
-        "name": "Brisa",
-        "url": "https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE"
+        "name": "Dem Time Deh",
+        "url": "https://open.spotify.com/album/1QeOEm9n7zYsIqHvg0KRY6"
       },
       "artists": [
         {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
         },
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 259333,
-      "name": "Brisa",
-      "url": "https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG"
+      "duration_ms": 167191,
+      "name": "Dem Time Deh",
+      "url": "https://open.spotify.com/track/3WWCU2F78Mv0sOsWcVG3bf"
     },
     {
       "added_at": "2023-12-15 19:23:32",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-12-15 19:23:32",
       "album": {
+        "name": "Qui\u00e9reme As\u00ed",
+        "url": "https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 188193,
+      "name": "Qui\u00e9reme As\u00ed",
+      "url": "https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK"
+    },
+    {
+      "added_at": "2023-12-15 19:23:32",
+      "album": {
         "name": "La \u00daltima Promesa",
         "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
       },
@@ -1323,18 +1339,18 @@
     {
       "added_at": "2023-12-15 19:23:32",
       "album": {
-        "name": "Qui\u00e9reme As\u00ed",
-        "url": "https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN"
+        "name": "YOKO",
+        "url": "https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0"
       },
       "artists": [
         {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
         }
       ],
-      "duration_ms": 188193,
-      "name": "Qui\u00e9reme As\u00ed",
-      "url": "https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK"
+      "duration_ms": 207426,
+      "name": "YOKO",
+      "url": "https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k"
     },
     {
       "added_at": "2023-12-15 19:23:32",
@@ -1355,22 +1371,6 @@
       "duration_ms": 228920,
       "name": "Otra Noche Sin Ti",
       "url": "https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx"
-    },
-    {
-      "added_at": "2023-12-15 19:23:32",
-      "album": {
-        "name": "YOKO",
-        "url": "https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 207426,
-      "name": "YOKO",
-      "url": "https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k"
     },
     {
       "added_at": "2023-12-15 19:23:32",
@@ -1435,22 +1435,22 @@
     {
       "added_at": "2023-12-15 19:23:32",
       "album": {
-        "name": "Apaga la Luz",
-        "url": "https://open.spotify.com/album/4UfXhzN4scJjic6pl8AkAF"
+        "name": "Loquita",
+        "url": "https://open.spotify.com/album/5GjwudL8UiuD9wsRNSBHgZ"
       },
       "artists": [
         {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         },
         {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 191223,
-      "name": "Apaga la Luz",
-      "url": "https://open.spotify.com/track/3RcUVxCMyG9HXmmDbNHQmM"
+      "duration_ms": 199551,
+      "name": "Loquita",
+      "url": "https://open.spotify.com/track/2OTULPNeQUkwQ0tNzcG7tj"
     },
     {
       "added_at": "2023-12-15 19:23:32",
@@ -1471,22 +1471,22 @@
     {
       "added_at": "2023-12-15 19:23:32",
       "album": {
-        "name": "Loquita",
-        "url": "https://open.spotify.com/album/5GjwudL8UiuD9wsRNSBHgZ"
+        "name": "Apaga la Luz",
+        "url": "https://open.spotify.com/album/4UfXhzN4scJjic6pl8AkAF"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
         },
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 199551,
-      "name": "Loquita",
-      "url": "https://open.spotify.com/track/2OTULPNeQUkwQ0tNzcG7tj"
+      "duration_ms": 191223,
+      "name": "Apaga la Luz",
+      "url": "https://open.spotify.com/track/3RcUVxCMyG9HXmmDbNHQmM"
     },
     {
       "added_at": "2023-12-15 19:23:32",
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2023-12-15 19:23:32",
       "album": {
-        "name": "Siempre",
-        "url": "https://open.spotify.com/album/1FmLq6L6oiD1zAq0UxF341"
+        "name": "Canciones Pa Mi Ex Vol.1",
+        "url": "https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh"
       },
       "artists": [
         {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 92539,
-      "name": "Siempre",
-      "url": "https://open.spotify.com/track/2BOfgAlexUSef23fFwkd1k"
+      "duration_ms": 148149,
+      "name": "Fue Lindo",
+      "url": "https://open.spotify.com/track/7bMJX92st9uXhc4OuHDRG5"
     },
     {
       "added_at": "2023-12-15 19:23:32",
@@ -1747,18 +1747,18 @@
     {
       "added_at": "2023-12-15 19:23:32",
       "album": {
-        "name": "Canciones Pa Mi Ex Vol.1",
-        "url": "https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh"
+        "name": "Siempre",
+        "url": "https://open.spotify.com/album/1FmLq6L6oiD1zAq0UxF341"
       },
       "artists": [
         {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
         }
       ],
-      "duration_ms": 148149,
-      "name": "Fue Lindo",
-      "url": "https://open.spotify.com/track/7bMJX92st9uXhc4OuHDRG5"
+      "duration_ms": 92539,
+      "name": "Siempre",
+      "url": "https://open.spotify.com/track/2BOfgAlexUSef23fFwkd1k"
     },
     {
       "added_at": "2023-12-15 19:23:32",

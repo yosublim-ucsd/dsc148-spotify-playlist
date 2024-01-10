@@ -1992,7 +1992,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 205241,
       "name": "DND",
       "url": "https://open.spotify.com/track/4dmyhFotHSwyVsKCbvekEU"
@@ -2423,6 +2423,32 @@
     },
     {
       "album": {
+        "name": "ENJOY THE RIDE",
+        "url": "https://open.spotify.com/album/7IbyAfAKOMdzWQXLMTkMFP"
+      },
+      "artists": [
+        {
+          "name": "FRONTIER BACKYARD",
+          "url": "https://open.spotify.com/artist/5MW5Dg53vAA4Rorq0I51xy"
+        },
+        {
+          "name": "Neil and Iraiza",
+          "url": "https://open.spotify.com/artist/6rAA6xJe1O2ubeZj6xIB2y"
+        },
+        {
+          "name": "ALL STARS",
+          "url": "https://open.spotify.com/artist/1bNTB1MJpFa6LauIlZCInr"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201187,
+      "name": "ENJOY THE RIDE",
+      "url": "https://open.spotify.com/track/68yPKpoph3amKSGRZLXlkf"
+    },
+    {
+      "album": {
         "name": "Epiphany",
         "url": "https://open.spotify.com/album/7FG8YlRonpJV9JahGdObsx"
       },
@@ -2824,7 +2850,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 277241,
       "name": "FLYIN' HIGH",
       "url": "https://open.spotify.com/track/6cAacP2EjcuRkV2BhxlCuz"
@@ -6736,7 +6762,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 249760,
       "name": "RIDE ON TIME",
       "url": "https://open.spotify.com/track/3GS21zhwVkGbVWh8WcfdfR"
@@ -9102,6 +9128,24 @@
       "duration_ms": 289517,
       "name": "Tokyo Tower",
       "url": "https://open.spotify.com/track/6HB5itEEkLc2F8vlOTtif3"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30f3\u30ea\u30fc\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/4KadXvqLOsB4WUCHzleYFV"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248098,
+      "name": "TOMODACHI",
+      "url": "https://open.spotify.com/track/2mzr4sHf6Yj2RGnXeh2hHV"
     },
     {
       "album": {
@@ -11664,7 +11708,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 176919,
       "name": "\u30d5\u30a1\u30b8\u30fc\u30b5\u30de\u30fc",
       "url": "https://open.spotify.com/track/7hR5iQ1WpDyfP4FYDR6YA6"

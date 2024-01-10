@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 
 > De beste Nederlandse hits van vroeger en nu\. Cover: Donnie & Marco Schuitmaker
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,988 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,922 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 18 | [Leven](https://open.spotify.com/track/2Mv9R8FDkPCjAghezGUgJC) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Leven](https://open.spotify.com/album/22DIca4jxPu2N5o8vgKAKm) | 2:14 |
 | 19 | [I Do](https://open.spotify.com/track/0QTI2S5oOheSLU8WQuGmja) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Beste Zangers 2023 \(Duncan Laurence\)](https://open.spotify.com/album/7d9Z8E52D6So8lzxJQ67y3) | 2:51 |
 | 20 | [Bassline](https://open.spotify.com/track/3Zehk6s1n9ZBoDKpYRTK7U) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Sliden EP](https://open.spotify.com/album/4DtdhtDmxanQokbOQmpytY) | 2:19 |
-| 21 | [Layla](https://open.spotify.com/track/18tV3JqwwB5Acsa8vP12lp) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla](https://open.spotify.com/album/1ba0iVHm6wU4hfVfb8fKhl) | 2:43 |
-| 22 | [17](https://open.spotify.com/track/2jCIZqFN87ZEp8wcLL4g9V) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [17](https://open.spotify.com/album/3boWcgeAND5yZTVMtBT5i7) | 2:42 |
-| 23 | [Alles Kwijt \- Live in Carré 2023](https://open.spotify.com/track/3swj4AMjeqaPxHAqftfAq8) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Alles Kwijt](https://open.spotify.com/album/2L1qzNA0JnpifTZMI07a9i) | 3:15 |
-| 24 | [Troostzoekers \(met Froukje\)](https://open.spotify.com/track/1EGEgAKpYg1T9zOVZKyP8J) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Sterrenlopen](https://open.spotify.com/album/5GMxtUUhppf2fnfCSivkKQ) | 3:32 |
+| 21 | [Als Ik God Was](https://open.spotify.com/track/2MZrYnUf8qYIDuKaQeH5u8) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Als Ik God Was](https://open.spotify.com/album/3nqQbZABmtHrz6T7coZ4QG) | 2:52 |
+| 22 | [Layla](https://open.spotify.com/track/18tV3JqwwB5Acsa8vP12lp) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla](https://open.spotify.com/album/1ba0iVHm6wU4hfVfb8fKhl) | 2:43 |
+| 23 | [17](https://open.spotify.com/track/2jCIZqFN87ZEp8wcLL4g9V) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [17](https://open.spotify.com/album/3boWcgeAND5yZTVMtBT5i7) | 2:42 |
+| 24 | [Alles Kwijt \- Live in Carré 2023](https://open.spotify.com/track/3swj4AMjeqaPxHAqftfAq8) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Alles Kwijt](https://open.spotify.com/album/2L1qzNA0JnpifTZMI07a9i) | 3:15 |
 | 25 | [Nickel For Goodbye](https://open.spotify.com/track/0mozpacigd082TTRqi5IZc) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Nickel For Goodbye](https://open.spotify.com/album/4xROG3RcoNOVF8A7IycHEI) | 3:51 |
 | 26 | [Laat Mij 'M Zijn](https://open.spotify.com/track/5QVaVjxwbu9G2qVqDXUjcJ) | [Paul Sinha](https://open.spotify.com/artist/0Uev3WqwkRc17NqfsvVv4K) | [Meesterwerk](https://open.spotify.com/album/6tOUUlBUw8hSyZWnvzu5im) | 2:51 |
 | 27 | [This World Is Our Home](https://open.spotify.com/track/0HUapsBY3CrGXtMzUrsOvY) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [This World Is Our Home](https://open.spotify.com/album/1M1oZP4IZGIj4a4fG6JQny) | 2:53 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 42 | [Laat Me Los](https://open.spotify.com/track/3z9Kma9ewHSAemFewFrXoJ) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Laat Me Los](https://open.spotify.com/album/6WKHqQHd2NdizWkLSZ1sNm) | 3:58 |
 | 43 | [Tonight](https://open.spotify.com/track/3v2dHPoXhfVVZ6HQBfjQOh) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Tonight](https://open.spotify.com/album/6z8SVwxBPHJMEI6jv95m8X) | 4:32 |
 | 44 | [Hou Me Los Van Dichtbij](https://open.spotify.com/track/7bG8a7JbcBftmxVtFMyz9Y) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Hou Me Los Van Dichtbij](https://open.spotify.com/album/58WgPfVCz1tOCJ4DTcwVKA) | 2:34 |
-| 45 | [Houden Van Mij](https://open.spotify.com/track/6YydP7xxbousqGYDNIpwtc) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Houden Van Mij](https://open.spotify.com/album/3QUGk8yFDNJWqlUU8iu0ty) | 2:18 |
-| 46 | [Paracetamollen](https://open.spotify.com/track/0bSgNta3s0kIZkxuBI9PxR) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [FLEMMING](https://open.spotify.com/album/4a8kyvzqHaLx3UaasLOctt) | 2:51 |
-| 47 | [Adem In](https://open.spotify.com/track/6Kw6oM5xHYE4BZsymijkYG) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Adem In](https://open.spotify.com/album/0wNvqstrp3YwZQUIKFivVf) | 2:24 |
-| 48 | [Oceaan](https://open.spotify.com/track/14rrJ4fhTTcFPgmCCtBoku) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Oceaan](https://open.spotify.com/album/60F6MFfL8sCz9R21HCZ6Ac) | 2:42 |
-| 49 | [Rommel](https://open.spotify.com/track/0pw06mcIzuAeLPOHZT7W4Z) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Rommel](https://open.spotify.com/album/6iyEGMk28j3ZuiQxz5lvU5) | 3:16 |
+| 45 | [Paracetamollen](https://open.spotify.com/track/0bSgNta3s0kIZkxuBI9PxR) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [FLEMMING](https://open.spotify.com/album/4a8kyvzqHaLx3UaasLOctt) | 2:51 |
+| 46 | [Adem In](https://open.spotify.com/track/6Kw6oM5xHYE4BZsymijkYG) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Adem In](https://open.spotify.com/album/0wNvqstrp3YwZQUIKFivVf) | 2:24 |
+| 47 | [Oceaan](https://open.spotify.com/track/14rrJ4fhTTcFPgmCCtBoku) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Oceaan](https://open.spotify.com/album/60F6MFfL8sCz9R21HCZ6Ac) | 2:42 |
+| 48 | [Rommel](https://open.spotify.com/track/0pw06mcIzuAeLPOHZT7W4Z) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Rommel](https://open.spotify.com/album/6iyEGMk28j3ZuiQxz5lvU5) | 3:16 |
+| 49 | [Troostzoekers \(met Froukje\)](https://open.spotify.com/track/1EGEgAKpYg1T9zOVZKyP8J) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Sterrenlopen](https://open.spotify.com/album/5GMxtUUhppf2fnfCSivkKQ) | 3:32 |
 | 50 | [What Are You Waiting For?](https://open.spotify.com/track/3hnFEjPOnP7d3eTxPGpNkX) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [What Are You Waiting For?](https://open.spotify.com/album/1BTeZsZoB5PK480kmZew8t) | 3:59 |
 | 51 | [Grijs](https://open.spotify.com/track/64hayhfzodjwBrQcZ69SVp) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Grijs](https://open.spotify.com/album/5WIkuPDQFlfpV9l0tLNm70) | 3:00 |
 | 52 | [Radio](https://open.spotify.com/track/5kkJYJ5qIUYRwMl769xnxN) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Radio](https://open.spotify.com/album/3PkxPaBID8mGOWIY8uxG0L) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 99 | [Allermeest](https://open.spotify.com/track/0feAMm6cs12Ped1uuoNKjG) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Allermeest](https://open.spotify.com/album/0MsIqJcvATIVhrnDZSlzLv) | 2:46 |
 | 100 | [Vroeger](https://open.spotify.com/track/4ZxRhotBmIcc1WUCdSJIQt) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj) | [Vroeger](https://open.spotify.com/album/2tKIKvy498Gp8pqsfYobV4) | 2:44 |
 
-Snapshot ID: `MCwyODA1NGNmOWNiZTFkNmZjZmNiNDc0ZGJjMjZmNjg1NGZiY2JmM2Yw`
+Snapshot ID: `MCxiMjYxNTZkMDE0ZmU1YTFiY2IwY2RkYTQ3NjU4YWFiZjY1YjQ4NzJh`

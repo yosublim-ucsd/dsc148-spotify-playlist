@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,800 likes - 45 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,812 likes - 45 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 28 | [Forgive Me](https://open.spotify.com/track/1Mua8IC1yJW6buvktiTQHH) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx) | [Forgive Me](https://open.spotify.com/album/1pZQjsbqDLVwlXOp8SU7RQ) | 5:39 |
 | 29 | [Ardore](https://open.spotify.com/track/1T2DffseqEO4skwGYB4z9w) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV), [Tobias Bernstrup](https://open.spotify.com/artist/7qMxLMZgfIeZloY2EjWiPt) | [Ardore \(feat\. Tobias Bernstrup\)](https://open.spotify.com/album/5suKkPyhnb5Rf5wVQdDSGT) | 3:32 |
 | 30 | [Know You](https://open.spotify.com/track/08udjG9UxRjd2kdxCGCmUk) | [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Know You](https://open.spotify.com/album/4sKMxklSRDAv0IKuyoBDbm) | 3:44 |
-| 31 | [Listen to the Band \- Club Mix](https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX) | [Jex Opolis](https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ) | [Net Loss](https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx) | 6:16 |
-| 32 | [Feels Right \- Gerd Janson Remix \- Radio Edit](https://open.spotify.com/track/4czjZSQpYx1eXjACRi5mhF) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans Remixes](https://open.spotify.com/album/35eR9Mc46LYOTNan8SS2VS) | 3:59 |
+| 31 | [Feels Right \- Gerd Janson Remix \- Radio Edit](https://open.spotify.com/track/4czjZSQpYx1eXjACRi5mhF) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans Remixes](https://open.spotify.com/album/35eR9Mc46LYOTNan8SS2VS) | 3:59 |
+| 32 | [Listen to the Band \- Club Mix](https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX) | [Jex Opolis](https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ) | [Net Loss](https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx) | 6:16 |
 | 33 | [Curb Dog '88](https://open.spotify.com/track/4HOnJzmHcMFMLfl8kI5WAX) | [Dorothys Fortress](https://open.spotify.com/artist/6VLxD1WKg1ykIzBC9nuDAN) | [Enter Castillo](https://open.spotify.com/album/6YrSjOCEepdaoNgQp9ofKE) | 5:16 |
 | 34 | [Trans Orient Express \- Adana Twins "A Night At EGO" Version \- Edit](https://open.spotify.com/track/0zCqYPJEfVhCDDvCDrWIAV) | [DJ T.](https://open.spotify.com/artist/3gkLqGRDA19txXCSKXq6Gx), [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4) | [Trans Orient Express \(Adana Twins A Night At EGO" Version \- Edit"\)](https://open.spotify.com/album/5bSWEhz58eNwQuKehvAaW2) | 3:58 |
 | 35 | [Faccia a faccia \- Italoconnection Remix Radio](https://open.spotify.com/track/3UyM4nviJQhxibP1O1f5FD) | [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Italoconnection](https://open.spotify.com/artist/2H89jjAoarp9VqMxT8W0et) | [Faccia a faccia \(Remixes\)](https://open.spotify.com/album/6Xc0OSTyNIXRYKtE2uk9g7) | 3:47 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 44 | [Never Let You Go \- Skream Remix \(Edit\)](https://open.spotify.com/track/4XP3da5XVRN1eoTK91L4T8) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Never Let You Go \(Skream Remix\)](https://open.spotify.com/album/2EcZfAmLrfH8UrVJeh2fxi) | 3:40 |
 | 45 | [Up & Down](https://open.spotify.com/track/11DRarpv190YnCAXt85uFA) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Emotion EP](https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA) | 6:49 |
 
-Snapshot ID: `MCxkMjBhMDI2NDUwZWIzMjFjOWQ2ZDc1M2JlMDU5NDg4YTAwNWU2YWFm`
+Snapshot ID: `MCwyNDdkYTdkMDcxNWI2YTRmNjQ0YzBlMzgwMTE5ODQ5NTVmYTBhYmMw`

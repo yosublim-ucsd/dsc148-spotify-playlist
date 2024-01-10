@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 684592,
+  "num_followers": 683553,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTViODc4YjhjNDY0Y2ZjOGNkODA0ZDA3YzYzODM1MWI4YTE2YjE4",
+  "snapshot_id": "MCwzNDhkZTVkNmNjYTBlNmFhMzczODE3ZWE0MTFkYjU1Y2RmOTlkNjk2",
   "tracks": [
     {
       "added_at": "2023-11-10 00:01:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
         "name": "My Humps",
         "url": "https://open.spotify.com/album/4mnGRL7lErjyRJsoCwgJT4"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 186124,
       "name": "My Humps",
       "url": "https://open.spotify.com/track/3BbD2sqk7P7Rc9V0KF9o4s"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "Melody",
-        "url": "https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Melody",
-      "url": "https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1295,6 +1295,26 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/2R65x1NUpvpI1Dp97sEPFU"
+      },
+      "artists": [
+        {
+          "name": "Navos",
+          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
+        },
+        {
+          "name": "HARLEE",
+          "url": "https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy"
+        }
+      ],
+      "duration_ms": 168201,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/0OE5nvs8Sc1meDrjN7vwBw"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
         "name": "We Can Come Together",
         "url": "https://open.spotify.com/album/2fQHFbvrb4zGAVXTR7DN4q"
       },
@@ -1315,26 +1335,6 @@
       "duration_ms": 216984,
       "name": "We Can Come Together",
       "url": "https://open.spotify.com/track/0YG1fyqSZpuIfNlkOeN3eD"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "You & I",
-        "url": "https://open.spotify.com/album/2R65x1NUpvpI1Dp97sEPFU"
-      },
-      "artists": [
-        {
-          "name": "Navos",
-          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
-        },
-        {
-          "name": "HARLEE",
-          "url": "https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy"
-        }
-      ],
-      "duration_ms": 168201,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/0OE5nvs8Sc1meDrjN7vwBw"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
+        "name": "Somebody To Love",
+        "url": "https://open.spotify.com/album/6mWlw6oGjrIBh9ng0L9bim"
+      },
+      "artists": [
+        {
+          "name": "Ben Kim",
+          "url": "https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
         "name": "Everything I Do",
         "url": "https://open.spotify.com/album/7DWDzLGhYO99yvQzk5kSJc"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 194721,
       "name": "Everything I Do",
       "url": "https://open.spotify.com/track/6xIavZrzwKrMN8glvjCj1O"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "Somebody To Love",
-        "url": "https://open.spotify.com/album/6mWlw6oGjrIBh9ng0L9bim"
-      },
-      "artists": [
-        {
-          "name": "Ben Kim",
-          "url": "https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1719,18 +1719,22 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "The Chant",
-        "url": "https://open.spotify.com/album/1GpeWllT96Qv0UHDSz8tRb"
+        "name": "IN:TENSION",
+        "url": "https://open.spotify.com/album/5Om5ffiuTukQ7HdnSMxm1h"
       },
       "artists": [
         {
-          "name": "Todd Edwards",
-          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+          "name": "Keys N Krates",
+          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
+        },
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
         }
       ],
-      "duration_ms": 186774,
-      "name": "The Chant",
-      "url": "https://open.spotify.com/track/7FuOr01j61l7nBgENXfOIX"
+      "duration_ms": 195813,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/60vMYW3pMPwW5V6eTXNq2N"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1771,22 +1775,18 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "IN:TENSION",
-        "url": "https://open.spotify.com/album/5Om5ffiuTukQ7HdnSMxm1h"
+        "name": "The Chant",
+        "url": "https://open.spotify.com/album/1GpeWllT96Qv0UHDSz8tRb"
       },
       "artists": [
         {
-          "name": "Keys N Krates",
-          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
-        },
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
         }
       ],
-      "duration_ms": 195813,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/60vMYW3pMPwW5V6eTXNq2N"
+      "duration_ms": 186774,
+      "name": "The Chant",
+      "url": "https://open.spotify.com/track/7FuOr01j61l7nBgENXfOIX"
     },
     {
       "added_at": "2023-11-10 00:01:00",

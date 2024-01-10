@@ -1,12 +1,12 @@
 {
   "description": "Ya que el amor, de m\u00fasica ligera #ZodiacoSpotify Foto: Sebasti\u00e1n Yatra",
-  "num_followers": 71253,
+  "num_followers": 71277,
   "original_name": "Libra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTllYjVmMmJkYzlkNzIwY2E3MjhjNDk1N2U1ZWE0YTM5YzUwM2M1",
+  "snapshot_id": "MCxkOGYyNzhhNzNmYzQ3OTk1ZDYzMDFjMTMxOWVjYWRlYzMwMWQyNWVk",
   "tracks": [
     {
       "added_at": "2020-06-15 23:32:26",
@@ -143,22 +143,6 @@
     {
       "added_at": "2020-06-15 23:32:26",
       "album": {
-        "name": "Canci\u00f3n Animal (Remastered)",
-        "url": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 212746,
-      "name": "De M\u00fasica Ligera - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/2lpIh6Gr6HYjg1CFBaucS5"
-    },
-    {
-      "added_at": "2020-06-15 23:32:26",
-      "album": {
         "name": "Read My Lips",
         "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 230013,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
+    },
+    {
+      "added_at": "2020-06-15 23:32:26",
+      "album": {
+        "name": "Canci\u00f3n Animal (Remastered)",
+        "url": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 212746,
+      "name": "De M\u00fasica Ligera - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/2lpIh6Gr6HYjg1CFBaucS5"
     },
     {
       "added_at": "2020-06-15 23:32:26",

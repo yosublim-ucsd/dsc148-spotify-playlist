@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 
 > This is Lunay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,163 likes - 51 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,148 likes - 51 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 | 23 | [Luz Apaga](https://open.spotify.com/track/5Q3e16qE1RE5oilN3ukasm) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Luz Apaga](https://open.spotify.com/album/4Xk6SrGHC6vSevAkyTZiLh) | 4:05 |
 | 24 | [Prendemos](https://open.spotify.com/track/3YLbntjcsRoButdoVta3rq) | [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Prendemos](https://open.spotify.com/album/1X0vimVNeLVhLzIkLUxyWf) | 3:37 |
 | 25 | [En Mi Habitación](https://open.spotify.com/track/4ie9colBgieHEOULuCfK3E) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [En Mi Habitación](https://open.spotify.com/album/5YluAzUmLLk8ajKIsHj0lY) | 3:55 |
-| 26 | [INTERLUDE / REPORTE DEL TIEMPO](https://open.spotify.com/track/3NLDHndVSYmUt57fofO14y) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Susan Soltero](https://open.spotify.com/artist/7DdMp8sUGVIXO4dMesY6Mx) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 0:43 |
-| 27 | [Llégale](https://open.spotify.com/track/4vK8Kvyw1mabkMXJqbZOZT) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Llégale](https://open.spotify.com/album/2FMRC7RV3fbyyMH1oLsdiB) | 4:13 |
+| 26 | [Llégale](https://open.spotify.com/track/4vK8Kvyw1mabkMXJqbZOZT) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Llégale](https://open.spotify.com/album/2FMRC7RV3fbyyMH1oLsdiB) | 4:13 |
+| 27 | [INTERLUDE / REPORTE DEL TIEMPO](https://open.spotify.com/track/3NLDHndVSYmUt57fofO14y) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Susan Soltero](https://open.spotify.com/artist/7DdMp8sUGVIXO4dMesY6Mx) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 0:43 |
 | 28 | [Nadie \(feat\. Sech & Sharo Towers\) \- Remix](https://open.spotify.com/track/6pNjmMB8FTMEcqGSgs7Mji) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Sharo Towers](https://open.spotify.com/artist/4h6Eg0dBZ4Fr8vRcSn8r5r) | [Nadie \(feat\. Sech & Sharo Towers\) \[Remix\]](https://open.spotify.com/album/4N2GPRKAskxYf1HQWveeFR) | 4:30 |
 | 29 | [Bandida](https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Bandida](https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2) | 2:54 |
 | 30 | [Vicio](https://open.spotify.com/track/3pIzCbwJjBZIF4J3fi2ypR) | [Juliito](https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Castillo](https://open.spotify.com/album/4l0cvZurvFcRSY9JolKkIo) | 3:18 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 | 50 | [Fin De Semana](https://open.spotify.com/track/2DFn7QiaiaNNWXuWLABatP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Fin De Semana](https://open.spotify.com/album/5xoULy1zmC7mR6u23LMW6B) | 2:31 |
 | 51 | [LE GUSTA QUE LA VEAN](https://open.spotify.com/track/1VkfjnJvS5Q5Zn5TmqvcFZ) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [LE GUSTA QUE LA VEAN](https://open.spotify.com/album/52tk7FBtVA5xgzLfnzQ4jn) | 2:49 |
 
-Snapshot ID: `Mjg0MTE5MDAsMDAwMDAwMDAzMjg2MDYyMGQ5M2Q2OTJiZTZlMWQ4ZDg3ODEzYTYzMQ==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDBlMTlhMDdhYjE0ODI4OWJjZWRkMjdhYThiMTQ4ZWQyMg==`

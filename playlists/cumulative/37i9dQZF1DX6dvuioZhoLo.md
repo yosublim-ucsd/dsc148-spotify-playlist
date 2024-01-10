@@ -4,7 +4,7 @@
 
 > New makes old\. Cover: Sierra Ferrell
 
-224 songs - 13 hr 12 min
+225 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [From What I Recall](https://open.spotify.com/track/4vCu2i1WDukiV06xQUnCMj) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Ramblin' Soul](https://open.spotify.com/album/0lkkaseHHUBnHQMf4GDfvA) | 4:13 | 2022-11-18 | 2023-01-13 |
 | [Fuck Up](https://open.spotify.com/track/1cXUmVaiwY79D1GvUf43QS) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Sidelong](https://open.spotify.com/album/0QsTiookBuBIsLCdSvlTIa) | 3:21 | 2021-11-12 | 2023-08-23 |
 | [Fuck Up](https://open.spotify.com/track/4W5vicHqRLGvCeq9Odh2LD) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Sidelong](https://open.spotify.com/album/641RJlp4W6Cr7d4nTrYAnO) | 3:21 | 2023-08-11 |  |
-| [Fuck With Sad Girls](https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV) | [Bonnie Whitmore](https://open.spotify.com/artist/69c5B6GGm5eZgdLDkYeCw9) | [Fuck With Sad Girls](https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni) | 4:38 | 2021-11-12 |  |
+| [Fuck With Sad Girls](https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV) | [Bonnie Whitmore](https://open.spotify.com/artist/69c5B6GGm5eZgdLDkYeCw9) | [Fuck With Sad Girls](https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni) | 4:38 | 2021-11-12 | 2024-01-10 |
 | [Giddy Up](https://open.spotify.com/track/0ZAkzqCljhDcAOBhemJfs0) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Giddy Up](https://open.spotify.com/album/4PmXzKdrmohY9hqUenv2cl) | 3:01 | 2023-05-12 |  |
 | [Good As Gold](https://open.spotify.com/track/4LHvE4PjSvyOE0rInpU9C7) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Years](https://open.spotify.com/album/11HcrLOFCg1LKkLub2u91X) | 3:13 | 2021-11-12 | 2023-08-23 |
 | [Good As Gold](https://open.spotify.com/track/5c40AAhGGG0d7iDgXyF38y) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Years](https://open.spotify.com/album/4DdokaghnnKmmaWOhO2G0I) | 3:13 | 2023-08-11 |  |
@@ -178,6 +178,7 @@
 | [Road to Heaven](https://open.spotify.com/track/0kmJsk0yNfxB1ICbKRpUzZ) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Road to Heaven](https://open.spotify.com/album/5RCUWKlWpbFjt5TgRns9aA) | 3:43 | 2021-11-12 | 2023-10-04 |
 | [Roll On](https://open.spotify.com/track/2dCqBJAvSLdm5dyi3V2f24) | [Fanny Lumsden](https://open.spotify.com/artist/4WxHef1Si5yaAaCWUc6Ug2) | [Roll On](https://open.spotify.com/album/05LL5ROXO3gDLScBf4A84C) | 2:57 | 2022-04-01 | 2022-04-18 |
 | [Roll On](https://open.spotify.com/track/3i1isbSpcLUVejr3rT9bNT) | [Fanny Lumsden](https://open.spotify.com/artist/4WxHef1Si5yaAaCWUc6Ug2) | [Real Class Act](https://open.spotify.com/album/74DyShEFHHQ6HiwScPSf6e) | 2:57 | 2022-04-01 |  |
+| [Run\-down Neighborhood](https://open.spotify.com/track/2GhbVqbaoB9GzLPuX7FHfD) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/4UCb8uaJW44vhGZgiknqkb) | 3:06 | 2023-10-06 |  |
 | [Run\-down Neighborhood](https://open.spotify.com/track/4d75miZVKZd75MiAVWZvDa) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/5AmFYqUT1cu6JErSTHw5k6) | 3:06 | 2021-11-12 | 2022-07-29 |
 | [Run\-down Neighborhood](https://open.spotify.com/track/5a0zfY27mdOdvjwypqVVhT) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 3:06 | 2022-04-01 | 2023-12-23 |
 | [Runnin'](https://open.spotify.com/track/2EM8Ann4TIcFjnVtNpkT8D) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [Runnin'](https://open.spotify.com/album/0qcRycVTiFPrDF2DKQdRCv) | 3:57 | 2021-11-12 | 2022-07-29 |

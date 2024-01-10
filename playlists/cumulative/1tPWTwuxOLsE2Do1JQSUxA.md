@@ -4,7 +4,7 @@
 
 > The biggest 2010s throwback anthems of the decade from Beyoncé, Alicia Keys, John Legend and many more\. Image: Harry Styles.
 
-342 songs - 21 hr 14 min
+343 songs - 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [What a Feeling](https://open.spotify.com/track/0iSWAT0EL8TwmzcgBjKMh6) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:20 | 2020-10-20\* | 2020-11-03 |
 | [What Makes You Beautiful](https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Up All Night](https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq) | 3:19 | 2020-10-20\* |  |
 | [What's My Name?](https://open.spotify.com/track/1pYKzfOlpHWtVUiEIu4Vn7) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Loud](https://open.spotify.com/album/35dJsQDEr549O5DTFUy3uM) | 4:23 | 2023-09-12 |  |
+| [When the Beat Drops Out](https://open.spotify.com/track/4c24laIQGNc7QTICHZZKOq) | [Marlon Roudette](https://open.spotify.com/artist/2R1QrQqWuw3IjoP5dXRFjt) | [When the Beat Drops Out](https://open.spotify.com/album/7AlJCHpFtXKkm1QRJi2K1i) | 3:24 | 2024-01-09 |  |
 | [When We Collide](https://open.spotify.com/track/6FSxwdN08PvzimGApFjRnY) | [Matt Cardle](https://open.spotify.com/artist/3906URNmNa1VCXEeiJ3DSH) | [Letters \(Deluxe Edition\)](https://open.spotify.com/album/5sqeWpEKYq5b7g0rIbSIk8) | 3:46 | 2023-09-12 | 2023-11-10 |
 | [Who's That Girl \(feat\. Eve\)](https://open.spotify.com/track/7mlGufYKRiJEO2dglocn6o) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Twenty Ten](https://open.spotify.com/album/0f8Xtk0NDPGz4PpwlzEMBT) | 3:40 | 2023-07-14 | 2023-09-13 |
 | [Wild Thoughts \(feat\. Rihanna & Bryson Tiller\)](https://open.spotify.com/track/1OAh8uOEOvTDqkKFsKksCi) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Grateful](https://open.spotify.com/album/4JBZ0QHveEpESepanNBG8A) | 3:24 | 2020-10-20\* |  |

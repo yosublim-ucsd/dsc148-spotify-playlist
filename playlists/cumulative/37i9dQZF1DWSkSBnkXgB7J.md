@@ -4,7 +4,7 @@
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: Mohammed Saeed.
 
-108 songs - 5 hr 49 min
+110 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Fayadan](https://open.spotify.com/track/30Avn44lyZjowxu2pBggcJ) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA) | [Fayadan](https://open.spotify.com/album/3ZQ8wMsn57IDRjcfd6DRDO) | 2:34 | 2022-06-24 | 2022-11-09 |
 | [Fesam](https://open.spotify.com/track/4A5EWaur2f9Wu44tnBJrRH) | [Abdelrahman Roshdy](https://open.spotify.com/artist/4uKgnZbfQdntYvL9j9hzeK), [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp), [Moataz Mady](https://open.spotify.com/artist/08f43lunay0gG19Cd7k3iU) | [El Aasela](https://open.spotify.com/album/5VyF7ggNDvSyD1WyD2Jssj) | 4:09 | 2022-06-24 | 2022-11-09 |
 | [Ghareeb Alay](https://open.spotify.com/track/7gJqw9Ogef35nMOzHY8E3v) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ghareeb Alay](https://open.spotify.com/album/5c7qiyYcpJO6niBfAyjZYl) | 2:55 | 2022-06-24 |  |
-| [GTA](https://open.spotify.com/track/0B7mwv8jBRezE486YKjGit) | [Almena](https://open.spotify.com/artist/3dwnBsNq4R18t5SYNqJL37) | [GTA](https://open.spotify.com/album/0foaspvPQUgI5DvXXxHZ9T) | 3:48 | 2022-06-24 |  |
+| [GTA](https://open.spotify.com/track/0B7mwv8jBRezE486YKjGit) | [Almena](https://open.spotify.com/artist/3dwnBsNq4R18t5SYNqJL37) | [GTA](https://open.spotify.com/album/0foaspvPQUgI5DvXXxHZ9T) | 3:48 | 2022-06-24 | 2024-01-10 |
+| [Habba Fo2](https://open.spotify.com/track/0vpfvsnG73kMqYJQLhECgc) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Habba Fo2](https://open.spotify.com/album/2qLsLY0ElXdXYY9iDiAjYw) | 2:59 | 2024-01-09 |  |
 | [Hawelna Keter](https://open.spotify.com/track/6tc1iDgFurBNcXQa8QjKrd) | [Meery](https://open.spotify.com/artist/7v4YgvdfeIZLwqbrASG50n) | [Hawelna Keter](https://open.spotify.com/album/4qFvAkgf4FfCDKZvOV8JLn) | 4:17 | 2022-06-24 | 2023-06-07 |
 | [Hayda Hali](https://open.spotify.com/track/4SVhjqDecCRW1bbt5ZwP8z) | [George Nehme](https://open.spotify.com/artist/3DT7l7a2sCveCEerSrjgQu) | [هيدا حالي](https://open.spotify.com/album/04BUdm7whYgxcyPrre29LX) | 3:10 | 2022-07-21 |  |
 | [Hip\-hop/Jwk](https://open.spotify.com/track/01ZHMSHIQSgoXgtaca46Jf) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF), [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j) | [9addgni](https://open.spotify.com/album/1iQeb4yXEFJwzNdZt4gu2I) | 4:14 | 2022-06-24 | 2022-07-30 |
@@ -63,6 +64,7 @@
 | [Meen Fe Dol](https://open.spotify.com/track/63uctqlwCI5AxXYmpTVO2Z) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Meen Fe Dol](https://open.spotify.com/album/2fxZ2DkwORuu1ZsolK4PiJ) | 3:55 | 2022-06-24 | 2022-11-09 |
 | [Mehtar](https://open.spotify.com/track/0HOuIvqIhg8gmLSmh8tbOD) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Mehtar](https://open.spotify.com/album/0JuLiEE1xg9UPf9M6KHqC7) | 3:27 | 2022-06-24 |  |
 | [Met3ala2 Beeky](https://open.spotify.com/track/5HS17JQ7GlTOZrensjIbNO) | [Ahmed El Ruby](https://open.spotify.com/artist/4bYHqS5oBc6Jk8LfjbbWTf) | [Met3ala2 Beeky](https://open.spotify.com/album/6l9K0N3YqtarzoeDyyWwh7) | 3:20 | 2022-06-24 | 2023-06-07 |
+| [Mimti](https://open.spotify.com/track/6MZ3lIqUARBkZEDERr6tlF) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Mimti](https://open.spotify.com/album/0YVkrsk7cyE1xhrKDhpqWv) | 3:18 | 2024-01-09 |  |
 | [my secrets](https://open.spotify.com/track/2FUMEJlBFVUaa8ikJD29lF) | [1Take](https://open.spotify.com/artist/52NTEGHT81WhaH9Npafc0G) | [my secrets](https://open.spotify.com/album/0OOKu50qAAcHsgNUUvHXI1) | 4:32 | 2023-10-05 |  |
 | [Ountha](https://open.spotify.com/track/69UHeUvlSuDB6lBQfzWZe1) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Ountha](https://open.spotify.com/album/2olIPtmKbim1KmWV8pIxho) | 3:27 | 2023-03-01 | 2024-01-07 |
 | [Ountha](https://open.spotify.com/track/4M6QHCcum2OOvxF5sblvYN) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Ountha](https://open.spotify.com/album/3QfnsKo5JJ3mCJTyv47crg) | 3:27 | 2023-10-05 |  |
@@ -79,7 +81,7 @@
 | [Tabny Hubik](https://open.spotify.com/track/1905yUcHx7swLBKBUAPjpl) | [Abdulrahman Fadhel](https://open.spotify.com/artist/1wlLofWodvLA3yvQisSbX0) | [Tabny Hubik](https://open.spotify.com/album/2zcpLgRnj1pGdnjBhPeRYb) | 2:55 | 2022-06-24 | 2022-11-09 |
 | [Teji Neshar](https://open.spotify.com/track/3XHFjOPcqJoHyZm0Dj5Bau) | [Essa Alwad](https://open.spotify.com/artist/5EZ7zMZU3c0JMHq0yczerM) | [Teji Neshar](https://open.spotify.com/album/27tpuxQOQvoCXxsWw9UvAu) | 4:04 | 2022-06-24 | 2022-11-09 |
 | [The Secret](https://open.spotify.com/track/0ka227LipYd4nyxU7TiRm8) | [Ahmed ElAhmady](https://open.spotify.com/artist/4k0iU3RpIJZaax1fwAbOSx) | [The Secret](https://open.spotify.com/album/6isgKb1kliuYYYw2sbV19k) | 4:32 | 2023-03-01 | 2023-09-26 |
-| [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb) | 2:24 | 2022-06-24 |  |
+| [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb) | 2:24 | 2022-06-24 | 2024-01-10 |
 | [Ward/Shouk](https://open.spotify.com/track/3Cpd35DJtGSgjEhsUfBzUM) | [Nour Khan](https://open.spotify.com/artist/2xI0X8RCZHFCbtBlNJsZzs), [Illiam](https://open.spotify.com/artist/03yd9MuYtaWSUarWTy0BKJ), [Ahmed Kore](https://open.spotify.com/artist/7qqYaSjNjs4rUmtrgAqIpI) | [Ward/Shouk](https://open.spotify.com/album/3LUJmVAVLHrBAff4GQmM1G) | 2:29 | 2022-06-24 | 2022-11-09 |
 | [Wojoud Efterady](https://open.spotify.com/track/0kd00pkjvrTrK8dDKmwMCr) | [Mirelle Mokhtar](https://open.spotify.com/artist/72qojRuTcRlpvPehi30h7p) | [Wojoud Efterady](https://open.spotify.com/album/25NYgltgevJgJjQATySzkQ) | 4:11 | 2022-06-24 | 2023-06-07 |
 | [Ya Aghla Min Omri](https://open.spotify.com/track/1GyOCcAQbN4ZymgkU5rVib) | [Rayan](https://open.spotify.com/artist/6h6bN6w1alS5cqNp5EKkqG) | [يا أغلى من عمري](https://open.spotify.com/album/07OqZ5WPe08P9r21flFGqG) | 3:23 | 2022-07-21 |  |

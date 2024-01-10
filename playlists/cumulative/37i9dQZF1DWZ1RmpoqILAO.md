@@ -4,7 +4,7 @@
 
 > indie tunes with country experimentation Cover: Alex G
 
-202 songs - 13 hr 8 min
+203 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Radio Silence](https://open.spotify.com/track/4InyDtnc3LXJQ7IQb5gDe7) | [Jacqueline Hackett](https://open.spotify.com/artist/3sHKu82LxYjIMCXoHpgalZ) | [As the Summer Let You Down](https://open.spotify.com/album/1H9QibUtGZNncjJogzadcR) | 7:33 | 2023-05-19 |  |
 | [Return From The Ice](https://open.spotify.com/track/3vtMKnsC5A2Sk8ylRxyU10) | [Acetone](https://open.spotify.com/artist/7DnDHNnkHER4ompBXz1ibL) | [1992 \- 2001](https://open.spotify.com/album/6vUZbXDPOX59fKA8hacgyW) | 5:19 | 2023-12-08 |  |
 | [Ride On / Right On](https://open.spotify.com/track/7Ep6MLL8ATx0fFczswsvR5) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho](https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8) | 3:44 | 2023-02-23 |  |
+| [Right Back to It](https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Right Back to It](https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p) | 4:33 | 2024-01-09 |  |
 | [Right Side of My Neck](https://open.spotify.com/track/3cxZT78mZDyLsLPJKcTu3U) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 2:33 | 2023-02-23 |  |
 | [Rivers That You Cannot See](https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Rivers That You Cannot See](https://open.spotify.com/album/35iioCINJwSsujHf6csIMy) | 3:55 | 2023-02-23 |  |
 | [Roadkill](https://open.spotify.com/track/2ymCaPd4ojF9H8hzIz2NJd) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 2:55 | 2023-06-30 |  |

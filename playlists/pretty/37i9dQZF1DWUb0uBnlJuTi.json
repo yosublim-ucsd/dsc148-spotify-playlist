@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 322908,
+  "num_followers": 323039,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjE1Yzg2ZjM3YzVjMzI1ZTI5YTMwNTQ2OGZiMjEzZmQ2NGVkMjVj",
+  "snapshot_id": "MCw1NjM3ZjEyNDQ1NjBhMDA5NDBiNTQ3ZWE4ZmJjYWIyZDY5MjE3N2I1",
   "tracks": [
     {
       "added_at": "2023-11-17 05:01:00",
@@ -202,6 +202,10 @@
         {
           "name": "Brass Mafia",
           "url": "https://open.spotify.com/artist/5AUthOkaQS0S3cYfgA66N1"
+        },
+        {
+          "name": "Adam Theis",
+          "url": "https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ"
         }
       ],
       "duration_ms": 348489,
@@ -3221,26 +3225,6 @@
       "url": "https://open.spotify.com/track/3xWWQ10PFmASoMTeCBmyBW"
     },
     {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Smelling the Fog",
-        "url": "https://open.spotify.com/album/0RvYVrMUrcm2NNXNxX6fUd"
-      },
-      "artists": [
-        {
-          "name": "Sven Lindvall",
-          "url": "https://open.spotify.com/artist/3TauislvTr1US5ZCbjnLUx"
-        },
-        {
-          "name": "Daniel Fridell",
-          "url": "https://open.spotify.com/artist/4WG5037NDBAMyjzClxwmKK"
-        }
-      ],
-      "duration_ms": 291960,
-      "name": "Smelling the Fog",
-      "url": "https://open.spotify.com/track/5S7wGZaqXqozXvBJ6MEacl"
-    },
-    {
       "added_at": "2023-04-28 04:01:00",
       "album": {
         "name": "Fleet Streak",
@@ -3259,26 +3243,6 @@
       "duration_ms": 237679,
       "name": "Fleet Streak",
       "url": "https://open.spotify.com/track/4NoeaUoJv9u8cuopFuVedF"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
-        "name": "Why?",
-        "url": "https://open.spotify.com/album/3JmS19rIU04H05i02H6YsZ"
-      },
-      "artists": [
-        {
-          "name": "Jonas Wall",
-          "url": "https://open.spotify.com/artist/2Fawi4h6lz8tvYaHRkq7fo"
-        },
-        {
-          "name": "Umbaji",
-          "url": "https://open.spotify.com/artist/6cMhraoNdQ4lybdCG6veYz"
-        }
-      ],
-      "duration_ms": 258143,
-      "name": "Why?",
-      "url": "https://open.spotify.com/track/6nIueLCyNxBUM941WQ2v7l"
     },
     {
       "added_at": "2023-05-26 04:01:00",

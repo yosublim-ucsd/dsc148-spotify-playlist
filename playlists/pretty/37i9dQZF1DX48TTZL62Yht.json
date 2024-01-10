@@ -1,12 +1,12 @@
 {
   "description": "The tracks you just keep pulling up. Cover: Gucci Mane, J. Cole",
-  "num_followers": 475512,
+  "num_followers": 475395,
   "original_name": "Hip-Hop Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmM1NGIwN2EyMmU2YjgyMTcwZDZiM2U5ZjBiMWY3ODIxYWMwYzk0",
+  "snapshot_id": "MCw1YmRlM2IzNTkwMmI4ZTFkNjk4ZDM3N2MzNzk4MDM4NTlmOTcxYjU4",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -227,6 +227,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 239266,
+      "name": "Wet Dreamz",
+      "url": "https://open.spotify.com/track/4tqcoej1zPvwePZCzuAjJd"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Barbie World (with Aqua) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 239266,
-      "name": "Wet Dreamz",
-      "url": "https://open.spotify.com/track/4tqcoej1zPvwePZCzuAjJd"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1251,42 +1251,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Turn Yo Clic Up (feat. Future)",
-        "url": "https://open.spotify.com/album/1LaC62xZdpsUF19kVBbPCy"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 230835,
-      "name": "Turn Yo Clic Up (feat. Future)",
-      "url": "https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Banking On Me",
-        "url": "https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Banking On Me",
-      "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
       },
@@ -1311,6 +1275,42 @@
       "duration_ms": 232064,
       "name": "PTSD",
       "url": "https://open.spotify.com/track/1C8ux1YWLMHCenYJFiIV4Z"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Banking On Me",
+        "url": "https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Banking On Me",
+      "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Turn Yo Clic Up (feat. Future)",
+        "url": "https://open.spotify.com/album/1LaC62xZdpsUF19kVBbPCy"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 230835,
+      "name": "Turn Yo Clic Up (feat. Future)",
+      "url": "https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Give You What You Want",
+        "url": "https://open.spotify.com/album/49OQ6tF3eo3Fdgp3GMhHep"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 159330,
+      "name": "Give You What You Want",
+      "url": "https://open.spotify.com/track/6PQK1Y3Dl6dym9pj0y9Chy"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "JEALOUSY (feat. Cardi B)",
         "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 174466,
       "name": "JEALOUSY (feat. Cardi B)",
       "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Give You What You Want",
-        "url": "https://open.spotify.com/album/49OQ6tF3eo3Fdgp3GMhHep"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 159330,
-      "name": "Give You What You Want",
-      "url": "https://open.spotify.com/track/6PQK1Y3Dl6dym9pj0y9Chy"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1899,6 +1899,26 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Buy or Bye 2",
+        "url": "https://open.spotify.com/album/2ioMOjxtndeNFrssEFnIjF"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 153406,
+      "name": "Over The Top (feat. Drake)",
+      "url": "https://open.spotify.com/track/22ruOqBqBRiZDiXFud4OXa"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Bamba (feat. Aitch & BIA)",
         "url": "https://open.spotify.com/album/3cOBmVLauHdg4S3F7sJHyF"
       },
@@ -1919,26 +1939,6 @@
       "duration_ms": 203255,
       "name": "Bamba (feat. Aitch & BIA)",
       "url": "https://open.spotify.com/track/7nFJSfGvvV0WjatTZN6QYi"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Buy or Bye 2",
-        "url": "https://open.spotify.com/album/2ioMOjxtndeNFrssEFnIjF"
-      },
-      "artists": [
-        {
-          "name": "Smiley",
-          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 153406,
-      "name": "Over The Top (feat. Drake)",
-      "url": "https://open.spotify.com/track/22ruOqBqBRiZDiXFud4OXa"
     }
   ],
   "unique_name": "Hip-Hop Favourites",

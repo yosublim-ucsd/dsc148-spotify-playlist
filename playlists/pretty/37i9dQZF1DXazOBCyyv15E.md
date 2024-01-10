@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: ratbag
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,372 likes - 85 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,254 likes - 85 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 84 | [6.0](https://open.spotify.com/track/5CuGhDqfPQKVNt09deoxwF) | [House of Women](https://open.spotify.com/artist/69hDEF4aqs1XvGs9jHlIwf) | [People Printing](https://open.spotify.com/album/2q8j2IVYrNaM5pAWug6Er1) | 2:06 |
 | 85 | [Could You Help Me](https://open.spotify.com/track/5BEFUHkJkE96hq89ESAfgF) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Could You Help Me](https://open.spotify.com/album/02grbmPkJrTIPpb1MYMn7L) | 2:46 |
 
-Snapshot ID: `MCw0OGJlNmUxNTNmZWRkZjYyZjZjN2UwZTAyNGUxNWI2NGUxNDRmNzVi`
+Snapshot ID: `MCxmZjgyYTQ2ZWQ3MzgxZmE4YjUyOWVjYTg1NGExY2U3NzFhNzAxNDE4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,046 likes - 112 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,459 likes - 112 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 48 | [Flinch Awake](https://open.spotify.com/track/7KT3QK1mTErOIeXyBwsnA8) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Dark Angel](https://open.spotify.com/album/2l4vEBCHhW804i5xo1rj4g) | 5:48 |
 | 49 | [Thrills](https://open.spotify.com/track/21sClcYOv17b2EthaVR2Vs) | [Glass Spells](https://open.spotify.com/artist/6a4xrf2tjp1zo2osASzWOQ) | [Shattered](https://open.spotify.com/album/7i2M8J5NvFSKsSQIl95AvT) | 3:50 |
 | 50 | [Whirl](https://open.spotify.com/track/5CNEbwdhDgosVr96njlnGK) | [Soft Kill](https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m) | [Choke](https://open.spotify.com/album/5gX6BIzokidmOiI6X6ZnBH) | 6:08 |
-| 51 | [Lover For Tonight](https://open.spotify.com/track/4oU54ojJi4xrvCsYRa1EqE) | [.com](https://open.spotify.com/artist/0KMlyqeocN19K1DTl4TpzQ) | [Lover For Tonight](https://open.spotify.com/album/7qfFAGwg5ILjvQrU4ngLmt) | 2:27 |
+| 51 | [Lover For Tonight](https://open.spotify.com/track/6URF4E3yKBStbZoou3J9Ol) | [.com](https://open.spotify.com/artist/0KMlyqeocN19K1DTl4TpzQ) | [Lover For Tonight](https://open.spotify.com/album/7JzT7lZpC0HxQ2AAe6zHUa) | 2:27 |
 | 52 | [Люди Надоели](https://open.spotify.com/track/2gLAml7HPysxActxHTqdLq) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [С крыш наших домов](https://open.spotify.com/album/5JLoR1neszuPXlDwOSffYh) | 2:58 |
 | 53 | [Killer](https://open.spotify.com/track/2AYS46aVNyzEG0nsWwr8y6) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Lovers From The Past](https://open.spotify.com/album/6Z4eMptTUBwtdJHQeNV91N) | 3:06 |
 | 54 | [scrape my teeth](https://open.spotify.com/track/0VRXkVcObOF6LbaP1vGBe5) | [Indie Anthony](https://open.spotify.com/artist/5cvfQMSHL457qGDf8hpSjM) | [scrape my teeth](https://open.spotify.com/album/5g15UUA6l4Va6HmcCAeSwv) | 2:34 |
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 98 | [Mirror Twin](https://open.spotify.com/track/45wU0gt5K1RGPGqfhP71Vx) | [Harsh Symmetry](https://open.spotify.com/artist/2iw3bPHWeP872IeCAk2JmR) | [Mirror Twin](https://open.spotify.com/album/7vp0nLwMqpXKYHaGcovydU) | 3:45 |
 | 99 | [Forever](https://open.spotify.com/track/0KRAQpoakCf6ngwMTZIwfJ) | [Trit95](https://open.spotify.com/artist/03Iz2T21dJ2qZqYFLmJGt1) | [Forever](https://open.spotify.com/album/3uk6ar08tBClrLIgNAFZRf) | 2:12 |
 | 100 | [Alone Tonight](https://open.spotify.com/track/1CD4fhJIyWKfhX3YlNZiJY) | [Flawless Issues](https://open.spotify.com/artist/6Arj1L7vuPVkK3foh4PQmU) | [Alone Tonight](https://open.spotify.com/album/4p5u13uthsx4WJggSyqzJZ) | 2:37 |
-| 101 | [Will I Ever Find Love?](https://open.spotify.com/track/2heRsJG7O8jamqtKFW8P8s) | [.com](https://open.spotify.com/artist/0KMlyqeocN19K1DTl4TpzQ) | [Will I Ever Find Love?](https://open.spotify.com/album/6Vix7fnm5Cn5Z3iZ2bb5wK) | 3:52 |
+| 101 | [Will I Ever Find Love?](https://open.spotify.com/track/4Fmm1Zq5dEjbDFjku8F3U0) | [.com](https://open.spotify.com/artist/0KMlyqeocN19K1DTl4TpzQ) | [Will I Ever Find Love?](https://open.spotify.com/album/1fecgqTKMitrd73YmkxKsb) | 3:52 |
 | 102 | [Two Point Zero](https://open.spotify.com/track/7DWKtErNxf4Wb8BD54lDUQ) | [Cloudland Canyon](https://open.spotify.com/artist/6s5ScpNzol9psValU4HLHu) | [Two Point Zero](https://open.spotify.com/album/0YngPsT3JJV3ImRut0Z4vd) | 4:43 |
 | 103 | [Kasvetli Kutlama](https://open.spotify.com/track/1JgTzrrrnh6neqTtvA3F5d) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Kasvetli Kutlama](https://open.spotify.com/album/1ykQIGMWeD6VbVs7fMjSIJ) | 5:06 |
 | 104 | [Nasha](https://open.spotify.com/track/4DRFP1Bz7cgYk1cTUIxfUt) | [Aurat](https://open.spotify.com/artist/4ZiXmGjXlAVQNvqXq5VXx0) | [Poison](https://open.spotify.com/album/0rkapF9dF1GTBoJtOFiTJf) | 2:14 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 111 | [A Forest \- 2006 Remaster](https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds \(Deluxe Edition\)](https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj) | 5:54 |
 | 112 | [Dark Entries](https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In the Flat Field](https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w) | 3:51 |
 
-Snapshot ID: `MCw0Zjg0NDdiMmFjZTRjYzA1NTZiYmMyZDE1N2Y5Mjk4YzBhNzFhMGI2`
+Snapshot ID: `MCw2MWIwMDNmOTYyMDlkYTRhMDg3OWEwNWQxZDVhZTM5NjBiZmFhMWI5`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Adèle Castillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,620 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,642 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sensations](https://open.spotify.com/track/1UfM6gnwpBhkzMw07kK6TP) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Plaisir Risque Dépendance](https://open.spotify.com/album/6Xadqm9viEhsKgp0zRp8Gc) | 2:42 |
-| 2 | [Creep \- Reprise](https://open.spotify.com/track/5vZtvZGmR9APE5Uthy4A3H) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Creep \(Reprise\)](https://open.spotify.com/album/0CRmRKpMa7LpbNCkHzgwBD) | 2:51 |
+| 2 | [Creep \- Reprise](https://open.spotify.com/track/6R3kzJCQFejaS1XIR7wnbo) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Creep \(Reprise\)](https://open.spotify.com/album/2Q1hHWosLo5qBPj6oL8bDY) | 2:51 |
 | 3 | [C'est mon truc](https://open.spotify.com/track/0VW89sbCVJaGb4iGeNrOEv) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [Zélie c'est quoi ?](https://open.spotify.com/album/51UJNhfVEsYfjukIag27Y2) | 3:05 |
 | 4 | [Un jour ou deux](https://open.spotify.com/track/1S3FS1rQ8EOoA3MhLVjhxO) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Un jour ou deux](https://open.spotify.com/album/03WZecSeLD4y8Dn4FB74X0) | 3:25 |
 | 5 | [Day & Night](https://open.spotify.com/track/7B2RswVcMbBs70dFyxVGak) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Opening Soon](https://open.spotify.com/album/5YX88yWrZXIXhyPTpNQhHb) | 4:03 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 34 | [Frisco Blues](https://open.spotify.com/track/1lZOlQheMnvyuw9BGzALiV) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [Frisco Blues](https://open.spotify.com/album/0KteuByNpfG6DnPfNPytbF) | 4:07 |
 | 35 | [Can't Get You Out Of My Mind](https://open.spotify.com/track/5YjID8xAeHRZFykP8QTb3q) | [Keep Dancing Inc](https://open.spotify.com/artist/426htfG7DE5S3kgoVCCJUB) | [Can't Get You Out Of My Mind](https://open.spotify.com/album/7qMMVQqBCnOUK2Y5X3azca) | 4:16 |
 | 36 | [For Better and For Worse](https://open.spotify.com/track/3ankwuUT4iWTFhGEyC0k9Y) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [For Better and For Worse](https://open.spotify.com/album/2xeCYK4beWrE6uPOLW9e3F) | 3:32 |
-| 37 | [De passage](https://open.spotify.com/track/4a0upuCaLwcfL7TBYAGfGu) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [De passage](https://open.spotify.com/album/7qUUnF1DQdPRJhIeoWd3XB) | 3:06 |
+| 37 | [De passage](https://open.spotify.com/track/5mkGCuxXJfqo8Ed5dlQWdF) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [De passage](https://open.spotify.com/album/7w8YGqzXswTDFkUQ4edlRw) | 3:06 |
 | 38 | [Dans ma tête](https://open.spotify.com/track/1N065mYphUNO3ImHmMpC1t) | [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [Dans ma tête](https://open.spotify.com/album/7cWdOBIkhsd1nYcvXBl22L) | 2:42 |
 | 39 | [Hey Lou](https://open.spotify.com/track/1JrLzZwjwOssxX11afM3XS) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Camille Jansen](https://open.spotify.com/artist/3fPap8kKuNMRn5PR06x0gN) | [Hey Lou](https://open.spotify.com/album/4Vwfbi3fYMpl3BcMYP2VF2) | 3:40 |
 | 40 | [SOS Love Story](https://open.spotify.com/track/023iDDLtk8OU4Jb11rfARY) | [Petit Nuage](https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg) | [SOS Love Story](https://open.spotify.com/album/4c45lSdFers0FLrmOeOijG) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [NO ONE ELSE](https://open.spotify.com/track/6mhmebxd0Dv3GbQp34Abch) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [NO ONE ELSE](https://open.spotify.com/album/0yoOQg6R0Ds8TaCtXFZXNz) | 2:48 |
 | 50 | [GOBACK](https://open.spotify.com/track/7BiCR2KFuppkMQdxsYmSvT) | [Mr GISCARD](https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj) | [GOBACK](https://open.spotify.com/album/5920FnXcvVNVrk9npCJa4X) | 2:06 |
 
-Snapshot ID: `MCw1M2NiMDE3YWZjMjdmYjI1YzVhOGYzZjUyOWVmYTE3ZjIwZWJmNzY3`
+Snapshot ID: `MCw0ZTI3Y2Q4YWRjOTY2NmU4Nzg5MWIwOTE3MjQ4MWJkNzEzNjk1NzA4`

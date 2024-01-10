@@ -916,7 +916,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 83000,
       "name": "Born With Wings",
       "url": "https://open.spotify.com/track/640aV7v3Fww3eiRhQic2iW"
@@ -1460,6 +1460,24 @@
       "duration_ms": 90709,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/7LvNWRoBkIO5neAEEMCHTV"
+    },
+    {
+      "album": {
+        "name": "Dreamswing",
+        "url": "https://open.spotify.com/album/7BDShI8oQkJ6J8Sdq266qp"
+      },
+      "artists": [
+        {
+          "name": "Vincent Lundborg",
+          "url": "https://open.spotify.com/artist/30nuHxknx89pxWn3jaKp5A"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118854,
+      "name": "Dreamswing",
+      "url": "https://open.spotify.com/track/44xSmkzDCWN8oJxrCB8pCM"
     },
     {
       "album": {
@@ -4502,7 +4520,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 96500,
       "name": "Peach Brown Betty",
       "url": "https://open.spotify.com/track/1oNpaSUD3n12FFoVjyedcq"
@@ -5287,6 +5305,24 @@
     },
     {
       "album": {
+        "name": "Sleepy Sails and Dreamy Trails",
+        "url": "https://open.spotify.com/album/6a8fpBjySVbEsz01LaCq46"
+      },
+      "artists": [
+        {
+          "name": "Nerseh Soul",
+          "url": "https://open.spotify.com/artist/3F1T3ei9hUjYpSTdNjfQYI"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105293,
+      "name": "Sleepy Sails and Dreamy Trails",
+      "url": "https://open.spotify.com/track/4q2BSCV9zbfqvjcg2mUu90"
+    },
+    {
+      "album": {
         "name": "Sleepy Sweetheart",
         "url": "https://open.spotify.com/album/3521CDtJT2c4ErbvEbB52D"
       },
@@ -5604,7 +5640,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 101000,
       "name": "Starshine",
       "url": "https://open.spotify.com/track/0ydmt6SKCUjmP70qq35UJO"
@@ -5644,6 +5680,24 @@
       "duration_ms": 98000,
       "name": "Sunshine jewel",
       "url": "https://open.spotify.com/track/1ABF9IBS1FTSuuF5uKpPr3"
+    },
+    {
+      "album": {
+        "name": "Sunshine Song",
+        "url": "https://open.spotify.com/album/5EcAYi9tzvt2ZkrZXvJNnd"
+      },
+      "artists": [
+        {
+          "name": "Lena Terne",
+          "url": "https://open.spotify.com/artist/0GjoEUgHE1zBQ591fbqqZg"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80500,
+      "name": "Sunshine Song",
+      "url": "https://open.spotify.com/track/6hicKBEJhWxv7QYQMyU7Mr"
     },
     {
       "album": {

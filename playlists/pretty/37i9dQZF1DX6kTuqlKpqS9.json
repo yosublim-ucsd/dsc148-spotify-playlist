@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De la tarima a tus bocinas! Lo mejor del mariachi en vivo. Juan Gabriel en portada.",
-  "num_followers": 78559,
+  "num_followers": 78597,
   "original_name": "Mariachi en Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDAzOTc5YTFkZGM1ZTA5MDZmODI5NmFkN2VkODI1MzBlMWVmM2Y4",
+  "snapshot_id": "MCxiNTg2NDcxYTI1OWQyNmMwMDlmMzZhNzJkMDBkNTgyMDFlMTAwMzFi",
   "tracks": [
     {
       "added_at": "2021-12-29 23:15:19",
@@ -91,18 +91,18 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Desvelada Con Banda Y Mariachi (En Vivo)",
-        "url": "https://open.spotify.com/album/3FJXsvMG4qE7cPZEBORwoF"
+        "name": "En el Palacio de Bellas Artes",
+        "url": "https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 147514,
-      "name": "El Rey de Mil Coronas - En VIvo",
-      "url": "https://open.spotify.com/track/5gNgIMvsN5R8OARLgllnHo"
+      "duration_ms": 428466,
+      "name": "Amor Eterno - En Vivo [En el Palacio de Bellas Artes]",
+      "url": "https://open.spotify.com/track/0QI38in0PP6LVZSl6NnKaI"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -139,18 +139,18 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "En el Palacio de Bellas Artes",
-        "url": "https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI"
+        "name": "Desvelada Con Banda Y Mariachi (En Vivo)",
+        "url": "https://open.spotify.com/album/3FJXsvMG4qE7cPZEBORwoF"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 428466,
-      "name": "Amor Eterno - En Vivo [En el Palacio de Bellas Artes]",
-      "url": "https://open.spotify.com/track/0QI38in0PP6LVZSl6NnKaI"
+      "duration_ms": 147514,
+      "name": "El Rey de Mil Coronas - En VIvo",
+      "url": "https://open.spotify.com/track/5gNgIMvsN5R8OARLgllnHo"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -219,22 +219,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Lola Beltr\u00e1n en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris",
-        "url": "https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K"
-      },
-      "artists": [
-        {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "La Feria de las Flores",
-      "url": "https://open.spotify.com/track/1tBz9r3XIP2qRhEmrFUj4J"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "Mis 40 En Bellas Artes (En Vivo Desde Bellas Artes, M\u00e9xico/ 2013)",
         "url": "https://open.spotify.com/album/7AP8musNODGGdC8MSGa7or"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 218572,
       "name": "Tu A Mi No Me Hundes - En Vivo Desde Bellas Artes, M\u00e9xico/ 2013",
       "url": "https://open.spotify.com/track/6fl2z7exv5Y8NybcTtYpkJ"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "Lola Beltr\u00e1n en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris",
+        "url": "https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "La Feria de las Flores",
+      "url": "https://open.spotify.com/track/1tBz9r3XIP2qRhEmrFUj4J"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -363,22 +363,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Ana Gabriel \"En Vivo\"",
-        "url": "https://open.spotify.com/album/7o9mXBmfcf34lmwAmCjLet"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Propuesta - En Vivo - Remasterizado",
-      "url": "https://open.spotify.com/track/5SDff61AfRGrIpxLIZkiBW"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "Mis 40 En Bellas Artes (En Vivo Desde Bellas Artes, M\u00e9xico/ 2013)",
         "url": "https://open.spotify.com/album/7AP8musNODGGdC8MSGa7or"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 217532,
       "name": "La Diferencia - En Vivo Desde Bellas Artes, M\u00e9xico/ 2013",
       "url": "https://open.spotify.com/track/5qjWsZ8kudvaVKG2g0cRvz"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "Ana Gabriel \"En Vivo\"",
+        "url": "https://open.spotify.com/album/7o9mXBmfcf34lmwAmCjLet"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Propuesta - En Vivo - Remasterizado",
+      "url": "https://open.spotify.com/track/5SDff61AfRGrIpxLIZkiBW"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -879,8 +879,8 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "En Vivo Desde La Plaza El Progreso De Guadalajara",
-        "url": "https://open.spotify.com/album/6gKQyReexz4apWSmp53v0j"
+        "name": "El \u00daltimo Jaripeo (En Vivo)",
+        "url": "https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc"
       },
       "artists": [
         {
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 236186,
-      "name": "Tatuajes - En Vivo",
-      "url": "https://open.spotify.com/track/0TchGuutCU00E8sw8E6XWX"
+      "duration_ms": 199640,
+      "name": "Estuve - En Vivo",
+      "url": "https://open.spotify.com/track/3FYqBFgxf9xTSqOv07BVSy"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -927,8 +927,8 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "El \u00daltimo Jaripeo (En Vivo)",
-        "url": "https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc"
+        "name": "En Vivo Desde La Plaza El Progreso De Guadalajara",
+        "url": "https://open.spotify.com/album/6gKQyReexz4apWSmp53v0j"
       },
       "artists": [
         {
@@ -936,9 +936,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 199640,
-      "name": "Estuve - En Vivo",
-      "url": "https://open.spotify.com/track/3FYqBFgxf9xTSqOv07BVSy"
+      "duration_ms": 236186,
+      "name": "Tatuajes - En Vivo",
+      "url": "https://open.spotify.com/track/0TchGuutCU00E8sw8E6XWX"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Un Canto de M\u00e9xico: Alejandro Fern\u00e1ndez en Vivo desde Bellas Artes",
-        "url": "https://open.spotify.com/album/7b0VncFO0NxyndB5MMa9mo"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 214533,
-      "name": "Un Mundo Raro",
-      "url": "https://open.spotify.com/track/6prAkGQ86DXdjHksDQpvUD"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "El \u00daltimo Jaripeo (En Vivo)",
         "url": "https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 235933,
       "name": "T\u00fa Sabes Qui\u00e9n - En Vivo",
       "url": "https://open.spotify.com/track/70eELnT7X5487yS01yFIs6"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "Un Canto de M\u00e9xico: Alejandro Fern\u00e1ndez en Vivo desde Bellas Artes",
+        "url": "https://open.spotify.com/album/7b0VncFO0NxyndB5MMa9mo"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 214533,
+      "name": "Un Mundo Raro",
+      "url": "https://open.spotify.com/track/6prAkGQ86DXdjHksDQpvUD"
     },
     {
       "added_at": "2021-12-29 23:15:19",

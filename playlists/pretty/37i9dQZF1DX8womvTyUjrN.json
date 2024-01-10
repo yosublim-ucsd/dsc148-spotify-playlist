@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Zhamira Zambrano & Jay Wheeler",
-  "num_followers": 286494,
+  "num_followers": 286008,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWQxNTE4M2JiZDE4ZTUxMDZiYTZjMWI4ZjYwZWZiOWFiZTMxY2M2",
+  "snapshot_id": "MCw1YmJmZWQ5MTM2OTI0ZjJjZmFmMzkwZjE1ZTAzMDFjZmViYjllZTY4",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "DEKKOLETERA 3",
-        "url": "https://open.spotify.com/album/1pZHGsYHI8Ks3j2NCIbv8X"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 132788,
-      "name": "La Que Yo Amo",
-      "url": "https://open.spotify.com/track/2Ul5bO8HgSd3Tdy7ug1B50"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Entr\u00e9gate",
         "url": "https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 191232,
       "name": "Entr\u00e9gate",
       "url": "https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "DEKKOLETERA 3",
+        "url": "https://open.spotify.com/album/1pZHGsYHI8Ks3j2NCIbv8X"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 132788,
+      "name": "La Que Yo Amo",
+      "url": "https://open.spotify.com/track/2Ul5bO8HgSd3Tdy7ug1B50"
     },
     {
       "added_at": "2023-12-15 05:00:00",

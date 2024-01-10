@@ -2,7 +2,7 @@
 
 ### [Massive Pop Remixes](https://open.spotify.com/playlist/37i9dQZF1DWVxqA801UP5W)
 
-> All your favourite pop songs, remixed to perfection\. Cover: Tyla
+> All your favourite pop songs, remixed to perfection\. Cover: Dua Lipa
 
 103 songs - 5 hr 35 min
 

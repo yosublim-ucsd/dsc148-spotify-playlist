@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: YOASOBI
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,298 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,340 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 49 | [おともだち](https://open.spotify.com/track/0h8lQsN8g5G1kHSFpXnDVq) | [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf) | [満身創意](https://open.spotify.com/album/1EJZyEyOQ9Ad6Rkro66ieM) | 3:05 |
 | 50 | [SuperHeroine](https://open.spotify.com/track/270F4BuzWpCOvLAWa3FefE) | [HeiseiFlamingo](https://open.spotify.com/artist/4uMdSrldJrMC86Ds873ZtN) | [SuperHeroine](https://open.spotify.com/album/1KTsf4z5jtKGXZDOlaYRli) | 4:33 |
 
-Snapshot ID: `MCw4YTIxZDRjMTViOTk0ZmNhZThhODkyMDM3ZmM3YjJiYmVkMzNlZWI4`
+Snapshot ID: `MCw1NWMxMDljNDRkM2QxNDRjNzVjODUxZDBlMzRhOTliMmU5MDljODBj`

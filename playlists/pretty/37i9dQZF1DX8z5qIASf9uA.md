@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 
 > Honramos la memoria de las leyendas de nuestra Música Mexicana\. Valentín Elizalde en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,082 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,235 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 | 38 | [Basta Ya \- Banda](https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Joyas Prestadas \- Banda](https://open.spotify.com/album/2S1InqamaQuotpISCqos3W) | 4:03 |
 | 39 | [Costumbres](https://open.spotify.com/track/4y42VnzfGCV7gXr1qcL302) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 4:32 |
 | 40 | [El Toro Encartado](https://open.spotify.com/track/572KOXYeHP69vqpcgvOKGh) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 2:46 |
-| 41 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Anos De Exitos](https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY) | 2:57 |
-| 42 | [Mi Credo](https://open.spotify.com/track/6bAlfC82cMGBV42KaROje8) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359) | [Más Capaces Que Nunca](https://open.spotify.com/album/3nfwzm26fjNgYKHHUBcdAM) | 3:02 |
+| 41 | [Mi Credo](https://open.spotify.com/track/6bAlfC82cMGBV42KaROje8) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359) | [Más Capaces Que Nunca](https://open.spotify.com/album/3nfwzm26fjNgYKHHUBcdAM) | 3:02 |
+| 42 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Anos De Exitos](https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY) | 2:57 |
 | 43 | [Te Solté la Rienda](https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Cantinero](https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES) | 2:38 |
 | 44 | [Cómo Pude Enamorarme De Ti](https://open.spotify.com/track/0A4lH5fAqNuLCSOYA3Bp7V) | [Patrulla 81](https://open.spotify.com/artist/4TTxsp1mecTPT9O4dxVtvN) | [Como Pude Enamorarme De Ti](https://open.spotify.com/album/4kPZh0MgavSWBIr1LXgBQU) | 2:11 |
 | 45 | [Ya Lo Sé](https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 | 74 | [La Jugada](https://open.spotify.com/track/1wpYlTOjnNjg4NFOSfEZAQ) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [La Jugada](https://open.spotify.com/album/0BHbOtxdDJrsNYIYNZpvNj) | 3:53 |
 | 75 | [Yo la Quería para Mi](https://open.spotify.com/track/6JRJhfBSAGgQKXkXsTH4b0) | [Jerry Demara](https://open.spotify.com/artist/4fo4CVWELgeLeKwqzJqdY7) | [Brindemos](https://open.spotify.com/album/1qdf86Qo4CCnxyCJn8JbGs) | 3:27 |
 
-Snapshot ID: `MCwyMGQyNThhZTU2YzdlYjVlNzRmMGI4ZjY0MjhjYzUxNTM1ZjJhNjBh`
+Snapshot ID: `MCw3ZmI2Y2E4N2VjNWJkMTI3OTA5ODllZGUwYmNlODlhOWJlNWE4OTBi`

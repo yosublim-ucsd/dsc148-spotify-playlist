@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like this Cover: Taylor Swift
 
-627 songs - 1 day 10 hr 35 min
+628 songs - 1 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,11 +300,12 @@
 | [I'll Be Waiting](https://open.spotify.com/track/0JIhRhZPF5j5dx0FGqTWxy) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting \(Sad At Christmas\)](https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM) | 2:52 | 2023-02-03 | 2023-08-07 |
 | [I'll Be Waiting](https://open.spotify.com/track/3fqBhOtYA62A5D20j8OaQY) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting](https://open.spotify.com/album/4oCwYpB91xHHFEVlbcVOaR) | 2:52 | 2023-01-04 | 2023-02-12 |
 | [I'm Not The Only One](https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 3:59 | 2022-07-18 | 2022-10-01 |
+| [I'm Sorry](https://open.spotify.com/track/4MxVVKHpLRaIAnOqT1pNSV) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [I'm Sorry](https://open.spotify.com/album/69rwGy6j7etGpJUQ2OMH9f) | 3:23 | 2024-01-05 |  |
 | [i'm sorry](https://open.spotify.com/track/0PjId4Gfc96mYOl675FsfU) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [i'm sorry](https://open.spotify.com/album/2W3tnfj8SznmHGJueCtfrG) | 3:13 | 2023-06-30 | 2023-07-24 |
 | [i'm sorry](https://open.spotify.com/track/6WVcHr4xidTULfA2GJh2ZR) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [i'm sorry](https://open.spotify.com/album/5aWgEPJqCnnc2wdmMHWc7B) | 3:44 | 2022-10-21 | 2022-12-17 |
 | [I'm trying](https://open.spotify.com/track/4gcC1lyxdjoTE13FPOqyHt) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [I'm trying](https://open.spotify.com/album/6dPQkfGAbsDB7cYI32VG0m) | 2:44 | 2023-05-19 | 2023-09-16 |
 | [if depression gets the best of me](https://open.spotify.com/track/1UHATOi2uLeTk3UHKBwR30) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [if depression gets the best of me](https://open.spotify.com/album/71jFeLyVXVUllf7sMI6mVE) | 3:00 | 2022-01-21 | 2023-08-14 |
-| [if depression gets the best of me](https://open.spotify.com/track/2ha6TmK7Q3mejlvZNQuEBu) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [we're all sad here](https://open.spotify.com/album/1twRDbvHKiuFTLeAKfMbH4) | 3:00 | 2023-08-18 |  |
+| [if depression gets the best of me](https://open.spotify.com/track/2ha6TmK7Q3mejlvZNQuEBu) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [we're all sad here](https://open.spotify.com/album/1twRDbvHKiuFTLeAKfMbH4) | 3:00 | 2023-08-18 | 2024-01-10 |
 | [If I Don't Laugh, I'll Cry](https://open.spotify.com/track/1vezKKI9PZnHIMFzzDcF6U) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [If I Don't Laugh, I'll Cry](https://open.spotify.com/album/0ZNj1dzkYUmgDKdL1NRvJI) | 3:18 | 2023-06-16 |  |
 | [If I Don't Laugh, I'll Cry](https://open.spotify.com/track/7a4YwlUER1m7rkWJjYJRAD) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [If I Don't Laugh, I'll Cry](https://open.spotify.com/album/14pYW9pwzrE4t6Z6p8NLCb) | 3:18 | 2022-05-06 | 2023-07-27 |
 | [if you hate me, say it](https://open.spotify.com/track/5fY07Uq0bLdEKIolWaNjpO) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [if you hate me, say it](https://open.spotify.com/album/3SuFmwD5seyB2fgzvJGg8r) | 3:18 | 2021-12-17 | 2022-05-20 |

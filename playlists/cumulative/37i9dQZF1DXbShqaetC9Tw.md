@@ -4,7 +4,7 @@
 
 > 새벽 감성\. Issa Vibe.
 
-192 songs - 10 hr 45 min
+193 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Bittersweet](https://open.spotify.com/track/4G2tzcxg0ctBk2Papi7j6C) | [sewoong](https://open.spotify.com/artist/7lZCDg75pkeQd4VYLgNPTf) | [Fisherman's knot](https://open.spotify.com/album/4h1KVlbxt4uCid76zyXtE7) | 4:17 | 2022-04-18 | 2022-06-06 |
 | [Black & White Film \(Prod\. BOYCOLD\)](https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:39 | 2022-04-18 |  |
 | [Blanche](https://open.spotify.com/track/1esahzIshP5CFjvPDobMVZ) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [Mondegreen](https://open.spotify.com/album/4KlisFMPuKdK0lWRjtxLhw) | 3:19 | 2022-12-05 | 2023-07-15 |
-| [Blanche](https://open.spotify.com/track/7sZLNlcmE9fDPC8Mx4GzOX) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [Mondegreen](https://open.spotify.com/album/2Ae2tMRKZsu376uIJx7MRP) | 3:19 | 2023-10-20 |  |
+| [Blanche](https://open.spotify.com/track/7sZLNlcmE9fDPC8Mx4GzOX) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [Mondegreen](https://open.spotify.com/album/2Ae2tMRKZsu376uIJx7MRP) | 3:19 | 2023-10-20 | 2024-01-10 |
 | [Blue Candle](https://open.spotify.com/track/1YsimHSre6MFvtrLgkIqtq) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [idealism](https://open.spotify.com/album/0l2WXPOSbRWAjAOhnONchi) | 3:18 | 2022-04-18 | 2022-07-29 |
 | [Blue Candle](https://open.spotify.com/track/74NAth9jobuzJLmRyDde3n) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [idealism](https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV) | 3:18 | 2022-07-25 |  |
 | [Blue mood](https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Lost Mood](https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh) | 2:39 | 2022-10-04 |  |
@@ -118,6 +118,7 @@
 | [Movies](https://open.spotify.com/track/5EMGQPQI60jvyDjKT2Fn2I) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [CRÈME](https://open.spotify.com/album/50OexC7HF7AMO8ypWaGvPd) | 1:56 | 2022-07-25 |  |
 | [moving on](https://open.spotify.com/track/14y3ITOtt6FsP8xxda3at1) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [moving on](https://open.spotify.com/album/0ZBMfAG0oojsVpORkNz5m1) | 2:30 | 2022-04-18 | 2022-07-29 |
 | [Night after night \(Feat\. Hauzee\)](https://open.spotify.com/track/4ix7WeS3DYGa9wfexshzJ7) | [Holmsted](https://open.spotify.com/artist/4AETbFj8tCGWWDWLXIldTB), [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [DOT 1](https://open.spotify.com/album/2pyUjceJRcxmJsf0UAZvOI) | 3:46 | 2022-04-18 | 2022-09-26 |
+| [Nightmare \(feat\. Plo6, Stay.d & O RO\)](https://open.spotify.com/track/5gOsBcGDog5XvleJjOFz02) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [Plo6](https://open.spotify.com/artist/7qY3PamjXoWN7X51bZuoBa), [Stay.d](https://open.spotify.com/artist/2pLNWAWPJJwM2r2zfDinLZ), [O RO](https://open.spotify.com/artist/3bYQBVXWRrgRQpi0BjSy9n) | [The moment I loved](https://open.spotify.com/album/0kGEApRuPVl76yI8cJbXQn) | 2:40 | 2024-01-08 |  |
 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/04mktU1pvPJmwtO43xeYmJ) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [Yearbook 2022](https://open.spotify.com/album/7wMpdprIWFdFG1z8vhpOb4) | 3:15 | 2023-02-28 | 2023-07-10 |
 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 41](https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs) | 3:15 | 2022-07-25 | 2023-03-03 |
 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/5Qjsh4Xp6YQJIFSPWTdyAC) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 41](https://open.spotify.com/album/1XI748LrBjy0ui2wEPqpEM) | 3:15 | 2022-06-03 | 2022-07-29 |

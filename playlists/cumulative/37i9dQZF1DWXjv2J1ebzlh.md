@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,190 songs - 6 day 3 hr 31 min
+2,191 songs - 6 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,8 +126,9 @@
 | [Akula Owu Onyeara](https://open.spotify.com/track/5ww9r75Y8JPRgAAc3qJPms) | [The Funkees](https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J) | [Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973\-77](https://open.spotify.com/album/3qvdUGpEoOjOrbtZpWApYm) | 7:28 | 2023-03-17 |  |
 | [Al Asafir](https://open.spotify.com/track/0R6cTcF0S4XQWSlegJC4Dg) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/3Uq1VMWNQLBVqd9GiSoxlC) | 5:20 | 2022-10-31 |  |
 | [Al Asafir](https://open.spotify.com/track/38tuJECMzicYOgIgRbWDYu) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/1B3W5u06uIB7Elyk70pt9R) | 5:20 | 2022-07-12 | 2022-11-20 |
-| [Al Calor de la Cumbia](https://open.spotify.com/track/3A7jHfd6t2PEsCMMJD5bBP) | [Grupo Marina Perla](https://open.spotify.com/artist/63s0EBPjuXxLcjUsV2tXQS) | [Gran Festival de Porros y Cumbias](https://open.spotify.com/album/23oOLSIB4SW14Nwp4bbYdc) | 3:35 | 2023-02-08 |  |
+| [Al Calor de la Cumbia](https://open.spotify.com/track/3A7jHfd6t2PEsCMMJD5bBP) | [Grupo Marina Perla](https://open.spotify.com/artist/63s0EBPjuXxLcjUsV2tXQS) | [Gran Festival de Porros y Cumbias](https://open.spotify.com/album/23oOLSIB4SW14Nwp4bbYdc) | 3:35 | 2023-02-08 | 2024-01-10 |
 | [AL CALOR DE LA CUMBIA](https://open.spotify.com/track/0bKVH2zOibIz9OSRJPTqFZ) | [Grupo Marina Perla](https://open.spotify.com/artist/63s0EBPjuXxLcjUsV2tXQS) | [CUMBIA SOL MARINA](https://open.spotify.com/album/5pfc2ZHqgAM4OOlZuFeh71) | 3:36 | 2022-07-12 | 2023-02-26 |
+| [Al Calor de la Cumbia](https://open.spotify.com/track/712B5rx6WxxJ5z7AHRj1x6) | [JOYAS SONIDERAS VOL.4](https://open.spotify.com/artist/4BDjjgM6MmTXNu1z2Jmj84), [Grupo Marina Perla](https://open.spotify.com/artist/07savn6kVyXtEWpWG5xuCH) | [Cumbia Sol Marina](https://open.spotify.com/album/6H9xlpLlOx71HLmphPBzsq) | 3:36 | 2023-11-29 |  |
 | [Al Elnim](https://open.spotify.com/track/3IqwpeCf40ptyCyuU9QBFZ) | [Hamlet Minassian](https://open.spotify.com/artist/68S0gjRMzuqF5zzDlJekQ2) | [Armenian Pop Music](https://open.spotify.com/album/2AqtoC4FaYHRGOYHpbdLRl) | 6:12 | 2022-07-27 |  |
 | [Al Elnim](https://open.spotify.com/track/44o9aQPKOYfsVzmuSaBhgt) | [Hamlet Minassian](https://open.spotify.com/artist/68S0gjRMzuqF5zzDlJekQ2) | [Armenian Pop Music](https://open.spotify.com/album/45SMJMghoL8N2BeuknayF6) | 6:12 | 2022-06-09 | 2022-07-29 |
 | [Al Hadaoui](https://open.spotify.com/track/0TPb4YPdW6kY5t3ddheHYM) | [Attarazat Addahabia](https://open.spotify.com/artist/39LnlW8CBTtMww7Lm9z44x), [Faradjallah](https://open.spotify.com/artist/0ygAogdZN5rhDT3K0KXYFD) | [Al Hadaoui \(Habibi Funk 011\)](https://open.spotify.com/album/5u3QtC3k9Vp8iq2fPcH66P) | 4:03 | 2022-06-09 | 2022-07-29 |
@@ -507,8 +508,8 @@
 | [Cumbia Espacial](https://open.spotify.com/track/73eru5GrzWOgmjjdcI8WGg) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica](https://open.spotify.com/album/5OfBaqQtoYQc3i0LgKVAEC) | 4:05 | 2023-03-17 |  |
 | [Cumbia Espacial](https://open.spotify.com/track/7eVJeKvIDJxypSLzzzcBdz) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica](https://open.spotify.com/album/22Q8xEKl3NoUnT8EdJBMb2) | 4:05 | 2022-06-09 | 2022-07-29 |
 | [Cumbia Espacial](https://open.spotify.com/track/7y40GtUQ2pO4rV652rVazz) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica \(Deluxe Version\)](https://open.spotify.com/album/2clte0oolrkkXFTJy72us2) | 4:05 | 2022-07-27 | 2023-05-01 |
+| [Cumbia Locura](https://open.spotify.com/track/0Hj9eBehL8C6z6FkZgPwJV) | [Taggy Matcher](https://open.spotify.com/artist/2u7HXyOB94OUobf3fQtMtF), [Kumbia Boruka](https://open.spotify.com/artist/3B7XF3wKmK3NFMO4AGfzd7) | [Cumbia Locura](https://open.spotify.com/album/4sYiCWDWYHmF48zZ5K5695) | 3:59 | 2022-07-27 |  |
 | [Cumbia locura](https://open.spotify.com/track/1x2l3r56aWjg014j45EvAI) | [Taggy Matcher](https://open.spotify.com/artist/2u7HXyOB94OUobf3fQtMtF), [Kumbia Boruka](https://open.spotify.com/artist/3B7XF3wKmK3NFMO4AGfzd7) | [Cumbia Locura](https://open.spotify.com/album/4hT1oktvlWzWeh4ETUB1G8) | 3:59 | 2022-06-09 | 2022-07-29 |
-| [Cumbia Locura](https://open.spotify.com/track/0Hj9eBehL8C6z6FkZgPwJV) | [Taggy Matcher & Kumbia Boruka](https://open.spotify.com/artist/7l16paFplrLu5I9xBDkdwp) | [Cumbia Locura](https://open.spotify.com/album/4sYiCWDWYHmF48zZ5K5695) | 3:59 | 2022-07-27 |  |
 | [Cumbia Raja](https://open.spotify.com/track/6zAGE3CqITmtMrDp42NXdh) | [Michi Sarmiento y su Combo Bravo](https://open.spotify.com/artist/4sEESURYY5eLdFEKHCtub0) | [Cum Cumbelé](https://open.spotify.com/album/5QRkRiMAqnsbp4KdEjXKAv) | 3:03 | 2022-06-09 |  |
 | [Cumbia Sabrosa](https://open.spotify.com/track/3MqHR8cuW6DUMC1htOJbT8) | [Climaco Sarmiento](https://open.spotify.com/artist/7M9SeIqdPfOX6sw5cJUSfB) | [Historia Musical de Clímaco Sarmiento](https://open.spotify.com/album/52h4urEINXnhdVXMwC2h8F) | 2:22 | 2022-06-09 |  |
 | [Cumbia Sobre el Mar](https://open.spotify.com/track/0xi0Z6QaaoeHWPahfTiISG) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Flowering Inferno](https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p) | [Dog With a Rope](https://open.spotify.com/album/1DKfTnMLIUo2yXXSrfwVNH) | 6:17 | 2022-07-27 | 2023-04-29 |

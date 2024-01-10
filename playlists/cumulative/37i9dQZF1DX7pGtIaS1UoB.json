@@ -722,7 +722,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 185453,
       "name": "Mojito",
       "url": "https://open.spotify.com/track/2J42jKkwGqiRsxUYh7FMTm"
@@ -1278,6 +1278,28 @@
       "duration_ms": 144846,
       "name": "\u4e00\u5929\u52a0\u9ede\u611b (feat. Karencici)",
       "url": "https://open.spotify.com/track/0yuyPYhkkHYlBKwrPi6MZk"
+    },
+    {
+      "album": {
+        "name": "Gentle Bones",
+        "url": "https://open.spotify.com/album/1y2ye5sTKykfcAwRNPAmHC"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        },
+        {
+          "name": "Karencici",
+          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144846,
+      "name": "\u4e00\u5929\u52a0\u9ede\u611b (feat. Karencici)",
+      "url": "https://open.spotify.com/track/65MsZ8QtMNvWh8GKIabUp6"
     },
     {
       "album": {
@@ -2284,6 +2306,24 @@
       "duration_ms": 215146,
       "name": "\u544a\u767d\u6c23\u7403",
       "url": "https://open.spotify.com/track/1ivCIgrYZyE0BvItL4Z8lk"
+    },
+    {
+      "album": {
+        "name": "\u5468\u6770\u502b\u7684\u5e8a\u908a\u6545\u4e8b",
+        "url": "https://open.spotify.com/album/7sydOexyOcfIdE9Pt4WR1H"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215146,
+      "name": "\u544a\u767d\u6c23\u7403",
+      "url": "https://open.spotify.com/track/2tqF9MPNdYdJU70U0ULO23"
     },
     {
       "album": {
@@ -4182,7 +4222,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 256666,
       "name": "\u661f\u6674",
       "url": "https://open.spotify.com/track/4VWn7L2kONeMEQ6cAIfzXC"

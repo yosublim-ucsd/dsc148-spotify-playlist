@@ -4937,6 +4937,24 @@
     },
     {
       "album": {
+        "name": "Se Te Olvida (La Mentira) / Sabor A Mi",
+        "url": "https://open.spotify.com/album/4JXN3bXx0nkCQWI5VLXs40"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Perea",
+          "url": "https://open.spotify.com/artist/6EnIfpO7dtvoZU28SNmye5"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353320,
+      "name": "Se Te Olvida (La Mentira) / Sabor A Mi",
+      "url": "https://open.spotify.com/track/03C2wt9nzzDcguLm9sqnwP"
+    },
+    {
+      "album": {
         "name": "Ser\u00eda Una Pena",
         "url": "https://open.spotify.com/album/7jHcC0gencrmn5AsQfW9mr"
       },
@@ -5378,7 +5396,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 425333,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/61kdYuzRxng0e8rKb3QLq6"

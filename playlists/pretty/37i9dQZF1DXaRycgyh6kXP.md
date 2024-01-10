@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,205 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,324 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 71 | [Another Girl](https://open.spotify.com/track/1tsoKfM2I3a1VGpkjhzFTw) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [ANTH01](https://open.spotify.com/album/53wStBoNAK1lhbfbuCJ2zd) | 6:43 |
 | 72 | [Constant Reminder](https://open.spotify.com/track/0jbtAoiWy5saxeXoakNP2i) | [Two Lone Swordsmen](https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8) | [Tiny Reminders](https://open.spotify.com/album/2V2qCQNcIwy6sqkEHmBERc) | 1:30 |
 | 73 | [Kodomotachi](https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 4:06 |
-| 74 | [As Much as Possible](https://open.spotify.com/track/21M3Nfmqw8AZnLgFWHtskL) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [No Home of the Mind](https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA) | 5:40 |
-| 75 | [Appeayl 2 U part 1](https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75) | [Gayngs](https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI) | [Appeayl 2 U](https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U) | 3:56 |
+| 74 | [Appeayl 2 U part 1](https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75) | [Gayngs](https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI) | [Appeayl 2 U](https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U) | 3:56 |
+| 75 | [As Much as Possible](https://open.spotify.com/track/21M3Nfmqw8AZnLgFWHtskL) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [No Home of the Mind](https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA) | 5:40 |
 | 76 | [The Way You Talk](https://open.spotify.com/track/1V3wlehSbUKl0esIqL1ylB) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG) | [A Mineral Love](https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn) | 2:50 |
 | 77 | [Camille](https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 5:04 |
 | 78 | [Affection](https://open.spotify.com/track/6N2kDyz5HSGB5giAUh29YM) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Affection](https://open.spotify.com/album/7eDL9nf3cfWeuTVKEgQcc3) | 3:40 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 88 | [runnersz](https://open.spotify.com/track/33ZGlpwOQ5Wc2u6n8Lq3iZ) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 2:20 |
 | 89 | [Half Hour Verve](https://open.spotify.com/track/0ffiGkNSrTfbvkXHLz2gGk) | [Harvey Causon](https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d) | [Fourth Wall](https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei) | 4:05 |
 | 90 | [Lilith](https://open.spotify.com/track/4QcR7D7O1O7OUNVI2ICuwY) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD), [Bjork](https://open.spotify.com/artist/6xy8s41CbAZbN6skLwoPYn) | [Not For Threes](https://open.spotify.com/album/25HKkAZz1rpzQXkWSLpWZL) | 4:38 |
-| 91 | [Love In The Time Of Lexapro](https://open.spotify.com/track/2C3ssFGH4NoGIUp9YkHK2Q) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Love In The Time Of Lexapro](https://open.spotify.com/album/66KiYNDdmJ8h7KvDSwRCR0) | 4:06 |
-| 92 | [Lost At Sea \- Kelly Moran remix](https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Lost At Sea \(Kelly Moran remix\)](https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE) | 4:56 |
+| 91 | [Lost At Sea \- Kelly Moran remix](https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Lost At Sea \(Kelly Moran remix\)](https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE) | 4:56 |
+| 92 | [Love In The Time Of Lexapro](https://open.spotify.com/track/2C3ssFGH4NoGIUp9YkHK2Q) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Love In The Time Of Lexapro](https://open.spotify.com/album/66KiYNDdmJ8h7KvDSwRCR0) | 4:06 |
 | 93 | [Thru U \(feat\. Bklava\)](https://open.spotify.com/track/4VQyqfE9UjTciUHqYeVl2R) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [I Feel You Feel](https://open.spotify.com/album/0kp7hFBIN1CFuv3gIBcdDo) | 2:57 |
 | 94 | [Passing By \- 2019 remaster](https://open.spotify.com/track/4QF7VCyGrqOPpJNQc9yNWA) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [Far Away Trains Passing By](https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ) | 6:37 |
 | 95 | [FTLOG](https://open.spotify.com/track/2KirxdpyaTzzgVEcnq1u1i) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [FTLOG](https://open.spotify.com/album/5d73JRRxvRybm2a7rRt21l) | 4:07 |
 | 96 | [You're the One](https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG) | [S+C+A+R+R](https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw) | [I Lost My Body \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG) | 2:47 |
 | 97 | [I Will Make Room for You \- Four Tet Remix](https://open.spotify.com/track/0MUyYLTGossGLHTkHQH65W) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [I Will Make Room for You \(Four Tet Remix\)](https://open.spotify.com/album/6PI10ucPVSfshOfIDhGesh) | 8:17 |
 | 98 | [Talisman](https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Encores 2](https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg) | 4:02 |
-| 99 | [I Think Of You](https://open.spotify.com/track/36D5zut2til58ggxAbTFy7) | [Little annie](https://open.spotify.com/artist/4R5gmSWJOkGmGziutSalZN) | [Short And Sweet](https://open.spotify.com/album/3RjQU5PBpd46ZVVV556Xqq) | 4:53 |
-| 100 | [Permanence](https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC) | [Lomea](https://open.spotify.com/artist/5p7mJWhUVX9sTV1nr2bBsx) | [Permanence](https://open.spotify.com/album/0SkPmxCUValW4Zpy91uVz3) | 3:49 |
+| 99 | [Permanence](https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC) | [Lomea](https://open.spotify.com/artist/5p7mJWhUVX9sTV1nr2bBsx) | [Permanence](https://open.spotify.com/album/0SkPmxCUValW4Zpy91uVz3) | 3:49 |
+| 100 | [I Think Of You](https://open.spotify.com/track/36D5zut2til58ggxAbTFy7) | [Little annie](https://open.spotify.com/artist/4R5gmSWJOkGmGziutSalZN) | [Short And Sweet](https://open.spotify.com/album/3RjQU5PBpd46ZVVV556Xqq) | 4:53 |
 
-Snapshot ID: `MCw5MDhkNTQyMDgwZGZmYmE1MjQ0MzU0NzI1YzU4NDEzMzEzNDI3OTZk`
+Snapshot ID: `MCxiYjU5MTcyZTg3MTk1ODE1YmJlYTQ4M2YzNTBkZThmMDI5NTY3YTE5`

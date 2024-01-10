@@ -1,12 +1,12 @@
 {
   "description": "Bringt auch nach 16 Uhr noch ein bisschen Licht ins Dunkel.",
-  "num_followers": 1291207,
+  "num_followers": 1290526,
   "original_name": "Wintergef\u00fchle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmYwNzhmZWFiOTk1NDFlZTQ1Y2QzYzlkMTUwOWM1NDA4ZDdlODQy",
+  "snapshot_id": "MCxiNzY1MTc4YzY1YWE1NjliMjViZWNhYmYwMTM1ZjM4N2Y3ZjYwYmY2",
   "tracks": [
     {
       "added_at": "2023-12-19 17:38:44",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
-        "name": "SNAP",
-        "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 179551,
-      "name": "SNAP",
-      "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
-    },
-    {
-      "added_at": "2023-12-19 17:38:44",
-      "album": {
         "name": "RMCM",
         "url": "https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 87000,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
+    },
+    {
+      "added_at": "2023-12-19 17:38:44",
+      "album": {
+        "name": "SNAP",
+        "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
     },
     {
       "added_at": "2023-12-19 17:38:44",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
-        "name": "I Won't Be Your Foe",
-        "url": "https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 164195,
-      "name": "Maybe October",
-      "url": "https://open.spotify.com/track/2ou8EQgoiqk73toLQrEIsc"
-    },
-    {
-      "added_at": "2023-12-19 17:38:44",
-      "album": {
         "name": "Gold Rush Kid",
         "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 187682,
       "name": "Anyone For You (Tiger Lily)",
       "url": "https://open.spotify.com/track/44JSreJxvgl3CxLo5MoQL0"
+    },
+    {
+      "added_at": "2023-12-19 17:38:44",
+      "album": {
+        "name": "I Won't Be Your Foe",
+        "url": "https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 164195,
+      "name": "Maybe October",
+      "url": "https://open.spotify.com/track/2ou8EQgoiqk73toLQrEIsc"
     },
     {
       "added_at": "2023-12-19 17:38:44",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
-        "name": "vert1go vol. 1",
-        "url": "https://open.spotify.com/album/1RcfzHK44GEHSBwAH1NQeY"
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
       },
       "artists": [
         {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
         }
       ],
-      "duration_ms": 188604,
-      "name": "Into The Walls",
-      "url": "https://open.spotify.com/track/5Gdbm8oHbicLgj79HcOxtL"
+      "duration_ms": 197933,
+      "name": "Curls",
+      "url": "https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz"
     },
     {
       "added_at": "2023-12-19 17:38:44",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
+        "name": "vert1go vol. 1",
+        "url": "https://open.spotify.com/album/1RcfzHK44GEHSBwAH1NQeY"
       },
       "artists": [
         {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 197933,
-      "name": "Curls",
-      "url": "https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz"
+      "duration_ms": 188604,
+      "name": "Into The Walls",
+      "url": "https://open.spotify.com/track/5Gdbm8oHbicLgj79HcOxtL"
     },
     {
       "added_at": "2023-12-19 17:38:44",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
+        "name": "Looks Like Me",
+        "url": "https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 190527,
+      "name": "Looks Like Me",
+      "url": "https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA"
+    },
+    {
+      "added_at": "2023-12-19 17:38:44",
+      "album": {
         "name": "Head on Fire",
         "url": "https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 263349,
       "name": "Ordinary Love",
       "url": "https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp"
-    },
-    {
-      "added_at": "2023-12-19 17:38:44",
-      "album": {
-        "name": "Looks Like Me",
-        "url": "https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 190527,
-      "name": "Looks Like Me",
-      "url": "https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA"
     },
     {
       "added_at": "2023-12-19 17:38:44",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
+        "name": "Permanent Damage",
+        "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 221873,
+      "name": "It's Been a Little Heavy Lately",
+      "url": "https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S"
+    },
+    {
+      "added_at": "2023-12-19 17:38:44",
+      "album": {
         "name": "The Night We Met (feat. Phoebe Bridgers)",
         "url": "https://open.spotify.com/album/3HHHK8lGDgB9wwGXd0za9o"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 209081,
       "name": "The Night We Met (feat. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/5JVlz4JCy3cv8pZB12sKJL"
-    },
-    {
-      "added_at": "2023-12-19 17:38:44",
-      "album": {
-        "name": "Permanent Damage",
-        "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 221873,
-      "name": "It's Been a Little Heavy Lately",
-      "url": "https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S"
     },
     {
       "added_at": "2023-12-19 17:38:44",

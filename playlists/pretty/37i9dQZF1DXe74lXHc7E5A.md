@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Medikal
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,505 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,530 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 59 | [Fuck That \(feat\. ODUMODUBLVCK\) \- Remix](https://open.spotify.com/track/2sKuOOhxWpXOTDcKiTitc9) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Fuck That \(Remix\)](https://open.spotify.com/album/2ZlSnhUh40vj76xvWw0ijr) | 3:25 |
 | 60 | [Photocopy Reimagined](https://open.spotify.com/track/4JkLzZ2LUIYEZGyihLPUMM) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [9ice](https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH) | [Photocopy Reimagined](https://open.spotify.com/album/6SVFAaB0lYnMKMwsmmqZc1) | 2:18 |
 
-Snapshot ID: `MCwxOTM1NGMzYzUxN2RlM2Q5ZTQxMTM1ZGNjYTg5NTg2NWRkZTQwOTcw`
+Snapshot ID: `MCw2OWMxYTllYzdiY2I3ZGRlNjM3N2I4MGYyY2IxNjU0YWZhMmU3YzM3`

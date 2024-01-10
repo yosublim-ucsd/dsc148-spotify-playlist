@@ -1,12 +1,12 @@
 {
   "description": "Ya llegu\u00e9 de donde andaba... se me concedi\u00f3 volver \ud83d\ude4f\ud83c\udffe",
-  "num_followers": 124166,
+  "num_followers": 124303,
   "original_name": "Llegando al Rancho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDk3OTA0MGRmYmM1Y2Y0MTU5YWViNjA5YjM4ZDkwNjRmMDM3ZmFi",
+  "snapshot_id": "MCw1ZTVkNDlkMTRhYzFjYjEyOTM3MDRmY2Q3MzBiMjliMDhkNjc1ZDI4",
   "tracks": [
     {
       "added_at": "2023-08-08 23:43:12",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 140813,
+      "name": "Ven a Buscarme",
+      "url": "https://open.spotify.com/track/366vc0v9AUlaaptDDst1xn"
+    },
+    {
+      "added_at": "2023-08-08 23:43:12",
+      "album": {
         "name": "Chalino S\u00e1nchez con Banda Brava",
         "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
       },
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
-        "name": "El Chubasco",
-        "url": "https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1"
+        "name": "Por Las Calles Enlodadas",
+        "url": "https://open.spotify.com/album/5Dxgtj1Vd7vpOC5vnNrJhD"
       },
       "artists": [
         {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+          "name": "El Tigrillo Palma",
+          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
         }
       ],
-      "duration_ms": 140813,
-      "name": "Ven a Buscarme",
-      "url": "https://open.spotify.com/track/366vc0v9AUlaaptDDst1xn"
+      "duration_ms": 148573,
+      "name": "El Amor No Se Vende",
+      "url": "https://open.spotify.com/track/6kryfJVx06nofw6Z3bVUjx"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -1207,22 +1223,6 @@
       "duration_ms": 181498,
       "name": "El Diablo En Una Botella",
       "url": "https://open.spotify.com/track/24U4LRx3ez5uVOxtLNqXUj"
-    },
-    {
-      "added_at": "2023-08-08 23:43:12",
-      "album": {
-        "name": "Por Las Calles Enlodadas",
-        "url": "https://open.spotify.com/album/5Dxgtj1Vd7vpOC5vnNrJhD"
-      },
-      "artists": [
-        {
-          "name": "El Tigrillo Palma",
-          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
-        }
-      ],
-      "duration_ms": 148573,
-      "name": "El Amor No Se Vende",
-      "url": "https://open.spotify.com/track/6kryfJVx06nofw6Z3bVUjx"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -1275,22 +1275,18 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
-        "name": "Chalino S\u00e1nchez con Banda Brava",
-        "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
       },
       "artists": [
         {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Banda Brava",
-          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 196429,
-      "name": "Prenda Del Alma",
-      "url": "https://open.spotify.com/track/2wCgY4izSH5k8Dy6bUaO7H"
+      "duration_ms": 186146,
+      "name": "Esta Noche Tu Vendr\u00e1s",
+      "url": "https://open.spotify.com/track/5DeI2kjUIdG1uvNQP2feJR"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -1311,18 +1307,22 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
-        "name": "Puros \u00c9xitos",
-        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
+        "name": "Chalino S\u00e1nchez con Banda Brava",
+        "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
       },
       "artists": [
         {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Banda Brava",
+          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
         }
       ],
-      "duration_ms": 186146,
-      "name": "Esta Noche Tu Vendr\u00e1s",
-      "url": "https://open.spotify.com/track/5DeI2kjUIdG1uvNQP2feJR"
+      "duration_ms": 196429,
+      "name": "Prenda Del Alma",
+      "url": "https://open.spotify.com/track/2wCgY4izSH5k8Dy6bUaO7H"
     },
     {
       "added_at": "2023-08-08 23:43:12",

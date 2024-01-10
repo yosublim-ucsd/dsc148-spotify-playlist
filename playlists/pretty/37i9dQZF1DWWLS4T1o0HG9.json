@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 80s. Cover: The Go-Go's",
-  "num_followers": 248713,
+  "num_followers": 249017,
   "original_name": "80s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Yjc4ZDI5MmM5OGFkNTExNzA5OTUwNzBlNWQzZjQ0NDFjYzIxYTVk",
+  "snapshot_id": "MCwyNGRlNjk2ZDkzOWNmZjhjZjRkOGJjMzMxY2JiMmI4MDI2NzhiNTRj",
   "tracks": [
     {
       "added_at": "2023-01-18 21:24:22",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "Let's Dance (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 457675,
-      "name": "Let's Dance - 2018 Remaster",
-      "url": "https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ"
-    },
-    {
-      "added_at": "2023-01-18 21:24:22",
-      "album": {
         "name": "Speaking in Tongues (Deluxe Version)",
         "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 230240,
       "name": "What's Love Got to Do with It - 2015 Remaster",
       "url": "https://open.spotify.com/track/3ErsOxqe2RmXkR65wkygDz"
+    },
+    {
+      "added_at": "2023-01-18 21:24:22",
+      "album": {
+        "name": "Let's Dance (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 457675,
+      "name": "Let's Dance - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ"
     },
     {
       "added_at": "2023-01-18 21:24:22",
@@ -996,9 +996,9 @@
           "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 307306,
-      "name": "I Can't Go for That (No Can Do)",
-      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
+      "duration_ms": 217200,
+      "name": "Private Eyes",
+      "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
     },
     {
       "added_at": "2023-01-18 21:24:22",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        }
-      ],
-      "duration_ms": 185694,
-      "name": "Never Tear Us Apart",
-      "url": "https://open.spotify.com/track/1qQSRy9DjrGh3jtsSCU6B1"
-    },
-    {
-      "added_at": "2023-01-18 21:24:22",
-      "album": {
         "name": "Heartbeat City (Expanded Edition)",
         "url": "https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 184717,
       "name": "You Might Think",
       "url": "https://open.spotify.com/track/35wVRTJlUu2kDkqXFegOKt"
+    },
+    {
+      "added_at": "2023-01-18 21:24:22",
+      "album": {
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "duration_ms": 185694,
+      "name": "Never Tear Us Apart",
+      "url": "https://open.spotify.com/track/1qQSRy9DjrGh3jtsSCU6B1"
     },
     {
       "added_at": "2023-01-18 21:24:22",
@@ -1160,9 +1160,9 @@
           "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 217200,
-      "name": "Private Eyes",
-      "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
+      "duration_ms": 307306,
+      "name": "I Can't Go for That (No Can Do)",
+      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
     },
     {
       "added_at": "2023-01-18 21:24:22",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "The Cars",
-        "url": "https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq"
+        "name": "Decade",
+        "url": "https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj"
       },
       "artists": [
         {
-          "name": "The Cars",
-          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
         }
       ],
-      "duration_ms": 223253,
-      "name": "My Best Friend's Girl",
-      "url": "https://open.spotify.com/track/1SRkKyJ2JjMZgyDWC30zKv"
+      "duration_ms": 217693,
+      "name": "A View to a Kill",
+      "url": "https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27"
     },
     {
       "added_at": "2023-01-18 21:24:22",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "Decade",
-        "url": "https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj"
+        "name": "The Cars",
+        "url": "https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq"
       },
       "artists": [
         {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+          "name": "The Cars",
+          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
         }
       ],
-      "duration_ms": 217693,
-      "name": "A View to a Kill",
-      "url": "https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27"
+      "duration_ms": 223253,
+      "name": "My Best Friend's Girl",
+      "url": "https://open.spotify.com/track/1SRkKyJ2JjMZgyDWC30zKv"
     },
     {
       "added_at": "2023-01-18 21:24:22",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "Knee Deep In The Hoopla",
-        "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
-      },
-      "artists": [
-        {
-          "name": "Starship",
-          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
-        }
-      ],
-      "duration_ms": 292800,
-      "name": "Sara",
-      "url": "https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q"
-    },
-    {
-      "added_at": "2023-01-18 21:24:22",
-      "album": {
         "name": "Tommy Tutone - 2",
         "url": "https://open.spotify.com/album/7aks5lgwJAdiZLN51UjkU1"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 226200,
       "name": "867-5309 / Jenny",
       "url": "https://open.spotify.com/track/6iX1f3r7oUJnMbGgQ2gx1j"
+    },
+    {
+      "added_at": "2023-01-18 21:24:22",
+      "album": {
+        "name": "Knee Deep In The Hoopla",
+        "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
+      },
+      "artists": [
+        {
+          "name": "Starship",
+          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
+        }
+      ],
+      "duration_ms": 292800,
+      "name": "Sara",
+      "url": "https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q"
     },
     {
       "added_at": "2023-01-18 21:24:22",

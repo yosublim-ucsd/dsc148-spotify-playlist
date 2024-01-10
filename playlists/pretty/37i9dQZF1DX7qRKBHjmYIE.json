@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Jesse Baez.",
-  "num_followers": 760114,
+  "num_followers": 759137,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjA2ZjVjNjNiOGJlODc3NDVhODA3YjEyM2UzZTk5NmUxOWZhOTI4",
+  "snapshot_id": "MCwyNzU0MGEwYWI3M2E4YjQ4OGVhODk5MDczMzU4Yzk0YzRlMTI1OGFm",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Donde Est\u00e1s - Live from Spotify Green Screen",
-        "url": "https://open.spotify.com/album/7ldQ6NFWnHHiuxsbNYZWbS"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 192922,
-      "name": "Donde Est\u00e1s - Live from Spotify Green Screen",
-      "url": "https://open.spotify.com/track/6qSx2AFL9pqYPoUrbKyeY5"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Uff",
         "url": "https://open.spotify.com/album/4suyPerfUCXOFF2EGCDzsU"
       },
@@ -243,18 +227,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Palabra Prohibida",
-        "url": "https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ"
+        "name": "Donde Est\u00e1s - Live from Spotify Green Screen",
+        "url": "https://open.spotify.com/album/7ldQ6NFWnHHiuxsbNYZWbS"
       },
       "artists": [
         {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         }
       ],
-      "duration_ms": 176881,
-      "name": "Palabra Prohibida",
-      "url": "https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v"
+      "duration_ms": 192922,
+      "name": "Donde Est\u00e1s - Live from Spotify Green Screen",
+      "url": "https://open.spotify.com/track/6qSx2AFL9pqYPoUrbKyeY5"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -279,6 +263,22 @@
       "duration_ms": 175192,
       "name": "ma\u00f1ana",
       "url": "https://open.spotify.com/track/1BT8gWiMLQvN7oPQHS8RSR"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Palabra Prohibida",
+        "url": "https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 176881,
+      "name": "Palabra Prohibida",
+      "url": "https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Gualero REFF12.31",
+        "url": "https://open.spotify.com/album/17FImqLfr4kV6VhWh5fXdH"
+      },
+      "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Gualero REFF12.31",
+      "url": "https://open.spotify.com/track/2gKLtFP8HSTPfPshO0GsuM"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Papel de Burbujas",
         "url": "https://open.spotify.com/album/24Xhdsa3kUc1BRa2iA9rO5"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 191615,
       "name": "Muy lejos (feat. Ivana, Hard GZ)",
       "url": "https://open.spotify.com/track/3T8nI2IJ3rbvDBunS7Br5h"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Gualero REFF12.31",
-        "url": "https://open.spotify.com/album/17FImqLfr4kV6VhWh5fXdH"
-      },
-      "artists": [
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Gualero REFF12.31",
-      "url": "https://open.spotify.com/track/2gKLtFP8HSTPfPshO0GsuM"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "ANNA Vol1. LOS AMANTES",
-        "url": "https://open.spotify.com/album/3FBYpRzAkNEMXSqGx9N3rv"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 296250,
-      "name": "Ganadora",
-      "url": "https://open.spotify.com/track/3neJo4FkVszaL4EEt18uKR"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "seu carinho",
         "url": "https://open.spotify.com/album/3HBCoxFZoFkPQayZJD8SKh"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 159157,
       "name": "seu carinho",
       "url": "https://open.spotify.com/track/1YZM7ZwOUhHvT04rf5Bu2c"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "ANNA Vol1. LOS AMANTES",
+        "url": "https://open.spotify.com/album/3FBYpRzAkNEMXSqGx9N3rv"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 296250,
+      "name": "Ganadora",
+      "url": "https://open.spotify.com/track/3neJo4FkVszaL4EEt18uKR"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -751,18 +751,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Venus & Blue",
-        "url": "https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1"
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117"
       },
       "artists": [
         {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        },
+        {
+          "name": "mori",
+          "url": "https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX"
         }
       ],
-      "duration_ms": 190679,
-      "name": "Llorar",
-      "url": "https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI"
+      "duration_ms": 203999,
+      "name": "WCID?",
+      "url": "https://open.spotify.com/track/4mwQi413D8omgjFXRnaA4u"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -783,22 +787,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "SUPERNOVA",
-        "url": "https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117"
+        "name": "Venus & Blue",
+        "url": "https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1"
       },
       "artists": [
         {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        },
-        {
-          "name": "mori",
-          "url": "https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX"
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
         }
       ],
-      "duration_ms": 203999,
-      "name": "WCID?",
-      "url": "https://open.spotify.com/track/4mwQi413D8omgjFXRnaA4u"
+      "duration_ms": 190679,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Mi\u00e9nteme",
-        "url": "https://open.spotify.com/album/1LVpA6huMFTyjyplx8tQgD"
-      },
-      "artists": [
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        }
-      ],
-      "duration_ms": 158643,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/2Ach6TMHHih48PYNszSQzP"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Una Vida",
         "url": "https://open.spotify.com/album/3adxFEMsq25Adf8bHWX4rL"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 244856,
       "name": "Una Vida",
       "url": "https://open.spotify.com/track/1Q4kVMA8OnbVVuq0kQMYRv"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/1LVpA6huMFTyjyplx8tQgD"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "duration_ms": 158643,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/2Ach6TMHHih48PYNszSQzP"
     },
     {
       "added_at": "2024-01-05 05:00:00",

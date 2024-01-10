@@ -4,7 +4,7 @@
 
 > Deep sounds of liquid drum & bass to keep you in the flow.
 
-118 songs - 9 hr 28 min
+119 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,13 +72,13 @@
 | [Little Bit Lighter \- Instrumental](https://open.spotify.com/track/00YzhjbTJZQTLRLsLkz6EN) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w), [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Little Bit Lighter](https://open.spotify.com/album/3D4IyukD6DshNfxvrNJxVh) | 4:32 | 2022-11-30 |  |
 | [Looking at the Clock](https://open.spotify.com/track/4ks74MQukyBUsPJphTEo8g) | [Ruzer](https://open.spotify.com/artist/09mAGI8RIblTO46vN2FQaq) | [Sawtooths](https://open.spotify.com/album/6B83958Cy542YGq5cX1lTw) | 3:19 | 2023-02-01 |  |
 | [Losing my soul \- Original Mix](https://open.spotify.com/track/0UMr7sXDttPzFG1qVuTIBs) | [Monty](https://open.spotify.com/artist/2w5c2l70mYNDdSLifFyZjJ) | [Modern Soul 3 LP](https://open.spotify.com/album/69uFpVWTZxpdz9BTHRwFcv) | 5:14 | 2022-11-30 |  |
-| [Lost \- Pola & Bryson Remix](https://open.spotify.com/track/7uI90KliRDd8egscd650jj) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Lost \(Pola & Bryson Remix\)](https://open.spotify.com/album/5VgTlXbwBgqQgfQX7Pwdpn) | 5:36 | 2022-11-30 |  |
+| [Lost \- Pola & Bryson Remix](https://open.spotify.com/track/7uI90KliRDd8egscd650jj) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Lost \(Pola & Bryson Remix\)](https://open.spotify.com/album/5VgTlXbwBgqQgfQX7Pwdpn) | 5:36 | 2022-11-30 | 2024-01-10 |
 | [Magnetic](https://open.spotify.com/track/3HjRaXVmPDawlKmRtH5pTA) | [Sustance](https://open.spotify.com/artist/3069G1J62ioGObj518Umm2) | [Magnetic](https://open.spotify.com/album/74zXp1spwIlWwm5rGOffjq) | 3:46 | 2023-05-19 |  |
 | [Memories of Us](https://open.spotify.com/track/0IQPNwi9n8DZdCURmokB3F) | [Yakkan](https://open.spotify.com/artist/7sC8QEM8NC6XmIC59a5kcz) | [Memories of Us](https://open.spotify.com/album/4CvBSIopVSEkw9SOuLYDNF) | 3:29 | 2023-12-12 |  |
 | [Minimal](https://open.spotify.com/track/4nQ6FKHEX4YnZCvfAjQwYG) | [Surreal](https://open.spotify.com/artist/5uWvpdaxp81vUjmd1ZyB2q) | [Signal EP](https://open.spotify.com/album/1RC36wrWedNH6KAr8dvTfy) | 4:35 | 2022-11-30 |  |
 | [Misty](https://open.spotify.com/track/1AFqQtfrQ0VMLeZxrSPrfM) | [Lenzman](https://open.spotify.com/artist/4IKdJSimREJMIKDfvYvJHF) | [Bobby](https://open.spotify.com/album/3pQni96ENZH1JtBXAmOgZ1) | 4:53 | 2022-11-30 |  |
-| [Move On](https://open.spotify.com/track/7FbeLqRaDdLJrCk2P5XWHX) | [Fluidity](https://open.spotify.com/artist/2DnD2184WMkwsUO9BJUnmS) | [Deeper Vibe \- EP](https://open.spotify.com/album/34kmVOEBV2gjnayjnTSwyv) | 6:16 | 2023-06-30 |  |
-| [Mr Right On \- Remastered](https://open.spotify.com/track/0oQDVQygGLhYhEUTb15XjP) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Carry Me Away / Mr Right On](https://open.spotify.com/album/7qgQhIJD5TtcmpCmT0NOaj) | 5:19 | 2022-11-30 |  |
+| [Move On](https://open.spotify.com/track/7FbeLqRaDdLJrCk2P5XWHX) | [Fluidity](https://open.spotify.com/artist/2DnD2184WMkwsUO9BJUnmS) | [Deeper Vibe \- EP](https://open.spotify.com/album/34kmVOEBV2gjnayjnTSwyv) | 6:16 | 2023-06-30 | 2024-01-10 |
+| [Mr Right On \- Remastered](https://open.spotify.com/track/0oQDVQygGLhYhEUTb15XjP) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Carry Me Away / Mr Right On](https://open.spotify.com/album/7qgQhIJD5TtcmpCmT0NOaj) | 5:19 | 2022-11-30 | 2024-01-10 |
 | [Next To You](https://open.spotify.com/track/3rZWotUE5DblXDmcaKynxE) | [Redeyes](https://open.spotify.com/artist/6bFVG82TmMLbnFFBqG9LYa) | [Unfinished Theory](https://open.spotify.com/album/2AnIF4KVlVM6RY8WuzSPgn) | 4:16 | 2022-11-30 |  |
 | [Night](https://open.spotify.com/track/2oo1yQzULJz4jcaL0Ncipb) | [Eloran](https://open.spotify.com/artist/1fq90SLAmXXuNCRqVjM48b) | [Night](https://open.spotify.com/album/6EmnaVIQ99hVSlSTxGQ7OD) | 3:33 | 2023-08-25 |  |
 | [Noplace](https://open.spotify.com/track/1aAEZKKjtCcV4ghd2aXmEz) | [Jake and Jake](https://open.spotify.com/artist/7mWxGDIMAJ2HhVKomW0C55) | [Liquid Air](https://open.spotify.com/album/4hiQgffYfQsnjf2BHAx6dS) | 3:57 | 2023-11-30 |  |
@@ -86,11 +86,12 @@
 | [Nothin But Love \- Original Mix](https://open.spotify.com/track/5rtGhin74wxFojrPqgTpdY) | [Dave Owen](https://open.spotify.com/artist/4YtxzfRdAhFuhylm1O3gYn) | [Nothin But Love](https://open.spotify.com/album/40C9wHFoQ09IPM4Nw0jUon) | 6:40 | 2022-11-30 |  |
 | [Nothing Remains](https://open.spotify.com/track/4TJYeiZ1jPpEwpsn4DXkJc) | [DJ Eely](https://open.spotify.com/artist/1pWq7WE6SgN6KxOFXD3w80) | [Nothing Remains](https://open.spotify.com/album/2alTN2IjDGsAF8qum8zrls) | 5:22 | 2023-08-25 |  |
 | [On Leave](https://open.spotify.com/track/7swq3PazbVQnfvPtxzOrjf) | [Joel Rampage](https://open.spotify.com/artist/26Pc0Rk8c6QKuskiME4F3E) | [On Leave](https://open.spotify.com/album/4yy1TDhhyNFGKejWxKzlqb) | 3:32 | 2023-09-15 |  |
-| [On Point](https://open.spotify.com/track/6KdhwAz3XcqOzYWJssztU4) | [Flat Theory](https://open.spotify.com/artist/3k6SzkCWTXo1qxW7OX1wC1) | [On Point](https://open.spotify.com/album/0lsHQofOsxF1m1UWiNtq8D) | 3:23 | 2023-04-13 |  |
+| [On Point](https://open.spotify.com/track/6KdhwAz3XcqOzYWJssztU4) | [Flat Theory](https://open.spotify.com/artist/3k6SzkCWTXo1qxW7OX1wC1) | [On Point](https://open.spotify.com/album/0lsHQofOsxF1m1UWiNtq8D) | 3:23 | 2023-04-13 | 2024-01-10 |
 | [One](https://open.spotify.com/track/4zap6P1HLUlnZzK1aArQlI) | [Rayo Z](https://open.spotify.com/artist/6iBDil4w5ORJJb9Rd8qjAS) | [One](https://open.spotify.com/album/6KhZNTWMquw6XbZfDFHFJ4) | 3:25 | 2023-04-11 |  |
 | [One Thunder \(Different Drums Version\)](https://open.spotify.com/track/3mId35oszFyZoraEkjQUdy) | [Thing](https://open.spotify.com/artist/6SovQYzixv3B3M1HWjbdLS) | [One Thunder](https://open.spotify.com/album/0OMDLmJXkOCZoUiVjffCrj) | 3:43 | 2023-11-15 |  |
 | [Only Ever Kind](https://open.spotify.com/track/03hCREcMFPPTcEUE8slTUX) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [Deep News](https://open.spotify.com/album/5Eczut7zUztAYsibkrIFE6) | 4:58 | 2022-11-30 | 2023-12-17 |
 | [Only Ever Kind](https://open.spotify.com/track/17DkbezyxnABF5YBMUR4xW) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [Deep News](https://open.spotify.com/album/3eWZOeJh1ksdf8HPdKi5aG) | 4:58 | 2023-02-14 |  |
+| [Orchid](https://open.spotify.com/track/23tjbvbp0TNHiHTU3eiUC0) | [Maykors](https://open.spotify.com/artist/6Y72enwzZuQkCQtvLNv3HV), [Pharelia](https://open.spotify.com/artist/1KwDKto1XbOuJnXJhX5amJ) | [Orchid EP](https://open.spotify.com/album/5YADdkn1VAiZyyWoa99Yyv) | 4:57 | 2024-01-09 |  |
 | [Oxytocin](https://open.spotify.com/track/1aJmo7gr3r4EgdLyTHFGhF) | [T\-Shirts & Sweats](https://open.spotify.com/artist/0FcaySiOfyoo0GzdrWsiVD) | [Oxytocin / Prodigal](https://open.spotify.com/album/57mZsjST2kOcYochTI19D3) | 5:05 | 2023-04-13 |  |
 | [Recollection](https://open.spotify.com/track/6qE2iQsG1mAdzQWeXzpszr) | [Gerra & Stone](https://open.spotify.com/artist/7rCF3znBFGHIJix1RLFyWF) | [Pathfinder \- EP](https://open.spotify.com/album/7eqMmc53M8bxtTRvBN90kQ) | 4:33 | 2022-11-30 |  |
 | [Recollection](https://open.spotify.com/track/51RQWDo2qhcL0py5n916hi) | [Rocket Jr](https://open.spotify.com/artist/6OGkTrVt13n4C075wLe17B) | [Crying on the Way Home](https://open.spotify.com/album/03HOXmFMDN2HFkbrt9kmqj) | 3:01 | 2023-07-26 |  |
@@ -121,10 +122,10 @@
 | [Ubiquitous](https://open.spotify.com/track/4U8ltC3h5mytL6jwSRnP8i) | [Phaction](https://open.spotify.com/artist/33CVzI4YFK6YBZsuxjKhHR) | [Ubiquitous \- EP](https://open.spotify.com/album/1An7AbyWhoU1ZdX74ykPge) | 5:14 | 2022-11-30 |  |
 | [Vivid Vibes](https://open.spotify.com/track/2TW12PMlCXbnWHTuNxxqTw) | [Floatational](https://open.spotify.com/artist/0n71HQhO8y90tbTIQzVRHY) | [Vivid Vibes](https://open.spotify.com/album/3IYhlB1VWARl3caQX12eNq) | 2:37 | 2023-08-25 |  |
 | [Voice Note](https://open.spotify.com/track/20UKA9nmDp3T2v6GhiCoq5) | [Geguri](https://open.spotify.com/artist/4lAapgqEcBAmv4qqwAGUbL) | [Voice Note](https://open.spotify.com/album/3Dz2xO0au2kRCUFlcgczEr) | 4:21 | 2023-12-12 |  |
-| [Watercolours](https://open.spotify.com/track/2pwMhToDEJRk2fOFLVox28) | [Nu:Logic](https://open.spotify.com/artist/5pL8Q5xbDLEDE6JvYMXX9u) | [Hospitality 2016](https://open.spotify.com/album/3YHpgFDlaJjSFZczWUKJFh) | 5:36 | 2023-02-14 |  |
+| [Watercolours](https://open.spotify.com/track/2pwMhToDEJRk2fOFLVox28) | [Nu:Logic](https://open.spotify.com/artist/5pL8Q5xbDLEDE6JvYMXX9u) | [Hospitality 2016](https://open.spotify.com/album/3YHpgFDlaJjSFZczWUKJFh) | 5:36 | 2023-02-14 | 2024-01-10 |
 | [Watercolours](https://open.spotify.com/track/36C8hUGIuj1P9IARALVfUn) | [Nu:Logic](https://open.spotify.com/artist/5pL8Q5xbDLEDE6JvYMXX9u) | [Hospitality 2016](https://open.spotify.com/album/5YjeFnZfs3rck35FhyEOH6) | 5:36 | 2022-12-22 | 2023-11-16 |
 | [What You Say](https://open.spotify.com/track/2GufTqv5cwxqf80TJH69Ql) | [L\-Side](https://open.spotify.com/artist/3Y59xKAazzqr4AwzF6LYfR) | [DJ Patife Presents Viva Brazil: Sunandbass Sessions](https://open.spotify.com/album/1cbUibBHqT8u2s8ODPc5Ui) | 6:31 | 2022-12-22 |  |
 | [Worlds Collide](https://open.spotify.com/track/11Alc9FJ2wKiQZTLRaGAUo) | [Majestim](https://open.spotify.com/artist/7HrLNnTdr56RZtL9F0nXiN) | [Worlds Collide](https://open.spotify.com/album/7zhgsvgi540XOnWLExWttb) | 4:55 | 2022-11-30 |  |
-| [You Are Everything](https://open.spotify.com/track/1QMcZoJxMGvX7dv06wiiXn) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Freedom II](https://open.spotify.com/album/019A0dE0Oox1t0swxjFaoF) | 5:45 | 2023-06-13 |  |
+| [You Are Everything](https://open.spotify.com/track/1QMcZoJxMGvX7dv06wiiXn) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Freedom II](https://open.spotify.com/album/019A0dE0Oox1t0swxjFaoF) | 5:45 | 2023-06-13 | 2024-01-10 |
 
 \*This playlist was first scraped on 2023-02-08. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFNsuSPMFRwX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6qlZhVcPgV2bWXdUuEDoST">Ink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249 likes - 32 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 250 likes - 32 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFNsuSPMFRwX.md) - [plain]
 | 6 | [Real Hitta](https://open.spotify.com/track/2fV5eoefzQlpRBpIGiRbeo) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j) | [FEMA \(Finesse Elevate Motivate Achieve\)](https://open.spotify.com/album/1mUwtBhnrDj0dkwnEjhOj0) | 3:51 |
 | 7 | [Back To Love](https://open.spotify.com/track/5ieTob4Bbn9DF97YakQUO9) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Back To Love \(Official Video\)](https://open.spotify.com/album/3QnR1AJ8ejS2E9RRTnaW62) | 4:54 |
 | 8 | [Steam](https://open.spotify.com/track/0JhOWLV0il0wcoyOr2kaCx) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:23 |
-| 9 | [Traumada](https://open.spotify.com/track/0fMQSHQBLUNHgBPofQyeGt) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Traumada \(Official Video\)](https://open.spotify.com/album/33qJKxx7ICKDtAbcmqGhlr) | 2:36 |
+| 9 | [Traumada](https://open.spotify.com/track/7MIkwVS7Wm1vYTEoDPsyVS) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:27 |
 | 10 | [Higher Place](https://open.spotify.com/track/6jQB97LaIftgb81KhkisXl) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:23 |
 | 11 | [Sho Nuff](https://open.spotify.com/track/7BGgytgNrpGXHh00yzOHGx) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:07 |
 | 12 | [Made It from Nothing \(feat\. Teyana Taylor and Rick Ross\)](https://open.spotify.com/track/7yGJcaSJgpgXamjmXBCb6j) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Wins & Losses](https://open.spotify.com/album/2SCQAZZ5pc90l9SPBsWCIQ) | 4:09 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFNsuSPMFRwX.md) - [plain]
 | 31 | [Now & Then](https://open.spotify.com/track/4zj8zdzgK2bvRpK11kbWtp) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:29 |
 | 32 | [Before You Enter My Soul](https://open.spotify.com/track/5y0lEABp85Esv9bYUE5CvT) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:42 |
 
-Snapshot ID: `Mjg0MTI4NDQsMDAwMDAwMDA0NWY4OTg5MTRhNWQ5NmM1MzQ2MGJmYjBmYmFjMTA4ZQ==`
+Snapshot ID: `Mjg0MTQyMjAsMDAwMDAwMDA4ZDEyNWVhMGE4ZGNkYWIwNDM0ZGEyYmVhNjFmMmI4ZQ==`

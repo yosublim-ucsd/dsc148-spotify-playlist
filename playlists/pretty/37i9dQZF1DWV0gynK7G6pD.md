@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Ludovico Einaudi
 
-[Spotify](https://open.spotify.com/user/spotify) - 706,043 likes - 62 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,493 likes - 62 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 61 | [Parlami di me \- From "La Dolce Vita", Arr\. for Cello and Piano](https://open.spotify.com/track/3BMOpC4NdAb2im8iaLjBY2) | [Fulvia Mancini](https://open.spotify.com/artist/4vK74pmhEUtTcwbXqo6aLY), [Jonathan Floril](https://open.spotify.com/artist/2QJUwWM7ZzdnKEvsrdN0GH) | [Parlami di me \(From "La Dolce Vita", Arr\. for Cello and Piano\)](https://open.spotify.com/album/6aOrG7zELNz4W2mIgoooc9) | 2:36 |
 | 62 | [Sonata for Violin and Piano: I\. Allegro](https://open.spotify.com/track/48IzvmYhud0Tm60noUvYyi) | [John Corigliano](https://open.spotify.com/artist/0aHSAeZ39EVErXuOjm2XDR), [Usha Kapoor](https://open.spotify.com/artist/1AEfNhDdkqZV3FvP1LicO2), [Edward Leung](https://open.spotify.com/artist/1NKL9crNF6xPiXHougvOnv) | [Sonata for Violin and Piano: I\. Allegro](https://open.spotify.com/album/7ESTRc4D2OJYRK00uU1yPH) | 2:55 |
 
-Snapshot ID: `MCwyZjJkMTJlOWZhYjBlNzM5NTg1MTEzNzdhZDIwYzI4ODFmNzU3ZGM5`
+Snapshot ID: `MCwwOGFjYzg3YzU0NGYxZTY5ZTQyZjc3MDI4Zjc3ZWY2ZjNiZGU2NzJl`

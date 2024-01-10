@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8PyyhnKCan.md) - [plain]
 
 > Best VOCALOID Songs in 2023! 2023年の<a href="https://open.spotify.com/playlist/37i9dQZF1DX4OQqDGyEiDU?si=eeff84f267c74f49">君が生きてなくてよかった</a>総まとめ！今年君が生きてなくてよかったで再生された楽曲別ベスト100 ! <a href="https://twitter.com/hashtag/Spotify%E3%81%BE%E3%81%A8%E3%82%81?src=hashtag\_click">\#Spotifyまとめ</a> cover: Kanaria
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,036 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,107 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8PyyhnKCan.md) - [plain]
 | 28 | [花に風](https://open.spotify.com/track/3SOSqAmO4m7rzC2zbnqwU6) | [balloon](https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva) | [花に風](https://open.spotify.com/album/6CX95AR2aAuJbByiQycxGA) | 3:45 |
 | 29 | [エゴロック \- long ver.](https://open.spotify.com/track/2FRMwFXODegegRrfLAeVwx) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [エゴロック \(long ver.\)](https://open.spotify.com/album/3jFaq0Sz9TBllBvn8Mu8GQ) | 2:49 |
 | 30 | [BUG](https://open.spotify.com/track/1fqfev7K0mfX7e1W64pDvA) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE) | [BUG](https://open.spotify.com/album/04BZd03CZ9HuiiZBWDcp1J) | 2:51 |
-| 31 | [ハナタバ](https://open.spotify.com/track/3R3JSXXyr2smZGP2xamRjy) | [MIMI](https://open.spotify.com/artist/3wjHre7Ny1iXkW5XNgzX8s) | [よるつむぎ](https://open.spotify.com/album/4dZw65evulj7MRAL7RArdd) | 2:28 |
+| 31 | [ハナタバ](https://open.spotify.com/track/3R3JSXXyr2smZGP2xamRjy) | [MIMI](https://open.spotify.com/artist/7EuEZrjIoRurVFLtItafTA) | [よるつむぎ](https://open.spotify.com/album/4dZw65evulj7MRAL7RArdd) | 2:28 |
 | 32 | [新人類](https://open.spotify.com/track/66eh1jfnyg3PM6iPDad1zM) | [Marasy](https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV), [鏡音リン](https://open.spotify.com/artist/50sbi4xBlZS6PS1ggRjAZf) | [アマツキツネ 10th Anniversary](https://open.spotify.com/album/2F9Eqa2CmMoNWsMcJJCGFQ) | 2:38 |
 | 33 | [HITO Mania](https://open.spotify.com/track/5m9rwQVcChWF3TsKXlJfgE) | [Sasuke Haraguchi](https://open.spotify.com/artist/0lpGYhSy3qM3uvWAYF4fTf) | [HITO Mania](https://open.spotify.com/album/0oHrJBLx50GEEpYmnw6rEt) | 2:07 |
 | 34 | [脳漿炸裂ガール 2015ver.](https://open.spotify.com/track/0ASw64KfzSUtChQDfzC906) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [厨病激発ボーイ](https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8PyyhnKCan.md) - [plain]
 | 99 | [風](https://open.spotify.com/track/1RxzjktxVMDKRjPR3OqbU4) | [Guiano](https://open.spotify.com/artist/1gIxoB0mBUoPr7rPyy31xf) | [花鳥風月](https://open.spotify.com/album/3McRo26jqaK4vZ36db3aso) | 2:59 |
 | 100 | [水死体は恋したい](https://open.spotify.com/track/0t9X7vdypTC2niY0GA9DBW) | [LonePi](https://open.spotify.com/artist/0FtyTvAiyb0IS8qTfGOaxb) | [水死体は恋したい](https://open.spotify.com/album/2K4FoBm3Sx9NBKOF9z0pX7) | 3:05 |
 
-Snapshot ID: `MCwwYjFlYTUxZmE3NjM1ZjMyZDYyNzk4NTE2Yjk5YjhiOTZlYzFmM2Y4`
+Snapshot ID: `MCw1ODcyYjQwMzYzMTQ0NjgxNmQ5MjRmMzdiM2M1NzViYmJhZTc1NmJl`

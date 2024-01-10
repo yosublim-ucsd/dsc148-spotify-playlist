@@ -1,12 +1,12 @@
 {
   "description": "Music to help you concentrate during your homework.",
-  "num_followers": 103696,
+  "num_followers": 103656,
   "original_name": "Piano Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGNhMWZiMGZkOTBkOTkxMmNjMjhmNDUzNTkyZDQyNjJjMmU4ZDY1",
+  "snapshot_id": "MCxmODZjODA0NTQ0MzgyMmYzNGE3ODYyN2U1OWRlMzdkODcwMjViYjY0",
   "tracks": [
     {
       "added_at": "2023-03-12 10:18:38",
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "The Greek",
-        "url": "https://open.spotify.com/album/5KK54vaBmGiVmnggSiXPgb"
+        "name": "Ambrosia (Official Soundtrack)",
+        "url": "https://open.spotify.com/album/0I5YQc4ZWo2sraMUEHgjcU"
       },
       "artists": [
         {
-          "name": "Miguel P\u00e9rez",
-          "url": "https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8"
+          "name": "Rhiannon Bannenberg",
+          "url": "https://open.spotify.com/artist/5gXJLUsp1nn6OPYnXczUHy"
         }
       ],
-      "duration_ms": 164999,
-      "name": "The Greek",
-      "url": "https://open.spotify.com/track/6sMS6Z4qcxbtaF22plJzaM"
+      "duration_ms": 96500,
+      "name": "For Stormboy",
+      "url": "https://open.spotify.com/track/1gLbbnyTOnx6LrCQ87c0gp"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Ambrosia (Official Soundtrack)",
-        "url": "https://open.spotify.com/album/0I5YQc4ZWo2sraMUEHgjcU"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Bannenberg",
-          "url": "https://open.spotify.com/artist/5gXJLUsp1nn6OPYnXczUHy"
-        }
-      ],
-      "duration_ms": 96500,
-      "name": "For Stormboy",
-      "url": "https://open.spotify.com/track/1gLbbnyTOnx6LrCQ87c0gp"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Wintermusik",
         "url": "https://open.spotify.com/album/7wkQV8xvauPFBG2xC3pawK"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 227184,
       "name": "Ambre",
       "url": "https://open.spotify.com/track/25zykbJGBYXYjnq5VyhO3N"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "The Greek",
+        "url": "https://open.spotify.com/album/5KK54vaBmGiVmnggSiXPgb"
+      },
+      "artists": [
+        {
+          "name": "Miguel P\u00e9rez",
+          "url": "https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8"
+        }
+      ],
+      "duration_ms": 164999,
+      "name": "The Greek",
+      "url": "https://open.spotify.com/track/6sMS6Z4qcxbtaF22plJzaM"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "White Garden",
-        "url": "https://open.spotify.com/album/05mABAcwfXvUFCzlfm2aCJ"
-      },
-      "artists": [
-        {
-          "name": "Amine Ayad",
-          "url": "https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM"
-        }
-      ],
-      "duration_ms": 126517,
-      "name": "White Garden",
-      "url": "https://open.spotify.com/track/7odH627CfIdqmlV0M7HeWb"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Solipsism",
         "url": "https://open.spotify.com/album/2BGvT97OGSAivOsOb5PzMa"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 345800,
       "name": "Midwayer",
       "url": "https://open.spotify.com/track/6gLsyO69WqFXUYJK5mCaOt"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "White Garden",
+        "url": "https://open.spotify.com/album/05mABAcwfXvUFCzlfm2aCJ"
+      },
+      "artists": [
+        {
+          "name": "Amine Ayad",
+          "url": "https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM"
+        }
+      ],
+      "duration_ms": 126517,
+      "name": "White Garden",
+      "url": "https://open.spotify.com/track/7odH627CfIdqmlV0M7HeWb"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Adesso",
-        "url": "https://open.spotify.com/album/33kzMmushokneJ49TH7O7K"
-      },
-      "artists": [
-        {
-          "name": "Carluccio",
-          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Adesso",
-      "url": "https://open.spotify.com/track/0t0X7v3Qcq7wMviNjWaWDO"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Box of Memories",
         "url": "https://open.spotify.com/album/2ixLdAPGlXOSH0Qu8cAFgZ"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 162160,
       "name": "Box of Memories",
       "url": "https://open.spotify.com/track/0I9HIOTtaXrX968btEa3DA"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Adesso",
+        "url": "https://open.spotify.com/album/33kzMmushokneJ49TH7O7K"
+      },
+      "artists": [
+        {
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Adesso",
+      "url": "https://open.spotify.com/track/0t0X7v3Qcq7wMviNjWaWDO"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "A Letter Home",
-        "url": "https://open.spotify.com/album/2Qb9ubcV8RtJoyaNGcE4nV"
-      },
-      "artists": [
-        {
-          "name": "Berlioz",
-          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
-        }
-      ],
-      "duration_ms": 139500,
-      "name": "A Letter Home",
-      "url": "https://open.spotify.com/track/5CG4KWy5qqSnv62DmMjTrH"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "October",
         "url": "https://open.spotify.com/album/3csL43PsskrOpVuXSRTw91"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 119726,
       "name": "The Winding Paths",
       "url": "https://open.spotify.com/track/5VceRZmSDeW6y7ipxiwOvK"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "A Letter Home",
+        "url": "https://open.spotify.com/album/2Qb9ubcV8RtJoyaNGcE4nV"
+      },
+      "artists": [
+        {
+          "name": "Berlioz",
+          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
+        }
+      ],
+      "duration_ms": 139500,
+      "name": "A Letter Home",
+      "url": "https://open.spotify.com/track/5CG4KWy5qqSnv62DmMjTrH"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Omoidasu",
-        "url": "https://open.spotify.com/album/5KtFsugTZqWZswMzl70YfD"
-      },
-      "artists": [
-        {
-          "name": "Crimson Memoirs",
-          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
-        }
-      ],
-      "duration_ms": 117892,
-      "name": "Omoidasu",
-      "url": "https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Dolce",
         "url": "https://open.spotify.com/album/7GKZUq1a6RjmM2SHRqotMv"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 143011,
       "name": "Dolce",
       "url": "https://open.spotify.com/track/44e6QZtPPxu2OXO1AkEYMf"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Omoidasu",
+        "url": "https://open.spotify.com/album/5KtFsugTZqWZswMzl70YfD"
+      },
+      "artists": [
+        {
+          "name": "Crimson Memoirs",
+          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
+        }
+      ],
+      "duration_ms": 117892,
+      "name": "Omoidasu",
+      "url": "https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Before We Met",
-        "url": "https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ"
-      },
-      "artists": [
-        {
-          "name": "Minik Jakobsen",
-          "url": "https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe"
-        }
-      ],
-      "duration_ms": 113285,
-      "name": "Before We Met",
-      "url": "https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Petals",
         "url": "https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 157979,
       "name": "Petals",
       "url": "https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Before We Met",
+        "url": "https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ"
+      },
+      "artists": [
+        {
+          "name": "Minik Jakobsen",
+          "url": "https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe"
+        }
+      ],
+      "duration_ms": 113285,
+      "name": "Before We Met",
+      "url": "https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/0qlURxpEPDS25Wg74IAoeC"
+      },
+      "artists": [
+        {
+          "name": "Aron Edwards",
+          "url": "https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W"
+        }
+      ],
+      "duration_ms": 147874,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/4jG0jO5ggIh1KLT1GKJeYo"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/3udJn7VqPSEv07WhZJ9x1P"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 164719,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/2i84Ikz9GSlL02qdOQWf8e"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/0qlURxpEPDS25Wg74IAoeC"
-      },
-      "artists": [
-        {
-          "name": "Aron Edwards",
-          "url": "https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W"
-        }
-      ],
-      "duration_ms": 147874,
-      "name": "Eden",
-      "url": "https://open.spotify.com/track/4jG0jO5ggIh1KLT1GKJeYo"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1175,70 +1175,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Pensierino",
-        "url": "https://open.spotify.com/album/4EpQQNXnD33xDH6Oaw6T8q"
-      },
-      "artists": [
-        {
-          "name": "Maura Bellucci",
-          "url": "https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW"
-        }
-      ],
-      "duration_ms": 149500,
-      "name": "Pensierino",
-      "url": "https://open.spotify.com/track/2r4aYjCB1TuQXVgRIPb3Oe"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Ripples on a Pond",
-        "url": "https://open.spotify.com/album/2VNrWdvo3fG7HcQPOk5ZmX"
-      },
-      "artists": [
-        {
-          "name": "Jonas Holmes",
-          "url": "https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl"
-        }
-      ],
-      "duration_ms": 96500,
-      "name": "As The Crow Flies",
-      "url": "https://open.spotify.com/track/3Tny1IsUZeQyXJEwrzSYSp"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Compromise",
-        "url": "https://open.spotify.com/album/7r0yb6MxfuZ463XY9Qrvvo"
-      },
-      "artists": [
-        {
-          "name": "Chris Snelling",
-          "url": "https://open.spotify.com/artist/25ZHGX152rBqWlYA9C2iVp"
-        }
-      ],
-      "duration_ms": 151784,
-      "name": "Compromise",
-      "url": "https://open.spotify.com/track/7kymECxyr5OUG87vGN1vB2"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Seasons Changing",
-        "url": "https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu"
-      },
-      "artists": [
-        {
-          "name": "Charles Bolt",
-          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
-        }
-      ],
-      "duration_ms": 119080,
-      "name": "The Great Plains Hymn",
-      "url": "https://open.spotify.com/track/0hdtz1o1UYIvQJmAdqGHL1"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "50 Masterworks - Arthur Rubinstein",
         "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
       },
@@ -1259,18 +1195,66 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Unyielding Faith",
-        "url": "https://open.spotify.com/album/29ZDRjpFRwS7waC0djMgPp"
+        "name": "Seasons Changing",
+        "url": "https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu"
       },
       "artists": [
         {
-          "name": "Leisel Walker",
-          "url": "https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou"
+          "name": "Charles Bolt",
+          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Unyielding Faith",
-      "url": "https://open.spotify.com/track/4sOJSA5LPjdT1gfrcQL3sQ"
+      "duration_ms": 119080,
+      "name": "The Great Plains Hymn",
+      "url": "https://open.spotify.com/track/0hdtz1o1UYIvQJmAdqGHL1"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Ripples on a Pond",
+        "url": "https://open.spotify.com/album/2VNrWdvo3fG7HcQPOk5ZmX"
+      },
+      "artists": [
+        {
+          "name": "Jonas Holmes",
+          "url": "https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl"
+        }
+      ],
+      "duration_ms": 96500,
+      "name": "As The Crow Flies",
+      "url": "https://open.spotify.com/track/3Tny1IsUZeQyXJEwrzSYSp"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Pensierino",
+        "url": "https://open.spotify.com/album/4EpQQNXnD33xDH6Oaw6T8q"
+      },
+      "artists": [
+        {
+          "name": "Maura Bellucci",
+          "url": "https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW"
+        }
+      ],
+      "duration_ms": 149500,
+      "name": "Pensierino",
+      "url": "https://open.spotify.com/track/2r4aYjCB1TuQXVgRIPb3Oe"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Compromise",
+        "url": "https://open.spotify.com/album/7r0yb6MxfuZ463XY9Qrvvo"
+      },
+      "artists": [
+        {
+          "name": "Chris Snelling",
+          "url": "https://open.spotify.com/artist/25ZHGX152rBqWlYA9C2iVp"
+        }
+      ],
+      "duration_ms": 151784,
+      "name": "Compromise",
+      "url": "https://open.spotify.com/track/7kymECxyr5OUG87vGN1vB2"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1287,6 +1271,22 @@
       "duration_ms": 216023,
       "name": "Amorzinho - Piano Version",
       "url": "https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Unyielding Faith",
+        "url": "https://open.spotify.com/album/29ZDRjpFRwS7waC0djMgPp"
+      },
+      "artists": [
+        {
+          "name": "Leisel Walker",
+          "url": "https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Unyielding Faith",
+      "url": "https://open.spotify.com/track/4sOJSA5LPjdT1gfrcQL3sQ"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "The Ember",
-        "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
-      },
-      "artists": [
-        {
-          "name": "Albie Monroy",
-          "url": "https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT"
-        }
-      ],
-      "duration_ms": 198298,
-      "name": "Trail of Light",
-      "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Silentium",
         "url": "https://open.spotify.com/album/5hy969sJ3PHIXTBtlLEY1d"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 141342,
       "name": "Silentium",
       "url": "https://open.spotify.com/track/3fyrhR9Wup3zvKnAhwkS2k"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "The Ember",
+        "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
+      },
+      "artists": [
+        {
+          "name": "Albie Monroy",
+          "url": "https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT"
+        }
+      ],
+      "duration_ms": 198298,
+      "name": "Trail of Light",
+      "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Snowed In",
-        "url": "https://open.spotify.com/album/0kKMS7wWm7xonBa1Zf133X"
+        "name": "Kardelen",
+        "url": "https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8"
       },
       "artists": [
         {
-          "name": "Treman",
-          "url": "https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP"
+          "name": "Josh Kramer",
+          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
         }
       ],
-      "duration_ms": 148500,
-      "name": "Snowed In",
-      "url": "https://open.spotify.com/track/1spPkmhaejcIpnjmP6nxq3"
+      "duration_ms": 167848,
+      "name": "Kardelen",
+      "url": "https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1559,22 +1559,6 @@
       "duration_ms": 216625,
       "name": "Story of You",
       "url": "https://open.spotify.com/track/3eAN6u0NIx1YkkDNppNQC8"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Kardelen",
-        "url": "https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8"
-      },
-      "artists": [
-        {
-          "name": "Josh Kramer",
-          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
-        }
-      ],
-      "duration_ms": 167848,
-      "name": "Kardelen",
-      "url": "https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1615,6 +1599,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Snowed In",
+        "url": "https://open.spotify.com/album/0kKMS7wWm7xonBa1Zf133X"
+      },
+      "artists": [
+        {
+          "name": "Treman",
+          "url": "https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Snowed In",
+      "url": "https://open.spotify.com/track/1spPkmhaejcIpnjmP6nxq3"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "So Flows The Current",
         "url": "https://open.spotify.com/album/2G7NJdUQxp6vAO0arTebvj"
       },
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Landscapes",
-        "url": "https://open.spotify.com/album/3C7A7XuwIMVMyuCAZKtZ0x"
+        "name": "Beloved",
+        "url": "https://open.spotify.com/album/6i5SVdY8ISwT3o3TVyAXF9"
       },
       "artists": [
         {
-          "name": "Berlinist",
-          "url": "https://open.spotify.com/artist/6EUPmAvpY341eXZwJVy6dn"
+          "name": "Mark Mintuny",
+          "url": "https://open.spotify.com/artist/3gegJAyl43HbhzEFT1Dp8s"
         }
       ],
-      "duration_ms": 271610,
-      "name": "Hold Me Tight",
-      "url": "https://open.spotify.com/track/3JQ1n3bt7Hl6ilW46i8QOf"
+      "duration_ms": 133879,
+      "name": "Beloved",
+      "url": "https://open.spotify.com/track/3OLeQWqsXLKFbboNufjc8Z"
     }
   ],
   "unique_name": "Piano Study",

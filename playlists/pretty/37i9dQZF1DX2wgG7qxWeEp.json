@@ -1,12 +1,12 @@
 {
   "description": "Todo hits veraniegos para la mejor fiesta.",
-  "num_followers": 80593,
+  "num_followers": 80589,
   "original_name": "Verano Mix 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTMzYmY4ZGUxYjczN2JiYTNjMDBlNzkzZDk1NmM1ZDNlNjY0OWNm",
+  "snapshot_id": "MCxhNTY5Zjg1ZWIzZGFkNTQwNmNmMTQ0ZTVlY2JiODRmYzZhMjYxNzIw",
   "tracks": [
     {
       "added_at": "2023-07-10 17:59:12",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
+        "name": "La Player (Bandolera)",
+        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 249608,
+      "name": "La player (Bandolera)",
+      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
         "name": "Con Altura",
         "url": "https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 202184,
       "name": "Nochentera",
       "url": "https://open.spotify.com/track/20CozgjF6bshBw8cLhN23B"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
-        "name": "La Player (Bandolera)",
-        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 249608,
-      "name": "La player (Bandolera)",
-      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
-        "name": "The Last Don",
-        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 212413,
-      "name": "Dale Don Dale",
-      "url": "https://open.spotify.com/track/1PZrHbJjt5t7dP9OGRxcD0"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
         "name": "MALA SANTA",
         "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 203186,
       "name": "Mayores",
       "url": "https://open.spotify.com/track/2AY1UAimvTqjJC8vDJsOyy"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
+        "name": "The Last Don",
+        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 212413,
+      "name": "Dale Don Dale",
+      "url": "https://open.spotify.com/track/1PZrHbJjt5t7dP9OGRxcD0"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
+        "name": "Bella",
+        "url": "https://open.spotify.com/album/6dnN2EDH4Lf0uaFUZGNaAe"
+      },
+      "artists": [
+        {
+          "name": "Wolfine",
+          "url": "https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7"
+        }
+      ],
+      "duration_ms": 197120,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/68sQIehHsGohLMgcP5nlND"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 201920,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/0dKg2vGC1hFqcK5LGTaKzX"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
-        "name": "Bella",
-        "url": "https://open.spotify.com/album/6dnN2EDH4Lf0uaFUZGNaAe"
-      },
-      "artists": [
-        {
-          "name": "Wolfine",
-          "url": "https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7"
-        }
-      ],
-      "duration_ms": 197120,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/68sQIehHsGohLMgcP5nlND"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
-        "name": "La Playa",
-        "url": "https://open.spotify.com/album/5PCQtgStgFE0UMZXd9YuYz"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 207731,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/0jeS8PyyIRAG0A3t5DtL71"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
         "name": "La Criatura",
         "url": "https://open.spotify.com/album/3C2Y8YZGNyGqXZLPHPUMj3"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 217093,
       "name": "B\u00e1ilame - Remix",
       "url": "https://open.spotify.com/track/4l3xGFwoTinvYxsePytOOf"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
+        "name": "La Playa",
+        "url": "https://open.spotify.com/album/5PCQtgStgFE0UMZXd9YuYz"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 207731,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/0jeS8PyyIRAG0A3t5DtL71"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -2507,34 +2507,18 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
-        "name": "Ella (Remix)",
-        "url": "https://open.spotify.com/album/1XWOwAxb9awdotZSHQnAMH"
+        "name": "Mala Mujer",
+        "url": "https://open.spotify.com/album/2pWiw92YRmqEpIUs5P1HAe"
       },
       "artists": [
         {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
         }
       ],
-      "duration_ms": 330477,
-      "name": "Ella - Remix",
-      "url": "https://open.spotify.com/track/7iHHlCbsFou5DZSW5HCPfs"
+      "duration_ms": 222896,
+      "name": "Mala Mujer",
+      "url": "https://open.spotify.com/track/6puxHBNwu2Nmm7uD3Rd2MP"
     }
   ],
   "unique_name": "Verano Mix 2023",

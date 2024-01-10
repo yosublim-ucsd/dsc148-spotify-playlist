@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica sabrosa para festejar la temporada de carnavales en M\u00e9xico. ",
-  "num_followers": 266170,
+  "num_followers": 265999,
   "original_name": "Carnaval en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjNhZWJlMzAxMTM3ZjBhNDU3ZDJkZjA1ZDY2ZGM5YmUzOTMyNWM3",
+  "snapshot_id": "MCwyZTY4ZjRkYTQ1ZDc3MTcwYjFjNzQwMWMwOGNjYzk0ZjcxMGRhMzc4",
   "tracks": [
     {
       "added_at": "2022-08-02 22:46:01",
@@ -95,18 +95,18 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
-        "name": "Ciclos",
-        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
       },
       "artists": [
         {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 259853,
-      "name": "Yo No S\u00e9 Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
     },
     {
       "added_at": "2022-08-02 22:46:01",
@@ -127,18 +127,18 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
+        "name": "Ciclos",
+        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
       },
       "artists": [
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
+      "duration_ms": 259853,
+      "name": "Yo No S\u00e9 Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
     },
     {
       "added_at": "2022-08-02 22:46:01",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
-        "name": "Traicionera (Baile Total)",
-        "url": "https://open.spotify.com/album/1ESXDx2MI2QGcxTZXaAfRH"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 222200,
-      "name": "Lloraras",
-      "url": "https://open.spotify.com/track/6QJ1F9DrlsRSmKDcdVS0Oy"
-    },
-    {
-      "added_at": "2022-08-02 22:46:01",
-      "album": {
         "name": "Int\u00e9ntalo (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4ldSAxBxxmdxlfoh81njb4"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 193533,
       "name": "Inte\u0301ntalo (feat. Ame\u0301rica Sierra & El Bebeto)",
       "url": "https://open.spotify.com/track/61aPpbJMAD5BjWkiHeX9R6"
+    },
+    {
+      "added_at": "2022-08-02 22:46:01",
+      "album": {
+        "name": "Traicionera (Baile Total)",
+        "url": "https://open.spotify.com/album/1ESXDx2MI2QGcxTZXaAfRH"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 222200,
+      "name": "Lloraras",
+      "url": "https://open.spotify.com/track/6QJ1F9DrlsRSmKDcdVS0Oy"
     },
     {
       "added_at": "2022-08-02 22:46:01",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
-        "name": "Caribe",
-        "url": "https://open.spotify.com/album/3kpnPvG6TOLfpV0TvD0FUd"
-      },
-      "artists": [
-        {
-          "name": "Garibaldi",
-          "url": "https://open.spotify.com/artist/5PMqVxegfGlvhatvLA61uX"
-        }
-      ],
-      "duration_ms": 251333,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/49nYkvvZTU06Pcwu1SrK4h"
-    },
-    {
-      "added_at": "2022-08-02 22:46:01",
-      "album": {
         "name": "Org\u00e1nico",
         "url": "https://open.spotify.com/album/5JzUIBngiv4yCq8MfYMH74"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 205818,
       "name": "Tonta",
       "url": "https://open.spotify.com/track/4HjIiXDTRKEVXL6Jov3kCY"
+    },
+    {
+      "added_at": "2022-08-02 22:46:01",
+      "album": {
+        "name": "Caribe",
+        "url": "https://open.spotify.com/album/3kpnPvG6TOLfpV0TvD0FUd"
+      },
+      "artists": [
+        {
+          "name": "Garibaldi",
+          "url": "https://open.spotify.com/artist/5PMqVxegfGlvhatvLA61uX"
+        }
+      ],
+      "duration_ms": 251333,
+      "name": "La Ventanita",
+      "url": "https://open.spotify.com/track/49nYkvvZTU06Pcwu1SrK4h"
     },
     {
       "added_at": "2022-08-02 22:46:01",
@@ -907,18 +907,18 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
-        "name": "\u00c9xitos",
-        "url": "https://open.spotify.com/album/1r1Uhfd4edrlfDDJaGCify"
+        "name": "Ni Juana la Cubana",
+        "url": "https://open.spotify.com/album/5MQwY3jZs6Nqqg2JwMGPGw"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+          "name": "Rigo Dominguez Y Su Grupo Audaz",
+          "url": "https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr"
         }
       ],
-      "duration_ms": 212776,
-      "name": "Ramito De Violetas",
-      "url": "https://open.spotify.com/track/7BwEomcUntwQkSWf3U0Yxl"
+      "duration_ms": 171746,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/5I0HxQ5xorz04qWXHZBrEN"
     },
     {
       "added_at": "2022-08-02 22:46:01",
@@ -939,6 +939,22 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
+        "name": "\u00c9xitos",
+        "url": "https://open.spotify.com/album/1r1Uhfd4edrlfDDJaGCify"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 212776,
+      "name": "Ramito De Violetas",
+      "url": "https://open.spotify.com/track/7BwEomcUntwQkSWf3U0Yxl"
+    },
+    {
+      "added_at": "2022-08-02 22:46:01",
+      "album": {
         "name": "Matamoros Querido",
         "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
       },
@@ -955,18 +971,18 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
-        "name": "Ni Juana la Cubana",
-        "url": "https://open.spotify.com/album/5MQwY3jZs6Nqqg2JwMGPGw"
+        "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 1",
+        "url": "https://open.spotify.com/album/3j4M5k6i3DA7fxfHXasvSp"
       },
       "artists": [
         {
-          "name": "Rigo Dominguez Y Su Grupo Audaz",
-          "url": "https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr"
+          "name": "Grupo Caneo",
+          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
         }
       ],
-      "duration_ms": 171746,
-      "name": "Fiesta",
-      "url": "https://open.spotify.com/track/5I0HxQ5xorz04qWXHZBrEN"
+      "duration_ms": 261484,
+      "name": "De Punta a Punta",
+      "url": "https://open.spotify.com/track/21SlXIY6FZw7RcMqLRm901"
     },
     {
       "added_at": "2022-08-02 22:46:01",
@@ -987,22 +1003,6 @@
       "duration_ms": 242906,
       "name": "Pero La Recuerdo",
       "url": "https://open.spotify.com/track/3mtThJNrqACi4f6GJeduAR"
-    },
-    {
-      "added_at": "2022-08-02 22:46:01",
-      "album": {
-        "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 1",
-        "url": "https://open.spotify.com/album/3j4M5k6i3DA7fxfHXasvSp"
-      },
-      "artists": [
-        {
-          "name": "Grupo Caneo",
-          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
-        }
-      ],
-      "duration_ms": 261484,
-      "name": "De Punta a Punta",
-      "url": "https://open.spotify.com/track/21SlXIY6FZw7RcMqLRm901"
     },
     {
       "added_at": "2022-08-02 22:46:01",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
-        "name": "Best Of The Best",
-        "url": "https://open.spotify.com/album/6FHozfvoQ11QmsvbulUNlo"
-      },
-      "artists": [
-        {
-          "name": "Oro Solido",
-          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
-        }
-      ],
-      "duration_ms": 289506,
-      "name": "El Baile del Beeper - Version Mexico",
-      "url": "https://open.spotify.com/track/3LPRCFmqXUilyKIOT0EYDN"
-    },
-    {
-      "added_at": "2022-08-02 22:46:01",
-      "album": {
         "name": "Exitos Para Amanecer Bailando",
         "url": "https://open.spotify.com/album/17GuJaIZdVJKUhVcRPjCuz"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
-        "name": "La Reina Y Sus Amigos",
-        "url": "https://open.spotify.com/album/0FLIEL0LI4A6lIYqRekRWH"
+        "name": "Best Of The Best",
+        "url": "https://open.spotify.com/album/6FHozfvoQ11QmsvbulUNlo"
       },
       "artists": [
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Oro Solido",
+          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
         }
       ],
-      "duration_ms": 252533,
-      "name": "La Negra Tiene Tumbao",
-      "url": "https://open.spotify.com/track/78UZRdq9Wl3fkFoT12zA4g"
+      "duration_ms": 289506,
+      "name": "El Baile del Beeper - Version Mexico",
+      "url": "https://open.spotify.com/track/3LPRCFmqXUilyKIOT0EYDN"
     },
     {
       "added_at": "2022-08-02 22:46:01",
@@ -1127,6 +1111,22 @@
       "duration_ms": 414380,
       "name": "El Gran Varon",
       "url": "https://open.spotify.com/track/3TyMFBLPobtMaH8oeY0sMP"
+    },
+    {
+      "added_at": "2022-08-02 22:46:01",
+      "album": {
+        "name": "La Reina Y Sus Amigos",
+        "url": "https://open.spotify.com/album/0FLIEL0LI4A6lIYqRekRWH"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 252533,
+      "name": "La Negra Tiene Tumbao",
+      "url": "https://open.spotify.com/track/78UZRdq9Wl3fkFoT12zA4g"
     },
     {
       "added_at": "2022-08-02 22:46:01",

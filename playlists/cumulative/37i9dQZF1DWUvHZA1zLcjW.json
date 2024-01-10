@@ -3135,6 +3135,32 @@
     },
     {
       "album": {
+        "name": "Pavane pour une infante d\u00e9funte",
+        "url": "https://open.spotify.com/album/4pA8abjm2WpYZRN8wJn1Lz"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Metamorphose String Orchestra",
+          "url": "https://open.spotify.com/artist/4G2W8xOZ8D0KRJX4GIETWe"
+        },
+        {
+          "name": "Pavel Lyubomudrov",
+          "url": "https://open.spotify.com/artist/2P4DEqPDDyGY3cHfEWkRIE"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "Pavane pour une infante d\u00e9funte",
+      "url": "https://open.spotify.com/track/1NFfHkCrvbDr4JDg8wTsn1"
+    },
+    {
+      "album": {
         "name": "Destination Paris - Ravel: Pavane pour un infante d\u00e9funte",
         "url": "https://open.spotify.com/album/5sGn4kv7LLefnFEbaMJ1e4"
       },
@@ -3160,34 +3186,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 252360,
-      "name": "Pavane pour un infante d\u00e9funte, M. 19",
+      "name": "Pavane pour une infante d\u00e9funte, M. 19",
       "url": "https://open.spotify.com/track/3nMesKO4nOyRrP1pUKQulO"
-    },
-    {
-      "album": {
-        "name": "Pavane pour une infante d\u00e9funte",
-        "url": "https://open.spotify.com/album/4pA8abjm2WpYZRN8wJn1Lz"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Metamorphose String Orchestra",
-          "url": "https://open.spotify.com/artist/4G2W8xOZ8D0KRJX4GIETWe"
-        },
-        {
-          "name": "Pavel Lyubomudrov",
-          "url": "https://open.spotify.com/artist/2P4DEqPDDyGY3cHfEWkRIE"
-        }
-      ],
-      "date_added": "2022-08-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 336000,
-      "name": "Pavane pour une infante d\u00e9funte",
-      "url": "https://open.spotify.com/track/1NFfHkCrvbDr4JDg8wTsn1"
     },
     {
       "album": {

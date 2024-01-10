@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 
 > music from the underworld
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,376 likes - 100 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,650 likes - 100 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 99 | [Blow Up!](https://open.spotify.com/track/2zzZeb9Ak6Dg4ApitspENL) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Blow Up!](https://open.spotify.com/album/4LLNrklrDzeZl5M9gc8kBx) | 2:30 |
 | 100 | [melancholy](https://open.spotify.com/track/4J7ctWPhgFErjdeWyKLkiA) | [Eternal Raijin](https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe), [Fidi](https://open.spotify.com/artist/7E0x5KaMlXKgcCUU4v5jgL) | [melancholy](https://open.spotify.com/album/57BCZOUocCzqyBStq7kAb3) | 2:02 |
 
-Snapshot ID: `MCxhOTVkZWRmMTI1YzRmYTVmNTg4ZTMwNjhmYWY0OTJlNWE3ZTY3OWY3`
+Snapshot ID: `MCxhNmE3YjM2NjA2MWUyY2Y1ZTgwN2IzYTUyZDFlOGVlMWM1ZDI5ZDgy`

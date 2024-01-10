@@ -1,12 +1,12 @@
 {
   "description": "A soundscape of chilled electronic and compositional ambient music, to help you unwind.",
-  "num_followers": 230083,
+  "num_followers": 229940,
   "original_name": "The Wind Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGQ5NTNkNjlkNzg2YWYxYjU4NzNlNzE4MmQwZTgwMGFkYmUwMWYy",
+  "snapshot_id": "MCxmYTQ3NGJkODJkYWU4MjljY2Q5MTIzOGE4YWVmZDkwYjZlZDY0Mjk4",
   "tracks": [
     {
       "added_at": "2024-01-05 10:46:21",
@@ -75,18 +75,18 @@
     {
       "added_at": "2024-01-05 10:46:21",
       "album": {
-        "name": "Hosoi",
-        "url": "https://open.spotify.com/album/7zhdVONU5HcwpbmC7XtXsn"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5jDmPY9xD8BrPIm2RbBajB"
       },
       "artists": [
         {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
         }
       ],
-      "duration_ms": 166344,
-      "name": "By",
-      "url": "https://open.spotify.com/track/5C4sp6JprCFTO9ZQcg4qXs"
+      "duration_ms": 249968,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7j28vzFDGWSCuKQKMxULfW"
     },
     {
       "added_at": "2024-01-05 10:46:21",
@@ -227,18 +227,18 @@
     {
       "added_at": "2024-01-05 10:46:21",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/5jDmPY9xD8BrPIm2RbBajB"
+        "name": "Hosoi",
+        "url": "https://open.spotify.com/album/7zhdVONU5HcwpbmC7XtXsn"
       },
       "artists": [
         {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
         }
       ],
-      "duration_ms": 249968,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7j28vzFDGWSCuKQKMxULfW"
+      "duration_ms": 166344,
+      "name": "By",
+      "url": "https://open.spotify.com/track/5C4sp6JprCFTO9ZQcg4qXs"
     },
     {
       "added_at": "2024-01-05 10:46:21",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-01-05 10:46:21",
       "album": {
-        "name": "Cave Dog",
-        "url": "https://open.spotify.com/album/7cvPRs0Qpipk58u2iVSM9u"
-      },
-      "artists": [
-        {
-          "name": "Clark",
-          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
-        }
-      ],
-      "duration_ms": 91000,
-      "name": "Unladder",
-      "url": "https://open.spotify.com/track/3zhaGBOyy7IeBoWnxU84lC"
-    },
-    {
-      "added_at": "2024-01-05 10:46:21",
-      "album": {
         "name": "Imagine Gold",
         "url": "https://open.spotify.com/album/57zYxVdmLfWbqxI1r7MbWo"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 279360,
       "name": "Fires",
       "url": "https://open.spotify.com/track/0uCYDUL5xO9cdnj0L8Q6vv"
+    },
+    {
+      "added_at": "2024-01-05 10:46:21",
+      "album": {
+        "name": "Cave Dog",
+        "url": "https://open.spotify.com/album/7cvPRs0Qpipk58u2iVSM9u"
+      },
+      "artists": [
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        }
+      ],
+      "duration_ms": 91000,
+      "name": "Unladder",
+      "url": "https://open.spotify.com/track/3zhaGBOyy7IeBoWnxU84lC"
     },
     {
       "added_at": "2024-01-05 10:46:21",
@@ -743,18 +743,18 @@
     {
       "added_at": "2024-01-05 10:46:21",
       "album": {
-        "name": "Paspatou Remixed",
-        "url": "https://open.spotify.com/album/4Q8A1blfOzDXykDdmu8Rgr"
+        "name": "Dark Dune",
+        "url": "https://open.spotify.com/album/4mQq8MXtA2uqx2Y6eOEI1I"
       },
       "artists": [
         {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+          "name": "Demuja",
+          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
         }
       ],
-      "duration_ms": 291362,
-      "name": "Eff Five",
-      "url": "https://open.spotify.com/track/5WHabC4LXrFeA0kobfktOF"
+      "duration_ms": 350012,
+      "name": "Dark Dune",
+      "url": "https://open.spotify.com/track/1rDgiUBCoW96HQG8RViZyx"
     },
     {
       "added_at": "2024-01-05 10:46:21",
@@ -775,18 +775,18 @@
     {
       "added_at": "2024-01-05 10:46:21",
       "album": {
-        "name": "All Encores",
-        "url": "https://open.spotify.com/album/5fHIn0grAPQdsjXe7KtSFj"
+        "name": "Paspatou Remixed",
+        "url": "https://open.spotify.com/album/4Q8A1blfOzDXykDdmu8Rgr"
       },
       "artists": [
         {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
         }
       ],
-      "duration_ms": 699397,
-      "name": "All Armed",
-      "url": "https://open.spotify.com/track/4tA2fAzDdltaUtL0gtmvou"
+      "duration_ms": 291362,
+      "name": "Eff Five",
+      "url": "https://open.spotify.com/track/5WHabC4LXrFeA0kobfktOF"
     },
     {
       "added_at": "2024-01-05 10:46:21",
@@ -803,6 +803,22 @@
       "duration_ms": 141750,
       "name": "Triangular Blue Marina",
       "url": "https://open.spotify.com/track/4vrmslCxVAuPRxvi8T1pHs"
+    },
+    {
+      "added_at": "2024-01-05 10:46:21",
+      "album": {
+        "name": "All Encores",
+        "url": "https://open.spotify.com/album/5fHIn0grAPQdsjXe7KtSFj"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 699397,
+      "name": "All Armed",
+      "url": "https://open.spotify.com/track/4tA2fAzDdltaUtL0gtmvou"
     },
     {
       "added_at": "2024-01-05 10:46:21",
@@ -851,22 +867,6 @@
       "duration_ms": 257275,
       "name": "Planet Hearth",
       "url": "https://open.spotify.com/track/1RvPfvzAg6jbzWsODpDILb"
-    },
-    {
-      "added_at": "2024-01-05 10:46:21",
-      "album": {
-        "name": "Not The Same",
-        "url": "https://open.spotify.com/album/2fUj2qngjwdJa44sZ1qr7T"
-      },
-      "artists": [
-        {
-          "name": "Matt Ryder",
-          "url": "https://open.spotify.com/artist/0hySaVBazHTHIRvnsxGvHx"
-        }
-      ],
-      "duration_ms": 187343,
-      "name": "Not The Same",
-      "url": "https://open.spotify.com/track/662b8itZU1kjUkGPOufG5n"
     }
   ],
   "unique_name": "The Wind Down",

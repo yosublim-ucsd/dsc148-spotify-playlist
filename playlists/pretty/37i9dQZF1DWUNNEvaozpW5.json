@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Robe.",
-  "num_followers": 574728,
+  "num_followers": 573906,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjZhOTlhNmE3ZjJkZjdkODVmOTk2NmNjNDM5MjRkMWViOTM1MTU0",
+  "snapshot_id": "MCxmMmIxZjg3MzliNjA0ZTc2MjcwZjc4ZjBmYzhhMmQwYTBiMGRjZTYy",
   "tracks": [
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "Te entiendo",
+        "url": "https://open.spotify.com/album/48LCDKfzLfuaoHlMKUreII"
+      },
+      "artists": [
+        {
+          "name": "Pignoise",
+          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 240814,
+      "name": "Te entiendo",
+      "url": "https://open.spotify.com/track/6KBgTCipUwiimLNCSal4FZ"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Miguel R\u00edos y las estrellas del Rock latino",
         "url": "https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 429000,
       "name": "Del Tiempo Perdido",
       "url": "https://open.spotify.com/track/6SJHY69ciIGbp8JspeEbki"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "Te entiendo",
-        "url": "https://open.spotify.com/album/48LCDKfzLfuaoHlMKUreII"
-      },
-      "artists": [
-        {
-          "name": "Pignoise",
-          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
-        },
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 240814,
-      "name": "Te entiendo",
-      "url": "https://open.spotify.com/track/6KBgTCipUwiimLNCSal4FZ"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Calle Melancol\u00eda",
-        "url": "https://open.spotify.com/album/2RlCfIHnXz8h8sc76B8ACD"
-      },
-      "artists": [
-        {
-          "name": "Robe",
-          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
-        }
-      ],
-      "duration_ms": 380973,
-      "name": "Calle Melancol\u00eda",
-      "url": "https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Vispera De Todos Los Santos",
         "url": "https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 188106,
       "name": "Tras la barra",
       "url": "https://open.spotify.com/track/0fN93Sc6gJCkHbh9bqlLX7"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Calle Melancol\u00eda",
+        "url": "https://open.spotify.com/album/2RlCfIHnXz8h8sc76B8ACD"
+      },
+      "artists": [
+        {
+          "name": "Robe",
+          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
+        }
+      ],
+      "duration_ms": 380973,
+      "name": "Calle Melancol\u00eda",
+      "url": "https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Mediterr\u00e1naeo",
-        "url": "https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o"
-      },
-      "artists": [
-        {
-          "name": "Los Rebeldes",
-          "url": "https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "Mediterraneo",
-      "url": "https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Fugitivos De Paraiso",
         "url": "https://open.spotify.com/album/07hX6jcfLjbSP2NtkpKRCk"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 231000,
       "name": "Corazon de Tango",
       "url": "https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Mediterr\u00e1naeo",
+        "url": "https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o"
+      },
+      "artists": [
+        {
+          "name": "Los Rebeldes",
+          "url": "https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "Mediterraneo",
+      "url": "https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau"
     },
     {
       "added_at": "2024-01-04 23:00:00",

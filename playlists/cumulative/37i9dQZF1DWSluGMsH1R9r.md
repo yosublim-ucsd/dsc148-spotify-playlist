@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-617 songs - 1 day 2 hr 31 min
+618 songs - 1 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Chronostasis](https://open.spotify.com/track/4vLkjOq0df258sEL7zrtE0) | [Abel Laloux](https://open.spotify.com/artist/5gt4p9v2Omsd6MVkR5Tm54) | [Chronostasis](https://open.spotify.com/album/3mEjbYACVfAp3enzgHVyeM) | 2:34 | 2021-12-07 | 2022-07-16 |
 | [Chère Tante](https://open.spotify.com/track/5Hms3m02qVC3MCjaSTOEnA) | [Catherina Dafoe](https://open.spotify.com/artist/0JMmT09ZgpWQAIgO14wWsD) | [4](https://open.spotify.com/album/7ivdFtTeofiXLu1SyqeDeD) | 2:04 | 2021-12-07 | 2022-12-24 |
 | [City Prelude](https://open.spotify.com/track/7jCRVvGKxzAMWDqIiW2T53) | [Julius Nilsson](https://open.spotify.com/artist/6TldgZgNH66W2AGRLsqwPX) | [Preludes](https://open.spotify.com/album/39pSeV5BLaPnUAQUtx6ww1) | 2:19 | 2022-12-22 |  |
-| [Coming Home](https://open.spotify.com/track/71m2wUi0w4bQHDqloMQg5c) | [Catherine Peterson](https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV) | [Coming Home](https://open.spotify.com/album/3Gi20dWoDXkD68d73yiM6S) | 2:35 | 2023-10-17 |  |
+| [Coming Home](https://open.spotify.com/track/71m2wUi0w4bQHDqloMQg5c) | [Catherine Peterson](https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV) | [Coming Home](https://open.spotify.com/album/3Gi20dWoDXkD68d73yiM6S) | 2:35 | 2023-10-17 | 2024-01-10 |
 | [Con Le Zampe](https://open.spotify.com/track/1Ypn8gv9pyrGVaVvbxfWWf) | [Pied\-à\-Terre](https://open.spotify.com/artist/3FChImdCbv0x9AYfNzGfvQ) | [Con Le Zampe](https://open.spotify.com/album/7GqLrlOGywYZNFSgOp1KZT) | 2:34 | 2021-12-07 |  |
 | [Contemplation](https://open.spotify.com/track/1CzzOIi8GHxhzCaovIHYz4) | [Melody of Sound](https://open.spotify.com/artist/1jbj3bUyRhQ8FqU55nERZ4) | [Contemplation](https://open.spotify.com/album/1bjQy5fBUfZI24oR9A7Ttx) | 2:24 | 2021-12-07 | 2022-12-24 |
 | [Cornélis](https://open.spotify.com/track/3gGFpTbVGM8M2T3ZmjKsvJ) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Cornélis](https://open.spotify.com/album/4jlUnPvwnPdxwNwC6VU3Mf) | 2:28 | 2021-12-07 |  |
@@ -490,6 +490,7 @@
 | [Skärgård](https://open.spotify.com/track/5WHAPNyWoUYm8TB13lAVTX) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Skärgård](https://open.spotify.com/album/3HTVIw9HK66IcYjS5Z4QuV) | 2:19 | 2021-12-07 | 2023-05-04 |
 | [Slow Voltage](https://open.spotify.com/track/58AYQMGOeuVJn7JppQU7Yd) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Slow Voltage](https://open.spotify.com/album/6MeUn1jRWdr2LAqA2pivVX) | 2:58 | 2021-12-07 |  |
 | [slow waltz](https://open.spotify.com/track/1BKUdbyhGPpzazD1H5L6iB) | [Vontmer](https://open.spotify.com/artist/14ztiaafrJJeTVbwdzekgI) | [slow waltz](https://open.spotify.com/album/1FaJk07lRQS1bKuYA1W4q8) | 3:54 | 2022-02-15 | 2023-01-27 |
+| [Sogni di Positano](https://open.spotify.com/track/3tRkhS5byc7Dt4zjwliaWY) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Sogni di Positano](https://open.spotify.com/album/3mdlYi31wx0txhBSKaSP6x) | 3:27 | 2024-01-09 |  |
 | [Solemn Resolve](https://open.spotify.com/track/1wDBNwgv9WWqJIdZ6bIv8Z) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Solemn Resolve](https://open.spotify.com/album/2AC4nZdkODSXUiQAX8UbIM) | 2:18 | 2022-02-01 |  |
 | [Solitude](https://open.spotify.com/track/1zFkdQz9JTr02jBEekVp8e) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Solitude](https://open.spotify.com/album/60GqHa76MYi3AKen22bzVe) | 3:22 | 2021-12-07 | 2023-10-05 |
 | [Solkysst](https://open.spotify.com/track/0flcIAMaspYd4r5KIoZJ5L) | [Nordiska Piano](https://open.spotify.com/artist/5u56NAhIzusR5Q8dfFpdtq) | [Solkysst](https://open.spotify.com/album/0QLhrApLnQX972jZsz8n5n) | 2:20 | 2021-12-07 | 2023-11-09 |

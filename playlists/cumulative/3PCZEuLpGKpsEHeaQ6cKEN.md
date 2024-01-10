@@ -2,9 +2,9 @@
 
 ### [Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
 
-> The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and more! \| Updated weekly on Friday Cover: Matt Guy
+> The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and more! \| Updated weekly on Friday Cover: Smokey Bubblin' B and Alex Mills
 
-868 songs - 1 day 22 hr 27 min
+869 songs - 1 day 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -640,6 +640,7 @@
 | [Set My Mind Free](https://open.spotify.com/track/6AMuoAxeXtxttu1sYABXFP) | [Matt Guy](https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B) | [Armada Music \- ADE 2022](https://open.spotify.com/album/1jBe7xcFd9Z6plS4nGDyMs) | 3:00 | 2022-10-07 | 2022-11-18 |
 | [Set My Mind Free](https://open.spotify.com/track/6YG9ny9p9PmMjIyJ0B1pVw) | [Matt Guy](https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B) | [Set My Mind Free](https://open.spotify.com/album/3ecx2vhbNcocjrQ0M74TnO) | 3:00 | 2022-09-08 | 2023-07-14 |
 | [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 | 2022-06-09 | 2022-07-15 |
+| [Sex, Love & Water \- Les Bisous Remix](https://open.spotify.com/track/7xTIjXEeb3rYHFcuunZRLB) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi), [Les Bisous](https://open.spotify.com/artist/0s2WMcDT7MPu0HnoxzX3OW) | [Remixes](https://open.spotify.com/album/0qhY1SFEM12bLvotzcOdis) | 3:23 | 2024-01-09 |  |
 | [Shades](https://open.spotify.com/track/32K4G5jEHKSXpdvqtJyMqp) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [Shades](https://open.spotify.com/album/2HIMHpEJFDTq8aMuvIuaxg) | 3:44 | 2022-10-27 | 2022-12-02 |
 | [Shameless](https://open.spotify.com/track/7D0oD7SvPu9d88gROLWTpk) | [RudeLies](https://open.spotify.com/artist/7hf6L4LN1RTVN66IdBVpPr) | [Shameless](https://open.spotify.com/album/4fvb0WLINkEQzVMrH8GgIo) | 3:40 | 2022-08-04 | 2022-09-23 |
 | [Shapeshift](https://open.spotify.com/track/2dmAVsqNbWBGRw6U7eYjxH) | [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB) | [Shapeshift](https://open.spotify.com/album/6SYxK1RZzOQMwkt2JkGIwU) | 4:06 | 2023-05-04 | 2023-12-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > alternative meets electronic Cover: Layto
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,856 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,865 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 99 | [RUN THRU ME](https://open.spotify.com/track/4ysb8MTFAVIDloHNX6l4jt) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME) | [RUN THRU ME](https://open.spotify.com/album/2kUz84vIo4FczGj1UZ2pZe) | 2:57 |
 | 100 | [Miracle, Baby](https://open.spotify.com/track/3Iu1P9opSIz1wmm98SG2qb) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Miracle, Baby](https://open.spotify.com/album/4OEXo5dPHC8m3h3um07mL0) | 3:40 |
 
-Snapshot ID: `MCw2NmZmMWI2ZWM0MDRlNmI2NGVjYjAxYzZlMDVkNDkyOWE4NDYxMjA1`
+Snapshot ID: `MCw2MDZkZjc3YTIxOTc2ZTJlM2ViOGRjZmJlMjQ2OGExNzU2Y2I4MGYw`

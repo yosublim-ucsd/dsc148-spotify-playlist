@@ -1,12 +1,12 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 343963,
+  "num_followers": 343516,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTI0MjJmNzEyOGJkMDgxZmVjMzBmYjA0NTMwNDc5OTIyOWEzNDc4",
+  "snapshot_id": "MCxiNDE3NDgyNzNhMjdmM2QyMjM2NWI3YzQ4NWFjZTE5ZTkwYWM1YmI3",
   "tracks": [
     {
       "added_at": "2023-01-17 01:33:36",
@@ -127,18 +127,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Menos \u00c9 Mais (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6iGvvnauoKKjkutnB2b7lB"
+        "name": "Por Inteiro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/72SOxntkBoOczJaepEqb1O"
       },
       "artists": [
         {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
         }
       ],
-      "duration_ms": 178903,
-      "name": "Cidade Vizinha - Ao Vivo",
-      "url": "https://open.spotify.com/track/1pjpPXl66t4FeQaFscpG73"
+      "duration_ms": 172766,
+      "name": "Atrasadinha - Live",
+      "url": "https://open.spotify.com/track/4DfPhCFm0Cx6VXr5Rxkx6D"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -179,22 +183,18 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Por Inteiro (Ao Vivo)",
-        "url": "https://open.spotify.com/album/72SOxntkBoOczJaepEqb1O"
+        "name": "Menos \u00c9 Mais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6iGvvnauoKKjkutnB2b7lB"
       },
       "artists": [
         {
-          "name": "Felipe Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
         }
       ],
-      "duration_ms": 172766,
-      "name": "Atrasadinha - Live",
-      "url": "https://open.spotify.com/track/4DfPhCFm0Cx6VXr5Rxkx6D"
+      "duration_ms": 178903,
+      "name": "Cidade Vizinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/1pjpPXl66t4FeQaFscpG73"
     },
     {
       "added_at": "2023-01-17 01:33:36",

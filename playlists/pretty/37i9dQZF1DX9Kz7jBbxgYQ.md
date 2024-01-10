@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: AUR
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,812 likes - 86 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,926 likes - 86 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,10 +89,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 | 79 | [Saaye](https://open.spotify.com/track/40H5kKnRnnzf31N5UiECJL) | [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Saaye](https://open.spotify.com/album/0J3TKBNNYzrev70LxTKziX) | 3:32 |
 | 80 | [Hazir Main Rahun](https://open.spotify.com/track/10JqzOpxi2zL4RcuvwBRtW) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Hazir Main Rahun](https://open.spotify.com/album/3JcvdHatu4INAgwuSAPnCr) | 4:07 |
 | 81 | [Dil Kay Isharay](https://open.spotify.com/track/2JgSxQenl3eRwewgBUWyKU) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Dil Kay Isharay](https://open.spotify.com/album/4jhyxjNho3zN1Irog1WpMv) | 3:08 |
-| 82 | [Zamanay](https://open.spotify.com/track/6o1DfORVD5ACPgDFqCDl6R) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Zamanay](https://open.spotify.com/album/2bW42L4X55NqzHM4B76Akk) | 2:42 |
+| 82 | [Zamanay](https://open.spotify.com/track/1KD6tWKf9z3mx8n8E9eYle) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Zamanay](https://open.spotify.com/album/6P0skMRTD2kXyJstKa6v6G) | 2:42 |
 | 83 | [Pretty Lies](https://open.spotify.com/track/0pvlhF2kQRKGxKqsiUMJwI) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Pretty Lies](https://open.spotify.com/album/76TgmgMlZzqrMOckjo5eFV) | 2:43 |
 | 84 | [Faltu Pyar](https://open.spotify.com/track/1yFryDjhXXIIaJA1dKqrab) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Faltu Pyar](https://open.spotify.com/album/5DfIEUN6BSCNEETICvOQtm) | 3:41 |
 | 85 | [Iraaday](https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Iraaday](https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy) | 2:13 |
 | 86 | [Kahani Suno 2.0](https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Kahani Suno 2.0](https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV) | 2:53 |
 
-Snapshot ID: `MCwxNjhmYWI0ZGI1NDM3YTgzYzhjNWZmMDVlMGJmYzQ3ZTc1M2E4Mzg3`
+Snapshot ID: `MCw1NmMzMzQyYzM2YjVkNGE1YTc0OGUyMzgzNzkwMTE2NzgyOWYyN2Y5`

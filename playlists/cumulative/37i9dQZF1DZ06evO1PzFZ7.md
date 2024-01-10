@@ -4,7 +4,7 @@
 
 > This is Ángela Aguilar\. The essential tracks, all in one playlist.
 
-98 songs - 5 hr 58 min
+99 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Piensa en Mí](https://open.spotify.com/track/79KPSHPdl3HEsYqO8LCLvo) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Piensa en Mí](https://open.spotify.com/album/41oLeM3NG2XwKrPMzB0GTG) | 3:46 | 2023-06-02 | 2024-01-07 |
 | [Popurrí Flor Silvestre \(Mi Destino Fue Quererte / Cielo Rojo / La Basurita\)](https://open.spotify.com/track/3mXEan77B59erztx4ZaKQ4) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Celebrando a México](https://open.spotify.com/album/3a5j5YSrPqw9PMkW0hLGy0) | 6:05 | 2023-09-18 |  |
 | [POR EL CONTRARIO \(with Angela Aguilar & Leonardo Aguilar\)](https://open.spotify.com/track/6VsqdsaY4oV06NODea0L0J) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 3:05 | 2023-10-01 |  |
-| [Prometiste](https://open.spotify.com/track/2UypFzxfaYgMUnQX2k4qtj) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [MTV Unplugged](https://open.spotify.com/album/0Oj8WUcWlQCS6CSJEAjaob) | 5:05 | 2023-03-10 |  |
+| [Prometiste](https://open.spotify.com/track/2UypFzxfaYgMUnQX2k4qtj) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [MTV Unplugged](https://open.spotify.com/album/0Oj8WUcWlQCS6CSJEAjaob) | 5:05 | 2023-03-10 | 2024-01-10 |
+| [Prometiste \(En Vivo\)](https://open.spotify.com/track/1VHkHdFww8aXRTqj4VVSwC) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Melissa](https://open.spotify.com/artist/5OWPM4ybplRvlK9RJgAtSm), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [MTV Unplugged \(En Vivo\)](https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON) | 5:05 | 2024-01-09 |  |
 | [Put Your Head On My Shoulder](https://open.spotify.com/track/26wdCQyNBGF2li7CQ4enDi) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Que No Se Apague La Música](https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl) | 3:09 | 2023-03-10 | 2023-11-11 |
 | [Que Me Entierren Con la Banda](https://open.spotify.com/track/6EubqUdydkHdtnXStHOlVN) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Mexicano Hasta los Huesos](https://open.spotify.com/album/1eZy16Ti3twMuRo7Q0IS6w) | 2:58 | 2024-01-03 |  |
 | [Que Me Entierren Con la Banda](https://open.spotify.com/track/6Hcz9PRsiOpU051JQaHvz1) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Mexicano Hasta los Huesos](https://open.spotify.com/album/6IlYrSFtmY9o6Gdi49rTkm) | 2:58 | 2023-03-10 | 2024-01-04 |

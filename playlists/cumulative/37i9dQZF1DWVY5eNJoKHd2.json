@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "act ii: date @ 8",
+        "url": "https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113684,
+      "name": "act ii: date @ 8",
+      "url": "https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27"
+    },
+    {
+      "album": {
         "name": "adore u",
         "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
       },
@@ -190,6 +208,24 @@
       "duration_ms": 220653,
       "name": "adore u",
       "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
+    },
+    {
+      "album": {
+        "name": "we just need some time together",
+        "url": "https://open.spotify.com/album/4Pr42qDjwPOxMxB9aJBDPG"
+      },
+      "artists": [
+        {
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235225,
+      "name": "affection",
+      "url": "https://open.spotify.com/track/4LyIHEDbAWDeKV0JbVZae9"
     },
     {
       "album": {
@@ -1477,6 +1513,24 @@
     },
     {
       "album": {
+        "name": "drifting",
+        "url": "https://open.spotify.com/album/4KJfSAhzqcMZaWFTwnfkNK"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212440,
+      "name": "drifting",
+      "url": "https://open.spotify.com/track/2YuySJd7C2aoBarBP8OvzR"
+    },
+    {
+      "album": {
         "name": "Drivel",
         "url": "https://open.spotify.com/album/6Jw9aKlgYMB0r9VnZJPLqE"
       },
@@ -1770,7 +1824,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 150720,
       "name": "eyes don't lie",
       "url": "https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX"
@@ -2834,7 +2888,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 211582,
       "name": "I KNOW ?",
       "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
@@ -4056,6 +4110,24 @@
       "duration_ms": 253375,
       "name": "Most Men - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO"
+    },
+    {
+      "album": {
+        "name": "Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1uUH6YyHcchOqJCU76XVdh"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299613,
+      "name": "Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/3NCQO8ath5huTDMXXtibH6"
     },
     {
       "album": {
@@ -6001,6 +6073,24 @@
     },
     {
       "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
+    {
+      "album": {
         "name": "Coloring Book",
         "url": "https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB"
       },
@@ -6442,7 +6532,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 184767,
       "name": "The Dress",
       "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
@@ -6500,7 +6590,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 358983,
       "name": "The Last Goodbye",
       "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
@@ -6790,7 +6880,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 320680,
       "name": "Ultralight Beam",
       "url": "https://open.spotify.com/track/1eQBEelI2NCy7AUTerX0KS"
@@ -6963,6 +7053,24 @@
     },
     {
       "album": {
+        "name": "Wasted Summers",
+        "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
+      },
+      "artists": [
+        {
+          "name": "juju<3",
+          "url": "https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130384,
+      "name": "Wasted Summers",
+      "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
+    },
+    {
+      "album": {
         "name": "The Life Of Pablo",
         "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
       },
@@ -7076,7 +7184,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 199547,
       "name": "WHAT'S THE MOVE? (feat. Future and BabyDrill)",
       "url": "https://open.spotify.com/track/0oqnZWNBvobs1t181f45Ck"

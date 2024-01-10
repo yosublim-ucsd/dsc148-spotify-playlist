@@ -1,12 +1,12 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 46168,
+  "num_followers": 46194,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmJkM2QxYzdiNjVlODMwYjlmODdjZjgzZDQ1MTFiMzUwNGFmNmE0",
+  "snapshot_id": "MCxiZDg3MTE4MmFhM2M5ZDY5OWU4ZjViYmUyMzM2ZTVjNGFhNDZiOTcy",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Long Time To Be Gone",
+        "url": "https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF"
+      },
+      "artists": [
+        {
+          "name": "Nora Brown",
+          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
+        }
+      ],
+      "duration_ms": 68725,
+      "name": "Cumberland Gap",
+      "url": "https://open.spotify.com/track/3ZIl7Lmby6zGV9iAC4ZXMp"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Instrumental Classic Country Hits",
         "url": "https://open.spotify.com/album/6ffjDIFQ2p0b9OLdGV1qgF"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 77493,
       "name": "Little Sadie",
       "url": "https://open.spotify.com/track/1VkBsbIRNgkpj0cLd6xz5k"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Songs of the Sunrise Fox",
-        "url": "https://open.spotify.com/album/2qSn76iUNZIrQQYpeeW54n"
-      },
-      "artists": [
-        {
-          "name": "Andy Thorn",
-          "url": "https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713"
-        }
-      ],
-      "duration_ms": 208280,
-      "name": "Aesop Mountain",
-      "url": "https://open.spotify.com/track/710oc7jGMREe9vWsYraOck"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -283,18 +283,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Long Time To Be Gone",
-        "url": "https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF"
+        "name": "Songs of the Sunrise Fox",
+        "url": "https://open.spotify.com/album/2qSn76iUNZIrQQYpeeW54n"
       },
       "artists": [
         {
-          "name": "Nora Brown",
-          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
+          "name": "Andy Thorn",
+          "url": "https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713"
         }
       ],
-      "duration_ms": 68725,
-      "name": "Cumberland Gap",
-      "url": "https://open.spotify.com/track/3ZIl7Lmby6zGV9iAC4ZXMp"
+      "duration_ms": 208280,
+      "name": "Aesop Mountain",
+      "url": "https://open.spotify.com/track/710oc7jGMREe9vWsYraOck"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "The Bluegrass Sessions: Tales From The Acoustic Planet, Vol. 2",
+        "url": "https://open.spotify.com/album/34rQGJXHlECil6fZUIHm7q"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        }
+      ],
+      "duration_ms": 222733,
+      "name": "The over Grown Waltz",
+      "url": "https://open.spotify.com/track/2PCJXFuZdJ5pAYvUSRnGyW"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Uncommon Ritual",
         "url": "https://open.spotify.com/album/1RbHExhYXBvSng2iSUTibx"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 281146,
       "name": "Sliding Down",
       "url": "https://open.spotify.com/track/6i3ZOSknAlWQcjkW8gVD1W"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "The Bluegrass Sessions: Tales From The Acoustic Planet, Vol. 2",
-        "url": "https://open.spotify.com/album/34rQGJXHlECil6fZUIHm7q"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        }
-      ],
-      "duration_ms": 222733,
-      "name": "The over Grown Waltz",
-      "url": "https://open.spotify.com/track/2PCJXFuZdJ5pAYvUSRnGyW"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Black Banjo",
-        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
-      },
-      "artists": [
-        {
-          "name": "Tray Wellington",
-          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
-        }
-      ],
-      "duration_ms": 198478,
-      "name": "Crooked Mind",
-      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Appalachian Picking Society",
         "url": "https://open.spotify.com/album/0zFO5P5ULTkqknwYWSTkZg"
       },
@@ -679,18 +663,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Hell on Church Street",
-        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
+        "name": "Black Banjo",
+        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
       },
       "artists": [
         {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+          "name": "Tray Wellington",
+          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
         }
       ],
-      "duration_ms": 212164,
-      "name": "Cattle in the Cane",
-      "url": "https://open.spotify.com/track/1iNIB7xrjq8qr2efZNJD0J"
+      "duration_ms": 198478,
+      "name": "Crooked Mind",
+      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -715,6 +699,22 @@
       "duration_ms": 255369,
       "name": "Wheels Up (feat. Sierra Hull & Molly Tuttle)",
       "url": "https://open.spotify.com/track/6Ws3pJjE9MeiR8WYEC4hPw"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 212164,
+      "name": "Cattle in the Cane",
+      "url": "https://open.spotify.com/track/1iNIB7xrjq8qr2efZNJD0J"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Lone Soldier",
-        "url": "https://open.spotify.com/album/5KWtnSlnMX7XtJcITbMo6m"
-      },
-      "artists": [
-        {
-          "name": "David Grier",
-          "url": "https://open.spotify.com/artist/7hWVElplEhp3zOKg7KuLr2"
-        }
-      ],
-      "duration_ms": 198733,
-      "name": "Smith Chapel",
-      "url": "https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Unless",
         "url": "https://open.spotify.com/album/2DAoJjVCPS64NjFDpvN3Ud"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 251600,
       "name": "In the Kitchen",
       "url": "https://open.spotify.com/track/4Tph814aNVXbhanWoJiwit"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Lone Soldier",
+        "url": "https://open.spotify.com/album/5KWtnSlnMX7XtJcITbMo6m"
+      },
+      "artists": [
+        {
+          "name": "David Grier",
+          "url": "https://open.spotify.com/artist/7hWVElplEhp3zOKg7KuLr2"
+        }
+      ],
+      "duration_ms": 198733,
+      "name": "Smith Chapel",
+      "url": "https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -835,26 +835,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "B\u00e9la Fleck & Abigail Washburn",
-        "url": "https://open.spotify.com/album/18Kf1ocHyxnqJ2VCuS6Utm"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Abigail Washburn",
-          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
-        }
-      ],
-      "duration_ms": 273746,
-      "name": "New South Africa",
-      "url": "https://open.spotify.com/track/4iLDm89exSxhdjEtzQ4Ctq"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Banjo Haiku",
         "url": "https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2"
       },
@@ -871,18 +851,38 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "The Cold Hard Facts",
-        "url": "https://open.spotify.com/album/0Rwgw63MsaoCoyAIE3J6Ao"
+        "name": "The Muscle Shoals Recordings",
+        "url": "https://open.spotify.com/album/2DuNtjQfVV7VqRFH6r0Bta"
       },
       "artists": [
         {
-          "name": "The Del McCoury Band",
-          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
+          "name": "The Steeldrivers",
+          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
         }
       ],
-      "duration_ms": 211400,
-      "name": "Baltimore Johnny",
-      "url": "https://open.spotify.com/track/1UEJYfxyctVPjtoXPkLE7D"
+      "duration_ms": 167498,
+      "name": "California Chainsaw",
+      "url": "https://open.spotify.com/track/3B20mh33uwC6kq1TF3sxwH"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "B\u00e9la Fleck & Abigail Washburn",
+        "url": "https://open.spotify.com/album/18Kf1ocHyxnqJ2VCuS6Utm"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Abigail Washburn",
+          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
+        }
+      ],
+      "duration_ms": 273746,
+      "name": "New South Africa",
+      "url": "https://open.spotify.com/track/4iLDm89exSxhdjEtzQ4Ctq"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -915,6 +915,22 @@
       "duration_ms": 220293,
       "name": "Blue Midnite",
       "url": "https://open.spotify.com/track/2eU8DzjTsnsIOE3foknMYQ"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "The Cold Hard Facts",
+        "url": "https://open.spotify.com/album/0Rwgw63MsaoCoyAIE3J6Ao"
+      },
+      "artists": [
+        {
+          "name": "The Del McCoury Band",
+          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "Baltimore Johnny",
+      "url": "https://open.spotify.com/track/1UEJYfxyctVPjtoXPkLE7D"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -955,22 +971,6 @@
       "duration_ms": 205266,
       "name": "Big Sciota",
       "url": "https://open.spotify.com/track/3bwRblhAbbkQ8GoL7YatI7"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "The Muscle Shoals Recordings",
-        "url": "https://open.spotify.com/album/2DuNtjQfVV7VqRFH6r0Bta"
-      },
-      "artists": [
-        {
-          "name": "The Steeldrivers",
-          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
-        }
-      ],
-      "duration_ms": 167498,
-      "name": "California Chainsaw",
-      "url": "https://open.spotify.com/track/3B20mh33uwC6kq1TF3sxwH"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Church Street Blues",
-        "url": "https://open.spotify.com/album/2ikwlUUIe2EiOO2gDZjOJb"
-      },
-      "artists": [
-        {
-          "name": "Tony Rice",
-          "url": "https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr"
-        }
-      ],
-      "duration_ms": 207440,
-      "name": "Jerusalem Ridge",
-      "url": "https://open.spotify.com/track/2I38eMHKtOsIFUMWebyHj7"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Jake & Friends",
         "url": "https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe"
       },
@@ -1079,6 +1063,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Church Street Blues",
+        "url": "https://open.spotify.com/album/2ikwlUUIe2EiOO2gDZjOJb"
+      },
+      "artists": [
+        {
+          "name": "Tony Rice",
+          "url": "https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr"
+        }
+      ],
+      "duration_ms": 207440,
+      "name": "Jerusalem Ridge",
+      "url": "https://open.spotify.com/track/2I38eMHKtOsIFUMWebyHj7"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "The Good, the Bad and the Ugly",
         "url": "https://open.spotify.com/album/3cM9AtEeQ8US0XqaCFGiNo"
       },
@@ -1091,22 +1091,6 @@
       "duration_ms": 351091,
       "name": "The Good, the Bad and the Ugly",
       "url": "https://open.spotify.com/track/2FxI0pkOFZPmgv69vYlsSg"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Plays Bill Monroe",
-        "url": "https://open.spotify.com/album/5Ccpn9YY8gJxInLMquM5yL"
-      },
-      "artists": [
-        {
-          "name": "Kenny Baker",
-          "url": "https://open.spotify.com/artist/2hdWa1ITLNBBtU5CM0m2Jg"
-        }
-      ],
-      "duration_ms": 159533,
-      "name": "Road To Columbus",
-      "url": "https://open.spotify.com/track/3mwenypVIMuSBJ1ta1u6cF"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Shadowgrass",
-        "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
+        "name": "Plays Bill Monroe",
+        "url": "https://open.spotify.com/album/5Ccpn9YY8gJxInLMquM5yL"
       },
       "artists": [
         {
-          "name": "Shadowgrass",
-          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+          "name": "Kenny Baker",
+          "url": "https://open.spotify.com/artist/2hdWa1ITLNBBtU5CM0m2Jg"
         }
       ],
-      "duration_ms": 287934,
-      "name": "Carl\u2019s Breakdown",
-      "url": "https://open.spotify.com/track/1WSgLVVvvhF0UvJdpaErCj"
+      "duration_ms": 159533,
+      "name": "Road To Columbus",
+      "url": "https://open.spotify.com/track/3mwenypVIMuSBJ1ta1u6cF"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Fiddler's Dream",
-        "url": "https://open.spotify.com/album/5uxzNJhQaIvtl37aeSRJNG"
+        "name": "Shadowgrass",
+        "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
       },
       "artists": [
         {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+          "name": "Shadowgrass",
+          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
         }
       ],
-      "duration_ms": 217946,
-      "name": "Fiddler's Dream",
-      "url": "https://open.spotify.com/track/7qOf0MZAFj4WP0PQVOpVeL"
+      "duration_ms": 287934,
+      "name": "Carl\u2019s Breakdown",
+      "url": "https://open.spotify.com/track/1WSgLVVvvhF0UvJdpaErCj"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1195,6 +1179,22 @@
       "duration_ms": 265360,
       "name": "Missing Vassar",
       "url": "https://open.spotify.com/track/6r6UR9e4AL8gmwUDjSt9fu"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Fiddler's Dream",
+        "url": "https://open.spotify.com/album/5uxzNJhQaIvtl37aeSRJNG"
+      },
+      "artists": [
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "Fiddler's Dream",
+      "url": "https://open.spotify.com/track/7qOf0MZAFj4WP0PQVOpVeL"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Gravity's Our Enemy",
-        "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
+        "name": "Formations",
+        "url": "https://open.spotify.com/album/0lRJJhFQnT5eEm8gk9ahLk"
       },
       "artists": [
         {
-          "name": "Cadillac Sky",
-          "url": "https://open.spotify.com/artist/1jilau5qTNCuJlWaA7t4x8"
+          "name": "Hawktail",
+          "url": "https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm"
         }
       ],
-      "duration_ms": 251360,
-      "name": "The Majestic Swan - Instrumental",
-      "url": "https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6"
+      "duration_ms": 299973,
+      "name": "Last One on the Line",
+      "url": "https://open.spotify.com/track/2wbYGo4S3DYL1ddDRn6fHd"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1351,6 +1351,22 @@
       "duration_ms": 281386,
       "name": "Squirrelville",
       "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Gravity's Our Enemy",
+        "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
+      },
+      "artists": [
+        {
+          "name": "Cadillac Sky",
+          "url": "https://open.spotify.com/artist/1jilau5qTNCuJlWaA7t4x8"
+        }
+      ],
+      "duration_ms": 251360,
+      "name": "The Majestic Swan - Instrumental",
+      "url": "https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1375,22 +1391,6 @@
       "duration_ms": 269733,
       "name": "Big Mountain",
       "url": "https://open.spotify.com/track/7AcJDi9pjGHLE1OMiWmLED"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Formations",
-        "url": "https://open.spotify.com/album/0lRJJhFQnT5eEm8gk9ahLk"
-      },
-      "artists": [
-        {
-          "name": "Hawktail",
-          "url": "https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm"
-        }
-      ],
-      "duration_ms": 299973,
-      "name": "Last One on the Line",
-      "url": "https://open.spotify.com/track/2wbYGo4S3DYL1ddDRn6fHd"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Place of Growth",
+        "url": "https://open.spotify.com/album/2DZl2dzLBAGWu6H9wNyQyR"
+      },
+      "artists": [
+        {
+          "name": "Hawktail",
+          "url": "https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm"
+        }
+      ],
+      "duration_ms": 356561,
+      "name": "Updraft",
+      "url": "https://open.spotify.com/track/1HKT1t2qsl8Z76suZOGBRD"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Crossing the Junction / Deer River",
         "url": "https://open.spotify.com/album/3hXfFkVDc1E8b8pM4mdAoj"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 200768,
       "name": "Chemical Plant Zone",
       "url": "https://open.spotify.com/track/3pIgBGEeDs9wVlHJVqiv33"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Place of Growth",
-        "url": "https://open.spotify.com/album/2DZl2dzLBAGWu6H9wNyQyR"
-      },
-      "artists": [
-        {
-          "name": "Hawktail",
-          "url": "https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm"
-        }
-      ],
-      "duration_ms": 356561,
-      "name": "Updraft",
-      "url": "https://open.spotify.com/track/1HKT1t2qsl8Z76suZOGBRD"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Telluride Sessions",
-        "url": "https://open.spotify.com/album/280qrGpx4WYkwsL7lMKarM"
-      },
-      "artists": [
-        {
-          "name": "Strength In Numbers",
-          "url": "https://open.spotify.com/artist/7JrYMXoj7ke3GqLEivVgYJ"
-        }
-      ],
-      "duration_ms": 305160,
-      "name": "Blue Men Of The Sahara",
-      "url": "https://open.spotify.com/track/47SuIHxH6MpjCUH2Drb4Ct"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Tsali's Run",
         "url": "https://open.spotify.com/album/2R0bW66PP9Ez06X4F3DPfP"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 238000,
       "name": "Tsali's Run",
       "url": "https://open.spotify.com/track/4AzSHrAiwUDnEo0hJ9qZpm"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Telluride Sessions",
+        "url": "https://open.spotify.com/album/280qrGpx4WYkwsL7lMKarM"
+      },
+      "artists": [
+        {
+          "name": "Strength In Numbers",
+          "url": "https://open.spotify.com/artist/7JrYMXoj7ke3GqLEivVgYJ"
+        }
+      ],
+      "duration_ms": 305160,
+      "name": "Blue Men Of The Sahara",
+      "url": "https://open.spotify.com/track/47SuIHxH6MpjCUH2Drb4Ct"
     },
     {
       "added_at": "2023-11-24 05:00:00",

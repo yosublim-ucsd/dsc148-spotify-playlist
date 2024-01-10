@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwne9oedwMj.md) - [plain]
 
 > Suéltala que ella baila sola\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,012 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,777 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwne9oedwMj.md) - [plain]
 | 42 | [DISCOTEKA](https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [DISCOTEKA](https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs) | 2:54 |
 | 43 | [MALA SANTA](https://open.spotify.com/track/5e50NiIlOc2YJIftHzoehd) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 2:53 |
 | 44 | [Colocao](https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Colocao](https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm) | 2:59 |
-| 45 | [Traidora](https://open.spotify.com/track/3o6dbeyOY537ZCo6mQfyzp) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI) | [Traidora](https://open.spotify.com/album/3cIZmX40NwdOB8snHeuKIi) | 2:16 |
+| 45 | [Wow Wow \(feat\. Becky G\)](https://open.spotify.com/track/20ChN6ZWJ2yhuXcE6SKHDM) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Wow Wow \(feat\. Becky G\)](https://open.spotify.com/album/7peqMFYmRXaFJ5nXvKtA86) | 3:19 |
 | 46 | [CANDY \- Remix](https://open.spotify.com/track/3VjCEyc0bHfa4Ie34kbWyb) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 3:24 |
-| 47 | [Wow Wow \(feat\. Becky G\)](https://open.spotify.com/track/20ChN6ZWJ2yhuXcE6SKHDM) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Wow Wow \(feat\. Becky G\)](https://open.spotify.com/album/7peqMFYmRXaFJ5nXvKtA86) | 3:19 |
-| 48 | [Zorra](https://open.spotify.com/track/0OP1RzrglC008kj79Httv3) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Zorra](https://open.spotify.com/album/6Syxhy1xpKZXWO8KPm34G3) | 3:06 |
-| 49 | [Cazzu: Bzrp Music Sessions, Vol\. 32](https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Cazzu: Bzrp Music Sessions, Vol\. 32](https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2) | 2:26 |
+| 47 | [Traidora](https://open.spotify.com/track/3o6dbeyOY537ZCo6mQfyzp) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI) | [Traidora](https://open.spotify.com/album/3cIZmX40NwdOB8snHeuKIi) | 2:16 |
+| 48 | [Cazzu: Bzrp Music Sessions, Vol\. 32](https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Cazzu: Bzrp Music Sessions, Vol\. 32](https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2) | 2:26 |
+| 49 | [Zorra](https://open.spotify.com/track/0OP1RzrglC008kj79Httv3) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Zorra](https://open.spotify.com/album/6Syxhy1xpKZXWO8KPm34G3) | 3:06 |
 | 50 | [Sensual Bebé](https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Sensual Bebé](https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC) | 3:29 |
 
-Snapshot ID: `MCw5ZTg3OTI3ZTFhOTlmZTIwMjAzNGIyYTAwNDNhNmZlZjFhOTMyZTk4`
+Snapshot ID: `MCw1ZmMxZDcyNGJiNTRmZWExMzQ5ZGYzYzMyNGY1YWU5YjAzNDFhMjBm`

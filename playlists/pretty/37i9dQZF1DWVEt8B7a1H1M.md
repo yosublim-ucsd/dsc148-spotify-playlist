@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEt8B7a1H1M.md) - [plain]
 
 > Bird sounds in the background
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,078 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,060 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEt8B7a1H1M.md) - [plain]
 | 47 | [Morning In The Forest](https://open.spotify.com/track/2P6dfQcVKTJvWxnGKGYmS8) | [Lissening](https://open.spotify.com/artist/0nKn7U6mLdh9AtbUvK5dja) | [Nature Nice](https://open.spotify.com/album/3VBGYlSRKVgUOSE7YkI1a8) | 2:02 |
 | 48 | [Morning Birds May](https://open.spotify.com/track/37jqgmiDN5ITZtxzQ9FFc0) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Morning Birds May](https://open.spotify.com/album/0uB5c9Md8U2IKcniqFFkU5) | 2:43 |
 | 49 | [Birds & The Bees](https://open.spotify.com/track/4wdgM2i2X3jMCvq5bCnNJ9) | [Zen Master](https://open.spotify.com/artist/5TM7S7xrOB6o7deUWGAmup) | [Song Birds](https://open.spotify.com/album/1Y4uHy2KrRErPaVezfeabU) | 1:34 |
-| 50 | [Afternoon Light](https://open.spotify.com/track/5fyJbNtzv7LAeKWntGGyeg) | [Experience Nature](https://open.spotify.com/artist/5cyMbzcbIkbyMlkJ4cy1ax) | [Insect Bird By The Day](https://open.spotify.com/album/6T6lScQergcNtXtUlqirdA) | 2:00 |
+| 50 | [Close to Nature](https://open.spotify.com/track/4JJfSzfcmlUIiebTu4getf) | [Actors of Nature](https://open.spotify.com/artist/3t3dn9tmCuNnwHQnjG8CeS) | [The Cuckoo by the Lagoon](https://open.spotify.com/album/0o1Cd2emLdUawm6Ya2CUM5) | 1:19 |
 
-Snapshot ID: `MCwxM2Q4ZTVjMzYwZTMzM2UwNWRlNzA4OGJiMTMxZDRmYjRmYjg0NjJk`
+Snapshot ID: `MCwwZDY1OTRlODQ5MzQ1N2E5NGMxNDBkMmRmNDZmM2ZmOThiNWE2ZDhi`

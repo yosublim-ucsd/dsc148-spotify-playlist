@@ -1,12 +1,12 @@
 {
   "description": "Hip hop tracks to kick your workout up a notch",
-  "num_followers": 18586,
+  "num_followers": 18624,
   "original_name": "Pump it Up ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmY3MTc3NGNmYTk0MmQzY2JmNjcyOTlmMTU1ODU1OWFmYzMyOTU0",
+  "snapshot_id": "MCxkYzU5MmYxNDM4MTFkMGMwOTZiZGVlZmQxOWU2YjgwZmY4YmQ5OWY4",
   "tracks": [
     {
       "added_at": "2024-01-05 00:01:00",
@@ -775,6 +775,26 @@
     {
       "added_at": "2024-01-05 00:01:00",
       "album": {
+        "name": "No Regrets",
+        "url": "https://open.spotify.com/album/7nmxATrQKN8u04O0IASv0b"
+      },
+      "artists": [
+        {
+          "name": "Blackway",
+          "url": "https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 145610,
+      "name": "No Regrets",
+      "url": "https://open.spotify.com/track/1Bi8XmQs9vNPPkMQ3wyOux"
+    },
+    {
+      "added_at": "2024-01-05 00:01:00",
+      "album": {
         "name": "Young Preacher",
         "url": "https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2"
       },
@@ -799,22 +819,26 @@
     {
       "added_at": "2024-01-05 00:01:00",
       "album": {
-        "name": "No Regrets",
-        "url": "https://open.spotify.com/album/7nmxATrQKN8u04O0IASv0b"
+        "name": "James Bond (With Harley)",
+        "url": "https://open.spotify.com/album/0ZjPpZefOqsc9v26PZa4cg"
       },
       "artists": [
         {
-          "name": "Blackway",
-          "url": "https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi"
+          "name": "Jujuboy",
+          "url": "https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a"
         },
         {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+          "name": "Banx & Ranx",
+          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
+        },
+        {
+          "name": "Harley",
+          "url": "https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5"
         }
       ],
-      "duration_ms": 145610,
-      "name": "No Regrets",
-      "url": "https://open.spotify.com/track/1Bi8XmQs9vNPPkMQ3wyOux"
+      "duration_ms": 161739,
+      "name": "James Bond (With Harley)",
+      "url": "https://open.spotify.com/track/3BOP1rsMQA0q5QV5obyNG2"
     },
     {
       "added_at": "2024-01-05 00:01:00",
@@ -887,26 +911,6 @@
     {
       "added_at": "2024-01-05 00:01:00",
       "album": {
-        "name": "BAD TILL ETERNITY (feat. Zlatan)",
-        "url": "https://open.spotify.com/album/4REcDrYHUkwAsyFH51SbOi"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "BAD TILL ETERNITY (feat. Zlatan)",
-      "url": "https://open.spotify.com/track/2iJxQENVp6qHhHv1rdoPtX"
-    },
-    {
-      "added_at": "2024-01-05 00:01:00",
-      "album": {
         "name": "031 To The World 2.0",
         "url": "https://open.spotify.com/album/1rFKpOUsG1tWjGyHgYp3rH"
       },
@@ -927,6 +931,26 @@
     {
       "added_at": "2024-01-05 00:01:00",
       "album": {
+        "name": "BAD TILL ETERNITY (feat. Zlatan)",
+        "url": "https://open.spotify.com/album/4REcDrYHUkwAsyFH51SbOi"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "BAD TILL ETERNITY (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/2iJxQENVp6qHhHv1rdoPtX"
+    },
+    {
+      "added_at": "2024-01-05 00:01:00",
+      "album": {
         "name": "Bando Diaries",
         "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
       },
@@ -943,30 +967,6 @@
       "duration_ms": 158298,
       "name": "Bando Diaries",
       "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
-    },
-    {
-      "added_at": "2024-01-05 00:01:00",
-      "album": {
-        "name": "James Bond (With Harley)",
-        "url": "https://open.spotify.com/album/0ZjPpZefOqsc9v26PZa4cg"
-      },
-      "artists": [
-        {
-          "name": "Jujuboy",
-          "url": "https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a"
-        },
-        {
-          "name": "Banx & Ranx",
-          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
-        },
-        {
-          "name": "Harley",
-          "url": "https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "James Bond (With Harley)",
-      "url": "https://open.spotify.com/track/3BOP1rsMQA0q5QV5obyNG2"
     },
     {
       "added_at": "2024-01-05 00:01:00",

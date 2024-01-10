@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-902 songs - 1 day 23 hr 34 min
+903 songs - 1 day 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [Du & jag](https://open.spotify.com/track/238cGn6CtR3w3Ugage1c8o) | [Poolkant](https://open.spotify.com/artist/6CToC6Dzd86xtNaRUBp1cE) | [Du & jag](https://open.spotify.com/album/0tcBkHCenEUvUv4aQW5GzG) | 2:46 | 2022-06-16 | 2023-02-14 |
 | [Du får allt](https://open.spotify.com/track/3DXyXXXfq8fOr1hLVZ6jkk) | [Tiger](https://open.spotify.com/artist/13daebbVeDg0MQzofle4hQ) | [Du får allt](https://open.spotify.com/album/3rhGsvhnwnTUA4xOEiyETE) | 3:16 | 2022-02-20 | 2022-05-08 |
 | [Du förtjänar det](https://open.spotify.com/track/3h9gue3M30OFKEEBKJXRjE) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Du förtjänar det](https://open.spotify.com/album/3DFyVQhs7YYtmL1TmDgyRn) | 3:19 | 2022-05-12 | 2023-10-06 |
-| [Du har fel](https://open.spotify.com/track/396xDoQ53JLaRv9MvIr7Ge) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Du har fel](https://open.spotify.com/album/5rcfdNQJA0jQTlN5xd2IgH) | 2:44 | 2023-08-17 |  |
+| [Du har fel](https://open.spotify.com/track/396xDoQ53JLaRv9MvIr7Ge) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Du har fel](https://open.spotify.com/album/5rcfdNQJA0jQTlN5xd2IgH) | 2:44 | 2023-08-17 | 2024-01-10 |
 | [Du kommer dra](https://open.spotify.com/track/2B1lM51YSusA3I5OUpD8yN) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Tills alla glömt oss](https://open.spotify.com/album/4d0B1xECMoQLXQwt10W2pa) | 2:59 | 2021-12-16 | 2022-01-14 |
 | [Du sa \(det kanske var fult\)](https://open.spotify.com/track/2FOYQ8TV3xcH8FBZlnSbww) | [Vibefabriken](https://open.spotify.com/artist/4OoB00ctLYR2VL8FdseAVW) | [Du sa \(det kanske var fult\)](https://open.spotify.com/album/7cLCVo7ZkZ0TQc5XGaYmux) | 2:42 | 2022-02-26 | 2022-04-01 |
 | [Du är allt jag vill ha](https://open.spotify.com/track/6jMDUl6rExqyjRzYavMFuy) | [Oscar Enestad](https://open.spotify.com/artist/1rfH6kxUn8tYlzejKr3894) | [Du är allt jag vill ha](https://open.spotify.com/album/6SwhrL9xj9ujMVNrKmFU6m) | 3:00 | 2022-04-28 | 2022-07-29 |
@@ -567,6 +567,7 @@
 | [Nåt på fickan](https://open.spotify.com/track/4NCi8meUtDzj04ovWWyDTr) | [Vince Wavy](https://open.spotify.com/artist/1SqKGJizWclJMBj6HETaTW), [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj), [Niello](https://open.spotify.com/artist/3oKLD3PuOc20nNDoSCKDY7) | [Nåt på fickan](https://open.spotify.com/album/0Oh2dhmJjIxXz2sh5dV7mT) | 2:30 | 2022-05-05 | 2022-07-29 |
 | [Nåt äkta](https://open.spotify.com/track/0GijOgh6mFH7J0UIhOBKnk) | [Adam Chia](https://open.spotify.com/artist/2pyhqBRwNtetqduSFHxaUX), [MAYKA](https://open.spotify.com/artist/4qVmTeHPsnwfF0QcQCGpnl) | [Hellre än mig själv](https://open.spotify.com/album/0pISOIFj7YO5fhpoBlzHoW) | 3:40 | 2022-06-09 | 2022-07-29 |
 | [Oas](https://open.spotify.com/track/0XpRnotgEEsbFHY7UfXH3o) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Oas](https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c) | 3:17 | 2023-04-01 | 2023-10-20 |
+| [Ocean In Me](https://open.spotify.com/track/5gW2cExcvFhma0Eb9ROVVp) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Ocean In Me](https://open.spotify.com/album/02lUjkyXOvzAEoRUmrkXBg) | 2:58 | 2024-01-04 |  |
 | [Ocean Of Love](https://open.spotify.com/track/0HuzGszWURfPh46OS02wyn) | [Petra Marklund](https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh), [September](https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b) | [Ocean Of Love](https://open.spotify.com/album/4OEcpFgO5HBSaGm0NzLDKd) | 2:57 | 2023-08-10 | 2023-11-17 |
 | [Oh Baby](https://open.spotify.com/track/5KeJHKaYCrj7zlCmUQFJgM) | [Fille Danza](https://open.spotify.com/artist/5oWrOLZfLDGgpeD3crSRa3), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [FELIPE](https://open.spotify.com/album/50rSkiR15M7T5u517w92F2) | 2:45 | 2021-12-16 | 2022-05-13 |
 | [Okomplicerat](https://open.spotify.com/track/4qU1Tg6e4EjqHpXCqRgl5Y) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70) | [Okomplicerat](https://open.spotify.com/album/7oODwFGKBTWSHXBpDdwjwk) | 2:39 | 2023-05-04 | 2023-10-20 |

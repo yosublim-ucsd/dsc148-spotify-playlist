@@ -1,12 +1,12 @@
 {
   "description": "Legendary blues guitarists. Cover: Buddy Guy",
-  "num_followers": 25265,
+  "num_followers": 25276,
   "original_name": "Classic Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmFkY2E3NWZjYjQwMjlmYzViYjFjODY0OWU1MDhmZjViNzdmNTFl",
+  "snapshot_id": "MCxlM2QzYzMzODQ0NWMxMzRlNjkyN2NjYWNlMDZhMGE1NmZlYWFkNDQx",
   "tracks": [
     {
       "added_at": "2020-10-21 20:41:20",
@@ -91,22 +91,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Somebody Loan Me A Dime",
-        "url": "https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl"
-      },
-      "artists": [
-        {
-          "name": "Fenton Robinson",
-          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
-        }
-      ],
-      "duration_ms": 179693,
-      "name": "Somebody Loan Me A Dime",
-      "url": "https://open.spotify.com/track/35X1ucjCm7rHK80qJ413ci"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "King Of The Electric Blues",
         "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
       },
@@ -187,22 +171,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Indianola Mississippi Seeds",
-        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 293733,
-      "name": "Chains And Things",
-      "url": "https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "Bad News Is Coming",
         "url": "https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT"
       },
@@ -215,6 +183,22 @@
       "duration_ms": 445533,
       "name": "Bad News Is Coming",
       "url": "https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Indianola Mississippi Seeds",
+        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 293733,
+      "name": "Chains And Things",
+      "url": "https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -831,6 +815,22 @@
       "duration_ms": 192493,
       "name": "Blues Power",
       "url": "https://open.spotify.com/track/79rWsO8ZlvekVEsGAzeFeA"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Somebody Loan Me A Dime (Remastered)",
+        "url": "https://open.spotify.com/album/5ygra0dlPxh6lH6CqSCOeZ"
+      },
+      "artists": [
+        {
+          "name": "Fenton Robinson",
+          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
+        }
+      ],
+      "duration_ms": 176747,
+      "name": "Somebody Loan Me A Dime - Remastered",
+      "url": "https://open.spotify.com/track/3CBV8LLmD6YACpUR6P85Di"
     }
   ],
   "unique_name": "Classic Blues Guitar",

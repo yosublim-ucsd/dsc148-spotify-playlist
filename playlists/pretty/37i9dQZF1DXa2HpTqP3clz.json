@@ -1,12 +1,12 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Willie Nelson",
-  "num_followers": 130755,
+  "num_followers": 130740,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjMyMGMyYTVjOTIxNzZmODg1MmQzZTdlZjU0ZDU4NDAwMjA2MTE2",
+  "snapshot_id": "MCw5ZWMwNDg4OGMxMTQ3ZGIzYjk4YzYxYTdmYWQzYjdhMzgzMDI3Mjlj",
   "tracks": [
     {
       "added_at": "2023-11-24 06:00:00",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Bad For You",
+        "url": "https://open.spotify.com/album/4Ciw110gdWtwcleY7KQMRI"
+      },
+      "artists": [
+        {
+          "name": "The Steeldrivers",
+          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
+        }
+      ],
+      "duration_ms": 185022,
+      "name": "I Choose You",
+      "url": "https://open.spotify.com/track/56QIi1ES8speRvNHIHaHHl"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "How the Mighty Fall",
         "url": "https://open.spotify.com/album/0xSyaaBZ3hrYf8rROAs125"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 258683,
       "name": "Lyin' Low",
       "url": "https://open.spotify.com/track/3g8UrwhapPBLVUU6WX6MH0"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Watchhouse",
-        "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 185728,
-      "name": "New Star",
-      "url": "https://open.spotify.com/track/5XCySQu79sw9DDCuAjdn2R"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Bad For You",
-        "url": "https://open.spotify.com/album/4Ciw110gdWtwcleY7KQMRI"
+        "name": "Watchhouse",
+        "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
       },
       "artists": [
         {
-          "name": "The Steeldrivers",
-          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
         }
       ],
-      "duration_ms": 185022,
-      "name": "I Choose You",
-      "url": "https://open.spotify.com/track/56QIi1ES8speRvNHIHaHHl"
+      "duration_ms": 185728,
+      "name": "New Star",
+      "url": "https://open.spotify.com/track/5XCySQu79sw9DDCuAjdn2R"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Twisted Pine",
-        "url": "https://open.spotify.com/album/0Wqmu0yvCdbcd9Vgsq3G3i"
-      },
-      "artists": [
-        {
-          "name": "Twisted Pine",
-          "url": "https://open.spotify.com/artist/1hS8I57cnaheZpt7Tdn6ps"
-        }
-      ],
-      "duration_ms": 252428,
-      "name": "When I Called Your Name",
-      "url": "https://open.spotify.com/track/5TqVxkKAbdoc4iyShy5tTq"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Storyman",
         "url": "https://open.spotify.com/album/25F6ItCZFGZ79LvZVhlDIm"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 211160,
       "name": "Play By Your Own Rules",
       "url": "https://open.spotify.com/track/1ckFSTIyJECBMf9PX0Ezhc"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Twisted Pine",
+        "url": "https://open.spotify.com/album/0Wqmu0yvCdbcd9Vgsq3G3i"
+      },
+      "artists": [
+        {
+          "name": "Twisted Pine",
+          "url": "https://open.spotify.com/artist/1hS8I57cnaheZpt7Tdn6ps"
+        }
+      ],
+      "duration_ms": 252428,
+      "name": "When I Called Your Name",
+      "url": "https://open.spotify.com/track/5TqVxkKAbdoc4iyShy5tTq"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Celebrants",
-        "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
-      },
-      "artists": [
-        {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
-        }
-      ],
-      "duration_ms": 204618,
-      "name": "Where the Long Line Leads",
-      "url": "https://open.spotify.com/track/2nl7VPKy1XQ2NiUrdI5AeY"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Almost Proud",
         "url": "https://open.spotify.com/album/5DlbNGFefCiS7JOMEPn6VP"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 152786,
       "name": "Honky Tonk Nights",
       "url": "https://open.spotify.com/track/4tmkIG5XC53MyN7NBeTXcp"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Celebrants",
+        "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "duration_ms": 204618,
+      "name": "Where the Long Line Leads",
+      "url": "https://open.spotify.com/track/2nl7VPKy1XQ2NiUrdI5AeY"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1139,38 +1139,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Ink, Dust & Luck",
-        "url": "https://open.spotify.com/album/40hyJ3WFVt22d9w4DPM3aA"
-      },
-      "artists": [
-        {
-          "name": "The Brothers Comatose",
-          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
-        }
-      ],
-      "duration_ms": 190789,
-      "name": "Don't Make Me Get up and Go",
-      "url": "https://open.spotify.com/track/7dPMI5iIdwonksEYLSdsZY"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Black Cowboys",
-        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
-      },
-      "artists": [
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        }
-      ],
-      "duration_ms": 162473,
-      "name": "Lonesome Old River Blues",
-      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Mount Royal",
         "url": "https://open.spotify.com/album/10dyZoegG6vH1VMjWkb7Ji"
       },
@@ -1183,6 +1151,22 @@
       "duration_ms": 182293,
       "name": "Greener Grass",
       "url": "https://open.spotify.com/track/0gIqzwso96i6SafJqcbgxO"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Ink, Dust & Luck",
+        "url": "https://open.spotify.com/album/40hyJ3WFVt22d9w4DPM3aA"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Comatose",
+          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
+        }
+      ],
+      "duration_ms": 190789,
+      "name": "Don't Make Me Get up and Go",
+      "url": "https://open.spotify.com/track/7dPMI5iIdwonksEYLSdsZY"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1219,6 +1203,22 @@
       "duration_ms": 153015,
       "name": "A Distant Land to Roam",
       "url": "https://open.spotify.com/track/1uQzdxrc2evBl01u1C51xz"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Black Cowboys",
+        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
+      },
+      "artists": [
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        }
+      ],
+      "duration_ms": 162473,
+      "name": "Lonesome Old River Blues",
+      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Narrow Line",
+        "url": "https://open.spotify.com/album/2r8q2wsnlNchuXp2xiMBSm"
+      },
+      "artists": [
+        {
+          "name": "Mama's Broke",
+          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
+        }
+      ],
+      "duration_ms": 199840,
+      "name": "How It Ends",
+      "url": "https://open.spotify.com/track/0kqUylCZDfyQqiSxtaCFdf"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Fire in the Dark",
         "url": "https://open.spotify.com/album/1EpaMDey2DOQao6DIXKWI1"
       },
@@ -1291,6 +1307,22 @@
       "duration_ms": 186000,
       "name": "Fire in the Dark",
       "url": "https://open.spotify.com/track/1WsfcbU8ZHTn6qWEXnRWyD"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Sidetrack My Engine",
+        "url": "https://open.spotify.com/album/00D7oBqFifBPZidNTzzkWY"
+      },
+      "artists": [
+        {
+          "name": "Nora Brown",
+          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
+        }
+      ],
+      "duration_ms": 165213,
+      "name": "Wedding Dress",
+      "url": "https://open.spotify.com/track/4TpYKbhwT9sgVptLBGqHkc"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1311,22 +1343,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Narrow Line",
-        "url": "https://open.spotify.com/album/2r8q2wsnlNchuXp2xiMBSm"
-      },
-      "artists": [
-        {
-          "name": "Mama's Broke",
-          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
-        }
-      ],
-      "duration_ms": 199840,
-      "name": "How It Ends",
-      "url": "https://open.spotify.com/track/0kqUylCZDfyQqiSxtaCFdf"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Wildflowers",
         "url": "https://open.spotify.com/album/30Gt314KlreEWOf5HG8MnX"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 223404,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/4aBIM2sFhNQX1viAcP1JQr"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Fall Like Rain",
-        "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
-      },
-      "artists": [
-        {
-          "name": "Justin Moses",
-          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
-        }
-      ],
-      "duration_ms": 262640,
-      "name": "Fall Like Rain",
-      "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Sidetrack My Engine",
-        "url": "https://open.spotify.com/album/00D7oBqFifBPZidNTzzkWY"
+        "name": "Fall Like Rain",
+        "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
       },
       "artists": [
         {
-          "name": "Nora Brown",
-          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
+          "name": "Justin Moses",
+          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
         }
       ],
-      "duration_ms": 165213,
-      "name": "Wedding Dress",
-      "url": "https://open.spotify.com/track/4TpYKbhwT9sgVptLBGqHkc"
+      "duration_ms": 262640,
+      "name": "Fall Like Rain",
+      "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1555,22 +1555,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Fall In Tennessee",
-        "url": "https://open.spotify.com/album/1QtwwF0WtSMo35OFQoyCQU"
+        "name": "Tall Tales & Fables",
+        "url": "https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr"
       },
       "artists": [
         {
-          "name": "Authentic Unlimited",
-          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
-        },
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+          "name": "Haunted Like Human",
+          "url": "https://open.spotify.com/artist/2y7Fos4NcrCLzEuf0BC2UI"
         }
       ],
-      "duration_ms": 231120,
-      "name": "Fall In Tennessee (feat. Jerry Douglas)",
-      "url": "https://open.spotify.com/track/57bKuzcq04EQaYuGhl9k8J"
+      "duration_ms": 177414,
+      "name": "Ohio",
+      "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1591,18 +1587,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Tall Tales & Fables",
-        "url": "https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr"
+        "name": "Fall In Tennessee",
+        "url": "https://open.spotify.com/album/1QtwwF0WtSMo35OFQoyCQU"
       },
       "artists": [
         {
-          "name": "Haunted Like Human",
-          "url": "https://open.spotify.com/artist/2y7Fos4NcrCLzEuf0BC2UI"
+          "name": "Authentic Unlimited",
+          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
+        },
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
         }
       ],
-      "duration_ms": 177414,
-      "name": "Ohio",
-      "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
+      "duration_ms": 231120,
+      "name": "Fall In Tennessee (feat. Jerry Douglas)",
+      "url": "https://open.spotify.com/track/57bKuzcq04EQaYuGhl9k8J"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Rhinestone Revival",
+        "url": "https://open.spotify.com/album/7cblTcbIValrJcdwLdUDvv"
+      },
+      "artists": [
+        {
+          "name": "The Kody Norris Show",
+          "url": "https://open.spotify.com/artist/0l64ISwwNK0l6H3R1bwRha"
+        }
+      ],
+      "duration_ms": 173233,
+      "name": "I Call Her Sunshine",
+      "url": "https://open.spotify.com/track/3kFQ9eRvWehIy2vweECLPY"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Open The Road",
         "url": "https://open.spotify.com/album/2j5ouBQL6NuejKYQ6HlwRx"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 188666,
       "name": "Blue Railroad Train",
       "url": "https://open.spotify.com/track/5xQF2S5p9hckklJLsTbNzq"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "The Whole of the Moon",
-        "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
-      },
-      "artists": [
-        {
-          "name": "The Travelin' McCourys",
-          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
-        }
-      ],
-      "duration_ms": 282794,
-      "name": "The Whole of the Moon",
-      "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
     }
   ],
   "unique_name": "Grass Roots",

@@ -4,7 +4,7 @@
 
 > It's Hits – största och bästa hitsen just nu!
 
-622 songs - 1 day 7 hr 19 min
+623 songs - 1 day 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-03-31 | 2022-11-04 |
 | [Astronaut \- Spotify Singles](https://open.spotify.com/track/1eHMSmiTLf8aMg4E8N2cgn) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Astronaut \- Spotify Singles](https://open.spotify.com/album/2NOivMLIOTEdbnkD6HnnfA) | 2:19 | 2023-12-05 |  |
 | [Aura](https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Aura](https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI) | 3:06 | 2023-01-31 | 2023-02-10 |
-| [Automatic](https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Automatic](https://open.spotify.com/album/6WABR1ifGFXjlVoK54LA3P) | 2:10 | 2023-10-05 |  |
+| [Automatic](https://open.spotify.com/track/3RxlMZgbTxoiGFTaSjX2Hk) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:10 | 2024-01-04 |  |
+| [Automatic](https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Automatic](https://open.spotify.com/album/6WABR1ifGFXjlVoK54LA3P) | 2:10 | 2023-10-05 | 2024-01-10 |
 | [AVION](https://open.spotify.com/track/1krKlD8QXqmcWiLxfwgK26) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [AVION / BRING EM](https://open.spotify.com/album/5qAJzq0G49ZWOvWQPJeh6Z) | 2:52 | 2022-11-24 | 2023-01-27 |
 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-04-06 | 2023-09-22 |
 | [Back To You](https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Back To You](https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr) | 2:37 | 2023-01-05 | 2023-04-14 |

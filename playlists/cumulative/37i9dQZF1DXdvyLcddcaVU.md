@@ -4,7 +4,7 @@
 
 > \#fyp
 
-244 songs - 12 hr 49 min
+245 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Chanson sur une drôle de vie](https://open.spotify.com/track/12zakSjWxrohomLLgxTkCR) | [Géraldine Nakache](https://open.spotify.com/artist/0IDsFBG1IGixFtXn0fWEFe), [Leïla Bekhti](https://open.spotify.com/artist/0glFopPWoGI1iAwltIpxOA) | [Tout ce qui brille \(Bande originale du film\)](https://open.spotify.com/album/5THGRTWYfqHjw8DfD9tAHF) | 2:47 | 2023-09-22 | 2023-12-15 |
 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-05-12 | 2023-11-11 |
 | [Cheri Cheri Lady \- New Version](https://open.spotify.com/track/2vbJUtO8SZ0nZn5qwRAo3v) | [Modern Talking](https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7) | [Back For Good](https://open.spotify.com/album/7hoiQ5aP55yfEq8TaMsZ0u) | 3:01 | 2023-11-10 | 2023-12-14 |
-| [Chipi Chipi Chapa Chapa](https://open.spotify.com/track/6PZobAHn3uKmVulYaBFusp) | [Kairas](https://open.spotify.com/artist/3Ug4eAerBcBlwia1oHosMY), [lorche](https://open.spotify.com/artist/644qnZiBHVcjcMCHsiV0PL), [Spyzah](https://open.spotify.com/artist/5meSJ0JjZXEi7NTwr4zOka) | [Chipi Chipi Chapa Chapa](https://open.spotify.com/album/2GpLlSk3DIcERUZ3PUcuRu) | 3:46 | 2024-01-05 |  |
+| [Chipi Chipi Chapa Chapa](https://open.spotify.com/track/6PZobAHn3uKmVulYaBFusp) | [Kairas](https://open.spotify.com/artist/3Ug4eAerBcBlwia1oHosMY), [lorche](https://open.spotify.com/artist/644qnZiBHVcjcMCHsiV0PL), [Spyzah](https://open.spotify.com/artist/5meSJ0JjZXEi7NTwr4zOka) | [Chipi Chipi Chapa Chapa](https://open.spotify.com/album/2GpLlSk3DIcERUZ3PUcuRu) | 3:46 | 2024-01-05 | 2024-01-10 |
+| [Chipi Chipi Chapa Chapa](https://open.spotify.com/track/0t33mdnOe8aMhO5BtRHgH5) | [lusttqwe](https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR), [lorche](https://open.spotify.com/artist/644qnZiBHVcjcMCHsiV0PL), [bexter](https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n), [Kairas](https://open.spotify.com/artist/3Ug4eAerBcBlwia1oHosMY) | [Chipi Chipi Chapa Chapa](https://open.spotify.com/album/5F1cOAxZbtA379LrMe59ZH) | 3:46 | 2024-01-05 |  |
 | [Chou Daddy](https://open.spotify.com/track/0k8BfK43wucvEDpvVpU2Py) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Chou Daddy](https://open.spotify.com/album/7gk1ye4LIJ3WwJTVK2G1gR) | 1:28 | 2023-06-30 | 2023-11-11 |
 | [Chou Daddy](https://open.spotify.com/track/6e4UhRfZqwC8xdbgDs1gb1) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Chou Daddy](https://open.spotify.com/album/1kld714TJvVclAm3vuRLkR) | 1:28 | 2023-06-30 | 2023-11-18 |
 | [Chou wasabi \(feat\. Micky Green\)](https://open.spotify.com/track/1mZbP5dp7CAU2qZI2I6OiV) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj), [Micky Green](https://open.spotify.com/artist/2xRBcpNYedlk5IhmIxfUqo) | [LØVE](https://open.spotify.com/album/5fdRqRdlIX33J8ruK9jd3I) | 3:39 | 2023-11-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Canção & Louvor
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,053 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,033 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 34 | [O Crente e a Palmeira](https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Viola e Adoração](https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l) | 2:38 |
 | 35 | [A Terra e o Lavrador](https://open.spotify.com/track/4qSeN5WmrJhzvkDeCkE3b4) | [Carina Garay](https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz) | [A Terra e o Lavrador](https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb) | 3:20 |
 | 36 | [Tudo](https://open.spotify.com/track/3hWDJKRQcZxruEHaNIRrxL) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Tudo](https://open.spotify.com/album/4Euna4VyMQhDuL63IDP4fK) | 4:31 |
-| 37 | [A Reforma](https://open.spotify.com/track/6kNQNhGAovsClhTxgQS1Rm) | [Jayana Moreira](https://open.spotify.com/artist/0UqskVGZu74OjVGF2KmvBH) | [A Reforma](https://open.spotify.com/album/1sP2MouMuWffJbewWHBUv2) | 4:47 |
-| 38 | [Ovelha Rebelde](https://open.spotify.com/track/7piiMIaFGghRoZOmRagG9W) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [O Meu Clamor, Vol\. 2](https://open.spotify.com/album/4iHzsyoNQH9rNDUlitUa7e) | 3:14 |
+| 37 | [Ovelha Rebelde](https://open.spotify.com/track/7piiMIaFGghRoZOmRagG9W) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [O Meu Clamor, Vol\. 2](https://open.spotify.com/album/4iHzsyoNQH9rNDUlitUa7e) | 3:14 |
+| 38 | [A Reforma](https://open.spotify.com/track/6kNQNhGAovsClhTxgQS1Rm) | [Jayana Moreira](https://open.spotify.com/artist/0UqskVGZu74OjVGF2KmvBH) | [A Reforma](https://open.spotify.com/album/1sP2MouMuWffJbewWHBUv2) | 4:47 |
 | 39 | [Estou de Volta](https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Estou de Volta](https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf) | 4:05 |
 | 40 | [Quem Procura Acha](https://open.spotify.com/track/0t34g5rLBbVubjIzQdgCKn) | [Joy Camargo](https://open.spotify.com/artist/6fRHIW5YdnSr2eJorBBECK) | [Quem Procura Acha](https://open.spotify.com/album/30VFooHGuhOWOFMJkSKJZn) | 3:02 |
-| 41 | [Eu Vou para o Céu](https://open.spotify.com/track/0qacmh2FDALRfili16U6wk) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [Eu Vou para o Céu](https://open.spotify.com/album/79ystA3RcQXeTnJVRjqUpf) | 3:21 |
-| 42 | [Adorador por Excelência \- Ao Vivo](https://open.spotify.com/track/7hjuwRZx76dcxlmsUgVVzc) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Adorador por Excelência \(Ao Vivo\)](https://open.spotify.com/album/53CN56MYCjXDkDBkWmmusF) | 3:59 |
+| 41 | [Adorador por Excelência \- Ao Vivo](https://open.spotify.com/track/7hjuwRZx76dcxlmsUgVVzc) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Adorador por Excelência \(Ao Vivo\)](https://open.spotify.com/album/53CN56MYCjXDkDBkWmmusF) | 3:59 |
+| 42 | [Eu Vou para o Céu](https://open.spotify.com/track/0qacmh2FDALRfili16U6wk) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [Eu Vou para o Céu](https://open.spotify.com/album/79ystA3RcQXeTnJVRjqUpf) | 3:21 |
 | 43 | [Quem Foi Que Me Tocou](https://open.spotify.com/track/0FgEqIM4SYwjvCbdIzQU04) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Quem Foi Que Me Tocou](https://open.spotify.com/album/7f6cChSO1EpHAlmEZLXbRX) | 4:41 |
 | 44 | [Assim Como Deus Quer](https://open.spotify.com/track/2xvZtpiHJL0iXsrIU3cGBX) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Assim Como Deus Quer](https://open.spotify.com/album/6a81t6Y2AyENXQubLiVnBD) | 2:43 |
 | 45 | [Mais que Vencedor \(feat\. Carlos Henrique\)](https://open.spotify.com/track/1q3rYJMoGc0FDhdyPcTnBw) | [Kleuder Leão](https://open.spotify.com/artist/7Ft5r1OOfJxIoMrm61T8tk), [Carlos Henrique](https://open.spotify.com/artist/3QlHTFeE4uEB4zLEv9gy4r) | [Mais que Vencedor \(feat\. Carlos Henrique\)](https://open.spotify.com/album/67hDmO0TuD5Dsau7zZbK73) | 3:35 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 59 | [Caminhão 11 13 \- Ao Vivo](https://open.spotify.com/track/3NubUCC2PTleNfZs2h9YDL) | [Lázaro e Eduardo](https://open.spotify.com/artist/6Hsz3V67jWpX7tqCNH0NQF) | [Caminhão 11 13 \(Ao Vivo\)](https://open.spotify.com/album/3gFgVmyBu9n3E0ulLTFHO7) | 3:00 |
 | 60 | [Além da Medicina](https://open.spotify.com/track/3M5XPQrRi1IDPnR7aEPtUw) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Além da Medicina](https://open.spotify.com/album/4CU6JZnVCUPvq8iYHCNjED) | 4:46 |
 
-Snapshot ID: `MCw1N2NkN2I0NTM0Mzc4MTdhMTY4YjA1NTliZGZhMTBmOGE4MmRhYmFh`
+Snapshot ID: `MCw5ZmNjZjA3Mzk4MWJmNjljYzY3YmI3M2Q1ZjY3NTk2ZTBlYzg3OTdi`

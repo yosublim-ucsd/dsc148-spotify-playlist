@@ -1,12 +1,12 @@
 {
   "description": "beber gin em casa, nada melhor",
-  "num_followers": 120600,
+  "num_followers": 120627,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWRjOTZmYzA1NGNkOGRlMjViYjliMjFkOTk3NWEwYzljNzc3M2Ix",
+  "snapshot_id": "MCxkYjViZjA4ODlhYzIyMzE4OTliZGFhODJhY2FmNjNhZTc4MzJhYjcy",
   "tracks": [
     {
       "added_at": "2023-12-08 03:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
+        "name": "Positions (Deluxe)",
+        "url": "https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 122174,
+      "name": "test drive",
+      "url": "https://open.spotify.com/track/3eZYOQO4UzKrUDYDghtnFw"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
         "name": "Ventura",
         "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 219332,
       "name": "Make It Better (feat. Smokey Robinson)",
       "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "Positions (Deluxe)",
-        "url": "https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 122174,
-      "name": "test drive",
-      "url": "https://open.spotify.com/track/3eZYOQO4UzKrUDYDghtnFw"
     },
     {
       "added_at": "2023-12-08 03:00:00",

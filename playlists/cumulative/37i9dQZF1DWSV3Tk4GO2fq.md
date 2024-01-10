@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1950s.
 
-320 songs - 14 hr 45 min
+321 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [I'm Old Fashioned \- Remastered 1997](https://open.spotify.com/track/1duCPx5TGotRzzWdodsHt1) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Triple Best Of](https://open.spotify.com/album/3lhrYXTfyLoFl7VI6K7l0C) | 7:56 | 2022-06-09 | 2022-11-13 |
 | [I'm So Lonesome I Could Cry](https://open.spotify.com/track/0hveAq1VSNWo9MQYGMHvFF) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [Moanin' The Blues \(Expanded Edition\)](https://open.spotify.com/album/3cusZESjkIDnDXyQwbpSsT) | 2:48 | 2023-02-28 |  |
 | [I'm Sorry](https://open.spotify.com/track/4LJcNiq2pBb8OeqrGdBJQw) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Brenda Lee](https://open.spotify.com/album/3DzEQCPg0Irz2vWUaBSEkm) | 2:41 | 2022-06-09 |  |
-| [I'm Walkin'](https://open.spotify.com/track/2gZlblsff9FKnhSIwB2ZsU) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Fats Domino Swings](https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf) | 2:06 | 2022-06-09 |  |
+| [I'm Walkin'](https://open.spotify.com/track/2gZlblsff9FKnhSIwB2ZsU) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Fats Domino Swings](https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf) | 2:06 | 2022-06-09 | 2024-01-10 |
 | [I'm Walkin'](https://open.spotify.com/track/07TQDFaoLBwvo6JU1nnaiU) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Legends Of Rock n' Roll](https://open.spotify.com/album/4b9RizMvXeRHO3ZihUfas6) | 2:15 | 2021-04-28 | 2022-07-29 |
 | [I'm Your Hoochie Coochie Man](https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 3:58 | 2021-04-28 |  |
 | [I've Got a Woman](https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles \(aka: Hallelujah, I Love Her So\)](https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0) | 2:51 | 2021-04-28 |  |
@@ -141,6 +141,7 @@
 | [It's Only Make Believe \- Single Version](https://open.spotify.com/track/6Em0JcoORXzv0BGfxAacpv) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [It's Only Make Believe/The MGM Years](https://open.spotify.com/album/7MQ7DVMk4wBymAhDvTV8jo) | 2:12 | 2021-04-28 | 2022-07-29 |
 | [Jailhouse Rock](https://open.spotify.com/track/4gphxUgq0JSFv2BCLhNDiE) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:26 | 2021-04-28 |  |
 | [Jambalaya \(On The Bayou\)](https://open.spotify.com/track/1slMt4LizkO9dVcMZItJ1O) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [The Best Of Fats Domino](https://open.spotify.com/album/0aJTqumjo0IA5saTW58Xzm) | 2:24 | 2021-04-28 | 2022-07-29 |
+| [Jambalaya \(On The Bayou\)](https://open.spotify.com/track/6YS9gh6dxp4rYKWk5jjBDC) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Legends Of Rock n' Roll](https://open.spotify.com/album/4b9RizMvXeRHO3ZihUfas6) | 2:26 | 2022-06-09 |  |
 | [Jambalaya \(On The Bayou\)](https://open.spotify.com/track/2KJOfVTxWkbtRMGByeEQ7V) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW), [Drifting Cowboys](https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml) | [The Complete Hank Williams](https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN) | 2:52 | 2021-04-28 | 2023-04-16 |
 | [Jambalaya \(On The Bayou\) \- Remastered 2002](https://open.spotify.com/track/69S4GgVyV3Fs7kIz5gl3rv) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [The Fats Domino Jukebox: 20 Greatest Hits The Way You Originally Heard Them](https://open.spotify.com/album/1hs1BjRp9t8AjVY9J6vE1b) | 2:23 | 2022-06-09 | 2022-11-13 |
 | [Johnny B\. Goode](https://open.spotify.com/track/5py1PCd305Y7lKf55KCnnz) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [The Best of Blues Rock Songbook 20th Century Masters The Millennium Collection](https://open.spotify.com/album/5zAkTrHHX2YYKcEVyJgFZT) | 2:39 | 2022-06-09 | 2022-11-13 |

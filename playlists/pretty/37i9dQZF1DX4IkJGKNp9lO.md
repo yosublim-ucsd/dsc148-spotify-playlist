@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,808 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,815 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 29 | [Punkrockarflicka](https://open.spotify.com/track/5WUTe6rxs2C9lwd5MtAfBU) | [En Svensk Tiger](https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q) | [Versace Style](https://open.spotify.com/album/7DYNmpEqsmrso2Gqz2x08f) | 2:08 |
 | 30 | [Alderland \(NO\)](https://open.spotify.com/track/1m7AguIMU7bffCcc8j17sK) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv), [Renate](https://open.spotify.com/artist/2Y8wXdNaw1DlGZvbwGgh5n) | [Alderland \(NO\)](https://open.spotify.com/album/6szx99wRMChXhT3p6arm2L) | 3:28 |
 | 31 | [Herrarna I Sandlådan](https://open.spotify.com/track/4LMQqcT7PChwUucFyhyWtY) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tecken I Tiden](https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd) | 4:10 |
-| 32 | [Tyst för fan](https://open.spotify.com/track/6NJNjEVI1AU7UYIrUZTd1Y) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Ebba Grön 1978 \- 1982](https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R) | 2:29 |
-| 33 | [Drömmen](https://open.spotify.com/track/5b0r4KGSNjxplg8fmpsnva) | [Radioaktiva Räker](https://open.spotify.com/artist/7j4RimWxVqLWTtWtmEf2Qd) | [Labyrint](https://open.spotify.com/album/4KUhSI60vpQqSqWIWT9E5S) | 2:05 |
+| 32 | [Drömmen](https://open.spotify.com/track/5b0r4KGSNjxplg8fmpsnva) | [Radioaktiva Räker](https://open.spotify.com/artist/7j4RimWxVqLWTtWtmEf2Qd) | [Labyrint](https://open.spotify.com/album/4KUhSI60vpQqSqWIWT9E5S) | 2:05 |
+| 33 | [Tyst för fan](https://open.spotify.com/track/6NJNjEVI1AU7UYIrUZTd1Y) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Ebba Grön 1978 \- 1982](https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R) | 2:29 |
 | 34 | [Psykopaten](https://open.spotify.com/track/2NXA45aJcDNJ8zdE9LB4YO) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [Sista Dansen](https://open.spotify.com/album/1wXD1Pkuf56DSvkQE3kFQz) | 3:19 |
 | 35 | [Spriten Räddade Mig Från Sporten](https://open.spotify.com/track/4U2fgDPZ2C4qkrfz88ViSF) | [Räserbajs](https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X) | [Noppriga Tights Och Moonboots](https://open.spotify.com/album/7Ej9w61IrbodhAxrNRXYTn) | 3:24 |
 | 36 | [Sverigevänner](https://open.spotify.com/track/74ZYleEd9SYtyziSyvaDb3) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Ond saga](https://open.spotify.com/album/4ZjxaSk7kgGkWIttkK7D0X) | 3:24 |
@@ -64,10 +64,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 54 | [Hela hatet stormar](https://open.spotify.com/track/7KxxR4leTRgoF36DPyeqDD) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI), [Loke Nyberg](https://open.spotify.com/artist/1SovpimyX6noSdwHMymCIA) | [För Sverige](https://open.spotify.com/album/1qAOtAfBZwnxpU4n1fVzoS) | 3:25 |
 | 55 | [Brinner](https://open.spotify.com/track/30UvZ7ZoerQChs2wLgTuqR) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Alla sover](https://open.spotify.com/album/6Ey1sBXBiOW7Y3QCyenE0v) | 2:47 |
 | 56 | [Feta Gubbar](https://open.spotify.com/track/0XwpJFzmXViS6TImtpv9lM) | [Sten & Stalin](https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9) | [Värdelös](https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp) | 2:03 |
-| 57 | [S.O.S](https://open.spotify.com/track/7yNxro22FYcz5HSdfB7Crr) | [SMÅJÄVLAFÖTTER](https://open.spotify.com/artist/2Ml3alZX8KmZYcaVzzgdx5) | [Kapitalismens sista generation](https://open.spotify.com/album/7luX0TYMkpAIVxN4s0hBZs) | 1:35 |
-| 58 | [Sibylla](https://open.spotify.com/track/5ZXcG9xpZbedvg6XjEF9JC) | [Hans & Greta](https://open.spotify.com/artist/1MiHrCnLxMQT9PHFYWN4ie) | [Snabbmat För Folk I Farten](https://open.spotify.com/album/0QxstpnJJBgNvD4qzqolGw) | 3:30 |
-| 59 | [Som En Doft Av Napalm](https://open.spotify.com/track/68dRAj0qJy7KQe4FxjUqrc) | [Slutstation Tjernobyl](https://open.spotify.com/artist/7hGagoTcGYInEGKeZdS6wC) | [Vi Är Alla Stjärnor](https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn) | 2:25 |
-| 60 | [Simpel Matematik](https://open.spotify.com/track/3v0YqaZ4UG78gzaQDiPbAQ) | [Kardinal Synd](https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O) | [\[emo\]](https://open.spotify.com/album/57RyBvC6QTcd13XRfo9MDP) | 3:12 |
+| 57 | [Sibylla](https://open.spotify.com/track/5ZXcG9xpZbedvg6XjEF9JC) | [Hans & Greta](https://open.spotify.com/artist/1MiHrCnLxMQT9PHFYWN4ie) | [Snabbmat För Folk I Farten](https://open.spotify.com/album/0QxstpnJJBgNvD4qzqolGw) | 3:30 |
+| 58 | [Som En Doft Av Napalm](https://open.spotify.com/track/68dRAj0qJy7KQe4FxjUqrc) | [Slutstation Tjernobyl](https://open.spotify.com/artist/7hGagoTcGYInEGKeZdS6wC) | [Vi Är Alla Stjärnor](https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn) | 2:25 |
+| 59 | [Simpel Matematik](https://open.spotify.com/track/3v0YqaZ4UG78gzaQDiPbAQ) | [Kardinal Synd](https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O) | [\[emo\]](https://open.spotify.com/album/57RyBvC6QTcd13XRfo9MDP) | 3:12 |
+| 60 | [S.O.S](https://open.spotify.com/track/7yNxro22FYcz5HSdfB7Crr) | [SMÅJÄVLAFÖTTER](https://open.spotify.com/artist/2Ml3alZX8KmZYcaVzzgdx5) | [Kapitalismens sista generation](https://open.spotify.com/album/7luX0TYMkpAIVxN4s0hBZs) | 1:35 |
 | 61 | [Vägra](https://open.spotify.com/track/1xKkbE6TAk0fw982WRofnl) | [Borgerlig Begravning](https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q) | [Borgerlig begravning](https://open.spotify.com/album/7CrfHrApj1K5LpjSyiSUYH) | 2:01 |
 | 62 | [39 Steg](https://open.spotify.com/track/2rV0t4N2oZnTl2yjDnRc0I) | [Strebers](https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ) | [Kallt Stål, Varmt Blod + I Fädrens Spår](https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t) | 3:31 |
 | 63 | [Gravöl](https://open.spotify.com/track/3FHqXZWwfSRnUCleK2U0eI) | [Köttgrottorna](https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY) | [Sex Politik & Fåglar](https://open.spotify.com/album/32VvPLYDMKpWrko4eTSA9k) | 3:06 |
@@ -86,21 +86,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 76 | [Börja om](https://open.spotify.com/track/3U3G16vBDC8C21ZthEWizZ) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Becksvart](https://open.spotify.com/album/10j4eMKww3Vibu641umgr5) | 2:42 |
 | 77 | [Tidens tempo](https://open.spotify.com/track/01URoRZKSsMbExgdmiuiwy) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Aktion](https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6) | 2:12 |
 | 78 | [Bipolär & Kär](https://open.spotify.com/track/6K0sbOwK1P3XPGCxBU6YNO) | [Krispig Botten](https://open.spotify.com/artist/6nSEM4Qp20aVhFWfjKfPVN) | [Bipolär & Kär](https://open.spotify.com/album/60S14JbrY1QAvPLinywSVz) | 3:05 |
-| 79 | [Rosita](https://open.spotify.com/track/7tCrArweMQhmc2s8ad0d53) | [The Manikins](https://open.spotify.com/artist/7GW07MfbJzyhaXH4q8rJsu) | [Rosita](https://open.spotify.com/album/4ub7wQzeA0WWwstboakvmg) | 3:10 |
-| 80 | [Ställ dig upp](https://open.spotify.com/track/05mOnCWhhStBlH3veQAKWX) | [Pastoratet](https://open.spotify.com/artist/5S2B2ftvKw03xrAB0SgpWI) | [Mvh Grannen](https://open.spotify.com/album/4fePJdRUECaFQ7D1UKq7FK) | 3:24 |
+| 79 | [Ställ dig upp](https://open.spotify.com/track/05mOnCWhhStBlH3veQAKWX) | [Pastoratet](https://open.spotify.com/artist/5S2B2ftvKw03xrAB0SgpWI) | [Mvh Grannen](https://open.spotify.com/album/4fePJdRUECaFQ7D1UKq7FK) | 3:24 |
+| 80 | [Rosita](https://open.spotify.com/track/7tCrArweMQhmc2s8ad0d53) | [The Manikins](https://open.spotify.com/artist/7GW07MfbJzyhaXH4q8rJsu) | [Rosita](https://open.spotify.com/album/4ub7wQzeA0WWwstboakvmg) | 3:10 |
 | 81 | [Tänk negativt](https://open.spotify.com/track/0C8VuNSqfWxkwKmVx8Spl9) | [Attentat](https://open.spotify.com/artist/78GFaTPk9W1HfaWvmoRO8n) | [Det blir som det blir](https://open.spotify.com/album/6ejXSnBxHRi9g5HuT1lMfj) | 2:31 |
 | 82 | [Jag vill bli som far](https://open.spotify.com/track/1Ne8gSf8gEUMSSNZ8vnFsq) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Aktion](https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6) | 1:18 |
 | 83 | [Martin I Skitlandet](https://open.spotify.com/track/21BF181yxyzkT8QbHvc16W) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Pengar Har Inga Ögon](https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY) | 2:16 |
 | 84 | [Kungar Och Knektar](https://open.spotify.com/track/6wsYpZEtDnnuAnWlUZwti0) | [Räserbajs](https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X) | [Fina Flickor](https://open.spotify.com/album/10zKkoCqYTmbhzvri9o4My) | 2:23 |
-| 85 | [Någon form av svar](https://open.spotify.com/track/1stF6GJvw36GjBrVnJmW7t) | [Crash Nomada](https://open.spotify.com/artist/67jps1aP8vHb99GSaT2Hkh) | [Crash Nomada](https://open.spotify.com/album/5JfnRL57adQUcl9XU57tyG) | 3:39 |
-| 86 | [Till Krig](https://open.spotify.com/track/2Dm3dpz92r2Ov6ahGrrpDT) | [Slutstation Tjernobyl](https://open.spotify.com/artist/7hGagoTcGYInEGKeZdS6wC) | [Vi Är Alla Stjärnor](https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn) | 3:22 |
+| 85 | [Till Krig](https://open.spotify.com/track/2Dm3dpz92r2Ov6ahGrrpDT) | [Slutstation Tjernobyl](https://open.spotify.com/artist/7hGagoTcGYInEGKeZdS6wC) | [Vi Är Alla Stjärnor](https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn) | 3:22 |
+| 86 | [Någon form av svar](https://open.spotify.com/track/1stF6GJvw36GjBrVnJmW7t) | [Crash Nomada](https://open.spotify.com/artist/67jps1aP8vHb99GSaT2Hkh) | [Crash Nomada](https://open.spotify.com/album/5JfnRL57adQUcl9XU57tyG) | 3:39 |
 | 87 | [Äganderätt?](https://open.spotify.com/track/0xiDWdGTuCKSuPwgZ9B22F) | [Gymnastiken](https://open.spotify.com/artist/2Y0hhrOobEr0wh8JbCBiI2) | [Ännu En Gång](https://open.spotify.com/album/6E7agzpUqkobH8BXLbct0F) | 2:35 |
-| 88 | [Pyramiden](https://open.spotify.com/track/7GbwZ7jTR2w4G4GekS9OHa) | [Borgerlig Begravning](https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q) | [Pyramiden](https://open.spotify.com/album/1feSgkNqTaKXXAxgjy6vsK) | 2:59 |
-| 89 | [Lyckliga Land](https://open.spotify.com/track/1NB4kKYHMHPdQl6Jx6xxns) | [Iguana party](https://open.spotify.com/artist/0KnMJRO7zyMJ0Ny8K0P84Q) | [Lyckliga Land](https://open.spotify.com/album/3jnqE1lvZi9o7ivHjc1YR7) | 3:21 |
+| 88 | [Lyckliga Land](https://open.spotify.com/track/1NB4kKYHMHPdQl6Jx6xxns) | [Iguana party](https://open.spotify.com/artist/0KnMJRO7zyMJ0Ny8K0P84Q) | [Lyckliga Land](https://open.spotify.com/album/3jnqE1lvZi9o7ivHjc1YR7) | 3:21 |
+| 89 | [Pyramiden](https://open.spotify.com/track/7GbwZ7jTR2w4G4GekS9OHa) | [Borgerlig Begravning](https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q) | [Pyramiden](https://open.spotify.com/album/1feSgkNqTaKXXAxgjy6vsK) | 2:59 |
 | 90 | [Trall Punkt Nu](https://open.spotify.com/track/5PLq5eckMjueGe2wtsF3lC) | [Varnagel](https://open.spotify.com/artist/6YaAj5Os3Dm33h2Ks2ugpH) | [Vill Ha Mer](https://open.spotify.com/album/2Ky2qldnoiQ1PyyRNEP2A4) | 2:53 |
 | 91 | [Grabbarna på stan](https://open.spotify.com/track/4Cvp01XRJtsBa2d8iLPQBg) | [Danny Cooltmoore](https://open.spotify.com/artist/5QJXgfc6xBUgLtMctf1fHF), [Grabbarna på Stan](https://open.spotify.com/artist/6MoD7VNBYbyiu8HmOFiG4L) | [Grabbarna på Stan](https://open.spotify.com/album/2z09iMiqlIO4Jr3aWxfr4D) | 3:34 |
-| 92 | [Vilse på öppet hav](https://open.spotify.com/track/1T3XEAFpxW1VIE71rbwQ7v) | [SARDO NUMSPA](https://open.spotify.com/artist/5dwubI4cfcLT99WPy8EIVq) | [För alltid](https://open.spotify.com/album/6b28GFe1v4onH8Gcr3wIJQ) | 2:45 |
-| 93 | [Dina ögon](https://open.spotify.com/track/1kwic7QBnCm9ybxq1MU5N2) | [Fabriken](https://open.spotify.com/artist/4NSYVBtc6AfoIpUgvXnWvT) | [Mot botten av ett hål](https://open.spotify.com/album/3VkXVn56aBAjhslETKDWx7) | 3:11 |
+| 92 | [Dina ögon](https://open.spotify.com/track/1kwic7QBnCm9ybxq1MU5N2) | [Fabriken](https://open.spotify.com/artist/4NSYVBtc6AfoIpUgvXnWvT) | [Mot botten av ett hål](https://open.spotify.com/album/3VkXVn56aBAjhslETKDWx7) | 3:11 |
+| 93 | [Vilse på öppet hav](https://open.spotify.com/track/1T3XEAFpxW1VIE71rbwQ7v) | [SARDO NUMSPA](https://open.spotify.com/artist/5dwubI4cfcLT99WPy8EIVq) | [För alltid](https://open.spotify.com/album/6b28GFe1v4onH8Gcr3wIJQ) | 2:45 |
 | 94 | [Meningslösa Måndag](https://open.spotify.com/track/0UzFvtPaF7mlnV4d3WynM4) | [Skumdum](https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS) | [What We Did Best](https://open.spotify.com/album/6bnVgn4BzsaWzdplPWGPUp) | 4:03 |
 | 95 | [Jane Doe, Östersund](https://open.spotify.com/track/4tzLVTf3Cw3hi2C6oINeQS) | [En Svensk Tiger](https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q) | [Jane Doe, Östersund](https://open.spotify.com/album/3Se4PLem67i9Do45OPzWu0) | 3:09 |
 | 96 | [Stockholms bästa band](https://open.spotify.com/track/1fecBg16RMBCaBDOM2mKJc) | [INTENSIVEN](https://open.spotify.com/artist/1p0EQ3biZsVtQBmjmMBymr) | [Stockholms bästa band](https://open.spotify.com/album/3ocY1J8pZDpn6pwT5uI3n8) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 99 | [Egoist](https://open.spotify.com/track/4n7JfZvHYznhdzooFTmzAu) | [Pastoratet](https://open.spotify.com/artist/5S2B2ftvKw03xrAB0SgpWI) | [Bara skiten avtar](https://open.spotify.com/album/3UKhCM817uDJGnUum7SeoK) | 2:30 |
 | 100 | [Mellanstadiedisco](https://open.spotify.com/track/5OISH9zyF9DvBGbXneQoMG) | [Kapten Kermit](https://open.spotify.com/artist/1L835FxGKZLivabIOdzpwS) | [På Äventyr i Historien III](https://open.spotify.com/album/2AU8OSjplpDqnb5Gz61V3L) | 1:54 |
 
-Snapshot ID: `MCw4NDEyZWRlODhiMmVhYjk2YzdhNzUxMjM1OGYyZDU3ODdjYmMzMmQ4`
+Snapshot ID: `MCxkMzYzNjJhZDFjYTg0NjQxZWQyYzY2OGVjZmI3ZDY5ZmFiZTY1ZTVm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x0KLud2Zf0.md) - [plain]
 
 > La pluma sensible detrás de tus favoritas de regional mexicano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,361 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,273 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x0KLud2Zf0.md) - [plain]
 | 61 | [Fue Bueno Mientras Fue](https://open.spotify.com/track/1m32Mg4b7P9TyDrMthKb3D) | [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Fue Bueno Mientras Fue](https://open.spotify.com/album/5L5yfF1NmzDcQuTdoUunLp) | 3:27 |
 | 62 | [Me Gustas Para Mi](https://open.spotify.com/track/7vVCJpdu1IzUVeQYexEBEw) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Borrón y Cuenta Nueva](https://open.spotify.com/album/3Oy6i9dEx4lTFuuwdB3eNo) | 3:20 |
 | 63 | [Justo a Tiempo](https://open.spotify.com/track/3j2Nkg86R2iQ56fvqwwR0t) | [Banda Estrellas De Sinaloa De German Lizarraga](https://open.spotify.com/artist/2wWIGYR6YnkqEU2pkdnjnX) | [Justo a Tiempo](https://open.spotify.com/album/5gWA8WBPHPbuQKzndxnFSc) | 3:23 |
-| 64 | [Mi Premio O Mi Castigo](https://open.spotify.com/track/79JwazA2pV0ce0T5jx0CpG) | [Manuel Romero](https://open.spotify.com/artist/7Bals6DgKAYnN5PbfJTWss), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Mi Premio O Mi Castigo](https://open.spotify.com/album/5kPLWQQwBmXZbaLb2cF30P) | 2:27 |
-| 65 | [Volver da Flojera](https://open.spotify.com/track/5ZeGUTktmQ7SB7I1IuppG3) | [Octubre Doce](https://open.spotify.com/artist/5xp0m6dRz284in9nArK60v) | [Acusticos](https://open.spotify.com/album/3z60Miy63g9fODH4UPwuhK) | 2:38 |
+| 64 | [Volver da Flojera](https://open.spotify.com/track/5ZeGUTktmQ7SB7I1IuppG3) | [Octubre Doce](https://open.spotify.com/artist/5xp0m6dRz284in9nArK60v) | [Acusticos](https://open.spotify.com/album/3z60Miy63g9fODH4UPwuhK) | 2:38 |
+| 65 | [Mi Premio O Mi Castigo](https://open.spotify.com/track/79JwazA2pV0ce0T5jx0CpG) | [Manuel Romero](https://open.spotify.com/artist/7Bals6DgKAYnN5PbfJTWss), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Mi Premio O Mi Castigo](https://open.spotify.com/album/5kPLWQQwBmXZbaLb2cF30P) | 2:27 |
 | 66 | [Escondidos](https://open.spotify.com/track/1IBhZxKpwtHogU26BA1EZ5) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Escondidos](https://open.spotify.com/album/5Rszq3GIaeaRxqLtECvzVK) | 3:19 |
 | 67 | [Plato De Segunda Mesa](https://open.spotify.com/track/2qY49wDYVIAMdRkLgrlrqp) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Muchas Gracias](https://open.spotify.com/album/0B6dRIWp77dVdmpX9UOaVR) | 3:59 |
 | 68 | [Tres Canciones](https://open.spotify.com/track/2BRnwjSI28g8ZLbCR5BkTj) | [Reyes](https://open.spotify.com/artist/4GJkKi18z77uo2pfrkEyIr) | [Tres Canciones](https://open.spotify.com/album/5SLRNc3FKQLsPXIUFlKUya) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x0KLud2Zf0.md) - [plain]
 | 99 | [De Ti Exclusivo](https://open.spotify.com/track/5jTONxXzG2oRzc6gveGELN) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Singles](https://open.spotify.com/album/3XiBZ63yqMHNklPLIiIAMx) | 3:17 |
 | 100 | [Te Prometo](https://open.spotify.com/track/0xdbp4HOKeuVkuTu1WfI41) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Irreversible..\. 2012](https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF) | 3:42 |
 
-Snapshot ID: `MCxiZmZhMzM1ZDYyOTBlZGNhYjAxODI0MWU0ZDMzZTkxMDhlNWJlNDQ4`
+Snapshot ID: `MCxlYzc3NGEzM2UxYWNlMmZhYzRmNmIwN2EwNTQ3OWE0MTYwMzkyZDhm`

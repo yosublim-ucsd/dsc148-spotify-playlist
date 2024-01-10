@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. Bring Me The Horizon
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,931 likes - 83 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,880 likes - 83 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 82 | [What if I jump from a Bridge?](https://open.spotify.com/track/0TbU5jBqCaSvIzxppHQxNc) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [What if I jump from a Bridge?](https://open.spotify.com/album/2cQ7PDniKlNX8n0DZLPTto) | 2:04 |
 | 83 | [Puppet](https://open.spotify.com/track/4SDiJRZhvqYTrCQq9Xf1CH) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Puppet](https://open.spotify.com/album/6tmMEsLjo4lCoB4PUGf1rl) | 2:24 |
 
-Snapshot ID: `MCxjYTEyMTI2OTA5ZjQyMTBmNTdlZjlmZDc4NjQ1MzI1OGMxMDk1MmM1`
+Snapshot ID: `MCw5ZDIzYTE1MmY1ZTgwMmE1NmNiMWZlMzNmZDY3NDljN2JkYjU4MDc5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,325 likes - 150 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,385 likes - 150 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 149 | [Healed](https://open.spotify.com/track/25aXkVesKv9EZKHfZQ29PZ) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Healed](https://open.spotify.com/album/3qRbOKBRvy4YhOW4aemjTk) | 3:19 |
 | 150 | [d\(\-\_\-\)b dreaming of your latte art d\(\-\_\-\)b](https://open.spotify.com/track/4rPBYZsRRv5s40nqrrffj3) | [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN), [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [d\(\-\_\-\)b dreaming of your latte art d\(\-\_\-\)b](https://open.spotify.com/album/2MAkKniWFXaXXXzEFDRQ8p) | 2:13 |
 
-Snapshot ID: `MCxlYzk0MzY3MThmYTA4N2I1NDA4ZTBkMDdiOTU2NTNmODk3OGY0MjRi`
+Snapshot ID: `MCwxYTNhMDg1MTkyODM5MzQyMzEzYTFmM2E2M2Q5NGM3ZWE5ZWI2ZWVl`

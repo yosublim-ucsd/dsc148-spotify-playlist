@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49pAYA86UWp.md) - [plain]
 
 > Trap de la isla, con Yeruza en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,357 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,377 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49pAYA86UWp.md) - [plain]
 | 11 | [Dos Mil 16](https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:28 |
 | 12 | [No Te Hagas](https://open.spotify.com/track/5hKjEpYrJIJs6uPl7zw6Y6) | [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [No Te Hagas](https://open.spotify.com/album/5z6CpoA90Y3xIZC45maoYu) | 3:53 |
 | 13 | [Riri](https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 2:14 |
-| 14 | [Vuelve](https://open.spotify.com/track/0gCPvo1GkbtPhMqg5Gbx1K) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Vuelve](https://open.spotify.com/album/4fM1JysLcYDX9No45tZmqO) | 4:39 |
-| 15 | [MUSEO](https://open.spotify.com/track/6WfxIJKmYRSpsBJv0tEAKX) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [TRAP CAKE VOL\. 2](https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI) | 4:15 |
+| 14 | [MUSEO](https://open.spotify.com/track/6WfxIJKmYRSpsBJv0tEAKX) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [TRAP CAKE VOL\. 2](https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI) | 4:15 |
+| 15 | [Vuelve](https://open.spotify.com/track/0gCPvo1GkbtPhMqg5Gbx1K) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Vuelve](https://open.spotify.com/album/4fM1JysLcYDX9No45tZmqO) | 4:39 |
 | 16 | [Me Ama Me Odia](https://open.spotify.com/track/6TZXBJLTIOX6DM6hwCsKw2) | [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Me Ama Me Odia](https://open.spotify.com/album/3FAdUgqDYeqcvlpBTbGczq) | 5:26 |
 | 17 | [Ella Y Yo \(feat\. Farruko, Ozuna, Arcangel, Anuel AA, Bryant Myers, Kevin Roldan, Ñengo Flow, Alexis La Bestia & Ñejo\) \- Remix](https://open.spotify.com/track/0O8XuLi337OtgoXUgKORQ5) | [Pepe Quintana](https://open.spotify.com/artist/7LXdYckhvHWU4ejXbkHa3N), [Alexis La Bestia](https://open.spotify.com/artist/0DGnuyY5NGB6vLsXTjq3wX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Ella Y Yo \(feat\. Farruko, Ozuna, Arcangel, Anuel AA, Bryant Myers, Kevin Roldan, Ñengo Flow, Alexis La Bestia & Ñejo\) \[Remix\]](https://open.spotify.com/album/3jWqAeLO9g2IR9iKEXTwF8) | 6:55 |
 | 18 | [Si La Calle Llama \- Remix](https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49pAYA86UWp.md) - [plain]
 | 49 | [G Spot](https://open.spotify.com/track/7qcG5K5O8XjmKT2DFdxWl4) | [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [G Spot](https://open.spotify.com/album/0OGm90v3LUf6pZyeI55yTc) | 3:31 |
 | 50 | [Las Jordan](https://open.spotify.com/track/3dTfFNVkfGUAAsWa3ne3Ig) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 4:03 |
 
-Snapshot ID: `MCwyZTI1OTkyYjgyMTM4MDU1YjA2ODUzMWJjMjQ0MTJhOWIzMjBmNzU4`
+Snapshot ID: `MCxkODRhZDc5NTIzY2IzODkxNjFmZDc0NDcwYzg0MTU0OTNjNGVjYTE1`

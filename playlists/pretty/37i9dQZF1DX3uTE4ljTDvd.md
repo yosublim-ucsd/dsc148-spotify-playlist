@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 
 > Ouça e conheça as revelações da música gospel\. Foto: Milena Pina
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,505 likes - 60 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,347 likes - 60 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 31 | [Quando o Eterno For Real](https://open.spotify.com/track/78lt1qOfZEjpZPv7JVfunA) | [Vitória Costa](https://open.spotify.com/artist/4ivt5LCWnYvngo0oxkDQHW) | [Quando o Eterno For Real](https://open.spotify.com/album/2XYkDU6G3HdRguQctcHmBk) | 4:50 |
 | 32 | [Sou o Teu Altar](https://open.spotify.com/track/3ifjRXZwN56gmTROvagUpx) | [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb), [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Sou o Teu Altar](https://open.spotify.com/album/2y4aQE5LYe1FSgKGVnbH9g) | 4:35 |
 | 33 | [Andar Sobre As Águas](https://open.spotify.com/track/40VTLWDGsKNLK9sHKIzZ7F) | [Bia Monteiro](https://open.spotify.com/artist/7FYYgll3NQzD9ZcwcdRpB6) | [Andar Sobre As Águas](https://open.spotify.com/album/2hQPAbaRfmLotiqzdMGMuT) | 4:23 |
-| 34 | [Destemida](https://open.spotify.com/track/7jLrfFTraIFefCf4NUGDg9) | [Adai Music](https://open.spotify.com/artist/0XjDs3G6KWLGWJT8GXDrZa), [Gislaine Rodrigues](https://open.spotify.com/artist/4De0baIDAcYNBXL6bDybaM) | [Destemida](https://open.spotify.com/album/1NgjBwy3avUOglmOx2pLBJ) | 4:58 |
-| 35 | [Dê Mais uma Chance para o Mundo](https://open.spotify.com/track/1ynxYbJ0Ok79hrPMHpfq8R) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [Estações](https://open.spotify.com/album/76288hlVhG5AxKmWjOanMQ) | 3:00 |
+| 34 | [Dê Mais uma Chance para o Mundo](https://open.spotify.com/track/1ynxYbJ0Ok79hrPMHpfq8R) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [Estações](https://open.spotify.com/album/76288hlVhG5AxKmWjOanMQ) | 3:00 |
+| 35 | [Destemida](https://open.spotify.com/track/7jLrfFTraIFefCf4NUGDg9) | [Adai Music](https://open.spotify.com/artist/0XjDs3G6KWLGWJT8GXDrZa), [Gislaine Rodrigues](https://open.spotify.com/artist/4De0baIDAcYNBXL6bDybaM) | [Destemida](https://open.spotify.com/album/1NgjBwy3avUOglmOx2pLBJ) | 4:58 |
 | 36 | [Quem é Esse?](https://open.spotify.com/track/5aGSIDAIjpskRm4pPMRUDT) | [Naara e Sarah](https://open.spotify.com/artist/0LPEcQYu6T8yx0W0pswNf9) | [Quem é Esse?](https://open.spotify.com/album/2Hue0DRCh1m0YkA9Hc6qpL) | 5:19 |
 | 37 | [Fogo E Altar](https://open.spotify.com/track/4oddcpptwNmykJqa4A2xcv) | [Kauê Penna](https://open.spotify.com/artist/66gr6eacn8mru8PygKXLvj), [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Promessa](https://open.spotify.com/album/7M5BKDGBuYyfjzeQGWcVnG) | 4:05 |
 | 38 | [Dependente \(Ao Vivo\)](https://open.spotify.com/track/0r4OTkCtkDh8YttRZ7OrPO) | [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb), [Mateus Pereira](https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO) | [Dependente \(Ao Vivo\)](https://open.spotify.com/album/4d6CjDJNQSn1PxayDnNopB) | 3:36 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 40 | [Eterno](https://open.spotify.com/track/7MjddsjB17WD68jd2wiMpr) | [Casa Aberta](https://open.spotify.com/artist/6tJ8AInnNZMwSDy1BAu8me) | [Eterno](https://open.spotify.com/album/1jHh5nD1NQp3yxQjti4vlZ) | 3:29 |
 | 41 | [Basta Uma Palavra](https://open.spotify.com/track/28WSh5HaGtFA6OnoygL5mx) | [Mateus Pereira](https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO) | [Basta Uma Palavra](https://open.spotify.com/album/2nW44xh4BxcNaKHcISWf8N) | 4:22 |
 | 42 | [Quanto Amor](https://open.spotify.com/track/4Uc9lQEOm6KnNtES53jDfB) | [Gabriel Bulian](https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0) | [Quanto Amor](https://open.spotify.com/album/4K7OG0Y812Xl9UlpyNjJbj) | 3:44 |
-| 43 | [Daqui Não Saio](https://open.spotify.com/track/0TYzmTenPv6YlD5a2g4gqe) | [Gabriell Júnior](https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH) | [Daqui Não Saio](https://open.spotify.com/album/23eNhDRQb2QRbegXM1tH6O) | 9:18 |
-| 44 | [Não Serei o Mesmo \- Ao Vivo](https://open.spotify.com/track/69gwv2KxdlG7cEJnBLtYf6) | [Renata Reis](https://open.spotify.com/artist/5N1xm9Ct1wWvR5AfcVZMDS) | [Não Serei o Mesmo](https://open.spotify.com/album/3mnTNZd1y937CHweU2nMDN) | 6:37 |
+| 43 | [Não Serei o Mesmo \- Ao Vivo](https://open.spotify.com/track/69gwv2KxdlG7cEJnBLtYf6) | [Renata Reis](https://open.spotify.com/artist/5N1xm9Ct1wWvR5AfcVZMDS) | [Não Serei o Mesmo](https://open.spotify.com/album/3mnTNZd1y937CHweU2nMDN) | 6:37 |
+| 44 | [Daqui Não Saio](https://open.spotify.com/track/0TYzmTenPv6YlD5a2g4gqe) | [Gabriell Júnior](https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH) | [Daqui Não Saio](https://open.spotify.com/album/23eNhDRQb2QRbegXM1tH6O) | 9:18 |
 | 45 | [Quem Disse? \- Ao Vivo](https://open.spotify.com/track/7h2a4Orc7fLALeC0dfQDFG) | [Julliana Silva](https://open.spotify.com/artist/3TMlmzPsCt9e16XSMctNgI) | [Quem Disse? \(Ao Vivo\)](https://open.spotify.com/album/0QzEudiqJ8MQiAYuhaCfqO) | 5:30 |
 | 46 | [Acredito na Promessa](https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0) | [Mateus Pereira](https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO) | [Acredito na Promessa](https://open.spotify.com/album/2a6FlJJyoRTszOuwtIWtuH) | 4:05 |
 | 47 | [Descansa em Mim](https://open.spotify.com/track/33Kw7vIXjoeCvwTKeM4wR8) | [Pablo Canalis](https://open.spotify.com/artist/6unLVeDztO40nUPUkl0zZm), [Do Nosso Canto](https://open.spotify.com/artist/2XCsYQtJzn7Y68gXmbH2Xk) | [Descansa em Mim](https://open.spotify.com/album/3pVZs73gK7tDaS6rQwZjYc) | 5:05 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 59 | [Mesmo Sem Entender](https://open.spotify.com/track/6ON8ubFyGwaiK4dPonIwp3) | [Milena Pina](https://open.spotify.com/artist/5X6tyKMy92BmrhSJaxlmAt) | [Mesmo Sem Entender](https://open.spotify.com/album/1i98qmueiAcvmlpTWUvgQR) | 3:24 |
 | 60 | [Minha canção](https://open.spotify.com/track/6TrNb815VT7lPf8uc1axDS) | [ThreeSis](https://open.spotify.com/artist/5iAuHGnqVA3BzRoNPiORPQ) | [Minha canção](https://open.spotify.com/album/5cfgPb1pRNoWJ7UMPVyAWO) | 4:33 |
 
-Snapshot ID: `MCwyOTcxNjk0NGI5NDA3NjI1ZTQwYTg5M2I3MDRlN2I2MmUyZDIxZmU1`
+Snapshot ID: `MCwwMGQ5MzJhYjk2MjJkNTg1MmVmZDRiMjY0NzUwZmYxZWE1OGZhNDcy`

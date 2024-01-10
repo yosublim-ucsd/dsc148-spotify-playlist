@@ -1,12 +1,12 @@
 {
   "description": "2015 highlights from the home of indie music.",
-  "num_followers": 59018,
+  "num_followers": 59076,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTAzMTk5NDNjYzM1NmZmNjY1NzRkNmQyOGJiMGEyNzY5MGEwNjYx",
+  "snapshot_id": "MCw0MzJjYWU4YWE3NWNkMDUxYzI3M2IzNzEyMTk2ZTM5ODJhNzYxM2Mw",
   "tracks": [
     {
       "added_at": "2021-09-14 05:14:45",
@@ -851,22 +851,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Peripheral Vision",
-        "url": "https://open.spotify.com/album/5On8s1irA6JETiDvt2VUy7"
-      },
-      "artists": [
-        {
-          "name": "Turnover",
-          "url": "https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52"
-        }
-      ],
-      "duration_ms": 255773,
-      "name": "Dizzy On the Comedown",
-      "url": "https://open.spotify.com/track/3vkj94FiLgUz3ysZcmIXPx"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Strangers to Ourselves",
         "url": "https://open.spotify.com/album/6iKqPv9C5oU29LR82N8lJf"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 187720,
       "name": "Lampshades on Fire",
       "url": "https://open.spotify.com/track/5jJ69cMDMC0aeWPjZo6VP2"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Peripheral Vision",
+        "url": "https://open.spotify.com/album/5On8s1irA6JETiDvt2VUy7"
+      },
+      "artists": [
+        {
+          "name": "Turnover",
+          "url": "https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52"
+        }
+      ],
+      "duration_ms": 255773,
+      "name": "Dizzy On the Comedown",
+      "url": "https://open.spotify.com/track/3vkj94FiLgUz3ysZcmIXPx"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -915,22 +915,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 274704,
-      "name": "Fool for Love",
-      "url": "https://open.spotify.com/track/77x96TdWdkIia82QqU35SD"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Sound & Color (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 268853,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/7xM33k6Z3ADF8pEmIClcnz"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 274704,
+      "name": "Fool for Love",
+      "url": "https://open.spotify.com/track/77x96TdWdkIia82QqU35SD"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "What Went Down",
-        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
+        "name": "Vallis Alps",
+        "url": "https://open.spotify.com/album/5mLmU1wyeAM453ysZZozm2"
       },
       "artists": [
         {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+          "name": "Vallis Alps",
+          "url": "https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm"
         }
       ],
-      "duration_ms": 300720,
-      "name": "What Went Down",
-      "url": "https://open.spotify.com/track/78tgXRq9Q6tPNP9hKCpgwB"
+      "duration_ms": 324106,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/0ad87RTfHWmC2Syh1nOxEd"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Vallis Alps",
-        "url": "https://open.spotify.com/album/5mLmU1wyeAM453ysZZozm2"
+        "name": "What Went Down",
+        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
       },
       "artists": [
         {
-          "name": "Vallis Alps",
-          "url": "https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm"
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
         }
       ],
-      "duration_ms": 324106,
-      "name": "Young",
-      "url": "https://open.spotify.com/track/0ad87RTfHWmC2Syh1nOxEd"
+      "duration_ms": 300720,
+      "name": "What Went Down",
+      "url": "https://open.spotify.com/track/78tgXRq9Q6tPNP9hKCpgwB"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "How Do You Feel Now?",
-        "url": "https://open.spotify.com/album/6uSfC7gekwOjvPmTAIwgQR"
-      },
-      "artists": [
-        {
-          "name": "Joywave",
-          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
-        },
-        {
-          "name": "KOPPS",
-          "url": "https://open.spotify.com/artist/3weGdWrlXcB3pcoctU1BDK"
-        }
-      ],
-      "duration_ms": 234773,
-      "name": "Tongues",
-      "url": "https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "In Colour",
         "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 283066,
       "name": "Loud Places",
       "url": "https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "How Do You Feel Now?",
+        "url": "https://open.spotify.com/album/6uSfC7gekwOjvPmTAIwgQR"
+      },
+      "artists": [
+        {
+          "name": "Joywave",
+          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
+        },
+        {
+          "name": "KOPPS",
+          "url": "https://open.spotify.com/artist/3weGdWrlXcB3pcoctU1BDK"
+        }
+      ],
+      "duration_ms": 234773,
+      "name": "Tongues",
+      "url": "https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 258860,
-      "name": "Hollow Moon (Bad Wolf)",
-      "url": "https://open.spotify.com/track/7cfr3F2jpzjwqL6ZhGfjtH"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "How Big, How Blue, How Beautiful (Deluxe)",
         "url": "https://open.spotify.com/album/0Om2TWqroaCLQamQME3bD2"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 293468,
       "name": "Delilah",
       "url": "https://open.spotify.com/track/0fgSfUAnuJzzB8l8MdgRZg"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 258860,
+      "name": "Hollow Moon (Bad Wolf)",
+      "url": "https://open.spotify.com/track/7cfr3F2jpzjwqL6ZhGfjtH"
     },
     {
       "added_at": "2021-09-14 05:14:45",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cCqTKPWY5o.md) - [plain]
 
 > Move it and groove it to these great tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,324 likes - 35 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,427 likes - 35 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cCqTKPWY5o.md) - [plain]
 | 21 | [Dancing In The Dark \- From The "Home" Soundtrack](https://open.spotify.com/track/3nlVjrlLMJHC7Flf9impf9) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Home \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Hc9zEVvu3wOJXI5YVhXe2) | 3:43 |
 | 22 | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/track/463PQggkmk5tTw8ug0ahOX) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ) | 3:08 |
 | 23 | [Y.M.C.A.](https://open.spotify.com/track/4YOJFyjqh8eAcbKFfv88mV) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Cruisin'](https://open.spotify.com/album/3kdp1PnxkKlshMP3qG2CUG) | 4:46 |
-| 24 | [Hey Ya!](https://open.spotify.com/track/3AszgPDZd9q0DpDFt4HFBy) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [The Way You Move / Hey Ya!](https://open.spotify.com/album/7etFl9qeqjD0luC40JAg8l) | 3:59 |
-| 25 | [Move Your Feet](https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [d\-d\-don't don't stop the beat \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI) | 3:01 |
+| 24 | [Move Your Feet](https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [d\-d\-don't don't stop the beat \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI) | 3:01 |
+| 25 | [Hey Ya!](https://open.spotify.com/track/3AszgPDZd9q0DpDFt4HFBy) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [The Way You Move / Hey Ya!](https://open.spotify.com/album/7etFl9qeqjD0luC40JAg8l) | 3:59 |
 | 26 | [Macarena](https://open.spotify.com/track/4oaj36KzXRgDg4McgcTsZK) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Fiesta Macarena](https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU) | 4:09 |
 | 27 | [Sunroof](https://open.spotify.com/track/7dWpEhaV9bcooDdf9i78sz) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 2:27 |
 | 28 | [Take on Me \- Kygo Remix](https://open.spotify.com/track/5UHuuQGEgMbZrYnHjQG9ny) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Take on Me \(Kygo Remix\)](https://open.spotify.com/album/3R2Movau61LViutgG8JYtV) | 3:46 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cCqTKPWY5o.md) - [plain]
 | 30 | [Just Sing](https://open.spotify.com/track/0ZjmrnH5Uh4WD1L29NTcUs) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Kenan Thompson](https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8) | 3:41 |
 | 31 | [Don't Slack \(from Trolls World Tour\)](https://open.spotify.com/track/1bxa0TPdBMHPeZFHe0adCw) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Don't Slack \(from Trolls World Tour\)](https://open.spotify.com/album/40Obfin2HVz6rEL5kIqstb) | 2:54 |
 | 32 | [Shake It Off](https://open.spotify.com/track/3NODaFePbYJpp5VAY1ipYp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 27](https://open.spotify.com/album/0hOfYUluBZkHPmTGkcLJuO) | 3:28 |
-| 33 | [Get Yo Body Movin'](https://open.spotify.com/track/7GizF53H6JpwNWIEsZRuWC) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Whoopty Whoop](https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT) | 1:57 |
-| 34 | [Cha Cha Slide \- Hardino Mix](https://open.spotify.com/track/3XTaaGGAL2gVVaAbu0yxQX) | [DJ Casper](https://open.spotify.com/artist/5o7DmXxAI7rg7qBUvcLq2s), [Hardino](https://open.spotify.com/artist/2W8WGXvVL7Du3TZLmToBR5) | [Cha Cha Slide](https://open.spotify.com/album/2NBvR1Ys0I4FtpVvQFKLqL) | 3:42 |
+| 33 | [Cha Cha Slide \- Hardino Mix](https://open.spotify.com/track/3XTaaGGAL2gVVaAbu0yxQX) | [DJ Casper](https://open.spotify.com/artist/5o7DmXxAI7rg7qBUvcLq2s), [Hardino](https://open.spotify.com/artist/2W8WGXvVL7Du3TZLmToBR5) | [Cha Cha Slide](https://open.spotify.com/album/2NBvR1Ys0I4FtpVvQFKLqL) | 3:42 |
+| 34 | [Get Yo Body Movin'](https://open.spotify.com/track/7GizF53H6JpwNWIEsZRuWC) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Whoopty Whoop](https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT) | 1:57 |
 | 35 | [Dance Mode](https://open.spotify.com/track/5lXGkq8j4FpQ5SKL4YG4rS) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Dance Mode](https://open.spotify.com/album/7EAVXGDsBOO7PTBE782Pyk) | 1:58 |
 
-Snapshot ID: `MCxiYTJhODYwNmM3NDc5NTRiOWZkNmExNmRmZTA2NmUwNGEzYzY1MTEz`
+Snapshot ID: `MCw5ODRjYTMzNGY4YzY1MGFkZjI3ODUzODVkZWZkNGM3MjFkODQyZmEy`

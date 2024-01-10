@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 174100,
+  "num_followers": 174210,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZWFlNzM5MDQ1NDMxOTMyMTk0NTk3YmMyZjExZDZjNDNkNGYyOTQ4",
+  "snapshot_id": "MCxhZDY5YmZmODkzNjZhZGE4MDM0N2ZjOTNiY2QyNzQwZTJlMjg4MjRi",
   "tracks": [
     {
       "added_at": "2023-11-23 03:01:01",
@@ -341,6 +341,34 @@
       "url": "https://open.spotify.com/track/0oUBTMblmGqB5fBibdslTw"
     },
     {
+      "added_at": "2023-10-22 04:22:10",
+      "album": {
+        "name": "Suono Assente",
+        "url": "https://open.spotify.com/album/4dxsHCE1N9S5CTHApseLiG"
+      },
+      "artists": [
+        {
+          "name": "V/Z",
+          "url": "https://open.spotify.com/artist/1JFG0sOdzCS6jTopfu5331"
+        },
+        {
+          "name": "Valentina Magaletti",
+          "url": "https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz"
+        },
+        {
+          "name": "Zongamin",
+          "url": "https://open.spotify.com/artist/3GpAL7oEFD37IJDOOiirqy"
+        },
+        {
+          "name": "Cathy Lucas",
+          "url": "https://open.spotify.com/artist/4zpSU9qVWKxjzruKmoo71D"
+        }
+      ],
+      "duration_ms": 249798,
+      "name": "Habadash",
+      "url": "https://open.spotify.com/track/6yaL3ufWIdKC1HGJb4TQae"
+    },
+    {
       "added_at": "2023-09-25 01:37:49",
       "album": {
         "name": "coma",
@@ -397,34 +425,6 @@
       "url": "https://open.spotify.com/track/1RLMR4pVuuHEzn8mOe1U2s"
     },
     {
-      "added_at": "2023-10-22 04:22:10",
-      "album": {
-        "name": "Suono Assente",
-        "url": "https://open.spotify.com/album/4dxsHCE1N9S5CTHApseLiG"
-      },
-      "artists": [
-        {
-          "name": "V/Z",
-          "url": "https://open.spotify.com/artist/1JFG0sOdzCS6jTopfu5331"
-        },
-        {
-          "name": "Valentina Magaletti",
-          "url": "https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz"
-        },
-        {
-          "name": "Zongamin",
-          "url": "https://open.spotify.com/artist/3GpAL7oEFD37IJDOOiirqy"
-        },
-        {
-          "name": "Cathy Lucas",
-          "url": "https://open.spotify.com/artist/4zpSU9qVWKxjzruKmoo71D"
-        }
-      ],
-      "duration_ms": 249798,
-      "name": "Habadash",
-      "url": "https://open.spotify.com/track/6yaL3ufWIdKC1HGJb4TQae"
-    },
-    {
       "added_at": "2023-12-22 16:06:56",
       "album": {
         "name": "Nodos",
@@ -457,22 +457,6 @@
       "url": "https://open.spotify.com/track/28rXyBF4c6ziSoiY6QDcZO"
     },
     {
-      "added_at": "2023-09-25 03:39:17",
-      "album": {
-        "name": "Sorry I Haven't Called",
-        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
-      },
-      "artists": [
-        {
-          "name": "Vagabon",
-          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
-        }
-      ],
-      "duration_ms": 207413,
-      "name": "Do Your Worst",
-      "url": "https://open.spotify.com/track/0FbeTAK7i7K7CZ1sOqME98"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Silver Ladders",
@@ -487,6 +471,22 @@
       "duration_ms": 225934,
       "name": "Silver Ladders",
       "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
+    },
+    {
+      "added_at": "2023-09-25 03:39:17",
+      "album": {
+        "name": "Sorry I Haven't Called",
+        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
+      },
+      "artists": [
+        {
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+        }
+      ],
+      "duration_ms": 207413,
+      "name": "Do Your Worst",
+      "url": "https://open.spotify.com/track/0FbeTAK7i7K7CZ1sOqME98"
     },
     {
       "added_at": "2023-10-10 03:17:13",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Flock",
-        "url": "https://open.spotify.com/album/5akulaga7LWVPkHIqCHEgD"
-      },
-      "artists": [
-        {
-          "name": "Jane Weaver",
-          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
-        }
-      ],
-      "duration_ms": 301153,
-      "name": "The Revolution of Super Visions",
-      "url": "https://open.spotify.com/track/63QQBvV5qzxQ4jIPg4stP4"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
         "name": "Mahi Mahi",
         "url": "https://open.spotify.com/album/01NhlAP50bCVa1jcPcibEC"
       },
@@ -593,6 +577,22 @@
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Flock",
+        "url": "https://open.spotify.com/album/5akulaga7LWVPkHIqCHEgD"
+      },
+      "artists": [
+        {
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
+        }
+      ],
+      "duration_ms": 301153,
+      "name": "The Revolution of Super Visions",
+      "url": "https://open.spotify.com/track/63QQBvV5qzxQ4jIPg4stP4"
+    },
+    {
       "added_at": "2023-01-04 00:57:30",
       "album": {
         "name": "Classic Objects",
@@ -607,58 +607,6 @@
       "duration_ms": 362428,
       "name": "American Coffee",
       "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
-    },
-    {
-      "added_at": "2023-06-26 14:17:57",
-      "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 425036,
-      "name": "attention",
-      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
-    },
-    {
-      "added_at": "2023-08-15 18:36:31",
-      "album": {
-        "name": "Sus Dog",
-        "url": "https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f"
-      },
-      "artists": [
-        {
-          "name": "Clark",
-          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
-        },
-        {
-          "name": "Anika",
-          "url": "https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5"
-        }
-      ],
-      "duration_ms": 276045,
-      "name": "Sus Dog",
-      "url": "https://open.spotify.com/track/4SIy0CT0thjNx55TAeBq6x"
-    },
-    {
-      "added_at": "2023-06-07 04:10:00",
-      "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 300866,
-      "name": "Dividual Individual",
-      "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -693,6 +641,58 @@
       "url": "https://open.spotify.com/track/2W0eN3BqaBz4WeInKnQmCR"
     },
     {
+      "added_at": "2023-08-15 18:36:31",
+      "album": {
+        "name": "Sus Dog",
+        "url": "https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f"
+      },
+      "artists": [
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        },
+        {
+          "name": "Anika",
+          "url": "https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5"
+        }
+      ],
+      "duration_ms": 276045,
+      "name": "Sus Dog",
+      "url": "https://open.spotify.com/track/4SIy0CT0thjNx55TAeBq6x"
+    },
+    {
+      "added_at": "2023-06-26 14:17:57",
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 425036,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
+    },
+    {
+      "added_at": "2023-06-07 04:10:00",
+      "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "duration_ms": 300866,
+      "name": "Dividual Individual",
+      "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
+    },
+    {
       "added_at": "2023-11-23 03:04:21",
       "album": {
         "name": "Chaos Magic",
@@ -711,6 +711,22 @@
       "duration_ms": 214575,
       "name": "Palace In My Head",
       "url": "https://open.spotify.com/track/0VjY5jJjnDruOnMhMqkAks"
+    },
+    {
+      "added_at": "2023-12-20 04:44:18",
+      "album": {
+        "name": "Agitprop Alterna",
+        "url": "https://open.spotify.com/album/56o75WZe4MrgNj1wL0769C"
+      },
+      "artists": [
+        {
+          "name": "Peel Dream Magazine",
+          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
+        }
+      ],
+      "duration_ms": 314059,
+      "name": "Up and Up",
+      "url": "https://open.spotify.com/track/5DICKyBTFX6rzXTRrZH6iz"
     },
     {
       "added_at": "2022-09-29 00:57:24",
@@ -801,22 +817,6 @@
       "url": "https://open.spotify.com/track/7s9RUTS8u8JSfwpLxmbPIK"
     },
     {
-      "added_at": "2023-12-20 04:44:18",
-      "album": {
-        "name": "Agitprop Alterna",
-        "url": "https://open.spotify.com/album/56o75WZe4MrgNj1wL0769C"
-      },
-      "artists": [
-        {
-          "name": "Peel Dream Magazine",
-          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
-        }
-      ],
-      "duration_ms": 314059,
-      "name": "Up and Up",
-      "url": "https://open.spotify.com/track/5DICKyBTFX6rzXTRrZH6iz"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Moot!",
@@ -869,20 +869,20 @@
       "url": "https://open.spotify.com/track/0Kx5mnfoluqEcrZmQDin6m"
     },
     {
-      "added_at": "2023-10-23 19:41:11",
+      "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Pearlies",
-        "url": "https://open.spotify.com/album/45kExoTy2BTCKr3XjNDo1T"
+        "name": "void beats/invocation trex",
+        "url": "https://open.spotify.com/album/1BmmkZTfva7NX058wgCB3g"
       },
       "artists": [
         {
-          "name": "Emma Anderson",
-          "url": "https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL"
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
         }
       ],
-      "duration_ms": 215733,
-      "name": "The Presence",
-      "url": "https://open.spotify.com/track/4iiHscmntHnZmeLs4U9hSr"
+      "duration_ms": 233903,
+      "name": "melody in high feedback tones",
+      "url": "https://open.spotify.com/track/7DpWLrO5rb5oG2vLtw1KGF"
     },
     {
       "added_at": "2023-01-20 04:21:17",
@@ -905,20 +905,20 @@
       "url": "https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
+      "added_at": "2023-10-23 19:41:11",
       "album": {
-        "name": "void beats/invocation trex",
-        "url": "https://open.spotify.com/album/1BmmkZTfva7NX058wgCB3g"
+        "name": "Pearlies",
+        "url": "https://open.spotify.com/album/45kExoTy2BTCKr3XjNDo1T"
       },
       "artists": [
         {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+          "name": "Emma Anderson",
+          "url": "https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL"
         }
       ],
-      "duration_ms": 233903,
-      "name": "melody in high feedback tones",
-      "url": "https://open.spotify.com/track/7DpWLrO5rb5oG2vLtw1KGF"
+      "duration_ms": 215733,
+      "name": "The Presence",
+      "url": "https://open.spotify.com/track/4iiHscmntHnZmeLs4U9hSr"
     },
     {
       "added_at": "2023-12-22 16:06:56",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Room For The Moon",
-        "url": "https://open.spotify.com/album/5KduXFab1jkKushmutNYbq"
-      },
-      "artists": [
-        {
-          "name": "Kate NV",
-          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
-        }
-      ],
-      "duration_ms": 338371,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/7qCsvM2VP5cAbMFgBbS60B"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
         "name": "Behind The Sun",
         "url": "https://open.spotify.com/album/1eqCcJVmYCGqxKQxoKBbaJ"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 209817,
       "name": "Behind The Sun",
       "url": "https://open.spotify.com/track/6C47LOLFv234e3YO5HFj6D"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Room For The Moon",
+        "url": "https://open.spotify.com/album/5KduXFab1jkKushmutNYbq"
+      },
+      "artists": [
+        {
+          "name": "Kate NV",
+          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
+        }
+      ],
+      "duration_ms": 338371,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/7qCsvM2VP5cAbMFgBbS60B"
     },
     {
       "added_at": "2023-01-20 04:21:17",
@@ -1157,22 +1157,6 @@
       "url": "https://open.spotify.com/track/2vUDoEBAGVLvcy8kDE0FTg"
     },
     {
-      "added_at": "2023-11-13 17:30:13",
-      "album": {
-        "name": "Une Autre Attente",
-        "url": "https://open.spotify.com/album/3txRsK90V4IwObiif90nJx"
-      },
-      "artists": [
-        {
-          "name": "Laetitia Sadier",
-          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
-        }
-      ],
-      "duration_ms": 162513,
-      "name": "Une Autre Attente",
-      "url": "https://open.spotify.com/track/6EKW2yTzyZWBdDK7DEVPhx"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Robber",
@@ -1189,6 +1173,22 @@
       "url": "https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK"
     },
     {
+      "added_at": "2023-11-13 17:30:13",
+      "album": {
+        "name": "Une Autre Attente",
+        "url": "https://open.spotify.com/album/3txRsK90V4IwObiif90nJx"
+      },
+      "artists": [
+        {
+          "name": "Laetitia Sadier",
+          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
+        }
+      ],
+      "duration_ms": 162513,
+      "name": "Une Autre Attente",
+      "url": "https://open.spotify.com/track/6EKW2yTzyZWBdDK7DEVPhx"
+    },
+    {
       "added_at": "2023-09-25 01:38:39",
       "album": {
         "name": "The Path",
@@ -1203,6 +1203,22 @@
       "duration_ms": 262560,
       "name": "The Path",
       "url": "https://open.spotify.com/track/4oxYyTVMHCt9PJkr92Wu4V"
+    },
+    {
+      "added_at": "2023-03-31 19:12:14",
+      "album": {
+        "name": "Follow the Cyborg",
+        "url": "https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO"
+      },
+      "artists": [
+        {
+          "name": "Miss Grit",
+          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
+        }
+      ],
+      "duration_ms": 229183,
+      "name": "Nothing's Wrong",
+      "url": "https://open.spotify.com/track/3g5v5S6Adv3gqPpKuli6Q5"
     },
     {
       "added_at": "2023-10-28 00:52:25",
@@ -1227,22 +1243,6 @@
       "duration_ms": 456692,
       "name": "Cielo Falso",
       "url": "https://open.spotify.com/track/4zGWX3Jx6vCQ4EHVe6Gnn2"
-    },
-    {
-      "added_at": "2023-03-31 19:12:14",
-      "album": {
-        "name": "Follow the Cyborg",
-        "url": "https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO"
-      },
-      "artists": [
-        {
-          "name": "Miss Grit",
-          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
-        }
-      ],
-      "duration_ms": 229183,
-      "name": "Nothing's Wrong",
-      "url": "https://open.spotify.com/track/3g5v5S6Adv3gqPpKuli6Q5"
     },
     {
       "added_at": "2022-11-17 22:51:20",
@@ -1485,6 +1485,30 @@
       "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
     },
     {
+      "added_at": "2022-03-11 06:40:47",
+      "album": {
+        "name": "SEIM",
+        "url": "https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8"
+      },
+      "artists": [
+        {
+          "name": "QUINQUIS",
+          "url": "https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH"
+        },
+        {
+          "name": "Gareth Jones",
+          "url": "https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV"
+        },
+        {
+          "name": "\u00d3lavur J\u00e1kupsson",
+          "url": "https://open.spotify.com/artist/0gfdV2BOENhfosiHzk0MCG"
+        }
+      ],
+      "duration_ms": 311533,
+      "name": "Run (feat. Gareth Jones & \u00d3lavur J\u00e1kupsson)",
+      "url": "https://open.spotify.com/track/0JOiqhfNPuIsNUBJpsPdPy"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Al Sur",
@@ -1523,30 +1547,6 @@
       "duration_ms": 182800,
       "name": "Peculiar Machine - Georgia Anne Muldrow Remix",
       "url": "https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042"
-    },
-    {
-      "added_at": "2022-03-11 06:40:47",
-      "album": {
-        "name": "SEIM",
-        "url": "https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8"
-      },
-      "artists": [
-        {
-          "name": "QUINQUIS",
-          "url": "https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH"
-        },
-        {
-          "name": "Gareth Jones",
-          "url": "https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV"
-        },
-        {
-          "name": "\u00d3lavur J\u00e1kupsson",
-          "url": "https://open.spotify.com/artist/0gfdV2BOENhfosiHzk0MCG"
-        }
-      ],
-      "duration_ms": 311533,
-      "name": "Run (feat. Gareth Jones & \u00d3lavur J\u00e1kupsson)",
-      "url": "https://open.spotify.com/track/0JOiqhfNPuIsNUBJpsPdPy"
     },
     {
       "added_at": "2023-03-24 15:38:14",

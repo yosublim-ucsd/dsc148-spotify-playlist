@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="spotify:artist:7z7byOJ4AJnMY2NHE66ZpW">DOE</a>
 
-435 songs - 1 day 2 hr 5 min
+436 songs - 1 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Down \(Remix\)](https://open.spotify.com/track/5mmmjhQjqh7HxmAcVbKn4u) | [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6), [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk), [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc) | [Down \(Remix\)](https://open.spotify.com/album/6MP2d8QD6j3K9xAETIKxPD) | 3:05 | 2022-06-25 |  |
 | [Drive](https://open.spotify.com/track/4ScuweLj0tTDZobFXMBEEy) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Drive](https://open.spotify.com/album/31N8Te52jkft4appFKnqzd) | 2:42 | 2022-03-05 | 2022-06-13 |
 | [E6 \- Hot Mix](https://open.spotify.com/track/5wQMXr2mmNfnMUtgR7A8hi) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [E6 \(Hot Mix\)](https://open.spotify.com/album/3VWh2UjLcYbic1FFmkzL9B) | 3:30 | 2022-02-19 | 2022-06-25 |
-| [Easy](https://open.spotify.com/track/0uVHeVzc4vTnlnpSgUKHrJ) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Easy](https://open.spotify.com/album/54LWHBnYqAVc9lVI7LaJ9Q) | 2:45 | 2022-04-08 |  |
+| [Easy](https://open.spotify.com/track/0uVHeVzc4vTnlnpSgUKHrJ) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Easy](https://open.spotify.com/album/54LWHBnYqAVc9lVI7LaJ9Q) | 2:45 | 2022-04-08 | 2024-01-10 |
 | [Easy!](https://open.spotify.com/track/3rNxrZ0TjoWsPrEZW4kONj) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Easy!](https://open.spotify.com/album/1gT3Q7Av72uP0WSRaS8RlU) | 2:45 | 2022-07-08 |  |
 | [El Shaddai](https://open.spotify.com/track/4w2rlg8ZTR3hH3E0MHA3y3) | [Dwayne Tryumf](https://open.spotify.com/artist/75sReJhZ3hjZctu6vtoGj6) | [El Shaddai](https://open.spotify.com/album/0USceD58hvtuCgFiUhAzdY) | 2:48 | 2022-06-25 | 2023-01-21 |
 | [Emmanuel](https://open.spotify.com/track/4O5TT3kmWaL5c4K1HU1SyQ) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Denise Bamfo](https://open.spotify.com/artist/6j4c63tFu9m7oWWc11GwDO) | [Emmanuel](https://open.spotify.com/album/4pGAeO6sOgQZ9r79XBnZw0) | 2:56 | 2023-01-20 | 2023-03-06 |
@@ -245,6 +245,7 @@
 | [Make It Alright](https://open.spotify.com/track/6INDyfmhqhJfAxWi84O6al) | [SAINT](https://open.spotify.com/artist/0TA3tF7JmKckxwD869HhEs), [Greg Cox](https://open.spotify.com/artist/0sSaM0P7mPCUyS7QE0HANt), [Jamal Roberts](https://open.spotify.com/artist/6R8EfqK9LdyvvWAjbjnkdg) | [Here At Last](https://open.spotify.com/album/2QBuw9lsZA3bOQfBzQx7dz) | 4:50 | 2022-02-27 | 2022-06-20 |
 | [MAN\-UH](https://open.spotify.com/track/4pzdkoQ6i0P1yApVwA8cuW) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [MAN\-UH](https://open.spotify.com/album/04foyPb4nLC1gaOimMYPFe) | 1:49 | 2023-01-20 |  |
 | [Manifest](https://open.spotify.com/track/3pbTHEZoomOPXINAp2Seht) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa), [Purpose](https://open.spotify.com/artist/3uqT5AC2OSsfU6HZ1RqAHo), [John Mcclure](https://open.spotify.com/artist/5II5vxi6ROvaKrNefa8aUQ) | [Thank You Lord / Manifest](https://open.spotify.com/album/1eFT6N7PAMO6FjMPMyKbrs) | 6:11 | 2022-02-19 | 2022-02-28 |
+| [Memories](https://open.spotify.com/track/0Yv88gXq362a9oTSeC7J67) | [Franchesca](https://open.spotify.com/artist/5xgXj0clLJ7jCasOAaAuGM) | [Memories](https://open.spotify.com/album/6SkRXBtGo21ClW0TXIE5FD) | 3:08 | 2023-11-03 |  |
 | [Mercy Shores](https://open.spotify.com/track/2DfrxAll5ft3nKQNa6OKEo) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Mercy Shores](https://open.spotify.com/album/2hFkHnWuHRlxvtzMsOe5H7) | 3:26 | 2022-02-27 | 2023-04-28 |
 | [Milk & Honey](https://open.spotify.com/track/56JGnyYpo9I2g8yOfgEt4p) | [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [Sensibilities](https://open.spotify.com/album/2OE5HEsnnFAKghpqqEkmpl) | 2:26 | 2022-06-25 | 2023-10-31 |
 | [Mind Remix](https://open.spotify.com/track/08f44TILBPrfpzKF4GtMbf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Mind Remix](https://open.spotify.com/album/2Qe1HpbdXkBN7GsmDTTdig) | 2:38 | 2022-02-19 | 2022-06-25 |

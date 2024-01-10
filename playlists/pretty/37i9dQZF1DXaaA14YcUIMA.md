@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 
 > Anda pa'lante galopante con los grandes del género romántico\. Los Temerarios en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,451 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,337 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,20 +20,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 10 | [En La Misma Cama](https://open.spotify.com/track/6y7KWAnxSQcuDDW47wWs3E) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Ahora Y Siempre](https://open.spotify.com/album/5qyplunAv21gUahEdLkXe7) | 3:23 |
 | 11 | [El Taxista](https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku) | [Los Dinnosaurios](https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz) | [Inolvidables](https://open.spotify.com/album/6bMC920IXyDwMQVm6ZtCLU) | 3:44 |
 | 12 | [Me Estoy Enamorando](https://open.spotify.com/track/3mqMi5ZWfuw0tQsOyu3bT3) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [20th Anniversary Series](https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX) | 3:23 |
-| 13 | [Lápiz Labial](https://open.spotify.com/track/0bndT74WaGo5vnd6TLex8U) | [Los Felinos](https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX) | [Lápiz Labial](https://open.spotify.com/album/6FDTr5zPZrfMmeOsFaDTmt) | 2:52 |
+| 13 | [Deja Una Rosa En Tu Balcón](https://open.spotify.com/track/1InGWsgNYr5cYTE4JWqGqu) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Hasta La Eternidad \(Clásicos Digitalizados\)](https://open.spotify.com/album/6f3szSu0uNGBOmcW01a6ZN) | 3:59 |
 | 14 | [Yo Te Necesito](https://open.spotify.com/track/7yMWuJ6JOZ8Joo5gQrNaYA) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Yo Te Necesito](https://open.spotify.com/album/3hEe5rX51oJiXS3Lv9Yeiz) | 2:58 |
 | 15 | [Paraiso Terrenal](https://open.spotify.com/track/7xXABJ0q63iRsu3lBYhr4j) | [Priscila y Sus Balas De Plata](https://open.spotify.com/artist/3MEjijy8H9yxGhXhJGhbVO) | [Feliz Como Una Lombriz](https://open.spotify.com/album/1ADpxjDh1jH43KceRFyN67) | 3:36 |
 | 16 | [Tu Última Canción](https://open.spotify.com/track/7dWSrvzawBZPa7VVeHZBn7) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Tu Última Canción](https://open.spotify.com/album/0uunEJN1BK7y3yg2GncXxa) | 4:22 |
 | 17 | [Tu Traición](https://open.spotify.com/track/2ObbqCZZgwK8VowFYf0RPh) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [Tu Amor Secreto](https://open.spotify.com/album/1ICfNn1KnGQnjyXaYOiB3c) | 3:34 |
 | 18 | [Ese Loco Soy Yo](https://open.spotify.com/track/0J0zz9v1hRXQXQ2rJLgKq1) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Directo Al Corazón](https://open.spotify.com/album/6w4hod1ifRryFs208eKPLe) | 4:40 |
-| 19 | [Deja Una Rosa En Tu Balcón](https://open.spotify.com/track/1InGWsgNYr5cYTE4JWqGqu) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Hasta La Eternidad \(Clásicos Digitalizados\)](https://open.spotify.com/album/6f3szSu0uNGBOmcW01a6ZN) | 3:59 |
+| 19 | [Lápiz Labial](https://open.spotify.com/track/0bndT74WaGo5vnd6TLex8U) | [Los Felinos](https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX) | [Lápiz Labial](https://open.spotify.com/album/6FDTr5zPZrfMmeOsFaDTmt) | 2:52 |
 | 20 | [Del Signo Libra](https://open.spotify.com/track/7mWCRNQxvOCCtMfe4sYdKW) | [Grupo Libra](https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt) | [Puras Románticas](https://open.spotify.com/album/22G9x42HPowUEACL8QxuAD) | 3:26 |
 | 21 | [La Loca](https://open.spotify.com/track/7mpz4Drmu692aPo4qsaHTC) | [Los Fugitivos](https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq) | [Vanidosa](https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs) | 4:14 |
 | 22 | [Como Te Recuerdo](https://open.spotify.com/track/3CH8ti307xUz5NlaHoQBPR) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Como Te Recuerdo](https://open.spotify.com/album/4VwV8hjVXteVkVNDCYPN1M) | 5:05 |
 | 23 | [Él Soy Yo](https://open.spotify.com/track/2grjdrZ1wGyoykMgDbnnFW) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Linea De Oro Contigo O Sin Ti](https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs) | 3:15 |
 | 24 | [Mi Mayor Necesidad](https://open.spotify.com/track/5Cl5cfFNJTnTmtgSwleobq) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Quiereme](https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6) | 4:05 |
-| 25 | [Pero Te Vas A Arrepentir](https://open.spotify.com/track/7fUuC299Gjpe7gkW3pBbZp) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Volveré A Conquistarte](https://open.spotify.com/album/691ZR6kaZeK4JS4tQGPuQf) | 3:56 |
-| 26 | [Te Ví Con El](https://open.spotify.com/track/3TK5wK5bPpM4vIpAmkhkuX) | [Mandingo](https://open.spotify.com/artist/4KPkl90SSF2y1VYNt7dmba) | [En El Camino](https://open.spotify.com/album/6JckkNzJVY33kAwZ7FOd4J) | 2:38 |
+| 25 | [Te Ví Con El](https://open.spotify.com/track/3TK5wK5bPpM4vIpAmkhkuX) | [Mandingo](https://open.spotify.com/artist/4KPkl90SSF2y1VYNt7dmba) | [En El Camino](https://open.spotify.com/album/6JckkNzJVY33kAwZ7FOd4J) | 2:38 |
+| 26 | [Pero Te Vas A Arrepentir](https://open.spotify.com/track/7fUuC299Gjpe7gkW3pBbZp) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Volveré A Conquistarte](https://open.spotify.com/album/691ZR6kaZeK4JS4tQGPuQf) | 3:56 |
 | 27 | [Enamorado De Un Fantasma](https://open.spotify.com/track/47zLjYjuaWunbmMrn6jLLj) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Enamorado De Un Fantasma](https://open.spotify.com/album/4XX1NXGCEwomxl6cYRcW2d) | 4:29 |
 | 28 | [Nuestra Canción](https://open.spotify.com/track/6t86si8IaIgLHEuZnaha33) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [20th Anniversary Series](https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX) | 3:22 |
 | 29 | [Contra El Dragón](https://open.spotify.com/track/7I7Cs5Xr776qavPMjNJknC) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Los Sonidos De Su Espíritu](https://open.spotify.com/album/1JmNtIeUHlp2vHxddTj5iA) | 3:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 99 | [Si Estuvieras Conmigo \- Dueto Con Grupo Bryndis](https://open.spotify.com/track/4JgxmSC0CvOZ4WOzNxS2S7) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5), [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [30 Aniversario Duetos](https://open.spotify.com/album/5BhAjPF7nbVtq2pvz7nbVm) | 2:40 |
 | 100 | [El Muñeco](https://open.spotify.com/track/19G8XMtHCX6y6eYTLDbaU3) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Pensando En Ella](https://open.spotify.com/album/7chUnyKUwq88xEWfyGEV7a) | 2:42 |
 
-Snapshot ID: `MCw4ZDY4OGVhZWZiNDE5Zjk5MDU0NzBmZDdjZGEzNTliZjc2YTNiMmNh`
+Snapshot ID: `MCxmMjE4YzMwYmQ5MjE1YzAzMDk4MzJhZWQ2Yjk4NDk1MjVhYjhiZmFm`

@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [18](https://open.spotify.com/track/20bxks5amfv7rVf8D6a1r7) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [18](https://open.spotify.com/album/4pyHUmAJzl9dZUvFwVzLe7) | 3:35 | 2023-12-26 |  |
-| [Have a nice day](https://open.spotify.com/track/5SWxyVd5Q5c1jzPpdL9olt) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [POP CUBE](https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX) | 2:55 | 2023-12-29 |  |
+| [Have a nice day](https://open.spotify.com/track/5SWxyVd5Q5c1jzPpdL9olt) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [POP CUBE](https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX) | 2:55 | 2023-12-29 | 2024-01-10 |
 | [Holy Light](https://open.spotify.com/track/3tv7UdosUc9mFML6crORV7) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [POP CUBE](https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX) | 3:17 | 2023-12-26 |  |
 | [I say bye](https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [I say bye](https://open.spotify.com/album/7GuwXufXafM8Fe5kmSdVHZ) | 3:00 | 2023-12-26 |  |
 | [Nagisa](https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Nagisa](https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK) | 3:46 | 2023-12-26 |  |

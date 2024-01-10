@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: feeble little horse",
-  "num_followers": 467119,
+  "num_followers": 467139,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTFjYzQ3NGNiZTVlYzM4NGNmOWM1NzY4OWFjMjc3YjIwNjkyMWE1",
+  "snapshot_id": "MCw5YTNiNDFmY2Q5MWEwMDI3NjgwMGY3YjUzN2IxZWUzNTU2NmMxN2Fm",
   "tracks": [
     {
       "added_at": "2023-12-02 02:07:22",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "misery",
-        "url": "https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 136506,
-      "name": "i want to die in your arms",
-      "url": "https://open.spotify.com/track/0qEPwjJHlNUSWf2Ghlxdqq"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/5jDmPY9xD8BrPIm2RbBajB"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 249968,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7j28vzFDGWSCuKQKMxULfW"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "misery",
+        "url": "https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 136506,
+      "name": "i want to die in your arms",
+      "url": "https://open.spotify.com/track/0qEPwjJHlNUSWf2Ghlxdqq"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Ways to Go",
-        "url": "https://open.spotify.com/album/4g5q9uTpoq19HX1Ksm9CHe"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 127061,
-      "name": "Ways to Go",
-      "url": "https://open.spotify.com/track/0p973C7c3dry8DRq2mgYP3"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Deep Divine",
         "url": "https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Body Jumper",
-        "url": "https://open.spotify.com/album/34wILh42l9lFTepPd128Jg"
+        "name": "Ways to Go",
+        "url": "https://open.spotify.com/album/4g5q9uTpoq19HX1Ksm9CHe"
       },
       "artists": [
         {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
         }
       ],
-      "duration_ms": 118521,
-      "name": "Blue Sheen",
-      "url": "https://open.spotify.com/track/4a1mFp7Kd5y20I08Cy7Nei"
+      "duration_ms": 127061,
+      "name": "Ways to Go",
+      "url": "https://open.spotify.com/track/0p973C7c3dry8DRq2mgYP3"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -947,22 +931,18 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Safe House",
-        "url": "https://open.spotify.com/album/0C1zvZW8wBB37p4Bc5ioPL"
+        "name": "Body Jumper",
+        "url": "https://open.spotify.com/album/34wILh42l9lFTepPd128Jg"
       },
       "artists": [
         {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        },
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
         }
       ],
-      "duration_ms": 217849,
-      "name": "Safe House",
-      "url": "https://open.spotify.com/track/24o2DVj6mtSBgMPuL33LsR"
+      "duration_ms": 118521,
+      "name": "Blue Sheen",
+      "url": "https://open.spotify.com/track/4a1mFp7Kd5y20I08Cy7Nei"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -979,6 +959,26 @@
       "duration_ms": 201226,
       "name": "Sun Outside My Window",
       "url": "https://open.spotify.com/track/6hj8HbgTMVMvcA8a9fKAhr"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "Safe House",
+        "url": "https://open.spotify.com/album/0C1zvZW8wBB37p4Bc5ioPL"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        },
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "duration_ms": 217849,
+      "name": "Safe House",
+      "url": "https://open.spotify.com/track/24o2DVj6mtSBgMPuL33LsR"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Blue Suicide",
-        "url": "https://open.spotify.com/album/5z2CoCLOZfFwqbNzfYCCyB"
+        "name": "off the grid",
+        "url": "https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56"
       },
       "artists": [
         {
-          "name": "Coma Cinema",
-          "url": "https://open.spotify.com/artist/4Ebry32YXxGXbI8FqhhSFu"
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
         }
       ],
-      "duration_ms": 153234,
-      "name": "Her Sinking Sun",
-      "url": "https://open.spotify.com/track/7IidonL2EoEdjzFJSbmhmG"
+      "duration_ms": 239195,
+      "name": "u dont kno me",
+      "url": "https://open.spotify.com/track/22yfTobyBNSSJXWIlNjPgt"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
+        "name": "Blue Suicide",
+        "url": "https://open.spotify.com/album/5z2CoCLOZfFwqbNzfYCCyB"
+      },
+      "artists": [
+        {
+          "name": "Coma Cinema",
+          "url": "https://open.spotify.com/artist/4Ebry32YXxGXbI8FqhhSFu"
+        }
+      ],
+      "duration_ms": 153234,
+      "name": "Her Sinking Sun",
+      "url": "https://open.spotify.com/track/7IidonL2EoEdjzFJSbmhmG"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
         "name": "Pretty",
         "url": "https://open.spotify.com/album/22dulUCoaoKoVpmg2irQmo"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 199000,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/5rg2cr5aokhrm5gQNpyHXi"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
-        "name": "off the grid",
-        "url": "https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56"
-      },
-      "artists": [
-        {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        }
-      ],
-      "duration_ms": 239195,
-      "name": "u dont kno me",
-      "url": "https://open.spotify.com/track/22yfTobyBNSSJXWIlNjPgt"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
+        "name": "mr. rager",
+        "url": "https://open.spotify.com/album/6LMb3HyxEExqGc6rpg38QP"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "duration_ms": 220109,
+      "name": "mr. rager",
+      "url": "https://open.spotify.com/track/0Pt2JTtqrgNPecmrOwVmaP"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
         "name": "Peach Tinted",
         "url": "https://open.spotify.com/album/6bzfjfh16uVdxA00EpqUau"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 163709,
       "name": "Midnight on a Sunny Day",
       "url": "https://open.spotify.com/track/2IH9CHrARfQJDcRNg3g8Dg"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
-        "name": "mr. rager",
-        "url": "https://open.spotify.com/album/6LMb3HyxEExqGc6rpg38QP"
-      },
-      "artists": [
-        {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        }
-      ],
-      "duration_ms": 220109,
-      "name": "mr. rager",
-      "url": "https://open.spotify.com/track/0Pt2JTtqrgNPecmrOwVmaP"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Me Oh My Mirror",
-        "url": "https://open.spotify.com/album/4FIEhoPQZpjjSS6japEfDx"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/2CgjSLZmBqcJZyefZSDFQ3"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Long Nights and Wasted Affairs",
         "url": "https://open.spotify.com/album/2YKrT7Izbd8U5muoR0ZNaL"
       },
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "End Of The Day (music from the film Anonymous Club)",
-        "url": "https://open.spotify.com/album/0krQrRHXegSUt9UxuH0br5"
+        "name": "Me Oh My Mirror",
+        "url": "https://open.spotify.com/album/4FIEhoPQZpjjSS6japEfDx"
       },
       "artists": [
         {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
         }
       ],
-      "duration_ms": 131107,
-      "name": "Start Somewhere",
-      "url": "https://open.spotify.com/track/5nq6JuSSC7quMwNqfHBRVv"
+      "duration_ms": 223186,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/2CgjSLZmBqcJZyefZSDFQ3"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Teen Mom",
-        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
+        "name": "End Of The Day (music from the film Anonymous Club)",
+        "url": "https://open.spotify.com/album/0krQrRHXegSUt9UxuH0br5"
       },
       "artists": [
         {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
         }
       ],
-      "duration_ms": 222803,
-      "name": "Teen Mom",
-      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
+      "duration_ms": 131107,
+      "name": "Start Somewhere",
+      "url": "https://open.spotify.com/track/5nq6JuSSC7quMwNqfHBRVv"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1451,6 +1435,22 @@
       "duration_ms": 116832,
       "name": "That's What They Wanted",
       "url": "https://open.spotify.com/track/61hQMSDPEyMduIoZ6BwkO2"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "Teen Mom",
+        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 222803,
+      "name": "Teen Mom",
+      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Escape From The Killer",
-        "url": "https://open.spotify.com/album/3f8J1FJdPioQfUEG3FL2PG"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 206524,
-      "name": "Escape From The Killer 2008",
-      "url": "https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Year Of The Rat",
         "url": "https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm"
       },
@@ -1567,22 +1551,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "home:so long",
-        "url": "https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX"
-      },
-      "artists": [
-        {
-          "name": "lavender",
-          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
-        }
-      ],
-      "duration_ms": 85956,
-      "name": "home:so long",
-      "url": "https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Le feu",
         "url": "https://open.spotify.com/album/3yrKC3JOwOu5z9RkdByzbA"
       },
@@ -1595,6 +1563,38 @@
       "duration_ms": 231358,
       "name": "Le feu",
       "url": "https://open.spotify.com/track/6GaVUNzYZPpeU2qJrlVjtD"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "Escape From The Killer",
+        "url": "https://open.spotify.com/album/3f8J1FJdPioQfUEG3FL2PG"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 206524,
+      "name": "Escape From The Killer 2008",
+      "url": "https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "home:so long",
+        "url": "https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX"
+      },
+      "artists": [
+        {
+          "name": "lavender",
+          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
+        }
+      ],
+      "duration_ms": 85956,
+      "name": "home:so long",
+      "url": "https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC"
     },
     {
       "added_at": "2023-12-02 02:07:22",

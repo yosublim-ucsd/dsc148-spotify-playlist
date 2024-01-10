@@ -1,12 +1,12 @@
 {
   "description": "Spa treatment role-play and ASMR massage sounds to give you tingles and help you relax.",
-  "num_followers": 38660,
+  "num_followers": 38709,
   "original_name": "ASMR Massage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzNlZjJiMDNhMjM5MjMxOWIzYjFjMjc0MWFmMWEyY2ZlNjJlNzQw",
+  "snapshot_id": "MCw0NjBiMTczNzYyZmY1YjczN2VjZWJmMTQzOTllZmE1YmEzYTNjMmZi",
   "tracks": [
     {
       "added_at": "2023-09-08 11:48:58",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-09-08 11:48:58",
       "album": {
-        "name": "Binaural ASMR Triggers",
-        "url": "https://open.spotify.com/album/0w0KhJBMc5USuQyLDQn90Q"
-      },
-      "artists": [
-        {
-          "name": "Alice ASMR",
-          "url": "https://open.spotify.com/artist/6O99TZRD50g7R3IMBSkg58"
-        }
-      ],
-      "duration_ms": 166909,
-      "name": "Cotton Swabs In Ears",
-      "url": "https://open.spotify.com/track/5mUq6uOgmzEodRY64mC6Fk"
-    },
-    {
-      "added_at": "2023-09-08 11:48:58",
-      "album": {
         "name": "ASMR Sleepy Pleasures - Ear Massage (No Talking)",
         "url": "https://open.spotify.com/album/3tBGDsAKEzCGEzMW4MSwru"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 375100,
       "name": "Ear Massage with a Lotion",
       "url": "https://open.spotify.com/track/6hl3yYM5lCxwR6pODqpsYq"
+    },
+    {
+      "added_at": "2023-09-08 11:48:58",
+      "album": {
+        "name": "Binaural ASMR Triggers",
+        "url": "https://open.spotify.com/album/0w0KhJBMc5USuQyLDQn90Q"
+      },
+      "artists": [
+        {
+          "name": "Alice ASMR",
+          "url": "https://open.spotify.com/artist/6O99TZRD50g7R3IMBSkg58"
+        }
+      ],
+      "duration_ms": 166909,
+      "name": "Cotton Swabs In Ears",
+      "url": "https://open.spotify.com/track/5mUq6uOgmzEodRY64mC6Fk"
     },
     {
       "added_at": "2023-09-08 11:48:58",

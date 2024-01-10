@@ -1,12 +1,12 @@
 {
   "description": "Laid back sounds to see you through your day.",
-  "num_followers": 428634,
+  "num_followers": 428836,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmIwZDhhZWRmNTJjNjkzOWE2ZjFmMjhhYTljNWQyYThjMTk2MGRj",
+  "snapshot_id": "MCxhZDRiYWYzOGRhZmI3NmIwNWY4Yzc3MTg5MWYyZDdlN2RlMzY1YmVi",
   "tracks": [
     {
       "added_at": "2023-12-01 16:09:51",
@@ -1019,18 +1019,22 @@
     {
       "added_at": "2023-12-01 16:09:51",
       "album": {
-        "name": "closure",
-        "url": "https://open.spotify.com/album/1r2rmgwbxAqt6qG6DWRpYy"
+        "name": "UNHEALTHY (Deluxe)",
+        "url": "https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr"
       },
       "artists": [
         {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 183566,
-      "name": "closure",
-      "url": "https://open.spotify.com/track/5iKyrrKFZ9zHbW0mpW18GA"
+      "duration_ms": 205613,
+      "name": "YOU & I (feat. Khalid)",
+      "url": "https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ"
     },
     {
       "added_at": "2023-12-01 16:09:51",
@@ -1051,22 +1055,18 @@
     {
       "added_at": "2023-12-01 16:09:51",
       "album": {
-        "name": "UNHEALTHY (Deluxe)",
-        "url": "https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr"
+        "name": "closure",
+        "url": "https://open.spotify.com/album/1r2rmgwbxAqt6qG6DWRpYy"
       },
       "artists": [
         {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
         }
       ],
-      "duration_ms": 205613,
-      "name": "YOU & I (feat. Khalid)",
-      "url": "https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ"
+      "duration_ms": 183566,
+      "name": "closure",
+      "url": "https://open.spotify.com/track/5iKyrrKFZ9zHbW0mpW18GA"
     },
     {
       "added_at": "2023-12-01 16:09:51",
@@ -1567,22 +1567,18 @@
     {
       "added_at": "2023-12-01 16:09:51",
       "album": {
-        "name": "Superbloodmoon (feat. d4vd)",
-        "url": "https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I"
+        "name": "Into Your Room",
+        "url": "https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws"
       },
       "artists": [
         {
           "name": "Holly Humberstone",
           "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        },
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         }
       ],
-      "duration_ms": 151792,
-      "name": "Superbloodmoon (feat. d4vd)",
-      "url": "https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl"
+      "duration_ms": 209787,
+      "name": "Into Your Room",
+      "url": "https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR"
     },
     {
       "added_at": "2023-12-01 16:09:51",
@@ -1635,18 +1631,18 @@
     {
       "added_at": "2023-12-01 16:09:51",
       "album": {
-        "name": "Call Me A Dreamer",
-        "url": "https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj"
+        "name": "Coffee Shop",
+        "url": "https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U"
       },
       "artists": [
         {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
         }
       ],
-      "duration_ms": 228798,
-      "name": "Call Me A Dreamer",
-      "url": "https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw"
+      "duration_ms": 124080,
+      "name": "Coffee Shop",
+      "url": "https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI"
     }
   ],
   "unique_name": "Easy",

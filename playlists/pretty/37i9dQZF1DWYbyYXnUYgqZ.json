@@ -1,12 +1,12 @@
 {
   "description": "Enjoy fantastic gameplay with k-pop music! (Cover: LE SSERAFIM)",
-  "num_followers": 92640,
+  "num_followers": 92751,
   "original_name": "K-Pop Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGI2YTNjYjk1YmJhM2UyNTRkNjE5ZDQyMmMwODc4ZTgyMWI2MTRh",
+  "snapshot_id": "MCwxODhiYjE0ZTNhOTY2ZjZmNjAyN2NlMjRmZmZlMzU1N2E1NDJlYzYy",
   "tracks": [
     {
       "added_at": "2024-01-08 08:53:08",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-01-08 08:53:08",
       "album": {
-        "name": "I love",
-        "url": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 178453,
-      "name": "Nxde",
-      "url": "https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE"
-    },
-    {
-      "added_at": "2024-01-08 08:53:08",
-      "album": {
         "name": "Permission to Dance",
         "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 187585,
       "name": "Permission to Dance",
       "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"
+    },
+    {
+      "added_at": "2024-01-08 08:53:08",
+      "album": {
+        "name": "I love",
+        "url": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 178453,
+      "name": "Nxde",
+      "url": "https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE"
     },
     {
       "added_at": "2024-01-08 08:53:08",
@@ -1063,8 +1063,8 @@
     {
       "added_at": "2024-01-08 08:53:08",
       "album": {
-        "name": "Chili",
-        "url": "https://open.spotify.com/album/1vybbGeB3hmgVpEiTDZfgK"
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
       },
       "artists": [
         {
@@ -1072,9 +1072,9 @@
           "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
         }
       ],
-      "duration_ms": 135428,
-      "name": "Chili",
-      "url": "https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk"
+      "duration_ms": 199026,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK"
     },
     {
       "added_at": "2024-01-08 08:53:08",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-01-08 08:53:08",
       "album": {
+        "name": "Chili",
+        "url": "https://open.spotify.com/album/1vybbGeB3hmgVpEiTDZfgK"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 135428,
+      "name": "Chili",
+      "url": "https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk"
+    },
+    {
+      "added_at": "2024-01-08 08:53:08",
+      "album": {
         "name": "ENTWURF",
         "url": "https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 165746,
       "name": "DICE",
       "url": "https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC"
-    },
-    {
-      "added_at": "2024-01-08 08:53:08",
-      "album": {
-        "name": "Mar\u00eda",
-        "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
-      },
-      "artists": [
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 199026,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK"
     },
     {
       "added_at": "2024-01-08 08:53:08",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2024-01-08 08:53:08",
       "album": {
-        "name": "EXIST \u2013 The 7th Album",
-        "url": "https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61"
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
       "artists": [
         {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 185320,
-      "name": "Cream Soda",
-      "url": "https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld"
+      "duration_ms": 214253,
+      "name": "LILAC",
+      "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
     },
     {
       "added_at": "2024-01-08 08:53:08",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2024-01-08 08:53:08",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+        "name": "EXIST \u2013 The 7th Album",
+        "url": "https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
         }
       ],
-      "duration_ms": 214253,
-      "name": "LILAC",
-      "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
+      "duration_ms": 185320,
+      "name": "Cream Soda",
+      "url": "https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld"
     },
     {
       "added_at": "2024-01-08 08:53:08",
@@ -1583,8 +1583,8 @@
     {
       "added_at": "2024-01-08 08:53:08",
       "album": {
-        "name": "GUESS WHO",
-        "url": "https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G"
+        "name": "Not Shy",
+        "url": "https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os"
       },
       "artists": [
         {
@@ -1592,9 +1592,9 @@
           "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
         }
       ],
-      "duration_ms": 172373,
-      "name": "In the morning",
-      "url": "https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16"
+      "duration_ms": 177728,
+      "name": "Not Shy",
+      "url": "https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf"
     },
     {
       "added_at": "2024-01-08 08:53:08",
@@ -1631,6 +1631,38 @@
     {
       "added_at": "2024-01-08 08:53:08",
       "album": {
+        "name": "Get A Guitar",
+        "url": "https://open.spotify.com/album/4QzCT76QtPCyLinchwVt8l"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 160371,
+      "name": "Get A Guitar",
+      "url": "https://open.spotify.com/track/3Dah48XTdzVtbIl4dUn6l4"
+    },
+    {
+      "added_at": "2024-01-08 08:53:08",
+      "album": {
+        "name": "\u56de:Walpurgis Night",
+        "url": "https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "MAGO",
+      "url": "https://open.spotify.com/track/46WaBBaEHzgbN88Ew0nh50"
+    },
+    {
+      "added_at": "2024-01-08 08:53:08",
+      "album": {
         "name": "BTBT",
         "url": "https://open.spotify.com/album/6z2Ij8op0iB16BnmrCy0vH"
       },
@@ -1651,22 +1683,6 @@
       "duration_ms": 219549,
       "name": "BTBT",
       "url": "https://open.spotify.com/track/4XcxgZSriCYamtIA7BgT7V"
-    },
-    {
-      "added_at": "2024-01-08 08:53:08",
-      "album": {
-        "name": "\u56de:Walpurgis Night",
-        "url": "https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h"
-      },
-      "artists": [
-        {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "MAGO",
-      "url": "https://open.spotify.com/track/46WaBBaEHzgbN88Ew0nh50"
     },
     {
       "added_at": "2024-01-08 08:53:08",
@@ -1699,22 +1715,6 @@
       "duration_ms": 189049,
       "name": "Peek-A-Boo",
       "url": "https://open.spotify.com/track/42tFTth2jcF7iSo0RBjfJF"
-    },
-    {
-      "added_at": "2024-01-08 08:53:08",
-      "album": {
-        "name": "Get A Guitar",
-        "url": "https://open.spotify.com/album/4QzCT76QtPCyLinchwVt8l"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 160371,
-      "name": "Get A Guitar",
-      "url": "https://open.spotify.com/track/3Dah48XTdzVtbIl4dUn6l4"
     },
     {
       "added_at": "2024-01-08 08:53:08",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > Your weekly Rock update\. Cover: audalei
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,189 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,166 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 37 | [Another Year Gone](https://open.spotify.com/track/3DPcH2cjFG7QvBh2DI1ajr) | [Elephant Stone](https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo) | [Another Year Gone](https://open.spotify.com/album/5Ue9eH8utP2C5koj3Efp6q) | 1:44 |
 | 38 | [Sick As Your Secrets](https://open.spotify.com/track/1tfbXcqMhvdB2YYkpz54Np) | [Sara Sloan](https://open.spotify.com/artist/0HqD7L1K0yANRk0geft2EV) | [Sick As Your Secrets](https://open.spotify.com/album/2vPyzhvkgoNoRaub67x6Ic) | 4:03 |
 | 39 | [Figure Me Out](https://open.spotify.com/track/052z8v5IXghAiYr4jLkxnY) | [weknewnothing](https://open.spotify.com/artist/15o5hdbD9oSZ1qJzdbiQFU), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Figure Me Out](https://open.spotify.com/album/4ghBJ0vNOODmJl2LM8Dv1P) | 2:39 |
-| 40 | [Back To Us \(feat\. Goody Grace and Smrtdeath\)](https://open.spotify.com/track/1jOzZUwloEQwXTSEhIrRW3) | [44Blonde](https://open.spotify.com/artist/4KVVfMSquW9mvY3CHFwAxX), [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk) | [Back To Us \(feat\. Goody Grace and Smrtdeath\)](https://open.spotify.com/album/6JKG9hCQqO9rCtT1NmCMEs) | 2:42 |
+| 40 | [Back To Us \(feat\. Goody Grace and Smrtdeath\)](https://open.spotify.com/track/3vQFmL2ZMulyWz79aQ8nxQ) | [44Blonde](https://open.spotify.com/artist/4KVVfMSquW9mvY3CHFwAxX), [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk) | [Back To Us \(feat\. Goody Grace and Smrtdeath\)](https://open.spotify.com/album/5Gv7ZjHBYClNcolWaxB49t) | 2:42 |
 | 41 | [long forgotten](https://open.spotify.com/track/7qsNTUgyF2fgM8Em9Ru7Fc) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [long forgotten](https://open.spotify.com/album/1LERoV2A0MTB4VnN8gVO2V) | 2:55 |
 | 42 | [Easy](https://open.spotify.com/track/1nRztuOlFPcKwnzwcjWTo2) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [Easy](https://open.spotify.com/album/1lZmoIW2IkCBG1WySoiSCE) | 3:20 |
 | 43 | [House Party](https://open.spotify.com/track/5bDdOUjI7IshZD5Vn9FU39) | [SUM SUN](https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT) | [House Party](https://open.spotify.com/album/57x0C0zl0BeHHWgzcf2VwP) | 2:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Off My Back](https://open.spotify.com/track/0HjOIq9IGVyVeLBJBP51uP) | [moondoggy](https://open.spotify.com/artist/5p00nwfrUcZvA9WbXZeQOk) | [Mad and Noisy](https://open.spotify.com/album/15JmQH5VYVKiTdueByfqgz) | 2:52 |
 | 100 | [Sugar Like That](https://open.spotify.com/track/2GZga87kUDmNkFtOq49sEr) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Sugar Like That](https://open.spotify.com/album/6NOHZlMBXG95ldNB72ORJx) | 3:13 |
 
-Snapshot ID: `MCxjYjIyNWQyNTczNWI1MDIwODBmNjNiMzE3OTJkOTJkNjJmMWM0ZGJh`
+Snapshot ID: `MCxjYzE3YzgyMmU5MDNlNTU5YzlkNWVhMDFjMWJjNTY3NTg0NTlkZWNi`

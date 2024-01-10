@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,167 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,159 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 99 | [Amrutha Kshana \(Female Version\)](https://open.spotify.com/track/4x6lFrNvEvsJyZL3UFnC8s) | [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ), [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr) | [Amrutha Kshana \(Female Version\)](https://open.spotify.com/album/2XypahtBYalSRdrgPWK7Va) | 2:59 |
 | 100 | [Don't Worry 2](https://open.spotify.com/track/6RN5sglfTOy9rPZUvH2tnR) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Don't Worry 2](https://open.spotify.com/album/3YKpYn2iDXF3oXNBGNN8DI) | 3:43 |
 
-Snapshot ID: `MCxjMGIyNWE3MWJmMDJiMGJjM2NhZmZlMmQyN2NhZDczNjFhNDlhMzc3`
+Snapshot ID: `MCwyOGIwNDhhN2Q0ZjZmYjFkYjBkYWZjYWY3YzAxZWNhZGExMDM0MjU4`

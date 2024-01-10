@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-868 songs - 2 day 0 hr 47 min
+869 songs - 2 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [HYAENA](https://open.spotify.com/track/0hL9gOw6XBWsygEUcVjxEc) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:42 | 2023-07-29 | 2023-08-01 |
 | [I Ain't Worried](https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [OneRepublic \(Japan Paradise Tour Edition\)](https://open.spotify.com/album/33inEak0hNKMDePhjGxE61) | 2:28 | 2023-02-16 | 2023-05-20 |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-07-20 | 2023-02-17 |
+| [I Don't Believe in Love](https://open.spotify.com/track/6DAvHD3nESAtSe22t8DZEt) | [Shay Wize](https://open.spotify.com/artist/0jjcsOQ5SBkMoiv7EhWfJg) | [Fairytales](https://open.spotify.com/album/29tfL8YragqC6XnzZE1dYT) | 4:09 | 2024-01-09 |  |
 | [I KNOW ?](https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:31 | 2023-07-29 | 2023-08-01 |
 | [I Know Places \(Taylor's Version\)](https://open.spotify.com/track/2f0GI2ZLUtbGqFx8t2Gk6A) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:15 | 2023-10-28 | 2023-10-30 |
 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2022-06-04 | 2022-06-24 |
@@ -508,7 +509,7 @@
 | [בור ועם הארץ](https://open.spotify.com/track/5UTASY1feroQggKyga3HvI) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx), [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [בור ועם הארץ](https://open.spotify.com/album/0cW5vsg1yTW2DJIqEGwDpS) | 4:20 | 2023-05-22 | 2023-06-03 |
 | [בזמן האחרון](https://open.spotify.com/track/5cENOu6Era495FYzmGsCsd) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [בזמן האחרון](https://open.spotify.com/album/0g8BA4sp4H8RTgYepBt0uI) | 3:19 | 2022-04-02 | 2022-04-07 |
 | [בזמן האחרון](https://open.spotify.com/track/5ezFz6Jwn7l40kIGAP4zmL) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [קצת שמח קצת עצוב](https://open.spotify.com/album/3J0HUIjrnO6O3laWJm9Xp9) | 3:19 | 2022-04-06 | 2022-05-05 |
-| [ביחד](https://open.spotify.com/track/3yyHRwblo5kk0fH9pfMP6M) | [Marina Maximilian](https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp), [Guy Mentesh](https://open.spotify.com/artist/4fEvmZa0SYpKxIk9DXyQUJ) | [ביחד](https://open.spotify.com/album/0w2JUD94m7ZQ2o3uTMU4Y0) | 2:31 | 2021-08-26 |  |
+| [ביחד](https://open.spotify.com/track/3yyHRwblo5kk0fH9pfMP6M) | [Marina Maximilian](https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp), [Guy Mentesh](https://open.spotify.com/artist/4fEvmZa0SYpKxIk9DXyQUJ) | [ביחד](https://open.spotify.com/album/0w2JUD94m7ZQ2o3uTMU4Y0) | 2:31 | 2021-08-26 | 2024-01-10 |
 | [ביחד](https://open.spotify.com/track/4NJbK9op9ixBJVOXEwNK4R) | [Marina Maximilian](https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp), [Guy Mentesh](https://open.spotify.com/artist/4fEvmZa0SYpKxIk9DXyQUJ) | [ביחד](https://open.spotify.com/album/5oC80Ft440Tc0cyRRefKsi) | 2:31 | 2021-03-27\* | 2021-08-26 |
 | [בימים ההם](https://open.spotify.com/track/6n0Rajp2KbX5X7HeJrAyrH) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [בימים ההם](https://open.spotify.com/album/3kyru2X7jEoQuScV2KmJVO) | 2:58 | 2022-07-19 | 2022-07-27 |
 | [בית משוגעים](https://open.spotify.com/track/66iaD8MCoVnBtqUhuzdglT) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo) | [בית משוגעים](https://open.spotify.com/album/569icpNOeFw5zZDePlrwJR) | 2:49 | 2021-03-27\* | 2022-09-13 |
@@ -585,7 +586,7 @@
 | [חורף בחלון](https://open.spotify.com/track/4b5dVRUzTCy0ngxobUX2DG) | [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [פרק א' נגמר](https://open.spotify.com/album/5yQFGP3SYKAHZp3XlROttw) | 3:32 | 2023-02-06 | 2023-03-30 |
 | [חיים מאושרים](https://open.spotify.com/track/5bfyO9R6raJctlhVpXzPG4) | [Nathan Goshen](https://open.spotify.com/artist/5CXvT1JutlWVLJN8YEOf1h), [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [חיים מאושרים](https://open.spotify.com/album/2FtWmySJ08u2O3lA6Xbm9C) | 3:23 | 2021-03-27\* | 2021-08-06 |
 | [חישגוזים](https://open.spotify.com/track/31cPrw1QeS642qgShdFYza) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [חישגוזים](https://open.spotify.com/album/32XFV7Wh93lpTGQnvZ3UoL) | 2:51 | 2023-06-25 | 2023-07-07 |
-| [חלק מהזמן](https://open.spotify.com/track/3hay408PSjTAxPn5TPxzyh) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [חלק מהזמן](https://open.spotify.com/album/2S2e0HzH9GpeLouWR1ctCB) | 3:43 | 2023-03-18 | 2023-03-20 |
+| [חלק מהזמן](https://open.spotify.com/track/3hay408PSjTAxPn5TPxzyh) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [חלק מהזמן](https://open.spotify.com/album/2S2e0HzH9GpeLouWR1ctCB) | 3:43 | 2023-03-18 |  |
 | [חמישי שישי](https://open.spotify.com/track/57BFhpG4Iq4Zgnoz2X6zbT) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN), [Nadav Navi Aharoni](https://open.spotify.com/artist/2KxKLkAYIg1MJyLCH0Pl8e) | [חמישי שישי](https://open.spotify.com/album/53nQ4JcS0sLdyI5F7t6yiZ) | 3:25 | 2022-05-19 | 2023-09-07 |
 | [חנוכה](https://open.spotify.com/track/4VDrcf17m0AE6CMekgvCAA) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g) | [חנוכה](https://open.spotify.com/album/6teleymeiKKchMbvIKodcQ) | 3:01 | 2021-12-01 | 2021-12-08 |
 | [חנוכה חנוכה](https://open.spotify.com/track/7fT1m5zBUXcQhrQ8GY6zxH) | [Dalia Amihud](https://open.spotify.com/artist/4iZXZxiD3ZWOqaD4s1IHI3), [Kids Choir](https://open.spotify.com/artist/2rj7Su1MsQ6zRbSHnYqcJb) | [שירי החגים הגדולים בכל הזמנים](https://open.spotify.com/album/0pyNXUcowpgnknHQUoVVyW) | 1:41 | 2021-11-30 | 2021-12-01 |
@@ -601,7 +602,7 @@
 | [טרילילי טרללה](https://open.spotify.com/track/7hYZJ0COHvJxMx6tBSJ1T6) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Ilan Peled](https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL) | [טרילילי טרללה](https://open.spotify.com/album/22CJZ4LX8d7fI0Kqk6c1hk) | 3:23 | 2021-06-23 | 2022-05-08 |
 | [טרנטולה](https://open.spotify.com/track/4py8ddBPFRTYqL3vbh2FXq) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE), [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [לירז](https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G) | 2:10 | 2023-02-23 | 2023-08-01 |
 | [טרנטונה](https://open.spotify.com/track/5pszKUrVXrL8MZ3UJb2fX3) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [מזרח פרוע](https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y) | 2:49 | 2021-12-18 | 2021-12-26 |
-| [י'א 2](https://open.spotify.com/track/2PpTUW96jjJYr8ib8RUnUu) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [טונהפארק](https://open.spotify.com/album/3yXLuyV0G2op91XliCCRWv) | 2:56 | 2022-09-04 |  |
+| [י'א 2](https://open.spotify.com/track/2PpTUW96jjJYr8ib8RUnUu) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [טונהפארק](https://open.spotify.com/album/3yXLuyV0G2op91XliCCRWv) | 2:56 | 2022-09-04 | 2024-01-10 |
 | [יאללה ביי](https://open.spotify.com/track/1XO1AePYpXpLxtRWpcaJiJ) | [Maya Dadon](https://open.spotify.com/artist/2CFhpsYDfBaq8q9enYLdBG) | [יאללה ביי](https://open.spotify.com/album/4bhj4uZODLIVtCJkg7bI7J) | 2:32 | 2022-07-06 | 2022-09-23 |
 | [יאללה ביי](https://open.spotify.com/track/65xypSQQ6kSMjkL634ICtB) | [Maya Dadon](https://open.spotify.com/artist/2CFhpsYDfBaq8q9enYLdBG) | [חוץ ממך](https://open.spotify.com/album/4P8ClljYc0ABC9cDVJAxHF) | 2:32 | 2022-09-22 | 2022-09-25 |
 | [יהיה טוב](https://open.spotify.com/track/6nSQvSGrFykSmDIOetK94r) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [אין עולם](https://open.spotify.com/album/1k5xdoDTIaEFqo79mvTDFc) | 3:16 | 2023-06-03 |  |

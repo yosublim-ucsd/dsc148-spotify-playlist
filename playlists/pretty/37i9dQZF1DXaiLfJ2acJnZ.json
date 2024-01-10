@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 45785,
+  "num_followers": 45800,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzYxYWUwZjUzMDA0YzAyMGFhZjQ3OTFlMjI3YjczN2JkZmQzNWFi",
+  "snapshot_id": "MCxhNWM0MjBkYWViMTc3MTkzYWE4NzgwYWVjY2EzZWFhMDEyNWZhYTcx",
   "tracks": [
     {
       "added_at": "2023-12-01 15:59:50",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-12-01 15:59:50",
       "album": {
-        "name": "Gracie",
-        "url": "https://open.spotify.com/album/2kfbfChhJMy2N01rdxlDni"
-      },
-      "artists": [
-        {
-          "name": "Will Linley",
-          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
-        }
-      ],
-      "duration_ms": 165260,
-      "name": "Gracie",
-      "url": "https://open.spotify.com/track/2woJ2PjBLoeKPn47ZHmT4w"
-    },
-    {
-      "added_at": "2023-12-01 15:59:50",
-      "album": {
         "name": "The Good Witch",
         "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 179453,
       "name": "Two Weeks Ago",
       "url": "https://open.spotify.com/track/0bnUDXvwi2s8924tLTDg3K"
+    },
+    {
+      "added_at": "2023-12-01 15:59:50",
+      "album": {
+        "name": "Gracie",
+        "url": "https://open.spotify.com/album/2kfbfChhJMy2N01rdxlDni"
+      },
+      "artists": [
+        {
+          "name": "Will Linley",
+          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
+        }
+      ],
+      "duration_ms": 165260,
+      "name": "Gracie",
+      "url": "https://open.spotify.com/track/2woJ2PjBLoeKPn47ZHmT4w"
     },
     {
       "added_at": "2023-12-01 15:59:50",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2023-12-01 15:59:50",
       "album": {
-        "name": "Dear Body",
-        "url": "https://open.spotify.com/album/6WgcGtcQKVgo8zpEDmHiTh"
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D"
       },
       "artists": [
         {
-          "name": "Bow Anderson",
-          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
         }
       ],
-      "duration_ms": 189520,
-      "name": "Dear Body",
-      "url": "https://open.spotify.com/track/2wXaoOfQlEFmq4p1HwSvBB"
+      "duration_ms": 131793,
+      "name": "Amelia",
+      "url": "https://open.spotify.com/track/2Di10SMcYqTKahN7lJazFe"
     },
     {
       "added_at": "2023-12-01 15:59:50",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2023-12-01 15:59:50",
       "album": {
-        "name": "Amelia",
-        "url": "https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D"
+        "name": "Dear Body",
+        "url": "https://open.spotify.com/album/6WgcGtcQKVgo8zpEDmHiTh"
       },
       "artists": [
         {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+          "name": "Bow Anderson",
+          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
         }
       ],
-      "duration_ms": 131793,
-      "name": "Amelia",
-      "url": "https://open.spotify.com/track/2Di10SMcYqTKahN7lJazFe"
+      "duration_ms": 189520,
+      "name": "Dear Body",
+      "url": "https://open.spotify.com/track/2wXaoOfQlEFmq4p1HwSvBB"
     },
     {
       "added_at": "2023-12-01 15:59:50",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-12-01 15:59:50",
       "album": {
-        "name": "Forgiving Myself",
-        "url": "https://open.spotify.com/album/0T708QHQH4KXAWbWq0maCj"
-      },
-      "artists": [
-        {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
-        }
-      ],
-      "duration_ms": 175784,
-      "name": "Forgiving Myself",
-      "url": "https://open.spotify.com/track/2lguBq1ku75GPVdRiTOD1y"
-    },
-    {
-      "added_at": "2023-12-01 15:59:50",
-      "album": {
         "name": "A Little Lost, A Little Found",
         "url": "https://open.spotify.com/album/7yxmuuj0a8Ha2yhjA6Ovq2"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 182600,
       "name": "Hope",
       "url": "https://open.spotify.com/track/2Yu76lZYP18wgBw7hmlW9U"
+    },
+    {
+      "added_at": "2023-12-01 15:59:50",
+      "album": {
+        "name": "Forgiving Myself",
+        "url": "https://open.spotify.com/album/0T708QHQH4KXAWbWq0maCj"
+      },
+      "artists": [
+        {
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+        }
+      ],
+      "duration_ms": 175784,
+      "name": "Forgiving Myself",
+      "url": "https://open.spotify.com/track/2lguBq1ku75GPVdRiTOD1y"
     },
     {
       "added_at": "2023-12-01 15:59:50",

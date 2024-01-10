@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\.  الغلاف: <a href="https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID?si=bxJJjjGbRUO5zUw\_sWadeA">  رامي جمال </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,324 likes - 51 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,225 likes - 51 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 50 | [7ALA](https://open.spotify.com/track/00TO3hVgOAgfKrRjrKEZxx) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [7ALA](https://open.spotify.com/album/70r1uOvZK1dM37OeCqtEsn) | 3:01 |
 | 51 | [شارع الحياه مش هو هو \- كنت اسد بس الحسد](https://open.spotify.com/track/5uY9sxUgX1EarWZXCKdzzu) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [شارع الحياه مش هو هو \(كنت اسد بس الحسد\)](https://open.spotify.com/album/5KoxyECjOwq9JjiRwxfoTZ) | 4:57 |
 
-Snapshot ID: `MCw2NTA2YmFhZWNhMTA0MzI3YjYxZmExZDI3MzkyN2E3OWJkZTdlMjc5`
+Snapshot ID: `MCxiN2U1MGY1M2QxZjJjZTFiODgzMzQxMWM5YTNjNjZhYzhkYjBhMWEz`

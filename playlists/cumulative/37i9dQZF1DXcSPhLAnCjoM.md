@@ -4,7 +4,7 @@
 
 > Joseph Kamel au top des 50 hits de variété française du moment.
 
-81 songs - 4 hr 18 min
+82 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Chez toi](https://open.spotify.com/track/4RFMijduXiJ13hHuYwPMoG) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz), [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Chroniques d’un cupidon](https://open.spotify.com/album/1a6v54PDHcrn6y5iA7wuT1) | 3:19 | 2023-09-28 |  |
 | [Comment on fait](https://open.spotify.com/track/4eFnW6X1iXgyEDg90HWEVj) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [Comment on fait](https://open.spotify.com/album/6fx6DbXhISVfj2T3mySNmS) | 3:00 | 2023-09-28 |  |
 | [Compliqué](https://open.spotify.com/track/3evy9O7cidfAj9wOFF5Has) | [Tianaa](https://open.spotify.com/artist/3KYdnM0Ba2MngqmElBqIZk) | [Compliqué](https://open.spotify.com/album/0bCdK5aVWEvByvrVyMVA5K) | 3:01 | 2023-12-07 |  |
-| [Creep \- Reprise](https://open.spotify.com/track/5vZtvZGmR9APE5Uthy4A3H) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Creep \(Reprise\)](https://open.spotify.com/album/0CRmRKpMa7LpbNCkHzgwBD) | 2:51 | 2023-11-09 |  |
+| [Creep \- Reprise](https://open.spotify.com/track/5vZtvZGmR9APE5Uthy4A3H) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Creep \(Reprise\)](https://open.spotify.com/album/0CRmRKpMa7LpbNCkHzgwBD) | 2:51 | 2023-11-09 | 2024-01-10 |
+| [Creep \- Reprise](https://open.spotify.com/track/6R3kzJCQFejaS1XIR7wnbo) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Creep \(Reprise\)](https://open.spotify.com/album/2Q1hHWosLo5qBPj6oL8bDY) | 2:51 | 2024-01-04 |  |
 | [Crois\-moi ! \(feat\. Adeline Lovo\)](https://open.spotify.com/track/4l2TGTY0zJtMx1bGgu0dD5) | [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf), [Adeline Lovo](https://open.spotify.com/artist/7yhd0k8UToSYCkNq7HUBC6) | [Crois\-moi ! \(feat\. Adeline Lovo\)](https://open.spotify.com/album/5RE7XNjwMHW4BPJREddQly) | 3:24 | 2023-11-09 |  |
 | [Crush](https://open.spotify.com/track/5xAZbiKC3j8IVU3XQUybZ4) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Crush](https://open.spotify.com/album/6UqCMBGylvsiza6n6F5e6U) | 3:12 | 2023-09-28 |  |
 | [C’est la Vie](https://open.spotify.com/track/6BV2gqsxAWqZKqM8Kx4GLb) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [C’est la Vie](https://open.spotify.com/album/3SjBLAvQwwhiAUnrifGlrD) | 3:28 | 2023-09-28 |  |

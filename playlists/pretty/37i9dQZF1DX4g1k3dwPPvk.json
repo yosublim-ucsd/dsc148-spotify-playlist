@@ -1,12 +1,12 @@
 {
   "description": "The Latin soundtrack of the 90s! Cover: Selena",
-  "num_followers": 273183,
+  "num_followers": 273131,
   "original_name": "90s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2ExNDhiNzMzNzA0OGY3MTEyMjdlYTdhNDg2Y2ViMjk4YjI3MDg3",
+  "snapshot_id": "MCwzMTZkMjkzZmI4NzEzMzQ2Y2ZiMGE2MTUwYjU3NmRiZTI2YmJkMWU3",
   "tracks": [
     {
       "added_at": "2023-02-17 21:06:33",
@@ -571,18 +571,18 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
-        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 291493,
-      "name": "Vivir Sin Aire",
-      "url": "https://open.spotify.com/track/3G9RQLOSjsXVUDyQSv2PQR"
+      "duration_ms": 314866,
+      "name": "Dreaming Of You",
+      "url": "https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
+        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
       },
       "artists": [
         {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 314866,
-      "name": "Dreaming Of You",
-      "url": "https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly"
+      "duration_ms": 291493,
+      "name": "Vivir Sin Aire",
+      "url": "https://open.spotify.com/track/3G9RQLOSjsXVUDyQSv2PQR"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
+        "name": "La Ultima Tentaci\u00f3n",
+        "url": "https://open.spotify.com/album/4zgAUvHWJU5TsT7eoBM9Vq"
+      },
+      "artists": [
+        {
+          "name": "Amistades Peligrosas",
+          "url": "https://open.spotify.com/artist/15FscPIs0VO23BCCMaPglf"
+        }
+      ],
+      "duration_ms": 235906,
+      "name": "Me haces tanto bien",
+      "url": "https://open.spotify.com/track/5PM8SxOW02F9ChM0BLjALX"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
         "name": "Por Amor A Mi Pueblo",
         "url": "https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od"
       },
@@ -867,22 +883,6 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "La Ultima Tentaci\u00f3n",
-        "url": "https://open.spotify.com/album/4zgAUvHWJU5TsT7eoBM9Vq"
-      },
-      "artists": [
-        {
-          "name": "Amistades Peligrosas",
-          "url": "https://open.spotify.com/artist/15FscPIs0VO23BCCMaPglf"
-        }
-      ],
-      "duration_ms": 235906,
-      "name": "Me haces tanto bien",
-      "url": "https://open.spotify.com/track/5PM8SxOW02F9ChM0BLjALX"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
         "name": "Dreaming Of You",
         "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
       },
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 286466,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
         "name": "Lo Mejor de Vilma Palma",
         "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 281933,
       "name": "La pachanga",
       "url": "https://open.spotify.com/track/0bIye27QbOvSrTAmCViX5O"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 286466,
+      "name": "La Ventanita",
+      "url": "https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Originales",
-        "url": "https://open.spotify.com/album/3WjM6QkoJqU2VsVMfI05xJ"
-      },
-      "artists": [
-        {
-          "name": "El General",
-          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
-        }
-      ],
-      "duration_ms": 244773,
-      "name": "Mu\u00e9velo",
-      "url": "https://open.spotify.com/track/2oZLIxCH4U7a5uc307IFLp"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
         "name": "Marc Anthony",
         "url": "https://open.spotify.com/album/2zG5uEJ1zY00uN6qXjPu5d"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 347106,
       "name": "You Sang To Me",
       "url": "https://open.spotify.com/track/2dwhMQsFeHr2S787WxqAqW"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
+        "name": "Originales",
+        "url": "https://open.spotify.com/album/3WjM6QkoJqU2VsVMfI05xJ"
+      },
+      "artists": [
+        {
+          "name": "El General",
+          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
+        }
+      ],
+      "duration_ms": 244773,
+      "name": "Mu\u00e9velo",
+      "url": "https://open.spotify.com/track/2oZLIxCH4U7a5uc307IFLp"
     },
     {
       "added_at": "2023-02-17 21:06:33",

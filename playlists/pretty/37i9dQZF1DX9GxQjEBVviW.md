@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 
 > ​Boogie along to doo\-wop's greatest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,841 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,786 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 47 | [There Goes My Baby \(Rerecorded\)](https://open.spotify.com/track/69qHhlhQFosgMbfXUpOgue) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [16 Best of Doo Wop](https://open.spotify.com/album/0FjQwdFdhhDadEfAeltSKh) | 2:14 |
 | 48 | [Buzz, Buzz, Buzz](https://open.spotify.com/track/1rhkJsynQ42VnaJanPmNwg) | [The Hollywood Flames](https://open.spotify.com/artist/121nZKKBmAkL8NKaXY0rkC) | [The Hollywood Flames](https://open.spotify.com/album/6ezr8YCNogJhJv0ggSRtET) | 2:16 |
 | 49 | [Speedoo \(Alternative Take\)](https://open.spotify.com/track/3fy76k7I8YMUOR7bn7EcM5) | [The Cadillacs](https://open.spotify.com/artist/5ye4TzZU2L7cxiQgCZoJUH) | [The Fabulous Cadillacs](https://open.spotify.com/album/5UoyKbXmb2JNJSFMxL1VpY) | 2:21 |
-| 50 | [Lovers Never Say Goodbye](https://open.spotify.com/track/1XDKn16I6tc1PNpXf58y3t) | [The Flamingos](https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6) | [Playlist: The Best Of The Flamingos](https://open.spotify.com/album/4jwec58eQ4tIr8YWKdxyjg) | 2:53 |
+| 50 | [Crying in the Chapel \- Remastered](https://open.spotify.com/track/53AD8JznNIb0jUZvwFY6MB) | [Sonny Til & The Orioles](https://open.spotify.com/artist/0xu2ZjoR7pUPjMIDcJ67dW) | [Anthology: The Deluxe Collection \(Remastered\)](https://open.spotify.com/album/5GuwHCtGYe062YWhAyc0jF) | 3:01 |
 
-Snapshot ID: `MCw0ZTI5M2RjMzY3NGFiOTlkYzI0NGNkZDEyMWQ3OTg4NWNlOGE1Y2Q4`
+Snapshot ID: `MCxkZGJlYWFkMzNiZjUyOThmMTVlOGM3ZTMyZDVhMTJjMDdiN2ViNGM0`

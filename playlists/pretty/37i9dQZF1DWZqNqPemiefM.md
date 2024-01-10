@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,814 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,818 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 18 | [solari](https://open.spotify.com/track/2ZYyuqKe7T64UqWVuW7CkS) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3) | 3:52 |
 | 19 | [Tobiume](https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 4:38 |
 | 20 | [Seiko 2](https://open.spotify.com/track/56zWPqzYm4YE8vLMgMmScW) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Music For Commercials](https://open.spotify.com/album/6EGDUidDFrjFoxg6uSQdbH) | 1:08 |
-| 21 | [Ike](https://open.spotify.com/track/6tmWAG5SEJMqVDQmGDGvLp) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 3:28 |
-| 22 | [Last Days](https://open.spotify.com/track/2wKV2ewqNf2ZjW4Nn2X5i7) | [Yasushi Yoshida](https://open.spotify.com/artist/2u5s5wxfNszaIZwWknh3eB) | [Heavenly Me Last Days](https://open.spotify.com/album/2ygBTmJ4Mvq2hXL3Ssjojm) | 9:59 |
+| 21 | [Last Days](https://open.spotify.com/track/2wKV2ewqNf2ZjW4Nn2X5i7) | [Yasushi Yoshida](https://open.spotify.com/artist/2u5s5wxfNszaIZwWknh3eB) | [Heavenly Me Last Days](https://open.spotify.com/album/2ygBTmJ4Mvq2hXL3Ssjojm) | 9:59 |
+| 22 | [Ike](https://open.spotify.com/track/6tmWAG5SEJMqVDQmGDGvLp) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 3:28 |
 | 23 | [SHEEP](https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:19 |
 | 24 | [Leaving](https://open.spotify.com/track/2VsCSKol8i9vHyc9S1kI7y) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Leaving](https://open.spotify.com/album/1DyDhZGMs0ta4AFDPgJGTT) | 3:43 |
 | 25 | [Ake](https://open.spotify.com/track/6zM0lTTy7Ws0BmZ8JIja47) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Ake](https://open.spotify.com/album/23LxyHwGGCHfwBcSVZyiuk) | 2:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 49 | [a beautiful day](https://open.spotify.com/track/3noxajjedyBfsd5eXjBwxC) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [heavenly tone](https://open.spotify.com/album/3gobeqbi2tgEkElXQ77c9k) | 4:56 |
 | 50 | [ザ・ミラージュ](https://open.spotify.com/track/1fvrnSlOdMqNTsRMzZZLSZ) | [Yoshio Chin Suzuki](https://open.spotify.com/artist/6W8LyZnFvPHsiapMkFb1dD) | [モーニング・ピクチャー](https://open.spotify.com/album/0nwnSiW0Zeo2UnODZu1UNC) | 5:06 |
 
-Snapshot ID: `MCxiY2VlODEzNTBmMTllM2IyMGIwYWY1ODgyMzMzMDk4MjM3NTcxYzc4`
+Snapshot ID: `MCw1YjJlYTFmZDYwMWMzNjRkOTY0YWFhZmVhODhjMWY3MWE1NDYyZTg3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Kid Yugi, Simba La Rue e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,478 likes - 85 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,519 likes - 85 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 84 | [TEMPOS](https://open.spotify.com/track/3dlQLRb8iCUmO6flLKFUqr) | [Frè Santino](https://open.spotify.com/artist/3MIoS14sJVIubungwKvKeD), [Fylo Gone](https://open.spotify.com/artist/0QqAc7iy2NHaXau92xYFBd), [Rectone](https://open.spotify.com/artist/1gqNhaw9UdQtDl78eiEhpC) | [TEMPOS](https://open.spotify.com/album/3qhyDWOVpwRE1jgDJBJLsP) | 3:12 |
 | 85 | [TACHANKA](https://open.spotify.com/track/62UkfLanwJ3jBfQa7QZScR) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr), [Ed Mars](https://open.spotify.com/artist/26LV5lhRjmkGpyqoi2hVB3) | [TACHANKA](https://open.spotify.com/album/0Eb4CSKVneypXslPypCrJY) | 1:55 |
 
-Snapshot ID: `MCwwMGZmNDUzY2QxMWRjOWMyYThlNjI0ZmNiYTAwOWZjYjE2MDVjZjlk`
+Snapshot ID: `MCwyODM0MGEyZjYwODIyNzY3ZWM1NzdjODRhNjQ1YmFjYjQwMmUyOTcz`

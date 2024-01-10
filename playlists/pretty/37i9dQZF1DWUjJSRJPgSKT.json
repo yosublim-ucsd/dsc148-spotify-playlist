@@ -1,12 +1,12 @@
 {
   "description": "Uptempo jazz classics. Cover: McCoy Tyner",
-  "num_followers": 25066,
+  "num_followers": 25133,
   "original_name": "Upbeat Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjE2ZjUyNDYxOTU1ZmRkMDcxYWNlYzdlYWFkYzUxNTEzNmI1MjEy",
+  "snapshot_id": "MCw2ZjcwZDc2NjFlMGNhZGU5ZjI4NTVhOGI2YTlkMzdlY2NiY2E2ODJh",
   "tracks": [
     {
       "added_at": "2023-12-20 10:53:55",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-12-20 10:53:55",
       "album": {
-        "name": "Everybody Digs Bill Evans",
-        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 323773,
-      "name": "Minority",
-      "url": "https://open.spotify.com/track/3MXVqeLUIHXVU5xC96Ef5Y"
-    },
-    {
-      "added_at": "2023-12-20 10:53:55",
-      "album": {
         "name": "Here Comes Louis Smith (Remastered)",
         "url": "https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 402546,
       "name": "Ande - Remastered 2007 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/0y7Kq44w77MKS0LbpTSBqK"
+    },
+    {
+      "added_at": "2023-12-20 10:53:55",
+      "album": {
+        "name": "Everybody Digs Bill Evans",
+        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 323773,
+      "name": "Minority",
+      "url": "https://open.spotify.com/track/3MXVqeLUIHXVU5xC96Ef5Y"
     },
     {
       "added_at": "2023-12-20 10:53:55",
@@ -659,6 +659,26 @@
     {
       "added_at": "2023-12-20 10:53:55",
       "album": {
+        "name": "Lee Konitz with Warne Marsh",
+        "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        },
+        {
+          "name": "Warne Marsh",
+          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
+        }
+      ],
+      "duration_ms": 377039,
+      "name": "Donna Lee",
+      "url": "https://open.spotify.com/track/2N7LJO1uufnSeXIwxooTzg"
+    },
+    {
+      "added_at": "2023-12-20 10:53:55",
+      "album": {
         "name": "Know What I Mean?",
         "url": "https://open.spotify.com/album/439SsuO2Esw1G67Xuw1HPS"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 359933,
       "name": "The Bridge - Remastered",
       "url": "https://open.spotify.com/track/3lW1WztiEqcqN7UFZxfUiQ"
-    },
-    {
-      "added_at": "2023-12-20 10:53:55",
-      "album": {
-        "name": "Lee Konitz with Warne Marsh",
-        "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        },
-        {
-          "name": "Warne Marsh",
-          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
-        }
-      ],
-      "duration_ms": 377039,
-      "name": "Donna Lee",
-      "url": "https://open.spotify.com/track/2N7LJO1uufnSeXIwxooTzg"
     },
     {
       "added_at": "2023-12-20 10:53:55",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-12-20 10:53:55",
       "album": {
+        "name": "Just Coolin'",
+        "url": "https://open.spotify.com/album/7a5hU0lslyNVtVNADYWtBx"
+      },
+      "artists": [
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        }
+      ],
+      "duration_ms": 341473,
+      "name": "Vendetta",
+      "url": "https://open.spotify.com/track/1AE4szTVs0VUFXzaFY34Py"
+    },
+    {
+      "added_at": "2023-12-20 10:53:55",
+      "album": {
         "name": "Kenny Burrell & John Coltrane",
         "url": "https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 439013,
       "name": "Freight Trane",
       "url": "https://open.spotify.com/track/67lao4uXu1p8rdpn9ActTg"
-    },
-    {
-      "added_at": "2023-12-20 10:53:55",
-      "album": {
-        "name": "Just Coolin'",
-        "url": "https://open.spotify.com/album/7a5hU0lslyNVtVNADYWtBx"
-      },
-      "artists": [
-        {
-          "name": "Cory Weeds",
-          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
-        }
-      ],
-      "duration_ms": 341473,
-      "name": "Vendetta",
-      "url": "https://open.spotify.com/track/1AE4szTVs0VUFXzaFY34Py"
     },
     {
       "added_at": "2023-12-20 10:53:55",

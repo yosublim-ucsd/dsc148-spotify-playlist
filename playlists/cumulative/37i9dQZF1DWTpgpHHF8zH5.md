@@ -4,7 +4,7 @@
 
 > Musica per sorridere, darti la carica e affrontare la giornata!
 
-356 songs - 18 hr 13 min
+357 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [One Of Us](https://open.spotify.com/track/07IKYVGXYta34nMlu6OWit) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [One Of Us](https://open.spotify.com/album/0u59JNRwvPl2rfN5OIY8Zn) | 2:58 | 2023-01-18 | 2023-01-20 |
 | [One Of Us](https://open.spotify.com/track/1ItdTDx23yt7tIJOZv5iLQ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 2:58 | 2023-02-06 | 2023-04-25 |
 | [One Of Us](https://open.spotify.com/track/1lmLWFZA8056zsE4paVrPC) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [One Of Us](https://open.spotify.com/album/4k4NkY9Y054ETiqhz2cNCS) | 2:58 | 2023-01-18 | 2023-01-30 |
+| [One On One](https://open.spotify.com/track/2xmlpRPQUA3lR6HYaeYv7g) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [One On One](https://open.spotify.com/album/2yYylDKJUY5NCfv4YsZpZW) | 3:32 | 2024-01-09 |  |
 | [Out Of Reach](https://open.spotify.com/track/5nXCKYd6lt9gO7AhZPv6Wh) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Out Of Reach](https://open.spotify.com/album/3qEUVlXwc4OZyyRolK3zOG) | 2:44 | 2023-04-16 | 2023-05-09 |
 | [Overdrive](https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Overdrive](https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V) | 2:27 | 2023-07-14 |  |
 | [Paradise](https://open.spotify.com/track/38zwkK6TtTjIW9tpYBfZ3D) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:42 | 2022-10-27 | 2023-12-22 |
@@ -304,7 +305,7 @@
 | [Stronger \(feat\. Kesha\)](https://open.spotify.com/track/4NctFqJyGAqurHFEUQvWgR) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Stronger \(feat\. Kesha\)](https://open.spotify.com/album/683szPAVY9vdNhI45ybBbP) | 2:53 | 2022-05-06 | 2022-05-25 |
 | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7) | 3:01 | 2023-03-31 |  |
 | [Sucks To Know You \(FU\)](https://open.spotify.com/track/1DAJswyIul47SQNBkYPiCx) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Sucks To Know You \(FU\)](https://open.spotify.com/album/6lOJXuARq0Lbh6TgzEdmF2) | 1:58 | 2022-07-15 | 2022-09-03 |
-| [Summer Baby](https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:41 | 2023-05-16 |  |
+| [Summer Baby](https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:41 | 2023-05-16 | 2024-01-10 |
 | [Summer In New York](https://open.spotify.com/track/5kyJ6sznnWACqHbw65p34Q) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [WET TENNIS](https://open.spotify.com/album/1u54eF07irCSSssyDG67R2) | 2:38 | 2022-05-06 | 2023-02-07 |
 | [Summer of Love \(Shawn Mendes & Tainy\)](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Of Love](https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk) | 3:04 | 2022-05-06 |  |
 | [Sun Will Shine](https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Sun Will Shine](https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W) | 3:21 | 2022-08-12 | 2023-04-10 |

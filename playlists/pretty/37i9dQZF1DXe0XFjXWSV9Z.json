@@ -1,12 +1,12 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 41988,
+  "num_followers": 41983,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOGMwZGI0YWFhMWI5YWQ1YmM0ODI2NGJkOWM2MDVhOGQzYjdiNDlk",
+  "snapshot_id": "MCxhOTk5MzVhMmYyNjk2Y2VjNzBjMDNmODM1Y2Y1NzY4NDM3NjNiNDhk",
   "tracks": [
     {
       "added_at": "2023-12-12 18:56:56",
@@ -561,26 +561,6 @@
       "url": "https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Salvaci\u00f3n",
-        "url": "https://open.spotify.com/album/3fWUpz7YriP4W7l38z0pXE"
-      },
-      "artists": [
-        {
-          "name": "Los Miticos Del Ritmo",
-          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
-        },
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 162581,
-      "name": "Vampiro Sabanero",
-      "url": "https://open.spotify.com/track/4D4k64jUrH85Iy6liEuQsi"
-    },
-    {
       "added_at": "2021-11-12 02:33:27",
       "album": {
         "name": "Aguaepanela Fant\u00e1stica",
@@ -611,6 +591,26 @@
       "duration_ms": 185083,
       "name": "Harta",
       "url": "https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Salvaci\u00f3n",
+        "url": "https://open.spotify.com/album/3fWUpz7YriP4W7l38z0pXE"
+      },
+      "artists": [
+        {
+          "name": "Los Miticos Del Ritmo",
+          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
+        },
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 162581,
+      "name": "Vampiro Sabanero",
+      "url": "https://open.spotify.com/track/4D4k64jUrH85Iy6liEuQsi"
     },
     {
       "added_at": "2022-06-02 20:16:05",
@@ -1093,22 +1093,6 @@
       "url": "https://open.spotify.com/track/2OMiLy24OQeshtLLWWd08A"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Nixon en la Playa",
-        "url": "https://open.spotify.com/album/22ZNOoOKta5HRqL2hlO0ZA"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00e1n Mayorga",
-          "url": "https://open.spotify.com/artist/2TcRGEZR3tYPVDe71l5Fui"
-        }
-      ],
-      "duration_ms": 128684,
-      "name": "La Ni\u00f1a Cu\u00e1ntica",
-      "url": "https://open.spotify.com/track/11iLvJ8LlvfgPCRGPtY6Ez"
-    },
-    {
       "added_at": "2022-06-22 16:48:57",
       "album": {
         "name": "Historias de amor y otras mierdas",
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Legado: Colecci\u00f3n Definitiva",
-        "url": "https://open.spotify.com/album/4MukcroENYODSNMYfyvZHW"
+        "name": "Nixon en la Playa",
+        "url": "https://open.spotify.com/album/22ZNOoOKta5HRqL2hlO0ZA"
       },
       "artists": [
         {
-          "name": "Juaneco Y Su Combo",
-          "url": "https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR"
+          "name": "Juli\u00e1n Mayorga",
+          "url": "https://open.spotify.com/artist/2TcRGEZR3tYPVDe71l5Fui"
         }
       ],
-      "duration_ms": 156366,
-      "name": "El Pinochito Saltarin",
-      "url": "https://open.spotify.com/track/5C7mC5BrHui4uc1RH1BGLk"
+      "duration_ms": 128684,
+      "name": "La Ni\u00f1a Cu\u00e1ntica",
+      "url": "https://open.spotify.com/track/11iLvJ8LlvfgPCRGPtY6Ez"
     },
     {
       "added_at": "2022-01-14 04:25:25",
@@ -1155,6 +1139,22 @@
       "duration_ms": 193920,
       "name": "Mamita Santa",
       "url": "https://open.spotify.com/track/6NwPLDzVZuoBvCDmipbjCR"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Legado: Colecci\u00f3n Definitiva",
+        "url": "https://open.spotify.com/album/4MukcroENYODSNMYfyvZHW"
+      },
+      "artists": [
+        {
+          "name": "Juaneco Y Su Combo",
+          "url": "https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR"
+        }
+      ],
+      "duration_ms": 156366,
+      "name": "El Pinochito Saltarin",
+      "url": "https://open.spotify.com/track/5C7mC5BrHui4uc1RH1BGLk"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1285,38 +1285,6 @@
       "url": "https://open.spotify.com/track/7ndS4yAvKF7vE7VG14fR0v"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Baile Bucanero",
-        "url": "https://open.spotify.com/album/4DrEI2T7ihZsJl6sNEDa6Y"
-      },
-      "artists": [
-        {
-          "name": "Ondatr\u00f3pica",
-          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Lazalypso",
-      "url": "https://open.spotify.com/track/3OItIAWkXXMi3wXkKwmhsj"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Very, Very, Well",
-        "url": "https://open.spotify.com/album/5Qk3wsVkRcwoUB1hfy4bll"
-      },
-      "artists": [
-        {
-          "name": "Lito Barrientos y su Orquesta",
-          "url": "https://open.spotify.com/artist/05iql7fgeGRNLLDjU66wN6"
-        }
-      ],
-      "duration_ms": 165664,
-      "name": "Cumbia en do Menor",
-      "url": "https://open.spotify.com/track/3s82dVyBp9xjyL2ysM5vhl"
-    },
-    {
       "added_at": "2023-03-31 17:32:57",
       "album": {
         "name": "Kristina",
@@ -1335,8 +1303,40 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Churro Vs. Crow",
-        "url": "https://open.spotify.com/album/2NoB2gHEQ3w0eqPhk9w16B"
+        "name": "Very, Very, Well",
+        "url": "https://open.spotify.com/album/5Qk3wsVkRcwoUB1hfy4bll"
+      },
+      "artists": [
+        {
+          "name": "Lito Barrientos y su Orquesta",
+          "url": "https://open.spotify.com/artist/05iql7fgeGRNLLDjU66wN6"
+        }
+      ],
+      "duration_ms": 165664,
+      "name": "Cumbia en do Menor",
+      "url": "https://open.spotify.com/track/3s82dVyBp9xjyL2ysM5vhl"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Baile Bucanero",
+        "url": "https://open.spotify.com/album/4DrEI2T7ihZsJl6sNEDa6Y"
+      },
+      "artists": [
+        {
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Lazalypso",
+      "url": "https://open.spotify.com/track/3OItIAWkXXMi3wXkKwmhsj"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Corriente EP",
+        "url": "https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql"
       },
       "artists": [
         {
@@ -1344,9 +1344,9 @@
           "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
         }
       ],
-      "duration_ms": 202293,
-      "name": "Churro Vs. Crow",
-      "url": "https://open.spotify.com/track/3heeKBALUEBIlOBO6JZIWt"
+      "duration_ms": 231875,
+      "name": "Tambor Del Monte",
+      "url": "https://open.spotify.com/track/4nSVv5flBb0ucHTGgxiFi5"
     },
     {
       "added_at": "2022-11-18 17:45:57",
@@ -1419,8 +1419,8 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Corriente EP",
-        "url": "https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql"
+        "name": "Churro Vs. Crow",
+        "url": "https://open.spotify.com/album/2NoB2gHEQ3w0eqPhk9w16B"
       },
       "artists": [
         {
@@ -1428,25 +1428,9 @@
           "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
         }
       ],
-      "duration_ms": 231875,
-      "name": "Tambor Del Monte",
-      "url": "https://open.spotify.com/track/4nSVv5flBb0ucHTGgxiFi5"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "El Gran Cacique",
-        "url": "https://open.spotify.com/album/6J6cfGUzdbLPKHBUWXFrXJ"
-      },
-      "artists": [
-        {
-          "name": "Juaneco Y Su Combo",
-          "url": "https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR"
-        }
-      ],
-      "duration_ms": 192232,
-      "name": "Me Robaron Mi Runa Mula",
-      "url": "https://open.spotify.com/track/5uCqb0M2YZMMvuKiXIf70a"
+      "duration_ms": 202293,
+      "name": "Churro Vs. Crow",
+      "url": "https://open.spotify.com/track/3heeKBALUEBIlOBO6JZIWt"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1467,18 +1451,18 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Echoes of Japan (\u30a8\u30b3\u30fc\u30ba\u30fb\u30aa\u30d6\u30fb\u30b8\u30e3\u30d1\u30f3)",
-        "url": "https://open.spotify.com/album/31P3YJyfhO17lDcfVXWCZm"
+        "name": "El Gran Cacique",
+        "url": "https://open.spotify.com/album/6J6cfGUzdbLPKHBUWXFrXJ"
       },
       "artists": [
         {
-          "name": "Minyo Crusaders",
-          "url": "https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG"
+          "name": "Juaneco Y Su Combo",
+          "url": "https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR"
         }
       ],
-      "duration_ms": 304173,
-      "name": "Kushimoto Bushi - Cumbia",
-      "url": "https://open.spotify.com/track/1pKIAVQB87sNjHtC4oLexv"
+      "duration_ms": 192232,
+      "name": "Me Robaron Mi Runa Mula",
+      "url": "https://open.spotify.com/track/5uCqb0M2YZMMvuKiXIf70a"
     },
     {
       "added_at": "2022-02-25 04:26:16",
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Echo en Mexico",
-        "url": "https://open.spotify.com/album/4ZjWUw1okFSeqCCRrzLQH4"
+        "name": "Echoes of Japan (\u30a8\u30b3\u30fc\u30ba\u30fb\u30aa\u30d6\u30fb\u30b8\u30e3\u30d1\u30f3)",
+        "url": "https://open.spotify.com/album/31P3YJyfhO17lDcfVXWCZm"
       },
       "artists": [
         {
-          "name": "Money Chicha",
-          "url": "https://open.spotify.com/artist/3fsyG1yskjAgNCPPfIUBcE"
+          "name": "Minyo Crusaders",
+          "url": "https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG"
         }
       ],
-      "duration_ms": 302602,
-      "name": "Lamento en la Selva",
-      "url": "https://open.spotify.com/track/0rxjDRE2wot2sAiilVDiZt"
+      "duration_ms": 304173,
+      "name": "Kushimoto Bushi - Cumbia",
+      "url": "https://open.spotify.com/track/1pKIAVQB87sNjHtC4oLexv"
     },
     {
       "added_at": "2023-09-25 00:02:05",
@@ -1543,6 +1527,22 @@
       "duration_ms": 272590,
       "name": "Je Pense \u00e0 Toi",
       "url": "https://open.spotify.com/track/36bbmGLrqvyxy6btk2DGiy"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Echo en Mexico",
+        "url": "https://open.spotify.com/album/4ZjWUw1okFSeqCCRrzLQH4"
+      },
+      "artists": [
+        {
+          "name": "Money Chicha",
+          "url": "https://open.spotify.com/artist/3fsyG1yskjAgNCPPfIUBcE"
+        }
+      ],
+      "duration_ms": 302602,
+      "name": "Lamento en la Selva",
+      "url": "https://open.spotify.com/track/0rxjDRE2wot2sAiilVDiZt"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
+        "name": "Cosmic Wacho",
+        "url": "https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+        }
+      ],
+      "duration_ms": 189574,
+      "name": "Ninfa de la Villa",
+      "url": "https://open.spotify.com/track/4S60MLok7rmgOwRE3vBB0G"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
         "name": "The Roots of Chicha 2",
         "url": "https://open.spotify.com/album/6eYFx3AtyfJggMN3kWpIqI"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 253909,
       "name": "Fantasmagor\u00eda",
       "url": "https://open.spotify.com/track/1UKdzeFMgUECS6bYGR1Jv6"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Cosmic Wacho",
-        "url": "https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Wacho",
-          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
-        }
-      ],
-      "duration_ms": 189574,
-      "name": "Ninfa de la Villa",
-      "url": "https://open.spotify.com/track/4S60MLok7rmgOwRE3vBB0G"
     },
     {
       "added_at": "2021-10-20 15:37:42",

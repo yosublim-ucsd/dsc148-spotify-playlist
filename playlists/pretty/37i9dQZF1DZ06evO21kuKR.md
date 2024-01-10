@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 
 > This is Moneybagg Yo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,541 likes - 51 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,537 likes - 51 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 | 18 | [Scorpio](https://open.spotify.com/track/0BFGDkrXAneskCJdudSCro) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain: Reloaded](https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB) | 2:45 |
 | 19 | [SRT \(feat\. BIG30 & Pooh Shiesty\)](https://open.spotify.com/track/0VohK45FIUHEMBbfUw8iBM) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [Code Red](https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv) | 2:37 |
 | 20 | [F My BM](https://open.spotify.com/track/4ZXJVpAW39Qc1a0wCDoMx8) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Hard To Love](https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol) | 3:02 |
-| 21 | [A Gangsta’s Pain](https://open.spotify.com/track/3bnM8xTlWUoaLh6JLogbw8) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 1:53 |
+| 21 | [Least Ian Lie](https://open.spotify.com/track/2xxGU6YRlvN9yuvmW0KoJZ) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 1:46 |
 | 22 | [Start Up Again \(with Moneybagg Yo\)](https://open.spotify.com/track/4O3bINhkGghgoKsOCr2HNz) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Hall of Fame 2.0](https://open.spotify.com/album/2rLqUcipEjIKK9rma5OTN8) | 1:48 |
 | 23 | [PTPOM 2.0](https://open.spotify.com/track/5sRNp1lJG6LBS1mQgDZOAb) | [Mohead Mike](https://open.spotify.com/artist/79Sxz4bJeibdabevi9PAVi), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [PTPOM 2.0](https://open.spotify.com/album/6Cb1ZozVRmOw4HlD4UY92u) | 2:42 |
 | 24 | [Sholl Is](https://open.spotify.com/track/15NWXCx17rtI7pSP2HZjVN) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Hard To Love](https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol) | 2:59 |
-| 25 | [Least Ian Lie](https://open.spotify.com/track/2xxGU6YRlvN9yuvmW0KoJZ) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 1:46 |
+| 25 | [A Gangsta’s Pain](https://open.spotify.com/track/3bnM8xTlWUoaLh6JLogbw8) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 1:53 |
 | 26 | [Now or Neva \(feat\. Moneybagg Yo & YTB Fatt\)](https://open.spotify.com/track/7rx8jrF9kvwIr2lQIMPZLG) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Now or Neva \(feat\. Moneybagg Yo & YTB Fatt\)](https://open.spotify.com/album/3kDxLToBvaHZetsjwy605w) | 1:44 |
 | 27 | [See Wat I’m Sayin](https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [See Wat I’m Sayin](https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R) | 2:26 |
 | 28 | [Don't Worry \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/0jYuyvmZaMNUDQicdPXNMy) | [Doodie Lo](https://open.spotify.com/artist/5YlfEcVGygV1M3jH9GxkU7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Big Doodie Lo](https://open.spotify.com/album/76Eiy74blIlWShse7Iu8GL) | 2:21 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 | 50 | [Hear It Back \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/1fz22sUZlpL9jZOWz02wws) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [7220 \(Deluxe\)](https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX) | 2:14 |
 | 51 | [All Dat \(with Megan Thee Stallion\)](https://open.spotify.com/track/2eukAOMjUM4pxnOdIsUia9) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Time Served](https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv) | 2:23 |
 
-Snapshot ID: `Mjg0MTE5MDAsMDAwMDAwMDA4MDVjMDcxNjUxYzRjMjgzNTJmZmU2NWJjNDdlMzVmOA==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDBmZjJiZjI0YTM3OGQxMzgyZGRhMmQxZWFjZjhhNmViNw==`

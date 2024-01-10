@@ -1,12 +1,12 @@
 {
   "description": "Keep calm with this mix of laidback, acoustic tracks.",
-  "num_followers": 302930,
+  "num_followers": 302966,
   "original_name": "Acoustic Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTAwOTc4MThiZjM5MjNjY2Q1ZTRlN2VlNzc4YmRjOTFjZWM2ZTY1",
+  "snapshot_id": "MCxmODAzZjdhYTc3ZDliZTZiOGE5MjI4ZjNkODQyNTg5MjI3MDViYzcx",
   "tracks": [
     {
       "added_at": "2023-12-01 17:07:08",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
+        "name": "Best Day of My Life",
+        "url": "https://open.spotify.com/album/0JCGma6Cn0cz9xY7rJSio2"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 146895,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/1GIsnE71uUtWvGpvnJCTXO"
+    },
+    {
+      "added_at": "2023-12-01 17:07:08",
+      "album": {
         "name": "The Spirit Moves",
         "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 161906,
       "name": "Changes",
       "url": "https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn"
-    },
-    {
-      "added_at": "2023-12-01 17:07:08",
-      "album": {
-        "name": "Best Day of My Life",
-        "url": "https://open.spotify.com/album/0JCGma6Cn0cz9xY7rJSio2"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 146895,
-      "name": "Best Day Of My Life",
-      "url": "https://open.spotify.com/track/1GIsnE71uUtWvGpvnJCTXO"
     },
     {
       "added_at": "2023-12-01 17:07:08",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
-        "name": "Love & Hate",
-        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 427093,
-      "name": "Love & Hate",
-      "url": "https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG"
-    },
-    {
-      "added_at": "2023-12-01 17:07:08",
-      "album": {
         "name": "The Day My Father Died",
         "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 193133,
       "name": "You and I",
       "url": "https://open.spotify.com/track/2ASaiQWWIhao3cniyiwItc"
+    },
+    {
+      "added_at": "2023-12-01 17:07:08",
+      "album": {
+        "name": "Love & Hate",
+        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 427093,
+      "name": "Love & Hate",
+      "url": "https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG"
     },
     {
       "added_at": "2023-12-01 17:07:08",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
-        "name": "Persuasion (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/4ZIW3ma2l44g1HhiyxNagv"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 234156,
-      "name": "Quietly Yours",
-      "url": "https://open.spotify.com/track/7wRijQK8vRmGLK0RYW7Vr1"
-    },
-    {
-      "added_at": "2023-12-01 17:07:08",
-      "album": {
         "name": "Dragon New Warm Mountain I Believe In You",
         "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 295454,
       "name": "Change",
       "url": "https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ"
+    },
+    {
+      "added_at": "2023-12-01 17:07:08",
+      "album": {
+        "name": "Persuasion (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/4ZIW3ma2l44g1HhiyxNagv"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 234156,
+      "name": "Quietly Yours",
+      "url": "https://open.spotify.com/track/7wRijQK8vRmGLK0RYW7Vr1"
     },
     {
       "added_at": "2023-12-01 17:07:08",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+        "name": "My Arms Were Always Around You",
+        "url": "https://open.spotify.com/album/52s6f0gzHwR6MpgCMCtFQc"
       },
       "artists": [
         {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+          "name": "Peter Bradley Adams",
+          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
         }
       ],
-      "duration_ms": 244960,
-      "name": "Horse to Water",
-      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
+      "duration_ms": 200800,
+      "name": "My Arms Were Always Around You",
+      "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
     },
     {
       "added_at": "2023-12-01 17:07:08",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
-        "name": "My Arms Were Always Around You",
-        "url": "https://open.spotify.com/album/52s6f0gzHwR6MpgCMCtFQc"
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
       },
       "artists": [
         {
-          "name": "Peter Bradley Adams",
-          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
         }
       ],
-      "duration_ms": 200800,
-      "name": "My Arms Were Always Around You",
-      "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
+      "duration_ms": 244960,
+      "name": "Horse to Water",
+      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
     },
     {
       "added_at": "2023-12-01 17:07:08",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "Spirit Cold",
-      "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
-    },
-    {
-      "added_at": "2023-12-01 17:07:08",
-      "album": {
         "name": "On Hold",
         "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
       },
@@ -1479,6 +1463,22 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 222293,
+      "name": "Spirit Cold",
+      "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
+    },
+    {
+      "added_at": "2023-12-01 17:07:08",
+      "album": {
         "name": "Acoustic Sessions",
         "url": "https://open.spotify.com/album/7ISQ9CXK8dZBLzZgfQp8si"
       },
@@ -1491,6 +1491,22 @@
       "duration_ms": 228013,
       "name": "Fortune - Acoustic",
       "url": "https://open.spotify.com/track/2M1bgJpUPjfKhHLIIfzGtX"
+    },
+    {
+      "added_at": "2023-12-01 17:07:08",
+      "album": {
+        "name": "On the Other Side",
+        "url": "https://open.spotify.com/album/51bsId3cKJ6paV9l6KKIkC"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 248160,
+      "name": "Olalla",
+      "url": "https://open.spotify.com/track/1z75CRovSzKUOpYbrV4Fuo"
     },
     {
       "added_at": "2023-12-01 17:07:08",
@@ -1575,22 +1591,6 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
-        "name": "Living Room Worktapes",
-        "url": "https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 243898,
-      "name": "Where You Are - Acoustic",
-      "url": "https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb"
-    },
-    {
-      "added_at": "2023-12-01 17:07:08",
-      "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/1AdV0dbxTNI6ihLCJYyE96"
       },
@@ -1603,6 +1603,22 @@
       "duration_ms": 255099,
       "name": "Ran Away",
       "url": "https://open.spotify.com/track/2nQUwM55eYkY2bWtF3EzCm"
+    },
+    {
+      "added_at": "2023-12-01 17:07:08",
+      "album": {
+        "name": "Living Room Worktapes",
+        "url": "https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 243898,
+      "name": "Where You Are - Acoustic",
+      "url": "https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb"
     },
     {
       "added_at": "2023-12-01 17:07:08",
@@ -1639,18 +1655,22 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
-        "name": "Unsung Passage",
-        "url": "https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW"
+        "name": "Now & Then",
+        "url": "https://open.spotify.com/album/4KPde9UNrNKwWQBsIvQD2c"
       },
       "artists": [
         {
-          "name": "The Dead Tongues",
-          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
+          "name": "Lily Kershaw",
+          "url": "https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua"
+        },
+        {
+          "name": "Goody Grace",
+          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
         }
       ],
-      "duration_ms": 230626,
-      "name": "Pale November Dew",
-      "url": "https://open.spotify.com/track/1mKLnhqWC5imlKFmmqLtvL"
+      "duration_ms": 197526,
+      "name": "Now & Then",
+      "url": "https://open.spotify.com/track/3f5qREySyxn04acVAQadPg"
     },
     {
       "added_at": "2023-12-01 17:07:08",
@@ -1675,22 +1695,34 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
-        "name": "Now & Then",
-        "url": "https://open.spotify.com/album/4KPde9UNrNKwWQBsIvQD2c"
+        "name": "Unsung Passage",
+        "url": "https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW"
       },
       "artists": [
         {
-          "name": "Lily Kershaw",
-          "url": "https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua"
-        },
-        {
-          "name": "Goody Grace",
-          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
+          "name": "The Dead Tongues",
+          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
         }
       ],
-      "duration_ms": 197526,
-      "name": "Now & Then",
-      "url": "https://open.spotify.com/track/3f5qREySyxn04acVAQadPg"
+      "duration_ms": 230626,
+      "name": "Pale November Dew",
+      "url": "https://open.spotify.com/track/1mKLnhqWC5imlKFmmqLtvL"
+    },
+    {
+      "added_at": "2023-12-01 17:07:08",
+      "album": {
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 208746,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
     },
     {
       "added_at": "2023-12-01 17:07:08",
@@ -1723,38 +1755,6 @@
       "duration_ms": 242387,
       "name": "Follow My Voice",
       "url": "https://open.spotify.com/track/3yQ7OQoOtzVgBNEJ8i7Vcs"
-    },
-    {
-      "added_at": "2023-12-01 17:07:08",
-      "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 208746,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
-    },
-    {
-      "added_at": "2023-12-01 17:07:08",
-      "album": {
-        "name": "On the Other Side",
-        "url": "https://open.spotify.com/album/51bsId3cKJ6paV9l6KKIkC"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 248160,
-      "name": "Olalla",
-      "url": "https://open.spotify.com/track/1z75CRovSzKUOpYbrV4Fuo"
     },
     {
       "added_at": "2023-12-01 17:07:08",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
-        "name": "Build Me Up From Bones",
-        "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 216173,
-      "name": "Build Me Up From Bones",
-      "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
-    },
-    {
-      "added_at": "2023-12-01 17:07:08",
-      "album": {
         "name": "Doomsday",
         "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
       },
@@ -1855,6 +1839,22 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
+        "name": "They Are Going Away",
+        "url": "https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "duration_ms": 182805,
+      "name": "It'll Work Itself Out",
+      "url": "https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE"
+    },
+    {
+      "added_at": "2023-12-01 17:07:08",
+      "album": {
         "name": "Shore",
         "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
       },
@@ -1871,18 +1871,18 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
-        "name": "They Are Going Away",
-        "url": "https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1"
+        "name": "Build Me Up From Bones",
+        "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
       },
       "artists": [
         {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 182805,
-      "name": "It'll Work Itself Out",
-      "url": "https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE"
+      "duration_ms": 216173,
+      "name": "Build Me Up From Bones",
+      "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
     },
     {
       "added_at": "2023-12-01 17:07:08",
@@ -2023,18 +2023,18 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
-        "name": "The Meetings of the Waters",
-        "url": "https://open.spotify.com/album/4cx595VqVPFHf5PwJjQ7lJ"
+        "name": "An Alien in Minneapolis",
+        "url": "https://open.spotify.com/album/0v6BWLBbaTRtVIC2d09Jmk"
       },
       "artists": [
         {
-          "name": "Fionn Regan",
-          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
         }
       ],
-      "duration_ms": 300277,
-      "name": "The Meetings of the Waters",
-      "url": "https://open.spotify.com/track/3wQXP3617fqclHgzA7dONN"
+      "duration_ms": 259607,
+      "name": "An Alien In Minneapolis - Edit",
+      "url": "https://open.spotify.com/track/5YhOK0XMfjtW5L42FODqzK"
     },
     {
       "added_at": "2023-12-01 17:07:08",
@@ -2071,18 +2071,18 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
-        "name": "Thinking About You",
-        "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
+        "name": "The Meetings of the Waters",
+        "url": "https://open.spotify.com/album/4cx595VqVPFHf5PwJjQ7lJ"
       },
       "artists": [
         {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
         }
       ],
-      "duration_ms": 217463,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
+      "duration_ms": 300277,
+      "name": "The Meetings of the Waters",
+      "url": "https://open.spotify.com/track/3wQXP3617fqclHgzA7dONN"
     }
   ],
   "unique_name": "Acoustic Chill",

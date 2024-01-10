@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 
 > Songs you love with an indie spin on it\. Cover: Arlo Parks
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,825 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,840 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 15 | [Home](https://open.spotify.com/track/7B909vn7L9vAEdTYjXi7EC) | [Matthew Hall](https://open.spotify.com/artist/2KEK4PfckTQZk4rvo2bgfZ) | [Home](https://open.spotify.com/album/6Y5dQYeqMOgGFQOaRIxga8) | 4:23 |
 | 16 | [Crazy](https://open.spotify.com/track/47jgSvqlKwGyBLPnMfeEZN) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy](https://open.spotify.com/album/0hOdcKXM4riRXmpyo71SFs) | 4:02 |
 | 17 | [Godspeed](https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Godspeed](https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC) | 2:53 |
-| 18 | [Bette Davis Eyes](https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB) | [BOY](https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX) | [Bette Davis Eyes](https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV) | 3:30 |
-| 19 | [As I Rise](https://open.spotify.com/track/0RDKLBngMSnIi5ZTnXaw4j) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [As I Rise](https://open.spotify.com/album/46CZFGYq5QHOkeSG92vgV9) | 2:20 |
+| 18 | [As I Rise](https://open.spotify.com/track/0RDKLBngMSnIi5ZTnXaw4j) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [As I Rise](https://open.spotify.com/album/46CZFGYq5QHOkeSG92vgV9) | 2:20 |
+| 19 | [Bette Davis Eyes](https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB) | [BOY](https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX) | [Bette Davis Eyes](https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV) | 3:30 |
 | 20 | [A Little Bit of Everything \- Spotify Singles](https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 5:17 |
 | 21 | [re: Stacks \- Spotify Singles](https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 5:09 |
 | 22 | [Pink + White \- Live at Electric Lady](https://open.spotify.com/track/2FmADxrIphJZSrHzwYkUcR) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Live at Electric Lady](https://open.spotify.com/album/2H3dV4ihkK47r8M8f3tkb9) | 3:53 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 42 | [Paul](https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Paul](https://open.spotify.com/album/1OlusNXiorsSM7tYlIG9Cy) | 3:07 |
 | 43 | [Nothing Else Matters](https://open.spotify.com/track/1guCON9841cQwAlbNplLsY) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41) | 4:34 |
 | 44 | [Waterfalls](https://open.spotify.com/track/6p8ZhmQS4fia0j93S2M3Fj) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [The Georgia EP](https://open.spotify.com/album/3stEKyV4hKU1G5yXtmDOaN) | 4:24 |
-| 45 | [Different Now](https://open.spotify.com/track/1J0aTXvZG634UfviOVGMi5) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y), [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [Different Now](https://open.spotify.com/album/7AKbVhsHqz4enFZBTsJe4n) | 4:25 |
-| 46 | [God's Plan](https://open.spotify.com/track/2R0QwDcfbDfJkAzgk6eC6y) | [George Moir](https://open.spotify.com/artist/6eNGoUHSDYfXSy5SvnN1Uu) | [God's Plan](https://open.spotify.com/album/5MVuDYaYnVAhohSuOYLaUD) | 2:46 |
+| 45 | [God's Plan](https://open.spotify.com/track/2R0QwDcfbDfJkAzgk6eC6y) | [George Moir](https://open.spotify.com/artist/6eNGoUHSDYfXSy5SvnN1Uu) | [God's Plan](https://open.spotify.com/album/5MVuDYaYnVAhohSuOYLaUD) | 2:46 |
+| 46 | [Different Now](https://open.spotify.com/track/1J0aTXvZG634UfviOVGMi5) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y), [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [Different Now](https://open.spotify.com/album/7AKbVhsHqz4enFZBTsJe4n) | 4:25 |
 | 47 | [keep your head up](https://open.spotify.com/track/1fC0O9vW5aDc3Oo5OqBCmL) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [keep your head up](https://open.spotify.com/album/5UMCnMfWmOo9Yc2Eu0L6xf) | 3:26 |
 | 48 | [Maps](https://open.spotify.com/track/4CKRwn0AIG5Fmbf040suEj) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4), [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Maps](https://open.spotify.com/album/1J05fZukYUxjZwzZQcMZDi) | 3:30 |
 | 49 | [Shivers](https://open.spotify.com/track/6xiXaXON1rAuatwgLhIVlJ) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Shivers](https://open.spotify.com/album/4Ql9kb8CRPMMXjxLGDdk2T) | 5:03 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 58 | [Go Easy, Kid \(with James Blake\)](https://open.spotify.com/track/6SRgFtpZmRsYNR3Kj5sHCf) | [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Go Easy, Kid \(with James Blake\)](https://open.spotify.com/album/5RMjaRKQfjdeaqdnxaeALK) | 4:27 |
 | 59 | [Blue Skies](https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Blue Skies](https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR) | 2:34 |
 | 60 | [It's Too Late](https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Again / It's Too Late](https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc) | 3:17 |
-| 61 | [Both Sides Now](https://open.spotify.com/track/4msq6mMo1ue59EiCPTFWEr) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Rarities 2](https://open.spotify.com/album/0YOJpgi09ivDUTlgXyUmJH) | 3:52 |
-| 62 | [Alaska](https://open.spotify.com/track/0QfnsSPIJ1BOHFjZyC2lyk) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Alaska](https://open.spotify.com/album/052acR0QzZbbPNkwnbakxe) | 3:00 |
+| 61 | [Alaska](https://open.spotify.com/track/0QfnsSPIJ1BOHFjZyC2lyk) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Alaska](https://open.spotify.com/album/052acR0QzZbbPNkwnbakxe) | 3:00 |
+| 62 | [Both Sides Now](https://open.spotify.com/track/4msq6mMo1ue59EiCPTFWEr) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Rarities 2](https://open.spotify.com/album/0YOJpgi09ivDUTlgXyUmJH) | 3:52 |
 | 63 | [Bailando](https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Bailando](https://open.spotify.com/album/2IhWrFHNfirViEtYfTm0VY) | 3:07 |
 | 64 | [Slide](https://open.spotify.com/track/0BKIK1Zf025Y5zklE4IXSd) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Slide](https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2) | 3:53 |
 | 65 | [Come Give Me Love](https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Come Give Me Love](https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK) | 3:59 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 71 | [Strange Overtones](https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 3:26 |
 | 72 | [Blinding Lights](https://open.spotify.com/track/1JlQqsAXDTwBCW4eMSRWZB) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Blinding Lights](https://open.spotify.com/album/57J0EidVGPE6zvDrgbPg86) | 3:07 |
 | 73 | [He Thinks He'll Keep Her](https://open.spotify.com/track/36YB7zihZBaAq3DJZ1YXZv) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp), [Goodwerks](https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM) | [Broken Glass, Vol\. 6](https://open.spotify.com/album/7nAbZDCDFoNMa0H1cUICk2) | 3:45 |
-| 74 | [Steal My Sunshine \(feat\. Cherry Glazerr\)](https://open.spotify.com/track/3dVumZf1SZX1OzsNht9reC) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Steal My Sunshine / Novocaine For The Soul](https://open.spotify.com/album/7tfjWfYOhPMyb5uu0mC5w1) | 4:00 |
-| 75 | [Charm You \- Blondshell Version](https://open.spotify.com/track/1BZdaILVXGhuJbvlMFzBBD) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Charm You \(Blondshell Version\)](https://open.spotify.com/album/20Towcj9sBpT5CfdizVUR7) | 2:58 |
+| 74 | [Charm You \- Blondshell Version](https://open.spotify.com/track/1BZdaILVXGhuJbvlMFzBBD) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Charm You \(Blondshell Version\)](https://open.spotify.com/album/20Towcj9sBpT5CfdizVUR7) | 2:58 |
+| 75 | [Steal My Sunshine \(feat\. Cherry Glazerr\)](https://open.spotify.com/track/3dVumZf1SZX1OzsNht9reC) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Steal My Sunshine / Novocaine For The Soul](https://open.spotify.com/album/7tfjWfYOhPMyb5uu0mC5w1) | 4:00 |
 | 76 | [Back To Black](https://open.spotify.com/track/44Z41mjp6AgW2NaXD0OIaP) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Back To Black](https://open.spotify.com/album/594QOTgYUnFesTBYXPHWB7) | 4:02 |
 | 77 | [Alaska](https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y) | [Julia Cooper](https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576) | [Alaska](https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq) | 3:11 |
 | 78 | [Like a Rolling Stone](https://open.spotify.com/track/6nMb0jnVYulCHhe5UpyKBq) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [The Full Moon Project](https://open.spotify.com/album/0VraDVmjkr0vVjaZqLM7bi) | 6:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 99 | [These Days](https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Covers](https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh) | 3:44 |
 | 100 | [Dreams](https://open.spotify.com/track/0tueLq12kgxw1s7Wd0WfIF) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Dreams](https://open.spotify.com/album/7zuBYf3lEDOOpvRmSn7lSW) | 3:54 |
 
-Snapshot ID: `MCxiZGIxYjY5Nzk1ZTlhZjIxMzNmNGEzNzEyNGUzMWZkZjBkZWJjODFm`
+Snapshot ID: `MCwyMzZiZjFkODljY2I0ZDQ2ODU4ZDk2OWRhZTNjYTlkYjUzOWI0MjY5`

@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Lucius
 
-440 songs - 1 day 3 hr 2 min
+441 songs - 1 day 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/track/6FHmHZgliJRNz6L16y60V1) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Francesco Turrisi](https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC) | [Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/album/5vIo3myTJ8fmttU2wARlYB) | 3:49 | 2021-11-12 | 2022-03-09 |
 | [Can't See Stars \(feat\. Kevin Morby\)](https://open.spotify.com/track/4vDEQxivxtfbgmEHtsJ29H) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6), [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Lighten Up](https://open.spotify.com/album/5MT2lgCDRZ1AfHrQ3pklHI) | 3:36 | 2022-02-11 | 2022-11-13 |
 | [Can't Stop The Rain](https://open.spotify.com/track/0VIR6RuxQMvGICgS3GgLnM) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Can't Stop The Rain](https://open.spotify.com/album/1iCgCacKIkBclHhWdAiLh1) | 4:06 | 2021-11-12 | 2022-07-29 |
-| [Can't Stop The Rain](https://open.spotify.com/track/4nWdyAe1MXWH80xnaKfx3E) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [In Plain Sight](https://open.spotify.com/album/4f4GSFPKKTlpP3XhjEXV28) | 4:06 | 2023-08-04 |  |
+| [Can't Stop The Rain](https://open.spotify.com/track/4nWdyAe1MXWH80xnaKfx3E) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [In Plain Sight](https://open.spotify.com/album/4f4GSFPKKTlpP3XhjEXV28) | 4:06 | 2023-08-04 | 2024-01-10 |
 | [Canyonheart](https://open.spotify.com/track/3uqfzjOGrxagYcsQeWLgSx) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Topaz](https://open.spotify.com/album/4VJOOjvvZrL8QM21Bpz02d) | 3:52 | 2021-11-12 | 2022-07-21 |
 | [Can’t Do Much](https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M) | 3:44 | 2022-07-11 |  |
 | [Can’t Do Much](https://open.spotify.com/track/46nIiL5q7LNeUtbnOwiOH2) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/04HMMwLmjkftjWy7xc6Bho) | 3:44 | 2021-11-12 | 2022-07-29 |
@@ -242,6 +242,7 @@
 | [Love Without Possession](https://open.spotify.com/track/738fOOmAzfEssdCzYRv6Un) | [Scout LaRue Willis](https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN) | [Love Without Possession](https://open.spotify.com/album/3Ugdu51uh1xMeZkOoypBNL) | 4:01 | 2021-11-12 | 2022-07-29 |
 | [Loving You Is Lonely](https://open.spotify.com/track/1IKSPT8NgQSLz5DwaxrnEe) | [Harmony Byrne](https://open.spotify.com/artist/10rUrxQwhYFzOBGUcM0tWx) | [Loving You Is Lonely](https://open.spotify.com/album/1Zs8YINM2uPmsWes22fCkQ) | 4:29 | 2021-11-12 | 2023-11-24 |
 | [Magic](https://open.spotify.com/track/5NrIxkSt7Lmem0h7rK4Sgq) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [Wilderness Within You](https://open.spotify.com/album/0I0UeauEi5MwMKqlOMcFv2) | 3:50 | 2023-05-12 | 2023-11-18 |
+| [Make It Out \(feat\. Maisie Peters\)](https://open.spotify.com/track/43to8KLXwPSvEnCgkxW7AN) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Years](https://open.spotify.com/album/7zcCuIj4uZhrx1WfPfe9Gx) | 3:03 | 2023-10-27 |  |
 | [Make It Out \(feat\. Maisie Peters\)](https://open.spotify.com/track/5qXbNSvVp8rB4Kcy2DTTIt) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Make It Out \(feat\. Maisie Peters\)](https://open.spotify.com/album/3i51kXWcF0fLzcwDBZFgNo) | 3:03 | 2022-01-14 | 2023-12-10 |
 | [Makes Me Wonder](https://open.spotify.com/track/7IIYtMMgNqnHVYs2ZP4yfC) | [Caleb Elliott](https://open.spotify.com/artist/0ubsTbLcwOTtBgs9AqYafk) | [Forever to Fade](https://open.spotify.com/album/76B8wqEQX3ii5msPMhBfmY) | 3:33 | 2021-11-12 | 2022-07-28 |
 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 | 2022-03-04 |  |

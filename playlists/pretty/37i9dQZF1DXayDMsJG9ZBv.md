@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayDMsJG9ZBv.md) - [plain]
 
 > 世界中のトレンドと日本の最新ヒット曲をまとめてお届けします。Cover: LE SSERAFIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,077 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,025 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayDMsJG9ZBv.md) - [plain]
 | 49 | [99](https://open.spotify.com/track/7pUWe1cHuyvonD3FXVII5g) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [99](https://open.spotify.com/album/5Awgbm64Mrd6omctZmRPaj) | 2:50 |
 | 50 | [DISCO PRANK feat\. Leo Uchida](https://open.spotify.com/track/1NsYaNxkwwKC18anLoxVZk) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Leo Uchida](https://open.spotify.com/artist/4Bu3saVITUucWAvsIW8zrL) | [The Roller Skating Tour](https://open.spotify.com/album/4iyqMZ78D9rMdbSJl6jhtO) | 3:52 |
 
-Snapshot ID: `MCxhMWNiZjQwZWExZGRlMzA2NjMzZjhlNGVkMzk3MTJkMzJjNTEzNTVj`
+Snapshot ID: `MCw2MTZiYWI5ZjA2MTZjOTIwMTFkZWRlOTI2MjkxZDhkMDMxZmZhNTNl`

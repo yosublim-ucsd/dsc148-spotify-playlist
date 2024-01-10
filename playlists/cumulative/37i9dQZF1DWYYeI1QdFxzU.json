@@ -575,6 +575,24 @@
     },
     {
       "album": {
+        "name": "Dark Dune",
+        "url": "https://open.spotify.com/album/4mQq8MXtA2uqx2Y6eOEI1I"
+      },
+      "artists": [
+        {
+          "name": "Demuja",
+          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350012,
+      "name": "Dark Dune",
+      "url": "https://open.spotify.com/track/1rDgiUBCoW96HQG8RViZyx"
+    },
+    {
+      "album": {
         "name": "Disrupt",
         "url": "https://open.spotify.com/album/0wHYnbt9wiWkD5zMiC4kBn"
       },
@@ -1582,7 +1600,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 187343,
       "name": "Not The Same",
       "url": "https://open.spotify.com/track/662b8itZU1kjUkGPOufG5n"

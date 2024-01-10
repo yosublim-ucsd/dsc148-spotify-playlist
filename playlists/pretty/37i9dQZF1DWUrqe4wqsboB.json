@@ -1,12 +1,12 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Sie7e",
-  "num_followers": 4552,
+  "num_followers": 4560,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNWQxNmI3Mjg2YTY0ZDFkNWM1NzU0NTcyM2Y3ZDg4NjdjMTJiODBh",
+  "snapshot_id": "MCw2MDI4MWJkZmU4OWY5MTE3YTJjZGJhZDNhNDEzNGEzNzc0MWI0Y2Yx",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Vibra",
-        "url": "https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g"
-      },
-      "artists": [
-        {
-          "name": "Calma Carmona",
-          "url": "https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q"
-        }
-      ],
-      "duration_ms": 174947,
-      "name": "Vibra",
-      "url": "https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/6C5Q7Ot0hYpCuIeV6v9jgB"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 170175,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/0B96PPohQ9YmlvHFkGEfob"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Vibra",
+        "url": "https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g"
+      },
+      "artists": [
+        {
+          "name": "Calma Carmona",
+          "url": "https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q"
+        }
+      ],
+      "duration_ms": 174947,
+      "name": "Vibra",
+      "url": "https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -571,6 +571,34 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Duo Deleite",
+        "url": "https://open.spotify.com/album/5Dgw1ImjLlgCH2EmPSw1bY"
+      },
+      "artists": [
+        {
+          "name": "Duo Deleite",
+          "url": "https://open.spotify.com/artist/2DDED5VCm0DcbyT9I1FhpO"
+        },
+        {
+          "name": "Gyanma",
+          "url": "https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s"
+        },
+        {
+          "name": "Enyel C",
+          "url": "https://open.spotify.com/artist/4OjJZ4Vgz2cSLRPvEKkJ2G"
+        },
+        {
+          "name": "Balbi",
+          "url": "https://open.spotify.com/artist/2Dm9fZxXl9qFdnLWpyRSPA"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Caf\u00e9",
+      "url": "https://open.spotify.com/track/3v39Tno23I21Uot44jt1s8"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Circuito por Mil\u00e1n",
         "url": "https://open.spotify.com/album/7alsag6KDYqx8cF6QyDPbG"
       },
@@ -583,22 +611,6 @@
       "duration_ms": 194707,
       "name": "Circuito por Mil\u00e1n",
       "url": "https://open.spotify.com/track/6zLtJnwoiiNJ6vAF4a0KYF"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Tommy Bahama",
-        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
-      },
-      "artists": [
-        {
-          "name": "Sebimor",
-          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
-        }
-      ],
-      "duration_ms": 229963,
-      "name": "Tommy Bahama",
-      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -635,30 +647,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Duo Deleite",
-        "url": "https://open.spotify.com/album/5Dgw1ImjLlgCH2EmPSw1bY"
+        "name": "Tommy Bahama",
+        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
       },
       "artists": [
         {
-          "name": "Duo Deleite",
-          "url": "https://open.spotify.com/artist/2DDED5VCm0DcbyT9I1FhpO"
-        },
-        {
-          "name": "Gyanma",
-          "url": "https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s"
-        },
-        {
-          "name": "Enyel C",
-          "url": "https://open.spotify.com/artist/4OjJZ4Vgz2cSLRPvEKkJ2G"
-        },
-        {
-          "name": "Balbi",
-          "url": "https://open.spotify.com/artist/2Dm9fZxXl9qFdnLWpyRSPA"
+          "name": "Sebimor",
+          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
         }
       ],
-      "duration_ms": 187500,
-      "name": "Caf\u00e9",
-      "url": "https://open.spotify.com/track/3v39Tno23I21Uot44jt1s8"
+      "duration_ms": 229963,
+      "name": "Tommy Bahama",
+      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Cromo Rx",
-        "url": "https://open.spotify.com/album/3OcN1wJzLicnPchmWYfGy3"
-      },
-      "artists": [
-        {
-          "name": "Epilogio",
-          "url": "https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA"
-        }
-      ],
-      "duration_ms": 233750,
-      "name": "La Pastilla de Tus Sue\u00f1os, Pt. 2",
-      "url": "https://open.spotify.com/track/2PMWOU2BJCJRbFQtuuNsTE"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "El Hijo de Borik\u00e9n",
         "url": "https://open.spotify.com/album/3DXb3q4cW3pttaTVFouNaV"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 257091,
       "name": "Flow Criollo",
       "url": "https://open.spotify.com/track/2WwDoD3AIsGmftk5vUFuM5"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Cromo Rx",
+        "url": "https://open.spotify.com/album/3OcN1wJzLicnPchmWYfGy3"
+      },
+      "artists": [
+        {
+          "name": "Epilogio",
+          "url": "https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA"
+        }
+      ],
+      "duration_ms": 233750,
+      "name": "La Pastilla de Tus Sue\u00f1os, Pt. 2",
+      "url": "https://open.spotify.com/track/2PMWOU2BJCJRbFQtuuNsTE"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -819,26 +819,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Toco Madera",
-        "url": "https://open.spotify.com/album/68UesQ9evFURlSjc4PJrr8"
+        "name": "Liberado",
+        "url": "https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ"
       },
       "artists": [
         {
-          "name": "Cabra",
-          "url": "https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3"
+          "name": "Mola Mola",
+          "url": "https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN"
         },
         {
-          "name": "Seba Otero",
-          "url": "https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i"
-        },
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+          "name": "Manu Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/2KK7N3eQQiPWi7GRVJwxZL"
         }
       ],
-      "duration_ms": 228073,
-      "name": "Toco Madera",
-      "url": "https://open.spotify.com/track/2AmkYD7acMl2rNFqX6gKY4"
+      "duration_ms": 199308,
+      "name": "Aguadilla",
+      "url": "https://open.spotify.com/track/22tVNm19WbKR7F8tLZcaIg"
     },
     {
       "added_at": "2023-12-08 05:00:00",

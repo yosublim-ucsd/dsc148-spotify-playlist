@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:6e8OTLDQpaz1Tl2GEaxsNj">Matthew West</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,420 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,400 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Same Sky](https://open.spotify.com/track/5X4axriY5p0ptvPt9Ankif) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Same Sky](https://open.spotify.com/album/7rSZhQuF8ETp0QN41Vq6ay) | 3:35 |
 | 100 | [Following](https://open.spotify.com/track/0CRtjlRcxHQtshFNy4RGkE) | [Charly Beathard](https://open.spotify.com/artist/6ydUqYa9scVm35DpeO3DtE) | [Following](https://open.spotify.com/album/1zjTMdOyQBuXaPymEKzSJU) | 5:56 |
 
-Snapshot ID: `MCw0ZDdhNzBlZmVlZjIxZWZkODE4ODE2YjU2ZGE4ZDlmMTA3NGUwZTIw`
+Snapshot ID: `MCxjNjI0MDcxYTkyNWIyOWU4ODMxZDMxMmVkOTU0YzEwNjllNmIzOTQw`

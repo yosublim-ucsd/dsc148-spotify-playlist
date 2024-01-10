@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "1995",
+        "url": "https://open.spotify.com/album/34ZCIBYmH0rmPvcC3Gtj64"
+      },
+      "artists": [
+        {
+          "name": "Holly Macve",
+          "url": "https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219951,
+      "name": "1995",
+      "url": "https://open.spotify.com/track/2ibGtnA91vq3CmYc0Z3lXx"
+    },
+    {
+      "album": {
         "name": "Wind Down",
         "url": "https://open.spotify.com/album/0SNkVpjU9S4zVxBoytcfON"
       },
@@ -2582,7 +2600,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 272501,
       "name": "energy flow",
       "url": "https://open.spotify.com/track/38hwMaB4DWUhAWdyk1VljB"
@@ -4554,7 +4572,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 219020,
       "name": "Just Another Thing We Don't Talk About",
       "url": "https://open.spotify.com/track/5lOvQe3omS2G2YOHZqrIGl"
@@ -8264,7 +8282,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 188000,
       "name": "Snow",
       "url": "https://open.spotify.com/track/7dr3ZhQmk9hZZTz5svschC"
@@ -10015,6 +10033,24 @@
     },
     {
       "album": {
+        "name": "warm",
+        "url": "https://open.spotify.com/album/1fAWpY8RLatyjQBQ2OtnjS"
+      },
+      "artists": [
+        {
+          "name": "sukima",
+          "url": "https://open.spotify.com/artist/14UDG7R7vy6OLbND3Va4Rc"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242391,
+      "name": "warm",
+      "url": "https://open.spotify.com/track/6SBHNdpE9Tby5raTXFgKJI"
+    },
+    {
+      "album": {
         "name": "Wayfinder",
         "url": "https://open.spotify.com/album/4C5F0OIC0ONaV5aXOKVyKM"
       },
@@ -10446,7 +10482,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 258000,
       "name": "\u3046\u305f\u305f\u5bdd\u306e\u65e5\u5411",
       "url": "https://open.spotify.com/track/39npthIKvraBz2uFswfUcG"

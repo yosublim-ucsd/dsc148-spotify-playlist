@@ -1,12 +1,12 @@
 {
   "description": "Today's best pop to fuel your gaming. Cover: BoyWithUke",
-  "num_followers": 354669,
+  "num_followers": 355041,
   "original_name": "Ultimate Pop Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTc0Yzc1ZTlhMDE2MzFiNTMxYzY3Njg3OGQyNjQyYmNiOWJiNzhi",
+  "snapshot_id": "MCw5YzBmODYwNWM0YTA2ODI5NWJjZmVmMmM4NWM0MTY4ODQ3OGI1ZWMx",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Shoot For The Stars Aim For The Moon",
-        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "What You Know Bout Love",
-      "url": "https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 143901,
       "name": "THATS WHAT I WANT",
       "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Shoot For The Stars Aim For The Moon",
+        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "What You Know Bout Love",
+      "url": "https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1447,6 +1447,26 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "MONEY ON THE DASH",
+        "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        }
+      ],
+      "duration_ms": 145666,
+      "name": "MONEY ON THE DASH",
+      "url": "https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Better Days (NEIKED x Mae Muller x Polo G)",
         "url": "https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q"
       },
@@ -1469,26 +1489,6 @@
       "url": "https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH"
     },
     {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "MONEY ON THE DASH",
-        "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
-      },
-      "artists": [
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        },
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        }
-      ],
-      "duration_ms": 145666,
-      "name": "MONEY ON THE DASH",
-      "url": "https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE"
-    },
-    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "From the Start",
@@ -1503,6 +1503,22 @@
       "duration_ms": 150047,
       "name": "From the Start",
       "url": "https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Bad Feeling (Oompa Loompa)",
+        "url": "https://open.spotify.com/album/6WABWHx7oAsBhp5swwp296"
+      },
+      "artists": [
+        {
+          "name": "Jagwar Twin",
+          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
+        }
+      ],
+      "duration_ms": 133754,
+      "name": "Bad Feeling (Oompa Loompa)",
+      "url": "https://open.spotify.com/track/535x8FTM99UR6ZhZN8BM4A"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1559,22 +1575,6 @@
       "duration_ms": 153190,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Bad Feeling (Oompa Loompa)",
-        "url": "https://open.spotify.com/album/6WABWHx7oAsBhp5swwp296"
-      },
-      "artists": [
-        {
-          "name": "Jagwar Twin",
-          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
-        }
-      ],
-      "duration_ms": 133754,
-      "name": "Bad Feeling (Oompa Loompa)",
-      "url": "https://open.spotify.com/track/535x8FTM99UR6ZhZN8BM4A"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1811,22 +1811,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt"
+        "name": "TROUBLED MEMORIES!",
+        "url": "https://open.spotify.com/album/3OFuRXFkPOzEZbFp3Os28q"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
         }
       ],
-      "duration_ms": 175271,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F"
+      "duration_ms": 137806,
+      "name": "MEMORIES!",
+      "url": "https://open.spotify.com/track/27XMmSWSOXJ7eVb40tH93T"
     }
   ],
   "unique_name": "Ultimate Pop Gaming",

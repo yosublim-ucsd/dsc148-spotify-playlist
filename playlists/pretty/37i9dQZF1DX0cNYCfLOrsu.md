@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 
 > The best in Dancehall for the gyaldem\. Cover: Tina \(Hoodcelebrityy\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,213 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,190 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 40 | [Needle Eye](https://open.spotify.com/track/6gt4crRNZ5Soua4BP52HXv) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Needle Eye \- Single](https://open.spotify.com/album/3xMal1HXLb88nb1EpVi8mv) | 3:05 |
 | 41 | [Lighter \(with Tarrus Riley & Rvssian\)](https://open.spotify.com/track/1AAkIj1NSdpaoOZYctGnrg) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Lighter \(with Tarrus Riley & Rvssian\)](https://open.spotify.com/album/11FhJslAwiGqGYP2TLOVBq) | 2:04 |
 | 42 | [Watch Dem](https://open.spotify.com/track/1zwuv4ff9QdtX4RrN6Q4bU) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Watch Dem](https://open.spotify.com/album/4RDFDKrZfd5LLdINaMEevT) | 2:20 |
-| 43 | [Yamabella](https://open.spotify.com/track/0kXox7KhOnDs62txnUSLF1) | [Shaneil Muir](https://open.spotify.com/artist/6ilIhmo2Ijzq3BnKuxf2KQ) | [Yamabella](https://open.spotify.com/album/1MOESZoQnGJnCwXy6vm1Bs) | 2:54 |
+| 43 | [Open The Door](https://open.spotify.com/track/7Ib4HxrkMe8iHweXxMsev5) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39), [Dj Papis](https://open.spotify.com/artist/3a2dlVcm5z0ha2j9ihlQmP) | [Open The Door](https://open.spotify.com/album/26sEQnPSKzyRxk85fvF0ln) | 3:43 |
 | 44 | [Come Home](https://open.spotify.com/track/48RxnStoXfZsH0hWuWiJ3C) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Come Home](https://open.spotify.com/album/29K1WhYMmqwUGj3mU4Z0uc) | 3:20 |
-| 45 | [Open The Door](https://open.spotify.com/track/7Ib4HxrkMe8iHweXxMsev5) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39), [Dj Papis](https://open.spotify.com/artist/3a2dlVcm5z0ha2j9ihlQmP) | [Open The Door](https://open.spotify.com/album/26sEQnPSKzyRxk85fvF0ln) | 3:43 |
+| 45 | [Yamabella](https://open.spotify.com/track/0kXox7KhOnDs62txnUSLF1) | [Shaneil Muir](https://open.spotify.com/artist/6ilIhmo2Ijzq3BnKuxf2KQ) | [Yamabella](https://open.spotify.com/album/1MOESZoQnGJnCwXy6vm1Bs) | 2:54 |
 | 46 | [Hard Drive](https://open.spotify.com/track/4tw57jakL7TFEdZ4bUohP1) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Hard Drive](https://open.spotify.com/album/4y2mW0Vpyc897XhWl8K6B9) | 2:48 |
 | 47 | [Always](https://open.spotify.com/track/1ge5u2oNzB340gHdMCdTSl) | [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [Girl Boss \- The Realest Girl](https://open.spotify.com/album/3m2CNO9jD3BKz8vusgkDYE) | 3:14 |
 | 48 | [Ay Dios Mio](https://open.spotify.com/track/2n4q1me7daB59UxsiMJi0n) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [David Jay](https://open.spotify.com/artist/7a5hqyXa3DANEicriQDURV) | [Ay Dios Mio](https://open.spotify.com/album/2UDdAS2QuoHdd1VyQl7yY4) | 2:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 74 | [Bun Fi Bun \- Fast](https://open.spotify.com/track/4ZpTLINWb1RLoHluCLwkeT) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Bun Fi Bun \(Fast\)](https://open.spotify.com/album/322pCqxSFt8u8938IUrFC3) | 2:29 |
 | 75 | [Sweet Inspiration](https://open.spotify.com/track/3iZ9QBCxBJcKMqrighzSlB) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Sweet Inspiration](https://open.spotify.com/album/0kYYdZN5cSgmcBCcA8KmcE) | 3:36 |
 
-Snapshot ID: `MCwwMWYzMGU4YzJmMDNmYzRhNTUxZjJkOTY0ZWMzNjdjN2MzMTk4YjQz`
+Snapshot ID: `MCwyYmEzZWQzNzY5NTIzOTA4MjhmMGNjOWQ3YmJjZjJkNjg1NDgwMzMy`

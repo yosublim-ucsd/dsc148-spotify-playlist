@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: MGMT
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,274 likes - 75 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,285 likes - 75 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 44 | [Rainbow Man](https://open.spotify.com/track/3ZutS6kzYIHQknkuuHtpUP) | [Busy P](https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV) | [Rainbow Man 2.0](https://open.spotify.com/album/4RunDtINJwyxkCsIGuRErt) | 3:34 |
 | 45 | [The Geeks Were Right](https://open.spotify.com/track/6PBPOhO2bxiV1cBei5Nxce) | [The Faint](https://open.spotify.com/artist/4A1yfFuBmBOgzv4Oe3fFHk) | [Fasciinatiion](https://open.spotify.com/album/3xFABHEo4gCQJp8YOVBbOZ) | 2:56 |
 | 46 | [Testarossa \(SebastiAn Remix\)](https://open.spotify.com/track/1J5Z0AVsxRejfrtZGGAcWO) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [1986 \- EP](https://open.spotify.com/album/3wke2l2r3BQ9YJ75x5A1DK) | 4:58 |
-| 47 | [Krack](https://open.spotify.com/track/6QKfQbFqvUwzOHpwFwCaJ6) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Nite Versions](https://open.spotify.com/album/5d36tohU6hNW0AK5sdmbZI) | 5:23 |
-| 48 | [Drugs in My Body](https://open.spotify.com/track/0AKK3dHXpRSt0dmhMEzaKm) | [Thieves Like Us](https://open.spotify.com/artist/5miWG3FgilzOG7dy3aowZc) | [Drugs in My Body](https://open.spotify.com/album/3htXmYLWbyAOzQvC9bNwFG) | 3:36 |
+| 47 | [Drugs in My Body](https://open.spotify.com/track/0AKK3dHXpRSt0dmhMEzaKm) | [Thieves Like Us](https://open.spotify.com/artist/5miWG3FgilzOG7dy3aowZc) | [Drugs in My Body](https://open.spotify.com/album/3htXmYLWbyAOzQvC9bNwFG) | 3:36 |
+| 48 | [Krack](https://open.spotify.com/track/6QKfQbFqvUwzOHpwFwCaJ6) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Nite Versions](https://open.spotify.com/album/5d36tohU6hNW0AK5sdmbZI) | 5:23 |
 | 49 | [Happiness \- The Magician Remix](https://open.spotify.com/track/5bgR2f3sCS135kzxjIlDD3) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Return to Paradise](https://open.spotify.com/album/2Vy7CHmUrL7HVxLVfP5n4w) | 3:38 |
 | 50 | [We Are The People \- Shazam Remix](https://open.spotify.com/track/1GmTCaR9wtipTlzgDadvdx) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(Special Edition\)](https://open.spotify.com/album/1GoqBRUPZzBKvMKZxSQ1mp) | 5:44 |
 | 51 | [& Down](https://open.spotify.com/track/3TMwHtO5c4jlnnFZK8MuBH) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Oi Oi Oi](https://open.spotify.com/album/5McKybquvC9GQ3Ppifsmxf) | 4:18 |
@@ -69,11 +69,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 59 | [Bongo Song](https://open.spotify.com/track/7LYkRnxddh6BTp3CrXmofK) | [Zongamin](https://open.spotify.com/artist/3GpAL7oEFD37IJDOOiirqy) | [Bongo Song](https://open.spotify.com/album/5Ys062wL4Hzm11mpaKnk4u) | 5:14 |
 | 60 | [Time To Realize](https://open.spotify.com/track/7mjNEIhe8lRG9sbwM5su3M) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764) | [Chapter One](https://open.spotify.com/album/5F00Gf428CfhyD0TGxAZFi) | 3:30 |
 | 61 | [One Out Of Two \- Oliver Remix](https://open.spotify.com/track/4KoSPXHZJX6XHwpQTwYZaW) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX), [Olivier](https://open.spotify.com/artist/1OHSjggNzVef5cSnSN0H4R) | [One Out Of Two](https://open.spotify.com/album/2272o56pJTeBGVqXvMdoJw) | 4:17 |
-| 62 | [Love Sweet Sound](https://open.spotify.com/track/48u0k7If0SEl1gSgQ652w7) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Soundboy Rock](https://open.spotify.com/album/7tRuSfPQNDZ5IbWFS6dNF9) | 4:35 |
-| 63 | [To Protect and Entertain \- Crookers Remix](https://open.spotify.com/track/7qoS2OjXf3mE2q23Y1D9EC) | [Busy P](https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV) | [Pedrophilia](https://open.spotify.com/album/0J5P7uBgt2rh6HZD3lZG4b) | 5:06 |
+| 62 | [To Protect and Entertain \- Crookers Remix](https://open.spotify.com/track/7qoS2OjXf3mE2q23Y1D9EC) | [Busy P](https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV) | [Pedrophilia](https://open.spotify.com/album/0J5P7uBgt2rh6HZD3lZG4b) | 5:06 |
+| 63 | [Love Sweet Sound](https://open.spotify.com/track/48u0k7If0SEl1gSgQ652w7) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Soundboy Rock](https://open.spotify.com/album/7tRuSfPQNDZ5IbWFS6dNF9) | 4:35 |
 | 64 | [Hustler](https://open.spotify.com/track/6bvg95U7d69pYKPwDEyGC3) | [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Attack Decay Sustain Release](https://open.spotify.com/album/33Egk2iyDKq0eYzTirBTuO) | 3:43 |
-| 65 | [Cornelius](https://open.spotify.com/track/6YJCmoVtQMYcCmHOsdlWor) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5) | [ROMBORAMA](https://open.spotify.com/album/0trChN5eN92UYTUqOIMQRe) | 4:13 |
-| 66 | [Monster Hospital \(MSTRKRFT Remix\)](https://open.spotify.com/track/2xF9HPXTfA3Jxar6lVBAKf) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Monster Hospital](https://open.spotify.com/album/44Dp3q5cxzWqmD1m7UGHW9) | 5:14 |
+| 65 | [Monster Hospital \(MSTRKRFT Remix\)](https://open.spotify.com/track/2xF9HPXTfA3Jxar6lVBAKf) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Monster Hospital](https://open.spotify.com/album/44Dp3q5cxzWqmD1m7UGHW9) | 5:14 |
+| 66 | [Cornelius](https://open.spotify.com/track/6YJCmoVtQMYcCmHOsdlWor) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5) | [ROMBORAMA](https://open.spotify.com/album/0trChN5eN92UYTUqOIMQRe) | 4:13 |
 | 67 | [Tonight](https://open.spotify.com/track/6NF6fUchK9oEpxkT8AVDgz) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Tonight \(12' Inch\)](https://open.spotify.com/album/1Nm5T8kyFqYTd2k49RHd1y) | 4:15 |
 | 68 | [Roman](https://open.spotify.com/track/1YVXSfWLzPtOaMyZhbDRN9) | [Housse de Racket](https://open.spotify.com/artist/3YklpiasaBYuNuVfKdJ9Mj) | [Alésia](https://open.spotify.com/album/3IMcoVivtk0v83rK4j72km) | 3:07 |
 | 69 | [La musique \(JBAG's Boomboxed Re\-Edit\) \- Mixed](https://open.spotify.com/track/6jwcG2bkn6adlKtlkSrEmf) | [Riot In Belgium](https://open.spotify.com/artist/5TqQmM5hvTvm1nIbiSRw7G), [JBAG](https://open.spotify.com/artist/3bkVz70Wb5WN0PKbT70o7R) | [Kitsuné Boombox Mixed by Jerry Bouthier](https://open.spotify.com/album/7mdUhfsfAXgtxS0x5jAnh7) | 4:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 74 | [Do I Look Like a Slut \- Original Mix](https://open.spotify.com/track/3HO7khnC1Ixt0gLNqdYUtt) | [Avenue D](https://open.spotify.com/artist/07vquvD3jE2VQShcu6V4fL) | [Do I Look Like a Slut?](https://open.spotify.com/album/3POpYIOM1cRRCJbOAHyXbz) | 4:55 |
 | 75 | [Discotirso](https://open.spotify.com/track/2wPFKEHst1xNzoOa9qvN3B) | [Knightlife](https://open.spotify.com/artist/5NteBfpzjcVerc1OK9XelJ) | [II](https://open.spotify.com/album/2wBocslSoTkKR57uvqkdhf) | 4:17 |
 
-Snapshot ID: `MCw4OTVkODg2YjI1NmJjYTg2YjVhYmQ1ZmY0MDExMDM0YjZkZWI4YTk4`
+Snapshot ID: `MCwwNTFkMDY1ZmE4Y2NjZDdkNjk4ZTdlN2NmYjE5ZDU1NWUzZjI0ZTRj`

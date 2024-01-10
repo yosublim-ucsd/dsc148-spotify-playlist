@@ -1,12 +1,12 @@
 {
   "description": "Despierta poco a poco con la tranquilidad de las notas del piano.",
-  "num_followers": 18622,
+  "num_followers": 18617,
   "original_name": "Piano para Despertar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGJmNzA5MzRjMmYwM2RiN2FmYWJkYWE4MDY3N2E0ZGVlMDVhODIw",
+  "snapshot_id": "MCwyMzg3OWZmOGE2MDI3NDIwNDY3NmViYzM4ZjkyNzNjZWVlOGJiN2Jk",
   "tracks": [
     {
       "added_at": "2023-09-11 13:52:39",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Pour toujours",
-        "url": "https://open.spotify.com/album/7LKE5eTxL5yz4ScnNJ1OhZ"
-      },
-      "artists": [
-        {
-          "name": "Bernadette Boulet",
-          "url": "https://open.spotify.com/artist/40Da6NXKY8x4oGkVoCcIFw"
-        }
-      ],
-      "duration_ms": 144576,
-      "name": "Pour toujours",
-      "url": "https://open.spotify.com/track/6vkmvL8i9sfIHoAlzJcfAO"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Maurice",
         "url": "https://open.spotify.com/album/6bSnjwj5vMGVwxfjOJkBt3"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 167043,
       "name": "Maurice",
       "url": "https://open.spotify.com/track/7l92bhAAWWCnRrbmekFSor"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Pour toujours",
+        "url": "https://open.spotify.com/album/7LKE5eTxL5yz4ScnNJ1OhZ"
+      },
+      "artists": [
+        {
+          "name": "Bernadette Boulet",
+          "url": "https://open.spotify.com/artist/40Da6NXKY8x4oGkVoCcIFw"
+        }
+      ],
+      "duration_ms": 144576,
+      "name": "Pour toujours",
+      "url": "https://open.spotify.com/track/6vkmvL8i9sfIHoAlzJcfAO"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Paradox",
-        "url": "https://open.spotify.com/album/3feFqOuaXAe4Lc9sgycv0t"
-      },
-      "artists": [
-        {
-          "name": "Karen Kasper",
-          "url": "https://open.spotify.com/artist/3GRHFs9roBSvjMZangZ5Qi"
-        }
-      ],
-      "duration_ms": 137500,
-      "name": "Paradox",
-      "url": "https://open.spotify.com/track/4MAzPvI7zmpv3jF1WxfeTx"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "MFWT Vol.1",
         "url": "https://open.spotify.com/album/2Nj3e0AhYcqRqUd0AV2MmB"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 124655,
       "name": "Time",
       "url": "https://open.spotify.com/track/1g0Zj4GZ229O647Tt3RPJ2"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Paradox",
+        "url": "https://open.spotify.com/album/3feFqOuaXAe4Lc9sgycv0t"
+      },
+      "artists": [
+        {
+          "name": "Karen Kasper",
+          "url": "https://open.spotify.com/artist/3GRHFs9roBSvjMZangZ5Qi"
+        }
+      ],
+      "duration_ms": 137500,
+      "name": "Paradox",
+      "url": "https://open.spotify.com/track/4MAzPvI7zmpv3jF1WxfeTx"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Mind Wide Open",
-        "url": "https://open.spotify.com/album/1LVpYB2Jtto4OMvjzQqBrn"
-      },
-      "artists": [
-        {
-          "name": "Dan Volker",
-          "url": "https://open.spotify.com/artist/6dKolJLPeFV2ruWSwZBuYk"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Mind Wide Open",
-      "url": "https://open.spotify.com/track/3qofUkK1Yak7mp81Lojn3L"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Forelsket",
         "url": "https://open.spotify.com/album/6HKYX4ZmdHL8DMhsWp497N"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 170374,
       "name": "Forelsket",
       "url": "https://open.spotify.com/track/4Oo0RKYm64PZSIbpFmcuK9"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Mind Wide Open",
+        "url": "https://open.spotify.com/album/1LVpYB2Jtto4OMvjzQqBrn"
+      },
+      "artists": [
+        {
+          "name": "Dan Volker",
+          "url": "https://open.spotify.com/artist/6dKolJLPeFV2ruWSwZBuYk"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Mind Wide Open",
+      "url": "https://open.spotify.com/track/3qofUkK1Yak7mp81Lojn3L"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "I Remember",
-        "url": "https://open.spotify.com/album/1yI3LXQAcNZx7LWVfFJLZg"
-      },
-      "artists": [
-        {
-          "name": "G\u00c5EL",
-          "url": "https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5"
-        }
-      ],
-      "duration_ms": 142457,
-      "name": "I Remember",
-      "url": "https://open.spotify.com/track/1tIqpXyBu4DTgzpp5nkk1G"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Mirno",
         "url": "https://open.spotify.com/album/2PirqRPTKXiYVOBLgzeZ1m"
       },
@@ -939,6 +923,22 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
+        "name": "I Remember",
+        "url": "https://open.spotify.com/album/1yI3LXQAcNZx7LWVfFJLZg"
+      },
+      "artists": [
+        {
+          "name": "G\u00c5EL",
+          "url": "https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5"
+        }
+      ],
+      "duration_ms": 142457,
+      "name": "I Remember",
+      "url": "https://open.spotify.com/track/1tIqpXyBu4DTgzpp5nkk1G"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
         "name": "Origins",
         "url": "https://open.spotify.com/album/7fWiqtWkzxNvkuQU98Lh4A"
       },
@@ -951,22 +951,6 @@
       "duration_ms": 202357,
       "name": "The Inner World",
       "url": "https://open.spotify.com/track/7epEaJZ5mRAZ4Mou1EvsAu"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
-        "name": "Just For Now",
-        "url": "https://open.spotify.com/album/0eA9Y4ZuUUFAEySggUBnKV"
-      },
-      "artists": [
-        {
-          "name": "Rich Mortimer",
-          "url": "https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI"
-        }
-      ],
-      "duration_ms": 110000,
-      "name": "Just For Now",
-      "url": "https://open.spotify.com/track/2mmkokfVO72zAHkz9OTRZO"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1019,6 +1003,22 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
+        "name": "Just For Now",
+        "url": "https://open.spotify.com/album/0eA9Y4ZuUUFAEySggUBnKV"
+      },
+      "artists": [
+        {
+          "name": "Rich Mortimer",
+          "url": "https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI"
+        }
+      ],
+      "duration_ms": 110000,
+      "name": "Just For Now",
+      "url": "https://open.spotify.com/track/2mmkokfVO72zAHkz9OTRZO"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
         "name": "Foreigners",
         "url": "https://open.spotify.com/album/3eVdNFfpQKGj1btqfQGoa4"
       },
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Days Gone By",
-        "url": "https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5"
-      },
-      "artists": [
-        {
-          "name": "Tiny Rhino",
-          "url": "https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Evergreen Valley",
-      "url": "https://open.spotify.com/track/5nCSPEXKmujALmfjnM2rpP"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Morgenstern",
         "url": "https://open.spotify.com/album/5YMCE4ptMtQgujet4mkiZb"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 189250,
       "name": "Morgenstern",
       "url": "https://open.spotify.com/track/1djt5vu3t1tQsaLyuS3DgA"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Days Gone By",
+        "url": "https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5"
+      },
+      "artists": [
+        {
+          "name": "Tiny Rhino",
+          "url": "https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Evergreen Valley",
+      "url": "https://open.spotify.com/track/5nCSPEXKmujALmfjnM2rpP"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Forgive Us",
-        "url": "https://open.spotify.com/album/2g5Cpml6zGcLEEZweDWEc5"
-      },
-      "artists": [
-        {
-          "name": "Signe Bratlie",
-          "url": "https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Forgive Us",
-      "url": "https://open.spotify.com/track/7pIprvHSIi4bZiFGc6xf5p"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Revolve",
         "url": "https://open.spotify.com/album/6EDRURCpmlUE7b6OkrVmeR"
       },
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Memoir",
-        "url": "https://open.spotify.com/album/6lxC3Lifp52AImYMNuaLi5"
+        "name": "Forgive Us",
+        "url": "https://open.spotify.com/album/2g5Cpml6zGcLEEZweDWEc5"
       },
       "artists": [
         {
-          "name": "Pied-\u00e0-Terre",
-          "url": "https://open.spotify.com/artist/3FChImdCbv0x9AYfNzGfvQ"
+          "name": "Signe Bratlie",
+          "url": "https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Memoir",
-      "url": "https://open.spotify.com/track/4K29oq8bXo7wel9P8QMY2n"
+      "duration_ms": 212000,
+      "name": "Forgive Us",
+      "url": "https://open.spotify.com/track/7pIprvHSIi4bZiFGc6xf5p"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1191,6 +1175,22 @@
       "duration_ms": 161750,
       "name": "All My Words",
       "url": "https://open.spotify.com/track/4t6nAyyW8FEEXbN5MLAjtL"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Memoir",
+        "url": "https://open.spotify.com/album/6lxC3Lifp52AImYMNuaLi5"
+      },
+      "artists": [
+        {
+          "name": "Pied-\u00e0-Terre",
+          "url": "https://open.spotify.com/artist/3FChImdCbv0x9AYfNzGfvQ"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Memoir",
+      "url": "https://open.spotify.com/track/4K29oq8bXo7wel9P8QMY2n"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/72ail4RoAjee7GtdCcOOTY"
-      },
-      "artists": [
-        {
-          "name": "Denise Santoz",
-          "url": "https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "Palette",
-      "url": "https://open.spotify.com/track/44OOm3Op6tXw3gePWBtiI2"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Ever so Slightly",
         "url": "https://open.spotify.com/album/3ITjZBoELygScB7OPp1hzq"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 252000,
       "name": "Ever so Slightly",
       "url": "https://open.spotify.com/track/3YNk1HaBPCs41BV4ZocgCd"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/72ail4RoAjee7GtdCcOOTY"
+      },
+      "artists": [
+        {
+          "name": "Denise Santoz",
+          "url": "https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Palette",
+      "url": "https://open.spotify.com/track/44OOm3Op6tXw3gePWBtiI2"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "L'habit ne fait pas le moine",
-        "url": "https://open.spotify.com/album/0jq8I1nrYieRyPt7tcl0Db"
-      },
-      "artists": [
-        {
-          "name": "Pascal Duval",
-          "url": "https://open.spotify.com/artist/3VpKcUweq77xUWClI5oSYl"
-        }
-      ],
-      "duration_ms": 180124,
-      "name": "L'habit ne fait pas le moine",
-      "url": "https://open.spotify.com/track/0XGbTlSbgCWgqL5KuQY2qz"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "united",
         "url": "https://open.spotify.com/album/0xEHLj5DHQfAY9lNsuqOd5"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 182288,
       "name": "Morgentau",
       "url": "https://open.spotify.com/track/405hXsV5rmcZarrpP71qA8"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "L'habit ne fait pas le moine",
+        "url": "https://open.spotify.com/album/0jq8I1nrYieRyPt7tcl0Db"
+      },
+      "artists": [
+        {
+          "name": "Pascal Duval",
+          "url": "https://open.spotify.com/artist/3VpKcUweq77xUWClI5oSYl"
+        }
+      ],
+      "duration_ms": 180124,
+      "name": "L'habit ne fait pas le moine",
+      "url": "https://open.spotify.com/track/0XGbTlSbgCWgqL5KuQY2qz"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Asilah",
-        "url": "https://open.spotify.com/album/5ngz6Awk3fEPDe5GomDmRM"
-      },
-      "artists": [
-        {
-          "name": "Sumsar",
-          "url": "https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW"
-        }
-      ],
-      "duration_ms": 160086,
-      "name": "Asilah",
-      "url": "https://open.spotify.com/track/00iniRV1mt5IS6ep01e2Ts"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Fylke",
         "url": "https://open.spotify.com/album/1jSCqDW3ZNficEbdHvTD8H"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 196500,
       "name": "Sp\u00f8rsm\u00e5l",
       "url": "https://open.spotify.com/track/68P6GOHe9PuVi7eu2wlAs2"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Asilah",
+        "url": "https://open.spotify.com/album/5ngz6Awk3fEPDe5GomDmRM"
+      },
+      "artists": [
+        {
+          "name": "Sumsar",
+          "url": "https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW"
+        }
+      ],
+      "duration_ms": 160086,
+      "name": "Asilah",
+      "url": "https://open.spotify.com/track/00iniRV1mt5IS6ep01e2Ts"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "In Bloom",
-        "url": "https://open.spotify.com/album/3YfYjGlD2ZGO5DEcgs3QOj"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3zef Gatysik",
-          "url": "https://open.spotify.com/artist/4k0n9qZSgE1HVExw9b2T9j"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "In Bloom",
-      "url": "https://open.spotify.com/track/6UBUNOxmO5HloYRN3y4PPr"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "New Beginning",
         "url": "https://open.spotify.com/album/3iRjsoMuilRzsn7s6uDkgC"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 133495,
       "name": "New Beginning",
       "url": "https://open.spotify.com/track/2KIt5oD3oklHr00HKEXQia"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "In Bloom",
+        "url": "https://open.spotify.com/album/3YfYjGlD2ZGO5DEcgs3QOj"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3zef Gatysik",
+          "url": "https://open.spotify.com/artist/4k0n9qZSgE1HVExw9b2T9j"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "In Bloom",
+      "url": "https://open.spotify.com/track/6UBUNOxmO5HloYRN3y4PPr"
     }
   ],
   "unique_name": "Piano para Despertar",

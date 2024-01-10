@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-947 songs - 1 day 17 hr 2 min
+948 songs - 1 day 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -745,6 +745,7 @@
 | [Snowflakes](https://open.spotify.com/track/3CAOZhZM2vAe49V3PQo0Li) | [Marcus Ackermann](https://open.spotify.com/artist/6noL2qkK3vGykmVQPunJns) | [A New Day](https://open.spotify.com/album/6qTn1Zdgx0idq2yTJ4FJeA) | 3:08 | 2020-08-14\* | 2022-07-20 |
 | [So Beautifully You](https://open.spotify.com/track/7Iz0wfhcbNpCb1HhQqS04C) | [Julien Thorsen](https://open.spotify.com/artist/4mm2IRrNFYuVoESj439Apn) | [So Beautifully You](https://open.spotify.com/album/3peIxtLJ0j8qx4B7Y4xngS) | 3:09 | 2020-09-16 | 2021-03-14 |
 | [Soar](https://open.spotify.com/track/5JoCHCDI2s4PvI2H2yGlHs) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Soar](https://open.spotify.com/album/20V23ZlHIuN3hChiJPFrLj) | 2:24 | 2020-09-16 | 2022-07-20 |
+| [Sogni di Positano](https://open.spotify.com/track/3tRkhS5byc7Dt4zjwliaWY) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Sogni di Positano](https://open.spotify.com/album/3mdlYi31wx0txhBSKaSP6x) | 3:27 | 2024-01-09 |  |
 | [Solace](https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Solace](https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj) | 1:57 | 2022-05-05 | 2022-09-15 |
 | [Solemn Resolve](https://open.spotify.com/track/1wDBNwgv9WWqJIdZ6bIv8Z) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Solemn Resolve](https://open.spotify.com/album/2AC4nZdkODSXUiQAX8UbIM) | 2:18 | 2022-02-01 | 2022-07-20 |
 | [Solitairity](https://open.spotify.com/track/5bDJcSMyeqBISZ2xFpk0vX) | [Baltasar Thorgrimson](https://open.spotify.com/artist/0wyQQ5R0rWiaT1g8GUEDBC) | [Solitairity](https://open.spotify.com/album/0jocXmp7bKY4SDreWrMD8l) | 3:34 | 2020-09-16 | 2022-06-08 |
@@ -837,7 +838,7 @@
 | [Through The Wind](https://open.spotify.com/track/4SYqypJlOI3mhf6zinkaUL) | [Michael Ottosson](https://open.spotify.com/artist/3dz4vgXeam9Ba1Bo7gud9b) | [Three Waltzes](https://open.spotify.com/album/28DqpGRLUjFtNPTaSs2rgr) | 2:51 | 2020-08-14\* | 2022-09-24 |
 | [Ticino](https://open.spotify.com/track/1GWs7zZprhLpLjwt7l6hfF) | [Daniel Hueber](https://open.spotify.com/artist/353QccwX4aD1y6B2r4tgaU) | [Ticino](https://open.spotify.com/album/5IPgCj1LZiJwcheVMAV7bc) | 1:44 | 2020-08-14\* | 2020-09-02 |
 | [Timeless](https://open.spotify.com/track/2aJlNzyFDh3j6GTBSDXdXZ) | [Matthew Mor](https://open.spotify.com/artist/3epJlQ4qcN08caWbdboMHw) | [Timeless](https://open.spotify.com/album/63wa93xZxlOOJe9TDvGsdU) | 2:06 | 2020-08-14\* | 2022-12-24 |
-| [Tiny Ballerina](https://open.spotify.com/track/6VRfUvTQZGK8C3lkHwXJzl) | [Little Florence](https://open.spotify.com/artist/2GpEugU55XENAxQST64ZPn) | [Small and Alone](https://open.spotify.com/album/4vLhgEWo4HzZmAMnIwLaBk) | 2:25 | 2020-08-14\* |  |
+| [Tiny Ballerina](https://open.spotify.com/track/6VRfUvTQZGK8C3lkHwXJzl) | [Little Florence](https://open.spotify.com/artist/2GpEugU55XENAxQST64ZPn) | [Small and Alone](https://open.spotify.com/album/4vLhgEWo4HzZmAMnIwLaBk) | 2:25 | 2020-08-14\* | 2024-01-10 |
 | [To Be Loved](https://open.spotify.com/track/4KiuT6lph1fSy19AFjHwYE) | [Day Blue](https://open.spotify.com/artist/1QIarBiWF3tRs6a1CXzN5w) | [To Be Loved](https://open.spotify.com/album/1Vx8qROy2bgDAjknfZfJSS) | 2:32 | 2022-02-01 | 2022-05-06 |
 | [Together](https://open.spotify.com/track/06J4o3WRoqbraUkXBiqldo) | [Alexander Panagopoulos](https://open.spotify.com/artist/2ezAtjuRtLi4loC6Rmyv5p) | [Together](https://open.spotify.com/album/6Aw71MnrHJntgP5Ae2QwRU) | 2:03 | 2020-08-14\* | 2021-04-09 |
 | [Together We Succeed](https://open.spotify.com/track/3U7aMdZAjOkcmZ4nUKQqZJ) | [Sylvia Beckett](https://open.spotify.com/artist/2z8eGKTdeXaLuflpOwAI1Y) | [The Teacher](https://open.spotify.com/album/6A9Tdi6gUteJtLrufkNF19) | 3:05 | 2020-08-14\* | 2020-08-20 |

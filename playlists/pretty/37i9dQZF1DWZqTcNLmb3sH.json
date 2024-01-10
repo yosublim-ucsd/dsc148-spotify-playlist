@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Bachelor Party\n",
-  "num_followers": 56815,
+  "num_followers": 56818,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjllYTA1ODAxYTMzMmVlNTM3MDE3YzUwYjY3MDc5MGMzMmU3ZmVj",
+  "snapshot_id": "MCxhYzJhY2M3MDJlZDUyZTZjMTM2MTA3NTA3NGFmNTllZmExMGUyYzU2",
   "tracks": [
     {
       "added_at": "2024-01-04 06:14:40",
@@ -15,6 +15,10 @@
         "url": "https://open.spotify.com/album/5ABzU6pIl3y6e1QR2P0Nu6"
       },
       "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
         {
           "name": "Arjun Ramu",
           "url": "https://open.spotify.com/artist/2WMT3p2Mgvnap7bkfQ1J9A"
@@ -26,10 +30,6 @@
         {
           "name": "Veeresh Shivamurthy",
           "url": "https://open.spotify.com/artist/6lfRftP5Id63j85WRHjhTX"
-        },
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
         }
       ],
       "duration_ms": 205856,
@@ -95,6 +95,34 @@
       "duration_ms": 225141,
       "name": "Anuraagava Kalisalu (from \"Kaatera\")",
       "url": "https://open.spotify.com/track/7CYORMdsL3mtZHXaUOCIrE"
+    },
+    {
+      "added_at": "2024-01-09 13:31:40",
+      "album": {
+        "name": "Yakovosi Manasu (From \"Mandyahaida\")",
+        "url": "https://open.spotify.com/album/4SQEa1xpWF0WfEygse3tYQ"
+      },
+      "artists": [
+        {
+          "name": "Chethan Naik",
+          "url": "https://open.spotify.com/artist/3DaORH0Tws7WPuMKnQQj3Y"
+        },
+        {
+          "name": "Sakshi Kallur",
+          "url": "https://open.spotify.com/artist/4XA1eGTPybnNfZtbbyThDt"
+        },
+        {
+          "name": "Surendranath B R",
+          "url": "https://open.spotify.com/artist/1k3zjqPDkTVZELVv2NtCDH"
+        },
+        {
+          "name": "Venkatesh Kulkarni",
+          "url": "https://open.spotify.com/artist/52qbRLr5Z8KfTRl2yb0VTa"
+        }
+      ],
+      "duration_ms": 234610,
+      "name": "Yakovosi Manasu ( From \"Mandyahaida\")",
+      "url": "https://open.spotify.com/track/6n5j9ObE6k1fDjjhWetRjV"
     },
     {
       "added_at": "2024-01-08 12:26:21",
@@ -1647,50 +1675,6 @@
       "duration_ms": 95604,
       "name": "Kaatera Benki kidiyondu (from \"Kaatera\")",
       "url": "https://open.spotify.com/track/1DYR3AHIgr155IP3QzWkxG"
-    },
-    {
-      "added_at": "2023-11-06 10:01:52",
-      "album": {
-        "name": "Andhaaju (From \"Hi Nanna\")",
-        "url": "https://open.spotify.com/album/4XMW6RZWugseHqp7tmDIAo"
-      },
-      "artists": [
-        {
-          "name": "Aavani Malhar",
-          "url": "https://open.spotify.com/artist/2UhFPsbFyTC38N0EAv7cRG"
-        },
-        {
-          "name": "Kala Bhairava",
-          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
-        },
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        }
-      ],
-      "duration_ms": 219032,
-      "name": "Andhaaju (From \"Hi Nanna\")",
-      "url": "https://open.spotify.com/track/1z3KzKdFVNrq6SOJ42clde"
-    },
-    {
-      "added_at": "2023-11-06 10:01:14",
-      "album": {
-        "name": "Tagaru Palya (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0NcvpZeDmSWsGcMJH3NcoT"
-      },
-      "artists": [
-        {
-          "name": "Vasuki Vaibhav",
-          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
-        },
-        {
-          "name": "Daali Dhananjaya & Madhuri Seshadri",
-          "url": "https://open.spotify.com/artist/7CUCByIuU6LjroXmSf7gby"
-        }
-      ],
-      "duration_ms": 197534,
-      "name": "Suryakanthi",
-      "url": "https://open.spotify.com/track/54yqLMy4vkq6mh7dCKlLtz"
     },
     {
       "added_at": "2023-11-06 09:42:19",

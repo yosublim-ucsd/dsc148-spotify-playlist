@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04kFZs.md) - [plain]
 
 > This is Pop Smoke\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,905 likes - 49 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,008 likes - 49 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04kFZs.md) - [plain]
 | 42 | [Tell The Vision \(feat\. Kanye West & Pusha T\)](https://open.spotify.com/track/2UwALqx6yOsXTFt7zRxnts) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:35 |
 | 43 | [Run It Up \(feat\. Pop Smoke\)](https://open.spotify.com/track/6LUE5WlMgrpLouGxzJAUVv) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Good Intentions](https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS) | 2:59 |
 | 44 | [Wolves \(with NAV\)](https://open.spotify.com/track/1dnsojUNfvhiztcITLzruj) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Meet The Woo 2 \(Deluxe\)](https://open.spotify.com/album/5NTOvCGu7HT4DgJGLXtKUU) | 3:14 |
-| 45 | [Make It Rain](https://open.spotify.com/track/4TgHt7vKCimpywaiKfl0uj) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Make It Rain](https://open.spotify.com/album/0XaqBneSJFz2ZVVlUM2neC) | 3:24 |
+| 45 | [Don't Know Em \(feat\. Rah Swish\)](https://open.spotify.com/track/0kjIeKhqH933ppKUK6gOCE) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [Faith \(Deluxe\)](https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU) | 1:51 |
 | 46 | [Bout A Million \(feat\. 42 Dugg & 21 Savage\)](https://open.spotify.com/track/4LaGu95Ui2s4vprSQYWUAZ) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:23 |
-| 47 | [Don't Know Em \(feat\. Rah Swish\)](https://open.spotify.com/track/0kjIeKhqH933ppKUK6gOCE) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [Faith \(Deluxe\)](https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU) | 1:51 |
+| 47 | [Make It Rain](https://open.spotify.com/track/4TgHt7vKCimpywaiKfl0uj) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Make It Rain](https://open.spotify.com/album/0XaqBneSJFz2ZVVlUM2neC) | 3:24 |
 | 48 | [She Feelin Nice \(feat\. Jamie Foxx\)](https://open.spotify.com/track/3qzSfoByowr6tDfd08b0T0) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv) | 2:35 |
 | 49 | [Good News](https://open.spotify.com/track/5UpNgshYfG2FReGGz6zyGW) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith \(Deluxe\)](https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU) | 0:46 |
 
-Snapshot ID: `Mjg0MTE5MDAsMDAwMDAwMDAwOThiMTY3Mzk3NmMzYThmZWM5NjYwMzRlNTdhYzEzMQ==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDA0YTI4YjExNWM0OTIyYzE2Mzk2ZWJlYTUzZDY0NWU0Mg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,594,541 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,592,791 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 63 | [Libre](https://open.spotify.com/track/7KibjIxYJsdP9UGjjMUEn6) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [Heritage](https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG) | 3:18 |
 | 64 | [Bloodbath](https://open.spotify.com/track/7z35ELbZv0zResMSqwsoKa) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Bloodbath](https://open.spotify.com/album/1PTOieMAfJSzcxdn2hkjtt) | 3:20 |
 | 65 | [Burn Up The Floor](https://open.spotify.com/track/5nz3dwffS8W2WDWRa9SgfR) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Jantsen](https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg) | [Rainbow Brain](https://open.spotify.com/album/0jbN6pCIbmO9hPXMynQ2P8) | 3:46 |
-| 66 | [Breach](https://open.spotify.com/track/3vSYtWxpOfhp54VGGxCZrn) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Breach](https://open.spotify.com/album/5AHBWAHdJuIY5K6nIcHgJE) | 4:09 |
-| 67 | [NEW WIP](https://open.spotify.com/track/6rv93pYJSTtReQIuwcCYvm) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [NEW WIP](https://open.spotify.com/album/5NToLmDgH4V64h5f3Xzhkn) | 3:06 |
+| 66 | [NEW WIP](https://open.spotify.com/track/6rv93pYJSTtReQIuwcCYvm) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [NEW WIP](https://open.spotify.com/album/5NToLmDgH4V64h5f3Xzhkn) | 3:06 |
+| 67 | [Breach](https://open.spotify.com/track/3vSYtWxpOfhp54VGGxCZrn) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Breach](https://open.spotify.com/album/5AHBWAHdJuIY5K6nIcHgJE) | 4:09 |
 | 68 | [Mawlee \(feat\. Young Buck & DJ Afterthought\)](https://open.spotify.com/track/3SXOSV2Me0P88axBxnVMsK) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Young Buck](https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q), [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX) | [AD INFINITUM](https://open.spotify.com/album/1LC4nzKSrMlbsHUOY93lyS) | 2:58 |
 | 69 | [Cheatcode](https://open.spotify.com/track/3iDtphWASBHIjVEB8lWBqs) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK), [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Cheatcode](https://open.spotify.com/album/52PFrVESS61Ghel6SJtIFI) | 3:07 |
 | 70 | [Trenches](https://open.spotify.com/track/6s4T0UEJs5kX6EsEjvfXpw) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Trenches](https://open.spotify.com/album/0BIuPX2XzG3P7Bir90cpP4) | 2:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 74 | [Silo \(feat\. fknsyd\)](https://open.spotify.com/track/6F3eFeqRMgjnPrFJGiosdd) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Silo \(feat\. fknsyd\)](https://open.spotify.com/album/2e6ev74vWl4wuJXuxpDjf8) | 4:07 |
 | 75 | [RUNAWAY \(feat\. Josh Rubin\)](https://open.spotify.com/track/1lj3aGG7Ltxap2LHXUgSvY) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [DISRUPTOR LP](https://open.spotify.com/album/1UXLEXcUYHLNouwidskiMa) | 3:29 |
 
-Snapshot ID: `MCw5ZThkNjNlNjNiNThkYmFlY2Y1MTc1MzE1NGEzMDAzZTEzODlkODRk`
+Snapshot ID: `MCxkMzk0NzA0YjAzYWRkY2U1YWMyZDk5Nzg3MTVhZDY2MDBjOGRjOTBl`

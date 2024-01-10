@@ -6,7 +6,7 @@
     "name": "Ryan Gards",
     "url": "https://open.spotify.com/user/1230953186"
   },
-  "snapshot_id": "ODIzLGViYTIwOWZiMmZhOTdmYjg4NmVhZGU2MTM2M2E2ZTUyYTQzYzY2ZWE=",
+  "snapshot_id": "ODI1LGE4ZmUyNDljNDJjMjMxNjc1NmJmN2NlNzc5ZDNiNjkwODRkNGVlYjU=",
   "tracks": [
     {
       "added_at": "2020-11-30 17:26:34",
@@ -12143,6 +12143,38 @@
       "duration_ms": 222680,
       "name": "Camino Del Sol",
       "url": "https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q"
+    },
+    {
+      "added_at": "2024-01-09 14:19:11",
+      "album": {
+        "name": "Chant Amazigh (Habibi Funk 017)",
+        "url": "https://open.spotify.com/album/3xFJIj1WvMTDEMEGzFAeuW"
+      },
+      "artists": [
+        {
+          "name": "Majid Soula",
+          "url": "https://open.spotify.com/artist/3ZSwzyUGtKBQtr1RFmqyiY"
+        }
+      ],
+      "duration_ms": 247250,
+      "name": "Win Terram",
+      "url": "https://open.spotify.com/track/21SdDged8mWRNvDnwPzxH1"
+    },
+    {
+      "added_at": "2024-01-09 14:19:41",
+      "album": {
+        "name": "Ilana (The Creator)",
+        "url": "https://open.spotify.com/album/6HbPDJQcg8ms0PpOERZmXH"
+      },
+      "artists": [
+        {
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+        }
+      ],
+      "duration_ms": 447083,
+      "name": "Tarhatazed",
+      "url": "https://open.spotify.com/track/7uY3z3xwpGM2sOdiElpQAU"
     }
   ],
   "unique_name": "Worldly",

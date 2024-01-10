@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 
 > 가을 감성이 담긴 노래들과 함께 감상에 젖어보세요\. \(Listen to K\-Pop autumn songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,760 likes - 121 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,764 likes - 121 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 85 | [거리에서](https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [The Ballads](https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac) | 4:39 |
 | 86 | [Late Night](https://open.spotify.com/track/3QRUPaizh0X42xNQMr8aPg) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Late Night](https://open.spotify.com/album/4LGqCVppg8PsAPqfVjDPsx) | 3:36 |
 | 87 | [우리의 밤을 외워요](https://open.spotify.com/track/4LYlWqZSPaLMk9FthWF0To) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [우리의 밤을 외워요](https://open.spotify.com/album/5f8PEOUNnkB5cj2W5fVgXy) | 4:02 |
-| 88 | [Moments Make Memories](https://open.spotify.com/track/3aWHovl6h2c1RyCAJP56gd) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [18 again, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/2dKTxeYl2l4LldeOAbphMF) | 4:07 |
+| 88 | [Moments Make Memories](https://open.spotify.com/track/7xU8MduijQhBEKTpBgVp2E) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [18 again, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/2KQYYKO4MADwhz6V9A0357) | 4:07 |
 | 89 | [What day do you live?](https://open.spotify.com/track/2rccS92aHoL4TfGR9wK8B5) | [Letter flow](https://open.spotify.com/artist/19jNQxmNBaXJlXdvLHtrHY) | [What day do you live?](https://open.spotify.com/album/6E9VOi0CYUduyLiIzuiMnY) | 5:14 |
 | 90 | [Autumnal Love](https://open.spotify.com/track/1v9Rtklz92QJJEgiEQSsUG) | [Yoon Hansol](https://open.spotify.com/artist/0Mx0eyyqDGAN2VFvzuSOtR), [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca) | [On You](https://open.spotify.com/album/6rjyBT9ZSUj6QkYn1eeIRC) | 3:42 |
 | 91 | [Afraid To Say I Love You](https://open.spotify.com/track/5q3q7ZIRq7EoCK3kpsfRpz) | [THE ADE](https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy) | [Afraid To Say I Love You](https://open.spotify.com/album/3W0HGM1NBblqIrhMMLoiDx) | 3:25 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 120 | [Autumn breeze \(Feat\. Milky Day\)](https://open.spotify.com/track/2XOy3DKHapEiDxG7EFI2wT) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Autumn breeze](https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB) | 2:54 |
 | 121 | [Bad](https://open.spotify.com/track/2DGrRwugivZANDFU3gXo4j) | [BANHANA](https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 16](https://open.spotify.com/album/19Ov0ZxXqwknA1QnqaMVK3) | 3:27 |
 
-Snapshot ID: `MCxiZjU2OWU1ZjhlOTJiMGNmMGRjZjhjOTk4MTMwYzljMDBlYmM0M2I5`
+Snapshot ID: `MCwwNWZiMmQyOTJlNmRhZGE3OTk0YjZkNDI1ZGI3OGUxOGZmMmZjMzM2`

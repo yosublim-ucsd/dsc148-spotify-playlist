@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: Apashe",
-  "num_followers": 231002,
+  "num_followers": 231071,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDNiYWE0MjNhMTNmNmYyNWFmNmRhMjA3MzMwYThlOGU5Y2MxZGRl",
+  "snapshot_id": "MCw2ZWFiZmFhNDM4MzA3MDI5YzY3YzNlMmY4NDIxMmU1MzA3OTU3ZTRm",
   "tracks": [
     {
       "added_at": "2023-12-26 19:49:57",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-12-26 19:49:57",
       "album": {
+        "name": "Frikitona",
+        "url": "https://open.spotify.com/album/5LdsLkZqLq2oUEthzHiR9g"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 174375,
+      "name": "Frikitona",
+      "url": "https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn"
+    },
+    {
+      "added_at": "2023-12-26 19:49:57",
+      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/1JjGogI2XIeKZK0UOSJQaY"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 159161,
       "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
       "url": "https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD"
-    },
-    {
-      "added_at": "2023-12-26 19:49:57",
-      "album": {
-        "name": "Frikitona",
-        "url": "https://open.spotify.com/album/5LdsLkZqLq2oUEthzHiR9g"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        }
-      ],
-      "duration_ms": 174375,
-      "name": "Frikitona",
-      "url": "https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn"
     },
     {
       "added_at": "2023-12-26 19:49:57",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-12-26 19:49:57",
       "album": {
+        "name": "One Pill",
+        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
+      },
+      "artists": [
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "One Pill",
+      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
+    },
+    {
+      "added_at": "2023-12-26 19:49:57",
+      "album": {
         "name": "Ecstasy Of Soul",
         "url": "https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 238400,
       "name": "Ecstasy Of Soul",
       "url": "https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8"
-    },
-    {
-      "added_at": "2023-12-26 19:49:57",
-      "album": {
-        "name": "One Pill",
-        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
-      },
-      "artists": [
-        {
-          "name": "VNSSA",
-          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "One Pill",
-      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
     },
     {
       "added_at": "2023-12-26 19:49:57",
@@ -1643,30 +1643,6 @@
     {
       "added_at": "2023-12-26 19:49:57",
       "album": {
-        "name": "Infraliminal",
-        "url": "https://open.spotify.com/album/3RoWzELirpqIEBueczpnNF"
-      },
-      "artists": [
-        {
-          "name": "REZZMAU5",
-          "url": "https://open.spotify.com/artist/7m5U1YbhADGvZc2mIhfe1j"
-        },
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        }
-      ],
-      "duration_ms": 266600,
-      "name": "Infraliminal",
-      "url": "https://open.spotify.com/track/7syNqxCLAQZzQlkRyJIfDr"
-    },
-    {
-      "added_at": "2023-12-26 19:49:57",
-      "album": {
         "name": "Seismic",
         "url": "https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ"
       },
@@ -1687,6 +1663,30 @@
       "duration_ms": 208125,
       "name": "Seismic",
       "url": "https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b"
+    },
+    {
+      "added_at": "2023-12-26 19:49:57",
+      "album": {
+        "name": "Infraliminal",
+        "url": "https://open.spotify.com/album/3RoWzELirpqIEBueczpnNF"
+      },
+      "artists": [
+        {
+          "name": "REZZMAU5",
+          "url": "https://open.spotify.com/artist/7m5U1YbhADGvZc2mIhfe1j"
+        },
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        }
+      ],
+      "duration_ms": 266600,
+      "name": "Infraliminal",
+      "url": "https://open.spotify.com/track/7syNqxCLAQZzQlkRyJIfDr"
     },
     {
       "added_at": "2023-12-26 19:49:57",
@@ -1819,26 +1819,6 @@
     {
       "added_at": "2023-12-26 19:49:57",
       "album": {
-        "name": "Banga",
-        "url": "https://open.spotify.com/album/2S1qwlOsiKSKMvxpxuO5Hw"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
-        }
-      ],
-      "duration_ms": 141897,
-      "name": "Banga",
-      "url": "https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn"
-    },
-    {
-      "added_at": "2023-12-26 19:49:57",
-      "album": {
         "name": "This Mixtape is Fire TOO",
         "url": "https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD"
       },
@@ -1855,6 +1835,26 @@
       "duration_ms": 239047,
       "name": "buttons! (with Knock2)",
       "url": "https://open.spotify.com/track/6lNYE1wSCTtBxFvcdUAymQ"
+    },
+    {
+      "added_at": "2023-12-26 19:49:57",
+      "album": {
+        "name": "Banga",
+        "url": "https://open.spotify.com/album/2S1qwlOsiKSKMvxpxuO5Hw"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "duration_ms": 141897,
+      "name": "Banga",
+      "url": "https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn"
     },
     {
       "added_at": "2023-12-26 19:49:57",
@@ -1931,30 +1931,6 @@
     {
       "added_at": "2023-12-26 19:49:57",
       "album": {
-        "name": "Into U",
-        "url": "https://open.spotify.com/album/5nSJWsxgo6XCBWyyperlwk"
-      },
-      "artists": [
-        {
-          "name": "Newmagick",
-          "url": "https://open.spotify.com/artist/7A3r3evEOAHQHtdumIMG8M"
-        },
-        {
-          "name": "Bread Beatz",
-          "url": "https://open.spotify.com/artist/6Bwo8WbpyBecVCrrKcAtuH"
-        },
-        {
-          "name": "$werve",
-          "url": "https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj"
-        }
-      ],
-      "duration_ms": 158139,
-      "name": "Into U",
-      "url": "https://open.spotify.com/track/7Esv32DsoH0GlAm42R4eXD"
-    },
-    {
-      "added_at": "2023-12-26 19:49:57",
-      "album": {
         "name": "You Found Me",
         "url": "https://open.spotify.com/album/0TNgUfGot6W2bnm9rvsGqu"
       },
@@ -1975,6 +1951,30 @@
       "duration_ms": 269538,
       "name": "You Found Me",
       "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
+    },
+    {
+      "added_at": "2023-12-26 19:49:57",
+      "album": {
+        "name": "Into U",
+        "url": "https://open.spotify.com/album/5nSJWsxgo6XCBWyyperlwk"
+      },
+      "artists": [
+        {
+          "name": "Newmagick",
+          "url": "https://open.spotify.com/artist/7A3r3evEOAHQHtdumIMG8M"
+        },
+        {
+          "name": "Bread Beatz",
+          "url": "https://open.spotify.com/artist/6Bwo8WbpyBecVCrrKcAtuH"
+        },
+        {
+          "name": "$werve",
+          "url": "https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj"
+        }
+      ],
+      "duration_ms": 158139,
+      "name": "Into U",
+      "url": "https://open.spotify.com/track/7Esv32DsoH0GlAm42R4eXD"
     },
     {
       "added_at": "2023-12-26 19:49:57",
@@ -2183,26 +2183,6 @@
     {
       "added_at": "2023-12-26 19:49:57",
       "album": {
-        "name": "More Baby",
-        "url": "https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        }
-      ],
-      "duration_ms": 264996,
-      "name": "More Baby - VIP Mix",
-      "url": "https://open.spotify.com/track/4ddRKTrv4fXl47Jzigwyit"
-    },
-    {
-      "added_at": "2023-12-26 19:49:57",
-      "album": {
         "name": "Night In Milan",
         "url": "https://open.spotify.com/album/5mjEC5XuALfFLI7XlpnAXL"
       },
@@ -2219,6 +2199,26 @@
       "duration_ms": 154081,
       "name": "Night In Milan",
       "url": "https://open.spotify.com/track/5WZp98NX90Oqy2mAQcwleA"
+    },
+    {
+      "added_at": "2023-12-26 19:49:57",
+      "album": {
+        "name": "More Baby",
+        "url": "https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 264996,
+      "name": "More Baby - VIP Mix",
+      "url": "https://open.spotify.com/track/4ddRKTrv4fXl47Jzigwyit"
     },
     {
       "added_at": "2023-12-26 19:49:57",
@@ -2351,6 +2351,26 @@
     {
       "added_at": "2023-12-26 19:49:57",
       "album": {
+        "name": "Jumpstarter",
+        "url": "https://open.spotify.com/album/0lprQMq8a7RpVNKC0xH7fN"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        }
+      ],
+      "duration_ms": 173592,
+      "name": "Jumpstarter",
+      "url": "https://open.spotify.com/track/7er3MoyagC8W4YfCmENhRJ"
+    },
+    {
+      "added_at": "2023-12-26 19:49:57",
+      "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/6UUxfgFRnORokuQCqEXA1g"
       },
@@ -2371,26 +2391,6 @@
       "duration_ms": 220689,
       "name": "Touch",
       "url": "https://open.spotify.com/track/1l90jvHTkNh9VmOh2LbbeC"
-    },
-    {
-      "added_at": "2023-12-26 19:49:57",
-      "album": {
-        "name": "Jumpstarter",
-        "url": "https://open.spotify.com/album/0lprQMq8a7RpVNKC0xH7fN"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        },
-        {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
-        }
-      ],
-      "duration_ms": 173592,
-      "name": "Jumpstarter",
-      "url": "https://open.spotify.com/track/7er3MoyagC8W4YfCmENhRJ"
     },
     {
       "added_at": "2023-12-26 19:49:57",
@@ -2555,6 +2555,26 @@
     {
       "added_at": "2023-12-26 19:49:57",
       "album": {
+        "name": "Dark & Danger",
+        "url": "https://open.spotify.com/album/52on97V2vFf9FfCGziCmox"
+      },
+      "artists": [
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        },
+        {
+          "name": "The Tech Thieves",
+          "url": "https://open.spotify.com/artist/06bun5reMRmLxFCbcB6UHW"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Dark & Danger",
+      "url": "https://open.spotify.com/track/5sx06tqV0g8C8jZiyTCSJx"
+    },
+    {
+      "added_at": "2023-12-26 19:49:57",
+      "album": {
         "name": "Last Words",
         "url": "https://open.spotify.com/album/7KosWcByYbJiHXhZBy2Q2I"
       },
@@ -2575,26 +2595,6 @@
       "duration_ms": 179988,
       "name": "Last Words",
       "url": "https://open.spotify.com/track/3YtI2ueiyc0amSuuLsiQgQ"
-    },
-    {
-      "added_at": "2023-12-26 19:49:57",
-      "album": {
-        "name": "Dark & Danger",
-        "url": "https://open.spotify.com/album/52on97V2vFf9FfCGziCmox"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        },
-        {
-          "name": "The Tech Thieves",
-          "url": "https://open.spotify.com/artist/06bun5reMRmLxFCbcB6UHW"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Dark & Danger",
-      "url": "https://open.spotify.com/track/5sx06tqV0g8C8jZiyTCSJx"
     }
   ],
   "unique_name": "Bangers",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 
 > Relive your favourite K\-Drama moments with these classic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 736,301 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 736,542 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 28 | [Flower](https://open.spotify.com/track/2m5Ex34NOwIWOwHthEqLco) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/3RJg3rTiDi2r9HJTkARqy4) | 4:12 |
 | 29 | [긴 밤이 오면](https://open.spotify.com/track/3j1RB91MFxn8oY9jYoQ36t) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [While You Were Sleeping, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Mi8XGlryJ75HOoWpbkR6x) | 3:46 |
 | 30 | [Very, Slowly](https://open.spotify.com/track/7GkHIsnziYgk6j1lx2TK6H) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Twenty\-Five Twenty\-One OST Part 3](https://open.spotify.com/album/3KKlnC97LdYrHuOvolb8GP) | 3:34 |
-| 31 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 |
-| 32 | [Aloha](https://open.spotify.com/track/1hOEq5q9L41E2YbLhVvW5x) | [CHO JUNG SEOK](https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3GHYyymoaYQFxj7GWv1Ccs) | 4:04 |
+| 31 | [Aloha](https://open.spotify.com/track/1hOEq5q9L41E2YbLhVvW5x) | [CHO JUNG SEOK](https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3GHYyymoaYQFxj7GWv1Ccs) | 4:04 |
+| 32 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 |
 | 33 | [I Love You Boy](https://open.spotify.com/track/155N0vbPqPFs9DzBNR41T7) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [While You Were Sleeping, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/5TDJPOVQSFFMyeQNzToolM) | 4:24 |
 | 34 | [Reset \(feat\. Jinsil\)](https://open.spotify.com/track/1uJLYKtzCOhZI1zZW99W8I) | [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD), [Jinsil](https://open.spotify.com/artist/1PqqSllWCaCwjt3nr9ngaq) | [Who Are You : School 2015\(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/1Lm4AiocdoWQW0K94b1JGq) | 4:02 |
 | 35 | [너를 사랑하고 있어](https://open.spotify.com/track/2KhNgn4w8LHxn3ybLoofh4) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [낭만닥터 김사부 2 \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/1nuRFmSFwmnh9AVxvfgLJT) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 49 | [Goodbye](https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The Beauty Inside Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY) | 3:13 |
 | 50 | [Summer Rain](https://open.spotify.com/track/0lsE1vjZQazyEnexXpD4B1) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/5G8GZvgWdarjynQ0hLGehC) | 3:21 |
 
-Snapshot ID: `MCxlY2Q2NWQ0MmY3YTliNjY3MDFiMDc4YWI0OWRmYTlkZDc0NGQ3NWJh`
+Snapshot ID: `MCwzNjA2Y2Q5Y2I5M2U4MmZmNzAyYmNkY2ZmMTMwM2Y0ZWMwY2MzMGNl`

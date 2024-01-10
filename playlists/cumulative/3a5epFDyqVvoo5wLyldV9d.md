@@ -4,7 +4,7 @@
 
 > 
 
-726 songs - 2 day 8 hr 18 min
+728 songs - 2 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -621,6 +621,7 @@
 | [Take No Michi](https://open.spotify.com/track/71lME25J4LTr7tW499MrXu) | [Dream Dolphin](https://open.spotify.com/artist/6wOvjwGY4xF3FaiqOGucSb) | [Heisei No Oto: Japanese Left\-field Pop From The CD Age, 1989\-1996](https://open.spotify.com/album/1HQaShZnkACQiXjJRaUzWi) | 6:09 | 2021-12-01 |  |
 | [Tamanqueiro](https://open.spotify.com/track/3fN9YA04h55rSz8pdW75IE) | [Selvagem](https://open.spotify.com/artist/0BNvsgoekC0iZFQ7xaXNTt) | [Selvagem Edits](https://open.spotify.com/album/5omevXOvohMm14J4ctCrp7) | 5:25 | 2019-08-23 |  |
 | [Tamirci Çırağı](https://open.spotify.com/track/0M1Fta1PGYimtdnSSASc73) | [Cem Karaca](https://open.spotify.com/artist/1lIbZfJvMQRqzhtCQsg5EI) | [Ölümsüzler](https://open.spotify.com/album/154GWJB59V7kCWlvD3kWb0) | 4:56 | 2020-11-24 |  |
+| [Tarhatazed](https://open.spotify.com/track/7uY3z3xwpGM2sOdiElpQAU) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Ilana \(The Creator\)](https://open.spotify.com/album/6HbPDJQcg8ms0PpOERZmXH) | 7:27 | 2024-01-09 |  |
 | [Tau Special](https://open.spotify.com/track/0FFe8GP7tYKS8UoZQRulGh) | [The Movers](https://open.spotify.com/artist/2X07VlWN9IlypdVxQqtwY6) | [The Movers,Vol\. 1 \- 1970\-1976 \(Analog Africa No\. 35\)](https://open.spotify.com/album/1CbmdU1mcUHriAQo354REq) | 2:51 | 2023-10-30 |  |
 | [Tayyara Warak](https://open.spotify.com/track/4WjB2aDvfjAYsukbbxYVUd) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4) | [Tayyara Warak \(Habibi Funk 023\)](https://open.spotify.com/album/5uaI0HkgM2ovJ7QO0STi0t) | 2:48 | 2023-01-06 |  |
 | [Tchon Di Morgado](https://open.spotify.com/track/4bY2A3oG00vvb9qJs4TZFx) | [Os Tubarões](https://open.spotify.com/artist/7k1xtKMpdzF4wUttO6nv1f) | [Tchon Di Morgado](https://open.spotify.com/album/0HxzyiA9siXRAyoMPlui8d) | 4:16 | 2023-02-23 |  |
@@ -682,6 +683,7 @@
 | [Wayawaya](https://open.spotify.com/track/5QnnesgceFV87hjtMSziVO) | [Zoom](https://open.spotify.com/artist/3uEnrqJhFS6Bqb7EbCG8TH) | [Gumba Fire: Bubblegum Soul & Synth Boogie in 1980s South Africa](https://open.spotify.com/album/6kfhd0sOcKOOK3bC4IWdBj) | 5:31 | 2020-07-28 |  |
 | [Wede Harer Guzo](https://open.spotify.com/track/7Ihi6UcJKndJKlsm0A4hjZ) | [Hailu Mergia](https://open.spotify.com/artist/0rsN9DKQhTCvkgbByOOBIm), [Dahlak Band](https://open.spotify.com/artist/1JZiZjpnchiZ4mqs5nJggA) | [Wede Harer Guzo](https://open.spotify.com/album/5i6yMY4F7UoOuJD6wRV6NN) | 6:35 | 2023-04-16 |  |
 | [White Sands](https://open.spotify.com/track/5xLzGWWwVcIzFb5bL8eU84) | [Alessandro Alessandroni](https://open.spotify.com/artist/6NXwJ5CEziDQrfimLpr7gZ) | [Panoramic Feelings \(Mellow Carefree Lounge Music\)](https://open.spotify.com/album/4CW8oM19vtGd4TJi1qmmZu) | 2:58 | 2022-09-19 |  |
+| [Win Terram](https://open.spotify.com/track/21SdDged8mWRNvDnwPzxH1) | [Majid Soula](https://open.spotify.com/artist/3ZSwzyUGtKBQtr1RFmqyiY) | [Chant Amazigh \(Habibi Funk 017\)](https://open.spotify.com/album/3xFJIj1WvMTDEMEGzFAeuW) | 4:07 | 2024-01-09 |  |
 | [Xangô](https://open.spotify.com/track/6UuzGgbN8Ifz5fvL1m2H0f) | [Magalhães e sua Guitarra](https://open.spotify.com/artist/0gbErAnyXCDqoXk9B6VQGH) | [Jambú \- e os míticos sons da amazônia \(Analog Africa No\. 28\)](https://open.spotify.com/album/5wxGNf3jSMNbp1xpmGKg06) | 3:23 | 2021-10-11 |  |
 | [Y...](https://open.spotify.com/track/2BPPkdy7BJ2VQPrZMeaGkN) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:46 | 2022-01-08 |  |
 | [Ya Bismillah](https://open.spotify.com/track/1WYZN7h2By4JKSN3GVQ1J0) | [Mamman Sani](https://open.spotify.com/artist/3AWprtbEToKCq6Xzz0tTX4) | [Taaritt \(1985 \- 1988\)](https://open.spotify.com/album/3tHAN9x4zBr3YXViELwGOO) | 4:21 | 2022-07-04 |  |

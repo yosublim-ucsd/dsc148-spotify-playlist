@@ -4,7 +4,7 @@
 
 > Raise a voice and testify the goodness of God\.  Cover: <a href="https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q?si=1eSJpNTQRjmm5\_c\_7uM5LA">Yadah</a>
 
-198 songs - 15 hr 43 min
+199 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [God No Go Shame Us](https://open.spotify.com/track/6oHUaQylY7C9vpLDrLR32C) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [God No Go Shame Us](https://open.spotify.com/album/5hjyGoHHqyLyliSIGJrpTo) | 2:29 | 2023-12-05 | 2023-12-13 |
 | [GOOD GOOD GOD](https://open.spotify.com/track/3tMVmejZwzphx1kjnWqYLw) | [LC Beatz](https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [GOOD GOOD GOD](https://open.spotify.com/album/7D12vNVnTLlF3GIhTgKLPl) | 3:09 | 2023-12-05 | 2023-12-13 |
 | [Grateful](https://open.spotify.com/track/7IGCwf8COqsDoZsD8Lz5NT) | [Romeo ThaGreatwhite](https://open.spotify.com/artist/0BREQB4X1tJY2UXIndTzew), [Prifix](https://open.spotify.com/artist/1p9ME7SCoyUhTchumQvPNm) | [Grateful](https://open.spotify.com/album/6DMGM2y7j46To04if4jIam) | 5:04 | 2023-06-16 | 2023-06-30 |
+| [Grave Robber](https://open.spotify.com/track/1AuNDsNLc7b3tApnlyaGdy) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Grave Robber](https://open.spotify.com/album/0wB9OS3MOqEHXAfxEbk5Px) | 2:50 | 2023-12-29 |  |
 | [Greatest](https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [RADICAL](https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE) | 3:08 | 2023-10-20 | 2023-11-25 |
 | [Hallelujah \(feat\. Sini Dagana\) \[Gyration Version\]](https://open.spotify.com/track/22iQ6kNERAFyCOzzhM161U) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0), [Sini Dagana](https://open.spotify.com/artist/4Qe3zkPW4YTQrde2Ef0dJb) | [Hallelujah \(feat\. Sini Dagana\) \[Gyration Version\]](https://open.spotify.com/album/2anNLVL6hppIExTm0C9IYm) | 2:18 | 2023-06-23 | 2023-10-07 |
 | [He Did It Again](https://open.spotify.com/track/3DnfU6JmmoKV4YK9gzCrk6) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [He Did It Again](https://open.spotify.com/album/4VXAAa1nfnwGBFvMAZLUbZ) | 5:03 | 2023-04-07 | 2023-07-28 |
@@ -110,7 +111,7 @@
 | [Let the Sparks Fly \- 2023](https://open.spotify.com/track/3sNXJt9GqDcMlmbaiZ4lAG) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr), [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8), [Adam Gontier](https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT) | [Let the Sparks Fly](https://open.spotify.com/album/1SgHuXrG74oPv7PGm6inM3) | 3:50 | 2023-12-29 | 2024-01-08 |
 | [Life With You](https://open.spotify.com/track/1bNCQXUm3PldHEsM6Aiu3p) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Life With You](https://open.spotify.com/album/40N9JGqPnf5QziBqLETT2z) | 2:46 | 2023-07-07 | 2023-07-14 |
 | [Look At God](https://open.spotify.com/track/1Vpoqhhrf1zO1leCfJkKCz) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Look At God](https://open.spotify.com/album/3M28YujBKpNrnyIt4ssMRK) | 3:39 | 2023-12-29 |  |
-| [Made A Way](https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 9:51 | 2023-04-07 |  |
+| [Made A Way](https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 9:51 | 2023-04-07 | 2024-01-10 |
 | [Marvelous God](https://open.spotify.com/track/4pgOw2cCRtS0BWgn0lMdOZ) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX) | [More Than Music \(Transcendent Worship\)](https://open.spotify.com/album/6WDklyokogcK9ZZqcFEJeg) | 3:53 | 2023-12-05 | 2023-12-13 |
 | [Maximum Enjoyment](https://open.spotify.com/track/3hZ7ENafBwo41O5D2mbb3c) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [Maximum Enjoyment](https://open.spotify.com/album/0TsOIKXvZHeIGiUzq4NKpC) | 4:18 | 2023-12-05 | 2023-12-13 |
 | [Mercy](https://open.spotify.com/track/1n2kZ1iuGpuxj8sr4NY8RL) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Pastor Jerry Eze](https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn) | [Mercy](https://open.spotify.com/album/65dVjDK6IVyThRsk4S6Yxu) | 16:45 | 2023-08-18 | 2023-12-30 |

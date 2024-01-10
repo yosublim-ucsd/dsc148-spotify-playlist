@@ -1,12 +1,12 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 288819,
+  "num_followers": 288927,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTEzM2U3YTBlYjY4OWRlZWM2ODUzNDdmNTUxNmM4NTcwNjRjMzlh",
+  "snapshot_id": "MCw3NTYxNDg3ODc3NDQ0NGY3NmU0MGJlZjFiMWIyZTc2ZDljZjViYzk0",
   "tracks": [
     {
       "added_at": "2020-06-26 04:02:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Everything And Nothing Less (Live)",
-        "url": "https://open.spotify.com/album/66663xiz1SATmBnF78aEpA"
-      },
-      "artists": [
-        {
-          "name": "Chris McClarney",
-          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
-        }
-      ],
-      "duration_ms": 326613,
-      "name": "God Of Miracles - Live",
-      "url": "https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Wonder",
         "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
       },
@@ -643,22 +627,18 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Let It Echo (Live)",
-        "url": "https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO"
+        "name": "Everything And Nothing Less (Live)",
+        "url": "https://open.spotify.com/album/66663xiz1SATmBnF78aEpA"
       },
       "artists": [
         {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
         }
       ],
-      "duration_ms": 277173,
-      "name": "In The River - Live",
-      "url": "https://open.spotify.com/track/2qHScCZ9f4FPBNVBpFMZ0G"
+      "duration_ms": 326613,
+      "name": "God Of Miracles - Live",
+      "url": "https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -679,6 +659,26 @@
       "duration_ms": 282050,
       "name": "Nothing Without You",
       "url": "https://open.spotify.com/track/5CgLKRSUpqddLIFQHgoby1"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Let It Echo (Live)",
+        "url": "https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 277173,
+      "name": "In The River - Live",
+      "url": "https://open.spotify.com/track/2qHScCZ9f4FPBNVBpFMZ0G"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -755,30 +755,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Housefires + Friends (Live)",
-        "url": "https://open.spotify.com/album/0fz0bRd6luFI3J8jqiM5Ma"
-      },
-      "artists": [
-        {
-          "name": "Housefires",
-          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
-        },
-        {
-          "name": "Kirby Kaple",
-          "url": "https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        }
-      ],
-      "duration_ms": 477513,
-      "name": "Lift You High - Live",
-      "url": "https://open.spotify.com/track/39ssH6XDc7GGq6FDnENkjf"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Wonder",
         "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
       },
@@ -799,6 +775,30 @@
       "duration_ms": 294560,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/5ffsmOjdQ2R3Te0Sy4kVWw"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Housefires + Friends (Live)",
+        "url": "https://open.spotify.com/album/0fz0bRd6luFI3J8jqiM5Ma"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "Kirby Kaple",
+          "url": "https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 477513,
+      "name": "Lift You High - Live",
+      "url": "https://open.spotify.com/track/39ssH6XDc7GGq6FDnENkjf"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -875,26 +875,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Canvas And Clay (Live)",
-        "url": "https://open.spotify.com/album/4N1jzfvc9FTcDWqQnD46Rv"
-      },
-      "artists": [
-        {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        },
-        {
-          "name": "Ben Smith",
-          "url": "https://open.spotify.com/artist/3Fh5jeRl6cDZyDwVS7iwX5"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "Canvas And Clay - Live",
-      "url": "https://open.spotify.com/track/4Woit6kXxixnS2jduLUcy4"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Follow You Anywhere (Live)",
         "url": "https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 300933,
       "name": "Follow You Anywhere - Live",
       "url": "https://open.spotify.com/track/3OhF89cVIbCq5oG4syZ3dr"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Canvas And Clay (Live)",
+        "url": "https://open.spotify.com/album/4N1jzfvc9FTcDWqQnD46Rv"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        },
+        {
+          "name": "Ben Smith",
+          "url": "https://open.spotify.com/artist/3Fh5jeRl6cDZyDwVS7iwX5"
+        }
+      ],
+      "duration_ms": 400000,
+      "name": "Canvas And Clay - Live",
+      "url": "https://open.spotify.com/track/4Woit6kXxixnS2jduLUcy4"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Speak",
-        "url": "https://open.spotify.com/album/5joR8lkcklTpO3o8dPVsoI"
+        "name": "Still",
+        "url": "https://open.spotify.com/album/1nFQuXVKFf4FqmJcuyG7eS"
       },
       "artists": [
         {
-          "name": "Bethany Music",
-          "url": "https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP"
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
         }
       ],
-      "duration_ms": 260466,
-      "name": "Speak",
-      "url": "https://open.spotify.com/track/4KUzH3n3EJYz5ltMHuDKUV"
+      "duration_ms": 256226,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/6sVrA1nimqutReZF9V4n6R"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/1nFQuXVKFf4FqmJcuyG7eS"
+        "name": "Speak",
+        "url": "https://open.spotify.com/album/5joR8lkcklTpO3o8dPVsoI"
       },
       "artists": [
         {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+          "name": "Bethany Music",
+          "url": "https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP"
         }
       ],
-      "duration_ms": 256226,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/6sVrA1nimqutReZF9V4n6R"
+      "duration_ms": 260466,
+      "name": "Speak",
+      "url": "https://open.spotify.com/track/4KUzH3n3EJYz5ltMHuDKUV"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Come to Jesus (Reconciliation Hymn)",
-        "url": "https://open.spotify.com/album/0S8jHEfJD9U72PUj4VZTWR"
-      },
-      "artists": [
-        {
-          "name": "People of The Earth",
-          "url": "https://open.spotify.com/artist/05fX9C5f0vRtX6WhiaaGL5"
-        }
-      ],
-      "duration_ms": 317549,
-      "name": "Come To Jesus (Reconciliation Hymn)",
-      "url": "https://open.spotify.com/track/4tFOi2oVttR898yfx1TYXs"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Songs of the House (Live)",
         "url": "https://open.spotify.com/album/2hM80SW0Vs6ekzIPFzQrwg"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 312773,
       "name": "Liberator - Live",
       "url": "https://open.spotify.com/track/6AOHOfoyvCA0tTshLFhCFM"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Come to Jesus (Reconciliation Hymn)",
+        "url": "https://open.spotify.com/album/0S8jHEfJD9U72PUj4VZTWR"
+      },
+      "artists": [
+        {
+          "name": "People of The Earth",
+          "url": "https://open.spotify.com/artist/05fX9C5f0vRtX6WhiaaGL5"
+        }
+      ],
+      "duration_ms": 317549,
+      "name": "Come To Jesus (Reconciliation Hymn)",
+      "url": "https://open.spotify.com/track/4tFOi2oVttR898yfx1TYXs"
     },
     {
       "added_at": "2020-06-26 04:02:00",

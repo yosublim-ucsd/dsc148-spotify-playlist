@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW! Cover: Charlie Lim
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,432 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,436 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 38 | [perayaan mati rasa](https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f) | [Umay Shahab](https://open.spotify.com/artist/1Mupz2Po4xVP1xQL8yPDGa), [Natania Karin](https://open.spotify.com/artist/4HtAIvJXDROCWO5Bb9dL9d) | [when it all ends HERE](https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL) | 4:45 |
 | 39 | [Usik](https://open.spotify.com/track/5GgRntbjr23OK9MMST02di) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Riuh](https://open.spotify.com/album/0t4RNN2t8lhd9yI9YxFHk5) | 5:11 |
 | 40 | [Itu Aku](https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Renung Resah](https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj) | 3:42 |
-| 41 | [Haunting](https://open.spotify.com/track/0I0EPca5WhAzyzsPdnJYDJ) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2), [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Haunting](https://open.spotify.com/album/4naAjJSa7uUkp0EWtEKJSA) | 3:09 |
-| 42 | [Bernafaslah Sejenak](https://open.spotify.com/track/7mL0RQHHu3N3fYFwawa8Mx) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Bernafaslah Sejenak](https://open.spotify.com/album/7KF9Kk6bpryWfjzTprCylS) | 4:28 |
+| 41 | [Bernafaslah Sejenak](https://open.spotify.com/track/7mL0RQHHu3N3fYFwawa8Mx) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Bernafaslah Sejenak](https://open.spotify.com/album/7KF9Kk6bpryWfjzTprCylS) | 4:28 |
+| 42 | [Haunting](https://open.spotify.com/track/0I0EPca5WhAzyzsPdnJYDJ) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2), [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Haunting](https://open.spotify.com/album/4naAjJSa7uUkp0EWtEKJSA) | 3:09 |
 | 43 | [Cukup](https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Cukup](https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr) | 3:40 |
 | 44 | [Aku Memilihmu](https://open.spotify.com/track/7EKp3CMq9Eb0TF8TLsDne4) | [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb), [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Aku Memilihmu](https://open.spotify.com/album/4Eupz9BkITuFqlHttMeu9K) | 3:51 |
 | 45 | [Jalan Pulang](https://open.spotify.com/track/1ado6H8nwj0izGVinobwuP) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Jalan Pulang](https://open.spotify.com/album/0LqqN2YAboL8vcXqJYpEme) | 3:36 |
 | 46 | [Terima Kasih Cinta](https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Confession No.1](https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v) | 4:11 |
-| 47 | [Kala Sang Surya Tenggelam \(from the Netflix Series "Gadis Kretek"\)](https://open.spotify.com/track/4Ssmc2huU8shKR9aO9PMQH) | [Gadis Kretek \- Cast](https://open.spotify.com/artist/4Vhjay9RCWFn14SVCpXY2a), [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Kala Sang Surya Tenggelam \(from the Netflix Series "Gadis Kretek"\)](https://open.spotify.com/album/6KBxUSNGEAMLGxo9GwpGOt) | 3:21 |
-| 48 | [Tak Berharap Lagi](https://open.spotify.com/track/1UJn9fyMNelBMvWTWu6FDZ) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Tak Berharap Lagi](https://open.spotify.com/album/4yCbbBKsNxrDLXUs1INARs) | 3:57 |
+| 47 | [Tak Berharap Lagi](https://open.spotify.com/track/1UJn9fyMNelBMvWTWu6FDZ) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Tak Berharap Lagi](https://open.spotify.com/album/4yCbbBKsNxrDLXUs1INARs) | 3:57 |
+| 48 | [Kala Sang Surya Tenggelam \(from the Netflix Series "Gadis Kretek"\)](https://open.spotify.com/track/4Ssmc2huU8shKR9aO9PMQH) | [Gadis Kretek \- Cast](https://open.spotify.com/artist/4Vhjay9RCWFn14SVCpXY2a), [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Kala Sang Surya Tenggelam \(from the Netflix Series "Gadis Kretek"\)](https://open.spotify.com/album/6KBxUSNGEAMLGxo9GwpGOt) | 3:21 |
 | 49 | [Luka](https://open.spotify.com/track/3uAbxlHUC7hZkUMQ2NfIOp) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Berona](https://open.spotify.com/album/6sV7rZpvGIIQS1ccs61YXV) | 3:13 |
 | 50 | [Malampagi](https://open.spotify.com/track/6QV8eV3QVFp5upaTYjm7Xy) | [Saixse](https://open.spotify.com/artist/1gV4xyIbGBTuARpaQoFzJQ) | [Malampagi](https://open.spotify.com/album/1FTrY9mP0Cs22oIK6cIcfO) | 4:06 |
 
-Snapshot ID: `MCxjN2RiOGE0ODQ3OTczN2RkOGI3YWVlMGE5YTQyYmFjNGNkODQzYWIx`
+Snapshot ID: `MCxkMjU3NjM4OWM4MThhMTFjZDM2ZmRhZjY3ZTdhYmVjZDBiMDJiYzBi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 
 > Blues \- new and old \- to accompany your drive\. Cover: B.B\. King
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,327 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,361 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 | 9 | [Black Magic Woman](https://open.spotify.com/track/4nmne9J3YCEdhvjTzwiAgu) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Ultimate Santana](https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx) | 3:15 |
 | 10 | [Blue on Black](https://open.spotify.com/track/7GRq9NUgqhxPGUUksX02fk) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Trouble Is...](https://open.spotify.com/album/1ODpJWe2bymqj4DyJfuBE9) | 5:33 |
 | 11 | [Right Place Wrong Time](https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [In The Right Place](https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq) | 2:55 |
-| 12 | [Route 66](https://open.spotify.com/track/6TXnGAr6DLVYshIrMeP0lZ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [New Juke Box Hits](https://open.spotify.com/album/66vytUOJAN0XG0AomrREtH) | 2:51 |
-| 13 | [Wildflowers & Wine](https://open.spotify.com/track/1l8TpQdbsiQvMB9SuPsaiv) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [El Dorado](https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0) | 4:48 |
+| 12 | [Wildflowers & Wine](https://open.spotify.com/track/1l8TpQdbsiQvMB9SuPsaiv) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [El Dorado](https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0) | 4:48 |
+| 13 | [Route 66](https://open.spotify.com/track/6TXnGAr6DLVYshIrMeP0lZ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [New Juke Box Hits](https://open.spotify.com/album/66vytUOJAN0XG0AomrREtH) | 2:51 |
 | 14 | [Going Down](https://open.spotify.com/track/2wnjZXcAT3rCjjqxLeHjv7) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Getting Ready..\. \(World\)](https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI) | 3:24 |
 | 15 | [Texas Flood](https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 5:20 |
 | 16 | [Spoonful](https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:50 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 | 39 | [Working Man](https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Mourning In The Morning](https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe) | 2:27 |
 | 40 | [Hold Me](https://open.spotify.com/track/4QlhhWO6nq5BzSpfU4nJs0) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 3:07 |
 | 41 | [Part of Me](https://open.spotify.com/track/53DRkI3ebM3SbSQm4gQ1vF) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Made Up Mind](https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA) | 4:06 |
-| 42 | [Simple Man](https://open.spotify.com/track/3bNM6obnxsPd9hbJlsrQhL) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Brighter Days](https://open.spotify.com/album/3tvCSsZA2AfdQ1aE2xGF5U) | 3:03 |
-| 43 | [The Sky Is Crying](https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:46 |
+| 42 | [The Sky Is Crying](https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:46 |
+| 43 | [Simple Man](https://open.spotify.com/track/3bNM6obnxsPd9hbJlsrQhL) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Brighter Days](https://open.spotify.com/album/3tvCSsZA2AfdQ1aE2xGF5U) | 3:03 |
 | 44 | [Cold Shot](https://open.spotify.com/track/3QwDN08fGnGfRrsn5wLTej) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Couldn't Stand The Weather \(Legacy Edition\)](https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ) | 4:00 |
 | 45 | [Stumble](https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [My Feeling For the Blues](https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz) | 3:36 |
 | 46 | [Someday Baby](https://open.spotify.com/track/5ZBUC1YafitJgLt8dgZYTW) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [A Bothered Mind](https://open.spotify.com/album/19ox7nB02O5mCJtjqzoqGm) | 3:16 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 | 61 | [Take It All](https://open.spotify.com/track/2H0s28N3rendfnepsj48C6) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Wolf Den](https://open.spotify.com/album/72iUWLyrZgp7WUAIaqX0Np) | 2:57 |
 | 62 | [I'm Glad Trouble Don't Last Always](https://open.spotify.com/track/3vV8nrwMDQQl5KIEQeEq9O) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [I'm Glad Trouble Don't Last Always](https://open.spotify.com/album/3Aa82CRCPN2MqLm0mMb41T) | 4:17 |
 | 63 | [Bright Lights](https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Blak and Blu \(Deluxe Edition\)](https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv) | 5:24 |
-| 64 | [An Honest Man](https://open.spotify.com/track/01Cr7MlISmoh8gMlZBjpko) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [An Honest Man](https://open.spotify.com/album/6YqoghPHyDIIgSsAp7QFdj) | 4:06 |
-| 65 | [We Get By](https://open.spotify.com/track/5PqC3OJ24NIO5pP7me68dn) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [We Get By](https://open.spotify.com/album/162ZDwMcg8NGzp6BPKy58G) | 3:35 |
+| 64 | [We Get By](https://open.spotify.com/track/5PqC3OJ24NIO5pP7me68dn) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [We Get By](https://open.spotify.com/album/162ZDwMcg8NGzp6BPKy58G) | 3:35 |
+| 65 | [An Honest Man](https://open.spotify.com/track/01Cr7MlISmoh8gMlZBjpko) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [An Honest Man](https://open.spotify.com/album/6YqoghPHyDIIgSsAp7QFdj) | 4:06 |
 | 66 | [Albert's Shuffle](https://open.spotify.com/track/1ekio2Gk6WycLArAUJZfxM) | [Mike Bloomfield](https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH) | [Bloomfield\-A Retrospective](https://open.spotify.com/album/5ZkaY6CcFUidEuWc41o9b2) | 6:54 |
 | 67 | [Ain't Got Nobody](https://open.spotify.com/track/4lbqUtqgX3dITgYJMBjCDS) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Genuine Houserocking Music](https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe) | 3:30 |
 | 68 | [What's the Matter with You](https://open.spotify.com/track/0XTGjWG3NIxeJZ2tXzPfpT) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Road I Call Home](https://open.spotify.com/album/2VqfWu26T66FcGvifgLqJ8) | 3:52 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 | 95 | [How Blue Can You Get?](https://open.spotify.com/track/1zuVsc5gf2S2Fp5achygUi) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [The Anthology](https://open.spotify.com/album/7tQFiUboN0vnK7Wavscmdb) | 2:40 |
 | 96 | [Bulletproof \- Tangle Eye Mix](https://open.spotify.com/track/6iy2u83vc4L95HS3JYxSQs) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Kill Or Be Kind](https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA) | 5:19 |
 | 97 | [Thinking 'Bout Myself](https://open.spotify.com/track/3cOKBor2QHIg1V9n7Mue5Q) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Push The Blues Away](https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl) | 3:41 |
-| 98 | [The Pleasure's All Mine](https://open.spotify.com/track/2x4Ag6Npxj78rsp849NDN7) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [The Pleasure's All Mine: The Complete Blues, Ballads and Favorites Sessions](https://open.spotify.com/album/1inwZe8lEy9j9uhJaTRcbE) | 3:43 |
-| 99 | [This Man](https://open.spotify.com/track/06s7QRpHfeiKL3YCIRTKxg) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 5:06 |
+| 98 | [This Man](https://open.spotify.com/track/06s7QRpHfeiKL3YCIRTKxg) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 5:06 |
+| 99 | [The Pleasure's All Mine](https://open.spotify.com/track/2x4Ag6Npxj78rsp849NDN7) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [The Pleasure's All Mine: The Complete Blues, Ballads and Favorites Sessions](https://open.spotify.com/album/1inwZe8lEy9j9uhJaTRcbE) | 3:43 |
 | 100 | [Somehow, Somewhere, Someway](https://open.spotify.com/track/3N8YmS2jHNmziUhqTR7Wk4) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Trouble Is...](https://open.spotify.com/album/1ODpJWe2bymqj4DyJfuBE9) | 5:34 |
 
-Snapshot ID: `MCwxM2UwZTBlOGNiZmI3ODNhYmQ3ZDdiZTcxYzU4NTRhMmM4NGE5MTNh`
+Snapshot ID: `MCw1NzUzOTJhNGI3ODVmNzUwNTdhNmE1MmNjNzczZTdmODZkZjFhM2Yz`

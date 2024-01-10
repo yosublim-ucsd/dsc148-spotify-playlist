@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,432 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,575 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 43 | [Apricots](https://open.spotify.com/track/0WfOuXw05LJq4ik1lVvTzi) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Isles](https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9) | 4:06 |
 | 44 | [Something To Hold On To \(feat\. Clementine Douglas\)](https://open.spotify.com/track/617tj2kCbyrza6mHhzT6JQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Something To Hold On To \(feat\. Clementine Douglas\)](https://open.spotify.com/album/4GwlK3OyqMu3KZ2Yrj6sRI) | 2:55 |
 | 45 | [oh honey](https://open.spotify.com/track/5N0SB5O8pStkjfVk4Zm1Un) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [oh honey](https://open.spotify.com/album/3y3biZ0noKB11ov8WMmePB) | 2:54 |
-| 46 | [Sacrifice](https://open.spotify.com/track/76YXmewvHFse7tBeOTtSx3) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY) | [Sacrifice](https://open.spotify.com/album/4D3QP0SVFo1iRWWACAhmQi) | 4:39 |
-| 47 | [I Remember \- John Summit Remix](https://open.spotify.com/track/3zFsJdVCu29em7VUB3Ujqp) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [I Remember \(John Summit Remix\)](https://open.spotify.com/album/3Y6nr0KlQL9EYVbmvhSf9a) | 4:00 |
+| 46 | [I Remember \- John Summit Remix](https://open.spotify.com/track/3zFsJdVCu29em7VUB3Ujqp) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [I Remember \(John Summit Remix\)](https://open.spotify.com/album/3Y6nr0KlQL9EYVbmvhSf9a) | 4:00 |
+| 47 | [Sacrifice](https://open.spotify.com/track/76YXmewvHFse7tBeOTtSx3) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY) | [Sacrifice](https://open.spotify.com/album/4D3QP0SVFo1iRWWACAhmQi) | 4:39 |
 | 48 | [Dancing On My Own \- Radio Edit](https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns) | 4:38 |
 | 49 | [No One Dies From Love](https://open.spotify.com/track/51DXwluqCo7bx4QAFuGoEm) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme](https://open.spotify.com/album/0HO9NtwyP7ZqB1jZ70MJL6) | 3:06 |
 | 50 | [Help Me Lose My Mind](https://open.spotify.com/track/4FjT3dqUW2Uq0R3pMz5V7C) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 74 | [Be Someone](https://open.spotify.com/track/3OCFPScaJuLwmHJkqtVWoL) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Dark Matter](https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN) | 3:24 |
 | 75 | [Where did you go](https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Where did you go](https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE) | 2:48 |
 
-Snapshot ID: `MCwwYmU4MWI3YTI1NzkwNzAzZjEwNzZkNzNjMmZlYzM2ZThhNTdiZWIy`
+Snapshot ID: `MCxkMWRjOWNmZjBiODM0ODczZWJhZWY2ZDIwMmIyNDJjMTZlOTBkNTli`

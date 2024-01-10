@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy của rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,588 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,519 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 43 | [Bài Này Chill Phết](https://open.spotify.com/track/2nR51wakN5K3AJENqGaNg9) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Bài Này Chill Phết](https://open.spotify.com/album/7vjwxcUJGv2cAD584tBDzn) | 4:36 |
 | 44 | [Bật Nhạc Lên](https://open.spotify.com/track/0hiQvlWSSTr7n1kc1X2Lus) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [Harmonie](https://open.spotify.com/artist/5UaJojKyJSqngDfoUw0P01) | [Bật Nhạc Lên](https://open.spotify.com/album/0YuGAT79ULNpdxzxWVXHFH) | 3:20 |
 | 45 | [XTC \(Xích Thêm Chút\) \(Remix\)](https://open.spotify.com/track/7fNHfgOxPLcg4mQLhCnOHB) | [Rapital](https://open.spotify.com/artist/0wqus4nTxIoJvLZLwBt8Df), [Groovie Lã Thắng](https://open.spotify.com/artist/1yx4rYyjUYupI7Ji1YvXRh), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [Rapitalove](https://open.spotify.com/album/3ULu7EK5sl1zUdx2r7D15E) | 4:03 |
-| 46 | [Liệu Giờ](https://open.spotify.com/track/71Q8QWLpvwvfQ6zM5BdCnm) | [2T](https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH), [Văn](https://open.spotify.com/artist/6BXLroL2A91OYnzzYOTDJv) | [Liệu Giờ](https://open.spotify.com/album/4DyctgZKkMuHCcjQ9UvJbG) | 4:18 |
+| 46 | [Nói Dối](https://open.spotify.com/track/3ET3xHCLMGd57u06A9RjJ0) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Nói Dối](https://open.spotify.com/album/17D8iFrwHgvOXDpaLgHjyP) | 3:26 |
 | 47 | [thế giới thần tiên](https://open.spotify.com/track/2cJyuhqcXvd6ccvAn8NXsL) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 2:50 |
 | 48 | [Anh Chưa Biết Em](https://open.spotify.com/track/0U9TFIiCYcOqULZ2dYJcmu) | [Liu Grace](https://open.spotify.com/artist/5DTQVDm1qjLUoAGC8v85c3) | [Anh Chưa Biết Em](https://open.spotify.com/album/3AtUCcrqH1LnCRjkixPcKQ) | 2:58 |
-| 49 | [Nói Dối](https://open.spotify.com/track/3ET3xHCLMGd57u06A9RjJ0) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Nói Dối](https://open.spotify.com/album/17D8iFrwHgvOXDpaLgHjyP) | 3:26 |
+| 49 | [Liệu Giờ](https://open.spotify.com/track/71Q8QWLpvwvfQ6zM5BdCnm) | [2T](https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH), [Văn](https://open.spotify.com/artist/6BXLroL2A91OYnzzYOTDJv) | [Liệu Giờ](https://open.spotify.com/album/4DyctgZKkMuHCcjQ9UvJbG) | 4:18 |
 | 50 | [Blue Tequila](https://open.spotify.com/track/4MRXbWH2BzuUZcoabj6HRh) | [Táo](https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S) | [Blue Tequila](https://open.spotify.com/album/5ULNoQyv8SWz0qA8zz0AKU) | 3:22 |
 
-Snapshot ID: `MCw3NzYzOGU3MDg4MDNjYmEwYmZlZDZhZjI5MzhhMGFlM2ZhYWRkYjlh`
+Snapshot ID: `MCxjNTg2MzExMDQyNjIzMzY5MjUyNDgxNDU4YTM4ZTJhYTZmYmQ3NWIw`

@@ -4,7 +4,7 @@
 
 > This is Shirley Caesar\. The essential tracks, all in one playlist.
 
-69 songs - 5 hr 10 min
+70 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [I Want To Be Troubled No More](https://open.spotify.com/track/0vw5bu8V54tE25QeQFTLih) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Even Me](https://open.spotify.com/album/6E9ar58WHPraobxdst9pyA) | 2:53 | 2023-05-12 | 2023-09-26 |
 | [I'm Ready](https://open.spotify.com/track/5Q61xrkSzGTaMinDD7a8Tr) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar and Friends](https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW) | 4:53 | 2023-12-26 |  |
 | [If I Hold On \- Voice](https://open.spotify.com/track/2n7hlcA6GJFY56C7Q4vMY1) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Swingin' Into The 21st](https://open.spotify.com/album/6cpuLcJLiDLlDbZaNgUHFU) | 1:38 | 2023-12-13 |  |
-| [It's Alright, It's Ok](https://open.spotify.com/track/0e1ZeCyP0BPBO42qu8MFfY) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Fill This House](https://open.spotify.com/album/3QW28gwaC0BM3w55bVMMfd) | 3:45 | 2023-05-12 |  |
+| [It's Alright, It's Ok](https://open.spotify.com/track/0e1ZeCyP0BPBO42qu8MFfY) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Fill This House](https://open.spotify.com/album/3QW28gwaC0BM3w55bVMMfd) | 3:45 | 2023-05-12 | 2024-01-10 |
+| [It's Alright, It's Ok](https://open.spotify.com/track/0wQIse75vfTmdFvYD48rHS) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Fill This House](https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC) | 3:45 | 2024-01-09 |  |
 | [Jesus](https://open.spotify.com/track/1ikkDtH9Ya4jvbZyd9AyLA) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Jesus I Love Calling Your Name](https://open.spotify.com/album/6GHAu0xi6RbsZI2ONZsBLy) | 3:43 | 2023-05-12 |  |
 | [Jesus Is Everywhere](https://open.spotify.com/track/6ABbtqIc5JjOnJOj7CG3WD) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 4:51 | 2024-01-07 | 2024-01-09 |
 | [Jesus Makes the Difference In Me](https://open.spotify.com/track/3L7ZfCwoXMPz3vy0x57fYC) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 2:53 | 2023-05-12 |  |

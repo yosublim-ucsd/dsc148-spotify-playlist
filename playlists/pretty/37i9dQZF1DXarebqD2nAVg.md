@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > Raw, sentimental feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,488 likes - 75 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,407 likes - 75 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [garden gnomes](https://open.spotify.com/track/5wmwBWwC0JRC6AIpKvqZW5) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [garden gnomes](https://open.spotify.com/album/3qtLuyrhyW7G8GXJI9Xly3) | 2:51 |
 | 2 | [frost](https://open.spotify.com/track/4bmuGIHRJYMjL02yXZeoCd) | [Griffin' Groove](https://open.spotify.com/artist/24NgW9lCc4H75rz6nrfpzD) | [frost](https://open.spotify.com/album/09z9j5sgQR4FjntLAgjqV0) | 2:40 |
 | 3 | [Burnt Coffee](https://open.spotify.com/track/754aGQqZJaznJc5fc2lTbG) | [AAGAPE](https://open.spotify.com/artist/5H0vNnElBgqs1rirt5I15W) | [Burnt Coffee](https://open.spotify.com/album/7JLxezcgbxK6owUxAtJnsA) | 2:06 |
-| 4 | [Lose Traction](https://open.spotify.com/track/7o60oOsQGf3tpFrU2r6vVX) | [Vries](https://open.spotify.com/artist/5i5SZplABmVMOyE66RrL9U) | [Lose Traction](https://open.spotify.com/album/2AhbbB9ew0PQJrgPq77iKb) | 1:50 |
-| 5 | [roamwave](https://open.spotify.com/track/5LaOfGGkGFUyUdULSwGzwc) | [ai sayuri](https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ) | [roamwave](https://open.spotify.com/album/5IbovMKmZTv0ikkb3qmnSy) | 2:18 |
+| 4 | [roamwave](https://open.spotify.com/track/5LaOfGGkGFUyUdULSwGzwc) | [ai sayuri](https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ) | [roamwave](https://open.spotify.com/album/5IbovMKmZTv0ikkb3qmnSy) | 2:18 |
+| 5 | [Lose Traction](https://open.spotify.com/track/7o60oOsQGf3tpFrU2r6vVX) | [Vries](https://open.spotify.com/artist/5i5SZplABmVMOyE66RrL9U) | [Lose Traction](https://open.spotify.com/album/2AhbbB9ew0PQJrgPq77iKb) | 1:50 |
 | 6 | [Hydra](https://open.spotify.com/track/3rWFeNkAIxfHy0MvHdzvAj) | [Smith Village Beat Street](https://open.spotify.com/artist/40rTd7D3ud1Q9BB4Qop0WF) | [21st Trail](https://open.spotify.com/album/2TYiO5QeDiFYvPy0NzajDb) | 1:47 |
 | 7 | [Dreemin'](https://open.spotify.com/track/6L4ZXA6ROpbQCF8UlDqZ9A) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Dreemin'](https://open.spotify.com/album/44WEHjidINWRXTcjHP9mF0) | 2:11 |
 | 8 | [stars](https://open.spotify.com/track/3ac8arqtWalbF7IOrgXzoi) | [Tooslo](https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK) | [stars](https://open.spotify.com/album/7zATELz7aEu6qqWkPt4f47) | 2:12 |
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 15 | [roadtrip](https://open.spotify.com/track/70Kjb1MyC82FjzhiPiBPU4) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [roadtrip](https://open.spotify.com/album/4QiEuN6Pu7bPE64XmZDqpy) | 2:17 |
 | 16 | [fingerlock](https://open.spotify.com/track/3oRubNxLgB33gbB7OqfhNg) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [fingerlock](https://open.spotify.com/album/30gzL3AApuVLB10SZXooW2) | 2:06 |
 | 17 | [reflections in water](https://open.spotify.com/track/5ZPeC07wnQMCVJ4FU6tee9) | [sample mode](https://open.spotify.com/artist/2DGAFB9eNsTcy6LSlvbNft), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [reflections in water](https://open.spotify.com/album/2HxJ1HI1Anen7ey9SJWIWI) | 2:20 |
-| 18 | [Under The Tree](https://open.spotify.com/track/420Lnd8GyiUS2HGt5NQBja) | [Chrisolof](https://open.spotify.com/artist/3j5LR5BmDSKqCvNRuAqCKI) | [Under The Tree](https://open.spotify.com/album/3aTq47AQERmjnRyrsQqswn) | 1:54 |
-| 19 | [Disconnect](https://open.spotify.com/track/0wtiWVOOK5PJ4yP3VcnTui) | [A Space for Rent](https://open.spotify.com/artist/2KwuWKQTW1b7IAzs7eEEGX) | [Disconnect](https://open.spotify.com/album/3rhmOQwuwvh2YOevVyAcFQ) | 2:00 |
-| 20 | [perspective](https://open.spotify.com/track/3aLdjPCbmgvfAo3K0zDgRh) | [bax iv](https://open.spotify.com/artist/0JZZhhFnYFY5c4mDXTgj42) | [perspective](https://open.spotify.com/album/3q7cd1dOCKHaIsrovofGGk) | 1:57 |
+| 18 | [Disconnect](https://open.spotify.com/track/0wtiWVOOK5PJ4yP3VcnTui) | [A Space for Rent](https://open.spotify.com/artist/2KwuWKQTW1b7IAzs7eEEGX) | [Disconnect](https://open.spotify.com/album/3rhmOQwuwvh2YOevVyAcFQ) | 2:00 |
+| 19 | [Under The Tree](https://open.spotify.com/track/420Lnd8GyiUS2HGt5NQBja) | [Chrisolof](https://open.spotify.com/artist/3j5LR5BmDSKqCvNRuAqCKI) | [Under The Tree](https://open.spotify.com/album/3aTq47AQERmjnRyrsQqswn) | 1:54 |
+| 20 | [No Awake Zone](https://open.spotify.com/track/1CjQkzy5U9tfFioVFXBqvp) | [Pat Laine](https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g) | [No Awake Zone](https://open.spotify.com/album/3Le5RTJqJ8uPcK3XEdOYC3) | 2:18 |
 | 21 | [Fonnes](https://open.spotify.com/track/65UIzaDJ2rx4pITfzsBCp6) | [J Mariou](https://open.spotify.com/artist/0EtOuwnEN1iBz6miiq5NfW) | [Fonnes](https://open.spotify.com/album/04ImQ4X8Cf4mrs9jK4KOLB) | 2:14 |
-| 22 | [No Awake Zone](https://open.spotify.com/track/1CjQkzy5U9tfFioVFXBqvp) | [Pat Laine](https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g) | [No Awake Zone](https://open.spotify.com/album/3Le5RTJqJ8uPcK3XEdOYC3) | 2:18 |
+| 22 | [perspective](https://open.spotify.com/track/3aLdjPCbmgvfAo3K0zDgRh) | [bax iv](https://open.spotify.com/artist/0JZZhhFnYFY5c4mDXTgj42) | [perspective](https://open.spotify.com/album/3q7cd1dOCKHaIsrovofGGk) | 1:57 |
 | 23 | [cabin in the woods](https://open.spotify.com/track/68Tr47vEwCpIwHfD71BfEY) | [L O K P I K](https://open.spotify.com/artist/5cBhqrr27KHAzJ5GyoApmh) | [cabin in the woods](https://open.spotify.com/album/7hIKQzPwgFFZCJ1Hn3JyE6) | 2:02 |
 | 24 | [trading places](https://open.spotify.com/track/3kNIeRg8ylrkCzZ28D28Rj) | [Mig Palmer](https://open.spotify.com/artist/71xp4bzwr88dkz3t8vTL3Y) | [trading places](https://open.spotify.com/album/6IHy6eRU3YJCEuEmkrfKdP) | 1:48 |
 | 25 | [Clouds](https://open.spotify.com/track/1KohJWIWwDDw7mBxs2wv90) | [Bill Snoozer](https://open.spotify.com/artist/20z7TXde6nPUsv561EMQZo) | [Clouds](https://open.spotify.com/album/3Qz7hcEsSRjN1akGaNuM4N) | 2:44 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 39 | [Choke](https://open.spotify.com/track/2bSN2xip2QqAWzpziLxbiy) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E) | [Choke](https://open.spotify.com/album/40Ig3tBAjg46yp6XMUdxDg) | 3:00 |
 | 40 | [I Have Love for Everyone Besides Myself.](https://open.spotify.com/track/6okflAl3X7elXPx7MgJMi6) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:41 |
 | 41 | [Lie](https://open.spotify.com/track/7MPSf8sY2Ry1XkMasl7mgb) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Over Skies](https://open.spotify.com/album/6h8dWi1kVq0JA4Cg0GCrGJ) | 4:07 |
-| 42 | [emerald](https://open.spotify.com/track/0kglaBttNwzxtNeDdWafej) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [in.the.forest.we.are.wizards](https://open.spotify.com/album/5dtl7XhfdMYSmTBaBSuaTS) | 2:34 |
-| 43 | [Magic Mind](https://open.spotify.com/track/3nqicEuiIvZvqtHeQtue74) | [Duane Drew](https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J) | [Magic Mind](https://open.spotify.com/album/2sqn4T8rIqQkc0WHBabWIC) | 2:35 |
+| 42 | [Magic Mind](https://open.spotify.com/track/3nqicEuiIvZvqtHeQtue74) | [Duane Drew](https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J) | [Magic Mind](https://open.spotify.com/album/2sqn4T8rIqQkc0WHBabWIC) | 2:35 |
+| 43 | [emerald](https://open.spotify.com/track/0kglaBttNwzxtNeDdWafej) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [in.the.forest.we.are.wizards](https://open.spotify.com/album/5dtl7XhfdMYSmTBaBSuaTS) | 2:34 |
 | 44 | [Driftwood](https://open.spotify.com/track/7JVfIv0ymBzxJNGuWpHbWZ) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [Corals](https://open.spotify.com/album/1o5iflLRe5yh0B8o9gbbF4) | 2:04 |
 | 45 | [Sick of This](https://open.spotify.com/track/3XKAwOCIYtttde7vLMD5Jo) | [Just Big Hills](https://open.spotify.com/artist/2ih5O9wwxSSYLe9Bnce309) | [When You Forgive](https://open.spotify.com/album/5xG0QYLqbR4dTJknfhYtlu) | 3:53 |
 | 46 | [making her smile](https://open.spotify.com/track/6jE4qBqHoR90GPI4D5W882) | [Equity Slate](https://open.spotify.com/artist/5DGq8gX5QOoVCJEyf4Pe1Q), [soojeong](https://open.spotify.com/artist/4rEitMoJNhlt1utt58uuAO) | [Apart](https://open.spotify.com/album/5e0VJVWtQZQt7v0zgAi2If) | 1:12 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 49 | [No I'm Not](https://open.spotify.com/track/2QE6nuYctAHddZOupghtms) | [Imfinenow](https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy) | [No I'm Not](https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh) | 1:57 |
 | 50 | [Now, I See](https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:43 |
 | 51 | [Anything Like Her \(feat\. Tiffi\)](https://open.spotify.com/track/1naqrWNoxyi6PEXz3NOXW0) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ), [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [Snow Rose](https://open.spotify.com/album/3RQQK5575LOEB9MS6UgNt9) | 3:11 |
-| 52 | [Melatonin](https://open.spotify.com/track/6GgEUzd0UDtcCTFh5tmuXI) | [Laflov](https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH) | [Soft Life](https://open.spotify.com/album/6lddJ60eyGfolq2i9Y7HTV) | 2:12 |
-| 53 | [Blue](https://open.spotify.com/track/5jZeQRVMRWsSSYnp8tgrsq) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [Clockwork](https://open.spotify.com/album/51EKtNFncEaNE3TCUR6m5i) | 2:03 |
+| 52 | [Blue](https://open.spotify.com/track/5jZeQRVMRWsSSYnp8tgrsq) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [Clockwork](https://open.spotify.com/album/51EKtNFncEaNE3TCUR6m5i) | 2:03 |
+| 53 | [Melatonin](https://open.spotify.com/track/6GgEUzd0UDtcCTFh5tmuXI) | [Laflov](https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH) | [Soft Life](https://open.spotify.com/album/6lddJ60eyGfolq2i9Y7HTV) | 2:12 |
 | 54 | [Hold on, Pt\. 2](https://open.spotify.com/track/5CiJgYqEopAiCRBOjMb5j0) | [Ok2222](https://open.spotify.com/artist/032KwgTrwjRFmANQ7R0oKX) | [Lonely](https://open.spotify.com/album/3GntHIEeqqemhISRVDjkl3) | 1:24 |
 | 55 | [Seymour \(with Dawn Golden\)](https://open.spotify.com/track/3tpr337B8DsgKo7JR2eYAS) | [Drevm](https://open.spotify.com/artist/4pHeEHS66wGubk4WCJ5BZG), [Dawn Golden](https://open.spotify.com/artist/6MzxeKydmXufvX7HYPknFW) | [Seymour \(with Dawn Golden\)](https://open.spotify.com/album/7BccR0AIrdXUozgZTAX6gE) | 1:53 |
 | 56 | [Home Soon](https://open.spotify.com/track/0plIIWDys4UBGmura01RpY) | [yuzu blur](https://open.spotify.com/artist/2NnBvycZmkfFgGyiWZEX3R) | [Home Soon](https://open.spotify.com/album/4CL7sl8FwxJ0HjYCf6Al0k) | 2:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 74 | [talk it out](https://open.spotify.com/track/2KCqN5JT7Q0acXwUj13UFP) | [Rob Smyles](https://open.spotify.com/artist/6KIclyZuF2o55kSUaiRe5P) | [Babymakers](https://open.spotify.com/album/3hFsnrRLJcA7a3uT0DaTip) | 3:31 |
 | 75 | [memories of u](https://open.spotify.com/track/64VWsh5helyoWopibmzXmf) | [drrreems](https://open.spotify.com/artist/5JaZBeFp8gpQZVR20WYQhc) | [memories of u](https://open.spotify.com/album/6rI3ZkZYNY8Sn2l0HL06c9) | 1:56 |
 
-Snapshot ID: `MCwxZGMzYTFlNmJkNWM0ZGM0MjI2MzkwMzRiYzMxMDk3YjEzOTdjOWFk`
+Snapshot ID: `MCxhZTIzMDdlNmQ4YWMwZDIwN2RmMTY4NDIyNWVjODc4MDcxNzAwNGE3`

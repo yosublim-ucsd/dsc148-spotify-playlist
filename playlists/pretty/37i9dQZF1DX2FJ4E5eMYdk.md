@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > groovy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,719 likes - 60 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,730 likes - 60 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 17 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 |
 | 18 | [Loading Zones](https://open.spotify.com/track/0Z6W8GqZLM7DmgKp2jY6Pd) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Bottle It In](https://open.spotify.com/album/1UVthTEgHP0WcZZxqHtkvL) | 3:23 |
 | 19 | [More Of The Same](https://open.spotify.com/track/1e2LGT07diSwc7UYnK7txi) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [LONER](https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr) | 4:08 |
-| 20 | [Some Sunsick Day](https://open.spotify.com/track/7kXJUbAAPx2Bc4tKASpV5T) | [Morgan Delt](https://open.spotify.com/artist/29ITaP4nYGDlz54m7pLJL1) | [Phase Zero](https://open.spotify.com/album/2B3pV6PcT7nwqrWrheOqWP) | 5:11 |
-| 21 | [Quite Like You](https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 3:25 |
+| 20 | [Quite Like You](https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 3:25 |
+| 21 | [Some Sunsick Day](https://open.spotify.com/track/7kXJUbAAPx2Bc4tKASpV5T) | [Morgan Delt](https://open.spotify.com/artist/29ITaP4nYGDlz54m7pLJL1) | [Phase Zero](https://open.spotify.com/album/2B3pV6PcT7nwqrWrheOqWP) | 5:11 |
 | 22 | [Lady Luck](https://open.spotify.com/track/4zdSkZqBNo0fHmviHOtxGe) | [Richard Swift](https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr) | [The Atlantic Ocean](https://open.spotify.com/album/4IwiiZ3EaJ1FKeHyVatLIO) | 4:18 |
 | 23 | [O.N.E.](https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [L.W.](https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx) | 3:40 |
 | 24 | [Apollo's Mood](https://open.spotify.com/track/5pvYvvO0IDkuK1FDWPWMXy) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [The Olympians](https://open.spotify.com/album/7ojJo7v7xOsKYWjLfpw4tJ) | 4:31 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 45 | [Baby Bluebird](https://open.spotify.com/track/5MS4QMgwaZJna9wev1S6yh) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:49 |
 | 46 | [Sing a Glad Song](https://open.spotify.com/track/0NvChpeglptzoEUB7jmcvz) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Oh My God](https://open.spotify.com/album/0iLJfkAoeTd3BSj9IguASU) | 4:22 |
 | 47 | [Seaquest](https://open.spotify.com/track/2VsAxaacbKF0L54eymlPVd) | [Sleepy Sun](https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0) | [Private Tales](https://open.spotify.com/album/2A2CCRLatKBrBodEp4UIz6) | 4:26 |
-| 48 | [Automechanic](https://open.spotify.com/track/2olbQTZqVPYON832yjCQuF) | [Jenny O.](https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0) | [Automechanic](https://open.spotify.com/album/1pfjL9bWfGdlnWUvkxwePA) | 3:48 |
-| 49 | [Nighthawks](https://open.spotify.com/track/3VGFQIgw8EZpjpuqcmRSc5) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [Panther in the Dollhouse](https://open.spotify.com/album/4KgEdCY2anj26R16gSbqwn) | 3:23 |
+| 48 | [Nighthawks](https://open.spotify.com/track/3VGFQIgw8EZpjpuqcmRSc5) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [Panther in the Dollhouse](https://open.spotify.com/album/4KgEdCY2anj26R16gSbqwn) | 3:23 |
+| 49 | [Automechanic](https://open.spotify.com/track/2olbQTZqVPYON832yjCQuF) | [Jenny O.](https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0) | [Automechanic](https://open.spotify.com/album/1pfjL9bWfGdlnWUvkxwePA) | 3:48 |
 | 50 | [Kingfisher](https://open.spotify.com/track/4pG41oVPVexrDlwnvT2xtt) | [Wolf People](https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK) | [Ruins](https://open.spotify.com/album/71ujjjzO4U0ED11m2tVzKu) | 6:58 |
 | 51 | [Where Do You Go When You Dream](https://open.spotify.com/track/2bdDETZsaSuA00ctnPEnLX) | [Woods](https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ) | [Strange to Explain](https://open.spotify.com/album/6W3ljBUTGb9FhuOVZBPbQI) | 5:51 |
 | 52 | [Cecil Taylor](https://open.spotify.com/track/1GCDmw5OI2g1k6CrcVn8wl) | [Jonathan Wilson](https://open.spotify.com/artist/6KJIIOCWsWtNc7ICINtPEw) | [Fanfare](https://open.spotify.com/album/5yZL2ILFTbQFb64nD7zXO1) | 6:30 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 54 | [Fireflies](https://open.spotify.com/track/2IvIUND7ZGjPftDyOYAWJ9) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Flying Wig](https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm) | 4:51 |
 | 55 | [Juniper Arms](https://open.spotify.com/track/7gEjjZeZIpN6noZyo0vN5U) | [Adam Torres](https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8) | [Pearls to Swine](https://open.spotify.com/album/5vzBUbGigJfjW23Deldzca) | 6:00 |
 | 56 | [That's Why](https://open.spotify.com/track/11U2oE7JtimG9mtqSb4bNk) | [The Cave Singers](https://open.spotify.com/artist/4SjCvf9Ctuz369ZKAnjkZP) | [Banshee](https://open.spotify.com/album/31UJBB7T1tlLwqEXSjrUCt) | 4:13 |
-| 57 | [Trust Me](https://open.spotify.com/track/2e8mFEbOdFBVBlqmo6nas0) | [Barnaby Keen](https://open.spotify.com/artist/6D9DHfYu4mNuNgCe5kDnBA) | [Trust Me](https://open.spotify.com/album/0YCsUvfWmhU7Yuzc8nbJsq) | 3:41 |
-| 58 | [Far out Feeling](https://open.spotify.com/track/7cXOCT8IbMLFXiCeRExTJ6) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [& I'm Fine Today](https://open.spotify.com/album/5BMjWYvNyJDfdW5Gzfyc21) | 3:38 |
+| 57 | [Far out Feeling](https://open.spotify.com/track/7cXOCT8IbMLFXiCeRExTJ6) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [& I'm Fine Today](https://open.spotify.com/album/5BMjWYvNyJDfdW5Gzfyc21) | 3:38 |
+| 58 | [Trust Me](https://open.spotify.com/track/2e8mFEbOdFBVBlqmo6nas0) | [Barnaby Keen](https://open.spotify.com/artist/6D9DHfYu4mNuNgCe5kDnBA) | [Trust Me](https://open.spotify.com/album/0YCsUvfWmhU7Yuzc8nbJsq) | 3:41 |
 | 59 | [Habbie Doobie](https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Habbie Doobie](https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk) | 6:16 |
-| 60 | [Just Like Me](https://open.spotify.com/track/0amncKBwEYANfX3OyDTFXk) | [Duff Thompson](https://open.spotify.com/artist/7plKpA9qc63luCHs3aEjfQ) | [Just Like Me](https://open.spotify.com/album/4bDZQ6ol7onKLvAhMEv4Ui) | 3:04 |
+| 60 | [Do What Feeds Your Soul](https://open.spotify.com/track/3vgVc48A4Zx2GvBblEMxce) | [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA), [Shannon LaBrie](https://open.spotify.com/artist/2hbQ7GP1FxLy7D8lRX2Kq7) | [Do What Feeds Your Soul](https://open.spotify.com/album/1MCMIRmD3RAj9zbMLfdADw) | 2:35 |
 
-Snapshot ID: `MCwxMGIxNDIyZWRjNDZlNTNiOWZjNzNlY2ExYzMzOWVjM2FiZWY1Yjcz`
+Snapshot ID: `MCxkMjhlMDQ1NDlmZjZhZTc5Yjg3MmJiNDA5YzVhM2U5YjUzNzFhZmY4`

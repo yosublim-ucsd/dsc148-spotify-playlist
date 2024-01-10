@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Green Day, Bring Me The Horizon, ヨルシカ and more! Cover: Green Day
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,544 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,493 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 49 | [TODAY IS THA DAY](https://open.spotify.com/track/6i2l5wx2Jkl60mlgGDJSrJ) | [Tha Omedetaz](https://open.spotify.com/artist/3tYjCmnVPzQP8lzbZzJfzL) | [TODAY IS THA DAY](https://open.spotify.com/album/0VCHjrkPOrGO17xiagfdmK) | 2:59 |
 | 50 | [My Golden Years](https://open.spotify.com/track/28NQHKpVvnf03kWFWIWMXR) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [My Golden Years](https://open.spotify.com/album/0cqMtiIhqVJMqjz8Tffsoj) | 3:13 |
 
-Snapshot ID: `MCw0NzIwMzZiNzI3MTBhMTUwYWM1MGNhNzg1NDFjYWE4NWNhMmFiYzc2`
+Snapshot ID: `MCw3OGUzODY1YWNiNDA0NzFhMjNhMWNjN2U1MTAxMmU3OTVlNzEwODYy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 
 > All your favourite Country songs in one place! Featuring: <a href="https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2?si=kKJMQnyCQCy3pCG6FSOKlw"> Zach Bryan</a>, Bailey Zimmerman, The Castellows, Warren Zeiders, Cody Johnson, Dan + Shay,  Cole Swindell, Kenny Chesney &amp; many more
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 35,134 likes - 65 songs - 3 hr 33 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 35,116 likes - 65 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 | 9 | [Thinkin’ Bout Me](https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 2:57 |
 | 10 | [I Will \(When You Do\)](https://open.spotify.com/track/7BH39iq4k2366YgJgbf8b4) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D), [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [I Will \(When You Do\)](https://open.spotify.com/album/3k21cPHIBHoevXbpvLrgoH) | 3:27 |
 | 11 | [We Should Get A Drink Sometime](https://open.spotify.com/track/0eIghbzgNwsFL26W2wyPS4) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [We Should Get A Drink Sometime](https://open.spotify.com/album/68Wj8LVQQUCQB36Z3UXhTu) | 3:09 |
-| 12 | [Miss Summer](https://open.spotify.com/track/402L1iawY3D4ZQjPiHT38e) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Miss Summer](https://open.spotify.com/album/5txjDzcOmllhkmG4KUjFYi) | 2:30 |
+| 12 | [Miss Summer](https://open.spotify.com/track/402L1iawY3D4ZQjPiHT38e) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Miss Summer](https://open.spotify.com/album/5txjDzcOmllhkmG4KUjFYi) | 2:31 |
 | 13 | [Wildflowers and Wild Horses \(Single Version\)](https://open.spotify.com/track/6d3QUBsiAw3aZI6F2mMhzk) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Wildflowers and Wild Horses](https://open.spotify.com/album/4yec2VewOzxBHjBgQ0yauV) | 3:36 |
 | 14 | [This Ol' Rodeo](https://open.spotify.com/track/4IhE9UIoeY1kzdIEJk5AfF) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [This Ol' Rodeo](https://open.spotify.com/album/1yjrPK4BGFnfdZWmJpypsl) | 4:18 |
 | 15 | [Beautiful Lies](https://open.spotify.com/track/5bLgdnoxwts6ihPpv5G2dV) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Beautiful Lies](https://open.spotify.com/album/6l4pvSCSSeBuUpyQaCAGoC) | 3:52 |

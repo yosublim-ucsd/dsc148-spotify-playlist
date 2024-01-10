@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4boG5Z.md) - [plain]
 
 > This is Millencolin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,869 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,870 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4boG5Z.md) - [plain]
 | 23 | [Dance Craze](https://open.spotify.com/track/2lgg5VzE1GUtmgxLz8r6u2) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Same Old Tunes](https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0) | 2:01 |
 | 24 | [Silent Suicide](https://open.spotify.com/track/01e8hJ0WCiqM3m0y1F7Iqo) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [True Brew](https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno) | 1:19 |
 | 25 | [Happiness For Dogs](https://open.spotify.com/track/5sSOSrmrxyiucqvoStb5oq) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Home From Home](https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn) | 3:25 |
-| 26 | [Farewell My Hell](https://open.spotify.com/track/1W18sciWbMzbsaK3OzcQoh) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Kingwood](https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV) | 2:51 |
-| 27 | [Vulcan Ears](https://open.spotify.com/track/5N3LmVCqLneS7NkmDwozXZ) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Life On A Plate](https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY) | 2:06 |
+| 26 | [Vulcan Ears](https://open.spotify.com/track/5N3LmVCqLneS7NkmDwozXZ) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Life On A Plate](https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY) | 2:06 |
+| 27 | [Farewell My Hell](https://open.spotify.com/track/1W18sciWbMzbsaK3OzcQoh) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Kingwood](https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV) | 2:51 |
 | 28 | [Something I Would Die For](https://open.spotify.com/track/1DQ7ahNI475OGg2aNib4V2) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [True Brew](https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno) | 2:50 |
 | 29 | [Man Or Mouse](https://open.spotify.com/track/7eIdwfEjqrMtfB7YOu3yBG) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Home From Home](https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn) | 3:04 |
 | 30 | [Leona](https://open.spotify.com/track/1meXK8bC29YKP011kHQml1) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Same Old Tunes](https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0) | 2:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4boG5Z.md) - [plain]
 | 49 | [Stalemate](https://open.spotify.com/track/3vBpFa87OtswBtpVKvke4I) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Kingwood](https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV) | 3:18 |
 | 50 | [Sour Days](https://open.spotify.com/track/2i27IazgPge4Q08c6YYhk0) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [SOS](https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711) | 3:07 |
 
-Snapshot ID: `Mjg0MTE5MDAsMDAwMDAwMDAwODc2NThkNDY0ZWYwNzE4YzZmZTMzODYwMjk3MTA5Zg==`
+Snapshot ID: `Mjg0MTMzOTgsMDAwMDAwMDBhNGNmZmIxZjNkM2Y3MWI0MmM0NGUxMjBkZDRiMThkOQ==`

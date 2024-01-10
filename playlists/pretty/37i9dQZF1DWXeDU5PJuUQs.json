@@ -1,12 +1,12 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes.",
-  "num_followers": 136953,
+  "num_followers": 136912,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZGEwYTQ4ZGFkMThjYjIyODljODQ2OWZkNThhYTYzZTM0M2ZmNzEw",
+  "snapshot_id": "MCxkM2NiNGZiMTZjNTFkNjFkOTBhOGNlM2I1MDQyYjVkMTNmNDkzYTBi",
   "tracks": [
     {
       "added_at": "2023-12-29 03:00:00",
@@ -1031,22 +1031,18 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "La Cancioncita (En Vivo en el Luna Park)",
-        "url": "https://open.spotify.com/album/7pMmJWBQlASCck4Q8eN4Zj"
+        "name": "En Vivo Desde el Teatro Opera",
+        "url": "https://open.spotify.com/album/1fFkykZxNYcnlCcXAqzIyy"
       },
       "artists": [
         {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
-        },
-        {
-          "name": "Orquesta Infanto-juvenil de Constituci\u00f3n",
-          "url": "https://open.spotify.com/artist/46wLN4FFktx8BW3Cupi56v"
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
         }
       ],
-      "duration_ms": 339212,
-      "name": "La Cancioncita - En Vivo en el Luna Park",
-      "url": "https://open.spotify.com/track/2tpT0U8jjwUphoM6Ljjffp"
+      "duration_ms": 433520,
+      "name": "Karma / Me Voy / Solita Me Voy - En Vivo",
+      "url": "https://open.spotify.com/track/7yAvnC7FXbIS3jdGtHXYbm"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -1067,18 +1063,22 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "En Vivo Desde el Teatro Opera",
-        "url": "https://open.spotify.com/album/1fFkykZxNYcnlCcXAqzIyy"
+        "name": "La Cancioncita (En Vivo en el Luna Park)",
+        "url": "https://open.spotify.com/album/7pMmJWBQlASCck4Q8eN4Zj"
       },
       "artists": [
         {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        },
+        {
+          "name": "Orquesta Infanto-juvenil de Constituci\u00f3n",
+          "url": "https://open.spotify.com/artist/46wLN4FFktx8BW3Cupi56v"
         }
       ],
-      "duration_ms": 433520,
-      "name": "Karma / Me Voy / Solita Me Voy - En Vivo",
-      "url": "https://open.spotify.com/track/7yAvnC7FXbIS3jdGtHXYbm"
+      "duration_ms": 339212,
+      "name": "La Cancioncita - En Vivo en el Luna Park",
+      "url": "https://open.spotify.com/track/2tpT0U8jjwUphoM6Ljjffp"
     },
     {
       "added_at": "2023-12-29 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: VEDO",
-  "num_followers": 43210,
+  "num_followers": 43218,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjA2OWZhZTg4NGNmOTEzY2Y2NmI2ZjIxYzYzNTdjZmVjMGE5Y2U2",
+  "snapshot_id": "MCxjYjQwOWZkMDdjOTVkZDY1NGUzZjU4NGM1ZTllZjc1MjJlYjMyN2I0",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -417,24 +417,24 @@
       "url": "https://open.spotify.com/track/1luvsaicSpNDRLgOtRZxWO"
     },
     {
-      "added_at": "2023-07-28 08:00:10",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Mixed Emotions",
-        "url": "https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ"
+        "name": "How Does It Feel",
+        "url": "https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg"
       },
       "artists": [
         {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
         },
         {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 195464,
-      "name": "Hate Me (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/5xYprjqVnOkXDxjuGuqL6V"
+      "duration_ms": 166623,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB"
     },
     {
       "added_at": "2023-01-27 05:01:00",
@@ -455,26 +455,6 @@
       "duration_ms": 110400,
       "name": "Step 2 Me",
       "url": "https://open.spotify.com/track/57tg0m3Iu8YzWyaDfFfDtR"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "How Does It Feel",
-        "url": "https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 166623,
-      "name": "How Does It Feel",
-      "url": "https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -499,6 +479,26 @@
       "duration_ms": 281013,
       "name": "Tell Me It's Over (feat. Summer Walker & 6LACK)",
       "url": "https://open.spotify.com/track/47ssddfj7Ug6hO9Ol2AXGu"
+    },
+    {
+      "added_at": "2023-07-28 08:00:10",
+      "album": {
+        "name": "Mixed Emotions",
+        "url": "https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 195464,
+      "name": "Hate Me (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/5xYprjqVnOkXDxjuGuqL6V"
     },
     {
       "added_at": "2023-09-08 05:11:32",
@@ -673,6 +673,22 @@
       "url": "https://open.spotify.com/track/3923eUQ7hXHpceXtoqJVRO"
     },
     {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "Um, Hello",
+        "url": "https://open.spotify.com/album/6WtGNBLv5568Clwzd8u4vj"
+      },
+      "artists": [
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "Crazy Down",
+      "url": "https://open.spotify.com/track/6Dp3TqrwcYRs3KChuVlPMx"
+    },
+    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "Used To Me (feat. Ty Dolla $ign)",
@@ -691,22 +707,6 @@
       "duration_ms": 167591,
       "name": "Used To Me (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1muiS9jrDUTADqIE7yKuYV"
-    },
-    {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "Um, Hello",
-        "url": "https://open.spotify.com/album/6WtGNBLv5568Clwzd8u4vj"
-      },
-      "artists": [
-        {
-          "name": "LAYA",
-          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "Crazy Down",
-      "url": "https://open.spotify.com/track/6Dp3TqrwcYRs3KChuVlPMx"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1205,6 +1205,22 @@
       "url": "https://open.spotify.com/track/0p2Rhf58T7JgvwYqF0DXl1"
     },
     {
+      "added_at": "2023-06-16 05:24:07",
+      "album": {
+        "name": "Pretty Conversation",
+        "url": "https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U"
+      },
+      "artists": [
+        {
+          "name": "JAHKOY",
+          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Man on Fire",
+      "url": "https://open.spotify.com/track/282Gfam1HA1HeQLINewp9V"
+    },
+    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "Kissing On Your Tattoos",
@@ -1235,22 +1251,6 @@
       "duration_ms": 198888,
       "name": "How Many",
       "url": "https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI"
-    },
-    {
-      "added_at": "2023-06-16 05:24:07",
-      "album": {
-        "name": "Pretty Conversation",
-        "url": "https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U"
-      },
-      "artists": [
-        {
-          "name": "JAHKOY",
-          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Man on Fire",
-      "url": "https://open.spotify.com/track/282Gfam1HA1HeQLINewp9V"
     },
     {
       "added_at": "2022-11-04 06:34:53",
@@ -1393,22 +1393,6 @@
       "url": "https://open.spotify.com/track/56QSbiHEHJ55wewvQ3JXMZ"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Thanks 4 Nothing",
-        "url": "https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi"
-      },
-      "artists": [
-        {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        }
-      ],
-      "duration_ms": 149020,
-      "name": "New Nigga",
-      "url": "https://open.spotify.com/track/03sBdwtbA0t5mGOcqHxBXB"
-    },
-    {
       "added_at": "2023-05-05 04:18:58",
       "album": {
         "name": "Take II",
@@ -1427,6 +1411,22 @@
       "duration_ms": 128506,
       "name": "For The Girls",
       "url": "https://open.spotify.com/track/0qgoLkX5xaPFimxtXYNJ1e"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Thanks 4 Nothing",
+        "url": "https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "duration_ms": 149020,
+      "name": "New Nigga",
+      "url": "https://open.spotify.com/track/03sBdwtbA0t5mGOcqHxBXB"
     },
     {
       "added_at": "2022-09-30 04:04:59",
@@ -1545,6 +1545,26 @@
       "url": "https://open.spotify.com/track/3onifXN13iI8OG6PblmC3m"
     },
     {
+      "added_at": "2023-07-28 08:00:10",
+      "album": {
+        "name": "Just Like Me",
+        "url": "https://open.spotify.com/album/4GwFV6yUGdX5sJBJILATNZ"
+      },
+      "artists": [
+        {
+          "name": "Ivory Scott",
+          "url": "https://open.spotify.com/artist/3fpp6yYqQevscivKbtpgPF"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 150361,
+      "name": "Just Like Me",
+      "url": "https://open.spotify.com/track/43dG0O6NZ3NAcAupkxpQn3"
+    },
+    {
       "added_at": "2022-10-28 04:22:42",
       "album": {
         "name": "More Than Friends",
@@ -1575,26 +1595,6 @@
       "duration_ms": 196487,
       "name": "Opps",
       "url": "https://open.spotify.com/track/2b2WMIC8YCeCAjxSi4IEPg"
-    },
-    {
-      "added_at": "2023-07-28 08:00:10",
-      "album": {
-        "name": "Just Like Me",
-        "url": "https://open.spotify.com/album/4GwFV6yUGdX5sJBJILATNZ"
-      },
-      "artists": [
-        {
-          "name": "Ivory Scott",
-          "url": "https://open.spotify.com/artist/3fpp6yYqQevscivKbtpgPF"
-        },
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 150361,
-      "name": "Just Like Me",
-      "url": "https://open.spotify.com/track/43dG0O6NZ3NAcAupkxpQn3"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1697,26 +1697,6 @@
       "url": "https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE"
     },
     {
-      "added_at": "2023-09-08 05:11:32",
-      "album": {
-        "name": "No Rules (Slut Me Out) (Single)",
-        "url": "https://open.spotify.com/album/6KSFtsn6YSViWcgLtrHBYd"
-      },
-      "artists": [
-        {
-          "name": "Sy Ari Da Kid",
-          "url": "https://open.spotify.com/artist/5ZI5pbnKxA6Qy1fVNsjCp0"
-        },
-        {
-          "name": "Paxquiao",
-          "url": "https://open.spotify.com/artist/1YhthHHCDrrokQ3xsYImWd"
-        }
-      ],
-      "duration_ms": 172666,
-      "name": "No Rules (Slut Me Out)",
-      "url": "https://open.spotify.com/track/2av5w5YWi6lZAJKueee1gs"
-    },
-    {
       "added_at": "2023-08-25 04:00:00",
       "album": {
         "name": "RollBack",
@@ -1737,6 +1717,42 @@
       "url": "https://open.spotify.com/track/5CeVK0aXJyPKr5O9tlyCs9"
     },
     {
+      "added_at": "2023-09-01 04:55:52",
+      "album": {
+        "name": "five more",
+        "url": "https://open.spotify.com/album/2M30ZRiU7qF7fGDUimJI2m"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 165428,
+      "name": "five more",
+      "url": "https://open.spotify.com/track/35AVLOV0vZD6hUv1D7djLT"
+    },
+    {
+      "added_at": "2023-09-08 05:11:32",
+      "album": {
+        "name": "No Rules (Slut Me Out) (Single)",
+        "url": "https://open.spotify.com/album/6KSFtsn6YSViWcgLtrHBYd"
+      },
+      "artists": [
+        {
+          "name": "Sy Ari Da Kid",
+          "url": "https://open.spotify.com/artist/5ZI5pbnKxA6Qy1fVNsjCp0"
+        },
+        {
+          "name": "Paxquiao",
+          "url": "https://open.spotify.com/artist/1YhthHHCDrrokQ3xsYImWd"
+        }
+      ],
+      "duration_ms": 172666,
+      "name": "No Rules (Slut Me Out)",
+      "url": "https://open.spotify.com/track/2av5w5YWi6lZAJKueee1gs"
+    },
+    {
       "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "LOVERS WAVE VOL. 1",
@@ -1751,22 +1767,6 @@
       "duration_ms": 108588,
       "name": "Care",
       "url": "https://open.spotify.com/track/1SGEUpFPiZJZLGPrEkxD0R"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Forgotten Flowers",
-        "url": "https://open.spotify.com/album/1fqJVOKRj2A4nBmVAoDFLK"
-      },
-      "artists": [
-        {
-          "name": "ELHAE",
-          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
-        }
-      ],
-      "duration_ms": 190188,
-      "name": "Worked Up",
-      "url": "https://open.spotify.com/track/1vE21myOaFwE4GQzTfXKfS"
     }
   ],
   "unique_name": "Some Kinda Way",

@@ -13102,10 +13102,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 168944,
       "name": "\u6700\u5f8c\u4e00\u6b21\u5fc3\u788e",
       "url": "https://open.spotify.com/track/0Mn3gzrUf0ubQ64XhsL9mY"
+    },
+    {
+      "album": {
+        "name": "\u53bb\u59b3\u7684\u5047\u65e5",
+        "url": "https://open.spotify.com/album/0xfotxxAto1JKcCwrI0oZv"
+      },
+      "artists": [
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168973,
+      "name": "\u6700\u5f8c\u4e00\u6b21\u5fc3\u788e",
+      "url": "https://open.spotify.com/track/5a0LiXM4FmxsR5zj8CDKLo"
     },
     {
       "album": {

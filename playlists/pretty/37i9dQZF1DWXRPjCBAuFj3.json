@@ -1,12 +1,12 @@
 {
   "description": "Il rap pi\u00f9 forte del mondo in una sola playlist. Cover: Central Cee",
-  "num_followers": 208841,
+  "num_followers": 208682,
   "original_name": "Rap Internazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGZkOGY5NGFhYmZjMmU5YmUxNzk1YTNjNjU2OTk0Nzc1ZjcyYzky",
+  "snapshot_id": "MCwwOTUxYzg5MjQ1OGJkZDc3YTQ0NTRmMmI5MGE0NDM1ZjMwYzQyNTc2",
   "tracks": [
     {
       "added_at": "2024-01-08 14:02:34",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-01-08 14:02:34",
       "album": {
-        "name": "LET GO",
-        "url": "https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 174246,
-      "name": "LET GO",
-      "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
-    },
-    {
-      "added_at": "2024-01-08 14:02:34",
-      "album": {
         "name": "Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) [Remix]",
         "url": "https://open.spotify.com/album/3SHx7bBQFI4J8QRr6D5cOK"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 242983,
       "name": "Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix",
       "url": "https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO"
+    },
+    {
+      "added_at": "2024-01-08 14:02:34",
+      "album": {
+        "name": "LET GO",
+        "url": "https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 174246,
+      "name": "LET GO",
+      "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
     },
     {
       "added_at": "2024-01-08 14:02:34",
@@ -859,18 +859,18 @@
     {
       "added_at": "2024-01-08 14:02:34",
       "album": {
-        "name": "Cobra",
-        "url": "https://open.spotify.com/album/08VJzxuxr4leLd9YhJNlQl"
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 168932,
-      "name": "Cobra",
-      "url": "https://open.spotify.com/track/3Kh8X9lHztqVBTgw30HbXn"
+      "duration_ms": 202285,
+      "name": "Rich Spirit",
+      "url": "https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG"
     },
     {
       "added_at": "2024-01-08 14:02:34",
@@ -911,18 +911,18 @@
     {
       "added_at": "2024-01-08 14:02:34",
       "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+        "name": "Cobra",
+        "url": "https://open.spotify.com/album/08VJzxuxr4leLd9YhJNlQl"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 202285,
-      "name": "Rich Spirit",
-      "url": "https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG"
+      "duration_ms": 168932,
+      "name": "Cobra",
+      "url": "https://open.spotify.com/track/3Kh8X9lHztqVBTgw30HbXn"
     },
     {
       "added_at": "2024-01-08 14:02:34",
@@ -951,22 +951,22 @@
     {
       "added_at": "2024-01-08 14:02:34",
       "album": {
-        "name": "Split Decision",
-        "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
+        "name": "YOUNGSTA",
+        "url": "https://open.spotify.com/album/65dEDwbxXWzx93f6Vs5A0Q"
       },
       "artists": [
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
         },
         {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
         }
       ],
-      "duration_ms": 198026,
-      "name": "UK Rap",
-      "url": "https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2"
+      "duration_ms": 172427,
+      "name": "SIMARIK",
+      "url": "https://open.spotify.com/track/5m0FBZ3g71Tv2v5XYZ4pKv"
     },
     {
       "added_at": "2024-01-08 14:02:34",
@@ -983,6 +983,26 @@
       "duration_ms": 129360,
       "name": "In Ha Mood",
       "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
+    },
+    {
+      "added_at": "2024-01-08 14:02:34",
+      "album": {
+        "name": "Split Decision",
+        "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "UK Rap",
+      "url": "https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2"
     },
     {
       "added_at": "2024-01-08 14:02:34",
@@ -1007,26 +1027,6 @@
       "duration_ms": 268320,
       "name": "No Estuviste En Lo Malo - REMIX",
       "url": "https://open.spotify.com/track/5hyKw9bjqXCcIxAoDmAxMJ"
-    },
-    {
-      "added_at": "2024-01-08 14:02:34",
-      "album": {
-        "name": "YOUNGSTA",
-        "url": "https://open.spotify.com/album/65dEDwbxXWzx93f6Vs5A0Q"
-      },
-      "artists": [
-        {
-          "name": "UZI",
-          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
-        },
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        }
-      ],
-      "duration_ms": 172427,
-      "name": "SIMARIK",
-      "url": "https://open.spotify.com/track/5m0FBZ3g71Tv2v5XYZ4pKv"
     },
     {
       "added_at": "2024-01-08 14:02:34",
@@ -1879,22 +1879,30 @@
     {
       "added_at": "2024-01-08 14:02:34",
       "album": {
-        "name": "Pussy Don't Lie (from the Netflix Series \"Big Mouth\")",
-        "url": "https://open.spotify.com/album/1BrbqpyUhXOquJzNd4rEza"
+        "name": "Drouba",
+        "url": "https://open.spotify.com/album/5QbXvUKcQ2U4keYNtxYhlM"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Benzz",
+          "url": "https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh"
         },
         {
-          "name": "Big Mouth Cast",
-          "url": "https://open.spotify.com/artist/1DqX6y6PeSke9Y3ojgq95w"
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "3robi",
+          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
         }
       ],
-      "duration_ms": 141472,
-      "name": "Pussy Don't Lie (from the Netflix Series \"Big Mouth\")",
-      "url": "https://open.spotify.com/track/1FOwWRFyJQh0EHthcdlcVE"
+      "duration_ms": 176218,
+      "name": "Drouba",
+      "url": "https://open.spotify.com/track/0cU27Hge710bbX3BzDi4Io"
     },
     {
       "added_at": "2024-01-08 14:02:34",
@@ -1939,30 +1947,22 @@
     {
       "added_at": "2024-01-08 14:02:34",
       "album": {
-        "name": "Drouba",
-        "url": "https://open.spotify.com/album/5QbXvUKcQ2U4keYNtxYhlM"
+        "name": "Pussy Don't Lie (from the Netflix Series \"Big Mouth\")",
+        "url": "https://open.spotify.com/album/1BrbqpyUhXOquJzNd4rEza"
       },
       "artists": [
         {
-          "name": "Benzz",
-          "url": "https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         },
         {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        },
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        },
-        {
-          "name": "3robi",
-          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
+          "name": "Big Mouth Cast",
+          "url": "https://open.spotify.com/artist/1DqX6y6PeSke9Y3ojgq95w"
         }
       ],
-      "duration_ms": 176218,
-      "name": "Drouba",
-      "url": "https://open.spotify.com/track/0cU27Hge710bbX3BzDi4Io"
+      "duration_ms": 141472,
+      "name": "Pussy Don't Lie (from the Netflix Series \"Big Mouth\")",
+      "url": "https://open.spotify.com/track/1FOwWRFyJQh0EHthcdlcVE"
     },
     {
       "added_at": "2024-01-08 14:02:34",
@@ -2075,26 +2075,6 @@
     {
       "added_at": "2024-01-08 14:02:34",
       "album": {
-        "name": "En attendant Corleone",
-        "url": "https://open.spotify.com/album/5Oc5pZozY1jhj7QCyTakPk"
-      },
-      "artists": [
-        {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
-        },
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        }
-      ],
-      "duration_ms": 174280,
-      "name": "JOHN GOTTI (feat. Baby Gang)",
-      "url": "https://open.spotify.com/track/0f3DsHmOK9nzTiVU1Vvbil"
-    },
-    {
-      "added_at": "2024-01-08 14:02:34",
-      "album": {
         "name": "Don\u2019t Lie (feat. Nemzzz)",
         "url": "https://open.spotify.com/album/7bzUwFGHev9gNvoFaQVXYa"
       },
@@ -2115,6 +2095,26 @@
     {
       "added_at": "2024-01-08 14:02:34",
       "album": {
+        "name": "En attendant Corleone",
+        "url": "https://open.spotify.com/album/5Oc5pZozY1jhj7QCyTakPk"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "duration_ms": 174280,
+      "name": "JOHN GOTTI (feat. Baby Gang)",
+      "url": "https://open.spotify.com/track/0f3DsHmOK9nzTiVU1Vvbil"
+    },
+    {
+      "added_at": "2024-01-08 14:02:34",
+      "album": {
         "name": "Hope You Know",
         "url": "https://open.spotify.com/album/1Od4A4Vif26G3twKbIGJp2"
       },
@@ -2127,26 +2127,6 @@
       "duration_ms": 227184,
       "name": "Hope You Know",
       "url": "https://open.spotify.com/track/2Ge2ZhznMuO22wIQ9Z5Wql"
-    },
-    {
-      "added_at": "2024-01-08 14:02:34",
-      "album": {
-        "name": "Automatic RMX (feat. Baby Gang)",
-        "url": "https://open.spotify.com/album/3j6szanjkO1lTjsL6xAPeo"
-      },
-      "artists": [
-        {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
-        },
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        }
-      ],
-      "duration_ms": 130666,
-      "name": "Automatic RMX (feat. Baby Gang)",
-      "url": "https://open.spotify.com/track/0u3Hx0SSWhemODiuA7ZV14"
     },
     {
       "added_at": "2024-01-08 14:02:34",
@@ -2363,6 +2343,26 @@
       "duration_ms": 117839,
       "name": "BADMAN",
       "url": "https://open.spotify.com/track/3FEAgxuYNeFjKzwNqRcnwV"
+    },
+    {
+      "added_at": "2024-01-08 14:02:34",
+      "album": {
+        "name": "CARACAS",
+        "url": "https://open.spotify.com/album/5rvrYFIWTdEb3XsC38jtOe"
+      },
+      "artists": [
+        {
+          "name": "ASHE 22",
+          "url": "https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "CARACAS",
+      "url": "https://open.spotify.com/track/17vItZcGnnlgsoV7HWhUF2"
     }
   ],
   "unique_name": "Rap Internazionale",

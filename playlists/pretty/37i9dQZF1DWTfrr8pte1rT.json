@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop. Cover: Steve Aoki and Yellowcard \\m/",
-  "num_followers": 322373,
+  "num_followers": 322302,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDJmNGJiNmIzMjQ2NzliZTQ5NTIxNTczOTNhYzQ1YTk4YjU0N2Qx",
+  "snapshot_id": "MCxkOTVhNWJiMDE2OWNlODAzYTRmMzk3YmVlZTI4OWYzYjJlOTNlNzFk",
   "tracks": [
     {
       "added_at": "2024-01-05 22:44:32",
@@ -1559,6 +1559,26 @@
     {
       "added_at": "2024-01-05 22:44:32",
       "album": {
+        "name": "The Great Electronic Swindle",
+        "url": "https://open.spotify.com/album/2scV487TMD9hf0uSXcxwP3"
+      },
+      "artists": [
+        {
+          "name": "The Bloody Beetroots",
+          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+        },
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "duration_ms": 167343,
+      "name": "My Name Is Thunder",
+      "url": "https://open.spotify.com/track/4omeVZmvBUPPlK10CSnmFZ"
+    },
+    {
+      "added_at": "2024-01-05 22:44:32",
+      "album": {
         "name": "Light Up The Sky (feat. Scott Stapp)",
         "url": "https://open.spotify.com/album/7IbNjX1uq9D7up01LHX0mw"
       },
@@ -1579,26 +1599,6 @@
       "duration_ms": 284425,
       "name": "Light Up The Sky (feat. Scott Stapp)",
       "url": "https://open.spotify.com/track/5ROUkE55LI83kG3ZRmAnum"
-    },
-    {
-      "added_at": "2024-01-05 22:44:32",
-      "album": {
-        "name": "The Great Electronic Swindle",
-        "url": "https://open.spotify.com/album/2scV487TMD9hf0uSXcxwP3"
-      },
-      "artists": [
-        {
-          "name": "The Bloody Beetroots",
-          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
-        },
-        {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
-        }
-      ],
-      "duration_ms": 167343,
-      "name": "My Name Is Thunder",
-      "url": "https://open.spotify.com/track/4omeVZmvBUPPlK10CSnmFZ"
     },
     {
       "added_at": "2024-01-05 22:44:32",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2024-01-05 22:44:32",
       "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs"
-      },
-      "artists": [
-        {
-          "name": "Elephante",
-          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
-        },
-        {
-          "name": "SABAI",
-          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
-        }
-      ],
-      "duration_ms": 230344,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W"
-    },
-    {
-      "added_at": "2024-01-05 22:44:32",
-      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/6MlwwEzsLHkt4cfzQDfMpO"
       },
@@ -1743,18 +1723,22 @@
     {
       "added_at": "2024-01-05 22:44:32",
       "album": {
-        "name": "Enemy Brain Entertainment Suite",
-        "url": "https://open.spotify.com/album/1wOfvS8Y6lJbwmyGnjvW1b"
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs"
       },
       "artists": [
         {
-          "name": "Fox Stevenson",
-          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
         }
       ],
-      "duration_ms": 251511,
-      "name": "Enemy Brain",
-      "url": "https://open.spotify.com/track/0Ut7NNgAIlY9RGeXIvNfXF"
+      "duration_ms": 230344,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W"
     },
     {
       "added_at": "2024-01-05 22:44:32",
@@ -1775,6 +1759,22 @@
       "duration_ms": 209454,
       "name": "Regret - Remix",
       "url": "https://open.spotify.com/track/3ga6vzCNgs6nPlbDy3xQlF"
+    },
+    {
+      "added_at": "2024-01-05 22:44:32",
+      "album": {
+        "name": "Enemy Brain Entertainment Suite",
+        "url": "https://open.spotify.com/album/1wOfvS8Y6lJbwmyGnjvW1b"
+      },
+      "artists": [
+        {
+          "name": "Fox Stevenson",
+          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
+        }
+      ],
+      "duration_ms": 251511,
+      "name": "Enemy Brain",
+      "url": "https://open.spotify.com/track/0Ut7NNgAIlY9RGeXIvNfXF"
     },
     {
       "added_at": "2024-01-05 22:44:32",
@@ -2139,22 +2139,22 @@
     {
       "added_at": "2024-01-05 22:44:32",
       "album": {
-        "name": "Hearteater",
-        "url": "https://open.spotify.com/album/07nDVEKSCJsJRwnkH86CFa"
+        "name": "Better Than Before",
+        "url": "https://open.spotify.com/album/2iIAoh0eHpxToEAWhqT1Up"
       },
       "artists": [
         {
-          "name": "Whales",
-          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+          "name": "SayWeCanFly",
+          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
         },
         {
-          "name": "Qoiet",
-          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
+          "name": "Vanthe",
+          "url": "https://open.spotify.com/artist/6xfkmjpCqO7BmqQr4n01yE"
         }
       ],
-      "duration_ms": 217394,
-      "name": "Hearteater",
-      "url": "https://open.spotify.com/track/6MOxVSR91hsELyBKwJPvPB"
+      "duration_ms": 164897,
+      "name": "Better Than Before",
+      "url": "https://open.spotify.com/track/4CGFRDPBkjTjU1eUmMsZDh"
     },
     {
       "added_at": "2024-01-05 22:44:32",
@@ -2179,22 +2179,22 @@
     {
       "added_at": "2024-01-05 22:44:32",
       "album": {
-        "name": "Better Than Before",
-        "url": "https://open.spotify.com/album/2iIAoh0eHpxToEAWhqT1Up"
+        "name": "Hearteater",
+        "url": "https://open.spotify.com/album/07nDVEKSCJsJRwnkH86CFa"
       },
       "artists": [
         {
-          "name": "SayWeCanFly",
-          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
         },
         {
-          "name": "Vanthe",
-          "url": "https://open.spotify.com/artist/6xfkmjpCqO7BmqQr4n01yE"
+          "name": "Qoiet",
+          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
         }
       ],
-      "duration_ms": 164897,
-      "name": "Better Than Before",
-      "url": "https://open.spotify.com/track/4CGFRDPBkjTjU1eUmMsZDh"
+      "duration_ms": 217394,
+      "name": "Hearteater",
+      "url": "https://open.spotify.com/track/6MOxVSR91hsELyBKwJPvPB"
     },
     {
       "added_at": "2024-01-05 22:44:32",
@@ -2371,6 +2371,22 @@
     {
       "added_at": "2024-01-05 22:44:32",
       "album": {
+        "name": "Loving You Kills Me",
+        "url": "https://open.spotify.com/album/0r0NYM9gZnVJbFsvLG9T7w"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 174657,
+      "name": "Loving You Kills Me",
+      "url": "https://open.spotify.com/track/2HoQChs4cvAVWKidJRrGV9"
+    },
+    {
+      "added_at": "2024-01-05 22:44:32",
+      "album": {
         "name": "Dead Man Walking Pt. 1",
         "url": "https://open.spotify.com/album/5Rulijsb8lWwqPSFbzEHgD"
       },
@@ -2427,18 +2443,18 @@
     {
       "added_at": "2024-01-05 22:44:32",
       "album": {
-        "name": "Loving You Kills Me",
-        "url": "https://open.spotify.com/album/0r0NYM9gZnVJbFsvLG9T7w"
+        "name": "Get To U",
+        "url": "https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB"
       },
       "artists": [
         {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+          "name": "Papa Khan",
+          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
         }
       ],
-      "duration_ms": 174657,
-      "name": "Loving You Kills Me",
-      "url": "https://open.spotify.com/track/2HoQChs4cvAVWKidJRrGV9"
+      "duration_ms": 176008,
+      "name": "Get To U",
+      "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
     },
     {
       "added_at": "2024-01-05 22:44:32",
@@ -2459,22 +2475,6 @@
       "duration_ms": 215172,
       "name": "Eyes Wide Shut",
       "url": "https://open.spotify.com/track/68AtIcLB6l2fs7o0zDS0KX"
-    },
-    {
-      "added_at": "2024-01-05 22:44:32",
-      "album": {
-        "name": "Get To U",
-        "url": "https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB"
-      },
-      "artists": [
-        {
-          "name": "Papa Khan",
-          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
-        }
-      ],
-      "duration_ms": 176008,
-      "name": "Get To U",
-      "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
     },
     {
       "added_at": "2024-01-05 22:44:32",

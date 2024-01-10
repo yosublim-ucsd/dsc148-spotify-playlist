@@ -1,12 +1,12 @@
 {
   "description": "90\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 11534,
+  "num_followers": 11546,
   "original_name": "90\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2M0ZTA0MGQ3YTI4OTE4NmRiNmI3NWFkZDZlMTFjNDMyMWQ1ZTdm",
+  "snapshot_id": "MCwyMjdmNzE0YmRlYzcyYTA0OTdjN2M5ZDdkZTgwNjg4MjcwYjllMzRk",
   "tracks": [
     {
       "added_at": "2021-03-11 16:28:13",
@@ -267,8 +267,8 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "BORN AGAIN",
-        "url": "https://open.spotify.com/album/5t40BdoTOPrSnUcWDoGA6o"
+        "name": "PERFECT LOVE",
+        "url": "https://open.spotify.com/album/5a9jEV89Z6yWa6zxam79of"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
         }
       ],
-      "duration_ms": 260832,
-      "name": "December",
-      "url": "https://open.spotify.com/track/5rpFNrOoB6rVKc0K8Gv9Qx"
+      "duration_ms": 200097,
+      "name": "White love",
+      "url": "https://open.spotify.com/track/3DMDjAQIOltnIUvIyUjUT4"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -395,8 +395,8 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "PERFECT LOVE",
-        "url": "https://open.spotify.com/album/5a9jEV89Z6yWa6zxam79of"
+        "name": "BORN AGAIN",
+        "url": "https://open.spotify.com/album/5t40BdoTOPrSnUcWDoGA6o"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
         }
       ],
-      "duration_ms": 200097,
-      "name": "White love",
-      "url": "https://open.spotify.com/track/3DMDjAQIOltnIUvIyUjUT4"
+      "duration_ms": 260832,
+      "name": "December",
+      "url": "https://open.spotify.com/track/5rpFNrOoB6rVKc0K8Gv9Qx"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -767,22 +767,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "NEW SENSATION",
-        "url": "https://open.spotify.com/album/42TDA9jm3vXiUbc2FIWrVD"
-      },
-      "artists": [
-        {
-          "name": "TURBO",
-          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
-        }
-      ],
-      "duration_ms": 243095,
-      "name": "Twist king",
-      "url": "https://open.spotify.com/track/4hTrNbqzskHUuq0Jz0XroB"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "Seotaiji and Boys",
         "url": "https://open.spotify.com/album/53OG0dLStOizLfNxsD3LPr"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 204320,
       "name": "I Know - 92 TV Edit",
       "url": "https://open.spotify.com/track/28v5XsF5Weg0SeXK3xSKcV"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "NEW SENSATION",
+        "url": "https://open.spotify.com/album/42TDA9jm3vXiUbc2FIWrVD"
+      },
+      "artists": [
+        {
+          "name": "TURBO",
+          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
+        }
+      ],
+      "duration_ms": 243095,
+      "name": "Twist king",
+      "url": "https://open.spotify.com/track/4hTrNbqzskHUuq0Jz0XroB"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -863,22 +863,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Seotaiji and Boys II",
-        "url": "https://open.spotify.com/album/2Jtnnru7rcvRnU4tywT4X7"
-      },
-      "artists": [
-        {
-          "name": "Seo Taiji and Boys",
-          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
-        }
-      ],
-      "duration_ms": 277160,
-      "name": "To You",
-      "url": "https://open.spotify.com/track/35gsxb0rqBnLX7G3TwCulU"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "LOVE - The 3rd Album",
         "url": "https://open.spotify.com/album/0CCksGwhBwxJlwvpkjw7VR"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 265116,
       "name": "\uc120\ubb3c",
       "url": "https://open.spotify.com/track/50v7kJct6JL1Sm9nxml41L"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "Seotaiji and Boys II",
+        "url": "https://open.spotify.com/album/2Jtnnru7rcvRnU4tywT4X7"
+      },
+      "artists": [
+        {
+          "name": "Seo Taiji and Boys",
+          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
+        }
+      ],
+      "duration_ms": 277160,
+      "name": "To You",
+      "url": "https://open.spotify.com/track/35gsxb0rqBnLX7G3TwCulU"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Seotaiji and Boys II",
-        "url": "https://open.spotify.com/album/2Jtnnru7rcvRnU4tywT4X7"
-      },
-      "artists": [
-        {
-          "name": "Seo Taiji and Boys",
-          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
-        }
-      ],
-      "duration_ms": 314933,
-      "name": "Anyhow Song",
-      "url": "https://open.spotify.com/track/0FGrzqdJWFAzO6JTWttcWM"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "\ud64d\uacbd\ubbfc Vol. 3",
         "url": "https://open.spotify.com/album/0LGwglKMxT0zZ97bzAzjMU"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 243200,
       "name": "Shaky Friendship - Euru Remix Version",
       "url": "https://open.spotify.com/track/2XfDYBZioldmlLDb2EfWPC"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "Seotaiji and Boys II",
+        "url": "https://open.spotify.com/album/2Jtnnru7rcvRnU4tywT4X7"
+      },
+      "artists": [
+        {
+          "name": "Seo Taiji and Boys",
+          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
+        }
+      ],
+      "duration_ms": 314933,
+      "name": "Anyhow Song",
+      "url": "https://open.spotify.com/track/0FGrzqdJWFAzO6JTWttcWM"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Seotaiji and Boys",
-        "url": "https://open.spotify.com/album/53OG0dLStOizLfNxsD3LPr"
-      },
-      "artists": [
-        {
-          "name": "Seo Taiji and Boys",
-          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
-        }
-      ],
-      "duration_ms": 227666,
-      "name": "I Know - Club Mix",
-      "url": "https://open.spotify.com/track/5p0EAPiH5jFWsZRntqfsLg"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "Myself",
         "url": "https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 229630,
       "name": "\uc139\uc2dc\ud55c \ub0a8\uc790",
       "url": "https://open.spotify.com/track/4KA4iwe4NeFptO6mnDfvbI"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "Seotaiji and Boys",
+        "url": "https://open.spotify.com/album/53OG0dLStOizLfNxsD3LPr"
+      },
+      "artists": [
+        {
+          "name": "Seo Taiji and Boys",
+          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
+        }
+      ],
+      "duration_ms": 235013,
+      "name": "As the Night Goes On",
+      "url": "https://open.spotify.com/track/1uczIRSpydgkLAi8kfAwwV"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "\ud654\uc0b0",
-        "url": "https://open.spotify.com/album/05cmrYERspfIVBw3Hx57DV"
-      },
-      "artists": [
-        {
-          "name": "Park Sang Min",
-          "url": "https://open.spotify.com/artist/7nbE2lMt1tbp5y3Uivn0bu"
-        }
-      ],
-      "duration_ms": 265508,
-      "name": "\ubb34\uae30\uc5ec \uc798 \uc788\uac70\ub77c",
-      "url": "https://open.spotify.com/track/2r6mL74mX7G7BMAPqXBPsF"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "\uc0ac\ub791\ub9cc\uc0ac",
         "url": "https://open.spotify.com/album/6aJnz5ARKUGudgHG9Uquup"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 218026,
       "name": "\ub108\uc5d0\uac8c \uc6d0\ud55c\uac74",
       "url": "https://open.spotify.com/track/7hz9BEXxvhQtDkBhx0FHja"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "\ud654\uc0b0",
+        "url": "https://open.spotify.com/album/05cmrYERspfIVBw3Hx57DV"
+      },
+      "artists": [
+        {
+          "name": "Park Sang Min",
+          "url": "https://open.spotify.com/artist/7nbE2lMt1tbp5y3Uivn0bu"
+        }
+      ],
+      "duration_ms": 265508,
+      "name": "\ubb34\uae30\uc5ec \uc798 \uc788\uac70\ub77c",
+      "url": "https://open.spotify.com/track/2r6mL74mX7G7BMAPqXBPsF"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
+        "name": "Come Come Come baby",
+        "url": "https://open.spotify.com/album/0SwgQkiMgFLn7dLKj0yOcW"
+      },
+      "artists": [
+        {
+          "name": "Baby V.O.X",
+          "url": "https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo"
+        }
+      ],
+      "duration_ms": 231888,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/7fKZEW2QI7hdRITkMJZY9N"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
         "name": "Drunken Tiger Best",
         "url": "https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq"
       },
@@ -1523,22 +1539,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Come Come Come baby",
-        "url": "https://open.spotify.com/album/0SwgQkiMgFLn7dLKj0yOcW"
-      },
-      "artists": [
-        {
-          "name": "Baby V.O.X",
-          "url": "https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo"
-        }
-      ],
-      "duration_ms": 231888,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/7fKZEW2QI7hdRITkMJZY9N"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "Welcome To The Sechskies Land",
         "url": "https://open.spotify.com/album/34MZoibtbiSndywYTeCiHm"
       },
@@ -1555,8 +1555,8 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Suprise Party Collection",
-        "url": "https://open.spotify.com/album/0jmnDcZzDE0s4fjsXOR0QX"
+        "name": "Click-B 1st",
+        "url": "https://open.spotify.com/album/1wD0a0lKZALago4fMCkoSA"
       },
       "artists": [
         {
@@ -1564,9 +1564,9 @@
           "url": "https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w"
         }
       ],
-      "duration_ms": 208927,
-      "name": "Cowboy",
-      "url": "https://open.spotify.com/track/6pBKrXpNe0BHNfi8hJ5IEY"
+      "duration_ms": 241826,
+      "name": "Fogetten Love",
+      "url": "https://open.spotify.com/track/4EpwZakcikSrgDCqcLXAok"
     },
     {
       "added_at": "2021-03-11 16:28:13",

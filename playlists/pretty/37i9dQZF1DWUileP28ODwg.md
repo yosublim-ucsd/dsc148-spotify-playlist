@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: <a href="spotify:artist:61SFRZAmfyJhcffwR2Ijuq">Jason Crabb</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,505 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,347 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 62 | [Where You Are](https://open.spotify.com/track/4IjgGxTQDs9Bf31TGtdxOv) | [Mitch Langley](https://open.spotify.com/artist/3LtLqBXTdKiroUNFlqZLOM), [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR), [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [Where You Are](https://open.spotify.com/album/3aOI1EJVtokwfq2tob9xkQ) | 2:27 |
 | 63 | [Seasons](https://open.spotify.com/track/4BN0k321aIFLpaxxtwO23x) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Hills Of Tyrone](https://open.spotify.com/album/7jiDpHKjW1ZitkptGTpp2v) | 3:29 |
 | 64 | [Hurt Is](https://open.spotify.com/track/6JFX5E32owJBYbL4OSOVtC) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Hurt Is](https://open.spotify.com/album/5Q0cqBHZTVVKuyOnbDqJ1b) | 3:03 |
-| 65 | [I Need You](https://open.spotify.com/track/06kXQ990nrIG8lXcyGQ4gd) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Seasons](https://open.spotify.com/album/0N7E7ssTnuxjKorNihxEXe) | 3:14 |
-| 66 | [You're Not Done](https://open.spotify.com/track/2sRC7NJqjECWTjC0G4lkTC) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2), [Charity Gayle](https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq) | [You're Not Done](https://open.spotify.com/album/1RvgJpfOjM3XjdYuhnXwoq) | 6:03 |
+| 65 | [You're Not Done](https://open.spotify.com/track/2sRC7NJqjECWTjC0G4lkTC) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2), [Charity Gayle](https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq) | [You're Not Done](https://open.spotify.com/album/1RvgJpfOjM3XjdYuhnXwoq) | 6:03 |
+| 66 | [I Need You](https://open.spotify.com/track/06kXQ990nrIG8lXcyGQ4gd) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Seasons](https://open.spotify.com/album/0N7E7ssTnuxjKorNihxEXe) | 3:14 |
 | 67 | [Good Lord \(feat\. Katy Nichole\)](https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE), [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Good Lord](https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt) | 3:22 |
 | 68 | [Where The Glory Is](https://open.spotify.com/track/6q3EbtWexNnSwFMnN3ieuO) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Where The Glory Is](https://open.spotify.com/album/2aCqdPVHym6UbK4p1eHAtm) | 4:30 |
 | 69 | [The One](https://open.spotify.com/track/3ps5C4H9ak7YA8L4UI13Dl) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Empty Room](https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu) | 2:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 99 | [Praise The Lord](https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Praise The Lord](https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN) | 3:18 |
 | 100 | [To Not Worship You](https://open.spotify.com/track/5hPNvjfHsshgegY71cKdhO) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Always Only Jesus](https://open.spotify.com/album/1nBIuyrdndXAXnbldziVyD) | 3:45 |
 
-Snapshot ID: `MCw0YTUzM2FhYTAzZWVkMmY5NTFmZTg3NzBjOTIxYzk1MmYxY2E0YjA3`
+Snapshot ID: `MCxmYjBkNWYwNTFkYWMxNmU4NDZjNmM4MTRhMGM4ZGJkZTE5YzlkM2Yy`
